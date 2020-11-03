@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/14/2020
-ms.openlocfilehash: 453d6e130a6c563e7aac23cef1c7a91f8125fd9c
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.openlocfilehash: 4e78743c8dd03dd4540077aaa9f9d17799d1af80
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92749735"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795817"
 ---
 # <a name="october-2020-announcements"></a>Ogłoszenia 2020 października
 
@@ -45,7 +45,7 @@ Rosnące i zoptymalizowane program Microsoft Cloud Provider to ważna część n
 
 Dzisiaj udostępniamy kilka przyszłych zmian wymagań dotyczących bezpośrednich partnerów rozliczeniowych w programie dostawcy rozwiązań w chmurze.
 
-Najpierw **wprowadzamy standard wydajności w ramach wymagań partnerów bezpośrednich rozliczeń** . Partnerzy, którzy chcą zarejestrować się jako bezpośredni partnerzy rozliczeń w programie dostawcy rozwiązań w chmurze, muszą spełniać co najmniej USD300K w przychodach programu dostawcy rozwiązań w chmurze w ciągu 12 miesięcy przed ich [wymaganą](https://partner.microsoft.com/support/partnersupport) datą odnowienia umowy serwisowej.
+Najpierw **wprowadzamy standard wydajności w ramach wymagań partnerów bezpośrednich rozliczeń**. Partnerzy, którzy chcą zarejestrować się jako bezpośredni partnerzy rozliczeń w programie dostawcy rozwiązań w chmurze, muszą spełniać co najmniej USD300K w przychodach programu dostawcy rozwiązań w chmurze w ciągu 12 miesięcy przed ich [wymaganą](https://partner.microsoft.com/support/partnersupport) datą odnowienia umowy serwisowej.
 
 Ten standard wydajności zostanie uwzględniony w styczniu 2021 dla bieżących partnerów rozliczeniowych bezpośrednich i należy spełnić wymagania dotyczące daty odnowienia planu pomocy technicznej dla partnerów.
 
@@ -57,13 +57,13 @@ Po drugie, z powrotem do 2018 sierpnia, firma Microsoft zaktualizowała Wymagani
 
 ### <a name="direct-bill-partner-requirements"></a>Wymagania dotyczące partnerów rozliczeniowych bezpośrednich
 
-Zapoznaj się z [zaktualizowanymi wymaganiami dotyczącymi bezpośredniego partnera rachunkowego](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements) i zaleceniami, aby oceniać sposób kompilowania i zwiększania zyskowności firmy z odpowiednim modelem w programie dostawcy rozwiązań w chmurze:
+Zapoznaj się z [zaktualizowanymi wymaganiami dotyczącymi bezpośredniego partnera rachunkowego](../direct-partner-new-requirements.md#minimum-requirements) i zaleceniami, aby oceniać sposób kompilowania i zwiększania zyskowności firmy z odpowiednim modelem w programie dostawcy rozwiązań w chmurze:
 
 1. **nowe wymagania dotyczące wydajności przychodu**
 
 **Dotychczasowi partnerzy** , którzy są obecnie rejestrowani w programie dostawcy rozwiązań w chmurze, będą musieli spełnić nowe standardy wydajności od stycznia 2021. Będziesz mieć czas do momentu, aż zostanie osiągnięty termin odnowienia planu pomocy technicznej następnego partnera. Możesz przejrzeć końcowy przychód z 12 miesięcy w centrum partnerskim, postępując zgodnie z [tym przewodnikiem](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf).
 
-Nowi partnerzy rejestrowani w programie dostawcy rozwiązań w chmurze rozpoczną pracę od odsprzedawcy pośredniego, począwszy od **października 2020** . Muszą mieć co najmniej USD300K w przychodach dostawcy usług kryptograficznych w ciągu ostatnich 12 miesięcy. Możesz przejrzeć końcowy przychód 12-miesięczny w centrum partnerskim, postępując zgodnie z [tym przewodnikiem](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf). 
+Nowi partnerzy rejestrowani w programie dostawcy rozwiązań w chmurze rozpoczną pracę od odsprzedawcy pośredniego, począwszy od **października 2020**. Muszą mieć co najmniej USD300K w przychodach dostawcy usług kryptograficznych w ciągu ostatnich 12 miesięcy. Możesz przejrzeć końcowy przychód 12-miesięczny w centrum partnerskim, postępując zgodnie z [tym przewodnikiem](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf). 
 
 2. **wymagania umowy dotyczącej pomocy technicznej** 
 
@@ -80,11 +80,11 @@ Porównaj [Opcje kontraktu pomocy technicznej](https://partner.microsoft.com/sup
 
 Aby zapewnić gotowość i wiedzę o infrastrukturze wymaganej do obsługi programu Direct Bill, mamy kilka dodatkowych zaleceń. Zaprezentuj, że podajesz co najmniej jedną zarządzaną aplikację, usługę IP lub rozwiązanie klienta. Partnerzy powinni dodać wartość na Microsoft Cloud usług, a nie tylko bezpośrednio odsprzedaż naszych usług. Jest to ważna część strategii przechodzenia do rynku partnera. [Dowiedz się więcej](https://partner.microsoft.com/solutions/managed-services) na temat dodawania usług zarządzanych. Zalecamy spełnienie minimalnych możliwości infrastruktury, takich jak rozliczenia i Inicjowanie obsługi administracyjnej. 
 
-Bezpośredni partnerzy Bill w programie CSP, którzy nie spełniają nowych wymagań, będą musieli ponownie zarejestrować się jako pośrednich odsprzedawca w programie w ramach Microsoft Partner Network. [Dowiedz się więcej](https://docs.microsoft.com/partner-center/transition-direct-to-indirect) o tym, jak można dokonać przejścia z bezpośredniego partnera rozliczeniowego do pośredniego odsprzedawcy.  
+Bezpośredni partnerzy Bill w programie CSP, którzy nie spełniają nowych wymagań, będą musieli ponownie zarejestrować się jako pośrednich odsprzedawca w programie w ramach Microsoft Partner Network. [Dowiedz się więcej](../transition-direct-to-indirect.md) o tym, jak można dokonać przejścia z bezpośredniego partnera rozliczeniowego do pośredniego odsprzedawcy.  
 
 ### <a name="next-steps"></a>Następne kroki
 
-- Zapoznaj się z [zaktualizowanymi wymaganiami partnera bezpośredniego rachunku](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements).
+- Zapoznaj się z [zaktualizowanymi wymaganiami partnera bezpośredniego rachunku](../direct-partner-new-requirements.md#minimum-requirements).
 - Zapoznaj się z często zadawanymi pytaniami i innymi informacjami w [galerii zasobów operacyjnych w witrynie sieci Web partnera firmy Microsoft](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/).
 - Znajdź [dostawcę pośredniego, z którym chcesz pracować](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider) , jeśli opcja odsprzedawca pośredni pasuje do potrzeb Twojej firmy.
 ________________________________
@@ -232,7 +232,7 @@ Te promocje mają wpływ na następujących klientów:
 #### <a name="additional-resources"></a>Dodatkowe zasoby
 
 - Odwiedź [stronę Microsoft 365 Business partnera komunikacji głosowej](https://www.microsoft.com/microsoft-365/partners/businessvoice) , aby dowiedzieć się więcej o głosowaniu biznesowym. 
-- Aby dowiedzieć się więcej o [możliwościach konferencji audio](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365), zobacz konferencje audio w Microsoft 365.
+- Aby dowiedzieć się więcej o [możliwościach konferencji audio](/microsoftteams/audio-conferencing-in-office-365), zobacz konferencje audio w Microsoft 365.
 - Więcej informacji na temat tych promocji znajdziesz na stronie [często powiązanych partnerów](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo).
 
 ### <a name="next-steps"></a>Następne kroki
@@ -273,7 +273,7 @@ Oto nowości Nowość w Azure Portal:
 
 - Elastyczna Nawigacja, która umożliwia wyświetlanie, edytowanie i zapisywanie informacji w dowolnej sekcji bez konieczności wykonywania poprzedniej sekcji.
 - Nowy widok pełnej strony bez wielu poziomów zagnieżdżonych.
-- Nowe funkcje do tagów i organizowania zasobów platformy Azure. Aby dowiedzieć się więcej na temat tagowania, zobacz [Używanie tagów do organizowania zasobów platformy Azure](https://docs.microsoft.com/azure/azure-resource-manager/management/tag-resources).
+- Nowe funkcje do tagów i organizowania zasobów platformy Azure. Aby dowiedzieć się więcej na temat tagowania, zobacz [Używanie tagów do organizowania zasobów platformy Azure](/azure/azure-resource-manager/management/tag-resources).
 
 Jeśli masz pytania dotyczące tych zmian, skontaktuj się z naszym [zespołem pomocy technicznej](https://aka.ms/marketplacepublishersupport).
 
@@ -490,7 +490,7 @@ Partnerzy dostawcy rozwiązań w chmurze (CSP)
 
 - Aby uzyskać szczegółowe informacje o IDENTYFIKATORze oferty, Przejrzyj kartę operacje projektu w dokumencie programu [Dynamics CSP Offers-November 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) w programie Excel.
 - Więcej informacji znajdziesz na [stronie głównej głosu klienta systemu Microsoft Dynamics 365](https://dynamics.microsoft.com/customer-voice/overview/).
-- Zapoznaj się z [nowym ogłoszeniem](https://docs.microsoft.com/partner-center/announcements/2020-september#3)w usłudze Dynamics wrzesień.
+- Zapoznaj się z [nowym ogłoszeniem](2020-september.md#3)w usłudze Dynamics wrzesień.
 
 ________________
 

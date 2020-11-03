@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 10/28/2020
-ms.openlocfilehash: 760e0157437dbad74c779100123b4239083ca6b7
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.date: 10/29/2020
+ms.openlocfilehash: 7b965bff0a962e26e5e5800a6059e4a6fc7a1d6a
+ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917148"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "93045374"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Wymagania dotyczące rejestracji jako partner CSP rozliczający się bezpośrednio
 
@@ -24,27 +24,26 @@ ms.locfileid: "92917148"
 
 ## <a name="enroll-as-a-direct-partner"></a>Zarejestruj się jako partner bezpośredni
 
-Jako bezpośredni partner rozliczeniowy jesteś członkiem kompleksowej relacji z klientem i firmą Microsoft. Zaktualizowaliśmy wymagania dotyczące rejestracji dla partnerów bezpośrednich rozliczeń od 31 sierpnia 2018. Te nowe wymagania ułatwią przyspieszenie rozwoju firmy przy użyciu odpowiedniego modelu rejestracji dostawcy usług kryptograficznych. Ułatwią one również wzmocnienie relacji z klientami dzięki usługom dodanym i pomoc techniczną.
+Jako bezpośredni partner rozliczeniowy jesteś członkiem kompleksowej relacji z klientem i firmą Microsoft. Jako bezpośredni partner rozliczeniowy jesteś członkiem kompleksowej relacji z klientem i firmą Microsoft. Zaktualizowaliśmy wymagania dotyczące rejestracji dla partnerów bezpośrednich rozliczeń od 27 października 2020. Te wymagania ułatwią zwiększenie rozwoju firmy przy użyciu odpowiedniego modelu dostawcy rozwiązań w chmurze i wzmocnienie relacji z klientami dzięki usługom i obsłudze.  
 
 ### <a name="minimum-requirements"></a>Minimalne wymagania
 
-|**Wymaganie**| **Wyjaśnienie**|
+|**Wymaganie**|                |
 |--------------------------------|--------------------------------------------------------------|
-|**Identyfikator MPN**   |Identyfikator aktywnego Microsoft Partner Network (MPN) dla lokalizacji biznesowej.    |
+|**Identyfikator MPN**   |Aktywne członkostwo w Microsoft Partner Network i identyfikator MPN dla lokalizacji, w której chcesz sprzedawać.   |
 |**Poręczenie**   |Urząd do akceptowania i podpisywania umów prawnych w imieniu organizacji.|
-|**Zysk**|Musi spełniać co najmniej USD300K w okresie rocznym programu dostawcy rozwiązań w chmurze w ciągu poprzednich 12 miesięcy jako pośredniego odsprzedawcy. Partnerzy mogą przeglądać swoje końcowe dwanaście miesięcy w centrum partnerskim. sprzedaż, która składa się z 12-miesięcznego przychodu USD300K, podlega przeglądowi i sprawdzeniu przez firmę Microsoft, a użytkownik może zostać poproszony o podanie dodatkowych informacji. Wymagania dotyczące przychodów USD300K są obliczane na podstawie przychodów w chmurze i wykluczają oprogramowanie bezterminowe w dostawcy usług kryptograficznych. Zapoznaj się z usługą [Subscription Analytics](https://partner.microsoft.com/dashboard/analytics/licenseanalytics) , aby uzyskać szczegółowe informacje dotyczące poprzedniego 12-miesięcznego przychodu.|
-|**Pomoc techniczna**   |Możliwość udostępnienia klientowi pierwszego poziomu pomocy technicznej w chmurze. <br/>Plan pomocy technicznej firmy Microsoft, zaawansowana pomoc techniczna dla partnerów (ASfP) lub pomoc techniczna Premier dla partnerów (PSfP), w zależności od potrzeb. [Porównaj plany pomocy technicznej](https://partner.microsoft.com/support/partnersupport).<br/> Ważne: aby móc kupić plan pomocy technicznej, musisz przekazać sprawdzenie kredytu. Wyślemy wiadomość e-mail po przekazaniu środków do sprawdzenia. |
-|**Usługa zarządzana**   |Co najmniej jedna aplikacja zarządzana, usługa IP lub rozwiązanie klienta. Dowiedz się więcej na temat dodawania [usług zarządzanych](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
+|**Pomoc techniczna**   |Możliwość udostępnienia klientowi pierwszego poziomu pomocy technicznej w chmurze. <br/>Plan pomocy technicznej firmy Microsoft, zaawansowana pomoc techniczna dla partnerów (ASfP) lub pomoc techniczna Premier dla partnerów (PSfP), w zależności od potrzeb. [Porównaj plany pomocy technicznej](https://partner.microsoft.com/support/partnersupport).<br/>Ważne: aby móc kupić plan pomocy technicznej, musisz przekazać sprawdzenie kredytu. Wyślemy wiadomość e-mail po przekazaniu środków do sprawdzenia. |
+|**Wymaganie dotyczące przychodu**|Musi spełniać co najmniej USD300K w okresie rocznym programu dostawcy rozwiązań w chmurze w ciągu poprzednich 12 miesięcy jako pośredniego odsprzedawcy. Partnerzy mogą przejrzeć okres 12 miesięcy w centrum partnerskim.<br/>Sprzedaż, która składa się z miesięcznego przychodu z USD300Ków, podlega przeglądowi i sprawdzeniu przez firmę Microsoft, a użytkownik może zostać poproszony o podanie dodatkowych informacji. Wymagania dotyczące przychodów USD300K są obliczane na podstawie przychodów w chmurze i wykluczają oprogramowanie bezterminowe w dostawcy usług kryptograficznych.|
 |**Rozliczenia kont** |Infrastruktura organizacyjna, w której można zarządzać rozliczeniami i inicjowaniem obsługi klienta.|
+|**Zalecenie**|             |
+|**Usługa zarządzana**   |Co najmniej jedna aplikacja zarządzana, usługa IP lub rozwiązanie klienta. Dowiedz się więcej na temat dodawania [usług zarządzanych](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
+
 
 ### <a name="verify-direct-bill-eligibility"></a>Weryfikuj uprawnienie bezpośrednie do rozliczania
 
-Jeśli jeszcze tego nie zrobiono, zapoznaj się z minimalnymi wymaganiami powyżej, aby upewnić się, że można je spełnić, a następnie wypełnij [kwestionariusz dostawcy rozwiązań w chmurze](https://partner.microsoft.com/cloud-solution-provider/assessment).
+Po sprawdzeniu, czy spełniasz minimalne wymagania, aby zarejestrować się jako partner bezpośredniego rozliczania, możesz przejoć do [formularza rejestracji](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global).
 
-Odpowiedzi na pytania w formularzu mogą pomóc nam określić uprawnienia do rejestracji w programie CSP jako partnera rozliczeniowego bezpośredniego.
-
-Po zweryfikowaniu, że firma spełniła wymagania dotyczące uprawnień do rejestracji jako partner bezpośredniego rozliczania, a aplikacja rejestracji została ukończona, zostanie przejrzane i zweryfikowane informacje biznesowe podane w procesie rejestracji. W ramach tego przeglądu sprawdzimy środki firmy. Powiadomimy Cię o tym pocztą e-mail, gdy firma przebiegła kontrolę kredytu.
-
+Po zweryfikowaniu, że firma spełnia wymagania dotyczące uprawnień do rejestracji jako partner bezpośredniego rozliczania, a aplikacja rejestracji została ukończona, zostanie przejrzane i zweryfikowane informacje biznesowe podane w procesie rejestracji. W ramach tego przeglądu sprawdzimy środki firmy. Powiadomimy Cię o tym pocztą e-mail, gdy firma przebiegła kontrolę kredytu.
 >[!IMPORTANT]
 >Sprawdzenie kredytu firmy może potrwać kilka dni lub więcej. W tym czasie ważne jest, aby nie kupić planu pomocy technicznej firmy Microsoft. Plan pomocy technicznej firmy Microsoft należy zakupić dopiero po powiadomieniu użytkownika o sprawdzeniu kredytu.
 
