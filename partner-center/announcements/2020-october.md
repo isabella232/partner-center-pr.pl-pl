@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/27/2020
-ms.openlocfilehash: f90c9ae32e68d6e772c51cede28237f500a0a7b9
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: d41ec7b7ce3c8f7140b0944b4d39150ef34a9d83
+ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917262"
+ms.locfileid: "93027911"
 ---
 # <a name="october-2020-announcements"></a>Ogłoszenia z października 2020 r.
 
@@ -23,6 +23,42 @@ Na tej stronie znajdują się szczegółowe informacje o powiadomieniach dla pro
 2020 anonse: [marzec](2020-march.md)  |  [kwiecień](2020-april.md)z  |  [maja](2020-may.md)  |  [czerwca](2020-june.md)z  |  [lipca](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md) Październik
 
 ______________
+
+## <a name="windows-10-education-upgrade-is-now-available-to-qualified-cloud-solution-provider-csp-education-customers"></a><a name="16"></a>Uaktualnienie systemu Windows 10 Education jest teraz dostępne dla uprawnionych klientów edukacyjnych dostawcy rozwiązań w chmurze (CSP)
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2020-10-28
+- Możliwości
+
+### <a name="summary"></a>Podsumowanie
+
+Partnerzy usług kryptograficznych, którzy zakupili Microsoft 365 a3/A5 lub Windows 10 Enterprise a3/A5, mogą teraz pomóc im uaktualnić swoje urządzenia z systemem Windows 10 Home do systemu Windows 10 Education.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Partnerzy usług kryptograficznych, którzy zakupili subskrypcję Microsoft 365 a3/A5 lub Windows 10 Enterprise a3/A5 dla swoich klientów edukacyjnych
+
+### <a name="details"></a>Szczegóły
+
+Od 1 listopada 2020, dostawcy usług kryptograficznych, którzy zakupili Microsoft 365 a3/A5 lub subskrypcję systemu Windows 10 Enterprise a3/A5, mogą ułatwić klientom edukacyjnym uaktualnienie z systemu Windows 10 Home do systemu Windows 10 Education, który jest przeznaczony do obsługi zarówno klasy, jak i zdalnego uczenia się.
+
+Od 1 listopada 2020 system Windows 10 Home będzie uprawniającym systemem operacyjnym dla klientów edukacyjnych licencjonowanych przez umowę Microsoft Cloudową (za pośrednictwem dostawcy usług kryptograficznych). To uprawnienie, które do tej pory było dostępne tylko w programach edukacyjnych licencjonowania zbiorowego (VL), zostało włączone za pośrednictwem pomocy technicznej portalu Microsoft 365. 
+
+#### <a name="how-the-upgrade-process-works"></a>Jak działa proces uaktualniania
+
+Partnerzy programu CSP mogą pomóc swoim klientom w uaktualnieniu przez przesłanie żądania pomocy technicznej w ich imieniu. Pomoc techniczna firmy Microsoft sprawdzi żądanie, aby upewnić się, że klient kwalifikuje się; Po zatwierdzeniu żądania udostępnimy mu klucz Windows 10 Pro Education dla klienta.
+
+Gdy klient zainstaluje klucz, a urządzenie jest przyłączone do domeny dzierżawy za pośrednictwem Azure Active Directory (AAD), urządzenie zostanie automatycznie uaktualnione do systemu Windows 10 Education (subskrypcja).   
+
+Szczegółowe informacje o sposobie uaktualniania klientów można znaleźć w [temacie Przewodnik krok po kroku i często zadawane pytania](../upgrade-windows-to-education.md).
+
+### <a name="next-steps"></a>Następne kroki
+
+- Poinformuj uprawnionych klientów i Przekieruj je w procesie krok po kroku.
+- Udostępnij te informacje odpowiednim osobom w organizacji.  
+
+________________
 
 ## <a name="refreshed-cloud-solution-provider-csp-digital-experience-now-available"></a><a name="15"></a>Odświeżono środowisko cyfrowe dla dostawcy rozwiązań w chmurze (CSP)
 

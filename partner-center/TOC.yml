@@ -295,9 +295,6 @@
         - name: Tworzenie potwierdzenia wykonania
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
-        - name: Przesyłanie faktury podatkowej jako potwierdzenie wykonania
-          href: incentives-tax-invoice-poe.md
-          displayName: 'incentives, invoice'
     - name: Roszczenia związane ze współpracą w ramach zachęt
       items:
         - name: Roszczenia związane ze współpracą w ramach zachęty
