@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/27/2020
-ms.openlocfilehash: 4877c3c21449c8b5cc4224973d159d70635d9262
-ms.sourcegitcommit: 4bff85c6a13a990d5eb6c4a4ef44e1013d06948e
+ms.openlocfilehash: f90c9ae32e68d6e772c51cede28237f500a0a7b9
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92903034"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917262"
 ---
 # <a name="october-2020-announcements"></a>Ogłoszenia z października 2020 r.
 
@@ -23,6 +23,38 @@ Na tej stronie znajdują się szczegółowe informacje o powiadomieniach dla pro
 2020 anonse: [marzec](2020-march.md)  |  [kwiecień](2020-april.md)z  |  [maja](2020-may.md)  |  [czerwca](2020-june.md)z  |  [lipca](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md) Październik
 
 ______________
+
+## <a name="refreshed-cloud-solution-provider-csp-digital-experience-now-available"></a><a name="15"></a>Odświeżono środowisko cyfrowe dla dostawcy rozwiązań w chmurze (CSP)
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2020-10-28
+- Możliwości
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Partnerzy CSP
+
+### <a name="details"></a>Szczegóły
+
+Firma Microsoft dokłada starań, aby pomóc naszym partnerom zmaksymalizować swój potencjał, stworzyć innowacyjne rozwiązania i zwiększyć sukces klientów w Microsoft Partner Network. Program Cloud Solution Provider (CSP) to jeden z naszych najszybszych programów z ponad 90 000 firmami uczestniczącymi.
+Aby przyspieszyć rozwój działalności partnerów w programie dostawcy rozwiązań w chmurze, wprowadzamy odświeżony interfejs programu Cloud Solution (CSP) w witrynie internetowej Microsoft Partner Network i nowy dostawca usług kryptograficznych Guidebook. To środowisko odnowionych i nowe zasoby ułatwią partnerom odblokowanie nowych szans i wydajniejsze zwiększenie działalności w programie CSP.
+
+Nowe środowisko cyfrowe będzie obejmować:
+
+- Odświeżono środowisko cyfrowe dostawcy usług kryptograficznych, aby przyspieszyć rozwój działalności partnerskiej: Strona odświeżony dostawca usług kryptograficznych oferuje usprawnione środowisko pracy związane z podróżą partnerów w przypadku rejestracji, praktyk kompilacji, przechodzenia do rynku i sprzedaży. Partnerzy mogą wzrosnąć swoje możliwości przychodu dzięki kampaniom korzystającym z sprzedaży, a także zasobom na rynku. Inne zasoby zintegrowane umożliwiają partnerom aktualizowanie i łatwe prowadzenie działalności w programie CSP.
+- Nowy program dostawcy rozwiązań w chmurze Guidebook, aby pomóc partnerom identyfikować nowe możliwości: Ten przewodnik krok po kroku zapewnia partnerom wskazówki dotyczące przyspieszania rozwoju firmy w chmurze za pomocą programu i zwiększania możliwości przychodów.
+- Zawartość programu CSP w obszarze roboczym rozwiązania: obszar roboczy rozwiązania to środowisko cyfrowe, które zapewnia pojedyncze miejsce docelowe dla zasobów na żądanie, co pozwala na szybsze wprowadzanie pomysłów na rynek. Teraz dostawcy usług mogą znaleźć zawartość i zasoby specyficzne dla programu CSP w obszarze roboczym rozwiązanie.
+
+### <a name="additional-resources"></a>Dodatkowe zasoby
+
+- Odwiedź [stronę odświeżony dostawca CSP](https://aka.ms/CSP) 
+- Zapoznaj [się z nowym programem CSP Guidebook](https://aka.ms/cspguidebook) i Dowiedz się więcej o możliwościach wzrostu
+- Rozpocznij korzystanie z obszaru roboczego rozwiązania do kompilowania swoich praktyk i Uprość kroki
+- Zwiększ liczbę kampanii dzięki zasobom korzystającym z sprzedaży 
+- Zachęć współpracowników do odwiedzenia strony CSP i udostępnienia powyższych zasobów w organizacji. Jeśli jesteś dostawcami pośrednimi, Podziel się zasobami z pośrednimi odsprzedawcami.
+
+________________
 
 ## <a name="october-2020-cloud-solution-provider-csp-software-subscriptions-price-list-updates"></a><a name="14"></a>Aktualizacje cennika subskrypcji oprogramowania dostawcy rozwiązań w chmurze 2020 (CSP)
 
