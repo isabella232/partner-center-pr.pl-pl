@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 10/09/2020
-ms.openlocfilehash: 98c9cdd96af037e8543828e3a6f2e93c5b0fcbcd
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.date: 10/28/2020
+ms.openlocfilehash: 760e0157437dbad74c779100123b4239083ca6b7
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795781"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917148"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Wymagania dotyczące rejestracji jako partner CSP rozliczający się bezpośrednio
 
@@ -28,11 +28,11 @@ Jako bezpośredni partner rozliczeniowy jesteś członkiem kompleksowej relacji 
 
 ### <a name="minimum-requirements"></a>Minimalne wymagania
 
-|**Wymaganie**|                             |
+|**Wymaganie**| **Wyjaśnienie**|
 |--------------------------------|--------------------------------------------------------------|
 |**Identyfikator MPN**   |Identyfikator aktywnego Microsoft Partner Network (MPN) dla lokalizacji biznesowej.    |
 |**Poręczenie**   |Urząd do akceptowania i podpisywania umów prawnych w imieniu organizacji.|
-|**Zysk**|Od stycznia 2021 partnerzy zarejestrowani jako bezpośredni partnerzy rozliczania muszą mieć co najmniej USD $300 tysięcy pozycji w przychodach programu dostawcy rozwiązań w chmurze na poziomie konta globalnego partnera w ciągu ostatnich 12 miesięcy.| 
+|**Zysk**|Musi spełniać co najmniej USD300K w okresie rocznym programu dostawcy rozwiązań w chmurze w ciągu poprzednich 12 miesięcy jako pośredniego odsprzedawcy. Partnerzy mogą przeglądać swoje końcowe dwanaście miesięcy w centrum partnerskim. sprzedaż, która składa się z 12-miesięcznego przychodu USD300K, podlega przeglądowi i sprawdzeniu przez firmę Microsoft, a użytkownik może zostać poproszony o podanie dodatkowych informacji. Wymagania dotyczące przychodów USD300K są obliczane na podstawie przychodów w chmurze i wykluczają oprogramowanie bezterminowe w dostawcy usług kryptograficznych. Zapoznaj się z usługą [Subscription Analytics](https://partner.microsoft.com/dashboard/analytics/licenseanalytics) , aby uzyskać szczegółowe informacje dotyczące poprzedniego 12-miesięcznego przychodu.|
 |**Pomoc techniczna**   |Możliwość udostępnienia klientowi pierwszego poziomu pomocy technicznej w chmurze. <br/>Plan pomocy technicznej firmy Microsoft, zaawansowana pomoc techniczna dla partnerów (ASfP) lub pomoc techniczna Premier dla partnerów (PSfP), w zależności od potrzeb. [Porównaj plany pomocy technicznej](https://partner.microsoft.com/support/partnersupport).<br/> Ważne: aby móc kupić plan pomocy technicznej, musisz przekazać sprawdzenie kredytu. Wyślemy wiadomość e-mail po przekazaniu środków do sprawdzenia. |
 |**Usługa zarządzana**   |Co najmniej jedna aplikacja zarządzana, usługa IP lub rozwiązanie klienta. Dowiedz się więcej na temat dodawania [usług zarządzanych](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
 |**Rozliczenia kont** |Infrastruktura organizacyjna, w której można zarządzać rozliczeniami i inicjowaniem obsługi klienta.|
@@ -55,6 +55,9 @@ Obecnie partnerzy bezpośrednich rachunków muszą spełniać nowe wymagania, ab
 W przypadku podjęcia decyzji o przejściu z usługi Direct Bill do pośredniej firmy odsprzedawcy należy wykonać kilka czynności. Aby dowiedzieć się więcej o przejściu, przejdź [do przechodzenia z usługi Cloud Solution Provider (CSP) bezpośrednio do pośredniego odsprzedawcy dostawcy CSP](transition-direct-to-indirect.md).
 
 ## <a name="next-steps"></a>Następne kroki
+
+- [Nowe wymaganie dotyczące przychodów dla partnerów Bill Direct](https://docs.microsoft.com/partner-center/announcements/2020-october#13)
+ 
 
 - [Dodatkowe informacje na temat pośredniego odsprzedawcy](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 

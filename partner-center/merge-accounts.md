@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795835"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189751"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Merge your partner account with another partner account (Scalanie konta partnera z kontem innego partnera)
 
@@ -98,18 +98,28 @@ W przypadku podjęcia decyzji o zaakceptowaniu zaproszenia do kont scalania: · 
   
     b. dzierżawa usługi Azure AD = @contoso.com
  
-    c. Kompetencja Gold, która wygaśnie 1 października, 2020
+    c. Kompetencja Gold, która wygaśnie 1 października 2020
 2. Fabricam
  
     a.  globalny identyfikator MPN 3333333 i dwie lokalizacje podrzędne MPN identyfikatory 4444444 i 5555555
 
-    b.  dzierżawa usługi AAD = @fabricam.com
+    b.  dzierżawa usługi Azure AD = @fabricam.com
 
-    c.  dwie kompetencje Gold, które wygasną z grudnia 1.2020
-3.  Firma Contoso kupuje fabricam i umieszcza je w [tym miejscu](https://partner.microsoft.com/dashboard/account/merger) , aby zainicjować żądanie scalania
+    c.  dwie kompetencje Gold, które wygasną od 1 grudnia 2020
+3.  Firma Contoso kupuje fabricam i umieszcza je w [tym miejscu](https://partner.microsoft.com/dashboard/account/merger) , aby zainicjować żądanie scalania.
 4.  Fabricam się do Centrum partnerskiego i przechodzi do tej samej strony, co firma Contoso w kroku #3, aby zatwierdzić żądanie firmy Contoso.
 5.  Firma Contoso przegląda szczegóły scalania na tej samej stronie i podaje potwierdzenie, aby kontynuować łączenie się z usługą.
+6.  Po scaleniu konto firmowe będzie wyświetlane jako:
+
+    a.  Firma o nazwie contoso z globalnym IDENTYFIKATORem MPN 1111111 i 4 podrzędną lokalizację MPN identyfikatory 2222222, 3333333, 4444444 i 5555555
     
+    b.  Będą mieć dwie dzierżawy usługi Azure AD ( @contoso.com + @fabricam.com ), które mają dostęp do tego samego konta Centrum partnerskiego
+    
+    c.  Będzie on miał dwa pakiety, które wygaśnie 1 października 2020 i drugi wygaśnie 1 grudnia 2020. Będą oni mogli odnowić dostęp jako jeden pakiet korzyści z kompetencji 1 grudnia 2020. Po odnowieniu firma Contoso zachowuje wszystkie trzy kompetencje, mimo że może zachować tylko jeden pakiet korzyści.
+    
+7.  Administratorzy firmy Contoso będą nadal zarządzać rolami Centrum partnerskiego dla @contoso.com użytkowników. Administratorzy usługi fabricam będą nadal zarządzać rolami Centrum partnerskiego dla @fabricam.com użytkowników. Administratorzy firmy Contoso mogą administrować użytkownikami fabricam tylko, jeśli zostali zaproszeni jako gość do dzierżawy fabricam.
+8.  Firma Contoso może zdecydować o zignorowaniu @fabricam.com dzierżawy i ponownie wydać nowe poświadczenia dla Fabricamych pracowników @contoso.com przy użyciu nowych ról i uprawnień.
+
 ## <a name="next-steps"></a>Następne kroki
 
 - [Przypisywanie ról i uprawnień użytkowników](permissions-overview.md)

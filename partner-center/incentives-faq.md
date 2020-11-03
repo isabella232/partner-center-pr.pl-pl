@@ -1,19 +1,19 @@
 ---
 title: Zachęty — często zadawane pytania
 ms.topic: how-to
-ms.date: 10/22/2020
+ms.date: 10/29/2020
 description: Często zadawane pytania dotyczące bodźców firmy Microsoft. Ten artykuł zawiera pytania dotyczące ról użytkownika, sposobu rejestrowania lub wykonywania czynności związanych z komunikatami o błędach.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 468ad99771aabfd42960e43e0a711e10eddc62f0
-ms.sourcegitcommit: 4a88db7e9e90b4fbb2ba82af38d7f77b016977f3
+ms.openlocfilehash: b16fb54ede696ac623f68cff933daf8aaf1666e7
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "92530825"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133069"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Często zadawane pytania dotyczące zachęt
 
@@ -29,11 +29,11 @@ ms.locfileid: "92530825"
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>Czy muszę być administratorem globalnym, aby zarejestrować się w zachętach?
 
-Nie jest wymagane, aby być administratorem globalnym. Administrator MPN może zapraszać innych użytkowników do zarejestrowania się, jeśli jest to wymagane, aby stał się administratorem zachęt, natomiast administrator globalny może skonfigurować nowe konta użytkowników. Aby zarządzać zachętami firmy za pomocą narzędzia, nie musisz być administratorem globalnym. Aby uzyskać więcej informacji na temat ról i uprawnień, zobacz [Omówienie uprawnień](permissions-overview.md).
+Nie. Zarówno Administrator globalny, jak i administrator konta mogą przypisywać użytkowników jako administratorów programu zachęty. Administratorzy programu zachęty zarządzają programami zachęt firmy przez centrum partnerskie. Aby uzyskać więcej informacji, zobacz [Omówienie uprawnień](permissions-overview.md).
 
-## <a name="what-do-i-need-to-do-if-i-find-my-company-is-already-a-member-of-the-microsoft-partner-network"></a>Co należy zrobić, jeśli znajdziesz moją firmę, która jest już członkiem Microsoft Partner Network?
+## <a name="what-do-i-need-to-do-if-i-find-my-company-is-already-a-member-of-the-microsoft-partner-network-mpn"></a>Co należy zrobić, jeśli znajdziesz moją firmę, która już jest członkiem Microsoft Partner Network (MPN)?
 
-Jeśli spróbujesz dołączyć do MPN, a Twoja firma jest już członkiem, rozpozna domenę i powiąże Cię już z istniejącym kontem. Może to być ta sama firma lub powiązana firma przy użyciu tej samej domeny poczty e-mail lub tego samego katalogu aktywności platformy Azure (Azure AD) do zarządzania wieloma domenami.
+Jeśli próbujesz dołączyć do MPN, a Twoja firma jest już członkiem, MPN rozpozna domenę i skojarzy Cię z istniejącym kontem. Istniejące konto może być tą samą firmą lub pokrewną firmą przy użyciu tej samej domeny poczty e-mail lub tego samego katalogu aktywności platformy Azure (Azure AD) do zarządzania wieloma domenami.
 
 Kontakt podstawowy można zidentyfikować na stronie profilu partnera. Jeśli lokalizacja jest lokalizacją MPNHQ, wystarczy skonfigurować wymagane uprawnienia do zarządzania zachętami. Aby uzyskać więcej informacji na temat ról i uprawnień, zobacz [Omówienie uprawnień](permissions-overview.md).
 
@@ -41,26 +41,34 @@ Jeśli nie znajdujesz się w tym samym kraju co lokalizacja MPNHQ, zapoznaj się
 
 ## <a name="what-user-roles-are-available"></a>Jakie role użytkownika są dostępne?
 
-Osoba, która dołączy do firmy MPN, jest domyślnie główną osobą kontaktową i administratorem MPN. Administrator może zapraszać użytkowników w portalu i zarządzać nimi. Aby uzyskać więcej informacji na temat ról i uprawnień, zobacz [Omówienie uprawnień](permissions-overview.md).
+Osoba, która zarejestruje firmę w centrum partnerskim, jest domyślnie główną osobą kontaktową i administratorem globalnym. Administrator może zapraszać użytkowników w portalu i zarządzać nimi.
 
-Kluczowe role dla bodźców to zachęty administratora i zachęty dla użytkowników. Administrator zachęt będzie zarządzać informacjami o banku dla partnera. Użytkownik zachęty może wyświetlać raporty w narzędziu, aby zobaczyć, co zostało opłacone, oraz podział każdej płatności, ale nie może wyświetlić ani edytować szczegółów dotyczących banku. Aby uzyskać więcej informacji na temat ról i uprawnień użytkowników i administratorów zachęt, zobacz [Omówienie uprawnień](permissions-overview.md). Pamiętaj, że te role nie będą dostępne do wyboru, dopóki partner nie zostanie poproszony o zarejestrowanie się w celu uzyskania zachęt. Obie role mogą dotyczyć wszystkich lokalizacji w CENTRALĄ.
+Kluczowe role dla bodźców to zachęty administratora i zachęty dla użytkowników. Administrator zachęt może zarejestrować się w programach zachęty i zarządzać informacjami o banku i podatku dla partnera. Użytkownik zachęty może wyświetlać raporty w narzędziu, aby zobaczyć, co zostało opłacone, oraz podział każdej płatności, ale nie może wyświetlić ani edytować szczegółów dotyczących banku. Obie role mogą być stosowane do wszystkich lokalizacji na koncie globalnym partnera.
 
-## <a name="how-can-i-find-out-who-has-admin-rights-for-my-company"></a>Jak mogę sprawdzić, kto ma uprawnienia administratora dla mojej firmy?
+Aby uzyskać więcej informacji, zobacz [Omówienie uprawnień](permissions-overview.md).
 
-W firmie można dowiedzieć się, kto ma rolę administratora globalnego lub administratora konta MPN. Aby uzyskać więcej informacji, zobacz [Znajdowanie roli](/partner-center/find-your-role.md).  
+## <a name="how-can-i-find-out-who-has-global-or-account-admin-rights-for-my-company"></a>Jak mogę sprawdzić, kto ma uprawnienia administratora globalnego lub konta mojej firmy?
+
+Aby znaleźć administratora globalnego lub administratora konta, który może wprowadzać zmiany roli lub przypisać role do nowego użytkownika:
+
+1. Na ikonie ustawień konta w prawym górnym rogu Centrum partnerskiego wybierz pozycję **Zarządzanie użytkownikami** .
+2. Odfiltruj administratora **globalnego** lub **administratora konta** .
+3. Możesz również przejść do pozycji **mój profil** , wybrać **role i uprawnienia** i wyświetlić listę różnych administratorów, którzy mogą pomóc w podwyższeniu poziomu uprawnień.
+ 
+Aby uzyskać więcej informacji, zobacz [Znajdowanie roli](find-your-role.md).  
 
 ## <a name="i-cant-access-incentives-using-my-credentials"></a>Nie mogę uzyskać dostępu do bodźci przy użyciu moich poświadczeń.
 
-Najbardziej prawdopodobną przyczyną braku dostępu jest to, że Twoje uprawnienia nie są odpowiednio skonfigurowane w centrum partnerskim. Wykonaj poniższą procedurę, aby zapoznać się z tematem.
+Prawdopodobnie nie widzisz bodźców, że nie masz odpowiednich uprawnień. Wykonaj poniższą procedurę, aby zapoznać się z tematem.
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/) przy użyciu poświadczeń dzierżawy usługi Azure AD (poświadczenia służbowe). Jeśli nie możesz się zalogować, skontaktuj się z administratorem globalnym Twojej firmy.
 
 2. Jeśli podczas logowania zostanie wyświetlony monit o wybranie konta **służbowego** lub **konta osobistego** , wybierz pozycję **konto służbowe** .
 
-3. W menu Centrum partnerskiego wybierz pozycję **zachęty** , a następnie wybierz pozycję **Przegląd** . Jeśli nie masz uprawnień administratora zachęty, zostaną wyświetlone informacje kontaktowe dla wszystkich administratorów globalnych i kont firmy. Skontaktuj się z jednym z tych administratorów, aby uzyskać rolę zachęty dla wymaganych identyfikatorów MPN i programów zachęty.
+3. W menu Centrum partnerskiego wybierz pozycję **zachęty** , a następnie wybierz pozycję **Przegląd** . Jeśli nie masz uprawnień administratora ani zachęty dla użytkowników, zostaną wyświetlone informacje kontaktowe dla wszystkich administratorów globalnych i kont w firmie. Skontaktuj się z jednym z tych administratorów, aby uzyskać rolę zachęty dla wymaganych identyfikatorów MPN i programów zachęty.
 
-4. Jeśli masz już rolę administratora zachęty, zobaczysz rejestracje dla swojej firmy dla identyfikatorów MPN i programów zachęt, do których masz dostęp.
- 
+4. Jeśli masz już rolę administratora z zachętami, zobaczysz rejestracje dla swojej firmy dla identyfikatorów MPN i programów zachęt, do których masz dostęp.
+
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Na stronie przeglądu zachęt brakuje niektórych rejestracji.
 
 Jeśli widzisz mniejszą liczbę rejestracji niż oczekiwano na stronie **Przegląd** zachęt, możesz wykonać następujące czynności.
@@ -69,7 +77,7 @@ Jeśli widzisz mniejszą liczbę rejestracji niż oczekiwano na stronie **Przegl
 
 2. W obszarze **Ustawienia** wybierz pozycję [Zarządzanie użytkownikami](https://partner.microsoft.com/pcv/users).
 
-3. Wybierz swoją nazwę, aby wyświetlić swoje uprawnienia. 
+3. Wybierz swoją nazwę, aby wyświetlić swoje uprawnienia.
 
 Jeśli potrzebujesz zmienić rolę lub uprawnienia, skontaktuj się z administratorem globalnego lub konta w firmie.
 

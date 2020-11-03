@@ -1,7 +1,7 @@
 ---
-title: Upoważnianie usługi MFA w dzierżawie partnera
+title: Wymaganie uwierzytelniania wieloskładnikowego (MFA) dla dzierżawy partnerskiej
 ms.topic: article
-ms.date: 10/26/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, jak mandat usługi MFA dla dzierżawców partnerskich pomoże Ci zabezpieczyć dostęp do zasobów klientów. Obejmuje przykładowe scenariusze.
@@ -9,21 +9,19 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01122e81254a8e63f9bbf8d6bc3d3271accac74a
-ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
+ms.openlocfilehash: b6985054e927dd777d61ae30bd435ab4c6c4ea8c
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92680398"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133121"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Wymaganie uwierzytelniania wieloskładnikowego (MFA) dla dzierżawy partnerskiej
 
 **Dotyczy**
 
 - Wszyscy partnerzy w programie dostawcy rozwiązań w chmurze
-  - Rachunek bezpośredni
-  - Dostawca pośredni
-  - Pośredni odsprzedawca
+- Wszyscy dostawcy panelu sterowania
 - Wszyscy klasyfikatory
 
 **Zmodyfikowane role**
@@ -34,8 +32,7 @@ ms.locfileid: "92680398"
 - Administrator rozliczeń
 - Administrator globalny
 
-Celem tej funkcji jest ułatwienie partnerom bezpiecznego dostępu do zasobów klientów przed naruszeniem poświadczeń.
-Partnerzy są zobowiązani do wymuszania uwierzytelniania wieloskładnikowego (MFA) dla wszystkich kont użytkowników w dzierżawie partnerskiej, w tym użytkownika-gościa, z tą funkcją role partnerskie będą gotowe do ukończenia weryfikacji MFA dla następujących obszarów:
+W tym artykule przedstawiono szczegółowe przykłady i wskazówki dotyczące przyciągania uwierzytelniania wieloskładnikowego (MFA) w centrum partnerskim. Celem tej funkcji jest ułatwienie partnerom bezpiecznego dostępu do zasobów klientów przed naruszeniem poświadczeń. Partnerzy są zobowiązani do wymuszania uwierzytelniania wieloskładnikowego dla wszystkich kont użytkowników w dzierżawie partnera, w tym dla użytkowników-Gości. Użytkownicy będą mogli ukończyć weryfikację MFA dla następujących obszarów:
 
 - [Pulpit nawigacyjny Centrum partnerskiego](#partner-center-dashboard)
 - [Interfejs API Centrum partnerskiego](#partner-center-api)
@@ -43,9 +40,7 @@ Partnerzy są zobowiązani do wymuszania uwierzytelniania wieloskładnikowego (M
 
 Większe i aktualne zabezpieczenia dotyczące zabezpieczeń i ochrony prywatności znajdują się wśród naszych najważniejszych priorytetów i będziemy nadal pomagać partnerom chronić klientów i dzierżawców. Wszyscy partnerzy uczestniczący w programie dostawcy rozwiązań w chmurze (CSP), dostawcy panelu sterowania (CPVs) i doradcy powinni zaimplementować [wymagania dotyczące zabezpieczeń partnerów](partner-security-requirements.md) , aby zachować zgodność.
 
-Aby ułatwić partnerom ochronę firm i klientów przed zdarzeniami związanymi z kradzieżą tożsamości, firma Microsoft opracowała dodatkowe zabezpieczenia dla dzierżawców partnerskich, które mogą pomóc partnerom w uzyskaniu dostępu do dzierżawców i ich klientów przez proces weryfikacji uwierzytelniania wieloskładnikowego (MFA) w celu zapobiegania nieautoryzowanemu dostępowi. 
-
-Ta dokumentacja zawiera partnerów ze szczegółowym doświadczeniem i wskazówkami dotyczącymi aktywacji zabezpieczeń.
+Aby pomóc partnerom w ochronie firm i klientów przed kradzieżą tożsamości i nieautoryzowanym dostępem, firma Microsoft opracowała dodatkowe zabezpieczenia dla dzierżawców partnerów, którzy będą mieć uprawnienia i weryfikują uwierzytelnianie wieloskładnikowe. 
 
 ## <a name="partner-center-dashboard"></a>Pulpit nawigacyjny Centrum partnerskiego
 
@@ -55,23 +50,20 @@ Niektóre strony na pulpicie nawigacyjnym Centrum partnerskiego będą chronione
 - Wszystkie strony na karcie **> żądania klienta** , na przykład strona, do której uzyskano dostęp w ramach https://partner.microsoft.com/dashboard/support/csp/customers/*
 - Strona rozliczeń
 
-Jeśli spróbujesz uzyskać dostęp do dowolnej z tych stron, a weryfikacja usługi MFA nie została wcześniej zakończona, konieczne będzie wykonanie tej czynności.
-
-> [!NOTE]
-> Inne strony w centrum partnerskim, takie jak Strona przeglądu, Service Health strony sprawdzania stanu nie będą chronione przez usługę MFA.
-
-Następujące typy użytkowników są autoryzowane do uzyskiwania dostępu do tych stron chronionych przez usługę MFA i dlatego mają wpływ na tę funkcję
+W poniższej tabeli przedstawiono typy użytkowników autoryzowane do uzyskiwania dostępu do tych stron chronionych przez usługę MFA (w związku z czym ma to wpływ na tę funkcję).
 
 
-| Strony chronione przez usługę MFA       | Agenci administracyjni      |  Agenci sprzedaży     |   Agenci pomocy technicznej     | Administrator globalny      |  Administrator rozliczeń     | 
+| Strona chroniona przez usługę MFA       | Agenci administracyjni      |  Agenci sprzedaży     |   Agenci pomocy technicznej     | Administrator globalny      |  Administrator rozliczeń     | 
 |---    |---    |---    |---    |---    |---    |
 | Wszystkie strony na karcie klienci      |   x    |    x   |  x     |       |       |
 | Wszystkie strony w obszarze Pomoc techniczna > karcie żądania klientów     | x      |       |    x   |       |       |
 | Strona rozliczeń     |   x    |       |       |    x   |   x    |
 
-## <a name="examples-showing-how-verification-works"></a>Przykłady pokazujące, jak działa weryfikacja
+Jeśli spróbujesz uzyskać dostęp do dowolnej z tych stron, a weryfikacja usługi MFA nie została wcześniej zakończona, konieczne będzie wykonanie tej czynności. Inne strony w centrum partnerskim, takie jak strona przegląd, Service Health sprawdzania stanu nie wymagają uwierzytelniania wieloskładnikowego.
 
-Aby zilustrować, jak działa weryfikacja, weź pod uwagę następujące dwa przykłady.
+## <a name="verification-examples"></a>Przykłady weryfikacji
+
+Aby zilustrować, jak weryfikacja działa na pulpicie nawigacyjnym Centrum partnerskiego, weź pod uwagę następujące przykłady.
 
 ### <a name="example-1-partner-has-implemented-azure-ad-mfa"></a>Przykład 1: partner zaimplementował usługę Azure AD MFA
 
@@ -108,7 +100,7 @@ Aby zilustrować, jak działa weryfikacja, weź pod uwagę następujące dwa prz
 6. Jan próbuje uzyskać dostęp do jednej ze stron chronionych przez usługę MFA w centrum partnerskim. Ponieważ Jan nie ukończył weryfikacji MFA, centrum partnerskie przekierowuje Jan do usługi Azure AD, aby ukończyć weryfikację uwierzytelniania MFA. Ze względu na to, że Jan zarejestrował uwierzytelnianie MFA, więc poprosimy o ukończenie weryfikacji MFA.
 
 > [!NOTE]
->Akcja: administrator firmy powinien wdrożyć usługę MFA teraz za pomocą dowolnej [opcji](partner-security-requirements.md#actions-that-you-need-to-take) sugerowanej przez centrum partnerskie.
+>Akcja: Administratorzy firmy mają [trzy opcje](partner-security-requirements.md#implementing-multi-factor-authentication) implementowania usługi MFA.
 
 ## <a name="partner-center-api"></a>Interfejs API Centrum partnerskiego
 
@@ -117,7 +109,7 @@ Interfejs API Centrum partnerskiego obsługuje zarówno uwierzytelnianie aplikac
 W przypadku użycia uwierzytelniania aplikacji + użytkownika centrum partnerskie będzie wymagało weryfikacji MFA. Dokładniej mówiąc, gdy aplikacja partnerska chce wysłać żądanie interfejsu API do Centrum partnerskiego, musi zawierać token dostępu w nagłówku autoryzacji żądania. 
 
 > [!NOTE]
->[Bezpieczny model aplikacji](/partner-center/develop/enable-secure-app-model) jest bezpieczną i skalowalną platformą do uwierzytelniania partnerów CSP i CPVs za pomocą architektury Microsoft Azure MFA podczas wywoływania interfejsu API Centrum partnerskiego, należy wdrożyć ją przed włączeniem usługi MFA w dzierżawie. 
+>Mechanizm [Secure Application model Framework](/partner-center/develop/enable-secure-app-model) to skalowalna platforma służąca do uwierzytelniania partnerów CSP i CPVs przy użyciu architektury Microsoft Azure MFA podczas wywoływania interfejsów API Centrum partnerskiego. Musisz zaimplementować tę strukturę przed włączeniem uwierzytelniania MFA w dzierżawie. 
 
 Gdy centrum partnerskie odbiera żądanie interfejsu API z tokenem dostępu uzyskanym przy użyciu aplikacji i uwierzytelniania użytkownika, interfejs API Centrum partnerskiego sprawdzi obecność wartości *MFA* w żądaniu *metody uwierzytelniania (AMR)* . Aby sprawdzić, czy token dostępu zawiera oczekiwaną wartość odwołania metody uwierzytelniania (AMR), można użyć dekodera JWT:
 
@@ -163,17 +155,17 @@ W przypadku użycia uwierzytelniania App-Only interfejsy API obsługujące uwier
 
 ## <a name="partner-delegated-administration"></a>Administracja delegowana przez partnera
 
-### <a name="using-service-portals"></a>Korzystanie z portali usług
-
 Konta partnerów, w tym agenci administracyjni i agenci pomocy technicznej, mogą korzystać z uprawnień administratora delegowanego przez partnera do zarządzania zasobami klienta za pośrednictwem portali usług online firmy Microsoft, interfejsu wiersza polecenia (CLI) i interfejsów API (przy użyciu aplikacji i uwierzytelniania użytkowników).
 
-Podczas uzyskiwania dostępu do portali usług online firmy Microsoft przy użyciu uprawnień administratora delegowanego przez partnera (administratora w imieniu) do zarządzania zasobami klienta wiele z tych portali wymaga, aby konto partnera zostało uwierzytelnione w sposób interaktywny, a dla klienta Azure Active Directory dzierżawy jako kontekstu uwierzytelniania — konto partnera jest wymagane do logowania się do dzierżawy klienta.
+### <a name="using-service-portals"></a>Korzystanie z portali usług
 
-Gdy Azure Active Directory odbiera takie żądania uwierzytelniania, będzie wymagało, aby konto partnera kończyło weryfikację uwierzytelniania MFA. Istnieją dwa możliwe środowiska użytkownika, w zależności od tego, czy konto partnera jest tożsamością zarządzaną, czy federacyjną:
+W przypadku uzyskiwania dostępu do portali usług online firmy Microsoft przy użyciu uprawnień administratora delegowanego przez partnera (administratora w imieniu) do zarządzania zasobami klienta wiele z tych portali wymaga, aby konto partnera było uwierzytelniane interaktywnie, a dzierżawa usługi Azure AD ustawiona jako kontekst uwierzytelniania — wymagane jest konto partnera do logowania się do dzierżawy klienta.
 
-- Jeśli konto partnerskie jest tożsamością **zarządzaną** , Azure Active Directory będzie bezpośrednio monitował użytkownika o ukończenie weryfikacji MFA. Jeśli konto partnera nie zarejestrowano dla usługi MFA z Azure Active Directory przed, użytkownik zostanie poproszony o [ukończenie rejestracji MFA](#mfa-registration-experience) w pierwszej kolejności.
+Gdy usługa Azure AD odbiera takie żądania uwierzytelniania, będzie wymagało, aby konto partnera kończyło weryfikację MFA. Istnieją dwa możliwe środowiska użytkownika, w zależności od tego, czy konto partnera jest tożsamością zarządzaną, czy federacyjną:
 
-- Jeśli konto partnera jest tożsamością **federacyjną** , środowisko jest zależne od tego, jak administrator partnera skonfigurował federacji w Azure Active Directory. Podczas konfigurowania Federacji w Azure Active Directory administrator partnera może wskazać, czy Azure Active Directory czy dostawca tożsamości federacyjnych obsługuje uwierzytelnianie wieloskładnikowe, czy nie. Jeśli tak, Azure Active Directory przekieruje użytkownika do dostawcy tożsamości federacyjnych, aby ukończyć weryfikację MFA. W przeciwnym razie Azure Active Directory będzie bezpośrednio monitować użytkownika o zakończenie weryfikacji uwierzytelniania MFA. Jeśli konto partnera nie zarejestrowano dla usługi MFA z Azure Active Directory przed, użytkownik zostanie poproszony o [ukończenie rejestracji MFA](#mfa-registration-experience) w pierwszej kolejności.
+- Jeśli konto partnera jest tożsamością **zarządzaną** , usługa Azure AD będzie bezpośrednio monitować użytkownika o ukończenie weryfikacji uwierzytelniania MFA. Jeśli konto partnera nie zostało wcześniej zarejestrowane w usłudze Azure AD, użytkownik zostanie poproszony o [ukończenie rejestracji MFA](#mfa-registration-experience) w pierwszej kolejności.
+
+- Jeśli konto partnera jest tożsamością **federacyjną** , środowisko jest zależne od tego, jak administrator partnera skonfigurował Federacji w usłudze Azure AD. Podczas konfigurowania Federacji w usłudze Azure AD administrator partnerski może wskazać usługę Azure AD, czy dostawca tożsamości federacyjnych obsługuje uwierzytelnianie wieloskładnikowe, czy nie. Jeśli tak, usługa Azure AD przekieruje użytkownika do dostawcy tożsamości federacyjnych, aby ukończyć weryfikację MFA. W przeciwnym razie usługa Azure AD będzie bezpośrednio monitować użytkownika o zakończenie weryfikacji uwierzytelniania MFA. Jeśli konto partnera nie zostało wcześniej zarejestrowane w usłudze Azure AD, użytkownik zostanie poproszony o [ukończenie rejestracji MFA](#mfa-registration-experience) w pierwszej kolejności.
 
 Ogólne środowisko jest podobne do scenariusza, w którym dzierżawa klienta końcowego wdrożyła uwierzytelnianie wieloskładnikowe dla administratorów. Na przykład dzierżawa klienta włączyła [Ustawienia domyślne zabezpieczeń usługi Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults), które wymagają, aby wszystkie konta z uprawnieniami administracyjnymi mogli logować się do dzierżawy klienta z weryfikacją MFA, w tym agentami administracyjnymi i agentami pomocy technicznej. W celach testowych partnerzy mogą włączyć [wartości domyślne zabezpieczeń usługi Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) w dzierżawie klienta, a następnie próbować uzyskać dostęp do dzierżawy klienta przy użyciu uprawnień administracji delegowanej przez partnera.
 
@@ -205,16 +197,10 @@ Po kliknięciu **przycisku Dalej** użytkownik zostanie poproszony o wybranie z 
 :::image type="content" source="images/MfaRegistration2.png" alt-text="Rejestracja usługi MFA — krok 1":::
 
 Po pomyślnej rejestracji użytkownik jest zobowiązany do ukończenia weryfikacji MFA na podstawie weryfikacji wybranej przez użytkownika.
-
-## <a name="request-for-technical-exception"></a>Żądanie dotyczące wyjątku technicznego
-
-Partnerzy mogą zastosować do wyjątku technicznego, aby pominąć weryfikację MFA, jeśli wystąpią problemy techniczne z usługami online firmy Microsoft i nie ma żadnego możliwego rozwiązania lub obejścia tego problemu. Przed wykonaniem tej czynności zapoznaj się z następującymi sekcjami:
-
-- [Lista typowych problemów zgłoszonych przez partnerów](#list-of-common-issues-reported-by-partners)
-- [Jak przesłać żądanie dla wyjątku technicznego](#how-to-submit-a-request-for-technical-exception)
  
-### <a name="list-of-common-issues-reported-by-partners"></a>Lista typowych problemów zgłoszonych przez partnerów
-Przed zastosowaniem do wyjątku technicznego zapoznaj się z listą typowych problemów zgłoszonych przez innych partnerów, aby zrozumieć, czy są to ważne przyczyny dotyczące wyjątków technicznych.
+## <a name="list-of-common-issues"></a>Lista typowych problemów
+
+Przed zastosowaniem do [wyjątku technicznego](#how-to-submit-a-request-for-technical-exception) z wymogu usługi MFA Przejrzyj listę typowych problemów zgłoszonych przez innych partnerów, aby zrozumieć, czy Twoje żądanie jest prawidłowe.
 
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>Problem 1: Partner potrzebuje więcej czasu na wdrożenie usługi MFA dla swoich agentów partnerskich
 Partner nie został uruchomiony lub nadal trwa proces wdrażania usługi MFA dla swoich agentów partnerskich, którzy potrzebują dostępu do portali usług online firmy Microsoft przy użyciu uprawnień administracji delegowanej przez partnera do zarządzania zasobami klienta. Partner potrzebuje więcej czasu na ukończenie implementacji usługi MFA. Czy ten problem występuje w przypadku wyjątku technicznego?
@@ -261,7 +247,9 @@ Partner zaimplementował uwierzytelnianie wieloskładnikowe dla swoich użytkown
 
 - Zamówienie zakupu używanego rozwiązania MFA innej firmy lub planowane do użycia.
 
-### <a name="how-to-submit-a-request-for-technical-exception"></a>Jak przesłać żądanie dla wyjątku technicznego
+## <a name="how-to-submit-a-request-for-technical-exception"></a>Jak przesłać żądanie dla wyjątku technicznego
+
+Partnerzy mogą zastosować do wyjątku technicznego, aby pominąć weryfikację MFA, jeśli wystąpią problemy techniczne z usługami online firmy Microsoft i nie ma żadnego możliwego rozwiązania lub obejścia tego problemu. Przed wykonaniem tej czynności Przejrzyj [listę typowych problemów](#list-of-common-issues) w poprzedniej sekcji.
 
 Aby przesłać żądanie dotyczące wyjątku technicznego:
 
@@ -274,3 +262,7 @@ Aby przesłać żądanie dotyczące wyjątku technicznego:
 4. Podaj szczegóły żądane do przesłania żądania obsługi dla wyjątku technicznego, a następnie kliknij przycisk **Prześlij** .
 
 Firma Microsoft może potrwać do trzech dni roboczych, aby zapewnić odpowiedź na żądanie wyjątku technicznego.
+
+## <a name="next-steps"></a>Następne kroki
+
+ - [Stan wymagań dotyczących zabezpieczeń partnerów](partner-security-compliance.md)

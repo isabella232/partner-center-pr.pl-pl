@@ -1,7 +1,7 @@
 ---
 title: Omówienie programu Cloud Solution Provider
 ms.topic: article
-ms.date: 10/28/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się więcej na temat korzyści i różnych modeli w programie Cloud Solution Provider (CSP), aby ułatwić rozwój Twojej firmy dzięki nowym klientom i nowej wiedzy.
@@ -9,12 +9,12 @@ author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9780fe0b90a4889fca1f3a887c445a75b1549eaa
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: f72a4cffaa8557e7e8f56dd2253c99449e3a696d
+ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917199"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "93045409"
 ---
 # <a name="cloud-solution-provider-program"></a>Program dostawcy rozwiązań w chmurze 
 
@@ -22,8 +22,7 @@ ms.locfileid: "92917199"
 
 - Centrum partnerskie
 
-
-Ten artykuł zawiera omówienie programu Cloud Solution Provider (CSP) i wyjaśnia różne modele operacyjne oraz ich wymagania, a także inne szczegóły dotyczące sprzedaży przez ten program.  Program CSP pozwala zwiększyć liczbę użytkowników w przedsiębiorstwach, poza odsprzedażem licencji i może obejmować następujące korzyści: 
+Ten artykuł zawiera omówienie programu Cloud Solution Provider (CSP) i wyjaśnia różne modele operacyjne oraz ich wymagania, a także inne szczegóły dotyczące sprzedaży przez ten program.  Program CSP pomaga zwiększyć liczbę użytkowników w przedsiębiorstwach, poza odsprzedażem licencji i może obejmować następujące korzyści: 
 
 - Dokładniejsze zaangażowanie klientów: regularne spotkanie z klientami oznacza opracowanie lepszego zrozumienia ich działalności i potrzeb.
 - Zwiększone zyski: oferowanie zwiększonych usług pomocy technicznej i rozliczeniowych, niezależnie od tego, czy jesteś własnym, czy za pomocą dostawcy pośredniego, otwiera nowe strumienie przychodu.  
@@ -32,35 +31,33 @@ Ten artykuł zawiera omówienie programu Cloud Solution Provider (CSP) i wyjaśn
 
 ## <a name="which-csp-model-is-best-for-me"></a>Który model CSP jest najlepszy dla mnie?
 
-### <a name="direct-bill-model"></a>Model rachunku bezpośredniego
-
- W modelu bezpośredniego rozliczania partnerzy kupują produkty i subskrypcje firmy Microsoft bezpośrednio od firmy Microsoft i sprzedaje je bezpośrednio klientom za pośrednictwem swoich wewnętrznych pracowników działu sprzedaży. Partnerzy, którzy już pracują z programem lub chcą opracowywać odpowiednie infrastruktury sprzedaży, rozliczeń i pomocy technicznej, mogą wybrać model bezpośredni dla dostawcy usług kryptograficznych. Wymagania, które należy spełnić, zostały ostatnio zmienione i zaczną obowiązywać od 31 sierpnia 2018. Partnerzy bezpośrednii będą musieli spełnić nowe wymagania dotyczące okresu następnej rejestracji po 31 sierpnia 2018.
-
-#### <a name="new-expanded-requirements"></a>Nowe rozszerzone wymagania
-
-Pomoc techniczna
-
-- Rozszerz możliwości pomocy technicznej, kupując jedną z działów pomocy technicznej w chmurze z zaawansowaną obsługą firmy Microsoft. Możesz też wybrać pakiet Microsoft pomoc techniczna Premier dla partnerów, aby uzyskać dostęp do pełnego katalogu usług Active Services, 24/7 z podwyższonym poziomem uprawnień/rozwiązywania problemów oraz zarządzania kontami technicznymi w chmurze, hybrydowej i lokalnej.
-
-Przychód
-
-- Musi spełniać co najmniej USD300K w okresie rocznym programu dostawcy rozwiązań w chmurze w ciągu poprzednich 12 miesięcy jako pośredniego odsprzedawcy. Partnerzy mogą przeglądać swoje końcowe dwanaście miesięcy w centrum partnerskim. sprzedaż, która składa się z 12-miesięcznego przychodu USD300K, podlega przeglądowi i sprawdzeniu przez firmę Microsoft, a użytkownik może zostać poproszony o podanie dodatkowych informacji. Wymagania dotyczące przychodów USD300K są obliczane na podstawie przychodów w chmurze i wykluczają oprogramowanie bezterminowe w dostawcy usług kryptograficznych.
-
-Usługi
-
-- Zaprezentuj, że podajesz co najmniej jedną zarządzaną aplikację, usługę IP lub rozwiązanie klienta. 
-
-- Zapoznaj się z minimalnymi możliwościami infrastruktury, takimi jak rozliczenia i Inicjowanie obsługi administracyjnej. Monitorujemy roczną wydajność, aby upewnić się, że partnerzy z bezpośrednią opłatą, którzy spełniają te wymagania, wykazują stały rozwój biznesowy. W tej chwili nie ma określonych celów dotyczących wydajności, ale w przyszłości firma Microsoft może zaimplementować pasek wydajności.
-
-- Identyfikator aktywnego Microsoft Partner Network (MPN) dla lokalizacji, w której chcesz sprzedawać
-
 ### <a name="indirect-model"></a>Model pośredni
 
-W modelu pośrednim dostawcy (znany również jako dystrybutorzy) kupują produkty i subskrypcje firmy Microsoft bezpośrednio od firmy Microsoft, ale sprzedaży do klientów za pośrednictwem sieci pośrednich odsprzedawcaów. Wymagania wstępne dotyczące rejestrowania w programie CSP jako pośredni odsprzedawcy obejmują:
+Firma Microsoft pomaga wszystkim partnerom uczestniczącym w programie Cloud Solution Provider znaleźć najlepszy model do rozwoju firmy. Firma Microsoft utworzyła globalną sieć kwalifikujących się dostawców pośrednich, którzy pomogą w pomyślnym rozwoju działalności w chmurze w programie dostawcy rozwiązań w chmurze. Łącząc się jako odsprzedawca pośredni, można przyspieszyć pracę na rynku z zminimalizowaną złożonością operacyjną. 
 
-- Identyfikator aktywnego Microsoft Partner Network (MPN) dla lokalizacji, w której chcesz sprzedawać
+Jako pośredni odsprzedawca można współpracować z dostawcami pośrednimi, którzy mogą udostępniać narzędzia i zasoby ułatwiające zarządzanie relacją z klientami. Korzystając z modelu pośredniego, możesz zakupić dostawcę pośredniego, który może współpracować z klientem w celu uzyskania pomocy technicznej i rozliczeń.
+Czego potrzebujesz: 
+
+- Aktywne członkostwo w Microsoft Partner Network i identyfikator MPN dla lokalizacji, w której chcesz sprzedawać.
 - Możliwość podpisywania umów prawnych w imieniu organizacji
-- Relacja z [oficjalnym dostawcą firmy Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider)
+- Relacja z [oficjalnym dostawcą pośrednim firmy Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider) w programie dostawcy rozwiązań w chmurze
+
+### <a name="direct-bill-model"></a>Model rachunku bezpośredniego
+
+W modelu bezpośredniego rozliczania partnerzy kupują produkty i subskrypcje firmy Microsoft bezpośrednio od firmy Microsoft i sprzedaje je bezpośrednio klientom za pośrednictwem swoich wewnętrznych pracowników działu sprzedaży. Partnerzy, którzy już pracują z programem lub chcą opracowywać odpowiednie infrastruktury sprzedaży, rozliczeń i pomocy technicznej, mogą wybrać model bezpośredni. Zaktualizowaliśmy wymagania dotyczące rejestracji dla partnerów bezpośrednich rozliczeń od 27 października 2020.
+
+#### <a name="requirements"></a>Wymagania
+
+Zapoznaj się z zaktualizowanymi wymaganiami dotyczącymi rejestracji bezpośrednich rozliczeń i zaleceń poniżej, aby oceniać, jak można skompilować i zwiększyć opłacalną działalność z odpowiednim modelem w programie dostawcy rozwiązań w chmurze:  
+
+- **Obsługa:** Rozszerz możliwości pomocy technicznej, kupując jedną z działów pomocy technicznej w chmurze z zaawansowaną obsługą firmy Microsoft. Możesz też wybrać pakiet Microsoft pomoc techniczna Premier dla partnerów, aby uzyskać dostęp do pełnego katalogu usług Active Services, 24/7 z podwyższonym poziomem uprawnień/rozwiązywania problemów oraz zarządzania kontami technicznymi w chmurze, hybrydowej i lokalnej. Zapoznaj się z umową Partnerskią firmy Microsoft, aby dowiedzieć się więcej
+- **Wymagania dotyczące wydajności:** Upewnij się, że w ciągu poprzednich dwunastu miesięcy jako pośredni odsprzedawcę masz co najmniej USD300K roczny przychód w programie dostawcy rozwiązań w chmurze. Partnerzy mogą przeglądać miesięczny przychód z 12 miesięcy w centrum partnerskim. Sprzedaż, która składa się z miesięcznego przychodu z USD300Ków, podlega przeglądowi i sprawdzeniu przez firmę Microsoft, a użytkownik może zostać poproszony o podanie dodatkowych informacji. Wymagania dotyczące przychodów USD300K są obliczane na podstawie przychodów w chmurze i wykluczają oprogramowanie bezterminowe w dostawcy usług kryptograficznych.
+- Zapoznaj się z minimalnymi możliwościami infrastruktury, takimi jak rozliczenia i Inicjowanie obsługi administracyjnej
+- Aktywne członkostwo w Microsoft Partner Network i identyfikator MPN dla lokalizacji, w której chcesz sprzedawać.
+
+#### <a name="recommendations"></a>Zalecenia
+
+- **Zademonstrowanie najważniejszych możliwości:** Zaprezentuj, że podajesz co najmniej jedną zarządzaną aplikację, usługę IP lub rozwiązanie klienta. [Dowiedz się więcej na temat dodawania usług zarządzanych](https://partner.microsoft.com/solutions/managed-services). 
 
 ## <a name="where-can-i-sell-through-the-csp-program"></a>Gdzie mogę sprzedawać za pomocą programu CSP?
 

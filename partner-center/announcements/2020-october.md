@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/14/2020
-ms.openlocfilehash: 144ca69d3ea52921351d84dae40d007a976ddf73
-ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
+ms.openlocfilehash: 453d6e130a6c563e7aac23cef1c7a91f8125fd9c
+ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "92530808"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92749735"
 ---
 # <a name="october-2020-announcements"></a>Ogłoszenia 2020 października
 
@@ -22,6 +22,71 @@ Na tej stronie znajdują się szczegółowe informacje o powiadomieniach dla pro
 
 2020 anonse: [marzec](2020-march.md)  |  [kwiecień](2020-april.md)z  |  [maja](2020-may.md)  |  [czerwca](2020-june.md)z  |  [lipca](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md) Październik
 
+________________________________
+
+## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>Wprowadzenie standardu wydajności dla wymagań partnerskich bezpośrednich rozliczeń w programie Cloud Solution Provider (CSP)
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2020-10-27
+- Możliwości
+ 
+### <a name="summary"></a>Podsumowanie
+
+W programie dostawcy rozwiązań w chmurze wprowadzamy standard wydajności jako część wymagań partnerów bezpośrednich rozliczeń.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Bezpośredni partnerzy Bill w programie dostawcy rozwiązań w chmurze.
+
+### <a name="details"></a>Szczegóły
+
+Rosnące i zoptymalizowane program Microsoft Cloud Provider to ważna część naszej podróży do nowego środowiska handlowego dla partnerów i klientów. W związku z tym będziemy nadal rozwijać program w celu spełnienia potrzeb związanych z zmianami klientów i zapewnić najbardziej wydajne i zyskowne środowisko dla naszych partnerów.
+
+Dzisiaj udostępniamy kilka przyszłych zmian wymagań dotyczących bezpośrednich partnerów rozliczeniowych w programie dostawcy rozwiązań w chmurze.
+
+Najpierw **wprowadzamy standard wydajności w ramach wymagań partnerów bezpośrednich rozliczeń** . Partnerzy, którzy chcą zarejestrować się jako bezpośredni partnerzy rozliczeń w programie dostawcy rozwiązań w chmurze, muszą spełniać co najmniej USD300K w przychodach programu dostawcy rozwiązań w chmurze w ciągu 12 miesięcy przed ich [wymaganą](https://partner.microsoft.com/support/partnersupport) datą odnowienia umowy serwisowej.
+
+Ten standard wydajności zostanie uwzględniony w styczniu 2021 dla bieżących partnerów rozliczeniowych bezpośrednich i należy spełnić wymagania dotyczące daty odnowienia planu pomocy technicznej dla partnerów.
+
+Jeśli nie możesz lub wolisz, aby nie spełniały zaktualizowanych wymagań dotyczących partnera bezpośrednich rachunków, musisz ponownie zarejestrować się jako pośredni odsprzedawcy w programie dostawcy rozwiązań w chmurze. 
+
+To nowe wymaganie dotyczące przychodów pomaga partnerom w programie dostawcy rozwiązań w chmurze tworzyć bardziej zyskowne transakcje w firmie przez odpowiedni model i wyraźniejszy standard wydajności oraz skupić się na dostarczaniu większej wartości klientom z mniejszą ilością infrastruktury i obciążeniami operacyjnymi.
+
+Po drugie, z powrotem do 2018 sierpnia, firma Microsoft zaktualizowała Wymagania partnerskie bezpośrednich rachunków z nowymi kryteriami dla partnerów w celu zakupu planu pomocy technicznej z zakwalifikowanym partnerem. W programie dostawcy rozwiązań w chmurze zostanie powyróżniony istotność tego wymagania dla wszystkich partnerów bezpośrednich rozliczeń.
+
+### <a name="direct-bill-partner-requirements"></a>Wymagania dotyczące partnerów rozliczeniowych bezpośrednich
+
+Zapoznaj się z [zaktualizowanymi wymaganiami dotyczącymi bezpośredniego partnera rachunkowego](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements) i zaleceniami, aby oceniać sposób kompilowania i zwiększania zyskowności firmy z odpowiednim modelem w programie dostawcy rozwiązań w chmurze:
+
+1. **nowe wymagania dotyczące wydajności przychodu**
+
+**Dotychczasowi partnerzy** , którzy są obecnie rejestrowani w programie dostawcy rozwiązań w chmurze, będą musieli spełnić nowe standardy wydajności od stycznia 2021. Będziesz mieć czas do momentu, aż zostanie osiągnięty termin odnowienia planu pomocy technicznej następnego partnera. Możesz przejrzeć końcowy przychód z 12 miesięcy w centrum partnerskim, postępując zgodnie z [tym przewodnikiem](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf).
+
+Nowi partnerzy rejestrowani w programie dostawcy rozwiązań w chmurze rozpoczną pracę od odsprzedawcy pośredniego, począwszy od **października 2020** . Muszą mieć co najmniej USD300K w przychodach dostawcy usług kryptograficznych w ciągu ostatnich 12 miesięcy. Możesz przejrzeć końcowy przychód 12-miesięczny w centrum partnerskim, postępując zgodnie z [tym przewodnikiem](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf). 
+
+2. **wymagania umowy dotyczącej pomocy technicznej** 
+
+Rozszerz możliwości pomocy technicznej, kupując jedną z dwóch opcji kontraktu pomocy technicznej:  
+
+   - Zaawansowana pomoc techniczna firmy Microsoft dla partnerów (ASfP): jeden na jedną, priorytetową pomoc techniczną w chmurze  
+   - Microsoft pomoc techniczna Premier for Partners (PSfP): uzyskiwanie dostępu do pełnego katalogu usług Active Services, 24/7 z podwyższonym poziomem uprawnień/Rozwiązywanie problemów oraz zarządzanie kontami technicznymi w chmurze, hybrydowej i lokalnej. 
+
+Porównaj [Opcje kontraktu pomocy technicznej](https://partner.microsoft.com/support/partnersupport) , aby zakupić zakwalifikowany plan.
+
+### <a name="direct-bill-partner-recommendations"></a>Zalecenia dotyczące partnera Bill Direct
+
+**Zademonstrowanie kluczowych możliwości**
+
+Aby zapewnić gotowość i wiedzę o infrastrukturze wymaganej do obsługi programu Direct Bill, mamy kilka dodatkowych zaleceń. Zaprezentuj, że podajesz co najmniej jedną zarządzaną aplikację, usługę IP lub rozwiązanie klienta. Partnerzy powinni dodać wartość na Microsoft Cloud usług, a nie tylko bezpośrednio odsprzedaż naszych usług. Jest to ważna część strategii przechodzenia do rynku partnera. [Dowiedz się więcej](https://partner.microsoft.com/solutions/managed-services) na temat dodawania usług zarządzanych. Zalecamy spełnienie minimalnych możliwości infrastruktury, takich jak rozliczenia i Inicjowanie obsługi administracyjnej. 
+
+Bezpośredni partnerzy Bill w programie CSP, którzy nie spełniają nowych wymagań, będą musieli ponownie zarejestrować się jako pośrednich odsprzedawca w programie w ramach Microsoft Partner Network. [Dowiedz się więcej](https://docs.microsoft.com/partner-center/transition-direct-to-indirect) o tym, jak można dokonać przejścia z bezpośredniego partnera rozliczeniowego do pośredniego odsprzedawcy.  
+
+### <a name="next-steps"></a>Następne kroki
+
+- Zapoznaj się z [zaktualizowanymi wymaganiami partnera bezpośredniego rachunku](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements).
+- Zapoznaj się z często zadawanymi pytaniami i innymi informacjami w [galerii zasobów operacyjnych w witrynie sieci Web partnera firmy Microsoft](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/).
+- Znajdź [dostawcę pośredniego, z którym chcesz pracować](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider) , jeśli opcja odsprzedawca pośredni pasuje do potrzeb Twojej firmy.
 ________________________________
 
 ## <a name="microsoft-365-business-voice-offer-updates"></a><a name="12"></a>Aktualizacje oferty głosu Microsoft 365 Business
@@ -164,7 +229,7 @@ Te promocje mają wpływ na następujących klientów:
 - Nowe dzierżawy klientów w sieci
 - Istniejące dzierżawy klientów, którzy nie zostali aktywni lub ostatnio anulowani (w ciągu ostatnich 30 dni) subskrypcje dotyczące dowolnej licencji głosu lub konferencji dźwiękowej w ramach usług CSP, sieci Web bezpośrednio lub innych kanałów komercyjnych firmy Microsoft
 
-#### <a name="additional-resources"></a>Zasoby dodatkowe
+#### <a name="additional-resources"></a>Dodatkowe zasoby
 
 - Odwiedź [stronę Microsoft 365 Business partnera komunikacji głosowej](https://www.microsoft.com/microsoft-365/partners/businessvoice) , aby dowiedzieć się więcej o głosowaniu biznesowym. 
 - Aby dowiedzieć się więcej o [możliwościach konferencji audio](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365), zobacz konferencje audio w Microsoft 365.
@@ -421,7 +486,7 @@ Partnerzy dostawcy rozwiązań w chmurze (CSP)
 - Licencja subskrypcyjna użytkownika (NALICZENIA) klienta usługi Dynamics 365 
 - Rozwiń pozycję oferty do dostawcy CSP
 
-### <a name="additional-resources"></a>Zasoby dodatkowe
+### <a name="additional-resources"></a>Dodatkowe zasoby
 
 - Aby uzyskać szczegółowe informacje o IDENTYFIKATORze oferty, Przejrzyj kartę operacje projektu w dokumencie programu [Dynamics CSP Offers-November 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) w programie Excel.
 - Więcej informacji znajdziesz na [stronie głównej głosu klienta systemu Microsoft Dynamics 365](https://dynamics.microsoft.com/customer-voice/overview/).

@@ -46,6 +46,8 @@
       items:
         - name: Dowiedz się więcej na temat kompetencji
           href: learn-about-competencies.md
+        - name: Kompetencje — często zadawane pytania
+          href: competencies-faq.md
         - name: Wyłączenie kompetencji dla deweloperów aplikacji
           href: app-dev-isv.md
     - name: Zaawansowane specjalizacje
