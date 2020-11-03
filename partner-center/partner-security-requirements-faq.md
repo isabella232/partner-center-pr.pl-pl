@@ -9,14 +9,14 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fe0cb6ce028049ae8e9b911608d649d09f0d9217
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 9f60b6e2624bd4f9020181a936842bdb46db8aa9
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "92530160"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133052"
 ---
-# <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Często zadawane pytania dotyczące wymagań dotyczących zabezpieczeń partnerów
+# <a name="common-questions-about-partner-security-requirements"></a>Często zadawane pytania dotyczące wymagań dotyczących zabezpieczeń partnerów
 
 **Dotyczy**
 
@@ -26,17 +26,16 @@ ms.locfileid: "92530160"
 
 - Wszyscy aktywni użytkownicy, w tym użytkownicy-Goście
 
-## <a name="partner-security-requirements"></a>Wymagania dotyczące zabezpieczeń partnerów
 
-Ten artykuł zawiera kilka często zadawanych pytań dotyczących wymagań związanych z [bezpieczeństwem partnerów](partner-security-requirements.md).
+Ten artykuł zawiera odpowiedzi na niektóre często zadawane pytania dotyczące [wymagań dotyczących zabezpieczeń partnerów](partner-security-requirements.md).
 
-### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement"></a>Jakie są wymagania dotyczące zabezpieczeń partnerów i Dlaczego partnerzy powinni zaimplementować?
+### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement-them"></a>Jakie są wymagania dotyczące zabezpieczeń partnerów i Dlaczego partnerzy implementują je?
 
-Większe i aktualne zabezpieczenia dotyczące zabezpieczeń i ochrony prywatności znajdują się wśród naszych najważniejszych priorytetów i będziemy nadal pomagać partnerom chronić klientów i dzierżawców. Nadal widzimy bardziej zaawansowane, zwiększając liczbę ataków na zabezpieczenia, głównie związanych ze zdarzeniami naruszenia tożsamości. Ponieważ kontrole prewencyjne odgrywają kluczową rolę w ogólnej strategii obrony przed atakami z wykorzystaniem zabezpieczeń, wprowadziliśmy [obowiązkowe wymagania dotyczące bezpieczeństwa](partner-security-requirements.md) w 2019. Wszyscy partnerzy uczestniczący w programie dostawcy rozwiązań w chmurze (CSP), dostawcy panelu sterowania i doradcy powinni zaimplementować wymagania, aby zachować zgodność.
+Większe i aktualne zabezpieczenia dotyczące zabezpieczeń i ochrony prywatności znajdują się wśród naszych najważniejszych priorytetów i będziemy nadal pomagać partnerom chronić klientów i dzierżawców. Nadal widzimy bardziej zaawansowane, zwiększając liczbę ataków na zabezpieczenia, głównie związanych ze zdarzeniami naruszenia tożsamości. Ponieważ kontrole prewencyjne odgrywają kluczową rolę w ogólnej strategii obrony przed atakami z wykorzystaniem zabezpieczeń, wprowadziliśmy [obowiązkowe wymagania dotyczące bezpieczeństwa](partner-security-requirements.md) w 2019. Wszyscy partnerzy uczestniczący w programie dostawcy rozwiązań w chmurze (CSP), dostawcy panelu sterowania i doradcy muszą zaimplementować wymagania, aby zachować zgodność.
 
 ### <a name="what-are-the-key-timelines-and-milestones"></a>Jakie są kluczowe osie czasu i punkty kontrolne?
 
-Warunki związane z tymi wymaganiami dotyczącymi zabezpieczeń, w tym osie czasu i punkty kontrolne, są zawarte w [umowie partnerskiej firmy Microsoft](microsoft-partner-agreement.md) w 2019. Należy zaimplementować te wymagania dotyczące zabezpieczeń tak szybko, jak to możliwe, aby zachować zgodność z uczestnictwem w programie CSP.
+Warunki związane z tymi wymaganiami dotyczącymi zabezpieczeń, w tym osie czasu i punkty kontrolne, są zawarte w [umowie partnerskiej firmy Microsoft](microsoft-partner-agreement.md). Należy zaimplementować te wymagania dotyczące zabezpieczeń tak szybko, jak to możliwe, aby zachować zgodność z uczestnictwem w programie CSP.
 
 ### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>Co się stanie, jeśli nie zostaną zaimplementowane te wymagania dotyczące zabezpieczeń partnerów?
 
@@ -46,11 +45,11 @@ Partnerzy, którzy nie przestrzegają tych praktyk w zakresie zabezpieczeń, mog
 
 ### <a name="do-the-security-requirements-apply-to-all-geographies"></a>Czy wymagania dotyczące zabezpieczeń mają zastosowanie do wszystkich lokalizacje geograficzne?
 
-Tak, wymagania dotyczące zabezpieczeń mają zastosowanie do wszystkich lokalizacje geograficzne. Zdecydowanie zalecamy, aby wszyscy partnerzy zajmujący się prowadzeniem działalności w chmurze suwerennej (21Vianet, Administracja USA i Niemcy) bezzwłocznie zadziałają i przyjmują nowe wymagania dotyczące zabezpieczeń. Jednak ci partnerzy nie muszą spełniać nowych wymagań bezpieczeństwa obowiązujących 1 sierpnia. Firma Microsoft zapewni dodatkowe szczegóły dotyczące wymuszania tych wymagań w zakresie bezpieczeństwa dla suwerennych chmur w przyszłości.
+Tak, wymagania dotyczące zabezpieczeń mają zastosowanie do wszystkich lokalizacje geograficzne. Zdecydowanie zalecamy, aby wszyscy partnerzy zajmujący się prowadzeniem działalności w chmurze suwerennej (rząd Stanów Zjednoczonych i Niemcy) bezzwłocznie zadziałali i przyjmują nowe wymagania dotyczące zabezpieczeń. Jednak ci partnerzy nie są obecnie zobowiązani do spełnienia wymagań dotyczących zabezpieczeń. Firma Microsoft zapewni dodatkowe szczegóły dotyczące wymuszania tych wymagań w zakresie bezpieczeństwa dla suwerennych chmur w przyszłości.
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>Czy jest możliwe wykluczenie konta?
 
-Nie, nie jest możliwe wykluczenie żadnego konta użytkownika z wymogu posiadania usługi MFA. Mając wysoce uprzywilejowany charakter partnera, umowa partnerska firmy Microsoft wymaga, aby uwierzytelnianie wieloskładnikowe było wymuszane dla każdego konta użytkownika w dzierżawie partnerskiej.
+Nie, nie jest możliwe wykluczenie żadnego konta użytkownika z wymogu posiadania uwierzytelniania wieloskładnikowego (MFA). Mając wysoce uprzywilejowany charakter partnera, umowa partnerska firmy Microsoft wymaga, aby uwierzytelnianie wieloskładnikowe było wymuszane dla każdego konta użytkownika w dzierżawie partnerskiej.
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Jak mogę sprawdzić, czy zostały spełnione wymagania dotyczące zabezpieczeń partnerów?
 
@@ -59,7 +58,7 @@ Należy wykonać następujące czynności:
 - Musisz spełnić wszystkie wymagania opisane w [wymaganiach dotyczących zabezpieczeń partnerów](partner-security-requirements.md).
 - Musisz upewnić się, że wszystkie konta użytkowników w dzierżawie partnera mają wymuszone uwierzytelnianie wieloskładnikowe.
 
-Aby ułatwić zidentyfikowanie kluczowych obszarów, w których można podjąć działania, udostępniamy raport o [stanie wymagań dotyczących zabezpieczeń](https://partner.microsoft.com/commerce/security/compliance) , który jest dostępny za pomocą Centrum partnerskiego.
+Aby ułatwić zidentyfikowanie kluczowych obszarów, w których można podjąć działania, udostępniamy [raport o stanie wymagań dotyczących zabezpieczeń](https://partner.microsoft.com/commerce/security/compliance) , który jest dostępny za pomocą Centrum partnerskiego.
 
 Aby uzyskać więcej informacji na temat raportu o stanie, zobacz [stan wymagań dotyczących zabezpieczeń partnerów](partner-security-compliance.md) .
 
@@ -95,9 +94,9 @@ Wszyscy partnerzy w programie CSP (bezpośredni rachunek, Dostawca pośredni i p
 
     Aby [dołączyć](enroll-as-cpv.md) do Centrum partnerskiego jako dostawcę panelu sterowania i rozpocząć wdrażanie tego wymagania, wymagane są dostawcy panelu sterowania. Zapoznaj się z [centrum partnerskim: Secure Application model Framework](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Dostawcy panelu sterowania muszą akceptować i zarządzać "zgodą partnerów usług kryptograficznych" zamiast poświadczeń i czyścić wszystkie istniejące poświadczenia partnerów programu CSP.
 
-## <a name="multi-factor-authentication"></a>Multi-Factor Authentication
+## <a name="multi-factor-authentication"></a>Uwierzytelnianie wieloskładnikowe
 
-### <a name="what-is-multi-factor-authentication-mfa"></a>Co to jest Multi-Factor Authentication (MFA)?
+### <a name="what-is-multi-factor-authentication-mfa"></a>Co to jest uwierzytelnianie wieloskładnikowe (MFA)?
 
 Uwierzytelnianie wieloskładnikowe jest mechanizmem zabezpieczeń, chociaż osoby są uwierzytelniane przez więcej niż jedną wymaganą procedurę zabezpieczeń i weryfikacji. Działa przez wymaganie co najmniej dwóch następujących metod uwierzytelniania:
 
@@ -308,7 +307,7 @@ Należy sprawdzić techniczne wymagania dotyczące zabezpieczeń partnerów, je�
 
 Zasady "podstawowe" usługi Azure Active Directory (Azure AD) [są usuwane i zastępowane](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) "ustawieniami domyślnymi zabezpieczeń", tym bardziej kompleksowym zestawem zasad ochrony dla Ciebie i Twoich klientów. [Wartości domyślne zabezpieczeń](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) mogą pomóc w ochronie organizacji przed atakami z wykorzystaniem zabezpieczeń związanych z kradzieżą tożsamości.
 
-Implementacja uwierzytelniania wieloskładnikowego (MFA) zostanie usunięta z powodu wycofania zasad bazowych, jeśli nie przeszedł z zasad odniesienia do zasad ustawień domyślnych zabezpieczeń lub [innych opcji implementacji usługi MFA](partner-security-requirements.md#actions-that-you-need-to-take). Wszyscy użytkownicy w dzierżawach partnerskich, którzy wykonują operacje chronione przez usługę MFA, będą żądać wykonania weryfikacji MFA. Szczegółowe wskazówki znajdziesz [tutaj](partner-security-requirements-mandating-mfa.md).
+Implementacja uwierzytelniania wieloskładnikowego (MFA) zostanie usunięta z powodu wycofania zasad bazowych, jeśli nie przeszedł z zasad odniesienia do zasad ustawień domyślnych zabezpieczeń lub [innych opcji implementacji usługi MFA](partner-security-requirements.md#implementing-multi-factor-authentication). Wszyscy użytkownicy w dzierżawach partnerskich, którzy wykonują operacje chronione przez usługę MFA, będą żądać wykonania weryfikacji MFA. Szczegółowe wskazówki znajdziesz [tutaj](partner-security-requirements-mandating-mfa.md).
 Aby zachować zgodność i zminimalizować zakłócenia, wykonaj jedną z następujących czynności:
 
 - Przejście do domyślnych ustawień zabezpieczeń

@@ -1,5 +1,5 @@
 ---
-title: Zarządzaj oświadczeniami operacji współpracujących
+title: Zarządzanie roszczeniami związanymi ze współpracą
 description: Zapoznaj się z procesem oświadczeń współpracujących, w tym terminami, problemami z walutą i sposobami sporu odrzuconego oświadczenia współdziałania.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -7,13 +7,13 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 10/02/2020
-ms.openlocfilehash: 27b269016822157b8f3a20541fd027bd2c03ee75
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 10/29/2020
+ms.openlocfilehash: 54c90cce33a1eabc87357048c348ffa2cc03de19
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "92530196"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133154"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Zarządzaj oświadczeniami do współpracowników
 
@@ -65,13 +65,11 @@ Jeśli materiały przesłane wraz z roszczeniem dotyczącym współpracy zostan�
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 
-2. W obszarze **zachęty** wybierz pozycję **Zarządzanie planami** .
+2. W obszarze **zachęty** wybierz pozycję **Zarządzanie współobsługą** .
 
-3. Wybierz pozycję **Zarządzanie współobsługą** .
+3. Wybierz roszczenie dotyczące współpracy, które chcesz zakwestionować. Zostanie otwarta strona żądania współdziałania.
 
-4. Wybierz roszczenie dotyczące współpracy, które chcesz zakwestionować. Zostanie otwarta strona żądania współdziałania.
-
-5. W dolnej części strony wybierz pozycję **Zakwestionuj** .
+4. W dolnej części strony wybierz pozycję **Zakwestionuj** .
 
 Zespół ds. weryfikacji roszczeń dotyczących współpracy rozpatrzy roszczenie w ciągu pięciu dni roboczych. W tym czasie będzie wyświetlany stan **Kwestionowane** . Firma Microsoft może skontaktować się z Tobą, aby zażądać dodatkowych informacji. Po zakończeniu rozpatrywania zespół ds. weryfikacji zaktualizuje stan roszczenia na **Zatwierdzone** , **Odrzucone** lub **Wymagane działanie partnera** .
 

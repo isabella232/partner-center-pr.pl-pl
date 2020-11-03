@@ -1,7 +1,7 @@
 ---
 title: Omówienie programu Cloud Solution Provider
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się więcej na temat korzyści i różnych modeli w programie Cloud Solution Provider (CSP), aby ułatwić rozwój Twojej firmy dzięki nowym klientom i nowej wiedzy.
@@ -9,19 +9,19 @@ author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e1f85f670de583052807c9ff2edfa84a50bd7daf
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 9780fe0b90a4889fca1f3a887c445a75b1549eaa
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530622"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917199"
 ---
 # <a name="cloud-solution-provider-program"></a>Program dostawcy rozwiązań w chmurze 
 
 **Dotyczy**
 
 - Centrum partnerskie
-- Partnerzy w programie CSP
+
 
 Ten artykuł zawiera omówienie programu Cloud Solution Provider (CSP) i wyjaśnia różne modele operacyjne oraz ich wymagania, a także inne szczegóły dotyczące sprzedaży przez ten program.  Program CSP pozwala zwiększyć liczbę użytkowników w przedsiębiorstwach, poza odsprzedażem licencji i może obejmować następujące korzyści: 
 
@@ -41,6 +41,10 @@ Ten artykuł zawiera omówienie programu Cloud Solution Provider (CSP) i wyjaśn
 Pomoc techniczna
 
 - Rozszerz możliwości pomocy technicznej, kupując jedną z działów pomocy technicznej w chmurze z zaawansowaną obsługą firmy Microsoft. Możesz też wybrać pakiet Microsoft pomoc techniczna Premier dla partnerów, aby uzyskać dostęp do pełnego katalogu usług Active Services, 24/7 z podwyższonym poziomem uprawnień/rozwiązywania problemów oraz zarządzania kontami technicznymi w chmurze, hybrydowej i lokalnej.
+
+Przychód
+
+- Musi spełniać co najmniej USD300K w okresie rocznym programu dostawcy rozwiązań w chmurze w ciągu poprzednich 12 miesięcy jako pośredniego odsprzedawcy. Partnerzy mogą przeglądać swoje końcowe dwanaście miesięcy w centrum partnerskim. sprzedaż, która składa się z 12-miesięcznego przychodu USD300K, podlega przeglądowi i sprawdzeniu przez firmę Microsoft, a użytkownik może zostać poproszony o podanie dodatkowych informacji. Wymagania dotyczące przychodów USD300K są obliczane na podstawie przychodów w chmurze i wykluczają oprogramowanie bezterminowe w dostawcy usług kryptograficznych.
 
 Usługi
 

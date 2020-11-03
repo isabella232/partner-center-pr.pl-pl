@@ -9,21 +9,25 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e9ffa6ef8145099a90fde16e4ce8d6a3453973e0
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3cd791f5f9f781980d73c79f0ec18627585372a
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92530075"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795869"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Zmiana z partnera z rozliczaniem bezpośrednim w programie Cloud Solution Provider (CSP) na odsprzedawcę pośredniego w programie CSP
 
 **Dotyczy:**
+- Centrum partnerskie
 
-- Partnerzy CSP
+**Odpowiednie role**
+
+- Wszyscy partnerzy bezpośrednich rachunków CSP
 
 >[!Note]
 >Ten artykuł jest przeznaczony dla partnerów rozliczeniowych bezpośrednich, którzy zdecydują się przejść do odsprzedawcy pośredniego. Jednak nawet jeśli nie zostały jeszcze jawne decyzje dotyczące rejestracji jako pośredniego odsprzedawcy, bezpośredni partnerzy rozliczani, którzy nie spełniają nowych [wymagań](direct-partner-new-requirements.md) programu CSP Direct Bill partner, zostaną powiadomieni przez firmę Microsoft, gdy ich [bezpośrednie rozliczenie będzie ograniczone](restricted-direct-bill-capabilities.md).
+<br>Od stycznia 2021 zostanie dodane nowe wymaganie dotyczące przychodu. Partnerzy zarejestrowani jako bezpośredni partner rozliczania muszą mieć co najmniej USD $300 tysięcy pozycji w przychodach programu dostawcy rozwiązań w chmurze na poziomie konta globalnego partnera w ciągu ostatnich 12 miesięcy.
 
 Będziesz w stanie zarejestrować się w programie pośredniego odsprzedawcy przy użyciu istniejącej dzierżawy rozliczeniowej.
 
@@ -337,7 +341,7 @@ Partner przechodzenia powinien wykonać następujące czynności:
 
    :::image type="content" source="images/direct/direct13.png" alt-text="Omówienie":::
 
-### <a name="considerations"></a>Zagadnienia do rozważenia
+### <a name="considerations"></a>Kwestie do rozważenia
 
 - **Identyfikator subskrypcji będzie inny po przeniesieniu.** Jeśli jest to subskrypcja platformy Azure (MS-AZR-0145P), będzie ona mieć identyfikator subskrypcji platformy Azure, który jest zachowywany przez poprzedniego właściciela i zostanie wyświetlony w portalu zarządzania Azure.
 

@@ -1,5 +1,5 @@
 ---
-title: Anonse 2020 kwietnia
+title: Ogłoszenia z kwietnia 2020 r.
 description: Anonse 2020 z kwietnia dla Centrum partnerskiego firmy Microsoft, takie jak nowe możliwości, promocje, oferty, rynki lub zmiany w istniejących ofertach.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,14 +9,14 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 7591868f31d51750fcb30c41f73cea47c7178955
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92530381"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132998"
 ---
-# <a name="april-2020-announcements"></a>Anonse 2020 kwietnia
+# <a name="april-2020-announcements"></a>Ogłoszenia z kwietnia 2020 r.
 
 Na tej stronie znajdują się szczegółowe informacje o anonsach programu Microsoft Partner Center dla kwietnia 2020.
 
@@ -60,7 +60,7 @@ Nowi klienci uprawnieni do tej promocji to:
 1. Nowe dzierżawy klientów w sieci
 2. Istniejący klienci, którzy nie mają obecnie płatnych lub ostatnio anulowanych subskrypcji (w ciągu ostatnich 30 dni) w swojej dzierżawie dla każdego produktu zdefiniowanego w ramach usługi [partner firmy Microsoft — często zadawane pytania](https://aka.ms/CSPCOVIDPromo).
 
-### <a name="additional-resources"></a>Zasoby dodatkowe
+### <a name="additional-resources"></a>Dodatkowe zasoby
 
 - Przejdź do [centrum zdalnych zasobów roboczych partnera](https://www.microsoft.com/microsoft-365/partners/remotework) , aby dowiedzieć się więcej na temat bezpiecznego zdalnego działania.
 - Dowiedz się więcej o tych zmianach z [często zadawanych pytań dotyczących partnera](https://aka.ms/CSPCOVIDPromo).
@@ -177,7 +177,7 @@ Aby pomóc w ulepszaniu partnerów i klientów, **od 1 maja 2020, zaczniemy akty
 - Odwiedź [stronę stanu wymagań zabezpieczeń Centrum partnerskiego](https://partner.microsoft.com/commerce/security/compliance) , aby określić postęp i kluczowe akcje do wykonania. Skontaktuj się z administratorem globalnym, aby sprawdzić postęp wymagań związanych z zabezpieczeniami regularnie dla każdej dzierżawy.
 - Jeśli używasz rozwiązania dostawcy panelu sterowania (CPV), zapoznaj się z tym CPV.
 
-### <a name="additional-resources"></a>Zasoby dodatkowe
+### <a name="additional-resources"></a>Dodatkowe zasoby
 
 Przejrzyj te zasoby, aby pomóc w zaimplementowaniu wymagań dotyczących zabezpieczeń.
 
@@ -192,7 +192,7 @@ Aby uzyskać dodatkową pomoc dotyczącą problemów technicznych, [Prześlij bi
 Dziękujemy za partnerstwo i zobowiązanie do zapewnienia, że ekosystem działa w ramach zaufania.
 
 >[!NOTE] 
->Jeśli używasz zasad linii bazowej i nie przeszedł do zasad dotyczących ustawień domyślnych zabezpieczeń lub [innych opcji implementacji usługi MFA](..\partner-security-requirements.md#actions-that-you-need-to-take), przejdź jak najszybciej, jak to możliwe, odwołujące się do [najważniejszych zasobów](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
+>Jeśli używasz zasad linii bazowej i nie przeszedł do zasad dotyczących ustawień domyślnych zabezpieczeń lub [innych opcji implementacji usługi MFA](..\partner-security-requirements.md#implementing-multi-factor-authentication), przejdź jak najszybciej, jak to możliwe, odwołujące się do [najważniejszych zasobów](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
 
 ### <a name="change-log"></a>Dziennik zmian
 
@@ -237,7 +237,7 @@ Aby uzyskać dostęp do zmian, wykonaj następujące kroki:
 
 Alternatywnie Zaloguj się do Centrum partnerskiego i przejdź do [tego adresu URL](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c007d538-f817-84e3-06b5-ff4005c1a6bb).
 
-### <a name="additional-resources"></a>Zasoby dodatkowe
+### <a name="additional-resources"></a>Dodatkowe zasoby
 
 Aby uzyskać więcej informacji na temat umowy klienta firmy Microsoft, zapoznaj się z kolekcją [tutaj](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
 
@@ -280,7 +280,7 @@ Udostępnij te informacje odpowiednim kontaktom w organizacji. Może to być wsp
 
 Więcej informacji publicznych będzie można uzyskać w dalszej części roku, aby udostępnić je klientom.
 
-### <a name="additional-resources"></a>Zasoby dodatkowe
+### <a name="additional-resources"></a>Dodatkowe zasoby
 
 - Aby uzyskać więcej informacji, odwiedź stronę [zaawansowanej ochrony przed zagrożeniami w usłudze Microsoft Defender](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp) .
 - Zapoznaj się z [dokumentacją Azure Security Center](/azure/security-center/) , aby uzyskać więcej informacji dotyczących Azure Security Center.
@@ -560,7 +560,7 @@ Od 1 kwietnia 2020 handlu elektronicznego oferty mają nazwę wyświetlaną i/lu
 |Wyświetl i PFAM|Dynamics 365 Commerce Cloud Scale Unit w warstwie Standardowa|Dynamics 365 Commerce — jednostka skalowania Basic — chmura|
 |Wyświetl i PFAM|Dynamics 365 Commerce Cloud Scale Unit — wersja Premium|Dynamics 365 Commerce Scale Unit — wersja Premium — chmura|
 
-### <a name="additional-resources"></a>Zasoby dodatkowe
+### <a name="additional-resources"></a>Dodatkowe zasoby
 
 - [Strona główna Dynamics 365](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [Strona główna przewodnika po aplikacjach dla rzeczywistości mieszanej](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)

@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 11a37c0f0ac9218ec488441948faaa7b665bf0f3
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
+ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530675"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "93244067"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Wyświetlaj i Eksportuj szczegóły programu zachęty oraz zarządzaj nimi
 
@@ -89,7 +89,7 @@ Aby uzyskać dostęp do **przeglądu moich zachęt** :
 ## <a name="payments-page"></a>Strona płatności
 Sumy na tej stronie reprezentują wszystkie używane identyfikatory MPN. Możesz filtrować według identyfikatora uczestnika, programu, identyfikatora płatności i typu zarobków. Kwoty są podane w dolarach amerykańskich. Wartość płatności jest wyświetlana również w walucie płatności.
 
-|**Warstwowy**   |**Opis**    |
+|**Obszar**   |**Opis**    |
 |------------------|:-------------------------------------|
 |Suma płatna w tym roku        |Łączna kwota została połączona z tym rokiem w dolarach amerykańskich dla wszystkich identyfikatorów MPN.                                      |
 |Następna Szacowana płatność      |Pojedyncza Następna płatność (nawet jeśli istnieją inne osoby już wkrótce) w dolarach amerykańskich.                                     |
@@ -106,6 +106,61 @@ Aby wyświetlić więcej szczegółów na temat zdobywania, wybierz strzałkę w
 
 Aby wyeksportować wszystkie dane transakcji na tej stronie, wybierz pozycję **Eksportuj** , a następnie postępuj zgodnie z instrukcjami na stronie Eksportuj dane. Pliki eksportowane ze strony Historia transakcji zawierają dane w walucie transakcji, zyski w walucie transakcji i dolarach amerykańskich oraz płatne wartości w walucie.
 
+### <a name="submit-your-tax-invoice-as-proof-of-execution-poe"></a>Prześlij fakturę podatkową jako dowód wykonania (PoE)
+
+>[!NOTE]
+>Ta zawartość odnosi się **tylko** do partnerów z Indii, Chin, Włoch, Korei, Meksyku i Tajwanu. <br><br>Partnerzy w Indiach są zobowiązani do przesłania twardej kopii faktury podatkowej.
+
+#### <a name="submit-a-tax-invoice"></a>Przesyłanie faktury podatkowej
+
+Jeśli jesteś partnerem w jednym z wymienionych powyżej państw, firma Microsoft powiadomi Cię pocztą e-mail o konieczności przesłania faktury podatkowej w celu zazyskania zarobków bodźców. Otrzymana wiadomość e-mail zawiera instrukcje przesyłania faktury podatkowej, a także wszystkie wymagane informacje dodatkowe.
+
+Partnerzy w Indiach są zobowiązani do przesłania faktury podatkowej w postaci kopii. Partnerzy w innych krajach mogą przesłać trwałą lub niemiękką kopię.
+
+Musisz przesłać fakturę podatkową w ciągu 180 dni od zgłoszenia. Po otrzymaniu i zweryfikowaniu faktury będziemy przetwarzać płatność za zachętę.
+
+Musisz przesłać następujące informacje wraz z fakturą podatkową:
+
+- Numer faktury (to jest generowana przez Ciebie liczba) 
+
+- Kod referencyjny dla bodźców kanału (CI) (dostarczony przez firmę Microsoft) 
+
+- Nazwa programu zachęty
+
+- Nazwa prawna i adres płatnika w profilu partnera 
+
+- Kwota zarobków
+
+- Kwota podatku
+
+Jeśli nie znasz numeru referencyjnego zachęty kanału (CI), możesz go znaleźć w następujących trzech miejscach: 
+
+- Powiadomienie e-mail wysyłane przez firmę Microsoft do administratora zachęty. 
+
+- [Pulpit nawigacyjny Centrum partnerskiego](https://partner.microsoft.com/dashboard/) (wymagane logowanie) na karcie **Płatne** i na karcie **oczekujące** .  
+
+- Twój raport dotyczący płatności, który znajduje się na [stronie eksportowania pobierania płatności](/partner-center/understand-incentive-payouts#payment-download-export). 
+
+#### <a name="if-your-submission-is-rejected"></a>Jeśli przesłane dane zostały odrzucone
+
+Najbardziej prawdopodobną przyczyną odrzucenia zgłoszenia jest to, że informacje na fakturze podatkowej nie są zgodne z informacjami w naszych rekordach. Przykłady brakujących lub nieprawidłowych danych obejmują: 
+
+- Numer NIP (GST () firmy
+
+- Zharmonizowany system nazewnictwa (HSN) i kod księgowości usługi (SAC)
+
+- Numer faktury (nie może przekraczać 16 cyfr)
+
+- Data faktury
+
+- Wartość podatkowa (włącznie i na wyłączność)
+
+- Jeśli firma jest w tym samym stanie co firma Microsoft, procent podatku dla towarów centralnych i podatków za usługi (CGST) oraz podatek od towarów i usług (SGST) muszą być wyrównane.
+
+- Jeśli firma jest w innym stanie niż Microsoft, należy podać wartość procentową dla zintegrowanych towarów i podatków usług (IGST).
+
+Zgłoszenia można również odrzucić, jeśli są podane ponad 180 dni od oświadczenia, jeśli faktura jest nieprawidłowa lub dane zostały wprowadzone nieprawidłowo.
+
 ### <a name="estimated-payment-month"></a>Szacowany miesiąc płatności
 
 Strona Historia transakcji zawiera teraz tabelę przedstawiającą szacowane kwoty płatności w ciągu następnych kilku miesięcy. Te informacje można również wyświetlać i pobierać w raportach Historia transakcji i raporty podsumowujące. Te informacje ułatwiają uzgadnianie i projekcje płatności.
@@ -116,7 +171,7 @@ Szacowany miesiąc płatności jest obecnie dostępny dla wszystkich typów zdob
 
 #### <a name="estimated-payment-month-example"></a>Przykład szacowanego miesiąca płatności
 
-| Miesiąc | Kwota |
+| Month (Miesiąc) | Kwota |
 | ------ | :-----------: |
 |  Wrz-2020 |  $7 273,99   |
 |  Paź-2020 | $8 692,30  |

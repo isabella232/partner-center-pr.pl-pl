@@ -1,7 +1,7 @@
 ---
 title: Upoważnianie usługi MFA w dzierżawie partnera
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 10/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, jak mandat usługi MFA dla dzierżawców partnerskich pomoże Ci zabezpieczyć dostęp do zasobów klientów. Obejmuje przykładowe scenariusze.
@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a85a7e415eac7f54ccd52302e350ce20de9856d
-ms.sourcegitcommit: 0cea15df24a6a1b310535eb1cb5e167dc2248a95
+ms.openlocfilehash: 01122e81254a8e63f9bbf8d6bc3d3271accac74a
+ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "92530442"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92680398"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Wymaganie uwierzytelniania wieloskładnikowego (MFA) dla dzierżawy partnerskiej
 
@@ -43,9 +43,7 @@ Partnerzy są zobowiązani do wymuszania uwierzytelniania wieloskładnikowego (M
 
 Większe i aktualne zabezpieczenia dotyczące zabezpieczeń i ochrony prywatności znajdują się wśród naszych najważniejszych priorytetów i będziemy nadal pomagać partnerom chronić klientów i dzierżawców. Wszyscy partnerzy uczestniczący w programie dostawcy rozwiązań w chmurze (CSP), dostawcy panelu sterowania (CPVs) i doradcy powinni zaimplementować [wymagania dotyczące zabezpieczeń partnerów](partner-security-requirements.md) , aby zachować zgodność.
 
-Firma Microsoft rozpoczęła aktywację dodatkowych zabezpieczeń dla dzierżawców partnerów. Ta aktywacja zabezpieczeń może pomóc partnerom w zabezpieczeniu swoich dzierżawców i ich klientów przez upoważnienie weryfikacji uwierzytelniania wieloskładnikowego (MFA), aby zapobiec nieautoryzowanemu dostępowi.
-
-Pomyślnie ukończono aktywację dla funkcji administracji delegowanej przez partnera do wszystkich dzierżawców partnerów. Aby dodatkowo pomóc w ochronie partnerów i klientów, od 1 maja 2020, rozpocznie aktywację transakcji Centrum partnerskiego w programie CSP, pomagając partnerom chronić firmy i klientów przed zdarzeniami związanymi z kradzieżą tożsamości.
+Aby ułatwić partnerom ochronę firm i klientów przed zdarzeniami związanymi z kradzieżą tożsamości, firma Microsoft opracowała dodatkowe zabezpieczenia dla dzierżawców partnerskich, które mogą pomóc partnerom w uzyskaniu dostępu do dzierżawców i ich klientów przez proces weryfikacji uwierzytelniania wieloskładnikowego (MFA) w celu zapobiegania nieautoryzowanemu dostępowi. 
 
 Ta dokumentacja zawiera partnerów ze szczegółowym doświadczeniem i wskazówkami dotyczącymi aktywacji zabezpieczeń.
 

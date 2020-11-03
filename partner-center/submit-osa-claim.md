@@ -1,7 +1,7 @@
 ---
 title: Tworzenie skojarzenia klienta
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Utwórz skojarzenia klientów z modelem "Partnering partnera rekordu (CPOR)". Pomaga zarządzać sprzedażą, użyciem, zachętami dla klientów Microsoft 365 & Dynamics 365.
@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e34698b51a159445f4354e366f79f510533e6f30
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: fec01e6c4554421593de4135ccd1af5c5e7ce13b
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530471"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917261"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Skojarzenia klientów z modelem zatwierdzono partnera rekordu (CPOR) dla Microsoft 365 i Dynamics 365
 
@@ -35,9 +35,9 @@ Aby dokończyć zastrzeżenie, potrzebne są następujące informacje:
 
 - **Identyfikator MPN** dla jednostki, która tworzy to zgłoszenie
 
-- **Nazwa domeny** klienta [Znajdź ten](find-domain-name.md)
+- **Nazwa domeny** klienta [Znajdź ten](find-ids-and-domain-names.md)
 
-- **Identyfikator katalogu** lub **Identyfikator dzierżawy** klienta [Znajdź ten](find-domain-name.md)
+- **Identyfikator katalogu** lub **Identyfikator dzierżawy** klienta [Znajdź ten](find-ids-and-domain-names.md)
 
 - **Obszar rozwiązania** , taki jak Business Applications lub Microsoft 365
 
@@ -73,7 +73,7 @@ Należy również zrozumieć następujące kwestie:
 
 3. W górnej części strony skojarzenia klienta wybierz pozycję **+ skojarzenie klienta** .
 
-4. Wybierz **identyfikator MPN** lokalizacji partnera, która ma zostać skojarzona z klientem, a następnie dodaj nazwę domeny klienta i identyfikator katalogu. [Znajdź ten](find-domain-name.md)
+4. Wybierz **identyfikator MPN** lokalizacji partnera, która ma zostać skojarzona z klientem, a następnie dodaj nazwę domeny klienta i identyfikator katalogu. [Znajdź ten](find-ids-and-domain-names.md)
 
 5. Wybierz opcję **Kontynuuj** .
 

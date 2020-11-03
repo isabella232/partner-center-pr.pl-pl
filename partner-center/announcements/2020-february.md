@@ -1,5 +1,5 @@
 ---
-title: Powiadomienia 2020 lutego
+title: Ogłoszenia z lutego 2020 r.
 description: Powiadomienia 2020 lutego dla Centrum partnerskiego firmy Microsoft, takie jak nowe możliwości, promocje, oferty, rynki lub zmiany w istniejących ofertach.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,14 +9,14 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 4023c4a6b0bae4bb77655aed568ec22b81862884
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 7e608752b76c940e83434d7ec7daf3e4058512bd
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92530352"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132848"
 ---
-# <a name="february-2020-announcements"></a>Powiadomienia 2020 lutego
+# <a name="february-2020-announcements"></a>Ogłoszenia z lutego 2020 r.
 
 Ta strona zawiera szczegółowe informacje dotyczące anonsów dla programu Microsoft Partner Center CSP dla lutego 2020.
 
@@ -175,7 +175,7 @@ Nasz system wskazuje, że organizacja korzysta obecnie z zasad bazowych, ale nie
 
 ### <a name="key-considerations"></a>Najważniejsze zagadnienia
 
-Zasady ustawień domyślnych zabezpieczeń są jedną z [opcji](../partner-security-requirements.md#actions-that-you-need-to-take) , które partnerzy mogą wybrać wdrożenie usługi MFA w celu spełnienia wymagań dotyczących zabezpieczeń w zależności od potrzeb firmy. Oferuje on podstawowy poziom zabezpieczeń włączony bez dodatkowych kosztów. Zapoznaj się z [tematem Włączanie usługi MFA dla Twojej organizacji za pomocą usług Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) oraz najważniejszych zagadnień poniżej:
+Zasady ustawień domyślnych zabezpieczeń są jedną z [opcji](../partner-security-requirements.md#implementing-multi-factor-authentication) , które partnerzy mogą wybrać wdrożenie usługi MFA w celu spełnienia wymagań dotyczących zabezpieczeń w zależności od potrzeb firmy. Oferuje on podstawowy poziom zabezpieczeń włączony bez dodatkowych kosztów. Zapoznaj się z [tematem Włączanie usługi MFA dla Twojej organizacji za pomocą usług Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) oraz najważniejszych zagadnień poniżej:
 
 - W przypadku partnerów, którzy korzystają z [dostępu warunkowego](/azure/active-directory/conditional-access/concept-conditional-access-policy-common), ustawienia domyślne zabezpieczeń nie będą dostępne.
 - Domyślne ustawienia zabezpieczeń wymuszają wszystkie zasady jednocześnie, w tym wymagane uwierzytelnianie MFA dla administratorów, zasady ochrony użytkowników końcowych i wymagane uwierzytelnianie wieloskładnikowe na potrzeby zarządzania usługami.
@@ -247,7 +247,7 @@ Zapoznaj się z listą ofert 0aa62437-b86a-48BD-ae51-85c8dcec5e6d.
 
 Zapoznaj się z cennikiem. Te informacje są również udostępniane wszystkim odpowiednim kontaktom w organizacji, szczególnie w zespole sprzedaży.
 
-**Masz pytania?**
+**Masz?**
 
 Jeśli masz jakieś pytania dotyczące tych ofert, Sprawdź odpowiednią grupę partnerów w usłudze Yammer.
 
@@ -423,7 +423,7 @@ Następujące oferty nie są już dostępne dla zasobów ludzkich systemu Dynami
 
 1 lutego 2020 firma Microsoft zmieniła nazwy niektórych rodzin produktów i oferuje możliwość dostosowania nazw istniejących ofert dla platformy Dynamics i usługi na platformie PowerShell w innych kanałach i regionach. Zapoznaj się ze szczegółowymi zmianami w pliku zatytułowanym "Dynamics CSP Offer Name Changess — luty 2020" [tutaj](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#).
 
-### <a name="additional-resources"></a>Zasoby dodatkowe
+### <a name="additional-resources"></a>Dodatkowe zasoby
 
 - [Strona główna usługi Dynamics 365](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [Strona główna przewodnika po aplikacjach dla rzeczywistości mieszanej](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)

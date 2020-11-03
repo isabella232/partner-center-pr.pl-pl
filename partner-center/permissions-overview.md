@@ -1,7 +1,7 @@
 ---
 title: Przypisywanie ról & uprawnień użytkownikom
 ms.topic: article
-ms.date: 09/04/2020
+ms.date: 10/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, które role najlepiej nadają się użytkownikom firmy, którzy zarządzają komercyjnymi transakcjami, odwołaniami, bodźcami lub członkostwem MPN w centrum partnerskim.
@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92530261"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133035"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Przypisywanie ról i uprawnień użytkowników dla użytkowników firmy, którzy chcą korzystać z Centrum partnerskiego
 
@@ -52,7 +52,7 @@ Należy określić typy dostępu użytkowników do Centrum partnerskiego według
 ||* Tworzenie biletów pomocy technicznej dla Centrum partnerskiego
 ||* Przeglądanie utworzonych biletów pomocy technicznej
 |Użytkownik domyślny|  Wyświetl mój profil   |[Resetowanie hasła](reset-my-pasword.md)
-|Agent administracyjny | * Zarządzanie klientami|[Nawiązywanie połączenia z klientami](connect-with-your-customers.md)
+|Agent administracyjny | * Zarządzanie klientami|[Nawiązywanie relacji z klientami](connect-with-your-customers.md)
 ||* Dodaj listę urządzeń do Centrum partnerskiego
 ||* Tworzenie i stosowanie profilów na urządzeniach
 ||* Zarządzanie subskrypcjami
@@ -97,8 +97,6 @@ CPVs opracowywać aplikacje do użycia przez partnerów dostawcy rozwiązań w c
 |**Użytkownik-Gość**   | **Role**|
 |---------------------------|:--------------------|
 ||Administrator partnerski MPN|
-||Administrator kont|
-||Administrator zachęt|
 ||Administrator profilu biznesowego|
 ||Administrator odwołań|
 
@@ -122,7 +120,7 @@ Role te nie są Azure Active Directory rolami. Role te zarządzają firmową fir
 ||* Wyświetl inne role użytkownika w firmie, ale nie można przypisać ról
 ||* Tworzenie biletów pomocy technicznej dla Centrum partnerskiego
 ||* Przeglądanie utworzonych biletów pomocy technicznej
-|Administrator konta| Dodaj lokalizacje|[Zarządzaj lokalizacjami](manage-locations.md)
+|Administrator konta| Dodaj lokalizacje|[Zarządzanie lokalizacjami](manage-locations.md)
 || Zarządzanie profilami związanymi z kontami, dla których jesteś administratorem 
 ||* Przypisywanie ról dla użytkowników w dzierżawie do ról spoza usługi Azure Active Directory 
 ||* Rejestrowanie lokalizacji w programach
@@ -138,7 +136,7 @@ Role te nie są Azure Active Directory rolami. Role te zarządzają firmową fir
 ||* Odbierz odwołania i zarządzaj nimi
 ||* Wyświetlanie i tworzenie odwołań do współsprzedażowych oraz zarządzanie nimi|
 ||* Wyświetlanie i tworzenie żądań obsługi partnerów oraz zarządzanie nimi
-|Administrator profilu biznesowego   |* Wyświetlanie i tworzenie profilu biznesowego oraz zarządzanie nim |[Utwórz profil biznesowy](create-a-marketing-profile.md)
+|Administrator profilu biznesowego   |* Wyświetlanie i tworzenie profilu biznesowego oraz zarządzanie nim |[Tworzenie profilu biznesowego](create-a-marketing-profile.md)
 ||* Wyświetlanie i tworzenie żądań obsługi partnerów oraz zarządzanie nimi
 ||* Tworzenie biletów pomocy technicznej dla Centrum partnerskiego
 ||* Przeglądanie utworzonych biletów pomocy technicznej|

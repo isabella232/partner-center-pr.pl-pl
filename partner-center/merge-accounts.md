@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: d38c11e564d6776a5755f8df40ba6ad2dca27d12
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530520"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795835"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Merge your partner account with another partner account (Scalanie konta partnera z kontem innego partnera)
 
@@ -89,7 +89,27 @@ W przypadku podjęcia decyzji o zaakceptowaniu zaproszenia do kont scalania: · 
 3. Dodaj identyfikator MPN, który znajduje się w **profilu partnera** konta, które chcesz zaprosić do scalenia. Musisz użyć identyfikatora MPN globalnego partnera. Nie można użyć identyfikatora MPN lokalizacji.
 
 4. Po wybraniu opcji **Scal** zaproszenie jest wysyłane do firmy partnerskiej. Po zaakceptowaniu żądania można zainicjować scalanie kont w centrum partnerskim. Jeśli firma odrzuci żądanie scalania kont, może wyjaśnić, Dlaczego odrzucono żądanie. Lista wszystkich scalanych kont jest dostępna dla Ciebie w obszarze **historia scalania** .
+ 
+### <a name="example-of-two-companies-merging-accounts"></a>Przykład dwóch firm łączących konta
 
+1. Firma Contoso ma 
+
+    a. [globalny identyfikator MPN 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) i jedną lokalizację podrzędną [MPN identyfikatory 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
+  
+    b. dzierżawa usługi Azure AD = @contoso.com
+ 
+    c. Kompetencja Gold, która wygaśnie 1 października, 2020
+2. Fabricam
+ 
+    a.  globalny identyfikator MPN 3333333 i dwie lokalizacje podrzędne MPN identyfikatory 4444444 i 5555555
+
+    b.  dzierżawa usługi AAD = @fabricam.com
+
+    c.  dwie kompetencje Gold, które wygasną z grudnia 1.2020
+3.  Firma Contoso kupuje fabricam i umieszcza je w [tym miejscu](https://partner.microsoft.com/dashboard/account/merger) , aby zainicjować żądanie scalania
+4.  Fabricam się do Centrum partnerskiego i przechodzi do tej samej strony, co firma Contoso w kroku #3, aby zatwierdzić żądanie firmy Contoso.
+5.  Firma Contoso przegląda szczegóły scalania na tej samej stronie i podaje potwierdzenie, aby kontynuować łączenie się z usługą.
+    
 ## <a name="next-steps"></a>Następne kroki
 
 - [Przypisywanie ról i uprawnień użytkowników](permissions-overview.md)

@@ -1,7 +1,7 @@
 ---
 title: Współpraca z dostawcami pośrednimi w programie CSP
 ms.topic: how-to
-ms.date: 04/27/2020
+ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, jak pośrednicy Odsprzedawcy mogą współdziałać z dostawcami pośrednimi firmy Microsoft (lub dystrybutorami), aby uzyskać pomoc dotyczącą obsługi klienta i
@@ -10,20 +10,23 @@ ms.custom: contperfq2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 1b8b6f3c094471e67d43701a83da46d7dd1372a0
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92530292"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795852"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Dowiedz się, jak współdziałać z dostawcami pośrednimi w programie dostawcy rozwiązań w chmurze
 
+**Dotyczy**
+
+- Centrum partnerskie
+
 **Odpowiednie role**
 
-- Administrator globalny
-- Administrator użytkowników
-- Agent administracyjny
+
+- Wszyscy partnerzy firmy Microsoft zainteresowani rejestracją w programie dostawcy rozwiązań w chmurze
 
 
 Gwałtowne rosnące zapotrzebowanie na rozwiązania i usługi oparte na chmurze zapewnia wiele możliwości dla partnerów firmy Microsoft o wszystkich rozmiarach do tworzenia zyskownych firm rozwiązań w chmurze. Partnerzy, którzy są gotowi do wprowadzenia na rynek, ale którzy nie chcą zarządzać wieloma dostawcami lub którzy mogą nie mieć kompleksowej infrastruktury zarządzania relacjami z klientami, mogą zarejestrować się w programie Microsoft Cloud Solution Provider (CSP) jako pośrednich odsprzedawców.
@@ -47,7 +50,7 @@ Aby uzyskać więcej informacji o tym, co jest wymagane do sprzedawania w progra
 
 ### <a name="before-you-begin"></a>Przed rozpoczęciem
 
-Jeśli jesteś nowym dostawcą usług kryptograficznych, musisz zarejestrować się w programie jako pośredni odsprzedawca. Następnie musisz utworzyć konto w centrum partnerskim. W tym celu należy podać poniższe informacje podczas procesu rejestracji. Aby zebrać te elementy przed rozpoczęciem pracy, może być konieczne Poświęć kilka minut:
+Od października 2020 wszyscy partnerzy firmy Microsoft nowi dostawcy usług kryptograficznych zostaną zarejestrowani w programie CSP jako pośredni odsprzedawca. Następnie musisz utworzyć konto w centrum partnerskim. W tym celu należy podać następujące informacje podczas procesu rejestracji. Aby zebrać te elementy przed rozpoczęciem pracy, może być konieczne Poświęć kilka minut:
 
 - **Poświadczenia administratora globalnego dla konta służbowego**
 
@@ -65,7 +68,7 @@ Jeśli jesteś nowym dostawcą usług kryptograficznych, musisz zarejestrować s
 
 ### <a name="get-started"></a>Wprowadzenie
 
-1. Aby rozpocząć proces, przejdź do [**strony powitalnej**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) w celu zarejestrowania się.
+1. Aby rozpocząć proces rejestracji, przejdź na [**stronę powitalną**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) w celu zarejestrowania się.
 
 2. Przejrzyj **stronę powitalną** , aby upewnić się, że masz informacje potrzebne do rejestracji, a następnie wybierz pozycję **dalej** .
 
@@ -99,6 +102,16 @@ Jeśli jesteś nowym dostawcą usług kryptograficznych, musisz zarejestrować s
 
    2. Wybierz swoją nazwę z listy użytkowników. Następnie wybierz pozycję **Agent administracyjny** , jeśli nie została jeszcze wybrana. Wybierz pozycję **Aktualizuj** .
 
+## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Wszyscy pośrednicy odsprzedawca muszą podpisać umowę Microsoft Partner Agreement
+
+1.  Jeśli nie zostało to jeszcze przeniesione do Centrum partnerskiego z Centrum członkostwa w partnerze, zrób to teraz. Aby uzyskać pomoc dotyczącą przejścia do Centrum partnerskiego, Przeczytaj [Przewodnik dotyczący migracji z programu PMC do Centrum partnerskiego](guide-to-migration.md). 
+
+2.  Jeśli masz konto członkostwa w centrum partnerskim (identyfikator MPN), nadal musisz zarejestrować się w programie dostawcy rozwiązań w chmurze. Aby sprawdzić stan członkostwa, przejdź do [**profilu partnera**](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) i Potwierdź typ konta. Następnie [zarejestruj się w programie CSP jako pośredni odsprzedawcy](enrolling-in-the-csp-program.md). Po zarejestrowaniu jako pośredni odsprzedawcy [Zaakceptuj żądanie relacji CSP od dostawcy pośredniego](indirect-reseller-tasks-in-partner-center.md).
+
+3.  Jeśli już zarejestrowano się w centrum partnerskim jako odsprzedawca pośredni, zaakceptuj umowę partnera firmy Microsoft na [pulpicie nawigacyjnym Centrum partnerskiego](https://partner.microsoft.com/pcv/dashboard/overview) , korzystając z poświadczeń administratora globalnego. Upewnij się, że została podpisana umowa partnerska firmy Microsoft w sekcji **Informacje o programie** profilu partnera. Ponadto zobaczysz powiadomienie na banerze potwierdzającym na stronie Przegląd dostawcy usług kryptograficznych. 
+
+:::image type="content" source="images/mpagreen.png" alt-text="Zielony zaakceptowany transparent":::
+
 
 ## <a name="connect-with-an-indirect-provider"></a>Nawiąż kontakt z dostawcą pośrednim
 
@@ -128,6 +141,8 @@ Jeśli Dostawca pośredni chce połączyć się z nim w centrum partnerskim, zos
 
 
 ## <a name="next-steps"></a>Następne kroki
+
+- [Proces weryfikacji konta](verification-responses.md)
 
 - [Zarządzanie kontem w portalu Partner Center](partner-center-account-setup.md)
 

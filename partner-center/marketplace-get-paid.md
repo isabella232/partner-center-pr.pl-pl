@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.date: 09/28/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: db347387df29dc36e256881546e632bd321dfde5
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 61730eec204674d7ad095d1fffcd997f65d135ea
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530532"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189734"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Uzyskiwanie zapłaty na komercyjnej platformie handlowej
 
@@ -35,7 +35,7 @@ Przed zapłaceniem po raz pierwszy należy skonfigurować konto wypłaty i uzupe
 
 Domyślnie będziemy wysyłać płatności miesięcznie, zgodnie z powyższym opisem. Istnieje jednak możliwość nadania wypłaty dla programu w trakcie wstrzymania, a firma Microsoft nie wystawia płatności na Twoje konto. Jeśli zdecydujesz się na wstrzymanie wypłatów, będziemy nadal rejestrować wszelkie dochody na stronie **wypłaty** . Nie będziemy jednak wysyłać żadnych płatności do konta do momentu usunięcia blokady.
 
-Aby wstrzymać płatności, przejdź do pozycji **Ustawienia konta** . W obszarze **wypłata i podatek** w sekcji **wypłata i przypisanie profilu podatkowego** Znajdź program, dla którego chcesz mieć płatności. Zaznacz pole wyboru **przechowuj moją płatność** , aby wstrzymać płatności za ten program. W każdej chwili możesz zmienić status wypłaty, ale decyzja wpłynie na następną wypłatę miesięczną. Na przykład jeśli chcesz wstrzymać wypłatę z kwietnia, pamiętaj, aby przed końcem marca ustawić stan wstrzymania na wartość **włączone** .
+Aby wstrzymać płatności, wybierz **ikonę koła zębatego w prawym** górnym rogu, a następnie **Ustawienia dewelopera** . W menu po lewej stronie wybierz pozycję **wypłata i podatek** , a następnie w sekcji **przypisanie i przypisywanie profilów podatkowych** Znajdź program, dla którego chcesz mieć płatności. Zaznacz pole wyboru **przechowuj moją płatność** , aby wstrzymać płatności za ten program. W każdej chwili możesz zmienić status wypłaty, ale decyzja wpłynie na następną wypłatę miesięczną. Na przykład jeśli chcesz wstrzymać wypłatę z kwietnia, pamiętaj, aby przed końcem marca ustawić stan wstrzymania na wartość **włączone** .
 
 Po ustawieniu **na** wartość wypłaty stan Wstrzymaj wszystkie wypłaty dla tego programu będą przechowywane do momentu wyczyszczenia pola **wyboru.** Po wykonaniu tej czynności zostanie uwzględniony w następnym cyklu miesięcznej wypłaty (w przypadku spełnienia progu płatności). Jeśli Twoje wypłaty zostały wstrzymane, ale chcesz wystawić wypłatę w czerwcu, wyczyść to pole wyboru, aby **wyłączyć** przed końcem maja.
 

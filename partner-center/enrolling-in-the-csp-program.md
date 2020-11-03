@@ -1,7 +1,7 @@
 ---
 title: Rejestracja w programie Cloud Solution Provider
 ms.topic: how-to
-ms.date: 10/06/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, jak zarejestrować się w modelu sprzedaży programu Cloud Solution Provider (CSP), który jest najlepszy dla Twojej firmy, na przykład pośredni odsprzedawcę lub partnera bezpośredniego.
@@ -9,24 +9,24 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: caa1442e5775a1617aa483a3cef675a6bd09eb17
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 1074b25ef90495db82600fc5c18b335a91970d84
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530664"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917165"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Rejestracja w programie Cloud Solution Provider
 
 **Dotyczy**
 
-- Program dostawcy rozwiązań w chmurze  
+- Centrum partnerskie  
 
 **Odpowiednie role**
 
 - Administrator globalny
 
-## <a name="get-started"></a>Wprowadzenie
+## <a name="get-started"></a>Rozpoczęcie pracy
 
 Gwałtowne rosnące zapotrzebowanie na rozwiązania i usługi oparte na chmurze zapewnia wiele możliwości dla partnerów firmy Microsoft o wszystkich rozmiarach do tworzenia zyskownych firm rozwiązań w chmurze. Partnerzy, którzy są gotowi do wprowadzenia na rynek, ale którzy nie chcą zarządzać wieloma dostawcami lub którzy mogą nie mieć kompleksowej infrastruktury zarządzania relacjami z klientami, mogą zarejestrować się w programie Microsoft Cloud Solution Provider (CSP) jako pośrednich odsprzedawców.
 
@@ -73,6 +73,7 @@ Jako bezpośredni partner rozliczeniowy jesteś członkiem kompleksowej relacji 
 |**Identyfikator MPN**   |Identyfikator aktywnego Microsoft Partner Network (MPN) dla lokalizacji biznesowej.    |
 |**Poręczenie**   |Urząd do akceptowania i podpisywania umów prawnych w imieniu organizacji.|
 |**Pomoc techniczna**   |Możliwość udostępnienia klientowi pierwszego poziomu pomocy technicznej w chmurze. <br>Plan pomocy technicznej firmy Microsoft, zaawansowana pomoc techniczna dla partnerów (ASfP) lub pomoc techniczna Premier dla partnerów (PSfP), w zależności od potrzeb. [Porównaj plany pomocy technicznej](https://partner.microsoft.com/support/partnersupport).<br> Ważne: musisz przekazać sprawdzenie kredytu przed zakupem planu pomocy technicznej. Wyślemy wiadomość e-mail po przekazaniu środków do sprawdzenia. |
+|**Wymaganie dotyczące przychodu**|Musi spełniać co najmniej USD300K w okresie rocznym programu dostawcy rozwiązań w chmurze w ciągu poprzednich 12 miesięcy jako pośredniego odsprzedawcy. Partnerzy mogą przeglądać swoje końcowe dwanaście miesięcy w centrum partnerskim. sprzedaż, która składa się z 12-miesięcznego przychodu USD300K, podlega przeglądowi i sprawdzeniu przez firmę Microsoft, a użytkownik może zostać poproszony o podanie dodatkowych informacji. Wymagania dotyczące przychodów USD300K są obliczane na podstawie przychodów w chmurze i wykluczają oprogramowanie bezterminowe w dostawcy usług kryptograficznych.|
 |**Usługa zarządzana**   |Co najmniej jedna aplikacja zarządzana, usługa IP lub rozwiązanie klienta. Dowiedz się więcej na temat dodawania [usług zarządzanych](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
 |**Rozliczenia kont** |Infrastruktura organizacyjna, w której można zarządzać rozliczeniami i inicjowaniem obsługi klienta.
 
