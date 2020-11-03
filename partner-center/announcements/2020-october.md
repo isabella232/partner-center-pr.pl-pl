@@ -1,5 +1,5 @@
 ---
-title: Ogłoszenia 2020 października
+title: Ogłoszenia z października 2020 r.
 description: Anonse 2020 października dla Centrum partnerskiego firmy Microsoft, takie jak nowe możliwości, promocje, oferty, rynki lub zmiany w istniejących ofertach.
 ms.topic: article
 ms.service: partner-dashboard
@@ -8,21 +8,58 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/14/2020
-ms.openlocfilehash: 4e78743c8dd03dd4540077aaa9f9d17799d1af80
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.date: 10/27/2020
+ms.openlocfilehash: 4877c3c21449c8b5cc4224973d159d70635d9262
+ms.sourcegitcommit: 4bff85c6a13a990d5eb6c4a4ef44e1013d06948e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795817"
+ms.locfileid: "92903034"
 ---
-# <a name="october-2020-announcements"></a>Ogłoszenia 2020 października
+# <a name="october-2020-announcements"></a>Ogłoszenia z października 2020 r.
 
 Na tej stronie znajdują się szczegółowe informacje o powiadomieniach dla programu Microsoft Partner Center dla października 2020.
 
 2020 anonse: [marzec](2020-march.md)  |  [kwiecień](2020-april.md)z  |  [maja](2020-may.md)  |  [czerwca](2020-june.md)z  |  [lipca](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md) Październik
 
-________________________________
+______________
+
+## <a name="october-2020-cloud-solution-provider-csp-software-subscriptions-price-list-updates"></a><a name="14"></a>Aktualizacje cennika subskrypcji oprogramowania dostawcy rozwiązań w chmurze 2020 (CSP)
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2020-10-26
+- Oferty/rynki
+ 
+### <a name="summary"></a>Podsumowanie
+
+Cennik subskrypcji oprogramowania dla października 2020 został zaktualizowany.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Wszyscy partnerzy przeprowadzają Operacje transakcyjne przez program Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Szczegóły
+
+Lista cen subskrypcji oprogramowania z października 2020 została zaktualizowana w celu uwzględnienia dwóch wcześniej pominiętych produktów.
+
+W październiku 2020 jest dostępny [system Windows 7 Year 2 EJW](#3) . Cennik roku 2 jest teraz dostępny na liście cenowej subskrypcje oprogramowania.
+- Identyfikator produktu: DG7GMGF0FL73
+- Identyfikator jednostki SKU: 0003
+
+[Usługa Azure SQL Edge](2020-september.md#9) została wydana z opóźnieniem 2020 września. Jest ona teraz dostępna na bieżącej liście cenowej Centrum partnerskiego. 
+- Identyfikator produktu: DG7GMGF0GJC2
+
+Wszystkie listy cen Centrum partnerskiego CSP są dostępne po zalogowaniu się do Centrum partnerskiego i przejściu do sprzedaży/ofert i cen.
+
+### <a name="additional-resources"></a>Dodatkowe zasoby
+
+- [Strona często zadawane pytania dotyczące pomocy technicznej dla systemu Windows 7](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
+- [Obsługa aplikacji i Microsoft 365 dla systemu Windows 7](/deployoffice/endofsupport/windows-7-support)
+- [Galeria zasobów ESU systemu Windows 7](https://partner.microsoft.com/resources/collection/windows-esu-csp#/)
+- [Lokacja usługi Azure SQL Edge](https://aka.ms/sqledge)
+
+________________
 
 ## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>Wprowadzenie standardu wydajności dla wymagań partnerskich bezpośrednich rozliczeń w programie Cloud Solution Provider (CSP)
 

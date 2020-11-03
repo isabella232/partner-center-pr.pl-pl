@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/27/2020
-ms.openlocfilehash: 4df4e473ea31ad5a9f0da52ab45f65000db344d9
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: f52caa9b536f289025a61ae245bb1f63d65a5698
+ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
 ms.translationtype: HT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917216"
+ms.locfileid: "93027894"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
@@ -22,6 +22,7 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 
 | **Kategoria** | **Ogłoszenia z października 2020 r.** | **Ogłoszone** |
 |---------|:---------|:---------|
+|Możliwości|[Uaktualnienie systemu Windows 10 Education jest teraz dostępne dla kwalifikujących się klientów edukacyjnych w programie Cloud Solution Provider (CSP)](2020-october.md#16)|28 października|
 |Możliwości|[Dostępne jest już odświeżone środowisko cyfrowe dla programu Cloud Solution Provider (CSP)](2020-october.md#15)|28 października|
 |Możliwości|[Wprowadzanie standardu wydajności dla wymagań partnera rozliczania bezpośredniego w programie Cloud Solution Provider (CSP)](2020-october.md#13)|27 października|
 |Oferty/rynki|[Aktualizacje cennika subskrypcji oprogramowania dla programu Cloud Solution Provider (CSP) z października 2020 r.](2020-october.md#14)|26 października|
