@@ -1,7 +1,7 @@
 ---
 title: Wskaźniki udziałów partnerów
 ms.topic: article
-ms.date: 09/16/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się więcej na temat siedmiu wskaźników udziału partnerskiego (PCI), które pokazują, jak wykonujesz działania w ramach programu Dynamics 365 Customer Engagement lub Dynamics 365 Finanse i operacyjne.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 198e73432bd4ed14aa56a2df9bd7f43af6e12cbd
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: e5e3c0ad1a1abae49b05394d569b67840a01ecca
+ms.sourcegitcommit: fc4d94b2a9575808745f8fb8c7ee5ae88be6803c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530477"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "93344395"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Wskaźniki udziałów partnerów (PCI) pokazują wpływ na partnerów w oparciu o siedem kluczowych miar sukcesu klientów
 
@@ -89,7 +89,7 @@ Każdy wskaźnik podnosi wynik, który jest dodawany do sumy. Poniżej znajdują
 |Sukces klienta — miesięczny rozwój aktywnego użytkownika  | 25 punktów |
 
 Na poniższej ilustracji przedstawiono szybkie, wizualne odwołanie.
-:::image type="content" source="images/pci/perfnew.png" alt-text="Pokazuje wyniki PCI w celu uzyskania kompetencji Silver lub Gold." border="false":::
+:::image type="content" source="images/pci/perfnew.png" alt-text="Przedstawia wykres z maksymalnymi wynikami możliwymi dla każdego z siedmiu wskaźników udziału partnerskiego (PCI)." border="false":::
 
 ## <a name="thresholds-for-each-pci-metric"></a>Progi dla każdej metryki PCI
 
@@ -111,8 +111,8 @@ Aby uzyskać szczegółowe informacje, zobacz następujące tabele:
 | Metryka PCI | Wskaźnik wydajności: nowy przychód netto | Wskaźnik wydajności: nowy klient dodaje | Wskaźnik możliwości: doradcy funkcjonalne | Wskaźnik możliwości: wzrostu konsultanta funkcjonalnego | Wskaźnik możliwości: deweloperzy | Wskaźnik sukcesu klienta: nowe duże wdrożenia | Wskaźnik sukcesu klienta: miesięczny wzrost liczby aktywnych użytkowników |
 |---|---|---|---|---|---|---|---|
 | **Maksymalna liczba punktów** | 10 punktów | 10 punktów | 15 punktów | 15 punktów | 5 punktów | 20 punktów | 25 punktów |
-| **Przygotowany** | $300 000 | 10 punktów | 10 punktów | *\* Zobacz Uwaga* | 5 punktów | 5 punktów | 25% |
-| **Wywoływania** | $150 000 | 5 punktów | 5 punktów |*\* Zobacz Uwaga* | 2 punkty | 1 punkt | 25% |
+| **Przygotowany** | $300 000 | 10 | 10 | *\* Zobacz Uwaga* | 5 | 5 | 25% |
+| **Wywoływania** | $150 000 | 5  | 5  |*\* Zobacz Uwaga* | 2 | 1 | 25% |
 
 *\* Uwaga: elementy docelowe wzrostu różnią się w zależności od liczby konsultantów linii bazowej. Patrz [tabela 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) dla elementów docelowych wzrostu.*
 
@@ -122,8 +122,8 @@ Aby uzyskać szczegółowe informacje, zobacz następujące tabele:
 | Metryka PCI | Wskaźnik wydajności: nowy przychód netto | Wskaźnik wydajności: nowy klient dodaje | Wskaźnik możliwości: doradcy funkcjonalne | Wskaźnik możliwości: wzrostu konsultanta funkcjonalnego | Wskaźnik możliwości: deweloperzy | Wskaźnik sukcesu klienta: nowe duże wdrożenia | Wskaźnik sukcesu klienta: miesięczny wzrost liczby aktywnych użytkowników |
 |---|---|---|---|---|---|---|---|
 | **Maksymalna liczba punktów** | 10 punktów | 10 punktów | 15 punktów | 15 punktów | 5 punktów | 20 punktów | 25 punktów |
-| **Przygotowany** | $300 000 | 3 punkty | 15 punktów | *\* Zobacz Uwaga* | 5 punktów | 3 punkty | 25% |
-| **Wywoływania** | $150 000 | 1 punkt | 5 punktów |*\* Zobacz Uwaga* | 2 punkty | 1 punkt | 25% |
+| **Przygotowany** | $300 000 | 3 | 15 | *\* Zobacz Uwaga* | 5  | 3 | 25% |
+| **Wywoływania** | $150 000 | 1 | 5 |*\* Zobacz Uwaga* | 2 | 1 | 25% |
 
 *\* Uwaga: elementy docelowe wzrostu różnią się w zależności od liczby konsultantów linii bazowej. Patrz [tabela 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) dla elementów docelowych wzrostu.*
 
@@ -300,12 +300,12 @@ Aby wyświetlić wykresy i postęp wskaźników udziałów partnerskich, wykonaj
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
 
-2. Wybierz pozycję **dostawca CSP** z menu nawigacji, a następnie wybierz pozycję **wskaźniki udziałów partnerskich** . 
+2. Wybierz pozycję **dostawca CSP** z menu nawigacji, a następnie wybierz pozycję **wskaźniki udziałów partnerskich**. 
 
    Pulpit nawigacyjny wskaźników udziałów partnerskich powinien być widoczny przy użyciu skojarzonych wykresów.
 
    > [!NOTE]
-   > Jeśli te opcje nie są widoczne, spróbuj wybrać **MPN** z menu, a następnie pozycję **wskaźniki udziałów partnerów** . Jeśli nadal nie możesz znaleźć tych opcji, być może nie masz przypisanej odpowiedniej roli użytkownika w centrum partnerskim. Aby uzyskać pomoc, skontaktuj się z administratorem globalnym usługi Partner Center lub administratorem partnera MPN.
+   > Jeśli te opcje nie są widoczne, spróbuj wybrać **MPN** z menu, a następnie pozycję **wskaźniki udziałów partnerów**. Jeśli nadal nie możesz znaleźć tych opcji, być może nie masz przypisanej odpowiedniej roli użytkownika w centrum partnerskim. Aby uzyskać pomoc, skontaktuj się z administratorem globalnym usługi Partner Center lub administratorem partnera MPN.
 
 ### <a name="read-the-charts"></a>Odczytaj wykresy
 
@@ -313,7 +313,7 @@ Na poniższej ilustracji przedstawiono sposób odczytywania niektórych obszaró
 
 Aby uzyskać więcej informacji na temat korzystania z tego obszaru, zobacz Zbieranie zasobów i filmów wideo na końcu tego artykułu.
 
-   :::image type="content" source="images/pci/howto.png" alt-text="Pokazuje wyniki PCI w celu uzyskania kompetencji Silver lub Gold.":::
+   :::image type="content" source="images/pci/howto.png" alt-text="Jak odczytać wykres":::
 
 ## <a name="next-steps"></a>Następne kroki
 
