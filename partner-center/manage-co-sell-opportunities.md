@@ -1,5 +1,5 @@
 ---
-title: Zarządzaj możliwościami współsprzedaży
+title: Zarządzanie możliwościami wspólnej sprzedaży
 ms.topic: article
 ms.date: 06/02/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b8d849de6987e107c327d2fd2dcf892fae5a3f3
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 9eb158163bb1a7ea5da0bc834e6bf7623f32a4dd
+ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530646"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "93363643"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Zarządzaj szansami do sprzedaży w centrum partnerskim
 
@@ -63,7 +63,7 @@ Można utworzyć trzy typy szans sprzedaży.
 
 Wybierz klienta dla tej konkretnej transakcji. Wprowadź ich lokalizację i zacznij wpisywać nazwę. Funkcja automatycznego sugerowania rozpocznie wyświetlanie zaleceń na podstawie kryteriów wyszukiwania. Ponieważ wiele firm ma więcej niż jedną jednostkę biznesową w tej samej lokalizacji, może pojawić się wiele wyników. Jeśli nie masz pewności, którą opcję wybrać, możesz potwierdzić, że numer D-U-N-S należy do klienta. Pamiętaj, aby wybrać dokładne dopasowanie dla klienta, z którym pracujesz.
 
-Po kliknięciu przycisku **Wybierz klienta** zostanie wyświetlony monit o wprowadzenie nazwy, numeru telefonu i adresu e-mail osoby, która jest głównym punktem kontaktu dla tej transakcji. Te szczegóły są opcjonalne i są wymagane tylko w przypadku planowania zaproszenia do sprzedaży firmy Microsoft w celu ułatwienia współpracy. Wybierz pozycję **Dalej** .
+Po kliknięciu przycisku **Wybierz klienta** zostanie wyświetlony monit o wprowadzenie nazwy, numeru telefonu i adresu e-mail osoby, która jest głównym punktem kontaktu dla tej transakcji. Te szczegóły są opcjonalne i są wymagane tylko w przypadku planowania zaproszenia do sprzedaży firmy Microsoft w celu ułatwienia współpracy. Wybierz pozycję **Dalej**.
 
 > [!IMPORTANT]
 > Upewnij się, że uzyskano zgodę klienta na podanie informacji kontaktowych firmie Microsoft w celu zawarcia umowy. Firma Microsoft może używać tych informacji do bezpośredniego kontaktowania się z klientem.
@@ -75,6 +75,7 @@ Wprowadź szczegóły bieżącej transakcji. Pola zdefiniowane poniżej mogą ul
 | **Nazwa pola** | **Obowiązkowe/opcjonalne** | **Szczegóły** |
 |-------------|--------|-------|
 |**Nazwa transakcji** | Obowiązkowy | Przyjazna nazwa umożliwiająca zidentyfikowanie transakcji w późniejszym czasie. |
+|**Lokalizacja**| Obowiązkowy | Zakres lokalizacji MPN odwołania. Odwołania do użytkowników z tym zakresem lokalizacji mogą wyświetlać odwołania, jeśli są one częścią zespołu. Administratorzy odwołań i Administratorzy odwołań z zakresem globalnym mogą przeglądać odwołania niezależnie od lokalizacji. Nie można edytować lokalizacji po utworzeniu odwołania.|
 |**Szacowana wartość** | Obowiązkowy | Wartość transakcji na podstawie informacji dostępnych podczas tworzenia transakcji.|
 |**Szacowana data zamknięcia**| Obowiązkowy| Data, o którą oczekuje się zamknięcia transakcji z klientem. |
 |**IDENTYFIKATOR PROGRAMU CRM**| Opcjonalne | Oznacz rozproszenie o IDENTYFIKATORze szansy sprzedaży w odpowiednim programie CRM do śledzenia celu.|
@@ -134,15 +135,15 @@ Jeśli na tym etapie otrzymasz nową okazję do sprzedaży od sprzedawcy firmy M
 
 - **Zaakceptuj:** Wprowadź nazwę transakcji, Edytuj szacowaną wartość transakcji i szacowany okres zakupu na podstawie przeglądu. Po nawiązaniu kontaktu z klientem należy podać informacje w polu **uwagi** , aby dowiedzieć się więcej o tym, czego szuka klient. Opcjonalnie możesz wprowadzić identyfikator programu CRM (tylko w przypadku odwołania), identyfikator kampanii marketingowej, który spowodował odpowiednią okazję i dodać kontakty z firmy, która będzie działać w ramach tej transakcji.
 
-- Gdy skończysz, wybierz pozycję **dalej** . Przeniesiemy odwołanie na **kolejny etap** , co oznacza, że planujesz aktywnie współpracować z klientem w celu rozwiązania ich potrzeb. Będziemy również używać tych informacji, aby pomóc w znalezieniu podobnych transakcji w przyszłości.
+- Gdy skończysz, wybierz pozycję **dalej**. Przeniesiemy odwołanie na **kolejny etap** , co oznacza, że planujesz aktywnie współpracować z klientem w celu rozwiązania ich potrzeb. Będziemy również używać tych informacji, aby pomóc w znalezieniu podobnych transakcji w przyszłości.
 
-- **Odrzuć** : Wybierz przyczynę odrzucenia transakcji i Dodaj wszelkie uwagi, które chcesz dołączyć, a następnie wybierz pozycję **Zamknij** . Archiwizujemy go jako **odrzucony** i powiadomi firmę Microsoft lub partnera, który wysłał Ci tę okazję.
+- **Odrzuć** : Wybierz przyczynę odrzucenia transakcji i Dodaj wszelkie uwagi, które chcesz dołączyć, a następnie wybierz pozycję **Zamknij**. Archiwizujemy go jako **odrzucony** i powiadomi firmę Microsoft lub partnera, który wysłał Ci tę okazję.
 
 - Jeśli nie odpowiesz w wyznaczonym czasie (obecnie 14 dni), będziemy archiwizować ją jako **wygasłą** i powiadomić firmę Microsoft lub partnera, który wysłał tę możliwość.
 
 ### <a name="accepted-stage"></a>Zaakceptowany etap
 
-Pracuj w celu zamknięcia transakcji z klientem. Jeśli chcesz zmienić wszystkie informacje podane dla zaakceptowanego odwołania, wybierz pozycję **Edytuj** . Następnie można zaktualizować nazwę transakcji, szacowaną datę zakupu, szacowaną wartość, notatki, identyfikator CRM i/lub identyfikator kampanii marketingowej.  Możesz również wybrać pozycję **Dodaj zespół** , aby podać imię i nazwisko, numer telefonu i adresy e-mail osób, które pracują nad pracą. Rozwiązania można także edytować w zależności od potrzeb klientów.
+Pracuj w celu zamknięcia transakcji z klientem. Jeśli chcesz zmienić wszystkie informacje podane dla zaakceptowanego odwołania, wybierz pozycję **Edytuj**. Następnie można zaktualizować nazwę transakcji, szacowaną datę zakupu, szacowaną wartość, notatki, identyfikator CRM i/lub identyfikator kampanii marketingowej.  Możesz również wybrać pozycję **Dodaj zespół** , aby podać imię i nazwisko, numer telefonu i adresy e-mail osób, które pracują nad pracą. Rozwiązania można także edytować w zależności od potrzeb klientów.
 
 Wszystkie utworzone przez Ciebie oferty są domyślnie w akceptowanym etapie.
 
@@ -184,7 +185,7 @@ Transakcja będzie kwalifikować się do rejestracji transakcji tylko wtedy, gdy
 
 Jeśli transakcja kwalifikuje się do rejestracji transakcji, zostanie dodany dodatkowy punkt kontrolny do cyklu życia transakcji o nazwie "Rejestracja transakcji", jak pokazano poniżej.
 
-:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Obraz przedstawiający cykl życia transakcji, w którym można oznaczyć etap sprzedaży.":::
+:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Obraz przedstawiający cykl życia transakcji, czyli lokalizację, z której można zainicjować rejestrację transakcji.":::
 
 Możesz zdecydować się na zarejestrowanie transakcji natychmiast po oznaczeniu transakcji jako wygranej lub w późniejszym czasie za pomocą przycisku **Rejestruj** cykl życia.
 Po zarejestrowaniu transakcji można wyświetlić postęp weryfikacji transakcji z tego samego cyklu życia. Jeśli w Twojej firmie jest wymagana jakakolwiek akcja, w widoku cyklu życia transakcji są wyświetlane odpowiednie błędy. Transakcja przechodzi w stan zamknięty po zakończeniu sprawdzania poprawności transakcji.
@@ -217,20 +218,20 @@ Nie, nie można modyfikować transakcji po ich przeniesieniu do stanu terminalu.
 
 Taka sytuacja może wystąpić, jeśli firma ma wiele dzierżawców skojarzonych z tym samym kontem MPN. Przejdź do obszaru Ustawienia konta Centrum partnerskiego i sprawdź dzierżawy skojarzone z tym kontem. Następnie utwórz bilet pomocy technicznej z żądaniem połączenia dzierżawców. Podaj identyfikator dzierżawy, do którego zalogowano się w ramach biletu pomocy technicznej.
 
-:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Obraz przedstawiający cykl życia transakcji, w którym można oznaczyć etap sprzedaży.":::
+:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Obraz przedstawiający ustawienia konta, w którym można znaleźć informacje o dzierżawie.":::
 
 **Kwartał. Kto otrzymuje powiadomienie e-mail z Centrum partnerskiego?**
 
 W poniższym przepływie pracy opisano, jak wiadomości e-mail są wysyłane do partnerów z systemu odwołań Centrum partnerskiego w celu uzyskania nowego odwołania przychodzącego partnera.
 
-:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Obraz przedstawiający cykl życia transakcji, w którym można oznaczyć etap sprzedaży.":::
+:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Obraz przedstawiający logikę sposobu wysyłania wiadomości e-mail do partnerów w przypadku nowych odwołań przychodzących.":::
 
 ## <a name="getting-more-co-sell-opportunities"></a>Więcej możliwości wspólnej sprzedaży
 
 Oto kilka porad ułatwiających uzyskanie dodatkowych możliwości współsprzedaży, które są odpowiednie dla Twojej firmy:
 
-- **Szybko reaguj na oferty** . Gdy w odpowiednim czasie zaczniesz reagować na żądania przychodzące, Zwiększmy widoczność w przyszłych wynikach wyszukiwania partnera stopniowo. Upewnij się, że zespół szybko odpowie z zamiarem.
-- **Choosy z zaakceptowanymi przez Ciebie ofertami** . Monitorujemy typy transakcji, które można zaakceptować i odrzucić, i użyć tych informacji, aby pomóc w znalezieniu podobnych transakcji. Akceptowanie transakcji, które nie są dobrym dopasowaniem, nie poprawi wyników wyszukiwania i może mieć wpływ na jakość otrzymywanych szans sprzedaży.
+- **Szybko reaguj na oferty**. Gdy w odpowiednim czasie zaczniesz reagować na żądania przychodzące, Zwiększmy widoczność w przyszłych wynikach wyszukiwania partnera stopniowo. Upewnij się, że zespół szybko odpowie z zamiarem.
+- **Choosy z zaakceptowanymi przez Ciebie ofertami**. Monitorujemy typy transakcji, które można zaakceptować i odrzucić, i użyć tych informacji, aby pomóc w znalezieniu podobnych transakcji. Akceptowanie transakcji, które nie są dobrym dopasowaniem, nie poprawi wyników wyszukiwania i może mieć wpływ na jakość otrzymywanych szans sprzedaży.
 - **Zgłoś ponownie szacowane rozmiary transakcji, daty zamknięcia i końcowy status Twoich transakcji** (wygrane lub utracone). Będziemy używać tych informacji, aby w dalszym ciągu udostępniać dane dotyczące jakości.
 
 ## <a name="next-steps"></a>Następne kroki

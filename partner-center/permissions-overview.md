@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 4839fbd6fac5f84e5a2ebc40d1f7f48da6114113
+ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133035"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "93363626"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Przypisywanie ról i uprawnień użytkowników dla użytkowników firmy, którzy chcą korzystać z Centrum partnerskiego
 
@@ -127,21 +127,38 @@ Role te nie są Azure Active Directory rolami. Role te zarządzają firmową fir
 ||* Tworzenie biletów pomocy technicznej dla Centrum partnerskiego
 ||* Przeglądanie utworzonych biletów pomocy technicznej
 
+## <a name="manage-referrals"></a>Zarządzanie odwołaniami
 
-## <a name="manage-referrals"></a>Zarządzanie odwołaniami 
+> [!Note]
+>Nowa rola użytkownika z odwołaniami będzie dostępna od 16 listopada 2020. Istniejący Administratorzy odwołań zachowają swoją rolę administratora odwołań zakresu dla całej firmy.
 
-|**Role**|**Co możesz zrobić**|**Dowiedz się więcej**|
-|-----------------------------|:------------------------|---|
-|Administrator odwołań       |* Wyświetlanie i tworzenie profilów firmy oraz zarządzanie nimi|[Manage different leads like customer inquiries, marketing-qualified leads, and sales-qualified leads (Zarządzanie różnymi typami potencjalnych klientów: wywodzących się bezpośrednio z klientów, zakwalifikowanych za pośrednictwem kanału marketingowego i zakwalifikowanych przez sprzedawców)](manage-leads.md)
-||* Odbierz odwołania i zarządzaj nimi
-||* Wyświetlanie i tworzenie odwołań do współsprzedażowych oraz zarządzanie nimi|
-||* Wyświetlanie i tworzenie żądań obsługi partnerów oraz zarządzanie nimi
-|Administrator profilu biznesowego   |* Wyświetlanie i tworzenie profilu biznesowego oraz zarządzanie nim |[Tworzenie profilu biznesowego](create-a-marketing-profile.md)
-||* Wyświetlanie i tworzenie żądań obsługi partnerów oraz zarządzanie nimi
-||* Tworzenie biletów pomocy technicznej dla Centrum partnerskiego
-||* Przeglądanie utworzonych biletów pomocy technicznej|
+|**Role** | **Co możesz zrobić**|**Dowiedz się więcej**
+|------------------------------|:-------------------------|---|
+|Administrator odwołań|Tworzenie wszystkiego i zarządzanie nim na karcie odwołania w centrum partnerskim|[Zarządzanie możliwościami wspólnej sprzedaży](manage-co-sell-opportunities.md)
+||    Może wyświetlać i edytować wszystkie możliwości wspólnej sprzedaży i potencjalni klienci
+||    Może przypisywać członków zespołu do transakcji
+||    Może wyświetlać i edytować profile biznesowe
+||    Może wyświetlać i rejestrować oferty dla szans sprzedaży oznaczonych jako kupione i kwalifikujące się do rejestracji transakcji
+||    Możliwość tworzenia i wyświetlania biletów pomocy technicznej
+|Użytkownik z odwołaniami|Twórz i Zarządzaj szansami do sprzedaży tylko wtedy, gdy są one częścią zespołu |[Zarządzanie możliwościami wspólnej sprzedaży](manage-co-sell-opportunities.md)
+||    Może tworzyć możliwości wspólnej sprzedaży dla lokalizacji, do których są przypisane role.
+||    Może wyświetlać i rejestrować oferty dla szans sprzedaży, które są oznaczone jako kupione i kwalifikujące się do rejestracji transakcji, jeśli są członkami zespołu.
+||    Możliwość tworzenia i wyświetlania biletów pomocy technicznej
+|Administrator profilu biznesowego|Tworzenie profilów firmowych i zarządzanie nimi | [Zarządzanie profilami biznesowymi](create-a-marketing-profile.md)
+||    Możliwość tworzenia i wyświetlania biletów pomocy technicznej
 
-## <a name="manage-incentives"></a>Zarządzanie bodźcami 
+Wraz z nową rolą użytkownika z odwołaniami wprowadzamy również zakres lokalizacji dla transakcji. W poniższej tabeli objaśniono dostęp do transakcji na podstawie lokalizacji.
+
+|**Zakres** | **Co możesz zrobić** |
+|------------------------------|:-------------------------|
+|Cała firma | Administratorzy i użytkownicy mają dostęp do tworzenia transakcji dla dowolnej lokalizacji w firmie|
+|| Administrator odwołań ma dostęp do wyświetlania i edytowania wszystkich transakcji |
+|| Użytkownicy odwołań mają dostęp do wyświetlania i edytowania wszystkich transakcji tylko wtedy, gdy są one częścią zespołu |
+|Co najmniej jedna lokalizacja | Administratorzy i użytkownicy mają dostęp do tworzenia transakcji dla przypisanej lokalizacji w swojej firmie|
+|| Administrator odwołań ma dostęp do wyświetlania i edytowania wszystkich transakcji należących do przypisanych lokalizacji|
+|| Użytkownicy odwołań mają dostęp do wyświetlania i edytowania wszystkich transakcji należących do przypisanych lokalizacji, jeśli są one częścią zespołu|
+
+## <a name="manage-incentives"></a>Zarządzanie bodźcami
 
 |**Role** | **Co możesz zrobić**|**Dowiedz się więcej**
 |------------------------------|:-------------------------|---|
