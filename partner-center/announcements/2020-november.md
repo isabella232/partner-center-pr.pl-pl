@@ -1,5 +1,5 @@
 ---
-title: Powiadomienia 2020 listopada
+title: Ogłoszenia z listopada 2020 r.
 description: Listopad 2020 anonsów dla Centrum partnerskiego firmy Microsoft, w tym nowych możliwości, promocji, ofert, rynków lub zmian istniejących ofert.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,20 +9,111 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2f82caf36171a1757d8e1f2d016c82f7f2dedecf
-ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
+ms.openlocfilehash: 2d4fc0aef733b8086e550695e2b2e4065930a4a1
+ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93328054"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "94333899"
 ---
-# <a name="november-2020-announcements"></a>Powiadomienia 2020 listopada
+# <a name="november-2020-announcements"></a>Ogłoszenia z listopada 2020 r.
 
 Na tej stronie znajdują się szczegółowe informacje o anonsach programu Microsoft Partner Center dla listopada 2020.
 
 2020 anonse: od [kwietnia](2020-april.md)do  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [lipca](2020-july.md),  |  [August](2020-august.md)  |  [wrzesień września](2020-september.md)  |  [October](2020-October.md) , | Listopada
 
 ______________
+
+## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Rozszerzanie komercyjnej zawartości partnerów licencjonowania w galerii gotowości operacji
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2020-11-5
+- Możliwości
+
+### <a name="summary"></a>Podsumowanie
+
+Począwszy od listopada 5 2020, handlowa zawartość partnera licencjonowania z uczelni University będzie również dostępna w galerii gotowości do działania.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Partnerzy komercyjni
+
+### <a name="details"></a>Szczegóły
+
+Od 5 listopada 2020 do komercyjnego punktu widzenia działania w galerii gotowości do pracy będzie również dostępna udostępniona handlowa zawartość partnera. Dzięki temu jest konsolidowana już istniejąca, operacyjna i komercyjny partner licencjonowania zawartość z galerii gotowości do obsługi operacji przy użyciu naszej zawartości komercyjnej partnera licencjonowania z uczelni partnerskiej. Zapewni to partnerom bardziej bezproblemowe środowisko gotowości. Do galerii gotowości do operacji dodano następujące kolekcje:
+
+- [Microsoft Azure — oferty i Licencjonowanie](https://partner.microsoft.com/resources/collection/microsoft-azure-offers-and-licensing#/)
+- [Licencjonowanie komercyjne — wywołanie funkcji Spotlight dla dostawcy CSP](https://partner.microsoft.com/resources/collection/commercial-licensing-csp-spotlight-call#/)
+- [Komercyjne aktualizacje licencjonowania — połączenie](https://partner.microsoft.com/resources/collection/commercial-licensing-licensing-updates-call#/)
+
+### <a name="next-steps"></a>Następne kroki
+
+Udostępnij te informacje wszystkim odpowiednim kontaktom w organizacji.
+
+________________
+
+## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="5"></a>Usługa Microsoft Teams w pomieszczeń SKU Premium
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2020-11-3
+- Oferty/rynki
+
+### <a name="summary"></a>Podsumowanie
+
+Usługa Microsoft Teams pomieszczeń Premium SKU dla zespołów Microsoft Teams jest teraz dostępna.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Wszyscy partnerzy przeprowadzają Operacje transakcyjne przez program Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Szczegóły
+
+Nowe firmy Microsoft Teams Premium SKU dla usługi Microsoft Teams są teraz dostępne dla klientów, którzy kupili dostawcę usług kryptograficznych za pomocą USD50 na urządzenie miesięcznie. Usługa Microsoft Teams w wersji Premium jest alternatywą dla firmy Microsoft Teams w wersji Standard (wcześniej nazywanej licencją na pokój). Ta jednostka SKU obejmuje wszystkie elementy w ramach standardowej oferty, takie jak niezbędne licencje dla programu Microsoft Teams, usługi Skype dla firm Online i zarządzania usługi Intune. Oferta umożliwia również system telefonowania — niezbędny w przypadku integracji publicznej sieci telefonicznej (PSTN) i wideokonferencji, o ile jest to możliwe. 
+
+Dzięki ofercie Premium klienci mają dostęp do nowo wydanych usług zarządzanych pokojów Microsoft Teams, w których eksperci obsługują zarządzanie i operacje dla pokojów spotkań w imieniu klienta. Ta oparta na chmurze usługa zarządzania i monitorowania IT umożliwia usłudze Microsoft Teams, w których urządzenia i ich urządzenia peryferyjne są aktualne i bezpieczne. Są one również aktywnie monitorowane i zarządzane, zapewniając środowisko zoptymalizowane pod kątem doskonałego środowiska w pokoju.
+
+#### <a name="released-at-launch"></a>Wydane przy uruchomieniu
+
+   |****|**Microsoft Teams sale USD15 — urządzenie standardowe na miesiąc**|**Usługa Microsoft Teams w wersji Premium USD50 na miesiąc**|
+   |-------------------|:------|:------|
+   |Skype dla firm|Tak| |
+   |Microsoft Teams|Tak|Tak|
+   |System telefoniczny|Tak|Tak|
+   |Konferencje audio|Tak|Tak|
+   |Microsoft Intune|Tak|Tak|
+   | |Pokoje Microsoft Teams w warstwie Standardowa USD15 na urządzenie miesięcznie|Microsoft Teams — pokoje Premium USD50 na urządzenie miesięcznie|
+   |Usługi zarządzane w usłudze Microsoft Teams| |Tak|
+   |Dostępność na całym świecie|Tak|Na wybranych rynkach|
+
+#### <a name="microsoft-teams-rooms-managed-services"></a>Usługi zarządzane w usłudze Microsoft Teams
+
+- Proaktywne zarządzanie: 24x7x365 zarządzanie systemami pokojowymi, w tym poprawkami, zarządzaniem konfiguracją i nie tylko.
+• Monitorowanie w czasie rzeczywistym i analiza głównych przyczyn: monitorowanie i wykrywanie dzięki reakcji na zarządzanie zdarzeniami zorganizowanymi przez firmę Microsoft w ramach koordynacji z klientem, w razie konieczności. Aplikacja mobilna pozwala na zachowanie alertów w podróży.
+- Zarządzane aktualizacje: zarządzanie i dostarczanie aplikacji, systemu Windows KB i aktualizacji oprogramowania układowego.
+- Ochrona zabezpieczeń przed zagrożeniami: Ochrona przed zagrożeniami w ramach zaawansowanej ochrony przed zagrożeniami w usłudze Microsoft Defender.
+- Obsługa klienta: obsługa biletów 24x7x365 za pośrednictwem naszego dedykowanego centrum operacji usługi, które wspierają korygowanie incydentów dla niezautomatyzowanych przypadków. Szczegółowa kontrola dostępu oparta na rolach.
+- Szczegółowe informacje i zalecenia: zagregowany wgląd w klientów i raporty dotyczące kondycji pokoju, spisu, spotkań online i trendów zdarzeń.
+
+#### <a name="offer-details"></a>Szczegóły oferty
+
+   |**Nazwa oferty**|**Identyfikator oferty**|**Identyfikator materiału**|
+   |-------------------|:------|:------|
+   |Zespoły pokojów Premium|5db9aa31-f039-4740-b122-a33514e4c492|6XB-00007|
+   |Zespoły pokojów Premium (USA i mogą)|03070f91-cc77-4c2e-b269-4a214b3698ab|6XB-00008|
+   |Zespoły pokojów Premium dla nauczycieli i wykładowców|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Y5-00005|
+
+### <a name="next-steps"></a>Następne kroki
+
+- Zapoznaj się z nową ofertą i jej geograficzną dostępnością, odwiedzając [często zadawane pytania]().
+- Zapoznaj się z nową ofertą i jej geograficzną dostępnością. 
+- Dowiedz się więcej o pokojach firmy Microsoft i powiązanych ofertach w [pokojach zespołu firmy Microsoft](https://rooms.microsoft.com/).
+- Skorzystaj z [przewodnika po partnerze dla zespołów](https://aka.ms/teamscallingmeetingsguide) , aby opracować swoją działalność za pomocą zespołów spotkań i utworzyć oferowaną ofertę do sprzedaży.
+- Przejrzyj [często zadawane pytania dotyczące programu Microsoft Teams](https://aka.ms/PartnerMTRFAQ) , aby dowiedzieć się więcej na temat rozwiązania i usług produktu. 
+- Podziel się tymi informacjami ze wszystkimi odpowiednimi kontaktami w organizacji i poznaniem możliwości sprzedaży z perspektywą sprzedaży.
+
+________________
 
 ## <a name="new-microsoft-teams-advanced-communications-skus-for-government-community-cloud-gcc-coming-soon"></a><a name="4"></a>Nowe jednostki SKU usługi Microsoft Team Advanced Communications dla instytucji rządowych w chmurze
 
