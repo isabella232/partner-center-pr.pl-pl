@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
-ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
+ms.openlocfilehash: 8dcd559e9e52c246b720678f05dec9128a6ca366
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "93244067"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360058"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Wyświetlaj i Eksportuj szczegóły programu zachęty oraz zarządzaj nimi
 
@@ -39,8 +39,8 @@ Te strony umożliwiają wyświetlanie szczegółowych informacji o przeszłości
 
 Na [pulpicie nawigacyjnym](https://partner.microsoft.com/dashboard)Centrum partnerskiego możesz uzyskać dostęp do informacji o zachętach na kilka sposobów:
 
-- Wybierz pozycję **zachęty** z menu po lewej stronie. Niektóre opcje są dostępne w obszarze **zachęty** , w tym **Omówienie** . Zapoznaj się z tymi opcjami, aby poznać stan programów zachęty, płatności zachęty, zarobków i oświadczeń.
-- Wybierz ikonę **Money** (wypłata) w prawym górnym rogu. Następnie można wybrać inne opcje, takie jak **Historia transakcji** , **płatności** , **eksport danych** lub **raport sprzedaży pakietu Office** .
+- Wybierz pozycję **zachęty** z menu po lewej stronie. Niektóre opcje są dostępne w obszarze **zachęty** , w tym **Omówienie**. Zapoznaj się z tymi opcjami, aby poznać stan programów zachęty, płatności zachęty, zarobków i oświadczeń.
+- Wybierz ikonę **Money** (wypłata) w prawym górnym rogu. Następnie można wybrać inne opcje, takie jak **Historia transakcji** , **płatności** , **eksport danych** lub **raport sprzedaży pakietu Office**.
 
 Następujące strony zostały opisane tutaj:
 
@@ -70,7 +70,7 @@ Aby uzyskać dostęp do **przeglądu moich zachęt** :
    - Aby grupować według lokalizacji, wybierz kartę **według lokalizacji** nad tabelą.
    - Aby wyświetlić więcej szczegółów na temat rejestracji w ramach określonej grupy, wybierz symbol ostrokątny na końcu danego wiersza. Ten cudzysłów ostrokątny rozszerza widok.
 
-4. Jeśli do zarejestrowania się w programie wymagane jest wykonanie dodatkowych czynności, odpowiednie informacje zostaną wyświetlone w kolumnie **Stan** . W takim przypadku wybierz symbol cudzysłowu ostrokątnego, aby dowiedzieć się więcej o następnych krokach, które należy wykonać.
+4. Jeśli do zarejestrowania się w programie wymagane jest wykonanie dodatkowych czynności, odpowiednie informacje zostaną wyświetlone w kolumnie **Stan**. W takim przypadku wybierz symbol cudzysłowu ostrokątnego, aby dowiedzieć się więcej o następnych krokach, które należy wykonać.
 
 >[!NOTE]
 >Zapoznaj się z poniższą tabelą, aby dowiedzieć się więcej o różnych stanach rejestracji przedstawionych w kolumnie **stan** .
@@ -95,7 +95,7 @@ Sumy na tej stronie reprezentują wszystkie używane identyfikatory MPN. Możesz
 |Następna Szacowana płatność      |Pojedyncza Następna płatność (nawet jeśli istnieją inne osoby już wkrótce) w dolarach amerykańskich.                                     |
 |Ostatnia płatność           |Kwota (w dolarach amerykańskich), nazwa programu i identyfikator MPN ostatniej płatności.                                      |
 |Płatności według źródła       |Kwota płatności w dolarach amerykańskich, reprezentowana przez program w ciągu ostatnich 12 miesięcy.                                      |
-|Płatności                       |Wybierz opcję **płatny** lub **oczekujący** , a następnie Sortuj zgodnie z oczekiwaniami. Aby uzyskać dodatkowe szczegóły dotyczące określonej płatności, wybierz pozycję **Widok** . Aby pobrać kopię instrukcji przelewu płatniczego, wybierz pozycję **Pobierz** . Wyświetlenie danych historii transakcji może potrwać do 24 godzin, dzięki czemu nie zobaczysz odpowiednich zarobków od razu.  |
+|Płatności                       |Wybierz opcję **płatny** lub **oczekujący** , a następnie Sortuj zgodnie z oczekiwaniami. Aby uzyskać dodatkowe szczegóły dotyczące określonej płatności, wybierz pozycję **Widok**. Aby pobrać kopię instrukcji przelewu płatniczego, wybierz pozycję **Pobierz**. Wyświetlenie danych historii transakcji może potrwać do 24 godzin, dzięki czemu nie zobaczysz odpowiednich zarobków od razu.  |
 
 Aby wyeksportować wszystkie dane na tej stronie, wybierz pozycję **Eksportuj** , a następnie postępuj zgodnie z instrukcjami na stronie Eksportuj dane.
 
@@ -139,7 +139,7 @@ Jeśli nie znasz numeru referencyjnego zachęty kanału (CI), możesz go znaleź
 
 - [Pulpit nawigacyjny Centrum partnerskiego](https://partner.microsoft.com/dashboard/) (wymagane logowanie) na karcie **Płatne** i na karcie **oczekujące** .  
 
-- Twój raport dotyczący płatności, który znajduje się na [stronie eksportowania pobierania płatności](/partner-center/understand-incentive-payouts#payment-download-export). 
+- Twój raport dotyczący płatności, który znajduje się na [stronie eksportowania pobierania płatności](#payment-download-export). 
 
 #### <a name="if-your-submission-is-rejected"></a>Jeśli przesłane dane zostały odrzucone
 
@@ -167,7 +167,7 @@ Strona Historia transakcji zawiera teraz tabelę przedstawiającą szacowane kwo
 
 Szacowany miesiąc płatności jest obliczany na podstawie zasad konfiguracji programu i osi czasu i jest przetwarzany w następnym/przyszłym cyklu płatności.
 
-Szacowany miesiąc płatności jest obecnie dostępny dla wszystkich typów zdobywania, z wyjątkiem współpracy, która będzie wyświetlana jako **nie dotyczy** . W przypadku zarobków przed 1 lipca 2020 szacowany miesiąc płatności zostanie **wyświetlony jako niedostępny** .
+Szacowany miesiąc płatności jest obecnie dostępny dla wszystkich typów zdobywania, z wyjątkiem współpracy, która będzie wyświetlana jako **nie dotyczy**. W przypadku zarobków przed 1 lipca 2020 szacowany miesiąc płatności zostanie **wyświetlony jako niedostępny**.
 
 #### <a name="estimated-payment-month-example"></a>Przykład szacowanego miesiąca płatności
 
@@ -331,7 +331,7 @@ Raport podsumowujący transakcje zawiera szczegóły transakcji na poziomie pods
 ### <a name="download-the-transaction-summary-report"></a>Pobierz raport podsumowujący transakcję
 
 1. Na stronie **Przegląd zachęt** wybierz ikonę **pieniądze** (wypłata) w prawym górnym rogu.
-2. Wybierz pozycję **Eksportuj dane** .
+2. Wybierz pozycję **Eksportuj dane**.
 3. Wybierz kartę **Podsumowanie transakcji** .
 4. Wybierz odpowiednie filtry, aby wyświetlić programy i dźwignie kwalifikujące się do agregowania zarobków. Jeśli żadne dane nie są wyświetlane, programy nie są uprawnione do agregowania dźwigni.
 5. Wybierz pozycję **Rozpocznij pobieranie** ,   Aby wyeksportować raport.  

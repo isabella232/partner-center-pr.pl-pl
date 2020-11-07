@@ -1,7 +1,7 @@
 ---
 title: Znajdź identyfikator dzierżawy, nazwę domeny, identyfikator obiektu użytkownika
 ms.topic: how-to
-ms.date: 09/16/2020
+ms.date: 11/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, jak znaleźć identyfikatory w Azure Portal — identyfikator dzierżawy usługi Azure AD w organizacji, nazwę domeny lub określony identyfikator obiektu użytkownika. Niektóre zadania wymagają tych informacji.
@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4a3695079a9d5b0b3c66b7c2eda52a31888a6660
-ms.sourcegitcommit: 3158b0de261539694e37e433c763afa4067e36fb
+ms.openlocfilehash: b88d6e11c7f4d56cf58d136a91b530688b3e5413
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92529734"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360075"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Lokalizowanie ważnych identyfikatorów dla użytkownika
 
@@ -28,12 +28,12 @@ W tym artykule opisano, jak za pomocą [Azure Portal](https://portal.azure.com/)
 
 ## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Znajdź Microsoft Azure AD identyfikator dzierżawy i nazwę domeny podstawowej
 
-Wykonaj następujące kroki, aby zlokalizować identyfikator dzierżawy usługi Azure AD lub nazwę domeny podstawowej w ramach Azure Portal.
+Wykonaj następujące kroki, aby zlokalizować identyfikator dzierżawy usługi Azure AD lub nazwę domeny podstawowej w ramach Azure Portal. (Jeśli chcesz programowo znaleźć identyfikator dzierżawy, zobacz [Znajdowanie identyfikatora dzierżawy przy użyciu programu PowerShell lub interfejsu wiersza polecenia](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell)).
 
 > [!NOTE]
 > Identyfikator dzierżawy może być nazywany różnymi nazwami w różnych aplikacjach lub zasobach. Na przykład identyfikator dzierżawy może być określany jako identyfikator katalogu, dzierżawa usługi Azure Active Directory (Azure AD), identyfikator firmy Microsoft lub dla niektórych raportów, nawet *tenantguid*.
 
-1. Zaloguj się w witrynie [Azure Portal](https://portal.azure.com/).
+1. Zaloguj się do [Azure portal](https://portal.azure.com/).
 
 2. Wybierz **Azure Active Directory** z menu.
 
@@ -53,7 +53,7 @@ Wykonaj następujące kroki, aby zlokalizować identyfikator dzierżawy usługi 
 
 Po prostu znalezienie nazwy domeny i identyfikatora dzierżawy może nie zawsze być wystarczające. Może być również konieczne znalezienie określonego identyfikatora obiektu przypisanego do użytkownika. Wykonaj następujące kroki, aby znaleźć identyfikator obiektu użytkownika w Azure Portal:
 
-1. Zaloguj się w witrynie [Azure Portal](https://portal.azure.com/).
+1. Zaloguj się do [Azure portal](https://portal.azure.com/).
 
 2. Wybierz **Azure Active Directory** z menu.
 
@@ -75,5 +75,6 @@ Po prostu znalezienie nazwy domeny i identyfikatora dzierżawy może nie zawsze 
 
 ## <a name="next-steps"></a>Następne kroki
 
+- [Programowe Znajdowanie identyfikatora dzierżawy za pomocą programu PowerShell lub interfejsu wiersza polecenia](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - [Dowiedz się więcej o profilach użytkowników w Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 - [Dowiedz się, w jaki sposób partnerzy mogą zobaczyć lub wyeksportować szczegóły klienta w centrum partnerskim](see-your-customer-list.md)

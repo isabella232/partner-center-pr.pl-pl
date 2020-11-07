@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a4bb8eb1d3dbd24f4e18e96fb7b67c6e7332186
-ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
+ms.openlocfilehash: a65dcceea688094089ad06dacfd2abf13173ca5c
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "93028792"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360007"
 ---
 # <a name="upgrade-windows-10-home-customers-to-windows-10-education"></a>Uaktualnianie klientów systemu Windows 10 Home do systemu Windows 10 Education
 
@@ -49,9 +49,9 @@ Partnerzy powinni utworzyć żądanie pomocy technicznej i pobrać klucze z pomo
 
 2. W menu Centrum partnerskiego wybierz pozycję **klienci** , a następnie wybierz klienta, który potrzebuje pomocy technicznej.
 
-3. Wybierz pozycję **Zarządzanie usługami** i wybierz pozycję **żądania obsługi** .
+3. Wybierz pozycję **Zarządzanie usługami** i wybierz pozycję **żądania obsługi**.
 
-4. Wybierz pozycję **nowe żądanie** , a następnie wybierz pozycję **Office 365 i pakiet Enterprise Mobility Suite** .
+4. Wybierz pozycję **nowe żądanie** , a następnie wybierz pozycję **Office 365 i pakiet Enterprise Mobility Suite**.
 
 5. Nastąpi przekierowanie do portalu pakietu Office 365, w którym należy się zalogować przy użyciu poświadczeń Centrum partnerskiego.
 
@@ -63,9 +63,9 @@ Partnerzy powinni utworzyć żądanie pomocy technicznej i pobrać klucze z pomo
 - **Opis:** Zażądaj [Wstaw numer] kluczy, aby włączyć uaktualnienie do systemu Windows 10 Education. (Należy zauważyć, że liczba żądanych kluczy nie może być większa niż Licencja subskrypcyjna na Microsoft 365 a3/A5 lub Windows 10 Enterprise a3/A5). Identyfikator subskrypcji klienta [Wstaw klientów identyfikator identyfikatora subskrypcji dla Microsoft 365 a3/A5 lub subskrypcji systemu Windows 10 Enterprise a3/A5.]
 - **Numer osoby kontaktowej:** Zostanie to wstępnie wypełnione; Przejrzyj, aby potwierdzić lub zaktualizować.
 - **Adres e-mail:** Zostanie ona wstępnie zastosowana i powinna być wiadomością e-mail używaną jako Administrator portalu Microsoft (tylko administrator globalny lub administrator rozliczeń).
-- **Preferowana metoda kontaktu** : wybierz pozycję **telefon** lub **Zaplanuj wywołanie zwrotne** .
+- **Preferowana metoda kontaktu** : wybierz pozycję **telefon** lub **Zaplanuj wywołanie zwrotne**.
 
-8. Wybierz pozycję **kontakt ze mną** . Oczekiwany czas oczekiwania jest wskazany w okienku **potrzebna pomoc?**
+8. Wybierz pozycję **kontakt ze mną**. Oczekiwany czas oczekiwania jest wskazany w okienku **potrzebna pomoc?**
 
 9. **Pomoc techniczna firmy Microsoft** sprawdzi żądanie, aby upewnić się, że klient kwalifikuje się. Po zatwierdzeniu żądania wyśle wiadomość e-mail do partnera zawierającego instrukcje dotyczące uzyskiwania dostępu do kluczy.
 
@@ -75,7 +75,7 @@ Partnerzy powinni utworzyć żądanie pomocy technicznej i pobrać klucze z pomo
 
 Aby uaktualnić system Windows 10 Home przy użyciu klucza produktu Windows 10 Pro Education, klient musi wykonać następujące czynności:  
 
-1. Wybierz pozycję **Start** , a następnie wybierz pozycję **ustawienia > aktualizacja & zabezpieczenia > aktywacja** . Wybierz pozycję **Zmień klucz produktu** , a następnie wprowadź 25-znakowy klucz produktu Windows 10 Pro. Wybierz pozycję **dalej** , aby rozpocząć uaktualnianie do systemu Windows 10 Pro.
+1. Wybierz pozycję **Start** , a następnie wybierz pozycję **ustawienia > aktualizacja & zabezpieczenia > aktywacja**. Wybierz pozycję **Zmień klucz produktu** , a następnie wprowadź 25-znakowy klucz produktu Windows 10 Pro. Wybierz pozycję **dalej** , aby rozpocząć uaktualnianie do systemu Windows 10 Pro.
 
 2. Gdy urządzenie jest przyłączone do domeny dzierżawy (za pośrednictwem usługi AAD), urządzenie zostanie automatycznie uaktualnione do systemu Windows 10 Education.  
 
@@ -100,4 +100,4 @@ Uaktualnienie systemu Windows 10 Education jest oparte na aktywnej subskrypcji l
 Dowiedz się więcej, wykonując następujące linki:
 
 - [Funkcje Eduction systemu Windows](https://www.microsoft.com/education/products/windows/features)
-- [Centrum edukacji systemu Windows](https://docs.microsoft.com/education/windows/)
+- [Centrum edukacji systemu Windows](/education/windows/)
