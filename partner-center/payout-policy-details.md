@@ -1,82 +1,60 @@
 ---
-title: Szczegóły zasad wypłaty — Microsoft Commercial Marketplace
+title: Harmonogramy wypłaty i Szczegóły zasad — Azure Marketplace
 description: Dowiedz się więcej na temat szczegółów dotyczących komercyjnych zasad wypłaty na rynku, w tym harmonogramów i odniesień.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: mingshen-ms
 ms.author: mingshen
-ms.date: 09/28/2020
-ms.openlocfilehash: eec5f85f38280757bc1e5d5c36a4dd1ac5ce8d22
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.date: 11/06/2020
+ms.openlocfilehash: 8986ef1d2a16d939530ed49875a21c13b0b97868
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530478"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381396"
 ---
-# <a name="payout-policy-details"></a>Szczegóły zasad wypłat
+# <a name="payout-schedules-and-policy-details"></a>Harmonogramy wypłaty i Szczegóły zasad
 
-W tym artykule omówiono proces wypłaty firmy Microsoft, harmonogram wypłaty, miejsce, w którym można znaleźć stan wypłaty oraz zasady związane z oddziałami.
+W tym artykule omówiono proces wypłaty firmy Microsoft, harmonogram wypłaty, informacje o stanie wypłaty oraz proces niepłatności dla klienta.
 
 ## <a name="payment-schedules"></a>Harmonogramy płatności
 
-W poniższych sekcjach opisano nasz proces wypłat.
+W poniższych sekcjach opisano nasz proces wypłats dotyczący transakcji dotyczących **Umowa Enterprise** i **karty kredytowej/faktury** .
 
-### <a name="enterprise-agreement-transactions-after-may-1-2020"></a>Umowa Enterprise transakcji od 1 maja 2020
+### <a name="enterprise-agreement-transactions"></a>Umowa Enterprise transakcji
 
-#### <a name="update-to-our-commercial-marketplace-publisher-payout-model"></a>Aktualizacja do naszego komercyjnego modelu wypłaty wydawcy w portalu Marketplace
+Gdy klient kupuje produkt z Microsoft AppSource lub Azure Marketplace przy użyciu istniejących w firmie Microsoft Umowa Enterprise dla transakcji, będziemy wystawić wypłaty w następnym cyklu wypłaty w okresie 30 dni. Transakcje, w których klient używa karty kredytowej, ma 30-dniowy okres przechowywania przed wypłatą.
 
-Począwszy od 1 maja 2020, aktualizujemy zasady naszych ofert związanych z produktami zakupionymi w witrynie Azure Marketplace lub AppSource przez klientów z Umowa Enterpriseem firmy Microsoft. Gdy klient kupuje produkt z witryny Azure Marketplace lub AppSource przy użyciu istniejących w firmie Microsoft Umowa Enterprise dla transakcji po 1 maja, 2020 rozpocznie się wystawianie płatnych opłat w okresie następnej wypłaty za 30 dni. Transakcje, w przypadku których klient korzysta z karty kredytowej, nie uległy zmianie i nadal będzie miał 30-dniowy okres przechowywania przed wypłatą. W tej tabeli przedstawiono szczegółowe informacje o harmonogramie wypłaty.
+Wypłata często nastąpi, zanim firma Microsoft będzie zbierać płatność od klienta. Zapoznaj się z artykułem [dotyczącym niepłatności klienta](#process-for-customer-non-payment) w przypadku akcji podejmowanych w przypadku niepowodzenia płatności przez klienta firmy Microsoft, ale wystawiłeś już wypłatę.
 
-> [!NOTE]
-> Zapoznaj się z artykułem [dotyczącym niepłatności klienta](#process-for-customer-non-payment) w przypadku akcji podejmowanych w przypadku niepowodzenia płacenia przez klienta, ale wystawiłeś już wypłatę.
-
-| Wydarzenie  | Data (UTC) | Widoczność partnerów: Raport wypłaty Centrum partnerskiego  |  Widoczność partnerów: Analiza Centrum partnerskiego\* |
+| Wydarzenie | Opis | Widoczność raportów | Terminy |
 | --- | --- | --- | --- |
-| Transakcja lub miesiąc użycia | 8/1/2020 – 8/31/2020 | Nie dotyczy | **Raport użycia** : pokazywane nowe użycie (odświeżone co cztery godziny)<br>**Raport z kolejnością** : brak |
-| Zakończenie okresu (miesiąc) | 8/31/2020 | Nie dotyczy | **Raport użycia** : pokazywane zużycie końcowe miesiąca<br>**Raport z kolejnością** : brak |
-| Wygenerowane zamówienie | 9/3/2020 – 9/7/2020 | Nie dotyczy | **Raport użycia** : użycie pokazane z identyfikatorem IDZamówienia/OrderLineItemID<br>**Zamówienie raportu** : zamówienia klienta wyświetlane jako aktywne |
-| Oblicz zdobywanie wypłat | 9/4/2020 – 9/10/2020 | Oznaczono jako **nieprzetworzony** w historii transakcji na pulpicie nawigacyjnym wypłaty | **Raport użycia** : użycie pokazane z identyfikatorem IDZamówienia/OrderLineItemID<br>**Zamówienie raportu** : zamówienia klienta wyświetlane jako aktywne |
-| Miesięczna wypłata | 10/5/2020 | Oznaczone jako **nadchodzące** w historii transakcji na pulpicie nawigacyjnym wypłaty | **Raport użycia** : użycie pokazane z identyfikatorem IDZamówienia/OrderLineItemID<br>**Zamówienie raportu** : zamówienia klienta wyświetlane jako aktywne |
-| Data wypłaty\** | 10/15/2020 | Oznaczone jako **wysłane** w historii transakcji i w sekcji płatności na pulpicie nawigacyjnym wypłaty | **Raport użycia** : użycie pokazane z identyfikatorem IDZamówienia/OrderLineItemID<br>**Zamówienie raportu** : zamówienia klienta wyświetlane jako aktywne |
-| Zebrana faktura klienta | 12/1/2020 | Oznaczone jako **wysłane** w historii transakcji i w sekcji płatności na pulpicie nawigacyjnym wypłaty | **Raport użycia** : użycie pokazane z identyfikatorem IDZamówienia/OrderLineItemID<br>**Zamówienie raportu** : zamówienia klienta wyświetlane jako aktywne  |
-|  |  |  |  |
+| Użycie lub miesiąc transakcji | Klient korzysta z usługi lub kupuje ją. | Pulpit nawigacyjny [użycia](/azure/marketplace/partner-center-portal/usage-dashboard) lub [zamówienia](/azure/marketplace/partner-center-portal/orders-dashboard) | **Miesiąc 1** |
+| Zamówienie zakupu zostało utworzone | Określanie łącznego użycia, łącznej liczby transakcji | Pulpit nawigacyjny [użycia](/azure/marketplace/partner-center-portal/usage-dashboard) lub [zamówienia](/azure/marketplace/partner-center-portal/orders-dashboard) | **Miesiąc 2** |
+| Zostanie utworzona wypłata za niezależnego dostawcę oprogramowania | Ustalanie opłat za Agencję i dochodów z wypłaty | Oznaczono jako nieprzetworzony w historii transakcji w instrukcji wypłaty | **Miesiąc 3 (pierwszy tydzień)** |
+| Przygotuj wypłatę | Dochody są przygotowywane do miesięcznej płatności | Oznaczone jako nadchodzące w historii transakcji w instrukcji wypłaty | **Miesiąc 3 (pierwszy tydzień)** |
+| **Data wypłaty** | **Płatność jest wysyłana do wydawcy** | **Oznaczone jako wysłane w historii transakcji i w sekcji płatności instrukcji wypłaty** | **Miesiąc 3 (nie później niż 15)** |
+| Faktura zapłacona przez klienta | Firma Microsoft zbiera płatność od klienta | Bez zmian | **Miesiąc od 4 do 12** |
+|
 
-\* Raporty użycia i zamówień są dostępne w sekcji Analiza w centrum partnerskim. \* *. Data wypłaty przypada w pacyficznym czasie standardowym (PST).
+\* Data wypłaty przypada w czasie standardowym (PST).
 
 ### <a name="customers-who-pay-using-credit-card-or-invoice"></a>Klienci, którzy płacisz przy użyciu karty kredytowej lub faktury
 
-Wszystkie zakupy z kartą kredytową lub fakturą miesięczną mają 30-dniowy okres przechowywania, aby upewnić się, że środki zostały wyczyszczone i nie obciążeń zwrotnych ani nie ma podejrzenia oszustwa.
+Wszystkie zakupy z kartą kredytową lub fakturą miesięczną mają 30-dniowy okres przechowywania, dzięki czemu fundusze są zbierane od klienta.
 
-| Wydarzenie  | Data (UTC) | Widoczność partnerów: Raport wypłaty Centrum partnerskiego  |  Widoczność partnerów: Analiza Centrum partnerskiego\*  |
+| Wydarzenie | Opis | Widoczność raportów | Terminy |
 | --- | --- | --- | --- |
-| Transakcja lub miesiąc użycia | 8/1/2019 - 8/31/2019 | Nie dotyczy | **Raport użycia** : pokazywane nowe użycie (odświeżone co cztery godziny)<br>**Raport z kolejnością** : brak |
-| Zakończenie okresu (miesiąc) | 8/31/2019 | Nie dotyczy | **Raport użycia** : pokazywane zużycie końcowe miesiąca<br>**Raport z kolejnością** : brak |
-| Wygenerowane zamówienie | 9/3/2019 – 9/7/2019 | Nie dotyczy | **Raport użycia** : użycie pokazane z identyfikatorem IDZamówienia/OrderLineItemID<br>**Zamówienie raportu** : zamówienia klienta wyświetlane jako aktywne |
-| Zebrana faktura klienta | 9/7/2019 – 9/10/2019 | Nie dotyczy | **Raport użycia** : użycie pokazane z identyfikatorem IDZamówienia/OrderLineItemID<br>**Zamówienie raportu** : zamówienia klienta wyświetlane jako aktywne |
-| Oblicz wypłatę | 9/8/2019 -9/12/2019 | Oznaczono jako **nieprzetworzony** w historii transakcji na pulpicie nawigacyjnym wypłaty | **Raport użycia** : użycie pokazane z identyfikatorem IDZamówienia/OrderLineItemID<br>**Zamówienie raportu** : zamówienia klienta wyświetlane jako aktywne |
-| Miesięczna wypłata | 11/5/2019\* | Oznaczone jako **nadchodzące** w historii transakcji na pulpicie nawigacyjnym wypłaty | **Raport użycia** : użycie pokazane z identyfikatorem IDZamówienia/OrderLineItemID<br>**Zamówienie raportu** : zamówienia klienta wyświetlane jako aktywne |
-| Data wypłaty\** | 11/15/2019 | Oznaczone jako **wysłane** w historii transakcji i w sekcji płatności na pulpicie nawigacyjnym wypłaty | **Raport użycia** : użycie pokazane z identyfikatorem IDZamówienia/OrderLineItemID<br>**Zamówienie raportu** : zamówienia klienta wyświetlane jako aktywne |
-|  |  |  |  |
+| Użycie lub miesiąc transakcji | Klient korzysta z usługi lub kupuje ją. | Pulpit nawigacyjny [użycia](/azure/marketplace/partner-center-portal/usage-dashboard) lub [zamówienia](/azure/marketplace/partner-center-portal/orders-dashboard) | **Miesiąc 1** |
+| Faktura zapłacona przez klienta | Określanie łącznego użycia, całkowitej wartości transakcji i faktury płatnej klienta | Pulpit nawigacyjny [użycia](/azure/marketplace/partner-center-portal/usage-dashboard) lub [zamówienia](/azure/marketplace/partner-center-portal/orders-dashboard) | **Miesiąc 2** |
+| Zostanie utworzona wypłata za niezależnego dostawcę oprogramowania | Ustalanie opłat za Agencję i dochodów z wypłaty | Oznaczono jako nieprzetworzony w historii transakcji w instrukcji wypłaty | **Miesiąc 2** |
+| 30-dniowy okres przechowywania | Upewnij się, że zebrano środki, możliwe obciążenia zwrotnego i zwrotne żądania | Oznaczono jako nieprzetworzony w historii transakcji w instrukcji wypłaty | **Miesiąc 3** |
+| Przygotuj wypłatę | Dochody są przygotowywane do miesięcznej płatności | Oznaczone jako nadchodzące w historii transakcji w instrukcji wypłaty | **Pierwszy tydzień miesiąca 4** |
+| **Data wypłaty** | **Płatność jest wysyłana do wydawcy** | **Oznaczone jako wysłane w historii transakcji i w sekcji płatności instrukcji wypłaty** | **Miesiąc 4 (nie później niż 15)** |
+|
 
-\* Raporty użycia i zamówień są dostępne w sekcji Analiza w centrum partnerskim.</br>\** Data wypłaty przypada w pacyficznym czasie standardowym (PST).
-
-### <a name="enterprise-agreement-transactions-prior-to-may-1-2020"></a>Umowa Enterprise transakcje przed 1 maja 2020
-
-Wszystkie zakupy występujące przed tą datą są przetwarzane i płatne zgodnie z poniższym harmonogramem po zebraniu przez firmę Microsoft płatności od klientów i przetworzeniu opłaty za witrynę Marketplace.
-
-| Wydarzenie  | Data (UTC)  | Widoczność partnerów: Raport wypłaty Centrum partnerskiego  |  Widoczność partnerów: Analiza Centrum partnerskiego\*  |
-| --- | --- | --- | --- |
-| Transakcja lub miesiąc użycia | 8/1/2019 – 8/31/2019 | Nie dotyczy | **Raport użycia** : pokazywane nowe użycie (odświeżone co cztery godziny)<br>**Raport z kolejnością** : brak |
-| Zakończenie okresu (miesiąc) | 8/31/2019 | Nie dotyczy | **Raport użycia** : pokazywane zużycie końcowe miesiąca<br>**Raport z kolejnością** : brak |
-| Wygenerowane zamówienie | 9/3/2019 – 9/7/2019 | Nie dotyczy | **Raport użycia** : użycie pokazane z identyfikatorem IDZamówienia/OrderLineItemID<br>**Zamówienie raportu** : zamówienia klienta wyświetlane jako aktywne |
-| Zebrana faktura klienta | 12/1/2019 | Nie dotyczy | **Raport użycia** : użycie pokazane z identyfikatorem IDZamówienia/OrderLineItemID<br>**Zamówienie raportu** : zamówienia klienta wyświetlane jako aktywne |
-| Oblicz wypłatę | 12/5/2019 – 12/7/2019 | Oznaczono jako **nieprzetworzony** w historii transakcji na pulpicie nawigacyjnym wypłaty | **Raport użycia** : użycie pokazane z identyfikatorem IDZamówienia/OrderLineItemID<br>**Zamówienie raportu** : zamówienia klienta wyświetlane jako aktywne |
-| Miesięczna wypłata | 1/5/2019 | Oznaczone jako **nadchodzące** w historii transakcji na pulpicie nawigacyjnym wypłaty | **Raport użycia** : użycie pokazane z identyfikatorem IDZamówienia/OrderLineItemID<br>**Zamówienie raportu** : zamówienia klienta wyświetlane jako aktywne |
-| Data wypłaty\** | 1/15/2019 | Oznaczone jako **wysłane** w historii transakcji i w sekcji płatności na pulpicie nawigacyjnym wypłaty | **Raport użycia** : użycie pokazane z identyfikatorem IDZamówienia/OrderLineItemID<br>**Zamówienie raportu** : zamówienia klienta wyświetlane jako aktywne |
-|  |  |  |  |
-
-\* Raporty użycia i zamówień są dostępne w sekcji Analiza w centrum partnerskim.</br>\** Data wypłaty przypada w pacyficznym czasie standardowym (PST).
+\* Data wypłaty przypada w pacyficznym czasie standardowym (PST).
 
 ## <a name="process-for-customer-non-payment"></a>Proces dla niepłaty klienta
 
@@ -88,7 +66,7 @@ Firma Microsoft zwróci wszelkie płatne opłaty za korzystanie z jednej z nast�
 
 Poniżej przedstawiono przykładowy harmonogram:
 
-| Wydarzenie | Przybliżona data | Widoczność partnerów |
+| Wydarzenie | Przybliżona data * | Widoczność partnerów |
 | --- | --- | --- |
 | Przykładowa data wypłaty | 10/15/2020 | Sekcja oznaczone jako **wysłane** w historii transakcji i w sekcji płatności na pulpicie nawigacyjnym wypłaty |
 | <font color="red">Jeśli klient nie płacisz firmie Microsoft</font> | 12/2/2020 – 12/5/2020 | Bez zmian, taka sama jak powyżej |
@@ -100,6 +78,8 @@ Poniżej przedstawiono przykładowy harmonogram:
 | Wypłata jest potrącana | 3/1/2021 | Wydawca zobaczy negatywną transakcję w zestawieniu wypłaty Centrum partnerskiego |
 | Wypłata została wstrzymana | 3/15/2021 | Przyszłe wypłaty zostaną wyświetlone w zestawieniu wypłaty w centrum partnerskim. Wydawca nie otrzyma płatności do momentu, gdy saldo nie będzie już ujemne.  |
 |||
+
+\* Data wypłaty przypada w pacyficznym czasie standardowym (PST).
 
 ## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Liczba dni, w przypadku których płatność osiągnie konto płatne
 
@@ -117,4 +97,4 @@ Zwykle wysyłamy wszelkie płatności należne w danym miesiącu w piętnastym d
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Szczegóły podatku](tax-details-marketplace.md)
+Dowiedz się więcej o [szczegółach podatkowych](tax-details-marketplace.md).

@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d990a2cb4dcb69dfc76e8a4f0d40fd4912b4f8a0
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 6bf3e3af8e0d1d87a63f86e892d8bddcd74b6460
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530454"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381413"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Rozwiązywanie problemów z konfiguracją konta lub MPN odnowienia
 
@@ -38,7 +38,7 @@ Nie można zmienić szczegółów na tym ekranie. Jest to zgodne z projektem, a 
 Wybierz pozycję **Akceptuj** i **Kontynuuj** , aby kontynuować.
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Jeśli dział IT wyłączył **Rejestrowanie w centrum partnerskim** .
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Jeśli dział IT wyłączył **Rejestrowanie w centrum partnerskim**.
 
 Zobaczysz ten komunikat, ponieważ użytkownicy z wirusami są wyłączeni lub że wirusowe rejestrowanie w dzierżawie usługi Azure AD jest wyłączone. Administrator globalny dla konta usługi Azure AD może włączyć wymagane funkcje, uruchamiając następujące polecenie programu PowerShell:
 
@@ -50,7 +50,7 @@ Aby uzyskać więcej informacji, zapoznaj się z artykułem [rejestracja samoobs
 
 Jeśli zapomniano hasło, wybierz link **nie można uzyskać dostępu do konta?** na stronie logowania. Ta opcja umożliwia zresetowanie hasła lub poproszenie administratora globalnego o przypisanie nowych poświadczeń.
 
-## <a name="on-the-tell-us-about-your-company-scree-you-receive-a-something-went-wrong-error"></a>W Scree "Powiedz nam o swojej firmie" pojawia się błąd "coś poszło źle"
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Na ekranie "Powiedz nam o swojej firmie" pojawia się błąd "coś poszło źle"
 
 Ten komunikat o błędzie jest zwykle wyświetlany, jeśli przypadkowo użyto znaków specjalnych, spacji lub kodu kraju w numerze telefonu firmy. Wartość wprowadzona w polu numer telefonu może zawierać maksymalnie 10 znaków.
 
