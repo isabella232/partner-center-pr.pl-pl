@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/30/2020
-ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 37b8072742db0a9f8eb6bda3b74bf2db66b32e3d
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132831"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433312"
 ---
 # <a name="october-2020-announcements"></a>Ogłoszenia z października 2020 r.
 
@@ -23,6 +23,27 @@ Na tej stronie znajdują się szczegółowe informacje o powiadomieniach dla pro
 2020 anonse: [marzec](2020-march.md)  |  [kwiecień](2020-april.md)z  |  [maja](2020-may.md)  |  [czerwca](2020-june.md)z  |  [lipca](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md) Październik
 
 ______________
+
+## <a name="correction-to-calling-plan-expansion"></a><a name="18"></a>Poprawka do rozwinięcia planu wywołującego 
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2020-10-29
+- Oferty/rynki
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Bezpośredni dostawcy, dostawcy pośrednii i odsprzedawcy pośrednii
+
+### <a name="details"></a>Szczegóły
+
+1 października 2020 ogłoszono [dostępność planu wywoływania pakietu Office 365 na nowych rynkach](2020-september.md#2). Ten anons jest nieprawidłowy i 240 minut na użytkownika miesięcznie w przypadku planów krajowych nie jest dostępny wcześniej. 
+
+
+Aby uzyskać szczegółowe informacje o planach wywoływania, zapoznaj się z [dokumentacją produktu](/microsoftteams/calling-plan-landing-page)Microsoft Teams.
+
+
+________________
 
 ## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Aktualizacje funkcji subskrypcji oprogramowania systemu Windows Server
 
@@ -174,7 +195,7 @@ Dzisiaj udostępniamy kilka przyszłych zmian wymagań dotyczących bezpośredni
 
 Najpierw **wprowadzamy standard wydajności w ramach wymagań partnerów bezpośrednich rozliczeń**. Partnerzy, którzy chcą zarejestrować się jako bezpośredni partnerzy rozliczeń w programie dostawcy rozwiązań w chmurze, muszą spełniać co najmniej USD300K w przychodach programu dostawcy rozwiązań w chmurze w ciągu 12 miesięcy przed ich [wymaganą](https://partner.microsoft.com/support/partnersupport) datą odnowienia umowy serwisowej.
 
-Ten standard wydajności zostanie uwzględniony w styczniu 2021 dla bieżących partnerów rozliczeniowych bezpośrednich i należy spełnić wymagania dotyczące daty odnowienia planu pomocy technicznej dla partnerów.
+Ten standard wydajności zostanie wprowadzony w styczniu 2021 r. dla bieżących partnerów z rozliczaniem bezpośrednim i należy spełnić wymagania dotyczące daty odnowienia planu pomocy technicznej dla partnerów.
 
 Jeśli nie możesz lub wolisz, aby nie spełniały zaktualizowanych wymagań dotyczących partnera bezpośrednich rachunków, musisz ponownie zarejestrować się jako pośredni odsprzedawcy w programie dostawcy rozwiązań w chmurze. 
 

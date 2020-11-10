@@ -9,16 +9,16 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 4213658fc131d83d6c0640552d862f4de9b5ad86
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92530232"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433351"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Przenoszenie subskrypcji planu platformy Azure klienta na innego partnera
 
-## <a name="applies-to"></a>Dotyczy
+**Odpowiednie role**
 
 - Partnerzy w programie dostawcy rozwiązań w chmurze (CSP)
 
@@ -67,27 +67,30 @@ Klient musi także zidentyfikować subskrypcje, które chcą przenieść z bież
 Przyszły partner subskrypcji musi ukończyć formularz żądania przeniesienia z Centrum partnerskiego, aby zażądać przeniesienia subskrypcji:
 
 1.  W menu Centrum partnerskiego wybierz pozycję **klienci** , a następnie wybierz klienta, który ma zostać ukończony w formularzu żądania przeniesienia w imieniu.
-2.  W menu Klient wybierz pozycję **subskrypcje** .
+2.  W menu Klient wybierz pozycję **subskrypcje**.
 3.  Wybierz sekcję **żądanie przeniesienia** .
-4.  W **sekcji żądanie transferu** wybierz pozycję **Dodaj nowe żądanie** .
+4.  W **sekcji żądanie transferu** wybierz pozycję **Dodaj nowe żądanie**.
 
     :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Sekcja Transfers":::
 
 5.  Wykonaj **nową formę żądania przeniesienia** .
 
-6.  Wybierz pozycję **Wyślij żądanie wysłania żądania**  >  **Send** .
+6.  Wybierz pozycję **Wyślij żądanie wysłania żądania**  >  **Send**.
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Sekcja Transfers":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Formularz kończenia żądania przeniesienia":::
 
 7.  Sprawdź potwierdzenie żądania przeniesienia
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Sekcja Transfers" lub "ukończone", anulowanie nie będzie możliwe.
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Przejrzyj oczekujące przeniesienie":::
+
+    >[!Note]
+    >Przyszły partner może anulować żądanie transferu, wybierając pozycję **Anuluj żądanie** w prawym górnym rogu tylko wtedy, gdy żądanie transferu ma stan "oczekiwanie". Gdy żądanie transferu jest w stanie "w toku" lub "ukończone", anulowanie nie będzie możliwe.
 
 ## <a name="current-partner-tasks-to-be-completed"></a>Bieżące zadania partnerskie do ukończenia
 
 Agent administracyjny bieżącego partnera klienta otrzyma wiadomość e-mail z prośbą o przesłanie subskrypcji przez klienta:
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Sekcja Transfers":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Przegląd":::
 
 Przejrzyj i zaakceptuj formularz żądania przeniesienia z Centrum partnerskiego, aby ukończyć transfer subskrypcji.
 
@@ -96,11 +99,11 @@ Przejrzyj i zaakceptuj formularz żądania przeniesienia z Centrum partnerskiego
 
 1.  Wybierz pozycję **Przejrzyj żądanie przeniesienia** z wiadomości e-mail lub
 1.  W menu Centrum partnerskiego wybierz pozycję **klienci** , a następnie wybierz klienta, w imieniu którego zostało przesłane żądanie transferu.
-2.  W menu Klient wybierz pozycję **subskrypcje** .
+2.  W menu Klient wybierz pozycję **subskrypcje**.
 3.  Wybierz sekcję **żądanie przeniesienia** .
 4.  Rozwiń węzeł informacje o transferze, wybierając wybrany **Identyfikator żądania transferu** w obszarze **odebrane żądania** .
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Sekcja Transfers":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Żądanie transferu przeglądów źródła":::
 
 5.  Przejrzyj żądanie transferu. Wybierz żądane subskrypcje platformy Azure do przeniesienia.
 
@@ -111,7 +114,7 @@ Przejrzyj i zaakceptuj formularz żądania przeniesienia z Centrum partnerskiego
 
 6.  Następnie wybierz pozycję **Zaakceptuj i Przenieś** , aby zakończyć proces transferu.
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Sekcja Transfers":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Wybierz subskrypcje do przeniesienia w ramach planów platformy Azure":::
 
 7.  Wyświetl potwierdzenie akceptacji transferu.
 
