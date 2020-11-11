@@ -324,6 +324,25 @@
     - name: Rozwiązywanie problemów z płatnościami i dochodami
       href: incentives-payment-issues.md
       displayName: incentives
+    - name: Praca na platformie Channel Incentives Platform (CHIP)
+      items:
+        - name: Nawigowanie na platformie CHIP
+          href: chip-intro.md
+          displayName: chip
+        - name: Dodawanie użytkowników do konta platformy CHIP
+          href: chip-users.md
+        - name: Wyświetlanie zarobków na platformie CHIP
+          href: chip-earnings.md
+        - name: Sprawdzanie stanu płatności na platformie CHIP
+          href: chip-payment-status.md
+        - name: Lokalizowanie liczby komputerów i poziomu opłat dla umowy
+          href: chip-locate-agreement.md
+        - name: Kwalifikowanie się do programu Solution Assessment
+          href: chip-solution-assessment.md
+        - name: Stan płatności w programie Solution Assessment
+          href: chip-solution-assessment-payment.md
+        - name: Problem z uzyskiwaniem dostępu do platformy CHIP
+          href: chip-access-trouble.md
 - name: Rozliczenia i podatki
   href: billing.md
   displayName: trial
