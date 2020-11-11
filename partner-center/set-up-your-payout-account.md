@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 38fa2943815a71c93bba7165ea970baefc992ed9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92530094"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488141"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Konfigurowanie konta do wypłaty i formularzy podatkowych
 
@@ -28,7 +28,7 @@ Po skonfigurowaniu konta należy wykonać dwie czynności, aby móc sprzedawać 
 - [Skonfiguruj konto wypłaty](#payout-account)
 
 > [!NOTE]
-> Aby uzyskać szczegółowe informacje na temat tego, jak i kiedy użytkownik będzie płacił za pieniądze, zobacz artykuł [otrzymywanie płatności](/azure/marketplace/marketplace-payout-account-setup).
+> Aby uzyskać szczegółowe informacje na temat tego, jak i kiedy użytkownik będzie płacił za pieniądze, zobacz artykuł dotyczący sprzedaży [komercyjnej](marketplace-get-paid.md).
 
 ## <a name="tax-forms"></a>Formularze podatkowe
 
@@ -44,13 +44,13 @@ W centrum partnerskim można dokończyć i przesyłać formularze podatkowe elek
 > [!IMPORTANT]
 > Różne kraje i regiony mają różne wymagania podatkowe. Dokładna kwota, która musi zostać zapłacona podatkiem, zależy od krajów i regionów, w których oferta została sprzedawana. Zapoznaj się z [umową wydawcy Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560) , aby dowiedzieć się, w jakich krajach/regionach firma Microsoft przekazuje sprzedaż i korzystać z opodatkowania w Twoim imieniu. W innych krajach/regionach, w zależności od tego, gdzie jest zarejestrowany, może być konieczne przekazanie sprzedaży i użycie podatku za oferowaną sprzedaż bezpośrednio do urzędu opodatkowania lokalnego. Ponadto przychody sprzedaży aplikacji mogą być opodatkowane jako dochód. Zdecydowanie zachęcamy do skontaktowania się z odpowiednim urzędem dla danego kraju lub regionu, który może pomóc w ustaleniu odpowiednich informacji podatkowych dotyczących komercyjnych działań w portalu Marketplace.
 
-1. W [centrum partnerskim](https://partner.microsoft.com/dashboard)wybierz ikonę **Ustawienia konta** w prawym górnym rogu, a następnie wybierz pozycję **Ustawienia dewelopera** .
+1. W [centrum partnerskim](https://partner.microsoft.com/dashboard)wybierz ikonę **Ustawienia konta** w prawym górnym rogu, a następnie wybierz pozycję **Ustawienia dewelopera**.
 
-2. W menu nawigacji po lewej stronie wybierz pozycję **wypłata i podatek** , a następnie wybierz pozycję **wypłata i przydziały podatkowe** .
+2. W menu nawigacji po lewej stronie wybierz pozycję **wypłata i podatek** , a następnie wybierz pozycję **wypłata i przydziały podatkowe**.
 
 3. Wybierz kombinację programu i identyfikatora sprzedającego, dla którego chcesz skonfigurować informacje podatkowe.
 
-4. Jeśli chcesz użyć istniejącego profilu podatkowego, wybierz go z listy rozwijanej. W przeciwnym razie wybierz pozycję **Utwórz nowy profil** i naciśnij przycisk **Prześlij** . Nastąpi przekierowanie do strony profilów podatkowych.
+4. Jeśli chcesz użyć istniejącego profilu podatkowego, wybierz go z listy rozwijanej. W przeciwnym razie wybierz pozycję **Utwórz nowy profil** i naciśnij przycisk **Prześlij**. Nastąpi przekierowanie do strony profilów podatkowych.
 
 5. Kliknij przycisk **Edytuj** , aby edytować informacje podatkowe.
 
@@ -77,12 +77,12 @@ Jeśli nie masz Stany Zjednoczone, możesz skorzystać z korzyści z traktatów 
 Konto płatne to konto bankowe, na które wysyłamy transakcje z sprzedaży. Można wyświetlić wszystkie konta płatności wprowadzone na stronie profil.
 
 > [!NOTE]
-> Na niektórych rynkach można używać systemu PayPal na potrzeby konta wypłaty. Aby dowiedzieć się, czy system PayPal jest obsługiwany na określonym rynku, zobacz [progi płatności, metody i przedziały czasu](/azure/marketplace/payment-thresholds-methods-timeframes) oraz [Informacje o systemie PayPal](#paypal-info) poniżej, aby uzyskać więcej informacji.
+> Na niektórych rynkach można używać systemu PayPal na potrzeby konta wypłaty. Aby dowiedzieć się, czy system PayPal jest obsługiwany na określonym rynku, zobacz [progi płatności, metody i przedziały czasu](payment-thresholds-methods-timeframes.md) oraz [Informacje o systemie PayPal](#paypal-info) poniżej, aby uzyskać więcej informacji.
 
 ### <a name="create-a-payment-profile"></a>Tworzenie profilu płatności
 
-1. W [centrum partnerskim](https://partner.microsoft.com/dashboard)wybierz ikonę **Ustawienia** koła zębatego w prawym górnym rogu, a następnie wybierz pozycję **Ustawienia konta** .
-2. Pod nagłówkiem *wypłata i opodatkowania* wybierz pozycję **wypłata i przypisanie profilu podatku** .
+1. W [centrum partnerskim](https://partner.microsoft.com/dashboard)wybierz ikonę **Ustawienia** koła zębatego w prawym górnym rogu, a następnie wybierz pozycję **Ustawienia konta**.
+2. Pod nagłówkiem *wypłata i opodatkowania* wybierz pozycję **wypłata i przypisanie profilu podatku**.
 
     > [!NOTE]
     > Ponieważ są to informacje poufne, może zostać wyświetlony monit o ponowne zalogowanie.
@@ -116,7 +116,7 @@ Jeśli wybrano opcję korzystania z konta bankowego w celu otrzymywania wypłat,
 
 Aby zapewnić pomyślne wypłaty, upewnij się, że:
 
-- **Nazwa właściciela konta** wprowadzona dla konta wypłaty w centrum partnerskim musi być dokładną nazwą skojarzoną z Twoim kontem bankowym. Jeśli na przykład nazwa konta bankowego zawiera nazwę środkową, Dodaj nazwę środkową do **nazwy właściciela konta** .
+- **Nazwa właściciela konta** wprowadzona dla konta wypłaty w centrum partnerskim musi być dokładną nazwą skojarzoną z Twoim kontem bankowym. Jeśli na przykład nazwa konta bankowego zawiera nazwę środkową, Dodaj nazwę środkową do **nazwy właściciela konta**.
 - Wypłaty są przekazywane bezpośrednio od firmy Microsoft do konta bankowego w walucie USD.
 - Informacje o banku wprowadzone w centrum partnerskim w znaki łacińskie są tłumaczone na znaki cyrylicy.
 
@@ -124,27 +124,27 @@ Aby zapewnić pomyślne wypłaty, upewnij się, że:
 
 Istniejące profile płatności można edytować, jeśli konieczne jest wprowadzenie zmian lub poprawienie nieprawidłowych informacji.
 
-1. W [centrum partnerskim](https://partner.microsoft.com/dashboard)wybierz ikonę **Ustawienia** koła zębatego w prawym górnym rogu, a następnie wybierz pozycję **Ustawienia dewelopera** .
+1. W [centrum partnerskim](https://partner.microsoft.com/dashboard)wybierz ikonę **Ustawienia** koła zębatego w prawym górnym rogu, a następnie wybierz pozycję **Ustawienia dewelopera**.
 
-2. Pod nagłówkiem *wypłata i podatek* wybierz pozycję **wypłaty i profile podatkowe** .
+2. Pod nagłówkiem *wypłata i podatek* wybierz pozycję **wypłaty i profile podatkowe**.
 
 3. Twoje profile płatności zostaną wyświetlone wraz z ich stanami. Znajdź profil, który chcesz edytować, a następnie kliknij pozycję **Edytuj** po prawej stronie
 
 > [!IMPORTANT]
-> Zmiana konta wypłaty może opóźniać płatności o jeden cykl płatności. To opóźnienie występuje, ponieważ musimy zweryfikować zmianę konta, tak jak podczas pierwszej konfiguracji konta wypłaty. Po zweryfikowaniu konta będziesz nadal otrzymywać opłaty za pełną kwotę. Wszelkie płatności z tytułu bieżącego cyklu płatności zostaną dodane do kolejnego. Aby uzyskać więcej informacji, zobacz temat [pobieranie płatne](/azure/marketplace/marketplace-payout-account-setup) .
+> Zmiana konta wypłaty może opóźniać płatności o jeden cykl płatności. To opóźnienie występuje, ponieważ musimy zweryfikować zmianę konta, tak jak podczas pierwszej konfiguracji konta wypłaty. Po zweryfikowaniu konta będziesz nadal otrzymywać opłaty za pełną kwotę. Wszelkie płatności z tytułu bieżącego cyklu płatności zostaną dodane do kolejnego. Aby uzyskać więcej informacji, zobacz artykuł Wprowadzenie do sprzedaży [komercyjnej](marketplace-get-paid.md).
 
 ### <a name="paypal-info"></a>Informacje o systemie PayPal
 
 W obszarze Wybieranie krajów i regionów możesz utworzyć konto płatności, wprowadzając informacje o systemie PayPal. Jednak przed wybraniem systemu PayPal jako opcji konta płatności:
 
-- Sprawdź [progi płatności, metody i przedziały czasu](/azure/marketplace/payment-thresholds-methods-timeframes) , aby potwierdzić, czy system PayPal jest obsługiwaną metodą płatności w Twoim kraju lub regionie.
+- Sprawdź [progi płatności, metody i przedziały czasu](payment-thresholds-methods-timeframes.md) , aby potwierdzić, czy system PayPal jest obsługiwaną metodą płatności w Twoim kraju lub regionie.
 - Przejrzyj poniższe często zadawane pytania. W zależności od sytuacji system PayPal może nie być najlepszą opcją konta płatności, a konto bankowe może być preferowane.
 
 Często zadawane pytania dotyczące korzystania z systemu PayPal jako formy płatności:
 
 - **Jakie ustawienia systemu PayPal muszę mieć w celu otrzymywania płatności?** Upewnij się, że Twoje konto systemu PayPal nie blokuje płatności eCheck. To ustawienie jest zarządzane na stronie preferencji otrzymywania płatności w systemie PayPal. Aby uzyskać więcej informacji, zobacz [stronę konfiguracji konta w systemie PayPal](https://go.microsoft.com/fwlink/p/?linkid=513139) .
 
-- **Czy mój kraj/region jest obsługiwany?** Zobacz [progi płatności, metody i przedziały czasu](/azure/marketplace/payment-thresholds-methods-timeframes) , aby dowiedzieć się, gdzie w systemie PayPal jest obsługiwana forma płatności.
+- **Czy mój kraj/region jest obsługiwany?** Zobacz [progi płatności, metody i przedziały czasu](payment-thresholds-methods-timeframes.md) , aby dowiedzieć się, gdzie w systemie PayPal jest obsługiwana forma płatności.
 
 - **Czy moje konto w systemie PayPal musi być zarejestrowane w tym samym kraju/regionie co konto Centrum partnerskiego?** Nie. Po skonfigurowaniu konta w systemie PayPal można zaakceptować konfigurację domyślną. Nie ma żadnych problemów z innymi krajami/regionami i walutami, chyba że zablokujesz płatności w niektórych walutach. To ustawienie jest zarządzane na stronie preferencji otrzymywania płatności w systemie PayPal.
 
@@ -173,7 +173,7 @@ Jeśli jesteś wydawcą, który przebywa w Rosji, może być konieczne dostarcze
 
 Aby zapewnić pomyślne wypłaty, upewnij się, że:
 
-- **Nazwa właściciela konta** wprowadzona dla konta wypłaty w centrum partnerskim musi być dokładną nazwą skojarzoną z Twoim kontem bankowym. Jeśli na przykład nazwa konta bankowego zawiera nazwę środkową, Dodaj nazwę środkową do **nazwy właściciela konta** .
+- **Nazwa właściciela konta** wprowadzona dla konta wypłaty w centrum partnerskim musi być dokładną nazwą skojarzoną z Twoim kontem bankowym. Jeśli na przykład nazwa konta bankowego zawiera nazwę środkową, Dodaj nazwę środkową do **nazwy właściciela konta**.
 - Wypłaty są przekazywane bezpośrednio od firmy Microsoft do konta bankowego w walucie Rubel (RUB).
 - Informacje o banku wprowadzone w centrum partnerskim w znaki łacińskie są tłumaczone na znaki cyrylicy.
 - Wypłaty muszą być dokonywane na koncie bankowym, a nie na karcie bankowej.
@@ -205,4 +205,4 @@ Jeśli wybrano opcję korzystania z konta bankowego w celu otrzymywania wypłat,
 
 ## <a name="next-steps"></a>Następne kroki
 
-[Rozliczenia komercyjnej platformy handlowej](/azure/marketplace/billing-details)
+[Uzyskiwanie zapłaty na komercyjnej platformie handlowej](marketplace-get-paid.md)

@@ -6,14 +6,14 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 05/04/2020
-ms.openlocfilehash: 161c524cb3c20b2d17e4bb265cc676acc1af2702
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 89b014b87dd37cc2d38a5931b2f5433394f369c9
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530484"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488201"
 ---
-# <a name="tax-details-for-commercial-marketplace-publishers"></a>Szczegóły podatkowe dla komercyjnych wydawców portalu Marketplace
+# <a name="tax-details-for-commercial-marketplace-publishers"></a>Szczegóły podatkowe dla wydawców na komercyjnej platformie handlowej
 
 Aby zrozumieć kwestie podatkowe dotyczące wyboru cen i odpowiedzialności za podatek w ramach [umowy wydawcy Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560) lub nowoczesnej umowy wydawcy, zobacz kraje/regiony dystrybucji w poniższych tabelach.
 
@@ -269,7 +269,7 @@ Poniższe kwestie dotyczą tylko wydawców portalu Azure Marketplace, niezależn
 
 ## <a name="mixed-remittance-countriesregions-for-publishers"></a>/Regiony przekazów mieszanych dla wydawców
 
-Niektórzy partnerzy rozliczeń firmy Microsoft mogą zbierać i przywiązywać podatki dotyczące sprzedaży, użycia, towarów i usług, wartości dodanej lub podobnej (jeśli istnieją), które dotyczą pozyskiwania aplikacji przez klientów lub In-App produktów w sklepie w krajach/regionach wymienionych poniżej. [Raporty](/azure/marketplace/payout-summary-overview) udostępniane przez firmę Microsoft będą identyfikować transakcje, dla których Partner rozliczeń otrzymał dane dotyczące sprzedaży, użycia, towarów i usług, wartości dodane lub podobne podatki mające zastosowanie do pozyskiwania aplikacji lub In-App produktów przez sklep. Z wyjątkiem transakcji opisanych w takich raportach firma Microsoft ani jej dostawcy usług rozliczeń nie będą w żaden sposób przekazać żadnej sprzedaży, użycia, towarów i usług, wartości dodanej ani innego podobnego podatku w związku z pozyskiwaniem przez klientów aplikacji lub In-App produktów w tych krajach/regionach. Użytkownik jest odpowiedzialny za przeglądanie zgłaszanych przez Ciebie i określanie i zgodność z zobowiązaniami (jeśli takie istnieją) do rejestrowania, zbierania i przekazywania podatków w związku z transakcjami obejmującymi Twoje aplikacje lub In-App produkty.
+Niektórzy partnerzy rozliczeń firmy Microsoft mogą zbierać i przywiązywać podatki dotyczące sprzedaży, użycia, towarów i usług, wartości dodanej lub podobnej (jeśli istnieją), które dotyczą pozyskiwania aplikacji przez klientów lub In-App produktów w sklepie w krajach/regionach wymienionych poniżej. Raporty w [zestawieniu wypłaty](payout-statement.md) są dostępne dla użytkownika w celu zidentyfikowania transakcji, dla których Partner rozliczeń otrzymał dane dotyczące sprzedaży, użycia, towarów i usług, wartości dodane lub podobne podatki mające zastosowanie do pozyskiwania aplikacji lub In-App produktów przez sklep. Z wyjątkiem transakcji opisanych w takich raportach firma Microsoft ani jej dostawcy usług rozliczeń nie będą w żaden sposób przekazać żadnej sprzedaży, użycia, towarów i usług, wartości dodanej ani innego podobnego podatku w związku z pozyskiwaniem przez klientów aplikacji lub In-App produktów w tych krajach/regionach. Użytkownik jest odpowiedzialny za przeglądanie zgłaszanych przez Ciebie i określanie i zgodność z zobowiązaniami (jeśli takie istnieją) do rejestrowania, zbierania i przekazywania podatków w związku z transakcjami obejmującymi Twoje aplikacje lub In-App produkty.
 
 | Kraje/regiony przekazów mieszanych |
 |------------------------------------|
@@ -289,4 +289,4 @@ Poniższe zasady dotyczą tylko wydawców portalu Azure Marketplace:
 
 ## <a name="next-steps"></a>Następne kroki
 
-[Konfigurowanie konta do wypłaty i formularzy podatkowych](/azure/marketplace/marketplace-payout-account-setup)
+[Konfigurowanie konta do wypłaty i formularzy podatkowych](set-up-your-payout-account.md)

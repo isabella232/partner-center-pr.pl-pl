@@ -9,19 +9,19 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98bfd9a9ce6f03ad62a830f05ba82f9b90268326
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d09c1e57d16937c5656579f3932e9c8feb3ecf24
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529854"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488094"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Dowiedz się, jak odczytywać elementy wiersza w plikach uzgadniania Centrum partnerskiego
 
 Dotyczy:
 
 - Centrum partnerskie
-- Centrum partnerskie dla Microsoft Cloud dla instytucji rządowych USA
+- Centrum partnerskie Microsoft Cloud for US Government
 
 Pliki uzgadniania można pobrać z Centrum partnerskiego, aby wyświetlić szczegółowy widok elementu z każdą opłatą w cyklu rozliczeniowym. Szczegóły elementu wiersza obejmują opłaty dla każdej subskrypcji klienta i szczegółowe zdarzenia (na przykład dodatkowe Dodawanie licencji do subskrypcji).
 
@@ -37,6 +37,7 @@ Aby uzyskać informacje na temat sposobu odczytywania **faktury** , zobacz [odcz
 - [Pola pliku uzgadniania opartego na licencji](license-based-recon-files.md)
 - [Pola pliku uzgadniania opartego na użyciu](usage-based-recon-files.md)
 - [Pola plików uzgadniania dziennego użycia z oceną](daily-rated-usage-recon-files.md)
+- [Pola pliku uzgadniania jednorazowego zakupu dostawcy usług kryptograficznych](modern-invoice-reconciliation-file.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Informacje o typach opłat w plikach uzgadniania
 

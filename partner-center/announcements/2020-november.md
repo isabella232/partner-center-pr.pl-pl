@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2d4fc0aef733b8086e550695e2b2e4065930a4a1
-ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
+ms.openlocfilehash: 9702bef0a2fa753e37cfe305bc766ea64f0d0b3f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "94333899"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488147"
 ---
 # <a name="november-2020-announcements"></a>Ogłoszenia z listopada 2020 r.
 
@@ -23,6 +23,56 @@ Na tej stronie znajdują się szczegółowe informacje o anonsach programu Micro
 2020 anonse: od [kwietnia](2020-april.md)do  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [lipca](2020-july.md),  |  [August](2020-august.md)  |  [wrzesień września](2020-september.md)  |  [October](2020-October.md) , | Listopada
 
 ______________
+
+
+## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Dostępne testy: ulepszenia interfejsu API Centrum partnerskiego i rozszerzenia interfejsu użytkownika (UI) dla procesu sprawdzania poprawności przez klienta edukacyjnego
+
+### <a name="categories"></a>Kategorie
+
+- Data 2020-11-10
+- Możliwości | Skalowanie & wydajności dysku
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Partnerzy sprzedający oferty akademickie za pomocą programu Cloud Solution Provider (CSP).
+
+### <a name="summary"></a>Podsumowanie
+
+Testowanie jest teraz dostępne dla aktualizacji interfejsu API Centrum partnerskiego i ulepszeń interfejsu użytkownika dla procesu sprawdzania poprawności przez klienta edukacyjnego.
+
+### <a name="details"></a>Szczegóły
+
+Firma Microsoft uruchamia się na zaufaniu. Firma Microsoft dokłada starań, aby zapewnić zgodną, bezpieczną i bezpieczną metodę weryfikacji klienta dla ofert akademickich w programie CSP. W ramach tej części wprowadzamy interfejs API Centrum partnerskiego i ulepszenia interfejsu użytkownika w drugim kwartale tego roku obrachunkowego (FY21 Q2). Te ulepszenia spowodują zwiększenie przejrzystości i wglądu w proces sprawdzania poprawności klienta, a także możliwość wprowadzania dokładniejszych danych, co pozwoli na lepsze pomyślną weryfikację klienta.
+
+**Ulepszenia Centrum partnerskiego**
+
+- Nowe interfejsy API pobierania i OGŁASZAnia kwalifikacji do obsługi dokładnego wprowadzania danych i ulepszania procesu sprawdzania poprawności przez klienta edukacji przez firmę Microsoft.
+
+- Rozszerzenia interfejsu użytkownika do obsługi dokładnego wprowadzania danych i ulepszania procesu sprawdzania poprawności przez klienta edukacji przez firmę Microsoft.
+
+**Testowanie**
+
+Aby lepiej zrozumieć interfejsy API i wpis danych wymagane do pomyślnej weryfikacji klienta, partnerzy będą mogli testować te ulepszenia z października 2020. Wkrótce znajdziesz więcej szczegółowych informacji na temat dokładnego czasu i sposobu działania. Istniejące interfejsy API Centrum partnerskiego zostaną wycofane przed końcem FY21 Q2. W tym czasie musisz przejść do nowego interfejsu API Centrum partnerskiego.
+
+   - Testowanie dostępne daty testu partnera to od 2 października do 2 grudnia 2020. Partnerzy, którzy chcą wziąć udział w programie, powinni pobrać przewodnik dotyczący testowania klienta edukacyjnego Centrum partnerskiego, aby uzyskać gotowość, jak utworzyć konto i czego oczekiwać w fazie testowania.
+
+**Klienci biblioteki i muzeów**
+
+Oprócz tych ulepszeń firma Microsoft przyjemnością się ogłaszamy, że w FY21 Q2 firma Microsoft oferuje oferty akademickie dla użytkowników bibliotek i muzeów, rozszerzając klientów edukacyjnych, którzy będą mogli korzystać z ofert dla dostawcy usług kryptograficznych.
+
+Firma Microsoft zastrzega sobie prawo do przeglądania statusu dowolnego klienta lub proponowanego klienta jako wykwalifikowanych użytkowników edukacyjnych. Aby uzyskać szczegółowe informacje, zapoznaj się z [wymaganiami dotyczącymi szkoleń edukacyjnych dla użytkowników](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) .
+
+## <a name="next-steps"></a>Następne kroki
+
+Przejrzyj nowe informacje o interfejsie użytkownika Centrum partnerskiego i zmiany interfejsu API, a także Przewodnik dotyczący testowania w usłudze [Partner Center Education proces weryfikacji zawartości usprawnienia](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+
+• Zarejestruj się, aby wziąć udział w testowaniu. (Szczegółowe informacje znajdują się w [przewodniku testowania](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) ). 
+
+• Upewnij się, że Twoja organizacja zna [wymagania dotyczące użytkowników z wykwalifikowanymi](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)wersjami edukacyjnymi. 
+
+• Udostępnij te informacje odpowiednim zespołom w organizacji, wraz z odsprzedawcami, aby ułatwić im przygotowanie się do tych zmian.
+
+
 
 ## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Rozszerzanie komercyjnej zawartości partnerów licencjonowania w galerii gotowości operacji
 

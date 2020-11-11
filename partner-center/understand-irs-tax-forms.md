@@ -1,19 +1,19 @@
 ---
-title: Informacje na temat form podatkowych urzędu skarbowego wystawionych przez firmę Microsoft
+title: Informacje na temat formularzy podatkowych urzędu skarbowego wystawionych przez firmę Microsoft
 description: Dowiedz się więcej na temat formularzy podatkowych wystawionych przez firmę Microsoft, w tym użytkowników, którzy otrzymają te informacje i gdy udostępnili je.
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 18ebd0a82802e26295ed985084585306da464079
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 5543ec62397a72a042c5aa64c6c8f77ce7286f4c
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92530399"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94487877"
 ---
-# <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Informacje na temat form podatkowych urzędu skarbowego wystawionych przez firmę Microsoft
+# <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Informacje na temat formularzy podatkowych urzędu skarbowego wystawionych przez firmę Microsoft
 
 W każdym roku może zostać wyświetlona jedna lub więcej formularzy podatkowych od firmy Microsoft. Jest to zależne od lokalizacji i ilości otrzymywanych sprzedaży lub płatności. Firma Microsoft jest zobowiązana do wydawania tych formularzy i umieszczania ich w usłudze przychód wewnętrzny (IRS).
 
@@ -27,7 +27,7 @@ W tym artykule opisano więcej informacji na temat tych formularzy, w tym użytk
 |1042-S | Związane z płatnościami, które podlegają Stany Zjednoczone potrącania podatku | Druk formularzy będzie postmarked w dniu lub przed **15 marca** , a kopie PDF będą dostępne w centrum partnerskim (w obszarze **Ustawienia dewelopera Centrum partnerskiego** w obszarze **wypłaty i podatek > wypłaty i profile podatków** ) w tym samym czasie  |
 
 > [!NOTE]
-> Adres używany w formularzach podatku SKARBowego pochodzi z adresu w Twoim [profilu podatkowym](/azure/marketplace/marketplace-payout-account-setup). Jeśli adres został zmieniony, pamiętaj o zaktualizowaniu adresu w **profilu podatkowym** .
+> Adres używany przez nas w formularzach podatkowych SKARBowych pochodzi z adresu w profilu podatkowym podczas [konfigurowania konta wypłaty i formularzy podatkowych](set-up-your-payout-account.md). Jeśli adres został zmieniony, pamiętaj o zaktualizowaniu adresu w **profilu podatkowym**.
 
 Formularze podatkowe będą wysyłane do Ciebie z następujących adresów:
 
