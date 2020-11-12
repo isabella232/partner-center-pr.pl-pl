@@ -4,15 +4,15 @@ description: Dowiedz się więcej na temat szczegółów dotyczących komercyjny
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: 8986ef1d2a16d939530ed49875a21c13b0b97868
-ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
+ms.openlocfilehash: 9c03878ec69b9df06795054464ef7f76e038e780
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "94381396"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94531991"
 ---
 # <a name="payout-schedules-and-policy-details"></a>Harmonogramy wypłaty i Szczegóły zasad
 
@@ -28,7 +28,7 @@ Gdy klient kupuje produkt z Microsoft AppSource lub Azure Marketplace przy użyc
 
 Wypłata często nastąpi, zanim firma Microsoft będzie zbierać płatność od klienta. Zapoznaj się z artykułem [dotyczącym niepłatności klienta](#process-for-customer-non-payment) w przypadku akcji podejmowanych w przypadku niepowodzenia płatności przez klienta firmy Microsoft, ale wystawiłeś już wypłatę.
 
-| Wydarzenie | Opis | Widoczność raportów | Terminy |
+| Zdarzenie | Opis | Widoczność raportów | Terminy |
 | --- | --- | --- | --- |
 | Użycie lub miesiąc transakcji | Klient korzysta z usługi lub kupuje ją. | Pulpit nawigacyjny [użycia](/azure/marketplace/partner-center-portal/usage-dashboard) lub [zamówienia](/azure/marketplace/partner-center-portal/orders-dashboard) | **Miesiąc 1** |
 | Zamówienie zakupu zostało utworzone | Określanie łącznego użycia, łącznej liczby transakcji | Pulpit nawigacyjny [użycia](/azure/marketplace/partner-center-portal/usage-dashboard) lub [zamówienia](/azure/marketplace/partner-center-portal/orders-dashboard) | **Miesiąc 2** |
@@ -44,7 +44,7 @@ Wypłata często nastąpi, zanim firma Microsoft będzie zbierać płatność od
 
 Wszystkie zakupy z kartą kredytową lub fakturą miesięczną mają 30-dniowy okres przechowywania, dzięki czemu fundusze są zbierane od klienta.
 
-| Wydarzenie | Opis | Widoczność raportów | Terminy |
+| Zdarzenie | Opis | Widoczność raportów | Terminy |
 | --- | --- | --- | --- |
 | Użycie lub miesiąc transakcji | Klient korzysta z usługi lub kupuje ją. | Pulpit nawigacyjny [użycia](/azure/marketplace/partner-center-portal/usage-dashboard) lub [zamówienia](/azure/marketplace/partner-center-portal/orders-dashboard) | **Miesiąc 1** |
 | Faktura zapłacona przez klienta | Określanie łącznego użycia, całkowitej wartości transakcji i faktury płatnej klienta | Pulpit nawigacyjny [użycia](/azure/marketplace/partner-center-portal/usage-dashboard) lub [zamówienia](/azure/marketplace/partner-center-portal/orders-dashboard) | **Miesiąc 2** |
@@ -66,7 +66,7 @@ Firma Microsoft zwróci wszelkie płatne opłaty za korzystanie z jednej z nast�
 
 Poniżej przedstawiono przykładowy harmonogram:
 
-| Wydarzenie | Przybliżona data * | Widoczność partnerów |
+| Zdarzenie | Przybliżona data * | Widoczność partnerów |
 | --- | --- | --- |
 | Przykładowa data wypłaty | 10/15/2020 | Sekcja oznaczone jako **wysłane** w historii transakcji i w sekcji płatności na pulpicie nawigacyjnym wypłaty |
 | <font color="red">Jeśli klient nie płacisz firmie Microsoft</font> | 12/2/2020 – 12/5/2020 | Bez zmian, taka sama jak powyżej |

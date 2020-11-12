@@ -4,15 +4,15 @@ description: Uzyskaj odpowiedzi na często zadawane pytania dotyczące wypłat n
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
-author: keferna
-ms.author: keferna
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/11/2020
-ms.openlocfilehash: 44bd7f488e3d4e79c45cb2746c7e2a6da449a310
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5775eb497940870344e0d3da85def7c3e717c65f
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530573"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532025"
 ---
 # <a name="common-questions-about-commercial-marketplace-payouts"></a>Często zadawane pytania dotyczące komercyjnych wypłat rynkowych
 
@@ -71,7 +71,7 @@ Użyj AssetID, IDZamówienia i ID elementu, który pojawia się w raporcie Histo
 
 
 #### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>Jak mogę ustawić moje konto, aby nie otrzymywać płatności?
-Płatności można przechowywać w [profilu wypłaty](https://partner.microsoft.com/dashboard/commercial-marketplace/overview). po prostu **zaczekaj** . Firma Microsoft będzie utrzymywać płatność do momentu zwolnienia wstrzymania.
+Płatności można przechowywać w [profilu wypłaty](https://partner.microsoft.com/dashboard/commercial-marketplace/overview). po prostu **zaczekaj**. Firma Microsoft będzie utrzymywać płatność do momentu zwolnienia wstrzymania.
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>Dlaczego otrzymuję płatność w innej walucie niż waluta zakupu?
 
@@ -91,11 +91,11 @@ W pobranym pliku historii transakcji znajdź kolumnę Tax model (Model podatkowy
 
 #### <a name="how-do-i-download-service-fee-tax-forms"></a>Jak mogę pobrać formularze dotyczące podatku z tytułu opłaty za usługę?
 
-Przejdź do strony **Wypłaty — Płatności** i zobacz sekcję **Lista płatności** . Jeśli płatność jest objęta podatkiem z tytułu opłaty za usługę, będzie widoczny link do formularza podatkowego.
+Przejdź do strony **Wypłaty — Płatności** i zobacz sekcję **Lista płatności**. Jeśli płatność jest objęta podatkiem z tytułu opłaty za usługę, będzie widoczny link do formularza podatkowego.
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Jak mogę pobrać formularz dotyczący podatku potrąconego w formacie PDF?
 
-Przejdź do strony *Wypłaty — Płatności* i zobacz sekcję **Lista płatności** . Obok płatności będzie widoczny link do formularza dotyczącego podatku potrąconego.
+Przejdź do strony *Wypłaty — Płatności* i zobacz sekcję **Lista płatności**. Obok płatności będzie widoczny link do formularza dotyczącego podatku potrąconego.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Gdzie mogę znaleźć formularze dotyczące rozliczenia rocznego podatku?
 
@@ -110,8 +110,8 @@ Podatkiem potrąconym objęci są wydawcy z USA, którzy złożyli formularz W-9
 
 #### <a name="how-do-i-access-a-payout-statement"></a>Jak mogę uzyskać dostęp do zestawienia wypłat?
 
-1. Sprawdź swoje role. Aby uzyskać dostęp do zestawienia wypłat, musisz mieć rolę *współpracownika ds. finansowych* lub *właściciela konta* .
-2. W prawym górnym rogu wybierz ikonę **wypłaty** , aby wyświetlić instrukcję wypłaty. Wybierz między **historią transakcji** , **płatnością** i **pobieraniem** .
+1. Sprawdź swoje role. Aby uzyskać dostęp do zestawienia wypłat, musisz mieć rolę *współpracownika ds. finansowych* lub *właściciela konta*.
+2. W prawym górnym rogu wybierz ikonę **wypłaty** , aby wyświetlić instrukcję wypłaty. Wybierz między **historią transakcji** , **płatnością** i **pobieraniem**.
 
 **Dalsze odczytywanie** : [wypłaty ról i uprawnień](payout-statement.md#roles-and-permissions), [instrukcje wypłaty](payout-statement.md) 
 
@@ -131,11 +131,11 @@ Spowoduje to wyświetlenie zarobków jako nieprzetworzonych, przetwarzanych lub 
 
 #### <a name="how-do-i-download-service-fee-tax-forms"></a>Jak mogę pobrać formularze dotyczące podatku z tytułu opłaty za usługę?
 
-Przejdź do strony **Wypłaty — Płatności** i zobacz sekcję **Lista płatności** . Jeśli płatność jest objęta podatkiem z tytułu opłaty za usługę, będzie widoczny link do formularza podatkowego.
+Przejdź do strony **Wypłaty — Płatności** i zobacz sekcję **Lista płatności**. Jeśli płatność jest objęta podatkiem z tytułu opłaty za usługę, będzie widoczny link do formularza podatkowego.
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Jak mogę pobrać formularza potrąconej zaliczki w formacie PDF?
 
-Przejdź do strony **Wypłaty — Płatności** i zobacz sekcję **Lista płatności** . Obok płatności będzie widoczny link do formularza dotyczącego podatku potrąconego.
+Przejdź do strony **Wypłaty — Płatności** i zobacz sekcję **Lista płatności**. Obok płatności będzie widoczny link do formularza dotyczącego podatku potrąconego.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Gdzie mogę znaleźć formularze dotyczące rozliczenia rocznego podatku?
 

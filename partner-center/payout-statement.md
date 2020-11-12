@@ -4,15 +4,15 @@ description: Dowiedz się więcej na temat zestawień i podsumowań wypłaty ora
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/23/2020
-ms.openlocfilehash: 460a7b1992d7db40e0f45d3aeb7e2236e9495e07
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 34d7d162673992601267db03beaddda1573b73c0
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "92530129"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532059"
 ---
 # <a name="payout-statements"></a>Zestawienia wypłat
 
@@ -50,7 +50,7 @@ Możesz również użyć [interfejsu API wypłaty partnera](https://apidocs.micr
 
 Na stronie **Historia transakcji** są wyświetlane podsumowanie zarobków, Szacowana kolejna płatność oraz Trend zysków i płatności w ciągu ostatnich 36 miesięcy. Możesz również pobrać szczegóły transakcji z tej sekcji.
 
-:::image type="content" source="images/payouts/transaction-overview.png" alt-text="Przedstawia ikonę wypłaty w prawym górnym rogu portalu Centrum partnerskiego":::
+:::image type="content" source="images/payouts/transaction-overview.png" alt-text="Przegląd transakcji.":::
 
 - **Dochody są wysyłane w tym roku** — łączne dochody i podział zarobków, które zostały opłacone i zostaną spłacone w nadchodzącym miesiącu.
 - **Szacowany miesiąc płatności** — łączne dochody oczekiwane w nadchodzących miesiącach.
@@ -59,13 +59,13 @@ Na stronie **Historia transakcji** są wyświetlane podsumowanie zarobków, Szac
 
 Użyj wyboru zakresu dat w prawym górnym rogu strony, aby odfiltrować dane wyjściowe strony, aby wyświetlić ostatnich 3, 6, 12 lub 36 miesięcy. Lub wybierz niestandardowy zakres dat do 36 miesięcy. Domyślny zakres dat to 12 miesięcy.
 
-:::image type="content" source="images/payouts/search-filter.png" alt-text="Przedstawia ikonę wypłaty w prawym górnym rogu portalu Centrum partnerskiego":::
+:::image type="content" source="images/payouts/search-filter.png" alt-text="Filtr wyszukiwania w prawym górnym rogu strony.":::
 
 ### <a name="transaction-history-summary"></a>Podsumowanie historii transakcji
 
 Pokazuje to szczegółowe informacje, w tym pochodzenie z prezentów od daty sprzedaży produktu, stanu i szacowanego miesiąca płatności.
 
-:::image type="content" source="images/payouts/transaction-history.png" alt-text="Przedstawia ikonę wypłaty w prawym górnym rogu portalu Centrum partnerskiego":::
+:::image type="content" source="images/payouts/transaction-history.png" alt-text="Historia transakcji.":::
 
 - **Data wypracowana** — Data zakupu.
 - **Typ zdobywania** — typ zdobywania, np. sprzedaż, Rabat lub współdziałanie.
@@ -171,7 +171,7 @@ Na stronie **płatności** znajdują się szczegóły dotyczące pieniędzy uzys
 >[!Note]
 > Aby można było skorzystać z wypłat, Twoje przejścia muszą osiągać [próg płatności](payment-thresholds-methods-timeframes.md) wynoszący $50. Aby uzyskać więcej informacji, zapoznaj się z [umową wydawcy firmy Microsoft](https://go.microsoft.com/fwlink/?LinkID=699560).
 
-:::image type="content" source="images/payouts/payments-overview.png" alt-text="Przedstawia ikonę wypłaty w prawym górnym rogu portalu Centrum partnerskiego":::
+:::image type="content" source="images/payouts/payments-overview.png" alt-text="Ekran przegląd płatności.":::
 
 - **Łączny rok w tym roku** — łączna kwota płatna w tym roku w dolarach amerykańskich dla wszystkich programów.
 - **Kolejna Szacowana płatność** — pojedyncza płatność, która jest już dostępna, nawet jeśli w dolarach amerykańskich istnieją inne osoby.
@@ -182,11 +182,11 @@ Na stronie **płatności** znajdują się szczegóły dotyczące pieniędzy uzys
 
 W tabeli **listy płatności** są wyświetlane płatne i oczekujące płatności. Informacje podatkowe dotyczące opłat za usługę można pobrać w formacie PDF i wyświetlić szczegółowe informacje o podanej płatności.
 
-:::image type="content" source="images/payouts/list-of-payments.png" alt-text="Przedstawia ikonę wypłaty w prawym górnym rogu portalu Centrum partnerskiego":::
+:::image type="content" source="images/payouts/list-of-payments.png" alt-text="Eksportuj historię transakcji":::
 
 - **Płatność** — wszystkie płatności zostały pomyślnie wysłane. Wybierz rok z menu rozwijanego, aby odfiltrować do płatności wydanych w danym roku.
 - **Oczekiwanie** — nadchodzące płatności.
-- **Podatek z tytułu opłaty za usługę (formularz PDF)** — jest dostępny dla płatności objętych podatkiem za usługę. Podatki z opłatami za usługę są pokazywane w **innych podatkach** .
+- **Podatek z tytułu opłaty za usługę (formularz PDF)** — jest dostępny dla płatności objętych podatkiem za usługę. Podatki z opłatami za usługę są pokazywane w **innych podatkach**.
 - **Widok** — przekieruje do historii transakcji z listą zarobków uwzględnionych w płatności.
 
 Aby zrozumieć, dlaczego być może brakuje lub nieoczekiwanych zarobków, zobacz [często zadawane pytania dotyczące komercyjnych wypłat rynkowych](payout-faq.md#why-are-my-earnings-missing).
@@ -238,13 +238,13 @@ Aby wyświetlić więcej szczegółów na temat płatności, wybierz pozycję **
 
 ## <a name="export-data"></a>Eksportowanie danych
 
-Strona **Eksportowanie danych** nie jest odświeżana samodzielnie. Może być konieczne ręczne odświeżenie strony, aby zobaczyć najnowsze dane. Wybierz jedną z trzech kart, aby wyeksportować **historię transakcji** , **płatności** , **Podsumowanie transakcji** lub **instrukcję historyczną** .
+Strona **Eksportowanie danych** nie jest odświeżana samodzielnie. Może być konieczne ręczne odświeżenie strony, aby zobaczyć najnowsze dane. Wybierz jedną z trzech kart, aby wyeksportować **historię transakcji** , **płatności** , **Podsumowanie transakcji** lub **instrukcję historyczną**.
 
 Filtr może spowodować błąd **braku dostępnych danych** . Może się tak zdarzyć, jeśli pozostały domyślny okres wybrany przez trzy miesiące, a następnie wybrano identyfikator płatności z okresu, który znajduje się poza tym okresem. Jeśli tak się stanie, rozwiń swój przedział czasu i spróbuj ponownie.
 
 Oto przykład eksportu płatności:
 
-:::image type="content" source="images/payouts/pc-export-payments.png" alt-text="Przedstawia ikonę wypłaty w prawym górnym rogu portalu Centrum partnerskiego":::
+:::image type="content" source="images/payouts/pc-export-payments.png" alt-text="Eksportuj raport płatności.":::
 
 ### <a name="historical-statements"></a>Historyczne instrukcje
 
@@ -253,7 +253,10 @@ Podsumowanie **eksport danych** zapewnia również dostęp do historycznych inst
 > [!NOTE]
 > Instrukcja historyczna jest migawką i nie jest odświeżana. W razie konieczności skontaktuj się z [pomocą techniczną](https://partner.microsoft.com/support/v2/?stage=1) i zażądaj najnowszych danych.
 
-:::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Przedstawia ikonę wypłaty w prawym górnym rogu portalu Centrum partnerskiego" w nowoczesnej historii, z tą różnicą, że wyklucza wszystkie zyski ze stanem równym "płatności wysłane".
+:::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Eksportuj instrukcje historyczne.":::
+
+- Historia transakcji od dnia 1 lipca 2019 jest obsługiwana osobno i używa różnych pól z późniejszych raportów historii.
+- Historia starszej transakcji zawiera kolumnę o nazwie "zarezerwowana", która odnosi się do kolumny "zarobki" w nowoczesnej historii, z tą różnicą, że wyklucza wszystkie zyski ze stanem równym "płatności wysłane".
 - Filtry takie jak 3M, 6 min lub 12M nie będą miały zastosowania do sekcji Instrukcje historyczne.
 
 ### <a name="historical-statement-downloads"></a>Pobieranie instrukcji historycznych
@@ -271,7 +274,7 @@ W poniższej tabeli opisano każdą kolumnę w instrukcji historycznej.
 | Nazwa produktu nadrzędnego | Nazwa produktu nadrzędnego. Jeśli nie ma produktu nadrzędnego dla transakcji, nazwa produktu nadrzędnego = Nazwa produktu. |
 | Nazwa produktu | Nazwa produktu |
 | Typ produktu | Typ produktu, taki jak aplikacja, dodatek lub gra |
-| Liczba | Gdy źródło przychodu jest Microsoft Store dla firm, ilość reprezentuje liczbę zakupionych licencji. Dla wszystkich innych źródeł przychodu wartość ta będzie zawsze wynosić 1. Nawet wtedy, gdy pojedyncza transakcja jest dzielona na dwa elementy wiersza, ponieważ użyto dwóch różnych metod płatności, każdy element wiersza będzie wyświetlał liczbę 1. |
+| Ilość | Gdy źródło przychodu jest Microsoft Store dla firm, ilość reprezentuje liczbę zakupionych licencji. Dla wszystkich innych źródeł przychodu wartość ta będzie zawsze wynosić 1. Nawet wtedy, gdy pojedyncza transakcja jest dzielona na dwa elementy wiersza, ponieważ użyto dwóch różnych metod płatności, każdy element wiersza będzie wyświetlał liczbę 1. |
 | Typ transakcji | Typ transakcji, taki jak zakup, zwrot, odwrócenie lub obciążenia zwrotnego |
 | Forma płatności | Instrument płatniczy klienta używany do transakcji, taki jak karta, rozliczenia przez przewoźnika komórkowego lub w systemie PayPal |
 | Kraj/region | Kraj/region, w którym wystąpiła transakcja |

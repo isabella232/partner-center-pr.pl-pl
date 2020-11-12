@@ -8,19 +8,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 06/03/2020
-ms.openlocfilehash: 49b5bd1c9a7cd4c56f2fac28a45cc8a4b922b9b0
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.date: 11/11/2020
+ms.openlocfilehash: 93ee3e142bf11c3b329fd27ec7320b93aea780b8
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "92530105"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532042"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Dodaj udostępnione usługi partnerskie platformy Azure, aby partnerzy mogli kupować subskrypcje platformy Azure pod kątem własnych potrzeb
 
-**Dotyczy**
-
-- Centrum partnerskie
  
 **Odpowiednie role**
 
@@ -32,29 +29,29 @@ Usługi udostępnione partnerskiej platformy Azure to nowy typ oferty dla partne
 
 ## <a name="create-the-shared-services-tenant"></a>Tworzenie dzierżawy usług udostępnionych
 
-1. Przejdź do pozycji **Ustawienia**  >  **konta ustawienia**  >  **usługi udostępnione** .
+1. Przejdź do pozycji **Ustawienia**  >  **konta ustawienia**  >  **usługi udostępnione**.
 
    :::image type="content" source="images/sharedservices2.png" alt-text="Ustawienia konta > usług udostępnionych":::
 
-2. Jeśli nie masz jeszcze dzierżawy usług udostępnionych, kliknij przycisk **Utwórz usługi udostępnione** .
+2. Jeśli nie masz jeszcze dzierżawy usług udostępnionych, kliknij przycisk **Utwórz usługi udostępnione**.
 
-   :::image type="content" source="images/sharedservices3.png" alt-text="Ustawienia konta > usług udostępnionych":::
+   :::image type="content" source="images/sharedservices3.png" alt-text="Tworzenie usług udostępnionych":::
 
 3. Spowoduje to utworzenie dzierżawy usług udostępnionych i zakupienie subskrypcji usług udostępnionych CSP platformy Azure, która będzie używana na potrzeby udostępnionych zasobów i obciążenia wewnętrznego.
 
-   :::image type="content" source="images/sharedservices5.png" alt-text="Ustawienia konta > usług udostępnionych":::
+   :::image type="content" source="images/sharedservices5.png" alt-text="Tworzenie dzierżawy i kupowanie subskrypcji":::
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>Informacje o ofercie Azure — usługi wewnętrzne/udostępnione
 
 - Subskrypcja Azure — usługi wewnętrzne/udostępnione jest nowym typem oferty platformy Azure w programie CSP dostępnym za pomocą Centrum partnerskiego, które partnerzy uzyskają w celu korzystania z platformy Azure.
 
-- Oferta Azure — usługi wewnętrzne/udostępnione nie kwalifikuje się do zniżek i zachęt.
+- Oferta Azure — usługi wewnętrzne/udostępnione uprawnia do korzystania z rabatów i zachęt.  Subskrypcje udostępnionych usług partnerskich platformy Azure są uprawnione i mogą być używane do kupowania usług RIs.
 
 - Oferta Azure — usługi wewnętrzne/udostępnione może być stosowana tylko do dzierżawy usług udostępnionych.
 
 - Głównym zastosowaniem subskrypcji Azure — usługi wewnętrzne/udostępnione jest użycie platformy Azure do własnych celów deweloperskich. Dzierżawy udostępnionej używanej do aprowizacji tej oferty nie można używać w przypadku innych usług, takich jak Office 365 lub Dynamics.
 
-- Subskrypcję można anulować, podobnie jak w przypadku każdej innej subskrypcji. Przejdź do pozycji **Ustawienia**  >  **Wyświetl wszystkie ustawienia**  >  **udostępnione usługi** . Wybierz subskrypcję Azure — usługi wewnętrzne/udostępnione i Anuluj ją.
+- Subskrypcję można anulować, podobnie jak w przypadku każdej innej subskrypcji. Przejdź do pozycji **Ustawienia**  >  **Wyświetl wszystkie ustawienia**  >  **udostępnione usługi**. Wybierz subskrypcję Azure — usługi wewnętrzne/udostępnione i Anuluj ją.
 
 ## <a name="accessing-azure-partner-shared-services-consumption-details"></a>Dostęp do szczegółów użycia udostępnionych usług partnerskich platformy Azure
 
@@ -78,3 +75,7 @@ Nie wpłynie to na partnerów, którzy mają BYOLe lub bezpłatne usługi wdroż
 Aby skorzystać z pełnego wykazu dostępnych ofert w portalu Marketplace (nie tylko BYOL i bezpłatnych usług), zalecamy, aby partnerzy CSP wdrażali usługi udostępnione przy użyciu bezpośrednich subskrypcji platformy Azure w sieci Web.  Partnerzy dostawcy usług kryptograficznych, którzy wdrożyły zasoby BYOL i bezpłatnych usług innych firm z rynku Marketplace i chcą nadal korzystać z nich i wdrażają więcej ofert innych firm, zachęcamy do migrowania subskrypcji APSS do sieci Web bezpośrednie [Migrowanie istniejących subskrypcji platformy Azure](/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
 
 Partnerzy, którzy chcą nadal korzystać z subskrypcji usługi APSS po 1 marca 2019 i chcą wdrożyć nowe [usługi BYOL](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) lub bezpłatne usługi innych firm, mogą wykonać instrukcje od niezależnych dostawców oprogramowania, aby wdrożyć je w swoich subskrypcjach APSS.
+
+## <a name="next-steps"></a>Następne kroki
+
+- [Sprzedaż subskrypcji oprogramowania za pośrednictwem dostawcy rozwiązań w chmurze (CSP)](csp-software-subscriptions.md)
