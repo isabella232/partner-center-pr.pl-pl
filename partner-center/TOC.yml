@@ -338,9 +338,11 @@
         - name: Lokalizowanie liczby komputerów i poziomu opłat dla umowy
           href: chip-locate-agreement.md
         - name: Kwalifikowanie się do programu Solution Assessment
-          href: chip-solution-assessment.md
+          href: chip-solutions-assessment-eligible.md
         - name: Stan płatności w programie Solution Assessment
           href: chip-solution-assessment-payment.md
+        - name: Program Solution Assessment — często zadawane pytania
+          href: chip-faq.md
         - name: Problem z uzyskiwaniem dostępu do platformy CHIP
           href: chip-access-trouble.md
 - name: Rozliczenia i podatki
@@ -365,6 +367,10 @@
       href: daily-rated-usage-recon-files.md
     - name: Pliki uzgodnień na podstawie licencji
       href: license-based-recon-files.md
+    - name: Pliki uzgodnień dostawcy rozwiązań w chmurze dla zakupów jednorazowych
+      href: modern-invoice-reconciliation-file.md
+    - name: Obliczanie obowiązującej ceny jednostkowej
+      href: effective-unit-price-calculation.md
     - name: Typowe scenariusze rozliczeń
       href: common-billing-scenarios.md
       displayName: 'trial, subscription'
