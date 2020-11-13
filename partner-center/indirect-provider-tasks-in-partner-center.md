@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: 21a21bc363856ee041ff9e3f9f41b0bcf9796467
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 12b902f8134a4fcf6d93439658da95fff6d80c4f
+ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92530286"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94567053"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Współpraca partnerska z odsprzedawcami pośrednimi w programie Cloud Solution Provider
 
@@ -55,7 +55,7 @@ Wykonaj następujące kroki, aby ustanowić partnerstwo z pośrednimi odsprzedaw
 
    - Aby można było korzystać z odsprzedawcami i prowadzić do nich transakcji, należy ustanowić partnerstwo z nimi w centrum partnerskim.
 
-3. Łączenie się z klientami
+3. Nawiązywanie relacji z klientami
 
    - Kojarzenie nowych klientów i subskrypcji z odsprzedawcami
 
@@ -76,7 +76,7 @@ Na stronie Szczegóły subskrypcji w polu odsprzedawca (identyfikator MPN) Dodaj
 
 1. Wybierz **pośrednich odsprzedawcy** z menu **Centrum partnerskiego** .
 
-2. Na stronie **pośrednich odsprzedawcy** wybierz pozycję **Żądaj powiązania** . Zostanie wyświetlona robocza wiadomość e-mail.
+2. Na stronie **pośrednich odsprzedawcy** wybierz pozycję **Żądaj powiązania**. Zostanie wyświetlona robocza wiadomość e-mail.
 
 3. Wybierz pozycję **Otwórz w wiadomości e-mail** , aby otworzyć wiadomość w domyślnej aplikacji poczty e-mail, lub wybierz opcję **Kopiuj do schowka** , aby skopiować, a następnie wklej komunikat do wiadomości e-mail. Po zakończeniu wybierz pozycję **gotowe** .
     > [!IMPORTANT]  
@@ -109,9 +109,9 @@ W przypadku istniejących subskrypcji Jeśli zdecydujesz się na współpracę z
 
 Aby usunąć partnerstwo z istniejącym odsprzedawcą pośrednim, wykonaj poniższe czynności. 
 
-1. W menu Centrum partnerskiego na pulpicie nawigacyjnym wybierz pozycję **pośredni odsprzedawca** . 
+1. W menu Centrum partnerskiego na pulpicie nawigacyjnym wybierz pozycję **pośredni odsprzedawca**. 
 
-2. Na stronie **pośrednich odsprzedawcy** wybierz pozycję **Usuń powiązanie** . Zostanie wyświetlony komunikat z pytaniem o potwierdzenie wybierz pozycję tak, aby wykonać operację.
+2. Na stronie **pośrednich odsprzedawcy** wybierz pozycję **Usuń powiązanie**. Zostanie wyświetlony komunikat z pytaniem o potwierdzenie wybierz pozycję tak, aby wykonać operację.
 
 :::image type="content" source="images/ip-ir-relationship.png" alt-text="Usuń powiązanie":::
 
@@ -124,7 +124,7 @@ Aby usunąć partnerstwo z istniejącym odsprzedawcą pośrednim, wykonaj poniż
 W zależności od poziomu dostępu i zaangażowania można komunikować się z odsprzedawcą pośrednim, jak również z klientem końcowym o tej zmianie.
 
 
-## <a name="connect-with-customers"></a>Łączenie się z klientami
+## <a name="connect-with-customers"></a>Nawiązywanie relacji z klientami
 
 Po otrzymaniu nowych klientów należy utworzyć konta dla nich w centrum partnerskim. Po dodaniu nowego konta klienta można wyznaczyć określonego odsprzedawcy do zarządzania kontem i zarządzać subskrypcjami i usługami klientów w ich imieniu.
 
@@ -134,36 +134,36 @@ W przypadku kojarzenia odsprzedawcy z nowym kontem klienta do odsprzedawcy możn
 
 1. Wybierz **pośrednich odsprzedawcy** z menu **Centrum partnerskiego** .
 
-2. Znajdź pośredniego odsprzedawcy, do którego chcesz przypisać nowych klientów, a następnie wybierz pozycję **Dodaj nowego klienta** . Należy zauważyć, że pośredni odsprzedawca został już wybrany dla Ciebie w formularzu szczegółowym klienta. Podaj szczegóły klienta, a następnie wybierz pozycję **Dalej: subskrypcje** .
+2. Znajdź pośredniego odsprzedawcy, do którego chcesz przypisać nowych klientów, a następnie wybierz pozycję **Dodaj nowego klienta**. Należy zauważyć, że pośredni odsprzedawca został już wybrany dla Ciebie w formularzu szczegółowym klienta. Podaj szczegóły klienta, a następnie wybierz pozycję **Dalej: subskrypcje**.
 
 3. Na stronie **Nowa subskrypcja** wybierz subskrypcje, które chce kupić klient, a następnie wprowadź liczbę licencji potrzebnych przez klienta.
 
 4. Wybierz opcję **Dalej: Review** (Dalej: przegląd).
 
-5. Jeśli kolejność jest poprawna, wybierz pozycję **Prześlij** . Jeśli kolejność jest niepoprawna, wybierz pozycję **Anuluj** , aby anulować całą operację i zacząć od nowa.
+5. Jeśli kolejność jest poprawna, wybierz pozycję **Prześlij**. Jeśli kolejność jest niepoprawna, wybierz pozycję **Anuluj** , aby anulować całą operację i zacząć od nowa.
 
 6. Po przesłaniu zamówienia zostanie wyświetlona strona **potwierdzenia** . W obszarze **Informacje o instalacji** są wyświetlane nazwy konta użytkownika administratora i hasła tymczasowego. Skopiuj informacje o nazwie konta użytkownika i hasła, aby można było wysłać je do nowego klienta.
 
     > [!IMPORTANT]  
     > Pamiętaj, aby zanotować nazwę konta użytkownika i hasło, ponieważ nie możesz uzyskać dostępu do tych informacji ponownie po zamknięciu tej strony.
 
-7. Wybierz pozycję **Gotowe** . Nowy klient zostanie wyświetlony na liście klientów skojarzony z odsprzedawcą pośrednią. Odsprzedawca ma teraz dostęp administratora do informacji o koncie i subskrypcji klienta oraz może zarządzać subskrypcjami w imieniu klienta.
+7. Kliknij **Gotowe**. Nowy klient zostanie wyświetlony na liście klientów skojarzony z odsprzedawcą pośrednią. Odsprzedawca ma teraz dostęp administratora do informacji o koncie i subskrypcji klienta oraz może zarządzać subskrypcjami w imieniu klienta.
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Dodawanie nowych subskrypcji do kont klientów
 
-Gdy klienci chcą zakupić nowe subskrypcje, uaktualnić istniejące lub zakupić dodatkowe licencje, wprowadź te zmiany na koncie klienta.
+Gdy klienci chcą zakupić nowe subskrypcje, uaktualnić istniejące lub zakupić dodatkowe licencje, wprowadź te zmiany na koncie klienta za pomocą portalu M365. Nie można tego zrobić w Azure Portal.
 
 1. Wybierz pozycję **klienci** z Twojego menu **Centrum partnerskiego** .
 
-2. Znajdź klienta, którego konto chcesz zmienić. Możesz filtrować listę według pośredniego odsprzedawcy, aby zawęzić wybór. Rozwiń rekord klienta, wybierając strzałkę w dół, a następnie wybierając polecenie **Dodaj subskrypcję** .
+2. Znajdź klienta, którego konto chcesz zmienić. Możesz filtrować listę według pośredniego odsprzedawcy, aby zawęzić wybór. Rozwiń rekord klienta, wybierając strzałkę w dół, a następnie wybierając polecenie **Dodaj subskrypcję**.
 
 3. Na stronie **Nowa subskrypcja** wybierz subskrypcje, a następnie wprowadź liczbę licencji, które chce zakupić klient.
 
-4. Aby skojarzyć subskrypcję z odsprzedawcą, wybierz z listy nazwę odsprzedawcy, a następnie wybierz pozycję **Prześlij** . Skojarzenie odsprzedawcy z subskrypcją umożliwia im zdobycie zachęt, jeśli ma to zastosowanie.
+4. Aby skojarzyć subskrypcję z odsprzedawcą, wybierz z listy nazwę odsprzedawcy, a następnie wybierz pozycję **Prześlij**. Skojarzenie odsprzedawcy z subskrypcją umożliwia im zdobycie zachęt, jeśli ma to zastosowanie.
 
 5. Nowe subskrypcje pojawiają się na liście subskrypcje klienta.
 
-6. Jeśli chcesz, aby odsprzedawcy obsłużył żądania obsługi klienta dotyczące nowej subskrypcji, wybierz subskrypcję, a następnie wybierz odsprzedawcę z listy **wskazanych kontaktów pomocy technicznej** .
+6. Jeśli chcesz, aby odsprzedawcy obsłużył żądania obsługi klienta dotyczące nowej subskrypcji, wybierz subskrypcję, a następnie wybierz odsprzedawcę z listy **wskazanych kontaktów pomocy technicznej** . 
 
 7. Po zakończeniu wybierz pozycję **Prześlij** .
 

@@ -9,19 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 58aaf94c06be233d9b12fce23a86b25078c3fd9b
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
+ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530550"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94567094"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Jak zgłosić problemy z centrum partnerskim i przesłać wszelkie informacje dotyczące dziennika lub diagnostyki
 
 **Dotyczy**
 
 - Centrum partnerskie
-- Centrum partnerskie dla Microsoft Cloud dla instytucji rządowych USA
+- Centrum partnerskie Microsoft Cloud for US Government
 
 Skontaktuj się z pomocą techniczną Centrum partnerskiego, jeśli znajdziesz problemy lub potrzebujesz pomocy dotyczącej Centrum partnerskiego.
 
@@ -31,15 +31,33 @@ Wszystkie zalogowani użytkownicy w centrum partnerskim mogą tworzyć żądania
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Zgłoś problem z centrum partnerskim
 
-1. Na pulpicie nawigacyjnym **Centrum partnerskiego** wybierz pozycję **Pomoc techniczna** , a następnie wybierz pozycję **żądania obsługi partnerów** .
+1. Na pulpicie nawigacyjnym **Centrum partnerskiego** wybierz pozycję **Pomoc techniczna** , a następnie wybierz pozycję **żądania obsługi partnerów**.
 
-2. Wybierz pozycję **nowe żądanie** , a następnie wyszukaj typ problemu, który najlepiej opisuje Twój problem. Wybierz typ problemu i **Przejrzyj rozwiązania** .
+2. Wybierz pozycję **nowe żądanie** , a następnie wyszukaj typ problemu, który najlepiej opisuje Twój problem. Wybierz typ problemu i **Przejrzyj rozwiązania**.
 
 3. Zapoznaj się ze **zalecaną stroną rozwiązań** dla kroków lub powiązanych dokumentów, które mogą pomóc w rozwiązaniu problemu.
 
-4. Jeśli **zalecane rozwiązania** rozwiązały problem, możesz wybrać opcję **Wróć do pulpitu nawigacyjnego** . Jeśli nadal potrzebujesz pomocy, możesz kontynuować i **podać szczegóły problemu** .
+4. Jeśli **zalecane rozwiązania** rozwiązały problem, możesz wybrać opcję **Wróć do pulpitu nawigacyjnego**. Jeśli nadal potrzebujesz pomocy, możesz kontynuować i **podać szczegóły problemu**.
 
-5. Uzupełnij **Szczegóły problemu** , a następnie **Prześlij** . Przedstawiciel działu pomocy technicznej partnerskiej skontaktuje się z nim.
+5. Uzupełnij **Szczegóły problemu** , a następnie **Prześlij**. Przedstawiciel działu pomocy technicznej partnerskiej skontaktuje się z nim.
+
+## <a name="schedule-a-support-appointment"></a>Zaplanuj termin pomocy technicznej 
+
+**Obecnie w wersji zapoznawczej*
+
+Jeśli Twój problem wymaga rozmowy z pomocą techniczną, możesz zaplanować termin z szczegółów biletu.
+
+:::image type="content" source="images/support/ticket.png" alt-text="Zaplanuj termin pomocy technicznej":::
+
+1.  Na stronie Szczegóły biletu w centrum partnerskim Wybierz dostępną datę i godzinę w kalendarzu ambasadorów pomocy technicznej. W lokalnej strefie czasowej będą widoczne tylko dostępne daty i godziny.
+
+:::image type="content" source="images/support/ticket2.png" alt-text="Zaplanuj termin":::
+
+2. Centrum partnerskie sprawdza dostępność w kalendarzu ambasadorów pomocy technicznej.
+
+1. Po zaplanowaniu terminu w centrum partnerskim zostanie wysłane zaproszenie do kalendarza z informacjami na temat tego, jak ambasador generalny skontaktuje się z Tobą, aby można było śledzić ten termin w swoim kalendarzu służbowym.
+
+:::image type="content" source="images/support/ticket3.png" alt-text="Data i godzina":::
 
 ## <a name="send-diagnostics"></a>Wyślij diagnostykę
 
@@ -65,3 +83,6 @@ Możesz wyświetlić podgląd informacji diagnostycznych, a następnie zapisać 
 
 Wsparcie partnerskie może zażądać uruchomienia tego narzędzia kilka razy, aby uzyskać najbardziej aktualne informacje.
 
+## <a name="next-steps"></a>Następne kroki
+
+- [Zgłoś problem dotyczący usługi w imieniu klienta](report-problems-on-behalf-of-a-customer.md)
