@@ -1,19 +1,19 @@
 ---
 title: Wypłaty i profile podatkowe w Centrum partnerskim
 ms.topic: how-to
-ms.date: 09/11/2020
+ms.date: 11/12/2020
 description: Utwórz wypłatę i profil podatkowy i zarządzaj nimi, aby otrzymywać opłaty za Twoje zachęty. Obejmuje tworzenie i używanie różnych profilów oraz zarządzanie nimi.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: ca2ffe992ff92b98546934f4a249779f39179acb
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 66177c6e3cd0091081866e1508d28346f49ec713
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530603"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626035"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Twórz wypłaty i profile podatków w centrum partnerskim i zarządzaj nimi
 
@@ -24,7 +24,7 @@ ms.locfileid: "92530603"
 **Odpowiednie role:**
 
 - Administrator zachęt
-- Administrator rozliczeń
+- Administrator konta
 - Administrator globalny
 
 Aby można było otrzymać płatność z tytułu programów zachęt dla konkretnej lokalizacji MPN, należy ukończyć rejestrację, dokonując skojarzenia prawidłowego profilu wypłaty i profilu podatkowego z programem i lokalizacją MPN. Firma Microsoft będzie korzystać z tego profilu wypłaty i profilu podatkowego w celu realizacji płatności. W zależności od zasad programu zachęt może być możliwe wykorzystanie elektronicznego przelewu bankowego lub noty kredytowej przy płatności. 
@@ -43,15 +43,11 @@ Zachęcaj użytkowników do wyświetlania zarobków i szczegółów płatności 
 
 ### <a name="choose-your-disbursement-currency"></a>Wybierz walutę płatności
 
-Domyślnie opłaty za zachęty są dokonywane w lokalnej walucie każdej jednostki. Podczas konfigurowania profilu można określić inną walutę. Płatności będą obliczane przy użyciu stawki wymiany ustawionej miesięcznie przez firmę Microsoft. Użytkownik jest odpowiedzialny za wszelkie zmiany wartości ze względu na wybraną walutę.
-
-### <a name="bank-and-tax-information-and-other-programs"></a>Informacje dotyczące banku i podatku oraz inne programy
-
-Podaj informacje opisane poniżej, nawet jeśli firma Microsoft używa już danych bankowych do płatności. Pozwala to zapewnić prywatność i bezpieczeństwo danych firmy, ponieważ kopiowanie profilu do nowego narzędzia może ujawnić poufne informacje. Przechodzenie przez ten proces jest również dobrym sposobem upewnienia się, że dane są kompletne i dokładne.
+Płatności zachęty są wprowadzane w walucie wybranej podczas konfigurowania profilu płatności. Płatności będą obliczane przy użyciu stawki wymiany ustawionej miesięcznie przez firmę Microsoft. Użytkownik jest odpowiedzialny za wszelkie zmiany wartości ze względu na wybraną walutę.
 
 ### <a name="using-different-profiles-for-different-microsoft-programs"></a>Używanie różnych profilów dla różnych programów firmy Microsoft
 
-W ramach sprzedaży detalicznej opłaty za każdy z pięciu programów zachęty sprzedaży detalicznej mogą przejść do tego samego konta bankowego. Alternatywnie możesz wybrać opcję, aby płatności za pośrednictwem usługi w wersji zakupionej w sieci sprzedaży były dostępne na jednym koncie bankowym.
+Jeśli Twoja firma jest zarejestrowana w wielu programach zachęty, możesz użyć tego samego konta płatności dla wszystkich z nich lub użyć różnych kont płatności dla różnych programów.
 
 ## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>Utwórz wypłaty i profile podatków w centrum partnerskim i zarządzaj nimi
 
@@ -66,23 +62,23 @@ Poniższe sekcje przeprowadzą Cię przez proces tworzenia i zarządzania profil
 
    - W ramach jednego konta usługi Azure AD można zarejestrować wiele domen. Skontaktuj się z administratorem globalnym, aby określić, które domeny są skojarzone.
    - Jeśli możesz zalogować się tylko za pomocą @onmicrosoft.com domeny, skontaktuj się z administratorem konta w celu dodania dodatkowych domen do konta usługi Azure AD.
-   - Jeśli zostanie wyświetlony monit o wybranie **konta służbowego** lub **konta osobistego** , wybierz pozycję **konto służbowe** .
+   - Jeśli zostanie wyświetlony monit o wybranie **konta służbowego** lub **konta osobistego** , wybierz pozycję **konto służbowe**.
 
-2. Wybierz ikonę koła zębatego, aby otworzyć menu **Ustawienia** , a następnie wybierz pozycję **Ustawienia partnera** .
+2. Wybierz ikonę koła zębatego, aby otworzyć menu **Ustawienia** , a następnie wybierz pozycję **Ustawienia partnera**.
 
-3. W menu **Ustawienia konta** wybierz pozycję **wypłata i podatek** . 
+3. W menu **Ustawienia konta** wybierz pozycję **wypłata i podatek**. 
 
 ## <a name="assign-payout-and-tax-profiles-to-individual-programs"></a>Przypisywanie wypłat i profilów podatkowych do poszczególnych programów
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/), a następnie wybierz ikonę koła zębatego, aby otworzyć menu **Ustawienia** . 
 
-2. Wybierz pozycję **Ustawienia partnera** , rozwiń **sekcję wypłata i podatek** , a następnie wybierz pozycję **wypłata i przypisanie profilu podatku** . 
+2. Wybierz pozycję **Ustawienia partnera** , rozwiń **sekcję wypłata i podatek** , a następnie wybierz pozycję **wypłata i przypisanie profilu podatku**. 
    
    Zostanie wyświetlona lista programów. Wybierz strzałkę obok programu, aby wyświetlić szczegóły profilu. 
 
 3. W menu rozwijanym **profil podatkowy** wybierz odpowiedni profil podatkowy lub wybierz opcję utworzenia nowego profilu. Po wybraniu opcji tworzenia nowego profilu nastąpi odpowiednie przekierowanie.  W oknie podręcznym wybierz pozycję Kontynuuj. Proces tworzenia nowego profilu podatkowego został podany poniżej.
 
-4. Wybierz pozycję **płatność** .
+4. Wybierz pozycję **płatność**.
 
    - Jeśli jako formę płatności wybrano opcję **elektronicznego transferu banku** , wybierz odpowiedni profil płatności lub wybierz opcję utworzenia nowego profilu. Po wybraniu opcji tworzenia nowego profilu nastąpi odpowiednie przekierowanie. W oknie podręcznym wybierz pozycję Kontynuuj. Proces tworzenia nowego profilu płatności został przedstawiony poniżej.
 
@@ -94,9 +90,9 @@ Poniższe sekcje przeprowadzą Cię przez proces tworzenia i zarządzania profil
     >[!NOTE]
     >Dostępność metody płatności zależy od reguł programu zachęty.
     
-5. Wybierz **walutę** .
+5. Wybierz **walutę**.
 
-6. Po zakończeniu wszystkich pól płatności wybierz pozycję **Prześlij** .
+6. Po zakończeniu wszystkich pól płatności wybierz pozycję **Prześlij**.
 
 ## <a name="create-your-bank-profile"></a>Tworzenie profilu bankowego
 
@@ -109,17 +105,17 @@ Profile bankowe są tworzone na poziomie organizacji. Umożliwia to przypisanie 
     **Lokalizacja konta bankowego:** Kraj, w którym znajduje się bank firmy.
     **Forma płatności:** Preferowana metoda płatności w centrum partnerskim to elektroniczny transfer bankowy.
 
-2. Wybierz pozycję **Dalej** .
+2. Wybierz opcję **Dalej**.
 
 3. Na stronie **konto bankowe** wprowadź informacje. Pola wyświetlane na tej stronie różnią się w zależności od kraju. 
 
-4. Wybierz pozycję **Dalej** .
+4. Wybierz opcję **Dalej**.
 
 5. Na stronie **beneficjent** wprowadź odpowiednie informacje. Beneficjentem jest osoba w firmie, którą będzie mogła skontaktować się z kontem, jeśli trzeba omówić Twoje konto.
 
 6. Po zakończeniu pól wybierz pozycję **Zakończ** , a następnie wybierz pozycję **Potwierdź** , aby utworzyć profil banku.
 
-Nastąpi przekierowanie do strony z **profilami wypłaty i podatkiem** . Stan nowego profilu będzie odzwierciedlać **oczekiwanie na zweryfikowanie firmy Microsoft** , dopóki weryfikacja nie zostanie ukończona. Ten proces może potrwać do 48 godzin. Po zakończeniu walidacji stan Twojego profilu będzie odzwierciedlać **zatwierdzenie** lub **wymagane działanie** . Jeśli **wymagana jest akcja** , powtórz powyższe kroki, podając wymagane informacje. 
+Nastąpi przekierowanie do strony z **profilami wypłaty i podatkiem** . Stan nowego profilu będzie odzwierciedlać **oczekiwanie na zweryfikowanie firmy Microsoft** , dopóki weryfikacja nie zostanie ukończona. Ten proces może potrwać do 48 godzin. Po zakończeniu walidacji stan Twojego profilu będzie odzwierciedlać **zatwierdzenie** lub **wymagane działanie**. Jeśli **wymagana jest akcja** , powtórz powyższe kroki, podając wymagane informacje. 
 
 ## <a name="create-your-tax-profile"></a>Utwórz swój profil podatkowy
 
@@ -133,24 +129,24 @@ W przypadku firm partnerskich u Ameryki Północnej, jeśli potrzebne są inform
 >[!IMPORTANT]
 > Wprowadź tylko szczegóły dla swojej firmy. Nigdy nie wprowadzaj szczegółów osobistych.
 
-1. Na stronie **profil biznesowy** Wypełnij wymagane pola, a następnie wybierz przycisk **dalej** . 
+1. Na stronie **profil biznesowy** Wypełnij wymagane pola, a następnie wybierz przycisk **dalej**. 
 
 2. Na stronie **Instalator** wybierz opcję, która ma zastosowanie do Twojej firmy.
 
    - Wybierz opcję po lewej stronie, jeśli Twoja firma jest włączona tylko do Stany Zjednoczone lub jeśli ten profil jest przeznaczony dla osoby.
    - Wybierz opcję po prawej stronie, jeśli Twoja firma jest wbudowana poza Stany Zjednoczone, a następnie wybierz z listy swój kraj/region.
 
-3. Wybierz pozycję **Dalej** . 
+3. Wybierz opcję **Dalej**. 
 
-4. Na stronie **stan podatkowy** wprowadź wymagane informacje, a następnie wybierz przycisk **dalej** . Pola na tej stronie różnią się w zależności od kraju. Twoje szczegóły. 
+4. Na stronie **stan podatkowy** wprowadź wymagane informacje, a następnie wybierz przycisk **dalej**. Pola na tej stronie różnią się w zależności od kraju. Twoje szczegóły. 
 
-5. Na stronie **dodatkowe dokumenty** wymagane pola i wybierz przycisk **dalej** . 
+5. Na stronie **dodatkowe dokumenty** wymagane pola i wybierz przycisk **dalej**. 
 
-6. Wybierz pozycję **Przeglądaj** , aby przekazać dokumenty wymagane przez kraj lub region. Gdy zostanie wyświetlona nazwa dokumentu, wybierz pozycję **Przekaż** . 
+6. Wybierz pozycję **Przeglądaj** , aby przekazać dokumenty wymagane przez kraj lub region. Gdy zostanie wyświetlona nazwa dokumentu, wybierz pozycję **Przekaż**. 
 
-7. Jeśli musisz usunąć dokument, wybierz pozycję **Usuń** .
+7. Jeśli musisz usunąć dokument, wybierz pozycję **Usuń**.
 
-8. Aby zapisać i kontynuować, wybierz pozycję **Zakończ** .
+8. Aby zapisać i kontynuować, wybierz pozycję **Zakończ**.
 
 9. W oknie podręcznym wybierz pozycję **Potwierdź** . Nastąpi powrót do strony **konfiguracji wypłaty i podatku** .
 

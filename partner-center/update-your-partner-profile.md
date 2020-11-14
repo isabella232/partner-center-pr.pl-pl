@@ -1,20 +1,20 @@
 ---
 title: Weryfikowanie profilu partnera
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Dowiedz się, jak weryfikować szczegóły firmy, takie jak podstawowe kontakty, adres i informacje o programie. Możesz również zaktualizować swoje adresy prawne i rozliczenia.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 07/10/2020
+ms.date: 11/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22696ba1a2ecde3374357ee8489f466b2b366098
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 9e2fbef36bcc4a191235570a0d1735bd755ad317
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "92529670"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626001"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Weryfikowanie informacji o profilu partnera w centrum partnerskim
 
@@ -69,10 +69,18 @@ Aby zaktualizować identyfikator MPN skojarzony z kontem dostawcy CSP:
 
 ## <a name="update-your-billing-address"></a>Aktualizowanie adresu rozliczeniowego
 
-Jeśli jesteś administratorem globalnym, administratorem rozliczeń lub agentem administracyjnym, możesz zmienić adres wyświetlany na fakturze w **profilu rozliczeń**. Nie możesz jednak zmienić nazwy firmy na fakturze z powodu ograniczenia w systemie fakturowania.
+Jeśli jesteś administratorem globalnym, administratorem rozliczeń lub agentem administracyjnym, możesz ją zaktualizować:
 
- 
+- Adres wyświetlany na fakturze w Twoim **profilu rozliczeń**
+- Numer zamówienia zakupu
+
+Nie można zmienić:
+ 
+- Nazwa firmy
+- Kraj
+- Data rozliczenia
+ 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Zarządzaj lokalizacjami](manage-locations.md)
+- [Zarządzanie lokalizacjami](manage-locations.md)
 
