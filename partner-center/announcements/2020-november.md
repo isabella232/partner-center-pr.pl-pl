@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 9702bef0a2fa753e37cfe305bc766ea64f0d0b3f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 88d216f9e55b98f3c4818dd718c68f843c4098f0
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488147"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691303"
 ---
 # <a name="november-2020-announcements"></a>Ogłoszenia z listopada 2020 r.
 
@@ -23,6 +23,128 @@ Na tej stronie znajdują się szczegółowe informacje o anonsach programu Micro
 2020 anonse: od [kwietnia](2020-april.md)do  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [lipca](2020-july.md),  |  [August](2020-august.md)  |  [wrzesień września](2020-september.md)  |  [October](2020-October.md) , | Listopada
 
 ______________
+## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>Zmiana waluty rozliczeniowej partnerów dla nowych ofert handlowych w Unii Europejskiej/EFTA.  
+
+### <a name="categories"></a>Kategorie
+- Data 2020-11-17
+- Możliwości
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem  
+
+Partnerzy przeprowadzający Operacje transakcyjne w programie dostawcy rozwiązań w chmurze w regionie UE/EFTA 
+
+### <a name="summary"></a>Podsumowanie 
+
+W regionie Unii Europejskiej (UE)/European wolnego handlu (EFTA) wszystkie nowe oferty handlowe w programie dostawcy rozwiązań w chmurze będą używały lokalizacji rozliczeń partnera zamiast lokalizacji rozliczania klientów. Oznacza to, że partnerzy będą rozliczani przez firmę Microsoft w oparciu o ich walutę lokalizacji, a nie walutę lokalizacji klientów. Ta czynność zostanie wykonana w dwóch fazach: 
+
+- **Faza 1: nowi klienci nabywający nową ofertę handlową w programie CSP**
+
+Począwszy od 2021 stycznia, partnerzy, którzy nowi klienci zakupów nowych ofert handlowych, będą rozliczani za te zakupy w walucie lokalizacji partnera. Partnerzy z istniejącymi klientami, którzy już kupili nowe oferty handlowe w programie CSP, będą nadal rozliczani w walucie lokalizacji rozliczeniowej klienta w tej fazie. 
+
+ 
+
+- **Faza 2: istniejący klienci, którzy kupili nową ofertę handlową w programie CSP przed stycznia 2021** 
+
+Po zakończeniu fazy 1 i w roku kalendarzowym 2021 firma Microsoft przejdzie do rozliczenia nowych ofert handlowych w przypadku partnerów z istniejącymi klientami, którzy kupili nową ofertę handlową w dostawcy usług kryptograficznych z dniem 2021 stycznia, od waluty lokalizacji klienta do waluty lokalizacji partnera. Przed zaimplementowaniem tej zmiany partnerzy będą powiadamiani z wyprzedzeniem.  
+
+>Korygując Ta zmiana wpłynie tylko na walutę rozliczeń partnera, a nie ceny nowych ofert handlowych w programie CSP. 
+
+Nowe oferty handlowe w zakresie tej zmiany są następujące: subskrypcje platformy Azure, które są częścią planu platformy Azure, rezerwacje platformy Azure, subskrypcje serwera, oprogramowanie bezterminowe i komercyjne zakupy firmy Microsoft w programie Cloud Solution Provider.
+
+### <a name="partner-benefits"></a>Korzyści dla partnerów  
+
+- Ta aktualizacja zmniejsza złożoność i narzuty za korzystanie z wielowalutowych faktur w regionie UE/EFTA na potrzeby nowego środowiska handlowego.  
+
+- Partnerzy otrzymają skonsolidowaną fakturę w jednej walucie i nie będą już otrzymywać faktury dla każdej waluty lokalizacji klienta. 
+
+- Wypłaty zachęty będą w tej samej walucie co waluta faktury dla partnera.
+
+- Partnerzy będą zauważyć zmniejszoną złożoność rozliczeń spowodowaną przez wielowalutowe fakturowanie, co spowoduje zwolnienie czasu i zasobów aktualnie skojarzonych z uzgadnianiem kont. 
+
+- W przypadku partnerów, którzy nie przyjęli jeszcze nowych ofert handlowych, ta zmiana jest zgodna z modelem rozliczeń poprzedniego partnera, dzięki czemu partnerzy mogą łatwiej przechodzić do nowego środowiska handlowego w ramach dostawcy usług kryptograficznych. 
+
+### <a name="resources"></a>Zasoby 
+
+Zapoznaj się z informacjami o tym temacie w [Operations Gallery] ( https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ w witrynie Microsoft Partner w sieci Web.  
+
+## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>Ograniczanie interfejsu API do partnerów wywołujących interfejsy API Centrum partnerskiego
+
+### <a name="categories"></a>Kategorie
+
+- Data 2020-11-17
+- Możliwości
+
+### <a name="summary"></a>Podsumowanie
+
+Firma Microsoft wprowadza funkcję ograniczania interfejsu API do partnerów wywołujących interfejsy API Centrum partnerskiego w celu zapewnienia bardziej spójnej wydajności w danym przedziale czasu.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Partnerzy transakcyjne w programie dostawcy rozwiązań w chmurze
+
+### <a name="details"></a>Szczegóły
+
+Firma Microsoft wdraża ograniczenie interfejsu API w Q1 2021, aby umożliwić bardziej spójną wydajność w ramach przedziału czasu dla partnerów wywołujących interfejsy API Centrum partnerskiego. Ograniczanie przepustowości ogranicza liczbę żądań do usługi w określonym przedziale czasu, aby zapobiec nadmiernemu użyciu zasobów. W przypadku przekroczenia progu ograniczania centrum partnerskie będzie ograniczać wszelkie dalsze żądania od tego klienta przez pewien czas.  
+
+### <a name="partner-benefits"></a>Korzyści dla partnerów 
+
+Centrum partnerskie zostało zaprojektowane z myślą o obsłudze dużej liczby żądań, ale w przypadku przeprowadzenia przez kilku partnerów przeciążenia wielu żądań ograniczenie przepustowości pomoże Ci zapewnić optymalną wydajność i niezawodność dla wszystkich partnerów. Zapewnia to minimalne przestoje. Zmniejszając dużą liczbę żądań, możemy zapewnić spójną wydajność dla wszystkich partnerów. 
+
+
+### <a name="apis-to-be-throttled"></a>Interfejsy API do ograniczenia
+
+|**Operacja**|**Dokumentacja Centrum partnerskiego**|
+|-------------------------|----------------------------------|
+|{baseURL}/V1/Customers/{customer_id}/subscriptions|[Pobierz wszystkie subskrypcje klienta](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
+|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}|[Uzyskaj subskrypcję według identyfikatora](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
+|{baseURL}/V1/Customers/{customer_id}/Orders||[Pobierz wszystkie zamówienia klienta](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/V1/Customers/{customer_id}/Orders/{order_id}|[Pobierz zamówienie według identyfikatora](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/V1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus|[Pobieranie stanu aprowizacji subskrypcji](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}|[Zarządzanie zamówieniami i Zarządzanie subskrypcją](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}/addons|[Pobierz listę dodatków dla subskrypcji](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[Uzyskaj listę uprawnień platformy Azure dla subskrypcji](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[Pobierz stan rejestracji subskrypcji](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/V1/Customers/{Customer-tenant-ID}/Transfers|[Pobierz wszystkie transfery klienta](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Pobierz stan uaktualnienia produktu](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/V1/Customers/{Customer-ID}/subscriptions/{Subscription-ID}/Conversions|[Pobierz listę ofert konwersji wersji próbnej](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+  
+
+Ten anons ma na celu zapewnienie partnerom wczesnej świadomości nad nadchodzącymi zmianami, dzięki czemu można je przygotować. Zdecydowanie zalecamy, aby partnerzy mogli zapoznać się z tymi interfejsami API i rozważyć użycie interfejsu API dziennika aktywności w celu uzyskania większej wydajności i uniknięcia ograniczenia przepustowości. Aby uzyskać więcej informacji na temat tej funkcji, zapoznaj się z tematem [wskazówki dotyczące ograniczania interfejsu API](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance). 
+
+### <a name="next-steps"></a>Następne kroki
+
+Przejrzyj [wskazówki dotyczące ograniczania interfejsu API](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)i wykonaj niezbędne czynności. 
+
+
+
+## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>409 błędy ze względu na zduplikowane żądania MCA
+
+### <a name="categories"></a>Kategorie
+
+- Data 2020-11-16
+- Możliwości
+
+### <a name="context"></a>Kontekst
+
+- W lutym ten rok partnerzy byli zażądali podpisania umowy klienta firmy Microsoft (MCuA). To była migracja z poprzedniej Microsoft Cloudej umowy (MCA). 
+- W ramach tego partnera zmiany prosili partnerów o uwzględnienie parametru typu umowy zgodnie z opisem w [tym miejscu](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement).
+
+### <a name="what-happened-next"></a>Co się stało:
+
+- Nie wszyscy partnerzy dołączeli żądania parametru w ramach ich implementacji. Firma Microsoft zwróciła ten pakiet MCA do partnerów.
+- Następnie partner wyśle ponownie żądanie podpisania do klienta i ponownie wyśle MCA do firmy Microsoft. 
+- Duplikacja miała wpływ na możliwość świadczenia usług partnerom przez firmę Microsoft.
+- We wrześniu 2020 wysłaliśmy powiadomienie do partnerów za pośrednictwem usługi Yammer na wielu forach, żądając tego, aby partnerzy naprawili ten parametr. Firma Microsoft nie może już akceptować duplikatów i odbierać błędy 409.
+
+>[Uwaga] to nie jest nowa zmiana kontraktu/interfejsu API dla partnerów.
+
+- W październiku pracowała ściśle z partnerami, którzy mieli największe żądania, aby rozwiązać ten problem.
+- Obecnie Przypominamy partnerów, a także wysyłają osobiste wiadomości e-mail do 10 naruszeń, aby przejrzeć ich żądania i skontaktować się z nami, aby pomóc im w testowaniu i rozwiązaniu problemu.
+- W dniu 10 listopada 2020 nie akceptujemy duplikatów, a partnerzy, którzy nie Naprawiono parametrów, napotkały błędy 409.
+- Od czasu wycofania zmiany nie akceptują duplikatów. 
+- Jednak 14 stycznia 2021 nie będzie już akceptować duplikatów. Dzięki temu partnerzy mogą dłużej wprowadzać wszelkie zmiany. Otrzymano już powiadomienie od partnera, że zaplanowali wdrożenie aktualizacji na 11/16, na której będziemy ściśle współpracować z nimi.
+- Prosimy o to, aby partnerzy skontaktowali się z nami, aby mogli Ci pomóc w testowaniu przez dodanie ich dzierżawców do lotu, aby upewnić się, że ich aktualizacja rozwiązania działa zgodnie z oczekiwaniami.
+
 
 
 ## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Dostępne testy: ulepszenia interfejsu API Centrum partnerskiego i rozszerzenia interfejsu użytkownika (UI) dla procesu sprawdzania poprawności przez klienta edukacyjnego

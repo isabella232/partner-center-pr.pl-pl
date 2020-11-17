@@ -9,12 +9,12 @@ ms.subservice: partnercenter-csp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/06/2020
-ms.openlocfilehash: 1f352234f47ea8b2745c649401603f931ec68957
-ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
+ms.openlocfilehash: 34a18e4a4bf4d5c29265fdf76fae05b4ba16a3bc
+ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "94381435"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94670171"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Przewodnik po przedsprzedaży w centrum partnerskim (komputer) dla partnerów migrowania z programu Partner Sales Connect (PSC)
 
@@ -78,7 +78,7 @@ Jeśli nie widzisz karty odwołania:
 Po skonfigurowaniu konta w centrum partnerskim Użyj Kreatora migracji użytkowników na stronie z możliwością współsprzedaży, aby przypisać role Centrum partnerskiego do pracowników firmy.
 
 >[!Note]
-> Migracja użytkowników może być przeprowadzana tylko przez [administratorów konta](permissions-overview.md#manage-mpn-membership-and-your-company) Twojej firmy. Jeśli nie masz roli administratora konta, Znajdź administratora konta, który może pomóc skonfigurować konta użytkowników za pomocą Kreatora migracji użytkowników. Funkcja migracji użytkowników będzie dostępna od 16 listopada 2020.
+> Migracja użytkowników może być przeprowadzana tylko przez [administratorów konta](permissions-overview.md#manage-mpn-membership-and-your-company) Twojej firmy. Jeśli nie masz roli administratora konta, Znajdź administratora konta, który może pomóc skonfigurować konta użytkowników za pomocą Kreatora migracji użytkowników. Funkcja migracji użytkowników będzie dostępna od 18 listopada 2020.
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Obraz przedstawiający Kreatora migracji użytkowników.":::
 

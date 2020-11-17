@@ -1,7 +1,7 @@
 ---
 title: Uzyskaj zaawansowane specjalizacje
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Wzmocnij swój profil biznesowy w katalogu partnerów firmy Microsoft. Dowiedz się, jak zdobyć zaawansowane specjalizacje wraz z kompetencjami Gold i Silver.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5dd5866a5ea9a87f0cd61cd863a6cd72ec070a10
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 3b655b5cbd9a8ae2cc907af3ab4da561650e8aa1
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530669"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691388"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise"></a>Uzyskaj zaawansowaną specjalizację, aby zaprezentować wiedzę
 
@@ -32,24 +32,25 @@ Zaawansowane specjalizacje pozwalają również na rozróżnienie klientów. Po 
 Możesz uzyskać zaawansowane specjalizacje w dwóch głównych obszarach wiedzy:
 
 - Azure
-- Nowoczesne miejsce pracy i bezpieczeństwo
+- Nowoczesne zadania i zabezpieczenia
 
 Zaawansowane specjalizacje **platformy Azure** obejmują:
 
-- System Windows Server i migracja SQL Server do Microsoft Azure 
-- Pulpit wirtualny systemu Microsoft Windows
-- Migracja baz danych systemu Linux i open source do Microsoft Azure
-- Kubernetes na Microsoft Azure
 - Migracja magazynu danych do Microsoft Azure
-- Rozwiązania SAP na platformie Microsoft Azure
+- Kubernetes na Microsoft Azure
+- Migracja baz danych systemu Linux i open source do Microsoft Azure
+- Pulpit wirtualny systemu Microsoft Windows
 - Modernizacja aplikacji sieci Web do Microsoft Azure
+- Rozwiązania SAP na platformie Microsoft Azure
+- System Windows Server i migracja SQL Server do Microsoft Azure
  
-**Nowoczesne i zaawansowane specjalizacje w miejscu pracy** obejmują:
+**Nowoczesne prace i** zaawansowane specjalizacje obejmują:
 
-- Spotkania i pokoje spotkań dla zespołów Microsoft Teams
 - Wdrażanie i zarządzanie zmianami
-- Wdrożenie zespołowej
 - Wywoływanie usługi Microsoft Teams
+- Spotkania i pokoje spotkań dla zespołów Microsoft Teams
+- Wdrożenie zespołowej
+- Zarządzanie tożsamością i dostępem
 - Ochrona przed zagrożeniami
  
 > [!NOTE]
@@ -63,60 +64,62 @@ Aby uzyskać dostęp do tego obszaru z Centrum partnerskiego:
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home)Centrum partnerskiego.
 
-2. W sekcji MPN w menu Centrum partnerskiego wybierz pozycję **ADV. specjalizacje** . Menu rozwija się, aby wyświetlić wszystkie zaawansowane specjalizacje, które są dostępne dla Ciebie.
+2. W sekcji MPN w menu Centrum partnerskiego wybierz pozycję **ADV. specjalizacje**. Menu rozwija się, aby wyświetlić wszystkie zaawansowane specjalizacje, które są dostępne dla Ciebie.
 
 3. Aby wyświetlić szczegóły, wybierz nazwę zaawansowanej specjalizacji. Zobaczysz określone wymagania i kroki, bieżący stan i linki do dalszych kroków lub zasobów.
 
 Wszystkie zaawansowane specjalizacje wymagają, aby uzyskały wyrównane kompetencje Gold oraz inne wymagania wstępne:
 
-- Oprócz własnych wymagań wstępnych, niektóre zaawansowane specjalizacje wymagają również przekazania *zaplanowanej inspekcji* .
+- Oprócz własnych wymagań wstępnych, niektóre zaawansowane specjalizacje wymagają również przekazania *zaplanowanej inspekcji*.
 
   Jeśli konieczne jest zaplanowanie inspekcji, przejdź na stronę szczegółów szczegółowej specjalizacji Centrum partnerskiego. Gdy spełnisz inne wymagania wstępne, będziesz mieć możliwość wybrania przycisku **Zaplanuj inspekcję** na tej stronie. (Zobacz [listę i przykład](advanced-specializations.md#advanced-specialization-requirements-that-include-an-audit---an-example) zaawansowanych specjalizacji wymagających inspekcji).
 
-- Oprócz własnych wymagań wstępnych, niektóre zaawansowane specjalizacje wymagają również podania *odwołań klientów* . (Zobacz [listę i przykład](advanced-specializations.md#prerequisites-that-include-customer-references---an-example) zaawansowanych specjalizacji wymagających odwołań klienta).
+- Oprócz własnych wymagań wstępnych, niektóre zaawansowane specjalizacje wymagają również podania *odwołań klientów*. (Zobacz [listę i przykład](advanced-specializations.md#prerequisites-that-include-customer-references---an-example) zaawansowanych specjalizacji wymagających odwołań klienta).
 
 ## <a name="advanced-specialization-requirements-that-include-an-audit---an-example"></a>Zaawansowane wymagania specjalizacji obejmujące inspekcję — przykład
 
 Należy wykonać inspekcję z audytorem innej firmy dla następujących zaawansowanych specjalizacji platformy Azure:
 
-- System Windows Server i migracja SQL Server do Microsoft Azure
-- Migracja baz danych systemu Linux i open source do Microsoft Azure
 - Migracja magazynu danych do Microsoft Azure
 - Kubernetes na Microsoft Azure
-- Modernizacja aplikacji sieci Web do Microsoft Azure
+- Migracja baz danych systemu Linux i open source do Microsoft Azure
 - Pulpit wirtualny systemu Microsoft Windows
+- Modernizacja aplikacji sieci Web do Microsoft Azure
+- System Windows Server i migracja SQL Server do Microsoft Azure
 
 ### <a name="audit-example-in-partner-center"></a>Przykład inspekcji w centrum partnerskim
 
-Jeśli interesuje Cię zaawansowaną specjalizację o nazwie **modernizacja aplikacji sieci Web do Microsoft Azure** , wybierz ją z menu Centrum partnerskiego. Nastąpi przekierowanie do strony wymagania wstępne.
+Jeśli interesuje Cię zaawansowaną specjalizację o nazwie **modernizacja aplikacji sieci Web do Microsoft Azure**, wybierz ją z menu Centrum partnerskiego. Nastąpi przekierowanie do strony wymagania wstępne.
 
 :::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Przykładowa strona wymagania wstępne przedstawia wymagania umożliwiające zdobycie umiejętności aktywnej platformy w chmurze Gold.":::
 
 Dopóki nie spełnisz wszystkich wymagań wstępnych, status **nie zostanie uruchomiony.**
 Po spełnieniu wymagań wstępnych jest włączony przycisk **harmonogram inspekcji** .
 
-Po zakończeniu wszystkich wymagań stan zmieni się na **aktywny** . Stan aktywny powoduje automatyczne włączenie zaawansowanego tagu specjalizacji w **profilu biznesowym** . Ten profil jest widoczny dla wszystkich klientów próbujących [znaleźć dostawcę rozwiązań](https://www.microsoft.com/solution-providers/home).
+Po zakończeniu wszystkich wymagań stan zmieni się na **aktywny**. Stan aktywny powoduje automatyczne włączenie zaawansowanego tagu specjalizacji w **profilu biznesowym**. Ten profil jest widoczny dla wszystkich klientów próbujących [znaleźć dostawcę rozwiązań](https://www.microsoft.com/solution-providers/home).
 
 ## <a name="prerequisites-that-include-customer-references---an-example"></a>Wymagania wstępne, które zawierają odwołania klienta — przykład
 
 Wymagane są odwołania klientów dla następujących zaawansowanych specjalizacji:
 
-- Rozwiązania SAP na platformie Azure
+
 - Wdrażanie i zarządzanie zmianami
-- Wdrożenie zespołowej
 - Wywoływanie usługi Microsoft Teams
 - Spotkania i pokoje spotkań
+- Rozwiązania SAP na platformie Azure
+- Wdrożenie zespołowej
+- Zarządzanie tożsamością i dostępem
 - Ochrona przed zagrożeniami
 
 ### <a name="customer-reference-example-in-partner-center"></a>Przykład odwołania klienta w centrum partnerskim
 
-Przykładem zaawansowanej specjalizacji wymagającej odwołań klienta jest spotkanie **i pokoje spotkań dla zespołów Microsoft Teams** .
+Przykładem zaawansowanej specjalizacji wymagającej odwołań klienta jest spotkanie **i pokoje spotkań dla zespołów Microsoft Teams**.
 
 Oprócz kompetencji złota, certyfikatów i wymagań dotyczących wydajności, należy podać trzy odwołania klientów, które przedstawiają możliwość wdrażania i zarządzania.
 
-:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Przykładowa strona wymagania wstępne przedstawia wymagania umożliwiające zdobycie umiejętności aktywnej platformy w chmurze Gold.":::
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Przykładowa zaawansowana Strona wymagań specjalizacji, która wymaga odwołań klienta.":::
 
-Dopóki nie spełnisz wszystkich wymagań wstępnych, status **nie zostanie uruchomiony.** Po zakończeniu wszystkich wymagań stan zmieni się na **aktywny** . Stan aktywny powoduje automatyczne włączenie zaawansowanego tagu specjalizacji w **profilu biznesowym** . Ten profil jest widoczny dla wszystkich klientów próbujących [znaleźć dostawcę rozwiązań](https://www.microsoft.com/solution-providers/home).
+Dopóki nie spełnisz wszystkich wymagań wstępnych, status **nie zostanie uruchomiony.** Po zakończeniu wszystkich wymagań stan zmieni się na **aktywny**. Stan aktywny powoduje automatyczne włączenie zaawansowanego tagu specjalizacji w **profilu biznesowym**. Ten profil jest widoczny dla wszystkich klientów próbujących [znaleźć dostawcę rozwiązań](https://www.microsoft.com/solution-providers/home).
 
 ## <a name="next-steps"></a>Następne kroki
 

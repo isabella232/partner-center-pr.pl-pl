@@ -1,7 +1,7 @@
 ---
 title: Microsoft Gold, wymagania dotyczące kompetencji Silver
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, jak zdobyć status partnera firmy Microsoft elitarną i przyciągnąć nowych klientów zgodnie z wymaganiami dotyczącymi uprawnień, aby uzyskać złota i Silver poziom członkostwa.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1392a4c4a0147af3ffe18564da08061cd10cbc06
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 51a0e1d1e726444597d99a55e8c62b6788549073
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92530430"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691337"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Zróżnicowanie firmy dzięki osiągnięciu kompetencji firmy Microsoft
 
@@ -40,7 +40,7 @@ Możesz zobaczyć wymagania i zawartość uzyskaną przez firmę z obszaru pulpi
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home)Centrum partnerskiego.
 
-2. W sekcji MPN w menu Centrum partnerskiego wybierz pozycję **Kompetencje** .
+2. W sekcji MPN w menu Centrum partnerskiego wybierz pozycję **Kompetencje**.
 
 3. Aby wyświetlić szczegóły, wybierz nazwę kompetencji i określoną opcję kompetencji. Możesz zobaczyć, co zostało zakończone, i wyświetlić pełne wymagania i linki do określonych egzaminów oraz dat weryfikacji dla egzaminu.
 
@@ -48,7 +48,7 @@ Możesz zobaczyć wymagania i zawartość uzyskaną przez firmę z obszaru pulpi
 
 W celu uzyskania kompetencji z zakresu Silver lub Gold zostanie wyświetlony monit o przedstawienie wiedzy w różnych obszarach firmy i technologii.
 
-|**Warstwowy**            |**Kompetencją**                    |
+|**Obszar**            |**Kompetencją**                    |
 |--------------------|--------------------------------|
 |Aplikacje i infrastruktura| — Programowanie aplikacji<br/> -Integracja aplikacji<br/> — Platforma w chmurze<br/> -DevOps<br/> - Datacenter |
 |Aplikacje biznesowe | — Business Applications w chmurze</br> — Planowanie zasobów przedsiębiorstwa (ERP)</br> — Projekt i portfolio |
@@ -65,6 +65,10 @@ Aby dowiedzieć się więcej na temat tego, co jest potrzebne do osiągnięcia k
 
 - Dowiedz się, jak w dalszym stopniu prezentować swoją wiedzę, kojarząc kompetencję złota z co najmniej jedną [zaawansowaną specjalizacją](advanced-specializations.md).
 
-- Dowiedz się więcej [na temat korzyści](mpn-learn-about-go-to-market-benefits.md) ze stosowania w ramach kompetencji.
+- Dowiedz się więcej o określonych [zasobach przechodzenia do rynku](mpn-learn-about-go-to-market-benefits.md) objętych kompetencjami.
 
 - Dowiedz się więcej [na temat faktur i podatków dla kompetencji](mpn-view-print-maps-invoice.md).
+
+- Wyświetl [raport dotyczący kompetencji](pci-competencies-report.md) Centrum partnerskiego, który pokazuje bieżący stan kompetencji.
+
+- Uzyskaj odpowiedzi na [często zadawane pytania](competencies-faq.md) dotyczące kompetencji.
