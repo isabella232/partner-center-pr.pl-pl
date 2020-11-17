@@ -614,7 +614,7 @@
           href: advisor-create-a-purchase-offer.md
 - name: Dane i analiza Centrum partnerskiego
   items:
-    - name: Uzyskiwanie dostępu do danych i analizy użytkownika
+    - name: Dostęp do analiz i danych subskrypcji
       href: data-analysis-lp.md
     - name: Aplikacja analizy dla usługi Power BI
       items:
@@ -628,7 +628,7 @@
       items:
         - name: Informacje o analizach
           href: partner-center-insights.md
-          displayName: mpn
+          displayName: data
         - name: Dostęp do analiz oparty na rolach
           href: pci-roles.md
         - name: Raporty analiz
