@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 88d216f9e55b98f3c4818dd718c68f843c4098f0
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 1e6002354323d2c528cbf32271144bbf61d40ac8
+ms.sourcegitcommit: 4fd1ff569e22e5e10ba9896b4e63eead7dcc5f1e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691303"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "94845343"
 ---
 # <a name="november-2020-announcements"></a>Ogłoszenia z listopada 2020 r.
 
@@ -23,6 +23,128 @@ Na tej stronie znajdują się szczegółowe informacje o anonsach programu Micro
 2020 anonse: od [kwietnia](2020-april.md)do  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [lipca](2020-july.md),  |  [August](2020-august.md)  |  [wrzesień września](2020-september.md)  |  [October](2020-October.md) , | Listopada
 
 ______________
+
+## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Aktualizacje interfejsu API Centrum partnerskiego i udoskonalenia interfejsu użytkownika w celu wzmocnienia ekranu klienta w niektórych krajach
+
+### <a name="categories"></a>Kategorie
+
+- Data 2020-11-17
+- Możliwości | Udoskonalone osłanianie klientów
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Bezpośredni partnerzy rachunków lub pośrednich dostawców uczestniczy w programie Cloud Solution Provider (CSP), którzy mają nowych lub istniejących klientów w następujących krajach:
+
+- Armenia (AM)
+- Azerbejdżan (AZ)
+- Białoruś (przez)
+- Węgry (HU)
+- Kazachstan (KZ)
+- Kirgistan (KG)
+- Mołdawia (MD)
+- Rosja (RU)
+- Tadżykistan (TJ)
+- Uzbekistan (UZ)
+- Ukraina (UA)
+
+### <a name="summary"></a>Podsumowanie
+
+W ramach ciągłego zobowiązania firmy Microsoft dla klientów i partnerów związanych z zgodnymi praktykami biznesowymi, niektórzy Partnerzy z klientami w niektórych krajach otrzymają teraz prośbę o wypełnienie kilku dodatkowych pól danych o tych klientach, gdy Partner następnym próbuje zaktualizować istniejącą subskrypcję klienta lub utworzyć nową subskrypcję dla nowego klienta. 
+
+### <a name="details"></a>Szczegóły
+
+Firma Microsoft uruchamia się na zaufaniu. Firma Microsoft dokłada starań, aby zapewnić zgodną, bezpieczną i bezpieczną metodę weryfikacji klienta w przypadku transakcyjnych subskrypcji klientów w programie CSP. W ramach tego wysiłku wprowadziliśmy interfejs API Centrum partnerskiego i udoskonalenia interfejsu użytkownika, które będą miały wpływ na partnerów spełniających wszystkie poniższe kryteria: 
+
+- Partner ma bezpośrednią relację rozliczeń z firmą Microsoft (na przykład bezpośredni partner Bill lub Dostawca pośredni); lub
+
+- Partner wykonuje działalność z nowymi lub istniejącymi klientami w następujących krajach: Armenii (AM), Azerbejdżan (AZ), Białoruś (przez), Węgry (Węgry), Kazachstan (KZ), Kirgistan (KG), Mołdawia (MD), Rosja (TJ), Uzbekistan (UZ) i Ukraina (UA) 
+
+W przypadku takich partnerów z klientem w tych krajach Partner będzie zobowiązany do przesłania **identyfikatora prawnego** określonego klienta (znanego również jako **numer Inn organizacji** klienta) oraz **numeru telefonu** klienta, gdy Partner następnym próbuje zaktualizować lub utworzyć subskrypcję dla tego klienta. Ci partnerzy mogą teraz również wprowadzić opcjonalną, **środkową nazwę** dla klienta.
+
+### <a name="partner-center-enhancements"></a>Ulepszenia Centrum partnerskiego
+
+- Udoskonalenia interfejsu użytkownika Centrum partnerskiego w celu usprawnienia weryfikacji klientów w określonych krajach
+
+- Nowe interfejsy API do obsługi ulepszonej weryfikacji klientów w określonych krajach
+
+**Zmiany w interfejsie użytkownika Centrum partnerskiego — Strona konta klienta**
+
+Strona konta klienta Centrum partnerskiego została zaktualizowana w następujący sposób:
+
+1. **Numer Inn organizacji** (znany również jako identyfikator prawny). To pole jest teraz wymagane w przypadku klientów w określonych krajach. 
+
+   > [!NOTE]
+   > Dane muszą być wprowadzane wyłącznie do znaków alfanumerycznych, bez żadnych łączników, znaków specjalnych ani spacji. Partnerzy muszą współdziałać z kontaktem z klientem w tych krajach, aby potwierdzić stan identyfikatora prawnego klienta, taki jak numer IDENTYFIKACYJNy podatkowej lub numery INN. Więcej informacji dotyczących określonego kraju znajduje się w poniższej tabeli.  
+
+2. **Drugie imię.** To pole jest opcjonalne dla wszystkich klientów. Jeśli znasz nazwę średnią klienta lub początkową, partner może wprowadzić ją tutaj.
+
+3. **Numer telefonu.** To pole było wcześniej opcjonalne, ale jest teraz wymagane dla klientów w określonych krajach.  
+
+Wymagania dotyczące pól **Inn** (identyfikator prawny) organizacji specyficzne dla kraju są wyświetlane poniżej.
+
+| Kraj | A14-Area | Kod kraju ISO | Wymagania dotyczące znaków pola | Nazwa pola specyficznego dla kraju w języku macierzystym | Tłumaczenie lub komentarze w języku angielskim |
+|---------|----------|------------------|------------------------|--------------------|--------------------------------------|
+| Armenia | EWG      | AM               | 8 lub 10 cyfr         | :::no-loc text="УНН/NZOU/НЗОУ/ հանրային ծառայության համարանիշը"::: | UNN/numer usługi publicznej                     |
+| Azerbejdżan| EWG      | AZ               | 7 lub 10 cyfr         | :::no-loc text="ИНН/VOEN/ПИК"::: | NIP/INN/PIC              |
+| Białoruś | EWG      | BY               | 9 cyfr         | :::no-loc text="УНП"::: | UNP (oznacza to, że identyfikator podatkowy)                    |
+| Węgry | EWG      | HU               | 10 lub 11 cyfr         | :::no-loc text="TIN"::: | NIP (identyfikator podatkowy)                     |
+| Kazachstan | EWG      | KZ              | 12 cyfr         | :::no-loc text="БИН/ИИН"::: | BIN/PROFILOWANIE                     |
+| Kirgistan | EWG      | KG               | 14 cyfr         | :::no-loc text="ИНН"::: | UNN/numer usługi publicznej                     |
+| Mołdawia  | EWG        | MD               | 6, 7, 8 lub 13 cyfr         | :::no-loc text="IDNO/IDNP"::: | Unikatowy numer identyfikacyjny stanu (IDNO) przypisany do jednostki prawne jest również tworzony jako kod Obrachunkowy. \"Rejestr stanu jednostek praw dotyczących firm zarejestrowanych w Republice Mołdawii opublikowanych przez Ministerstwo informacji i technologii komunikacyjnych w portalu dla instytucji rządowych Open Data data.gov.md.\"                    |
+| Rosja | EWG      | RU               | 9, 10 lub 12 cyfr         | :::no-loc text="ИНН"::: | NUMERU                     |
+| Tadżykistan | EWG      | TJ               | 9, 10 lub 12 cyfr     | :::no-loc text="ИНН/ЕИН/КПП"::: | NUMER INN/EIN/KPP                     |
+| Uzbekistan | EWG     | UZ               | 9 cyfr                 | :::no-loc text="INN":::         | NUMERU                               |
+| Ukraina   | EWG      | UA               | 8, 10 lub 12 cyfr      | :::no-loc text="EGRPOU/EDRPOU":::        | Kod identyfikacyjny jednostki prawnej                             | 
+
+**Zmiany w interfejsie API Centrum partnerskiego**
+
+W interfejsie API Centrum partnerskiego zostaną wprowadzone następujące zmiany dotyczące kontraktu. Te zmiany są ograniczone do partnerów, którzy zarządzają kontami klientów w wyżej wspomnianych krajach.
+
+> [!NOTE]
+> Jeśli jesteś partnerem przy użyciu ścisłej interpretacji odpowiedzi JSON z Centrum partnerskiego, możesz mieć wpływ na te zmiany, jeśli aktualizacje nie zostaną ukończone na końcu. KOD JSON nie jest zalecaną integracją z interfejsami API Centrum partnerskiego.
+
+| Aktualizacje zasobów REST | Dokumentacja powiązanego Centrum partnerskiego |
+|---------------------------|-----------------------|
+| Nowe wymagane pole: organizationRegistrationNumber | - [Tworzenie klienta](/partner-center/develop/create-a-customer#company-profile)<br/>- [Tworzenie klienta dla pośredniego odsprzedawcy](/partner-center/develop/create-a-customer-for-an-indirect-reseller#request-headers)  <br/>- [Zasoby klienta](/partner-center/develop/customer-resources#customercompanyprofile) |
+| Zaktualizowane pole jest teraz wymagane: numer telefonu<br/>Pole opcjonalne: MiddleName | - [Zasoby narzędziowe](/partner-center/develop/utility-resources#address) |
+| Nowe kody błędów REST nieprawidłowego żądania: 600002, 600049, 600050, 600051 | - [Kody błędów REST Centrum partnerskiego](/partner-center/develop/error-codes#error-codes) |
+
+*Proponowany kontrakt zewnętrzny dla klientów:*
+
+```
+public class CustomerCompanyProfile : ResourceBaseWithLinks
+{
+               public string TenantId { get; set; }
+               public string Domain { get; set; }
+               public string CompanyName { get; set; }
+               public Address Address { get; set; }
+               public string Email { get; set; }
+ 
+                // Newly added fields
+               public string OrganizationRegistrationNumber { get; set; }
+}
+ 
+public class Address
+{
+                public string Id { get; set; }
+                public string Country { get; set; }
+                public string Region { get; set; }
+                public string City { get; set; }
+                public string PostalCode { get; set; }
+                public string AddressLine1 { get; set; }
+                public string AddressLine2 { get; set; }
+                public string AddressLine3 { get; set; }
+                public string FirstName { get; set; }
+                public string LastName { get; set; }
+                public string PhoneNumber { get; set; }
+                public string EmailAddress { get; set; }
+ 
+                // Newly added fields
+                public string MiddleName { get; set; }
+}
+```
+
+
 ## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>Zmiana waluty rozliczeniowej partnerów dla nowych ofert handlowych w Unii Europejskiej/EFTA.  
 
 ### <a name="categories"></a>Kategorie
@@ -146,8 +268,15 @@ Przejrzyj [wskazówki dotyczące ograniczania interfejsu API](https://docs.micro
 - Prosimy o to, aby partnerzy skontaktowali się z nami, aby mogli Ci pomóc w testowaniu przez dodanie ich dzierżawców do lotu, aby upewnić się, że ich aktualizacja rozwiązania działa zgodnie z oczekiwaniami.
 
 
+### <a name="next-steps-for-partners"></a>Następne kroki dla partnerów
 
-## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Dostępne testy: ulepszenia interfejsu API Centrum partnerskiego i rozszerzenia interfejsu użytkownika (UI) dla procesu sprawdzania poprawności przez klienta edukacyjnego
+- Przejrzyj te nowe zmiany interfejsu użytkownika i interfejsu API Centrum partnerskiego. Podczas kolejnej próby utworzenia subskrypcji klienta lub zaktualizowania istniejącej subskrypcji dla klienta w jednym z tych krajów Sprawdź informacje o koncie klienta, aby upewnić się, że dodano dane do dwóch nowych, wymaganych pól dla tego klienta: numer INN (identyfikator prawny) i numer telefonu. Te informacje można zaktualizować za pośrednictwem [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard) Centrum partnerskiego lub [interfejsów API](/partner-center/develop/create-a-customer#company-profile)Centrum partnerskiego.
+
+- Udostępnij te informacje odpowiednim zespołom w organizacji, aby ułatwić im przygotowanie się do tych zmian.
+
+
+
+## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Dostępne testy: rozszerzenia interfejsu API Centrum partnerskiego i interfejsu użytkownika (UI) dla procesu sprawdzania poprawności przez klienta edukacyjnego
 
 ### <a name="categories"></a>Kategorie
 
