@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 495ea6df347a5c2f6cf05a9f9efddaf33113e0b4
-ms.sourcegitcommit: 992b9e57e1abc26d2b835414278c96b3de61dd2b
+ms.openlocfilehash: 4524514177c636fbb2b613ed50323fd8f586c56d
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 11/19/2020
-ms.locfileid: "94885598"
+ms.locfileid: "94932824"
 ---
 # <a name="november-2020-announcements"></a>Ogłoszenia z listopada 2020 r.
 
@@ -23,6 +23,43 @@ Na tej stronie znajdują się szczegółowe informacje o anonsach programu Micro
 2020 anonse: od [kwietnia](2020-april.md)do  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [lipca](2020-july.md),  |  [August](2020-august.md)  |  [wrzesień września](2020-september.md)  |  [October](2020-October.md) , | Listopada
 
 ______________
+## <a name="new-unified-account-management-experience"></a><a name="13"></a>Nowe, ujednolicone środowisko zarządzania kontami
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2020-11-18
+- Możliwości
+
+## <a name="summary"></a>Podsumowanie
+
+Od 18 listopada Centrum partnerskiego rozpocznie wdrażanie nowego środowiska zarządzania kontami, które poprawi środowisko użytkownika dla partnerów. Partnerzy będą teraz mogli zarządzać swoimi kontami dla wszystkich programów z poziomu ustawień konta >.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Wszyscy partnerzy
+
+### <a name="details"></a>Szczegóły
+
+Kluczową zmianą zarządzania kontami jest integracja z niedawnym widokiem **ustawień partnera** w przypadku partnerów zarejestrowanych w programach komercyjnych (Microsoft Partner Network, dostawca rozwiązań w chmurze, odwołaniach itp.) i widok **ustawień dewelopera** dla partnerów zarejestrowanych w programach deweloperskich (komercyjne witryny Marketplace, Windows & Xbox itp.) w widoku ujednoliconych **ustawień konta** .
+
+### <a name="entry-point"></a>Punkt wejścia
+
+Zaloguj się do pulpitu nawigacyjnego Centrum partnerskiego, a następnie wybierz ikonę  **Ustawienia**,   a następnie kliknij pozycję **Ustawienia konta**. Nie musisz już wybierać między partnerem i deweloperem, ponieważ wszystkie profile i ustawienia są teraz połączone.
+
+### <a name="left-navigation-hierarchy"></a>Lewa hierarchia nawigacji
+
+- Profil organizacji
+   - Legal — Zarządzanie profilem biznesowym, profilem partnera i lokalizacjami firmy.
+   - Dzierżawy — wszystkie informacje o dzierżawach usługi Azure AD, komercyjnym i deweloperze, są śledzone w tym miejscu.
+   - Identyfikatory — tożsamości Centrum partnerskiego dla Twojej firmy — MPNID, publisherId itp.
+- Zarządzanie użytkownikami — zarządzanie użytkownikami i przypisywanie im ról komercyjnych i deweloperskich z jednego miejsca. W tym miejscu można również zarządzać grupami i aplikacjami usługi Azure AD.
+
+### <a name="next-steps"></a>Następne kroki
+
+Udostępnij te informacje wszystkim odpowiednim kontaktom w firmie.
+
+
+
 
 ## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Pakiet Office 365 E1 dla promocji średniej na rynku (LATAM, Azja I Pacyfik i Indie)
 
@@ -303,6 +340,7 @@ Przejrzyj [wskazówki dotyczące ograniczania interfejsu API](https://docs.micro
 - Udostępnij te informacje odpowiednim zespołom w organizacji, aby ułatwić im przygotowanie się do tych zmian.
 
 
+>>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
 
 ## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Dostępne testy: rozszerzenia interfejsu API Centrum partnerskiego i interfejsu użytkownika (UI) dla procesu sprawdzania poprawności przez klienta edukacyjnego
 

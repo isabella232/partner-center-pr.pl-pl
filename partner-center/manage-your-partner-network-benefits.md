@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 321e3c7f48106d29e44941f24b9cd709662618a9
-ms.sourcegitcommit: 4a88db7e9e90b4fbb2ba82af38d7f77b016977f3
+ms.openlocfilehash: 7c42533027977853322a0bf815e3b1d387d8ad88
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "92530826"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94932848"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Zarządzaj korzyściami z członkostwa w Microsoft Partner Network i ofertami w centrum partnerskim
 
@@ -43,7 +43,7 @@ Po zakupie pakietu korzyści dla członkostwa należy uzyskać klucze oprogramow
 
 Pakiety korzyści obejmują alokacje licencjonowanego oprogramowania, usług Cloud Services, subskrypcji programu Visual Studio i pomocy technicznej. Pakiety korzyści mogą również obejmować niektóre zasoby dostępne na rynku, oferty i programy związane z rynkiem. Szczegóły subskrypcji Action Pack można uzyskać w witrynie [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software) .  
 
-Aby wyświetlić wszystkie korzyści z członkostwa i zarządzać nimi, przejdź na stronę [ **korzyści**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (wymagane jest zalogowanie się). Alternatywnie możesz zalogować się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego, wybierz opcję [ **korzyści** ] z menu po lewej stronie, a następnie wybierz pozycję Wszystkie opcje korzyści.  
+Aby wyświetlić wszystkie korzyści z członkostwa i zarządzać nimi, przejdź na stronę [ **korzyści**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (wymagane jest zalogowanie się). Alternatywnie możesz zalogować się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego, wybierz opcję [**korzyści**] z menu po lewej stronie, a następnie wybierz pozycję Wszystkie opcje korzyści.  
 
 Aby aktywować większość korzyści lub pobrać powiązane klucze oprogramowania itp., centrum partnerskie zwykle wymaga, aby ktoś przypisał rolę administratora globalnego lub administratora MPN partnera. Jeśli nie widzisz żadnych korzyści lub nie możesz aktywować korzyści, skontaktuj się z administratorem globalnym Centrum partnerskiego, aby upewnić się, że masz odpowiednie uprawnienia. [Dowiedz się więcej o rolach Centrum partnerskiego](permissions-overview.md).
 
@@ -63,15 +63,34 @@ Aby aktywować większość korzyści lub pobrać powiązane klucze oprogramowan
 
    d. Postępuj zgodnie z linkami, aby pobrać i zainstalować pakiety instalacyjne oprogramowania.
 
-## <a name="manage-cloud-services-benefits"></a>Zarządzanie korzyściami z usług Cloud Services
+## <a name="azure-and-cloud-products"></a>Platforma Azure i produkty w chmurze
 
-1. Wybierz pozycję **chmura** , aby wyświetlić listę subskrypcji usług opartych na chmurze.
+Na karcie **azure & Cloud Products** (środki na korzystanie z platformy Azure) są wyświetlane subskrypcje bazujące na użyciu usług (na przykład: Office 365), które są obsługiwane przez użytkownika, ilość licencji dla każdego produktu, typ oferty, która została zainicjowana z korzyścią dla użytkownika, typ korzyści (bez względu na to, czy chodzi o rdzeń, czy przyrost) i datę wygaśnięcia tej korzyści.
 
-2. Znajdź subskrypcję lub produkt, którego chcesz użyć, a następnie wybierz strzałkę w dół znajdującą się po prawej stronie wiersza, aby rozwinąć szczegóły subskrypcji lub produktu.
+:::image type="content" source="images/benefits/azuretab.png" alt-text="Karta Azure i produkty w chmurze":::
 
-3. Aby aktywować Microsoft Azure subskrypcje oparte na użyciu, przypisz siebie jako użytkownika. Przejdź do Microsoft Azure Portal, aby zarządzać subskrypcją.
+### <a name="usage-based-subscriptions---microsoft-azure-credit"></a>Subskrypcje oparte na użyciu — Microsoft Azure środki
 
-   Aby aktywować subskrypcje oparte na licencji, wybierz pozycję **Pobierz klucze** , aby skopiować klucz licencji produktu, a następnie postępuj zgodnie z wszelkimi specjalnymi instrukcjami, aby aktywować subskrypcję.  
+Istnieją dwa typy subskrypcji opartych na użyciu, które można odbierać, w zależności od typu oferty, która jest aktywna jako partner MPN — MAPS, Silver i/lub Gold — miesięczny kredyt lub kredyt zbiorczy.
+
+Możesz obsługiwać:
+
+- $100 miesięcznie (lub równoważne w walucie lokalnej) miesięczne środki na korzystanie z platformy Azure lub/i
+- $6000, $12000 lub/i $13000/Year (lub każda z nich jest równoważna w walucie lokalnej) — środki na korzystanie z systemu Azure
+
+Aby aktywować subskrypcję usługi Microsoft Azure w centrum partnerskim, należy przypisać dostęp do użytkownika w ramach firmy (w tym użytkowników-Gości), który ma wpis użytkownika utworzony w Azure Active Directory.
+W przypadku subskrypcji $100/miesięcznie (lub równoważnej w walucie lokalnej) miesięcznych środków na korzystanie z platformy Azure możesz w dowolnym momencie dodać lub usunąć użytkowników z tej usługi. 
+
+W przypadku środków na korzystanie z usługi Azure Bulk (rocznie) opcja Usuń nie jest dostępna w centrum partnerskim, ale po roku rejestracji można przenieść środki zbiorcze do innej osoby. Nie można łączyć subskrypcji środków na korzystanie z platformy Azure zbiorczo (rocznie) z innymi ofertami licencjonowania, przedpłatowymi lub kredytowymi (tj. Microsoft Umowa Enterprise, partner rozwiązań w chmurze, Azure in Open, Azure — dostęp próbny, Action Pack itp.).
+
+## <a name="license-based-subscriptions"></a>Subskrypcje oparte na licencji
+
+W sekcji subskrypcje oparte na licencji na karcie produkty w chmurze platformy Azure & znajdziesz wszystkie produkty w chmurze, które wymagają klucza produktu do aktywacji, takie jak Microsoft O365, Microsoft Dynamics Microsoft Intune, Azure AD Basic, Power BI itd., które są oferowane w zależności od typu oferty, która jest aktywna jako partner MPN — MAPS, Silver lub Gold.
+
+Aby aktywować subskrypcje oparte na licencji, kliknij symbol listy rozwijanej w wierszu wraz z produktem zainteresowania i zapoznaj się z instrukcjami dotyczącymi sposobu korzystania z kluczy. Po przeczytaniu instrukcji wybierz link umożliwiający przekierowanie do portalu w celu zrealizowania kluczy oraz przypisanego klucza dla produktu.
+
+>[!IMPORTANT]
+>Należy pamiętać, że po zrealizowaniu klucza nie można wykonać tego samego klucza, dlatego należy się upewnić, że należy dodać więcej licencji (siedzeń) lub zwiększyć datę końcową. Jeśli zdecydujesz się dodać więcej licencji i nie przekroczyć daty zakończenia, system udostępni Ci mniej niż 12 miesięcy aktywnej subskrypcji. Upewnij się, że zalogowano się przy użyciu poprawnych poświadczeń w celu aktywowania kluczy w poprawnej dzierżawie.
 
 ## <a name="manage-visual-studio-subscriptions"></a>Zarządzanie subskrypcjami programu Visual Studio
 
@@ -79,10 +98,10 @@ Aby aktywować większość korzyści lub pobrać powiązane klucze oprogramowan
 
 2. Znajdź subskrypcję, której chcesz użyć, a następnie wybierz strzałkę w dół znajdującą się po prawej stronie wiersza, aby rozwinąć szczegóły subskrypcji.
 
-3. Aby aktywować subskrypcję programu Visual Studio, wybierz użytkownika z listy, a następnie wybierz pozycję **Przypisz użytkownika** .
+3. Aby aktywować subskrypcję programu Visual Studio, wybierz użytkownika z listy, a następnie wybierz pozycję **Przypisz użytkownika**.
 
    > [!IMPORTANT]  
-   > Jeśli użytkownik, którego chcesz przypisać, nie znajduje się na liście, możesz [dodać nowych użytkowników](create-user-accounts-and-set-permissions.md) w **ustawieniach konta** .
+   > Jeśli użytkownik, którego chcesz przypisać, nie znajduje się na liście, możesz [dodać nowych użytkowników](create-user-accounts-and-set-permissions.md) w **ustawieniach konta**.
 
 4. Powtórz ten proces dla każdej subskrypcji, którą chcesz przypisać. Użytkownicy mogą zarządzać swoimi subskrypcjami w portalu programu Visual Studio.
 
@@ -97,13 +116,13 @@ Aby zapoznać się z korzyściami technicznymi w centrum partnerskim, wykonaj na
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
 
-2. Wybierz pozycję **zalety** , a następnie opcję **korzyści techniczne** z menu nawigacji po lewej stronie. Na stronie korzyści techniczne zostanie wyświetlona lista korzyści z pomocy technicznej, które są dostępne dla dowolnych kompetencji Gold, Silver lub Microsoft Action Pack.
+2. Wybierz pozycję **zalety**, a następnie opcję **korzyści techniczne** z menu nawigacji po lewej stronie. Na stronie korzyści techniczne zostanie wyświetlona lista korzyści z pomocy technicznej, które są dostępne dla dowolnych kompetencji Gold, Silver lub Microsoft Action Pack.
 
    Jeśli nie widzisz tych opcji lub strony korzyści techniczne, możesz nie mieć odpowiednich [ról użytkownika](permissions-overview.md) przypisanych w centrum partnerskim. Skontaktuj się z administratorem globalnym Centrum partnerskiego, aby uzyskać dostęp.
 
 3. Rozwiń listę korzyści. Aby rozpocząć korzystanie z określonej korzyści z pomocy technicznej, należy wykonać następujące czynności przy pierwszym użyciu:
 
-   - **Aktywuj korzyść techniczną.** Po rozszerzeniu szczegółów korzyści wybierz pozycję **Aktywuj** . Przetwórz żądanie aktywacji, poczekaj kilka dni.
+   - **Aktywuj korzyść techniczną.** Po rozszerzeniu szczegółów korzyści wybierz pozycję **Aktywuj**. Przetwórz żądanie aktywacji, poczekaj kilka dni.
 
    - **Wyświetl i Udostępnij identyfikator dostępu pomocy technicznej produktu oraz identyfikator kontraktu.** Po przetworzeniu żądania aktywacji zobaczysz szczegóły dotyczące **identyfikatora dostępu** i **identyfikatora kontraktu** przy następnym rozszerzeniu tej korzyści technicznej. Ty lub Użytkownicy firmy mogą potrzebować tych informacji przy pierwszym przesłaniu żądania pomocy technicznej dotyczącej niektórych typów produktów lub usług.
 
@@ -113,7 +132,7 @@ Aby zapoznać się z korzyściami technicznymi w centrum partnerskim, wykonaj na
 
    **Pomoc techniczna (Break-Fix).** Skorzystaj z tego typu pomocy technicznej, gdy funkcjonalność jest uszkodzona lub gdy coś nie działa zgodnie z oczekiwaniami (na przykład gdy pojawia się komunikat o błędzie). Oto kilka wskazówek:
 
-   - W przypadku partnerów z kompetencją Gold/Silver (niedostępna w przypadku subskrybentów Action Pack) Użyj **pomocy technicznej** dla **produktów w chmurze** .
+   - W przypadku partnerów z kompetencją Gold/Silver (niedostępna w przypadku subskrybentów Action Pack) Użyj **pomocy technicznej** dla **produktów w chmurze**.
 
    - W przypadku partnerów z kompetencją dla Action Pack i złota/Silver Użyj zdarzeń **pomocy technicznej firmy Microsoft** dla **ostatnich produktów lokalnych** (tylko bieżące i poprzednie wersje).
 
@@ -131,28 +150,28 @@ Aby zapoznać się z korzyściami technicznymi w centrum partnerskim, wykonaj na
 - Administrator globalny
 - Administrator partnerski MPN
 
-1. Wybierz pozycję **korzyści** , a następnie **Przejdź na rynek** , aby wyświetlić listę ofert skojarzonych z programem Microsoft na rynku.
+1. Wybierz pozycję **korzyści**, a następnie **Przejdź na rynek** , aby wyświetlić listę ofert skojarzonych z programem Microsoft na rynku.
 
    [Funkcje go-to-Market](mpn-learn-about-go-to-market-benefits.md) oferują dodatkowe zasoby marketingowe, oferty, programy i pomoc, które mogą być dla Ciebie dostępne. Dostępne typy ofert zależą od określonego poziomu partnera i wszelkich uprawnień, które mogły już zostać uzyskane.
 
 2. Aby uaktywnić dowolną ofertę lub program do wprowadzenia do rynku, musisz najpierw przypisać kontakt z firmą marketingową firmy. Ten kontakt otrzyma komunikat z monitami o aktywną ofertę dotyczącą przejścia do rynku.
 
-3. Aby dodać lub zaktualizować informacje kontaktowe dotyczące marketingu, przejdź do górnej części strony przejdź do rynku, a następnie wybierz pozycję **Dodaj** , **zaktualizuj** lub **Zmień** . Teraz wykonaj następujące czynności:  
+3. Aby dodać lub zaktualizować informacje kontaktowe dotyczące marketingu, przejdź do górnej części strony przejdź do rynku, a następnie wybierz pozycję **Dodaj**, **zaktualizuj** lub **Zmień**. Teraz wykonaj następujące czynności:  
 
-   a. Wybierz użytkownika z listy. Jeśli użytkownik, którego chcesz przypisać, nie znajduje się na liście, możesz [dodać nowych użytkowników](create-user-accounts-and-set-permissions.md) w **ustawieniach konta** .
+   a. Wybierz użytkownika z listy. Jeśli użytkownik, którego chcesz przypisać, nie znajduje się na liście, możesz [dodać nowych użytkowników](create-user-accounts-and-set-permissions.md) w **ustawieniach konta**.
 
    b. Podaj adres e-mail użytkownika, który jest inny niż adres e-mail skojarzony z firmowym kontem Centrum partnerskiego.
 
       Wyślemy wiadomość e-mail z instrukcjami dotyczącymi używania oferty go-to-Market na wskazanym adresie e-mail kontaktu z marketingiem.
 
-   c.  Podaj numer telefonu i preferowany język osoby kontaktowej ds. marketingu. Po zakończeniu wprowadzania tych informacji wybierz pozycję **Przypisz użytkownika** .
+   c.  Podaj numer telefonu i preferowany język osoby kontaktowej ds. marketingu. Po zakończeniu wprowadzania tych informacji wybierz pozycję **Przypisz użytkownika**.
 
-4. Po zaktualizowaniu kontaktu z marketingiem Znajdź ofertę "przejdź do platformy", którą chcesz zacząć używać, a następnie wybierz strzałkę w dół znajdującą się po prawej stronie wiersza, aby rozwinąć szczegóły oferty. Na liście zostanie wyświetlony każdy typ oferty, który jest dostępny poniżej nazwy korzyści (na przykład, **Silver Core** , **Gold Core** lub **niezależnego dostawcy oprogramowania** ).
+4. Po zaktualizowaniu kontaktu z marketingiem Znajdź ofertę "przejdź do platformy", którą chcesz zacząć używać, a następnie wybierz strzałkę w dół znajdującą się po prawej stronie wiersza, aby rozwinąć szczegóły oferty. Na liście zostanie wyświetlony każdy typ oferty, który jest dostępny poniżej nazwy korzyści (na przykład, **Silver Core**, **Gold Core** lub **niezależnego dostawcy oprogramowania**).
 
 5. Wybierz pozycję **Aktywuj** , aby aktywować ofertę.
 
    > [!NOTE]
-   >Wiadomość e-mail z instrukcjami dotyczącymi przypisanego kontaktu z marketingiem i aktywowania oferty przechodzenia do rynku może potrwać kilka dni. Po aktywowaniu oferty zobaczysz zmiany na stronie przechodzenie na rynek. W kolumnie **stan** zostanie wyświetlona pozycja Zmień ofertę na **aktywna** . W kolumnie **Data wygaśnięcia** zostanie wyświetlona data wygaśnięcia oferty. Tej oferty można użyć do daty wygaśnięcia. Dowiedz się więcej o [różnych typach dostępnych zasobów, ofert i programów do użycia](mpn-learn-about-go-to-market-benefits.md) .  
+   >Wiadomość e-mail z instrukcjami dotyczącymi przypisanego kontaktu z marketingiem i aktywowania oferty przechodzenia do rynku może potrwać kilka dni. Po aktywowaniu oferty zobaczysz zmiany na stronie przechodzenie na rynek. W kolumnie **stan** zostanie wyświetlona pozycja Zmień ofertę na **aktywna**. W kolumnie **Data wygaśnięcia** zostanie wyświetlona data wygaśnięcia oferty. Tej oferty można użyć do daty wygaśnięcia. Dowiedz się więcej o [różnych typach dostępnych zasobów, ofert i programów do użycia](mpn-learn-about-go-to-market-benefits.md) .  
 
 ## <a name="cancel-a-membership-benefit-or-offer"></a>Anulowanie korzyści z członkostwa lub oferty
 
