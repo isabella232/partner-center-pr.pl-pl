@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/10/2020
-ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 183ee0fe5e14608b0b43024e5c07e5ee95d608cd
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488138"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691320"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
@@ -22,6 +22,9 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 
 | **Kategoria** | **Ogłoszenia z listopada 2020 r.** | **Ogłoszone** |
 |---------|:---------|:---------|
+|Możliwości|[Zmiana waluty rozliczeniowej partnerów w przypadku nowych ofert komercyjnych w UE/ESWH](2020-november.md#10)|17 listopada|
+|Możliwości|[Ograniczanie interfejsu API dla interfejsów API Centrum partnerskiego](2020-november.md#9)|17 listopada|
+|Możliwości|[Błędy 409 ze względu na zduplikowane żądania MCA](2020-november.md#8)|16 listopada|
 |Możliwości|[Dostępne testy: aktualizacje interfejsu API Centrum partnerskiego i ulepszenia interfejsu użytkownika dla procesu weryfikacji klienta edukacyjnego](2020-november.md#7)|10 listopada|
 |Możliwości|[Rozszerzanie zawartości partnera licencjonowania komercyjnego w galerii gotowości do operacji](2020-november.md#6)|2 listopada|
 |Oferty/rynki|[Udostępnienie jednostki SKU w warstwie Premium usługi Microsoft Teams Rooms](2020-november.md#5)|2 listopada|
