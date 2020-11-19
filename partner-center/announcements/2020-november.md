@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 1e6002354323d2c528cbf32271144bbf61d40ac8
-ms.sourcegitcommit: 4fd1ff569e22e5e10ba9896b4e63eead7dcc5f1e
+ms.openlocfilehash: 495ea6df347a5c2f6cf05a9f9efddaf33113e0b4
+ms.sourcegitcommit: 992b9e57e1abc26d2b835414278c96b3de61dd2b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "94845343"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94885598"
 ---
 # <a name="november-2020-announcements"></a>Ogłoszenia z listopada 2020 r.
 
@@ -22,6 +22,34 @@ Na tej stronie znajdują się szczegółowe informacje o anonsach programu Micro
 
 2020 anonse: od [kwietnia](2020-april.md)do  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [lipca](2020-july.md),  |  [August](2020-august.md)  |  [wrzesień września](2020-september.md)  |  [October](2020-October.md) , | Listopada
 
+______________
+
+## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Pakiet Office 365 E1 dla promocji średniej na rynku (LATAM, Azja I Pacyfik i Indie)
+
+### <a name="categories"></a>Kategorie
+- Data 2020-11-18
+- Oferty/rynki
+
+### <a name="summary"></a>Podsumowanie
+Wprowadzamy nowy pakiet promocyjny dla systemu Office 365 dla średnich rynków, który jest ograniczony do rozwijających się rynkach LATAM, Indie i Azja I Pacyfik (z wyjątkiem rynków rozwiniętych w Azja I Pacyfik).
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+Wszyscy partnerzy przeprowadzają transakcję w ramach programu w programie Cloud Solution Provider (CSP) na rynkach uczestniczących wymienionych powyżej.
+
+### <a name="details"></a>Szczegóły
+Promocja obejmuje 30% rabatu na pakiet Office 365 E1 dla dostawcy CSP. Zostanie ono uruchomione 1 grudnia 2020 i będzie dostępne przez 6 miesięcy, do 31 maja 2020. Ta promocja jest dostępna tylko dla klientów, którzy są nowością w chmurze MW i mają do 500 stanowisk. Należy pamiętać, że jest to ograniczone do rozwijających się rynków LATAM, Indie i Azja I Pacyfik, aby umożliwić przejście do chmury. 
+
+#### <a name="offer-details"></a>Szczegóły oferty
+
+   |**Nazwa oferty**|**Identyfikator oferty**|
+   |-------------------|:------|
+   |Pakiet Office 365 E1 dla promocji w połowie rynku|d20fdad5-f524-45e4-97b1-59a94c21778f|
+
+### <a name="next-steps"></a>Następne kroki
+Ta informacja będzie dostępna od 1 grudnia w międzyczasie. Udostępnij te informacje wszystkim odpowiednim kontaktom w organizacji (w regionach uczestniczących). Zacznij angażowanie klientów, którzy nie znajdują się jeszcze w chmurze w regionach uczestniczących. 
+
+### <a name="questions"></a>Masz pytania?
+Skontaktuj się z [pomocą techniczną Centrum partnerskiego](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) , aby uzyskać odpowiedzi na pytania, zapytania lub dalsze informacje.
 ______________
 
 ## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Aktualizacje interfejsu API Centrum partnerskiego i udoskonalenia interfejsu użytkownika w celu wzmocnienia ekranu klienta w niektórych krajach
