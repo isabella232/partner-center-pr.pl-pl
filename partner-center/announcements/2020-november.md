@@ -611,7 +611,7 @@ Te promocje mają wpływ na następujących klientów:
 - Nowe dzierżawy klientów w sieci
 - Istniejące dzierżawy klientów, którzy nie mają aktywnej lub ostatnio anulowanej subskrypcji (w ciągu ostatnich 30 dni) na subskrypcję usługi CSP, sieci Web bezpośrednio lub dowolnego innego kanału komercyjnego firmy Microsoft
 
-#### <a name="additional-resources"></a>Dodatkowe zasoby
+#### <a name="additional-resources"></a>Zasoby dodatkowe
 
 - Odwiedź [stronę Microsoft 365 Business partnera komunikacji głosowej](https://www.microsoft.com/microsoft-365/partners/businessvoice) , aby dowiedzieć się więcej o głosowaniu biznesowym. 
 - Dowiedz się więcej o tej promocji w temacie [często zadawane pytania dotyczące partnerów](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo).
