@@ -1,8 +1,11 @@
 - name: Dokumentacja klienta platformy handlowej firmy Microsoft
   href: index.yml
+- name: Azure Marketplace
   items:
     - name: Tworzenie prywatnej platformy handlowej Azure
       href: create-manage-private-azure-marketplace.md
+    - name: Integracje partnerów witryny Azure Marketplace
+      href: partner-integrations.md
 - name: Dokumentacja
   items:
     - name: Azure PowerShell
