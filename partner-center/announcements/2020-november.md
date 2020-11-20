@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 4524514177c636fbb2b613ed50323fd8f586c56d
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.openlocfilehash: 2b089a666fdb312d49f26be0f9a47da8daad2715
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932824"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947702"
 ---
 # <a name="november-2020-announcements"></a>Ogłoszenia z listopada 2020 r.
 
@@ -51,7 +51,7 @@ Zaloguj się do pulpitu nawigacyjnego Centrum partnerskiego, a następnie wybier
 - Profil organizacji
    - Legal — Zarządzanie profilem biznesowym, profilem partnera i lokalizacjami firmy.
    - Dzierżawy — wszystkie informacje o dzierżawach usługi Azure AD, komercyjnym i deweloperze, są śledzone w tym miejscu.
-   - Identyfikatory — tożsamości Centrum partnerskiego dla Twojej firmy — MPNID, publisherId itp.
+   - Identyfikatory — tożsamości Centrum partnerskiego dla Twojej firmy — MPNIDs, publisherIds itp.
 - Zarządzanie użytkownikami — zarządzanie użytkownikami i przypisywanie im ról komercyjnych i deweloperskich z jednego miejsca. W tym miejscu można również zarządzać grupami i aplikacjami usługi Azure AD.
 
 ### <a name="next-steps"></a>Następne kroki

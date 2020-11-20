@@ -8,12 +8,12 @@ description: Zsynchronizuj swoje odwołania w centrum partnerskim z łącznikiem
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ea803e675ce7c2d21d680491bbdaedf792e631f
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: c92938bbb4ffa6875419d06a9bbf23010ee60724
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92530315"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947776"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Łącznik współsprzedawanych produktów Dynamics 365 CRM — Omówienie
 
@@ -46,29 +46,21 @@ Rozwiązanie jest oparte na rozwiązaniu Microsoft energooszczędne i korzysta z
 
 4. Kliknij link **Otwórz AppSource** w górnym menu.
 
-   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Otwórz AppSource&quot;:::
+   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Otwórz AppSource":::
 
 5. Wyszukaj **Łączniki dla usługi Partner Center dla Dynamics365** na ekranie podręcznym.  
 
-6. Kliknij przycisk **Pobierz teraz** , a następnie **Kontynuuj** .
+6. Kliknij przycisk **Pobierz teraz** , a następnie **Kontynuuj**.
 
 7. Spowoduje to otwarcie strony, na której można wybrać środowisko CRM (Dynamics 365), aby zainstalować aplikację.  Zgadzam się na warunki i postanowienia.
 
-8. Następnie nastąpi przekierowanie do strony **zarządzanie rozwiązaniami** .  Przejdź do pozycji &quot;referencje do Centrum partnerskiego" przy użyciu przycisków strzałek u dołu strony. **Zaplanowana instalacja** powinna pojawić się obok rozwiązania do tworzenia odwołań do Centrum partnerskiego. Instalacja zajmie 10-15 minut. 
+8. Następnie nastąpi przekierowanie do strony **zarządzanie rozwiązaniami** .  Przejdź do pozycji "referencje do Centrum partnerskiego" przy użyciu przycisków strzałek u dołu strony. **Zaplanowana instalacja** powinna pojawić się obok rozwiązania do tworzenia odwołań do Centrum partnerskiego. Instalacja zajmie 10-15 minut. 
 
 9. Po zakończeniu instalacji przejdź z powrotem do strony [Automatyzacja](https://flow.microsoft.com) i wybierz pozycję **rozwiązania** z lewego obszaru nawigacji. Zwróć uwagę na to, że w ramach listy rozwiązań jest dostępny komunikat **dotyczący usługi Partner Center dotyczącej synchronizacji dla usługi Dynamics 365** .
 
-10. Wybierz pozycję **Centrum partnerskie — synchronizacja dla programu Dynamics 365** . Dostępne są następujące przepływy automatyzacji i jednostki:
+10. Wybierz pozycję **Centrum partnerskie — synchronizacja dla programu Dynamics 365**. Dostępne są następujące przepływy automatyzacji i jednostki:
 
-    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="Otwórz AppSource&quot;:::
-
-5. Wyszukaj **Łączniki dla usługi Partner Center dla Dynamics365** na ekranie podręcznym.  
-
-6. Kliknij przycisk **Pobierz teraz** , a następnie **Kontynuuj** .
-
-7. Spowoduje to otwarcie strony, na której można wybrać środowisko CRM (Dynamics 365), aby zainstalować aplikację.  Zgadzam się na warunki i postanowienia.
-
-8. Następnie nastąpi przekierowanie do strony **zarządzanie rozwiązaniami** .  Przejdź do pozycji &quot;referencje do Centrum partnerskiego":::
+    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="Dostępne CRMS":::
 
 ## <a name="best-practice-test-before-you-go-live"></a>Najlepsze rozwiązanie: testowanie przed rzeczywistym użyciem
 
@@ -83,6 +75,7 @@ Przed zainstalowaniem, skonfigurowaniem i dostosowaniem rozwiązania do automaty
 
 1. Po zainstalowaniu rozwiązania w wystąpieniu programu CRM przejdź z powrotem do narzędzia do [automatyzacji](https://flow.microsoft.com/).
 
+
 2. Z listy rozwijanej **środowiska** w prawym górnym rogu wybierz wystąpienie programu CRM, na którym zainstalowano rozwiązanie do automatyzowania.
 
 3. Należy utworzyć połączenia, które kojarzą trzy konta użytkowników:
@@ -95,17 +88,9 @@ Przed zainstalowaniem, skonfigurowaniem i dostosowaniem rozwiązania do automaty
 
       1. Wybierz pozycję **połączenia** na lewym pasku nawigacyjnym i wybierz z listy rozwiązanie "referencje do Centrum partnerskiego".
 
-      2. Utwórz połączenie, klikając pozycję **Utwórz połączenie** .
+      2. Utwórz połączenie, klikając pozycję **Utwórz połączenie**.
 
-         :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="Otwórz AppSource&quot;:::
-
-5. Wyszukaj **Łączniki dla usługi Partner Center dla Dynamics365** na ekranie podręcznym.  
-
-6. Kliknij przycisk **Pobierz teraz** , a następnie **Kontynuuj** .
-
-7. Spowoduje to otwarcie strony, na której można wybrać środowisko CRM (Dynamics 365), aby zainstalować aplikację.  Zgadzam się na warunki i postanowienia.
-
-8. Następnie nastąpi przekierowanie do strony **zarządzanie rozwiązaniami** .  Przejdź do pozycji &quot;referencje do Centrum partnerskiego":::
+         :::image type="content" source="images/cosellconnectors/dynamics1.png" alt-text="Tworzenie połączenia":::
 
       3. Wyszukaj **Referencje Centrum partnerskiego (wersja zapoznawcza)** na pasku wyszukiwania w prawym górnym rogu.
 
@@ -114,10 +99,31 @@ Przed zainstalowaniem, skonfigurowaniem i dostosowaniem rozwiązania do automaty
       5. Następnie utwórz połączenie zdarzeń Centrum partnerskiego dla użytkownika Centrum partnerskiego z poświadczeniami administratora odwołań.
 
       6. Utwórz połączenie dla Common Data Service (bieżące środowisko) dla użytkownika Administrator programu CRM.
+       
+     
+      7. Po dodaniu wszystkich połączeń powinny zostać wyświetlone następujące połączenia w danym środowisku:
 
-4. Aby skojarzyć automatyczne przepływy z połączeniami, należy edytować wszystkie przepływy automatyzacji, aby połączyć się z odwołaniami Common Data Service i Centrum partnerskiego. Zapisz zmiany.
+:::image type="content" source="images/cosellconnectors/dynamics2.png" alt-text="Połączenia":::
+   
+## <a name="edit-the-connections"></a>Edytuj połączenia
 
-5. **Włącz** przepływy automatyzacji.
+1. Wróć do strony **rozwiązania** i wybierz pozycję **domyślne rozwiązanie**. Wybierz pozycję **odwołanie do połączenia (wersja zapoznawcza)** , klikając pozycję **wszystkie**.
+
+:::image type="content" source="images/cosellconnectors/dynamics3.png" alt-text="Połącz":::
+
+2. Edytuj poszczególne połączenia po jednym, wybierając ikonę z trzema kropkami. Dodaj odpowiednie połączenia.
+
+:::image type="content" source="images/cosellconnectors/dynamics4.png" alt-text="Wymienione połączenia"::: 
+
+3.  Włącz przepływy w następującej kolejności:
+- Rejestracja elementu webhook Centrum partnerskiego (wersja zapoznawcza programu testowego)
+- Utwórz odwołanie do współsprzedawcy — Dynamics 365 do Centrum partnerskiego (wersja zapoznawcza programu testowego)
+- Centrum partnerskie — aktualizacje odwołań do oprogramowania Dynamics 365 (wersja zapoznawcza programu Preview)
+- Centrum partnerskie do systemu Dynamics 365 (wersja zapoznawcza programu Preview)
+- Dynamics 365 do Centrum partnerskiego (wersja zapoznawcza)
+- Dynamics 365 — szansa do Centrum partnerskiego (wersja zapoznawcza)
+- Dynamics 365 — rozwiązania firmy Microsoft do Centrum partnerskiego (wersja zapoznawcza)
+ 
 
 ## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Rejestrowanie zdarzeń zmiany zasobów przy użyciu interfejsów API elementu webhook
 
@@ -127,49 +133,35 @@ Interfejsy API elementu webhook Centrum partnerskiego umożliwiają rejestrację
 
 2. Dodaj połączenia dla (a) użytkownika Centrum partnerskiego z poświadczeniami administratora (b.) Centrum partnerskiego, jak zostało to wyróżnione poniżej
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Otwórz AppSource&quot;:::
-
-5. Wyszukaj **Łączniki dla usługi Partner Center dla Dynamics365** na ekranie podręcznym.  
-
-6. Kliknij przycisk **Pobierz teraz** , a następnie **Kontynuuj** .
-
-7. Spowoduje to otwarcie strony, na której można wybrać środowisko CRM (Dynamics 365), aby zainstalować aplikację.  Zgadzam się na warunki i postanowienia.
-
-8. Następnie nastąpi przekierowanie do strony **zarządzanie rozwiązaniami** .  Przejdź do pozycji &quot;referencje do Centrum partnerskiego":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Wyzwalacz":::
 
 3. Po wprowadzeniu tych aktualizacji zobaczysz
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Otwórz AppSource&quot;:::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Elementy webhook":::
 
-5. Wyszukaj **Łączniki dla usługi Partner Center dla Dynamics365** na ekranie podręcznym.  
-
-6. Kliknij przycisk **Pobierz teraz** , a następnie **Kontynuuj** .
-
-7. Spowoduje to otwarcie strony, na której można wybrać środowisko CRM (Dynamics 365), aby zainstalować aplikację.  Zgadzam się na warunki i postanowienia.
-
-8. Następnie nastąpi przekierowanie do strony **zarządzanie rozwiązaniami** .  Przejdź do pozycji &quot;referencje do Centrum partnerskiego":::
-
-4. Zapisz zmiany i wybierz pozycję **Włącz** .
+4. Zapisz zmiany i wybierz pozycję **Włącz**.
 
    Aby włączyć elementy webhook Centrum partnerskiego do nasłuchiwania zmian w zdarzeniach, wykonaj następujące czynności:
 
-5. Wybierz pozycję **Centrum partnerskie do systemu Dynamics 365 (wersja zapoznawcza programu testowego)** .
+5. Wybierz pozycję **Centrum partnerskie do systemu Dynamics 365 (wersja zapoznawcza programu testowego)**.
 
-6. Wybierz ikonę **Edytuj** i wybierz, **kiedy zostanie odebrane żądanie HTTP** .
+6. Wybierz ikonę **Edytuj** i wybierz, **kiedy zostanie odebrane żądanie HTTP**.
 
 7. Wybierz ikonę **kopiowania** , aby skopiować podany adres URL post protokołu HTTP.
 
-   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="Otwórz AppSource&quot;:::
+   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="Kopiowanie adresu URL":::
 
-5. Wyszukaj **Łączniki dla usługi Partner Center dla Dynamics365** na ekranie podręcznym.  
+8. Teraz wybierz pozycję "Rejestracja elementu webhook Centrum partnerskiego (wersja zapoznawcza programu testowego)", a następnie wybierz pozycję **Uruchom**.
 
-6. Kliknij przycisk **Pobierz teraz** , a następnie **Kontynuuj** .
+9. Upewnij się, że okno "przebieg przepływu" otwiera się w okienku po prawej stronie, a następnie kliknij przycisk **Kontynuuj**.
 
-7. Spowoduje to otwarcie strony, na której można wybrać środowisko CRM (Dynamics 365), aby zainstalować aplikację.  Zgadzam się na warunki i postanowienia.
+10. Wprowadź następujące wartości:
 
-8. Następnie nastąpi przekierowanie do strony **zarządzanie rozwiązaniami** .  Przejdź do pozycji &quot;referencje do Centrum partnerskiego"
+    1. **Punkt końcowy wyzwalacza http**: adres URL skopiowany z wcześniejszego kroku
 
-    3. **Zastąp istniejące punkty końcowe wyzwalacza, jeśli istnieją** : tak (spowoduje to zastąpienie wszystkich istniejących punktów końcowych).
+    2. **Zdarzenia do zarejestrowania**: "utworzono odwołanie" i "odwołanie-zaktualizowane"
+
+    3. **Zastąp istniejące punkty końcowe wyzwalacza, jeśli istnieją**: tak (spowoduje to zastąpienie wszystkich istniejących punktów końcowych).
 
 11. Wybierz pozycję **Uruchom** , a następnie wybierz pozycję **gotowe.**
 
@@ -189,13 +181,13 @@ W zależności od potrzeb można dostosować wiele kroków poszczególnych przep
 
     b. Wybierz pozycję **Edytuj** , aby edytować/dostosować przepływ automatyzacji.
 
-    c. Wybierz **(zakres) zsynchronizuj potencjalnego klienta lub szansę sprzedaży** .
+    c. Wybierz **(zakres) zsynchronizuj potencjalnego klienta lub szansę sprzedaży**.
 
-2. Aby dostosować mapowania pól programu CRM (w oparciu o Przewodnik po mapowaniu pól) dla zdarzeń tworzenia, wybierz opcję **Jeśli jest to nowa udostępniona okazja, a następnie** . Wybierz podkrok, **Jeśli tak** , a następnie rozwiń pozycję **Tworzenie nowej szansy sprzedaży w programie CRM** . Mapowania w tej sekcji można edytować za pomocą przewodnika mapowania pól.
+2. Aby dostosować mapowania pól programu CRM (w oparciu o Przewodnik po mapowaniu pól) dla zdarzeń tworzenia, wybierz opcję **Jeśli jest to nowa udostępniona okazja, a następnie**. Wybierz podkrok, **Jeśli tak** , a następnie rozwiń pozycję **Tworzenie nowej szansy sprzedaży w programie CRM**. Mapowania w tej sekcji można edytować za pomocą przewodnika mapowania pól.
 
     d. Aby dostosować mapowania pól programu CRM (na podstawie przewodnika po mapowaniach pól) dla zdarzeń aktualizacji, kliknij krok "(zakres) zsynchronizuj lidera lub szansę sprzedaży".
 
-    e. Wybierz **, czy jest to aktualizacja szansy sprzedaży, a następnie** . Wybierz podkrok, **Jeśli tak** , a następnie rozwiń **, jeśli różnica między obiektami szansy sprzedaży w centrum partnerskim i CRM** .  
+    e. Wybierz **, czy jest to aktualizacja szansy sprzedaży, a następnie**. Wybierz podkrok, **Jeśli tak** , a następnie rozwiń **, jeśli różnica między obiektami szansy sprzedaży w centrum partnerskim i CRM**.  
 
     f. Wybierz opcję **tak** , po której następuje **Aktualizacja istniejącej szansy sprzedaży**
 
@@ -203,11 +195,11 @@ W zależności od potrzeb można dostosować wiele kroków poszczególnych przep
 
     a. Wybierz pozycję **Edytuj**  , aby edytować/dostosować przepływ automatyzacji.
 
-    b. Wybierz **(zakres) zsynchronizuj szansę sprzedaży** .
+    b. Wybierz **(zakres) zsynchronizuj szansę sprzedaży**.
 
-    c. Aby dostosować mapowania pól programu CRM dla zdarzeń aktualizacji, należy wybrać, **czy istnieje różnica między obiektami lidera w centrum partnerskim i CRM, a następnie** . 
+    c. Aby dostosować mapowania pól programu CRM dla zdarzeń aktualizacji, należy wybrać, **czy istnieje różnica między obiektami lidera w centrum partnerskim i CRM, a następnie**. 
 
-    d. Wybierz krok podrzędny, **Jeśli tak** , a następnie rozwiń krok **Aktualizuj odwołanie z danymi o szansie sprzedaży** .
+    d. Wybierz krok podrzędny, **Jeśli tak** , a następnie rozwiń krok **Aktualizuj odwołanie z danymi o szansie sprzedaży**.
 
    Mapowania w tej sekcji można edytować w oparciu o Przewodnik po mapowaniu pól.
 
@@ -217,9 +209,19 @@ W zależności od potrzeb można dostosować wiele kroków poszczególnych przep
 
    b. Wybierz **(zakres) synchronizowanie odwołań.**
 
-   c. Aby dostosować mapowania pól programu CRM (w oparciu o Przewodnik po mapowaniu pól) dla zdarzeń tworzenia, wybierz pozycję **Utwórz odwołanie do firmy Microsoft** .
+   c. Aby dostosować mapowania pól programu CRM (w oparciu o Przewodnik po mapowaniu pól) dla zdarzeń tworzenia, wybierz pozycję **Utwórz odwołanie do firmy Microsoft**.
 
    Mapowania w tej sekcji można edytować w oparciu o Przewodnik po mapowaniu pól.
+
+Istnieją dwie zmienne środowiskowe, które zostały utworzone:
+
+- Znacznik wyboru: oznacza, czy potrzebna jest ikona znacznika wyboru poza szansami, które są synchronizowane dwukierunkowo między centrum partnerskim i Dynamics 365 CRM.
+
+- Synchronizuj tylko okazje do sprzedaży: oznacza to, czy chcesz synchronizować tylko okazje do sprzedaży.
+
+Można edytować wartość domyślną zmiennych środowiskowych.
+
+:::image type="content" source="images/cosellconnectors/dynamics5.png" alt-text="Pole edycji dla wartości domyślnych":::
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Kompleksowa synchronizacja odwołań dwukierunkowych
 
@@ -233,17 +235,23 @@ Zestaw pól niestandardowych jest dostępny w ramach jednostki **szansy sprzeda�
 
 Następujące pola niestandardowe powinny być częścią sekcji CRM:
 
-- **Synchronizuj z centrum partnerskim** : czy synchronizować szansę sprzedaży z Centrum partnerskiego firmy Microsoft
+- **Synchronizuj z centrum partnerskim**: czy synchronizować szansę sprzedaży z Centrum partnerskiego firmy Microsoft
 
-- **Identyfikator odwołania** : pole identyfikatora tylko do odczytu dla odwołania do Centrum partnerskiego firmy Microsoft
+- **Identyfikator odwołania**: pole identyfikatora tylko do odczytu dla odwołania do Centrum partnerskiego firmy Microsoft
 
-- **Link do odwołania** : link tylko do odczytu do odwołania w centrum partnerskim firmy Microsoft
+- **Link do odwołania**: link tylko do odczytu do odwołania w centrum partnerskim firmy Microsoft
 
-- **Jak może pomóc firma Microsoft?** : pomoc wymagana przez firmę Microsoft do odwołania
+- **Jak może pomóc firma Microsoft?**: pomoc wymagana przez firmę Microsoft do odwołania
 
-- **Produkty** : Lista produktów skojarzonych z tą szansą sprzedaży
+- **Produkty**: Lista produktów skojarzonych z tą szansą sprzedaży
 
-- **Inspekcja** : dziennik inspekcji tylko do odczytu na potrzeby synchronizacji z odwołaniami do Centrum partnerskiego
+- **Inspekcja**: dziennik inspekcji tylko do odczytu na potrzeby synchronizacji z odwołaniami do Centrum partnerskiego
+
+Aktualizowanie formularza szansa sprzedaży w programie Dynamics 365 CRM w celu uwzględnienia rozwiązań dla produktów.
+
+:::image type="content" source="images/cosellconnectors/dynamics6.png" alt-text="Formularz szansy sprzedaży":::
+
+:::image type="content" source="images/cosellconnectors/dynamics7.png" alt-text="{alt-text}":::
 
 ### <a name="scenarios"></a>SYTUACJI
 
@@ -253,31 +261,21 @@ Następujące pola niestandardowe powinny być częścią sekcji CRM:
 
    2. Upewnij się, że Poniższa sekcja jest obecna podczas tworzenia "nowej szansy" w środowisku Dynamics 365
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Otwórz AppSource&quot;:::
-
-5. Wyszukaj **Łączniki dla usługi Partner Center dla Dynamics365** na ekranie podręcznym.  
-
-6. Kliknij przycisk **Pobierz teraz** , a następnie **Kontynuuj** .
-
-7. Spowoduje to otwarcie strony, na której można wybrać środowisko CRM (Dynamics 365), aby zainstalować aplikację.  Zgadzam się na warunki i postanowienia.
-
-8. Następnie nastąpi przekierowanie do strony **zarządzanie rozwiązaniami** .  Przejdź do pozycji &quot;referencje do Centrum partnerskiego":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Sekcja Przykładowa okazja przedstawiająca informacje Centrum partnerskiego firmy Microsoft w usłudze Dynamics 365.":::
 
    3. Aby zsynchronizować tę szansę sprzedaży z centrum partnerskim firmy Microsoft, upewnij się, że ustawisz następujące pola w widoku karty:
 
-      - **Synchronizuj z centrum partnerskim** : tak
+      - **Synchronizuj z centrum partnerskim**: tak
 
-      - **Jak może pomóc firma Microsoft?** : Wybierz jedną z następujących opcji:
+      - **Jak może pomóc firma Microsoft?**: Wybierz jedną z następujących opcji:
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Otwórz AppSource&quot;:::
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Sekcja przykładowej szansy sprzedaży w usłudze Dynamics 365, która zawiera opcje pomocy Centrum partnerskiego firmy Microsoft obok pola o nazwie jak może pomóc firma Microsoft?":::
 
-5. Wyszukaj **Łączniki dla usługi Partner Center dla Dynamics365** na ekranie podręcznym.  
+      - **Produkty**: identyfikatory rozwiązań produktu
 
-6. Kliknij przycisk **Pobierz teraz** , a następnie **Kontynuuj** .
+   4. Po utworzeniu szansy sprzedaży w usłudze Dynamics 365 z opcją **Synchronizuj z centrum partnerskim** ustawionym na **wartość tak**, odczekaj 10 minut, a następnie zaloguj się do konta Centrum partnerskiego. Twoje odwołania zostaną zsynchronizowane z usługą Dynamics 365.
 
-7. Spowoduje to otwarcie strony, na której można wybrać środowisko CRM (Dynamics 365), aby zainstalować aplikację.  Zgadzam się na warunki i postanowienia.
-
-8. Następnie nastąpi przekierowanie do strony **zarządzanie rozwiązaniami** .  Przejdź do pozycji &quot;referencje do Centrum partnerskiego" w przypadku zaktualizowania szansy sprzedaży w programie Dynamics 365 CRM zmiany zostaną zsynchronizowane na koncie Centrum partnerskiego.
+   5. Podobnie w przypadku opcji "Synchronizuj z centrum partnerskim" o wartości "tak" w przypadku zaktualizowania szansy sprzedaży w programie Dynamics 365 CRM zmiany zostaną zsynchronizowane na koncie Centrum partnerskiego.
 
    6. Prospekty, które zostały pomyślnie zsynchronizowane z centrum partnerskim, zostaną zidentyfikowane przy użyciu ikony ✔ w usłudze Dynamics 365.
 
@@ -291,7 +289,7 @@ Następujące pola niestandardowe powinny być częścią sekcji CRM:
 
    4. Zaloguj się do środowiska programu Dynamics 365 CRM.
 
-   5. Przejdź do **okna Otwórz szanse sprzedaży** . Odwołanie utworzone w Centrum partnerskiego firmy Microsoft jest teraz synchronizowane w programie Dynamics 365 CRM.
+   5. Przejdź do **okna Otwórz szanse sprzedaży**. Odwołanie utworzone w Centrum partnerskiego firmy Microsoft jest teraz synchronizowane w programie Dynamics 365 CRM.
 
    6. Po wybraniu synchronizowanego odwołania są wypełniane szczegóły widoku karty.
 
