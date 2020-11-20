@@ -1,20 +1,20 @@
 ---
 title: Zgłaszanie problemów z Centrum partnerskim
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 11/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Dowiedz się, jak zgłosić problemy z centrum partnerskim i jak zbierać informacje diagnostyczne dotyczące zespołu pomocy technicznej dla partnerów.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
+ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567094"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94983345"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Jak zgłosić problemy z centrum partnerskim i przesłać wszelkie informacje dotyczące dziennika lub diagnostyki
 
@@ -23,9 +23,7 @@ ms.locfileid: "94567094"
 - Centrum partnerskie
 - Centrum partnerskie Microsoft Cloud for US Government
 
-Skontaktuj się z pomocą techniczną Centrum partnerskiego, jeśli znajdziesz problemy lub potrzebujesz pomocy dotyczącej Centrum partnerskiego.
-
-**Role użytkowników**
+**Odpowiednie role**
 
 Wszystkie zalogowani użytkownicy w centrum partnerskim mogą tworzyć żądania pomocy technicznej dla partnerów. Użytkownicy mogą wyświetlać tylko te żądania pomocy technicznej, które zostały przesłane po zalogowaniu się do Centrum partnerskiego.
 
@@ -58,6 +56,12 @@ Jeśli Twój problem wymaga rozmowy z pomocą techniczną, możesz zaplanować t
 1. Po zaplanowaniu terminu w centrum partnerskim zostanie wysłane zaproszenie do kalendarza z informacjami na temat tego, jak ambasador generalny skontaktuje się z Tobą, aby można było śledzić ten termin w swoim kalendarzu służbowym.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Data i godzina":::
+
+## <a name="hours-of-operation"></a>Godz. operacji
+
+**Pomoc techniczna dla partnerów**
+
+:::image type="content" source="images/support/hoop.png" alt-text="Godziny korzystania z pomocy technicznej":::
 
 ## <a name="send-diagnostics"></a>Wyślij diagnostykę
 
