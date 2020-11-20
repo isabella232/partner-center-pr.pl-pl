@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/10/2020
-ms.openlocfilehash: 183ee0fe5e14608b0b43024e5c07e5ee95d608cd
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.date: 11/17/2020
+ms.openlocfilehash: d8bd7be9d77f9c8d59af5d45821b9c0728457e52
+ms.sourcegitcommit: 992b9e57e1abc26d2b835414278c96b3de61dd2b
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691320"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94885615"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
@@ -22,6 +22,8 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 
 | **Kategoria** | **Ogłoszenia z listopada 2020 r.** | **Ogłoszone** |
 |---------|:---------|:---------|
+|Oferty/rynki|[Promocja na usługę Office 365 E1 dla średnich firm (LATAM, APAC i Indie)](2020-november.md#12)|18 listopada|
+|Możliwości|[Udoskonalenia interfejsu użytkownika i aktualizacje interfejsu API Centrum partnerskiego w celu ulepszenia sprawdzania klientów w niektórych krajach](2020-november.md#11)|17 listopada|
 |Możliwości|[Zmiana waluty rozliczeniowej partnerów w przypadku nowych ofert komercyjnych w UE/ESWH](2020-november.md#10)|17 listopada|
 |Możliwości|[Ograniczanie interfejsu API dla interfejsów API Centrum partnerskiego](2020-november.md#9)|17 listopada|
 |Możliwości|[Błędy 409 ze względu na zduplikowane żądania MCA](2020-november.md#8)|16 listopada|
