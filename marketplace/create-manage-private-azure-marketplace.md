@@ -2,16 +2,16 @@
 title: Utwórz prywatną witrynę Azure Marketplace i zarządzaj nią w Azure Portal
 description: Dowiedz się więcej na temat tworzenia prywatnego portalu Azure Marketplace (wersja zapoznawcza) i zarządzania nim w Azure Portal.
 ms.prod: marketplace-customer
-ms.topic: article
+ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: 1333bb2c8830cec83d7b7f05890af818d5c0ce5b
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94487707"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006943"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Tworzenie prywatnego portalu Azure Marketplace (wersja zapoznawcza) i zarządzanie nim w Azure Portal
 
@@ -37,8 +37,8 @@ Aby można było przypisać rolę administratora portalu Marketplace do użytkow
 
 - Masz dostęp do użytkownika **administratora globalnego** .
 - Dzierżawca ma co najmniej jedną subskrypcję (może być dowolnego typu).
-- Użytkownikowi administratora globalnego przypisano rolę **współautor** lub wyższą dla subskrypcji wybranej w kroku 2.
-- Użytkownik Administrator globalny ma podwyższony poziom dostępu do wartości **tak** (zobacz [podnoszenie uprawnień dostępu-globalny-administrator](/azure/role-based-access-control/elevate-access-global-admin)).
+- Użytkownikowi administratora globalnego przypisano rolę **współautor** lub wyższą dla wybranej subskrypcji.
+- Użytkownik Administrator globalny ma podwyższony poziom dostępu do wartości **tak** (zobacz [Podnieś poziom dostępu do zarządzania wszystkimi subskrypcjami i grupami zarządzania platformy Azure](/azure/role-based-access-control/elevate-access-global-admin)).
 
 ### <a name="assign-the-marketplace-admin-role-with-powershell"></a>Przypisywanie roli administratora portalu Marketplace przy użyciu programu PowerShell
 
@@ -105,7 +105,6 @@ Write-Output -Message "'$($MarketplaceAdminRoleDefinitionName)' role is availabl
 }
 
 Write-Output -Message "About to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)..."
-
 $elevatedAccessOnRoot = Get-AzRoleAssignment | where {$_.RoleDefinitionName -eq "User Access Administrator" -and $_.Scope -eq "/" -and $_.SignInName.Trim().ToLower() -eq $GlobalAdminUsername.Trim().ToLower() } | ft -Property SignInName
 
 if($elevatedAccessOnRoot.Count -eq 0)
