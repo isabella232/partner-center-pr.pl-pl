@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/17/2020
-ms.openlocfilehash: d8bd7be9d77f9c8d59af5d45821b9c0728457e52
-ms.sourcegitcommit: 992b9e57e1abc26d2b835414278c96b3de61dd2b
+ms.date: 11/19/2020
+ms.openlocfilehash: c3d811a32e2ddd9d7127fe331beb944e5e7b20fb
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: HT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 11/19/2020
-ms.locfileid: "94885615"
+ms.locfileid: "94932773"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
@@ -22,6 +22,7 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 
 | **Kategoria** | **Ogłoszenia z listopada 2020 r.** | **Ogłoszone** |
 |---------|:---------|:---------|
+|Możliwości|[Nowe, ujednolicone środowisko zarządzania kontami](2020-november.md#13)|18 listopada|
 |Oferty/rynki|[Promocja na usługę Office 365 E1 dla średnich firm (LATAM, APAC i Indie)](2020-november.md#12)|18 listopada|
 |Możliwości|[Udoskonalenia interfejsu użytkownika i aktualizacje interfejsu API Centrum partnerskiego w celu ulepszenia sprawdzania klientów w niektórych krajach](2020-november.md#11)|17 listopada|
 |Możliwości|[Zmiana waluty rozliczeniowej partnerów w przypadku nowych ofert komercyjnych w UE/ESWH](2020-november.md#10)|17 listopada|
