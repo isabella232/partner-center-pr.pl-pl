@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9eb158163bb1a7ea5da0bc834e6bf7623f32a4dd
-ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
+ms.openlocfilehash: 61dab9f869d8bb9a26f1317fb1aec3013e915465
+ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "93363643"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "95417272"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Zarządzaj szansami do sprzedaży w centrum partnerskim
 
@@ -40,7 +40,7 @@ Skorzystaj z możliwości wspólnej sprzedaży.  Możliwości wspólnej sprzeda�
 **Ocena rozwiązania (SA)** — te typy transakcji mogą być tworzone tylko przez zestaw partnerów, którzy są zbadane przez zespół ds. oceny rozwiązań w celu przeprowadzania ocen technologicznych dla klientów korzystających z technologii firmy Microsoft lub planowania korzystania z nich.
 
 > [!NOTE]
-> Prywatne transakcje, nawet jeśli nie są w pełni wspólne, zostały uwzględnione w tym miejscu, aby zapewnić łatwą do uaktualnienia dowolnych potoków do sprzedaży w dowolnym momencie ( **wygrany, zgubiony, odrzucony i wygasły** ).
+> Prywatne transakcje, nawet jeśli nie są w pełni wspólne, zostały uwzględnione w tym miejscu, aby zapewnić łatwą do uaktualnienia dowolnych potoków do sprzedaży w dowolnym momencie (**wygrany, zgubiony, odrzucony i wygasły**).
 
 ## <a name="navigating-the-co-sell-section"></a>Nawigowanie w sekcji "co do lewej"
 
@@ -100,14 +100,14 @@ W tej sekcji należy podać informacje dotyczące rozwiązań, które będą cz�
 
 Gdy udostępnisz informacje o rozwiązaniu, wybierz pozycję Dalej, aby przejść do sekcji, w której można określić typ sprzedaży. Dostępne są trzy opcje w przypadku wybrania rozwiązań z pierwszych trzech opcji, a nie oceny rozwiązania:
 
-**Transakcja prywatna** : w przypadku braku zaproszenia do firmy Microsoft i utworzenia zaangażowania w tym kroku będzie to typ potoku prywatnego. Sprzedawcy firmy Microsoft nie będą mieli wglądu w szczegółowe informacje dotyczące tej transakcji.
+**Transakcja prywatna**: w przypadku braku zaproszenia do firmy Microsoft i utworzenia zaangażowania w tym kroku będzie to typ potoku prywatnego. Sprzedawcy firmy Microsoft nie będą mieli wglądu w szczegółowe informacje dotyczące tej transakcji.
 
 > [!Important]
 > Rejestracja transakcji nie ma zastosowania do prywatnych transakcji. Należy zachować ostrożność podczas tworzenia prywatnej transakcji z kwalifikującymi się rozwiązaniami, ponieważ nie będą one kwalifikować się do rejestracji transakcji w centrum partnerskim.
 
-Sprzedaż w ramach tej samej **transakcji:** W przypadku wybrania opcji innej niż domyślny wybór dla pytania **"zidentyfikuj typ pomocy, którą lubisz od firmy Microsoft"** , rozpatruje, gdzie sprzedawca firmy Microsoft może pomóc Ci w zamknięciu transakcji. Prośba o pomoc od firmy Microsoft nie gwarantuje, że sprzedawca firmy Microsoft weźmie udział w transakcji. Przedstawiciele sprzedaży firmy Microsoft mają 14 dni, aby zdecydować, czy chcą wziąć udział w programie. W sekcji uwagi upewnij się, że chcesz zidentyfikować odpowiedni typ pomocy.
+Sprzedaż w ramach tej samej **transakcji:** W przypadku wybrania opcji innej niż domyślny wybór dla pytania **"zidentyfikuj typ pomocy, którą lubisz od firmy Microsoft"**, rozpatruje, gdzie sprzedawca firmy Microsoft może pomóc Ci w zamknięciu transakcji. Prośba o pomoc od firmy Microsoft nie gwarantuje, że sprzedawca firmy Microsoft weźmie udział w transakcji. Przedstawiciele sprzedaży firmy Microsoft mają 14 dni, aby zdecydować, czy chcą wziąć udział w programie. W sekcji uwagi upewnij się, że chcesz zidentyfikować odpowiedni typ pomocy.
 
-**Transakcja partnerska-partner (P2P)** : można zaprosić innych partnerów do rozpatrzenia przez kliknięcie linku partnera zaproszenia. Poniżej znajduje się proces tworzenia transakcji P2P.
+**Transakcja partnerska-partner (P2P)**: można zaprosić innych partnerów do rozpatrzenia przez kliknięcie linku partnera zaproszenia. Poniżej znajduje się proces tworzenia transakcji P2P.
 
 - **Wybierz partnera:** Po kliknięciu pozycji Zaproś partnera będzie można rozpocząć wpisywanie nazwy partnera, aby uzyskać sugerowaną listę partnerów pasujących do nazwy, która została wprowadzona. Wybierz partnera, który Cię interesuje, aby wypełnić dodatkowe informacje dla danego partnera. Możesz wyszukać partnerów, którzy znajdują się w ekosystemie współpracujących firmy Microsoft, i są transakcyjne w centrum partnerskim.
 
@@ -135,9 +135,9 @@ Jeśli na tym etapie otrzymasz nową okazję do sprzedaży od sprzedawcy firmy M
 
 - **Zaakceptuj:** Wprowadź nazwę transakcji, Edytuj szacowaną wartość transakcji i szacowany okres zakupu na podstawie przeglądu. Po nawiązaniu kontaktu z klientem należy podać informacje w polu **uwagi** , aby dowiedzieć się więcej o tym, czego szuka klient. Opcjonalnie możesz wprowadzić identyfikator programu CRM (tylko w przypadku odwołania), identyfikator kampanii marketingowej, który spowodował odpowiednią okazję i dodać kontakty z firmy, która będzie działać w ramach tej transakcji.
 
-- Gdy skończysz, wybierz pozycję **dalej**. Przeniesiemy odwołanie na **kolejny etap** , co oznacza, że planujesz aktywnie współpracować z klientem w celu rozwiązania ich potrzeb. Będziemy również używać tych informacji, aby pomóc w znalezieniu podobnych transakcji w przyszłości.
+- Gdy skończysz, wybierz pozycję **dalej**. Przeniesiemy odwołanie na **kolejny etap**, co oznacza, że planujesz aktywnie współpracować z klientem w celu rozwiązania ich potrzeb. Będziemy również używać tych informacji, aby pomóc w znalezieniu podobnych transakcji w przyszłości.
 
-- **Odrzuć** : Wybierz przyczynę odrzucenia transakcji i Dodaj wszelkie uwagi, które chcesz dołączyć, a następnie wybierz pozycję **Zamknij**. Archiwizujemy go jako **odrzucony** i powiadomi firmę Microsoft lub partnera, który wysłał Ci tę okazję.
+- **Odrzuć**: Wybierz przyczynę odrzucenia transakcji i Dodaj wszelkie uwagi, które chcesz dołączyć, a następnie wybierz pozycję **Zamknij**. Archiwizujemy go jako **odrzucony** i powiadomi firmę Microsoft lub partnera, który wysłał Ci tę okazję.
 
 - Jeśli nie odpowiesz w wyznaczonym czasie (obecnie 14 dni), będziemy archiwizować ją jako **wygasłą** i powiadomić firmę Microsoft lub partnera, który wysłał tę możliwość.
 
@@ -199,7 +199,7 @@ W poniższej tabeli przedstawiono kombinacje osób, które mogą być zapraszane
 
 |**Pierwotny typ transakcji**|**Kto może zostać zaproszony**|**Uwagi**|
 |-----|:-----|:-----|
-|Prywatny|Firma Microsoft i/lub inni partnerzy|Transakcja zostanie uaktualniona do wersji dostosowanej w przypadku zaproszenia do firmy Microsoft.|
+|Prywatne|Firma Microsoft i/lub inni partnerzy|Transakcja zostanie uaktualniona do wersji dostosowanej w przypadku zaproszenia do firmy Microsoft.|
 |Sprzedawanie|Inni partnerzy|Inni partnerzy mogą być zapraszani tylko wtedy, gdy firma zainicjowała transokazję. Partnerzy nie mogą być zapraszani do obsługi transakcji na karcie przychodzące.|
 |Partner partner bez firmy Microsoft|Microsoft|Transakcja zostanie uaktualniona do rozdzielenia transakcji.|
 |Partner partner bez firmy Microsoft|Inni partnerzy||
@@ -214,13 +214,7 @@ Jest to końcowy etap dla wszystkich szans sprzedaży. Możesz wyświetlić wszy
 
 Nie, nie można modyfikować transakcji po ich przeniesieniu do stanu terminalu. Wygasłe, odrzucanie, wygrane i utracone są stanami końcowymi, w przypadku których dalsze aktualizacje nie są dostępne. Należy zachować ostrożność podczas przechodzenia do dowolnego z tych stanów terminalu.
 
-**Q2. Otrzymałem nowe powiadomienie o odwołaniu, ale nie można go znaleźć w centrum partnerskim?**
-
-Taka sytuacja może wystąpić, jeśli firma ma wiele dzierżawców skojarzonych z tym samym kontem MPN. Przejdź do obszaru Ustawienia konta Centrum partnerskiego i sprawdź dzierżawy skojarzone z tym kontem. Następnie utwórz bilet pomocy technicznej z żądaniem połączenia dzierżawców. Podaj identyfikator dzierżawy, do którego zalogowano się w ramach biletu pomocy technicznej.
-
-:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Obraz przedstawiający ustawienia konta, w którym można znaleźć informacje o dzierżawie.":::
-
-**Kwartał. Kto otrzymuje powiadomienie e-mail z Centrum partnerskiego?**
+**Q2. Kto otrzymuje powiadomienie e-mail z Centrum partnerskiego?**
 
 W poniższym przepływie pracy opisano, jak wiadomości e-mail są wysyłane do partnerów z systemu odwołań Centrum partnerskiego w celu uzyskania nowego odwołania przychodzącego partnera.
 

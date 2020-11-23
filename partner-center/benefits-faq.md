@@ -1,5 +1,5 @@
 ---
-title: Często zadawane pytania
+title: Często zadawane pytania dotyczące korzyści
 ms.topic: article
 ms.date: 09/08/2020
 description: Odpowiedzi na pytania dotyczące wygaśnięcia, odnawiania i aktywowania licencji dla platformy Azure, chmury, programu Visual Studio i korzyści technicznych i pomocy technicznej
@@ -9,19 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 4af9e87ce02364f32f1aa41deb66d8935f657f40
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
+ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "92529682"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "95417255"
 ---
-# <a name="benefits-faq"></a>Często zadawane pytania
+# <a name="benefits-faq"></a>Często zadawane pytania dotyczące korzyści
 
 Dotyczy:
 
 - Centrum partnerskie
-- Centrum partnerskie dla Microsoft Cloud dla instytucji rządowych USA
+- Centrum partnerskie Microsoft Cloud for US Government
 
 ## <a name="general-questions"></a>Pytania ogólne
 
@@ -89,14 +89,14 @@ Subskrypcje można przypisywać do dowolnej osoby na liście zarządzania użytk
 
 2. W lewym okienku nawigacji wybierz pozycję **MPN**.
 
-3. Wybierz pozycję **zalety** , a następnie wybierz pozycję **Visual Studio**.
+3. Wybierz pozycję **zalety**, a następnie wybierz pozycję **Visual Studio**.
 
 4. Przypisz wybranych użytkowników do istniejących dostępnych subskrypcji programu Visual Studio.
 
 Po przypisaniu subskrypcji Użytkownik musi zalogować się do programu Visual Studio w celu zarządzania nim.
 
 >[!Note]
-> Użytkownik przypisany do subskrypcji programu Visual Studio w centrum partnerskim nie może zostać usunięty do 90 dni po oryginalnym przypisaniu.
+> Subskrypcje programu Visual Studio mogą zostać ponownie przypisane między subskrybentami po 90 dniach oryginalnego przypisania
 
 ## <a name="technical-benefits-and-support"></a>Korzyści techniczne i pomoc techniczna
 
@@ -108,7 +108,7 @@ Narzędzia do instalacji, aktywacji i innej pomocy związanej z produktem są ud
 
 2. W lewym okienku nawigacji wybierz pozycję **MPN**.
 
-3. Wybierz pozycję **zalety** , a następnie wybierz pozycję **korzyści techniczne**.
+3. Wybierz pozycję **zalety**, a następnie wybierz pozycję **korzyści techniczne**.
 
 4. Sekcja korzyści techniczne umożliwia aktywowanie i odbieranie identyfikatora dostępu/kontraktu.
 
