@@ -6,21 +6,51 @@ metadata:
   description: Dowiedz się, jak znajdować i kupować rozwiązania, aplikacje i usługi pochodzące od partnerów firmy Microsoft w naszych sklepach online.
   ms.service: marketplace
   ms.topic: landing-page
-  author: dsindona
-  ms.author: dsindona
+  author: JasonWHowell
+  ms.author: jasonh
   ms.date: 11/17/2020
-  ms.openlocfilehash: ef9904ec327b26285e04aa4acc4ae11bf1def7b6
-  ms.sourcegitcommit: 4fd1ff569e22e5e10ba9896b4e63eead7dcc5f1e
+  ms.openlocfilehash: 00d4786e234f9ede011032a71233fdafa6724ab8
+  ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 11/18/2020
-  ms.locfileid: "94845258"
+  ms.lasthandoff: 11/21/2020
+  ms.locfileid: "95006926"
 landingContent:
+- title: Microsoft AppSource
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: Co to jest usługa Microsoft AppSource?
+      url: appsource-overview.md
+  - linkListType: get-started
+    links:
+    - text: Zakup oprogramowania w usłudze Microsoft AppSource
+      url: purchase-software-appsource.md
 - title: Azure Marketplace
   linkLists:
-  - linkListType: get-started
+  - linkListType: overview
+    links:
+    - text: Co to jest Azure Marketplace?
+      url: azure-marketplace-overview.md
+  - linkListType: concept
+    links:
+    - text: Rozliczenia i fakturowanie
+      url: billing-invoicing.md
+    - text: Kwalifikowanie się do przeniesienia subskrypcji
+      url: transfer-eligibility.md
+    - text: Integracje partnerów witryny Azure Marketplace
+      url: partner-integrations.md
+  - linkListType: how-to-guide
     links:
     - text: Tworzenie prywatnej witryny Azure Marketplace i zarządzanie nią (wersja zapoznawcza)
       url: create-manage-private-azure-marketplace.md
-    - text: Integracje partnerów witryny Azure Marketplace
-      url: partner-integrations.md
+- title: Typowe scenariusze
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Zasady dotyczące zwrotów
+      url: refund-policies.md
+    - text: Umowy prawne
+      url: legal-contracts.md
+    - text: Uzyskiwanie pomocy technicznej
+      url: get-support.md
