@@ -1,26 +1,26 @@
 ---
 title: Kompetencje — często zadawane pytania
 ms.topic: article
-ms.date: 10/19/2020
+ms.date: 11/23/2020
 description: Odpowiedzi na pytania dotyczące uzyskiwania Microsoft Partner Networkych kwalifikacji Gold i Silver, wygasania, odnawiania i aktywowania licencji dla platformy Azure, chmury, programu Visual Studio i korzyści technicznych i pomocy technicznej
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: bdcb1db0dbeb96a5b732decc11691364ade36c13
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.openlocfilehash: 0a20b464c9784b0939ba404019cab007310ad4bd
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92755274"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812813"
 ---
 # <a name="competencies---frequently-asked-questions"></a>Kompetencje — często zadawane pytania
 
 Dotyczy:
 
 - Centrum partnerskie
-- Centrum partnerskie dla Microsoft Cloud dla instytucji rządowych USA
+- Centrum partnerskie Microsoft Cloud for US Government
 - Partnerzy w programie Microsoft Partner Network (MPN)
 
 W tym artykule znajdują się ogólne pytania dotyczące egzaminów, certyfikatów i korzyści z oprogramowania związane z uzyskaniem Microsoft Partner Network kompetencji.
@@ -48,13 +48,13 @@ Można to zrobić z poziomu Centrum partnerskiego w następujący sposób:
 
 1. W górnej części strony kompetencje Znajdź i wybierz opcję **Pobierz raport umiejętności** .
 
-Inne raporty dotyczące umiejętności organizacji są również dostępne w obszarze usługi [Partner Center Insights](partner-center-insights.md) w centrum partnerskim. Aby wyświetlić te raporty, konieczne może być przydzielenie roli szczegółowej wglądu w **Podgląd raportów** lub **Podgląd raportów programu Executive** . Może być konieczne poproszenie administratora partnerskiego MPN o przyznanie Ci dostępu do jednej z tych ról.
+Inne raporty dotyczące umiejętności organizacji są również dostępne w obszarze usługi [Partner Center Insights](partner-center-insights.md) w centrum partnerskim. Aby wyświetlić te raporty, konieczne może być przydzielenie roli szczegółowej wglądu w **Podgląd raportów** lub **Podgląd raportów programu Executive**. Może być konieczne poproszenie administratora partnerskiego MPN o przyznanie Ci dostępu do jednej z tych ról.
 
 Raporty usługi Insights są wyświetlane w następujący sposób:
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
 
-1. Wybierz pozycję **szczegółowe informacje** w menu Centrum partnerskiego, a następnie w obszarze **kwalifikacje organizacji** . Zostanie wyświetlone mniejsze menu.
+1. Wybierz pozycję **szczegółowe informacje** w menu Centrum partnerskiego, a następnie w obszarze **kwalifikacje organizacji**. Zostanie wyświetlone mniejsze menu.
 
 1. Wybierz opcję **szkolenie** lub **Microsoft Learn** z menu.
 
@@ -64,7 +64,7 @@ Raporty usługi Insights są wyświetlane w następujący sposób:
 
 ## <a name="q-how-long-does-it-take-to-see-the-latest-user-assessments-in-the-partner-center-user-skills-report"></a>PYTANIE: Jak długo trwa sprawdzanie najnowszych ocen użytkowników w raporcie o umiejętnościach użytkownika Centrum partnerskiego?
 
-Konto University partner zostanie skojarzone z kontem użytkownika Centrum partnerskiego. Oceny użytkownika będą wyświetlane w raporcie o umiejętnościach użytkownika Centrum partnerskiego w ciągu **72 godzin** .
+Konto University partner zostanie skojarzone z kontem użytkownika Centrum partnerskiego. Oceny użytkownika będą wyświetlane w raporcie o umiejętnościach użytkownika Centrum partnerskiego w ciągu **72 godzin**.
 
 W tym raporcie będą wyświetlane tylko umiejętności odpowiednie dla kompetencji i programów w centrum partnerskim. (Niektóre wycofane umiejętności mogą być również wyświetlane przez 12 miesięcy lub dłużej po ich wycofaniu).
 
@@ -79,7 +79,7 @@ Zobacz następujące zasoby:
 
 - [Pobierz](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) tabele licencji dla partnerów kompetencji.
 
-- [Pobierz](https://assetsprod.microsoft.com/MPN-MAPS-Software-IUR-License-Table.xlsx) tabelę licencji dla partnerów subskrypcji Microsoft Action Pack.
+- [Pobierz](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf) tabelę licencji dla partnerów subskrypcji Microsoft Action Pack.
 
 ## <a name="q-how-do-i-link-a-microsoft-certification-profile-id-mcp-id-or-mcid-to-my-microsoft-partner-center-account"></a>PYTANIE: Jak mogę połączyć identyfikator profilu certyfikatu firmy Microsoft (MCP ID lub MCID) z kontem Microsoft Partner Center?
 
