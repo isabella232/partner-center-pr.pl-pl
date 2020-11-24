@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2b089a666fdb312d49f26be0f9a47da8daad2715
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947702"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514745"
 ---
 # <a name="november-2020-announcements"></a>Ogłoszenia z listopada 2020 r.
 
@@ -23,6 +23,32 @@ Na tej stronie znajdują się szczegółowe informacje o anonsach programu Micro
 2020 anonse: od [kwietnia](2020-april.md)do  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [lipca](2020-july.md),  |  [August](2020-august.md)  |  [wrzesień września](2020-september.md)  |  [October](2020-October.md) , | Listopada
 
 ______________
+## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>Wprowadzenie możliwości zakupu ofert SaaS z naliczaniem opłat w centrum partnerskim 
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2020-11-24
+- Możliwości
+
+## <a name="summary"></a>Podsumowanie
+
+Firma Microsoft wprowadza dla partnerów w programie dostawcy rozwiązań w chmurze możliwość zakupu ofert SaaS z użyciem naliczanych rozliczeń w centrum partnerskim. 
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Wszyscy partnerzy
+
+### <a name="details"></a>Szczegóły
+
+Firma Microsoft wprowadza możliwości dla partnerów w programie dostawcy rozwiązań w chmurze, w tym dostawców pośrednich i bezpośrednich partnerów rozliczeniowych, do zakupu ofert SaaS z [naliczanymi rozliczeniami](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing)   w centrum partnerskim. Obecnie partnerzy w programie dostawcy rozwiązań w chmurze mogą wyświetlać i [kupować oferty usługi SaaS z naliczanymi opłatami za pomocą Azure Portal](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase).To nowe środowisko umożliwi partnerom kupowanie ofert za pomocą portalu CSP w centrum partnerskim i interfejsie API w taki sposób, jak w przypadku innych typów ofert SaaS. 
+
+### <a name="next-steps"></a>Następne kroki
+
+Udostępnij te informacje wszystkim odpowiednim kontaktom w firmie.
+
+
+
+
 ## <a name="new-unified-account-management-experience"></a><a name="13"></a>Nowe, ujednolicone środowisko zarządzania kontami
 
 ### <a name="categories"></a>Kategorie
@@ -649,7 +675,7 @@ Te promocje mają wpływ na następujących klientów:
 - Nowe dzierżawy klientów w sieci
 - Istniejące dzierżawy klientów, którzy nie mają aktywnej lub ostatnio anulowanej subskrypcji (w ciągu ostatnich 30 dni) na subskrypcję usługi CSP, sieci Web bezpośrednio lub dowolnego innego kanału komercyjnego firmy Microsoft
 
-#### <a name="additional-resources"></a>Zasoby dodatkowe
+#### <a name="additional-resources"></a>Dodatkowe zasoby
 
 - Odwiedź [stronę Microsoft 365 Business partnera komunikacji głosowej](https://www.microsoft.com/microsoft-365/partners/businessvoice) , aby dowiedzieć się więcej o głosowaniu biznesowym. 
 - Dowiedz się więcej o tej promocji w temacie [często zadawane pytania dotyczące partnerów](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo).

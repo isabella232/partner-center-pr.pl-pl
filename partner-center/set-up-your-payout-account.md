@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488141"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514762"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Konfigurowanie konta do wypłaty i formularzy podatkowych
 
@@ -44,9 +44,9 @@ W centrum partnerskim można dokończyć i przesyłać formularze podatkowe elek
 > [!IMPORTANT]
 > Różne kraje i regiony mają różne wymagania podatkowe. Dokładna kwota, która musi zostać zapłacona podatkiem, zależy od krajów i regionów, w których oferta została sprzedawana. Zapoznaj się z [umową wydawcy Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560) , aby dowiedzieć się, w jakich krajach/regionach firma Microsoft przekazuje sprzedaż i korzystać z opodatkowania w Twoim imieniu. W innych krajach/regionach, w zależności od tego, gdzie jest zarejestrowany, może być konieczne przekazanie sprzedaży i użycie podatku za oferowaną sprzedaż bezpośrednio do urzędu opodatkowania lokalnego. Ponadto przychody sprzedaży aplikacji mogą być opodatkowane jako dochód. Zdecydowanie zachęcamy do skontaktowania się z odpowiednim urzędem dla danego kraju lub regionu, który może pomóc w ustaleniu odpowiednich informacji podatkowych dotyczących komercyjnych działań w portalu Marketplace.
 
-1. W [centrum partnerskim](https://partner.microsoft.com/dashboard)wybierz ikonę **Ustawienia konta** w prawym górnym rogu, a następnie wybierz pozycję **Ustawienia dewelopera**.
+1. W [centrum partnerskim](https://partner.microsoft.com/dashboard)wybierz ikonę **Ustawienia** koła zębatego w prawym górnym rogu, a następnie pozycję **Ustawienia konta**.
 
-2. W menu nawigacji po lewej stronie wybierz pozycję **wypłata i podatek** , a następnie wybierz pozycję **wypłata i przydziały podatkowe**.
+2. W menu nawigacji po lewej stronie wybierz pozycję **wypłata i podatek**, a następnie wybierz pozycję **wypłata i przydziały podatkowe**.
 
 3. Wybierz kombinację programu i identyfikatora sprzedającego, dla którego chcesz skonfigurować informacje podatkowe.
 
@@ -81,7 +81,7 @@ Konto płatne to konto bankowe, na które wysyłamy transakcje z sprzedaży. Mo�
 
 ### <a name="create-a-payment-profile"></a>Tworzenie profilu płatności
 
-1. W [centrum partnerskim](https://partner.microsoft.com/dashboard)wybierz ikonę **Ustawienia** koła zębatego w prawym górnym rogu, a następnie wybierz pozycję **Ustawienia konta**.
+1. W [centrum partnerskim](https://partner.microsoft.com/dashboard)wybierz ikonę **Ustawienia** koła zębatego w prawym górnym rogu, a następnie pozycję **Ustawienia konta**.
 2. Pod nagłówkiem *wypłata i opodatkowania* wybierz pozycję **wypłata i przypisanie profilu podatku**.
 
     > [!NOTE]
@@ -124,7 +124,7 @@ Aby zapewnić pomyślne wypłaty, upewnij się, że:
 
 Istniejące profile płatności można edytować, jeśli konieczne jest wprowadzenie zmian lub poprawienie nieprawidłowych informacji.
 
-1. W [centrum partnerskim](https://partner.microsoft.com/dashboard)wybierz ikonę **Ustawienia** koła zębatego w prawym górnym rogu, a następnie wybierz pozycję **Ustawienia dewelopera**.
+1. W [centrum partnerskim](https://partner.microsoft.com/dashboard)wybierz ikonę **Ustawienia** koła zębatego w prawym górnym rogu, a następnie pozycję  **Ustawienia konta**.
 
 2. Pod nagłówkiem *wypłata i podatek* wybierz pozycję **wypłaty i profile podatkowe**.
 
