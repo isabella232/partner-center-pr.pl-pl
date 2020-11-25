@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66fc51901e6c6e72698eaf4a669627b228ee63ba
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c8d64167261fe9f425a1430ac0c109b446b50913
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529955"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038833"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Omówienie portalu komercyjnego w centrum partnerskim
 
@@ -68,7 +68,7 @@ Przejdź do pozycji [podstawy rozliczeń](billing-basics.md) , aby dowiedzieć s
 
 Aby dowiedzieć się, gdzie można wykonać konkretne działania w witrynie Marketplace dla ofert opartych na licencjach lub użyciu niezależnych dostawców oprogramowania, zobacz poniższe tabele.
 
-|**W przypadku ofert SaaS opartych na licencjach pochodzących od niezależnych dostawców oprogramowania**  |**Zastosowanie**  |
+|**W przypadku ofert opartych na licencji lub naliczanych SaaS z niezależnych dostawców oprogramowania**  |**Zastosowanie**  |
 |:------------------------------------|:------------------|
 |Aby odnaleźć dostępne oferty lub wyszukać je  | Pulpit nawigacyjny Centrum partnerskiego lub interfejsy API Centrum partnerskiego  |
 |Aby kupić ofertę  | Pulpit nawigacyjny Centrum partnerskiego lub interfejsy API Centrum partnerskiego  |

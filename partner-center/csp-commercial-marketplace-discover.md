@@ -9,14 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb7b4ffdb4edf75e3e121e4ddea6b9de191ddbbf
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e89473cf095be4cc87c96f1c2a6d0da224eccedd
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529962"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038860"
 ---
-# <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>Odkryj oferty i ceny w komercyjnym portalu partnerskim
+# <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>Odkryj oferty i ceny w komercyjnym portalu partnerskim
 
 **Dotyczy**
 
@@ -30,9 +30,9 @@ ms.locfileid: "92529962"
 
 Gdy niezależni dostawcy oprogramowania (ISV) zdecydują się na opublikowanie oferty w portalu komercyjnym, mogą także zdecydować, czy chcą udostępnić ofertę w programie CSP. Jeśli wybierzesz sprzedawanie oferty za pomocą programu CSP, partnerzy CSP powinni zobaczyć ofertę w obszarze witryny Marketplace Centrum partnerskiego.
 
-Jeśli oferta niezależnego dostawcy oprogramowania nie jest wyświetlana w oczekiwany sposób w centrum partnerskim, może to być spowodowane tym, że:
+Jeśli oferta niezależnego dostawcy oprogramowania nie jest wyświetlana zgodnie z oczekiwaniami w centrum partnerskim, może to być spowodowane tym, że:
 
-- Dostawca oprogramowania nie zdecydował się sprzedawać oferty za pomocą programu CSP. Na przykład niektóre produkty niezależnego dostawcy oprogramowania mogły zostać udostępnione w innych obszarach komercyjnej witryny Marketplace (na przykład w [Microsoft AppSource](https://appsource.microsoft.com/) i w [witrynie Azure Marketplace](https://azuremarketplace.microsoft.com/)), ale mogą nie być wyświetlane dla dostawców usług w witrynie Marketplace w centrum partnerskim.
+- Dostawca oprogramowania nie zdecydował się sprzedawać oferty za pomocą programu CSP. Na przykład niektóre produkty niezależnego dostawcy oprogramowania mogły zostać udostępnione w innych obszarach portalu komercyjnego (na przykład w [Microsoft AppSource](https://appsource.microsoft.com/) i w [witrynie Azure Marketplace](https://azuremarketplace.microsoft.com/)), ale mogą nie być wyświetlane dla partnerów w programie CSP w witrynie Marketplace Centrum partnerskiego.
 
 - Niezależny dostawca oprogramowania zdecydował się udzielić oferty wyłącznie wyłącznie wybranej liczbie partnerów CSP. Aby uzyskać więcej informacji na temat ofert z wyłączeniem, zobacz w dalszej części tego tematu pomocy.
 
@@ -42,11 +42,11 @@ Jeśli oferta niezależnego dostawcy oprogramowania nie jest wyświetlana w ocze
 
 ## <a name="view-marketplace-offers-in-partner-center"></a>Wyświetl oferty z witryny Marketplace w centrum partnerskim
 
-Aby wyświetlić dostępne komercyjne oferty rynkowe w programie CSP: 
+Aby wyświetlić dostępne komercyjne oferty rynkowe w programie CSP:
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego, a następnie wybierz pozycję **CSP** w menu nawigacji po lewej stronie.
 
-2. Wybierz opcję **Sprzedaj** , a następnie pozycję **Marketplace**. Domyślnie zobaczysz produkty wszystkich typów i kategorii.
+2. Wybierz opcję **Sprzedaj**, a następnie pozycję **Marketplace**. Domyślnie zobaczysz produkty wszystkich typów i kategorii.
 
 3. Wybierz filtr według typu lub kategorii. Możesz również użyć **wyszukiwania** , aby znaleźć określone słowa kluczowe, nazwy ofert lub nazwy wydawców niezależnych dostawców oprogramowania.
 
@@ -70,7 +70,7 @@ Aby wyświetlić dostępne komercyjne oferty rynkowe w programie CSP:
 
 ## <a name="view-marketplace-offers-via-partner-center-apis"></a>Wyświetlanie ofert portalu Marketplace za pośrednictwem interfejsów API Centrum partnerskiego
 
-Partnerzy programu CSP mogą również używać interfejsów API do zwracania listy kwalifikujących się ofert. Kwalifikujące się oferty będą dostępne tylko dla partnerów SaaS ISV, którzy mogą sprzedawać za pośrednictwem witryny Marketplace w centrum partnerskim. W przypadku partnerów korzystających z interfejsów API do identyfikowania ofert w katalogu zapoznaj się ze wskazówkami, aby [uzyskać listę ofert dla rynku](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
+Partnerzy programu CSP mogą również używać interfejsów API do zwracania listy kwalifikujących się ofert. Kwalifikujące się oferty będą dostępne tylko dla tych SaaS niezależnych dostawców oprogramowania, które mogą sprzedawać dla partnerów za pośrednictwem witryny Marketplace Centrum partnerskiego. W przypadku partnerów korzystających z interfejsów API do identyfikowania ofert w katalogu zapoznaj się ze wskazówkami, aby [uzyskać listę ofert dla rynku](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
 
 ## <a name="view-the-latest-marketplace-offer-pricing-in-partner-center"></a>Wyświetlanie najnowszych cen oferty portalu Marketplace w centrum partnerskim
 
@@ -78,9 +78,9 @@ Wykonaj następujące kroki, aby uzyskać najnowsze szczegóły cennika związan
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego, a następnie wybierz pozycję **CSP** w menu nawigacji po lewej stronie.
 
-2. Wybierz opcję **sprzedaż** , a następnie pozycję **Cennik i oferty**.
+2. Wybierz opcję **sprzedaż**, a następnie pozycję **Cennik i oferty**.
 
-3. Przewiń w dół do sekcji **Marketplace** , wybierz lokalizację i Pobierz **Cennik portalu Marketplace**. Spowoduje to wygenerowanie arkusza kalkulacyjnego z najnowszymi danymi cennika dla usługi SaaS, które są dostępne dla niezależnych dostawców oprogramowania. Niektóre ceny aplikacji platformy Azure mogą być również wyświetlane w tym miejscu. Te informacje są aktualizowane codziennie, więc można je sprawdzać pod kątem bieżących cen tak często, jak to możliwe.
+3. Przewiń w dół do sekcji **Marketplace** , wybierz lokalizację i Pobierz **Cennik portalu Marketplace**. Spowoduje to wygenerowanie arkusza kalkulacyjnego z najnowszymi danymi cen dla SaaS, ofert opartych na licencji i ofert taryfowych dostępnych od wydawców niezależnych dostawców oprogramowania. Niektóre ceny aplikacji platformy Azure mogą być również wyświetlane w tym miejscu. Te informacje są aktualizowane codziennie, więc można je sprawdzać pod kątem bieżących cen tak często, jak to możliwe.
 
 4. Jeśli produkt niezależnego dostawcy oprogramowania zawiera bezpłatny okres próbny, w arkuszu kalkulacyjnym zostanie wyświetlonych dwa wiersze dla tego produktu:
 
@@ -92,7 +92,7 @@ Jako partner programu CSP można kwalifikować się do innych bodźców związan
 
 ## <a name="learn-about-marketplace-exclusive-offers"></a>Dowiedz się więcej o ofertach dostępnych w portalu Marketplace
 
-Dostawcy ISV mają możliwość udostępnienia ofert tylko określonym partnerom w programie CSP. Jest to tzw. Oferta wyłączna. Wszyscy partnerzy w programie CSP nadal mogą wyświetlać wszystkie oferty niezależnego dostawcy oprogramowania w portalu korporacyjnym komercyjnego centrum partnerskiego, w tym oferty oznaczone jako wyłączne.
+Dostawcy ISV mają możliwość udostępnienia ofert tylko określonym partnerom w programie CSP. Jest to tzw. Oferta wyłączna. Wszyscy partnerzy w programie CSP nadal mogą wyświetlać wszystkie oferty niezależnego dostawcy oprogramowania w witrynie komercyjne Centrum partnerskiego, w tym oferty oznaczone jako wyłączne.
 
 Jeśli oferta **nie** zostanie oznaczona jako wyłączna, wszyscy partnerzy mogą zakupić tę ofertę (przy założeniu, że kraj rozliczeniowy wybranego klienta odpowiada dostępności oferty niezależnego dostawcy oprogramowania).
 

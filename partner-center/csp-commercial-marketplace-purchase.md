@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7533b0791ec8760c6223d6af59c2b7995b34a7bc
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d8eb2faec7c2ddd70ed0cacedebf4f9824441a7a
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92530004"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038863"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Kup komercyjne produkty Marketplace dla klientów w centrum partnerskim
 
@@ -28,22 +28,22 @@ ms.locfileid: "92530004"
 - Administrator globalny
 - Agent administracyjny
 
-Jako partner w programie dostawcy rozwiązań w chmurze (CSP) możesz użyć komercyjnej witryny Marketplace do zakupu subskrypcji dla klientów do określonych produktów SaaS (Software as a Service) oferowanych przez niezależnych dostawców oprogramowania (ISV). 
+Jako partner w programie dostawcy rozwiązań w chmurze (CSP) możesz użyć komercyjnej witryny Marketplace do zakupu subskrypcji dla klientów do określonych produktów SaaS (Software as a Service) oferowanych przez niezależnych dostawców oprogramowania (ISV).
 
 Oferując niezależnego dostawcy oprogramowania SaaS subskrypcje, możesz ułatwić rozróżnienie swojej firmy. Możesz również udzielić klientom dostępu do pakietów oprogramowania, które odpowiadają konkretnym potrzebom biznesowym. Licencje i subskrypcje na te produkty SaaS Marketplace są zarządzane przez wydawców niezależnych dostawców oprogramowania, tak samo jak w przypadku zarządzania licencjami i subskrypcjami produktów firmy Microsoft.
 
 Możesz zakupić subskrypcje SaaS **oparte na licencjach** lub subskrypcje **oparte na użyciu** . Aby dowiedzieć się więcej o różnicach między rozliczeniami opartymi na licencji i użyciu, zobacz [podstawowe informacje dotyczące rozliczeń](billing-basics.md).
 
-## <a name="purchase-license-based-saas-subscriptions-in-partner-center"></a>Kup subskrypcje SaaS oparte na licencjach w centrum partnerskim
+## <a name="purchase-license-based-and-metered-saas-subscriptions-in-partner-center"></a>Kupowanie subskrypcji opartych na licencji i naliczanych SaaS w centrum partnerskim
 
-Możesz zakupić subskrypcje dotyczące produktów SaaS opartych na licencjach oferowanych przez wydawców niezależnego dostawcy oprogramowania przy użyciu tego samego procesu, który jest używany do zakupu subskrypcji dla produktów firmy Microsoft.
+Możesz zakupić subskrypcje dotyczące produktów opartych na licencji lub taryfowych SaaS oferowanych przez wydawców niezależnych dostawców oprogramowania przy użyciu tego samego procesu, który jest używany do zakupu subskrypcji dla produktów firmy Microsoft.
 
-Aby zakupić subskrypcję SaaS opartą na licencji w centrum partnerskim, zobacz [Tworzenie, wstrzymywanie lub anulowanie subskrypcji klientów](create-a-new-subscription.md#create-a-new-subscription).
+Aby zakupić subskrypcję SaaS opartą na licencji lub naliczaną w centrum partnerskim, zobacz [Tworzenie, wstrzymywanie lub anulowanie subskrypcji klientów](create-a-new-subscription.md#create-a-new-subscription).
 
 Możesz również użyć [interfejsów API Centrum partnerskiego](/partner-center/develop/) , aby utworzyć komercyjne subskrypcje portalu Marketplace dla klientów. (Aby uzyskać więcej informacji na temat korzystania z interfejsów API Centrum partnerskiego, zobacz [Tworzenie subskrypcji dla komercyjnych produktów Marketplace](/partner-center/develop/create-subscription-azure-marketplace-products)).
 
 >[!IMPORTANT]
-> Jako partner w programie CSP można zakupić wyłącznie subskrypcje SaaS **oparte na licencjach** pochodzących od niezależnych dostawców oprogramowania w centrum partnerskim. Oznacza to, że możesz zakupić każdą SaaSą z **licencją** , która będzie dostępna dla Ciebie, w tym [wyłączne oferty](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) , do których masz dostęp. Aby kupić inne, komercyjne oferty rynkowe z niezależnych dostawców oprogramowania (takich jak **oparte na użyciu** , taryfowe lub oparte na zużyciu obejmujące aplikacje platformy Azure, kontenery i maszyny wirtualne), należy przejść do [Azure Portal](https://portal.azure.com/). Aby uzyskać więcej informacji, zobacz następujący temat.
+> Jako partner w programie CSP można zakupić subskrypcje SaaS **oparte na licencjach** lub **naliczanych** od niezależnych dostawców oprogramowania w centrum partnerskim. Oznacza to, że możesz zakupić dowolną ofertę **opartą na licencji** lub **naliczaną** SaaSą oferowaną przez wydawcę niezależnego dostawcy oprogramowania, w tym [wyłączne oferty](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) , do których masz dostęp. Aby kupić inne, komercyjne oferty rynkowe z niezależnych dostawców oprogramowania (na przykład oferty oparte na użyciu dotyczące aplikacji platformy Azure, kontenerów lub maszyn wirtualnych) i zarządzać nimi, musisz przejść do [Azure Portal](https://portal.azure.com/).
 
 ## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>Kup subskrypcje oparte na użyciu w Azure Portal
 

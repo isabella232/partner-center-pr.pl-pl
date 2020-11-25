@@ -9,19 +9,19 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 8c3cfc2a6576029a8fdfb902a7b3889b4ea6c628
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 85a40974557817825d58246c2c010c7cf8a6a5e1
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92530009"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038884"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Tworzenie, zawieszanie lub anulowanie subskrypcji klientów
 
 **Dotyczy**
 
 - Centrum partnerskie
-- Centrum partnerskie dla Microsoft Cloud dla instytucji rządowych USA
+- Centrum partnerskie Microsoft Cloud for US Government
 - Partnerzy CSP
 
 **Odpowiednie role**
@@ -36,21 +36,21 @@ Po utworzeniu rekordu klienta w centrum partnerskim możesz sprzedawać te subsk
 
 Niektóre oferty są ograniczone do jednej subskrypcji na klienta. Aby wyświetlić listę ofert, które są ograniczone, odwiedź stronę ceny i oferty Centrum partnerskiego.
 
-> [!IMPORTANT]
-> Jako partner w programie CSP można zakupić wyłącznie subskrypcje SaaS **oparte na licencjach** pochodzących od niezależnych dostawców oprogramowania w centrum partnerskim. Oznacza to, że możesz zakupić każdą SaaSą z **licencją** , która będzie dostępna dla Ciebie, w tym [wyłączne oferty](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) , do których masz dostęp. Aby kupić inne, komercyjne oferty rynkowe z niezależnych dostawców oprogramowania ( **na przykład na podstawie użycia** , taryfowych lub opartych na zużyciu obejmujące aplikacje, kontenery i maszyny wirtualne platformy Azure), należy przejść do [portalu zarządzania systemu Azure](https://portal.azure.com/). Aby uzyskać więcej informacji, zobacz [kupowanie komercyjnych produktów Marketplace](csp-commercial-marketplace-purchase.md).
+>[!IMPORTANT]
+> Jako partner w programie CSP można zakupić subskrypcje SaaS **oparte na licencjach** lub **naliczanych** od niezależnych dostawców oprogramowania w centrum partnerskim. Oznacza to, że możesz zakupić dowolną ofertę **opartą na licencji** lub **naliczaną** SaaSą oferowaną przez wydawcę niezależnego dostawcy oprogramowania, w tym [wyłączne oferty](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) , do których masz dostęp. Aby kupić inne, komercyjne oferty rynkowe z niezależnych dostawców oprogramowania (na przykład oferty oparte na użyciu dotyczące aplikacji platformy Azure, kontenerów lub maszyn wirtualnych) i zarządzać nimi, musisz przejść do [Azure Portal](https://portal.azure.com/).
 
 ## <a name="create-a-new-subscription"></a>Utwórz nową subskrypcję
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard).
 
-2. W menu Centrum partnerskiego wybierz pozycję **klienci** , a następnie wybierz klienta z listy.
+2. W menu Centrum partnerskiego wybierz pozycję **klienci**, a następnie wybierz klienta z listy.
 
 3. Wybierz pozycję **Dodaj subskrypcję**. Na karcie **usługi online** zostaną wyświetlone wszystkie dostępne oferty SaaS w portalu Marketplace.
 
 4. Aby wyświetlić tylko niektóre typy subskrypcji, należy wybrać dostępne filtry:
-   - **Wydawca** : Wybierz **firmę Microsoft** , aby wyświetlić tylko oferty od firmy Microsoft lub **partnera** , aby zobaczyć komercyjne produkty Marketplace opublikowane przez niezależnych dostawców oprogramowania.
-   - **Typ rozliczeń** : Wybierz typ rozliczania subskrypcji, którego chcesz użyć: **licencja** lub **użycie**. Informacje, które pomogą w wyborze miesięcznej i rocznej częstotliwości rozliczania, można znaleźć na stronie [rozliczeń opartych na licencji](license-based-billing.md) .
-   - **Kategoria** : wybierz pozycję **Enterprise** , **mała firma** lub **wersja próbna**. Aby uzyskać informacje na temat subskrypcji wersji próbnej, zobacz artykuł [oferujący klientom wersje próbne produktów firmy Microsoft](offer-your-customers-trials-of-microsoft-products.md).
+   - **Wydawca**: Wybierz **firmę Microsoft** , aby wyświetlić tylko oferty od firmy Microsoft lub **partnera** , aby zobaczyć komercyjne produkty Marketplace opublikowane przez niezależnych dostawców oprogramowania.
+   - **Typ rozliczeń**: Wybierz typ rozliczania subskrypcji, którego chcesz użyć: **licencja** lub **użycie**. Informacje, które pomogą w wyborze miesięcznej i rocznej częstotliwości rozliczania, można znaleźć na stronie [rozliczeń opartych na licencji](license-based-billing.md) .
+   - **Kategoria**: wybierz pozycję **Enterprise**, **mała firma** lub **wersja próbna**. Aby uzyskać informacje na temat subskrypcji wersji próbnej, zobacz artykuł [oferujący klientom wersje próbne produktów firmy Microsoft](offer-your-customers-trials-of-microsoft-products.md).
 
 5. Wybierz subskrypcje produktu, które chcesz kupić dla klienta. Widoczne produkty zależą od typu segmentu klienta (edukacja, rząd itp.) oraz filtrów, które zostały zastosowane. Niektóre oferty prezentowane w portalu Marketplace mogą nie być zawsze dostępne dla określonego klienta lub określonego partnera dostawcy usług kryptograficznych. Może to być spowodowane:
 
@@ -84,7 +84,7 @@ Aby kupić dodatek, klient musi mieć aktywną subskrypcję podstawową.  Nie mo
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
 
-2. W menu Centrum partnerskiego wybierz pozycję **klienci** , a następnie wybierz klienta z listy.
+2. W menu Centrum partnerskiego wybierz pozycję **klienci**, a następnie wybierz klienta z listy.
 
 3. Wybierz subskrypcję, którą chcesz zarządzać.
 
@@ -108,7 +108,7 @@ W przypadku zmiany stanu subskrypcji na **zawieszone** użytkownicy nie będą m
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
 
-2. W menu Centrum partnerskiego wybierz pozycję **klienci** , a następnie wybierz klienta z listy.
+2. W menu Centrum partnerskiego wybierz pozycję **klienci**, a następnie wybierz klienta z listy.
 
 3. Wybierz subskrypcję, którą chcesz zarządzać.
 
@@ -143,7 +143,7 @@ Aby anulować opartą na licencji subskrypcję SaaS uzyskaną od wydawcy niezale
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
 
-2. W menu Centrum partnerskiego wybierz pozycję **klienci** , a następnie wybierz klienta z listy.
+2. W menu Centrum partnerskiego wybierz pozycję **klienci**, a następnie wybierz klienta z listy.
 
 3. Znajdź subskrypcję, którą chcesz anulować.
 
@@ -164,7 +164,7 @@ Aby zatrzymać automatyczne odnawianie aktywnej subskrypcji komercyjnej witryny 
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
 
-2. W menu Centrum partnerskiego wybierz pozycję **klienci** , a następnie wybierz klienta z listy.
+2. W menu Centrum partnerskiego wybierz pozycję **klienci**, a następnie wybierz klienta z listy.
 
 3. Wybierz pozycję **Subskrypcje**. Zawiera listę wszystkich subskrypcji opartych na licencji zakupionych dla klienta.
 
@@ -180,4 +180,4 @@ Aby zatrzymać automatyczne odnawianie aktywnej subskrypcji komercyjnej witryny 
 
 - [Zarządzanie komercyjnymi produktami Marketplace dla klientów](csp-commercial-marketplace-manage.md)
 
-- [Komercyjne Omówienie portalu Marketplace](csp-commercial-marketplace-overview.md)
+- [Omówienie komercyjnej platformy handlowej](csp-commercial-marketplace-overview.md)
