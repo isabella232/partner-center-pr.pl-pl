@@ -1,7 +1,7 @@
 ---
 title: Rejestracja w programie Cloud Solution Provider
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, jak zarejestrować się w modelu sprzedaży programu Cloud Solution Provider (CSP), który jest najlepszy dla Twojej firmy, na przykład pośredni odsprzedawcę lub partnera bezpośredniego.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d94941cf7f2530b7c60c099035a90f7a792e7a7a
-ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
+ms.openlocfilehash: 1753649f375c66027ecc6cd427a7506913d55e8d
+ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "93045386"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96322087"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Rejestracja w programie Cloud Solution Provider
 
@@ -42,7 +42,7 @@ Przeglądanie i weryfikowanie podanych informacji może zająć nam kilka dni. W
 3. Po zweryfikowaniu Twoich informacji Zaakceptuj umowę pośredniego odsprzedawcy firmy Microsoft.
 
 > [!IMPORTANT]  
-> Partner w programie CSP nie może obecnie odsprzedać Usługi online innego partnera w programie CSP. Firma Microsoft stale przegląda zasady i możliwości wszystkich programów. Wszystkie wiadomości dotyczące wersji funkcji lub zmian zasad zostaną ogłoszone za pośrednictwem zwykłych kanałów komunikacji, w tym [anonsów Centrum partnerskiego](announcements/index.md).
+> Partner w programie CSP nie może obecnie odsprzedać Usługi online innego partnera w programie CSP. To ograniczenie dotyczy tylko dzierżawcy używanej do przeprowadzania transakcji dostawcy CSP. Partnerzy programu CSP korzystający z dzierżawy niebędącej dostawcą usług kryptograficznych do użycia w firmie mogą kupować Usługi online od innego partnera CSP. Firma Microsoft stale przegląda zasady i możliwości wszystkich programów. Wszystkie wiadomości dotyczące wersji funkcji lub zmian zasad zostaną ogłoszone za pośrednictwem zwykłych kanałów komunikacji, w tym [anonsów Centrum partnerskiego](announcements/index.md).
 
 ## <a name="enroll-as-an-indirect-reseller"></a>Rejestracja jako pośredniego odsprzedawcy
 
@@ -60,7 +60,7 @@ Różni dostawcy pośrednii oferują różne wsparcie i usługi, dlatego należy
 
 Jeśli nie pracujesz jeszcze z dostawcą (znanym także jako dystrybutor), możesz [przeszukać listę oficjalnych dostawców firmy Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider) , aby je znaleźć.
 
-Aby uzyskać więcej informacji o tym, co jest wymagane do uczestnictwa w programie CSP jako odsprzedawcy pośrednim, zobacz [Rozpoczynanie pracy jako pośredni odsprzedawcy](https://partner.microsoft.com/cloud-solution-provider/whats-required) w [witrynie sieci Web Microsoft Partner Network](https://partner.microsoft.com/). 
+Aby uzyskać więcej informacji o tym, co jest wymagane do uczestnictwa w programie CSP jako odsprzedawcy pośrednim, zobacz [Rozpoczynanie pracy jako pośredni odsprzedawcy](https://partner.microsoft.com/cloud-solution-provider/whats-required) w [witrynie sieci Web Microsoft Partner Network](https://partner.microsoft.com/).
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Zarejestruj się jako partner rozliczenia bezpośredniego
 
@@ -99,4 +99,4 @@ Upewnij się, że zapoznaj się z [wymaganiami wstępnymi, aby dodać nową loka
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Informacje o umowie partnerskiej firmy Microsoft (MPA) dla partnerów programu CSP](microsoft-partner-agreement.md)
+[Informacje o umowie partnerskiej firmy Microsoft (MPA) dla partnerów programu CSP](microsoft-partner-agreement.md)
