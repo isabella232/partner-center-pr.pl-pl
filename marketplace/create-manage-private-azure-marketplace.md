@@ -1,56 +1,56 @@
 ---
 title: Utwórz prywatną witrynę Azure Marketplace i zarządzaj nią w Azure Portal
-description: Dowiedz się więcej na temat tworzenia prywatnego portalu Azure Marketplace (wersja zapoznawcza) i zarządzania nim w Azure Portal.
+description: Dowiedz się więcej na temat tworzenia prywatnego portalu Azure Marketplace (wersja zapoznawcza) i zarządzania nim w Azure Portal. Prywatny Portal Azure Marketplace (wersja zapoznawcza) umożliwia administratorom zarządzanie rozwiązaniami innych firm, które mogą być używane przez użytkowników.
 ms.prod: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 2459e7841c2c33227ad38f9d6fa1fc139fc0326e
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95006943"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439254"
 ---
-# <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a><span data-ttu-id="5e47d-103">Tworzenie prywatnego portalu Azure Marketplace (wersja zapoznawcza) i zarządzanie nim w Azure Portal</span><span class="sxs-lookup"><span data-stu-id="5e47d-103">Create and manage Private Azure Marketplace (preview) in the Azure portal</span></span>
+# <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a><span data-ttu-id="ca36f-104">Tworzenie prywatnego portalu Azure Marketplace (wersja zapoznawcza) i zarządzanie nim w Azure Portal</span><span class="sxs-lookup"><span data-stu-id="ca36f-104">Create and manage Private Azure Marketplace (preview) in the Azure portal</span></span>
 
-<span data-ttu-id="5e47d-104">Prywatny Portal Azure Marketplace (wersja zapoznawcza) umożliwia administratorom zarządzanie rozwiązaniami innych firm, które mogą być używane przez użytkowników.</span><span class="sxs-lookup"><span data-stu-id="5e47d-104">Private Azure Marketplace (preview) lets administrators govern which third-party solutions their users can use.</span></span> <span data-ttu-id="5e47d-105">W tym celu można wdrożyć tylko oferty zatwierdzane i zgodne z zasadami obowiązującymi w przedsiębiorstwie.</span><span class="sxs-lookup"><span data-stu-id="5e47d-105">It does this by allowing you to deploy only offers that you approve and that comply with your enterprise's policies.</span></span> <span data-ttu-id="5e47d-106">Korzystając z prywatnego portalu Azure Marketplace, użytkownicy mogą wyszukiwać oferty zgodne ze sklepem online, aby móc kupować i wdrażać.</span><span class="sxs-lookup"><span data-stu-id="5e47d-106">With Private Azure Marketplace, your users can search the online store for compliant offers to purchase and deploy.</span></span> 
+<span data-ttu-id="ca36f-105">Prywatny Portal Azure Marketplace (wersja zapoznawcza) umożliwia administratorom zarządzanie rozwiązaniami innych firm, które mogą być używane przez użytkowników.</span><span class="sxs-lookup"><span data-stu-id="ca36f-105">Private Azure Marketplace (preview) lets administrators govern which third-party solutions their users can use.</span></span> <span data-ttu-id="ca36f-106">W tym celu można wdrożyć tylko oferty zatwierdzane i zgodne z zasadami obowiązującymi w przedsiębiorstwie.</span><span class="sxs-lookup"><span data-stu-id="ca36f-106">It does this by allowing you to deploy only offers that you approve and that comply with your enterprise's policies.</span></span> <span data-ttu-id="ca36f-107">Korzystając z prywatnego portalu Azure Marketplace, użytkownicy mogą wyszukiwać oferty zgodne ze sklepem online, aby móc kupować i wdrażać.</span><span class="sxs-lookup"><span data-stu-id="ca36f-107">With Private Azure Marketplace, your users can search the online store for compliant offers to purchase and deploy.</span></span> 
 
-<span data-ttu-id="5e47d-107">Jako Administrator portalu Marketplace (przypisana rola) rozpocznie się z wyłączonym i pustym magazynem prywatnym, w którym można dodać zatwierdzone oferty i plany.</span><span class="sxs-lookup"><span data-stu-id="5e47d-107">As a Marketplace admin (assigned role), you will start with a disabled and empty Private Store where you can add your approved offers and plans.</span></span> <span data-ttu-id="5e47d-108">W tym artykule opisano sposób tworzenia i włączania prywatnego portalu Azure Marketplace dla użytkowników oraz zarządzania nimi.</span><span class="sxs-lookup"><span data-stu-id="5e47d-108">This article explains how to create, manage, and enable Private Azure Marketplace for your users.</span></span>
+<span data-ttu-id="ca36f-108">Jako Administrator portalu Marketplace (przypisana rola) rozpocznie się z wyłączonym i pustym magazynem prywatnym, w którym można dodać zatwierdzone oferty i plany.</span><span class="sxs-lookup"><span data-stu-id="ca36f-108">As a Marketplace admin (assigned role), you will start with a disabled and empty Private Store where you can add your approved offers and plans.</span></span> <span data-ttu-id="ca36f-109">W tym artykule opisano sposób tworzenia i włączania prywatnego portalu Azure Marketplace dla użytkowników oraz zarządzania nimi.</span><span class="sxs-lookup"><span data-stu-id="ca36f-109">This article explains how to create, manage, and enable Private Azure Marketplace for your users.</span></span>
 
-<span data-ttu-id="5e47d-109">Uwagi:</span><span class="sxs-lookup"><span data-stu-id="5e47d-109">Notes:</span></span>
+<span data-ttu-id="ca36f-110">Uwagi:</span><span class="sxs-lookup"><span data-stu-id="ca36f-110">Notes:</span></span>
 
-- <span data-ttu-id="5e47d-110">Prywatny Portal Azure Marketplace jest na poziomie dzierżawy, dlatego wszyscy użytkownicy w ramach dzierżawy będą widzieć tę samą listę nadzorowana.</span><span class="sxs-lookup"><span data-stu-id="5e47d-110">Private Azure Marketplace is at a tenant level, so all users under the tenant will see the same curated list.</span></span>
-- <span data-ttu-id="5e47d-111">Wszystkie rozwiązania firmy Microsoft są automatycznie dodawane do prywatnego portalu Azure Marketplace.</span><span class="sxs-lookup"><span data-stu-id="5e47d-111">All Microsoft solutions are automatically added to Private Azure Marketplace.</span></span>
+- <span data-ttu-id="ca36f-111">Prywatny Portal Azure Marketplace jest na poziomie dzierżawy, dlatego wszyscy użytkownicy w ramach dzierżawy będą widzieć tę samą listę nadzorowana.</span><span class="sxs-lookup"><span data-stu-id="ca36f-111">Private Azure Marketplace is at a tenant level, so all users under the tenant will see the same curated list.</span></span>
+- <span data-ttu-id="ca36f-112">Wszystkie rozwiązania firmy Microsoft są automatycznie dodawane do prywatnego portalu Azure Marketplace.</span><span class="sxs-lookup"><span data-stu-id="ca36f-112">All Microsoft solutions are automatically added to Private Azure Marketplace.</span></span>
 
-## <a name="assign-the-marketplace-admin-role"></a><span data-ttu-id="5e47d-112">Przypisywanie roli administratora portalu Marketplace</span><span class="sxs-lookup"><span data-stu-id="5e47d-112">Assign the Marketplace admin role</span></span>
+## <a name="assign-the-marketplace-admin-role"></a><span data-ttu-id="ca36f-113">Przypisywanie roli administratora portalu Marketplace</span><span class="sxs-lookup"><span data-stu-id="ca36f-113">Assign the Marketplace admin role</span></span>
 
-<span data-ttu-id="5e47d-113">Administrator globalny dzierżawy musi przypisać rolę **administratora portalu Marketplace** do prywatnego administratora portalu Azure Marketplace, który będzie zarządzać magazynem prywatnym.</span><span class="sxs-lookup"><span data-stu-id="5e47d-113">The tenant Global administrator must assign the **Marketplace admin** role to the Private Azure Marketplace admin who will manage the private store.</span></span>
+<span data-ttu-id="ca36f-114">Administrator globalny dzierżawy musi przypisać rolę **administratora portalu Marketplace** do prywatnego administratora portalu Azure Marketplace, który będzie zarządzać magazynem prywatnym.</span><span class="sxs-lookup"><span data-stu-id="ca36f-114">The tenant Global administrator must assign the **Marketplace admin** role to the Private Azure Marketplace admin who will manage the private store.</span></span>
 
 >[!IMPORTANT]
-> <span data-ttu-id="5e47d-114">Dostęp do prywatnego zarządzania w portalu Azure Marketplace jest dostępny tylko dla administratorów IT z przypisaną rolą administratora portalu Marketplace.</span><span class="sxs-lookup"><span data-stu-id="5e47d-114">Access to Private Azure Marketplace management is only available to IT admins with the Marketplace admin role assigned.</span></span>
+> <span data-ttu-id="ca36f-115">Dostęp do prywatnego zarządzania w portalu Azure Marketplace jest dostępny tylko dla administratorów IT z przypisaną rolą administratora portalu Marketplace.</span><span class="sxs-lookup"><span data-stu-id="ca36f-115">Access to Private Azure Marketplace management is only available to IT admins with the Marketplace admin role assigned.</span></span>
 
-### <a name="prerequisites"></a><span data-ttu-id="5e47d-115">Wymagania wstępne</span><span class="sxs-lookup"><span data-stu-id="5e47d-115">Prerequisites</span></span>
+### <a name="prerequisites"></a><span data-ttu-id="ca36f-116">Wymagania wstępne</span><span class="sxs-lookup"><span data-stu-id="ca36f-116">Prerequisites</span></span>
 
-<span data-ttu-id="5e47d-116">Aby można było przypisać rolę administratora portalu Marketplace do użytkownika w zakresie dzierżawy, należy spełnić te wymagania wstępne:</span><span class="sxs-lookup"><span data-stu-id="5e47d-116">You must meet these prerequisites before you can assign the Marketplace Admin role to a user on the tenant scope:</span></span>
+<span data-ttu-id="ca36f-117">Aby można było przypisać rolę administratora portalu Marketplace do użytkownika w zakresie dzierżawy, należy spełnić te wymagania wstępne:</span><span class="sxs-lookup"><span data-stu-id="ca36f-117">You must meet these prerequisites before you can assign the Marketplace Admin role to a user on the tenant scope:</span></span>
 
-- <span data-ttu-id="5e47d-117">Masz dostęp do użytkownika **administratora globalnego** .</span><span class="sxs-lookup"><span data-stu-id="5e47d-117">You have access to a **Global administrator** user.</span></span>
-- <span data-ttu-id="5e47d-118">Dzierżawca ma co najmniej jedną subskrypcję (może być dowolnego typu).</span><span class="sxs-lookup"><span data-stu-id="5e47d-118">The tenant has at least one subscription (can be any type).</span></span>
-- <span data-ttu-id="5e47d-119">Użytkownikowi administratora globalnego przypisano rolę **współautor** lub wyższą dla wybranej subskrypcji.</span><span class="sxs-lookup"><span data-stu-id="5e47d-119">The Global administrator user is assigned the **Contributor** role or higher for the chosen subscription.</span></span>
-- <span data-ttu-id="5e47d-120">Użytkownik Administrator globalny ma podwyższony poziom dostępu do wartości **tak** (zobacz [Podnieś poziom dostępu do zarządzania wszystkimi subskrypcjami i grupami zarządzania platformy Azure](/azure/role-based-access-control/elevate-access-global-admin)).</span><span class="sxs-lookup"><span data-stu-id="5e47d-120">The Global administrator user has elevated access set to **Yes** (see [Elevate access to manage all Azure subscriptions and management groups](/azure/role-based-access-control/elevate-access-global-admin)).</span></span>
+- <span data-ttu-id="ca36f-118">Masz dostęp do użytkownika **administratora globalnego** .</span><span class="sxs-lookup"><span data-stu-id="ca36f-118">You have access to a **Global administrator** user.</span></span>
+- <span data-ttu-id="ca36f-119">Dzierżawca ma co najmniej jedną subskrypcję (może być dowolnego typu).</span><span class="sxs-lookup"><span data-stu-id="ca36f-119">The tenant has at least one subscription (can be any type).</span></span>
+- <span data-ttu-id="ca36f-120">Użytkownikowi administratora globalnego przypisano rolę **współautor** lub wyższą dla wybranej subskrypcji.</span><span class="sxs-lookup"><span data-stu-id="ca36f-120">The Global administrator user is assigned the **Contributor** role or higher for the chosen subscription.</span></span>
+- <span data-ttu-id="ca36f-121">Użytkownik Administrator globalny ma podwyższony poziom dostępu do wartości **tak** (zobacz [Podnieś poziom dostępu do zarządzania wszystkimi subskrypcjami i grupami zarządzania platformy Azure](/azure/role-based-access-control/elevate-access-global-admin)).</span><span class="sxs-lookup"><span data-stu-id="ca36f-121">The Global administrator user has elevated access set to **Yes** (see [Elevate access to manage all Azure subscriptions and management groups](/azure/role-based-access-control/elevate-access-global-admin)).</span></span>
 
-### <a name="assign-the-marketplace-admin-role-with-powershell"></a><span data-ttu-id="5e47d-121">Przypisywanie roli administratora portalu Marketplace przy użyciu programu PowerShell</span><span class="sxs-lookup"><span data-stu-id="5e47d-121">Assign the Marketplace admin role with PowerShell</span></span>
+### <a name="assign-the-marketplace-admin-role-with-powershell"></a><span data-ttu-id="ca36f-122">Przypisywanie roli administratora portalu Marketplace przy użyciu programu PowerShell</span><span class="sxs-lookup"><span data-stu-id="ca36f-122">Assign the Marketplace admin role with PowerShell</span></span>
 
-<span data-ttu-id="5e47d-122">Aby przypisać rolę administratora portalu Marketplace, użyj następującego skryptu programu PowerShell: wymaga następujących parametrów:</span><span class="sxs-lookup"><span data-stu-id="5e47d-122">Use the following PowerShell script to assign the Marketplace Admin role; it requires the following parameters:</span></span>
+<span data-ttu-id="ca36f-123">Aby przypisać rolę administratora portalu Marketplace, użyj następującego skryptu programu PowerShell: wymaga następujących parametrów:</span><span class="sxs-lookup"><span data-stu-id="ca36f-123">Use the following PowerShell script to assign the Marketplace Admin role; it requires the following parameters:</span></span>
 
-- <span data-ttu-id="5e47d-123">**TenantId:** Identyfikator dzierżawy w zakresie (rola administratora portalu Marketplace można przypisać do zakresu dzierżawy).</span><span class="sxs-lookup"><span data-stu-id="5e47d-123">**TenantId:** The ID of the tenant in scope (Marketplace admin role is assignable on the tenant scope).</span></span>
-- <span data-ttu-id="5e47d-124">**Identyfikator subskrypcji:** Subskrypcja, której administrator globalny ma przypisaną rolę **współautora** lub wyższą.</span><span class="sxs-lookup"><span data-stu-id="5e47d-124">**SubscriptionId:** A subscription of which the global admin has **Contributor** role or higher assigned.</span></span>
-- <span data-ttu-id="5e47d-125">**GlobalAdminUsername:** Nazwa użytkownika administratora globalnego.</span><span class="sxs-lookup"><span data-stu-id="5e47d-125">**GlobalAdminUsername:** The username of the global admin.</span></span>
-- <span data-ttu-id="5e47d-126">**UsernameToAssignRoleFor:** Nazwa użytkownika, do którego zostanie przypisana rola administratora portalu Marketplace.</span><span class="sxs-lookup"><span data-stu-id="5e47d-126">**UsernameToAssignRoleFor:** The user name to which the Marketplace admin role will be assigned.</span></span>
+- <span data-ttu-id="ca36f-124">**TenantId:** Identyfikator dzierżawy w zakresie (rola administratora portalu Marketplace można przypisać do zakresu dzierżawy).</span><span class="sxs-lookup"><span data-stu-id="ca36f-124">**TenantId:** The ID of the tenant in scope (Marketplace admin role is assignable on the tenant scope).</span></span>
+- <span data-ttu-id="ca36f-125">**Identyfikator subskrypcji:** Subskrypcja, której administrator globalny ma przypisaną rolę **współautora** lub wyższą.</span><span class="sxs-lookup"><span data-stu-id="ca36f-125">**SubscriptionId:** A subscription of which the global admin has **Contributor** role or higher assigned.</span></span>
+- <span data-ttu-id="ca36f-126">**GlobalAdminUsername:** Nazwa użytkownika administratora globalnego.</span><span class="sxs-lookup"><span data-stu-id="ca36f-126">**GlobalAdminUsername:** The username of the global admin.</span></span>
+- <span data-ttu-id="ca36f-127">**UsernameToAssignRoleFor:** Nazwa użytkownika, do którego zostanie przypisana rola administratora portalu Marketplace.</span><span class="sxs-lookup"><span data-stu-id="ca36f-127">**UsernameToAssignRoleFor:** The user name to which the Marketplace admin role will be assigned.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="5e47d-127">Użytkownicy-Goście zaproszeni do dzierżawy mogą zająć do 48 godzin, dopóki ich konto nie będzie dostępne do przypisywania roli administratora portalu Marketplace.</span><span class="sxs-lookup"><span data-stu-id="5e47d-127">For guest users invited to the tenant, it may take up to 48 hours until their account is available for assigning the Marketplace admin role.</span></span> <span data-ttu-id="5e47d-128">Aby uzyskać więcej informacji, zobacz [właściwości Azure Active Directory użytkownika współpracy B2B](/azure/active-directory/b2b/user-properties).</span><span class="sxs-lookup"><span data-stu-id="5e47d-128">For more information, see [Properties of an Azure Active Directory B2B collaboration user](/azure/active-directory/b2b/user-properties).</span></span>
+> <span data-ttu-id="ca36f-128">Użytkownicy-Goście zaproszeni do dzierżawy mogą zająć do 48 godzin, dopóki ich konto nie będzie dostępne do przypisywania roli administratora portalu Marketplace.</span><span class="sxs-lookup"><span data-stu-id="ca36f-128">For guest users invited to the tenant, it may take up to 48 hours until their account is available for assigning the Marketplace admin role.</span></span> <span data-ttu-id="ca36f-129">Aby uzyskać więcej informacji, zobacz [właściwości Azure Active Directory użytkownika współpracy B2B](/azure/active-directory/b2b/user-properties).</span><span class="sxs-lookup"><span data-stu-id="ca36f-129">For more information, see [Properties of an Azure Active Directory B2B collaboration user](/azure/active-directory/b2b/user-properties).</span></span>
 
 ```PowerShell
 function Assign-MarketplaceAdminRole {
@@ -123,104 +123,104 @@ New-AzRoleAssignment -SignInName $UsernameToAssignRoleFor -RoleDefinitionName $M
 Assign-MarketplaceAdminRole
 ```
 
-<span data-ttu-id="5e47d-129">Aby uzyskać więcej informacji o poleceniach cmdlet zawartych w module AZ. Portal PowerShell, zobacz [Microsoft Azure PowerShell: polecenia cmdlet pulpitu nawigacyjnego portalu](/powershell/module/az.portal/).</span><span class="sxs-lookup"><span data-stu-id="5e47d-129">For more information about the cmdlets contained in the Az.Portal PowerShell module, see [Microsoft Azure PowerShell: Portal Dashboard cmdlets](/powershell/module/az.portal/).</span></span>
+<span data-ttu-id="ca36f-130">Aby uzyskać więcej informacji o poleceniach cmdlet zawartych w module AZ. Portal PowerShell, zobacz [Microsoft Azure PowerShell: polecenia cmdlet pulpitu nawigacyjnego portalu](/powershell/module/az.portal/).</span><span class="sxs-lookup"><span data-stu-id="ca36f-130">For more information about the cmdlets contained in the Az.Portal PowerShell module, see [Microsoft Azure PowerShell: Portal Dashboard cmdlets](/powershell/module/az.portal/).</span></span>
 
-## <a name="create-private-azure-marketplace"></a><span data-ttu-id="5e47d-130">Tworzenie prywatnego portalu Azure Marketplace</span><span class="sxs-lookup"><span data-stu-id="5e47d-130">Create Private Azure Marketplace</span></span>
+## <a name="create-private-azure-marketplace"></a><span data-ttu-id="ca36f-131">Tworzenie prywatnego portalu Azure Marketplace</span><span class="sxs-lookup"><span data-stu-id="ca36f-131">Create Private Azure Marketplace</span></span>
 
-1. <span data-ttu-id="5e47d-131">Zaloguj się w witrynie [Azure Portal](https://portal.azure.com/).</span><span class="sxs-lookup"><span data-stu-id="5e47d-131">Sign in to the [Azure portal](https://portal.azure.com/).</span></span>
-2. <span data-ttu-id="5e47d-132">Wybierz pozycję **wszystkie usługi** , a następnie **Marketplace**.</span><span class="sxs-lookup"><span data-stu-id="5e47d-132">Select **All services** and then **Marketplace**.</span></span>
+1. <span data-ttu-id="ca36f-132">Zaloguj się w witrynie [Azure Portal](https://portal.azure.com/).</span><span class="sxs-lookup"><span data-stu-id="ca36f-132">Sign in to the [Azure portal](https://portal.azure.com/).</span></span>
+2. <span data-ttu-id="ca36f-133">Wybierz pozycję **wszystkie usługi** , a następnie **Marketplace**.</span><span class="sxs-lookup"><span data-stu-id="ca36f-133">Select **All services** and then **Marketplace**.</span></span>
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Azure Portal głównego okna.":::
 
-3. <span data-ttu-id="5e47d-134">Wybierz opcję **prywatny Portal Marketplace** z opcji po lewej stronie.</span><span class="sxs-lookup"><span data-stu-id="5e47d-134">Select **Private Marketplace** from the options on the left.</span></span>
+3. <span data-ttu-id="ca36f-135">Wybierz opcję **prywatny Portal Marketplace** z opcji po lewej stronie.</span><span class="sxs-lookup"><span data-stu-id="ca36f-135">Select **Private Marketplace** from the options on the left.</span></span>
 
     :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Wybieranie opcji prywatny Portal Marketplace w oknie głównym Azure Portal.":::
 
-4. <span data-ttu-id="5e47d-136">Wybierz pozycję **Rozpocznij** , aby utworzyć prywatny Portal Azure Marketplace (należy to zrobić tylko raz).</span><span class="sxs-lookup"><span data-stu-id="5e47d-136">Select **Get Started** to create Private Azure Marketplace (you only have to do this once).</span></span>
+4. <span data-ttu-id="ca36f-137">Wybierz pozycję **Rozpocznij** , aby utworzyć prywatny Portal Azure Marketplace (należy to zrobić tylko raz).</span><span class="sxs-lookup"><span data-stu-id="ca36f-137">Select **Get Started** to create Private Azure Marketplace (you only have to do this once).</span></span>
 
     :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Wybieranie pozycji Rozpocznij pracę w oknie głównym Azure Portal.":::
 
-    <span data-ttu-id="5e47d-138">Jeśli prywatny Portal Azure Marketplace już istnieje dla tej dzierżawy, domyślnie wybierz pozycję Zarządzaj portalem **Marketplace** .</span><span class="sxs-lookup"><span data-stu-id="5e47d-138">If Private Azure Marketplace already exists for this tenant, **Manage Marketplace** will be selected by default.</span></span>
+    <span data-ttu-id="ca36f-139">Jeśli prywatny Portal Azure Marketplace już istnieje dla tej dzierżawy, domyślnie wybierz pozycję Zarządzaj portalem **Marketplace** .</span><span class="sxs-lookup"><span data-stu-id="ca36f-139">If Private Azure Marketplace already exists for this tenant, **Manage Marketplace** will be selected by default.</span></span>
 
-5. <span data-ttu-id="5e47d-139">Po zakończeniu będziesz mieć pusty i wyłączony prywatny Portal Azure Marketplace.</span><span class="sxs-lookup"><span data-stu-id="5e47d-139">Once completed you will have an empty and disabled Private Azure Marketplace.</span></span>
+5. <span data-ttu-id="ca36f-140">Po zakończeniu będziesz mieć pusty i wyłączony prywatny Portal Azure Marketplace.</span><span class="sxs-lookup"><span data-stu-id="ca36f-140">Once completed you will have an empty and disabled Private Azure Marketplace.</span></span>
 
     :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Pusty ekran prywatnego portalu Azure Marketplace.":::
 
-## <a name="add-items-from-gallery"></a><span data-ttu-id="5e47d-141">Dodaj elementy z galerii</span><span class="sxs-lookup"><span data-stu-id="5e47d-141">Add items from gallery</span></span>
+## <a name="add-items-from-gallery"></a><span data-ttu-id="ca36f-142">Dodaj elementy z galerii</span><span class="sxs-lookup"><span data-stu-id="ca36f-142">Add items from gallery</span></span>
 
-<span data-ttu-id="5e47d-142">Element jest kombinacją oferty i planu.</span><span class="sxs-lookup"><span data-stu-id="5e47d-142">An item is a combination of an offer and a plan.</span></span> <span data-ttu-id="5e47d-143">Możesz wyszukiwać i dodawać elementy na stronie zarządzanie rynkiem Marketplace.</span><span class="sxs-lookup"><span data-stu-id="5e47d-143">You can search for and add item in the Manage Marketplace page.</span></span>
+<span data-ttu-id="ca36f-143">Element jest kombinacją oferty i planu.</span><span class="sxs-lookup"><span data-stu-id="ca36f-143">An item is a combination of an offer and a plan.</span></span> <span data-ttu-id="ca36f-144">Możesz wyszukiwać i dodawać elementy na stronie zarządzanie rynkiem Marketplace.</span><span class="sxs-lookup"><span data-stu-id="ca36f-144">You can search for and add item in the Manage Marketplace page.</span></span>
 
-1. <span data-ttu-id="5e47d-144">Wybierz pozycję **Dodaj elementy**.</span><span class="sxs-lookup"><span data-stu-id="5e47d-144">Select **Add items**.</span></span>
+1. <span data-ttu-id="ca36f-145">Wybierz pozycję **Dodaj elementy**.</span><span class="sxs-lookup"><span data-stu-id="ca36f-145">Select **Add items**.</span></span>
 
-2. <span data-ttu-id="5e47d-145">Przejrzyj **galerię** lub użyj pola wyszukiwania, aby znaleźć żądany element.</span><span class="sxs-lookup"><span data-stu-id="5e47d-145">Browse the **Gallery** or use the search field to find the item you want.</span></span>
+2. <span data-ttu-id="ca36f-146">Przejrzyj **galerię** lub użyj pola wyszukiwania, aby znaleźć żądany element.</span><span class="sxs-lookup"><span data-stu-id="ca36f-146">Browse the **Gallery** or use the search field to find the item you want.</span></span>
 
     :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="Przeglądanie galerii lub używanie pola wyszukiwania.":::
 
-3. <span data-ttu-id="5e47d-147">Domyślnie podczas dodawania nowej oferty wszystkie bieżące plany zostaną dodane do listy dozwolonych.</span><span class="sxs-lookup"><span data-stu-id="5e47d-147">As default, when adding a new offer, all current plans will be added to the allowed list.</span></span> <span data-ttu-id="5e47d-148">Aby zmodyfikować wybór planu przed dodaniem wybranych elementów, wybierz menu rozwijane na kafelku oferty i zaktualizuj wymagane plany.</span><span class="sxs-lookup"><span data-stu-id="5e47d-148">To modify the plan selection before adding the selected items, select the drop-down menu in the offer’s tile and update the required plans.</span></span>
+3. <span data-ttu-id="ca36f-148">Domyślnie podczas dodawania nowej oferty wszystkie bieżące plany zostaną dodane do listy dozwolonych.</span><span class="sxs-lookup"><span data-stu-id="ca36f-148">As default, when adding a new offer, all current plans will be added to the allowed list.</span></span> <span data-ttu-id="ca36f-149">Aby zmodyfikować wybór planu przed dodaniem wybranych elementów, wybierz menu rozwijane na kafelku oferty i zaktualizuj wymagane plany.</span><span class="sxs-lookup"><span data-stu-id="ca36f-149">To modify the plan selection before adding the selected items, select the drop-down menu in the offer’s tile and update the required plans.</span></span>
 
     :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Aktualizuj wymagane plany.":::
 
-4. <span data-ttu-id="5e47d-150">Wybierz pozycję **gotowe** w lewym dolnym rogu po dokonaniu wyboru.</span><span class="sxs-lookup"><span data-stu-id="5e47d-150">Select **Done** at the bottom-left after you've made your selections.</span></span>
+4. <span data-ttu-id="ca36f-151">Wybierz pozycję **gotowe** w lewym dolnym rogu po dokonaniu wyboru.</span><span class="sxs-lookup"><span data-stu-id="ca36f-151">Select **Done** at the bottom-left after you've made your selections.</span></span>
 
 >[!Note]
-> <span data-ttu-id="5e47d-151">**Dodawanie elementów** do portalu Marketplace będzie możliwe tylko dla ofert innych niż firmy Microsoft.</span><span class="sxs-lookup"><span data-stu-id="5e47d-151">**Add Items** to the Marketplace will be available for non-Microsoft offers only.</span></span> <span data-ttu-id="5e47d-152">Oferty firmy Microsoft są domyślnie dozwolone.</span><span class="sxs-lookup"><span data-stu-id="5e47d-152">Microsoft offers are allowed by default.</span></span>
+> <span data-ttu-id="ca36f-152">**Dodawanie elementów** do portalu Marketplace będzie możliwe tylko dla ofert innych niż firmy Microsoft.</span><span class="sxs-lookup"><span data-stu-id="ca36f-152">**Add Items** to the Marketplace will be available for non-Microsoft offers only.</span></span> <span data-ttu-id="ca36f-153">Oferty firmy Microsoft są domyślnie dozwolone.</span><span class="sxs-lookup"><span data-stu-id="ca36f-153">Microsoft offers are allowed by default.</span></span>
 
-## <a name="edit-item-plans"></a><span data-ttu-id="5e47d-153">Edytuj plany elementów</span><span class="sxs-lookup"><span data-stu-id="5e47d-153">Edit item plans</span></span>
+## <a name="edit-item-plans"></a><span data-ttu-id="ca36f-154">Edytuj plany elementów</span><span class="sxs-lookup"><span data-stu-id="ca36f-154">Edit item plans</span></span>
 
-<span data-ttu-id="5e47d-154">Plany elementu można edytować na stronie zarządzanie rynkiem Marketplace.</span><span class="sxs-lookup"><span data-stu-id="5e47d-154">You can edit an item's plans in the Manage Marketplace page.</span></span>
+<span data-ttu-id="ca36f-155">Plany elementu można edytować na stronie zarządzanie rynkiem Marketplace.</span><span class="sxs-lookup"><span data-stu-id="ca36f-155">You can edit an item's plans in the Manage Marketplace page.</span></span>
 
-1. <span data-ttu-id="5e47d-155">W kolumnie **plany** Przejrzyj dostępne plany z menu rozwijanego dla tego elementu.</span><span class="sxs-lookup"><span data-stu-id="5e47d-155">In the **Plans** column, review the available plans from the dropdown menu for that item.</span></span>
-2. <span data-ttu-id="5e47d-156">Zaznacz lub wyczyść pola wyboru, aby wybrać, które plany mają być dostępne dla użytkowników.</span><span class="sxs-lookup"><span data-stu-id="5e47d-156">Select or clear the checkboxes to choose which plans to make available to your users.</span></span>
+1. <span data-ttu-id="ca36f-156">W kolumnie **plany** Przejrzyj dostępne plany z menu rozwijanego dla tego elementu.</span><span class="sxs-lookup"><span data-stu-id="ca36f-156">In the **Plans** column, review the available plans from the dropdown menu for that item.</span></span>
+2. <span data-ttu-id="ca36f-157">Zaznacz lub wyczyść pola wyboru, aby wybrać, które plany mają być dostępne dla użytkowników.</span><span class="sxs-lookup"><span data-stu-id="ca36f-157">Select or clear the checkboxes to choose which plans to make available to your users.</span></span>
 
     :::image type="content" source="media/private-azure/edit-items.png" alt-text="Zaznaczanie lub czyszczenie pola wyboru dla wymaganego elementu.":::
 
 > [!NOTE]
-> <span data-ttu-id="5e47d-158">Każda oferta wymaga co najmniej jednego planu, aby można było przeprowadzić aktualizację.</span><span class="sxs-lookup"><span data-stu-id="5e47d-158">Each offer needs at least one plan selected in order for the update to occur.</span></span> <span data-ttu-id="5e47d-159">Aby usunąć wszystkie plany związane z ofertą, Usuń całą ofertę (zobacz następną sekcję).</span><span class="sxs-lookup"><span data-stu-id="5e47d-159">To remove all plans related to an offer, delete the entire offer (see next section).</span></span>
+> <span data-ttu-id="ca36f-159">Każda oferta wymaga co najmniej jednego planu, aby można było przeprowadzić aktualizację.</span><span class="sxs-lookup"><span data-stu-id="ca36f-159">Each offer needs at least one plan selected in order for the update to occur.</span></span> <span data-ttu-id="ca36f-160">Aby usunąć wszystkie plany związane z ofertą, Usuń całą ofertę (zobacz następną sekcję).</span><span class="sxs-lookup"><span data-stu-id="ca36f-160">To remove all plans related to an offer, delete the entire offer (see next section).</span></span>
 
-## <a name="delete-offers"></a><span data-ttu-id="5e47d-160">Usuń oferty</span><span class="sxs-lookup"><span data-stu-id="5e47d-160">Delete offers</span></span>
+## <a name="delete-offers"></a><span data-ttu-id="ca36f-161">Usuń oferty</span><span class="sxs-lookup"><span data-stu-id="ca36f-161">Delete offers</span></span>
 
-<span data-ttu-id="5e47d-161">Na stronie zarządzanie rynkiem Marketplace zaznacz pole wyboru obok nazwy oferty (zobacz ekran powyżej) i wybierz pozycję **Usuń elementy**.</span><span class="sxs-lookup"><span data-stu-id="5e47d-161">In the Manage Marketplace page, select the check box next to the offer name (see screen above) and select **Delete items**.</span></span>
+<span data-ttu-id="ca36f-162">Na stronie zarządzanie rynkiem Marketplace zaznacz pole wyboru obok nazwy oferty (zobacz ekran powyżej) i wybierz pozycję **Usuń elementy**.</span><span class="sxs-lookup"><span data-stu-id="ca36f-162">In the Manage Marketplace page, select the check box next to the offer name (see screen above) and select **Delete items**.</span></span>
 
-## <a name="enabledisable-private-azure-marketplace"></a><span data-ttu-id="5e47d-162">Włączanie/wyłączanie prywatnego portalu Azure Marketplace</span><span class="sxs-lookup"><span data-stu-id="5e47d-162">Enable/disable Private Azure Marketplace</span></span>
+## <a name="enabledisable-private-azure-marketplace"></a><span data-ttu-id="ca36f-163">Włączanie/wyłączanie prywatnego portalu Azure Marketplace</span><span class="sxs-lookup"><span data-stu-id="ca36f-163">Enable/disable Private Azure Marketplace</span></span>
 
-<span data-ttu-id="5e47d-163">Na stronie zarządzanie rynkiem Marketplace zostanie wyświetlony jeden z następujących transparentów, który pokazuje bieżący stan prywatnego portalu Azure Marketplace:</span><span class="sxs-lookup"><span data-stu-id="5e47d-163">In the Manage Marketplace page you will see one of these banners, which show the current state of Private Azure Marketplace:</span></span>
+<span data-ttu-id="ca36f-164">Na stronie zarządzanie rynkiem Marketplace zostanie wyświetlony jeden z następujących transparentów, który pokazuje bieżący stan prywatnego portalu Azure Marketplace:</span><span class="sxs-lookup"><span data-stu-id="ca36f-164">In the Manage Marketplace page you will see one of these banners, which show the current state of Private Azure Marketplace:</span></span>
 
 :::image type="content" source="media/private-azure/state-disable.png" alt-text="Wyłącz transparent stanu":::
 
 :::image type="content" source="media/private-azure/state-enable.png" alt-text="Włącz transparent stanu":::
 
-<span data-ttu-id="5e47d-166">Możesz włączyć lub wyłączyć prywatny Portal Azure Marketplace zgodnie z wymaganiami.</span><span class="sxs-lookup"><span data-stu-id="5e47d-166">You can enable or disable Private Azure Marketplace as needed.</span></span>
+<span data-ttu-id="ca36f-167">Możesz włączyć lub wyłączyć prywatny Portal Azure Marketplace zgodnie z wymaganiami.</span><span class="sxs-lookup"><span data-stu-id="ca36f-167">You can enable or disable Private Azure Marketplace as needed.</span></span>
 
-1. <span data-ttu-id="5e47d-167">Jeśli ta opcja jest wyłączona, wybierz pozycję **Włącz prywatną witrynę Marketplace** , aby włączyć.</span><span class="sxs-lookup"><span data-stu-id="5e47d-167">If disabled, select **Enable Private Marketplace** to enable.</span></span>
-2. <span data-ttu-id="5e47d-168">Jeśli ta opcja jest włączona, wybierz pozycję **Wyłącz prywatną witrynę Marketplace** , aby wyłączyć.</span><span class="sxs-lookup"><span data-stu-id="5e47d-168">If enabled, select **Disable Private Marketplace** to disable.</span></span>
+1. <span data-ttu-id="ca36f-168">Jeśli ta opcja jest wyłączona, wybierz pozycję **Włącz prywatną witrynę Marketplace** , aby włączyć.</span><span class="sxs-lookup"><span data-stu-id="ca36f-168">If disabled, select **Enable Private Marketplace** to enable.</span></span>
+2. <span data-ttu-id="ca36f-169">Jeśli ta opcja jest włączona, wybierz pozycję **Wyłącz prywatną witrynę Marketplace** , aby wyłączyć.</span><span class="sxs-lookup"><span data-stu-id="ca36f-169">If enabled, select **Disable Private Marketplace** to disable.</span></span>
 
-## <a name="browsing-private-azure-marketplace"></a><span data-ttu-id="5e47d-169">Przeglądanie prywatnego portalu Azure Marketplace</span><span class="sxs-lookup"><span data-stu-id="5e47d-169">Browsing Private Azure Marketplace</span></span>
+## <a name="browsing-private-azure-marketplace"></a><span data-ttu-id="ca36f-170">Przeglądanie prywatnego portalu Azure Marketplace</span><span class="sxs-lookup"><span data-stu-id="ca36f-170">Browsing Private Azure Marketplace</span></span>
 
-<span data-ttu-id="5e47d-170">Po włączeniu prywatnego portalu Azure Marketplace użytkownicy będą widzieć, które plany mogą być dozwolone dla administratorów portalu Marketplace.</span><span class="sxs-lookup"><span data-stu-id="5e47d-170">When Private Azure Marketplace is enabled, users will see which plans the Marketplace admin has allowed.</span></span>
+<span data-ttu-id="ca36f-171">Po włączeniu prywatnego portalu Azure Marketplace użytkownicy będą widzieć, które plany mogą być dozwolone dla administratorów portalu Marketplace.</span><span class="sxs-lookup"><span data-stu-id="ca36f-171">When Private Azure Marketplace is enabled, users will see which plans the Marketplace admin has allowed.</span></span>
 
-- <span data-ttu-id="5e47d-171">Zielona **dozwolona** informacja to oferta partnera (firmy innej niż Microsoft), która jest dozwolona.</span><span class="sxs-lookup"><span data-stu-id="5e47d-171">A green **Allowed** notice indicates a Partner (non-Microsoft) offer that is allowed.</span></span>
-- <span data-ttu-id="5e47d-172">Niebieska **dopuszczalna** informacja wskazuje, że oferta firmy Microsoft jest dozwolona.</span><span class="sxs-lookup"><span data-stu-id="5e47d-172">A blue **Allowed** notice indicates a Microsoft offer that is allowed.</span></span>
+- <span data-ttu-id="ca36f-172">Zielona **dozwolona** informacja to oferta partnera (firmy innej niż Microsoft), która jest dozwolona.</span><span class="sxs-lookup"><span data-stu-id="ca36f-172">A green **Allowed** notice indicates a Partner (non-Microsoft) offer that is allowed.</span></span>
+- <span data-ttu-id="ca36f-173">Niebieska **dopuszczalna** informacja wskazuje, że oferta firmy Microsoft jest dozwolona.</span><span class="sxs-lookup"><span data-stu-id="ca36f-173">A blue **Allowed** notice indicates a Microsoft offer that is allowed.</span></span>
 
-<span data-ttu-id="5e47d-173">Użytkownicy mogą filtrować między ofertami, które są niedozwolone:</span><span class="sxs-lookup"><span data-stu-id="5e47d-173">Users can filter between offers that are and are not allowed:</span></span>
+<span data-ttu-id="ca36f-174">Użytkownicy mogą filtrować między ofertami, które są niedozwolone:</span><span class="sxs-lookup"><span data-stu-id="ca36f-174">Users can filter between offers that are and are not allowed:</span></span>
 
 :::image type="content" source="media/private-azure/filter-option.png" alt-text="Opcja filtrowania.":::
 
-## <a name="buy-or-deploy-in-private-azure-marketplace"></a><span data-ttu-id="5e47d-175">Kup lub Wdróż w prywatnym portalu Azure Marketplace</span><span class="sxs-lookup"><span data-stu-id="5e47d-175">Buy or deploy in Private Azure Marketplace</span></span>
+## <a name="buy-or-deploy-in-private-azure-marketplace"></a><span data-ttu-id="ca36f-176">Kup lub Wdróż w prywatnym portalu Azure Marketplace</span><span class="sxs-lookup"><span data-stu-id="ca36f-176">Buy or deploy in Private Azure Marketplace</span></span>
 
-<span data-ttu-id="5e47d-176">Chociaż środowisko strony szczegółów produktu przypomina publiczną witrynę Azure Marketplace, istnieją trzy scenariusze specyficzne dla platformy Azure Marketplace.</span><span class="sxs-lookup"><span data-stu-id="5e47d-176">While the product details page experience is similar to the public Azure Marketplace, there are three Private Azure Marketplace specific scenarios.</span></span>
+<span data-ttu-id="ca36f-177">Chociaż środowisko strony szczegółów produktu przypomina publiczną witrynę Azure Marketplace, istnieją trzy scenariusze specyficzne dla platformy Azure Marketplace.</span><span class="sxs-lookup"><span data-stu-id="ca36f-177">While the product details page experience is similar to the public Azure Marketplace, there are three Private Azure Marketplace specific scenarios.</span></span>
 
-- <span data-ttu-id="5e47d-177">Gdy użytkownik wybierze dozwolony plan, przycisk **Utwórz** jest włączony:</span><span class="sxs-lookup"><span data-stu-id="5e47d-177">When a user selects an allowed plan, the **Create** button is enabled:</span></span>
+- <span data-ttu-id="ca36f-178">Gdy użytkownik wybierze dozwolony plan, przycisk **Utwórz** jest włączony:</span><span class="sxs-lookup"><span data-stu-id="ca36f-178">When a user selects an allowed plan, the **Create** button is enabled:</span></span>
 
     :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="Baner oferty z uwzględnieniem planu można utworzyć.":::
 
-- <span data-ttu-id="5e47d-179">Gdy użytkownik wybierze niedozwolony plan, transparent nie jest dozwolony, a przycisk **Utwórz** jest wyłączony.</span><span class="sxs-lookup"><span data-stu-id="5e47d-179">When a user selects a non-allowed plan, a banner notes that the plan is not allowed and the **Create** button is disabled.</span></span>
+- <span data-ttu-id="ca36f-180">Gdy użytkownik wybierze niedozwolony plan, transparent nie jest dozwolony, a przycisk **Utwórz** jest wyłączony.</span><span class="sxs-lookup"><span data-stu-id="ca36f-180">When a user selects a non-allowed plan, a banner notes that the plan is not allowed and the **Create** button is disabled.</span></span>
 
    :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="Baner oferty nie można utworzyć planu.":::
 
-- <span data-ttu-id="5e47d-181">Jeśli wybór planu produktu nie jest wyświetlany na stronie Szczegóły produktu, ale administrator zatwierdził jeden lub więcej planów, transparenty, które plany są dozwolone i przycisk **Utwórz** jest włączony:</span><span class="sxs-lookup"><span data-stu-id="5e47d-181">If a product plan selection does not appear in the product details page but the admin approved one or more plans, a banner notes which plans are allowed and the **Create** button is enabled:</span></span>
+- <span data-ttu-id="ca36f-182">Jeśli wybór planu produktu nie jest wyświetlany na stronie Szczegóły produktu, ale administrator zatwierdził jeden lub więcej planów, transparenty, które plany są dozwolone i przycisk **Utwórz** jest włączony:</span><span class="sxs-lookup"><span data-stu-id="ca36f-182">If a product plan selection does not appear in the product details page but the admin approved one or more plans, a banner notes which plans are allowed and the **Create** button is enabled:</span></span>
 
     :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Baner oferty z uwzględnieniem planu można utworzyć i pokazać dostępne plany.":::
 
-## <a name="contact-support"></a><span data-ttu-id="5e47d-183">Kontakt z pomocą techniczną</span><span class="sxs-lookup"><span data-stu-id="5e47d-183">Contact support</span></span>
+## <a name="contact-support"></a><span data-ttu-id="ca36f-184">Kontakt z pomocą techniczną</span><span class="sxs-lookup"><span data-stu-id="ca36f-184">Contact support</span></span>
 
-<span data-ttu-id="5e47d-184">Aby uzyskać pomoc techniczną dotyczącą platformy Azure Marketplace, odwiedź stronę [Microsoft Q&A](/answers/products/).</span><span class="sxs-lookup"><span data-stu-id="5e47d-184">For Azure Marketplace support, visit [Microsoft Q&A](/answers/products/).</span></span> 
+<span data-ttu-id="ca36f-185">Aby uzyskać pomoc techniczną dotyczącą platformy Azure Marketplace, odwiedź stronę [Microsoft Q&A](/answers/products/).</span><span class="sxs-lookup"><span data-stu-id="ca36f-185">For Azure Marketplace support, visit [Microsoft Q&A](/answers/products/).</span></span> 
