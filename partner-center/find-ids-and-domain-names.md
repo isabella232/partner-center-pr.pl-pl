@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b88d6e11c7f4d56cf58d136a91b530688b3e5413
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: cb0325aae30fe57a4be2be3e37bca1ee6aa1eab8
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360075"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439241"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Lokalizowanie ważnych identyfikatorów dla użytkownika
 
@@ -33,7 +33,7 @@ Wykonaj następujące kroki, aby zlokalizować identyfikator dzierżawy usługi 
 > [!NOTE]
 > Identyfikator dzierżawy może być nazywany różnymi nazwami w różnych aplikacjach lub zasobach. Na przykład identyfikator dzierżawy może być określany jako identyfikator katalogu, dzierżawa usługi Azure Active Directory (Azure AD), identyfikator firmy Microsoft lub dla niektórych raportów, nawet *tenantguid*.
 
-1. Zaloguj się do [Azure portal](https://portal.azure.com/).
+1. Zaloguj się w witrynie [Azure Portal](https://portal.azure.com/).
 
 2. Wybierz **Azure Active Directory** z menu.
 
@@ -53,7 +53,7 @@ Wykonaj następujące kroki, aby zlokalizować identyfikator dzierżawy usługi 
 
 Po prostu znalezienie nazwy domeny i identyfikatora dzierżawy może nie zawsze być wystarczające. Może być również konieczne znalezienie określonego identyfikatora obiektu przypisanego do użytkownika. Wykonaj następujące kroki, aby znaleźć identyfikator obiektu użytkownika w Azure Portal:
 
-1. Zaloguj się do [Azure portal](https://portal.azure.com/).
+1. Zaloguj się w witrynie [Azure Portal](https://portal.azure.com/).
 
 2. Wybierz **Azure Active Directory** z menu.
 
@@ -78,3 +78,4 @@ Po prostu znalezienie nazwy domeny i identyfikatora dzierżawy może nie zawsze 
 - [Programowe Znajdowanie identyfikatora dzierżawy za pomocą programu PowerShell lub interfejsu wiersza polecenia](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - [Dowiedz się więcej o profilach użytkowników w Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 - [Dowiedz się, w jaki sposób partnerzy mogą zobaczyć lub wyeksportować szczegóły klienta w centrum partnerskim](see-your-customer-list.md)
+

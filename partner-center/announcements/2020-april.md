@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: cf83cd6eedf982a416f683fa1767e7afa23200c1
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132998"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439134"
 ---
 # <a name="april-2020-announcements"></a>Ogłoszenia z kwietnia 2020 r.
 
@@ -30,8 +30,8 @@ _________________
 
 - Data: 2020-04-30
 - Typ: możliwości
-- Stan: wkrótce
-- [Dowiedz się więcej](https://aka.ms/CSPCOVIDPromo)
+
+
 
 ### <a name="summary"></a>Podsumowanie
 
@@ -49,7 +49,7 @@ W dniu 4 maja 2020 firma Microsoft wprowadzi nowe promocje dotyczące rabatu dla
 Te promocje zastąpią bieżącą ofertę wersji próbnej pakietu Office 365 E1 i różnią się w następujący sposób:
 
 - Partnerzy będą transakcję w języku bazowym pakietu Office 365 E1 lub Microsoft 365 Business podstawowych jednostek SKU korzystających z usług kryptograficznych dla dostawcy CSP, którzy stosują rabat w wysokości 100% przez pierwsze 6 miesięcy, a nie do unikatowej 6-miesięcznej jednostki SKU. [Dowiedz się więcej na temat promocji usług kryptograficznych](../promotions.md).
-- Kolejność zostanie technicznie ograniczona do "nowych klientów", a nie od wersji próbnej pakietu Office 365 E1, która została ograniczona do nowych klientów wyłącznie przez zapisanie zasad. Dowiedz się więcej, przeglądając [często zadawane pytania dotyczące partnerów firmy Microsoft](https://aka.ms/CSPCOVIDPromo).
+- Kolejność zostanie technicznie ograniczona do "nowych klientów", a nie od wersji próbnej pakietu Office 365 E1, która została ograniczona do nowych klientów wyłącznie przez zapisanie zasad. 
 - W przypadku klientów korzystających z protokołu SMB w ramach tej promocji zostanie uwzględniona Microsoft 365 Business podstawowa. Dzięki temu partnerzy mogą zacząć klientom z mniej niż 300 miejsc w odpowiedniej rodzinie produktów, Microsoft 365 dla firm.
 Obecnie klienci korzystający z wersji próbnej pakietu Office 365 E1 (dostępną do 4 maja 2020) będą pozostawać w bieżącym planie — ta zmiana ma wpływ tylko na nowych klientów.
 
@@ -58,12 +58,13 @@ Definicja nowych klientów
 Nowi klienci uprawnieni do tej promocji to:
 
 1. Nowe dzierżawy klientów w sieci
-2. Istniejący klienci, którzy nie mają obecnie płatnych lub ostatnio anulowanych subskrypcji (w ciągu ostatnich 30 dni) w swojej dzierżawie dla każdego produktu zdefiniowanego w ramach usługi [partner firmy Microsoft — często zadawane pytania](https://aka.ms/CSPCOVIDPromo).
+2. Istniejący klienci, którzy nie mają obecnie płatnych lub ostatnio anulowanych subskrypcji (w ciągu ostatnich 30 dni) w swojej dzierżawie dla każdego produktu zdefiniowanego w ramach usługi partner firmy Microsoft — często zadawane pytania
 
-### <a name="additional-resources"></a>Dodatkowe zasoby
+ 
+### <a name="additional-resources"></a>Zasoby dodatkowe
 
 - Przejdź do [centrum zdalnych zasobów roboczych partnera](https://www.microsoft.com/microsoft-365/partners/remotework) , aby dowiedzieć się więcej na temat bezpiecznego zdalnego działania.
-- Dowiedz się więcej o tych zmianach z [często zadawanych pytań dotyczących partnera](https://aka.ms/CSPCOVIDPromo).
+
 
 ### <a name="next-steps"></a>Następne kroki
 
@@ -168,16 +169,16 @@ Większe i aktualne zabezpieczenia dotyczące zabezpieczeń i ochrony prywatnoś
 
 Ostatnio pomyślnie zakończono aktywowanie zabezpieczeń w ramach funkcji administratora w imieniu (AOBO) dla wszystkich dzierżawców partnerów, chroniąc ich firmy i klientów przed zdarzeniami związanymi z kradzieżą tożsamości.
 
-Aby pomóc w ulepszaniu partnerów i klientów, **od 1 maja 2020, zaczniemy aktywować zabezpieczenia dla transakcji Centrum partnerskiego w dostawcy usług kryptograficznych** . W ramach aktywacji dodatkowych zabezpieczeń należy zwrócić uwagę na to, że partnerzy będą mogli korzystać z uwierzytelniania wieloskładnikowego (MFA) dla wszystkich transakcji w programie CSP przy użyciu środowiska użytkownika lub interfejsów API Centrum partnerskiego, co uniemożliwia nieautoryzowany dostęp oraz ochronę swoich klientów i dzierżawców przed zdarzeniami zabezpieczeń związanymi z kradzieżą tożsamości. Więcej informacji znajdziesz [tutaj](../partner-security-requirements-mandating-mfa.md).
+Aby pomóc w ulepszaniu partnerów i klientów, **od 1 maja 2020, zaczniemy aktywować zabezpieczenia dla transakcji Centrum partnerskiego w dostawcy usług kryptograficznych**. W ramach aktywacji dodatkowych zabezpieczeń należy zwrócić uwagę na to, że partnerzy będą mogli korzystać z uwierzytelniania wieloskładnikowego (MFA) dla wszystkich transakcji w programie CSP przy użyciu środowiska użytkownika lub interfejsów API Centrum partnerskiego, co uniemożliwia nieautoryzowany dostęp oraz ochronę swoich klientów i dzierżawców przed zdarzeniami zabezpieczeń związanymi z kradzieżą tożsamości. Więcej informacji znajdziesz [tutaj](../partner-security-requirements-mandating-mfa.md).
 
 ### <a name="next-steps"></a>Następne kroki
 
-- **Jeśli nie zostały aktywowane zalecane wymagania dotyczące zabezpieczeń w celu ochrony dzierżawy i użytkowników** , należy natychmiast zachować zgodność i uniknąć przerw w działaniu firmy w zarządzaniu klientami lub transakcyjnych w programie CSP. Partnerzy, którzy nie implementują wymagań związanych z bezpieczeństwem, mogą w niebezpieczeństwie uczestniczyć w programie CSP.
+- **Jeśli nie zostały aktywowane zalecane wymagania dotyczące zabezpieczeń w celu ochrony dzierżawy i użytkowników**, należy natychmiast zachować zgodność i uniknąć przerw w działaniu firmy w zarządzaniu klientami lub transakcyjnych w programie CSP. Partnerzy, którzy nie implementują wymagań związanych z bezpieczeństwem, mogą w niebezpieczeństwie uczestniczyć w programie CSP.
 - Dostawcy pośrednim muszą zaimplementować te wymagania dotyczące zabezpieczeń dla własnych firm i współpracować z odsprzedawcami, aby upewnić się, że spełniają one wymagania, a także przy użyciu tego szablonu wiadomości e-mail. Będziemy również bezpośrednio skontaktować się z odsprzedawcami za pośrednictwem wiadomości e-mail.
 - Odwiedź [stronę stanu wymagań zabezpieczeń Centrum partnerskiego](https://partner.microsoft.com/commerce/security/compliance) , aby określić postęp i kluczowe akcje do wykonania. Skontaktuj się z administratorem globalnym, aby sprawdzić postęp wymagań związanych z zabezpieczeniami regularnie dla każdej dzierżawy.
 - Jeśli używasz rozwiązania dostawcy panelu sterowania (CPV), zapoznaj się z tym CPV.
 
-### <a name="additional-resources"></a>Dodatkowe zasoby
+### <a name="additional-resources"></a>Zasoby dodatkowe
 
 Przejrzyj te zasoby, aby pomóc w zaimplementowaniu wymagań dotyczących zabezpieczeń.
 
@@ -237,7 +238,7 @@ Aby uzyskać dostęp do zmian, wykonaj następujące kroki:
 
 Alternatywnie Zaloguj się do Centrum partnerskiego i przejdź do [tego adresu URL](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c007d538-f817-84e3-06b5-ff4005c1a6bb).
 
-### <a name="additional-resources"></a>Dodatkowe zasoby
+### <a name="additional-resources"></a>Zasoby dodatkowe
 
 Aby uzyskać więcej informacji na temat umowy klienta firmy Microsoft, zapoznaj się z kolekcją [tutaj](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
 
@@ -280,7 +281,7 @@ Udostępnij te informacje odpowiednim kontaktom w organizacji. Może to być wsp
 
 Więcej informacji publicznych będzie można uzyskać w dalszej części roku, aby udostępnić je klientom.
 
-### <a name="additional-resources"></a>Dodatkowe zasoby
+### <a name="additional-resources"></a>Zasoby dodatkowe
 
 - Aby uzyskać więcej informacji, odwiedź stronę [zaawansowanej ochrony przed zagrożeniami w usłudze Microsoft Defender](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp) .
 - Zapoznaj się z [dokumentacją Azure Security Center](/azure/security-center/) , aby uzyskać więcej informacji dotyczących Azure Security Center.
@@ -560,7 +561,7 @@ Od 1 kwietnia 2020 handlu elektronicznego oferty mają nazwę wyświetlaną i/lu
 |Wyświetl i PFAM|Dynamics 365 Commerce Cloud Scale Unit w warstwie Standardowa|Dynamics 365 Commerce — jednostka skalowania Basic — chmura|
 |Wyświetl i PFAM|Dynamics 365 Commerce Cloud Scale Unit — wersja Premium|Dynamics 365 Commerce Scale Unit — wersja Premium — chmura|
 
-### <a name="additional-resources"></a>Dodatkowe zasoby
+### <a name="additional-resources"></a>Zasoby dodatkowe
 
 - [Strona główna Dynamics 365](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [Strona główna przewodnika po aplikacjach dla rzeczywistości mieszanej](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
@@ -621,7 +622,7 @@ Lokalizacja zasobów gotowości do operacji w usłudze partner.microsoft.com bę
 Co należy zrobić, aby przygotować?
 
 - **Dowiedz się więcej** o nowej lokalizacji witryny sieci Web partnera firmy Microsoft dla zasobów gotowości do obsługi operacji, przeglądając zaktualizowane materiały gotowości w kolekcji galerii, które udostępniają teraz [zasoby gotowości do wykonania operacji w jednym miejscu](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/).
-- Zapoznaj się z przedstawicielem **społeczności partnerów z kwietnia** , gdzie można dowiedzieć się więcej o nowym doświadczeniu i zadawać pytania: [https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)
+- Zapoznaj się z przedstawicielem **społeczności partnerów z kwietnia** , gdzie można dowiedzieć się więcej o nowym doświadczeniu i zadawać pytania:[https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)
 
 ### <a name="questions"></a>Masz pytania?
 

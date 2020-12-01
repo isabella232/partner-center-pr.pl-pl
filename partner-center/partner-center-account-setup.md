@@ -9,18 +9,18 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 81ca02a0fb93f88893e7339d63deec55b6913d9c
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 45b924fa9143d1b4947e5b88c2e14c41c4451d19
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038935"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439002"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Zarządzanie kontem Centrum partnerskiego — profil firmy, informacje o banku, role, uprawnienia i inne
 
-Konto utworzone w centrum partnerskim po zarejestrowaniu to służbowy adres e-mail i informacje biznesowe. Po utworzeniu konta należy skonfigurować pełny profil firmy, w tym szczegóły pomocy technicznej, zwolnienia z podatku, jeśli to konieczne, oraz podstawowe informacje kontaktowe. Konto Twojej firmy będzie również obejmowało konta użytkowników dla wszystkich osób, które będą korzystać z Centrum partnerskiego do dodawania klientów i zarządzania nimi, sprzedaży subskrypcji, pracy z rozliczeniami i fakturowania, tworzenia profilów biznesowych, zarządzania odwołaniami, pracy z programami zachęt i zapewnienia pomocy technicznej.
-
 **Odpowiednie role** — Administrator globalny, administrator MPN
+
+Konto utworzone w centrum partnerskim po zarejestrowaniu to służbowy adres e-mail i informacje biznesowe. Po utworzeniu konta należy skonfigurować pełny profil firmy, w tym szczegóły pomocy technicznej, zwolnienia z podatku, jeśli to konieczne, oraz podstawowe informacje kontaktowe. Konto Twojej firmy będzie również obejmowało konta użytkowników dla wszystkich osób, które będą korzystać z Centrum partnerskiego do dodawania klientów i zarządzania nimi, sprzedaży subskrypcji, pracy z rozliczeniami i fakturowania, tworzenia profilów biznesowych, zarządzania odwołaniami, pracy z programami zachęt i zapewnienia pomocy technicznej.
 
 Zobacz też artykuły [zapraszanie pracowników do dołączenia do Centrum partnerskiego](guide-to-migration.md) i [Dodawanie nowego użytkownika](create-user-accounts-and-set-permissions.md).
 
