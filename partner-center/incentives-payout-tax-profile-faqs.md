@@ -1,25 +1,21 @@
 ---
 title: Zachęty wypłaty i profil podatkowy — często zadawane pytania
 ms.topic: article
-ms.date: 10/27/2020
+ms.date: 12/01/2020
 description: Często zadawane pytania dotyczące zachęt i profilów podatkowych. Pytania zawierają informacje o tym, dlaczego nie można zobaczyć wypłat i profilów podatkowych i co należy zrobić.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 7fae97fb1a527ab557d76bd3b5fd738315271899
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: d7a5e5ae5fa8bd23c3158efe7c0880f67544f9b9
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133137"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474329"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>Często zadawane pytania dotyczące zachęt i profilów podatkowych
-
-Dotyczy:
-
-- Centrum partnerskie
 
 Odpowiednie role:
 
@@ -35,7 +31,7 @@ Aby otrzymywać wypłaty dla programów zachęt firmy Microsoft, musisz ukończy
 
 Wszyscy partnerzy rejestrowani w nowym programie zachęty muszą zapewnić prawidłowe wypłaty oraz szczegóły podatku, aby zakończyć rejestrację.
 
-Może być również konieczne podanie zaktualizowanych informacji w przypadku zmiany reguł programu motywacyjnego lub ich wygaśnięcia lub nieaktualnych wartości. W takim przypadku na stronie przeglądu zostanie wyświetlony stan **wymagana akcja — aktualizacja banku i/lub profilu podatkowego** .
+Może być również konieczne podanie zaktualizowanych informacji w przypadku zmiany reguł programu motywacyjnego lub ich wygaśnięcia lub nieaktualnych wartości. W takim przypadku na stronie przeglądu zostanie wyświetlony stan **wymagana akcja — aktualizacja banku i/lub profilu podatkowego**.
 
 ## <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>Jak mogę udostępnić/zaktualizować moje wypłaty i/lub dane podatkowe?
 
@@ -51,11 +47,11 @@ Poniższa procedura umożliwia wyświetlenie wypłat i profilów podatkowych:
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard).
 
-2. Wybierz ikonę koła zębatego, aby otworzyć menu **Ustawienia** .
+2. Wybierz ikonę koła zębatego, aby otworzyć menu **Ustawienia**.
 
-3. Wybierz pozycję **Ustawienia partnera** .
+3. Wybierz pozycję **Ustawienia partnera**.
 
-4. W obszarze **Ustawienia konta** wybierz pozycję **Wypłata i podatek** , a następnie wybierz pozycję **Profil wypłaty i profil podatkowy** . Zobaczysz wszystkie istniejące profile płatności i profile podatkowe wraz ze stanem i możliwością edycji.
+4. W obszarze **Ustawienia konta** wybierz pozycję **Wypłata i podatek**, a następnie wybierz pozycję **Profil wypłaty i profil podatkowy**. Zobaczysz wszystkie istniejące profile płatności i profile podatkowe wraz ze stanem i możliwością edycji.
 
 ## <a name="my-organization-is-participating-in-multiple-incentive-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>Moja organizacja uczestniczy w wielu programach zachęty. Czy muszę wprowadzić swoją płatność i profil podatkowy wielokrotnie?
 
@@ -75,17 +71,19 @@ Jeśli profil podatkowy wygasł lub wkrótce wygaśnie, oznacza to, że należy 
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 
-2. Wybierz ikonę koła zębatego, aby otworzyć menu **Ustawienia** .
+2. Wybierz ikonę koła zębatego, aby otworzyć menu **Ustawienia**.
 
-3. W obszarze **Ustawienia konta** wybierz pozycję **Wypłata i podatek** , a następnie wybierz pozycję **Profil wypłaty i profil podatkowy** .
+3. W obszarze **Ustawienia konta** wybierz pozycję **Wypłata i podatek**, a następnie wybierz pozycję **Profil wypłaty i profil podatkowy**.
 
-4. Wybierz pozycję **profil podatkowy** .
+4. Wybierz pozycję **profil podatkowy**.
 
 5. Wybierz kolumnę **Data wygaśnięcia** , a następnie przejdź do profilu podatkowego, który wygasł lub wkrótce wygaśnie.
 
 6. Wybierz pozycję **Edytuj** , aby rozpocząć proces edytowania profilu podatkowego.
 
-7. Aby zaktualizować formularze podatkowe, należy podać wymagane szczegóły.
+7. Poszukaj sekcji **formularz podatkowy** , a następnie wybierz pozycję **Uruchom formularz podatkowy**.
+
+8. Aby zaktualizować formularze podatkowe, należy podać wymagane szczegóły.
 
 ## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>W jaki sposób firma Microsoft zapewnia, że informacje o Banku są rzeczywiście używane przez firmę, a nie na koncie osobistego banku pracownika?
 

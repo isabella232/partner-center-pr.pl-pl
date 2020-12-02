@@ -9,26 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fc208283e0ed8c0f164a44cc9bd70260b8671c6e
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530628"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474074"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Zarządzanie użytkownikami i licencjami użytkowników dla kont klientów
-
-**Dotyczy**
-
-- Centrum partnerskie
 
 **Odpowiednie role**
 
 - Administrator globalny
 - Administrator zarządzania użytkownikami
 - Agent administracyjny
-- Agent sprzedaży
-- Agent pomocy technicznej
+
 
 Możesz tworzyć i usuwać nowych użytkowników na koncie klienta. Można również przywrócić co najmniej jedno konto użytkownika, które zostało wcześniej usunięte w ciągu 30 dni od usunięcia. Zostaną również przywrócone poprzednie przypisania subskrypcji użytkownika (przy założeniu, że ich poprzednie alokacje są dostępne).
 
@@ -42,15 +37,15 @@ Możesz jednocześnie [przypisać subskrypcje do wielu użytkowników](bulk-lice
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
 
-2. W menu Centrum partnerskiego wybierz pozycję **klienci** , a następnie wybierz klienta z listy.
+2. W menu Centrum partnerskiego wybierz pozycję **klienci**, a następnie wybierz klienta z listy.
 
-3. W menu Klient wybierz pozycję **Użytkownicy i licencje** .
+3. W menu Klient wybierz pozycję **Użytkownicy i licencje**.
 
-4. Dla każdego dodawanego użytkownika wybierz pozycję **Dodaj subskrypcję** , a następnie wprowadź informacje, w tym uprawnienia i licencje. **Zapisz** zmiany.
+4. Dla każdego dodawanego użytkownika wybierz pozycję **Dodaj subskrypcję**, a następnie wprowadź informacje, w tym uprawnienia i licencje. **Zapisz** zmiany.
 
 5. Pamiętaj o zarejestrowaniu nazwy użytkownika i hasła tymczasowego do wysłania do użytkownika.
 
-6. W przypadku dodawania wielu użytkowników pojedynczo przy użyciu **Dodaj innego użytkownika** .
+6. W przypadku dodawania wielu użytkowników pojedynczo przy użyciu **Dodaj innego użytkownika**.
 
 7. Możesz również jednocześnie dodać wielu użytkowników, [importując plik arkusza kalkulacyjnego zgodnego z programem Excel](adding-multiple-users-to-a-customer-account.md). Możesz poczekać, aż wszystko będzie gotowe z całego zestawu przed wysłaniem poczty e-mail lub wydrukowaniem nazw i haseł na ekranie potwierdzenia.
 
@@ -62,13 +57,13 @@ Poniższe kroki dotyczą dodawania lub usuwania licencji użytkowników dla prod
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
 
-2. W menu Centrum partnerskiego wybierz pozycję **klienci** , a następnie wybierz klienta z listy.
+2. W menu Centrum partnerskiego wybierz pozycję **klienci**, a następnie wybierz klienta z listy.
 
-3. W menu Klient wybierz pozycję **Użytkownicy i licencje** .
+3. W menu Klient wybierz pozycję **Użytkownicy i licencje**.
 
 4. Wybierz co najmniej jednego użytkownika z listy. Jeśli na przykład klient zakupił nowe licencje i chcesz przypisać je do osób, które ich nie mają jeszcze, możesz użyć opcji **Filtruj użytkowników przez...** , aby znaleźć odpowiednią grupę.
 
-5. Wybierz pozycję **Zarządzaj licencjami** . Wprowadź zmiany, a następnie **Zapisz** .
+5. Wybierz pozycję **Zarządzaj licencjami**. Wprowadź zmiany, a następnie **Zapisz**.
 
 > [!NOTE]
 > W przypadku [produktów portalu Azure Marketplace](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)przypisanie licencji i aktywacja jest zarządzane za pomocą niezależnego dostawcy oprogramowania (ISV), który opublikował produkt.
@@ -79,11 +74,11 @@ Poniższe kroki dotyczą dodawania lub usuwania licencji użytkowników dla prod
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
 
-2. W menu Centrum partnerskiego wybierz pozycję **klienci** , a następnie wybierz klienta z listy.
+2. W menu Centrum partnerskiego wybierz pozycję **klienci**, a następnie wybierz klienta z listy.
 
-3.  W menu Klient wybierz pozycję **Użytkownicy i licencje** . Wybierz użytkownika z listy.
+3.  W menu Klient wybierz pozycję **Użytkownicy i licencje**. Wybierz użytkownika z listy.
 
-4.  W dolnej części ekranu wybierz pozycję **Resetuj hasło** . 
+4.  W dolnej części ekranu wybierz pozycję **Resetuj hasło**. 
 
 5.  Wyślij nowe hasło tymczasowe do użytkownika.
 
@@ -91,11 +86,11 @@ Poniższe kroki dotyczą dodawania lub usuwania licencji użytkowników dla prod
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Usuwanie kont użytkowników dla klienta
 
-1.  W menu **Centrum partnerskiego** wybierz pozycję **Customers** . Wybierz klienta z listy.
+1.  W menu **Centrum partnerskiego** wybierz pozycję **Customers**. Wybierz klienta z listy.
 
-2.  W menu Klient wybierz pozycję **Użytkownicy i licencje** . Wybierz użytkownika z listy.
+2.  W menu Klient wybierz pozycję **Użytkownicy i licencje**. Wybierz użytkownika z listy.
 
-3.  W dolnej części ekranu wybierz pozycję **Usuń konto użytkownika** .
+3.  W dolnej części ekranu wybierz pozycję **Usuń konto użytkownika**.
 
 Jeśli musisz przywrócić to konto, możesz je znaleźć na karcie **usunięci użytkownicy** na liście **Użytkownicy i licencje** klienta. Użytkownik ma 30 dni na przywrócenie usuniętego użytkownika.
 
@@ -103,13 +98,13 @@ Jeśli musisz przywrócić to konto, możesz je znaleźć na karcie **usunięci 
 
 ## <a name="restore-deleted-user-accounts"></a>Przywracanie usuniętych kont użytkowników
 
-1.  W menu **Centrum partnerskiego** wybierz pozycję **klienci** , a następnie wybierz klienta z listy.
+1.  W menu **Centrum partnerskiego** wybierz pozycję **klienci**, a następnie wybierz klienta z listy.
 
-2.  Wybierz pozycję **Użytkownicy i licencje** .
+2.  Wybierz pozycję **Użytkownicy i licencje**.
 
 3.  Wybierz kartę **usunięci użytkownicy ()** . Po usunięciu użytkowników, które mogą zostać przywrócone, należy przeczytać **(1)** lub więcej.
 
-4.  Wybierz co najmniej jeden z pól wyboru usuniętych użytkowników, a następnie wybierz pozycję **Przywróć** .
+4.  Wybierz co najmniej jeden z pól wyboru usuniętych użytkowników, a następnie wybierz pozycję **Przywróć**.
 
     Wszystkie wybrane konta użytkowników zostaną wyświetlone na stronie **Użytkownicy i licencje** .
 

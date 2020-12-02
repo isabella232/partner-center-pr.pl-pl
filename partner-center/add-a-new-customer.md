@@ -9,20 +9,15 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b60ea73bc5fa7c4a25c61aa9651c303aa5087faf
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 85a1e7c456435b56c76ebbeb8c2e526773dbe236
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92530255"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474261"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Jak dodać nowy rekord klienta w centrum partnerskim
 
-**Dotyczy**
-
-- Centrum partnerskie
-- Centrum partnerskie dla Microsoft Cloud dla instytucji rządowych USA
-- Partnerzy programu dla dostawców rozwiązań w chmurze
 
 **Odpowiednie role**
 
@@ -31,14 +26,14 @@ ms.locfileid: "92530255"
 - Agent administracyjny
 - Agent sprzedaży
 
-W tym artykule opisano sposób dodawania nowego klienta do listy klientów w centrum partnerskim. Wykonaj następujące kroki, aby móc sprzedawać subskrypcje, zarządzać rozliczeniami lub zapewniać pomoc techniczną dla klienta.
+W tym artykule opisano sposób dodawania nowego klienta do listy klientów w centrum partnerskim. Te kroki są wymagane, aby można było sprzedawać subskrypcje, zarządzać rozliczeniami lub zapewniać pomoc techniczną dla klienta.
 
 >[!NOTE]
->W przypadku istniejących klientów, w tym tych, którzy mają już rekordy klienta w centrum partnerskim za pośrednictwem [scenariusza](multipartner.md) [wielokanałowego](multichannel.md) lub wielodostępnego, można [zażądać relacji z nimi](request-a-relationship-with-a-customer.md), zamiast wykonać kroki opisane tutaj.
+>W przypadku istniejących klientów, w tym tych, którzy mają już rekordy klienta w centrum partnerskim w ramach [scenariusza](multipartner.md) [wielokanałowego](multichannel.md) lub wielodostępnego, należy [zażądać relacji z nimi](request-a-relationship-with-a-customer.md), zamiast wykonać kroki opisane tutaj.
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Aby dodać nowego klienta w Centrum partnerskim
 
-1. Wybierz pozycję **klienci** z menu Centrum partnerskiego, a następnie wybierz pozycję **Dodaj klienta** .
+1. Wybierz pozycję **klienci** z menu Centrum partnerskiego, a następnie wybierz pozycję **Dodaj klienta**.
 
 2. Na stronie **Informacje o koncie** wprowadź szczegóły klienta i podstawowe informacje kontaktowe. Sprawdź, czy klient zaakceptował i podpisał najnowszą [umowę klienta firmy Microsoft](agreements.md).
 
@@ -58,7 +53,7 @@ W tym artykule opisano sposób dodawania nowego klienta do listy klientów w cen
 
 4. Wybierz pozycję **Dalej: subskrypcje** po zakończeniu wprowadzania wszystkich wymaganych informacji.
 
-5. Na stronie **subskrypcje** wybierz oferty, które klient chce kupić, wprowadź liczbę licencji, a następnie wybierz kolejno pozycje **Dalej: przegląd** .
+5. Na stronie **subskrypcje** wybierz oferty, które klient chce kupić, wprowadź liczbę licencji, a następnie wybierz kolejno pozycje **Dalej: przegląd**.
 
 6. Na stronie **Przegląd** Sprawdź wpisy pod kątem dokładności, a następnie wybierz pozycję **Prześlij** , jeśli informacje są poprawne.
 

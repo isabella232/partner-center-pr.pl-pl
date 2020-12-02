@@ -9,32 +9,24 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 45d40afc64c5c64801841d3cb758b49c8e107de7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4bb9311dc88a4abf4f2e14ae075430d1978b4bfe
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529850"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474040"
 ---
 # <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analizowanie profilu biznesowego — Zobacz, jak dobrze przyciągasz klientów docelowych i potencjalną liczbę odwołań
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**Dotyczy**
-
-- Centrum partnerskie
-- Partnerzy Microsoft Partner Network
-- Partnerzy programu dla dostawców rozwiązań w chmurze
-
 **Odpowiednie role**
 
 - Administrator globalny
 - Administrator partnerski MPN
-- Administrator odwołań
 - Administrator profilu biznesowego
-- Agent administracyjny
-- Agent sprzedaży
+- Administrator odwołań
 
 Strona **szczegółowe informacje o profilu biznesowym** w centrum partnerskim pozwala zobaczyć, jak dobrze przechwytywane są informacje o klientach docelowych i generowanie odwołań.
 
@@ -46,10 +38,15 @@ Po opublikowaniu [profilu biznesowego](create-a-marketing-profile.md)firmy uzysk
 
 Wykres **podsumowania wydajności profilu** zawiera następujące informacje dotyczące wybranego okresu:
 
-- **Wyniki wyszukiwania** : informacje na temat terminów wyszukiwania używanych przez klientów w celu znalezienia Twojego profilu biznesowego.
-- **Wyświetlenia stron** : całkowita liczba przypadków wyświetlania Twojego profilu biznesowego przez klientów.
-- **Kliknięcie kontaktu** : całkowita liczba klientów, którzy wybierali profil biznesowy na stronie [Znajdź dostawcę rozwiązania](https://www.microsoft.com/solution-providers/home) .
-- **Wygenerowane odwołania** : całkowita liczba odwołań wysłanych do Ciebie po wybraniu profilu biznesowego przez klienta.
+- **Wyniki wyszukiwania**: informacje na temat terminów wyszukiwania używanych przez klientów w celu znalezienia Twojego profilu biznesowego.
+- **Wyświetlenia stron**: całkowita liczba przypadków wyświetlania Twojego profilu biznesowego przez klientów.
+- **Kliknięcie kontaktu**: całkowita liczba klientów, którzy wybierali profil biznesowy na stronie [Znajdź dostawcę rozwiązania](https://www.microsoft.com/solution-providers/home) .
+- **Wygenerowane odwołania**: całkowita liczba odwołań wysłanych do Ciebie po wybraniu profilu biznesowego przez klienta.
 
 > [!TIP]
 > Gdy zaczniesz [reagować na te odwołania](manage-leads.md), pamiętaj o przejrzeniu strony informacje o [odwołaniach](referral-insights.md) , aby zobaczyć więcej szczegółów na temat sposobu działania odwołań.
+
+## <a name="next-steps"></a>Następne kroki
+
+- [Tworzenie profilu biznesowego](create-a-marketing-profile.md)
+- [Uzyskaj szczegółowe informacje o odwołaniach w centrum partnerskim i Dowiedz się, w jaki sposób trwają odwołania](referral-insights.md)

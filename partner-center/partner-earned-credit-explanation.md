@@ -1,7 +1,7 @@
 ---
 title: Kwota uzyskana przez partnera w przypadku usług zarządzanych
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 11/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, w jaki sposób środki na korzystanie z usługi zarządzanej przez partnerów firmy Microsoft są obliczane i płatne oraz jak zapewnić, że masz odpowiednie uprawnienia.
@@ -9,14 +9,14 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89fce612d5756da3f9674d4170ac8c0c3a48abfe
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 97af446c4021e9785833374131eee2f08431b5fe
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530586"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474312"
 ---
-# <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Jak są obliczane i płatne środki uzyskane przez partnera
+# <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Jak są obliczane i wypłacane środki zarobione przez partnera
 
 **Odpowiednie role**
 
@@ -38,7 +38,13 @@ Przeczytaj również temat [przywracanie uprawnień administratora dla subskrypc
 
 - Komputer PEC jest skojarzony z naliczaniem (odpłatnym) użyciem wartości platformy Azure klienta w programie CSP zarządzanym przez partnera. Komputer PEC jest dostępny tylko dla partnerów w dostawcy CSP rozliczanych przez firmę Microsoft (Dostawca pośredni i bezpośredni partner Bill). 
 
-- Kwalifikujące się usługi: środki na korzystanie z partnerów mają zastosowanie do usług wymienionych w **cenniku zużycia planu platformy Azure** , które partnerzy mogą eksportować ze strony [cen planu platformy Azure](https://partner.microsoft.com/commerce/sales) . Środki uzyskane przez partnerów nie mają zastosowania do produktów innych firm zidentyfikowanych jako **strona trzecia** w **kolumnie Tagi** cennika zużycia planu platformy Azure, rezerwacje planu platformy Azure, produkty z cennika w witrynie Marketplace i [Virtual Machines platformy Azure](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/).
+- Kwalifikujące się usługi: środki na korzystanie z partnerów mają zastosowanie do usług wymienionych w **cenniku zużycia planu platformy Azure** , które partnerzy mogą eksportować ze strony [cen planu platformy Azure](https://partner.microsoft.com/commerce/sales) . 
+
+- Niekwalifikujące się usługi: kredyt uzyskany przez partnera *_nie_* ma zastosowania do następujących:
+    - Rezerwacje planu platformy Azure
+    - Produkty innych firm zidentyfikowane jako _ *trzecich** w **kolumnie Tagi** ceny zużycia planu platformy Azure    
+    - Produkty z cennika portalu Marketplace
+   - [Virtual Machines na platformie Azure](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
 
 - Wartość PEC jest obliczana codziennie i można ją wyświetlić w pliku dziennego użycia i w pliku Rekonesans faktury miesięcznej. Partner (Dostawca pośredni lub pośredni odsprzedawca) musi mieć dostęp przez cały dzień (24x7), aby upewnić się, że uzyskują PEC. Wartość PEC jest obliczana codziennie na zarządzanych zasobach platformy Azure. Maksymalny PEC dla danego okresu rozliczeniowego (miesiąc) wynosi 15%. Partnerzy utrzymujący trwały dostęp uprzywilejowany przez miesiąc (zakres dostępu) i dla wszystkich kwalifikujących się zasobów (zakres dostępu) uzyskują pełny PEC 15%. Obniżka zakresów i zakresów spowoduje obniżenie stawki PEC przez miesiąc. Dzienny, oceniany plik użycia jest codziennie wyświetlany na podstawie zasobu platformy Azure, niezależnie od tego, czy jest stosowany PEC. Partnerzy mogą także rejestrować się w alertach, aby wykryć, czy istnieją zmiany w trwałym dostępie uprzywilejowanym.
 
@@ -50,7 +56,7 @@ Przeczytaj również temat [przywracanie uprawnień administratora dla subskrypc
 
 Azure Cost Management (ACM) przy użyciu analizy kosztów umożliwia partnerom wyświetlanie kosztów, które otrzymały korzyść dla PEC.  
 
-1. W [Azure Portal](https://portal.azure.com)Zaloguj się do dzierżawy partnerskiej i wybierz pozycję **Cost Management + rozliczenia** .
+1. W [Azure Portal](https://portal.azure.com)Zaloguj się do dzierżawy partnerskiej i wybierz pozycję **Cost Management + rozliczenia**.
 
 2. Wybierz pozycję **Zarządzanie kosztami**
 
