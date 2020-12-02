@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: cbd849001d128db1912a9bb61ef4c5217a5932ce
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: bd8153ffd368c1f67b27eaeb44d383409bd59e97
+ms.sourcegitcommit: 2e880efb02a48afc4f234ec27da34519407f87c6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947668"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96513301"
 ---
 # <a name="payout-schedules-and-policy-details"></a>Harmonogramy wypłaty i Szczegóły zasad
 
@@ -28,33 +28,37 @@ Gdy klient kupuje produkt z Microsoft AppSource lub Azure Marketplace przy użyc
 
 Wypłata często nastąpi, zanim firma Microsoft będzie zbierać płatność od klienta. Zapoznaj się z artykułem [dotyczącym niepłatności klienta](#process-for-customer-non-payment) w przypadku akcji podejmowanych w przypadku niepowodzenia płatności przez klienta firmy Microsoft, ale wystawiłeś już wypłatę.
 
-| Wydarzenie | Opis | Widoczność raportów | Terminy |
+| Zdarzenie | Opis | Widoczność raportów | Terminy |
 | --- | --- | --- | --- |
 | Użycie lub miesiąc transakcji | Klient korzysta z usługi lub kupuje ją. | Pulpit nawigacyjny [użycia](/azure/marketplace/partner-center-portal/usage-dashboard) lub [zamówienia](/azure/marketplace/partner-center-portal/orders-dashboard) | **Miesiąc 1** |
-| Zamówienie zakupu zostało utworzone | Określanie łącznego użycia, łącznej liczby transakcji | Pulpit nawigacyjny [użycia](/azure/marketplace/partner-center-portal/usage-dashboard) lub [zamówienia](/azure/marketplace/partner-center-portal/orders-dashboard) | **Miesiąc 2** |
-| Zostanie utworzona wypłata za niezależnego dostawcę oprogramowania | Ustalanie opłat za Agencję i dochodów z wypłaty | Oznaczono jako nieprzetworzony w historii transakcji w [instrukcji wypłaty](payout-statement.md) | **Miesiąc 3 (pierwszy tydzień)** |
+| Firma Microsoft oblicza kwotę rozliczeń | Określanie łącznego użycia, łącznej liczby transakcji | Pulpit nawigacyjny [użycia](/azure/marketplace/partner-center-portal/usage-dashboard) lub [zamówienia](/azure/marketplace/partner-center-portal/orders-dashboard) | **Miesiąc 2** |
+| Opublikowano wypłaty | Ustalanie opłat za Agencję i dochodów z wypłaty | Oznaczono jako nieprzetworzony w historii transakcji w [instrukcji wypłaty](payout-statement.md) | **Miesiąc 3 (pierwszy tydzień)** |
 | Przygotuj wypłatę | Dochody są przygotowywane do miesięcznej płatności | Oznaczone jako nadchodzące w historii transakcji w [instrukcji wypłaty](payout-statement.md) | **Miesiąc 3 (pierwszy tydzień)** |
-| **Data wypłaty** | **Płatność jest wysyłana do wydawcy** | **Oznaczone jako wysłane w historii transakcji i w sekcji płatności [instrukcji wypłaty](payout-statement.md)** | **Miesiąc 3 (nie później niż 15)** |
+| **Wysłane wypłaty** | **Płatność jest wysyłana do wydawcy** | **Oznaczone jako wysłane w historii transakcji i w sekcji płatności [instrukcji wypłaty](payout-statement.md)** | **Miesiąc 3 (nie później niż 15)** |
 | Faktura zapłacona przez klienta | Firma Microsoft zbiera płatność od klienta | Bez zmian | **Miesiąc od 4 do 12** |
 |
 
 \* Data wypłaty przypada w czasie standardowym (PST).
 
-### <a name="customers-who-pay-using-credit-card-or-invoice"></a>Klienci, którzy płacisz przy użyciu karty kredytowej lub faktury
+:::image type="content" source="images/payouts/timeline-enterprise.png" alt-text="Oś czasu płatności dla klientów z umową Enterprise Agreement.":::
+
+### <a name="transactions-with-credit-card-or-invoice-checkwire"></a>Transakcje z kartą kredytową lub fakturą (test/przewód)
 
 Wszystkie zakupy z kartą kredytową lub fakturą miesięczną mają 30-dniowy okres przechowywania, dzięki czemu fundusze są zbierane od klienta.
 
-| Wydarzenie | Opis | Widoczność raportów | Terminy |
+| Zdarzenie | Opis | Widoczność raportów | Terminy |
 | --- | --- | --- | --- |
 | Użycie lub miesiąc transakcji | Klient korzysta z usługi lub kupuje ją. | Pulpit nawigacyjny [użycia](/azure/marketplace/partner-center-portal/usage-dashboard) lub [zamówienia](/azure/marketplace/partner-center-portal/orders-dashboard) | **Miesiąc 1** |
 | Faktura zapłacona przez klienta | Określanie łącznego użycia, całkowitej wartości transakcji i faktury płatnej klienta | Pulpit nawigacyjny [użycia](/azure/marketplace/partner-center-portal/usage-dashboard) lub [zamówienia](/azure/marketplace/partner-center-portal/orders-dashboard) | **Miesiąc 2** |
-| Zostanie utworzona wypłata za niezależnego dostawcę oprogramowania | Ustalanie opłat za Agencję i dochodów z wypłaty | Oznaczono jako nieprzetworzony w historii transakcji w [instrukcji wypłaty](payout-statement.md) | **Miesiąc 2** |
-| 30-dniowy okres przechowywania | Upewnij się, że zebrano środki, możliwe obciążenia zwrotnego i zwrotne żądania | Oznaczono jako nieprzetworzony w historii transakcji w [instrukcji wypłaty](payout-statement.md) | **Miesiąc 3** |
+| Opublikowano wypłaty | Ustalanie opłat za Agencję i dochodów z wypłaty | Oznaczono jako nieprzetworzony w historii transakcji w [instrukcji wypłaty](payout-statement.md) | **Miesiąc 2** |
+| 30-dniowy okres przechowywania | Upewnij się, że zebrano środki, możliwe obciążeń zwrotnych i zwrotne żądania | Oznaczono jako nieprzetworzony w historii transakcji w [instrukcji wypłaty](payout-statement.md) | **Miesiąc 3** |
 | Przygotuj wypłatę | Dochody są przygotowywane do miesięcznej płatności | Oznaczone jako nadchodzące w historii transakcji w [instrukcji wypłaty](payout-statement.md) | **Miesiąc 4 (pierwszy tydzień)** |
-| **Data wypłaty** | **Płatność jest wysyłana do wydawcy** | **Oznaczone jako wysłane w historii transakcji i w sekcji płatności [instrukcji wypłaty](payout-statement.md)** | **Miesiąc 4 (nie później niż 15)** |
+| **Wysłane wypłaty** | **Płatność jest wysyłana do wydawcy** | **Oznaczone jako wysłane w historii transakcji i w sekcji płatności [instrukcji wypłaty](payout-statement.md)** | **Miesiąc 4 (nie później niż 15)** |
 |
 
 \* Data wypłaty przypada w pacyficznym czasie standardowym (PST).
+
+:::image type="content" source="images/payouts/timeline-credit-card-invoice.png" alt-text="Oś czasu płatności dla kart kredytowych i klientów faktury.":::
 
 ## <a name="process-for-customer-non-payment"></a>Proces dla niepłaty klienta
 
@@ -66,7 +70,7 @@ Firma Microsoft zwróci wszelkie płatne opłaty za korzystanie z jednej z nast�
 
 Poniżej przedstawiono przykładowy harmonogram:
 
-| Wydarzenie | Przybliżona data * | Widoczność partnerów |
+| Zdarzenie | Przybliżona data * | Widoczność partnerów |
 | --- | --- | --- |
 | Przykładowa data wypłaty | 10/15/2020 | Sekcja oznaczone jako **wysłane** w historii transakcji i w sekcji płatności na pulpicie nawigacyjnym wypłaty |
 | <font color="red">Jeśli klient nie płacisz firmie Microsoft</font> | 12/2/2020 – 12/5/2020 | Bez zmian, taka sama jak powyżej |
