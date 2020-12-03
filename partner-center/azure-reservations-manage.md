@@ -9,20 +9,14 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 937a7268caa5ae7872f8a3ec6dcb05f56dd9fbe5
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c377fca3e38161258c836d14202ac4db21484526
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529919"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534764"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Zarządzanie rezerwacjami, anulowanie, wymiana lub zwrot Microsoft Azure dla klientów
-
-**Dotyczy**
-
-- Centrum partnerskie
-- Microsoft Azure Portal 
-- Partnerzy w programie CSP
 
 **Odpowiednie role**
 
@@ -31,6 +25,8 @@ ms.locfileid: "92529919"
 - Agent pomocy technicznej
 - Agent sprzedaży
 - Administrator zarządzania użytkownikami
+
+W tym artykule wyjaśniono, jak zarządzać rezerwacjami platformy Azure dla klienta, w tym o sposobach anulowania rezerwacji, wymianie rezerwacji lub zażądać zwrotu pieniędzy.
 
 > [!NOTE]
 > Ten artykuł ma zastosowanie tylko do partnerów w programie Cloud Solution Provider (CSP). Klienci korzystający z innych rodzajów subskrypcji (na przykład płatność zgodnie z rzeczywistym użyciem, osoby, umowę klienta firmy Microsoft lub subskrypcje Umowa Enterprise) powinni przeczytać [dokumentację dotyczącą zastrzeżeń platformy Azure](/azure/cost-management-billing/reservations).
@@ -43,7 +39,7 @@ Aby zarządzać księgowaniem zakupów platformy Azure dla klientów, wybierz kl
 
 3. W obszarze **Akcje** wybierz pozycję **Zarządzaj** , aby przejść do rekordu rezerwacji klienta w Azure Portal. Na stronie Szczegóły rezerwacji postępuj zgodnie z poniższymi instrukcjami, aby wykonać zadania.  
 
-    | **Wybierz**   | **Działanie**    |
+    | **Wybierz**   | **Do**    |
     |:-----------------------------|:-----------------|
     | **Omówienie**   | Wyświetlanie szczegółów rezerwacji klienta, w tym daty wygaśnięcia, zakresu i danych użycia. **Uwaga** Wybierz pozycję **zwrot** , aby utworzyć żądanie pomocy technicznej dotyczące zwrotnego zwrotu. Wybierz pozycję **Exchange** , aby utworzyć żądanie pomocy technicznej w celu wymiany nieużywanej części okresu rezerwacji.  
     | **Access Control (IAM)**   | Zarządzanie dostępem do informacji o rezerwacji klienta.|

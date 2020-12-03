@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 57e976f2968f0bd6b13f36eb04be9f68577d1389
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529931"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534730"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Cennik dla nowego środowiska handlowego w programie CSP dla platformy Azure
 
@@ -35,7 +35,7 @@ Cennik dla nowego środowiska Azure commerce w programie CSP jest ogłaszany w c
 
 2. W obszarze Cennik planu platformy Azure wybierz kraj, dla którego chcesz uzyskać cennik.
 
-3. Obok pozycji **Typ eksportu** wybierz pozycję **Cennik użycia planu platformy Azure** , **Cennik rezerwacji planu platformy Azure** lub **kursy FX**. 
+3. Obok pozycji **Typ eksportu** wybierz pozycję **Cennik użycia planu platformy Azure**, **Cennik rezerwacji planu platformy Azure** lub **kursy FX**. 
 
 >[!NOTE] 
 >**Stawki FX** nie są specyficzne dla kraju.
@@ -55,15 +55,15 @@ Cennik dla nowego środowiska Azure commerce w programie CSP jest ogłaszany w c
 
 - Opcje eksportu obejmują:
 
-  - **Dzisiejsze ceny** : obejmują wszystkie liczniki i ceny z 1. miesiąca do bieżącej daty bieżącego miesiąca. Obejmuje to nowe ceny, zmienione ceny lub ceny zostały usunięte. Wszystkie ceny będą mieć efektywne daty rozpoczęcia i zakończenia, aby wyjaśnić, czy są one nowe lub usunięte.
+  - **Dzisiejsze ceny**: obejmują wszystkie liczniki i ceny z 1. miesiąca do bieżącej daty bieżącego miesiąca. Obejmuje to nowe ceny, zmienione ceny lub ceny zostały usunięte. Wszystkie ceny będą mieć efektywne daty rozpoczęcia i zakończenia, aby wyjaśnić, czy są one nowe lub usunięte.
 
-  - **Cennik w poprzednim miesiącu** : pliki do pobrania dla każdego typu zasobu będą według miesiąca. W przypadku plików cenowych zostaną uwzględnione wszystkie liczniki, które były dostępne w danym miesiącu. Jeśli nowy licznik pojawił się w połowie miesiąca, zostanie pokazany jako licznik z rzeczywistą datą odzwierciedlającą jego dostępność. Podobnie jak w przypadku cen, które są wycofane, pokazując, że nie są już dostępne.
+  - **Cennik w poprzednim miesiącu**: pliki do pobrania dla każdego typu zasobu będą według miesiąca. W przypadku plików cenowych zostaną uwzględnione wszystkie liczniki, które były dostępne w danym miesiącu. Jeśli nowy licznik pojawił się w połowie miesiąca, zostanie pokazany jako licznik z rzeczywistą datą odzwierciedlającą jego dostępność. Podobnie jak w przypadku cen, które są wycofane, pokazując, że nie są już dostępne.
 
-  - **Kursy FX** : stawki FX będą dostępne do pobrania dnia przed 1. dnia miesiąca, 18:00 PST. Na przykład jeśli chcesz użyć stawek za listopad, Pobierz stawki w dniu 31 października. Dostępne są również stawki za poprzedni miesiąc FX.
+  - **Kursy FX**: stawki FX będą dostępne do pobrania dnia przed 1. dnia miesiąca, 18:00 PST. Na przykład jeśli chcesz użyć stawek za listopad, Pobierz stawki w dniu 31 października. Dostępne są również stawki za poprzedni miesiąc FX.
 
 - Ceny na cenniku są cenami bezpośrednimi. Niektórzy partnerzy mogą kwalifikować się do kredytów na korzystanie z partnerów. Aby uzyskać informacje o tym, jak naliczany jest kredyt uzyskany przez partnera, należy zapoznać się z informacjami o [tym, jak są obliczane i płatne środki w ramach](partner-earned-credit-explanation.md)
 
-- **Kwalifikujące się usługi** : środki na korzystanie z partnerów mają zastosowanie [w przypadku usług](https://partner.microsoft.com/commerce/sales) wymienionych w obszarze partnerów **cen za użycie planu platformy Azure** . Należy pamiętać, że istnieją wyjątki, w tym między innymi produkty innych firm zidentyfikowane jako "trzecie" w kolumnie Tagi listy cen zużycia planu platformy Azure i rezerwacje planu platformy Azure.
+- **Kwalifikujące się usługi**: środki na korzystanie z partnerów mają zastosowanie [w przypadku usług](https://partner.microsoft.com/commerce/sales) wymienionych w obszarze partnerów **cen za użycie planu platformy Azure** . Należy pamiętać, że istnieją wyjątki, w tym między innymi produkty innych firm zidentyfikowane jako "trzecie" w kolumnie Tagi listy cen zużycia planu platformy Azure i rezerwacje planu platformy Azure.
 
 ## <a name="price-list-data"></a>Cennik — dane
 
@@ -114,3 +114,7 @@ Ten interfejs API umożliwia także partnerom pobieranie miesięcznych stawek za
 > Interfejs API cen jest specyficzny dla cen planu platformy Azure. Nadal powinieneś korzystać z istniejącego interfejsu API RateCard i cenników opublikowanych na stronie "Cennik i oferty" Centrum partnerskiego dla zasobów platformy Azure lub rezerwacji wdrożonych w ramach subskrypcji planu niezwiązanego z platformą Azure. Interfejs API cen planu platformy Azure nie obsługuje oprogramowania, platformy Marketplace ani cen opartych na licencji, takich jak Microsoft 365 lub Dynamics 365.
 
 Aby uzyskać więcej informacji na temat cen planu platformy Azure i interfejsów API obcych kursów wymiany, zobacz [dokumentację interfejsu API pełnej ceny](/partner/develop/pricing).
+
+## <a name="next-steps"></a>Następne kroki
+
+- [Zarządzanie subskrypcjami i zasobami w ramach planu platformy Azure](azure-plan-manage.md)

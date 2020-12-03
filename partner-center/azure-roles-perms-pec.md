@@ -9,14 +9,14 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f48774cb830ceb575a84177efb57431afdcb9b25
-ms.sourcegitcommit: 5fc28f6f81eaebb84e1faa71848afb504e181f37
+ms.openlocfilehash: 8c36883dc7d12b7ea0ce8f2644dbac86595ab131
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "92529690"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534594"
 ---
-# <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>Role i uprawnienia kwalifikujące się do zdobycia środków uzyskanych przez partnera
+# <a name="roles-and-permissions-required-to-earn-partner-earned-credit"></a>Role i uprawnienia wymagane do uzyskania środków na korzystanie z partnerów
 
 Poniższe role mapują do poziomów uprawnień, które określają, czy partner jest uprawniony do korzystania z kredytów uzyskanych przez partnerów.
 
@@ -116,9 +116,9 @@ Współautor Search Service | Umożliwia zarządzanie usługami wyszukiwania, al
 Administrator zabezpieczeń | Tylko w Security Center: mogą wyświetlać zasady zabezpieczeń, wyświetlać Stany zabezpieczeń, edytować zasady zabezpieczeń, wyświetlać alerty i zalecenia, odrzucać alerty i zalecenia | Tak | 
 Security Manager (starsza wersja) | Jest to Starsza rola. Zamiast tego użyj administratora zabezpieczeń | Tak | 
 Czytelnik zabezpieczeń | Tylko w Security Center: mogą wyświetlać rekomendacje i alerty, wyświetlać zasady zabezpieczeń, wyświetlać Stany zabezpieczeń, ale nie mogą wprowadzać zmian | Nie | 
-Współautor Site Recovery | Umożliwia zarządzanie usługą Site Recovery z wyjątkiem tworzenia magazynu i przypisywania ról | Tak | 
-Operator Site Recovery | Umożliwia przełączenie w tryb failover i powrót po awarii, ale nie wykonywanie innych operacji zarządzania Site Recovery | Tak | 
-Site Recovery czytelnik | Umożliwia wyświetlanie stanu Site Recovery, ale nie wykonywanie innych operacji zarządzania | Nie | 
+Współautor usługi Site Recovery | Umożliwia zarządzanie usługą Site Recovery z wyjątkiem tworzenia magazynu i przypisywania ról | Tak | 
+Operator usługi Site Recovery | Umożliwia przełączenie w tryb failover i powrót po awarii, ale nie wykonywanie innych operacji zarządzania Site Recovery | Tak | 
+Czytelnik usługi Site Recovery | Umożliwia wyświetlanie stanu Site Recovery, ale nie wykonywanie innych operacji zarządzania | Nie | 
 Współautor konta kotwic przestrzennych | Umożliwia zarządzanie zakotwiczeniami przestrzennymi na Twoim koncie, ale nie ich usuwanie | Tak | 
 Właściciel konta zakotwiczeń przestrzennych | Umożliwia zarządzanie zakotwiczeniami przestrzennymi na Twoim koncie, w tym ich usuwanie | Tak | 
 Czytnik konta zakotwiczeń przestrzennych | Umożliwia lokalizowanie i odczytywanie właściwości kotwic przestrzennych na Twoim koncie | Nie | 
@@ -147,3 +147,7 @@ Współautor maszyny wirtualnej | Umożliwia zarządzanie maszynami wirtualnymi,
 Logowanie użytkownika maszyny wirtualnej | Wyświetl Virtual Machines w portalu i zaloguj się jako zwykły użytkownik. | Tak | 
 Współautor planu sieci Web | Umożliwia zarządzanie planami sieci Web dla witryn internetowych, ale nie umożliwia uzyskiwania do nich dostępu. | Tak | 
 Współautor witryny sieci Web | Pozwala zarządzać witrynami sieci Web (a nie planami internetowymi), ale nie uzyskiwać do nich dostępu | Tak |
+
+## <a name="next-steps"></a>Następne kroki
+
+- [Kwota uzyskana przez partnera — przegląd sposobu działania w nowym środowisku handlowym w programie CSP](partner-earned-credit.md)

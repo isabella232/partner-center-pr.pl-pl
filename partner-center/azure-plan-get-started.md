@@ -9,14 +9,20 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: 5ad7bd7c99d7caa044877c98aac6dc5e3ce69420
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: fcf75acef4afb80c5aec889911ffc2b4a53b6edd
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92530051"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534917"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Zacznij korzystać z stawek płatność zgodnie z rzeczywistym użyciem z planem platformy Azure
+
+**Odpowiednie role**
+
+- Agent administracyjny
+- Agent sprzedaży
+
 
 Firma Microsoft wprowadziła nowe środowisko handlowe w centrum partnerskim.  Dzięki temu nowemu środowisku handlowym partnerzy będą uzyskiwać dostęp do usług platformy Azure w ramach stawek płatność zgodnie z rzeczywistym użyciem dla klientów w ramach umowy klienta firmy Microsoft.
 
@@ -54,7 +60,7 @@ Firma Microsoft zaleca partnerom korzystanie z pracujemy RBAC, zgodnie z najleps
 
 ## <a name="read-more-about-the-azure-plan"></a>Przeczytaj więcej na temat planu platformy Azure
 
-- [Kup plan platformy Azure](purchase-azure-plan.md)
+- [Kupowanie planu platformy Azure](purchase-azure-plan.md)
 
 - [Porównanie ofert platformy Azure](compare-azure-offers.md)
 

@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 5390e950689e930b246aaaddcb1a9ef1b1ab6d46
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4e22386dc8bddd9662a0d80020a5c90c464e9d39
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529920"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534815"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Przejście klientów do planu platformy Azure z istniejących ofert platformy Azure z dostawcami CSP
 
@@ -27,9 +27,9 @@ ms.locfileid: "92529920"
 - Agent sprzedaży
 - Administrator zarządzania użytkownikami
 
-Dostawcy pośrednim i bezpośredni partnerzy rozliczeń mogą przejść do nowego środowiska handlowego dostępnego w programie Microsoft Cloud Service Provider (CSP) dla platformy Azure. (Pośrednicy odsprzedawcy będą musieli współpracować z dostawcami pośrednimi). Klienci będą mieli ulepszony sposób kupowania usług w chmurze, którzy kupują od partnerów, od sprzedawcy firmy Microsoft lub bezpośrednio w sieci Web.
+W tym artykule wyjaśniono, w jaki sposób partnerzy CSP mogą korzystać z Centrum partnerskiego, aby przenosić klientów z istniejących ofert dostawcy CSP Azure do usług platformy Azure w ramach planu platformy Azure. Dostawcy pośrednim i bezpośredni partnerzy rozliczeń mogą przejść do nowego środowiska handlowego dostępnego w programie Microsoft Cloud Service Provider (CSP) dla platformy Azure. (Pośrednicy odsprzedawcy będą musieli współpracować z dostawcami pośrednimi). Klienci będą mieli ulepszony sposób kupowania usług w chmurze, którzy kupują od partnerów, od sprzedawcy firmy Microsoft lub bezpośrednio w sieci Web.
 
-Możliwość przejścia jest dostępna tylko dla klientów, którzy przechodzą do nowego środowiska handlowego platformy Azure i podpisały umowę klienta firmy Microsoft, a nie inne oferty w ramach usług kryptograficznych, takich jak Office 365 lub Dynamics 365.
+Możliwość przejścia jest dostępna tylko dla klientów, którzy przechodzą do nowego środowiska handlowego platformy Azure i podpisały umowę klienta firmy Microsoft. Nie jest to możliwe w przypadku innych ofert w programie CSP, takich jak Office 365 czy Dynamics 365.
 
 ## <a name="transition-existing-csp-offers-to-an-azure-plan"></a>Przechodzenie istniejących ofert CSP do planu platformy Azure
 
@@ -49,7 +49,7 @@ Możesz przenieść klienta z istniejących ofert dostawcy CSP Azure do usług p
 
    Klient zostanie przeniesiony do planu platformy Azure.
 
-   **Przepływ pracy przejścia automatyzuje wstępnie wymagane kroki** :
+   **Przepływ pracy przejścia automatyzuje wstępnie wymagane kroki**:
 
    - Zakup planów platformy Azure
    - Jeden plan na klienta w scenariuszach bezpośredniego dostawcy usług kryptograficznych  

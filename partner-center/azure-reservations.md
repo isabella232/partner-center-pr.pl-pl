@@ -9,20 +9,14 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 317d1f0295b79b79bf06f1091ae365bc7012b749
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 9dc92685503fd4b9b05e40337f72e810c1693779
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529913"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534900"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Sprzedawaj Microsoft Azure rezerwacje klientom przy użyciu Centrum partnerskiego, Azure Portal lub interfejsów API
-
-**Dotyczy**
-
-- Centrum partnerskie
-- Microsoft Azure Portal
-- Partnerzy w programie CSP
 
 **Odpowiednie role**
 
@@ -32,8 +26,10 @@ ms.locfileid: "92529913"
 - Agent sprzedaży
 - Administrator zarządzania użytkownikami
 
+Jako partner w programie dostawcy rozwiązań w chmurze (CSP) możesz kupować i sprzedawać i zarządzać rezerwacjami platformy Azure dla klientów. Użyj Centrum partnerskiego, Azure Portal lub interfejsu API Centrum partnerskiego.
+
 > [!NOTE]
-> Ten artykuł ma zastosowanie tylko do partnerów w programie Cloud Solution Provider (CSP). Klienci korzystający z innych rodzajów subskrypcji (na przykład płatność zgodnie z rzeczywistym użyciem, osoby, umowę klienta firmy Microsoft lub subskrypcje Umowa Enterprise) powinni przeczytać [dokumentację dotyczącą zastrzeżeń platformy Azure](/azure/cost-management-billing/reservations).
+> Ten artykuł ma zastosowanie tylko do partnerów w dostawcy usług kryptograficznych. Klienci korzystający z innych rodzajów subskrypcji (na przykład płatność zgodnie z rzeczywistym użyciem, osoby, umowę klienta firmy Microsoft lub subskrypcje Umowa Enterprise) powinni przeczytać [dokumentację dotyczącą zastrzeżeń platformy Azure](/azure/cost-management-billing/reservations).
 
 Partnerzy w programie CSP mogą zaoferować swoim klientom Microsoft Azure rezerwacje. Klienci mogą uzyskać znaczne oszczędności w przypadku zarezerwowania z wyprzedzeniem. Rezerwacje platformy Azure oferują klientom prostotę i elastyczność w następujący sposób:
 

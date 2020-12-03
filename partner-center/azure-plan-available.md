@@ -1,6 +1,6 @@
 ---
 title: Dostępne usługi platformy Azure w programie Azure CSP
-description: W tej sekcji omówiono usługi platformy Azure, które nie są dostępne w programie Azure Cloud Solution Provider (CSP).
+description: W tym artykule omówiono usługi platformy Azure, które nie są dostępne w programie Azure Cloud Solution Provider (CSP).
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 094aa585be3114c198a8581b3d23bd4b212393c9
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 2ca8df054a48217a21dbdd897bd260e7bc181e62
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529834"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534968"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Usługi platformy Azure dostępne w programie Azure Cloud Solution Provider (CSP)
 
@@ -84,14 +84,14 @@ W poniższej tabeli przedstawiono regularnie aktualizowaną listę dostępnych p
 |  Virtual Machines  |  X  |  X  |
 |  Cloud Services  |    |    |
 |  Zestawy skalowania maszyn wirtualnych  |  X  |  X  |
-|  Funkcje  |    |    |
+|  Functions  |    |    |
 |  Azure Container Service  |    |    |
 |  **Sieć**  |    |    |
-|  System DNS platformy Azure  |    |    |
+|  Azure DNS  |    |    |
 |  Content Delivery Network  |    |    |
 |  Traffic Manager  |    |    |
 |  ExpressRoute  |  X  |  X  |
-|  Virtual Network  |  X  |  X  |
+|  Sieć wirtualna  |  X  |  X  |
 |  Load Balancer  |  X  |  X  |
 |  VPN Gateway  |  X  |  X  |
 |  Application Gateway  |  X  |  X  |
@@ -121,7 +121,7 @@ W poniższej tabeli przedstawiono regularnie aktualizowaną listę dostępnych p
 |  Service Fabric  |  X  |  X  |
 |  Container Service  |    |    |
 |  **Bazy danych**  |    |    |
-|  Baza danych SQL  |  X  |  X  |
+|  SQL Database  |  X  |  X  |
 |  Azure Cosmos DB  |  X  |  X  |
 |  SQL Data Warehouse  |  X  |  X  |
 |  Pamięć podręczna Redis  |  X  |  X  |
@@ -140,19 +140,19 @@ W poniższej tabeli przedstawiono regularnie aktualizowaną listę dostępnych p
 |  Azure Analysis Services  |    |    |
 |  Power BI Embedded  |    |    |
 |  **AI + Cognitive Services**  |    |    |
-|  Usługa Machine Learning  |    |  X  |
+|  Machine Learning  |    |  X  |
 |  Usługa Azure Bot  |    |    |
 |  Cognitive Services  |    |    |
 |  Sztuczna inteligencja w usłudze Azure Batch  |    |    |
 |  **Internet rzeczy**  |    |    |
 |  Usługa IoT Hub  |  X  |  X  |
 |  IoT Central  |    |    |
-|  Usługa Machine Learning  |    |  X  |
+|  Machine Learning  |    |  X  |
 |  Stream Analytics  |    |  X  |
 |  Event Hubs  |  X  |  X  |
 |  Usługi Location-Based  |    |    |
 |  Notification Hubs  |  X  |  X  |
-|  Time Series Insights  |    |    |
+|  Usługi Time Series Insights  |    |    |
 |  **Integracja dla przedsiębiorstw**  |    |    |
 |  StorSimple  |  X  |    |
 |  API Management  |    |    |
@@ -163,11 +163,11 @@ W poniższej tabeli przedstawiono regularnie aktualizowaną listę dostępnych p
 |  SQL Server Stretch Database  |    |  X  |
 |  Funkcja Logic Apps Azure App Service  |    |    |
 |  **Zabezpieczenia + tożsamość**  |    |    |
-|  Usługa Azure Active Directory  |  X  |  X  |
+|  Azure Active Directory  |  X  |  X  |
 |  Azure Active Directory B2C  |    |    |
 |  Uwierzytelnianie wieloskładnikowe  |    |    |
 |  Azure Active Directory Domain Services  |    |    |
-|  Usługa Key Vault  |  X  |  X  |
+|  Key Vault  |  X  |  X  |
 |  Security Center  |  X  |  X  |
 |  **Narzędzia deweloperskie**  |    |    |
 |  Visual Studio Team Services  |    |    |
@@ -180,7 +180,7 @@ W poniższej tabeli przedstawiono regularnie aktualizowaną listę dostępnych p
 |  Backup  |  X  |  X  |
 |  Site Recovery  |  X  |  X  |
 |  Scheduler  |  X  |  X  |
-|  Automatyzacja  |  X  |  X  |
+|  Automation  |  X  |  X  |
 |  Log Analytics  |  X  |    |
 |  Azure Monitor  |    |    |
 |  Azure-Managed aplikacji  |    |    |

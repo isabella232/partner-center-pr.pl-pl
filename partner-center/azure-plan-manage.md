@@ -9,16 +9,21 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bbeb417fdc5964d66f754a789873c1dbc8b1d25
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92530046"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534934"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Zarządzanie subskrypcjami i zasobami w ramach planu platformy Azure
 
-Gdy przeniesiesz klienta do planu platformy Azure, domyślnie przypiszesz uprawnienia administratora na platformie Azure (prawa właściciela subskrypcji za pomocą administratora w imieniu).
+**Odpowiednie role**
+
+- Agent administracyjny
+
+
+W tym artykule wyjaśniono, w jaki sposób partnerzy CSP mogą korzystać z różnych opcji kontroli dostępu opartej na rolach (RBAC), aby uzyskiwać kontrolę operacyjną i zarządzać zasobami platformy Azure klienta. Gdy przeniesiesz klienta do planu platformy Azure, domyślnie przypiszesz uprawnienia administratora na platformie Azure (prawa właściciela subskrypcji za pomocą administratora w imieniu).
 
  > [!NOTE]
  > Prawa administratora do subskrypcji platformy Azure mogą zostać usunięte przez klienta w ramach subskrypcji, grupy zasobów lub poziomu obciążenia. 
@@ -27,9 +32,9 @@ Gdy przeniesiesz klienta do planu platformy Azure, domyślnie przypiszesz uprawn
 
 - **Administrator w imieniu (AOBO)** — z [AOBOem](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO)każdy użytkownik mający rolę Agent administracyjny w dzierżawie partnerskiej będzie miał dostęp do subskrypcji platformy Azure utworzonych za pomocą programu CSP.
 
-- **Azure Lighthouse** : AOBO nie pozwala na elastyczność tworzenia odrębnych grup, które współpracują z różnymi klientami, lub aby włączyć różne role dla grup lub użytkowników. Za pomocą usługi Azure Lighthouse można przypisywać różne grupy do różnych klientów lub ról. Ze względu na to, że użytkownicy będą mieć odpowiedni poziom dostępu za pomocą zarządzania zasobami delegowanymi przez platformę Azure, można zmniejszyć liczbę użytkowników, którzy mają rolę agenta administratora (i w związku z tym mieć pełny dostęp AOBO). Pozwala to zwiększyć bezpieczeństwo przez ograniczenie niepotrzebnego dostępu do zasobów klientów. Zapewnia również większą elastyczność zarządzania wieloma klientami w odpowiedniej skali. Aby uzyskać więcej informacji, przeczytaj artykuł [Azure Lighthouse i program Cloud Solution Provider](/azure/lighthouse/concepts/cloud-solution-provider).
+- **Azure Lighthouse**: AOBO nie pozwala na elastyczność tworzenia odrębnych grup, które współpracują z różnymi klientami, lub aby włączyć różne role dla grup lub użytkowników. Za pomocą usługi Azure Lighthouse można przypisywać różne grupy do różnych klientów lub ról. Ze względu na to, że użytkownicy będą mieć odpowiedni poziom dostępu za pomocą zarządzania zasobami delegowanymi przez platformę Azure, można zmniejszyć liczbę użytkowników, którzy mają rolę agenta administratora (i w związku z tym mieć pełny dostęp AOBO). Pozwala to zwiększyć bezpieczeństwo przez ograniczenie niepotrzebnego dostępu do zasobów klientów. Zapewnia również większą elastyczność zarządzania wieloma klientami w odpowiedniej skali. Aby uzyskać więcej informacji, przeczytaj artykuł [Azure Lighthouse i program Cloud Solution Provider](/azure/lighthouse/concepts/cloud-solution-provider).
 
--  **Użytkownicy katalogu lub Gości lub jednostki [usługi](/azure/active-directory/develop/app-objects-and-service-principals)** : można delegować szczegółowy dostęp do subskrypcji CSP przez dodanie użytkowników w katalogu klienta lub dodanie użytkowników-Gości i przypisanie określonych ról RBAC.
+- **Użytkownicy katalogu lub Gości lub jednostki [usługi](/azure/active-directory/develop/app-objects-and-service-principals)**: można delegować szczegółowy dostęp do subskrypcji CSP przez dodanie użytkowników w katalogu klienta lub dodanie użytkowników-Gości i przypisanie określonych ról RBAC.
 
 Firma Microsoft zaleca, aby użytkownicy mieli minimalne uprawnienia, których potrzebują do wykonywania swojej pracy jako rozwiązania zabezpieczeń. Zobacz [zasoby Azure Active Directory Privileged Identity Management](/azure/active-directory/privileged-identity-management/pim-configure).
 
@@ -60,11 +65,11 @@ Musisz mieć dostęp administratora, aby zarządzać usługami klienta i otrzyma
 
 2. Wybierz typ akcji, która ma zostać podjęta przez alert. Na przykład jeśli określisz, że chcesz wysłać wiadomość e-mail, otrzymasz wiadomość e-mail z powiadomieniem, jeśli wystąpi jakiekolwiek usunięcie przypisania roli.
 
-   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Alert platformy Azure":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Konfigurowanie alertu":::
 
 ### <a name="aobo-removal"></a>Usuwanie AOBO
 
-Klienci mogą zarządzać dostępem do swoich subskrypcji, przechodząc do **Access Control** na Azure Portal. Na karcie **przypisania ról** wybierają pozycję **Usuń dostęp** . W takim przypadku można:
+Klienci mogą zarządzać dostępem do swoich subskrypcji, przechodząc do **Access Control** na Azure Portal. Na karcie **przypisania ról** wybierają pozycję **Usuń dostęp**. W takim przypadku można:
 
 - Skontaktuj się z klientem, aby sprawdzić, czy można przywrócić dostęp administratora.
 

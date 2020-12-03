@@ -9,36 +9,36 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d8bb85357d796ae4917faf91c93db8fef4369c2
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529829"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534696"
 ---
-# <a name="new-commerce-experience-in-csp---azure-billing"></a>Nowe środowisko handlu CSP — rozliczenia platformy Azure 
+# <a name="new-commerce-experience-in-csp---azure-billing"></a>Nowe środowisko handlowe w programie CSP — rozliczenia platformy Azure 
 
-**Odpowiednie role:**
+**Odpowiednie role**
 
 - Agent administracyjny
 - Administrator rozliczeń
 - Administrator globalny
 
-Rozliczenia zgodnie z planem platformy Azure to uproszczone środowisko rozliczeniowe korzystające z wyrównanej pojedynczej daty rozliczania i okresu rozliczeniowego w kalendarzu.
+W tym artykule wyjaśniono, jak uzyskać dostęp do struktury pliku faktury i uzgodnienia dotyczącej rozliczeń dla planu platformy Azure i zrozumieć ją. Rozliczenia zgodnie z planem platformy Azure to uproszczone środowisko rozliczeniowe korzystające z wyrównanej pojedynczej daty rozliczania i okresu rozliczeniowego w kalendarzu.
 
 ## <a name="summary-of-billing-essentials"></a>Podsumowanie podstawy rozliczeń
 
-- **Data faktury** : plik faktury i uzgodnienia będą dostępne na pulpicie nawigacyjnym/interfejsie API Centrum partnerskiego przez 8 (północy czasu UTC).
+- **Data faktury**: plik faktury i uzgodnienia będą dostępne na pulpicie nawigacyjnym/interfejsie API Centrum partnerskiego przez 8 (północy czasu UTC).
 
-- **Okres rozliczeniowy faktury** : okres rozliczeniowy faktury jest wyrównany do miesiąca kalendarzowego, na przykład 10/1-10/31, 11/1-11/30.
+- **Okres rozliczeniowy faktury**: okres rozliczeniowy faktury jest wyrównany do miesiąca kalendarzowego, na przykład 10/1-10/31, 11/1-11/30.
 
-- **Opłaty za okresy usługi** : opłaty zostaną wyrównane do miesiąca kalendarzowego. Na przykład jeśli Partner rozliczeń dodaje usługi platformy Azure w ramach planu platformy Azure w dniu 10/15, a klient zacznie zużywać usługi platformy Azure w dniu 10/15, wówczas rozliczenia partner otrzymają faktury/Rekonesans na 11/8 w celu użycia przez klienta okresu usługi 10/15-10/31. Faktury w następnym miesiącu, które mają zostać wygenerowane w dniu 12/8, zawierają wszystkie opłaty za okres usługi 11/1-11/31.
+- **Opłaty za okresy usługi**: opłaty zostaną wyrównane do miesiąca kalendarzowego. Na przykład jeśli Partner rozliczeń dodaje usługi platformy Azure w ramach planu platformy Azure w dniu 10/15, a klient zacznie zużywać usługi platformy Azure w dniu 10/15, wówczas rozliczenia partner otrzymają faktury/Rekonesans na 11/8 w celu użycia przez klienta okresu usługi 10/15-10/31. Faktury w następnym miesiącu, które mają zostać wygenerowane w dniu 12/8, zawierają wszystkie opłaty za okres usługi 11/1-11/31.
 
-- **Termin płatności faktury** : NET 60 dni.
+- **Termin płatności faktury**: NET 60 dni.
 
-- **Waluta faktury** : partnerzy będą nadal rozliczani w country'sej walucie klienta. Na przykład jeśli Partner rozliczy jest w Irlandii z klientami w Wielkiej Brytanii, Norwegii i Niemczech, wówczas rozliczka będzie otrzymywać GBP, NOK i fakturę w EUR/rekonesans.
+- **Waluta faktury**: partnerzy będą nadal rozliczani w country'sej walucie klienta. Na przykład jeśli Partner rozliczy jest w Irlandii z klientami w Wielkiej Brytanii, Norwegii i Niemczech, wówczas rozliczka będzie otrzymywać GBP, NOK i fakturę w EUR/rekonesans.
 
-- **Zachęty dla partnerów** : płatne 45 dni od końca miesiąca faktury.
+- **Zachęty dla partnerów**: płatne 45 dni od końca miesiąca faktury.
 
 ## <a name="access-your-invoices-and-reconciliation-files"></a>Uzyskiwanie dostępu do faktur i plików uzgadniania
 
@@ -142,7 +142,7 @@ Opłaty za usługi platformy Azure za pomocą planu platformy Azure są naliczan
 
 Firma Microsoft będzie używać Thomson firmy Reuters do określenia stawek FX używanych do określania waluty cenowej do konwersji waluty rozliczeniowej. Stawki FX będą odświeżane i dostępne w dniu przed pierwszym miesiącem, dla którego mają zastosowanie.
 
-**Przykład** : opłaty za użycie za okres usługi od 1 sierpnia do 31 sierpnia będą naliczane przy użyciu kursu FX opublikowanego w dniu 31 lipca. Opłaty zostaną wyświetlone na fakturze z września, a stawka FX zostanie zanotowana na ostatniej stronie faktury.
+**Przykład**: opłaty za użycie za okres usługi od 1 sierpnia do 31 sierpnia będą naliczane przy użyciu kursu FX opublikowanego w dniu 31 lipca. Opłaty zostaną wyświetlone na fakturze z września, a stawka FX zostanie zanotowana na ostatniej stronie faktury.
 
 ## <a name="azure-reservations"></a>Rezerwacje platformy Azure
 

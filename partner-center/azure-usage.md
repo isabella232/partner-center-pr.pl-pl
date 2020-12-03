@@ -9,20 +9,21 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: e6c4e3e7a68de720f586754703308a447d7d30c1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 226ebd27b4ca4cdef56ce833a58a10bed89f8056
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529902"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534951"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Ustalanie rozmiarów maszyn wirtualnych Microsoft Azure na potrzeby maksymalnego użycia rezerwacji
 
-**Dotyczy**
+**Odpowiednie role**
 
-- Centrum partnerskie
-- Azure Portal
-- Partnerzy w programie CSP
+- Agent administracyjny
+- Agent sprzedaży
+
+W tym artykule wyjaśniono, jak zmienić rozmiar maszyny wirtualnej (VM) na potrzeby obliczeniowe klientów w przypadku zakupu Microsoft Azure dla nich rezerwacji.
  
 > [!NOTE]
 > Ten artykuł ma zastosowanie tylko do partnerów w programie Cloud Solution Provider (CSP). Klienci korzystający z innych rodzajów subskrypcji (na przykład płatność zgodnie z rzeczywistym użyciem, osoby, umowę klienta firmy Microsoft lub subskrypcje Umowa Enterprise) powinni przeczytać [dokumentację dotyczącą zastrzeżeń platformy Azure](/azure/cost-management-billing/reservations).
@@ -33,7 +34,7 @@ Podczas kupowania Microsoft Azurech rezerwacji w imieniu klientów należy wybra
 
 - Interfejs API użycia platformy Azure
 - Witryna Azure Portal
-- Azure PowerShell
+- Program Azure PowerShell
 - Interfejs API Azure Resource Manager (ARM)
 
 Poniżej przedstawiono instrukcje dotyczące korzystania z każdej z tych metod. Po zakupieniu rezerwacji rabat rezerwacji jest automatycznie stosowany do maszyn wirtualnych, które pasują do atrybutów i ilości rezerwacji. Nie musisz przypisywać rezerwacji do maszyny wirtualnej.
@@ -74,7 +75,7 @@ Użyj informacji z poniższej ilustracji, aby pobrać lokalizację i rozmiar mas
 
 2. /subscriptions/ <Subscription ID> /ResourceGroups/ <Resource group name> /providers/Microsoft.COMPUTE/virtualMachines/ <VM Instance Name> ? API-Version = 2017-12-01
 
-3. Wywołanie zwraca wartości dla **vmSize** i **lokalizacji** , jak pokazano poniżej.
+3. Wywołanie zwraca wartości dla **vmSize** i **lokalizacji**, jak pokazano poniżej.
 
     :::image type="content" source="images/usage3.png" alt-text="vmSize wartość":::
     :::image type="content" source="images/usage4.png" alt-text="wartość lokalizacji":::
@@ -128,7 +129,7 @@ Aby uzyskać więcej informacji, zobacz artykuł [pobieranie rekordów użycia k
 >[!IMPORTANT]
 >Koszty oprogramowania, takie jak Microsoft Windows Server, nie są obecnie uwzględniane w cenie rezerwacji maszyny wirtualnej i będą wyświetlane jako osobne elementy wiersza w rekordzie zamówienia i na fakturze. Jeśli jednak klient ma korzyść z używania hybrydowej platformy Azure, koszty oprogramowania nie zostaną zastosowane. Aby uzyskać więcej informacji, zobacz [koszty oprogramowania systemu Windows, które nie są dołączone do wystąpień zarezerwowanych](/azure/billing/billing-reserved-instance-windows-software-costs).  
 
-## <a name="azure-reservations-resources"></a>Zasoby rezerwacji platformy Azure
+## <a name="next-steps"></a>Następne kroki
 
 |**Aby uzyskać informacje na temat**   |**Przeczytaj to**    |
 |:-----------------------------|:-----------------|

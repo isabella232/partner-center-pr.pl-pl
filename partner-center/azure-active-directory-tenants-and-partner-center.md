@@ -9,18 +9,14 @@ ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529833"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534798"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Utwórz konto służbowe łączące firmę z kontem Centrum partnerskiego
-
-**Dotyczy**
-
-- Centrum partnerskie
 
 **Odpowiednie role**
 
@@ -71,3 +67,8 @@ Gdy kupisz subskrypcję platformy Azure, jesteś w istocie dzierżawionym dedyko
 Konto służbowe platformy Azure to dedykowana i izolowana wirtualna reprezentacja firmy w chmurze publicznej platformy Azure, która została utworzona w przypadku subskrybowania usługi w chmurze firmy Microsoft, takiej jak Azure, Microsoft Intune lub Office 365.
 
 Twoje konto służbowe obsługuje użytkowników usługi Azure AD i informacje o nich — hasła, dane profilu, uprawnienia i tak dalej. Konto służbowe zawiera również grupy, aplikacje i inne informacje odnoszące się do firmy i jej zabezpieczeń.
+
+## <a name="next-steps"></a>Następne kroki
+
+- [Zarządzanie kontem w portalu Partner Center](partner-center-account-setup.md)
+- [Śledzenie stanu weryfikacji](verification-responses.md)

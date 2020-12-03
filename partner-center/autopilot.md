@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 0ae61db0ca040afe67faa3a0883ea033b8f67562
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 12057d50e4456dd2450ff497e00c89a9afa5dc4d
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529838"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534997"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Używanie profilów rozwiązania Windows Autopilot na nowych urządzeniach w celu dostosowania środowiska gotowego do użycia dla klienta
-
-**Dotyczy**
-
-- Partnerzy bezpośrednich rachunków dostawcy usług kryptograficznych, dostawcy pośrednich i odsprzedawcy pośrednim
 
 **Odpowiednie role**
 
@@ -37,7 +33,7 @@ W tym artykule wyjaśniono, jak utworzyć i zastosować profile autopilotażu na
 
 Jeśli nie znasz już programu pilotażowego, zapoznaj się z informacjami w poniższych artykułach:
 
-- [Omówienie funkcji autopilotażu systemu Windows](/windows/deployment/windows-10-auto-pilot)
+- [Omówienie rozwiązania Windows Autopilot](/windows/deployment/windows-10-auto-pilot)
 - [Przewodnik dotyczący wdrażania w programie autopilotaż](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>Omówienie
@@ -84,7 +80,7 @@ W centrum partnerskim można utworzyć profile wdrażania systemu Windows i zast
    - Wyłącz konto administratora lokalnego w instalatorze
   
    - Automatycznie Pomijaj strony w instalatorze<br>
-        (Obejmuje *Automatyczne wybieranie ustawień dotyczących pracy lub szkoły* oraz *pomijanie stron ustawień rejestracji Cortany, OneDrive i OEM* )
+        (Obejmuje *Automatyczne wybieranie ustawień dotyczących pracy lub szkoły* oraz *pomijanie stron ustawień rejestracji Cortany, OneDrive i OEM*)
   
    - Pomiń umowę licencyjną użytkownika oprogramowania (EULA)<br> 
        >[!IMPORTANT] 
@@ -149,11 +145,11 @@ Jeśli planujesz użycie nazwy producenta OEM, numeru seryjnego i kombinacji mod
 
 - Ta krotka działa tylko w przypadku nowszych urządzeń (na przykład skrótów 4K) i nie jest obsługiwana w przypadku skrótów 128B (RS2 i starszych urządzeń).
 
-- W rejestracji spójnej kolekcji jest uwzględniana wielkość liter, dlatego dane w pliku muszą być zgodne z nazwą modelu i producenta, ***tak jak to*** zostało podane przez dostawcę OEM (dostawca sprzętu).
+- Rejestracja spójnej kolekcji uwzględnia wielkość liter, dlatego dane w pliku muszą być zgodne z nazwą modelu i producenta **_dokładnie_* znakiem dostarczonym przez dostawcę OEM (dostawca sprzętu).
 
 Postępuj zgodnie z poniższymi instrukcjami, aby dodać urządzenia do konta klienta w centrum partnerskim.
 
-1. Wybierz pozycję **klienci** z menu Centrum partnerskiego, a następnie wybierz klienta, którego urządzenia chcesz zarządzać.
+1. Wybierz _ *Customers** z menu Centrum partnerskiego, a następnie wybierz klienta, którego urządzenia chcesz zarządzać.
 
 2. Na stronie Szczegóły klienta wybierz pozycję **urządzenia**.
 

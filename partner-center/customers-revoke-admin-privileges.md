@@ -1,7 +1,7 @@
 ---
 title: Uzyskaj uprawnienia administratora klienta
 ms.topic: how-to
-ms.date: 06/19/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Uzyskaj uprawnienia wymagane do zarządzania usługą lub subskrypcją klienta w ich imieniu. Dowiedz się, w jaki sposób uprawnienia są udzielane, odwoływane i zarządzane.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: dcfc552016560ecc3167deebf96f7a75a72048bc
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6f99c9ed9fb43136bccf0d3024377ba2208ed1a1
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "92529461"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534883"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Uzyskaj uprawnienia do zarządzania usługą lub subskrypcją klienta
 
@@ -47,7 +47,7 @@ Aby zarządzać usługą lub subskrypcją klienta w ich imieniu, klient musi prz
 6.  Aby zarządzać kontem klienta, usługami, użytkownikami i licencjami, rozwiń rekord klienta, wybierając strzałkę w dół obok swojej nazwy, a następnie wybierając Portal administratora dla usługi, którą chcesz zarządzać.
 
 >[!IMPORTANT]  
->Klienci mogą ponownie przypisywać lub usuwać uprawnienia administratora w portalu administracyjnym usługi. Jednak o ile i do momentu ponownego negocjowania umowy z klientem klient nadal będzie odpowiedzialny za zapewnienie wsparcia dla klienta i przestrzeganie warunków umowy odsprzedawcy w chmurze, nawet po ponownym przypisaniu lub usunięciu uprawnień administratora przez klienta. W takiej sytuacji, jeśli klient wymaga pomocy, skontaktuj się z pomocą techniczną firmy Microsoft, aby otworzyć żądanie obsługi w imieniu klienta.
+>Klienci mogą ponownie przypisywać lub usuwać uprawnienia administratora w portalu administracyjnym usługi. Należy jednak poinformować klienta, że usunięcie uprawnień administratora oznacza, że nie będzie już można otworzyć żądania obsługi do firmy Microsoft w ich imieniu. Nie będzie można otwierać tych typów żądań obsługi w imieniu klienta do momentu ponownego negocjowania umowy z klientem.
 
 Klienci mogą dowiedzieć się, którzy z partnerów mają uprawnienia administratora do swojej dzierżawy, z poziomu portalu administracyjnego pakietu Office 365. W tym celu:
 

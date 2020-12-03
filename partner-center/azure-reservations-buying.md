@@ -1,7 +1,7 @@
 ---
 title: Kup rezerwacje Microsoft Azure dla klientów
 description: Dowiedz się, jak kupować i kupować rezerwacje platformy Azure w imieniu klientów w centrum partnerskim. Zawiera również listę rynków, w których rezerwacje platformy Azure są niedostępne.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: rbars
@@ -9,20 +9,14 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 22ee2b6b76662ae3c7f7a956dc42f4425c321309
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 0e81a9561f3749aab281bb4ebd7cd0c38540ff31
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92530316"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534611"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Kup rezerwacje Microsoft Azure w imieniu klientów w centrum partnerskim
-
-**Dotyczy**
-
-- Centrum partnerskie
-- Microsoft Azure Portal
-- Partnerzy w programie CSP
 
 **Odpowiednie role**
 
@@ -31,6 +25,8 @@ ms.locfileid: "92530316"
 - Agent pomocy technicznej
 - Agent sprzedaży
 - Administrator zarządzania użytkownikami
+
+W tym artykule wyjaśniono, jak kupić lub zakupić rezerwacje platformy Azure w imieniu klientów w centrum partnerskim. Identyfikuje także rynki, w których rezerwacje platformy Azure są niedostępne.
  
 > [!NOTE]
 > Ten artykuł ma zastosowanie tylko do partnerów w programie Cloud Solution Provider (CSP). Klienci korzystający z innych rodzajów subskrypcji (na przykład płatność zgodnie z rzeczywistym użyciem, osoby, umowę klienta firmy Microsoft lub subskrypcje Umowa Enterprise) powinni przeczytać [dokumentację dotyczącą zastrzeżeń platformy Azure](/azure/cost-management-billing/reservations).
@@ -110,7 +106,7 @@ Postępuj zgodnie z poniższymi instrukcjami, aby zakupić Microsoft Azure rezer
 
 2. Na stronie **klienci** Znajdź klienta, który chce zakupić rezerwacje platformy Azure, a następnie wybierz strzałkę w dół, aby rozwinąć wiersz klienta.  
 
-3. Wybierz pozycję **Dodaj produkty** , a następnie wybierz pozycję **Azure** . 
+3. Wybierz pozycję **Dodaj produkty** , a następnie wybierz pozycję **Azure**. 
 
     a. Wybierz segment rynku klienta z listy **segmentów** .
 
@@ -125,7 +121,7 @@ Postępuj zgodnie z poniższymi instrukcjami, aby zakupić Microsoft Azure rezer
 
 5. Użyj filtrów, aby znaleźć rezerwacje platformy Azure na maszynach wirtualnych spełniających wymagania klienta.  
 
-6. Po znalezieniu rezerwacji, które chcesz kupić, wprowadź liczbę wystąpień zarezerwowanych, których klient będzie potrzebować **, a następnie** wybierz pozycję **Dodaj do koszyka** .  
+6. Po znalezieniu rezerwacji, które chcesz kupić, wprowadź liczbę wystąpień zarezerwowanych, których klient będzie potrzebować **, a następnie** wybierz pozycję **Dodaj do koszyka**.  
 
 7. Powtórz kroki 5 i 6, dopóki wszystkie elementy niezbędne do zamówienia nie zostaną dodane. Wybierz pozycję **Przegląd** , aby sprawdzić, czy zamówienie jest poprawne.  
 
@@ -139,7 +135,7 @@ Postępuj zgodnie z poniższymi instrukcjami, aby zakupić Microsoft Azure rezer
       >Jeśli zdecydujesz się ograniczyć zakres rezerwacji do pojedynczej subskrypcji platformy Azure, może być konieczne zwiększenie limitu przydziału vCPU subskrypcji. Aby zwiększyć limit przydziału vCPU subskrypcji, należy utworzyć żądanie pomocy technicznej w Azure Portal. Postępuj zgodnie z instrukcjami [w tym temacie](/azure/azure-supportability/resource-manager-core-quotas-request) , aby utworzyć żądanie. 
 
       >[!NOTE]   
-      >Jeśli klient jest objęty planem platformy Azure, **zakres**  zostanie ustawiony na wartość **udostępnione** . 
+      >Jeśli klient jest objęty planem platformy Azure, **zakres**  zostanie ustawiony na wartość **udostępnione**. 
 
     - Jeśli jesteś partnerem dostawcy, wybierz odsprzedawcy, który ma zostać skojarzony z produktem.
     
@@ -150,7 +146,8 @@ Postępuj zgodnie z poniższymi instrukcjami, aby zakupić Microsoft Azure rezer
 
 10. Aby zarządzać rezerwacją klienta w Azure Portal, Znajdź klienta na stronie **klientów** , a następnie wybierz strzałkę w dół, aby rozwinąć wiersz klienta. Wybierz **Portal zarządzania Microsoft Azure** , aby otworzyć rekord klienta w Azure Portal.
 
-## <a name="azure-reservations-resources"></a>Zasoby rezerwacji platformy Azure
+## <a name="next-steps"></a>Następne kroki
+
 |**Aby uzyskać informacje na temat**   |**Przeczytaj to**    |
 |:-----------------------------|:-----------------|
 |Omówienie rezerwacji platformy Azure w programie CSP  | [Sprzedaj Microsoft Azure wystąpienia zarezerwowane](azure-reservations.md) |
