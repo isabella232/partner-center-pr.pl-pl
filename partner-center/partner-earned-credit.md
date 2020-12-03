@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, jak kredyt uzyskany przez partnera (PEC) oferuje uproszczone, ujednolicone cenniki platformy Azure, zapewnia usługi zarządzane i pozwala wyeliminować konkurencję na marginesy.
+description: Dowiedz się, w jaki sposób środki na korzystanie z partnerów (PEC) oferują uproszczone, ujednolicone ceny platformy Azure i zarządzane usługi, a jednocześnie pomaga wyeliminować konkurencję na marginesy.
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 45a9e4eb4a2e2ddb3419a2c8b1342725964ec39a
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 464a277cc62f8b3349e8f7957106b902081eded8
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92529582"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556399"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Kwota uzyskana przez partnera — przegląd sposobu działania w nowym środowisku handlowym w programie CSP
 
@@ -75,6 +75,6 @@ Te usługi mają odpowiedni poziom dostępu dla partnerów w środowisku platfor
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Jak są obliczane i płatne środki uzyskane przez partnera](partner-earned-credit-explanation.md)
+- [Jak są obliczane i wypłacane środki zarobione przez partnera](partner-earned-credit-explanation.md)
 - [Zarządzanie subskrypcjami i zasobami w ramach planu platformy Azure](azure-plan-manage.md)
 - [Cennik dla nowego środowiska Azure commerce w programie CSP](azure-plan-price-list.md)

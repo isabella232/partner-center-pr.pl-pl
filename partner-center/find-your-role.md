@@ -1,6 +1,6 @@
 ---
 title: Znajdź przypisaną rolę
-description: Dowiedz się, gdzie przejść do Centrum partnerskiego, aby znaleźć rolę i uprawnienia.
+description: Dowiedz się, gdzie przejść do Centrum partnerskiego, aby znaleźć przypisaną rolę, uprawnienia i administratora globalnego.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: e382509ae11797d81b5b56b3f1c58e7b1ebafee2
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 4f4a36bbe5021b6c73025e14bf3f608bd6a269e8
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92530244"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556280"
 ---
 # <a name="find-your-role-your-permissions-and-your-global-admin"></a>Znajdź rolę, uprawnienia i administratora globalnego
 
@@ -31,7 +31,7 @@ Jeśli administrator globalny nie otrzyma od Ciebie informacji, możesz dowiedzi
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home)Centrum partnerskiego.
 
-1. Wybierz ikonę **Ustawienia konta** , a następnie wybierz pozycję **mój profil** .
+1. Wybierz ikonę **Ustawienia konta** , a następnie wybierz pozycję **mój profil**.
  
 1. Wybierz kartę **role i uprawnienia** . Zobaczysz Twoje role i uprawnienia.
  
@@ -44,11 +44,11 @@ Czasami może być konieczna zmiana roli użytkownika lub dodanie przez niego no
 
 Aby znaleźć administratora globalnego, który może wprowadzać zmiany roli lub przypisać role do nowego użytkownika: 
 
-1. Na **ikonie ustawień konta** w prawym górnym rogu Centrum partnerskiego wybierz pozycję **Zarządzanie użytkownikami** .
+1. Na **ikonie ustawień konta** w prawym górnym rogu Centrum partnerskiego wybierz pozycję **Zarządzanie użytkownikami**.
 
 1. Filtruj w Administratorze globalnym
 
-1. Możesz również przejść do pozycji **mój profil** , wybrać **role i uprawnienia** i wyświetlić listę różnych administratorów, którzy mogą pomóc w podwyższeniu poziomu uprawnień. 
+1. Możesz również przejść do pozycji **mój profil**, wybrać **role i uprawnienia** i wyświetlić listę różnych administratorów, którzy mogą pomóc w podwyższeniu poziomu uprawnień. 
 
 
 ## <a name="get-a-new-global-admin-assigned-to-your-company"></a>Uzyskaj nowego administratora globalnego przypisanego do Twojej firmy

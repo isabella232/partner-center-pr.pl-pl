@@ -1,20 +1,20 @@
 ---
-title: Efektywne obliczanie ceny jednostkowej
+title: Obliczanie obowiązującej ceny jednostkowej
 ms.topic: how-to
 ms.date: 11/10/2020
-description: Dowiedz się więcej na temat efektywnej jednostki cenowej i sposobu jej obliczania. Zawiera przykładowe obliczanie.
+description: Dowiedz się więcej na temat efektywnej ceny jednostkowej i sposobu jej obliczania. Ten artykuł zawiera również Przykładowe obliczenia.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7b65a79232656af6ddb69fede7a9ee35fe426a9d
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 6ca6e9bf6a49e695314a3e33e36d2d1d5d4d2a25
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94499150"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556331"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Efektywne Obliczanie cen jednostkowych dla użycia planu platformy Azure
 
@@ -35,7 +35,7 @@ Ze względu na to, że Twoje użycie jest monitorowane codziennie w całym cyklu
 Jeśli nie wiesz, czy licznik używa cen warstwowych, Skorzystaj z poniższej procedury, aby dowiedzieć się. 
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
-2. Wybierz pozycję **Sprzedaj** , wybierz pozycję **Cennik i oferty** , a następnie wybierz pozycję **Cennik planu platformy Azure**.
+2. Wybierz pozycję **Sprzedaj**, wybierz pozycję **Cennik i oferty**, a następnie wybierz pozycję **Cennik planu platformy Azure**.
 3. Znajdź swój licznik według identyfikatora, a następnie Pobierz dane cennika. 
 
 ## <a name="sample-calculation"></a>Przykładowe Obliczanie

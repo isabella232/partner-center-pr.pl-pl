@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Dowiedz się więcej na temat korzyści Microsoft Partner Network (MPN), w tym Action Pack firmy Microsoft, kompetencji i opcji programu, aby przejść na rynek i sprzedawać swoje rozwiązania.
+description: Dowiedz się więcej na temat korzyści Microsoft Partner Network (MPN), takich jak Microsoft Action Pack, kompetencje lub Opcje programu, aby przejść na rynek i sprzedawać swoje rozwiązania.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0678a7f59620c951fc7595f0ff7437d64a433a05
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 4a3b00db6b48d95da58cdc130832ba5dc1ab990f
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530627"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556382"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Partner z firmą Microsoft i odkryj korzyści z członkostwa
 
@@ -31,7 +31,7 @@ Po dołączeniu do programu partnerskiego firmy Microsoft staje się częścią 
 
 ## <a name="join-the-microsoft-partner-network"></a>Dołącz do Microsoft Partner Network
 
-Aby przyłączyć się do Microsoft Partner Network, przejdź do [strony **członkostwo**](https://partner.microsoft.com/membership) w witrynie sieci Web MPN i wybierz pozycję **zarejestruj** lub **Dołącz teraz** .
+Aby przyłączyć się do Microsoft Partner Network, przejdź do [strony **członkostwo**](https://partner.microsoft.com/membership) w witrynie sieci Web MPN i wybierz pozycję **zarejestruj** lub **Dołącz teraz**.
 
 ## <a name="action-pack"></a>Action Pack
 

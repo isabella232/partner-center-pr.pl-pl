@@ -1,6 +1,6 @@
 ---
-title: Nawiązywanie połączenia z klientami
-description: Dowiedz się, jak łączyć się z nowymi i istniejącymi klientami jako pośrednim odsprzedawcą
+title: Nawiązywanie relacji z klientami
+description: Jeśli jesteś pośrednim odsprzedawcą w programie CSP, ten artykuł pomoże Ci połączyć się z nowymi i istniejącymi klientami.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,14 +9,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: dc0d5af728b5e17bc8070fae9c895adc2bf8db4c
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: cb8a3403968ddf5c83c7fdbd1d1af6f6f740d1ff
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92530256"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556314"
 ---
-# <a name="connect-with-customers"></a>Łączenie się z klientami
+# <a name="connect-with-customers"></a>Nawiązywanie relacji z klientami
 
 **Dotyczy:**
 
@@ -38,7 +38,7 @@ Po nawiązaniu połączenia z dostawcą pośrednim nie są automatycznie uzyskiw
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Zaproś klienta o nawiązanie z nim relacji odsprzedawcy
 
-1. Wybierz pozycję **klienci** z menu **Centrum partnerskiego** , a następnie wybierz pozycję **Żądaj relacji odsprzedawcy** .
+1. Wybierz pozycję **klienci** z menu **Centrum partnerskiego** , a następnie wybierz pozycję **Żądaj relacji odsprzedawcy**.
 
 2. Na następnej stronie przejrzyj wersję roboczą wiadomości e-mail. Możesz otworzyć wersję roboczą wiadomości e-mail lub skopiować wiadomość do schowka i wkleić ją do wiadomości e-mail.
 
@@ -82,9 +82,9 @@ Aby usunąć relację z klientem, wykonaj poniższe czynności:
 
 1.  W centrum partnerskim przejdź do pozycji **klienci** i wybierz klienta, którego relację chcesz usunąć.
 
-2.  Wybierz **konto** .
+2.  Wybierz **konto**.
 
-3.  Wybierz pozycję **Usuń relację klienta** .
+3.  Wybierz pozycję **Usuń relację klienta**.
 
 4.  Klient nie będzie już wyświetlany na liście klientów.
 
@@ -95,4 +95,4 @@ Aby usunąć relację z klientem, wykonaj poniższe czynności:
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Dodaj nowego klienta](add-a-new-customer.md)
+- [Dodawanie nowego klienta](add-a-new-customer.md)

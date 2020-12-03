@@ -4,17 +4,17 @@ ms.topic: conceptual
 ms.date: 11/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Dowiedz się, gdzie zarządzać profilem firmy, informacjami o banku i podatkami oraz nie tylko w centrum partnerskim.
+description: Dowiedz się, jak za pomocą Centrum partnerskiego zarządzać profilem, informacjami o banku i podatkami, rolami, uprawnieniami i innymi innymi firmami.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 45b924fa9143d1b4947e5b88c2e14c41c4451d19
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 55046b21e70ad04f47bf4cd191736aa12335060e
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439002"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556450"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Zarządzanie kontem Centrum partnerskiego — profil firmy, informacje o banku, role, uprawnienia i inne
 
