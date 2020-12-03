@@ -2,6 +2,8 @@
   href: index.yml
 - name: Anonse
   href: announcements/TOC.md
+- name: Centrum partnerskie — informacje
+  href: overview.md
 - name: Członkostwo w sieci partnerskiej
   items:
     - name: Partnerstwo z firmą Microsoft
@@ -60,8 +62,13 @@
         - name: Wyłączenie kompetencji dla deweloperów aplikacji
           href: app-dev-isv.md
     - name: Zaawansowane specjalizacje
-      href: advanced-specializations.md
-      displayName: mpn
+      items:
+        - name: Prezentuj swoją wiedzę
+          href: advanced-specializations.md
+          displayName: mpn
+        - name: Zastosuj lub sprawdź stan
+          href: advanced-specializations-apply.md
+          displayName: mpn
     - name: Zostań dostawcą Azure Expert MSP
       href: azure-expert-msp.md
     - name: Korzyści
