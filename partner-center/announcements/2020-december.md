@@ -9,18 +9,61 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/02/2020
-ms.openlocfilehash: d0bc790e31cf38aabc1703f073c42f8946c316ee
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 38a9b83c5c13ed0a0c0f27db409335f9b86b8173
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556727"
+ms.locfileid: "96570777"
 ---
 # <a name="december-2020-announcements"></a>Anonse 2020 grudnia
 
 Na tej stronie znajdują się szczegółowe informacje o anonsach programu Microsoft Partner Center dla listopada 2020.
 
-2020 anonse: od [kwietnia](2020-april.md)do  |  [May](2020-may.md)  |  [czerwca](2020-june.md),  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [wrzesień](2020-september.md),  |  [październik](2020-October.md)  |  [listopad](2020-november.md)| Grudzień
+2020 anonse: od [kwietnia](2020-april.md)do  |  [May](2020-may.md)  |  [czerwca](2020-june.md),  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [wrzesień](2020-september.md),  |  [październik](2020-October.md)  |  [listopad](2020-november.md) | Grudzień
+
+
+______________
+
+## <a name="an-update-of-the-us-microsoft-365-business-voice-with-calling-plan-offer-is-coming-soon"></a><a name="2"></a>Wkrótce zostanie udostępniona aktualizacja Microsoft 365 Business głosu z ofertą planu wywołującego
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2020-12-3
+- Oferty/rynki
+
+### <a name="summary"></a>Podsumowanie 
+
+Od 1 stycznia 2021 firma Microsoft rozpocznie przechodzenie przez partnerów i klientów z nami do nowego Microsoft 365 Business głosu z ofertą planu wywoływania. Nie jest wymagane wykonanie jakiejkolwiek akcji partnerskiej.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem 
+
+Wszyscy partnerzy przeprowadzają Operacje transakcyjne przez program Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Szczegóły
+
+Firma Microsoft zamieni istniejący głos biznesowy za pomocą oferty planu wywołującego w Stanach Zjednoczonych z nową ofertą, która będzie obsługiwać wewnętrzne wymagania dotyczące produktów odpływ. Nowa oferta będzie mieć ten sam zestaw funkcji i Cennik. Zmiany oferty są wewnętrzne dla firmy Microsoft i nie mają wpływu na sposób, w jaki partnerzy CSP na rynku, sprzedawać ani nie obsługują głosu biznesowego z ofertą planu wywoływania. Zmiana zostanie zastosowana tylko do tej oferty.
+
+W przypadku nowej sprzedaży będziesz używać nowej oferty od 1 stycznia 2021. Stara oferta zostanie zastąpiona nową ofertą na cenniku.
+
+Istniejący klienci zostaną automatycznie przeniesieni do nowej oferty w dniu ich odnowienia. Od partnerów nie jest wymagana żadna akcja i odnowienie klientów.
+
+
+* * Szczegóły nowej oferty
+ 
+   |**Nazwa oferty**|**Identyfikator oferty**|**Identyfikator materiału**|
+   |-------------------|:------|:------|
+   |Microsoft 365 Business Voice (US)|86713ec1-ad33-42cf-a1ce-8397d4d875fe|PZW-00023|
+   
+* * Szczegóły oferty
+
+   |**Nazwa oferty**|**Identyfikator oferty**|**Identyfikator materiału**|
+   |-------------------|:------|:------|
+   |Microsoft 365 Business Voice (US)|9f9f2c7b-c961-402b-9421-8e3c9207eeb3|PZW-00009|
+
+### <a name="next-steps"></a>Następne kroki
+
+Zapoznaj się z cennikiem i Udostępnij te informacje wszystkim odpowiednim kontaktom w organizacji.
 
 ______________
 

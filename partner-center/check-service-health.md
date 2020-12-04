@@ -1,6 +1,6 @@
 ---
 title: Sprawdzanie kondycji usługi dla klienta
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,18 +9,14 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34b74d6039e0fb184d7fcb7f3a5b24717d593ed3
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 60957d227197460a0cdb108e1826758e0ec48e03
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92529409"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570624"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Sprawdź kondycję usługi, aby zgłaszać potencjalne problemy z usługą lub przestoje
-
-**Dotyczy**
-
-- Centrum partnerskie
 
 **Odpowiednie role**
 
@@ -29,9 +25,9 @@ ms.locfileid: "92529409"
 - Agent pomocy technicznej
 - Agent sprzedaży
 
-Jednym z pierwszych rzeczy, które można wykonać, gdy klient napotyka problemy z usługą, sprawdza kondycję usługi. 
+W tym artykule wyjaśniono, jak za pomocą Centrum partnerskiego sprawdzić kondycję usługi dla klienta, gdy wystąpi problem z usługą. 
 
-## <a name="check-service-health"></a>Sprawdź kondycję usługi
+## <a name="check-service-health"></a>Sprawdzanie kondycji usługi
 
 1. Wybierz **klienta** , którego dotyczy problem, z **listy klient**.
 
@@ -48,5 +44,5 @@ Podczas przestoju usługi firma Microsoft udostępnia regularne aktualizacje, gd
 
 - Microsoft 365 i Microsoft Azure każdy udostępnia [interfejsy API, za pomocą których partnerzy mogą pobrać kondycję usługi w czasie rzeczywistym](get-automated-service-notifications-with-our-apis.md), komunikację centrum komunikatów i planowane zdarzenia konserwacji.
 
- 
+ 
 

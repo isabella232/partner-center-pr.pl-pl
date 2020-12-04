@@ -9,19 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ff64c265aadacca5389c16168d1e161936f5e88
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "92529385"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570709"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Przegląd rozliczeń dla partnerów programu CSP pracujących w Centrum partnerskim 
-
-**Dotyczy**
-
-- Centrum partnerskie
-- Partnerzy w programie dostawcy rozwiązań w chmurze (CSP)
 
 **Odpowiednie role**
 
@@ -31,13 +26,16 @@ ms.locfileid: "92529385"
 - Agent pomocy technicznej
 - Agent sprzedaży
 
+Ten artykuł zawiera podstawowe informacje o rozliczeniach i fakturach dla partnerów CSP w centrum partnerskim, w tym rozliczanie klientów i sposób znajdowania i odczytywania faktury.
+
+
 ## <a name="find-your-bill"></a>Znajdowanie rachunku
 
 Aby znaleźć rachunek:
 
-1. [Zaloguj się do pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/home).
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home)Centrum partnerskiego.
 
-2. W menu po lewej stronie wybierz pozycję **rozliczenia**.
+2. W menu Centrum partnerskiego wybierz pozycję **rozliczenia**.
 
 3. Na stronie **rozliczenia** możesz pobrać najnowszy rachunek lub pobrać poprzednie weksle w sekcji **historia rozliczeń** .
 
@@ -45,7 +43,7 @@ Aby znaleźć rachunek:
 
 Firma Microsoft nie ma żadnych wymagań ani warunków dotyczących sposobu obsługi fakturowania.
 
-Aby określić użycie klienta, [zapoznaj się z plikami uzgodnienia](#find-your-bill). Możesz użyć nazwy klienta i innych odpowiednich pól, aby określić użycie.
+Aby określić użycie klienta, zapoznaj się z [plikami uzgodnienia](#find-your-bill). Użyj nazwy klienta i innych odpowiednich pól, aby określić użycie.
 
 ### <a name="billing-types"></a>Typy rozliczeń
 
@@ -173,3 +171,8 @@ Może być konieczne zażądanie kredytu lub rachunku z następujących powodów
 - Po wygenerowaniu faktury została zastosowana zwrot podatku. Możesz zażądać kredytu lub rachunku, aby otrzymać zwrot podatku z powrotem do oryginalnej faktury. Ta sama wartość dotyczy również zwrotów. Możesz poprosić o kredyt lub rachunek z oryginalnej faktury, a następnie ściągnąć zwrot.
 
 **W przypadku wszystkich jednorazowych i cyklicznych transakcji** firma Microsoft może wydać fakturę kredytową, gdy użytkownik zażąda kredytu lub rachunku. Faktura zostanie anulowana po wystawieniu środków. 
+
+## <a name="next-steps"></a>Następne kroki
+
+- [Informacje o rozliczeniach i plikach uzgadniania](read-your-bill.md)
+- [Typowe scenariusze rozliczania dla partnerów programu CSP](common-billing-scenarios.md)

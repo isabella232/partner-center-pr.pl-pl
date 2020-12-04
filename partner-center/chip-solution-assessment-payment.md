@@ -1,24 +1,24 @@
 ---
-title: Informacje o stanie płatności i obliczeniach oceny rozwiązania
+title: Stan płatności oceny rozwiązania
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Dowiedz się, w jaki sposób można znaleźć informacje dotyczące oceny rozwiązań.
+description: Użyj platformy zachęty kanału (MIKROUKŁAD), aby znaleźć informacje o możliwościach oceny rozwiązań, ich obliczeniach i ich stanie płatności.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 50aadcb667ff931e53b08a7902bb247798975e2d
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 6ab0cd74e3955a71383b2ba758dc76b1b37fdee6
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422207"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570471"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>Informacje o stanie płatności i obliczeniach oceny rozwiązania
 
-Stan możliwości oceny rozwiązania można sprawdzić w obszarze Układ. 
+Stan możliwości oceny rozwiązania można sprawdzić w obszarze Układ.
 
 ## <a name="how-to-review-your-payment-status"></a>Jak przejrzeć swój status płatności
 
@@ -52,4 +52,4 @@ Aby można było wyświetlić ten raport zatwierdzenia płatności, szanse sprze
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Problem z dostępem do mikroukładu](chip-access-trouble.md) 
+- [Problem z uzyskiwaniem dostępu do platformy CHIP](chip-access-trouble.md) 

@@ -1,22 +1,22 @@
 ---
-title: Wyświetlanie zarobków w układzie
+title: Wyświetlanie zarobków na platformie CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Wytyczne dotyczące wyświetlania zarobków w układzie
+description: Dowiedz się, jak wyświetlać swoje oświadczenia i zarobki w narzędziu zachęty dla kanału.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b860b8ccd932e23bd12e17e1441a3113cc29400f
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: a78fb9d13d149cba75fc616b93cdfe0b47dfafc4
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422219"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570505"
 ---
-# <a name="view-earnings-in-chip"></a>Wyświetlanie zarobków w układzie
+# <a name="view-earnings-using-the-chip-tool"></a>Wyświetlanie zarobków przy użyciu narzędzia MIKROUKŁAD
 
 Możesz uzyskać dostęp do swoich instrukcji zachęt za pośrednictwem narzędzia platformy zachęty kanału (MIKROUKŁAD).
 
@@ -41,4 +41,4 @@ Możesz uzyskać dostęp do swoich instrukcji zachęt za pośrednictwem narzędz
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Sprawdź stan płatności w układzie](chip-payment-status.md)
+- [Sprawdzanie stanu płatności na platformie CHIP](chip-payment-status.md)

@@ -1,20 +1,20 @@
 ---
-title: Stan możliwości oceny rozwiązania na platformie zachęt dla kanału (MIKROUKŁAD)
+title: Stan możliwości oceny rozwiązania CHIPowego
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Dowiedz się, jak znaleźć stan możliwości oceny rozwiązania na urządzeniu UKŁADowym.
+description: Dowiedz się, jak znaleźć stan możliwości oceny rozwiązania na platformie zachęty kanału (MIKROUKŁAD).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 035d500e41e3b28ac566ab42b3406c095dea7b11
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 8f453243d7d59fde84a6660f7160447fc05d68d1
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422214"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570386"
 ---
 # <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>Znajdź stan możliwości oceny rozwiązania na urządzeniu
 
@@ -62,7 +62,7 @@ Jeśli masz dodatkowe pytania lub chcesz przesłać bilet pomocy technicznej, kl
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Sprawdź stan płatności w układzie](chip-payment-status.md)
+- [Sprawdzanie stanu płatności na platformie CHIP](chip-payment-status.md)
 - [Pomoc techniczna](report-problems-with-partner-center.md)
 
 .

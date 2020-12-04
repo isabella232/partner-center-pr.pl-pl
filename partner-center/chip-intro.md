@@ -1,20 +1,20 @@
 ---
-title: Nawigowanie na platformie zachęt w kanale (MIKROUKŁAD)
+title: Korzystanie z platformy zachęty kanału (MIKROUKŁAD)
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Dowiedz się, jak korzystać z mikroukładu do pracy z bodźcami.
+description: Dowiedz się, jak korzystać z platformy zachęt do obsługi kanałów (MIKROUKŁAD) na potrzeby działań związanych z zachętami. Uwaga Ta platforma zostanie wycofana z końcem 2021.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ca669cb62995b84dc246cbc5db5d1b9ada8b8ed
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 386acaadc74c1c8247a42cebc98c3d325ba43511
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422211"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570404"
 ---
 # <a name="navigate-the-channel-incentives-platform-chip"></a>Przejdź do platformy zachęty kanału (MIKROUKŁAD)
 
@@ -41,4 +41,4 @@ Z tego miejsca możesz wyświetlić **wydajność** i **zyski** dla wybranego pr
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Dodawanie użytkowników do konta mikroukładu](chip-users.md)
+- [Dodawanie użytkowników do konta platformy CHIP](chip-users.md)

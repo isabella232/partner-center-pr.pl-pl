@@ -9,19 +9,21 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417255"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570692"
 ---
 # <a name="benefits-faq"></a>Często zadawane pytania dotyczące korzyści
 
-Dotyczy:
+**Odpowiednie role**
 
-- Centrum partnerskie
-- Centrum partnerskie Microsoft Cloud for US Government
+- Administrator MPN
+
+W tym artykule omówiono wiele typowych pytań dotyczących korzyści związanych z Microsoft Partner Network (MPN).
+
 
 ## <a name="general-questions"></a>Pytania ogólne
 
@@ -87,7 +89,7 @@ Subskrypcje można przypisywać do dowolnej osoby na liście zarządzania użytk
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 
-2. W lewym okienku nawigacji wybierz pozycję **MPN**.
+2. W menu Centrum partnerskiego wybierz pozycję **MPN**.
 
 3. Wybierz pozycję **zalety**, a następnie wybierz pozycję **Visual Studio**.
 
@@ -96,7 +98,7 @@ Subskrypcje można przypisywać do dowolnej osoby na liście zarządzania użytk
 Po przypisaniu subskrypcji Użytkownik musi zalogować się do programu Visual Studio w celu zarządzania nim.
 
 >[!Note]
-> Subskrypcje programu Visual Studio mogą zostać ponownie przypisane między subskrybentami po 90 dniach oryginalnego przypisania
+> Subskrypcje programu Visual Studio mogą być przypisywane ponownie z jednego subskrybenta do innego 90 dni od oryginalnego przypisania.
 
 ## <a name="technical-benefits-and-support"></a>Korzyści techniczne i pomoc techniczna
 
@@ -106,7 +108,7 @@ Narzędzia do instalacji, aktywacji i innej pomocy związanej z produktem są ud
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 
-2. W lewym okienku nawigacji wybierz pozycję **MPN**.
+2. W menu Centrum partnerskiego wybierz pozycję **MPN**.
 
 3. Wybierz pozycję **zalety**, a następnie wybierz pozycję **korzyści techniczne**.
 
@@ -115,3 +117,7 @@ Narzędzia do instalacji, aktywacji i innej pomocy związanej z produktem są ud
 5. Zaloguj się do [Pomoc techniczna firmy Microsoft](https://support.microsoft.com/supportforbusiness/productselection).
 
 6. Wybierz produkt, który próbujesz zainstalować, a następnie utwórz bilet pomocy technicznej.
+
+## <a name="next-steps"></a>Następne kroki
+
+- [Uzyskaj zaawansowaną specjalizację, aby zaprezentować swoją wiedzę](advanced-specializations.md)

@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f94b11c4feb9cd1bedd97bebc537a504f9c4d127
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3f04708d3b7e2c86c88541931c120a6649674fb
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529818"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570794"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Utwórz konto Centrum partnerskiego, aby zarządzać korzyściami i kompetencjami sieci
 
@@ -25,21 +25,25 @@ ms.locfileid: "92529818"
 
 Aby można było utworzyć konto w centrum partnerskim, firma musi być członkiem Microsoft Partner Network. Jeśli nie jesteś jeszcze członkiem sieci, możesz [dołączyć do niej teraz](https://partner.microsoft.com/commercial#). Po utworzeniu konta Centrum partnerskiego Obejrzyj ten krótki film wideo w celu [odnalezienia pulpitu nawigacyjnego](https://vimeo.com/290338211).
 
-## <a name="before-you-begin"></a>Przed rozpoczęciem
+## <a name="get-a-work-email-address-before-setting-up-a-partner-center-account"></a>Uzyskaj służbowy adres e-mail przed skonfigurowaniem konta Centrum partnerskiego
+
+Firma musi kupić domenę poczty e-mail, aby można było skonfigurować służbowe adresy e-mail dla pracowników. Skontaktuj się z działem IT, aby kupić domenę poczty e-mail, ponieważ jest to proces techniczny. Użyj nowej wiadomości e-mail w celu skonfigurowania dzierżawy usługi Azure AD i konta Centrum partnerskiego.
+
+## <a name="get-started"></a>Wprowadzenie
 
 Aby utworzyć konto w centrum partnerskim, musisz korzystać z poniższych informacji. Aby zebrać te elementy przed rozpoczęciem pracy, może być konieczne Poświęć kilka minut:
 
--   Służbowy adres e-mail administratora globalnego.
+- Służbowy adres e-mail administratora globalnego.
 
--   Jeśli nie masz pewności, co to jest konto służbowe firmy, zobacz [firmowe konto służbowe i centrum partnerskie](azure-active-directory-tenants-and-partner-center.md) , jeśli firma nie ma konta służbowego, można utworzyć je podczas procesu tworzenia konta. 
+- Jeśli nie masz pewności, co to jest konto służbowe firmy, zobacz [firmowe konto służbowe i centrum partnerskie](azure-active-directory-tenants-and-partner-center.md) , jeśli firma nie ma konta służbowego, można utworzyć je podczas procesu tworzenia konta. 
 
--   Prawna służbowa nazwa firmy i adres.  
+- Prawna służbowa nazwa firmy i adres.  
 
--   Urząd do podpisywania umów prawnych. Upewnij się, że masz uprawnienia do podpisywania umów prawnych w imieniu firmy, ponieważ użytkownik zostanie poproszony o to podczas procesu rejestracji.
+- Urząd do podpisywania umów prawnych. Upewnij się, że masz uprawnienia do podpisywania umów prawnych w imieniu firmy, ponieważ użytkownik zostanie poproszony o to podczas procesu rejestracji.
 
--   Nazwa i służbowa poczta e-mail osoby, która ma pełnić rolę Twojego kontaktu podstawowego. Aby pomóc w zapewnieniu bezpieczeństwa i prywatności firmy, wyślemy wiadomość e-mail do głównej osoby kontaktowej w celu sprawdzenia, czy konto w centrum partnerskim (1) zostało zarejestrowane w usłudze, a ten adres e-mail należy do firmy. Gdy kontakt podstawowy sprawdzi swój adres e-mail, będziemy kontynuować przegląd dostarczonych informacji.
+- Nazwa i służbowa poczta e-mail osoby, która ma pełnić rolę Twojego kontaktu podstawowego. Aby pomóc w zapewnieniu bezpieczeństwa i prywatności firmy, wyślemy wiadomość e-mail do głównej osoby kontaktowej w celu sprawdzenia, czy konto w centrum partnerskim (1) zostało zarejestrowane w usłudze, a ten adres e-mail należy do firmy. Gdy kontakt podstawowy sprawdzi swój adres e-mail, będziemy kontynuować przegląd dostarczonych informacji.
 
-Będziemy weryfikować te informacje podczas procesu tworzenia konta. 
+Będziemy weryfikować te informacje podczas procesu tworzenia konta. Aby uzyskać informacje na temat procesu weryfikacji, zobacz [weryfikacja konta](verification-responses.md)
  
 ## <a name="create-a-partner-center-account"></a>Tworzenie konta w Centrum partnerskim
 

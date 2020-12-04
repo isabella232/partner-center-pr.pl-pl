@@ -1,22 +1,22 @@
 ---
-title: Zarządzanie użytkownikami i licencjami użytkowników dla kont klientów
+title: Zarządzanie użytkownikami dla kont klientów
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, jak zarządzać użytkownikami dla klientów w centrum partnerskim, takich jak tworzenie kont użytkowników, Dodawanie lub usuwanie licencji użytkowników, resetowanie haseł użytkowników oraz usuwanie lub przywracanie kont użytkowników.
+description: Zarządzanie użytkownikami dla klientów w centrum partnerskim — tworzenie kont użytkowników, Dodawanie lub usuwanie licencji użytkowników, resetowanie haseł oraz usuwanie lub przywracanie kont użytkowników.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474074"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570743"
 ---
-# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Zarządzanie użytkownikami i licencjami użytkowników dla kont klientów
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Zarządzanie użytkownikami i licencjami użytkowników dla kont klientów 
 
 **Odpowiednie role**
 
@@ -76,21 +76,21 @@ Poniższe kroki dotyczą dodawania lub usuwania licencji użytkowników dla prod
 
 2. W menu Centrum partnerskiego wybierz pozycję **klienci**, a następnie wybierz klienta z listy.
 
-3.  W menu Klient wybierz pozycję **Użytkownicy i licencje**. Wybierz użytkownika z listy.
+3. W menu Klient wybierz pozycję **Użytkownicy i licencje**. Wybierz użytkownika z listy.
 
-4.  W dolnej części ekranu wybierz pozycję **Resetuj hasło**. 
+4. W dolnej części ekranu wybierz pozycję **Resetuj hasło**. 
 
-5.  Wyślij nowe hasło tymczasowe do użytkownika.
+5. Wyślij nowe hasło tymczasowe do użytkownika.
 
 <a href="" id="deleteuseraccounts"></a>
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Usuwanie kont użytkowników dla klienta
 
-1.  W menu **Centrum partnerskiego** wybierz pozycję **Customers**. Wybierz klienta z listy.
+1. W menu **Centrum partnerskiego** wybierz pozycję **Customers**. Wybierz klienta z listy.
 
-2.  W menu Klient wybierz pozycję **Użytkownicy i licencje**. Wybierz użytkownika z listy.
+2. W menu Klient wybierz pozycję **Użytkownicy i licencje**. Wybierz użytkownika z listy.
 
-3.  W dolnej części ekranu wybierz pozycję **Usuń konto użytkownika**.
+3. W dolnej części ekranu wybierz pozycję **Usuń konto użytkownika**.
 
 Jeśli musisz przywrócić to konto, możesz je znaleźć na karcie **usunięci użytkownicy** na liście **Użytkownicy i licencje** klienta. Użytkownik ma 30 dni na przywrócenie usuniętego użytkownika.
 
@@ -98,19 +98,18 @@ Jeśli musisz przywrócić to konto, możesz je znaleźć na karcie **usunięci 
 
 ## <a name="restore-deleted-user-accounts"></a>Przywracanie usuniętych kont użytkowników
 
-1.  W menu **Centrum partnerskiego** wybierz pozycję **klienci**, a następnie wybierz klienta z listy.
+1. W menu **Centrum partnerskiego** wybierz pozycję **klienci**, a następnie wybierz klienta z listy.
 
-2.  Wybierz pozycję **Użytkownicy i licencje**.
+2. Wybierz pozycję **Użytkownicy i licencje**.
 
-3.  Wybierz kartę **usunięci użytkownicy ()** . Po usunięciu użytkowników, które mogą zostać przywrócone, należy przeczytać **(1)** lub więcej.
+3. Wybierz kartę **usunięci użytkownicy ()** . Po usunięciu użytkowników, które mogą zostać przywrócone, należy przeczytać **(1)** lub więcej.
 
-4.  Wybierz co najmniej jeden z pól wyboru usuniętych użytkowników, a następnie wybierz pozycję **Przywróć**.
+4. Wybierz co najmniej jeden z pól wyboru usuniętych użytkowników, a następnie wybierz pozycję **Przywróć**.
 
     Wszystkie wybrane konta użytkowników zostaną wyświetlone na stronie **Użytkownicy i licencje** .
 
-## <a name="related-topics"></a>Powiązane tematy
+## <a name="next-steps"></a>Następne kroki
 
+- [Przypisywanie lub odwoływanie licencji dla wielu użytkowników](bulk-license-provisioning-for-multiple-users.md)
 
-[Przypisywanie lub odwoływanie licencji dla wielu użytkowników](bulk-license-provisioning-for-multiple-users.md)
-
-[Tworzenie wielu użytkowników dla konta klienta](adding-multiple-users-to-a-customer-account.md)
+- [Tworzenie wielu użytkowników dla konta klienta](adding-multiple-users-to-a-customer-account.md)
