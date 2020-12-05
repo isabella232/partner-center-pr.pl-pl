@@ -1,26 +1,22 @@
 ---
 title: Migrowanie z programu Partner Sales Connect (PSC)
-description: Dowiedz się, w jaki sposób partnerzy firmy Microsoft mogą migrować z usługi Partner Sales Connect (PSC) do Centrum partnerskiego i tworzyć oferty wysyłane przez sprzedawców firmy Microsoft lub zarządzać nimi.
 ms.topic: article
-author: vikramb
-ms.author: vikramb
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
+description: Dowiedz się, w jaki sposób partnerzy firmy Microsoft mogą migrować z usługi Partner Sales Connect (PSC) do Centrum partnerskiego i tworzyć oferty wysyłane przez sprzedawców firmy Microsoft lub zarządzać nimi.
+author: vikramb
+ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 11/06/2020
-ms.openlocfilehash: 34a18e4a4bf4d5c29265fdf76fae05b4ba16a3bc
-ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
+ms.date: 12/04/2020
+ms.openlocfilehash: 5a1b27f108440fc9adfc2cefefd2e4c2bf79ff48
+ms.sourcegitcommit: 558533fb39b13aefc3ab2b015145a908f86f8d7d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94670171"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "96612826"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Przewodnik po przedsprzedaży w centrum partnerskim (komputer) dla partnerów migrowania z programu Partner Sales Connect (PSC)
-
-**Dotyczy**
-
-- Centrum partnerskie
 
 **Odpowiednie role**
 
@@ -30,28 +26,34 @@ ms.locfileid: "94670171"
 - Administrator połączenia z partnerem sprzedaży (PSC)
 - Menedżer ds. sprzedaży partnera (PSC)
 
-Jak wiadomo, firma utraci dostęp do 31 marca 2021. Znajdziesz wszystko, co chcesz zrobić, aby utworzyć oferty współsprzedażowe, zarządzać ofertami i podejmować działania dotyczące transakcji wysyłanych przez sprzedawcy firmy Microsoft do Ciebie w centrum partnerskim. Istnieją jednak różnice, a poniższe wskazówki pomogą Ci zapewnić bezproblemowe przejście do Centrum partnerskiego i przekazanie go do przodu.
+W tym artykule opisano partnerów migrowania z usługi Partner Sales Connect do Centrum partnerskiego, dzięki czemu mogą oni nadal tworzyć i zarządzać współpracownikami w centrum partnerskim.
+
+Jak wiadomo, firma utraci dostęp do kontrolera PSC po 31 marca 2021. Nadal jednak znajdziesz wszystko, co chcesz zrobić w centrum partnerskim, takie jak tworzenie transakcji towarzyszących, zarządzanie transakcjami i działanie w przypadku transakcji wysyłanych do Ciebie przez sprzedawcy firmy Microsoft.
+
+Istnieją jednak różnice między nimi. Poniższe wskazówki mogą pomóc zapewnić bezproblemowe przejście do Centrum partnerskiego i bardziej skomplikowane.
 
 >[!Important]
 > Jeśli jesteś tutaj, ponieważ zobaczysz transparent na komputerze PSC o migracji, jesteś w odpowiednim miejscu. Ten przewodnik nie ma zastosowania do oceny rozwiązań (SA) i partnerów IOT OEM zarządzających swoimi ofertami na komputerze PSC.
 
 ## <a name="before-you-move-things-you-need-to-know"></a>Zanim przejdziesz, co musisz wiedzieć
 
-### <a name="if-you-are-psc-admin"></a>Jeśli jesteś administratorem PSC
+### <a name="if-you-are-a-psc-admin"></a>Jeśli jesteś administratorem PSC
 
 - Aby zalogować się do [Centrum partnerskiego](https://partner.microsoft.com/), potrzebujesz służbowego adresu e-mail.
-- Skonfiguruj swoje konto za pomocą pomocy [administratora konta](permissions-overview.md)Centrum partnerskiego.
+- Skonfiguruj swoje konto, korzystając z pomocy [administratora konta](permissions-overview.md)Centrum partnerskiego.
 - Dowiedz się, jak sprzedawać w centrum partnerskim, czytając ten dokument.
-- Skonfiguruj konta użytkowników w centrum partnerskim dla wszystkich użytkowników PSC (administratorów, menedżerów transakcji i ról sprzedających) i przypisz im [role administratora odwołań](permissions-overview.md).
+- Skonfiguruj konta użytkowników w centrum partnerskim dla wszystkich użytkowników komputerów PSC (administratorów, menedżerów transakcji i ról sprzedawcy) i przypisz im [role administratora odwołań](permissions-overview.md).
 
->[!Important]
-> Upewnij się, że identyfikator MPN wyświetlany na banerze PSC jest dostępny na liście lokalizacji MPN w centrum partnerskim. Możesz sprawdzić, czy w centrum partnerskim, przechodząc do pozycji "Ustawienia konta" i "[lokalizacje](manage-locations.md)" w obszarze, aby znaleźć listę wszystkich usługi MPNS skojarzonych z kontem Centrum partnerskiego.
+>[!IMPORTANT]
+> Upewnij się, że identyfikator MPN wyświetlany na banerze PSC jest dostępny na liście lokalizacji MPN w centrum partnerskim.
 
 :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Obraz przedstawiający transparent PSC, w którym partnerzy mogą znaleźć identyfikator MPN.":::
 
-### <a name="if-you-are-psc-deal-manager-or-seller"></a>Jeśli jesteś menedżerem PSC transakcji lub sprzedawcą
+ Aby sprawdzić, czy identyfikator MPN jest wyświetlany jako lokalizacja MPN Centrum partnerskiego, zaloguj się na [pulpicie nawigacyjnym](https://partner.microsoft.com/dashboard)Centrum partnerskiego, a następnie wybierz pozycję **Ustawienia** (ikona koła zębatego) w prawym górnym rogu ekranu, a następnie **Ustawienia konta**. W menu nawigacji po lewej stronie wybierz pozycję **lokalizacje** , aby wyświetlić listę wszystkich identyfikatorów MPN i lokalizacji skojarzonych z kontem Centrum partnerskiego.
 
-- Aby zalogować się do [Centrum partnerskiego](https://partner.microsoft.com/), potrzebujesz służbowego adresu e-mail.
+### <a name="if-you-are-a-psc-deal-manager-or-seller"></a>Jeśli jesteś menedżerem rozwiązania PSC lub sprzedawcą
+
+- Aby zalogować się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego, potrzebujesz służbowego adresu e-mail.
 - Jeśli używasz konta innego niż służbowego na komputerze PSC lub służbowy adres e-mail jest przeznaczony dla innej firmy niż firma partnerska, skontaktuj się z administratorem kontrolera konfiguracji, aby uzyskać pomoc dotyczącą konfigurowania konta.
 - Skontaktuj się z administratorem systemu PSC, jeśli skonfigurowano konto Centrum partnerskiego niezależnie od konta, którego używasz do logowania się do komputera PSC.
 - Sprawdź, czy masz dostęp do Centrum partnerskiego i sekcji odwołania.
@@ -59,32 +61,42 @@ Jak wiadomo, firma utraci dostęp do 31 marca 2021. Znajdziesz wszystko, co chce
 
 ## <a name="as-an-admin-in-psc-these-are-your-next-steps"></a>Jako administrator w PSC, są to kolejne kroki
 
-Jeśli nie widzisz karty odwołania:
-
-- [Administrator globalny](permissions-overview.md) firmy może udzielić dostępu do karty odwołania. Aby znaleźć administratora globalnego, przejdź do obszaru Ustawienia partnera z ikony koła zębatego w prawym górnym rogu Centrum partnerskiego. Wybierz stronę Zarządzanie użytkownikami na drugim poziomie lewego paska nawigacyjnego. Kliknij menu rozwijane zawierające wartość "Wszyscy użytkownicy" w prawym górnym rogu strony i zmień wartość na "Administratorzy globalni". Na stronie zostaną wyświetlone wszystkie Administratorzy globalni z odpowiednimi identyfikatorami poczty e-mail. Skontaktuj się z pomocą techniczną, aby uzyskać dostęp do konta służbowego z uprawnieniami administratora.
-
-  >[!Important]
-  > Jeśli Twoja rola zarządza użytkownikami tylko w komputerze PSC, możesz uzyskać rolę [administratora konta](permissions-overview.md#manage-mpn-membership-and-your-company) w centrum partnerskim. Jeśli rola obejmuje również zarządzanie szansami do sprzedaży, należy uzyskać rolę [administratora odwołań](permissions-overview.md#manage-referrals) . Ponadto należy mianować jednego lidera zarządzania zmianami wśród administratorów systemu PSC do współpracy z administratorem konta Centrum partnerskiego, a nie wszystkich administratorów systemu PSC, którzy nie mają dostępu do administratorów konta na komputerze osobno.
-
-  :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Obraz przedstawiający administratorów konta na stronie Zarządzanie użytkownikami ustawień partnera.":::
-
-- Przejdź do karty odwołania w lewym okienku nawigacji i sprawdź, czy możesz uzyskać dostęp do stron.
+W menu nawigacji po lewej stronie Centrum partnerskiego wybierz opcję **odwołania** . Potwierdź, że możesz uzyskać dostęp do stron odwołań.
 
   >[!Note]
   > Może być konieczne wylogowanie się z Centrum partnerskiego i ponowne zalogowanie się w celu odświeżenia poświadczeń w celu uzyskania dostępu do stron odwołań.
 
+Jeśli nie widzisz opcji **odwołania** w menu Centrum partnerskiego lub na stronach związanych z odwołaniami, skontaktuj się z [administratorem globalnym](permissions-overview.md) Twojej firmy i poproś o przyznanie dostępu do opcji **odwołania** i powiązanego obszaru. 
+
+Aby znaleźć administratora globalnego firmy:
+
+1. Wybierz pozycję **Ustawienia konta** z ikony koła zębatego w prawym górnym rogu pulpitu nawigacyjnego Centrum partnerskiego.
+
+1. Wybierz pozycję **Zarządzanie użytkownikami** z poziomu drugiego menu nawigacji po lewej stronie. 
+
+1. W górnej części listy użytkowników wybierz menu rozwijane **Filtr** . Zmień opcję na **administrator globalny**.
+
+   Na stronie zostaną wyświetlone wszystkie Administratorzy globalni z odpowiednimi adresami e-mail. Wyślij jedną z nich i poproś o przypisanie roli administratora odwołań dla Twojego konta służbowego.
+
+  :::image type="content" source="images/pscmigration/account-admin.png" alt-text="Obraz przedstawiający administratorów konta na stronie Zarządzanie użytkownikami ustawień partnera.":::
+
+>[!Important]
+>- Jeśli rola obejmuje tylko zarządzanie użytkownikami na komputerze PSC, poproszenie administratora globalnego firmy o przypisanie roli [administratora konta](permissions-overview.md#manage-mpn-membership-and-your-company) w centrum partnerskim. 
+>- Jeśli rola obejmuje również zarządzanie szansami sprzedaży, należy polecić przypisanie roli [administratora odwołań](permissions-overview.md#manage-referrals) .
+> - Dobrym pomysłem jest również mianowanie jednego lidera zarządzania zmianami między administratorami PSC. Dzięki temu wszyscy administratorzy PSC będą mogli skontaktować się indywidualnie z administratorami konta Centrum partnerskiego. Zamiast tego lider zarządzania zmianami może być wtedy główną osobą korzystającą z administratora konta Centrum partnerskiego.
+
 ## <a name="user-migration"></a>Migracja użytkowników
 
-Po skonfigurowaniu konta w centrum partnerskim Użyj Kreatora migracji użytkowników na stronie z możliwością współsprzedaży, aby przypisać role Centrum partnerskiego do pracowników firmy.
+Po skonfigurowaniu konta w centrum partnerskim Użyj Kreatora migracji użytkowników na stronie z możliwością wspólnej sprzedaży, aby przypisać role Centrum partnerskiego do pracowników firmy.
 
 >[!Note]
-> Migracja użytkowników może być przeprowadzana tylko przez [administratorów konta](permissions-overview.md#manage-mpn-membership-and-your-company) Twojej firmy. Jeśli nie masz roli administratora konta, Znajdź administratora konta, który może pomóc skonfigurować konta użytkowników za pomocą Kreatora migracji użytkowników. Funkcja migracji użytkowników będzie dostępna od 18 listopada 2020.
+> Migracja użytkowników może być przeprowadzana tylko przez [administratorów konta](permissions-overview.md#manage-mpn-membership-and-your-company) Twojej firmy. Jeśli nie masz roli administratora konta, Znajdź administratora konta, który może pomóc w skonfigurowaniu kont użytkowników za pomocą Kreatora migracji użytkowników. Funkcja migracji użytkowników będzie dostępna od 18 listopada 2020.
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Obraz przedstawiający Kreatora migracji użytkowników.":::
 
-Administratorzy konta otrzymają link Kreator migracji użytkowników komputera PSC na stronie możliwości wspólnej sprzedaży obok podręcznika odwołania. Aby rozpocząć migrację użytkownika, kliknij link. Tę akcję można wykonać wiele razy, dopóki wszyscy użytkownicy, którzy chcą przeprowadzić migrację, mają przypisane odpowiednie role w centrum partnerskim.
+Administratorzy konta zobaczą link Kreatora migracji użytkowników komputera PSC na stronie z możliwością wspólnej sprzedaży obok podręcznika odwołania. Można zainicjować migrację użytkownika, wybierając link. Aby zainicjować migrację użytkowników, Administratorzy mogą wybrać link. Ten krok migracji użytkowników może wykonać wiele razy, dopóki wszyscy użytkownicy nie zostaną przypisani do odpowiednich ról w centrum partnerskim.
 
-Tabela migracji użytkowników zawiera następujące szczegóły
+Tabela migracji użytkowników zawiera następujące szczegóły:
 
 - Konto użytkownika — identyfikator E-mail pracownika
 - Konto partnera PSC — konto, z którym jest skojarzony pracownik w systemie PSC
@@ -93,22 +105,29 @@ Tabela migracji użytkowników zawiera następujące szczegóły
 - Rola użytkownika komputera — pracownicy są przypisani do ról na podstawie ich ról użytkownika kontrolera systemu. Administrator na komputerze PSC zostanie przypisany do ról administratorów na komputerach. Sprzedawca zostanie przypisany do roli użytkownika z odwołaniami na komputerze. Dowiedz się więcej o rolach komputera i o tym, co użytkownicy z tymi rolami mogą wykonać w centrum partnerskim [tutaj](permissions-overview.md#manage-referrals)
 - Dzierżawa komputera usługi AAD — dzierżawa, do której użytkownicy są przypisani w centrum partnerskim
 - Stan — istnieją trzy możliwe stany migracji stanu
-    - Nie przeprowadzono migracji — użytkownik nie ma przypisanej roli żadnych odwołań komputera
-    - Migracja — użytkownik został pomyślnie zmigrowany z odpowiednimi przypisanymi rolami, jak pokazano w tabeli
-    - Błąd — nie można ukończyć migracji z powodu błędu
+    - **Nie przeprowadzono migracji** — użytkownik nie ma przypisanej roli żadnych odwołań komputera
+    - **Migracja** — użytkownik został pomyślnie zmigrowany z odpowiednimi przypisanymi rolami, jak pokazano w tabeli
+    - **Błąd** — nie można ukończyć migracji z powodu błędu
 
-Migracja może zakończyć się niepowodzeniem i spowodować błędy w niektórych warunkach, dla których rozwiązania są podane poniżej
+Czasami migracja może zakończyć się niepowodzeniem i spowodować błędy. Poniżej przedstawiono kilka powodów, dla których migracja może spowodować błąd i niektóre sposoby rozwiązania problemu:
 
 1. Użytkownicy PSC mogą korzystać z konta innego niż konto służbowe.
 
-2. Użytkownicy PSC mogą korzystać z konta z domeny innej niż ta, która jest używana w centrum partnerskim.
+2. Użytkownik PSC może korzystać z konta z domeny innej niż ta, która jest używana w centrum partnerskim.
 
-   - Aby rozwiązać problemy związane z scenariuszami 1 i 2, wszyscy użytkownicy muszą zalogować się do Centrum partnerskiego przy użyciu konta służbowego dołączonego do dzierżawy usługi Azure AD. [Administrator globalny](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) może Ci pomóc. Aby znaleźć administratora globalnego, przejdź do obszaru Ustawienia partnera z ikony koła zębatego w prawym górnym rogu Centrum partnerskiego. Kliknij stronę Zarządzanie użytkownikami na drugim poziomie lewego paska nawigacyjnego. Kliknij menu rozwijane zawierające wartość "Wszyscy użytkownicy" w prawym górnym rogu strony i zmień wartość na "Administratorzy globalni". Administrator globalny może utworzyć nowe konto użytkownika w dzierżawie usługi Azure AD lub przypisać dostęp użytkownika-gościa do innych użytkowników konta domeny. Po skonfigurowaniu kont dla wszystkich menedżerów i użytkowników w organizacji PSC należy zalogować się do Centrum partnerskiego, przejść do karty odwołanie w lewym obszarze nawigacji i upewnić się, że mogą oni zobaczyć stronę odwołania.
+   Aby rozwiązać problemy związane z scenariuszami 1 i 2, poproszenie użytkownika o zalogowanie się do Centrum partnerskiego przy użyciu konta służbowego dołączonego do dzierżawy usługi Azure AD. [Administrator globalny](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) może pomóc.
+   
+   Aby znaleźć administratora globalnego: 
+   - Zaloguj się na [pulpicie nawigacyjnym](https://partner.microsoft.com/dashboard) Centrum partnerskiego i wybierz pozycję **Ustawienia konta** z ikony koła zębatego w prawym górnym rogu.
+   - Wybierz pozycję **Zarządzanie użytkownikami** na pasku nawigacyjnym drugiego poziomu, po lewej stronie.
+   - W górnej części listy użytkownik Wybierz menu rozwijane **Filtr** i zmień opcję na **administrator globalny**. Następnie na stronie zostaną wyświetlone wszystkie Administratorzy globalni z odpowiednimi adresami e-mail. Poproś jednego z nich, aby przypisać rolę administratora odwołania dla konta służbowego.
+   
+      Administrator globalny może utworzyć nowe konto użytkownika w dzierżawie usługi Azure AD lub przypisać dostęp użytkownika-gościa do innych użytkowników konta domeny. Po skonfigurowaniu kont dla wszystkich menedżerów i użytkowników z systemem PSC należy zalogować się do Centrum partnerskiego, wybrać **odwołania** z menu nawigacji po lewej stronie, a następnie potwierdzić, że mogą wyświetlić stronę odwołania.
 
 3. Użytkownik ma już przypisaną rolę odwołania w centrum partnerskim.
-    - Istniejącą rolę użytkownika można sprawdzić na stronie Zarządzanie użytkownikami w ustawieniach konta i zmodyfikować tak samo, jak to konieczne.
+    - Istnieje możliwość zweryfikowania istniejącej roli użytkownika. W prawym górnym rogu Centrum partnerskiego wybierz opcję **Ustawienia** (ikona koła zębatego), a następnie pozycję **Ustawienia konta**. Gdy zobaczysz drugie menu nawigacji po lewej stronie, wybierz pozycję **Zarządzanie użytkownikami** i Wyszukaj użytkownika.
 
-Po zakończeniu migracji użytkowników Skorzystaj z poniższych wskazówek, aby określić strategię migracji: 
+Po zakończeniu migracji użytkowników należy skorzystać z poniższych wskazówek, aby określić strategię migracji:
 
 Jeśli Twoja firma ma PDM — po skonfigurowaniu konta Centrum partnerskiego i przeniesieniu przez użytkowników ról i uprawnień, możesz przenieść swoje działania towarzyszące do Centrum partnerskiego. Przed upływem ostatecznego terminu migracji poinformuj PDM o tym, aby przełączać się do programu, co pozwoli na przepływ wszystkich nowych transakcji do Centrum partnerskiego.
 
@@ -123,7 +142,7 @@ Jeśli firma nie ma PDM — upewnij się, że wszystkie konta użytkowników zos
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>Następne kroki dla administratorów PSC, menedżerów transakcji PSC i sprzedawcy PSC
 
 Dowiedz się, jak sprzedawać w centrum partnerskim.
-Jest to ważny krok, który pomoże Ci przygotować się do sprzedaży w centrum partnerskim. Poznaj przepływy pracy i zmiany w centrum partnerskim, dzięki czemu możesz efektywnie sprzedawać od samego dnia. Zacznij od pełnego przeczytania tego dokumentu. Dobry zestaw zasobów jest również dostępny w [galerii z możliwością współsprzedażowej](https://aka.ms/cosellexperience).
+Jest to ważny krok, który pomoże Ci przygotować się do sprzedaży w centrum partnerskim. Zapoznaj się z przepływami pracy i zmianami w centrum partnerskim, dzięki czemu możesz efektywnie współsprzedawać. Zacznij od pełnego przeczytania tego dokumentu. Dobry zestaw zasobów jest również dostępny w [galerii z możliwością współsprzedażowej](https://aka.ms/cosellexperience).
 
 ## <a name="major-differences-between-psc-and-pc-workflows"></a>Główne różnice między systemem PSC a przepływami pracy komputera
 
@@ -140,86 +159,129 @@ Jest to ważny krok, który pomoże Ci przygotować się do sprzedaży w centrum
 |Kontakt z klientem|Nieobowiązkowe.|Nieobowiązkowe dla prywatnego udostępniania potoku. Wymagane, jeśli sprzedawca firmy Microsoft jest zapraszany do wzięcia udziału w żądaniu współsprzedaży.|
 |Publiczny interfejs API|Niedostępne.|[Publiczny interfejs API](/partner/develop/referrals) umożliwiający programowe Zarządzanie odwołaniami do Centrum partnerskiego.|
 
-## <a name="psc-and-partner-center-field-mapping"></a>Kontroler PSC i mapowanie pola Centrum partnerskiego
+## <a name="map-the-fields-in-psc-to-the-corresponding-fields-in-partner-center"></a>Mapuj pola na komputerze PSC do odpowiednich pól w centrum partnerskim
 
-W tej części przedstawiono dokładne Mapowanie atrybutów między kontrolerem PSC a centrum partnerskim. Każdy ekran w systemie PSC jest porównywany z odpowiednim widokiem w sekcji możliwości wspólnej sprzedaży w centrum partnerskim. 
+W tej sekcji porównano wybrane zrzuty ekranu (lub "Maps") dla komputera PSC z odpowiednim widokiem w sekcji możliwości wspólnej sprzedaży w centrum partnerskim.
 
->[!Note]
->Aby znaleźć odpowiedni atrybut w centrum partnerskim, postępuj zgodnie z liczbami widocznymi na żółtych bąbelkach na zrzutach ekranu PSC. Czerwone bąbelki wskazują, że zarejestrowana nie jest dostępna w centrum partnerskim.
+Na każdej parze zrzutów ekranu będą widoczne okrągłe, żółte lub czerwone kółka:
 
-**Strona główna PSC i domyślny widok możliwości wspólnej sprzedaży w centrum partnerskim**
+- **Co oznaczają żółte koła?** Ponumerowane, żółte kółka są pierwsze na każdym zrzucie ekranu komputera PSC. Następnie znajdziesz zrzut ekranu centrum partnera pomocniczego poniżej tego z wieloma tymi samymi numerami.
 
- :::image type="content" source="images/pscmigration/homepage.png" alt-text="Obraz przedstawiający Mapowanie pól między stroną główną programu partnerskiego połączenia z partnerem sprzedaży a domyślnym widokiem możliwości wspólnej sprzedaży w centrum partnerskim.":::
+   Aby zobaczyć, w jaki sposób każde pole lub atrybut w elemencie PSC mapuje na jego odpowiednik w centrum partnerskim, Dopasuj do ponumerowanych okręgów w dwóch powiązanych zrzutach ekranu. Na przykład Dopasuj do ponumerowanego, żółtego "1" pierwszego zrzutu ekranu PSC do numerowanego, żółtego "1" w drugim, na poniższym zrzucie ekranu Centrum partnerskiego.
 
-**Widok siatki PSC i widok transakcji Centrum partnerskiego**
+- **Co oznacza czerwony okrąg?** Jeśli zobaczysz czerwony okrąg na jednym zrzucie ekranu, oznacza to, że pole PSC nie jest dostępne w centrum partnerskim.
+
+Mapowania pola PSC na partnera są wyświetlane dla następujących obszarów:
+
+1. Strona główna kontrolera PSC zamapowana na widok domyślny możliwości wspólnej sprzedaży do Centrum partnerskiego
+1. Widok siatki komputera PSC mapowany do widoku transakcji Centrum partnerskiego
+1. Widok szczegółów transakcji komputera PSC zamapowany do widoku szczegółów transakcji Centrum partnerskiego
+1. Widok ustawień PSC Dodaj produkty zamapowany do widoku Dodawanie rozwiązań Centrum partnerskiego
+1. Widok zarządzania użytkownikami komputera PSC mapowany do widoku zarządzania użytkownikami Centrum partnerskiego
+1. Widok przypisania roli użytkownika komputera PSC zamapowany na widok przypisania roli Centrum partnerskiego
+1. Widok powiadomień PSC mapowany na Widok powiadomień Centrum partnerskiego
+
+### <a name="1---psc-home-page-mapped-to-the-partner-center-co-sell-opportunities-default-view"></a>Strona główna z 1-kontrolerem PSC zamapowana na widok domyślny możliwości wspólnej sprzedaży do Centrum partnerskiego
+
+Porównaj pasujące, numerowane okręgi między górnym ekranem PSC a zrzutem ekranu Centrum partnerskiego poniżej. Pasujące numery pokazują, gdzie można znaleźć funkcję lub atrybut związany z kontrolerem PSC w centrum partnerskim. Czerwone kółka wskazują, że nie ma pasującego pola Centrum partnerskiego.  
+
+:::image type="content" source="images/pscmigration/homepage.png" alt-text="Obraz przedstawiający Mapowanie pól między stroną główną programu partnerskiego połączenia z partnerem sprzedaży a domyślnym widokiem możliwości wspólnej sprzedaży w centrum partnerskim." lightbox="images/pscmigration/home-page-expanded.png":::
+
+### <a name="2---psc-grid-view-mapped-to-the-partner-center-deal-view"></a>Widok siatki 2-PSC zamapowany na widok transakcji Centrum partnerskiego
+
+Porównaj pasujące, numerowane okręgi między górnym ekranem PSC a zrzutem ekranu Centrum partnerskiego poniżej. Pasujące numery pokazują, gdzie można znaleźć funkcję lub atrybut związany z kontrolerem PSC w centrum partnerskim. Czerwone kółka wskazują, że nie ma pasującego pola Centrum partnerskiego.  
+
+> [!NOTE]
+> Inne zagadnienia są wyświetlane poniżej zrzutów ekranu.
+
+:::image type="content" source="images/pscmigration/gridview.png" alt-text="Obraz przedstawiający Mapowanie pól między widokiem siatki Połącz z partnerem sprzedaży partnera (PSC) i widokiem transakcji Centrum partnerskiego." lightbox="images/pscmigration/grid-view-expanded.png":::
+
+**Uwagi specjalne:**
 
 - W centrum partnerskim nie ma widoku listy, takiego jak kontroler PSC.  Wszystkie transakcje są wyświetlane na podstawie najnowszej otrzymanej lub utworzonej daty z informacjami o kliencie i typem transakcji. Pierwsza transakcja w widoku jest domyślnie zaznaczona. Większość wartości, które są wyświetlane w formacie tabeli PSC, są dostępne w widoku szczegółowym transakcji na komputerze.
 - Rola transakcji nie jest polem wymaganym na komputerze. Nie jest on wyświetlany ani przechwytywany w żadnym przepływie pracy. Jest ona tworzona automatycznie na stronie sprzedawcy firmy Microsoft w oparciu o rozwiązania dodane do transakcji.
 - Data ostatniej modyfikacji nie jest wyświetlana na stronie szczegółów odwołania na komputerze. Partnerzy mogą używać funkcji sortowania do sortowania transakcji na podstawie daty ostatniej aktualizacji.
 
-:::image type="content" source="images/pscmigration/gridview.png" alt-text="Obraz przedstawiający Mapowanie pól między widokiem siatki Połącz z partnerem sprzedaży partnera (PSC) i widokiem transakcji Centrum partnerskiego.":::
+### <a name="3---psc-deal-details-view-mapped-to-partner-center"></a>Widok szczegółów transakcji z 3-kontrolerem PSC mapowany do Centrum partnerskiego
 
-**Widok szczegółów transakcji w centrum komputerów PSC i partnerskim**
+Porównaj pasujące, numerowane okręgi na górnym zrzucie ekranu (PSC) przy użyciu zrzutu ekranu centrum partnera poniżej. Pasujące numery pokazują, gdzie można znaleźć funkcję lub atrybut związany z kontrolerem PSC w centrum partnerskim. Czerwone kółka wskazują, że w centrum partnerskim nie ma dopasowanego pola lub obszaru.
 
-- Partnerzy mogą edytować ofertę, klikając przycisk Edytuj w widoku szczegółów transakcji partnera (6). Po kliknięciu przycisku Edytuj wszystkie pola zostaną edytowane z opcją Zapisz lub Anuluj zmiany wprowadzone w ramach transakcji.
+> [!NOTE]
+> Inne zagadnienia są wyświetlane poniżej zrzutów ekranu.
+
+:::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Obraz przedstawiający Mapowanie pól między widokiem szczegółów rozdziału partnera sprzedaży (PSC) i widokiem szczegółów transakcji Centrum partnerskiego." lightbox="images/pscmigration/deal-details-expanded.png":::
+
+**Uwagi specjalne:**
+
+- Partnerzy mogą edytować ofertę, wybierając przycisk Edytuj w widoku szczegółów transakcji partnera (6). Po wybraniu przycisku Edytuj wszystkie pola staną się edytowalne. Następnie można zapisać lub anulować zmiany wprowadzone w ramach transakcji.
 - Nie ma możliwości zamknięcia transakcji jako duplikatu w centrum partnerskim.
 - Wynik klienta nie jest dostępny w centrum partnerskim. Wszystkie szczegóły dotyczące interakcji z klientami można zaktualizować w sekcji notatki na komputerze.
-- Szacowana data zamknięcia rozwiązania jest dostępna tylko w przypadku firmowych producentów OEM w centrum partnerskim. Nie jest ona wyświetlana dla żadnych innych typów transakcji.
-- Program licencjonowania nie jest wymagany na komputerze. Jest on wywnioskowany na podstawie rozwiązań wybranych w ramach transakcji.
+- Szacowana data zamknięcia rozwiązania jest dostępna tylko w przypadku transakcji związanych z producentem OEM w centrum partnerskim. Te informacje nie są wyświetlane dla żadnych innych typów transakcji.
+- Program licencjonowania nie jest wymagany na komputerze. Te informacje są wywnioskowane na podstawie rozwiązań wybranych w ramach transakcji.
 
 >[!Note]
->Wszystkie transakcje oznaczone jako wygrane lub utracone nie mogą być edytowane. Należy zachować ostrożność podczas przechodzenia do jednego z tych stanów terminalu.
+>Wszystkie transakcje oznaczone jako wygrane lub utracone nie mogą być edytowane później. Podczas przechodzenia do jednego z tych stanów terminalu należy zachować ostrożność.
 
-:::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Obraz przedstawiający Mapowanie pól między widokiem szczegółów rozdziału partnera sprzedaży (PSC) i widokiem szczegółów transakcji Centrum partnerskiego.":::
+### <a name="4---psc-add-products-view-mapped-to-the-partner-center-add-solutions-view"></a>Widok "Dodaj produkty" z 4 kontrolerami PSC zamapowany do widoku "Dodaj rozwiązania" Centrum partnerskiego
 
-**Widok "Dodaj produkty" kontrolera PSC i widok "Dodaj rozwiązania" Centrum partnerskiego**
+Porównaj pasujące, numerowane okręgi na górnym zrzucie ekranu (PSC) przy użyciu zrzutu ekranu centrum partnera poniżej. Pasujące numery pokazują, gdzie można znaleźć funkcję lub atrybut związany z kontrolerem PSC w centrum partnerskim. Czerwone kółka wskazują, że w centrum partnerskim nie ma dopasowanego pola lub obszaru.
+  
+:::image type="content" source="images/pscmigration/products.png" alt-text="Obraz przedstawiający Mapowanie pól między widokiem Dodawanie produktów partnera (PSC) do programu oraz widok dodawania rozwiązań Centrum partnerskiego." lightbox="images/pscmigration/products-expanded.png":::
 
-:::image type="content" source="images/pscmigration/products.png" alt-text="Obraz przedstawiający Mapowanie pól między widokiem Dodawanie produktów partnera (PSC) do programu oraz widok dodawania rozwiązań Centrum partnerskiego.":::
+### <a name="5---user-management-in-psc-versus-partner-center"></a>5 — Zarządzanie użytkownikami na komputerze PSC a centrum partnerskim
 
-**Zarządzanie użytkownikami na komputerze PSC i w centrum partnerskim**
+Porównaj pasujące, numerowane okręgi na górnym zrzucie ekranu (PSC) przy użyciu zrzutu ekranu centrum partnera poniżej. Pasujące numery pokazują, gdzie można znaleźć funkcję lub atrybut związany z kontrolerem PSC w centrum partnerskim. Czerwone kółka wskazują, że w centrum partnerskim nie ma dopasowanego pola lub obszaru.  
 
- :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Obraz przedstawiający Mapowanie pól między domem i zarządzanie użytkownikami Centrum partnerskiego w widoku Ustawienia konta.":::
+ :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Obraz przedstawiający Mapowanie pól między domem (Partner Sales Connect) — Strona główna i widok strony zarządzania użytkownikami Centrum partnerskiego w obszarze Ustawienia konta."  lightbox="images/pscmigration/user-management-expanded.png":::
 
-**Przypisanie roli użytkownika w komputerze PSC i w centrum partnerskim**
+### <a name="6---user-role-assignment-in-psc-versus-partner-center"></a>6 — przypisanie roli użytkownika na komputerze PSC a centrum partnerskie
+
+Porównaj pasujące, numerowane okręgi na górnym zrzucie ekranu (PSC) przy użyciu zrzutu ekranu centrum partnera poniżej. Pasujące numery pokazują, gdzie można znaleźć funkcję lub atrybut związany z kontrolerem PSC w centrum partnerskim. Czerwone kółka wskazują, że w centrum partnerskim nie ma dopasowanego pola lub obszaru.  
+
+:::image type="content" source="images/pscmigration/roles.png" alt-text="Obraz przedstawiający Mapowanie pól między widokiem przypisywania roli Partner Sales Connect (PSC) i widok przypisania roli Centrum partnerskiego." lightbox="images/pscmigration/roles-expanded.png":::
+
+**Uwagi specjalne:**
 
 - Równoważną rolę administratora PSC jest rola administratora konta w centrum partnerskim.
-- Istnieje tylko jedna rola w centrum partnerskim do zarządzania sprzedażą w celu współdziałania, która jest rolą administratora odwołań.
+- Istnieje tylko jedna rola w centrum partnerskim do zarządzania transsprzedażą. Ta rola jest rolą administratora odwołań.
 
-:::image type="content" source="images/pscmigration/roles.png" alt-text="Obraz przedstawiający Mapowanie pól między widokiem przypisywania roli Partner Sales Connect (PSC) i widok przypisania roli Centrum partnerskiego.":::
+### <a name="7---notifications-in-psc-versus-partner-center"></a>7 — powiadomienia w kontrolerach PSC a centrum partnerskie
 
-**Powiadomienia na komputerze PSC i w centrum partnerskim**
+Porównaj pasujące, numerowane okręgi na górnym zrzucie ekranu (PSC) przy użyciu zrzutu ekranu centrum partnera poniżej. Pasujące numery pokazują, gdzie można znaleźć funkcję lub atrybut związany z kontrolerem PSC w centrum partnerskim. Czerwone kółka wskazują, że w centrum partnerskim nie ma dopasowanego pola lub obszaru.  
 
-:::image type="content" source="images/pscmigration/notifications.png" alt-text="Obraz przedstawiający mapowanie między powiadomieniami partnera (Partner Sales Connect) i widokiem powiadomień Centrum partnerskiego.":::
+:::image type="content" source="images/pscmigration/notifications.png" alt-text="Obraz przedstawiający mapowanie między powiadomieniami partnera (Partner Sales Connect) i widokiem powiadomień Centrum partnerskiego."  lightbox="images/pscmigration/notifications-expanded.png":::
 
 ## <a name="moving-from-psc-to-partner-center---frequently-asked-questions"></a>Przejście z komputera PSC do Centrum partnerskiego — często zadawane pytania
 
-**Pierwszym. Co należy zrobić, jeśli nie mam dostępu do Centrum partnerskiego?**
+W poniższych sekcjach znajdują się odpowiedzi na często zadawane pytania dotyczące migracji.
 
-Aby uzyskać przypisane role, możesz skontaktować się z administratorami na liście na stronie "Brak dostępu". W sekcji odwołania będzie potrzebna rola "[administrator odwołań](permissions-overview.md#manage-referrals)" dla uprawnień Odczyt i zapis. Jeśli zarządzasz tylko profilami biznesowymi, w centrum partnerskim będzie potrzebna rola "Administrator profilu biznesowego".
+### <a name="1---what-should-i-do-if-i-dont-have-access-to-partner-center"></a>1 — co mam zrobić, jeśli nie mam dostępu do Centrum partnerskiego?
+
+Aby uzyskać przypisane role, możesz skontaktować się z administratorami na liście na stronie "Brak dostępu". W sekcji odwołania będzie potrzebna rola [administratora odwołań](permissions-overview.md#manage-referrals) dla uprawnień do odczytu i zapisu. Jeśli zarządzasz tylko profilami biznesowymi, w centrum partnerskim będzie potrzebna rola administratora profilu biznesowego.
 
 :::image type="content" source="images/pscmigration/noaccess.png" alt-text="Obraz przedstawiający sposób braku dostępu w centrum partnerskim.":::
 
-**Q2. Kto może udzielić mi dostępu do sekcji odwołań w centrum partnerskim?**
+### <a name="2---who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>2 — kto może udzielić dostępu do sekcji odwołań w centrum partnerskim?
 
-[Administrator konta](permissions-overview.md#manage-mpn-membership-and-your-company) może udzielić dostępu do karty odwołania. Aby znaleźć administratora konta, przejdź do obszaru Ustawienia partnera z ikony koła zębatego w prawym górnym rogu Centrum partnerskiego. Kliknij stronę Zarządzanie użytkownikami na drugim poziomie lewego paska nawigacyjnego. Kliknij listę rozwijaną, która zawiera wartość "Wszyscy użytkownicy" w prawym górnym rogu strony i przejdź do "Administratorzy konta". Na stronie zostaną wyświetlone wszystkie Administratorzy konta z odpowiednimi identyfikatorami poczty e-mail. Skontaktuj się z pomocą techniczną, aby uzyskać dostęp do konta służbowego z uprawnieniami administratora.
+[Administrator konta](permissions-overview.md#manage-mpn-membership-and-your-company) może udzielić dostępu do karty odwołania. Aby znaleźć administratora globalnego, wybierz pozycję **Ustawienia konta** z ikony koła zębatego w prawym górnym rogu [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego. Następnie wybierz pozycję **Zarządzanie użytkownikami** na pasku nawigacyjnym drugiego poziomu, po lewej stronie. W górnej części listy użytkownik Wybierz menu rozwijane **Filtr** i zmień opcję na **administrator globalny**. Na stronie zostaną wyświetlone wszystkie Administratorzy globalni z odpowiednimi adresami e-mail. Poproś jednego z nich, aby przypisać rolę administratora odwołania dla konta służbowego.
 
-**Kwartał. Przycisk + Nowa transakcja jest wyszarzony dla naszego konta. Co należy zrobić, aby zacząć tworzyć oferty?**
+### <a name="3---the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>3 — przycisk + Nowa transakcja jest wyszarzony dla naszego konta. Co należy zrobić, aby zacząć tworzyć oferty?
 
-Dzieje się tak tylko wtedy, gdy nie ma żadnych gotowych do zakupu rozwiązań do organizacji MPN, które są używane w centrum partnerskim. Skontaktuj się z PDM, aby uzyskać poprawiony identyfikator MPN rozwiązań, lub Utwórz bilet pomocy technicznej z informacją o problemie "nowy przycisk rozproszenia jest wyszarzony po migracji kontrolera systemu".
+Dzieje się tak tylko wtedy, gdy nie ma żadnych gotowych do zakupu rozwiązań do organizacji MPN, które są używane w centrum partnerskim. Skontaktuj się z PDM, aby uzyskać poprawiony identyfikator MPN rozwiązań, lub Utwórz bilet pomocy technicznej z informacją o problemie "nowy przycisk transakcji jest wyszarzony po migracji PSC".
 
-**Kwartale. Czy mogę przypisywać oferty do określonej osoby z naszej organizacji, takiej jak PSC?**
+### <a name="4---can-i-assign-deals-to-a-specific-person-from-our-organization-like-psc"></a>4 — Czy mogę przypisywać oferty do określonej osoby z naszej organizacji, takiej jak PSC?
 
-Można przypisać członków zespołu do konkretnej transakcji. Nie blokuje ona wyświetlania ani działania innych administratorów odwołań do tych transakcji. 
+Można przypisać członków zespołu do konkretnej transakcji. Nie blokuje ona wyświetlania ani działania innych administratorów odwołań do tych transakcji.
 
-**Q5. Czy istnieje widok wszystkich przypisanych do mnie okazji?**
+### <a name="5---is-there-a-view-of-all-the-deals-assigned-to-me"></a>5 — czy istnieje widok wszystkich przypisanych do mnie okazji?
 
-Możesz użyć funkcji Ulubione, która jest kartą poziomu użytkownika. Możesz oznaczyć wszystkie oferty, które są przypisane do Ciebie jako Ulubione, aby uzyskać szybki dostęp do tych transakcji.
+Możesz użyć funkcji Ulubione, która jest kartą na poziomie użytkownika. Możesz oznaczyć wszystkie oferty, które są przypisane do Ciebie jako Ulubione, aby uzyskać szybki dostęp do tych transakcji.
 
-**Q6. Czy istnieje widok tylko do odczytu dla transakcji?**
+### <a name="6---is-there-a-read-only-view-for-the-deals"></a>6 — czy istnieje widok tylko do odczytu dla transakcji?
 
 Nie. w sekcji odwołania nie ma widoku tylko do odczytu transakcji. Wszyscy administratorzy odwołań będą mieć pełny dostęp do odczytu i zapisu do wszystkich transakcji.
 
-**Q7. Jak mogę zarejestrować ofertę po jej wykorzystaniu?**
+### <a name="7---how-can-i-register-a-deal-after-marking-it-as-won"></a>7 — Jak mogę zarejestrować ofertę po oznaczeniu jej jako wygranej?
 
 Jeśli transakcja spełnia poniższe kryteria, zostanie wyświetlone okno podręczne, aby rozpocząć [rejestrację transakcji](./register-deals.md).
 
@@ -227,35 +289,35 @@ Jeśli transakcja spełnia poniższe kryteria, zostanie wyświetlone okno podrę
 - Sprzedawca firmy Microsoft jest zapraszany do wzięcia udziału w transakcji lub zaprosił Cię do zawarcia umowy.
 - Karta Microsoft jest w stanie zaakceptowana lub wygrana w centrum partnerskim.
 
-**Q8. Otrzymuję komunikat o błędzie po kliknięciu przycisku "+ Nowa rejestracja transakcji" w sekcji Rejestracja transakcji. Jak mogę zarejestrować moje transakcje?**
+### <a name="8---i-get-an-error-message-when-i-select-the-new-deal-registration-button-in-the-deal-registration-section-how-can-i-register-my-deals"></a>8 — otrzymuję komunikat o błędzie w przypadku wybrania przycisku "+ Nowa rejestracja transakcji" w sekcji Rejestracja transakcji. Jak mogę zarejestrować moje transakcje?
 
-"+ Nowa rejestracja transakcji" ma być używana tylko przez partnerów zarejestrowanych w programie do łączenia niezależnych dostawców oprogramowania w celu zarejestrowania transakcji bez odpowiadającej jej szansy sprzedaży w centrum partnerskim. W celu zarejestrowania transakcji z możliwością współsprzedaży zostanie wyświetlone okno podręczne, gdy transakcja zostanie oznaczona jako wykorzystana i będzie spełniać kryteria rejestracji transakcji.
+Przycisk **+ nowy proces rejestracji transakcji** ma być używany tylko przez partnerów zarejestrowanych w programie do łączenia niezależnych dostawców oprogramowania w celu zarejestrowania transakcji bez odpowiadającej jej szansy sprzedaży w centrum partnerskim. W celu zarejestrowania transakcji z możliwością współsprzedaży zostanie wyświetlone okno podręczne, gdy transakcja zostanie oznaczona jako wykorzystana i będzie spełniać kryteria rejestracji transakcji.
 
-**Q9. Czy dodanie organizacji klienta jest obowiązkowe?**
+### <a name="9---is-adding-a-customer-organization-mandatory"></a>9 — Dodawanie organizacji klienta jest obowiązkowe?
 
 Tak, dodanie [organizacji klienta](./manage-co-sell-opportunities.md#select-your-customer) jest obowiązkowe w centrum partnerskim. Najpierw Zacznij od wyszukania lokalizacji, w której znajduje się klient. Na podstawie szczegółowych informacji; można określić, w tym dokładną nazwę budynku, lub po prostu podać szczegóły miasta. W ramach wyszukiwania organizacji zostaną pobrane wszystkie jednostki prawne pasujące do wprowadzonej nazwy, aby nie trzeba było wprowadzać żadnych szczegółowych informacji o adresie. Wszystkie szczegóły są wypełniane automatycznie w oparciu o wybraną organizację.
 
-**Q10. Czy dane kontaktowe klienta są obowiązkowe?**
+### <a name="10---are-customer-contact-details-mandatory"></a>10 — czy dane kontaktowe klienta są obowiązkowe?
 
 Zależy od typu tworzonej [transakcji](./manage-co-sell-opportunities.md#types-of-co-sell-opportunities) . Jeśli po prostu udostępniasz swój potok i nie potrzebujesz pomocy od organizacji sprzedaży firmy Microsoft, możesz zrezygnować z podawania szczegółów kontaktowych klienta. Jeśli sprzedajesz, gdzie aktywnie szukasz pomocy od sprzedawcy firmy Microsoft, konieczne będzie podanie szczegółowych informacji kontaktowych klienta. Przed utworzeniem żądania współsprzedaży w centrum partnerskim należy uzyskać jawną zgodę od klienta.
 
-**Q11. Ile rozwiązań można dodać do transakcji?**
+### <a name="11---how-many-solutions-can-i-add-to-a-deal"></a>11 — ile rozwiązań można dodać do transakcji?
 
 Do rozpatrzenia można dodać do 50 rozwiązań (analogicznie do "produktów" w PSC). W przeciwieństwie do systemu PSC, możesz mieszać rozwiązania z własnych, oferowanych przez siebie rozwiązań, jednostek SKU pierwszej firmy Microsoft oraz innych firmowych rozwiązań do sprzedawania. Nie ma roli transakcji, która ma być wybrana lub dostępna w centrum partnerskim. W przypadku jednostek SKU firmy Microsoft można opcjonalnie dodać ilość i cenę dla każdej jednostki SKU, która jest dodawana do transakcji.
 
-**Q12. Kiedy otrzymasz informacje o sprzedawcy firmy Microsoft po utworzeniu transakcji?**
+### <a name="12---when-will-i-get-to-know-the-microsoft-seller-details-after-creating-a-deal"></a>12 — gdy otrzymasz informacje o sprzedawcy firmy Microsoft po utworzeniu transakcji?
 
 Sprzedawcy firmy Microsoft są przypisani dopiero po dopasowaniu dokładnego wymagania dotyczącego pomocy, które zostały podane podczas tworzenia transakcji z odpowiednią osobą sprzedającą po stronie firmy Microsoft. Nawet po przypisaniu sprzedawcy firmy Microsoft będą mogli zaakceptować lub odrzucić zaproszenie do współsprzedażu. W przypadku zaakceptowania przez sprzedawcę zaproszenia do sprzedaży zostanie ona zaktualizowana informacjami o kontaktach sprzedawcy firmy Microsoft. Umowa SLA dla sprzedawcy firmy Microsoft do działania w ramach umowy wynosi 14 dni. Jest to ta sama umowa SLA, którą partnerzy muszą podejmować działania w odniesieniu do stanu sprzed wygaśnięcia.
 
-**Q13. Gdzie mogę znaleźć identyfikator szansy sprzedaży?**
+### <a name="13---where-can-i-find-the-opportunity-id"></a>13 — gdzie mogę znaleźć identyfikator szansy sprzedaży?
 
 Identyfikator szansy sprzedaży w PSC jest taki sam jak identyfikator transakcji na komputerze. Identyfikator transakcji można znaleźć obok nazwy transakcji po otwarciu każdej transakcji.
 
-**Q14. Jak mój PDM może uzyskać dostęp do komputera?**
+### <a name="14---how-can-my-pdm-get-access-to-pc"></a>14 — jak mój PDM może uzyskać dostęp do komputera?
 
 Nie można uzyskać dostępu do Centrum partnerskiego za pomocą PDM bezpośrednio w przeciwieństwie do komputera PSC. Istnieje wiele opcji umożliwiających tę możliwość, które są wymienione poniżej.
 
-- OCP Insights — Jeśli PDM się, że właśnie przeglądasz & transakcje związane z postępem, mogą oni korzystać z portalu OCP Insights w celu uzyskania widoku organizacji. Jest to narzędzie wewnętrzne i dostępne tylko dla PDM. Pamiętaj, że w firmie OCP Insights nie są dostępne dla użytkowników Twojej firmy.
+- OCP Insights — Jeśli PDM wyświetlają tylko te transakcje i postęp związany z nimi, mogą korzystać z portalu OCP Insights w celu uzyskania widoku organizacji. Jest to narzędzie wewnętrzne i dostępne tylko dla PDM. Pamiętaj, że w firmie OCP Insights nie są dostępne dla użytkowników Twojej firmy.
 - Użytkownik-Gość w centrum partnerskim — możesz dodać @microsoft.com konto PDM jako użytkownika-gościa w centrum partnerskim i przypisać do nich rolę administratora odwołań, aby mogli oni wyświetlać i podejmować działania dotyczące odwołań.
 - Tworzenie [nowego użytkownika](./create-user-accounts-and-set-permissions.md#add-a-new-user) w dzierżawie — możesz utworzyć nowego użytkownika w swojej dzierżawie i udostępnić te szczegóły w PDM, aby mogły wyświetlać i działać na odwołaniach podobnych do innych użytkowników referencyjnych na Twoim koncie.
 
