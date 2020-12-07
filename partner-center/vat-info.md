@@ -5,15 +5,15 @@ ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
-ms.date: 10/31/2018
-ms.openlocfilehash: e455110d0ef631c4eb4eaefd67bd209c7f1b1abf
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 12/04/2020
+ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
+ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "92530208"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96755643"
 ---
-# <a name="vat-info"></a>Informacje o podatku VAT
+# <a name="value-added-tax-vat-information"></a>Informacje o podatku VAT (wartość dodana)
 
 **Dotyczy:**
 
@@ -25,6 +25,24 @@ Jeśli musisz podać numer NIP w trakcie procesu rejestracji Centrum partnerskie
 ## <a name="understanding-vat-numbers"></a>Informacje o numerach podatku VAT
 
 Numer podatku VAT jest identyfikatorem używanym w krajach lub regionach w Unii Europejskiej. Aby uzyskać więcej informacji, zobacz oficjalny [oddział VIES](http://ec.europa.eu/taxation_customs/vies/vieshome.do)Unii Europejskiej.
+
+## <a name="location-specific-vat-information"></a>Informacje o konkretnym adresie VAT
+
+Poniższe szczegóły są unikatowe dla krajów lub regionów wymienionych poniżej.
+
+### <a name="european-union"></a>Unia Europejska
+
+W państwach członkowskich Unii Europejskiej partnerzy muszą podać swój prawidłowy numer IDENTYFIKACYJNy VAT na potrzeby wycofywania i poprawnego rozliczania. Numer płatnika podatku musi być akceptowany jako prawidłowy.
+
+Firma Microsoft nie obsługuje środków na środki i opłaty. Przed sprzedażą jakichkolwiek subskrypcji należy [zarejestrować numer NIP](organization-tax-info.md) w centrum partnerskim.
+
+### <a name="south-africa"></a>Republika Południowej Afryki
+
+Firma Microsoft stosuje teraz standardowy podatek VAT dotyczący zawartości cyfrowej i usług zakupionych przez partnerów w Republice Południowej Afryki. Aby wykluczyć podatek VAT z faktur i zarządzać tym samym, musisz zaktualizować profil rozliczania partnera, [wysyłając numer NIP firmy Microsoft](organization-tax-info.md).
+
+### <a name="turkey"></a>Turcja
+
+Firma Microsoft stosuje teraz standardowy podatek VAT dotyczący zawartości cyfrowej i usług zakupionych przez partnerów w Turcji. Aby wykluczyć podatek VAT z faktur i zarządzać tym samym, musisz zaktualizować profil rozliczania partnera, [wysyłając numer NIP firmy Microsoft](organization-tax-info.md).
 
 ## <a name="accepted-formats-for-vat-numbers"></a>Akceptowane formaty dla numerów NIP
 

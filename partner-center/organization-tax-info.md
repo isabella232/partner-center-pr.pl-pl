@@ -1,7 +1,7 @@
 ---
-title: Dodaj lub Prześlij identyfikator płatnika podatku VAT dla podatków służbowych
+title: Dodawanie identyfikatora VAT dla podatków służbowych
 ms.topic: article
-ms.date: 04/28/2020
+ms.date: 12/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Podatki w przypadku zakupów w centrum partnerskim są uzależnione od Twojego adresu służbowego. Przedsiębiorstwa w niektórych krajach mogą podać swój numer VAT lub odpowiedni odpowiednik.
@@ -9,42 +9,33 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 476b56061a342867780e07133c882a4e6a04b73d
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 4db0c81bf9f92975cc119215de76565e6acbadbd
+ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "92529176"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96755626"
 ---
-# <a name="company-tax-information-and-how-to-add-or-submit-vat-ids-for-partner-center-purchases"></a>Informacje podatkowe firmy oraz sposób dodawania lub przesyłania identyfikatorów podatku VAT dla zakupów w centrum partnerskim
-
-**Dotyczy**
-
-- Centrum partnerskie
+# <a name="add-a-vat-id-to-your-billing-profile"></a>Dodawanie identyfikatora VAT do profilu rozliczeń
 
 **Odpowiednie role**
--   Administrator globalny
--   Administrator użytkowników
--   Administrator rozliczeń
--   Agent administracyjny
--   Agent sprzedaży
 
-Podatki w przypadku zakupów w centrum partnerskim są uzależnione od Twojego adresu służbowego. W niektórych krajach firmy mogą [podać swój numer podatku VAT](#submit-vat-id-number) lub lokalny odpowiednik.
+- Administrator globalny
+- Administrator użytkowników
+- Administrator rozliczeń
+- Agent administracyjny
+- Agent sprzedaży
 
-### <a name="add-your-vat-id"></a>Dodaj swój identyfikator VAT
+Poniższa procedura służy do aktualizowania profilu rozliczeń w celu uwzględnienia identyfikatora podatku VAT. (Należy zauważyć, że może to nie być możliwe w Twoim kraju lub regionie).
 
-Aby edytować profil rozliczeń, trzeba być administratorem globalnym, administratorem rozliczeń lub agentem administracyjnym.
-
-1.  Na **pulpicie nawigacyjnym Centrum partnerskiego** przejdź do pozycji  **Ustawienia** , a następnie wybierz pozycję **profil rozliczeń** .
-2.  W sekcji **dane finansowe** wybierz pozycję **Aktualizuj** .
-3.  W polu **identyfikator podatkowy firmy** wprowadź numer NIP.
-
-## <a name="submit-vat-id-number"></a>Prześlij numer IDENTYFIKACYJNy płatnika podatku VAT
-
-Jeśli ma to zastosowanie, wykonaj następujące kroki, aby wysłać do firmy Microsoft numer IDENTYFIKACYJNy podatku VAT:
+## <a name="update-your-billing-profile-with-your-vat-id"></a>Aktualizowanie profilu rozliczeń przy użyciu identyfikatora VAT
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
-2. W menu **Ustawienia** (ikona koła zębatego) wybierz pozycję **Ustawienia partnera** .
+2. W menu **Ustawienia** (ikona koła zębatego) wybierz pozycję **Ustawienia partnera**.
 3. Na stronie **Ustawienia konta** wybierz pozycję **profil rozliczania partnerów** w menu Strona.
-4. W sekcji **dane finansowe** wybierz pozycję **Aktualizuj** .
+4. W sekcji **dane finansowe** wybierz pozycję **Aktualizuj**.
 5. W obszarze **identyfikator podatkowy firmy** podaj numer identyfikacyjny podatku VAT.
+
+## <a name="next-steps"></a>Następne kroki
+
+- [Tax and tax exemptions (Podatek i zwolnienia z podatku)](tax-and-tax-exemptions.md)
