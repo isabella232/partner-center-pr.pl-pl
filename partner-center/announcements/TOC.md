@@ -1,4 +1,5 @@
-# [Centrum partnerskie — ogłoszenia](index.md)
+# [Ogłoszenia Centrum partnerskiego](index.md)
+# [Grudzień 2020 r.](2020-december.md)
 # [Listopad 2020 r.](2020-november.md)
 # [Październik 2020 r.](2020-october.md)
 # [Wrzesień 2020](2020-september.md)
