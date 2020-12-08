@@ -8,13 +8,13 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 12/04/2020
-ms.openlocfilehash: 5a1b27f108440fc9adfc2cefefd2e4c2bf79ff48
-ms.sourcegitcommit: 558533fb39b13aefc3ab2b015145a908f86f8d7d
+ms.date: 12/07/2020
+ms.openlocfilehash: bbd2d1035bdcde691b0db620949d0e973667627b
+ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "96612826"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96776915"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Przewodnik po przedsprzedaży w centrum partnerskim (komputer) dla partnerów migrowania z programu Partner Sales Connect (PSC)
 
@@ -66,22 +66,22 @@ W menu nawigacji po lewej stronie Centrum partnerskiego wybierz opcję **odwoła
   >[!Note]
   > Może być konieczne wylogowanie się z Centrum partnerskiego i ponowne zalogowanie się w celu odświeżenia poświadczeń w celu uzyskania dostępu do stron odwołań.
 
-Jeśli nie widzisz opcji **odwołania** w menu Centrum partnerskiego lub na stronach związanych z odwołaniami, skontaktuj się z [administratorem globalnym](permissions-overview.md) Twojej firmy i poproś o przyznanie dostępu do opcji **odwołania** i powiązanego obszaru. 
+Jeśli nie widzisz opcji **odwołania** w menu Centrum partnerskiego lub stronach związanych z odwołaniami, skontaktuj się z [administratorem konta](permissions-overview.md) Twojej firmy i poproś o przyznanie dostępu do opcji **odwołania** i powiązanego obszaru.
 
-Aby znaleźć administratora globalnego firmy:
+Aby znaleźć administratora konta firmowego:
 
 1. Wybierz pozycję **Ustawienia konta** z ikony koła zębatego w prawym górnym rogu pulpitu nawigacyjnego Centrum partnerskiego.
 
-1. Wybierz pozycję **Zarządzanie użytkownikami** z poziomu drugiego menu nawigacji po lewej stronie. 
+1. Wybierz pozycję **Zarządzanie użytkownikami** z poziomu drugiego menu nawigacji po lewej stronie.
 
-1. W górnej części listy użytkowników wybierz menu rozwijane **Filtr** . Zmień opcję na **administrator globalny**.
+1. W górnej części listy użytkowników wybierz menu rozwijane **Filtr** . Zmień opcję na **administrator konta**.
 
-   Na stronie zostaną wyświetlone wszystkie Administratorzy globalni z odpowiednimi adresami e-mail. Wyślij jedną z nich i poproś o przypisanie roli administratora odwołań dla Twojego konta służbowego.
+   Na stronie zostaną wyświetlone wszystkie Administratorzy konta z odpowiednimi adresami e-mail. Wyślij jedną z nich i poproś o przypisanie roli administratora odwołań dla Twojego konta służbowego.
 
   :::image type="content" source="images/pscmigration/account-admin.png" alt-text="Obraz przedstawiający administratorów konta na stronie Zarządzanie użytkownikami ustawień partnera.":::
 
 >[!Important]
->- Jeśli rola obejmuje tylko zarządzanie użytkownikami na komputerze PSC, poproszenie administratora globalnego firmy o przypisanie roli [administratora konta](permissions-overview.md#manage-mpn-membership-and-your-company) w centrum partnerskim. 
+>- Jeśli rola obejmuje tylko zarządzanie użytkownikami na komputerze PSC, poproszenie administratora konta firmy o przypisanie roli [administratora konta](permissions-overview.md#manage-mpn-membership-and-your-company) w centrum partnerskim. 
 >- Jeśli rola obejmuje również zarządzanie szansami sprzedaży, należy polecić przypisanie roli [administratora odwołań](permissions-overview.md#manage-referrals) .
 > - Dobrym pomysłem jest również mianowanie jednego lidera zarządzania zmianami między administratorami PSC. Dzięki temu wszyscy administratorzy PSC będą mogli skontaktować się indywidualnie z administratorami konta Centrum partnerskiego. Zamiast tego lider zarządzania zmianami może być wtedy główną osobą korzystającą z administratora konta Centrum partnerskiego.
 
@@ -129,7 +129,7 @@ Czasami migracja może zakończyć się niepowodzeniem i spowodować błędy. Po
 
 Po zakończeniu migracji użytkowników należy skorzystać z poniższych wskazówek, aby określić strategię migracji:
 
-Jeśli Twoja firma ma PDM — po skonfigurowaniu konta Centrum partnerskiego i przeniesieniu przez użytkowników ról i uprawnień, możesz przenieść swoje działania towarzyszące do Centrum partnerskiego. Przed upływem ostatecznego terminu migracji poinformuj PDM o tym, aby przełączać się do programu, co pozwoli na przepływ wszystkich nowych transakcji do Centrum partnerskiego.
+Jeśli Twoja firma ma Menedżera deweloperów rozwiązań (PDM) — po skonfigurowaniu konta Centrum partnerskiego i przeniesieniu użytkowników do swoich ról i uprawnień możesz przenieść swoje działania towarzyszące do Centrum partnerskiego. Przed upływem ostatecznego terminu migracji poinformuj PDM o tym, aby przełączać się do programu, co pozwoli na przepływ wszystkich nowych transakcji do Centrum partnerskiego.
 
 >[!Note]
 >Po dokonaniu tego przełącznika będzie można działać tylko na istniejących aktywnych okazjach na komputerze PSC. Nie można tworzyć nowych transakcji ani otrzymywać żadnych transakcji od sprzedawcy firmy Microsoft na komputerze PSC.
@@ -137,7 +137,7 @@ Jeśli Twoja firma ma PDM — po skonfigurowaniu konta Centrum partnerskiego i p
 Jeśli firma nie ma PDM — upewnij się, że wszystkie konta użytkowników zostały skonfigurowane i zweryfikowane przez wszystkich użytkowników. Otrzymasz powiadomienie za pośrednictwem wiadomości e-mail i transparentu na komputerze PSC w sprawie dokładnej daty rozpoczęcia sprzedaży w centrum partnerskim. Pamiętaj, że nadal będziesz mieć możliwość zarządzania istniejącymi aktywnymi transakcjami na komputerze PSC.
 
 >[!Important]
->Aktywne transakcje nie będą migrowane do komputera. Do 31 grudnia 2020 do zamknięcia i rejestrowania transakcji.
+>Aktywne transakcje nie będą migrowane do komputera. Do 31 marca 2021 należy zamknąć i zarejestrować oferty.
 
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>Następne kroki dla administratorów PSC, menedżerów transakcji PSC i sprzedawcy PSC
 
@@ -263,7 +263,7 @@ Aby uzyskać przypisane role, możesz skontaktować się z administratorami na l
 
 ### <a name="2---who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>2 — kto może udzielić dostępu do sekcji odwołań w centrum partnerskim?
 
-[Administrator konta](permissions-overview.md#manage-mpn-membership-and-your-company) może udzielić dostępu do karty odwołania. Aby znaleźć administratora globalnego, wybierz pozycję **Ustawienia konta** z ikony koła zębatego w prawym górnym rogu [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego. Następnie wybierz pozycję **Zarządzanie użytkownikami** na pasku nawigacyjnym drugiego poziomu, po lewej stronie. W górnej części listy użytkownik Wybierz menu rozwijane **Filtr** i zmień opcję na **administrator globalny**. Na stronie zostaną wyświetlone wszystkie Administratorzy globalni z odpowiednimi adresami e-mail. Poproś jednego z nich, aby przypisać rolę administratora odwołania dla konta służbowego.
+[Administrator konta](permissions-overview.md#manage-mpn-membership-and-your-company) może udzielić dostępu do karty odwołania. Aby znaleźć administratora konta, wybierz pozycję **Ustawienia konta** z ikony koła zębatego w prawym górnym rogu [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego. Następnie wybierz pozycję **Zarządzanie użytkownikami** na pasku nawigacyjnym drugiego poziomu, po lewej stronie. W górnej części listy użytkownik Wybierz menu rozwijane **Filtr** i zmień opcję na wartość **administrator konta**. Na stronie zostaną wyświetlone wszystkie Administratorzy konta z odpowiednimi adresami e-mail. Poproś jednego z nich, aby przypisać rolę administratora odwołania dla konta służbowego.
 
 ### <a name="3---the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>3 — przycisk + Nowa transakcja jest wyszarzony dla naszego konta. Co należy zrobić, aby zacząć tworzyć oferty?
 
