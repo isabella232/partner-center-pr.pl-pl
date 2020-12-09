@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1e06194bd83b5a2c9c2ed32ee32d4b4220a42dcf
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 8a7ed3ad04846b1e222d3827488a8ac188653cac
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92529318"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869286"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Przeniesienie z centrum administracyjnego partnera (PAC) do Centrum partnerskiego
 
@@ -31,14 +31,11 @@ Centrum partnerskie odbywa się w jednym miejscu, w którym będziesz zarządza�
 |**Akcja**   |**PAC**   |**Centrum partnerskie**   |
 |--------------|:--------------|:---------------|
 |Ogólne omówienie aktywności konta i klientów|Ekran główny|Centrum partnerskie|
-|Zyskaj nowych klientów i podaj oferty dla płatnych i próbnych usług|Tworzenie oferty > wysłania przez firmę|Płatne cudzysłowy są niedostępne. Wersje próbne dostawcy CSP są dostępne, jeśli Partner doradcy jest konwertowany na pośredni odsprzedawcę CSP i jest skojarzony z dostawcą usług kryptograficznych CSP, który obsługuje testy. |
-|Relacje żądania|(Odsprzedawcy i doradcy) Kompiluj > wysyłania żądania DAP|(Odsprzedawcy i doradcy) Klienci — > żądanie relacji Odsprzedawcy (patrz Uwaga poniżej)|
+|Zyskaj nowych klientów i podaj oferty dla płatnych i próbnych usług|Tworzenie oferty > wysłania przez firmę|Centrum partnerskie — > prób i zakupów |
+|Relacje żądania|(Odsprzedawcy i doradcy) Kompiluj > wysyłania żądania DAP|Klienci — > żądanie relacji (patrz Uwaga poniżej)|
 |Zarządzanie klientami|Zarządzanie klientami — lista klientów >|Centrum partnerskie — > klienci|
-|Zarządzanie subskrypcjami klientów|Zarządzanie klientami — > lista klientów — > wybierz klienta|Centrum partnerskie — > klienci — > wybrać klienta lub dodać klienta do listy **ulubionych** , przełączając gwiazdkę na liście klient, a następnie wybierając pozycję **Ulubione** slideout i przejść bezpośrednio do obszaru **Zarządzanie subskrypcjami** dla klienta.|
-|Administruj w imieniu klienta|Zarządzanie klientami — > wybierz pozycję Klient — > wybierz przycisk Administruj|Centrum partnerskie — > klienci — > wybierz pozycję Administruj usługi z listy rozwijanej > — wybierz pozycję Usługa lub Dodaj klienta do listy **ulubionych** , przełączając gwiazdkę na liście klient, a następnie wybierz pozycję **Ulubione** slideout i przejdź bezpośrednio do pozycji **Administruj usługami** dla wymaganej usługi.|
+|Zarządzanie subskrypcjami klientów|Zarządzanie klientami — > lista klientów — > wybierz klienta|Centrum partnerskie — > klienci — > wybrać klienta lub przeszukać klienta według nazwy lub nazwy domeny. Następnie przejdź do pozycji **Użytkownicy i licencje** dla klienta.|
+|Administruj w imieniu klienta|Zarządzanie klientami — > wybierz pozycję Klient — > wybierz przycisk Administruj|Centrum partnerskie — > klienci — > wybrać klienta lub przeszukać klienta według nazwy lub nazwy domeny. Następnie wybierz pozycję Administruj usługami z listy rozwijanej — > wybierz usługę.|
 |Utwórz żądania obsługi dla klienta|Żądania obsługi — > wybierz pozycję Klient — > wybierz pozycję + | Centrum partnerskie — > żądania obsługi — > żądania klientów — > wybierz pozycję Klient — > nowe żądanie|
 |Zarządzanie żądaniami obsługi klienta| Żądania obsługi — > wybrać klienta|Centrum partnerskie — > żądania obsługi — > żądania klientów — > wybierz klienta lub Dodaj żądanie obsługi do listy **ulubionych** , przełączając gwiazdkę w widoku żądania klientów dla klienta, a następnie wybierz pozycję **Ulubione** slideout, wybierz kartę **żądania pomocy technicznej** i przejdź bezpośrednio do żądania obsługi lub Wyświetl aktualizacje bezpośrednio z **ulubionych**.|
 |Wyświetlanie kondycji zarządzanych usług online firmy Microsoft|Kondycja usługi — > zagregowana kondycja|Centrum partnerskie — kondycja usługi >|
-
->Ważne<br>
-W centrum partnerskim nie będzie możliwe wysyłanie ofert płatnych i próbnych do klientów. Ponadto, aby wyszukać klientów w centrum partnerskim, należy użyć nazwy klienta lub domeny klienta/s dostępne po ustanowieniu relacji partnera z klientem.
