@@ -1,7 +1,7 @@
 ---
 title: Usługi planowania dla programu Software Assurance
 ms.topic: article
-ms.date: 06/03/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Dowiedz się, jak zarejestrować i zakwalifikować się do zaangażowania usług planowania firmy Microsoft, dzięki czemu możesz dostarczać szkolenia i inne usługi klientom z pakietem Software Assurance.
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4c61a649da7e4983be1a478fdd963ba937e7783b
-ms.sourcegitcommit: 2254b8c18c34254ed14db55ec20dcb2ccb287663
+ms.openlocfilehash: 03292d00864e30fd4941320748aef1590c9e2a80
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "92529514"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926648"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Usługi planowania pakietu Software Assurance w Centrum partnerskim
 
@@ -25,7 +25,7 @@ ms.locfileid: "92529514"
 
 Zgodnie z zatwierdzonym partnerem usług Planning Services firma Microsoft umożliwia świadczenie planowania przed wdrożeniem dla klientów korporacyjnych. Uczestnictwo w tym programie może pomóc Ci zwiększyć liczbę klientów, stać się zaufanym partnerem planowania i prowadzić do dodatkowych zakontraktowań klientów.
 
-## <a name="get-started"></a>Wprowadzenie
+## <a name="get-started"></a>Rozpoczęcie pracy
 
 Jeśli jesteś nowym usługą planowania oprogramowania Software Assurance, wykonaj wszystkie poniższe czynności. Jeśli jesteś już aktywny w programie planowania usług, Rozpocznij każde nowe zaangażowanie w kroku 4 (4) poniżej.
 
@@ -42,10 +42,9 @@ W tym artykule wyjaśniono, jak wykonać każdy krok.
 
 ## <a name="verify-eligibility-new-partners"></a>Weryfikuj kwalifikowanie (nowi partnerzy)
 
-Zanim firmy partnerskie i doradcy mogą zarejestrować się w jednej z ofert usług planowania, muszą spełniać zarówno wymagania dotyczące szkolenia zgodności, jak i wymagania dotyczące kompetencji:
+Zanim firmy partnerskie i doradcy mogą zarejestrować się w jednej z ofert usług planowania, muszą spełniać wymagania dotyczące kompetencji w następujący sposób:
 
-- **Wymagania dotyczące uczenia zgodności.** Wymagania dotyczące szkolenia w zakresie zgodności programu muszą być spełnione na poziomie firmy.
-- **Wymagania dotyczące kompetencji.** Wymagania dotyczące kompetencji są specyficzne dla zaangażowania do dostarczenia. Na przykład firma może zostać zarejestrowana w ofercie usług planowania wdrożenia pulpitu (DDPS). Jednak będziesz mieć uprawnienia tylko do świadczenia określonego zaangażowania w ramach oferty DDPS, jeśli firma posiada również kwalifikacje uprawniające do tego konkretnego zaangażowania.
+**Wymagania dotyczące kompetencji.** Wymagania dotyczące kompetencji są specyficzne dla zaangażowania do dostarczenia. Na przykład firma może zostać zarejestrowana w ofercie usług planowania wdrożenia pulpitu (DDPS). Jednak będziesz mieć uprawnienia tylko do świadczenia określonego zaangażowania w ramach oferty DDPS, jeśli firma posiada również kwalifikacje uprawniające do tego konkretnego zaangażowania.
 
 >[!NOTE]
 > Aby dowiedzieć się więcej o wymaganiach dotyczących uprawnień dla konkretnych zakontraktowań, [Zobacz wymagania dotyczące uprawnień dla zaangażowania usług planowania](software-assurance-dps-requirements.md).

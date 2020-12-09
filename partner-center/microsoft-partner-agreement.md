@@ -1,7 +1,7 @@
 ---
 title: Umowa partnerska firmy Microsoft (MPA) dla dostawcy usług kryptograficznych
-ms.topic: article
-ms.date: 04/27/2020
+ms.topic: how-to
+ms.date: 12/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się więcej o wymaganiach partnerów programu Microsoft CSP w celu podpisania i zweryfikowania tej ujednoliconej, akceptowanej cyfrowo umowy Microsoft Partner (MPA).
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 7f9ab107a622cfe8cc7ef3f1d1d2877810f749ed
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: d8dac9e5d8720a39d6bf585a1f6cd9bd5c70465a
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869337"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926682"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Informacje o umowie partnerskiej firmy Microsoft (MPA) dla partnerów programu CSP
 
@@ -27,6 +27,9 @@ Umowa partnerska firmy Microsoft zapewnia partnerom firmy Microsoft ujednolicon�
 Wszyscy partnerzy programu dostawcy rozwiązań w chmurze (włącznie z dostawcami pośrednimi, odsprzedawcami pośrednimi i bezpośrednimi partnerami rozliczanymi) mogą podpisywać usługi MPA online w centrum partnerskim. Bezpośredni przedstawiciel i partnerzy dostawcy pośredniego, którzy działają w chmurze dla instytucji rządowych, mogą również podpisać MPA w centrum partnerskim.
 
 Aby nadal uczestniczyć w programie CSP, należy podpisać umowę Microsoft Partner przed 31 stycznia 2020. Centrum partnerskie będzie przypominać, że możesz teraz łatwo podpisać umowę w centrum partnerskim.
+
+>[!NOTE]
+>Firma MPA musi być podpisana jednokrotnie w każdym regionie dostawcy usług kryptograficznych, w ramach którego firmy wykonuje dostawcę usług kryptograficznych. Dowiedz się więcej na temat [regionów CSP](regional-authorization-overview.md) 
 
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>Sprawdź, czy identyfikator MPN jest aktywny i zmigrowany do Centrum partnerskiego
 
@@ -78,13 +81,13 @@ Aby sprawdzić, czy zarejestrowano:
 >Tylko administrator globalny w Twojej firmie może wyświetlić i podpisać MPA. Jeśli nie jesteś administratorem globalnym, musisz polecić administratorowi globalnemu zweryfikowanie MPA.
 
 
-## <a name="downloadable-step-by-step-guides"></a>Przewodnik krok po kroku do pobrania
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Pobierz przewodnik krok po kroku dotyczący tego, gdzie jesteś w procesie
 
-1. [Migrowanie z witryny PMC do Centrum partnerskiego i akceptowanie umowy Microsoft Partner Agreement](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
+1. W przypadku migrowania konta usługi MPN z programu PMC do Centrum partnerskiego: [Migrowanie z programu PMC do Centrum partnerskiego i akceptowanie umowy partnerskiej firmy Microsoft](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
-2. [Dołączanie członków sieci MPN i umowy Microsoft Partner Agreement](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+2. Jeśli chcesz zarejestrować jako pośredni odsprzedawcę CSP w centrum partnerskim: dołączanie [do członków MPN i umowy partnerskiej firmy Microsoft](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
 
-3. [Weryfikowanie stanu akceptacji umowy Microsoft Partner Agreement](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+3. Aby sprawdzić stan MPA w centrum partnerskim po wykonaniu kroku 1 i/lub kroku 2 powyżej: [Weryfikuj stan akceptacji umowy partnerskiej firmy Microsoft](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
 ## <a name="next-steps"></a>Następne kroki
 

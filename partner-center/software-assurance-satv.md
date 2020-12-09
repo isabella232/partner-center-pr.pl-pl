@@ -1,7 +1,7 @@
 ---
 title: Program do szkolenia w programie Software Assurance
 ms.topic: article
-ms.date: 06/12/2020
+ms.date: 12/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Dowiedz się, jak zarejestrować się w programie w ramach programu Software Assurance Training, aby uzyskać pomoc w zakresie dostarczania szkoleń i planowania klientom korporacyjnym.
@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 9470918fd868d9e8759f62b37e0bf30a21eaf540
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92529485"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926619"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Program Software Assurance Training Voucher (SATV) w Centrum partnerskim
 
@@ -22,7 +22,7 @@ Rozwijaj swoją firmę, rejestrując się w programach partnerskich programu Sof
 
 Zgodnie z zatwierdzonym partnerem szkoleniowym programu Software Assurance firma Microsoft daje gwarancję szkolenia technicznego klientom korporacyjnym w wymianie na potrzeby załączników z pakietem Software Assurance. Uczestnictwo w tym programie może pomóc Ci przyciągnąć więcej klientów i stać się zaufanym partnerem szkoleniowym.
 
-## <a name="get-started"></a>Wprowadzenie
+## <a name="get-started"></a>Rozpoczęcie pracy
 
 Jeśli dopiero zaczynasz skorzystać z usług szkoleń w ramach programu Software Assurance, wykonaj wszystkie kroki opisane poniżej. Jeśli jesteś już aktywny w programie do szkolenia, Zacznij od kroku czwartego (4) poniżej. 
 
@@ -45,11 +45,11 @@ Możesz sprawdzić uprawnienia firmy, w tym odpowiednie wymagania dotyczące kom
 
 ## <a name="enroll-in-the-training-program"></a>Rejestracja w programie szkoleń
 
-Gdy firma spełni wymagania kwalifikacyjne i uczestnicy programu przejdą kurs szkoleniowy dotyczący zgodności, będzie można podpisać umowę programu Software Assurance Training Voucher (SATV) i się zarejestrować. Pamiętaj, aby przejrzeć wszystkie [zasady programu SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP), a następnie postępuj zgodnie z instrukcjami w [kroku 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) przepływu pracy, aby ukończyć proces rejestracji SATV w centrum partnerskim.
+Gdy Twoja firma spełni wymagania dotyczące uprawnień, możesz podpisać umowę programu z zakresu szkoleń oprogramowania Software Assurance i zarejestrować ją. Pamiętaj, aby przejrzeć wszystkie [zasady programu SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP), a następnie postępuj zgodnie z instrukcjami w [kroku 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) przepływu pracy, aby ukończyć proces rejestracji SATV w centrum partnerskim.
 
 
 ## <a name="confirm-course-eligibility"></a>Potwierdź kwalifikowanie się do kursu
-Po zarejestrowaniu się w programie SATV partnerzy mogą oferować sesje szkoleniowe dotyczące kursów uprawniających do SATV, za które klienci mogą korzystać z swoich załączników szkoleniowych. Kwalifikujące się kursy są wymienione w [wykazie uprawnień kursu SATV](https://savl-catalog.microsoft.com/). Przejrzyj [krok 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) przepływu pracy, aby dowiedzieć się, które typy kursów są SATV.
+Po zarejestrowaniu się w programie SATV partnerzy mogą oferować sesje szkoleniowe dotyczące kursów uprawniających do SATV, za które klienci mogą korzystać z swoich załączników szkoleniowych. Kwalifikujące się kursy są wymienione w wykazie uprawnień kursu SATV. Przejrzyj [krok 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) przepływu pracy, aby dowiedzieć się, które typy kursów są SATVe lub aby uzyskać link do wykazu kwalifikowania kursów.
 
 ## <a name="have-customer-create-and-assign-voucher"></a>Tworzenie i przypisywanie załączników przez klienta
 
