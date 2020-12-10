@@ -9,12 +9,12 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c694f48fb62fc031bfaf78be6a1c4e43629a7adb
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 13fdeb01ecd73dc1a63d174a4ad5cb8e1bdc813a
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92529498"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011506"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Przywracanie uprawnień administratora dla subskrypcji dostawcy CSP platformy Azure klienta  
 
@@ -47,7 +47,7 @@ Aby odzyskać uprawnienia administratora delegowanego, musisz skontaktować się
 
 ## <a name="adding-the-admin-agents-group-as-an-owner-for-the-azure-csp-subscription"></a>Dodawanie grupy agentów administracyjnych jako właściciela subskrypcji CSP platformy Azure
 
-Klient będzie musiał dodać grupę agentów administracyjnych jako właściciela subskrypcji dostawcy CSP platformy Azure.
+Klient będzie musiał dodać grupę agentów administracyjnych jako właściciela subskrypcji dostawcy CSP platformy Azure, grupy zasobów lub zasobu. 
 
 1. Użyj konsoli programu PowerShell lub środowiska PowerShell Integrated Scripting Environment (ISE). Upewnij się, że moduły AzureAD są zainstalowane.
 
@@ -67,13 +67,20 @@ Klient będzie musiał dodać grupę agentów administracyjnych jako właścicie
 4. Użytkownik z dostępem właściciela do subskrypcji CSP platformy Azure loguje się do platformy Azure przy użyciu swoich poświadczeń.
 
    ```powershell
-   Connect-AzAccount
+   Connect-AzureRmAccount
    ```
 
-5. Następnie może dodać grupę agentów administracyjnych jako właściciela do subskrypcji platformy Azure dostawcy CSP.
+5. Następnie może dodać grupę agentów administracyjnych jako właściciela do subskrypcji platformy Azure dostawcy usług kryptograficznych, grupy zasobów lub zasobu, stosując odpowiedni identyfikator URI zasobu w parametrze zakresu. 
 
     ```powershell
-    New-AzureRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+    # Grant owner role at subscription level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+
+    # Grant owner role at resource group level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>/resourceGroups/<Resource group name>"
+
+    # Grant owner role at resource level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "<Resource Uri>"
     ```
 
 ## <a name="next-steps"></a>Następne kroki

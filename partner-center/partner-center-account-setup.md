@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 55046b21e70ad04f47bf4cd191736aa12335060e
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556450"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011534"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Zarządzanie kontem Centrum partnerskiego — profil firmy, informacje o banku, role, uprawnienia i inne
 
@@ -41,9 +41,19 @@ Zostanie wyświetlona strona Ustawienia konta.
 
 Bez względu na to, czy jesteś partnerem, czy deweloperem, użyj identyfikatora MPN, aby uzyskać takie czynności jak rejestrowanie biletów pomocy technicznej. IDENTYFIKATOR MPN znajduje się na stronie z **informacjami o prawach** Thee. Można go również znaleźć w **profilu tożsamości**.
 
+## <a name="account-settings---partners-resellers"></a>Ustawienia konta — partnerzy, odsprzedawcy
+
+Po wybraniu ikony **ustawień** i otwarciu menu **Ustawienia konta** w widoku domyślnym, jeśli firma jest częścią programu dostawcy rozwiązań w chmurze, są **Informacje prawne** zawierające dwie karty, **partnera** i **odsprzedawcy**. Każda karta zawiera aspekty Twojej firmy.
+
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="Menu przedstawia karty partnerów i odsprzedawcy":::
+
+Na karcie partner zostaną uwzględnione wszystkie prawne informacje biznesowe, takie jak zarejestrowana nazwa i adres służbowy firmy, a także kontakty podstawowe i lokalizacje biznesowe. Karta odsprzedawca dla partnerów wykonujących działania w ramach firmy CSP obejmuje **profil obsługi klienta**.
+
+Jeśli firma nie uczestniczy w programie CSP, w widoku domyślnym zostanie wyświetlona tylko karta **partnera** , która będzie zawierać **profil obsługi klienta**.
+
 ## <a name="organization-profile"></a>Profil organizacji
 
-Te strony służą do zarządzania takimi obszarami jak służbowy profil biznesowy, Profil partnera i lokalizacje firmy. Wybierz karty, takie jak **Legal** lub **dzierżawcy** (opisane bardziej szczegółowo poniżej), aby edytować ten obszar. Wybierz kartę dla programu, którego interesuje (MPN, CSP lub komercyjne witryny Marketplace), aby wyświetlić informacje i stan przed sprawdzeniem.
+Te strony umożliwiają zarządzanie szczegółowymi obszarami Twojej firmy, w tym profilem biznesowym, profilem partnera i dzierżawcami. Osobno Zarządzaj każdym obszarem. Są one opisane poniżej. 
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Menu informacje prawne.":::
 
