@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/03/2020
-ms.openlocfilehash: caf7527e82b6474c19714345ff9c3339a344704a
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: d90a9adf70b372517c0454733ec1a2262f330c1f
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570760"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869320"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
@@ -22,6 +22,8 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 
 | **Kategoria** | **Ogłoszenia z grudnia 2020 r.** | **Ogłoszone** |
 |---------|:---------|:---------|
+|Możliwości|[Wydanie zestawu SDK dla platformy .NET Standard (1.16.3)](2020-december.md#4)|8 grudnia|
+|Oferty/rynki|[Informacje o wersji cennika opartego na licencji z grudnia 2020](2020-december.md#3)|8 grudnia|
 |Oferty/rynki|[Wkrótce zostanie udostępniona aktualizacja oferty Microsoft 365 Business Voice z pakietem telefonicznym dla Stanów Zjednoczonych](2020-december.md#2)|3 grudnia|
 |Możliwości|[Już dostępne: Aktualizacje interfejsu API Centrum partnerskiego i ulepszenia interfejsu użytkownika dla procesu weryfikacji klienta edukacyjnego](2020-december.md#1)|3 grudnia|
 | **Kategoria** | **Ogłoszenia z listopada 2020 r.** | **Ogłoszone** |
