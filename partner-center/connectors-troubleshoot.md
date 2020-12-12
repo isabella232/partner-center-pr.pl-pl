@@ -8,18 +8,17 @@ description: Poznaj odpowiedzi na często zadawane pytania dotyczące korzystani
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 988a696a8a0a0abb4d37e3915c76f905ec5b35b0
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b8977f7c602b8587a619236b37a760a55bf87e53
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92530304"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354546"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Rozwiązywanie problemów dotyczących współsprzedawanych łączników
 
 **Dotyczy:**
 
-- Centrum partnerskie
 - Dynamics 365 CRM
 - Aplikacja Salesforce CRM
 
@@ -80,7 +79,7 @@ Wykonaj ten krok rozwiązywania problemów:
 
 3. Co należy zrobić, jeśli wystąpi następujący błąd podczas aktywowania Centrum partnerskiego do przepływu CRM w ramach platformy w automatyzowaniu?
  
-:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Komunikat o błędzie wymagający zalogowania":::
+:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Komunikat o błędzie wymagający aktualizacji":::
 
 Wykonaj następujące kroki rozwiązywania problemów:
 
@@ -95,11 +94,11 @@ Można dodać połączenia do przepływu, gdy przepływ jest uruchomiony, i oddz
 - Zaznacz każdy przepływ i edytuj je pojedynczo.
 - Rozwiń wszystkie kroki w przepływie 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Komunikat o błędzie wymagający zalogowania":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Kroki, które wymagają połączeń":::
 
 - Wybierz kroki, w których zostanie wyświetlona ikona ostrzeżenia z prośbą o skojarzenie połączeń i Dodawanie połączeń. 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Komunikat o błędzie wymagający zalogowania":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Edytuj przepływ krok po kroku":::
 
 
 5. Co należy zrobić, jeśli nie można włączyć rozwiązania łączników odwołań współsprzedawanych?
@@ -114,9 +113,9 @@ A. W programie w celu zautomatyzowania należy edytować przepływy w następuj�
 - Okazja do Centrum partnerskiego w usłudze Salesforce (wersja zapoznawcza)
 - Rozwiązania firmy Microsoft do Centrum partnerskiego (wersja zapoznawcza)
 
- B. Dla każdego przepływu wybierz opcję **Uruchom tylko użytkownicy** . Wybierz pozycję **Użyj połączenia** zamiast **podanej przez użytkownika tylko do uruchomienia** .  
+ B. Dla każdego przepływu wybierz opcję **Uruchom tylko użytkownicy** . Wybierz pozycję **Użyj połączenia** zamiast **podanej przez użytkownika tylko do uruchomienia**.  
 
-:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Komunikat o błędzie wymagający zalogowania":::
+:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Aby uaktywnić przepływ":::
 
 
 C. Aktywuj poniższe przepływy:
@@ -128,7 +127,7 @@ C. Aktywuj poniższe przepływy:
     
 D. Aktywuj wszystkie pozostałe przepływy.
 
-E. W obszarze Rejestracja elementu webhook Centrum partnerskiego w usłudze Flow wybierz pozycję **Uruchom** . Podaj **adres URL protokołu HTTP** od pierwszej akcji w **centrum partnerskim do** przepływu usługi Salesforce. Zaznacz wszystkie cztery opcje w obszarze **zdarzenia do zarejestrowania** i wybierz pozycję **tak** dla opcji Zastąp.
+E. W obszarze Rejestracja elementu webhook Centrum partnerskiego w usłudze Flow wybierz pozycję **Uruchom**. Podaj **adres URL protokołu HTTP** od pierwszej akcji w **centrum partnerskim do** przepływu usługi Salesforce. Zaznacz wszystkie cztery opcje w obszarze **zdarzenia do zarejestrowania** i wybierz pozycję **tak** dla opcji Zastąp.
 
 ## <a name="questions-and-answers-about-runmaintenance"></a>Pytania i odpowiedzi dotyczące uruchamiania/konserwacji
 
@@ -138,9 +137,9 @@ Aby upewnić się, że przepływy Automatyzuj działają zgodnie z oczekiwaniami
 
 2. Co należy zrobić, Jeśli zobaczysz odwołania, które nie są prawidłowo zsynchronizowane w centrum partnerskim lub w środowisku programu CRM?
  
-Aby określić stan synchronizacji odwołań, wybierz pozycję **Inspekcja** . 
+Aby określić stan synchronizacji odwołań, wybierz pozycję **Inspekcja**. 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Komunikat o błędzie wymagający zalogowania":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Jak synchronizować odwołania":::
 
 Upewnij się, że zostały spełnione następujące warunki:
 
@@ -156,7 +155,53 @@ Wykonaj następujące czynności:
 
 - Sprzedawcy partnerów muszą mieć pewność, że włączyli opcję **Synchronizuj z Centrum partnerskiego** w sekcji CRM.
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Komunikat o błędzie wymagający zalogowania" w centrum partnerskim.
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Upewnij się, że włączono synchronizację":::
+
+- Sprzedawcy muszą podawać przychody i daty zamknięcia przy zakwalifikowaniu potencjalnego klienta.
+
+- Jeśli na etapie **tworzenia** lub **aktualizowania** możliwości WSPÓŁsprzedaży została podana nazwa programu CRM, ale w programie CRM nie znaleziono szansy sprzedaży z tym identyfikatorem, aktualizacje lub tworzenie zostaną zignorowane.
+
+- Upewnij się, że pole Waluta odwołania jest skonfigurowane w środowisku usługi Salesforce. 
+
+4. Co należy zrobić, jeśli łącznik zostanie odłączony i zostanie pominięta synchronizacja odwołań. 
+
+Poniżej przedstawiono kilka opcji, które można wypróbować:
+
+- Sprawdź, czy nazwa użytkownika lub hasło wygasły w przypadku użytkowników Centrum partnerskiego z odwołaniami do ról administratora.
+
+- Możesz przejść do niezsynchronizowanej możliwości, wprowadzić drobną aktualizację i sprawdzić, czy odwołanie zostało zsynchronizowane.
+
+- Jeśli przepływy zostały uruchomione i zakończyły się niepowodzeniem, wybierz przepływ i ponownie prześlij przebieg, który zakończył się niepowodzeniem.
+
+5. Co należy zrobić, gdy zostanie wyświetlony błąd odmowy dostępu?
+
+Upewnij się, że istnieją odpowiednie role
+
+- Rola administratora odwołań dla sprzedawcy Centrum partnerskiego 
+ 
+- Rola Administrator systemu lub Konfigurator systemu w wystąpieniu programu CRM
+
+- Upewnij się, że użytkownik konta przepływu automatyzacji https://flow.microsoft.com
+
+6. Co należy zrobić, jeśli podczas tworzenia szansy sprzedaży nie ma **kodu kraju konta klienta** ?
+
+Konieczne będzie dodanie dwuliterowego kodu ISO do konta klienta w programie CRM.
+
+7. Co należy zrobić, Jeśli zobaczysz błąd, którego **Identyfikator rozwiązania jest wymagany** podczas tworzenia możliwości współsprzedaży?
+
+Aby można było utworzyć odwołanie do współsprzedawcy, potrzebne jest rozwiązanie do współpracy z firmą Microsoft. 
+
+8. Co należy zrobić, gdy zobaczysz możliwości wspólnej sprzedaży utworzone w centrum partnerskim, które nie są zsynchronizowane z aplikacją CRM, mimo że nie występują błędy przepływu:
+
+Wykonaj następujące czynności:
+
+- Po utworzeniu nowej transakcji towarzyszącej w centrum partnerskim Sprawdź, czy jest wywoływany przepływ Centrum partnerskiego do systemu Dynamics 365 (może zostać wywołany wiele razy).
+
+- Jeśli przepływ jest wywoływany, zaznacz wszystkie wywołane przepływy i zidentyfikuj przebieg przepływu, który zaktualizuje program CRM. Można wykonać akcje i sprawdzić, czy aktualizacja programu CRM została zaktualizowana lub napotkała problem.
+
+- Sprawdź *nowe rozpatrzenie* w centrum partnerskim, aby sprawdzić, czy jest ono wypełnione identyfikatorem programu CRM.
+
+- Upewnij się, że transakcja nie została przypadkowo ZAMKNIĘTA jako "kupione" lub "zgubione" w centrum partnerskim.
 
 ## <a name="next-steps"></a>Następne kroki
 

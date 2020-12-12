@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 616f706ddb4613f927e0c2830dd794fa3db3944e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 05c46faa3fd012677b615caa228cf4f7c6fe6c90
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92529261"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354580"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Przykładowe miesięczne Scenariusze rozliczania dla nowych subskrypcji, zmiany kwot licencji lub zawieszeń
 
@@ -107,3 +107,7 @@ Cena jednostkowa = dni w okresie użytkowania x cena dzienna x liczba licencji.
 W okresie anulowania 3/1/2018 – 3/12/2018 znajduje się 12 dni.
 
 W związku z tym cena jednostkowa =-1,716 (12 x 0,143 x (-1)).
+
+## <a name="next-steps"></a>Następne kroki
+
+- [Scenariusze rozliczania dla jednorazowych i wybranych cyklicznych zakupów](common-billing-scenarios-onetime-recurring.md)

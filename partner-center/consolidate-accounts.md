@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 3b20f29fcde9c910fd72d0aa86a1242b9c00859c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 6d8fca11f2db40e7f8b4ebcd4580d8f0aba115eb
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92529441"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354529"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Konsolidowanie kont firmowych w przypadku migrowania z programu PMC do Centrum partnerskiego
 
@@ -62,3 +62,9 @@ W kryterium PMC było możliwe, że każda lokalizacja ma swoje własne kompeten
 W centrum partnerskim wszystkie konta lokalizacji są konsolidowane na jedno konto globalne. Oznacza to, że wszystkie oferty do sprzedaży, programy i kompetencje są również skonsolidowane. Zestawy narzędzi do dodatkowych zalet (ABTKs) nie będą dostępne. Można jednak zorganizować dystrybucję zasobów marketingowych, ofert, programów i kompetencji wymaganych przez firmę. Podczas konsolidowania jest udostępniane rozszerzenie. To rozszerzenie umożliwia firmie korzystanie z zasobów marketingowych, ofert i programów używanych w ramach kryterium PMC przez dodatkowy rok.
 
 Aby uzyskać więcej informacji na temat różnic między pakietem PMC i centrum partnerskim, przeczytaj artykuł [przechodzenie od PMC do Centrum partnerskiego](guide-to-migration.md).
+
+## <a name="next-steps"></a>Następne kroki
+
+- [Zarządzanie kontem w portalu Partner Center](partner-center-account-setup.md)
+
+- [Zarządzanie lokalizacjami](manage-locations.md)

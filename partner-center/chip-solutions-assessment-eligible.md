@@ -1,5 +1,5 @@
 ---
-title: Uprawnienie do oceny rozwiązań
+title: Kwalifikowanie się do programu Solution Assessment
 ms.topic: how-to
 ms.date: 11/09/2020
 description: Dowiedz się, jak sprawdzić wymagania dotyczące uczestnictwa w programie zachęty do oceny rozwiązań.
@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5feb30b62cb6b862cd3e474d46980f8654ba1c1
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: 7d40b09ee8b452cb75be216f83ddc700596b93d7
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94447285"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354478"
 ---
 # <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Wymagania dotyczące kwalifikacji w programie zachęt do oceny rozwiązań
+
+**Odpowiednie role**
+
+- Podstawowy kontakt lub administrator programu
 
 Partnerzy z aktywnym i zarejestrowanym stanem w programie zachęty do oceny rozwiązań w programie FY20 będą nadal kwalifikowani do bodźców w FY21, jeśli mają aktywne członkostwo MPN i aktywną kompetencję Silver lub Gold MPN. Kwalifikacje partnerów są przeglądane w celu corocznego zakwalifikowania się. Jeśli ustanowioni partnerzy nie spełniają wymagań dotyczących uprawnień i uczestnictwa w bieżącym roku, zostaną usunięci w następnym rocznym przeglądzie. Wszyscy nowi partnerzy są dołączeni przez lokalny specjalistę ds. oceny rozwiązań. Sygnatura dostępu współdzielonego zidentyfikuje partnerów do dołączenia na podstawie dopasowania umiejętności i wiedzy w firmie partnerskiej oraz potrzeb związanych z biznesem podmiotów zależnych obsługiwanych przez te SYGNATURy dostępu współdzielonego.
 

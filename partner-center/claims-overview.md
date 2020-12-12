@@ -9,18 +9,14 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 00761df0cb51e8fcd3238141a51a53107c7c8523
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133086"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354512"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Zdobywanie wspólnych środków marketingowych
-
-**Dotyczy**
-
-- Centrum partnerskie
 
 **Odpowiednie role**
 
@@ -52,7 +48,7 @@ Oś czasu dla środków współpracujących jest podzielona na 2 6 miesięcy, H1
 - H1 to pierwsza połowa roku obrachunkowego, 1 lipca, 31 grudnia.
 - H2 to druga połowa roku obrachunkowego, od 1 stycznia do 30 czerwca.
 
-Miesięczny okres, w którym naliczane są zyski, staną się **okresem zdobywania** . Tych zarobków należy używać w pewnym momencie w trakcie następnego sześciomiesięcznego **okresu użytkowania** . Jeśli nie korzystasz z zarobków na koniec okresu użytkowania, utracisz je. **Okres** zgłaszania to sześciomiesięczny okres, w którym można zatwierdzić zwroty dla działań programu zachęty.
+Miesięczny okres, w którym naliczane są zyski, staną się **okresem zdobywania**. Tych zarobków należy używać w pewnym momencie w trakcie następnego sześciomiesięcznego **okresu użytkowania**. Jeśli nie korzystasz z zarobków na koniec okresu użytkowania, utracisz je. **Okres** zgłaszania to sześciomiesięczny okres, w którym można zatwierdzić zwroty dla działań programu zachęty.
 
 W poniższej tabeli przedstawiono różne okresy użytkowania, użycia i okresu roszczeń. O ile nie zaznaczono inaczej, okresy są rozbudowywane od pierwszego dnia pierwszego miesiąca do ostatniego dnia ostatniego miesiąca.
 
