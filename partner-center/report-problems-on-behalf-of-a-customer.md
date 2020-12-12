@@ -1,5 +1,5 @@
 ---
-title: Zgłoś problemy w imieniu klienta
+title: Zgłaszanie problemów w imieniu klienta
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
@@ -9,19 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12310b8c89f593122cdd9caec0aa74a712953219
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
+ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530489"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "97153149"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Zgłoś problem dotyczący usługi w imieniu klienta — w tym informacje o tym, kiedy i jak to zrobić
 
 **Dotyczy**
 
 - Centrum partnerskie
-- Centrum partnerskie dla Microsoft Cloud dla instytucji rządowych USA
+- Centrum partnerskie Microsoft Cloud for US Government
 
 **Odpowiednie role**
 
@@ -31,11 +31,13 @@ Jeśli klient napotkał problem z usługą, którego nie można rozwiązać, i s
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Prześlij żądanie obsługi dla klienta
 
-1. W menu **Centrum partnerskiego** wybierz pozycję **żądania obsługi** , a następnie **żądanie klienta** . 
+1. W menu Centrum partnerskiego w obszarze dostawca usług kryptograficznych wybierz pozycję **klienci**
 
-2. Na stronie żądania klienta Wyszukaj odpowiedni klient.
+2. Na stronie klienci Wybierz lub Wyszukaj żądanego klienta
+    
+3. Z menu Klient wybierz pozycję **żądania obsługi**
 
-3. Z menu rozwijanego **nowe żądanie** wybierz pozycję **Azure** lub **Office 365, Dynamics 365 i Enterprise Mobility Suite** . Nastąpi przekierowanie do Microsoft Azure Portal lub centrum administracyjnego pakietu Office 365.
+4. Z menu rozwijanego **nowe żądanie** wybierz pozycję **Azure** lub **Office 365, Dynamics 365 i Enterprise Mobility Suite**. Nastąpi przekierowanie do Microsoft Azure Portal lub centrum administracyjnego pakietu Office 365.
 
 >[!NOTE]
 >W programie CSP są wymagane wsparcie dla partnerów operacyjnych obsługujących usługi Dynamics 365 w ramach umowy dotyczącej pomocy technicznej Advanced support for Partner (ASfP) lub wyższy. Ta umowa dotycząca pomocy technicznej jest wymagana do przesłania zdarzeń Dynamics 365 w imieniu klienta programu CSP. [Dowiedz się więcej](https://partner.microsoft.com/support/partnersupport) o opcjach umowy serwisowej.
@@ -49,15 +51,15 @@ Jeśli klient napotkał problem z usługą, którego nie można rozwiązać, i s
 >
 >- Chociaż Administrator pomocy technicznej w centrum partnerskim nie może tworzyć żądań obsługi w portalu usługi Azure, co można zrobić, Utwórz grupę pomocy technicznej w portalu usługi Azure i nadaj im uprawnienia do rejestrowania żądań obsługi.
 
-1. Wybierz pozycję **Nowe żądanie obsługi** .
+1. Wybierz pozycję **Nowe żądanie obsługi**.
 
-2. Wypełnij żądanie pomocy technicznej odpowiednimi informacjami, a następnie wybierz pozycję **Utwórz** :
+2. Wypełnij żądanie pomocy technicznej odpowiednimi informacjami, a następnie wybierz pozycję **Utwórz**:
 
    - W sekcji **podstawowe** żądania obsługi upewnij się, że wybrano opcję **dostawca rozwiązań w chmurze** w polu **Plan pomocy technicznej** .
 
    - W sekcji informacje **kontaktowe** żądania pomocy technicznej wprowadź swoje informacje, a nie informacje o kliencie.
 
-3. Później Przejrzyj żądania obsługi klienta w ramach Microsoft Azure Portal, wybierając pozycję **Zarządzaj żądaniami pomocy technicznej** .
+3. Później Przejrzyj żądania obsługi klienta w ramach Microsoft Azure Portal, wybierając pozycję **Zarządzaj żądaniami pomocy technicznej**.
 
 Jeśli nie masz uprawnień administratora dla tego klienta, może być konieczne utworzenie żądania pomocy technicznej dla klienta. Może się to zdarzyć w jednym z dwóch scenariuszy:
 
@@ -72,19 +74,19 @@ W każdym z tych przypadków można użyć następującej procedury, aby utworzy
 
 3. Wybierz subskrypcję platformy Azure wymagającą pomocy technicznej.
 
-4. Wybierz pozycję **nowe żądanie obsługi** , a następnie postępuj zgodnie z monitami, aby utworzyć żądanie. 
+4. Wybierz pozycję **nowe żądanie obsługi**, a następnie postępuj zgodnie z monitami, aby utworzyć żądanie. 
 
  
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite
 
 1. W sekcji **Tworzenie żądania obsługi** wybierz odpowiednią kategorię pomocy technicznej. Może być konieczne wybranie opcji **więcej...** , aby wyświetlić dodatkowe artykuły.
 
-2. Wypełnij formularz żądanie obsługi, a następnie wybierz pozycję **Prześlij** .
+2. Wypełnij formularz żądanie obsługi, a następnie wybierz pozycję **Prześlij**.
 
    > [!TIP]
    > Pamiętaj o uwzględnieniu informacji kontaktowych, a nie Twojego klienta.
 
-3. Później Przejrzyj żądania obsługi klienta, przechodząc do centrum administracyjnego pakietu Office 365 i wybierając pozycję **Pokaż wszystkie bilety pomocy technicznej** .
+3. Później Przejrzyj żądania obsługi klienta, przechodząc do centrum administracyjnego pakietu Office 365 i wybierając pozycję **Pokaż wszystkie bilety pomocy technicznej**.
 
 ### <a name="support-for-commercial-marketplace-products"></a>Obsługa komercyjnych produktów Marketplace
 
@@ -116,7 +118,7 @@ Ta korzyść ma zastosowanie do wszystkich partnerów uczestniczących w program
 
 Początkowe czasy reakcji zależą od ważności przesłanego zdarzenia. Ważność problemu jest określana przez wskazanie wpływu na działalność biznesową podczas przesyłania żądania obsługi.
 
-Czas wstępnej reakcji dla **zdarzeń naprawy awarii technicznej** :
+Czas wstępnej reakcji dla **zdarzeń naprawy awarii technicznej**:
 
 - Krytyczny wpływ (ważność A): 2 godziny (znacząca utrata lub spadek poziomu usług). Usługi produkcyjne)
 - Średni wpływ (ważność B): cztery godziny (średnia utrata lub spadek poziomu usług). Usługi produkcyjne częściowo dotknięte problemem).
@@ -150,4 +152,4 @@ Przeczytaj [Pomoc techniczną dla systemu Microsoft Dynamics](https://support.mi
 ## <a name="next-steps"></a>Następne kroki
 
 - [Zapewnianie pomocy technicznej dla klientów](customer-support.md)
-- [Sprawdź kondycję usługi](check-service-health.md)
+- [Sprawdzanie kondycji usługi](check-service-health.md)
