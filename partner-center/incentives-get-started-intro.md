@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 4f4a82d4b8a94e960befb55bdd4a99e0cdcc9bb0
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 2444f2d6ff75340b7a9826828d28a4bb316d87a8
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "92529518"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492606"
 ---
 # <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Skorzystaj z tych zasobów, aby rozpocząć pracę z zachętami
 
@@ -48,8 +48,8 @@ Zanim będzie można zapłacić za swoją służbę w programie zachęty, musisz
 | Dowiedz się, czy Twoje zachęty spełniają wymagania kwalifikacyjne dla określonego programu zachęt | [Ustalanie uprawnień do programu](incentives-determined-your-program-eligibility.md)  |
 | Znajdź i podaj dane, które są wymagane przez firmę Microsoft, zanim będzie można otrzymywać premie za zachęty | [Utwórz wypłaty i profile podatków w centrum partnerskim i zarządzaj nimi](incentives-create-and-manage-your-payout-and-tax-profiles.md)  |
 | Upewnij się, że zostały podane wszystkie szczegółowe informacje, które są potrzebne do uzyskania bodźców zachęt | [Potwierdzanie uprawnień do zarobków](incentives-confirm-your-earnings-eligibility.md)  |
-| Zobacz wszystkie dane i raporty dla programu zachęty | [Wyświetlanie własnych płatności związanych z zachętami i programów](understand-incentive-payouts.md)  |
-| Uzyskaj dostęp do strony z wypłatami specyficznymi dla programu | [Uzyskaj dostęp do strony z wypłatami zachęt](incentives-unified-user-guide.md)  |
+| Zobacz wszystkie dane i raporty dla programu zachęty | [Wyświetlanie programów i płatności związanych z zachętami](understand-incentive-payouts.md)  |
+| Uzyskaj dostęp do strony z wypłatami specyficznymi dla programu | [Uzyskaj dostęp do instrukcji wypłaty](payout-statement.md)  |
 
 ## <a name="next-steps"></a>Następne kroki
 

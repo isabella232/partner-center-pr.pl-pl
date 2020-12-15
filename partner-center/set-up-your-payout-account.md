@@ -6,14 +6,19 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514762"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492691"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Konfigurowanie konta do wypłaty i formularzy podatkowych
+
+**Odpowiednie role:**
+
+- Administrator konta
+- Administrator globalny
 
 Aby otrzymać pieniądze z oferty sprzedaży oferowanej w komercyjnej witrynie Marketplace, musisz skonfigurować konto wypłaty i uzupełnić niezbędne formularze podatkowe w [centrum partnerskim](https://partner.microsoft.com/dashboard).
 
@@ -32,19 +37,16 @@ Po skonfigurowaniu konta należy wykonać dwie czynności, aby móc sprzedawać 
 
 ## <a name="tax-forms"></a>Formularze podatkowe
 
-### <a name="fill-out-your-tax-forms"></a>Wypełnij formularze podatkowe
+Będziesz zarządzać profilem podatków i formularzami podatków na stronie **wypłaty i opodatkowania** Centrum partnerskiego. Uprawnienia organizacji określają profile i informacje, które zobaczysz.
 
-Najpierw należy utworzyć profil podatkowy i przypisać go do programów, które uczestniczą w programie. Możesz utworzyć swój *profil podatkowy* dla komercyjnego portalu Marketplace, wykonując następujące czynności:
+### <a name="create-or-update-your-tax-profile"></a>Utwórz lub Zaktualizuj swój profil podatkowy
 
-- Określ swój kraj/region pobytu i obywatelstwo.
-- Wypełnij odpowiednie formularze podatkowe.
-
-W centrum partnerskim można dokończyć i przesyłać formularze podatkowe elektronicznie. w większości przypadków nie ma potrzeby drukowania ani wysyłania żadnych formularzy.
+Najpierw należy utworzyć profil podatkowy i przypisać go do programów, które uczestniczą w programie. Wykonaj poniższe kroki, aby utworzyć lub zaktualizować swój *profil podatkowy* w centrum partnerskim. Możesz dokończyć i przesyłać formularze podatkowe elektronicznie na pulpicie nawigacyjnym Centrum partnerskiego. w większości przypadków nie ma potrzeby drukowania ani wysyłania żadnych formularzy.
 
 > [!IMPORTANT]
 > Różne kraje i regiony mają różne wymagania podatkowe. Dokładna kwota, która musi zostać zapłacona podatkiem, zależy od krajów i regionów, w których oferta została sprzedawana. Zapoznaj się z [umową wydawcy Microsoft Azure Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560) , aby dowiedzieć się, w jakich krajach/regionach firma Microsoft przekazuje sprzedaż i korzystać z opodatkowania w Twoim imieniu. W innych krajach/regionach, w zależności od tego, gdzie jest zarejestrowany, może być konieczne przekazanie sprzedaży i użycie podatku za oferowaną sprzedaż bezpośrednio do urzędu opodatkowania lokalnego. Ponadto przychody sprzedaży aplikacji mogą być opodatkowane jako dochód. Zdecydowanie zachęcamy do skontaktowania się z odpowiednim urzędem dla danego kraju lub regionu, który może pomóc w ustaleniu odpowiednich informacji podatkowych dotyczących komercyjnych działań w portalu Marketplace.
 
-1. W [centrum partnerskim](https://partner.microsoft.com/dashboard)wybierz ikonę **Ustawienia** koła zębatego w prawym górnym rogu, a następnie pozycję **Ustawienia konta**.
+1. Na [pulpicie nawigacyjnym Centrum partnerskiego](https://partner.microsoft.com/dashboard)wybierz ikonę **Ustawienia** koła zębatego w prawym górnym rogu, a następnie pozycję **Ustawienia konta**.
 
 2. W menu nawigacji po lewej stronie wybierz pozycję **wypłata i podatek**, a następnie wybierz pozycję **wypłata i przydziały podatkowe**.
 
@@ -112,7 +114,7 @@ Jeśli wybrano opcję korzystania z konta bankowego w celu otrzymywania wypłat,
 6. Kliknij pozycję Prześlij, aby zapisać zmiany.
 
    > [!NOTE]
-   > Zweryfikowanie informacji w Twoim profilu może potrwać do 48 godzin. Gdy ten proces zostanie ukończony *verification status* , zostanie wyświetlony stan **ukończono**
+   > Zweryfikowanie informacji w Twoim profilu może potrwać do 48 godzin. Gdy ten proces zostanie ukończony  , zostanie wyświetlony stan **ukończono**
 
 Aby zapewnić pomyślne wypłaty, upewnij się, że:
 

@@ -1,22 +1,27 @@
 ---
-title: Harmonogramy wypłaty i Szczegóły zasad — Azure Marketplace
-description: Dowiedz się więcej na temat szczegółów dotyczących komercyjnych zasad wypłaty na rynku, w tym harmonogramów i odniesień.
+title: Harmonogramy i procesy wypłaty
+description: Zapoznaj się z wypłatami i transakcjami, takimi jak harmonogramy płatności i procesy odliczeń dla komercyjnych rynków i innych transakcji.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/06/2020
-ms.openlocfilehash: bd8153ffd368c1f67b27eaeb44d383409bd59e97
-ms.sourcegitcommit: 2e880efb02a48afc4f234ec27da34519407f87c6
+ms.date: 11/25/2020
+ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96513301"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492674"
 ---
-# <a name="payout-schedules-and-policy-details"></a>Harmonogramy wypłaty i Szczegóły zasad
+# <a name="payout-schedules-and-processes"></a>Harmonogramy i procesy wypłaty
 
-W tym artykule omówiono proces wypłaty firmy Microsoft, harmonogram wypłaty, informacje o stanie wypłaty oraz proces niepłatności dla klienta.
+**Odpowiednie role:**
+
+- Administrator konta
+- Administrator globalny
+
+W tym artykule omówiono harmonogram płatności firmy Microsoft, gdzie można znaleźć status wypłaty, a następnie proces niepłaty dla klienta.
 
 ## <a name="payment-schedules"></a>Harmonogramy płatności
 
@@ -90,7 +95,7 @@ Poniżej przedstawiono przykładowy harmonogram:
 Zwykle wysyłamy wszelkie płatności należne w danym miesiącu w piętnastym dniu tego miesiąca, ale w celu uzyskania płatności na Twoje konto zajmiemy dodatkowy czas. Liczba dni zależy od formy płatności używanej dla Twojego konta, zgodnie z poniższym opisem.
 
 > [!NOTE]
-> Pokazane poniżej dni są przybliżone; Płatność za korzystanie z konta może potrwać dłużej lub krócej.
+> Pokazane poniżej dni są przybliżone; dowolna płatność może zająć więcej czasu lub dłużej.
 
 | Metoda płatności     | Liczba dni do uzyskania dostępu do konta wypłaty     |
 |--------------------|--------------------------------------------|

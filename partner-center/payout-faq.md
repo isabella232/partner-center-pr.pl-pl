@@ -1,22 +1,69 @@
 ---
-title: Wypłata często zadawane pytania dotyczące komercyjnej witryny Marketplace firmy Microsoft
-description: Uzyskaj odpowiedzi na często zadawane pytania dotyczące wypłat na rynku komercyjnym. Zawiera odpowiedzi na to, dlaczego dochody są inne niż oczekiwano.
+title: Wypłaty i zapytania dotyczące profilu podatkowego
+description: Uzyskaj odpowiedzi na często zadawane pytania dotyczące wypłat i szczegółów podatkowych w centrum partnerskim. Zawiera odpowiedzi na to, dlaczego dochody są inne niż oczekiwano.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 09/11/2020
-ms.openlocfilehash: 5775eb497940870344e0d3da85def7c3e717c65f
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.date: 11/25/2020
+ms.openlocfilehash: 3b09f0a08cd974f88afe5c5708df307830491f3f
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532025"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492589"
 ---
-# <a name="common-questions-about-commercial-marketplace-payouts"></a>Często zadawane pytania dotyczące komercyjnych wypłat rynkowych
+# <a name="common-questions-about-payouts-and-taxes"></a>Często zadawane pytania dotyczące wypłat i podatków
 
-W tym artykule znajdują się odpowiedzi na często zadawane pytania dotyczące wypłat w portalu komercyjnym.
+**Odpowiednie role**:
+
+- Administrator konta
+- Administrator globalny
+- Administrator zachęt
+
+Ten artykuł zawiera odpowiedzi na często zadawane pytania dotyczące wypłat i szczegółów podatkowych w centrum partnerskim. omówione tematy obejmują czas płatności, sprawdzanie uprawnień do zarobków oraz znaczenie poprawnego konfigurowania wypłat i profilów podatkowych.
+
+## <a name="profile-management"></a>Zarządzanie profilem
+
+#### <a name="why-do-i-need-to-provide-or-update-my-payout-andor-tax-details"></a>Dlaczego muszę podać lub zaktualizować moje wypłaty i/lub dane podatkowe?
+
+Wszyscy partnerzy, którzy zarejestrują się w nowym programie, muszą zapewnić prawidłowe wypłaty i podatek, aby ukończyć rejestrację i otrzymywać płatności. Rejestracja jest uznawana za ukończoną tylko po sprawdzeniu przez firmę Microsoft pozostałej wypłaty i Twojego profilu podatkowego.
+
+Może być również konieczne zaktualizowanie informacji, jeśli reguły dotyczące programu ulegną zmianie lub jeśli aspekty Twojego profilu wygasną lub staną się nieaktualne. W takim przypadku na stronie przeglądu zostanie wyświetlony stan **wymagana akcja — aktualizacja banku i/lub profilu podatkowego**.
+
+#### <a name="how-do-i-find-set-up-or-update-payout-and-tax-details"></a>Jak mogę znaleźć, skonfigurować lub zaktualizować wypłaty oraz szczegóły podatku?
+
+Aby uzyskać szczegółowe informacje na temat aktualizowania płatności i szczegółów podatkowych w centrum partnerskim, zobacz [Konfigurowanie konta wypłaty i formularzy podatkowych](set-up-your-payout-account.md).
+
+#### <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>Dlaczego moje rejestracje nie są wyświetlane, gdy chcę przypisać mój profil wypłaty i profil podatkowy?
+
+Może to oznaczać, że nie masz odpowiednich uprawnień lub że użytkownik jest zalogowany przy użyciu konta, które nie ma tych uprawnień. Na przykład tylko Administratorzy motywacji do lokalizacji usługi MPN mogą tworzyć wypłaty i profile podatkowe oraz zarządzać nimi. Skontaktuj się z administratorem organizacji, aby zarządzać uprawnieniami dotyczącymi banku i podatków.
+
+#### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Mogę zalogować się tylko przy użyciu mojej @onmicrosoft.com domeny. Co mam zrobić?
+
+Skontaktuj się z administratorem konta w celu dodania dodatkowych domen do konta usługi AAD.
+ 
+#### <a name="my-organization-is-participating-in-multiple-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>Moja organizacja uczestniczy w wielu programach. Czy muszę wprowadzić swoją płatność i profil podatkowy wielokrotnie?
+
+Zależy to od potrzeb organizacji. Profile płatności są tworzone na poziomie organizacji, dzięki czemu można przypisywać ten sam profil banku do wielu identyfikatorów MPN i programów w organizacji. W większości przypadków można użyć istniejącego profilu lub utworzyć nowy.
+
+Jednak w przypadku stosowania profilu bankowego w różnych krajach lub regionach mogą wystąpić wyjątki, ponieważ mogą obowiązywać lokalne przepisy bankowe lub podatkowe.
+
+Profile podatków utworzone dla lokalizacji MPN są ponownie używane i wypełniane automatycznie, gdy ta sama lokalizacja MPN uczestniczy w innym programie. Mogą jednak istnieć wyjątki. Na przykład reguły wypłat nowego programu zachęt mogą wymagać dodatkowych informacji dotyczących profilu podatkowego.
+
+#### <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>Czy mogę użyć tych samych informacji o banku i podatku dla wszystkich programów zachęty w firmie Microsoft?
+
+Jeśli Twoja firma jest zapraszana do wielu programów, możesz użyć tego samego konta płatności dla wszystkich programów lub wybrać różne konta płatności dla różnych programów.
+
+
+#### <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>W jaki sposób firma Microsoft zapewnia, że informacje o Banku są rzeczywiście używane przez firmę, a nie na koncie osobistego banku pracownika?
+
+Firma jest odpowiedzialna za zapewnienie, że rola zachęty administrator — kto ma uprawnienia do edytowania tych informacji — jest przyznawana tylko odpowiednim pracownikom.
+
+#### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Mój profil podatkowy wygasł. Jak mogę rozwiązać ten problem?
+
+Aby zaktualizować profil podatkowy, wykonaj kroki opisane w temacie [Tworzenie lub aktualizowanie profilu podatku](set-up-your-payout-account.md#create-or-update-your-tax-profile) . Na stronie **profil podatkowy** można wyświetlić profile, które wygasły lub wkrótce wygasną w kolumnie **Data wygaśnięcia** . 
 
 ## <a name="earnings-incorrect-or-missing"></a>Brak lub nieprawidłowe zarobki
 
@@ -32,9 +79,10 @@ W tym artykule znajdują się odpowiedzi na często zadawane pytania dotyczące 
 - Sprawdź odpowiedzialność za obowiązek naliczania podatku według kraju. W przypadku krajów, w których za odprowadzanie podatków odpowiada firma Microsoft, będzie ona pobierać i odliczać kwoty podatków z zarobków wydawcy. Kwota transakcji wskazana w zestawieniu jest pomniejszona o podatek. Zobacz [Szczegóły podatków](tax-details-marketplace.md).
 - Oferty SaaS i IaaS mają rabat w wysokości 10% zamiast standardowego 20%, pozostawiając stawkę zarobkową wynoszącą 90% czasu. Ta promocja obowiązuje do 30 czerwca 2021 r.
 
-**Dalsze** informacje: [komercyjna umowa dotycząca wydawcy w portalu Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Szczegóły zasad wypłaty](payout-policy-details.md) [,](tax-details-marketplace.md) [próg płatności, Metoda i ramy czasowe](payment-thresholds-methods-timeframes.md), [otrzymywanie płatności na rynku komercyjnym](marketplace-get-paid.md) [Payout statements](payout-statement.md) [Orders dashboard in commercial marketplace analytics](/azure/marketplace/partner-center-portal/orders-dashboard)
+**Dalsze** informacje: [komercyjna umowa dotycząca wydawcy w portalu Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Szczegóły zasad wypłaty](payout-policy-details.md), [próg płatności, Metoda i ramy czasowe](payment-thresholds-methods-timeframes.md), [otrzymywanie płatności](marketplace-get-paid.md), [szczegóły podatkowe](tax-details-marketplace.md), [instrukcje wypłaty](payout-statement.md)
 
 ## <a name="earnings-reconciliation"></a>Uzgadnianie zarobków
+
 ### <a name="how-do-i-reconcile-payout-statements-to-order-or-usage-reports-in-analytics"></a>Jak mogę uzgodnić zestawienia wypłat z raportami analizy dotyczącymi zamówień lub użycia?
 Użyj AssetID, IDZamówienia i ID elementu, który pojawia się w raporcie Historia transakcji wypłaty przy użyciu zamówień analitycznych i raportów użycia. Użyj tego mapowania:
 
@@ -47,20 +95,7 @@ Użyj AssetID, IDZamówienia i ID elementu, który pojawia się w raporcie Histo
 - W przypadku klientów korporacyjnych dochody wydawcy są wyświetlane w instrukcji 1-2 dni po dacie zamówienia zakupu.
 - W przypadku klientów nienależących do przedsiębiorstwa dochody z tytułu wydawców pojawiają się w zestawie 1-2 dni po otrzymaniu płatności przez klienta.
 
-**Dalsze odczytywanie** : [instrukcje wypłaty](payout-statement.md), [pulpit nawigacyjny zamówień w komercyjnej analizie Marketplace](/azure/marketplace/partner-center-portal/orders-dashboard)
-
-## <a name="payout-policies"></a>Zasady wypłat
-
-#### <a name="how-do-i-find-the-current-agency-fee-and-the-payout-rate"></a>Jak mogę znaleźć bieżącą stawkę agencyjną i stawkę wypłaty?
-
-- Zapoznaj się z umową wydawcy dotyczącą komercyjnej platformy handlowej. Standardowa stawka agencyjna wynosi 20%. SaaS Co-Sell kwalifikujące się transakcje mają rabat w wysokości 10%. Sprawdź ogłoszenia dotyczące promocyjnych stawek agencyjnych.
-- W zestawieniu wypłaty wskaźnik dochodów określa rzeczywistą stawkę wypłaty dla danej transakcji.
-
-#### <a name="when-can-i-expect-a-payment-from-microsoft-once-earnings-appear-on-my-statement"></a>Kiedy mogę oczekiwać płatności od firmy Microsoft po pojawieniu się zarobków w zestawieniu?
-- Gdy zarobki mają stan „nieprzetworzone”, możesz sprawdzić termin zapadalności, aby określić miesiąc, w którym zarobki zostaną przetworzone na potrzeby płatności. Gdy płatność zostanie przygotowana, stan zdobywania zostanie zmieniony na "przetworzony".  Firma Microsoft zwalnia płatności do 15. dnia miesiąca, w którym przypada termin zapadalności.
-- W przypadku zamówień płatnych według karty kredytowej firma Microsoft przechowuje płatności przez 30 dni do momentu zakończenia okresu zdobywania.
-
- **Dalsze** informacje: [komercyjna umowa dotycząca wydawcy w portalu Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Szczegóły zasad wypłaty](payout-policy-details.md), [szczegóły podatku](tax-details-marketplace.md), [próg płatności, Metoda i przedział czasu](payment-thresholds-methods-timeframes.md)
+**Dalsze odczytywanie**: [instrukcje wypłaty](payout-statement.md), [pulpit nawigacyjny zamówień w komercyjnej analizie Marketplace](/azure/marketplace/partner-center-portal/orders-dashboard)
 
 ## <a name="payments-and-adjustments"></a>Płatności i korekty
 
@@ -111,9 +146,9 @@ Podatkiem potrąconym objęci są wydawcy z USA, którzy złożyli formularz W-9
 #### <a name="how-do-i-access-a-payout-statement"></a>Jak mogę uzyskać dostęp do zestawienia wypłat?
 
 1. Sprawdź swoje role. Aby uzyskać dostęp do zestawienia wypłat, musisz mieć rolę *współpracownika ds. finansowych* lub *właściciela konta*.
-2. W prawym górnym rogu wybierz ikonę **wypłaty** , aby wyświetlić instrukcję wypłaty. Wybierz między **historią transakcji** , **płatnością** i **pobieraniem**.
+2. W prawym górnym rogu wybierz ikonę **wypłaty** , aby wyświetlić instrukcję wypłaty. Wybierz między **historią transakcji**, **płatnością** i **pobieraniem**.
 
-**Dalsze odczytywanie** : [wypłaty ról i uprawnień](payout-statement.md#roles-and-permissions), [instrukcje wypłaty](payout-statement.md) 
+**Dalsze odczytywanie**: [wypłaty ról i uprawnień](payout-statement.md#roles-and-permissions), [instrukcje wypłaty](payout-statement.md) 
 
 ## <a name="payout-statement-report"></a>Raport zestawienia wypłaty
 
@@ -141,7 +176,7 @@ Przejdź do strony **Wypłaty — Płatności** i zobacz sekcję **Lista płatno
 
 Przejdź do [strony profilu](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage), aby wyświetlić formularze dotyczące rozliczenia rocznego podatku.
 
-**Dalsze odczytywanie** : [instrukcje wypłaty](payout-statement.md), [Pobieranie historii transakcji](payout-statement.md#transaction-history-download)
+**Dalsze odczytywanie**: [instrukcje wypłaty](payout-statement.md), [Pobieranie historii transakcji](payout-statement.md#transaction-history-download)
 
 ## <a name="historical-statements"></a>Historyczne instrukcje
 
@@ -149,7 +184,7 @@ Przejdź do [strony profilu](https://partner.microsoft.com/dashboard/payee/profi
 
 Zestawienie historyczne zawiera migawkę danych dotyczących wypłat od października 2019 r. Niestety informacje o wypłatach nie są odświeżane w tym miejscu. Aby uzyskać najnowsze informacje, Prześlij bilet pomocy technicznej w celu uzyskania najnowszych danych.
 
-**Dalsze odczytywanie** : [instrukcje wypłaty](payout-statement.md), [Pobieranie historii transakcji](payout-statement.md#transaction-history-download)
+**Dalsze odczytywanie**: [instrukcje wypłaty](payout-statement.md), [Pobieranie historii transakcji](payout-statement.md#transaction-history-download)
 
 ## <a name="payout-export-api"></a>Interfejs API eksportu wypłaty
 
@@ -157,6 +192,20 @@ Zestawienie historyczne zawiera migawkę danych dotyczących wypłat od paździe
 
 Użyj [interfejsu API wypłaty partnerów](https://apidocs.microsoft.com/services/partnerpayouts).
 
+## <a name="commercial-marketplace-payout-policies"></a>Komercyjne zasady wypłaty z witryny Marketplace
+
+#### <a name="how-do-i-find-the-current-agency-fee-and-the-payout-rate"></a>Jak mogę znaleźć bieżącą stawkę agencyjną i stawkę wypłaty?
+
+- Zapoznaj się z umową wydawcy dotyczącą komercyjnej platformy handlowej. Standardowa stawka agencyjna wynosi 20%. SaaS Co-Sell kwalifikujące się transakcje mają rabat w wysokości 10%. Sprawdź ogłoszenia dotyczące promocyjnych stawek agencyjnych.
+- W zestawieniu wypłaty wskaźnik dochodów określa rzeczywistą stawkę wypłaty dla danej transakcji.
+
+#### <a name="when-can-i-expect-a-payment-from-microsoft-once-earnings-appear-on-my-statement"></a>Kiedy mogę oczekiwać płatności od firmy Microsoft po pojawieniu się zarobków w zestawieniu?
+- Gdy zarobki mają stan „nieprzetworzone”, możesz sprawdzić termin zapadalności, aby określić miesiąc, w którym zarobki zostaną przetworzone na potrzeby płatności. Gdy płatność zostanie przygotowana, stan zdobywania zostanie zmieniony na "przetworzony".  Firma Microsoft zwalnia płatności do 15. dnia miesiąca, w którym przypada termin zapadalności.
+- W przypadku zamówień płatnych według karty kredytowej firma Microsoft przechowuje płatności przez 30 dni do momentu zakończenia okresu zdobywania.
+
+ **Dalsze** informacje: [komercyjna umowa dotycząca wydawcy w portalu Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Szczegóły zasad wypłaty](payout-policy-details.md), [szczegóły podatku](tax-details-marketplace.md), [próg płatności, Metoda i przedział czasu](payment-thresholds-methods-timeframes.md)
+
 ## <a name="next-steps"></a>Następne kroki
 
-- [Uzyskiwanie zapłaty na komercyjnej platformie handlowej](marketplace-get-paid.md)
+- [Uzyskiwanie zapłaty](marketplace-get-paid.md)
+- [Konfigurowanie konta do wypłaty i formularzy podatkowych](set-up-your-payout-account.md)

@@ -1,22 +1,30 @@
 ---
-title: Deklaracja wypłaty dla komercyjnego portalu Marketplace w centrum partnerskim
-description: Dowiedz się więcej na temat zestawień i podsumowań wypłaty oraz jak wyświetlać i eksportować dane dotyczące płatności dla komercyjnej witryny Marketplace
+title: Zestawienia wypłat
+description: Dowiedz się więcej na temat zestawień i podsumowań wypłaty oraz jak wyświetlać i eksportować dane dotyczące płatności z Centrum partnerskiego firmy Microsoft
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 09/23/2020
-ms.openlocfilehash: 34d7d162673992601267db03beaddda1573b73c0
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.date: 10/29/2020
+ms.openlocfilehash: f74dcdc240553cea2c9d226364a8bd6242acc200
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532059"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492640"
 ---
 # <a name="payout-statements"></a>Zestawienia wypłat
 
+**Odpowiednie role:**
+
+- Administrator konta
+- Administrator globalny
+
 **Instrukcja wypłaty** zawiera przegląd wypłat z ofert sprzedawanych za pośrednictwem komercyjnej witryny Marketplace. Pokazuje on transakcyjną historię zarobków, szacuje następną płatność i przedstawia trendy płatności. Możesz również pobrać historię transakcji i instrukcje płatności. W tym artykule wyjaśniono, jak uzyskać dostęp do rachunku wypłaty i różne strony wypłaty oraz pliki do pobrania dostępne w centrum partnerskim.
+
+>[!NOTE]
+>Zobaczysz tylko dane dotyczące identyfikatorów MPN i programów, z którymi masz skojarzone. Aby wyświetlić dodatkowe dane, należy skontaktować się z administratorem konta w celu uzyskania uprawnień. 
 
 ## <a name="roles-and-permissions"></a>Role i uprawnienia
 
@@ -50,6 +58,7 @@ Możesz również użyć [interfejsu API wypłaty partnera](https://apidocs.micr
 
 Na stronie **Historia transakcji** są wyświetlane podsumowanie zarobków, Szacowana kolejna płatność oraz Trend zysków i płatności w ciągu ostatnich 36 miesięcy. Możesz również pobrać szczegóły transakcji z tej sekcji.
 
+
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="Przegląd transakcji.":::
 
 - **Dochody są wysyłane w tym roku** — łączne dochody i podział zarobków, które zostały opłacone i zostaną spłacone w nadchodzącym miesiącu.
@@ -57,9 +66,11 @@ Na stronie **Historia transakcji** są wyświetlane podsumowanie zarobków, Szac
 - **Tendencje zarobkowe i płatnicze** — miesięczne kwoty związane z płatnościami w ciągu ostatnich 36 miesięcy.
 - **Pobierz** — pobiera szczegóły transakcji w formacie CSV lub TSV.
 
-Użyj wyboru zakresu dat w prawym górnym rogu strony, aby odfiltrować dane wyjściowe strony, aby wyświetlić ostatnich 3, 6, 12 lub 36 miesięcy. Lub wybierz niestandardowy zakres dat do 36 miesięcy. Domyślny zakres dat to 12 miesięcy.
+Użyj wyboru zakresu dat w prawym górnym rogu strony, aby odfiltrować dane wyjściowe strony, aby wyświetlić ostatnich 3, 6, 12 lub 36 miesięcy. Lub wybierz niestandardowy zakres dat do 36 miesięcy. Domyślny zakres dat to 12 miesięcy. Możesz również filtrować według identyfikatora rejestracji, programu, identyfikatora płatności, typu zdobywania, dźwigni i stanu. Dane są dostępne dla bieżącego roku obrachunkowego (1 lipca, 30 czerwca) i poprzednich dwóch lat obrachunkowych.
 
 :::image type="content" source="images/payouts/search-filter.png" alt-text="Filtr wyszukiwania w prawym górnym rogu strony.":::
+
+Aby wyświetlić więcej szczegółów na temat zdobywania, wybierz strzałkę w dół znajdującą się po prawej stronie. Spowoduje to wyświetlenie dźwigni, kwoty przychodu, produktu i klienta. Jeśli z jakiegoś powodu wszystkie te dane są niedostępne, ale potrzebujesz do nich dostępu, skontaktuj się z pomocą techniczną. Jeśli zdobywanie wyników jest wynikiem korekty, a nie transakcji, pola produkt i klient nie będą wyświetlane.
 
 ### <a name="transaction-history-summary"></a>Podsumowanie historii transakcji
 
@@ -74,13 +85,49 @@ Pokazuje to szczegółowe informacje, w tym pochodzenie z prezentów od daty spr
     - **Nadchodzące** — dochody są w trakcie oczekiwania na okres chłodzenia.
     - **Przetworzone** — dochody są przygotowywane do następnej płatności.
     - **Wysłano** — dochody zostały opłacone.
-- **Szacowany miesiąc płatności** — miesiąc, w którym należy zapłacić zyski.
+- **Szacowany miesiąc płatności** — miesiąc, w którym należy zapłacić zyski. Aby uzyskać więcej informacji, zobacz [następną sekcję](#estimated-payment-month) .
 
 Transakcje związane z zdobywaniem danych są wyświetlane, gdy transakcja spełni uprawnienia do wypłaty. Aby zrozumieć, dlaczego być może brakuje lub nieoczekiwanych zarobków, zobacz [często zadawane pytania dotyczące komercyjnych wypłat rynkowych](payout-faq.md#why-are-my-earnings-missing).
+
+#### <a name="estimated-payment-month"></a>Szacowany miesiąc płatności
+
+Strona Historia transakcji zawiera teraz tabelę przedstawiającą szacowane kwoty płatności w ciągu następnych kilku miesięcy. Te informacje można również wyświetlać i pobierać w raportach Historia transakcji i raporty podsumowujące. Te informacje ułatwiają uzgadnianie i projekcje płatności.
+
+Szacowany miesiąc płatności jest obliczany na podstawie zasad konfiguracji programu i osi czasu i jest przetwarzany w następnym/przyszłym cyklu płatności.
+
+Szacowany miesiąc płatności jest obecnie dostępny dla wszystkich typów zdobywania, z wyjątkiem współpracy, która będzie wyświetlana jako **nie dotyczy**. W przypadku zarobków przed 1 lipca 2020 szacowany miesiąc płatności zostanie **wyświetlony jako niedostępny**.
+
+W poniższej tabeli przedstawiono szacunkowy przykład miesiąca płatności.
+
+| Month (Miesiąc) | Kwota |
+| ------ | :-----------: |
+|  Wrz-2020 |  $7 273,99   |
+|  Paź-2020 | $8 692,30  |
+|  Lis-2020 | $107,89  |
+
+Szacowana kwota może różnić się od rzeczywistej wartości z różnych powodów:
+
+- Przestananie zarobków: w przypadku ponownego obliczania zarobków rzeczywista wartość będzie różna
+- Korekty: rzeczywista wartość różni się w zależności od zmian, które wystąpiły lub zostały przesłane.
+- Zmiana reguł: zmiana w regułach może odzwierciedlać ponowne obliczenie w rzeczywistej kwocie
+- Płatne: Jeśli wystąpi błąd płatności, rzeczywista kwota może być różna
+
+Należy pamiętać, że płatność jest dostępna tylko w przewidywanym miesiącu, jeśli spełnione są reguły dotyczące progów i uprawnień do płatności programu. Te reguły obejmują, ale nie są ograniczone do poniższej listy:
+
+- Twój profil podatkowy musi mieć aktualną datę
+- Twoje zarobki muszą być zgodne lub przekraczać minimalny próg zdobywania zdefiniowany w przewodniku programu.
+- Wypłata w dniu wstrzymania: w przypadku wybrania opcji "Przechowuj moją płatność" na stronie przypisanie profilów.
+- Instrument wypłaty nie jest dostępny: Profil płatności lub/i podatek nie został ukończony.
 
 ### <a name="transaction-history-download"></a>Pobieranie historii transakcji
 
 Aby wyświetlić więcej szczegółów na temat zdobywania, wybierz pozycję **Pobierz** w górnej części strony. W poniższej tabeli opisano każdą kolumnę w raporcie.
+
+>[!NOTE]
+>Eksport do pobrania historii transakcji ma dwa nowe pola od sierpnia 2020:
+>
+>- **lastPaymentCurrency**  Waluta, w której otrzymano najnowszą płatność, we wszystkich usługi mpnsach, do których aktualnie zalogowany jest dostęp. Jeśli płatność nie zostanie odebrana, Ostatnia waluta płatności będzie wynosić dolarów amerykańskich.
+>- **earningAmountInLastPaymentCurrency**  Kwota zdobywania w ostatniej walucie płatności.
 
 | Nazwa kolumny | Opis | Możliwość zastosowania w przypadku programów zachęty/rynków Marketplace |
 | --- | --- | --- |
@@ -164,6 +211,21 @@ Aby wyświetlić więcej szczegółów na temat zdobywania, wybierz pozycję **P
 | workload | Obciążenie | Zachęty — tylko niektóre programy |
 |
 
+### <a name="transaction-adjustment-codes"></a>Kody korekty transakcji
+
+Poniższa tabela zawiera listę kodów przyczyn korekt i ich opisy.
+
+|**Kod przyczyny**   |**Opis**   |
+|------------------|:-------------------------------------|
+| CZ zgodność | Dostosowanie zmniejszające zyski w przypadku, gdy partner firmy Microsoft nie zapłacił na czas. |
+| Przerzucanie operacji współpracujących | Korekta, która przenosi zyski ze współpracowników do innego okresu lub konwertuje zarobki współpracujące na rabat. |
+| Korekta Ops | Korekta, która koryguje błędy obliczeń systemu firmy Microsoft. |
+| Korekta Ops Microsoft — nieprawidłowe obliczenie | Korekta, która poprawia błędne obliczenia. |
+| Korekta Ops niepoprawna Rejestracja firmy Microsoft | Korekta dotycząca nieudanych obliczeń związanych z rejestracją. |
+| Mapowanie partnera (subskrypcja) MCI/CSP | Korekta, która poprawia niezgodność subskrypcji. |
+| Wyjątek zasad | Dopasowanie, które zastępuje regułę programu.  |
+| Dochody z poprzedniego okresu | Korekta dochodów poza bieżącym okresem zdobywania. |
+
 ## <a name="payments"></a>Płatności
 
 Na stronie **płatności** znajdują się szczegóły dotyczące pieniędzy uzyskanych w firmie Microsoft. Przedstawiono w nim również czas i ilość płatności.
@@ -214,7 +276,7 @@ W poniższej tabeli objaśniono różne stany zdobywania.
 
 ### <a name="payments-download"></a>Pobieranie płatności
 
-Aby wyświetlić więcej szczegółów na temat płatności, wybierz pozycję **Pobierz** w górnej części strony. W poniższej tabeli opisano każdą kolumnę w raporcie.
+ W poniższej tabeli opisano każdą kolumnę w raporcie. Aby wyświetlić więcej szczegółów na temat płatności, wybierz pozycję **Pobierz** w górnej części strony płatności.
 
 | Nazwa kolumny | Opis |
 | --- | --- |
@@ -238,7 +300,7 @@ Aby wyświetlić więcej szczegółów na temat płatności, wybierz pozycję **
 
 ## <a name="export-data"></a>Eksportowanie danych
 
-Strona **Eksportowanie danych** nie jest odświeżana samodzielnie. Może być konieczne ręczne odświeżenie strony, aby zobaczyć najnowsze dane. Wybierz jedną z trzech kart, aby wyeksportować **historię transakcji** , **płatności** , **Podsumowanie transakcji** lub **instrukcję historyczną**.
+Strona **Eksportowanie danych** nie jest odświeżana samodzielnie. Może być konieczne ręczne odświeżenie strony, aby zobaczyć najnowsze dane. Wybierz jedną z trzech kart, aby wyeksportować **historię transakcji**, **płatności**, **Podsumowanie transakcji** lub **instrukcję historyczną**.
 
 Filtr może spowodować błąd **braku dostępnych danych** . Może się tak zdarzyć, jeśli pozostały domyślny okres wybrany przez trzy miesiące, a następnie wybrano identyfikator płatności z okresu, który znajduje się poza tym okresem. Jeśli tak się stanie, rozwiń swój przedział czasu i spróbuj ponownie.
 
@@ -274,7 +336,7 @@ W poniższej tabeli opisano każdą kolumnę w instrukcji historycznej.
 | Nazwa produktu nadrzędnego | Nazwa produktu nadrzędnego. Jeśli nie ma produktu nadrzędnego dla transakcji, nazwa produktu nadrzędnego = Nazwa produktu. |
 | Nazwa produktu | Nazwa produktu |
 | Typ produktu | Typ produktu, taki jak aplikacja, dodatek lub gra |
-| Ilość | Gdy źródło przychodu jest Microsoft Store dla firm, ilość reprezentuje liczbę zakupionych licencji. Dla wszystkich innych źródeł przychodu wartość ta będzie zawsze wynosić 1. Nawet wtedy, gdy pojedyncza transakcja jest dzielona na dwa elementy wiersza, ponieważ użyto dwóch różnych metod płatności, każdy element wiersza będzie wyświetlał liczbę 1. |
+| Liczba | Gdy źródło przychodu jest Microsoft Store dla firm, ilość reprezentuje liczbę zakupionych licencji. Dla wszystkich innych źródeł przychodu wartość ta będzie zawsze wynosić 1. Nawet wtedy, gdy pojedyncza transakcja jest dzielona na dwa elementy wiersza, ponieważ użyto dwóch różnych metod płatności, każdy element wiersza będzie wyświetlał liczbę 1. |
 | Typ transakcji | Typ transakcji, taki jak zakup, zwrot, odwrócenie lub obciążenia zwrotnego |
 | Forma płatności | Instrument płatniczy klienta używany do transakcji, taki jak karta, rozliczenia przez przewoźnika komórkowego lub w systemie PayPal |
 | Kraj/region | Kraj/region, w którym wystąpiła transakcja |

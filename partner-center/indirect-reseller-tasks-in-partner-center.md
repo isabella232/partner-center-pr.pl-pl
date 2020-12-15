@@ -6,22 +6,20 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, jak pośrednicy Odsprzedawcy mogą współdziałać z dostawcami pośrednimi firmy Microsoft (lub dystrybutorami), aby uzyskać pomoc dotyczącą obsługi klienta i
 ms.prod: ''
-ms.custom: contperfq2
+ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 082574f381186731cee023cfcdfa04b46d0ba1c5
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795852"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492402"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Dowiedz się, jak współdziałać z dostawcami pośrednimi w programie dostawcy rozwiązań w chmurze
 
-**Dotyczy**
 
-- Centrum partnerskie
 
 **Odpowiednie role**
 
@@ -66,30 +64,30 @@ Od października 2020 wszyscy partnerzy firmy Microsoft nowi dostawcy usług kry
 
    Przeglądanie i weryfikowanie podanych informacji może zająć nam kilka dni. Po zakończeniu naszego przeglądu wyślemy wiadomość e-mail do Twojego podstawowego kontaktu.
 
-### <a name="get-started"></a>Wprowadzenie
+### <a name="get-started"></a>Rozpoczęcie pracy
 
 1. Aby rozpocząć proces rejestracji, przejdź na [**stronę powitalną**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) w celu zarejestrowania się.
 
-2. Przejrzyj **stronę powitalną** , aby upewnić się, że masz informacje potrzebne do rejestracji, a następnie wybierz pozycję **dalej** .
+2. Przejrzyj **stronę powitalną** , aby upewnić się, że masz informacje potrzebne do rejestracji, a następnie wybierz pozycję **dalej**.
 
 3. Zaloguj się przy użyciu konta służbowego. Wybierz pozycję **Zaloguj** , a następnie wprowadź nazwę użytkownika i hasło, których używasz do logowania się jako Administrator globalny dla pakietu Office 365, Microsoft Azure lub Microsoft Dynamics CRM.
 
    Jeśli nie masz konta służbowego, wybierz pozycję **Utwórz je** , aby skonfigurować je teraz. Po utworzeniu konta służbowego Zaloguj się przy użyciu poświadczeń administratora globalnego dla nowego konta.
 
-4. Przejrzyj informacje dotyczące sposobu kojarzenia identyfikatora Microsoft Partner Network (identyfikator MPN) z nowym kontem Centrum partnerskiego. Musimy połączyć identyfikator MPN firmy z nowym kontem Centrum partnerskiego, aby można było zarządzać korzyściami z członkostwa i zachętami w centrum partnerskim. Wybierz pozycję **Zaloguj się** .
+4. Przejrzyj informacje dotyczące sposobu kojarzenia identyfikatora Microsoft Partner Network (identyfikator MPN) z nowym kontem Centrum partnerskiego. Musimy połączyć identyfikator MPN firmy z nowym kontem Centrum partnerskiego, aby można było zarządzać korzyściami z członkostwa i zachętami w centrum partnerskim. Wybierz pozycję **Zaloguj się**.
 
-5. Wprowadź nazwę użytkownika, którego używasz do logowania się w witrynie Centrum członkostwa partnera (PMC). W witrynie Centrum członkostwa w partnerze jest aktualnie zarządzane konto partnerskie firmy Microsoft. Zalogowanie się do centrum członkostwa w partnerze umożliwia nam pobranie identyfikatora MPN i skojarzenie go z nowym kontem Centrum partnerskiego. Wybierz pozycję **Dalej** .
+5. Wprowadź nazwę użytkownika, którego używasz do logowania się w witrynie Centrum członkostwa partnera (PMC). W witrynie Centrum członkostwa w partnerze jest aktualnie zarządzane konto partnerskie firmy Microsoft. Zalogowanie się do centrum członkostwa w partnerze umożliwia nam pobranie identyfikatora MPN i skojarzenie go z nowym kontem Centrum partnerskiego. Wybierz pozycję **Dalej**.
 
-6. Wprowadź hasło do konta Centrum członkostwa w partnerze, a następnie wybierz pozycję **Zaloguj się** .
+6. Wprowadź hasło do konta Centrum członkostwa w partnerze, a następnie wybierz pozycję **Zaloguj się**.
 
-7. Wybierz profil firmy z IDENTYFIKATORem MPN połączonym z bodźcami, korzyściami z członkostwa i kompetencjami. Następnie możemy przenieść te informacje na konto Centrum partnerskiego. Wybierz opcję **Kontynuuj** .
+7. Wybierz profil firmy z IDENTYFIKATORem MPN połączonym z bodźcami, korzyściami z członkostwa i kompetencjami. Następnie możemy przenieść te informacje na konto Centrum partnerskiego. Wybierz opcję **Kontynuuj**.
 
    Jeśli identyfikator MPN, którego chcesz użyć, nie znajduje się na tej stronie, wybierz pozycję **Anuluj** i zaloguj się ponownie przy użyciu nazwy użytkownika i hasła dla profilu firmy, którego chcesz użyć.
 
    > [!IMPORTANT]  
    > Wybierz identyfikator MPN skojarzony z aktywnym profilem firmy, który znajduje się w tym samym kraju/regionie co dzierżawa usługi Azure AD.
 
-8. Podaj lub zaktualizuj firmowy profil firmy, podstawowe informacje kontaktowe i informacje o pomocy technicznej klienta. Wybierz pozycję **zarejestruj się teraz** .
+8. Podaj lub zaktualizuj firmowy profil firmy, podstawowe informacje kontaktowe i informacje o pomocy technicznej klienta. Wybierz pozycję **zarejestruj się teraz**.
 
    Główną osobą kontaktową powinna być osoba w firmie, która będzie mogła skontaktować się z Twoją aplikacją. Główną osobą kontaktową może być ty lub inna osoba w firmie. Uwaga: nie akceptujemy adresów e-mail z usług poczty e-mail opartych na sieci Web, takich jak Gmail, Yahoo! Poczta, poczta w usłudze iCloud, Poczta AOL lub poczta w programie Outlook.
 
@@ -98,9 +96,9 @@ Od października 2020 wszyscy partnerzy firmy Microsoft nowi dostawcy usług kry
 
 9. Jeśli Twoje konto Centrum partnerskiego jest gotowe do użycia, sprawdź, czy zostało ono dodane do grupy agentów administracyjnych. Aby zakończyć konfigurowanie konta, w tym dodawanie innych użytkowników, musisz mieć uprawnienia agenta administratora. Wykonaj następujące kroki, aby wyświetlić lub zaktualizować swoje uprawnienia:
 
-   1. W **centrum partnerskim** wybierz ikonę **Ustawienia** , a następnie wybierz pozycję **Zarządzanie użytkownikami** .
+   1. W **centrum partnerskim** wybierz ikonę **Ustawienia** , a następnie wybierz pozycję **Zarządzanie użytkownikami**.
 
-   2. Wybierz swoją nazwę z listy użytkowników. Następnie wybierz pozycję **Agent administracyjny** , jeśli nie została jeszcze wybrana. Wybierz pozycję **Aktualizuj** .
+   2. Wybierz swoją nazwę z listy użytkowników. Następnie wybierz pozycję **Agent administracyjny** , jeśli nie została jeszcze wybrana. Wybierz pozycję **Aktualizuj**.
 
 ## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Wszyscy pośrednicy odsprzedawca muszą podpisać umowę Microsoft Partner Agreement
 
@@ -125,7 +123,7 @@ Jeśli Dostawca pośredni chce połączyć się z nim w centrum partnerskim, zos
 
 2. Aby zaakceptować zaproszenie, Użyj linku w wiadomości e-mail dostawcy. Może być konieczne ponowne zalogowanie się do Centrum partnerskiego.
 
-3. Aby potwierdzić partnerstwo z dostawcą, zaznacz to pole wyboru, a następnie wybierz pozycję **Autoryzuj dostawcę pośredniego** . Dostawca jest teraz wymieniony na stronie **dostawców pośrednich** , a firma zostanie wyświetlona na stronie **pośredniej odsprzedawcy** dostawcy.
+3. Aby potwierdzić partnerstwo z dostawcą, zaznacz to pole wyboru, a następnie wybierz pozycję **Autoryzuj dostawcę pośredniego**. Dostawca jest teraz wymieniony na stronie **dostawców pośrednich** , a firma zostanie wyświetlona na stronie **pośredniej odsprzedawcy** dostawcy.
 
    > [!NOTE]  
    > Po ustanowieniu partnerstwa z dostawcą pośrednim użytkownik jest uprawniony do przesyłania zamówień i dodawania subskrypcji w imieniu klientów, a użytkownik otrzymuje dostęp administratora do konta służbowego firmy. Po nawiązaniu powiązania z dostawcą można usunąć dostęp administratora dostawcy do swojego konta służbowego w portalu pakietu Office 365.
@@ -146,9 +144,9 @@ Jeśli Dostawca pośredni chce połączyć się z nim w centrum partnerskim, zos
 
 - [Zarządzanie kontem w portalu Partner Center](partner-center-account-setup.md)
 
-- [Nawiązywanie połączenia z klientami](connect-with-your-customers.md)
+- [Nawiązywanie relacji z klientami](connect-with-your-customers.md)
 
-- [Utwórz profil biznesowy](create-a-marketing-profile.md)
+- [Tworzenie profilu biznesowego](create-a-marketing-profile.md)
 
 - [Dowiedz się więcej na temat procesu weryfikacji](verification-responses.md)
  

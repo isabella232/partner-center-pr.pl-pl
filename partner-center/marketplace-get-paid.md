@@ -1,23 +1,28 @@
 ---
-title: Uzyskiwanie zapłaty na komercyjnej platformie handlowej
-description: Dowiedz się więcej o otrzymywaniu płatności za zyski w komercyjnym portalu Marketplace — Azure Marketplace. Obejmuje zasady wypłat, wypłaty i wypłaty.
+title: Uzyskiwanie płatności w centrum partnerskim
+description: Dowiedz się więcej o otrzymywaniu płatności za zyski jako partner firmy Microsoft, na przykład za pomocą ofert komercyjnych, programów zachęt i programu Cloud Solution Provider. Obejmuje zasady wypłat, wypłaty i wypłaty.
 ms.service: marketplace
 ms.topic: conceptual
-ms.date: 09/28/2020
+ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e998ae248b5b09340cb4a7b57c8fbd77b59731d4
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514728"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492453"
 ---
-# <a name="getting-paid-in-the-commercial-marketplace"></a>Uzyskiwanie zapłaty na komercyjnej platformie handlowej
+# <a name="getting-paid-in-partner-center"></a>Uzyskiwanie płatności w centrum partnerskim
+
+**Odpowiednie role:**
+
+- Administrator konta
+- Administrator globalny
 
 Ten artykuł zawiera ważne informacje dotyczące otrzymywania płatności za oferty, dodatki i dochody reklamowe. Zawiera podsumowanie zasad wypłaty, kroki wymagane przed uzyskaniem płatnych informacji oraz przegląd instrukcji wypłaty.
 
-## <a name="commercial-marketplace-payout-policies-and-agreements"></a>Komercyjne zasady i umowy płatnej witryny Marketplace
+## <a name="payout-policies-and-agreements"></a>Zasady wypłaty i umowy
 
 Po otrzymaniu płatności wymagane jest przestrzeganie zasad umów i wypłat.
 
@@ -49,4 +54,4 @@ W zestawieniu wypłaty przedstawiono zyski ze sprzedaży z ofert i dodatków w h
 ## <a name="next-steps"></a>Następne kroki
 
 - [Interfejs API wypłat partnerów](https://apidocs.microsoft.com/services/partnerpayouts)
-- [Wypłaty z witryny Marketplace — często zadawane pytania](payout-faq.md)
+- [Wypłaty — często zadawane pytania](payout-faq.md)
