@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: d8dac9e5d8720a39d6bf585a1f6cd9bd5c70465a
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926682"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514759"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Informacje o umowie partnerskiej firmy Microsoft (MPA) dla partnerów programu CSP
 
@@ -56,7 +56,7 @@ Aby nadal uczestniczyć w programie CSP, należy podpisać umowę Microsoft Part
 
 1. W obszarze **Ustawienia** wybierz pozycję [Profil partnera](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
 
-1. Sprawdź sekcję **Informacje o programie** . Jeśli informacja nie pokazuje stanu **pośredniego odsprzedawcy** , należy [zarejestrować się jako pośredni odsprzedawcy](https://partner.microsoft.com/cloud-solution-provider/whats-required).
+1. Sprawdź sekcję **Informacje o programie** . Jeśli informacja nie pokazuje stanu **pośredniego odsprzedawcy** , należy [zarejestrować się jako pośredni odsprzedawcy](indirect-reseller-tasks-in-partner-center.md).
 
 1. Jeśli  **pośredni stan odsprzedawcy** jest **aktywny** , jesteś aktywnym pośrednim odsprzedawcą w centrum partnerskim.
  

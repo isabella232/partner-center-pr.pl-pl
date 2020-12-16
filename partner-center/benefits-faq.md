@@ -1,7 +1,7 @@
 ---
 title: Często zadawane pytania dotyczące korzyści
 ms.topic: article
-ms.date: 09/08/2020
+ms.date: 12/15/2020
 description: Odpowiedzi na pytania dotyczące wygaśnięcia, odnawiania i aktywowania licencji dla platformy Azure, chmury, programu Visual Studio i korzyści technicznych i pomocy technicznej
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: f4ed4fe8946c6cacba1277921aececd84863c465
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570692"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514688"
 ---
 # <a name="benefits-faq"></a>Często zadawane pytania dotyczące korzyści
 
@@ -98,7 +98,7 @@ Subskrypcje można przypisywać do dowolnej osoby na liście zarządzania użytk
 Po przypisaniu subskrypcji Użytkownik musi zalogować się do programu Visual Studio w celu zarządzania nim.
 
 >[!Note]
-> Subskrypcje programu Visual Studio mogą być przypisywane ponownie z jednego subskrybenta do innego 90 dni od oryginalnego przypisania.
+> Subskrypcje programu Visual Studio mogą zostać ponownie przypisane z jednego abonenta do innego, jeśli 90 dni przebiegło od momentu oryginalnego przypisania.
 
 ## <a name="technical-benefits-and-support"></a>Korzyści techniczne i pomoc techniczna
 

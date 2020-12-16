@@ -1,7 +1,7 @@
 ---
 title: Współpraca z dostawcami pośrednimi w programie CSP
 ms.topic: how-to
-ms.date: 10/09/2020
+ms.date: 12/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, jak pośrednicy Odsprzedawcy mogą współdziałać z dostawcami pośrednimi firmy Microsoft (lub dystrybutorami), aby uzyskać pomoc dotyczącą obsługi klienta i
@@ -10,16 +10,14 @@ ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 082574f381186731cee023cfcdfa04b46d0ba1c5
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492402"
+ms.locfileid: "97514738"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Dowiedz się, jak współdziałać z dostawcami pośrednimi w programie dostawcy rozwiązań w chmurze
-
-
 
 **Odpowiednie role**
 
@@ -70,33 +68,22 @@ Od października 2020 wszyscy partnerzy firmy Microsoft nowi dostawcy usług kry
 
 2. Przejrzyj **stronę powitalną** , aby upewnić się, że masz informacje potrzebne do rejestracji, a następnie wybierz pozycję **dalej**.
 
-3. Zaloguj się przy użyciu konta służbowego. Wybierz pozycję **Zaloguj** , a następnie wprowadź nazwę użytkownika i hasło, których używasz do logowania się jako Administrator globalny dla pakietu Office 365, Microsoft Azure lub Microsoft Dynamics CRM.
+3. Zaloguj się przy użyciu konta służbowego — nazwę użytkownika i hasło, których używasz do logowania się jako Administrator globalny dla pakietu Office 365, Microsoft Azure lub Microsoft Dynamics CRM. Jeśli nie masz konta służbowego, wybierz pozycję **Utwórz je** , aby skonfigurować je teraz. Po utworzeniu konta służbowego Zaloguj się przy użyciu poświadczeń administratora globalnego dla nowego konta.
 
-   Jeśli nie masz konta służbowego, wybierz pozycję **Utwórz je** , aby skonfigurować je teraz. Po utworzeniu konta służbowego Zaloguj się przy użyciu poświadczeń administratora globalnego dla nowego konta.
-
-4. Przejrzyj informacje dotyczące sposobu kojarzenia identyfikatora Microsoft Partner Network (identyfikator MPN) z nowym kontem Centrum partnerskiego. Musimy połączyć identyfikator MPN firmy z nowym kontem Centrum partnerskiego, aby można było zarządzać korzyściami z członkostwa i zachętami w centrum partnerskim. Wybierz pozycję **Zaloguj się**.
-
-5. Wprowadź nazwę użytkownika, którego używasz do logowania się w witrynie Centrum członkostwa partnera (PMC). W witrynie Centrum członkostwa w partnerze jest aktualnie zarządzane konto partnerskie firmy Microsoft. Zalogowanie się do centrum członkostwa w partnerze umożliwia nam pobranie identyfikatora MPN i skojarzenie go z nowym kontem Centrum partnerskiego. Wybierz pozycję **Dalej**.
-
-6. Wprowadź hasło do konta Centrum członkostwa w partnerze, a następnie wybierz pozycję **Zaloguj się**.
-
-7. Wybierz profil firmy z IDENTYFIKATORem MPN połączonym z bodźcami, korzyściami z członkostwa i kompetencjami. Następnie możemy przenieść te informacje na konto Centrum partnerskiego. Wybierz opcję **Kontynuuj**.
-
-   Jeśli identyfikator MPN, którego chcesz użyć, nie znajduje się na tej stronie, wybierz pozycję **Anuluj** i zaloguj się ponownie przy użyciu nazwy użytkownika i hasła dla profilu firmy, którego chcesz użyć.
 
    > [!IMPORTANT]  
    > Wybierz identyfikator MPN skojarzony z aktywnym profilem firmy, który znajduje się w tym samym kraju/regionie co dzierżawa usługi Azure AD.
 
-8. Podaj lub zaktualizuj firmowy profil firmy, podstawowe informacje kontaktowe i informacje o pomocy technicznej klienta. Wybierz pozycję **zarejestruj się teraz**.
+4. Podaj lub zaktualizuj firmowy profil firmy, podstawowe informacje kontaktowe i informacje o pomocy technicznej klienta. (Aby znaleźć informacje prawne dotyczące firmy, wybierz pozycję **profil organizacji** , a następnie wybierz pozycję **Informacje prawne**). Wybierz pozycję **zarejestruj się teraz**.
 
-   Główną osobą kontaktową powinna być osoba w firmie, która będzie mogła skontaktować się z Twoją aplikacją. Główną osobą kontaktową może być ty lub inna osoba w firmie. Uwaga: nie akceptujemy adresów e-mail z usług poczty e-mail opartych na sieci Web, takich jak Gmail, Yahoo! Poczta, poczta w usłudze iCloud, Poczta AOL lub poczta w programie Outlook.
+   Główną osobą kontaktową jest osoba w firmie, która może skontaktować się z Twoją aplikacją. Może to być ty lub inna osoba w firmie. Uwaga: nie akceptujemy adresów e-mail z usług poczty e-mail opartych na sieci Web, takich jak Gmail, Yahoo! Poczta, poczta w usłudze iCloud, Poczta AOL lub poczta w programie Outlook.
 
    > [!IMPORTANT]  
    > Aby pomóc w zapewnieniu bezpieczeństwa i prywatności firmy, wyślemy wiadomość e-mail do głównej osoby kontaktowej w celu zweryfikowania, że (1) konto Centrum partnerskiego i (2) należy do firmy. Gdy kontakt podstawowy sprawdzi swój adres e-mail, będziemy kontynuować przegląd dostarczonych informacji. Wyślemy do Ciebie wiadomość e-mail z aktualizacją stanu rejestracji do głównej osoby kontaktowej.
 
-9. Jeśli Twoje konto Centrum partnerskiego jest gotowe do użycia, sprawdź, czy zostało ono dodane do grupy agentów administracyjnych. Aby zakończyć konfigurowanie konta, w tym dodawanie innych użytkowników, musisz mieć uprawnienia agenta administratora. Wykonaj następujące kroki, aby wyświetlić lub zaktualizować swoje uprawnienia:
+5. Jeśli Twoje konto Centrum partnerskiego jest gotowe do użycia, sprawdź, czy zostało ono dodane do grupy agentów administracyjnych. Aby zakończyć konfigurowanie konta, w tym dodawanie innych użytkowników, musisz mieć uprawnienia agenta administratora. Wykonaj następujące kroki, aby wyświetlić lub zaktualizować swoje uprawnienia:
 
-   1. W **centrum partnerskim** wybierz ikonę **Ustawienia** , a następnie wybierz pozycję **Zarządzanie użytkownikami**.
+   1. Na pulpicie nawigacyjnym Centrum partnerskiego wybierz ikonę **Ustawienia** , a następnie w obszarze **Ustawienia konta** wybierz pozycję **Zarządzanie użytkownikami**.
 
    2. Wybierz swoją nazwę z listy użytkowników. Następnie wybierz pozycję **Agent administracyjny** , jeśli nie została jeszcze wybrana. Wybierz pozycję **Aktualizuj**.
 
@@ -136,6 +123,10 @@ Jeśli Dostawca pośredni chce połączyć się z nim w centrum partnerskim, zos
 
    > [!IMPORTANT]  
    > Dostawca pośredni musi mieć relację odsprzedawcy ze swoimi klientami w celu przesłania zamówień w ich imieniu.
+
+## <a name="your-csp-country-and-the-csp-regions-where-you-do-business"></a>Kraj i regiony dostawcy usług kryptograficznych, w których prowadzone są firmy
+
+Twoja służbowa lokalizacja firmy jako odsprzedawca pośredni dostawcy usług kryptograficznych określa dostawców pośrednich, których można używać, oraz regionów, w których można wykonywać działania w ramach programu CSP. Dowiedz się więcej, odczytując [regionalne rynki i waluty programu Cloud Solution Provider](regional-authorization-overview.md).
 
 
 ## <a name="next-steps"></a>Następne kroki
