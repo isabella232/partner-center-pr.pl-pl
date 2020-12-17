@@ -1,7 +1,7 @@
 ---
 title: Kwota uzyskana przez partnera w przypadku usług zarządzanych
 ms.topic: article
-ms.date: 11/30/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, w jaki sposób środki na korzystanie z usługi zarządzanej przez partnerów firmy Microsoft są obliczane i płatne oraz jak zapewnić, że masz odpowiednie uprawnienia.
@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 97af446c4021e9785833374131eee2f08431b5fe
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 3acc078b3de3c0443ee64fdaaba2d486d9c466c8
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474312"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622171"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Jak są obliczane i wypłacane środki zarobione przez partnera
 
@@ -30,27 +30,29 @@ ms.locfileid: "96474312"
 
 Przeczytaj również temat [przywracanie uprawnień administratora dla subskrypcji CSP platformy Azure](revoke-reinstate-csp.md)
 
-## <a name="important-eligibility-and-calculation-information"></a>Ważne informacje dotyczące uprawnień i obliczeń
+## <a name="eligibility"></a>Kryteria
 
-- Partner powinien mieć aktywną umowę MPN i ważną rolę RBAC, aby otrzymać środki na korzystanie z zasobów platformy Azure, którymi zarządzają. 
+Aby otrzymać środki na korzystanie z partnerów (PEC), mają zastosowanie następujące wymagania: 
 
-- W przypadku dostawców pośrednich i ich pośrednich odsprzedawców Dostawca pośredni będzie uprawniony do PEC, jeśli dostawca pośredni lub pośredni odsprzedawca lub obie osoby 24x7 kontrolę operacyjną i zarządza zasobami platformy Azure klienta w dostawcy usług kryptograficznych.
+- Użytkownik musi mieć aktywną umowę MPN oraz ważną rolę kontroli dostępu opartej na rolach (RBAC), aby uzyskać dostęp do dochodów z zasobów platformy Azure, którymi zarządzasz.
 
-- Komputer PEC jest skojarzony z naliczaniem (odpłatnym) użyciem wartości platformy Azure klienta w programie CSP zarządzanym przez partnera. Komputer PEC jest dostępny tylko dla partnerów w dostawcy CSP rozliczanych przez firmę Microsoft (Dostawca pośredni i bezpośredni partner Bill). 
+- Musisz mieć 24x7ą kontrolę operacyjną i zarządzanie zasobami platformy Azure klienta w dostawcy usług kryptograficznych. Oznacza to, że użytkownik musi mieć uprawnienia administratora do subskrypcji platformy Azure klienta, grupy zasobów platformy Azure, zasobu platformy Azure. W przypadku dostawców pośrednich i ich pośrednich odsprzedawców Dostawca pośredni będzie uprawniony do PEC, jeśli dostawca pośredni lub pośredni odsprzedawca lub oba mają tę kontrolę operacyjną. Aby dowiedzieć się więcej na ten temat, zobacz [przywracanie uprawnień administratora dla subskrypcji CSP platformy Azure](https://docs.microsoft.com/partner-center/revoke-reinstate-csp).
 
-- Kwalifikujące się usługi: środki na korzystanie z partnerów mają zastosowanie do usług wymienionych w **cenniku zużycia planu platformy Azure** , które partnerzy mogą eksportować ze strony [cen planu platformy Azure](https://partner.microsoft.com/commerce/sales) . 
+- Oprócz powyższych wymagań, PEC ma zastosowanie tylko do usług wymienionych w cenniku zużycia planu platformy Azure, które można eksportować ze strony [cennika planu platformy Azure](https://partner.microsoft.com/commerce/sales) .
 
-- Niekwalifikujące się usługi: kredyt uzyskany przez partnera *_nie_* ma zastosowania do następujących:
+- PEC **nie** ma zastosowania do następujących usług:
     - Rezerwacje planu platformy Azure
-    - Produkty innych firm zidentyfikowane jako _ *trzecich** w **kolumnie Tagi** ceny zużycia planu platformy Azure    
+    - Produkty innych firm identyfikowane jako osoby trzecie w kolumnie znaczniki w cenie zużycia planu platformy Azure
     - Produkty z cennika portalu Marketplace
-   - [Virtual Machines na platformie Azure](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
+    - [Virtual Machines na platformie Azure](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
 
-- Wartość PEC jest obliczana codziennie i można ją wyświetlić w pliku dziennego użycia i w pliku Rekonesans faktury miesięcznej. Partner (Dostawca pośredni lub pośredni odsprzedawca) musi mieć dostęp przez cały dzień (24x7), aby upewnić się, że uzyskują PEC. Wartość PEC jest obliczana codziennie na zarządzanych zasobach platformy Azure. Maksymalny PEC dla danego okresu rozliczeniowego (miesiąc) wynosi 15%. Partnerzy utrzymujący trwały dostęp uprzywilejowany przez miesiąc (zakres dostępu) i dla wszystkich kwalifikujących się zasobów (zakres dostępu) uzyskują pełny PEC 15%. Obniżka zakresów i zakresów spowoduje obniżenie stawki PEC przez miesiąc. Dzienny, oceniany plik użycia jest codziennie wyświetlany na podstawie zasobu platformy Azure, niezależnie od tego, czy jest stosowany PEC. Partnerzy mogą także rejestrować się w alertach, aby wykryć, czy istnieją zmiany w trwałym dostępie uprzywilejowanym.
+- PEC jest uzyskiwany do poziomu zasobów platformy Azure. Jeśli masz prawidłowy dostęp na poziomie subskrypcji lub grupy zasobów, każdy zasób, który jest rzutowany do wyższej jednostki, będzie miał wartość PEC.
 
-- PEC jest uzyskiwany do poziomu zasobów platformy Azure. Jeśli partner ma prawidłowy dostęp na poziomie subskrypcji lub grupy zasobów, każdy zasób, który ma role do wyższego poziomu, uzyska PEC.  
+- Szczegóły dotyczące komputera PEC są również dostępne na stronie [Azure Cost Management](https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners) .
 
-- Szczegóły PEC również będą dostępne w [usłudze Azure Cost Management](/azure/cost-management-billing/costs/get-started-partners)
+### <a name="calculation"></a>Obliczenia
+
+Wartość PEC jest obliczana codziennie i można ją wyświetlić w pliku dziennego użycia i w pliku Rekonesans faktury miesięcznej. Partner (Dostawca pośredni lub pośredni odsprzedawca) musi mieć dostęp przez cały dzień (24x7), aby upewnić się, że uzyskują PEC. Wartość PEC jest obliczana codziennie na zarządzanych zasobach platformy Azure. Maksymalny PEC dla danego okresu rozliczeniowego (miesiąc) wynosi 15%. Partnerzy utrzymujący trwały dostęp uprzywilejowany przez miesiąc (zakres dostępu) i dla wszystkich kwalifikujących się zasobów (zakres dostępu) uzyskują pełny PEC 15%. Obniżka zakresów i zakresów spowoduje obniżenie stawki PEC przez miesiąc. Dzienny, oceniany plik użycia jest codziennie wyświetlany na podstawie zasobu platformy Azure, niezależnie od tego, czy jest on stosowany. Partnerzy mogą także rejestrować się w alertach, aby monitorować zmiany trwałego uprzywilejowanego dostępu.
 
 ## <a name="azure-cost-management"></a>Azure Cost Management
 
@@ -66,10 +68,10 @@ Azure Cost Management (ACM) przy użyciu analizy kosztów umożliwia partnerom w
 
 4. Wybierz pozycję **PartnerEarnedCreditApplied** na liście rozwijanej na wykresie przestawnym, aby zobaczyć koszty, do których zastosowano Pec. Gdy właściwość **PartnerEarnedCreditApplied** ma wartość true, skojarzony koszt ma korzyść dla partnera. 
 
-Gdy właściwość PartnerEarnedCreditApplied ma wartość false, skojarzony koszt nie spełnia wymagań wymaganych do kredytowania lub zakupionej usługi nie kwalifikuje się do uzyskania kredytu za partnerów.
+   Gdy właściwość PartnerEarnedCreditApplied ma wartość false, skojarzony koszt nie spełnia wymagań wymaganych do kredytowania lub zakupionej usługi nie kwalifikuje się do uzyskania kredytu za partnerów.
 
->[!NOTE] 
->Zazwyczaj użycie usług trwa 8-24 godzin w **Cost Management** , a kredyty dla PEC będą wyświetlane w ciągu 48 godzin od momentu uzyskania dostępu w Azure Cost Management.
+   >[!NOTE] 
+   >Zazwyczaj użycie usług trwa 8-24 godzin w **Cost Management** , a kredyty dla PEC będą wyświetlane w ciągu 48 godzin od momentu uzyskania dostępu w Azure Cost Management.
 
 5. Możesz również grupować według i filtrować według właściwości **PartnerEarnedCreditApplied** za pomocą polecenia **Grupuj według oraz dodać** funkcje filtru, aby przejść do szczegółów kosztów mających wartość PEC i koszty, które nie mają zastosowania Pec.
 

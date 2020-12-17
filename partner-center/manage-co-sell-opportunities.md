@@ -1,7 +1,7 @@
 ---
 title: Zarządzanie możliwościami wspólnej sprzedaży
 ms.topic: article
-ms.date: 06/02/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Jako uprawniony partner firmy Microsoft możesz współsprzedawać z firmą Microsoft. Dowiedz się, jak definiować oferty, zapraszać firmę Microsoft do współpracy lub wyświetlać wysłane oferty.
@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61dab9f869d8bb9a26f1317fb1aec3013e915465
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 52a1ac20b0370e1dd4a1de85087303090c1b7eb4
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417272"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622205"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Zarządzaj szansami do sprzedaży w centrum partnerskim
 
@@ -44,13 +44,19 @@ Skorzystaj z możliwości wspólnej sprzedaży.  Możliwości wspólnej sprzeda�
 
 ## <a name="navigating-the-co-sell-section"></a>Nawigowanie w sekcji "co do lewej"
 
-Poniżej znajduje się trzy karty najwyższego poziomu.
+Aby uzyskać dostęp do sekcji wspólna sprzedaż, wykonaj następujące kroki:
 
-**Przychodzące** — na tej karcie są dostępne wszystkie szanse, które są wysyłane do partnera ze strony sprzedawcy firmy Microsoft na potrzeby sprzedaży wspólnie.
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
 
-**Wychodzące** — wszystkie szanse sprzedaży utworzone przez partnera są dostępne na tej karcie. Partnerzy mogą tworzyć trzy różne kategorie szans sprzedaży — współsprzedawanych, prywatnych i partnerów partnerskich.
+2. W menu nawigacji po lewej stronie wybierz pozycję **odwołania**, a następnie opcję **współsprzedaży**.
 
-**Ulubione** — szansy sprzedaży oznaczone jako Ulubione na kartach z możliwością przychodzącego lub wychodzącego współsprzedaży zostaną wyświetlone na tej karcie. Oznacz dowolną szansę jako ulubioną, klikając ikonę serca w obszarze szansa sprzedaży w widoku listy. Możesz usunąć szansę z ulubionych, klikając ponownie tę samą ikonę.
+   Zobaczysz trzy karty najwyższego poziomu w tej sekcji:
+
+   - **Przychodzące** — na tej karcie są dostępne wszystkie szanse, które są wysyłane do partnera ze strony sprzedawcy firmy Microsoft na potrzeby sprzedaży wspólnie.
+
+   - **Wychodzące** — wszystkie szanse sprzedaży utworzone przez partnera są dostępne na tej karcie. Partnerzy mogą tworzyć trzy różne kategorie szans sprzedaży — współsprzedawanych, prywatnych i partnerów partnerskich.
+
+   - **Ulubione** — szansy sprzedaży oznaczone jako Ulubione na kartach z możliwością przychodzącego lub wychodzącego współsprzedaży zostaną wyświetlone na tej karcie. Oznacz dowolną szansę jako ulubioną, klikając ikonę serca w obszarze szansa sprzedaży w widoku listy. Możesz usunąć szansę z ulubionych, klikając ponownie tę samą ikonę.
 
 ## <a name="creating-a-co-sell-opportunity"></a>Tworzenie możliwości współsprzedaży
 
@@ -199,7 +205,7 @@ W poniższej tabeli przedstawiono kombinacje osób, które mogą być zapraszane
 
 |**Pierwotny typ transakcji**|**Kto może zostać zaproszony**|**Uwagi**|
 |-----|:-----|:-----|
-|Prywatne|Firma Microsoft i/lub inni partnerzy|Transakcja zostanie uaktualniona do wersji dostosowanej w przypadku zaproszenia do firmy Microsoft.|
+|Prywatny|Firma Microsoft i/lub inni partnerzy|Transakcja zostanie uaktualniona do wersji dostosowanej w przypadku zaproszenia do firmy Microsoft.|
 |Sprzedawanie|Inni partnerzy|Inni partnerzy mogą być zapraszani tylko wtedy, gdy firma zainicjowała transokazję. Partnerzy nie mogą być zapraszani do obsługi transakcji na karcie przychodzące.|
 |Partner partner bez firmy Microsoft|Microsoft|Transakcja zostanie uaktualniona do rozdzielenia transakcji.|
 |Partner partner bez firmy Microsoft|Inni partnerzy||

@@ -9,18 +9,72 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/02/2020
-ms.openlocfilehash: 1341e60fd9914f421fd59335a8f037f3d915b72f
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: 841ef4701ef7c973cc7a4fffaa26bb24b8d6f7e9
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869303"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622154"
 ---
 # <a name="december-2020-announcements"></a>Ogłoszenia z grudnia 2020 r.
 
 Na tej stronie znajdują się szczegółowe informacje o anonsach programu Microsoft Partner Center dla listopada 2020.
 
-2020 anonse: od [kwietnia](2020-april.md)do  |  [May](2020-may.md)  |  [czerwca](2020-june.md),  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [wrzesień](2020-september.md),  |  [październik](2020-October.md)  |  [listopad](2020-november.md) | Grudzień
+2020 anonse: od [kwietnia](2020-april.md)do  |  [](2020-may.md)  |  [czerwca](2020-june.md),  |  [](2020-july.md)  |  [](2020-august.md)  |  [wrzesień](2020-september.md),  |  [październik](2020-October.md)  |  [listopad](2020-november.md) | Grudzień
+
+______________
+
+## <a name="power-apps-promo-offer-now-available"></a><a name="5"></a>Oferta promocyjna dla aplikacji zaawansowanych jest teraz dostępna
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2020-12-16
+- Oferty/rynki
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Wszyscy partnerzy przeprowadzają Operacje transakcyjne przez program Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Szczegóły
+
+Oferta promocyjna aplikacji dla usługi PowerShell początkowo zaplanowana z dniem 1 grudnia została nieco opóźniona. Oferta powinna być dostępna 16 grudnia 2020. Ta oferta jest dostępna po obniżonej cenie i ma inną istotną różnicę od typowych ofert w centrum partnerskim.
+ 
+**Szczegóły oferty**
+
+- Oferta będzie dostępna do zakupu do 30 czerwca 2021.
+- Oferta to 12-miesięczny termin w obniżonej cenie, taki jak inne oferty CSP.
+- Ta oferta nie zostanie autoodnowiona i wygaśnie po upływie 12-miesięcznego okresu. Początkowo Właściwość autorenew zostanie ustawiona na **wartość true** , ale zostanie ona zmieniona, aby oferta wygaśnie po upływie 12-miesięcznego okresu oferty.
+- Aby nadal korzystać z usług świadczonych przez początkową ofertę promocyjną, partnerzy będą musieli zakupić oferowaną w ramach oferty (identyfikator oferty: 5e1087b6-246B-4503-b88a-b60bdf0b3840) jeszcze przed upływem 12 miesięcy.
+
+**Szczegóły cennika**
+
+Szczegóły cennika oferty poniżej dotyczące tej oferty będą znajdować się na liście cen z stycznia 2021.
+
+- Nazwa wyświetlana oferty: aplikacje zaawansowane na promocję planu aplikacji (200 w minimalnym miejscu)
+- Identyfikator oferty: 988b7b06-e034-4b3e-89ea-51198cb2723e
+- Typ umowy licencyjnej: firmowe
+- Jednostka zakupu: 1 miesiąc
+- Dodatkowy typ licencji: nieokreślony
+- Cennik: Cennik można pobrać z [tej lokalizacji](https://partnercenter.microsoft.com/pc/api/cms/rtdownload?id=sales/RE4Lr1n). Uwaga: aby pobrać ceny, należy zalogować się do Centrum partnerskiego. Jeśli użytkownik nie jest zalogowany w centrum partnerskim, zostanie wyświetlony komunikat o błędzie **nieautoryzowany stan** .
+- Cena usługi ERP: nie jest jeszcze dostępna, poszukaj usługi ERP tej oferty na następnej stronie z aktualizacją z ceną z lutego na 1/1/2021
+- Identyfikator materiału: SEQ-00016
+ 
+**Szczegóły oferty**
+
+Szczegóły oferty poniżej dla tej oferty będą znajdować się w macierzy z listą ofert z stycznia 2021.
+
+- Identyfikator aprowizacji: POWERAPPS_PER_APP
+- Czas trwania: 1 rok
+- Częstotliwość rozliczeń: miesięcznie; Rocznie
+- Minimalna liczba stanowisk: 200
+- Maksymalna liczba stanowisk: 10000000
+- Limit oferty: brak
+- Dozwolone kraje: odległe wyspy USA; Angielski (Francuskie Terytoria Południowe); Wyspa Bouvet; Brytyjskie Terytorium Oceanu Indyjskiego; Jemen Wysłuchane i MC wyspy Donald; Wallis i Futuna; Vanuatu Antarktyda Tuwalu Somalia Tokelau; Sierra Leone; Suazi Święta Helena, Wyspa Wniebowstąpienia, Tristan da Cunha; Wyspy Świętego Tomasza i Książęca; Wyspy Pitcairn; Palau Wyspy Salomona; Nauru Niue; Wyspa Norfolk; Mauretanii Mariany Północne; Lesotho Kiribati Gwinea Równikowa; Gwinea Bissau; Wyspy Cooka; Erytrea Wyspa Bożego Narodzenia; Burkina Faso; Republika Środkowoafrykańska; Kosowie Wyspy Kokosowe (Keelinga); Svalbard i Jan Mayen; Wyspy Åland; Sudan południowy; Georgia Południowa i Sandwich Południowy; Zachodniego Saint Barthélemy; Brytyjskie Wyspy Dziewicze; Saint-Pierre i Miquelon; Czad Niger Montserrat Gujany Haiti Przybrzeżn Guam Gwinei Gabon Grenada Gibraltar Guernsey Liberii Mikronezja Falklandy; Dominika; Dżibuti; Konga Kongo (DRK); Zimbabwe Samoa Amerykańskie; Zambia Republika Południowej Afryki; Majotta Wietnamu Saint Vincent i Grenadyny; Wyspy Dziewicze Stanów Zjednoczonych; Wenezuela Watykan (Watykan); Ukrainy Uganda Uzbekistan Stany Zjednoczone; Noszą Tanzania Tajwanie Trynidad i Tobago; Turcji Tunezja Tonga Timor-Wschodni; Turkmenistan Tadżykistan Tajlandii Togo Salwador; Sint Maarten; Wyspy Turks i Caicos; Surinam Singapurze Słowenią San Marino; Senegalu Słowacją Szwecja Seszele Arabia Saudyjska; Serbia Rwanda Terytorium Rumunia Reunion Katar Paragwaj Portugalia Filipiny Terytorium Palestyńska, zajęte; Polsce Portoryko; Uważa Peru Panama Papua Nowa Gwinea; Polinezja Francuska; Nowa Zelandia; Oman; Nepal Królestw Norwegia Niger Nikaragui Nowa Kaledonia; Namibia Mozambik Malezją Meksyku Martynika Malawi Malediw Mauritius Malta Mjanma Makau SAR; Mongolia Mali Madagaskar Wyspy Marshalla; Macedonia, BJR; Czarnogórze Saint-Martin; Marokański Monako Mołdawia Łotwa Libijski Luksemburg Liban Saint Lucia; Litwą Sri Lanka; Kajmany; Lichtenstein Laos Kazachstan Kuwejt Ludow Komory Kambodżą Saint Kitts i Nevis; Kenia Kirgistan Języku Jordania Jamajki Jersey; Włochy; Islandia; Irak; Irlandia; Indie; Indonezja; Wyspa Man; Honduras; Izrael; Republiką Hongkong SAR; Chorwacji Gwatemali Grecki Gwadelupa Gujana Francuska; Objęt Ghany Wyspy Owcze; Zjednoczone Królestwo; Georgia Francji Fidżi Etiopia Finlandia Hiszpania Egipcie Estońskiej Ekwador; Dominikana; - Niemcy; dania; Cypr Czechy; Curaçao; Wyspa Zielonego Przylądka; Kostaryka; Chile Kamerun Kolumbia Wybrzeże Kości Słoniowej; – Szwajcarię Belize Białoruś Botswanie Bhutan Bahamy Bonaire, Sint Eustatius i Saba; Brazylia Benin Brunei Bermudy Boliwia Belgijsk Bułgarię Bahrajnu Burundi Bośnia i Hercegowina; Bangladesz Barbados Azerbejdżanu Aruba Australijski Argentyną Austrię Angoli Armenia Afganistan Albanii Anguilla Andora Zjednoczone Emiraty Arabskie; Antigua i Barbuda
+
+### <a name="next-steps"></a>Następne kroki
+
+- Oferta promocyjna będzie dostępna na podstawie 1 stycznia 2021 oficjalnej licencji dostawcy CSP Centrum partnerskiego — Cennik podstawowy i Cennik listy oferty. 
+- Pytania lub zapoznaj się z tym podwyższeniem poziomu można opublikować w [ogłoszeniu społeczności firmy Microsoft](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540).
 
 ______________
 
@@ -37,7 +91,7 @@ Bezpośredni partnerzy rozliczeń i dostawcy pośredniemu uczestniczący w progr
 
 ### <a name="details"></a>Szczegóły
 
-Od grudnia 08 2020 partnerzy mogą rozpocząć pobieranie wersji [MicrosoftPartnerCenter. NETSDK (Galeria NuGet | Microsoft. Store. PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3), wraz z zaktualizowanymi [przykładami](https://github.com/Microsoft/Partner-Center-DotNet-Samples)z zestawu SDK usługi Public Partner Center. Ta wersja obejmuje następujące aktualizacje:
+Od grudnia 08 2020 partnerzy mogą rozpocząć pobieranie wersji [MicrosoftPartnerCenter. NETSDK (Galeria NuGet | Microsoft. Store. PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3), wraz z zaktualizowanymi [przykładami](https://github.com/Microsoft/Partner-Center-DotNet-Samples)z zestawu SDK usługi Public Partner Center. Ta wersja obejmuje aktualizacje następujących metod:
  
 **SelfServePolicies — dodano nowe funkcje**
 
@@ -83,7 +137,7 @@ Listy cen na podstawie licencji w grudniu i pliki macierzy list oferty zawieraj�
 
 #### <a name="incorrect-offers-in-the-license-based-price-list"></a>Nieprawidłowe oferty na liście cen na podstawie licencji
 
-Listy cen na podstawie licencji w grudniu zawierają poniższe oferty, które nie powinny znajdować się na listach cen. Oferty te zostały wcześniej uwzględnione na liście cen i nie powinny zostać opublikowane. Nie ma harmonogramu od momentu, w którym mogą być dostępne. W przyszłości, jeśli zostaną dodane z powrotem, zostaną one wyświetlone jako dodatki w przyszłych cennikach w wersji zapoznawczej.
+Listy cen na podstawie licencji w grudniu zawierają poniższe oferty, które nie powinny znajdować się na listach cen. Oferty te zostały wcześniej uwzględnione na liście cen i nie powinny zostać opublikowane. Nie ma harmonogramu od momentu, w którym oferty mogą być dostępne. W przyszłości, jeśli zostaną dodane z powrotem, zostaną one wyświetlone jako dodatki w przyszłych cennikach w wersji zapoznawczej.
 
    |**Nazwa oferty**|**Identyfikator oferty**|
    |-------------------|:------|
@@ -96,7 +150,7 @@ Listy cen na podstawie licencji w grudniu zawierają poniższe oferty, które ni
    
 #### <a name="incorrect-offers-in-the-offer-list-matrix"></a>Nieprawidłowe oferty w macierzy listy ofert
    
-Poniższe oferty znajdowały się w macierzy z listą ofert z błędem. Nie są one dostępne, a jeszcze nie wprowadzono daty docelowej dla dostępności. Partnerzy powinni je zignorować.
+Poniższe oferty znajdowały się w macierzy z listą ofert z błędem. Nie są one dostępne, a jeszcze nie wprowadzono daty docelowej dla dostępności. Partnerzy powinni ignorować te elementy wiersza.
 
    |**Nazwa oferty**|**Identyfikator oferty**|
    |-------------------|:------|
@@ -176,7 +230,7 @@ Partnerzy sprzedający oferty akademickie za pomocą programu Cloud Solution Pro
 
 ### <a name="summary"></a>Podsumowanie 
 
-Firma Microsoft uruchamia się na zaufaniu. Firma Microsoft dokłada starań, aby zapewnić zgodną, bezpieczną i bezpieczną metodę weryfikacji klienta dla ofert akademickich transakcji w programie dostawcy rozwiązań w chmurze. W ramach tego zobowiązania wprowadzamy udoskonalenia interfejsu API Centrum partnerskiego oraz usprawnienia interfejsów użytkownika, które będą dodawać przejrzystość i wgląd w proces przed sprawdzeniem klienta, a także możliwość wprowadzania dokładniejszych danych, które pozwolą na lepsze pomyślne przed sprawdzeniem klientów. 
+Firma Microsoft uruchamia się na zaufaniu. Firma Microsoft dokłada starań, aby zapewnić zgodną, bezpieczną i bezpieczną metodę weryfikacji klienta dla ofert akademickich transakcji w programie dostawcy rozwiązań w chmurze. W ramach tego zobowiązania wprowadzamy udoskonalenia interfejsu API Centrum partnerskiego oraz usprawnienia interfejsów użytkownika, które będą dodawać przejrzystość i wgląd w proces przed sprawdzeniem klienta, a także możliwość wprowadzania dokładniejszych danych, dzięki czemu można poprawić powodzenie przed sprawdzeniem klientów. 
 
 **Ulepszenia Centrum partnerskiego** 
 
