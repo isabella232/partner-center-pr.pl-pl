@@ -1,7 +1,7 @@
 ---
 title: Współpraca z dostawcami pośrednimi w programie CSP
 ms.topic: how-to
-ms.date: 12/11/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, jak pośrednicy Odsprzedawcy mogą współdziałać z dostawcami pośrednimi firmy Microsoft (lub dystrybutorami), aby uzyskać pomoc dotyczącą obsługi klienta i
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: c1929a68146c09beae16e5aabd96b1f192db3a31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514738"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636028"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Dowiedz się, jak współdziałać z dostawcami pośrednimi w programie dostawcy rozwiązań w chmurze
 
@@ -62,17 +62,14 @@ Od października 2020 wszyscy partnerzy firmy Microsoft nowi dostawcy usług kry
 
    Przeglądanie i weryfikowanie podanych informacji może zająć nam kilka dni. Po zakończeniu naszego przeglądu wyślemy wiadomość e-mail do Twojego podstawowego kontaktu.
 
-### <a name="get-started"></a>Rozpoczęcie pracy
+### <a name="get-started"></a>Wprowadzenie
 
 1. Aby rozpocząć proces rejestracji, przejdź na [**stronę powitalną**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) w celu zarejestrowania się.
 
 2. Przejrzyj **stronę powitalną** , aby upewnić się, że masz informacje potrzebne do rejestracji, a następnie wybierz pozycję **dalej**.
 
 3. Zaloguj się przy użyciu konta służbowego — nazwę użytkownika i hasło, których używasz do logowania się jako Administrator globalny dla pakietu Office 365, Microsoft Azure lub Microsoft Dynamics CRM. Jeśli nie masz konta służbowego, wybierz pozycję **Utwórz je** , aby skonfigurować je teraz. Po utworzeniu konta służbowego Zaloguj się przy użyciu poświadczeń administratora globalnego dla nowego konta.
-
-
-   > [!IMPORTANT]  
-   > Wybierz identyfikator MPN skojarzony z aktywnym profilem firmy, który znajduje się w tym samym kraju/regionie co dzierżawa usługi Azure AD.
+  
 
 4. Podaj lub zaktualizuj firmowy profil firmy, podstawowe informacje kontaktowe i informacje o pomocy technicznej klienta. (Aby znaleźć informacje prawne dotyczące firmy, wybierz pozycję **profil organizacji** , a następnie wybierz pozycję **Informacje prawne**). Wybierz pozycję **zarejestruj się teraz**.
 
@@ -81,7 +78,16 @@ Od października 2020 wszyscy partnerzy firmy Microsoft nowi dostawcy usług kry
    > [!IMPORTANT]  
    > Aby pomóc w zapewnieniu bezpieczeństwa i prywatności firmy, wyślemy wiadomość e-mail do głównej osoby kontaktowej w celu zweryfikowania, że (1) konto Centrum partnerskiego i (2) należy do firmy. Gdy kontakt podstawowy sprawdzi swój adres e-mail, będziemy kontynuować przegląd dostarczonych informacji. Wyślemy do Ciebie wiadomość e-mail z aktualizacją stanu rejestracji do głównej osoby kontaktowej.
 
-5. Jeśli Twoje konto Centrum partnerskiego jest gotowe do użycia, sprawdź, czy zostało ono dodane do grupy agentów administracyjnych. Aby zakończyć konfigurowanie konta, w tym dodawanie innych użytkowników, musisz mieć uprawnienia agenta administratora. Wykonaj następujące kroki, aby wyświetlić lub zaktualizować swoje uprawnienia:
+5. Skojarz swój identyfikator MPN z dzierżawcą usługi Azure ID.
+
+    1. Wybierz **identyfikatory** z **ustawień konta**.
+
+    1. W sekcji **CSP** Użyj linku **Aktualizuj** , aby zaktualizować identyfikator MPN skojarzony z Twoim kontem dostawcy CSP. 
+ 
+ > [!IMPORTANT]  
+   > Wybierz identyfikator MPN skojarzony z aktywnym profilem firmy, który znajduje się w tym samym kraju/regionie co dzierżawa usługi Azure AD.
+
+6. Jeśli Twoje konto Centrum partnerskiego jest gotowe do użycia, sprawdź, czy zostało ono dodane do grupy agentów administracyjnych. Aby zakończyć konfigurowanie konta, w tym dodawanie innych użytkowników, musisz mieć uprawnienia agenta administratora. Wykonaj następujące kroki, aby wyświetlić lub zaktualizować swoje uprawnienia:
 
    1. Na pulpicie nawigacyjnym Centrum partnerskiego wybierz ikonę **Ustawienia** , a następnie w obszarze **Ustawienia konta** wybierz pozycję **Zarządzanie użytkownikami**.
 

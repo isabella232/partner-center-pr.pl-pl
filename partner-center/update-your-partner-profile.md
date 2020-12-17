@@ -7,14 +7,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 11/23/2020
+ms.date: 12/16/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9b23fc887b754bf4eb1d703026a24e294952f4c
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 398e02e4d18df9e555a1576e845e1d0e0bdf1105
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514711"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636011"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Weryfikowanie informacji o profilu organizacji w centrum partnerskim
 
@@ -65,16 +65,12 @@ Jeśli podczas migracji z Centrum członkostwa w partnerze do Centrum partnerski
 
 Aby zaktualizować identyfikator MPN skojarzony z kontem dostawcy CSP:
 
-1. Zaloguj się do pulpitu nawigacyjnego Centrum partnerskiego.
+1. Zaloguj się do pulpitu nawigacyjnego Centrum partnerskiego, a następnie wybierz pozycję **Ustawienia**.
  
-1. Wybierz pozycję **profil organizacji** z **ustawień konta**.
+1. W obszarze **Ustawienia konta** wybierz pozycję **identyfikatory**.
 
-1. Obok pozycji **SKOJARZONE MPNID** wybierz pozycję **Aktualizuj**.
+1. W sekcji **CSP** Użyj linku **Aktualizuj** , aby zaktualizować identyfikator MPN skojarzony z Twoim kontem dostawcy CSP.
  
-1. Wybierz opcję **Kontynuuj**.
- 
-1. Dodaj swój identyfikator MPN.
-
 
 ## <a name="update-your-billing-address"></a>Aktualizowanie adresu rozliczeniowego
 

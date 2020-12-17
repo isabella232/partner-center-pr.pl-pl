@@ -1,7 +1,7 @@
 ---
 title: Wskaźniki udziałów partnerów
 ms.topic: article
-ms.date: 11/03/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się więcej na temat siedmiu wskaźników udziału partnerskiego (PCI), które pokazują, jak wykonujesz działania w ramach programu Dynamics 365 Customer Engagement lub Dynamics 365 Finanse i operacyjne.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5e3c0ad1a1abae49b05394d569b67840a01ecca
-ms.sourcegitcommit: fc4d94b2a9575808745f8fb8c7ee5ae88be6803c
+ms.openlocfilehash: 336481cf390fb467c4768edfff9d9c38e8dd8f31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93344395"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636045"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Wskaźniki udziałów partnerów (PCI) pokazują wpływ na partnerów w oparciu o siedem kluczowych miar sukcesu klientów
 
@@ -42,23 +42,23 @@ PCI oferuje zaawansowany widok możliwości technicznych partnera, ich zdolnoś�
 
 *Wskaźniki wydajności:*
 
-1. **Nowy przychód netto** : NET New przychód we wszystkich kanałach sprzedaży dla produktów Microsoft Dynamics 365. (Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [definicje dotyczące usługi NET New przychód](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue).)
+1. **Nowy przychód netto**: NET New przychód we wszystkich kanałach sprzedaży dla produktów Microsoft Dynamics 365. (Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [definicje dotyczące usługi NET New przychód](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue).)
 
-2. Dodatki do **klienta netto** : Klienci korzystający z usługi NET 365 w ramach wszystkich kanałów sprzedaży. (Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [definicje dotyczące dodawania klientów do sieci](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds)).
+2. Dodatki do **klienta netto**: Klienci korzystający z usługi NET 365 w ramach wszystkich kanałów sprzedaży. (Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [definicje dotyczące dodawania klientów do sieci](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds)).
 
 *Wskaźniki możliwości:*
 
-3. **Konsultanci funkcjonalni** : liczba osób przechowujących obecnie aktywnego konsultanta funkcjonalnego Skojarz certyfikat dla systemu Dynamics 365. (Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [definicje dla doradców funkcjonalnych](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)).
+3. **Konsultanci funkcjonalni**: liczba osób przechowujących obecnie aktywnego konsultanta funkcjonalnego Skojarz certyfikat dla systemu Dynamics 365. (Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [definicje dla doradców funkcjonalnych](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)).
 
-4. **Wzrost konsultanta funkcjonalnego** : wzrost liczby partnerów funkcjonalnych współdziałania.  Podstawowa migawka dla metryki wzrostu dla doradcy funkcjonalnej w PCI zostanie teraz podjęta 1 października 2020. (Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [definicje dotyczące wzrostu konsultanta funkcjonalnego](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)).
+4. **Wzrost konsultanta funkcjonalnego**: wzrost liczby partnerów funkcjonalnych współdziałania. Istnieje kilka opcji uzyskania punktów dla tego wskaźnika. Jedna z opcji wymaga, aby w ramach magistrali funkcjonalnej uzyskać metrykę wzrostu dla doradcy w PCI, która jest wykonywana 1 października 2020. (Aby uzyskać szczegółowe informacje o wszystkich opcjach uzyskiwania punktów dla tej metryki, zobacz [definicje dla wzrostu działania doradcy](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)).
 
-5. **Deweloperzy** : liczba osób mających obecnie aktywną wersję zaświadczania o skojarzeniu z systemem Dynamics 365. (Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [definicje dla deweloperów](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)).
+5. **Deweloperzy**: liczba osób mających obecnie aktywną wersję zaświadczania o skojarzeniu z systemem Dynamics 365. (Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [definicje dla deweloperów](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)).
 
 *Wskaźniki sukcesu klientów:*
 
-6. **Nowe duże wdrożenia** : liczba dzierżawców produkcyjnych, które przekraczają próg wysokiego użycia w ciągu ostatnich 12 miesięcy. (Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [definicje nowych dużych wdrożeń](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)).
+6. **Nowe duże wdrożenia**: liczba dzierżawców produkcyjnych, które przekraczają próg wysokiego użycia w ciągu ostatnich 12 miesięcy. (Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [definicje nowych dużych wdrożeń](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)).
 
-7. **Miesięczny wzrost liczby aktywnych użytkowników** : wzrost liczby aktywnych użytkowników miesięcznie dla wszystkich klientów w ciągu ostatnich 12 miesięcy. (Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [definicje comiesięcznego wzrostu użytkowników](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth).)
+7. **Miesięczny wzrost liczby aktywnych użytkowników**: wzrost liczby aktywnych użytkowników miesięcznie dla wszystkich klientów w ciągu ostatnich 12 miesięcy. (Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [definicje comiesięcznego wzrostu użytkowników](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth).)
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>Jak Ocena PCI wpływa na uprawnienia do kompetencji
 Punkty są przyznawane dla każdego osiągniętego wskaźnika, co daje wynik o pojedynczej liczbie PCI. dostępne są 100 maksymalne punkty. 
@@ -98,12 +98,12 @@ Każda Metryka PCI ma progi zestawu Microsoft, które mogą zdobywać maksymalne
 Punkty w każdej metryce są tallied w celu uzyskania odrębnej oceny PCI dla zaangażowania klientów i finansów i operacji. Ten wynik zostanie zaktualizowany co miesiąc.
 
 Partnerzy mogą uzyskać maksymalne punkty dla danej metryki, jeśli spełnią lub przekroczą progi podane poniżej. Punkty częściowe można uzyskać dla wszystkich metryk z wyjątkiem wzrostu dla doradcy funkcjonalnej.
+
 Na przykład, rozwinięty partner rynkowy z $150 000 w usłudze net New przychód uzyska połowę ($ 150000/$ 300000) z maksymalną 10 punktami.
 
 Aby uzyskać szczegółowe informacje, zobacz następujące tabele:
 - [Tabela 1. Progi zaangażowania klientów](partner-contribution-indicators.md#table-1-customer-engagement-thresholds)
 - [Tabela 2. Wartości progowe finansów i operacji](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds)
-- [Tabela 3. Wzrost doradcy funkcjonalnej](partner-contribution-indicators.md#table-3-functional-consultant-growth)
 
 ### <a name="table-1-customer-engagement-thresholds"></a>Tabela 1. progi zaangażowania klientów
 
@@ -114,7 +114,7 @@ Aby uzyskać szczegółowe informacje, zobacz następujące tabele:
 | **Przygotowany** | $300 000 | 10 | 10 | *\* Zobacz Uwaga* | 5 | 5 | 25% |
 | **Wywoływania** | $150 000 | 5  | 5  |*\* Zobacz Uwaga* | 2 | 1 | 25% |
 
-*\* Uwaga: elementy docelowe wzrostu różnią się w zależności od liczby konsultantów linii bazowej. Patrz [tabela 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) dla elementów docelowych wzrostu.*
+*\* Uwaga: elementy docelowe wzrostu różnią się w zależności od liczby konsultantów linii bazowej i konkretnej opcji, która jest wykorzystywana przez partnera w celu uzyskania punktów. Aby dowiedzieć się więcej na temat opcji pozwalających uzyskać punkty lub elementy docelowe określonego wzrostu, zobacz [definicje dotyczące wzrostu dla doradcy](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
 
 ### <a name="table-2-finance-and-operations-thresholds"></a>Tabela 2. wartości progowe finansów i operacji
 
@@ -125,19 +125,7 @@ Aby uzyskać szczegółowe informacje, zobacz następujące tabele:
 | **Przygotowany** | $300 000 | 3 | 15 | *\* Zobacz Uwaga* | 5  | 3 | 25% |
 | **Wywoływania** | $150 000 | 1 | 5 |*\* Zobacz Uwaga* | 2 | 1 | 25% |
 
-*\* Uwaga: elementy docelowe wzrostu różnią się w zależności od liczby konsultantów linii bazowej. Patrz [tabela 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) dla elementów docelowych wzrostu.*
-
-### <a name="table-3-functional-consultant-growth"></a>Tabela 3 rozwój doradcy funkcjonalnej
-
->[!NOTE]
-> W poniższej tabeli przedstawiono **rozwiniętą** i **rozwijaną** kolumnę z linią bazową doradcy funkcjonalnej wymaganą do uzyskania uprawnień do zdobywania punktów. Data migawki linii bazowej zostanie pobrana 1 października 2020.
-
-
-| Przygotowany | Wywoływania | Wzrost wymagany do zdobycia wszystkich 15 punktów *
-|:---:|:---:|:---:|
-| 15-29 | 5-14 | 35% |
-| 30–49 | 15-24 | 25% |
-| 50 i więcej | 25 i nowsze | 15% |
+*\* Uwaga: elementy docelowe wzrostu różnią się w zależności od liczby konsultantów linii bazowej i konkretnej opcji, która jest wykorzystywana przez partnera w celu uzyskania punktów. Aby dowiedzieć się więcej na temat opcji pozwalających uzyskać punkty lub elementy docelowe określonego wzrostu, zobacz [definicje dotyczące wzrostu dla doradcy](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
 
 ## <a name="detailed-definitions-of-pci-metrics"></a>Szczegółowe definicje metryk PCI
 
@@ -208,13 +196,30 @@ Konsultanci funkcjonalni to wskaźnik możliwości i jeden z siedmiu kluczowych 
 
 - Konsultanci funkcjonalni są zdefiniowani jako liczba osób mających obecnie aktywnego konsultanta, który kojarzy certyfikaty, takie jak certyfikacja konsultanta lub działalność finansową i funkcjonalną.
 
-- Certyfikacja konsultanta funkcjonalności klienta wymaga, aby osoba przekazująca: MB-200 **i** jedna z następujących: mb-210, MB-220, mb-230, MB-240 lub MB6-898.
+- Certyfikacja konsultanta funkcjonalnego dotyczącego zaangażowania klientów wymaga, aby osoba przekazująca:
+  - MB — 200 \* lub pl-200<br/>
+  **i** jeden z następujących egzaminów:
+  - MB-210, MB-220, MB-230, MB-240 lub MB6-898 \* \* .
 
-- Certyfikacja konsultanta i działania programu Operations Manager wymaga, aby osoba przekazująca: MB-300 **i** jedna z następujących wartości: mb-310, MB-320, mb-330, MB6-897 lub MB6-898.
+- Certyfikacja konsultanta i działania w ramach programu Operations Manager wymaga, aby osoba przekazująca:
+  - MB — 300<br/>
+  **i** jeden z następujących egzaminów:
+  - MB-310, MB-320, MB-330, MB-897 \* \* lub MB6-898 \* \* .
+
+> [!NOTE]
+> Egzaminy oznaczone gwiazdką ( \* ) są wycofywane lub zastępowane w nadchodzących miesiącach. Szczegółowe informacje znajdują się poniżej:
+>
+> - Egzaminy oznaczone jedną gwiazdką ( \* ) są wycofywane 31 grudnia 2020. Egzaminy wycofywane w dniu 31 grudnia 2020 będą nadal kwalifikowały się do osiągnięcia kompetencji i odnowienia do 31 grudnia 2021, jeśli zostaną podjęte przed wycofaniem.
+> - Egzaminy oznaczone dwoma gwiazdkami ( \* \* ) są wycofywane 31 stycznia 2021. Egzaminy wycofywane w dniu 31 stycznia 2021 będą nadal kwalifikowały się do osiągnięcia kompetencji i odnowienia do 31 stycznia 2022, jeśli zostaną podjęte przed wycofaniem.
+
 
 ### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>Definicje dla metryki PCI #4 — wzrost dla doradcy funkcjonalnej
 
-Rozwój doradcy funkcjonalnej to wskaźnik możliwości i jeden z siedmiu kluczowych wskaźników udziałów partnerskich [opisanych wcześniej w tym artykule](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Poniżej przedstawiono więcej informacji na temat sposobu definiowania wskaźnika wzrostu dla doradców funkcjonalnych i sposobu obliczania punktów tej kategorii:
+Rozwój doradcy funkcjonalnej to wskaźnik możliwości i jeden z siedmiu kluczowych wskaźników udziałów partnerskich [opisanych wcześniej w tym artykule](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Partner ma jedną z dwóch opcji do osiągnięcia punktów wszystko-lub-Nothing (15 lub 0 punktów) dostępnych dla tej metryki. Żadne punkty częściowe nie będą przyznawane. 
+
+Poniżej przedstawiono więcej informacji na temat sposobu definiowania wskaźnika wzrostu dla doradców funkcjonalnych oraz sposobu obliczania punktów tej kategorii.
+
+**Opcja jeden, aby uzyskać punkty:**
 
 - Wzrost doradcy funkcjonalnej jest definiowany jako wzrost liczby certyfikowanych konsultantów funkcjonalnych, który jest kojarzony od podstawowej migawki. Data migawki linii bazowej zostanie pobrana 1 października 2020.
 
@@ -224,7 +229,19 @@ Rozwój doradcy funkcjonalnej to wskaźnik możliwości i jeden z siedmiu kluczo
 
 - Aby można było kwalifikować się do korzystania z punktów, należy mieć co najmniej **15** doradców funkcjonalnych dla partnerów rynkowych i **5** na potrzeby rozwijania partnerów rynkowych, gdy tworzona jest migawka podstawowa.
 
-- **Żadne punkty częściowe nie będą przyznawane.** Wzrost na początku migawki linii bazowej musi spełniać progi określone w tabeli 3 lub przekroczyć [. Rozwój doradcy funkcjonalnej](partner-contribution-indicators.md#table-3-functional-consultant-growth).
+- **Żadne punkty częściowe nie będą przyznawane.** Wzrost na początku migawki linii bazowej musi być równy lub większy od progów wskazanych w poniższej tabeli. W tabeli przedstawiono **rozwiniętą** i **rozwijaną** kolumnę z linią bazową doradcy funkcjonalnej wymaganą do zdobycia punktów.
+
+  | Przygotowany | Wywoływania | Wzrost wymagany do zdobycia wszystkich 15 punktów *
+  |:---:|:---:|:---:|
+  | 15-29 | 5-14 | 35% |
+  | 30–49 | 15-24 | 25% |
+  | 50 i więcej | 25 i nowsze | 15% |
+
+**Opcja dwie, aby uzyskać punkty:**
+
+- Partnerzy rynkowi mogą zaświadczać 50 lub więcej konsultantów funkcjonalnych w czasie na potrzeby pierwszej rocznicy OBSŁUGIWANIE opartej na magistrali PCI. (Rozwój partnerów rynkowych może zaświadczyć 25 lub więcej konsultantów funkcjonalnych w czasie na potrzeby pierwszej rocznicy OBSŁUGIWANIE opartego na procesorze PCI).
+
+- Po osiągnięciu tego progu otrzymasz pełne 15 punktów dla wzrostu działania doradcy przez 24 miesiące od tej daty. Dzięki temu można uzyskać maksymalne punkty wzrostu konsultanta funkcjonalnego dla dwóch rocznic OBSŁUGIWANIE.
 
 ### <a name="definitions-for-pci-metric-5---developers"></a>Definicje dla metryk PCI #5 — deweloperzy
 
@@ -234,9 +251,21 @@ Deweloperzy to wskaźnik możliwości i jeden z siedmiu kluczowych wskaźników 
 
 - Punkty dla deweloperów są oparte na migawce bieżącego miesiąca z maksymalnie 5 punktami dostępności.
 
-- Deweloperzy zaangażowani w korzystanie z klienta otrzymują środki w przypadku przechodzenia w wysokości MB-200 **i** jednego z następujących: MB – 400 lub MB2-0,16.
+- Po przejściu deweloperzy mogą otrzymywać środki w wysokości:
+  - PL-400<br/>**lub**
+  - MB – 200 \* **i** jeden z następujących egzaminów:
+    - MB-400 \* lub MB2-0,16\*\*
 
-- Deweloperzy i operacje mają kredyt, gdy przechodzą zarówno MB-300 **, jak i** jeden z następujących: MB-500 lub MB6-894.
+- W przypadku, gdy przechodzą środki, deweloperzy i działania będą otrzymywać kredyty:
+  - MB — 300<br/>
+  **i** jeden z następujących egzaminów:
+  - MB — 500 lub MB – 894\*\*
+
+> [!NOTE]
+> Egzaminy oznaczone gwiazdką ( \* ) są wycofywane lub zastępowane w nadchodzących miesiącach. Szczegółowe informacje znajdują się poniżej:
+>
+> - Egzaminy oznaczone jedną gwiazdką ( \* ) są wycofywane 31 grudnia 2020. Egzaminy wycofywane w dniu 31 grudnia 2020 będą nadal kwalifikowały się do osiągnięcia kompetencji i odnowienia do 31 grudnia 2021, jeśli zostaną podjęte przed wycofaniem.
+> - Egzaminy oznaczone dwoma gwiazdkami ( \* \* ) są wycofywane 31 stycznia 2021. Egzaminy wycofywane w dniu 31 stycznia 2021 będą nadal kwalifikowały się do osiągnięcia kompetencji i odnowienia do 31 stycznia 2022, jeśli zostaną podjęte przed wycofaniem.
 
 ### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>Definicje dla metryki PCI #6 — nowe duże wdrożenia
 

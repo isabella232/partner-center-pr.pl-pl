@@ -9,18 +9,157 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/02/2020
-ms.openlocfilehash: 841ef4701ef7c973cc7a4fffaa26bb24b8d6f7e9
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: c546885d74f5959dd02c0c7ce0fdbc22f9ff5313
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622154"
+ms.locfileid: "97635994"
 ---
 # <a name="december-2020-announcements"></a>Ogłoszenia z grudnia 2020 r.
 
 Na tej stronie znajdują się szczegółowe informacje o anonsach programu Microsoft Partner Center dla listopada 2020.
 
 2020 anonse: od [kwietnia](2020-april.md)do  |  [](2020-may.md)  |  [czerwca](2020-june.md),  |  [](2020-july.md)  |  [](2020-august.md)  |  [wrzesień](2020-september.md),  |  [październik](2020-October.md)  |  [listopad](2020-november.md) | Grudzień
+
+______________
+
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="8"></a>Zmiany wymagań dotyczących dołączania dostawcy rozwiązań w chmurze (CSP)
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2020-12-17
+- Oferty/rynki
+ 
+### <a name="summary"></a>Podsumowanie
+
+W ramach naszych starań, aby pomóc partnerom i klientom w realizacji działalności w oparciu o relacje zaufania, będziemy żądać dodatkowych informacji o klientach, a na koniec marca 2021.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Bezpośredni partnerzy rachunków CSP i dostawcy pośrednii, którzy mają nowych lub istniejących klientów w krajach wymienionych w następnej sekcji
+
+### <a name="details"></a>Szczegóły
+
+Firma Microsoft uruchamia się na zaufaniu. Firma Microsoft dokłada starań, aby zapewnić zgodną, bezpieczną i bezpieczną metodę weryfikacji klienta w przypadku transakcyjnych subskrypcji klientów w programie CSP. Na koniec marca 2021 będziemy wprowadzać udoskonalenia interfejsu API Centrum partnerskiego i interfejsu użytkownika, które będą miały wpływ na partnerów spełniających następujące kryteria:
+
+1. Partner ma bezpośrednią relację rozliczeń z firmą Microsoft (co oznacza, że partner to bezpośredni partner Bill lub pośredni dostawca).
+
+2. Partner wykonuje działalność z nowymi lub istniejącymi klientami w następujących krajach:
+    - Tajlandia
+    - Wietnam
+    - Turcja
+    - Polska
+    - Republika Południowej Afryki
+    - Indie
+    - Brazylia
+    - Irak
+    - Myanmar
+    - Sudan Południowy
+    - Arabia Saudyjska
+    - Zjednoczone Emiraty Arabskie
+    - Wenezuela
+
+Partnerzy, którzy spełniają kryteria, będą musieli przesłać **Identyfikator prawny** klienta (znany także jako numer **Inn** klienta) i **numer telefonu** podczas następnej aktualizacji lub utworzenia subskrypcji dla tego klienta. Ci partnerzy mogą również wprowadzić opcjonalną **nazwę środkową** dla klienta.
+
+Partnerzy, którzy korzystają z nowych lub istniejących klientów w następujących krajach, zostali już dołączeni do wcześniejszej wersji w listopadzie 2020.
+
+- Armenia
+- Azerbejdżan
+- Białoruś
+- Węgry
+- Kazachstan
+- Kirgistan
+- Mołdawia
+- Rosja
+- Tadżykistan
+- Ukraina
+- Uzbekistan
+
+Partnerzy z klientami na całym świecie będą mieli prawo do końca marca 2021, aby wprowadzić **Identyfikator prawny**, **numer telefonu** i **drugie imię** dla klientów jako opcjonalne szczegóły.
+
+### <a name="next-steps"></a>Następne kroki
+
+- Zapoznaj się z dokumentacją techniczną i często zadawanymi pytaniami w kolekcji dedykowanych [partnerów](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) , aby uzyskać bardziej szczegółowe wskazówki.
+- Przygotuj się do uwzględnienia zmian za pomocą interfejsu API Centrum partnerskiego i środowiska użytkownika sieci Web. Interfejsy API/zestawy SDK będą dostępne do testowania.
+- Pamiętaj o przesłaniu dodatkowych danych podczas dołączania nowych klientów lub modyfikowania istniejących szczegółów klienta.
+- Jeśli używasz rozwiązania dostawcy panelu sterowania (CPV), zapoznaj się z CPV.
+
+### <a name="questions"></a>Masz pytania?
+
+Jeśli masz jakieś pytania dotyczące identyfikatora prawnego (nazywanego również INN lub cyny), skontaktuj się z doradcą podatkowym lub lokalnym biurem podatkowym. Firma Microsoft nie może zapewnić wskazówek dotyczących podatków. 
+
+Jeśli potrzebujesz pomocy technicznej w zakresie operacji w firmie Microsoft, [Otwórz żądanie obsługi](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+
+______________
+
+## <a name="reminder-perpetual-software-in-the-cloud-solution-provider-csp-program-broadly-available-from-january-2021"></a><a name="7"></a>Przypomnienie: bezterminowe oprogramowanie w programie dostawcy rozwiązań w chmurze (CSP) w szerokim stopniu dostępnym od stycznia 2021
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2020-12-17
+- Rozwijaj swoją firmę
+ 
+### <a name="summary"></a>Podsumowanie
+
+To jest przypomnienie, że od 19 stycznia 2021 wszyscy partnerzy CSP będą mogli sprzedawać komercyjne licencje na oprogramowanie. Wprowadzamy również nowe produkty i lokalizacje geograficzne.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Wszyscy partnerzy CSP
+
+### <a name="details"></a>Szczegóły
+
+Będziemy przypominać, że od **19 stycznia 2021** wszyscy partnerzy zarejestrowani w programie CSP będą mogli sprzedawać komercyjne licencje na oprogramowanie bezterminowe dla wdrożenia lokalnego za pośrednictwem dostawcy usług kryptograficznych. Zapewni to klientom elastyczność licencjonowania potrzebną w ramach ich transformacji cyfrowej.
+
+Zostaną również wykonane następujące czynności:
+
+- Cennik programu CSP wieczyste oprogramowanie jest ponownie publikowany w centrum partnerskim. Znajdziesz go w sekcji **oprogramowanie** na stronie [sprzedaj > Cennik & oferty](https://partnercenter.microsoft.com/pcv/sales) , która zawiera dodatkowe produkty i lokalizacje geograficzne. Szczegółowe informacje znajdują się [tutaj](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
+
+- Możliwość wycofania oprogramowania Centrum partnerskiego i korzystania z klucza licencji — zapoznaj się z artykułem [Anonsy](https://docs.microsoft.com/partner-center/announcements/2020-september#17) i partnerzy będą korzystać z centrum administracyjnego Microsoft 365 wyłącznie w tym celu. Zapewni to najbardziej bezpieczne i wydajne środowisko dla klientów. Dowiedz się więcej o oprogramowaniu centrum administracyjnego Microsoft 365, przeglądając temat [Przegląd](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [typowe zadania](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true)i [funkcje realizacji klucza licencji](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+
+### <a name="perpetual-software-in-csp"></a>Bezterminowe oprogramowanie w programie CSP
+
+Dodanie bezterminowego oprogramowania do programu CSP w nowym środowisku handlowym spowoduje skrócenie czasu i kosztów, które partnerzy muszą poświęcać na zarządzanie wieloma programami licencjonowania. Dzięki temu Ulepszono możliwości sprzedaży, działania i zarządzania. Partnerzy mogą rozwijać swoje firmy, oferując różne rozwiązania i zarządzane usługi z elastycznością do łączenia licencji i usług zarządzanych w środowiskach chmury hybrydowej, co pozwala na dalsze przyspieszenie przejścia klientów do chmury. Klienci z kolei będą korzystać z uproszczonego podejścia i większej elastyczności podczas kupowania licencji na oprogramowanie. Ten proces zakupu jest łatwy do zrozumienia, bezpośrednio ulepsza zarządzanie zasobami licencjonowania i ma przewidywalne koszty.
+
+### <a name="next-steps"></a>Następne kroki
+
+Przejrzyj następujące zasoby i udostępnij je odpowiednim kontaktom w organizacji:
+
+- Produkty bezterminowego [oprogramowania CSP i lokalizacje geograficzne](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) dodawane do 19 stycznia 2021
+
+- Microsoft 365 centrum administracyjnego [— Omówienie](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [typowe zadania](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true)i [możliwości realizacji klucza licencji](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
+
+- [Rozwijanie możliwości partnerów w programie dostawcy rozwiązań w chmurze](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (anonsowanie partnera)
+
+- Bezterminowe oprogramowanie w materiałach gotowości [programu dostawcy rozwiązań w chmurze](https://partner.microsoft.com/resources/collection/software-in-csp#/) , w tym przegląd, wskazówki dotyczące licencjonowania, często zadawane pytania dotyczące partnerów, operacyjne i techniczne (SDK/API) seminaria internetowe i wiele bardziej przydatnych zasobów. Użyj tej [mapy gotowości](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) , aby szybko zlokalizować odpowiednie informacje dla roli.
+
+### <a name="questions"></a>Masz pytania?
+
+Aby dowiedzieć się więcej na temat tych ofert, należy zapoznać się z odpowiednimi społecznościami Yammer.
+
+______________
+
+## <a name="online-services-and-software-channel-authorization-guide"></a><a name="6"></a>Przewodnik po autoryzacji usług online i kanału oprogramowania
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2020-12-17
+- Możliwości
+ 
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Rozliczenia bezpośrednie, dostawcy pośrednich i partnerzy wielowarstwowym uczestniczący w programie Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Szczegóły
+
+Zgodnie z umową Partnerskią firmy Microsoft (zobacz sekcję **usługi online i autoryzacja kanału oprogramowania — informacje o zmianach — zmiany w przewodnikach**), firma Microsoft informuje o tym, że aktualizacje usług online i przewodnika autoryzacji kanału oprogramowania są aktualizowane. 
+
+Wersja zapoznawcza zaktualizowanego przewodnika jest [dostępna tutaj](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-pdf)z redlineą wskazującą zmiany [dostępne w tym miejscu](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-redline-pdf). Ta aktualizacja zacznie obowiązywać 30 dni od daty tego powiadomienia; w tej chwili nie trzeba wykonywać żadnych dalszych czynności.
+
+### <a name="next-steps"></a>Następne kroki
+
+Żadna akcja nie jest wymagana. Dotyczy to tylko informacji.
 
 ______________
 
@@ -37,7 +176,7 @@ Wszyscy partnerzy przeprowadzają Operacje transakcyjne przez program Cloud Solu
 
 ### <a name="details"></a>Szczegóły
 
-Oferta promocyjna aplikacji dla usługi PowerShell początkowo zaplanowana z dniem 1 grudnia została nieco opóźniona. Oferta powinna być dostępna 16 grudnia 2020. Ta oferta jest dostępna po obniżonej cenie i ma inną istotną różnicę od typowych ofert w centrum partnerskim.
+Oferta promocyjna usługi dla aplikacji zaawansowanych zaplanowana od 1 grudnia 2020 była nieco opóźniona. Oferta powinna być dostępna 16 grudnia 2020. Ta oferta jest dostępna po obniżonej cenie i ma inną istotną różnicę od typowych ofert w centrum partnerskim.
  
 **Szczegóły oferty**
 
