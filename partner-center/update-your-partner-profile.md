@@ -6,15 +6,15 @@ description: Dowiedz się, jak weryfikować szczegóły firmy, takie jak podstaw
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
+ms.date: 12/17/2020
 ms.localizationpriority: high
-ms.date: 12/16/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 398e02e4d18df9e555a1576e845e1d0e0bdf1105
-ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
+ms.openlocfilehash: 938713a08b52d7f5d601ef7801f300eec223b921
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97636011"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666795"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Weryfikowanie informacji o profilu organizacji w centrum partnerskim
 
@@ -27,13 +27,13 @@ Przy pierwszym zalogowaniu się do Centrum partnerskiego jako Administrator glob
 
 Twój Profil partnera składa się z informacji służbowych firmy, podstawowej nazwy kontaktu i poczty e-mail, programów, w których firma uczestniczy, a jeśli to konieczne, innych firm, które są teraz scalone w ramach firmy prawnej. Upewnij się, że nazwa firmy i adres w profilu biznesowym w firmie są bezpłatne i zawierają błędy pisowni oraz skróty i dokładnie pasują do oficjalnych rekordów rejestracji firmy. Jeśli używasz jako jedynego właściciela, musisz użyć nazwy firmy jako nazwy prawnej.
 
-1. Przejdź do pozycji **Ustawienia** i wybierz pozycję **Ustawienia konta**.
+1. Przejdź do ikony **ustawień** i wybierz pozycję **Ustawienia konta**.
  
 1. Wybierz pozycję **profil organizacji**. 
 
 2. Przejrzyj **firmowy profil biznesowy**, **podstawowe informacje kontaktowe** i **Informacje o programie**.
 
-Jeśli Twoje inne firmy zostały scalone z firmą prawną, możesz również przejrzeć ich informacje. 
+Jeśli Twoje inne firmy zostały scalone z firmą prawną, można również przejrzeć te informacje. 
 
 ## <a name="update-your-legal-business-profile"></a>Zaktualizuj swój służbowy profil biznesowy
 
@@ -67,10 +67,10 @@ Aby zaktualizować identyfikator MPN skojarzony z kontem dostawcy CSP:
 
 1. Zaloguj się do pulpitu nawigacyjnego Centrum partnerskiego, a następnie wybierz pozycję **Ustawienia**.
  
-1. W obszarze **Ustawienia konta** wybierz pozycję **identyfikatory**.
+1. Wybierz **identyfikatory** z **ustawień konta**.
 
-1. W sekcji **CSP** Użyj linku **Aktualizuj** , aby zaktualizować identyfikator MPN skojarzony z Twoim kontem dostawcy CSP.
- 
+1. W sekcji **CSP** Użyj linku **Aktualizuj** , aby zaktualizować identyfikator MPN skojarzony z kontem dostawcy CSP. 
+
 
 ## <a name="update-your-billing-address"></a>Aktualizowanie adresu rozliczeniowego
 

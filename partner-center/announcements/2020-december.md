@@ -8,19 +8,110 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/02/2020
-ms.openlocfilehash: c546885d74f5959dd02c0c7ce0fdbc22f9ff5313
-ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
+ms.date: 12/17/2020
+ms.openlocfilehash: 0712c2b8aa3a22dd4a6f327759c383257cb6605a
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97635994"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666778"
 ---
 # <a name="december-2020-announcements"></a>Ogłoszenia z grudnia 2020 r.
 
 Na tej stronie znajdują się szczegółowe informacje o anonsach programu Microsoft Partner Center dla listopada 2020.
 
 2020 anonse: od [kwietnia](2020-april.md)do  |  [](2020-may.md)  |  [czerwca](2020-june.md),  |  [](2020-july.md)  |  [](2020-august.md)  |  [wrzesień](2020-september.md),  |  [październik](2020-October.md)  |  [listopad](2020-november.md) | Grudzień
+
+______________
+
+## <a name="perpetual-software-in-csp--new-products-and-geographies"></a><a name="10"></a>Bezterminowe oprogramowanie w programie CSP: nowe produkty i lokalizacje geograficzne
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2020-12-17
+- Oferty
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Partnerzy bezpośrednich rachunków CSP, dostawcy pośrednii i odsprzedawcy pośrednii
+
+### <a name="details"></a>Szczegóły
+
+W miarę ulepszania naszych możliwości handlowych w celu zapewnienia klientom i partnerom lepszego kupowania, rozszerzamy portfolio oferty, aby uwzględnić dostępność bezterminowych licencji na oprogramowanie w ramach programu dostawcy rozwiązań w chmurze (CSP). Dodanie licencji na oprogramowanie w ramach dostawcy CSP umożliwia partnerom uczestniczącym skoncentrowanie się na oferowaniu różnorodnych rozwiązań i usług zarządzanych klientom. Umożliwia ona również przejście klientów do chmury i zapewnia partnerom elastyczność potrzebną w środowiskach chmur hybrydowych.
+
+Od 19 stycznia 2021, firma Microsoft będzie umożliwiać wszystkim partnerom bezpośrednich rachunków dostawcy usług kryptograficznych, dostawców pośrednich i pośrednim odsprzedawcy na sprzedawanie licencji na oprogramowanie w ramach programu CSP, a także dodawanie dodatkowych produktów i lokalizacje geograficzne. 
+
+Szczegółowe informacje dotyczące bezterminowego oprogramowania w programie CSP można znaleźć w kolekcji gotowości: bezterminowe  [oprogramowanie w programie dostawcy rozwiązań w chmurze](https://partner.microsoft.com/resources/collection/software-in-csp#/).
+
+### <a name="products"></a>Produkty
+
+Te dodatkowe produkty pojawią się na liście cenowej dostawcy usług kryptograficznych 2021 stycznia, która zostanie opublikowana 19 stycznia 2020.  Spowoduje to ponowną publikację początkowej listy cenowej dostawcy usług kryptograficznych 2021 stycznia, która opublikowała 1 stycznia 2021.
+
+- Serwer Exchange Server Enterprise 2019
+- Licencja CAL na urządzenie z programem Exchange Server Enterprise 2019
+- Licencja CAL użytkownika programu Exchange Server Enterprise 2019
+- Program Exchange Server Standard 2019
+- Licencja CAL na urządzenie z programem Exchange Server Standard 2019
+- Licencja CAL użytkownika programu Exchange Server Standard 2019
+
+### <a name="geographies"></a>Obszary geograficzne
+
+Dodatkowe lokalizacje geograficzne dostępne od 19 stycznia 2021 dla bezterminowego oprogramowania w programie CSP obejmują:
+
+|**Dostępne lokalizacje geograficzne**|| | |
+|-----------------------------|-------------------------------|------------|----------------------|
+|Azerbejdżan|Białoruś|Benin|Bhutan|
+|Bonaire, Sint Eustatius i Saba|Wyspa Bouveta|Brazylia|
+|Brytyjskie Terytorium Oceanu Indyjskiego|Burkina Faso|Burundi|Kambodża|
+|Republika Środkowoafrykańska|Czad|Wyspa Bożego Narodzenia|Wyspy Kokosowe (Keelinga)|
+|Komory|Kongo|Demokratyczna Republika Konga|Wyspy Cooka|
+|Dżibuti|Gwinea Równikowa|Erytrea|Falklandy|
+|Gujana Francuska|Polinezja Francuska|Francuskie Terytoria Południowe i Antarktyczne|Gabon|
+|Gambia|Gruzja|Gibraltar|Grenlandia|
+|Grenada|Gwadelupa|Guam|Guernsey|
+|Gwinea|Gwinea Bissau|Haiti|Wyspy Heard i McDonalda|
+Zobacz|Węgry|Indie|Irak|
+|Wyspa Man|Jersey|Kazachstan|Kiribati|
+|Korea Południowa|Kirgistan|Liberia|Madagaskar|
+|Malawi|Malediwy|Mali|Wyspy Marshalla|
+|Martynika|Mauretania|Wyspa Majotta|Mikronezja (Stany federacyjne)|
+|Mołdawia|Mongolia|Montserrat|Mozambik|
+|Myanmar|Nauru|Antyle Holenderskie|Nowa Kaledonia|
+|Niger|Niue|Norfolk|Mariany Północne|
+|Palau|Papua Nowa Gwinea|Pitcairn|Polska|
+|Katar|Reunion|Rosja|Saint Barthélemy|
+|Saint Helena, Wyspa Wniebowstąpienia i Tristan da Cunha|Saint Lucia|Saint-Martin (część Francuska)|Saint Pierre i Miquelon|
+|Saint Vincent i Grenadyny|Samoa|San Marino|Wyspy Świętego Tomasza i Książęca|
+|Arabia Saudyjska|Seszele|Sierra Leone|Sint Maarten (część holenderska)|Wyspy Salomona|
+|Somalia|Republika Południowej Afryki|Georgia Południowa i Sandwich Południowy|Sudan Południowy|
+|Surinam|Svalbard i Jan Mayen|Suazi|Tajwan|
+|Tadżykistan|Tajlandia|Timor-Leste|Togo|
+|Tokelau|Tonga|Turcja|Turkmenistan|
+|Wyspy Turks i Caicos|Tuvalu|Ukraina|Stany Zjednoczone odległe mniejsze wyspy|
+|Uzbekistan|Vanuatu|Wenezuela|Wietnam|
+|Brytyjskie Wyspy Dziewicze|Wallis i Futuna
+
+
+____________
+
+## <a name="government-academic-and-non-profit-continuing-the-open-license-program-changes-and-evolution-of-csp"></a><a name="9"></a>Instytucje rządowe, akademickie i niedochodowe: kontynuowanie otwartych licencji Open License i ewolucji dostawcy usług kryptograficznych
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2020-12-17
+- Rozwijaj swoją firmę
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Wszyscy partnerzy CSP
+
+### <a name="details"></a>Szczegóły
+
+Dzisiaj, w miarę jak będziemy nadal [ustalać priorytety dla chmury](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/), firma Microsoft udostępnia powiadomienie o przyszłych zmianach w przypadku klientów z sektora publicznego (rządowych, edukacyjnych i niedochodowych) w ramach programu licencjonowania Open, a także powiązanych zmian w programie dostawcy rozwiązań w chmurze.
+
+### <a name="next-steps"></a>Następne kroki
+
+Pełny anons jest dostępny tylko dla partnerów firmy Microsoft. [Zaloguj się, aby uzyskać dostęp do pełnego anonsu](https://partner.microsoft.com/resources/detail/public-sector-open-license-csp-evolution-to-a-better-experience-pc-announcement-pdf).
 
 ______________
 
