@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: e792e4af2999924ba8be77ec0517ce56c1db7a27
+ms.sourcegitcommit: ed5c873d19f0464cc986fe6e852383cd4280daf6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94433351"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "97893210"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Przenoszenie subskrypcji planu platformy Azure klienta na innego partnera
 
@@ -49,7 +49,7 @@ Klient musi znajdować się w konwersacji z partnerami (bieżący i przyszły) p
 
 - Klient angażuje bieżącego partnera CSP w celu przejścia
 - W przyszłości partner CSP współpracuje z klientem w celu zapewnienia, że potrzeby klientów mogą być spełnione
-- W przyszłości partner CSP nawiązuje relację z klientem przed rozpoczęciem przejścia  
+- W przyszłości partner CSP nawiązuje relację z klientem i kupuje plan platformy Azure przed rozpoczęciem przejścia  
 - Klient musi podpisać umowę klienta firmy Microsoft, korzystając z przyszłego partnera CSP
 - W przyszłości partner CSP musi mieć podpisaną umowę partner firmy Microsoft, aby móc korzystać z tego narzędzia
 
@@ -66,7 +66,7 @@ Klient musi także zidentyfikować subskrypcje, które chcą przenieść z bież
 
 Przyszły partner subskrypcji musi ukończyć formularz żądania przeniesienia z Centrum partnerskiego, aby zażądać przeniesienia subskrypcji:
 
-1.  W menu Centrum partnerskiego wybierz pozycję **klienci** , a następnie wybierz klienta, który ma zostać ukończony w formularzu żądania przeniesienia w imieniu.
+1.  W menu Centrum partnerskiego wybierz pozycję **klienci**, a następnie wybierz klienta, który ma zostać ukończony w formularzu żądania przeniesienia w imieniu.
 2.  W menu Klient wybierz pozycję **subskrypcje**.
 3.  Wybierz sekcję **żądanie przeniesienia** .
 4.  W **sekcji żądanie transferu** wybierz pozycję **Dodaj nowe żądanie**.
@@ -75,7 +75,7 @@ Przyszły partner subskrypcji musi ukończyć formularz żądania przeniesienia 
 
 5.  Wykonaj **nową formę żądania przeniesienia** .
 
-6.  Wybierz pozycję **Wyślij żądanie wysłania żądania**  >  **Send**.
+6.  Wybierz pozycję **Wyślij żądanie wysłania żądania**  >  .
 
     :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Formularz kończenia żądania przeniesienia":::
 
@@ -98,7 +98,7 @@ Przejrzyj i zaakceptuj formularz żądania przeniesienia z Centrum partnerskiego
 >Jeśli bieżący partner nie podejmie żadnych działań w ciągu 30 dni, żądanie wygaśnie, a w przyszłości Partner będzie musiał utworzyć nowe żądanie transferu.
 
 1.  Wybierz pozycję **Przejrzyj żądanie przeniesienia** z wiadomości e-mail lub
-1.  W menu Centrum partnerskiego wybierz pozycję **klienci** , a następnie wybierz klienta, w imieniu którego zostało przesłane żądanie transferu.
+1.  W menu Centrum partnerskiego wybierz pozycję **klienci**, a następnie wybierz klienta, w imieniu którego zostało przesłane żądanie transferu.
 2.  W menu Klient wybierz pozycję **subskrypcje**.
 3.  Wybierz sekcję **żądanie przeniesienia** .
 4.  Rozwiń węzeł informacje o transferze, wybierając wybrany **Identyfikator żądania transferu** w obszarze **odebrane żądania** .

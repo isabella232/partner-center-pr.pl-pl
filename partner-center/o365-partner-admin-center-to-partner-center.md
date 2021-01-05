@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a9270f405b58ee065a67427395a392128b3eda1
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 51dd9bc389077f4b472e2e13f1170214ad1d382d
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92529313"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720819"
 ---
 # <a name="office-365-partner-admin-center-partners---get-ready-to-move-business-operations-to-partner-center"></a>Partnerzy centrum administracyjnego pakietu Office 365 — przygotowanie do przenoszenia operacji biznesowych do Centrum partnerskiego
 
@@ -36,9 +36,7 @@ Firma Microsoft udostępnia funkcje centrum administracyjnego partnerów pakietu
 - Wyślij zaproszenia relacji do klientów w imieniu siebie i dostawcy
 - Łatwiejsze zarządzanie poszczególnymi użytkownikami i przypisywanie licencji
 
-Możesz zacząć korzystać z Centrum partnerskiego od razu dla wielu zadań, obecnie korzystających z centrum administracyjnego partnera pakietu Office 365 dla programu. 
-
-Na razie obie lokacje są obsługiwane, więc w przypadku przejścia do nowej lokacji nadal będzie można korzystać z centrum administracyjnego partnera pakietu Office 365. Wszystkie zmiany wprowadzone w jednej lokalizacji będą widoczne w obu.
+Użytkownik zostanie natychmiast przekierowany do Centrum partnerskiego dla wszystkich zadań, obecnie korzystających z centrum administracyjnego partnera pakietu Office 365 dla programu.
 
 ## <a name="find-office-365-partner-admin-center-features-in-partner-center"></a>Znajdź funkcje centrum administracyjnego partnerów pakietu Office 365 w centrum partnerskim
 
@@ -46,9 +44,9 @@ Wykonywanie zadań w centrum partnerskim odbywa się w inny sposób w odróżnie
 
 | Funkcja centrum administracyjnego partnera pakietu Office 365                       | Gdzie znajduje się w centrum partnerskim? | 
 |   -----------------------------------------------  | -------------- |
-| Kompiluj swoją firmę: Utwórz ofertę zakupu | Pracuj z dostawcą, aby sprzedawać oferty klientom |
+| Kompiluj swoją firmę: Utwórz ofertę zakupu | Centrum partnerskie: oferty próbne i zakupu > tworzenia oferty zakupu |
 | Kompiluj swoją firmę: Zażądaj uprawnień administratora delegowanego | Centrum partnerskie: klienci > żądania relacji odsprzedawcy |
-| Kompiluj swoją firmę: Utwórz zaproszenia do wersji próbnej | Niedostępne. W tym celu można nadal korzystać z centrum administracyjnego partnerów pakietu Office 365 |
+| Kompiluj swoją firmę: Utwórz zaproszenia do wersji próbnej | Centrum partnerskie: wersje próbne i zakup oferty > Tworzenie zaproszenia do wersji próbnej |
 | Żądania obsługi: lista klientów: Centrum administracyjne pakietu Office 365 | Centrum partnerskie: klienci > administrować usługami |
 | Żądania obsługi: lista klientów: żądania obsługi | Centrum partnerskie: żądanie obsługi > żądania klientów |
 | Żądania obsługi: oflagowane | Pulpit nawigacyjny: Klienci: Wybierz gwiazdkę obok nazwy firmy |

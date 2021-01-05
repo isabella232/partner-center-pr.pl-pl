@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da6a3ab2a2fab99f49b9f5ba22824e5e61f6d482
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: db35696483c8a1e67f173ec7953cfa33a428a022
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530459"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720836"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Centrum administracyjne partnera jest przenoszone do Centrum partnerskiego
 
@@ -41,13 +41,10 @@ W kwietniu 2018 zostanie wycofanie certyfikatu PAC, a partnerzy CSP zostaną aut
 
 - Partnerzy dostawcy rozwiązań w chmurze: Jeśli jesteś partnerem CSP, automatycznie Przekierujemy Cię do Centrum partnerskiego, zaczynając od kwietnia 2018.
 
-- Partnerzy usługi Advisor (jeśli nie korzystasz z usług dostawcy CSP i używają certyfikatu PAC do dostarczania prób/ofert dla klientów): zaraz po określeniu na osi czasu automatycznego przekierowania do Centrum partnerskiego w tym miejscu zostanie ogłoszone ogłoszenie.
+- Partnerzy usługi Advisor (jeśli nie korzystasz z usług dostawcy CSP i używają certyfikatu PAC do dostarczania prób/ofert dla klientów): Jeśli jesteś partnerem doradcy, automatycznie Przekierujemy Cię do Centrum partnerskiego, rozpoczynając od czerwca 2020.
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Zacznij korzystać z Centrum partnerskiego firmy Microsoft.
 
 Zacznij już korzystać z [Centrum partnerskiego firmy Microsoft,](https://partnercenter.microsoft.com/) aby przygotować się do przenoszenia z certyfikatu PAC.  Będziesz używać tych samych poświadczeń dla Centrum partnerskiego, którego używasz na potrzeby certyfikatu PAC.
 
-> [!IMPORTANT]  
-> Niektóre funkcje i funkcje, które były dostępne w PAC, nie będą dostępne w centrum partnerskim.
-
- Przeczytaj [porównanie Side-by-Side](moving-from-pac-to-pc.md) , aby zrozumieć i zapoznać się z tymi zmianami. 
+Przeczytaj [porównanie Side-by-Side](moving-from-pac-to-pc.md) , aby zrozumieć i zapoznać się z tymi zmianami.
