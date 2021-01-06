@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: cdd840089d1937c3168c60a361e3d77e37c688ed
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
+ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916851"
+ms.locfileid: "97950590"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Przewodnik po przedsprzedaży w centrum partnerskim (komputer) dla partnerów migrowania z programu Partner Sales Connect (PSC)
 
@@ -321,7 +321,7 @@ Nie można uzyskać dostępu do Centrum partnerskiego za pomocą PDM bezpośredn
 - Użytkownik-Gość w centrum partnerskim — możesz dodać @microsoft.com konto PDM jako użytkownika-gościa w centrum partnerskim i przypisać do nich rolę administratora odwołań, aby mogli oni wyświetlać i podejmować działania dotyczące odwołań.
 - Tworzenie [nowego użytkownika](./create-user-accounts-and-set-permissions.md#add-a-new-user) w dzierżawie — możesz utworzyć nowego użytkownika w swojej dzierżawie i udostępnić te szczegóły w PDM, aby mogły wyświetlać i działać na odwołaniach podobnych do innych użytkowników referencyjnych na Twoim koncie.
 
-## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-an-invalid-mpn"></a>Znajdowanie prawidłowego identyfikatora MPN, jeśli konto na komputerze PSC nie jest skojarzone z nieprawidłowym MPN
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>Znajdowanie prawidłowego identyfikatora MPN, jeśli konto w systemie PSC nie jest skojarzone z prawidłowym MPN
 
 Jeśli jesteś tutaj, ponieważ zobaczysz baner na komputerze PSC z informacją o problemie związanym z skojarzeniem "PSC nieprawidłowy identyfikator MPN", jesteś w odpowiednim miejscu.
 
