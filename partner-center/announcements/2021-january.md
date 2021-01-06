@@ -9,20 +9,39 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 7a499c8c0fc64d00dcc8efe56f4bd5830d5e23bd
-ms.sourcegitcommit: 87677b45535a7b9d9ebd9afcbe4ea2491b4a1f52
+ms.openlocfilehash: 827d4d732e8aa5ff7e343ef3732ff0036eb8d628
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "97902670"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916800"
 ---
 # <a name="january-2021-announcements"></a>2021-styczeń anonsów
 
 Na tej stronie znajdują się szczegółowe informacje o anonsach programu Microsoft Partner Center dla stycznia 2021.
 
+2021 anonse: [styczeń](2021-january.md)
+
 2020 anonse [: od](2020-may.md)  |  [czerwca](2020-june.md)do  |  [lipca](2020-july.md),  |  [](2020-august.md)  |  [](2020-september.md)  |  [październik](2020-October.md)  |  [](2020-november.md)  |  [](2020-december.md) . Stycznia
 
 ________________
+## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Wycofanie i wycofanie istniejących interfejsów API kwalifikacji i przełączenia do procesu weryfikacji klienta edukacyjnego do końca lutego 2021
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Partnerzy sprzedający oferty akademickie za pośrednictwem programu Cloud Solution Provider przy użyciu interfejsu API Centrum partnerskiego
+
+### <a name="details"></a>Szczegóły 
+
+Jest to krok do ulepszeń interfejsu API wydanych w grudniu 2020. W grudniu 2020 zostały wydane nowe interfejsy API GET i POST kwalifikacji, a w związku z tym starego interfejsu API uzyskiwania i UMIESZCZAnia kwalifikacji zostaną wycofane przed końcem lutego 2021. W tym czasie trzeba będzie użyć nowych interfejsów API pobierania i publikowania w celu umożliwienia zakupu ofert edukacyjnych. 
+
+## <a name="next-steps"></a>Następne kroki
+
+- Jeśli jeszcze tego nie zrobiono, zaktualizuj nowe interfejsy API, aby przejść pomyślnie i w odpowiednim czasie.
+- Przejrzyj nowe zmiany w interfejsie API Centrum partnerskiego i zapoznaj się z [przewodnikiem dotyczącym gotowości operacji: Centrum partnerskie — ulepszenia procesów weryfikacji klienta](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+- Podziel się tymi informacjami z odpowiednimi zespołami w organizacji oraz z odsprzedawcami, aby ułatwić im przygotowanie się do tych zmian.
+
+_____________
 
 ## <a name="dynamics-365-offers-for-february-2021"></a><a name="1"></a>Oferty systemu Dynamics 365 dla lutego 2021
 

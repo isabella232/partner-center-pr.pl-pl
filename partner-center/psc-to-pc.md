@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: bbd2d1035bdcde691b0db620949d0e973667627b
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: cdd840089d1937c3168c60a361e3d77e37c688ed
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776915"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916851"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Przewodnik po przedsprzedaży w centrum partnerskim (komputer) dla partnerów migrowania z programu Partner Sales Connect (PSC)
 
@@ -320,6 +320,20 @@ Nie można uzyskać dostępu do Centrum partnerskiego za pomocą PDM bezpośredn
 - OCP Insights — Jeśli PDM wyświetlają tylko te transakcje i postęp związany z nimi, mogą korzystać z portalu OCP Insights w celu uzyskania widoku organizacji. Jest to narzędzie wewnętrzne i dostępne tylko dla PDM. Pamiętaj, że w firmie OCP Insights nie są dostępne dla użytkowników Twojej firmy.
 - Użytkownik-Gość w centrum partnerskim — możesz dodać @microsoft.com konto PDM jako użytkownika-gościa w centrum partnerskim i przypisać do nich rolę administratora odwołań, aby mogli oni wyświetlać i podejmować działania dotyczące odwołań.
 - Tworzenie [nowego użytkownika](./create-user-accounts-and-set-permissions.md#add-a-new-user) w dzierżawie — możesz utworzyć nowego użytkownika w swojej dzierżawie i udostępnić te szczegóły w PDM, aby mogły wyświetlać i działać na odwołaniach podobnych do innych użytkowników referencyjnych na Twoim koncie.
+
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-an-invalid-mpn"></a>Znajdowanie prawidłowego identyfikatora MPN, jeśli konto na komputerze PSC nie jest skojarzone z nieprawidłowym MPN
+
+Jeśli jesteś tutaj, ponieważ zobaczysz baner na komputerze PSC z informacją o problemie związanym z skojarzeniem "PSC nieprawidłowy identyfikator MPN", jesteś w odpowiednim miejscu.
+
+Najpierw Znajdź prawidłowy identyfikator MPN, postępując zgodnie z poniższymi instrukcjami.
+
+- Zaloguj się do konta Centrum partnerskiego
+- Aby zlokalizować identyfikator MPN, skorzystaj ze wskazówek zawartych w [dokumentacji ustawień konta](./partner-center-account-setup.md#locate-your-mpn-id) .
+
+Dalej,
+
+- Jeśli masz PDM, poproś o podanie identyfikatora MPN z prawidłowym IDENTYFIKATORem MPN z konta Centrum partnerskiego.
+- Jeśli nie masz PDM, Wyślij wiadomość e-mail na adres podany na banerze PSC z informacjami o kontach PSC wyświetlanymi na banerze PSC oraz prawidłowym IDENTYFIKATORem MPN z konta Centrum partnerskiego.
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>Zasoby ułatwiające tworzenie i zarządzanie ofertami w centrum partnerskim
 

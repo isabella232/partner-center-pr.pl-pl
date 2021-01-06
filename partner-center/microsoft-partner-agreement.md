@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514759"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916834"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Informacje o umowie partnerskiej firmy Microsoft (MPA) dla partnerów programu CSP
 
@@ -50,7 +50,7 @@ Aby nadal uczestniczyć w programie CSP, należy podpisać umowę Microsoft Part
 
 ## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>Potwierdź, że jesteś zarejestrowanym odsprzedawcą pośrednim w programie CSP
 
-1. Jeśli nie zostało to jeszcze zrobione jako [odsprzedawca pośredni dostawcy CSP](enrolling-in-the-csp-program.md)  w centrum partnerskim, musisz najpierw wykonać tę czynność. Wykonaj pozostałe kroki po zarejestrowaniu jako pośredni odsprzedawcę CSP w centrum partnerskim.
+1. Jeśli nie zostało to jeszcze zrobione jako [odsprzedawca pośredni dostawcy CSP](indirect-reseller-tasks-in-partner-center.md) w centrum partnerskim, musisz najpierw wykonać tę czynność. Wykonaj pozostałe kroki po zarejestrowaniu jako pośredni odsprzedawcę CSP w centrum partnerskim.
 
 1. Zaloguj się do Centrum partnerskiego przy użyciu poświadczeń konta administratora globalnego programu CSP.
 
@@ -83,11 +83,11 @@ Aby sprawdzić, czy zarejestrowano:
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Pobierz przewodnik krok po kroku dotyczący tego, gdzie jesteś w procesie
 
-1. W przypadku migrowania konta usługi MPN z programu PMC do Centrum partnerskiego: [Migrowanie z programu PMC do Centrum partnerskiego i akceptowanie umowy partnerskiej firmy Microsoft](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
+1. W przypadku migrowania konta MPN z witryny PMC do Centrum partnerskiego: [Migrowanie z witryny PMC do Centrum partnerskiego i akceptowanie umowy Microsoft Partner Agreement](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
-2. Jeśli chcesz zarejestrować jako pośredni odsprzedawcę CSP w centrum partnerskim: dołączanie [do członków MPN i umowy partnerskiej firmy Microsoft](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+2. Jeśli chcesz zarejestrować się jako CSP Indirect Reseller w Centrum partnerskim: [Dołączanie członków sieci MPN i umowy Microsoft Partner Agreement](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
 
-3. Aby sprawdzić stan MPA w centrum partnerskim po wykonaniu kroku 1 i/lub kroku 2 powyżej: [Weryfikuj stan akceptacji umowy partnerskiej firmy Microsoft](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+3. Aby sprawdzić stan MPA w Centrum partnerskim po wykonaniu kroku 1 i/lub kroku 2 powyżej: [Weryfikowanie stanu akceptacji umowy Microsoft Partner Agreement](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
 ## <a name="next-steps"></a>Następne kroki
 
