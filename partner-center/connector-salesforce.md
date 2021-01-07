@@ -1,19 +1,19 @@
 ---
 title: Łącznik współsprzedawanego Centrum partnerskiego usług Salesforce CRM
 ms.topic: how-to
-ms.date: 09/29/2020
+ms.date: 01/06/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Zsynchronizuj swoje odwołania w centrum partnerskim z Twoim programem Salesforce CRM. Sprzedawcy mogą następnie współsprzedawać z firmą Microsoft w ramach systemów CRM.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: b73f0b24538daa18b93fa206fce5eda1ab9bc9b9
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
+ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947855"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "97960955"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Łącznik współpracujący z usługą Salesforce CRM — Omówienie
 
@@ -51,7 +51,7 @@ Aby zsynchronizować odwołania w centrum partnerskim i programie Salesforce CRM
 
 3. W usłudze Salesforce Zainstaluj pola niestandardowe i obiekty przy użyciu Instalatora pakietów poniżej.
   
-Przejdź [tutaj](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006Vs9a) , aby zainstalować pakiet w dowolnej firmie:
+Przejdź [tutaj](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) , aby zainstalować pakiet w dowolnej firmie.
 
 
 Uwaga: w przypadku instalowania w piaskownicy należy zamienić początkową część adresu URL na http://test.salesforce.com
@@ -179,7 +179,7 @@ Interfejsy API elementu webhook Centrum partnerskiego umożliwiają rejestrację
 
 9. Upewnij się, że okno "przebieg przepływu" otwiera się w okienku po prawej stronie, a następnie kliknij przycisk **Kontynuuj**.
 
-10. Wprowadź następujące wartości:
+10. Wprowadź następujące informacje:
 
     1. **Punkt końcowy wyzwalacza http**: adres URL skopiowany z wcześniejszego kroku
 
