@@ -301,6 +301,9 @@
         - name: Roszczenia związane ze współpracą w ramach zachęty
           href: claims-overview.md
           displayName: incentives
+        - name: Wyświetl dostępne środki przeznaczone na współpracę
+          href: incentives-view-funds.md
+          displayName: incentives
         - name: Zarządzanie roszczeniami związanymi ze współpracą
           href: create-incentives-claims.md
           displayName: incentives
