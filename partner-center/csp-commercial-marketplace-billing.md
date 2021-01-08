@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c03ab358b8fb6ab0f23ea5f42b9d35c6f6c2b80c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 10592c7f8a3b1f075bc726161603859552b29961
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529967"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979536"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Rozliczanie za komercyjne produkty i subskrypcje w witrynie Marketplace w centrum partnerskim
 
-**Dotyczy**
-
-- Centrum partnerskie
-- Partnerzy w programie CSP
 
 **Odpowiednie role**
 
@@ -35,7 +31,7 @@ Możesz uzyskiwać dostęp do faktur z poziomu [pulpitu nawigacyjnego](https://p
 W przypadku partnerów w programie CSP są naliczane opłaty za komercyjne rozwiązania w portalu Marketplace, które zostały nabyte dla klienta, gdy kupują te produkty z poziomu Centrum partnerskiego lub z Azure Portal (przy użyciu wcześniejszej, zakupionej przez dostawcę CSP dzierżawy platformy Azure).
 
 >[!NOTE]
->Jeśli klienci korzystają z własnej dzierżawy usługi Azure AD (nie zakupionej od partnera w programie CSP), klienci mogą również zakupić własne rozwiązanie SaaS niezależnego dostawcy oprogramowania ([Microsoft AppSource](https://appsource.microsoft.com/) lub [Azure Marketplace](https://azuremarketplace.microsoft.com/)). W takim przypadku otrzymają własny rachunek bezpośrednio od firmy Microsoft. Podobnie, jeśli Partner w programie CSP sprzedaje subskrypcję platformy Azure lub nowy plan platformy Azure dla klienta i przyzna klientowi (lub pośredniemu odsprzedawcy) [dostęp](/azure/role-based-access-control/built-in-roles) do tej dzierżawy (przypisując rolę do klienta oprócz **czytnika** ), ten klient (lub pośredni odsprzedawca) może także zakupić komercyjne oferty rynkowe bez wcześniejszego zatwierdzenia lub powiadomienia do partnera CSP. W takich przypadkach firma Microsoft nie będzie bezpośrednio powiadamiać partnerów w programie CSP o zakupach dokonywanych przez ich klientów. Firma Microsoft oferuje jednak opcjonalny mechanizm [Azure monitor](/azure/azure-monitor/platform/alerts-activity-log) , którego można użyć do ustawiania alertów lub powiadomień dotyczących aktywności w ramach subskrypcji platformy Azure.
+>Jeśli klienci korzystają z własnej dzierżawy usługi Azure AD (nie zakupionej od partnera w programie CSP), klienci mogą również zakupić własne rozwiązanie SaaS niezależnego dostawcy oprogramowania ([Microsoft AppSource](https://appsource.microsoft.com/) lub [Azure Marketplace](https://azuremarketplace.microsoft.com/)). W takim przypadku otrzymają własny rachunek bezpośrednio od firmy Microsoft. Podobnie, jeśli Partner w programie CSP sprzedaje subskrypcję platformy Azure lub nowy plan platformy Azure dla klienta i przyzna klientowi (lub pośredniemu odsprzedawcy) [dostęp](/azure/role-based-access-control/built-in-roles) do tej dzierżawy (przypisując rolę do klienta oprócz **czytnika**), ten klient (lub pośredni odsprzedawca) może także zakupić komercyjne oferty rynkowe bez wcześniejszego zatwierdzenia lub powiadomienia do partnera CSP. W takich przypadkach firma Microsoft nie będzie bezpośrednio powiadamiać partnerów w programie CSP o zakupach dokonywanych przez ich klientów. Firma Microsoft oferuje jednak opcjonalny mechanizm [Azure monitor](/azure/azure-monitor/platform/alerts-activity-log) , którego można użyć do ustawiania alertów lub powiadomień dotyczących aktywności w ramach subskrypcji platformy Azure.
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>Dostęp do informacji dotyczących rozliczeń dla komercyjnych produktów Marketplace
 

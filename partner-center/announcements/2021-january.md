@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/04/2021
-ms.openlocfilehash: 827d4d732e8aa5ff7e343ef3732ff0036eb8d628
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.date: 01/07/2021
+ms.openlocfilehash: 17c4e19216218d070515b34d326dcca6596e94a8
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916800"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979808"
 ---
 # <a name="january-2021-announcements"></a>2021-styczeń anonsów
 
@@ -23,6 +23,64 @@ Na tej stronie znajdują się szczegółowe informacje o anonsach programu Micro
 2021 anonse: [styczeń](2021-january.md)
 
 2020 anonse [: od](2020-may.md)  |  [czerwca](2020-june.md)do  |  [lipca](2020-july.md),  |  [](2020-august.md)  |  [](2020-september.md)  |  [październik](2020-October.md)  |  [](2020-november.md)  |  [](2020-december.md) . Stycznia
+
+________________
+## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="3"></a> Zmiana waluty rozliczeniowej w Unii Europejskiej/EFTA dla nowych ofert handlowych
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-01-07
+- Nowoczesne miejsce pracy
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+- Dostawca bezpośredni, Dostawca pośredni, pośredni odsprzedawca
+- Wszyscy partnerzy przeprowadzają operacje w ramach programu dostawcy rozwiązań w chmurze w regionie UE/EFTA 
+
+### <a name="details"></a>Szczegóły
+
+W regionie Unii Europejskiej (UE)/European wolnego handlu (EFTA) wszystkie nowe oferty handlowe w programie dostawcy rozwiązań w chmurze będą używały lokalizacji rozliczeń partnera zamiast lokalizacji rozliczania klientów. Oznacza to, że partnerzy będą rozliczani przez firmę Microsoft w oparciu o ich walutę lokalizacji, a nie walutę lokalizacji klientów. Ta czynność zostanie wykonana w dwóch fazach:
+
+**Faza 1:**
+
+- Nowy klient kupowający nową ofertę handlową w programie CSP
+
+- Istniejący klienci po raz pierwszy zakup nowych ofert Commerce Services — dzierżawca utworzony przed 11 maja 2020
+
+Począwszy od dwudziestu stycznia 2021, partnerzy, którzy korzystają z nowych klientów, kupują nową ofertę handlową lub istniejącymi klientami z dzierżawcami utworzonymi przed 11 maja 2020 podczas pierwszego zakupu nowych ofert handlowych, będą rozliczani za te zakupy w walucie lokalizacji partnera.  
+
+Partnerzy z istniejącymi klientami, którzy już kupili nowe oferty handlowe w programie CSP, będą nadal rozliczani w walucie lokalizacji rozliczeniowej klienta w trakcie tej fazy. Ponadto partnerzy z istniejącymi klientami dokonującymi pierwszego zakupu nowej oferty handlowej, których dzierżawcy zostały utworzone w dniu lub po 11 maja 2020, będą nadal rozliczani w walucie klienta.
+
+**Faza 2:**
+
+- Dotychczasowi Klienci, którzy już kupili nową ofertę handlową w programie CSP przed fazą 1
+- Istniejący klienci po raz pierwszy zakup nowych ofert Commerce Services — dzierżawca utworzony w dniu lub po 11 maja 2020
+
+Po zakończeniu fazy 1 i w roku kalendarzowym 2021 firma Microsoft przejdzie do rozliczenia nowych ofert handlowych w przypadku partnerów z istniejącymi klientami, którzy kupili nową ofertę handlową w dostawcy usług kryptograficznych przed fazą 1, a także klienci, którzy 2020 utworzyli swoje dzierżawcy w walucie lokalizacji klienta na podstawie waluty lokalizacji partnera. Przed zaimplementowaniem tej zmiany partnerzy otrzymają odpowiednie powiadomienie.
+
+Po fazie 2 partnerzy w regionie UE/EFTA będą rozliczani w walucie lokalizacji partnera dla wszystkich klientów i wszystkich zakupów z dostawcą usług kryptograficznych.
+
+>[!NOTE]
+>Ta zmiana wpłynie tylko na walutę rozliczeń partnera, a nie ceny nowych ofert handlowych w programie CSP.
+
+Nowe oferty handlowe w zakresie tej zmiany są następujące: subskrypcje platformy Azure, które są częścią planu platformy Azure, rezerwacje platformy Azure, subskrypcje serwera, oprogramowanie bezterminowe i komercyjne zakupy firmy Microsoft w programie Cloud Solution Provider.
+
+### <a name="partner-benefits"></a>Korzyści dla partnerów
+
+Ta aktualizacja zmniejsza złożoność i narzuty za korzystanie z wielowalutowych faktur w regionie UE/EFTA na potrzeby nowego środowiska handlowego.
+
+- Partnerzy otrzymają skonsolidowaną fakturę w jednej walucie i nie będą już otrzymywać faktury dla każdej waluty lokalizacji klienta
+- Wypłaty zachęty będą w tej samej walucie co waluta faktury dla partnera
+- Partnerzy będą zauważyć zmniejszoną złożoność rozliczeń spowodowaną przez wielowalutowe fakturowanie, co spowoduje zwolnienie czasu i zasobów skojarzonych obecnie z uzgadnianiem kont
+- W przypadku partnerów, którzy nie przyjęli jeszcze nowych ofert handlowych, ta zmiana jest zgodna z modelem rozliczeń poprzedniego partnera, dzięki czemu partnerzy mogą łatwiej przechodzić do nowego środowiska handlowego w ramach dostawcy usług kryptograficznych.
+
+### <a name="next-steps"></a>Następne kroki
+
+Przejrzyj informacje o tym temacie w [galerii operacji](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (wymagane jest zalogowanie się w witrynie sieci Web partnera firmy Microsoft).  
+
+### <a name="questions"></a>Masz pytania?
+
+W przypadku pytań związanych z tym powiadomieniem [Pomoc techniczna Centrum partnerskiego](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (wymagane jest zalogowanie się).
 
 ________________
 ## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Wycofanie i wycofanie istniejących interfejsów API kwalifikacji i przełączenia do procesu weryfikacji klienta edukacyjnego do końca lutego 2021

@@ -1,7 +1,7 @@
 ---
-title: Cennik i oferty
+title: Ceny i oferty
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Zobacz bieżące cenniki dla usług opartych na licencjach, takich jak Office 365, Microsoft Dynamics CRM i Enterprise Mobility Suite oraz usług opartych na użyciu, takich jak Azure.
@@ -9,18 +9,15 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18c671b7903914bbbca49ded24f54b808833a92e
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92529366"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979825"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Cennik i oferty dla pakietu Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure i innych
 
-**Dotyczy**
-
-- Centrum partnerskie
 
 **Odpowiednie role**
 
@@ -169,7 +166,7 @@ Poniżej znajduje się podsumowanie sposobu działania tych ofert:
 - Subskrypcja nie jest odnawiana i wygasa po 6 latach
 - Częstotliwość rozliczeń w ofercie jest naliczana jako cena roczna, ale przed uzyskaniem subskrypcji partner jest rozliczany na pierwszej fakturze
 - Subskrypcje dla zamówień a1 72-miesiąc są zablokowane po zakupie i nie można ich anulować i nie można dodać do subskrypcji liczby licencji po początkowym zakupie
-- Partnerzy, którzy muszą anulować, muszą utworzyć bilet pomocy technicznej z przyczyną anulowania oraz IDENTYFIKATORem subskrypcji, do których potrzebują pomocy.
+- Ta subskrypcja nie została anulowana i nie podlega zwrotowi.
 
 ## <a name="estimated-retail-price-erp"></a>Szacowana cena detaliczna (ERP)
 
@@ -185,7 +182,7 @@ W przypadku większości cenników uwzględniona jest cena na liście, Cena nali
 |Na podstawie użycia planu platformy Azure  |Ceny to sprzedaż detaliczna niezdyskontowana w arkuszach cen  |
 |Rezerwacje planu platformy Azure  |Odwołania do listy cen usług udostępnionych na platformie Azure  |
 |Subskrypcje oprogramowania  |Wymienione jako MSRP na listach cen subskrypcji oprogramowania  |
-|Portal Marketplace  |Wymienione jako MSRP na listach cen w witrynie Marketplace  |
+|Marketplace  |Wymienione jako MSRP na listach cen w witrynie Marketplace  |
 
 Więcej zasobów: 
 

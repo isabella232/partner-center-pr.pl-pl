@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: fc5a34bbb8326b38c13cc73ca9fff099f9b1c0db
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916834"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979768"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Informacje o umowie partnerskiej firmy Microsoft (MPA) dla partnerów programu CSP
 
@@ -54,7 +54,7 @@ Aby nadal uczestniczyć w programie CSP, należy podpisać umowę Microsoft Part
 
 1. Zaloguj się do Centrum partnerskiego przy użyciu poświadczeń konta administratora globalnego programu CSP.
 
-1. W obszarze **Ustawienia** wybierz pozycję [Profil partnera](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
+1. W obszarze **Ustawienia** wybierz pozycję **Ustawienia konta**, a następnie wybierz pozycję [Profil partnera](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
 
 1. Sprawdź sekcję **Informacje o programie** . Jeśli informacja nie pokazuje stanu **pośredniego odsprzedawcy** , należy [zarejestrować się jako pośredni odsprzedawcy](indirect-reseller-tasks-in-partner-center.md).
 
@@ -79,6 +79,10 @@ Aby sprawdzić, czy zarejestrowano:
 
 >[!NOTE]
 >Tylko administrator globalny w Twojej firmie może wyświetlić i podpisać MPA. Jeśli nie jesteś administratorem globalnym, musisz polecić administratorowi globalnemu zweryfikowanie MPA.
+
+Możesz również sprawdzić, czy podpisano umowę, wybierając pozycję **umowy** z **ustawień konta**.
+
+:::image type="content" source="images/agreements/agreements.png" alt-text="Wskazanie, że MPA jest podpisany":::
 
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Pobierz przewodnik krok po kroku dotyczący tego, gdzie jesteś w procesie

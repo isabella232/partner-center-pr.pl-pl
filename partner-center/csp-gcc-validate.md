@@ -1,5 +1,5 @@
 ---
-title: Pakiet Office 365 dla instytucji rządowych i warunki kwalifikujące klienta
+title: Kryteria kwalifikowania się dla klientów i partnerów usługi Office 365 Government GCC
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cae255b05b00739ee7db15c8ba298df11ca74788
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 8614b321b453d280b8af0c548ea61c049708a6db
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92529306"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979641"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria---partner-center"></a>Pakiet Office 365 dla instytucji rządowych dla partnerów CSP i kryteria kwalifikujące klienta — Centrum partnerskie
-
-**Dotyczy**
-
-- Centrum partnerskie
-- Partnerzy CSP
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Pakiet Office 365 dla instytucji rządowych dla partnerów CSP i kryteria kwalifikujące klienta 
 
 **Odpowiednie role**
 
@@ -32,7 +27,7 @@ ms.locfileid: "92529306"
 >[!NOTE]
 >Proces sprawdzania poprawności i podane poniżej kryteria są specyficzne dla partnerów rozliczania bezpośredniego. Bezpośredni partnerzy rachunków obejmują bezpośrednich odsprzedawcy i dostawców pośrednich.  Jeśli jesteś pośrednim odsprzedawcą, skontaktuj się z dostawcą pośrednim.
 
-Jeśli interesuje Cię swoją organizację (lub organizację klienta) zatwierdzoną dla programu Office 365 dla instytucji rządowych, zapoznaj się z wymaganiami poniżej.
+Jeśli interesuje Cię swoją firmę (lub firmę klienta) zatwierdzoną dla programu Office 365 dla instytucji rządowych, zapoznaj się z wymaganiami poniżej.
 
 Możesz zatwierdzić się, jeśli jesteś partnerem obsługującym instytucje federalne, stanowe, lokalne lub plemiennee instytucji rządowych. Aby organizacje miały uprawnienia do zweryfikowania, Wypełnij zwięzły formularz znajdujący się [tutaj](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
 
@@ -68,3 +63,6 @@ Pakiet Office 365 dla instytucji rządowych dla partnerów CSP i klientów zosta
 
 Międzynarodowy podmiot komercyjny może zakwalifikować się, jeśli spełni wymagania wymienione powyżej i sprawdził obecność USA (na przykład adres wysyłkowy, lokalizacja fizyczna itp.).
 
+## <a name="next-steps"></a>Następne kroki
+
+- [Sprzedaj pakiet Office 365 dla instytucji rządowych dla dostawców CSP dla uprawnionych klientów](csp-gcc-overview.md)

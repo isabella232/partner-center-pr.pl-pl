@@ -1,7 +1,7 @@
 ---
 title: Tworzenie konta w Centrum partnerskim
 ms.topic: article
-ms.date: 08/07/2020
+ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Dowiedz się, jak członkowie Microsoft Partner Network mogą utworzyć konto Centrum partnerskiego, aby zarządzać swoimi korzyściami i kompetencjami sieci.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3f04708d3b7e2c86c88541931c120a6649674fb
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: c7aa97760be9fdb2cc004ffd5612826f777c05c5
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570794"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979740"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Utwórz konto Centrum partnerskiego, aby zarządzać korzyściami i kompetencjami sieci
 
@@ -29,7 +29,7 @@ Aby można było utworzyć konto w centrum partnerskim, firma musi być członki
 
 Firma musi kupić domenę poczty e-mail, aby można było skonfigurować służbowe adresy e-mail dla pracowników. Skontaktuj się z działem IT, aby kupić domenę poczty e-mail, ponieważ jest to proces techniczny. Użyj nowej wiadomości e-mail w celu skonfigurowania dzierżawy usługi Azure AD i konta Centrum partnerskiego.
 
-## <a name="get-started"></a>Wprowadzenie
+## <a name="get-started"></a>Rozpoczęcie pracy
 
 Aby utworzyć konto w centrum partnerskim, musisz korzystać z poniższych informacji. Aby zebrać te elementy przed rozpoczęciem pracy, może być konieczne Poświęć kilka minut:
 
@@ -55,16 +55,20 @@ Będziemy weryfikować te informacje podczas procesu tworzenia konta. Aby uzyska
 
     Jeśli firma nie ma konta służbowego, wybierz pozycję **Utwórz je** , aby skonfigurować ją teraz. Po utworzeniu konta służbowego Zaloguj się przy użyciu poświadczeń administratora globalnego dla właśnie utworzonego konta służbowego.
 
-3.  Podaj lub zaktualizuj firmowy profil firmy oraz podstawowe informacje kontaktowe, a następnie wybierz pozycję **zarejestruj się teraz**. 
+3.  Podaj lub zaktualizuj służbowy profil firmy.
+
+    Możesz odszukać profil firmy lub ręcznie wprowadzić informacje firmowe. Jeśli Twoja firma jest zarejestrowana w usłudze [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), użyj identyfikatora Duns, aby wyszukać informacje o firmie. Jeśli chcesz samodzielnie podać szczegóły swojej firmy, wybierz pozycję **Ręczne**.
+
+4. Po otrzymaniu informacji o firmie wprowadź podstawowe informacje kontaktowe, a następnie wybierz pozycję **zarejestruj się teraz**.
 
     Główną osobą kontaktową powinna być osoba w firmie, która będzie mogła skontaktować się z Twoją aplikacją (może to być ty lub inna osoba w firmie). Będziemy również korzystać z tych informacji w celu sprawdzenia, czy ta osoba pracuje w firmie i która utworzyła konto w centrum partnerskim.
 
     > [!IMPORTANT]  
     > Aby pomóc w zapewnieniu bezpieczeństwa i prywatności firmy, wyślemy wiadomość e-mail do głównej osoby kontaktowej w celu zweryfikowania, że (1) konto Centrum partnerskiego i (2) należy do firmy. Gdy kontakt podstawowy sprawdzi swój adres e-mail, będziemy kontynuować przegląd dostarczonych informacji.
 
-4.  Przeczytaj i zaakceptuj warunki i postanowienia w umowie Microsoft Partner Network. 
+5.  Przeczytaj i zaakceptuj warunki i postanowienia w umowie Microsoft Partner Network. 
 
-5.  Sprawdź, czy dodano Cię do grupy agentów administracyjnych. Aby zakończyć konfigurowanie konta, w tym dodawanie innych użytkowników, musisz mieć uprawnienia agenta administratora. Wykonaj następujące kroki, aby wyświetlić lub zaktualizować swoje uprawnienia:
+6.  Sprawdź, czy dodano Cię do grupy agentów administracyjnych. Aby zakończyć konfigurowanie konta, w tym dodawanie innych użytkowników, musisz mieć uprawnienia agenta administratora. Wykonaj następujące kroki, aby wyświetlić lub zaktualizować swoje uprawnienia:
 
     a. Na [pulpicie nawigacyjnym](https://partner.microsoft.com/dashboard/home**)Centrum partnerskiego wybierz ikonę **Ustawienia** , a następnie wybierz pozycję **Zarządzanie użytkownikami**.  
 

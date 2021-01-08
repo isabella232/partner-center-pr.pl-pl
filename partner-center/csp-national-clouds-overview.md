@@ -9,14 +9,24 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9d5d0841914f0a8a5dc155307b177606a4a6de6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 386df8e19a7c66403770f94f2656bc52feb15564
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529943"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979570"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Zastosuj do sprzedawcy w chmurach narodowych firmy Microsoft w ramach programu CSP
+
+**Dotyczy**
+
+- Centrum partnerskie w chmurze firmy Microsoft dla instytucji rządowych
+- Centrum partnerskie dla Microsoft Cloud (Niemcy)
+
+
+**Odpowiednie role**
+
+- Administrator globalny
 
 Oprócz sprzedaży do klientów w ramach globalnego programu dostawcy rozwiązań w chmurze, wykwalifikowany partnerzy firmy Microsoft mogą również sprzedawać rozwiązania w chmurze klientom w trzech oddzielnych chmurach narodowych. Chmury krajowe to fizyczne i logiczne wystąpienia usług w chmurze firmy Microsoft przedsiębiorstwa, które są ograniczone do granic geograficznych określonych krajów i obsługiwanych przez personel lokalny. 
 
@@ -24,7 +34,7 @@ Aby uzyskać więcej informacji o ofercie krajowej chmury firmy Microsoft, zobac
 
 Firma Microsoft udostępnia te usługi w chmurach narodowych:
 
--   Microsoft Azure usługi w zakresie oferują rozwiązania do skalowania, magazynowania, sieci i zarządzania tożsamościami. Platforma Azure zapewnia ochronę danych w chmurze zgodnie z poziomem zabezpieczeń, prywatności, kontroli, zgodności i przejrzystości.
+-   Microsoft Azure usługi w zakresie oferują funkcje skalowania, magazynowania, sieci i zarządzania tożsamościami. Platforma Azure zapewnia ochronę danych w chmurze zgodnie z poziomem zabezpieczeń, prywatności, kontroli, zgodności i przejrzystości.
 
 -   Microsoft Dynamics 365 to oparte na chmurze rozwiązanie do zarządzania relacjami z klientami (CRM) służące do wyposażania pracowników w dane, modelowanie i przepływy pracy, oferując funkcje zabezpieczeń, które mogą ograniczać dostęp do poufnych danych.
 
@@ -49,3 +59,7 @@ Zakwalifikowani partnerzy mogą sprzedawać rozwiązania firmy Microsoft w chmur
     Firma Microsoft jest dostawcą technologii, ale nie działa z usługą; Firma 21Vianet niezależnie działa, zapewnia i zarządza dostarczaniem usług w chmurze firmy Microsoft. Korzystając z licencjonowania technologii firmy Microsoft, firma 21Vianet może oferować usługi platformy Azure i pakietu Office 365 i obsługiwać centra danych platformy Azure i pakietu Office 365, które przechowują dane w Chinach kontynentalnej. Ponadto usługa 21Vianet oferuje usługi subskrypcyjne i rozliczeniowe oraz pomoc techniczną.
 
     Aby dowiedzieć się, jak zarejestrować się w usłudze i sprzedawać klientom na platformie Azure oraz w pakiecie Office 365 obsługiwanym przez firmę 21Vianet w Chinach, zobacz [Centrum partnerskie obsługiwane przez firmę 21Vianet](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11)).
+
+## <a name="next-steps"></a>Następne kroki
+
+- [Często zadawane pytania dotyczące Centrum partnerskiego Microsoft Cloud dla instytucji rządowych USA](faq-for-us-govt-cloud.md)
