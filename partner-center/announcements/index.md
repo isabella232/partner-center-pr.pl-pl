@@ -8,20 +8,23 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 7cc78142e05667ca9072b25fb5ed94822d5f7c62
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.date: 01/04/2021
+ms.openlocfilehash: 754fbb58c2344ad09c6f9b72b36afc62eda38b71
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736548"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916817"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
 Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często aktualizujemy te informacje, więc warto tu wracać!
 
-| **Kategoria** | **Ogłoszenia z grudnia 2020 r.** | **Ogłoszone** |
+| **Kategoria** | **Ogłoszenia ze stycznia 2021 r.** | **Ogłoszone** |
 |---------|:---------|:---------|
+|Możliwości|[Wycofanie istniejących interfejsów API kwalifikacji GET i PUT na potrzeby procesu walidacji klienta edukacyjnego do końca lutego 2021 r.](2021-january.md#2)|5 stycznia|
+|Oferty/rynki|[Oferty usługi Dynamics 365 w lutym 2021 r.](2021-january.md#1)|4 stycznia|
+| **Kategoria** | **Ogłoszenia z grudnia 2020 r.** | **Ogłoszone** |
 |Oferty|[Przesunięcie niewykorzystanych środków w ramach programu zachęt dla kanału z funduszu na działania w obszarze marketingu kooperacyjnego z okresu H1 roku obrachunkowego 2021 na okres H2 roku obrachunkowego 2021](2020-december.md#13)|22 grudnia|
 |Możliwości|[Migracja DocuSign do programu Adobe Sign w 2021 r. dla partnerów, którzy mają umowy Microsoft Partner Agreement (MPA)](2020-december.md#12)|22 grudnia|
 |Oferty/rynki|[Harmonogramy cen i katalogów na styczeń 2021](2020-december.md#11)|22 grudnia|
