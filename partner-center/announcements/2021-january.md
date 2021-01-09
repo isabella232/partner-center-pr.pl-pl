@@ -1,5 +1,5 @@
 ---
-title: 2021-styczeń anonsów
+title: Ogłoszenia ze stycznia 2021 r.
 description: Styczeń 2021 anonsów dla Centrum partnerskiego firmy Microsoft, w tym nowych możliwości, promocji, ofert, rynków lub zmian istniejących ofert.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,14 +9,14 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/07/2021
-ms.openlocfilehash: 17c4e19216218d070515b34d326dcca6596e94a8
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 0f03ae17b9dd4b7a9097c7531dc6b519de70acef
+ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979808"
+ms.locfileid: "98041011"
 ---
-# <a name="january-2021-announcements"></a>2021-styczeń anonsów
+# <a name="january-2021-announcements"></a>Ogłoszenia ze stycznia 2021 r.
 
 Na tej stronie znajdują się szczegółowe informacje o anonsach programu Microsoft Partner Center dla stycznia 2021.
 
@@ -25,21 +25,59 @@ Na tej stronie znajdują się szczegółowe informacje o anonsach programu Micro
 2020 anonse [: od](2020-may.md)  |  [czerwca](2020-june.md)do  |  [lipca](2020-july.md),  |  [](2020-august.md)  |  [](2020-september.md)  |  [październik](2020-October.md)  |  [](2020-november.md)  |  [](2020-december.md) . Stycznia
 
 ________________
+
+## <a name="license-base-price-list-updates-for-january-2021"></a><a name="4"></a>Licencja — aktualizacje cennika podstawowego dla 2021 stycznia 
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-01-08
+- Oferty/rynki
+
+### <a name="summary"></a>Podsumowanie
+
+Cennik z stycznia i lutego dla ofert opartych na licencji został zaktualizowany w celu skorygowania niektórych nieprawidłowych cen cennika.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Wszyscy partnerzy przeprowadzają Operacje transakcyjne przez program Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Szczegóły 
+
+Cennik usługi na podstawie licencji dla stycznia 2021 i lutego 2021 obejmował kilka nieprawidłowych cen cennika. Poniższe oferty i waluty są poniżej. Prawidłowe ceny zostały zaktualizowane i dostępne od 7 stycznia 2021 2PM PST (pacyficzny czas standardowy). 
+
+   |**Nazwa oferty**|**Identyfikator oferty**|**Identyfikator materiału**|
+   |-------------------|:------|:------|
+   |Microsoft 365 E3|2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091|AAA-35638| 
+   |Microsoft 365 Business podstawowa|bd938f12-058F-4927-bba3-ae36b1d2501c|AAA-10624|
+
+Mają wpływ waluty: 
+
+- Problemy z cenami Microsoft 365 E3 były ograniczone tylko do tych walut: JPY (japoński Jena), GBP (Wielka Brytania), EUR (Unia Europejska), AUD (Dolar australijski). 
+- Microsoft 365 Business podstawowe problemy były ograniczone tylko do USD (Stany Zjednoczone dolarów). 
+
+Partnerzy powinni odwoływać się do obecnie dostępnych cenników z stycznia i lutego, aby sprawdzić poprawność cen. 
+
+### <a name="next-steps"></a>Następne kroki
+
+- Partnerzy powinni pobrać najnowsze pliki cennika z Centrum partnerskiego w celu uzyskania skorygowanych cen w styczniu i lutym. 
+- Administratorzy globalni dla dzierżawców, którzy zakupili subskrypcje od 1 stycznia do 6 stycznia, będą powiadamiani za pośrednictwem poczty e-mail Centrum partnerskiego przed końcem stycznia z dodatkowymi informacjami. 
+
+_____________ 
+
 ## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="3"></a> Zmiana waluty rozliczeniowej w Unii Europejskiej/EFTA dla nowych ofert handlowych
 
 ### <a name="categories"></a>Kategorie
 
 - Data: 2021-01-07
-- Nowoczesne miejsce pracy
+- Możliwości
 
 ### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
 
-- Dostawca bezpośredni, Dostawca pośredni, pośredni odsprzedawca
 - Wszyscy partnerzy przeprowadzają operacje w ramach programu dostawcy rozwiązań w chmurze w regionie UE/EFTA 
 
 ### <a name="details"></a>Szczegóły
 
-W regionie Unii Europejskiej (UE)/European wolnego handlu (EFTA) wszystkie nowe oferty handlowe w programie dostawcy rozwiązań w chmurze będą używały lokalizacji rozliczeń partnera zamiast lokalizacji rozliczania klientów. Oznacza to, że partnerzy będą rozliczani przez firmę Microsoft w oparciu o ich walutę lokalizacji, a nie walutę lokalizacji klientów. Ta czynność zostanie wykonana w dwóch fazach:
+W regionie Unii Europejskiej (UE)/European wolnego handlu (EFTA) wszystkie nowe oferty handlowe w programie dostawcy rozwiązań w chmurze będą używały lokalizacji rozliczeń partnera zamiast lokalizacji rozliczania klientów. W związku z tym partnerzy będą rozliczani przez firmę Microsoft w oparciu o ich walutę lokalizacji, a nie walutę lokalizacji klientów. Ta czynność zostanie wykonana w dwóch fazach:
 
 **Faza 1:**
 
@@ -47,7 +85,7 @@ W regionie Unii Europejskiej (UE)/European wolnego handlu (EFTA) wszystkie nowe 
 
 - Istniejący klienci po raz pierwszy zakup nowych ofert Commerce Services — dzierżawca utworzony przed 11 maja 2020
 
-Począwszy od dwudziestu stycznia 2021, partnerzy, którzy korzystają z nowych klientów, kupują nową ofertę handlową lub istniejącymi klientami z dzierżawcami utworzonymi przed 11 maja 2020 podczas pierwszego zakupu nowych ofert handlowych, będą rozliczani za te zakupy w walucie lokalizacji partnera.  
+Od 28 stycznia 2021 partnerzy, którzy korzystają z nowych klientów, kupują nową ofertę handlową lub istniejącymi klientami z dzierżawcami utworzonymi przed 11 maja, 2020 podczas pierwszego zakupu nowych ofert handlowych, będą rozliczani za te zakupy w walucie lokalizacji partnera.  
 
 Partnerzy z istniejącymi klientami, którzy już kupili nowe oferty handlowe w programie CSP, będą nadal rozliczani w walucie lokalizacji rozliczeniowej klienta w trakcie tej fazy. Ponadto partnerzy z istniejącymi klientami dokonującymi pierwszego zakupu nowej oferty handlowej, których dzierżawcy zostały utworzone w dniu lub po 11 maja 2020, będą nadal rozliczani w walucie klienta.
 
@@ -61,9 +99,8 @@ Po zakończeniu fazy 1 i w roku kalendarzowym 2021 firma Microsoft przejdzie do 
 Po fazie 2 partnerzy w regionie UE/EFTA będą rozliczani w walucie lokalizacji partnera dla wszystkich klientów i wszystkich zakupów z dostawcą usług kryptograficznych.
 
 >[!NOTE]
->Ta zmiana wpłynie tylko na walutę rozliczeń partnera, a nie ceny nowych ofert handlowych w programie CSP.
+>Ta zmiana wpłynie tylko na walutę rozliczeń partnera, a nie ceny nowych ofert handlowych w programie CSP. Nowe oferty handlowe w zakresie tej zmiany są następujące: subskrypcje platformy Azure, które są częścią planu platformy Azure, rezerwacje platformy Azure, subskrypcje serwera, oprogramowanie bezterminowe i komercyjne zakupy firmy Microsoft w programie Cloud Solution Provider.
 
-Nowe oferty handlowe w zakresie tej zmiany są następujące: subskrypcje platformy Azure, które są częścią planu platformy Azure, rezerwacje platformy Azure, subskrypcje serwera, oprogramowanie bezterminowe i komercyjne zakupy firmy Microsoft w programie Cloud Solution Provider.
 
 ### <a name="partner-benefits"></a>Korzyści dla partnerów
 
@@ -82,6 +119,13 @@ Przejrzyj informacje o tym temacie w [galerii operacji](https://partner.microsof
 
 W przypadku pytań związanych z tym powiadomieniem [Pomoc techniczna Centrum partnerskiego](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (wymagane jest zalogowanie się).
 
+### <a name="change-log"></a>Dziennik zmian
+
+- 17 listopada 2020: Oryginalna publikacja
+ 
+- 7 stycznia 2021: dodatkowy scenariusz uwzględniony dla fazy 1 i fazy 2
+
+
 ________________
 ## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Wycofanie i wycofanie istniejących interfejsów API kwalifikacji i przełączenia do procesu weryfikacji klienta edukacyjnego do końca lutego 2021
 
@@ -91,9 +135,9 @@ Partnerzy sprzedający oferty akademickie za pośrednictwem programu Cloud Solut
 
 ### <a name="details"></a>Szczegóły 
 
-Jest to krok do ulepszeń interfejsu API wydanych w grudniu 2020. W grudniu 2020 zostały wydane nowe interfejsy API GET i POST kwalifikacji, a w związku z tym starego interfejsu API uzyskiwania i UMIESZCZAnia kwalifikacji zostaną wycofane przed końcem lutego 2021. W tym czasie trzeba będzie użyć nowych interfejsów API pobierania i publikowania w celu umożliwienia zakupu ofert edukacyjnych. 
+Jest to krok do ulepszeń interfejsu API wydanych w grudniu 2020. W grudniu 2020 zostały wydane nowe interfejsy API GET i POST kwalifikacji, a w związku z tym starego interfejsu API uzyskiwania i UMIESZCZAnia kwalifikacji zostaną wycofane na koniec lutego 2021. W tym czasie trzeba będzie użyć nowych interfejsów API pobierania i publikowania w celu umożliwienia zakupu ofert edukacyjnych. 
 
-## <a name="next-steps"></a>Następne kroki
+### <a name="next-steps"></a>Następne kroki
 
 - Jeśli jeszcze tego nie zrobiono, zaktualizuj nowe interfejsy API, aby przejść pomyślnie i w odpowiednim czasie.
 - Przejrzyj nowe zmiany w interfejsie API Centrum partnerskiego i zapoznaj się z [przewodnikiem dotyczącym gotowości operacji: Centrum partnerskie — ulepszenia procesów weryfikacji klienta](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
@@ -157,7 +201,7 @@ Te jednostki SKU zostały usunięte z cennika ostatecznej 1 stycznia 2021 i nie 
    |Operacje usługi Dynamics 365 — program do migracji z urządzenia dla systemu AX|8c8b7c8f-cb3a-4737-8319-1752938c7be3|
    |Członkowie zespołu Dynamics 365 dla programu do migracji systemu AX|1eb3ad0b-9de3-419d-8bfe-0d61bdd945b2|
 
-## <a name="next-steps"></a>Następne kroki
+### <a name="next-steps"></a>Następne kroki
 
 Zapoznaj się z zasobami dotyczącymi tego tematu i udostępnij je odpowiednim udziałowcom w organizacji. 
 
