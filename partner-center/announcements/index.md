@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 754fbb58c2344ad09c6f9b72b36afc62eda38b71
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: 93deb404cd056aab2a14015a4c89fad22f9d0c72
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916817"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979791"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
@@ -22,6 +22,7 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 
 | **Kategoria** | **Ogłoszenia ze stycznia 2021 r.** | **Ogłoszone** |
 |---------|:---------|:---------|
+|Nowoczesne miejsce pracy|[Zmiana waluty rozliczeniowej partnerów w przypadku nowych ofert komercyjnych w UE/ESWH](2021-january.md#3)|7 stycznia|
 |Możliwości|[Wycofanie istniejących interfejsów API kwalifikacji GET i PUT na potrzeby procesu walidacji klienta edukacyjnego do końca lutego 2021 r.](2021-january.md#2)|5 stycznia|
 |Oferty/rynki|[Oferty usługi Dynamics 365 w lutym 2021 r.](2021-january.md#1)|4 stycznia|
 | **Kategoria** | **Ogłoszenia z grudnia 2020 r.** | **Ogłoszone** |
