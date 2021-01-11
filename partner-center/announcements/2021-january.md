@@ -9,22 +9,81 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/07/2021
-ms.openlocfilehash: 0f03ae17b9dd4b7a9097c7531dc6b519de70acef
-ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
+ms.openlocfilehash: 042ef617bfde17c1a28ab91d89ae9151e339cefc
+ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "98041011"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "98062454"
 ---
 # <a name="january-2021-announcements"></a>Ogłoszenia ze stycznia 2021 r.
 
 Na tej stronie znajdują się szczegółowe informacje o anonsach programu Microsoft Partner Center dla stycznia 2021.
 
-2021 anonse: [styczeń](2021-january.md)
+2021 anonse: styczeń
 
-2020 anonse [: od](2020-may.md)  |  [czerwca](2020-june.md)do  |  [lipca](2020-july.md),  |  [](2020-august.md)  |  [](2020-september.md)  |  [październik](2020-October.md)  |  [](2020-november.md)  |  [](2020-december.md) . Stycznia
+2020 anonse [: od](2020-may.md)  |  [czerwca](2020-june.md)do  |  [lipca](2020-july.md),  |  [](2020-august.md)  |  [](2020-september.md)  |  [październik](2020-October.md)  |  [](2020-november.md)  |  [](2020-december.md) .  
+
+_____________ 
+
+## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="6"></a>Komercyjna Aktualizacja cen dla Rupia indyjskich 
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-01-08
+- Oferty/rynki
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Partnerzy programu CSP w języku Indii.
+
+### <a name="details"></a>Szczegóły 
+
+Firma Microsoft wprowadza zmiany na liście cen Rupia (indyjskich) w celu wyrównania cen dla oprogramowania komercyjnego i Usługi online w Indiach i regionie azjatyckim.
+
+Pełny anons jest dostępny tylko dla partnerów firmy Microsoft. [Zaloguj się, aby uzyskać dostęp do pełnego anonsu](https://partner.microsoft.com/resources/detail/price-update-indian-rupee.pdf).
 
 ________________
+
+## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="5"></a>Wywołanie planu i aktualizacji systemu telefonicznego od 1 lutego 20201
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-01-08
+- Oferty/rynki
+
+### <a name="summary"></a>Podsumowanie
+
+Oferta dodatku do Microsoft 365, która będzie obejmować system telefonii i krajowy plan rozmówcy oraz autonomiczny plan wywoływania wewnętrznego, będzie dostępna wkrótce w celu wybrania krajów.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Wszyscy partnerzy przeprowadzają Operacje transakcyjne przez program Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Szczegóły 
+
+Oferta dodatku dołączonego do oferty Microsoft 365 E1, E3 i E5 będzie obejmować system telefonii i krajowy plan wywoływania. Ponadto dostępna jest oferta nowej autonomicznego planu telefonicznego w ramach platformy E5. Nowe oferty będą dostępne tylko dla klientów w Stanach Zjednoczonych, Portoryko i Kanadzie. w przypadku pozostałych krajów i terytoriów istniejące globalne jednostki SKU i ceny pozostają bez zmian. 
+
+Oferty te będą dostępne dla komercyjnych, studentów, wykładowców, chmurowych instytucji rządowych i klientów niedochodowych w Stanach Zjednoczonych, Portoryko i Kanadzie. Plany wywoływania nie są dostępne na żadnym z pozostałych terytoriów USA.
+
+   |**Nazwa oferty**|**Identyfikator oferty**|**Identyfikator materiału**|
+   |-------------------|:------|:------|
+   |Microsoft Teams wywołuje podstawowe informacje dla Stanów Zjednoczonych i Kanady|1ee81de6-4d8b-4cf1-b926-2fd2a774a4ca|8N2-00010|
+   |Microsoft Teams wywołuje podstawowe informacje dla Stanów Zjednoczonych i Kanady (cennik dla pracowników niedochodowych)|0c2ece0d-39b7-40ec-8c08-87c2b6c75d62|8N2-00011|
+   |Microsoft Teams wywołujące podstawy dla Stanów Zjednoczonych i Kanady dla wykładowców|b8baa3b8-8cc2-4f26-a212-7fbeb28e7895|8N3-00003|
+   |Microsoft Teams wywołuje podstawowe informacje dla uczniów i Kanady dla studentów|26956da8-eeb5-44e3-aa79-d36e0e42b930|8N3-00004|
+   |Microsoft Teams wywołuje podstawowe informacje dla Stanów Zjednoczonych i Kanady dla instytucji w zatoce|7a2e2d5a-41b5-4b20-a0d1-0d06d34b5fe1|8N4-00002|
+   |Microsoft 365 krajowego planu wywoływania dla Stanów Zjednoczonych i Kanady|60d2919e-427a-46c9-bd03-89cbad27d53f|TK2-00050|
+   |Microsoft 365 krajowego planu wywoływania dla wykładowców dla Stanów Zjednoczonych i Kanady|602e7548-375b-4e01-bf79-a9a8b8ff16d4|LM7-00006|
+   |Microsoft 365 krajowy plan wywoływania dla studentów dla Stanów Zjednoczonych i Kanady|1f4b4375-3185-40cf-b044-117fe3b102c6|LM7-00007|
+   |Microsoft 365 krajowy plan wywoływania dla instytucji Microsoft w Stanach Zjednoczonych i Kanadzie|594ed84e-ddf8-4e40-9726-76c04bd29e3b|LM9-00023|
+
+### <a name="next-steps"></a>Następne kroki
+
+- Podziel się tymi informacjami z odpowiednimi kontaktami w organizacji i zapoznaj się z możliwością sprzedaży i sprzedaży w sprzedaży. 
+- Zapoznaj się z sekcją Resources [podręcznika partnera zespołów](https://aka.ms/teamscallingmeetingsguide).
+
+_____________ 
 
 ## <a name="license-base-price-list-updates-for-january-2021"></a><a name="4"></a>Licencja — aktualizacje cennika podstawowego dla 2021 stycznia 
 
@@ -77,7 +136,7 @@ _____________
 
 ### <a name="details"></a>Szczegóły
 
-W regionie Unii Europejskiej (UE)/European wolnego handlu (EFTA) wszystkie nowe oferty handlowe w programie dostawcy rozwiązań w chmurze będą używały lokalizacji rozliczeń partnera zamiast lokalizacji rozliczania klientów. W związku z tym partnerzy będą rozliczani przez firmę Microsoft w oparciu o ich walutę lokalizacji, a nie walutę lokalizacji klientów. Ta czynność zostanie wykonana w dwóch fazach:
+W regionie Unii Europejskiej (UE)/European wolnego handlu (EFTA) wszystkie nowe oferty handlowe w programie dostawcy rozwiązań w chmurze będą używały lokalizacji rozliczeń partnera zamiast lokalizacji rozliczania klientów. W związku z tym partnerzy będą rozliczani przez firmę Microsoft w oparciu o ich walutę lokalizacji, a nie walutę lokalizacji klientów. Te zmiany zostaną wykonane w dwóch fazach:
 
 **Faza 1:**
 
@@ -94,7 +153,7 @@ Partnerzy z istniejącymi klientami, którzy już kupili nowe oferty handlowe w 
 - Dotychczasowi Klienci, którzy już kupili nową ofertę handlową w programie CSP przed fazą 1
 - Istniejący klienci po raz pierwszy zakup nowych ofert Commerce Services — dzierżawca utworzony w dniu lub po 11 maja 2020
 
-Po zakończeniu fazy 1 i w roku kalendarzowym 2021 firma Microsoft przejdzie do rozliczenia nowych ofert handlowych w przypadku partnerów z istniejącymi klientami, którzy kupili nową ofertę handlową w dostawcy usług kryptograficznych przed fazą 1, a także klienci, którzy 2020 utworzyli swoje dzierżawcy w walucie lokalizacji klienta na podstawie waluty lokalizacji partnera. Przed zaimplementowaniem tej zmiany partnerzy otrzymają odpowiednie powiadomienie.
+Po zakończeniu fazy 1 i w roku kalendarzowym 2021 firma Microsoft przejdzie do rozliczenia nowych ofert handlowych dla partnerów z istniejącymi klientami, którzy kupili nową ofertę handlową w dostawcy usług kryptograficznych przed fazą 1, a także klienci, którzy 2020 utworzyli swoje dzierżawcy w walucie lokalizacji klienta na podstawie waluty lokalizacji partnera. Przed zaimplementowaniem tej zmiany partnerzy otrzymają odpowiednie powiadomienie.
 
 Po fazie 2 partnerzy w regionie UE/EFTA będą rozliczani w walucie lokalizacji partnera dla wszystkich klientów i wszystkich zakupów z dostawcą usług kryptograficznych.
 
@@ -122,7 +181,6 @@ W przypadku pytań związanych z tym powiadomieniem [Pomoc techniczna Centrum pa
 ### <a name="change-log"></a>Dziennik zmian
 
 - 17 listopada 2020: Oryginalna publikacja
- 
 - 7 stycznia 2021: dodatkowy scenariusz uwzględniony dla fazy 1 i fazy 2
 
 
@@ -170,7 +228,7 @@ Firma Microsoft ogłasza przyszłe zmiany oferty usługi Dynamics 365, które zo
 
 **Dodatkowa odpowiedź dla klienta Dynamics 365**
 
-1 lutego 2021, firma Microsoft utworzy nową ofertę "dodatkowa odpowiedź" z 1 K. uprawnienie do odpowiedzi na zastępowanie istniejącej oferty przez 2 K odpowiedzi na ankietę, a koniec sprzedaży będzie miało 1 lutego 2021.
+1 lutego 2021, firma Microsoft utworzy nową ofertę "dodatkowa odpowiedź" z uprawnieniem do odpowiedzi 1-K na zamienienie istniejącej oferty z odpowiedziami na ankietę 2-K, a koniec sprzedaży będzie miał 1 lutego 2021.
 
 Aby uzyskać szczegółowe informacje o jednostce SKU, zobacz kartę "Customer Voice dodatkowe komp" w [dokumencie programu Dynamics CSP Offers-February 2021](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) . Aby uzyskać więcej informacji, zobacz [stronę główną usługi Microsoft Dynamics 365 Customer Voice](https://dynamics.microsoft.com/en-us/customer-voice/overview/) .
 
