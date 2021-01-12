@@ -1,7 +1,7 @@
 ---
 title: Dodawanie dodatkowych dzierżawców do konta Centrum partnerskiego
 ms.topic: article
-ms.date: 07/30/2020
+ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, jak dodawać i konsolidować wiele dzierżawców usługi Azure AD na koncie Centrum partnerskiego oraz zarządzać nimi. Dowiedz się również kilka przyczyn, które warto wykonać.
@@ -9,18 +9,15 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9379ce6b27a8ef6e5d6894a0630745794e04e04
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 22f85bda0a651559da1717ae1e5365da40d62aff
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530513"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105560"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Dodawanie wielu dzierżawców i zarządzanie nimi na koncie Centrum partnerskiego
 
-**Dotyczy**
-
-- Centrum partnerskie
 
 **Odpowiednie role**
 
@@ -42,7 +39,7 @@ Ta funkcja pozwala zarządzać wieloma dzierżawami dla firmy i konsolidować je
 ## <a name="add-another-azure-ad-tenant-to-your-account"></a>Dodaj kolejną dzierżawę usługi Azure AD do swojego konta
 
 1. Jako Administrator globalny Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
-1. Na ikonie **ustawień** wybierz pozycję **Ustawienia konta** , a następnie wybierz pozycję **dzierżawy** .
+1. Na ikonie **ustawień** wybierz pozycję **Ustawienia konta** , a następnie wybierz pozycję **dzierżawy**.
  
 :::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="Kojarzenie dzierżawców"::: 
 
@@ -50,15 +47,36 @@ Ta funkcja pozwala zarządzać wieloma dzierżawami dla firmy i konsolidować je
 
 1. Jako Administrator globalny Zaloguj się do dzierżawy, którą chcesz skojarzyć, i Potwierdź skojarzenie. 
 
-:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Kojarzenie dzierżawców"::: 
+:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Potwierdź kojarzenie dzierżawców"::: 
 
-5. Po potwierdzeniu zostanie wyświetlona informacja o **zestawie** .  Wybierz opcję **Wróć do zarządzania dzierżawcą** i zobaczysz nowo dodaną dzierżawę na liście. 
+5. Po potwierdzeniu zostanie wyświetlona informacja o **zestawie** .  Wybierz pozycję **Wróć do zarządzania dzierżawcą** i zobaczysz nowo dodaną dzierżawę na liście. 
  
 
 >[!NOTE]
 >Nie można skojarzyć dzierżawy z kontem, jeśli jest ono już skojarzone z innym kontem Centrum partnerskiego.
 
+
+## <a name="remove-a-tenant-from-your-account"></a>Usuwanie dzierżawy z konta
  
+1. Jako Administrator globalny Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
+
+1. Na ikonie **ustawień** wybierz pozycję **ustawienia konta** — > dzierżawców i kliknij kartę **partner** .
+ 
+3. Kliknij pozycję Usuń dla dzierżawy, którą chcesz **usunąć** skojarzenie.
+
+4. Skojarzenie dzierżawy oznacza, że użytkownicy tej dzierżawy nie będą już mieli dostępu do konta Centrum partnerskiego i mogą mieć wpływ na swoje kompetencje. 
+
+Przycisk **Usuń** jest włączony dla wszystkich skojarzonych dzierżawców, z wyjątkiem głównej dzierżawy i dzierżawy, do której użytkownik jest obecnie zalogowany.
+
+:::image type="content" source="images/disassociate.png" alt-text="dzierżawcy z przyciskiem Usuń":::
+ 
+
 ## <a name="next-steps"></a>Następne kroki
 
 - [Dodaj użytkowników](create-user-accounts-and-set-permissions.md)
+
+
+
+
+
+

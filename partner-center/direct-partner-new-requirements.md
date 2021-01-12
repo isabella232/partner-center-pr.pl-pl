@@ -9,22 +9,22 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 12/15/2020
-ms.openlocfilehash: 7efd3ab2303f66fbd2b02e872e51be6c0e64993c
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 9c2ec0c7204a275f6b32e75b86eae775eb87bb55
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514711"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105532"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Wymagania dotyczące rejestracji jako partner CSP rozliczający się bezpośrednio
 
-**Dotyczy**
+**Odpowiednie role**
 
-- Bezpośredni partnerzy Bill w programie dostawcy rozwiązań w chmurze
+- Administrator globalny
 
 ## <a name="enroll-as-a-direct-partner"></a>Zarejestruj się jako partner bezpośredni
 
-Jako bezpośredni partner rozliczeniowy jesteś członkiem kompleksowej relacji z klientem i firmą Microsoft. Jako bezpośredni partner rozliczeniowy jesteś członkiem kompleksowej relacji z klientem i firmą Microsoft. Zaktualizowaliśmy wymagania dotyczące rejestracji dla partnerów bezpośrednich rozliczeń od 27 października 2020. Te wymagania ułatwią zwiększenie rozwoju firmy przy użyciu odpowiedniego modelu dostawcy rozwiązań w chmurze i wzmocnienie relacji z klientami dzięki usługom i obsłudze.  
+Jako bezpośredni partner rozliczeniowy jesteś członkiem kompleksowej relacji z klientem i firmą Microsoft. Zaktualizowaliśmy wymagania dotyczące rejestracji dla partnerów bezpośrednich rozliczeń od 27 października 2020. Te wymagania ułatwią zwiększenie rozwoju firmy przy użyciu odpowiedniego modelu dostawcy rozwiązań w chmurze i wzmocnienie relacji z klientami dzięki usługom i obsłudze.  
 
 ### <a name="minimum-requirements"></a>Minimalne wymagania
 
