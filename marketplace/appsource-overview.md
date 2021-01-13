@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 9559e1e2b0511d52b1535efa6513bbb61c6c5fec
-ms.sourcegitcommit: 0dfbb9717bd67f710652e4af11867857c930b2fa
+ms.openlocfilehash: 652873492452d19e2a6f71607233989a16f04815
+ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/25/2020
-ms.locfileid: "97771696"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98146391"
 ---
 # <a name="what-is-microsoft-appsource"></a>Co to jest usługa Microsoft AppSource?
 
@@ -48,7 +48,18 @@ Dostawca oprogramowania definiuje cenę, umowę licencyjną użytkownika końcow
 
 ## <a name="discover-saas-and-m365-integrated-apps"></a>Odkrywanie zintegrowanych aplikacji SaaS i M365
 
-Nasi partnerzy mogą łączyć się z aplikacjami zintegrowanymi z SaaS i M365. Dzięki temu możesz pobierać aplikacje zintegrowane i korzystać z nich podczas uzyskiwania połączonej aplikacji SaaS. W takim przypadku wyniki wyszukiwania mogą zwrócić tylko aplikację SaaS, która przedstawia ikony zintegrowanych aplikacji, które są z nim dołączone. Możesz nawigować między programem SaaS i zintegrowaną aplikacją na stronie Szczegóły produktu każdego z nich. Jeśli aplikacja SaaS wymaga zakupu, zobacz [Jak kupić oferty SaaS na Microsoft AppSource](purchase-software-appsource.md).
+Nasi partnerzy mogą łączyć się między aplikacją SaaS i odpowiednimi dodatkami dla Microsoft 365. Pozwala to na pobranie i użycie dodatków z określonych usług Microsoft 365 lub produktów, które zostaną połączone z dodatkami.
+
+W takim przypadku wyniki wyszukiwania mogą zwrócić tylko aplikację SaaS z odpowiednimi ikonami produktów dodatku na karcie produktu aplikacji SaaS. Możesz nawigować między stronami szczegółów produktu aplikacji SaaS i zintegrowanej aplikacji.
+
+Jeśli szukasz dodatków autonomicznych, możesz je znaleźć w jeden z następujących sposobów:
+
+- Uzyskaj dostęp do [wykazu produktów AppSource](https://appsource.microsoft.com/marketplace/apps/)i w lewym okienku nawigacji w obszarze **produkty** wybierz pozycję **Microsoft 365**. Z listy produktów, które są wyświetlane w obszarze **Microsoft 365**, zaznacz pola wyboru dla żądanych produktów.
+- Lub wybierz ikonę produktu dodatku wewnątrz karty produkt aplikacji SaaS, aby przejść do określonego dodatku, który został ukryty na ekranie wyszukiwania.
+
+Jeśli aplikacja SaaS wymaga zakupu, zobacz [Jak kupić oferty SaaS na Microsoft AppSource](purchase-software-appsource.md).
+
+Użytkownicy Microsoft 365 administrator mogą wdrożyć zarówno SaaS, jak i dodatki w jednym miejscu. Aby dowiedzieć się więcej, zobacz [testowanie i wdrażanie aplikacji Microsoft 365 — Microsoft 365 administratorem](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps.md).
 
 ## <a name="find-ratings-and-reviews"></a>Znajdź klasyfikacje i przeglądy
 
