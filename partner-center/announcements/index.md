@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 5de6dd2acff560a0093e51dfccb2454ea9cb71f4
-ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
+ms.openlocfilehash: 2963a27a0b189b81540cf8c955feaa6237822e0b
+ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "98040994"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "98062437"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
@@ -22,6 +22,8 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 
 | **Kategoria** | **Ogłoszenia ze stycznia 2021 r.** | **Ogłoszone** |
 |---------|:---------|:---------|
+|Oferty/rynki|[Aktualizacja cennika komercyjnego w rupiach indyjskich](2021-january.md#6)|8 stycznia|
+|Oferty/rynki|[Aktualizacje pakietu telefonicznego i systemu telefonicznego wprowadzane 1 lutego 2021 r.](2021-january.md#5)|8 stycznia|
 |Oferty/rynki|[Aktualizacje cennika opartego na licencji w styczniu 2021 r.](2021-january.md#4)|8 stycznia|
 |Nowoczesne miejsce pracy|[Zmiana waluty rozliczeniowej partnerów w przypadku nowych ofert komercyjnych w UE/ESWH](2021-january.md#3)|7 stycznia|
 |Możliwości|[Wycofanie istniejących interfejsów API kwalifikacji GET i PUT na potrzeby procesu walidacji klienta edukacyjnego do końca lutego 2021 r.](2021-january.md#2)|5 stycznia|

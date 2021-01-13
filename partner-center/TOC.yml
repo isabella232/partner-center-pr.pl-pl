@@ -635,29 +635,39 @@
           href: pci-roles.md
         - name: Raporty analiz
           items:
+            - name: Omówienie
+              href: pci-overview-report.md
+            - name: Klient
+              href: pci-customer-report.md
+            - name: Wydajność odsprzedawcy
+              href: pci-resellers-performance.md
+              displayName: 'indirect, reseller'
+            - name: Subskrypcje produktu
+              href: pci-product-subscriptions-report.md
             - name: Użycie platformy Azure
               href: pci-azure-usage-report.md
+            - name: Użycie usługi Teams
+              href: pci-teams-usage-report.md
+            - name: Użycie usługi Office 365
+              href: pci-office-365-usage-report.md
+            - name: Użycie systemu Dynamics
+              href: pci-dynamics-usage-report.md
+            - name: Użycie pakietu Enterprise Mobility + Security
+              href: pci-enterprise-mobility-security-usage-report.md
+            - name: Użycie usługi Power BI
+              href: pci-power-bi-usage-report.md
+            - name: Szkolenia
+              href: pci-training-dashboard.md
+            - name: Analiza rozwiązania Microsoft Learn
+              href: ms-learn-analytics.md
+            - name: Kompetencje
+              href: pci-competencies-report.md
             - name: Korzyści
               href: pci-benefits-report.md
             - name: Skłonności CloudAscent
               href: pci-customer-opportunities.md
-            - name: Kompetencje
-              href: pci-competencies-report.md
-            - name: Klient
-              href: pci-customer-report.md
-            - name: Analiza rozwiązania Microsoft Learn
-              href: ms-learn-analytics.md
-            - name: Omówienie
-              href: pci-overview-report.md
             - name: Licencje na produkty
               href: pci-product-licenses-report.md
-            - name: Subskrypcje produktu
-              href: pci-product-subscriptions-report.md
-            - name: Wydajność odsprzedawcy
-              href: pci-resellers-performance.md
-              displayName: 'indirect, reseller'
-            - name: Szkolenia
-              href: pci-training-dashboard.md
         - name: Analizy — często zadawane pytania
           href: pci-known-issues.md
         - name: Pobieranie raportów analiz
