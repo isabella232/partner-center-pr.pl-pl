@@ -1,7 +1,7 @@
 ---
 title: Dowiedz się więcej na temat zaawansowanych specjalizacji
 ms.topic: article
-ms.date: 11/30/2020
+ms.date: 01/12/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Wzmocnij swój profil biznesowy w katalogu partnerów firmy Microsoft. Dowiedz się więcej o zaawansowanych specjalizacjach, które można osiągnąć wraz z istniejącymi kompetencjami Gold i Silver.
@@ -9,48 +9,61 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 385071811241009aa2eba26378e4f6aca5a28b99
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 6ce29c533869214a15f18852c8946f46c0656a38
+ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439148"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98204023"
 ---
-# <a name="earn-an-advanced-specialization-to-showcase-your-expertise"></a>Uzyskaj zaawansowaną specjalizację, aby zaprezentować swoją wiedzę
+# <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Uzyskaj zaawansowaną specjalizację w celu pokazania zweryfikowanych możliwości
 
-Wielu partnerów, którzy uzyskali [kwalifikacje złota](learn-about-competencies.md) w kluczowym obszarze, następnie przejdź do, aby zdobyć zaawansowaną specjalizację.
+**Odpowiednie role**
 
-Zaawansowane specjalizacje pozwalają na dalsze prezentowanie sprawdzonej wiedzy na temat produktu, obszaru rozwiązania lub usługi. Są one kolejnym sprawdzaniem poprawności zdolności do dostarczania usług o wysokiej jakości w konkretnym obszarze rozwiązania.
+- Administrator globalny
+- Administrator konta MPN
 
-Zaawansowane specjalizacje pozwalają również na rozróżnienie klientów. Po uzyskaniu zaawansowanej specjalizacji klienci będą widzieć kompetencje Gold i swoją zaawansowaną specjalizację w profilu biznesowym w katalogu partnera.
+Firma Microsoft Advanced specjalizacje kompiluje się w odniesieniu do pokrewnych [kompetencji Gold](learn-about-competencies.md) , które może zdobyć partner. Zdobywaj kwalifikacje złota, wraz z ich zaawansowaną specjalizacją, umożliwia partnerom dalsze odróżnienie możliwości klientom.
+
+Aby uzyskać zaawansowaną specjalizację, partner często musi spełnić wymagania dotyczące wymagań, takich jak uzyskiwanie odniesień klientów, przeprowadzenie audytu innej firmy, poddanie realizacji odpowiedniego zestawu umiejętności oraz spełnienie określonych innych pomiarów wydajności.
+
+Dzięki spełnieniu tych rygorystycznych wymagań partnerzy mogą następnie sprawdzać poprawność swojej wiedzy, szerokiego doświadczenia i sprawdzone sukcesy w dostarczaniu dostosowanych rozwiązań klientów do obszarów o wysokim zapotrzebowaniu klientów i istotności.
+
+Partnerzy, którzy zyskują zaawansowaną specjalizację, otrzymają etykietę skierowaną do klienta, która może być wyświetlana w profilu biznesowym w programie [wyszukiwania dostawcy rozwiązań firmy Microsoft](https://www.microsoft.com/solution-providers/home). Ta etykieta umożliwia dalsze sprawdzanie poprawności możliwości partnera, jednocześnie zapewniając im dostęp do skojarzonych korzyści, zwiększonego osiągalnego klienta i większego zaufania klienta.
 
 > [!NOTE]
-> Aby dowiedzieć się więcej na temat korzyści z zaawansowanych specjalizacji i ich konkretnych wymagań, zobacz [Microsoft Partner Network zaawansowanych specjalizacji](https://partner.microsoft.com/membership/advanced-specialization).
+> Aby dowiedzieć się więcej o zaawansowanych specjalizacjach, odwiedź [stronę Microsoft Partner Network zaawansowanych specjalizacji](https://partner.microsoft.com/membership/advanced-specialization).
 
 ## <a name="advanced-specialization-areas"></a>Zaawansowane obszary specjalizacji
 
-Możesz uzyskać zaawansowane specjalizacje w kilku głównych obszarach wiedzy:
+Każda zaawansowana specjalizacja odpowiada obszarowi rozwiązania:
 
 - Azure
+- Aplikacje biznesowe
 - Nowoczesne prace
 - Zabezpieczenia
 
 Zaawansowane specjalizacje **platformy Azure** obejmują:
 
-- Migracja magazynu danych do Microsoft Azure
-- Kubernetes na Microsoft Azure
+- Migracja magazynu danych na platformę Microsoft Azure
+- Środowisko Kubernetes na platformie Microsoft Azure
 - Migracja baz danych systemu Linux i open source do Microsoft Azure
-- Pulpit wirtualny systemu Microsoft Windows
-- Modernizacja aplikacji sieci Web do Microsoft Azure
+- Usługa Microsoft Windows Virtual Desktop
+- Modernizacja aplikacji internetowych do platformy Microsoft Azure
 - Rozwiązania SAP na platformie Microsoft Azure
-- System Windows Server i migracja SQL Server do Microsoft Azure
+- Migracja systemu Windows Server i programu SQL Server na platformę Microsoft Azure
+
+**Business Applications** zaawansowane specjalizacje obejmują:
+
+- Programowanie aplikacji niskiego kodu
+- Małe i średnie zarządzanie firmami
 
 **Nowoczesne zadania** specjalizacji obejmują:
 
 - Wdrażanie i zarządzanie zmianami
 - Wywoływanie usługi Microsoft Teams
-- Spotkania i pokoje spotkań dla zespołów Microsoft Teams
-- Wdrożenie zespołowej
+- Spotkania i sale konferencyjne dla usługi Microsoft Teams
+- Wdrażanie pracy zespołowej
 
 Zaawansowane specjalizacje **zabezpieczeń** obejmują:
 
@@ -58,7 +71,7 @@ Zaawansowane specjalizacje **zabezpieczeń** obejmują:
 - Ochrona przed zagrożeniami
 
 > [!NOTE]
-> Aby dowiedzieć się więcej na temat każdej zaawansowanej specjalizacji, a także jej wymagań wstępnych i wymagań, zobacz [Microsoft Partner Network zaawansowanych specjalizacji](https://partner.microsoft.com/membership/advanced-specialization). Następnie, gdy wszystko będzie gotowe do zastosowania w przypadku zaawansowanej specjalizacji i sprawdzenia postępu, przejdź do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego. Aby dowiedzieć się więcej na temat uzyskiwania dostępu do tego obszaru Centrum partnerskiego, zobacz artykuł [dotyczący zaawansowanej specjalizacji](advanced-specializations-apply.md).
+> Aby dowiedzieć się więcej na temat każdej zaawansowanej specjalizacji, a także jej wymagań wstępnych i wymagań, odwiedź [stronę zaawansowanych specjalizacji](https://partner.microsoft.com/membership/advanced-specialization). Gdy wszystko będzie gotowe do zastosowania w przypadku zaawansowanej specjalizacji, sprawdź postęp, logując się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego. Aby dowiedzieć się więcej na temat uzyskiwania dostępu do tego obszaru Centrum partnerskiego, zobacz artykuł [dotyczący zaawansowanej specjalizacji](advanced-specializations-apply.md).
 
 ## <a name="next-steps"></a>Następne kroki
 
