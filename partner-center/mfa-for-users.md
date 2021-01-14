@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 355258fd20f867052fa8598e688630005262bb16
-ms.sourcegitcommit: ab2ca3c5990b7f920df4ecb9c611d5b1046ec111
+ms.openlocfilehash: f42c97be88a1a505f7e0ae9b8af0d4a9167d8447
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "97579980"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182379"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Konfigurowanie użytkowników przy użyciu uwierzytelniania wieloskładnikowego
 
@@ -39,11 +39,10 @@ Spowoduje to włączenie usługi MFA dla tego użytkownika. Włączona oznacza, 
 :::image type="content" source="images/MFA/securityverification.png" alt-text="Określ sposób weryfikacji":::
 
 >[!NOTE]
->Możesz **wymusić** , aby użytkownicy korzystali z usługi MFA, wykonując te same kroki, jak powyżej, i wybierając pozycję **Wymuszaj**. Aby dowiedzieć się więcej, przeczytaj artykuł [Włączanie usługi Azure Multi-Factor Authentication dla poszczególnych użytkowników w celu zabezpieczenia zdarzeń związanych z logowaniem](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userstates). 
+>Możesz **wymusić** , aby użytkownicy korzystali z usługi MFA, wykonując te same kroki, jak powyżej, i wybierając pozycję **Wymuszaj**. Aby dowiedzieć się więcej, przeczytaj artykuł [Włączanie usługi Azure Multi-Factor Authentication dla poszczególnych użytkowników w celu zabezpieczenia zdarzeń związanych z logowaniem](/azure/active-directory/authentication/howto-mfa-userstates). 
 
 Wszyscy użytkownicy zaczynają **wyłączać**. Gdy rejestrujesz użytkowników w usłudze Azure Multi-Factor Authentication dla poszczególnych użytkowników, ich stan zmieni się na **włączone**. Gdy użytkownicy będą mogli się zalogować i zakończyć proces rejestracji, ich stan zmieni się na **wymuszone**. 
 
 ## <a name="next-steps"></a>Następne kroki
 
 - [Przypisywanie ról i uprawnień do użytkowników](permissions-overview.md)
-

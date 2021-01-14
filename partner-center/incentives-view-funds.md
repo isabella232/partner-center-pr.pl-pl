@@ -1,5 +1,5 @@
 ---
-title: Wyświetl dostępne środki współpracy
+title: Wyświetl dostępne środki przeznaczone na współpracę
 ms.topic: article
 ms.date: 01/03/2021
 description: Dowiedz się, jak wyświetlić zdobyte, przejęte i pozostałe środki współpracy, wyświetlić daty wygaśnięcia i uzgodnić niespójne kwoty.
@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: cd17656c64a55b9b27784555d9ea2acaae3979d3
-ms.sourcegitcommit: c062209be8f7ed905ab33511675ae280e93dd839
+ms.openlocfilehash: a33ff22a448f407fe0b795c43953fef7ee21e1bd
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "97864344"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182515"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Wyświetl dostępne dochody, przejęte i pozostałe środki współpracy
 
@@ -34,7 +34,7 @@ Możesz śledzić, monitorować i uzgodnić swoje środki zachęcające do ofert
 
 4. Aby wyświetlić wszystkie oświadczenia przesłane dla wybranego okresu, przewiń w dół strony.
 
-Jeśli uważasz, że w kwotach wyświetlanych w podsumowaniu występują rozbieżności, możesz pobrać raport transakcji z poprzedniego okresu. Ten raport pomoże Ci określić ilość środków współpracowników uzyskanych dla wybranego okresu użytkowania. Aby pobrać raporty transakcji lub sprawdzić poprawność przesłanych oświadczeń, aby upewnić się, że pozostała kwota współdziałania jest dokładna, zobacz [historię transakcji](/partner-center/payout-statement#transaction-history).
+Jeśli uważasz, że w kwotach wyświetlanych w podsumowaniu występują rozbieżności, możesz pobrać raport transakcji z poprzedniego okresu. Ten raport pomoże Ci określić ilość środków współpracowników uzyskanych dla wybranego okresu użytkowania. Aby pobrać raporty transakcji lub sprawdzić poprawność przesłanych oświadczeń, aby upewnić się, że pozostała kwota współdziałania jest dokładna, zobacz [historię transakcji](./payout-statement.md#transaction-history).
 
 Jeśli nadal występują problemy z uzgadnianiem kwot lub jeśli niektóre środki współpracujące nie są widoczne, możesz otworzyć bilet pomocy technicznej. W tym celu wybierz ikonę znaku zapytania w prawym górnym rogu strony, a następnie wybierz pozycję **zachęty**.
 

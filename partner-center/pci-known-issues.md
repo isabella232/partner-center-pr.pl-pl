@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6337d4998fea20eed756183a3eb3adfbfe70585b
-ms.sourcegitcommit: 0eae5734b0e50bd5a7ef39ec7738d1e997c5a02d
+ms.openlocfilehash: a5aaa7c7190615d1b7497fd92e0d844cc553c491
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "97389309"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182328"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Partner Insights — często zadawane pytania
 
@@ -26,15 +26,15 @@ Odnosi się to do znanych problemów z wyświetlaniem lub renderowaniem raportó
 
 P) **nie widzę centrum usługi Insights na koncie w centrum partnerskim. Co mam zrobić?**
 
-A) Upewnij się, że zalogowano się do konta MPN w organizacji. Nie można uzyskać dostępu do pulpitu nawigacyjnego usługi Insights z poziomu konta dostawcy CSP. Upewnij się również, że administrator globalny udostępnił Ci przeglądarkę raportów lub dostęp do roli dyrektora raportu.  Aby uzyskać więcej informacji na temat ról, zobacz [ten artykuł](https://docs.microsoft.com/partner-center/pci-roles).
+A) Upewnij się, że zalogowano się do konta MPN w organizacji. Nie można uzyskać dostępu do pulpitu nawigacyjnego usługi Insights z poziomu konta dostawcy CSP. Upewnij się również, że administrator globalny udostępnił Ci przeglądarkę raportów lub dostęp do roli dyrektora raportu.  Aby uzyskać więcej informacji na temat ról, zobacz [ten artykuł](./pci-roles.md).
 
 P) **nie widzę rachunku przychodów ani danych przychodów (ACR) na platformie Azure w moich raportach. Dlaczego?**
 
-A) dochody i dane ACR są dostępne tylko dla użytkowników, którzy są użytkownikami programu Executive w raportach.  Aby uzyskać więcej informacji na temat ról, zobacz [ten artykuł](https://docs.microsoft.com/partner-center/pci-roles).
+A) dochody i dane ACR są dostępne tylko dla użytkowników, którzy są użytkownikami programu Executive w raportach.  Aby uzyskać więcej informacji na temat ról, zobacz [ten artykuł](./pci-roles.md).
 
 P) **nie widzę rachunku przychodów ani danych przychodów (ACR) na platformie Azure w moich raportach. Dlaczego?**
 
-A) dochody i dane ACR są dostępne tylko dla użytkowników, którzy są użytkownikami programu Executive w raportach. Aby uzyskać więcej informacji na temat ról, zobacz [ten artykuł](https://docs.microsoft.com/partner-center/pci-roles).
+A) dochody i dane ACR są dostępne tylko dla użytkowników, którzy są użytkownikami programu Executive w raportach. Aby uzyskać więcej informacji na temat ról, zobacz [ten artykuł](./pci-roles.md).
 
 P) **wydaje się, że dany klient jest nieprawidłowy. Dlaczego?**
 

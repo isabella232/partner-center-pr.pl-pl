@@ -8,12 +8,12 @@ ms.prod: marketplace-customer
 ms.devlang: azurepowershell
 ms.date: 11/24/2020
 ms.custom: devx-track-azurepowershell
-ms.openlocfilehash: c5b8b9fcc247818315887109e2163c0722bfbd97
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: d0021be17ab12b6e549b0e5263772a4a1e42f8a3
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96536265"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182345"
 ---
 # <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>Szybki Start: Zarządzanie prywatnym portalem Azure Marketplace przy użyciu programu PowerShell
 
@@ -30,10 +30,10 @@ W tym artykule opisano, jak zarządzać ofertami w prywatnym portalu Azure Marke
   * [Zainstaluj moduł AZ PowerShell module](/powershell/azure/install-az-ps).
   * Połącz się z kontem platformy Azure przy użyciu polecenia cmdlet [Connect-AzAccount](/powershell/module/az.accounts/connect-azaccount) .
 * Jeśli zdecydujesz się używać Azure Cloud Shell:
-  * Aby uzyskać więcej informacji [, zobacz omówienie Azure Cloud Shell](https://docs.microsoft.com/azure/cloud-shell/overview) .
+  * Aby uzyskać więcej informacji [, zobacz omówienie Azure Cloud Shell](/azure/cloud-shell/overview) .
 
   > [!IMPORTANT]
-  > Gdy moduł programu PowerShell **AZ. Marketplace** jest w wersji zapoznawczej, należy go zainstalować oddzielnie przy użyciu `Install-Module` polecenia cmdlet. Po ogólnym udostępnieniu tego modułu programu PowerShell będzie on częścią przyszłych wydań modułu AZ PowerShell i dostępne domyślnie z poziomu Azure Cloud Shell.
+  > Gdy moduł programu PowerShell **AZ. Marketplace** jest w wersji zapoznawczej, należy go zainstalować oddzielnie przy użyciu `Install-Module` polecenia cmdlet. Gdy ten moduł programu PowerShell stanie się ogólnie dostępny, będzie częścią przyszłych wydań modułu Az programu PowerShell i będzie domyślnie dostępny z poziomu usługi Azure Cloud Shell.
 
   ```azurepowershell-interactive
   Install-Module -Name Az.Marketplace

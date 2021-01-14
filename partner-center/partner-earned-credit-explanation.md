@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3acc078b3de3c0443ee64fdaaba2d486d9c466c8
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622171"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182413"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Jak są obliczane i wypłacane środki zarobione przez partnera
 
@@ -36,7 +36,7 @@ Aby otrzymać środki na korzystanie z partnerów (PEC), mają zastosowanie nast
 
 - Użytkownik musi mieć aktywną umowę MPN oraz ważną rolę kontroli dostępu opartej na rolach (RBAC), aby uzyskać dostęp do dochodów z zasobów platformy Azure, którymi zarządzasz.
 
-- Musisz mieć 24x7ą kontrolę operacyjną i zarządzanie zasobami platformy Azure klienta w dostawcy usług kryptograficznych. Oznacza to, że użytkownik musi mieć uprawnienia administratora do subskrypcji platformy Azure klienta, grupy zasobów platformy Azure, zasobu platformy Azure. W przypadku dostawców pośrednich i ich pośrednich odsprzedawców Dostawca pośredni będzie uprawniony do PEC, jeśli dostawca pośredni lub pośredni odsprzedawca lub oba mają tę kontrolę operacyjną. Aby dowiedzieć się więcej na ten temat, zobacz [przywracanie uprawnień administratora dla subskrypcji CSP platformy Azure](https://docs.microsoft.com/partner-center/revoke-reinstate-csp).
+- Musisz mieć 24x7ą kontrolę operacyjną i zarządzanie zasobami platformy Azure klienta w dostawcy usług kryptograficznych. Oznacza to, że użytkownik musi mieć uprawnienia administratora do subskrypcji platformy Azure klienta, grupy zasobów platformy Azure, zasobu platformy Azure. W przypadku dostawców pośrednich i ich pośrednich odsprzedawców Dostawca pośredni będzie uprawniony do PEC, jeśli dostawca pośredni lub pośredni odsprzedawca lub oba mają tę kontrolę operacyjną. Aby dowiedzieć się więcej na ten temat, zobacz [przywracanie uprawnień administratora dla subskrypcji CSP platformy Azure](./revoke-reinstate-csp.md).
 
 - Oprócz powyższych wymagań, PEC ma zastosowanie tylko do usług wymienionych w cenniku zużycia planu platformy Azure, które można eksportować ze strony [cennika planu platformy Azure](https://partner.microsoft.com/commerce/sales) .
 
@@ -48,7 +48,7 @@ Aby otrzymać środki na korzystanie z partnerów (PEC), mają zastosowanie nast
 
 - PEC jest uzyskiwany do poziomu zasobów platformy Azure. Jeśli masz prawidłowy dostęp na poziomie subskrypcji lub grupy zasobów, każdy zasób, który jest rzutowany do wyższej jednostki, będzie miał wartość PEC.
 
-- Szczegóły dotyczące komputera PEC są również dostępne na stronie [Azure Cost Management](https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners) .
+- Szczegóły dotyczące komputera PEC są również dostępne na stronie [Azure Cost Management](/azure/cost-management-billing/costs/get-started-partners) .
 
 ### <a name="calculation"></a>Obliczenia
 

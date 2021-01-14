@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 71ffee8426244c211338e97becab516c07251e45
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94499134"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182583"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Pola pliku uzgadniania zakupów jednorazowych dostawcy CSP
 
@@ -28,9 +28,9 @@ Aby uzyskać więcej informacji na temat plików uzgadniania, zobacz [Używanie 
 | CustomerId | Unikatowy identyfikator firmy Microsoft dla klienta w formacie identyfikatora GUID. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
 | CustomerName | Nazwa organizacji klienta zgłoszona w centrum partnerskim. Ta kolumna jest ważna w przypadku uzgadniania faktury z informacjami o systemie. | *Johnny nowoczesny DE2* |
 | CustomerDomainName | Nazwa domeny klienta. | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | Kraj, w którym znajduje się Twój klient. Zapoznaj się z pełną [listą krajów](/partner-center/regional-authorization-overview) w Twoim regionie.  | *DE* |
+| CustomerCountry | Kraj, w którym znajduje się Twój klient. Zapoznaj się z pełną [listą krajów](./regional-authorization-overview.md) w Twoim regionie.  | *DE* |
 | InvoiceNumber | Numer faktury skojarzony z plikiem uzgodnienia.  | *G002297372* |
-| MpnId | Identyfikator MPN partnera dostawcy usług kryptograficznych. Aby uzyskać więcej informacji, zobacz [How to itemize by partner](/partner-center/use-the-reconciliation-files#itemize-reconciliation-files-by-partner). | *6034453* |
+| MpnId | Identyfikator MPN partnera dostawcy usług kryptograficznych. Aby uzyskać więcej informacji, zobacz [How to itemize by partner](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *6034453* |
 | ResellerMpnId | MPN identyfikator odsprzedawcy rekordu dla subskrypcji. | *6048879* |
 | OrderId (Identyfikator zamówienia) | Unikatowy identyfikator zamówienia na platformie rozliczeń firmy Microsoft. Może być przydatne do identyfikowania zamówienia podczas kontaktowania się z pomocą techniczną. Nieużywany do uzgadniania. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
 | OrderDate (Data zamówienia) | Data umieszczenia zamówienia. | *10/3/2020* |
@@ -39,8 +39,8 @@ Aby uzyskać więcej informacji na temat plików uzgadniania, zobacz [Używanie 
 | AvailabilityId | Unikatowy identyfikator dostępności. | *DZH318Z08B80* |
 | SkuName | Nazwa jednostki SKU. | *Tabele — LRS* |
 | ProductName | Nazwa produktu. | *Tabele* |
-| ChargeType | [Typ opłaty](/partner-center/recon-file-charge-types) lub korekty. | *Nowe* |
-| Cena jednostkowa | Cena za licencję publikowana w cenniku w momencie zakupu. Upewnij się, że są one zgodne z informacjami przechowywanymi w systemie rozliczeniowym podczas uzgadniania. | *0,045* |
+| ChargeType | [Typ opłaty](./recon-file-charge-types.md) lub korekty. | *Nowe* |
+| UnitPrice | Cena za licencję publikowana w cenniku w momencie zakupu. Upewnij się, że są one zgodne z informacjami przechowywanymi w systemie rozliczeniowym podczas uzgadniania. | *0,045* |
 | Ilość | Liczba licencji. Upewnij się, że są one zgodne z informacjami przechowywanymi w systemie rozliczeniowym podczas uzgadniania. | *1* |
 | Suma częściowa | Suma przed podatkiem. Suma częściowa powinna być równa ilości rozliczanej pomnożonej przez obowiązującą cenę jednostkową. | *0* |
 | TaxTotal | Opłata za podatek. Na podstawie reguł podatkowych i określonych okoliczności na rynku. | *0* |
@@ -54,7 +54,7 @@ Aby uzyskać więcej informacji na temat plików uzgadniania, zobacz [Używanie 
 | ChargeStartDate | Data Centrum partnerskiego opłaty za subskrypcję. W przypadku zakupu subskrypcji z rocznym okresem rozliczeniowym i comiesięcznym planem rozliczeniowym, a następnie w pierwszym pliku uzgodnienia jest to dzień, w którym zakupiona została subskrypcja. Począwszy od następnego pliku uzgodnienia, zostanie on zwiększony o 30 dni. | *9/1/2020* |
 | ChargeEndDate | Dzień końcowy opłat za cykl rozliczeniowy subskrypcji. W przypadku zakupu subskrypcji z rocznym okresem rozliczeniowym i comiesięcznym planem rozliczeniowym, a następnie w pierwszym pliku uzgodnienia jest to 30-dniowy dzień po zakupie subskrypcji. Począwszy od następnego pliku uzgodnienia, zostanie on zwiększony o 30 dni. | *2020-09-30* |
 | TermAndBillingCycle | Czas trwania zobowiązania do kontynuowania subskrypcji w momencie zakupu. | *Dane przechowywane (GB/miesiąc)* |
-| EffectiveUnitPrice | Cena za jednostkę proporcjonalną do obliczenia kosztu cyklu rozliczeniowego. Rabaty, korekty w dniach rozliczeniowych i inne czynniki określają obowiązującą cenę jednostkową. Aby uzyskać więcej informacji, zobacz [efektywne Obliczanie cen jednostkowych](/partner-center/effective-unit-price-calculation).  | *0,03825* |
+| EffectiveUnitPrice | Cena za jednostkę proporcjonalną do obliczenia kosztu cyklu rozliczeniowego. Rabaty, korekty w dniach rozliczeniowych i inne czynniki określają obowiązującą cenę jednostkową. Aby uzyskać więcej informacji, zobacz [efektywne Obliczanie cen jednostkowych](./effective-unit-price-calculation.md).  | *0,03825* |
 | UnitType | Typ jednostki, w której jest naliczany licznik. | *1 GB/miesiąc* |
 | AlternateId | Alternatywny identyfikator elementu wiersza zamówienia, do którego się odwoływano. | *6dc5c039750a* |
 | BillableQuantity | Łączna liczba rozliczanych opłat.  | *0,005001* |

@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0434ad2e6494f5efc1b1e5e2aa003dc6587d7b4e
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 1d5386dd4b2b19e641cc9d731d4a3d0f44ab5ad6
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691354"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182498"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Pozyskiwanie, Inicjowanie obsługi & Zarządzanie wystąpieniami zarezerwowanych maszyn wirtualnych platformy Azure (RI) i subskrypcjami serwera dla klientów
 
@@ -47,7 +47,7 @@ W [Azure Reserved VM Instances](https://azure.microsoft.com/pricing/reserved-vm-
 
 W przypadku niedopasowanej kombinacji atrakcyjnych cen i niedopasowanej elastyczności wdrożenia klienci będą widzieli najlepszą ogólną wartość, wybierając Azure Reservations.
 
-- Zobacz [zakupy rezerwacji](https://docs.microsoft.com/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) w witrynie Azure Portal.
+- Zobacz [zakupy rezerwacji](/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) w witrynie Azure Portal.
 
 - Zapoznaj się z **Microsoft Azure** **listą komercyjnych cen dostawcy usług kryptograficznych (CSP) na platformie Azure** na stronie [ceny i oferty](https://partner.microsoft.com/dashboard/sell/pricingandoffers) w centrum partnerskim dla subskrypcji oprogramowania i rocznych subskrypcji systemu Linux.
 
@@ -69,24 +69,24 @@ Aby zrozumieć, w jaki sposób można określić, Azure Reservations z klientami
 
 1. Przejrzyj i zapoznaj się z [nowym przewodnikiem obsługi handlu w centrum partnerskim](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
-2. Informacje na temat aktualizacji Azure Reservations i subskrypcji serwera w [interfejsie API Centrum partnerskiego (API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances).
+2. Informacje na temat aktualizacji Azure Reservations i subskrypcji serwera w [interfejsie API Centrum partnerskiego (API/SDK)](/partner-center/develop/purchase-azure-reserved-vm-instances).
 
 
 ### <a name="sales-readiness"></a>Gotowość do sprzedaży
 
 - [Licencja dostępu klienta (CAL) Usługi pulpitu zdalnego (RDS) (anons)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
 
-- [Azure Reserved VM Instances (Azure Portal)](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [Azure Reserved VM Instances (Azure Portal)](/azure/virtual-machines/windows/prepay-reserved-vm-instances)
 
-- [Subskrypcje serwera](https://docs.microsoft.com/partner-center/csp-software-subscriptions)
+- [Subskrypcje serwera](./csp-software-subscriptions.md)
 
-- [Rezerwacje bazy danych SQL (Azure Portal)](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
+- [Rezerwacje bazy danych SQL (Azure Portal)](/azure/sql-database/sql-database-reserved-capacity)
 
-- [Azure Cosmos DB (Azure Portal)](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
+- [Azure Cosmos DB (Azure Portal)](/azure/cosmos-db/cosmos-db-reserved-capacity)
 
-- [Wystąpienie zarządzane SQL (Azure Portal)](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
+- [Wystąpienie zarządzane SQL (Azure Portal)](/azure/sql-database/sql-database-managed-instance)
 
-- [SUSE i Red Hat Enterprise Linux (Azure Portal)](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
+- [SUSE i Red Hat Enterprise Linux (Azure Portal)](/azure/virtual-machines/linux/prepay-suse-software-charges)
 
 - [Red Hat Linux na platformie Azure](https://azure.com/redhat)
 
@@ -98,7 +98,7 @@ Aby zrozumieć, w jaki sposób można określić, Azure Reservations z klientami
 
 - [Kalkulator cen platformy Azure](https://azure.microsoft.com/pricing/calculator)
 
-- [Azure Databricks rezerwacji jednostek](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
+- [Azure Databricks rezerwacji jednostek](/azure/billing/billing-prepay-databricks-reserved-capacity)
 
 
 ## <a name="training"></a>Szkolenia

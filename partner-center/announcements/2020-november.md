@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439087"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182549"
 ---
 # <a name="november-2020-announcements"></a>Ogłoszenia z listopada 2020 r.
 
 Na tej stronie znajdują się szczegółowe informacje o anonsach programu Microsoft Partner Center dla listopada 2020.
 
-2020 anonse: od [kwietnia](2020-april.md)do  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [lipca](2020-july.md),  |  [August](2020-august.md)  |  [wrzesień września](2020-september.md)  |  [October](2020-October.md) , | Listopada
+2020 anonse: od [kwietnia](2020-april.md)do  |  [](2020-may.md)  |  [](2020-june.md)  |  [lipca](2020-july.md),  |  [](2020-august.md)  |  [wrzesień września](2020-september.md)  |  [](2020-October.md) , | Listopada
 
 ______________
 ## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>Wprowadzenie możliwości zakupu ofert SaaS z naliczaniem opłat w centrum partnerskim 
@@ -40,7 +40,7 @@ Wszyscy partnerzy
 
 ### <a name="details"></a>Szczegóły
 
-Firma Microsoft wprowadza możliwości dla partnerów w programie dostawcy rozwiązań w chmurze, w tym dostawców pośrednich i bezpośrednich partnerów rozliczeniowych, do zakupu ofert SaaS z [naliczanymi rozliczeniami](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing)   w centrum partnerskim. Obecnie partnerzy w programie dostawcy rozwiązań w chmurze mogą wyświetlać i [kupować oferty usługi SaaS z naliczanymi opłatami za pomocą Azure Portal](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase).To nowe środowisko umożliwi partnerom kupowanie ofert za pomocą portalu CSP w centrum partnerskim i interfejsie API w taki sposób, jak w przypadku innych typów ofert SaaS. 
+Firma Microsoft wprowadza możliwości dla partnerów w programie dostawcy rozwiązań w chmurze, w tym dostawców pośrednich i bezpośrednich partnerów rozliczeniowych, do zakupu ofert SaaS z [naliczanymi rozliczeniami](/azure/marketplace/partner-center-portal/saas-metered-billing)   w centrum partnerskim. Obecnie partnerzy w programie dostawcy rozwiązań w chmurze mogą wyświetlać i [kupować oferty usługi SaaS z naliczanymi opłatami za pomocą Azure Portal](../csp-commercial-marketplace-purchase.md).To nowe środowisko umożliwi partnerom kupowanie ofert za pomocą portalu CSP w centrum partnerskim i interfejsie API w taki sposób, jak w przypadku innych typów ofert SaaS. 
 
 ### <a name="next-steps"></a>Następne kroki
 
@@ -308,24 +308,24 @@ Centrum partnerskie zostało zaprojektowane z myślą o obsłudze dużej liczby 
 |**Operacja**|**Dokumentacja Centrum partnerskiego**|
 |-------------------------|----------------------------------|
 |{baseURL}/V1/Customers/{customer_id}/subscriptions|[Pobierz wszystkie subskrypcje klienta](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
-|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}|[Uzyskaj subskrypcję według identyfikatora](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/V1/Customers/{customer_id}/Orders||[Pobierz wszystkie zamówienia klienta](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
-|{baseURL}/V1/Customers/{customer_id}/Orders/{order_id}|[Pobierz zamówienie według identyfikatora](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
-|{baseURL}/V1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus|[Pobieranie stanu aprowizacji subskrypcji](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
-|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}|[Zarządzanie zamówieniami i Zarządzanie subskrypcją](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
-|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}/addons|[Pobierz listę dodatków dla subskrypcji](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
-|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[Uzyskaj listę uprawnień platformy Azure dla subskrypcji](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
-|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[Pobierz stan rejestracji subskrypcji](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/V1/Customers/{Customer-tenant-ID}/Transfers|[Pobierz wszystkie transfery klienta](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Pobierz stan uaktualnienia produktu](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/V1/Customers/{Customer-ID}/subscriptions/{Subscription-ID}/Conversions|[Pobierz listę ofert konwersji wersji próbnej](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}|[Pobieranie subskrypcji według identyfikatora](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
+|{baseURL}/V1/Customers/{customer_id}/Orders||[Pobieranie wszystkich zamówień klienta](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/V1/Customers/{customer_id}/Orders/{order_id}|[Pobieranie zamówienia według identyfikatora](/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/V1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus|[Pobieranie stanu aprowizacji subskrypcji](/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}|[Zarządzanie zamówieniami i Zarządzanie subskrypcją](/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}/addons|[Pobieranie listy dodatków dla subskrypcji](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[Pobieranie listy uprawnień platformy Azure dla subskrypcji](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[Pobieranie stanu rejestracji subskrypcji](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/V1/Customers/{Customer-tenant-ID}/Transfers|[Pobierz wszystkie transfery klienta](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Pobieranie stanu uaktualniania produktu](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/V1/Customers/{Customer-ID}/subscriptions/{Subscription-ID}/Conversions|[Pobieranie listy ofert konwersji wersji próbnej](/partner-center/develop/get-all-of-a-customer-s-transfers) 
   
 
-Ten anons ma na celu zapewnienie partnerom wczesnej świadomości nad nadchodzącymi zmianami, dzięki czemu można je przygotować. Zdecydowanie zalecamy, aby partnerzy mogli zapoznać się z tymi interfejsami API i rozważyć użycie interfejsu API dziennika aktywności w celu uzyskania większej wydajności i uniknięcia ograniczenia przepustowości. Aby uzyskać więcej informacji na temat tej funkcji, zapoznaj się z tematem [wskazówki dotyczące ograniczania interfejsu API](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance). 
+Ten anons ma na celu zapewnienie partnerom wczesnej świadomości nad nadchodzącymi zmianami, dzięki czemu można je przygotować. Zdecydowanie zalecamy, aby partnerzy mogli zapoznać się z tymi interfejsami API i rozważyć użycie interfejsu API dziennika aktywności w celu uzyskania większej wydajności i uniknięcia ograniczenia przepustowości. Aby uzyskać więcej informacji na temat tej funkcji, zapoznaj się z tematem [wskazówki dotyczące ograniczania interfejsu API](/partner-center/develop/api-throttling-guidance). 
 
 ### <a name="next-steps"></a>Następne kroki
 
-Przejrzyj [wskazówki dotyczące ograniczania interfejsu API](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)i wykonaj niezbędne czynności. 
+Przejrzyj [wskazówki dotyczące ograniczania interfejsu API](/partner-center/develop/api-throttling-guidance)i wykonaj niezbędne czynności. 
 
 ______________
 
@@ -339,7 +339,7 @@ ______________
 ### <a name="context"></a>Kontekst
 
 - W lutym ten rok partnerzy byli zażądali podpisania umowy klienta firmy Microsoft (MCuA). To była migracja z poprzedniej Microsoft Cloudej umowy (MCA). 
-- W ramach tego partnera zmiany prosili partnerów o uwzględnienie parametru typu umowy zgodnie z opisem w [tym miejscu](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement).
+- W ramach tego partnera zmiany prosili partnerów o uwzględnienie parametru typu umowy zgodnie z opisem w [tym miejscu](/partner-center/develop/get-confirmation-of-customer-agreement).
 
 ### <a name="what-happened-next"></a>Co się stało:
 
@@ -673,7 +673,7 @@ Te promocje mają wpływ na następujących klientów:
 - Nowe dzierżawy klientów w sieci
 - Istniejące dzierżawy klientów, którzy nie mają aktywnej lub ostatnio anulowanej subskrypcji (w ciągu ostatnich 30 dni) na subskrypcję usługi CSP, sieci Web bezpośrednio lub dowolnego innego kanału komercyjnego firmy Microsoft
 
-#### <a name="additional-resources"></a>Zasoby dodatkowe
+#### <a name="additional-resources"></a>Dodatkowe zasoby
 
 - Odwiedź [stronę Microsoft 365 Business partnera komunikacji głosowej](https://www.microsoft.com/microsoft-365/partners/businessvoice) , aby dowiedzieć się więcej o głosowaniu biznesowym. 
 - Dowiedz się więcej o tej promocji w temacie [często zadawane pytania dotyczące partnerów](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo).

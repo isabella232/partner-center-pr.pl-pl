@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
-ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
+ms.openlocfilehash: ad5cc0e9c8642ceb309cac3f5fc7c99534c3dcda
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "93189751"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182600"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Merge your partner account with another partner account (Scalanie konta partnera z kontem innego partnera)
 
@@ -77,6 +77,8 @@ W przypadku podjęcia decyzji o zaakceptowaniu zaproszenia do kont scalania: · 
 
 - Wszystkie załączniki programu Software Assurance są zachowywane na obu kontach. 
 
+- Nie ma to wpływu na skojarzenie DPOR lub PAL. Wszystkie powiązane wpłaty przychodu zaczynają przepływać do nowego konta globalnego partnera
+
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>Zaproś firmę do scalenia swojego konta Centrum partnerskiego z kontem Centrum partnerskiego
 
 >[!Note]
@@ -84,11 +86,11 @@ W przypadku podjęcia decyzji o zaakceptowaniu zaproszenia do kont scalania: · 
 
 1. Wybierz pozycję **Ustawienia** z pulpitu nawigacyjnego Centrum partnerskiego. 
 
-2. Wybierz pozycję **scalanie kont** .
+2. Wybierz pozycję **scalanie kont**.
 
 3. Dodaj identyfikator MPN, który znajduje się w **profilu partnera** konta, które chcesz zaprosić do scalenia. Musisz użyć identyfikatora MPN globalnego partnera. Nie można użyć identyfikatora MPN lokalizacji.
 
-4. Po wybraniu opcji **Scal** zaproszenie jest wysyłane do firmy partnerskiej. Po zaakceptowaniu żądania można zainicjować scalanie kont w centrum partnerskim. Jeśli firma odrzuci żądanie scalania kont, może wyjaśnić, Dlaczego odrzucono żądanie. Lista wszystkich scalanych kont jest dostępna dla Ciebie w obszarze **historia scalania** .
+4. Po wybraniu opcji **Scal** zaproszenie jest wysyłane do firmy partnerskiej. Po zaakceptowaniu żądania można zainicjować scalanie kont w centrum partnerskim. Jeśli firma odrzuci żądanie scalania kont, może wyjaśnić, Dlaczego odrzucono żądanie. Lista wszystkich scalanych kont jest dostępna dla Ciebie w obszarze **historia scalania**.
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Przykład dwóch firm łączących konta
 
