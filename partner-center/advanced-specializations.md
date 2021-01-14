@@ -1,7 +1,7 @@
 ---
 title: Dowiedz się więcej na temat zaawansowanych specjalizacji
 ms.topic: article
-ms.date: 11/30/2020
+ms.date: 01/12/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Wzmocnij swój profil biznesowy w katalogu partnerów firmy Microsoft. Dowiedz się więcej o zaawansowanych specjalizacjach, które można osiągnąć wraz z istniejącymi kompetencjami Gold i Silver.
@@ -9,63 +9,76 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 385071811241009aa2eba26378e4f6aca5a28b99
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 6ce29c533869214a15f18852c8946f46c0656a38
+ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439148"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98204023"
 ---
-# <a name="earn-an-advanced-specialization-to-showcase-your-expertise"></a><span data-ttu-id="3b0f9-104">Uzyskaj zaawansowaną specjalizację, aby zaprezentować swoją wiedzę</span><span class="sxs-lookup"><span data-stu-id="3b0f9-104">Earn an advanced specialization to showcase your expertise</span></span>
+# <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a><span data-ttu-id="3a252-104">Uzyskaj zaawansowaną specjalizację w celu pokazania zweryfikowanych możliwości</span><span class="sxs-lookup"><span data-stu-id="3a252-104">Earn an advanced specialization to showcase your validated capabilities</span></span>
 
-<span data-ttu-id="3b0f9-105">Wielu partnerów, którzy uzyskali [kwalifikacje złota](learn-about-competencies.md) w kluczowym obszarze, następnie przejdź do, aby zdobyć zaawansowaną specjalizację.</span><span class="sxs-lookup"><span data-stu-id="3b0f9-105">Many partners who have attained a [gold competency](learn-about-competencies.md) in a key area then go on to earn an advanced specialization.</span></span>
+<span data-ttu-id="3a252-105">**Odpowiednie role**</span><span class="sxs-lookup"><span data-stu-id="3a252-105">**Appropriate roles**</span></span>
 
-<span data-ttu-id="3b0f9-106">Zaawansowane specjalizacje pozwalają na dalsze prezentowanie sprawdzonej wiedzy na temat produktu, obszaru rozwiązania lub usługi.</span><span class="sxs-lookup"><span data-stu-id="3b0f9-106">Advanced specializations let you further showcase proven, verifiable expertise in a product, solution area, or service.</span></span> <span data-ttu-id="3b0f9-107">Są one kolejnym sprawdzaniem poprawności zdolności do dostarczania usług o wysokiej jakości w konkretnym obszarze rozwiązania.</span><span class="sxs-lookup"><span data-stu-id="3b0f9-107">They are further validation of your ability to deliver high-fidelity services in a specific solution area.</span></span>
+- <span data-ttu-id="3a252-106">Administrator globalny</span><span class="sxs-lookup"><span data-stu-id="3a252-106">Global admin</span></span>
+- <span data-ttu-id="3a252-107">Administrator konta MPN</span><span class="sxs-lookup"><span data-stu-id="3a252-107">MPN account admin</span></span>
 
-<span data-ttu-id="3b0f9-108">Zaawansowane specjalizacje pozwalają również na rozróżnienie klientów.</span><span class="sxs-lookup"><span data-stu-id="3b0f9-108">Advanced specializations also let you differentiate yourself to customers.</span></span> <span data-ttu-id="3b0f9-109">Po uzyskaniu zaawansowanej specjalizacji klienci będą widzieć kompetencje Gold i swoją zaawansowaną specjalizację w profilu biznesowym w katalogu partnera.</span><span class="sxs-lookup"><span data-stu-id="3b0f9-109">Once you earn an advanced specialization, customers will see both your gold competency and your advanced specialization in your business profile on the partner directory.</span></span>
+<span data-ttu-id="3a252-108">Firma Microsoft Advanced specjalizacje kompiluje się w odniesieniu do pokrewnych [kompetencji Gold](learn-about-competencies.md) , które może zdobyć partner.</span><span class="sxs-lookup"><span data-stu-id="3a252-108">Microsoft advanced specializations build on related [gold competencies](learn-about-competencies.md) a partner can earn.</span></span> <span data-ttu-id="3a252-109">Zdobywaj kwalifikacje złota, wraz z ich zaawansowaną specjalizacją, umożliwia partnerom dalsze odróżnienie możliwości klientom.</span><span class="sxs-lookup"><span data-stu-id="3a252-109">Earning gold competencies, along with their related advanced specializations, allows partners to further differentiate their capabilities to customers.</span></span>
 
-> [!NOTE]
-> <span data-ttu-id="3b0f9-110">Aby dowiedzieć się więcej na temat korzyści z zaawansowanych specjalizacji i ich konkretnych wymagań, zobacz [Microsoft Partner Network zaawansowanych specjalizacji](https://partner.microsoft.com/membership/advanced-specialization).</span><span class="sxs-lookup"><span data-stu-id="3b0f9-110">To learn more about the benefits of advanced specializations and their specific requirements, see [Microsoft Partner Network advanced specializations](https://partner.microsoft.com/membership/advanced-specialization).</span></span>
+<span data-ttu-id="3a252-110">Aby uzyskać zaawansowaną specjalizację, partner często musi spełnić wymagania dotyczące wymagań, takich jak uzyskiwanie odniesień klientów, przeprowadzenie audytu innej firmy, poddanie realizacji odpowiedniego zestawu umiejętności oraz spełnienie określonych innych pomiarów wydajności.</span><span class="sxs-lookup"><span data-stu-id="3a252-110">To earn an advanced specialization, a partner often has to meet demanding requirements, such as obtaining customer references, undergoing a third-party audit, proving attainment of a relevant skill set, and meeting certain, other performance measurements.</span></span>
 
-## <a name="advanced-specialization-areas"></a><span data-ttu-id="3b0f9-111">Zaawansowane obszary specjalizacji</span><span class="sxs-lookup"><span data-stu-id="3b0f9-111">Advanced specialization areas</span></span>
+<span data-ttu-id="3a252-111">Dzięki spełnieniu tych rygorystycznych wymagań partnerzy mogą następnie sprawdzać poprawność swojej wiedzy, szerokiego doświadczenia i sprawdzone sukcesy w dostarczaniu dostosowanych rozwiązań klientów do obszarów o wysokim zapotrzebowaniu klientów i istotności.</span><span class="sxs-lookup"><span data-stu-id="3a252-111">By meeting these strict requirements, partners can then validate their deep knowledge, extensive experience, and proven success at delivering tailored, customer solutions for areas of high customer demand and relevance.</span></span>
 
-<span data-ttu-id="3b0f9-112">Możesz uzyskać zaawansowane specjalizacje w kilku głównych obszarach wiedzy:</span><span class="sxs-lookup"><span data-stu-id="3b0f9-112">You can earn advanced specializations in a few, main areas of expertise:</span></span>
-
-- <span data-ttu-id="3b0f9-113">Azure</span><span class="sxs-lookup"><span data-stu-id="3b0f9-113">Azure</span></span>
-- <span data-ttu-id="3b0f9-114">Nowoczesne prace</span><span class="sxs-lookup"><span data-stu-id="3b0f9-114">Modern Work</span></span>
-- <span data-ttu-id="3b0f9-115">Zabezpieczenia</span><span class="sxs-lookup"><span data-stu-id="3b0f9-115">Security</span></span>
-
-<span data-ttu-id="3b0f9-116">Zaawansowane specjalizacje **platformy Azure** obejmują:</span><span class="sxs-lookup"><span data-stu-id="3b0f9-116">**Azure** advanced specializations include:</span></span>
-
-- <span data-ttu-id="3b0f9-117">Migracja magazynu danych do Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="3b0f9-117">Data Warehouse Migration to Microsoft Azure</span></span>
-- <span data-ttu-id="3b0f9-118">Kubernetes na Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="3b0f9-118">Kubernetes on Microsoft Azure</span></span>
-- <span data-ttu-id="3b0f9-119">Migracja baz danych systemu Linux i open source do Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="3b0f9-119">Linux and Open Source Databases Migration to Microsoft Azure</span></span>
-- <span data-ttu-id="3b0f9-120">Pulpit wirtualny systemu Microsoft Windows</span><span class="sxs-lookup"><span data-stu-id="3b0f9-120">Microsoft Windows Virtual Desktop</span></span>
-- <span data-ttu-id="3b0f9-121">Modernizacja aplikacji sieci Web do Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="3b0f9-121">Modernization of Web Applications to Microsoft Azure</span></span>
-- <span data-ttu-id="3b0f9-122">Rozwiązania SAP na platformie Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="3b0f9-122">SAP on Microsoft Azure</span></span>
-- <span data-ttu-id="3b0f9-123">System Windows Server i migracja SQL Server do Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="3b0f9-123">Windows Server and SQL Server Migration to Microsoft Azure</span></span>
-
-<span data-ttu-id="3b0f9-124">**Nowoczesne zadania** specjalizacji obejmują:</span><span class="sxs-lookup"><span data-stu-id="3b0f9-124">**Modern Work** advanced specializations include:</span></span>
-
-- <span data-ttu-id="3b0f9-125">Wdrażanie i zarządzanie zmianami</span><span class="sxs-lookup"><span data-stu-id="3b0f9-125">Adoption and Change Management</span></span>
-- <span data-ttu-id="3b0f9-126">Wywoływanie usługi Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="3b0f9-126">Calling for Microsoft Teams</span></span>
-- <span data-ttu-id="3b0f9-127">Spotkania i pokoje spotkań dla zespołów Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="3b0f9-127">Meetings and Meeting Rooms for Microsoft Teams</span></span>
-- <span data-ttu-id="3b0f9-128">Wdrożenie zespołowej</span><span class="sxs-lookup"><span data-stu-id="3b0f9-128">Teamwork Deployment</span></span>
-
-<span data-ttu-id="3b0f9-129">Zaawansowane specjalizacje **zabezpieczeń** obejmują:</span><span class="sxs-lookup"><span data-stu-id="3b0f9-129">**Security** advanced specializations include:</span></span>
-
-- <span data-ttu-id="3b0f9-130">Zarządzanie tożsamością i dostępem</span><span class="sxs-lookup"><span data-stu-id="3b0f9-130">Identity and Access Management</span></span>
-- <span data-ttu-id="3b0f9-131">Ochrona przed zagrożeniami</span><span class="sxs-lookup"><span data-stu-id="3b0f9-131">Threat Protection</span></span>
+<span data-ttu-id="3a252-112">Partnerzy, którzy zyskują zaawansowaną specjalizację, otrzymają etykietę skierowaną do klienta, która może być wyświetlana w profilu biznesowym w programie [wyszukiwania dostawcy rozwiązań firmy Microsoft](https://www.microsoft.com/solution-providers/home).</span><span class="sxs-lookup"><span data-stu-id="3a252-112">Partners who earn an advanced specialization will obtain a customer-facing label they can display on their business profile in the [Microsoft solution provider finder](https://www.microsoft.com/solution-providers/home).</span></span> <span data-ttu-id="3a252-113">Ta etykieta umożliwia dalsze sprawdzanie poprawności możliwości partnera, jednocześnie zapewniając im dostęp do skojarzonych korzyści, zwiększonego osiągalnego klienta i większego zaufania klienta.</span><span class="sxs-lookup"><span data-stu-id="3a252-113">This label further validates the partner's capabilities, while giving them access to associated benefits, expanded customer reach, and greater customer confidence.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="3b0f9-132">Aby dowiedzieć się więcej na temat każdej zaawansowanej specjalizacji, a także jej wymagań wstępnych i wymagań, zobacz [Microsoft Partner Network zaawansowanych specjalizacji](https://partner.microsoft.com/membership/advanced-specialization).</span><span class="sxs-lookup"><span data-stu-id="3b0f9-132">To learn about each advanced specialization, along with its prerequisites and requirements, see [Microsoft Partner Network advanced specializations](https://partner.microsoft.com/membership/advanced-specialization).</span></span> <span data-ttu-id="3b0f9-133">Następnie, gdy wszystko będzie gotowe do zastosowania w przypadku zaawansowanej specjalizacji i sprawdzenia postępu, przejdź do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.</span><span class="sxs-lookup"><span data-stu-id="3b0f9-133">Then, when you're ready to apply for an advanced specialization and check your progress, go to the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span> <span data-ttu-id="3b0f9-134">Aby dowiedzieć się więcej na temat uzyskiwania dostępu do tego obszaru Centrum partnerskiego, zobacz artykuł [dotyczący zaawansowanej specjalizacji](advanced-specializations-apply.md).</span><span class="sxs-lookup"><span data-stu-id="3b0f9-134">To learn more about accessing this area of Partner Center, see [Apply for an advanced specialization](advanced-specializations-apply.md).</span></span>
+> <span data-ttu-id="3a252-114">Aby dowiedzieć się więcej o zaawansowanych specjalizacjach, odwiedź [stronę Microsoft Partner Network zaawansowanych specjalizacji](https://partner.microsoft.com/membership/advanced-specialization).</span><span class="sxs-lookup"><span data-stu-id="3a252-114">To learn more about advanced specializations, visit the [Microsoft Partner Network advanced specializations page](https://partner.microsoft.com/membership/advanced-specialization).</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="3b0f9-135">Następne kroki</span><span class="sxs-lookup"><span data-stu-id="3b0f9-135">Next steps</span></span>
+## <a name="advanced-specialization-areas"></a><span data-ttu-id="3a252-115">Zaawansowane obszary specjalizacji</span><span class="sxs-lookup"><span data-stu-id="3a252-115">Advanced specialization areas</span></span>
 
-- <span data-ttu-id="3b0f9-136">Użyj Centrum partnerskiego [, aby zastosować i sprawdzić stan zaawansowanych specjalizacji](advanced-specializations-apply.md)</span><span class="sxs-lookup"><span data-stu-id="3b0f9-136">Use Partner Center to [apply for and check the status of advanced specializations](advanced-specializations-apply.md)</span></span>
+<span data-ttu-id="3a252-116">Każda zaawansowana specjalizacja odpowiada obszarowi rozwiązania:</span><span class="sxs-lookup"><span data-stu-id="3a252-116">Each advanced specialization corresponds to a solution area:</span></span>
 
-- <span data-ttu-id="3b0f9-137">Dowiedz się więcej na temat [zaawansowanych specjalizacji, ich korzyści i unikatowych wymagań](https://partner.microsoft.com/membership/advanced-specialization)</span><span class="sxs-lookup"><span data-stu-id="3b0f9-137">Learn more about [advanced specializations, their benefits, and unique requirements](https://partner.microsoft.com/membership/advanced-specialization)</span></span>
+- <span data-ttu-id="3a252-117">Azure</span><span class="sxs-lookup"><span data-stu-id="3a252-117">Azure</span></span>
+- <span data-ttu-id="3a252-118">Aplikacje biznesowe</span><span class="sxs-lookup"><span data-stu-id="3a252-118">Business Applications</span></span>
+- <span data-ttu-id="3a252-119">Nowoczesne prace</span><span class="sxs-lookup"><span data-stu-id="3a252-119">Modern Work</span></span>
+- <span data-ttu-id="3a252-120">Zabezpieczenia</span><span class="sxs-lookup"><span data-stu-id="3a252-120">Security</span></span>
 
-- <span data-ttu-id="3b0f9-138">Dowiedz się więcej na temat [osiągania kompetencji firmy Microsoft Silver lub Gold](learn-about-competencies.md)</span><span class="sxs-lookup"><span data-stu-id="3b0f9-138">Learn about [attaining Microsoft silver or gold membership competencies](learn-about-competencies.md)</span></span>
+<span data-ttu-id="3a252-121">Zaawansowane specjalizacje **platformy Azure** obejmują:</span><span class="sxs-lookup"><span data-stu-id="3a252-121">**Azure** advanced specializations include:</span></span>
 
-- <span data-ttu-id="3b0f9-139">Dowiedz się więcej na temat [kompetencji Microsoft Partner Network](https://partner.microsoft.com/membership/competencies)</span><span class="sxs-lookup"><span data-stu-id="3b0f9-139">Learn more about [Microsoft Partner Network competencies](https://partner.microsoft.com/membership/competencies)</span></span>
+- <span data-ttu-id="3a252-122">Migracja magazynu danych na platformę Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="3a252-122">Data Warehouse Migration to Microsoft Azure</span></span>
+- <span data-ttu-id="3a252-123">Środowisko Kubernetes na platformie Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="3a252-123">Kubernetes on Microsoft Azure</span></span>
+- <span data-ttu-id="3a252-124">Migracja baz danych systemu Linux i open source do Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="3a252-124">Linux and Open Source Databases Migration to Microsoft Azure</span></span>
+- <span data-ttu-id="3a252-125">Usługa Microsoft Windows Virtual Desktop</span><span class="sxs-lookup"><span data-stu-id="3a252-125">Microsoft Windows Virtual Desktop</span></span>
+- <span data-ttu-id="3a252-126">Modernizacja aplikacji internetowych do platformy Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="3a252-126">Modernization of Web Applications to Microsoft Azure</span></span>
+- <span data-ttu-id="3a252-127">Rozwiązania SAP na platformie Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="3a252-127">SAP on Microsoft Azure</span></span>
+- <span data-ttu-id="3a252-128">Migracja systemu Windows Server i programu SQL Server na platformę Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="3a252-128">Windows Server and SQL Server Migration to Microsoft Azure</span></span>
+
+<span data-ttu-id="3a252-129">**Business Applications** zaawansowane specjalizacje obejmują:</span><span class="sxs-lookup"><span data-stu-id="3a252-129">**Business Applications** advanced specializations include:</span></span>
+
+- <span data-ttu-id="3a252-130">Programowanie aplikacji niskiego kodu</span><span class="sxs-lookup"><span data-stu-id="3a252-130">Low Code Application Development</span></span>
+- <span data-ttu-id="3a252-131">Małe i średnie zarządzanie firmami</span><span class="sxs-lookup"><span data-stu-id="3a252-131">Small and Midsize Business Management</span></span>
+
+<span data-ttu-id="3a252-132">**Nowoczesne zadania** specjalizacji obejmują:</span><span class="sxs-lookup"><span data-stu-id="3a252-132">**Modern Work** advanced specializations include:</span></span>
+
+- <span data-ttu-id="3a252-133">Wdrażanie i zarządzanie zmianami</span><span class="sxs-lookup"><span data-stu-id="3a252-133">Adoption and Change Management</span></span>
+- <span data-ttu-id="3a252-134">Wywoływanie usługi Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="3a252-134">Calling for Microsoft Teams</span></span>
+- <span data-ttu-id="3a252-135">Spotkania i sale konferencyjne dla usługi Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="3a252-135">Meetings and Meeting Rooms for Microsoft Teams</span></span>
+- <span data-ttu-id="3a252-136">Wdrażanie pracy zespołowej</span><span class="sxs-lookup"><span data-stu-id="3a252-136">Teamwork Deployment</span></span>
+
+<span data-ttu-id="3a252-137">Zaawansowane specjalizacje **zabezpieczeń** obejmują:</span><span class="sxs-lookup"><span data-stu-id="3a252-137">**Security** advanced specializations include:</span></span>
+
+- <span data-ttu-id="3a252-138">Zarządzanie tożsamością i dostępem</span><span class="sxs-lookup"><span data-stu-id="3a252-138">Identity and Access Management</span></span>
+- <span data-ttu-id="3a252-139">Ochrona przed zagrożeniami</span><span class="sxs-lookup"><span data-stu-id="3a252-139">Threat Protection</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="3a252-140">Aby dowiedzieć się więcej na temat każdej zaawansowanej specjalizacji, a także jej wymagań wstępnych i wymagań, odwiedź [stronę zaawansowanych specjalizacji](https://partner.microsoft.com/membership/advanced-specialization).</span><span class="sxs-lookup"><span data-stu-id="3a252-140">To learn about each advanced specialization, along with its prerequisites and requirements, visit the [Advanced specializations page](https://partner.microsoft.com/membership/advanced-specialization).</span></span> <span data-ttu-id="3a252-141">Gdy wszystko będzie gotowe do zastosowania w przypadku zaawansowanej specjalizacji, sprawdź postęp, logując się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.</span><span class="sxs-lookup"><span data-stu-id="3a252-141">When you're ready to apply for an advanced specialization, check your progress by signing into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span> <span data-ttu-id="3a252-142">Aby dowiedzieć się więcej na temat uzyskiwania dostępu do tego obszaru Centrum partnerskiego, zobacz artykuł [dotyczący zaawansowanej specjalizacji](advanced-specializations-apply.md).</span><span class="sxs-lookup"><span data-stu-id="3a252-142">To learn more about accessing this area of Partner Center, see [Apply for an advanced specialization](advanced-specializations-apply.md).</span></span>
+
+## <a name="next-steps"></a><span data-ttu-id="3a252-143">Następne kroki</span><span class="sxs-lookup"><span data-stu-id="3a252-143">Next steps</span></span>
+
+- <span data-ttu-id="3a252-144">Użyj Centrum partnerskiego [, aby zastosować i sprawdzić stan zaawansowanych specjalizacji](advanced-specializations-apply.md)</span><span class="sxs-lookup"><span data-stu-id="3a252-144">Use Partner Center to [apply for and check the status of advanced specializations](advanced-specializations-apply.md)</span></span>
+
+- <span data-ttu-id="3a252-145">Dowiedz się więcej na temat [zaawansowanych specjalizacji, ich korzyści i unikatowych wymagań](https://partner.microsoft.com/membership/advanced-specialization)</span><span class="sxs-lookup"><span data-stu-id="3a252-145">Learn more about [advanced specializations, their benefits, and unique requirements](https://partner.microsoft.com/membership/advanced-specialization)</span></span>
+
+- <span data-ttu-id="3a252-146">Dowiedz się więcej na temat [osiągania kompetencji firmy Microsoft Silver lub Gold](learn-about-competencies.md)</span><span class="sxs-lookup"><span data-stu-id="3a252-146">Learn about [attaining Microsoft silver or gold membership competencies](learn-about-competencies.md)</span></span>
+
+- <span data-ttu-id="3a252-147">Dowiedz się więcej na temat [kompetencji Microsoft Partner Network](https://partner.microsoft.com/membership/competencies)</span><span class="sxs-lookup"><span data-stu-id="3a252-147">Learn more about [Microsoft Partner Network competencies](https://partner.microsoft.com/membership/competencies)</span></span>
