@@ -1,7 +1,7 @@
 ---
 title: Zarządzanie kontem w Centrum partnerskim
 ms.topic: conceptual
-ms.date: 11/20/2020
+ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Dowiedz się, jak za pomocą Centrum partnerskiego zarządzać profilem, informacjami o banku i podatkami, rolami, uprawnieniami i innymi innymi firmami.
@@ -9,16 +9,17 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3c5541323d691799d3f89b94ed9556c2458c737d
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182464"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235974"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Zarządzanie kontem Centrum partnerskiego — profil firmy, informacje o banku, role, uprawnienia i inne
 
-**Odpowiednie role** — Administrator globalny, administrator MPN
+**Odpowiednie role** — Administrator globalny
+- Administrator konta MPN
 
 Konto utworzone w centrum partnerskim po zarejestrowaniu to służbowy adres e-mail i informacje biznesowe. Po utworzeniu konta należy skonfigurować pełny profil firmy, w tym szczegóły pomocy technicznej, zwolnienia z podatku, jeśli to konieczne, oraz podstawowe informacje kontaktowe. Konto Twojej firmy będzie również obejmowało konta użytkowników dla wszystkich osób, które będą korzystać z Centrum partnerskiego do dodawania klientów i zarządzania nimi, sprzedaży subskrypcji, pracy z rozliczeniami i fakturowania, tworzenia profilów biznesowych, zarządzania odwołaniami, pracy z programami zachęt i zapewnienia pomocy technicznej.
 
@@ -60,6 +61,10 @@ Te strony umożliwiają zarządzanie szczegółowymi obszarami Twojej firmy, w t
 ### <a name="legal-info"></a>Informacje prawne
 
 Po pierwszym dołączeniu do Centrum partnerskiego firma przechodzi przez proces weryfikacji do firmy Microsoft. Stan weryfikacji można śledzić na stronie **Informacje prawne** . Przedstawia on główną osobę kontaktową (którą firma Microsoft skontaktuje w sprawie pytań partnerskich), a także podstawowy kontakt prawny (osoby, która zarządza informacjami i statusem prawnym). Wszystkie lokalizacje firmowe firmy zostały wymienione i można je dodać tutaj.
+
+### <a name="primary-contact-email"></a>Podstawowy kontaktowy adres e-mail
+
+Podstawowy kontaktowy adres e-mail jest używany do powiadamiania o weryfikacji konta. Bardzo ważne jest, aby poczta e-mail podaną dla kontaktu podstawowego była taka, która jest regularnie zarządzana i obserwowana.  
 
 Dowiedz się więcej [na temat weryfikacji i informacji o koncie](verification-responses.md).
 

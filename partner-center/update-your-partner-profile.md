@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 01/14/2021
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b0c9611927d644cc7a5beecc89e0a8cc6f066b7
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 3dc16fe12a722a7e926dcb72d46eeb9be6b7d4ea
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215887"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235923"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Weryfikowanie informacji o profilu organizacji w centrum partnerskim
 
@@ -27,8 +27,9 @@ Przy pierwszym zalogowaniu się do Centrum partnerskiego jako Administrator glob
 
 Twój Profil partnera składa się z informacji służbowych firmy, podstawowej nazwy kontaktu i poczty e-mail, programów, w których firma uczestniczy, a jeśli to konieczne, innych firm, które są teraz scalone w ramach firmy prawnej. Upewnij się, że nazwa firmy i adres w profilu biznesowym w firmie są bezpłatne i zawierają błędy pisowni oraz skróty i dokładnie pasują do oficjalnych rekordów rejestracji firmy. Jeśli używasz jako jedynego właściciela, musisz użyć nazwy firmy jako nazwy prawnej.
 
-- W przypadku kont MPN Administrator globalny i administrator konta mogą zaktualizować nazwę firmy prawnej.
-- W przypadku bezpośrednich kont odsprzedawców dostawcy usług kryptograficznych Administrator globalny może zaktualizować nazwę firmy prawnej. 
+>[!Important]
+>- W przypadku kont MPN Administrator globalny i administrator konta mogą zaktualizować nazwę firmy prawnej.
+>- W przypadku bezpośrednich kont odsprzedawców dostawcy usług kryptograficznych Administrator globalny może zaktualizować nazwę firmy prawnej. 
 
 ## <a name="locate-the-legal-business-profile"></a>Lokalizowanie profilu służbowego firmy
 
@@ -83,12 +84,7 @@ Jeśli jesteś administratorem globalnym, administratorem rozliczeń lub agentem
 
 ## <a name="next-steps"></a>Następne kroki
 
-
 - [Sprawdź stan weryfikacji](verification-responses.md)
  
 - [Zarządzaj lokalizacjami MPN](manage-locations.md)
 
-
-
-W przypadku programu MPN Administrator globalny i administrator konta mogą zaktualizować nazwę firmy prawnej.
-W przypadku odsprzedawcy pośredniego CSP Administrator globalny może zaktualizować nazwę firmy prawnej.

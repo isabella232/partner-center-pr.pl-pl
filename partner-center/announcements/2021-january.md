@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/07/2021
-ms.openlocfilehash: 042ef617bfde17c1a28ab91d89ae9151e339cefc
-ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
+ms.openlocfilehash: f92b801d5e3294e461d07f9089b545a41efc4d6a
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "98062454"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235940"
 ---
 # <a name="january-2021-announcements"></a>Ogłoszenia ze stycznia 2021 r.
 
@@ -23,6 +23,24 @@ Na tej stronie znajdują się szczegółowe informacje o anonsach programu Micro
 2021 anonse: styczeń
 
 2020 anonse [: od](2020-may.md)  |  [czerwca](2020-june.md)do  |  [lipca](2020-july.md),  |  [](2020-august.md)  |  [](2020-september.md)  |  [październik](2020-October.md)  |  [](2020-november.md)  |  [](2020-december.md) .  
+
+_____________ 
+
+## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="7"></a>Komercyjna Aktualizacja cen dla Korona norweska 
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-01-14
+- Oferty/rynki
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Partnerzy dostawcy rozwiązań w chmurze korzystający z Korona w języku norweskim.
+
+### <a name="details"></a>Szczegóły
+
+Od 1 marca 2021 ceny Korona w języku norweskim dla komercyjnego oprogramowania lokalnego i Usługi online zmienią się w taki sposób, aby były ponownie wyrównane z cenami obowiązującymi w regionie.
+Pełny anons jest dostępny tylko dla partnerów firmy Microsoft. [Zaloguj się, aby uzyskać dostęp do pełnego anonsu](https://partner.microsoft.com/resources/detail/pricing-update-norway-partners-pdf).
 
 _____________ 
 
