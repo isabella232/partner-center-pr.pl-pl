@@ -1,5 +1,5 @@
 ---
-title: Kup plan platformy Azure
+title: Kupowanie planu platformy Azure
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6f9908be183983c590c52b38465041c908c91d7c
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 04d47cef596b2c0a0ae13ff3f087d4b1b5f0437c
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92529469"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215904"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Kup plan platformy Azure dla klientów & uzyskać dostęp do najnowszych usług platformy Azure w ramach stawek płatność zgodnie z rzeczywistym użyciem
 
@@ -26,6 +26,7 @@ ms.locfileid: "92529469"
 W przypadku zakupu planu platformy Azure dla klientów w ramach umowy klienta firmy Microsoft masz dostęp do pełnego katalogu najnowszych usług platformy Azure w ramach stawek płatność zgodnie z rzeczywistym użyciem. Partnerzy CSP będą teraz mogli uzyskiwać dostęp do dowolnej usługi platformy Azure, gdy stanie się ogólnie dostępna. Partner może mieć wiele subskrypcji platformy Azure w ramach planu platformy Azure. 
 
 ## <a name="countryregion-availability"></a>Dostępność kraju/regionu
+
 Nowe środowisko komercyjne w programie CSP dla platformy Azure jest obecnie zaplanowane do udostępnienia w 139 krajach. Zapoznaj się z pełną listą tych [krajów/regionów](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x). 
 
 ## <a name="how-to-purchase-azure-plan"></a>Jak kupić plan platformy Azure

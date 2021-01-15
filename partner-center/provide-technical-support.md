@@ -9,21 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5ee0fcacb1d67fd015bd0e143d8d4e19b49ce71
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: e7488720bf0028dcccd86ee51b18d2a42b753e76
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92529470"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215836"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Zapewnianie pomocy technicznej, aby ułatwić klientom Konfigurowanie i używanie ich subskrypcji oraz zarządzanie nimi
 
-**Dotyczy**
-
-- Centrum partnerskie
-- Centrum partnerskie dla Microsoft Cloud dla instytucji rządowych USA
 
 **Odpowiednie role**
+
 - Administrator globalny
 - Administrator użytkowników
 - Agent pomocy technicznej
@@ -69,3 +66,7 @@ Każda usługa online ma określone i szczegółowe wymagania dotyczące udostę
 - [Subskrypcje platformy Azure sprzedawane za pomocą dostawcy usług kryptograficznych](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
 - [Subskrypcje pakietu Office 365 sprzedawane za poorednictwem dostawcy usług kryptograficznych](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+
+## <a name="next-steps"></a>Następne kroki
+
+- [Zgłoś problem dotyczący usługi w imieniu klienta — w tym informacje o tym, kiedy i jak to zrobić](report-problems-on-behalf-of-a-customer.md)

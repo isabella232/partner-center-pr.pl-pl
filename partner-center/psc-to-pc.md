@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
-ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
+ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97950590"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215955"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Przewodnik po przedsprzedaży w centrum partnerskim (komputer) dla partnerów migrowania z programu Partner Sales Connect (PSC)
 
@@ -26,7 +26,7 @@ ms.locfileid: "97950590"
 - Administrator połączenia z partnerem sprzedaży (PSC)
 - Menedżer ds. sprzedaży partnera (PSC)
 
-W tym artykule opisano partnerów migrowania z usługi Partner Sales Connect do Centrum partnerskiego, dzięki czemu mogą oni nadal tworzyć i zarządzać współpracownikami w centrum partnerskim.
+Ten artykuł zawiera wskazówki dotyczące partnerów migrowanych z programu partnerskiego Connect Sales do Centrum partnerskiego, dzięki czemu mogą oni nadal tworzyć i zarządzać ofertami współsprzedaży w centrum partnerskim.
 
 Jak wiadomo, firma utraci dostęp do kontrolera PSC po 31 marca 2021. Nadal jednak znajdziesz wszystko, co chcesz zrobić w centrum partnerskim, takie jak tworzenie transakcji towarzyszących, zarządzanie transakcjami i działanie w przypadku transakcji wysyłanych do Ciebie przez sprzedawcy firmy Microsoft.
 
@@ -353,7 +353,6 @@ Jeśli nie odczytano jeszcze tematów pomocy dotyczących współsprzedawcy, nas
 
 ## <a name="next-steps"></a>Następne kroki
 
-Wykonaj następujące dodatkowe zasoby:
 
 - [Partner Sales Connect z skoroszytem Centrum partnerskiego](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) — skoroszyt do wyrównania procesów sprzedaży i ról partnerów przy użyciu nowych procesów sprzedaży za pośrednictwem Centrum partnerskiego a łącznej sprzedaży partnera.
 - [Przewodnik po współpracy z centrum partnerskim](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) — wskazówki pozwalające zidentyfikować model operacyjny za pośrednictwem Centrum partnerskiego, aby zarządzać potencjalnymi klientami lub okazjami do sprzedaży oraz rejestrować oferty.

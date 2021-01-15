@@ -9,30 +9,27 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 82eaf215bcbc107da6a3f9f5049e4eb89c952ab0
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 11a17550ed5c0ab2154ec0daa03818236b26e820
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "92529188"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215938"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Zapewnij klientom pomoc techniczną dotyczącą rozliczeń i udziel odpowiedzi na pytania dotyczące rozliczeń
 
-**Dotyczy**
-
-- Centrum partnerskie
-- Centrum partnerskie dla Microsoft Cloud dla instytucji rządowych USA
 
 **Odpowiednie role**
+
 - Administrator globalny
 - Administrator użytkowników
 - Agent pomocy technicznej
 - Administrator rozliczeń
 - Agent sprzedaży
 
-Jesteś w relacji rozliczeń z klientami i odpowiadasz za odpowiadanie na pytania dotyczące rozliczeń od klientów.
+Użytkownik jest odpowiedzialny za rozliczenia z klientami i odpowiada za odpowiedzi na pytania dotyczące rozliczeń, które mogą być dostępne dla klientów.
 
-- Użytkownik jest odpowiedzialny za płatność w czasie do firmy Microsoft.
+- Użytkownik jest odpowiedzialny za płatności w czasie do firmy Microsoft.
 
 - Zalecamy ustanowienie zasad czyszczenia kolekcji z klientami, którzy opisują proces tworzenia kolekcji i kiedy dostęp do subskrypcji, usług lub oprogramowania klienta będzie miał wpływ.
 
@@ -66,4 +63,7 @@ Każda usługa online ma określone i szczegółowe wymagania dotyczące udostę
 - [Subskrypcje platformy Azure sprzedawane za pomocą dostawcy usług kryptograficznych](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
 - [Subskrypcje pakietu Office 365 sprzedawane za poorednictwem dostawcy usług kryptograficznych](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
- 
+ 
+## <a name="next-steps"></a>Następne kroki
+
+- [Zapewnianie pomocy technicznej](provide-technical-support.md)

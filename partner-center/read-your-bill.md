@@ -9,19 +9,15 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edb2d25b49bd5c40dfd30e9f21d2d8537a5669c4
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92529378"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215819"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Zapoznaj się z plikiem rachunku i rozliczeniami — Dowiedz się, jak je znaleźć w centrum partnerskim
 
-**Dotyczy**
-
-- Centrum partnerskie
-- Centrum partnerskie dla Microsoft Cloud dla instytucji rządowych USA
 
 **Odpowiednie role**
 
@@ -36,7 +32,7 @@ ms.locfileid: "92529378"
 
 Firma Microsoft będzie wydawać jedną fakturę za wszelkie opłaty za licencje (takie jak Office 365) i opłaty za użycie (na przykład platformę Azure) oraz oddzielne faktury za jednorazowe opłaty (takie jak Azure — RI, Marketplace lub Azure plan).
 
-Przykład:  
+Na przykład  
 
 **Scenariusz 1 [pojedyncza waluta]**: partner ma zakupy dla ofert 145P i licencji usługi O365,  
 
@@ -60,7 +56,7 @@ Przykład:
 
 Fakturę można znaleźć na stronie rozliczenia pulpitu nawigacyjnego w centrum partnerskim. Możesz również znaleźć historię rozliczeń, trendy wydatków i pliki uzgadniania na tej stronie. 
 
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home)Centrum partnerskiego. 
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home) Centrum partnerskiego. 
 
 2. W menu po lewej stronie wybierz pozycję **rozliczenia**. 
 
@@ -97,3 +93,7 @@ Aby uzyskać szczegółowy opis wszystkich pól w pliku faktury (w tym pól dla 
 ## <a name="understand-reconciliation-files"></a>Omówienie plików uzgadniania
 
  Pliki uzgadniania, które udostępniają szczegółowe dane dotyczące szczegółów opłat, są dostępne do pobrania wraz z DOKUMENTem faktury. Pliki uzgadniania obejmują identyfikatory klientów i identyfikatory subskrypcji, których można użyć do tworzenia faktur klienta. Zapoznaj się z  [tematem jak używać plików uzgadniania](use-the-reconciliation-files.md) , aby uzyskać więcej szczegółów na temat plików rekonesans. 
+
+## <a name="next-steps"></a>Następne kroki
+
+- [Jak używać plików uzgadniania](use-the-reconciliation-files.md)

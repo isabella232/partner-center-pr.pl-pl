@@ -6,15 +6,15 @@ description: Dowiedz się, jak weryfikować szczegóły firmy, takie jak podstaw
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 12/17/2020
+ms.date: 01/14/2021
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 938713a08b52d7f5d601ef7801f300eec223b921
-ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
+ms.openlocfilehash: 3b0c9611927d644cc7a5beecc89e0a8cc6f066b7
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "97666795"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215887"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Weryfikowanie informacji o profilu organizacji w centrum partnerskim
 
@@ -27,6 +27,11 @@ Przy pierwszym zalogowaniu się do Centrum partnerskiego jako Administrator glob
 
 Twój Profil partnera składa się z informacji służbowych firmy, podstawowej nazwy kontaktu i poczty e-mail, programów, w których firma uczestniczy, a jeśli to konieczne, innych firm, które są teraz scalone w ramach firmy prawnej. Upewnij się, że nazwa firmy i adres w profilu biznesowym w firmie są bezpłatne i zawierają błędy pisowni oraz skróty i dokładnie pasują do oficjalnych rekordów rejestracji firmy. Jeśli używasz jako jedynego właściciela, musisz użyć nazwy firmy jako nazwy prawnej.
 
+- W przypadku kont MPN Administrator globalny i administrator konta mogą zaktualizować nazwę firmy prawnej.
+- W przypadku bezpośrednich kont odsprzedawców dostawcy usług kryptograficznych Administrator globalny może zaktualizować nazwę firmy prawnej. 
+
+## <a name="locate-the-legal-business-profile"></a>Lokalizowanie profilu służbowego firmy
+
 1. Przejdź do ikony **ustawień** i wybierz pozycję **Ustawienia konta**.
  
 1. Wybierz pozycję **profil organizacji**. 
@@ -37,15 +42,15 @@ Jeśli Twoje inne firmy zostały scalone z firmą prawną, można również prze
 
 ## <a name="update-your-legal-business-profile"></a>Zaktualizuj swój służbowy profil biznesowy
 
-Teraz możesz zaktualizować swój adres prawny w centrum partnerskim.
+Zaktualizuj swój adres prawny w centrum partnerskim.
 
-1. Przejdź do pozycji **Ustawienia** i wybierz pozycję **profil organizacji**
+1. Przejdź do pozycji **Ustawienia** i wybierz pozycję **profil organizacji**.
 
 
 2. Wybierz pozycję **Legal**  , a następnie wybierz odpowiedni profil biznesowy, którego chcesz użyć.
 
 >[!Important]
->Jeśli jesteś partnerem dostawcy rozwiązań w chmurze (CSP), nie możesz zmienić kraju skojarzonego z Twoim adresem dozwolonym. Kraj adresu prawnego jest powiązany z dzierżawcą i usługami, a także z walutą, z którą prowadzone są firmy. Jeśli nie znajdują się w programie CSP, możesz zmienić kraj skojarzony z Twoim adresem dozwolonym. Nie można zaktualizować nazwy firmy w centrum partnerskim, jeśli stan przed sprawdzeniem to "autoryzowane". Konieczne będzie [utworzenie biletu pomocy technicznej](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
+>Jeśli jesteś partnerem dostawcy rozwiązań w chmurze (CSP), nie możesz zmienić kraju skojarzonego z Twoim adresem dozwolonym. Kraj adresu prawnego jest powiązany z dzierżawcą i usługami, a także z walutą, z którą prowadzone są firmy. Jeśli nie jesteś w programie CSP, możesz zmienić kraj skojarzony z Twoim adresem dozwolonym. Nie można zaktualizować nazwy firmy prawnej w centrum partnerskim, jeśli stan walidacji to "autoryzowane". Jeśli konieczna będzie zmiana nazwy, należy [utworzyć bilet pomocy technicznej](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
 3. Po wybraniu opcji Prześlij tożsamość prawna zostanie **ponownie** oceniona i otrzymasz kolejną wiadomość e-mail, która będzie potrzebna do zaakceptowania.
 
@@ -85,3 +90,5 @@ Jeśli jesteś administratorem globalnym, administratorem rozliczeń lub agentem
 
 
 
+W przypadku programu MPN Administrator globalny i administrator konta mogą zaktualizować nazwę firmy prawnej.
+W przypadku odsprzedawcy pośredniego CSP Administrator globalny może zaktualizować nazwę firmy prawnej.
