@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/07/2021
-ms.openlocfilehash: f92b801d5e3294e461d07f9089b545a41efc4d6a
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.date: 01/15/2021
+ms.openlocfilehash: 60a0f0a3c2d26d431cd4a79e606d96ae01fb50a1
+ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235940"
+ms.lasthandoff: 01/18/2021
+ms.locfileid: "98560480"
 ---
 # <a name="january-2021-announcements"></a>Ogłoszenia ze stycznia 2021 r.
 
@@ -23,6 +23,112 @@ Na tej stronie znajdują się szczegółowe informacje o anonsach programu Micro
 2021 anonse: styczeń
 
 2020 anonse [: od](2020-may.md)  |  [czerwca](2020-june.md)do  |  [lipca](2020-july.md),  |  [](2020-august.md)  |  [](2020-september.md)  |  [październik](2020-October.md)  |  [](2020-november.md)  |  [](2020-december.md) .  
+
+_____________ 
+
+## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>Zostanie uruchomiona Metoda Security, zgodność i tożsamość (SCI) 1 lutego 2021 
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-01-15
+- Oferty/rynki
+
+### <a name="summary"></a>Podsumowanie
+
+Kilka uruchomień Microsoft 365 zostanie uwzględnionych w wersji zapoznawczej cennika w styczniu i będzie dostępna od 1 lutego 2021.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Wszyscy partnerzy przeprowadzają Operacje transakcyjne przez program Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Szczegóły
+
+#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[Jednostki SKU składnika zgodności Microsoft 365 G5 dla instytucji rządowych](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
+
+Będziemy otrzymywać trzy nowe oferty składników w chmurze dla instytucji rządowych i w ramach usług w zatoce, które będą dostępne od 1 lutego 2021. Te jednostki SKU będą równoważne Microsoft 365 E5 Information Protection i ładu, M365 E5 (zarządzanie ryzykiem niejawnego) i Microsoft 365 E5 dla & inspekcji, które są obecnie dostępne w celach komercyjnych. 
+
+   |**Nazwa oferty**|**Identyfikator oferty**|**Identyfikator materiału**|
+   |-------------------|:------|:------|
+   |Microsoft 365 E5 Information Protection i ładu dla programu w zatoce|9e5397ab-f309-4d90-97f3-6fb5d53074d6|8QL-00002|
+   |Microsoft 365 E5 zbieranie elektronicznych materiałów dowodowych i inspekcji dla programu w zatoce|5c9ef884-6307-47e7-a914-f5092feae51e|8RI-00002|
+   |Microsoft 365 zarządzanie ryzykiem niejawnego zamieszkania w usłudze w zatoce|11ccfdb3-80cb-4c80-8146-c9775045df17|8RF-00002|
+   |Microsoft 365 E5 Information Protection i DLP (dodatek) dla programu w zatoce|911d3177-53a9-42ec-a0e9-3b73fce527f0|8QY-00002|
+
+#### <a name="10-year-audit-log-retention-add-on"></a>[dodatek do przechowywania dziennika inspekcji w trybie 10 lat](https://docs.microsoft.com/microsoft-365/compliance/)
+
+Dodatek dostępny z warunkiem wstępnym Microsoft 365 E5 umożliwi klientom przechowywanie danych przez 10 lat. 
+
+   |**Nazwa oferty**|**Identyfikator oferty**|**Identyfikator materiału**|
+   |-------------------|:------|:------|
+   |10-letni okres przechowywania dziennika inspekcji dla platformy EDU|879b5e1a-eaa2-4ea9-a628-0b429b2e8732|8LC-00002|
+   |10-letni okres przechowywania dziennika inspekcji|e14ce8d1-09f4-42d2-9b5e-ee85f32e7be4|8LB-00003|
+   
+#### <a name="frontline-worker-add-ons"></a>Dodatki procesu roboczego teraźniejszości
+
+Od 1 lutego 2021 klienci mogą zakupić trzy nowe oferty programistyczne w zakresie zabezpieczeń i zgodności dla pracowników teraźniejszości jako dodatki do [Microsoft 365 F1 i F3 jednostek SKU](https://www.microsoft.com/microsoft-365/firstline-workers).
+
+Te oferty programistyczne zastąpią bieżącą promocję [zabezpieczeń i zgodności](https://microsoft.sharepoint.com/teams/M365LicensingNews/SitePages/Security-and-Compliance-Promotion-for-Firstline-Workers-Update.aspx) , która wygaśnie **28 lutego 2021**. W przeciwieństwie do bieżącej promocji, dodatki F5 zapewniają klientom większą przewidywalność do prognozowania w miarę rozwoju ich pracowników teraźniejszości.
+
+   
+   |**Nazwa oferty**|**Identyfikator oferty**|**Identyfikator materiału**|
+   |-------------------|:------|:------|
+   |Microsoft 365 F5 Security|a8fba59e-1fc2-4658-8684-5f3d0c71c490|8RQ-00003|
+   |Microsoft 365 zgodności z F5|6dc6cb1d-7bcb-4234-80cc-9c7a9cded044|8RL-00003|
+   |Zgodność & Microsoft 365 F5 Security|ad396924-ee4e-4059-b779-efe43dfa24d2|8RU-00003|
+   
+### <a name="next-steps"></a>Następne kroki
+
+Zapoznaj się z cennikiem w wersji zapoznawczej i Udostępnij odpowiednim udziałowcom w organizacji. Aby uzyskać więcej informacji, przejdź do pozycji [Microsoft Security and zgodność — Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-security-and/ct-p/MicrosoftSecurityandCompliance).
+
+### <a name="questions"></a>Masz pytania?
+
+Aby dowiedzieć się więcej na temat tych ofert, należy zapoznać się z odpowiednimi społecznościami Yammer. 
+
+_____________ 
+
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="8"></a>DocuSign migrację do usługi Adobe Sign dla partnerów w ramach umów Microsoft Partner Agreement (MPAs) 
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-01-15
+- Możliwości
+
+### <a name="summary"></a>Podsumowanie
+
+Firma Microsoft przeniesie wszystkie operacje przetwarzania podpisów elektronicznych z usługi DocuSign do firmy Adobe Sign.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Istniejący bezpośredni i pośredni partnerzy dostawcy rozwiązań w chmurze (CSP) w ramach programu MPA. Partnerzy na Ukrainie, Rosja i Kazachstan będą zobowiązani do fizycznego lub elektronicznego ponownego podpisania kierowcy.
+
+### <a name="details"></a>Szczegóły
+
+W lutym 2021 firma Microsoft rozpocznie przechodzenie przez wszystkie elektroniczne przetwarzanie podpisów z DocuSign do firmy Adobe w przypadku partnerów programu CSP. 
+
+Powinno się oczekiwać na bezproblemowe przejście. Po migracji otrzymasz wiadomość e-mail od adobesign@adobesign.com , a nie Docusign, gdy podpis elektroniczny jest wymagany. Ta wiadomość e-mail będzie udostępniać link do strony internetowej podpisywania firmy Adobe, w której będzie konieczne podpisywanie. Partnerzy firmy Microsoft nie będą musieli ponowne podpisać istniejących umów, tylko w przyszłości. 
+
+Przykład wiadomości e-mail z żądaniem podpisu Adobe Sign można znaleźć w [galerii zasobów](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf). 
+
+**Aby uzyskać najlepsze doświadczenia, należy wykonać następujące czynności:**
+
+1. Dodaj adobesign@adobesign.com do listy bezpiecznych nadawców, aby uniknąć wiadomości e-mail z tego konta bezpośrednio do folderu wiadomości-śmieci.
+2. Pracuj z działem IT, aby:
+   - Dodaj adobesign@adobesign.com adres e-mail do swojej listy bezpiecznych nadawców, aby upewnić się, że nie jest ona uwzględniona w żadnej z wcześniej ustanowionych reguł wyłudzania informacji.
+   - Zaktualizuj istniejące zasady zabezpieczeń, aby upewnić się, że wszyscy z wymaganych adresatów mogą podpisać dokumentację w ramach licencji firmy Adobe Sign w przedsiębiorstwie.
+
+Firma Adobe Sign to preferowane elektroniczne rozwiązanie do przesyłania podpisu w firmie Microsoft (ESS). Przejście do programu Adobe Sign zapewni bezpieczne i wydajne środowisko przesyłania podpisu elektronicznego, które będzie dostarczać klientom i partnerom większą wartość.
+
+Aby uzyskać dodatkowe informacje na temat sposobu elektronicznego podpisywania dokumentów i delegowania podpisu elektronicznego, zapoznaj się z następującymi **samouczkami**: 
+- [Elektroniczne podpisywanie dokumentu | Samouczki dotyczące podpisywania firmy Adobe](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [Delegowanie innej osoby do podpisywania dokumentu | Samouczki dotyczące podpisywania firmy Adobe](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>Następne kroki
+
+Udostępnij te informacje właściwym udziałowcom w organizacji.
+
+### <a name="questions"></a>Masz pytania?
+
+Jeśli masz jakieś pytania, skontaktuj się z regionalnym centrum operacji przy użyciu [narzędzia rejestrowania wywołań (CLT)](https://clt.partners.extranet.microsoft.com/CLT) lub w witrynie [Eksplorowanie MS](https://www.explore.ms/). Postępuj zgodnie ze standardowym procesem CLT, aby umożliwić szybkie rozwiązanie tego zapytania.
 
 _____________ 
 
