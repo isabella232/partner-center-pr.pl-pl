@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 6c7255f1bece1b107d173b8f1dc8a2b77defa992
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: bc85c2537201c3fab95541798932fe1be0a9a231
+ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235957"
+ms.lasthandoff: 01/18/2021
+ms.locfileid: "98560497"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
@@ -22,6 +22,8 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 
 | **Kategoria** | **Ogłoszenia ze stycznia 2021 r.** | **Ogłoszone** |
 |---------|:---------|:---------|
+|Oferty/rynki|[Nowe możliwości związane z zabezpieczeniami, zgodnością i tożsamością wprowadzane 1 lutego 2021 r.](2021-january.md#9)|15 stycznia|
+|Możliwości|[Migracja DocuSign do programu Adobe Sign dla partnerów, którzy mają umowy Microsoft Partner Agreement (MPA)](2021-january.md#8)|15 stycznia|
 |Oferty/rynki|[Aktualizacja cennika komercyjnego w koronach norweskich](2021-january.md#7)|14 stycznia|
 |Oferty/rynki|[Aktualizacja cennika komercyjnego w rupiach indyjskich](2021-january.md#6)|8 stycznia|
 |Oferty/rynki|[Aktualizacje pakietu telefonicznego i systemu telefonicznego wprowadzane 1 lutego 2021 r.](2021-january.md#5)|8 stycznia|
