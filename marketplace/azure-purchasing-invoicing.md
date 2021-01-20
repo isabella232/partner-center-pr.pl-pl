@@ -5,13 +5,13 @@ ms.prod: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.date: 01/18/2021
+ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182481"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584200"
 ---
 # <a name="azure-marketplace-purchasing"></a>Kupowanie w portalu Azure Marketplace
 
@@ -60,6 +60,20 @@ Gdy kupujesz produkty z witryny Azure Marketplace, chcesz uzyskać szczegółowe
 Możesz wyświetlić opłaty i faktury w witrynie Azure Marketplace w narzędziu analizy kosztów w obszarze usługi Azure Cost Management.
 
 :::image type="content" source="media/overview/azure-cost-management.png" alt-text="Użyj Azure Cost Management, aby uzyskać wgląd w zakupione produkty.":::
+
+## <a name="purchase-validation-checks"></a>Sprawdzanie poprawności zakupów
+
+Zakup oferty w portalu Azure Marketplace może zakończyć się niepowodzeniem z różnych powodów. Korzystanie z interfejsu wiersza polecenia (CLI) dla zakupu może spowodować błędy, ponieważ użytkownik próbuje zakupić ofertę, która nie jest dostępna ani widoczna w portalu Azure Marketplace. Poniżej przedstawiono testy, które mogą spowodować niepowodzenie zakupu:
+
+1. Subskrypcja należy do Umowa Enterprise (EA), a administrator EA wyłączył zakupy w portalu Azure Marketplace.
+1. Administrator EA włączył zakupy tylko dla bezpłatnych ofert, a oferta jest ofertą płatną.
+1. Oferta nie została znaleziona w portalu Marketplace.
+1. Niezależny dostawca oprogramowania (ISV) przestał sprzedawać ofertę, co najmniej w Twoim regionie.
+1. Używana subskrypcja należy do konta rozliczeniowego w regionie, w którym oferta jest niedostępna.
+1. Konto subskrypcji/rozliczeń nie jest skojarzone z prawidłowym instrumentem płatniczym (takim jak karta kredytowa).
+1. Subskrypcja należy do dostawcy rozwiązań w chmurze (CSP) i niezależnego od dostawcy oprogramowania.
+1. Dla subskrypcji jest włączona funkcja Private Marketplace, a oferta nie znajduje się na liście dozwolonych ofert.
+1. Oferta jest prywatna/w wersji zapoznawczej dla określonych klientów i subskrypcja nie znajduje się na liście dozwolonych klientów.
 
 ## <a name="next-steps"></a>Następne kroki
 

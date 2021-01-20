@@ -1,7 +1,7 @@
 ---
 title: Sprzedawanie oprogramowania lokalnego za poorednictwem dostawcy usług kryptograficznych
 ms.topic: how-to
-ms.date: 05/05/2020
+ms.date: 01/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, w jaki sposób partnerzy w programie CSP mogą kupować, sprzedawać i anulować subskrypcje oprogramowania lokalnego w imieniu klientów w centrum partnerskim.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 179527f2edc710420be0b7119b758389dddf6947
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: b1d9cddd46ac6ee23a92fab41fc41b1e7eb613a1
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "92529449"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584162"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Sprzedawanie oprogramowania lokalnego za pomocą programu dostawcy rozwiązań w chmurze (CSP)
 
@@ -40,17 +40,12 @@ Aby kupić subskrypcje oprogramowania w imieniu klienta, przejdź do strony szcz
 Po zakupie oprogramowania użytkownik i jego klienci muszą je pobrać. Użyj poniższej procedury w tym celu. 
 
 >[!NOTE]
->Aby uzyskać klucze i pliki do pobrania, musisz być agentem administracyjnym. 
+>Aby uzyskać klucze i pliki do pobrania, musisz być agentem administracyjnym.
 
-1. Przejdź do strony szczegółów klienta, a następnie wybierz pozycję **oprogramowanie**. Zostanie wyświetlona lista wszystkich programów zakupionych w imieniu klienta. 
-2.  Rozwiń produkt, który chcesz pobrać. W polu **Wybierz produkt** wybierz żądaną **wersję**, **Język** i **Typ pliku/systemu operacyjnego** . 
-3.  Wybierz pozycję **Prześlij** , aby wyświetlić określone produkty. 
-4.  Wybierz pozycję **Pobierz klucze i pliki do pobrania**. 
-5.  Wybierz pozycję **Pobierz** , aby rozpocząć pobieranie, lub wybierz pozycję **Kopiuj link** , aby skopiować link i wysłać go do klienta. 
+1. Przejdź do strony szczegółów klienta, a następnie wybierz pozycję **oprogramowanie**. Zostanie wyświetlona lista wszystkich programów zakupionych w imieniu klienta.
+2. Skopiuj łącze z **linku do kluczy produktów oprogramowania i Pobierz** i Udostępnij link klientowi. Po wybraniu tego linku zostaną one przekierowane do portalu administracyjnego firmy Microsoft, aby pobrać i uzyskać klucze produktów.
 
->[!NOTE]
->Ten link wygaśnie po upływie dwóch tygodni lub 50 pobrań, zależnie od tego, co nastąpi wcześniej. Po wygaśnięciu linku Wróć do tej strony i wybierz pozycję **Pobierz klucze i pliki do pobrania** ponownie, aby włączyć kolejne dwa tygodnie lub 50 pobierania. Możesz to zrobić tyle razy, ile będziesz potrzebować. 
-
+Jeśli ty lub klienci chcą dowiedzieć się więcej o pobieraniu kluczy licencji, zobacz [Pobieranie oprogramowania i kluczy licencji produktów](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 
 ## <a name="cancel-a-purchase"></a>Anulowanie zakupu
 

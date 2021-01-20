@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/15/2021
-ms.openlocfilehash: 60a0f0a3c2d26d431cd4a79e606d96ae01fb50a1
-ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
+ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
+ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "98560480"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "98571673"
 ---
 # <a name="january-2021-announcements"></a>Ogłoszenia ze stycznia 2021 r.
 
@@ -24,7 +24,84 @@ Na tej stronie znajdują się szczegółowe informacje o anonsach programu Micro
 
 2020 anonse [: od](2020-may.md)  |  [czerwca](2020-june.md)do  |  [lipca](2020-july.md),  |  [](2020-august.md)  |  [](2020-september.md)  |  [październik](2020-October.md)  |  [](2020-november.md)  |  [](2020-december.md) .  
 
-_____________ 
+________________
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> Bezterminowe oprogramowanie jest teraz ogólnie dostępne dla programu dostawcy rozwiązań w chmurze
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-01-19
+- Rozwijanie firmy
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Wszyscy partnerzy CSP
+
+### <a name="details"></a>Szczegóły
+
+Zgodnie z [ogłoszeniem](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) dzisiaj przyjemnością o to, że komercyjne licencje na oprogramowanie bezterminowe są teraz ogólnie dostępne dla wszystkich partnerów CSP do sprzedaży. Lista cenowa oprogramowania CSP Centrum partnerskiego została ponownie opublikowana i zawiera dodatkowe produkty i lokalizacje geograficzne.
+
+Należy również pamiętać, że obecnie wycofane oprogramowanie partnerskie i klucz licencji zakończyło się i że klienci w przyszłości powinni korzystać z centrum administracyjnego Microsoft 365 w tym celu.
+Zobacz poniżej, aby uzyskać szczegółowe informacje i następne kroki.
+
+### <a name="next-steps"></a>Następne kroki
+
+- Pobierz listę cenową **oprogramowania CSP wieczystą** w sekcji **oprogramowanie** na stronie [oferty &](https://partnercenter.microsoft.com/en-us/pcv/sales) . Listę nowo dodanych produktów i lokalizacje geograficzne można znaleźć [tutaj](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
+- Zapoznaj się z [artykułem w centrum administracyjnym](https://go.microsoft.com/fwlink/p/?linkid=2152525) , w którym klucze licencji bezterminowych i produktów programu Microsoft 365 Center są pobierane z klientów, którzy są gotowi do pobrania ich oprogramowania i kluczy licencji.
+- Zapoznaj się z bezterminowym oprogramowaniem w materiałach gotowości [programu Cloud Solution Provider](https://partner.microsoft.com/resources/collection/software-in-csp#/) . Użyj tej [mapy gotowości](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) , aby szybko zlokalizować odpowiednie informacje dla roli.
+
+### <a name="questions"></a>Masz pytania?
+
+Aby uzyskać więcej pytań, Sprawdź odpowiednie społeczności Yammera programu CSP.
+
+_____________
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="10"></a> Przypomnienie: wprowadzenie ograniczenia interfejsu API do partnerów wywołujących interfejsy API Centrum partnerskiego 
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-01-19
+- Rozwijanie firmy
+
+### <a name="summary"></a>Podsumowanie
+
+Firma Microsoft będzie implementować ograniczanie interfejsu API, aby umożliwić bardziej spójną wydajność w ramach przedziału czasu dla partnerów wywołujących interfejsy API Centrum partnerskiego.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Wszyscy partnerzy przeprowadzają Operacje transakcyjne przez program Cloud Solution Provider (CSP)  
+
+### <a name="details"></a>Szczegóły
+
+Począwszy od lutego 2021, firma Microsoft będzie implementować ograniczenie interfejsu API, aby umożliwić bardziej spójną wydajność w ramach przedziału czasu dla partnerów wywołujących interfejsy API Centrum partnerskiego.Ograniczanie przepustowości ogranicza liczbę żądań do usługi w przedziale czasu, aby zapobiec nadmiernemu użyciu zasobów.W przypadku przekroczenia progu ograniczania Centrum partnerskiego ogranicza wszelkie dalsze żądania od tego klienta przez pewien czas.
+  
+**Korzyści dla partnerów:** Centrum partnerskie zostało zaprojektowane z myślą o obsłudze dużej liczby żądań, ale w przypadku przeprowadzenia przez kilku partnerów przeciążenia wielu żądań ograniczenie przepustowości pomoże Ci zapewnić optymalną wydajność i niezawodność dla wszystkich partnerów.  
+
+- Ograniczanie przepustowości zapewnia minimalne przestoje.
+- Ograniczanie przepływności zmniejsza liczbę żądań o dużej ilości, pomagając zapewnić spójną wydajność wszystkich partnerów.
+
+**Interfejsy API do ograniczenia:**
+
+| Operacja | Dokumentacja Centrum partnerskiego |
+| ------ | ------- |
+|{baseURL}/V1/Customers/{customer_id}/subscriptions  | [Get-All-of-a-Customer-s-subscriptions](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}  | [Pobieranie subskrypcji według identyfikatora](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/V1/Customers/{customer_id}/Orders  | [Pobierz wszystkie zamówienia klienta](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/V1/Customers/{customer_id}/Orders/{order_id}  | [Pobieranie zamówienia według identyfikatora](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/V1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus  | [Pobieranie stanu aprowizacji subskrypcji](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}  | [Zarządzanie zamówieniami i Zarządzanie subskrypcją](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}/addons  | [Pobieranie listy dodatków dla subskrypcji](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements | [Uzyskaj listę uprawnień platformy Azure dla subskrypcji](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus  | [Pobieranie stanu rejestracji subskrypcji](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/V1/Customers/{Customer-tenant-ID}/Transfers  | [Pobierz wszystkie transfery klienta](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [Pobieranie stanu uaktualniania produktu](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/V1/Customers/{Customer-ID}/subscriptions/{Subscription-ID}/Conversions   | [Pobieranie listy ofert konwersji wersji próbnej](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+Zdecydowanie zalecamy, aby partnerzy rozważali użycie interfejsu API dziennika aktywności w celu zwiększenia wydajności i uniknięcia ograniczenia przepustowości.Aby uzyskać więcej informacji na temat tej funkcji, zapoznaj się z informacjami w [tym miejscu](/partner-center/develop/api-throttling-guidance).  
+
+### <a name="next-steps"></a>Następne kroki
+
+Zapoznaj się z [zasobami](/partner-center/develop/api-throttling-guidance)   tego tematu i wykonaj niezbędne czynności.  
+
+_____________
 
 ## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>Zostanie uruchomiona Metoda Security, zgodność i tożsamość (SCI) 1 lutego 2021 
 
@@ -43,7 +120,7 @@ Wszyscy partnerzy przeprowadzają Operacje transakcyjne przez program Cloud Solu
 
 ### <a name="details"></a>Szczegóły
 
-#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[Jednostki SKU składnika zgodności Microsoft 365 G5 dla instytucji rządowych](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
+#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[Jednostki SKU składnika zgodności Microsoft 365 G5 dla instytucji rządowych](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
 
 Będziemy otrzymywać trzy nowe oferty składników w chmurze dla instytucji rządowych i w ramach usług w zatoce, które będą dostępne od 1 lutego 2021. Te jednostki SKU będą równoważne Microsoft 365 E5 Information Protection i ładu, M365 E5 (zarządzanie ryzykiem niejawnego) i Microsoft 365 E5 dla & inspekcji, które są obecnie dostępne w celach komercyjnych. 
 
@@ -54,7 +131,7 @@ Będziemy otrzymywać trzy nowe oferty składników w chmurze dla instytucji rz�
    |Microsoft 365 zarządzanie ryzykiem niejawnego zamieszkania w usłudze w zatoce|11ccfdb3-80cb-4c80-8146-c9775045df17|8RF-00002|
    |Microsoft 365 E5 Information Protection i DLP (dodatek) dla programu w zatoce|911d3177-53a9-42ec-a0e9-3b73fce527f0|8QY-00002|
 
-#### <a name="10-year-audit-log-retention-add-on"></a>[dodatek do przechowywania dziennika inspekcji w trybie 10 lat](https://docs.microsoft.com/microsoft-365/compliance/)
+#### <a name="10-year-audit-log-retention-add-on"></a>[dodatek do przechowywania dziennika inspekcji w trybie 10 lat](/microsoft-365/compliance/)
 
 Dodatek dostępny z warunkiem wstępnym Microsoft 365 E5 umożliwi klientom przechowywanie danych przez 10 lat. 
 
