@@ -1,7 +1,7 @@
 ---
 title: Azure plan rozliczania — faktury & pliki Rekonesans
 ms.topic: article
-ms.date: 07/02/2020
+ms.date: 01/20/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, jak uzyskać dostęp do struktury plików faktur i uzgodnień uzgadniania dla planu platformy Azure i zrozumieć ją.
@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534696"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658437"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nowe środowisko handlowe w programie CSP — rozliczenia platformy Azure 
 
@@ -46,7 +46,7 @@ Administrator globalny lub administrator rozliczeń dla Twojej firmy otrzyma wia
 
 Aby uzyskać dostęp do pliku faktury i uzgodnienia:
 
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/)Centrum partnerskiego.
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/) Centrum partnerskiego.
 
 2. W menu Centrum partnerskiego wybierz pozycję **rozliczenia**.
 
@@ -140,9 +140,7 @@ Aby uzyskać dostęp do pliku faktury i uzgodnienia:
 
 Opłaty za usługi platformy Azure za pomocą planu platformy Azure są naliczane w USD i rozliczone w walucie klienta przypisanej do kraju. Jeśli waluta rozliczeń jest niezerowa, na ostatniej stronie faktury zostanie wyświetlona stawka obcej wymiany (FX). Stawki FX są określane co miesiąc i stosowane do poniższej faktury. Aby zapoznać się z pełną listą walut krajów, zapoznaj się z tematem [dostępność nowych ofert handlowych i macierzami walutowymi klientów](https://go.microsoft.com/fwlink/?linkid=2112354).
 
-Firma Microsoft będzie używać Thomson firmy Reuters do określenia stawek FX używanych do określania waluty cenowej do konwersji waluty rozliczeniowej. Stawki FX będą odświeżane i dostępne w dniu przed pierwszym miesiącem, dla którego mają zastosowanie.
-
-**Przykład**: opłaty za użycie za okres usługi od 1 sierpnia do 31 sierpnia będą naliczane przy użyciu kursu FX opublikowanego w dniu 31 lipca. Opłaty zostaną wyświetlone na fakturze z września, a stawka FX zostanie zanotowana na ostatniej stronie faktury.
+Firma Microsoft postępuje zgodnie z wymianą giełdową na potrzeby konwersji. Korzystamy z kursu wymiany, który jest równy kursowi wymiany przechwyconemu w ostatnim dniu ostatniego miesiąca roboczego w wymianie giełdowej w Londynie. Stawki FX będą odświeżane i dostępne w dniu przed pierwszym miesiącem, dla którego mają zastosowanie.
 
 ## <a name="azure-reservations"></a>Rezerwacje platformy Azure
 
