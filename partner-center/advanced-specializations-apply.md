@@ -1,7 +1,7 @@
 ---
 title: Zastosuj do zaawansowanych specjalizacji
 ms.topic: how-to
-ms.date: 11/30/2020
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Wzmocnij swój profil biznesowy w katalogu partnerów firmy Microsoft. Dowiedz się, jak korzystać z usługi Partner Center w celu zastosowania i zdobycia zaawansowanych specjalizacji.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dea98a5268feecbbea448592637a24f180d8eff2
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96440062"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658420"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Użyj Centrum partnerskiego, aby zastosować zaawansowane specjalizacje i sprawdzić ich stan
 
@@ -37,7 +37,7 @@ Aby uzyskać dostęp do tego obszaru, musisz mieć przyznaną rolę **administra
 
 ### <a name="follow-these-steps-to-access-this-area"></a>Wykonaj następujące kroki, aby uzyskać dostęp do tego obszaru:
 
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home)Centrum partnerskiego.
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home) Centrum partnerskiego.
 
 2. Wybierz sekcję **MPN** w menu Centrum partnerskiego, a następnie pozycję **ADV. specjalizacje**. Menu rozwija się, aby wyświetlić wszystkie zaawansowane specjalizacje, które są dostępne dla Ciebie.
 
@@ -60,12 +60,13 @@ Oba zadania mogą być wykonywane w centrum partnerskim.
 
 Zaawansowane specjalizacje wymagające inspekcji przy użyciu audytora innej firmy obejmują:
 
-- Migracja magazynu danych do Microsoft Azure
-- Kubernetes na Microsoft Azure
-- Migracja baz danych systemu Linux i open source do Microsoft Azure
-- Pulpit wirtualny systemu Microsoft Windows
-- Modernizacja aplikacji sieci Web do Microsoft Azure
-- System Windows Server i migracja SQL Server do Microsoft Azure
+- Analiza na Microsoft Azure
+- Migracja magazynu danych na platformę Microsoft Azure
+- Środowisko Kubernetes na platformie Microsoft Azure
+- Migracja baz danych systemu Linux i open source na platformę Microsoft Azure
+- Usługa Microsoft Windows Virtual Desktop
+- Modernizacja aplikacji internetowych do platformy Microsoft Azure
+- Migracja systemu Windows Server i programu SQL Server na platformę Microsoft Azure
 
 Zaawansowane specjalizacje wymagające odwołań klienta obejmują:
 
@@ -73,7 +74,7 @@ Zaawansowane specjalizacje wymagające odwołań klienta obejmują:
 - Wywoływanie usługi Microsoft Teams
 - Spotkania i pokoje spotkań dla zespołów Microsoft Teams
 - Rozwiązania SAP na platformie Azure
-- Wdrożenie zespołowej
+- Wdrażanie pracy zespołowej
 - Zarządzanie tożsamością i dostępem
 - Ochrona przed zagrożeniami
 
@@ -85,7 +86,7 @@ Oprócz własnych wymagań wstępnych, niektóre zaawansowane specjalizacje wyma
 
 Następnie wykonaj następujące kroki, aby zaplanować inspekcję w centrum partnerskim:
 
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home)Centrum partnerskiego.
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home) Centrum partnerskiego.
 
 2. Wybierz sekcję **MPN** w menu Centrum partnerskiego, a następnie pozycję **ADV. specjalizacje**. Menu rozwija się, aby wyświetlić wszystkie zaawansowane specjalizacje, które są dostępne dla Ciebie.
 
@@ -104,7 +105,7 @@ Oprócz własnych wymagań wstępnych, niektóre zaawansowane specjalizacje wyma
 
 Następnie wykonaj następujące kroki, aby udostępnić informacje o klientach w centrum partnerskim:
 
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home)Centrum partnerskiego.
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home) Centrum partnerskiego.
 
 2. Wybierz sekcję **MPN** w menu Centrum partnerskiego, a następnie pozycję **ADV. specjalizacje**. Menu rozwija się, aby wyświetlić wszystkie zaawansowane specjalizacje, które są dostępne dla Ciebie.
 

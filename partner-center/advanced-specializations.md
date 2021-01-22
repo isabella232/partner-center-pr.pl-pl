@@ -1,7 +1,7 @@
 ---
 title: Dowiedz się więcej na temat zaawansowanych specjalizacji
 ms.topic: article
-ms.date: 01/12/2021
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Wzmocnij swój profil biznesowy w katalogu partnerów firmy Microsoft. Dowiedz się więcej o zaawansowanych specjalizacjach, które można osiągnąć wraz z istniejącymi kompetencjami Gold i Silver.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ce29c533869214a15f18852c8946f46c0656a38
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204023"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658403"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Uzyskaj zaawansowaną specjalizację w celu pokazania zweryfikowanych możliwości
 
@@ -45,6 +45,7 @@ Każda zaawansowana specjalizacja odpowiada obszarowi rozwiązania:
 
 Zaawansowane specjalizacje **platformy Azure** obejmują:
 
+- Analiza na Microsoft Azure
 - Migracja magazynu danych na platformę Microsoft Azure
 - Środowisko Kubernetes na platformie Microsoft Azure
 - Migracja baz danych systemu Linux i open source do Microsoft Azure
