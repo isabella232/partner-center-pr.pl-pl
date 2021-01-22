@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/15/2021
-ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
-ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
+ms.date: 01/20/2021
+ms.openlocfilehash: 02b1e93c84065b6223ffc06cf36ddfec757f9a6a
+ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "98571673"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98685926"
 ---
 # <a name="january-2021-announcements"></a>Ogłoszenia ze stycznia 2021 r.
 
@@ -23,6 +23,92 @@ Na tej stronie znajdują się szczegółowe informacje o anonsach programu Micro
 2021 anonse: styczeń
 
 2020 anonse [: od](2020-may.md)  |  [czerwca](2020-june.md)do  |  [lipca](2020-july.md),  |  [](2020-august.md)  |  [](2020-september.md)  |  [październik](2020-October.md)  |  [](2020-november.md)  |  [](2020-december.md) .  
+
+________________
+## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Zmiany w usłudze Azure — dostępność oferty w programie CSP związanej z nowym doświadczeniem handlowym w programie CSP dla platformy Azure
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-01-21
+- Możliwości
+ 
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Wszyscy partnerzy przeprowadzają Operacje transakcyjne przez program Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Szczegóły:
+
+#### <a name="the-new-commerce-experience-for-azure-in-csp"></a>Nowe środowisko komercyjne dla platformy Azure w programie CSP
+
+Nowe środowisko firmy Microsoft dla firm umożliwia utworzenie spójnego i uproszczonego środowiska zakupów dla klientów i umożliwienie ich cyfrowego przekształcania, zapewniając większą elastyczność w zakresie i miejsca zakupu. Partnerzy odgrywają krytyczną rolę w podróży w chmurze klienta, niezależnie od kanałów, które klienci podejmują w firmie Microsoft. Gdy w pełni uruchomiona, zaktualizowana platforma i model handlu umożliwi partnerom uczestnictwo w ruchu sprzedaży dla większych klientów korporacyjnych, a także małych i średnich firm. dzięki temu partnerzy będą mogli rozwijać uczestnictwo klientów.
+
+Nowe środowisko komercyjne dla platformy Azure w programie dostawcy rozwiązań w chmurze rozszerza możliwości partnerów w celu kompilowania i dostarczania usług zarządzanych, dalsze rozszerzanie ich podstawowych klientów i pomaga klientom w przekształceniu cyfrowym.
+
+Nowe środowisko komercyjne zapewnia następujące korzyści:
+
+- Upraszcza proces kupowania platformy Azure przy użyciu planu platformy Azure.
+- Tworzy lepsze wyrównanie cen w kanałach. W oparciu o opinie klientów i partnerów nowe środowisko platformy Azure w programie dostawcy rozwiązań w chmurze będzie korzystać z pojedynczej listy cenowej, w USD, zapewniając klientom i partnerom spójny Cennik na skalę globalną.
+- Redukuje przeszkody związane z pozyskiwaniem klientów, oferując narzędzia, które obejmują odpowiednie zarządzanie, obsługę klienta i zasady, aby przenieść je na nowe środowisko platformy Azure w programie dostawcy rozwiązań w chmurze.
+- Umożliwia partnerom efektywniejsze zarządzanie swoimi klientami dzięki wykorzystaniu takich funkcji jak Azure Lighthouse i Azure Cost Management. 
+- Rozszerza dostęp do portalu Azure Marketplace.
+
+Rozwijając nowe środowisko handlu platformy Azure, włączono narzędzia do przechodzenia, aby zwiększyć elastyczność zarządzania platformą Azure w sposób, który dostosowuje się do rosnących potrzeb związanych z klientami i ułatwia klientom korzystanie z nowej oferty platformy Azure w programie dostawcy rozwiązań w chmurze. Zapoznaj się z omówieniem narzędzi, które są dostępne do obsługi przejścia subskrypcji platformy Azure klienta w programie dostawcy rozwiązań w chmurze.
+
+#### <a name="new-azure-in-cloud-solution-provider-program-offer-azure-plan"></a>Oferta nowego programu Azure in Cloud Solution Provider (plan platformy Azure)
+
+Dzięki nowym środowiskom handlowym partnerzy uzyskują dostęp do usług platformy Azure według stawki płatność zgodnie z rzeczywistym użyciem dla klientów objętych umową klienta firmy Microsoft w ramach planu platformy Azure. Ten plan upraszcza proces zakupów, umożliwiając tworzenie wielu subskrypcji platformy Azure w ramach planu platformy Azure. Nie ma już potrzeby przesyłania oddzielnej kolejności na subskrypcję platformy Azure w centrum partnerskim.
+
+#### <a name="changes-to-the-previous-azure-offer-availability-in-the-cloud-solution-provider-program"></a>Zmiany poprzedniej dostępności oferty platformy Azure w programie dostawcy rozwiązań w chmurze
+
+Po zapowiedzianiu nowej oferty platformy Azure w programie Cloud Solution Provider (plan Azure) będziemy informować partnerów o tym, że poprzednia oferta platformy Azure i platforma nadal będą dostępne, obok nowych możliwości platformy Azure, a przez jakiś czas będzie informować partnerów o sześciu miesiącach przed wprowadzeniem jakichkolwiek zmian w poprzedniej ofercie platformy Azure.
+
+Gdy nowa oferta platformy Azure w programie dostawcy rozwiązań w chmurze (plan Azure) zapewnia partnerom udoskonalone środowisko, chcemy dać partnerom czas na uwzględnienie nowych funkcji platformy Azure wraz z ich usługami i przechodzenie klientów do nowego środowiska.
+
+Istnieją trzy fazy zmiany do poprzedniej oferty platformy Azure. Dzisiaj udostępniamy więcej informacji na temat tych trzech faz.
+
+#### <a name="three-phases"></a>Trzy fazy
+
+**Faza 1 — od 21 lipca 2021**
+
+W fazie 1 wszystkie nowe biznesowe usługi Azure Cloud Solution Provider będą znajdować się w ramach nowej oferty planu platformy Azure. Zostaną zastosowane następujące wytyczne:
+
+- W przypadku wszystkich istniejących relacji odsprzedawcy między partnerami i klientami w programie dostawcy rozwiązań w chmurze, jeśli klient zakupił już poprzednią ofertę platformy Azure, partner może kontynuować pracę, a klient może nadal zakupić poprzednią ofertę platformy Azure od tego partnera.
+- Poprzednia oferta platformy Azure nie będzie już dostępna dla nowych partnerów sieci w programie CSP
+- Poprzednia oferta platformy Azure nie będzie już dostępna dla nowych klientów, którzy kupują za pośrednictwem partnera w ramach dostawcy usług kryptograficznych.
+- W przypadku wszystkich nowych relacji odsprzedawców lub nowych nabyć klientów partnerzy mogą tylko wykonać nową ofertę platformy Azure (plan platformy Azure)
+- W przypadku wszystkich istniejących relacji odsprzedawcy między partnerami i klientami, jeśli klient nigdy wcześniej kupił platformę Azure, partner może tylko wykonać operacje w języku Transact, a klient może zakupić nową ofertę platformy Azure od tego partnera.
+
+**Faza 2 — w roku kalendarzowym 2022**
+
+W fazie 2, która rozpocznie się w ciągu roku kalendarzowego 2022, zachęty i możliwości marży partnerów zostaną usunięte z poprzedniej oferty platformy Azure. Będziemy powiadamiać o dacie rozpoczęcia fazy 2 do partnerów 6 miesięcy z wyprzedzeniem.
+
+**Faza 3 — do opracowania później**
+
+W fazie 3 wszystkie pozostałe klienci korzystający z poprzedniej oferty platformy Azure zostaną zmigrowane do nowej oferty platformy Azure w programie Cloud Solution Provider (plan platformy Azure). Podobnie jak w przypadku poprzednich faz, będziemy powiadamiać o dacie rozpoczęcia fazy 3 do partnerów 6 miesięcy z wyprzedzeniem.
+
+#### <a name="partner-earned-credit-pec"></a>Kredyt uzyskany przez partnera (PEC)
+
+Dzięki nowym środowiskom handlowym partnerzy otrzymują dostęp do niezróżnicowanych usług dodanych w sposób ciągły dzięki modelowi środków na korzystanie z partnerów. Partnerzy zyskują partnerów, którzy koncentrują się na kierowaniu sukcesów klientów za pośrednictwem usług o wartościach, które generują trwałą zyskowność.
+
+### <a name="next-steps"></a>Następne kroki:
+
+Partnerzy są zdecydowanie zachęcani do zapoznania się z następującymi zasobami:
+
+#### <a name="partner-earned-credit-pec"></a>Kredyt uzyskany przez partnera (PEC)
+
+- [Informacje na temat dochodów uzyskanych przez partnerów (Przewodnik) (Microsoft. com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
+- [Partner uzyskał kredyt — przegląd — centrum partnerskie | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
+- [Środki dla partnerów w ramach usług zarządzanych — centrum partnerskie | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
+- [Role, uprawnienia dla partnerów — Centrum partnerskie | Microsoft Docs](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [Moduł szkolenia na żądanie na platformie Azure w modułach CSP (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
+
+#### <a name="the-new-commerce-experience"></a>Nowe środowisko komercyjne
+
+- [Galeria zasobów partnerskich: nowe środowisko komercyjne w programie CSP dla platformy Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+
+### <a name="questions"></a>Masz pytania?
+
+W przypadku pytań związanych z tym powiadomieniem skontaktuj się z [pomocą techniczną Centrum partnerskiego](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
 ________________
 ## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> Bezterminowe oprogramowanie jest teraz ogólnie dostępne dla programu dostawcy rozwiązań w chmurze
