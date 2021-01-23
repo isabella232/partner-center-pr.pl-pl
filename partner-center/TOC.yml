@@ -110,6 +110,9 @@
     - name: Microsoft Partner Agreement — CSP
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
+    - name: Jak dostawcy pośrednim mogą pomóc odsprzedawcy w przyjęciu MPA
+      href: mpa-indirect-provider-faq.md
+      displayName: 'csp, mpa, indirect, provider'
     - name: Wymagania dotyczące bezpośrednich partnerów CSP
       href: direct-partner-new-requirements.md
       displayName: 'indirect, reseller, csp'
