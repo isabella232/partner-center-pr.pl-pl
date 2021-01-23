@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: ee876a479834b3538d2c0f8cf447a07fa2a59394
-ms.sourcegitcommit: 13d8e977f48448a7018747b39ec6eb3eeae123bc
+ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "94878804"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705015"
 ---
 # <a name="september-2020-announcements"></a>Ogłoszenia z września 2020 r.
 
 Na tej stronie znajdują się szczegółowe informacje o anonsach programu Microsoft Partner Center dla 2020 września.
 
-2020 anonse: od [lutego](2020-february.md)do  |  [marca](2020-march.md)  |  [April](2020-april.md)  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md) Września
+2020 anonse: od [lutego](2020-february.md)do  |  [marca](2020-march.md)  |  [](2020-april.md)  |  [](2020-may.md)  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md) Września
 
 ________________
 ## <a name="partner-center-software-license-key-and-download-fulfillment-notice"></a><a name="17"></a>Informacje dotyczące klucza licencji oprogramowania Centrum partnerskiego i pobierania informacji o realizacji
@@ -36,7 +36,7 @@ Wszyscy partnerzy usługi Cloud Solution partner (CSP) w ramach transakcyjnego t
 
 ### <a name="details"></a>Szczegóły
 
-Obecnie partnerzy mogą korzystać z Centrum partnerskiego lub Microsoft 365 centrum administracyjnego w celu pobierania oprogramowania i realizacji klucza licencji dla zamówień oprogramowania dostawcy CSP. Od **19 stycznia 2021**, możliwości realizacji oprogramowania i klucza licencji Centrum partnerskiego zostaną wycofane, a partnerzy będą korzystać z **Centrum administracyjnego Microsoft 365** wyłącznie do tego celu. Strona oprogramowanie klienta w centrum partnerskim będzie zawierać "link bezpośredni" do centrum administracyjnego Microsoft 365, w którym można uzyskać licencje klienta i pobieranie oprogramowania. Zapewnia to najbardziej bezpieczne i wydajne środowisko dla klientów.
+Obecnie partnerzy mogą korzystać z Centrum partnerskiego lub Microsoft 365 centrum administracyjnego w celu pobierania oprogramowania i realizacji klucza licencji dla zamówień oprogramowania dostawcy CSP. Od **19 stycznia 2021**, możliwości realizacji oprogramowania i klucza licencji Centrum partnerskiego zostaną wycofane, a partnerzy będą mogli korzystać z **Centrum administracyjnego Microsoft 365** wyłącznie do tego celu. Strona oprogramowanie klienta w centrum partnerskim będzie zawierać "link bezpośredni" do centrum administracyjnego Microsoft 365, w którym można wskazać klientów do uzyskania licencji klienta i pobrania oprogramowania. Zapewnia to najbardziej bezpieczne i wydajne środowisko dla klientów.
 
 Klucze licencji oprogramowania i linki do pobrania są cennymi i wysoce poszukiwane — po zasobach własności intelektualnej. W przypadku przecieków można szybko przekroczyć limity aktywacji i spowodować negatywne środowisko klienta i partnera. W związku z tym ważne jest, aby partnerzy korzystali z najbezpieczniejszej technologii i najlepszych rozwiązań w celu zapewnienia bezpieczeństwa cennych zasobów i ochrony klientów.
 
@@ -260,7 +260,7 @@ Szczegółowe informacje na temat usługi Partner Center zostaną wkrótce zast�
 
 ### <a name="what-is-insights"></a>Co to jest szczegółowe informacje?
 
-Pulpit nawigacyjny usługi Insights w centrum partnerskim zapewnia ujednolicony, 360owy widok kluczowych wskaźników wydajności (KPI) organizacji partnerskiej w ramach produktów w chmurze, takich jak pakiet Office 365, Azure, Dynamics 365 i modele licencjonowania, takie jak dostawca rozwiązań w chmurze (CSP) i Umowa Enterprise (EA). Nowe możliwości są ciągle dodawane, a wszystkie raporty obsługują [eksport nieprzetworzonych danych](../pci-download-reports.md), dzięki czemu można przeprowadzać analizę danych ad hoc w zależności od potrzeb firmy. Dwie role raportowania Centrum partnerskiego, [dyrektor raportów i Podgląd raportów](../pci-roles.md), umożliwiają lepsze zarządzanie dostępem i użyciem szczegółowych informacji w organizacji.
+Pulpit nawigacyjny usługi Insights w centrum partnerskim zapewnia ujednolicony, 360owy widok kluczowych wskaźników wydajności (KPI) organizacji partnerskiej w ramach produktów w chmurze, takich jak pakiet Office 365, Azure, Dynamics 365 i modele licencjonowania, takie jak dostawca rozwiązań w chmurze (CSP) i Enterprise Agreement (EA). Nowe możliwości są ciągle dodawane, a wszystkie raporty obsługują [eksport nieprzetworzonych danych](../pci-download-reports.md), dzięki czemu można przeprowadzać analizę danych ad hoc w zależności od potrzeb firmy. Dwie role raportowania Centrum partnerskiego, [dyrektor raportów i Podgląd raportów](../pci-roles.md), umożliwiają lepsze zarządzanie dostępem i użyciem szczegółowych informacji w organizacji.
 
 Ostatnio dodane raporty:
 
@@ -629,7 +629,7 @@ Firma Microsoft przyjemnością się, że plan wywoływania będzie dostępny na
 
 ### <a name="details"></a>Szczegóły
 
-Microsoft 365 plan wywoływania będzie dostępny na następujących nowych rynkach 1 października 2020: Austria, Dania, Włochy, Portugalia, Szwecja i Szwajcaria. Nowa dostępność geograficzna będzie uruchamiana w komercyjnym, światowym sektorze publicznym, w chmurze non profit i administracji rządowej, za pośrednictwem Umowa Enterprise (EA) lub Umowa Enterprise Subscription (EAS), rejestracji dla rozwiązań edukacyjnych (EES), sieci Web Direct i dostawcy CSP. 
+Microsoft 365 plan wywoływania będzie dostępny na następujących nowych rynkach 1 października 2020: Austria, Dania, Włochy, Portugalia, Szwecja i Szwajcaria. Nowa dostępność geograficzna będzie uruchamiana w komercyjnym, światowym sektorze publicznym, w chmurze non profit i administracji rządowej, za pośrednictwem Enterprise Agreement (EA) lub Enterprise Agreement Subscription (EAS), rejestracji dla rozwiązań edukacyjnych (EES), sieci Web Direct i dostawcy CSP. 
 
 Wszystkie funkcje planu wywoływania będą dostępne dla krajowych i międzynarodowych planów telefonicznych firmy Microsoft, w tym 120, 240 i 1 200 minut na użytkownika miesięcznie (p/u/m), oraz planu międzynarodowego z systemami 1 200 w minutach domowych p/u/m i 600 International min p/u/m. 
 

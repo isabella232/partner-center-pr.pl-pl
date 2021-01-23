@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/21/2020
-ms.openlocfilehash: f20015fff92e200bce1d17fd6fda7b7ced618e00
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182566"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705049"
 ---
 # <a name="december-2020-announcements"></a>Ogłoszenia z grudnia 2020 r.
 
@@ -224,7 +224,7 @@ Firma Microsoft uruchamia się na zaufaniu. Firma Microsoft dokłada starań, ab
     - Zjednoczone Emiraty Arabskie
     - Wenezuela
 
-Partnerzy, którzy spełniają kryteria, będą musieli przesłać **Identyfikator prawny** klienta (znany także jako numer **Inn** klienta) i **numer telefonu** podczas następnej aktualizacji lub utworzenia subskrypcji dla tego klienta. Ci partnerzy mogą również wprowadzić opcjonalną **nazwę środkową** dla klienta.
+Partnerzy, którzy spełniają kryteria, będą musieli przesłać **Identyfikator prawny** klienta (znany także jako numer **Inn** klienta) i **numer telefonu** podczas następnej aktualizacji lub utworzenia subskrypcji dla tego klienta. Ci partnerzy mogą również wprowadzić opcjonalne **drugie imię** klienta.
 
 Partnerzy, którzy korzystają z nowych lub istniejących klientów w następujących krajach, zostali już dołączeni do wcześniejszej wersji w listopadzie 2020.
 
@@ -280,7 +280,7 @@ Zostaną również wykonane następujące czynności:
 
 - Cennik programu CSP wieczyste oprogramowanie jest ponownie publikowany w centrum partnerskim. Znajdziesz go w sekcji **oprogramowanie** na stronie [sprzedaj > Cennik & oferty](https://partnercenter.microsoft.com/pcv/sales) , która zawiera dodatkowe produkty i lokalizacje geograficzne. Szczegółowe informacje znajdują się [tutaj](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
 
-- Możliwość wycofania oprogramowania Centrum partnerskiego i korzystania z klucza licencji — zapoznaj się z artykułem [Anonsy](./2020-september.md#17) i partnerzy będą korzystać z centrum administracyjnego Microsoft 365 wyłącznie w tym celu. Zapewni to najbardziej bezpieczne i wydajne środowisko dla klientów. Dowiedz się więcej o oprogramowaniu centrum administracyjnego Microsoft 365, przeglądając temat [Przegląd](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [typowe zadania](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)i [funkcje realizacji klucza licencji](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+- Możliwość wycofania oprogramowania Centrum partnerskiego i korzystania z klucza licencji — zapoznaj się z artykułem [Anonsy](./2020-september.md#17) i partnerzy wskazują klientom na korzystanie z centrum administracyjnego Microsoft 365 wyłącznie w tym celu. Zapewni to najbardziej bezpieczne i wydajne środowisko dla klientów. Dowiedz się więcej o oprogramowaniu centrum administracyjnego Microsoft 365, przeglądając temat [Przegląd](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [typowe zadania](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)i [funkcje realizacji klucza licencji](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
 
 ### <a name="perpetual-software-in-csp"></a>Bezterminowe oprogramowanie w programie CSP
 

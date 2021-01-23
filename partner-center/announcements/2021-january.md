@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/20/2021
-ms.openlocfilehash: 02b1e93c84065b6223ffc06cf36ddfec757f9a6a
-ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
+ms.openlocfilehash: b31191aa5d6f6a09b3f5708044df17f5efe69d7a
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 01/22/2021
-ms.locfileid: "98685926"
+ms.locfileid: "98705032"
 ---
 # <a name="january-2021-announcements"></a>Ogłoszenia ze stycznia 2021 r.
 
@@ -126,8 +126,7 @@ Wszyscy partnerzy CSP
 
 Zgodnie z [ogłoszeniem](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) dzisiaj przyjemnością o to, że komercyjne licencje na oprogramowanie bezterminowe są teraz ogólnie dostępne dla wszystkich partnerów CSP do sprzedaży. Lista cenowa oprogramowania CSP Centrum partnerskiego została ponownie opublikowana i zawiera dodatkowe produkty i lokalizacje geograficzne.
 
-Należy również pamiętać, że obecnie wycofane oprogramowanie partnerskie i klucz licencji zakończyło się i że klienci w przyszłości powinni korzystać z centrum administracyjnego Microsoft 365 w tym celu.
-Zobacz poniżej, aby uzyskać szczegółowe informacje i następne kroki.
+Należy również pamiętać, że obecnie wycofane oprogramowanie partnerskie i klucz licencji zakończyło się i że partnerzy przekazujący powinni wskazać klientom Microsoft 365 centrum administracyjne. Zobacz poniżej, aby uzyskać szczegółowe informacje i następne kroki.
 
 ### <a name="next-steps"></a>Następne kroki
 
