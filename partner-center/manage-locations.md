@@ -1,7 +1,7 @@
 ---
 title: Zarządzanie lokalizacjami na koncie partnerskim
 ms.topic: how-to
-ms.date: 11/23/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Dowiedz się, jak dodać nową lokalizację i jak używać identyfikatora MPN Location w programach zachęty, biznesie CSP, subskrypcjach i innych transakcjach.
@@ -9,18 +9,15 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 38ea8a451f51d80998643e2a023420ea3efaa6ba
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514806"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773434"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Zarządzanie lokalizacjami kont MPN i Dodawanie nowej lokalizacji
 
-**Dotyczy**
-
-- Centrum partnerskie
 
 **Odpowiednie role**
 
@@ -38,7 +35,7 @@ Firma Contoso ma swoje konto globalne partnera (PGA) w Wielkiej Brytanii. Jest t
 
 :::image type="content" source="images/locations/locations1.png" alt-text="Struktura lokalizacji MPN":::
 
-## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a>Wymagania wstępne w celu dodania nowej lokalizacji dla firmy dostawcy CSP
+## <a name="prerequisites-in-order-to-add-a-new-account-location-for-a-csp-business"></a>Wymagania wstępne w celu dodania nowej lokalizacji konta dla firmy dostawcy CSP
 
 Aby dodać nową lokalizację biznesową programu CSP, istnieje kilka wymagań wstępnych:
 

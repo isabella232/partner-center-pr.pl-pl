@@ -1,29 +1,27 @@
 ---
 title: Współpraca z dostawcami pośrednimi w programie CSP
 ms.topic: how-to
-ms.date: 12/16/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, jak pośrednicy Odsprzedawcy mogą współdziałać z dostawcami pośrednimi firmy Microsoft (lub dystrybutorami), aby uzyskać pomoc dotyczącą obsługi klienta i
 ms.prod: ''
 ms.custom: contperf-fy21q2
-author: BillLinzbach
-ms.author: BillLi
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: c1929a68146c09beae16e5aabd96b1f192db3a31
-ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
+ms.openlocfilehash: 7717f51504563ebb0193f693728229252827d7e3
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97636028"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773448"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Dowiedz się, jak współdziałać z dostawcami pośrednimi w programie dostawcy rozwiązań w chmurze
 
 **Odpowiednie role**
 
-
-- Wszyscy partnerzy firmy Microsoft zainteresowani rejestracją w programie dostawcy rozwiązań w chmurze
-
+- Administrator globalny
 
 Gwałtowne rosnące zapotrzebowanie na rozwiązania i usługi oparte na chmurze zapewnia wiele możliwości dla partnerów firmy Microsoft o wszystkich rozmiarach do tworzenia zyskownych firm rozwiązań w chmurze. Partnerzy, którzy są gotowi do wprowadzenia na rynek, ale którzy nie chcą zarządzać wieloma dostawcami lub którzy mogą nie mieć kompleksowej infrastruktury zarządzania relacjami z klientami, mogą zarejestrować się w programie Microsoft Cloud Solution Provider (CSP) jako pośrednich odsprzedawców.
 
@@ -44,7 +42,7 @@ Aby uzyskać więcej informacji o tym, co jest wymagane do sprzedawania w progra
 > [!NOTE]  
 > Jeśli użytkownik jest już zarejestrowany w dostawcy usług kryptograficznych, może być konieczne podanie wyłącznie informacji o kontakcie z obsługą klienta w celu utworzenia konta odsprzedawcy w centrum partnerskim.
 
-### <a name="before-you-begin"></a>Przed rozpoczęciem
+### <a name="before-you-begin"></a>Zanim rozpoczniesz
 
 Od października 2020 wszyscy partnerzy firmy Microsoft nowi dostawcy usług kryptograficznych zostaną zarejestrowani w programie CSP jako pośredni odsprzedawca. Następnie musisz utworzyć konto w centrum partnerskim. W tym celu należy podać następujące informacje podczas procesu rejestracji. Aby zebrać te elementy przed rozpoczęciem pracy, może być konieczne Poświęć kilka minut:
 
@@ -62,7 +60,7 @@ Od października 2020 wszyscy partnerzy firmy Microsoft nowi dostawcy usług kry
 
    Przeglądanie i weryfikowanie podanych informacji może zająć nam kilka dni. Po zakończeniu naszego przeglądu wyślemy wiadomość e-mail do Twojego podstawowego kontaktu.
 
-### <a name="get-started"></a>Wprowadzenie
+### <a name="get-started"></a>Rozpoczęcie pracy
 
 1. Aby rozpocząć proces rejestracji, przejdź na [**stronę powitalną**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) w celu zarejestrowania się.
 
@@ -80,12 +78,11 @@ Od października 2020 wszyscy partnerzy firmy Microsoft nowi dostawcy usług kry
 
 5. Skojarz swój identyfikator MPN z dzierżawcą usługi Azure ID.
 
-    1. Wybierz **identyfikatory** z **ustawień konta**.
-
-    1. W sekcji **CSP** Użyj linku **Aktualizuj** , aby zaktualizować identyfikator MPN skojarzony z Twoim kontem dostawcy CSP. 
- 
+    1. Zaloguj się przy użyciu konta MPN. Przejdź do pozycji **Ustawienia**  ->  **konta ustawienia**  ->    ->  **identyfikatory** profilów. Przejrzyj identyfikatory MPN i wybierz jeden z nich, którego kraj jest taki sam jak kraj Twojego konta dostawcy CSP. Innymi słowy, Twoje konto CSP i skojarzony identyfikator MPN muszą znajdować się w tym samym kraju/regionie.
+    
+     
  > [!IMPORTANT]  
-   > Wybierz identyfikator MPN skojarzony z aktywnym profilem firmy, który znajduje się w tym samym kraju/regionie co dzierżawa usługi Azure AD.
+   > Wybierz identyfikator MPN, który znajduje się w tym samym kraju/regionie co konto dostawcy CSP.
 
 6. Jeśli Twoje konto Centrum partnerskiego jest gotowe do użycia, sprawdź, czy zostało ono dodane do grupy agentów administracyjnych. Aby zakończyć konfigurowanie konta, w tym dodawanie innych użytkowników, musisz mieć uprawnienia agenta administratora. Wykonaj następujące kroki, aby wyświetlić lub zaktualizować swoje uprawnienia:
 
@@ -146,5 +143,5 @@ Twoja służbowa lokalizacja firmy jako odsprzedawca pośredni dostawcy usług k
 - [Tworzenie profilu biznesowego](create-a-marketing-profile.md)
 
 - [Dowiedz się więcej na temat procesu weryfikacji](verification-responses.md)
- 
+
 - [Patrz wymagania dotyczące partnerów rozliczeniowych bezpośrednich](direct-partner-new-requirements.md)

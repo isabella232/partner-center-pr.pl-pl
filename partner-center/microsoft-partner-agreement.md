@@ -1,20 +1,20 @@
 ---
 title: Umowa partnerska firmy Microsoft (MPA) dla dostawcy usług kryptograficznych
 ms.topic: how-to
-ms.date: 12/09/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się więcej o wymaganiach partnerów programu Microsoft CSP w celu podpisania i zweryfikowania tej ujednoliconej, akceptowanej cyfrowo umowy Microsoft Partner (MPA).
-author: BillLinzbach
-ms.author: BillLi
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105515"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773467"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Informacje o umowie partnerskiej firmy Microsoft (MPA) dla partnerów programu CSP
 
@@ -68,6 +68,20 @@ Aby nadal uczestniczyć w programie CSP, należy podpisać umowę Microsoft Part
 
 Pamiętaj, aby zaakceptować żądanie relacji CSP z dostawcą pośrednim.
 
+## <a name="sign-the-mpa"></a>Podpisz do MPA
+
+1. Zaloguj się do Centrum partnerskiego za pomocą konta pośredniego odsprzedawcy dostawcy CSP. Musisz być administratorem globalnym.
+1. Przejdź do strony **[Przegląd dostawcy usług kryptograficznych](https://partner.microsoft.com/pcv/dashboard/overview)** .  Jeśli nie widzisz opcji **Akceptuj i Kontynuuj** lub zielony transparent informujący o tym, że MPa jest podpisany, nie masz odpowiedniej roli do podpisywania. Skontaktuj się z administratorem globalnym, aby podpisać MPA.
+
+1. Aby wyświetlić i pobrać **umowę partnera firmy Microsoft** przed jej podpisaniem, kliknij link umowa partnerska firmy Microsoft, jak pokazano poniżej.
+
+:::image type="content" source="images/agreement-three.png" alt-text="Nowa lokalizacja umowy MPA":::
+
+>[!NOTE]
+>Jeśli nie widzisz linku do **umowy partnerskiej firmy Microsoft** , sprawdź swoją rolę w centrum partnerskim. Tylko Administratorzy globalni w dzierżawie dostawcy CSP mogą wyświetlać i logować się w centrum partnerskim. Aby sprawdzić rolę, przejdź do obszaru **Zarządzanie użytkownikami** i sprawdź, czy konto zalogowane jest oznaczone jako **administrator globalny**. Jeśli nie, to konto nie może służyć do podpisywania programu MPA. Administratorzy globalni w firmie można wyszukać na stronie Zarządzanie użytkownikami.
+
+:::image type="content" source="images/user-management-clean.png" alt-text="Jak znaleźć rolę":::
+
 ## <a name="verify-that-you-have-signed-the-mpa"></a>Sprawdź, czy zarejestrowano program MPA
 
 Aby sprawdzić, czy zarejestrowano:
@@ -75,17 +89,17 @@ Aby sprawdzić, czy zarejestrowano:
  Jako Administrator globalny Twojej firmy przejdź do [omówienia swojego dostawcy usług kryptograficznych](https://partner.microsoft.com/pcv/dashboard/overview) i sprawdź, czy zobaczysz zielony baner, który powiadamia o zaakceptowaniu pakietu MPa.
 
  
-:::image type="content" source="images/mpagreen.png" alt-text="Zielony transparent pokazujący akceptację z MPA":::
+:::image type="content" source="images/banner-boxed.png" alt-text="Zielony transparent pokazujący akceptację z MPA":::
 
 >[!NOTE]
 >Tylko administrator globalny w Twojej firmie może wyświetlić i podpisać MPA. Jeśli nie jesteś administratorem globalnym, musisz polecić administratorowi globalnemu zweryfikowanie MPA.
 
 Możesz również sprawdzić, czy podpisano umowę, wybierając pozycję **umowy** z **ustawień konta**.
 
-:::image type="content" source="images/agreements/agreements.png" alt-text="Wskazanie, że MPA jest podpisany":::
+:::image type="content" source="images/agreement-new.png" alt-text="Wskazanie, że MPA jest podpisany":::
 
 
-## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Pobierz przewodnik krok po kroku dotyczący tego, gdzie jesteś w procesie
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>Pobierz przewodnik krok po kroku dotyczący tego, gdzie jesteś w procesie podpisywania MPA
 
 1. W przypadku migrowania konta MPN z witryny PMC do Centrum partnerskiego: [Migrowanie z witryny PMC do Centrum partnerskiego i akceptowanie umowy Microsoft Partner Agreement](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 

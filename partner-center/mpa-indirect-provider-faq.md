@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ca7dd4239821fedfdb017c7a475b31b9e91cf68
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.openlocfilehash: a6cf5bc3d1e0f28a9c4e0a11d8a603297fa57bf9
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717716"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773503"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-adopt-the-microsoft-partner-agreement-mpa"></a>Jak dostawcy pośrednim mogą pomagać pośrednim odsprzedawcami umowy partnerskiej firmy Microsoft (MPA)
 
@@ -126,13 +126,13 @@ W przypadku problemów Zgłoś [bilet pomocy technicznej](https://partner.micros
 ### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>Chcę migrować moje konto MPN z Centrum członkostwa partnera do Centrum partnerskiego. Jak można to zrobić? Nie wiem, kto był administratorem MPN w PMC, jak mogę przeprowadzić migrację? 
 
 **Odpowiedź** Zapoznaj się z przewodnikiem krok po kroku dotyczącym [migrowania MPN z PMC do komputera](guide-to-migration.md). Ma różne linki do HEP migracji.
--   [Umowa partnerska firmy Microsoft (MPA) dla dostawcy usług kryptograficznych](microsoft-partner-agreement.md#download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process)
+-   [Umowa partnerska firmy Microsoft (MPA) dla dostawcy usług kryptograficznych](microsoft-partner-agreement.md)
 
 W przypadku problemów Zgłoś [bilet pomocy technicznej](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) z poziomu Centrum partnerskiego. 
 
 ### <a name="are-there-any-localized-step-by-step-instructions-available"></a>Czy istnieją zlokalizowane instrukcje krok po kroku?
 
-**Odpowiedź** Tak, mamy zlokalizowane wskazówki dostępne tutaj: [pośredniego dołączania do partnera firmy Microsoft w programie CSP](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp/data=04%7C01%7Cchimil%40microsoft.com%7C4ced38f77d8e4888d3cb08d8961d18dc%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C1%7C637424399031516927%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=jMq4Izi2Oreg5%2BpgKDOXGpUgzA3MnkJ1QMewnogc%2BY8%3D&reserved=0)  (dostępne języki: hiszpański, koreański, chiński, japoński)
+**Odpowiedź** Tak, mamy zlokalizowane wskazówki dostępne pod adresem: [pośredniego dołączania do partnera firmy Microsoft w programie CSP](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp/data=04%7C01%7Cchimil%40microsoft.com%7C4ced38f77d8e4888d3cb08d8961d18dc%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C1%7C637424399031516927%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=jMq4Izi2Oreg5%2BpgKDOXGpUgzA3MnkJ1QMewnogc%2BY8%3D&reserved=0)  (dostępne języki: hiszpański, koreański, chiński, japoński)
 
 ### <a name="i-dont-know-who-the-partner-center-admin-is-who-can-sign-mpa-"></a>Nie wiem, kto jest administratorem Centrum partnerskiego, który może się zalogować?
 
@@ -159,8 +159,8 @@ W obszarze **Ustawienia konta** wybierz pozycję Strona **profilu prawnego** na 
 
 Jeśli nie możesz rozwiązać problemu samodzielnie, zgłoś bilet pomocy technicznej w centrum partnerskim, logując się przy użyciu konta CSP i:
 
-- W przypadku problemów z weryfikacją biznesową kliknij [tutaj](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54) .  
-- W przypadku problemów z weryfikacją zatrudnienia kliknij [tutaj](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b) .
+- W przypadku problemów z weryfikacją biznesową Utwórz [żądanie pomocy technicznej](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54).  
+- W przypadku problemów z weryfikacją zatrudnienia Utwórz [żądanie pomocy technicznej](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b).
 
 :::image type="content" source="images/rejected-faq-mpa.png" alt-text="odrzucono":::
 
