@@ -6,13 +6,13 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.date: 12/04/2020
+ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492674"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861414"
 ---
 # <a name="payout-schedules-and-processes"></a>Harmonogramy i procesy wypłaty
 
@@ -25,11 +25,11 @@ W tym artykule omówiono harmonogram płatności firmy Microsoft, gdzie można z
 
 ## <a name="payment-schedules"></a>Harmonogramy płatności
 
-W poniższych sekcjach opisano nasz proces wypłats dotyczący transakcji dotyczących **Umowa Enterprise** i **karty kredytowej/faktury** .
+W poniższych sekcjach opisano nasz proces wypłats dotyczący transakcji dotyczących **Enterprise Agreement** i **karty kredytowej/faktury** .
 
-### <a name="enterprise-agreement-transactions"></a>Umowa Enterprise transakcji
+### <a name="enterprise-agreement-transactions"></a>Enterprise Agreement transakcji
 
-Gdy klient kupuje produkt z Microsoft AppSource lub Azure Marketplace przy użyciu istniejących w firmie Microsoft Umowa Enterprise dla transakcji, będziemy wystawić wypłaty w następnym cyklu wypłaty w okresie 30 dni. Transakcje, w których klient używa karty kredytowej, ma 30-dniowy okres przechowywania przed wypłatą.
+Gdy klient kupuje produkt z Microsoft AppSource lub Azure Marketplace przy użyciu istniejących w firmie Microsoft Enterprise Agreement dla transakcji, będziemy wystawić wypłaty w następnym cyklu wypłaty w okresie 30 dni. Transakcje, w których klient używa karty kredytowej, ma 30-dniowy okres przechowywania przed wypłatą.
 
 Wypłata często nastąpi, zanim firma Microsoft będzie zbierać płatność od klienta. Zapoznaj się z artykułem [dotyczącym niepłatności klienta](#process-for-customer-non-payment) w przypadku akcji podejmowanych w przypadku niepowodzenia płatności przez klienta firmy Microsoft, ale wystawiłeś już wypłatę.
 
@@ -37,6 +37,7 @@ Wypłata często nastąpi, zanim firma Microsoft będzie zbierać płatność od
 | --- | --- | --- | --- |
 | Użycie lub miesiąc transakcji | Klient korzysta z usługi lub kupuje ją. | Pulpit nawigacyjny [użycia](/azure/marketplace/partner-center-portal/usage-dashboard) lub [zamówienia](/azure/marketplace/partner-center-portal/orders-dashboard) | **Miesiąc 1** |
 | Firma Microsoft oblicza kwotę rozliczeń | Określanie łącznego użycia, łącznej liczby transakcji | Pulpit nawigacyjny [użycia](/azure/marketplace/partner-center-portal/usage-dashboard) lub [zamówienia](/azure/marketplace/partner-center-portal/orders-dashboard) | **Miesiąc 2** |
+| Faktura zapłacona przez klienta | Firma Microsoft zbiera płatność od klienta | Bez zmian | **Miesiąc 2** |
 | Opublikowano wypłaty | Ustalanie opłat za Agencję i dochodów z wypłaty | Oznaczono jako nieprzetworzony w historii transakcji w [instrukcji wypłaty](payout-statement.md) | **Miesiąc 3 (pierwszy tydzień)** |
 | Przygotuj wypłatę | Dochody są przygotowywane do miesięcznej płatności | Oznaczone jako nadchodzące w historii transakcji w [instrukcji wypłaty](payout-statement.md) | **Miesiąc 3 (pierwszy tydzień)** |
 | **Wysłane wypłaty** | **Płatność jest wysyłana do wydawcy** | **Oznaczone jako wysłane w historii transakcji i w sekcji płatności [instrukcji wypłaty](payout-statement.md)** | **Miesiąc 3 (nie później niż 15)** |

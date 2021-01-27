@@ -1,7 +1,7 @@
 ---
 title: Wskaźniki udziałów partnerów — SMMCS
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się więcej na temat partnerów współfinansowania (PCI), które muszą zostać spełnione, zanim uzyskają uprawnienia do małych i Midmarketych rozwiązań w chmurze.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cbde581a5a2d0b79b92be54abfba4920b53cbba4
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: e7fc9961c74d11e3bb36332d0cfff5ea4f9378be
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204143"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861431"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Korzystanie z wskaźników udziałów partnerów w celu uzyskania uprawnień do małych i Midmarketych rozwiązań w chmurze
 
@@ -157,13 +157,12 @@ Nowy przychód netto to [wskaźnik wydajności](partner-contribution-indicators-
 - Nowe przychody netto są definiowane jako nowe przychody netto w ramach wszystkich kanałów sprzedaży dla kwalifikujących się produktów Dynamics 365.
 - Nowe przychody netto są sumowane w ciągu 12-miesięcznego okresu z maksymalnym możliwym zdobywaniem 10 punktów.
 - Punkty dla nowego przychodu netto są obliczane jako miliardy minus kredyty i agregowane przez 12 miesięcy.
-- Nowy przychód netto jest obliczany na podstawie następujących produktów kwalifikujących się, które są zgodne ze ścieżką zaangażowania klienta lub finansami i operacjami:
+- Nowy przychód netto jest obliczany na podstawie dowolnej kombinacji następujących kwalifikujących się produktów:
   - Dynamics 365 Customer Engagement — kwalifikujące się produkty obejmują: sprzedaż, Marketing, usługa klienta, usługa pola, Project Server, plan 1, Automatyzacja, Marketing, sprzedaż relacji firmy Microsoft
-  - Produkty kwalifikujące się do finansów i operacji obejmują: działalność biznesową, wydajność i magazyn, finanse i operacje (w tym ochrona oszustwa, operacje, handel detaliczny, HR, plan 2), rzeczywistość mieszana, członek zespołu
-  - Dynamics 365 Business Central
-
-- Kanały sprzedaży to Umowa Enterprise (EA), dostawca rozwiązań w chmurze (CSP) i bezpośrednie sieci Web.
-- Tylko dla Umowa Enterprise przychodu: ten przychód obejmuje dochody z pierwszego roku umowy. Przychód cykliczny od drugiego i trzeciego roku nie jest uwzględniony.
+  - Produkty kwalifikujące się do finansów i operacji obejmują: Dynamics 365 Business Central, pojemność i magazyn, finanse i operacje (w tym ochrona oszustwa, operacje, sprzedaż detaliczna, plan 2), rzeczywistość mieszana, członek zespołu
+  
+- Kanały sprzedaży to Enterprise Agreement (EA), dostawca rozwiązań w chmurze (CSP) i bezpośrednie sieci Web.
+- Tylko dla Enterprise Agreement przychodu: ten przychód obejmuje dochody z pierwszego roku umowy. Przychód cykliczny od drugiego i trzeciego roku nie jest uwzględniony.
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Definicje dla metryki PCI #2 — dodanie klienta netto
 
@@ -183,7 +182,7 @@ Dodanie klienta netto to [wskaźnik wydajności](partner-contribution-indicators
 
 - Maksymalne i częściowe punkty mogą być przyznawane w przypadku dodania do klienta w sieci.
 
-- Kanały sprzedaży to Umowa Enterprise (EA), dostawca rozwiązań w chmurze (CSP) i bezpośrednie sieci Web.
+- Kanały sprzedaży to Enterprise Agreement (EA), dostawca rozwiązań w chmurze (CSP) i bezpośrednie sieci Web.
 
 - W przypadku wielu partnerów i klientów pracujących bezpośrednio z firmą Microsoft: istnieją różne obliczenia dotyczące dowolnych **klientów** i **przegranych** przez klientów w przypadku, gdy wielu partnerów jest skojarzonych z tym samym klientem za pomocą różnych subskrypcji lub w przypadku, gdy klient może już pracować bezpośrednio z firmą Microsoft. Te obliczenia są wyświetlane poniżej.
 
