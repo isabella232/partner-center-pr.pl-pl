@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: f11031c6071dadb427d2d5b93edd90af1a844131
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534730"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924960"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Cennik dla nowego środowiska handlowego w programie CSP dla platformy Azure
 
@@ -27,7 +27,7 @@ ms.locfileid: "96534730"
 - Agent sprzedaży
 - Administrator zarządzania użytkownikami
 
-Cennik dla nowego środowiska Azure commerce w programie CSP jest ogłaszany w centrum partnerskim. Cennik jest dostarczany dynamicznie w czasie rzeczywistym, a ceny są wyświetlane tylko w USD. Rozliczanie jest jednak wykonywane w ramach obsługiwanej waluty dotyczącej lokalizacji waluty klienta. Aby uzyskać więcej informacji na temat rozliczeń w lokalizacji walutowej klienta, zapoznaj się z artykułem [Azure plan — rozliczenia](azure-plan-billing.md).
+Cennik dla nowego środowiska Azure commerce w programie CSP jest ogłaszany w centrum partnerskim. Cennik jest dostarczany dynamicznie w czasie rzeczywistym, a ceny są wyświetlane tylko w USD. Od 28 stycznia 2021 partnerzy w regionie EU/EFTA i Zjednoczonego Królestwa, którzy mają nowych klientów i istniejących klientów korzystających z dostawcy usług kryptograficznych, kupują nowe oferty handlowe po raz pierwszy, których dzierżawcy zostały utworzone przed 11 maja 2020, będą rozliczani za te zakupy w walucie lokalizacji partnera.  W przypadku partnerów znajdujących się poza regionem UE/EFTA i Zjednoczonego Królestwa nadal będzie naliczana opłata za [usługę Azure plan — rozliczenia](azure-plan-billing.md).
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Zobacz cennik dla subskrypcji w ramach cennika usługi Azure plan
 
@@ -79,7 +79,7 @@ Cennik dla nowego środowiska Azure commerce w programie CSP jest ogłaszany w c
 |TermDuration|W przypadku produktów opartych na terminach długość okresu, która ma zastosowanie do rezerwacji|
 |Do|Rynek cen|
 |Waluta|Waluta cen|
-|Cena jednostkowa|Cena za jednostkę|
+|UnitPrice|Cena za jednostkę|
 |PricingTierRangeMin|W przypadku cen warstwowych stosowana jest cena minimalna|
 |PricingTierRangeMax|W przypadku cen warstwowych stosowana jest maksymalna cena|
 |EffectiveStartDate|Data rozpoczęcia cennika|
@@ -94,7 +94,7 @@ Cennik usługi Azure plan można wyeksportować ze [strony Cennik i oferty](http
 
 Niektóre usługi zużycia w planie platformy Azure obsługują ceny warstwowe. Partnerzy mogą znaleźć te produkty i jednostki SKU na liście cen planu platformy Azure. Elementy, które mają wartości w kolumnie zakres warstwy cenowej, umożliwiają partnerom zrozumienie ceny na podstawie użycia. W poniższym przykładzie za pomocą przykładowych danych mamy jedną jednostkę SKU produktu z trzema warstwami cenowymi.
 
-|**Produktu**   |**Identyfikatora skuId**   |**Cena jednostkowa**   |**PricingTierRangeMin**   |**PricingTierRangeMax**   |
+|**Produktu**   |**Identyfikatora skuId**   |**UnitPrice**   |**PricingTierRangeMin**   |**PricingTierRangeMax**   |
 |:---------------|:-----------|:---------------|:-------------------------|:-------------------------|
 |DDD123456ABC|01AB|.50|100001|9223372036854780000|
 |DDD123456ABC|01AB|.80|101|100000|

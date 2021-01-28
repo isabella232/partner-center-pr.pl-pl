@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: d34a264f366cc21109bb0f0ae379d34130f6f590
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570709"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924944"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Przegląd rozliczeń dla partnerów programu CSP pracujących w Centrum partnerskim 
 
@@ -33,7 +33,7 @@ Ten artykuł zawiera podstawowe informacje o rozliczeniach i fakturach dla partn
 
 Aby znaleźć rachunek:
 
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home)Centrum partnerskiego.
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home) Centrum partnerskiego.
 
 2. W menu Centrum partnerskiego wybierz pozycję **rozliczenia**.
 
@@ -53,7 +53,7 @@ Typy rozliczeń w centrum partnerskim obejmują rozliczenia **oparte na licencja
 
 **Rozliczenia oparte na licencji i użyciu**: opłata zostanie naliczona za produkty w walucie kraju lub regionu, w którym się znajdujesz. Opłaty są naliczane niezależnie od lokalizacji klienta, do którego sprzedano produkty.
 
-**Rozliczanie jednorazowe**: rachunek zostanie wygenerowany w kontekście waluty klienta. Oznacza to, że jeśli jesteś partnerem transakcji z użyciem różnych walut rozliczanych, otrzymasz fakturę dla każdego typu waluty klienta. Przeczytaj więcej na temat [jednorazowej i cyklicznie](azure-plan-billing.md). 
+**Rozliczanie jednorazowe**: począwszy od dwudziestu stycznia 2021, partnerzy w regionie EU/EFTA i Zjednoczone Królestwo, którzy mają nowych klientów i istniejących klientów korzystających z dostawcy usług kryptograficznych, którzy kupują nowe oferty handlowe po raz pierwszy, których dzierżawcy zostały utworzone przed 11 maja 2020, będą rozliczani za te zakupy w walucie lokalizacji partnera.  Partnerzy spoza regionu UE/EFTA i Zjednoczonego Królestwa będą nadal rozliczani w walucie lokalizacji partnera. Przeczytaj więcej na temat [jednorazowej i cyklicznie](azure-plan-billing.md). 
 
 ## <a name="invoices"></a>Faktury
 
@@ -150,15 +150,15 @@ Stawki za usługę taryfową mogą ulec zmianie w ramach cyklu fakturowania.
 
 Aby wyświetlić bieżący stan rozliczeniowy, faktury i pliki uzgadniania:
 
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home)Centrum partnerskiego.
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home) Centrum partnerskiego.
 2. W menu po lewej stronie wybierz pozycję **rozliczenia**, a następnie wybierz pozycję **cykliczne i jednorazowe zakupy**.
-3. Na stronie stan rozliczania wybierz plik faktury lub uzgodnienia, aby wyświetlić bardziej szczegółowe informacje.
+3. Na stronie stanu rozliczeń wybierz plik faktury lub uzgodnienia, aby wyświetlić bardziej szczegółowe informacje.
 
 ### <a name="customer-order-history"></a>Historia zamówienia klienta
 
 Aby wyświetlić historię zamówienia klienta:
 
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home)Centrum partnerskiego.
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home) Centrum partnerskiego.
 2. W menu po lewej stronie wybierz pozycję **klienci**.
 3. Na stronie **klienci** Znajdź klienta, którego historię zamówienia chcesz wyświetlić. Wybierz strzałkę w dół, aby rozwinąć rekord klienta.
 4. Wybierz pozycję **Wyświetl zamówienia** , aby wyświetlić historię zamówienia klienta.

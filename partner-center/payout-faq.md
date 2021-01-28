@@ -1,5 +1,5 @@
 ---
-title: Wypłaty i zapytania dotyczące profilu podatkowego
+title: Wypłaty i profil podatkowy — często zadawane pytania
 description: Uzyskaj odpowiedzi na często zadawane pytania dotyczące wypłat i szczegółów podatkowych w centrum partnerskim. Zawiera odpowiedzi na to, dlaczego dochody są inne niż oczekiwano.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/25/2020
-ms.openlocfilehash: 3b09f0a08cd974f88afe5c5708df307830491f3f
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492589"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924916"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Często zadawane pytania dotyczące wypłat i podatków
 
@@ -128,10 +128,6 @@ W pobranym pliku historii transakcji znajdź kolumnę Tax model (Model podatkowy
 
 Przejdź do strony **Wypłaty — Płatności** i zobacz sekcję **Lista płatności**. Jeśli płatność jest objęta podatkiem z tytułu opłaty za usługę, będzie widoczny link do formularza podatkowego.
 
-#### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Jak mogę pobrać formularz dotyczący podatku potrąconego w formacie PDF?
-
-Przejdź do strony *Wypłaty — Płatności* i zobacz sekcję **Lista płatności**. Obok płatności będzie widoczny link do formularza dotyczącego podatku potrąconego.
-
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Gdzie mogę znaleźć formularze dotyczące rozliczenia rocznego podatku?
 
 Przejdź do [strony profilu](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage), aby wyświetlić formularze dotyczące rozliczenia rocznego podatku.
@@ -170,7 +166,7 @@ Przejdź do strony **Wypłaty — Płatności** i zobacz sekcję **Lista płatno
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Jak mogę pobrać formularza potrąconej zaliczki w formacie PDF?
 
-Przejdź do strony **Wypłaty — Płatności** i zobacz sekcję **Lista płatności**. Obok płatności będzie widoczny link do formularza dotyczącego podatku potrąconego.
+Przejdź do strony **Wypłaty — Płatności** i zobacz sekcję **Lista płatności**. Obok płatności będzie widoczny link do formularza dotyczącego podatku potrąconego. Formularz potrąconej zaliczki jest stosowany tylko do wybranych programów zachęty, a nie do komercyjnej wypłaty w portalu Marketplace.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Gdzie mogę znaleźć formularze dotyczące rozliczenia rocznego podatku?
 

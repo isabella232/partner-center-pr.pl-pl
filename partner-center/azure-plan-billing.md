@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658437"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924989"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nowe środowisko handlowe w programie CSP — rozliczenia platformy Azure 
 
@@ -36,7 +36,7 @@ W tym artykule wyjaśniono, jak uzyskać dostęp do struktury pliku faktury i uz
 
 - **Termin płatności faktury**: NET 60 dni.
 
-- **Waluta faktury**: partnerzy będą nadal rozliczani w country'sej walucie klienta. Na przykład jeśli Partner rozliczy jest w Irlandii z klientami w Wielkiej Brytanii, Norwegii i Niemczech, wówczas rozliczka będzie otrzymywać GBP, NOK i fakturę w EUR/rekonesans.
+- **Waluta faktury**: począwszy od dwudziestu stycznia 2021, partnerzy w regionie EU/EFTA i Zjednoczone Królestwo, którzy mają nowych klientów i istniejących klientów korzystających z dostawcy usług kryptograficznych kupujących nowe oferty handlowe po raz pierwszy, których dzierżawcy zostały utworzone przed 11 maja 2020, będą rozliczani za te zakupy w walucie lokalizacji partnera. Partnerzy spoza regionu UE/EFTA i Zjednoczonego Królestwa będą nadal rozliczani w walucie lokalizacji partnera.
 
 - **Zachęty dla partnerów**: płatne 45 dni od końca miesiąca faktury.
 

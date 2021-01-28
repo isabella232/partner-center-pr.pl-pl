@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/20/2021
-ms.openlocfilehash: 2716c4724528714cdc64a6a36ae85bee3cd92712
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.openlocfilehash: 555ccc81fcce924b44d6e4da5db3e3ff4aeb87d7
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717832"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924898"
 ---
 # <a name="january-2021-announcements"></a>Ogłoszenia ze stycznia 2021 r.
 
@@ -24,8 +24,98 @@ Na tej stronie znajdują się szczegółowe informacje o anonsach programu Micro
 
 2020 anonse [: od](2020-may.md)  |  [czerwca](2020-june.md)do  |  [lipca](2020-july.md),  |  [](2020-august.md)  |  [](2020-september.md)  |  [październik](2020-October.md)  |  [](2020-november.md)  |  [](2020-december.md) .  
 
+_____________ 
+
+## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="14"></a> Faza 1 — teraz na żywo: UE/EFTA & UK zmiana waluty rozliczeniowej partnerów dla nowych ofert handlowych
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-01-28
+- Możliwości
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+- Wszyscy partnerzy przeprowadzają transakcję w ramach programu Cloud Solution Provider w Unii Europejskiej/EFTA & Wielkiej Brytanii
+
+### <a name="details"></a>Szczegóły
+
+W Unii Europejskiej (EU)/European Free Handle (EFTA) i Zjednoczonym Królestwie (UK) wszystkie nowe oferty handlowe w programie dostawcy rozwiązań w chmurze będą używały lokalizacji rozliczeń partnera zamiast lokalizacji rozliczania klientów. W związku z tym partnerzy będą rozliczani przez firmę Microsoft w oparciu o ich walutę lokalizacji, a nie walutę lokalizacji klientów. Te zmiany zostaną wykonane w dwóch fazach:
+
+**Faza 1:**
+
+- Nowy klient kupowający nową ofertę handlową w programie CSP
+
+- Istniejący klienci po raz pierwszy zakup nowych ofert Commerce Services — dzierżawca utworzony przed 11 maja 2020
+
+Od 28 stycznia 2021 partnerzy, którzy korzystają z nowych klientów, kupują nową ofertę handlową lub istniejącymi klientami z dzierżawcami utworzonymi przed 11 maja, 2020 podczas pierwszego zakupu nowych ofert handlowych, będą rozliczani za te zakupy w walucie lokalizacji partnera.  
+
+Partnerzy z istniejącymi klientami, którzy już kupili nowe oferty handlowe w programie CSP, będą nadal rozliczani w walucie lokalizacji rozliczeniowej klienta w trakcie tej fazy. Ponadto partnerzy z istniejącymi klientami dokonującymi pierwszego zakupu nowej oferty handlowej, których dzierżawcy zostały utworzone w dniu lub po 11 maja 2020, będą nadal rozliczani w walucie klienta.
+
+**Faza 2:**
+
+- Dotychczasowi Klienci, którzy już kupili nową ofertę handlową w programie CSP przed fazą 1
+- Istniejący klienci po raz pierwszy zakup nowych ofert Commerce Services — dzierżawca utworzony w dniu lub po 11 maja 2020
+
+Po zakończeniu fazy 1 i w roku kalendarzowym 2021 firma Microsoft przejdzie do rozliczenia nowych ofert handlowych dla partnerów z istniejącymi klientami, którzy kupili nową ofertę handlową w dostawcy usług kryptograficznych przed fazą 1, a także klienci, którzy 2020 utworzyli swoje dzierżawcy w walucie lokalizacji klienta na podstawie waluty lokalizacji partnera. Przed zaimplementowaniem tej zmiany partnerzy otrzymają odpowiednie powiadomienie.
+
+Po fazie 2 partnerzy w Unii Europejskiej/EFTA & Wielkiej Brytanii będą rozliczani jako waluta lokalizacji partnera dla wszystkich klientów i wszystkich zakupów z dostawcą usług kryptograficznych.
+
+>[!NOTE]
+>Ta zmiana wpłynie tylko na walutę rozliczeń partnera, a nie ceny nowych ofert handlowych w programie CSP. Nowe oferty handlowe w zakresie tej zmiany są następujące: subskrypcje platformy Azure, które są częścią planu platformy Azure, rezerwacje platformy Azure, subskrypcje serwera, oprogramowanie bezterminowe i komercyjne zakupy firmy Microsoft w programie Cloud Solution Provider.
+
+### <a name="partner-benefits"></a>Korzyści dla partnerów
+
+Ta aktualizacja zmniejszy złożoność i narzuty za korzystanie z wielowalutowych faktur w Unii Europejskiej (UE) w & Wielkiej Brytanii dla nowego środowiska handlowego.
+
+- Partnerzy otrzymają skonsolidowaną fakturę w jednej walucie i nie będą już otrzymywać faktury dla każdej waluty lokalizacji klienta
+- Wypłaty zachęty będą w tej samej walucie co waluta faktury dla partnera
+- Partnerzy będą zauważyć zmniejszoną złożoność rozliczeń spowodowaną przez wielowalutowe fakturowanie, co spowoduje zwolnienie czasu i zasobów skojarzonych obecnie z uzgadnianiem kont
+- W przypadku partnerów, którzy nie przyjęli jeszcze nowych ofert handlowych, ta zmiana jest zgodna z modelem rozliczeń poprzedniego partnera, dzięki czemu partnerzy mogą łatwiej przechodzić do nowego środowiska handlowego w ramach dostawcy usług kryptograficznych.
+
+### <a name="next-steps"></a>Następne kroki
+
+Przejrzyj informacje o tym temacie w [galerii operacji](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (wymagane jest zalogowanie się w witrynie sieci Web partnera firmy Microsoft).  
+
+### <a name="questions"></a>Masz pytania?
+
+W przypadku pytań związanych z tym powiadomieniem [Pomoc techniczna Centrum partnerskiego](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (wymagane jest zalogowanie się).
+
+### <a name="change-log"></a>Dziennik zmian
+
+- 17 listopada 2020: Oryginalna publikacja
+- 7 stycznia 2021: dodatkowy scenariusz uwzględniony dla fazy 1 i fazy 2
+- 28 stycznia 2021: 
+    -    Prezentacja fazy 1 jest aktywna 
+    -    Wyjaśnienie, gdy Wielka Brytania nie jest uwzględniona w Unii Europejskiej/EFTA, są one częścią [Europejskiego regionu i rynku firmy Microsoft](https://docs.microsoft.com/partner-center/regional-authorization-overview) .
+
 ________________
-## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="13"></a> Dziennik inspekcji Centrum partnerskiego zmienia się w celu uwzględnienia dwóch nowych typów operacji dla DAP
+## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Umowa partnerska firmy Microsoft (MPA) — aktualizacja pośredniego odsprzedawcy & nowych często zadawanych pytań 
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-01-27
+- Możliwości
+ 
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Wszyscy pośrednicy odsprzedawca & dostawców pośrednich w ramach programu za pomocą oprogramowania dostawcy rozwiązań w chmurze (CSP).
+
+### <a name="details"></a>Szczegóły
+
+Implementacja umowy partnerskiej firmy Microsoft (MPA) dla pośrednich odsprzedawcaów jest obecnie w toku. Aby zapewnić dalsze wsparcie dla dostawców i odsprzedawcaów, mamy opinię i teraz skonsolidowano typowe zapytania dotyczące akceptowania od MPA do nowej [strony często zadawanych pytań](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq).
+
+### <a name="next-steps"></a>Następne kroki
+
+**Odsprzedawcy Pośrednii:** Jeśli nie zaakceptowano MPA, zapoznaj się z dodatkiem MPa [często zadawanych pytań](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) i postępuj zgodnie ze wskazówkami krok po kroku dostępnymi [tutaj](https://docs.microsoft.com/partner-center/microsoft-partner-agreement) , aby zaakceptować MPa.
+
+**Dostawcy Pośrednii:** Zaangażuj się z pośrednimi odsprzedawcami i obsługuj je, korzystając z platformy [MPa często zadawanych pytań](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) i wskazówek krok po kroku dostępnych [tutaj](https://docs.microsoft.com/partner-center/microsoft-partner-agreement).
+
+### <a name="questions"></a>Masz pytania?
+
+W przypadku pytań związanych z tym powiadomieniem skontaktuj się z [pomocą techniczną Centrum partnerskiego](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+
+________________
+## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="12"></a> Dziennik inspekcji Centrum partnerskiego zmienia się w celu uwzględnienia dwóch nowych typów operacji dla DAP
 
 ### <a name="categories"></a>Kategorie
 
@@ -57,7 +147,7 @@ Poniżej przedstawiono nowe typy operacji:
 Aby uzyskać więcej pytań, Sprawdź odpowiednie społeczności Yammera programu CSP.
 
 ________________
-## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Zmiany w usłudze Azure — dostępność oferty w programie CSP związanej z nowym doświadczeniem handlowym w programie CSP dla platformy Azure
+## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="11"></a> Zmiany w usłudze Azure — dostępność oferty w programie CSP związanej z nowym doświadczeniem handlowym w programie CSP dla platformy Azure
 
 ### <a name="categories"></a>Kategorie
 
@@ -143,7 +233,7 @@ Partnerzy są zdecydowanie zachęcani do zapoznania się z następującymi zasob
 W przypadku pytań związanych z tym powiadomieniem skontaktuj się z [pomocą techniczną Centrum partnerskiego](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
 ________________
-## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> Bezterminowe oprogramowanie jest teraz ogólnie dostępne dla programu dostawcy rozwiązań w chmurze
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="10"></a> Bezterminowe oprogramowanie jest teraz ogólnie dostępne dla programu dostawcy rozwiązań w chmurze
 
 ### <a name="categories"></a>Kategorie
 
@@ -171,7 +261,7 @@ Należy również pamiętać, że obecnie wycofane oprogramowanie partnerskie i 
 Aby uzyskać więcej pytań, Sprawdź odpowiednie społeczności Yammera programu CSP.
 
 _____________
-## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="10"></a> Przypomnienie: wprowadzenie ograniczenia interfejsu API do partnerów wywołujących interfejsy API Centrum partnerskiego 
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="9"></a> Przypomnienie: wprowadzenie ograniczenia interfejsu API do partnerów wywołujących interfejsy API Centrum partnerskiego 
 
 ### <a name="categories"></a>Kategorie
 
@@ -220,7 +310,7 @@ Zapoznaj się z [zasobami](/partner-center/develop/api-throttling-guidance) �
 
 _____________
 
-## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>Zostanie uruchomiona Metoda Security, zgodność i tożsamość (SCI) 1 lutego 2021 
+## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="8"></a>Zostanie uruchomiona Metoda Security, zgodność i tożsamość (SCI) 1 lutego 2021 
 
 ### <a name="categories"></a>Kategorie
 
@@ -280,7 +370,7 @@ Aby dowiedzieć się więcej na temat tych ofert, należy zapoznać się z odpow
 
 _____________ 
 
-## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="8"></a>DocuSign migrację do usługi Adobe Sign dla partnerów w ramach umów Microsoft Partner Agreement (MPAs) 
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="7"></a>DocuSign migrację do usługi Adobe Sign dla partnerów w ramach umów Microsoft Partner Agreement (MPAs) 
 
 ### <a name="categories"></a>Kategorie
 
@@ -326,7 +416,7 @@ Jeśli masz jakieś pytania, skontaktuj się z regionalnym centrum operacji przy
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="7"></a>Komercyjna Aktualizacja cen dla Korona norweska 
+## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="6"></a>Komercyjna Aktualizacja cen dla Korona norweska 
 
 ### <a name="categories"></a>Kategorie
 
@@ -344,7 +434,7 @@ Pełny anons jest dostępny tylko dla partnerów firmy Microsoft. [Zaloguj się,
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="6"></a>Komercyjna Aktualizacja cen dla Rupia indyjskich 
+## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="5"></a>Komercyjna Aktualizacja cen dla Rupia indyjskich 
 
 ### <a name="categories"></a>Kategorie
 
@@ -363,7 +453,7 @@ Pełny anons jest dostępny tylko dla partnerów firmy Microsoft. [Zaloguj się,
 
 ________________
 
-## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="5"></a>Wywołanie planu i aktualizacji systemu telefonicznego od 1 lutego 20201
+## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="4"></a>Wywołanie planu i aktualizacji systemu telefonicznego od 1 lutego 20201
 
 ### <a name="categories"></a>Kategorie
 
@@ -403,7 +493,7 @@ Oferty te będą dostępne dla komercyjnych, studentów, wykładowców, chmurowy
 
 _____________ 
 
-## <a name="license-base-price-list-updates-for-january-2021"></a><a name="4"></a>Licencja — aktualizacje cennika podstawowego dla 2021 stycznia 
+## <a name="license-base-price-list-updates-for-january-2021"></a><a name="3"></a>Licencja — aktualizacje cennika podstawowego dla 2021 stycznia 
 
 ### <a name="categories"></a>Kategorie
 
@@ -438,69 +528,6 @@ Partnerzy powinni odwoływać się do obecnie dostępnych cenników z stycznia i
 
 - Partnerzy powinni pobrać najnowsze pliki cennika z Centrum partnerskiego w celu uzyskania skorygowanych cen w styczniu i lutym. 
 - Administratorzy globalni dla dzierżawców, którzy zakupili subskrypcje od 1 stycznia do 6 stycznia, będą powiadamiani za pośrednictwem poczty e-mail Centrum partnerskiego przed końcem stycznia z dodatkowymi informacjami. 
-
-_____________ 
-
-## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="3"></a> Zmiana waluty rozliczeniowej w Unii Europejskiej/EFTA dla nowych ofert handlowych
-
-### <a name="categories"></a>Kategorie
-
-- Data: 2021-01-07
-- Możliwości
-
-### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
-
-- Wszyscy partnerzy przeprowadzają operacje w ramach programu dostawcy rozwiązań w chmurze w regionie UE/EFTA 
-
-### <a name="details"></a>Szczegóły
-
-W regionie Unii Europejskiej (UE)/European wolnego handlu (EFTA) wszystkie nowe oferty handlowe w programie dostawcy rozwiązań w chmurze będą używały lokalizacji rozliczeń partnera zamiast lokalizacji rozliczania klientów. W związku z tym partnerzy będą rozliczani przez firmę Microsoft w oparciu o ich walutę lokalizacji, a nie walutę lokalizacji klientów. Te zmiany zostaną wykonane w dwóch fazach:
-
-**Faza 1:**
-
-- Nowy klient kupowający nową ofertę handlową w programie CSP
-
-- Istniejący klienci po raz pierwszy zakup nowych ofert Commerce Services — dzierżawca utworzony przed 11 maja 2020
-
-Od 28 stycznia 2021 partnerzy, którzy korzystają z nowych klientów, kupują nową ofertę handlową lub istniejącymi klientami z dzierżawcami utworzonymi przed 11 maja, 2020 podczas pierwszego zakupu nowych ofert handlowych, będą rozliczani za te zakupy w walucie lokalizacji partnera.  
-
-Partnerzy z istniejącymi klientami, którzy już kupili nowe oferty handlowe w programie CSP, będą nadal rozliczani w walucie lokalizacji rozliczeniowej klienta w trakcie tej fazy. Ponadto partnerzy z istniejącymi klientami dokonującymi pierwszego zakupu nowej oferty handlowej, których dzierżawcy zostały utworzone w dniu lub po 11 maja 2020, będą nadal rozliczani w walucie klienta.
-
-**Faza 2:**
-
-- Dotychczasowi Klienci, którzy już kupili nową ofertę handlową w programie CSP przed fazą 1
-- Istniejący klienci po raz pierwszy zakup nowych ofert Commerce Services — dzierżawca utworzony w dniu lub po 11 maja 2020
-
-Po zakończeniu fazy 1 i w roku kalendarzowym 2021 firma Microsoft przejdzie do rozliczenia nowych ofert handlowych dla partnerów z istniejącymi klientami, którzy kupili nową ofertę handlową w dostawcy usług kryptograficznych przed fazą 1, a także klienci, którzy 2020 utworzyli swoje dzierżawcy w walucie lokalizacji klienta na podstawie waluty lokalizacji partnera. Przed zaimplementowaniem tej zmiany partnerzy otrzymają odpowiednie powiadomienie.
-
-Po fazie 2 partnerzy w regionie UE/EFTA będą rozliczani w walucie lokalizacji partnera dla wszystkich klientów i wszystkich zakupów z dostawcą usług kryptograficznych.
-
->[!NOTE]
->Ta zmiana wpłynie tylko na walutę rozliczeń partnera, a nie ceny nowych ofert handlowych w programie CSP. Nowe oferty handlowe w zakresie tej zmiany są następujące: subskrypcje platformy Azure, które są częścią planu platformy Azure, rezerwacje platformy Azure, subskrypcje serwera, oprogramowanie bezterminowe i komercyjne zakupy firmy Microsoft w programie Cloud Solution Provider.
-
-
-### <a name="partner-benefits"></a>Korzyści dla partnerów
-
-Ta aktualizacja zmniejsza złożoność i narzuty za korzystanie z wielowalutowych faktur w regionie UE/EFTA na potrzeby nowego środowiska handlowego.
-
-- Partnerzy otrzymają skonsolidowaną fakturę w jednej walucie i nie będą już otrzymywać faktury dla każdej waluty lokalizacji klienta
-- Wypłaty zachęty będą w tej samej walucie co waluta faktury dla partnera
-- Partnerzy będą zauważyć zmniejszoną złożoność rozliczeń spowodowaną przez wielowalutowe fakturowanie, co spowoduje zwolnienie czasu i zasobów skojarzonych obecnie z uzgadnianiem kont
-- W przypadku partnerów, którzy nie przyjęli jeszcze nowych ofert handlowych, ta zmiana jest zgodna z modelem rozliczeń poprzedniego partnera, dzięki czemu partnerzy mogą łatwiej przechodzić do nowego środowiska handlowego w ramach dostawcy usług kryptograficznych.
-
-### <a name="next-steps"></a>Następne kroki
-
-Przejrzyj informacje o tym temacie w [galerii operacji](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (wymagane jest zalogowanie się w witrynie sieci Web partnera firmy Microsoft).  
-
-### <a name="questions"></a>Masz pytania?
-
-W przypadku pytań związanych z tym powiadomieniem [Pomoc techniczna Centrum partnerskiego](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (wymagane jest zalogowanie się).
-
-### <a name="change-log"></a>Dziennik zmian
-
-- 17 listopada 2020: Oryginalna publikacja
-- 7 stycznia 2021: dodatkowy scenariusz uwzględniony dla fazy 1 i fazy 2
-
 
 ________________
 ## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Wycofanie i wycofanie istniejących interfejsów API kwalifikacji i przełączenia do procesu weryfikacji klienta edukacyjnego do końca lutego 2021

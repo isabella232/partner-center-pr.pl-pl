@@ -1,7 +1,7 @@
 ---
 title: Współpraca z dostawcami pośrednimi w programie CSP
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 01/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, jak pośrednicy Odsprzedawcy mogą współdziałać z dostawcami pośrednimi firmy Microsoft (lub dystrybutorami), aby uzyskać pomoc dotyczącą obsługi klienta i
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: 7717f51504563ebb0193f693728229252827d7e3
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: a2fc1fee31a72364179deee5d18f9af3c5b626fc
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773448"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924973"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Dowiedz się, jak współdziałać z dostawcami pośrednimi w programie dostawcy rozwiązań w chmurze
 
@@ -76,30 +76,39 @@ Od października 2020 wszyscy partnerzy firmy Microsoft nowi dostawcy usług kry
    > [!IMPORTANT]  
    > Aby pomóc w zapewnieniu bezpieczeństwa i prywatności firmy, wyślemy wiadomość e-mail do głównej osoby kontaktowej w celu zweryfikowania, że (1) konto Centrum partnerskiego i (2) należy do firmy. Gdy kontakt podstawowy sprawdzi swój adres e-mail, będziemy kontynuować przegląd dostarczonych informacji. Wyślemy do Ciebie wiadomość e-mail z aktualizacją stanu rejestracji do głównej osoby kontaktowej.
 
-5. Skojarz swój identyfikator MPN z dzierżawcą usługi Azure ID.
+5. Skojarz swój identyfikator MPN z kontem dostawcy CSP. 
+  Twoje konto CSP i skojarzony identyfikator MPN muszą znajdować się w tym samym kraju.
 
-    1. Zaloguj się przy użyciu konta MPN. Przejdź do pozycji **Ustawienia**  ->  **konta ustawienia**  ->    ->  **identyfikatory** profilów. Przejrzyj identyfikatory MPN i wybierz jeden z nich, którego kraj jest taki sam jak kraj Twojego konta dostawcy CSP. Innymi słowy, Twoje konto CSP i skojarzony identyfikator MPN muszą znajdować się w tym samym kraju/regionie.
+   a. Zaloguj się do Centrum partnerskiego przy użyciu poświadczeń konta "MPN" (poświadczenia MPN mogą się różnić od poświadczeń programu CSP).
+   
+   b. Przejdź do pozycji **Ustawienia**  ->  **konta ustawienia**  ->    ->  **identyfikatory** profilów.
+ 
+    c. Znajdź identyfikator MPN z typem "Location", który jest zgodny z krajem tego konta dostawcy CSP. 
+
+    d. Jeśli nie możesz znaleźć lokalizacji MPN identyfikator, która jest zgodna z kontem dostawcy CSP, którego chcesz użyć, możesz dodać nową lokalizację, która utworzy nowy identyfikator MPN. Dowiedz się więcej, [Zarządzaj lokalizacjami](manage-locations.md).
+
+    e. Możesz odłożyć ten krok teraz, ale nie będzie można podpisać umowy Microsoft Partner Agreement (MPA) ani Transact in CSP, dopóki nie zakończy się kojarzenie identyfikatora MPN z kontem dostawcy CSP.
     
      
  > [!IMPORTANT]  
-   > Wybierz identyfikator MPN, który znajduje się w tym samym kraju/regionie co konto dostawcy CSP.
+   > Wybierz identyfikator MPN, który znajduje się w tym samym kraju co konto dostawcy CSP.
 
-6. Jeśli Twoje konto Centrum partnerskiego jest gotowe do użycia, sprawdź, czy zostało ono dodane do grupy agentów administracyjnych. Aby zakończyć konfigurowanie konta, w tym dodawanie innych użytkowników, musisz mieć uprawnienia agenta administratora. Wykonaj następujące kroki, aby wyświetlić lub zaktualizować swoje uprawnienia:
+6. Po zakończeniu weryfikacji rejestracji przez firmę Microsoft, która zajmie 3-5 dni roboczych, należy podpisać umowę Microsoft Partner na [pulpicie nawigacyjnym Centrum partnerskiego](https://partner.microsoft.com/pcv/dashboard/overview) za pomocą poświadczeń administratora globalnego. Aby wyświetlić i pobrać **umowę partnera firmy Microsoft** przed jej podpisaniem, kliknij link umowa partnerska firmy Microsoft, jak pokazano poniżej.  Jeśli Twoje konto jest zablokowane po 5 dniach roboczych, zapoznaj [się z procesem weryfikacji konta](verification-responses.md).
+
+
+:::image type="content" source="images/agreement-three.png" alt-text="Nowa lokalizacja umowy MPA":::
+
+ 
+7. Upewnij się, że została podpisana umowa partnerska firmy Microsoft w sekcji **Informacje o programie** profilu partnera. Ponadto zobaczysz powiadomienie na banerze potwierdzającym na stronie Przegląd dostawcy usług kryptograficznych. 
+
+:::image type="content" source="images/mpagreen.png" alt-text="Zielony zaakceptowany transparent":::
+
+
+8. Jeśli Twoje konto Centrum partnerskiego jest gotowe do użycia, sprawdź, czy zostało ono dodane do grupy agentów administracyjnych. Aby zakończyć konfigurowanie konta, w tym dodawanie innych użytkowników, musisz mieć uprawnienia agenta administratora. Wykonaj następujące kroki, aby wyświetlić lub zaktualizować swoje uprawnienia:
 
    1. Na pulpicie nawigacyjnym Centrum partnerskiego wybierz ikonę **Ustawienia** , a następnie w obszarze **Ustawienia konta** wybierz pozycję **Zarządzanie użytkownikami**.
 
    2. Wybierz swoją nazwę z listy użytkowników. Następnie wybierz pozycję **Agent administracyjny** , jeśli nie została jeszcze wybrana. Wybierz pozycję **Aktualizuj**.
-
-## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Wszyscy pośrednicy odsprzedawca muszą podpisać umowę Microsoft Partner Agreement
-
-1.  Jeśli nie zostało to jeszcze przeniesione do Centrum partnerskiego z Centrum członkostwa w partnerze, zrób to teraz. Aby uzyskać pomoc dotyczącą przejścia do Centrum partnerskiego, Przeczytaj [Przewodnik dotyczący migracji z programu PMC do Centrum partnerskiego](guide-to-migration.md). 
-
-2.  Jeśli masz konto członkostwa w centrum partnerskim (identyfikator MPN), nadal musisz zarejestrować się w programie dostawcy rozwiązań w chmurze. Aby sprawdzić stan członkostwa, przejdź do [**profilu partnera**](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) i Potwierdź typ konta. Następnie [zarejestruj się w programie CSP jako pośredni odsprzedawcy](enrolling-in-the-csp-program.md). Po zarejestrowaniu jako pośredni odsprzedawcy [Zaakceptuj żądanie relacji CSP od dostawcy pośredniego](indirect-reseller-tasks-in-partner-center.md).
-
-3.  Jeśli już zarejestrowano się w centrum partnerskim jako odsprzedawca pośredni, zaakceptuj umowę partnera firmy Microsoft na [pulpicie nawigacyjnym Centrum partnerskiego](https://partner.microsoft.com/pcv/dashboard/overview) , korzystając z poświadczeń administratora globalnego. Upewnij się, że została podpisana umowa partnerska firmy Microsoft w sekcji **Informacje o programie** profilu partnera. Ponadto zobaczysz powiadomienie na banerze potwierdzającym na stronie Przegląd dostawcy usług kryptograficznych. 
-
-:::image type="content" source="images/mpagreen.png" alt-text="Zielony zaakceptowany transparent":::
-
 
 ## <a name="connect-with-an-indirect-provider"></a>Nawiąż kontakt z dostawcą pośrednim
 
@@ -145,3 +154,4 @@ Twoja służbowa lokalizacja firmy jako odsprzedawca pośredni dostawcy usług k
 - [Dowiedz się więcej na temat procesu weryfikacji](verification-responses.md)
 
 - [Patrz wymagania dotyczące partnerów rozliczeniowych bezpośrednich](direct-partner-new-requirements.md)
+- [Umowa partnerska firmy Microsoft](microsoft-partner-agreement.md)

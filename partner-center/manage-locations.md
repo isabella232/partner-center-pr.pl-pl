@@ -1,7 +1,7 @@
 ---
 title: Zarządzanie lokalizacjami na koncie partnerskim
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Dowiedz się, jak dodać nową lokalizację i jak używać identyfikatora MPN Location w programach zachęty, biznesie CSP, subskrypcjach i innych transakcjach.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38ea8a451f51d80998643e2a023420ea3efaa6ba
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: e39f264485e71c5a96916c224c0ea1a85c17a55b
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773434"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98925037"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Zarządzanie lokalizacjami kont MPN i Dodawanie nowej lokalizacji
 
@@ -35,45 +35,51 @@ Firma Contoso ma swoje konto globalne partnera (PGA) w Wielkiej Brytanii. Jest t
 
 :::image type="content" source="images/locations/locations1.png" alt-text="Struktura lokalizacji MPN":::
 
-## <a name="prerequisites-in-order-to-add-a-new-account-location-for-a-csp-business"></a>Wymagania wstępne w celu dodania nowej lokalizacji konta dla firmy dostawcy CSP
+## <a name="prerequisites-in-order-to-add-a-new-account-for-a-csp-business"></a>Wymagania wstępne w celu dodania nowego konta dla firmy dostawcy CSP
 
-Aby dodać nową lokalizację biznesową programu CSP, istnieje kilka wymagań wstępnych:
+Aby dodać nowe konto biznesowe dostawcy usług kryptograficznych, Zacznij od upewnienia się, że spełniono wymagania wstępne.
 
-1. W kraju, w którym chcesz przeprowadzić działalność biznesową, musisz mieć identyfikator MPN lokalizacji.
-
-1. Potrzebna jest nowa dzierżawa usługi Azure AD w [regionie firmy](regional-authorization-overview.md) , która nie została już zarejestrowana w dostawcy usług kryptograficznych. Utwórz to po zarejestrowaniu w dostawcy usług kryptograficznych.
- 
-3. Użyj nowej dzierżawy usługi AAD, aby zarejestrować się w programie CSP w regionie.
-Dostarczenie szczegółowych informacji o firmie, takich jak imię i nazwisko, adres, podstawowe informacje kontaktowe firmy. To konto zostanie poddane weryfikacji, dlatego należy dodać prawidłowe informacje.
+1. W kraju, w którym ma być prowadzone biznesowe Oprogramowanie CSP, musi znajdować się identyfikator MPN. Aby utworzyć nową lokalizację MPN, przeczytaj sekcję "Dodawanie lokalizacji MPN" poniżej.
+  
+1. Aby utworzyć nową dostawcę CSP pośredniego rejestracji odsprzedawcy, przeczytaj artykuł [współpraca z dostawcami pośrednimi](indirect-reseller-tasks-in-partner-center.md#get-started) 
 
 >[!NOTE] 
- >Pamiętaj, aby zalogować się przy użyciu **nowych** poświadczeń dla **nowej** dzierżawy usługi Azure AD. Nie używaj istniejących poświadczeń, ponieważ centrum partnerskie sprawdzi, czy masz już konto.
+ >Pamiętaj, aby zalogować się przy użyciu **nowych** poświadczeń dla **nowego** konta dostawcy usług kryptograficznych. Nie używaj istniejących poświadczeń, ponieważ centrum partnerskie sprawdzi, czy masz już konto.
 
-4. Zaakceptuj umowę partnera firmy Microsoft i aktywuj konto.
+2. Zaakceptuj umowę partnera firmy Microsoft i aktywuj konto.
 
 ## <a name="add-an-mpn-location"></a>Dodaj lokalizację MPN
 
-1. Zaloguj się przy użyciu konta MPN w centrum partnerskim. Konto MPN powinno mieć uprawnienia administratora globalnego lub administratora konta. 
+1. Zaloguj się przy użyciu konta MPN w centrum partnerskim. (Poświadczenia MPN mogą się różnić od poświadczeń programu CSP). Konto MPN powinno mieć uprawnienia administratora globalnego lub administratora konta. 
 
-1. Na **ikonie ustawienia** wybierz **Ustawienia organizacji**.
+1. Na **ikonie ustawień** wybierz **Ustawienia konta** , a następnie wybierz pozycję **profil organizacji**.
 
-2. Wybierz pozycję **Legal** , a następnie wybierz pozycję **lokalizacje.**
+2. Wybierz pozycję **Legal** , a następnie na karcie **partner** wybierz pozycję **lokalizacje biznesowe,** a następnie kliknij pozycję **Dodaj lokalizację.**
 
-3. Wybierz pozycję **Dodaj lokalizację** i Wstaw szczegóły adresu lokalizacji, która ma zostać dodana do firmy, a także główną osobę kontaktową dla tej lokalizacji.
+3. Podaj wymagane szczegóły, takie jak nazwa firmy, adres i kontakt, dla lokalizacji, która ma zostać dodana do firmy.
+ 
+1. Kliknij pozycję **Dodaj lokalizację**. Spowoduje to utworzenie nowego identyfikatora MPN dla nowej lokalizacji, z której można korzystać w przypadku transakcji i zachęt dostawcy usług kryptograficznych.
+
+:::image type="content" source="images/legal-biz.png" alt-text="Dodaj nową firmę prawną":::
 
 > [!NOTE]
 > Po dodaniu lokalizacji w centrum partnerskim nie można jej usunąć. Aby zalogować się, zobaczysz **MPN** w menu po lewej stronie Centrum partnerskiego.
 
-## <a name="change-global-partner-account-location"></a>Zmień lokalizację globalnego konta partnera
+## <a name="change-country-of-partner-global-account"></a>Zmień kraj konta partnera globalnego 
 
-1. W obszarze **[lokalizacje biznesowe](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)** Sprawdź listę lokalizacji, aby upewnić się, że na liście znajduje się lokalizacja potrzebna jako jednostka prawna. Jeśli nie, Dodaj ją.
+1. Zaloguj się przy użyciu konta MPN w centrum partnerskim. (Poświadczenia MPN mogą się różnić od poświadczeń programu CSP). Konto MPN powinno mieć uprawnienia administratora globalnego lub administratora konta. 
 
-   :::image type="content" source="images/accountsettings/location1.png" alt-text="Zrzut ekranu przedstawiający stronę lokalizacje konta Centrum partnerskiego z listą wszystkich bieżących lokalizacji.":::
+2. Na karcie **partner** przejdź do **lokalizacji biznesowej** i sprawdź listę lokalizacji, aby upewnić się, że lokalizacja, która ma się pojawić jako podmiot prawny, jest wyświetlana. 
+ 
+1. Aby dodać lokalizację, kliknij pozycję **Dodaj lokalizację**, a następnie w polu wylot wprowadź wymagane szczegóły, takie jak nazwa firmy, adres i kontakt podstawowy dla lokalizacji, która ma zostać dodana do firmy. 
+ 
+1. Wybierz pozycję **Zmień kraj** obok listy rozwijanej **kraj/region** i postępuj zgodnie z instrukcjami. 
 
-2. Wybierz pozycję **Legal** , a następnie wybierz pozycję **zaktualizuj służbowy profil prawny**
-  
-3. Wybierz region i jednostkę prawną i **Prześlij** ją.
+:::image type="content" source="images/lbp.png" alt-text="Brak danych profilu biznesowego firmy":::
 
+5. Kliknij pozycję **Zapisz**.
+
+6. Globalny kraj konta MPN zostanie zmieniony na nowy kraj prawny.
   
 ## <a name="next-steps"></a>Następne kroki
 
