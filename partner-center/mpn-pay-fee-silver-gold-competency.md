@@ -1,19 +1,19 @@
 ---
 title: Płatność za kompetencję MPN
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 01/28/2021
 description: Dowiedz się, jak uregulować opłaty lub aktualizować szczegóły płatności związane z uzyskaniem lub odnowieniem jednej lub większej liczby kompetencji Silver lub Gold.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ad807f958dd568fe098e341b80429bf517fb87d
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98921194"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042688"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Jak uregulować opłatę skojarzoną z kompetencją Silver lub Gold
 
@@ -25,7 +25,7 @@ ms.locfileid: "98921194"
 W tym artykule opisano, jak i kiedy należy uregulować opłatę skojarzoną z osiągnięciem kompetencji Microsoft Partner Network Silver lub Gold. W tym artykule opisano również, jak zmienić preferowaną metodę płatności, jak anulować zamówienie i jak otrzymać rabat za 25% w przypadku przechodzenia z srebra do złota.
 
 > [!NOTE]
-> Aby dowiedzieć się więcej na temat korzyści z uzyskania kompetencji Silver lub Gold, dostępnych kompetencji i ich unikatowych wymagań, zobacz [Microsoft Partner Network kompetencji](https://partner.microsoft.com/membership/competencies). Możesz również sprawdzić Microsoft Partner Network [tabele licencji dla kompetencji], aby dowiedzieć się więcej na temat korzyści z każdej dostępnej kompetencji.
+> Aby dowiedzieć się więcej na temat korzyści z uzyskania kompetencji Silver lub Gold, dostępnych kompetencji i ich unikatowych wymagań, zobacz [Microsoft Partner Network kompetencji](https://partner.microsoft.com/membership/competencies). Możesz również sprawdzić [tabele licencji](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) Microsoft Partner Network, aby uzyskać więcej informacji na temat korzyści z każdej dostępnej kompetencji.
 
 ## <a name="meet-a-competencys-requirements-and-pay-the-fee"></a>Spełniaj wymagania dotyczące kompetencji i Ureguluj opłaty
 
@@ -43,7 +43,7 @@ W przeciwnym razie wykonaj następujące kroki, aby uregulować opłatę za komp
 
 2. Wybierz pozycję [oferty członkostwa](https://partner.microsoft.com/dashboard/mpn/offers) z menu nawigacji. 
 
-3. W obszarze **oferty dostępne do zakupu** Znajdź kafelek Silver Membership * * lub **Gold membership** , który jest powiązany z konkretną kompetencją. 
+3. W obszarze **oferty dostępne do zakupu** Znajdź kafelek **członkostwo w Silver** lub kafelek **Gold membership** skojarzony z konkretną kompetencją. 
 
 4. Wybierz opcję **subskrybowania** znajdującą się w prawym dolnym rogu określonego kafelka członkostwa Silver lub Gold.
 
@@ -54,7 +54,7 @@ W przeciwnym razie wykonaj następujące kroki, aby uregulować opłatę za komp
 
 4. Na stronie **szczegóły zakupu** Przejrzyj szczegóły i potwierdź je.
 
-   (Dowiedz się więcej o aktualizowaniu [informacji o **identyfikatorze podatkowym** firmy](https://docs.microsoft.com/partner-center/organization-tax-info) lub [ **rachunku firmy w firmie/sprzedaży do** adresu firmy](https://docs.microsoft.com/partner-center/mpn-get-action-pack).
+   (Dowiedz się więcej o aktualizowaniu [informacji **identyfikacyjnych podatkowych** firmy](https://docs.microsoft.com/partner-center/organization-tax-info) lub [ **rachunku firmy na** adres firmy](https://docs.microsoft.com/partner-center/mpn-get-action-pack)).
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Członkostwo oferuje stronę szczegółów zakupu z preferencjami płatności." border="false":::
 
@@ -130,7 +130,7 @@ W przypadku płacenia za pośrednictwem elektronicznej opłaty za członkostwo S
 
    :::image type="content" source="images/offers/7-mpn-competency-payment-upload-proof.png" alt-text="Strona szczegółów z polami służącymi do przekazywania monitu o wybranie opcji możliwej do wyboru, przekazanie dowodu płatności dla każdej zakupionej oferty." border="false":::
 
-1. Uzupełnij informacje dotyczące innych pól związanych z ostatnio używanymi transakcjami przelewów elektronicznych, takimi jak **Data płatności**, * płatne do numeru konta * * i **Transaction/ref No.**
+1. Uzupełnij informacje dotyczące innych pól związanych z ostatnio używanymi transakcjami przelewów elektronicznych, takimi jak **Data płatności**, **które są płatne za numer konta**, oraz **transakcji/odwołania**.
 
   Może pojawić się zielony komunikat informujący o tym, że Twoje żądanie zostało pomyślnie zakończone.
 

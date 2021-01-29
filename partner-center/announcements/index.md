@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/27/2021
-ms.openlocfilehash: 6001199d4da9d000f82f16f9fcf2f945c3c3e08b
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 01/28/2021
+ms.openlocfilehash: 6e5a9f4bcc9918a78833121c22c410aac9fac79c
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924921"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042705"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
@@ -22,7 +22,8 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 
 | **Kategoria** | **Ogłoszenia ze stycznia 2021 r.** | **Ogłoszone** |
 |---------|:---------|:---------|
-|Nowoczesne miejsce pracy|[Zmiana waluty rozliczeniowej partnerów w przypadku nowych ofert komercyjnych w UE/ESWH](2021-january.md#14)|27 stycznia|
+|Nowoczesne miejsce pracy|[Faza 1 — teraz na żywo: UE/EFTA & UK zmiana waluty rozliczeniowej partnerów dla nowych ofert handlowych](2021-january.md#15)|28 stycznia|
+|Nowoczesne miejsce pracy|[Zmiany wymagań dotyczących dołączania do programu Cloud Solution Provider (CSP)](2021-january.md#14)|28 stycznia|
 |Możliwości|[Umowa partnerska firmy Microsoft (MPA) — aktualizacja pośredniego odsprzedawcy & nowych często zadawanych pytań](2021-january.md#13)|27 stycznia|
 |Możliwości|[Dziennik inspekcji Centrum partnerskiego zmienia się w celu uwzględnienia dwóch nowych typów operacji dla DAP](2021-january.md#12)|25 stycznia|
 |Możliwości|[Zmiany w usłudze Azure — dostępność oferty w programie CSP związanej z nowym doświadczeniem handlowym w programie CSP dla platformy Azure](2021-january.md#11)|21 stycznia|

@@ -1,7 +1,7 @@
 ---
 title: Przegląd rozliczeń Centrum partnerskiego
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 01/28/2021
 description: Poznaj podstawowe informacje o rozliczeniach i fakturach dla partnerów CSP w centrum partnerskim. Zawiera informacje o sposobach rozliczania klientów i sposobach znajdowania i odczytywania faktury.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d34a264f366cc21109bb0f0ae379d34130f6f590
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924944"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042722"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Przegląd rozliczeń dla partnerów programu CSP pracujących w Centrum partnerskim 
 
@@ -86,6 +86,8 @@ Po zastosowaniu środków na następnej fakturze rozliczenia zobaczysz **zmiany*
 Warunki płatności to net 60 dni. Faktury muszą być wypłacane według daty ukończenia faktury (60 dni po dacie rozliczenia) lub Twoje konto zostanie naruszenia, co może mieć wpływ na rejestrację w dostawcy usług kryptograficznych. 
 
 Możesz odzyskać pełną funkcjonalność zawieszonych kont, gdy płacisz zaległą kwotę.
+
+Po podaniu poprawionych informacji rozliczeniowych Twoja płatność będzie widoczna na stronie rozliczania w centrum partnerskim w ciągu 5 dni roboczych.
 
 ### <a name="taxes-and-vat"></a>Podatki i VAT
 
