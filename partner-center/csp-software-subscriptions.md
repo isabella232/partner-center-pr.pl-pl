@@ -1,7 +1,7 @@
 ---
 title: Sprzedaż subskrypcji oprogramowania za pośrednictwem dostawcy rozwiązań w chmurze (CSP)
 ms.topic: how-to
-ms.date: 06/18/2020
+ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, w jaki sposób partnerzy w programie CSP mogą korzystać z Centrum partnerskiego, aby kupować, sprzedawać i anulować wystąpienia zarezerwowane platformy Azure oraz subskrypcje serwera dla klientów.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd14a82472f1a102902f1962479640b1437ef495
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 07fdc40ae9232a5cf2636b309dae45a52538edf2
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529998"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098843"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sprzedaj subskrypcje oprogramowania za pomocą programu Cloud Solution Provider (CSP)
 
@@ -49,9 +49,9 @@ Korzyść użycia hybrydowego platformy Azure pomaga uzyskać więcej wartości 
 > | Antarktyda     | Guernsey     | Saint Barthélemy   |
 > | Antigua i Barbuda       | Gwinea     | Saint Lucia   |
 > | Aruba       | Gwinea Bissau     | Saint-Martin   |
-> | Azerbejdżan       | Gujana     | Saint-Pierre i Miquelon   |
+> | Azerbejdżan       | Gujana     | Saint Pierre i Miquelon   |
 > | Benin     | Haiti       | Saint Vincent i Grenadyny     |
-> | Bhutan     | Wyspy Heard i McDonald       | Samoa     |
+> | Bhutan     | Wyspy Heard i McDonalda       | Samoa     |
 > | Bonaire     | Wyspa Man     | San Marino     |
 > | Wyspa Bouveta     | Jan Mayen     | Wyspy Świętego Tomasza i Książęca   |
 > | Brytyjskie Terytorium Oceanu Indyjskiego       | Jersey     | Seszele   |
@@ -60,7 +60,7 @@ Korzyść użycia hybrydowego platformy Azure pomaga uzyskać więcej wartości 
 > | Burundi     | Laos     | Sint Maarten     |
 > | Kambodża     | Lesotho     | Wyspy Salomona     |
 > | Republika Środkowoafrykańska     | Liberia     | Somalia     |
-> | Czad     | Madagaskar     | Wyspy Georgia Południowa i Sandwich Południowy     |
+> | Czad     | Madagaskar     | Georgia Południowa i Sandwich Południowy     |
 > | Chiny     | Malawi     | Sudan Południowy     |
 > | Wyspa Bożego Narodzenia     | Malediwy     | Święta Helena, Wyspa Wniebowstąpienia, Tristan da Cunha     |
 > | Wyspy Kokosowe (Keelinga)     | Mali     | Surinam     |
@@ -72,7 +72,7 @@ Korzyść użycia hybrydowego platformy Azure pomaga uzyskać więcej wartości 
 > | Dominika     | Montserrat     | Tonga   |
 > | Gwinea Równikowa     | Mozambik     | Wyspy Turks i Caicos   |
 > | Erytrea     | Myanmar     | Tuvalu   |
-> | Falklandy     | Nauru     | Stany Zjednoczone — Dalekie Wyspy Mniejsze   |
+> | Falklandy     | Nauru     | Odległe wyspy Stanów Zjednoczonych   |
 > | Gujana Francuska     | Nowa Kaledonia     | Vanuatu   |
 > | Polinezja Francuska     | Niger     | Watykan   |
 > | Francuskie Terytoria Południowe i Antarktyczne     | Niue     | Wallis i Futuna   |
@@ -86,33 +86,24 @@ Aby kupić subskrypcje oprogramowania w imieniu klienta:
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
 
-2. W menu Centrum partnerskiego wybierz pozycję **klienci** , a następnie wybierz klienta z listy.
+2. W menu Centrum partnerskiego wybierz pozycję **klienci**, a następnie wybierz klienta z listy.
 
-3. Na stronie Szczegóły klienta wybierz pozycję **Dodaj produkty** , a następnie postępuj zgodnie z instrukcjami wyświetlanymi na ekranie, aby utworzyć i uregulować zamówienie. Wszystkie ceny komercyjne obejmują podatek z wyjątkiem Australii i Brazylii. W przypadku Australii i Brazylii cena obejmuje podatek.
+3. Na stronie Szczegóły klienta wybierz pozycję **Dodaj produkty**, a następnie postępuj zgodnie z instrukcjami wyświetlanymi na ekranie, aby utworzyć i uregulować zamówienie. Wszystkie ceny komercyjne obejmują podatek z wyjątkiem Australii i Brazylii. W przypadku Australii i Brazylii cena obejmuje podatek.
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktywowanie subskrypcji oprogramowania i zarządzanie nimi
 
-Po zakupie subskrypcji oprogramowania postępuj zgodnie z poniższymi instrukcjami, aby ją pobrać.
+Po zakupieniu oprogramowania klienci muszą ją pobrać. Użyj poniższej procedury w tym celu.
 
 >[!NOTE]
->Aby pobrać oprogramowanie i pobrać klucze aktywacji, musisz być agentem administracyjnym.
+>Aby uzyskać klucze i pliki do pobrania, musisz być agentem administracyjnym.
 
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
-
-2. W menu Centrum partnerskiego wybierz pozycję **klienci** , a następnie wybierz klienta z listy.
-
-3. Przejdź do strony szczegółów klienta, a następnie wybierz pozycję **oprogramowanie**. Zostanie wyświetlona lista wszystkich programów zakupionych w imieniu klienta. 
-
-4. Rozwiń produkt, który chcesz pobrać. W polu **Wybierz produkt** wybierz żądaną **wersję** , **Język** i **Typ pliku/systemu operacyjnego** . 
-
-5. Wybierz pozycję **Prześlij** , aby wyświetlić określone produkty. 
-
-6. Wybierz pozycję **Pobierz klucze i pliki do pobrania**. 
-
-7. Wybierz pozycję **Pobierz** , aby rozpocząć pobieranie, lub wybierz pozycję **Kopiuj link** , aby skopiować link i wysłać go do klienta. 
+1. Przejdź do strony szczegółów klienta, a następnie wybierz pozycję **oprogramowanie**. Zostanie wyświetlona lista wszystkich programów zakupionych w imieniu klienta.
+2. Skopiuj link "głębokiego linku", **Aby połączyć się z kluczami produktów oprogramowania i pobrać** i udostępnić link klientowi. Po wybraniu tego linku zostaną one przekierowane do centrum administracyjnego firmy Microsoft, aby pobrać i uzyskać klucze produktów.
 
 >[!NOTE]
->Ten link wygaśnie po upływie dwóch tygodni lub 50 pobrań, zależnie od tego, co nastąpi wcześniej. Po wygaśnięciu linku Wróć do tej strony i wybierz pozycję **Pobierz klucze i pliki do pobrania** ponownie, aby włączyć kolejne dwa tygodnie lub 50 pobierania. Możesz to zrobić tyle razy, ile będziesz potrzebować. 
+>Tylko klienci mogą wyświetlać klucze produktów i informacje pobierane w centrum administracyjnym firmy Microsoft. Partnerzy nie mogą zobaczyć tych informacji.
+
+Jeśli ty lub klienci chcą dowiedzieć się więcej o pobieraniu kluczy licencji, zobacz [Pobieranie oprogramowania i kluczy licencji produktów](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Pobieranie subskrypcji serwera i klucze licencji dostępne za poorednictwem centrum administracyjnego Microsoft 365 dla klientów 
 
@@ -155,7 +146,7 @@ Wykonaj poniższe kroki, aby anulować zakup:
 
 2. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
 
-3. W menu Centrum partnerskiego wybierz pozycję **klienci** , a następnie wybierz klienta z listy.
+3. W menu Centrum partnerskiego wybierz pozycję **klienci**, a następnie wybierz klienta z listy.
 
 4. Na stronie Szczegóły klienta wybierz pozycję **oprogramowanie** , aby wyświetlić listę oprogramowania zakupionego dla klienta. 
 

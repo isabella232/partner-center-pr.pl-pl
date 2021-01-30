@@ -1,19 +1,19 @@
 ---
 title: Rekonesans pola pliku dla dostawcy CSP jednorazowe zakupy
 ms.topic: conceptual
-ms.date: 11/10/2020
+ms.date: 01/29/2021
 description: Dowiedz się więcej na temat wszystkich elementów w pliku uzgadniania zakupów jednorazowych w programie CSP w centrum partnerskim, łącznie z przykładowymi wartościami.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182583"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098809"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Pola pliku uzgadniania zakupów jednorazowych dostawcy CSP
 
@@ -41,14 +41,14 @@ Aby uzyskać więcej informacji na temat plików uzgadniania, zobacz [Używanie 
 | ProductName | Nazwa produktu. | *Tabele* |
 | ChargeType | [Typ opłaty](./recon-file-charge-types.md) lub korekty. | *Nowe* |
 | UnitPrice | Cena za licencję publikowana w cenniku w momencie zakupu. Upewnij się, że są one zgodne z informacjami przechowywanymi w systemie rozliczeniowym podczas uzgadniania. | *0,045* |
-| Ilość | Liczba licencji. Upewnij się, że są one zgodne z informacjami przechowywanymi w systemie rozliczeniowym podczas uzgadniania. | *1* |
+| Liczba | Liczba licencji. Upewnij się, że są one zgodne z informacjami przechowywanymi w systemie rozliczeniowym podczas uzgadniania. | *1* |
 | Suma częściowa | Suma przed podatkiem. Suma częściowa powinna być równa ilości rozliczanej pomnożonej przez obowiązującą cenę jednostkową. | *0* |
 | TaxTotal | Opłata za podatek. Na podstawie reguł podatkowych i określonych okoliczności na rynku. | *0* |
 | Łącznie | Łączna kwota jest równa sumie częściowej powiększonej o kwotę podatku. | *0* |
 | Waluta | Rachunek jest generowany w kontekście waluty klienta. Oznacza to, że jeśli jesteś partnerem transakcji z użyciem różnych walut rozliczanych, otrzymasz fakturę dla każdego typu waluty klienta.  | *EUR* |
 | PriceAdjustmentDescription | Przyczyny korekty ceny jednostkowej. Są to główne przyczyny, ale nie są ograniczone do określania efektywnej ceny jednostkowej. | *["15,0% w przypadku partnerów uzyskano środki na zarządzanie usługami"]* |
 | PublisherName | Wydawca produktu.  | *Microsoft* |
-| PublisherId | Unikatowy identyfikator, którego centrum partnerskie używa do identyfikowania wydawcy. | *POTRĄCON* |
+| PublisherId | Unikatowy identyfikator, którego centrum partnerskie używa do identyfikowania wydawcy. | *NA* |
 | SubscriptionDescription | Nazwa oferty usługi zakupionej przez klienta zgodnie z definicją w cenniku. Ta kolumna jest tym samym polem, aby Zaoferowaćname. | *Plan platformy Azure* |
 | SubscriptionId | Unikatowy identyfikator subskrypcji na platformie rozliczeń firmy Microsoft. Nieużywany do uzgadniania. Należy pamiętać, że ten identyfikator nie jest taki sam jak identyfikator subskrypcji w konsoli administracyjnej partnera. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
 | ChargeStartDate | Data Centrum partnerskiego opłaty za subskrypcję. W przypadku zakupu subskrypcji z rocznym okresem rozliczeniowym i comiesięcznym planem rozliczeniowym, a następnie w pierwszym pliku uzgodnienia jest to dzień, w którym zakupiona została subskrypcja. Począwszy od następnego pliku uzgodnienia, zostanie on zwiększony o 30 dni. | *9/1/2020* |
@@ -58,12 +58,15 @@ Aby uzyskać więcej informacji na temat plików uzgadniania, zobacz [Używanie 
 | UnitType | Typ jednostki, w której jest naliczany licznik. | *1 GB/miesiąc* |
 | AlternateId | Alternatywny identyfikator elementu wiersza zamówienia, do którego się odwoływano. | *6dc5c039750a* |
 | BillableQuantity | Łączna liczba rozliczanych opłat.  | *0,005001* |
-| BillingFrequency | Plan rozliczeń wybrany w momencie zakupu. | *POTRĄCON*  |
+| BillingFrequency | Plan rozliczeń wybrany w momencie zakupu. | *NA*  |
 | PricingCurrency | Waluta w cenniku. | *USD* |
 | PCToBCExchangeRate | Kurs wymiany stosowany w przypadku waluty cenowej do faktury rozliczeniowej. | *0,846202666* |
 | PCToBCExchangeRateDate | Data ustalenia waluty cenowej waluty rozliczeniowej. | *2020-09-30* |
 | MeterDescription | Opis miernika.  | *Tabele — LRS dane przechowywane (GB/miesiąc)* |
 | ReservationOrderId | Identyfikator zamówienia rezerwacji. | *E21A6344E398FFC1C4D7...* |
+
+>[!NOTE]
+>Możesz uzgodnić użycie platformy Azure w pliku Rekonesans zakupu jednorazowego. W tym celu przejdź do pliku Rekonesans o codziennym użyciu i Wyszukaj swój identyfikator subskrypcji. Spowoduje to wyświetlenie wszystkich kosztów skojarzonych z IDENTYFIKATORem planu platformy Azure. Identyfikator subskrypcji platformy Azure jest pokazywany jako EntitlementID.
 
 ## <a name="next-steps"></a>Następne kroki
 

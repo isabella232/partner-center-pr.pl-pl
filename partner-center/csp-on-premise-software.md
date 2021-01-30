@@ -1,7 +1,7 @@
 ---
 title: Sprzedawanie oprogramowania lokalnego za poorednictwem dostawcy usług kryptograficznych
 ms.topic: how-to
-ms.date: 01/15/2021
+ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, w jaki sposób partnerzy w programie CSP mogą kupować, sprzedawać i anulować subskrypcje oprogramowania lokalnego w imieniu klientów w centrum partnerskim.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1d9cddd46ac6ee23a92fab41fc41b1e7eb613a1
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: e0ca730da28f320de50a1990a1bcfe13b195bbbf
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584162"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098860"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Sprzedawanie oprogramowania lokalnego za pomocą programu dostawcy rozwiązań w chmurze (CSP)
 
@@ -37,13 +37,16 @@ Aby kupić subskrypcje oprogramowania w imieniu klienta, przejdź do strony szcz
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktywowanie subskrypcji oprogramowania i zarządzanie nimi
 
-Po zakupie oprogramowania użytkownik i jego klienci muszą je pobrać. Użyj poniższej procedury w tym celu. 
+Po zakupieniu oprogramowania klienci muszą ją pobrać. Użyj poniższej procedury w tym celu.
 
 >[!NOTE]
 >Aby uzyskać klucze i pliki do pobrania, musisz być agentem administracyjnym.
 
 1. Przejdź do strony szczegółów klienta, a następnie wybierz pozycję **oprogramowanie**. Zostanie wyświetlona lista wszystkich programów zakupionych w imieniu klienta.
-2. Skopiuj łącze z **linku do kluczy produktów oprogramowania i Pobierz** i Udostępnij link klientowi. Po wybraniu tego linku zostaną one przekierowane do portalu administracyjnego firmy Microsoft, aby pobrać i uzyskać klucze produktów.
+2. Skopiuj link "głębokiego linku", **Aby połączyć się z kluczami produktów oprogramowania i pobrać** i udostępnić link klientowi. Po wybraniu tego linku zostaną one przekierowane do centrum administracyjnego firmy Microsoft, aby pobrać i uzyskać klucze produktów.
+
+>[!NOTE]
+>Tylko klienci mogą wyświetlać klucze produktów i informacje pobierane w centrum administracyjnym firmy Microsoft. Partnerzy nie mogą zobaczyć tych informacji.
 
 Jeśli ty lub klienci chcą dowiedzieć się więcej o pobieraniu kluczy licencji, zobacz [Pobieranie oprogramowania i kluczy licencji produktów](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 

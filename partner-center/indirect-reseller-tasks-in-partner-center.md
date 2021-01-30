@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: a2fc1fee31a72364179deee5d18f9af3c5b626fc
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: d93a94ce1171770d76617a9ec8bed9a1dd96d287
+ms.sourcegitcommit: 1aeabd40513f06809cb111131b4e6bc188975ce6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924973"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99065475"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Dowiedz się, jak współdziałać z dostawcami pośrednimi w programie dostawcy rozwiązań w chmurze
 
@@ -76,8 +76,8 @@ Od października 2020 wszyscy partnerzy firmy Microsoft nowi dostawcy usług kry
    > [!IMPORTANT]  
    > Aby pomóc w zapewnieniu bezpieczeństwa i prywatności firmy, wyślemy wiadomość e-mail do głównej osoby kontaktowej w celu zweryfikowania, że (1) konto Centrum partnerskiego i (2) należy do firmy. Gdy kontakt podstawowy sprawdzi swój adres e-mail, będziemy kontynuować przegląd dostarczonych informacji. Wyślemy do Ciebie wiadomość e-mail z aktualizacją stanu rejestracji do głównej osoby kontaktowej.
 
-5. Skojarz swój identyfikator MPN z kontem dostawcy CSP. 
-  Twoje konto CSP i skojarzony identyfikator MPN muszą znajdować się w tym samym kraju.
+5. Skojarz swój identyfikator MPN z kontem dostawcy CSP. Twoje konto programu CSP i skojarzony identyfikator MPN muszą znajdować się w tym samym kraju, a identyfikator MPN musi znajdować się w centrum partnerskim.
+  
 
    a. Zaloguj się do Centrum partnerskiego przy użyciu poświadczeń konta "MPN" (poświadczenia MPN mogą się różnić od poświadczeń programu CSP).
    
@@ -88,10 +88,9 @@ Od października 2020 wszyscy partnerzy firmy Microsoft nowi dostawcy usług kry
     d. Jeśli nie możesz znaleźć lokalizacji MPN identyfikator, która jest zgodna z kontem dostawcy CSP, którego chcesz użyć, możesz dodać nową lokalizację, która utworzy nowy identyfikator MPN. Dowiedz się więcej, [Zarządzaj lokalizacjami](manage-locations.md).
 
     e. Możesz odłożyć ten krok teraz, ale nie będzie można podpisać umowy Microsoft Partner Agreement (MPA) ani Transact in CSP, dopóki nie zakończy się kojarzenie identyfikatora MPN z kontem dostawcy CSP.
-    
-     
+
  > [!IMPORTANT]  
-   > Wybierz identyfikator MPN, który znajduje się w tym samym kraju co konto dostawcy CSP.
+ > Wybierz identyfikator MPN, który jest dostępny w centrum partnerskim i w tym samym kraju co konto dostawcy CSP, i upewnij się, że identyfikator MPN jest w centrum partnerskim.
 
 6. Po zakończeniu weryfikacji rejestracji przez firmę Microsoft, która zajmie 3-5 dni roboczych, należy podpisać umowę Microsoft Partner na [pulpicie nawigacyjnym Centrum partnerskiego](https://partner.microsoft.com/pcv/dashboard/overview) za pomocą poświadczeń administratora globalnego. Aby wyświetlić i pobrać **umowę partnera firmy Microsoft** przed jej podpisaniem, kliknij link umowa partnerska firmy Microsoft, jak pokazano poniżej.  Jeśli Twoje konto jest zablokowane po 5 dniach roboczych, zapoznaj [się z procesem weryfikacji konta](verification-responses.md).
 
