@@ -64,6 +64,8 @@
           displayName: 'renew, mpn'
         - name: Wyłączenie kompetencji dla deweloperów aplikacji
           href: app-dev-isv.md
+        - name: Korzystanie z raportu umiejętności
+          href: mpn-skills-report.md
     - name: Zaawansowane specjalizacje
       items:
         - name: Prezentuj swoją wiedzę
