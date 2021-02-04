@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
-ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
+ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94983345"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530667"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Jak zgłosić problemy z centrum partnerskim i przesłać wszelkie informacje dotyczące dziennika lub diagnostyki
 
@@ -53,7 +53,7 @@ Jeśli Twój problem wymaga rozmowy z pomocą techniczną, możesz zaplanować t
 
 2. Centrum partnerskie sprawdza dostępność w kalendarzu ambasadorów pomocy technicznej.
 
-1. Po zaplanowaniu terminu w centrum partnerskim zostanie wysłane zaproszenie do kalendarza z informacjami na temat tego, jak ambasador generalny skontaktuje się z Tobą, aby można było śledzić ten termin w swoim kalendarzu służbowym.
+1. Po zaplanowaniu terminu w centrum partnerskim zostanie wysłane zaproszenie do kalendarza z informacjami na temat tego, jak ambasador generalny skontaktuje się z Tobą, aby można było śledzić ten termin w swoim kalendarzu służbowym.  Mimo że ta funkcja jest nadal dostępna w wersji zapoznawczej, wiadomość e-mail i zaproszenie do kalendarza będą znajdować się w języku angielskim, ale ambasador będzie mógł obsługiwać użytkownika w języku wybranym podczas tworzenia biletu.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Data i godzina":::
 

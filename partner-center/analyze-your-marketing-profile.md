@@ -9,14 +9,14 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c3ca88d367ea9dea8df1bb2bb4945ecc7b900b26
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776863"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530837"
 ---
-# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analizuj potencjalni klienci — Zobacz, jak dobrze przyciągasz klientów docelowych i potencjalną liczbę odwołań
+# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analiza potencjalnych klientów — sprawdź, jak skutecznie przyciągasz docelowych odbiorców i klientów z polecenia
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -24,11 +24,6 @@ https://go.microsoft.com/fwlink/?linkid=849120
 **Odpowiednie role**
 
 - Administrator odwołań
-
-**Dotyczy**
-
-- Potencjalni klienci z portalu Marketplace
-- Zakwalifikowani potencjalni klienci
 
 Strona **potencjalni klienci** w sekcji **Analiza** odwołań pozwala zobaczyć, jak są wykonywane odwołania. Regularnie Przeglądaj te metryki, aby identyfikować trendy i obszary wymagające uwagi, a także rozpocząć pracę na podstawie celów firmy.
 
@@ -115,3 +110,7 @@ Istnieje kilka przyczyn, dla których otrzymujesz pusty wykres, jak poniżej, po
 
 > [!TIP]
 > Aby dowiedzieć się, jak działają możliwości wspólnej sprzedaży, przejrzyj [stronę informacje o możliwościach współsprzedaży](referral-insights.md).
+
+## <a name="next-steps"></a>Następne kroki
+
+- [Zarządzanie potencjalnymi klientami](manage-leads.md)

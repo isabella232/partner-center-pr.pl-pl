@@ -1,7 +1,7 @@
 ---
 title: Wskaźniki udziałów partnerów — OBSŁUGIWANIE
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 02/03/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się więcej na temat siedmiu wskaźników udziału partnerskiego (PCI), które pokazują partnerów, w jaki sposób uzyskać kompetencje Business Applications w chmurze Silver lub Gold.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 853af76627fcd2554492fbc918e147b8464a3e1f
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204074"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530820"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Używanie wskaźników udziałów partnerów w celu uzyskania kompetencji Business Applications w chmurze
 
@@ -125,7 +125,7 @@ Aby uzyskać szczegółowe informacje, zobacz następujące tabele:
 | Metryka PCI | Wskaźnik wydajności: nowy przychód netto | Wskaźnik wydajności: nowy klient dodaje | Wskaźnik możliwości: doradcy funkcjonalne | Wskaźnik możliwości: wzrostu konsultanta funkcjonalnego | Wskaźnik możliwości: deweloperzy | Wskaźnik sukcesu klienta: nowe duże wdrożenia | Wskaźnik sukcesu klienta: miesięczny wzrost liczby aktywnych użytkowników |
 |---|---|---|---|---|---|---|---|
 | **Maksymalna liczba punktów** | 10 punktów | 10 punktów | 15 punktów | 15 punktów | 5 punktów | 20 punktów | 25 punktów |
-| **Przygotowany** | $300 000 | 10 | 10 | *\* Zobacz Uwaga* | 5 | 5 | 25% |
+| **Przygotowany** | $300 000 | 10 | 15 | *\* Zobacz Uwaga* | 5 | 5 | 25% |
 | **Wywoływania** | $150 000 | 5  | 5  |*\* Zobacz Uwaga* | 2 | 1 | 25% |
 
 *\* Uwaga: elementy docelowe wzrostu różnią się w zależności od liczby konsultantów linii bazowej i konkretnej opcji, która jest wykorzystywana przez partnera w celu uzyskania punktów. Aby dowiedzieć się więcej na temat opcji pozwalających uzyskać punkty lub elementy docelowe określonego wzrostu, zobacz [definicje dotyczące wzrostu dla doradcy](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
@@ -187,8 +187,8 @@ Nowy przychód netto to [wskaźnik wydajności](partner-contribution-indicators.
   - Zaangażowanie klienta — kwalifikujące się produkty obejmują: sprzedaż, obsługa klienta, usługa pola, Automatyzacja usługi projektu, Marketing, relacje sprzedaży firmy Microsoft, plan 1, talent i członek zespołu przedsiębiorstwa.
   - Produkty kwalifikujące się do finansów i operacji obejmują: ujednolicone operacje, finanse, zarządzanie łańcuchem dostaw, handel detaliczny, handel, plan 2, rzeczywistość mieszana, talent i członek zespołu przedsiębiorstwa.
 
-- Kanały sprzedaży to Umowa Enterprise (EA), dostawca rozwiązań w chmurze (CSP) i bezpośrednie sieci Web.
-- Tylko dla Umowa Enterprise przychodu: ten przychód obejmuje dochody z pierwszego roku umowy. Przychód cykliczny od drugiego i trzeciego roku nie jest uwzględniony.
+- Kanały sprzedaży to Enterprise Agreement (EA), dostawca rozwiązań w chmurze (CSP) i bezpośrednie sieci Web.
+- Tylko dla Enterprise Agreement przychodu: ten przychód obejmuje dochody z pierwszego roku umowy. Przychód cykliczny od drugiego i trzeciego roku nie jest uwzględniony.
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Definicje dla metryki PCI #2 — dodanie klienta netto
 
@@ -214,7 +214,7 @@ Dodanie klienta netto to [wskaźnik wydajności](partner-contribution-indicators
   > [!NOTE]
   > Aby uzyskać szczegółowe informacje na temat opracowywanych i rozwijających się rynków, zobacz następujące [definicje Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
-- Kanały sprzedaży to Umowa Enterprise (EA), dostawca rozwiązań w chmurze (CSP) i bezpośrednie sieci Web.
+- Kanały sprzedaży to Enterprise Agreement (EA), dostawca rozwiązań w chmurze (CSP) i bezpośrednie sieci Web.
 
 - W przypadku wielu partnerów i klientów pracujących bezpośrednio z firmą Microsoft: istnieją różne obliczenia dotyczące dowolnych **klientów** i **przegranych** przez klientów w przypadku, gdy wielu partnerów jest skojarzonych z tym samym klientem za pomocą różnych subskrypcji lub w przypadku, gdy klient może już pracować bezpośrednio z firmą Microsoft. Te obliczenia są wyświetlane poniżej.
 
