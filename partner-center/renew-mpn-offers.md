@@ -1,52 +1,44 @@
 ---
 title: Odnawianie oferty MPN
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 02/02/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Odnowienie Microsoft Partner Network (MPN) dla kompetencji Microsoft Action Pack & — okno odnowienia rozpoczyna rocznicę daty zakupu plus jeden dzień.
+description: Odnowienie Microsoft Partner Network (MPN) dla kompetencji i zaawansowanych specjalizacji — okno odnowienia rozpoczyna rocznicę daty zakupu plus jeden dzień.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 20ea64ffa15ae5f2370e9194bd3f9907c498a4e9
-ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
+ms.openlocfilehash: be1590d83f6349e9caeb85ed9303e7a10d0cca6b
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "92529530"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552437"
 ---
-# <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>Odnów oferty usługi MPN dla programu Microsoft Action Pack i kompetencji w oknie odnowienia
+# <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Odnów oferty usługi MPN pod kątem kompetencji i zaawansowanych specjalizacji w oknie odnowienia
 
 ### <a name="applies-to"></a>Dotyczy
 
 - Centrum partnerskie
 
-Kompetencje firmy Microsoft Action Pack i Silver i Gold są ofertami dla członków Microsoft Partner Network, którzy wymagają corocznego odnowienia. Okno odnowienia rozpoczyna się od rocznicy daty zakupu powiększonej o jeden dzień. Jeśli na przykład zakupiono Action Pack firmy Microsoft od 1 września 2018, okno odnowienia rozpocznie się 2 września 2019. Możesz odnowić Action Pack i kompetencje w centrum partnerskim. W obszarze oferty członkostwa znajdziesz zakupione oferty i można zlokalizować datę rocznicy dla ofert w kolumnie Data rozpoczęcia odnawiania. Członkostwo w samym Microsoft Partner Network nie wymaga odnowienia rocznego. 
+## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Reagowanie na COVID-19: aktualizacja Microsoft Partner Network
 
-Aby dowiedzieć się więcej, wybierz odpowiednie łącze poniżej: 
+Aktualizacja 27 stycznia 2021:  
 
-- [Kompetencje](learn-about-competencies.md)
+Firma Microsoft zrzeka się kompetencji i zaawansowanych wymagań specjalizacji dla wszystkich partnerów, którzy mają rocznicę (AD) od 1 stycznia 2021 do 30 czerwca 2021. Wyjątkiem jest Business Applications w chmurze (OBSŁUGIWANIE), dla którego partnerzy, którzy mają usługi AD w dniu lub po 1 kwietnia 2021, do 30 czerwca 2021, zostaną nanagradzani do 15 punktów w kierunku wymaganej metryki wzrostu w konstrukcji PCI.  
 
-- [Action Pack firmy Microsoft](mpn-get-action-pack.md)
+**Partnerzy z kompetencjami (z wyjątkiem kompetencji Business Applications w chmurze), które mają rocznicę od 1 stycznia 2021 do 30 czerwca 2021,** kwalifikują się do przedłużenia kompetencji jednoletnich. Rozszerzamy Twoją istniejącą kompetencję lub kompetencje w ciągu następnej rocznicy w dniu 2022.Informacje specyficzne dla organizacji będą dostępne w centrum partnerskim, począwszy od lutego i wyrównane do przedziału czasu odnowienia.Musisz podjąć odpowiednie działania w centrum partnerskim, aby uregulować opłatę za kompetencje i zakończyć odnowienie.Jeśli zbliżasz się do końca 30-dniowego okresu odnawiania kompetencji i nie można go odnowić w centrum partnerskim, skontaktuj się z [pomocą techniczną partnera](https://partner.microsoft.com/support) w celu uzyskania pomocy.  
 
-- [Jak zarządzać korzyściami](manage-your-partner-network-benefits.md)
+**W przypadku partnerów z kompetencją Business Applications w chmurze:** Zgodnie z powyższymi powiadomieniami ocenianie wskaźników udziału partnerskiego (PCI) będzie obowiązywać od 1 kwietnia 2021. Jeśli rocznica Business Applications w chmurze wynosi od 1 stycznia 2021 do 31 marca 2021, konieczne będzie spełnienie wymagań opublikowanych w centrum partnerskim i uiszczenie opłaty za kompetencje w celu ukończenia odnawiania. Jeśli rocznica Business Applications w chmurze wynosi od 1 kwietnia 2021 do 30 czerwca 2021, otrzymasz 15 punktów dla metryki wzrostu dla doradcy funkcjonalnej. Musisz spełnić pozostałe wymagania, które zostały opublikowane w centrum partnerskim i uregulować opłaty za kompetencje, aby zakończyć odnowienie.  
 
-## <a name="renewal-reminders"></a>Przypomnienia o odnowieniu 
+**W przypadku partnerów odnawiających zaawansowaną specjalizację w 2021:** Partnerzy z zaawansowanymi okresami specjalizacji w okresie od 1 stycznia 2021 do 30 czerwca 2021 kwalifikują się do jednoletniego rozszerzenia do 2022, pod warunkiem, że zachowasz wymaganą kompetencję Gold, która jest stosowana do zaawansowanej specjalizacji, która może obejmować uiszczenie opłaty za możliwość odnowienia. Informacje specyficzne dla organizacji będą dostępne w centrum partnerskim, począwszy od lutego i wyrównane do przedziału czasu odnowienia.  
+
+## <a name="renewal-reminders"></a>Przypomnienia o odnowieniu
 
 Masz 30 dni od daty rocznicy odnowienia. Twoje korzyści będą kontynuowane w tym czasie. Piętnaście dni przed datą rocznicy, firma Microsoft będzie przypominać o nadchodzącej rocznicie. Po dacie rocznicy otrzymasz kolejne przypomnienie. W przypadku odnowienia w tej rocznicy i 30-dniowego okna korzyści pozostaną bez zmian. Jeśli nie odnowisz w oknie odnowienia, utracisz korzyści i kompetencje.
 
 Po odnowieniu w oknie odnowienia nowa data rocznicy będzie 365 dni po bieżącej rocznicie.
-
-## <a name="responding-to-covid-19"></a>Reagowanie na COVID-19:
-
-Aby ułatwić skoncentrowanie się na obsłudze klientów: 
-
-- **Jeśli data rocznicy Twojej kompetencji przypada w okresie od 1 lipca do 31 grudnia 2020**, rozszerzamy istniejące kompetencje lub kompetencje w ciągu następnej rocznicy w 2021. Przypomnienia o odnowieniu uprawnień zostaną zaktualizowane w celu odzwierciedlenia tej nowej oferty. 
-
-- **Jeśli masz kompetencję do odnowienia**, zobaczysz w centrum partnerskim, że Twoje wymagania zostały spełnione. Aby odnowić subskrypcję, musisz uregulować opłatę za kompetencje w oknie odnowienia na stronie oferty członkostwa. 
-
-- **Jeśli okno odnowienia zostało już pominięte**, możesz ponownie aktywować swoją kompetencję i odzyskać dostęp do zasobów i korzyści, płacąc na stronie oferty członkostwa. To rozszerzenie jest dostępne do 31 grudnia 2020.
 
 ### <a name="how-to-view-competency-renewal-information"></a>Jak wyświetlić informacje o odnowieniu kompetencji
 
@@ -56,7 +48,13 @@ Aby ułatwić skoncentrowanie się na obsłudze klientów:
 
 3. Wybierz jedną z kompetencji. Zobaczysz powiadomienie, że wystąpiło zwolnienie od spełnienia wymagań do daty następnego odnowienia.
 
-4. Aby skorzystać z tej oferty, przejdź do oferty dotyczącej **członkostwa**. W zależności od stanu zakupu lub odnowienia może być konieczne uiszczenie opłaty za kompetencje w celu ukończenia procesu. 
+4. Aby skorzystać z tej oferty, przejdź do oferty dotyczącej **członkostwa**. W zależności od stanu zakupu lub odnowienia może być konieczne uiszczenie opłaty za kompetencje w celu ukończenia procesu.
 
 Aby skorzystać z rozszerzenia, musisz przenieść członkostwo z Centrum członkostwa partnera (PMC) do Centrum partnerskiego, aby odnowić swoją kompetencję i uregulować opłatę. Jeśli członkostwo nie zostało przeniesione, [Dowiedz się więcej](prepare-pmc-pc-migration.md)   i [Przekształć](https://partners.microsoft.com/partnerprogram/Welcome.aspx)   już dziś.  
+
+## <a name="next-steps"></a>Następne kroki
+
+- [Kompetencje](learn-about-competencies.md)
+
+- [Jak zarządzać korzyściami](manage-your-partner-network-benefits.md)
 

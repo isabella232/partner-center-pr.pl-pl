@@ -1,7 +1,7 @@
 ---
 title: Często zadawane pytania dotyczące Microsoft Partner Network
 ms.topic: article
-ms.date: 12/10/2020
+ms.date: 02/04/2021
 description: Odpowiedzi na pytania dotyczące zasad dotyczących Microsoft Partner Network korzyści.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: ef57b282a1a062ac34d48e7fc247175aa9dab32c
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 521e3a3adb51f528fd7b2a35103f78b0c193f1d1
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97349549"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552397"
 ---
 # <a name="microsoft-partner-network-benefits-faq"></a>Często zadawane pytania dotyczące Microsoft Partner Network
 
@@ -22,8 +22,13 @@ ms.locfileid: "97349549"
 
 - Administrator partnerski MPN
 
-
 W poniższym artykule przedstawiono niektóre z najważniejszych pytań, na które partnerzy Microsoft Partner Network (MPN) mają swoje korzyści, kompetencje i licencje na produkty.
+
+## <a name="responding-to-covid-19"></a>Reagowanie na COVID-19
+
+**P.** **nasza rocznica jego kompetencji jest w stanie, w którym nie można spełnić wymagań dotyczących kompetencji spowodowanych wpływem na COVID-19. Co robimy?**
+
+A. Jeśli data rocznicy przystąpienia przypada między 1 stycznia a 30 czerwca 2021, rozszerzamy istniejące kompetencje lub kompetencje (z wyjątkiem Business Applications w chmurze) w ciągu następnej rocznicy w 2022. Nie ma potrzeby spełnienia wymagań dotyczących egzaminu lub wydajności, ale nadal będzie naliczana opłata za kompetencje.Aby uzyskać więcej informacji, zobacz nasz [wpis w blogu](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
 
 ## <a name="membership"></a>Członkostwo
 
@@ -140,18 +145,7 @@ A. Osiągnięcie kompetencji i Action Pack zakupu są wykonywane w centrum partn
 
 A. Możesz przejść do [sekcji Pomoc techniczna Centrum partnerskiego](https://partner.microsoft.com/support) , aby uzyskać linki do zasobów, które mogą być przydatne, lub otworzyć bilet z zespołem pomocy technicznej nasz partner w razie potrzeby.
 
-## <a name="competency-extension-to-offset-effects-of-covid-19"></a>Rozszerzenie kompetencji do przesunięcia efektów COVID-19
-
-**P: czy firma Microsoft oferuje pomoc w przypadku partnerów mających trudności?**
-
-Odp.: w przypadku partnerów z datą rocznicy w zakresie kompetencji od 1 lipca do 31 grudnia 2020, firma Microsoft rozszerza istniejącą kompetencję lub kompetencje partnera w ciągu następnej rocznicy w 2021. Partner otrzyma przypomnienie o odnowieniu w celu odzwierciedlenia tej nowej oferty. Partner musi uiścić opłatę za swoją kompetencję w ramach 30-dniowego okresu odnawiania.
-
-**P: co zrobić, jeśli Partner nie pominął 30-dniowego okresu odnawiania?**
-
-Odp.: partner może ponownie aktywować swoją kompetencję i odzyskać dostęp do zasobów i korzyści, płacąc opłaty na stronie oferty członkostwa w centrum partnerskim do 30 dni, publikując daty rocznicy. Jeśli partner nie pominął 30-dniowego okresu prolongaty, należy przesłać bilet pomocy technicznej za pośrednictwem Centrum partnerskiego z informacją o tym, że dane żądanie mają zostać przyznane COVID zastąpienie po upływie 30-dniowego okresu odnowienia.
-
-Aby uzyskać dodatkowe informacje, przeczytaj artykuł [Odnów MPN oferty](renew-mpn-offers.md).
-
 ## <a name="next-steps"></a>Następne kroki
 
-- [Znajdowanie korzyści programu Microsoft Partner Network](mpn-find-benefits.md) 
+- [Znajdowanie korzyści programu Microsoft Partner Network](mpn-find-benefits.md)
+- [Odnów ofertę MPN](renew-mpn-offers.md)

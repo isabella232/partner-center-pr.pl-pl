@@ -8,20 +8,24 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: 6e5a9f4bcc9918a78833121c22c410aac9fac79c
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.date: 02/03/2021
+ms.openlocfilehash: 9002e77d364985ffec170dbf3887dde0ab324746
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042705"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552423"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
 Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często aktualizujemy te informacje, więc warto tu wracać!
 
-| **Kategoria** | **Ogłoszenia ze stycznia 2021 r.** | **Ogłoszone** |
+|**Kategoria**|**Powiadomienia 2021 lutego**|**Ogłoszone**|
 |---------|:---------|:---------|
+|Możliwości|[Reagowanie na COVID-19: aktualizacja Microsoft Partner Network](2021-february.md#3)|4 lutego|
+|Możliwości|[Nowe aktualizacje modułu odwołań w centrum partnerskim](2021-february.md#2)|4 lutego|
+|Nowoczesne miejsce pracy|[Wycofanie i wycofanie interfejsów API kwalifikacji dla procesu weryfikacji klienta edukacyjnego do 25 lutego 2021 i otrzymywanie kwalifikacji do 4 maja 2021](2021-february.md#1)|4 lutego|
+| **Kategoria** | **Ogłoszenia ze stycznia 2021 r.** | **Ogłoszone** |
 |Nowoczesne miejsce pracy|[Faza 1 — teraz na żywo: UE/EFTA & UK zmiana waluty rozliczeniowej partnerów dla nowych ofert handlowych](2021-january.md#15)|28 stycznia|
 |Nowoczesne miejsce pracy|[Zmiany wymagań dotyczących dołączania do programu Cloud Solution Provider (CSP)](2021-january.md#14)|28 stycznia|
 |Możliwości|[Umowa partnerska firmy Microsoft (MPA) — aktualizacja pośredniego odsprzedawcy & nowych często zadawanych pytań](2021-january.md#13)|27 stycznia|
