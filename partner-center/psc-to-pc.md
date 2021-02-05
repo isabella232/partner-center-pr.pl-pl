@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215955"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588754"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Przewodnik po przedsprzedaży w centrum partnerskim (komputer) dla partnerów migrowania z programu Partner Sales Connect (PSC)
 
@@ -127,7 +127,70 @@ Czasami migracja może zakończyć się niepowodzeniem i spowodować błędy. Po
 3. Użytkownik ma już przypisaną rolę odwołania w centrum partnerskim.
     - Istnieje możliwość zweryfikowania istniejącej roli użytkownika. W prawym górnym rogu Centrum partnerskiego wybierz opcję **Ustawienia** (ikona koła zębatego), a następnie pozycję **Ustawienia konta**. Gdy zobaczysz drugie menu nawigacji po lewej stronie, wybierz pozycję **Zarządzanie użytkownikami** i Wyszukaj użytkownika.
 
-Po zakończeniu migracji użytkowników należy skorzystać z poniższych wskazówek, aby określić strategię migracji:
+## <a name="psc-deals-migration"></a>Migracja transakcji PSC
+
+Po zakończeniu migracji użytkowników Użyj Kreatora migracji transakcji na stronie z możliwością współsprzedaży, aby uzyskać wszystkie kwalifikujące się otwarte transakcje z komputera PSC na komputerze. **Link migracji transakcji będzie widoczny tylko dla administratorów odwołań mających cały zakres organizacji w centrum partnerskim.** W prawym górnym rogu strony z możliwością współsprzedaży zostanie utworzone łącze **"Migracja transakcji PSC"** , co spowoduje otwarcie Kreatora migracji transakcji.
+
+Przeczytaj tę sekcję przed rozpoczęciem migracji transakcji.
+
+**Kwalifikuje się do migracji**
+
+Tylko niektóre oferty są uprawnione do migracji z komputera PSC na komputer. Ten Kreator migracji został utworzony w celu ułatwienia partnerom przełączenia ich do Centrum partnerskiego, gdzie nadal aktywnie pracują z klientami w celu zamknięcia transakcji. **Tylko transakcje, które są w stanie otwartym z prawidłowymi szczegółami konta partnera (prawidłowym IDENTYFIKATORem MPN) i nie przechodzą rejestracji transakcji, kwalifikują się do migracji.**
+
+**Nie kwalifikuje się do migracji**
+
+- Oferty oceny rozwiązania nie kwalifikują się do migracji transakcji
+- Oferty firmy OEM dotyczące licencjonowania nie są uprawnione do migracji transakcji
+- Wszystkie transakcje oznaczone jako kupione na komputerze PSC nie kwalifikują się do migracji. Rejestracja transakcji, jeśli kwalifikuje się do transakcji oznaczonych jako wygrane, powinna zostać zakończona na komputerze PSC.
+
+## <a name="pre-requisites-for-deal-migration"></a>Wymagania wstępne dotyczące migracji transakcji
+
+Przed rozpoczęciem migracji transakcji z komputera postępuj zgodnie z poniższymi instrukcjami, aby skonfigurować te transakcje na komputerze PSC dla pomyślnej migracji.
+
+1. Wszyscy członkowie zespołu sprzedaży w firmie, którzy pracują nad otwartymi transakcjami, są informowani o tej migracji.
+2. Członkowie zespołu ds. sprzedaży są przeszkoleni do korzystania z usługi Partner Center w celu zarządzania okazjami.
+3. Wszystkie wymagane informacje są podane poniżej.
+    - Szczegóły firmy klienta, w tym nazwa i adres
+    - Szczegóły kontaktowe klienta, jeśli jest to transakcja do sprzedaży
+    - Co najmniej jedno rozwiązanie
+    - Co najmniej jeden członek zespołu ze wszystkimi szczegółami — imię i nazwisko, nazwisko, adres e-mail i numer telefonu
+    - Wartość transakcji
+    - Szacowana data zamknięcia transakcji
+    - Uwagi dla partnerów
+
+Możesz użyć funkcji pobierania zbiorczego i przekazywania danych na komputerze PSC, aby wyczyścić dane dla wszystkich kwalifikujących się transakcji.
+
+>[!Note]
+> Migracja transakcji powiedzie się, nawet jeśli powyższe wymagania wstępne nie są spełnione. Nie można jednak zmienić stanu transakcji, jeśli którykolwiek z powyższych pól wymaganych w centrum partnerskim nie jest dostępny. Następnie będzie trzeba wprowadzić wszystkie wymagane informacje w centrum partnerskim, aby rozpocząć pracę nad nimi. **Zdecydowanie zaleca się oczyszczenie kwalifikujących się operacji na komputerze PSC przed przeprowadzeniem migracji ich do Centrum partnerskiego.**
+
+Migracja transakcji w centrum partnerskim jest oparta na jednym doświadczeniu. Wystarczy kliknąć przycisk **"Migruj oferty"** , gdy firma będzie gotowa do migracji kwalifikujących się transakcji. **Nie można wybrać transakcji, które mają być migrowane z komputera PSC. Jeśli nie chcesz migrować żadnych transakcji do Centrum partnerskiego, przenieś je do stanu zamkniętego na komputerze PSC przed rozpoczęciem migracji.**
+
+>[!Note]
+> Po zainicjowaniu migracji **może upłynąć nawet 24 godziny, aby można było przeprowadzić migrację**.
+
+Po zakończeniu migracji komunikat transparentu będzie miał stan zmieniony na zakończony przy użyciu linku do raportu migracji. Pobierz raport, aby wyświetlić szczegóły dotyczące transakcji, które zostały zmigrowane z systemu PSC do komputera.
+
+Raport zawiera poniższe szczegóły.
+
+1. **Identyfikator zaangażowania Centrum partnerskiego** — unikatowy identyfikator w centrum partnerskim dla wszystkich transakcji w ramach zaangażowania. Istnieją dwie oferty — jeden dla partnera i jeden dla firmy Microsoft w ramach współsprzedawcy w centrum partnerskim.
+2. **Identyfikator odwołania Centrum partnerskiego** — unikatowy identyfikator w centrum partnerskim dla transakcji należącej do partnera.
+3. **Nazwa transakcji** — identyfikator nadany w ramach umowy PSC.
+4. **Identyfikator transakcji PSC** — unikatowy identyfikator na komputerze PSC dla transakcji.
+5. **Błędy** — aby wskazać, czy wystąpił błąd podczas migrowania konkretnej transakcji.
+
+Wszystkie transakcje, które zostały pomyślnie zmigrowane, nie będą widoczne na komputerze PSC. Możesz korzystać z zmigrowanych transakcji na komputerze. Brak zmian w interakcjach ze sprzedawcami firmy Microsoft w przypadku transakcji związanych z współsprzedażą.
+
+Transakcje migrowane z komputera PSC będą dostępne na kartach przychodzących i wychodzących na podstawie źródła transakcji. Wszystkie oferty utworzone przez partnera będą dostępne na karcie wychodzące, a transakcje zainicjowane przez firmę Microsoft będą dostępne na karcie przychodzące w centrum partnerskim. Istnieją dwa typy transakcji, które zostaną utworzone po migracji.
+
+1. **Oferty towarzyszące** rozdaniom, które są oznaczone jako współsprzedażowe na komputerze PSC, zostaną utworzone jako sprzedaż w centrum partnerskim.
+2. **Oferty dla partnerów** — transakcje, które nie zostały oznaczone jako towarzyszące, zostaną utworzone jako oferty partnerskie w centrum partnerskim. Transakcje dotyczące partnerskich partnerów są widoczne dla sprzedawcy firmy Microsoft i można je uaktualnić do transakcji współsprzedawanych przed osiągnięciem stanu terminalu (wygranych, utraconych). Ponadto w przypadku oferty uprawniającego do korzystania z platformy partnerskiej usługi mogą skorzystać z rejestracji transakcji.
+
+>[!Important]
+> Jeśli występują błędy, z powodu których nie można migrować niektórych transakcji, **można ponownie zainicjować migrację transakcji, klikając przycisk "Migrowanie transakcji"**. Zostanie ona włączona tylko wtedy, gdy istnieją pewne kwalifikujące się do migracji. Ta wartość będzie również przydatna, jeśli jesteś w fazie przejścia, w której nowe oferty są tworzone w komputerze PSC po zainicjowaniu migracji transakcji.
+
+Po pomyślnym przeprowadzeniu migracji wszystkich transakcji **zostanie wyświetlony transparent** z informacją o tym, że przycisk **"Migrowanie transakcji"** jest **wyłączony**.
+
+Po zakończeniu migracji użytkowników i/lub przeprowadzeniu migracji należy skorzystać z poniższych wskazówek, aby określić strategię migracji:
 
 Jeśli Twoja firma ma Menedżera deweloperów rozwiązań (PDM) — po skonfigurowaniu konta Centrum partnerskiego i przeniesieniu użytkowników do swoich ról i uprawnień możesz przenieść swoje działania towarzyszące do Centrum partnerskiego. Przed upływem ostatecznego terminu migracji poinformuj PDM o tym, aby przełączać się do programu, co pozwoli na przepływ wszystkich nowych transakcji do Centrum partnerskiego.
 

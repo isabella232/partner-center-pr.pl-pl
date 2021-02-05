@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/03/2021
-ms.openlocfilehash: 9002e77d364985ffec170dbf3887dde0ab324746
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.date: 02/05/2021
+ms.openlocfilehash: 9dd646b693f718f47c2f5edd4778836694fb0954
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99552423"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588737"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
@@ -22,6 +22,7 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 
 |**Kategoria**|**Powiadomienia 2021 lutego**|**Ogłoszone**|
 |---------|:---------|:---------|
+|Możliwości|[Oceny w warstwie Premium, dodatek do Menedżera zgodności, wchodzi 1 marca 2021](2021-february.md#4)|5 lutego|
 |Możliwości|[Reagowanie na COVID-19: aktualizacja Microsoft Partner Network](2021-february.md#3)|4 lutego|
 |Możliwości|[Nowe aktualizacje modułu odwołań w centrum partnerskim](2021-february.md#2)|4 lutego|
 |Nowoczesne miejsce pracy|[Wycofanie i wycofanie interfejsów API kwalifikacji dla procesu weryfikacji klienta edukacyjnego do 25 lutego 2021 i otrzymywanie kwalifikacji do 4 maja 2021](2021-february.md#1)|4 lutego|
