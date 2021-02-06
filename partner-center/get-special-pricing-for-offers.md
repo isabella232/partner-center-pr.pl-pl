@@ -1,5 +1,5 @@
 ---
-title: Sprzedawaj na wyspecjalizowane branże
+title: Sprzedaż w specjalistycznych branżach
 description: Dowiedz się więcej na temat specjalnych, obniżonych cen dla niektórych grup klientów, w tym klientów edukacyjnych, klientów niedochodowych i użytkowników rządowych.
 ms.topic: how-to
 ms.date: 06/05/2020
@@ -9,18 +9,14 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c25bafc4b152ce0ca205860b3692293aaadf3636
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 24343b4cf7d51398410c33403efa7dc596adf891
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92529637"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624055"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Sprzedaż w specjalistycznych branżach, takich jak edukacja, organizacje non profit i użytkownicy rządowi
-
-**Dotyczy**
-
-- Centrum partnerskie
 
 **Odpowiednie role**
 
@@ -44,7 +40,7 @@ Poniższe kroki dotyczą tylko dostawców pośrednich i bezpośrednich partneró
 
 1. Na [pulpicie nawigacyjnym](https://partner.microsoft.com/dashboard)Centrum partnerskiego wybierz ikonę koła zębatego w prawym górnym rogu okna, aby otworzyć **Ustawienia konta**.
 
-2. W **profilu partnera** w sekcji **Informacje o programie** poszukaj **kwalifikacji odsprzedawców**.
+2. W sekcji **Informacje o programie** poszukaj **kwalifikacji odsprzedawcy** w ramach **profilu prawnego**.
 
 3. Jeśli nie widzisz **kwalifikacji odsprzedawców**, nie masz jeszcze autoryzacji do zakupu żadnych ofert specjalnych.
 
@@ -81,4 +77,4 @@ Reguły zakupu do sprzedaży ofert specjalnych klientom:
 
 - [Sprzedaj Minecraft: subskrypcje wersji edukacyjnej dla klientów edukacyjnych](minecraft-subscriptions.md)
 
-- [Centrum partnerskie dla Microsoft Cloud dla instytucji rządowych USA](partner-center-for-microsoft-us-govt-cloud.md)
+- [Centrum partnerskie Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)

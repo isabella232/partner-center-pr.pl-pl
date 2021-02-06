@@ -1,7 +1,7 @@
 ---
 title: Zarządzanie lokalizacjami na koncie partnerskim
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 02/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Dowiedz się, jak dodać nową lokalizację i jak używać identyfikatora MPN Location w programach zachęty, biznesie CSP, subskrypcjach i innych transakcjach.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21d82fc3ec4470d4941d3ca7436089d3e892439e
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098894"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624276"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Zarządzanie lokalizacjami kont MPN i Dodawanie nowej lokalizacji
 
@@ -47,6 +47,8 @@ Aby dodać nowe konto biznesowe dostawcy usług kryptograficznych, Zacznij od up
  >Pamiętaj, aby zalogować się przy użyciu **nowych** poświadczeń dla **nowego** konta dostawcy usług kryptograficznych. Nie używaj istniejących poświadczeń, ponieważ centrum partnerskie sprawdzi, czy masz już konto.
 
 2. Zaakceptuj umowę partnera firmy Microsoft i aktywuj konto.
+
+1. Jeśli chcesz zarejestrować się jako partner bezpośredniego rozliczania, zapoznaj się z [wymaganiami dotyczącymi bezpośrednich partnerów rozliczeniowych](direct-partner-new-requirements.md)
 
 ## <a name="view-your-mpn-locations"></a>Wyświetlanie lokalizacji MPN
 

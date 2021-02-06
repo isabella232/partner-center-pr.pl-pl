@@ -129,7 +129,7 @@
       displayName: 'indirect, reseller, csp'
     - name: 'Umowy z Klientem Microsoft (według regionu, języka)'
       href: agreements.md
-      displayName: 'regio, region'
+      displayName: 'regio, region, MPA'
     - name: Ograniczony bezpośredni dostęp do rachunku
       href: restricted-direct-bill-capabilities.md
       displayName: 'indirect, reseller'

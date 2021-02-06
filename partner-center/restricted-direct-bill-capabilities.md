@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795777"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99623987"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Ograniczone możliwości płatności bezpośrednich i wymagania wymagane przez partnerów bezpośrednich weksli CSP  
 
@@ -31,9 +31,9 @@ Aby upewnić się, że dostęp z dzierżawcy partnera bezpośredniego płatnika 
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard).
 
-2. Przejdź do pozycji **Ustawienia partnera**  ->  **Profil partnera** .
+2. Przejdź do pozycji **Ustawienia konta**  ->  **profil prawny**.
 
-3. W obszarze **Informacje o programie** poszukaj **Microsoft Cloud status dostawcy rozwiązań** .
+3. W obszarze **Informacje o programie** poszukaj **Microsoft Cloud status dostawcy rozwiązań**.
 
 4. Jeśli stan programu ma **ograniczoną** wartość, oznacza to, że bezpośredni dostęp do funkcji bezpośredniej płatności dzierżawcy partnera rozliczeniowego został ograniczony.
 

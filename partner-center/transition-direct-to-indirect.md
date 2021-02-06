@@ -9,21 +9,18 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3cd791f5f9f781980d73c79f0ec18627585372a
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: ceaf3fd0819937177648814a02df4a2a266ee06f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795869"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624310"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Zmiana z partnera z rozliczaniem bezpośrednim w programie Cloud Solution Provider (CSP) na odsprzedawcę pośredniego w programie CSP
 
-**Dotyczy:**
-- Centrum partnerskie
-
 **Odpowiednie role**
 
-- Wszyscy partnerzy bezpośrednich rachunków CSP
+- Administratorzy globalni
 
 >[!Note]
 >Ten artykuł jest przeznaczony dla partnerów rozliczeniowych bezpośrednich, którzy zdecydują się przejść do odsprzedawcy pośredniego. Jednak nawet jeśli nie zostały jeszcze jawne decyzje dotyczące rejestracji jako pośredniego odsprzedawcy, bezpośredni partnerzy rozliczani, którzy nie spełniają nowych [wymagań](direct-partner-new-requirements.md) programu CSP Direct Bill partner, zostaną powiadomieni przez firmę Microsoft, gdy ich [bezpośrednie rozliczenie będzie ograniczone](restricted-direct-bill-capabilities.md).
@@ -31,7 +28,7 @@ ms.locfileid: "92795869"
 
 Będziesz w stanie zarejestrować się w programie pośredniego odsprzedawcy przy użyciu istniejącej dzierżawy rozliczeniowej.
 
-## <a name="get-started"></a>Wprowadzenie
+## <a name="get-started"></a>Rozpoczęcie pracy
 
 1. Upewnij się, że profil partnera w centrum partnerskim i IDENTYFIKATORze MPN są aktualne.
 
@@ -41,7 +38,7 @@ Będziesz w stanie zarejestrować się w programie pośredniego odsprzedawcy prz
 
 3. Przejrzyj szczegóły dotyczące partnera w formularzu rejestracji.
 
-   :::image type="content" source="images/direct/direct2a.png" alt-text="Omówienie":::
+   :::image type="content" source="images/direct/direct2a.png" alt-text="Zarejestruj się teraz":::
 
 4. Wybierz pozycję Zarejestruj się teraz. Pośrednia firma odsprzedawcy będzie używać tej samej dzierżawy usługi AAD, która jest używana dla Twojej bezpośredniej firmy.
 
@@ -51,13 +48,13 @@ Będziesz w stanie zarejestrować się w programie pośredniego odsprzedawcy prz
 5. Po zatwierdzeniu rejestracji ponownie zaloguj się do Centrum partnerskiego.
 
     > [!NOTE]
-    > Gdy zatwierdzenie jest zwykle natychmiastowe, może upłynąć do pięciu dni roboczych. Po zatwierdzeniu otrzymasz powiadomienie na adres e-mail określony w polu kontakt podstawowy w formularzu rejestracji. Możesz również sprawdzić stan rejestracji w obszarze **Ustawienia**  >  **partnera**  >  **Profil partnera** > informacje o programie.
+    > Gdy zatwierdzenie jest zwykle natychmiastowe, może upłynąć do pięciu dni roboczych. Po zatwierdzeniu otrzymasz powiadomienie na adres e-mail określony w polu kontakt podstawowy w formularzu rejestracji. Możesz również sprawdzić stan rejestracji w obszarze **Ustawienia** ustawienia  >  **konta**  >  **partner profile** > informacje o programie.
 
-6. Na stronie **Przegląd** zobaczysz pośrednią umowę odsprzedawcy. Wybierz pozycję **Akceptuj i Kontynuuj** . Ta akcja włącza możliwość pośredniego odsprzedawcy.
+6. Na stronie **Przegląd** zobaczysz pośrednią umowę odsprzedawcy. Wybierz pozycję **Akceptuj i Kontynuuj**. Ta akcja włącza możliwość pośredniego odsprzedawcy.
 
 Po zaakceptowaniu pośredniej umowy odsprzedawcy należy zauważyć, że Twój Profil partnera identyfikuje **użytkownika jako rachunek** bezpośredni i pośredni odsprzedawcę.
 
-:::image type="content" source="images/direct/direct3.png" alt-text="Omówienie":::
+:::image type="content" source="images/direct/direct3.png" alt-text="Pośrednia umowa odsprzedawcy":::
 
 > [!IMPORTANT]
 > Po zarejestrowaniu jako pośredni odsprzedawcę przy użyciu nowej możliwości nie ma możliwości wycofania do dzierżawy tylko do bezpośredniego rozliczenia. Upewnij się, że w pełni Oceń swoje potrzeby biznesowe przed zarejestrowaniem się jako pośredniego odsprzedawcy.
@@ -66,7 +63,7 @@ Po zaakceptowaniu pośredniej umowy odsprzedawcy należy zauważyć, że Twój P
 
 W tej fazie będziesz nadal zarządzać potrzebami subskrypcji bezpośrednich klientów, w tym procesem rozliczania. Możesz również rozpocząć akceptowanie klientów od dostawcy pośrednim i funkcjonować jako pośredni odsprzedawcy.
 
-:::image type="content" source="images/direct/direct4.png" alt-text="Omówienie":::
+:::image type="content" source="images/direct/direct4.png" alt-text="Jesteś zarówno rachunkiem bezpośrednim, jak i pośrednim odsprzedawcą":::
 
 ## <a name="find-an-indirect-provider"></a>Wyszukiwanie dostawcy pośredniego
 
@@ -172,21 +169,21 @@ Za pomocą funkcji rozszerzenia relacji odsprzedawcy można nawiązać relację 
 
 Aby użyć tej funkcji w istniejącej dzierżawie klienta:
 
-1. Zaloguj się do Centrum partnerskiego jako **agenta administratora** .
+1. Zaloguj się do Centrum partnerskiego jako **agenta administratora**.
 
 2. Na **stronie klienci** wybierz istniejącego klienta i kliknij ikonę **szybkie linki** , aby rozwinąć widok podsumowania klienta.
 
-3. W obszarze **dostawcy pośrednim** kliknij pozycję **Przenieś klienta w dostawcy pośrednim** .
+3. W obszarze **dostawcy pośrednim** kliknij pozycję **Przenieś klienta w dostawcy pośrednim**.
 
-    :::image type="content" source="images/direct/direct5-1.png" alt-text="Omówienie":::
+    :::image type="content" source="images/direct/direct5-1.png" alt-text="Przeniesienie klienta do dostawcy pośredniego":::
 
 4. W podręcznym oknie dialogowym wybierz **dostawcę pośredniego** , dla którego chcesz mieć relację odsprzedawcy.
 
-5. Kliknij przycisk **Zapisz i Kontynuuj** .
+5. Kliknij przycisk **Zapisz i Kontynuuj**.
 
-6. Sprawdź, czy wybrany dostawca pośredni jest wyświetlany w obszarze **dostawcy pośrednich** .
+6. Sprawdź, czy wybrany dostawca pośredni jest wyświetlany w obszarze **dostawcy pośrednich**.
 
-    :::image type="content" source="images/direct/direct5-2.png" alt-text="Omówienie":::
+    :::image type="content" source="images/direct/direct5-2.png" alt-text="Dostawca pośredni na liście":::
 
 ### <a name="send-an-indirect-reseller-invitation-to-the-customer"></a>Wyślij do klienta pośrednią wiadomość odsprzedawcy
 
@@ -196,7 +193,7 @@ Dostawca pośredni nie może przesłać zamówień dla istniejących klientów b
 
 2. Wybierz pozycję **Zaproś nowych klientów** , aby zapraszać klienta do nawiązywania relacji odsprzedawcy zarówno z dostawcą, jak i pośrednim. Dostawca musi mieć relację odsprzedawcy z klientem, dzięki czemu mogą przesyłać zamówienia w imieniu klienta, gdy klient chce kupić nowe subskrypcje lub dodać nowe licencje do istniejących subskrypcji.
 
-    :::image type="content" source="images/direct/direct6.png" alt-text="Omówienie":::
+    :::image type="content" source="images/direct/direct6.png" alt-text="Zaproś nowych klientów":::
 
 3. Na następnej stronie przejrzyj wersję roboczą wiadomości e-mail. Możesz otworzyć wersję roboczą wiadomości e-mail lub skopiować wiadomość do schowka i wkleić ją do wiadomości e-mail.
 
@@ -251,41 +248,41 @@ Ta funkcja jest procesem 4-etapowym, w którym:
 > [!NOTE]
 > Możesz również użyć [interfejsu API/SDK Centrum partnerskiego](/partner-center/develop/manage-customers) , aby przenieść istniejące subskrypcje do dostawcy pośredniego.
 >
-> - [Uzyskaj uprawnienia do przeniesienia subskrypcji klienta](/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
+> - [Pobieranie uprawnień klienta do przeniesienia subskrypcji](/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
 > - [Tworzenie transferu klienta](/partner-center/develop/create-a-transfer)
-> - [Wycofywanie przeniesienia klienta](/partner-center/develop/withdraw-a-transfer)
-> - [Akceptowanie przeniesienia klienta](/partner-center/develop/accept-a-transfer)
+> - [Wycofywanie transferu klienta](/partner-center/develop/withdraw-a-transfer)
+> - [Akceptowanie transferu klienta](/partner-center/develop/accept-a-transfer)
 > - [Odrzuć transfer klienta](/partner-center/develop/reject-a-transfer)
-> - [Uzyskiwanie transferów klienta](/partner-center/develop/get-all-of-a-customer-s-transfers)
+> - [Pobieranie transferów klienta](/partner-center/develop/get-all-of-a-customer-s-transfers)
 > - [Pobierz szczegóły transferu według identyfikatora](/partner-center/develop/get-transfer-by-id)
 
 ### <a name="transitioning-partner---create-transfer-request"></a>Przejście partnera — tworzenie żądania przeniesienia
 
 Aby utworzyć żądanie transferu jako partnera przechodzenia:
 
-1. Zaloguj się do Centrum partnerskiego jako **agenta administratora** .
+1. Zaloguj się do Centrum partnerskiego jako **agenta administratora**.
 
 2. Na stronie **klienci** wybierz odpowiedniego klienta i kliknij ikonę Szybkie linki, aby rozwinąć widok podsumowania klienta.
 
 3. W obszarze **dostawcy pośrednim** upewnij się, że jest wyświetlany odpowiedni Dostawca pośredni.
 
-4. Kliknij pozycję **Wyświetl subskrypcje** .
+4. Kliknij pozycję **Wyświetl subskrypcje**.
 
-5. Na stronie **subskrypcje** Wyszukaj pozycję **transfer subskrypcji** .
+5. Na stronie **subskrypcje** Wyszukaj pozycję **transfer subskrypcji**.
 
-6. W obszarze **transfer subskrypcji** kliknij pozycję **Żądaj przeniesienia subskrypcji** .
+6. W obszarze **transfer subskrypcji** kliknij pozycję **Żądaj przeniesienia subskrypcji**.
 
-    :::image type="content" source="images/direct/direct8.png" alt-text="Omówienie":::
+    :::image type="content" source="images/direct/direct8.png" alt-text="Żądaj przeniesienia subskrypcji":::
 
 7. W oknie dialogowym żądanie transferu wybierz co najmniej jedną subskrypcję do przeniesienia.
 
-    :::image type="content" source="images/direct/direct9.png" alt-text="Omówienie":::
+    :::image type="content" source="images/direct/direct9.png" alt-text="Utwórz żądanie transferu":::
 
-8. Kliknij pozycję **Utwórz** .
+8. Kliknij pozycję **Utwórz**.
 
 9. W obszarze **transfer subskrypcji** zostanie wyświetlone aktywne żądanie przeniesienia subskrypcji.
 
-    :::image type="content" source="images/direct/direct10.png" alt-text="Omówienie":::
+    :::image type="content" source="images/direct/direct10.png" alt-text="Lista żądań transferu":::
 
 10. Poinformuj dostawcę pośredniego o utworzeniu żądania przeniesienia subskrypcji.
 
@@ -293,29 +290,29 @@ Aby utworzyć żądanie transferu jako partnera przechodzenia:
 
 Aby przejrzeć i zaakceptować żądanie transferu jako dostawcę pośredniego:
 
-1. Zaloguj się do Centrum partnerskiego jako agenta **administracyjnego** lub **agenta sprzedaży** .
+1. Zaloguj się do Centrum partnerskiego jako agenta **administracyjnego** lub **agenta sprzedaży**.
 
 2. Na stronie **klienci** wybierz odpowiedniego klienta i kliknij ikonę Szybkie linki, aby rozwinąć widok podsumowania klienta.
 
 3. W obszarze **odsprzedawców pośrednich** upewnij się, że na liście znajduje się partner przejścia.
 
-4. Kliknij pozycję **Wyświetl subskrypcje** .
+4. Kliknij pozycję **Wyświetl subskrypcje**.
 
-5. Na stronie **subskrypcje** Wyszukaj pozycję **transfer subskrypcji** .
+5. Na stronie **subskrypcje** Wyszukaj pozycję **transfer subskrypcji**.
 
-    :::image type="content" source="images/direct/direct11.png" alt-text="Omówienie":::
+    :::image type="content" source="images/direct/direct11.png" alt-text="Wyświetl żądanie transferu":::
 
 6. W obszarze **transfer subskrypcji** kliknij żądanie transferu, które chcesz przejrzeć.
 
-7. W razie potrzeby kliknij pozycję **Akceptuj** (lub **Odrzuć** ).
+7. W razie potrzeby kliknij pozycję **Akceptuj** (lub **Odrzuć**).
 
-    :::image type="content" source="images/direct/direct12.png" alt-text="Omówienie":::
+    :::image type="content" source="images/direct/direct12.png" alt-text="Zaakceptuj żądanie przeniesienia":::
 
 8. Poczekaj na zakończenie żądania transferu.
 
 ### <a name="indirect-provider---verify-transfer-request-is-complete"></a>Dostawca pośredni-Sprawdź, czy żądanie transferu zostało zakończone
 
-1. Po pomyślnym ukończeniu żądania transferu upewnij się, że subskrypcje są widoczne w obszarze **subskrypcje** .
+1. Po pomyślnym ukończeniu żądania transferu upewnij się, że subskrypcje są widoczne w obszarze **subskrypcje**.
 
 2. Poinformuj partnera przejścia.
 
@@ -323,25 +320,25 @@ Aby przejrzeć i zaakceptować żądanie transferu jako dostawcę pośredniego:
 
 Partner przechodzenia powinien wykonać następujące czynności:
 
-1. Zaloguj się do Centrum partnerskiego jako **agenta administracyjnego** lub **agenta sprzedaży** .
+1. Zaloguj się do Centrum partnerskiego jako **agenta administracyjnego** lub **agenta sprzedaży**.
 
 2. Na stronie **klienci** wybierz odpowiedniego klienta i kliknij ikonę **szybkie linki** , aby rozwinąć widok podsumowania klienta.
 
-3. Kliknij pozycję **Wyświetl subskrypcje** .
+3. Kliknij pozycję **Wyświetl subskrypcje**.
 
-4. Na stronie **subskrypcje** Wyszukaj pozycję **transfer subskrypcji** .
+4. Na stronie **subskrypcje** Wyszukaj pozycję **transfer subskrypcji**.
 
-5. Sprawdź, czy żądanie transferu zostało oznaczone jako **ukończone** .
+5. Sprawdź, czy żądanie transferu zostało oznaczone jako **ukończone**.
 
 6. Upewnij się, że subskrypcje nie są już wyświetlane jako aktywne na stronie **subskrypcji** :
 
    1. Jeśli jest to subskrypcja platformy Azure (MS-AZR-0145P), nie będzie już wyświetlana.
 
-   2. Jeśli jest to subskrypcja oparta na licencji (pakiet Office 365, Dynamics, Intune), będzie ona wyświetlana z stanem **zawieszone** .
+   2. Jeśli jest to subskrypcja oparta na licencji (pakiet Office 365, Dynamics, Intune), będzie ona wyświetlana z stanem **zawieszone**.
 
-   :::image type="content" source="images/direct/direct13.png" alt-text="Omówienie":::
+   :::image type="content" source="images/direct/direct13.png" alt-text="Wstrzymano subskrypcję":::
 
-### <a name="considerations"></a>Kwestie do rozważenia
+### <a name="considerations"></a>Zagadnienia do rozważenia
 
 - **Identyfikator subskrypcji będzie inny po przeniesieniu.** Jeśli jest to subskrypcja platformy Azure (MS-AZR-0145P), będzie ona mieć identyfikator subskrypcji platformy Azure, który jest zachowywany przez poprzedniego właściciela i zostanie wyświetlony w portalu zarządzania Azure.
 

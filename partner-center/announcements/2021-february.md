@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/03/2021
-ms.openlocfilehash: 30dc62c9c4b6ca2997f60da0caa2706f66d02961
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.date: 02/04/2021
+ms.openlocfilehash: cb9bc726acb5d76f4774c9a515443d58f7947fbd
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588720"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624174"
 ---
 # <a name="february-2021-announcements"></a>Powiadomienia 2021 lutego
 
@@ -70,22 +70,7 @@ Wszyscy partnerzy
 
 ### <a name="details"></a>Szczegóły
 
-Firma Microsoft zrzeka się kompetencji i zaawansowanych wymagań specjalizacji dla wszystkich partnerów, którzy mają rocznicę (AD) od 1 stycznia 2021 do 30 czerwca 2021. Wyjątkiem jest Business Applications w chmurze (OBSŁUGIWANIE), dla którego partnerzy, którzy mają usługi AD w dniu lub po 1 kwietnia 2021, do 30 czerwca 2021, zostaną nanagradzani do 15 punktów w kierunku wymaganej metryki wzrostu w konstrukcji PCI.  
-
-**Partnerzy z kompetencjami (z wyjątkiem kompetencji Business Applications w chmurze), które mają rocznicę od 1 stycznia 2021 do 30 czerwca 2021,** kwalifikują się do przedłużenia kompetencji jednoletnich. Rozszerzamy Twoją istniejącą kompetencję lub kompetencje w ciągu następnej rocznicy w dniu 2022.Informacje specyficzne dla organizacji będą dostępne w centrum partnerskim, począwszy od lutego i wyrównane do przedziału czasu odnowienia.Musisz podjąć odpowiednie działania w centrum partnerskim, aby uregulować opłatę za kompetencje i zakończyć odnowienie.Jeśli zbliżasz się do końca 30-dniowego okresu odnawiania kompetencji i nie można go odnowić w centrum partnerskim, skontaktuj się z [pomocą techniczną partnera](https://partner.microsoft.com/support) w celu uzyskania pomocy.  
-
-**W przypadku partnerów z kompetencją Business Applications w chmurze:** Zgodnie z powyższymi powiadomieniami ocenianie wskaźników udziału partnerskiego (PCI) będzie obowiązywać od 1 kwietnia 2021. Jeśli rocznica Business Applications w chmurze wynosi od 1 stycznia 2021 do 31 marca 2021, konieczne będzie spełnienie wymagań opublikowanych w centrum partnerskim i uiszczenie opłaty za kompetencje w celu ukończenia odnawiania. Jeśli rocznica Business Applications w chmurze wynosi od 1 kwietnia 2021 do 30 czerwca 2021, otrzymasz 15 punktów dla metryki wzrostu dla doradcy funkcjonalnej. Musisz spełnić pozostałe wymagania, które zostały opublikowane w centrum partnerskim i uregulować opłaty za kompetencje, aby zakończyć odnowienie.  
-
-**W przypadku partnerów odnawiających zaawansowaną specjalizację w 2021:** Partnerzy z zaawansowanymi okresami specjalizacji w okresie od 1 stycznia 2021 do 30 czerwca 2021 kwalifikują się do jednoletniego rozszerzenia do 2022, pod warunkiem, że zachowasz wymaganą kompetencję Gold, która jest stosowana do zaawansowanej specjalizacji, która może obejmować uiszczenie opłaty za możliwość odnowienia. Informacje specyficzne dla organizacji będą dostępne w centrum partnerskim, począwszy od lutego i wyrównane do przedziału czasu odnowienia.  
-
-### <a name="next-steps"></a>Następne kroki
-
-- Aby uzyskać więcej informacji, zobacz [reagowanie na COVID-19: Microsoft Partner Network Update-Microsoft Partner Network](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
-
-### <a name="questions"></a>Masz pytania?
-
-W przypadku pytań związanych z tym powiadomieniem skontaktuj się z [pomocą techniczną Centrum partnerskiego](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
-
+Firma Microsoft oferuje rozszerzenie kompetencji (z wyjątkiem kompetencji Business Applications w chmurze) i zaawansowanego rozszerzenia specjalizacji dla partnerów z datami rocznic (AD) od 1 stycznia 2021 do 30 czerwca 2021. Aby uzyskać więcej informacji, zapoznaj się z [wpisem w blogu](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) dotyczącym partnera.
 ________________
 ## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> Nowe aktualizacje modułu odwołań w centrum partnerskim
 
@@ -124,12 +109,12 @@ W tym miejscu nowości nowe w module referencje w centrum partnerskim:
 
 ### <a name="questions"></a>Masz pytania?
 
-Jeśli potrzebujesz pomocy przy użyciu dowolnych z nowych funkcji, zapoznaj się z [sekcją odwołania](https://docs.microsoft.com/partner-center/referrals) w naszej bazie wiedzy lub z naszymi materiałami, które są dostępne w naszej [galerii środowiska współsprzedażowego](https://aka.ms/CoSellExperience) (wymagane jest zalogowanie się).
+Jeśli potrzebujesz pomocy przy korzystaniu z nowych funkcji, zapoznaj się z [sekcją odwołania](https://docs.microsoft.com/partner-center/referrals) w naszej bazie wiedzy lub z naszymi materiałami, które są dostępne w naszej [galerii środowiska ze współsprzedażą](https://aka.ms/CoSellExperience) (wymagane jest zalogowanie się).
 
 Aby uzyskać dodatkową pomoc techniczną, możesz [otworzyć bilet z zespołem pomocy technicznej partnerskiej](https://partner.microsoft.com/support/?stage=1).
 
 ________________
-## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25th-2021-and-get-qualification-by-may-4th-2021"></a><a name="1"></a> Wycofanie i wycofanie interfejsów API kwalifikacji dla procesu weryfikacji klienta edukacyjnego do 25 lutego 2021 i uzyskanie kwalifikacji do 4 maja 2021.
+## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> Wycofanie i wycofanie interfejsów API kwalifikacji dla procesu weryfikacji klienta edukacyjnego do 25 lutego 2021 i uzyskanie kwalifikacji do 4 maja 2021.
 
 ### <a name="categories"></a>Kategorie
 
@@ -138,11 +123,11 @@ ________________
 
 ### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
 
-Partnerzy sprzedający oferty akademickie, niedochodowe i współpracy w zatoce za pośrednictwem programu Cloud Solution Provider przy użyciu interfejsu API Centrum partnerskiego
+Partnerzy sprzedający oferty akademickie, niedochodowe i współpracy w zatoce za pośrednictwem programu dostawcy rozwiązań w chmurze przy użyciu interfejsu API Centrum partnerskiego
 
 ### <a name="details"></a>Szczegóły
 
-Jest to krok do ulepszeń Centrum partnerskiego [wydanej w grudniu](https://docs.microsoft.com/partner-center/announcements/2020-december#1). W ramach tej wersji wdrożono nowe interfejsy API pobierania i wydawania kwalifikacji, a w związku **z tym istniejące interfejsy API Centrum partnerskiego interfejsów przestawcy są wycofywane o 25 lutego 2021 i otrzymują kwalifikacje, które mogą być czwarte, 2021**. W takim przypadku konieczne będzie przechodzenie do korzystania z nowych interfejsów API Centrum partnerskiego, aby można było zakupić oferty edukacyjne i nowy interfejs API uzyskiwania kwalifikacji do zakupu wstępnie wykwalifikowanych ofert niedochodowych i współpracy w zatoce.
+Ten anons dotyczy ulepszeń Centrum partnerskiego [opublikowanych w grudniu](https://docs.microsoft.com/partner-center/announcements/2020-december#1). W ramach tej wersji wdrożono nowe interfejsy API pobierania i wydawania kwalifikacji, a w związku **z tym istniejące interfejsy API Centrum partnerskiego interfejsów przestawcy są wycofywane do 25 lutego 2021 i otrzymują kwalifikacje w wysokości 4 maja 2021**. W takim przypadku konieczne będzie przechodzenie do korzystania z nowych interfejsów API Centrum partnerskiego, aby można było zakupić oferty edukacyjne i nowy interfejs API uzyskiwania kwalifikacji do zakupu wstępnie wykwalifikowanych ofert niedochodowych i współpracy w zatoce.
 
 ### <a name="next-steps"></a>Następne kroki
 

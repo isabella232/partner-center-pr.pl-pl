@@ -8,18 +8,14 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: b16fb54ede696ac623f68cff933daf8aaf1666e7
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133069"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624225"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Często zadawane pytania dotyczące zachęt
-
-**Dotyczy:**
-
-- Centrum partnerskie
 
 **Odpowiednie role:**
 
@@ -35,7 +31,7 @@ Nie. Zarówno Administrator globalny, jak i administrator konta mogą przypisywa
 
 Jeśli próbujesz dołączyć do MPN, a Twoja firma jest już członkiem, MPN rozpozna domenę i skojarzy Cię z istniejącym kontem. Istniejące konto może być tą samą firmą lub pokrewną firmą przy użyciu tej samej domeny poczty e-mail lub tego samego katalogu aktywności platformy Azure (Azure AD) do zarządzania wieloma domenami.
 
-Kontakt podstawowy można zidentyfikować na stronie profilu partnera. Jeśli lokalizacja jest lokalizacją MPNHQ, wystarczy skonfigurować wymagane uprawnienia do zarządzania zachętami. Aby uzyskać więcej informacji na temat ról i uprawnień, zobacz [Omówienie uprawnień](permissions-overview.md).
+Kontakt podstawowy można zidentyfikować ze strony profilu prawnego. Jeśli lokalizacja jest lokalizacją MPNHQ, wystarczy skonfigurować wymagane uprawnienia do zarządzania zachętami. Aby uzyskać więcej informacji na temat ról i uprawnień, zobacz [Omówienie uprawnień](permissions-overview.md).
 
 Jeśli nie znajdujesz się w tym samym kraju co lokalizacja MPNHQ, zapoznaj się z [instrukcjami dotyczącymi kont wielonarodowych](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) , aby uzyskać więcej informacji dotyczących tego scenariusza.
 
@@ -51,9 +47,9 @@ Aby uzyskać więcej informacji, zobacz [Omówienie uprawnień](permissions-over
 
 Aby znaleźć administratora globalnego lub administratora konta, który może wprowadzać zmiany roli lub przypisać role do nowego użytkownika:
 
-1. Na ikonie ustawień konta w prawym górnym rogu Centrum partnerskiego wybierz pozycję **Zarządzanie użytkownikami** .
-2. Odfiltruj administratora **globalnego** lub **administratora konta** .
-3. Możesz również przejść do pozycji **mój profil** , wybrać **role i uprawnienia** i wyświetlić listę różnych administratorów, którzy mogą pomóc w podwyższeniu poziomu uprawnień.
+1. Na ikonie ustawień konta w prawym górnym rogu Centrum partnerskiego wybierz pozycję **Zarządzanie użytkownikami**.
+2. Odfiltruj administratora **globalnego** lub **administratora konta**.
+3. Możesz również przejść do pozycji **mój profil**, wybrać **role i uprawnienia** i wyświetlić listę różnych administratorów, którzy mogą pomóc w podwyższeniu poziomu uprawnień.
  
 Aby uzyskać więcej informacji, zobacz [Znajdowanie roli](find-your-role.md).  
 
@@ -63,9 +59,9 @@ Prawdopodobnie nie widzisz bodźców, że nie masz odpowiednich uprawnień. Wyko
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/) przy użyciu poświadczeń dzierżawy usługi Azure AD (poświadczenia służbowe). Jeśli nie możesz się zalogować, skontaktuj się z administratorem globalnym Twojej firmy.
 
-2. Jeśli podczas logowania zostanie wyświetlony monit o wybranie konta **służbowego** lub **konta osobistego** , wybierz pozycję **konto służbowe** .
+2. Jeśli podczas logowania zostanie wyświetlony monit o wybranie konta **służbowego** lub **konta osobistego**, wybierz pozycję **konto służbowe**.
 
-3. W menu Centrum partnerskiego wybierz pozycję **zachęty** , a następnie wybierz pozycję **Przegląd** . Jeśli nie masz uprawnień administratora ani zachęty dla użytkowników, zostaną wyświetlone informacje kontaktowe dla wszystkich administratorów globalnych i kont w firmie. Skontaktuj się z jednym z tych administratorów, aby uzyskać rolę zachęty dla wymaganych identyfikatorów MPN i programów zachęty.
+3. W menu Centrum partnerskiego wybierz pozycję **zachęty**, a następnie wybierz pozycję **Przegląd**. Jeśli nie masz uprawnień administratora ani zachęty dla użytkowników, zostaną wyświetlone informacje kontaktowe dla wszystkich administratorów globalnych i kont w firmie. Skontaktuj się z jednym z tych administratorów, aby uzyskać rolę zachęty dla wymaganych identyfikatorów MPN i programów zachęty.
 
 4. Jeśli masz już rolę administratora z zachętami, zobaczysz rejestracje dla swojej firmy dla identyfikatorów MPN i programów zachęt, do których masz dostęp.
 

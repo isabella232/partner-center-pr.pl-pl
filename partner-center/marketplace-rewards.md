@@ -9,12 +9,12 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5822fbc1cb874f0199c4dc8e1e2c541a3ed3f9bd
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 7909b795be03bcd1b110da3f2c3b77019753730d
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92529297"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624259"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Zarządzanie Nagrodymi w witrynie Marketplace w centrum partnerskim & aktywowanie korzyści marketingowych, handlowych i technicznych
 
@@ -60,7 +60,7 @@ Informacje o korzyściach z portalu Marketplace są dostępne w ramach dzierżaw
 
 1. Jako Administrator globalny lub administratora konta zaloguj się do PGA w centrum partnerskim.
 
-2. Wybierz pozycję **Ustawienia** (w prawym górnym rogu), **Ustawienia partnera** i **dzierżawców**. 
+2. Wybierz pozycję **Ustawienia** (w prawym górnym rogu), **Ustawienia konta** i **dzierżawców**. 
 
 3. Wybierz pozycję **Skojarz inną dzierżawę usługi Azure AD** i wybierz dzierżawę usługi Azure AD, którą chcesz SKOJARZYĆ z PGA.
 

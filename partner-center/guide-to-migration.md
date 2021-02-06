@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b6646ff943ff219c41c975d60e66a46d1e0f595
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: dd566a6d9ef60747eb7fd515b4d63d87d991da2a
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530537"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624191"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Przewodnik migracji z witryny PMC do Centrum partnerskiego
 
@@ -29,7 +29,7 @@ Centrum członkostwa partnerów (PMC) jest likwidowane. Twoja firma została zap
 >[!NOTE]
 >Nawet jeśli Twoja firma ma więcej niż jedno konto lub lokalizacja, przechodzenie do Centrum partnerskiego rozpoczyna się od przeniesienia jednego (pierwszego) konta do Centrum partnerskiego.
 
-## <a name="get-started"></a>Wprowadzenie
+## <a name="get-started"></a>Rozpoczęcie pracy
 
 Przeniesienie rozpoczyna się w kryterium PMC. Administrator globalny otrzyma zaproszenie do rozpoczęcia przenoszenia.
 
@@ -53,9 +53,9 @@ Jeśli firma nie dysponuje służbową pocztą e-mail i dzierżawą usługi AAD,
 >[!NOTE]
 >Jeśli jesteś partnerem w Chinach i zarejestrowany zarówno w programie Microsoft Partner Network, jak i w programie Cloud Solution Provider (CSP), będziesz mieć osobną dzierżawę dla każdego konta. Twoje konto z programem dostawcy rozwiązań w chmurze jest zarządzane w chmurze krajowej, a konto Microsoft Partner Network jest zarządzane w chmurze globalnej. Nie można połączyć tych dwóch kont.
 
-:::image type="content" source="images/migration/newtellusabout.png" alt-text="Wprowadzenie":::
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="Powiedz nam o swojej firmie":::
 
-Po zweryfikowaniu lub zaktualizowaniu informacji wybierz pozycję **Zaakceptuj i Kontynuuj** .
+Po zweryfikowaniu lub zaktualizowaniu informacji wybierz pozycję **Zaakceptuj i Kontynuuj**.
 Warunki i postanowienia na tej stronie są **dokładnie takie same** , jak umowa, w której firma jest już podpisana.  
 Ten krok inicjuje tworzenie dzierżawy usługi Azure AD i udostępnia konto służbowe.
 
@@ -71,7 +71,7 @@ Wybranie opcji **Akceptuj i Kontynuuj** wykonuje także następujące czynności
 
 Po utworzeniu nowej dzierżawy usługi Azure AD możesz zapraszać pracowników do logowania się do Centrum partnerskiego.
 
-:::image type="content" source="images/migration/invite.png" alt-text="Wprowadzenie":::
+:::image type="content" source="images/migration/invite.png" alt-text="Zaproś pracowników":::
 
 Jeśli zalogowano się za pomocą istniejącej dzierżawy usługi AAD, pracownicy zostaną przeniesieni do Ciebie. W takim przypadku należy przypisać role pracowników, które określają, co można zrobić w centrum partnerskim. 
 
@@ -84,23 +84,23 @@ Jeśli dzierżawca usługi AAD jest nowy, nikt nie ma przypisanej roli administr
 
 Chociaż możesz skorzystać z ofert, które zostały już zakupione, nie będziesz w stanie zakupić żadnych nowych ofert, dopóki nie ukończysz kroku przypisywania administratora globalnego.
 
-:::image type="content" source="images/migration/takecontrol.png" alt-text="Wprowadzenie":::
+:::image type="content" source="images/migration/takecontrol.png" alt-text="Przejmij kontrolę":::
 
 Gdy wybierzesz pozycję Rozpocznij, zobaczysz następujący ekran:
 
-:::image type="content" source="images/migration/verifytxt.png" alt-text="Wprowadzenie":::
+:::image type="content" source="images/migration/verifytxt.png" alt-text="Weryfikowanie własności domeny":::
 
 Rejestrator domeny zostanie już wypełniony. Tylko właściciel domeny może zaktualizować plik DNS, aby skopiować i dodać plik tekstowy do rekordu DNS, możemy sprawdzić, czy jesteś właścicielem. Aktualizacja może potrwać kilka minut. Musisz wylogować się z Centrum partnerskiego, a następnie zalogować się ponownie. Twoja rola zostanie zmieniona na administratora globalnego.
 
 ## <a name="get-acquainted-with-your-dashboard-and-partner-center"></a>Zapoznaj się z pulpitem nawigacyjnym i centrum partnerskim
 
-Zapoznaj się z pulpitem nawigacyjnym. W tym miejscu można zarządzać członkostwem, dodawać do nich profil biznesowy, rejestrować się w programie dostawcy rozwiązań w chmurze oraz powiadomienia i oferty odpowiednie dla Twojej firmy w dowolnym momencie, wybierając pozycję **pulpit nawigacyjny** . Możesz również zarządzać bodźcami, kupować je w portalu Marketplace, zarejestrować się w celu uzyskania usług na rynku i innych.  
+Zapoznaj się z pulpitem nawigacyjnym. W tym miejscu można zarządzać członkostwem, dodawać do nich profil biznesowy, rejestrować się w programie dostawcy rozwiązań w chmurze oraz powiadomienia i oferty odpowiednie dla Twojej firmy w dowolnym momencie, wybierając pozycję **pulpit nawigacyjny**. Możesz również zarządzać bodźcami, kupować je w portalu Marketplace, zarejestrować się w celu uzyskania usług na rynku i innych.  
 
-:::image type="content" source="images/migration/fre.png" alt-text="Wprowadzenie":::
+:::image type="content" source="images/migration/fre.png" alt-text="Zapoznaj się z przewodnikiem":::
 
 ## <a name="sign-the-microsoft-partner-agreement"></a>Podpisz umowę partnera firmy Microsoft
 
-Jeśli jesteś pośrednim odsprzedawcą, po skonfigurowaniu konta Centrum partnerskiego nadal musisz zarejestrować się w programie Cloud Solution Provider. Aby sprawdzić stan członkostwa, przejdź do [profilu partnera](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) i Potwierdź typ konta. Następnie zarejestruj się w programie CSP jako [pośredni odsprzedawcy](enrolling-in-the-csp-program.md).
+Jeśli jesteś pośrednim odsprzedawcą, po skonfigurowaniu konta Centrum partnerskiego nadal musisz zarejestrować się w programie Cloud Solution Provider. Aby sprawdzić stan członkostwa, przejdź do [profilu prawnego](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) i Potwierdź typ konta. Następnie zarejestruj się w programie CSP jako [pośredni odsprzedawcy](enrolling-in-the-csp-program.md).
 
  Po zarejestrowaniu jako pośredni odsprzedawcy Zaakceptuj [żądanie relacji CSP z dostawcą pośrednim](indirect-reseller-tasks-in-partner-center.md).
 

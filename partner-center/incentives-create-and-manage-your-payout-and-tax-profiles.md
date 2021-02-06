@@ -8,18 +8,15 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492470"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624242"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Twórz wypłaty i profile podatków w centrum partnerskim i zarządzaj nimi
 
-**Dotyczy:**
-
-- Centrum partnerskie
 
 **Odpowiednie role:**
 
@@ -64,7 +61,7 @@ Poniższe sekcje przeprowadzą Cię przez proces tworzenia i zarządzania profil
    - Jeśli możesz zalogować się tylko za pomocą @onmicrosoft.com domeny, skontaktuj się z administratorem konta w celu dodania dodatkowych domen do konta usługi Azure AD.
    - Jeśli zostanie wyświetlony monit o wybranie **konta służbowego** lub **konta osobistego**, wybierz pozycję **konto służbowe**.
 
-2. Wybierz ikonę koła zębatego, aby otworzyć menu **Ustawienia** , a następnie wybierz pozycję **Ustawienia partnera**.
+2. Wybierz ikonę koła zębatego, aby otworzyć menu **Ustawienia** , a następnie wybierz pozycję **Ustawienia konta**.
 
 3. W menu **Ustawienia konta** wybierz pozycję **wypłata i podatek**. 
 
@@ -72,7 +69,7 @@ Poniższe sekcje przeprowadzą Cię przez proces tworzenia i zarządzania profil
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/), a następnie wybierz ikonę koła zębatego, aby otworzyć menu **Ustawienia** . 
 
-2. Wybierz pozycję **Ustawienia partnera**, rozwiń **sekcję wypłata i podatek**, a następnie wybierz pozycję **wypłata i przypisanie profilu podatku**. 
+2. Wybierz pozycję **Ustawienia konta**, rozwiń **sekcję wypłata i podatek**, a następnie wybierz pozycję **wypłata i przypisywanie profilów podatkowych**. 
    
    Zostanie wyświetlona lista programów. Wybierz strzałkę obok programu, aby wyświetlić szczegóły profilu. 
 
@@ -105,11 +102,11 @@ Profile bankowe są tworzone na poziomie organizacji. Umożliwia to przypisanie 
     **Lokalizacja konta bankowego:** Kraj, w którym znajduje się bank firmy.
     **Forma płatności:** Preferowana metoda płatności w centrum partnerskim to elektroniczny transfer bankowy.
 
-2. Wybierz pozycję **Dalej**.
+2. Wybierz opcję **Dalej**.
 
 3. Na stronie **konto bankowe** wprowadź informacje. Pola wyświetlane na tej stronie różnią się w zależności od kraju. 
 
-4. Wybierz pozycję **Dalej**.
+4. Wybierz opcję **Dalej**.
 
 5. Na stronie **beneficjent** wprowadź odpowiednie informacje. Beneficjentem jest osoba w firmie, którą będzie mogła skontaktować się z kontem, jeśli trzeba omówić Twoje konto.
 
@@ -136,7 +133,7 @@ W przypadku firm partnerskich u Ameryki Północnej, jeśli potrzebne są inform
    - Wybierz opcję po lewej stronie, jeśli Twoja firma jest włączona tylko do Stany Zjednoczone lub jeśli ten profil jest przeznaczony dla osoby.
    - Wybierz opcję po prawej stronie, jeśli Twoja firma jest wbudowana poza Stany Zjednoczone, a następnie wybierz z listy swój kraj/region.
 
-3. Wybierz pozycję **Dalej**. 
+3. Wybierz opcję **Dalej**. 
 
 4. Na stronie **stan podatkowy** wprowadź wymagane informacje, a następnie wybierz przycisk **dalej**. Pola na tej stronie różnią się w zależności od kraju. Twoje szczegóły. 
 

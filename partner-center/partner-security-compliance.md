@@ -9,27 +9,22 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 673728ad03d6617fa60ba4119f0ebbbaaa4ce328
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132967"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624157"
 ---
 # <a name="security-requirements-status-report"></a>Raport stanu wymagań dotyczących zabezpieczeń
 
-**Dotyczy**
-
-- Wszyscy partnerzy w programie dostawcy rozwiązań w chmurze
-- Wszyscy dostawcy panelu sterowania
-- Wszyscy klasyfikatory
-
-**Odpowiednim użytkownikom**
-- Wszyscy aktywni użytkownicy, w tym użytkownicy-Goście
+**Odpowiednie role**
+- Dostawcy panelu sterowania
+- Administratorzy globalni
 
 W tym artykule opisano raport o stanie wymagań zabezpieczeń w centrum partnerskim. Ten raport zawiera metryki dotyczące zgodności z [wymaganiami dotyczącymi zabezpieczeń partnerów](partner-security-requirements.md) w przypadku uwierzytelniania wieloskładnikowego (MFA) dla użytkowników w dzierżawie partnera.
 
-Aby uzyskać dostęp do tego raportu w [centrum partnerskim](https://partner.microsoft.com/dashboard), przejdź do pozycji **Ustawienia** ustawienia  >  **partnera**  >  **stan wymagań zabezpieczeń** . Raport jest aktualizowany codziennie i odzwierciedla dane logowania z ostatnich siedmiu dni.
+Aby uzyskać dostęp do tego raportu w [centrum partnerskim](https://partner.microsoft.com/dashboard), przejdź do pozycji **Ustawienia**  >  **Ustawienia konta**  >  **wymagania dotyczące zabezpieczeń**. Raport jest aktualizowany codziennie i odzwierciedla dane logowania z ostatnich siedmiu dni.
 
 >[!NOTE]
 >Raport o stanie wymagań dotyczących zabezpieczeń jest obsługiwany tylko w centrum partnerskim. Nie jest on dostępny w Microsoft Cloud dla instytucji rządowych USA ani Microsoft Cloud Niemiec. Zdecydowanie zalecamy, aby wszyscy partnerzy zajmujący się prowadzeniem działalności w chmurze suwerennej (rząd USA i Niemcy) automatycznie wdrażali te nowe wymagania dotyczące zabezpieczeń. Jednak ci partnerzy nie są obecnie zobowiązani do spełnienia nowych wymagań w zakresie zabezpieczeń. Firma Microsoft zapewni dodatkowe szczegóły dotyczące wymuszania tych wymagań w zakresie bezpieczeństwa dla suwerennych chmur w przyszłości.
@@ -40,7 +35,7 @@ Raport o stanie wymagań dotyczących zabezpieczeń zawiera szczegółowe inform
 
 ### <a name="mfa-configuration-on-a-partner-tenant"></a>Konfiguracja usługi MFA w dzierżawie partnera
 
-Procent metryk **włączonych kont użytkowników z uwierzytelnianiem MFA przy użyciu opcji wymienionych tutaj:** pokazuje procent włączonych kont użytkowników w dzierżawie partnerskiej z wymuszaniem uwierzytelniania wieloskładnikowego. Aby zapewnić zgodność, można użyć jednej z tych [opcji MFA](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) . Te dane są codziennie przechwytywane i raportowane. Przykład:
+Procent metryk **włączonych kont użytkowników z uwierzytelnianiem MFA przy użyciu opcji wymienionych tutaj:** pokazuje procent włączonych kont użytkowników w dzierżawie partnerskiej z wymuszaniem uwierzytelniania wieloskładnikowego. Aby zapewnić zgodność, można użyć jednej z tych [opcji MFA](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) . Te dane są codziennie przechwytywane i raportowane. Na przykład:
 
 - Firma Contoso to partner dostawcy usług kryptograficznych z 110 kontami użytkowników w dzierżawie. 10 z tych kont użytkownika jest wyłączonych. 
 - Poza pozostałymi kontami użytkowników 100, 90 są wymuszane usługi MFA przy użyciu dostarczonych [opcji usługi MFA](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started). W związku z tym Metryka pokazuje 90%. 
@@ -51,7 +46,7 @@ Za każdym razem, gdy pracownicy logują się do Centrum partnerskiego, aby móc
 
 #### <a name="dashboard-mfa-verification"></a>Weryfikacja usługi MFA pulpitu nawigacyjnego
 
-Metryka w **portalu Centrum partnerskiego** jest związana z działaniami na pulpicie nawigacyjnym Centrum partnerskiego. Mierzy procent operacji wykonanych przez użytkowników, którzy ukończyli weryfikację MFA. Przykład:
+Metryka w **portalu Centrum partnerskiego** jest związana z działaniami na pulpicie nawigacyjnym Centrum partnerskiego. Mierzy procent operacji wykonanych przez użytkowników, którzy ukończyli weryfikację MFA. Na przykład:
 
 - Firma Contoso to partner programu CSP z dwoma agentami administratora, Janina i Jan.
 - Pierwszego dnia Jan zalogował się do pulpitu nawigacyjnego Centrum partnerskiego bez weryfikacji MFA i wykonał trzy operacje.
@@ -64,7 +59,7 @@ Aby zrozumieć, który użytkownik zalogował się do pulpitu nawigacyjnego Cent
 
 #### <a name="appuser-mfa-verification"></a>Weryfikacja usługi MFA dla aplikacji i użytkownika
 
-Metryka **za pomocą interfejsu API lub zestawu SDK** jest związana z uwierzytelnianiem aplikacji i użytkownika za pomocą żądań interfejsu API usługi Partner Center. Mierzy procent żądań interfejsu API, które zostały wykonane przy użyciu tokenu dostępu z użyciem żądania MFA. Przykład:
+Metryka **za pomocą interfejsu API lub zestawu SDK** jest związana z uwierzytelnianiem aplikacji i użytkownika za pomocą żądań interfejsu API usługi Partner Center. Mierzy procent żądań interfejsu API, które zostały wykonane przy użyciu tokenu dostępu z użyciem żądania MFA. Na przykład:
 
 - Fabrikam to partner programu CSP i ma aplikację dostawcy usług kryptograficznych, która używa kombinacji uwierzytelniania aplikacji i użytkowników oraz metod uwierzytelniania opartych na aplikacji.
 - Pierwszego dnia aplikacja wykonał trzy żądania interfejsu API, które były obsługiwane przez token dostępu uzyskany za pomocą metody uwierzytelniania App + User bez weryfikacji MFA.
@@ -107,7 +102,7 @@ Dowiedz się, czy bieżąca implementacja wymusza tylko uwierzytelnianie wielosk
 
 W przypadku korzystania z rozwiązania MFA innej firmy należy określić sposób ich integracji z usługą Azure AD. Ogólnie rzecz biorąc istnieją dwie metody, w tym federacyjne i kontrolki niestandardowe:
 
-* **Tożsamość Federacji** — gdy usługa Azure AD odbierze żądanie uwierzytelnienia, usługa Azure AD przekieruje użytkownika do federacyjnego dostawcy tożsamości w celu uwierzytelnienia. Po pomyślnym uwierzytelnieniu dostawca tożsamości federacyjnej przekierowuje użytkownika z powrotem do usługi Azure AD wraz z tokenem SAML. Aby usługa Azure AD mogła rozpoznać, że użytkownik ukończył weryfikację MFA podczas uwierzytelniania w federacyjnym dostawcy tożsamości, token SAML musi zawierać *authenticationmethodsreferences* (z wartością *multipleauthn* ). Sprawdź, czy federacyjny dostawca tożsamości obsługuje wydawanie takiego żądania. Jeśli tak jest, sprawdź, czy federacyjny dostawca tożsamości został skonfigurowany tak, aby to zrobić. W przypadku braku żądania usługa Azure AD (w związku z tym centrum partnerskie) nie wie, że użytkownik ukończył weryfikację MFA i brakuje tego żądania, może to spowodować, że Metryka nie wynosi 100%.
+* **Tożsamość Federacji** — gdy usługa Azure AD odbierze żądanie uwierzytelnienia, usługa Azure AD przekieruje użytkownika do federacyjnego dostawcy tożsamości w celu uwierzytelnienia. Po pomyślnym uwierzytelnieniu dostawca tożsamości federacyjnej przekierowuje użytkownika z powrotem do usługi Azure AD wraz z tokenem SAML. Aby usługa Azure AD mogła rozpoznać, że użytkownik ukończył weryfikację MFA podczas uwierzytelniania w federacyjnym dostawcy tożsamości, token SAML musi zawierać *authenticationmethodsreferences* (z wartością *multipleauthn*). Sprawdź, czy federacyjny dostawca tożsamości obsługuje wydawanie takiego żądania. Jeśli tak jest, sprawdź, czy federacyjny dostawca tożsamości został skonfigurowany tak, aby to zrobić. W przypadku braku żądania usługa Azure AD (w związku z tym centrum partnerskie) nie wie, że użytkownik ukończył weryfikację MFA i brakuje tego żądania, może to spowodować, że Metryka nie wynosi 100%.
 
 * **Kontrolka niestandardowa** — kontrolka niestandardowa usługi Azure AD nie może służyć do określenia, czy użytkownik ukończył weryfikację MFA za pomocą rozwiązania MFA innej firmy. W związku z tym każdy użytkownik, który ukończył weryfikację MFA za pomocą kontrolki niestandardowej, będzie zawsze wyświetlany w usłudze Azure AD (i w centrum partnerskim) bez ukończonej weryfikacji MFA. Jeśli jest to możliwe, zaleca się przełączenie się do korzystania z federacji tożsamości zamiast kontroli niestandardowej podczas integrowania z usługą Azure AD.
 

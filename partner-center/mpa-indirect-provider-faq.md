@@ -1,7 +1,7 @@
 ---
 title: Jak dostawcy pośrednim mogą pomóc odsprzedawcy w przyjęciu umowy partnerskiej firmy Microsoft — często zadawane pytania
 ms.topic: article
-ms.date: 02/03/2021
+ms.date: 02/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Udzielono odpowiedzi na najważniejsze pytania dotyczące umowy partnerskiej firmy Microsoft
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1e1848ae63756141e43c980b8910ce556b6ffb32
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: c1c8ea56307dcac64842e2485099e525efa3145a
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530854"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624293"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-accept-the-microsoft-partner-agreement-mpa"></a>Jak dostawcy pośrednim mogą pomagać pośrednim odsprzedawcaom zaakceptować umowę partnera firmy Microsoft (MPA)
 
@@ -104,8 +104,6 @@ Dotyczy to również partnerów "Advisor", którzy byli w ramach dostawcy usług
 
 Twoje konto programu CSP skojarzone z lokalizacją MPN ID pozwala na współpracę z dostawcami pośrednimi, zarządzanie klientami i zdobywanie zachęt.
     
-- [Omówienie programu Cloud Solution Provider](csp-overview.md)
-
 - [Umowa partnerska firmy Microsoft (MPA) dla dostawcy usług kryptograficznych](microsoft-partner-agreement.md)
 
 - [Współpraca z dostawcami pośrednimi w programie CSP](indirect-reseller-tasks-in-partner-center.md)
@@ -134,6 +132,39 @@ W przypadku problemów Zgłoś [bilet pomocy technicznej](https://partner.micros
 
 **Odpowiedź** Zaloguj się do Centrum partnerskiego przy użyciu poświadczeń konta MPN (poświadczenia logowania MPN i dostawcy CSP mogą różnić się). W obszarze **Ustawienia** wybierz pozycję **Ustawienia konta**  ->  **identyfikatory profilów organizacji**  ->   , aby wyświetlić identyfikatory MPN. Aby dodać nową lokalizację MPN/jednostkę zależną, przejdź do pozycji **profil prawny** i kliknij pozycję **Dodaj lokalizację**.
 
+## <a name="questions-about-csp-regional-authorization"></a>Pytania dotyczące regionalnej autoryzacji CSP
+
+#### <a name="what-is-a-csp-region"></a>Co to jest region CSP?
+
+**Odpowiedź** Region CSP składa się z jednego lub większej liczby krajów, w których można wykonać działalność programu CSP. Firma obejmuje na przykład pracę z dostawcami pośrednimi, łączenie się z klientami, transacting i naliczanie bodźców. Musisz mieć co najmniej jedno konto dostawcy CSP (konto służbowe pakietu Office 365) do prowadzenia działalności biznesowej w regionie programu CSP. Dowiedz się więcej o [regionie CSP](regional-authorization-overview.md).
+
+Jeśli jesteś pośrednim odsprzedawcą dostawcy usług kryptograficznych, musisz być partnerem z dostawcami pośrednimi w tym samym regionie i można sprzedawać tylko klientom w tym samym regionie.
+
+#### <a name="why-cant-i-associate-my-mpn-id-to-my-tenant"></a>Dlaczego nie mogę skojarzyć mojego identyfikatora MPN z moją dzierżawą?
+
+**Odpowiedź**  Jeśli nie możesz skojarzyć identyfikatora MPN z dzierżawcą i zobaczysz błąd, oznacza to, że identyfikator MPN i dzierżawca nie znajdują się w tym samym kraju. Aby skojarzenie działało, muszą one znajdować się w tym samym kraju. Wynika to z faktu, że zachęty firmy Microsoft są płatne na poziomie danego kraju i MPN. Jeśli na przykład masz konto CSP w Francji, potrzebujesz lokalizacji MPN (identyfikator MPN) również we Francji, aby uzyskać środki zachęcające do płatności. IDENTYFIKATOR MPN w Zjednoczone Królestwo nie będzie działał mimo tego, że znajdują się w tym samym regionie CSP. 
+
+Aby rozwiązać ten problem, Utwórz lokalizację MPN w tym samym kraju co kraj dostawcy usług kryptograficznych. Dowiedz się więcej na temat [zarządzania lokalizacjami MPN](manage-locations.md).
+
+#### <a name="i-have-a-csp-indirect-reseller-account-in-france-can-i-partner-with-indirect-provider-in-germany"></a>Mam konto odsprzedawcy pośredniego dostawcy CSP we Francji. Czy mogę partner z dostawcą pośrednim w Niemczech?
+
+**Odpowiedź** Opcję. Po uaktywnieniu pośredniego konta odsprzedawcy CSP w regionie CSP to samo konto może służyć do prowadzenia działalności w całym regionie. Dowiedz się więcej o [regionie CSP](regional-authorization-overview.md).
+
+#### <a name="i-am-an-indirect-reseller-in-the-us-can-i-partner-with-an-indirect-provider-in-uk"></a>Jestem pośrednim odsprzedawcą w Stanach Zjednoczonych. Czy mogę mieć partnera z dostawcą pośrednim w Wielkiej Brytanii?
+
+**Odpowiedź** Znaleziono. Dostawca CSP jest programem regionalnym. Konto CSP zarówno pośrednim, jak i Dostawca pośredni musi znajdować się w tym samym regionie dostawcy usług kryptograficznych, aby wykonać działalność biznesową. Aby rozwiązać ten problem, należy utworzyć nowe konto CSP w regionie europejskim i utworzyć lokalizację MPN w tym samym kraju co kraj konta CSP, a następnie zaakceptować żądanie relacji od dostawcy pośredniego. Na przykład możesz utworzyć konto pośredniego odsprzedawcy dostawcy CSP w Francji, utworzyć lokalizację usługi MPN we Francji, a następnie zaakceptować zaproszenie od dostawcy pośredniego, który znajduje się w Francji lub w innym kraju w regionie Europy CSP.
+
+#### <a name="can-i-have-more-than-1-mpn-and-csp-accounts-in-partner-center"></a>Czy mogę mieć więcej niż 1 MPN i konta CSP w centrum partnerskim?
+
+**Odpowiedź** Może istnieć tylko jedno konto MPN (logowanie) i jedno lub wiele kont dostawcy CSP (logowania) w zależności od regionów w firmie wykonywanych przez firmę. Na przykład możesz mieć konto usługi MPN w Stanach Zjednoczonych (CENTRALĄ) z lokalizacjami w Stanach Zjednoczonych (oddział), Zjednoczone Królestwo i Australia (Filia).
+W Stanach Zjednoczonych można mieć jedno konto dostawcy CSP (konto służbowe Office 365), które ma takie same poświadczenia logowania, jak konto MPN. Możesz mieć drugie konto CSP w ramach Zjednoczonego klienta ma inne poświadczenia logowania do zarządzania firmą CSP w regionie europejskim i trzecią w Australii, która ma inne poświadczenia logowania z innych, aby zarządzać firmą CSP w Australii.
+
+Wszystkie trzy konta dostawcy usług kryptograficznych muszą być skojarzone z kontami lokalizacji identyfikatora MPN, aby wykonywać działania biznesowe i zdobywać zachęty dla tych podmiotów zależnych. MPN kompetencji i korzyści mogą być zarządzane tylko przez konto MPN.
+
+#### <a name="i-am-a-csp-indirect-reseller-in-us-and-want-to-expand-my-business-to-europe-what-do-i-need-to-do-in-partner-center"></a>Jestem pośrednim odsprzedawcą CSP w Stanach Zjednoczonych i chcesz rozszerzyć moją firmę do Europy. Co należy zrobić w centrum partnerskim?
+
+**Odpowiedź** Będziesz potrzebować lokalizacji MPN w kraju, w którym chcesz przeprowadzić działalność biznesową, i musisz zarejestrować się w programie CSP pośrednim w tym samym kraju. Dowiedz się więcej na temat tworzenia nowych [lokalizacji MPN i rejestracji dostawcy CSP](manage-locations.md#prerequisites-in-order-to-add-a-new-account-for-a-csp-business).
+
 ## <a name="question-about-migrating-your-mpn-account-from-pmc-to-partner-center"></a>Pytanie dotyczące migrowania konta usługi MPN z programu PMC do Centrum partnerskiego
 
 #### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>Chcę migrować moje konto MPN z Centrum członkostwa partnera do Centrum partnerskiego. Jak można to zrobić? Nie wiem, kto był administratorem MPN w PMC, jak mogę przeprowadzić migrację? 
@@ -142,10 +173,7 @@ W przypadku problemów Zgłoś [bilet pomocy technicznej](https://partner.micros
 
 Po przeprowadzeniu migracji konta usługi MPN Dowiedz się więcej na temat sposobu podpisywania usługi MPA, przeczytaj [Microsoft-Partner-Agreement] 9microsoft-partner-Agreement. MD # Download-the-Step-by-Step-to--to------------------------------
 
-W przypadku problemów Zgłoś [bilet pomocy technicznej](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) z poziomu Centrum partnerskiego. 
-
-
-
+W przypadku problemów Zgłoś [bilet pomocy technicznej](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) z poziomu Centrum partnerskiego.
 
 #### <a name="how-do-i-check-if-my-mpn-id-is-migrated-into-partner-center"></a>Jak mogę sprawdzić, czy mój identyfikator MPN jest migrowany do Centrum partnerskiego?
 
@@ -161,6 +189,7 @@ W obszarze **Ustawienia konta** wybierz pozycję Strona **profilu prawnego** na 
 #### <a name="i-enrolled-in-mpn-program-and-as-a-csp-indirect-reseller-program-but-my-legal-business-profile-verification-status-is-in-rejected-state-what-should-i-do"></a>Zarejestrowano w programie MPN i w ramach programu CSP undirect odsprzedawcy, ale stan weryfikacji profilu biznesowego prawnego jest w stanie odrzucone. Co mam zrobić?
 
 **Odpowiedź** Aby zaktualizować informacje dotyczące profilu prawnego, należy kliknąć przycisk **Aktualizuj**. Przed kontynuowaniem Przeczytaj następujące artykuły:
+
 - [Weryfikowanie informacji o koncie](verification-responses.md#what-is-verified-and-how-to-respond)
 
 - [Weryfikowanie profilu organizacji](update-your-partner-profile.md)
