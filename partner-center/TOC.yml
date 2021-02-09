@@ -59,6 +59,9 @@
         - name: Dowiedz się więcej na temat kompetencji
           href: learn-about-competencies.md
           displayName: mpn
+        - name: Zarejestruj się jako partner szkoleniowy
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
         - name: Kompetencje — często zadawane pytania
           href: competencies-faq.md
           displayName: 'renew, mpn'
