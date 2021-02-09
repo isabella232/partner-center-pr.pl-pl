@@ -1,19 +1,19 @@
 ---
 title: Zachęty — często zadawane pytania
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 02/05/2021
 description: Często zadawane pytania dotyczące bodźców firmy Microsoft. Ten artykuł zawiera pytania dotyczące ról użytkownika, sposobu rejestrowania lub wykonywania czynności związanych z komunikatami o błędach.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624225"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99835071"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Często zadawane pytania dotyczące zachęt
 
@@ -67,17 +67,11 @@ Prawdopodobnie nie widzisz bodźców, że nie masz odpowiednich uprawnień. Wyko
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Na stronie przeglądu zachęt brakuje niektórych rejestracji.
 
-Jeśli widzisz mniejszą liczbę rejestracji niż oczekiwano na stronie **Przegląd** zachęt, możesz wykonać następujące czynności.
+W przypadku otrzymania zaproszenia od lub zarejestrowania w programie zachęty, który nie jest już widoczny na pulpicie nawigacyjnym, należy dokładnie sprawdzić, czy masz odpowiedni dostęp. Tylko użytkownicy z rolą zachęty użytkownika i zachęty mogą zobaczyć program. Zobacz [Znajdź rolę](https://docs.microsoft.com/partner-center/find-your-role).
 
-1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
+Jeśli potrzebujesz zmienić rolę lub uprawnienia, skontaktuj się z administratorem globalnego lub konta firmowego. Aby dowiedzieć się, kim są te osoby, przeczytaj temat [Znajdowanie administratora globalnego](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin).
 
-2. W obszarze **Ustawienia** wybierz pozycję [Zarządzanie użytkownikami](https://partner.microsoft.com/pcv/users).
-
-3. Wybierz swoją nazwę, aby wyświetlić swoje uprawnienia.
-
-Jeśli potrzebujesz zmienić rolę lub uprawnienia, skontaktuj się z administratorem globalnego lub konta w firmie.
-
-Należy pamiętać, że na tej stronie zostaną wyświetlone tylko rejestracje skojarzone z kontem globalnym partnera (PGA) skojarzonym z dzierżawą usługi Azure AD. Jeśli firma ma więcej niż jeden PGA, musisz mieć inne poświadczenia dla każdej z nich.
+Należy pamiętać, że na stronie Przegląd zostaną wyświetlone tylko rejestracje skojarzone z kontem globalnym partnera (PGA) skojarzonym z dzierżawą usługi Azure AD. Jeśli firma ma więcej niż jeden PGA, musisz mieć inne poświadczenia dla każdej z nich.
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Z kim mam się skontaktować, jeśli otrzymuję komunikat o błędzie lub potrzebujesz pomocy w trakcie procesu rejestracji?
 
