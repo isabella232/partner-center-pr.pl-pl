@@ -1,27 +1,27 @@
 ---
 title: Rozwiązywanie problemów z płatnościami i zarobkami
 ms.topic: article
-ms.date: 10/30/2020
+ms.date: 02/05/2021
 description: Dowiedz się, jak rozwiązywać problemy, takie jak brakujące lub błędne dochody, problemy dotyczące uprawnień i sposób uzgadniania zarobków bodźców.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: e3a8890127ce9ff73fd09b7a35d4e167b5629f45
-ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
+ms.openlocfilehash: 971b053119a263ed5c7f8e25fb532b4137e1cb13
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "93189768"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834887"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Rozwiązywanie problemów z brakującymi płatnościami, niepoprawnymi wynagrodzeniem i innymi problemami
 
-**Dotyczy** :
+**Dotyczy**:
 
 - Centrum partnerskie
 
-**Odpowiednie role** :
+**Odpowiednie role**:
 
 - Administrator zachęt
 
@@ -37,7 +37,7 @@ Walidacja może potrwać do 48 godzin. W tym czasie stan profilu na stronie Prze
 
 ## <a name="how-do-i-know-if-i-have-completed-my-payout-and-tax-profile-correctly"></a>Jak mogę sprawdzić, czy mój profil wypłata i profil podatkowy zostały zakończone poprawnie?
 
-Stan rejestracji jest wyświetlony na stronie Przegląd. Po zakończeniu tworzenia profilów **status zostanie zweryfikowany.** Po sprawdzeniu poprawności Twoich informacji stan zmieni się na **zarejestrowano** . Ten stan wskazuje, że wypłata i profil podatkowy i rejestracja zostały pomyślnie zakończone.
+Stan rejestracji jest wyświetlony na stronie Przegląd. Po zakończeniu tworzenia profilów **status zostanie zweryfikowany.** Po sprawdzeniu poprawności Twoich informacji stan zmieni się na **zarejestrowano**. Ten stan wskazuje, że wypłata i profil podatkowy i rejestracja zostały pomyślnie zakończone.
 
 ## <a name="why-do-i-need-to-update-my-tax-profile-to-use-it-with-a-new-incentive-program"></a>Dlaczego muszę zaktualizować swój profil podatkowy pod kątem używania go z nowym programem zachęt?
 
@@ -62,17 +62,35 @@ Brakujące lub nieprawidłowe płatności są często spowodowane przez jedną z
   
   3. Wybierz odpowiednie łącze do dokumentu, a następnie zapoznaj się z sekcją. 
 
-**Kryteria kwalifikujące** się do partnera i **kwalifikujące się przychody** .
+**Kryteria kwalifikujące** się do partnera i **kwalifikujące się przychody**.
 
 - **Twój profil płatności może być niekompletny.** Data rozpoczęcia zarobków w ramach zachęty to pierwszy dzień miesiąca, w którym zostały spełnione wszystkie wymagania dotyczące kwalifikowalności, w tym dołączenia ze szczegółowymi informacjami podatkowymi i dotyczącymi wypłat. Zarobki nie będą dostępne dla miesięcy poprzedzających uzupełnienie wypłat i podatków. Jeśli na przykład spełnisz wszystkie wymagania w ciągu miesiąca kwietnia 2020 r., datą rozpoczęcia zarobków będzie 1 kwietnia 2020 r.
-- **Może istnieć zaległa akcja** .  Może się zdarzyć, że zachęty nie są przetwarzane, ponieważ istnieje zaległa akcja oczekująca.
+- **Może istnieć zaległa akcja**.  Może się zdarzyć, że zachęty nie są przetwarzane, ponieważ istnieje zaległa akcja oczekująca.
 
   **Aby wyświetlić zaległe akcje**
 
   1. Zalogować się do [bodźców partnerów](https://partner.microsoft.com/membership/partner-incentives).
-  2. Otwórz stronę **Historia transakcji** . Przejrzyj pola na tej stronie, aby wykonać wszystkie zaległe akcje, takie jak **oczekujący profil podatku** , **profil oczekującej płatności** lub **wysłanie faktury podatkowej** .
+  2. Otwórz stronę **Historia transakcji** . Przejrzyj pola na tej stronie, aby wykonać wszystkie zaległe akcje, takie jak **oczekujący profil podatku**, **profil oczekującej płatności** lub **wysłanie faktury podatkowej**.
 
 Jeśli te akcje nie są pomocne, a Twoje płatności są nadal niedostępne lub nieprawidłowe, skontaktuj się z [pomocą techniczną](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+
+## <a name="how-can-i-reconcile-my-adjustments"></a>Jak można uzgodnić moje korekty?
+
+Możesz zlokalizować i uzgodnić Twoje korekty, pobierając dane dotyczące zdobywania i transakcji.
+
+1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
+2. Na górnym pasku nawigacyjnym wybierz ikonę pieniądze, a następnie wybierz pozycję **Historia transakcji**.
+3. Zastosuj odpowiednie filtry. (Zobacz **ważna** Uwaga poniżej).
+4. Po przefiltrowaniu danych wybierz pozycję **Rozpocznij pobieranie**, a następnie wybierz pozycję **Eksportuj dane**. Twoje dane zostaną otwarte w pliku CSV.
+5. W pliku CSV przejdź do kolumny P, **Typ zdobywania**.
+6. Odfiltruj tę kolumnę do **korekty rabatu**. W kolumnie S można zobaczyć miesiąc każdej korekty.
+
+>[!IMPORTANT]
+>Korekty stosowane do okresów wcześniejszych wynagrodzeń nie będą widoczne w zarobkach dla miesiąca, w którym zastosowano korektę. Korekty będą zawsze odzwierciedlane w raporcie zarobki za miesiąc, w którym zastosowano korektę.
+>
+>Na przykład korekta zysku 2019 stycznia, która została przetworzona we wrześniu 2019 nie będzie odzwierciedlała kwoty zarobków dla 2019 września. Jednak po otrzymaniu płatności dla 2019 września zostanie uwzględniona korekta za styczeń 2019, która została zastosowana we wrześniu. W tym scenariuszu należy pobrać szczegóły transakcji dla stycznia 2019, aby zobaczyć zastosowane dostosowanie.
+>
+>Należy pamiętać o tym podczas ustawiania filtrów daty. Jak wspomniano powyżej, modyfikacje poprzednich okresów będą widoczne tylko w miesiącu, w którym zastosowano korektę. Sprawdź, czy wybrany zakres dat odpowiada wartości miesiąca korekty, którą próbujesz zlokalizować. Może być konieczne wybranie opcji **Wyczyść wszystko** , aby usunąć filtry, a następnie zastosować nowe.
 
 ## <a name="why-are-my-co-op-claim-payments-made-in-two-different-currencies"></a>Dlaczego moje płatności związane z roszczeniami dotyczącymi współpracy są realizowane w dwóch różnych walutach?
 
@@ -123,7 +141,7 @@ Ten widok umożliwia wyświetlenie płatności dla wszystkich programów i ident
 | Wyświetl informacje o płatności według wiersza, w tym kwoty pokrycia i płatności w walucie lokalnej  | Zobacz pole **listy płatności**   |
 | Pobieranie listy przekazów   |  Wybierz **przelew płatniczy**  |
 | Wyświetl szczegóły poziomu transakcji dla określonej płatności |  Wybierz **Widok**  |
-| Eksportuj szczegóły transakcji do programu Excel  |  Wybierz pozycję **Rozpocznij pobieranie** , a następnie kliknij pozycję **Eksportuj dane** . Należy zauważyć, że wszystkie wybrane filtry zostaną zastosowane do wyeksportowanych danych. Gdy stan zmieni się na ukończono, wybierz pozycję **Pobierz** i postępuj zgodnie z monitami, aby wyeksportować raport szczegółowe transakcje. Odśwież stronę, jeśli stan nie zostanie zaktualizowany w ciągu pięciu minut.  |
+| Eksportuj szczegóły transakcji do programu Excel  |  Wybierz pozycję **Rozpocznij pobieranie**, a następnie kliknij pozycję **Eksportuj dane**. Należy zauważyć, że wszystkie wybrane filtry zostaną zastosowane do wyeksportowanych danych. Gdy stan zmieni się na ukończono, wybierz pozycję **Pobierz** i postępuj zgodnie z monitami, aby wyeksportować raport szczegółowe transakcje. Odśwież stronę, jeśli stan nie zostanie zaktualizowany w ciągu pięciu minut.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Brakujące lub nieprawidłowe dochody i płatności
 
@@ -151,7 +169,7 @@ Jeśli te akcje nie są pomocne, a Twoje dochody nadal nie są uzgodnione, skont
 
 3. Wybierz łącze do dokumentu dla odpowiedniego programu.
 
-4. W dokumencie zapoznaj się z sekcją **Struktura i kursy programu** .
+4. W dokumencie zapoznaj się z sekcją **Struktura i kursy programu**.
 
 ## <a name="next-steps"></a>Następne kroki
 

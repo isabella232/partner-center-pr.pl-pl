@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07fdc40ae9232a5cf2636b309dae45a52538edf2
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 5355dd6229d22d154512be8536e5fd4ab9b900ad
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098843"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834860"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sprzedaj subskrypcje oprogramowania za pomocą programu Cloud Solution Provider (CSP)
 
@@ -95,7 +95,7 @@ Aby kupić subskrypcje oprogramowania w imieniu klienta:
 Po zakupieniu oprogramowania klienci muszą ją pobrać. Użyj poniższej procedury w tym celu.
 
 >[!NOTE]
->Aby uzyskać klucze i pliki do pobrania, musisz być agentem administracyjnym.
+>Aby uzyskać link do kluczy i plików do pobrania, musisz być agentem administracyjnym.
 
 1. Przejdź do strony szczegółów klienta, a następnie wybierz pozycję **oprogramowanie**. Zostanie wyświetlona lista wszystkich programów zakupionych w imieniu klienta.
 2. Skopiuj link "głębokiego linku", **Aby połączyć się z kluczami produktów oprogramowania i pobrać** i udostępnić link klientowi. Po wybraniu tego linku zostaną one przekierowane do centrum administracyjnego firmy Microsoft, aby pobrać i uzyskać klucze produktów.
