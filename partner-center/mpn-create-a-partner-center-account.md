@@ -1,5 +1,5 @@
 ---
-title: Tworzenie konta w Centrum partnerskim
+title: Utwórz konto MPN w centrum partnerskim
 ms.topic: article
 ms.date: 02/08/2021
 ms.service: partner-dashboard
@@ -9,23 +9,23 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 129cdd337f9b475b37d14c4e68058736b473fe33
-ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
+ms.openlocfilehash: 39ff18e82782dcc19e1bda5cd774012f241a0b3a
+ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "100005939"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "100013694"
 ---
-# <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Utwórz konto Centrum partnerskiego, aby zarządzać korzyściami i kompetencjami sieci
+# <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Utwórz konto MPN w centrum partnerskim, aby zarządzać korzyściami i kompetencjami sieci
 
 
-Jeśli jesteś nowym do Microsoft Partner Network i nie masz identyfikatora MPN, możesz rozpocząć rejestrację, postępując zgodnie z [instrukcjami dotyczącymi rejestracji](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
+Jeśli jesteś nowym do Microsoft Partner Network (MPN) i nie masz identyfikatora MPN, możesz rozpocząć rejestrację, postępując zgodnie z [instrukcjami dotyczącymi rejestracji](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
 
 ## <a name="prerequisites"></a>Wymagania wstępne 
 
 Gdy wszystko będzie gotowe do utworzenia konta w centrum partnerskim, aby rozpocząć, musisz mieć dostępne następujące elementy.  Aby zebrać te elementy przed rozpoczęciem pracy, może być konieczne Poświęć kilka minut:
 
-- Służbowy adres e-mail lub konto służbowe pakietu Office 365. Aby uzyskać więcej informacji, zapoznaj się [z informacjami na temat firmowego konta służbowego i Centrum partnerskiego](azure-active-directory-tenants-and-partner-center.md) 
+- Służbowy adres e-mail lub konto służbowe pakietu Office 365. Aby uzyskać więcej informacji, Przeczytaj [firmowe konto służbowe i centrum partnerskie](azure-active-directory-tenants-and-partner-center.md) 
  
 - Prawna służbowa nazwa firmy i adres.
 
@@ -61,7 +61,7 @@ Po udostępnieniu informacji o firmie wprowadź podstawowe informacje kontaktowe
 Główną osobą kontaktową powinna być osoba w firmie, która będzie mogła skontaktować się z Twoją aplikacją (może to być ty lub inna osoba w firmie).
 
 >[!IMPORTANT]
->Aby zapewnić bezpieczeństwo i prywatność firmy, wysyłamy wiadomość e-mail do głównej osoby kontaktowej w celu zweryfikowania adresu e-mail i upewnienia się, że adres e-mail należy do firmy, po zweryfikowaniu adresu e-mail przez kontakt główny będziemy kontynuować przegląd podanych informacji. Weryfikacja zazwyczaj trwa 3-5 dni roboczych. 
+>Aby zapewnić bezpieczeństwo i prywatność firmy, należy wysłać wiadomość e-mail do głównej osoby kontaktowej w celu zweryfikowania adresu e-mail i upewnić się, że adres e-mail należy do firmy. Po zweryfikowaniu adresu e-mail przez kontakt podstawowy będziemy kontynuować przegląd dostarczonych informacji. Weryfikacja zazwyczaj trwa 3-5 dni roboczych. 
 
 ## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Jak wyświetlić szczegóły konta lub wyświetlić i pobrać umowę MPN
 
