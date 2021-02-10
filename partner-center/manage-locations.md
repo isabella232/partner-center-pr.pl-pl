@@ -1,7 +1,7 @@
 ---
 title: Zarządzanie lokalizacjami na koncie partnerskim
 ms.topic: how-to
-ms.date: 02/05/2021
+ms.date: 02/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Dowiedz się, jak dodać nową lokalizację i jak używać identyfikatora MPN Location w programach zachęty, biznesie CSP, subskrypcjach i innych transakcjach.
@@ -9,14 +9,14 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 41ffaeaf0fb46659142949872295523546bb91c1
+ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624276"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "100005912"
 ---
-# <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Zarządzanie lokalizacjami kont MPN i Dodawanie nowej lokalizacji
+# <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Zarządzanie lokalizacjami kont MPN i Dodawanie (usuwanie) lokalizacji
 
 
 **Odpowiednie role**
@@ -80,6 +80,10 @@ Aby dodać nowe konto biznesowe dostawcy usług kryptograficznych, Zacznij od up
 
 > [!NOTE]
 > Po dodaniu lokalizacji w centrum partnerskim nie można jej usunąć. Aby zalogować się, zobaczysz **MPN** w menu po lewej stronie Centrum partnerskiego.
+
+## <a name="delete-a-location"></a>Usuwanie lokalizacji
+
+Aby usunąć lokalizację z konta, musisz skontaktować się z [pomocą techniczną partnera](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Upewnij się, że rozumiesz wpływ tej akcji. Nie można pobrać usuniętych lokalizacji i wszystkie powiązane z tym identyfikatorem MPN nie będą już rozpoznawane ani nieaktywne dla Twojej firmy.
 
 ## <a name="change-country-of-partner-global-account"></a>Zmień kraj konta partnera globalnego 
 
