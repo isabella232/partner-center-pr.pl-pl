@@ -127,9 +127,6 @@
     - name: Microsoft Partner Agreement — CSP
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
-    - name: Zarządzanie lokalizacjami
-      href: manage-locations.md
-      displayName: 'mpn, csp'
     - name: Jak dostawcy pośrednim mogą pomóc odsprzedawcy w przyjęciu MPA
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -197,6 +194,9 @@
           displayName: mpn
         - name: Łączenie konta służbowego
           href: azure-active-directory-tenants-and-partner-center.md
+        - name: Zarządzanie lokalizacjami
+          href: manage-locations.md
+          displayName: 'mpn, csp'
         - name: Weryfikowanie własności domeny
           href: become-global-admin.md
         - name: Weryfikowanie informacji o koncie
@@ -262,6 +262,8 @@
       items:
         - name: Informacje o potencjalnych klientach wspólnej sprzedaży
           href: manage-co-sell-opportunities.md
+        - name: Operacje zbiorcze
+          href: bulk-operations.md
         - name: Używanie łączników CRM wspólnej sprzedaży
           items:
             - name: Dla platformy Dynamics 365

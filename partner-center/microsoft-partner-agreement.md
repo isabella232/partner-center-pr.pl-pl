@@ -1,7 +1,7 @@
 ---
 title: Umowa partnerska firmy Microsoft (MPA) dla dostawcy usług kryptograficznych
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 02/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się więcej o wymaganiach partnerów programu Microsoft CSP w celu podpisania i zweryfikowania tej ujednoliconej, akceptowanej cyfrowo umowy Microsoft Partner (MPA).
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: 829b444f1990058cd323e3effec6da6d7585155a
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773467"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281333"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Informacje o umowie partnerskiej firmy Microsoft (MPA) dla partnerów programu CSP
 
@@ -34,6 +34,8 @@ Aby nadal uczestniczyć w programie CSP, należy podpisać umowę Microsoft Part
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>Sprawdź, czy identyfikator MPN jest aktywny i zmigrowany do Centrum partnerskiego
 
 1. Jeśli nie przeprowadzono migracji konta usługi MPN z Centrum członkostwa partnera (PMC) do Centrum partnerskiego, należy [przeprowadzić migrację konta MPN do Centrum partnerskiego](move-pmc-pc-map.md). Po zakończeniu migracji należy wykonać pozostałe kroki. 
+
+1. Jeśli nie masz konta lub identyfikatora MPN, musisz najpierw dołączyć do programu Microsoft Partner Network. [Dowiedz się, jak dołączać MPN](mpn-create-a-partner-center-account.md).
 
 1. Zaloguj się do Centrum partnerskiego przy użyciu poświadczeń konta MPN.
  

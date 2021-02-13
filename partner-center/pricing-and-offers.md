@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 086f5423d748ca2a84062577cd934987decc88f8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979825"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281284"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Cennik i oferty dla pakietu Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure i innych
 
@@ -82,12 +82,12 @@ Ceny na podstawie użycia mogą się zmieniać w ciągu miesiąca. Aby uzyskać 
 
 ## <a name="pricing-and-special-segments"></a>Cennik i segmenty specjalne
 
-Dostawca usług kryptograficznych oferuje pewne usługi do specjalnych segmentów rynkowych, na przykład edukację, niedochodową i rządową chmurę społecznościową. Nie wszystkie usługi są dostępne w każdym kanale. Nie ma żadnych ustawień domyślnych segmentu, które nazywają segment "komercyjne". Wszystkie cenniki oparte na licencjach są dostępne na liście cenowej na podstawie licencji na stronie Cennik i oferty. Cennik Azure Government jest dostępny na liście cen opartych na użyciu podczas logowania do Azure Government włączono dzierżawy CSP.
+Dostawca usług kryptograficznych oferuje pewne usługi do specjalnych segmentów rynkowych, na przykład edukację, niedochodową i rządową chmurę społecznościową. Nie wszystkie usługi są dostępne w każdym kanale. Nie ma żadnych ustawień domyślnych segmentu, które nazywają segment "komercyjne". Wszystkie cenniki oparte na licencjach są dostępne na liście cenowej na podstawie licencji na stronie Cennik i oferty. Cennik Azure Government jest dostępny na liście cen opartych na użyciu podczas logowania do Azure Government włączono dzierżawy CSP. Subskrypcje oprogramowania i bezterminowe oprogramowanie nie obsługują jeszcze tych specjalnych segmentów.
 
 |**Segment**   |**kto musi kwalifikować się**   |**Partner uprawnia klienta**|**Włączone typy produktów**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|Klient|Nie, kwalifikacja klienta będzie wykonywana przez firmę Microsoft |Tylko na podstawie licencji|
-|Niedochodowy|Klient|Nie, klienci są kwalifikowani poza centrum partnerskim|Tylko na podstawie licencji|
+|Education|Customer|Nie, kwalifikacja klienta będzie wykonywana przez firmę Microsoft |Tylko na podstawie licencji|
+|Niedochodowy|Customer|Nie, klienci są kwalifikowani poza centrum partnerskim|Tylko na podstawie licencji|
 |Government Community Cloud (GCC)|Partner i klient|Po włączeniu współpracy w zatoce partner może tworzyć klientów z współpracy w zatoce| Tylko na podstawie licencji|
 |Azure Government|Partner|Gdy jest kwalifikowana, Partner działa w dzierżawie dostawcy CSP specyficznym dla Azure Government|Zasoby platformy Azure|
 

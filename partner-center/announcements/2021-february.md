@@ -9,16 +9,66 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: cb9bc726acb5d76f4774c9a515443d58f7947fbd
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: ac5c82887ddf17e66045e36c0f4de607529f6024
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624174"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281229"
 ---
 # <a name="february-2021-announcements"></a>Powiadomienia 2021 lutego
 
 Na tej stronie znajdują się szczegółowe informacje o anonsach programu Microsoft Partner Center dla lutego 2021.
+
+_______________
+
+## <a name="microsoft-365-e3-price-changes-coming-for-march-2021"></a><a name="6"></a>Microsoft 365 E3 zmian cen z marca 2021
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-02-11
+- Oferty/rynki
+
+### <a name="affected-audience"></a>Zainteresowani odbiorcy
+
+Wszyscy partnerzy przeprowadzają transakcję przez program Cloud Solution Provider (CSP) w EUR, AUD, GBP i JPY.
+
+### <a name="details"></a>Szczegóły
+
+Cennik wersji zapoznawczej opartej na licencji dla marca 2021 został zaktualizowany w celu uwzględnienia zmian cen dla Microsoft 365 E3. Poniżej wymieniono uwzględnione oferty i waluty. 
+ 
+Nazwa oferty: identyfikator oferty Microsoft 365 E3: Identyfikator materiału 2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091: AAA-35638
+
+Te aktualizacje cen Microsoft 365 E3 są ograniczone tylko do tych walut: JPY (japoński Jena), GBP (Wielka Brytania), EUR (Unia Europejska), AUD (Dolar australijski). Istnieją inne zmiany cen w pliku z marca, a partnerzy powinni uzyskać najnowszą wersję zapoznawczą, aby wyświetlić inne oczekiwane zmiany.
+
+### <a name="next-steps"></a>Następne kroki
+
+Partnerzy powinni pobrać najnowsze pliki cennika z Centrum partnerskiego, aby uzyskać najnowsze ceny w marcu. 
+
+_______________
+
+## <a name="license-based-preview-price-list-updated-for-norwegian-krone"></a><a name="5"></a>Cennik wersji zapoznawczej opartej na licencji zaktualizowany dla Korona norweska
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-02-10
+- Oferty/rynki
+
+### <a name="affected-audience"></a>Zainteresowani odbiorcy
+
+Wszyscy partnerzy przeprowadzają Operacje transakcyjne przez program Cloud Solution Provider (CSP)
+
+### <a name="summary"></a>Podsumowanie
+
+Cennik wersji zapoznawczej opartej na licencji został zaktualizowany dla cen Korona w języku norweskim od 1 marca 2021.
+
+### <a name="details"></a>Szczegóły
+
+Zmiany szybkości FX w marcu nie zostały uwzględnione w poprzednich listach cenowych na podstawie licencji na marzec. Ten plik został zaktualizowany w celu odzwierciedlenia przewidywanych zmian cen (Korona) w języku norweskim. Partnerzy powinni pobrać najnowszy plik cennika w wersji zapoznawczej, aby zobaczyć, że te zmiany oczekują od 1 marca 2021. Te zmiany są przeznaczone tylko dla cen waluty w języku norweskim.
+
+### <a name="next-steps"></a>Następne kroki
+
+Partnerzy powinni pobrać bieżący plik w wersji zapoznawczej cennika pod kątem oczekiwanych zmian 1 marca 2021.
 
 _______________
 

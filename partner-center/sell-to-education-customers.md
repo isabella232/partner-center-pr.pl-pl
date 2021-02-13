@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5af6ae0d3c11d2ea59e4b8ef2224393e48d6a3df
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: a101c3d29b947950179ca0ae446f049ccf785bb8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916920"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281314"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Jak sprzedawać oferty dla klientów edukacyjnych i jak utworzyć odbiorcę edukacji w centrum partnerskim
 
@@ -27,7 +27,7 @@ ms.locfileid: "97916920"
 
 ## <a name="create-an-education-customer"></a>Tworzenie klienta edukacyjnego
 
-W tym artykule wyjaśniono, jak utworzyć klienta edukacji w centrum partnerskim i sprzedawać do nich produkty edukacyjne. Opisano w nim również, jak wyświetlić stan weryfikacji i ponownie przesłać żądanie weryfikacji, jeśli jest to konieczne.
+W tym artykule wyjaśniono, jak utworzyć klienta edukacji w centrum partnerskim i sprzedawać do nich produkty edukacyjne. Opisano w nim również, jak wyświetlić stan weryfikacji i ponownie przesłać żądanie weryfikacji, jeśli jest to konieczne. Oferty edukacyjne są obecnie **dostępne tylko dla usług opartych na licencji** , takich jak Microsoft 365, Dynamics, Intune itd. Nie jest ona dostępna dla innych typów (subskrypcje oprogramowania, bezterminowego oprogramowania lub produktów platformy Azure).
 
 > [!IMPORTANT]
 > Firma Microsoft weryfikuje każdą nowo utworzoną dzierżawcę klientów edukacyjnych, aby upewnić się, że są one kwalifikowane dla ofert edukacyjnych.  Upewnij się, że wprowadzasz wymagane informacje jako dokładne i pełne, jak to możliwe, aby uniknąć opóźnień w procesie weryfikacji.
@@ -75,7 +75,7 @@ Przykłady stanu:
 
 Jeśli klient nie przejdzie do początkowej weryfikacji, można teraz skorygować informacje i ponownie przesłać go.
 
-### <a name="correct-the-customer-account-information"></a>Popraw informacje o koncie klienta
+### <a name="correct-the-customer-account-information"></a>Poprawianie informacji o koncie klienta
 
 Aby zaktualizować informacje o kliencie, musisz mieć uprawnienia administratora globalnego. Informacje są aktualizowane w portalu pakietu Office 365, ponieważ nie można zaktualizować tych danych za pomocą portalu Centrum partnerskiego.
 

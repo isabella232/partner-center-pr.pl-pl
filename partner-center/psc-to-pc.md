@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588754"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281355"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Przewodnik po przedsprzedaży w centrum partnerskim (komputer) dla partnerów migrowania z programu Partner Sales Connect (PSC)
 
@@ -158,7 +158,7 @@ Przed rozpoczęciem migracji transakcji z komputera postępuj zgodnie z poniższ
     - Szacowana data zamknięcia transakcji
     - Uwagi dla partnerów
 
-Możesz użyć funkcji pobierania zbiorczego i przekazywania danych na komputerze PSC, aby wyczyścić dane dla wszystkich kwalifikujących się transakcji.
+Możesz użyć funkcji pobierania zbiorczego i przekazywania na komputerze PSC, aby dodać wszystkie brakujące szczegóły w ramach transakcji dla wszystkich kwalifikujących się transakcji.
 
 >[!Note]
 > Migracja transakcji powiedzie się, nawet jeśli powyższe wymagania wstępne nie są spełnione. Nie można jednak zmienić stanu transakcji, jeśli którykolwiek z powyższych pól wymaganych w centrum partnerskim nie jest dostępny. Następnie będzie trzeba wprowadzić wszystkie wymagane informacje w centrum partnerskim, aby rozpocząć pracę nad nimi. **Zdecydowanie zaleca się oczyszczenie kwalifikujących się operacji na komputerze PSC przed przeprowadzeniem migracji ich do Centrum partnerskiego.**
@@ -178,9 +178,9 @@ Raport zawiera poniższe szczegóły.
 4. **Identyfikator transakcji PSC** — unikatowy identyfikator na komputerze PSC dla transakcji.
 5. **Błędy** — aby wskazać, czy wystąpił błąd podczas migrowania konkretnej transakcji.
 
-Wszystkie transakcje, które zostały pomyślnie zmigrowane, nie będą widoczne na komputerze PSC. Możesz korzystać z zmigrowanych transakcji na komputerze. Brak zmian w interakcjach ze sprzedawcami firmy Microsoft w przypadku transakcji związanych z współsprzedażą.
+Wszystkie transakcje, które zostały pomyślnie zmigrowane, nie będą widoczne na komputerze PSC. Możesz kontynuować pracę nad migrowanymi transakcjami na komputerze, w tym kończąc rejestrację transakcji na komputerze. Brak zmian w interakcjach ze sprzedawcami firmy Microsoft w przypadku transakcji związanych z współsprzedażą.
 
-Transakcje migrowane z komputera PSC będą dostępne na kartach przychodzących i wychodzących na podstawie źródła transakcji. Wszystkie oferty utworzone przez partnera będą dostępne na karcie wychodzące, a transakcje zainicjowane przez firmę Microsoft będą dostępne na karcie przychodzące w centrum partnerskim. Istnieją dwa typy transakcji, które zostaną utworzone po migracji.
+Transakcje migrowane z komputera PSC będą dostępne na kartach przychodzących i wychodzących na podstawie źródła transakcji. Wszystkie transakcje udostępniane przez firmę będą dostępne na karcie wychodzące, a transakcje zainicjowane przez firmę Microsoft będą dostępne na karcie przychodzące w centrum partnerskim. Istnieją dwa typy transakcji, które zostaną utworzone po migracji.
 
 1. **Oferty towarzyszące** rozdaniom, które są oznaczone jako współsprzedażowe na komputerze PSC, zostaną utworzone jako sprzedaż w centrum partnerskim.
 2. **Oferty dla partnerów** — transakcje, które nie zostały oznaczone jako towarzyszące, zostaną utworzone jako oferty partnerskie w centrum partnerskim. Transakcje dotyczące partnerskich partnerów są widoczne dla sprzedawcy firmy Microsoft i można je uaktualnić do transakcji współsprzedawanych przed osiągnięciem stanu terminalu (wygranych, utraconych). Ponadto w przypadku oferty uprawniającego do korzystania z platformy partnerskiej usługi mogą skorzystać z rejestracji transakcji.
@@ -386,12 +386,20 @@ Nie można uzyskać dostępu do Centrum partnerskiego za pomocą PDM bezpośredn
 
 ## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>Znajdowanie prawidłowego identyfikatora MPN, jeśli konto w systemie PSC nie jest skojarzone z prawidłowym MPN
 
-Jeśli jesteś tutaj, ponieważ zobaczysz baner na komputerze PSC z informacją o problemie związanym z skojarzeniem "PSC nieprawidłowy identyfikator MPN", jesteś w odpowiednim miejscu.
+Jeśli jesteś tutaj, ponieważ zobaczysz baner na komputerze PSC z informacją o problemie związanym z skojarzeniem "PSC nieprawidłowy identyfikator MPN", jesteś w odpowiednim miejscu. Twoje konto mogło zostać połączone z nieprawidłowym IDENTYFIKATORem MPN z następujących powodów
+
+- Twoja firma nie ma konta Centrum partnerskiego.
+- PDM błąd podczas wprowadzania identyfikatora MPN konta w systemach wewnętrznych, które łączą Twoje konto PSC z kontem Centrum partnerskiego (MPNID).
+- Twoja firma nie ukończyła migracji z Centrum członkostwa partnerów (PMC) do komputera.
 
 Najpierw Znajdź prawidłowy identyfikator MPN, postępując zgodnie z poniższymi instrukcjami.
 
 - Zaloguj się do konta Centrum partnerskiego
 - Aby zlokalizować identyfikator MPN, skorzystaj ze wskazówek zawartych w [dokumentacji ustawień konta](./partner-center-account-setup.md#locate-your-mpn-id) .
+
+Poniżej znajduje się zrzut ekranu przedstawiający dokładną lokalizację, w której można znaleźć identyfikator MPN Centrum partnerskiego
+
+:::image type="content" source="images/pscmigration/findingMPNID.png" alt-text="Obraz przedstawiający ustawienia konta, w którym partner może znaleźć swój identyfikator MPN."  lightbox="images/pscmigration/findingMPNID.png":::
 
 Dalej,
 
