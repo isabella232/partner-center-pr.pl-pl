@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: 7195dbd9bb9a862b7b3064ed641739f04bcab512
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99974760"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541026"
 ---
 # <a name="january-2021-announcements"></a>Ogłoszenia ze stycznia 2021 r.
 
@@ -348,7 +348,9 @@ Wszyscy partnerzy przeprowadzają Operacje transakcyjne przez program Cloud Solu
 
 Począwszy od lutego 2021, firma Microsoft będzie implementować ograniczenie interfejsu API, aby umożliwić bardziej spójną wydajność w ramach przedziału czasu dla partnerów wywołujących interfejsy API Centrum partnerskiego.Ograniczanie przepustowości ogranicza liczbę żądań do usługi w przedziale czasu, aby zapobiec nadmiernemu użyciu zasobów.W przypadku przekroczenia progu ograniczania Centrum partnerskiego ogranicza wszelkie dalsze żądania od tego klienta przez pewien czas.
   
-**Korzyści dla partnerów:** Centrum partnerskie zostało zaprojektowane z myślą o obsłudze dużej liczby żądań, ale w przypadku przeprowadzenia przez kilku partnerów przeciążenia wielu żądań ograniczenie przepustowości pomoże Ci zapewnić optymalną wydajność i niezawodność dla wszystkich partnerów.  
+**Korzyści dla partnerów:**
+
+Centrum partnerskie zostało zaprojektowane z myślą o obsłudze dużej liczby żądań, ale w przypadku przeprowadzenia przez kilku partnerów przeciążenia wielu żądań ograniczenie przepustowości pomoże Ci zapewnić optymalną wydajność i niezawodność dla wszystkich partnerów.  
 
 - Ograniczanie przepustowości zapewnia minimalne przestoje.
 - Ograniczanie przepływności zmniejsza liczbę żądań o dużej ilości, pomagając zapewnić spójną wydajność wszystkich partnerów.

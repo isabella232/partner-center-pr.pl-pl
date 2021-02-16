@@ -9,16 +9,120 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: f1822a0bba6c14f48da3dfca3081bba5da3c6a2e
-ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
+ms.openlocfilehash: 8348179438ad65449ea75cd5ebce8ba0a92d7b9a
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "100490176"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541002"
 ---
 # <a name="february-2021-announcements"></a>Powiadomienia 2021 lutego
 
 Na tej stronie znajdują się szczegółowe informacje o anonsach programu Microsoft Partner Center dla lutego 2021.
+
+________________
+## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Teraz na żywo: DocuSign migracji do usługi Adobe Sign w celu uzyskania partnerów w ramach umów partnerskich firmy Microsoft (MPAs)
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-02-16
+- Możliwości
+
+### <a name="summary"></a>Podsumowanie
+
+Firma Microsoft przeniesie wszystkie operacje przetwarzania podpisów elektronicznych z usługi DocuSign do firmy Adobe Sign.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Istniejący bezpośredni i pośredni partnerzy dostawcy rozwiązań w chmurze (CSP) w ramach programu MPA.
+
+### <a name="details"></a>Szczegóły
+
+W lutym 2021 firma Microsoft rozpocznie przechodzenie przez wszystkie elektroniczne przetwarzanie podpisów z DocuSign do firmy Adobe w przypadku partnerów programu CSP.
+
+Powinno się oczekiwać na bezproblemowe przejście. Po migracji otrzymasz wiadomość e-mail od adobesign@adobesign.com , a nie Docusign, gdy podpis elektroniczny jest wymagany. Ta wiadomość e-mail będzie udostępniać link do strony internetowej podpisywania firmy Adobe, w której będzie konieczne podpisywanie. Partnerzy firmy Microsoft nie będą musieli ponowne podpisać istniejących umów, tylko w przyszłości. Partnerzy na Ukrainie, Rosja i Kazachstan będą zobowiązani do fizycznego lub elektronicznego ponownego podpisania kierowcy.
+
+Przykład wiadomości e-mail z żądaniem podpisu Adobe Sign można znaleźć w [galerii zasobów](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf).
+
+Aby uzyskać najlepsze doświadczenia, należy wykonać następujące czynności:
+
+1. Dodaj adobesign@adobesign.com do listy bezpiecznych nadawców, aby uniknąć wiadomości e-mail z tego konta bezpośrednio do folderu wiadomości-śmieci.
+2. Pracuj z działem IT, aby:
+    - Dodaj adobesign@adobesign.com adres e-mail do swojej listy bezpiecznych nadawców, aby upewnić się, że nie jest ona uwzględniona w żadnej z wcześniej ustanowionych reguł wyłudzania informacji.
+    - Zaktualizuj istniejące zasady zabezpieczeń, aby upewnić się, że wszyscy z wymaganych adresatów mogą podpisać dokumentację w ramach licencji firmy Adobe Sign w przedsiębiorstwie.
+
+Zasoby związane z dołączaniem, funkcjami i procesami biznesowymi można znaleźć na [stronie partnera migracji programu Adobe Sign](https://aka.ms/eSignature/External).
+
+Firma Adobe Sign to preferowane elektroniczne rozwiązanie do przesyłania podpisu w firmie Microsoft (ESS). Przejście do programu Adobe Sign zapewni bezpieczne i wydajne środowisko przesyłania podpisu elektronicznego, które będzie dostarczać klientom i partnerom większą wartość.
+
+Aby uzyskać dodatkowe informacje na temat sposobu elektronicznego podpisywania dokumentów i delegowania podpisu elektronicznego, zapoznaj się z następującymi samouczkami:
+
+- [Elektroniczne podpisywanie dokumentu | Samouczki dotyczące podpisywania firmy Adobe](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [Delegowanie innej osoby do podpisywania dokumentu | Samouczki dotyczące podpisywania firmy Adobe](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>Następne kroki
+
+Udostępnij te informacje właściwym udziałowcom w organizacji.
+
+### <a name="questions"></a>Masz pytania?
+
+Jeśli masz jakieś pytania, skontaktuj się z regionalnym centrum operacji przy użyciu [narzędzia rejestrowania wywołań (CLT)](https://clt.partners.extranet.microsoft.com/CLT) lub w witrynie [Eksplorowanie MS](https://www.explore.ms/). Postępuj zgodnie ze standardowym procesem CLT, aby umożliwić szybkie rozwiązanie tego zapytania.
+
+### <a name="change-log"></a>Dziennik zmian
+
+- 15 stycznia 2021: Oryginalna publikacja 
+- 16 lutego 2021: teraz Live, nowy zasób: Strona partnera migracji firmy Adobe 
+
+_____________
+
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="8"></a> Przypomnienie: wprowadzenie ograniczenia interfejsu API do partnerów wywołujących interfejsy API Centrum partnerskiego
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-02-16
+- Rozwijanie firmy
+
+### <a name="summary"></a>Podsumowanie
+
+Firma Microsoft będzie implementować ograniczanie interfejsu API, aby umożliwić bardziej spójną wydajność w ramach przedziału czasu dla partnerów wywołujących interfejsy API Centrum partnerskiego.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Wszyscy partnerzy przeprowadzają Operacje transakcyjne przez program Cloud Solution Provider (CSP)  
+
+### <a name="details"></a>Szczegóły
+
+Począwszy od lutego 2021, firma Microsoft będzie implementować ograniczenie interfejsu API, aby umożliwić bardziej spójną wydajność w ramach przedziału czasu dla partnerów wywołujących interfejsy API Centrum partnerskiego.Ograniczanie przepustowości ogranicza liczbę żądań do usługi w przedziale czasu, aby zapobiec nadmiernemu użyciu zasobów.W przypadku przekroczenia progu ograniczania Centrum partnerskiego ogranicza wszelkie dalsze żądania od tego klienta przez pewien czas.
+
+**Korzyści dla partnerów:**
+
+Centrum partnerskie zostało zaprojektowane z myślą o obsłudze dużej liczby żądań, ale w przypadku przeprowadzenia przez kilku partnerów przeciążenia wielu żądań ograniczenie przepustowości pomoże Ci zapewnić optymalną wydajność i niezawodność dla wszystkich partnerów.  
+
+- Ograniczanie przepustowości zapewnia minimalne przestoje.
+- Ograniczanie przepływności zmniejsza liczbę żądań o dużej ilości, pomagając zapewnić spójną wydajność wszystkich partnerów.
+
+**Interfejsy API do ograniczenia:**
+
+| Operacja | Dokumentacja Centrum partnerskiego |
+| ------ | ------- |
+|{baseURL}/V1/Customers/{customer_id}/subscriptions  | [Get-All-of-a-Customer-s-subscriptions](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}  | [Pobieranie subskrypcji według identyfikatora](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/V1/Customers/{customer_id}/Orders  | [Pobierz wszystkie zamówienia klienta](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/V1/Customers/{customer_id}/Orders/{order_id}  | [Pobieranie zamówienia według identyfikatora](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/V1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus  | [Pobieranie stanu aprowizacji subskrypcji](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}  | [Zarządzanie zamówieniami i Zarządzanie subskrypcją](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}/addons  | [Pobieranie listy dodatków dla subskrypcji](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements | [Uzyskaj listę uprawnień platformy Azure dla subskrypcji](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/V1/Customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus  | [Pobieranie stanu rejestracji subskrypcji](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/V1/Customers/{Customer-tenant-ID}/Transfers  | [Pobierz wszystkie transfery klienta](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [Pobieranie stanu uaktualniania produktu](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/V1/Customers/{Customer-ID}/subscriptions/{Subscription-ID}/Conversions   | [Pobieranie listy ofert konwersji wersji próbnej](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+Zdecydowanie zalecamy, aby partnerzy rozważali użycie interfejsu API dziennika aktywności w celu zwiększenia wydajności i uniknięcia ograniczenia przepustowości.Aby uzyskać więcej informacji na temat tej funkcji, zapoznaj się z informacjami w [tym miejscu](/partner-center/develop/api-throttling-guidance).  
+
+### <a name="next-steps"></a>Następne kroki
+
+Zapoznaj się z [zasobami](/partner-center/develop/api-throttling-guidance)   tego tematu i wykonaj niezbędne czynności.  
 
 _______________
 
