@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 831fbc294bfd82caef77489f74747bb32cf0b12c
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 16975e78c10aeb73bf141c1a1d0a215ac885039c
+ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100334592"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "100645643"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>Operacje zbiorcze dla wspólnych możliwości sprzedaży przy użyciu plików z wartościami rozdzielanymi przecinkami (CSV)
 
@@ -71,7 +71,7 @@ Wiersz adresu klienta 2|Nie|Wiersz adresu 2 firmy klienta.|NE 148
 Miasto klienta|Tak|Miasto, w którym znajduje się organizacja klienta.|Redmond
 Stan klienta|Nie|Stan, w którym znajduje się organizacja klienta.|Waszyngton
 Kod pocztowy klienta|Nie|Kod pocztowy regionu, w którym znajduje się organizacja klienta.|98052
-Kraj klienta|Tak|Kraj/region, w którym znajduje się organizacja klienta. Użyj trzech kodów krajów, jak wspomniano [tutaj]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes).|USA
+Kraj klienta|Tak|Kraj/region, w którym znajduje się organizacja klienta. Użyj dwuliterowych kodów kraju, jak wspomniano [tutaj]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes).|USA
 Identyfikator klienta D-N-S|Nie|Spróbuj pobrać identyfikator DUNS organizacji klienta. Pomoże to w szybszym dopasowaniu organizacji klienta po stronie firmy Microsoft, co pomaga szybciej przypisywać sprzedającemu. Identyfikator DUNS można bezpłatnie uzyskać z tej [witryny sieci Web](https://www.dnb.com/duns-number/lookup.html).|81466849
 Imię kontaktu z klientem|Zależy od|Imię jest wymagane tylko wtedy, gdy potrzebujesz pomocy firmy Microsoft. Imię kontaktu podstawowego od organizacji klienta pracującego nad tym postępowaniem.|Michał
 Nazwisko osoby kontaktowej klienta|Zależy od|Nazwisko jest wymagane tylko wtedy, gdy potrzebujesz pomocy firmy Microsoft. Nazwisko głównej osoby kontaktowej w organizacji klienta, która pracuje nad tym postępowaniem.|Customer
