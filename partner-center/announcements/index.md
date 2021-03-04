@@ -8,20 +8,22 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/25/2021
-ms.openlocfilehash: df9cbea19ff51839e6624aba3e5050c41a55f32e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 03/03/2021
+ms.openlocfilehash: 5db9dc04f6ff4bf1020eb7a97778b152275d5ea5
+ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756157"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102029937"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
 Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często aktualizujemy te informacje, więc warto tu wracać!
 
-|**Kategoria**|**Powiadomienia 2021 lutego**|**Ogłoszone**|
+|**Kategoria**|**2021 komunikatów o marcu**|**Ogłoszone**|
 |---------|:---------|:---------|
+|Możliwości|[Program Microsoft Universal Print jest teraz dostępny w niektórych pakietach](2021-march.md#1)|3 marca|
+|**Kategoria**|**Powiadomienia 2021 lutego**|**Ogłoszone**|
 |Możliwości|[Wycofaj kwalifikacje interfejsów API](2021-february.md#14)|25 lutego|
 |Możliwości|[Podziel się na dużą skalę przy użyciu możliwości operacji zbiorczych Centrum partnerskiego](2021-february.md#13)|25 lutego|
 |Możliwości|[Migrowanie Twoich transakcji z programu Partner Sales Connect (PSC) przy użyciu funkcji migracji nowej transakcji](2021-february.md#12)|25 lutego|

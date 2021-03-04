@@ -8,15 +8,15 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 06/30/2020
-ms.openlocfilehash: f2513213bff38a6296832253a13725ff2508f1f8
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.date: 03/02/2021
+ms.openlocfilehash: ab2f5be77f6480b4a8b47bef0e0fd5096f7c1776
+ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354614"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102029920"
 ---
-# <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Zaktualizowano metodę w celu potwierdzenia akceptacji przez klienta umowy klienta firmy Microsoft
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Potwierdzanie, że klient zaakceptował umowę klienta firmy Microsoft
 
 
 **Odpowiednie role**
@@ -30,8 +30,6 @@ ms.locfileid: "97354614"
 > * Centrum partnerskie dla Microsoft Cloud Niemcy
 > * Centrum partnerskie Microsoft Cloud for US Government
 
->[!NOTE]
->Od 31 stycznia 2020, wszyscy klienci, istniejące i nowe, muszą podpisać nową umowę klienta firmy Microsoft. Aby dowiedzieć się więcej, przeczytaj artykuł [potwierdzenie akceptacji klienta umowy dla klientów firmy Microsoft](confirm-customer-agreement.md).
 
 Jako partner musisz uzyskać zgodę klienta firmy Microsoft, aby móc zamówić produkty i usługi firmy Microsoft dla tego klienta. Aby lepiej pomóc partnerom spełnić wymagania dotyczące zgodności, firma Microsoft prosi partnerów o potwierdzenie akceptacji, dostarczając następujące informacje dotyczące osoby, która zaakceptowali umowę:
 
@@ -46,6 +44,9 @@ Jako partner musisz uzyskać zgodę klienta firmy Microsoft, aby móc zamówić 
 - Data akceptacji
 
 Bezpośredni partnerzy rozliczeń i dostawcy pośredniego muszą potwierdzić akceptację umowy klienta firmy Microsoft przez klienta podczas przeprowadzania transakcji za pośrednictwem usługi Partner Center lub interfejsu API Centrum partnerskiego. Potwierdzenie jest *obowiązkowe*.
+
+>[!NOTE]
+>Od 31 stycznia 2020, wszyscy klienci, istniejące i nowe, muszą podpisać nową umowę klienta firmy Microsoft. Aby dowiedzieć się więcej, przeczytaj artykuł [potwierdzenie akceptacji klienta umowy dla klientów firmy Microsoft](confirm-customer-agreement.md).
 
 Jeśli nie podano potwierdzenia dla danego klienta:
 
