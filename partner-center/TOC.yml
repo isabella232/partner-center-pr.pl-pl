@@ -99,6 +99,11 @@
         - name: Korzyści związane z platformą Azure i chmurą
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
+        - name: Zalety programu Visual Studio
+          href: mpn-benefits-visual-studio.md
+          displayname: 'visual studio, mpn, activate'
+        - name: Korzyści techniczne dotyczące sprzedaży i wdrażania
+          href: technical-benefits.md
     - name: Program Marketplace Rewards
       href: marketplace-rewards.md
     - name: Software Assurance
@@ -447,6 +452,8 @@
           displayName: 'region, regio'
         - name: Request an SLA credit from Microsoft (Żądanie kredytu SLA od firmy Microsoft)
           href: request-credit.md
+        - name: Wpływ zasad podatkowych na wypłatę
+          href: tax-policies-affect-payout.md
     - name: Set an Azure spending budget for your customers (Ustawianie budżetu wydatków związanych z platformą Azure dla klientów)
       href: set-an-azure-spending-budget-for-your-customers.md
       displayName: csp
