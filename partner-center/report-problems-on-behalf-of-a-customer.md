@@ -1,7 +1,7 @@
 ---
 title: Zgłaszanie problemów w imieniu klienta
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, kiedy eskalować problem z obsługą klienta do firmy Microsoft i jak uzyskać bilet pomocy technicznej dla różnych typów usług firmy Microsoft.
@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97153149"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756446"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Zgłoś problem dotyczący usługi w imieniu klienta — w tym informacje o tym, kiedy i jak to zrobić
 
@@ -146,8 +146,6 @@ Jeśli zalogujesz się bezpośrednio do centrum administracyjnego pakietu Office
 Jeśli występują problemy związane z usługą: Dynamics 365 planowanie subskrypcji, licencjonowania, rozliczeń, finansów & operacji, licencji produktu Dynamics 365 lub potrzebujesz dalszej pomocy technicznej:
  
 Skontaktuj się z [pomocą techniczną systemu Dynamics](/dynamics365/customer-engagement/admin/contact-technical-support)
-
-Przeczytaj [Pomoc techniczną dla systemu Microsoft Dynamics](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
 
 ## <a name="next-steps"></a>Następne kroki
 

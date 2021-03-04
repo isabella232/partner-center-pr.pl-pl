@@ -1,19 +1,19 @@
 ---
 title: Wypłaty i profile podatkowe w Centrum partnerskim
 ms.topic: how-to
-ms.date: 11/12/2020
+ms.date: 02/24/2021
 description: Utwórz wypłatę i profil podatkowy i zarządzaj nimi, aby otrzymywać opłaty za Twoje zachęty. Obejmuje tworzenie i używanie różnych profilów oraz zarządzanie nimi.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: ba8c1a811d66a5e6233f625c3981283341ea546c
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624242"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756597"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Twórz wypłaty i profile podatków w centrum partnerskim i zarządzaj nimi
 
@@ -86,10 +86,22 @@ Poniższe sekcje przeprowadzą Cię przez proces tworzenia i zarządzania profil
 
     >[!NOTE]
     >Dostępność metody płatności zależy od reguł programu zachęty.
+
+    - Jeśli Twoja lokalizacja MPN identyfikator jest płatna przez lokalny oddział firmy Microsoft dla danego programu zachęty i umożliwia fakturę LRD (Limited dystrybutora z ograniczoną ryzykiem) jako formę płatności, Profil płatności zostanie wstępnie wypełniony przy użyciu formy płatności LRD kredytowej. W wierszu metody płatności LRD Uwaga dla odpowiedniego programu zachęty i lokalizacji MPN identyfikator użytkownika zobaczysz **potwierdzenie** lub **weryfikację** jako stan w sekcji Profil płatności.
+    
+       Wybierz pozycję **weryfikacja** , aby potwierdzić i zweryfikować szczegóły identyfikatora dzierżawy dostawcy usług kryptograficznych, które są SKOJARZONE z MPNą lokalizacji i metodą płatności, aby otrzymać płatność za fakturę kredytową. W oknie dialogowym **szczegóły faktury kredytowej** Przejrzyj i sprawdź, czy podany identyfikator dzierżawy CSP i szczegółowe informacje są poprawne. Jeśli masz więcej niż jeden identyfikator dzierżawy, uważnie wybierz identyfikator dzierżawy dostawcy usług kryptograficznych, dla którego chcesz otrzymywać płatności. Następnie wybierz pozycję **Potwierdź** , aby potwierdzić, że szczegóły firmowe są poprawne i że płatność zachęty powinna zostać dokonana w wybranym identyfikatorze dzierżawy dostawcy usług kryptograficznych.
+ 
+      Jeśli stan zawiera **potwierdzenie**, przypisanie identyfikatora DZIERŻAWy CSP zostało ukończone i nie jest wymagane wykonanie jakiejkolwiek dalszej akcji. Nadal możesz wybrać pozycję potwierdzone, aby wyświetlić szczegóły przypisania.
+   
+      W krajach, w których partnerzy muszą jawnie zażądać zastosowania zwolnienia podatkowego, w sekcji profil podatkowy w programie zachęty i lokalizacji MPN będzie dostępna opcja zastosowania zwolnienia podatkowego obok pozycji profil podatkowy. Zaznaczenie tego pola wyboru spowoduje zastosowanie korzyści z tytułu zwolnienia z podatku dla Twojej noty kredytowej. 
+   
+      Obecnie ta metoda płatności jest dostępna tylko dla partnerów Australii, Nowej Zelandii i Kanady dla programu zachęty firmy Microsoft w handlu. Jeśli jesteś partnerem lub dostawcą pośrednim w tych trzech krajach zarejestrowanych dla programu MCI i nie zobaczysz LRD kredytowej jako dostępnej metody płatności, potwierdź, że identyfikator dzierżawy jest skojarzony z odpowiednim kontem partnera MPN Location. Więcej informacji na ten temat można znaleźć w artykule [jak zaktualizować profil organizacji](update-your-partner-profile.md).
+
     
 5. Wybierz **walutę**.
 
 6. Po zakończeniu wszystkich pól płatności wybierz pozycję **Prześlij**.
+
 
 ## <a name="create-your-bank-profile"></a>Tworzenie profilu bankowego
 

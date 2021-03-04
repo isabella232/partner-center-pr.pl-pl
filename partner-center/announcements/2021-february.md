@@ -6,19 +6,209 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: brentserbus
 ms.author: brserbus
-ms.custom: announcement
+ms.custom: references_regions
 ms.localizationpriority: high
-ms.date: 02/04/2021
-ms.openlocfilehash: 8348179438ad65449ea75cd5ebce8ba0a92d7b9a
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 02/25/2021
+ms.openlocfilehash: dcdbbda3a93bdf80dfe2c8eacc74ea4f78a7d07e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100541002"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756331"
 ---
 # <a name="february-2021-announcements"></a>Powiadomienia 2021 lutego
 
 Na tej stronie znajdują się szczegółowe informacje o anonsach programu Microsoft Partner Center dla lutego 2021.
+
+________________
+## <a name="put-qualification-apis-are-retired-get-to-retire-in-may"></a><a name="14"></a> Wycofaj kwalifikacje interfejsów API
+
+### <a name="categories"></a>Kategorie
+
+- Data: 25 lutego 2021
+- Możliwości
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Partnerzy sprzedający oferty akademickie, niedochodowe i współpracy w zatoce za pośrednictwem programu dostawcy rozwiązań w chmurze przy użyciu interfejsu API Centrum partnerskiego
+
+### <a name="details"></a>Szczegóły
+
+Ten anons dotyczy ulepszeń Centrum partnerskiego [opublikowanych w grudniu](2020-december.md#1). W ramach tej wersji wdrożono nowe interfejsy API pobierania i wydawania kwalifikacji, a w związku z **tym istniejące interfejsy API dotyczące umieszczania kwalifikacji zostały wycofane i uzyskanie kwalifikacji zostanie wycofane o 4 maja 2021**. W takim przypadku konieczne będzie przejście do korzystania z nowych interfejsów API Centrum partnerskiego w celu zakupu ofert edukacyjnych. Podobnie należy użyć nowego interfejsu API uzyskiwania kwalifikacji do zakupu wstępnie zakwalifikowanych ofert niedochodowych i w serwisie.
+
+### <a name="next-steps"></a>Następne kroki
+
+- **Aktualizacja nowych interfejsów API** dla przejścia z powodzeniem i w odpowiednim czasie
+- **Zapoznaj się z tematem nowe zmiany w interfejsie API Centrum partnerskiego i przewodniku** w zasobach gotowości do działania: [usprawnienia procesu weryfikacji klienta w centrum partnerskim](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- **Podziel się tymi informacjami z odpowiednimi zespołami** w organizacji oraz z odsprzedawcami, aby ułatwić im przygotowanie się do tych zmian
+
+### <a name="questions"></a>Masz pytania?
+
+W przypadku pytań związanych z tym powiadomieniem skontaktuj się z [pomocą techniczną Centrum partnerskiego](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+
+### <a name="change-log"></a>Dziennik zmian
+
+- Luty: Zaktualizowano osie czasu na potrzeby wycofania kwalifikacji GET & PUT
+- Styczeń: przypomnienie dotyczące nadchodzących przestarzałych elementów GET & PUT
+
+________________
+## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a> Podziel się na dużą skalę przy użyciu możliwości operacji zbiorczych Centrum partnerskiego
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-02-25
+- Ulepszone zabezpieczenia i zgodność
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Partnerzy sprzedający w centrum partnerskim
+
+### <a name="summary"></a>Podsumowanie
+
+Partnerzy współsprzedaży mogą teraz eksportować i importować możliwości na dużą skalę przy użyciu nowej funkcji operacji zbiorczych w pliku CSV Centrum partnerskiego.
+
+### <a name="details"></a>Szczegóły
+
+Partnerzy współsprzedaży mogą teraz eksportować i importować możliwości na dużą skalę przy użyciu nowej funkcji operacji zbiorczych w pliku CSV Centrum partnerskiego. Spowoduje to ujednolicenie środowiska udostępniania odwołań i zapewnia ciągłość działania podczas przechodzenia z programu partnerskiego łączenia z firmą. Jest to również alternatywa dla inwestycji w interfejsie API Centrum partnerskiego.
+
+Szczegółowe informacje znajdują się w artykule wymienionym w następnej sekcji. 
+
+### <a name="next-steps"></a>Następne kroki
+
+Dowiedz się więcej o możliwościach operacji zbiorczych, odczytując [operacje zbiorcze dla wspólnych możliwości sprzedaży przy użyciu plików CSV (wartości rozdzielanych przecinkami)](https://docs.microsoft.com/partner-center/bulk-operations).
+
+### <a name="questions"></a>Masz pytania?
+
+Skontaktuj się z [pomocą techniczną](https://partner.microsoft.com/support/?stage=1) , jeśli masz jakieś pytania.
+
+________________
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-using-the-new-deal-migration-feature"></a><a name="12"></a>Migrowanie Twoich transakcji z programu Partner Sales Connect (PSC) przy użyciu funkcji migracji nowej transakcji
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-02-25
+- Możliwości
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Partnerzy z ofertami w systemie PSC
+
+### <a name="summary"></a>Podsumowanie
+
+Partnerzy korzystający z usługi Partner Sales Connect (PSC) mogą skorzystać z nowego środowiska współsprzedaży w centrum partnerskim, przechodząc do funkcji migracji transakcji.
+
+### <a name="details"></a>Szczegóły
+
+Partnerzy korzystający z systemu PSC mogą teraz szybciej pracować, aby wykorzystać nowe środowisko współsprzedażowe w centrum partnerskim i wyeliminować pracę na dwóch platformach przez przeprowadzenie migracji swoich transakcji do Centrum partnerskiego za pomocą funkcji migracji transakcji.
+
+Szczegółowe informacje znajdują się w artykule wymienionym w następnej sekcji.
+
+### <a name="next-steps"></a>Następne kroki
+
+Więcej informacji o funkcji migracji transakcji można znaleźć w sekcji dotyczącej **migracji transakcji PSC** w [przewodniku, aby sprzedawać w centrum partnerskim (komputer) dla partnerów migrowanych z programu Partner Sales Connect (PSC)](https://docs.microsoft.com/partner-center/psc-to-pc).
+
+### <a name="questions"></a>Masz pytania?
+
+Skontaktuj się z [pomocą techniczną](https://partner.microsoft.com/support/?stage=1) , jeśli masz jakieś pytania.
+
+________________
+## <a name="increased-flexibility-with-partner-led-co-sell-deals"></a><a name="11"></a>Zwiększona elastyczność dzięki obstawianiu transakcji w ramach platformy partnerskiej
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-02-25
+- Możliwości
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Partnerzy z gotowymi do współpracy rozwiązaniami
+
+### <a name="summary"></a>Podsumowanie
+
+Partnerzy mogą teraz zapraszać sprzedających firmy Microsoft po utworzeniu współpracy ze współpracą w ramach partnerskiej interakcji, aby ją utworzyć.
+
+### <a name="details"></a>Szczegóły
+
+Partnerzy mają teraz możliwość zapraszania sprzedawcy firmy Microsoft po utworzeniu współpracy ze współsprzedażą w ramach partnerskiej współpracy w celu nawiązania działania. Szczegóły transakcji nie są udostępniane zespołowi sprzedaży firmy Microsoft do momentu, w którym partner nie będzie jawnie szukać pomocy sprzedającej firmy Microsoft. Ten scenariusz jest również uprawniony do bodźca dla sprzedawców firmy Microsoft.
+
+Zwróć uwagę na to, że w każdym momencie przed zamknięciem transakcji można uaktualnić wszystkie transakcje współpracujące z partnerem.
+
+Szczegółowe informacje znajdują się w artykule wymienionym w następnej sekcji.
+
+### <a name="next-steps"></a>Następne kroki
+
+Dowiedz się więcej, wyświetlając nasz przewodnik dotyczący [zarządzania szansami sprzedaży w centrum partnerskim](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities).
+
+### <a name="questions"></a>Masz pytania?
+
+Skontaktuj się z [pomocą techniczną](https://partner.microsoft.com/support/?stage=1) , jeśli masz jakieś pytania.
+
+________________
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="10"></a> Zmiany wymagań dotyczących dołączania dostawcy rozwiązań w chmurze (CSP)
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-02-25
+- Ulepszone zabezpieczenia i zgodność
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Bezpośredni partnerzy rachunków CSP i dostawcy pośrednii, którzy mają nowych lub istniejących klientów w krajach wymienionych w następnej sekcji.
+
+### <a name="summary"></a>Podsumowanie
+
+W ramach naszych zobowiązań, aby pomóc partnerom i klientom w działaniu w oparciu o zaufanie, będziemy żądać dodatkowych informacji o klientach, od 25 marca 2021.
+
+### <a name="details"></a>Szczegóły
+
+Firma Microsoft uruchamia się na zaufaniu. Firma Microsoft dokłada starań, aby zapewnić zgodną, bezpieczną i bezpieczną metodę weryfikacji klienta w przypadku transakcyjnych subskrypcji klientów w programie CSP. 25 marca 2021. wprowadzimy udoskonalenia interfejsu API Centrum partnerskiego i interfejsu użytkownika, które będą miały wpływ na partnerów spełniających następujące kryteria:
+
+1. Partner ma bezpośrednią relację rozliczeń z firmą Microsoft (co oznacza, że partner to bezpośredni partner Bill lub pośredni dostawca).
+2. Partner wykonuje działalność z nowymi lub istniejącymi klientami w następujących krajach:
+    - Tajlandia
+    - Wietnam
+    - Turcja
+    - Polska
+    - Republika Południowej Afryki
+    - Indie
+    - Brazylia
+    - Irak
+    - Myanmar
+    - Sudan Południowy
+    - Arabia Saudyjska
+    - Zjednoczone Emiraty Arabskie
+    - Wenezuela
+
+Partnerzy, którzy spełniają kryteria, będą musieli przesłać **Identyfikator prawny** klienta (znany również jako numer **Inn w organizacji** klienta) i **numer telefonu** podczas dołączania nowych klientów lub modyfikowania istniejących szczegółów klienta. Ci partnerzy mogą również wprowadzić opcjonalne **drugie imię** klienta.
+
+Partnerzy, którzy korzystają z nowych lub istniejących klientów w następujących krajach, zostali już dołączeni do wcześniejszej wersji w listopadzie 2020.
+
+- Armenia
+- Azerbejdżan
+- Białoruś
+- Węgry
+- Kazachstan
+- Kirgistan
+- Mołdawia
+- Rosja
+- Tadżykistan
+- Ukraina
+- Uzbekistan
+
+Partnerzy z klientami na całym świecie będą mieli możliwość od 25 marca 2021 do wprowadzenia **identyfikatora prawnego**, **numeru telefonu** i **nazwy środkowej** dla klientów jako opcjonalne szczegóły.
+
+### <a name="next-steps"></a>Następne kroki
+
+- Zapoznaj się z dokumentacją techniczną i często zadawanymi pytaniami w dedykowanej [kolekcji partnerów](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) (wymagana jest logowanie), aby uzyskać bardziej szczegółowe wskazówki.
+- Przygotuj się do uwzględnienia zmian za pomocą interfejsu API Centrum partnerskiego i środowiska użytkownika sieci Web. Interfejsy API/zestawy SDK będą dostępne do testowania.
+- Pamiętaj o przesłaniu dodatkowych danych podczas dołączania nowych klientów lub modyfikowania istniejących szczegółów klienta.
+- Jeśli używasz rozwiązania dostawcy panelu sterowania (CPV), zapoznaj się z CPV.
+
+### <a name="questions"></a>Masz pytania?
+
+Jeśli masz jakieś pytania dotyczące identyfikatora prawnego (nazywanego również INN lub cyny), skontaktuj się z doradcą podatkowym lub lokalnym biurem podatkowym. Firma Microsoft nie może zapewnić wskazówek dotyczących podatków.
+
+Jeśli potrzebujesz pomocy technicznej w zakresie operacji w firmie Microsoft, [Otwórz żądanie obsługi](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (wymagane jest zalogowanie się).
 
 ________________
 ## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Teraz na żywo: DocuSign migracji do usługi Adobe Sign w celu uzyskania partnerów w ramach umów partnerskich firmy Microsoft (MPAs)
@@ -245,7 +435,7 @@ Oceny Premium są opcjonalnym dodatkiem do Menedżera zgodności i mogą pomóc 
 Zapoznaj się z poniższymi zasobami tego tematu i Udostępnij informacje odpowiednim udziałowcom w organizacji.   
 
 - [Microsoft 365 E5 zabezpieczenia i zgodność](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?rtc=1&activetab=m365-enterprise:primaryr5)
-- [Kompiluj oceny i zarządzaj nimi w programie Microsoft zgodność Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments&preserve-view=true=o365-worldwide)
+- [Kompiluj oceny i zarządzaj nimi w programie Microsoft zgodność Manager](/microsoft-365/compliance/compliance-manager-assessments?preserve-view=true&view=o365-worldwide)
 
 _________________________________________________________
 
@@ -285,23 +475,23 @@ W tym miejscu nowości nowe w module referencje w centrum partnerskim:
 
 #### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>Wszyscy partnerzy korzystający z modułu referencje w centrum partnerskim  
 
-- [Tworzenie nowych połączeń SMB](https://docs.microsoft.com/partner-center/connect-with-your-customers): sprzedawanie i współpraca ze sprzedawcami firmy Microsoft w celu uzyskania możliwości przychodzących związanych z klientami SMB.
+- [Tworzenie nowych połączeń SMB](../connect-with-your-customers.md): sprzedawanie i współpraca ze sprzedawcami firmy Microsoft w celu uzyskania możliwości przychodzących związanych z klientami SMB.
 
-- [Rozwiń uprawnienia odwołań](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals): przypisywanie uprawnień do odwołań użytkowników w zależności od tego, czy chcesz mieć uprawnienia administratora (dostęp do wszystkich możliwości wspólnej sprzedaży) czy uprawnienia użytkowników (dostęp do konkretnych możliwości współsprzedaży).
+- [Rozwiń uprawnienia odwołań](../permissions-overview.md#manage-referrals): przypisywanie uprawnień do odwołań użytkowników w zależności od tego, czy chcesz mieć uprawnienia administratora (dostęp do wszystkich możliwości wspólnej sprzedaży) czy uprawnienia użytkowników (dostęp do konkretnych możliwości współsprzedaży).
 
-- [Migracja użytkowników w ramach partnerskiej współpracy z](https://docs.microsoft.com/partner-center/psc-to-pc#user-migration)użytkownikami: Mapuj istniejący Partner Sales Connect uprawnienia użytkownika do odpowiedniego administratora referencyjnego Centrum partnerskiego i odnosi się do uprawnień użytkownika, a następnie masę Zastosuj nowe uprawnienia dla użytkowników. Przejrzyj [dokumentację uprawnień odwołania](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) , aby dowiedzieć się więcej na temat zarządzania odwołaniami.  
+- [Migracja użytkowników w ramach partnerskiej współpracy z](../psc-to-pc.md#user-migration)użytkownikami: Mapuj istniejący Partner Sales Connect uprawnienia użytkownika do odpowiedniego administratora referencyjnego Centrum partnerskiego i odnosi się do uprawnień użytkownika, a następnie masę Zastosuj nowe uprawnienia dla użytkowników. Przejrzyj [dokumentację uprawnień odwołania](../permissions-overview.md#manage-referrals) , aby dowiedzieć się więcej na temat zarządzania odwołaniami.  
 
 #### <a name="partners-with-co-sell-ready-offers"></a>Partnerzy z ofertami gotowymi do współpracy
 
-- [Współsprzedaż z innymi partnerami](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities): Zaproś innego partnera z naszego zaawansowanego ekosystemu partnerskiego do współsprzedaży z ty i odblokowania dostępu do większej liczby odbiorców klientów.  
+- [Współsprzedaż z innymi partnerami](../manage-co-sell-opportunities.md): Zaproś innego partnera z naszego zaawansowanego ekosystemu partnerskiego do współsprzedaży z ty i odblokowania dostępu do większej liczby odbiorców klientów.  
 
 #### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Partnerzy z ofertą z obsługą transakcji z użyciem rozwiązania do zachęty dla platformy Azure w portalu komercyjnym
 
-- [Korzystaj z funkcji autorejestrowania](https://docs.microsoft.com/partner-center/register-deals): Oszczędź czas i zapewnij dokładność, rejestrując firmy Microsoft komercyjne oferty platformy Azure w portalu Marketplace przy użyciu tego pola wyboru "Ta transakcja/win została przewarta w witrynie Azure Marketplace lub AppSource". Tak długo, jak Twoja data jest poprawna, informacje o rejestracji transakcji zostaną pobrane bezpośrednio z portalu komercyjnego firmy Microsoft.
+- [Korzystaj z funkcji autorejestrowania](../register-deals.md): Oszczędź czas i zapewnij dokładność, rejestrując firmy Microsoft komercyjne oferty platformy Azure w portalu Marketplace przy użyciu tego pola wyboru "Ta transakcja/win została przewarta w witrynie Azure Marketplace lub AppSource". Tak długo, jak Twoja data jest poprawna, informacje o rejestracji transakcji zostaną pobrane bezpośrednio z portalu komercyjnego firmy Microsoft.
 
 ### <a name="questions"></a>Masz pytania?
 
-Jeśli potrzebujesz pomocy przy korzystaniu z nowych funkcji, zapoznaj się z [sekcją odwołania](https://docs.microsoft.com/partner-center/referrals) w naszej bazie wiedzy lub z naszymi materiałami, które są dostępne w naszej [galerii środowiska ze współsprzedażą](https://aka.ms/CoSellExperience) (wymagane jest zalogowanie się).
+Jeśli potrzebujesz pomocy przy korzystaniu z nowych funkcji, zapoznaj się z [sekcją odwołania](../referrals.md) w naszej bazie wiedzy lub z naszymi materiałami, które są dostępne w naszej [galerii środowiska ze współsprzedażą](https://aka.ms/CoSellExperience) (wymagane jest zalogowanie się).
 
 Aby uzyskać pomoc techniczną, możesz [otworzyć bilet z zespołem pomocy technicznej naszych partnerów](https://partner.microsoft.com/support/?stage=1) .
 
@@ -319,7 +509,7 @@ Partnerzy sprzedający oferty akademickie, niedochodowe i współpracy w zatoce 
 
 ### <a name="details"></a>Szczegóły
 
-Ten anons dotyczy ulepszeń Centrum partnerskiego [opublikowanych w grudniu](https://docs.microsoft.com/partner-center/announcements/2020-december#1). W ramach tej wersji wdrożono nowe interfejsy API pobierania i wydawania kwalifikacji, a w związku **z tym istniejące interfejsy API Centrum partnerskiego interfejsów przestawcy są wycofywane do 25 lutego 2021 i otrzymują kwalifikacje w wysokości 4 maja 2021**. W takim przypadku konieczne będzie przechodzenie do korzystania z nowych interfejsów API Centrum partnerskiego, aby można było zakupić oferty edukacyjne i nowy interfejs API uzyskiwania kwalifikacji do zakupu wstępnie wykwalifikowanych ofert niedochodowych i współpracy w zatoce.
+Ten anons dotyczy ulepszeń Centrum partnerskiego [opublikowanych w grudniu](./2020-december.md#1). W ramach tej wersji wdrożono nowe interfejsy API pobierania i wydawania kwalifikacji, a w związku **z tym istniejące interfejsy API Centrum partnerskiego interfejsów przestawcy są wycofywane do 25 lutego 2021 i otrzymują kwalifikacje w wysokości 4 maja 2021**. W takim przypadku konieczne będzie przechodzenie do korzystania z nowych interfejsów API Centrum partnerskiego, aby można było zakupić oferty edukacyjne i nowy interfejs API uzyskiwania kwalifikacji do zakupu wstępnie wykwalifikowanych ofert niedochodowych i współpracy w zatoce.
 
 ### <a name="next-steps"></a>Następne kroki
 

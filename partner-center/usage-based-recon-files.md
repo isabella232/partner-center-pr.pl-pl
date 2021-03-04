@@ -7,19 +7,24 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 04ad6a0c2c7a6330d2e1230f046ee78b2a7405c8
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: d3941d09d6ec808f3d188521c4f0c51c9a6d0222
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "92529200"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755759"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Omówienie plików uzgadniania opartych na użyciu i ich określonych pól w centrum partnerskim
 
 Dotyczy:
 
 - Centrum partnerskie
-- Centrum partnerskie dla Microsoft Cloud dla instytucji rządowych USA
+- Centrum partnerskie Microsoft Cloud for US Government
+
+**Odpowiednie role**
+
+- Administrator konta
+- Administrator rozliczeń
 
 Aby uzgodnić opłaty za użycie klienta, porównaj **ResellerID**, **resprzedawcaname** i **ResellerBillableAccount** z pliku UZGADNIAnia z **nazwą klienta** i **identyfikatorem subskrypcji** z Centrum partnerskiego.
 
@@ -46,7 +51,7 @@ Poniższe pola wyjaśniają, które usługi zostały użyte i stawka.
 | ServiceType | Konkretny typ usługi platformy Azure. | *Service Bus — poszczególne lub dodatki*, *SQL Azure Database — Business lub Web Edition* |
 | ResourceGuid | Konkretny unikatowy identyfikator dla wszystkich danych usługi i struktury cenowej. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | ResourceName | Nazwa zasobu platformy Azure. | *Transfer danych (GB)*, *transfer danych wychodzących (GB)* |
-| Region | Region, którego dotyczy użycie. Używane przede wszystkim do przypisywania stawek do transferów danych, ponieważ stawki różnią się w zależności od regionu. | *Azja i Pacyfik*, *Europa*, *Ameryka Łacińska*, *Ameryka Północna* |
+| Region (Region) | Region, którego dotyczy użycie. Używane przede wszystkim do przypisywania stawek do transferów danych, ponieważ stawki różnią się w zależności od regionu. | *Azja i Pacyfik*, *Europa*, *Ameryka Łacińska*, *Ameryka Północna* |
 | SKU | Unikatowy identyfikator firmy Microsoft dla oferty. | *7UD — 00001* |
 | DetailLineItemId | Identyfikator i ilość itemize różne stawki za usługę lub zasób w danym okresie rozliczeniowym. W przypadku cen warstwowych platformy Azure może istnieć jedna stawka za określoną liczbę jednostek rozliczanych, a następnie inna stawka po tej ilości. | *1* |
 | ConsumedQuantity | Ilość zużytej usługi (na przykład godziny lub GB) w okresie raportowania. Obejmuje również wszelkie rozliczane użycie z poprzednich okresów raportowania. | *11* |
@@ -71,3 +76,7 @@ Poniższe pola wyjaśniają, które usługi zostały użyte i stawka.
 | MeteredServiceType | Podnagłówek dla pola **MeteredService** , które zapewnia dodatkowe wyjaśnienie użycia usługi platformy Azure. | *ZEWNĘTRZNYCH* |
 | Project | Zdefiniowana przez klienta nazwa wystąpienia usługi. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | ServiceInfo | Liczba połączeń Azure Service Bus, które zostały zainicjowane i wykorzystane w danym dniu. | *1,000000 połączeń/30 dni* (Jeśli w ciągu 30-dniowego miesiąca zarejestrowano się indywidualnie), *25 połączeń/30 dni — używane: 1,000000* (Jeśli korzystasz z 25 pakietów Service Bus połączenia z zainicjowaną obsługą 1 w tym dniu) |
+
+## <a name="next-steps"></a>Następne kroki
+
+- [Informacje o polach w plikach uzgodnień opartych na licencji Centrum partnerskiego](license-based-recon-files.md)

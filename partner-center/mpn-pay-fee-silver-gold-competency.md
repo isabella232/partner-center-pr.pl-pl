@@ -8,12 +8,12 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042688"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101757396"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Jak uregulować opłatę skojarzoną z kompetencją Silver lub Gold
 
@@ -37,7 +37,7 @@ W przeciwnym razie wykonaj następujące kroki, aby uregulować opłatę za komp
 
 - Spełniasz już [wymagania](https://partner.microsoft.com/membership/competencies) w celu uzyskania określonej kompetencji Silver lub Gold.
 
-- Przypisano Ci rolę centrum partnerskiego [administratora globalnego lub administratora MPN partnera](https://docs.microsoft.com/partner-center/permissions-overview). Jeśli jesteś użytkownikiem-gościem bez jednej z tych ról, nie będziesz mieć dostępu do niektórych stron Centrum partnerskiego opisanych poniżej. Jeśli tak się stanie, [skontaktuj się z administratorem globalnym](https://docs.microsoft.com/partner-center/find-your-role) i poproś o przypisanie odpowiedniej roli. 
+- Przypisano Ci rolę centrum partnerskiego [administratora globalnego lub administratora MPN partnera](./permissions-overview.md). Jeśli jesteś użytkownikiem-gościem bez jednej z tych ról, nie będziesz mieć dostępu do niektórych stron Centrum partnerskiego opisanych poniżej. Jeśli tak się stanie, [skontaktuj się z administratorem globalnym](./find-your-role.md) i poproś o przypisanie odpowiedniej roli. 
 
 1. Korzystając z poświadczeń konta służbowego organizacji, zaloguj się na [pulpicie nawigacyjnym](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
 
@@ -54,7 +54,7 @@ W przeciwnym razie wykonaj następujące kroki, aby uregulować opłatę za komp
 
 4. Na stronie **szczegóły zakupu** Przejrzyj szczegóły i potwierdź je.
 
-   (Dowiedz się więcej o aktualizowaniu [informacji **identyfikacyjnych podatkowych** firmy](https://docs.microsoft.com/partner-center/organization-tax-info) lub [ **rachunku firmy na** adres firmy](https://docs.microsoft.com/partner-center/mpn-get-action-pack)).
+   (Dowiedz się więcej o aktualizowaniu [informacji **identyfikacyjnych podatkowych** firmy](./organization-tax-info.md) lub [ **rachunku firmy na** adres firmy](./mpn-get-action-pack.md)).
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Członkostwo oferuje stronę szczegółów zakupu z preferencjami płatności." border="false":::
 

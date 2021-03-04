@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 10/29/2020
-ms.openlocfilehash: f74dcdc240553cea2c9d226364a8bd6242acc200
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492640"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756171"
 ---
 # <a name="payout-statements"></a>Zestawienia wypłat
 
@@ -138,7 +138,7 @@ Aby wyświetlić więcej szczegółów na temat zdobywania, wybierz pozycję **P
 | claimId | Unikatowy identyfikator dla żądania | Zachęty — tylko niektóre programy |
 | customerCountry | Kraj/region klienta | platform handlowych |
 | customerEmail |  |  |
-| customerName | Zawsze będzie puste | Tylko programy motywacyjne (wyjątek: OEM) i Marketplace |
+| customerName | Może być puste | Tylko programy motywacyjne (wyjątek: OEM) i Marketplace. W przypadku transakcji dostawcy CSP w witrynie Marketplace zostanie wyświetlona nazwa dostawcy usług kryptograficznych. |
 | customerTenantId |  |  |
 | distributorId | Identyfikator dystrybutora | Zachęty — tylko niektóre programy |
 | dystrybutorname | Nazwa dystrybutora | Zachęty — tylko niektóre programy |
@@ -348,7 +348,7 @@ W poniższej tabeli opisano każdą kolumnę w instrukcji historycznej.
 | Opłata za Sklep | Odsetek potwierdzeń netto przechowywanych przez firmę Microsoft jako opłata za tworzenie aplikacji lub dodatków dostępnych w sklepie |
 | Dalsze aplikacje | Przychody netto pomniejszone o opłatę za Sklep |
 | Potrącone podatki | Kwota potrąconego podatku dochodowego (z uwzględnieniem **zastrzeżonego** pliku CSV) |
-| Payment | Aplikacja pozyskuje mniejsze kwoty dotyczące potrącenia podatku dochodowego (kwota pokazana w walucie transakcji). Nie uwzględniono w **zastrzeżonym** pliku CSV. |
+| Płatność | Aplikacja pozyskuje mniejsze kwoty dotyczące potrącenia podatku dochodowego (kwota pokazana w walucie transakcji). Nie uwzględniono w **zastrzeżonym** pliku CSV. |
 | Szybkość FX | Obcy kurs wymiany używany do konwersji waluty transakcji na walutę płatności |
 | Waluta płatności | Waluta, w której dokonywana jest płatność |
 | Przekonwertowana płatność | Kwota płatności konwertowana na walutę płatności przy użyciu kursu FX |

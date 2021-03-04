@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 412abdd0de9154d897252004440f7d8d153ec74b
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: 927135e3615d554ed4180dc9100ab0c4d5a3586e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834823"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756045"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Sprzedawanie oprogramowania lokalnego za pomocą programu dostawcy rozwiązań w chmurze (CSP)
 
@@ -48,7 +48,7 @@ Po zakupieniu oprogramowania klienci muszą ją pobrać. Użyj poniższej proced
 >[!NOTE]
 >Tylko klienci mogą wyświetlać klucze produktów i informacje pobierane w centrum administracyjnym firmy Microsoft. Partnerzy nie mogą zobaczyć tych informacji.
 
-Jeśli ty lub klienci chcą dowiedzieć się więcej o pobieraniu kluczy licencji, zobacz [Pobieranie oprogramowania i kluczy licencji produktów](https://go.microsoft.com/fwlink/p/?linkid=2152525).
+Jeśli ty lub klienci chcą dowiedzieć się więcej o pobieraniu kluczy licencji, zobacz [Pobieranie oprogramowania i kluczy licencji produktów](/microsoft-365/admin/setup/download-software-licenses-csp).
 
 ## <a name="cancel-a-purchase"></a>Anulowanie zakupu
 

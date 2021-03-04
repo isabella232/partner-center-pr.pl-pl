@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/05/2021
-ms.openlocfilehash: 7974d6f02951db944a44634543cda5bba49df976
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 02/25/2021
+ms.openlocfilehash: df9cbea19ff51839e6624aba3e5050c41a55f32e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100540985"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756157"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
@@ -22,6 +22,11 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 
 |**Kategoria**|**Powiadomienia 2021 lutego**|**Ogłoszone**|
 |---------|:---------|:---------|
+|Możliwości|[Wycofaj kwalifikacje interfejsów API](2021-february.md#14)|25 lutego|
+|Możliwości|[Podziel się na dużą skalę przy użyciu możliwości operacji zbiorczych Centrum partnerskiego](2021-february.md#13)|25 lutego|
+|Możliwości|[Migrowanie Twoich transakcji z programu Partner Sales Connect (PSC) przy użyciu funkcji migracji nowej transakcji](2021-february.md#12)|25 lutego|
+|Możliwości|[Zwiększona elastyczność dzięki obstawianiu transakcji w ramach platformy partnerskiej](2021-february.md#11)|25 lutego|
+|Możliwości|[Zmiany w dołączaniu do dostawcy rozwiązań w chmurze (CSP)](2021-february.md#10)|25 lutego|
 |Możliwości|[Teraz na żywo: DocuSign migracji do usługi Adobe Sign w celu uzyskania partnerów w ramach umów partnerskich firmy Microsoft (MPAs)](2021-february.md#9)|16 lutego|
 |Rozwijaj swoją firmę|[Przypomnienie: Wprowadzenie ograniczenia przepustowości interfejsu API dla partnerów wywołujących interfejsy API centrum partnerskiego](2021-february.md#8)|16 lutego|
 |Możliwości|[Wprowadzenie do tematów związanych z Viva firmy Microsoft](2021-february.md#7)|12 lutego|

@@ -9,18 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4bf1c7a2abceffc812666456ddae252fca70d8f1
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492725"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755868"
 ---
 # <a name="view-your-incentives-program-details"></a>Wyświetl szczegóły programu zachęty
-
-**Dotyczy**
-
-- Centrum partnerskie
 
 **Odpowiednie role**
 
@@ -76,4 +72,5 @@ Te informacje obejmują łączne płatności i zarobki związane z zachętami od
 Możesz również użyć [interfejsu API wypłaty partnera](https://apidocs.microsoft.com/services/partnerpayouts) , aby połączyć się i uzyskać bezpośrednią transakcję oraz dane dotyczące płatności. Zobacz [instrukcje wypłaty](payout-statement.md) , aby dowiedzieć się więcej.
 
 ## <a name="next-steps"></a>Następne kroki
+
 - [Zestawienia wypłat](payout-statement.md)

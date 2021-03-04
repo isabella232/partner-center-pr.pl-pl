@@ -1,5 +1,5 @@
 ---
-title: Zarządzanie przydzielonymi płatnościami
+title: Zarządzanie nieprzydzielonymi płatnościami
 ms.topic: how-to
 ms.date: 06/08/2020
 ms.service: partner-dashboard
@@ -9,18 +9,19 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bddf0482e20817f9087a3610104652dabdef72c4
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: d3920cbdc52a844477aacac9c7ac2122c14edeba
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92529477"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755806"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Zarządzanie przydzielonymi płatnościami na stronie rozliczeniowej Centrum partnerskiego
 
-**Dotyczy**
+**Odpowiednie role**
 
-- Centrum partnerskie
+- Administrator rozliczeń
+- Administrator konta
 
 Czasami może zostać wyświetlona Niezaalokowana płatność na stronie rozliczeń. Przydzieloną płatność to płatność dokonana w firmie Microsoft, która nie została zastosowana do konkretnej faktury.
 
@@ -35,3 +36,7 @@ Czasami może zostać wyświetlona Niezaalokowana płatność na stronie rozlicz
 Aby zastosować tę kwotę do określonej faktury, wiadomości e-mail bposcapp@microsoft.com i poinformować nas o tym, do której faktury zastosować tę płatność. Pamiętaj o uwzględnieniu wszystkich informacji, które byłyby w przypadku dokonania płatności. Twoja strona rozliczenia będzie aktualizowana w ciągu 5-6 dni. 
 
 Nieprzypisane płatności pozostają bez przydziału, dopóki nie zostaną przypisane do faktury. 
+
+## <a name="next-steps"></a>Następne kroki
+
+- [Rozliczanie za komercyjne produkty i subskrypcje w witrynie Marketplace w centrum partnerskim](csp-commercial-marketplace-billing.md)

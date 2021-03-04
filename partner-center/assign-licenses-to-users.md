@@ -1,7 +1,7 @@
 ---
 title: Zarządzanie użytkownikami dla kont klientów
 ms.topic: how-to
-ms.date: 05/13/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Zarządzanie użytkownikami dla klientów w centrum partnerskim — tworzenie kont użytkowników, Dodawanie lub usuwanie licencji użytkowników, resetowanie haseł oraz usuwanie lub przywracanie kont użytkowników.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 0e2bb4ceb146174da83e9c08a9ff030380298bd0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570743"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756076"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Zarządzanie użytkownikami i licencjami użytkowników dla kont klientów 
 
@@ -28,6 +28,9 @@ ms.locfileid: "96570743"
 Możesz tworzyć i usuwać nowych użytkowników na koncie klienta. Można również przywrócić co najmniej jedno konto użytkownika, które zostało wcześniej usunięte w ciągu 30 dni od usunięcia. Zostaną również przywrócone poprzednie przypisania subskrypcji użytkownika (przy założeniu, że ich poprzednie alokacje są dostępne).
 
 Gdy kupisz nowe subskrypcje dla klienta, klient powinien podać listę wszystkich użytkowników, którzy będą potrzebować kont, ich uprawnień użytkowników i usług, których potrzebuje każdy użytkownik.  
+
+>[!NOTE]
+>Sekcja **Użytkownicy i licencje** na karcie **Klient** pokazuje wszystkich użytkowników utworzonych w dzierżawie określonego klienta, w tym użytkowników, którzy mają licencje zakupione od innego partnera CSP lub z innego kanału zakupu.
 
 Możesz jednocześnie [przypisać subskrypcje do wielu użytkowników](bulk-license-provisioning-for-multiple-users.md) , importując nazwy przy użyciu [pliku arkusza kalkulacyjnego zgodnego z programem Excel](adding-multiple-users-to-a-customer-account.md).
 
@@ -72,7 +75,7 @@ Poniższe kroki dotyczą dodawania lub usuwania licencji użytkowników dla prod
 
 ## <a name="reset-a-users-password-for-a-customer"></a>Resetowanie hasła użytkownika dla klienta
 
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard) Centrum partnerskiego.
 
 2. W menu Centrum partnerskiego wybierz pozycję **klienci**, a następnie wybierz klienta z listy.
 

@@ -1,19 +1,19 @@
 ---
 title: Łącznik współsprzedającego dla Centrum partnerskiego programu Dynamics 365 CRM
 ms.topic: how-to
-ms.date: 02/16/2021
+ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Zsynchronizuj odwołania w centrum partnerskim z łącznikiem współsprzedawanym dla programu Dynamics 365 CRM. Sprzedawcy mogą następnie współsprzedawać z firmą Microsoft w ramach systemów CRM.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: e465130b96886cf2bb77bcd94f56c1a12545a5d5
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645768"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756794"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Łącznik współsprzedawanych produktów Dynamics 365 CRM — Omówienie
 
@@ -31,11 +31,11 @@ Rozwiązanie jest oparte na rozwiązaniu Microsoft energooszczędne i korzysta z
 |**Tematy**   |**Szczegóły**   |**Linki**   |
 |--------------|--------------------|------|
 |Identyfikator Microsoft Partner Network |Potrzebujesz prawidłowego identyfikatora MPN|Aby dołączyć [MPN](https://partner.microsoft.com/)|
-|Gotowe do rozsprzedaj|Twoje rozwiązanie do adresów IP/usług musi być gotowe do współpracy.|[Sprzedawanie z firmą Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
+|Gotowe do rozłożenia|Twoje rozwiązanie do adresów IP/usług musi być gotowe do współpracy.|[Sprzedawanie z firmą Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Konto Centrum partnerskiego|IDENTYFIKATOR MPN skojarzony z dzierżawcą Centrum partnerskiego musi być taki sam jak identyfikator MPN skojarzony z rozwiązaniem do współsprzedażu. Przed wdrożeniem łączników Sprawdź, czy w portalu Centrum partnerskiego są widoczne swoje odwołania do współsprzedawcy.|[Zarządzanie kontem](create-user-accounts-and-set-permissions.md)|
 |Role użytkowników Centrum partnerskiego|Pracownik, który zainstaluje łączniki i korzysta z nich, musi być administratorem odwołań|[Przypisywanie ról i uprawnień użytkowników](create-user-accounts-and-set-permissions.md)| 
 |Dynamics 365 CRM|Rola użytkownika programu CRM to administrator systemu lub Konfigurator systemu|[Przypisywanie ról w usłudze Dynamics 365](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
-|Konto przepływu automatyzacji|Utwórz nowe środowisko produkcyjne przy użyciu bazy danych do testowania/przemieszczania i produkcji. Jeśli masz istniejące środowisko produkcyjne z bazą danych, można je ponownie wykorzystać. Użytkownik, który zamierza zainstalować rozwiązanie łącznika, musi mieć licencję na automatyzację i dostęp do tego środowiska. Możesz monitorować postęp i uzyskać więcej szczegółów, jeśli instalacja nie powiedzie się [w programie, klikając](https://flow.microsoft.com/) pozycję Zobacz historię w obszarze rozwiązania.|[Utwórz środowisko lub Zarządzaj nim](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-with-a-database)|
+|Konto przepływu automatyzacji|Utwórz nowe środowisko produkcyjne przy użyciu bazy danych do testowania/przemieszczania i produkcji. Jeśli masz istniejące środowisko produkcyjne z bazą danych, można je ponownie wykorzystać. Użytkownik, który zamierza zainstalować rozwiązanie łącznika, musi mieć licencję na automatyzację i dostęp do tego środowiska. Możesz monitorować postęp i uzyskać więcej szczegółów, jeśli instalacja nie powiedzie się [w programie, klikając](https://flow.microsoft.com/) pozycję Zobacz historię w obszarze rozwiązania.|[Utwórz środowisko lub Zarządzaj nim](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
 
 ## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Zainstaluj synchronizację odwołań Centrum partnerskiego dla programu Dynamics 365 (rozwiązanie do automatyzowania zarządzania)
 
@@ -110,7 +110,7 @@ Przed zainstalowaniem, skonfigurowaniem i dostosowaniem rozwiązania do automaty
 
 1. Wróć do strony **rozwiązania** i wybierz pozycję **domyślne rozwiązanie**. Wybierz pozycję **odwołanie do połączenia (wersja zapoznawcza)** , klikając pozycję **wszystkie**.
 
-:::image type="content" source="images/cosellconnectors/dynamics-3.png" alt-text="Połącz":::
+:::image type="content" source="images/connection-reference-video.gif" alt-text="Edytowanie połączeń":::
 
 2. Edytuj poszczególne połączenia po jednym, wybierając ikonę z trzema kropkami. Dodaj odpowiednie połączenia.
 
@@ -141,9 +141,9 @@ Interfejsy API elementu webhook Centrum partnerskiego umożliwiają rejestrację
 
 3. Wybierz ikonę **kopiowania** , aby skopiować podany adres URL post protokołu HTTP.
 
-   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="Kopiowanie adresu URL":::
+ :::image type="content" source="images/webhook-video.gif" alt-text="Rejestrowanie zmian zasobów przy użyciu elementów webhook":::
 
-4. Teraz wybierz pozycję "Rejestracja elementu webhook Centrum partnerskiego (wersja zapoznawcza programu testowego)", a następnie wybierz pozycję **Uruchom**.
+4. Wybierz pozycję "Rejestracja elementu webhook Centrum partnerskiego (wersja zapoznawcza programu testowego)", a następnie wybierz pozycję **Uruchom**.
 
 5. Upewnij się, że okno "przebieg przepływu" otwiera się w okienku po prawej stronie, a następnie kliknij przycisk **Kontynuuj**.
 
@@ -205,7 +205,7 @@ Aby zaktualizować wartość zmiennej środowiskowej:
 
 3. Zaktualizuj **bieżącą wartość** (nie Aktualizuj wartości domyślnej) przy użyciu opcji **Nowa wartość** i podaj wartość. Wartość musi być zgodna z typem danych zmiennej dla przykładu. tak/nie typ danych akceptuje wartość tak lub nie.
 
-:::image type="content" source="images/cosellconnectors/dynamics-5.png" alt-text="Pole edycji dla wartości domyślnych":::
+:::image type="content" source="images/environment-variables-video.gif" alt-text="Aktualizowanie zmiennych środowiskowych":::
 
 - Kompleksowa synchronizacja odwołań dwukierunkowych
 

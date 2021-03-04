@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.openlocfilehash: d07555d3559b2f8dbbb15f9cfe90753e50db0c04
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100541026"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756292"
 ---
 # <a name="january-2021-announcements"></a>Ogłoszenia ze stycznia 2021 r.
 
@@ -86,7 +86,7 @@ W przypadku pytań związanych z tym powiadomieniem [Pomoc techniczna Centrum pa
 - 7 stycznia 2021: dodatkowy scenariusz uwzględniony dla fazy 1 i fazy 2
 - 28 stycznia 2021: 
     -    Prezentacja fazy 1 jest aktywna 
-    -    Wyjaśnienie, gdy Wielka Brytania nie jest uwzględniona w Unii Europejskiej/EFTA, są one częścią [Europejskiego regionu i rynku firmy Microsoft](https://docs.microsoft.com/partner-center/regional-authorization-overview) .
+    -    Wyjaśnienie, gdy Wielka Brytania nie jest uwzględniona w Unii Europejskiej/EFTA, są one częścią [Europejskiego regionu i rynku firmy Microsoft](../regional-authorization-overview.md) .
 
 
 ________________
@@ -170,13 +170,13 @@ Wszyscy pośrednicy odsprzedawca & dostawców pośrednich w ramach programu za p
 
 ### <a name="details"></a>Szczegóły
 
-Implementacja umowy partnerskiej firmy Microsoft (MPA) dla pośrednich odsprzedawcaów jest obecnie w toku. Aby zapewnić dalsze wsparcie dla dostawców i odsprzedawcaów, mamy opinię i teraz skonsolidowano typowe zapytania dotyczące akceptowania od MPA do nowej [strony często zadawanych pytań](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq).
+Implementacja umowy partnerskiej firmy Microsoft (MPA) dla pośrednich odsprzedawcaów jest obecnie w toku. Aby zapewnić dalsze wsparcie dla dostawców i odsprzedawcaów, mamy opinię i teraz skonsolidowano typowe zapytania dotyczące akceptowania od MPA do nowej [strony często zadawanych pytań](../mpa-indirect-provider-faq.md).
 
 ### <a name="next-steps"></a>Następne kroki
 
-**Odsprzedawcy Pośrednii:** Jeśli nie zaakceptowano MPA, zapoznaj się z dodatkiem MPa [często zadawanych pytań](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) i postępuj zgodnie ze wskazówkami krok po kroku dostępnymi [tutaj](https://docs.microsoft.com/partner-center/microsoft-partner-agreement) , aby zaakceptować MPa.
+**Odsprzedawcy Pośrednii:** Jeśli nie zaakceptowano MPA, zapoznaj się z dodatkiem MPa [często zadawanych pytań](../mpa-indirect-provider-faq.md) i postępuj zgodnie ze wskazówkami krok po kroku dostępnymi [tutaj](../microsoft-partner-agreement.md) , aby zaakceptować MPa.
 
-**Dostawcy Pośrednii:** Zaangażuj się z pośrednimi odsprzedawcami i obsługuj je, korzystając z platformy [MPa często zadawanych pytań](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) i wskazówek krok po kroku dostępnych [tutaj](https://docs.microsoft.com/partner-center/microsoft-partner-agreement).
+**Dostawcy Pośrednii:** Zaangażuj się z pośrednimi odsprzedawcami i obsługuj je, korzystając z platformy [MPa często zadawanych pytań](../mpa-indirect-provider-faq.md) i wskazówek krok po kroku dostępnych [tutaj](../microsoft-partner-agreement.md).
 
 ### <a name="questions"></a>Masz pytania?
 
@@ -207,8 +207,8 @@ Poniżej przedstawiono nowe typy operacji:
 ### <a name="next-steps"></a>Następne kroki
 
 - Skorzystaj z nowych typów operacji, aby śledzić zdarzenia, gdy DAP został zatwierdzony przez klienta i zakończony przez klienta.  
-- [Pobierz rekord działania Centrum partnerskiego — Deweloper aplikacji Centrum partnerskiego | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
-- [Inspekcja zasobów — Deweloper aplikacji Centrum partnerskiego | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/auditing-resources)
+- [Pobierz rekord działania Centrum partnerskiego — Deweloper aplikacji Centrum partnerskiego | Microsoft Docs](/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [Inspekcja zasobów — Deweloper aplikacji Centrum partnerskiego | Microsoft Docs](/partner-center/develop/auditing-resources)
 
 ### <a name="questions"></a>Masz pytania?
 
@@ -287,9 +287,9 @@ Partnerzy są zdecydowanie zachęcani do zapoznania się z następującymi zasob
 #### <a name="partner-earned-credit-pec"></a>Kredyt uzyskany przez partnera (PEC)
 
 - [Informacje na temat dochodów uzyskanych przez partnerów (Przewodnik) (Microsoft. com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
-- [Partner uzyskał kredyt — przegląd — centrum partnerskie | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
-- [Środki dla partnerów w ramach usług zarządzanych — centrum partnerskie | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
-- [Role, uprawnienia dla partnerów — Centrum partnerskie | Microsoft Docs](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [Partner uzyskał kredyt — przegląd — centrum partnerskie | Microsoft Docs](../partner-earned-credit.md?branch=main)
+- [Środki dla partnerów w ramach usług zarządzanych — centrum partnerskie | Microsoft Docs](../partner-earned-credit-explanation.md?branch=main)
+- [Role, uprawnienia dla partnerów — Centrum partnerskie | Microsoft Docs](../azure-roles-perms-pec.md)
 - [Moduł szkolenia na żądanie na platformie Azure w modułach CSP (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
 
 #### <a name="the-new-commerce-experience"></a>Nowe środowisko komercyjne
@@ -321,7 +321,7 @@ Należy również pamiętać, że obecnie wycofane oprogramowanie partnerskie i 
 ### <a name="next-steps"></a>Następne kroki
 
 - Pobierz listę cenową **oprogramowania CSP wieczystą** w sekcji **oprogramowanie** na stronie [oferty &](https://partnercenter.microsoft.com/pcv/sales) . Listę nowo dodanych produktów i lokalizacje geograficzne można znaleźć [tutaj](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
-- Zapoznaj się z [artykułem w centrum administracyjnym](https://go.microsoft.com/fwlink/p/?linkid=2152525) , w którym klucze licencji bezterminowych i produktów programu Microsoft 365 Center są pobierane z klientów, którzy są gotowi do pobrania ich oprogramowania i kluczy licencji.
+- Zapoznaj się z [artykułem w centrum administracyjnym](/microsoft-365/admin/setup/download-software-licenses-csp) , w którym klucze licencji bezterminowych i produktów programu Microsoft 365 Center są pobierane z klientów, którzy są gotowi do pobrania ich oprogramowania i kluczy licencji.
 - Zapoznaj się z bezterminowym oprogramowaniem w materiałach gotowości [programu Cloud Solution Provider](https://partner.microsoft.com/resources/collection/software-in-csp#/) . Użyj tej [mapy gotowości](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) , aby szybko zlokalizować odpowiednie informacje dla roli.
 
 ### <a name="questions"></a>Masz pytania?

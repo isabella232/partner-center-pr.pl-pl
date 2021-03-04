@@ -1,7 +1,7 @@
 ---
 title: Wskaźniki udziałów partnerów — OBSŁUGIWANIE
 ms.topic: article
-ms.date: 02/03/2021
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się więcej na temat siedmiu wskaźników udziału partnerskiego (PCI), które pokazują partnerów, w jaki sposób uzyskać kompetencje Business Applications w chmurze Silver lub Gold.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530820"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756566"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Używanie wskaźników udziałów partnerów w celu uzyskania kompetencji Business Applications w chmurze
 
@@ -155,7 +155,7 @@ Po otrzymaniu jednego z następujących skojarzeń między klientami a klientem 
 - Jesteś partnerem usługi Record (CPOR) dla płatnej subskrypcji należącej do dzierżawy tego klienta
 - Jesteś cyfrowym partnerem usługi Record (DPOR) dla płatnej subskrypcji należącej do dzierżawy tego klienta
 
-Partner zostanie CPOR, jeśli ustanowił skojarzenie z klientem na poziomie subskrypcji za pośrednictwem usługi Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) lub rozwiązania Dynamics 365 [Online Services Usage](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (OSU).
+Partner zostanie CPOR, jeśli ustanowił skojarzenie z klientem na poziomie subskrypcji za pośrednictwem usługi Dynamics 365 Online Services Advisor (OSA) lub rozwiązania Dynamics 365 Online Services Usage (OSU). Aby dowiedzieć się więcej, zobacz [Opis SKOJARZEŃ CPOR](incentives-customer-associations-intro.md).
 
 Partner zostanie DPOR, jeśli ustanowił skojarzenie z klientem na poziomie subskrypcji w ramach produktu.
 
@@ -295,7 +295,7 @@ Deweloperzy są [wskaźnikami możliwości](partner-contribution-indicators.md#p
 - Punkty dla deweloperów są oparte na migawce bieżącego miesiąca z maksymalnie 5 punktami dostępności.
 
 - Po przejściu deweloperzy mogą otrzymywać środki w wysokości:
-  - PL-400<br/>**lub**
+  - PL-400<br/>**oraz**
   - MB – 200 \* **i** jeden z następujących egzaminów:
     - MB-400 \* lub MB2-0,16\*\*
 

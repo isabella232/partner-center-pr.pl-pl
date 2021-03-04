@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99835071"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756705"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Często zadawane pytania dotyczące zachęt
 
@@ -67,9 +67,9 @@ Prawdopodobnie nie widzisz bodźców, że nie masz odpowiednich uprawnień. Wyko
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Na stronie przeglądu zachęt brakuje niektórych rejestracji.
 
-W przypadku otrzymania zaproszenia od lub zarejestrowania w programie zachęty, który nie jest już widoczny na pulpicie nawigacyjnym, należy dokładnie sprawdzić, czy masz odpowiedni dostęp. Tylko użytkownicy z rolą zachęty użytkownika i zachęty mogą zobaczyć program. Zobacz [Znajdź rolę](https://docs.microsoft.com/partner-center/find-your-role).
+W przypadku otrzymania zaproszenia od lub zarejestrowania w programie zachęty, który nie jest już widoczny na pulpicie nawigacyjnym, należy dokładnie sprawdzić, czy masz odpowiedni dostęp. Tylko użytkownicy z rolą zachęty użytkownika i zachęty mogą zobaczyć program. Zobacz [Znajdź rolę](./find-your-role.md).
 
-Jeśli potrzebujesz zmienić rolę lub uprawnienia, skontaktuj się z administratorem globalnego lub konta firmowego. Aby dowiedzieć się, kim są te osoby, przeczytaj temat [Znajdowanie administratora globalnego](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin).
+Jeśli potrzebujesz zmienić rolę lub uprawnienia, skontaktuj się z administratorem globalnego lub konta firmowego. Aby dowiedzieć się, kim są te osoby, przeczytaj temat [Znajdowanie administratora globalnego](./find-your-role.md#find-your-global-admin).
 
 Należy pamiętać, że na stronie Przegląd zostaną wyświetlone tylko rejestracje skojarzone z kontem globalnym partnera (PGA) skojarzonym z dzierżawą usługi Azure AD. Jeśli firma ma więcej niż jeden PGA, musisz mieć inne poświadczenia dla każdej z nich.
 

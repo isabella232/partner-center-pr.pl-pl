@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d09c1e57d16937c5656579f3932e9c8feb3ecf24
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: d927b138c32b3e5f6f5d906db898e17f89a85aae
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488094"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755775"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Dowiedz się, jak odczytywać elementy wiersza w plikach uzgadniania Centrum partnerskiego
 
@@ -23,20 +23,20 @@ Dotyczy:
 - Centrum partnerskie
 - Centrum partnerskie Microsoft Cloud for US Government
 
-Pliki uzgadniania można pobrać z Centrum partnerskiego, aby wyświetlić szczegółowy widok elementu z każdą opłatą w cyklu rozliczeniowym. Szczegóły elementu wiersza obejmują opłaty dla każdej subskrypcji klienta i szczegółowe zdarzenia (na przykład dodatkowe Dodawanie licencji do subskrypcji).
-
-Odpowiednie role:
+**Odpowiednie role**
 
 - Administrator rozliczeń
 - Administrator globalny
 
-Aby uzyskać informacje na temat sposobu odczytywania **faktury** , zobacz [odczytywanie rachunku](read-your-bill.md).
+Pliki uzgadniania można pobrać z Centrum partnerskiego, aby wyświetlić szczegółowy widok elementu z każdą opłatą w cyklu rozliczeniowym. Szczegóły elementu wiersza obejmują opłaty dla każdej subskrypcji klienta i szczegółowe zdarzenia (na przykład dodatkowe Dodawanie licencji do subskrypcji).
+
+Aby uzyskać informacje na temat sposobu odczytywania **faktury**, zobacz [odczytywanie rachunku](read-your-bill.md).
 
 ## <a name="understand-reconciliation-file-fields"></a>Informacje o polach plików uzgadniania
 
-- [Pola pliku uzgadniania opartego na licencji](license-based-recon-files.md)
-- [Pola pliku uzgadniania opartego na użyciu](usage-based-recon-files.md)
-- [Pola plików uzgadniania dziennego użycia z oceną](daily-rated-usage-recon-files.md)
+- [Pola pliku uzgodnień w oparciu o licencję](license-based-recon-files.md)
+- [Pola pliku uzgodnień w oparciu o użycie](usage-based-recon-files.md)
+- [Pola pliku uzgodnień dziennego użycia](daily-rated-usage-recon-files.md)
 - [Pola pliku uzgadniania jednorazowego zakupu dostawcy usług kryptograficznych](modern-invoice-reconciliation-file.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Informacje o typach opłat w plikach uzgadniania
@@ -51,7 +51,7 @@ Wykonaj następujące kroki, aby naprawić wszelkie problemy z formatowaniem w p
 
 1. Otwórz plik uzgadniania (w formacie CSV) w programie Microsoft Excel.
 2. Wybierz pierwszą kolumnę w pliku.
-3. Otwórz **Kreatora konwersji tekstu na kolumny**. Na wstążce wybierz pozycję **dane** , a następnie wybierz pozycję **tekst do kolumn**.
+3. Otwórz **Kreatora konwersji tekstu na kolumny**. Na wstążce wybierz pozycję **dane**, a następnie wybierz pozycję **tekst do kolumn**.
 4. W kreatorze wybierz pozycję **rozdzielany typ pliku**. Następnie wybierz pozycję **Dalej**.
 5. W polu **ograniczników** wybierz **przecinek**. (Jeśli **karta** jest już zaznaczona, można opuścić tę opcję). Następnie wybierz przycisk **dalej**.
 6. W polu **Format danych kolumny** wybierz **datę: MDR**. Następnie wybierz pozycję **Dalej**.
@@ -81,11 +81,11 @@ Partnerzy w **modelu pośrednim** mogą używać tych dodatkowych pól w plikach
 
 Jeśli partner dostawcy usług kryptograficznych sprzedał subskrypcję bezpośrednio do klienta, jego **identyfikator MPN** zostanie wyświetlony dwukrotnie jako **identyfikator MPN** i **identyfikator MPN odsprzedawcy**.
 
-Jeśli partner CSP ma odsprzedawcę bez **identyfikatora MPN** , ta wartość jest ustawiana na **identyfikator MPN** partnera.
+Jeśli partner CSP ma odsprzedawcę bez **identyfikatora MPN**, ta wartość jest ustawiana na **identyfikator MPN** partnera.
 
-Jeśli partner CSP usunie **identyfikator MPN odsprzedawcy** , ta wartość zostanie ustawiona na *-1*.
+Jeśli partner CSP usunie **identyfikator MPN odsprzedawcy**, ta wartość zostanie ustawiona na *-1*.
 
-Aby wyświetlić lub zaktualizować **identyfikator MPN odsprzedawcy** :
+Aby wyświetlić lub zaktualizować **identyfikator MPN odsprzedawcy**:
 
 1. Zaloguj się do Centrum partnerskiego.
 2. W menu Centrum partnerskiego wybierz pozycję **Customers**.
@@ -93,3 +93,7 @@ Aby wyświetlić lub zaktualizować **identyfikator MPN odsprzedawcy** :
 4. W menu Klient wybierz pozycję **subskrypcje**.
 5. Wybierz subskrypcję z listy.
 6. Wybierz pozycję **Aktualizuj** , aby zmienić **ODSPRZEDAWCA (identyfikator MPN)**.
+
+## <a name="next-steps"></a>Następne kroki
+
+- [Jak odczytać rozliczenie & pliku Rekonesans](read-your-bill.md) 

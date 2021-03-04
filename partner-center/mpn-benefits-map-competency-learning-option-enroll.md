@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: c7e4f2b395ac421c9c01a813689723901374124a
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99975988"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756128"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Rejestracja za pomocą Centrum partnerskiego jako partnera szkoleniowego firmy Microsoft
 
@@ -115,7 +115,7 @@ Spełnienie wskaźnika KPI nie odnosi się do czasu trwania szkolenia. Aby dowie
 
 ### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>PYTANIE: Dlaczego nie pojawiam się jako partner szkoleniowy firmy Microsoft w katalogu partnerów szkoleniowych?
 
-Może być konieczne dodanie Cię do [katalogu partnerów szkoleniowych](https://docs.microsoft.com/learn/certifications/partners). Następnie można połączyć się z witryną internetową na stronie katalogu partnera nauki.
+Może być konieczne dodanie Cię do [katalogu partnerów szkoleniowych](/learn/certifications/partners). Następnie można połączyć się z witryną internetową na stronie katalogu partnera nauki.
 
 Jest to proces ręczny, który jest przesyłany tylko raz miesięcznie w trzecim tygodniu. Kolejna aktualizacja będzie widoczna na końcu pierwszego tygodnia następnego miesiąca. Aby pomóc w rozwiązaniu tego problemu, skontaktuj się z [pomocą techniczną teraźniejszości partnera](https://partner.microsoft.com/support). Przygotuj się, aby podać następujące informacje:
 

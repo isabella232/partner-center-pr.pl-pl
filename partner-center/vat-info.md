@@ -6,19 +6,19 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 12/04/2020
-ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: 6ed9f7b9bbe33e209a2e482ab4f3035decb46245
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755643"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755746"
 ---
 # <a name="value-added-tax-vat-information"></a>Informacje o podatku VAT (wartość dodana)
 
-**Dotyczy:**
+**Odpowiednie role**
 
-- Centrum partnerskie
-- Komercyjna platforma handlowa
+- Administrator konta
+
 
 Jeśli musisz podać numer NIP w trakcie procesu rejestracji Centrum partnerskiego, poniżej przedstawiono niektóre informacje ułatwiające rozpoczęcie pracy.
 
@@ -78,6 +78,7 @@ Należy pamiętać, że firma Microsoft nie zapewnia porad podatkowych, a Poniż
 |Hiszpania |— Format numeru VAT: 9 cyfr<br/>— Kod kraju/regionu: ES<br/>-Przykład: X12345678, 12345678X lub X1234567X<br/>-Uwagi: zawiera 1 lub 2 litery: pierwszy, ostatni lub pierwszy i ostatni. |
 |Szwecja |— Format numeru VAT: 12 cyfr<br/>— Kod kraju/regionu: SE<br/>-Przykład: 123456789001<br/>-Uwagi: ostatnie 2 znaki muszą mieć wartość "01". |
 |Zjednoczone Królestwo |— Format numeru VAT: 9 lub 12 cyfr<br/>— Kod kraju/regionu: GB<br/>-Przykład: 123456789 lub 123456789001<br/>-Uwagi: zwykle 9 cyfr, ale 12 cyfr, jeśli liczba reprezentuje podfirmę w grupie. |
+
 ## <a name="next-steps"></a>Następne kroki
 
 - [Informacje podatkowe firmy oraz sposób dodawania lub przesyłania identyfikatorów podatku VAT dla zakupów w centrum partnerskim](organization-tax-info.md)

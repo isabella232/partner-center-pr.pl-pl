@@ -1,29 +1,26 @@
 ---
 title: Zasoby licencjonowania firmy Microsoft
 ms.topic: article
-ms.date: 08/25/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Jako partner firmy Microsoft możesz mieć pytania dotyczące korzystania z różnych programów licencjonowania firmy Microsoft. Ten artykuł zawiera zasoby, które mogą pomóc.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 70b9381cf67a54f2e8c7e1c7764610c91fca1b1b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: a00ae527b1ac89e14f33960517ec20f8a5bec624
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529857"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756810"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Przewodnik po zasobach licencjonowania dla partnerów firmy Microsoft 
 
-**Dotyczy**
-
-- Partnerzy MPN firmy Microsoft, partnerzy CSP i inni
 
 W tym artykule udostępniono zasoby, które mogą pomóc w udzieleniu odpowiedzi na pytania dotyczące licencjonowania partnerów.
 
-Jako partner firmy Microsoft może być używany jeden lub więcej programów licencjonowania, kanałów lub umów. Jeśli pracujesz na pulpicie nawigacyjnym Centrum partnerskiego, może to obejmować programy takie jak program Cloud Solution Provider (CSP) lub program Microsoft Partner Network (MPN). Inne programy licencjonowania obejmują licencje Umowa Enterprise (EA), licencję zbiorczą (VL), program licencjonowania OEM, program Software Assurance Training lub załączniki albo program licencjonowania Open.
+Jako partner firmy Microsoft może być używany jeden lub więcej programów licencjonowania, kanałów lub umów. Jeśli pracujesz na pulpicie nawigacyjnym Centrum partnerskiego, może to obejmować programy takie jak program Cloud Solution Provider (CSP) lub program Microsoft Partner Network (MPN). Inne programy licencjonowania obejmują licencje Enterprise Agreement (EA), licencję zbiorczą (VL), program licencjonowania OEM, program Software Assurance Training lub załączniki albo program licencjonowania Open.
 
 W każdym programie są skojarzone określone umowy i warunki. Podobnie konkretne produkty, z których korzystasz, mogą mieć dodatkowe umowy licencyjne specyficzne dla produktu związane z ich użyciem.
 
@@ -32,7 +29,7 @@ Jeśli masz pytania dotyczące działania tych programów, te zasoby mogą pomó
 > [!NOTE]
 > Jeśli potrzebujesz pomocy z bardziej szczegółowymi pytaniami licencyjnymi lub z ofertą klienta, Zacznij od przypisanego dostawcy pośredniego programu licencjonowania (dla programu CSP) lub dystrybutora programu. Są one często najlepszymi, początkowymi punktami kontaktu dla określonych pytań licencyjnych lub pytaniami dotyczącymi tworzenia ofert klienta, zakupów jednostek SKU lub wymagań wstępnych. Jeśli nie masz partnera obsługującego tę rolę, zobacz [Znajdź partnera](find-a-partner.md) , aby go zlokalizować.
 >
-> Możesz również skontaktować się z kontaktami firmy Microsoft, aby skorzystać z wewnętrznego zespołu ekspertów ds. licencjonowania. Jeśli nie masz określonych kontaktów firmy Microsoft, przejdź do obszaru [Obsługa partnerów](https://partner.microsoft.com/support/v2/?stage=1) i wpisz **Licencjonowanie** w polu **problemy** strony pomocy technicznej. W tym miejscu możesz dowiedzieć się więcej na temat innych zasobów obsługi licencjonowania, które mogą być dostępne dla Ciebie. Jeśli nadal potrzebujesz pomocy, możesz również zarejestrować bilet pomocy technicznej, aby uzyskać pomoc dotyczącą określonych pytań licencyjnych lub ułatwić znalezienie poprawnej jednostki SKU produktu.
+> Możesz również skontaktować się z kontaktami firmy Microsoft, aby skorzystać z wewnętrznego zespołu ekspertów ds. licencjonowania. Jeśli nie masz określonych kontaktów firmy Microsoft, przejdź do obszaru [Obsługa partnerów](https://partner.microsoft.com/support/v2/?stage=1) i wpisz **Licencjonowanie** w polu **problemy** strony pomocy technicznej. 
 
 ## <a name="general-resources-about-licensing-and-license-training"></a>Ogólne zasoby dotyczące licencjonowania i szkolenia licencji
 
@@ -69,7 +66,7 @@ Jeśli masz określone pytania dotyczące realizacji licencjonowania, płatnośc
 |Wymagana czynność  | Zobacz  |
 |:------------------|:--------------- |
 |Odpowiedzi na pytania dotyczące nośnika instalacyjnego w programie licencjonowania zbiorowego. | [Strona realizacji licencjonowania](https://www.microsoft.com/licensing/existing-customer/fulfillment.aspx)  |
-|Odpowiedzi na pytania dotyczące Usługi online dla następujących programów rejestracji: Umowa Enterprise (EA), serwer i rejestracja w chmurze (SCE), a następnie otwórz subskrypcję wartości (OVS).  | [Szkolenia i zasoby centrum licencjonowania zbiorowego firmy Microsoft](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
+|Odpowiedzi na pytania dotyczące Usługi online dla następujących programów rejestracji: Enterprise Agreement (EA), serwer i rejestracja w chmurze (SCE), a następnie otwórz subskrypcję wartości (OVS).  | [Szkolenia i zasoby centrum licencjonowania zbiorowego firmy Microsoft](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
 |Odpowiedzi na pytania dotyczące Usługi online skojarzonych z umową dotyczącą produktów i usług firmy Microsoft (MPSA).  | [Szkolenia i zasoby programu Microsoft Business Center](https://www.microsoft.com/licensing/existing-customer/business-center-training-and-resources.aspx#tab=2) lub [Omówienie licencjonowania MPSA](https://www.microsoft.com/licensing/mpsa/default)  |  
 |Odpowiedzi na pytania dotyczące Usługi online skojarzonych z programem dostawcy rozwiązań w chmurze (CSP).  | [Jak sprzedawać subskrypcje programu CSP klientom](customer-subscriptions.md)  |
 |Odpowiedz na pytania dotyczące opcji płatności i finansowania firmy Microsoft.  | [Program finansowania firmy Microsoft — często zadawane pytania](https://download.microsoft.com/download/3/9/0/390DF0B3-8B15-4E65-AF5E-71A7280E7682/Microsoft-Financing-Program-FAQ-Customer_en-US.pdf)  |

@@ -9,18 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd718377fad435b72ff62e61604f58a3d302dc11
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 064a5ea1e712ca66504536652543c0523fc73eae
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530460"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755727"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Otrzymuj środki na koncie Centrum partnerskiego na potrzeby potrącenia podatku
 
-Dotyczy:
+**Odpowiednie role**
 
-- Centrum partnerskie
+- Administrator konta
+- Administrator rozliczeń
 
 ## <a name="overview"></a>Omówienie
 
@@ -35,9 +36,9 @@ Partnerzy używający do przesyłania żądań potrącenia podatku przez tworzen
 
 Wykonaj następujące kroki, aby przesłać nowe potrącenie podatkowe:
 
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home)Centrum partnerskiego.
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home) Centrum partnerskiego.
 
-2. W menu po lewej stronie wybierz pozycję **rozliczenia** i przejdź do **historii rozliczeń** .
+2. W menu po lewej stronie wybierz pozycję **rozliczenia** i przejdź do **historii rozliczeń**.
 
 3. Kliknij pozycję **Prześlij nowe** obok faktury, dla której chcesz przesłać żądanie. Link Prześlij nowy spowoduje przejście do strony **nowe żądanie potrącenia podatku** .
 
@@ -45,7 +46,9 @@ Wykonaj następujące kroki, aby przesłać nowe potrącenie podatkowe:
 
 4. Przejrzyj szczegóły faktury, aby upewnić się, że przesyłasz żądanie do odpowiedniej faktury.
 
-   :::image type="content" source="images/wht2.png" alt-text="Prześlij nowe potrącenie podatkowe dla faktury" to kwota, która powinna być księgowana.
+   :::image type="content" source="images/wht2.png" alt-text="Ukończ szczegóły potrącenia podatkowego dla faktury":::
+
+5. W obszarze **szczegóły potrącenia podatkowego** wprowadź wartość "suma wstrzymania". "Suma wstrzymania" to kwota, która powinna być księgowana.
 
 6. **Dołącz** certyfikat podatkowy. W żądaniu powstrzymania podatku należy dołączyć **cyfrową kopię** **certyfikatu potrąconej zaliczki** na podatek. Ten certyfikat został odebrany od lokalnej agencji podatkowej, gdy płacisz podatkiem do lokalnego urzędu skarbowego. Kwota podatku od faktury w certyfikacie potrąconej potrącenia musi być zgodna z łączną kwotą w żądaniu powstrzymania podatku.
 
@@ -60,9 +63,9 @@ Wykonaj następujące kroki, aby przesłać nowe potrącenie podatkowe:
 
 ## <a name="update-request-and-resubmit"></a>Żądanie aktualizacji i ponowne przesłanie
 
-Zespół ds. przeglądu może wymagać wprowadzenia poprawek i ponownego przesłania żądania, aby można było je zatwierdzić. Zmieni stan na **oczekującą akcję partnera** . Aby rozwiązać i ponownie przesłać żądanie:
+Zespół ds. przeglądu może wymagać wprowadzenia poprawek i ponownego przesłania żądania, aby można było je zatwierdzić. Zmieni stan na **oczekującą akcję partnera**. Aby rozwiązać i ponownie przesłać żądanie:
 
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home)Centrum partnerskiego.
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home) Centrum partnerskiego.
 
 2. W menu po lewej stronie wybierz pozycję **rozliczenia**
 
@@ -70,7 +73,7 @@ Zespół ds. przeglądu może wymagać wprowadzenia poprawek i ponownego przesł
 
 4. Kliknij identyfikator i stan żądania potrącenia podatku i przełączenia na stronę żądania.
 
-5. Wybierz pozycję **Aktualizuj i prześlij ponownie** w obszarze **stan** .
+5. Wybierz pozycję **Aktualizuj i prześlij ponownie** w obszarze **stan**.
 
 6. Przejrzyj Komentarze pozostawione przez recenzentów z wyróżnionymi informacjami, które muszą zostać zmienione.
 
@@ -84,7 +87,7 @@ Przesłanie żądania spowoduje wysłanie go z powrotem do zespołu przeglądowe
 
 Zatwierdzone żądania potrącenia podatkowego będą wykonywane w odniesieniu do następnej faktury. Żądania, które są oflagowane jako **ukończone** , powinny być stosowane w ciągu 10 dni roboczych. 
 
-Wyczyszczone kwoty zostaną odzwierciedlone w **sekcji Historia rozliczeń na stronie rozliczeń** . Wyczyszczone kwoty zostaną wyświetlone w kolumnie **Ostatnia płatność** obok faktury, do której żądanie zostało przesłane.
+Wyczyszczone kwoty zostaną odzwierciedlone w **sekcji Historia rozliczeń na stronie rozliczeń**. Wyczyszczone kwoty zostaną wyświetlone w kolumnie **Ostatnia płatność** obok faktury, do której żądanie zostało przesłane.
 
    > [!IMPORTANT]
    > Poprzednie faktury nie są ponownie generowane ani wystawiane. Kwota clearace jest po prostu stosowana w przypadku płatności z poprzednich miesięcy.
@@ -108,4 +111,4 @@ Partnerzy, którzy przesyłają niemieckie żądania potrącenia podatkowego, po
 Partnerzy powinni użyć nowego procesu szczegółowego, aby przesłać nowe żądania i nie będzie już używać tworzenia żądania obsługi nowych żądań zaliczania podatku. Partnerzy z dodatkowymi pytaniami dotyczącymi żądań powstrzymania podatku mogą [przesyłać żądania pomocy technicznej](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed). Żądania pomocy technicznej mają na celu ułatwienie partnerom istniejących żądań, które będą musiały mieć swój **Identyfikator żądania** , aby przesłać nowy bilet. Jeśli partnerzy nie mogą przesłać żądania przy użyciu nowego procesu, powinni wprowadzić pewną liczbę (wszystkie 1) do formularza żądania pomocy technicznej. 
 
    > [!IMPORTANT]
-   > Partnerzy nie muszą kontaktować się z pomocą techniczną, jeśli ich stan żądania jest **zakończony** . Ten stan jest wyświetlany w **historii rozliczeń** obok faktury dla zgłoszenia. **Ostatnia kwota płatności** obok faktury powinna odzwierciedlać kwotę potrąconą za potrącenie podatkowe w ciągu dziesięciu dni od momentu, gdy żądanie zostanie oznaczone jako **ukończone** .
+   > Partnerzy nie muszą kontaktować się z pomocą techniczną, jeśli ich stan żądania jest **zakończony**. Ten stan jest wyświetlany w **historii rozliczeń** obok faktury dla zgłoszenia. **Ostatnia kwota płatności** obok faktury powinna odzwierciedlać kwotę potrąconą za potrącenie podatkowe w ciągu dziesięciu dni od momentu, gdy żądanie zostanie oznaczone jako **ukończone**.

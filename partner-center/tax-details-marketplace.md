@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 01/29/2021
-ms.openlocfilehash: 075099d80802352efdf7184a7c550d730945b35f
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: d720b7388cbb814402a2c78d07865e4184dec1ab
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530775"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756832"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Szczegóły podatkowe dla wydawców na komercyjnej platformie handlowej
 
@@ -65,7 +65,6 @@ Firma Microsoft zbiera opłaty za magazyn w następujących krajach, w których 
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Często zadawane pytania dotyczące programu Publisher](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide) 
+- [Często zadawane pytania dotyczące programu Publisher](/azure/marketplace/marketplace-faq-publisher-guide) 
 
-- [Instrukcje dotyczące tworzenia profilów płatności i podatków](https://docs.microsoft.com/partner-center/set-up-your-payout-account?context=/azure/marketplace/context/context#create-a-payment-profile) 
-
+- [Instrukcje dotyczące tworzenia profilów płatności i podatków](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)

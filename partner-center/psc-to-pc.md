@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281355"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756178"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Przewodnik po przedsprzedaży w centrum partnerskim (komputer) dla partnerów migrowania z programu Partner Sales Connect (PSC)
 
@@ -28,12 +28,15 @@ ms.locfileid: "100281355"
 
 Ten artykuł zawiera wskazówki dotyczące partnerów migrowanych z programu partnerskiego Connect Sales do Centrum partnerskiego, dzięki czemu mogą oni nadal tworzyć i zarządzać ofertami współsprzedaży w centrum partnerskim.
 
-Jak wiadomo, firma utraci dostęp do kontrolera PSC po 31 marca 2021. Nadal jednak znajdziesz wszystko, co chcesz zrobić w centrum partnerskim, takie jak tworzenie transakcji towarzyszących, zarządzanie transakcjami i działanie w przypadku transakcji wysyłanych do Ciebie przez sprzedawcy firmy Microsoft.
-
-Istnieją jednak różnice między nimi. Poniższe wskazówki mogą pomóc zapewnić bezproblemowe przejście do Centrum partnerskiego i bardziej skomplikowane.
+>[!Note]
+> Jeśli jesteś tutaj, ponieważ zobaczysz transparent na komputerze PSC o migracji, jesteś w odpowiednim miejscu. Ten przewodnik nie ma zastosowania do oceny rozwiązań (SA) i partnerów firmy dla licencjonowania OEM, którzy zarządzają swoimi ofertami na komputerze PSC.
 
 >[!Important]
-> Jeśli jesteś tutaj, ponieważ zobaczysz transparent na komputerze PSC o migracji, jesteś w odpowiednim miejscu. Ten przewodnik nie ma zastosowania do oceny rozwiązań (SA) i partnerów IOT OEM zarządzających swoimi ofertami na komputerze PSC.
+> Od 1 maja 2021 firma nie będzie mogła tworzyć ani edytować transakcji na komputerze PSC. **Nadal będzie można pobrać istniejące dane z oferty przy użyciu funkcji eksportu zbiorczego na komputerze PSC. Po tej dacie można także [migrować otwarte oferty](psc-to-pc.md#psc-deals-migration) z komputera PSC do Centrum partnerskiego.** <br><br> W przypadku, gdy pracujesz nad tym, że masz aktywną pracę, która zawiera produkty z możliwością dochodzenia do oferty z możliwością zakupu, masz dwie opcje: <br><br> 1. Oznacz rozproszenie jako wygrane i Zakończ rejestrację transakcji na komputerze PSC przed 30 kwietnia 2021. <br> 2. [Przeprowadź migrację transakcji](psc-to-pc.md#psc-deals-migration) do Centrum partnerskiego, aby uzyskać więcej czasu na pracę i rozpocząć rejestrację transakcji.
+
+Jak wiadomo, **firma utraci dostęp do kontrolera PSC po 31 maja 2021**. Nadal jednak znajdziesz wszystko, co chcesz zrobić w centrum partnerskim, takie jak tworzenie transakcji towarzyszących, zarządzanie transakcjami i działanie w przypadku transakcji wysyłanych do Ciebie przez sprzedawcy firmy Microsoft.
+
+Istnieją jednak różnice między nimi. Poniższe wskazówki mogą pomóc zapewnić bezproblemowe przejście do Centrum partnerskiego i bardziej skomplikowane.
 
 ## <a name="before-you-move-things-you-need-to-know"></a>Zanim przejdziesz, co musisz wiedzieć
 
@@ -90,7 +93,7 @@ Aby znaleźć administratora konta firmowego:
 Po skonfigurowaniu konta w centrum partnerskim Użyj Kreatora migracji użytkowników na stronie z możliwością wspólnej sprzedaży, aby przypisać role Centrum partnerskiego do pracowników firmy.
 
 >[!Note]
-> Migracja użytkowników może być przeprowadzana tylko przez [administratorów konta](permissions-overview.md#manage-mpn-membership-and-your-company) Twojej firmy. Jeśli nie masz roli administratora konta, Znajdź administratora konta, który może pomóc w skonfigurowaniu kont użytkowników za pomocą Kreatora migracji użytkowników. Funkcja migracji użytkowników będzie dostępna od 18 listopada 2020.
+> Migracja użytkowników może być przeprowadzana tylko przez [administratorów konta](permissions-overview.md#manage-mpn-membership-and-your-company) Twojej firmy. Jeśli nie masz roli administratora konta, Znajdź administratora konta, który może pomóc w skonfigurowaniu kont użytkowników za pomocą Kreatora migracji użytkowników.
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Obraz przedstawiający Kreatora migracji użytkowników.":::
 
@@ -135,7 +138,7 @@ Przeczytaj tę sekcję przed rozpoczęciem migracji transakcji.
 
 **Kwalifikuje się do migracji**
 
-Tylko niektóre oferty są uprawnione do migracji z komputera PSC na komputer. Ten Kreator migracji został utworzony w celu ułatwienia partnerom przełączenia ich do Centrum partnerskiego, gdzie nadal aktywnie pracują z klientami w celu zamknięcia transakcji. **Tylko transakcje, które są w stanie otwartym z prawidłowymi szczegółami konta partnera (prawidłowym IDENTYFIKATORem MPN) i nie przechodzą rejestracji transakcji, kwalifikują się do migracji.**
+Tylko niektóre oferty są uprawnione do migracji z komputera PSC na komputer. Ten Kreator migracji został utworzony w celu ułatwienia partnerom przełączenia ich do Centrum partnerskiego, gdzie nadal aktywnie pracują z klientami w celu zamknięcia transakcji. **Tylko transakcje w stanie otwartym utworzone od 1 stycznia 2020 z prawidłowymi szczegółami konta partnera (prawidłowym IDENTYFIKATORem MPN) i nie przechodzą rejestracji transakcji kwalifikują się do migracji.**
 
 **Nie kwalifikuje się do migracji**
 
@@ -200,7 +203,7 @@ Jeśli Twoja firma ma Menedżera deweloperów rozwiązań (PDM) — po skonfigur
 Jeśli firma nie ma PDM — upewnij się, że wszystkie konta użytkowników zostały skonfigurowane i zweryfikowane przez wszystkich użytkowników. Otrzymasz powiadomienie za pośrednictwem wiadomości e-mail i transparentu na komputerze PSC w sprawie dokładnej daty rozpoczęcia sprzedaży w centrum partnerskim. Pamiętaj, że nadal będziesz mieć możliwość zarządzania istniejącymi aktywnymi transakcjami na komputerze PSC.
 
 >[!Important]
->Aktywne transakcje nie będą migrowane do komputera. Do 31 marca 2021 należy zamknąć i zarejestrować oferty.
+> Do 30 kwietnia 2021 można zarejestrować transakcje, które są oznaczone jako wygrane.
 
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>Następne kroki dla administratorów PSC, menedżerów transakcji PSC i sprzedawcy PSC
 

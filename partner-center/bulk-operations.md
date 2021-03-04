@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 16975e78c10aeb73bf141c1a1d0a215ac885039c
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: d601fec4bbdaad72f02c16b399cc320cc607d8ed
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645643"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756067"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>Operacje zbiorcze dla wspólnych możliwości sprzedaży przy użyciu plików z wartościami rozdzielanymi przecinkami (CSV)
 
@@ -77,11 +77,11 @@ Imię kontaktu z klientem|Zależy od|Imię jest wymagane tylko wtedy, gdy potrze
 Nazwisko osoby kontaktowej klienta|Zależy od|Nazwisko jest wymagane tylko wtedy, gdy potrzebujesz pomocy firmy Microsoft. Nazwisko głównej osoby kontaktowej w organizacji klienta, która pracuje nad tym postępowaniem.|Customer
 Numer telefonu kontaktowego klienta|Zależy od|Numer telefonu jest wymagany tylko wtedy, gdy potrzebujesz pomocy firmy Microsoft. Numer telefonu podstawowego kontaktu z organizacji klienta pracującego nad tym postępowaniem.|9999999999
 Adres E-mail osoby kontaktowej klienta|Zależy od|Adres e-mail jest wymagany tylko wtedy, gdy potrzebujesz pomocy firmy Microsoft. Adres e-mail kontaktu podstawowego od organizacji klienta pracującego nad tym postępowaniem.|john.customer@contoso.com
-Stan odwołania partnera|Tak|Wskazuje stan transakcji z perspektywy firmy. Wymagane, jeśli próbujesz utworzyć lub zmodyfikować odwołanie. Jeśli próbujesz utworzyć nową transokazję, użyj **nowej** . Akceptowane wartości są udokumentowane w [tym miejscu](https://docs.microsoft.com/partner/develop/referral-resources#referralstatus).|Aktywna
-Stan pododwołania do partnera|Tak|Wskazuje dokładny stan transakcji. Użyj **zaakceptowanych** w przypadku próby utworzenia nowej transakcji. Jest również wymagane, jeśli modyfikujesz istniejące odwołanie. Akceptowane wartości są udokumentowane w [tym miejscu](https://docs.microsoft.com/partner/develop/referral-resources#referralsubstatus).|Zaakceptowano
+Stan odwołania partnera|Tak|Wskazuje stan transakcji z perspektywy firmy. Wymagane, jeśli próbujesz utworzyć lub zmodyfikować odwołanie. Jeśli próbujesz utworzyć nową transokazję, użyj **nowej** . Akceptowane wartości są udokumentowane w [tym miejscu](/partner/develop/referral-resources#referralstatus).|Aktywna
+Stan pododwołania do partnera|Tak|Wskazuje dokładny stan transakcji. Użyj **zaakceptowanych** w przypadku próby utworzenia nowej transakcji. Jest również wymagane, jeśli modyfikujesz istniejące odwołanie. Akceptowane wartości są udokumentowane w [tym miejscu](/partner/develop/referral-resources#referralsubstatus).|Zaakceptowano
 Stan odwołania firmy Microsoft|Zależy od|Wskazuje stan żądania współsprzedawcy wysłanego do pomocy firmy Microsoft. Jest to pole tylko do odczytu. Wszelkie zmiany wprowadzone w tym polu podczas importowania danych zostaną zignorowane.| Oczekiwanie
 Przyczyna odrzucenia/utraty|Zależy od| Te informacje są wymagane tylko w przypadku zmiany stanu podrzędnego pola na odrzucone lub utracone. W przeciwnym razie można zignorować tę kolumnę. <br/> **Wprowadź liczbę na podstawie poniższych opcji** <br/><br/> **1**— budżet projektu jest nieodpowiedni  <br/> **2**— klient nie odpowiedział  <br/> **3**— klient wybrał innego dostawcę  <br/> **4** — wymagania klienta nie zostały spełnione  <br/> **5** — nie do klienta <br/> **6**— proponowany wiersz czasu był zbyt krótki <br/> **7** — raportowanie jako nadużycia, spam lub wyłudzanie informacji <br/> **8** — inne |6|
-Etap sprzedaży|Nie|Jest to pole wskazujące szczegółowy etap sprzedaży odwołania. Przeczytaj więcej na temat etapów sprzedaży [tutaj](https://aka.ms/salesStages)|40
+Etap sprzedaży|Nie|Jest to pole wskazujące szczegółowy etap sprzedaży odwołania. Przeczytaj więcej na temat etapów sprzedaży [tutaj](./manage-co-sell-opportunities.md)|40
 Szacowana wartość transakcji|Tak|"Wartość transakcji na podstawie początkowych rozmów z klientem. Tę zmianę można zmienić, dopóki transakcja osiągnie jeden z Stanów końcowych| wygrane lub utracone ".|12563
 Waluta|Tak|Waluta, w której wprowadzono wartość transakcji. Kody walut można znaleźć [tutaj](https://en.wikipedia.org/wiki/ISO_4217).|USD
 Szacowana data zamknięcia|Tak|Szacowana data zamknięcia transakcji w oparciu o początkowe rozmowy z klientem w formacie MM/DD/RRRR. <br/> **Data powinna być w strefie czasowej UTC. Wszystkie daty wyświetlane w interfejsie użytkownika Centrum partnerskiego są oparte na zlokalizowanych strefach czasowych. W interfejsie użytkownika Centrum partnerskiego może istnieć +/-jeden dzień, Jeśli przeglądasz odwołanie, dla którego podałeś datę w strefie czasowej UTC.**|1/30/2020

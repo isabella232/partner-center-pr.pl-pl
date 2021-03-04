@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182549"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756412"
 ---
 # <a name="november-2020-announcements"></a>Ogłoszenia z listopada 2020 r.
 
@@ -98,7 +98,7 @@ Wprowadzamy nowy pakiet promocyjny dla systemu Office 365 dla średnich rynków,
 Wszyscy partnerzy przeprowadzają transakcję w ramach programu w programie Cloud Solution Provider (CSP) na rynkach uczestniczących wymienionych powyżej.
 
 ### <a name="details"></a>Szczegóły
-Promocja obejmuje 30% rabatu na pakiet Office 365 E1 dla dostawcy CSP. Zostanie ono uruchomione 1 grudnia 2020 i będzie dostępne przez 6 miesięcy, do 31 maja 2020. Ta promocja jest dostępna tylko dla klientów, którzy są nowością w chmurze MW i mają do 500 stanowisk. Należy pamiętać, że jest to ograniczone do rozwijających się rynków LATAM, Indie i Azja I Pacyfik, aby umożliwić przejście do chmury. 
+Promocja obejmuje 30% rabatu na pakiet Office 365 E1 dla dostawcy CSP. Zostanie ono uruchomione 1 grudnia 2020 i będzie dostępne przez 6 miesięcy, do 31 maja 2021. Ta promocja jest dostępna tylko dla klientów, którzy są nowością w chmurze MW i mają do 500 stanowisk. Należy pamiętać, że jest to ograniczone do rozwijających się rynków LATAM, Indie i Azja I Pacyfik, aby umożliwić przejście do chmury. 
 
 #### <a name="offer-details"></a>Szczegóły oferty
 
@@ -539,7 +539,7 @@ Nowy dodatek zaawansowanej komunikacji dla programu Microsoft Teams w ramach kon
 
 **Którzy klienci mogą kupić dodatek?** Klienci korzystający z planu serwisów w zatoce mogą zakupić dodatek.
 
-**Jak można ją kupić?** Dodatek można kupić za pośrednictwem Umowa Enterprise, Umowa Enterprise subskrypcji, rejestracji rozwiązań edukacyjnych, CSP lub sieci Web bezpośrednio.
+**Jak można ją kupić?** Dodatek można kupić za pośrednictwem Enterprise Agreement, Enterprise Agreement subskrypcji, rejestracji rozwiązań edukacyjnych, CSP lub sieci Web bezpośrednio.
 
 **Gdzie można ją sprzedać?** Może być sprzedawany na rynkach Stanów Zjednoczonych.
 

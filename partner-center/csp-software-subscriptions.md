@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5355dd6229d22d154512be8536e5fd4ab9b900ad
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: b6e08baf11061bc027b52d4662311bdc91ee0202
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834860"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756098"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sprzedaj subskrypcje oprogramowania za pomocą programu Cloud Solution Provider (CSP)
 
@@ -103,7 +103,7 @@ Po zakupieniu oprogramowania klienci muszą ją pobrać. Użyj poniższej proced
 >[!NOTE]
 >Tylko klienci mogą wyświetlać klucze produktów i informacje pobierane w centrum administracyjnym firmy Microsoft. Partnerzy nie mogą zobaczyć tych informacji.
 
-Jeśli ty lub klienci chcą dowiedzieć się więcej o pobieraniu kluczy licencji, zobacz [Pobieranie oprogramowania i kluczy licencji produktów](https://go.microsoft.com/fwlink/p/?linkid=2152525).
+Jeśli ty lub klienci chcą dowiedzieć się więcej o pobieraniu kluczy licencji, zobacz [Pobieranie oprogramowania i kluczy licencji produktów](/microsoft-365/admin/setup/download-software-licenses-csp).
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Pobieranie subskrypcji serwera i klucze licencji dostępne za poorednictwem centrum administracyjnego Microsoft 365 dla klientów 
 
