@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/04/2021
-ms.openlocfilehash: 2911dadc6efb2ad03d775d4476c50e8ca887c174
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: c504c3b7ed0cffe8b698b308ca66ab591e55cccf
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185285"
+ms.locfileid: "102220280"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
@@ -22,6 +22,8 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 
 |**Kategoria**|**2021 komunikatów o marcu**|**Ogłoszone**|
 |---------|:---------|:---------|
+|Możliwości|[Klucz licencji oprogramowania Centrum partnerskiego i realizacja pobrania](2021-march.md#4)|5 marca|
+|Możliwości|[Migrowanie Twoich transakcji z programu Partner Sales Connect (PSC) do Centrum partnerskiego](2021-march.md#3)|5 marca|
 |Możliwości|[Nowe produkty i oferty systemu Microsoft Dynamics 365 dostępne 1 kwietnia 2021](2021-march.md#2)|4 marca|
 |Możliwości|[Program Microsoft Universal Print jest teraz dostępny w niektórych pakietach](2021-march.md#1)|3 marca|
 |**Kategoria**|**Powiadomienia 2021 lutego**|**Ogłoszone**|

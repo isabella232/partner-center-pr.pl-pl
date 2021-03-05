@@ -8,17 +8,91 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/03/2021
-ms.openlocfilehash: 0ffc09fc6496fc053a8ca150bd85235976153c03
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.date: 03/04/2021
+ms.openlocfilehash: 8b86623c6af832de654e3c4ad9fea666427eb51d
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185268"
+ms.locfileid: "102220299"
 ---
 # <a name="march-2021-announcements"></a>2021 komunikatów o marcu
 
 Ta strona zawiera anonse dla programu Microsoft Partner Center dla marca 2021.
+
+________________
+## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>Klucz licencji oprogramowania Centrum partnerskiego i realizacja pobrania
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-03-04
+- Możliwości
+
+### <a name="summary"></a>Podsumowanie
+
+Funkcja pobierania oprogramowania Centrum partnerskiego i możliwość realizacji klucza licencji zostały przywrócone.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Wszyscy partnerzy dostawcy rozwiązań w chmurze (CSP) transakcji bezterminowych i subskrypcji serwera za poorednictwem Centrum partnerskiego
+
+### <a name="details"></a>Szczegóły
+
+W odpowiedzi na opinie partnerów firma Microsoft przywraca funkcję realizacji Centrum partnerskiego, aby uzyskać klucze oprogramowania i licencji na potrzeby zamówień bezterminowych i subskrypcyjnych na serwerze. Przed usunięciem z 19 stycznia 2021, zostanie przywrócony do poprzedniego stanu. (Zobacz [ogłoszenie](2020-september.md#17)).
+
+Należy pamiętać, że klucze licencji oprogramowania i linki do pobrania są cennymi i wysoce poszukiwane — po zasobach własności intelektualnej. W przypadku przecieków można szybko przekroczyć limity aktywacji i spowodować negatywne środowisko klienta i partnera.
+
+### <a name="next-steps"></a>Następne kroki
+
+Zapoznaj się z poniższymi zasobami, aby uzyskać instrukcje dotyczące użycia i ważne wskazówki dotyczące dystrybucji kluczy oprogramowania:
+
+- [Sprzedawanie oprogramowania lokalnego za pomocą programu CSP](https://docs.microsoft.com/partner-center/csp-on-premise-software)
+- [Centrum partnerskie — nowy Przewodnik operacji handlowych](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) (zobacz **wskazówki dotyczące dystrybucji kluczy oprogramowania** ).
+
+### <a name="questions"></a>Masz pytania?
+
+Jeśli masz jakieś pytania dotyczące tego powiadomienia, zapoznaj się z odpowiednimi społecznościami usługi Yammer.
+
+________________
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-to-partner-center"></a><a name="3"></a>Migrowanie Twoich transakcji z programu Partner Sales Connect (PSC) do Centrum partnerskiego
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-03-04
+- Możliwości
+
+### <a name="summary"></a>Podsumowanie
+
+Program Partner Sales Connect (PSC) zostanie przesunięty w dostęp tylko do odczytu od 31 marca 2021, więc zachęcamy do rozpoczęcia migracji Twoich transakcji z kontrolera PSC do Centrum partnerskiego.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Partnerzy z ofertami w systemie PSC
+
+### <a name="details"></a>Szczegóły
+
+W ramach naszego wspólnego zobowiązania do wzrostu, **współsprzedaży z firmą Microsoft** jest ścieżką, która ma **zostać odnaleziona, dostarczasz wiedzę i rozszerzasz swój** wpływ na klientów w przypadku pozytywnych wyników klienta. Dzięki średniej transakcji, która jest **3,5 razy szybsze** niż normalne, zarządzanie obsługą współsprzedaży w centrum partnerskim pozwala sprzedawać klientów, partnerów i kanałów sprzedającego firmy Microsoft oraz zarządzać całym potoku odwołań w jednej lokalizacji.
+
+**Kontroler PSC** przejdzie do **dostępu tylko do odczytu** od **31 marca 2021**, dlatego zachęcamy do rozpoczęcia przejścia do Centrum partnerskiego i uzyskania dostępu do tych ulepszeń funkcji: 
+
+- Dokładniejsze **kierowanie tras** w przypadku współdzielenia się z firmą Microsoft z odpowiednim sprzedawcą na podstawie typu potrzebnej pomocy.
+- **Poprzednia transakcja sprawdza poprawność** dla rozwiązań kwalifikujących się do zachęty i spełnia kryteria programu niezależnych dostawców oprogramowania, upraszczając proces zatwierdzania i ostateczne potwierdzenie wykonania (PoE).
+- **Bezproblemowe środowisko użytkownika** umożliwiające zarządzanie wszystkimi szansami sprzedaży i potencjalnymi klientami w jednym miejscu.
+
+Niedawno dodano również nowe funkcje w centrum partnerskim, które ułatwiają przechodzenie:
+
+- [Operacje zbiorcze dla możliwości wspólnej sprzedaży](https://docs.microsoft.com/partner-center/bulk-operations)
+- [Funkcja migracji transakcji](https://docs.microsoft.com/partner-center/psc-to-pc) (zobacz sekcję **migracja transakcji PSC** ).
+
+Korzystając z funkcji współsprzedaży w centrum partnerskim, zespoły sprzedaży będą miały więcej czasu skupić się na Nurturing potencjalnych klientów i szansach sprzedaży, zamknięciu transakcji oraz tworzeniu trwałych relacji z klientami.
+
+### <a name="next-steps"></a>Następne kroki
+
+Skorzystaj z [przewodnika przejścia](https://docs.microsoft.com/partner-center/psc-to-pc) Centrum partnerskiego, aby przeprowadzić Cię przez procedurę migrowania Twoich transakcji z kontrolera PSC do Centrum partnerskiego.
+
+### <a name="questions"></a>Masz pytania?
+
+Aby uzyskać więcej pytań, skontaktuj się z [pomocą techniczną](https://partner.microsoft.com/support/?stage=1).
 
 ________________
 ## <a name="new-microsoft-dynamics-365-products-and-offers-available-on-april-1-2021"></a><a name="2"></a>Nowe produkty i oferty systemu Microsoft Dynamics 365 dostępne 1 kwietnia 2021
