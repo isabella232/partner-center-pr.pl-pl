@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/03/2021
-ms.openlocfilehash: 5db9dc04f6ff4bf1020eb7a97778b152275d5ea5
-ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
+ms.date: 03/04/2021
+ms.openlocfilehash: 2911dadc6efb2ad03d775d4476c50e8ca887c174
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102029937"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185285"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
@@ -22,6 +22,7 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 
 |**Kategoria**|**2021 komunikatów o marcu**|**Ogłoszone**|
 |---------|:---------|:---------|
+|Możliwości|[Nowe produkty i oferty systemu Microsoft Dynamics 365 dostępne 1 kwietnia 2021](2021-march.md#2)|4 marca|
 |Możliwości|[Program Microsoft Universal Print jest teraz dostępny w niektórych pakietach](2021-march.md#1)|3 marca|
 |**Kategoria**|**Powiadomienia 2021 lutego**|**Ogłoszone**|
 |Możliwości|[Wycofaj kwalifikacje interfejsów API](2021-february.md#14)|25 lutego|
