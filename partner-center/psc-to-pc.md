@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756178"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124826"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Przewodnik po przedsprzedaży w centrum partnerskim (komputer) dla partnerów migrowania z programu Partner Sales Connect (PSC)
 
@@ -32,9 +32,9 @@ Ten artykuł zawiera wskazówki dotyczące partnerów migrowanych z programu par
 > Jeśli jesteś tutaj, ponieważ zobaczysz transparent na komputerze PSC o migracji, jesteś w odpowiednim miejscu. Ten przewodnik nie ma zastosowania do oceny rozwiązań (SA) i partnerów firmy dla licencjonowania OEM, którzy zarządzają swoimi ofertami na komputerze PSC.
 
 >[!Important]
-> Od 1 maja 2021 firma nie będzie mogła tworzyć ani edytować transakcji na komputerze PSC. **Nadal będzie można pobrać istniejące dane z oferty przy użyciu funkcji eksportu zbiorczego na komputerze PSC. Po tej dacie można także [migrować otwarte oferty](psc-to-pc.md#psc-deals-migration) z komputera PSC do Centrum partnerskiego.** <br><br> W przypadku, gdy pracujesz nad tym, że masz aktywną pracę, która zawiera produkty z możliwością dochodzenia do oferty z możliwością zakupu, masz dwie opcje: <br><br> 1. Oznacz rozproszenie jako wygrane i Zakończ rejestrację transakcji na komputerze PSC przed 30 kwietnia 2021. <br> 2. [Przeprowadź migrację transakcji](psc-to-pc.md#psc-deals-migration) do Centrum partnerskiego, aby uzyskać więcej czasu na pracę i rozpocząć rejestrację transakcji.
+> Od 1 kwietnia 2021 firma nie będzie mogła tworzyć ani edytować transakcji na komputerze PSC. **Nadal będzie można pobrać istniejące dane z oferty przy użyciu funkcji eksportu zbiorczego na komputerze PSC. Po tej dacie można także [migrować otwarte oferty](psc-to-pc.md#psc-deals-migration) z komputera PSC do Centrum partnerskiego.** <br><br> W przypadku, gdy pracujesz nad tym, że masz aktywną pracę, która zawiera produkty z możliwością dochodzenia do oferty z możliwością zakupu, masz dwie opcje: <br><br> 1. Oznacz rozproszenie jako wygrane i Zakończ rejestrację transakcji na komputerze PSC przed 31 marca 2021. <br> 2. [Przeprowadź migrację transakcji](psc-to-pc.md#psc-deals-migration) do Centrum partnerskiego, aby uzyskać więcej czasu na pracę i rozpocząć rejestrację transakcji.
 
-Jak wiadomo, **firma utraci dostęp do kontrolera PSC po 31 maja 2021**. Nadal jednak znajdziesz wszystko, co chcesz zrobić w centrum partnerskim, takie jak tworzenie transakcji towarzyszących, zarządzanie transakcjami i działanie w przypadku transakcji wysyłanych do Ciebie przez sprzedawcy firmy Microsoft.
+Jak wiadomo, **firma utraci dostęp do komputera PSC po 30 kwietnia 2021**. Nadal jednak znajdziesz wszystko, co chcesz zrobić w centrum partnerskim, takie jak tworzenie transakcji towarzyszących, zarządzanie transakcjami i działanie w przypadku transakcji wysyłanych do Ciebie przez sprzedawcy firmy Microsoft.
 
 Istnieją jednak różnice między nimi. Poniższe wskazówki mogą pomóc zapewnić bezproblemowe przejście do Centrum partnerskiego i bardziej skomplikowane.
 

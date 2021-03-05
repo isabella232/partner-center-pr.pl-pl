@@ -1,20 +1,20 @@
 ---
-title: Dodawanie dodatkowych dzierżawców do konta Centrum partnerskiego
+title: Dodawanie dzierżawców do konta Centrum partnerskiego
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, jak dodawać i konsolidować wiele dzierżawców usługi Azure AD na koncie Centrum partnerskiego oraz zarządzać nimi. Dowiedz się również kilka przyczyn, które warto wykonać.
+description: Dowiedz się, jak dodawać i konsolidować wiele dzierżawców usługi Azure AD na koncie Centrum partnerskiego oraz zarządzać nimi, a także dowiedzieć się, dlaczego warto to zrobić.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9852b4e1c3997b82f744555db25fe64e1afc8ad
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 2f3094489f65b7164b4a55804047f9a4ab5f11cb
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182441"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124809"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Dodawanie wielu dzierżawców i zarządzanie nimi na koncie Centrum partnerskiego
 
@@ -24,57 +24,58 @@ ms.locfileid: "98182441"
 - Administrator globalny
 - Administrator konta
 
-Ta funkcja pozwala zarządzać wieloma dzierżawami dla firmy i konsolidować je na koncie Centrum partnerskiego. Istnieje wiele powodów, dla których może być konieczne zarządzanie wieloma dzierżawami usługi Azure AD na koncie Centrum partnerskiego. Na przykład:
+W tym artykule omówiono sposób konsolidowania wielu dzierżaw Azure Active Directory (Azure AD) dla Twojej firmy, a następnie dodawania ich i zarządzania nimi na koncie Centrum partnerskiego. Istnieje wiele powodów, dla których należy to zrobić. Na przykład:
 
-- Firma może zakupić inną firmę i chce, aby pracownicy w nowej firmie mogli korzystać z Centrum partnerskiego. Jednak dwie firmy powinny pozostać osobne. W takim przypadku należy skojarzyć dzierżawę usługi Azure AD nowej firmy z kontem globalnym partnera (PGA). To skojarzenie umożliwi użytkownikom w obu firmach działanie w centrum partnerskim.
+- Załóżmy, że firma Contoso uzyska kolejną firmę, firmę fabrikam. Chcesz, aby dwie firmy pozostały do oddzielenia, ale chcesz, aby nowi pracownicy mogli korzystać z Centrum partnerskiego. W takim przypadku należy skojarzyć dzierżawę usługi Azure AD nowej firmy z kontem globalnym partnera (PGA). To skojarzenie umożliwia użytkownikom w obu firmach działanie w centrum partnerskim.
 
-- Jeśli masz więcej niż jedną dzierżawę do uruchomienia Twojej firmy (np. contoso.com, contoso.uk, contoso.in), możesz użyć wielu dzierżawców, aby powiązać je w ramach tego samego konta komputera.
+- Jeśli uruchamiasz swoją firmę z więcej niż jedną dzierżawą (na przykład *contoso.com*, *contoso.uk* i *contoso.in*), możesz użyć wielodostępności, aby ZGRUPOWAĆ je na tym samym koncie komputera.
 
-- Fuzje i przejęcia wymagają pracy z więcej niż jedną dzierżawą (np. Jeśli firma Contoso uzyska Fabrikam, musi być w stanie użyć zarówno Constoso.com, jak i Fabrikam.com odpowiednich dzierżawców).
+- Jeśli fuzje i wskazówki dotyczące pozyskiwania wymagają pracy z dzierżawcami obu firm, należy użyć zarówno dzierżaw *constoso.com* , jak i *fabrikam.com* .
 
-- Użytkownicy z dowolnego dzierżawy muszą mieć możliwość:
-    1.  Centrum partnerskie dostępu do szkoleń, pobierania cyfrowego, skojarzenia MCP
-    2.  Do przypisywania ról Centrum partnerskiego, takich jak MPN administrator, zachęty administratora itp.
+- Użytkownicy dowolnych dzierżawców muszą mieć możliwość:
+    * Centrum partnerskie dostępu do szkoleń, plików cyfrowych i skojarzeń Microsoft Certified Professional (MCP).
+    * Należy przypisać role Centrum partnerskiego, takie jak administrator Microsoft Partner Network (MPN) lub administrator zachęt.
 
+## <a name="add-an-azure-ad-tenant-to-your-account"></a>Dodawanie dzierżawy usługi Azure AD do konta
 
-## <a name="add-another-azure-ad-tenant-to-your-account"></a>Dodaj kolejną dzierżawę usługi Azure AD do swojego konta
+1. Zaloguj się jako Administrator globalny do [Centrum partnerskiego firmy Microsoft](https://partner.microsoft.com/dashboard).
 
-1. Jako Administrator globalny Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
-1. Na ikonie **ustawień** wybierz pozycję **Ustawienia konta** , a następnie wybierz pozycję **dzierżawy**.
+1. W prawym górnym rogu wybierz pozycję **Ustawienia**, wybierz pozycję **Ustawienia konta**, a następnie wybierz pozycję **dzierżawy**.
  
-:::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="Kojarzenie dzierżawców"::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="Zrzut ekranu przedstawiający przycisk Skojarz w okienku profil usługi Azure AD."::: 
 
-3. Wybierz pozycję **Skojarz inną dzierżawę usługi AD** i wskaż dzierżawcę, którą chcesz skojarzyć.
+1. Wybierz pozycję **Skojarz**, a następnie wskaż dzierżawcę, który chcesz skojarzyć.
 
-1. Jako Administrator globalny Zaloguj się do dzierżawy, którą chcesz skojarzyć, i Potwierdź skojarzenie. 
+1. W wierszu polecenia Zaloguj się jako Administrator globalny do dzierżawy, którą chcesz skojarzyć, a następnie wybierz pozycję **Potwierdź**. 
 
-:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Potwierdź kojarzenie dzierżawców"::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Zrzut ekranu przedstawiający przycisk Potwierdź w okienku Potwierdź nowe skojarzenie usługi Azure AD."::: 
 
-5. Po potwierdzeniu zostanie wyświetlona informacja o **zestawie** .  Wybierz pozycję **Wróć do zarządzania dzierżawcą** i zobaczysz nowo dodaną dzierżawę na liście. 
+   Po potwierdzeniu skojarzenia zostanie wyświetlony komunikat **cała grupa** . Aby wyświetlić nowo dodaną dzierżawę, wybierz pozycję **Wróć do zarządzania dzierżawcą**. 
  
-
 >[!NOTE]
 >Nie można skojarzyć dzierżawy z kontem, jeśli jest ono już skojarzone z innym kontem Centrum partnerskiego.
 
 
 ## <a name="remove-a-tenant-from-your-account"></a>Usuwanie dzierżawy z konta
  
-1. Jako Administrator globalny Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
+1. Zaloguj się jako Administrator globalny do [Centrum partnerskiego firmy Microsoft](https://partner.microsoft.com/dashboard).
 
-1. Na ikonie **ustawień** wybierz pozycję **ustawienia konta** — > dzierżawców i kliknij kartę **partner** .
+1. W prawym górnym rogu wybierz ikonę **Ustawienia** , a następnie wybierz pozycję **Ustawienia konta**.
+
+1. W okienku po lewej stronie wybierz pozycję **dzierżawy**. W obszarze **Zarządzanie dzierżawami usługi Azure AD** wybierz kartę **partner** .
  
-3. Kliknij pozycję Usuń dla dzierżawy, którą chcesz **usunąć** skojarzenie.
+1. Wybierz pozycję **Usuń** obok dzierżawy, której skojarzenie chcesz usunąć.
 
-4. Skojarzenie dzierżawy oznacza, że użytkownicy tej dzierżawy nie będą już mieli dostępu do konta Centrum partnerskiego i mogą mieć wpływ na swoje kompetencje. 
+   :::image type="content" source="images/disassociate.png" alt-text="Zrzut ekranu przedstawiający bieżące skojarzenia dzierżawców i ich linki do usunięcia.":::
 
-Przycisk **Usuń** jest włączony dla wszystkich skojarzonych dzierżawców, z wyjątkiem głównej dzierżawy i dzierżawy, do której użytkownik jest obecnie zalogowany.
+   Jak pokazano na poprzednim zrzucie ekranu, łącza **Usuń** są włączone dla wszystkich skojarzonych dzierżawców, z wyjątkiem głównej dzierżawy i dzierżawy, do której użytkownik jest aktualnie zalogowany. 
 
-:::image type="content" source="images/disassociate.png" alt-text="dzierżawcy z przyciskiem Usuń":::
- 
+   > [!NOTE]   
+   > Po usunięciu dzierżawy użytkownicy tej dzierżawy nie mają już dostępu do konta Centrum partnerskiego, a usunięcie może mieć wpływ na swoje kompetencje. 
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Dodaj użytkowników](create-user-accounts-and-set-permissions.md)
+- [Tworzenie kont użytkowników](create-user-accounts-and-set-permissions.md)
 
 
 

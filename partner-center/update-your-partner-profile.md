@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/03/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 9cb0c94a97a7fb80ec3e8285bb1ed68628c9831b
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 2527e57ea0c95c5d91728dd6198490365b264c6f
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755790"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124775"
 ---
 # <a name="verify-your-company-profile-information-in-partner-center"></a>Weryfikowanie informacji o profilu firmy w centrum partnerskim
 
@@ -69,7 +69,7 @@ Aby wprowadzić te aktualizacje, musisz być administratorem globalnym lub konte
 
 Aby zaktualizować identyfikator MPN skojarzony z kontem dostawcy CSP:
 
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/en-us/dashboard/home) Centrum partnerskiego jako Administrator globalny z poświadczeniami konta dostawcy usług kryptograficznych, a następnie wybierz pozycję **Ustawienia**. (Poświadczenia MPN i CSP mogą różnić się od siebie).
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home) Centrum partnerskiego jako Administrator globalny z poświadczeniami konta dostawcy usług kryptograficznych, a następnie wybierz pozycję **Ustawienia**. (Poświadczenia MPN i CSP mogą różnić się od siebie).
  
 1. Wybierz **identyfikatory** z **ustawień konta**.
 
@@ -87,4 +87,3 @@ Jeśli jesteś administratorem globalnym, administratorem rozliczeń lub agentem
 - [Sprawdź stan weryfikacji](verification-responses.md)
 
 - [Zarządzaj lokalizacjami MPN](manage-locations.md)
-
