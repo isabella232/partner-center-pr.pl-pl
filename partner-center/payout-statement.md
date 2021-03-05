@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 10/29/2020
-ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 3/2/2021
+ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756171"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185353"
 ---
 # <a name="payout-statements"></a>Zestawienia wypłat
 
@@ -56,8 +56,7 @@ Możesz również użyć [interfejsu API wypłaty partnera](https://apidocs.micr
 
 ## <a name="transaction-history"></a>Historia transakcji
 
-Na stronie **Historia transakcji** są wyświetlane podsumowanie zarobków, Szacowana kolejna płatność oraz Trend zysków i płatności w ciągu ostatnich 36 miesięcy. Możesz również pobrać szczegóły transakcji z tej sekcji.
-
+Na stronie **Historia transakcji** są wyświetlane podsumowanie zarobków, Szacowana kolejna płatność oraz Trend zysków i płatności w ciągu ostatnich 36 miesięcy. Możesz również pobrać szczegóły transakcji z tej sekcji.<br><br>Ten raport przedstawia wszystkie zyski kwalifikujące się do wypłaty, w tym płatności, które nie zostały jeszcze wysłane. Zarobki kwalifikują się do wypłacenia, gdy dostawca ISV zakończył wszystkie informacje o banku i podatkowe w centrum partnerskim, uzyskał >$50, konto niezależnego dostawcy oprogramowania jest aktywne, a klient został rozliczony (w przypadku transakcji EA) lub otrzymano płatność (w przypadku transakcji nieobjętych umową EA).
 
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="Przegląd transakcji.":::
 
