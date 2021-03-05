@@ -1,80 +1,81 @@
 ---
-title: Dodawanie dodatkowych dzierżawców do konta Centrum partnerskiego
+title: Dodawanie dzierżawców do konta Centrum partnerskiego
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, jak dodawać i konsolidować wiele dzierżawców usługi Azure AD na koncie Centrum partnerskiego oraz zarządzać nimi. Dowiedz się również kilka przyczyn, które warto wykonać.
+description: Dowiedz się, jak dodawać i konsolidować wiele dzierżawców usługi Azure AD na koncie Centrum partnerskiego oraz zarządzać nimi, a także dowiedzieć się, dlaczego warto to zrobić.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9852b4e1c3997b82f744555db25fe64e1afc8ad
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 2f3094489f65b7164b4a55804047f9a4ab5f11cb
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182441"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124809"
 ---
-# <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a><span data-ttu-id="a5c2e-104">Dodawanie wielu dzierżawców i zarządzanie nimi na koncie Centrum partnerskiego</span><span class="sxs-lookup"><span data-stu-id="a5c2e-104">Add and manage multiple tenants in your Partner Center account</span></span>
+# <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a><span data-ttu-id="72d21-103">Dodawanie wielu dzierżawców i zarządzanie nimi na koncie Centrum partnerskiego</span><span class="sxs-lookup"><span data-stu-id="72d21-103">Add and manage multiple tenants in your Partner Center account</span></span>
 
 
-<span data-ttu-id="a5c2e-105">**Odpowiednie role**</span><span class="sxs-lookup"><span data-stu-id="a5c2e-105">**Appropriate roles**</span></span>
+<span data-ttu-id="72d21-104">**Odpowiednie role**</span><span class="sxs-lookup"><span data-stu-id="72d21-104">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="a5c2e-106">Administrator globalny</span><span class="sxs-lookup"><span data-stu-id="a5c2e-106">Global admin</span></span>
-- <span data-ttu-id="a5c2e-107">Administrator konta</span><span class="sxs-lookup"><span data-stu-id="a5c2e-107">Account admin</span></span>
+- <span data-ttu-id="72d21-105">Administrator globalny</span><span class="sxs-lookup"><span data-stu-id="72d21-105">Global admin</span></span>
+- <span data-ttu-id="72d21-106">Administrator konta</span><span class="sxs-lookup"><span data-stu-id="72d21-106">Account admin</span></span>
 
-<span data-ttu-id="a5c2e-108">Ta funkcja pozwala zarządzać wieloma dzierżawami dla firmy i konsolidować je na koncie Centrum partnerskiego.</span><span class="sxs-lookup"><span data-stu-id="a5c2e-108">This feature allows you to manage multiple tenants for your company and to consolidate them into your Partner Center account.</span></span> <span data-ttu-id="a5c2e-109">Istnieje wiele powodów, dla których może być konieczne zarządzanie wieloma dzierżawami usługi Azure AD na koncie Centrum partnerskiego.</span><span class="sxs-lookup"><span data-stu-id="a5c2e-109">There are many reasons why you may need to manage multiple Azure AD tenants in your Partner Center account.</span></span> <span data-ttu-id="a5c2e-110">Na przykład:</span><span class="sxs-lookup"><span data-stu-id="a5c2e-110">For example:</span></span>
+<span data-ttu-id="72d21-107">W tym artykule omówiono sposób konsolidowania wielu dzierżaw Azure Active Directory (Azure AD) dla Twojej firmy, a następnie dodawania ich i zarządzania nimi na koncie Centrum partnerskiego.</span><span class="sxs-lookup"><span data-stu-id="72d21-107">This article discusses how to consolidate multiple Azure Active Directory (Azure AD) tenants for your company and then add and manage them in your Partner Center account.</span></span> <span data-ttu-id="72d21-108">Istnieje wiele powodów, dla których należy to zrobić.</span><span class="sxs-lookup"><span data-stu-id="72d21-108">There are many reasons to do so.</span></span> <span data-ttu-id="72d21-109">Na przykład:</span><span class="sxs-lookup"><span data-stu-id="72d21-109">For example:</span></span>
 
-- <span data-ttu-id="a5c2e-111">Firma może zakupić inną firmę i chce, aby pracownicy w nowej firmie mogli korzystać z Centrum partnerskiego.</span><span class="sxs-lookup"><span data-stu-id="a5c2e-111">Your company may purchase another company, and you want the employees in the new company to be able to use Partner Center.</span></span> <span data-ttu-id="a5c2e-112">Jednak dwie firmy powinny pozostać osobne.</span><span class="sxs-lookup"><span data-stu-id="a5c2e-112">However, you want the two companies to remain separate.</span></span> <span data-ttu-id="a5c2e-113">W takim przypadku należy skojarzyć dzierżawę usługi Azure AD nowej firmy z kontem globalnym partnera (PGA).</span><span class="sxs-lookup"><span data-stu-id="a5c2e-113">In this case, you'd associate the new company's Azure AD tenant with your Partner global account (PGA).</span></span> <span data-ttu-id="a5c2e-114">To skojarzenie umożliwi użytkownikom w obu firmach działanie w centrum partnerskim.</span><span class="sxs-lookup"><span data-stu-id="a5c2e-114">This association would enable users in both companies to work in Partner Center.</span></span>
+- <span data-ttu-id="72d21-110">Załóżmy, że firma Contoso uzyska kolejną firmę, firmę fabrikam.</span><span class="sxs-lookup"><span data-stu-id="72d21-110">Let's say your company, Contoso, has acquired another company, Fabrikam.</span></span> <span data-ttu-id="72d21-111">Chcesz, aby dwie firmy pozostały do oddzielenia, ale chcesz, aby nowi pracownicy mogli korzystać z Centrum partnerskiego.</span><span class="sxs-lookup"><span data-stu-id="72d21-111">You want the two companies to remain separate, but you want the new employees to be able to use Partner Center.</span></span> <span data-ttu-id="72d21-112">W takim przypadku należy skojarzyć dzierżawę usługi Azure AD nowej firmy z kontem globalnym partnera (PGA).</span><span class="sxs-lookup"><span data-stu-id="72d21-112">In this case, you associate the new company's Azure AD tenant with your Partner global account (PGA).</span></span> <span data-ttu-id="72d21-113">To skojarzenie umożliwia użytkownikom w obu firmach działanie w centrum partnerskim.</span><span class="sxs-lookup"><span data-stu-id="72d21-113">This association enables users in both companies to work in Partner Center.</span></span>
 
-- <span data-ttu-id="a5c2e-115">Jeśli masz więcej niż jedną dzierżawę do uruchomienia Twojej firmy (np. contoso.com, contoso.uk, contoso.in), możesz użyć wielu dzierżawców, aby powiązać je w ramach tego samego konta komputera.</span><span class="sxs-lookup"><span data-stu-id="a5c2e-115">If you have more than one tenant to run your business (e.g. contoso.com, contoso.uk, contoso.in) you can use multi-tenancy to tie them under the same PC account.</span></span>
+- <span data-ttu-id="72d21-114">Jeśli uruchamiasz swoją firmę z więcej niż jedną dzierżawą (na przykład *contoso.com*, *contoso.uk* i *contoso.in*), możesz użyć wielodostępności, aby ZGRUPOWAĆ je na tym samym koncie komputera.</span><span class="sxs-lookup"><span data-stu-id="72d21-114">If you run your business with more than one tenant (for example, *contoso.com*, *contoso.uk*, and *contoso.in*), you can use multitenancy to group them in the same PC account.</span></span>
 
-- <span data-ttu-id="a5c2e-116">Fuzje i przejęcia wymagają pracy z więcej niż jedną dzierżawą (np. Jeśli firma Contoso uzyska Fabrikam, musi być w stanie użyć zarówno Constoso.com, jak i Fabrikam.com odpowiednich dzierżawców).</span><span class="sxs-lookup"><span data-stu-id="a5c2e-116">Mergers and acquisitions requires you to work with more than one tenant (e.g. If Contoso acquires Fabrikam, you would need to be able to use both Constoso.com and Fabrikam.com respective tenants).</span></span>
+- <span data-ttu-id="72d21-115">Jeśli fuzje i wskazówki dotyczące pozyskiwania wymagają pracy z dzierżawcami obu firm, należy użyć zarówno dzierżaw *constoso.com* , jak i *fabrikam.com* .</span><span class="sxs-lookup"><span data-stu-id="72d21-115">If mergers and acquisitions guidelines require you to work with tenants of both companies, you would use both the *constoso.com* and *fabrikam.com* tenants.</span></span>
 
-- <span data-ttu-id="a5c2e-117">Użytkownicy z dowolnego dzierżawy muszą mieć możliwość:</span><span class="sxs-lookup"><span data-stu-id="a5c2e-117">Users from any of the tenants would need to be able to:</span></span>
-    1.  <span data-ttu-id="a5c2e-118">Centrum partnerskie dostępu do szkoleń, pobierania cyfrowego, skojarzenia MCP</span><span class="sxs-lookup"><span data-stu-id="a5c2e-118">Access Partner Center for training, digital downloads, MCP association</span></span>
-    2.  <span data-ttu-id="a5c2e-119">Do przypisywania ról Centrum partnerskiego, takich jak MPN administrator, zachęty administratora itp.</span><span class="sxs-lookup"><span data-stu-id="a5c2e-119">Be assigned Partner Center roles like MPN Admin, Incentives Admin etc.</span></span>
+- <span data-ttu-id="72d21-116">Użytkownicy dowolnych dzierżawców muszą mieć możliwość:</span><span class="sxs-lookup"><span data-stu-id="72d21-116">Users of any of the tenants need to be able to:</span></span>
+    * <span data-ttu-id="72d21-117">Centrum partnerskie dostępu do szkoleń, plików cyfrowych i skojarzeń Microsoft Certified Professional (MCP).</span><span class="sxs-lookup"><span data-stu-id="72d21-117">Access Partner Center for training, digital downloads, or Microsoft Certified Professional (MCP) association.</span></span>
+    * <span data-ttu-id="72d21-118">Należy przypisać role Centrum partnerskiego, takie jak administrator Microsoft Partner Network (MPN) lub administrator zachęt.</span><span class="sxs-lookup"><span data-stu-id="72d21-118">Be assigned Partner Center roles such as Microsoft Partner Network (MPN) admin or incentives admin.</span></span>
 
+## <a name="add-an-azure-ad-tenant-to-your-account"></a><span data-ttu-id="72d21-119">Dodawanie dzierżawy usługi Azure AD do konta</span><span class="sxs-lookup"><span data-stu-id="72d21-119">Add an Azure AD tenant to your account</span></span>
 
-## <a name="add-another-azure-ad-tenant-to-your-account"></a><span data-ttu-id="a5c2e-120">Dodaj kolejną dzierżawę usługi Azure AD do swojego konta</span><span class="sxs-lookup"><span data-stu-id="a5c2e-120">Add another Azure AD tenant to your account</span></span>
+1. <span data-ttu-id="72d21-120">Zaloguj się jako Administrator globalny do [Centrum partnerskiego firmy Microsoft](https://partner.microsoft.com/dashboard).</span><span class="sxs-lookup"><span data-stu-id="72d21-120">Sign in as global admin to [Microsoft Partner Center](https://partner.microsoft.com/dashboard).</span></span>
 
-1. <span data-ttu-id="a5c2e-121">Jako Administrator globalny Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.</span><span class="sxs-lookup"><span data-stu-id="a5c2e-121">As the global admin, sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
-1. <span data-ttu-id="a5c2e-122">Na ikonie **ustawień** wybierz pozycję **Ustawienia konta** , a następnie wybierz pozycję **dzierżawy**.</span><span class="sxs-lookup"><span data-stu-id="a5c2e-122">From the **Settings** icon, select **Account settings** and then select **Tenants**.</span></span>
+1. <span data-ttu-id="72d21-121">W prawym górnym rogu wybierz pozycję **Ustawienia**, wybierz pozycję **Ustawienia konta**, a następnie wybierz pozycję **dzierżawy**.</span><span class="sxs-lookup"><span data-stu-id="72d21-121">At the upper right, select **Settings**, select **Account settings**, and then select **Tenants**.</span></span>
  
-:::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="Kojarzenie dzierżawców"::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="Zrzut ekranu przedstawiający przycisk Skojarz w okienku profil usługi Azure AD."::: 
 
-3. <span data-ttu-id="a5c2e-124">Wybierz pozycję **Skojarz inną dzierżawę usługi AD** i wskaż dzierżawcę, którą chcesz skojarzyć.</span><span class="sxs-lookup"><span data-stu-id="a5c2e-124">Select **Associate another AD tenant** and indicate the tenant you want to associate.</span></span>
+1. <span data-ttu-id="72d21-123">Wybierz pozycję **Skojarz**, a następnie wskaż dzierżawcę, który chcesz skojarzyć.</span><span class="sxs-lookup"><span data-stu-id="72d21-123">Select **Associate**, and then indicate the tenant you want to associate.</span></span>
 
-1. <span data-ttu-id="a5c2e-125">Jako Administrator globalny Zaloguj się do dzierżawy, którą chcesz skojarzyć, i Potwierdź skojarzenie.</span><span class="sxs-lookup"><span data-stu-id="a5c2e-125">As global admin, sign into the tenant you want to associate and confirm the association.</span></span> 
+1. <span data-ttu-id="72d21-124">W wierszu polecenia Zaloguj się jako Administrator globalny do dzierżawy, którą chcesz skojarzyć, a następnie wybierz pozycję **Potwierdź**.</span><span class="sxs-lookup"><span data-stu-id="72d21-124">At the prompt, sign in as global admin to the tenant you want to associate, and then select **Confirm**.</span></span> 
 
-:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Potwierdź kojarzenie dzierżawców"::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Zrzut ekranu przedstawiający przycisk Potwierdź w okienku Potwierdź nowe skojarzenie usługi Azure AD."::: 
 
-5. <span data-ttu-id="a5c2e-127">Po potwierdzeniu zostanie wyświetlona informacja o **zestawie** .</span><span class="sxs-lookup"><span data-stu-id="a5c2e-127">After you confirm, you will see an **All set** notice.</span></span>  <span data-ttu-id="a5c2e-128">Wybierz pozycję **Wróć do zarządzania dzierżawcą** i zobaczysz nowo dodaną dzierżawę na liście.</span><span class="sxs-lookup"><span data-stu-id="a5c2e-128">Select **Return to tenant management** and you'll see the newly added tenant listed.</span></span> 
+   <span data-ttu-id="72d21-126">Po potwierdzeniu skojarzenia zostanie wyświetlony komunikat **cała grupa** .</span><span class="sxs-lookup"><span data-stu-id="72d21-126">After you've confirmed the association, an **All set** message is displayed.</span></span> <span data-ttu-id="72d21-127">Aby wyświetlić nowo dodaną dzierżawę, wybierz pozycję **Wróć do zarządzania dzierżawcą**.</span><span class="sxs-lookup"><span data-stu-id="72d21-127">To view the newly added tenant, select **Return to tenant management**.</span></span> 
  
-
 >[!NOTE]
-><span data-ttu-id="a5c2e-129">Nie można skojarzyć dzierżawy z kontem, jeśli jest ono już skojarzone z innym kontem Centrum partnerskiego.</span><span class="sxs-lookup"><span data-stu-id="a5c2e-129">You can't associate a tenant to an account if it is already associated to another Partner Center account.</span></span>
+><span data-ttu-id="72d21-128">Nie można skojarzyć dzierżawy z kontem, jeśli jest ono już skojarzone z innym kontem Centrum partnerskiego.</span><span class="sxs-lookup"><span data-stu-id="72d21-128">You can't associate a tenant with an account if it's already associated with another Partner Center account.</span></span>
 
 
-## <a name="remove-a-tenant-from-your-account"></a><span data-ttu-id="a5c2e-130">Usuwanie dzierżawy z konta</span><span class="sxs-lookup"><span data-stu-id="a5c2e-130">Remove a tenant from your account</span></span>
+## <a name="remove-a-tenant-from-your-account"></a><span data-ttu-id="72d21-129">Usuwanie dzierżawy z konta</span><span class="sxs-lookup"><span data-stu-id="72d21-129">Remove a tenant from your account</span></span>
  
-1. <span data-ttu-id="a5c2e-131">Jako Administrator globalny Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.</span><span class="sxs-lookup"><span data-stu-id="a5c2e-131">As the global admin, sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
+1. <span data-ttu-id="72d21-130">Zaloguj się jako Administrator globalny do [Centrum partnerskiego firmy Microsoft](https://partner.microsoft.com/dashboard).</span><span class="sxs-lookup"><span data-stu-id="72d21-130">Sign in as global admin to [Microsoft Partner Center](https://partner.microsoft.com/dashboard).</span></span>
 
-1. <span data-ttu-id="a5c2e-132">Na ikonie **ustawień** wybierz pozycję **ustawienia konta** — > dzierżawców i kliknij kartę **partner** .</span><span class="sxs-lookup"><span data-stu-id="a5c2e-132">From the **Settings** icon, select **Account settings** -> Tenants and click on the **Partner** tab.</span></span>
+1. <span data-ttu-id="72d21-131">W prawym górnym rogu wybierz ikonę **Ustawienia** , a następnie wybierz pozycję **Ustawienia konta**.</span><span class="sxs-lookup"><span data-stu-id="72d21-131">At the upper right, select the **Settings** icon, and then select **Account settings**.</span></span>
+
+1. <span data-ttu-id="72d21-132">W okienku po lewej stronie wybierz pozycję **dzierżawy**.</span><span class="sxs-lookup"><span data-stu-id="72d21-132">On the left pane, select **Tenants**.</span></span> <span data-ttu-id="72d21-133">W obszarze **Zarządzanie dzierżawami usługi Azure AD** wybierz kartę **partner** .</span><span class="sxs-lookup"><span data-stu-id="72d21-133">Under **Manage Azure AD tenants**, select the **Partner** tab.</span></span>
  
-3. <span data-ttu-id="a5c2e-133">Kliknij pozycję Usuń dla dzierżawy, którą chcesz **usunąć** skojarzenie.</span><span class="sxs-lookup"><span data-stu-id="a5c2e-133">Click **Remove** for the tenant you want to dissociate.</span></span>
+1. <span data-ttu-id="72d21-134">Wybierz pozycję **Usuń** obok dzierżawy, której skojarzenie chcesz usunąć.</span><span class="sxs-lookup"><span data-stu-id="72d21-134">Select **Remove** next to the tenant whose association you want to remove.</span></span>
 
-4. <span data-ttu-id="a5c2e-134">Skojarzenie dzierżawy oznacza, że użytkownicy tej dzierżawy nie będą już mieli dostępu do konta Centrum partnerskiego i mogą mieć wpływ na swoje kompetencje.</span><span class="sxs-lookup"><span data-stu-id="a5c2e-134">Dissociating a tenant means that the users on that tenant will no longer have access to the Partner Center account, and this could have an impact on your competencies.</span></span> 
+   :::image type="content" source="images/disassociate.png" alt-text="Zrzut ekranu przedstawiający bieżące skojarzenia dzierżawców i ich linki do usunięcia.":::
 
-<span data-ttu-id="a5c2e-135">Przycisk **Usuń** jest włączony dla wszystkich skojarzonych dzierżawców, z wyjątkiem głównej dzierżawy i dzierżawy, do której użytkownik jest obecnie zalogowany.</span><span class="sxs-lookup"><span data-stu-id="a5c2e-135">The **Remove** button is enabled for all associated tenants, except the primary tenant and the tenant which you are currently signed into.</span></span>
+   <span data-ttu-id="72d21-136">Jak pokazano na poprzednim zrzucie ekranu, łącza **Usuń** są włączone dla wszystkich skojarzonych dzierżawców, z wyjątkiem głównej dzierżawy i dzierżawy, do której użytkownik jest aktualnie zalogowany.</span><span class="sxs-lookup"><span data-stu-id="72d21-136">As shown in the preceding screenshot, the **Remove** links are enabled for all associated tenants, except for the primary tenant and the tenant that you're currently signed in to.</span></span> 
 
-:::image type="content" source="images/disassociate.png" alt-text="dzierżawcy z przyciskiem Usuń":::
- 
+   > [!NOTE]   
+   > <span data-ttu-id="72d21-137">Po usunięciu dzierżawy użytkownicy tej dzierżawy nie mają już dostępu do konta Centrum partnerskiego, a usunięcie może mieć wpływ na swoje kompetencje.</span><span class="sxs-lookup"><span data-stu-id="72d21-137">When you remove a tenant, the users on that tenant no longer have access to the Partner Center account, and the removal might have an impact on your competencies.</span></span> 
 
-## <a name="next-steps"></a><span data-ttu-id="a5c2e-137">Następne kroki</span><span class="sxs-lookup"><span data-stu-id="a5c2e-137">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="72d21-138">Następne kroki</span><span class="sxs-lookup"><span data-stu-id="72d21-138">Next steps</span></span>
 
-- [<span data-ttu-id="a5c2e-138">Dodaj użytkowników</span><span class="sxs-lookup"><span data-stu-id="a5c2e-138">Add users</span></span>](create-user-accounts-and-set-permissions.md)
+- [<span data-ttu-id="72d21-139">Tworzenie kont użytkowników</span><span class="sxs-lookup"><span data-stu-id="72d21-139">Create user accounts</span></span>](create-user-accounts-and-set-permissions.md)
 
 
 
