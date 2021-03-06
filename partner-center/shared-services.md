@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: 93ee3e142bf11c3b329fd27ec7320b93aea780b8
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.openlocfilehash: a59cf0b271a0ccf5fd5a1d8e3e85ff43818a3801
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532042"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247700"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Dodaj udostępnione usługi partnerskie platformy Azure, aby partnerzy mogli kupować subskrypcje platformy Azure pod kątem własnych potrzeb
 
@@ -25,7 +25,7 @@ ms.locfileid: "94532042"
 - Agent administracyjny
 - Agent sprzedaży
 
-Usługi udostępnione partnerskiej platformy Azure to nowy typ oferty dla partnerów w programie CSP, który umożliwia partnerom kupowanie subskrypcji platformy Azure do własnych potrzeb.Umożliwia ona partnerom używanie jednolitej metody do kupowania, śledzenia i zarządzania platformą Azure, a także do konsolidacji licencji na korzystanie z platformy Azure i odsprzedaży umów z firmą Microsoft. Dzięki udostępnionym usługom partnerskim platformy Azure partnerzy mają teraz taką samą elastyczność jak korzystanie z subskrypcji platformy Azure w programie CSP, jak w przypadku programów Microsoft Umowa Enterprise i Web Direct, otwieranie scenariuszy, takich jak tworzenie środowisk deweloperskich i testowych, wdrażanie obciążeń wewnętrznych i hostowanie usług udostępnionych lub aplikacji wielodostępnych.  
+Usługi udostępnione partnerskiej platformy Azure to nowy typ oferty dla partnerów w programie CSP, który umożliwia partnerom kupowanie subskrypcji platformy Azure do własnych potrzeb.Umożliwia ona partnerom używanie jednolitej metody do kupowania, śledzenia i zarządzania platformą Azure, a także do konsolidacji licencji na korzystanie z platformy Azure i odsprzedaży umów z firmą Microsoft. Dzięki udostępnionym usługom partnerskim platformy Azure partnerzy mają teraz taką samą elastyczność jak korzystanie z subskrypcji platformy Azure w programie CSP, jak w przypadku programów Microsoft Enterprise Agreement i Web Direct, otwieranie scenariuszy, takich jak tworzenie środowisk deweloperskich i testowych, wdrażanie obciążeń wewnętrznych i hostowanie usług udostępnionych lub aplikacji wielodostępnych.  
 
 ## <a name="create-the-shared-services-tenant"></a>Tworzenie dzierżawy usług udostępnionych
 
@@ -45,7 +45,7 @@ Usługi udostępnione partnerskiej platformy Azure to nowy typ oferty dla partne
 
 - Subskrypcja Azure — usługi wewnętrzne/udostępnione jest nowym typem oferty platformy Azure w programie CSP dostępnym za pomocą Centrum partnerskiego, które partnerzy uzyskają w celu korzystania z platformy Azure.
 
-- Oferta Azure — usługi wewnętrzne/udostępnione uprawnia do korzystania z rabatów i zachęt.  Subskrypcje udostępnionych usług partnerskich platformy Azure są uprawnione i mogą być używane do kupowania usług RIs.
+- Subskrypcje udostępnionych usług partnerskich platformy Azure są uprawnione i mogą być używane do kupowania usług RIs.
 
 - Oferta Azure — usługi wewnętrzne/udostępnione może być stosowana tylko do dzierżawy usług udostępnionych.
 

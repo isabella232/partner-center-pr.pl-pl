@@ -1,7 +1,7 @@
 ---
 title: Podatki regionalne i zwolnienia podatkowe
 ms.topic: article
-ms.date: 12/04/2020
+ms.date: 03/05/2021
 description: W przypadku partnerów programu CSP zapoznaj się z obowiązkami podatkowymi na region, jak przesłać zwolnienia podatkowe dla sprzedaży CSP oraz jak uzyskać pomoc techniczną dotyczącą pytań podatkowych.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,15 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3777ea3dbf6d889787c942e584087b2378659adb
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755592"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247676"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Przeczytaj informacje na temat podatków i szczegółów zwolnienia z podatku według regionu lub kraju dla partnerów w programie CSP
 
-Dotyczy:
-
-- Centrum partnerskie
-- Centrum partnerskie Microsoft Cloud for US Government
 
 Program Cloud Solution Provider (CSP) jest kanałem sprzedaży skoncentrowanym na odsprzedaży od partnera produktów. W związku z tym firma Microsoft nie zawsze musi naliczać podatek od sprzedaży na fakturach partnerów. Reguły różnią się w zależności od kraju i/lub regionu. Można przejrzeć [szczegóły dotyczące kraju i specyficzne dla regionu dla zwolnień podatkowych](#country-and-region-tax-details).
 
@@ -33,7 +29,6 @@ Określone informacje dotyczące podatku są dostępne dla Kanady i Stany Zjedno
 
 Jeśli jesteś w innym kraju lub regionie, w którym są naliczane podatki, zobacz [Informacje o innych regionach](#other-regions).
 
-Aby uzyskać dodatkowe pytania, [Poproś o pomoc techniczną w centrum partnerskim](#support).
 
 ### <a name="canada"></a>Kanada
 

@@ -6,13 +6,13 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 03/05/2021
+ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924916"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247656"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Często zadawane pytania dotyczące wypłat i podatków
 
@@ -63,7 +63,14 @@ Firma jest odpowiedzialna za zapewnienie, że rola zachęty administrator — kt
 
 #### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Mój profil podatkowy wygasł. Jak mogę rozwiązać ten problem?
 
-Aby zaktualizować profil podatkowy, wykonaj kroki opisane w temacie [Tworzenie lub aktualizowanie profilu podatku](set-up-your-payout-account.md#create-or-update-your-tax-profile) . Na stronie **profil podatkowy** można wyświetlić profile, które wygasły lub wkrótce wygasną w kolumnie **Data wygaśnięcia** . 
+Jeśli profil podatkowy wygasł lub wkrótce wygaśnie, oznacza to, że należy zaktualizować formularz podatkowy dostarczony do firmy Microsoft. Aby zaktualizować swój profil podatkowy, wykonaj następujące czynności:
+
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home)Centrum partnerskiego, a następnie wybierz ikonę koła zębatego, aby otworzyć menu **Ustawienia** .
+2. Wybierz pozycję **Ustawienia konta**, rozwiń sekcję **wypłata i podatek** , a następnie wybierz pozycję **wypłata i profil podatkowy** .
+3. Wybierz profil **podatkowy**
+4. Sprawdź **datę wygaśnięcia** kolumny i przejdź do profilu podatkowego, który wygasł lub wkrótce wygaśnie.
+5. Wybierz pozycję **Edytuj** , aby uruchomić proces edytowania profilu podatkowego.
+6. W sekcji formularz podatkowy Podaj zaktualizowane szczegóły.
 
 ## <a name="earnings-incorrect-or-missing"></a>Brak lub nieprawidłowe zarobki
 
