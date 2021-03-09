@@ -1,7 +1,7 @@
 ---
 title: Dowiedz się więcej na temat programu "przejdź do rynku" z ofertami firmy Microsoft
 ms.topic: article
-ms.date: 06/15/2020
+ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Dowiedz się, w jaki sposób można skrócić czas wprowadzenia na rynek, generować potencjalnych klientów i rozwijać swoją firmę.
@@ -9,19 +9,14 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d09dce7f4a80ed3014ecc8345d6f2bdf93da214d
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: d4f06f1983ab4bf3b6f9f77d02e7ae94817feeab
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92529314"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475266"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Zapoznaj się z ofertami firmy Microsoft dotyczącymi przejścia na rynek
-
-**Dotyczy**
-
-- Centrum partnerskie
-- Microsoft Partner Network członkowie
 
 **Odpowiednie role**
 
@@ -39,18 +34,18 @@ Oferty na wprowadzenie do rynku zapewniają dostęp do zasobów sprzedaży i mar
 
 Oferty przechodzenia do rynku różnią się w zależności od konkretnego poziomu członkostwa w MPN, Twoich specjalizacji [i wszelkich](learn-about-competencies.md) posiadanych uprawnień.
 
-Wszyscy członkowie MPN mają dostęp do niektórych standardowych zasobów GTM. Obejmują one dostęp do gotowych do użycia zasobów marketingowych, platformy włączania sprzedaży i marketingu cyfrowego na żądanie. Dostępne są również jeszcze więcej ofert i programów do sprzedaży dla partnerów, którzy uzyskują kompetencje Silver lub Gold i/lub partnerzy niezależnego dostawcy oprogramowania, dzięki gotowemu rozwiązaniu.
+Wszyscy członkowie MPN mają dostęp do niektórych standardowych zasobów GTM. Obejmują one dostęp do gotowych do użycia zasobów marketingowych, platformy włączania sprzedaży i marketingu cyfrowego na żądanie. Dostępne są również jeszcze więcej ofert i programów do sprzedaży dla partnerów, którzy uzyskują kompetencje Silver lub Gold i/lub partnerzy niezależnego dostawcy oprogramowania z oferowaną współsprzedażą.
 
 >[!NOTE]
->Zasoby na rynku, oferty i programy mogą być dodawane i zmieniane. Przejdź do strony Microsoft Partner Network [Przejdź na rynek](https://partner.microsoft.com/membership/go-to-market) , aby dowiedzieć się więcej o najnowszych zasobach na rynek i ofertach dostępnych dla partnerów, którzy uzyskują różne poziomy kompetencji i/lub partnerów niezależnych dostawców oprogramowania, dzięki gotowemu rozwiązaniu.
+>Zasoby na rynku, oferty i programy mogą być dodawane i zmieniane. Przejdź do strony Microsoft Partner Network [Przejdź na rynek](https://partner.microsoft.com/membership/go-to-market) , aby dowiedzieć się więcej o najnowszych zasobach na rynek i ofertach dostępnych dla partnerów, którzy uzyskują różne poziomy kompetencji i/lub partnerów niezależnych dostawców oprogramowania z oferowaną ofertą sprzedaży.
 
-Dodatkowe oferty typu "przejdź do rynku" są dostępne dla osób z poziomami kwalifikacji **Silver** i/lub partnerów niezależnego dostawcy oprogramowania przy użyciu rozwiązania gotowego do sprzedaży:
+Dodatkowe oferty typu "przejdź do rynku" są dostępne dla osób mających poziom kwalifikacji **Silver** i/lub partnerów niezależnego dostawcy oprogramowania z ofertą kwalifikującą się do zaoferowania:
 
 - Wszystkie MPN standardowe zasoby dotyczące języka go-to-Market
 - Optymalizacja profilu biznesowego i Zarządzanie odwołaniami
 - Jak na rynku z firmą Microsoft
 
-Dodatkowe oferty przechodzenia do rynku są dostępne dla partnerów z poziomami kwalifikacji **Gold** i/lub partnerów niezależnych dostawców oprogramowania, które udostępniają gotowe rozwiązanie do sprzedaży:
+Dodatkowe oferty przechodzenia na rynek dostępne dla partnerów z poziomami kwalifikacji **Gold** i/lub partnerów niezależnego dostawcy oprogramowania mają ofertę kwalifikującą się do zaoferowania:
 
 - Wszystkie MPN standardowe zasoby dotyczące języka go-to-Market
 - Wszystkie produkty do sprzedaży z Silver/ISV są gotowe do użycia w ofertach do wprowadzenia na rynek
@@ -78,14 +73,14 @@ Zostanie wyświetlona lista ofert przechodzenia do rynku, które są już aktywn
 
 ## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>Zarządzanie ofertami "przejdź do rynku" w centrum partnerskim lub ich aktywowanie
 
-Aby uaktywnić oferty przechodzenia do rynku lub zarządzać nimi, zobacz [jak zarządzać ofertami przechodzenia do rynku](manage-your-partner-network-benefits.md#manage-go-to-market-offers). W ramach tego procesu jest wymagane przypisanie osoby marketingowej jako kontaktu w celu uzyskania monitu o wiadomości e-mail i komunikacji z ofertami przechodzenia do rynku.
+Aby uaktywnić oferty przechodzenia do rynku lub zarządzać nimi, zobacz [jak zarządzać ofertami przechodzenia do rynku](manage-your-partner-network-benefits.md#manage-go-to-market-offers). Część procesu aktywacji wymaga przypisania osoby marketingowej jako kontaktu w celu uzyskania monitu o wiadomości e-mail i komunikacji z ofertami przechodzenia na rynek.
 
 >[!IMPORTANT]
 >Musisz być administratorem globalnym lub MPN partnera, aby aktywować konkretne oferty przejdź do rynku i przypisać powiązaną osobę kontaktową Marketing. W razie potrzeby można stać się administratorem globalnym, postępując zgodnie z instrukcjami na [stronie **korzyści**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (wymagane jest zalogowanie się). Firma może mieć już administratora globalnego, aby skontaktować się z zespołem.
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Zarządzanie korzyściami z sieci partnerskiej](manage-your-partner-network-benefits.md)
+- [Zarządzanie korzyściami z programu Partner Network](manage-your-partner-network-benefits.md)
 
 - [Kupowanie lub odnawianie subskrypcji programu Microsoft Action Pack](mpn-get-action-pack.md)
 

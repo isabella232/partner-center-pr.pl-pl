@@ -1,7 +1,7 @@
 ---
 title: Sprzedaż subskrypcji oprogramowania za pośrednictwem dostawcy rozwiązań w chmurze (CSP)
 ms.topic: how-to
-ms.date: 01/29/2021
+ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, w jaki sposób partnerzy w programie CSP mogą korzystać z Centrum partnerskiego, aby kupować, sprzedawać i anulować wystąpienia zarezerwowane platformy Azure oraz subskrypcje serwera dla klientów.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b6e08baf11061bc027b52d4662311bdc91ee0202
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756098"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475198"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sprzedaj subskrypcje oprogramowania za pomocą programu Cloud Solution Provider (CSP)
 
@@ -92,18 +92,25 @@ Aby kupić subskrypcje oprogramowania w imieniu klienta:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktywowanie subskrypcji oprogramowania i zarządzanie nimi
 
-Po zakupieniu oprogramowania klienci muszą ją pobrać. Użyj poniższej procedury w tym celu.
+Po zakupieniu oprogramowania ty lub klienci muszą pobrać ją (partnerzy przy użyciu Centrum partnerskiego), korzystając z centrum administracyjnego Microsoft 365. Użyj poniższej procedury w tym celu. Ważne jest, aby zrozumieć ryzyko związane z kopiowaniem linków i pobieraniem oprogramowania. Aby uzyskać więcej informacji, zobacz **Korzystanie z Centrum partnerskiego w celu uzyskania pobrań oprogramowania i kluczy licencji klienta** w [centrum partnerskim — nowy Przewodnik obsługi transakcji](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
 >[!NOTE]
->Aby uzyskać link do kluczy i plików do pobrania, musisz być agentem administracyjnym.
+>Aby uzyskać link do kluczy i plików do pobrania, musisz być agentem administracyjnym w centrum partnerskim.
 
 1. Przejdź do strony szczegółów klienta, a następnie wybierz pozycję **oprogramowanie**. Zostanie wyświetlona lista wszystkich programów zakupionych w imieniu klienta.
-2. Skopiuj link "głębokiego linku", **Aby połączyć się z kluczami produktów oprogramowania i pobrać** i udostępnić link klientowi. Po wybraniu tego linku zostaną one przekierowane do centrum administracyjnego firmy Microsoft, aby pobrać i uzyskać klucze produktów.
+
+2. Wybierz pozycję **wersja** produktu, **Język**, **bit**, a następnie wybierz pozycję **Pobierz klucze i pliki do pobrania**. 
+
+3. Wybierz pozycję **Pobierz klucz** , aby wyświetlić 32-cyfrowy produkt w oknie dialogowym podręcznym, który można skopiować i wysłać do klienta. 
+
+4. Wybierz pozycję **Pobierz** , aby pobrać bity. 
+
+5. Wybierz pozycję **Kopiuj link** , jeśli chcesz wysłać klientowi link do pobierania usługi BITS. 
+
+6. Możesz również **anulować** kolejność oprogramowania i otrzymać środki na 100% (jeśli zostało to zrobione w okresie zasad anulowania 60 dni).
 
 >[!NOTE]
->Tylko klienci mogą wyświetlać klucze produktów i informacje pobierane w centrum administracyjnym firmy Microsoft. Partnerzy nie mogą zobaczyć tych informacji.
-
-Jeśli ty lub klienci chcą dowiedzieć się więcej o pobieraniu kluczy licencji, zobacz [Pobieranie oprogramowania i kluczy licencji produktów](/microsoft-365/admin/setup/download-software-licenses-csp).
+>Tylko klienci mają dostęp do informacji o kluczach produktów i pobieraniu w centrum administracyjnym Microsoft 365 (wymagana rola administratora globalnego). Aby wyświetlić te informacje, partnerzy muszą korzystać z Centrum partnerskiego.
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Pobieranie subskrypcji serwera i klucze licencji dostępne za poorednictwem centrum administracyjnego Microsoft 365 dla klientów 
 

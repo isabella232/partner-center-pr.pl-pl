@@ -1,7 +1,7 @@
 ---
 title: Sprzedawanie oprogramowania lokalnego za poorednictwem dostawcy usług kryptograficznych
 ms.topic: how-to
-ms.date: 03/04/2021
+ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, w jaki sposób partnerzy w programie CSP mogą kupować, sprzedawać i anulować lokalne subskrypcje oprogramowania w imieniu klientów w centrum partnerskim.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c442711a3b60f5014397b3b2d8bdfd75a852fcc
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.openlocfilehash: 650f8085ba0e204b01f97a23640a37388ef57f17
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220248"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475215"
 ---
 # <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Sprzedawanie oprogramowania lokalnego za pomocą programu Cloud Solution Provider (CSP)
 
@@ -33,20 +33,29 @@ Aby kupić subskrypcje oprogramowania w imieniu klienta, przejdź do strony szcz
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktywowanie subskrypcji oprogramowania i zarządzanie nimi
 
-Po zakupieniu oprogramowania użytkownik lub jego klienci muszą je pobrać. Użyj poniższej procedury w tym celu.
+Po zakupieniu oprogramowania ty lub klienci muszą pobrać ją (partnerzy przy użyciu Centrum partnerskiego), korzystając z centrum administracyjnego Microsoft 365. Użyj poniższej procedury w tym celu. Ważne jest, aby zrozumieć ryzyko związane z kopiowaniem linków i pobieraniem oprogramowania. Aby uzyskać więcej informacji, zobacz **Korzystanie z Centrum partnerskiego w celu uzyskania pobrań oprogramowania i kluczy licencji klienta** w [centrum partnerskim — nowy Przewodnik obsługi transakcji](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
 >[!NOTE]
->Aby uzyskać link do kluczy i plików do pobrania, musisz być agentem administracyjnym.
+>Aby uzyskać link do kluczy i plików do pobrania, musisz być agentem administracyjnym w centrum partnerskim.
 
 1. Przejdź do strony szczegółów klienta, a następnie wybierz pozycję **oprogramowanie**. Zostanie wyświetlona lista wszystkich programów zakupionych w imieniu klienta.
-2. Postępuj zgodnie z instrukcjami w [Przewodniku obsługi partnerskiej](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) , aby dokończyć realizację zakupu oprogramowania w imieniu klienta.
+
+2. Wybierz pozycję **wersja** produktu, **Język**, **bit**, a następnie wybierz pozycję **Pobierz klucze i pliki do pobrania**. 
+
+3. Wybierz pozycję **Pobierz klucz** , aby wyświetlić 32-cyfrowy produkt w oknie dialogowym podręcznym, który można skopiować i wysłać do klienta. 
+
+4. Wybierz pozycję **Pobierz** , aby pobrać bity. 
+
+5. Wybierz pozycję **Kopiuj link** , jeśli chcesz wysłać klientowi link do pobierania usługi BITS. 
+
+6. Możesz również **anulować** kolejność oprogramowania i otrzymać środki na 100% (jeśli zostało to zrobione w okresie zasad anulowania 60 dni).
 
 >[!NOTE]
->Tylko klienci mogą wyświetlać klucze produktów i informacje pobierane w centrum administracyjnym firmy Microsoft. Partnerzy nie mogą zobaczyć tych informacji.
+>Tylko klienci mają dostęp do informacji o kluczach produktów i pobieraniu w centrum administracyjnym Microsoft 365 (wymagana rola administratora globalnego). Aby wyświetlić te informacje, partnerzy muszą korzystać z Centrum partnerskiego.
 
 ## <a name="cancel-a-purchase"></a>Anulowanie zakupu
 
-Aby anulować zakup, należy wykonać czynności opisane w poniższej procedurze. Po zakończeniu anulowania klucz oprogramowania zostanie odwołany. 
+Aby anulować zakup, należy wykonać czynności opisane w poniższej procedurze. Po zakończeniu anulowania klucz oprogramowania zostanie odwołany.
 
 >[!NOTE]
 >Aby anulować zakup, musisz być agentem administracyjnym. 

@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/30/2020
-ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: b8fd7fdea5cfbbc43826e7ebe05eeca11b5fddc4
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705015"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475283"
 ---
 # <a name="september-2020-announcements"></a>Ogłoszenia z września 2020 r.
 
@@ -35,6 +35,9 @@ ________________
 Wszyscy partnerzy usługi Cloud Solution partner (CSP) w ramach transakcyjnego tworzenia oprogramowania
 
 ### <a name="details"></a>Szczegóły
+
+>[!NOTE]
+>Ze względu na opinie partnerów przywraca się z możliwością realizacji Centrum partnerskiego, aby uzyskać klucze oprogramowania i licencji na potrzeby zamówień bezterminowych i subskrypcyjnych na serwerze. Przed usunięciem z 19 stycznia 2021, zostanie przywrócony do poprzedniego stanu. Aby uzyskać więcej informacji, zobacz [powiadomienie 2021 marca](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
 
 Obecnie partnerzy mogą korzystać z Centrum partnerskiego lub Microsoft 365 centrum administracyjnego w celu pobierania oprogramowania i realizacji klucza licencji dla zamówień oprogramowania dostawcy CSP. Od **19 stycznia 2021**, możliwości realizacji oprogramowania i klucza licencji Centrum partnerskiego zostaną wycofane, a partnerzy będą mogli korzystać z **Centrum administracyjnego Microsoft 365** wyłącznie do tego celu. Strona oprogramowanie klienta w centrum partnerskim będzie zawierać "link bezpośredni" do centrum administracyjnego Microsoft 365, w którym można wskazać klientów do uzyskania licencji klienta i pobrania oprogramowania. Zapewnia to najbardziej bezpieczne i wydajne środowisko dla klientów.
 
