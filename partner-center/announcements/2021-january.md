@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 103b21e92ea32f251812770d66abcd413254cb36
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 71deeb121fdc8b95499a7f12e08f2d116c370c7c
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475232"
+ms.locfileid: "102514123"
 ---
 # <a name="january-2021-announcements"></a>Ogłoszenia ze stycznia 2021 r.
 
@@ -330,6 +330,12 @@ Należy również pamiętać, że obecnie wycofane oprogramowanie partnerskie i 
 ### <a name="questions"></a>Masz pytania?
 
 Aby uzyskać więcej pytań, Sprawdź odpowiednie społeczności Yammera programu CSP.
+
+### <a name="change-log"></a>Dziennik zmian:
+
+- 19 stycznia 2021: Oryginalna publikacja 
+
+- 5 marca 2021: w górnej części dodano uwagę dotyczącą przywracania oprogramowania partnerskiego i możliwości realizacji klucza licencji
 
 _____________
 ## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="9"></a> Przypomnienie: wprowadzenie ograniczenia interfejsu API do partnerów wywołujących interfejsy API Centrum partnerskiego 

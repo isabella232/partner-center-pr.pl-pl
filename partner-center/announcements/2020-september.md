@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: b8fd7fdea5cfbbc43826e7ebe05eeca11b5fddc4
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 3702c362090b1764b6b9d6595fbe9f9a5f0aa55d
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475283"
+ms.locfileid: "102514089"
 ---
 # <a name="september-2020-announcements"></a>Ogłoszenia z września 2020 r.
 
@@ -57,6 +57,12 @@ Centrum administracyjne Microsoft 365 rozszerza Bezpieczne dostarczanie kupowane
 
 W przypadku pytań związanych z tym powiadomieniem skontaktuj się z [pomocą techniczną Centrum partnerskiego](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
+### <a name="change-log"></a>Dziennik zmian:
+
+- 30 września 2020: Oryginalna publikacja 
+
+- 5 marca 2021: w górnej części zawarto uwagi dotyczące przywracania oprogramowania Centrum partnerskiego i możliwości realizacji klucza licencji.
+
 ________________
 ## <a name="cloud-solution-provider-csp-program-evolution-and-open-license-program-changes-journey-to-a-better-partner-and-customer-experience"></a><a name="16"></a>Proces tworzenia i otwierania programu licencjonowania w programie Cloud Solution Provider (CSP): podróż do lepszego partnera i środowiska klienta
 
@@ -71,6 +77,9 @@ Wszyscy partnerzy w programie CSP i otwartych programów
 
 ### <a name="details"></a>Szczegóły
 
+>[!NOTE]
+>Ze względu na opinie partnerów przywraca się z możliwością realizacji Centrum partnerskiego, aby uzyskać klucze oprogramowania i licencji na potrzeby zamówień bezterminowych i subskrypcyjnych na serwerze. Przed usunięciem z 19 stycznia 2021, zostanie przywrócony do poprzedniego stanu. Aby uzyskać więcej informacji, zobacz [powiadomienie 2021 marca](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+
 Program Microsoft CSP został wyhodowany wykładniczo, a ponad 90 000 firm uczestniczących. Jest to nasz główny ruch sprzedaży dla małych i średnich firm, a w przypadku mniejszych klientów korporacyjnych w ramach nowego środowiska handlowego. Na tym chwilę zapowiedziano już dziś, że rozwijamy możliwości partnerów w programie CSP. Szczegóły znajdują się w naszym [wpisie w blogu partnera](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/).
 
 ### <a name="next-steps"></a>Następne kroki
@@ -83,6 +92,11 @@ Program Microsoft CSP został wyhodowany wykładniczo, a ponad 90 000 firm uczes
 
 W przypadku pytań związanych z tym powiadomieniem skontaktuj się z [pomocą techniczną Centrum partnerskiego](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
+### <a name="change-log"></a>Dziennik zmian:
+
+- 30 września 2020: Oryginalna publikacja.
+
+- 5 marca 2021: w górnej części zawarto uwagi dotyczące przywracania oprogramowania Centrum partnerskiego i możliwości realizacji klucza licencji.
 
 ________________
 ## <a name="availability-of-new-subscriptions-transition-tool-between-partners-for-azure-plan"></a><a name="15"></a>Dostępność nowych subskrypcji narzędzie do przechodzenia między partnerami dla planu platformy Azure 
