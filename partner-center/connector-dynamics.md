@@ -8,12 +8,12 @@ description: Zsynchronizuj odwołania w centrum partnerskim z łącznikiem wspó
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
+ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756794"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102532083"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Łącznik współsprzedawanych produktów Dynamics 365 CRM — Omówienie
 
@@ -104,7 +104,7 @@ Przed zainstalowaniem, skonfigurowaniem i dostosowaniem rozwiązania do automaty
      
       7. Po dodaniu wszystkich połączeń powinny zostać wyświetlone następujące połączenia w danym środowisku:
 
-:::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Połączenia":::
+         :::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Połączenia":::
    
 ## <a name="edit-the-connections"></a>Edytuj połączenia
 
@@ -141,7 +141,7 @@ Interfejsy API elementu webhook Centrum partnerskiego umożliwiają rejestrację
 
 3. Wybierz ikonę **kopiowania** , aby skopiować podany adres URL post protokołu HTTP.
 
- :::image type="content" source="images/webhook-video.gif" alt-text="Rejestrowanie zmian zasobów przy użyciu elementów webhook":::
+   :::image type="content" source="images/webhook-video.gif" alt-text="Rejestrowanie zmian zasobów przy użyciu elementów webhook":::
 
 4. Wybierz pozycję "Rejestracja elementu webhook Centrum partnerskiego (wersja zapoznawcza programu testowego)", a następnie wybierz pozycję **Uruchom**.
 
@@ -205,7 +205,7 @@ Aby zaktualizować wartość zmiennej środowiskowej:
 
 3. Zaktualizuj **bieżącą wartość** (nie Aktualizuj wartości domyślnej) przy użyciu opcji **Nowa wartość** i podaj wartość. Wartość musi być zgodna z typem danych zmiennej dla przykładu. tak/nie typ danych akceptuje wartość tak lub nie.
 
-:::image type="content" source="images/environment-variables-video.gif" alt-text="Aktualizowanie zmiennych środowiskowych":::
+ :::image type="content" source="images/environment-variables-video.gif" alt-text="Aktualizowanie zmiennych środowiskowych":::
 
 - Kompleksowa synchronizacja odwołań dwukierunkowych
 
