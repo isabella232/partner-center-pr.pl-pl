@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9828c791cf1b1ee99eb8a23ec84869472a2c8114
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 515a35584d8c31538b6722a282c53181c7809420
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756571"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022727"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Połącz lub odłącz identyfikator profilu certyfikatu firmy Microsoft (MCID) na konto Microsoft Partner Network (MPN)
 
@@ -33,8 +33,7 @@ Skorzystaj z poniższej procedury, aby uzyskać dostęp do uczelni partnerskiej.
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 2. Wybierz niebieską ikonę **mój profil** w prawym górnym rogu
-3. W polu **nauka** wybierz pozycję **uzyskaj dostęp z uczelnią dla partnerów**.
-Twoje konto University partner zostanie teraz skojarzone z Twoim kontem użytkownika Centrum partnerskiego. Twoje oceny zostaną odzwierciedlone w raporcie o umiejętnościach użytkownika Centrum partnerskiego w ramach 72hrs. Nowo przekazani oceny mogą potrwać od 7-10 dni do uwzględnienia w raporcie.
+3. W polu **nauka** wybierz pozycję **uzyskaj dostęp z uczelnią dla partnerów**. Musisz wprowadzić swoje poświadczenia konta University partner (nie konta Centrum partnerskiego) Twoje konto University dla partnerów będzie teraz skojarzone z Twoim kontem użytkownika Centrum partnerskiego. Twoje oceny zostaną odzwierciedlone w raporcie o umiejętnościach użytkownika Centrum partnerskiego w ramach 72hrs. Nowo przekazani oceny mogą potrwać od 7-10 dni do uwzględnienia w raporcie.
 4. Aby usunąć skojarzenie, wybierz pozycję **Usuń dostęp**.
 
 ## <a name="associate-a-microsoft-learning-account"></a>Skojarz konto Microsoft Learning
@@ -48,6 +47,10 @@ Aby skojarzyć konto Microsoft Learning, należy wykonać poniższą procedurę.
 >[!NOTE]
 >Jeśli poświadczenia konta Microsoft Learning są takie same, jak poświadczenia konta University dla partnerów, wybierz pozycję **Użyj email@address , aby skojarzyć moje konto Microsoft Learning**.
 
+## <a name="download-skills-report-microsoft-certification-list"></a>Pobierz raport umiejętności (Lista certyfikatów firmy Microsoft)
+Jeśli potrzebujesz szczegółowych informacji, dostęp do skillsreport będzie możliwy i pobierany przez dowolnego administratora globalnego lub administratora partnerskiego MPN z Centrum partnerskiego. Aby [dowiedzieć się więcej](https://docs.microsoft.com/partner-center/mpn-skills-report#view-skills-report-data).
+
+
 ## <a name="frequently-asked-questions-about-linking-accounts"></a>Często zadawane pytania dotyczące łączenia kont
 
 ### <a name="how-can-a-user-link-their-microsoft-certification-profile-id-mcid-with-the-microsoft-partner-network-mpn-organization-they-work-for"></a>Jak użytkownik może połączyć swój identyfikator profilu certyfikatu firmy Microsoft (MCID) z organizacją Microsoft Partner Network (MPN), dla której pracują?
@@ -60,7 +63,7 @@ Zaloguj się do Centrum partnerskiego, przejdź do **mojego profilu** , a nastę
 
 ### <a name="the-user-left-company-a-and-now-works-for-company-b-how-can-they-link-their-microsoft-certification-profile-id-mcid-with-company-b"></a>Użytkownik pozostawił firmę A i teraz działa dla firmy B. Jak można połączyć swój identyfikator profilu certyfikatu firmy Microsoft (MCID) z firmą B?
 
-Użytkownik musi połączyć swoją MCID z firmą B przez poniższą procedurę. Gdy użytkownik łączy swoją MCID z firmą B, zostanie automatycznie odłączona od firmy A.
+Użytkownik musi połączyć swoją MCID z firmą B zgodnie z powyższą procedurą. Gdy użytkownik łączy swoją MCID z firmą B, zostanie automatycznie odłączona od firmy A.
 
 ### <a name="the-user-left-company-a-and-no-longer-has-access-to-partner-center-they-want-to-unlink-their-mcid-from-company-a-and-are-not-planning-to-link-it-with-another-mpn-organization-at-the-moment"></a>Użytkownik pozostawił firmę A i nie ma już dostępu do Centrum partnerskiego. Chcą odłączyć MCID od firmy A i nie planuje linku go do innej organizacji MPN.
 

@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: adbe4bf9fd329f7443608dd1a1e123208212ef43
+ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124826"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "102770280"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Przewodnik po przedsprzedaży w centrum partnerskim (komputer) dla partnerów migrowania z programu Partner Sales Connect (PSC)
 
@@ -81,7 +81,7 @@ Aby znaleźć administratora konta firmowego:
 
    Na stronie zostaną wyświetlone wszystkie Administratorzy konta z odpowiednimi adresami e-mail. Wyślij jedną z nich i poproś o przypisanie roli administratora odwołań dla Twojego konta służbowego.
 
-  :::image type="content" source="images/pscmigration/account-admin.png" alt-text="Obraz przedstawiający administratorów konta na stronie Zarządzanie użytkownikami ustawień partnera.":::
+  :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="Obraz przedstawiający administratorów konta na stronie Zarządzanie użytkownikami ustawień partnera.":::
 
 >[!Important]
 >- Jeśli rola obejmuje tylko zarządzanie użytkownikami na komputerze PSC, poproszenie administratora konta firmy o przypisanie roli [administratora konta](permissions-overview.md#manage-mpn-membership-and-your-company) w centrum partnerskim. 
@@ -95,7 +95,7 @@ Po skonfigurowaniu konta w centrum partnerskim Użyj Kreatora migracji użytkown
 >[!Note]
 > Migracja użytkowników może być przeprowadzana tylko przez [administratorów konta](permissions-overview.md#manage-mpn-membership-and-your-company) Twojej firmy. Jeśli nie masz roli administratora konta, Znajdź administratora konta, który może pomóc w skonfigurowaniu kont użytkowników za pomocą Kreatora migracji użytkowników.
 
-:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Obraz przedstawiający Kreatora migracji użytkowników.":::
+:::image type="content" source="images/pscmigration/user-migration.gif" alt-text="Obraz przedstawiający Kreatora migracji użytkowników.":::
 
 Administratorzy konta zobaczą link Kreatora migracji użytkowników komputera PSC na stronie z możliwością wspólnej sprzedaży obok podręcznika odwołania. Można zainicjować migrację użytkownika, wybierając link. Aby zainicjować migrację użytkowników, Administratorzy mogą wybrać link. Ten krok migracji użytkowników może wykonać wiele razy, dopóki wszyscy użytkownicy nie zostaną przypisani do odpowiednich ról w centrum partnerskim.
 

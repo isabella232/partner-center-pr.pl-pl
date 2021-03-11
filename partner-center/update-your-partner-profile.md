@@ -6,17 +6,17 @@ description: Dowiedz się, jak weryfikować szczegóły firmy, takie jak podstaw
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 03/03/2021
+ms.date: 03/10/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 7593ddab8d495e3edc67cb89255c9c7cba4772d3
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.openlocfilehash: 5ade6d7c587561cc1af4a7645d1e4b0cce9a505e
+ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220270"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "102770247"
 ---
-# <a name="verify-your-company-profile-information-in-partner-center"></a>Weryfikowanie informacji o profilu firmy w centrum partnerskim
+# <a name="verify-or-update-your-company-profile-information"></a>Weryfikowanie lub aktualizowanie informacji o profilu firmy 
 
 **Odpowiednie role**
 
@@ -26,7 +26,6 @@ ms.locfileid: "102220270"
 Przy pierwszym zalogowaniu się do Centrum partnerskiego jako Administrator globalny należy potwierdzić, że wszystkie szczegóły firmy są poprawne. Należą do nich: kontakt podstawowy, służbowa nazwa firmy oraz adres oraz informacje o programie. Jeśli firma ma więcej niż jedną lokalizację, Przejrzyj dane lokalizacji pod kątem dokładności. Jako Administrator globalny, administrator rozliczeń lub Agent administracyjny, zobaczysz również informacje dotyczące rozliczeń i podatków.
 
 Twój Profil partnera składa się z informacji służbowych firmy, podstawowej nazwy kontaktu i poczty e-mail, programów, w których firma uczestniczy, a jeśli to konieczne, innych firm, które są teraz scalone w ramach firmy prawnej. Upewnij się, że nazwa firmy i adres w profilu biznesowym w firmie są bezpłatne i zawierają błędy pisowni oraz skróty i dokładnie pasują do oficjalnych rekordów rejestracji firmy. Jeśli używasz jako jedynego właściciela, musisz użyć nazwy firmy jako nazwy prawnej.
-
 
 
 ## <a name="locate-the-legal-business-profile"></a>Lokalizowanie profilu służbowego firmy
@@ -39,22 +38,37 @@ Twój Profil partnera składa się z informacji służbowych firmy, podstawowej 
 
 Jeśli Twoje inne firmy zostały scalone z firmą prawną, można również przejrzeć te informacje. 
 
-## <a name="update-your-legal-business-profile"></a>Zaktualizuj swój służbowy profil biznesowy
+## <a name="update-your-legal-business-profile"></a>Zaktualizuj swój służbowy profil biznesowy 
 
-Zaktualizuj swój adres prawny w centrum partnerskim.
+Zaktualizuj służbowe imię i nazwisko lub adres w centrum partnerskim.
 
 >[!Important]
 >- W przypadku kont MPN Administrator globalny i administrator konta mogą zaktualizować nazwę firmy prawnej.
 >- W przypadku bezpośrednich kont odsprzedawców CSP tylko administrator globalny może zaktualizować nazwę firmy. 
+>- Partnerzy z bezpośrednią rachunkiem i dostawcy pośrednii nie mogą zmienić nazwy prawnej swojej firmy, jeśli stan weryfikacji konta to **Autoryzowany**. Jeśli musisz zmienić nazwę, musisz utworzyć [bilet pomocy technicznej](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
-1. Przejdź do pozycji **Ustawienia** i wybierz pozycję **profil organizacji**.
 
-2. Wybierz pozycję **Legal**  , a następnie wybierz odpowiedni profil biznesowy, którego chcesz użyć.
+
+1. Przejdź do pozycji **Ustawienia**, **Ustawienia konta** i wybierz pozycję **profil organizacji**.
+
+2. Wybierz pozycję **Legal**  , a następnie wybierz odpowiedni profil firmy (partnera lub Odsprzedawcy), który chcesz zaktualizować.
+
+1. Kliknij pozycję **Aktualizuj**  obok pozycji Nazwa firmy/adres i zmień szczegóły.
  
-1. Po wybraniu opcji Prześlij tożsamość prawna zostanie **ponownie** oceniona i otrzymasz kolejną wiadomość e-mail, która będzie potrzebna do zaakceptowania.
+1. Po wybraniu opcji **Prześlij** tożsamość prawna zostanie ponownie oceniona.
+
+1. Jeśli weryfikacja nie powiedzie się, Dowiedz się, jak [rozwiązać ten problem](verification-responses.md).
 
 >[!Important]
->Jeśli jesteś partnerem dostawcy rozwiązań w chmurze (CSP), nie możesz zmienić kraju skojarzonego z Twoim adresem dozwolonym. Kraj adresu prawnego jest powiązany z dzierżawcą i usługami, a także z walutą, z którą prowadzone są firmy. Partnerzy bezpośrednich rachunków i dostawcy pośrednii nie mogą zmienić nazwy prawnej swojej firmy, jeśli stan weryfikacji to "autoryzowane". Jeśli konieczna będzie zmiana nazwy, należy [utworzyć bilet pomocy technicznej](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
+>Jeśli jesteś partnerem dostawcy rozwiązań w chmurze (CSP), nie możesz zmienić kraju skojarzonego z Twoim adresem dozwolonym. Kraj adresu prawnego jest powiązany z dzierżawcą i usługami, a także z walutą, z którą prowadzone są firmy. Aby dowiedzieć się więcej na temat aktualizacji kraju MPN, przeczytaj artykuł  [MPNe aktualizacje kraju](manage-locations.md#change-country-of-partner-global-account).
+
+
+### <a name="who-can-update-legal-business-name-and-when"></a>Kto może aktualizować służbową firmę i
+
+|**Program**|**Kto może zaktualizować nazwę firmy**|**Kiedy (status) można zaktualizować**|**Dozwolone**|
+|---------------------|:-------------------------------|:------------|:-----------------|
+MPN|Administrator globalny; Administrator konta|Wejście podjęcia odrzucono| Dozwolone|
+|Dostawca CSP: pośredni odsprzedawca|Administrator globalny|Wejście podjęcia odrzucono| Dozwolone|
 
 
 ## <a name="update-your-mpn-global-business-account"></a>Aktualizowanie konta firmowego globalnego MPN
@@ -78,7 +92,6 @@ Aby zaktualizować identyfikator MPN skojarzony z kontem dostawcy CSP:
 ## <a name="update-your-csp-legal-billing-address"></a>Aktualizowanie legalnego adresu rozliczeniowego CSP
 
 Jeśli jesteś administratorem globalnym, administratorem rozliczeń lub agentem administracyjnym, możesz zmienić adres, który pojawia się na fakturze w **profilu wypłaty i podatku**. Nie możesz jednak zmienić nazwy firmy na fakturze z powodu ograniczenia w systemie fakturowania.
-
 
 
 ## <a name="next-steps"></a>Następne kroki

@@ -1,38 +1,38 @@
 ---
-title: Operacje zbiorcze za pośrednictwem plików programu Excel w odwołaniach
+title: Eksportuj zbiorczo i Importuj możliwości wspólnej sprzedaży za pośrednictwem plików programu Excel/CSV w odniesieniu do odwołań
+description: Dowiedz się, jak pobierać, tworzyć i aktualizować możliwości wspólnej sprzedaży przy użyciu plików programu Excel (CSV) w centrum partnerskim
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, jak pobierać, tworzyć i aktualizować możliwości wspólnej sprzedaży przy użyciu plików programu Excel
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: d601fec4bbdaad72f02c16b399cc320cc607d8ed
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 8b69b430344c64f3d74e0b5058d561358bdd2b45
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756067"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619396"
 ---
-# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>Operacje zbiorcze dla wspólnych możliwości sprzedaży przy użyciu plików z wartościami rozdzielanymi przecinkami (CSV)
+# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Operacje zbiorcze dla wspólnych możliwości sprzedaży przy użyciu plików z wartościami rozdzielanymi przecinkami (CSV)
 
 **Odpowiednie role**
 
 - Administrator odwołań
 - Użytkownik z odwołaniami
 
-Operacje zbiorcze w centrum partnerskim mogą pomóc firmie eksportować i importować dane z możliwością sprzedaży. Przejdź do strony z możliwością współsprzedaży, aby znaleźć linki importu i eksportu w prawym górnym rogu transparentu tytułu strony. Korzystając z tej funkcji, użytkownicy z uprawnieniami **administratora** i odniesień do użytkowników mogą korzystać z tego **konta** .
+Operacje zbiorcze w centrum partnerskim pomagają firmie eksportować i importować dane możliwości wspólnej sprzedaży. Przejdź do strony z **możliwością współsprzedaży** , aby znaleźć linki **importu** i **eksportu** w prawym górnym rogu transparentu tytułu strony. Korzystając z tej funkcji, użytkownicy z uprawnieniami **administratora** i odniesień do użytkowników mogą korzystać z tego **konta** .
 
 > [!IMPORTANT]
 > Akcje create/Update wykonywane za pomocą importu zbiorczego nie są odwracalne. Podczas modyfikowania lub tworzenia dużej liczby rekordów należy zachować ostrożność. Po utworzeniu transakcji można modyfikować tylko podzestaw pól. **Żadna akcja nie będzie dozwolona, gdy jakakolwiek transakcja osiągnie stan terminalu, taki jak odrzucone/wygasłe/wykorzystane/utracone.**
 
-## <a name="exporting-co-sell-opportunities"></a>Eksportowanie możliwości wspólnej sprzedaży
+## <a name="export-co-sell-opportunities"></a>Eksportuj możliwości wspólnej sprzedaży
 
-Poniżej znajdują się szczegółowe informacje o funkcji eksportu
+Poniższe informacje opisują funkcję eksportu:
 
-- Aby wyeksportować **maksymalnie 5000 rekordów** , kliknij przycisk Eksportuj.
+- Aby wyeksportować **maksymalnie 5000 rekordów** , kliknij przycisk **Eksportuj** .
 - Pobrane transakcje będą oparte na poziomach dostępu. Administratorzy odwołań i użytkownicy odwołań mogą uzyskać różne wyniki w zależności od ich zakresu i włączenia jako członków zespołu w ramach transakcji. Dowiedz się więcej o [uprawnieniach odwołań](permissions-overview.md#manage-referrals).
 - Funkcja eksportu przyjmuje do konta bieżącą kartę na stronie możliwości wspólnej sprzedaży i filtry, które zostały zastosowane.
 - Zostanie wygenerowany plik CSV ze wszystkimi danymi opartymi na zastosowanych filtrach.
@@ -40,7 +40,7 @@ Poniżej znajdują się szczegółowe informacje o funkcji eksportu
 - Nie musisz czekać na ukończenie akcji pobierania. Nawet jeśli przejdziesz do innych stron w centrum partnerskim, plik zostanie pobrany zaraz po zakończeniu eksportu funkcji.
 - Pobrany plik można ponownie wykorzystać, aby zmodyfikować szczegóły dotyczące transakcji i przekazać je w celu zaktualizowania wszystkich rekordów.
 
-## <a name="importing-co-sell-opportunities"></a>Importowanie możliwości wspólnej sprzedaży
+## <a name="import-co-sell-opportunities"></a>Importuj możliwości wspólnej sprzedaży
 
 - Można utworzyć lub zaktualizować **maksymalnie 1000 rekordów** przy użyciu funkcji importowania.
 - Możesz utworzyć szablon od podstaw, pobierając szablon ze strony importu w centrum partnerskim.
@@ -95,3 +95,10 @@ Uwagi do firmy Microsoft|Nie|Dowolnych uwag do firmy Microsoft, jeśli potrzebuj
 Wyrażanie zgody na udostępnianie klientowi/partnerowi|Tak|Wyraża zgodę na udostępnienie szczegółowych informacji kontaktowych klienta i pracowników firmy, którzy pracują nad pracą. **W przypadku wybrania tej kolumny nie można tworzyć ani aktualizować transakcji.** |Tak
 Rozwiązanie 1|Tak|Identyfikator rozwiązania (wymagane), waluta (opcjonalnie), w którym została wprowadzona wartość transakcji. W [tym miejscu](https://en.wikipedia.org/wiki/ISO_4217)można znaleźć kody walutowe, cenę jednostki SKU (opcjonalnie) i ilość jednostki SKU (opcjonalnie).  |PERUWIAŃSKI-1234-PQRS, USD, 10, 100
 Członek zespołu 1|Tak|Imię, nazwisko, numer telefonu komórkowego i identyfikator poczty e-mail odpowiedniego członka zespołu.| Robert, partner, 999999, Bob.partner@Contoso.com
+
+## <a name="next-steps"></a>Następne kroki
+
+Możesz użyć tych łączników współsprzedawanych w centrum partnerskim do współpracy z firmą Microsoft w ramach systemów CRM.
+
+- [Łącznik współsprzedawanych produktów Dynamics 365 CRM — Omówienie](connector-dynamics.md)
+- [Łącznik współpracujący z usługą Salesforce CRM — Omówienie](connector-salesforce.md)

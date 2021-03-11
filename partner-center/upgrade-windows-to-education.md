@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c66a0d4ed7aa798321c42de34d879dc63de6a16b
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 6b5741ba09cedccd5f421374c4aa5ca609823bcd
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755820"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022744"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Uaktualnij niektórych klientów edukacyjnych z systemu Windows 10 Home do systemu Windows 10 Education
 
 **Odpowiednie role**
 
 - Agent administracyjny
-- Agent pomocy technicznej
+- Administrator rozliczeń
 
 ## <a name="overview"></a>Omówienie
 
@@ -57,8 +57,8 @@ Partnerzy powinni utworzyć żądanie pomocy technicznej i pobrać klucze z pomo
 
 - **Tytuł:** Klucz produktu systemu Windows 10 Home do systemu Windows 10 Education
 - **Opis:** Zażądaj [Wstaw numer] kluczy, aby włączyć uaktualnienie do systemu Windows 10 Education. (Należy zauważyć, że liczba żądanych kluczy nie może być większa niż Licencja subskrypcyjna na Microsoft 365 a3/A5 lub Windows 10 Enterprise a3/A5). Identyfikator subskrypcji klienta [Wstaw klientów identyfikator identyfikatora subskrypcji dla Microsoft 365 a3/A5 lub subskrypcji systemu Windows 10 Enterprise a3/A5.]
-- **Numer osoby kontaktowej:** Zostanie to wstępnie wypełnione; Przejrzyj, aby potwierdzić lub zaktualizować.
-- **Adres e-mail:** Zostanie ona wstępnie zastosowana i powinna być wiadomością e-mail używaną jako Administrator portalu Microsoft (tylko administrator globalny lub administrator rozliczeń).
+- **Numer osoby kontaktowej:** Ta wartość zostanie wstępnie wypełniona; Przejrzyj, aby potwierdzić lub zaktualizować.
+- **Adres e-mail:** Ta funkcja zostanie wstępnie wypełniona i powinna być wiadomością e-mail używaną jako administrator witryny Microsoft Portal (tylko administrator globalny lub administrator rozliczeń).
 - **Preferowana metoda kontaktu**: wybierz pozycję **telefon** lub **Zaplanuj wywołanie zwrotne**.
 
 8. Wybierz pozycję **kontakt ze mną**. Oczekiwany czas oczekiwania jest wskazany w okienku **potrzebna pomoc?**
@@ -92,8 +92,9 @@ W przypadku klientów edukacyjnych należy wziąć pod uwagę niski koszt urząd
 **Czy istnieje termin, w którym należy skontaktować się z pomocą techniczną i otrzymać klucz uaktualnienia?**
 Uaktualnienie systemu Windows 10 Education jest oparte na aktywnej subskrypcji licencji dla klienta Microsoft 365 a3/A5 lub Windows 10 Enterprise a3/A5. Jeśli klient nie rozszerzy ani nie odnawia subskrypcji, uprawnienie do uaktualnienia również zostanie zakończone.
 
+## <a name="next-steps"></a>Następne kroki
+
 **Gdzie partnerzy mogą dowiedzieć się więcej o systemie Windows 10 Education?**
-Dowiedz się więcej, wykonując następujące linki:
 
 - [Funkcje Eduction systemu Windows](https://www.microsoft.com/education/products/windows/features)
 - [Centrum edukacji systemu Windows](/education/windows/)

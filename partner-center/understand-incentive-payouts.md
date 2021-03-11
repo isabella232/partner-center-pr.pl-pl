@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 4c4b3a9a71027f5fb02bc29566c20c214e3df371
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755868"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022812"
 ---
 # <a name="view-your-incentives-program-details"></a>Wyświetl szczegóły programu zachęty
 
@@ -22,18 +22,17 @@ ms.locfileid: "101755868"
 
 - Administrator zachęt
 - Użytkownik zachęty
-- Zachęta do przeglądania tylko do odczytu
 - Administrator globalny
 - Administrator partnerski MPN
 
-W tym artykule wyjaśniono, jak uzyskać dostęp do strony **Przegląd moje zachęty** , która pokazuje ogólny stan programów zachęty, a także stan każdego programu w każdej lokalizacji. Zapewnia również różne stany rejestracji. 
+W tym artykule objaśniono stronę **omówienia funkcji Moje zachęty** , która przedstawia ogólny stan programów bodźca, a także stan każdego programu w każdej lokalizacji. Zapewnia również różne stany rejestracji.
 
 >[!NOTE]
 >Aby uzyskać więcej informacji na temat zachęt i funkcji zachęty w centrum partnerskim, zobacz temat [inwestycje i zachęty dla partnerów](https://partner.microsoft.com/membership/partner-incentives) (wymagane jest zalogowanie się).
 
 ## <a name="access-the-incentives-overview-page"></a>Dostęp do strony przeglądu zachęt
 
-1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard).
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard) Centrum partnerskiego.
 1. Wybierz opcję **zachęty**, a następnie pozycję **Przegląd** z menu.
 1. Przejrzyj podsumowanie zarobków i płatności w górnej części strony, a następnie więcej szczegółowych informacji w tabeli poniżej. Można również sortować, grupować i rozszerzać dołączoną tabelę:
 

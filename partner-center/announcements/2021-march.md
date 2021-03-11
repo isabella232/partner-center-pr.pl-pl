@@ -8,17 +8,37 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/04/2021
-ms.openlocfilehash: 8b86623c6af832de654e3c4ad9fea666427eb51d
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.date: 03/09/2021
+ms.openlocfilehash: 2f3fd11125619ca3eaf3e0c870f5460a0abe2b4d
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220299"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619447"
 ---
 # <a name="march-2021-announcements"></a>2021 komunikatów o marcu
 
 Ta strona zawiera anonse dla programu Microsoft Partner Center dla marca 2021.
+
+________________
+## <a name="expanding-the-new-commerce-experience-in-the-cloud-solution-provider-csp-program-for-azure-to-russia"></a><a name="5"></a>Rozszerzanie nowego środowiska handlowego w programie Cloud Solution Provider (CSP) dla platformy Azure do Rosji
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-03-10
+- Możliwości
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Wszyscy partnerzy w Rosji transakcyjnej za pomocą programu Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Szczegóły
+
+Od marca 10 2021 przyjemnością ogłaszamy dostępność **nowego środowiska handlowego w programie CSP dla platformy Azure w Rosji**. To środowisko usprawnia i ulepsza sposób kupowania i korzystania z usług platformy Azure przez klientów. Zapewni to również partnerom programu CSP spójny widok cen platformy Azure w ramach ruchu sprzedaży, cenniki USD dla globalnej spójności, wyrównania dat rozliczeń i dostęp do Azure Cost Management.
+
+### <a name="next-steps"></a>Następne kroki
+
+Dostępnych jest kilka zasobów wprowadzających nowe środowisko Azure Commerce i dostarczających dodatkowe informacje. Znajdź najnowsze często zadawane pytania, talie, wideo i nie tylko w [galerii zasobów aktualizacji programu CSP](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/).
 
 ________________
 ## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>Klucz licencji oprogramowania Centrum partnerskiego i realizacja pobrania

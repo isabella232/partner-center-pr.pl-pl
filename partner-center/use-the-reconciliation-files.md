@@ -1,7 +1,7 @@
 ---
 title: Korzystanie z plików uzgadniania
 ms.topic: article
-ms.date: 06/08/2020
+ms.date: 03/10/2021
 description: Dowiedz się więcej na temat plików uzgadniania w centrum partnerskim i interpretacji szczegółowych widoków elementów wierszy opłat dla danego cyklu rozliczeniowego.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d927b138c32b3e5f6f5d906db898e17f89a85aae
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: e6b9e466402d71c988729052bd72ba2346a9d977
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755775"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022778"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Dowiedz się, jak odczytywać elementy wiersza w plikach uzgadniania Centrum partnerskiego
-
-Dotyczy:
-
-- Centrum partnerskie
-- Centrum partnerskie Microsoft Cloud for US Government
 
 **Odpowiednie role**
 

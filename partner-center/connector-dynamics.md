@@ -1,19 +1,19 @@
 ---
 title: Łącznik współsprzedającego dla Centrum partnerskiego programu Dynamics 365 CRM
+description: Zsynchronizuj odwołania w centrum partnerskim z łącznikiem współsprzedawanym dla programu Dynamics 365 CRM. Sprzedawcy mogą następnie współsprzedawać z firmą Microsoft w ramach systemów CRM.
 ms.topic: how-to
-ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Zsynchronizuj odwołania w centrum partnerskim z łącznikiem współsprzedawanym dla programu Dynamics 365 CRM. Sprzedawcy mogą następnie współsprzedawać z firmą Microsoft w ramach systemów CRM.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
-ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
+ms.date: 03/01/2021
+ms.openlocfilehash: 1b0f8f12cf60db0dcc03aae24316e869cbf34376
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 03/10/2021
-ms.locfileid: "102532083"
+ms.locfileid: "102619413"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Łącznik współsprzedawanych produktów Dynamics 365 CRM — Omówienie
 
@@ -88,7 +88,7 @@ Przed zainstalowaniem, skonfigurowaniem i dostosowaniem rozwiązania do automaty
 
    - Administrator programu CRM z przepływem automatyzacji w rozwiązaniu.
 
-      1. Wybierz pozycję **połączenia** na lewym pasku nawigacyjnym i wybierz z listy rozwiązanie "referencje do Centrum partnerskiego".
+      1. Wybierz pozycję **połączenia** na lewym pasku nawigacyjnym, a następnie wybierz z listy rozwiązanie z **odwołaniami do Centrum partnerskiego** .
 
       2. Utwórz połączenie, klikając pozycję **Utwórz połączenie**.
 
@@ -110,11 +110,11 @@ Przed zainstalowaniem, skonfigurowaniem i dostosowaniem rozwiązania do automaty
 
 1. Wróć do strony **rozwiązania** i wybierz pozycję **domyślne rozwiązanie**. Wybierz pozycję **odwołanie do połączenia (wersja zapoznawcza)** , klikając pozycję **wszystkie**.
 
-:::image type="content" source="images/connection-reference-video.gif" alt-text="Edytowanie połączeń":::
+   :::image type="content" source="images/connection-reference-video.gif" alt-text="Edytowanie połączeń":::
 
 2. Edytuj poszczególne połączenia po jednym, wybierając ikonę z trzema kropkami. Dodaj odpowiednie połączenia.
 
-:::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Wymienione połączenia"::: 
+   :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Wymienione połączenia"::: 
 
 3.  Wróć do strony rozwiązania, wybierz pozycję Centrum partnerskie odwolania synchronizacji dla programu Dynamics 365 i Włącz przepływ, klikając trzy kropki obok każdego przepływu w następującej sekwencji. Jeśli podczas włączania przepływu wystąpią jakiekolwiek problemy, zapoznaj się z [krokami dostosowywania](connector-dynamics.md#customize-synchronization-steps) i [procedurami rozwiązywania problemów](connectors-troubleshoot.md). 
 
@@ -171,19 +171,19 @@ Dostępne są następujące dostosowania:
 
 - Wartość transakcji: Domyślnie wartość transakcji z Centrum partnerskiego będzie synchronizowana z i z **estimatedvalue** w programie CRM. Jeśli masz inne pole w programie CRM dla wartości transakcji do synchronizowania z:
 
-    a.    Zaktualizuj nazwę pola wartości transakcji w zmiennej środowiskowej Dynamics 365 przy użyciu nazwy pola CRM. Należy pamiętać, że należy podać nazwę pola, a nie jego nazwę wyświetlaną.
+  a. Zaktualizuj nazwę pola wartości transakcji w zmiennej środowiskowej Dynamics 365 przy użyciu nazwy pola CRM. Należy pamiętać, że należy podać nazwę pola, a nie jego nazwę wyświetlaną.
 
-    b.    Edytuj **[Dostosuj] Utwórz lub Pobierz szczegóły z usługi Dynamics 365 Flow**  i przejdź do w celu **utworzenia lub zaktualizowania** szans sprzedaży w programie CRM i aktualizacji **Utwórz nową szansę sprzedaży** i **zaktualizuj istniejące akcje dla szans sprzedaży** , aby przypisać wartość **DealValue** do prawidłowego pola w programie CRM. Usuń także **przypisanie DealValue** z **szacowanego pola przychód** .
+  b. Edytuj **[Dostosuj] Utwórz lub Pobierz szczegóły z usługi Dynamics 365 Flow**  i przejdź do w celu **utworzenia lub zaktualizowania** szans sprzedaży w programie CRM i aktualizacji **Utwórz nową szansę sprzedaży** i **zaktualizuj istniejące akcje dla szans sprzedaży** , aby przypisać wartość **DealValue** do prawidłowego pola w programie CRM. Usuń także **przypisanie DealValue** z **szacowanego pola przychód** .
 
 - Kod kraju konta klienta: w przypadku tworzenia nowego odwołania należy podać dwuliterowy kod kraju (ISO 3166). Domyślnie kod kraju zostanie zsynchronizowany z polem address1_country i z konta w programie CRM. Jeśli masz inne pole w programie CRM for Country Code do synchronizowania:
 
-   a.    W przypadku pola kod kraju bez wyszukiwania w ramach konta zawierającego dwuliterowy kod:
+   a. W przypadku pola kod kraju bez wyszukiwania w ramach konta zawierającego dwuliterowy kod:
 
    - Zaktualizuj nazwę pola kod kraju konta klienta w zmiennej środowiskowej Dynamics 365 przy użyciu nazwy pola CRM. Należy pamiętać, że należy podać nazwę pola, a nie jego nazwę wyświetlaną.
 
    - Edytuj **[Dostosuj] Utwórz lub Pobierz szczegóły z usługi Dynamics 365 Flow**  i przejdź do pola Utwórz lub Pobierz konto klienta w programie CRM akcja, aby przypisać wartość kraju do korekty w programie CRM. Usuń także przypisanie wartości kraju z adresu 1: pole kraju/regionu.
 
-   b.    W przypadku pola kodu kraju wyszukiwania na koncie:
+   b. W przypadku pola kodu kraju wyszukiwania na koncie:
 
    - Dodaj nowe pole niestandardowe na koncie i wypełnij je automatycznie przy użyciu dwuliterowego kodu kraju (ISO 3166) na podstawie wartości wybranej w polu wyszukiwania i na odwrót.
 
@@ -205,7 +205,7 @@ Aby zaktualizować wartość zmiennej środowiskowej:
 
 3. Zaktualizuj **bieżącą wartość** (nie Aktualizuj wartości domyślnej) przy użyciu opcji **Nowa wartość** i podaj wartość. Wartość musi być zgodna z typem danych zmiennej dla przykładu. tak/nie typ danych akceptuje wartość tak lub nie.
 
- :::image type="content" source="images/environment-variables-video.gif" alt-text="Aktualizowanie zmiennych środowiskowych":::
+   :::image type="content" source="images/environment-variables-video.gif" alt-text="Aktualizowanie zmiennych środowiskowych":::
 
 - Kompleksowa synchronizacja odwołań dwukierunkowych
 
@@ -242,13 +242,11 @@ Następujące pola niestandardowe powinny być częścią sekcji CRM:
 
   :::image type="content" source="images/cosellconnectors/dynamics-7.png" alt-text="{alt-text}":::
 
-
-
 - Po dodaniu rozwiązań firmy Microsoft możesz wstępnie wypełnić szczegółowe informacje o gotowych rozwiązaniach do sprzedaży, aby nie trzeba było ich dodawać. Aby dodać szczegółowe informacje o rozwiązaniu, przejdź do obiektu szczegóły rozwiązania firmy Microsoft w programie CRM i kliknij pozycję **Dodaj rekord** , aby dodać jeden wpis, lub użyj polecenia **Przekaż do programu Excel** , aby dodać wiele wpisów.
 
-:::image type="content" source="images/dynamic-1a.png" alt-text="Szczegóły rozwiązania":::
+  :::image type="content" source="images/dynamic-1a.png" alt-text="Szczegóły rozwiązania":::
 
-### <a name="scenarios"></a>SYTUACJI
+### <a name="scenarios"></a>Scenariusze:
 
 1. Synchronizacja odwołań podczas tworzenia lub aktualizowania odwołania w programie CRM oraz synchronizowanie w centrum partnerskim:
 
@@ -265,6 +263,7 @@ Następujące pola niestandardowe powinny być częścią sekcji CRM:
          :::image type="content" source="images/dynamic-3a.png" alt-text="Jak uzyskać odpowiednie pola w widoku karty":::
 
       - **Kontakt z klientem**: Aby utworzyć odwołanie do współsprzedaży, Dodaj kontakt z klientem do szansy sprzedaży.
+
       - **Synchronizuj z centrum partnerskim**: tak
 
       - Rozwiązania firmy Microsoft: aby podzielić się z firmą Microsoft, należy dodać ważne rozwiązanie do sprzedaży gotowe lub firmy Microsoft.
