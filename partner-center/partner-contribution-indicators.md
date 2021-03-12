@@ -1,7 +1,7 @@
 ---
 title: Wskaźniki udziałów partnerów — OBSŁUGIWANIE
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 03/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się więcej na temat siedmiu wskaźników udziału partnerskiego (PCI), które pokazują partnerów, w jaki sposób uzyskać kompetencje Business Applications w chmurze Silver lub Gold.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756566"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193651"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Używanie wskaźników udziałów partnerów w celu uzyskania kompetencji Business Applications w chmurze
 
@@ -274,11 +274,11 @@ Partner ma jedną z dwóch opcji do osiągnięcia punktów wszystko-lub-Nothing 
 
 - **Żadne punkty częściowe nie będą przyznawane.** Wzrost na początku migawki linii bazowej musi być równy lub większy od progów wskazanych w poniższej tabeli. W tabeli przedstawiono **rozwiniętą** i **rozwijaną** kolumnę z linią bazową doradcy funkcjonalnej wymaganą do zdobycia punktów.
 
-  | Przygotowany | Wywoływania | Wzrost wymagany do zdobycia wszystkich 15 punktów *
+  | Przygotowany | Wywoływania | Wzrost wymagany do zdobycia wszystkich 15 punktów
   |:---:|:---:|:---:|
   | 15-29 | 5-14 | 35% |
   | 30–49 | 15-24 | 25% |
-  | 50 i więcej | 25 i nowsze | 15% |
+  | 50 i więcej | 25 i nowsze | Zobacz poniższe opcje |
 
 **Opcja dwie, aby uzyskać punkty:**
 
@@ -295,7 +295,7 @@ Deweloperzy są [wskaźnikami możliwości](partner-contribution-indicators.md#p
 - Punkty dla deweloperów są oparte na migawce bieżącego miesiąca z maksymalnie 5 punktami dostępności.
 
 - Po przejściu deweloperzy mogą otrzymywać środki w wysokości:
-  - PL-400<br/>**oraz**
+  - PL-400<br/>**lub**
   - MB – 200 \* **i** jeden z następujących egzaminów:
     - MB-400 \* lub MB2-0,16\*\*
 
