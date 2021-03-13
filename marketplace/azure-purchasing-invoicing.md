@@ -1,17 +1,17 @@
 ---
 title: Kupowanie oprogramowania i rozwiązań z portalu Azure Marketplace
 description: Poznaj narzędzia, które upraszczają i usprawniają zakupy oprogramowania i zarządzanie nimi w portalu Azure Marketplace.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 01/18/2021
-ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: ac20b3c0603f886104499ab8de6da1d3459bbd57
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584200"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412577"
 ---
 # <a name="azure-marketplace-purchasing"></a>Kupowanie w portalu Azure Marketplace
 
@@ -19,7 +19,7 @@ Witryna Azure Marketplace oferuje wiele narzędzi i funkcji, które upraszczają
 
 ## <a name="simplified-procurement"></a>Uproszczone zaopatrzenie
 
-Witryna Azure Marketplace pomaga uprościć proces zaopatrzenia przy użyciu różnych opcji zakupu. Jeśli kupisz produkty przy użyciu karty kredytowej skojarzonej z kontem platformy Azure, wszystkie zakupy będą skonsolidowane na pojedynczej fakturze i rozliczane za wybraną kartę kredytową. Jeśli jesteś dużym klientem, możesz kupić przy użyciu Umowa Enterprise. W przypadku umowy EA wszystkie zakupy oprogramowania są automatycznie dołączane do faktury platformy Azure. Faktura będzie zawierać opłaty za użycie platformy Azure, a następnie opłaty za witrynę Azure Marketplace.
+Witryna Azure Marketplace pomaga uprościć proces zaopatrzenia przy użyciu różnych opcji zakupu. Jeśli kupisz produkty przy użyciu karty kredytowej skojarzonej z kontem platformy Azure, wszystkie zakupy będą skonsolidowane na pojedynczej fakturze i rozliczane za wybraną kartę kredytową. Jeśli jesteś dużym klientem, możesz kupić przy użyciu Enterprise Agreement. W przypadku umowy EA wszystkie zakupy oprogramowania są automatycznie dołączane do faktury platformy Azure. Faktura będzie zawierać opłaty za użycie platformy Azure, a następnie opłaty za witrynę Azure Marketplace.
 
 Zakup w witrynie Azure Marketplace pozwala wyeliminować złożoność zarządzania relacjami i fakturami poszczególnych dostawców. Otrzymasz jeden skonsolidowany miesięczny rachunek od firmy Microsoft, który obejmuje zarówno zakupy w portalu Azure Marketplace, jak i opłaty za korzystanie z platformy Azure.
 
@@ -65,7 +65,7 @@ Możesz wyświetlić opłaty i faktury w witrynie Azure Marketplace w narzędziu
 
 Zakup oferty w portalu Azure Marketplace może zakończyć się niepowodzeniem z różnych powodów. Korzystanie z interfejsu wiersza polecenia (CLI) dla zakupu może spowodować błędy, ponieważ użytkownik próbuje zakupić ofertę, która nie jest dostępna ani widoczna w portalu Azure Marketplace. Poniżej przedstawiono testy, które mogą spowodować niepowodzenie zakupu:
 
-1. Subskrypcja należy do Umowa Enterprise (EA), a administrator EA wyłączył zakupy w portalu Azure Marketplace.
+1. Subskrypcja należy do Enterprise Agreement (EA), a administrator EA wyłączył zakupy w portalu Azure Marketplace.
 1. Administrator EA włączył zakupy tylko dla bezpłatnych ofert, a oferta jest ofertą płatną.
 1. Oferta nie została znaleziona w portalu Marketplace.
 1. Niezależny dostawca oprogramowania (ISV) przestał sprzedawać ofertę, co najmniej w Twoim regionie.
