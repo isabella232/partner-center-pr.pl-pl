@@ -1,7 +1,7 @@
 ---
 title: Utwórz konto MPN w centrum partnerskim
 ms.topic: article
-ms.date: 02/08/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Dowiedz się, jak członkowie Microsoft Partner Network mogą utworzyć konto Centrum partnerskiego, aby zarządzać swoimi korzyściami i kompetencjami sieci.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 39ff18e82782dcc19e1bda5cd774012f241a0b3a
-ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
+ms.openlocfilehash: 16d19ce353c081359ab59a34bf0a21392fc7d484
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "100013694"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570213"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Utwórz konto MPN w centrum partnerskim, aby zarządzać korzyściami i kompetencjami sieci
 
@@ -23,7 +23,7 @@ Jeśli jesteś nowym do Microsoft Partner Network (MPN) i nie masz identyfikator
 
 ## <a name="prerequisites"></a>Wymagania wstępne 
 
-Gdy wszystko będzie gotowe do utworzenia konta w centrum partnerskim, aby rozpocząć, musisz mieć dostępne następujące elementy.  Aby zebrać te elementy przed rozpoczęciem pracy, może być konieczne Poświęć kilka minut:
+Gdy wszystko będzie gotowe do utworzenia konta w centrum partnerskim, musisz mieć dostępne następujące elementy.  Aby zebrać te elementy przed rozpoczęciem pracy, może być konieczne Poświęć kilka minut:
 
 - Służbowy adres e-mail lub konto służbowe pakietu Office 365. Aby uzyskać więcej informacji, Przeczytaj [firmowe konto służbowe i centrum partnerskie](azure-active-directory-tenants-and-partner-center.md) 
  
@@ -40,7 +40,8 @@ Gdy wszystko będzie gotowe do utworzenia konta w centrum partnerskim, aby rozpo
 
 ## <a name="get-started"></a>Rozpoczęcie pracy
 
-1. Zacznij od służbowego adresu e-mail, takiego jak you@yourcompanyname.com .
+1. Na stronie [**wprowadzenie**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) Zacznij od służbowego adresu e-mail dostarczonego przez Twoją firmę you@yourcompanyname.com .
+
  
     a.  Adres e-mail musi być prawidłowy i dostępny dla Ciebie, ponieważ wyślemy kod weryfikacyjny, aby kontynuować.
 

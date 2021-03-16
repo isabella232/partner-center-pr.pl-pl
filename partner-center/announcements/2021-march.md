@@ -8,17 +8,60 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/12/2021
-ms.openlocfilehash: f5b9069ffe0ebfa15053a3ed18fc2ee3706d9c96
-ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
+ms.date: 03/15/2021
+ms.openlocfilehash: 435d14ec89a9582f16f77f5a63af90ceac9e2e4c
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "103480987"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570196"
 ---
 # <a name="march-2021-announcements"></a>2021 komunikatów o marcu
 
 Ta strona zawiera anonse dla programu Microsoft Partner Center dla marca 2021.
+
+________________
+## <a name="update-a-legal-company-name-through-partner-center"></a><a name="9"></a> Zaktualizuj nazwę firmy prawnej za pomocą Centrum partnerskiego
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-03-16
+- Skalowanie & wydajności dysku
+
+### <a name="summary"></a>Podsumowanie
+
+Począwszy od marca 2021, partnerzy Microsoft Partner Network (MPN) i dostawcy rozwiązań w chmurze (CSP) pośrednim Odsprzedawcy mogą zaktualizować swoją nazwę firmy w centrum partnerskim.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Partnerzy MPN i pośrednicy odsprzedawca dostawcy CSP (nie dotyczy bezpośrednich partnerów rozliczeniowych CSP)
+
+### <a name="details"></a>Szczegóły
+
+Od marca 2021 partnerzy MPN i dostawcy usług kryptograficznych pośrednich odsprzedawca mogą zaktualizować swoją służbową nazwę firmy za pomocą Centrum partnerskiego w sposób zgodny z własnymi sposobami. Dzięki tej nowej funkcji partnerzy nie będą już musieli przesyłać biletu pomocy technicznej Centrum partnerskiego w celu zaktualizowania nazwy firmy. Pozwoli to zaoszczędzić znaczną ilość czasu partnerom podczas wykonywania tych działań.
+
+Wykonaj następujące kroki, aby zaktualizować nazwę firmy prawnej:
+
+1. Administrator globalny lub administratora konta musi zalogować się do Centrum partnerskiego i przejść do [ustawień konta](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn).
+
+2. Zaktualizuj nazwę firmy prawnej.
+
+3. Po zapisaniu zaktualizowanej nazwy firma Microsoft sprawdzi podane informacje. Weryfikacja może być w stanie oczekiwania przez pięć do siedmiu dni.
+
+4. Po zakończeniu weryfikacji zaktualizowana nazwa prawna zostanie skojarzona z dzierżawcą partnera.
+
+5. Jeśli stan weryfikacji zmieni się na odrzucony, zapoznaj się z tematem [Weryfikacja informacji o koncie](https://docs.microsoft.com/partner-center/verification-responses) w celu rozwiązania problemu.
+
+>[!NOTE]
+>Upewnij się, że nazwa firmy w profilu biznesowym firmy nie zawiera błędów pisowni i skrótów, i dokładnie pasuje do formalnych firmowych rekordów rejestracyjnych firmy. Aby uzyskać więcej informacji na temat aktualizowania profilu organizacji, zapoznaj się z tematem [Weryfikowanie profilu organizacji](https://docs.microsoft.com/partner-center/update-your-partner-profile#update-your-legal-business-profile).
+
+### <a name="next-steps"></a>Następne kroki
+
+Udostępnij te informacje w organizacji, tak aby odpowiedni zespół mógł przeglądać i aktualizować ich procesy.
+
+### <a name="questions"></a>Masz pytania?
+
+Skontaktuj się z [pomocą techniczną](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) , aby uzyskać odpowiedzi na pytania, zapytania lub więcej informacji.
 
 ________________
 ## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a> Aktualizuj do ewolucji programu dla dostawcy rozwiązań w chmurze (CSP) i otwarte zmiany programu licencjonowania
