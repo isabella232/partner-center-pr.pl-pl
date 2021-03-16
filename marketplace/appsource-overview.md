@@ -5,13 +5,14 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 6e0ca8e63276d63230b3862d7618ad0c649d8ffe
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 03/12/2021
+ms.custom: contperf-fy21q3
+ms.openlocfilehash: 26de300413e9b718545489b1ab4a3aa6a0286bf3
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412526"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486880"
 ---
 # <a name="what-is-microsoft-appsource"></a>Co to jest usługa Microsoft AppSource?
 
@@ -21,13 +22,25 @@ Katalog AppSource zawiera aplikacje oprogramowania jako usługi (SaaS), rozwiąz
 
 ## <a name="find-what-you-need-on-appsource"></a>Znajdź, czego potrzebujesz w usłudze AppSource
 
-AppSource oferuje proste opcje wyszukiwania i filtrowania, które ułatwiają znalezienie szybko szukanych informacji. Użyj paska wyszukiwania w górnej części strony, aby znaleźć rozwiązania według dostawcy, nazwy produktu lub słów kluczowych. Użyj filtrów w górnej części strony, aby zawęzić wyniki w oparciu o dostępność bezpłatnej wersji próbnej lub testowej, modelu cen (bezpłatnych lub płatnych) i ocen.
+AppSource oferuje proste opcje wyszukiwania i filtrowania, które ułatwiają szybkie znalezienie szukanych informacji. Użyj paska **wyszukiwania** w górnej części strony, aby znaleźć rozwiązania według dostawcy, nazwy produktu lub słów kluczowych.
 
-Okienko po lewej stronie umożliwia filtrowanie wyników w oparciu o listę typów produktów, kategorii i branż. Typy produktów AppSource są oparte na produktach, takich jak Microsoft 365 i aplikacje zaawansowane. Kategorie są oparte na funkcjach firmy, takich jak współpraca i marketing. Możesz również wybrać spośród listy branż, takich jak rolnictwo i produkcja.
+[![Pokazuje stronę docelową Microsoft AppSource.](media/appsource-overview/appsource-home-page.png)](media/appsource-overview/appsource-home-page.png#lightbox)
+
+Podczas eksplorowania [galerii aplikacji](https://appsource.microsoft.com/marketplace/apps)Użyj filtrów w górnej części strony, aby zawęzić wyniki w oparciu o dostępność bezpłatnej wersji próbnej lub testowej, modelu cen (bezpłatnego lub płatnego) i ocen klientów.
+
+Okienko po lewej stronie umożliwia filtrowanie wyników w oparciu o listę typów produktów, kategorii i branż. Typy produktów AppSource są oparte na produktach, takich jak Microsoft 365, Dynamics 365 i platformę potęgi. Kategorie są oparte na funkcjach firmy, takich jak sprzedaż, współpraca i marketing. Możesz również wybrać spośród listy branż, takich jak usługi finansowe, opieka zdrowotna i dystrybucja.
+
+## <a name="microsoft-preferred-solutions"></a>Preferowane rozwiązania firmy Microsoft
+
+W przypadku wyszukiwania lub filtrowania katalogu wyniki mogą obejmować preferowane rozwiązania firmy Microsoft, które są identyfikowane za pomocą preferowanego wskaźnika rozwiązań znajdującego się w prawym dolnym rogu karty App Card lub na stronie szczegółów produktu.
+
+:::image type="content" source="media/appsource-overview/preferred-solution-badge.png" alt-text="Pokazuje AppSource preferowanego dostawcy.":::
+
+Preferowane rozwiązania są wybierane przez zespół ekspertów firmy Microsoft i są publikowane przez partnerów firmy Microsoft z dogłębną, sprawdzoną wiedzą i możliwościami do zaspokajania potrzeb klientów w kategorii, branży lub branży w pionie.
 
 ## <a name="take-action-on-a-listing"></a>Podejmowanie akcji na liście
 
-Po wybraniu aplikacji z _wyników aplikacji_ zostanie wyświetlona strona z listą dla tej aplikacji. Każda lista w programie AppSource obsługuje jedną lub więcej z następujących opcji wyświetlania:
+Wybierz aplikację z *wyników aplikacji* , aby wyświetlić stronę z listą dla tej aplikacji. Wykonaj akcję na liście, wybierając jedną lub więcej z następujących czynności:
 
 - **Pobierz teraz**: Kup rozwiązanie natychmiast.
 - **Test dysku**: Eksplorowanie demonstracji nadzorowanej. Stacja testowa nie korzysta z danych produkcyjnych ani środowiska, ale pozwala określić, czy rozwiązanie spełnia Twoje wymagania biznesowe.

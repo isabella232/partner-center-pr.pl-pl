@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/11/2021
-ms.openlocfilehash: 801ec42953279ca52d0f0a9631e41a811d09fd4c
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.date: 03/12/2021
+ms.openlocfilehash: bbc4d02d4834a4bb13f7c58de709b74ce09e1f4d
+ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193617"
+ms.lasthandoff: 03/15/2021
+ms.locfileid: "103480997"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
@@ -22,6 +22,8 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 
 |**Kategoria**|**2021 komunikatów o marcu**|**Ogłoszone**|
 |---------|:---------|:---------|
+|Możliwości|[Aktualizuj do ewolucji programu dla dostawcy rozwiązań w chmurze (CSP) i otwarte zmiany programu licencjonowania](2021-march.md#8)|15 marca|
+|Rozwijaj swoją firmę|[Aktualizacja do poprzedniego anonsu: oceny w wersji Premium, dodatek do Menedżera zgodności](2021-march.md#7)|15 marca|
 |Możliwości|[Migrowanie rozwiązań z jednego partnera komercyjnego (OCP) do rynku (GTM) do komercyjnej witryny Microsoft Marketplace](2021-march.md#6)|12 marca|
 |Możliwości|[Rozszerzanie nowego środowiska handlowego w programie Cloud Solution Provider (CSP) dla platformy Azure do Rosji](2021-march.md#5)|10 marca|
 |Możliwości|[Klucz licencji oprogramowania Centrum partnerskiego i realizacja pobrania](2021-march.md#4)|5 marca|

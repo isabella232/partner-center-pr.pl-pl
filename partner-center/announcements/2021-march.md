@@ -8,17 +8,91 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/11/2021
-ms.openlocfilehash: 479f18318a2cc85ca16c399a0379e5528090d229
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.date: 03/12/2021
+ms.openlocfilehash: f5b9069ffe0ebfa15053a3ed18fc2ee3706d9c96
+ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193634"
+ms.lasthandoff: 03/15/2021
+ms.locfileid: "103480987"
 ---
 # <a name="march-2021-announcements"></a>2021 komunikatów o marcu
 
 Ta strona zawiera anonse dla programu Microsoft Partner Center dla marca 2021.
+
+________________
+## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a> Aktualizuj do ewolucji programu dla dostawcy rozwiązań w chmurze (CSP) i otwarte zmiany programu licencjonowania
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-03-15
+- Możliwości
+
+### <a name="summary"></a>Podsumowanie
+
+Nowe komercyjne i publiczne oferty bezterminowego oprogramowania są dostępne w programie Cloud Solution Provider (CSP) wraz ze zmianami w ramach programu licencjonowania Open.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Dystrybutorzy handlowi i zarządzani odsprzedawcy kupują w ramach programu licencjonowania Open, a także wszyscy partnerzy CSP w transakcyjnym oprogramowaniu
+
+### <a name="details"></a>Szczegóły
+
+We wrześniu 2020 firma Microsoft [ogłosiła](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) szereg kroków w naszej podróży cyfrowej transformacji, aby zwiększyć szanse sprzedaży dla partnerów w programie CSP, w tym dostępność lokalnego oprogramowania dla partnerów. Te zmiany pozwalają partnerom rozwijać swoją firmę i rozszerzać ich zasięg dzięki wykorzystaniu licencji na oprogramowanie w programie CSP, umieszczając je na sukcesie w świecie współczesnym w chmurze. Umożliwiają one również przechodzenia klientów do chmury i zapewniają partnerom elastyczność potrzebną w środowiskach chmur hybrydowych klienta.
+
+W dalszej części tej transformacji cyfrowej ogłaszamy następujące zmiany:
+
+- 1 lipca 2021: żadne nowe jednostki SKU, produkty lub promocje nie zostaną dodane do listy cen programu licencjonowania Open.
+
+- 7 lipca 2021: dwie oferty komercyjne, uzyskaj oryginalny system Windows i Visual Studio Professional i oferty sektorów publicznych (rządowych, edukacyjnych i niedochodowych — zobacz [anons](https://docs.microsoft.com/partner-center/announcements/2020-december#9)) zostaną dodane do cennika programu CSP.  Listę cen można znaleźć w sekcji oprogramowanie na stronie [sprzedaj > ceny & oferty](https://partnercenter.microsoft.com/pcv/sales) w centrum partnerskim i będzie ona ponownie publikowana w tym dniu.
+
+Aby uzyskać szczegółowe informacje dotyczące ewolucji programu przez program CSP i otwartych zmian programu licencjonowania, zobacz **następne kroki** poniżej.
+
+### <a name="next-steps"></a>Następne kroki:
+
+- Ewolucja programu CSP: Sprawdź bezterminowe oprogramowanie w materiałach gotowości [programu Cloud Solution Provider](https://partner.microsoft.com/resources/collection/software-in-csp#/) . Użyj tej [mapy gotowości](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) , aby szybko zlokalizować odpowiednie informacje dla roli.
+
+- Otwarte zmiany programu licencjonowania: Przejrzyj [ewolucję programu CSP i Otwórz program licencjonowania](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/) . Użyj tej [mapy gotowości](https://partner.microsoft.com/resources/detail/csp-open-evolution-to-a-better-experience-readiness-map-pdf) , aby szybko zlokalizować odpowiednie informacje dla roli.
+
+### <a name="questions"></a>Pytania
+
+Aby uzyskać więcej pytań, Sprawdź odpowiednie społeczności Yammera programu CSP.
+
+_______________
+## <a name="update-to-a-previous-announcement-premium-assessments-an-add-on-to-compliance-manager"></a><a name="7"></a>Aktualizacja do poprzedniego anonsu: oceny w wersji Premium, dodatek do Menedżera zgodności
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-03-15
+- Rozwijanie firmy
+
+### <a name="summary"></a>Podsumowanie
+
+Oferty wersji próbnej nie powinny znajdować się na liście cen i zostaną usunięte.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Partnerzy w transakcyjnym użyciu dostawcy rozwiązań w chmurze
+
+### <a name="details"></a>Szczegóły
+
+Oferty wersji próbnej nie powinny znajdować się na liście cen. Zostaną one usunięte z cennika 1 maja 2021.
+
+Oryginalne ogłoszenie jest [tutaj](https://docs.microsoft.com/partner-center/announcements/2021-february#4).
+
+### <a name="additional-resources"></a>Dodatkowe zasoby
+
+- [Microsoft 365 E5 zabezpieczenia i zgodność](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?activetab=m365-enterprise:primaryr5)
+
+- [Kompilowanie ocen i zarządzanie nimi w programie Microsoft zgodność Manager — zgodność Microsoft 365 | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments?view=o365-worldwide)
+
+### <a name="next-steps"></a>Następne kroki
+
+Zapoznaj się z zasobami dotyczącymi tego tematu i Udostępnij te informacje odpowiednim udziałowcom w organizacji.
+
+### <a name="questions"></a>Masz pytania?
+
+Pytania dotyczące tych ofert można znaleźć w odpowiednich społecznościach usługi Yammer.
 
 ________________
 ## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="6"></a> Migrowanie rozwiązań z jednego partnera komercyjnego (OCP) do rynku (GTM) do komercyjnej witryny Microsoft Marketplace

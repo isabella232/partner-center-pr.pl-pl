@@ -1,7 +1,7 @@
 ---
 title: Zarządzanie kontem w Centrum partnerskim
 ms.topic: conceptual
-ms.date: 01/14/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Dowiedz się, jak za pomocą Centrum partnerskiego zarządzać profilem, informacjami o banku i podatkami, rolami, uprawnieniami i innymi innymi firmami.
@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235974"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103487016"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Zarządzanie kontem Centrum partnerskiego — profil firmy, informacje o banku, role, uprawnienia i inne
 
@@ -26,7 +26,7 @@ Konto utworzone w centrum partnerskim po zarejestrowaniu to służbowy adres e-m
 Zobacz też artykuły [zapraszanie pracowników do dołączenia do Centrum partnerskiego](guide-to-migration.md) i [Dodawanie nowego użytkownika](create-user-accounts-and-set-permissions.md).
 
 >[!NOTE]
->Menu Ustawienia konta zmieni się w zależności od programów, które są zarejestrowane w usłudze. Na przykład jeśli jesteś partnerem w programie dostawcy rozwiązań w chmurze (CSP), będziesz mieć możliwość zarządzania usługami udostępnionymi platformy Azure z poziomu ustawień konta.
+>Menu Ustawienia konta zmieni się w zależności od programów, które są zarejestrowane w usłudze. Na przykład jeśli jesteś partnerem w programie dostawcy rozwiązań w chmurze (CSP), będziesz mieć możliwość zarządzania usługami udostępnionymi platformy Azure z poziomu **ustawień konta**.
 
 ## <a name="account-management"></a>Zarządzanie kontami
 
@@ -51,6 +51,20 @@ Po wybraniu ikony **ustawień** i otwarciu menu **Ustawienia konta** w widoku do
 Na karcie partner zostaną uwzględnione wszystkie prawne informacje biznesowe, takie jak zarejestrowana nazwa i adres służbowy firmy, a także kontakty podstawowe i lokalizacje biznesowe. Karta odsprzedawca dla partnerów wykonujących działania w ramach firmy CSP obejmuje **profil obsługi klienta**.
 
 Jeśli firma nie uczestniczy w programie CSP, w widoku domyślnym zostanie wyświetlona tylko karta **partnera** , która będzie zawierać **profil obsługi klienta**.
+
+### <a name="when-you-are-in-more-than-one-account"></a>Jeśli używasz więcej niż jednego konta
+
+Można być częścią więcej niż jednego konta. W menu nawigacji po lewej stronie możesz sprawdzić, czy użytkownik jest częścią wielu kont.
+
+:::image type="content" source="images/accountsettings/account-picker.png" alt-text="Identyfikowanie selektora kont":::
+
+Jeśli nie widzisz selektora konta, jesteś częścią tylko jednego konta. 
+
+Po kliknięciu tego selektora zostaną wyświetlone wszystkie konta, które są częścią listy. Następnie możesz kliknąć dowolne z nich i przełączyć się na to konto. Wszystko, co jest wyświetlane w kontekście tego konta.  
+
+W poniższym przykładzie zalogowany użytkownik jest częścią trzech wyróżnionych kont. Użytkownik może przełączać się między nimi, klikając konto.
+
+:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="Konta należące do użytkownika":::
 
 ## <a name="organization-profile"></a>Profil organizacji
 
@@ -90,13 +104,13 @@ Ta strona zawiera informacje o wykorzystaniu i podatkach, w tym informacje o **r
 
 ## <a name="user-management"></a>Zarządzanie użytkownikami
 
-Elementy, nad którymi pracujesz w centrum partnerskim, oraz obszary, które można zaktualizować lub zobaczyć, zależą od roli użytkownika i uprawnień dołączonych do tej roli. Na przykład jeśli nie jesteś administratorem zachęty, nie będzie można zmienić żadnych elementów na stronach bodźców, ale może być możliwe wyświetlenie danych.
+Elementy, nad którymi pracujesz w centrum partnerskim, oraz obszary, które można zaktualizować lub zobaczyć, zależą od roli użytkownika i uprawnień dołączonych do tej roli. Na przykład jeśli nie jesteś administratorem zachęty, nie będzie można zmienić żadnych elementów na stronach bodźców, ale może być możliwe wyświetlenie danych. Dowiedz się więcej na temat [ról i uprawnień](permissions-overview.md)
 
 ### <a name="update-preferred-email"></a>Aktualizuj preferowany adres e-mail
 
 Aby zaktualizować preferowaną wiadomość e-mail w celu otrzymywania powiadomień w centrum partnerskim:
 
-1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard).
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard) Centrum partnerskiego.
 1. Przejdź do [**preferencji zaangażowanie**](https://partner.microsoft.com/dashboard/engagement/preference), wybierz łącze **Zmień** , zaktualizuj adres e-mail, a następnie wybierz pozycję **Zapisz**.
 
 ### <a name="find-your-user-role"></a>Znajdowanie roli użytkownika
