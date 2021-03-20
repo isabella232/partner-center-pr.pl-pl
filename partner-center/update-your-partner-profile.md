@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/10/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 5ade6d7c587561cc1af4a7645d1e4b0cce9a505e
-ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
+ms.openlocfilehash: 6e9afa8689f34203bdbf1f56f69aa9289e38ae15
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "102770247"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712600"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Weryfikowanie lub aktualizowanie informacji o profilu firmy 
 
@@ -55,7 +55,7 @@ Zaktualizuj służbowe imię i nazwisko lub adres w centrum partnerskim.
 
 1. Kliknij pozycję **Aktualizuj**  obok pozycji Nazwa firmy/adres i zmień szczegóły.
  
-1. Po wybraniu opcji **Prześlij** tożsamość prawna zostanie ponownie oceniona.
+1. Po wybraniu opcji **Prześlij** tożsamość prawna zostanie ponownie oceniona. Oceniamy tylko te zmiany.
 
 1. Jeśli weryfikacja nie powiedzie się, Dowiedz się, jak [rozwiązać ten problem](verification-responses.md).
 

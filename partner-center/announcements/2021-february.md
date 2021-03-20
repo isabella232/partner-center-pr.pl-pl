@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 02/25/2021
-ms.openlocfilehash: 43614ebde27b6b0df0878bd7041163f1b7ca8882
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: c4ea0af46aa2dee02e2270e1f2d58eeff0f59ff4
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124792"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712481"
 ---
 # <a name="february-2021-announcements"></a>Powiadomienia 2021 lutego
 
@@ -77,7 +77,7 @@ Szczegółowe informacje znajdują się w artykule wymienionym w następnej sekc
 
 ### <a name="next-steps"></a>Następne kroki
 
-Dowiedz się więcej o możliwościach operacji zbiorczych, odczytując [operacje zbiorcze dla wspólnych możliwości sprzedaży przy użyciu plików CSV (wartości rozdzielanych przecinkami)](https://docs.microsoft.com/partner-center/bulk-operations).
+Dowiedz się więcej o możliwościach operacji zbiorczych, odczytując [operacje zbiorcze dla wspólnych możliwości sprzedaży przy użyciu plików CSV (wartości rozdzielanych przecinkami)](../bulk-operations.md).
 
 ### <a name="questions"></a>Masz pytania?
 
@@ -107,7 +107,7 @@ Szczegółowe informacje znajdują się w artykule wymienionym w następnej sekc
 
 ### <a name="next-steps"></a>Następne kroki
 
-Więcej informacji o funkcji migracji transakcji można znaleźć w sekcji dotyczącej **migracji transakcji PSC** w [przewodniku, aby sprzedawać w centrum partnerskim (komputer) dla partnerów migrowanych z programu Partner Sales Connect (PSC)](https://docs.microsoft.com/partner-center/psc-to-pc).
+Więcej informacji o funkcji migracji transakcji można znaleźć w sekcji dotyczącej **migracji transakcji PSC** w [przewodniku, aby sprzedawać w centrum partnerskim (komputer) dla partnerów migrowanych z programu Partner Sales Connect (PSC)](../psc-to-pc.md).
 
 ### <a name="questions"></a>Masz pytania?
 
@@ -139,7 +139,7 @@ Szczegółowe informacje znajdują się w artykule wymienionym w następnej sekc
 
 ### <a name="next-steps"></a>Następne kroki
 
-Dowiedz się więcej, wyświetlając nasz przewodnik dotyczący [zarządzania szansami sprzedaży w centrum partnerskim](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities).
+Dowiedz się więcej, wyświetlając nasz przewodnik dotyczący [zarządzania szansami sprzedaży w centrum partnerskim](../manage-co-sell-opportunities.md).
 
 ### <a name="questions"></a>Masz pytania?
 

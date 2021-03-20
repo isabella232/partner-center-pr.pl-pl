@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 515a35584d8c31538b6722a282c53181c7809420
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 32a41ac1695d40cf300b76af96ce824fcd48122d
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022727"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712804"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Połącz lub odłącz identyfikator profilu certyfikatu firmy Microsoft (MCID) na konto Microsoft Partner Network (MPN)
 
@@ -48,7 +48,7 @@ Aby skojarzyć konto Microsoft Learning, należy wykonać poniższą procedurę.
 >Jeśli poświadczenia konta Microsoft Learning są takie same, jak poświadczenia konta University dla partnerów, wybierz pozycję **Użyj email@address , aby skojarzyć moje konto Microsoft Learning**.
 
 ## <a name="download-skills-report-microsoft-certification-list"></a>Pobierz raport umiejętności (Lista certyfikatów firmy Microsoft)
-Jeśli potrzebujesz szczegółowych informacji, dostęp do skillsreport będzie możliwy i pobierany przez dowolnego administratora globalnego lub administratora partnerskiego MPN z Centrum partnerskiego. Aby [dowiedzieć się więcej](https://docs.microsoft.com/partner-center/mpn-skills-report#view-skills-report-data).
+Jeśli potrzebujesz szczegółowych informacji, dostęp do skillsreport będzie możliwy i pobierany przez dowolnego administratora globalnego lub administratora partnerskiego MPN z Centrum partnerskiego. Aby [dowiedzieć się więcej](./mpn-skills-report.md#view-skills-report-data).
 
 
 ## <a name="frequently-asked-questions-about-linking-accounts"></a>Często zadawane pytania dotyczące łączenia kont

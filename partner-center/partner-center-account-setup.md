@@ -1,7 +1,7 @@
 ---
 title: Zarządzanie kontem w Centrum partnerskim
 ms.topic: conceptual
-ms.date: 03/15/2021
+ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Dowiedz się, jak za pomocą Centrum partnerskiego zarządzać profilem, informacjami o banku i podatkami, rolami, uprawnieniami i innymi innymi firmami.
@@ -9,19 +9,19 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
-ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
+ms.openlocfilehash: 514c8d1e1c94c0a500384502ad57bad977dcc368
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103487016"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712860"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Zarządzanie kontem Centrum partnerskiego — profil firmy, informacje o banku, role, uprawnienia i inne
 
 **Odpowiednie role** — Administrator globalny
 - Administrator konta MPN
 
-Konto utworzone w centrum partnerskim po zarejestrowaniu to służbowy adres e-mail i informacje biznesowe. Po utworzeniu konta należy skonfigurować pełny profil firmy, w tym szczegóły pomocy technicznej, zwolnienia z podatku, jeśli to konieczne, oraz podstawowe informacje kontaktowe. Konto Twojej firmy będzie również obejmowało konta użytkowników dla wszystkich osób, które będą korzystać z Centrum partnerskiego do dodawania klientów i zarządzania nimi, sprzedaży subskrypcji, pracy z rozliczeniami i fakturowania, tworzenia profilów biznesowych, zarządzania odwołaniami, pracy z programami zachęt i zapewnienia pomocy technicznej.
+Konto utworzone w centrum partnerskim po zarejestrowaniu to służbowy adres e-mail i informacje biznesowe. Po utworzeniu konta należy skonfigurować pełny profil firmy, w tym szczegóły pomocy technicznej, zwolnienia z podatku, jeśli to konieczne, oraz podstawowe informacje kontaktowe. Konto Twojej firmy będzie również obejmowało konta użytkowników dla wszystkich członków zespołu, którzy będą korzystać z Centrum partnerskiego. Mogą one obejmować Dodawanie klientów i zarządzanie nimi, sprzedawanie subskrypcji, pracę z rozliczeniami i fakturowanie, tworzenie profilów firmy, Zarządzanie odwołaniami, praca z programami zachęty, zapewnianie pomocy technicznej i nie tylko.
 
 Zobacz też artykuły [zapraszanie pracowników do dołączenia do Centrum partnerskiego](guide-to-migration.md) i [Dodawanie nowego użytkownika](create-user-accounts-and-set-permissions.md).
 
@@ -30,7 +30,7 @@ Zobacz też artykuły [zapraszanie pracowników do dołączenia do Centrum partn
 
 ## <a name="account-management"></a>Zarządzanie kontami
 
-Aby uzyskać dostęp do zarządzania kontami w centrum partnerskim dla wszystkich partnerów, komercyjnych i deweloperów, zaloguj się na [pulpicie nawigacyjnym](https://partner.microsoft.com/dashboard) Centrum partnerskiego i wybierz pozycję **Ustawienia** (ikonę koła zębatego) w prawym górnym rogu ekranu, a następnie **Ustawienia konta**. Nie trzeba już wybierać między ustawieniami partnera i dewelopera, ponieważ wszystkie profile i ustawienia są teraz połączone.
+Wszyscy partnerzy handlowi i deweloperów uzyskują dostęp do **zarządzania kontami** w centrum partnerskim, logując się na [pulpicie nawigacyjnym](https://partner.microsoft.com/dashboard) Centrum partnerskiego i wybierając pozycję **Ustawienia** (ikonę koła zębatego) w prawym górnym rogu ekranu, a następnie **Ustawienia konta**. Nie trzeba już wybierać między ustawieniami partnera i dewelopera. Wszystkie profile i ustawienia są teraz połączone.
 
 :::image type="content" source="images/accountsettings/opening.png" alt-text="ikona Ustawienia":::
 
@@ -50,13 +50,13 @@ Po wybraniu ikony **ustawień** i otwarciu menu **Ustawienia konta** w widoku do
 
 Na karcie partner zostaną uwzględnione wszystkie prawne informacje biznesowe, takie jak zarejestrowana nazwa i adres służbowy firmy, a także kontakty podstawowe i lokalizacje biznesowe. Karta odsprzedawca dla partnerów wykonujących działania w ramach firmy CSP obejmuje **profil obsługi klienta**.
 
-Jeśli firma nie uczestniczy w programie CSP, w widoku domyślnym zostanie wyświetlona tylko karta **partnera** , która będzie zawierać **profil obsługi klienta**.
+Jeśli firma nie uczestniczy w programie CSP, w widoku domyślnym będzie wyświetlana tylko karta **partner** , która będzie zawierać **profil obsługi klienta**.
 
 ### <a name="when-you-are-in-more-than-one-account"></a>Jeśli używasz więcej niż jednego konta
 
 Można być częścią więcej niż jednego konta. W menu nawigacji po lewej stronie możesz sprawdzić, czy użytkownik jest częścią wielu kont.
 
-:::image type="content" source="images/accountsettings/account-picker.png" alt-text="Identyfikowanie selektora kont":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identyfikowanie selektora kont":::
 
 Jeśli nie widzisz selektora konta, jesteś częścią tylko jednego konta. 
 
@@ -64,7 +64,7 @@ Po kliknięciu tego selektora zostaną wyświetlone wszystkie konta, które są 
 
 W poniższym przykładzie zalogowany użytkownik jest częścią trzech wyróżnionych kont. Użytkownik może przełączać się między nimi, klikając konto.
 
-:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="Konta należące do użytkownika":::
+:::image type="content" source="images/accountsettings/picker-two.png" alt-text="Konta należące do użytkownika":::
 
 ## <a name="organization-profile"></a>Profil organizacji
 
@@ -74,11 +74,17 @@ Te strony umożliwiają zarządzanie szczegółowymi obszarami Twojej firmy, w t
 
 ### <a name="legal-info"></a>Informacje prawne
 
-Po pierwszym dołączeniu do Centrum partnerskiego firma przechodzi przez proces weryfikacji do firmy Microsoft. Stan weryfikacji można śledzić na stronie **Informacje prawne** . Przedstawia on główną osobę kontaktową (którą firma Microsoft skontaktuje w sprawie pytań partnerskich), a także podstawowy kontakt prawny (osoby, która zarządza informacjami i statusem prawnym). Wszystkie lokalizacje firmowe firmy zostały wymienione i można je dodać tutaj.
+Po pierwszym dołączeniu do Centrum partnerskiego firma przechodzi przez proces weryfikacji do firmy Microsoft. Stan weryfikacji można śledzić na stronie **Informacje prawne** . Pokazuje on główną osobę kontaktową (którą firma Microsoft skontaktuje w sprawie pytań partnerskich) i główną osobą kontaktową (osobą, która zarządza informacjami prawnymi i statusem). Wszystkie lokalizacje firmowe firmy zostały wymienione i można je dodać tutaj. 
+
+### <a name="provide-your-companys-legal-business-details"></a>Podaj szczegółowe informacje biznesowe firmy
+
+Możesz wyszukać profil firmy lub ręcznie wprowadzić informacje firmowe. Jeśli Twoja firma jest zarejestrowana w usłudze [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), użyj identyfikatora Duns, aby wyszukać informacje o firmie. Jeśli chcesz samodzielnie podać szczegóły swojej firmy, wybierz pozycję **Ręczne**.
+
+Jeśli firma znajduje się w **Armenii**, **Węgrzech**, **Kirgistanie**, **Mołdawii**, **Uzbekistan** lub **Rosja**, i ręcznie wprowadzisz swój adres, sprawdzimy swój adres. Jeśli wprowadzona wartość różni się od zweryfikowanej, sugerujemy użycie zweryfikowanego adresu. Weryfikacja zapewnia, że adres jest dokładny i może być wysyłany do.
 
 ### <a name="primary-contact-email"></a>Podstawowy kontaktowy adres e-mail
 
-Podstawowy kontaktowy adres e-mail jest używany do powiadamiania o weryfikacji konta. Bardzo ważne jest, aby poczta e-mail podaną dla kontaktu podstawowego była taka, która jest regularnie zarządzana i obserwowana.  
+Podstawowy kontaktowy adres e-mail jest używany do powiadamiania użytkownika o weryfikacji Twojego konta. Ważne jest, aby poczta e-mail podaną dla kontaktu podstawowego była taka, która jest regularnie zarządzana i obserwowana.  
 
 Dowiedz się więcej [na temat weryfikacji i informacji o koncie](verification-responses.md).
 

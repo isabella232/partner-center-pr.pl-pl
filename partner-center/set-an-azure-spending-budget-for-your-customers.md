@@ -1,7 +1,7 @@
 ---
-title: Ustaw budżet wydatków na platformę Azure dla klientów
+title: Ustawianie budżetu wydatków na platformę Azure dla klientów
 ms.topic: how-to
-ms.date: 06/03/2020
+ms.date: 03/17/2021
 description: Dowiedz się, jak ustawiać lub usuwać miesięczne budżety wydatków platformy Azure dla klientów, a także wyświetlać dane wydatków platformy Azure i ustawiać powiadomienia związane z budżetem.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e311af31bbce65ed38c20df12243d325c7a63d04
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: eaf54898d7a130ca38e5a2aaeba279fb722c9e66
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96438986"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712753"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Ustaw, sprawdzaj lub usuwaj miesięczne budżety wydatków platformy Azure dla klientów w centrum partnerskim
 
-Dotyczy:
+**Odpowiednie role**
 
-- Centrum partnerskie
-- Centrum partnerskie Microsoft Cloud for US Government
+- Agent administracyjny
 
 Możesz [ustawić miesięczny budżet wydatków platformy Azure dla klientów](#set-azure-spending-budget) w centrum partnerskim. Dzięki temu klienci mogą zarządzać wydatkami na platformę Azure. Ta opcja umożliwia porównanie wydatków platformy Azure dla klientów z budżetem w danym miesiącu. Ułatwia ona również klientom budżetowanie wydatków na platformę Azure, dzięki czemu miesięczne rozliczenie nie jest wyższe niż przewidywane.
 
@@ -48,7 +47,7 @@ Dane wydatków są *odświeżane raz* dziennie. Klienci mogą nadal korzystać z
 
 Możesz *ustawić miesięczny budżet wydatków platformy Azure* dla wielu klientów w centrum partnerskim:
 
-1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/) Centrum partnerskiego.
 
 2. W menu po lewej stronie w obszarze **CSP** wybierz pozycję **wydatki na platformę Azure**.
 
@@ -76,7 +75,7 @@ Możesz również *ustawić budżet dla pojedynczego klienta* w ustawieniach sub
 
 Możesz *usunąć miesięczny budżet wydatków platformy Azure* dla klientów w centrum partnerskim:
 
-1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/) Centrum partnerskiego.
 
 2. W menu po lewej stronie w obszarze **CSP** wybierz pozycję **wydatki na platformę Azure**.
 
@@ -88,7 +87,7 @@ Możesz *usunąć miesięczny budżet wydatków platformy Azure* dla klientów w
 
 W dowolnym momencie możesz *śledzić bieżące wydatki na korzystanie z platformy Azure i budżety miesięczne klientów* :
 
-1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/) Centrum partnerskiego.
 
 2. W menu po lewej stronie w obszarze **CSP** wybierz pozycję **wydatki na platformę Azure**.
 
@@ -126,3 +125,8 @@ Można *wyświetlić wyszczególnione koszty (i szacowane użycie) według usłu
 4. Na stronie **subskrypcje** klienta w obszarze **subskrypcje na podstawie użycia** wybierz nazwę **subskrypcji**.
 
 5. Na stronie subskrypcja można przejrzeć **koszty wyszczególnione** według usługi i **szacowane użycie** w bieżącym miesiącu.
+
+
+## <a name="next-steps"></a>Następne kroki
+
+- [Nowe środowisko handlowe w programie CSP — rozliczenia platformy Azure](azure-plan-billing.md)

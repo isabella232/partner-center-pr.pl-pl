@@ -9,12 +9,12 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 12/15/2020
-ms.openlocfilehash: 9c2ec0c7204a275f6b32e75b86eae775eb87bb55
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: ac4b6ef6a061a68ef623c7666804a4db1582785f
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105532"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712210"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Wymagania dotyczące rejestracji jako partner CSP rozliczający się bezpośrednio
 
@@ -28,11 +28,11 @@ Jako bezpośredni partner rozliczeniowy jesteś członkiem kompleksowej relacji 
 
 ### <a name="minimum-requirements"></a>Minimalne wymagania
 
-|**Wymaganie**|                |
+|**Wymaganie**|  **Opis**  |
 |--------------------------------|--------------------------------------------------------------|
 |**Identyfikator MPN**   |Aktywne członkostwo w Microsoft Partner Network i identyfikator MPN dla lokalizacji, w której chcesz sprzedawać.   |
 |**Poręczenie**   |Urząd do akceptowania i podpisywania umów prawnych w imieniu organizacji.|
-|**Pomoc techniczna**   |Możliwość udostępnienia klientowi pierwszego poziomu pomocy technicznej w chmurze. <br/>Plan pomocy technicznej firmy Microsoft, zaawansowana pomoc techniczna dla partnerów (ASfP) lub pomoc techniczna Premier dla partnerów (PSfP), w zależności od potrzeb. [Porównaj plany pomocy technicznej](https://partner.microsoft.com/support/partnersupport).<br/>Ważne: aby móc kupić plan pomocy technicznej, musisz przekazać sprawdzenie kredytu. Wyślemy wiadomość e-mail po przekazaniu środków do sprawdzenia. |
+|**Pomoc techniczna**   |Możliwość udostępnienia klientowi pierwszego poziomu pomocy technicznej w chmurze. <br/>Plan pomocy technicznej firmy Microsoft, zaawansowana pomoc techniczna dla partnerów (ASfP) lub pomoc techniczna Premium dla partnerów (PSfP), w zależności od potrzeb. [Porównaj plany pomocy technicznej](https://partner.microsoft.com/support/partnersupport).<br/>Ważne: aby móc kupić plan pomocy technicznej, musisz przekazać sprawdzenie kredytu. Wyślemy wiadomość e-mail po przekazaniu środków do sprawdzenia. |
 |**Wymaganie dotyczące przychodu**|Musi spełniać co najmniej USD300K w okresie rocznym programu dostawcy rozwiązań w chmurze w ciągu poprzednich 12 miesięcy jako pośredniego odsprzedawcy. Partnerzy mogą przejrzeć okres 12 miesięcy w centrum partnerskim.<br/>Sprzedaż, która składa się z miesięcznego przychodu z USD300Ków, podlega przeglądowi i sprawdzeniu przez firmę Microsoft, a użytkownik może zostać poproszony o podanie dodatkowych informacji. Wymagania dotyczące przychodów USD300K są obliczane na podstawie przychodów w chmurze i wykluczają oprogramowanie bezterminowe w dostawcy usług kryptograficznych.|
 |**Rozliczenia kont** |Infrastruktura organizacyjna, w której można zarządzać rozliczeniami i inicjowaniem obsługi klienta.|
 |**Zalecenie**|             |

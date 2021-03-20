@@ -7,19 +7,19 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b45ef4767e4bde28befd35c5294ed19149bf034
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 531f28ae2bceed2d854c6fb139d0abb837a047b5
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92530394"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712243"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Informacje na temat odczytywania codziennych plików uzgadniania użycia w centrum partnerskim
 
 **Dotyczy**
 
 - Centrum partnerskie
-- Centrum partnerskie dla Microsoft Cloud dla instytucji rządowych USA
+- Centrum partnerskie Microsoft Cloud for US Government
 
 **Odpowiednie role**
 
@@ -53,7 +53,7 @@ W tym artykule wyjaśniono, jak czytać pliki uzgadniania użycia codziennie.
 | ProductName | Nazwa produktu. |
 | PublisherName | Nazwa wydawcy. |
 | PublisherId | Identyfikator wydawcy w formacie identyfikatora GUID. |
-| SubscriptionDescription | Nazwa oferty usługi zakupionej przez klienta zgodnie z definicją w cenniku. (Ta kolumna jest tym samym polem, aby **zaoferowaćname** ). |
+| SubscriptionDescription | Nazwa oferty usługi zakupionej przez klienta zgodnie z definicją w cenniku. (Ta kolumna jest tym samym polem, aby **zaoferowaćname**). |
 | SubscriptionId | Unikatowy identyfikator subskrypcji na platformie rozliczeń firmy Microsoft. Nieużywany do uzgadniania. *Ten identyfikator nie jest taki sam jak **Identyfikator subskrypcji** w konsoli administracyjnej partnera.* |
 | ChargeStartDate | Data rozpoczęcia cyklu rozliczeniowego (z wyjątkiem przedstawiania dat wcześniej nieobciążona ukrytymi danymi użycia z poprzedniego okresu rozliczeniowego). Godzina to zawsze początek dnia, 0:00. |
 | ChargeEndDate | Data zakończenia cyklu rozliczeniowego (z wyjątkiem przedstawiania dat wcześniej nieodpłatnych danych użycia z poprzedniego okresu rozliczeniowego). Czas jest zawsze koniec dnia, 23:59. |
@@ -70,10 +70,10 @@ W tym artykule wyjaśniono, jak czytać pliki uzgadniania użycia codziennie.
 | ResourceGroup | Reprezentuje kontener, który zawiera powiązane zasoby dla rozwiązania platformy Azure. |
 | ResourceURI | Identyfikator URI używanego zasobu. |
 | ChargeType | Typ opłaty lub korekty.  |
-| Cena jednostkowa | Cena za licencję publikowana w cenniku w momencie zakupu. Zadbaj o to, aby cena była zgodna z informacjami przechowywanymi w systemie rozliczeniowym podczas uzgadniania. |
+| UnitPrice | Cena za licencję publikowana w cenniku w momencie zakupu. Zadbaj o to, aby cena była zgodna z informacjami przechowywanymi w systemie rozliczeniowym podczas uzgadniania. |
 | Liczba | Liczba licencji. Zadbaj o to, aby cena była zgodna z informacjami przechowywanymi w systemie rozliczeniowym podczas uzgadniania. |
 | UnitType | Typ jednostki, w której jest naliczany pomiar.  |
-| BillingPreTaxTotal | Łączna kwota rozliczeń przed opodatkowaniem.<br/> _**BillingPreTaxTotal** = Floor (([ @EffectiveUnitPrice ] *[ @Quantity ]* [ @PCToBCExchangeRate ]), 2)_ |
+| BillingPreTaxTotal | Łączna kwota rozliczeń przed opodatkowaniem.<br/> _**BillingPreTaxTotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
 | BillingCurrency | Waluta w regionie geograficznym klienta. |
 | PricingPreTaxTotal | Ceny przed dodaniem podatków. |
 | PricingCurrency | Waluta w cenniku. |
@@ -87,7 +87,8 @@ W tym artykule wyjaśniono, jak czytać pliki uzgadniania użycia codziennie.
 | EntitlementId | Reprezentuje identyfikator subskrypcji platformy Azure. |
 | EntitlementDescription | Reprezentuje nazwę identyfikatora subskrypcji platformy Azure. |
 | PartnerEarnedCreditPercentage | Wyświetla PartnerEarnedCredit dla elementu wiersza. Kwota uzyskanych środków wynosi 0 lub 15% |
-
+| CreditPercentage | Wyświetla środki na korzystanie z platformy Azure. Uzyskany kredyt będzie wynosić 0 lub 100 procent. |
+| Kredyttype | Typ kredytu. Na przykład środki na korzystanie z **platformy Azure zastosowały się.** |
 >[!NOTE]
 >Dzienne użycie zwykle trwa 24 godziny w centrum partnerskim lub dostęp do niego przy użyciu interfejsu API.
 

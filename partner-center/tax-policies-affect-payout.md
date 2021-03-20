@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 3630824c839ccd9f54f3e8e5199a573b5824bb91
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 19acb085b601212f1bf94316aab2b72c54aecc1a
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101758911"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712957"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Jak zasady podatkowe wpływają na wypłatę w portalu Azure Marketplace
 
@@ -47,7 +47,7 @@ Zapoznaj się z [scenariuszem D](#foreign-publisher-transacts-with-us-customer) 
 
 **Scenariusz C** — transakcje, które odbywają się między wydawcą a klientem w kraju podatków zarządzanym przez wydawcę, które nie nakładają potrąconej zaliczki na podatek dla klientów. Klienci nie będą obciążani podatkiem w momencie sprzedaży i są zobowiązani przez wydawcę, aby uregulować wszystkie stosowne podatki.
 
-Aby uzyskać więcej informacji na temat cen specyficznych dla kraju (na przykład w celu przesunięcia nadchodzącego opodatkowania) [, zobacz plany i cenniki dla ofert komercyjnych w portalu Marketplace](https://docs.microsoft.com/azure/marketplace/plans-pricing#custom-prices).
+Aby uzyskać więcej informacji na temat cen specyficznych dla kraju (na przykład w celu przesunięcia nadchodzącego opodatkowania) [, zobacz plany i cenniki dla ofert komercyjnych w portalu Marketplace](/azure/marketplace/plans-pricing#custom-prices).
 
 :::image type="content" source="images/tax-policies/payout-scenario-c.png" alt-text="Pokazuje przepływ pracy dotyczący scenariusza procesu wypłaty C.":::
 
@@ -77,5 +77,5 @@ Aby uzyskać więcej informacji na temat cen specyficznych dla kraju (na przykł
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Często zadawane pytania dotyczące programu Publisher](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide)
-- [Instrukcje dotyczące tworzenia profilów płatności i podatków](https://docs.microsoft.com/partner-center/set-up-your-payout-account?context=/azure/marketplace/context/context#create-a-payment-profile)
+- [Często zadawane pytania dotyczące programu Publisher](/azure/marketplace/marketplace-faq-publisher-guide)
+- [Instrukcje dotyczące tworzenia profilów płatności i podatków](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)

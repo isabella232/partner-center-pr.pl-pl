@@ -1,7 +1,7 @@
 ---
 title: Utwórz konto MPN w centrum partnerskim
 ms.topic: article
-ms.date: 03/15/2021
+ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Dowiedz się, jak członkowie Microsoft Partner Network mogą utworzyć konto Centrum partnerskiego, aby zarządzać swoimi korzyściami i kompetencjami sieci.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 16d19ce353c081359ab59a34bf0a21392fc7d484
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570213"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712923"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Utwórz konto MPN w centrum partnerskim, aby zarządzać korzyściami i kompetencjami sieci
 
@@ -40,14 +40,14 @@ Gdy wszystko będzie gotowe do utworzenia konta w centrum partnerskim, musisz mi
 
 ## <a name="get-started"></a>Rozpoczęcie pracy
 
-1. Na stronie [**wprowadzenie**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) Zacznij od służbowego adresu e-mail dostarczonego przez Twoją firmę you@yourcompanyname.com .
+1. Na stronie [**wprowadzenie**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) Zacznij od służbowego adresu e-mail dostarczonego przez Twoją firmę, na przykład you@yourcompanyname.com .
 
  
-    a.  Adres e-mail musi być prawidłowy i dostępny dla Ciebie, ponieważ wyślemy kod weryfikacyjny, aby kontynuować.
+    a.  Adres e-mail musi być prawidłowy i dostępny dla Ciebie, ponieważ wyślemy do niej kod weryfikacyjny, aby kontynuować.
 
-    b.  Adres e-mail nie powinien zawierać słów takich jak "info", "admin", "" email@. . " Lub " marketing@.. ." ponieważ te nie są obsługiwane.
+    b.  Adres e-mail nie powinien zawierać słów takich jak "info", "admin", "" email@ . " Lub " marketing@.. ."; te formaty adresów nie są obsługiwane.
 
-    c.  Aby zakupić mapowanie i zarządzać kompetencjami, musisz uaktualnić to konto, weryfikując domenę i stać się administratorem. 
+    c.  Aby zakupić mapy lub zarządzać kompetencjami, musisz uaktualnić to konto, [weryfikując domenę](become-global-admin.md) i stać się administratorem. 
 
 2. Możesz zalogować się za pomocą konta służbowego pakietu Office 365, na przykład you@contoso.onmicrosoft.com .
 
@@ -58,8 +58,11 @@ Gdy wszystko będzie gotowe do utworzenia konta w centrum partnerskim, musisz mi
 
 Możesz wyszukać profil firmy lub ręcznie wprowadzić informacje firmowe. Jeśli Twoja firma jest zarejestrowana w usłudze [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), użyj identyfikatora Duns, aby wyszukać informacje o firmie. Jeśli chcesz samodzielnie podać szczegóły swojej firmy, wybierz pozycję **Ręczne**.
 
-Po udostępnieniu informacji o firmie wprowadź podstawowe informacje kontaktowe, a następnie wybierz pozycję Zarejestruj się **teraz**.
-Główną osobą kontaktową powinna być osoba w firmie, która będzie mogła skontaktować się z Twoją aplikacją (może to być ty lub inna osoba w firmie).
+Jeśli firma znajduje się w **Armenii**, **Węgrzech**, **Kirgistanie**, **Mołdawii**, **Uzbekistan** lub **Rosja**, i ręcznie wprowadzisz swój adres, sprawdzimy swój adres. Jeśli wprowadzona wartość różni się od zweryfikowanej, sugerujemy użycie zweryfikowanego adresu. Gwarantuje to, że elementy adresu są znormalizowane zgodnie z definicją podaną przez urząd pocztowy kraju, prawidłowo sformatowane i możliwe do naliczania.  
+
+Po podaniu informacji o firmie wprowadź podstawowe informacje kontaktowe. Główną osobą kontaktową powinna być osoba w firmie, która będzie mogła skontaktować się z Twoją aplikacją (kontakt może być użytkownikiem lub inną osobą w firmie).
+
+4. Wybierz pozycję **zarejestruj się teraz**.
 
 >[!IMPORTANT]
 >Aby zapewnić bezpieczeństwo i prywatność firmy, należy wysłać wiadomość e-mail do głównej osoby kontaktowej w celu zweryfikowania adresu e-mail i upewnić się, że adres e-mail należy do firmy. Po zweryfikowaniu adresu e-mail przez kontakt podstawowy będziemy kontynuować przegląd dostarczonych informacji. Weryfikacja zazwyczaj trwa 3-5 dni roboczych. 
@@ -75,14 +78,14 @@ Możesz także przeglądać inne ważne informacje, takie jak identyfikatory MPN
 
 ## <a name="next-steps"></a>Następne kroki
 
--   [Dodawanie użytkowników konta i przypisywanie do nich uprawnień](create-user-accounts-and-set-permissions.md)
+-  [Dodawanie użytkowników konta i przypisywanie do nich uprawnień](create-user-accounts-and-set-permissions.md)
 
--   [Kupowanie lub odnawianie subskrypcji programu Microsoft Action Pack](mpn-get-action-pack.md)
+-  [Kupowanie lub odnawianie subskrypcji programu Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [Zarządzanie korzyściami z członkostwa](manage-your-partner-network-benefits.md)
+-  [Zarządzanie korzyściami z członkostwa](manage-your-partner-network-benefits.md)
 
--   [Dowiedz się więcej o wymaganiach dotyczących kompetencji dla członkostwa Gold i Silver](https://partner.microsoft.com/membership/competencies)
+-  [Dowiedz się więcej o wymaganiach dotyczących kompetencji dla członkostwa Gold i Silver](https://partner.microsoft.com/membership/competencies)
 
--   [Tworzenie profilu firmy w celu uzyskiwania danych potencjalnych klientów od firmy Microsoft](create-a-marketing-profile.md)
+-  [Tworzenie profilu firmy w celu uzyskiwania danych potencjalnych klientów od firmy Microsoft](create-a-marketing-profile.md)
 
--   [Uzyskaj i Zarządzaj potencjalnymi klientami sprzedaży firmy Microsoft](manage-leads.md)
+-  [Uzyskaj i Zarządzaj potencjalnymi klientami sprzedaży firmy Microsoft](manage-leads.md)

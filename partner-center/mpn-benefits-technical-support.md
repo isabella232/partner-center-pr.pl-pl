@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 85287746381ee0ac18bc570650cc310df7ef6219
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102187366"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712906"
 ---
 # <a name="technical-support-benefits"></a>Korzyści z pomocy technicznej
 
@@ -58,12 +58,10 @@ Pomoc techniczna zapewnia Rozwiązywanie problemów z określonym problemem, kom
 W ramach członkostwa w Microsoft Partner Network partnerzy mogą skorzystać z następującej pomocy technicznej
 
 
-|                           Pomoc techniczna                          |  Action Pack |                                      Kompetencje Silver                                      |                                        Kwalifikacja złota                                        |   |
-|:--------------------------------------------------------------------:|:------------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-:|
-| Pomoc techniczna firmy Microsoft<br>W przypadku ostatnich lokalnych <br>tylko produkty | 10 zdarzeń | 15 zdarzeń                                                                                | 20 zdarzeń                                                                                  |   |
-| Obsługa podpisów w chmurze<br>Tylko w przypadku produktów w chmurze                   |              | Kompetencje w chmurze:<br>Nieograniczona liczba<br>         <br>Inne kompetencje:<br>5 zdarzeń         | Kompetencje w chmurze:<br>Nieograniczona liczba<br>          <br>Inne kompetencje:<br>10 zdarzeń   
-
-
+| Pomoc techniczna |  Action Pack | Kompetencje Silver | Kwalifikacja złota |
+|:---:|:---:|:---:|:---:|
+| Pomoc techniczna firmy Microsoft<br>W przypadku ostatnich lokalnych <br>tylko produkty | 10 zdarzeń | 15 zdarzeń  | 20 zdarzeń |
+| Obsługa podpisów w chmurze<br>Tylko w przypadku produktów w chmurze |  | Kompetencje w chmurze:<br>Nieograniczona liczba<br><br>Inne kompetencje:<br>5 zdarzeń  | Kompetencje w chmurze:<br>Nieograniczona liczba<br>          <br>Inne kompetencje:<br>10 zdarzeń  |
 
 * Kompetencje w chmurze obejmują: kompetencje dotyczące zabezpieczeń, Business Applications w chmurze, platforma w chmurze, wydajność chmury, zarządzanie mobilnością w przedsiębiorstwie, małe i Midmarket rozwiązania w chmurze.
 

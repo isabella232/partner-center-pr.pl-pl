@@ -1,27 +1,23 @@
 ---
 title: Zachęty do kwalifikowania się do programu
-description: Upewnij się, że Twój program zachęty jest uprawniony, aby móc otrzymywać opłaty. Ten proces obejmuje sprawdzanie uprawnień w przewodniku programu.
+description: Upewnij się, że spełniono wymagania kwalifikacyjne dla programu zachęt. Ten proces obejmuje sprawdzanie uprawnień w przewodniku programu.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 89d523d637a5a7641e9a9a8be255a1525ca66752
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.date: 03/16/2021
+ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530549"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712169"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Ustalanie uprawnień programu zachęty
 
-**Dotyczy** :
-
-- Centrum partnerskie
-
-**Odpowiednie role** :
+**Odpowiednie role**:
 
 - Administrator globalny
 - Administrator zachęt
@@ -36,11 +32,15 @@ Wymagania dotyczące uprawnień do programu można znaleźć w przewodniku po pr
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 
-2. W obszarze **Zachęty** na lewym panelu nawigacyjnym wybierz pozycję **Przegląd** . Zostanie otwarta strona **Przegląd programu** .
+2. W obszarze **Zachęty** na lewym panelu nawigacyjnym wybierz pozycję **Przegląd**. Zostanie otwarta strona **Przegląd programu**.
 
 3. Wybierz odpowiedni program.
 
-4. W polu **Szczegóły programu** wybierz pozycję **Przewodnik po programie** .
+4. W polu **stan** wybierz pozycję **wymagania dotyczące uprawnień**.
+
+   :::image type="content" source="images/incentives/eligibility.png" alt-text="Zrzut ekranu jest przykładem wymagań związanych z zachętami.":::
+
+5. Musisz ukończyć wszystkie obszary, które nie są zaznaczone, aby móc spełnić kryteria. Każdy program zachęty ma swój własny zestaw wymagań.
 
 ## <a name="next-steps"></a>Następne kroki
 

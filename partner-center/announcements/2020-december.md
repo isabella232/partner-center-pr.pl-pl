@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: a74c08fcd64b1de99226353cca1f16d5c79b6bcd
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705049"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712549"
 ---
 # <a name="december-2020-announcements"></a>Ogłoszenia z grudnia 2020 r.
 
@@ -274,6 +274,9 @@ Wszyscy partnerzy CSP
 
 ### <a name="details"></a>Szczegóły
 
+>[!NOTE]
+>Ze względu na opinie partnerów przywraca się z możliwością realizacji Centrum partnerskiego, aby uzyskać klucze oprogramowania i licencji na potrzeby zamówień bezterminowych i subskrypcyjnych na serwerze. Przed usunięciem z 19 stycznia 2021, zostanie przywrócony do poprzedniego stanu. Aby uzyskać więcej informacji, zobacz [powiadomienie 2021 marca](./2021-march.md#4).
+
 Będziemy przypominać, że od **19 stycznia 2021** wszyscy partnerzy zarejestrowani w programie CSP będą mogli sprzedawać komercyjne licencje na oprogramowanie bezterminowe dla wdrożenia lokalnego za pośrednictwem dostawcy usług kryptograficznych. Zapewni to klientom elastyczność licencjonowania potrzebną w ramach ich transformacji cyfrowej.
 
 Zostaną również wykonane następujące czynności:
@@ -301,6 +304,12 @@ Przejrzyj następujące zasoby i udostępnij je odpowiednim kontaktom w organiza
 ### <a name="questions"></a>Masz pytania?
 
 Aby dowiedzieć się więcej na temat tych ofert, należy zapoznać się z odpowiednimi społecznościami Yammer.
+
+### <a name="change-log"></a>Dziennik zmian:
+
+- 17 grudnia 2020: Oryginalna publikacja 
+
+- 5 marca 2021: w górnej części zawarto uwagi dotyczące przywracania oprogramowania Centrum partnerskiego i możliwości realizacji klucza licencji.
 
 ______________
 

@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 8b69b430344c64f3d74e0b5058d561358bdd2b45
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.openlocfilehash: 39a1370ad4e5da9120c74b46dfb0c20cd93df4e3
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619396"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712193"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Operacje zbiorcze dla wspólnych możliwości sprzedaży przy użyciu plików z wartościami rozdzielanymi przecinkami (CSV)
 
@@ -89,7 +89,7 @@ IDENTYFIKATOR PROGRAMU CRM|Nie|Identyfikator tego konkretnego odwołania w syste
 Identyfikator kampanii marketingowej|Nie|To pole wskazuje kampanię marketingową, która spowodowała to konkretne odwołanie. Zwykle używane do obliczania zwrotu z inwestycji|BingSummer2020
 Uwagi|Nie|Szczegółowe informacje wskazujące aktualizacje powiązane z odwołaniem|To jest przykładowa Uwaga
 Pomoc firmy Microsoft jest wymagana?|Tak|Wskazuje to, czy chcesz, aby firma Microsoft mogła pomóc Ci w tworzeniu tego żądania współsprzedażowego|Tak
-Którą konkretną pomoc firma Microsoft?|Zależy od|Jednym z sześciu różnych sposobów może Ci pomóc firma Microsoft. Ma to zastosowanie tylko w przypadku wybrania opcji nie dla pytania "pomoc Microsoft wymagana? " <br/> **Wprowadź liczbę na podstawie poniższych opcji** <br/><br/> **1**— propozycja wartości specyficznej dla obciążenia  <br/> **2**— architektura techniczna klienta  <br/> **3**— Weryfikacja koncepcji/demo  <br/> **4**— oferty i Licencjonowanie  <br/> **5**— powodzenie po sprzedaży klienta  <br/> **6**— ogólne lub inne|1|
+Którą konkretną pomoc firma Microsoft?|Zależy od|Jednym z sześciu różnych sposobów może Ci pomóc firma Microsoft. Ma to zastosowanie tylko w przypadku wybrania opcji tak dla pytania "Pomoc firmy Microsoft"? " <br/> **Wprowadź liczbę na podstawie poniższych opcji** <br/><br/> **1**— propozycja wartości specyficznej dla obciążenia  <br/> **2**— architektura techniczna klienta  <br/> **3**— Weryfikacja koncepcji/demo  <br/> **4**— oferty i Licencjonowanie  <br/> **5**— powodzenie po sprzedaży klienta  <br/> **6**— ogólne lub inne|1|
 Udostępnianie z zespołem ds. sprzedaży firmy Microsoft|Tak|Wskazuje to, czy chcesz udostępnić szczegóły dotyczące transakcji z zespołem sprzedaży firmy Microsoft, czy nie. Ma to zastosowanie tylko w przypadku wybrania opcji nie dla pytania "pomoc Microsoft wymagana? "|Tak
 Uwagi do firmy Microsoft|Nie|Dowolnych uwag do firmy Microsoft, jeśli potrzebujesz pomocy od firmy Microsoft|Potrzebna pomoc dotycząca weryfikacji koncepcji dla klientów firmy Contoso
 Wyrażanie zgody na udostępnianie klientowi/partnerowi|Tak|Wyraża zgodę na udostępnienie szczegółowych informacji kontaktowych klienta i pracowników firmy, którzy pracują nad pracą. **W przypadku wybrania tej kolumny nie można tworzyć ani aktualizować transakcji.** |Tak

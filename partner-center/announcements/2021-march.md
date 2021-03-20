@@ -8,19 +8,154 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/15/2021
-ms.openlocfilehash: 435d14ec89a9582f16f77f5a63af90ceac9e2e4c
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.date: 03/18/2021
+ms.openlocfilehash: eb6f57ed9a1b3031aeaaff51260e718ce3420ae3
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570196"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712311"
 ---
 # <a name="march-2021-announcements"></a>2021 komunikatów o marcu
 
 Ta strona zawiera anonse dla programu Microsoft Partner Center dla marca 2021.
 
 ________________
+## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="12"></a>Oferta komercyjnego portalu CSP i zachęty dla FY21 dostawcy CSP dla kwalifikujących się ofert
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-03-18
+- Możliwości
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Dostawcy pośrednich i bezpośrednii partnerzy rozliczeń w programie dostawcy rozwiązań w chmurze 
+
+### <a name="details"></a>Szczegóły
+
+Dostawcy usług pośrednich i bezpośrednich partnerów rozliczeniowych w programie dostawcy rozwiązań w chmurze mogą sprzedawać oferty innych firm i uzyskać zachętę rabatu dla każdej uprawniającej oferty innej firmy w centrum partnerskim lub w Azure Portal. Zachęta będzie w formie rabatu dla kwalifikujących się sprzedaży ofert i będzie **dostępna do 30 czerwca 2021**.  
+
+Kontynuuj naukę na temat tego komercyjnej oferty dotyczącej portalu CSP i skontaktuj się z klientami w celu zidentyfikowania odpowiednich ofert, aby umożliwić ich ciągłe sukcesy i transformację cyfrową.
+
+Firma Microsoft jest partnerem niezależnym dostawcom oprogramowania (ISV) w celu udostępnienia najnowszych rozwiązań IaaS i SaaS na rynku dla klientów korzystających z usługi. Wydawcy niezależnego dostawcy oprogramowania mają możliwość włączenia sprzedaży ich ofert za pośrednictwem kanału partnerskiego firmy Microsoft. Nasze oferty kwalifikujące się do zachęty dzielą się na dwie kategorie:
+
+- Wybierz pozycję SaaS i IaaS oferty innych firm, korzystając z usługi Azure IP współsprzedawana zachęcani status. 
+
+- SaaS aplikacje zintegrowane z zespołami lub co najmniej dwiema Microsoft 365 aplikacjami produkcyjnymi, takimi jak PowerPoint, Word, Excel, Outlook lub SharePoint.
+
+### <a name="next-steps-and-resources"></a>Następne kroki i zasoby
+
+- Dowiedz się więcej na temat [zachęt partnerskich](https://partner.microsoft.com/membership/partner-incentives) do sprzedaży kwalifikujących się aplikacji z witryny Marketplace. Nowe oferty są dodawane co miesiąc.  
+- [Zasoby zachęty dla partnerów rozwiązań w chmurze Direct Bill](https://partner.microsoft.com/asset/collection/cloud-solution-provider-direct-partner-incentive-resources#/)
+- [Zasoby zachęty dla dostawcy rozwiązań w chmurze](https://partner.microsoft.com/asset/collection/cloud-solution-provider-indirect-provider-incentive-resources#/)
+- Przejrzyj tę [prezentację](https://partner.microsoft.com/resources/detail/partner-center-cm-for-csp-overview-pdf) , aby dowiedzieć się więcej o sprzedawaniu komercyjnych aplikacji Marketplace. Zapoznaj się z dodatkowymi zasobami [tutaj](https://partner.microsoft.com/resources/collection/partner-center-cm-for-csp-collection#/). 
+- Poznaj komercyjny katalog portalu Marketplace w [centrum partnerskim](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-discover) lub [Azure Portal](https://ms.portal.azure.com/#home)
+- Używanie [interfejsów API](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market) do integrowania aplikacji z firmową firmą
+- Skontaktuj się z firmą ISV, z której interesują Cię interesy
+- Dostawcy niezależni muszą zintegrować się za pomocą interfejsów API i odsprzedawcy, w których są sprzedawane aplikacje
+
+### <a name="questions"></a>Masz pytania?  
+
+Zapoznaj się z [tym artykułem](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-overview) , aby zapoznać się z omówieniem komercyjnej witryny Marketplace w centrum partnerskim.
+
+Jeśli potrzebujesz dodatkowej pomocy, możesz utworzyć żądanie pomocy technicznej w centrum partnerskim. Dowiedz się więcej o [https://aka.ms/IncentivesSupport](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=1) .
+
+________________
+## <a name="power-bi-premium-offer-naming-and-prerequisite-update"></a><a name="11"></a>Power BI Premium nazw ofert i aktualizacji wymagań wstępnych
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-03-18
+- Możliwości
+
+### <a name="summary"></a>Podsumowanie
+
+Cennik końcowy 1 kwietnia 2021 zostanie zaktualizowany w celu dodania przejrzystości do nazw i/lub informacji o wymaganiach wstępnych dla ofert Power BI Premium na użytkownika.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Bezpośredni i pośredni partner dostawcy rozwiązań w chmurze (CSP)
+
+### <a name="details"></a>Szczegóły
+
+Cennik końcowy 1 kwietnia 2021 zostanie zaktualizowany w celu dodania przejrzystości do nazw i/lub informacji o wymaganiach wstępnych dla ofert Power BI Premium na użytkownika.
+
+Do momentu zaktualizowania cennika końcowego należy skorzystać z informacji w tej sekcji, aby upewnić się, że zamówiony produkt jest uporządkowany.
+
+Poniższe szczegóły przedstawiają zależną jednostkę SKU i szczegółowe informacje o wymaganiach wstępnych.
+
+| Nazwa wyświetlana oferty na 1 marca — wersja zapoznawcza |  Zaktualizowana nazwa wyświetlana oferty 1 kwietnia, końcowa lista cen| Identyfikator oferty |
+| ------ | ----------- | ----------- |
+| Power BI Premium na Add-On użytkownika (cennik dla pracowników niedochodowych)  |  Power BI Premium na Add-On użytkownika **(Office)** (cennik dla pracowników niedochodowych)   | 31c03289-47ab-4ab0-8df1-03742c127ac6   |
+
+Aby kupić tę ofertę, klienci muszą dysponować jednym z następujących wymagań wstępnych:
+
+| Nazwa wyświetlana oferty | Identyfikator oferty |
+| ------ | ----------- |
+| Microsoft 365 E5 (cennik dla pracowników niedochodowych)  |  31bedf01-9e57-4ece-a53a-d3656a563931   |
+|   Microsoft 365 E5 bez wideokonferencji audio (cennik dla pracowników niedochodowych)|  b456810a-c414-4e07-98fc-ef74e8175a09|
+|   Office 365 E5 (cennik dla pracowników niedochodowych)| ce139fe5-8bd5-47ed-a5be-07c286f8b9e    |
+|   Office 365 E5 (cennik dla pracowników niedochodowych) okres próbny|  2f192efe-608a-4c9c-9d19-2b0b70b0962e|
+|   Pakiet Office 365 E5 bez konferencji audio (cennik dla pracowników niedochodowych)|  c3897426-9f49-4eaf-9b4d-7d9a1c72aef7|
+
+Następująca oferta Power BI Premium ma wymaganie wstępne wymagane do zakupu:
+
+| Nazwa wyświetlana oferty | Identyfikator oferty |
+| ------ | ----------- |
+|   Power BI Premium na Add-On użytkownika (cennik dla pracowników niedochodowych)|  ef0b895b-681b-4026-a5b1-dda182a57d40 |
+
+Do zakupu tej oferty wymagane są następujące wymagania wstępne:
+
+| Nazwa wyświetlana oferty | Identyfikator oferty |
+| ------ |----------|
+| Power BI Pro (cennik dla pracowników niedochodowych)  |   cabdfc93-5786-4224-bfd3-35d58f833b35 |
+
+### <a name="next-steps"></a>Następne kroki
+
+Zapoznaj się z zasobami dotyczącymi tego tematu i Udostępnij te informacje odpowiednim udziałowcom w organizacji.  
+
+### <a name="questions"></a>Masz pytania?
+
+Aby uzyskać odpowiedzi na pytania dotyczące tych ofert, należy zapoznać się z odpowiednimi społecznościami Yammer. 
+
+## <a name="march-price-updates-for-microsoft-365-f3"></a><a name="10"></a> Aktualizacje cen w marcu dla Microsoft 365 F3
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-03-16
+- Oferty/rynki
+
+### <a name="summary"></a>Podsumowanie
+
+Skorygowano nieprawidłowe ceny 2021 marca dla Microsoft 365 F3 funta (GBP) i euro (EUR).
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Partnerzy kupują Microsoft 365 F3 w programie GBP lub euro od 1 marca do 17 marca 2021 za pomocą programu Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Szczegóły
+
+Firma Microsoft rozwiązała nieprawidłowe ceny dla Microsoft 365 F3. Niewłaściwe ceny dotyczyły GBP i EUR, a tylko w przypadku ofert zakupionych od 1 marca do 17 marca 2021. Poniżej wymieniono uwzględnione oferty i waluty. 
+
+| Nazwa oferty | Waluta | Identyfikator oferty | Identyfikator materiału |
+| ------ |----------- |----------- |----------- |
+| Microsoft 365 F3 (Charity) | GBP | 57b722c2-c435-4bfb-9bc8-80509213a13a | AAD — 11626 |
+| Microsoft 365 F3 (komercyjne) | EUR| 3451a3b0-8cda-44a7-bad7-c30be81c4aaa | AAA-89898 |
+ 
+Licencja na wersję zapoznawczą marzec i kwiecień — Cennik podstawowy zostały zaktualizowane 16 marca, 17:00 Pacyfik (czas standardowy).
+
+### <a name="next-steps"></a>Następne kroki
+
+- Partnerzy powinni pobrać na bieżąco bieżące cenniki oparte na licencjach, w marcu i w kwietniu, z uwzględnieniem tych korekt cen.  
+- Firma Microsoft będzie kontaktować się z partnerami, których to dotyczy, w najbliższych tygodniach za pośrednictwem poczty e-mail, aby poinformować ich o następnych krokach związanych z korygowaniem uwzględnionych transakcji.
+
+### <a name="questions"></a>Masz pytania?
+
+Aby uzyskać więcej pytań, Sprawdź odpowiednie społeczności Yammera programu CSP.
+
+________________
+
 ## <a name="update-a-legal-company-name-through-partner-center"></a><a name="9"></a> Zaktualizuj nazwę firmy prawnej za pomocą Centrum partnerskiego
 
 ### <a name="categories"></a>Kategorie
@@ -38,22 +173,12 @@ Partnerzy MPN i pośrednicy odsprzedawca dostawcy CSP (nie dotyczy bezpośrednic
 
 ### <a name="details"></a>Szczegóły
 
-Od marca 2021 partnerzy MPN i dostawcy usług kryptograficznych pośrednich odsprzedawca mogą zaktualizować swoją służbową nazwę firmy za pomocą Centrum partnerskiego w sposób zgodny z własnymi sposobami. Dzięki tej nowej funkcji partnerzy nie będą już musieli przesyłać biletu pomocy technicznej Centrum partnerskiego w celu zaktualizowania nazwy firmy. Pozwoli to zaoszczędzić znaczną ilość czasu partnerom podczas wykonywania tych działań.
+Od marca 2021 partnerzy MPN i dostawcy usług kryptograficznych pośrednich odsprzedawca mogą zaktualizować swoją służbową nazwę firmy za pomocą Centrum partnerskiego w sposób zgodny z własnymi sposobami. Dzięki tej nowej funkcji partnerzy nie będą już musieli przesyłać biletu pomocy technicznej Centrum partnerskiego w celu zaktualizowania nazwy firmy. Pozwoli to zaoszczędzić znaczną ilość czasu partnerom podczas wykonywania tych działań. 
 
-Wykonaj następujące kroki, aby zaktualizować nazwę firmy prawnej:
-
-1. Administrator globalny lub administratora konta musi zalogować się do Centrum partnerskiego i przejść do [ustawień konta](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn).
-
-2. Zaktualizuj nazwę firmy prawnej.
-
-3. Po zapisaniu zaktualizowanej nazwy firma Microsoft sprawdzi podane informacje. Weryfikacja może być w stanie oczekiwania przez pięć do siedmiu dni.
-
-4. Po zakończeniu weryfikacji zaktualizowana nazwa prawna zostanie skojarzona z dzierżawcą partnera.
-
-5. Jeśli stan weryfikacji zmieni się na odrzucony, zapoznaj się z tematem [Weryfikacja informacji o koncie](https://docs.microsoft.com/partner-center/verification-responses) w celu rozwiązania problemu.
+Aby dowiedzieć się więcej, zobacz temat [Aktualizowanie służbowego profilu biznesowego](../update-your-partner-profile.md#update-your-legal-business-profile).
 
 >[!NOTE]
->Upewnij się, że nazwa firmy w profilu biznesowym firmy nie zawiera błędów pisowni i skrótów, i dokładnie pasuje do formalnych firmowych rekordów rejestracyjnych firmy. Aby uzyskać więcej informacji na temat aktualizowania profilu organizacji, zapoznaj się z tematem [Weryfikowanie profilu organizacji](https://docs.microsoft.com/partner-center/update-your-partner-profile#update-your-legal-business-profile).
+>Upewnij się, że nazwa firmy w profilu biznesowym firmy nie zawiera błędów pisowni i skrótów, i dokładnie pasuje do formalnych firmowych rekordów rejestracyjnych firmy. Aby uzyskać więcej informacji na temat aktualizowania profilu organizacji, zapoznaj się z tematem [Weryfikowanie profilu organizacji](../update-your-partner-profile.md#update-your-legal-business-profile).
 
 ### <a name="next-steps"></a>Następne kroki
 
@@ -61,7 +186,7 @@ Udostępnij te informacje w organizacji, tak aby odpowiedni zespół mógł prze
 
 ### <a name="questions"></a>Masz pytania?
 
-Skontaktuj się z [pomocą techniczną](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) , aby uzyskać odpowiedzi na pytania, zapytania lub więcej informacji.
+Aby uzyskać więcej pytań, Sprawdź odpowiednie społeczności Yammera programu CSP.
 
 ________________
 ## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a> Aktualizuj do ewolucji programu dla dostawcy rozwiązań w chmurze (CSP) i otwarte zmiany programu licencjonowania
@@ -87,7 +212,7 @@ W dalszej części tej transformacji cyfrowej ogłaszamy następujące zmiany:
 
 - 1 lipca 2021: żadne nowe jednostki SKU, produkty lub promocje nie zostaną dodane do listy cen programu licencjonowania Open.
 
-- 7 lipca 2021: dwie oferty komercyjne, uzyskaj oryginalny system Windows i Visual Studio Professional i oferty sektorów publicznych (rządowych, edukacyjnych i niedochodowych — zobacz [anons](https://docs.microsoft.com/partner-center/announcements/2020-december#9)) zostaną dodane do cennika programu CSP.  Listę cen można znaleźć w sekcji oprogramowanie na stronie [sprzedaj > ceny & oferty](https://partnercenter.microsoft.com/pcv/sales) w centrum partnerskim i będzie ona ponownie publikowana w tym dniu.
+- 7 lipca 2021: dwie oferty komercyjne, uzyskaj oryginalny system Windows i Visual Studio Professional i oferty sektorów publicznych (rządowych, edukacyjnych i niedochodowych — zobacz [anons](./2020-december.md#9)) zostaną dodane do cennika programu CSP.  Listę cen można znaleźć w sekcji oprogramowanie na stronie [sprzedaj > ceny & oferty](https://partnercenter.microsoft.com/pcv/sales) w centrum partnerskim i będzie ona ponownie publikowana w tym dniu.
 
 Aby uzyskać szczegółowe informacje dotyczące ewolucji programu przez program CSP i otwartych zmian programu licencjonowania, zobacz **następne kroki** poniżej.
 
@@ -121,13 +246,13 @@ Partnerzy w transakcyjnym użyciu dostawcy rozwiązań w chmurze
 
 Oferty wersji próbnej nie powinny znajdować się na liście cen. Zostaną one usunięte z cennika 1 maja 2021.
 
-Oryginalne ogłoszenie jest [tutaj](https://docs.microsoft.com/partner-center/announcements/2021-february#4).
+Oryginalne ogłoszenie jest [tutaj](./2021-february.md#4).
 
 ### <a name="additional-resources"></a>Dodatkowe zasoby
 
 - [Microsoft 365 E5 zabezpieczenia i zgodność](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?activetab=m365-enterprise:primaryr5)
 
-- [Kompilowanie ocen i zarządzanie nimi w programie Microsoft zgodność Manager — zgodność Microsoft 365 | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments?view=o365-worldwide)
+- [Kompiluj oceny i zarządzaj nimi w programie Microsoft zgodność Manager — zgodność Microsoft 365](/microsoft-365/compliance/compliance-manager-assessments)
 
 ### <a name="next-steps"></a>Następne kroki
 
@@ -163,7 +288,7 @@ Przejście do komercyjnej witryny Marketplace sprawia, że Centrum partnerskie j
 
 ### <a name="next-steps"></a>Następne kroki
 
-- Jeśli nie przeniesiono jeszcze rozwiązań, postępuj zgodnie z instrukcjami szczegółowymi w [przewodniku](https://docs.microsoft.com/azure/marketplace/co-sell-solution-migration) dotyczącym przejścia lub zapoznaj się z [samouczkiem wideo krok po kroku](https://partner.microsoft.com/asset/detail/ocp-gtm-to-the-microsoft-commercial-marketplace-mp4) , aby ukończyć wszystkie działania migracji i rozpocząć publikowanie rozwiązań w komercyjnej witrynie Marketplace.
+- Jeśli nie przeniesiono jeszcze rozwiązań, postępuj zgodnie z instrukcjami szczegółowymi w [przewodniku](/azure/marketplace/co-sell-solution-migration) dotyczącym przejścia lub zapoznaj się z [samouczkiem wideo krok po kroku](https://partner.microsoft.com/asset/detail/ocp-gtm-to-the-microsoft-commercial-marketplace-mp4) , aby ukończyć wszystkie działania migracji i rozpocząć publikowanie rozwiązań w komercyjnej witrynie Marketplace.
 
 - W przypadku pytań dotyczących ograniczonej funkcjonalności w OCP GTM zapoznaj się z [wymaganiami dotyczącymi współsprzedaży w celu opublikowania często zadawanych pytań dotyczących komercyjnego portalu Microsoft Marketplace](https://partner.microsoft.com/resources/detail/co-sell-requirements-publish-commercial-marketplace-faq-pdf). (Zobacz sekcję "OCP GTM Limited Capabilities od 29 marca 2021.")
 
@@ -217,7 +342,7 @@ Należy pamiętać, że klucze licencji oprogramowania i linki do pobrania są c
 
 Zapoznaj się z poniższymi zasobami, aby uzyskać instrukcje dotyczące użycia i ważne wskazówki dotyczące dystrybucji kluczy oprogramowania:
 
-- [Sprzedawanie oprogramowania lokalnego za pomocą programu CSP](https://docs.microsoft.com/partner-center/csp-on-premise-software)
+- [Sprzedawanie oprogramowania lokalnego za pomocą programu CSP](../csp-on-premise-software.md)
 - [Centrum partnerskie — nowy Przewodnik operacji handlowych](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) (zobacz **wskazówki dotyczące dystrybucji kluczy oprogramowania** ).
 
 ### <a name="questions"></a>Masz pytania?
@@ -252,14 +377,14 @@ W ramach naszego wspólnego zobowiązania do wzrostu, **współsprzedaży z firm
 
 Niedawno dodano również nowe funkcje w centrum partnerskim, które ułatwiają przechodzenie:
 
-- [Operacje zbiorcze dla możliwości wspólnej sprzedaży](https://docs.microsoft.com/partner-center/bulk-operations)
-- [Funkcja migracji transakcji](https://docs.microsoft.com/partner-center/psc-to-pc) (zobacz sekcję **migracja transakcji PSC** ).
+- [Operacje zbiorcze dla możliwości wspólnej sprzedaży](../bulk-operations.md)
+- [Funkcja migracji transakcji](../psc-to-pc.md) (zobacz sekcję **migracja transakcji PSC** ).
 
 Korzystając z funkcji współsprzedaży w centrum partnerskim, zespoły sprzedaży będą miały więcej czasu skupić się na Nurturing potencjalnych klientów i szansach sprzedaży, zamknięciu transakcji oraz tworzeniu trwałych relacji z klientami.
 
 ### <a name="next-steps"></a>Następne kroki
 
-Skorzystaj z [przewodnika przejścia](https://docs.microsoft.com/partner-center/psc-to-pc) Centrum partnerskiego, aby przeprowadzić Cię przez procedurę migrowania Twoich transakcji z kontrolera PSC do Centrum partnerskiego.
+Skorzystaj z [przewodnika przejścia](../psc-to-pc.md) Centrum partnerskiego, aby przeprowadzić Cię przez procedurę migrowania Twoich transakcji z kontrolera PSC do Centrum partnerskiego.
 
 ### <a name="questions"></a>Masz pytania?
 
@@ -292,7 +417,7 @@ Wszyscy partnerzy przeprowadzają Operacje transakcyjne przez program Cloud Solu
 
 Firma Microsoft wprowadzi pierwsze oferty Power BI Premium dla poszczególnych użytkowników. Power BI Premium jest obecnie sprzedawany tylko w konstrukcji pojemności. Power BI Premium na użytkownika zapewnia dostęp do funkcji analizy biznesowej (BI) przedsiębiorstwa i analizy. Elastyczna Licencjonowanie indywidualnych miejsc jest przeznaczony dla małych i średnich firm.
 
-Przejrzyj [szczegóły wydania Power BI](https://docs.microsoft.com/power-platform-release-plan/2020wave2/power-bi/planned-features) , aby dowiedzieć się więcej o tej ofercie.
+Przejrzyj [szczegóły wydania Power BI](/power-platform-release-plan/2020wave2/power-bi/planned-features) , aby dowiedzieć się więcej o tej ofercie.
 
 
 **Szczegóły oferty**

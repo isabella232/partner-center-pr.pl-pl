@@ -9,18 +9,18 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a7cc7d6335cdda0cec19a7676d2b6103592842e
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: b60b86bec70b5c33d65532599fa0421604d9ba12
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584188"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712889"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>Jeśli nie możesz się zalogować do Centrum partnerskiego i musisz zresetować hasło
 
 **Odpowiednie role**
 
-- Użytkownicy Centrum partnerskiego
+- Wszyscy partnerzy zainteresowani Centrum partnerskiego
 
 Jeśli hasło nie zostanie zapomniane i nie można się zalogować do Centrum partnerskiego, musisz skontaktować się z pomocą techniczną. Znajdź odpowiedni kontakt w [obsłudze produktów firmowych](/microsoft-365/admin/contact-support-for-business-products). 
 
