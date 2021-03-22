@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9622f02039360e8ab39f459c9a2fe082ec70c854
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 7d80651c4e5e4afb476dada388f23c118e0bdf25
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756743"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768707"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Rozwiązywanie problemów z konfiguracją konta lub MPN odnowienia
 
@@ -28,20 +28,20 @@ Poniżej przedstawiono kilka sugestii dotyczących rozwiązywania typowych probl
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Co się stanie w przypadku migrowania z Centrum członkostwa w partnerze i nie można edytować żadnych pól informacji o firmie
 
-W przypadkach, w których firma ma już obecność w centrum partnerskim (podyktuj konto CSP) — zostanie wyświetlony ekran tylko do odczytu. Na tym ekranie zostaną wyświetlone wszystkie informacje o firmie, które istnieją w centrum partnerskim.
+W przypadkach, w których firma ma już obecność w centrum partnerskim (na przykład konto CSP) — zostanie wyświetlony ekran tylko do odczytu. Na tym ekranie zostaną wyświetlone wszystkie informacje o firmie, które istnieją w centrum partnerskim.
 
 Nie można zmienić szczegółów na tym ekranie. Jest to zgodne z projektem, a nie błędem.
 
 Wybierz pozycję **Akceptuj** i **Kontynuuj** , aby kontynuować.
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Jeśli dział IT wyłączył **Rejestrowanie w centrum partnerskim**.
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Jeśli dział IT wyłączył **Rejestrowanie w centrum partnerskim**
 
 Zobaczysz ten komunikat, ponieważ użytkownicy z wirusami są wyłączeni lub że wirusowe rejestrowanie w dzierżawie usługi Azure AD jest wyłączone. Administrator globalny dla konta usługi Azure AD może włączyć wymagane funkcje, uruchamiając następujące polecenie programu PowerShell:
 
 **Set-MsolCompanySettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
-Aby uzyskać więcej informacji, zapoznaj się z artykułem [rejestracja samoobsługowa](/azure/active-directory/users-groups-roles/directory-self-service-signup)
+Aby uzyskać więcej informacji, zapoznaj się z artykułem [rejestracja samoobsługi](/azure/active-directory/users-groups-roles/directory-self-service-signup).
 
 ## <a name="you-forgot-your-password"></a>Nie pamiętasz hasła
 

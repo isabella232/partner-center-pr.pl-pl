@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 316fee641e321311c13e29a01f2e9091c69e67a6
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 9ed503fbeee6264e1127163b7cc44b7b351d3b89
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474278"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768673"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Centrum partnerskie ma dwa poziomy kont dla partnerów MPN
 
@@ -40,7 +40,7 @@ Firma ma dwa poziomy kont w centrum partnerskim.
 Twoje PGA mogą mieć dodatkowe lokalizacje biznesowe. Każda lokalizacja ma własny identyfikator MPN lub konto lokalizacji partnera (PLA). Identyfikator MPN ID jest używany w przypadku transakcyjnych firm i rejestracji w programach zachęty.
 
 - Każde konto lokalizacji partnera może mieć własny adres prawny i kontakt podstawowy. Lokalizacje mogą również współużytkować adres prawny z kontem globalnym lub innymi lokalizacjami.
-- Wyświetl listę kont lokalizacji partnera z **Settings**  ->  **lokalizacji** ustawień.
+- Wyświetl listę kont lokalizacji partnera z   ->  **lokalizacji** ustawień.
 - Wszystkie konta lokalizacji są na tym samym poziomie i w ramach konta globalnego partnera.
 - Administratorzy konta mogą dodawać lokalizacje.
 

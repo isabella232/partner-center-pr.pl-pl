@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/24/2021
-ms.openlocfilehash: b3f62bb6d6d48e9dbcdcb906041a1653de436606
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 3e3f1d576c03e437c218f7902c7770a1203eba70
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022795"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768724"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Poznaj techniczne usługi dotyczące sprzedaży i wdrażania (TPD) 
 
@@ -30,7 +30,7 @@ Obsługiwane są wszystkie rozwiązania w chmurze lub hybrydowe, a także lokaln
 
 - Partnerzy Gold i Silver otrzymują nieograniczoną pomoc dotyczącą sprzedaży. 
 
-- Członkowie sieci mogą kupować [Action Pack](https://partner.microsoft.com/membership/action-pack) , aby otrzymywać pięć godzin doradczych  
+- Członkowie sieci mogą kupować [Action Pack](https://partner.microsoft.com/membership/action-pack) , aby otrzymywać pięć godzin doradczych.  
 
 |     Typ oferty    | Liczba godzin doradczych |   Przedsprzedaż techniczna   |
 |:-----------------:|:------------------------:|:----------------------:|
@@ -46,7 +46,7 @@ Zaloguj się przy użyciu dowolnego konta użytkownika skojarzonego z MPN, aby *
 
 Korzyści techniczne dotyczące usług sprzedaży i wdrażania (TPD) są automatycznie aktywowane i dostępne dla wszystkich skojarzonych użytkowników MPN. 
 
-Aby wyświetlić zalety techniczne w centrum partnerskim
+Aby wyświetlić zalety techniczne w centrum partnerskim:
 
 1. Zaloguj się przy użyciu skojarzonego konta MPN na [pulpicie nawigacyjnym](https://partner.microsoft.com/dashboard)Centrum partnerskiego. 
 

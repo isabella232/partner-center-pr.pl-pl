@@ -9,18 +9,15 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 422f2d662d8fa8d992532bf5945acdd5bf6683ca
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 3872f3398516b6a437d570c6949bef8541cdedd4
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92529325"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768809"
 ---
 # <a name="test-drive-new-partner-center-features-and-help-shape-the-future-of-partner-center"></a>Przetestuj nowe funkcje Centrum partnerskiego i zadbaj o to, aby pomóc w przyszłości Centrum partnerskiego
 
-**Dotyczy**
-
-- Centrum partnerskie
 
 ## <a name="help-shape-the-future-of-partner-center"></a>Zanotuj przyszłość Centrum partnerskiego.
 

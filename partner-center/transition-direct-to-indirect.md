@@ -9,18 +9,18 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ceaf3fd0819937177648814a02df4a2a266ee06f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 0e7676df62aa6ea91492f9904ac810397fb0e5aa
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624310"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768758"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Zmiana z partnera z rozliczaniem bezpośrednim w programie Cloud Solution Provider (CSP) na odsprzedawcę pośredniego w programie CSP
 
 **Odpowiednie role**
 
-- Administratorzy globalni
+- Administrator globalny
 
 >[!Note]
 >Ten artykuł jest przeznaczony dla partnerów rozliczeniowych bezpośrednich, którzy zdecydują się przejść do odsprzedawcy pośredniego. Jednak nawet jeśli nie zostały jeszcze jawne decyzje dotyczące rejestracji jako pośredniego odsprzedawcy, bezpośredni partnerzy rozliczani, którzy nie spełniają nowych [wymagań](direct-partner-new-requirements.md) programu CSP Direct Bill partner, zostaną powiadomieni przez firmę Microsoft, gdy ich [bezpośrednie rozliczenie będzie ograniczone](restricted-direct-bill-capabilities.md).
@@ -127,9 +127,9 @@ Zarządzanie bezpośrednimi klientami rozliczania i pośrednimi klientami odsprz
 
 ### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>Aby zidentyfikować klientów nabytych jako partner z bezpośrednią rachunkiem
 
-1. Wybierz **klientów**
+1. Wybierz pozycję **Klienci**.
 
-2. Wybierz klienta, aby wyświetlić jego szczegóły
+2. Wybierz klienta, aby wyświetlić jego szczegóły.
 
 3. Jeśli ten klient został pobrany jako partner bezpośredniego rozliczania, zobaczysz opcje umożliwiające **dodanie** lub **wyświetlenie produktów** . zobaczysz ich subskrypcje.
 
@@ -162,7 +162,7 @@ Za pomocą funkcji rozszerzenia relacji odsprzedawcy można nawiązać relację 
 
 - Dostawca pośredni nie zostanie dostarczony z [delegowanymi uprawnieniami administracyjnymi](customers-revoke-admin-privileges.md) do dzierżawy klienta. Jeśli Dostawca pośredni wymaga uprawnień administratora delegowanego, należy wysłać do klienta pośredniego odsprzedawcy.
 
-- Po ustanowieniu relacji odsprzedawcy, Dostawca pośredni zostanie wyświetlony jako partner CSP dla klienta na stronie relacje partnera w [centrum administracyjnym M365](https://admin.microsoft.com/AdminPortal/Home#/partners) i [Microsoft Store dla firm](/microsoft-store/work-with-partner-microsoft-store-business).
+- Po ustanowieniu relacji odsprzedawcy Dostawca pośredni zostanie wyświetlony jako partner CSP dla klienta na stronie relacje partnera w [centrum administracyjnym Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/partners) i [Microsoft Store dla firm](/microsoft-store/work-with-partner-microsoft-store-business).
 
     > [!IMPORTANT]
     > Aby uniknąć nieporozumień i nieporozumień, użytkownik wyraża zgodę na umowę partnera o poinformowanie i uzyskanie zgody od klienta z płatnością bezpośrednią przed użyciem funkcji rozszerzenia relacji do ustanowienia relacji odsprzedawcy między istniejącym odbiorcą rachunku bezpośredniego a dostawcą pośrednim.
@@ -223,9 +223,9 @@ Umowa Microsoft Cloud jest ważna do 31 stycznia 2020. Po tej dacie wszyscy klie
 
 W obszarze model pośredni CSP pośrednicy odsprzedawcy nie mają relacji rozliczeń z firmą Microsoft. Zamiast tego pośrednicy odsprzedawcy uzyskują subskrypcje dla swoich klientów za poorednictwem ich dostawców pośrednich. Podczas przechodzenia z bezpośredniego partnera rozliczeniowego do pośredniego odsprzedawcy należy przenieść istniejące subskrypcje, które masz jako partnera bezpośredniej płatności do dostawcy pośredniego. Do tego celu można użyć funkcji samoobsługowego transferu subskrypcji na pulpicie nawigacyjnym Centrum partnerskiego.
 
-### <a name="pre-requisites"></a>Wymagania wstępne
+### <a name="prerequisites"></a>Wymagania wstępne
 
-- Ta funkcja jest dostępna tylko w przypadku przechodzenia do partnerów, którzy ukończyli rejestrację pośredniego odsprzedawcy przy użyciu istniejących dzierżawców partnerów rozliczeniowych bezpośrednich
+- Ta funkcja jest dostępna tylko w przypadku przechodzenia do partnerów, którzy ukończyli rejestrację pośredniego odsprzedawcy przy użyciu istniejących dzierżawców partnerów bezpośrednich rozliczeń.
 
 - Przed przesłaniem subskrypcji skojarzonych z danym klientem partner przechodzenia musi przenieść klienta do dostawcy pośredniego.
 
