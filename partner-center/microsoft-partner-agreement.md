@@ -1,7 +1,7 @@
 ---
 title: Umowa partnerska firmy Microsoft (MPA) dla dostawcy usług kryptograficznych
 ms.topic: how-to
-ms.date: 02/11/2021
+ms.date: 03/23/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się więcej o wymaganiach partnerów programu Microsoft CSP w celu podpisania i zweryfikowania tej ujednoliconej, akceptowanej cyfrowo umowy Microsoft Partner (MPA).
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 829b444f1990058cd323e3effec6da6d7585155a
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 34f43895da6b25ca62e32b0d56eaa401564cca92
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281333"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880807"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Informacje o umowie partnerskiej firmy Microsoft (MPA) dla partnerów programu CSP
 
@@ -110,5 +110,7 @@ Możesz również sprawdzić, czy podpisano umowę, wybierając pozycję **umowy
 3. Aby sprawdzić stan MPA w Centrum partnerskim po wykonaniu kroku 1 i/lub kroku 2 powyżej: [Weryfikowanie stanu akceptacji umowy Microsoft Partner Agreement](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
 ## <a name="next-steps"></a>Następne kroki
+
+- [Jak dostawcy pośrednim mogą pomóc odsprzedawcy w przyjęciu umowy partnerskiej firmy Microsoft — często zadawane pytania](mpa-indirect-provider-faq.md)
 
 - [Rejestracja w programie Cloud Solution Provider](indirect-reseller-tasks-in-partner-center.md)

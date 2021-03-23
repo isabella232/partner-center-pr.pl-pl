@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: d93a94ce1171770d76617a9ec8bed9a1dd96d287
-ms.sourcegitcommit: 1aeabd40513f06809cb111131b4e6bc188975ce6
+ms.openlocfilehash: 236cee00ec6a28468361c4893f7888882a17f5e4
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99065475"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880790"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Dowiedz się, jak współdziałać z dostawcami pośrednimi w programie dostawcy rozwiązań w chmurze
 
@@ -142,6 +142,10 @@ Twoja służbowa lokalizacja firmy jako odsprzedawca pośredni dostawcy usług k
 
 ## <a name="next-steps"></a>Następne kroki
 
+- [Jak dostawcy pośrednim mogą pomóc odsprzedawcy w przyjęciu umowy partnerskiej firmy Microsoft — często zadawane pytania](mpa-indirect-provider-faq.md)
+
+- [Umowa partnerska firmy Microsoft](microsoft-partner-agreement.md)
+
 - [Proces weryfikacji konta](verification-responses.md)
 
 - [Zarządzanie kontem w portalu Partner Center](partner-center-account-setup.md)
@@ -153,4 +157,4 @@ Twoja służbowa lokalizacja firmy jako odsprzedawca pośredni dostawcy usług k
 - [Dowiedz się więcej na temat procesu weryfikacji](verification-responses.md)
 
 - [Patrz wymagania dotyczące partnerów rozliczeniowych bezpośrednich](direct-partner-new-requirements.md)
-- [Umowa partnerska firmy Microsoft](microsoft-partner-agreement.md)
+

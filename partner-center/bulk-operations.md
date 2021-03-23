@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 39a1370ad4e5da9120c74b46dfb0c20cd93df4e3
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: c8910b98e32abe10ae3bc86f24aae7bec2630741
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712193"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880722"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Operacje zbiorcze dla wspólnych możliwości sprzedaży przy użyciu plików z wartościami rozdzielanymi przecinkami (CSV)
 
@@ -82,7 +82,7 @@ Stan pododwołania do partnera|Tak|Wskazuje dokładny stan transakcji. Użyj **z
 Stan odwołania firmy Microsoft|Zależy od|Wskazuje stan żądania współsprzedawcy wysłanego do pomocy firmy Microsoft. Jest to pole tylko do odczytu. Wszelkie zmiany wprowadzone w tym polu podczas importowania danych zostaną zignorowane.| Oczekiwanie
 Przyczyna odrzucenia/utraty|Zależy od| Te informacje są wymagane tylko w przypadku zmiany stanu podrzędnego pola na odrzucone lub utracone. W przeciwnym razie można zignorować tę kolumnę. <br/> **Wprowadź liczbę na podstawie poniższych opcji** <br/><br/> **1**— budżet projektu jest nieodpowiedni  <br/> **2**— klient nie odpowiedział  <br/> **3**— klient wybrał innego dostawcę  <br/> **4** — wymagania klienta nie zostały spełnione  <br/> **5** — nie do klienta <br/> **6**— proponowany wiersz czasu był zbyt krótki <br/> **7** — raportowanie jako nadużycia, spam lub wyłudzanie informacji <br/> **8** — inne |6|
 Etap sprzedaży|Nie|Jest to pole wskazujące szczegółowy etap sprzedaży odwołania. Przeczytaj więcej na temat etapów sprzedaży [tutaj](./manage-co-sell-opportunities.md)|40
-Szacowana wartość transakcji|Tak|"Wartość transakcji na podstawie początkowych rozmów z klientem. Tę zmianę można zmienić, dopóki transakcja osiągnie jeden z Stanów końcowych| wygrane lub utracone ".|12563
+Szacowana wartość transakcji|Tak|Wartość transakcji na podstawie początkowych rozmów z klientem. Można to zmienić do momentu, aż transakcja osiągnie jeden z **wygranych** lub **utraconych** Stanów terminalu.|12563
 Waluta|Tak|Waluta, w której wprowadzono wartość transakcji. Kody walut można znaleźć [tutaj](https://en.wikipedia.org/wiki/ISO_4217).|USD
 Szacowana data zamknięcia|Tak|Szacowana data zamknięcia transakcji w oparciu o początkowe rozmowy z klientem w formacie MM/DD/RRRR. <br/> **Data powinna być w strefie czasowej UTC. Wszystkie daty wyświetlane w interfejsie użytkownika Centrum partnerskiego są oparte na zlokalizowanych strefach czasowych. W interfejsie użytkownika Centrum partnerskiego może istnieć +/-jeden dzień, Jeśli przeglądasz odwołanie, dla którego podałeś datę w strefie czasowej UTC.**|1/30/2020
 IDENTYFIKATOR PROGRAMU CRM|Nie|Identyfikator tego konkretnego odwołania w systemie CRM, jeśli istnieje. To jest pole wprowadzania tekstu w postaci bezpłatnej.|34234324-sdfsdf-345345-SFD

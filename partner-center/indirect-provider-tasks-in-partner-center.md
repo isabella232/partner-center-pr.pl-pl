@@ -8,13 +8,13 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.date: 07/01/2020
-ms.openlocfilehash: 12b902f8134a4fcf6d93439658da95fff6d80c4f
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.date: 03/23/2021
+ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567053"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880773"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Współpraca partnerska z odsprzedawcami pośrednimi w programie Cloud Solution Provider
 
@@ -168,6 +168,10 @@ Gdy klienci chcą zakupić nowe subskrypcje, uaktualnić istniejące lub zakupi�
 7. Po zakończeniu wybierz pozycję **Prześlij** .
 
 ## <a name="next-steps"></a>Następne kroki
+
+Znajdź odpowiedzi na pytania dotyczące umowy partnerskiej firmy Microsoft
+
+- [Jak dostawcy pośrednim mogą pomóc odsprzedawcy w przyjęciu umowy partnerskiej firmy Microsoft — często zadawane pytania](mpa-indirect-provider-faq.md)
 
 Aby uzyskać więcej informacji o zarządzaniu kontami i subskrypcjami klientów, zobacz:
 
