@@ -9,19 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 40df034e88a1bba7829d6f73e0fb970795a2a0dd
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 38ab5b3ef871aa8a969e8da48e2cb6f4cfebf4c6
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92529497"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028336"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Zarządzanie listą klientów — wyszukiwanie, aktualizowanie i eksportowanie klientów w centrum partnerskim
 
 **Dotyczy**
 
-- Centrum partnerskie
-- Centrum partnerskie dla Microsoft Cloud dla instytucji rządowych USA
+- Centrum partnerskie w chmurze firmy Microsoft dla instytucji rządowych
 
 Rekordy klientów znajdują się wśród najważniejszych zasobów informacji w centrum partnerskim. Bazę danych kont klientów można wyszukać, wyeksportować całą bazę danych klienta lub wyeksportować podzestaw do formatu pliku wartości rozdzielanych przecinkami (CSV) zgodnego z programem Excel. Możesz również wyeksportować informacje o subskrypcjach klienta do pliku CSV.
 
@@ -29,16 +28,16 @@ Dzienniki aktywności udostępniają również dane możliwe do eksportu w przyp
 
 ## <a name="search-for-a-customer"></a>Wyszukaj klienta
 
-1.  W menu **Centrum partnerskiego** wybierz pozycję **Customers**.
-2.  Aby wyszukać klienta, wprowadź nazwę klienta lub nazwę domeny w polu wyszukiwania.
-3.  Wybierz **strzałkę w dół** znajdującą się na końcu wiersza klienta, aby wyświetlić identyfikator firmy Microsoft i powiązane z nimi subskrypcje i usługi.
+1. W menu **Centrum partnerskiego** wybierz pozycję **Customers**.
+2. Aby wyszukać klienta, wprowadź nazwę klienta lub nazwę domeny w polu wyszukiwania.
+3. Wybierz **strzałkę w dół** znajdującą się na końcu wiersza klienta, aby wyświetlić identyfikator firmy Microsoft i powiązane z nimi subskrypcje i usługi.
 
 ## <a name="update-a-customers-company-name"></a>Aktualizowanie nazwy firmy klienta
 
 W menu **Centrum partnerskiego** wybierz pozycję **Customers**.
-2.  Aby wyszukać klienta, wprowadź nazwę klienta lub nazwę domeny w polu wyszukiwania.
-3.  Wybierz **strzałkę w dół** znajdującą się na końcu wiersza klienta, aby wyświetlić identyfikator firmy Microsoft i powiązane z nimi subskrypcje i usługi.
-4.  W obszarze informacje o **rozliczaniu** klienta należy zaktualizować nazwę firmy. Po zapisaniu nowej wartości będzie ona widoczna na liście Customer (klient). Spowoduje to zmianę nazwy firmy dla rachunku i wartości z listy klientów. Nie będzie on widoczny w żadnym miejscu.
+2. Aby wyszukać klienta, wprowadź nazwę klienta lub nazwę domeny w polu wyszukiwania.
+3. Wybierz **strzałkę w dół** znajdującą się na końcu wiersza klienta, aby wyświetlić identyfikator firmy Microsoft i powiązane z nimi subskrypcje i usługi.
+4. W obszarze informacje o **rozliczaniu** klienta należy zaktualizować nazwę firmy. Po zapisaniu nowej wartości będzie ona widoczna na liście Customer (klient). Spowoduje to zmianę nazwy firmy dla rachunku i wartości z listy klientów. Nie będzie on widoczny w żadnym miejscu.
 
 ## <a name="export-your-customer-list"></a>Eksportowanie listy klientów
 

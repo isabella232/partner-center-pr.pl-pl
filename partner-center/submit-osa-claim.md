@@ -9,24 +9,21 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fec01e6c4554421593de4135ccd1af5c5e7ce13b
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: 7a7e3ed40dcc6b1248f008201bff667a9eb9a0f8
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917261"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028319"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Skojarzenia klientów z modelem zatwierdzono partnera rekordu (CPOR) dla Microsoft 365 i Dynamics 365
 
-**Dotyczy**
 
-- Centrum partnerskie
-
-**Odpowiednie role:**
+**Odpowiednie role**
 
 - Administrator zachęt
 
-Od 1 października 2019 firma Microsoft rozpoczęła korzystanie z modelu "CPOR", aby zarządzać skojarzeniami z klientami Microsoft 365 i Dynamics 365 w odniesieniu do pomocy technicznej dotyczącej usług online (OSA, Online Services Usage) (OSU) — Microsoft 365 i OSU-Business zachęt aplikacji.
+1 października 2019, firma Microsoft rozpoczęła korzystanie z modelu CPOR (Partnering partnera) w celu zarządzania skojarzeniami z klientami Microsoft 365 i Dynamics 365, w odniesieniu do pomocy technicznej dotyczącej produktów, usług online (OSU) — Microsoft 365 i OSU-Business zachęt aplikacji.
 
 >[!Important]
 > Oświadczenia skojarzenia klienta (CPOR) mają zastosowanie tylko do poradnika dotyczącego sprzedaży usług online (OSA, Online Services Usage, OSU) — Microsoft 365 i OSU-Business programów do zachęty aplikacji. Jeśli przesyłasz roszczenie współdziałania dla innego programu, takiego jak dostawca rozwiązań w chmurze, odsprzedawcy zarządzanego, hosting lub powierzchnia, zapoznaj się z opisem w tym miejscu. <br><br>Po przesłaniu zgłoszenia firma Microsoft zweryfikuje je. Firma Microsoft może poprosił o dodatkowe informacje w tym momencie. Powiadomimy również klienta o żądaniu skojarzenia. Klienci mają pięć dni roboczych, aby zrezygnować z korzystania z programu. Jeśli nie zrezygnują z tego, skojarzenie z tą konkretną dzierżawą i obciążeniem będzie oficjalne. W tym momencie będziesz mieć dostęp do danych użycia klienta. 
@@ -39,11 +36,11 @@ Aby dokończyć zastrzeżenie, potrzebne są następujące informacje:
 
 - **Identyfikator katalogu** lub **Identyfikator dzierżawy** klienta [Znajdź ten](find-ids-and-domain-names.md)
 
-- **Obszar rozwiązania** , taki jak Business Applications lub Microsoft 365
+- **Obszar rozwiązania**, taki jak Business Applications lub Microsoft 365
 
 - Wykonane **działanie** i typ roszczeń, które chcesz utworzyć, na przykład skojarzenie przedsprzedaży, użycia lub przychodu
 
-- **Nazwa kontaktu** , tytuł i adres e-mail klienta
+- **Nazwa kontaktu**, tytuł i adres e-mail klienta
 
 - W przypadku systemu Dynamics 365 należy również podać nazwę **kontaktu technicznego** klienta, tytuł i adres e-mail.
 
@@ -53,9 +50,9 @@ Aby dokończyć zastrzeżenie, potrzebne są następujące informacje:
 
 - **Produkty** lub obciążenia, które są odzyskiwane
 
-- **Potwierdzenie wykonania (PoE)** , takie jak oświadczenie służbowe podpisane przez klienta. Możesz również pobrać szablon PoE do użycia.
+- **Potwierdzenie wykonania (PoE)**, takie jak oświadczenie służbowe podpisane przez klienta. Możesz również pobrać szablon PoE do użycia.
 
-- W przypadku partnerów zgłaszających tylko skojarzenie przychodu: **Nazwa sprzedawcy rozwiązania Dynamics** , **Nazwa klienta** i **Nazwa niezależnego produktu/rozwiązania** . 
+- W przypadku partnerów zgłaszających tylko skojarzenie przychodu: **Nazwa sprzedawcy rozwiązania Dynamics**, **Nazwa klienta** i **Nazwa niezależnego produktu/rozwiązania**. 
 
 Należy również zrozumieć następujące kwestie:
 
@@ -69,40 +66,40 @@ Należy również zrozumieć następujące kwestie:
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 
-2. Wybierz kartę **zachęty** , wybierz pozycję **Przegląd** , a następnie wybierz pozycję **skojarzenia klienta** .
+2. Wybierz kartę **zachęty** , wybierz pozycję **Przegląd**, a następnie wybierz pozycję **skojarzenia klienta**.
 
-3. W górnej części strony skojarzenia klienta wybierz pozycję **+ skojarzenie klienta** .
+3. W górnej części strony skojarzenia klienta wybierz pozycję **+ skojarzenie klienta**.
 
 4. Wybierz **identyfikator MPN** lokalizacji partnera, która ma zostać skojarzona z klientem, a następnie dodaj nazwę domeny klienta i identyfikator katalogu. [Znajdź ten](find-ids-and-domain-names.md)
 
-5. Wybierz opcję **Kontynuuj** .
+5. Wybierz opcję **Kontynuuj**.
 
-6. Wybierz **obszar rozwiązania** i **działanie** . 
+6. Wybierz **obszar rozwiązania** i **działanie**. 
 
    >[!Note]
    >
-   >W przypadku wybrania opcji Business Applications wybierz pozycję **użycie i/lub** przedpłata lub pozycję **przychody** , a następnie wybierz pozycję **Kontynuuj** . 
+   >W przypadku wybrania opcji Business Applications wybierz pozycję **użycie i/lub** przedpłata lub pozycję **przychody**, a następnie wybierz pozycję **Kontynuuj**. 
    <br><br>W przypadku wybrania skojarzenia przychodów zostanie wyświetlony monit o nieco inne informacje niż wymienione poniżej.
 
 7. Wprowadź odpowiednie informacje na stronie **Skojarz klienta** , a następnie wybierz pozycję **Utwórz** powiązanie.
 
-8. Wybierz produkty skojarzone z tym skojarzeniem klienta, a następnie wybierz pozycję **Kontynuuj** .
+8. Wybierz produkty skojarzone z tym skojarzeniem klienta, a następnie wybierz pozycję **Kontynuuj**.
 
 9. Uzupełnij informacje kontaktowe klienta i informacje kontaktowe swojej firmy. Wszystkie pola są wymagane. 
 
    >[!NOTE]
    >Jeśli Twój produkt to Dynamics 365, a wybrany produkt ma wiele subskrypcji dla danego klienta, należy również wprowadzić identyfikator subskrypcji.
 
-10. Podaj dowód wykonania (PoE). Możesz przeciągnąć je do pola, przejść do własnej dokumentacji pomocniczej lub użyć szablonu, wybierając pozycję **Pobierz szablon** . 
+10. Podaj dowód wykonania (PoE). Możesz przeciągnąć je do pola, przejść do własnej dokumentacji pomocniczej lub użyć szablonu, wybierając pozycję **Pobierz szablon**. 
 
-11. Jeśli chcesz, dodaj i zapisz komentarze, a następnie wybierz pozycję **Prześlij roszczenie** . Wyślemy do klienta wiadomość e-mail z prośbą o zatwierdzenie Twojego skojarzenia klienta.
+11. Jeśli chcesz, dodaj i zapisz komentarze, a następnie wybierz pozycję **Prześlij roszczenie**. Wyślemy do klienta wiadomość e-mail z prośbą o zatwierdzenie Twojego skojarzenia klienta.
 
    >[!NOTE]
    >Po przesłaniu skojarzenia klienta nie można go edytować.
 
-Stan skojarzenia klienta jest wyświetlany w polu **Stan** .
+Stan skojarzenia klienta jest wyświetlany w polu **Stan**.
 
-Wybierz pozycję **Historia** , aby wyświetlić historię skojarzenia klienta.
+Wybierz pozycję **Historia**, aby wyświetlić historię skojarzenia klienta.
 
 ## <a name="next-steps"></a>Następne kroki
 

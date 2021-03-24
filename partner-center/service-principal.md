@@ -9,18 +9,14 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21ef2aaa46359570bbf13c12c5fb6c1f5eab080a
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 6ef5373fd9a606cd25345cbe80a55f28fc1f753f
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92529490"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028472"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Dodawanie aplikacji usługi Azure AD (nazwy głównej usługi) w centrum partnerskim
-
-**Dotyczy**
-
-- Centrum partnerskie
 
 **Odpowiednie role**
 

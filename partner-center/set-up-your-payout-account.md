@@ -2,20 +2,21 @@
 title: Konfigurowanie konta wypłaty & form podatkowych — komercyjne witryny Marketplace firmy Microsoft
 description: Aby otrzymać pieniądze z oferty sprzedaży oferowanej w komercyjnej witrynie Marketplace, Dowiedz się, jak skonfigurować konto wypłaty i uzupełnić niezbędne formularze podatkowe.
 ms.topic: conceptual
-ms.service: marketplace
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: c08dfb816e08efdc194dbeff8800a2cbcec2b972
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492691"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028438"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Konfigurowanie konta do wypłaty i formularzy podatkowych
 
-**Odpowiednie role:**
+**Odpowiednie role**
 
 - Administrator konta
 - Administrator globalny
@@ -54,7 +55,7 @@ Najpierw należy utworzyć profil podatkowy i przypisać go do programów, któr
 
 4. Jeśli chcesz użyć istniejącego profilu podatkowego, wybierz go z listy rozwijanej. W przeciwnym razie wybierz pozycję **Utwórz nowy profil** i naciśnij przycisk **Prześlij**. Nastąpi przekierowanie do strony profilów podatkowych.
 
-5. Kliknij przycisk **Edytuj** , aby edytować informacje podatkowe.
+5. Wybierz przycisk **Edytuj** , aby edytować informacje podatkowe.
 
 6. Wybierz odpowiedni przycisk radiowy, a następnie wybierz swój kraj/region, jeśli zostanie wyświetlony monit. Ten krok określa jednostkę biznesową firmy Microsoft, która będzie używana do wypłat na Twoje konto.
 
@@ -91,7 +92,7 @@ Konto płatne to konto bankowe, na które wysyłamy transakcje z sprzedaży. Mo�
 
 3. Wybierz metodę płatności, którą chcesz skonfigurować.
 
-4. Wybierz istniejący profil płatności lub kliknij pozycję **Utwórz nowy profil płatności** , aby utworzyć nowy profil dla wybranej metody płatności.
+4. Wybierz istniejący profil płatności lub wybierz pozycję **Utwórz nowy profil płatności** , aby utworzyć nowy profil dla wybranej metody płatności.
 
 ### <a name="create-a-bank-based-payment-profile"></a>Tworzenie profilu płatności opartego na banku
 
@@ -111,7 +112,7 @@ Jeśli wybrano opcję korzystania z konta bankowego w celu otrzymywania wypłat,
 
 5. Musisz wybrać profil płatności dla każdego programu, który należy do Ciebie uczestniczyć, ale możesz użyć tego samego profilu dla wielu programów.
 
-6. Kliknij pozycję Prześlij, aby zapisać zmiany.
+6. Wybierz pozycję Prześlij, aby zapisać zmiany.
 
    > [!NOTE]
    > Zweryfikowanie informacji w Twoim profilu może potrwać do 48 godzin. Gdy ten proces zostanie ukończony  , zostanie wyświetlony stan **ukończono**
@@ -130,7 +131,7 @@ Istniejące profile płatności można edytować, jeśli konieczne jest wprowadz
 
 2. Pod nagłówkiem *wypłata i podatek* wybierz pozycję **wypłaty i profile podatkowe**.
 
-3. Twoje profile płatności zostaną wyświetlone wraz z ich stanami. Znajdź profil, który chcesz edytować, a następnie kliknij pozycję **Edytuj** po prawej stronie
+3. Twoje profile płatności zostaną wyświetlone wraz z ich stanami. Znajdź profil, który chcesz edytować, a następnie wybierz pozycję **Edytuj** po prawej stronie
 
 > [!IMPORTANT]
 > Zmiana konta wypłaty może opóźniać płatności o jeden cykl płatności. To opóźnienie występuje, ponieważ musimy zweryfikować zmianę konta, tak jak podczas pierwszej konfiguracji konta wypłaty. Po zweryfikowaniu konta będziesz nadal otrzymywać opłaty za pełną kwotę. Wszelkie płatności z tytułu bieżącego cyklu płatności zostaną dodane do kolejnego. Aby uzyskać więcej informacji, zobacz artykuł Wprowadzenie do sprzedaży [komercyjnej](marketplace-get-paid.md).
@@ -203,7 +204,7 @@ Jeśli wybrano opcję korzystania z konta bankowego w celu otrzymywania wypłat,
 3. Podaj szczegóły beneficjenta.
 4. Na stronie *Przypisanie profilu* Wybierz walutę, która ma być używana w przypadku wystawiania wypłat.
 5. Musisz wybrać profil płatności dla każdego programu, który należy do Ciebie uczestniczyć, ale możesz użyć tego samego profilu dla wielu programów.
-6. Kliknij pozycję Prześlij, aby zapisać zmiany.
+6. Wybierz pozycję Prześlij, aby zapisać zmiany.
 
 ## <a name="next-steps"></a>Następne kroki
 
