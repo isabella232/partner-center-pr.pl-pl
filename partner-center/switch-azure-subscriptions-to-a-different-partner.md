@@ -9,20 +9,19 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: b9058b00708e0ed745c7d6343dfd9c04382cfa9e
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 20e00034e9c20a5d41500892df059b34a9347a63
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645660"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028302"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Dowiedz się, jak przenieść subskrypcje platformy Azure klienta do innego partnera
 
 **Dotyczy**
 
-- Centrum partnerskie Microsoft Cloud for US Government
+- Centrum partnerskie w chmurze firmy Microsoft dla instytucji rządowych
 - Centrum partnerskie dla chmury globalnej firmy Microsoft
-- Partnerzy w programie dostawcy rozwiązań w chmurze (CSP)
 
 W tym artykule opisano, jak klient może przełączać Microsoft Azure usług z jednego dostawcy rozwiązań w chmurze (CSP) na inny.
 
@@ -43,7 +42,7 @@ Aby przełączyć usługi platformy Azure lub subskrypcje klienta na innego part
 
    Utwórz bilet usługi platformy Azure z Centrum partnerskiego, aby zażądać przeniesienia subskrypcji:
 
-   1. W menu Centrum partnerskiego wybierz pozycję **klienci**, wybierz z listy pozycję Klient, a następnie wybierz pozycję **Zarządzanie usługami**. 
+   1. W menu Centrum partnerskiego wybierz pozycję **klienci**, wybierz z listy pozycję Klient, a następnie wybierz pozycję **Zarządzanie usługami**.
 
    2. W sekcji **bilety pomocy technicznej** wybierz listę rozwijaną **nowy bilet** i wybierz pozycję **Microsoft Azure**.
    
@@ -100,12 +99,12 @@ Aby przełączyć usługi platformy Azure lub subskrypcje klienta na innego part
      Get-AzRoleAssignment
      ```
 
-7. Usuń nieaktualne uprawnienia dostępu
+7. Usuń nieaktualne uprawnienia dostępu:
 
    - W menu Centrum partnerskiego wybierz pozycję **Customers**.
-   - Znajdź klienta na liście. Wybierz (kliknij dwukrotnie) nazwę swojej firmy. Spowoduje to otwarcie strony **subskrypcje** klientów.
+   - Znajdź klienta na liście. Wybierz (kliknij dwukrotnie) nazwę swojej firmy. Ta akcja powoduje otwarcie strony **subskrypcje** klientów.
    - W menu Szczegóły klienta wybierz pozycję **Zarządzanie usługami**.
-   - W obszarze **Microsoft Azure** kliknij link, aby przejść do **Portal zarządzania Microsoft Azure**.
+   - W obszarze **Microsoft Azure** wybierz łącze, aby przejść do **Portal zarządzania Microsoft Azure**.
 
 ## <a name="next-steps"></a>Następne kroki
 

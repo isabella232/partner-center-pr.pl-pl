@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d362e78cccf1372760a38f849b0a29a0a31c1ac
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 194ae71b026b3dc5419ad86d0988249223137462
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "92529353"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028251"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restore a suspended Partner Center account - learn why it happens and what to do about it (Przywracanie zawieszonego konta Centrum partnerskiego — przyczyny i czynnością do wykonania)
 
@@ -22,8 +22,7 @@ W tym artykule wyjaśniono, co należy zrobić, jeśli Twoje konto w Centrum par
 
 **Dotyczy**
 
--  Centrum partnerskie
--  Centrum partnerskie dla Microsoft Cloud dla instytucji rządowych USA
+- Centrum partnerskie w chmurze firmy Microsoft dla instytucji rządowych
 
 **Odpowiednie role**
 
@@ -37,7 +36,7 @@ W tym artykule wyjaśniono, co należy zrobić, jeśli Twoje konto w Centrum par
 
 Firma Microsoft zawiesza konto Centrum partnerskiego z jednego z następujących powodów:
 
-- Gdy bieżąca kwota rozliczeniowa jest większa niż 60 dni 
+- Gdy bieżąca kwota rozliczeniowa jest większa niż 60 dni
 - W przypadku wykrycia znacznego nadużycia konta
 - Gdy problemy mają wpływ na operacje dostawcy pośredniego i mają negatywny wpływ na konto (tylko pośrednich odsprzedawcach)
 - Gdy profil konta jest w stanie Niepowodzenie lub odrzucone
@@ -48,7 +47,7 @@ Jeśli wiesz, że Twoje konto jest aktualne, sprawdź ustawienia [profilu partne
 
 Jeśli nie masz pewności, czy Twoje konto jest aktualne, wybierz pozycję **rozliczenia** w menu **Centrum partnerskiego** , aby sprawdzić rachunek. Na stronie rozliczenia wyświetlana jest historia rozliczeń i trendy, saldo należne za bieżący miesiąc, linki do plików faktury i uzgodnienia oraz Twoja ostatnia płatność.
 
-Jeśli Twoje konto jest zaległe, postępuj zgodnie z instrukcjami na rachunku, aby rozmieścić płatność, a następnie prześlij żądanie pomocy technicznej, aby zażądać przywrócenia konta. 
+Jeśli Twoje konto jest zaległe, postępuj zgodnie z instrukcjami na rachunku, aby rozmieścić płatność, a następnie prześlij żądanie pomocy technicznej w celu przywrócenia konta. 
 
 Aby uzyskać dodatkową pomoc w zakresie ponownej aktywacji konta, skontaktuj się z [pomocą techniczną](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create).
 
