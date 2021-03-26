@@ -8,17 +8,139 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/22/2021
-ms.openlocfilehash: a3172b78d41a966b52a824703a7f15f163467d63
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.date: 03/24/2021
+ms.openlocfilehash: 8b9b034a7241bba5de54b28edb64c961a05a8f64
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880739"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549077"
 ---
 # <a name="march-2021-announcements"></a>2021 komunikatów o marcu
 
 Ta strona zawiera anonse dla programu Microsoft Partner Center dla marca 2021.
+
+________________
+## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Operacje firmy Microsoft: wprowadzenie do kalendarza uruchamiania produktu
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-03-25
+- Oferty | Nowoczesne miejsce pracy
+
+### <a name="summary"></a>Podsumowanie
+
+W odpowiedzi na opinie partnerów działania firmy Microsoft będą usprawnić komunikację w przypadku uruchamiania produktu.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Partnerzy dostawcy rozwiązań w chmurze (CSP)
+
+### <a name="details"></a>Szczegóły
+
+Firma Microsoft dokłada starań, aby stale ulepszać środowiska partnerskie. Mamy opinię od Ciebie, że otrzymasz zbyt wiele komunikacji od firmy Microsoft, w tym zduplikowane powiadomienia dotyczące uruchamiania produktu.
+
+W odpowiedzi na opinie firma Microsoft usprawnił środowisko gotowości dla uruchamiania produktu dla nowych i istniejących ofert.
+
+Udostępniamy teraz jeden miesięczny widok uruchamiania produktu publikowany w galerii zasobów gotowości do działania. Ten miesięczny [Widok kalendarza produktu](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) spowoduje zamianę pojedynczej komunikacji z uruchamianiem produktu w galerii zasobów gotowości do obsługi operacji oraz w anonsach Centrum partnerskiego.
+
+Możesz również uzyskać dostęp do tego [kalendarza uruchamiania produktu](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) z [kolekcji społeczności](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/), [widoków kalendarza](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated)i [biuletynów CSP](https://partner.microsoft.com/resources/collection/csp-monthly-update#/). Powiadomimy Cię, gdy opublikujemy kalendarz uruchamiania produktu w każdym miesiącu przy użyciu anonsu w galerii zasobów gotowości do działania.
+
+Nadal można znaleźć informacje dotyczące nowych i istniejących ofert w dziennikach zmian cennika i cennika, a także w blogach dotyczących produktów, przewodnikach licencjonowania i stronach marketingowych produktu.
+
+Zmiana zostanie zastosowana do uruchomienia dla następujących produktów:
+
+- Lokalne dla systemu Dynamics
+- Microsoft 365
+- Microsoft Dynamics 365
+- Windows
+- Serwer  
+- narzędzia
+- Zespoły i odpływ
+
+Będziemy dalej wysyłać określone anonse dla uruchamiania produktu, które wymagają szczegółowych informacji o gotowości operacji.
+
+### <a name="next-steps"></a>Następne kroki
+
+Zapoznaj się z zasobami dotyczącymi tego tematu i Udostępnij te informacje odpowiednim udziałowcom w organizacji.
+
+### <a name="questions"></a>Masz pytania?
+
+Aby dowiedzieć się więcej na temat tych ofert, należy zapoznać się z odpowiednimi społecznościami Yammer.
+
+________________
+## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="15"></a>Zmiany wymagań dotyczących dołączania klienta dostawcy usług kryptograficznych
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-03-25
+- Możliwości
+
+### <a name="summary"></a>Podsumowanie
+
+W ramach naszych starań, aby pomóc partnerom i klientom w realizacji działalności w oparciu o relacje zaufania, będziemy żądać dodatkowych informacji o klientach, od 25 marca 2021.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Dostawcy rozwiązań w chmurze (CSP) — bezpośredni partnerzy rachunku i dostawcy pośrednim, którzy mają nowych lub istniejących klientów w krajach wymienionych w następnej sekcji
+
+### <a name="details"></a>Szczegóły
+
+Firma Microsoft uruchamia się na zaufaniu. Firma Microsoft dokłada starań, aby zapewnić zgodną, bezpieczną i bezpieczną metodę weryfikacji klienta w przypadku transakcyjnych subskrypcji klientów w programie CSP. 25 marca 2021. wprowadzimy udoskonalenia interfejsu API Centrum partnerskiego i interfejsu użytkownika, które będą miały wpływ na partnerów spełniających następujące kryteria:
+
+1. Partner ma bezpośrednią relację rozliczeń z firmą Microsoft (co oznacza, że partner to bezpośredni partner Bill lub pośredni dostawca).
+
+2. Partner wykonuje działalność z nowymi lub istniejącymi klientami w następujących krajach:
+
+    - Tajlandia
+    - Wietnam
+    - Turcja
+    - Polska
+    - Republika Południowej Afryki
+    - Indie
+    - Brazylia
+    - Irak
+    - Myanmar
+    - Sudan Południowy
+    - Arabia Saudyjska
+    - Zjednoczone Emiraty Arabskie
+    - Wenezuela
+
+Partnerzy, którzy spełniają kryteria, będą musieli przesłać **Identyfikator rejestracji firmy** klienta (znany także jako numer **Inn w organizacji** klienta) i **numer telefonu** , gdy dołączają nowych klientów lub modyfikują istniejące szczegóły klienta. Ci partnerzy mogą również wprowadzić opcjonalne **drugie imię** klienta.
+
+Należy pamiętać, że po dodaniu identyfikatora rejestracji firmy należy użyć identyfikatora podatkowego firmy, a nie identyfikatora osobistego klienta.
+
+Partnerzy, którzy korzystają z nowych lub istniejących klientów w następujących krajach, zostali już dołączeni do wcześniejszej wersji w listopadzie 2020.
+
+- Armenia
+- Azerbejdżan
+- Białoruś
+- Węgry
+- Kazachstan
+- Kirgistan
+- Mołdawia
+- Rosja
+- Tadżykistan
+- Ukraina
+- Uzbekistan
+
+Partnerzy z klientami na całym świecie będą mieli możliwość od 25 marca 2021 do wprowadzenia **identyfikatora rejestracji firmy**, **numeru telefonu** i **nazwy środkowej** klientom jako opcjonalne szczegóły.
+
+### <a name="next-steps"></a>Następne kroki
+
+- Zapoznaj się z dokumentacją techniczną i często zadawanymi pytaniami w [kolekcji dedykowanych partnerów](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) , aby uzyskać bardziej szczegółowe wskazówki.
+
+- Przygotuj się do uwzględnienia zmian za pomocą interfejsu API Centrum partnerskiego i środowiska użytkownika sieci Web. Interfejsy API/zestawy SDK będą dostępne do testowania.
+
+- Pamiętaj o przesłaniu dodatkowych danych podczas dołączania nowych klientów lub modyfikowania istniejących szczegółów klienta.
+
+- Jeśli używasz rozwiązania dostawcy panelu sterowania (CPV), zapoznaj się z CPV.
+
+### <a name="questions"></a>Masz pytania?
+
+Jeśli masz jakieś pytania dotyczące identyfikatora prawnego (nazywanego również INN lub cyny), skontaktuj się z doradcą podatkowym lub lokalnym biurem podatkowym. Firma Microsoft nie może zapewnić wskazówek dotyczących podatków.
+
+Jeśli potrzebujesz pomocy technicznej w zakresie operacji w firmie Microsoft, [Otwórz żądanie obsługi](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
 ________________
 ## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>Poprawki wprowadzone do 1 marca, 2021 bezterminowych Cennik oprogramowania

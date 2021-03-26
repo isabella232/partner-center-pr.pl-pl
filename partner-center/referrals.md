@@ -9,18 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf832377cdaa6a680fef3ea3c2535f20a3ad65e1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 391768b14473c3cbdaf5049007c36bbf28dd1167
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529813"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549213"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Rozwijanie działalności dzięki skierowaniom od firmy Microsoft
-
-**Dotyczy**
-
-- Centrum partnerskie
 
 Wielu klientów szuka wykwalifikowanych ekspertów, aby pomóc w zaimplementowaniu technologii i rozwiązań firmy Microsoft. W tym miejscu firma Microsoft często otrzymuje bezpośrednie żądania pomocy od klientów za pośrednictwem naszych działań marketingowych i naszych wewnętrznych agentów sprzedaży firmy Microsoft. Klienci używają również środowiska [ **wyszukiwania dostawcy rozwiązań**](https://www.microsoft.com/solution-providers/search) , aby znaleźć firmy, które mogą pomóc im w spełnieniu potrzeb firmy. 
 

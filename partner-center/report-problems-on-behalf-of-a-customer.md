@@ -9,19 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 0cf8769bcf45ba90a714231a7c9db7660efce0b0
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756446"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549060"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Zgłoś problem dotyczący usługi w imieniu klienta — w tym informacje o tym, kiedy i jak to zrobić
 
 **Dotyczy**
 
-- Centrum partnerskie
-- Centrum partnerskie Microsoft Cloud for US Government
+- Centrum partnerskie w chmurze firmy Microsoft dla instytucji rządowych
 
 **Odpowiednie role**
 
@@ -104,7 +103,7 @@ Aby znaleźć informacje kontaktowe niezależnego dostawcy oprogramowania:
 
 ## <a name="faq"></a>Często zadawane pytania
 
-Poniżej znajdują się informacje dotyczące często zadawanych pytań dotyczących żądań obsługi, które mogą zostać przesłane w imieniu klienta. 
+Zapoznaj się z poniższymi często zadawanymi pytaniami dotyczącymi żądań obsługi, które można przesłać w imieniu klienta. 
 
 ### <a name="what-is-included-as-part-of-the-support-entitlement"></a>Co obejmuje uprawnienie do pomocy technicznej?
 
@@ -120,7 +119,7 @@ Początkowe czasy reakcji zależą od ważności przesłanego zdarzenia. Ważno�
 
 Czas wstępnej reakcji dla **zdarzeń naprawy awarii technicznej**:
 
-- Krytyczny wpływ (ważność A): 2 godziny (znacząca utrata lub spadek poziomu usług). Usługi produkcyjne)
+- Krytyczny wpływ (ważność A): dwie godziny (znacząca utrata lub spadek poziomu usług). Usługi produkcyjne)
 - Średni wpływ (ważność B): cztery godziny (średnia utrata lub spadek poziomu usług). Usługi produkcyjne częściowo dotknięte problemem).
 - Minimalny wpływ (ważność C): osiem godzin (minimalna utrata lub spadek poziomu usług). Usługi są nadal dostępne lub nie zostały uwzględnione.
 

@@ -1,25 +1,26 @@
 ---
-title: Typy opłat za pliki uzgadniania
+title: Typy opłat za pliki uzgodnień
 ms.topic: article
 ms.date: 06/05/2020
 description: Wykrywaj typy opłat (takie jak oparte na licencji, oparte na użyciu i jednorazowe), kredyty i rabaty w plikach uzgadniania Centrum partnerskiego.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f65c4a6496082934e8c38fbd924b96ef969be95b
-ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
+ms.openlocfilehash: ba42ac5beb28a3cf819c54a86385fb79853cdcd0
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "92529389"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549230"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Informacje o różnych typach opłat w plikach uzgadniania Centrum partnerskiego
 
 **Dotyczy**
 
-- Centrum partnerskie
-- Centrum partnerskie dla Microsoft Cloud dla instytucji rządowych USA
+- Centrum partnerskie w chmurze firmy Microsoft dla instytucji rządowych
 
 **Odpowiednie role**
 
@@ -27,7 +28,7 @@ ms.locfileid: "92529389"
 - Administrator rozliczeń
 - Administrator globalny
 
-W tym temacie opisano mapowania między sekcją faktury i skojarzonymi typami opłat, które mogą znajdować się w pliku uzgadniania. Faktura zawiera podsumowanie opłat. Plik uzgadniania zawiera szczegółowy podział transakcji elementu wiersza, w tym typów opłat. Aby uzyskać więcej informacji dotyczących plików uzgadniania, zobacz [jak używać plików uzgadniania](use-the-reconciliation-files.md).
+W tym artykule opisano mapowania między sekcją faktury i skojarzonymi typami opłat, które mogą znajdować się w pliku uzgadniania. Faktura zawiera podsumowanie opłat. Plik uzgadniania zawiera szczegółowy podział transakcji elementu wiersza, w tym typów opłat. Aby uzyskać więcej informacji dotyczących plików uzgadniania, zobacz [jak używać plików uzgadniania](use-the-reconciliation-files.md).
 
 W przypadku [plików uzgadniania opartych na użyciu](usage-based-recon-files.md) i [plików uzgadniania opartych na licencji](license-based-recon-files.md) są wyświetlane tylko transakcje związane z użyciem i opłaty (zużyte jednostki i powiązane opłaty).
 

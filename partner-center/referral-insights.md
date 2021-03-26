@@ -9,21 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b09f661cfc091732dddb2d7cb79303af60d3919a
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f58a7cc34b5b5b5755f652faf220d290ec2a355d
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756485"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549264"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Uzyskaj szczegółowe informacje o odwołaniach w centrum partnerskim i Dowiedz się, w jaki sposób trwają odwołania
 
-**Dotyczy**
-
-- Możliwości wspólnej sprzedaży
-- Prywatne transakcje
-
-Strona **możliwości wspólnej sprzedaży** w sekcji **Analiza** odwołań umożliwia sprawdzenie, jak są wykonywane odwołania. Regularnie Przeglądaj te metryki, aby identyfikować trendy i obszary wymagające uwagi, a także rozpocząć pracę na podstawie celów firmy.
+Strona **możliwości wspólnej sprzedaży** w sekcji **Analiza** w odwołaniach umożliwia sprawdzenie, jak wykonywane są odwołania. Regularnie Przeglądaj te metryki, aby identyfikować trendy i obszary wymagające uwagi, a także rozpocząć pracę na podstawie celów firmy.
 
 Aby wyświetlić dane dotyczące sprzedaży ze swoją ofertą, w menu Centrum partnerskiego przejdź do pozycji **odwołania > analizy > możliwością sprzedaży**.
 
@@ -34,7 +29,7 @@ Aby wyświetlić dane dotyczące sprzedaży ze swoją ofertą, w menu Centrum pa
 
 W górnej części strony z **możliwościami wspólnej sprzedaży** możesz wybrać okres, dla którego chcesz wyświetlić dane. Wybór domyślny to **3m** (trzy miesiące), ale możesz wybrać wyświetlanie danych przez sześć miesięcy lub jeden rok. Możesz również wybrać opcję **niestandardowe** , aby wyświetlić dane dla wszystkich odwołań w określonym przedziale czasu.
 
-Możesz kliknąć przycisk Filtry, aby otworzyć panel, który umożliwia filtrowanie wszystkich danych na tej stronie według nazwy klienta, kraju, typu transakcji, kierunku transakcji, nazwy rozwiązania i stanu. Poniżej znajdują się szczegółowe informacje o tych filtrach.
+Możesz wybrać przycisk **filtry** , aby otworzyć panel umożliwiający filtrowanie wszystkich danych na tej stronie według nazwy klienta, kraju, typu transakcji, kierunku transakcji, nazwy rozwiązania i stanu. Poniżej znajdują się szczegółowe informacje o tych filtrach.
 
 - **Nazwa klienta**: wartość domyślna to **wszystkie**, ale można ograniczyć dane do wybranych klientów.
 - **Kraj**: wartość domyślna to **wszystkie**, ale możesz ograniczyć dane do jednego lub większej liczby krajów klienta, które wybierzesz.
@@ -47,7 +42,7 @@ Informacje we wszystkich wykresach wymienionych poniżej będą odzwierciedlać 
 
 ## <a name="referrals-summary"></a>Podsumowanie odwołań
 
-Na tej karcie przedstawiono przegląd sposobu działania operacji współsprzedaży.
+Na tej karcie przedstawiono przegląd sposobu działania operacji wspólnej sprzedaży.
 
 Na wykresie przedstawiono łączną liczbę transakcji, liczbę wygraną, liczbę, która została utracona, oraz łączny wolumin transakcji (w USD) dla wybranego okresu.
 
@@ -63,7 +58,7 @@ W tej sekcji przedstawiono wizualny wskaźnik, w jaki sposób transakcje są prz
 
 ## <a name="deals-by-geography"></a>Transakcje według położenia geograficznego
 
-W tej sekcji przedstawiono kraje/regiony, w których pochodziły transakcje, wraz ze szczegółami dotyczącymi poszczególnych krajów/regionów. Istnieje widok tabeli szczegółów transakcji dla każdego z krajów oraz widok mapy wszystkich krajów. Możesz kliknąć określony kraj w tabeli lub kliknąć Widok mapy, aby powiększyć do określonego kraju.
+W tej sekcji przedstawiono kraje/regiony, w których pochodziły transakcje, wraz ze szczegółami dotyczącymi poszczególnych krajów/regionów. Istnieje widok tabeli szczegółów transakcji dla każdego z krajów oraz widok mapy wszystkich krajów. Możesz wybrać konkretny kraj w tabeli lub wybrać widok mapy, aby powiększyć do określonego kraju.
 
 :::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Obraz przedstawiający rozkład geograficzny odwołań.":::
 
@@ -94,7 +89,7 @@ Trzy wymiary, które można wybrać do porównania danych, to
 - Wprowadza
 - Rozwiązania
 
-W przypadku wybrania opcji Typ transakcji można porównać wydajność odwołań w odniesieniu do możliwości wspólnej sprzedaży i prywatnych transakcji. Dla obu rynków i rozwiązań możesz wybrać trzy różne opcje, aby porównać ich wydajność. Pierwszy wykres, który jest wykresem słupkowym, będzie zawierał dane z miesięcznego trendu miesięcznego w oparciu o główny obszar Pivot, który jest woluminem lub wartością oferty. Istnieje również wykres kołowy z prawej strony wykresu słupkowego, który pokazuje rozkład według wartości procentowej dla tych samych danych.
+W przypadku wybrania typu transakcji można porównać wydajność odwołań w odniesieniu do możliwości wspólnej sprzedaży i prywatnych transakcji. Dla obu rynków i rozwiązań możesz wybrać trzy różne opcje, aby porównać ich wydajność. Pierwszy wykres, który jest wykresem słupkowym, będzie zawierał dane z miesięcznego trendu miesięcznego w oparciu o główny obszar Pivot, który jest woluminem lub wartością oferty. Istnieje również wykres kołowy z prawej strony wykresu słupkowego, który pokazuje rozkład według wartości procentowej dla tych samych danych.
 
 :::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Obraz przedstawiający sekcję porównania.":::
 

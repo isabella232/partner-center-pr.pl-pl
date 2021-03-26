@@ -9,23 +9,24 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 33955d85e4b3bd713d15807911067c643d12c912
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582040"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549179"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Żądanie portalu Centrum partnerskiego i narzędzie diagnostyczne
 
 **Dotyczy**
 
-- Centrum partnerskie
-- Centrum partnerskie Microsoft Cloud for US Government
+- Centrum partnerskie w chmurze firmy Microsoft dla instytucji rządowych
 
 **Odpowiednie role**
 
-Wszystkie zalogowani użytkownicy w centrum partnerskim mogą tworzyć żądania pomocy technicznej dla partnerów. Użytkownicy mogą wyświetlać tylko te żądania pomocy technicznej, które zostały przesłane po zalogowaniu się do Centrum partnerskiego.
+- Wszyscy partnerzy zainteresowani Centrum partnerskiego
+
+Wszystkie zalogowani użytkownicy w centrum partnerskim mogą utworzyć żądanie pomocy technicznej dla partnerów. Użytkownicy mogą wyświetlać tylko te żądania pomocy technicznej, które zostały przesłane po zalogowaniu się do Centrum partnerskiego.
 Skontaktuj się z pomocą techniczną Centrum partnerskiego, jeśli znajdziesz problemy lub potrzebujesz pomocy dotyczącej błędów portalu Centrum partnerskiego. Wyślij diagnostykę, aby umożliwić szybsze rozwiązywanie problemu.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Zgłoś problem z centrum partnerskim
@@ -77,7 +78,7 @@ Jeśli wystąpi błąd na stronie Centrum partnerskiego, może zostać wyświetl
 
 Możesz wyświetlić podgląd informacji diagnostycznych, a następnie zapisać je w pliku, który można dołączyć do żądania obsługi. Aby wysłać nam informacje:
 
-3. Zapoznaj się z informacjami znajdującymi się w pliku przed wysłaniem go, ponieważ może on zawierać informacje osobiste, które mogą zostać usunięte.
+3. Zapoznaj się z informacjami w pliku przed jego wysłaniem, ponieważ może on zawierać dane osobowe, które mogą zostać usunięte.
 
     >[!NOTE]
     >W niektórych przeglądarkach sekcja **Widok strony** w dolnej części strony **podglądu** może być pusta. Jest to OK.

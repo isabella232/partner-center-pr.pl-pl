@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 3/2/2021
-ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.date: 3/22/2021
+ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185353"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549247"
 ---
 # <a name="payout-statements"></a>Zestawienia wypłat
 
@@ -169,7 +169,7 @@ Aby wyświetlić więcej szczegółów na temat zdobywania, wybierz pozycję **P
 | uczestnikname | Nazwa partnera zdobywania | Wszystko |
 | partnerCountryCode | Lokalizacja/kraj/region partnera zdobywania | Wszystko |
 | partNumber | Zawsze będzie puste | Niektóre programy motywacyjne i Marketplace |
-| paymentId | Unikatowy identyfikator płatności. Ta liczba jest zwykle widoczna w wyrażeniu bankowym | Tylko płatności SAP |
+| paymentId | Unikatowy identyfikator służący do skorelowania wszystkich transakcji w raporcie transakcji z określoną płatnością w raporcie płatności | Wszystko |
 | paymentStatus | Stan płatności | Wszystko |
 | paymentStatusDescription | Przyjazny opis stanu płatności | Wszystko |
 | productId | Unikatowy identyfikator produktu | platform handlowych |

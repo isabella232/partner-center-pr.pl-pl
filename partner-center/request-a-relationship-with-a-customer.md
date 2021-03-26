@@ -8,22 +8,18 @@ description: Zażądaj relacji z klientem w przypadku scenariuszy obejmujących 
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 26f39943ecc06f70b0194f1e892c4cfa218f5ee9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 2403ec6cdb2776ab04fa76a37d690a748de38714
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92530093"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105548975"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Jak zażądać relacji odsprzedawcy od klienta w Centrum partnerskim
 
-**Dotyczy**
-
-- Centrum partnerskie
-
 Jeśli chcesz zarządzać usługą lub subskrypcją klienta w ich imieniu, klient musi przyznać uprawnienia administratora dla tej usługi lub subskrypcji i podpisać umowę klienta firmy Microsoft.
 
-Jeśli chcesz nawiązać relację odsprzedawcy z klientem i zarządzać tylko zainicjowanymi subskrypcjami platformy Azure, nie trzeba uzyskać uprawnień administratora.
+Jeśli chcesz nawiązać relację odsprzedawcy z klientem i zarządzać tylko tymi subskrypcjami platformy Azure, nie musisz uzyskać uprawnień administratora.
 
 >[!NOTE] 
 >Opcja nie Żądaj uprawnień nie jest dostępna dla partnerów działających w Microsoft Cloud dla instytucji rządowych Stanów Zjednoczonych lub Microsoft Cloud Niemiec. Aby dowiedzieć się więcej, zobacz [klienci delegowanie uprawnień administracyjnych do partnerów](customers-revoke-admin-privileges.md).
@@ -32,9 +28,9 @@ Jeśli chcesz nawiązać relację odsprzedawcy z klientem i zarządzać tylko za
 
 Możesz zażądać relacji odsprzedawcy z klientem z poziomu kraju lub tego samego regionu.
 
-1. Wybierz pozycję **klienci** z menu **Centrum partnerskiego** , a następnie wybierz pozycję **Żądaj relacji odsprzedawcy** .
+1. Wybierz pozycję **klienci** z menu **Centrum partnerskiego** , a następnie wybierz pozycję **Żądaj relacji odsprzedawcy**.
 
-2. Aby zażądać uprawnień administratora od tego klienta, wybierz opcję **Dołącz delegowane uprawnienia administracyjne dla Azure Active Directory i pakietu Office 365** . Aby ustanowić relację bez żądania uprawnień administratora, usuń zaznaczenie tej opcji.
+2. Aby zażądać uprawnień administratora od tego klienta, wybierz opcję **Dołącz delegowane uprawnienia administracyjne dla Azure Active Directory i pakietu Office 365**. Aby ustanowić relację bez żądania uprawnień administratora, usuń zaznaczenie tej opcji.
 
 3. Na następnej stronie przejrzyj wersję roboczą wiadomości e-mail. Możesz otworzyć wersję roboczą wiadomości w domyślnej aplikacji poczty e-mail lub skopiować wiadomość do schowka i wkleić do wiadomości e-mail.
 
