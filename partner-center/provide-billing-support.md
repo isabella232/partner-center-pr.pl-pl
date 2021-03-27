@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informacje o pomocy technicznej dotyczącej rozliczeń klientów wymaganych od partnerów programu CSP. Obejmuje to posiadanie relacji rozliczeń klienta i odpowiadanie na pytania dotyczące rozliczeń.
+description: Dowiedz się więcej o pomocy technicznej dotyczącej rozliczeń klientów wymaganych od partnerów programu CSP. Ta obsługa obejmuje własność relacji z rozliczeniami klientów i odpowiadanie na pytania dotyczące rozliczeń.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 11a17550ed5c0ab2154ec0daa03818236b26e820
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: b369cd263f1852c54c260fa39860e7acafae5f90
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215938"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633662"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Zapewnij klientom pomoc techniczną dotyczącą rozliczeń i udziel odpowiedzi na pytania dotyczące rozliczeń
 
@@ -22,7 +22,7 @@ ms.locfileid: "98215938"
 **Odpowiednie role**
 
 - Administrator globalny
-- Administrator użytkowników
+- Administrator zarządzania użytkownikami
 - Agent pomocy technicznej
 - Administrator rozliczeń
 - Agent sprzedaży
@@ -44,13 +44,13 @@ Aby spełnić wymagania dotyczące pomocy technicznej, partner może odsprzedać
 >[!Note]
 >Jeśli nie jesteś dostawcą usług kryptograficznych i masz pytania dotyczące rozliczeń klientów, zapoznaj się z konkretnym portalem odpowiednich produktów lub usług.
 
-Partnerzy muszą otrzymywać przychodzące żądania pomocy technicznej od klientów, diagnozować problemy, aby zapewnić najlepszą część możliwości partnera, a następnie rozwiązywać problemy, które znajdują się w zakresie zasięgu linii bazowej. Jeśli partner nie może rozwiązać problemu, może eskalować problemy do firmy Microsoft za pośrednictwem następujących pojazdów pomocy technicznej:
+Partnerzy muszą odbierać przychodzące żądania pomocy technicznej od klientów, diagnozować problemy, aby zapewnić najlepszą część zdolności partnera, a następnie rozwiązywać problemy, które znajdują się w zasięgu linii bazowej pomocy technicznej. Jeśli partner nie może rozwiązać problemu, może eskalować problemy do firmy Microsoft za pośrednictwem następujących pojazdów pomocy technicznej:
 
 - Pomoc techniczna dotycząca problemów **komercyjnych** jest dostępna dla wszystkich partnerów w programie CSP
 
 - Pomoc techniczna dotycząca problemów **technicznych** jest dostępna w:
 
-  - Pomoc techniczna Premier dla partnerów (podstawa opłaty)
+  - Pomoc techniczna Premium dla partnerów (podstawa opłaty)
   - Zaawansowana pomoc techniczna dla partnerów (podstawa opłaty)
   - Obsługa podpisów w chmurze (uwzględnionych w kompetencjach Gold/Silver)
 

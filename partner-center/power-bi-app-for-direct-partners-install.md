@@ -10,25 +10,27 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 754b3310918df9b38129cf1374ae3731d9d8062e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: ad0c2f3ee7d130c49dea6ba354e6794e29fd9e9f
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215853"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633696"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instalowanie i wyświetlanie podglądu aplikacji statystycznej Centrum partnerskiego dla usługi Microsoft Power BI
 
 
 **Odpowiednie role**
--   Administrator globalny
--   Administrator użytkowników
--   Agent sprzedaży
--   Agent administracyjny
 
-## <a name="before-you-begin"></a>Przed rozpoczęciem
+- Administrator globalny
+- Administrator zarządzania użytkownikami
+- Agent sprzedaży
+- Agent administracyjny
+
+## <a name="before-you-begin"></a>Zanim rozpoczniesz
 
 Wybierz aplikację, która jest najbardziej odpowiednia dla Twojej firmy, z następującej listy dostępnych aplikacji Power BI:
+
 - [Dostawca bezpośredni](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
 - [Dostawca pośredni](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
@@ -49,25 +51,25 @@ Przed zainstalowaniem wersji zapoznawczej usługi Partner Center można upewnić
 
 ## <a name="to-install-the-app"></a>Aby zainstalować aplikację
 
-1. Kliknij odpowiednie łącze do źródła aplikacji (bezpośredni dostawca/pośredni Dostawca/pośredni odsprzedawcy) w powyższej sekcji.
+1. Wybierz odpowiednie łącze do źródła aplikacji (bezpośredni dostawca/pośredni Dostawca/pośredni odsprzedawcy) w powyższej sekcji.
 
-2. Kliknij pozycję **Pobierz teraz**. 
+2. Wybierz pozycję **Pobierz teraz**. 
 
-3. Zaakceptuj warunki i postanowienia, klikając przycisk **Kontynuuj**.
+3. Zaakceptuj warunki i postanowienia, wybierając pozycję **Kontynuuj**.
 
 4. W obszarze masz już konto? Wybierz pozycję **Zaloguj**.
 
-5. Na następnej stronie Wprowadź nazwę użytkownika Power BI i hasło, a następnie wybierz pozycję Zaloguj się.
+5. Na następnej stronie Wprowadź nazwę użytkownika Power BI i hasło, a następnie wybierz pozycję **Zaloguj się**.
 
 6. Zainstaluj obszar roboczy, podając nazwę obszaru roboczego.
 
 7. Aplikacje szablonów zainstalowane w sekcji Aplikacje można znaleźć.
 
-8. Kliknij pozycję aplikacje i wybierz zainstalowane aplikacje.
+8. Wybierz pozycję **aplikacje** i wybierz zainstalowane aplikacje.
 
 9. Rozpocznie się Rozpoczynanie pracy z nowym ekranem aplikacji.
 
-10. Aby nawiązać połączenie z danymi, kliknij przycisk **Połącz**.
+10. Aby nawiązać połączenie z danymi, wybierz pozycję **Połącz**.
 
 11. W oknie podręcznym **Połącz z centrum partnerskim** Sprawdź, czy **Metoda uwierzytelniania** jest ustawiona na **OAuth2** , lub wybierz pozycję **oAuth2** z listy, jeśli nie. 
 

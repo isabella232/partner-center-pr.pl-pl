@@ -1,7 +1,7 @@
 ---
 title: Korzystanie z plików uzgadniania
 ms.topic: article
-ms.date: 03/10/2021
+ms.date: 03/26/2021
 description: Dowiedz się więcej na temat plików uzgadniania w centrum partnerskim i interpretacji szczegółowych widoków elementów wierszy opłat dla danego cyklu rozliczeniowego.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b9e466402d71c988729052bd72ba2346a9d977
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022778"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633900"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Dowiedz się, jak odczytywać elementy wiersza w plikach uzgadniania Centrum partnerskiego
 
@@ -55,6 +55,27 @@ Wykonaj następujące kroki, aby naprawić wszelkie problemy z formatowaniem w p
 ## <a name="download-reconciliation-files-programmatically"></a>Programowe pobieranie plików uzgadniania
 
 Pliki uzgadniania mogą być bardzo duże i czasami trudno je pobrać. Aby programowo pobrać pliki uzgadniania, zobacz [Pobieranie elementów wiersza faktury](/partner-center/develop/get-invoiceline-items).
+
+## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Jeśli rozmiar pliku przekracza limit wierszy w programie Excel
+
+Jeśli możesz pobrać plik uzgadniania, ale nie otworzyć go w programie Microsoft Excel, prawdopodobnie oznacza to, że plik zawiera więcej wierszy niż zezwala program Excel. W takim przypadku można użyć dowolnej z poniższych procedur, aby otworzyć plik.
+
+### <a name="open-a-recon-file-in-power-bi"></a>Otwórz plik rekonesans w Power BI
+
+1. Pobierz plik uzgadniania w zwykły sposób.
+2. Pobierz, zainstaluj i Otwórz wystąpienie Power BI.
+3. Na karcie **Narzędzia główne** Power BI wybierz pozycję **Pobierz dane**.
+4. Na liście **wspólnych źródeł danych** wybierz pozycję **tekst/CSV**.
+5. Po wyświetleniu monitu Otwórz plik rekonesans.
+
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Otwórz plik rekonesans w tabeli przestawnej programu Excel
+
+1. Pobierz plik uzgadniania w zwykły sposób.
+2. Otwórz nowy plik w programie Microsoft Excel.
+3. Na karcie **dane** wybierz pozycję **Pobierz dane**, wybierz pozycję **z pliku**, a następnie wybierz pozycję **tekst/CSV**.
+4. Po wyświetleniu monitu Otwórz plik rekonesans. Zostaną wyświetlone Twoje dane.
+5. W menu rozwijanym **ładowanie** wybierz pozycję **Załaduj do**, a następnie kliknij przycisk **OK**.
+6. W oknie dialogowym **Importowanie danych** wybierz pozycję **raport tabeli przestawnej** , aby otworzyć plik.
 
 ## <a name="map-taxes-or-vat"></a>Podatki mapuje lub VAT
 

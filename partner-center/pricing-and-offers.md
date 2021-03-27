@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 086f5423d748ca2a84062577cd934987decc88f8
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 8aeb47f6968e364eecb05efd2c0d4a1b3e1ba267
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281284"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633764"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Cennik i oferty dla pakietu Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure i innych
 
@@ -22,15 +22,15 @@ ms.locfileid: "100281284"
 **Odpowiednie role**
 
 - Administrator globalny
-- Administrator użytkowników
+- Administrator zarządzania użytkownikami
 - Agent administracyjny
 - Administrator partnerski MPN
 - Agent sprzedaży
 - Administrator rozliczeń
 
-Aby zobaczyć najnowsze programy i oferty dostawcy rozwiązań w chmurze, w portalu dla partnerów przejdź do pozycji **sprzedaj > Cennik i oferty**. Możesz znaleźć osobne listy cen dla różnych dostępnych typów produktów. Poniższe listy cen są dostępne na stronie **Cennik i oferty** :
+Aby zobaczyć najnowsze programy i oferty dostawcy rozwiązań w chmurze, w portalu dla partnerów przejdź do pozycji **sprzedaj > Cennik i oferty**. Znajdziesz osobne cenniki dla różnych dostępnych typów produktów. Poniższe listy cen są dostępne na stronie **Cennik i oferty** :
 
-- **Usługi oparte na licencji** obejmują informacje o cenach pakietu Office 365, Enterprise Mobility oraz Security E3 oraz Dynamics 365. Sekcja cenowa oparta na licencji obejmuje aktualną i zapoznawczą, a także macierz listą ofert. Cennik zawiera Cennik i szacowane ceny detaliczne (ERP) dla ofert w ramach wszystkich obsługiwanych walut. Macierz list oferty zawiera dostępność rynkową oraz inne ważne informacje o ofertach. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
+- **Usługi oparte na licencji** obejmują informacje o cenach dla pakietu Office 365, programu Enterprise Mobility i zabezpieczeń E3, a także usługi Dynamics 365. Sekcja cenowa oparta na licencji obejmuje aktualną i zapoznawczą, a także macierz listą ofert. Cennik zawiera Cennik i szacowane ceny detaliczne (ERP) dla ofert w ramach wszystkich obsługiwanych walut. Macierz list oferty zawiera dostępność rynkową oraz inne ważne informacje o ofertach. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
 - **Usługi oparte na użyciu** obejmują informacje o cenach dla Microsoft Azure i programu Visual Studio. Możesz również użyć [kalkulatora cen usług platformy Azure w ramach dostawcy usług kryptograficznych](https://azure.microsoft.com/pricing/calculator/). Pobieranie oparte na użyciu obejmuje zarówno listę cenową dostawcy usług kryptograficznych dla wszystkich obsługiwanych walut, jak i pliki cen usług udostępnionych w programie ERP. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
 - **Microsoft Azure zarezerwowane wystąpienia** zawierają informacje o cenach dla wszystkich obsługiwanych walut dla wystąpień zarezerwowanych platformy Azure. Pobieranie cen obejmuje również ceny usług udostępnionych w programie ERP. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
 - **Subskrypcje oprogramowania** obejmują ceny za subskrypcje oprogramowania oparte na terminach dla wszystkich obsługiwanych walut. Plik ceny obejmuje wszystkie obsługiwane waluty z cennikiem i MSRP. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
@@ -95,7 +95,7 @@ Marginesy partnerów, różnica między cennikiem a szacowanymi cenami sprzedaż
 
 ## <a name="add-on-offer-types"></a>Typy ofert dodatków
 
-Usługi oparte na licencji można nabyć jako podstawowe oferty lub dodatki. Tylko oferty podstawowe są wykrywalne i jednostek za pośrednictwem katalogu Centrum partnerskiego. Dodatki muszą zostać zastosowane po zakupie oferty podstawowej. Kolumna **pomocniczy typ licencji** listy cenowej na podstawie licencji zawiera informacje o każdej ofercie i jej typie. Oferty podstawowe mają **niespecyficzne** wartości w kolumnie pomocniczy typ licencji cennika i można je kupić w katalogu. Nie można kupić dodatkowych wartości typu licencji **dodatku** w wykazie. Aby kupić te dodatki:
+Usługi oparte na licencji można nabyć jako podstawowe oferty lub dodatki. Tylko oferty podstawowe są wykrywalne i jednostek za pośrednictwem katalogu Centrum partnerskiego. Po zakupie ofert podstawowych należy zastosować dodatki. Kolumna **pomocniczy typ licencji** listy cenowej na podstawie licencji zawiera informacje o każdej ofercie i jej typie. Oferty podstawowe mają **niespecyficzne** wartości w kolumnie pomocniczy typ licencji cennika i można je kupić w katalogu. Nie można kupić dodatkowych wartości typu licencji **dodatku** w wykazie. Aby kupić te dodatki:
 
 1. Zapoznaj się z macierzą listą ofert, aby wyświetlić listę identyfikatorów ofert, które należy zakupić przed zakupem dodatku.
 2. Kup ofertę podstawową z wykazu
@@ -143,9 +143,9 @@ Wszystkie ceny na listach cen dostawcy CSP Centrum partnerskiego są podatkiem w
 
 ### <a name="36-month-offers"></a>36 ofert
 
-Istnieje około 50 ofert, które mają trzy lata. Są one identyfikowane przez **(36 mo)** w tytule ofert. Oferty te są bardzo podobne do ofert rocznych. Jedyną różnicą jest około tego okresu. Te oferty mają trzy lata okresy, co oznacza, że subskrypcje są odnawiane na kolejne trzy lata zamiast jednego. Poniżej znajduje się podsumowanie sposobu działania tych ofert:
+Istnieje około 50 ofert, które mają trzy lata. Są one identyfikowane przez **(36 mo)** w tytule ofert. Oferty te są podobne do ofert rocznych. Jedyną różnicą jest około tego okresu. Te oferty mają trzy lata okresu, dzięki czemu subskrypcje są odnawiane automatycznie po trzech latach zamiast jednego. Poniżej znajduje się podsumowanie sposobu działania tych ofert:
 
-- Warunki to 36 miesięcy, subskrypcje będą autoodnawiane po trzech latach
+- Warunki to 36 miesięcy, subskrypcje będą odnawiane automatycznie po trzech latach
 - Partnerzy mogą anulować lub zmienić liczbę licencji w okresie subskrypcji
 - Odnawianie roczne będzie naliczane w cenie czasu zakupu przez okres trzyletni
 - Częstotliwość rozliczeń jest w dalszym ciągu roczna lub miesięczna
@@ -162,11 +162,11 @@ Podstawowa oferta Microsoft 365 a1 ma półroczny okres.  Dodatki do pakietu Off
 
 Poniżej znajduje się podsumowanie sposobu działania tych ofert:
 
-- Termin dotyczy 72 miesięcy lub 6 lat
-- Subskrypcja nie jest odnawiana i wygasa po 6 latach
+- Termin jest przez 72 miesięcy lub sześć lat
+- Subskrypcja nie jest odnawiana i wygasa po sześciu latach
 - Częstotliwość rozliczeń w ofercie jest naliczana jako cena roczna, ale przed uzyskaniem subskrypcji partner jest rozliczany na pierwszej fakturze
 - Subskrypcje dla zamówień a1 72-miesiąc są zablokowane po zakupie i nie można ich anulować i nie można dodać do subskrypcji liczby licencji po początkowym zakupie
-- Ta subskrypcja nie została anulowana i nie podlega zwrotowi.
+- Ta subskrypcja nie jest anulowana i nie jest zwrotna.
 
 ## <a name="estimated-retail-price-erp"></a>Szacowana cena detaliczna (ERP)
 

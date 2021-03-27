@@ -9,18 +9,19 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: be4250864bd07e555b0eb2079c28f3dfb4920805
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: b267f89ec1c7b27e87eaaf3d7b594ebbd0fd6942
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529873"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633883"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Przygotuj się do przeniesienia z Centrum członkostwa partnera (PMC) do Centrum partnerskiego
 
 **Odpowiednie role**
+
 - Administrator globalny
-- Administrator użytkowników
+- Administrator zarządzania użytkownikami
 - Agent sprzedaży
 - Agent administracyjny
 
@@ -158,7 +159,7 @@ Firma może utworzyć dowolną liczbę profilów firmowych, aby w pełni przedst
 
 ### <a name="how-will-referrals-be-assigned-what-changes-can-i-expect-for-example-if-i-have-a-global-company-in-one-market-and-locations-in-other-markets-how-will-referrals-be-assigned"></a>Jak będą przypisywane odwołania, jakie zmiany mogą oczekiwać? Na przykład jeśli mam firmę globalną na jednym rynku i lokalizacji na innych rynkach, w jaki sposób będą przypisywane odwołania?
 
-Odwołania są przypisywane na podstawie parametrów wyszukiwania, które definiuje klient. Bez względu na to, czy masz jedną lokalizację, czy wiele, jeśli klienci określają pożądaną lokalizację i masz już firmę, która spełnia inne parametry, wówczas odwołanie przejdzie do tej lokalizacji.
+Odwołania są przypisywane na podstawie parametrów wyszukiwania, które definiuje klient. Bez względu na to, czy masz jedną lokalizację, czy wiele, jeśli klient określi żądaną lokalizację i istnieje firma, która spełnia inne parametry, wówczas odwołanie przejdzie do tej lokalizacji.
 
 ### <a name="i-am-migrating-to-partner-center-from-within-russia-i-get-an-error-message-about-web-direct-how-do-i-continue-with-the-migration"></a>Migrujem do Centrum partnerskiego z poziomu Rosji. Otrzymuję komunikat o błędzie dotyczący bezpośredniej sieci Web. Jak mogę kontynuować migrację?
 

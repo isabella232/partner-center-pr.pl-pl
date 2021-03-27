@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 04d47cef596b2c0a0ae13ff3f087d4b1b5f0437c
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 7645495e481010a92cc4f9cd95bf26f5e3783b70
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215904"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633832"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Kup plan platformy Azure dla klientów & uzyskać dostęp do najnowszych usług platformy Azure w ramach stawek płatność zgodnie z rzeczywistym użyciem
 
 **Odpowiednie role**
 - Administrator globalny
-- Administrator użytkowników
+- Administrator zarządzania użytkownikami
 - Agent sprzedaży
 
 W przypadku zakupu planu platformy Azure dla klientów w ramach umowy klienta firmy Microsoft masz dostęp do pełnego katalogu najnowszych usług platformy Azure w ramach stawek płatność zgodnie z rzeczywistym użyciem. Partnerzy CSP będą teraz mogli uzyskiwać dostęp do dowolnej usługi platformy Azure, gdy stanie się ogólnie dostępna. Partner może mieć wiele subskrypcji platformy Azure w ramach planu platformy Azure. 
@@ -79,7 +79,7 @@ Rezerwacje platformy Azure muszą być skojarzone z aktywnym planem platformy Az
 >Jeśli klient nie ma jeszcze aktywnego planu platformy Azure, wybierz pozycję Azure, aby dodać ją teraz. Dalsze instrukcje można znaleźć w artykule [kupowanie rezerwacji platformy Azure](azure-reservations-buying.md#purchase-azure-reservations).
 
 >[!Note]
->Zakres rezerwacji może być ustawiony tylko na **współużytkowany**, obecnie w centrum partnerskim. Aby wybrać zakres pojedynczej subskrypcji lub zaktualizować z udostępnionego do jednego zakresu subskrypcji, przejdź do **portalu zarządzania Microsoft Azure** , wykonując poniższe instrukcje. 
+>Zakres rezerwacji może być ustawiony tylko na **współużytkowany**, obecnie w centrum partnerskim. Aby wybrać zakres pojedynczej subskrypcji lub zaktualizować z zakresu udostępniania do jednej subskrypcji, przejdź do **portalu zarządzania Microsoft Azure** , wykonując poniższe instrukcje. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Ustawienie rezerwacji zakresu udostępnionego":::
 

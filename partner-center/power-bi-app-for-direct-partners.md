@@ -10,12 +10,12 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0d1cd25558cd7c0421398fc2cc9b93a1bcc57bbc
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: edc6469693e8dc8dcc93f9a4df66c9a232b29738
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215921"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633679"
 ---
 # <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Omówienie i często zadawane pytania dotyczące aplikacji do analiz Centrum partnerskiego dla Power BI (bezpośredni partnerzy w programie CSP)
 
@@ -24,7 +24,7 @@ ms.locfileid: "98215921"
 **Odpowiednie role**
 
 - Administrator globalny
-- Administrator użytkowników
+- Administrator zarządzania użytkownikami
 - Agent sprzedaży
 - Agent administracyjny
 
