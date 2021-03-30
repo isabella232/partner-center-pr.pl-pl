@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: aefd5258c778fd8a7b92bfe49f245bf818497fb8
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633900"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730090"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Dowiedz się, jak odczytywać elementy wiersza w plikach uzgadniania Centrum partnerskiego
 
@@ -76,6 +76,15 @@ Jeśli możesz pobrać plik uzgadniania, ale nie otworzyć go w programie Micros
 4. Po wyświetleniu monitu Otwórz plik rekonesans. Zostaną wyświetlone Twoje dane.
 5. W menu rozwijanym **ładowanie** wybierz pozycję **Załaduj do**, a następnie kliknij przycisk **OK**.
 6. W oknie dialogowym **Importowanie danych** wybierz pozycję **raport tabeli przestawnej** , aby otworzyć plik.
+
+## <a name="negative-amount-displayed"></a>Wyświetlana kwota ujemna
+
+W pliku uzgadniania może zostać wyświetlona ujemna kwota. Jest to prawdopodobnie spowodowane jedną z następujących czynności:
+
+- Ostatnio anulowano lub zmniejszono liczbę licencji
+- Otrzymałeś środki na umowę licencyjną usługi (SLA) lub użycie platformy Azure
+
+Aby uzyskać więcej informacji na temat tej transakcji, przejrzyj jej atrybut typu opłata w pliku uzgodnienia.
 
 ## <a name="map-taxes-or-vat"></a>Podatki mapuje lub VAT
 

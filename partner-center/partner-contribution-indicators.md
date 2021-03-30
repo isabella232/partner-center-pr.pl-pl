@@ -1,7 +1,7 @@
 ---
 title: Wskaźniki udziałów partnerów — OBSŁUGIWANIE
 ms.topic: article
-ms.date: 03/11/2021
+ms.date: 03/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się więcej na temat siedmiu wskaźników udziału partnerskiego (PCI), które pokazują partnerów, w jaki sposób uzyskać kompetencje Business Applications w chmurze Silver lub Gold.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.openlocfilehash: 8c050a14e258675369d8ff847c806192f44c7509
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193651"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730267"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Używanie wskaźników udziałów partnerów w celu uzyskania kompetencji Business Applications w chmurze
 
@@ -25,6 +25,8 @@ ms.locfileid: "103193651"
 - Administrator konta
 
 W tym artykule opisano siedem głównych wskaźników udziałów (PCI) służących do oceny postępu partnera w kierunku osiągnięcia lub zatrzymywania Business Applications w chmurze Silver lub Gold.
+
+Postęp PCI można zobaczyć na pulpicie nawigacyjnym udziału partnera. Dane są aktualizowane 20 każdego miesiąca z danymi z poprzedniego miesiąca. Na przykład dane z lutego zostaną opublikowane w 20 marca.
 
 > [!NOTE]
 > Dowiedz się, w jaki sposób partnerzy mogą korzystać z innego zestawu metryk wskaźnika udziału partnera, aby uzyskać kompetencje w zakresie rozwiązań w chmurze Silver lub Gold i Midmarket w chmurze za pomocą opcji SMB Business Applications. Aby uzyskać więcej informacji, zobacz [Korzystanie ze wskaźników udziałów partnerów w przypadku małych i Midmarketych możliwości rozwiązań w chmurze](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md). Możesz również [przeczytać więcej](https://partner.microsoft.com/membership/competencies) informacji na temat kompetencji i ich wymagań.
@@ -109,6 +111,20 @@ Na poniższej ilustracji przedstawiono szybkie, wizualne odwołanie.
 
 Każda Metryka PCI ma progi zestawu Microsoft, które mogą zdobywać maksymalne punkty firmy. Te progi różnią się w zależności od zaangażowania klienta i finansów i operacji używanych do osiągnięcia kompetencji Business Applications w chmurze. Progi różnią się również w przypadku partnerów działających na rynkach rozwiniętych i partnerów działających wyłącznie na rynkach rozwijających. **Rozwinięta** lub **rozwijana** Kategoryzacja rynku jest oparta na [Microsoft Partner Network definicjach](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
+Należy pamiętać, że 4 metryki są mierzone na podstawie lokalizacji, w której partner wykonuje działalność, a nie miejsca, w którym zarejestrowano lokalizację MPN. Oznacza to, że partner zarejestrowany na rynku rozwoju, który ma klientów z rozwiniętego rynku, będzie musiał spełnić wyniki PCI dla rozwiniętych krajów.
+
+W poniższej tabeli pokazano, która lokalizacja jest stosowana przez metrykę.
+
+| Nazwa metryki | Lokalizacja |
+|:-------|:--------|
+| Nowy przychód netto | Lokalizacja klienta |
+| Dodanie klienta w sieci | Lokalizacja klienta |
+| Konsultant funkcjonalny | Lokalizacja partnera |
+| Deweloper | Lokalizacja partnera |
+| Wzrost doradcy funkcjonalnej | Lokalizacja partnera |
+| MAU wzrostu | Lokalizacja klienta |
+| Nowe duże wdrożenia | Lokalizacja klienta |
+
 Punkty w każdej metryce są tallied w celu uzyskania odrębnej oceny PCI dla zaangażowania klientów i finansów i operacji. Ten wynik zostanie zaktualizowany co miesiąc.
 
 Partnerzy mogą uzyskać maksymalne punkty dla danej metryki, jeśli spełnią lub przekroczą progi podane poniżej. Punkty częściowe można uzyskać dla wszystkich metryk z wyjątkiem wzrostu dla doradcy funkcjonalnej.
@@ -160,7 +176,7 @@ Partner zostanie CPOR, jeśli ustanowił skojarzenie z klientem na poziomie subs
 Partner zostanie DPOR, jeśli ustanowił skojarzenie z klientem na poziomie subskrypcji w ramach produktu.
 
 > [!NOTE]
-> Gdy dla danej subskrypcji klienta istnieje zarówno CPOR, jak i DPOR, CPOR będzie otrzymywać środki dla odpowiednich metryk PCI skojarzonych z tą subskrypcją. Jeśli skojarzenie zostało utworzone za pośrednictwem narzędzia OSA, CPOR otrzymuje środki na nowe przychody netto i dodanie do klienta netto. Jeśli skojarzenie zostało zrealizowane za pośrednictwem OSU, CPOR otrzymuje środki na nowe wdrożenia i comiesięczny wzrost liczby użytkowników.
+> Gdy dla danej subskrypcji klienta istnieje zarówno CPOR, jak i DPOR, CPOR będzie otrzymywać środki dla odpowiednich metryk PCI skojarzonych z tą subskrypcją. Jeśli skojarzenie było realizowane za pośrednictwem narzędzia OSA (przychód), CPOR otrzymuje środki na nowe przychody netto i dodanie do klienta netto. Jeśli skojarzenie zostało zrealizowane za pośrednictwem OSU (roszczeń użycia), CPOR otrzymuje środki na nowe wdrożenia i comiesięczny wzrost liczby użytkowników. Oświadczenia przedsprzedaży nie kwalifikują się do korzystania z PCI.
 
 ## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>Szczegółowe definicje metryk PCI dla tej kompetencji
 
@@ -295,7 +311,7 @@ Deweloperzy są [wskaźnikami możliwości](partner-contribution-indicators.md#p
 - Punkty dla deweloperów są oparte na migawce bieżącego miesiąca z maksymalnie 5 punktami dostępności.
 
 - Po przejściu deweloperzy mogą otrzymywać środki w wysokości:
-  - PL-400<br/>**lub**
+  - PL-400<br/>**oraz**
   - MB – 200 \* **i** jeden z następujących egzaminów:
     - MB-400 \* lub MB2-0,16\*\*
 
@@ -324,9 +340,10 @@ Nowe duże wdrożenia to [wskaźnik sukcesu klienta](partner-contribution-indica
   
   (Aby uzyskać szczegółowe informacje na temat opracowywanych i rozwijających się rynków, zobacz następujące [definicje Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)).
 
-- Dzierżawa jest uważana za przekroczenie miesięcznego progu aktywnych użytkowników, jeśli dzierżawa była: 
+- Dzierżawa jest uważana za przekroczenie miesięcznego progu aktywnych użytkowników, jeśli dzierżawa była:
 
-  - Poniżej ustalonego progu 12 miesięcy temu *i*
+  - Poniżej ustalonego progu 12 miesięcy temu **i**
+
   - Przekroczenie tego progu co najmniej raz w ciągu kolejnych 11 miesięcy.
 
 - Miesięczny aktywni użytkownicy są zliczane na poziomie dzierżawy i sumowane w ramach subskrypcji płatnych w ramach dzierżawy.

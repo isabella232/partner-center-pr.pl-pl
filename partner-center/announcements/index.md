@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/22/2021
-ms.openlocfilehash: e2cba4baf497fb51ecd05c01f10e67632bb05c39
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 0020a43bd17e42bdfc13ab6745a65f63637c702b
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549043"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730065"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
@@ -22,6 +22,7 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 
 |**Kategoria**|**2021 komunikatów o marcu**|**Ogłoszone**|
 |---------|:---------|:---------|
+|Oferty/nowoczesne miejsce pracy|[Nowe środowisko centrum administracyjnego programu Exchange (SKK)](2021-march.md#17)|29 marca|
 |Oferty/nowoczesne miejsce pracy|[Operacje firmy Microsoft: wprowadzenie do kalendarza uruchamiania produktu](2021-march.md#16)|25 marca|
 |Możliwości|[Zmiany wymagań dotyczących dołączania klienta dostawcy usług kryptograficznych](2021-march.md#15)|25 marca|
 |Oferty/rynki|[Poprawki wprowadzone do 1 marca, 2021 bezterminowych Cennik oprogramowania](2021-march.md#14)|23 marca|

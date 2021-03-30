@@ -9,16 +9,59 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/24/2021
-ms.openlocfilehash: 8b9b034a7241bba5de54b28edb64c961a05a8f64
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: e2e40807ddeb7fc3aa0fcfb20f34eb71d0a9e118
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549077"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730091"
 ---
 # <a name="march-2021-announcements"></a>2021 komunikatów o marcu
 
 Ta strona zawiera anonse dla programu Microsoft Partner Center dla marca 2021.
+
+________________
+## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>Nowe środowisko centrum administracyjnego programu Exchange (SKK)
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-03-29
+- Możliwości
+
+### <a name="summary"></a>Podsumowanie
+
+Od 27 kwietnia 2021, centrum administracyjne programu Exchange (SKK) będzie przetworzyć nowe środowisko, które poprawi codzienne wydajność użytkowników.
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Administratorzy delegowani uzyskujący dostęp do programu Exchange za poorednictwem Centrum partnerskiego
+
+### <a name="details"></a>Szczegóły
+
+Od 27 kwietnia 2021 partnerzy, którzy przejdą do programu Exchange za pomocą Centrum partnerskiego, zostaną przekierowani do nowego serwera SKK.
+
+To nowe środowisko jest obecnie dostępne w wersji zapoznawczej, a administratorzy mogą aktywować to środowisko, wybierając przełącznik w prawym górnym rogu w ramach klasycznego elementu SKK. Mogą również przechodzić do nowego elementu SKK, wybierając transparent "Wypróbuj teraz", który jest wyświetlany na wszystkich stronach.
+
+Zalety nowej wartości SKK obejmują:
+
+- Dodano usługi Insights, raporty i mechanizmy alertów dotyczące problemów związanych z przepływem poczty. 
+
+- Spersonalizowane pulpity nawigacyjne zwiększające produktywność.
+
+Aby ułatwić przechodzenie przez nowe środowisko, klipy wideo są dostępne w sekcji **przewodnika & szkoleń** w nowym środowisku narzędzia SKK. Dzięki temu można zapoznać się z omówieniem, jak najlepiej korzystać z nowego portalu.
+
+>[!NOTE]
+>W przypadku tej zmiany środowisko klasycznego programu SKK nie będzie przestarzałe. Przed zaimplementowaniem jakiejkolwiek zmiany otrzymasz odpowiednie powiadomienie.
+
+### <a name="next-steps"></a>Następne kroki
+
+- Zapoznaj się z [zasobami dotyczącymi tego tematu](https://partner.microsoft.com/resources/collection/new-exchange-admin-center-experience#/), gdzie można wyświetlić zrzuty ekranu nowego środowiska.
+
+- Udostępnij te informacje właściwym udziałowcom w organizacji. 
+
+### <a name="questions"></a>Masz pytania?
+
+Aby dowiedzieć się więcej na temat tych zmian, należy zapoznać się z odpowiednimi społecznościami Yammer.
 
 ________________
 ## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Operacje firmy Microsoft: wprowadzenie do kalendarza uruchamiania produktu
@@ -55,7 +98,7 @@ Zmiana zostanie zastosowana do uruchomienia dla następujących produktów:
 - Microsoft Dynamics 365
 - Windows
 - Serwer  
-- narzędzia
+- Narzędzia
 - Zespoły i odpływ
 
 Będziemy dalej wysyłać określone anonse dla uruchamiania produktu, które wymagają szczegółowych informacji o gotowości operacji.
