@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b18f42f34951e09272d59c75b4588e962809ce62
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: a7278e6dff35d7941fbe44b65609dc4a2443c1f3
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624208"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132761"
 ---
 # <a name="add-a-vat-id-to-your-billing-profile"></a>Dodawanie identyfikatora VAT do profilu rozliczeń
 
 **Odpowiednie role**
 
 - Administrator globalny
-- Administrator użytkowników
+- Administrator zarządzania użytkownikami
 - Administrator rozliczeń
 - Agent administracyjny
 - Agent sprzedaży
@@ -30,11 +30,11 @@ Poniższa procedura służy do aktualizowania profilu rozliczeń w celu uwzględ
 
 ## <a name="update-your-billing-profile-with-your-vat-id"></a>Aktualizowanie profilu rozliczeń przy użyciu identyfikatora VAT
 
-1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/) Centrum partnerskiego.
 2. W menu **Ustawienia** (ikona koła zębatego) wybierz pozycję **Ustawienia konta**.
-3. Na stronie **Ustawienia konta** wybierz pozycję **profil rozliczania partnerów** w menu Strona.
-4. W sekcji **dane finansowe** wybierz pozycję **Aktualizuj**.
-5. W obszarze **identyfikator podatkowy firmy** podaj numer identyfikacyjny podatku VAT.
+3. Na stronie **Ustawienia konta** wybierz pozycję **Profil rozliczeniowy partnera** w menu strony.
+4. W sekcji **Dane finansowe** wybierz pozycje **Aktualizuj**.
+5. W obszarze **Identyfikator podatkowy firmy** podaj identyfikator VAT.
 
 ## <a name="next-steps"></a>Następne kroki
 

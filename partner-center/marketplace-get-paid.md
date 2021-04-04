@@ -1,21 +1,22 @@
 ---
 title: Uzyskiwanie płatności w centrum partnerskim
-description: Dowiedz się więcej o otrzymywaniu płatności za zyski jako partner firmy Microsoft, na przykład za pomocą ofert komercyjnych, programów zachęt i programu Cloud Solution Provider. Obejmuje zasady wypłat, wypłaty i wypłaty.
-ms.service: marketplace
+description: Dowiedz się więcej o otrzymywaniu płatności za zyski jako partner firmy Microsoft, na przykład za pomocą ofert komercyjnych, programów zachęt i programu Cloud Solution Provider. Obejmuje zasady wypłaty, status wypłaty i instrukcje wypłaty.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 94ed17106b64b078c51de351d1e44e29d3745921
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492453"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133084"
 ---
 # <a name="getting-paid-in-partner-center"></a>Uzyskiwanie płatności w centrum partnerskim
 
-**Odpowiednie role:**
+**Odpowiednie role**
 
 - Administrator konta
 - Administrator globalny
@@ -38,7 +39,7 @@ Przed zapłaceniem po raz pierwszy należy skonfigurować konto wypłaty i uzupe
 
 ### <a name="payout-hold-status"></a>Stan wstrzymania
 
-Domyślnie będziemy wysyłać płatności miesięcznie, zgodnie z powyższym opisem. Istnieje jednak możliwość nadania wypłaty dla programu w trakcie wstrzymania, a firma Microsoft nie wystawia płatności na Twoje konto. Jeśli zdecydujesz się na wstrzymanie wypłatów, będziemy nadal rejestrować wszelkie dochody na stronie **wypłaty** . Nie będziemy jednak wysyłać żadnych płatności do konta do momentu usunięcia blokady.
+Domyślnie będziemy wysyłać płatności miesięcznie, zgodnie z powyższym opisem. Można jednak wymusić wypłaty dla programu, a firma Microsoft nie zwolni płatności na Twoje konto. Jeśli zdecydujesz się na wstrzymanie wypłatów, będziemy nadal rejestrować wszelkie dochody na stronie **wypłaty** . Nie będziemy jednak wysyłać żadnych płatności do konta do momentu usunięcia blokady.
 
 Aby wstrzymać płatności, wybierz **ikonę koła zębatego w prawym** górnym rogu, a następnie pozycję **Ustawienia konta**. W menu po lewej stronie wybierz pozycję **wypłata i podatek** , a następnie w sekcji **przypisanie i przypisywanie profilów podatkowych** Znajdź program, dla którego chcesz mieć płatności. Zaznacz pole wyboru **przechowuj moją płatność** , aby wstrzymać płatności za ten program. W każdej chwili możesz zmienić status wypłaty, ale decyzja wpłynie na następną wypłatę miesięczną. Na przykład jeśli chcesz wstrzymać wypłatę z kwietnia, pamiętaj, aby przed końcem marca ustawić stan wstrzymania na wartość **włączone** .
 

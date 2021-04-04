@@ -9,16 +9,17 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c7b0be301b9c0fc56200c128b225fc849a2f04c2
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: b7d963bffcfeebed3b7540dfd02aadd876dfcaa6
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530567"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086230"
 ---
-# <a name="download-reports"></a>Pobierz raporty
+# <a name="download-reports"></a>Pobieraj raporty
 
 **Odpowiednie role**
+
 - Executive — Podgląd raportów
 - Podgląd raportów
 
@@ -30,11 +31,11 @@ Po wygenerowaniu raport będzie dostępny w sekcji **wygenerowane raporty** , ab
 
 **Utwórz nowy raport**
 
-Aby wygenerować raport, najpierw wybierz Raport z listy rozwijanej **Wybierz raport** . Następnie wybierz zakres dat z listy rozwijanej **Wybierz zakres dat** . Wybierz pozycję **Generuj** . Raport zostanie wygenerowany w formacie wartości rozdzielanych tabulatorami (TSV) i będzie dostępny do pobrania w sekcji **wygenerowane raporty** w ciągu kilku minut. Raporty wygenerowane w ciągu ostatnich 14 dni będą dostępne do pobrania.
+Aby wygenerować raport, najpierw wybierz Raport z listy rozwijanej **Wybierz raport** . Następnie wybierz zakres dat z listy rozwijanej **Wybierz zakres dat** . Wybierz pozycję **Generuj**. Raport zostanie wygenerowany w formacie wartości rozdzielanych tabulatorami (TSV) i będzie dostępny do pobrania w sekcji **wygenerowane raporty** w ciągu kilku minut. Raporty wygenerowane w ciągu ostatnich 14 dni będą dostępne do pobrania.
 
 :::image type="content" source="images/pci/create-new-report.png" alt-text="Utwórz nowy raport":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="Utwórz nowy raport":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="Wygenerowane raporty":::
 
 >[!NOTE] 
 >Tylko Ci użytkownicy, którzy są użytkownikami dyrektora raportów, mogą pobierać raporty. Aby uzyskać więcej informacji na temat dostępu opartego na rolach do raportów pulpitu nawigacyjnego usługi Insights, zobacz [role PCI](pci-roles.md). 
@@ -43,7 +44,7 @@ Aby wygenerować raport, najpierw wybierz Raport z listy rozwijanej **Wybierz ra
 
 Dostępne są następujące raporty do pobrania:
 
-**Profil partnera** zawiera szczegółowe informacje dotyczące partnera. W raporcie są dostępne szczegóły, takie jak identyfikator partnera, nazwa partnera, miasto partnera, kraj partnerski itd. Dla tego raportu nie będą stosowane agregacja ani lookback.
+**Profil partnera** zawiera szczegółowe informacje dotyczące partnera. W raporcie są dostępne szczegóły, takie jak identyfikator partnera, nazwa partnera, miasto partnera i kraj partnerski. Dla tego raportu nie będą stosowane agregacja ani lookback.
 
 **Szczegóły klienta** zawierają szczegółowe informacje o klientach, które są skojarzone z partnerem. Zapewnia również kluczowe metryki, takie jak sprzedane licencje, zagregowane ACR i tak dalej. Raport jest agregowany co miesiąc.
 

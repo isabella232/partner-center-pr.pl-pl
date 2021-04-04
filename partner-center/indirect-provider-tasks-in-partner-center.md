@@ -9,25 +9,25 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: 6ba6fce58df6ab6047a5ec6e7c46e1538b49756d
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880773"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178956"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Współpraca partnerska z odsprzedawcami pośrednimi w programie Cloud Solution Provider
 
 **Odpowiednie role**
 
 - Administrator globalny
-- Administrator użytkowników
+- Administrator zarządzania użytkownikami
 - Agent administracyjny
 - Agent sprzedaży
 
 Dzięki takiemu złożonemu i szybko zmieniającemu się platformie Marketplace klienci chcą zapewnić konkurencyjność rozwiązań technologicznych. W takim klimacie warto mieć pewność, że partnerzy mogą inwestować w zaangażowanie między partnerami, aby zwiększyć oferty i umożliwić klientom jeszcze więcej.
 
-Nowi odsprzedawcy wprowadzają rynek i poszukującą sposobów oferowania rozwiązań klientom poza ich rynkami i lokalnymi. Jako ustalony dostawca technologiczny jest dobrze ustawiony do ich trasy na rynek. Partner z pośrednimi odsprzedawcami w programie w ramach dostawcy rozwiązań w chmurze (CSP) do łączenia się z innymi partnerami, wprowadzenia nowych rozwiązań na rynek i przechodzenia z wyprzedzeniem klientów do wdrażania usług w chmurze.
+Nowi odsprzedawcy wprowadzają rynek i poszukującą sposobów oferowania rozwiązań klientom poza ich rynkami i lokalnymi. Jako ustalony dostawca technologii, można również umieścić swoją trasę na rynku. Partner z pośrednimi odsprzedawcami w programie w ramach dostawcy rozwiązań w chmurze (CSP) do łączenia się z innymi partnerami, wprowadzenia nowych rozwiązań na rynek i przechodzenia z wyprzedzeniem klientów do wdrażania usług w chmurze.
 
 W modelu dostawcy pośredniego — odsprzedawca (dwuwarstwowy) można zapewnić klientom pośrednim odsprzedawcom oferowanie rozwiązań w chmurze firmy Microsoft. Możesz kupić produkty i subskrypcje bezpośrednio od firmy Microsoft, a następnie zaoferować je klientom za pośrednictwem Odsprzedawcy.
 
@@ -111,7 +111,7 @@ Aby usunąć partnerstwo z istniejącym odsprzedawcą pośrednim, wykonaj poniż
 
 1. W menu Centrum partnerskiego na pulpicie nawigacyjnym wybierz pozycję **pośredni odsprzedawca**. 
 
-2. Na stronie **pośrednich odsprzedawcy** wybierz pozycję **Usuń powiązanie**. Zostanie wyświetlony komunikat z pytaniem o potwierdzenie wybierz pozycję tak, aby wykonać operację.
+2. Na stronie **pośrednich odsprzedawcy** wybierz pozycję **Usuń powiązanie**. Zostanie wyświetlony komunikat z prośbą o potwierdzenie. Aby to zrobić, wybierz pozycję **tak**.
 
 :::image type="content" source="images/ip-ir-relationship.png" alt-text="Usuń powiązanie":::
 
@@ -151,7 +151,7 @@ W przypadku kojarzenia odsprzedawcy z nowym kontem klienta do odsprzedawcy możn
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Dodawanie nowych subskrypcji do kont klientów
 
-Gdy klienci chcą zakupić nowe subskrypcje, uaktualnić istniejące lub zakupić dodatkowe licencje, wprowadź te zmiany na koncie klienta za pomocą portalu M365. Nie można tego zrobić w Azure Portal.
+Gdy klienci chcą zakupić nowe subskrypcje, uaktualnić istniejące lub zakupić dodatkowe licencje, wprowadź te zmiany na koncie klienta za pomocą portalu Microsoft 365. Nie można tego zrobić w Azure Portal.
 
 1. Wybierz pozycję **klienci** z Twojego menu **Centrum partnerskiego** .
 

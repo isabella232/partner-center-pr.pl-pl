@@ -4,27 +4,28 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Zobacz, co jest potrzebne, i w jaki sposób możesz udoskonalić korzystanie z subskrypcji platformy Azure sprzedawanych lub zarządzanych przez klientów.
+description: Zobacz, co jest potrzebne, i w jaki sposób możesz ulepszyć korzystanie z subskrypcji platformy Azure sprzedawanych lub zarządzanych przez klientów.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 932fdc0efa2b28f5c57f81b33eac166dc5f4eda8
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: ef72aa2e44797c906cdd0a216cf2d8355668c0a9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92529593"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086213"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Raport użycia platformy Azure dostępny na pulpicie nawigacyjnym usługi Partner Center Insights
 
 **Odpowiednie role**
+
 - Administrator globalny
 - Agent administracyjny
 - Podgląd raportów
 - Executive — Podgląd raportów
 
-Raport użycia platformy Azure przedstawia metryki związane z subskrypcjami platformy Azure dla klientów. Obejmuje to przychody i użycie platformy Azure według kategorii mierników. Poniższe sekcje można wyświetlić w raporcie użycia platformy Azure.
+Raport użycia platformy Azure przedstawia metryki związane z subskrypcjami platformy Azure dla klientów. Ten raport zawiera dochody i użycie platformy Azure według kategorii mierników. Poniższe sekcje można wyświetlić w raporcie użycia platformy Azure.
 
 - Podsumowanie
 - Użycie platformy Azure według lokalizacji geograficznej
@@ -37,9 +38,10 @@ Raport użycia platformy Azure przedstawia metryki związane z subskrypcjami pla
 
 Sekcja podsumowania przedstawia widok migawek kluczowych wskaźników wydajności (KPI) związanych z subskrypcjami platformy Azure sprzedawanymi lub zarządzanymi przez klienta.  
 
-- Subskrypcje platformy Azure: Bieżąca liczba subskrypcji klientów platformy Azure sprzedanych lub zarządzanych przez procent wzrostu lub odrzucania subskrypcji platformy Azure w ramach wybranego zakresu dat.
+- Subskrypcje platformy Azure: Bieżąca liczba subskrypcji klientów platformy Azure sprzedawanych lub zarządzanych przez użytkownika.
+Procent wzrostu lub odrzucenia subskrypcji platformy Azure w ramach wybranego zakresu dat.
 
-Na tym urządzeniu jest prezentowany miesięczny trend obejmujący miesiąc w stosunku do liczby subskrypcji platformy Azure dla wybranego zakresu dat
+Na mikrografie prezentowany jest miesięczny trend dotyczący liczby subskrypcji platformy Azure dla wybranego zakresu dat.
 - Aktywne subskrypcje platformy Azure: aktualna liczba subskrypcji platformy Azure sprzedawanych lub zarządzanych przez użytkownika, którzy mieli aktywne użycie w ciągu ostatnich 30 dni.
 Procent wzrostu lub odrzucenia tych subskrypcji w wybranym zakresie dat.
 

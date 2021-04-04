@@ -9,20 +9,20 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: d56b9675ea405b29190f68420037ea9a92f3d831
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624157"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086553"
 ---
 # <a name="security-requirements-status-report"></a>Raport stanu wymagań dotyczących zabezpieczeń
 
 **Odpowiednie role**
-- Dostawcy panelu sterowania
-- Administratorzy globalni
+- Administrator CPV
+- Administrator globalny
 
-W tym artykule opisano raport o stanie wymagań zabezpieczeń w centrum partnerskim. Ten raport zawiera metryki dotyczące zgodności z [wymaganiami dotyczącymi zabezpieczeń partnerów](partner-security-requirements.md) w przypadku uwierzytelniania wieloskładnikowego (MFA) dla użytkowników w dzierżawie partnera.
+W tym artykule opisano raport o stanie wymagań zabezpieczeń w centrum partnerskim. Ten raport zawiera metryki dotyczące zgodności z [wymaganiami dotyczącymi zabezpieczeń partnerów](partner-security-requirements.md) dla uwierzytelniania wieloskładnikowego (MFA) dla użytkowników w dzierżawie partnera.
 
 Aby uzyskać dostęp do tego raportu w [centrum partnerskim](https://partner.microsoft.com/dashboard), przejdź do pozycji **Ustawienia**  >  **Ustawienia konta**  >  **wymagania dotyczące zabezpieczeń**. Raport jest aktualizowany codziennie i odzwierciedla dane logowania z ostatnich siedmiu dni.
 
@@ -53,7 +53,7 @@ Metryka w **portalu Centrum partnerskiego** jest związana z działaniami na pul
 - Drugi dzień Jan zalogował się do pulpitu nawigacyjnego Centrum partnerskiego bez weryfikacji MFA i wykonał pięć operacji.
 - Trzeci dzień Jan zalogował się do pulpitu nawigacyjnego Centrum partnerskiego z weryfikacją usługi MFA i wykonał dwie operacje.
 - Nie wykonano żadnych operacji w żadnym z agentów w pozostałych czterech dniach.
-- Z 10 operacji wykonanych w 7-dniowym oknie dwa wystąpienia zostały wykonane przez użytkownika z weryfikacją MFA. W związku z tym Metryka pokazuje 20%.
+- Z 10 operacji wykonanych w oknie siedmiu dni dwa wystąpienia zostały wykonane przez użytkownika z weryfikacją MFA. W związku z tym Metryka pokazuje 20%.
 
 Aby zrozumieć, który użytkownik zalogował się do pulpitu nawigacyjnego Centrum partnerskiego bez weryfikowania MFA, oraz czas ostatniego odwiedzania w oknie raportowanie, należy użyć **portalu plików bez usługi MFA** .
 
@@ -82,7 +82,7 @@ Niektórzy partnerzy z zaimplementowaną MFA mogą zobaczyć metryki raportów p
 
 ### <a name="implemented-mfa-for-your-partner-tenant"></a>Zaimplementowana MFA dla dzierżawy partnerskiej
 
-Musisz zaimplementować usługę MFA dla dzierżawy partnerskiej, aby osiągnąć zgodność. Aby uzyskać szczegółowe informacje na temat implementowania usługi MFA, zobacz [wymagania dotyczące zabezpieczeń w przypadku używania interfejsów API Centrum partnerskiego lub platformy partnerskiej](partner-security-requirements.md).
+Aby uzyskać zgodność, należy wdrożyć usługę MFA dla dzierżawy partnerskiej. Aby uzyskać szczegółowe informacje na temat implementowania usługi MFA, zobacz [wymagania dotyczące zabezpieczeń w przypadku używania interfejsów API Centrum partnerskiego lub platformy partnerskiej](partner-security-requirements.md).
 
 >[!NOTE]
 > Metryki usługi MFA są obliczane codziennie i należy wziąć pod uwagę operacje wykonywane w ciągu ostatnich siedmiu dni. Jeśli niedawno ukończono implementację usługi MFA dla dzierżawcy partnera, metryki nie pokażą jeszcze 100%.

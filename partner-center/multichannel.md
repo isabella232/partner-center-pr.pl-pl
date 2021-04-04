@@ -9,24 +9,23 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f743834578b4a4b40453704a9ca1ef5adf4bc82
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 925532881b6f28b2e7a9d06372a92eed95716d48
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "92529236"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132727"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Obsługa wielokanałowa — używanie innych partnerów do obsługi subskrypcji klientów zakupionych w innym miejscu
 
 **Dotyczy**
 
-- Centrum partnerskie
-- Centrum partnerskie dla Microsoft Cloud dla instytucji rządowych USA
+- Centrum partnerskie w chmurze firmy Microsoft dla instytucji rządowych
 
 **Odpowiednie role**
 
 - Administrator globalny
-- Administrator użytkowników
+- Administrator zarządzania użytkownikami
 - Agent sprzedaży
 
 Funkcja wielokanałowego Centrum partnerskiego obsługuje scenariusze, gdy klient chce zatrudniać partnera w celu zarządzania subskrypcją, która została zakupiona w innym miejscu. Obsługa wielokanałowa jest stosowana, gdy klient:

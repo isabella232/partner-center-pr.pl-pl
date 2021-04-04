@@ -9,24 +9,19 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 494c9d7ff8e726e8bd183456926761c3cebf10ee
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 7a42381e6c7f3b33acae887f78fb87b5d309279e
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691371"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178939"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Korzystanie z metryk w centrum partnerskim w celu zwiększenia przyjęcia i zadowolenia
-
-**Dotyczy**
-
-- Centrum partnerskie
-- Program dostawcy rozwiązań w chmurze
 
 **Odpowiednie role**
 
 - Administrator globalny
-- Administrator użytkowników
+- Administrator zarządzania użytkownikami
 - Agent administracyjny
 - Agent sprzedaży
 
@@ -61,7 +56,7 @@ Możesz znaleźć licencję i dane użytkowników dla jednego klienta lub w port
 
 Terminologia:
 
-- **Uprawnienie** = licencja, do której użytkownik może korzystać (nie jest zawieszona w przypadku oszustwa lub niepłaty, nie została uaktualniona do innej licencji, nie została anulowana przez użytkownika itd.)
+- **Uprawnienie** = licencja, do której użytkownik może korzystać (nie jest zawieszona w przypadku oszustwa lub niepłaty, nie została uaktualniona do innej licencji, nie została anulowana przez użytkownika lub inny problem).
 
 - **Aktywny** = Jeśli subskrybowany użytkownik użył uprawnienia do zadania w ciągu ostatnich 28 dni kalendarzowych.
 
@@ -69,7 +64,7 @@ Terminologia:
 
 - **Użycie%** = aktywni użytkownicy/całkowita liczba użytkowników
 
-   Czasami użycie% jest niepłaskie lub większe niż 100%. Może się to zdarzyć z kilku powodów:
+   Czasami użycie% jest niepłaskie lub większe niż 100%. Ten problem może wystąpić z kilku powodów:
 
   - Jeśli klient wyniósł obroty pracownika i licencja została przeniesiona do nowego użytkownika.
 
@@ -77,7 +72,7 @@ Terminologia:
 
   - Jeśli klient ma subskrypcję wersji próbnej, działanie jest zliczane, ale subskrypcja nie jest naliczana w stosunku do łącznej liczby uprawnień.
 
-  - Jeśli niektórzy klienci używają usługi Yammer znacznie więcej niż są one uprawnione do licencji, może ona znacząco pochylić dane.
+  - Jeśli niektórzy klienci korzystają z usługi Yammer znacznie więcej niż są one uprawnione do ich licencji, może to znacząco pochylić dane.
 
 ## <a name="next-steps"></a>Następne kroki
 
@@ -87,7 +82,7 @@ Jeśli masz pole z wieloma pytaniami i odpowiedziami, numery przyjmowania na Two
 
 **Problem**: szybkość przyjmowania użytkowników jest niska i wiele licencji nie jest używanych.
 
-**Co należy wziąć pod uwagę**: klienci mogą nie zrozumieć korzyści, jakie zapewnia oprogramowanie. Potrzebują oni pomocy w planowanie sposobów ich dołączenia do swoich dni, aby uprościć zadania, które już wykonuje, lub aby umożliwić nowe rodzaje produktywności.
+**Co należy wziąć pod uwagę**: klienci mogą nie zrozumieć korzyści, jakie zapewnia oprogramowanie. Potrzebują oni pomocy przy planowanie sposobów ich dołączenia do swoich dni, aby uprościć zadania, które już wykonuje, lub aby umożliwić nowe rodzaje produktywności.
 
 **Co należy wykonać**: analizy przypadków, opinie użytkowników dotyczące określonych scenariuszy, blogów samouczków lub filmów wideo.
 

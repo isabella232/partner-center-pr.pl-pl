@@ -9,22 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d441d121c28c2762d1f1c71d6f6a1e81d089f99c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e83c06c11638bdde508fd27904038bcb6d8c9e9c
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92529278"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132642"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Migrate Dynamics 365 Business Edition Offers to newer versions (Migrowanie ofert usługi Dynamics 365 Business Edition do nowszych wersji)
 
-**Dotyczy**
-
-- Centrum partnerskie
-
 **Odpowiednie role**
+
 - Administrator globalny
-- Administrator użytkowników
+- Administrator zarządzania użytkownikami
 - Agent administracyjny
 - Agent sprzedaży
 
@@ -32,7 +29,7 @@ Od 1 stycznia 2019 klienci korzystający z subskrypcji Dynamics 365 Business Edi
 
 Aby zapewnić ciągłość dla klientów, należy przenieść te osoby z wygasanymi subskrypcjami do obsługiwanej opcji, wymienione poniżej. Zalecamy przeniesienie klientów do nowych subskrypcji przed roczną datą końcową subskrypcji, aby uniknąć przerwy w działaniu usługi dla klientów.
 
-W przypadku korzystania z interfejsu API (SZCZYTu lub Centrum partnerskiego) można wyszukać wygasające subskrypcje, oceniając datę końcową subskrypcji wraz z właściwością autorenew = false. W przypadku tej subskrypcji zostanie ustawiona wartość autorenew = false 1 stycznia 2019. Klientów można przenieść do nowego planu w dowolnym momencie. 
+W przypadku korzystania z interfejsu API (SZCZYTu lub Centrum partnerskiego) można wyszukać wygasające subskrypcje, oceniając datę końcową subskrypcji wraz z właściwością autorenew = false. Dla podanych subskrypcji zostanie ustawiona wartość autorenew = false 1 stycznia 2019. Klientów można przenieść do nowego planu w dowolnym momencie. 
 
 ## <a name="the-dynamics-365-business-editions-being-retired"></a>Wycofywane wersje systemu Dynamics 365 Business
 

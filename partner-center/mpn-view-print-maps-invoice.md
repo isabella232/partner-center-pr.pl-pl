@@ -9,36 +9,32 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4102dae63c07a85993f1cf4a9a9dc91e42ee493a
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: b61fd5c3c68b3bbd9396cf55a53c22b85523d976
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92529337"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132795"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Faktury i podatki w Microsoft Partner Network
-
-**Dotyczy**
-
-- Centrum partnerskie
 
 **Odpowiednie role**
 
 - Administrator globalny
-- Administrator użytkowników
+- Administrator zarządzania użytkownikami
 - Administrator partnerski MPN
 - Administrator rozliczeń
 - Agent administracyjny
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>Wyświetlanie lub pobieranie faktury dotyczącej członkostwa w usłudze MPN
 
-Wykonaj poniższe kroki, aby wyświetlić lub pobrać końcową fakturę dla zamówienia powiązanego z członkostwem w Microsoft Partner Network. Faktury są ogólnie dostępne dziesięć dni po zakończeniu płatności. Aby uzyskać dodatkowe informacje, skontaktuj się z regionalnym centrum usług.  
+Wykonaj poniższe kroki, aby wyświetlić lub pobrać końcową fakturę dla zamówienia powiązanego z członkostwem w Microsoft Partner Network. Faktury są ogólnie dostępne 10 dni po zakończeniu płatności. Aby uzyskać dodatkowe informacje, skontaktuj się z regionalnym centrum usług.  
 
 Aby wykonać tę procedurę, trzeba być administratorem globalnym lub administratorem partnera MPN. 
 
 1.  Zaloguj się do [Centrum partnerskiego](https://partner.microsoft.com/dashboard/home) przy użyciu swojego konta służbowego, a następnie wybierz pozycję **MPN** w menu po lewej stronie.
 
-4.  Z listy rozwijanej wybierz pozycję **oferty członkostwa** , aby zobaczyć oferty dostępne do zakupu, a także faktury dostępne dla bieżącego roku rejestracji. Aby wyświetlić faktury z poprzednich lat, wybierz pozycję **Wygasłe**.
+4.  Z listy rozwijanej wybierz pozycję **oferty członkostwa** , aby zobaczyć oferty dostępne do zakupu oraz faktury dostępne dla bieżącego roku rejestracji. Aby wyświetlić faktury z poprzednich lat, wybierz pozycję **Wygasłe**.
 
 6.  Wybierz żądaną fakturę, a następnie wybierz pozycję **Pobierz fakturę**. 
 

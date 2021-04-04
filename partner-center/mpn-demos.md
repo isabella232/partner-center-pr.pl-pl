@@ -8,21 +8,21 @@ ms.subservice: partnercenter-mpn
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 458f055dc55d6026ec042c4c40766635d229c08b
-ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
+ms.openlocfilehash: 26162b4164d3bb8f1572c460f431efab056e1a8a
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "100083250"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132591"
 ---
 # <a name="demos-for-mpn-partners--microsoft-365-dynamics-365-teams-and-more"></a>Pokazy dla partnerów MPN — Microsoft 365, Dynamics 365, zespołów i innych
 
-**Odpowiednie role**:
+**Odpowiednie role**
 
 - Administrator partnerski MPN
 - Administrator konta
 
-Microsoft Partner Network oferuje szeroki zakres pokazów dla partnerów Silver, Gold i Action Pack.
+Microsoft Partner Network (MPN) oferuje szeroką gamę pokazów dla partnerów Silver, Gold i Action Pack.
 
 ## <a name="access-mpn-demos"></a>Dostęp do pokazów MPN
 

@@ -9,24 +9,21 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bbd2aceac62a7e726ed81a78305ea23213c94156
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 8a9662e0ce99fc054149dfbd4149532ce336eff6
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "92529177"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132625"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrate Office 365 E4 subscriptions to newer Office 365 versions (Migrowanie subskrypcji usługi Office 365 E4 do nowszych wersji usługi Office 365)
 
-**Dotyczy**
-
--  Centrum partnerskie
-
 **Odpowiednie role**
--   Administrator globalny
--   Administrator użytkowników
--   Agent administracyjny
--   Agent sprzedaży
+
+- Administrator globalny
+- Administrator zarządzania użytkownikami
+- Agent administracyjny
+- Agent sprzedaży
 
 Plan programu Office 365 Enterprise E4 został wycofany, obowiązuje 7 kwietnia 2017. Nie można już kupić nowych subskrypcji programu Office 365 E4 po tej dacie, a istniejące subskrypcje E4 nie będą odnawiane automatycznie po ich wygaśnięciu.
 
@@ -54,7 +51,7 @@ Możesz korzystać z tych samych funkcji z E4 lub korzystać z nowszych funkcji 
 - Opcja 4: Office 365 Enterprise E3
 
 
-| Cechy | Opcja 1 | Opcja 2 | Opcja 3 | Opcja 4 |
+| Cecha | Opcja 1 | Opcja 2 | Opcja 3 | Opcja 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
 | Pobrać wszystkie funkcje zawarte w pakiecie Office 365 Enterprise E4? | Tak | Tak | Tak | Nie |
 | Numery telefonów zarządzane w pakiecie Office 365? | Tak | Tak | Nie | Nie |
@@ -77,21 +74,21 @@ Wykonaj następujące kroki, aby zmigrować subskrypcję pakietu Office 365 Ente
 
 ### <a name="step-1---purchase-the-new-subscription"></a>Krok 1 — kupowanie nowej subskrypcji
 
-1. W menu **Centrum partnerskiego** wybierz pozycję **klienci** , wybierz klienta, który chcesz przenieść, a następnie wybierz pozycję **Dodaj subskrypcje** .
+1. W menu **Centrum partnerskiego** wybierz pozycję **klienci**, wybierz klienta, który chcesz przenieść, a następnie wybierz pozycję **Dodaj subskrypcje**.
 
-2. Wybierz subskrypcję, którą chcesz kupić z wykazu (w tym przypadku jedną z opcji powyżej), wprowadź liczbę licencji, a następnie wybierz pozycję **Prześlij** .
+2. Wybierz subskrypcję, którą chcesz kupić z wykazu (w tym przypadku jedną z opcji powyżej), wprowadź liczbę licencji, a następnie wybierz pozycję **Prześlij**.
 
    Klient powinien mieć teraz zarówno stare, jak i nowe subskrypcje, starszą subskrypcję pakietu Office 365 Enterprise E4 i nową subskrypcję "target", na przykład opcję 1 — pakiet Office 365 Enterprise E5.
 
 ### <a name="step-2---reassign-the-customers-users-licenses"></a>Krok 2. przypisanie licencji użytkownika klienta
 
-1. W menu **Centrum partnerskiego** wybierz pozycję **klienci** , wybierz klienta, który chcesz przenieść, a następnie wybierz pozycję **Użytkownicy i licencje** . Zostanie otwarta strona użytkownicy i licencje klienta.
+1. W menu **Centrum partnerskiego** wybierz pozycję **klienci**, wybierz klienta, który chcesz przenieść, a następnie wybierz pozycję **Użytkownicy i licencje**. Zostanie otwarta strona użytkownicy i licencje klienta.
 
-2. Aby ponownie przypisać licencje użytkowników, wybierz użytkownika, który ma zostać przypisana, a następnie wybierz pozycję **Zarządzaj licencjami** .
+2. Aby ponownie przypisać licencje użytkownika, wybierz użytkownika, którego chcesz przypisać ponownie, a następnie wybierz pozycję **Zarządzaj licencjami**.
 
 3. Na stronie **Zarządzanie licencjami** wyczyść pole wyboru licencja **Office 365 Enterprise E4** , a następnie wybierz nowy plan usługi dla subskrypcji, do której będzie przenoszony klient.
 
-4. Wybierz pozycję **Prześlij** . Na stronie potwierdzenia wyświetlane są nowe przypisania licencji.
+4. Wybierz pozycję **Prześlij**. Na stronie potwierdzenia wyświetlane są nowe przypisania licencji.
 
 5. Kontynuuj te same kroki dla wszystkich innych użytkowników klienta, którzy potrzebują ponownego przypisania licencji.
 
@@ -99,17 +96,17 @@ Po przeniesieniu licencji użytkownika do nowej usługi możesz bezpiecznie anul
 
 ### <a name="step-3---cancel-the-old-subscription"></a>Krok 3. Anulowanie starej subskrypcji
 
-1. W menu **Centrum partnerskiego** wybierz pozycję **Customers** . Wybierz klienta, który chcesz przenieść, a następnie wybierz subskrypcję, którą chcesz anulować.
+1. W menu **Centrum partnerskiego** wybierz pozycję **Customers**. Wybierz klienta, który chcesz przenieść, a następnie wybierz subskrypcję, którą chcesz anulować.
 
-2. Na stronie Szczegóły subskrypcji Ustaw stan subskrypcji na **zawieszone** .
+2. Na stronie Szczegóły subskrypcji Ustaw stan subskrypcji na **zawieszone**.
 
-3. Wybierz pozycję **Prześlij** .
+3. Wybierz pozycję **Prześlij**.
 
 Stara subskrypcja jest zawieszona, a nowa subskrypcja jest aktywna. Zawieszona subskrypcja zostanie cofnięta automatycznie po 120 dniach. Klient nie wiąże się z żadnymi dodatkowymi kosztami dla starej subskrypcji.
 
 
 
- 
+ 
 
 
 

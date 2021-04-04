@@ -8,19 +8,19 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: de833ae713fe88335103e9dbaa96153ad20ec84e
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756128"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133050"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Rejestracja za pomocą Centrum partnerskiego jako partnera szkoleniowego firmy Microsoft
 
 **Odpowiednie role**
 
 - Administrator partnerski MPN
-- Administrator konta MPN
+- Administrator konta
 
 W tym artykule opisano różne sposoby rejestrowania przez partnera w Microsoft Partner Network w programie partnerskim nauki.
 
@@ -50,7 +50,7 @@ Uczenie Action Pack jest wpisem na poziomie podstawowym do programu partnerskieg
 
 Usługa Uczenie Action Pack obsługuje partnerów, którzy chcą dostarczać usługi szkoleń, oferty lub zniżki w witrynie Marketplace i korzyści płynące z pomocy partnerów stają się ekspertami w różnych wierszach produktów firmy Microsoft.
 
-Partnerzy niezajmujący się nauką mogą zakupić oprogramowanie szkoleniowe za pełną cenę wyłącznie za szkolenia wewnętrzne. Jeśli chcesz dostarczyć zawartość spoza organizacji, potrzebna jest jedna certyfikowana Trainer firmy Microsoft (1 MCT) i będzie konieczne zarejestrowanie się w celu uczenia się Action Pack.
+Partnerzy niezajmujący się nauką mogą zakupić oprogramowanie szkoleniowe za pełną cenę wyłącznie za szkolenia wewnętrzne. Jeśli chcesz dostarczyć zawartość spoza organizacji, potrzebna jest jedna certyfikowana Trainer firmy Microsoft (jedna MCT) i będzie konieczne zarejestrowanie się w celu uczenia się Action Pack.
 
 Po osiągnięciu wymaganych wskaźników KPI można wykonać dodatkowe wymagania i wybrać opcję przeprowadzenia uaktualnienia do opcji uczenie Silver/Gold.
 
@@ -109,7 +109,7 @@ Skontaktuj się z [pomocą techniczną teraźniejszości partnera](https://partn
 
 Raporty wskaźnika KPI są aktualizowane raz w miesiącu w połowie miesiąca. Uprawnienie do odnawiania programów edukacyjnych jest mierzone dla wskaźników KPI uzyskanych w ciągu poprzednich 12 miesięcy działania wydajności na podstawie daty rocznicy. Na przykład od 15 stycznia 2020 dane wskaźnika KPI będą wyświetlane w okresie 2019 stycznia do grudnia 2019. Jeśli faktura zakończyła się z dniem 2020 stycznia, odpowiednie wskaźniki KPI byłyby widoczne od 15 lutego 2019. **Potwierdzenia zamówień i raporty partnerów nie zostaną zaakceptowane.** Tylko rzeczywiste faktury zostaną zaakceptowane.
 
-### <a name="q-does-a-one-day-training-equate-to-1-kpi"></a>PYTANIE: Czy jednorazowe szkolenie jest równe 1 wskaźnikowi KPI?
+### <a name="q-does-a-one-day-training-equate-to-one-kpi"></a>PYTANIE: Czy jednodniowe szkolenie jest równe jednemu wskaźnikowi KPI?
 
 Spełnienie wskaźnika KPI nie odnosi się do czasu trwania szkolenia. Aby dowiedzieć się więcej na temat sposobu mierzenia wskaźników KPI, zapoznaj się z przykładami dotyczącymi wydajności w [przewodniku rejestracji partnerów szkoleniowych](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/).
 

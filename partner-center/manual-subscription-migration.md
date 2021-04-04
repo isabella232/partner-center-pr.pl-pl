@@ -9,30 +9,27 @@ author: Brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8575d87ab3c4c7970135a87b7ef7564c4fe06232
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 363c97b8c2b62e8d6b62cbe3b2807fb3c0ef3e38
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92529281"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132744"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Migrowanie usługi Dynamics 365 i planu Customer Engagement Plan z warstwy Podstawowa (zakwalifikowane oferty) do nowszych wersji
 
-**Dotyczy**
-
--  Centrum partnerskie
-
 **Odpowiednie role**
--   Administrator globalny
--   Administrator użytkowników
--   Agent administracyjny
--   Agent sprzedaży
+
+- Administrator globalny
+- Administrator zarządzania użytkownikami
+- Agent administracyjny
+- Agent sprzedaży
 
 Od 1 stycznia 2019 klienci z planem Dynamics 365 for Sales/Customer Engagement z subskrypcji Basic (z ofertami kwalifikowanymi) nie mogą już odnowiać tych starszych ofert; istniejące subskrypcje nie będą odnawiane automatycznie po ich wygaśnięciu. Na stronie szczegółów subskrypcji stan subskrypcji zmieni się na "wygasa w dniu [Date]" z "autonews w dniu [Date]". 
 
 Aby zapewnić ciągłość dla klientów, należy przenieść te osoby z wygasanymi subskrypcjami do obsługiwanej opcji, wymienione poniżej. Zalecamy przeniesienie klientów do nowych subskrypcji przed roczną datą końcową subskrypcji, aby uniknąć przerwy w działaniu usługi dla klientów.
 
-W przypadku korzystania z interfejsu API (SZCZYTu lub Centrum partnerskiego) można wyszukać wygasające subskrypcje, oceniając datę końcową subskrypcji wraz z właściwością autorenew = false. W przypadku tej subskrypcji zostanie ustawiona wartość autorenew = false 1 stycznia 2019. Klientów można przenieść do nowego planu w dowolnym momencie. 
+W przypadku korzystania z interfejsu API (SZCZYTu lub Centrum partnerskiego) można wyszukać wygasające subskrypcje, oceniając datę końcową subskrypcji wraz z właściwością autorenew = false. Dla podanych subskrypcji zostanie ustawiona wartość autorenew = false 1 stycznia 2019. Klientów można przenieść do nowego planu w dowolnym momencie. 
 
 ### <a name="the-dynamics-365-offers-being-retired"></a>Oferty dla systemu Dynamics 365 są wycofywane
 
@@ -107,9 +104,9 @@ Po przeniesieniu licencji do nowej subskrypcji można anulować starą subskrypc
 2. Na stronie Szczegóły subskrypcji Ustaw starą subskrypcję na **zawieszoną** i wybierz pozycję **Prześlij**.
 
 Stara subskrypcja jest zawieszona, a nowa subskrypcja jest aktywna. Zawieszona subskrypcja zostanie cofnięta automatycznie po 120 dniach. Klient nie będzie miał dodatkowych kosztów dla starej subskrypcji.
- 
+ 
 
- 
+ 
 
 
 

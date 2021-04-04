@@ -1,29 +1,31 @@
 ---
-title: Pliki uzgadniania oparte na licencji
+title: Pliki uzgodnień na podstawie licencji
 ms.topic: article
 ms.date: 05/18/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Informacje o sposobie odczytywania plików uzgadniania opartych na licencjach w centrum partnerskim. W tym artykule opisano znaczenie każdego pola w pliku Rekonesans opartego na licencji.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86581db73f1bf2b6660af45aca4747a5db779bbe
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: bc97156d23fa4ea1082a0ad4a931ff36375897a7
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92529377"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178922"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Informacje o polach w plikach uzgodnień opartych na licencji Centrum partnerskiego
 
 **Dotyczy**
 
-- Centrum partnerskie
-- Centrum partnerskie dla Microsoft Cloud dla instytucji rządowych USA
+- Centrum partnerskie w chmurze firmy Microsoft dla instytucji rządowych
 
 **Odpowiednie role**
+
 - Administrator globalny
-- Administrator użytkowników
+- Administrator zarządzania użytkownikami
 - Administrator rozliczeń
 - Agent administracyjny
 
@@ -44,12 +46,12 @@ Aby uzgodnić zmiany z zamówieniami klienta, porównaj **Syndication_Partner_Su
 | OfferId | Unikatowy identyfikator oferty. Identyfikator oferty standardowej, zgodnie z definicją w cenniku. *Ta wartość nie jest zgodna z **identyfikatorem oferty** z cennika. Zamiast tego zobacz **DurableOfferID** .* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
 | DurableOfferId | Unikatowy identyfikator oferty trwałej, zgodnie z definicją w cenniku. *Ta wartość jest zgodna z **identyfikatorem oferty** z cennika.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
 | OfferName | Nazwa oferty usługi zakupionej przez klienta zgodnie z definicją w cenniku. | *Microsoft Office 365 (plan E3)* |
-| SubscriptionStartDate | Data rozpoczęcia subskrypcji. Godzina to zawsze początek dnia, 0:00. To pole jest ustawione na dzień po przesłaniu zamówienia. Używany w połączeniu z **SubscriptionEndDate** do określenia: Jeśli klient jest w pierwszym roku subskrypcji, lub jeśli subskrypcja została odnowiona przez następny rok. | *2/1/2019 0:00* |
+| SubscriptionStartDate | Data rozpoczęcia subskrypcji. Godzina to zawsze początek dnia, 0:00. To pole jest ustawione na dzień po przesłaniu zamówienia. Używany z **SubscriptionEndDate** do określenia: Jeśli klient nadal znajduje się w pierwszym roku subskrypcji lub odnowieniu subskrypcji przez następny rok. | *2/1/2019 0:00* |
 | SubscriptionEndDate | Data zakończenia subskrypcji. Godzina to zawsze początek dnia, 0:00. *12 miesięcy i **x** dni po dacie rozpoczęcia* do dopasowania do daty rozliczenia partnera lub *12 miesięcy od daty odnowienia*. Po odnowieniu ceny są aktualizowane na bieżącą listę cenową. Przed automatycznym odnowieniem może być wymagana komunikacja z klientem. | *2/1/2019 0:00* |
 | ChargeStartDate | Początkowy dzień opłat. Godzina to zawsze początek dnia, 0:00. Służy do obliczania opłat dziennych (opłaty *pro rata* ), gdy klient zmieni numery licencji. | *2/1/2019 0:00* |
 | ChargeEndDate | Dzień końcowy opłat. Czas jest zawsze koniec dnia, 23:59. Służy do obliczania opłat dziennych (opłaty *pro rata* ), gdy klient zmieni numery licencji. | *2/28/2019 23:59* |
 | ChargeType | [Typ opłaty](recon-file-charge-types.md) lub korekty. | Zobacz [typy opłat](recon-file-charge-types.md). |
-| Cena jednostkowa | Cena za licencję publikowana w priceList w momencie zakupu. Upewnij się, że są one zgodne z informacjami przechowywanymi w systemie rozliczeniowym podczas uzgadniania. | *6,82* |
+| UnitPrice | Cena za licencję publikowana w cenniku w momencie zakupu. Upewnij się, że są one zgodne z informacjami przechowywanymi w systemie rozliczeniowym podczas uzgadniania. | *6,82* |
 | Liczba | Liczba licencji. Upewnij się, że są one zgodne z informacjami przechowywanymi w systemie rozliczeniowym podczas uzgadniania. | *2* |
 | Kwota | Łączna cena za ilość. Służy do sprawdzania, czy Obliczanie kwoty jest zgodne z sposobem obliczania tej wartości dla klientów. | *13,32* |
 | TotalOtherDiscount | Kwota rabatu zastosowana do tych opłat. Licencje na produkty dołączone do kompetencji lub map lub nowe subskrypcje kwalifikujące się do bodźca będą również zawierać kwotę rabatu w tej kolumnie. | *2,32* |

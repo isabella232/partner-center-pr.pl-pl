@@ -1,21 +1,21 @@
 ---
 title: Rozliczanie operatorów mobilnych — Microsoft Store
 description: Microsoft Store oferuje rozliczenia operatora komórkowego jako formę płatności dla operatorów mobilnych, którzy obsługują tę funkcję.
-ms.date: 05/29/2020
+ms.date: 04/01/2021
 ms.service: partner-dashboard
 ms.topic: article
 ms.author: hickeys
 author: hickeys
 keywords: Windows 10, platformy UWP, operatorzy mobilni, rozliczenia mobilne, rozliczenia operatora komórkowego
 ms.localizationpriority: medium
-ms.openlocfilehash: 010451506df0d6115a8e1b4781e6fb40ab8853bb
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 5556da39b252f5004cd7d1828310743875a8da7f
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "92530111"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178820"
 ---
-# <a name="mobile-operator-billing"></a>Rozliczanie operatorów mobilnych
+# <a name="mobile-operator-billing"></a>Rozliczenia operatora komórkowego
 
 > [!NOTE]
 > Jeśli szukasz pomocy technicznej dotyczącej wypłat, w tym konfigurowania kont płatnych, brakujących wypłat, naliczania wypłat lub wszystkiego innego, skontaktuj się z pomocą techniczną [tutaj](https://developer.microsoft.com/windows/support).
@@ -35,17 +35,19 @@ Następujące operatory mobilne obecnie obsługują rozliczanie operatorów mobi
 | Austria              | A1 Telekom, Hutchison 3G, T-Mobile/tele. Ring  |
 | Belgia              | Base, Proximus                                          |
 | Kanada               | Telus                                                   |
-| Czechia              | T-Mobile                                                |
+| Czechia              | T-Mobile, Vodafone, O2                                  |
 | Dania              | 3, TDC/YouSee, firma Telenor, Telia                         |
 | Finlandia              | DNA, ELISA                                              |
 | Francja               | Orange                                                  |
 | Niemcy              | O2, Telekom Deutschland, Vodafone                       |
 | Węgry              | Telenor                                                 |
-| Włochy                | Tre, wiatr                                               |
+| Włochy                | Tre, wiatr, Vodafone                                     |
+| Korea                | SK Telecom                                              |
 | Malezja             | Firmy                                                    |
-| Holandia          | KPN / Telfort                                           |
+| Holandia          | KPN/Telfort, Vodafone                                 |
 | Norwegia               | Firma Telenor/Talkmore, Telia/OneCall                     |
-| Polska               | Pomarańczowy, Odtwórz                                            |
+| Polska               | Pomarańczowy, Odtwórz, T-Mobile                                  |
+| Arabia Saudyjska         | STC                                                     |
 | Singapur            | M1 Limited, StarHub                                     |
 | Słowacja             | Telekom słowacki                                          |
 | Republika Południowej Afryki         | Vodacom                                                 |
@@ -56,4 +58,4 @@ Następujące operatory mobilne obecnie obsługują rozliczanie operatorów mobi
 | Turcja               | Turkcell                                                |
 | Zjednoczone Emiraty Arabskie | Etisalat                                                |
 | Stany Zjednoczone        | Przebieg, Verizon                                         |
-| Zjednoczone Królestwo       | 3 Zjednoczone Królestwo, EE, O2, Vodaphone                                 |
+| Zjednoczone Królestwo       | 3 Zjednoczone Królestwo, EE, O2, Vodafone                                 |

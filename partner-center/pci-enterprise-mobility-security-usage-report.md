@@ -8,16 +8,17 @@ description: Zobacz, co Ci się robi, i w jaki sposób możesz udoskonalić korz
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 48577571e77bd0181b78e01558a07edd1a3b925d
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: c62e074c7329ada33390b77be13c523660344d49
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98147107"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086281"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Raport użycia Enterprise Mobility + Security dostępny na pulpicie nawigacyjnym usługi Partner Center Insights
 
 **Odpowiednie role**
+
 - Administrator globalny
 - Agent administracyjny
 - Podgląd raportów
@@ -38,7 +39,7 @@ Raport użycia Enterprise Mobility + Security zawiera dane dotyczące użycia dl
 
 Sekcja podsumowania przedstawia widok migawki kluczowych wskaźników związanych z Enterprise Mobility + Security subskrypcjami użycia, które zostały sprzedane lub którymi zarządza klient. 
 
-- Nowe subskrypcje: Łączna liczba subskrypcji sprzedawanych lub zarządzanych w wybranym przedziale czasu.
+- Nowe subskrypcje: całkowita liczba subskrypcji sprzedawanych lub zarządzanych w wybranym przedziale czasu.
 
    Micro Chart prezentuje trend miesięczny nowej subskrypcji dla wybranego zakresu dat.
 
@@ -54,7 +55,7 @@ Sekcja podsumowania przedstawia widok migawki kluczowych wskaźników związanyc
 
 ## <a name="enterprise-mobility--security-usage-by-geography"></a>Enterprise Mobility + Security użycia według lokalizacji geograficznej
 
-**Enterprise Mobility + Security użycie według lokalizacji geograficznej** przedstawia rozkład miesięcznych aktywnych użytkowników (Mau) i płatnych jednostek (Pau) według kraju klienta. MAU zapoznaj się z liczbą licencji używanych w poprzednim miesiącu, a PAU odnosi się do liczby płatnych miejsc sprzedanych lub zarządzanych w wybranym przedziale czasu. Jaśniejsze kolory na mapie przedstawiają mniejsze wartości, a ciemne kolory reprezentują wyższe wartości. Możesz wyszukać i wybrać kraj w siatce. Możesz również powiększyć w celu bliższego wyglądu.
+**Enterprise Mobility + Security użycie według lokalizacji geograficznej** przedstawia rozkład miesięcznych aktywnych użytkowników (Mau) i płatnych jednostek (Pau) według kraju klienta. MAU odnosi się do liczby licencji używanych w poprzednim miesiącu, a PAU odnosi się do liczby płatnych miejsc sprzedanych lub zarządzanych w wybranym przedziale czasu. Jaśniejsze kolory na mapie przedstawiają mniejsze wartości, a ciemne kolory reprezentują wyższe wartości. Możesz wyszukać i wybrać kraj w siatce. Możesz również powiększyć w celu bliższego wyglądu.
 
 **Liczba tabeli kraje/region** przedstawia łączne kraje/regiony, w których są generowane zdarzenia użycia platformy Azure.
 

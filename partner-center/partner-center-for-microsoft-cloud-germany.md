@@ -1,5 +1,5 @@
 ---
-title: Centrum partnerskie dla Microsoft Cloud (Niemcy)
+title: Centrum partnerskie dla Microsoft Cloud Niemcy
 ms.topic: article
 ms.date: 10/12/2020
 ms.service: partner-dashboard
@@ -9,23 +9,23 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 606806f3796796873c37f6dfcac35e5993efe575
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: f36d7c0e99600d9de63d4e6377a2b3688a043885
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530466"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086519"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Centrum partnerskie dla Microsoft Cloud Niemiec dla partnerów sprzedawanych klientom w krajach Unii Europejskiej & EFTA
 
 **Dotyczy**
 
--  Centrum partnerskie dla Microsoft Cloud (Niemcy)
+- Centrum partnerskie dla Microsoft Cloud Niemcy
 
 **Odpowiednie role**
 
 - Administrator globalny
-- Administrator użytkowników
+- Administrator zarządzania użytkownikami
 - Agent administracyjny
 - Agent sprzedaży
 - Administrator rozliczeń
@@ -41,7 +41,7 @@ Microsoft Cloud Niemcy udostępnia osobne wystąpienie [Microsoft Azure](https:/
 
 ## <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Migrowanie klientów z Microsoft Cloud Niemiec do innego regionu Europejskiego
 
-Aby można było przeprowadzić migrację subskrypcji klienta z Microsoft Cloud Niemcy do innego regionu Europejskiego, musisz mieć istniejące konto CSP, które znajduje się w tym regionie, i jest aktywne. Jeśli go nie masz, zostanie wyświetlony monit o utworzenie go podczas wybierania konta CSP w centrum partnerskim. Po utworzeniu nowego konta klienci zostaną skojarzeni z wybranym dzierżawcą.
+Aby móc migrować subskrypcję klienta z Microsoft Cloud Niemcy do innego regionu Europejskiego, musisz mieć istniejące konto dostawcy rozwiązań w chmurze (CSP) znajdujące się w tym regionie i jest aktywne. Jeśli go nie masz, zostanie wyświetlony monit o utworzenie go podczas wybierania konta CSP w centrum partnerskim. Po utworzeniu nowego konta klienci zostaną skojarzeni z wybranym dzierżawcą.
 
 ### <a name="you-already-have-a-csp-account"></a>Masz już konto CSP
 
@@ -49,11 +49,11 @@ Aby można było przeprowadzić migrację subskrypcji klienta z Microsoft Cloud 
 
 1. Przejdź do strony Przegląd dostawcy usług kryptograficznych z menu po lewej stronie.
  
-1. Po wyświetleniu monitu wybierz pozycję **mam już dzierżawę w regionie europejskim** , a następnie wybierz pozycję **dalej** . Zostanie wyświetlony monit o zalogowanie się do nowej dzierżawy. 
+1. Po wyświetleniu monitu wybierz pozycję **mam już dzierżawę w regionie europejskim**, a następnie wybierz pozycję **dalej**. Zostanie wyświetlony monit o zalogowanie się do nowej dzierżawy. 
 
 1. Zaloguj się do dzierżawy jako Administrator globalny.
  
-1. Przejrzyj informacje na stronie potwierdzenie, a następnie wybierz pozycję **Potwierdź** .
+1. Przejrzyj informacje na stronie potwierdzenie, a następnie wybierz pozycję **Potwierdź**.
  
 6.  Jeśli to się powiedzie, zostanie wyświetlony monit o wybranie opcji **Wyświetl szczegóły** lub **Wyświetl pulpit nawigacyjny** , aby uzyskać więcej informacji. 
 
@@ -69,11 +69,11 @@ Aby można było przeprowadzić migrację subskrypcji klienta z Microsoft Cloud 
 
 ### <a name="you-dont-already-have-a-csp-account"></a>Nie masz jeszcze konta CSP
 
-1. Zaloguj się do dostawcy CSP Microsoft Cloudj dzierżawy w Niemczech jako Administrator globalny.
+1. Zaloguj się do dostawcy usług w Microsoft Cloud Niemcy jako Administrator globalny.
 
 1. Przejdź do strony Przegląd dostawcy usług kryptograficznych w menu po lewej stronie.
-. 
-1. Po wyświetleniu monitu wybierz pozycję **nie mam dzierżawy w regionie europejskim** , a następnie wybierz pozycję **Utwórz nowe konto** . 
+ 
+1. Po wyświetleniu monitu wybierz pozycję **nie mam dzierżawy w regionie europejskim**, a następnie wybierz pozycję **Utwórz nowe konto**. 
  
 1. Nastąpi przekierowanie na stronę rejestracji Centrum partnerskiego, na której można utworzyć nowe konto dzierżawy i dostawcę CSP w regionie europejskim.
   

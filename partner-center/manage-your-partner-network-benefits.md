@@ -9,23 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c42533027977853322a0bf815e3b1d387d8ad88
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.openlocfilehash: 8fc5566b780c10a953cfb322ad13ce7373dc87cd
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932848"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133101"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Zarządzaj korzyściami z członkostwa w Microsoft Partner Network i ofertami w centrum partnerskim
-
-**Dotyczy**
-
-- Centrum partnerskie
 
 **Odpowiednie role**
 
 - Administrator globalny
-- Administrator użytkowników
+- Administrator zarządzania użytkownikami
 - Agent administracyjny
 - Administrator partnerski MPN
 
@@ -45,7 +41,7 @@ Pakiety korzyści obejmują alokacje licencjonowanego oprogramowania, usług Clo
 
 Aby wyświetlić wszystkie korzyści z członkostwa i zarządzać nimi, przejdź na stronę [ **korzyści**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (wymagane jest zalogowanie się). Alternatywnie możesz zalogować się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego, wybierz opcję [**korzyści**] z menu po lewej stronie, a następnie wybierz pozycję Wszystkie opcje korzyści.  
 
-Aby aktywować większość korzyści lub pobrać powiązane klucze oprogramowania itp., centrum partnerskie zwykle wymaga, aby ktoś przypisał rolę administratora globalnego lub administratora MPN partnera. Jeśli nie widzisz żadnych korzyści lub nie możesz aktywować korzyści, skontaktuj się z administratorem globalnym Centrum partnerskiego, aby upewnić się, że masz odpowiednie uprawnienia. [Dowiedz się więcej o rolach Centrum partnerskiego](permissions-overview.md).
+Aby aktywować większość korzyści lub pobrać powiązane klucze oprogramowania, centrum partnerskie zwykle wymaga, aby ktoś przypisał rolę administratora globalnego lub administratora MPN partnera. Jeśli nie widzisz żadnych korzyści lub nie możesz aktywować korzyści, skontaktuj się z administratorem globalnym Centrum partnerskiego, aby upewnić się, że masz odpowiednie uprawnienia. [Dowiedz się więcej o rolach Centrum partnerskiego](permissions-overview.md).
 
 ## <a name="manage-software-benefits"></a>Zarządzanie korzyściami z oprogramowania
 
@@ -76,18 +72,18 @@ Istnieją dwa typy subskrypcji opartych na użyciu, które można odbierać, w z
 Możesz obsługiwać:
 
 - $100 miesięcznie (lub równoważne w walucie lokalnej) miesięczne środki na korzystanie z platformy Azure lub/i
-- $6000, $12000 lub/i $13000/Year (lub każda z nich jest równoważna w walucie lokalnej) — środki na korzystanie z systemu Azure
+- $6 000, $12 000 lub/i $13000/Year (lub każda z nich jest równoważna w walucie lokalnej) — środki na korzystanie z systemu Azure
 
 Aby aktywować subskrypcję usługi Microsoft Azure w centrum partnerskim, należy przypisać dostęp do użytkownika w ramach firmy (w tym użytkowników-Gości), który ma wpis użytkownika utworzony w Azure Active Directory.
 W przypadku subskrypcji $100/miesięcznie (lub równoważnej w walucie lokalnej) miesięcznych środków na korzystanie z platformy Azure możesz w dowolnym momencie dodać lub usunąć użytkowników z tej usługi. 
 
-W przypadku środków na korzystanie z usługi Azure Bulk (rocznie) opcja Usuń nie jest dostępna w centrum partnerskim, ale po roku rejestracji można przenieść środki zbiorcze do innej osoby. Nie można łączyć subskrypcji środków na korzystanie z platformy Azure zbiorczo (rocznie) z innymi ofertami licencjonowania, przedpłatowymi lub kredytowymi (tj. Microsoft Umowa Enterprise, partner rozwiązań w chmurze, Azure in Open, Azure — dostęp próbny, Action Pack itp.).
+W przypadku środków na korzystanie z usługi Azure Bulk (rocznie) opcja Usuń nie jest dostępna w centrum partnerskim, ale po roku rejestracji można przenieść środki zbiorcze na inną osobę. Nie można łączyć subskrypcji środków na korzystanie z platformy Azure (rocznie) z innymi ofertami licencjonowania, przedpłatowymi lub kredytowymi (to oznacza, że firma Microsoft Enterprise Agreement, partner rozwiązań w chmurze, platforma Azure w ramach usługi Open, Azure — dostęp próbny, Action Pack itd.).
 
 ## <a name="license-based-subscriptions"></a>Subskrypcje oparte na licencji
 
-W sekcji subskrypcje oparte na licencji na karcie produkty w chmurze platformy Azure & znajdziesz wszystkie produkty w chmurze, które wymagają klucza produktu do aktywacji, takie jak Microsoft O365, Microsoft Dynamics Microsoft Intune, Azure AD Basic, Power BI itd., które są oferowane w zależności od typu oferty, która jest aktywna jako partner MPN — MAPS, Silver lub Gold.
+Sekcja subskrypcje oparte na licencji na karcie produkty w chmurze platformy Azure & zawiera listę wszystkich produktów w chmurze, które wymagają klucza produktu do aktywacji, takich jak Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic i Power BI. Typ oferty, który jest aktywny jako partner MPN — MAPS, Silver lub Gold-kontroluje, które produkty są wymienione.
 
-Aby aktywować subskrypcje oparte na licencji, kliknij symbol listy rozwijanej w wierszu wraz z produktem zainteresowania i zapoznaj się z instrukcjami dotyczącymi sposobu korzystania z kluczy. Po przeczytaniu instrukcji wybierz link umożliwiający przekierowanie do portalu w celu zrealizowania kluczy oraz przypisanego klucza dla produktu.
+Aby aktywować subskrypcje oparte na licencji, kliknij symbol listy rozwijanej w wierszu wraz z produktem zainteresowania i zapoznaj się z instrukcjami dotyczącymi sposobu korzystania z kluczy. Po przeczytaniu instrukcji wybierz link umożliwiający przekierowanie do portalu w celu zrealizowania kluczy i przypisanego klucza dla produktu.
 
 >[!IMPORTANT]
 >Należy pamiętać, że po zrealizowaniu klucza nie można wykonać tego samego klucza, dlatego należy się upewnić, że należy dodać więcej licencji (siedzeń) lub zwiększyć datę końcową. Jeśli zdecydujesz się dodać więcej licencji i nie przekroczyć daty zakończenia, system udostępni Ci mniej niż 12 miesięcy aktywnej subskrypcji. Upewnij się, że zalogowano się przy użyciu poprawnych poświadczeń w celu aktywowania kluczy w poprawnej dzierżawie.

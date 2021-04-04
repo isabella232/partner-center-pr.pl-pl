@@ -1,5 +1,5 @@
 ---
-title: Pulpit nawigacyjny szkolenia usługi Insights.
+title: Pulpit nawigacyjny szkoleń szczegółowych informacji
 ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
@@ -9,16 +9,17 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10646cb4ecc6c48c5187c96740a2c05610c9d3cc
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: bad11a2f480aaa229708a3e9a108466a130b4127
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530556"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086247"
 ---
 # <a name="trainings-dashboard"></a>Pulpit nawigacyjny szkoleń
 
 **Odpowiednie role**
+
 - Executive — Podgląd raportów
 - Podgląd raportów
 
@@ -34,28 +35,28 @@ Pulpit nawigacyjny szkolenia zawiera szczegółowe informacje o certyfikatach, o
 
 ## <a name="summary"></a>Podsumowanie
 
-Sekcja podsumowania przedstawia widok migawki z różnymi wskaźnikami wydajności związanymi z szkoleniami. Różne wskaźniki wydajności są certyfikowanymi osobami, certyfikatami, osobami z poświadczeniami egzaminów, poświadczeniami egzaminów, osobami z poświadczeniami oceny i poświadczeniami oceny. Dane w tej sekcji są odświeżane w oparciu o wybrany zakres dat, który może mieć trzy miesiące (3M), sześć miesięcy (6 min) & 12 miesięcy (1Y) lub niestandardowy zakres danych (niestandardowy). 
+Sekcja podsumowania przedstawia widok migawki z różnymi wskaźnikami wydajności związanymi z szkoleniami. Różne wskaźniki wydajności są certyfikowanymi osobami, certyfikatami, osobami z poświadczeniami egzaminów, poświadczeniami egzaminów, osobami z poświadczeniami oceny i poświadczeniami oceny. Dane w tej sekcji są odświeżane w oparciu o wybrany zakres dat, który może mieć trzy miesiące (3M), sześć miesięcy (6 min) i 12 miesięcy (1Y) lub niestandardowy zakres danych (niestandardowy). 
 
 :::image type="content" source="images/pci/td-summary.png" alt-text="Podsumowanie":::
 
-- **Osoby z certyfikatami** : określa liczbę odrębnych osób z certyfikatami w firmie.
-- **Liczba certyfikatów** : reprezentuje łączną liczbę certyfikatów podejmowanych przez użytkowników w firmie.
-- **Osoby z ocenami** : reprezentuje liczbę odrębnych osób z poświadczeniami oceny w firmie. 
-- **Licznik ocen** : przedstawia łączną liczbę ocen podejmowanych przez użytkowników w firmie.
-- **Osoby z badaniami** : przedstawiają liczbę odrębnych osób z poświadczeniami badania w firmie. 
-- **Liczba badań** : reprezentuje łączną liczbę badań wykonanych przez poszczególne osoby w firmie.
+- **Osoby z certyfikatami**: określa liczbę odrębnych osób z certyfikatami w firmie.
+- **Liczba certyfikatów**: reprezentuje łączną liczbę certyfikatów podejmowanych przez użytkowników w firmie.
+- **Osoby z ocenami**: reprezentuje liczbę odrębnych osób z poświadczeniami oceny w firmie. 
+- **Licznik ocen**: przedstawia łączną liczbę ocen podejmowanych przez użytkowników w firmie.
+- **Osoby z badaniami**: przedstawiają liczbę odrębnych osób z poświadczeniami badania w firmie. 
+- **Liczba badań**: reprezentuje łączną liczbę badań wykonanych przez poszczególne osoby w firmie.
 
 ## <a name="training-performance"></a>Wydajność szkoleń
 
-Wydajność szkolenia przedstawia miesięczną liczbę osób indywidualnych i szkolenia wykonywane przez poszczególne osoby w firmie. Jest on dzielony przez certyfikaty, oceny i egzaminy w formie wykresu dla wybranego zakresu dat. Oś X przedstawia miesiące dla wybranego zakresu dat. Oś Y reprezentuje odrębną liczbę osób i liczbę wykonanych szkoleń dla wybranego typu szkolenia. Kliknij odpowiednie karty powyżej wykresu, aby wyświetlić podział według typu szkoleniowego. Dane wykresu można pobrać za pomocą ikony pobierania w formacie TSV dla wybranego zakresu dat.
+Wydajność szkolenia przedstawia miesięczną liczbę osób indywidualnych i szkolenia wykonywane przez poszczególne osoby w firmie. Jest on dzielony przez certyfikaty, oceny i egzaminy w formie wykresu dla wybranego zakresu dat. Oś X przedstawia miesiące dla wybranego zakresu dat. Oś Y reprezentuje odrębną liczbę osób i liczbę wykonanych szkoleń dla wybranego typu szkolenia. Wybierz odpowiednie karty powyżej wykresu, aby wyświetlić podział według typu szkoleniowego. Dane wykresu można pobrać za pomocą ikony pobierania w formacie TSV dla wybranego zakresu dat.
 
-:::image type="content" source="images/pci/td-training-performance.png" alt-text="Podsumowanie":::
+:::image type="content" source="images/pci/td-training-performance.png" alt-text="Wydajność szkoleń":::
 
 ## <a name="individuals-performance"></a>Wydajność poszczególnych użytkowników
 
 Sekcja "wydajność poszczególnych użytkowników" przedstawia szczegóły szkolenia wykonywanego przez poszczególne osoby w firmie dla wybranego zakresu dat. Wyszukaj i wybierz nazwę osoby w lewym panelu w sekcji. Szczegóły szkolenia dla wybranej osoby są wyświetlane w prawym panelu sekcji.
 
-:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Podsumowanie":::
+:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Indiviual wydajność":::
 
 >[!NOTE] 
 > Sekcja wydajność poszczególnych osób jest dostępna tylko dla użytkowników, którzy są użytkownikami programu Executive w raportach. 

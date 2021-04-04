@@ -9,21 +9,14 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84dcb87f4a5594fdcd3a7099e12331a9e4459b38
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 94bcde2402b7276bef8eaaf84975f2a5677723fe
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "92529293"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133118"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Manage different leads like customer inquiries, marketing-qualified leads, and sales-qualified leads (Zarządzanie różnymi typami potencjalnych klientów: wywodzących się bezpośrednio z klientów, zakwalifikowanych za pośrednictwem kanału marketingowego i zakwalifikowanych przez sprzedawców)
-
-**Dotyczy**
-
-- Centrum partnerskie
-- Odwołań
-- Dostawca rozwiązań firmy Microsoft
-- Profile biznesowe
 
 **Odpowiednie role**
 
@@ -46,9 +39,9 @@ Warunkiem wstępnym do odebrania potencjalnych klientów jest [utworzenie profil
 
 Sekcja potencjalni klienci zawiera trzy karty najwyższego poziomu. 
 
-**Potencjalni klienci z portalu Marketplace** — wszyscy potencjalni klienci pochodząci ze strony dostawcy rozwiązań firmy Microsoft wyszukują zapytania klientów.
+**Potencjalni klienci w portalu Marketplace** — to wszyscy potencjalni klienci pochodzący ze strony dostawcy rozwiązań firmy Microsoft wyszukują zapytania klientów.
 
-**Kwalifikujące się potencjalni klienci** — wszyscy potencjalni klienci typu kwalifikowana kwalifikacje i sprzedaż kwalifikowana są dostępni na tej karcie.
+**Zakwalifikowani potencjalni klienci** — są to wszyscy potencjalni klienci typu kwalifikowanego do marketingu i sprzedaży.
 
 **Ulubione** — na tej karcie zostaną wyświetlone wszystkie potencjalni klienci, którzy są oznaczeni jako Ulubione na karcie potencjalni klienci Marketplace lub zakwalifikowani potencjalni klienci. Dowolny potencjalny klient można oznaczyć jako ulubiony, klikając ikonę serca w obszarze potencjalnego klienta w widoku listy. Możesz usunąć potencjalnego klienta z ulubionych, klikając ponownie tę samą ikonę.
 
@@ -62,7 +55,7 @@ Na tym etapie otrzymujesz nowego potencjalnego klienta bezpośrednio od klienta 
 
 W tym etapie można wykonać dwie akcje — Zaakceptuj lub Odrzuć odwołanie:
 
-- **Zaakceptuj:** Wprowadź nazwę transakcji, szacowaną wartość transakcji i szacowany okres zakupu. Należy również podać informacje w polu **uwagi** , aby dowiedzieć się więcej o tym, czego szuka klient. Opcjonalnie możesz wprowadzić identyfikator programu CRM (tylko dla celów referencyjnych), identyfikator kampanii marketingowej, co spowodowało odpowiednie potencjalnego klienta i dodać dodatkowe kontakty z firmy. Gdy skończysz, wybierz pozycję **dalej**. Przeniesiemy odwołanie na **kolejny etap**, co oznacza, że planujesz aktywnie współpracować z klientem w celu rozwiązania ich potrzeb. Będziemy również używać tych informacji, aby pomóc w znalezieniu podobnych transakcji w przyszłości. 
+- **Zaakceptuj**: Wprowadź nazwę transakcji, szacowanej wartości transakcji i szacowanego przedziału czasu zakupu. Należy również podać informacje w polu **uwagi** , aby dowiedzieć się więcej o tym, czego szuka klient. Opcjonalnie możesz wprowadzić identyfikator programu CRM (tylko dla celów referencyjnych), identyfikator kampanii marketingowej, co spowodowało odpowiednie potencjalnego klienta i dodać dodatkowe kontakty z firmy. Gdy skończysz, wybierz pozycję **dalej**. Przeniesiemy odwołanie na **kolejny etap**, co oznacza, że planujesz aktywnie współpracować z klientem w celu rozwiązania ich potrzeb. Będziemy również używać tych informacji, aby pomóc w znalezieniu podobnych transakcji w przyszłości. 
 
 - **Odrzuć**: Wybierz przyczynę odrzucenia transakcji i Dodaj wszelkie uwagi, które chcesz dołączyć, a następnie wybierz pozycję **Zamknij** . Archiwizujemy go jako **odrzucony** i powiadomi klienta, aby wybrać innego partnera.
 
@@ -85,15 +78,15 @@ Jest to etap terminalu, w którym wszystkie możliwości są ostatecznie dostęp
 
 Oto kilka porad ułatwiających uzyskanie bardziej odpowiednich odwołań:
 
-- **Wybierz słowa kluczowe i preferencje, które reprezentują unikatowy i specjalistyczny model biznesowy** w [profilu biznesowym](create-a-marketing-profile.md). Usuń słowa kluczowe, które generują odwołania, które nie są zainteresowane. Jeśli nie interesują Cię przedsiębiorstwami o określonym rozmiarze, zaktualizuj te Preferencje.
+- **Wybierz słowa kluczowe i preferencje, które reprezentują unikatowy i specjalistyczny model biznesowy w [profilu biznesowym](create-a-marketing-profile.md)**. Usuń słowa kluczowe, które generują odwołania, które nie są zainteresowane. Jeśli nie interesują Cię przedsiębiorstwami o określonym rozmiarze, zaktualizuj te Preferencje.
 
-- **Przejrzyj swoje informacje kontaktowe w [profilu biznesowym](create-a-marketing-profile.md) dla każdej lokalizacji** Upewnij się, że Twój zespół otrzymuje alerty przychodzące.
+- **Przejrzyj swoje informacje kontaktowe w [profilu biznesowym](create-a-marketing-profile.md) dla każdej lokalizacji**. Upewnij się, że Twój zespół otrzymuje alerty przychodzące.
 
-- **Szybkie reagowanie na odwołania** Gdy w odpowiednim czasie zaczniesz reagować na żądania przychodzące, Zwiększmy widoczność w przyszłych wynikach wyszukiwania klientów. Upewnij się, że zespół szybko odpowie z zamiarem.
+- **Szybko reaguj na odwołania**. Gdy w odpowiednim czasie zaczniesz reagować na żądania przychodzące, Zwiększmy widoczność w przyszłych wynikach wyszukiwania klientów. Upewnij się, że zespół szybko odpowie z zamiarem.
 
-- **Choosy z zaakceptowanymi przez Ciebie ofertami** Monitorujemy typy transakcji, które można zaakceptować i odrzucić, i użyć tych informacji, aby pomóc w znalezieniu podobnych transakcji. Akceptowanie transakcji, które nie są dobrym dopasowaniem, nie poprawi wyników wyszukiwania i może mieć wpływ na jakość otrzymywanych potencjalnych klientów.
+- **Choosy z zaakceptowanymi przez Ciebie ofertami**. Monitorujemy typy transakcji, które można zaakceptować i odrzucić, i użyć tych informacji, aby pomóc w znalezieniu podobnych transakcji. Akceptowanie transakcji, które nie są dobrym dopasowaniem, nie poprawi wyników wyszukiwania i może mieć wpływ na jakość otrzymywanych potencjalnych klientów.
 
-- **Zgłoś ponownie szacowane rozmiary transakcji, daty zamknięcia i końcowy status Twoich transakcji** (wygrane lub utracone). Będziemy używać tych informacji, aby w dalszym ciągu udostępniać dane dotyczące jakości.
+- **Zgłoś ponownie szacowane rozmiary transakcji, daty zamknięcia i końcowy status Twoich transakcji (wygrane lub utracone)**. Będziemy używać tych informacji, aby w dalszym ciągu udostępniać dane dotyczące jakości.
 
 ## <a name="next-steps"></a>Następne kroki
 

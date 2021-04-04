@@ -9,19 +9,19 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0787056d8d32db4a2975f7488bb65141c240ff88
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529877"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132659"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Przeniesienie wielu firm do Centrum partnerskiego z Centrum członkostwa w partnerze (PMC)
 
 **Odpowiednie role**
 
 - Administrator globalny
-- Administrator użytkowników
+- Administrator zarządzania użytkownikami
 - Agent administracyjny
 - Agent sprzedaży
 
@@ -80,7 +80,7 @@ Szczegóły są oparte na informacjach w PMC i zostaną zweryfikowane w celu zap
 
 Jeśli konto, które chcesz przenieść, znajduje się w tym samym kraju lub regionie co istniejące konto, możesz zdecydować, czy chcesz użyć tego adresu, czy dodać inny. Jeśli zdecydujesz się użyć innego adresu, ten adres zostanie zweryfikowany. Jeśli chcesz użyć tego samego adresu, zostanie użyty istniejący adres i kontakt podstawowy.
 
-Po sprawdzeniu/edytowaniu informacji na tym ekranie kliknij przycisk Prześlij, a Twoje konta zostaną skonsolidowane.
+Po sprawdzeniu/edytowaniu informacji na tym ekranie wybierz pozycję **Prześlij** , a Twoje konta zostaną skonsolidowane.
 
 ## <a name="partner-profile"></a>Profil partnera
 

@@ -9,19 +9,19 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 464a277cc62f8b3349e8f7957106b902081eded8
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 5561c2e183c1dc50b573f89769da27317c83ba00
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556399"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086536"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Kwota uzyskana przez partnera — przegląd sposobu działania w nowym środowisku handlowym w programie CSP
 
 **Odpowiednie role**
 
 - Administrator globalny
-- Administrator użytkowników
+- Administrator zarządzania użytkownikami
 - Agent administracyjny
 - Administrator rozliczeń
 - Agent sprzedaży
@@ -30,7 +30,7 @@ ms.locfileid: "96556399"
 
 Cennik może być wyzwaniem dla wielu klientów i partnerów, szczególnie w przypadku, gdy rozważasz tysiące usług na platformie Azure i masz wiele opcji zakupu. W nowym środowisku handlowym dla platformy Azure zostały wyrównane do pojedynczych globalnych zasad cenowych, które mają zastosowanie do wszystkich przeniesień transakcyjnych. Partnerzy programu CSP mogą oferować platformę Azure w ramach opublikowanych cen. Dzięki temu klienci mają większą przejrzystość i kompilują zaufanie.
 
-Wymagania dotyczące transformacji cyfrowej naszych klientów zmieniają charakter wartości oferowanej przez partnerów. Wielu klientów przeszukuje partnerów w celu świadczenia usług powyżej i poza nią. Takie usługi mogą pomóc im w wygładzeniu podróży z chmurą i pomóc im efektywnie korzystać z usług platformy Azure. Te usługi są włączone i obejmują monitorowanie, zasady i zarządzanie nieruchomościami platformy Azure, Konfigurowanie i Konfigurowanie precyzyjnego dostrajania, pomoc techniczną i różne inne usługi. 
+Wymagania dotyczące transformacji cyfrowej naszych klientów zmieniają charakter wartości oferowanej przez partnerów. Wielu klientów przeszukuje partnerów w celu świadczenia usług powyżej i poza nią. Takie usługi mogą pomóc im w wygładzeniu podróży z chmurą i pomóc im efektywnie korzystać z usług platformy Azure. Te usługi są włączone i obejmują monitorowanie, zasady i zarządzanie nieruchomościami platformy Azure, Konfigurowanie i Konfigurowanie precyzyjnej kontroli, pomoc techniczną i różne inne usługi. 
 
 Te usługi wymagają, aby partner był zarówno bardzo zaznajomiony ze środowiskiem platformy Azure klienta, jak i stałym i odpowiednim nadzorem nad zasobami, którymi zarządzają. Partnerzy rozliczeń, którzy zapewnią to 24-krotne działanie usługi Cloud-Operations Management, będą kwalifikować się do uzyskania środków na korzystanie z **usług** w ramach platformy Azure i kontrolowanej przez partnera.
 
@@ -51,7 +51,7 @@ Gdy klienci przechodzą na platformę obliczeniową w chmurze, są oni w stanie 
 
 Klienci będą mogli lepiej wykorzystać swoją firmę hostowaną na platformie Azure. Dzięki usługom zarządzanym można regularnie udostępniać klientom usługę dokładne. Niektóre codzienne operacje i pomoc techniczną mogą obejmować:
 
-- **Cloud Operations and Management Services**: klienci szukają partnerów firmy Microsoft w celu obniżenia kosztów na platformie Azure podczas odtwarzania odizolowanych, zasad zabezpieczeń i modeli inspekcji, które już dzisiaj. Oczekują one również, że partnerzy mają dostęp do dojrzałych narzędzi do określania przydatności do obciążeń, a także do jednorazowego wdrożenia i okresowych kosztów operacyjnych platformy Azure. Ponadto klienci potrzebują wsparcia dla automatyzacji i aranżacji, poprawek aktualizacji, zarządzania konfiguracją, tworzenia kopii zapasowych i odzyskiwania po awarii oraz zarządzania tożsamościami. 
+- **Cloud Operations and Management Services**: klienci szukają partnerów firmy Microsoft w celu obniżenia kosztów na platformie Azure podczas odtwarzania odizolowanych, zasad zabezpieczeń i modeli inspekcji, które już dzisiaj. Oczekują one również, że partnerzy mają dostęp do dojrzałych narzędzi do identyfikowania przydatnych obciążeń oraz jednorazowych wdrożeń i okresowych kosztów operacyjnych platformy Azure. Ponadto klienci potrzebują wsparcia dla automatyzacji i aranżacji, poprawek aktualizacji, zarządzania konfiguracją, tworzenia kopii zapasowych i odzyskiwania po awarii oraz zarządzania tożsamościami. 
 
 - **Monitorowanie chmur i pomoc techniczna**: w świecie użycia chmury, narzędzia i wymagania zostały rozwijające się, ale problem z znalezieniem odpowiedniego zasobu do zarządzania infrastrukturą IT nie został zmieniony. Większość organizacji po prostu nie ma czasu, zasobów lub dedykowanego personelu wymaganego do monitorowania każdego aspektu tego elementu. jest to sytuacja, w której zaufany partner może dodać największą wartość. Mimo że platforma Azure oferuje wielu wbudowanym partnerom możliwości monitorowania, którzy udostępniają dodatkowe, bardziej zaawansowane narzędzia do monitorowania, klasyfikacja fałszywie dodatnich alertów, a aktywnie działają na alertach, zanim będzie konieczna niezbędna utrata wydajności. 
 
@@ -62,7 +62,7 @@ Klienci będą mogli lepiej wykorzystać swoją firmę hostowaną na platformie 
 
 - Usługa **log Analytics i alerty**: każdy klient, urządzenie i użytkownik uzyskujący dostęp do sieci tworzą zarejestrowane dane. Analizowanie dzienników może oferować dokładniejsze informacje o wydajności, zabezpieczeniach, zużyciu zasobów i innych istotnych metrykach.
 
-- **Monitorowanie bazy danych**: widok bazy danych klienta, który pomaga partnerom zapewnić wysoką dostępność serwerów baz danych. Proces ten obejmuje przechowywanie dzienników rozmiaru, czasu połączenia i użytkowników baz danych, analizowanie trendów użycia i wykorzystywanie danych do aktywnego korygowania problemów.
+- **Monitorowanie bazy danych**: widok bazy danych klienta, który pomaga partnerom zapewnić wysoką dostępność serwerów baz danych. Proces ten obejmuje przechowywanie dzienników rozmiaru, czasu połączenia i użytkowników baz danych, analizowanie trendów użycia i korzystanie z danych w celu aktywnego korygowania problemów.
 
 - **Monitorowanie wydajności aplikacji**: Kompleksowe śledzenie wszystkich aspektów aplikacji (lub strony sieci Web). Monitorowanie aplikacji obejmuje obserwowanie każdej części — od koszyków do stron rejestracyjnych — aplikacji klienta w przypadku problemów z wydajnością, aby zapewnić najlepsze środowisko użytkownika.
 

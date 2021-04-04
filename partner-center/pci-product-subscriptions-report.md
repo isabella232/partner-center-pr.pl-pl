@@ -9,22 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8df91ec4072b1873a240d42fa2382ebcc00b9bc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 019e489b4738515639bf181591dfbc671e1b795d
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92529561"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086196"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Raport subskrypcje produktów dostępny na pulpicie nawigacyjnym usługi Partner Center Insights
 
 **Odpowiednie role**
+
 - Administrator globalny
 - Agent administracyjny
 - Podgląd raportów
 - Executive — Podgląd raportów
 
-Raport subskrypcje produktów przedstawia analizę w ramach subskrypcji w chmurze sprzedawanych przez użytkownika lub zarządzanych przez klientów. Jest to raport specyficzny dla produktu, który obejmuje wydajność subskrypcji skojarzonych z produktami w chmurze, takimi jak Office 365, Azure, Dynamics itp.
+Raport subskrypcje produktów przedstawia analizę w ramach subskrypcji w chmurze sprzedawanych przez użytkownika lub zarządzanych przez klientów. Jest to raport specyficzny dla produktu, który obejmuje wydajność subskrypcji skojarzonych z produktami w chmurze, takimi jak Office 365, Azure, Dynamics i innych.
 
 Poniższe sekcje można wyświetlić w raporcie subskrypcje produktów.
 
@@ -44,7 +45,7 @@ Sekcja podsumowania przedstawia widok migawki kluczowych wskaźników wydajnośc
 
 :::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="Podsumowanie raportu dotyczącego subskrypcji":::
 
-Więcej informacji na temat każdej sekcji podsumowania znajduje się poniżej.
+Aby uzyskać więcej informacji na temat każdej sekcji podsumowania, zobacz poniżej:
 
 - Subskrypcje:
   - Bieżąca liczba subskrypcji produktu w chmurze sprzedawanych lub zarządzanych przez użytkownika.
@@ -70,7 +71,7 @@ Więcej informacji na temat każdej sekcji podsumowania znajduje się poniżej.
 
 ## <a name="geographical-spread-of-subscriptions"></a>Geograficzne rozmieszczenie subskrypcji
 
-Widok **subskrypcje według** lokalizacji geograficznej pokazuje rozkład geograficzny łącznej liczby subskrypcji według rynków klientów. Łączna kwota subskrypcji obejmuje sprzedane subskrypcje i aktywne subskrypcje.
+Widok **subskrypcje według** lokalizacji geograficznej przedstawia dystrybucję geograficzną łącznej liczby subskrypcji według rynków klientów. Łączna kwota subskrypcji obejmuje sprzedane subskrypcje i aktywne subskrypcje.
 
 **Liczba krajów/** regionów w tabeli zawiera łączną liczbę krajów/regionów, w których masz subskrypcje, a także kwotę za kraj z łącznej i aktywnej subskrypcji.
 
@@ -88,13 +89,13 @@ Skumulowany wykres kolumnowy przedstawia podział nowych, istniejących i zmieni
 
 ## <a name="subscription-distribution"></a>Dystrybucja subskrypcji
 
-Ten widok przedstawia podział bieżących subskrypcji według lokalizacji MPN, segmentów klientów, kanału sprzedaży/modelu cen platformy Azure oraz typu przypisywania (np. DPOR, DAP itp.). Kliknij odpowiednie karty, aby wyświetlić podział według tych kategorii. Aby skompilować wykres kołowy z podziałem określonych kategorii elementów, wybierz te kategorie elementów w legendzie.
+Ten widok przedstawia podział bieżących subskrypcji według lokalizacji MPN, segmentów klientów, kanału sprzedaży/modelu cen platformy Azure oraz typu przypisywania (na przykład DPOR, DAP i inne). Wybierz odpowiednie karty, aby wyświetlić podział według tych kategorii. Aby skompilować wykres kołowy z podziałem określonych kategorii elementów, wybierz te kategorie elementów w legendzie.
 
 :::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="Dystrybucja subskrypcji":::
 
 ## <a name="subscription-state-distribution"></a>Dystrybucja stanu subskrypcji
 
-Ten widok przedstawia dystrybucję bieżących subskrypcji klienta według stanu subskrypcji lub stanu. Obejmuje to następujące stany subskrypcji: **aktywne**, **wyłączone**, cofnięcie aprowizacji, **otwarte**, **InGracePeriod**, **zamknięte** i **inne**. **Deprovisioned**
+Ten widok przedstawia dystrybucję bieżących subskrypcji klienta według stanu subskrypcji lub stanu. Obejmuje to następujące stany subskrypcji: **aktywne**, **wyłączone**, cofnięcie aprowizacji, **otwarte**, **InGracePeriod**, **zamknięte** i **inne**. 
 
 :::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="Dystrybucja stanu subskrypcji":::
 

@@ -8,13 +8,13 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.date: 07/08/2020
-ms.openlocfilehash: 45a088129d09395abf355efde08c772744b98672
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.date: 03/31/2021
+ms.openlocfilehash: 3f84026cc6402bea71837b06a5e330f2c879a06b
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474091"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103795"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analizuj subskrypcje i licencje, aby pomóc Ci w podejmowaniu decyzji w firmie i nowych celach
 
@@ -28,6 +28,10 @@ ms.locfileid: "96474091"
 Decyzje biznesowe na dyskach danych. Metryki na stronie **subskrypcja i analiza licencji** umożliwiają identyfikowanie twoich sukcesów i obszarów, które wymagają większej uwagi. Te informacje służą do planowania nowych celów firmy.
 
 **Przychód TTM dostawcy usług kryptograficznych (USD)**: Ta Metryka reprezentuje zagregowany przychód dostawcy CSP (USD) dla końcowego 12 miesięcy (TTM) dla konta lokalizacji partnera i konta globalnego partnera (PGA), z którym jest skojarzone to konto dostawcy CSP. Jeśli masz inne konta CSP z innym PGAem, musisz zalogować się do każdego z nich, aby wyświetlić odpowiedni zagregowany przychód TTM.  Kliknij link Szczegóły pobierania, aby uzyskać podział przychodu TTM (USD) na identyfikator MPN.
+
+>[!NOTE]
+>Ceny w walucie lokalnej (starsze wersje Commerce FX) w komercyjnych są zarządzane w ramach +/-5% dolarów amerykańskich. Starsza wersja kursów (FX) firmy Microsoft różni się od kursów dotyczących rozliczeń FX używanych przez platformę Azure w nowoczesnych doświadczeniach handlowych. Współczesne kursy w ramach rozliczeń dla handlu elektronicznego są oparte na stawkach Microsoft P&L (kursy w firmie Reuters FX z kanału skarbowego). Starsze stawki w handlu FX są poufne firmy Microsoft.
+
 
 Pozostała część raportu może być przestawiana na podstawie następujących produktów:
 
@@ -82,6 +86,8 @@ Pozostała część raportu może być przestawiana na podstawie następujących
 **Subskrypcje wersji próbnej kończące się w ciągu 30 dni**  
 
  - Lista rozpoczętych prób, gdzie Data zakończenia przypada w ciągu 30 dni, a nie istnieje płatna Data rozpoczęcia skojarzona z subskrypcją  
+
+
 
 ## <a name="next-steps"></a>Następne kroki
 

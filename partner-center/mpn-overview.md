@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a3b00db6b48d95da58cdc130832ba5dc1ab990f
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 4e7ff0ae1f5ca99cee25e3fa8740212d0b697f70
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556382"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132948"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Partner z firmą Microsoft i odkryj korzyści z członkostwa
 
@@ -22,10 +22,10 @@ ms.locfileid: "96556382"
 
 - Administrator globalny
 - Administrator partnerski MPN
-- Administrator użytkowników
+- Administrator zarządzania użytkownikami
 - Agent administracyjny
 
-Microsoft Partner Network (MPN) zapewnia szeroką gamę produktów w branży, a także opcje programu w celu rozróżnienia firmy, przejścia na rynek i sprzedaży rozwiązań. Dołącz bez kosztów, a następnie wybierz sposób inwestowania w partnerstwo z pakietem akcji firmy Microsoft, startowym zestawem lub kompetencją.
+Microsoft Partner Network (MPN) zapewnia szeroką gamę produktów z opcji branżowych i programowych w celu rozróżnienia swojej firmy, przejścia na rynek i sprzedaży rozwiązań. Dołącz bez kosztów, a następnie wybierz sposób inwestowania w partnerstwo z pakietem akcji firmy Microsoft, startowym zestawem lub kompetencją.
 
 Po dołączeniu do programu partnerskiego firmy Microsoft staje się częścią społeczności globalnej, która łączy się z relacjami, szczegółowymi narzędziami, zasobami i programami, które są potrzebne do Amaze klientów i zwiększania rozwoju firmy. Gdy osiągniesz cele biznesowe, weź udział w programie na poziomie, który odpowiada Twoim unikatowym potrzebom, aby uzyskać dostęp do większej liczby korzyści i rozwijać relacje z nami i innymi partnerami w sieci. 
 

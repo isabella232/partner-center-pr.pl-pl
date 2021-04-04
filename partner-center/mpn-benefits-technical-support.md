@@ -9,19 +9,20 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 6adf7039f6ad389f61c9cd0b5e4ad9454db06a5b
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712906"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133033"
 ---
 # <a name="technical-support-benefits"></a>Korzyści z pomocy technicznej
 
 **Odpowiednie role**
--   Administrator globalny 
--   Administrator partnerski MPN 
--   Agent administracyjny 
+
+- Administrator globalny
+- Administrator partnerski MPN
+- Agent administracyjny
 
 ## <a name="overview"></a>Omówienie
 
@@ -38,11 +39,11 @@ Aby wyświetlić i aktywować zalety techniczne w centrum partnerskim:
 2. Rozwiń pozycję zalety w menu nawigacji po lewej stronie, a następnie wybierz pozycję **zalety techniczne**. Na stronie korzyści techniczne zostanie wyświetlona lista korzyści z pomocy technicznej dla ofert związanych z subskrypcją Gold, Silver lub Microsoft Action Pack. 
 
     > [!NOTE]
-    >Jeśli nie masz aktywnych ofert członkostwa, zobaczysz komunikat "Wygląda na to, że nie masz jeszcze żadnych korzyści". Jeśli Twoja firma ma aktywne oferty członkostwa, ale nie możesz ich zobaczyć, być może zalogowano się przy użyciu niewłaściwego konta. Aby sprawdzić konto, kliknij ikonę **konta** w prawym górnym rogu strony, a następnie kliknij pozycję **Zaloguj się przy użyciu innego konta** (jeśli jest to wymagane).
+    >Jeśli nie masz aktywnych ofert członkostwa, zobaczysz komunikat "Wygląda na to, że nie masz jeszcze żadnych korzyści". Jeśli Twoja firma ma aktywne oferty członkostwa, ale nie możesz ich zobaczyć, być może zalogowano się przy użyciu niewłaściwego konta. Aby sprawdzić konto, wybierz ikonę **konta** w prawym górnym rogu strony i wybierz pozycję Zaloguj się **przy użyciu innego konta** (jeśli jest to wymagane).
 
 3. Aby rozpocząć korzystanie z pomocy technicznej produktów firmy Microsoft lub pomocy technicznej dotyczącej podpisu, należy aktywować korzyść. Po pomyślnej aktywacji zostanie wyświetlony identyfikator dostępu i identyfikator umowy. 
 
-    -   Aby aktywować korzyść, kliknij przycisk Aktywuj. Konto użytkownika używane do aktywacji wymaga ról administratora globalnego lub MPN partnera. Przetwórz żądanie aktywacji, poczekaj kilka dni. 
+    -   Aby aktywować korzyść, wybierz przycisk Aktywuj. Konto użytkownika używane do aktywacji wymaga ról administratora globalnego lub MPN partnera. Przetwórz żądanie aktywacji, poczekaj kilka dni. 
 
     - Jeśli zostanie wyświetlony identyfikator dostępu i identyfikator umowy, można skorzystać z pomocy technicznej produktów firmy Microsoft i podpisu. 
 
@@ -73,7 +74,7 @@ Identyfikator dostępu i identyfikator kontraktu będą potrzebne podczas pierws
 
 Każde konto użytkownika (AAD lub MSA) może korzystać z pomocy technicznej dla produktów lokalnych, jeśli mają one identyfikator dostępu i identyfikator umowy
 
-Kliknij pozycję [Obsługa dla firm](https://support.serviceshub.microsoft.com/supportforbusiness/create) , aby utworzyć żądanie pomocy technicznej dla produktu lokalnego.
+Wybierz pozycję [Pomoc techniczna dla firm](https://support.serviceshub.microsoft.com/supportforbusiness/create) , aby utworzyć żądanie obsługi dla produktu lokalnego.
 
 ## <a name="signature-cloud-support-cloud-only"></a>Obsługa podpisów w chmurze (tylko w chmurze)
 
@@ -83,13 +84,13 @@ Identyfikator dostępu i identyfikator kontraktu będą potrzebne podczas pierws
 
 Partnerzy programu CSP tworzący żądania platformy Azure mogą korzystać z planu pomocy technicznej "dostawca rozwiązań w chmurze" bez dodawania kontraktu pomocy technicznej.
 
-Użytkownicy z rolą **agenta administratora** mogą wybrać [klientów](https://partner.microsoft.com/commerce/customers/list) w ramach dostawcy CSP w menu nawigacji po lewej stronie, wybrać pozycję **Zarządzanie usługami** i kliknąć pozycję **nowe żądanie**.  Po wybraniu odpowiedniego obciążenia zostanie otwarty portal dotyczący obciążeń i zostanie dodany kontrakt pomocy technicznej i zostanie utworzone żądanie.
+Użytkownicy z rolą **agenta administracyjnego** mogą wybrać [klientów](https://partner.microsoft.com/commerce/customers/list) w ramach dostawcy CSP w menu nawigacji po lewej stronie, wybierz pozycję **Zarządzanie usługami** i wybierz pozycję **nowe żądanie**.  Po wybraniu odpowiedniego obciążenia zostanie otwarty portal dotyczący obciążeń i zostanie dodany kontrakt pomocy technicznej i zostanie utworzone żądanie.
 
 ## <a name="partner-support-plans"></a>Plany pomocy technicznej dla partnerów
 
 Możesz skorzystać z płatnej pomocy technicznej firmy Microsoft, która obejmuje pomoc techniczną i szereg dodatkowych opcji usługi. 
 
-[Plany pomocy technicznej partnerskiej można porównać](https://partner.microsoft.com/support/partnersupport) lub przedstawiono poniżej w przypadku planów zależnych od partnera:
+[Plany pomocy technicznej dla partnerów można porównać](https://partner.microsoft.com/support/partnersupport) z planami dotyczącymi partnera:
 
 - [Pomoc techniczna premium dla partnerów](https://partner.microsoft.com/support/microsoft-services-premier-support) — najwyższego poziomu pomocy technicznej firmy Microsoft
 - [Zaawansowana pomoc techniczna dla partnerów](https://partner.microsoft.com/support/advanced-cloud-support) — tylko produkty w chmurze

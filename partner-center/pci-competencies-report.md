@@ -9,28 +9,29 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d03533d69df4600879dbc90622b640a932ab069
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 292b5535bdcc40164e738ec967a689c51f6d8f47
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92529581"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086264"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Raport dotyczący kompetencji jest dostępny na pulpicie nawigacyjnym usługi Partner Center Insights
 
 **Odpowiednie role**
+
 - Administrator globalny
 - Agent administracyjny
 - Podgląd raportów
 - Executive — Podgląd raportów
 
-Kompetencje umożliwiają firmie prezentowanie możliwości technicznych w celu dostarczania rozwiązań firmy Microsoft. Kompetencje firmy Microsoft są przeznaczone do zaspokajania potrzeb klientów i prezentowania wiedzy klientom potencjalnych klientów. Są one bardzo bogate w korzyści od firmy Microsoft, takie jak uwzględnione ilości użycia platformy Azure, uprawnienia do produktów w chmurze, takie jak O365, pomoc techniczna, oferty z przechodzenia do rynku itp. Dzisiaj istnieje łącznie 19 kompetencji w ramach następujących kategorii: **aplikacja i infrastruktura**, **aplikacje biznesowe**, **dane i AI** oraz **nowoczesne miejsce pracy**. Kompetencje są przydzielone do poziomu srebra lub złota na przykład. Na wyższym poziomie można uzyskać dostęp do umiejętności Gold i skojarzony wyższy poziom zasobów marketingowych, ofert i programów.  
+Kompetencje umożliwiają firmie prezentowanie możliwości technicznych w celu dostarczania rozwiązań firmy Microsoft. Kompetencje firmy Microsoft są przeznaczone do zaspokajania potrzeb klientów i prezentowania wiedzy klientom potencjalnych klientów. Są one związane z korzyściami firmy Microsoft, takimi jak uwzględnione zasoby związane z korzystaniem z platformy Azure, uprawnienia do produktów w chmurze, takie jak Office 365, pomoc techniczna, oferty na rynku i inne. Obecnie istnieje łącznie 19 kompetencji w ramach następujących kategorii: **aplikacja i infrastruktura**, **aplikacje biznesowe**, **dane i AI** oraz **nowoczesne miejsce pracy**. Kompetencje są przydzielone do poziomu srebra lub złota na przykład. Na wyższym poziomie można uzyskać dostęp do umiejętności Gold i skojarzony wyższy poziom zasobów marketingowych, ofert i programów.  
 
 Jeśli dowiesz się więcej na temat cyklu życia kompetencji, osiągnięcia kompetencji i innych szczegółów raportów o kompetencjach, uzyskasz więcej informacji na temat tego raportu.
 
 ## <a name="competency-life-cycle"></a>Cykl życia kompetencji
 
-Od punktu widzenia cyklu życia partnerzy zaczynają od tworzenia kluczowych wskaźników wydajności (KPI), które są wymagane do uzyskania określonych kompetencji. Po osiągnięciu progu ustawionego dla danej kompetencji we wszystkich wymaganych metrykach stają się one **kwalifikowane** do kompetencji. Partnerzy mogą następnie zapłaciły za ofertę z kompetencją (Silver lub Gold) w celu uzyskania kompetencji i **uaktywnić** ją w ramach tej kompetencji. Stan **aktywny** dla kompetencji jest ważny przez rok od daty osiągnięcia kompetencji (jest to nazywane **datą rocznicy** dla kompetencji). Na koniec roku rocznicy partnerzy muszą spełniać wymagania dotyczące kompetencji. Jeśli te wymagania nie zostaną ponownie spełnione, nastąpi utrata kompetencji. Stan **zagrożony** wcześniej osiągniętą kompetencją oznacza, że niektóre kluczowe metryki są rzutowane w celu spadku poniżej wartości progowej według **daty rocznicy**.
+Od punktu widzenia cyklu życia partnerzy zaczynają od tworzenia kluczowych wskaźników wydajności (KPI), które są wymagane do uzyskania określonych kompetencji. Po osiągnięciu progu ustawionego dla danej kompetencji we wszystkich wymaganych metrykach stają się one **kwalifikowane** do kompetencji. Partnerzy mogą następnie zapłaciły za ofertę z kompetencją (Silver lub Gold) w celu uzyskania kompetencji i **uaktywnić** ją w ramach tej kompetencji. Stan **aktywny** dla kompetencji jest ważny przez rok od daty osiągnięcia kompetencji (jest to nazywane **datą rocznicy** dla kompetencji). Na koniec roku rocznicy partnerzy muszą spełniać wymagania dotyczące kompetencji. Jeśli te wymagania nie zostaną ponownie spełnione, zostaną utracone kompetencje. Stan **zagrożony** wcześniej osiągniętą kompetencją oznacza, że niektóre kluczowe metryki są rzutowane w celu spadku poniżej wartości progowej według **daty rocznicy**.
 
 ## <a name="competency-attainment"></a>Osiągnięcie kompetencji
 
@@ -53,7 +54,7 @@ W raporcie dotyczącym kompetencji są widoczne następujące sekcje:
 
 ### <a name="summary"></a>Podsumowanie
 
-Widok podsumowania przedstawia liczbę kompetencji wraz z ich nazwami na każdym poziomie kompetencji (Gold/Silver) na wszystkich etapach cyklu życia kompetencji. Etapy cyklu obowiązywania kompetencji obejmują: **uruchomione**, **kwalifikowane**, **aktywne** i zagrożone. **At risk** Przykład: wymagania dotyczące kompetencji w chmurze podlegają dwóm kategoriom: umiejętności i wydajności.
+Widok podsumowania przedstawia liczbę kompetencji wraz z ich nazwami na każdym poziomie kompetencji (Gold/Silver) na wszystkich etapach cyklu życia kompetencji. Etapy cyklu obowiązywania kompetencji obejmują: **uruchomione**, **kwalifikowane**, **aktywne** i zagrożone.  Przykład: wymagania dotyczące kompetencji w chmurze podlegają dwóm kategoriom: umiejętności i wydajności.
 
 - Rozpoczęto: liczba kompetencji, dla których istnieje co najmniej jedno podstawowe wymaganie.
 Podział wartości rozpoczętych według poziomu kompetencji (Silver/Gold) z nazwami kompetencji.

@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 66159d886914336180e8531ec07db3a9d8880a88
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712260"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103778"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Pola pliku uzgadniania zakupów jednorazowych dostawcy CSP
 
@@ -51,8 +51,8 @@ Aby uzyskać więcej informacji na temat plików uzgadniania, zobacz [Używanie 
 | PublisherId | Unikatowy identyfikator, którego centrum partnerskie używa do identyfikowania wydawcy. | *NA* |
 | SubscriptionDescription | Nazwa oferty usługi zakupionej przez klienta zgodnie z definicją w cenniku. Ta kolumna jest tym samym polem, aby Zaoferowaćname. | *Plan platformy Azure* |
 | SubscriptionId | Unikatowy identyfikator subskrypcji na platformie rozliczeń firmy Microsoft. Nieużywany do uzgadniania. Należy pamiętać, że ten identyfikator nie jest taki sam jak identyfikator subskrypcji w konsoli administracyjnej partnera. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
-| ChargeStartDate | Data Centrum partnerskiego opłaty za subskrypcję. W przypadku zakupu subskrypcji z rocznym okresem rozliczeniowym i comiesięcznym planem rozliczeniowym, a następnie w pierwszym pliku uzgodnienia jest to dzień, w którym zakupiona została subskrypcja. Począwszy od następnego pliku uzgodnienia, zostanie on zwiększony o 30 dni. | *9/1/2020* |
-| ChargeEndDate | Dzień końcowy opłat za cykl rozliczeniowy subskrypcji. W przypadku zakupu subskrypcji z rocznym okresem rozliczeniowym i comiesięcznym planem rozliczeniowym, a następnie w pierwszym pliku uzgodnienia jest to 30-dniowy dzień po zakupie subskrypcji. Począwszy od następnego pliku uzgodnienia, zostanie on zwiększony o 30 dni. | *2020-09-30* |
+| ChargeStartDate | Data rozpoczęcia okresu rozliczeniowego subskrypcji. | *9/1/2020* |
+| ChargeEndDate | Data zakończenia okresu rozliczeniowego subskrypcji. | *2020-09-30* |
 | TermAndBillingCycle | Czas trwania zobowiązania do kontynuowania subskrypcji w momencie zakupu. | *Dane przechowywane (GB/miesiąc)* |
 | EffectiveUnitPrice | Cena za jednostkę proporcjonalną do obliczenia kosztu cyklu rozliczeniowego. Rabaty, korekty w dniach rozliczeniowych i inne czynniki określają obowiązującą cenę jednostkową. Aby uzyskać więcej informacji, zobacz [efektywne Obliczanie cen jednostkowych](./effective-unit-price-calculation.md).  | *0,03825* |
 | UnitType | Typ jednostki, w której jest naliczany licznik. | *1 GB/miesiąc* |

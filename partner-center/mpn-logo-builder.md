@@ -9,18 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a60d83a79151d90ff98ead8d5be00c259a9cf4b3
-ms.sourcegitcommit: 673c467aa8ef4e02ff24fbc3e7d4f904316141e4
+ms.openlocfilehash: 40b2867695a7692cb863a00062101c2b5521c657
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104924265"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132404"
 ---
 # <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>Jak utworzyć logo partnera, certyfikat lub nagrody przy użyciu konstruktora logo
 
 **Odpowiednie role**
 
-- Wszyscy użytkownicy Centrum partnerskiego chcą uzyskać więcej informacji na temat konstruktora logo
+- Wszyscy partnerzy zainteresowani tym, aby dowiedzieć się więcej na temat konstruktora logo
 
 Korzyścią osiągnięcia kompetencji Silver lub Gold jest możliwość rozróżniania klientów. Logo, które może być używane w materiałach sprzedaży i marketingu oraz Twój profil biznesowy w centrum partnerskim, w celu zaprezentowania kompetencji lub kompetencji, które zostały uzyskane w ramach korzyści z kompetencji. 
 
@@ -28,7 +28,7 @@ Jeśli Użytkownik zaakceptował program MSP platformy Azure, otrzymał partnera
 
 ## <a name="what-is-available-in-logo-builder"></a>Co jest dostępne w konstruktorze logo
 
-Informacje dostępne dla Twojej firmy w programie logo Builder są wyrównane do członkostwa w Microsoft Partner Network (MPN). Zmiana przynależności do usługi MPN może potrwać do 24 godzin, na przykład w celu uzyskania nowej kompetencji.  
+Logo dostępne dla firmy w konstruktorze logo jest wyrównane do członkostwa Microsoft Partner Network (MPN). Zmiana przynależności do usługi MPN może potrwać do 24 godzin, na przykład w celu uzyskania nowej kompetencji.
 
 Zasoby, które można utworzyć w konstruktorze logo, obejmują następujące elementy:
 

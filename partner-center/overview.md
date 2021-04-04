@@ -8,16 +8,16 @@ description: Korzystaj z Centrum partnerskiego, aby Transact Business z firmą M
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 3b5627e9ade9a1e7fd8b5576ed8fd80202b974eb
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 992e02e2ae27e4cf03071e114de22f42f11f7601
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582652"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132251"
 ---
 # <a name="what-is-partner-center"></a>Co to jest Centrum partnerskie?
 
-##### <a name="appropriate-roles"></a>Odpowiednie role
+**Odpowiednie role**
 
 - Wszyscy partnerzy zainteresowani Centrum partnerskiego
 
@@ -53,7 +53,7 @@ Utwórz własny profil biznesowy, aby wyświetlić jego dziedziny wiedzy. Wyró�
 
 ## <a name="co-sell-with-microsoft-and-other-partners"></a>Współsprzedaż z firmą Microsoft i innymi partnerami
 
-Współsprzedaż jest ścieżką dla partnerów, aby wspólnie sprzedawać z firmą Microsoft i innymi partnerami w celu współpracy, lepszej sprzedaży i pozytywnego rezultatu klientów. Funkcja współsprzedaży pozwala korzystać z globalnej marki firmy Microsoft, zespołów ds. sprzedaży, możliwości generacji popytu i komercyjnej witryny Marketplace, aby dotrzeć do nowych klientów na całym świecie. Sprzedaj zarówno z innymi partnerami, jak i z nami. Dowiedz się więcej na temat [zarządzania szansami do sprzedaży](manage-co-sell-opportunities.md).
+Współsprzedaż jest ścieżką dla partnerów, aby wspólnie sprzedawać z firmą Microsoft i innymi partnerami w celu współpracy, lepszej sprzedaży i pozytywnego rezultatu klientów. Opcja współsprzedaży umożliwia korzystanie z globalnej marki firmy Microsoft, zespołów sprzedaży, możliwości generacji popytu i komercyjnej witryny Marketplace w celu uzyskania nowych klientów na całym świecie. Sprzedaj zarówno z innymi partnerami, jak i z nami. Dowiedz się więcej na temat [zarządzania szansami do sprzedaży](manage-co-sell-opportunities.md).
 
 ## <a name="manage-customer-software-needs"></a>Zarządzanie wymaganiami dotyczącymi oprogramowania klienta
 

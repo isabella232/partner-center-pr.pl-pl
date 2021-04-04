@@ -9,17 +9,19 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 514c8d1e1c94c0a500384502ad57bad977dcc368
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 8e62462b6d35e8e6994e5e596ce433b37d222fc2
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712860"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132285"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Zarządzanie kontem Centrum partnerskiego — profil firmy, informacje o banku, role, uprawnienia i inne
 
-**Odpowiednie role** — Administrator globalny
-- Administrator konta MPN
+**Odpowiednie role** 
+
+- Administrator globalny
+- Administrator konta
 
 Konto utworzone w centrum partnerskim po zarejestrowaniu to służbowy adres e-mail i informacje biznesowe. Po utworzeniu konta należy skonfigurować pełny profil firmy, w tym szczegóły pomocy technicznej, zwolnienia z podatku, jeśli to konieczne, oraz podstawowe informacje kontaktowe. Konto Twojej firmy będzie również obejmowało konta użytkowników dla wszystkich członków zespołu, którzy będą korzystać z Centrum partnerskiego. Mogą one obejmować Dodawanie klientów i zarządzanie nimi, sprzedawanie subskrypcji, pracę z rozliczeniami i fakturowanie, tworzenie profilów firmy, Zarządzanie odwołaniami, praca z programami zachęty, zapewnianie pomocy technicznej i nie tylko.
 
@@ -48,7 +50,7 @@ Po wybraniu ikony **ustawień** i otwarciu menu **Ustawienia konta** w widoku do
 
 :::image type="content" source="images/accountsettings/reseller.png" alt-text="Menu przedstawia karty partnerów i odsprzedawcy":::
 
-Na karcie partner zostaną uwzględnione wszystkie prawne informacje biznesowe, takie jak zarejestrowana nazwa i adres służbowy firmy, a także kontakty podstawowe i lokalizacje biznesowe. Karta odsprzedawca dla partnerów wykonujących działania w ramach firmy CSP obejmuje **profil obsługi klienta**.
+Karta partner zawiera wszystkie informacje prawne dotyczące firmy, takie jak zarejestrowane imię i nazwisko oraz adres użytkownika, a także kontakty podstawowe i lokalizacje biznesowe. Karta odsprzedawca dla partnerów wykonujących działania w ramach firmy CSP obejmuje **profil obsługi klienta**.
 
 Jeśli firma nie uczestniczy w programie CSP, w widoku domyślnym będzie wyświetlana tylko karta **partner** , która będzie zawierać **profil obsługi klienta**.
 
@@ -60,7 +62,7 @@ Można być częścią więcej niż jednego konta. W menu nawigacji po lewej str
 
 Jeśli nie widzisz selektora konta, jesteś częścią tylko jednego konta. 
 
-Po kliknięciu tego selektora zostaną wyświetlone wszystkie konta, które są częścią listy. Następnie możesz kliknąć dowolne z nich i przełączyć się na to konto. Wszystko, co jest wyświetlane w kontekście tego konta.  
+Po wybraniu tego selektora na liście zostaną wyświetlone wszystkie konta, które są częścią. Następnie możesz wybrać dowolne z nich i przełączyć się na to konto. Wszystko, co jest wyświetlane w kontekście tego konta.  
 
 W poniższym przykładzie zalogowany użytkownik jest częścią trzech wyróżnionych kont. Użytkownik może przełączać się między nimi, klikając konto.
 
@@ -74,13 +76,13 @@ Te strony umożliwiają zarządzanie szczegółowymi obszarami Twojej firmy, w t
 
 ### <a name="legal-info"></a>Informacje prawne
 
-Po pierwszym dołączeniu do Centrum partnerskiego firma przechodzi przez proces weryfikacji do firmy Microsoft. Stan weryfikacji można śledzić na stronie **Informacje prawne** . Pokazuje on główną osobę kontaktową (którą firma Microsoft skontaktuje w sprawie pytań partnerskich) i główną osobą kontaktową (osobą, która zarządza informacjami prawnymi i statusem). Wszystkie lokalizacje firmowe firmy zostały wymienione i można je dodać tutaj. 
+Po pierwszym dołączeniu do Centrum partnerskiego firma przechodzi przez proces weryfikacji do firmy Microsoft. Stan weryfikacji można śledzić na stronie **Informacje prawne** . Pokazuje on główną osobę kontaktową (osoba, która skontaktuje się z Tobą w sprawie pytań partnerskich) i główną osobą kontaktową (osobą, która zarządza informacjami prawnymi i statusem). Wszystkie lokalizacje firmowe firmy zostały wymienione i można je dodać tutaj. 
 
 ### <a name="provide-your-companys-legal-business-details"></a>Podaj szczegółowe informacje biznesowe firmy
 
 Możesz wyszukać profil firmy lub ręcznie wprowadzić informacje firmowe. Jeśli Twoja firma jest zarejestrowana w usłudze [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad), użyj identyfikatora Duns, aby wyszukać informacje o firmie. Jeśli chcesz samodzielnie podać szczegóły swojej firmy, wybierz pozycję **Ręczne**.
 
-Jeśli firma znajduje się w **Armenii**, **Węgrzech**, **Kirgistanie**, **Mołdawii**, **Uzbekistan** lub **Rosja**, i ręcznie wprowadzisz swój adres, sprawdzimy swój adres. Jeśli wprowadzona wartość różni się od zweryfikowanej, sugerujemy użycie zweryfikowanego adresu. Weryfikacja zapewnia, że adres jest dokładny i może być wysyłany do.
+Jeśli firma znajduje się w **Armenii**, **Węgrzech**, **Kirgistanie**, **Mołdawii**, **Uzbekistan** lub **Rosja**, i ręcznie wprowadzisz swój adres, sprawdzimy swój adres. Jeśli wprowadzona wartość różni się od zweryfikowanej, zalecamy użycie zweryfikowanego adresu. Weryfikacja zapewnia, że adres jest dokładny i może być wysyłany do.
 
 ### <a name="primary-contact-email"></a>Podstawowy kontaktowy adres e-mail
 

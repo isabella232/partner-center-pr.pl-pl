@@ -9,21 +9,22 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6fc3fbfbc5ebf874460fbf2f0065150089db39d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: dae147c45aca27657f1e88b6943279f9771313d6
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92529277"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132999"
 ---
 # <a name="moving-from-partner-membership-center-pmc-to-partner-center"></a>Przeniesienie z Centrum członkostwa partnerów (PMC) do Centrum partnerskiego
 
 **Odpowiednie role**
--    Administrator globalny
+
+- Administrator globalny
 
 Ułatwiamy współpracę z firmą Microsoft, wprowadzając pojedynczą witrynę sieci Web (centrum partnerskie), która służy jako centralny punkt zaangażowania. Wszystko, co zostało wykonane w centrum członkostwa partnerów (PMC), można uzyskać z pulpitu nawigacyjnego w centrum partnerskim. 
 
-Możesz również wykonywać wiele innych działań bez opuszczania jednej witryny sieci Web. Niektóre Terminologia i funkcje mogą wyglądać inaczej. Aby wyeliminować potencjalne wątpliwości dotyczące lokalizacji i elementów, należy zapoznać się z przewodnikiem po witrynie pulpitu nawigacyjnego.
+Możesz również wykonywać wiele innych zadań bez opuszczania jednej witryny sieci Web. Niektóre Terminologia i funkcje mogą wyglądać inaczej. Aby dowiedzieć się, gdzie wykonywać pewne zadania i jakie funkcje są dostępne, należy zapoznać się z informacjami o witrynie na pulpicie nawigacyjnym.
 
 W tej tabeli przedstawiono niektóre różnice między pakietem PMC i centrum partnerskim.
 
@@ -43,7 +44,7 @@ W tej tabeli przedstawiono niektóre różnice między pakietem PMC i centrum pa
 
 |**KRYTERIÓW PMC**   |**Centrum partnerskie**|
 |----------------------|:-----------------------------|
-|Może korzystać z poświadczeń konta użytkownika konto Microsoft (MSA) lub osobistych joe@outlook.com|Musisz użyć poświadczeń konta służbowego ( joe@joescompany.com ). Aby uzyskać więcej informacji, Przeczytaj [firmowe konto służbowe i centrum partnerskie](azure-active-directory-tenants-and-partner-center.md).|
+|Może korzystać z poświadczeń konta użytkownika konto Microsoft (MSA) lub osobistych joe@outlook.com|Musisz użyć poświadczeń konta służbowego (na przykład joe@joescompany.com ). Aby uzyskać więcej informacji, Przeczytaj [firmowe konto służbowe i centrum partnerskie](azure-active-directory-tenants-and-partner-center.md).|
 
 ## <a name="user-roles"></a>Role użytkownika
 
@@ -61,7 +62,7 @@ W tej tabeli przedstawiono niektóre różnice między pakietem PMC i centrum pa
 |Mogą mieć dodatkowe zalety — zestawy narzędzi (ABTKs), dopóki nie zostaną wycofane w październiku 2018.|Brak ABTKs; jedno mapowanie na firmę; jedno kompetencje Silver na firmę; jedna kwalifikacja złota na firmę|
 ||Dopóki nie masz jeszcze map, możesz je zakupić. Prawa własności do map nie są powiązane z kompetencjami.  
 |Uzyskano dostęp do korzyści z cyfrowego pobrania partnera (PDD) |Dostęp do wszystkich korzyści można uzyskać w centrum partnerskim|
-|Kompetencje i korzyści rozdzielone i podzielone między wiele lokalizacji|Twoje kompetencje i korzyści ze wszystkich Twoich lokalizacji są konsolidowane na poziomie firmy (PGA) i będą przechowywane do daty rocznicy. W takim przypadku konieczne będzie zakupienie lub odnowienie na poziomie firmy. Wydajność i umiejętności, a także kompetencje, są zagregowane globalnie|
+|Kompetencje i korzyści rozdzielone i podzielone między wiele lokalizacji|Twoje kompetencje i korzyści ze wszystkich Twoich lokalizacji są konsolidowane na poziomie firmy (PGA) i będą przechowywane do daty rocznicy. W takim przypadku konieczne będzie zakupienie lub odnowienie na poziomie firmy. Wydajność, umiejętności i kompetencje są agregowane globalnie|
 |Oświadczenia dotyczące załączników w ramach programu Software Assurance są wykonywane w narzędziu Walidacja załącznika i wykup (VVR).|Teraz możesz uzyskiwać dostęp do (SATV) i/lub wdrożonych usług planowania (DPS) w centrum partnerskim i zarządzać nimi.  Starsza wersja narzędzia VVR zostanie zlikwidowana 1 października 2019.  |
 
 ## <a name="associating-mcp-ids-to-partner-center"></a>Kojarzenie identyfikatorów MCP z centrum partnerskim
@@ -83,8 +84,8 @@ W tej tabeli przedstawiono niektóre różnice między pakietem PMC i centrum pa
 |**KRYTERIÓW PMC**   |**Centrum partnerskie**|
 |----------------------|:-----------------------------|
 |PDD  |Korzyści|
-|MIKROUKŁAD, ICP, KOŁOWY | Premie dla|
-||Odwołań|
+|MIKROUKŁAD, ICP, KOŁOWY | Zachęty|
+||Polecenia|
 |Szczegółowe informacje o partnerze| Analiza|
 |Walidacja załącznika i narzędzie do wykupu| Walidacja załącznika i narzędzie do wykupu|
 |           |Programy dostawcy rozwiązań w chmurze|
