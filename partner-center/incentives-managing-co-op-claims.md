@@ -8,20 +8,16 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 10/29/2020
-ms.openlocfilehash: 54c90cce33a1eabc87357048c348ffa2cc03de19
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 29e67bbeca2b136146a1d9d1ee7eef4d0f9d3b0c
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133154"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179160"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Zarządzaj oświadczeniami do współpracowników
 
-**Dotyczy:**
-
-- Centrum partnerskie
-
-**Odpowiednie role:**
+**Odpowiednie role**
 
 - Administrator zachęt
 
@@ -65,13 +61,13 @@ Jeśli materiały przesłane wraz z roszczeniem dotyczącym współpracy zostan�
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 
-2. W obszarze **zachęty** wybierz pozycję **Zarządzanie współobsługą** .
+2. W obszarze **zachęty** wybierz pozycję **Zarządzanie współobsługą**.
 
 3. Wybierz roszczenie dotyczące współpracy, które chcesz zakwestionować. Zostanie otwarta strona żądania współdziałania.
 
-4. W dolnej części strony wybierz pozycję **Zakwestionuj** .
+4. W dolnej części strony wybierz pozycję **Zakwestionuj**.
 
-Zespół ds. weryfikacji roszczeń dotyczących współpracy rozpatrzy roszczenie w ciągu pięciu dni roboczych. W tym czasie będzie wyświetlany stan **Kwestionowane** . Firma Microsoft może skontaktować się z Tobą, aby zażądać dodatkowych informacji. Po zakończeniu rozpatrywania zespół ds. weryfikacji zaktualizuje stan roszczenia na **Zatwierdzone** , **Odrzucone** lub **Wymagane działanie partnera** .
+Zespół ds. weryfikacji roszczeń dotyczących współpracy rozpatrzy roszczenie w ciągu pięciu dni roboczych. W tym czasie będzie wyświetlany stan **Kwestionowane**. Firma Microsoft może skontaktować się z Tobą, aby zażądać dodatkowych informacji. Po zakończeniu rozpatrywania zespół ds. weryfikacji zaktualizuje stan roszczenia na **Zatwierdzone**, **Odrzucone** lub **Wymagane działanie partnera**.
 
 ## <a name="next-steps"></a>Następne kroki
 

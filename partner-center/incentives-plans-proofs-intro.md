@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 971d3fbc4b172b66e5b5099bc16999eefc57279c
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 3cd9ee73da3432b88c2ef3669f12451d675a319a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92529709"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179177"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Użyj tych zasobów, aby pomóc w tworzeniu planów i prób wykonywania zachęt
-
-**Dotyczy**
-
-- Centrum partnerskie
-- Partnerzy w Microsoft Partner Network (MPN)
 
 **Odpowiednie role**
 
@@ -40,7 +35,7 @@ Plan oświadczeń dotyczących współdziałania w ramach programu zachęty opis
 
 ## <a name="what-is-a-proof-of-execution-poe"></a>Co to jest dowód wykonania (PoE)?
 
-Po otrzymaniu płatności za zachęty należy przesłać szczegółowe potwierdzenie wykonania (PoE) do firmy Microsoft. Twoje PoE mogą zawierać szczegółowe informacje o każdej powiązanej kampanii, dacie wystąpiło działanie zachęty, wnioskowaną kwotę itd. 
+Po otrzymaniu płatności za zachęty należy przesłać szczegółowe potwierdzenie wykonania (PoE) do firmy Microsoft. Twoje PoE mogą zawierać szczegółowe informacje o każdej powiązanej kampanii, dacie wystąpiło działanie bodźce oraz wnioskowaną kwotę. 
 
 Dowiedz się więcej o [przygotowaniu potwierdzenia wykonania](incentives-prepare-your-proof-of-execution.md).
 

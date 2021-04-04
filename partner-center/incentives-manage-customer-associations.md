@@ -8,20 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 37b64d686549562a26aa818a576bad6c85f86670
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 91ff0d9b0696e1ef77cf21ce288afbc51c3fe528
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92529713"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179483"
 ---
 # <a name="manage-incentives-customer-associations"></a>Zarządzanie powiązaniami klientów zachęt
 
-**Dotyczy:**
-
-- Centrum partnerskie
-
-**Odpowiednie role:**
+**Odpowiednie role**
 
 - Administrator rozliczeń
 - Administrator globalny
@@ -87,7 +83,7 @@ Jeśli zakończono 30 dni i nadal chcesz zgłosić odrzucone żądanie, musisz p
 
 Istnieją trzy podstawowe powody, aby można było odrzucić powiązanie skojarzenia CPOR.
 
-**Żądanie partnera:** Partnerzy mogą żądać odrzucania skojarzenia. To uzasadnienie jest najczęściej używane, gdy Partner utworzył CPOR powiązania skojarzenia przez pomyłkę przy użyciu niepoprawnego MPNu, wybrano niepoprawną aktywność (przykład.... Wybrano opcję przychód skojarzenie zamiast przedsprzedaży) lub nie pracuje już z klientem.
+**Żądanie partnera:** Partnerzy mogą żądać odrzucania skojarzenia. To uzasadnienie jest najczęściej używane, gdy Partner utworzył CPOR powiązania skojarzenia przez pomyłkę przy użyciu niepoprawnego MPNu, wybrano nieprawidłowe działanie (na przykład wybierzesz skojarzenie przychodu zamiast sprzedaży przed sprzedażą) lub nie pracujesz już z klientem.
 
 **Odrzucenie klienta:** Po pomyślnym przeprowadzeniu żądania skojarzenia CPOR przez proces zatwierdzania PoE jego stan zmieni się na zatwierdzony, gdy klient ma możliwość odmowy zgody na skojarzenie. Jeśli klient odmawia wyrażenia zgody, skojarzenie zostanie odrzucone.
 

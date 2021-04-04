@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 41ea71b2461c8497b90acc0f265c4f946faa55b7
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 6000ba464a7751a159d8a390b13d2af6ffb59894
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92529701"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179109"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>10 Essentials do pracy z zachętami
-
-**Dotyczy**
-
-- Centrum partnerskie
-- Partnerzy w Microsoft Partner Network (MPN)
 
 **Odpowiednie role**
 
@@ -49,7 +44,7 @@ Ważne jest, aby uzyskać pełną wiedzę na temat ról i uprawnień powiązanyc
 
 ## <a name="5-review-the-incentives-faq"></a>5. Przejrzyj często zadawane pytania dotyczące zachęt
 
-Uzyskaj odpowiedzi na często zadawane pytania przed ich poproszeniem. Często często zadawane pytania zachęcamy do korzystania z informacji z pomoc techniczna firmy Microsoft, jak również do bezpośredniej komunikacji z partnerami. Często zadawane pytania można wyświetlić [tutaj](incentives-faq.md).
+Uzyskaj odpowiedzi na często zadawane pytania przed ich poproszeniem. Często aktualizujemy często zadawane pytania przy użyciu informacji z pomoc techniczna firmy Microsoft i bezpośredniej komunikacji z partnerami. Często zadawane pytania można wyświetlić [tutaj](incentives-faq.md).
 
 ## <a name="6-confirm-your-program-eligibility"></a>6. Potwierdź uprawnienia do programu
 

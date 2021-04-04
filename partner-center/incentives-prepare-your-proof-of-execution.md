@@ -8,20 +8,16 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 82c45a1edcc19dc26dfefff88f59c598ab9bc6ea
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: d0e5dca008f73a13fb25e9322c492a053037e633
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92529702"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179449"
 ---
 # <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Twórz i przesyłaj dokumenty umożliwiające potwierdzenie wykonania (PoE)
 
-**Dotyczy:**
-
-- Centrum partnerskie
-
-**Odpowiednie role:**
+**Odpowiednie role**
 
 - Administrator zachęt
 
@@ -31,7 +27,7 @@ Przed zapłaceniem za Twoje zachęty należy przesłać szczegółowe potwierdze
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 
-2. Na stronie **Zachęty** wybierz pozycję **Zarządzanie planem** , a następnie wybierz odpowiedni program. Zostanie otwarta strona stanu.
+2. Na stronie **Zachęty** wybierz pozycję **Zarządzanie planem**, a następnie wybierz odpowiedni program. Zostanie otwarta strona stanu.
 
 3. W sekcji **Plany** wybierz odpowiedni plan. Zostanie otwarta strona stanu dla tego planu.
 
@@ -68,7 +64,7 @@ Przed zapłaceniem za Twoje zachęty należy przesłać szczegółowe potwierdze
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 
-2. Na stronie **Zachęty** wybierz pozycję **Zarządzanie planem** , a następnie wybierz odpowiedni program. Zostanie otwarta strona stanu.
+2. Na stronie **Zachęty** wybierz pozycję **Zarządzanie planem**, a następnie wybierz odpowiedni program. Zostanie otwarta strona stanu.
 
 3. W sekcji **oświadczenia** stan każdego PoEu jest wymieniony w kolumnie **stan** .
 
@@ -81,6 +77,6 @@ Przed zapłaceniem za Twoje zachęty należy przesłać szczegółowe potwierdze
    - Approved (Zatwierdzono)
    - Odrzucone
 
-## <a name="next-steps"></a>Następne kroki:
+## <a name="next-steps"></a>Następne kroki
 
 - [Wprowadzenie do zachęt](incentives-get-started-intro.md)

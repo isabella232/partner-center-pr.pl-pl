@@ -8,22 +8,18 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: eeb6fabcc1b84e72c8e418e97a8582916225552b
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 22233b8dd41776b34bb4ec1d202f6e84a6ded3fc
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626018"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179143"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Zarządzanie rejestracją i użytkownikami w programie zachęty
 
-**Dotyczy:**
+**Odpowiednie role**
 
-- Centrum partnerskie
-
-**Odpowiednie role:**
-
-- Administrator zachęty
+- Administrator zachęt
 
 >[!NOTE]
 >Przed zarejestrowaniem w programie zachęt do [migracji](prepare-pmc-pc-migration.md)Centrum partnerskiego musi zostać ukończone Centrum członkostwa partnerskie.
@@ -47,7 +43,7 @@ Gdy organizacja będzie kwalifikować się do bodźców, firma Microsoft wyśle 
 
 Gdy organizacja będzie kwalifikować się do bodźców, firma Microsoft wyśle do administratora zachęty prośbę o uprawniony MPNLocationID, aby rozpocząć proces rejestracji. Ta wiadomość e-mail zostanie wysłana z **Centrum partnerskiego firmy Microsoft** i będzie miała **zaproszenie do rejestracji zachęty dla partnera**. Otwórz zaproszenie i wybierz pozycję **Rozpocznij**.
 
-Zobaczysz również zaproszenie na stronie głównej Centrum partnerskiego. Po wybraniu tego komunikatu nie będzie można go zobaczyć ponownie. Jednak administrator zachęty nadal może zakończyć proces, logując się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/) i wybierając pozycję **Przegląd** w obszarze **zachęty** na lewym panelu nawigacyjnym. Wybierz pozycję **zarejestruj** , a następnie wypełnij pozycję wypłata i profil podatkowy dla programu.
+Zobaczysz również zaproszenie na stronie głównej Centrum partnerskiego. Po wybraniu tego komunikatu nie będzie można go zobaczyć ponownie. Jednak administrator zachęty nadal może zakończyć proces, logując się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/) i wybierając pozycję **Przegląd** w obszarze **zachęty** na lewym panelu nawigacyjnym. Wybierz pozycję **zarejestruj**, a następnie wypełnij pozycję wypłata i profil podatkowy dla programu.
 
 Rejestracja jest uznawana za kompletną tylko w przypadku, gdy pozostała i pozostała do rejestracji wartość i profil podatkowy są sprawdzane przez firmę Microsoft.
 

@@ -8,16 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 03/16/2021
-ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: cd54249e1fb53fdf3a753b38d1e9999008b9d79a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712169"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179227"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Ustalanie uprawnień programu zachęty
 
-**Odpowiednie role**:
+**Odpowiednie role**
 
 - Administrator globalny
 - Administrator zachęt
@@ -40,7 +40,7 @@ Wymagania dotyczące uprawnień do programu można znaleźć w przewodniku po pr
 
    :::image type="content" source="images/incentives/eligibility.png" alt-text="Zrzut ekranu jest przykładem wymagań związanych z zachętami.":::
 
-5. Musisz ukończyć wszystkie obszary, które nie są zaznaczone, aby móc spełnić kryteria. Każdy program zachęty ma swój własny zestaw wymagań.
+5. Wypełnij wszystkie obszary, które nie są zaznaczone, aby móc spełnić kryteria. Każdy program zachęty ma swój własny zestaw wymagań.
 
 ## <a name="next-steps"></a>Następne kroki
 

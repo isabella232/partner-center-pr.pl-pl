@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 575c68a15838e67cc7123e756dc15206eb2e4d7d
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 5b730eb9c6689c9d779a2e3f16f70fd3232601da
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92529369"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087012"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Raport korzyści dostępny na pulpicie nawigacyjnym usługi Partner Center Insights
 
@@ -66,7 +66,7 @@ Ten wykres przedstawia miesięczny trend licencji przyznanych przez wybrany zakr
 
 Ten wykres przedstawia miesięczny trend subskrypcji programu Visual Studio aktywowanych w ramach subskrypcji, które zostały przydzieloną w wybranym zakresie dat.
 
-Wybierz kartę na górze wykresu, aby wyświetlić trend określonej subskrypcji programu Visual Studio, której przyznano jako zalety. Kolumny na wykresie przedstawiają licencje używane dla subskrypcji. Wykres liniowy reprezentuje ogólne licencje przypisane do subskrypcji.
+Wybierz kartę na górze wykresu, aby wyświetlić trend konkretnej subskrypcji programu Visual Studio, która jest przyznana jako korzyści. Kolumny na wykresie przedstawiają licencje używane dla subskrypcji. Wykres liniowy reprezentuje ogólne licencje przypisane do subskrypcji.
 
 :::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Subskrypcje programu Visual Studio":::
 

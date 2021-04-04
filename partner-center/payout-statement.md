@@ -1,22 +1,22 @@
 ---
 title: Zestawienia wypłat
 description: Dowiedz się więcej na temat zestawień i podsumowań wypłaty oraz jak wyświetlać i eksportować dane dotyczące płatności z Centrum partnerskiego firmy Microsoft
-ms.subservice: partnercenter-marketplace-publisher
-ms.service: marketplace
+ms.subservice: partnercenter-mpn
+ms.service: partner-dashboard
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: fd0aaeb84651a84aba4748795309512295f9485a
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549247"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087097"
 ---
 # <a name="payout-statements"></a>Zestawienia wypłat
 
-**Odpowiednie role:**
+**Odpowiednie role**
 
 - Administrator konta
 - Administrator globalny
@@ -73,7 +73,7 @@ Aby wyświetlić więcej szczegółów na temat zdobywania, wybierz strzałkę w
 
 ### <a name="transaction-history-summary"></a>Podsumowanie historii transakcji
 
-Pokazuje to szczegółowe informacje, w tym pochodzenie z prezentów od daty sprzedaży produktu, stanu i szacowanego miesiąca płatności.
+Ten widok przedstawia szczegółowe informacje dotyczące zdobywania informacji, w tym pochodzenie z postanowień sprzedaży produktu, stanu i szacowanego miesiąca płatności.
 
 :::image type="content" source="images/payouts/transaction-history.png" alt-text="Historia transakcji.":::
 
@@ -220,7 +220,7 @@ Poniższa tabela zawiera listę kodów przyczyn korekt i ich opisy.
 | Przerzucanie operacji współpracujących | Korekta, która przenosi zyski ze współpracowników do innego okresu lub konwertuje zarobki współpracujące na rabat. |
 | Korekta Ops | Korekta, która koryguje błędy obliczeń systemu firmy Microsoft. |
 | Korekta Ops Microsoft — nieprawidłowe obliczenie | Korekta, która poprawia błędne obliczenia. |
-| Korekta Ops niepoprawna Rejestracja firmy Microsoft | Korekta dotycząca nieudanych obliczeń związanych z rejestracją. |
+| Korekta Ops niepoprawna Rejestracja firmy Microsoft | Korekta dla nieudanych obliczeń związanych z rejestracją. |
 | Mapowanie partnera (subskrypcja) MCI/CSP | Korekta, która poprawia niezgodność subskrypcji. |
 | Wyjątek zasad | Dopasowanie, które zastępuje regułę programu.  |
 | Dochody z poprzedniego okresu | Korekta dochodów poza bieżącym okresem zdobywania. |

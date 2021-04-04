@@ -2,27 +2,26 @@
 title: Rozliczenia na podstawie licencji
 description: Dowiedz się, w jaki sposób rozliczenia oparte na licencjach różnią się od rozliczeń opartych na użyciu w centrum partnerskim, w tym w jaki sposób opłaty są naliczane według licencji (nie za
 ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 1fd6d9e4a9115757382e79f884a14d23e4545419
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 007a15091a018755c60c4e02c394ad31868d4233
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92529649"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179415"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Rozliczanie na podstawie licencji w centrum partnerskim
 
-**Dotyczy**
+**Odpowiednie role**
 
-- Centrum partnerskie
-- Partnerzy w programie CSP
-
-**Odpowiednie role** — Administrator globalny
-- Administrator użytkowników
+- Administrator globalny
+- Administrator zarządzania użytkownikami
 - Administrator rozliczeń
 - Agent administracyjny
 
@@ -61,6 +60,6 @@ Wszystkie subskrypcje oparte na licencji są odnawiane przez okres 12 miesięcy 
 
 - [Przegląd rozliczeń Centrum partnerskiego](billing-basics.md)
 
-- [Typy rozliczeń w centrum partnerskim](billing-different-types.md)
+- [Typy rozliczeń w Centrum partnerskim](billing-different-types.md)
 
 - [Główne artykuły dotyczące rozliczeń i podatków](billing.md)

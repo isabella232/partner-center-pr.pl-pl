@@ -8,19 +8,18 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 1c3cafa6b5ea280a924a0142da78483d54a18ab9
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756705"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179500"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Często zadawane pytania dotyczące zachęt
 
-**Odpowiednie role:**
+**Odpowiednie role**
 
 - Administrator zachęt
-
 - Użytkownik zachęt
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>Czy muszę być administratorem globalnym, aby zarejestrować się w zachętach?
@@ -31,7 +30,7 @@ Nie. Zarówno Administrator globalny, jak i administrator konta mogą przypisywa
 
 Jeśli próbujesz dołączyć do MPN, a Twoja firma jest już członkiem, MPN rozpozna domenę i skojarzy Cię z istniejącym kontem. Istniejące konto może być tą samą firmą lub pokrewną firmą przy użyciu tej samej domeny poczty e-mail lub tego samego katalogu aktywności platformy Azure (Azure AD) do zarządzania wieloma domenami.
 
-Kontakt podstawowy można zidentyfikować ze strony profilu prawnego. Jeśli lokalizacja jest lokalizacją MPNHQ, wystarczy skonfigurować wymagane uprawnienia do zarządzania zachętami. Aby uzyskać więcej informacji na temat ról i uprawnień, zobacz [Omówienie uprawnień](permissions-overview.md).
+Kontakt podstawowy można zidentyfikować ze strony profilu prawnego. Jeśli lokalizacja jest lokalizacją MPNHQ, wystarczy skonfigurować wymagane uprawnienia do zarządzania zachętami. Aby uzyskać więcej informacji o rolach i uprawnieniach, zobacz [Omówienie uprawnień](permissions-overview.md).
 
 Jeśli nie znajdujesz się w tym samym kraju co lokalizacja MPNHQ, zapoznaj się z [instrukcjami dotyczącymi kont wielonarodowych](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) , aby uzyskać więcej informacji dotyczących tego scenariusza.
 
@@ -55,7 +54,7 @@ Aby uzyskać więcej informacji, zobacz [Znajdowanie roli](find-your-role.md).
 
 ## <a name="i-cant-access-incentives-using-my-credentials"></a>Nie mogę uzyskać dostępu do bodźci przy użyciu moich poświadczeń.
 
-Prawdopodobnie nie widzisz bodźców, że nie masz odpowiednich uprawnień. Wykonaj poniższą procedurę, aby zapoznać się z tematem.
+Prawdopodobnie nie widzisz bodźców, że nie masz odpowiednich uprawnień. Aby rozwiązać ten problem, wykonaj czynności opisane w poniższej procedurze.
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/) przy użyciu poświadczeń dzierżawy usługi Azure AD (poświadczenia służbowe). Jeśli nie możesz się zalogować, skontaktuj się z administratorem globalnym Twojej firmy.
 
@@ -71,7 +70,7 @@ W przypadku otrzymania zaproszenia od lub zarejestrowania w programie zachęty, 
 
 Jeśli potrzebujesz zmienić rolę lub uprawnienia, skontaktuj się z administratorem globalnego lub konta firmowego. Aby dowiedzieć się, kim są te osoby, przeczytaj temat [Znajdowanie administratora globalnego](./find-your-role.md#find-your-global-admin).
 
-Należy pamiętać, że na stronie Przegląd zostaną wyświetlone tylko rejestracje skojarzone z kontem globalnym partnera (PGA) skojarzonym z dzierżawą usługi Azure AD. Jeśli firma ma więcej niż jeden PGA, musisz mieć inne poświadczenia dla każdej z nich.
+Na stronie Przegląd zostaną wyświetlone wyłącznie rejestracje skojarzone z kontem globalnym partnera (PGA) skojarzonym z dzierżawą usługi Azure AD. Jeśli firma ma więcej niż jeden PGA, musisz mieć inne poświadczenia dla każdej z nich.
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Z kim mam się skontaktować, jeśli otrzymuję komunikat o błędzie lub potrzebujesz pomocy w trakcie procesu rejestracji?
 

@@ -1,28 +1,28 @@
 ---
 title: Wypłaty i profil podatkowy — często zadawane pytania
 description: Uzyskaj odpowiedzi na często zadawane pytania dotyczące wypłat i szczegółów podatkowych w centrum partnerskim. Zawiera odpowiedzi na to, dlaczego dochody są inne niż oczekiwano.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 03/05/2021
-ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 00cb707dd6d94cc6cbae889e2db1a700d246e2ed
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247656"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087046"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Często zadawane pytania dotyczące wypłat i podatków
 
-**Odpowiednie role**:
+**Odpowiednie role**
 
 - Administrator konta
 - Administrator globalny
 - Administrator zachęt
 
-Ten artykuł zawiera odpowiedzi na często zadawane pytania dotyczące wypłat i szczegółów podatkowych w centrum partnerskim. omówione tematy obejmują czas płatności, sprawdzanie uprawnień do zarobków oraz znaczenie poprawnego konfigurowania wypłat i profilów podatkowych.
+Ten artykuł zawiera odpowiedzi na często zadawane pytania dotyczące wypłat i szczegółów podatkowych w centrum partnerskim. Omówione tematy obejmują czas płatności, sprawdzanie uprawnień do zarobków oraz znaczenie poprawnego konfigurowania wypłat i profilów podatkowych.
 
 ## <a name="profile-management"></a>Zarządzanie profilem
 
@@ -42,7 +42,7 @@ Może to oznaczać, że nie masz odpowiednich uprawnień lub że użytkownik jes
 
 #### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Mogę zalogować się tylko przy użyciu mojej @onmicrosoft.com domeny. Co mam zrobić?
 
-Skontaktuj się z administratorem konta w celu dodania dodatkowych domen do konta usługi AAD.
+Skontaktuj się z administratorem konta, aby dodać więcej domen do konta usługi AAD.
  
 #### <a name="my-organization-is-participating-in-multiple-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>Moja organizacja uczestniczy w wielu programach. Czy muszę wprowadzić swoją płatność i profil podatkowy wielokrotnie?
 
@@ -61,7 +61,7 @@ Jeśli Twoja firma jest zapraszana do wielu programów, możesz użyć tego same
 
 Firma jest odpowiedzialna za zapewnienie, że rola zachęty administrator — kto ma uprawnienia do edytowania tych informacji — jest przyznawana tylko odpowiednim pracownikom.
 
-#### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Mój profil podatkowy wygasł. Jak mogę rozwiązać ten problem?
+#### <a name="my-tax-profile-has-expired-how-do-i-fix-update-it"></a>Mój profil podatkowy wygasł. Jak mogę rozwiązać ten problem?
 
 Jeśli profil podatkowy wygasł lub wkrótce wygaśnie, oznacza to, że należy zaktualizować formularz podatkowy dostarczony do firmy Microsoft. Aby zaktualizować swój profil podatkowy, wykonaj następujące czynności:
 
@@ -83,7 +83,7 @@ Jeśli profil podatkowy wygasł lub wkrótce wygaśnie, oznacza to, że należy 
 #### <a name="why-is-my-earnings-amount-different-than-what-i-expected"></a>Dlaczego kwota zarobków różni się od oczekiwanej?
 
 - Jeśli zamówienie zostało częściowo opłacone przez klienta, kwota zarobków będzie obliczana na podstawie częściowo płatnej kwoty po potrąceniu Opłaty i odpowiednich podatków.
-- Sprawdź odpowiedzialność za obowiązek naliczania podatku według kraju. W przypadku krajów, w których za odprowadzanie podatków odpowiada firma Microsoft, będzie ona pobierać i odliczać kwoty podatków z zarobków wydawcy. Kwota transakcji wskazana w zestawieniu jest pomniejszona o podatek. Zobacz [Szczegóły podatków](tax-details-marketplace.md).
+- Sprawdź odpowiedzialność za obowiązek naliczania podatku według kraju. W krajach, w których podatek jest odpowiedzialny za firmę Microsoft, firma Microsoft zbiera i odlicza podatek od zarobków wydawcy. Kwota transakcji wskazana w zestawieniu jest pomniejszona o podatek. Zobacz [Szczegóły podatków](tax-details-marketplace.md).
 - Oferty SaaS i IaaS mają rabat w wysokości 10% zamiast standardowego 20%, pozostawiając stawkę zarobkową wynoszącą 90% czasu. Ta promocja obowiązuje do 30 czerwca 2021 r.
 
 **Dalsze** informacje: [komercyjna umowa dotycząca wydawcy w portalu Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Szczegóły zasad wypłaty](payout-policy-details.md), [próg płatności, Metoda i ramy czasowe](payment-thresholds-methods-timeframes.md), [otrzymywanie płatności](marketplace-get-paid.md), [szczegóły podatkowe](tax-details-marketplace.md), [instrukcje wypłaty](payout-statement.md)
@@ -113,7 +113,7 @@ Użyj AssetID, IDZamówienia i ID elementu, który pojawia się w raporcie Histo
 
 
 #### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>Jak mogę ustawić moje konto, aby nie otrzymywać płatności?
-Płatności można przechowywać w [profilu wypłaty](https://partner.microsoft.com/dashboard/commercial-marketplace/overview). po prostu **zaczekaj**. Firma Microsoft będzie utrzymywać płatność do momentu zwolnienia wstrzymania.
+Płatności można przechowywać w [profilu wypłaty](https://partner.microsoft.com/dashboard/commercial-marketplace/overview). Aby to zrobić, **zaczekaj** , a firma Microsoft będzie przeniesieł do Ciebie płatność do momentu zwolnienia wstrzymania.
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>Dlaczego otrzymuję płatność w innej walucie niż waluta zakupu?
 
@@ -121,7 +121,7 @@ Waluta wypłaty zależy od waluty wybranej w profilu wypłat. Waluta zakupu to w
 
 #### <a name="how-do-i-reconcile-adjustments"></a>Jak mogę uzgodnić korekty?
 
-Korekty płatności mają na celu wyrównanie kwot płatności, na przykład w związku z problemami systemowymi. W zestawieniu wypłat przyczynę korekty określa parametr ReasonCode. Nie jest przewidywane bezpośrednie uzgodnienie z poszczególnymi transakcjami.
+Korekty płatności mają na celu wyrównanie kwot płatności, na przykład w związku z problemami systemowymi. W instrukcji wypłaty ReasonCode określa przyczynę korekty. Nie są one przeznaczone do uzgadniania bezpośrednio z poszczególnymi transakcjami.
 
 **Dalsze** informacje: [komercyjna umowa dotycząca wydawcy w portalu Marketplace](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Szczegóły zasad wypłaty](payout-policy-details.md), [szczegóły podatku](tax-details-marketplace.md), [próg płatności, Metoda i przedział czasu](payment-thresholds-methods-timeframes.md)
 
@@ -199,7 +199,7 @@ Użyj [interfejsu API wypłaty partnerów](https://apidocs.microsoft.com/service
 
 #### <a name="how-do-i-find-the-current-agency-fee-and-the-payout-rate"></a>Jak mogę znaleźć bieżącą stawkę agencyjną i stawkę wypłaty?
 
-- Zapoznaj się z umową wydawcy dotyczącą komercyjnej platformy handlowej. Standardowa stawka agencyjna wynosi 20%. SaaS Co-Sell kwalifikujące się transakcje mają rabat w wysokości 10%. Sprawdź ogłoszenia dotyczące promocyjnych stawek agencyjnych.
+- Zapoznaj się z umową wydawcy dotyczącą komercyjnej platformy handlowej. Standardowa stawka agencyjna wynosi 20%. SaaS z rabatem kwalifikującym się transakcji jest opłata w wysokości 10%. Sprawdź ogłoszenia dotyczące promocyjnych stawek agencyjnych.
 - W zestawieniu wypłaty wskaźnik dochodów określa rzeczywistą stawkę wypłaty dla danej transakcji.
 
 #### <a name="when-can-i-expect-a-payment-from-microsoft-once-earnings-appear-on-my-statement"></a>Kiedy mogę oczekiwać płatności od firmy Microsoft po pojawieniu się zarobków w zestawieniu?

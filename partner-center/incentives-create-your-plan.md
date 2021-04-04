@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e3d2ec916a8c8a9d29b5ba82db6542d55bd84e8
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 1ad11a42a91cfacb625a05b850b0cdfee3d48d0b
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92529730"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179262"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Generowanie planu marketingowego dla programu zachęty
 
-**Dotyczy:**
-
-- Centrum partnerskie
-
-**Odpowiednie role:**
+**Odpowiednie role**
 
 - Administrator zachęt
 - Administrator rozliczeń
@@ -42,13 +38,13 @@ Aby uzyskać więcej informacji na temat planów dla danego programu zachęt, zo
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 
-2. W obszarze **Zachęty** w lewym okienku nawigacyjnym wybierz pozycję **Program** , a następnie wybierz program. 
+2. W obszarze **Zachęty** w lewym okienku nawigacyjnym wybierz pozycję **Program**, a następnie wybierz program. 
 
 3. Na stronie **program** Znajdź odpowiedni rynek dla swojego planu, a następnie wybierz pozycję **Utwórz plan**. 
 
 4. Na stronie **nowy plan** Wypełnij pola wymagane. **Waluta** to wartość, która ma być uwzględniana w planie. **Wiadomość e-mail recenzenta** powinna być adresem E-mail firmy Microsoft Twojego Menedżera konta. Należy pamiętać, że można utworzyć tylko jeden plan dla każdego identyfikatora MPN, funduszu, programu i okresu. Wybierz pozycję **Zapisz**.
 
-5. Na stronie stanu planu przejrzyj wyświetlane informacje. Wybierz pozycję **Edytuj** , aby zaktualizować informacje.
+5. Na stronie stanu planu przejrzyj wyświetlane informacje. Wybierz pozycję **Edytuj**, aby zaktualizować informacje.
 
 6. Gdy informacje na tej stronie są poprawne, wybierz pozycję **Nowa kampania**.
 
@@ -58,7 +54,7 @@ Aby uzyskać więcej informacji na temat planów dla danego programu zachęt, zo
 
 9. Na stronie **Nowe działanie** uzupełnij wymagane pola. Możesz wybrać wiele krajów. Po zakończeniu wybierz pozycję **Zapisz**. 
 
-10. Na stronie stanu ponownie przejrzyj informacje. Po przesłaniu planu nie można go edytować. Po zakończeniu wybierz pozycję **Prześlij** , a następnie wybierz pozycję **Potwierdź**.
+10. Na stronie stanu ponownie przejrzyj informacje. Po przesłaniu planu nie można go edytować. Po zakończeniu wybierz pozycję **Prześlij**, a następnie wybierz pozycję **Potwierdź**.
 
 Twój plan został przesłany. Firma Microsoft powiadomi administratora zachęt o fakcie jego zatwierdzenia lub w przypadku konieczności dostarczenia dodatkowych informacji. Postęp planu można wyświetlić w oknie Stan na stronie stanu.
 
@@ -66,7 +62,7 @@ Twój plan został przesłany. Firma Microsoft powiadomi administratora zachęt 
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 
-2. Na stronie **Zachęty** wybierz pozycję **Zarządzanie planem** , a następnie wybierz odpowiedni program. Zostanie otwarta strona stanu.
+2. Na stronie **Zachęty** wybierz pozycję **Zarządzanie planem**, a następnie wybierz odpowiedni program. Zostanie otwarta strona stanu.
 
 3. W sekcji **Plany** stan każdego planu znajduje się w kolumnie **Stan**.
 
@@ -90,9 +86,9 @@ Musisz utworzyć i przesłać swój plan do ostatniego dnia roku trwania program
 
 Co miesiąc otrzymujesz płatność od firmy Microsoft w oparciu o swoje dochody i limity planu. Płatności są dokonywane piętnastego dnia następnego miesiąca.
 
-Przykładowo, jeśli plan został zatwierdzony na kwotę 10 000 USD, a w kwietniu zarobiono 5000 USD, otrzymasz 5000 USD w dniu 15 maja.
+Na przykład jeśli plan został zatwierdzony przez $10 000, a uzyskano $5 000 w miesiącu kwietnia, otrzymasz $5 000 od 15 maja.
 
-W ramach tego samego planu, jeśli zarobisz 15 000 USD w kwietniu, 15 maja otrzymasz 10 000 USD , ponieważ kwota 10 000 USD stanowiła limit dla Twojego planu. Aby móc uzyskać większą płatność, musisz podnieść limit planu dla kolejnego miesiąca.
+W ramach tego samego planu, Jeśli otrzymujesz $15 000 w miesiącu kwietnia, otrzymasz $10 000 15 maja, ponieważ $10 000 był limit dla Twojego planu. Aby móc uzyskać większą płatność, musisz podnieść limit planu dla kolejnego miesiąca.
 
 ## <a name="next-steps"></a>Następne kroki
 

@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 971b053119a263ed5c7f8e25fb532b4137e1cb13
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: c6ff8915384f8c7ab98fa058f2e45e3d0b4f7214
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834887"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179517"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Rozwiązywanie problemów z brakującymi płatnościami, niepoprawnymi wynagrodzeniem i innymi problemami
 
-**Dotyczy**:
-
-- Centrum partnerskie
-
-**Odpowiednie role**:
+**Odpowiednie role**
 
 - Administrator zachęt
 
@@ -141,11 +137,11 @@ Ten widok umożliwia wyświetlenie płatności dla wszystkich programów i ident
 | Wyświetl informacje o płatności według wiersza, w tym kwoty pokrycia i płatności w walucie lokalnej  | Zobacz pole **listy płatności**   |
 | Pobieranie listy przekazów   |  Wybierz **przelew płatniczy**  |
 | Wyświetl szczegóły poziomu transakcji dla określonej płatności |  Wybierz **Widok**  |
-| Eksportuj szczegóły transakcji do programu Excel  |  Wybierz pozycję **Rozpocznij pobieranie**, a następnie kliknij pozycję **Eksportuj dane**. Należy zauważyć, że wszystkie wybrane filtry zostaną zastosowane do wyeksportowanych danych. Gdy stan zmieni się na ukończono, wybierz pozycję **Pobierz** i postępuj zgodnie z monitami, aby wyeksportować raport szczegółowe transakcje. Odśwież stronę, jeśli stan nie zostanie zaktualizowany w ciągu pięciu minut.  |
+| Eksportuj szczegóły transakcji do programu Excel  |  Wybierz pozycję **Rozpocznij pobieranie**, a następnie wybierz pozycję **Eksportuj dane**. Wszystkie wybrane filtry zostaną zastosowane do wyeksportowanych danych. Gdy stan zmieni się na ukończono, wybierz pozycję **Pobierz** i postępuj zgodnie z monitami, aby wyeksportować raport szczegółowe transakcje. Odśwież stronę, jeśli stan nie zostanie zaktualizowany w ciągu pięciu minut.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Brakujące lub nieprawidłowe dochody i płatności
 
-Jeśli nie możesz znaleźć szczegółów płatności lub transakcji, sprawdź, czy zastosowano odpowiednie filtry. Należy pamiętać, że ponieważ nazwy niektórych programów zostały zmienione (na przykład dostawca CSP 1T Direct Partner to teraz partner CSP Direct Bill), może być konieczne użycie wielu zaznaczeń.
+Jeśli nie możesz znaleźć szczegółów płatności lub transakcji, sprawdź, czy zastosowano odpowiednie filtry. Ponieważ nazwy niektórych programów zostały zmienione (na przykład dostawca CSP 1T Direct Partner to teraz partner CSP Direct Bill), może być konieczne użycie wielu zaznaczeń.
 
 Jeśli nadal nie możesz znaleźć zarobków lub uważasz, że podane dochody są nieprawidłowe, skontaktuj się z [pomocą techniczną](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 

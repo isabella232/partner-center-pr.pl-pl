@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 82d1db0175a8038d0297eddd8f86dfba26bb8401
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 2eb0fe92b5b62b56742ef06617275451e6850011
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530507"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179279"
 ---
 # <a name="confirm-your-incentives-earnings-eligibility"></a>Potwierdź kwalifikowanie zarobków
 
-**Dotyczy:**
-
-- Centrum partnerskie
-
-**Odpowiednie role:**
+**Odpowiednie role**
 
 - Administrator zachęt
 - Administrator globalny
@@ -31,8 +27,8 @@ Przed zapłaceniem za pracę w programie zachęty należy najpierw wykonać wszy
 ## <a name="how-do-i-check-my-earning-eligibility-and-revenue-rules"></a>Jak mogę sprawdzić moją kwalifikowalność zarobków i reguły przychodów?
 
 1. Zalogować się do [bodźców partnerów](https://partner.microsoft.com/membership/partner-incentives).
-2. Przewiń w dół, aby uzyskać dostęp do dokumentów dla zainteresowanego programu, a następnie kliknij link do dokumentu dla odpowiedniego programu.
-3. W dokumencie zapoznaj się z sekcją **kwalifikowanie** się do partnerów i **kwalifikujące się reguły dotyczące przychodów** .
+2. Przewiń w dół, aby uzyskać dostęp do dokumentów dla danego programu i wybierz łącze do dokumentu dla odpowiedniego programu.
+3. W dokumencie zapoznaj się z sekcją **kwalifikowanie** się do partnerów i **kwalifikujące się reguły dotyczące przychodów**.
 
 ## <a name="next-steps"></a>Następne kroki
 

@@ -4,30 +4,30 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, w jaki sposób niektórzy dostawcy oprogramowania niezależnego (ISV) tworzą pewne oferty na wyłączność i dostępne tylko dla określonych partnerów CSP.
+description: Dowiedz się, w jaki sposób niektórzy dostawcy oprogramowania (ISV) tworzą pewne oferty na wyłączność i dostępne tylko dla określonych partnerów CSP.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87863efd5c4d15c560a488f3cf6ec817c5e34ddc
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 53a166ec3cd380c8f9afd39c9b274f7022202500
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529889"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179466"
 ---
-# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Oferty z wyłączną ofertą rynkową od niezależnych dostawców oprogramowania
+# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Oferty na platformie handlowej z wyłącznością od niezależnych dostawców oprogramowania
 
 **Odpowiednie role**
 
 - Administrator globalny
-- Administrator użytkowników
+- Administrator zarządzania użytkownikami
 - Agent administracyjny
 - Agent sprzedaży
 
-Niezależny dostawca oprogramowania (ISV) ma możliwość wyłączania ofert z wyłączeniem, które są dostępne tylko dla niektórych partnerów dostawcy usług kryptograficznych.
+Niezależny dostawca oprogramowania (ISV) może wykluczać oferty wyłączne tylko dla niektórych partnerów CSP.
 
-Partnerzy programu CSP mogą wyświetlać wszystkie oferty niezależnych dostawców oprogramowania na rynku komercyjnym centrum partnerskiego. Oferty oznaczone jako **wyłączne** mogą być jednak kupowane tylko przez określonych partnerów wybranych przez niezależnego dostawcę oprogramowania. Jeśli oferta nie zostanie oznaczona jako **wyłączna** , wszyscy partnerzy mogą ją zakupić.
+Partnerzy programu CSP mogą wyświetlać wszystkie oferty niezależnych dostawców oprogramowania na rynku komercyjnym centrum partnerskiego. Oferty oznaczone jako **wyłączne** mogą być jednak kupowane tylko przez określonych partnerów wybranych przez niezależnego dostawcę oprogramowania. Jeśli oferta nie zostanie oznaczona jako **wyłączna**, wszyscy partnerzy mogą ją zakupić.
 
 Określeni partnerzy CSP identyfikowany przez niezależnego dostawcy oprogramowania mogą:
 

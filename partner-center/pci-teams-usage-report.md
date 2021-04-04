@@ -8,16 +8,17 @@ description: Zobacz, co Ci się robi, i w jaki sposób możesz ulepszyć użycie
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 345e721ebec5396a0681ec2f357b8778169c0887
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: 2292e9640224a2bdf333cb8ddb0e2245f34564e9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98147095"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086723"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Raport użycia zespołów dostępny na pulpicie nawigacyjnym usługi Partner Center Insights
 
 **Odpowiednie role**
+
 - Administrator globalny
 - Agent administracyjny
 - Podgląd raportów
@@ -51,19 +52,19 @@ Sekcja podsumowania przedstawia widok migawki kluczowych wskaźników związanyc
 
 ## <a name="conversations-trend"></a>Trend konwersacji
 
-Trend konwersacji przedstawia miesięczny trend spotkań zespołów, wywołań i systemów telefonicznych oraz średni czas trwania spotkań w minutach.
+Raport trendu konwersacji przedstawia miesięczny trend spotkań zespołów, wywołań i systemów telefonicznych oraz średni czas trwania spotkań w minutach.
 
 :::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="trendy konwersacji użycia zespołów":::
 
 ## <a name="teams-usage-by-workloads"></a>Użycie zespołów przez obciążenia
 
-Użycie zespołów według obciążeń przedstawia miesięczny podział użytkowników komputerów stacjonarnych, mobilnych i sieci Web na zespoły podzielone według obciążeń.
+Raport użycie zespołów według obciążeń przedstawia miesięczny podział zespołów, urządzeń przenośnych i sieci Web, które są podzielone przez obciążenia.
 
 :::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Użycie zespołów przez obciążenia":::
 
 ## <a name="top-customers-by-usage"></a>Główni klienci według użycia
 
-Najpopularniejszi klienci według użycia przedstawiają użycie najpopularniejszych klientów w zakresie spotkań, wywołań i systemów telefonowania oraz aplikacji innych firm.
+Raport najpopularniejszych klientów według użycia przedstawia użycie najpopularniejszych klientów dla spotkań zespołów, wywołań i systemów telefonicznych oraz aplikacji innych firm.
 
 :::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Główni klienci według użycia":::
 

@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/08/2021
-ms.openlocfilehash: a74c08fcd64b1de99226353cca1f16d5c79b6bcd
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/01/2021
+ms.openlocfilehash: 7e6082c645a4c5bcc3e0f766ffe7d82e73d46c15
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712549"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280925"
 ---
 # <a name="december-2020-announcements"></a>Ogłoszenia z grudnia 2020 r.
 
@@ -189,15 +189,14 @@ Pełny anons jest dostępny tylko dla partnerów firmy Microsoft. [Zaloguj się,
 ______________
 
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="8"></a>Zmiany wymagań dotyczących dołączania dostawcy rozwiązań w chmurze (CSP)
-
 ### <a name="categories"></a>Kategorie
 
-- Data: 2020-12-17
+- Data: 2021-04-02
 - Oferty/rynki
- 
+
 ### <a name="summary"></a>Podsumowanie
 
-W ramach naszych starań, aby pomóc partnerom i klientom w realizacji działalności w oparciu o relacje zaufania, będziemy żądać dodatkowych informacji o klientach, a na koniec marca 2021.
+W ramach naszych starań, aby pomóc partnerom i klientom w realizacji działalności w oparciu o relacje zaufania, będziemy żądać dodatkowych informacji o klientach, od 25 marca 2021.
 
 ### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
 
@@ -205,11 +204,12 @@ Bezpośredni partnerzy rachunków CSP i dostawcy pośrednii, którzy mają nowyc
 
 ### <a name="details"></a>Szczegóły
 
-Firma Microsoft uruchamia się na zaufaniu. Firma Microsoft dokłada starań, aby zapewnić zgodną, bezpieczną i bezpieczną metodę weryfikacji klienta w przypadku transakcyjnych subskrypcji klientów w programie CSP. Na koniec marca 2021 będziemy wprowadzać udoskonalenia interfejsu API Centrum partnerskiego i interfejsu użytkownika, które będą miały wpływ na partnerów spełniających następujące kryteria:
+Firma Microsoft uruchamia się na zaufaniu. Firma Microsoft dokłada starań, aby zapewnić zgodną, bezpieczną i bezpieczną metodę weryfikacji klienta w przypadku transakcyjnych subskrypcji klientów w programie CSP. 25 marca 2021. wprowadzimy udoskonalenia interfejsu API Centrum partnerskiego i interfejsu użytkownika, które będą miały wpływ na partnerów spełniających następujące kryteria:
 
 1. Partner ma bezpośrednią relację rozliczeń z firmą Microsoft (co oznacza, że partner to bezpośredni partner Bill lub pośredni dostawca).
 
 2. Partner wykonuje działalność z nowymi lub istniejącymi klientami w następujących krajach:
+
     - Tajlandia
     - Wietnam
     - Turcja
@@ -224,7 +224,9 @@ Firma Microsoft uruchamia się na zaufaniu. Firma Microsoft dokłada starań, ab
     - Zjednoczone Emiraty Arabskie
     - Wenezuela
 
-Partnerzy, którzy spełniają kryteria, będą musieli przesłać **Identyfikator prawny** klienta (znany także jako numer **Inn** klienta) i **numer telefonu** podczas następnej aktualizacji lub utworzenia subskrypcji dla tego klienta. Ci partnerzy mogą również wprowadzić opcjonalne **drugie imię** klienta.
+Partnerzy, którzy spełniają kryteria, będą musieli przesłać Identyfikator rejestracji firmy klienta (znany także jako numer INN w organizacji klienta) i numer telefonu podczas następnej aktualizacji lub utworzenia subskrypcji dla tego klienta. Ci partnerzy mogą również wprowadzić opcjonalne drugie imię klienta.
+
+Należy pamiętać, że po dodaniu identyfikatora rejestracji firmy należy użyć identyfikatora podatkowego firmy, a nie identyfikatora osobistego klienta.
 
 Partnerzy, którzy korzystają z nowych lub istniejących klientów w następujących krajach, zostali już dołączeni do wcześniejszej wersji w listopadzie 2020.
 
@@ -240,7 +242,7 @@ Partnerzy, którzy korzystają z nowych lub istniejących klientów w następuj�
 - Ukraina
 - Uzbekistan
 
-Partnerzy z klientami na całym świecie będą mieli prawo do końca marca 2021, aby wprowadzić **Identyfikator prawny**, **numer telefonu** i **drugie imię** dla klientów jako opcjonalne szczegóły.
+Partnerzy z klientami w pozostałej części świata będą mieli zdolność do końca marca 2021, aby wprowadzić identyfikator rejestracji firmy, numer telefonu i nazwę środkową dla klientów jako opcjonalne szczegóły.
 
 ### <a name="next-steps"></a>Następne kroki
 
@@ -251,9 +253,19 @@ Partnerzy z klientami na całym świecie będą mieli prawo do końca marca 2021
 
 ### <a name="questions"></a>Masz pytania?
 
-Jeśli masz jakieś pytania dotyczące identyfikatora prawnego (nazywanego również INN lub cyny), skontaktuj się z doradcą podatkowym lub lokalnym biurem podatkowym. Firma Microsoft nie może zapewnić wskazówek dotyczących podatków. 
+Jeśli masz jakieś pytania dotyczące identyfikatora rejestracji firmy (nazywanego również INN lub cyny), skontaktuj się z doradcą podatkowym lub lokalnym biurem podatkowym. Firma Microsoft nie może zapewnić wskazówek dotyczących podatków.
 
-Jeśli potrzebujesz pomocy technicznej w zakresie operacji w firmie Microsoft, [Otwórz żądanie obsługi](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+Jeśli potrzebujesz pomocy technicznej w zakresie operacji w firmie Microsoft, Otwórz [żądanie obsługi](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+
+### <a name="change-log"></a>Dziennik zmian:
+
+17 grudnia 2020: Oryginalna publikacja
+
+Druga aktualizacja z kwietnia:
+
+- Podana data uruchomienia
+- Tytuł numeru identyfikacyjnego organizacji został zaktualizowany do identyfikatora rejestracji firmy
+- Dodano uwagę, aby zapewnić wyjaśnienie identyfikatora rejestracji firmy
 
 ______________
 

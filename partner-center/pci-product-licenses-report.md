@@ -9,22 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4f1709d9a95e3509edbc431a851a2f1fdc0aae01
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 14cd4664ecfb140b82dfd27994ff99c7a62d2261
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92529566"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086910"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Raport dotyczący licencji produktu na pulpicie nawigacyjnym usługi Partner Center Insights
 
 **Odpowiednie role**
+
 - Administrator globalny
 - Agent administracyjny
 - Podgląd raportów
 - Executive — Podgląd raportów
 
-Raport licencje na produkty przedstawia analizę licencji dla produktów w chmurze opartych na licencjach, takich jak O365, Dynamics, M365, Power BI itd. Przedstawione tutaj analizy są związane z użyciem licencji sprzedawanych lub zarządzanych przez klientów. Poniższe sekcje można wyświetlić w raporcie licencje na produkty.
+Raport licencje na produkty przedstawia analizę licencji dla produktów w chmurze opartych na licencjach, takich jak Office 365, Dynamics, Microsoft 365, Power BI i innych. Przedstawione tutaj analizy są związane z użyciem licencji sprzedawanych lub zarządzanych przez klientów. Poniższe sekcje można wyświetlić w raporcie licencje na produkty.
 
 - Podsumowanie
 - Geograficzne rozmieszczenie licencji
@@ -36,14 +37,14 @@ Raport licencje na produkty przedstawia analizę licencji dla produktów w chmur
 
 ## <a name="summary"></a>Podsumowanie
 
-Sekcja podsumowania zawiera widok migawki kluczowych wskaźników wydajności (KPI) skojarzonych z licencjami produktu w chmurze sprzedawanymi, wdrożonymi i użytymi. Dzięki temu można śledzić aktywne użycie w odniesieniu do licencji sprzedanych klientom.
+Sekcja podsumowania zawiera widok migawki kluczowych wskaźników wydajności (KPI) skojarzonych z licencjami produktu w chmurze sprzedawanymi, wdrożonymi i używanymi. Dzięki temu można śledzić aktywne użycie w odniesieniu do licencji sprzedanych klientom.
 
 :::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Podsumowanie raportu dotyczącego licencji":::
 
-Więcej informacji na temat każdej sekcji podsumowania znajduje się poniżej.
+Aby uzyskać więcej informacji na temat każdej sekcji podsumowania, zobacz poniżej:
 
 - Liczba 
-  - Bieżąca liczba wszystkich licencji sprzedawanych lub zarządzanych przez użytkownika w przypadku produktów w chmurze opartych na licencjach, takich jak O365, Dynamics, M365, Power BI itd.
+  - Bieżąca liczba wszystkich licencji sprzedawanych lub zarządzanych przez użytkownika w przypadku produktów w chmurze opartych na licencjach, takich jak Office 365, Dynamics, Microsoft 365, Power BI i innych.
   - Procent wzrostu lub odrzucenia tych licencji w wybranym zakresie dat.
   - Tendencja do trendu w zakresie licencji: Micro Chart prezentuje trend miesięczny liczby licencji w ramach wybranego zakresu dat
 

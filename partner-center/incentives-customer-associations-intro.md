@@ -1,6 +1,6 @@
 ---
 title: CPOR — Omówienie skojarzeń
-description: Przeczytaj informacje o zasobach partnerskich, które wymagają skojarzenia klientów z konkretnymi programami zachęt za pośrednictwem modelu "Partnering partnera Record (CPOR)".
+description: Przeczytaj o zasobach, dla których partnerzy muszą skojarzyć klientów z konkretnymi programami zachęt za pośrednictwem modelu "CPOR" partnera.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 6e420f4aa5353126c705c42836052d340ede6504
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 24c439d1c90663130e1676e8ceb6d503be5ea30d
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92529718"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179194"
 ---
 # <a name="use-these-resources-to-make-customer-association-claims-for-specific-incentives-programs"></a>Użyj tych zasobów, aby utworzyć oświadczenia skojarzenia klienta dotyczące określonych programów zachęty
-
-**Dotyczy**
-
-- Centrum partnerskie
-- Partnerzy w Microsoft Partner Network (MPN)
 
 **Odpowiednie role**
 
@@ -29,7 +24,7 @@ ms.locfileid: "92529718"
 
 Ten artykuł udostępnia zasoby dla partnerów firmy Microsoft, którzy spełniają następujące kryteria:
 
-- Użytkownik jest częścią następujących elementów: Poradnik usług online firmy Microsoft (OSA) sprzedawanie; Użycie usług online (OSU) — Microsoft 365; i OSU-Business zachęty aplikacji.
+- Jesteś częścią następujących programów zachęt firmy Microsoft: Poradnik usług online (OSA) sprzedawanie, użycie usług online (OSU) — Microsoft 365 i OSU-Business zachęt aplikacji.
 
 - Pracujesz z klientami Microsoft 365 lub Dynamics 365 i chcesz odwołać się do niektórych z tych zadań w powyższych programach zachęt.
 
@@ -39,7 +34,7 @@ Jeśli spełniasz kryteria, musisz użyć modelu "CPOR" partnera rekordów, aby 
 
 Firma Microsoft używa teraz modelu "CPOR" partnera, aby zarządzać skojarzeniami z klientami Microsoft 365 i Dynamics 365.
 
-Ten model ma zastosowanie do pracy z klientami korzystającymi z następujących programów zachęty: Poradnik usług online (OSA) sprzedawanie; Użycie usług online (OSU) — Microsoft 365; i OSU-Business zachęty aplikacji.
+Ten model ma zastosowanie do pracy z klientami korzystającymi z następujących programów zachęty: Poradnik usług online (OSA) sprzedawanie, użycie usług online (OSU) — Microsoft 365 i OSU-Business zachęt aplikacji.
 
 Firma Microsoft sprawdza wszystkie oświadczenia zachęt.
 
