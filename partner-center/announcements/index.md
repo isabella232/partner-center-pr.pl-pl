@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2021
-ms.openlocfilehash: a345ae94c5765231ac69e703941770855a1df878
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.date: 04/02/2021
+ms.openlocfilehash: f550a1b145a4de7a6ecd13dd42241b059da55533
+ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280857"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "106374420"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
@@ -22,6 +22,7 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 
 |**Kategoria**|**Anonse 2021 kwietnia**|**Ogłoszone**|
 |---------|:---------|:---------|
+|Możliwości|[Nowy format dla nowej faktury Adobe commerce w programie CSP](2021-april.md#3)|5 kwietnia|
 |Możliwości|[Zmiany wymagań dotyczących dołączania do programu Cloud Solution Provider (CSP)](2021-april.md#2)|2 kwietnia|
 |Możliwości|[Wyświetl uruchomienia i oferty tego miesiąca](2021-april.md#1)|1 kwietnia|
 |**Kategoria**|**2021 komunikatów o marcu**|**Ogłoszone**|
