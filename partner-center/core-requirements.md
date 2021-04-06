@@ -9,18 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 645b07fe7ccdc550cba252507962a5a82ae708af
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 47a670c97acce757270076cf0ae01067db544e2f
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92529698"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502956"
 ---
 # <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Podstawowe wymagania dotyczące działań w programie zachęty
-
-**Dotyczy**
-
-- Centrum partnerskie
 
 **Odpowiednie role**
 
@@ -46,7 +42,7 @@ W poniższych tabelach przedstawiono podstawowe wymagania dotyczące każdej z z
 
 | Kategoria | Potwierdzenie wykonania    |
 | ------ | ----------- |
-| Wymagania podstawowe | Nie dotyczy |
+| Wymagania podstawowe | NA |
 | Wymagania dotyczące komunikacji | Zrzut ekranu przedstawiający anons cyfrowy<br><br>AND<br><br>Adres URL strony docelowej, pokazujący wymagania podstawowe specyficzne dla programu |
 | Metryki     | Podsumowanie wyników (na przykład raport kliknij) |
 |Kwalifikujące się wydatki    | Rozmieszczenie nośników innej firmy<br><br>Opłata — Agencja: usługi marketingowe i kreatywne, w tym opłaty za agencje |
@@ -55,7 +51,7 @@ W poniższych tabelach przedstawiono podstawowe wymagania dotyczące każdej z z
 
 | Kategoria | Potwierdzenie wykonania    |
 | ------ | ----------- |
-| Wymagania podstawowe    | Nie dotyczy |
+| Wymagania podstawowe    | NA |
 | Wymagania dotyczące komunikacji | 1) kopia końcowej części komunikacyjnej przedstawiająca wymagania podstawowe dotyczące programu<br><br>2) weryfikacja dystrybucji może obejmować kopertę wysyłkową postmarked lub inne potwierdzenie korespondencji (bezpośrednia poczta), końcową wiadomość e-mail z nagłówkiem z datą lub inną dowodem wiadomości e-mail (wiadomość e-mail) lub zdjęcie wiadomości telefonicznej (SMS). |
 | Metryki     | Szacowany dostęp klienta (lub partnera) |
 |Kwalifikujące się wydatki    | Pozyskiwanie bazy danych<br><br>Materiał drukowany<br><br>Opłata pocztowa<br><br>Opłata — Agencja: usługi marketingowe i kreatywne, w tym opłaty za agencje |
@@ -64,7 +60,7 @@ W poniższych tabelach przedstawiono podstawowe wymagania dotyczące każdej z z
 
 | Kategoria | Potwierdzenie wykonania    |
 | ------ | ----------- |
-| Wymagania podstawowe    | Nie dotyczy |
+| Wymagania podstawowe    | NA |
 | Wymagania dotyczące komunikacji | Adresy URL i/lub zrzuty ekranu stron witryny pokazujące adres URL<br><br>Deklaracja dotycząca pracy lub usługi dla projektu funkcji optymalizacji (tylko działanie optymalizacji) |
 | Metryki     | Podsumowanie wyników (na przykład raport kliknij) |
 |Kwalifikujące się wydatki    | Opłata — Agencja: usługi marketingowe, w tym opłaty za agencje<br><br>Programowanie/programowanie: opłaty programistyczne i programistyczne<br><br>Opłata — Optymalizacja: optymalizacje i opłaty za konserwację  |
@@ -73,7 +69,7 @@ W poniższych tabelach przedstawiono podstawowe wymagania dotyczące każdej z z
 
 | Kategoria | Potwierdzenie wykonania    |
 | ------ | ----------- |
-| Wymagania podstawowe    | Nie dotyczy |
+| Wymagania podstawowe    | NA |
 | Wymagania dotyczące komunikacji | ADRESY URL i/lub zrzuty ekranu stron witryny z adresem URL |
 | Metryki     | Podsumowanie wyników (na przykład raport kliknij) |
 |Kwalifikujące się wydatki    | Rzeczywiste koszty do USD18, 750 za okres użytkowania dla usług marketingowych agencji opłat, w tym opłat za agencje<br><br>Opłaty programistyczne i programistyczne<br><br>Położenie nośnika  |
@@ -82,9 +78,9 @@ W poniższych tabelach przedstawiono podstawowe wymagania dotyczące każdej z z
 
 | Kategoria | Potwierdzenie wykonania    |
 | ------ | ----------- |
-| Wymagania podstawowe    |Nie dotyczy |
+| Wymagania podstawowe    |NA |
 | Wymagania dotyczące komunikacji | Wszystkie potwierdzenia wykonania zgodnie z opisem na stronie odpowiednie działania są wymagane<br><br>Reklamy cyfrowe<br><br>Bezpośredni adres E-mail<br><br>Optymalizacja witryny sieci Web partnera i aparatu wyszukiwania<br><br>Telemarketing  |
-| Metryki     | Nie dotyczy |
+| Metryki     | NA |
 |Kwalifikujące się wydatki    | Rozmieszczenie nośników innej firmy<br><br>Opłata — Agencja: usługi marketingowe i kreatywne, w tym opłaty za agencje<br><br>Pozyskiwanie bazy danych<br><br>Programowanie/programowanie: opłaty programistyczne i programistyczne<br><br>Opłata — Optymalizacja: optymalizacje i opłaty za konserwację<br><br>Opłata — opłaty w centrum połączeń innych firm |
 
 ## <a name="market-development"></a>Programowanie na rynku
@@ -140,7 +136,7 @@ W poniższych tabelach przedstawiono podstawowe wymagania dotyczące każdej z z
 | ------ | ----------- |
 | Wymagania podstawowe    | Usługi ukierunkowane na 100% w produktach firmy Microsoft | 
 | Wymagania dotyczące komunikacji | Przykład elementów dostarczanych (na podstawie tego, co zostało opisane w formularzu SEO w lokacji) |
-| Metryki     | Nie dotyczy |
+| Metryki     | NA |
 |Kwalifikujące się wydatki    | Rzeczywiste koszty do 100% w przypadku powierzchni i 50% dla wszystkich innych programów wypracowanych środków współpracujących za okres użytkowania dla: opłaty — usługi: usługi udostępniane przez zasoby SEO w lokacji |
 
 ### <a name="proof-of-concept"></a>Weryfikacja koncepcji
@@ -156,10 +152,10 @@ W poniższych tabelach przedstawiono podstawowe wymagania dotyczące każdej z z
 
 | Kategoria | Potwierdzenie wykonania    |
 | ------ | ----------- |
-| Wymagania podstawowe    | Nie dotyczy |
+| Wymagania podstawowe    | NA |
 | Wymagania dotyczące komunikacji | Strona docelowa adresu URL lub zrzut ekranu stron witryny sieci Web. Nie kwalifikuje się do dodania powierzchni |
 | Metryki     | Opłata — Agencja: usługi marketingowe, w tym opłaty za agencje<br><br>Programowanie/programowanie: opłaty programistyczne i programistyczne<br><br>Opłata-usługa: usługi zawodowe udostępniane przez partnera lub dostawcę innych firm w ramach obsługi konfiguracji sieci Web |
-|Kwalifikujące się wydatki    | Nie dotyczy |
+|Kwalifikujące się wydatki    | NA |
 
 ## <a name="partner-readiness"></a>Gotowość partnerów
 
@@ -168,8 +164,8 @@ W poniższych tabelach przedstawiono podstawowe wymagania dotyczące każdej z z
 | Kategoria | Potwierdzenie wykonania    |
 | ------ | ----------- |
 | Wymagania podstawowe    | Oryginalna faktura firmy Microsoft |
-| Wymagania dotyczące komunikacji | Nie dotyczy |
-| Metryki     | Nie dotyczy |
+| Wymagania dotyczące komunikacji | NA |
+| Metryki     | NA |
 |Kwalifikujące się wydatki    | Opłata — Rejestracja roczna: MPN roczne opłaty za rejestrację<br><br>Tabliczka i dysk DVD (pierwszy zestaw): MPN i pierwszy zestaw dysków DVD<br><br>Dodatkowy zestaw narzędzi korzyści |
 
 ### <a name="microsoft-exams-and-tuition"></a>Egzaminy firmy Microsoft i Tuition
@@ -196,7 +192,7 @@ W poniższych tabelach przedstawiono podstawowe wymagania dotyczące każdej z z
 | ------ | ----------- |
 | Wymagania podstawowe    | Konferencje obsługiwane przez firmę Microsoft. Wydatki drogą/hotelowe są ograniczone do 5 000 USD na osobę na konferencję, ograniczone do 3 uczestników, z całkowitym limitem USD 45 000 dla drogą/szkolenia/wydatków związanych z hotelem na okres dla każdego programu. Hosting może mieć różne dodatki. |
 | Wymagania dotyczące komunikacji | Kopia konferencji/zaproszenia do zdarzenia lub potwierdzenie rejestracji przedstawiające dowód, że Konferencja jest hostowana przez firmę Microsoft<br><br>Trasa transportowa z datami podróży (tylko koszty podróży i drogą) |
-| Metryki     | Nie dotyczy |
+| Metryki     | NA |
 |Kwalifikujące się wydatki    | Opłata — Rejestracja: dla maksymalnie 3 uczestników na konferencję<br><br>Podróż-drogą/Hotel: Transport (drogą lub pouczenie oraz odpowiednie podatki) i Hotel (tylko stawka pokojowa i odpowiednie podatki)<br><br>Uwaga: koszty podróży — drogą/Hotel są ograniczone do 5 000 USD na osobę na konferencję, ograniczone do 3 uczestników, z całkowitym limitem USD 45 000 dla drogą/szkolenia/kosztów hotelowych na okres dla każdego programu. Hosting może mieć różne dodatki. |
 
 ### <a name="product-seedingdemo-units"></a>Inicjatory produktu/jednostki demonstracyjne
@@ -205,11 +201,11 @@ W poniższych tabelach przedstawiono podstawowe wymagania dotyczące każdej z z
 | ------ | ----------- |
 | Wymagania podstawowe    | Możesz przejąć do 10% łącznej liczby naliczanych środków współpracujących i 3 000 USD, w zależności od tego, która jest większa lub równa okresowi programu. Komputery stacjonarne & partnerzy nie mają limitu oświadczeń. |
 | Wymagania dotyczące komunikacji | Specyfikacje systemów demonstracyjnych wbudowanych w firmach.<br><br>Potwierdzenie dostawy dla jednostki demonstracyjnej innej firmy.<br><br>Weryfikacja jednostki demonstracyjnej innej firmy. |
-| Metryki     | Nie dotyczy |
-|Kwalifikujące się wydatki    | Nie dotyczy |
+| Metryki     | NA |
+|Kwalifikujące się wydatki    | NA |
 
  Aby uzyskać szczegółowe informacje, Pobierz pozycję [zachęty dla partnerów Guidebook](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (wymagane jest zalogowanie się).
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Zarządzaj oświadczeniami operacji współpracujących](incentives-managing-co-op-claims.md)
+- [Zarządzanie roszczeniami związanymi ze współpracą](incentives-managing-co-op-claims.md)

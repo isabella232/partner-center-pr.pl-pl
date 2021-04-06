@@ -2,17 +2,19 @@
 title: Rozliczenia — transakcje SaaS oparte na licencjach
 ms.topic: article
 ms.date: 05/05/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Poznaj typowe scenariusze rozliczeń w centrum partnerskim dla transakcji opartych na licencji, oprogramowania jako usługi (SaaS).
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d63e8345bf127cb91f1812193b1f0311cd569b3
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: e317cb58e9ebf4b0efad2933f866d5db19d8dc1a
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92530303"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502467"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Typowe scenariusze rozliczania dla transakcji SaaS opartych na licencji w centrum partnerskim
 

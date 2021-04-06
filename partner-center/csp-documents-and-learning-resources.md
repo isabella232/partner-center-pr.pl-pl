@@ -9,18 +9,17 @@ author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d4984f3a4612e8b0b0023f8cbfcb9a2805a3177
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 77d56a22e12b369b5df6fc50a8ee28b7db73192b
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979697"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502888"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Cloud Solution Provider program guide, agreements, price lists, and offers (Przewodnik po programie Cloud Solution Provider oraz jego umowy, cenniki i oferty)
 
 **Dotyczy**
 
-- Centrum partnerskie
 - Centrum partnerskie Microsoft Cloud for US Government
 
 
@@ -58,7 +57,7 @@ Jeśli pracujesz w Niemczech, może być konieczne dostarczenie tej zmiany dla k
 
 [Poprawka do tajemnicy profesjonalnej umowy Microsoft Cloudej dla Niemiec (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
-## <a name="pricing"></a>Cennik
+## <a name="pricing"></a>Ceny
 
 Pobierz szczegóły cennika dotyczące licencji, użycia i zakupów jednorazowych na stronie **Cennik i oferty** dostępne w menu **Centrum partnerskiego** .
 

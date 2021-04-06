@@ -2,17 +2,19 @@
 title: Wspólne miesięczne scenariusze rozliczeń
 ms.topic: article
 ms.date: 05/13/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Typowe scenariusze w centrum partnerskim w przypadku korzystania z comiesięcznych rozliczeń — obejmuje dodanie nowych subskrypcji, zmianę liczby licencji oraz wstrzymanie subskrypcji.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05c46faa3fd012677b615caa228cf4f7c6fe6c90
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 4fe5c33fe549604f25500dd333d187e6b70ad73e
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354580"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502518"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Przykładowe miesięczne Scenariusze rozliczania dla nowych subskrypcji, zmiany kwot licencji lub zawieszeń
 
@@ -27,13 +29,13 @@ Te przykładowe [typowe scenariusze rozliczania](common-billing-scenarios.md) s�
 
 ## <a name="new-monthly-subscription"></a>Nowa subskrypcja miesięczna
 
-Data rozliczenia to 15. w każdym miesiącu. 13 stycznia Użytkownik kupuje nową subskrypcję z jedną licencją na USD/miesiąc i wybiera comiesięczne rozliczanie. Plik uzgadniania na podstawie licencji 15 stycznia będzie zawierać następujące wiersze rozliczeń:
+Data rozliczenia to 15. w każdym miesiącu. 13 stycznia można zakupić nową subskrypcję z jedną licencją na USD/miesiąc i wybrać comiesięczne rozliczanie. Plik uzgadniania na podstawie licencji 15 stycznia będzie zawierać następujące wiersze rozliczeń:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |2/12/2018    |Opłata za cykl   |4,00       |1        |4,00 |
 
-Plik uzgadniania na podstawie licencji z lutego 15, będzie zawierać następujący wiersz rozliczenia:
+Plik uzgadniania opartego na licencji od lutego 15 będzie zawierać następujący wiersz rozliczenia:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -41,13 +43,13 @@ Plik uzgadniania na podstawie licencji z lutego 15, będzie zawierać następuj�
 
 ## <a name="change-license-quantity"></a>Zmień liczbę licencji
 
-Data rozliczenia to 15. w każdym miesiącu. 13 stycznia Użytkownik kupuje nową subskrypcję z jedną licencją na USD/miesiąc i wybiera comiesięczne rozliczanie. Plik uzgadniania na podstawie licencji 15 stycznia będzie zawierać następujące wiersze rozliczeń:
+Data rozliczenia to 15. w każdym miesiącu. 13 stycznia można zakupić nową subskrypcję z jedną licencją na USD/miesiąc i wybrać comiesięczne rozliczanie. Plik uzgadniania na podstawie licencji 15 stycznia będzie zawierać następujące wiersze rozliczeń:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |2/12/2018    |Opłata za cykl   |4,00       |1        |4,00    |
 
-1 lutego zwiększasz ilość licencji od jednej do dwóch. Plik uzgadniania na podstawie licencji z lutego 15, będzie zawierać następujące wiersze rozliczeń:
+1 lutego zwiększasz ilość licencji od jednej do dwóch. Plik uzgadniania opartego na licencji od lutego 15 będzie zawierać następujące wiersze rozliczania:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -68,13 +70,13 @@ Cena jednostkowa dawki = 1,54 = 12 x 0,129
 
 ## <a name="suspend-before-30-days"></a>Wstrzymaj przed 30 dni
 
-Data rozliczenia to 15. w każdym miesiącu. 13 stycznia Użytkownik kupuje nową subskrypcję z jedną licencją na USD/miesiąc i wybiera comiesięczne rozliczanie. Plik uzgadniania na podstawie licencji 15 stycznia będzie zawierać następujące wiersze rozliczeń:
+Data rozliczenia to 15. w każdym miesiącu. 13 stycznia można zakupić nową subskrypcję z jedną licencją na USD/miesiąc i wybrać comiesięczne rozliczanie. Plik uzgadniania na podstawie licencji 15 stycznia będzie zawierać następujące wiersze rozliczeń:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |2/12/2018    |Opłata za cykl   |4,00       |1        |4,00    |
 
-1 lutego wstrzymano subskrypcję. Plik uzgadniania na podstawie licencji z lutego 15, będzie zawierać następujący wiersz rozliczenia:
+1 lutego wstrzymuje się subskrypcję. Plik uzgadniania opartego na licencji od lutego 15 będzie zawierać następujący wiersz rozliczenia:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -82,19 +84,19 @@ Data rozliczenia to 15. w każdym miesiącu. 13 stycznia Użytkownik kupuje now�
 
 ## <a name="suspend-after-30-days"></a>Wstrzymaj po 30 dniach
 
-Data rozliczenia to 15. w każdym miesiącu. 13 stycznia Użytkownik kupuje nową subskrypcję z jedną licencją na USD/miesiąc i wybiera comiesięczne rozliczanie. Plik uzgadniania na podstawie licencji 15 stycznia będzie zawierać następujące wiersze rozliczeń:
+Data rozliczenia to 15. w każdym miesiącu. 13 stycznia można zakupić nową subskrypcję z jedną licencją na USD/miesiąc i wybrać comiesięczne rozliczanie. Plik uzgadniania na podstawie licencji 15 stycznia będzie zawierać następujące wiersze rozliczeń:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|2/12/2018|Opłata za cykl|4,00|1|4,00
 
-Plik uzgadniania na podstawie licencji z lutego 15, będzie zawierać następujący wiersz rozliczenia:
+Plik uzgadniania opartego na licencji od lutego 15 będzie zawierać następujący wiersz rozliczenia:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 2/13/2018|3/12/2018|Opłata za cykl|4,00|1|4,00
 
-1 marca wstrzymano subskrypcję. 15 marca plik uzgadniania oparty na licencji będzie zawierać następujący wiersz rozliczenia:
+1 marca wstrzymasz subskrypcję. 15 marca plik uzgadniania opartego na licencji będzie zawierać następujący wiersz rozliczenia:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |

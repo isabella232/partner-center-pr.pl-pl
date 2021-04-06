@@ -10,19 +10,18 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ae107c005eaf6b8ff8a6d99a91075ebc560cf81
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 2171e2b10101e99bdd8d415a936ba98af65c2a1b
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92530250"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502574"
 ---
-# <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instrukcje dotyczące konsolidacji dzierżawy regionalnej autoryzacji dostawcy usług kryptograficznych
+# <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instrukcje dotyczące konsolidacji dzierżawy regionalnej autoryzacji dostawcy CSP
 
 **Dotyczy**
 
--  Centrum partnerskie
--  Centrum partnerskie dla Microsoft Cloud dla instytucji rządowych USA
+- Centrum partnerskie Microsoft Cloud for US Government
 
 **Odpowiednie role**
 
@@ -46,9 +45,9 @@ Można skonsolidować dzierżawców dla swojej firmy. Te instrukcje służą do 
 
 1. Zaloguj się do **Centrum partnerskiego**  przy użyciu konta **przechodzenia** (nowe) (do którego są przenoszone klienci).
 
-2. Wybierz pozycję **Klienci** .
+2. Wybierz pozycję **Klienci**.
 
-3. Kliknij pozycję **Żądaj relacji odsprzedawcy** . Zostanie wyświetlona domyślna wiadomość e-mail do wysłania do klientów. Ten komunikat zawiera adres URL z unikatowym IDENTYFIKATORem organizacji dla nowego konta Centrum partnerskiego.
+3. Wybierz pozycję **Żądaj relacji odsprzedawcy**. Zostanie wyświetlona domyślna wiadomość e-mail do wysłania do klientów. Ten komunikat zawiera adres URL z unikatowym IDENTYFIKATORem organizacji dla nowego konta Centrum partnerskiego.
 
 4. **Akcja klienta:** Upewnij się, że każdy aktywny klient, który ma zostać zmigrowany, odwiedzi ten adres URL. Podczas otwierania adresu URL klient zostanie poproszony o zalogowanie się w portalu pakietu Office 365. Klient loguje się przy użyciu tego samego identyfikatora organizacji, który służy do uzyskiwania dostępu do portali administratorów platformy Azure i pakietu Office 365.
 
@@ -60,17 +59,17 @@ Po przesłaniu umowy klient zostanie wyświetlony na liście klientów partnera.
 
 1. Po podpisaniu umowy przez klienta możesz ponownie utworzyć swoje subskrypcje w ramach dzierżawy scentralizowanego partnera.
 
-2. W **centrum partnerskim** wybierz pozycję **klienci** .
+2. W **centrum partnerskim** wybierz pozycję **klienci**.
 
 3. Otwórz nazwę firmy dla klienta, który ma zostać zmigrowany.
 
-4. Wybierz pozycję **Dodaj subskrypcję** .
+4. Wybierz pozycję **Dodaj subskrypcję**.
 
 5. Dodaj prawidłowe subskrypcje i liczby licencji z wykazu. Sprawdź informacje zawarte w **przejściu z** kont partnerów.
 
    :::image type="content" source="images/regionalcustomer2.png" alt-text="Lista klientów":::
 
-6. Kliknij przycisk **Prześlij.**
+6. Wybierz pozycję **Prześlij.**
 
    Usługi są teraz udostępniane klientowi z **przechodzenia do** konta partnera.
 
@@ -89,7 +88,7 @@ Wyłączenie subskrypcji dostawcy usług kryptograficznych w ramach **przejścia
 
 2. Otwórz klienta z subskrypcjami, aby wyłączyć, a następnie wybierz pierwszą ofertę do wyłączenia.
 
-3. Ustaw subskrypcję na **zawieszone** , a następnie kliknij pozycję **Prześlij** .
+3. Ustaw subskrypcję na **zawieszone**, a następnie wybierz pozycję **Prześlij**.
 
    >[!Note]
    >Wstrzymanie subskrypcji gwarantuje, że podwójne rozliczenie nie nastąpi.
@@ -102,7 +101,7 @@ Wyłączenie subskrypcji dostawcy usług kryptograficznych w ramach **przejścia
 
 ## <a name="migrating-azure-usage-based-subscriptions"></a>Migrowanie subskrypcji opartych na użyciu platformy Azure
 
-W przeciwieństwie do subskrypcji programu CSP pakietu Office 365, Azure, subskrypcje programu CSP oparte na użyciu nie muszą być migrowane ręcznie. Obsługa Microsoft Azure przeprowadzi migrację subskrypcji platformy Azure, a także wszystkich wdrożonych usług lub zasobów z **przechodzenia z** kont odsprzedawców programu CSP do **przejścia do** konta odsprzedawcy programu CSP. W trakcie tego przejścia nie będzie zakłócać działania usługi dla klienta.
+W przeciwieństwie do subskrypcji programu CSP pakietu Office 365, Azure, subskrypcje programu CSP oparte na użyciu nie muszą być migrowane ręcznie. Obsługa Microsoft Azure przeprowadzi migrację subskrypcji platformy Azure i wszystkich wdrożonych usług lub zasobów z **przechodzenia z** kont odsprzedawcy programu CSP do **przejścia do** konta odsprzedawcy programu CSP. W trakcie tego przejścia nie będzie zakłócać działania usługi dla klienta.
 
 1. Upewnij się, że konta klientów, dla których zostały zmigrowane subskrypcje platformy Azure, zaakceptowały umowę, która zostanie skojarzona z nowym **przejściem do** konta dostawcy CSP.
 
@@ -134,11 +133,11 @@ W przeciwieństwie do subskrypcji programu CSP pakietu Office 365, Azure, subskr
 
 Za pomocą **funkcji eksportu** można przechwytywać subskrypcje, których należy użyć w nowej strukturze skonsolidowanej:
 
-1. Kliknij pozycję **klienci** w centrum partnerskim, aby wyświetlić listę klientów. 
+1. Wybierz pozycję **klienci** w centrum partnerskim, aby wyświetlić listę klientów. 
 
 2. Otwórz żądaną nazwę klienta.
 
-3. Na stronie **subskrypcje** kliknij pozycję **Eksportuj subskrypcje** , aby wyeksportować szczegóły subskrypcji do pliku programu Excel.
+3. Na stronie **subskrypcje** wybierz pozycję **Eksportuj subskrypcje** , aby wyeksportować szczegóły subskrypcji do pliku programu Excel.
 
 4. Użyj tej listy, aby ponownie utworzyć subskrypcje w nowej konsolidowanej dzierżawie.
 

@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475198"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502556"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sprzedaj subskrypcje oprogramowania za pomocą programu Cloud Solution Provider (CSP)
-
-**Dotyczy**
-
-- Dostawcy rozwiązań w chmurze
 
 **Odpowiednie role**
 
@@ -31,7 +27,7 @@ Dzięki zastrzeżeń platformy Azure i subskrypcji serwera (subskrypcje systemu 
 
 Możesz teraz nabyć i zarządzać rezerwacjami platformy Azure oraz subskrypcjami serwerów w imieniu klientów komercyjnych za pomocą Centrum partnerskiego i Azure Portal, korzystając z Korzyść użycia hybrydowego platformy Azure.
 
-Korzyść użycia hybrydowego platformy Azure pomaga uzyskać więcej wartości z licencji systemu Windows Server i zaoszczędzić do 40% na maszynach wirtualnych. Możesz korzystać z korzyści z licencji systemu Windows Server Datacenter i Standard Edition, które są objęte programem Software Assurance. W zależności od wersji można przekonwertować licencje lub użyć ich ponownie w celu uruchomienia maszyn wirtualnych z systemem Windows Server na platformie Azure i uregulować niższą podstawową stawkę obliczeniową (na przykład stawki za maszyny wirtualne z systemem Linux).
+Korzyść użycia hybrydowego platformy Azure pomaga uzyskać więcej wartości z licencji systemu Windows Server i zaoszczędzić do 40% na maszynach wirtualnych. Możesz korzystać z korzyści z licencji systemu Windows Server Datacenter i Standard Edition, które są objęte programem Software Assurance. W zależności od wersji można skonwertować lub ponownie użyć licencji, aby uruchamiać maszyny wirtualne z systemem Windows Server na platformie Azure i uregulować niższą podstawową stawkę obliczeniową (na przykład stawki za maszyny wirtualne z systemem Linux).
 
 ## <a name="azure-reservations-unavailable-markets"></a>Platforma Azure zastrzega niedostępne rynki
 
@@ -101,7 +97,7 @@ Po zakupieniu oprogramowania ty lub klienci muszą pobrać ją (partnerzy przy u
 
 2. Wybierz pozycję **wersja** produktu, **Język**, **bit**, a następnie wybierz pozycję **Pobierz klucze i pliki do pobrania**. 
 
-3. Wybierz pozycję **Pobierz klucz** , aby wyświetlić 32-cyfrowy produkt w oknie dialogowym podręcznym, który można skopiować i wysłać do klienta. 
+3. Wybierz pozycję **Pobierz klucz** , aby wyświetlić 32-cyfrowy produkt w wyskakującym oknie dialogowym, które można skopiować i wysłać do klienta. 
 
 4. Wybierz pozycję **Pobierz** , aby pobrać bity. 
 
@@ -114,7 +110,7 @@ Po zakupieniu oprogramowania ty lub klienci muszą pobrać ją (partnerzy przy u
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Pobieranie subskrypcji serwera i klucze licencji dostępne za poorednictwem centrum administracyjnego Microsoft 365 dla klientów 
 
-Klienci będą mogli uzyskać klucze licencji subskrypcji serwera CSP i pobrać je z centrum administracyjnego Microsoft 365. Aby wyświetlić klucze licencji subskrypcji serwera CSP i pliki do pobrania, klient musi przejść do centrum administracyjnego Microsoft 365 > **rozliczenia > produktów > karta oprogramowania**. Aby uzyskać więcej informacji, zobacz [kartę oprogramowanie w obszarze rozliczenia](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
+Klienci będą mogli uzyskać klucze licencji subskrypcji serwera CSP i pobrać je z centrum administracyjnego Microsoft 365. Aby wyświetlić klucze licencji subskrypcji serwera CSP i pliki do pobrania, klient musi przejść do centrum administracyjnego Microsoft 365 > **rozliczenia > produktów > karta oprogramowania**. Aby uzyskać więcej informacji, zobacz [karta oprogramowanie w obszarze rozliczenia](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Wyświetlanie działania dotyczącego dostępu do kluczy oprogramowania i pobierania oprogramowania
 

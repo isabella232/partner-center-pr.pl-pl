@@ -4,25 +4,23 @@ ms.topic: how-to
 ms.date: 07/22/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, jak sprzedawać subskrypcje klientów do produktów opublikowanych przez firmę Microsoft, a także produktów SaaS opublikowanych przez niezależnych dostawców oprogramowania.
+description: Dowiedz się, jak sprzedawać subskrypcje klientom w przypadku produktów opublikowanych przez firmę Microsoft, a także produktów SaaS opublikowanych przez niezależnych dostawców oprogramowania.
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 85a40974557817825d58246c2c010c7cf8a6a5e1
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 559d1fbd2efc1417ae89931279b9d3c9a1d67f7c
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038884"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502939"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Tworzenie, zawieszanie lub anulowanie subskrypcji klientów
 
 **Dotyczy**
 
-- Centrum partnerskie
 - Centrum partnerskie Microsoft Cloud for US Government
-- Partnerzy CSP
 
 **Odpowiednie role**
 
@@ -32,7 +30,7 @@ ms.locfileid: "96038884"
 - Agent pomocy technicznej
 - Agent sprzedaży
 
-Po utworzeniu rekordu klienta w centrum partnerskim możesz sprzedawać te subskrypcje do produktów w katalogu. Obejmuje to produkty opublikowane przez firmę Microsoft, a także produkty SaaS (Software as a Service) opublikowane przez niezależnych dostawców oprogramowania (ISV) innych firm do [komercyjnej witryny Marketplace](https://azuremarketplace.microsoft.com/marketplace).
+Po utworzeniu rekordu klienta w centrum partnerskim możesz sprzedawać te subskrypcje do produktów w katalogu. Obejmuje to produkty opublikowane przez firmę Microsoft i oprogramowanie jako usługa (SaaS) opublikowane przez niezależnych dostawców oprogramowania (ISV) innych firm do [komercyjnej witryny Marketplace](https://azuremarketplace.microsoft.com/marketplace).
 
 Niektóre oferty są ograniczone do jednej subskrypcji na klienta. Aby wyświetlić listę ofert, które są ograniczone, odwiedź stronę ceny i oferty Centrum partnerskiego.
 
@@ -80,7 +78,7 @@ Niektóre oferty są ograniczone do jednej subskrypcji na klienta. Aby wyświetl
    
 ## <a name="update-subscriptions-with-add-ons"></a>Aktualizowanie subskrypcji z dodatkami 
 
-Aby kupić dodatek, klient musi mieć aktywną subskrypcję podstawową.  Nie można kupować dodatków za pomocą wykazu.
+Aby kupić dodatek, klient musi najpierw mieć aktywną subskrypcję podstawową.  Nie można kupować dodatków za pomocą wykazu.
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
 
@@ -93,7 +91,7 @@ Aby kupić dodatek, klient musi mieć aktywną subskrypcję podstawową.  Nie mo
 5. Zaktualizuj liczbę licencji dla każdego wymaganego dodatku. Następnie **prześlij** zmiany.
 
 Możliwość kupowania dodatków za pośrednictwem Centrum partnerskiego jest dostępna tylko dla dostawców rachunków bezpośrednich i pośrednich.
-Tylko kwalifikujące się dodatki są wyświetlane na podstawie podstawowych wymagań i dostępności regionalnej. Aby uzyskać więcej informacji na temat cen i ofert, zapoznaj się z tabelą ofert dla odsprzedawców rozwiązań w chmurze.  Wstrzymanie subskrypcji podstawowej spowoduje również wstrzymanie wszystkich skojarzonych dodatków.
+Tylko kwalifikujące się dodatki są wyświetlane na podstawie podstawowych wymagań i dostępności regionalnej. Aby uzyskać więcej informacji na temat cen i ofert, zapoznaj się z macierzą oferty odsprzedawcy w chmurze. Wstrzymanie subskrypcji podstawowej spowoduje również wstrzymanie wszystkich skojarzonych dodatków.
 
 Daty rozpoczęcia dla dodatków są dopasowywane do podstawowej subskrypcji, a opłaty są obliczane na podstawie daty rozpoczęcia i zakończenia naliczania opłat z opłatami proporcjonalnymi na pierwszej fakturze. Aby uzyskać dodatkowe informacje, zobacz artykuł dotyczący [rozliczeń opartych na licencji](license-based-billing.md).
 
@@ -102,7 +100,7 @@ Daty rozpoczęcia dla dodatków są dopasowywane do podstawowej subskrypcji, a o
 
 Partnerzy mogą wstrzymywać lub anulować subskrypcję, jeśli jest to wymagane przez klienta lub w przypadku braku płatności lub oszustwa.
 
-### <a name="suspend-a-subscription"></a>Wstrzymywanie subskrypcji
+### <a name="suspend-a-subscription"></a>Zawieszenie subskrypcji
 
 W przypadku zmiany stanu subskrypcji na **zawieszone** użytkownicy nie będą mogli się zalogować ani uzyskiwać dostępu do usług.
 
@@ -120,7 +118,7 @@ W przypadku wstrzymania subskrypcji Data wyświetlana poniżej przycisku **Wstrz
 
 ### <a name="cancel-a-subscription"></a>Anulowanie subskrypcji
 
-Możesz anulować subskrypcje SaaS oparte na licencji od wydawców niezależnych od firmy Microsoft [w centrum](csp-commercial-marketplace-overview.md)partnerskim. Po anulowaniu anulowania w okresie anulowania otrzymasz pełny zwrot.
+Subskrypcje SaaS oparte na licencjach można anulować od wydawców niezależnych dostawców oprogramowania w ramach [komercyjnego portalu](csp-commercial-marketplace-overview.md)partnerów. Po anulowaniu anulowania w okresie anulowania otrzymasz pełny zwrot.
 
 W przypadku niezależnych dostawców oprogramowania oferty są rozliczane miesięcznie:
 

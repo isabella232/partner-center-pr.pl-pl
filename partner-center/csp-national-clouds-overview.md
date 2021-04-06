@@ -9,26 +9,25 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 386df8e19a7c66403770f94f2656bc52feb15564
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: cf5c64893bd5a55d842b2c426d05480a5a943a36
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979570"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502905"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Zastosuj do sprzedawcy w chmurach narodowych firmy Microsoft w ramach programu CSP
 
 **Dotyczy**
 
-- Centrum partnerskie w chmurze firmy Microsoft dla instytucji rządowych
+- Centrum partnerskie Microsoft Cloud for US Government
 - Centrum partnerskie dla Microsoft Cloud (Niemcy)
-
 
 **Odpowiednie role**
 
 - Administrator globalny
 
-Oprócz sprzedaży do klientów w ramach globalnego programu dostawcy rozwiązań w chmurze, wykwalifikowany partnerzy firmy Microsoft mogą również sprzedawać rozwiązania w chmurze klientom w trzech oddzielnych chmurach narodowych. Chmury krajowe to fizyczne i logiczne wystąpienia usług w chmurze firmy Microsoft przedsiębiorstwa, które są ograniczone do granic geograficznych określonych krajów i obsługiwanych przez personel lokalny. 
+Oprócz sprzedaży do klientów w ramach globalnego programu dostawcy rozwiązań w chmurze, wykwalifikowany partnerzy firmy Microsoft mogą również sprzedawać rozwiązania w chmurze klientom w trzech oddzielnych chmurach narodowych. Chmury krajowe to fizyczne i logiczne wystąpienia usług w chmurze firmy Microsoft przedsiębiorstwa, które są ograniczone do granic geograficznych określonych krajów i obsługiwanych przez personel lokalny.
 
 Aby uzyskać więcej informacji o ofercie krajowej chmury firmy Microsoft, zobacz [chmurę krajową firmy Microsoft](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud).
 
@@ -56,7 +55,7 @@ Zakwalifikowani partnerzy mogą sprzedawać rozwiązania firmy Microsoft w chmur
     
 -   [**Platforma Azure i pakiet Office 365 obsługiwane przez firmę 21Vianet w Chinach**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Firma Microsoft oferuje usługi w chmurze w Chinach za pomocą unikatowego powiązania z technologią Szanghaj Blue Cloud Technology Co., Ltd. (21Vianet), będącą całkowicie własnością zależną od firmy Pekin usługi Microsoft Data Center. Ltd. 21Vianet, która jest największym neutralnym dostawcą internetowym dla centrów danych, hostingu, zarządzanej sieci i chmurowej infrastruktury obliczeniowej w Chinach. 
 
-    Firma Microsoft jest dostawcą technologii, ale nie działa z usługą; Firma 21Vianet niezależnie działa, zapewnia i zarządza dostarczaniem usług w chmurze firmy Microsoft. Korzystając z licencjonowania technologii firmy Microsoft, firma 21Vianet może oferować usługi platformy Azure i pakietu Office 365 i obsługiwać centra danych platformy Azure i pakietu Office 365, które przechowują dane w Chinach kontynentalnej. Ponadto usługa 21Vianet oferuje usługi subskrypcyjne i rozliczeniowe oraz pomoc techniczną.
+    Firma Microsoft jest dostawcą technologii, ale nie działa z usługą; Firma 21Vianet niezależnie działa, zapewnia i zarządza dostarczaniem usług w chmurze firmy Microsoft. Korzystając z licencjonowania technologii firmy Microsoft, firma 21Vianet może oferować usługi platformy Azure i pakietu Office 365 i obsługiwać centra danych platformy Azure i pakietu Office 365, które przechowują dane w Chinach kontynentalnej. Usługa 21Vianet oferuje także usługi subskrypcji i rozliczeń oraz pomoc techniczną.
 
     Aby dowiedzieć się, jak zarejestrować się w usłudze i sprzedawać klientom na platformie Azure oraz w pakiecie Office 365 obsługiwanym przez firmę 21Vianet w Chinach, zobacz [Centrum partnerskie obsługiwane przez firmę 21Vianet](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11)).
 

@@ -9,18 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9b2f0b3acbbf3ad9648301b85cec3b8837e3e51e
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 9780aa80fdcaab6cfd240127b80155cbfb8dcd26
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132950"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502922"
 ---
 # <a name="create-and-manage-an-incentives-co-op-claim"></a>Tworzenie i zarządzanie zgłoszeniem zachęty do współpracy
-
-**Dotyczy**
-
-- Centrum partnerskie
 
 **Odpowiednie role**
 
@@ -32,11 +28,11 @@ Możesz zainicjować zakres bodźców z poziomu Centrum partnerskiego.
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 
-2. Wybierz kartę **zachęty** , a następnie wybierz pozycję **Zarządzanie współistnieniem** .
+2. Wybierz kartę **zachęty** , a następnie wybierz pozycję **Zarządzanie współistnieniem**.
 
 3. Jeśli masz już oświadczenie w procesie, na stronie Przegląd oświadczeń są wyświetlane informacje o stanie istniejących oświadczeń, zatwierdzonych i całkowitych środków.
 
-4. Aby utworzyć nowe zastrzeżenie, wybierz pozycję **Utwórz zastrzeżenie** .
+4. Aby utworzyć nowe zastrzeżenie, wybierz pozycję **Utwórz zastrzeżenie**.
 
 5. Po wypełnieniu formularza początkowego i wybraniu pozycję **Utwórz żądanie** nastąpi przekierowanie do strony szczegółów, na której będzie można dodawać faktury, CSR, dokumenty potwierdzające i metryki. W razie konieczności można także dodać dodatkowe informacje.
 
@@ -44,7 +40,7 @@ Na stronie szczegółów roszczenia można zwrócić się do innych osób w orga
 
 ### <a name="manage-your-claims"></a>Zarządzanie oświadczeniami
 
-Możesz zobaczyć wszystkie działania, które prowadzą do kompilowania Twojego zgłoszenia w **historii** . Za każdym razem, gdy współpracownik dodaje dokument lub komentarze pomocnicze, akcja jest przechowywana w **historii** . Do momentu przesłania tego żądania stan jest **edytowany** . Stan Twojego zgłoszenia zmienia się w miarę jego przemieszczania przez proces zatwierdzania. Czasami podczas przeglądania zgłoszenia możesz otrzymać opinię na temat konkretnego elementu w dokumentacji potwierdzającej wykonanie (PoE). Opinie i prośby o dodatkowe informacje są również wyświetlane w historii roszczeń.
+Możesz zobaczyć wszystkie działania, które prowadzą do kompilowania Twojego zgłoszenia w **historii**. Za każdym razem, gdy współpracownik dodaje dokument lub komentarze pomocnicze, akcja jest przechowywana w **historii**. Do momentu przesłania tego żądania stan jest **edytowany**. Stan Twojego zgłoszenia zmienia się w miarę jego przemieszczania przez proces zatwierdzania. Czasami podczas przeglądania zgłoszenia możesz otrzymać opinię na temat konkretnego elementu w dokumentacji potwierdzającej wykonanie (PoE). Opinie i prośby o dodatkowe informacje są również wyświetlane w historii roszczeń.
 
 Nie można edytować swojego zgłoszenia, jeśli recenzent nie zażąda dodatkowych informacji.
 

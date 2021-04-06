@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59e84162b85df197b135bcf5792fd2e730b53e56
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: e6b0de64a9ac3d86c77cc47f6b69b8a132606309
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "92529289"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502871"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Omówienie ofert partnerów w programie Cloud Solution Provider
-
-**Dotyczy**
-
-- Partnerzy CSP
 
 **Odpowiednie role**
 
@@ -28,7 +24,7 @@ ms.locfileid: "92529289"
 - Administrator globalny
 - Agent sprzedaży
 
-Partnerzy firmy Microsoft w programie dostawcy rozwiązań w chmurze (CSP) mają dostępny dla nich katalog z rosnącymi ofertami. Możesz sprzedawać pełen zakres [usług firmy Microsoft w chmurze](https://partner.microsoft.com/cloud-solution-provider/products-and-services), a także wiele dodatkowych ofert, które często zmieniają się. Aby wyświetlić oferty CSP dla bieżącego miesiąca, zaloguj się do Centrum partnerskiego, a następnie przejdź do strony [**Cennik i oferty**](https://partnercenter.microsoft.com/pcv/sales) .  
+Partnerzy firmy Microsoft w programie dostawcy rozwiązań w chmurze (CSP) mają dostępny dla nich katalog z rosnącymi ofertami. Możesz sprzedawać pełen zakres [usług firmy Microsoft w chmurze](https://partner.microsoft.com/cloud-solution-provider/products-and-services)i różne inne oferty, które często się zmieniają. Aby wyświetlić oferty CSP dla bieżącego miesiąca, zaloguj się do Centrum partnerskiego, a następnie przejdź do strony [**Cennik i oferty**](https://partnercenter.microsoft.com/pcv/sales) .  
 
 Jeszcze nie zarejestrowano w programie dostawcy rozwiązań w chmurze? Odwiedź [dostawcę rozwiązań w chmurze](https://partner.microsoft.com/cloud-solution-provider) , aby uzyskać więcej informacji o sposobie rejestrowania. 
 
@@ -53,7 +49,7 @@ Obecnie do klientów korzystających z programu CSP można sprzedawać następuj
 
 ### <a name="online-services"></a>Usługi online
 
-   *Usługi online* to nowa nazwa dla elementów, które są obecnie określane jako *subskrypcje*. Aby ułatwić zamawianie wielu typów produktów w jednym miejscu, należy zintegrować przepływ zadań "Dodaj subskrypcję" w przepływ zadań "Dodaj produkty".
+   *Usługi online* to nowa nazwa, która jest obecnie określana jako *subskrypcje*. Aby ułatwić zamawianie wielu typów produktów w jednym miejscu, należy zintegrować przepływ zadań "Dodaj subskrypcję" w przepływ zadań "Dodaj produkty".
 
    Aby uzyskać więcej informacji, zobacz [subskrypcje klientów](customer-subscriptions.md).
 
@@ -111,16 +107,16 @@ Aby kupić produkty i usługi w imieniu klientów korzystających z programu CSP
 
 ## <a name="rules-for-special-segments"></a>Reguły dla segmentów specjalnych
 
-Niektóre oferty oparte na licencjach można kupić tylko w określonych warunkach. Oferty specjalne obejmują m.in. oferty edukacyjne, niedochodowe lub w chmurze społecznościowej dla instytucji rządowych. Szczegółowe informacje na temat tych warunków zakupu można znaleźć w [temacie reguły zakupu dla segmentów specjalnych](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).
+Niektóre oferty oparte na licencjach można kupić tylko w określonych warunkach. Oferty specjalnych segmentów obejmują oferty edukacyjne, niedochodowe lub w chmurze społecznościowej dla instytucji rządowych. Szczegółowe informacje na temat tych warunków zakupu można znaleźć w [temacie reguły zakupu dla segmentów specjalnych](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).
 
 ## <a name="troubleshooting-catalog-purchases"></a>Rozwiązywanie problemów z zakupami katalogu
 
 Mogą być różne przyczyny tego, dlaczego nie można znaleźć szukanej oferty w katalogu. Poniżej znajdują się elementy, które należy sprawdzić, jeśli nie można znaleźć oczekiwanej oferty.
 
-- **Sprawdź, czy klient jest wykwalifikowany**. Wiele ofert wymaga, aby klientom były sprzedawane specjalne kwalifikacje. Te specjalne segmenty obejmują edukację, organizacje non profit i chmurę Government Community Cloud (GCC). Przed zarejestrowaniem problemu najpierw sprawdź, czy kwalifikacje klienta zostały odpowiednio ustawione. Aby to sprawdzić, kliknij klienta z listy klientów i wyświetl konto. W razie potrzeby konto będzie miało specjalne kwalifikacje. Jeśli próbujesz kupić segment edukacyjny dla klienta, który nie jest wykwalifikowany, te oferty nie będą widoczne w katalogu. Aby uzyskać więcej informacji na temat kwalifikowania klientów, zobacz [specjalne segmenty zawiera](get-special-pricing-for-offers.md) .
-- **Zdecyduj, czy próbujesz kupić dodatek czy ofertę podstawową**. Wiele usług opartych na licencji, takich jak Microsoft 365 i Dynamics 365, umożliwiają zakupy zarówno w katalogu ofert podstawowych, jak i dodatków. W katalogu można kupić tylko oferty podstawowe. Aby kupić dodatki, należy najpierw zakupić ofertę podstawową w katalogu, a następnie wybrać klienta z listy klientów i wybrać subskrypcję oferty podstawowej. Dodatki można stosować do oferty podstawowej na tej stronie zarządzania subskrypcjami. 
+- **Sprawdź, czy klient jest wykwalifikowany**. Wiele ofert wymaga, aby klientom były sprzedawane specjalne kwalifikacje. Te specjalne segmenty obejmują edukację, niedochodowość i chmurę społeczności dla instytucji rządowych. Przed zarejestrowaniem problemu najpierw sprawdź, czy kwalifikacje klienta zostały odpowiednio ustawione. Możesz to sprawdzić, wybierając klienta z listy klienta i wyświetlając konto. W razie potrzeby konto będzie miało specjalne kwalifikacje. Jeśli próbujesz kupić segment edukacyjny dla klienta, który nie jest wykwalifikowany, te oferty nie będą widoczne w katalogu. Aby uzyskać więcej informacji na temat kwalifikowania klientów, zobacz [dokumentację segmentów specjalnych](get-special-pricing-for-offers.md).
+- **Zdecyduj, czy próbujesz kupić dodatek czy ofertę podstawową**. Wiele usług opartych na licencji, takich jak Microsoft 365 i Dynamics 365, umożliwiają zarówno zakupy w wykazie podstawowych ofert i dodatków. W katalogu można kupić tylko oferty podstawowe. Aby kupić dodatki, należy najpierw zakupić podstawową ofertę w wykazie, a następnie wybrać klienta z listy klient, a następnie wybrać subskrypcję podstawowej oferty. Dodatki można stosować do oferty podstawowej na tej stronie zarządzania subskrypcjami. 
 - **Sprawdź, czy produkty są dostępne na rynku**. Wiele produktów i usług jest skonfigurowanych do sprzedaży wyłącznie klientom w określonych krajach. Listę obsługiwanych krajów można znaleźć w różnych plikach cennika. Kraje obsługiwane przez usługi oparte na licencji są dostępne w macierzy list ofert na stronie cennika i ofert.
-- **Sprawdź, czy oferty są dostępne w cenniku**. Dostępna lista ofert może ulec zmianie z miesiąca na miesiąc. Jeśli nie możesz znaleźć oferty w katalogu, upewnij się, że jest ona dostępna w bieżących cennikach na stronie **Sprzedaż > Cennik i oferty**.
+- **Sprawdź, czy oferty są dostępne w cenniku**. Dostępna lista ofert może ulec zmianie z miesiąca na miesiąc. Jeśli nie możesz znaleźć oferty w wykazie, sprawdź, czy jest ona dostępna na liście bieżących cen na stronie **sprzedaj > Cennik i oferty** .
 
 ### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Zalecane dokumenty dotyczące kupowania elementów w centrum partnerskim
 
