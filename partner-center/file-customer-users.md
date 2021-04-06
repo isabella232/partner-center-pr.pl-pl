@@ -9,18 +9,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07a28e5310716f3df11caa36e51339e877e65627
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 8ba08d97f1d360eae5af1941ed36753addd24939
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92529433"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441425"
 ---
 # <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Dodawanie wielu użytkowników do konta klienta przez utworzenie pliku CSV
-
-**Dotyczy**
-
-- Centrum partnerskie
 
 **Odpowiednie role**
 
@@ -46,7 +42,7 @@ Wprowadź następujące dane w pliku danych:
 | Nazwisko  | Nazwisko użytkownika (pole opcjonalne)  | 50 — limit znaków  |
 | Nazwa wyświetlana    | Nazwa wyświetlana w centrum partnerskim (pole wymagane)                            | 50 — limit znaków                         |
 | E-mail   | Służbowy adres e-mail użytkownika w firmie klienta (wymagane pole)           | Każdy użytkownik musi mieć unikatowy adres e-mail |
-| Aktualizacja stanu   | Służy do wskazania, czy nowy rekord użytkownika został pomyślnie utworzony | \*\*Pozostaw puste\*\*                        |
+| Aktualizacja stanu   | Służy do wskazywania, czy nowy rekord użytkownika został pomyślnie utworzony | \*\*Pozostaw puste\*\*                        |
 
 ## <a name="next-steps"></a>Następne kroki
 

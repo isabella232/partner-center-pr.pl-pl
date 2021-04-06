@@ -1,7 +1,7 @@
 ---
 title: Zarządzanie lokalizacjami na koncie partnerskim
 ms.topic: how-to
-ms.date: 02/08/2021
+ms.date: 04/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Dowiedz się, jak dodać nową lokalizację i jak używać identyfikatora MPN Location w programach zachęty, biznesie CSP, subskrypcjach i innych transakcjach.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 41ffaeaf0fb46659142949872295523546bb91c1
-ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
+ms.openlocfilehash: 7ca8c866479fbe153c1e0192edd33e8258b9d6e7
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "100005912"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441335"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Zarządzanie lokalizacjami kont MPN i Dodawanie (usuwanie) lokalizacji
 
@@ -26,9 +26,9 @@ ms.locfileid: "100005912"
 
 IDENTYFIKATOR MPN lokalizacji identyfikuje każdą konkretną lokalizację firmy. IDENTYFIKATOR MPN Location służy do rejestrowania w programach zachęty, do firmowego dostawcy rozwiązań w chmurze (CSP) i innych transakcji roboczych. Globalny identyfikator MPN jest używany dla działań nietransakcyjnych, takich jak żądania pomocy technicznej.
 
-## <a name="the-following-is-a-typical-scenario"></a>Poniżej przedstawiono typowy scenariusz:
+## <a name="the-following-scenario-is-typical"></a>Poniżej przedstawiono typowy scenariusz:
 
-Firma Contoso ma swoje konto globalne partnera (PGA) w Wielkiej Brytanii. Jest to zarejestrowana firma prawna, a jej globalny identyfikator MPN jest używany do zarządzania wszystkimi nietransakcyjnymi biznesowymi. Firma Contoso ma także równorzędne konta firmowe lub działy w innej lokalizacji w Wielkiej Brytanii, Francji i w USA. W strukturze konta MPN te PLAs są reprezentowane jako unikatowe lokalizacje MPN identyfikatory. PLAs są używane dla transakcji transakcyjnych, takich jak CSP lub programy zachęt. Wypłaty są powiązane z określonymi lokalizacjami. 
+Firma Contoso ma swoje konto globalne partnera (PGA) w Wielkiej Brytanii. PGA jest zarejestrowaną firmą prawną, a jej globalny identyfikator MPN jest używany do zarządzania wszystkimi nietransakcyjnymi biznesowymi. Firma Contoso ma także równorzędne konta firmowe lub działy w innej lokalizacji w Wielkiej Brytanii, Francji i w USA. W strukturze konta MPN te PLAs są reprezentowane jako unikatowe lokalizacje MPN identyfikatory. PLAs są używane dla transakcji transakcyjnych, takich jak CSP lub programy zachęt. Wypłaty są powiązane z określonymi lokalizacjami. 
 
 >[!NOTE]
 >Istnieje relacja 1-1 między dzierżawą dostawcy usług kryptograficznych i IDENTYFIKATORem lokalizacji MPN.
@@ -56,13 +56,32 @@ Aby dodać nowe konto biznesowe dostawcy usług kryptograficznych, Zacznij od up
  
 1. Na ikonie **ustawień** wybierz kolejno pozycje **Ustawienia konta**, **profil organizacji** i informacje **prawne**. 
 
-1. Na karcie **partner** Sprawdź, czy nie jest wyświetlany komunikat o błędzie transparentu z prośbą o naprawienie zmigrowanych lokalizacji z PMC. Jeśli istnieje, postępuj zgodnie z instrukcjami i napraw te lokalizacje. 
+1. Na karcie **partner** Sprawdź, czy nie jest wyświetlany komunikat o błędzie transparentu z prośbą o naprawienie zmigrowanych lokalizacji z PMC.  Jeśli lokalizacje nie zostały poprawnie skonfigurowane w kryterium PMC i nie zostały jeszcze przenoszone na komputer, musisz zaktualizować te lokalizacje.
 
-3. Jeśli nie ma komunikatu o błędzie, w obszarze  **Ustawienia** wybierz pozycję  **Ustawienia konta**, **profil organizacji**, **identyfikatory**.
+:::image type="content" source="images/locations/location-two.png" alt-text="Zrzut ekranu przedstawiający pokazuje, jak aktualizować lokalizację.":::
+ 
+4.  Na ekranie **Przejrzyj lokalizacje PMC** wybierz pozycję **Aktualizuj**.
+Zaktualizuj następujące pola:
 
-4. Znajdź identyfikator MPN z typem "Location", który pasuje do kraju tego konta CSP, i użyj go do przeszukania poniżej i kompletnego skojarzenia.
+- **Nazwa pola**: Upewnij się, że nazwa lokalizacji firmy jest poprawna. Jeśli zostanie wyświetlony zduplikowany błąd, spróbuj zmienić z, na przykład contoso na contoso, Inc.
 
-5. Jeśli nie możesz znaleźć lokalizacji MPN identyfikator, która jest zgodna z kontem dostawcy CSP, którego chcesz użyć, możesz dodać nową lokalizację, która utworzy nowy identyfikator MPN. Zobacz **Dodaj lokalizację MPN** poniżej.
+- **Pole podmiotu prawnego**: Upewnij się, że wybrano jednostkę prawną, z którą jest powiązana lokalizacja
+
+- **Wiersz adresu 1 & 2 pola**: Upewnij się, że adres jest poprawny
+
+- **Pola stanu/prowincji & miasto**: Upewnij się, że kombinacja między miastem a stanem jest poprawna. Istnieją kraje, w których zostanie zastosowane menu rozwijane służące do wybierania stanu/prowincji, a w innych krajach, w których pole będzie musiało zostać wstawione ręcznie.
+
+- **Pole kod** pocztowy: Upewnij się, że pole kod pocztowy jest zgodne z określonym krajem, regionem, miastom lub adresem.
+
+- **Podstawowe pola informacji kontaktowych**: Upewnij się, że pola Imię i nazwisko są wypełnione oraz że wskazany adres e-mail to służbowy adres e-mail, a nie osobisty (na przykład @outlook.com @live.com itp.).
+
+- **Pole numeru telefonu**: Upewnij się, że numer telefonu nie zawiera znaków specjalnych, spacji ani kodu kraju. Wartość wprowadzona w polu numer telefonu zawsze będzie zawierać maksymalnie 10 znaków.
+
+5. Jeśli nie ma komunikatu o błędzie, w obszarze  **Ustawienia** wybierz pozycję  **Ustawienia konta**, **profil organizacji**, **identyfikatory**.
+
+6. Znajdź identyfikator MPN z typem "Location", który jest zgodny z krajem tego konta dostawcy CSP, i użyj go, aby zakończyć skojarzenie.
+
+7. Jeśli nie możesz znaleźć MPN identyfikatora lokalizacji pasującego do konta dostawcy CSP, którego chcesz użyć, możesz dodać nową lokalizację, która utworzy nowy identyfikator MPN. Zobacz **Dodaj lokalizację MPN** poniżej.
 
 ## <a name="add-an-mpn-location"></a>Dodaj lokalizację MPN
 
@@ -80,6 +99,7 @@ Aby dodać nowe konto biznesowe dostawcy usług kryptograficznych, Zacznij od up
 
 > [!NOTE]
 > Po dodaniu lokalizacji w centrum partnerskim nie można jej usunąć. Aby zalogować się, zobaczysz **MPN** w menu po lewej stronie Centrum partnerskiego.
+
 
 ## <a name="delete-a-location"></a>Usuwanie lokalizacji
 

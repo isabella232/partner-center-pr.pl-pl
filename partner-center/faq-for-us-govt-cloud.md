@@ -8,18 +8,18 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.date: 11/20/2019
-ms.openlocfilehash: bdce3cd4b2095a0c2d87521a879a15bcbbd7d0fd
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 97e7e19f54e3dd98a37409747cfac5464080c86e
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92530040"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441476"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Często zadawane pytania dotyczące Centrum partnerskiego Microsoft Cloud dla instytucji rządowych USA
 
 **Dotyczy**
 
-- Centrum partnerskie dla Microsoft Cloud dla instytucji rządowych USA
+- Centrum partnerskie Microsoft Cloud for US Government
 
 ## <a name="general-questions"></a>Pytania ogólne
 
@@ -27,11 +27,11 @@ Użyj tych często zadawanych pytań, aby dowiedzieć się więcej o programie C
 
 ### <a name="what-is-microsoft-cloud-for-us-government"></a>Co to jest Microsoft Cloud dla instytucji rządowych USA?
 
-Microsoft Cloud dla instytucji rządowych w Stanach Zjednoczonych od podstaw w tym celu firma Microsoft umożliwia klientom sektora publicznego w Stany Zjednoczone — od dużych placów federalnych do innych instytucji rządowych — do wyboru z zakresu usług w chmurze. Aby najlepiej rozwiązać konkretne potrzeby klientów, firma Microsoft wprowadziła znaczną inwestycję w centrach danych i jest przeznaczona do przestrzegania zgodności z przepisami federalnymi USA i zasadami stanu, mandatami i wymaganiami.
+Zaprojektowana dla instytucji rządowych Stanów Zjednoczonych od podstaw, Microsoft Cloud dla instytucji rządowych USA umożliwia klientom sektora publicznego Stany Zjednoczone — od dużych placów federalnych w małych firmach. Aby najlepiej rozwiązać konkretne potrzeby klientów, firma Microsoft wprowadziła znaczną inwestycję w centrach danych i jest przeznaczona do przestrzegania zgodności z przepisami federalnymi USA i zasadami stanu, mandatami i wymaganiami.
 
 ### <a name="who-is-eligible-for-the-csp-program-for-microsoft-cloud-for-us-government"></a>Kto jest uprawniony do programu CSP Microsoft Cloud dla instytucji rządowych USA?
 
-Partnerzy w Stany Zjednoczone, którzy sprawują Stany instytucji rządowych Stanów Zjednoczonych, stanowych i lokalnych, są uprawnieni do programu CSP w chmurze firmy Microsoft dla instytucji rządowych. Firma Microsoft ma rygorystyczny program weryfikacji, aby określić uprawnienia, zanim partnerzy będą mogli uzyskać dostęp do chmury dla instytucji rządowych firmy Microsoft. Aby zakwalifikować się do programu, musisz udowodnić, że pracujesz z klientami rządowymi. Proces rejestracji dla programu CSP w firmie Microsoft mógł zostać rozszerzony w celu przechwycenia dodatkowych danych w celu przeprowadzenia weryfikacji. Typy dowodu mogą obejmować, ale nie są ograniczone do numerów umów dla instytucji rządowych i list sponsorów od klienta.
+Partnerzy w Stany Zjednoczone, którzy sprawują AMERYKAŃSKIe, stanowe i lokalne jednostki rządowe w swoich zdolnościach rządowych, kwalifikują się do programu CSP Microsoft Cloud dla instytucji rządowych USA. Firma Microsoft ma rygorystyczny program weryfikacji, aby określić uprawnienia, zanim partnerzy będą mogli uzyskać dostęp do Microsoft Cloud dla instytucji rządowych USA. Aby zakwalifikować się do programu, musisz udowodnić, że pracujesz z klientami rządowymi. Proces rejestracji dla programu CSP w firmie Microsoft mógł zostać rozszerzony w celu przechwycenia dodatkowych danych w celu przeprowadzenia weryfikacji. Typy dowodu mogą obejmować, ale nie są ograniczone do numerów umów dla instytucji rządowych i list sponsorów od klienta.
 
 ### <a name="is-customer-pricing-the-same-as-for-csp-commercial"></a>Czy cennik klienta jest taki sam jak w przypadku komercyjnego dostawcy usług kryptograficznych?
 
@@ -43,13 +43,13 @@ Tak. Model rabatu dla partnerów dla programu CSP for Microsoft Cloud dla instyt
 
 ### <a name="csp-commercial-is-an-existing-partner-program-how-is-the-csp-program-for-microsoft-government-cloud-different"></a>Komercyjny dostawca usług kryptograficznych to istniejący program partnerski. Czym różni się program CSP dla chmury Microsoft dla instytucji rządowych?
 
-Program CSP w chmurze firmy Microsoft dla instytucji rządowych różni się od komercyjnego dostawcy usług kryptograficznych w następujących obszarach:
+Program CSP Microsoft Cloud dla instytucji rządowych USA różni się od komercyjnego dostawcy usług kryptograficznych w następujących obszarach:
 
-- Uprawnienie: program CSP w chmurze firmy Microsoft dla instytucji rządowych jest dostępny tylko dla partnerów w Stany Zjednoczone, które obsługują federalne, stanowe i lokalne jednostki rządowe w swoich zdolnościach rządowych. Firma Microsoft ma program weryfikacji, aby określić uprawnienia, zanim partnerzy będą mogli uzyskać dostęp do chmury dla instytucji rządowych USA.
+- Uprawnienie: program CSP dla Microsoft Cloud dla instytucji rządowych Stanów Zjednoczonych jest dostępny tylko dla partnerów w Stany Zjednoczone, które obsługują federalne, stanowe i lokalne jednostki rządowe w swoich zdolnościach rządowych. Firma Microsoft ma program weryfikacji, aby określić uprawnienia, zanim partnerzy będą mogli uzyskać dostęp do chmury dla instytucji rządowych USA.
 
 - Dołączanie: partnerzy muszą dołączyć do programu CSP dla Microsoft Cloud dla instytucji rządowych USA niezależnie od komercyjnego dostawcy usług kryptograficznych.
 
-- Dostępność produktu: w programie CSP w chmurze firmy Microsoft dla instytucji rządowych są dostępne zarówno Azure Government, jak i usługi oparte na licencji, takie jak Office 365, Enterprise Mobility + Security i Dynamics 365.
+- Dostępność produktu: w programie CSP Microsoft Cloud dla instytucji rządowych USA dostępne są zarówno Azure Government, jak i usługi oparte na licencji, takie jak Office 365, Enterprise Mobility + Security i Dynamics 365.
 
 - Umawiające się: Umowa dotycząca odsprzedawcy Microsoft Cloud (MCRA) została zaktualizowana w celu odzwierciedlenia unikatowych warunków dla instytucji rządowych.
 
@@ -93,7 +93,7 @@ MCDA Microsoft Cloud dla instytucji rządowych USA różni się od standardowej 
 
 ### <a name="what-are-the-qualifications-to-sell-microsoft-cloud-for-us-government"></a>Jakie są kwalifikacje do sprzedawania Microsoft Cloud dla instytucji rządowych USA?
 
-Kryteria kwalifikacji do sprzedaży programu CSP w chmurze firmy Microsoft dla instytucji rządowych są takie same jak kryteria kwalifikacji dla komercyjnego dostawcy usług kryptograficznych, otwarte dla partnerów bezpośrednich i odsprzedawcy pośrednich. Nie trzeba być ponownie mianowani jako pośredni odsprzedawca programu CSP w chmurze firmy Microsoft dla instytucji rządowych, jeśli zostanie zatwierdzony jako pośredni odsprzedawca dla komercyjnego dostawcy usług kryptograficznych.
+Kryteria kwalifikacji do sprzedaży programu CSP Microsoft Cloud dla instytucji rządowych USA są takie same jak kryteria kwalifikacji dla komercyjnego dostawcy usług kryptograficznych, otwarte dla partnerów bezpośrednich i pośrednich odsprzedawcy. Nie musisz być ponownie mianowani jako pośredni odsprzedawca programu CSP dla Microsoft Cloud dla instytucji rządowych Stanów Zjednoczonych, jeśli zatwierdzisz jako pośredni odsprzedawcę dla komercyjnego dostawcy usług kryptograficznych.
 
 ### <a name="i-am-an-existing-partner-what-do-i-need-to-do-to-sell-microsoft-cloud-for-us-government"></a>Jestem partnerem. Co należy zrobić, aby sprzedawać Microsoft Cloud dla instytucji rządowych USA?
 
@@ -136,15 +136,15 @@ Wymagania dotyczące interfejsów API i integracji dla programu CSP Microsoft Cl
 >- Tworzenie kont użytkowników dla klienta
 >- Usuwanie kont użytkowników dla klienta
 >- Aktualizowanie kont użytkowników dla klienta
->- Pobierz listę wszystkich kont użytkowników dla klienta
+>- Pobieranie listy wszystkich kont użytkowników dla klienta
 >- Resetowanie hasła użytkownika dla klienta
->- Pobierz role użytkowników dla klienta
+>- Pobieranie ról użytkowników dla klienta
 >- Ustawianie ról użytkownika dla klienta
 >- Wyświetlanie użytkowników usuniętych dla klienta
 >- Przywracanie usuniętego użytkownika dla klienta
 >
 > **Zarządzanie licencjami**
->- Pobierz listę dostępnych licencji
+>- Pobieranie listy dostępnych licencji
 >- Przypisywanie licencji do użytkownika
 >-  Sprawdź, które licencje są przypisane do użytkownika
 

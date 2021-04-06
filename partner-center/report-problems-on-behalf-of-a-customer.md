@@ -9,18 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0cf8769bcf45ba90a714231a7c9db7660efce0b0
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 80c617a97575fea3003ea8652d48396412033cc7
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549060"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441952"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Zgłoś problem dotyczący usługi w imieniu klienta — w tym informacje o tym, kiedy i jak to zrobić
 
 **Dotyczy**
 
-- Centrum partnerskie w chmurze firmy Microsoft dla instytucji rządowych
+- Centrum partnerskie Microsoft Cloud for US Government
 
 **Odpowiednie role**
 

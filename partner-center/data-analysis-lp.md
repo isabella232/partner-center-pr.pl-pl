@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19e7cf9442660a24d36b5f7c20fab156fdc0d59a
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 3aec8c8abe6184be48fd54e0f76bc7e0c08e4792
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626076"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441884"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Skorzystaj z analizy, aby dowiedzieć się więcej na temat przychodu subskrypcji
 
@@ -28,7 +28,7 @@ Planowanie sposobów opracowania działań w firmie związanych z programem CSP 
 ## <a name="access-to-the-subscription-analytics"></a>Dostęp do analizy subskrypcji
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home)Centrum partnerskiego.
-1. Z poziomu dostawcy CSP w menu Centrum partnerskiego wybierz pozycję **Analizuj** , a następnie wybierz pozycję **Analiza subskrypcji**.
+1. Z poziomu dostawcy CSP w menu Centrum partnerskiego wybierz pozycję **Analizuj**, a następnie wybierz pozycję **Analiza subskrypcji**.
 
 1. Na górze strony pojawi się końcowy przychód z 12 miesięcy (CSP).
 
@@ -36,7 +36,7 @@ Planowanie sposobów opracowania działań w firmie związanych z programem CSP 
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Końcowy przychód Twelve-Month (TTM) dostawcy CSP
 
-Przychód 12-miesięczny dostawca CSP reprezentuje końcowy przychód programu dostawcy rozwiązań w chmurze w USD na poziomie konta globalnego partnera. Dane są odświeżane co miesiąc, aby wyświetlić końcowy przychód z 12 miesięcy do poprzedniego miesiąca. Na przykład na 9 września 2020 powinna być widoczna TTM dla stałego okresu od 2019 września do sierpnia 2020.
+Przychód 12-miesięczny dostawca CSP reprezentuje końcowy przychód programu dostawcy rozwiązań w chmurze w USD na poziomie konta globalnego partnera. Dane są odświeżane co miesiąc, aby wyświetlić końcowy przychód z 12 miesięcy do poprzedniego miesiąca. Na przykład w dniu 9 września 2020 powinien być widoczny TTM dla stałego okresu od 2019 września do sierpnia 2020.
 
 Przychód wyświetlany w centrum partnerskim jest obliczany na podstawie stałego interwału wynoszącego 12 miesięcy i nie może być modyfikowany w krótszym okresie.
 
@@ -51,14 +51,14 @@ Aby wyświetlić podział przychodu na poziomie konta lokalizacji partnera:
 
 Dolna połowa ekranu zawiera podsumowanie subskrypcji. Użyj następujących filtrów, aby wyświetlić szczegóły niezbędnej subskrypcji:  
 
-1. **Czas trwania** : możesz wybrać podsumowanie subskrypcji dla 
+1. **Czas trwania**: możesz wybrać podsumowanie subskrypcji dla 
 
 - 30D — ostatnie 30 dni
 - 3M — ostatnie 3 miesiące
 - 6 min — ostatnie 6 miesięcy
 - 12M — ostatnie 12 miesięcy
 
-2. **Typ produktu** :
+2. **Typ produktu**:
  
 - Office 365
 - Microsoft 365

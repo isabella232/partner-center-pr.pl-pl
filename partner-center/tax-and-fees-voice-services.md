@@ -7,24 +7,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5817e5bb010cee0ab280c83408167f28915a6237
-ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
+ms.openlocfilehash: 411932923e6bd35732e64521abe567f40f7499e9
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "92529694"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441493"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Podatki regionalne, regulacje dla usług publicznego przełączania sieci telefonicznych (PTSN)
 
-**Dotyczy**
-
-- Centrum partnerskie
-- Partnerzy pakietu Office 365 w języku transacting Microsoft 365 produkty głosowe
-
 **Odpowiednie role**
--    Administrator globalny
--    Administrator użytkowników
--    Agent administracyjny
+
+- Administrator globalny
+- Administrator użytkowników
+- Agent administracyjny
 
 Publiczne przełączane usługi telefoniczne (PSTN) w niektórych jurysdykcjach mogą podlegać specjalnym wymaganiom podatkowym i prawnym, które mogą mieć wpływ na kolejność i fakturowanie partnera. W Stany Zjednoczone, w tym Portoryko, usługi PSTN, takie jak konferencje audio, plany wywoływania i kredyty komunikacyjne, podlegają specjalnym wymaganiom podatkowym i obowiązującym w zakresie przepisów. W Stany Zjednoczone i Portoryko, usługi firmy Microsoft cen PSTN jako podatki włącznie.  Unikatowe podatki i regulacje dotyczące sieci PSTN wpłyną na partnerów pakietu Office 365, w których są naliczane Microsoft 365 produkty głosowe.  Jeśli partner oznacza cenę usługi PSTN firmy Microsoft, może być odpowiedzialna za obliczanie i ponowne przeprowadzenie opłat za korzystanie z sieci PSTN.
 
@@ -34,7 +30,7 @@ Zapoznaj się z podatkiem i z tytułu prawnego, aby zrozumieć odpowiedzialnoś�
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Prezentacja faktury i plik uzgadniania partnera
 
-Faktury dostawcy usług kryptograficznych i pliki uzgadniania CSP w Stany Zjednoczone, Portoryko i Kanadzie, które obejmują usługę Skype dla firm PSTN i Microsoft 365 usługi głosowe, udostępniają osobne elementy wiersza dla składników PSTN i innych niż PSTN.
+Faktury dostawcy usług kryptograficznych i pliki uzgadniania CSP w Stany Zjednoczone, Portoryko i Kanadzie, które obejmują usługę Skype dla firm PSTN i Microsoft 365 usługi głosowe, będą udostępniać osobne elementy wiersza dla składników PSTN i innych niż PSTN.
 
 Ponadto faktury dostawcy CSP będą wyświetlać następujący przypis dolny:
 

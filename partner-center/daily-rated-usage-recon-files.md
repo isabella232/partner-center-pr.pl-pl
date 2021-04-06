@@ -3,22 +3,23 @@ title: Pliki uzgadniania użycia codziennie
 ms.topic: article
 ms.date: 06/12/2020
 description: Informacje na temat odczytywania codziennych plików uzgadniania użycia w centrum partnerskim. Zawiera opisy dla konkretnych pól w pliku rekonesans.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 531f28ae2bceed2d854c6fb139d0abb837a047b5
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 89080cb580d9b451454d108c6ef0ce0a08c1bf0c
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712243"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441901"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Informacje na temat odczytywania codziennych plików uzgadniania użycia w centrum partnerskim
 
 **Dotyczy**
 
-- Centrum partnerskie
 - Centrum partnerskie Microsoft Cloud for US Government
 
 **Odpowiednie role**

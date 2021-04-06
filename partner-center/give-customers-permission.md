@@ -9,19 +9,14 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19f86ec5353abc21e14a3a8ac2ef17dd17924cfe
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4feaa8cba8ba17f553b5e936dcf892ffbf7ccc82
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529980"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441306"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Przyznaj klientom uprawnienia w centrum partnerskim do kupowania własnych produktów lub usług
-
-**Dotyczy**
-
-- Centrum partnerskie
-- Partnerzy w programie CSP
 
 **Odpowiednie role**
 
@@ -103,7 +98,7 @@ Aby sprawdzić, czy klient ma przypisaną rolę **właściciela** dla subskrypcj
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
 
-2. Wybierz pozycję **dostawca usług kryptograficznych** , a następnie pozycję **klienci** i wybierz określonego klienta.
+2. Wybierz pozycję **dostawca usług kryptograficznych**, a następnie pozycję **klienci** i wybierz określonego klienta.
 
 3. Wybierz **subskrypcje** dla tego klienta i Znajdź określoną subskrypcję platformy Azure.
 
@@ -119,7 +114,7 @@ Aby włączyć (lub wyłączyć) uprawnienia klienta w centrum partnerskim:
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
 
-2. W menu nawigacji po lewej stronie wybierz **dostawcę CSP** , a następnie pozycję **klienci**. Zostanie wyświetlona lista klientów.
+2. W menu nawigacji po lewej stronie wybierz **dostawcę CSP**, a następnie pozycję **klienci**. Zostanie wyświetlona lista klientów.
 
 3. Wybierz konkretną nazwę klienta.
 

@@ -9,18 +9,18 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 925532881b6f28b2e7a9d06372a92eed95716d48
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 9bf577b6869a8b48215cb404df872d79f38e6a5e
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132727"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441986"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Obsługa wielokanałowa — używanie innych partnerów do obsługi subskrypcji klientów zakupionych w innym miejscu
 
 **Dotyczy**
 
-- Centrum partnerskie w chmurze firmy Microsoft dla instytucji rządowych
+- Centrum partnerskie Microsoft Cloud for US Government
 
 **Odpowiednie role**
 

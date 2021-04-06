@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 34f43895da6b25ca62e32b0d56eaa401564cca92
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: a3c8b1df8b14d2a1647982ea8d6f27ca59ff6195
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880807"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441272"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Informacje o umowie partnerskiej firmy Microsoft (MPA) dla partnerów programu CSP
 
@@ -24,7 +24,7 @@ ms.locfileid: "104880807"
 
 Umowa partnerska firmy Microsoft zapewnia partnerom firmy Microsoft ujednoliconą, zaakceptowaną cyfrowo umowę partnera. Umowa partnerska firmy Microsoft zawiera podstawowy zestaw okresów bezterminowych, które pomagają firmie Microsoft, partnerom i klientom wspierać prywatność i bezpieczeństwo danych, wspierać zgodność i zachęcać do solidnych praktyk związanych z działalnością biznesową.
 
-Wszyscy partnerzy programu dostawcy rozwiązań w chmurze (włącznie z dostawcami pośrednimi, odsprzedawcami pośrednimi i bezpośrednimi partnerami rozliczanymi) mogą podpisywać usługi MPA online w centrum partnerskim. Bezpośredni przedstawiciel i partnerzy dostawcy pośredniego, którzy działają w chmurze dla instytucji rządowych, mogą również podpisać MPA w centrum partnerskim.
+Wszyscy partnerzy programu dostawcy rozwiązań w chmurze (włącznie z dostawcami pośrednimi, odsprzedawcami pośrednimi i bezpośrednimi partnerami rozliczanymi) mogą podpisywać usługi MPA online w centrum partnerskim. Bezpośredni przedstawiciel i partnerzy dostawcy pośredniego, którzy działają w Microsoft Cloud dla instytucji rządowych USA, mogą również podpisać MPA w centrum partnerskim.
 
 Aby nadal uczestniczyć w programie CSP, należy podpisać umowę Microsoft Partner przed 31 stycznia 2020. Centrum partnerskie będzie przypominać, że możesz teraz łatwo podpisać umowę w centrum partnerskim.
 
@@ -41,7 +41,7 @@ Aby nadal uczestniczyć w programie CSP, należy podpisać umowę Microsoft Part
  
 1. W obszarze **Ustawienia** wybierz pozycję [Profil partnera](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile).
 
-1. Sprawdź sekcję **Informacje o programie** . Jeśli stan programu MPN jest **aktywny** , jesteś aktywnym partnerem usługi MPN w centrum partnerskim.
+1. Sprawdź sekcję **Informacje o programie** . Jeśli stan programu MPN jest **aktywny**, jesteś aktywnym partnerem usługi MPN w centrum partnerskim.
  
 1. Jeśli stan programu MPN jest **odrzucany/odrzucony** lub **oczekujący**, weryfikacja konta nie powiodła się. Przeczytaj [proces weryfikacji](verification-responses.md) , aby dowiedzieć się, jak rozwiązać problem z weryfikacją.
 
@@ -60,11 +60,11 @@ Aby nadal uczestniczyć w programie CSP, należy podpisać umowę Microsoft Part
 
 1. Sprawdź sekcję **Informacje o programie** . Jeśli informacja nie pokazuje stanu **pośredniego odsprzedawcy** , należy [zarejestrować się jako pośredni odsprzedawcy](indirect-reseller-tasks-in-partner-center.md).
 
-1. Jeśli  **pośredni stan odsprzedawcy** jest **aktywny** , jesteś aktywnym pośrednim odsprzedawcą w centrum partnerskim.
+1. Jeśli stan  **pośredniego odsprzedawcy** jest **aktywny**, jesteś aktywnym pośrednim odsprzedawcą w centrum partnerskim.
  
 4. Jeśli stan  **pośredniego odsprzedawcy** jest **kwalifikowany**, przejdź do [**omówienia pulpitu nawigacyjnego**](https://partner.microsoft.com/pcv/dashboard/overview) , aby zaakceptować wartość MPa w celu aktywowania konta.
  
-1. Jeśli pośredni stan odsprzedawcy zostanie **odrzucony** **lub odrzucony,** weryfikacja konta nie powiodła się. Przeczytaj [proces weryfikacji](verification-responses.md) , aby dowiedzieć się, jak rozwiązać problem z weryfikacją.
+1. W przypadku **odrzucenia** lub **odrzucenia** stanu odsprzedawcy pośredni weryfikacja konta nie powiodła się. Przeczytaj [proces weryfikacji](verification-responses.md) , aby dowiedzieć się, jak rozwiązać problem z weryfikacją.
 
 1. Jeśli wcześniej przeniesiono do Centrum partnerskiego jako odsprzedawca pośredni, zaakceptuj umowę Microsoft Partner na pulpicie nawigacyjnym Centrum partnerskiego, korzystając z poświadczeń administratora globalnego. Możesz potwierdzić, że umowa partnerska firmy Microsoft została już podpisana z **informacji o programie** [profilu partnera](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) lub powiadomienie transparentu na stronie Przegląd CSP.
 
@@ -75,7 +75,7 @@ Pamiętaj, aby zaakceptować żądanie relacji CSP z dostawcą pośrednim.
 1. Zaloguj się do Centrum partnerskiego za pomocą konta pośredniego odsprzedawcy dostawcy CSP. Musisz być administratorem globalnym.
 1. Przejdź do strony **[Przegląd dostawcy usług kryptograficznych](https://partner.microsoft.com/pcv/dashboard/overview)** .  Jeśli nie widzisz opcji **Akceptuj i Kontynuuj** lub zielony transparent informujący o tym, że MPa jest podpisany, nie masz odpowiedniej roli do podpisywania. Skontaktuj się z administratorem globalnym, aby podpisać MPA.
 
-1. Aby wyświetlić i pobrać **umowę partnera firmy Microsoft** przed jej podpisaniem, kliknij link umowa partnerska firmy Microsoft, jak pokazano poniżej.
+1. Aby wyświetlić i pobrać **umowę partnera firmy Microsoft** przed jej podpisaniem, wybierz link Microsoft Partner Agreement, jak pokazano poniżej.
 
 :::image type="content" source="images/agreement-three.png" alt-text="Nowa lokalizacja umowy MPA":::
 
@@ -88,7 +88,7 @@ Pamiętaj, aby zaakceptować żądanie relacji CSP z dostawcą pośrednim.
 
 Aby sprawdzić, czy zarejestrowano:
 
- Jako Administrator globalny Twojej firmy przejdź do [omówienia swojego dostawcy usług kryptograficznych](https://partner.microsoft.com/pcv/dashboard/overview) i sprawdź, czy zobaczysz zielony baner, który powiadamia o zaakceptowaniu pakietu MPa.
+ Jako Administrator globalny Twojej firmy przejdź do [omówienia swojego dostawcy usług kryptograficznych](https://partner.microsoft.com/pcv/dashboard/overview) i sprawdź, czy zobaczysz zielony transparent informujący o zaakceptowaniu pakietu MPa.
 
  
 :::image type="content" source="images/banner-boxed.png" alt-text="Zielony transparent pokazujący akceptację z MPA":::

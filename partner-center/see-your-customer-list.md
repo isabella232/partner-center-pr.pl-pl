@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38ab5b3ef871aa8a969e8da48e2cb6f4cfebf4c6
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 244a8cfc661b371b611a19a5c90ddf131b42a46a
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028336"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441969"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Zarządzanie listą klientów — wyszukiwanie, aktualizowanie i eksportowanie klientów w centrum partnerskim
 
 **Dotyczy**
 
-- Centrum partnerskie w chmurze firmy Microsoft dla instytucji rządowych
+- Centrum partnerskie Microsoft Cloud for US Government
 
 Rekordy klientów znajdują się wśród najważniejszych zasobów informacji w centrum partnerskim. Bazę danych kont klientów można wyszukać, wyeksportować całą bazę danych klienta lub wyeksportować podzestaw do formatu pliku wartości rozdzielanych przecinkami (CSV) zgodnego z programem Excel. Możesz również wyeksportować informacje o subskrypcjach klienta do pliku CSV.
 

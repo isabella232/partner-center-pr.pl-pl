@@ -9,23 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7bb97c696c4694c9052403444eec0e27f65d325c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bdcc9feb9f6f022642ece217aa1ba17e24bd20da
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529986"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441442"
 ---
 # <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a>Korzystaj z interfejsów API do automatycznego powiadamiania o usłudze Azure Insights & Office 365 Service Communications
-
-**Dotyczy**
-
--  Centrum partnerskie
 
 **Odpowiednie role**
 
 - Agent administracyjny
-- Globalnie 
+- Administrator globalny
 - Agent sprzedaży
 - Agent pomocy technicznej
 
@@ -33,11 +29,9 @@ Pakiet Office 365 i Microsoft Azure każdy udostępnia interfejs API, za pomocą
 
 Te interfejsy API są dostępne dla deweloperów:
 
-[Interfejs API komunikacji usługi pakietu Office 365](/office/office-365-management-api/office-365-service-communications-api-reference)
+- [Interfejs API komunikacji usługi pakietu Office 365](/office/office-365-management-api/office-365-service-communications-api-reference)
+- [Dokumentacja interfejsu API](/rest/api/monitor/) REST usługi Azure Insights
 
+ 
 
-[Dokumentacja interfejsu API](/rest/api/monitor/) REST usługi Azure Insights
-
- 
-
- 
+ 
