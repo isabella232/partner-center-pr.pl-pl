@@ -9,19 +9,19 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 31d8be49e0270f32c472f3fbe0a54d5ceadc9098
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474176"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557736"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Doradcy: Tworzenie bazy klientów z zaproszeniami do korzystania z wersji próbnej pakietu Office 365 i zakupem ofert
 
 
 **Odpowiednie role**
 
-- Doradcy
+- Advisor
 
 
 Jako autoryzowany program Microsoft Advisor **Centrum partnerskie** oferuje możliwość rozbudowy bazy klientów i tworzenia trwałych relacji z klientami. W centrum partnerskim możesz wysyłać zaproszenia do wersji próbnej klientów i oferty zakupu oraz oferować usługi administracji delegowanej, w zależności od usług, które są autoryzowane do świadczenia.
@@ -45,7 +45,7 @@ Aby uzyskać więcej informacji na temat zaproszeń z wersji próbnej, zobacz [T
 > [!NOTE]
 > Ta funkcja jest dostępna tylko dla partnerów firmy Microsoft, którzy są autoryzowanymi klasyfikatorami subskrypcji.
 
-Po wysłaniu zaproszenia do korzystania z wersji próbnej do klientów możesz skorzystać z oferty zakupu. Możesz dostosować ofertę, aby zawierała określone usługi wymagane przez klienta oraz poprawną liczbę licencji użytkownika. Jeśli masz certyfikat do oferowania administracji delegowanej, możesz dodać opcję do oferty zakupu, która pozwala na administrowanie subskrypcją w imieniu klienta.
+Po wysłaniu zaproszenia do korzystania z wersji próbnej do klientów możesz skorzystać z oferty zakupu. Możesz dostosować ofertę, tak aby obejmowała konkretne usługi wymagane przez klienta oraz poprawną liczbę licencji użytkownika. Jeśli masz certyfikat do oferowania administracji delegowanej, możesz dodać opcję do oferty zakupu, która pozwala na administrowanie subskrypcją w imieniu klienta.
 
 Po utworzeniu oferty zakupu jest tworzony niestandardowy adres URL. Adres URL ma osadzony kod, który identyfikuje Ciebie jako klasyfikatora subskrypcji. Tego adresu URL można użyć dla jednego klienta lub wielu klientów. Wyślij adres URL do klienta w wiadomości e-mail lub opublikuj go w witrynie sieci Web.
 

@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e180485a6ee769c911b3d2119869661ea118ccc1
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 8c6f6cb5ba700618aebe773cffd566e4077a676d
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474159"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557719"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Doradcy: Tworzenie i wysyłanie zaproszenia do wersji próbnej dla klientów w celu wypróbowania pakietu Office 365
 
 
 **Odpowiednie role**
 
-- Doradcy
+- Advisor
 
 > [!NOTE]
 > Ta funkcja jest dostępna tylko dla partnerów firmy Microsoft, którzy są autoryzowanymi klasyfikatorami subskrypcji.
@@ -44,7 +44,7 @@ Jeśli masz certyfikat do oferowania administracji delegowanej, możesz dodać o
     - **Subskrypcje wersji próbnej**: Lista subskrypcji wersji próbnych, które można wybrać, zależy od lokalizacji użycia w kraju lub regionie klienta.
     - **Administracja delegowana**: Ta opcja jest dostępna tylko dla partnerów certyfikowanych w celu oferowania administracji delegowanej. Wybierz tę opcję, jeśli chcesz zaoferować administrację delegowaną klientowi. W takim przypadku klient może zaakceptować zaproszenie do korzystania z wersji próbnej z lub bez akceptacji administracji delegowanej. Aby uzyskać więcej informacji na temat administrowania delegowanego, zobacz [oferowanie administracji delegowanej](customers-revoke-admin-privileges.md).
 
-3. Kliknij przycisk **Dalej**.
+3. Wybierz opcję **Dalej**.
 
 4. Na stronie **zaproszenia do korzystania z wersji próbnej** skopiuj informacje o zaproszeniach do wersji próbnej i adres URL, a następnie wklej je do wiadomości e-mail, dokumentu lub strony sieci Web w celu utworzenia dostosowanego zaproszenia do korzystania z wersji próbnej.
 

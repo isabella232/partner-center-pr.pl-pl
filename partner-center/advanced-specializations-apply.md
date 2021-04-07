@@ -9,19 +9,19 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 62dab81a265a4bf1fe926cd1a8f583153821d0ef
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658420"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557787"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Użyj Centrum partnerskiego, aby zastosować zaawansowane specjalizacje i sprawdzić ich stan
 
 **Odpowiednie role**
 
 - Administrator globalny
-- Administrator konta MPN
+- Administrator konta
 
 W tym artykule opisano sposób użycia pulpitu nawigacyjnego Centrum partnerskiego w celu zastosowania [zaawansowanej specjalizacji](advanced-specializations.md), sprawdzenia postępu i wykonania niezbędnych czynności i ważności. Zobaczysz również przykłady użycia Centrum partnerskiego w celu uzyskania pewnych zaawansowanych specjalizacji, które wymagają inspekcji lub odwołania do klientów.
 

@@ -9,21 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 1f941894c8d4ac8611c4b1869bd731d6b56ec4ae
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658403"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557770"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Uzyskaj zaawansowaną specjalizację w celu pokazania zweryfikowanych możliwości
 
 **Odpowiednie role**
 
 - Administrator globalny
-- Administrator konta MPN
+- Administrator konta
 
-Firma Microsoft Advanced specjalizacje kompiluje się w odniesieniu do pokrewnych [kompetencji Gold](learn-about-competencies.md) , które może zdobyć partner. Zdobywaj kwalifikacje złota, wraz z ich zaawansowaną specjalizacją, umożliwia partnerom dalsze odróżnienie możliwości klientom.
+Firma Microsoft Advanced specjalizacje kompiluje powiązane [kompetencje Gold](learn-about-competencies.md) , które może zdobyć partner. Zdobywaj kwalifikacje złota, wraz z ich zaawansowaną specjalizacją, umożliwia partnerom dalsze odróżnienie możliwości klientom.
 
 Aby uzyskać zaawansowaną specjalizację, partner często musi spełnić wymagania dotyczące wymagań, takich jak uzyskiwanie odniesień klientów, przeprowadzenie audytu innej firmy, poddanie realizacji odpowiedniego zestawu umiejętności oraz spełnienie określonych innych pomiarów wydajności.
 
@@ -41,7 +41,7 @@ Każda zaawansowana specjalizacja odpowiada obszarowi rozwiązania:
 - Azure
 - Aplikacje biznesowe
 - Nowoczesne prace
-- Zabezpieczenia
+- Bezpieczeństwo
 
 Zaawansowane specjalizacje **platformy Azure** obejmują:
 
