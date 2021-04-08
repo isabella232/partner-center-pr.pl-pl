@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 051d638024200fe58ca5e07f42b758b304b58219
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042722"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964378"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Przegląd rozliczeń dla partnerów programu CSP pracujących w Centrum partnerskim 
 
@@ -67,11 +67,7 @@ W przypadku jednorazowego i cyklicznego rozliczania okres rozliczeniowy jest wyr
 
 Cenniki są aktualizowane co miesiąc. Cennik wersji zapoznawczej jest dostępny po jednym (1) miesiącu z wyprzedzeniem.
 
-Aby wyświetlić Cennik:
-
-1. [Zaloguj się do pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/home).
-2. W menu po lewej stronie wybierz pozycję **Sprzedaj**, a następnie wybierz pozycję **Cennik i oferty**.
-3. Na stronie **Cennik i oferty** zobaczysz 6-miesięczną listę cen (łącznie z bieżącym miesiącem) oraz listę cennika (jeśli dotyczy).
+Aby zobaczyć najnowsze programy i oferty dostawcy rozwiązań w chmurze, na pulpicie nawigacyjnym portalu dla partnerów przejdź do pozycji **sprzedaj > Cennik i oferty**. Znajdziesz osobne cenniki dla różnych dostępnych typów produktów. Poniższe listy cen są dostępne na stronie **Cennik i oferty** :
 
 Ceny **na podstawie licencji** są gwarantowane na okres subskrypcji, zwykle przez 12 miesięcy od daty zakupu. 
 
@@ -99,19 +95,6 @@ W przypadku **zwolnienia z podatku** VAT należy przesłać Identyfikator VAT (s
 
 Możesz znaleźć dalsze szczegóły dotyczące podatku od lokalnego urzędu skarbowego lub z doradcy podatkowego.
 
-### <a name="change-billing-frequency"></a>Zmiana częstotliwości rozliczeń
-
-Częstotliwość rozliczeń jest zmieniana na poziomie zamówienia, a po zmianie częstotliwości zostanie zastosowany zaktualizowany cykl rozliczeniowy do wszystkich subskrypcji w tej kolejności. 
-
-Aby zmienić częstotliwość rozliczeń dla usługi online dla klienta:
-
-1. [Zaloguj się do pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/home).
-2. W menu po lewej stronie wybierz pozycję **klienci**.
-3. Wybierz klienta, którego częstotliwość rozliczania subskrypcji chcesz zmienić.
-4. Na stronie **subskrypcje** klienta wybierz subskrypcję, którą chcesz zmienić.
-5. Na stronie **szczegóły** w obszarze **częstotliwość rozliczeń** wybierz pozycję **miesięczny** lub **roczny**. Zostanie wyświetlona strona potwierdzenia z ważnymi informacjami o zmianie częstotliwości rozliczania, a także z listą subskrypcji, które mają zostać zmienione.
-6. Wybierz **przycisk OK** , aby wprowadzić zmianę (lub **przycisk Anuluj** , aby cofnąć).
-
 ### <a name="adjustmentscreditscancellations"></a>Korekty/kredyty/anulowania
 
 Kredyty zwrotne dla usług opartych na licencjonowaniu są zgodne z nieużywanymi dniami dla operacji anulowania w ramach cyklu średniego (a także zmniejszają licencję w zależności od następującej formuły:
@@ -121,6 +104,7 @@ Kredyty zwrotne dla usług opartych na licencjonowaniu są zgodne z nieużywanym
 Firma Microsoft nie nalicza opłat za wczesne zakończenie z tytułu anulowania usług opartych na licencji.
 
 ### <a name="billing-rules"></a>Reguły rozliczeń
+
 Dzisiaj istnieją dwa typy częstotliwości rozliczeń: roczna & miesięcznie.  
 Stawki za usługę taryfową mogą ulec zmianie w ramach cyklu fakturowania.
 
@@ -146,24 +130,6 @@ Stawki za usługę taryfową mogą ulec zmianie w ramach cyklu fakturowania.
 
 - Otrzymana faktura będzie mieć tylko opłaty naliczane za dany miesiąc. 
 
-## <a name="manage-one-time-billing"></a>Zarządzanie jednorazowymi rozliczeniami
-
-### <a name="billing-status-invoices-and-reconciliation-files"></a>Stan rozliczeń, faktury i pliki uzgadniania
-
-Aby wyświetlić bieżący stan rozliczeniowy, faktury i pliki uzgadniania:
-
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home) Centrum partnerskiego.
-2. W menu po lewej stronie wybierz pozycję **rozliczenia**, a następnie wybierz pozycję **cykliczne i jednorazowe zakupy**.
-3. Na stronie stanu rozliczeń wybierz plik faktury lub uzgodnienia, aby wyświetlić bardziej szczegółowe informacje.
-
-### <a name="customer-order-history"></a>Historia zamówienia klienta
-
-Aby wyświetlić historię zamówienia klienta:
-
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home) Centrum partnerskiego.
-2. W menu po lewej stronie wybierz pozycję **klienci**.
-3. Na stronie **klienci** Znajdź klienta, którego historię zamówienia chcesz wyświetlić. Wybierz strzałkę w dół, aby rozwinąć rekord klienta.
-4. Wybierz pozycję **Wyświetl zamówienia** , aby wyświetlić historię zamówienia klienta.
 
 ### <a name="credit-notes"></a>Noty kredytowe
 
@@ -178,3 +144,6 @@ Może być konieczne zażądanie kredytu lub rachunku z następujących powodów
 
 - [Informacje o rozliczeniach i plikach uzgadniania](read-your-bill.md)
 - [Typowe scenariusze rozliczania dla partnerów programu CSP](common-billing-scenarios.md)
+- [Zmiana częstotliwości rozliczeń](common-billing-scenarios.md)
+- [Historia zamówienia klienta](csp-offers.md) 
+- [Ceny i oferty](pricing-and-offers.md)
