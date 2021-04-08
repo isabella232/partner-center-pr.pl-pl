@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80f7882da44c8072db1dd287f6fbee4f79341d29
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570162"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964396"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Utwórz profil biznesowy, aby uzyskać potencjalnych klientów firmy Microsoft i pomóc klientom w znalezieniu
 
@@ -84,16 +84,7 @@ Zacznij od dodania własnych tagów do sekcji specjalizacja partnerów. Tagi, kt
 
 Inne Tagi używane podczas wyszukiwania:
 
--  **Tagi kompetencji** to wyznaczenie wypracowane przedstawiające możliwości firmy.
--  **Tagi adnotacji** są przyznawane w przypadku, gdy firma Microsoft lub jej klienci pracują nad zaświadczeniem Twojej pracy.
-
-#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a>Zezwól firmie Microsoft na zaświadczanie moich obszarów wiedzy
-
-Zalecamy pozostawienie tego ustawienia zaznaczone. 
-
-W miarę zaprezentowania sukcesów klientom za pomocą Centrum partnerskiego lub uczestniczenia w innych certyfikatach lub programach firmy Microsoft automatycznie dodamy adnotacje dotyczące konkretnych produktów, usług i branż, które współużytkują z tym sukcesem. Adnotacje są ważnym czynnikiem w wynikach wyszukiwania.
-
-Jeśli istnieją produkty, dla których podano usługi, które nie są wyświetlane w Twoim profilu, możesz usunąć zaznaczenie tego pola i zarządzać profilem ręcznie. Te adnotacje zostaną ukryte w widoku klientów, ale możesz je później dodać do swojego profilu.
+- **Tagi kompetencji** to wyznaczenie wypracowane przedstawiające możliwości firmy.
 
 ### <a name="customer-preferences"></a>Preferencje klienta
 
@@ -121,13 +112,12 @@ Jeśli masz 5 największych lokalizacji i musisz ją zmienić, najpierw **Usuń*
 
 Po opublikowaniu profilu aktualizacje są wyświetlane w obszarze wyszukiwania [dostawcy rozwiązań](https://www.microsoft.com/solution-providers/home) w ciągu 24 godzin.
 
-## <a name="improve-the-visibility-of-your-profile"></a>Popraw widoczność profilu 
+## <a name="improve-the-visibility-of-your-profile"></a>Popraw widoczność profilu
 
 - **[Szybkie reagowanie na żądania](manage-leads.md)**. Gdy otrzymasz odwołanie klienta, szybsza odpowiedź może prowadzić do lepszego rezultatu na stronach wyszukiwania dla przyszłych klientów.
 
 - **Być wybiórcze ze znacznikami**.  Lepiej jest mieć mniejszą liczbę tagów, która najlepiej reprezentuje oferty firmy, rozwiązania, propozycje wartości i unikatowe położenie, w którym można spójnie przedstawić sukces.  Spowoduje to wyregulowanie dywidend w przyszłych wynikach wyszukiwania.
 - **Uzyskuj znaczniki kompetencji** w firmie Microsoft, aby przedstawić swoją biegłość w naszych produktach.
-- **Uzyskaj Tagi adnotacji** od klientów, którzy doceniają Twoją służbę.
 
 ## <a name="next-steps"></a>Następne kroki
 

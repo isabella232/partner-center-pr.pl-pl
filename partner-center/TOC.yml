@@ -390,8 +390,6 @@
     - name: Billing basics (Podstawowe informacje dotyczące rozliczeń)
       href: billing-basics.md
       displayName: invoice
-    - name: Typy rozliczeń w Centrum partnerskim
-      href: billing-different-types.md
     - name: Opis zawartości rachunku
       href: read-your-bill.md
       displayName: invoice

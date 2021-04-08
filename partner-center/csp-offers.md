@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b0de64a9ac3d86c77cc47f6b69b8a132606309
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: c5617bbec82bd8e4b6fbeb2e6a33608889f14502
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502871"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964344"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Omówienie ofert partnerów w programie Cloud Solution Provider
 
@@ -105,6 +105,15 @@ Aby kupić produkty i usługi w imieniu klientów korzystających z programu CSP
 
 8. Szczegóły zamówienia, w tym numer zamówienia, są wyświetlane na następnej stronie. Wybierz pozycję **gotowe** , aby przejść do strony **Historia zamówień** .
 
+### <a name="customer-order-history"></a>Historia zamówienia klienta
+
+Aby wyświetlić historię zamówienia klienta:
+
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home) Centrum partnerskiego.
+2. W menu po lewej stronie wybierz pozycję **klienci**.
+3. Na stronie **klienci** Znajdź klienta, którego historię zamówienia chcesz wyświetlić. Wybierz strzałkę w dół, aby rozwinąć rekord klienta.
+4. Wybierz pozycję **Wyświetl zamówienia** , aby wyświetlić historię zamówienia klienta.
+ 
 ## <a name="rules-for-special-segments"></a>Reguły dla segmentów specjalnych
 
 Niektóre oferty oparte na licencjach można kupić tylko w określonych warunkach. Oferty specjalnych segmentów obejmują oferty edukacyjne, niedochodowe lub w chmurze społecznościowej dla instytucji rządowych. Szczegółowe informacje na temat tych warunków zakupu można znaleźć w [temacie reguły zakupu dla segmentów specjalnych](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).

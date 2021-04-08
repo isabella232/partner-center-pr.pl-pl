@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215819"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964361"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Zapoznaj się z plikiem rachunku i rozliczeniami — Dowiedz się, jak je znaleźć w centrum partnerskim
 
@@ -27,6 +27,20 @@ ms.locfileid: "98215819"
 
 
 **Faktura** to **Podsumowanie wszystkich opłat za centrum partnerskie** (w ramach programu, wszystkich produktów i wszystkich klientów). 
+
+## <a name="find-your-bill-and-reconciliation-file"></a>Znajdowanie pliku rachunku i uzgodnienia 
+
+Fakturę można znaleźć na stronie rozliczenia pulpitu nawigacyjnego w centrum partnerskim. Możesz również znaleźć historię rozliczeń, trendy wydatków i pliki uzgadniania na tej stronie. 
+
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home)Centrum partnerskiego. 
+
+2. W menu po lewej stronie wybierz pozycję **rozliczenia**. 
+
+3. Na stronie stanu rozliczeń wybierz plik faktury lub uzgodnienia, aby wyświetlić bardziej szczegółowe informacje. 
+
+Możesz znaleźć link do najnowszej faktury w górnej części strony w obszarze saldo konta na podstawie daty ostatniej faktury. 
+
+Poprzednie faktury można znaleźć w sekcji Historia rozliczeń. Wybierz odpowiedni rok, a następnie wybierz strzałkę listy rozwijanej obok odpowiedniego okresu rozliczeniowego. Wybierz łącze obok pozycji faktury (PDF), aby pobrać fakturę tego okresu. 
 
 ## <a name="invoice-types"></a>Typy faktur
 
@@ -52,19 +66,6 @@ Na przykład
 
 - Partner otrzyma kolejną fakturę PDF i plik uzgadniania obejmujący opłaty za usługę 145p w EUR (lub w walucie rozliczeniowej partnera). 
 
-## <a name="find-your-bill"></a>Znajdowanie rachunku 
-
-Fakturę można znaleźć na stronie rozliczenia pulpitu nawigacyjnego w centrum partnerskim. Możesz również znaleźć historię rozliczeń, trendy wydatków i pliki uzgadniania na tej stronie. 
-
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home) Centrum partnerskiego. 
-
-2. W menu po lewej stronie wybierz pozycję **rozliczenia**. 
-
-3. Na stronie rozliczenia wybierz fakturę, którą chcesz pobrać. 
-
-Możesz znaleźć link do najnowszej faktury w górnej części strony w obszarze saldo konta na podstawie daty ostatniej faktury. 
-
-Poprzednie faktury można znaleźć w sekcji Historia rozliczeń. Wybierz odpowiedni rok, a następnie wybierz strzałkę listy rozwijanej obok odpowiedniego okresu rozliczeniowego. Wybierz łącze obok pozycji faktury (PDF), aby pobrać fakturę tego okresu. 
 
 ## <a name="understanding-invoice-pdf"></a>Informacje o dokumencie PDF faktury 
 

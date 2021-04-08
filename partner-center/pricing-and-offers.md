@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8aeb47f6968e364eecb05efd2c0d4a1b3e1ba267
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: b960a903c2ba85963047033094636da6dc599f90
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633764"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964429"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Cennik i oferty dla pakietu Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure i innych
 
@@ -28,7 +28,7 @@ ms.locfileid: "105633764"
 - Agent sprzedaży
 - Administrator rozliczeń
 
-Aby zobaczyć najnowsze programy i oferty dostawcy rozwiązań w chmurze, w portalu dla partnerów przejdź do pozycji **sprzedaj > Cennik i oferty**. Znajdziesz osobne cenniki dla różnych dostępnych typów produktów. Poniższe listy cen są dostępne na stronie **Cennik i oferty** :
+Aby zobaczyć najnowsze programy i oferty dostawcy rozwiązań w chmurze, na pulpicie nawigacyjnym portalu dla partnerów przejdź do pozycji **sprzedaj > Cennik i oferty**. Znajdziesz osobne cenniki dla różnych dostępnych typów produktów. Poniższe listy cen są dostępne na stronie **Cennik i oferty** :
 
 - **Usługi oparte na licencji** obejmują informacje o cenach dla pakietu Office 365, programu Enterprise Mobility i zabezpieczeń E3, a także usługi Dynamics 365. Sekcja cenowa oparta na licencji obejmuje aktualną i zapoznawczą, a także macierz listą ofert. Cennik zawiera Cennik i szacowane ceny detaliczne (ERP) dla ofert w ramach wszystkich obsługiwanych walut. Macierz list oferty zawiera dostępność rynkową oraz inne ważne informacje o ofertach. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
 - **Usługi oparte na użyciu** obejmują informacje o cenach dla Microsoft Azure i programu Visual Studio. Możesz również użyć [kalkulatora cen usług platformy Azure w ramach dostawcy usług kryptograficznych](https://azure.microsoft.com/pricing/calculator/). Pobieranie oparte na użyciu obejmuje zarówno listę cenową dostawcy usług kryptograficznych dla wszystkich obsługiwanych walut, jak i pliki cen usług udostępnionych w programie ERP. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
