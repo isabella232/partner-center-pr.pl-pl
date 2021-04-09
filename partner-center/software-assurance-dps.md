@@ -1,31 +1,43 @@
 ---
-title: Usługi planowania dla programu Software Assurance
+title: Wycofanie usług planowania programu Software Assurance
 ms.topic: article
-ms.date: 12/02/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Dowiedz się, jak zarejestrować i zakwalifikować się do zaangażowania usług planowania firmy Microsoft, dzięki czemu możesz dostarczać szkolenia i inne usługi klientom z pakietem Software Assurance.
+description: Trwa wycofywanie usług planowania firmy Microsoft.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b931f616417d8781b8864d7bcb9b0d6d47560ec
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028232"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024997"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>Usługi planowania pakietu Software Assurance w Centrum partnerskim
+# <a name="software-assurance-planning-services-retirement"></a>Wycofanie usług planowania programu Software Assurance
 
 **Odpowiednie role**
 
 - Administrator globalny
 - Administrator partnerski MPN
 
-Zgodnie z zatwierdzonym partnerem usług Planning Services firma Microsoft umożliwia świadczenie planowania przed wdrożeniem dla klientów korporacyjnych. Uczestnictwo w tym programie może pomóc Ci zwiększyć liczbę klientów, stać się zaufanym partnerem planowania i prowadzić do dodatkowych zakontraktowań klientów.
 
-## <a name="get-started"></a>Rozpoczęcie pracy
+Usługi planowania są całkowicie wycofywane z korzyści wynikających z programu Software Assurance, ale klienci mogą kontynuować pracę z partnerami, aby korzystać z usług planowania na potrzeby kontraktów, gdy te załączniki są prawidłowe. Są to istotne daty prowadzące do wycofania programu: 
+
+- 1 lutego 2020: zaplanowano zaangażowanie Cloud Services usług.  
+- 1 lutego 2020: nie można już przekonwertować załączników szkoleniowych na dni planowania.  
+- 1 lutego 2021: klienci nie naliczają już korzyści związanych z planowaniem usług. 
+- 30 czerwca 2021: ostatni dzień, w którym klienci mogą tworzyć/przypisywać załączniki usług planowania. Wszystkie pozostałe dni planowania usług zostaną usunięte 1 lipca 2021.
+- 1 stycznia 2022: ostatni dzień dla partnerów do zrealizowania załączników usługi Planning Services. W celu ukończenia procesu żądania płatności Partner będzie miał 60 dni.  
+
+>[!NOTE]
+>Nie wprowadzono zmian w cyklu życia załączników. Po utworzeniu i przypisaniu załącznika, rezerwacji załączników, zaangażowania klienta i umorzeniu załączników należy wykonać w ciągu 180 dni przed wygaśnięciem załącznika.  Aby uzyskać więcej informacji na temat planowania wycofania programu usług, zobacz często zadawane pytania [, aby uzyskać](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) więcej informacji (wymagane jest zalogowanie).  Przekaż wszelkie pytania do zespołu pomocy technicznej dla partnerów regionalnych: [wsparcie partnerskie programu EMEA partner](mailto:savoucher@msdirectservices.com); [Ogólna pomoc techniczna dla partnerów](https://partner.microsoft.com/dashboard/support/servicerequests)
+
+## <a name="until-june-30-2021"></a>Do 30 czerwca 2021
+
+### <a name="get-started"></a>Rozpoczęcie pracy
 
 Jeśli jesteś nowym usługą planowania oprogramowania Software Assurance, wykonaj wszystkie poniższe czynności. Jeśli jesteś już aktywny w programie planowania usług, Rozpocznij każde nowe zaangażowanie w kroku 4 (4) poniżej.
 
@@ -62,8 +74,6 @@ Gdy Firma spełni wymagania dotyczące uprawnień, można przystąpić do podpis
 
 Najpierw Pamiętaj, aby przejrzeć wszystkie [zasady programu Planning Services](https://go.microsoft.com/fwlink/?linkid=2115984). Następnie postępuj zgodnie z instrukcjami w [kroku 2](https://go.microsoft.com/fwlink/?linkid=2115983) przepływu pracy, aby zakończyć proces rejestracji usług planowania w centrum partnerskim.
 
->[!NOTE]
-> Musisz odnowić wymagania i ponownie zarejestrować się w programach do planowania usług w każdym roku.
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>Utwórz lub zaktualizuj profil firmowy firmy (nowi partnerzy)
 

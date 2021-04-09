@@ -1,28 +1,37 @@
 ---
-title: Program do szkolenia w programie Software Assurance
+title: Wycofanie programu do szkolenia w programie Software Assurance
 ms.topic: article
-ms.date: 12/09/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Dowiedz się, jak zarejestrować się w programie w ramach programu Software Assurance Training, aby uzyskać pomoc w zakresie dostarczania szkoleń i planowania klientom korporacyjnym.
+description: Program do szkolenia w programie Software Assurance jest wycofywany.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926619"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024980"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Program Software Assurance Training Voucher (SATV) w Centrum partnerskim
+# <a name="training-vouchers-program-retirement"></a>Wycofanie programu dla proszkoleniowych załączników
 
-Rozwijaj swoją firmę, rejestrując się w programach partnerskich programu Software Assurance. Firma Microsoft wynagradza partnerów w celu dostarczenia szkoleń, planowania i innych usług klientom korporacyjnym, którzy mają pakiet Software Assurance.
+Załączniki szkoleniowe są całkowicie wycofywane z korzyści wynikających z programu Software Assurance, ale klienci mogą nadal korzystać z usługi instruktora w dniach załączników. Są to istotne daty prowadzące do wycofania programu: 
 
-Zgodnie z zatwierdzonym partnerem szkoleniowym programu Software Assurance firma Microsoft daje gwarancję szkolenia technicznego klientom korporacyjnym w wymianie na potrzeby załączników z pakietem Software Assurance. Uczestnictwo w tym programie może pomóc Ci przyciągnąć więcej klientów i stać się zaufanym partnerem szkoleniowym.
+- 1 lutego 2020: szkolenie platformy Azure wycofane z katalogu załączników szkoleniowych.
+- 1 lutego 2020: nie można już przekonwertować załączników szkoleniowych na dni planowania.  
+- 1 lutego 2021: klienci nie naliczają już korzyści szkoleniowych. 
+- 30 czerwca 2021: ostatni dzień dla klientów do tworzenia/przypisywania załączników szkoleniowych. Wszystkie pozostałe dni z tytułu szkolenia zostaną usunięte 1 lipca 2021.
+- 1 stycznia 2022: ostatni dzień dla partnerów do zrealizowania załączników szkoleniowych. W celu ukończenia procesu żądania płatności Partner będzie miał 60 dni.  
 
-## <a name="get-started"></a>Rozpoczęcie pracy
+>[!NOTE]
+>Nie wprowadzono zmian w cyklu życia załączników. Po utworzeniu i przypisaniu załącznika, rezerwacji załączników, sesji szkoleniowych i umorzeniu załączników należy zakończyć w ciągu 180 dni przed wygaśnięciem załącznika.  Aby uzyskać więcej informacji na temat wycofania załączników szkoleniowych, zobacz często zadawane pytania [, aby uzyskać](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) więcej informacji (wymagane jest zalogowanie).  Zapoznaj się z pełną listą kursów szkoleniowych związanych z SATV w katalogu produktów korzyści szkoleniowych.  Przekaż wszelkie pytania do zespołu pomocy technicznej dla partnerów regionalnych: [wsparcie partnerskie programu EMEA partner](mailto:savoucher@msdirectservices.com); [Ogólna pomoc techniczna dla partnerów](https://partner.microsoft.com/dashboard/support/servicerequests).
+
+## <a name="until-june-30-2021"></a>Do 30 czerwca 2021
+
+### <a name="get-started"></a>Rozpoczęcie pracy
 
 Jeśli dopiero zaczynasz skorzystać z usług szkoleń w ramach programu Software Assurance, wykonaj wszystkie kroki opisane poniżej. Jeśli jesteś już aktywny w programie do szkolenia, Zacznij od kroku czwartego (4) poniżej. 
 
