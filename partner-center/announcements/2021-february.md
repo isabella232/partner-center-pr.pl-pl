@@ -10,48 +10,52 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/02/2021
-ms.openlocfilehash: 79d492fa907f9d2b9318ba9fa9850401b61a2b7d
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.date: 04/08/2021
+ms.openlocfilehash: b72d736fdeafc438fbfa848c0b2b1e51ab66b261
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280908"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266473"
 ---
 # <a name="february-2021-announcements"></a>Powiadomienia 2021 lutego
 
 Na tej stronie znajdują się szczegółowe informacje o anonsach programu Microsoft Partner Center dla lutego 2021.
 
 ________________
-## <a name="put-qualification-apis-are-retired-get-to-retire-in-may"></a><a name="14"></a> Wycofaj kwalifikacje interfejsów API
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="14"></a>Przypomnienie: zaniechanie uzyskania kwalifikacji w dniu 4 maja 2021
 
 ### <a name="categories"></a>Kategorie
 
-- Data: 25 lutego 2021
+- Data: 2021-04-09
 - Możliwości
 
 ### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
 
-Partnerzy sprzedający oferty akademickie, niedochodowe i współpracy w zatoce za pośrednictwem programu dostawcy rozwiązań w chmurze przy użyciu interfejsu API Centrum partnerskiego
+Partnerzy sprzedający oferty akademickie, niedochodowe i w chmurze dla instytucji rządowych — w ramach programu Cloud Solution Provider przy użyciu interfejsu API Centrum partnerskiego
 
 ### <a name="details"></a>Szczegóły
 
-Ten anons dotyczy ulepszeń Centrum partnerskiego [opublikowanych w grudniu](2020-december.md#1). W ramach tej wersji wdrożono nowe interfejsy API pobierania i wydawania kwalifikacji, a w związku z **tym istniejące interfejsy API dotyczące umieszczania kwalifikacji zostały wycofane i uzyskanie kwalifikacji zostanie wycofane o 4 maja 2021**. W takim przypadku konieczne będzie przejście do korzystania z nowych interfejsów API Centrum partnerskiego w celu zakupu ofert edukacyjnych. Podobnie należy użyć nowego interfejsu API uzyskiwania kwalifikacji do zakupu wstępnie zakwalifikowanych ofert niedochodowych i w serwisie.
+Ten anons dotyczy ulepszeń Centrum partnerskiego [opublikowanych w grudniu](https://docs.microsoft.com/partner-center/announcements/2020-december#1). W ramach tej wersji wdrożono nowe interfejsy API pobierania i wydawania kwalifikacji, a w efekcie istniejąca kwalifikacja zostanie wycofana o 4 maja 2021. W tym czasie konieczne będzie przechodzenie do korzystania z nowych interfejsów API Centrum partnerskiego w ofertach szkolenia zakupów i nowy interfejs API uzyskiwania kwalifikacji do zakupu przedkwalifikowanych ofert niedochodowych i współpracy w zatoce.
 
 ### <a name="next-steps"></a>Następne kroki
 
-- **Aktualizacja nowych interfejsów API** dla przejścia z powodzeniem i w odpowiednim czasie
-- **Zapoznaj się z tematem nowe zmiany w interfejsie API Centrum partnerskiego i przewodniku** w zasobach gotowości do działania: [usprawnienia procesu weryfikacji klienta w centrum partnerskim](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
-- **Podziel się tymi informacjami z odpowiednimi zespołami** w organizacji oraz z odsprzedawcami, aby ułatwić im przygotowanie się do tych zmian
+- Aktualizowanie nowych interfejsów API w celu przeprowadzenia pomyślnego i efektywnego przejścia.
+
+- Zapoznaj się z tematem nowe zmiany w interfejsie API Centrum partnerskiego, a następnie w obszarze zasoby gotowości do operacji — [ulepszenia procesu weryfikacji klienta w centrum partnerskim](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+
+- Udostępnij te informacje odpowiednim zespołom w organizacji i odsprzedawcy, aby ułatwić im przygotowanie się do tych zmian.
 
 ### <a name="questions"></a>Masz pytania?
 
-W przypadku pytań związanych z tym powiadomieniem skontaktuj się z [pomocą techniczną Centrum partnerskiego](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+Aby uzyskać odpowiedzi na pytania dotyczące tego powiadomienia, skontaktuj się z [pomocą techniczną Centrum partnerskiego](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
 ### <a name="change-log"></a>Dziennik zmian
 
+- Kwiecień: przypomnienie o nadchodzącym zaniechaniu kwalifikacji 
 - Luty: Zaktualizowano osie czasu na potrzeby wycofania kwalifikacji GET & PUT
 - Styczeń: przypomnienie dotyczące nadchodzących przestarzałych elementów GET & PUT
+
 
 ________________
 ## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a> Podziel się na dużą skalę przy użyciu możliwości operacji zbiorczych Centrum partnerskiego

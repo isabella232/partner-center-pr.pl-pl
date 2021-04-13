@@ -10,17 +10,51 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/02/2021
-ms.openlocfilehash: 2cd791425fd30d18b8db5f999eb773fc0e2f37e6
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.date: 04/08/2021
+ms.openlocfilehash: 441d41e6212399657124b6116e1f2c05ce734211
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374437"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266524"
 ---
 # <a name="april-2021-announcements"></a>Anonse 2021 kwietnia
 
 Ta strona zawiera anonse dla programu Microsoft Partner Center dla kwietnia 2021.
+
+________________
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Przypomnienie: zaniechanie uzyskania kwalifikacji w dniu 4 maja 2021
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-04-09
+- Możliwości
+
+### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+
+Partnerzy sprzedający oferty akademickie, niedochodowe i w chmurze dla instytucji rządowych — w ramach programu Cloud Solution Provider przy użyciu interfejsu API Centrum partnerskiego
+
+### <a name="details"></a>Szczegóły
+
+Ten anons dotyczy ulepszeń Centrum partnerskiego [opublikowanych w grudniu](https://docs.microsoft.com/partner-center/announcements/2020-december#1). W ramach tej wersji wdrożono nowe interfejsy API pobierania i wydawania kwalifikacji, a w efekcie istniejąca kwalifikacja zostanie wycofana o 4 maja 2021. W tym czasie konieczne będzie przechodzenie do korzystania z nowych interfejsów API Centrum partnerskiego w ofertach szkolenia zakupów i nowy interfejs API uzyskiwania kwalifikacji do zakupu przedkwalifikowanych ofert niedochodowych i współpracy w zatoce.
+
+### <a name="next-steps"></a>Następne kroki
+
+- Aktualizowanie nowych interfejsów API w celu przeprowadzenia pomyślnego i efektywnego przejścia.
+
+- Zapoznaj się z tematem nowe zmiany w interfejsie API Centrum partnerskiego, a następnie w obszarze zasoby gotowości do operacji — [ulepszenia procesu weryfikacji klienta w centrum partnerskim](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+
+- Udostępnij te informacje odpowiednim zespołom w organizacji i odsprzedawcy, aby ułatwić im przygotowanie się do tych zmian.
+
+### <a name="questions"></a>Masz pytania?
+
+Aby uzyskać odpowiedzi na pytania dotyczące tego powiadomienia, skontaktuj się z [pomocą techniczną Centrum partnerskiego](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+
+### <a name="change-log"></a>Dziennik zmian
+
+- Kwiecień: przypomnienie o nadchodzącym zaniechaniu kwalifikacji 
+- Luty: Zaktualizowano osie czasu na potrzeby wycofania kwalifikacji GET & PUT
+- Styczeń: przypomnienie dotyczące nadchodzących przestarzałych elementów GET & PUT
 
 ________________
 ## <a name="new-format-for-the-new-commerce-pdf-invoice-in-csp"></a><a name="3"></a>Nowy format dla nowej faktury Adobe commerce w programie CSP

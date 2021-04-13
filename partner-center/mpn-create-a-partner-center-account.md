@@ -1,7 +1,7 @@
 ---
 title: Utwórz konto MPN w centrum partnerskim
 ms.topic: article
-ms.date: 03/18/2021
+ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Dowiedz się, jak członkowie Microsoft Partner Network mogą utworzyć konto Centrum partnerskiego, aby zarządzać swoimi korzyściami i kompetencjami sieci.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 00d45b18dc4c2d55ec4af0456512a685ba111ee1
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712923"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266541"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Utwórz konto MPN w centrum partnerskim, aby zarządzać korzyściami i kompetencjami sieci
 
@@ -25,7 +25,7 @@ Jeśli jesteś nowym do Microsoft Partner Network (MPN) i nie masz identyfikator
 
 Gdy wszystko będzie gotowe do utworzenia konta w centrum partnerskim, musisz mieć dostępne następujące elementy.  Aby zebrać te elementy przed rozpoczęciem pracy, może być konieczne Poświęć kilka minut:
 
-- Służbowy adres e-mail lub konto służbowe pakietu Office 365. Aby uzyskać więcej informacji, Przeczytaj [firmowe konto służbowe i centrum partnerskie](azure-active-directory-tenants-and-partner-center.md) 
+- Służbowy adres e-mail lub konto służbowe pakietu Office 365. Firma może potrzebować zakupu domeny poczty e-mail w celu skonfigurowania służbowych adresów e-mail dla pracowników. Aby uzyskać więcej informacji, Przeczytaj [firmowe konto służbowe i centrum partnerskie](azure-active-directory-tenants-and-partner-center.md). 
  
 - Prawna służbowa nazwa firmy i adres.
 

@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: 9ab6afc85a696b3b614ea5c3b5edc644d92bfc21
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024997"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266507"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>Wycofanie usług planowania programu Software Assurance
 
@@ -35,7 +35,6 @@ Usługi planowania są całkowicie wycofywane z korzyści wynikających z progra
 >[!NOTE]
 >Nie wprowadzono zmian w cyklu życia załączników. Po utworzeniu i przypisaniu załącznika, rezerwacji załączników, zaangażowania klienta i umorzeniu załączników należy wykonać w ciągu 180 dni przed wygaśnięciem załącznika.  Aby uzyskać więcej informacji na temat planowania wycofania programu usług, zobacz często zadawane pytania [, aby uzyskać](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) więcej informacji (wymagane jest zalogowanie).  Przekaż wszelkie pytania do zespołu pomocy technicznej dla partnerów regionalnych: [wsparcie partnerskie programu EMEA partner](mailto:savoucher@msdirectservices.com); [Ogólna pomoc techniczna dla partnerów](https://partner.microsoft.com/dashboard/support/servicerequests)
 
-## <a name="until-june-30-2021"></a>Do 30 czerwca 2021
 
 ### <a name="get-started"></a>Rozpoczęcie pracy
 
