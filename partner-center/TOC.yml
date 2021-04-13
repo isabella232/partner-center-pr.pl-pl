@@ -12,8 +12,6 @@
     - name: Utwórz konto MPN w centrum partnerskim
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
-    - name: Uzyskiwanie służbowego adresu e-mail
-      href: buy-email-domain.md
     - name: Rozwiązywanie problemów z konfiguracją konta
       href: troubleshoot-account-sign-n.md
     - name: Przejścia do Centrum partnerskiego
@@ -246,7 +244,7 @@
           href: reset-a-user-password.md
         - name: Resetowanie hasła
           href: reset-my-pasword.md
-        - name: Użytkownik nie może się zalogować
+        - name: Rozwiązywanie problemów z logowaniem
           href: unable-to-sign-in.md
         - name: Użytkownik nie ma administratora MPN
           href: no-mpn-admin.md
