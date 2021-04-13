@@ -14,14 +14,6 @@
       displayName: mpn
     - name: Rozwiązywanie problemów z konfiguracją konta
       href: troubleshoot-account-sign-n.md
-    - name: Przejścia do Centrum partnerskiego
-      items:
-        - name: Przechodzenie z centrum PAC — przegląd
-          href: pac-to-pc-overview.md
-        - name: Porównywanie zadań w PAC i PC
-          href: moving-from-pac-to-pc.md
-        - name: Wykonywanie zadań centrum PAC w centrum PC
-          href: o365-partner-admin-center-to-partner-center.md
     - name: Przejścia z centrum PMC
       items:
         - name: Przygotowanie do migracji z centrum PMC
@@ -159,8 +151,6 @@
     - name: 'Umowy CSP, cenniki, oferty'
       href: csp-documents-and-learning-resources.md
       displayName: csp
-    - name: Usługa Azure Cost Management firmy Cloudyn dla dostawców CSP
-      href: azure-cost-management-app-for-csp-partners.md
     - name: 'Rynki regionalne CSP, waluty'
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'
