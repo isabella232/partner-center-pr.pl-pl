@@ -6,15 +6,15 @@ description: Dowiedz się, jak weryfikować szczegóły firmy, takie jak podstaw
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 03/10/2021
+ms.date: 04/12/2021
 ms.localizationpriority: medium
-ms.custom: contperf-fy21q3
-ms.openlocfilehash: 6e9afa8689f34203bdbf1f56f69aa9289e38ae15
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.custom: contperf-fy21q4
+ms.openlocfilehash: 08e35e24dc94c81db56807b4211874996f0f487e
+ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712600"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "107315879"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Weryfikowanie lub aktualizowanie informacji o profilu firmy 
 
@@ -92,6 +92,17 @@ Aby zaktualizować identyfikator MPN skojarzony z kontem dostawcy CSP:
 ## <a name="update-your-csp-legal-billing-address"></a>Aktualizowanie legalnego adresu rozliczeniowego CSP
 
 Jeśli jesteś administratorem globalnym, administratorem rozliczeń lub agentem administracyjnym, możesz zmienić adres, który pojawia się na fakturze w **profilu wypłaty i podatku**. Nie możesz jednak zmienić nazwy firmy na fakturze z powodu ograniczenia w systemie fakturowania.
+
+:::image type="content" source="images/billing-profile.png" alt-text="Przechwytywanie ekranu obszaru, w którym są dodawane informacje o rozliczeniach":::
+
+|**Pole**  |**Opis**|  
+|---------------------|:------------------|
+|Nazwa firmy dla rachunku|Nazwa firmy wyświetlana w Bill-To informacji na temat faktury dostawcy CSP.  Tego nie można edytować w centrum partnerskim.  Aby zaktualizować, Utwórz bilet pomocy technicznej.|
+|Adres płatnika|Adres płatnika pokazywany na fakturze dostawcy CSP. Aktualizacja — możliwość z [profilu rozliczania](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|Kontakt z fakturą|Szczegóły dotyczące kontaktu z rozliczeniami (imię, nazwisko, numer podstawowy) dla konta dostawcy CSP.  Aktualizacja — możliwość z [profilu rozliczania](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|Numer zamówienia zakupu|Numer zamówienia zakupu wyświetlany na fakturze partnera.  Aktualizacja — możliwość z [profilu rozliczania](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|IDENTYFIKATOR podatkowy firmy|Firmy w niektórych krajach mogą zapewnić swój [numer podatku VAT lub lokalny odpowiednik](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number). Aby zaktualizować identyfikator podatkowy/podatku VAT, musisz być administratorem globalnym, administratorem rozliczeń lub agentem administratora.|
+|Waluta rozliczeń|Waluta rozliczeń dla konta CSP jest określana przez kraj prawny konta dostawcy usług kryptograficznych.  Tego nie można zmienić po utworzeniu konta dostawcy CSP.|
 
 
 ## <a name="next-steps"></a>Następne kroki

@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e62462b6d35e8e6994e5e596ce433b37d222fc2
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 08499c306079d0cb900d528247309afdf21b23bb
+ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132285"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "107315902"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Zarządzanie kontem Centrum partnerskiego — profil firmy, informacje o banku, role, uprawnienia i inne
 
@@ -42,7 +42,7 @@ Zostanie wyświetlona strona Ustawienia konta.
 
 ### <a name="locate-your-mpn-id"></a>Lokalizowanie identyfikatora MPN
 
-Bez względu na to, czy jesteś partnerem, czy deweloperem, użyj identyfikatora MPN, aby uzyskać takie czynności jak rejestrowanie biletów pomocy technicznej. IDENTYFIKATOR MPN znajduje się na stronie z **informacjami o prawach** Thee. Można go również znaleźć w **profilu tożsamości**.
+Bez względu na to, czy jesteś partnerem, czy deweloperem, użyj identyfikatora MPN, aby uzyskać takie czynności jak rejestrowanie biletów pomocy technicznej. IDENTYFIKATOR MPN znajduje się na stronie **Informacje prawne** . Można go również znaleźć w **profilu tożsamości**.
 
 ## <a name="account-settings---partners-resellers"></a>Ustawienia konta — partnerzy, odsprzedawcy
 
