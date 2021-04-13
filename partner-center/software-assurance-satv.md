@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: b08ac8d76324270f32db481a92387b20650f42f5
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024980"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266490"
 ---
 # <a name="training-vouchers-program-retirement"></a>Wycofanie programu dla proszkoleniowych załączników
 
@@ -29,7 +29,7 @@ Załączniki szkoleniowe są całkowicie wycofywane z korzyści wynikających z 
 >[!NOTE]
 >Nie wprowadzono zmian w cyklu życia załączników. Po utworzeniu i przypisaniu załącznika, rezerwacji załączników, sesji szkoleniowych i umorzeniu załączników należy zakończyć w ciągu 180 dni przed wygaśnięciem załącznika.  Aby uzyskać więcej informacji na temat wycofania załączników szkoleniowych, zobacz często zadawane pytania [, aby uzyskać](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) więcej informacji (wymagane jest zalogowanie).  Zapoznaj się z pełną listą kursów szkoleniowych związanych z SATV w katalogu produktów korzyści szkoleniowych.  Przekaż wszelkie pytania do zespołu pomocy technicznej dla partnerów regionalnych: [wsparcie partnerskie programu EMEA partner](mailto:savoucher@msdirectservices.com); [Ogólna pomoc techniczna dla partnerów](https://partner.microsoft.com/dashboard/support/servicerequests).
 
-## <a name="until-june-30-2021"></a>Do 30 czerwca 2021
+
 
 ### <a name="get-started"></a>Rozpoczęcie pracy
 
