@@ -2,64 +2,66 @@
 title: Obliczanie obowiązującej ceny jednostkowej
 ms.topic: how-to
 ms.date: 04/02/2021
-description: Dowiedz się więcej na temat efektywnej ceny jednostkowej i sposobu jej obliczania. Ten artykuł zawiera również Przykładowe obliczenia.
+description: Dowiedz się więcej na temat efektywnej ceny jednostkowej i sposobu jej obliczania. Ten artykuł zawiera również przykładowe obliczenia.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a662e0b815c979b3454762c5b35eb510887c96ad
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.openlocfilehash: 6c3c3a672de015c9f38fa0e34232da8d9913177c
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374401"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528562"
 ---
-# <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Efektywne Obliczanie cen jednostkowych dla użycia planu platformy Azure
+# <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Obliczanie efektywnej ceny jednostkowej dla użycia planu platformy Azure
 
-## <a name="the-effective-unit-price"></a>Obowiązująca cena jednostkowa
+## <a name="the-effective-unit-price"></a>Efektywna cena jednostkowa
 
-Obowiązująca cena jednostkowa jest obliczana na poziomie licznika (w przeciwieństwie do poziomu zasobów) i jest dostosowywana codziennie zgodnie z użyciem licznika.
+Efektywna cena jednostkowa jest obliczana na poziomie miernika (w przeciwieństwie do poziomu zasobu) i jest dostosowywana codziennie zgodnie z użyciem miernika.
 
-Obliczamy obowiązującą cenę jednostkową przy użyciu następujących trzech czynników:
+Efektywną cenę jednostkową obliczamy przy użyciu następujących trzech czynników:
 
-- Użycie, które jest monitorowane codziennie w całym cyklu rozliczeniowym
-- Koszt do rozliczenia dla miernika
-- Obsługa warstw (jeśli dotyczy)
+- Zużycie, które jest monitorowane codziennie w całym cyklu rozliczeniowym
+- Rozliczany koszt miernika
+- Warstwy (jeśli dotyczy)
 
-Ze względu na to, że Twoje użycie jest monitorowane codziennie w całym cyklu rozliczeniowym, obowiązująca cena jednostkowa ulegnie zmianie. Końcowa cena danego cyklu rozliczeniowego będzie dostępna po zatrzymaniu obliczeń zużycia i zamknięciu okresu rozliczeniowego. Przed czwartym lub piątym miejscem dziesiętnym zobaczysz większość zmian w zużyciu.
+Ponieważ monitorujemy dzienne zużycie w całym cyklu rozliczeniowym, efektywna cena jednostkowa będzie się zmieniać. Końcowa cena dla danego cyklu rozliczeniowego będzie dostępna po zatrzymaniu obliczania zużycia i zamknięciu okresu rozliczeniowego. Większość zmian zużycia zobaczysz po czwartym lub piątym miejscu dziesiętnym.
 
-## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>Dowiedz się, czy licznik używa cen warstwowych
+## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>Dowiedz się, czy miernik korzysta z cen warstwowych
 
-Jeśli nie wiesz, czy licznik używa cen warstwowych, Skorzystaj z poniższej procedury, aby dowiedzieć się. 
+Jeśli nie wiesz, czy twój miernik korzysta z cen warstwowych, skorzystaj z poniższej procedury, aby się tego dowiedzieć. 
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
-2. Wybierz pozycję **Sprzedaj**, wybierz pozycję **Cennik i oferty**, a następnie wybierz pozycję **Cennik planu platformy Azure**.
-3. Znajdź swój licznik według identyfikatora, a następnie Pobierz dane cennika. 
+2. Wybierz **pozycję Sell**(Sprzedawaj), wybierz pozycję Pricing and offers **(Ceny** i oferty), a następnie wybierz **pozycję Azure plan pricing (Cennik planu platformy Azure).**
+3. Znajdź miernik według identyfikatora, a następnie pobierz dane dotyczące cen. 
 
-## <a name="sample-calculation"></a>Przykładowe Obliczanie
+## <a name="sample-calculation"></a>Przykładowe obliczenie
 
-W poniższej tabeli przedstawiono przykład sposobu obliczania efektywnej ceny jednostkowej w okresie otwartym.
+W poniższej tabeli przedstawiono przykład sposobu obliczania efektywnej ceny jednostkowej w otwartym okresie.
 
-W tabeli są stosowane następujące wartości: 
+W tabeli mają zastosowanie następujące wartości: 
 
-- W **górę** = cena jednostkowa zasobu/godziny = 0,868
+- **UP** = cena jednostkowa zasobu/godziny = 0,868
 
-- **Bcu** = jednostka zużycia do rozliczenia dla miernika
+- **BCU** = rozliczana jednostka zużycia dla miernika
 
-- **BC** = koszt płatny dla licznika = bcu * w górę * 0,85. Odzwierciedla to korektę dla rabatu PEC o 15%. Następnie użyjemy dolnego limitu funkcji, aby ograniczyć wartość do dwóch cyfr po przecinku dziesiętnym, aby obciążać kwotę minimalną. 
+- **BC** = rozliczany koszt miernika = BCU * UP * 0,85. Odzwierciedla to korektę rabatu 15% rabatu PEC. Następnie używamy dolnego limitu funkcji, aby ograniczyć wartość do dwóch cyfr po przecinku dziesiętnym, aby naliczyć minimalną kwotę. 
 
-- **Efektywna cena jednostkowa** = bcu/BC
+- **Efektywna cena jednostkowa** = BCU/BC
 
 >[!NOTE]
->Licznik w tym przykładzie nie ma warstw w cenniku. Efektywne czynniki cenowe jednostki w procentach rabatu i inne korekty.
 
-| Date (Data) | BCU (jednostka zużycia do rozliczania) | BC (koszt płatny) | Efektywna cena jednostkowa |
+>Uwaga: Miernik w tym przykładzie nie ma warstw cenowych ani innych rabatów — współczynnik efektywnej ceny jednostkowej ma wartość procentową rabatu i inne korekty.
+
+
+| Date (Data) | BCU (rozliczana jednostka zużycia) | BC (koszt rozliczany) | Efektywna cena jednostkowa |
 | ------ | ----------- | ----------- | ----------- |  
-| 3 — sie | 29 | 21,39 | 0.737586206896552 |
-| 10-sie | 210,950039 | 155,63 | 0.737757626107858 |
-| 25-sie | 555,950039 | 410,17 | 0.737782122900436 |
+| 3 sierpnia | 29 | 21.39 | 0.737586206896552 |
+| 10 sierpnia | 210.950039 | 155.63 | 0.737757626107858 |
+| 25 sierpnia | 555.950039 | 410.17 | 0.737782122900436 |
 
 ## <a name="next-steps"></a>Następne kroki
 
