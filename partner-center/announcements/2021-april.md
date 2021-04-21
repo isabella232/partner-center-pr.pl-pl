@@ -10,17 +10,61 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/19/2021
-ms.openlocfilehash: 4da672da3ee96d0fb3aea7919ea85214ec8c976f
-ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
+ms.date: 04/20/2021
+ms.openlocfilehash: 57253531ddc751d8e361f230f039196acc0662a6
+ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "107728933"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "107823388"
 ---
 # <a name="april-2021-announcements"></a>Ogłoszenia z kwietnia 2021 r.
 
-Ta strona zawiera ogłoszenia dotyczące usługi Microsoft Partner Center na kwiecień 2021 r.
+Ta strona zawiera ogłoszenia dotyczące platformy Microsoft Partner Center na kwiecień 2021 r.
+
+________________
+## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Dostawca rozwiązań w chmurze zasady dotyczące okresu zwracania oprogramowania (CSP) i powiadomienia o wygaśnięciu linku pobierania
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-04-21
+- Możliwości
+
+### <a name="summary"></a>Podsumowanie
+
+Istnieją zmiany zasad okresów zwrotu oprogramowania CSP i wygaśnięcia linku pobierania.
+
+### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+
+Partnerzy w ramach transakcji bezterminowych ofert subskrypcji oprogramowania lub oprogramowania w programie CSP
+
+### <a name="details"></a>Szczegóły
+
+Należy pamiętać o następujących ważnych powiadomieniach dotyczących bezterminowego zakupu oprogramowania i subskrypcji oprogramowania za pośrednictwem Partner Center:
+
+#### <a name="software-return-period-policy"></a>Zasady dotyczące okresu zwrotu oprogramowania
+
+Od 1 czerwca 2021 r. okres zwrotu dla ofert oprogramowania w programie CSP, zgodnie z Microsoft Partner Agreement (MPA), zmieni się z 60 dni od daty zamówienia do 30 dni od daty zamówienia.
+
+Po przesłaniu zamówienia na ofertę oprogramowania partnerzy będą mieć 30 dni od daty zamówienia, aby przesłać poprawki do takiego zamówienia:
+
+- Każda bezterminowa licencja na oprogramowanie zwrócona w ciągu 30-dniowego okresu zwrotu otrzyma pełne środków z płatnej ceny zakupu.
+
+- Każdy produkt subskrypcji oprogramowania zwrócony w 30-dniowym okresie zwrotu otrzyma proporcjonalną kredyt z płatnej ceny zakupu.
+
+Ta wiadomość jest kontynuacją wiadomości e-mail wysłanych w grudniu 2020 r. i kwietniu 2021 r. do wszystkich partnerów programu CSP w związku z okresem zwrotu i innymi aktualizacjami do mpA. Zapoznaj się z tymi uwagami, aby uzyskać szczegółowe informacje dotyczące zmian wpływających na owa owa zmianami.
+
+#### <a name="software-download-link-expiry"></a>Wygaśnięcie linku pobierania oprogramowania
+
+Od 3 czerwca 2021 r. linki do pobierania oprogramowania w przypadku bezterminowego zakupu oprogramowania i subskrypcji oprogramowania za pośrednictwem usługi Partner Center będą mieć datę wygaśnięcia 5 dni od początkowego pobrania. Okres wygaśnięcia będzie miał zastosowanie do wszystkich zakupów przed 3 czerwca 2021 r. oraz od 3 czerwca 2021 r.
+
+### <a name="next-steps"></a>Następne kroki
+
+Przejrzyj okres [zwrotny CSP i pobierz często](https://partner.microsoft.com/resources/detail/csp-software-return-period-download-expiry-faq-pdf)zadawane pytania dotyczące wygaśnięcia linku i poinformuj wszystkie odpowiednie zespoły w organizacji o tych zmianach:
+
+### <a name="questions"></a>Masz pytania?
+
+Jeśli masz pytania dotyczące tych ofert, sprawdź odpowiednie społeczności usługi Yammer.
 
 ________________
 ## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Otwórz program licencjonowania: Przechodzenie odsprzedawców do programu Dostawca rozwiązań w chmurze (CSP)
@@ -54,7 +98,7 @@ Przejście bezterminowego oprogramowania do programu CSP w nowym środowisku han
 
 - 1 lipca: bezterminowe licencje na oprogramowanie dostępne dla klientów z sektora publicznego
 
-- 7 lipca: Visual Studio Pro i Get Genuine Windows Agreement bezterminowe licencje na oprogramowanie dostępne dla wszystkich segmentów
+- 7 lipca: Visual Studio oprogramowania Pro i Get Genuine Windows Agreement bezterminowych licencji na oprogramowanie dostępne dla wszystkich segmentów
 
 ##### <a name="open-value"></a>Otwórz wartość
 
@@ -100,7 +144,7 @@ ________________
 
 ### <a name="summary"></a>Podsumowanie
 
-Gotowość do uruchomienia opublikowała nowy [przewodnik dotyczący gotowości na](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) promocję globalną w galerii zasobów Operations Readiness. Ten przewodnik zawiera skonsolidowany widok wszystkich aktywnych promocji [globalnych.](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)
+Launch Readiness has published a [new global promo readiness guide](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) (Gotowość do uruchomienia) opublikowano nowy przewodnik dotyczący gotowości na poziomie globalnym w galerii zasobów Operations Readiness. Ten przewodnik zawiera skonsolidowany widok wszystkich aktywnych promocji [globalnych.](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
@@ -180,7 +224,7 @@ Aby upewnić się, że otrzymasz jak najwięcej informacji z forum community Cal
 
 ### <a name="questions"></a>Masz pytania?
 
-Comiesięczne zaproszenie społeczności CSP&A to najlepsze miejsce na pytania związane ze zmianami w programie CSP. W każdym miesiącu zapoznaj się z materiałami i prześlij pytania z wyprzedzeniem, abyśmy spędzali sesję na tematach, które są dla Ciebie najważniejsze.
+Comiesięczne zaproszenie społeczności CSP&A to najlepsze miejsce na pytania związane ze zmianami w programie CSP. W każdym miesiącu zapoznaj się z materiałami i prześlij pytania z wyprzedzeniem, abyśmy spędzali sesję na najważniejszych tematach.
 
 Aby uzyskać więcej informacji, skontaktuj się z [pomocą techniczną.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)
 
@@ -232,7 +276,7 @@ Firma Microsoft wprowadza nowy format nowej faktury w formacie PDF dla handlu w 
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
-Partnerzy w ramach programu CSP
+Partnerzy inicjujące transakcje za pośrednictwem programu CSP
 
 ### <a name="details"></a>Szczegóły
 
