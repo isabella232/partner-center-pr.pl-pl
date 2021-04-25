@@ -4,115 +4,123 @@ ms.topic: article
 ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Regularnie Przeglądaj dane referencyjne w centrum partnerskim, aby zobaczyć trendy dotyczące zagadnień związanych z potrzebami biznesowymi.
+description: Regularnie przeglądaj dane szczegółowych informacji o poleceniach w Partner Center, aby zobaczyć trendy dotyczące obszarów ulepszeń lub w celu osiągnięcia celów biznesowych.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f58a7cc34b5b5b5755f652faf220d290ec2a355d
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 410ee9bee307f78cc93dabbafab147bb725a8d02
+ms.sourcegitcommit: 25336c9e4ff1e76669ac71539265f79d1b2b29f5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549264"
+ms.lasthandoff: 04/24/2021
+ms.locfileid: "107941830"
 ---
-# <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Uzyskaj szczegółowe informacje o odwołaniach w centrum partnerskim i Dowiedz się, w jaki sposób trwają odwołania
+# <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Uzyskaj szczegółowe informacje o poleceniach w Partner Center i dowiedz się, jak działa twoje polecenia
 
-Strona **możliwości wspólnej sprzedaży** w sekcji **Analiza** w odwołaniach umożliwia sprawdzenie, jak wykonywane są odwołania. Regularnie Przeglądaj te metryki, aby identyfikować trendy i obszary wymagające uwagi, a także rozpocząć pracę na podstawie celów firmy.
+Strona **Możliwości współpracy sprzedaży** w sekcji **Analiza** w sekcji Polecenia umożliwia zobaczenie działania poleceń. Regularnie sprawdzaj te metryki, aby identyfikować trendy lub obszary, które wymagają uwagi, i zacząć prowadzeniu w kierunku celów biznesowych.
 
-Aby wyświetlić dane dotyczące sprzedaży ze swoją ofertą, w menu Centrum partnerskiego przejdź do pozycji **odwołania > analizy > możliwością sprzedaży**.
+Aby wyświetlić szczegółowe informacje o możliwościach sprzedaży, z menu usługi Partner Center przejdź do pozycji **Referrals > Analytics > Co-sell Opportunities**(Możliwości współpracy sprzedaży).
 
 > [!Important]
-> Filtr typu transakcji jest wstępnie zastosowany z typem **współsprzedaży** wybranym dla wszystkich danych. Usuń filtr, jeśli chcesz anlayze dane związane z prywatnymi transakcjami.
+> Filtr typu transakcji jest wstępnie stosowany z typem **co-sell** wybranym dla wszystkich danych. Usuń filtr, jeśli chcesz dodać na anlayze dane związane z transakcjami prywatnymi i kierowanymi przez partnera.
 
 ## <a name="apply-filters"></a>Stosowanie filtrów
 
-W górnej części strony z **możliwościami wspólnej sprzedaży** możesz wybrać okres, dla którego chcesz wyświetlić dane. Wybór domyślny to **3m** (trzy miesiące), ale możesz wybrać wyświetlanie danych przez sześć miesięcy lub jeden rok. Możesz również wybrać opcję **niestandardowe** , aby wyświetlić dane dla wszystkich odwołań w określonym przedziale czasu.
+W górnej części strony **Możliwości** współpracy sprzedaży możesz wybrać okres, dla którego chcesz wyświetlić dane. Wartość domyślna to **3 mln** (trzy miesiące), ale zamiast tego można wybrać wyświetlanie danych przez sześć miesięcy lub jeden rok. Możesz również wybrać pozycję **Niestandardowe,** aby wyświetlić dane dla wszystkich poleceń w określonym okresie.
 
-Możesz wybrać przycisk **filtry** , aby otworzyć panel umożliwiający filtrowanie wszystkich danych na tej stronie według nazwy klienta, kraju, typu transakcji, kierunku transakcji, nazwy rozwiązania i stanu. Poniżej znajdują się szczegółowe informacje o tych filtrach.
+Możesz wybrać  przycisk Filtry, aby otworzyć panel, który umożliwia filtrowanie wszystkich danych na tej stronie według nazwy klienta, kraju, typu transakcji, kierunku transakcji, nazwy rozwiązania i stanu. Poniżej przedstawiono szczegóły tych filtrów.
 
-- **Nazwa klienta**: wartość domyślna to **wszystkie**, ale można ograniczyć dane do wybranych klientów.
-- **Kraj**: wartość domyślna to **wszystkie**, ale możesz ograniczyć dane do jednego lub większej liczby krajów klienta, które wybierzesz.
-- **Typ transakcji**: wartość domyślna to **wszystko**, ale możesz ograniczyć dane do możliwości wspólnej sprzedaży lub prywatnych transakcji na podstawie wybranego wyboru.
-- **Kierunek transakcji** Wartość domyślna to **wszystkie**, ale można wybrać ograniczenie danych do **przychodzących** odwołań (otrzymanych) lub **wychodzących** odwołań (wysyłanych przez Ciebie).
-- **Nazwa rozwiązania**: wartość domyślna to **wszystkie**, ale można wybrać ograniczenie danych do odwołań, które zawierają wybrane rozwiązania.
-- **Stan**: wartość domyślna to **wszystkie**, ale można wybrać ograniczenie danych do odwołań, które zawierają jeden lub więcej typów stanu odwołania, takich jak akceptowane, odrzucone, wygasłe, utracone i wygrane.
+- **Nazwa klienta:** wartość domyślna to **Wszystkie,** ale można ograniczyć dane do wybranego klienta.
+- **Kraj:** wartość domyślna **to Wszystkie,** ale można ograniczyć dane do co najmniej jednego wybranego kraju klienta.
+- **Typ transakcji:** wartość **domyślna** to Współpraca sprzedaży, ale możesz wybrać pozycję Wszystkie lub ograniczyć dane do transakcji prywatnych lub kierowanych przez partnera na podstawie wybranej opcji.
+- **Kierunek transakcji** Wartość domyślna to **Wszystkie,** ale można ograniczyć  dane do przychodzących odebranych (otrzymanych) lub wychodzących (tych, które zostały wysłane). 
+- **Nazwa rozwiązania:** wartość domyślna to **Wszystkie,** ale można ograniczyć dane do poleceń, które zawierają jedno lub więcej wybranych rozwiązań.
+- **Stan:** wartość domyślna to **Wszystkie,** ale możesz ograniczyć dane do poleceń, które zawierają co najmniej jeden typ stanu od skierowania, taki jak utworzone, zaakceptowane, odrzucone, wygasłe, utracone i zwyciężyły wybrane przez Ciebie.
 
-Informacje we wszystkich wykresach wymienionych poniżej będą odzwierciedlać zakres dat i wszystkie wybrane filtry, z wyjątkiem wymienionych poniżej. Niektóre sekcje umożliwiają również stosowanie dodatkowych filtrów, takich jak filtrowanie do określonego rozwiązania.
+Informacje na wszystkich wykresach wymienionych poniżej będą odzwierciedlać zakres dat i wszystkie wybrane filtry, z wyjątkiem wymienionych poniżej. Niektóre sekcje umożliwiają również stosowanie dodatkowych filtrów, takich jak filtrowanie do określonego rozwiązania.
 
-## <a name="referrals-summary"></a>Podsumowanie odwołań
+## <a name="referrals-summary"></a>Podsumowanie poleceń
 
-Na tej karcie przedstawiono przegląd sposobu działania operacji wspólnej sprzedaży.
+Na tej karcie przedstawiono omówienie sposobu, w jaki są dostępne możliwości współpracy sprzedaży.
 
-Na wykresie przedstawiono łączną liczbę transakcji, liczbę wygraną, liczbę, która została utracona, oraz łączny wolumin transakcji (w USD) dla wybranego okresu.
+Wykres przedstawia łączną liczbę transakcji, liczbę, które zostały wygrane, liczbę utraconych transakcji oraz łączną liczbę transakcji (w USD) w wybranym okresie.
 
-Metryki zmiany procentowej (pokazane w kolorze czerwonym lub zielonym ze wskaźnikiem strzałki) wskazują różnicę między **ostatnim pełnym miesiącem w wybranym zakresie dat** a **pierwszym pełnym miesiącem w tym zakresie**. Załóżmy na przykład, że bieżąca data to 15 czerwca, a wybrano filtr **3m** , aby wyświetlić dane z ostatnich trzech miesięcy. W takim przypadku te metryki będą pokazywały różnicę między maja (ostatni pełny miesiąc w wybranym okresie) i marzec (pierwszy pełny miesiąc w wybranym okresie) wybrany zakres dat jest ostatnim **3m**, a porównanie między danymi dla programu może a danymi na marzec.
+Metryki zmiany procentowej (wyświetlane w kolorze czerwonym lub zielonym  ze wskaźnikiem strzałki) wskazują różnicę między ostatnim pełnym miesiącem w wybranym zakresie dat a pierwszym pełnym miesiącem **w tym zakresie.** Załóżmy na przykład, że bieżąca data to 15 czerwca i wybrano filtr **3M** w celu pokazania danych z ostatnich trzech miesięcy. W tym przypadku te metryki pokazują różnicę między majem (ostatnim pełnym miesiącem w wybranym okresie) a marcem (pierwszym pełnym miesiącem w wybranym okresie) wybranym zakresem dat jest ostatnie **3** mln. Porównanie dotyczy danych z maja i danych z marca.
 
-:::image type="content" source="images/referrals/cosellanalyticssummary.png" alt-text="Obraz przedstawiający kartę skróconą usługi Analiza szans sprzedaży z możliwością sprzedaży.":::
+:::image type="content" source="images/referrals/cosellanalyticssummary.png" alt-text="Obraz przedstawiający kartę podsumowania analizy możliwości współpracy sprzedaży.":::
 
-## <a name="conversion-funnel"></a>Lejk konwersji
+## <a name="conversion-funnel"></a>Lejek konwersji
 
-W tej sekcji przedstawiono wizualny wskaźnik, w jaki sposób transakcje są przenoszone z jednego stanu do drugiego za pośrednictwem cyklu życia. Cały cykl życia można wyświetlić na podstawie wielkości transakcji, a także wartości transakcji w USD na podstawie głównej tabeli przestawnej dla tej sekcji. Pierwsza sekcja jest oznaczona stanem, a także typem transakcji, aby dać wizualizację wskaźnikiem woluminu lub wartości według typu. Istnieje również sekcja, **odwołania od przeszłości**, która jest używana do wskazywania transakcji, dla których wykonano akcję akceptującą/odrzucają lub oznaczając je jako wygrane lub utracone w okresie, który został wybrany dla raportu. Filtry można zastosować, aby wyświetlić postęp transakcji na różnych etapach cyklu życia.
+W tej sekcji przedstawiono wizualny wskaźnik sposobu przenoszenia transakcji z jednego stanu do innego w cyklu życia. Możesz wyświetlić cały cykl życia na podstawie wielkości transakcji, a także wartości transakcji w USD na podstawie głównego wykresu przestawnego dla tej sekcji. Pierwsza sekcja ma etykietę zarówno ze stanem, jak i typem transakcji, aby zapewnić wizualny wskaźnik woluminu lub wartości według typu. Istnieje również sekcja Skierowania z przeszłości **,** która służy do wskazywania transakcji, dla których zostały podjęte działania dotyczące ich zaakceptowania/odrzucania lub oznaczania ich jako wygranych/utraconych w okresie wybranym dla raportu. Możesz zastosować filtry, aby wyświetlić postęp transakcji na różnych etapach ich cyklu życia.
 
-:::image type="content" source="images/referrals/cosellanalyticsfunnel.png" alt-text="Obraz przedstawiający rozdzielacz konwersji dla odwołań.":::
+Wspólna sprzedaż transakcji przychodzących może zostać scalona z zaakceptowaną, odrzuconą lub wygasłą, ponieważ partnerzy muszą zaakceptować lub odrzucić przychodzące transakcje sprzedaży.
 
-## <a name="deals-by-geography"></a>Transakcje według położenia geograficznego
+:::image type="content" source="images/referrals/inbound.png" alt-text="Obraz przedstawiający stany od skierowań przychodzących.":::
 
-W tej sekcji przedstawiono kraje/regiony, w których pochodziły transakcje, wraz ze szczegółami dotyczącymi poszczególnych krajów/regionów. Istnieje widok tabeli szczegółów transakcji dla każdego z krajów oraz widok mapy wszystkich krajów. Możesz wybrać konkretny kraj w tabeli lub wybrać widok mapy, aby powiększyć do określonego kraju.
+Transakcje wychodzące prowadzone przez partnerów, prywatne i współsieć będą scalane z utworzonymi, ponieważ tego typu transakcje są tworzone przez partnerów.
 
-:::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Obraz przedstawiający rozkład geograficzny odwołań.":::
+:::image type="content" source="images/referrals/outbound.png" alt-text="Obraz przedstawiający stany od skierowań wychodzących.":::
+
+:::image type="content" source="images/referrals/cosell-analytics-funnel-v2.png" alt-text="Obraz przedstawiający lejek konwersji dla poleceń.":::
+
+## <a name="deals-by-geography"></a>Transakcje według lokalizacji geograficznej
+
+W tej sekcji przedstawiono kraje/regiony, z których pochodziły transakcje, wraz ze szczegółami dla każdego kraju/regionu. Istnieje widok tabeli ze szczegółami transakcji dla każdego kraju oraz widok mapy wszystkich krajów. Możesz wybrać konkretny kraj w tabeli lub wybrać widok mapy, aby powiększyć widok do określonego kraju.
+
+:::image type="content" source="images/referrals/cosell-analytics-geo-distribution-v2.png" alt-text="Obraz przedstawiający rozkład geograficzny poleceń.":::
 
 ## <a name="deals-by-solutions"></a>Transakcje według rozwiązań
 
-Ten wykres pozwala zobaczyć, które z twoich rozwiązań zapewniają największą liczbę odwołań i największą wartość transakcji. Tabela ma dwa przestawki — współsprzedaż i prywatne.
-Na podstawie wybranego obszaru przestawnego można zobaczyć wydajność transakcji agregowanych przez rozwiązanie.
+Ten wykres pozwala zobaczyć, które z Twoich rozwiązań wpływają na największą liczbę poleceń i najwyższą wartość transakcji. Tabela zawiera trzy tabele przestawne — sprzedaż we współpracy, prowadzone przez partnera i prywatne.
+W oparciu o wybór opcji przestawnej możesz zobaczyć wydajność transakcji zagregowanych według rozwiązania.
 
 > [!NOTE]
-> Jeśli w transakcji uwzględniono wiele rozwiązań, w tabeli zostanie wyświetlona ta sama transakcja. Nie należy dodawać wartości związanych z rozwiązaniami i porównywać ich z innymi metrykami woluminów referencyjnych. Ten widok ma na celu ułatwienie zrozumienia wydajności transakcji przy użyciu tabeli przestawnej rozwiązania.
+> Jeśli w transakcji uwzględniono wiele rozwiązań, tabela będzie zawierała tę samą umowę wliczaną do wszystkich tych rozwiązań. Nie należy dodawać wartości związanych z rozwiązaniami i porównywać ich z innymi metrykami woluminu poleceń. Ten widok ma pomóc w zrozumieniu wydajności transakcji w przypadku rozwiązania przestawnego.
 
-W tabeli zamieszczono łączną liczbę transakcji, w których uwzględniono rozwiązanie, a także odpowiadające im Stany, takie jak transakcje wygrane, transakcje, które wygasły, a także łączne wartości transakcji wygrane i utracone w walucie USD. Istnieje również wykres trendu transakcji z prawej strony tabeli, który pokazuje łączną liczbę transakcji i wartość transakcji uzyskaną w walucie USD na podstawie wybranego rozwiązania. Wybór domyślny to wszystkie rozwiązania.
+Tabela zawiera łączną liczbę transakcji, w których uwzględniono rozwiązanie, oraz odpowiednie stany, takie jak wygrane transakcje, utracone transakcje, transakcje wygasły, wraz z łączną wartością transakcji wygranych i utraconych w walucie USD. Po prawej stronie tabeli znajduje się wykres trendu transakcji, który pokazuje łączną liczbę transakcji i wartość transakcji wygraną w walucie USD na podstawie wybranego rozwiązania. Domyślnym wyborem są wszystkie rozwiązania.
 
-:::image type="content" source="images/referrals/cosellanalyticssolutions.png" alt-text="Obraz przedstawiający wydajność rozwiązań.":::
+:::image type="content" source="images/referrals/cosell-analytics-solutions-v2.png" alt-text="Obraz przedstawiający wydajność rozwiązań.":::
 
-## <a name="declined--lost-reasons"></a>Odrzucone & utraconych przyczyn
+## <a name="declined--lost-reasons"></a>Odrzucono & przyczyn
 
-Ta sekcja pomoże Ci analizować przyczyny, dla których transakcje są oznaczone jako **odrzucone** lub **utracone** przez firmę. Opcje w tych reprezentacjach są takie same, jak w przypadku, gdy sprzedawcy wybrali podczas zamykania transakcji jako odrzucone lub utracone.
+Ta sekcja pomoże Ci przeanalizować przyczyny, dla  których transakcje są oznaczane jako odrzucone lub **utracone** przez Twoją firmę. Opcje w tych reprezentacjach są tymi samymi przyczynami, które wybrali sprzedawcy podczas zamykania transakcji jako odrzucona lub utracona.
 
-:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="Obraz przedstawiający powody wybrane przez partnera w przypadku odrzucenia lub podjęcia transakcji jako utraconej.":::
+:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="Obraz przedstawiający przyczyny wybrane przez partnera podczas odrzucania lub dokonywania transakcji jako utraconych.":::
 
-## <a name="comparison-charts"></a>Wykresy porównawcze
+## <a name="comparison-charts"></a>Wykresy porównania
 
-Sekcja porównanie pomoże porównać dane związane z odwołaniami na podstawie wielu wymiarów w woluminie i wartości transakcji wykorzystanych w tabeli przestawnej USD.
-Trzy wymiary, które można wybrać do porównania danych, to
+Sekcja porównania pomoże Ci porównać dane związane z poleceniami oparte na wielu wymiarach zarówno na woluminie, jak i wartości transakcji wygranych w dolarach przestawnych USD.
+Trzy wymiary, które można wybrać do porównania danych, to:
 
 - Typ transakcji
-- Wprowadza
+- Rynków
 - Rozwiązania
 
-W przypadku wybrania typu transakcji można porównać wydajność odwołań w odniesieniu do możliwości wspólnej sprzedaży i prywatnych transakcji. Dla obu rynków i rozwiązań możesz wybrać trzy różne opcje, aby porównać ich wydajność. Pierwszy wykres, który jest wykresem słupkowym, będzie zawierał dane z miesięcznego trendu miesięcznego w oparciu o główny obszar Pivot, który jest woluminem lub wartością oferty. Istnieje również wykres kołowy z prawej strony wykresu słupkowego, który pokazuje rozkład według wartości procentowej dla tych samych danych.
+Po wybraniu typu transakcji można porównać wydajność poleceń względem szans sprzedaży, transakcji prowadzonych przez partnerów i transakcji prywatnych. W przypadku rynków i rozwiązań można wybrać maksymalnie trzy różne opcje, aby porównać ich wydajność. Pierwszy wykres, który jest wykresem słupkowym, będzie zawierał dane z trendem miesiąc do miesiąca na podstawie głównego wykresu przestawnego, czyli ilości lub liczby wygranych transakcji. Po prawej stronie wykresu słupkowego znajduje się również wykres kołowy, który pokazuje rozkład według wartości procentowej dla tych samych danych.
 
-:::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Obraz przedstawiający sekcję porównania.":::
+:::image type="content" source="images/referrals/cosell-analytics-compare-v2.png" alt-text="Obraz przedstawiający sekcję porównania.":::
 
-## <a name="raw-data-table"></a>Nieprzetworzona tabela danych
+## <a name="raw-data-table"></a>Tabela danych pierwotnych
 
-Poniższa tabela ze wszystkimi danymi nieprzetworzonymi związanymi z możliwościami współsprzedaży pomoże Ci szybko **wyeksportować** dane do wszelkich szczegółowych lub niestandardowych analiz, które chcesz wykonać.
+W poniższej tabeli ze wszystkimi nieprzetworzone dane związane  z możliwościami współpracy sprzedaży możesz szybko wyeksportować dane do dowolnej szczegółowej lub niestandardowej analizy, którą chcesz wykonać.
 
-:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Obraz przedstawiający tabelę nieprzetworzonych danych dla odwołań.":::
+:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Obraz przedstawiający tabelę danych pierwotnych dla poleceń.":::
 
 ## <a name="no-data"></a>Brak danych
 
-Istnieje wiele przyczyn, dla których otrzymujesz pusty wykres, jak poniżej, podczas uzyskiwania dostępu do analizy współsprzedawanej, zgodnie z poniższym opisem.
+Istnieje wiele powodów, dla których uzyskujesz pusty wykres, taki jak poniżej, podczas uzyskiwania dostępu do analizy dotyczącej współpracy sprzedaży, jak opisano poniżej.
 
-- Brak danych dla tego konta. Spróbuj utworzyć oferty, aby uzyskać ten raport.
-- Wystąpił problem z łącznością sieciową. Sprawdź połączenie internetowe i spróbuj ponownie.
-- Strona zostanie załadowana przy użyciu domyślnego filtru dla transakcji współsprzedażowych. Jeśli masz tylko prywatne transakcje, zresetuj filtr typu transakcji.
-- Brak rekordów pasujących do filtrów, które zostały zastosowane. Spróbuj zresetować filtry.
-- Istnieje opóźnienie między zmianą stanu szansy sprzedaży i zaktualizowaniem go w raporcie analizy. Sprawdź raport po 24 godzinach.
+- Nie ma żadnych danych dla tego konta. Spróbuj utworzyć transakcje, aby wypełnić ten raport.
+- Występuje problem z łącznością sieciową. Sprawdź połączenie internetowe i spróbuj ponownie.
+- Strona jest ładowana z domyślnym filtrem transakcji sprzedaży. Jeśli masz tylko prywatne transakcje, zresetuj filtr typu transakcji.
+- Nie ma żadnych rekordów zgodnych z zastosowanymi filtrami. Spróbuj zresetować filtry.
+- Istnieje opóźnienie między zmianą stanu szansy sprzedaży a zaktualizowaniem tego samego stanu w raporcie analizy. Sprawdź raport po 24 godzinach.
 
-:::image type="content" source="images/referrals/nodata.png" alt-text="Obraz przedstawiający brak wizualizacji danych dla odwołań.":::
+:::image type="content" source="images/referrals/nodata.png" alt-text="Obraz przedstawiający brak wizualizacji danych dla poleceń.":::
 
 > [!NOTE]
-> Na stronie **Statystyki poleceń** są wyświetlane tylko dane poleceń wygenerowanych w Centrum partnerskim. Nie są wyświetlane dane dotyczące odwołań generowanych za poorednictwem [partnera sprzedaży](psc-to-pc.md) lub innych mechanizmów.
+> Na stronie **Statystyki poleceń** są wyświetlane tylko dane poleceń wygenerowanych w Centrum partnerskim. Nie są w nim wyświetlane dane dotyczące poleceń wygenerowanych za pośrednictwem [programu Partner Sales Connect](psc-to-pc.md) ani żadnych innych mechanizmów.
 
 > [!TIP]
-> Aby dowiedzieć się, jak Twój profil biznesowy jest wykonywany w środowisku [wyszukiwania dostawcy rozwiązań](https://www.microsoft.com/solution-providers/home) , przejrzyj [stronę szczegółowe informacje o profilu biznesowym](analyze-your-marketing-profile.md).
+> Aby zobaczyć, jak działa Twój profil biznesowy, w chmurze Znajdź [dostawcę](https://www.microsoft.com/solution-providers/home) rozwiązań, zapoznaj się ze stroną [szczegółowych informacji o profilu biznesowym.](analyze-your-marketing-profile.md)

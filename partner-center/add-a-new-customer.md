@@ -4,20 +4,19 @@ ms.topic: how-to
 ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, jak dodać nowy rekord klienta w centrum partnerskim. Następnie możesz sprzedawać subskrypcje klientów, zarządzać rozliczeniami lub oferować pomoc techniczną.
+description: Dowiedz się, jak dodać nowy rekord klienta w Partner Center. Następnie możesz sprzedawać subskrypcje klientów, zarządzać rozliczeniami lub zapewniać pomoc techniczną dla klientów.
 author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 85a1e7c456435b56c76ebbeb8c2e526773dbe236
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: cd7567a53f517d770bf51c734f5a1ace7b6ec94b
+ms.sourcegitcommit: 25336c9e4ff1e76669ac71539265f79d1b2b29f5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474261"
+ms.lasthandoff: 04/24/2021
+ms.locfileid: "107941779"
 ---
-# <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Jak dodać nowy rekord klienta w centrum partnerskim
-
+# <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Jak dodać nowy rekord klienta w Partner Center
 
 **Odpowiednie role**
 
@@ -26,43 +25,43 @@ ms.locfileid: "96474261"
 - Agent administracyjny
 - Agent sprzedaży
 
-W tym artykule opisano sposób dodawania nowego klienta do listy klientów w centrum partnerskim. Te kroki są wymagane, aby można było sprzedawać subskrypcje, zarządzać rozliczeniami lub zapewniać pomoc techniczną dla klienta.
+W tym artykule opisano sposób dodawania nowego klienta do listy klientów w Partner Center. Te kroki są wymagane, aby można było sprzedawać subskrypcje, zarządzać rozliczeniami lub zapewniać pomoc techniczną klientowi.
 
 >[!NOTE]
->W przypadku istniejących klientów, w tym tych, którzy mają już rekordy klienta w centrum partnerskim w ramach [scenariusza](multipartner.md) [wielokanałowego](multichannel.md) lub wielodostępnego, należy [zażądać relacji z nimi](request-a-relationship-with-a-customer.md), zamiast wykonać kroki opisane tutaj.
+>W przypadku istniejących klientów, w tym tych, którzy [](multichannel.md) już mają rekordy klientów w uciece Partner Center w scenariuszu obejmującym wiele kanałów lub wieloskładnikowych, należy zażądać relacji z nimi [zamiast](request-a-relationship-with-a-customer.md)wykonać kroki opisane tutaj. [](multipartner.md)
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Aby dodać nowego klienta w Centrum partnerskim
 
-1. Wybierz pozycję **klienci** z menu Centrum partnerskiego, a następnie wybierz pozycję **Dodaj klienta**.
+1. Wybierz **pozycję Klienci** z Partner Center menu, a następnie wybierz pozycję Dodaj **klienta.**
 
-2. Na stronie **Informacje o koncie** wprowadź szczegóły klienta i podstawowe informacje kontaktowe. Sprawdź, czy klient zaakceptował i podpisał najnowszą [umowę klienta firmy Microsoft](agreements.md).
+2. Na stronie **Informacje o koncie** wprowadź szczegóły klienta i podstawowe informacje kontaktowe. Sprawdź również, czy klient zaakceptował i podpisał najnowszą wersję [Umowa z Klientem Microsoft](agreements.md).
 
    >[!NOTE]
    >
    >Aby zapewnić dokładność podczas weryfikacja klienta, upewnij się, że:
    >
-   >- Użyj dokładnej i oficjalnej nazwy, która pojawia się w oficjalnych dokumentach
-   >- Unikaj używania akronimów lub form skróconych
-   >- Nie używaj nazw testowych
-   >- Podaj pełny, dokładny adres (szczegóły lokalizacji, miasto, Województwo, kraj i kod pocztowy)
+   >- Użyj dokładnej nazwy prawnej/oficjalnej, która jest wyświetlana w oficjalnych dokumentach
+   >- Unikaj używania skrótów lub krótkich formularzy
+   >- Nie używaj nazw testów
+   >- Podaj pełny, dokładny adres (szczegóły lokalizacji, miasto, stan, kraj i kod pocztowy))
 
    >[!IMPORTANT]
-   > 1 października 2019 firma Microsoft wprowadziła umowę **klienta firmy Microsoft** do programu CSP w celu zastąpienia umowy Microsoft Cloud. Przeczytaj informacje o [umowie klienta firmy Microsoft i sposobach potwierdzania zgody](confirm-customer-agreement.md)
+   > 1 października 2019 r. firma  Microsoft wprowadziła Umowa z Klientem Microsoft programu CSP w celu zastąpienia Umowa dotycząca platformy Microsoft Cloud. Przeczytaj o Umowa z Klientem Microsoft [i jak potwierdzić zgodę](confirm-customer-agreement.md)
   
-3. Jeśli jesteś dostawcą pośrednim, wybierz z listy pośredni odsprzedawcę, który ma zostać skojarzony z subskrypcjami tego klienta.
+3. Jeśli jesteś dostawcą pośrednim, wybierz z listy odsprzedawcę pośredniego, który chcesz skojarzyć z subskrypcjami tego klienta.
 
-4. Wybierz pozycję **Dalej: subskrypcje** po zakończeniu wprowadzania wszystkich wymaganych informacji.
+4. Po **zakończeniu wprowadzania** wszystkich wymaganych informacji wybierz pozycję Dalej: Subskrypcje.
 
-5. Na stronie **subskrypcje** wybierz oferty, które klient chce kupić, wprowadź liczbę licencji, a następnie wybierz kolejno pozycje **Dalej: przegląd**.
+5. Na **stronie Subskrypcje** wybierz oferty, które klient chce kupić od Ciebie, wprowadź liczbę licencji, a następnie wybierz pozycję **Dalej: Przejrzyj**.
 
-6. Na stronie **Przegląd** Sprawdź wpisy pod kątem dokładności, a następnie wybierz pozycję **Prześlij** , jeśli informacje są poprawne.
+6. Na stronie **Przegląd** sprawdź poprawność wpisów, a następnie wybierz pozycję **Prześlij,** jeśli informacje są poprawne.
 
    >[!NOTE]
-   >Jeśli musisz zmienić wszystkie szczegóły klienta, wybierz pozycję **Aktualizuj** w sekcji **Informacje o koncie** . Jeśli musisz zmienić wybrane oferty, wybierz pozycję **Aktualizuj** w sekcji **subskrypcje** .
+   >Jeśli musisz zmienić jakiekolwiek szczegóły klienta, wybierz pozycję **Aktualizuj** w **sekcji Informacje o** koncie. Jeśli musisz zmienić wybrane oferty, wybierz pozycję **Aktualizuj** w **sekcji** Subskrypcje.
 
-7. Wybierz pozycję **gotowe** po zakończeniu dodawania informacji o kliencie i zakupione wymagane subskrypcje.
+7. Po **zakończeniu** dodawania informacji o kliencie i zakupienia wymaganych subskrypcji wybierz pozycję Gotowe.
 
 ## <a name="next-steps"></a>Następne kroki
 
-- Aby uzyskać więcej informacji o tym, co możesz sprzedawać klientom za pomocą programu Cloud Solution Provider, zobacz [oferty partnerów w programie dostawcy rozwiązań w chmurze](csp-offers.md)
+- Aby uzyskać więcej informacji o tym, co można sprzedawać klientom za pośrednictwem programu Dostawca rozwiązań w chmurze, zobacz Oferty partnerów w [Dostawca rozwiązań w chmurze programu](csp-offers.md)
 
