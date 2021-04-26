@@ -3,18 +3,18 @@ title: Przenoszenie subskrypcji platformy Azure do innego partnera
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, jak zmienić partnera programu Cloud Solution Provider skojarzonego z subskrypcjami platformy Azure klienta.
+description: Dowiedz się, jak Dostawca rozwiązań w chmurze partner programu skojarzonego z subskrypcjami platformy Azure klienta.
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: 886c39d192316987dcb68bff4d75302cc18a1305
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: b21bfcae4472763c19481ad506ae1c72d238e8f0
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441918"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002909"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Dowiedz się, jak przenieść subskrypcje platformy Azure klienta do innego partnera
 
@@ -22,66 +22,70 @@ ms.locfileid: "106441918"
 
 - Centrum partnerskie Microsoft Cloud for US Government
 
-W tym artykule opisano, jak klient może przełączać Microsoft Azure usług z jednego dostawcy rozwiązań w chmurze (CSP) na inny.
+**Odpowiednie role**
 
-Aby przełączyć usługi platformy Azure lub subskrypcje klienta na innego partnera, wykonaj te kroki ręcznie. Zarówno partner, jak i klient muszą wykonać te czynności.
+- Administrator globalny
+
+W tym artykule opisano, jak klient może przełączać swoje usługi Microsoft Azure między Dostawca rozwiązań w chmurze (CSP).
+
+Aby przełączyć usługi lub subskrypcje platformy Azure klienta na innego partnera, wykonaj te kroki ręczne. Zarówno partner, jak i klient muszą wykonać te kroki.
 
 >[!Note]  
 >Obecnie tylko dostawcy bezpośredni lub pośredni mogą przenosić subskrypcje.
->Nie można zmienić partnerów dla subskrypcji dostawcy rozwiązań w chmurze skojarzonych z planem Azure, pakietem Office 365, pakietem Enterprise Mobility Suite ani subskrypcjami programu Microsoft Dynamics CRM.
+>Nie można zmienić partnerów dla subskrypcji Dostawca rozwiązań w chmurze związanych z planem platformy Azure, usługą Office 365, pakietem Enterprise Mobility Suite ani subskrypcjami usługi Microsoft Dynamics CRM.
 
-## <a name="switch-partners-for-azure-subscriptions"></a>Przełączanie partnerów dla subskrypcji platformy Azure
+## <a name="switch-partners-for-azure-subscriptions"></a>Przełączanie partnerów na subskrypcje platformy Azure
 
-1. Aby przetransferować subskrypcję platformy Azure do nowego partnera, klient musi rozpocząć proces i skontaktować się z jego bieżącym partnerem.
+1. Aby przenieść subskrypcję platformy Azure do nowego partnera, klient musi rozpocząć proces i skontaktować się z bieżącym partnerem rekordu w formie pisemnej.
 
    >[!Note]
-   > Jest to odpowiedzialność bieżącego partnera o utworzenie biletu usługi, który inicjuje proces transferu. Firma Microsoft nie może interweniować w imieniu klienta lub nowego partnera. Klient powinien zaplanować ścisłą pracę z bieżącym partnerem, aby zapewnić płynność przejścia.
+   > Bieżący partner odpowiada za utworzenie biletu usługi, który inicjuje proces transferu. Firma Microsoft nie może interweniować w imieniu klienta ani nowego partnera. Klient powinien zaplanować ścisłą współpracę z bieżącym partnerem, aby przejście przebiegało bezproblemowo.
 
 2. Partner subskrypcji musi wykonać następujące zadania:
 
-   Utwórz bilet usługi platformy Azure z Centrum partnerskiego, aby zażądać przeniesienia subskrypcji:
+   Utwórz bilet usługi platformy Azure z Partner Center, aby zażądać przeniesienia subskrypcji:
 
-   1. W menu Centrum partnerskiego wybierz pozycję **klienci**, wybierz z listy pozycję Klient, a następnie wybierz pozycję **Zarządzanie usługami**.
+   1. Z Partner Center wybierz pozycję **Klienci,** wybierz klienta z listy, a następnie wybierz pozycję **Zarządzanie usługami.**
 
-   2. W sekcji **bilety pomocy technicznej** wybierz listę rozwijaną **nowy bilet** i wybierz pozycję **Microsoft Azure**.
+   2. W sekcji **Bilety pomocy technicznej** wybierz menu rozwijane Nowy **bilet,** a następnie wybierz **pozycję Microsoft Azure**.
    
-   3. W [Azure Portal](https://portal.azure.com)wybierz pozycję **nowe żądanie obsługi**.
+   3. Na stronie [Azure Portal](https://portal.azure.com)pozycję **Nowy wniosek o pomoc techniczną.**
    
-   4. W kroku 1 Wybierz pozycję **Zarządzanie subskrypcją** jako typ problemu, określ identyfikator subskrypcji, który chcesz przenieść, a następnie wybierz pozycję **dostawca rozwiązań w chmurze** jako plan pomocy technicznej.
+   4. W kroku 1  wybierz pozycję Zarządzanie subskrypcjami jako typ problemu, określ identyfikator subskrypcji, który chcesz przenieść, a następnie Dostawca rozwiązań w chmurze **jako** plan pomocy technicznej.
    
-   5. W kroku 2 Wybierz pozycję **C-minimalny wpływ** i wybierz **inne pytania ogólne** jako typ problemu.
+   5. W kroku 2 wybierz **pozycję C-Minimalny wpływ** i wybierz typ problemu **Inne** pytania ogólne.
    
-   6. Pobierz [formularz transferu subskrypcji dostawcy usług kryptograficznych](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC).
+   6. Pobierz formularz [przeniesienia subskrypcji CSP.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)
 
-3. Partner subskrypcji: Wypełnij [formularz transfer subskrypcji dostawcy usług kryptograficznych](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC), podpisz, a następnie wyślij go do klienta. 
+3. Partner subskrypcji: wypełnij formularz Przeniesienia subskrypcji programu [CSP,](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)podpisz go, a następnie wyślij do klienta. 
 
-   Aby wypełnić formularz, potrzebne są następujące informacje:
+   Do wypełnienia formularza potrzebne są następujące informacje:
 
-   - Informacje kontaktowe bieżącego partnera i identyfikator firmy Microsoft. W menu Centrum partnerskiego wybierz pozycję **Ustawienia konta** &gt; **profil organizacji**, a następnie użyj **identyfikatora Microsoft**, **nazwy organizacji** i **adresu** znajdującego się w tym miejscu.
+   - Informacje kontaktowe bieżącego partnera i identyfikator Microsoft ID. W menu Partner Center wybierz pozycję **Ustawienia** konta Profil organizacji, a następnie użyj wymienionych w nich pozycji &gt; Identyfikator **firmy Microsoft,** Nazwa organizacji **i** Adres.
 
-   - Identyfikator firmy Microsoft dla klienta. W menu Centrum partnerskiego wybierz pozycję **klienci**, a następnie rozwiń listę klientów, aby zobaczyć ich **Identyfikator Microsoft**.
+   - Identyfikator Microsoft klienta. W menu Partner Center wybierz pozycję **Klienci,** a następnie rozwiń listę klientów, aby wyświetlić jego **identyfikator Microsoft.**
 
-   - Identyfikator subskrypcji do przeniesienia. W rozwiniętej liście klientów wybierz pozycję **Wyświetl subskrypcje**, a następnie rozwiń wybraną subskrypcję, aby wyświetlić **Identyfikator subskrypcji**.
+   - Identyfikator subskrypcji do przeniesienia. Na rozwiniętej liście klientów wybierz pozycję **Wyświetl subskrypcje,** a następnie rozwiń wybraną subskrypcję, aby wyświetlić **identyfikator subskrypcji**.
 
    >[!Note]
-   >Transfer subskrypcji powoduje użycie dwóch identyfikatorów subskrypcji, które będą widoczne na stronie **Edytuj subskrypcję** przesłanej subskrypcji: **1**— Identyfikator subskrypcji Centrum partnerskiego jest używany na potrzeby rozliczeń. **2**— oryginalny identyfikator subskrypcji platformy Azure jest zachowywany i będzie widoczny w centrum partnerskim, a także w portalu zarządzania Azure. Ten identyfikator pojawi się w pliku rekonesans.  **Podczas rejestrowania biletów pomocy technicznej należy używać obu identyfikatorów.**
+   >Przeniesienie subskrypcji powoduje, że zostaną wyświetlony dwa identyfikatory subskrypcji na stronie Edytowanie subskrypcji przeniesionej subskrypcji: **1**— identyfikator subskrypcji usługi Partner Center jest używany na potrzeby rozliczeń.  **2**— Oryginalny identyfikator subskrypcji platformy Azure jest zachowywany i będzie wyświetlany w Partner Center, a także w portalu zarządzania azure. Ten identyfikator pojawi się w pliku rekonescji.  **Podczas rejestrowania biletów pomocy technicznej należy użyć obu identyfikatorów.**
 
-4. Klient i nowy partner dla subskrypcji:
+4. Klient i nowy partner subskrypcji:
 
-   Przejrzyj formularz, Wypełnij informacje o nowym partnerze i podpisz go. Potwierdź, że nowy klient ma umowę umowną na miejscu. Wyślij formularz z powrotem do bieżącego partnera rekordu.
+   Przejrzyj formularz, wypełnij informacje o nowym partnerze i podpisz go. Upewnij się, że nowy klient ma podpisaną umowę. Wyślij formularz z powrotem do bieżącego partnera rekordów.
 
-   *Ważne*: Jeśli nowy partner CSP nie ma relacji odsprzedawcy z klientem, musi ustanowić ten element przed przekazaniem subskrypcji. [Informacje o tym, jak to zrobić](request-a-relationship-with-a-customer.md).
+   *Ważne:* Jeśli nowy partner CSP nie ma relacji odsprzedawcy z klientem, musi ustanowić go przed przeniesieniem subskrypcji. [Informacje na temat tego, jak to zrobić, można znaleźć tutaj.](request-a-relationship-with-a-customer.md)
 
    >[!Note]
-   >Nowy partner CSP i dzierżawca klienta muszą znajdować się w tym samym kraju. 
+   >Nowy partner CSP i dzierżawa klienta muszą znajdować się w tym samym kraju. 
 
-5. Bieżący Partner:
+5. Bieżący partner:
 
-   Upewnij się, że formularz zawiera informacje kontaktowe dla obu administratorów partnerskich. Pomoc techniczna firmy Microsoft skontaktować się z obydwoma administratorami w celu zweryfikowania transferu. Upewnij się, że masz wszystkie trzy podpisy. Następnie użyj opcji **przekazywania plików** , aby dołączyć ukończony formularz do istniejącego żądania usługi. Specjalista pomocy technicznej firmy Microsoft powróci do Ciebie w ciągu ośmiu godzin roboczych w celu zweryfikowania odbioru i zakończenia.
+   Upewnij się, że formularz zawiera informacje kontaktowe dla obu administratorów partnerów. Pomoc techniczna Microsoft skontaktuje się z obu administratorami w celu zweryfikowania przeniesienia. Upewnij się, że masz wszystkie trzy podpisy. Następnie użyj opcji **Przekazywanie pliku,** aby dołączyć wypełniony formularz do istniejącego żądania obsługi. Inżynier pomocy technicznej firmy Microsoft wróci do Ciebie w ciągu ośmiu godzin pracy, aby zweryfikować potwierdzenie i ukończenie.
 
 6. Nowy partner:
 
-   Zaktualizuj ustawienia subskrypcji platformy Azure, aby usunąć starego partnera z konta. Aby sprawdzić, które przypisania ról są obsługiwane, Uruchom dwa polecenia cmdlet programu PowerShell.
+   Zaktualizuj ustawienia subskrypcji platformy Azure, aby usunąć starego partnera z konta. Aby zobaczyć, które przypisania ról są aprowowane, uruchom dwa polecenia polecenia programu PowerShell.
 
    - Dodaj nowego partnera jako odsprzedawcę na koncie:
 
@@ -90,9 +94,9 @@ Aby przełączyć usługi platformy Azure lub subskrypcje klienta na innego part
      ```
 
      >[!NOTE]
-     > **Identyfikator dzierżawy** klienta jest wyświetlany w centrum partnerskim jako **Identyfikator firmy Microsoft** dla klienta. Aby znaleźć identyfikator Microsoft (identyfikator dzierżawy) dla określonego klienta, zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego. Następnie wybierz pozycję **klienci** z menu. Znajdź klienta na liście. Wybierz strzałkę w dół, aby rozwinąć listę klientów. Zobaczysz informacje o *nazwie domeny* klienta i **identyfikatorze firmy Microsoft** dla klienta. Użyj 16-cyfrowego **identyfikatora firmy Microsoft** w programie PowerShell polecenia cmdlet.
+     > Identyfikator dzierżawy klienta **jest** wyświetlany Partner Center jako identyfikator **microsoft klienta**. Aby znaleźć identyfikator Microsoft (identyfikator dzierżawy) dla określonego klienta, zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard) Następnie wybierz **pozycję Klienci** z menu. Znajdź klienta na liście. Wybierz strzałkę w dół, aby rozwinąć listę klientów. Zobaczysz informacje o nazwie domeny  klienta i identyfikatorze **microsoft klienta**. Użyj 16-cyfrowego **identyfikatora Microsoft ID** w poleceniu polecenia programu PowerShell.
 
-   - Wyświetlanie ról na koncie, w tym poprzednich partnerów programu CSP:
+   - Wyświetl role na koncie, w tym poprzednich partnerów CSP:
 
      ```powershell
      Get-AzRoleAssignment
@@ -100,17 +104,17 @@ Aby przełączyć usługi platformy Azure lub subskrypcje klienta na innego part
 
 7. Usuń nieaktualne uprawnienia dostępu:
 
-   - W menu Centrum partnerskiego wybierz pozycję **Customers**.
-   - Znajdź klienta na liście. Wybierz (kliknij dwukrotnie) nazwę swojej firmy. Ta akcja powoduje otwarcie strony **subskrypcje** klientów.
-   - W menu Szczegóły klienta wybierz pozycję **Zarządzanie usługami**.
-   - W obszarze **Microsoft Azure** wybierz łącze, aby przejść do **Portal zarządzania Microsoft Azure**.
+   - W menu Partner Center wybierz pozycję **Klienci.**
+   - Znajdź klienta na liście. Wybierz (kliknij dwukrotnie) nazwę firmy. Ta akcja spowoduje otwarcie **strony Subskrypcje** klienta.
+   - W menu szczegółów klienta wybierz pozycję **Zarządzanie usługami.**
+   - W **Microsoft Azure** wybierz link, aby przejść do Portal zarządzania Microsoft Azure **.**
 
 ## <a name="next-steps"></a>Następne kroki
 
-- Pobierz [formularz transferu subskrypcji dostawcy usług kryptograficznych](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
+- Pobierz formularz [przeniesienia subskrypcji CSP.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)
 
-- Dowiedz się więcej o [pomocy technicznej dla partnerów](multipartner.md).
+- Dowiedz się więcej [o pomocy technicznej dla wielu partnerów.](multipartner.md)
 
-- [Obsługa wielopartnerskich](multipartner.md).
-- [Obsługa wielokanałowa](multichannel.md).
+- [obsługa wielu partnerów.](multipartner.md)
+- [obsługa wielu kanałów.](multichannel.md)
 - [Przenoszenie subskrypcji platformy Azure](/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)

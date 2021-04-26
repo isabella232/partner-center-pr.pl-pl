@@ -4,70 +4,75 @@ ms.topic: how-to
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Rekordy klientów są wśród najważniejszych zasobów informacji. Dowiedz się, jak wyświetlać, przeszukiwać, aktualizować i & eksportować informacje na liście klientów w centrum partnerskim.
+description: Rekordy klientów są jednymi z najważniejszych zasobów informacyjnych. Dowiedz się, jak wyświetlać, wyszukiwać, aktualizować i & eksportować informacje na Partner Center listy klientów.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 244a8cfc661b371b611a19a5c90ddf131b42a46a
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 1791d415d0004520e8c7dc950decf540c91cf003
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441969"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002845"
 ---
-# <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Zarządzanie listą klientów — wyszukiwanie, aktualizowanie i eksportowanie klientów w centrum partnerskim
+# <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Zarządzanie listą klientów — wyszukiwanie, aktualizowanie lub eksportowanie klientów w Partner Center
 
 **Dotyczy**
 
 - Centrum partnerskie Microsoft Cloud for US Government
 
-Rekordy klientów znajdują się wśród najważniejszych zasobów informacji w centrum partnerskim. Bazę danych kont klientów można wyszukać, wyeksportować całą bazę danych klienta lub wyeksportować podzestaw do formatu pliku wartości rozdzielanych przecinkami (CSV) zgodnego z programem Excel. Możesz również wyeksportować informacje o subskrypcjach klienta do pliku CSV.
+**Odpowiednie role**
 
-Dzienniki aktywności udostępniają również dane możliwe do eksportu w przypadku transakcji i akcji zarządzania dla klientów. Aby uzyskać więcej informacji, zobacz [Wyświetlanie dzienników aktywności klienta](activity-logs.md).
+- Agent administracyjny
+- Administrator globalny
 
-## <a name="search-for-a-customer"></a>Wyszukaj klienta
+Rekordy klientów są jednymi z najważniejszych zasobów informacyjnych w Partner Center. Możesz przeszukać bazę danych kont klientów, wyeksportować całą bazę danych klienta lub wyeksportować podzbiór do formatu pliku wartości rozdzielanych przecinkami (CSV) zgodnego z programem Excel. Możesz również wyeksportować informacje o subskrypcjach klienta do pliku CSV.
 
-1. W menu **Centrum partnerskiego** wybierz pozycję **Customers**.
+Dzienniki aktywności zapewniają również klientom dane dotyczące transakcji i akcji zarządzania, które można eksportować. Aby uzyskać więcej informacji, zobacz [Wyświetlanie dzienników aktywności klientów.](activity-logs.md)
+
+## <a name="search-for-a-customer"></a>Wyszukiwanie klienta
+
+1. Z menu **Partner Center** wybierz pozycję **Klienci.**
 2. Aby wyszukać klienta, wprowadź nazwę klienta lub nazwę domeny w polu wyszukiwania.
-3. Wybierz **strzałkę w dół** znajdującą się na końcu wiersza klienta, aby wyświetlić identyfikator firmy Microsoft i powiązane z nimi subskrypcje i usługi.
+3. Wybierz strzałkę **w dół** na końcu wiersza klienta, aby wyświetlić jego identyfikator Microsoft ORAZ skojarzone z nim subskrypcje i usługi oraz szybkie linki.
 
 ## <a name="update-a-customers-company-name"></a>Aktualizowanie nazwy firmy klienta
 
-W menu **Centrum partnerskiego** wybierz pozycję **Customers**.
+Z menu **Partner Center** wybierz pozycję **Klienci.**
 2. Aby wyszukać klienta, wprowadź nazwę klienta lub nazwę domeny w polu wyszukiwania.
-3. Wybierz **strzałkę w dół** znajdującą się na końcu wiersza klienta, aby wyświetlić identyfikator firmy Microsoft i powiązane z nimi subskrypcje i usługi.
-4. W obszarze informacje o **rozliczaniu** klienta należy zaktualizować nazwę firmy. Po zapisaniu nowej wartości będzie ona widoczna na liście Customer (klient). Spowoduje to zmianę nazwy firmy dla rachunku i wartości z listy klientów. Nie będzie on widoczny w żadnym miejscu.
+3. Wybierz strzałkę **w dół** na końcu wiersza klienta, aby wyświetlić jego identyfikator Microsoft ORAZ skojarzone z nim subskrypcje i usługi, szybkie linki.
+4. W obszarze Informacje **o odbiorcy faktury** zaktualizuj nazwę firmy. Po zapisaniu nowej wartości zostanie ona odzwierciedlona na liście klientów. Spowoduje to tylko zmianę nazwy firmy dla odbiorcy faktury i wartości listy klientów. Nie zostanie ona odzwierciedlona w żadnym innym miejscu.
 
 ## <a name="export-your-customer-list"></a>Eksportowanie listy klientów
 
-1. W menu **Centrum partnerskiego** wybierz pozycję **Customers**.
-2. Wybierz pozycję **Eksportuj klientów**.
+1. Z menu **Partner Center** wybierz pozycję **Klienci.**
+2. Wybierz pozycję **Eksportuj klientów.**
 
-   Centrum partnerskie konwertuje kompletną listę klientów na plik CSV i przekazuje ją do domyślnego folderu pobierania na komputerze. Można również eksportować podzbiory danych klienta. Kolumny danych obejmują następujące elementy:
+   Partner Center przekonwertuje pełną listę klientów na plik CSV i przekaże ją do domyślnego folderu pobierania na komputerze. Można również eksportować podzbiory danych klientów. Kolumny danych są następujące:
 
-   - **Identyfikator firmy Microsoft**;
-   - **Nazwa firmy**;
-   - **Nazwa domeny podstawowej**;
-   - **Relacja**— relacja biznesowa partnera z poszczególnymi klientami.
+   - **Identyfikator firmy Microsoft;**
+   - **Nazwa firmy;**
+   - **Nazwa domeny podstawowej;**
+   - **Relacja**— relacja biznesowa partnera z każdym wymienionym klientem.
 
-    Domyślnie centrum partnerskie eksportuje całą listę klientów, niezależnie od długości. Możesz również przeszukać listę klientów według nazwy firmy lub domeny i wyeksportować ten podzbiór danych.
+    Domyślnie program Partner Center eksportuje całą listę klientów, niezależnie od długości. Możesz również przeszukać listę klientów według nazwy firmy lub domeny i wyeksportować ten podzbiór danych.
 
-3. Jeśli jesteś dostawcą pośrednim, możesz odfiltrować listę klientów przez pośredniego odsprzedawcy. Wybierz pozycję **Filtruj według pośredniego odsprzedawcy** z listy, a następnie wybierz odsprzedawcę.
+3. Jeśli jesteś dostawcą pośrednim, możesz filtrować listę klientów według odsprzedawcy pośredniego. Wybierz **pozycję Filtruj według odsprzedawcy** pośredniego z listy, a następnie wybierz odsprzedawcę.
 
 
 ## <a name="export-customer-subscription-information"></a>Eksportowanie informacji o subskrypcji klienta
 
-1. W menu **Centrum partnerskiego** wybierz pozycję **Customers**.
+1. Z menu **Partner Center** wybierz pozycję **Klienci.**
 
-2. Wybierz **nazwę firmy** dla każdego klienta. Zostanie otwarta strona **subskrypcje** klienta zawierająca kompletną listę subskrypcji produktów.
+2. Wybierz **nazwę firmy dla** dowolnego klienta. Zostanie otwarta strona **Subskrypcje** klienta z pełną listą subskrypcji produktów.
 
-3. Wybierz pozycję **Eksportuj subskrypcje**. Centrum partnerskie konwertuje dane subskrypcji klienta do pliku CSV i przekazuje je do domyślnego folderu pobierania na komputerze. Kolumny danych obejmują następujące elementy:
-   - **Identyfikator subskrypcji**;
-   - **Subskrypcja**— Nazwa produktu dla subskrypcji;
-   - **Ilość**— liczba zakupionych licencji;
+3. Wybierz **pozycję Eksportuj subskrypcje.** Partner Center konwertuje dane subskrypcji klienta na plik CSV i przekaże je do domyślnego folderu pobierania na komputerze. Kolumny danych obejmują następujące elementy:
+   - **Identyfikator subskrypcji;**
+   - **Subskrypcja**— nazwa produktu dla subskrypcji;
+   - **Ilość —** liczba zakupionych licencji;
    - **Stan**;
-   - **Odsprzedawca**— identyfikator odsprzedawcy, który jest właścicielem i zarządza subskrypcją.
+   - **Odsprzedawca**— identyfikator odsprzedawcy, który jest właścicielem subskrypcji i zarządza subskrypcją.
 
 > [!NOTE]  
-> Aby uzyskać więcej informacji na temat zarządzania subskrypcjami, zobacz [subskrypcje klientów](customer-subscriptions.md).
+> Aby uzyskać więcej informacji na temat zarządzania subskrypcjami, zobacz [Subskrypcje klientów](customer-subscriptions.md).

@@ -1,27 +1,31 @@
 ---
-title: Sprzedawanie komercyjne subskrypcje portalu Marketplace
+title: Sprzedawanie subskrypcji platformy handlowej
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: W centrum partnerskim dowiesz się, jak sprzedawać subskrypcje klientów, aby SaaS produkty opublikowane na komercyjnej witrynie Marketplace przez niezależnych dostawców oprogramowania (ISV).
+description: W Partner Center dowiesz się, jak sprzedawać klientom subskrypcje produktów SaaS opublikowane na platformie handlowej przez niezależnych dostawców oprogramowania.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0f90162ce7d3848fc930c956077ae96994848696
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: b339c0eec72d2184e15301270633305682799461
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028455"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002879"
 ---
-# <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Używaj Centrum partnerskiego, aby sprzedawać subskrypcje klientów do komercyjnych produktów Marketplace
+# <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Używanie Partner Center do sprzedawania klientom subskrypcji produktów na platformie handlowej
 
-Jako partner w programie CSP możesz użyć Centrum partnerskiego, aby sprzedawać subskrypcje klientów do produktów SaaS (Software as a Service), które zostały opublikowane na rynku komercyjnym ([Microsoft AppSource](https://appsource.microsoft.com/) i [Azure Marketplace](https://azuremarketplace.microsoft.com/)) przez niezależnych dostawców oprogramowania (ISV).
+**Odpowiednie role**
 
-Może to pomóc w odróżnieniu od firmy i udostępnieniu klientom pakietów oprogramowania, które zaspokajają określone potrzeby biznesowe. Licencje i subskrypcje są zarządzane dla tych produktów SaaS Marketplace tak samo jak w przypadku produktów firmy Microsoft.
+- Agent sprzedaży
 
-Aby dowiedzieć się, jak partnerzy w programie CSP mogą korzystać z komercyjnej witryny Marketplace, zobacz [komercyjne Omówienie witryny Marketplace dla dostawców rozwiązań w chmurze](csp-commercial-marketplace-overview.md).
+Jako partner w programie CSP możesz używać platformy Partner Center do sprzedaży klientom subskrypcji produktów SaaS (Software as a Service), które zostały opublikowane na platformie handlowej[(Microsoft AppSource](https://appsource.microsoft.com/) i [Azure Marketplace)](https://azuremarketplace.microsoft.com/)przez niezależnych dostawców oprogramowania.
 
-Aby dowiedzieć się więcej o różnych rolach niezależnych dostawców oprogramowania, zobacz temat [często zadawane pytania dotyczące witryny Marketplace](/azure/marketplace/marketplace-faq-publisher-guide).
+Może to pomóc w odróżnieniu twojej firmy i udostępnić klientom pakiety oprogramowania, które zasygają ich specyficzne potrzeby biznesowe. Licencjami i subskrypcjami tych produktów SaaS z witryny Marketplace zarządzasz tak samo jak w przypadku produktów firmy Microsoft.
+
+Aby dowiedzieć się, jak partnerzy w programie CSP mogą korzystać z platformy handlowej, zobacz omówienie komercyjnej platformy handlowej [dla dostawców rozwiązań w chmurze.](csp-commercial-marketplace-overview.md)
+
+Aby dowiedzieć się więcej o różnych rolach isV na platformie handlowej, zobacz [Marketplace FAQ faq (Często zadawane pytania dotyczące platformy handlowej).](/azure/marketplace/marketplace-faq-publisher-guide)
