@@ -4,59 +4,64 @@ ms.topic: how-to
 ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Zażądaj relacji z klientem w przypadku scenariuszy obejmujących wiele partnerów lub wiele kanałów lub jeśli chcesz przywrócić uprawnienia administratora delegowanego do klienta.
+description: Zażądaj relacji z klientem w scenariuszach wielokanałowych dla wielu partnerów lub jeśli musisz przywrócić delegowane uprawnienia administratora dla klienta.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 2403ec6cdb2776ab04fa76a37d690a748de38714
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 55f86e6e48b0b897410826e22564e2d27e25258b
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105548975"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018139"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Jak zażądać relacji odsprzedawcy od klienta w Centrum partnerskim
 
-Jeśli chcesz zarządzać usługą lub subskrypcją klienta w ich imieniu, klient musi przyznać uprawnienia administratora dla tej usługi lub subskrypcji i podpisać umowę klienta firmy Microsoft.
+**Odpowiednie role**
 
-Jeśli chcesz nawiązać relację odsprzedawcy z klientem i zarządzać tylko tymi subskrypcjami platformy Azure, nie musisz uzyskać uprawnień administratora.
+- Agent administracyjny
+- Administrator globalny
+
+Jeśli chcesz zarządzać usługą lub subskrypcją klienta w jego imieniu, klient musi przyznać Ci uprawnienia administratora do tej usługi lub subskrypcji i podpisać Umowa z Klientem Microsoft.
+
+Jeśli chcesz ustanowić relację odsprzedawcy z klientem i zarządzać tylko subskrypcjami platformy Azure, które aprowizujesz, nie musisz uzyskiwać uprawnień administratora.
 
 >[!NOTE] 
->Opcja nie Żądaj uprawnień nie jest dostępna dla partnerów działających w Microsoft Cloud dla instytucji rządowych Stanów Zjednoczonych lub Microsoft Cloud Niemiec. Aby dowiedzieć się więcej, zobacz [klienci delegowanie uprawnień administracyjnych do partnerów](customers-revoke-admin-privileges.md).
+>Opcja nieuzysłania żądania uprawnień nie jest dostępna dla partnerów działających w Microsoft Cloud for US Government lub Microsoft Cloud w Niemczech. Aby dowiedzieć się więcej, zobacz [Klienci delegowanie uprawnień administracyjnych do partnerów.](customers-revoke-admin-privileges.md)
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Zaproś klienta o nawiązanie z nim relacji odsprzedawcy
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Zapraszanie klienta do ustanowienia relacji odsprzedawcy
 
-Możesz zażądać relacji odsprzedawcy z klientem z poziomu kraju lub tego samego regionu.
+Możesz zażądać relacji odsprzedawcy z klientem z danego kraju lub tego samego regionu.
 
-1. Wybierz pozycję **klienci** z menu **Centrum partnerskiego** , a następnie wybierz pozycję **Żądaj relacji odsprzedawcy**.
+1. Wybierz **pozycję Customers** (Klienci) **Partner Center** menu aplikacji, a następnie wybierz pozycję Request a reseller relationship **(Zażądaj relacji odsprzedawcy).**
 
-2. Aby zażądać uprawnień administratora od tego klienta, wybierz opcję **Dołącz delegowane uprawnienia administracyjne dla Azure Active Directory i pakietu Office 365**. Aby ustanowić relację bez żądania uprawnień administratora, usuń zaznaczenie tej opcji.
+2. Aby zażądać uprawnień administratora od tego klienta, wybierz pozycję Uwzględnij delegowane uprawnienia administracyjne dla Azure Active Directory **i Office 365.** Aby ustanowić relację bez żądania uprawnień administratora, usuń zaznaczenie tej opcji.
 
 3. Na następnej stronie przejrzyj wersję roboczą wiadomości e-mail. Możesz otworzyć wersję roboczą wiadomości w domyślnej aplikacji poczty e-mail lub skopiować wiadomość do schowka i wkleić do wiadomości e-mail.
 
-   Tekst wiadomości można edytować, ale należy pamiętać o zachowaniu spersonalizowanego linku umożliwiającego bezpośrednie połączenie klienta z Twoim kontem. Po ukończeniu tego kroku wybierz pozycję **gotowe** .
+   Tekst wiadomości można edytować, ale należy pamiętać o zachowaniu spersonalizowanego linku umożliwiającego bezpośrednie połączenie klienta z Twoim kontem. Po **ukończeniu** tego kroku wybierz pozycję Gotowe.
 
 4. Wyślij wiadomość e-mail do klienta.
 
-5. Po zaakceptowaniu zaproszenia klient zostanie wyświetlony na stronie **klientów** i będzie można z niego udostępnić usługę i zarządzać nią.
+5. Gdy klient zaakceptuje Zaproszenie, pojawi się  na stronie Klienci i będzie mógł tam aprowizować usługę dla klienta i zarządzać jej usługą.
 
    > [!NOTE]
-   > Jeśli klient nie zaakceptował jeszcze umowy klienta firmy Microsoft, zostanie wyświetlony monit o ich zaakceptowanie. Klient musi być administratorem globalnym, aby akceptować zaproszenie.
+   > Jeśli klient nie zaakceptował jeszcze Umowa z Klientem Microsoft, po zaakceptowaniu zaproszenia zostanie wyświetlony monit o jej zaakceptowanie. Klient musi być administratorem globalnym, aby zaakceptować zaproszenie.
 
-6. Aby zarządzać kontem klienta, usługami, użytkownikami i licencjami, rozwiń rekord klienta, wybierając strzałkę w dół obok swojej nazwy.
+6. Aby zarządzać kontem, usługami, użytkownikami i licencjami klienta, rozwiń rekord klienta, wybierając strzałkę w dół obok jego nazwy.
 
 > [!IMPORTANT]  
-> Klienci mogą ponownie przypisywać lub usuwać uprawnienia administratora w portalu administracyjnym usługi. Jednak o ile i do momentu ponownego negocjowania umowy z klientem klient będzie nadal odpowiedzialny za zapewnienie wsparcia dla klienta i przestrzeganie warunków umowy partnerskiej firmy Microsoft, nawet po ponownym przypisaniu lub usunięciu uprawnień administratora przez klienta. W takiej sytuacji, jeśli klient wymaga pomocy, możesz zadzwonić do pomocy technicznej firmy Microsoft, aby otworzyć żądanie obsługi w imieniu klienta.
+> Klienci mogą ponownie przypisać lub usuwać uprawnienia administratora w portalu administracyjnym usługi. Jednak dopóki umowa nie zostanie ponownie wynegocjowana z klientem, użytkownik będzie nadal odpowiedzialny za świadczenie pomocy technicznej dla klientów i korzystanie z warunków umowy Microsoft Partner Agreement nawet po ponownej przypisania lub usunięciu uprawnień administratora przez klienta. W takiej sytuacji, jeśli klient wymaga pomocy, możesz zadzwoń do działu pomocy technicznej firmy Microsoft, aby otworzyć żądanie obsługi w imieniu klienta.
 
-## <a name="changes-to-the-customer-invitation-experience"></a>Zmiany w doświadczeniu zaproszeniu klienta
+## <a name="changes-to-the-customer-invitation-experience"></a>Zmiany w zaproszeniu klienta
 
-Obsługa klienta w celu zaakceptowania zaproszenia odsprzedawcy od partnera dostawcy rozwiązań w chmurze jest hostowana przez różne portale ukierunkowane na klienta. Lokalizacja portalu zależy od tego, czy klient znajduje się w chmurze publicznej firmy Microsoft czy w chmurze krajowej:
+Środowisko klienta dotyczące akceptowania zaproszenia do relacji odsprzedawcy Dostawca rozwiązań w chmurze partnera jest hostowane przez różne portale dla klientów. Lokalizacja portalu zależy od tego, czy klient znajduje się w chmurze publicznej firmy Microsoft, czy w chmurze krajowej:
 
-|Typy klientów w chmurze  | Gdzie klient akceptuje zaproszenie relacji odsprzedawcy? |
+|Typy klientów chmury  | Gdzie klient akceptuje zaproszenie do relacji odsprzedawcy? |
 |---------|---------
-| Klienci w chmurze publicznej | Microsoft 365 centrum administracyjnego |
-| Klienci w centrum partnerskim Microsoft Cloud Niemcy | Portal administracyjny Microsoft Office |
-| Klienci w centrum partnerskim Microsoft Cloud dla instytucji rządowych USA | Portal administracyjny Microsoft Office |
+| Klienci w chmurze publicznej | Microsoft 365 Administracyjne |
+| Klienci w witrynie Partner Center for Microsoft Cloud Germany | Microsoft Office Admin Portal |
+| Klienci w Partner Center for Microsoft Cloud for US Government | Microsoft Office Admin Portal |
 |
 
 ## <a name="next-steps"></a>Następne kroki
