@@ -1,105 +1,112 @@
 ---
-title: Centrum partnerskie — raport klienta
+title: Partner Center Insights — raport klienta
 ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Odkryj sposoby ulepszania firmy. Zapoznaj się z trendami poszczególnych klientów według położenia geograficznego, produktu i innych atrybutów.
+description: Odkryj sposoby ulepszania swojej firmy. Wyświetlanie trendów określonych klientów według lokalizacji geograficznej, produktu i innych atrybutów.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30032a9b396a82f530c9497f96e4a9b1f6b46e00
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 28343b5754546b653bd5a3e6b4a53a002b408668
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92529577"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120838"
 ---
-# <a name="customers-dashboard-reports-from-partner-center-insights"></a>Raporty pulpitu nawigacyjnego klientów z usługi Partner Center Insights
+# <a name="customers-dashboard-reports-from-partner-center-insights"></a>Raporty pulpitu nawigacyjnego klientów Partner Center Insights
 
-Pulpit nawigacyjny klientów przedstawia dane klientów, którzy otrzymali produkty w chmurze, takie jak Office, Azure, Dynamics itp., lub służą do wdrażania tych produktów i zarządzania nimi w swoich dzierżawcach. 
+**Odpowiednie role**
+
+- Administrator globalny
+- Agent administracyjny
+- Przeglądarka raportów
+- Przeglądarka raportów dla kierownictwa
+
+Pulpit nawigacyjny Klienci przedstawia dane klientów, którzy pozyskali produkty w chmurze, takie jak Office, Azure, Dynamics itp., za pośrednictwem Ciebie lub u ciebie, aby wdrożyć te produkty i zarządzać nimi w ich dzierżawach. 
  
-Pulpit nawigacyjny klienci zawiera następujące sekcje: 
+Pulpit nawigacyjny Klienci zawiera następujące sekcje: 
 
 - Podsumowanie  
-- Geograficzne rozmieszczenie klientów 
-- Trendy dotyczące dodawania/zmiany klientów 
-- Dystrybucja klientów według lokalizacji partnerów, segmentów klientów, kanału sprzedaży i typu autorstwa partnera 
-- Dystrybucja klientów według produktu 
-- Trendy dystrybucji klientów według lokalizacji partnerów, segmentów klientów, modelu cen, typu autorstwa partnera 
+- Geograficzne rozrzut klientów 
+- Trendy dodawania/zmiany danych klientów 
+- Dystrybucja klientów według lokalizacji partnerów, segmentów klientów, kanału sprzedaży, typu przypisania partnera 
+- Rozkład klientów według produktu 
+- Trendy dystrybucji klientów według lokalizacji partnerów, segmentów klientów, modelu cen, typu przypisania partnera 
 - Trend aktywnych klientów 
 
 ## <a name="summary"></a>Podsumowanie
 
-Sekcja podsumowania przedstawia widok migawek różnych kluczowych wskaźników wydajności związanych z klientami, takich jak klienci, aktywni Klienci, subskrypcje, klienci dodani i klienci przez każdy produkt. Filtry na poziomie strony mają zastosowanie do każdej sekcji.
+Sekcja podsumowania zawiera widok migawek różnych wskaźników KPI powiązanych z klientami, takich jak klienci, aktywni klienci, subskrypcje, dodani klienci, klienci, dla których rezygnacja i klienci według poszczególnych produktów. Filtry na poziomie strony mają zastosowanie do każdej sekcji.
 
-:::image type="content" source="images/pci/customerproduct.png" alt-text="Zrzut ekranu przedstawiający pulpit nawigacyjny podsumowania klientów pokazuje wykresy słupkowe i liczbę klientów aktywnych, ostatnio dodanych, utraconych/zmienionych lub według określonego produktu.":::
+:::image type="content" source="images/pci/customerproduct.png" alt-text="Zrzut ekranu przedstawiający pulpit nawigacyjny Podsumowanie klientów przedstawiający wykresy słupkowe i liczby klientów aktywnych, ostatnio dodanych, utraconych/zrzuconych lub według określonego produktu.":::
 
 ### <a name="customers"></a>Klienci
 
-- Bieżąca liczba wszystkich klientów, których organizacja jest skojarzona za pośrednictwem różnych typów przypisywania we wszystkich produktach w chmurze, takich jak Office, Azure, Dynamics itd. Klient jest liczony, jeśli ma co najmniej jedną subskrypcję z aktywnym stanem.  
-- Odrzuć% klientów w wybranym zakresie dat 
-- W programie Micro Chart jest prezentowany miesięczny Trend liczby klientów w stosunku do wybranego zakresu dat
+- Bieżąca liczba wszystkich klientów w Twojej organizacji jest skojarzona za pomocą różnych typów przypisania dla wszystkich produktów w chmurze, takich jak Office, Azure, Dynamics itp. Klient jest liczony, jeśli ma co najmniej jedną subskrypcję ze stanem Aktywny.  
+- Odrzuć % klientów w wybranym zakresie dat 
+- Mikro wykres przedstawia trend liczby klientów w wybranym zakresie dat z miesiąca na miesiąc
 
 ### <a name="active-customers"></a>Aktywni klienci
 
-- Bieżąca liczba klientów z aktywnym użyciem produktu, takich jak aktywne użycie na dowolnym z produktów w chmurze.
-- Procent wzrostu lub odrzucania aktywnych klientów w wybranym okresie
-- W programie Micro Chart jest prezentowany miesięczny trend dla aktywnych klientów w stosunku do wybranego zakresu dat.
+- Bieżąca liczba klientów z aktywnym użyciem produktów, takich jak aktywne użycie dowolnego z produktów w chmurze.
+- Wzrost lub spadek liczby aktywnych klientów w wybranym okresie
+- Mikroelement przedstawia trend liczby aktywnych klientów w wybranym zakresie dat z miesiąca na miesiąc.
 
 ### <a name="customers-added"></a>Dodani klienci
 
 - Liczba wszystkich klientów dodanych w wybranym okresie.
-- Procent wzrostu lub odrzucania klientów dodanych podczas wybranego zakresu sate.
-- W programie Micro Chart jest prezentowany miesięczny trend między miesiącami dodawanymi przez klientów do wybranego zakresu dat.
+- Wzrost lub spadek liczby klientów dodanych w wybranym zakresie danych.
+- Mikro wykres przedstawia trend klientów dodanych w wybranym zakresie dat z miesiąca na miesiąc.
 
-### <a name="customers-churned"></a>Liczba klientów zmienionych
-- Liczba wszystkich klientów zmienionych w każdym miesiącu w wybranym okresie. Klient jest uznawany za utracony, jeśli klient nie ma pojedynczej subskrypcji z aktywnym stanem. 
-- % liczby klientów zmienionych w ramach wybranego zakresu dat 
-- Micro Chart przedstawia miesięczny trend w ciągu miesiąca dla klientów zmienionych w wybranym okresie 
+### <a name="customers-churned"></a>Klienci z rezygnacją
+- Liczba wszystkich klientów, którzy podali rezygnację w każdym miesiącu w wybranym okresie. Klient jest traktowany jako utracony, jeśli klient nie ma pojedynczej subskrypcji z aktywnym stanem. 
+- Procent klientów z rezygnacją w wybranym zakresie dat 
+- Mikroelement przedstawia trend zmian klientów w wybranym okresie z miesiąca na miesiąc 
  
 ### <a name="customers-by-products"></a>Klienci według produktów
 
 - Bieżąca liczba klientów dystrybuowanych w różnych produktach w chmurze, takich jak O365, Azure, Dynamics itp.  
 
-## <a name="geographical-spread-of-your-customers"></a>Geograficzne rozmieszczenie klientów
+## <a name="geographical-spread-of-your-customers"></a>Geograficzne rozrzut klientów
 
-Liczba bieżących klientów, bieżących aktywnych klientów i klientów nowo dodanych w ramach wybranego zakresu dat są mapowane geograficznie przy użyciu kraju klienta. Wartości procentowe wyświetlane poniżej metryki wskazują procentowy udział tego kraju w sumie dla tej metryki. Możesz umieścić kursor na mapie, aby wyświetlić łączną liczbę aktywnych klientów dla tego kraju. Możesz wyszukać i wybrać kraj w siatce, aby powiększyć do lokalizacji na mapie. Przywróć widok oryginalny, wybierając przycisk **Home (Strona główna** ) na mapie. Wszystkie kolumny w siatce są sortowane.  
+Liczba bieżących klientów, bieżących aktywnych klientów i klientów nowo dodanych w wybranym zakresie dat jest mapowana geograficznie przy użyciu kraju klienta. Wartości procentowe wyświetlane poniżej metryki wskazują procent udziału tego kraju w łącznej wartości dla tej metryki. Możesz zatrzymać wskaźnik myszy na mapie, aby wyświetlić wszystkich aktywnych, nowych klientów dla tego kraju. Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapie. Przywróć oryginalny widok, wybierając **przycisk Strona** główna na mapie. Wszystkie kolumny w siatce można sortować.  
 
-:::image type="content" source="images/pci/customersgeo.png" alt-text="Zrzut ekranu przedstawiający raport klient usługi partner Insights według lokalizacji geograficznej pokazuje mapę świata oraz listę całkowitych, dodanych i nowych klientów według regionów.":::
+:::image type="content" source="images/pci/customersgeo.png" alt-text="Zrzut ekranu Partner Center insights customer by geography (Raport klienta usługi Insights według lokalizacji geograficznej) przedstawia mapę świata i listę wszystkich, dodanych i nowych klientów według regionów.":::
 
-## <a name="customer-adds-and-churns"></a>Klient dodaje i wprowadza zmiany
+## <a name="customer-adds-and-churns"></a>Klient dodaje i churns
 
-Trend klientów z podziałem na nowe, istniejące i zmienione dla wybranego zakresu dat. Oś X przedstawia miesiące wybranego zakresu dat, a oś Y reprezentuje liczbę klientów. Przeniesieni klienci są reprezentowani na ujemnej skali osi Y. Skumulowany wykres kolumnowy przedstawia rozpad nowych, istniejących i zmienionych klientów w danym miesiącu. Możesz ponownie skompilować wykres kolumnowy z określonymi elementami stosu, wybierając je w legendzie. Możesz użyć suwaka na górze wykresu, aby powiększyć określony czas. 
+Trend klientów z podziałem na nowe, istniejące i rezygnacje dla wybranego zakresu dat. Oś X reprezentuje miesiące wybranego zakresu dat, a oś Y reprezentuje liczbę klientów. Klienci z rezygnacjami są reprezentowani w ujemnej skali osi Y. Skumulowany wykres kolumnowy przedstawia podział nowych, istniejących i rezygnacji klientów w miesiącu. Możesz ponownie skompilować wykres kolumnowy z określonymi elementami stosu, wybierając je w legendzie. Możesz użyć suwaka w górnej części wykresu, aby powiększyć widok do określonego okresu. 
 
-:::image type="content" source="images/pci/customerslost.png" alt-text="Zrzut ekranu przedstawiający raport klient usługi partner Insights z wykresem słupkowym pokazuje liczbę klientów dodanych i zagubionych lub zmienionych w określonym czasie.":::
+:::image type="content" source="images/pci/customerslost.png" alt-text="Zrzut ekranu Partner Center klienta usługi Insights z wykresem słupkowym przedstawia liczbę dodanych i utraconych lub zrzuconych klientów w określonym czasie.":::
 
-## <a name="customer-distribution"></a>Dystrybucja klienta
+## <a name="customer-distribution"></a>Dystrybucja klientów
 
-Podział bieżących klientów według lokalizacji MPN, segmentów klientów, kanału sprzedaży/modelu cen platformy Azure oraz typu przypisywania (np. DPOR, DAP itp.). Kliknij odpowiednie karty powyżej wykresu, aby wyświetlić podział według tych kategorii. Możesz ponownie skompilować wykres, zaznaczając lub usuwając zaznaczenie wybranych wymiarów, zaznaczając elementy legendy. 
+Podział bieżących klientów według lokalizacji MPN, segmentów klientów, kanału sprzedaży/modelu cen platformy Azure i typu przypisania (na przykład DPOR, DAP). Wybierz odpowiednie karty nad wykresem, aby wyświetlić podział według tych kategorii. Wykres można ponownie skompilować, zaznaczając/usuwając zaznaczenie określonych wymiarów, wybierając elementy legendy. 
 
 ## <a name="customers-by-products"></a>Klienci według produktów
 
-Podział liczby bieżących klientów według produktów i jednostek SKU/planów. Wybierz produkt na wykresie kołowym produktu rozpad, aby wyświetlić rozpad według jednostek SKU/planów na wykresie obok niego.
+Podział liczby bieżących klientów według produktów i jednostki SKU/planów. Wybierz produkt na wykresie kołowym podziału produktu, aby wyświetlić podział według jednostki SKU/planów na wykresie obok niego.
 
-:::image type="content" source="images/pci/customerbyprod.png" alt-text="Zrzut ekranu przedstawiający klientów według produktu pokazuje dwa wykresy promieniowe — jeden z podziałem klienta według produktu, drugi z podziałem klienta według jednostki SKU.":::
+:::image type="content" source="images/pci/customerbyprod.png" alt-text="Zrzut ekranu przedstawiający raport Customers by product (Klienci według produktu) przedstawia dwa wykresy promieniowe — jeden z podziałem na klientów według produktu, a drugi z podziałem na klientów według SKU.":::
 
-## <a name="customer-distribution-trend"></a>Trend dystrybucji klienta 
+## <a name="customer-distribution-trend"></a>Trend dystrybucji klientów 
 
-Miesięczny trend dystrybucji klientów w ramach wybranego zakresu dat według rynków, segmentów, lokalizacji MPN i produktów, które uzyskały. Kliknij odpowiednie karty na wykresie, aby wyświetlić trend według tych kategorii. Oś X reprezentuje miesiące dla wybranego zakresu dat, a oś Y jest liczbą klientów dla wybranej kategorii (wybór karty). Możesz umieścić kursor na kolumnach wykresu, aby wyświetlić wartości rozpad każdego stosu. Możesz użyć suwaka na górze wykresu, aby powiększyć określony czas.   
+Miesięczny trend rozkładu klientów w wybranym zakresie dat według rynków, segmentów, lokalizacji MPN i produktów, które pozyskali. Wybierz odpowiednie karty na wykresie, aby wyświetlić trend według tych kategorii. Oś X reprezentuje miesiące dla wybranego zakresu dat, a oś Y zawiera liczbę klientów dla wybranej kategorii (wybór karty). Możesz zatrzymać wskaźnik myszy na kolumnach wykresu, aby wyświetlić podział wartości każdego stosu. Możesz użyć suwaka w górnej części wykresu, aby powiększyć widok do określonego okresu.   
 
-:::image type="content" source="images/pci/customerdistri.png" alt-text="Zrzut ekranu przedstawiający raport trendów dystrybucji klienta prezentujący wykresy słupkowe, które można wyświetlać według rynku, segmentu, lokalizacji partnera lub produktów.":::
+:::image type="content" source="images/pci/customerdistri.png" alt-text="Zrzut ekranu przedstawiający raport Trend dystrybucji klientów przedstawiający wykresy słupkowe, które można wyświetlić według rynku, segmentu, lokalizacji partnera lub produktów.":::
 
 ## <a name="active-customers"></a>Aktywni klienci
 
-Miesięczny wykres trendu porównujący aktywną i łączną liczbę klientów z wybranym zakresem dat. Kolumny reprezentują liczbę aktywnych klientów w każdym miesiącu, a w każdym miesiącu wiersz reprezentuje łączny klientów. 
+Wykres trendu miesięcznego porównujący aktywnych i całkowitych klientów dla wybranego zakresu dat. Kolumny reprezentują liczbę aktywnych klientów w każdym miesiącu, a wiersz reprezentuje łączną liczbę klientów w każdym miesiącu. 
 
-:::image type="content" source="images/pci/activecustomer.png" alt-text="Zrzut ekranu przedstawiający raport o aktywnych klientach usługi Partner Center ze szczegółowymi informacjami na temat wykresów słupkowych w czasie aktywności klientów.":::
+:::image type="content" source="images/pci/activecustomer.png" alt-text="Zrzut ekranu Partner Center szczegółowych informacji aktywnych klientów przedstawiający wykresy słupkowe w czasie aktywnych klientów.":::
 
 ## <a name="next-steps"></a>Następne kroki
 
-Więcej raportów można znaleźć w temacie [Partner Center Insights](partner-center-insights.md).
+Aby uzyskać więcej raportów, [zobacz Partner Center Insights.](partner-center-insights.md)
 
 >[!NOTE]
-> Możesz pobrać pierwotne dane, aby wyłączyć ten raport z sekcji Pobieranie raportów na pulpicie nawigacyjnym usługi Insights. [Więcej informacji](pci-download-reports.md) 
+> Nieprzetworzone dane do zasilania tego raportu możesz pobrać z sekcji Pobieranie raportów na pulpicie nawigacyjnym szczegółowych informacji. [Więcej informacji](pci-download-reports.md) 

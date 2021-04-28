@@ -1,116 +1,123 @@
 ---
-title: Pulpit nawigacyjny omówienia usługi Partner Center
+title: Partner Center omówienie usługi Partner Center Insights
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Zapoznaj się z migawką tego, w jaki sposób przeprowadzasz sprzedaż i wdrażanie, wzrost liczby klientów i przychody z tytułu licencji, subskrypcji i użycia platformy Azure.
+description: Zobacz migawkę sposobu, w jaki radzisz sobie ze sprzedażą i wdrażaniem, wzrostem klientów i wzrostem przychodów dzięki licencjom, subskrypcjom i użyciu platformy Azure.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91075e8aab1759904a1549dd38bee6fb886c1c65
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 14d280a65fa7c72ed382fd8b27e0354a4aa9e190
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92529578"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120821"
 ---
-# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Przegląd raportów pulpitu nawigacyjnego dostępnych w usłudze Partner Center Insights
+# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Omówienie raportów pulpitu nawigacyjnego dostępnych w Partner Center Insights
  
-Pulpit nawigacyjny przegląd informacji szczegółowych zawiera widok migawek kluczowych wskaźników wydajności, takich jak klienci, subskrypcje, przychód użycia platformy Azure, licencje itp. Poniższe wykresy można wizualizować w raporcie przeglądu.
+**Odpowiednie role**
+
+- Administrator globalny
+- Agent administracyjny
+- Przeglądarka raportów
+- Przeglądarka raportów dla kierownictwa
+
+Pulpit nawigacyjny Przegląd szczegółowych informacji zawiera widok migawki kluczowych wskaźników wydajności, takich jak klienci, subskrypcje, przychód z użycia platformy Azure i licencje. Poniższe wykresy można zwizualizować w raporcie Przegląd.
 
 - Podsumowanie  
-- Geograficzne rozmieszczenie klientów, subskrypcji i licencji  
+- Geograficzne rozrzut klientów, subskrypcji i licencji  
 - Trend wzrostu klientów 
 - Trend wzrostu subskrypcji 
-- Trend wzrostu przychodu zużywanej przez platformę Azure 
-- Trend wzrostu licencji 
+- Trend wzrostu przychodów zużytych przez platformę Azure 
+- Trend wzrostu liczby licencji 
 
 ## <a name="summary"></a>Podsumowanie
 
-Podsumowanie obejmuje informacje o klientach, wykorzystaniu przychodów platformy Azure (ACR), sprzedanych subskrypcjach, aktywnych subskrypcjach i wdrożonych licencjach. 
+Podsumowanie zawiera informacje o klientach, przychód z wykorzystania platformy Azure (ACR), sprzedanych subskrypcjach, aktywnych subskrypcjach i wdrożonych licencjach. 
 
-:::image type="content" source="images/pci/summary.png" alt-text="Licencje zbiorcze":::
+:::image type="content" source="images/pci/summary.png" alt-text="Licencje podsumowujące":::
 
-Więcej informacji na temat każdej sekcji podsumowania znajduje się poniżej.
+Więcej informacji na temat każdej sekcji w sekcji Podsumowanie można znaleźć poniżej.
 
 ### <a name="customers"></a>Klienci
 
-Obszar **klienci** obejmuje:
+Obszar **Klienci** obejmuje:
 
-- Bieżąca liczba wszystkich klientów z co najmniej jedną aktywną subskrypcją skojarzoną z Twoją firmą za pośrednictwem różnych typów przyznawania i dla wszystkich produktów w chmurze.
-- Procent wzrostu liczby klientów w wybranym zakresie dat.
-- Micro Chart przedstawia trend miesięczny od liczby klientów w ramach wybranego zakresu dat.
+- Bieżąca liczba wszystkich klientów z co najmniej jedną aktywną subskrypcją skojarzoną z firmą za pośrednictwem różnych typów przypisania i wszystkich produktów w chmurze.
+- Procent wzrostu klientów w wybranym zakresie dat.
+- Na mikro wykresie przedstawia trend liczby klientów z miesiąca na miesiąc w wybranym zakresie dat.
 
-### <a name="azure-consumed-revenue-acr"></a>Przychód zużyty na platformę Azure (ACR)
+### <a name="azure-consumed-revenue-acr"></a>przychód z wykorzystania platformy Azure (ACR)
 
-Obszar **przychód zużyty na platformie Azure (ACR)** na stronie Podsumowanie obejmuje następujące możliwości:
+Obszar **przychód z wykorzystania platformy Azure (ACR)** w obszarze Podsumowanie obejmuje:
 
-- Łączny przychód zużyty przez platformę Azure (w firmie $) przypisany do użytkownika w wybranym zakresie dat.
-- Procent wzrostu lub odrzucania w ACR atrybut (w Stanach Zjednoczonych $) w ramach wybranego zakresu dat.
-- Na mikrografie jest prezentowany miesięczny trend ACR US $ przypisany do użytkownika nad wybranym zakresem dat 
+- Łączna przychód z wykorzystania platformy Azure (w USD USA) przypisana do Ciebie w wybranym zakresie dat.
+- Procentowy wzrost lub spadek wartości ACR z przypisanymi wartościami (w USD) w wybranym zakresie dat.
+- Mikro wykres przedstawia miesięczny trend ACR US$ przypisany do Ciebie w wybranym zakresie dat 
 
 > [!NOTE]
-> Dane dotyczące przychodów (ACR) platformy Azure są dostępne dla użytkowników, którym przypisano rolę programu Executive Report Viewer 
+> przychód z wykorzystania platformy Azure (ACR) są dostępne dla użytkowników, którym przypisano rolę osoby przeglądowej raportu wykonawczego 
  
 ### <a name="subscriptions-sold"></a>Sprzedane subskrypcje
 
-W obszarze Podsumowanie są dostępne następujące **subskrypcje** :
+Obszar **Sprzedane subskrypcje** w obszarze Podsumowanie obejmuje:
 
-- Łączna bieżąca liczba subskrypcji produktu w chmurze (aktywnych i nieaktywnych) sprzedawanych lub zarządzanych przez użytkownika.  
-- Procent wzrostu lub odrzucania w subskrypcjach w ramach wybranego zakresu dat.
-- Na mikrografie prezentowany jest trend między miesiącami dla łącznej liczby subskrypcji w wybranym zakresie dat.
+- Łączna bieżąca liczba subskrypcji produktów w chmurze (aktywnych i nieaktywnych) sprzedanych lub zarządzanych przez Ciebie.  
+- Procent wzrostu lub spadku liczby subskrypcji w wybranym zakresie dat.
+- Na mikro wykresie podano trend łącznej liczby subskrypcji w wybranym zakresie dat z miesiąca na miesiąc.
 
 ### <a name="active-subscriptions"></a>Aktywne subskrypcje
 
-Obszar **aktywne subskrypcje** zawiera następujące podsumowanie:
+Obszar **Aktywne subskrypcje** w obszarze Podsumowanie obejmuje:
 
-- Bieżąca liczba subskrypcji produktu w chmurze z aktywnym użyciem mierzonym na podstawie danych telemetrycznych produktu. Spowoduje to wykluczenie wszystkich subskrypcji w wersji próbnej w przypadku subskrypcji platformy Azure.  
-- Procentowy wzrost aktywnych subskrypcji w wybranym zakresie dat.
-- Micro Graf prezentuje trend w miesiącu z aktywnymi subskrypcjami dla wybranego zakresu dat.
+- Bieżąca liczba subskrypcji produktów w chmurze z aktywnym użyciem mierzonym na podstawie telemetrii produktu. To wyklucza wszystkie subskrypcje wersji próbnej w przypadku subskrypcji platformy Azure.  
+- Procentowy wzrost liczby aktywnych subskrypcji w wybranym zakresie dat.
+- Na mikro wykresie podano trend aktywnych subskrypcji w wybranym zakresie dat z miesiąca na miesiąc.
  
 ### <a name="licenses-deployed"></a>Wdrożone licencje
 
-Obszar **wdrożone licencje** na stronie Podsumowanie obejmuje następujące:
+Obszar **Licencje wdrożone w** obszarze Podsumowanie obejmuje:
  
-- Liczba wszystkich licencji na produkt w chmurze wdrożonych w ramach subskrypcji klienta w wybranym okresie. 
-- Procent wzrostu lub odrzucenia w tych licencjach w ramach wybranego zakresu dat. 
-- Na mikrografie jest widoczny trend miesięczny dla tych przypisanych licencji w stosunku do wybranego zakresu dat.
+- Liczba wszystkich licencji produktu w chmurze wdrożonych w subskrypcjach klientów w wybranym okresie. 
+- Procent wzrostu lub spadku liczby tych licencji w wybranym zakresie dat. 
+- Na mikro wykresie przedstawiono trend miesiąc do miesiąca liczby przypisanych licencji w wybranym zakresie dat.
 
-## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Geograficzne rozmieszczenie klientów, subskrypcji i licencji
+## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Geograficzne rozrzut klientów, subskrypcji i licencji
 
-Ten widok jest geograficznie rozmieszczeniem łącznej liczby klientów, subskrypcji i licencji według kraju klienta. Kliknij różne karty, aby wyświetlić wszystkie szczegółowe informacje na mapie. Możesz wyszukać i wybrać kraj w siatce, aby powiększyć do lokalizacji na mapie. Przywróć widok oryginalny, naciskając przycisk Home (Strona główna) na mapie. Kliknięcie każdej karty (np. Klienci, subskrypcje) pokazuje wartość metryki dla każdego kraju, a także procent sumy dla danego kraju.  
+Ten widok jest geograficznym rozkładem łącznej liczby klientów, subskrypcji i licencji według kraju klienta. Wybierz różne karty, aby wyświetlić każdy z tych szczegółowych informacji na mapie. Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapie. Przywróć oryginalny widok, naciskając przycisk Strona główna na mapie. Kliknięcie każdej karty (na przykład Klienci, Subskrypcje) pokazuje wartość metryki dla każdego kraju i procent sumy dla danego kraju.  
 
 :::image type="content" source="images/pci/geosummary.png" alt-text="Podsumowanie geograficzne":::
 
 ## <a name="customers-growth-trend"></a>Trend wzrostu klientów
 
-Miesięczny trend łącznej liczby klientów dla wybranego zakresu dat. Oś X przedstawia miesiące wybranego zakresu dat, a oś Y reprezentuje całkowitą liczbę klientów w danym miesiącu. 
+Miesięczny trend łącznej liczby klientów dla wybranego zakresu dat. Oś X reprezentuje miesiące wybranego zakresu dat, a oś Y reprezentuje łączną liczbę klientów w tym miesiącu. 
 
 :::image type="content" source="images/pci/customergrowth.png" alt-text="trend wzrostu klientów":::
 
 ## <a name="subscriptions-growth-trend"></a>Trend wzrostu subskrypcji
 
-Wskazuje Trend liczby subskrypcji klientów dla wybranego zakresu dat. Oś X przedstawia miesiące wybranego zakresu dat, a oś Y przedstawia liczbę subskrypcji produktu, które zostały wybrane. Przewiń suwak na górze wykresu, aby powiększyć wykres do określonego przedziału czasu. 
+Wskazuje to trend liczby subskrypcji klientów dla wybranego zakresu dat. Oś X reprezentuje miesiące wybranego zakresu dat, a oś Y reprezentuje liczbę subskrypcji wybranego produktu. Przewiń suwak w górnej części wykresu, aby powiększyć wykres do określonego okresu. 
 
 :::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Trend wzrostu subskrypcji":::
 
-## <a name="azure-consumed-revenue-growth-trend"></a>Trend wzrostu przychodu zużywanej przez platformę Azure
+## <a name="azure-consumed-revenue-growth-trend"></a>przychód z wykorzystania platformy Azure trend wzrostu
 
-Miesięczny trend zużytej przez platformę Azure jest używany przez nas $ przypisany do użytkownika nad wybranym zakresem dat. Oś X przedstawia miesiące wybranego zakresu dat, a oś Y reprezentuje łączną kwotę zużytego przychodu platformy Azure w ciągu miesiąca.
+Miesięczny trend przychodu na platformie Azure w USD przypisany do Ciebie w wybranym zakresie dat. Oś X reprezentuje miesiące wybranego zakresu dat, a oś Y reprezentuje łączny przychód z platformy Azure zużyty przez platformę Azure w USD przypisany Do Ciebie w ciągu miesiąca.
 
 > [!NOTE]
-> Przychód zużyty na platformie Azure (ACR) będzie widoczny tylko dla użytkowników, którym przypisano rolę programu Executive Report Viewer. 
+> przychód z wykorzystania platformy Azure (ACR) będą widoczne tylko dla użytkowników, którym przypisano rolę osoby przeglądowej raportu wykonawczego. 
 
-:::image type="content" source="images/pci/azureconsumed.png" alt-text="Użycie platformy Azure":::
+:::image type="content" source="images/pci/azureconsumed.png" alt-text="Zużycie platformy Azure":::
 
-## <a name="licenses-growth-trend"></a>Trend wzrostu licencji
+## <a name="licenses-growth-trend"></a>Trend wzrostu liczby licencji
  
-Trend licencji przypisanych przez wszystkich klientów w wybranym zakresie dat. Oś X przedstawia miesiące wybranego zakresu dat, a oś Y reprezentuje liczbę licencji wybranego produktu. Przewiń suwak na górze wykresu, aby powiększyć wykres do określonego przedziału czasu.  
+Trend licencji przypisanych przez wszystkich klientów w wybranym zakresie dat. Oś X reprezentuje miesiące wybranego zakresu dat, a oś Y reprezentuje liczbę licencji wybranego produktu. Przewiń suwak w górnej części wykresu, aby powiększyć wykres do określonego okresu.  
 
 :::image type="content" source="images/pci/licensesgrowth.png" alt-text="licencje":::
 
 ## <a name="next-steps"></a>Następne kroki
 
-Więcej raportów można znaleźć w temacie [Partner Center Insights](partner-center-insights.md).
+Aby uzyskać więcej raportów, [zobacz Partner Center Insights.](partner-center-insights.md)

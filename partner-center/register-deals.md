@@ -4,62 +4,62 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Po zarejestrowaniu transakcji wygranej w centrum partnerskim firma Microsoft może zapewnić większą okazję w przyszłości.
+description: Zarejestrowanie transakcji, która zwyciężyła w Partner Center, ułatwia firmie Microsoft zapewnienie większej liczby możliwości w przyszłości.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 263211fc03d7579a229d8a6df8ed4ad7ca59ed93
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 54421817782f05eec1cc57c11cd02a51664c094b
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549196"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120753"
 ---
-# <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Rejestrowanie transakcji kupionych w centrum partnerskim, dzięki czemu możesz uzyskać więcej okazji później
+# <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Zarejestruj transakcje, które zostały wygrane w Partner Center, aby później uzyskać więcej możliwości
 
-Możesz zarejestrować oferty wygrane w centrum partnerskim, podając dodatkowe informacje o kontrakcie. Te informacje ułatwiają nam zapewnienie większej ilości okazji w przyszłości.
+Możesz zarejestrować transakcje, które zostały Partner Center, podając dodatkowe informacje o kontrakcie. Te informacje pomagają nam zapewnić więcej możliwości w przyszłości.
 
-W przypadku niektórych kwalifikujących się rozwiązań po wybraniu opcji **kupione** w [procesie odpowiedzi na odwołanie](manage-leads.md)zostanie wyświetlony monit o podanie dodatkowych informacji w celu zarejestrowania transakcji. Firma Microsoft zapoznaje się z informacjami podanymi przez użytkownika i może poprosił o dodatkowe szczegóły podczas procesu recenzowania.
+W przypadku niektórych kwalifikujących  się [](manage-leads.md)rozwiązań po wybraniu opcji Won w procesie odpowiedzi na polecenie zostanie poproszony o podanie dodatkowych informacji w celu zarejestrowania transakcji. Firma Microsoft przejmie podane informacje i może poprosić o dodatkowe szczegóły podczas procesu przeglądu.
 
-Możesz również zarejestrować nowe, wygrane oferty korzystające z jednego z rozwiązań, nawet jeśli nie pochodzą one z [odwołań](referrals.md). 
+Możesz również zarejestrować nowe transakcje, które zostały wygrane, które korzystają z jednego z Twoich rozwiązań, nawet jeśli nie zostały one pochodzące za pośrednictwem [polecenia](referrals.md). 
 
-## <a name="register-a-new-deal"></a>Zarejestruj nową ofertę
+## <a name="register-a-new-deal"></a>Rejestrowanie nowej transakcji
 
-Aby zarejestrować nową transakcję, przejdź do pozycji **odwołania > rejestracje transakcji > wymagana akcja** i wybierz pozycję **+ Nowa transakcja**.
+Aby zarejestrować nową ofertę, przejdź do polecenia > rejestracji transakcji **> akcji** i wybierz **pozycję +Nowa transakcja.**
 
 Na stronie **Nowa transakcja** podaj następujące informacje.
 
-- **Szczegóły klienta**: wprowadź **nazwę firmy** dla klienta i wybierz swój **kraj/region**. Następnie wprowadź ich **miasto** i Województwo **/Województwo**.
-- **Rozwiązanie**: Wybierz rozwiązanie, które będzie używane na potrzeby transakcji. Jeśli nie widzisz odpowiedniego rozwiązania na liście, skontaktuj się z pomocą techniczną.
-- **Typ kontraktu**: Określ, czy jest to **Nowy** kontrakt, czy **odnowienie** poprzedniego kontraktu.
-- **Łączna wartość kontraktu**: Łączna wartość oczekiwana dla zaangażowania. Powinno to obejmować wszystkie opłaty za oprogramowanie i usługi, ale nie koszty sprzętu. Upewnij się, że wybrano odpowiednią walutę.
-- **Wartość rozwiązania**: Łączna wartość rozwiązania w chmurze, która będzie używana w ramach transakcji. Pamiętaj o uwzględnieniu wszystkich kosztów związanych z opłatami za oprogramowanie i konserwację, ale nie obejmują elementów podlegających zwrotowi, niecyklicznych opłat za Dostosowywanie lub bezpośrednio skojarzonych licencji CSP płaconych przez firmę Microsoft.
-- **Wdrożono**: Wybierz **platformę Azure** lub **inną**.
-- **Gdzie zostanie wdrożone rozwiązanie?**: Wybierz **dzierżawę klienta** lub **dzierżawę partnera**.
-- **Data rozpoczęcia kontraktu**: Data rozpoczęcia kontraktu.
-- **Data zakończenia kontraktu**: Jeśli kontrakt zostanie zakończony w określonym dniu, wybierz datę **końcową** i podaj tę datę. Jeśli nie **, wybierz pozycję** bezterminowo.
-- **Data podpisania umowy**: Data, z którą kontrakt końcowy został podpisany przez organizację i klienta.
-- **Kontakt** dotyczący rejestracji: **imię** i **nazwisko, nazwisko,** **numer telefonu** i **adres e-mail** osoby w organizacji, z którą możemy się skontaktować, jeśli potrzebujemy więcej szczegółowych informacji o dowolnych informacjach zawartych w tym miejscu.
+- **Szczegóły klienta:** wprowadź **nazwę firmy** klienta i wybierz jego **kraj/region.** Następnie wprowadź wartość **City (Miasto)** **i State/Province (Województwo).**
+- **Rozwiązanie:** Wybierz rozwiązanie, które będzie używane dla transakcji. Jeśli nie widzisz odpowiedniego rozwiązania na liście, skontaktuj się z pomocą techniczną.
+- **Typ kontraktu:** określ, czy jest to **nowy kontrakt,** **czy** odnowienie poprzedniego kontraktu.
+- **Łączna wartość kontraktu:** łączna oczekiwana wartość dla zaangażowania. Powinno to obejmować wszystkie opłaty za oprogramowanie i usługę, ale nie koszty sprzętu. Pamiętaj, aby wybrać odpowiednią walutę.
+- **Wartość rozwiązania:** łączna wartość rozwiązania w chmurze, które zostanie użyte w transakcji. Pamiętaj, aby uwzględnić wszystkie koszty związane z opłatami za oprogramowanie i konserwację, ale nie uwzględniać elementów zwrotnych, nie cyklicznych opłat za dostosowywanie ani bezpośrednio skojarzonych opłat licencyjnych CSP zapłaconych przez firmę Microsoft.
+- **Wdrożono na stronie**: wybierz pozycję **Azure** lub **Inne**.
+- **Gdzie będzie wdrażane rozwiązanie?**: Wybierz dzierżawę **Klient** lub **Dzierżawę partnera**.
+- **Data rozpoczęcia kontraktu:** data rozpoczęcia kontraktu. W przypadku transakcji z płatnością zgodnie z użyciem (PAYG, pay-as-you-go) użyj daty pierwszej faktury.
+- **Data zakończenia kontraktu:** jeśli kontrakt zakończy się w określonej dacie, wybierz pozycję Ma **datę zakończenia** i podaj tę datę. Jeśli kontrakt nie ma określonej daty zakończenia, wybierz pozycję **Bezterminowe**. W przypadku transakcji z płatnością zgodnie z użyciem (PAYG, pay-as-you-go) użyj daty ostatniej lub najnowszej faktury.
+- **Data podpisania** kontraktu: data podpisania umowy końcowej przez organizację i klienta. W przypadku transakcji z płatnością zgodnie z użyciem (PAYG, pay-as-you-go) użyj daty pierwszej faktury.
+- **Osoba kontaktowa** rejestracji: **imię,** **nazwisko,**  **numer** telefonu i adres e-mail osoby w organizacji, z którą możemy się skontaktować, jeśli potrzebujemy dodatkowych informacji na temat dowolnej z podanych tutaj informacji.
 
-Po zakończeniu wszystkich sekcji strony wybierz pozycję **zarejestruj**. Rejestracja transakcji zostanie przeniesiona na stronę **w toku** . Następnie firma Microsoft zapoznaje się z podanymi informacjami.
+Po ukończeniu wszystkich sekcji strony wybierz pozycję **Zarejestruj.** Rejestracja transakcji zostanie przeniesiona na stronę **W toku.** Firma Microsoft przejmie podane informacje.
 
-Jeśli transakcja pochodzi z odwołania i nie została jeszcze zarejestrowana, zobaczysz listę transakcji na stronie **wymagana akcja** . W tym miejscu są również wyświetlane rejestracje, które zostały utworzone i zarejestrowane, ale wymagają dalszych aktualizacji. Filtry służą do wyświetlania tylko **nieukończonych** lub **aktualizacji wymaganych** rejestracji transakcji.
+Jeśli transakcja pochodzi z polecenia i nie została jeszcze zarejestrowana, transakcja zostanie wymieniona na **stronie Wymagana akcja.** W tym miejscu przedstawiono również rejestracje transakcji, które zostały utworzone i zarejestrowane, ale wymagają dalszych aktualizacji. Za pomocą filtrów można wyświetlać tylko rejestracje **nieukończone** lub **wymaganej** aktualizacji transakcji.
 
 ## <a name="viewing-active-and-closed-deal-registrations"></a>Wyświetlanie aktywnych i zamkniętych rejestracji transakcji
 
-Możesz przejrzeć rejestracje nowych, aktywnych i zamkniętych transakcji na różnych stronach w ramach **odwołań > rejestracji transakcji**.
+Rejestracje nowych, aktywnych i zamkniętych transakcji można przeglądać na różnych stronach w obszarze > **Rejestracja transakcji.**
 
 ### <a name="action-required"></a>Wymagana akcja
 
-Na stronie **odwołania > rejestracje transakcji > akcji wymagane** , zobaczysz nowe rejestracje, które nie zostały jeszcze zarejestrowane lub wymagają aktualizacji. Filtry służą do wyświetlania tylko **nieukończonych** lub **aktualizacji wymaganych** rejestracji transakcji. **Niekompletne** rejestracje transakcji to te, które pochodzą z odwołań, ale nie zostały jeszcze zarejestrowane. **Aktualizowanie wymaganych** rejestracji transakcji to te, które zostały utworzone i zarejestrowane, ale które wymagają zaktualizowania podanych informacji.
+Na **stronie Referrals > Deal registrations > Action required** (Rejestracje poleceń i transakcji) na stronie Wymagane działanie zobaczysz nowe rejestracje, które nie zostały jeszcze zarejestrowane lub wymagają aktualizacji. Za pomocą filtrów można wyświetlać tylko rejestracje **nieukończone** lub **wymaganej** aktualizacji transakcji. **Niekompletne** rejestracje transakcji to te, które pochodzą z poleceń, ale nie zostały jeszcze zarejestrowane. **Rejestracje** transakcji wymagane do aktualizacji to te, które zostały utworzone i zarejestrowane, ale wymagają aktualizacji podanych informacji.
 
 ### <a name="in-progress"></a>W toku
 
-Na stronie **odwołania > rejestracje transakcji > w toku** zobaczysz rejestrację transakcji, którą przegląda firma Microsoft. Jeśli będziemy potrzebować dalszych informacji, użyjemy informacji o **kontakcie rejestracyjnym** , które podałeś.
+Na stronie **> rejestracje** transakcji > w toku zobaczysz rejestracje transakcji przeglądane przez firmę Microsoft. Jeśli będziemy potrzebować dodatkowych informacji, użyjemy podanych przez Ciebie informacji **kontaktowych** dotyczących rejestracji.
 
-Jeśli konieczne jest zaktualizowanie wszelkich informacji, można przenieść rejestrację transakcji na stronę **wymagana akcja** .
+Jeśli jakiekolwiek informacje muszą zostać zaktualizowane, możemy przenieść rejestrację transakcji na **stronę Wymagana** akcja.
 
 ### <a name="closed"></a>Zamknięty
 
-Na stronie **odwołania > rejestracje transakcji > zamkniętej** strony zobaczysz, które transakcje zostały pomyślnie zarejestrowane i sprawdzone przez firmę Microsoft. Można użyć filtrów, aby wyświetlić tylko **zatwierdzone** lub **odrzucone** rejestracje transakcji.
+Na stronie > rejestracje transakcji > **zamkniętej** zobaczysz transakcje, które zostały pomyślnie zarejestrowane i przejmowane przez firmę Microsoft. Za pomocą filtrów można wyświetlać tylko **zatwierdzone lub** **odrzucone rejestracje** transakcji.
