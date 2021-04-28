@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/22/2021
-ms.openlocfilehash: 4e5faf1467ea12aac8f4dfaa4c35455159f64632
-ms.sourcegitcommit: 1e1aea329fdeef526e5273d2a4d8f5ec767ac49c
+ms.date: 04/27/2021
+ms.openlocfilehash: 935aef8dd3b19462c162911c893a49c3d6c7d337
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2021
-ms.locfileid: "107917620"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172434"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
@@ -22,6 +22,7 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 
 |**Kategoria**|**Ogłoszenia z kwietnia 2021 r.**|**Ogłoszone**|
 |---------|:---------|:---------|
+|Możliwości|[Nowa lokalizacja dokumentacji programu Swagger Partner Center API](2021-april.md#9)|26 kwietnia|
 |Możliwości|[Dostawca rozwiązań w chmurze zasady dotyczące okresu zwracania oprogramowania (CSP) i powiadomienia o wygaśnięciu linku pobierania](2021-april.md#8)|21 kwietnia|
 |Rozwój firmy|[Program licencjonowania Open: Przechodzenie odsprzedawców do programu Dostawca rozwiązań w chmurze (CSP)](2021-april.md#7)|19 kwietnia|
 |Możliwości|[Teraz na żywo: Przewodnik dotyczący gotowości na globalną promocję](2021-april.md#6)|16 kwietnia|
@@ -38,9 +39,9 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 |Oferty/rynki|[Korekty wprowadzone do 1 marca 2021 r. bezterminowy cennik oprogramowania](2021-march.md#14)|23 marca|
 |Możliwości|[Wersja zestawu SDK w .NET Standard (wersja 1.17.0)](2021-march.md#13)|23 marca|
 |Możliwości|[Oferta komercyjnej platformy handlowej programu CSP i zachęty FY21 CSP dla kwalifikujących się ofert](2021-march.md#12)|18 marca|
-|Możliwości|[Power BI Premium nazewnictwa ofert i aktualizacji wymagań wstępnych](2021-march.md#11)|18 marca|
+|Możliwości|[Power BI Premium oferty i aktualizacja wymagań wstępnych](2021-march.md#11)|18 marca|
 |Oferty/rynki|[Aktualizacje cen w marcu dla Microsoft 365 F3](2021-march.md#10)|16 marca|
-|Wydajność dysków & skalowania|[Aktualizowanie nazwy firmy prawnej za pomocą Partner Center](2021-march.md#9)|16 marca|
+|Wydajność dysków & skalowania|[Aktualizowanie nazwy firmy prawnej za pośrednictwem Partner Center](2021-march.md#9)|16 marca|
 |Możliwości|[Aktualizacja ewolucji programu Dostawca rozwiązań w chmurze (CSP) i zmiany programu licencjonowania Open License](2021-march.md#8)|15 marca|
 |Rozwój firmy|[Aktualizacja do poprzedniego anonsu: Premium Assessments, dodatek do Menedżera zgodności](2021-march.md#7)|15 marca|
 |Możliwości|[Migrowanie rozwiązań z usługi One Commercial Partner (OCP) go-to-market (GTM) na platformę handlową firmy Microsoft](2021-march.md#6)|12 marca|
@@ -54,15 +55,15 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 |Możliwości|[Udostępnianie transakcji sprzedaży zbiorczej na dużą skalę przy Partner Center operacji zbiorczych](2021-february.md#13)|25 lutego|
 |Możliwości|[Migrowanie transakcji z programu Partner Sales Connect (PSC) przy użyciu funkcji migracji nowej transakcji](2021-february.md#12)|25 lutego|
 |Możliwości|[Większa elastyczność dzięki transakcjom sprzedaży typu "co sell" prowadzonym przez partnerów](2021-february.md#11)|25 lutego|
-|Możliwości|[Zmiany w dołączaniu Dostawca rozwiązań w chmurze klienta (CSP)](2021-february.md#10)|25 lutego|
+|Możliwości|[Zmiany w dołączaniu klientów Dostawca rozwiązań w chmurze (CSP)](2021-february.md#10)|25 lutego|
 |Możliwości|[Teraz na żywo: migracja rozwiązania DocuSign do rozwiązania Adobe Sign dla partnerów w ramach umów partnerów firmy Microsoft (MPA)](2021-february.md#9)|16 lutego|
 |Rozwój firmy|[Przypomnienie: Wprowadzenie ograniczenia przepustowości interfejsu API dla partnerów wywołujących interfejsy API centrum partnerskiego](2021-february.md#8)|16 lutego|
 |Możliwości|[Introducing Microsoft Viva Topics](2021-february.md#7)|12 lutego|
 |Oferty/rynki|[Microsoft 365 cen E3, które zostaną wprowadzone w marcu 2021 r.](2021-february.md#6)|11 lutego|
 |Oferty/rynki|[Zaktualizowano cennik wersji zapoznawczej na podstawie licencji dla norweskiej wersji językowej](2021-february.md#5)|10 lutego|
-|Możliwości|[Oceny w wersjach Premium, dodatek do Menedżera zgodności, zostanie w wersji 1 marca 2021 r.](2021-february.md#4)|5 lutego|
+|Możliwości|[Oceny w wersjach Premium, dodatek do Menedżera zgodności, mają być już nadane 1 marca 2021 r.](2021-february.md#4)|5 lutego|
 |Możliwości|[Reagowanie na coVID-19: Microsoft Partner Network aktualizacji](2021-february.md#3)|4 lutego|
-|Możliwości|[Nowe aktualizacje modułu Polecenia w Partner Center](2021-february.md#2)|4 lutego|
+|Możliwości|[Nowe aktualizacje modułu Referrals (Polecenia) w Partner Center](2021-february.md#2)|4 lutego|
 |Nowoczesne miejsce pracy|[Wycofanie i wycofanie interfejsów API kwalifikacji PUT na potrzeby procesu weryfikacji klientów w edukacji do 25 lutego 2021 r. i kwalifikacji GET do 4 maja 2021 r.](2021-february.md#1)|4 lutego|
 | **Kategoria** | **Ogłoszenia ze stycznia 2021 r.** | **Ogłoszone** |
 |Nowoczesne miejsce pracy|[Faza 1 jest teraz na żywo: Zmiana waluty rozliczeniowej partnera & Unii Europejskiej/& dla nowych ofert handlowych](2021-january.md#15)|28 stycznia|
