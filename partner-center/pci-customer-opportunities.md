@@ -1,139 +1,142 @@
 ---
-title: Centrum partnerskie — szczegółowe raporty CloudAscent
-description: Dowiedz się więcej o CloudAscentych raportach dotyczących propiór w centrum partnerskim. Zawiera informacje o promiarach klienta do kupowania produktów firmy Microsoft.
+title: Partner Center Insights — raporty cloudAscent Propensity
+description: Dowiedz się więcej o raportach platformy CloudAscent Propensity w Partner Center. Zawiera informacje o tym, czy klient jest podatny na zakup produktów firmy Microsoft.
 ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.date: 09/18/2020
-ms.openlocfilehash: 2cdb63c8f7e29fc8a56e920b587e47c382c6eacb
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.date: 04/27/2021
+ms.openlocfilehash: 91f64faeec0b97be2797d489e152cb84cbb2e192
+ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086961"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "108213468"
 ---
-# <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>CloudAscent raporty z pulpitu nawigacyjnego Centrum partnerskiego
+# <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>Raporty cloudAscent Propensity dostępne na Partner Center nawigacyjnym
 
 **Odpowiednie role**
 
-- Executive — Podgląd raportów
-- Podgląd raportów
+- Przeglądarka raportów dla kierownictwa
+- Przeglądarka raportów
 
-Pulpit nawigacyjny Centrum partnerskiego udostępnia dane umożliwiające pobranie z programu CloudAscent. Dane przedstawiają ofertę klientów, którzy kupują produkty firmy Microsoft.  W tym artykule opisano podział tych danych, sposób użycia oceny i znaczenie.
+Pulpit Partner Center udostępnia dane dotyczące proporcjonalności do pobrania z programu CloudAscent. Dane pokazują prawdopodobieństwo zakupu produktów firmy Microsoft przez klientów.  W tym artykule opisano podział tych danych, sposób korzystania z oceniania i jego opis.
 
 ## <a name="summary-definitions"></a>Definicje podsumowania
 
-- **Klienci** z systemem SMC — jest to całkowita liczba klientów w ramach pobierania.  Klient jest identyfikowany przez partnera rekordu.
-- **Umowy wygasają**— w ramach bieżącego roku obrachunkowego firma Microsoft udostępnia liczbę umów wygasających.
-- **Przychód** z tytułu wygaśnięcia — przychód związany z umowami wygasania.
-- **Otwórz przychód** z tytułu wygaśnięcia — przychód związany z otwartymi umowami o wygaśnięciu.
+- **Klienci SMC**— jest to łączna liczba klientów w pobranej wersji propensity.  Klienci są identyfikowani przez partnera rekordów.
+- **Wygasanie umów**— w bieżącym roku obrachunkowym podamy liczbę wygasających umów.
+- **Open Expiring Revenue**— przychód skojarzony z wygasającą umowami otwartymi.
 
-:::image type="content" source="images/pci/cust-oppor-1.png" alt-text="Zrzut ekranu przedstawiający pulpit nawigacyjny podsumowania możliwości klientów.":::
+:::image type="content" source="images/pci/cust-oppor-11.png" alt-text="Zrzut ekranu przedstawiający pulpit nawigacyjny Podsumowanie możliwości klientów.":::
 
-## <a name="cloudascent-smb-segmentation"></a>CloudAscent segmentacji SMB
+## <a name="cloudascent-smb-segmentation"></a>Segmentacja SMB usługi CloudAscent
 
-Segment małych i średnich firm (SMB) jest dalej podzielony na trzy odrębne Podsegmenty.
+Segment małych i średnich firm (SMB) jest podzielony na trzy odrębne segmenty podrzędne.
 
-1. **Najważniejsze niezarządzane** obejmują największych klientów SMB z największą możliwością dla firmy Microsoft. Typowi niezarządzani klienci mają podobną charakterystykę jako konta zarządzane, za pomocą dużej liczby pracowników, dużych budżetów IT i wydatków oraz dużych ilości potencjalnych przychodów firmy Microsoft.
+1. **Najliczniejsi** klienci niezamażni obejmują największych klientów SMB z największą szansą dla firmy Microsoft. Typowi klienci z najlepszymi nieza zarządzaniem mają cechy podobne do kont zarządzanych, z dużą liczbą pracowników, dużymi budżetami i wydatkami IT oraz dużymi kwotami potencjalnych przychodów dla firmy Microsoft.
 
-   Definiujemy najwyższe niezarządzane dwa sposoby:
+   Zdefiniujmy typ Top Unmanaged na dwa sposoby:
 
-   - **Najpopularniejszy niezarządzany użytkownik**— obejmuje konta z 300 lub większą liczbą pracowników. Konta User-Based to doskonałe cele zakupu po raz pierwszy lub rozszerzenie produktów subskrypcji opartych na użytkownikach, takich jak Microsoft 365, Dynamics 365 lub powierzchni.
-   - W **oparciu o najpopularniejsze niezarządzane obliczenia** — w tym konta o możliwości platformy Azure większej niż $10 tys. Konta oparte na obliczeniach obejmują istniejące platformy Azure. konta z znacznymi możliwościami w przyszłości i kontami, które jeszcze nie kupują platformy Azure, ale mogą korzystać z platformy Azure większej niż $10 tys.
+   - **Top Unmanaged User Based**— obejmuje konta z co najmniej 300 pracownikami. User-Based są doskonałymi celami w przypadku zakupu po raz pierwszy lub rozszerzania produktów subskrypcji opartych na użytkownikach, takich jak Microsoft 365, Dynamics 365 lub Surface.
+   - **Top Unmanaged Compute Based** — obejmuje konta z możliwością platformy Azure większą niż 10 tys. USD. Konta oparte na obliczeniach obejmują istniejącą platformę Azure. konta ze znaczącym potencjałem przyszłego roku i konta, które jeszcze nie zakupiły platformy Azure, ale mają potencjał platformy Azure większy niż 10 tys. USD.
 
-2. **Średnia firma** obejmuje istniejących klientów i konta klientów od 25 do 300 pracowników.
+2. **Średnia firma** obejmuje istniejących klientów i konta potencjalnych klientów od 25 do 300 pracowników.
 
-3. **Małe firmy** obejmuje wszystkie pozostałe firmy zatrudniające mniej niż 25 pracowników.
+3. **Małe firmy** obejmują firmy z 10–25 pracownikami.
 
-:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Klient według typu SMC.":::
+4. **Bardzo mała firma obejmuje** firmy z 1–9 pracownikami.
 
-**Najpopularniejsze** Podsegmenty niezarządzanych i **średnich firm** przedstawiają klientów z dużą wartością czasu życia (LTV) dla firmy Microsoft i partnerów firmy Microsoft. Z tego względu są to obszary potencjalnej ostrości na potrzeby wzrostu ruchu w tym segmencie. W tych dwóch podsegmentach lepszym rozwiązaniem jest pozyskanie gniazda przy użyciu Microsoft 365, Zarabiaj się z aplikacjami D365/Azure line of Business (LOB) i realizują wysoką LTV dla firmy Microsoft.
+:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Klient według typu kontrolera SMC.":::
 
-Dzisiaj mamy dwa kluczowe obszary szansy sprzedaży — 1. Nasz klient dodaje wzrost; dwóch. Mimo że będziemy dobrze korzystać z gniazd w chmurze wiodących w Microsoft 365, mamy dużą okazję w D365 i platformie Azure.
+**Podsieć Top Unmanaged** and **Medium Business** (Najlepsze podsegmenty dla niezaiemianych i średnich firm) reprezentuje klientów z wysoką wartością czasu życia (LTV, high life-time value) dla firmy Microsoft i partnerów firmy Microsoft. W związku z tym są one głównymi obszarami ukierunkowania na rozwój w tym segmencie. W tych dwóch podsegmentach lepiej jest uzyskać gniazda za pomocą platformy Microsoft 365, dodatkowo nabyć zysk dzięki aplikacjom biznesowym D365/Azure oraz zrealizować wysoką wartość LTV dla firmy Microsoft.
 
-Poniższy zrzut ekranu przedstawia trzy Podsegmenty protokołu SMB i zoptymalizowane trasy do rynku. CloudAscent ustalanie priorytetów profilowania, oceniania i modelowania wszystkich najważniejszych kont niezarządzanych i średnich firm.
+Obecnie mamy dwa kluczowe obszary możliwości — 1. nasz klient zwiększa rozwój; 2. Chociaż dobrze pozyskujemy gniazda w chmurze wiodące w Microsoft 365, mamy duże możliwości w usłudze Dynamics 365 i na platformie Azure.
 
-:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="Zrzut ekranu przedstawiający Podsegmenty SMB.":::
+Poniższy zrzut ekranu przedstawia cztery podsegmenty SMB. Usługa CloudAscent określa priorytety profilowania, oceniania i modelowania dla wszystkich kont z najwyższymi poziomami zarządzania i średniej firmy.
+
+:::image type="content" source="images/pci/cust-oppor-32.png" alt-text="Zrzut ekranu przedstawiający podsegmenty SMB.":::
 
 ## <a name="cloudascent-machine-learning"></a>CloudAscent Machine Learning
 
-Protokół SMB korzysta z technologii uczenia maszynowego do obsługi prognoz klientów sprzedaży i marketingu w ramach najważniejszych segmentów niezarządzanych i średnich firm. Jak są zbierane sygnały i włączane są zalecenia dotyczące zaleceń?
+Technologia SMB wykorzystuje technologię uczenia maszynowego do prognozowania sprzedaży i marketingu klientów w segmentach Najważniejsze niezamażowane i Średnie firmy. W jaki sposób sygnały są zbierane i przekształcone w zalecenia dotyczące proporcjonalności?
 
-- **Zbieranie danych**: przeszukiwanie sieci Web skanuje i zbiera miliardy sygnałów klientów przez pingowanie domen firmy i monitorowanie: wpisy w blogu, wersje prasowe, strumienie społecznościowe i fora techniczne.  Oprócz zebranych sygnałów informacje firmographics są zbierane ze źródeł wewnętrznych i zewnętrznych, takich jak D&B, wewnętrzna subskrypcja firmy Microsoft i dane transakcyjne.
+- **Zbieranie danych:** przeszukiwacze sieci Web skanują i zbierają miliardy sygnałów klientów, wysyłając polecenia ping do domen firmowych oraz monitorując wpisy w blogu, informacje techniczne, strumienie społecznościowe i fora techniczne.  Oprócz zebranych sygnałów informacje firmograficzne są zbierane zarówno ze źródeł wewnętrznych, jak i zewnętrznych, takich jak D&B, wewnętrzna subskrypcja firmy Microsoft i dane transakcyjne.
 
-- **Machine Learning**: sygnały są przekazywane do modelu uczenia maszynowego, który wyprowadza zestaw danych strukturalnych prognoz sprzedaży i marketingu dla każdego klienta przez produkt i klaster w chmurze.  Każdy klient jest oceniane w oparciu o model podobny do zgodnego protokołu SMB firmy Microsoft, który określa dopasowania klienta i algorytmy uczenia maszynowego, które integrują zachowanie w trybie online klienta zdefiniowane jako intencje. Ocenianie zostanie scalone z klastrami, które pokazują, jak nabycie klientom Microsoft Cloud produkty.
+- **Machine Learning:** Sygnały są podawane do modelu uczenia maszynowego, który wyprowadza ustrukturyzowany zestaw danych przewidywań sprzedaży i marketingu dla każdego klienta według produktu w chmurze i klastra.  Każdy klient jest punktowany przy użyciu modelu podobnego do najlepszego rozwiązania SMB firmy Microsoft, które określa dopasowanie klienta, oraz algorytmów uczenia maszynowego, które integrują zachowanie online klienta, definiując je jako intencję. Ocenianie jest scalane w klastry, które pokazują, że klient jest podatny na zakup produktów w chmurze firmy Microsoft.
 
-- **Optymalizacja**: system Machine Learning optymalizuje modele przez zużywanie danych transakcji miesięcznie i danych subskrypcji kwartalnie.  Korzystając z danych win/strat, Machine Learning dostosowuje algorytmy i sprawdza, czy modele działają zgodnie z oczekiwaniami, porównując zalecenia dotyczące klastrów z szansami na serwerze głównym.
+- **Optymalizacja:** system Machine Learning optymalizuje modele, zużywając dane transakcji co miesiąc i dane subskrypcji co kwartał.  Korzystając z danych o wygranej/utracie, Machine Learning dostosowuje algorytmy i sprawdza, czy modele działają zgodnie z oczekiwaniami, porównując zalecenia dotyczące klastrów z szansami sprzedaży, na których działa usługa MSX.
 
-:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="Zrzut ekranu przedstawiający Uczenie maszynowe SMB.":::
+:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="Zrzut ekranu przedstawiający uczenie maszynowe SMB.":::
 
-## <a name="cloudascent-propensity"></a>CloudAscent
+## <a name="cloudascent-propensity"></a>CloudAscent Propensity
 
-Jak są tworzone rekomendacje proleceń?
+W jaki sposób są tworzone rekomendacje dotyczące proporcjonalności?
 
-Korzystając z sygnałów zbieranych za pośrednictwem przeszukiwania sieci Web i danych z różnych źródeł, konsolidujemy dane firmographics i sygnały mediów społecznościowych klienta.  Funkcja oceny używa tych sygnałów i danych w modelach porównania dla modeli dopasowania i oceniania dla zamiaru.
+Używając sygnałów zebranych za pośrednictwem przeszukiwarów sieci Web i danych dostarczanych z różnych źródeł, konsolidujemy dane firmographics i sygnały mediów społecznościowych klienta.  Ocenianie używa tych sygnałów i danych w modelach porównywania do dopasowania i oceniania modeli intencji.
 
 1. Dopasowanie konta klienta
 
-   - Wewnętrzne i zewnętrzne punkty danych, które definiują firmographics.
+   - Wewnętrzne i zewnętrzne punkty danych definiujące firmographics.
 
-   - Dopasowywanie oceniania przy użyciu modelu podobny do najlepszego protokołu SMB w celu porównania klientów i sprawdzenia, czy są one potencjalnie przydatne dla Microsoft Cloud produktów.
+   - Ocenianie dopasowania wykorzystuje model podobny do naszego najlepszego SMB, aby porównać klientów i sprawdzić, czy są potencjalnie odpowiedni dla produktów w chmurze firmy Microsoft.
 
-   - Punktacja dopasowania jest aktualizowana co kwartał
+   - Ocenianie dopasowania jest aktualizowane co kwartał
 
-2. Cel konta klienta
+2. Intencja konta klienta
 
-   - Sygnały związane z mediami społecznościowymi i zachowaniem w trybie online klienta definiują cel.
+   - Sygnały związane z mediami społecznościowymi i zachowaniem online klienta definiują intencję.
 
-   - Ocenianie intencji jest nadmiarowe w celu zdefiniowania klastrów.
+   - Ocenianie intencji jest nałogowe na dopasowanie w celu zdefiniowania klastrów.
 
    - Ocenianie intencji jest aktualizowane co miesiąc.
 
-   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="CloudAscent modele predykcyjne SMB.":::
+   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="Modele predykcyjne SMB cloudAscent.":::
 
 3. Klastrowanie
 
-   Sygnały dopasowania i intencji są konsolidowane do oceny klastrowania. CloudAscent ma cztery klastry:
+   Sygnały dopasowania i intencji są konsolidowane w wyniku klastrowania. CloudAscent ma cztery klastry:
 
-      - Wykonaj teraz — klienci gotowi do sprzedaży
-      - Obliczanie — klienci gotowi do marketingu
-      - Kampanie informacyjna
-      - Edukacja i monitorowanie zamiaru
+      - Działanie teraz — klienci gotowi do sprzedaży
+      - Ocena — klienci gotowi do marketingu
+      - Świadomość — wspieranie kampanii świadomości
+      - Edukowanie — edukowanie i monitorowanie intencji
 
-   Klastrowanie pozwala użytkownikom na kierowanie określonych klientów do inicjatyw sprzedaży i marketingu na podstawie czynników segmentu, na przykład: produkt, geograficzna, branża i pionowa.
+   Klastrowanie umożliwia użytkownikom ukierunkowanie określonych klientów na inicjatywy sprzedażowe i marketingowe na podstawie czynników segmentu, takich jak produkt, obszar geograficzny, branża i pionowa.
 
-   Karta **model propióra** w skoroszytach CloudAscent udostępnia propozycję i szacowane przychody. Aby zdefiniować klaster dopasowania i zamierzania, wykonaj następujące czynności:
+   Karta **Model proporcjonalności** w skoroszytach CloudAscent udostępnia proporcjonalność i szacowany przychód z białych znaków. Aby zdefiniować klastrowanie dopasowania i intencji, należy wykonać następujące kroki:
 
-      1. Korzystając z modeli w sieci, najpierw obliczamy wynik i ocenę dopasowania klienta w skali 100.  Dokładne wyniki będą się różnić w zależności od modeli ML.  Przykładowe wyniki poniżej:
+      1. Korzystając z modeli uczenia maszynowego, najpierw obliczamy współczynnik dopasowania klienta i wynik intencji w skali 100.  Dokładne wyniki będą się różnić w zależności od modeli uczenia maszynowego.  Przykładowe wyniki poniżej:
 
-         |**Klasyfikacja**|**Dały**|
+         |**Klasyfikacja**|**Ocena**|
          |---------|:---------|
-         |Wys.|75 – 100|
-         |Śred.|55 – 74|
+         |Wys.|75 - 100|
+         |Śred.|55 - 74|
          |Niski|30 - 54|
-         |Bardzo niski|0 - 29|
+         |Bardzo niska|0 - 29|
 
-      2. Korzystając z powyższej reguły, firma Microsoft klasyfikuje firmy w taki sposób, aby były wysokie, średnie, niskie i bardzo niskie w przypadku sygnałów dopasowania klienta i przeznaczenie.
+      2. Korzystając z powyższej reguły, klasyfikujemy firmy jako wysokie, średnie, niskie i bardzo niskie zarówno dla sygnałów dopasowania klienta, jak i intencji.
 
-      3. Wykreślamy sygnały klientów i zamierzeń dla macierzy 2D z każdą wspólną częścią reprezentującą pióro. Na przykład wysoki poziom dopasowania + wysoki cel = a1, reprezentujący najwyższą z postanowień.
+      3. Wykreślamy sygnały dopasowania i intencji klienta na macierzy 2D z każdym przecięciem reprezentującym proporcjonalność. Na przykład High Fit + High Intent = A1, reprezentujący najwyższą wartość.
 
-      4. Na koniec te segmenty grupują się do klastrów formularzy.  Na przykład a1, a2, A3, A4 tworzą klaster Act Now.
+      4. Na koniec te segmenty grupuje się w celu tworzenia klastrów.  Na przykład A1, A2, A3, A4 tworzą klaster Act Now.
 
          :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="Modele CloudAscent.":::
 
-   W przypadku tych klientów zalecamy teraz kierowanie działaniami i ocenę klientów.
+   W przypadku tych klientów zalecamy ukierunkowanie działań Na teraz i Ocena klientów.
 
-## <a name="cloudascent-products--models"></a>CloudAscent produkty & modele
+## <a name="cloudascent-products--models"></a>Modele produktów CloudAscent & Model
 
-Poniższa ilustracja przedstawia widok każdego z modeli zapoznawczych w CloudAscent:
+Na poniższej ilustracji przedstawiono widok każdego modelu proporcjonalności w aplikacji CloudAscent:
 
-:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="CloudAscent model.":::
+:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="Model proporcjonalności CloudAscent.":::
 
-Modele odstępów składają się z prognoz dla istniejących klientów firmy Microsoft, gdzie nie mają produktu i/lub są klientami usługi NET New potencjalni klienci.
+Modele odstępów składają się z przewidywań dla istniejących klientów firmy Microsoft, którzy nie mają produktu i/lub są nowymi klientami potencjalnymi klientami netto.
 
-Modele do zakupu wykorzystują dane transakcji, aby przewidzieć potencjalną sprzedaż na platformie Azure i Microsoft 365 jednostek SKU.
+Modele sprzedaży upsell używają danych transakcji do przewidywania potencjalnej sprzedaży upsell na platformie Azure i Microsoft 365 SKU.
 
-EOS udostępnia klientom końcową usługi dla systemów Windows 7, Office 2010, SQL Server i Windows Server. Dane EOS są pobierane z sprzedaży firmy Microsoft i nałożone z użyciem modelowania CloudAscent, jeśli jest dostępny. EOS dane w nowoczesnych zadaniach i sprzedaży platformy Azure.
+Ci klienci będą już mieć platformę Azure lub Microsoft 365, a model sprzedaży upsell wskazuje, że prawdopodobnie kupi więcej swojej istniejącej wersji SKU.
+
+System EOS udostępnia klientów końcowych usług (EOS) dla systemów Win 7, Office 2010, SQL Server i Windows Server. Dane systemu EOS są ściągane z usługi MS Sales i są nałożyne na modelowanie proporcjonalności CloudAscent, jeśli jest dostępne. Dane systemu EOS są wykorzystywane w nowoczesnego rozwiązaniach pracy i sprzedaży na platformie Azure.
