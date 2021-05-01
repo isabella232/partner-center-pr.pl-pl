@@ -1,304 +1,302 @@
 ---
-title: Łącznik współsprzedawanego Centrum partnerskiego usług Salesforce CRM
+title: Łącznik do współsprzedaży dla usługi Salesforce CRM Partner Center
 ms.topic: how-to
 ms.date: 01/06/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Zsynchronizuj swoje odwołania w centrum partnerskim z Twoim programem Salesforce CRM. Sprzedawcy mogą następnie współsprzedawać z firmą Microsoft w ramach systemów CRM.
+description: Zsynchronizuj polecenia w Partner Center z crm usługi Salesforce. Sprzedawcy mogą następnie sprzedawać z firmą Microsoft z poziomu systemów CRM.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
-ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
+ms.openlocfilehash: 8139f89a37048b1790353e3bdd18ac1b44887219
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "97960955"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284387"
 ---
-# <a name="co-sell-connector-for-salesforce-crm---overview"></a>Łącznik współpracujący z usługą Salesforce CRM — Omówienie
+# <a name="co-sell-connector-for-salesforce-crm---overview"></a>Łącznik do współsprzedaży dla rozwiązania Salesforce CRM — omówienie
 
-### <a name="appropriate-roles"></a>Odpowiednie role
+**Odpowiednie role**
 
-- Administrator odwołań
-- Administrator systemu lub Konfigurator systemu w programie CRM
+- Administrator poleceń
+- Administrator systemu lub customizer systemu w systemie CRM
 
-Łącznik współpracujący z centrum partnerskim umożliwia sprzedającym współsprzedaż z firmą Microsoft w ramach systemów CRM. Nie trzeba ich przeszkoleć w celu zarządzania pozostałymi ofertami przy użyciu Centrum partnerskiego. Korzystając z łączników współsprzedających, można utworzyć nowe odwołanie do sprzedaży, aby skontaktować się z sprzedającym firmy Microsoft, otrzymać odwołania od sprzedawcy firmy Microsoft, zaakceptować/odrzucić odwołania, zmodyfikować dane dotyczące transakcji, takie jak wartość transakcji i Data zamknięcia.  Możesz również otrzymywać wszelkie aktualizacje od sprzedawcy firmy Microsoft w ramach tych transakcji związanych z współsprzedażą. Wszystkie odwołania można wykonywać podczas pracy w wybranym programie CRM, a nie w centrum partnerskim. 
+Partner Center łącznika do współpracy sprzedaży umożliwia sprzedawcom sprzedawanie z firmą Microsoft z poziomu systemów CRM. Nie trzeba ich szkolić do używania Partner Center do zarządzania transakcjami sprzedaży. Za pomocą łączników do współpracy sprzedaży możesz utworzyć nowe polecenie do współpracy sprzedaży, aby angażować sprzedawcę firmy Microsoft, otrzymywać polecenia od sprzedawcy firmy Microsoft, akceptować/odrzucać polecenia, modyfikować dane transakcji, takie jak wartość transakcji i data zamknięcia.  Możesz również otrzymywać wszelkie aktualizacje od sprzedawców firmy Microsoft dotyczące tych transakcji sprzedaży. Wszystkie polecenia można wykonać podczas pracy w ramach wybranego rozwiązania CRM, a nie w Partner Center. 
 
-Rozwiązanie jest oparte na rozwiązaniu Microsoft energooszczędne i korzysta z interfejsów API Centrum partnerskiego.
+Rozwiązanie jest oparte na rozwiązaniu Microsoft Power Automate Solution i używa Partner Center API.
 
 ## <a name="before-you-install---pre-requisites"></a>Przed zainstalowaniem — wymagania wstępne
 
 |**Tematy**   |**Szczegóły**   |**Linki**   |
 |--------------|--------------------|------|
-|Identyfikator Microsoft Partner Network |Potrzebujesz prawidłowego identyfikatora MPN|Aby dołączyć [MPN](https://partner.microsoft.com/)|
-|Gotowe do rozłożenia|Twoje rozwiązanie do adresów IP/usług musi być gotowe do współpracy.|[Sprzedawanie z firmą Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
-|Konto Centrum partnerskiego|IDENTYFIKATOR MPN skojarzony z dzierżawcą Centrum partnerskiego musi być taki sam jak identyfikator MPN skojarzony z rozwiązaniem do współsprzedażu. Przed wdrożeniem łączników Sprawdź, czy w portalu Centrum partnerskiego są widoczne swoje odwołania do współsprzedawcy.|[Zarządzanie kontem](create-user-accounts-and-set-permissions.md)|
-|Role użytkowników Centrum partnerskiego|Pracownik, który zainstaluje łączniki i korzysta z nich, musi być administratorem odwołań|[Przypisywanie ról i uprawnień użytkowników](create-user-accounts-and-set-permissions.md)|
-|Aplikacja Salesforce CRM|Rola użytkownika programu CRM to administrator systemu lub Konfigurator systemu|[Przypisywanie ról w programie Salesforce CRM](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
-|Konto przepływu automatyzacji|Aktywne konto usługi [Automatyzowanie](https://flow.microsoft.com) dla administratora systemu lub konfiguratora systemu programu CRM. Ten użytkownik powinien zalogować się do programu w celu [automatyzacji](https://flow.microsoft.com) co najmniej raz przed instalacją.|
+|Microsoft Partner Network identyfikator |Potrzebny jest prawidłowy identyfikator MPN|Aby dołączyć [do programu MPN](https://partner.microsoft.com/)|
+|Gotowość do współpracy sprzedaży|Twoje rozwiązanie ip/usług musi być gotowe do współs sprzedaży.|[Sell with Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
+|Konto Centrum partnerskiego|Identyfikator MPN skojarzony z dzierżawą Partner Center musi być taki sam jak identyfikator MPN skojarzony z rozwiązaniem do współs sprzedaży. Przed wdrożeniem łączników sprawdź, czy polecenia dotyczące współpracy sprzedaży są Partner Center portalu.|[Zarządzanie kontem](create-user-accounts-and-set-permissions.md)|
+|Partner Center ról użytkownika|Pracownik, który zainstaluje łączniki i będzie z nich korzystać, musi być administratorem poleceń|[Przypisywanie ról i uprawnień użytkowników](create-user-accounts-and-set-permissions.md)|
+|Salesforce CRM|Rola użytkownika CRM to Administrator systemu lub Customizer systemu|[Przypisywanie ról w programie Salesforce CRM](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
+|Power Automate Flow Account|Aktywne konto [Power Automate](https://flow.microsoft.com) administratora systemu CRM lub customizera systemu. Ten użytkownik powinien zalogować się [Power Automate](https://flow.microsoft.com) co najmniej raz przed instalacją.|
 
 ## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Instalacja pakietu Salesforce dla pól niestandardowych firmy Microsoft 
 
-Aby zsynchronizować odwołania w centrum partnerskim i programie Salesforce CRM, rozwiązanie do automatyzowania oprogramowania musi jasno identyfikować pola odwołań określonych przez firmę Microsoft. To rozgraniczenie zapewnia zespołom sprzedawcy partnerskiego możliwość decydowania, które odwołania chcą udostępnić firmie Microsoft w celu współsprzedaży.
+Aby zsynchronizować polecenia w usługach Partner Center i Salesforce CRM, rozwiązanie Power Automate musi jasno identyfikować pola poleceń specyficzne dla firmy Microsoft. To oznaczanie daje zespołom sprzedawców partnerów możliwość decydowania o tym, które polecenia chcą udostępnić firmie Microsoft w celu współpracy sprzedaży.
 
-1. W usłudze Salesforce Aktywuj **uwagi** i Dodaj je do listy powiązane szanse sprzedaży. 
+1. W u usługi Salesforce aktywuj pozycję **Notatki** i dodaj ją do listy powiązanych szans sprzedaży. 
 [Odwołanie](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
 
-2. Aktywuj **zespoły szans sprzedaży** , wykonując następujące czynności: 
-    - W obszarze Konfiguracja Użyj pola **szybkiego wyszukiwania** , aby zlokalizować ustawienia zespołu szans sprzedaży.
-    - Zdefiniuj ustawienia zgodnie z wymaganiami.
+2. **Aktywuj zespoły szans** sprzedaży, wykonać następujące czynności: 
+    - W instalatorze użyj pola **Szybkie wyszukiwanie,** aby zlokalizować ustawienia zespołu szans sprzedaży.
+    - Zdefiniuj ustawienia zgodnie z potrzebami.
 [Odwołanie](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
 
-3. W usłudze Salesforce Zainstaluj pola niestandardowe i obiekty przy użyciu Instalatora pakietów poniżej.
-  
-Przejdź [tutaj](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) , aby zainstalować pakiet w dowolnej firmie.
+3. W uakiecie Salesforce zainstaluj niestandardowe pola i obiekty przy użyciu [instalatora pakietu](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV). Użyj tej funkcji, aby zainstalować pakiet w dowolnej firmie.
 
+>[!NOTE]
+>Jeśli instalujesz w piaskownicy, musisz zastąpić początkową część adresu URL wartością http://test.salesforce.com
 
-Uwaga: w przypadku instalowania w piaskownicy należy zamienić początkową część adresu URL na http://test.salesforce.com
+4. W uwitrynie Salesforce dodaj pozycję Microsoft Solutions do listy Opportunity related **(Powiązane z szansami** sprzedaży). Po dodaniu wybierz **ikonę klucza** i zaktualizuj właściwości
 
-4. W usłudze Salesforce Dodaj rozwiązania firmy Microsoft do listy powiązanej z **szansą sprzedaży** . Po dodaniu **kliknij ikonę klucza** i zaktualizuj właściwości.
+## <a name="best-practice-test-before-you-go-live"></a>Najlepsze rozwiązanie: Testowanie przed rozpoczęciem transmisji na żywo
 
-## <a name="best-practice-test-before-you-go-live"></a>Najlepsze rozwiązanie: testowanie przed rzeczywistym użyciem
+Przed zainstalowaniem, skonfigurowaniem i dostosowaniem rozwiązania Power Automate w środowisku produkcyjnym należy przetestować rozwiązanie w przejściowym wystąpieniu crm.
 
-Przed zainstalowaniem, skonfigurowaniem i dostosowaniem rozwiązania do automatyzowania w środowisku produkcyjnym należy przetestować rozwiązanie w tymczasowym wystąpieniu programu CRM.
+- Zainstaluj rozwiązanie Microsoft Power Automate w środowisku przejściowym/wystąpieniu crm.
 
-- Zainstaluj rozwiązanie Microsoft PowerShell automatyzuje w wystąpieniu środowiska przejściowego/programu CRM.
+- Zrób kopię rozwiązania i uruchom konfigurację oraz Power Automate dostosowywania przepływu w środowisku przejściowym.
 
-- Utwórz kopię rozwiązania i przeprowadź konfigurację i uruchom dostosowania przepływu w środowisku przejściowym.
+- Przetestuj rozwiązanie w wystąpieniu przejściowym/CRM.
 
-- Przetestuj rozwiązanie w wystąpieniu przemieszczania/programu CRM.
+- W przypadku powodzenia zaimportuj jako rozwiązanie zarządzane do wystąpienia produkcyjnego.
 
-- Po pomyślnym zaimportowaniu jako rozwiązania zarządzanego do wystąpienia produkcyjnego.
+## <a name="install-partner-center-referrals-synchronization-for-salesforce-crm"></a>Instalowanie Partner Center poleceń usługi Salesforce CRM
 
-## <a name="install-partner-center-referrals-synchronization-for-salesforce-crm"></a>Zainstaluj synchronizację odwołań Centrum partnerskiego dla programu Salesforce CRM
+1. Przejdź do [Power Automate](https://flow.microsoft.com) i wybierz **pozycję Środowiska** w prawym górnym rogu. Spowoduje to pokazanie dostępnych wystąpień CRM.
 
-1. Przejdź do pozycji [Automatyzacja](https://flow.microsoft.com) i wybierz pozycję **środowiska** w prawym górnym rogu. Spowoduje to wyświetlenie dostępnych wystąpień programu CRM.
+2. Wybierz odpowiednie wystąpienie crm z listy rozwijanej w prawym górnym rogu.
 
-2. Wybierz odpowiednie wystąpienie programu CRM z listy rozwijanej w prawym górnym rogu.
+3. Wybierz **pozycję Rozwiązania** na pasku nawigacyjnym po lewej stronie.
 
-3. Wybierz pozycję **rozwiązania** na lewym pasku nawigacyjnym.
+4. Wybierz link **Open AppSource (Otwórz usługę AppSource)** w górnym menu.
 
-4. Kliknij link **Otwórz AppSource** w górnym menu.
+   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Otwieranie usługi AppSource":::
 
-   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Otwórz AppSource":::
-
-5. Wyszukaj **Łączniki dla Centrum partnerskiego dla usługi Salesforce** na ekranie podręcznym.  
+5. Wyszukaj Partner Center **Referrals Connectors for Salesforce** w oknie podręcznym.  
 
    :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
 
-6. Kliknij przycisk **Pobierz teraz** , a następnie **Kontynuuj**.
+6. Wybierz przycisk **Pobierz teraz, a** następnie pozycję **Kontynuuj.**
 
-7. Spowoduje to otwarcie strony, na której można wybrać środowisko CRM programu Salesforce do zainstalowania aplikacji.  Zgadzam się na warunki i postanowienia.
+7. Spowoduje to otwarcie strony, na której można wybrać środowisko CRM usługi Salesforce w celu zainstalowania aplikacji.  Wyrażanie zgody na warunki i postanowienia.
 
-   :::image type="content" source="images/salesforce/available-crm.png" alt-text="Dostępne CRMS":::
+   :::image type="content" source="images/salesforce/available-crm.png" alt-text="Dostępne rozwiązania CRMS":::
 
-8. Następnie nastąpi przekierowanie do strony **zarządzanie rozwiązaniami** .  Przejdź do pozycji "referencje do Centrum partnerskiego" przy użyciu przycisków strzałek u dołu strony. **Zaplanowana instalacja** powinna pojawić się obok rozwiązania do tworzenia odwołań do Centrum partnerskiego. Instalacja zajmie 10-15 minut.
+8. Następnie zostaniesz skierowany do strony **Zarządzanie rozwiązaniami.**  Przejdź do pozycji "Partner Center polecenia", używając przycisków strzałek w dolnej części strony. **Zaplanowana instalacja** powinna pojawić się obok Partner Center polecenia. Instalacja potrwa 10–15 minut.
 
-9. Po zakończeniu instalacji przejdź z powrotem do strony [Automatyzacja](https://flow.microsoft.com) i wybierz pozycję **rozwiązania** z lewego obszaru nawigacji. Zwróć uwagę na to, że na liście rozwiązań jest dostępna informacja **dotycząca usługi Partner Center dotyczącej synchronizacji dla usługi Salesforce** .
+9. Po zakończeniu instalacji wróć do strony Power Automate [i](https://flow.microsoft.com) wybierz pozycję **Rozwiązania w** obszarze nawigacji po lewej stronie. Zwróć **uwagę Partner Center że synchronizacja poleceń dla usługi Salesforce** jest dostępna na liście Rozwiązania.
 
-10. Wybierz pozycję **Centrum partnerskie — synchronizacja** z usługą Salesforce. Dostępne są następujące przepływy automatyzacji i jednostki:
+10. Wybierz **Partner Center polecenia dla usługi Salesforce.** Dostępne są Power Automate przepływów i jednostek:
 
-    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Przepływy usług Salesforce":::
+    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Przepływy usługi Salesforce":::
 
 
 
-## <a name="configure-the-solution"></a>Skonfiguruj rozwiązanie
+## <a name="configure-the-solution"></a>Konfigurowanie rozwiązania
 
-1. Po zainstalowaniu rozwiązania w wystąpieniu programu CRM przejdź z powrotem do narzędzia do [automatyzacji](https://flow.microsoft.com/).
+1. Po zainstalowaniu rozwiązania w wystąpieniu crm wróć do Power Automate [.](https://flow.microsoft.com/)
 
-2. Z listy rozwijanej **środowiska** w prawym górnym rogu wybierz wystąpienie programu CRM, na którym zainstalowano rozwiązanie do automatyzowania.
-3. Konieczne będzie utworzenie połączeń, które kojarzą trzy konta użytkowników:
-    - Użytkownik Centrum partnerskiego z poświadczeniami administratora
+2. Z **listy rozwijanej** Środowiska w prawym górnym rogu wybierz wystąpienie crm, w którym zainstalowano Power Automate rozwiązanie.
+3. Należy utworzyć połączenia, które kojarzą trzy konta użytkowników:
+    - Partner Center z poświadczeniami administratora poleceń
     - Zdarzenia Centrum partnerskiego
-    - Administrator programu CRM z przepływem automatyzacji w rozwiązaniu.
-4. Wybierz pozycję **połączenia** na lewym pasku nawigacyjnym i wybierz z listy rozwiązanie "referencje do Centrum partnerskiego".
+    - Administrator CRM z przepływami Power Automate w rozwiązaniu.
+4. Wybierz **pozycję** Połączenia na pasku nawigacyjnym po lewej stronie i wybierz z listy Partner Center "Polecenia polecenia".
 
-5. Utwórz połączenie, klikając pozycję **Utwórz połączenie**.
+5. Utwórz połączenie, klikając pozycję **Utwórz połączenie.**
 
 :::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Tworzenie połączenia":::
 
-- Wyszukaj Referencje Centrum partnerskiego (wersja zapoznawcza) na pasku wyszukiwania w prawym górnym rogu.
+- Wyszukaj Partner Center polecenia (wersja zapoznawcza) na pasku wyszukiwania w prawym górnym rogu.
 
-- Utwórz połączenie dla użytkownika Centrum partnerskiego z rolą poświadczeń administratora.
+- Utwórz połączenie dla użytkownika Partner Center z rolą poświadczeń administratora poleceń.
 
--  Następnie utwórz połączenie zdarzeń Centrum partnerskiego dla użytkownika Centrum partnerskiego z poświadczeniami administratora odwołań.
+-  Następnie utwórz połączenie Partner Center zdarzeń usługi Partner Center użytkownika przy użyciu poświadczeń administratora poleceń.
 
-- Utwórz połączenie usługi Salesforce dla użytkownika administratora programu CRM.
+- Utwórz połączenie dla usługi Salesforce dla użytkownika administratora CRM.
 
--  Po dodaniu wszystkich połączeń powinny zostać wyświetlone następujące połączenia w danym środowisku:
+-  Po dodaniu wszystkich połączeń w środowisku powinny zostać wyświetlony następujące połączenia:
 
- :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Obserwuj połączenia":::
+ :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Obserwowanie połączeń":::
 
-### <a name="edit-the-connections"></a>Edytuj połączenia
+### <a name="edit-the-connections"></a>Edytowanie połączeń
 
-1. Wróć do strony rozwiązania i wybierz pozycję **domyślne rozwiązanie**.  Wybierz pozycję **odwołanie do połączenia (wersja zapoznawcza)** , klikając pozycję **wszystkie**.
+1. Wróć do strony Rozwiązania i wybierz pozycję **Rozwiązanie domyślne.**  Wybierz **pozycję Odwołanie do połączenia (wersja zapoznawcza),** klikając pozycję **Wszystkie.**
  
-:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Rozpocznij edycję łącznika":::
+:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Rozpoczynanie edycji łącznika":::
 
-2. Edytuj poszczególne połączenia po jednym, wybierając ikonę z trzema kropkami. Dodaj odpowiednie połączenia.
+2. Edytuj poszczególne połączenia, wybierając ikonę z trzema kropkami. Dodaj odpowiednie połączenia.
 
-:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Edytuj łączniki":::
+:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Edytowanie łączników":::
 
 3. Włącz przepływy w następującej kolejności:
 
-- Rejestracja elementu webhook Centrum partnerskiego (wersja zapoznawcza programu testowego)
-- Utwórz odwołanie do towarzyszącej usługi Salesforce do Centrum partnerskiego (wersja zapoznawcza programu testowego)
-- Centrum partnerskie — aktualizacje referencyjne firmy Microsoft do usługi Salesforce (wersja zapoznawcza programu testowego)
-- Centrum partnerskie do usługi Salesforce (wersja zapoznawcza programu testowego)
-- Centrum usług Salesforce dla partnerów partnerskich (wersja zapoznawcza)
-- Okazja do Centrum partnerskiego w usłudze Salesforce (wersja zapoznawcza)
-- Rozwiązania firmy Microsoft do Centrum partnerskiego (wersja zapoznawcza)
+- Partner Center rejestracji webhook (niejawny program testów w wersji zapoznawczej)
+- Tworzenie poleceń do współpracy sprzedaży — salesforce do Partner Center (insider preview)
+- Partner Center Microsoft Co-sell Referral Updates to Salesforce (Insider Preview)
+- Partner Center do usługi Salesforce (niejawny program testów w wersji zapoznawczej)
+- Salesforce to Partner Center (Insider Preview)
+- Salesforce Opportunity to Partner Center (Insider Preview)
+- Salesforce Microsoft Solutions to Partner Center (Insider Preview)
 
-## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Rejestrowanie zdarzeń zmiany zasobów przy użyciu interfejsów API elementu webhook
+## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Używanie interfejsów API elementy webhook do rejestrowania zdarzeń zmiany zasobów
 
-Interfejsy API elementu webhook Centrum partnerskiego umożliwiają rejestrację zdarzeń zmiany zasobów. Te zdarzenia zmiany są wysyłane na adres URL jako wpisy HTTP.
+Interfejsy API Partner Center webhook umożliwiają rejestrowanie zdarzeń zmiany zasobów. Te zdarzenia zmiany są wysyłane na adres URL jako wpisy HTTP.
 
-1. Aby zarejestrować adres URL, wybierz pozycję **rejestracja elementu webhook Centrum partnerskiego (wersja zapoznawcza)** .
+1. Aby zarejestrować swój adres URL, wybierz **Partner Center webhook Registration (Insider Preview)** Power Automate przepływu.
 
-2. Dodaj połączenia dla (a) użytkownika Centrum partnerskiego z poświadczeniami administratora (b.) Centrum partnerskiego, jak zostało to wyróżnione poniżej
+2. Dodaj połączenia dla (a.) Partner Center z poświadczeniami administratora poleceń (b.) Partner Center zdarzenia, jak wyróżnione poniżej
 
    :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Wyzwalacz":::
 
-3. Po wprowadzeniu tych aktualizacji zobaczysz
+3. Po wywłaszceniom tych aktualizacji zobaczysz
 
    :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Elementy webhook":::
 
-4. Zapisz zmiany i wybierz pozycję **Włącz**.
+4. Zapisz zmiany i wybierz pozycję **Włącz.**
 
-   Aby włączyć elementy webhook Centrum partnerskiego do nasłuchiwania zmian zdarzeń, wykonaj następujące czynności:
+   Aby umożliwić Partner Center webhook nasłuchiwać zmian zdarzeń, wykonaj następujące kroki:
 
-5. Wybierz pozycję **Centrum partnerskie w programie Salesforce CRM (wersja zapoznawcza programu testowego)**.
+5. Wybierz **pozycję Partner Center do programu Salesforce CRM (niejawny program testów w wersji zapoznawczej).**
 
-6. Wybierz ikonę **Edytuj** i wybierz, **kiedy zostanie odebrane żądanie HTTP**.
+6. Wybierz **ikonę Edytuj** i wybierz pozycję **Po otrzymaniu żądania HTTP.**
 
-7. Wybierz ikonę **kopiowania** , aby skopiować podany adres URL post protokołu HTTP.
+7. Wybierz **ikonę Kopiuj,** aby skopiować podany adres URL żądania HTTP POST.
 
    :::image type="content" source="images/salesforce/copy-url.png" alt-text="Kopiowanie adresu URL":::
 
-8. Teraz wybierz pozycję "Rejestracja elementu webhook Centrum partnerskiego (wersja zapoznawcza programu testowego)", a następnie wybierz pozycję **Uruchom**.
+8. Teraz wybierz przepływ "Rejestracja Partner Center webhook (niejawny program testów)" i wybierz Power Automate **Uruchom.**
 
-9. Upewnij się, że okno "przebieg przepływu" otwiera się w okienku po prawej stronie, a następnie kliknij przycisk **Kontynuuj**.
+9. Upewnij się, że w okienku po prawej stronie zostanie otwarte okno "Uruchom przepływ", a następnie wybierz pozycję **Kontynuuj.**
 
 10. Wprowadź następujące informacje:
 
-    1. **Punkt końcowy wyzwalacza http**: adres URL skopiowany z wcześniejszego kroku
+    1. **Punkt końcowy wyzwalacza HTTP:** adres URL skopiowany z wcześniejszego kroku
 
-    2. **Zdarzenia do zarejestrowania**: "utworzono odwołanie" i "odwołanie-zaktualizowane"
+    2. **Zdarzenia do zarejestrowania:**"utworzono polecenie" i "polecenie-zaktualizowane"
 
-    3. **Zastąp istniejące punkty końcowe wyzwalacza, jeśli istnieją**: tak (spowoduje to zastąpienie wszystkich istniejących punktów końcowych).
+    3. **Zastąp istniejące punkty końcowe wyzwalacza, jeśli są obecne:** Tak (spowoduje to zastąpienie wszystkich istniejących punktów końcowych).
 
-11. Wybierz pozycję **Uruchom** , a następnie wybierz pozycję **gotowe.**
+11. Wybierz **pozycję Uruchom,** a następnie wybierz pozycję **Gotowe.**
 
-Element webhook może teraz nasłuchiwać zdarzeń tworzenia i aktualizowania.
+Teraz może nasłuchiwać zdarzeń tworzenia i aktualizowania.
 
 ## <a name="customize-synchronization-steps"></a>Dostosowywanie kroków synchronizacji
 
-Po zsynchronizowaniu odwołań między centrum partnerskim i systemem CRM pola, które są synchronizowane na komputerze Centrum partnerskiego, są wyświetlane w tym miejscu.
+Gdy polecenia do współpracy sprzedaży są synchronizowane między Partner Center i systemem CRM, pola, które są synchronizowane na Partner Center PC, są wymienione tutaj.
 
-Często Systemy CRM są wysoce dostosowane. Można dostosować przepływy automatyzacji. Postępuj zgodnie z przewodnikiem mapowania pól i w razie potrzeby wprowadź odpowiednie zmiany w krokach przepływów automatyzacji.  Dostępne są mapowania centrów partnerskich firmy Microsoft do programu CRM, ale w oparciu o środowisko programu CRM można wybrać dalsze Dostosowywanie pól.
+Często systemy CRM są wysoce dostosowane. Możesz dostosować przepływy Power Automate przepływów. Postępuj zgodnie z przewodnikiem mapowania pól i w razie potrzeby wyprowadź odpowiednie zmiany w krokach Power Automate przepływów.  Dostępne są mapowania w centrach partnerskich firmy Microsoft na mapowania CRM, ale w zależności od środowiska CRM możesz zdecydować się na dalsze dostosowywanie pól.
 
-W zależności od potrzeb można dostosować wiele kroków poszczególnych przepływów automatyzacji. Poniżej przedstawiono przykłady dostępnych dostosowań:
+Wiele kroków każdego z przepływów Power Automate można dostosować w zależności od potrzeb. Poniżej przedstawiono przykłady dostępnych dostosowań:
 
-1. Aby dostosować pola dla zdarzeń tworzenia lub aktualizacji w centrum partnerskim do synchronizacji odwołań CRM:
+1. Aby dostosować pola dla zdarzeń tworzenia lub aktualizacji w Partner Center do synchronizacji od skierowań CRM:
 
-   1. Wybierz pozycję Centrum partnerskie w programie Salesforce CRM (wersja zapoznawcza programu testowego).
+   1. Wybierz pozycję Partner Center do programu Salesforce CRM (niejawny program testów w wersji zapoznawczej).
 
-   2. Wybierz pozycję **Edytuj** , aby edytować/dostosować przepływ automatyzacji.
+   2. Wybierz **pozycję Edytuj,** aby edytować/dostosować Power Automate przepływu.
 
-   3. Wybierz **(zakres) zsynchronizuj potencjalnego klienta lub szansę sprzedaży**.
+   3. Wybierz **pozycję (Zakres) Synchronizuj potencjalnego klienta lub szansę sprzedaży.**
 
-2. Aby dostosować mapowania pól programu CRM dla zdarzeń tworzenia, wybierz opcję **Jeśli jest to nowa udostępniona okazja, a następnie**. Wybierz podkrok, **Jeśli tak** , a następnie rozwiń pozycję **Tworzenie nowej szansy sprzedaży w programie CRM**. Mapowania w tej sekcji można edytować za pomocą przewodnika mapowania pól.
+2. Aby dostosować mapowania pól CRM dla zdarzeń tworzenia, wybierz pozycję Jeśli jest to nowa udostępniona szansa **sprzedaży, a następnie pozycję**. Wybierz podetap, **jeśli tak,** a następnie rozwiń **pozycję Tworzenie nowej szansy** sprzedaży w programie CRM . Mapowania można edytować w tej sekcji, korzystając z przewodnika mapowania pól.
 
-   1. Aby dostosować mapowania pól programu CRM dla zdarzeń aktualizacji, kliknij krok "(zakres) zsynchronizuj potencjalny klient lub szansę".
+   1. Aby dostosować mapowania pól CRM dla zdarzeń aktualizacji, wybierz krok "(Zakres) Synchronizowanie potencjalnego klienta lub szansy sprzedaży".
 
-   2. Wybierz **, czy jest to aktualizacja szansy sprzedaży, a następnie**. Wybierz podkrok, **Jeśli tak** , a następnie rozwiń **, jeśli różnica między obiektami szansy sprzedaży w centrum partnerskim i CRM**.  
+   2. Wybierz **pozycję Jeśli jest to aktualizacja szansy sprzedaży, a następnie pozycję**. Wybierz podetap, jeśli **tak, a** następnie rozwiń pozycję Jeśli różnica między obiektami szansy sprzedaży w **programie Partner Center CRM,** a następnie pozycję .  
 
-   3. Wybierz opcję **tak** , po której następuje **Aktualizacja istniejącej szansy sprzedaży**
+   3. Wybierz **pozycję Jeśli tak, a** następnie zaktualizuj **istniejącą szansę sprzedaży**
 
-3. Aby dostosować pola dla programu CRM do synchronizacji odwołań komputera dla zdarzeń aktualizacji:
+3. Aby dostosować pola synchronizacji poleceń systemu CRM na komputerze dla zdarzeń aktualizacji:
 
-   1. Wybierz pozycję **Edytuj**  , aby edytować/dostosować przepływ automatyzacji.
+   1. Wybierz **pozycję Edytuj,**  aby edytować/dostosować Power Automate przepływu.
 
-   2. Wybierz **(zakres) zsynchronizuj szansę sprzedaży**.
+   2. Wybierz **pozycję (Zakres) Zsynchronizuj szansę sprzedaży.**
 
-   3. Aby dostosować mapowania pól programu CRM (w oparciu o Przewodnik po mapowaniu pól) dla zdarzeń aktualizacji, należy wybrać, **czy istnieje różnica między obiektami lidera w centrum partnerskim i CRM, a następnie**.
+   3. W przypadku dostosowywania mapowań pól CRM (na podstawie przewodnika mapowania pól) dla zdarzeń aktualizacji wybierz opcję Jeśli istnieje różnica między obiektami potencjalnych klientów w programie **Partner Center i CRM,** a następnie wybierz pozycję .
 
-   4. Wybierz krok podrzędny, **Jeśli tak** , a następnie rozwiń krok **Aktualizuj odwołanie z danymi o szansie sprzedaży**.
+   4. Wybierz krok podrzędny, **jeśli tak,** a następnie rozwiń krok Aktualizuj odwołanie **przy użyciu danych szansy sprzedaży.**
 
-   Mapowania w tej sekcji można edytować w oparciu o Przewodnik po mapowaniu pól.
+   Mapowania można edytować w tej sekcji na podstawie przewodnika mapowania pól.
 
-4. Aby dostosować pola dla programu CRM do synchronizacji odwołań komputera dla tworzenia zdarzeń?
+4. Aby dostosować pola dla synchronizacji poleceń crm na komputer w celu utworzenia zdarzeń?
 
-   1. Wybierz pozycję **Edytuj**  , aby edytować/dostosować przepływ automatyzacji.
+   1. Wybierz **pozycję Edytuj,**  aby edytować/dostosować Power Automate przepływu.
 
-   2. Wybierz **(zakres) synchronizowanie odwołań.**
+   2. Wybierz **pozycję (zakres) Synchronizowanie poleceń.**
 
-   3. Aby dostosować mapowania pól programu CRM (w oparciu o Przewodnik po mapowaniu pól) dla zdarzeń tworzenia, wybierz pozycję **Utwórz odwołanie do firmy Microsoft**.
+   3. W celu dostosowywania mapowań pól CRM (na podstawie przewodnika mapowania pól) dla zdarzeń tworzenia wybierz pozycję **Utwórz polecenie firmy Microsoft.**
 
-Mapowania w tej sekcji można edytować w oparciu o Przewodnik po mapowaniu pól.
+Mapowania można edytować w tej sekcji na podstawie przewodnika mapowania pól.
 
 
-## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Kompleksowa synchronizacja odwołań dwukierunkowych
+## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>End-to-end bi-directional co-sell referral synchronization
 
-Po zainstalowaniu, skonfigurowaniu i dostosowaniu rozwiązania do automatyzowania gotowości można testować synchronizację odwołań między programem Salesforce CRM a centrum partnerskim.
+Po zainstalowaniu, skonfigurowaniu i dostosowaniu rozwiązania Power Automate można przetestować synchronizację poleceń współsprzedaży między usługą Salesforce CRM i Partner Center.
 
 ### <a name="pre-requisites"></a>Wymagania wstępne
 
-Aby zsynchronizować odwołania w centrum partnerskim i programie Salesforce CRM, rozwiązanie do automatyzowania oprogramowania musi wyraźnie oddzielić pola referencyjne specyficzne dla firmy Microsoft. Ta identyfikacja zapewnia zespołom sprzedawcy możliwość decydowania, które odwołania chcą udostępnić firmie Microsoft w celu współsprzedaży.
+Aby zsynchronizować polecenia w usługach Partner Center i Salesforce CRM, Power Automate rozwiązanie musi wyraźnie rozdysmarować pola poleceń specyficzne dla firmy Microsoft. Ta identyfikacja zapewnia zespołom sprzedawców możliwość decydowania o tym, które polecenia chcą udostępnić firmie Microsoft w celu współpracy sprzedaży.
 
-Zestaw pól niestandardowych jest dostępny w ramach synchronizacji odwołań Centrum partnerskiego dla jednostki **szansy sprzedaży** rozwiązania w usłudze Salesforce CRM. Użytkownik będący administratorem programu CRM musi utworzyć osobną sekcję CRM z polami niestandardowymi **szansy sprzedaży** .
+Zestaw pól niestandardowych jest dostępny w ramach jednostki Partner Center Referrals Synchronization for Salesforce CRM solution **Opportunity** (Synchronizacja poleceń dla rozwiązania CRM usługi Salesforce). Administrator systemu CRM musi utworzyć oddzielną sekcję CRM z niestandardowymi polami **Szansa** sprzedaży.
 
 Następujące pola niestandardowe powinny być częścią sekcji CRM:
 
-- **Synchronizuj z centrum partnerskim**: czy synchronizować szansę sprzedaży z Centrum partnerskiego firmy Microsoft
+- **Synchronizacja z Partner Center:** czy zsynchronizować możliwość sprzedaży z usługą Microsoft Partner Center
 
-- **Identyfikator odwołania**: pole identyfikatora tylko do odczytu dla odwołania do Centrum partnerskiego firmy Microsoft
+- **Identyfikator polecenia:** pole identyfikatora tylko do odczytu dla poleceń Partner Center Microsoft
 
-- **Link do odwołania**: link tylko do odczytu do odwołania w centrum partnerskim firmy Microsoft
+- **Link do poleceń:** link tylko do odczytu do polecenia w aplikacji Microsoft Partner Center
 
-- **Jak może pomóc firma Microsoft**: pomoc wymagana przez firmę Microsoft do odwołania
+- **Jak firma Microsoft może pomóc:** wymagana przez firmę Microsoft pomoc w przypadku polecenia
 
-- **Produkty**: Lista produktów skojarzonych z tą szansą sprzedaży
+- **Produkty:** lista produktów skojarzonych z tą szansą sprzedaży
 
-- **Inspekcja**: dziennik inspekcji tylko do odczytu na potrzeby synchronizacji z odwołaniami do Centrum partnerskiego
+- **Inspekcja:** dziennik inspekcji tylko do odczytu do synchronizacji z Partner Center poleceniami
 
-### <a name="scenarios"></a>SYTUACJI
+### <a name="scenarios"></a>Scenariuszy:
 
-1. Synchronizacja odwołań podczas tworzenia lub aktualizowania odwołania w programie CRM oraz synchronizowanie w centrum partnerskim:
+1. Synchronizacja poleceń, gdy polecenia są tworzone lub aktualizowane w systemie CRM i synchronizowane w Partner Center:
 
-   1. Zaloguj się do środowiska usługi Salesforce CRM przy użyciu użytkownika, który ma widoczność w sekcji **szansa sprzedaży** w programie CRM.
+   1. Zaloguj się do środowiska CRM usługi Salesforce przy użyciu użytkownika, który ma wgląd w **sekcję Opportunity** (Szansa sprzedaży) w chmurze CRM.
 
-   2. Upewnij się, że Poniższa sekcja jest obecna podczas tworzenia nowej szansy sprzedaży w środowisku programu Salesforce CRM
+   2. Upewnij się, że podczas tworzenia nowej szansy sprzedaży w środowisku CRM usługi Salesforce jest obecna następująca sekcja
 
-      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Środowisko Salesforce":::
+      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Środowisko usługi Salesforce":::
 
-   3. Aby zsynchronizować tę szansę sprzedaży z centrum partnerskim firmy Microsoft, upewnij się, że ustawisz następujące pola w widoku karty:
+   3. Aby zsynchronizować tę możliwość z usługą Microsoft Partner Center, należy ustawić następujące pola w widoku karty:
 
-       - "Synchronizuj z centrum partnerskim": tak
-       - "Jak mogę pomóc firmie Microsoft?": Wybierz jedną z następujących opcji:
+       - "Synchronizuj z Partner Center": Tak
+       - "Jak firma Microsoft może pomóc?": Wybierz jedną z następujących opcji:
        - Produkty: identyfikatory rozwiązań produktu
 
-   4. Po ustawieniu opcji  **Synchronizuj z centrum partnerskim** na **wartość tak**, odczekaj 10 minut, zaloguj się na swoim koncie Centrum partnerskiego. Twoje odwołania zostaną zsynchronizowane z programem Salesforce CRM.
+   4. Po skonfigurowaniu opcji synchronizacji szansy sprzedaży  **z opcją Partner Center** tak zaczekaj 10 minut, zaloguj się do Partner Center magazynu. Twoje polecenia zostaną zsynchronizowane z programem Salesforce CRM.
 
-   5. Jeśli opcja "Synchronizuj z centrum partnerskim" jest ustawiona na wartość "tak", po zaktualizowaniu szansy sprzedaży w programie Salesforce CRM zmiany zostaną zsynchronizowane z kontem Centrum partnerskiego.
+   5. Gdy opcja "Synchronizuj z Partner Center" jest ustawiona na wartość "Tak", jeśli zaktualizujemy możliwość w programie Salesforce CRM, zmiany zostaną zsynchronizowane z twoim Partner Center magazynu.
 
-   6. Pomyślnie zsynchronizowane szanse sprzedaży z Centrum partnerskiego zostaną oznaczone ikoną ✔ w programie Salesforce CRM.
+   6. Szanse sprzedaży, które zostały pomyślnie zsynchronizowane z Partner Center, zostaną zidentyfikowane za pomocą ✔icon w programie Salesforce CRM.
 
-2. Synchronizacja odwołań po utworzeniu lub zaktualizowaniu odwołania w centrum partnerskim firmy Microsoft i zsynchronizowaniu w środowisku usługi Salesforce CRM:
+2. Synchronizacja poleceń, gdy polecenia są tworzone lub aktualizowane w programie Microsoft Partner Center i synchronizowane w środowisku CRM usługi Salesforce:
 
-    1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home)Centrum partnerskiego.
+    1. Zaloguj się do swojego Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard/home)
 
-    2. Wybierz **odwołania** z menu po lewej stronie.
+    2. Wybierz **pozycję Polecenia** z menu po lewej stronie.
 
-    3. Utwórz nowe odwołanie towarzyszące w centrum partnerskim, klikając pozycję "Nowa transakcja".
+    3. Utwórz nowe polecenie co-sell z Partner Center klikając opcję "Nowa transakcja".
 
-    4. Zaloguj się do środowiska usługi Salesforce CRM.
+    4. Zaloguj się do środowiska CRM usługi Salesforce.
 
-    5. Przejdź do **okna Otwórz szanse sprzedaży**. Odwołanie utworzone w Centrum partnerskiego firmy Microsoft jest teraz synchronizowane w programie Salesforce CRM.
+    5. Przejdź do **okna Otwarte szanse sprzedaży.** Polecenia utworzone w programie Microsoft Partner Center są teraz synchronizowane w programie Salesforce CRM.
 
-       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Ekran możliwości usługi Salesforce":::
+       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Ekran szans sprzedaży usługi Salesforce":::
 
-    6. Po wybraniu synchronizowanego odwołania są wypełniane szczegóły widoku karty.
+    6. Po wybraniu zsynchronizowanego polecenia zostaną wypełnione szczegóły widoku karty.
 
 ## <a name="next-steps"></a>Następne kroki
 

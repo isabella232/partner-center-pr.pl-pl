@@ -1,41 +1,44 @@
 ---
-title: Samoobsługowe wsparcie klienta
+title: Samoobsługowa pomoc dla klienta
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, kiedy i gdzie klienci mogą przeprowadzić Samoobsługowe zarządzanie własnymi kontami oraz kiedy należy skontaktować się z partnerem dostawcy rozwiązań w chmurze.
+description: Dowiedz się, kiedy i gdzie klienci mogą samodzielnie zarządzać swoimi kontami i kiedy powinni kontaktować się ze swoim Dostawca rozwiązań w chmurze partnerem.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e4224df0393e8a9bd06204e0e9667069fb7e64e8
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 51936e900374e4213d0eb40fe2dc90d813e81582
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92529305"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284183"
 ---
-# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Samoobsługowe wsparcie dla klientów za pomocą Centrum administracyjnego Microsoft Office 365 lub Azure Portal
+# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Samodzielne wsparcie klienta za pośrednictwem Microsoft Office administracyjnego usługi 365 lub za pośrednictwem Azure Portal
 
 **Dotyczy**
 
--  Centrum partnerskie
--  Centrum partnerskie dla Microsoft Cloud dla instytucji rządowych USA
+- Centrum partnerskie Microsoft Cloud for US Government
 
-Klienci mogą zalogować się do własnego centrum administracyjnego w Microsoft Office 365 lub do Azure Portal w celu zarządzania swoimi kontami:
+**Odpowiednie role**
 
--   Wyświetlanie komunikacji i powiadomień w ramach produktu, takich jak informacje o kondycji usługi, w centrum wiadomości.
+- Agent pomocy technicznej
 
--   Wykonaj całą konfigurację usługi i zadania administracyjne, tak jakby zakupione bezpośrednio od firmy Microsoft. Obejmuje to Konfigurowanie usługi Exchange Online, SharePoint Online, Skype dla firm lub innych usług, które zostały zakupione.
+Klienci mogą zalogować się do własnego centrum administracyjnego Microsoft Office 365 lub do Azure Portal, aby zarządzać własnymi kontami:
 
-Aby kupić dodatkowe subskrypcje lub anulować ich subskrypcje, klienci powinni skontaktować się z partnerem dostawcy rozwiązań w chmurze. Klienci nie mogą zmieniać własnych subskrypcji bezpośrednio z firmą Microsoft.
+- Wyświetl informacje o komunikacji i powiadomieniach w produkcie, takie jak informacje o kondycji usługi, w Centrum wiadomości.
 
-Gdy klienci potrzebują pomocy dotyczącej produktów, mogą znaleźć zasoby produktów w [pomocy technicznej](https://partnercenter.microsoft.com/partner/support). Zachęcamy partnerów do wskazywania klientom tych zasobów jako pierwszy krok.
+- Wykonaj wszystkie zadania administracyjne i konfigurację usługi tak, jakby zostały zakupione bezpośrednio od firmy Microsoft. Te zadania obejmują konfigurowanie usług Exchange Online, SharePoint Online, Skype dla firm lub innych zakupionych usług.
 
- 
+Aby kupić dodatkowe subskrypcje lub anulować subskrypcje, klienci powinni skontaktować się ze swoim Dostawca rozwiązań w chmurze partnerem. Klienci nie mogą zmieniać własnych subskrypcji bezpośrednio z firmą Microsoft.
 
- 
+Jeśli klienci potrzebują pomocy dotyczącej produktów, mogą znaleźć zasoby produktów na stronie [pomocy technicznej](https://partnercenter.microsoft.com/partner/support). Zachęcamy partnerów, aby w pierwszym kroku wskazali swoim klientom te zasoby.
+
+ 
+
+ 
 
 
 

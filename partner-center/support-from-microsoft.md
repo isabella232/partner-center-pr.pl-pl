@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a22dd2a8ec8ce3da3aa0967741685a2f28cc0a15
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: e863a5dbb86dae2c1cd3395589b4d4318eb0dba1
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002811"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284149"
 ---
 # <a name="support-from-microsoft"></a>Pomoc techniczna od firmy Microsoft
 
@@ -24,7 +24,7 @@ ms.locfileid: "108002811"
 
 **Odpowiednie role**
 
-- Agent pomocy
+- Agent pomocy technicznej
 
 Jeśli masz problemy z usługą firmy Microsoft lub usługą Partner Center, możesz zgłosić problem firmie Microsoft, eskalować problem do firmy Microsoft w celu pomocy i śledzić problem do momentu jego rozwiązania.
 

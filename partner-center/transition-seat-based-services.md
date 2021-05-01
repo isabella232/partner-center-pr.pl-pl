@@ -1,6 +1,6 @@
 ---
-title: Przenoszenie klientów korzystających z licencji do programu CSP
-description: Dowiedz się, jak przenosić klientów opartych na licencjach z innych kanałów lub innego partnera do programu w programie partnerskim przy użyciu dostawcy rozwiązań w chmurze.
+title: Przenoszenie klientów opartych na licencjach do programu CSP
+description: Dowiedz się, jak przenieść klientów opartych na licencjach z innych kanałów lub innego partnera do programu Dostawca rozwiązań w chmurze (CSP) w Partner Center.
 ms.topic: how-to
 ms.date: 06/30/2020
 ms.service: partner-dashboard
@@ -9,42 +9,48 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ebcd04e5612de350e103cbfd5f8c7e272c19a785
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: deda7a351c79636dfb11c002810a8510782aca6d
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768690"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284455"
 ---
-# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Przenoszenie klientów opartych na licencjach z innych kanałów & partnerów do programu dostawcy rozwiązań w chmurze
+# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Przenoszenie klientów opartych na licencjach z innych kanałów & partnerów do programu Dostawca rozwiązań w chmurze licencji
 
-Jeśli klient chce zatrudniać wielu partnerów, przenieść swoje subskrypcje do innego partnera lub zarządzać swoimi subskrypcjami w innym miejscu, można przenieść je ręcznie. Klientów można również przenosić do Centrum partnerskiego z innego kanału.
+**Odpowiednie role**
 
-## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Przenoszenie subskrypcji na podstawie licencji klienta do programu dostawcy rozwiązań w chmurze (CSP)
+- Administrator konta
+- Agent sprzedaży
+- Agent rozliczeń
 
-1. Wybierz pozycję **klienci** z menu Centrum partnerskiego, a następnie wybierz pozycję **Żądaj relacji odsprzedawcy**. Aby zapewnić obsługę kont wielokanałowych, należy wykonać tę samą czynność.
+Jeśli klient chce zatrudnić wielu partnerów, przenieść swoje subskrypcje do innego partnera lub zarządzać subskrypcjami zakupionymi w innym miejscu, możesz przenieść ich ręcznie. Możesz również przenieść klientów do Partner Center z innego kanału.
 
-2. Po zaakceptowaniu zaproszenia przez klienta będziesz mieć możliwość aprowizacji żądanych subskrypcji i licencji dla klienta (na przykład ten sam pakiet Office 365, który zakupił wcześniej klienta).
+## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Przenoszenie subskrypcji opartych na licencjach klienta do programu Dostawca rozwiązań w chmurze Program (CSP)
 
-3. Klient może zezwolić na wygaśnięcie oryginalnych subskrypcji lub zrezygnować z nich. Jednak ponieważ nie ma żadnych refundacji dla anulowanych subskrypcji, najlepszym rozwiązaniem jest poczekanie, aż subskrypcje wkrótce wygasną.
+1. Wybierz **pozycję Customers** (Klienci) Partner Center menu, a następnie wybierz pozycję Request a reseller relationship **(Zażądaj relacji odsprzedawcy).** Aby zapewnić obsługę kont wielokanałowych, należy wykonać to samo.
+
+2. Po zaakceptowaniu zaproszenia przez klienta będzie można aprowizować żądane subskrypcje i licencje dla klienta (na przykład tę samą ofertę usługi Office 365, która została zakupiona wcześniej).
+
+3. Klient może zezwolić na wygaśnięcie oryginalnych subskrypcji lub anulować je. Ponieważ jednak nie ma żadnych zwrotów za anulowane subskrypcje, najlepiej poczekać, aż subskrypcje wygasną w pobliżu naturalnych dat wygaśnięcia.
 
 
    >[!NOTE]
-   >Klient może ubiegać się o kredyt w przypadku zakupionego za pośrednictwem portalu administracyjnego Microsoft 365 (M365) (na przykład przez comiesięczne lub roczne rozliczenia od firmy Microsoft). Kredyty za subskrypcje zakupione bezpośrednio od firmy Microsoft są obsługiwane przez **obsługę rozliczeń M365**. Zobacz M365 wskazówki dotyczące [anulowania subskrypcji M365](/microsoft-365/commerce/subscriptions/cancel-your-subscription). Jeśli masz uprawnienia administratora delegowanego dla klienta, możesz skontaktować się z pomocą techniczną M65 w imieniu klienta. Jeśli nie, skontaktuj się z klientem, aby skontaktować się z pomocą techniczną M365 bezpośrednio, aby dowiedzieć się, ile środków podlega kwalifikowaniu, oraz sposobu ich przyznania. Przeczytaj informacje o [uprawnieniach delegowanego administratora](customers-revoke-admin-privileges.md).
+   >Klient może kwalifikować się do otrzymania środków, jeśli został zakupiony za pośrednictwem portalu administracyjnego usługi Microsoft 365 (M365) (na przykład w ramach rozliczeń miesięcznych lub miesięcznych bezpośrednio od firmy Microsoft). Środki na subskrypcje zakupione bezpośrednio od firmy Microsoft są obsługiwane przez pomoc techniczną rozliczeń **platformy M365.** Zobacz wskazówki dotyczące usługi M365 dotyczące anulowania [subskrypcji M365.](/microsoft-365/commerce/subscriptions/cancel-your-subscription) Jeśli masz delegowane uprawnienia administracyjne dla klienta, możesz skontaktować się z pomocą techniczną M65 w imieniu klienta. Jeśli tak nie jest, poproś klienta o bezpośredni kontakt z pomocą techniczną M365, aby dowiedzieć się, do i w jaki sposób zostaną mu one nadane. Przeczytaj informacje [na temat delegowanych uprawnień administratora.](customers-revoke-admin-privileges.md)
 
 
-4. Klient będzie kontynuował pracę z subskrypcjami, które zostały udostępnione bez przeszkód.
+4. Następnie klient będzie kontynuować pracę z subskrypcjami, które zostały zaaprowizowane bez zakłóceń.
 
-Jeśli zainicjujesz te same oferty, które są używane przez klienta, nie trzeba ponownie przypisywać licencji i nie będzie zakłócać użytkowników końcowych. Oferty muszą być takie same, aby zapewnić, że nie nastąpi utrata danych. Tak długo, jak łączna liczba licencji pozostaje taka sama, a oferta jest równoważna, klienci nie będą mieć żadnego wpływu.
+Jeśli aprowizujesz te same oferty, z których korzysta klient, nie ma potrzeby ponownego przypisania licencji i nie będzie żadnych zakłóceń dla użytkowników końcowych. Oferty muszą być takie same, aby zapewnić, że nie nastąpi utrata danych. Tak długo, jak łączna liczba licencji pozostaje taka sama, a oferta jest równoważna, klienci nie będą mieć żadnego wpływu.
 
 Jeśli przeniesiesz klientów w ramach ofert, które nie są już obsługiwane, musisz znaleźć równoważną ofertę, aby zapobiec utracie danych. Jeśli przeniesiesz klienta do innej oferty, musisz zaktualizować jego przypisanie licencji.
 
 >[!NOTE]
-> Partner programu CSP musi znajdować się w tym samym regionie, w którym znajduje się dzierżawa klienta, aby przenieść tego klienta do Ciebie.
+> Ty, partner programu CSP, musisz znajdować się w tym samym regionie co dzierżawa klienta, aby przesunić tego klienta do Ciebie.
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Zacznij korzystać z stawek płatność zgodnie z rzeczywistym użyciem z planem platformy Azure](azure-plan-get-started.md)
+- [Rozpoczynanie korzystania ze stawek płatności zgodnie z użyciem w planie platformy Azure](azure-plan-get-started.md)
  
 
-- [Różne sposoby pracy z innymi partnerami w centrum partnerskim](work-with-other-partners.md)
+- [Różne sposoby pracy z innymi partnerami w Partner Center](work-with-other-partners.md)

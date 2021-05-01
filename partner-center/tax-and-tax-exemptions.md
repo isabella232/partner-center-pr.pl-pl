@@ -1,70 +1,73 @@
 ---
-title: Podatki regionalne i zwolnienia podatkowe
+title: Podatki regionalne i zwolnienia z podatku
 ms.topic: article
 ms.date: 03/05/2021
-description: W przypadku partnerów programu CSP zapoznaj się z obowiązkami podatkowymi na region, jak przesłać zwolnienia podatkowe dla sprzedaży CSP oraz jak uzyskać pomoc techniczną dotyczącą pytań podatkowych.
+description: W przypadku partnerów programu CSP dowiedz się więcej o obowiązkach podatkowych w poszczególnych regionach, o tym, jak przesyłać zwolnienia z podatku dla sprzedaży WSP i jak uzyskać pomoc techniczną w przypadku pytań podatkowych.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 515591f37cb15e8af69acf8d30affd9300429e42
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247676"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284472"
 ---
-# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Przeczytaj informacje na temat podatków i szczegółów zwolnienia z podatku według regionu lub kraju dla partnerów w programie CSP
+# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Przeczytaj o podatkach i szczegółach zwolnienia z podatku według regionu lub kraju dla partnerów w programie CSP
 
+**Odpowiednie role**
 
-Program Cloud Solution Provider (CSP) jest kanałem sprzedaży skoncentrowanym na odsprzedaży od partnera produktów. W związku z tym firma Microsoft nie zawsze musi naliczać podatek od sprzedaży na fakturach partnerów. Reguły różnią się w zależności od kraju i/lub regionu. Można przejrzeć [szczegóły dotyczące kraju i specyficzne dla regionu dla zwolnień podatkowych](#country-and-region-tax-details).
+- Administrator globalny
 
-Powspółpracuje z doradcą podatkowym, aby [wykluczać podatki](#file-a-tax-exemption) na podstawie lokalizacji i lokalizacji klientów.
+Program Dostawca rozwiązań w chmurze (CSP) to kanał sprzedaży ukierunkowany na partnera i produkty. W związku z tym firma Microsoft nie zawsze musi naliczać podatek od sprzedaży na fakturach partnerów. Reguły różnią się w zależności od kraju i/lub regionu. Możesz zapoznać się ze szczegółami dla poszczególnych krajów i [regionów, aby uzyskać informacje o zwolnieniach z podatku.](#country-and-region-tax-details)
 
-## <a name="country-and-region-tax-details"></a>Szczegóły podatku kraju i regionu
+We współpracy z [](#file-a-tax-exemption) doradcą podatkowym zamień zwolnienia z podatku na podstawie twojej lokalizacji i lokalizacji klientów.
 
-Określone informacje dotyczące podatku są dostępne dla Kanady i Stany Zjednoczone. W przypadku Tajwanu i Korei zobacz [szczegóły dotyczące podatków](#tax-receipts-and-daf).
+## <a name="country-and-region-tax-details"></a>Szczegóły podatku dla kraju i regionu
 
-Jeśli jesteś w innym kraju lub regionie, w którym są naliczane podatki, zobacz [Informacje o innych regionach](#other-regions).
+Określone informacje dotyczące podatków są dostępne dla Kanady i Stany Zjednoczone. W przypadku Tajwanu i Korei zobacz [szczegóły dotyczące paragonów podatkowych](#tax-receipts-and-daf).
+
+Jeśli jesteś w innym kraju lub regionie, w którym naliczane są podatki, zobacz [informacje dotyczące innych regionów.](#other-regions)
 
 
 ### <a name="canada"></a>Kanada
 
-Większość odsprzedawca nie jest wykluczona z GST (/HST/QST. Zapoznaj się z doradcą podatkowym, aby określić, czy masz kwalifikacje do wykluczenia i dokumentacji, którą należy dostarczyć firmie Microsoft.
+Większość odsprzedawców nie jest wykluczona z GST/HST/QST. Skonsultuj się z doradcą podatkowym, aby ustalić, czy masz kwalifikację do zwolnienia i jaką dokumentację należy przekazać firmie Microsoft.
 
-W przypadku zwolnienia z pliku w formacie BC należy wykluczać zwolnienie podatkowe zgodnie z opisem. Podaj certyfikat w pliku PST # lub zakończono i podpisany *certyfikatu wykluczenia*.
+W przypadku zwolnienia z BC PST należy złożyć wyjątek podatkowy zgodnie z opisem. Podaj swój plik PST aplikacji BC# lub ukończony i podpisany *certyfikat generalny zwolnienia.*
 
 ### <a name="united-states"></a>Stany Zjednoczone
 
-Wszyscy odsprzedawcy w Stany Zjednoczone powinni udostępnić dokumentację zwolnienia z podatku w ciągu 30 dni od zaakceptowania umowy odsprzedawcy firmy Microsoft. Każdy stan ma inne certyfikaty zwolnienia do odsprzedaży. Skontaktuj się z doradcą podatkowym, aby określić, co jest istotne dla Twojego adresu prawnego i zarejestrowanych Stanów.
+Wszyscy odsprzedawcy w Stany Zjednoczone powinny udostępnić dokumentację dotyczącą zwolnienia z podatku od sprzedaży w ciągu 30 dni od zaakceptowania umowy odsprzedawcy firmy Microsoft. Każdy stan ma inne certyfikaty zwolnienia dla każdego z nich. We współpracy z doradcą podatkowym ustal, co jest istotne dla Twojego adresu prawnego i zarejestrowanych stanów.
 
-Mogą to być między innymi certyfikaty zwolnienia z tytułu odsprzedaży, które działają w wielu stanach, takich jak *uproszczony adres sprzedaży* i *użycie certyfikatu opodatkowania* , *MTC Uniform Sales & używać certyfikatu zwolnienia z podatku*.
+Może to obejmować certyfikaty zwolnienia z podatku,  które działają  w wielu stanach, takich jak uproszczona sprzedaż i korzystanie z certyfikatu zwolnienia z umowy podatkowej lub ujednolicony certyfikat sprzedaży *MTC &* użyj certyfikatu zwolnienia z podatku.
 
 ### <a name="other-regions"></a>Inne regiony
 
-Jeśli jesteś w innym kraju lub regionie, który nalicza opłaty, [Poproś o pomoc techniczną w centrum partnerskim](#support) .
+Jeśli jesteś w innym kraju lub regionie, w którym naliczane [są](#support) podatki, poproś o pomoc Partner Center pomocy technicznej w przypadku pytań.
 
 ## <a name="tax-receipts-and-daf"></a>Dokumenty do celów podatkowych i DAF
 
-Paragony podatkowe (w przypadku Tajwanu lub Korei) lub DAF zwykle wymagają dwóch tygodni po wygenerowaniu faktury.
+Paragony podatkowe (dla Wietnamu lub Korei) lub SYSTEM ONE zwykle wymagają dwutygodniowego czasu od generowania faktury.
 
-## <a name="file-a-tax-exemption"></a>Wykluczanie podatku
+## <a name="file-a-tax-exemption"></a>File a tax exemption (Jak złożyć zwolnienie z podatku)
 
-Przed zainstalowaniem zwolnienia podatkowego upewnij się, że rozumiesz następujące kwestie:
+Przed zgłoszeniem zwolnienia z podatku upewnij się, że rozumiesz następujące kwestie:
 
-- Należy zaplikować zwolnienia podatkowe dla każdej dzierżawy dostawcy usług kryptograficznych.
+- Musisz złożyć zwolnienie z podatku dla każdej dzierżawy programu CSP.
 
-- Musisz przesłać numer NIP lub numer identyfikacyjny federalnego pracodawcy (FEIN). Ta liczba jest zwykle wyświetlana w certyfikacie podatkowym.
+- Musisz przesłać numer nip lub numer identyfikacyjny federalnego pracodawcy (FEIN, Federal Employer Identification Number). Ten numer zazwyczaj pojawia się w certyfikacie podatkowym.
 
-- W zależności od kraju, regionu lub stanu, Twoje zwolnienia podatkowe zawierają wytyczne prawne, które są specyficzne dla lokalnego działu dochodów podatkowych (lub podobnego działu) i muszą być odpowiednio zarządzane. Chociaż wiele lokalizacji ma zbiorcze certyfikaty podatkowe, które są odnawiane corocznie, niektóre lokalizacje mogą zostać odnowione co najmniej dwa lata. Należy sprawdzić te i inne informacje, sprawdzając certyfikat lub kontaktując się z lokalnym urzędem podatkowym.
+- W zależności od kraju, regionu lub stanu zwolnienie z podatku od sprzedaży ma wytyczne prawne, które są specyficzne dla lokalnego działu przychodów podatkowych (lub podobnego działu) i muszą być odpowiednio zarządzane. Wiele lokalizacji ma certyfikaty podatkowe, które są odnawiane co roku, ale niektóre lokalizacje mogą być odnawiane co najmniej dwa lata. Należy sprawdzić te i inne informacje, sprawdzając certyfikat lub kontaktując się z lokalnym urzędem podatkowym.
 
-Gdy wszystko jest gotowe do wykluczania podatku, należy otworzyć bilet z [Pomoc techniczna firmy Microsoft](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=92930319-ced6-c18b-d7a6-d62b22d60aa5) i podać odpowiednie informacje.
+Gdy wszystko będzie gotowe do zgłoszenia zwolnienia z podatku, otwórz bilet z Pomoc techniczna Microsoft [i](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=92930319-ced6-c18b-d7a6-d62b22d60aa5) podać odpowiednie informacje.
 
 ## <a name="support"></a>Pomoc techniczna
 
-Pytania dotyczące zwolnień podatkowych i zwrotów oraz innych pytań związanych z podatkiem Zażądaj wsparcia w centrum partnerskim. Poproś firmę Microsoft o dwa tygodnie, aby skontaktować się z Tobą i rozwiązać problem.
+W przypadku pytań dotyczących zwolnienia z podatku i zwrotów podatku lub innych pytań związanych z podatkami poproś o pomoc techniczną Partner Center. Pozwól firmie Microsoft na skontaktowanie się z Tobą przez dwa tygodnie i rozwiązanie problemu.
 
 ## <a name="next-steps"></a>Następne kroki
 

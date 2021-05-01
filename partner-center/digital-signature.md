@@ -4,53 +4,57 @@ ms.topic: how-to
 ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, w jaki sposób partnerzy Centrum partnerskiego w Indiach mogą wyświetlać podpisane cyfrowo faktury i otrzymywać cyfrowe kopie faktur dla zamówień utworzonych w centrum partnerskim.
+description: Dowiedz się, Partner Center partnerzy w Indiach mogą wyświetlać faktury podpisane cyfrowo i odbierać cyfrowe kopie faktur dla zamówień utworzonych w Partner Center.
 author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0696a3820a873ca213b4c2e0be847c0518095466
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b0d8a560c048f1a1dbb783560cf419145754a6fe
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92530388"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284302"
 ---
-# <a name="view-digitally-signed-invoices"></a>Wyświetl faktury podpisane cyfrowo
+# <a name="view-digitally-signed-invoices"></a>Wyświetlanie faktur podpisanych cyfrowo
 
 **Dotyczy**
 
-- Centrum partnerskie
-- Centrum partnerskie Indie
+- Partner Center Indie
+
+**Odpowiednie role**
+
+- Administrator konta
+- Agent rozliczeń
+- Agent sprzedaży
+
+Partnerzy w Indiach widzą teraz, że firma Microsoft ma podpisane cyfrowo faktury. Aby wyświetlić podpis, należy użyć rozwiązania Adobe Acrobat Reader Document Cloud (DC).
+
+## <a name="how-to-view-and-insure-a-valid-digital-signature"></a>Sposób wyświetlania i sprawdzania prawidłowego podpisu cyfrowego
 
 
-Partnerzy w Indiach widzą teraz, że firma Microsoft ma podpisane cyfrowo faktury. Aby wyświetlić podpis, należy użyć programu Adobe Acrobat Reader Document Cloud (DC).
-
-## <a name="how-to-view-and-insure-a-valid-digital-signature"></a>Jak wyświetlić i upewnić się, że prawidłowy podpis cyfrowy
+1. Jeśli zamówienie utworzono w Partner Center, otrzymasz cyfrową kopię faktury w wiadomości e-mail. Wybierz fakturę, która zostanie otwarta z poziomu programu Adobe Acrobat Reader DC.
 
 
-1. Jeśli zamówienie zostało utworzone w centrum partnerskim, otrzymasz cyfrową kopię faktury w wiadomości e-mail. Wybierz fakturę, która zostanie otwarta z poziomu programu Adobe Acrobat Reader DC.
-
-
-2. W górnej części faktury powinna zostać wyświetlona wartość **podpisane i wszystkie podpisy są prawidłowe** .
+2. W górnej części faktury powinna zostać wyświetlony podpis i **wszystkie podpisy są prawidłowe.**
  
- :::image type="content" source="images/digitalsig/digital1.png" alt-text="Przykładowa faktura z prawidłowym banerem powiadomienia o podpisie wyświetlającym zielony podpis znacznika wyboru i frazę z napisem":::
+ :::image type="content" source="images/digitalsig/digital1.png" alt-text="Przykładowa faktura z prawidłowym transparentem powiadomienia o podpisie z podpisem z zielonym znacznikiem wyboru i frazą z informacją o tym, że podpis i wszystkie podpisy są prawidłowe.":::
 
-3. Kliknij podpis. Zostanie wyświetlony certyfikat z informacją o ważności.
+3. Wybierz podpis. Zostanie wyświetlony certyfikat z informacją o ważności.
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="Przykładowa faktura z prawidłowym banerem powiadomienia o podpisie wyświetlającym zielony podpis znacznika wyboru i frazę z napisem"::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="Podpisana faktura z polem Autoryzowany podpis i stanem weryfikacji podpisu, okno dialogowe ze szczegółami, opcja Właściwości sygnatury, opcja Anuluj."::: 
 
-4. Wybierz pozycję **właściwości podpisu** , aby wyświetlić więcej szczegółów dotyczących ważności podpisu.
+4. Wybierz **pozycję Właściwości sygnatury,** aby wyświetlić więcej szczegółów dotyczących ważności sygnatury.
 
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="Przykładowa faktura z prawidłowym banerem powiadomienia o podpisie wyświetlającym zielony podpis znacznika wyboru i frazę z napisem"::: 
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="Widok szczegółów właściwości sygnatur zawiera informacje o tym, kto, gdzie, kiedy dokument został podpisany, proces jego weryfikacji i certyfikat osoby podpisujące."::: 
 
-4. Możesz również upewnić się, że ścieżki certyfikacji są poprawne i że certyfikat jest zaufany.
+4. Można również upewnić się, że ścieżki certyfikacji są poprawne i że certyfikat jest zaufany.
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="Przykładowa faktura z prawidłowym banerem powiadomienia o podpisie wyświetlającym zielony podpis znacznika wyboru i frazę z napisem":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="Okno dialogowe Podgląd certyfikatów zawiera kilka kart z większej liczby szczegółów dotyczących certyfikatu i całego jego łańcucha wystawiania.":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>Dodatkowe informacje na temat faktur i podpisów cyfrowych
 
-Kopia cyfrowa będzie wysyłana do osoby, która utworzyła zamówienie w centrum partnerskim. Nie można uzyskać faktur podpisanych cyfrowo dla faktur, które zostały wystawione przed 17 lipca 2020. Ponadto ręcznie podpisane faktury nie będą dostępne.
+Kopia cyfrowa zostanie wysyłana do osoby, która utworzyła zamówienie w Partner Center. Nie można uzyskać podpisanych cyfrowo faktur za faktury wystawione przed 17 lipca 2020 r. Ponadto ręcznie podpisane faktury nie będą dostępne.
 
 ## <a name="next-steps"></a>Następne kroki
 

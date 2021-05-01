@@ -4,31 +4,34 @@ ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, w jaki sposób firma Microsoft oczekuje komunikacji klientów między klientami i partnerami w programie dostawcy rozwiązań w chmurze.
+description: Dowiedz się, w jaki sposób firma Microsoft oczekuje komunikacji z klientami w ramach programu Dostawca rozwiązań w chmurze partnerów.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 7b4e244a090b401afe2b0c86a532f5ecc6b5a154
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6de0d50364930999a7d0f335016a7c5a1864d8ab
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "92529453"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284353"
 ---
-# <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Wskazówki dotyczące pomyślnej komunikacji klienta z firmą Microsoft
+# <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Wskazówki dotyczące pomyślnej komunikacji z firmą Microsoft
 
 **Dotyczy**
 
--  Centrum partnerskie
--  Centrum partnerskie dla Microsoft Cloud dla instytucji rządowych USA
+- Centrum partnerskie Microsoft Cloud for US Government
 
-Ogólnie rzecz biorąc, oczekujemy, że cała komunikacja z klientem pochodzi od partnera dostawcy rozwiązań w chmurze. Ze względu na to, że posiadasz relację rozliczenia klienta, firma Microsoft nie będzie wysyłać komunikacji bezpośrednio do klientów związanych z ich subskrypcjami.
+**Odpowiednie role**
 
-Firma Microsoft może komunikować się bezpośrednio z klientami o zdarzeniach dotyczących usług lub innych informacjach operacyjnych.
+- Agent pomocy technicznej
 
-W przypadku klientów, którzy już mają istniejące relacje komercyjne z firmą Microsoft, firma Microsoft będzie nadal komunikować się bezpośrednio z nimi na temat produktów i usług innych dostawców.
+Ogólnie rzecz biorąc, oczekujemy, że cała komunikacja z klientem będzie pochodzić od Dostawca rozwiązań w chmurze partnerskiego. Ponieważ jesteś właścicielem relacji rozliczeń klienta, firma Microsoft nie będzie wysyłać wiadomości bezpośrednio do klientów związanych z ich subskrypcjami.
+
+Firma Microsoft może komunikować się bezpośrednio z klientami w sprawie zdarzeń serwisowych lub innych informacji operacyjnych.
+
+W przypadku klientów, którzy mają już istniejące relacje handlowe z firmą Microsoft, firma Microsoft będzie nadal komunikować się bezpośrednio z nimi w sprawie swoich produktów i usług innych niż CSP.
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Samoobsługowe wsparcie dla klientów za pomocą Centrum administracyjnego Microsoft Office 365 lub Azure Portal](customer-self-support.md)
+- [Samodzielne wsparcie klienta za pośrednictwem Microsoft Office administracyjnego usługi 365 lub za pośrednictwem Azure Portal](customer-self-support.md)
