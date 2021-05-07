@@ -30,8 +30,11 @@
         - name: Aktywowanie korzyści dla centrum PMC
           href: partner-membership-center-tech-benefits-activate.md
           displayName: mpn
-    - name: Oferty dla uczestników
+    - name: Korzyści związane z członkostwem
       items:
+        - name: Omówienie korzyści
+          href: manage-your-partner-network-benefits.md
+          displayName: mpn
         - name: Action Pack
           href: mpn-get-action-pack.md
           displayName: 'renew, mpn'
@@ -44,50 +47,21 @@
         - name: Znajdowanie korzyści programu MPN
           href: mpn-find-benefits.md
           displayName: mpn
-        - name: Opłacanie opłat za kompetencje
-          href: mpn-pay-fee-silver-gold-competency.md
-          displayName: mpn
-    - name: Kompetencje
+        - name: Zasady i użycie korzyści — często zadawane pytania
+          href: benefits-faq-new.md
+        - name: Często zadawane pytania dotyczące korzyści
+          href: benefits-faq.md
+          displayName: 'renew, license,'
+        - name: Wyświetlanie lub pobieranie faktury MPN
+          href: mpn-view-print-maps-invoice.md
+    - name: Dostępne korzyści
       items:
-        - name: Dowiedz się więcej na temat kompetencji
-          href: learn-about-competencies.md
-          displayName: mpn
-        - name: Rejestrowanie się jako partner uczenia
-          href: mpn-benefits-map-competency-learning-option-enroll.md
-          displayName: mpn
-        - name: Kompetencje — często zadawane pytania
-          href: competencies-faq.md
-          displayName: 'renew, mpn'
-        - name: Wyłączenie kompetencji dla deweloperów aplikacji
-          href: app-dev-isv.md
-        - name: Korzystanie z raportu umiejętności
-          href: mpn-skills-report.md
-    - name: Zaawansowane specjalizacje
-      items:
-        - name: Prezentuj swoją wiedzę
-          href: advanced-specializations.md
-          displayName: mpn
-        - name: Zastosuj lub sprawdź stan
-          href: advanced-specializations-apply.md
-          displayName: mpn
-    - name: Zostań dostawcą Azure Expert MSP
-      href: azure-expert-msp.md
-    - name: Korzyści
-      items:
-        - name: Omówienie korzyści
-          href: manage-your-partner-network-benefits.md
-          displayName: mpn
         - name: Korzyści z wejścia na rynek
           href: mpn-learn-about-go-to-market-benefits.md
           displayName: mpn
         - name: Pokazy dla partnerów MPN
           href: mpn-demos.md
           displayName: mpn
-        - name: Zasady i użycie korzyści — często zadawane pytania
-          href: benefits-faq-new.md
-        - name: Często zadawane pytania dotyczące korzyści
-          href: benefits-faq.md
-          displayName: 'renew, license,'
         - name: Korzyści związane z platformą Azure i chmurą
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
@@ -118,11 +92,33 @@
           items:
             - name: Wymagania dotyczące kwalifikowania się
               href: software-assurance-dps-requirements.md
-    - name: Faktury i podatki
-      href: mpn-view-print-maps-invoice.md
-      displayName: 'invoice, mpn'
-    - name: Testy nowych funkcji
-      href: test-drive-new-features.md
+    - name: Kompetencje
+      items:
+        - name: Dowiedz się więcej na temat kompetencji
+          href: learn-about-competencies.md
+          displayName: mpn
+        - name: Rejestrowanie jako partner uczenia
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
+        - name: Kompetencje — często zadawane pytania
+          href: competencies-faq.md
+          displayName: 'renew, mpn'
+        - name: Płatność opłatami za kompetencje
+          href: mpn-pay-fee-silver-gold-competency.md
+          displayName: mpn
+        - name: Wyłączenie kompetencji dla deweloperów aplikacji
+          href: app-dev-isv.md
+        - name: Korzystanie z raportu umiejętności
+          href: mpn-skills-report.md
+    - name: Zaawansowane specjalizacje
+      items:
+        - name: Prezentuj swoją wiedzę
+          href: advanced-specializations.md
+        - name: Zastosuj lub sprawdź stan
+          href: advanced-specializations-apply.md
+          displayName: mpn
+    - name: Zostań dostawcą Azure Expert MSP
+      href: azure-expert-msp.md
 - name: Dostawca rozwiązań w chmurze (CSP)
   href: csp-overview.md
   displayName: csp
@@ -141,7 +137,7 @@
       displayName: 'indirect, reseller, csp'
     - name: 'Umowy z Klientem Microsoft (według regionu, języka)'
       href: agreements.md
-      displayName: 'regio, region, MPA'
+      displayName: 'region, MPA'
     - name: Ograniczony bezpośredni dostęp do rachunku
       href: restricted-direct-bill-capabilities.md
       displayName: 'indirect, reseller'
@@ -579,6 +575,8 @@
         - name: Przenoszenie subskrypcji platformy Azure
           href: switch-azure-subscriptions-to-a-different-partner.md
           displayName: csp
+        - name: Przenoszenie subskrypcji planu platformy Azure klienta do innego partnera
+          href: transfer-azure-subscriptions-under-azure-plan.md
     - name: Subskrypcje oprogramowania
       href: csp-software-subscriptions.md
       displayName: 'subscription, cancel'
