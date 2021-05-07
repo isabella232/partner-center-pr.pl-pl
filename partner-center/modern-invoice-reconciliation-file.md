@@ -8,14 +8,14 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ff320124230ec8e0b3505b1c1dbbb7c811cb67f
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 559b5334eb23ad76fe8cc51fc1beeaa3a86c6fa1
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120720"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702794"
 ---
-# <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Pola pliku uzgodnień zakupu terminowego programu CSP
+# <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Pola pliku uzgodnień zakupu dla programu CSP
 
 **Odpowiednie role**
 
@@ -38,7 +38,7 @@ Aby uzyskać więcej informacji na temat plików uzgodnień, zobacz [Używanie p
 | MpnId | Identyfikator MPN partnera CSP. Aby uzyskać więcej informacji, [zobacz, jak elementować według partnera](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *6034453* |
 | ResellerMpnId | Identyfikator MPN odsprzedawcy rekordu dla subskrypcji. | *6048879* |
 | OrderId (Identyfikator zamówienia) | Unikatowy identyfikator zamówienia na platformie rozliczeniowej firmy Microsoft. Może być przydatna do zidentyfikowania zamówienia podczas kontaktowania się z pomocą techniczną. Nie służy do uzgadniania. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
-| OrderDate (Data zamówienia) | Data zamówienia. | *10/3/2020* |
+| OrderDate (Data zamówienia) | Data w utc, w przypadku gdy zamówienie zostało złożone. | *10/3/2020* |
 | ProductId | Unikatowy identyfikator produktu. | *DZH318Z0BNZ5* |
 | SkuId | Unikatowy identyfikator jednostki SKU. | *006G* |
 | AvailabilityId | Unikatowy identyfikator dostępności. | *DZH318Z08B80* |
@@ -58,21 +58,21 @@ Aby uzyskać więcej informacji na temat plików uzgodnień, zobacz [Używanie p
 | SubscriptionId | Unikatowy identyfikator subskrypcji na platformie rozliczeniowej firmy Microsoft. Nie służy do uzgadniania. Należy pamiętać, że ten identyfikator nie jest taki sam jak identyfikator subskrypcji w konsoli administracyjnej partnera. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
 | ChargeStartDate | Data rozpoczęcia okresu rozliczeniowego subskrypcji. | *9/1/2020* |
 | ChargeEndDate | Data zakończenia okresu rozliczeniowego subskrypcji. | *2020-09-30* |
-| TermAndBillingCycle | Zobowiązanie czasu trwania w celu kontynuowania subskrypcji w momencie zakupu. | *Dane przechowywane (GB/miesiąc)* |
+| TermAndBillingCycle | Zobowiązanie czasu trwania do kontynuowania subskrypcji w momencie zakupu. | *Dane przechowywane (GB/miesiąc)* |
 | EffectiveUnitPrice | Proporcjonalna cena jednostkowa do obliczenia kosztu dla cyklu rozliczeniowego. Rabaty, korekty w dniach rozliczeniowych i inne czynniki określają efektywną cenę jednostkową. Aby uzyskać więcej informacji, zobacz [Obliczanie efektywnej ceny jednostkowej](./effective-unit-price-calculation.md).  | *0.03825* |
 | Unittype | Typ jednostki, w której jest naliczany miernik. | *1 GB/miesiąc* |
 | AlternateId | Alternatywny identyfikator elementu wiersza zamówienia, do których się odwołujesz. | *6dc5c039750a* |
-| Ilość rozliczana | Łączna ilość rozliczana.  | *0.005001* |
+| Ilość rozliczana | Łączna ilość, która jest rozliczana.  | *0.005001* |
 | BillingFrequency | Plan rozliczeniowy wybrany w momencie zakupu. | *NA*  |
 | PricingCurrency | Waluta w cenniku. | *USD* |
 | PCToBCExchangeRate | Kurs wymiany stosowany dla waluty cennika na walutę rozliczeniową. | *0.846202666* |
-| PCToBCExchangeRateDate | Data, w której jest określana waluta cenowa na walutę rozliczeniową. | *2020-09-30* |
-| MeterDescription (Opis miernika) | Opis miernika.  | *Tabele — dane LRS przechowywane (GB/miesiąc)* |
+| PCToBCExchangeRateDate | Data, w której jest określana waluta cenowa waluty rozliczeniowej. | *2020-09-30* |
+| MeterDescription (Deskryptor miernika) | Opis miernika.  | *Tabele — przechowywane dane LRS (GB/miesiąc)* |
 | ReservationOrderId | Identyfikator zamówienia rezerwacji. | *E21A6344E398FFC1C4D7...* |
 | CreditReasonCode | Opis środków. | *Środków na korzystanie z platformy Azure* |
 
 >[!NOTE]
->Możesz uzgodnić zużycie platformy Azure w pliku ponownego zakupu w ramach jednego zakupu. W tym celu przejdź do pliku z rekonescją dziennego użycia i wyszukaj swój subscriptionID. Spowoduje to wyświetlenie wszystkich kosztów skojarzonych z identyfikatorem planu platformy Azure. Twoja subskrypcja platformy Azure jest wyświetlana jako entitlementID.
+>Możesz uzgodnić zużycie platformy Azure w pliku rekonescji zakupu w ramach jednego zakupu. W tym celu przejdź do pliku z rekonescją dziennego użycia i wyszukaj swój subscriptionID. Spowoduje to wyświetlenie wszystkich kosztów skojarzonych z identyfikatorem planu platformy Azure. Twój azure subscriptionID jest wyświetlany jako EntitlementID.
 
 ## <a name="next-steps"></a>Następne kroki
 
