@@ -1,75 +1,75 @@
 ---
-title: Rozwiązywanie problemów z konfigurowaniem konta Centrum partnerskiego lub Rozwiązywanie problemów z odnowieniem MPN
+title: Rozwiązywanie problemów z konfigurowaniem konta Partner Center lub odnawiania MPN
 ms.topic: how-to
 ms.date: 08/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Rozwiązywanie problemów podczas próby zarejestrowania się w centrum partnerskim. Odpowiedzi na wyzwania związane z metodami płatności, zapomnieniu haseł i nie tylko.
+description: Rozwiązywanie problemów podczas próby zarejestrowania się w Partner Center. Odpowiada na wyzwania związane z metodami płatności, zapomnianiem haseł i nie tylko.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d80651c4e5e4afb476dada388f23c118e0bdf25
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: f34adc57e668caecb69af37afc72b5153f667335
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768707"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686266"
 ---
-# <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Rozwiązywanie problemów z konfiguracją konta lub MPN odnowienia
+# <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Rozwiązywanie problemów z konfiguracją konta lub odnawianiem mpn
 
 
 **Odpowiednie role**
 
 - Administrator globalny
-- Administrator partnerski MPN 
+- Administrator partnera MPN
  
-Poniżej przedstawiono kilka sugestii dotyczących rozwiązywania typowych problemów, które powstają podczas konfigurowania konta Centrum partnerskiego.
+Poniżej znajdują się sugestie dotyczące rozwiązywania typowych problemów występujących podczas konfigurowania Partner Center konta.
 
-## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Co się stanie w przypadku migrowania z Centrum członkostwa w partnerze i nie można edytować żadnych pól informacji o firmie
+## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Co się stanie, jeśli migrujesz z Partner Membership Center i nie możesz edytować żadnych pól informacji o firmie
 
-W przypadkach, w których firma ma już obecność w centrum partnerskim (na przykład konto CSP) — zostanie wyświetlony ekran tylko do odczytu. Na tym ekranie zostaną wyświetlone wszystkie informacje o firmie, które istnieją w centrum partnerskim.
+W przypadkach, gdy firma jest już obecna w Partner Center (na przykład na koncie CSP) — zostanie wyświetlone ekran tylko do odczytu. Na tym ekranie będą wyświetlane wszystkie informacje o firmie, które istnieją w Partner Center.
 
-Nie można zmienić szczegółów na tym ekranie. Jest to zgodne z projektem, a nie błędem.
+Nie można zmienić szczegółów na tym ekranie. Jest to projektowe, a nie błędne.
 
-Wybierz pozycję **Akceptuj** i **Kontynuuj** , aby kontynuować.
+Wybierz **pozycję Zaakceptuj** i **kontynuuj,** aby kontynuować.
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Jeśli dział IT wyłączył **Rejestrowanie w centrum partnerskim**
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Jeśli dział IT wyłączył logowanie **do Partner Center**
 
-Zobaczysz ten komunikat, ponieważ użytkownicy z wirusami są wyłączeni lub że wirusowe rejestrowanie w dzierżawie usługi Azure AD jest wyłączone. Administrator globalny dla konta usługi Azure AD może włączyć wymagane funkcje, uruchamiając następujące polecenie programu PowerShell:
+Zostanie wyświetlony ten komunikat, ponieważ użytkownicy są wyłączeni lub rejestracja za pomocą oprogramowania marketingowego jest wyłączona w dzierżawie usługi Azure AD. Administrator globalny konta usługi Azure AD może włączyć wymagane funkcje, uruchamiając następujące polecenie programu PowerShell:
 
-**Set-MsolCompanySettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
+**Set-MsolCompanySettings -AllowEmailVerifiedUsers $true -AllowAdHocSubscriptions $true**
 
-Aby uzyskać więcej informacji, zapoznaj się z artykułem [rejestracja samoobsługi](/azure/active-directory/users-groups-roles/directory-self-service-signup).
+Aby uzyskać więcej informacji, zapoznaj [się z tematem Self-service sign up (Rejestracja samoobsługowa).](/azure/active-directory/users-groups-roles/directory-self-service-signup)
 
 ## <a name="you-forgot-your-password"></a>Nie pamiętasz hasła
 
-Jeśli zapomniano hasło, wybierz link **nie można uzyskać dostępu do konta?** na stronie logowania. Ta opcja umożliwia zresetowanie hasła lub poproszenie administratora globalnego o przypisanie nowych poświadczeń.
+Jeśli nie pamiętasz hasła, wybierz link Nie **możesz uzyskać dostępu do konta?** na stronie logowania. Ta opcja umożliwia zresetowanie hasła lub poproś administratora globalnego o przypisanie Ci nowych poświadczeń.
 
-## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Na ekranie "Powiedz nam o swojej firmie" pojawia się błąd "coś poszło źle"
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Na ekranie "Poinformuj nas o swojej firmie" zostanie wyświetlony błąd "Wystąpił problem"
 
-Ten komunikat o błędzie jest zwykle wyświetlany, jeśli przypadkowo użyto znaków specjalnych, spacji lub kodu kraju w numerze telefonu firmy. Wartość wprowadzona w polu numer telefonu może zawierać maksymalnie 10 znaków.
-
-
-### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>Zakup karty kredytowej otrzymuje komunikat o błędzie z informacją o tym, że zamówienie zostało odrzucone. Sprawdź swoje informacje "
+Ten komunikat o błędzie jest zwykle wyświetlany, jeśli przypadkowo używasz znaków specjalnych, spacji lub kodu kraju w firmowym numerze telefonu. Wartość wprowadzona w polu Numer telefonu może zawierać maksymalnie 10 znaków.
 
 
-Zawsze używaj adresu odpowiadającego karcie kredytowej, a nie podmiotowi prawnemu. Upewnij się również, że kod pocztowy jest poprawny i odpowiada adresowi, którego używasz.
+### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>Podczas zakupu karty kredytowej jest wyświetlany komunikat o błędzie informujący, że "Twoje zamówienie zostało odrzucone. Sprawdź swoje informacje"
 
-## <a name="you-want-to-switch-from-offline-payment-to-online-payment-method"></a>Chcesz przełączyć się z płatności offline do formy płatności online 
 
-Musisz anulować oryginalne zamówienie i ponownie kupić przy użyciu preferowanej metody płatności.
+Zawsze używaj adresu odpowiadającego karcie kredytowej, a nie jednostki prawnej. Upewnij się również, że kod pocztowy jest poprawny i odpowiada adresowi, z których korzystasz.
+
+## <a name="you-want-to-switch-from-offline-payment-to-online-payment-method"></a>Chcesz przełączyć się z płatności w trybie offline na formę płatności online 
+
+Musisz anulować oryginalne zamówienie i ponownie je zkupić przy użyciu preferowanej formy płatności.
 
 Aby anulować zamówienie:
 
-1. Wybierz kartę **oferty członkostwa** na pulpicie nawigacyjnym.
+1. Wybierz **kartę Oferty** członkostwa na pulpicie nawigacyjnym.
 
-2. Wybierz pozycję **Anuluj zamówienie**
+2. Wybierz **pozycję Anuluj zamówienie**
 
-3. Zostanie wyświetlone okno potwierdzenia i musisz potwierdzić, aby anulować kolejność początkową.
+3. Zostanie wyświetlone okno potwierdzenia z potwierdzeniem, które należy potwierdzić, aby anulować początkowe zamówienie.
 
 ## <a name="next-steps"></a>Następne kroki
 
 - [Zarządzanie kontem w portalu Partner Center](partner-center-account-setup.md)
-- [Jak odczytać plik rachunku i Rekonesans](read-your-bill.md)
+- [Jak odczytać rachunek i ponownie skonfigurować plik](read-your-bill.md)

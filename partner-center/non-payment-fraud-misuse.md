@@ -1,6 +1,6 @@
 ---
 title: Zarządzanie brakiem płatnościami, oszustwem lub nieprawidłowym użyciem
-description: Zapoznaj się z różnymi zagrożeniami związanymi z transakcjami online i najlepszymi rozwiązaniami związanymi z zarządzaniem ryzykiem i ich eliminowaniem w centrum partnerskim.
+description: Dowiedz się więcej o różnych ryzykach związanych z transakcjami online i najlepszych rozwiązaniach dotyczących zarządzania tymi czynnikami i ograniczania ich w Partner Center.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,16 +9,16 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: 9b3beef70052ad204327dd53c4aa9f477056bbcb
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: c3b7db95bbbd039f8328ddd2785579bb533197cc
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441867"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686300"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Zarządzanie przypadkami braku płatności, oszustw lub nieprawidłowego użycia w centrum partnerskim
 
-Dotyczy:
+**Dotyczy**
 
 - Centrum partnerskie Microsoft Cloud for US Government
 
@@ -29,74 +29,74 @@ Dotyczy:
 - Agent administracyjny
 - Administrator rozliczeń
 
-Użytkownik jest odpowiedzialny za oszukańcze zakupy przez klientów i/lub niepłatę zakupionych usług. W związku z tym *zdecydowanie zalecamy, aby nałożyć kontrolę oszustw i środki zaradcze zapobiegające ryzyku*.
+Klient jest odpowiedzialny finansowo za fałszywe zakupy przez klientów i/lub niepłać za zakupione usługi. Dlatego zdecydowanie zalecamy stosowanie środków zaradczych związanych z *zapobieganiem oszustwom i ich wykrywaniem.*
 
-Aby uniknąć sfałszowanych działań lub nieprawidłowego działania, ważne jest zrozumienie potencjalnych zagrożeń i opracowywanie zasad i praktyk, które mogą obniżyć poziom narażenia użytkownika.
+Aby uniknąć i/lub rozwiązać problemy związane z fałszywymi działaniami lub nieprawidłowym użyciem, ważne jest zrozumienie potencjalnych zagrożeń oraz opracowanie zasad i praktyk, które mogą zmniejszyć narażenie na ryzyko.
 
-## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Wymuszanie zasad akceptowalnego użycia przez firmę Microsoft
+## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Wymuszanie zasad dopuszczalnego użycia przez firmę Microsoft
 
-Jeśli firma Microsoft wykryje działania partnerskie lub klienta, które potwierdzają lub podejrzewają, że są naruszane, podejmiemy kroki wymuszania. Klient może zostać natychmiast zawieszony. Użytkownik zostanie powiadomiony o akcjach wymuszania lub zaktualizowanych na żądania przez firmę Microsoft.
+Jeśli firma Microsoft wykryje działania partnerów lub klientów, które potwierdzimy lub podejrzewamy, narusza zasady dopuszczalnego użycia, podejmiemy kroki wymuszania. Klient może zostać natychmiast zawieszony. Otrzymasz powiadomienie o działaniach wymuszania lub zaktualizowanych żądaniach firmy Microsoft.
 
-## <a name="abuse-of-service-risks"></a>Nadużywanie zagrożeń związanych z usługą
+## <a name="abuse-of-service-risks"></a>Nadużycie ryzyka związanego z usługą
 
-Nadużycie zagrożeń związanych **z usługami** oznacza, że klienci korzystający z usług w chmurze naruszają zasady akceptowalnego użycia przez firmę Microsoft.
+**Nadużycie ryzyka związanego** z usługami oznacza, że klienci, którzy korzystają z usług w chmurze, narusza zasady dopuszczalnego użycia firmy Microsoft.
 
-### <a name="examples-of-abuse-of-service"></a>Przykłady nadużycia usługi
+### <a name="examples-of-abuse-of-service"></a>Przykłady nadużycie usługi
 
-Przykładami tych naruszeń zasad akceptowalnego użycia przez firmę Microsoft mogą być:
+Przykłady tych naruszeń zasad dopuszczalnego użycia przez firmę Microsoft mogą obejmować:
 
-- Spamem
-- Działanie hakerskie
+- Spamowania
+- Hacking
 - Rozproszone ataki typu "odmowa usługi" (DDoS)
-- Bitcoin
+- Wyszukiwanie bitcoinów
 - Dystrybucja złośliwego oprogramowania
-- Odsprzedaż pirackich subskrypcji
+- Ponowne subskrypcje
 
 ## <a name="theft-of-service-risks"></a>Kradzież zagrożeń związanych z usługami
 
-**Kradzież zagrożeń związanych z usługami** oznacza, że klienci nie mają zamiaru płacenia za wykorzystane usługi. To kradzież może polegać na wykorzystaniu skradzionych instrumentów płatniczych, dostarczeniu fałszywych informacji dotyczących rozliczeń i/lub domyślnych sald.
+**Kradzież ryzyka związanego** z usługami oznacza klientów, którzy nie mają zamiaru płacić za zużyte usługi. Ta kradzież może obejmować użycie skradzionych instrumentu płatniczego, podanie fałszywych informacji rozliczeniowych i/lub niespłacanie zaległych sald.
 
 ### <a name="examples-of-service-theft"></a>Przykłady kradzieży usług
 
-Przykładami ryzyka transakcji online mogą być:
+Przykłady tych zagrożeń związanych z transakcjami online mogą obejmować:
 
-- Transakcje, które nie występują w osobie (transakcje nieobecne w karcie kredytowej)
-- Niereprezentowane tożsamości
-- Usługi obsługiwane i używane przed rozpoczęciem płatności początkowej
-- Rozwijające się rynki i/lub regiony wysokiego ryzyka dla oszustw online
-- Automatyzowanie tworzenia kont i kupowania ich przez złe aktorów
+- Transakcje, które nie występują osobiście ("transakcje z kartą kredytową nie są obecne")
+- Błędnie reprezentowane tożsamości
+- Usługi aprowizowane i używane przed otrzymaniem początkowej płatności
+- Nowe rynki i/lub regiony wysokiego ryzyka związane z oszustwami online
+- Automatyzowanie tworzenia i kupowania kont przez nieautomatyznych użytkowników
 
-## <a name="managing-online-risk"></a>Zarządzanie ryzykiem online
+## <a name="managing-online-risk"></a>Zarządzanie ryzykiem w trybie online
 
-Poniższe zalecenia mogą pomóc w opracowaniu zasad i praktyk w celu zmniejszenia ryzyka związanego z transakcją online w cyklu życia relacji z klientami.
+Poniższe zalecenia ułatwiają opracowywanie zasad i praktyk w celu zmniejszenia narażenia na ryzyko transakcji online w cyklu życia relacji z klientami.
 
 ### <a name="onboarding-new-customers"></a>Dołączanie nowych klientów
 
-Sugestie dotyczące zmniejszenia ryzyka w trybie online podczas dołączania nowych klientów:
+Sugestie dotyczące zmniejszania ryzyka online podczas dołączania nowych klientów obejmują:
 
-- Jeśli to możliwe, Ustanów relacje osobiste z klientami (na przykład kontaktowanie się z klientami przez telefon).
-- Weryfikowanie poświadczeń i tła klientów dzięki lepszym metodom (na przykład w przypadku korzystania z instytucji kredytowych lub komercyjnych agencji sprawozdań handlowych).
-- Użyj uwierzytelniania wieloskładnikowego (na przykład weryfikacji SMS) podczas tworzenia konta, aby zminimalizować narażenie na tworzenie i kupowanie kont Robotic.
-- Zarządzanie tożsamościami i śledzenie ich przy użyciu usług (takich jak usługi tożsamości cyfrowych).
-- Oceń siłę finansową klientów dzięki rygorystycznym systemom wykrywania oszustw związanych z kartą kredytową.
-- Ustanów zasady czyszczenia kolekcji. Zastanów się nad procesem tworzenia kolekcji i w przypadku, gdy dostęp do subskrypcji będzie miał wpływ na niepłatność. (Możesz wyłączyć dostęp lub [zawiesić subskrypcje klienta](create-a-new-subscription.md#suspend-a-subscription) dotyczące niepłatności).
+- Ustanawianie relacji osobistych z klientami, gdy jest to możliwe (na przykład kontaktowanie się z klientami przez telefon).
+- Sprawdź poświadczenia i doświadczenie klientów za pomocą lepszych metod (takich jak korzystanie z biur kredytowych lub komercyjnych agencji raportów biznesowych).
+- Użyj uwierzytelniania wieloskładnikowego (na przykład weryfikacji SMS) podczas rejestracji, aby zminimalizować narażenie na tworzenie i kupowanie konta robotyki.
+- Śledzenie tożsamości i zarządzanie nimi przy użyciu usług (takich jak usługi tożsamości cyfrowych).
+- Oceń siłę finansową klienta za pomocą rygorystycznych systemów wykrywania oszustw związanych z kartami kredytowymi.
+- Ustanów zasady czystego kolekcji. Szczegóły procesu kolekcji oraz tego, kiedy brak płatności będzie mieć wpływ na dostęp do subskrypcji. (Możesz wyłączyć dostęp lub [wstrzymać subskrypcje klienta w](create-a-new-subscription.md#suspend-a-subscription) przypadku braku płatności).
 
 ### <a name="managing-customer-accounts"></a>Managing customer accounts (Zarządzanie kontami klientów)
 
 Sugestie dotyczące zarządzania kontami klientów po zakupie obejmują:
 
-- Zaimplementuj proces, aby szybko otrzymywać powiadomienia dotyczące firmy Microsoft, przeglądać je, podejmować działania i odpowiadać na nie.
-- Pracuj z klientami, aby zrozumieć swoje potrzeby biznesowe dotyczące użycia w chmurze, a następnie ustawienia odpowiednie progi monitorowania. (Na przykład możesz [ustawić miesięczny budżet wydatków na platformę Azure](set-an-azure-spending-budget-for-your-customers.md) w centrum partnerskim. To zrozumienie umożliwia monitorowanie użycia klienta w ciągu miesiąca i otrzymywanie powiadomień o bliskości budżetu przez klientów.
-- Regularnie Monitoruj [dzienniki aktywności klientów](activity-logs.md) , aby pomóc w wczesnym wykrywaniu oszustw.
-- Wykonaj szybką akcję w przypadku wykrycia podejrzanych działań.
-- Należy unikać udzielania klientom pełnego dostępu administracyjnego do subskrypcji bez uprzedniego zaimplementowania kontroli ryzyka.
+- Implementowanie procesu szybkiego odbierania, przeglądania i reagowania na powiadomienia firmy Microsoft oraz reagowania na nie.
+- Pracuj z klientami, aby zrozumieć ich potrzeby biznesowe dotyczące użycia chmury przy zachowaniu odpowiednich progów monitorowania. (Na przykład możesz ustawić miesięczny budżet wydatków na [platformę Azure w](set-an-azure-spending-budget-for-your-customers.md) Partner Center. Dzięki temu można monitorować użycie klientów w miesiącu i być powiadamiane, gdy klienci zbliżają się do budżetu).
+- Regularnie [monitoruj dzienniki aktywności klientów,](activity-logs.md) aby pomóc w wczesnym wykrywaniu oszustw.
+- Szybkie działanie w przypadku wykrycia podejrzanych działań.
+- Unikaj pełnego dostępu administracyjnego klientów do subskrypcji bez konieczności wcześniejszego implementowania środków zaradczych.
 
 ### <a name="managing-customer-billing"></a>Zarządzanie rozliczeniami klientów
 
-Sugestie dotyczące zarządzania księgowaniem rozliczeń klienta obejmują:
+Sugestie dotyczące zarządzania rozliczeniami klienta po zakupie obejmują:
 
-- Zażądaj przedpłaty przed początkowymi transakcjami i rozliczeniami.
-- Nie Akceptuj instrumentów płatniczych o wysokim ryzyku (takich jak karty z góry lub karty przechowywane).
-- Monitoruj płatności klientów i rozliczenia dla kont przedawnienia. Agresywnie Wymuszaj ustandaryzowane procesy upomnień na potrzeby opóźnień lub braku płatności.
+- Zażądaj przedpłat przed początkowymi transakcjami i rozliczeniami.
+- Nie akceptuj instrumentów płatniczych wysokiego ryzyka (takich jak karty przedpłacone lub karty z przechowywaną wartością).
+- Monitoruj płatności klientów i starzejące się należności. Agresywne wymuszanie standardowych procesów dunning w przypadku opóźnionych płatności lub braku płatności.
 
-Aby uzyskać bardziej szczegółowe strategie łagodzenia ryzyka w trybie online, zobacz [Przewodnik dotyczący zarządzania ryzykiem online transakcji.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt)
+Aby uzyskać bardziej szczegółowe strategie ograniczania ryzyka w trybie online, zobacz [Przewodnik zarządzania ryzykiem transakcji online.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt)

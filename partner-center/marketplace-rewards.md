@@ -1,46 +1,46 @@
 ---
-title: Zarządzanie nagrodymi w witrynie Marketplace
+title: Zarządzanie programem Marketplace Rewards
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Partnerzy, którzy publikują oferty na komercyjnym rynku, mogą korzystać z korzyści, które oferują obsługę marketingu.
+description: Partnerzy, którzy publikują oferty na platformie handlowej, kwalifikują się do korzyści, które oferują pomoc techniczną marketingową.
 author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7909b795be03bcd1b110da3f2c3b77019753730d
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: e279ad8299def820287207c36c670c6051e26f2f
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624259"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686249"
 ---
-# <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Zarządzanie Nagrodymi w witrynie Marketplace w centrum partnerskim & aktywowanie korzyści marketingowych, handlowych i technicznych
+# <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Zarządzanie Marketplace Rewards w Partner Center & aktywacji korzyści marketingowych, sprzedażowych i technicznych
 
-Odpowiednie role:
+**Odpowiednie role**
 
-- Administrator partnerski MPN
+- Administrator partnera MPN
 - Administrator globalny
 - Agent administracyjny
 
-Jeśli publikujesz oferty oprogramowania w naszym portalu komercyjnym, korzyści z witryny Marketplace zapewniają pomoc techniczną dla wszystkich ofert związanych z marketingiem, sprzedażą i korzyściami technicznymi.
+Jeśli publikujesz oferty oprogramowania na naszej platformie handlowej, Marketplace Rewards zapewnia ukierunkowaną pomoc techniczną dla wszystkich Twoich ofert z korzyściami marketingowym, sprzedażowym i technicznymi.
 
-Uprawnienie do korzyści z witryny Marketplace jest obliczane na podstawie wszystkich profilów wydawcy połączonych z firmą PGA MPN. Aby sprawdzić uprawnienia do programu nagradzania w portalu Marketplace, przejdź do [strony nagrody w witrynie Marketplace](https://partner.microsoft.com/dashboard/mpn/program/commercialmarketplace)dla Centrum partnerskiego.
+Marketplace Rewards uprawnienia są obliczane na podstawie wszystkich profilów wydawcy połączonych z firmą PGA MPN. Aby sprawdzić uprawnienia do programu Marketplace Rewards, przejdź do strony Partner Center [Marketplace Rewards programu](https://partner.microsoft.com/dashboard/mpn/program/commercialmarketplace).
 
 ## <a name="sales-and-marketing-benefits"></a>Korzyści dotyczące sprzedaży i marketingu
 
-1. Na [pulpicie nawigacyjnym](https://partner.microsoft.com/dashboard)Centrum partnerskiego wybierz kartę **korzyści sprzedaży i marketingu** na stronie nagrody w witrynie Marketplace, aby wyświetlić listę korzyści. 
+1. Na Partner Center [nawigacyjnym wybierz](https://partner.microsoft.com/dashboard)kartę **Korzyści** dotyczące sprzedaży i marketingu Marketplace Rewards stronie, aby wyświetlić listę korzyści. 
 
 2. Aby aktywować dowolną korzyść związaną ze sprzedażą i marketingiem, należy najpierw przypisać osobę kontaktową z działu marketingu firmy. Ta osoba kontaktowa będzie otrzymywać uzupełniające informacje o programie Marketplace Rewards.
 
-3. Aby dodać lub zaktualizować informacje kontaktowe dotyczące marketingu, przejdź do górnej części karty korzyści sprzedaży i marketingu na stronie nagrody w witrynie Marketplace, a następnie wybierz pozycję **Dodaj, zaktualizuj lub Zmień**. 
+3. Aby dodać lub zaktualizować informacje kontaktowe dotyczące marketingu, przejdź na górę karty Korzyści dotyczące sprzedaży i marketingu na stronie Marketplace Rewards, a następnie wybierz pozycję **Dodaj,** zaktualizuj lub zmień . 
 
    Następnie wykonaj poniższe czynności:
 
    - Wybierz użytkownika z listy. Jeśli użytkownik, którego chcesz przypisać, nie znajduje się na liście, możesz dodać nowych użytkowników w ustawieniach konta.
 
-   - Podaj adres e-mail użytkownika, który jest inny niż adres e-mail skojarzony z firmowym kontem Centrum partnerskiego. Na wyznaczony adres e-mail osoby kontaktowej ds. marketingu zostaną wysłane instrukcje dotyczące używania korzyści programu Marketplace Rewards.
+   - Podaj adres e-mail użytkownika inny niż adres e-mail skojarzony z kontem Partner Center firmowym. Na wyznaczony adres e-mail osoby kontaktowej ds. marketingu zostaną wysłane instrukcje dotyczące używania korzyści programu Marketplace Rewards.
 
    - Podaj numer telefonu i preferowany język osoby kontaktowej ds. marketingu. Po zakończeniu wprowadzania tych informacji wybierz pozycję **Przypisz użytkownika**.
 
@@ -48,25 +48,25 @@ Uprawnienie do korzyści z witryny Marketplace jest obliczane na podstawie wszys
 
 ## <a name="technical-benefits"></a>Korzyści techniczne
 
-1. Możesz skorzystać z korzyści technicznych, aby zażądać pomocy technicznej w fazie opracowywania aplikacji w chmurze i rozwiązaniach hybrydowych. Aby poprosić o pomoc, Wypełnij formularz żądania, a następnie wybierz pozycję **Prześlij żądanie**.
+1. Możesz skorzystać z korzyści technicznej, aby poprosić o pomoc techniczną w fazie przedsprzedaży, projektowania, wdrażania i tworzenia aplikacji rozwiązań w chmurze i rozwiązań hybrydowych. Aby poprosić o pomoc, wypełnij formularz żądania, a następnie wybierz pozycję **Prześlij żądanie.**
 
-2. Korzystanie z korzyści sponsorowanych przez platformę Azure będzie udostępniane za pośrednictwem poczty e-mail podczas odblokowywania tych korzyści.
+2. Sposób korzystania z korzyści sponsorowania Azure zostanie udostępniony za pośrednictwem wiadomości e-mail w przypadku odblokowania tych korzyści.
 
 ## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>Dlaczego na pulpicie nawigacyjnym nie widać komercyjnego programu Marketplace Rewards?
 
-Informacje o korzyściach z portalu Marketplace są dostępne w ramach dzierżawy usługi Azure AD i identyfikatora MPN, który został użyty do utworzenia konta Centrum partnerskiego. To konto jest nazywane kontem globalnym partnera (PGA) Twojej firmy. Jeśli dzierżawa usługi Azure AD jest inna niż ta, która jest używana do dołączania do MPN, aby wyświetlić menu Marketplace z komercyjnym wynagrodzeniem, należy je skojarzyć z PGA Twojej firmy.
+Informacje o programie Marketplace Rewards są dostępne za pośrednictwem dzierżawy usługi Azure AD i identyfikatora MPN użytego do utworzenia konta Partner Center usługi. To konto jest nazywane kontem globalnym partnera (PGA) firmy. Jeśli dzierżawa usługi Azure AD różni się od dzierżawy używanej do dołączania do programu MPN, aby wyświetlić menu witryny Marketplace programu Commercial Rewards, należy skojarzyć ją z firmowym skojarzoną z pga.
 
-### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Aby skojarzyć dzierżawę usługi Azure AD z PGA firmy
+### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Aby skojarzyć dzierżawę usługi Azure AD z pga firmy
 
-1. Jako Administrator globalny lub administratora konta zaloguj się do PGA w centrum partnerskim.
+1. Jako administrator globalny lub administrator konta zaloguj się do konta PGA w Partner Center.
 
-2. Wybierz pozycję **Ustawienia** (w prawym górnym rogu), **Ustawienia konta** i **dzierżawców**. 
+2. Wybierz **pozycję Ustawienia** (w prawym górnym rogu), Ustawienia **konta,** **Dzierżawy.** 
 
-3. Wybierz pozycję **Skojarz inną dzierżawę usługi Azure AD** i wybierz dzierżawę usługi Azure AD, którą chcesz SKOJARZYĆ z PGA.
+3. Wybierz **pozycję Skojarz inną dzierżawę usługi** Azure AD i wybierz dzierżawę usługi Azure AD, którą chcesz skojarzyć z pga.
 
-4. Dodaj nazwę użytkownika i hasło dowolnego użytkownika w dzierżawie usługi Azure AD, który chcesz skojarzyć, i wybierz pozycję **Prześlij**.
+4. Dodaj nazwę użytkownika i hasło dowolnego użytkownika w dzierżawie usługi Azure AD, który chcesz skojarzyć, a następnie wybierz pozycję **Prześlij.**
 
-5. Wyloguj się z Centrum partnerskiego, a następnie zaloguj się przy użyciu nazwy użytkownika i hasła dla dzierżawy, która została właśnie skojarzona z PGA.
+5. Wyloguj się Partner Center a następnie zaloguj się przy użyciu nazwy użytkownika i hasła dla dzierżawy, która właśnie była skojarzona z pga.
 
-6. W menu nawigacji po lewej stronie będziesz teraz widzieć informacje o komercyjnym nagradzaniu informacji o programie Marketplace.
+6. Informacje o programie Commercial Rewards Marketplace będą teraz dostępne w menu nawigacji po lewej stronie.
 

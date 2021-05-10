@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Znajdź linki do przewodników programowych dostawcy rozwiązań w chmurze, umów partnerskich, umów klientów, cenników i ofert.
+description: Linki do przewodników Dostawca rozwiązań w chmurze, umów partnerskich, umów klienta, cenników i ofert.
 author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 77d56a22e12b369b5df6fc50a8ee28b7db73192b
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: d40acba3e45cfa90cbf0c5ffb8cdb0d4f484421b
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502888"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686232"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Cloud Solution Provider program guide, agreements, price lists, and offers (Przewodnik po programie Cloud Solution Provider oraz jego umowy, cenniki i oferty)
 
@@ -22,62 +22,66 @@ ms.locfileid: "106502888"
 
 - Centrum partnerskie Microsoft Cloud for US Government
 
+**Odpowiednie role**
 
-Zapoznaj się z informacjami w tym artykule, aby poznać wymagania dotyczące uczestnictwa w programie Microsoft Cloud Solution Provider (CSP).
+- Administrator globalny
+- Agent administracyjny
+
+Zapoznaj się z informacjami w tym artykule, aby zrozumieć wymagania dotyczące uczestnictwa w programie Dostawca rozwiązań w chmurze (CSP) firmy Microsoft.
 
 ## <a name="cloud-solution-provider-program-guide"></a>Przewodnik dotyczący programu Cloud Solution Provider
 
-Zapoznaj się z wymaganiami dotyczącymi partnera w programie dostawcy rozwiązań w chmurze.
+Zapoznaj się z wymaganiami w zakresie zostania partnerem w Dostawca rozwiązań w chmurze programu.
 
-[Przewodnik po programie dla partnerów dostawcy rozwiązań w chmurze](https://go.microsoft.com/fwlink/p/?LinkId=617100)
+[Przewodnik po programie dla Dostawca rozwiązań w chmurze partnerów](https://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
->Jeśli potrzebujesz potwierdzania lub certyfikowania Twojego stanu jako zatwierdzonego partnera firmy Microsoft w programie Cloud Solution Provider, [skontaktuj się z pomocą techniczną](https://partner.microsoft.com/pcv/servicerequests/create) , aby go zażądać.
+>Jeśli potrzebujesz listu biznesowego potwierdzającego lub certyfikowania Twojego stanu jako zatwierdzonego partnera firmy Microsoft w programie [Dostawca rozwiązań w chmurze,](https://partner.microsoft.com/pcv/servicerequests/create) skontaktuj się z pomocą techniczną, aby go poprosić.
 
-### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Dodatkowe warunki oferty dotyczące umowy partnerskiej firmy Microsoft
+### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Dodatkowe warunki oferty dla Microsoft Partner Agreement
 
-[Dodatkowy Przewodnik dotyczący subskrypcji usług online i autoryzacji kanału oprogramowania](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
+[Przewodnik po warunkach oferty uzupełniającej dotyczący subskrypcji usług online i autoryzacji kanału oprogramowania](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
-## <a name="microsoft-customer-agreement-customer-templates"></a>Szablony klientów z umowami dla klientów firmy Microsoft
+## <a name="microsoft-customer-agreement-customer-templates"></a>Umowa z Klientem Microsoft szablonów klientów
 
-Aby można było złożyć zamówienie w imieniu klienta, klient musi zaakceptować i podpisać odpowiednią umowę klienta firmy Microsoft. Umowy klienta firmy Microsoft są specyficzne dla regionu. Upewnij się, że wybrano prawidłowy kraj na podstawie lokalizacji klienta.
+Przed zamówieniem w imieniu klienta klient musi zaakceptować i podpisać odpowiednie Umowa z Klientem Microsoft. Umowy klienta firmy Microsoft są specyficzne dla regionu. Pamiętaj, aby wybrać właściwy kraj na podstawie lokalizacji klienta.
 
-Aby ręcznie pobrać najnowszą wersję szablonu umowy klienta firmy Microsoft, wybierz ten [adres URL](https://aka.ms/customeragreement).
+Aby ręcznie pobrać najnowszą wersję szablonu Umowa z Klientem Microsoft, wybierz ten [adres URL.](https://aka.ms/customeragreement)
 
 >[!IMPORTANT]
->Musisz potwierdzić, że klient zaakceptuje umowę klienta firmy Microsoft. Potwierdzenie można potwierdzić przez zaakceptowanie umowy lub przez zaakceptowanie jej przez klienta. Zobacz [Potwierdzanie akceptacji umowy klienta firmy Microsoft przez klienta](confirm-customer-agreement.md).
+>Musisz potwierdzić, że klient zaakceptował Umowa z Klientem Microsoft. Możesz potwierdzić, potwierdzając, że klient zaakceptował umowę, lub zapraszając klienta do bezpośredniego zaakceptowania umowy. Zobacz [Potwierdzanie akceptacji przez klienta Umowa z Klientem Microsoft](confirm-customer-agreement.md).
 
-### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Zmiana tajemnicy profesjonalnej na umowę Microsoft Cloud (Niemcy)
+### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Poprawka tajemnicy zawodowej do Umowa dotycząca platformy Microsoft Cloud (Niemcy)
 
-W Niemczech kod karny (sekcja 203) i profesjonalne kodeksy postępowania wymagają, aby niektóre relacje klientów były poufne, na przykład relacja między pacjentami i ich lekarzami oraz relacja między prawnikami i ich klientami. Te grupy zawodowe muszą zapewniać tajemnicę zawodową. Dla tych i innych zawodów, aby kupić usługi oparte na chmurze od dostawców rozwiązań w chmurze, dostawca usług w chmurze musi zawrzeć z klientem zapisaną umowę zapewniającą tajemnicę zawodową.
+W Niemczech kodeks karny (sekcja 203) i profesjonalne kodeksy postępowania wymagają, aby pewne relacje z klientami były poufne, na przykład relacje między pacjentami i ich lekarzami oraz relacje między prawne i ich klientami. Grupy te muszą zapewnić tajemnicę zawodową. W przypadku tych i innych podmiotów w celu zakupu usług w chmurze od dostawców rozwiązań w chmurze dostawca usług w chmurze musi zawrzeć napisaną umowę z klientem, która zapewnia tajemnicę służbową.
 
-Jeśli pracujesz w Niemczech, może być konieczne dostarczenie tej zmiany dla klientów w ramach umowy dotyczącej Microsoft Cloud.
+Jeśli prowadzenia działalności biznesowej w Niemczech, może być konieczne zapewnienie tej poprawki do tajemnicy zawodowej dla klientów tam oprócz Umowa dotycząca platformy Microsoft Cloud.
 
-[Poprawka do tajemnicy profesjonalnej umowy Microsoft Cloud dla Niemiec (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+[Umowa dotycząca platformy Microsoft Cloud dotyczące tajemnicy zawodowej dla Niemiec (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
-[Poprawka do tajemnicy profesjonalnej umowy Microsoft Cloudej dla Niemiec (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+[Umowa dotycząca platformy Microsoft Cloud Professional Secrecy Amendment for Germany (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
 ## <a name="pricing"></a>Ceny
 
-Pobierz szczegóły cennika dotyczące licencji, użycia i zakupów jednorazowych na stronie **Cennik i oferty** dostępne w menu **Centrum partnerskiego** .
+Pobierz szczegóły cennika dla zakupów opartych na licencjach,  opartych na użyciu **i zakupów Partner Center** strony Cennik i oferty.
 
-Cennik na podstawie licencji jest aktualizowany miesięcznie, a firma Microsoft wydaje nowe ceny 30 dni, zanim zacznie obowiązywać. Przykładami usług opartych na licencji są pakiety Office 365, Enterprise Mobility Suite i Microsoft Dynamics CRM. 
+Cennik oparty na licencjach jest aktualizowany co miesiąc, a firma Microsoft wydaje nowe ceny na 30 dni przed jego rozpoczęciem. Przykłady usług opartych na licencjach to Office 365, Enterprise Mobility Suite i Microsoft Dynamics CRM. 
 
-Cennik oparty na użyciu jest często dynamiczny i zmienia się. Przykłady usług opartych na użyciu obejmują Microsoft Azure.
+Ceny oparte na użyciu są dynamiczne i często się zmieniają. Przykłady usług opartych na użyciu obejmują Microsoft Azure.
 
-Cena jednorazowego zakupu jest również dynamiczna. Przykłady jednorazowych zakupów obejmują rezerwacje Microsoft Azure i odpowiadające im subskrypcje dla systemu Windows Server i oprogramowania SQL.
+Ceny zakupu za jeden raz są również dynamiczne. Przykłady zakupów razowych obejmują rezerwacje Microsoft Azure i odpowiednie subskrypcje oprogramowania Windows Server i SQL.
 
-Aby uzyskać informacje o cenach dla ofert portalu Azure Marketplace, przejdź do **witryny Marketplace** w menu nawigacji po lewej stronie Centrum partnerskiego. Wybierz produkt, aby wyświetlić informacje o wydawcy, jednostkach SKU i cenach. Ceny tych produktów w portalu Azure Marketplace mogą być często zmieniane. Aby uzyskać aktualne informacje o cenach dla wszystkich produktów Marketplace, wybierz pozycję **Eksportuj** Cennik, aby wygenerować arkusz kalkulacyjny ze wszystkimi danymi cenowymi. Te informacje są aktualizowane codziennie, dlatego można je sprawdzić tak często, jak chcesz.
+Aby uzyskać informacje o cenach Azure Marketplace ofert, przejdź do witryny **Marketplace** Partner Center menu nawigacji po lewej stronie. Wybierz produkt, aby wyświetlić informacje o wydawcy, jednostkach SKU i cenach. Ceny tych produktów Azure Marketplace często się zmieniać. Aby uzyskać bieżące informacje o cenach dla wszystkich produktów w witrynie Marketplace, wybierz pozycję **Eksportuj cennik,** aby wygenerować arkusz kalkulacyjny ze wszystkimi danymi cen. Te informacje są aktualizowane codziennie, więc możesz je sprawdzać tak często, jak chcesz.
 
 ## <a name="offers"></a>Oferty
 
-Jako partner w programie CSP możesz sprzedawać szeroką gamę produktów, usług i rozwiązań firmy Microsoft, w tym pakietów Office 365, Enterprise Mobility Suite, Microsoft Dynamics i Microsoft Azure. Aby uzyskać więcej informacji o ofertach dostępnych do sprzedaży w ramach tych rodzin produktów, zobacz macierz oferty CSP na stronie **Cennik i oferty** dostępne w menu **Centrum partnerskiego** . Ten dokument jest aktualizowany co miesiąc.
+Jako partner w programie CSP możesz sprzedawać szeroką gamę produktów, usług i rozwiązań firmy Microsoft, w tym usługi Office 365, Enterprise Mobility Suite, Microsoft Dynamics i Microsoft Azure. Aby uzyskać więcej informacji o tym, które oferty są dostępne do sprzedaży  w ramach tych rodzin produktów, zobacz macierz ofert CSP na stronie **Cennik** i oferty dostępnej w menu Partner Center produktów. Ten dokument jest aktualizowany co miesiąc.
 
-W przypadku partnerów programu CSP korzystających z interfejsu API rekordu użycia szczytu firma Microsoft publikuje także listę usług platformy Azure w programie CSP na stronie **Cennik i oferty** .
+W przypadku partnerów programu CSP, którzy korzystają z interfejsu API rekordów użycia Crest, firma Microsoft publikuje również listę usług platformy Azure w programie CSP na stronie Cennik **i oferty.**
 
-Aby dowiedzieć się więcej o ofertach portalu Azure Marketplace opublikowanych przez niezależnych dostawców oprogramowania (ISV), odwiedź stronę **Marketplace** w menu nawigacji po lewej stronie. Obecnie w centrum partnerskim można kupić tylko typy produktów SaaS (oprogramowanie jako usługa). Musisz odwiedzić Azure Portal, aby uzyskać inne typy ofert portalu Azure Marketplace.
+Aby dowiedzieć się więcej Azure Marketplace ofert publikowanych przez niezależnych dostawców oprogramowania, odwiedź stronę **Marketplace** w menu nawigacji po lewej stronie. Obecnie tylko typy produktów SaaS (oprogramowanie jako usługa) można zakupić w Partner Center. Musisz odwiedzić stronę Azure Portal, aby uzyskać inne typy ofert Azure Marketplace ofert.
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Dowiedz się więcej na temat umowy partnerskiej firmy Microsoft](microsoft-partner-agreement.md)
+- [Dowiedz się więcej o Microsoft Partner Agreement](microsoft-partner-agreement.md)
 - [Rejestracja w programie Cloud Solution Provider](enrolling-in-the-csp-program.md)
