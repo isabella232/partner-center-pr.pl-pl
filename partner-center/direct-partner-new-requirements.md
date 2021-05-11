@@ -9,12 +9,12 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 04/15/2021
-ms.openlocfilehash: 2f6fd9ef3fdcc88627b2eb2d257a837d28e097ee
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 9fd4156c25cbdbdfa86cabf9f3bb805d95481e17
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528579"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740322"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Wymagania dotyczące rejestracji jako partner CSP rozliczający się bezpośrednio
 
@@ -42,16 +42,16 @@ Jako partner z rozliczeniami bezpośrednimi jesteś właścicielem relacji typu 
 
 ### <a name="verify-direct-bill-eligibility"></a>Weryfikowanie uprawnień do faktury bezpośredniej
 
-Po sprawdzeniu, czy spełniasz minimalne wymagania dotyczące rejestracji jako partner z rozliczeniami bezpośrednimi, możesz przejść do [formularza rejestracji](https://forms.office.com/r/0fP4fFT8n8).
+Po sprawdzeniu, czy spełniasz minimalne wymagania dotyczące rejestracji jako partner z rozliczeniami bezpośrednimi, możesz przejść do formularza [rejestracji](https://forms.office.com/r/0fP4fFT8n8).
 
-Po sprawdzeniu, czy firma spełnia wymagania dotyczące uprawnień do zarejestrowania się jako partner z rozliczeniami bezpośrednimi, a aplikacja rejestracji została ukończona, przejmiemy i zweryfikujemy informacje biznesowe podane w procesie rejestracji. W ramach tego przeglądu sprawdzimy kredyt Twojej firmy. Otrzymasz wiadomość e-mail, gdy Twoja firma pomyślnie przeszły sprawdzanie środków.
+Po sprawdzeniu, czy Firma spełnia wymagania dotyczące uprawnień do rejestracji jako partner z rozliczeniami bezpośrednimi, a aplikacja rejestracji została ukończona, przejmiemy i zweryfikujemy informacje biznesowe podane w procesie rejestracji. W ramach tego przeglądu sprawdzimy kredyt Twojej firmy. Otrzymasz wiadomość e-mail, gdy Twoja firma pomyślnie przeszły sprawdzanie środków.
 
 >[!IMPORTANT]
 >Sprawdzenie środków firmy może potrwać kilka dni lub dłużej. W tym czasie ważne jest, aby NIE kupować planu pomocy technicznej firmy Microsoft. Plan pomocy technicznej firmy Microsoft należy zakupić dopiero po poinformowaniu Cię, że kontrola środków została pomyślnie przekazana.
 
 ## <a name="transition-from-direct-to-indirect-reseller"></a>Przejście z odsprzedawcy bezpośredniego na odsprzedawcę pośredniego
 
-Bieżący partnerzy rozliczani bezpośrednio muszą spełniać nowe wymagania, aby pozostać w programie partnera rozliczania bezpośredniego w programie CSP. W przeciwnym razie [ich dostęp](restricted-direct-bill-capabilities.md) do funkcji rachunku bezpośredniego zostanie ostatecznie ograniczony i będzie można dłużej wykonywać określone zadania, takie jak dokonywanie nowych zakupów dla klientów.
+Bieżący partnerzy rozliczani bezpośrednio muszą spełniać nowe wymagania, aby pozostać w programie partnera rozliczania bezpośredniego w programie CSP. W przeciwnym razie ich [dostęp](restricted-direct-bill-capabilities.md) do funkcji rachunku bezpośredniego zostanie ostatecznie ograniczony i będzie można dłużej wykonywać określone zadania, takie jak dokonywanie nowych zakupów dla klientów.
 
 Jeśli zdecydujesz się przejść z działalności na rachunek bezpośredni do sprzedaży odsprzedawcy pośredniego, musisz wykonać kilka kroków. Aby dowiedzieć się więcej na temat przejścia, przeczytaj [Transition from Dostawca rozwiązań w chmurze (CSP) direct partner to CSP indirect reseller (Przejście](transition-direct-to-indirect.md)od partnera bezpośredniego Dostawca rozwiązań w chmurze (CSP) do odsprzedawcy pośredniego programu CSP).
 
@@ -61,4 +61,4 @@ Jeśli zdecydujesz się przejść z działalności na rachunek bezpośredni do s
  
 - [Dodatkowe informacje na temat zostania odsprzedawcą pośrednim](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 
-- [Nowy standard wydajności dla wymagań partnerów rozliczanych bezpośrednio w programie CSP](https://partner.microsoft.comresources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)
+- [Nowy standard wydajności dla wymagań partnerów rozliczanych bezpośrednio w programie CSP](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)
