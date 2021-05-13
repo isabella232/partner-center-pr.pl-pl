@@ -1,100 +1,96 @@
 ---
-title: Jak odczytać rozliczenie & pliku Rekonesans
+title: Jak odczytać swój rachunek & pliku rekonescji
 ms.topic: article
 ms.date: 06/05/2020
-description: Dowiedz się więcej na temat faktury & pliki uzgadniania. Na rachunku są naliczane opłaty za centrum partnerskie w ramach programu, produktów i klientów w danym okresie miesięcznym.
+description: Dowiedz się więcej o plikach uzgodnień & faktur. Na rachunku są Partner Center opłaty za program, produkty i klientów w tym miesięcznym okresie.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: f16b619aba838da1d1da0c5eb13648ebb107c802
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964361"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855917"
 ---
-# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Zapoznaj się z plikiem rachunku i rozliczeniami — Dowiedz się, jak je znaleźć w centrum partnerskim
+# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Opis pliku rachunku i uzgodnień — dowiedz się, jak znaleźć je w Partner Center
 
 
-**Odpowiednie role**
-
-- Administrator globalny
-- Administrator rozliczeń
-- Agent administracyjny
+**Odpowiednie role:** Administrator globalny | Administrator rozliczeń | Agent administracyjny
 
 
-**Faktura** to **Podsumowanie wszystkich opłat za centrum partnerskie** (w ramach programu, wszystkich produktów i wszystkich klientów). 
+Faktura jest **podsumowaniem wszystkich opłat Partner Center** (w ramach programu, wszystkich produktów i wszystkich klientów).  
 
-## <a name="find-your-bill-and-reconciliation-file"></a>Znajdowanie pliku rachunku i uzgodnienia 
+## <a name="find-your-bill-and-reconciliation-file"></a>Znajdowanie pliku rachunku i uzgodnień 
 
-Fakturę można znaleźć na stronie rozliczenia pulpitu nawigacyjnego w centrum partnerskim. Możesz również znaleźć historię rozliczeń, trendy wydatków i pliki uzgadniania na tej stronie. 
+Fakturę można znaleźć na stronie Rozliczenia pulpitu nawigacyjnego w Partner Center. Na tej stronie można również znaleźć historię rozliczeń, trendy wydatków i pliki uzgodnień. 
 
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home)Centrum partnerskiego. 
+1. Zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard/home) 
 
-2. W menu po lewej stronie wybierz pozycję **rozliczenia**. 
+2. W menu po lewej stronie wybierz pozycję **Rozliczenia.** 
 
 3. Na stronie stanu rozliczeń wybierz plik faktury lub uzgodnienia, aby wyświetlić bardziej szczegółowe informacje. 
 
-Możesz znaleźć link do najnowszej faktury w górnej części strony w obszarze saldo konta na podstawie daty ostatniej faktury. 
+Link do najnowszej faktury można znaleźć w górnej części strony w obszarze Saldo konta od daty ostatniej faktury. 
 
-Poprzednie faktury można znaleźć w sekcji Historia rozliczeń. Wybierz odpowiedni rok, a następnie wybierz strzałkę listy rozwijanej obok odpowiedniego okresu rozliczeniowego. Wybierz łącze obok pozycji faktury (PDF), aby pobrać fakturę tego okresu. 
+Poprzednie faktury można znaleźć w sekcji Historia rozliczeń. Wybierz odpowiedni rok, a następnie wybierz strzałkę listy rozwijanej obok odpowiedniego okresu rozliczeniowego. Wybierz link obok opcji Faktury (PDF), aby pobrać fakturę z tego okresu. 
 
 ## <a name="invoice-types"></a>Typy faktur
 
-Firma Microsoft będzie wydawać jedną fakturę za wszelkie opłaty za licencje (takie jak Office 365) i opłaty za użycie (na przykład platformę Azure) oraz oddzielne faktury za jednorazowe opłaty (takie jak Azure — RI, Marketplace lub Azure plan).
+Firma Microsoft wystawi jedną fakturę dla wszelkich opłat opartych na licencjach (takich jak usługa Office 365) i opłat opartych na użyciu (takich jak platforma Azure) oraz oddzielnej faktury za opłaty godzinowe (na przykład za użycie usługi Azure RI, witryny Marketplace lub planu platformy Azure).
 
 Na przykład  
 
-**Scenariusz 1 [pojedyncza waluta]**: partner ma zakupy dla ofert 145P i licencji usługi O365,  
+**Scenariusz 1 [jedna waluta]**: Partner ma zakupy dla oferty 145P i licencji usługi O365,  
 
-- Partner otrzyma jedną fakturę PDF i 2 pliki uzgadniania obejmujące opłaty dla usług O365 i Azure (145p).  
+- Partner otrzyma jeden plik PDF faktury i 2 pliki uzgodnień obejmujące opłaty za usługę O365 i platformę Azure (145p).  
 
-**Scenariusz 2 [pojedyncza waluta]**: partner kupił zakupy na platformie Azure, na rynku i/lub na platformie Azure, a także za pomocą 145p zakupów.
+**Scenariusz 2 [jedna waluta]**: Partner ma zakupy dla planu usługi Azure RI, witryny Marketplace i/lub platformy Azure wraz z zakupami w wysokości 145p.
 
-- Partner otrzyma jedną fakturę PDF i plik uzgadniania obejmujący opłaty za usługę Azure (145p). 
+- Partner otrzyma jeden plik PDF faktury i plik uzgodnień obejmujący opłaty za platformę Azure (145p). 
 
-- Partner otrzyma kolejną fakturę PDF i plik uzgadniania obejmujący opłaty za usługę Azure RI, Marketplace, plan platformy Azure. 
+- Partner otrzyma kolejny plik PDF faktury i plik uzgodnień obejmujący opłaty za usługę Azure RI, platformę Marketplace i plan platformy Azure. 
 
-**Scenariusz 3 [wiele walut]**: partner kupił zakupy dla platformy Azure w walucie DKK i plan platformy Azure w EUR i 145p zakupy w euro.
+**Scenariusz 3 [Multi-Currency]**: Partner ma zakupy dla usługi Azure RI w systemie DKK i planu platformy Azure w EUR wraz z zakupami w wysokości 145p w EUR.
 
-- Partner otrzyma jedną fakturę PDF i plik uzgadniania obejmujący opłaty za usługę Azure RI w DKK. 
+- Partner otrzyma jeden plik PDF faktury i plik uzgodnień obejmujący opłaty za RI platformy Azure w systemie DKK. 
 
-- Partner otrzyma jedną fakturę PDF i plik uzgadniania obejmujący opłaty za usługę Azure plan w EUR. 
+- Partner otrzyma jeden plik PDF faktury i plik uzgodnień obejmujący opłaty za plan platformy Azure w eur. 
 
-- Partner otrzyma kolejną fakturę PDF i plik uzgadniania obejmujący opłaty za usługę 145p w EUR (lub w walucie rozliczeniowej partnera). 
+- Partner otrzyma kolejny plik PDF faktury i plik uzgodnień obejmujący opłaty za ofertę 145p w eur (lub walucie rozliczeniowej partnera). 
 
 
-## <a name="understanding-invoice-pdf"></a>Informacje o dokumencie PDF faktury 
+## <a name="understanding-invoice-pdf"></a>Informacje o fakturze w formacie PDF 
 
-**Faktury za użycie i opłaty oparte na licencji**: faktury za opłaty za usługi, takie jak Office 365 i Azure, będą dostępne w ciągu dwóch (2) dni od wybranej daty rozliczenia [UTC].  
+**Faktury za** użycie i opłaty na podstawie licencji: faktury za opłaty za usługi, takie jak Office 365 i Azure, będą dostępne w ciągu dwóch (2) dni od wybranej daty rozliczeniowej [UTC].  
 
-**Faktury za jednorazowej i opłaty cykliczne**: faktury dla usług takich jak Azure RI, Azure plan i Marketplace będą dostępne nie później niż w ciągu każdego miesiąca.  
+**Faktury za opłaty jednorazowo** i cykliczne: faktury za opłaty za usługi, takie jak azure RI, plan platformy Azure i portal Marketplace, będą dostępne nie później niż 8 dnia każdego miesiąca.  
 
-Poniżej znajdują się niektóre pola klucza w dokumencie PDF faktury —
+Poniżej przedstawiono niektóre z kluczowych pól w dokumencie PDF faktury —
 
-**Numer faktury**: unikatowy identyfikator dokumentu faktury wygenerowanego dla odpowiedniego okresu rozliczeniowego. 
+**Numer faktury:** unikatowy identyfikator dokumentu faktury wygenerowanego dla odpowiedniego okresu rozliczeniowego. 
 
-**Okres rozliczeniowy**: jest to okres, w którym masz użycie i usługi oparte na licencji. 
+**Okres rozliczeniowy:** jest to okres, w którym masz użycie i usługi oparte na licencjach. 
 
-**Data faktury**: Data rozliczenia lub Data rocznicy, w której jest generowana faktura co miesiąc. 
+**Data faktury:** data rozliczeniowa lub data rocznicy, w której faktura jest generowana co miesiąc. 
 
-**Termin płatności**: Data, o którą należy otrzymać płatność. 
+**Termin płatności:** data, do której należy odebrać płatność. 
 
-**Opłaty**: kwota należna w walucie rozliczeniowej dla odpowiedniego okresu rozliczeniowego. 
+**Opłaty:** kwota należności w walucie rozliczeniowej dla odpowiedniego okresu rozliczeniowego. 
 
-**Kredyty**: kredyty (takie jak SLA) lub korekty zmian wprowadzonych w subskrypcjach (na przykład zwiększenie lub zmniejszenie licencji). 
+**Środki:** środki (takie jak umowa SLA) lub korekty zmian wprowadzonych w subskrypcjach (na przykład zwiększenie lub zmniejszenie liczby licencji). 
 
-**Instrukcje dotyczące płatności**: Opis sposobu płacenia faktury w zależności od regionu. Zawsze pamiętaj o uwzględnieniu numeru faktury podczas dokonywania płatności. 
+**Instrukcje** dotyczące płatności: opis sposobu płacenia faktury w zależności od regionu. Zawsze pamiętaj, aby podczas dokonywania płatności uwzględnić numer faktury. 
 
-Aby uzyskać szczegółowy opis wszystkich pól w pliku faktury (w tym pól dla opłat jednorazowych), zobacz [pola pliku faktury](invoice-file.md). 
+Aby uzyskać szczegółowy opis wszystkich pól w pliku faktury (w tym pól opłat godzinowych), zobacz [Pola pliku faktury](invoice-file.md). 
 
-## <a name="understand-reconciliation-files"></a>Omówienie plików uzgadniania
+## <a name="understand-reconciliation-files"></a>Opis plików uzgodnień
 
- Pliki uzgadniania, które udostępniają szczegółowe dane dotyczące szczegółów opłat, są dostępne do pobrania wraz z DOKUMENTem faktury. Pliki uzgadniania obejmują identyfikatory klientów i identyfikatory subskrypcji, których można użyć do tworzenia faktur klienta. Zapoznaj się z  [tematem jak używać plików uzgadniania](use-the-reconciliation-files.md) , aby uzyskać więcej szczegółów na temat plików rekonesans. 
+ Pliki uzgodnień, które zapewniają szczegółowe/szczegółowe informacje o opłatach, są dostępne do pobrania wraz z dokumentem PDF faktury. Pliki uzgodnień obejmują identyfikatory klientów i identyfikatory subskrypcji, których można użyć do tworzenia faktur klientów. Aby uzyskać więcej informacji na temat plików uzgodnień, zobacz Jak używać plików  [uzgodnień.](use-the-reconciliation-files.md) 
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Jak używać plików uzgadniania](use-the-reconciliation-files.md)
+- [Jak używać plików uzgodnień](use-the-reconciliation-files.md)

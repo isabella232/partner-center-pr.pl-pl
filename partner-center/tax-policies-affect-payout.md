@@ -7,24 +7,20 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 343db43633245030a5eba213cb5c8b79d09a7dee
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: a93e94912f840e4cb69c3cc834f03af1b34f19aa
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686317"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856019"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Jak zasady podatkowe wpływają na wypłaty dla Azure Marketplace
 
-**Odpowiednie role**
-
-- Administrator globalny
-- Administrator zarządzania użytkownikami
-- Agent administracyjny
+**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent administracyjny
 
 ## <a name="introduction"></a>Wprowadzenie
 
-Platforma handlowa firmy Microsoft ma globalny zasięg. Transakcje występują w różnych granicach i w zależności od tego, gdzie znajduje się isv isv i klient, implikacje podatkowe mogą się różnić. Microsoft AppSource i Azure Marketplace informacji o profilu Partner Center, aby określić kraj isv.isv. Aby określić kraj klienta, użyj informacji rozliczeniowych klienta lub, jeśli klient znajduje się w Unii Europejskiej, użyjemy dwóch różnych informacji.
+Platforma handlowa firmy Microsoft ma globalny zasięg. Transakcje występują w różnych granicach i w zależności od tego, gdzie znajduje się isv isv i klient, implikacje podatkowe mogą się różnić. Microsoft AppSource i Azure Marketplace informacji o profilu Partner Center, aby określić kraj isV. Aby określić kraj klienta, użyj informacji rozliczeniowych klienta lub, jeśli klient znajduje się w Unii Europejskiej, użyjemy dwóch różnych informacji.
 
 Aby lepiej zrozumieć poniższe scenariusze, zapoznaj się z tabelą Szczegóły podatku, w której pokazano, czy firma Microsoft zbiera i płaci podatki w imieniu wydawcy, czy też ta odpowiedzialność należy do wydawcy. [](tax-details-marketplace.md)
 
@@ -33,21 +29,21 @@ Aby lepiej zrozumieć poniższe scenariusze, zapoznaj się z tabelą Szczegóły
 
 ## <a name="publisher-transacts-in-microsoft-managed-tax-country"></a>Transakcje wydawcy w zarządzanym przez firmę Microsoft kraju podatkowym
 
-**Scenariusz A** — transakcje, które odbywają się między wydawcą a klientem w kraju podatkowym zarządzanym przez [firmę Microsoft.](tax-details-marketplace.md#microsoft-managed-countries) Te transakcje będą mieć zastosowanie do podatku dodanego w momencie sprzedaży, a firma Microsoft wyśle ten podatek do odpowiedniego kraju. Żadne podatki nie są potrącone z wypłaty, a obliczenia wypłat są bez podatku.
+**Scenariusz A** — transakcje, które odbywają się między wydawcą a klientem w kraju podatkowym zarządzanym przez firmę [Microsoft.](tax-details-marketplace.md#microsoft-managed-countries) Te transakcje będą mieć zastosowanie do podatku dodanego w momencie sprzedaży, a firma Microsoft wyśle ten podatek do odpowiedniego kraju. Żadne podatki nie są potrącone z wypłaty, a obliczenia wypłat są bez podatku.
 
-Zobacz [scenariusz D,](#foreign-publisher-transacts-with-us-customer) aby uzyskać informacje o transakcjach między wydawcą z innego niż USA a klientem w USA.
+Zobacz [scenariusz D](#foreign-publisher-transacts-with-us-customer) dla transakcji między wydawcą w innym niż USA a klientem w USA.
 
 :::image type="content" source="images/tax-policies/payout-scenario-a.png" alt-text="Przedstawia przepływ pracy dla scenariusza A procesu wypłaty.":::
 
 ## <a name="publisher-transacts-in-microsoft-managed-tax-country-where-marketplace-fee-is-taxable-service"></a>Transakcje wydawcy w zarządzanym przez firmę Microsoft kraju podatkowym, w którym opłata za korzystanie z witryny Marketplace to usługa serwisowa
 
-Scenariusz **B** — transakcje, które odbywają się między wydawcą w USA (zgodnie z definicją w informacjach o profilu podatkowym w usłudze Partner Center) na klienta w kraju podatkowym zarządzanym przez firmę Microsoft, w którym kraj nakłada podatek na opłatę za korzystanie z witryny Marketplace (usługę w witrynie Marketplace). W tym scenariuszu podatek od opłaty za usługę sklepu jest odejmowany od wypłaty wydawcy.
+Scenariusz **B** — transakcje, które odbywają się między wydawcą w USA (zdefiniowanym przez informacje o profilu podatkowym w usłudze Partner Center) na klienta w kraju podatkowym zarządzanym przez firmę Microsoft, w którym kraj nakłada podatek na opłatę za korzystanie z witryny Marketplace (usługi zarządzanej przez firmę Microsoft). W tym scenariuszu podatek od opłaty za usługę sklepu jest odejmowany od wypłaty wydawcy.
 
 :::image type="content" source="images/tax-policies/payout-scenario-b.png" alt-text="Przedstawia przepływ pracy dla scenariusza procesu wypłatY B.":::
 
 ## <a name="publisher-transacts-in-publisher-managed-tax-country"></a>Transakcje wydawcy w kraju podatkowym zarządzanym przez wydawcę
 
-**Scenariusz C** — transakcje, które odbywają się między wydawcą a klientem w zarządzanym przez wydawcę kraju podatkowym, który nie nakłada podatku potrącanego na klientów. Klienci nie płacą podatku w punkcie sprzedaży i wydawca jest zobowiązani do zapłacenia wszystkich mających zastosowanie podatków.
+**Scenariusz C** — transakcje odbywające się między wydawcą i klientem w kraju podatkowym zarządzanym przez wydawcę, który nie nakłada podatku potrącanego na klientów. Klienci nie płacą podatku w punkcie sprzedaży i wydawca jest zobowiązani do zapłacenia wszystkich mających zastosowanie podatków.
 
 Aby uzyskać więcej informacji na temat cen specyficznych dla kraju (na przykład w celu przesunięcia przyszłego podatku), zobacz Plany i ceny ofert [platformy handlowej](/azure/marketplace/plans-pricing#custom-prices).
 
@@ -65,7 +61,7 @@ Aby uzyskać więcej informacji na temat cen specyficznych dla kraju (na przykł
 
 :::image type="content" source="images/tax-policies/payout-scenario-e.png" alt-text="Przedstawia przepływ pracy dla scenariusza procesu wypłatY E.":::
 
-## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-outside-ireland"></a>Obcy wydawca sprzedaje klientowi zarejestrowanego w UE w ramach podatku VAT w kraju zarządzanym przez firmę Microsoft (poza Irlandią)
+## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-outside-ireland"></a>Obcy wydawca sprzedaje klientowi zarejestrowanego w UE na potrzeby podatku VAT w kraju zarządzanym przez firmę Microsoft (poza Irlandią)
 
 **Scenariusz F** — wszystkie transakcje między wydawcami zewnętrznymi i klientami zarejestrowanymi w podatku VAT w UE (poza Irlandią) w Microsoft-Managed kraju. Klient nie płaci podatku od sprzedaży.
 

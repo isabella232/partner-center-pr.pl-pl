@@ -3,49 +3,45 @@ title: Przenoszenie subskrypcji platformy Azure w ramach planu platformy Azure d
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, jak Dostawca rozwiązań w chmurze partner programu skojarzonego z subskrypcjami platformy Azure klienta w ramach planu platformy Azure.
+description: Dowiedz się, jak Dostawca rozwiązań w chmurze programu partnerskiego skojarzonego z subskrypcjami platformy Azure klienta w ramach planu platformy Azure.
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: f0abfdfd2fbb242f7cdbe0ded04d387ea712cce5
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: dcacc6da51fe40c7eb05997f5409ef5fadbcf693
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702726"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856053"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Przenoszenie subskrypcji planu platformy Azure klienta do innego partnera
 
-**Odpowiednie role**
-
-- Administrator konta
-- Agent sprzedaży
-- Agent rozliczeń
+**Odpowiednie role:** Administrator konta | Agent sprzedaży | Agent rozliczeń
 
 W tym artykule opisano, jak klient może przełączać swoje subskrypcje platformy Azure w ramach planu platformy Azure z jednego Dostawca rozwiązań w chmurze (CSP) na inny.
 
-Aby przełączyć subskrypcje platformy Azure klienta od innego partnera, wykonaj następujące kroki. Zarówno partner, jak i klient mają kroki do wykonania.
+Aby przełączyć subskrypcje platformy Azure klienta z innego partnera, wykonaj następujące kroki. Zarówno partner, jak i klient mają kroki do wykonania.
 
 >[!Note]  
->Tylko partnerzy z bezpośrednią relacją rozliczeń z firmą Microsoft mogą uzyskać dostęp do narzędzi przejścia. Odsprzedawcy pośredni muszą współpracować ze swoimi dostawcami pośrednimi, aby korzystać z tego narzędzia przejściowego.
+>Tylko partnerzy z bezpośrednią relacją rozliczeń z firmą Microsoft mogą uzyskać dostęp do narzędzi przejścia. Odsprzedawcy pośredni muszą współpracować z dostawcami pośrednimi, aby korzystać z tego narzędzia przejściowego.
 
-Przed rozpoczęciem tego narzędzia klient musi być w rozmowie z partnerami (bieżącymi i przyszłymi). Konwersacja w trybie offline musi wymagać uniknięcia nieporozumień i rezygnacji. Ponadto partnerzy i klienci powinni zrozumieć te zagadnienia i wymagania wstępne przed zainicjowaniem przejścia:
+Przed rozpoczęciem tego narzędzia klient musi być w rozmowie z partnerami (bieżącymi i przyszłymi). Konwersacja w trybie offline musi wymagać uniknięcia nieporozumień i rezygnacji. Ponadto partnerzy i klienci powinni zrozumieć te zagadnienia i wymagania wstępne przed zainicjowanie przejścia:
 
-**Najważniejsze zagadnienia:**
+**Najważniejsze kwestie do rozważenia:**
 
 - Rezerwacje platformy Azure nie zostaną przeniesiene z subskrypcją do przyszłego partnera
 - Cennik programu CSP dla usług platformy Azure w ramach bieżącego partnera nie zostanie przejściowy  
-- Obowiązki pomocy technicznej dla klienta zostaną przeniesieni do przyszłego partnera
+- Obowiązki pomocy technicznej dla klienta przejdą do przyszłego partnera
 - Rozliczenia i fakturowanie zostaną przeniesieni do przyszłego partnera w momencie przeniesienia
-- Transfer Role-Based Access Control platformy Azure nie ma wpływu na usługę Azure Role-Based Access Control (RBAC)
+- Transfer Role-Based Access Control nie ma wpływu na usługę Azure Role-Based Access Control (RBAC)
 - Administrator w imieniu (AOBO) nie zostanie przyznany domyślnie przyszłego partnera
 - Produkty innych firm na platformie handlowej zostaną przesłonene, o ile produkty przejdą weryfikację uprawnień do korzystania z witryny Marketplace.
     - Nie ma żadnych specjalnych rabatów ani ograniczeń regionalnych
     - Produkty nie są oparte na subskrypcji
     - Przyszły partner powinien współpracować z wydawcą, aby upewnić się, że jest na liście zezwalania na wdrożenie produktu
-    - Jeśli nie wszystkie z tych warunków zostaną spełnione, aby przenieść produkty z witryny Marketplace, należy je anulować, przenieść subskrypcje platformy Azure, a następnie ponownie wykupić produkty z witryny Marketplace u nowego partnera
+    - Jeśli nie wszystkie te warunki zostaną spełnione w celu przeniesienia produktów z witryny Marketplace, zostaną anulowane, subskrypcje platformy Azure zostaną przeniesione, a następnie ponownie wykup produktów z witryny Marketplace u nowego partnera
 
 **Wymagania wstępne:**
 
@@ -53,23 +49,23 @@ Przed rozpoczęciem tego narzędzia klient musi być w rozmowie z partnerami (bi
 - Przyszły partner CSP współpracuje z klientem w celu zapewnienia, że można spełnić potrzeby klientów
 - Przyszły partner CSP ustanawia relację z klientem i kupuje plan platformy Azure przed rozpoczęciem przejścia  
 - Klient musi podpisać umowę Umowa z Klientem Microsoft z przyszłym partnerem CSP
-- Aby można było korzystać z tego narzędzia, przyszły Microsoft Partner Agreement CSP musi podpisać umowę
+- Przyszły partner CSP musi mieć podpisaną Microsoft Partner Agreement, aby korzystać z tego narzędzia
 
 ## <a name="customer-tasks-to-be-completed"></a>Zadania klienta do wykonania
 
 Aby przenieść subskrypcję platformy Azure w ramach planu platformy Azure, klient musi rozpocząć proces, kontaktując się ze swoim bieżącym partnerem. Powinni zebrać nazwę firmy i domenę bieżącego partnera, aby przyszły partner może wypełnić formularz żądania przeniesienia w jego imieniu.
 
-Klient musi również zidentyfikować subskrypcje, które chce przenieść od bieżącego partnera. Nie można zmieniać partnerów dla subskrypcji usługi Office 365, pakietu Enterprise Mobility Suite ani usługi Microsoft Dynamics CRM.
+Klient musi również zidentyfikować subskrypcje, które chce przenieść od bieżącego partnera. Nie można zmienić partnerów dla subskrypcji usługi Office 365, pakietu Enterprise Mobility Suite ani subskrypcji usługi Microsoft Dynamics CRM.
 
 >[!Note]  
->Odpowiedzialność za ukończenie formularza żądania przeniesienia, który inicjuje proces transferu, spoczywa na przyszłym partnerze. Firma Microsoft nie może interweniować w imieniu klienta lub bieżącego partnera. Klient powinien zaplanować ścisłą współpracę ze swoim przyszłym i bieżącym partnerem, aby przejście przebiegało bezproblemowo.
+>Przyszła odpowiedzialność partnera za ukończenie formularza żądania przeniesienia, który inicjuje proces transferu. Firma Microsoft nie może interweniować w imieniu klienta ani bieżącego partnera. Klient powinien zaplanować ścisłą współpracę ze swoim przyszłym i bieżącym partnerem, aby przejście przebiegało bezproblemowo.
 
 ## <a name="future-partner-tasks-to-be-completed"></a>Przyszłe zadania partnerów do wykonania
 
-Przyszły partner subskrypcji musi wypełnić formularz żądania przeniesienia od Partner Center, aby zażądać przeniesienia subskrypcji:
+Przyszły partner subskrypcji musi wypełnić formularz żądania przeniesienia z Partner Center żądania przeniesienia subskrypcji:
 
 1.  Z Partner Center wybierz pozycję **Klienci,** a następnie wybierz klienta, dla których chcesz wypełnić formularz żądania przeniesienia.
-2.  W menu Klient wybierz pozycję **Subskrypcje.**
+2.  W menu Customer (Klient) wybierz **pozycję Subscriptions (Subskrypcje).**
 3.  Wybierz **sekcję Żądanie przeniesienia.**
 4.  W **sekcji Żądanie przeniesienia wybierz** **pozycję Dodaj nowe żądanie.**
 
@@ -83,7 +79,7 @@ Przyszły partner subskrypcji musi wypełnić formularz żądania przeniesienia 
 
 7.  Przegląd potwierdzenia żądania przeniesienia
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Przeglądanie oczekujących transferów":::
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Przegląd oczekujących transferów":::
 
     >[!Note]
     >Przyszły partner może anulować żądanie przeniesienia, wybierając pozycję **Anuluj** żądanie w prawym górnym rogu tylko wtedy, gdy żądanie przeniesienia ma stan "oczekujące". Gdy stan żądania przeniesienia będzie "w toku" lub "ukończony", anulowanie nie będzie możliwe.
@@ -101,9 +97,9 @@ Przejrzyj i zaakceptuj formularz żądania przeniesienia od Partner Center, aby 
 
 1.  Wybierz **pozycję Przejrzyj żądanie przeniesienia z** wiadomości e-mail LUB
 1.  Z Partner Center wybierz pozycję **Klienci,** a następnie wybierz klienta, w imieniu których przesłano żądanie przeniesienia.
-2.  W menu Klient wybierz pozycję **Subskrypcje.**
-3.  Wybierz **sekcję Żądanie** przeniesienia.
-4.  Rozwiń informacje o transferze, wybierając wybrany **identyfikator żądania przeniesienia w** obszarze **Odebrane żądania**
+2.  W menu Customer (Klient) wybierz **pozycję Subscriptions (Subskrypcje).**
+3.  Wybierz **sekcję Żądanie przeniesienia.**
+4.  Rozwiń informacje o transferze, wybierając **wybrany identyfikator żądania przeniesienia w** obszarze **Odebrane żądania**
 
 :::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Żądanie przeniesienia przeglądów źródła":::
 

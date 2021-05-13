@@ -2,107 +2,101 @@
 title: Typy opłat za pliki uzgodnień
 ms.topic: article
 ms.date: 06/05/2020
-description: Wykrywaj typy opłat (takie jak oparte na licencji, oparte na użyciu i jednorazowe), kredyty i rabaty w plikach uzgadniania Centrum partnerskiego.
+description: Zapoznaj się z typami opłat (na przykład opartymi na licencjach, opartymi na użyciu i jednym czasem), kredytami i rabatami w Partner Center uzgadniania.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f1fb7fdcc4ec56f0d5cf0eb26b62294235a5b908
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5a1f45de59fc9dac6a443bb8a14c3a80b36ba3f7
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441604"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855883"
 ---
-# <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Informacje o różnych typach opłat w plikach uzgadniania Centrum partnerskiego
+# <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Opis różnych typów opłat w plikach Partner Center uzgodnień
 
-**Dotyczy**
+**Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Centrum partnerskie Microsoft Cloud for US Government
+**Odpowiednie role:** Administrator | Administrator rozliczeń | Administrator globalny
 
-**Odpowiednie role**
+W tym artykule opisano mapowania między sekcją faktury i skojarzonymi typami opłat, które mogą być w pliku uzgodnień. Faktura zawiera podsumowanie opłat. Plik uzgodnień zawiera szczegółowy podział transakcji elementów wiersza, w tym typy opłat. Aby uzyskać więcej informacji na temat plików uzgodnień, zobacz [jak używać plików uzgodnień](use-the-reconciliation-files.md).
 
-- Agent administracyjny
-- Administrator rozliczeń
-- Administrator globalny
-
-W tym artykule opisano mapowania między sekcją faktury i skojarzonymi typami opłat, które mogą znajdować się w pliku uzgadniania. Faktura zawiera podsumowanie opłat. Plik uzgadniania zawiera szczegółowy podział transakcji elementu wiersza, w tym typów opłat. Aby uzyskać więcej informacji dotyczących plików uzgadniania, zobacz [jak używać plików uzgadniania](use-the-reconciliation-files.md).
-
-W przypadku [plików uzgadniania opartych na użyciu](usage-based-recon-files.md) i [plików uzgadniania opartych na licencji](license-based-recon-files.md) są wyświetlane tylko transakcje związane z użyciem i opłaty (zużyte jednostki i powiązane opłaty).
+Zarówno [pliki uzgodnień oparte na](usage-based-recon-files.md) użyciu, jak i pliki uzgodnień oparte na licencjach pokazują tylko transakcje i opłaty związane z użyciem (zużyte jednostki i powiązane opłaty). [](license-based-recon-files.md)
 
 > [!NOTE]
-> Kredyty jednorazowe, zniżki lub zwroty, które są wyświetlane na fakturze, jako **korekty** nie są wyświetlane w pliku uzgadniania.
+> Środki, rabaty lub zwroty, które są  wyświetlane na fakturze jako Korekty, nie są wyświetlane w pliku uzgodnień.
 
-## <a name="map-charge-types-to-invoice-charges"></a>Mapuj typy opłat na faktury
+## <a name="map-charge-types-to-invoice-charges"></a>Mapowanie typów opłat na opłaty na podstawie faktur
 
-Aby uzyskać informacje o opłatach za odwołania między fakturą i plikiem uzgadniania, użyj opcji filtru w programie Microsoft Excel. Filtruj według typów opłat w pliku uzgadniania, aby zamapować opłaty za faktury na zestaw podziałów opłat w pliku uzgadniania.
+Aby odwoływać się do kwot opłat między fakturą i plikiem uzgodnień, użyj opcji filtrowania w programie Microsoft Excel. Filtruj według typów opłat w pliku uzgodnień, aby zamapować opłaty na zestaw podziałów opłat w pliku uzgodnień.
 
-## <a name="license-based-charges"></a>Opłaty oparte na licencji
+## <a name="license-based-charges"></a>Opłaty na podstawie licencji
 
-Aby zmapować opłaty na podstawie licencji na fakturę, należy zsumować **wartość kolumny kwota** z pliku opartego na licencji.
+Aby zamapować te opłaty na podstawie licencji na fakturę, zsuń **kolumnę Amount** (Kwota) z pliku opartego na licencjach.
 
-| Opis opłaty (kolumna opłaty) w pliku uzgadniania | Wyjaśnienie opłaty |
+| Opis opłaty (kolumna ChargeType w pliku uzgodnień) | Wyjaśnienie opłaty |
 | ------------------------------------------------------------- | ------------------ |
-| Opłata za aktywację | Kwota naliczana dla klienta w przypadku korzystania z subskrypcji po zakupie. |
-| Opłata za anulowanie | Opłata naliczana proporcjonalnie do klienta po zmianie skojarzonych licencji. |
-| Anuluj częstotliwość wystąpień | Opłata naliczana proporcjonalnie do liczby dni, gdy klient z subskrypcją miesięczną ma zawieszoną subskrypcję, a skojarzone licencje zmieniają się w tym samym miesiącu. |
-| Opłata za cykl | Opłaty okresowe za subskrypcję. |
-| Tempo wystąpienia cyklu | Opłata naliczana proporcjonalnie do liczby opłat naliczanych od klienta po zmianie skojarzonych licencji. |
-| Oceń opłaty po anulowaniu | Naoprocentowanie proporcjonalnie do nieużywanej części usługi po anulowaniu. |
-| Opłata proporcjonalna za konwersję z bieżącej oferty | Naliczanie opłat naliczane po przeprowadzeniu konwersji z bieżącej subskrypcji miesięcznej na roczną subskrypcję. |
-| Opłaty naliczane za konwersję na nową ofertę | Opłaty naliczane proporcjonalnie po przeprowadzeniu konwersji miesięcznej subskrypcji na nową roczną subskrypcję. |
-| Opłata proporcjonalna przy zakupie | Typ opłaty dla subskrypcji w przypadku comiesięcznego lub rocznego rozliczania. |
-| Opłata proporcjonalna przy odnowieniu | Opłata naliczana proporcjonalnie przy odnowieniu subskrypcji. |
+| Opłata za aktywację | Kwota naliczana klientowi podczas korzystania z subskrypcji po zakupie. |
+| Anulowanie opłaty | Naliczane proporcjonalnie opłaty są zwracane klientowi po zmianie skojarzonych licencji. |
+| Anulowanie prorate wystąpienia | Opłaty proporcjonalnie anulowane, gdy klient z subskrypcją miesięczną ma wstrzymaną subskrypcję i skojarzone licencje zmieniły się w ciągu tego samego miesiąca. |
+| Opłata za cykl | Okresowe opłaty za subskrypcję. |
+| Cykl prorate wystąpienia | Naliczane proporcjonalnie opłaty naliczane od klienta w przypadku zmiany skojarzonych licencji. |
+| Naliczanie opłat po anulowaniu | Proporcjonalny zwrot za nieużywaną część usługi po anulowaniu. |
+| Naliczanie opłat w przypadku konwersji poza bieżącą ofertę | Opłaty naliczane proporcjonalnie po konwersji z bieżącej miesięcznej subskrypcji na roczną subskrypcję. |
+| Naliczanie opłat w przypadku konwersji na nową ofertę | Opłaty naliczane proporcjonalnie po przekonwertowaniu miesięcznej subskrypcji na nową roczną subskrypcję. |
+| Naliczanie opłat podczas zakupu | Typ opłaty za subskrypcję w przypadku korzystania z rozliczeń miesięcznych lub rocznych. |
+| Opłata prorate podczas odnawiania | Opłaty proporcjonalnie po odnowieniu subskrypcji. |
 | Odnawianie opłaty | Opłata za odnowienie subskrypcji |
-| Oceń opłaty przy aktywacji | Opłata naliczana proporcjonalnie od aktywacji do końca okresu rozliczeniowego. |
+| Naliczanie opłat po aktywowaniu | Opłaty naliczane proporcjonalnie od aktywacji do końca okresu rozliczeniowego. |
 
-## <a name="one-time-charges"></a>Opłaty jednorazowe
+## <a name="one-time-charges"></a>Opłaty terminowe
 
-Aby zmapować te jednorazowe opłaty na fakturę, należy zsumować **wartość kolumny kwota** z pliku opartego na licencji.
+Aby zamapować te opłaty raz na fakturę, zsuń **kolumnę Amount** (Kwota) z pliku opartego na licencjach.
 
-| Opis opłaty (kolumna opłaty) w pliku uzgadniania | Wyjaśnienie opłaty |
+| Opis opłaty (kolumna ChargeType w pliku uzgodnień) | Wyjaśnienie opłaty |
 | ------------------------------------------------------------- | ------------------ |
 | Nowy | Używany podczas tworzenia nowego zakupu. |
-| addilooć | Używany w refund oryginalnego zakupu i nowej ilości po zwiększeniu. |
-| removeQuantity | Używany w refund oryginalnego zakupu i nowej ilości po zmniejszeniu. |
-| Anuluj | Używany, gdy subskrypcja została anulowana. |
-| Convert | Używany podczas uaktualniania licencji, ale liczba licencji pozostaje niezmieniona. |
+| addQuantity | Używane zarówno w przypadku zwrotu pierwotnego zakupu, jak i nowej ilości po zwiększeniu. |
+| removeQuantity | Używane zarówno w przypadku zwrotu pierwotnego zakupu, jak i nowej ilości po zmniejszeniu. |
+| Anuluj | Używane po anulowaniu subskrypcji. |
+| Convert | Używany podczas uaktualnienia licencji, ale liczba licencji pozostaje niezmieniona. |
 
 ## <a name="usage-charges"></a>Opłaty za zużycie
 
-Aby zmapować te opłaty za korzystanie z faktury, należy zsumować kolumny **PretaxCharges** z pliku opartego na użyciu.
+Aby zamapować te opłaty za użycie na fakturę, zsuń kolumnę **PretaxCharges** z pliku opartego na użyciu.
 
-| Opis opłaty (kolumna opłaty) w pliku uzgadniania | Wyjaśnienie opłaty |
+| Opis opłaty (kolumna ChargeType w pliku uzgodnień) | Wyjaśnienie opłaty |
 | ------------------------------------------------------------- | ------------------ |
-| Oceń opłatę za użycie po anulowaniu | Uzyskaj dostęp do opłat za użycie w przypadku anulowania Niepłatnego użycia w bieżącym okresie rozliczeniowym. |
-| Ocenianie opłaty za użycie dla bieżącego cyklu | Opłata za użycie w bieżącym okresie rozliczeniowym. |
+| Ocenianie opłaty za użycie po anulowaniu | Uzyskaj dostęp do opłaty za użycie po anulowaniu za niezapłacone użycie w bieżącym okresie rozliczeniowym. |
+| Ocena opłaty za użycie dla bieżącego cyklu | Dostęp do opłaty za użycie w bieżącym okresie rozliczeniowym. |
 
 ### <a name="credits"></a>Środki
 
-Aby zamapować te kredyty na fakturę:
+Aby zamapować te środki na fakturę:
 
-- Zasumuj **TotalForCustomer** z pliku opartego na licencji.
-- Suma kolumny **PostTaxTotal** z pliku opartego na użyciu.
+- **Zsumuj wartość TotalForCustomer** z pliku opartego na licencji.
+- Zsuń kolumnę **PostTaxTotal** z pliku opartego na użyciu.
 
-| Opis opłaty (kolumna opłaty) w pliku uzgadniania | Wyjaśnienie opłaty |
+| Opis opłaty (kolumna ChargeType w pliku uzgodnień) | Wyjaśnienie opłaty |
 | ------------------------------------------------------------- | ------------------ |
-| Przesunięcie elementu wiersza | Częściowe lub całkowite zwrotne do elementu wiersza, w tym podatki. |
+| Przesunięcie elementu wiersza | Częściowy lub cały zwrot do pozycji, w tym podatki. |
 
 ### <a name="usage-based-discounts"></a>Rabaty oparte na użyciu
 
-Aby zmapować te rabaty oparte na użyciu na fakturze, należy zsumować kolumny **PretaxCharges** z pliku opartego na użyciu.
+Aby zamapować te rabaty na podstawie użycia na fakturę, zsuń kolumnę **PretaxCharges** z pliku opartego na użyciu.
 
-| Opis opłaty (kolumna opłaty) w pliku uzgadniania | Wyjaśnienie opłaty |
+| Opis opłaty (kolumna ChargeType w pliku uzgodnień) | Wyjaśnienie opłaty |
 | ------------------------------------------------------------- | ------------------ |
-| Rabat aktywacji | Rabat stosowany po aktywowaniu subskrypcji. |
-| Rabat dla cyklu | Rabat stosowany do opłat okresowych. |
-| Odnów rabat | Rabat stosowany w przypadku odnowienia subskrypcji. |
-| Anuluj rabat | Opłaty są naliczane po anulowaniu rabatów. |
+| Rabat na aktywację | Rabat stosowany po aktywowaniu subskrypcji. |
+| Rabat na cykl | Rabat stosowany do okresowych opłat. |
+| Odnawianie rabatu | Rabat stosowany po odnowieniu subskrypcji. |
+| Anulowanie rabatu | Opłaty stosowane w przypadku anulowania rabatów. |
 
-### <a name="license-based-discounts"></a>Rabaty na podstawie licencji
+### <a name="license-based-discounts"></a>Rabaty oparte na licencjach
 
-Aby zmapować rabaty na podstawie licencji na fakturę, należy zsumować kolumny **TotalOtherDiscount** z pliku opartego na licencji.
+Aby zamapować rabaty na podstawie licencji na fakturę, zsumuj kolumnę **TotalOtherDiscount** z pliku opartego na licencjach.
 
 *Rabaty oparte na licencjach mogą być stosowane do wielu typów opłat.*

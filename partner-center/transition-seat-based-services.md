@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: deda7a351c79636dfb11c002810a8510782aca6d
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: b1d5f415680cad8466da631a68fb6249a5298a2d
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284455"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855985"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Przenoszenie klientów opartych na licencjach z innych kanałów & partnerów do programu Dostawca rozwiązań w chmurze licencji
 
-**Odpowiednie role**
-
-- Administrator konta
-- Agent sprzedaży
-- Agent rozliczeń
+**Odpowiednie role:** Administrator konta | Agent sprzedaży | Agent rozliczeń
 
 Jeśli klient chce zatrudnić wielu partnerów, przenieść swoje subskrypcje do innego partnera lub zarządzać subskrypcjami zakupionymi w innym miejscu, możesz przenieść ich ręcznie. Możesz również przenieść klientów do Partner Center z innego kanału.
 
@@ -39,18 +35,18 @@ Jeśli klient chce zatrudnić wielu partnerów, przenieść swoje subskrypcje do
    >Klient może kwalifikować się do otrzymania środków, jeśli został zakupiony za pośrednictwem portalu administracyjnego usługi Microsoft 365 (M365) (na przykład w ramach rozliczeń miesięcznych lub miesięcznych bezpośrednio od firmy Microsoft). Środki na subskrypcje zakupione bezpośrednio od firmy Microsoft są obsługiwane przez pomoc techniczną rozliczeń **platformy M365.** Zobacz wskazówki dotyczące usługi M365 dotyczące anulowania [subskrypcji M365.](/microsoft-365/commerce/subscriptions/cancel-your-subscription) Jeśli masz delegowane uprawnienia administracyjne dla klienta, możesz skontaktować się z pomocą techniczną M65 w imieniu klienta. Jeśli tak nie jest, poproś klienta o bezpośredni kontakt z pomocą techniczną M365, aby dowiedzieć się, do i w jaki sposób zostaną mu one nadane. Przeczytaj informacje [na temat delegowanych uprawnień administratora.](customers-revoke-admin-privileges.md)
 
 
-4. Następnie klient będzie kontynuować pracę z subskrypcjami, które zostały zaaprowizowane bez zakłóceń.
+4. Następnie klient będzie kontynuować pracę z aprowizowanych przez Ciebie subskrypcji bez zakłóceń.
 
-Jeśli aprowizujesz te same oferty, z których korzysta klient, nie ma potrzeby ponownego przypisania licencji i nie będzie żadnych zakłóceń dla użytkowników końcowych. Oferty muszą być takie same, aby zapewnić, że nie nastąpi utrata danych. Tak długo, jak łączna liczba licencji pozostaje taka sama, a oferta jest równoważna, klienci nie będą mieć żadnego wpływu.
+Jeśli aprowizujesz te same oferty, z których korzysta klient, nie ma potrzeby ponownego przypisania licencji i nie będzie żadnych zakłóceń dla użytkowników końcowych. Oferty muszą być takie same, aby zapewnić, że nie nastąpi utrata danych. Tak długo, jak łączna liczba licencji pozostaje taka sama, a oferta jest równoważna, klienci nie będą odczuwać żadnego wpływu.
 
 Jeśli przeniesiesz klientów w ramach ofert, które nie są już obsługiwane, musisz znaleźć równoważną ofertę, aby zapobiec utracie danych. Jeśli przeniesiesz klienta do innej oferty, musisz zaktualizować jego przypisanie licencji.
 
 >[!NOTE]
-> Ty, partner programu CSP, musisz znajdować się w tym samym regionie co dzierżawa klienta, aby przesunić tego klienta do Ciebie.
+> Ty, partner CSP, musisz znajdować się w tym samym regionie co dzierżawa klienta, aby przesunić tego klienta do Ciebie.
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Rozpoczynanie korzystania ze stawek płatności zgodnie z użyciem w planie platformy Azure](azure-plan-get-started.md)
+- [Rozpoczynanie korzystania ze stawek płatności zgodnie z użyciem planu platformy Azure](azure-plan-get-started.md)
  
 
-- [Różne sposoby pracy z innymi partnerami w Partner Center](work-with-other-partners.md)
+- [Różne sposoby współpracy z innymi partnerami w Partner Center](work-with-other-partners.md)
