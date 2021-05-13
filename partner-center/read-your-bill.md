@@ -1,100 +1,96 @@
 ---
-title: Jak odczytać rozliczenie & pliku Rekonesans
+title: Jak odczytać swój rachunek & pliku rekonescji
 ms.topic: article
 ms.date: 06/05/2020
-description: Dowiedz się więcej na temat faktury & pliki uzgadniania. Na rachunku są naliczane opłaty za centrum partnerskie w ramach programu, produktów i klientów w danym okresie miesięcznym.
+description: Dowiedz się więcej o plikach uzgodnień & faktur. Na rachunku są Partner Center opłaty za program, produkty i klientów w tym miesięcznym okresie.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: f16b619aba838da1d1da0c5eb13648ebb107c802
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964361"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855917"
 ---
-# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a><span data-ttu-id="c670e-104">Zapoznaj się z plikiem rachunku i rozliczeniami — Dowiedz się, jak je znaleźć w centrum partnerskim</span><span class="sxs-lookup"><span data-stu-id="c670e-104">Understand your bill and reconciliation file - learn how to find them in Partner Center</span></span>
+# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a><span data-ttu-id="58338-104">Opis pliku rachunku i uzgodnień — dowiedz się, jak znaleźć je w Partner Center</span><span class="sxs-lookup"><span data-stu-id="58338-104">Understand your bill and reconciliation file - learn how to find them in Partner Center</span></span>
 
 
-<span data-ttu-id="c670e-105">**Odpowiednie role**</span><span class="sxs-lookup"><span data-stu-id="c670e-105">**Appropriate roles**</span></span>
-
-- <span data-ttu-id="c670e-106">Administrator globalny</span><span class="sxs-lookup"><span data-stu-id="c670e-106">Global admin</span></span>
-- <span data-ttu-id="c670e-107">Administrator rozliczeń</span><span class="sxs-lookup"><span data-stu-id="c670e-107">Billing admin</span></span>
-- <span data-ttu-id="c670e-108">Agent administracyjny</span><span class="sxs-lookup"><span data-stu-id="c670e-108">Admin agent</span></span>
+<span data-ttu-id="58338-105">**Odpowiednie role:** Administrator globalny | Administrator rozliczeń | Agent administracyjny</span><span class="sxs-lookup"><span data-stu-id="58338-105">**Appropriate roles**: Global admin | Billing admin | Admin agent</span></span>
 
 
-<span data-ttu-id="c670e-109">**Faktura** to **Podsumowanie wszystkich opłat za centrum partnerskie** (w ramach programu, wszystkich produktów i wszystkich klientów).</span><span class="sxs-lookup"><span data-stu-id="c670e-109">Your **invoice** is a **summary of all your Partner Center charges** (across the program, all products, and all customers).</span></span> 
+<span data-ttu-id="58338-106">Faktura jest **podsumowaniem wszystkich opłat Partner Center** (w ramach programu, wszystkich produktów i wszystkich klientów). </span><span class="sxs-lookup"><span data-stu-id="58338-106">Your **invoice** is a **summary of all your Partner Center charges** (across the program, all products, and all customers).</span></span> 
 
-## <a name="find-your-bill-and-reconciliation-file"></a><span data-ttu-id="c670e-110">Znajdowanie pliku rachunku i uzgodnienia</span><span class="sxs-lookup"><span data-stu-id="c670e-110">Find your bill and reconciliation file</span></span> 
+## <a name="find-your-bill-and-reconciliation-file"></a><span data-ttu-id="58338-107">Znajdowanie pliku rachunku i uzgodnień</span><span class="sxs-lookup"><span data-stu-id="58338-107">Find your bill and reconciliation file</span></span> 
 
-<span data-ttu-id="c670e-111">Fakturę można znaleźć na stronie rozliczenia pulpitu nawigacyjnego w centrum partnerskim.</span><span class="sxs-lookup"><span data-stu-id="c670e-111">You can find your invoice on the Billing page of the dashboard in Partner Center.</span></span> <span data-ttu-id="c670e-112">Możesz również znaleźć historię rozliczeń, trendy wydatków i pliki uzgadniania na tej stronie.</span><span class="sxs-lookup"><span data-stu-id="c670e-112">You can also find your billing history, spending trends, and reconciliation files on this page.</span></span> 
+<span data-ttu-id="58338-108">Fakturę można znaleźć na stronie Rozliczenia pulpitu nawigacyjnego w Partner Center.</span><span class="sxs-lookup"><span data-stu-id="58338-108">You can find your invoice on the Billing page of the dashboard in Partner Center.</span></span> <span data-ttu-id="58338-109">Na tej stronie można również znaleźć historię rozliczeń, trendy wydatków i pliki uzgodnień.</span><span class="sxs-lookup"><span data-stu-id="58338-109">You can also find your billing history, spending trends, and reconciliation files on this page.</span></span> 
 
-1. <span data-ttu-id="c670e-113">Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home)Centrum partnerskiego.</span><span class="sxs-lookup"><span data-stu-id="c670e-113">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard/home).</span></span> 
+1. <span data-ttu-id="58338-110">Zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard/home)</span><span class="sxs-lookup"><span data-stu-id="58338-110">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard/home).</span></span> 
 
-2. <span data-ttu-id="c670e-114">W menu po lewej stronie wybierz pozycję **rozliczenia**.</span><span class="sxs-lookup"><span data-stu-id="c670e-114">In the left-hand menu, select **Billing**.</span></span> 
+2. <span data-ttu-id="58338-111">W menu po lewej stronie wybierz pozycję **Rozliczenia.**</span><span class="sxs-lookup"><span data-stu-id="58338-111">In the left-hand menu, select **Billing**.</span></span> 
 
-3. <span data-ttu-id="c670e-115">Na stronie stanu rozliczeń wybierz plik faktury lub uzgodnienia, aby wyświetlić bardziej szczegółowe informacje.</span><span class="sxs-lookup"><span data-stu-id="c670e-115">On the billing status page, select an invoice or reconciliation file to view more detailed information.</span></span> 
+3. <span data-ttu-id="58338-112">Na stronie stanu rozliczeń wybierz plik faktury lub uzgodnienia, aby wyświetlić bardziej szczegółowe informacje.</span><span class="sxs-lookup"><span data-stu-id="58338-112">On the billing status page, select an invoice or reconciliation file to view more detailed information.</span></span> 
 
-<span data-ttu-id="c670e-116">Możesz znaleźć link do najnowszej faktury w górnej części strony w obszarze saldo konta na podstawie daty ostatniej faktury.</span><span class="sxs-lookup"><span data-stu-id="c670e-116">You can find a link to your latest invoice at the top of the page under Account balance as of last invoice date.</span></span> 
+<span data-ttu-id="58338-113">Link do najnowszej faktury można znaleźć w górnej części strony w obszarze Saldo konta od daty ostatniej faktury.</span><span class="sxs-lookup"><span data-stu-id="58338-113">You can find a link to your latest invoice at the top of the page under Account balance as of last invoice date.</span></span> 
 
-<span data-ttu-id="c670e-117">Poprzednie faktury można znaleźć w sekcji Historia rozliczeń.</span><span class="sxs-lookup"><span data-stu-id="c670e-117">You can find previous invoices in the Billing history section.</span></span> <span data-ttu-id="c670e-118">Wybierz odpowiedni rok, a następnie wybierz strzałkę listy rozwijanej obok odpowiedniego okresu rozliczeniowego.</span><span class="sxs-lookup"><span data-stu-id="c670e-118">Choose the appropriate year, then select the drop-down arrow next to the appropriate Billing period.</span></span> <span data-ttu-id="c670e-119">Wybierz łącze obok pozycji faktury (PDF), aby pobrać fakturę tego okresu.</span><span class="sxs-lookup"><span data-stu-id="c670e-119">Select the link next to Invoices (.pdf) to download that period's invoice.</span></span> 
+<span data-ttu-id="58338-114">Poprzednie faktury można znaleźć w sekcji Historia rozliczeń.</span><span class="sxs-lookup"><span data-stu-id="58338-114">You can find previous invoices in the Billing history section.</span></span> <span data-ttu-id="58338-115">Wybierz odpowiedni rok, a następnie wybierz strzałkę listy rozwijanej obok odpowiedniego okresu rozliczeniowego.</span><span class="sxs-lookup"><span data-stu-id="58338-115">Choose the appropriate year, then select the drop-down arrow next to the appropriate Billing period.</span></span> <span data-ttu-id="58338-116">Wybierz link obok opcji Faktury (PDF), aby pobrać fakturę z tego okresu.</span><span class="sxs-lookup"><span data-stu-id="58338-116">Select the link next to Invoices (.pdf) to download that period's invoice.</span></span> 
 
-## <a name="invoice-types"></a><span data-ttu-id="c670e-120">Typy faktur</span><span class="sxs-lookup"><span data-stu-id="c670e-120">Invoice types</span></span>
+## <a name="invoice-types"></a><span data-ttu-id="58338-117">Typy faktur</span><span class="sxs-lookup"><span data-stu-id="58338-117">Invoice types</span></span>
 
-<span data-ttu-id="c670e-121">Firma Microsoft będzie wydawać jedną fakturę za wszelkie opłaty za licencje (takie jak Office 365) i opłaty za użycie (na przykład platformę Azure) oraz oddzielne faktury za jednorazowe opłaty (takie jak Azure — RI, Marketplace lub Azure plan).</span><span class="sxs-lookup"><span data-stu-id="c670e-121">Microsoft will issue one invoice for any license-based charges (such as Office 365) and usage-based charges (such as Azure) and a separate invoice for one-time charges (such as Azure RI, Marketplace, or Azure plan).</span></span>
+<span data-ttu-id="58338-118">Firma Microsoft wystawi jedną fakturę dla wszelkich opłat opartych na licencjach (takich jak usługa Office 365) i opłat opartych na użyciu (takich jak platforma Azure) oraz oddzielnej faktury za opłaty godzinowe (na przykład za użycie usługi Azure RI, witryny Marketplace lub planu platformy Azure).</span><span class="sxs-lookup"><span data-stu-id="58338-118">Microsoft will issue one invoice for any license-based charges (such as Office 365) and usage-based charges (such as Azure) and a separate invoice for one-time charges (such as Azure RI, Marketplace, or Azure plan).</span></span>
 
-<span data-ttu-id="c670e-122">Na przykład</span><span class="sxs-lookup"><span data-stu-id="c670e-122">For example,</span></span>  
+<span data-ttu-id="58338-119">Na przykład</span><span class="sxs-lookup"><span data-stu-id="58338-119">For example,</span></span>  
 
-<span data-ttu-id="c670e-123">**Scenariusz 1 [pojedyncza waluta]**: partner ma zakupy dla ofert 145P i licencji usługi O365,</span><span class="sxs-lookup"><span data-stu-id="c670e-123">**Scenario 1 [Single Currency]**: Partner has purchases for 145P offer and O365 licenses,</span></span>  
+<span data-ttu-id="58338-120">**Scenariusz 1 [jedna waluta]**: Partner ma zakupy dla oferty 145P i licencji usługi O365,</span><span class="sxs-lookup"><span data-stu-id="58338-120">**Scenario 1 [Single Currency]**: Partner has purchases for 145P offer and O365 licenses,</span></span>  
 
-- <span data-ttu-id="c670e-124">Partner otrzyma jedną fakturę PDF i 2 pliki uzgadniania obejmujące opłaty dla usług O365 i Azure (145p).</span><span class="sxs-lookup"><span data-stu-id="c670e-124">Partner will get one invoice PDF and 2 reconciliation files covering the charges for both O365 and Azure (145p).</span></span>  
+- <span data-ttu-id="58338-121">Partner otrzyma jeden plik PDF faktury i 2 pliki uzgodnień obejmujące opłaty za usługę O365 i platformę Azure (145p).</span><span class="sxs-lookup"><span data-stu-id="58338-121">Partner will get one invoice PDF and 2 reconciliation files covering the charges for both O365 and Azure (145p).</span></span>  
 
-<span data-ttu-id="c670e-125">**Scenariusz 2 [pojedyncza waluta]**: partner kupił zakupy na platformie Azure, na rynku i/lub na platformie Azure, a także za pomocą 145p zakupów.</span><span class="sxs-lookup"><span data-stu-id="c670e-125">**Scenario 2 [Single Currency]**: Partner has purchases for Azure RI, Marketplace and/or Azure plan along with 145p purchases.</span></span>
+<span data-ttu-id="58338-122">**Scenariusz 2 [jedna waluta]**: Partner ma zakupy dla planu usługi Azure RI, witryny Marketplace i/lub platformy Azure wraz z zakupami w wysokości 145p.</span><span class="sxs-lookup"><span data-stu-id="58338-122">**Scenario 2 [Single Currency]**: Partner has purchases for Azure RI, Marketplace and/or Azure plan along with 145p purchases.</span></span>
 
-- <span data-ttu-id="c670e-126">Partner otrzyma jedną fakturę PDF i plik uzgadniania obejmujący opłaty za usługę Azure (145p).</span><span class="sxs-lookup"><span data-stu-id="c670e-126">Partner will get one invoice PDF and a reconciliation file covering the charges for Azure (145p).</span></span> 
+- <span data-ttu-id="58338-123">Partner otrzyma jeden plik PDF faktury i plik uzgodnień obejmujący opłaty za platformę Azure (145p).</span><span class="sxs-lookup"><span data-stu-id="58338-123">Partner will get one invoice PDF and a reconciliation file covering the charges for Azure (145p).</span></span> 
 
-- <span data-ttu-id="c670e-127">Partner otrzyma kolejną fakturę PDF i plik uzgadniania obejmujący opłaty za usługę Azure RI, Marketplace, plan platformy Azure.</span><span class="sxs-lookup"><span data-stu-id="c670e-127">Partner will receive another invoice PDF and a reconciliation file covering their charges for Azure RI, Marketplace, Azure plan.</span></span> 
+- <span data-ttu-id="58338-124">Partner otrzyma kolejny plik PDF faktury i plik uzgodnień obejmujący opłaty za usługę Azure RI, platformę Marketplace i plan platformy Azure.</span><span class="sxs-lookup"><span data-stu-id="58338-124">Partner will receive another invoice PDF and a reconciliation file covering their charges for Azure RI, Marketplace, Azure plan.</span></span> 
 
-<span data-ttu-id="c670e-128">**Scenariusz 3 [wiele walut]**: partner kupił zakupy dla platformy Azure w walucie DKK i plan platformy Azure w EUR i 145p zakupy w euro.</span><span class="sxs-lookup"><span data-stu-id="c670e-128">**Scenario 3 [Multi-Currency]**: Partner has purchases for Azure RI in DKK and Azure plan in EUR along with 145p purchases in EUR.</span></span>
+<span data-ttu-id="58338-125">**Scenariusz 3 [Multi-Currency]**: Partner ma zakupy dla usługi Azure RI w systemie DKK i planu platformy Azure w EUR wraz z zakupami w wysokości 145p w EUR.</span><span class="sxs-lookup"><span data-stu-id="58338-125">**Scenario 3 [Multi-Currency]**: Partner has purchases for Azure RI in DKK and Azure plan in EUR along with 145p purchases in EUR.</span></span>
 
-- <span data-ttu-id="c670e-129">Partner otrzyma jedną fakturę PDF i plik uzgadniania obejmujący opłaty za usługę Azure RI w DKK.</span><span class="sxs-lookup"><span data-stu-id="c670e-129">Partner will receive one invoice PDF and a reconciliation file covering the charges for Azure RI in DKK.</span></span> 
+- <span data-ttu-id="58338-126">Partner otrzyma jeden plik PDF faktury i plik uzgodnień obejmujący opłaty za RI platformy Azure w systemie DKK.</span><span class="sxs-lookup"><span data-stu-id="58338-126">Partner will receive one invoice PDF and a reconciliation file covering the charges for Azure RI in DKK.</span></span> 
 
-- <span data-ttu-id="c670e-130">Partner otrzyma jedną fakturę PDF i plik uzgadniania obejmujący opłaty za usługę Azure plan w EUR.</span><span class="sxs-lookup"><span data-stu-id="c670e-130">Partner will receive one invoice PDF and a reconciliation file covering the charges for Azure plan in EUR.</span></span> 
+- <span data-ttu-id="58338-127">Partner otrzyma jeden plik PDF faktury i plik uzgodnień obejmujący opłaty za plan platformy Azure w eur.</span><span class="sxs-lookup"><span data-stu-id="58338-127">Partner will receive one invoice PDF and a reconciliation file covering the charges for Azure plan in EUR.</span></span> 
 
-- <span data-ttu-id="c670e-131">Partner otrzyma kolejną fakturę PDF i plik uzgadniania obejmujący opłaty za usługę 145p w EUR (lub w walucie rozliczeniowej partnera).</span><span class="sxs-lookup"><span data-stu-id="c670e-131">Partner will receive another invoice PDF and a reconciliation file covering their charges for 145p offer in EUR (or partner billing currency).</span></span> 
+- <span data-ttu-id="58338-128">Partner otrzyma kolejny plik PDF faktury i plik uzgodnień obejmujący opłaty za ofertę 145p w eur (lub walucie rozliczeniowej partnera).</span><span class="sxs-lookup"><span data-stu-id="58338-128">Partner will receive another invoice PDF and a reconciliation file covering their charges for 145p offer in EUR (or partner billing currency).</span></span> 
 
 
-## <a name="understanding-invoice-pdf"></a><span data-ttu-id="c670e-132">Informacje o dokumencie PDF faktury</span><span class="sxs-lookup"><span data-stu-id="c670e-132">Understanding invoice PDF</span></span> 
+## <a name="understanding-invoice-pdf"></a><span data-ttu-id="58338-129">Informacje o fakturze w formacie PDF</span><span class="sxs-lookup"><span data-stu-id="58338-129">Understanding invoice PDF</span></span> 
 
-<span data-ttu-id="c670e-133">**Faktury za użycie i opłaty oparte na licencji**: faktury za opłaty za usługi, takie jak Office 365 i Azure, będą dostępne w ciągu dwóch (2) dni od wybranej daty rozliczenia [UTC].</span><span class="sxs-lookup"><span data-stu-id="c670e-133">**Invoices for Usage and license-based charges**: Invoices for charges for services such as Office 365 and Azure will be available within two (2) days of your selected billing date [UTC].</span></span>  
+<span data-ttu-id="58338-130">**Faktury za** użycie i opłaty na podstawie licencji: faktury za opłaty za usługi, takie jak Office 365 i Azure, będą dostępne w ciągu dwóch (2) dni od wybranej daty rozliczeniowej [UTC].</span><span class="sxs-lookup"><span data-stu-id="58338-130">**Invoices for Usage and license-based charges**: Invoices for charges for services such as Office 365 and Azure will be available within two (2) days of your selected billing date [UTC].</span></span>  
 
-<span data-ttu-id="c670e-134">**Faktury za jednorazowej i opłaty cykliczne**: faktury dla usług takich jak Azure RI, Azure plan i Marketplace będą dostępne nie później niż w ciągu każdego miesiąca.</span><span class="sxs-lookup"><span data-stu-id="c670e-134">**Invoices for onetime and recurring charges**: Invoices for charges for services such as Azure RI, Azure plan, Marketplace will be available not later than 8th of every month.</span></span>  
+<span data-ttu-id="58338-131">**Faktury za opłaty jednorazowo** i cykliczne: faktury za opłaty za usługi, takie jak azure RI, plan platformy Azure i portal Marketplace, będą dostępne nie później niż 8 dnia każdego miesiąca.</span><span class="sxs-lookup"><span data-stu-id="58338-131">**Invoices for onetime and recurring charges**: Invoices for charges for services such as Azure RI, Azure plan, Marketplace will be available not later than 8th of every month.</span></span>  
 
-<span data-ttu-id="c670e-135">Poniżej znajdują się niektóre pola klucza w dokumencie PDF faktury —</span><span class="sxs-lookup"><span data-stu-id="c670e-135">Below are some of the key fields on the Invoice PDF document –</span></span>
+<span data-ttu-id="58338-132">Poniżej przedstawiono niektóre z kluczowych pól w dokumencie PDF faktury —</span><span class="sxs-lookup"><span data-stu-id="58338-132">Below are some of the key fields on the Invoice PDF document –</span></span>
 
-<span data-ttu-id="c670e-136">**Numer faktury**: unikatowy identyfikator dokumentu faktury wygenerowanego dla odpowiedniego okresu rozliczeniowego.</span><span class="sxs-lookup"><span data-stu-id="c670e-136">**Invoice number**: Unique identifier for the invoice document generated for the respective billing period.</span></span> 
+<span data-ttu-id="58338-133">**Numer faktury:** unikatowy identyfikator dokumentu faktury wygenerowanego dla odpowiedniego okresu rozliczeniowego.</span><span class="sxs-lookup"><span data-stu-id="58338-133">**Invoice number**: Unique identifier for the invoice document generated for the respective billing period.</span></span> 
 
-<span data-ttu-id="c670e-137">**Okres rozliczeniowy**: jest to okres, w którym masz użycie i usługi oparte na licencji.</span><span class="sxs-lookup"><span data-stu-id="c670e-137">**Billing period**: This is the period during which you have usages and license-based services.</span></span> 
+<span data-ttu-id="58338-134">**Okres rozliczeniowy:** jest to okres, w którym masz użycie i usługi oparte na licencjach.</span><span class="sxs-lookup"><span data-stu-id="58338-134">**Billing period**: This is the period during which you have usages and license-based services.</span></span> 
 
-<span data-ttu-id="c670e-138">**Data faktury**: Data rozliczenia lub Data rocznicy, w której jest generowana faktura co miesiąc.</span><span class="sxs-lookup"><span data-stu-id="c670e-138">**Invoice date**: The billing date or anniversary date on which your invoice is generated each month.</span></span> 
+<span data-ttu-id="58338-135">**Data faktury:** data rozliczeniowa lub data rocznicy, w której faktura jest generowana co miesiąc.</span><span class="sxs-lookup"><span data-stu-id="58338-135">**Invoice date**: The billing date or anniversary date on which your invoice is generated each month.</span></span> 
 
-<span data-ttu-id="c670e-139">**Termin płatności**: Data, o którą należy otrzymać płatność.</span><span class="sxs-lookup"><span data-stu-id="c670e-139">**Payment due date**: The date by which your payment must be received.</span></span> 
+<span data-ttu-id="58338-136">**Termin płatności:** data, do której należy odebrać płatność.</span><span class="sxs-lookup"><span data-stu-id="58338-136">**Payment due date**: The date by which your payment must be received.</span></span> 
 
-<span data-ttu-id="c670e-140">**Opłaty**: kwota należna w walucie rozliczeniowej dla odpowiedniego okresu rozliczeniowego.</span><span class="sxs-lookup"><span data-stu-id="c670e-140">**Charges**: The amount due in your billing currency for the respective billing period.</span></span> 
+<span data-ttu-id="58338-137">**Opłaty:** kwota należności w walucie rozliczeniowej dla odpowiedniego okresu rozliczeniowego.</span><span class="sxs-lookup"><span data-stu-id="58338-137">**Charges**: The amount due in your billing currency for the respective billing period.</span></span> 
 
-<span data-ttu-id="c670e-141">**Kredyty**: kredyty (takie jak SLA) lub korekty zmian wprowadzonych w subskrypcjach (na przykład zwiększenie lub zmniejszenie licencji).</span><span class="sxs-lookup"><span data-stu-id="c670e-141">**Credits**: Credits (such as SLA) or adjustments for changes made to subscriptions (for example, license increases or decreases).</span></span> 
+<span data-ttu-id="58338-138">**Środki:** środki (takie jak umowa SLA) lub korekty zmian wprowadzonych w subskrypcjach (na przykład zwiększenie lub zmniejszenie liczby licencji).</span><span class="sxs-lookup"><span data-stu-id="58338-138">**Credits**: Credits (such as SLA) or adjustments for changes made to subscriptions (for example, license increases or decreases).</span></span> 
 
-<span data-ttu-id="c670e-142">**Instrukcje dotyczące płatności**: Opis sposobu płacenia faktury w zależności od regionu.</span><span class="sxs-lookup"><span data-stu-id="c670e-142">**Payment instructions**: Description of how to pay your invoice, based on your region.</span></span> <span data-ttu-id="c670e-143">Zawsze pamiętaj o uwzględnieniu numeru faktury podczas dokonywania płatności.</span><span class="sxs-lookup"><span data-stu-id="c670e-143">Always be sure to include your invoice number when making a payment.</span></span> 
+<span data-ttu-id="58338-139">**Instrukcje** dotyczące płatności: opis sposobu płacenia faktury w zależności od regionu.</span><span class="sxs-lookup"><span data-stu-id="58338-139">**Payment instructions**: Description of how to pay your invoice, based on your region.</span></span> <span data-ttu-id="58338-140">Zawsze pamiętaj, aby podczas dokonywania płatności uwzględnić numer faktury.</span><span class="sxs-lookup"><span data-stu-id="58338-140">Always be sure to include your invoice number when making a payment.</span></span> 
 
-<span data-ttu-id="c670e-144">Aby uzyskać szczegółowy opis wszystkich pól w pliku faktury (w tym pól dla opłat jednorazowych), zobacz [pola pliku faktury](invoice-file.md).</span><span class="sxs-lookup"><span data-stu-id="c670e-144">For a detailed description of all the fields in your invoice file (including fields for one-time charges), see [Invoice file fields](invoice-file.md).</span></span> 
+<span data-ttu-id="58338-141">Aby uzyskać szczegółowy opis wszystkich pól w pliku faktury (w tym pól opłat godzinowych), zobacz [Pola pliku faktury](invoice-file.md).</span><span class="sxs-lookup"><span data-stu-id="58338-141">For a detailed description of all the fields in your invoice file (including fields for one-time charges), see [Invoice file fields](invoice-file.md).</span></span> 
 
-## <a name="understand-reconciliation-files"></a><span data-ttu-id="c670e-145">Omówienie plików uzgadniania</span><span class="sxs-lookup"><span data-stu-id="c670e-145">Understand reconciliation files</span></span>
+## <a name="understand-reconciliation-files"></a><span data-ttu-id="58338-142">Opis plików uzgodnień</span><span class="sxs-lookup"><span data-stu-id="58338-142">Understand reconciliation files</span></span>
 
- <span data-ttu-id="c670e-146">Pliki uzgadniania, które udostępniają szczegółowe dane dotyczące szczegółów opłat, są dostępne do pobrania wraz z DOKUMENTem faktury.</span><span class="sxs-lookup"><span data-stu-id="c670e-146">Reconciliation files, which provides a drill down/itemized details of your charges, are available to download along with the Invoice PDF.</span></span> <span data-ttu-id="c670e-147">Pliki uzgadniania obejmują identyfikatory klientów i identyfikatory subskrypcji, których można użyć do tworzenia faktur klienta.</span><span class="sxs-lookup"><span data-stu-id="c670e-147">The reconciliation files include customer identifiers and subscription identifiers that you can use to create customer invoices.</span></span> <span data-ttu-id="c670e-148">Zapoznaj się z  [tematem jak używać plików uzgadniania](use-the-reconciliation-files.md) , aby uzyskać więcej szczegółów na temat plików rekonesans.</span><span class="sxs-lookup"><span data-stu-id="c670e-148">Please refer to  [How to use the reconciliation files](use-the-reconciliation-files.md) to get more details on the recon files.</span></span> 
+ <span data-ttu-id="58338-143">Pliki uzgodnień, które zapewniają szczegółowe/szczegółowe informacje o opłatach, są dostępne do pobrania wraz z dokumentem PDF faktury.</span><span class="sxs-lookup"><span data-stu-id="58338-143">Reconciliation files, which provides a drill down/itemized details of your charges, are available to download along with the Invoice PDF.</span></span> <span data-ttu-id="58338-144">Pliki uzgodnień obejmują identyfikatory klientów i identyfikatory subskrypcji, których można użyć do tworzenia faktur klientów.</span><span class="sxs-lookup"><span data-stu-id="58338-144">The reconciliation files include customer identifiers and subscription identifiers that you can use to create customer invoices.</span></span> <span data-ttu-id="58338-145">Aby uzyskać więcej informacji na temat plików uzgodnień, zobacz Jak używać plików  [uzgodnień.](use-the-reconciliation-files.md)</span><span class="sxs-lookup"><span data-stu-id="58338-145">Please refer to  [How to use the reconciliation files](use-the-reconciliation-files.md) to get more details on the recon files.</span></span> 
 
-## <a name="next-steps"></a><span data-ttu-id="c670e-149">Następne kroki</span><span class="sxs-lookup"><span data-stu-id="c670e-149">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="58338-146">Następne kroki</span><span class="sxs-lookup"><span data-stu-id="58338-146">Next steps</span></span>
 
-- [<span data-ttu-id="c670e-150">Jak używać plików uzgadniania</span><span class="sxs-lookup"><span data-stu-id="c670e-150">How to use the reconciliation files</span></span>](use-the-reconciliation-files.md)
+- [<span data-ttu-id="58338-147">Jak używać plików uzgodnień</span><span class="sxs-lookup"><span data-stu-id="58338-147">How to use the reconciliation files</span></span>](use-the-reconciliation-files.md)
