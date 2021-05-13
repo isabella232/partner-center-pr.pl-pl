@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5773432f829a701baf4b36bdbae026241d0357a2
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 17fe2496c88adf4a1e271f1dc8275e7e0643e16a
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172187"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818647"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>Aktywowanie Microsoft Partner Network korzyści technicznych poza Partner Center
 
@@ -25,7 +25,7 @@ ms.locfileid: "108172187"
 
 Ten artykuł jest dla Microsoft Partner Network (MPN) nadal korzystających z Partner Membership Center (PMC). Ci członkowie potrzebują pomocy w aktywowaniu niektórych korzyści związanych z członkostwem w programie MPN, takich jak korzyści techniczne, poza bieżącym Partner Center [nawigacyjnym.](https://partner.microsoft.com/dashboard)
 
-Wielu Microsoft Partner Network (MPN) zostało już zmigrowanych z usługi [Partner Membership Center](prepare-pmc-pc-migration.md) do Partner Center, aby ułatwić zarządzanie ich użytkownikami, klientami i korzyściami mpn.
+**Większość Microsoft Partner Network (MPN) została już zmigrowana z usługi [Partner Membership Center](prepare-pmc-pc-migration.md) do Partner Center, aby ułatwić zarządzanie ich użytkownikami, klientami i korzyściami mpn.**
 
 Jeśli Twoje członkostwo w programie MPN nadal Partner Membership Center (PMC), potrzebujesz pomocy dotyczącej aktywowania niektórych korzyści z programu MPN.
 
@@ -33,7 +33,7 @@ Jeśli Twoje członkostwo w programie MPN nadal Partner Membership Center (PMC),
 
 Jeśli jesteś użytkownikiem aplikacji PMC, zapoznaj się z tą tabelą, aby uzyskać pomoc w aktywowaniu korzyści technicznych.
 
-(Jeśli masz już konto Partner Center z dostępem administratora globalnego lub administratora partnera MPN, zobacz Zarządzanie korzyściami [technicznymi](https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits#manage-technical-benefits)
+(Jeśli masz już konto Partner Center z dostępem administratora globalnego lub administratora partnera MPN, zobacz Wyświetlanie i aktywowanie korzyści [pomocy technicznej](mpn-benefits-technical-support.md#view-and-activate-your-technical-support-benefits))
 
 |Dla tego regionu  | Kontakt |
 |:--------|:------------|
@@ -43,15 +43,15 @@ Jeśli jesteś użytkownikiem aplikacji PMC, zapoznaj się z tą tabelą, aby uz
 |Australia, Nowa Zelandia i Australia  | [Pomoc techniczna dla frontlinii partnera](https://partner.microsoft.com/support?issueid=300-0042)  |
 |Azja i Pacyfik i Chiny  | Pomoc techniczna  |
 
-\*Tylko dla partnerów w Europie, na Bliskim Wschód i w Azja **(EMEA):** Podczas wiadomości e-mail regform należy uwzględnić następujące identyfikator partnera e-mail skojarzone z programem MPN, nazwę, nazwę firmy, numer telefonu, miasto i kraj. Użyj regformu, aby uzyskać pomoc przy tworzeniu lub aktywowaniu kontraktów pomocy technicznej. Jeśli masz inne problemy związane z programem MPN, skontaktuj się [z pomocą techniczną frontline partnera](https://partner.microsoft.com/support?issueid=300-0042).
+\*Tylko dla partnerów w Europie, na Bliskim Wschód i w Azja **(EMEA):** Podczas wiadomości e-mail regform należy uwzględnić następujące identyfikator partnera e-mail skojarzone z programem MPN, nazwę, nazwę firmy, numer telefonu, miasto i kraj. Użyj regformu, aby uzyskać pomoc przy tworzeniu lub aktywowaniu kontraktów pomocy technicznej. Jeśli masz inne problemy związane z programem MPN, skontaktuj się [z pomocą techniczną frontline partnera.](https://partner.microsoft.com/support?issueid=300-0042)
 
-Po aktywowaniu korzyści osoba kontaktowa programu skojarzona z podstawowymi korzyściami firmy otrzyma identyfikatory pomocy technicznej produktu dla tej korzyści. Te identyfikatory będą zawierać identyfikator **dostępu i** **identyfikator kontraktu**. 
+Po aktywowaniu korzyści osoba kontaktowa programu skojarzona z podstawowymi korzyściami firmy otrzyma identyfikatory pomocy technicznej dla tej korzyści. Te identyfikatory będą zawierać **identyfikator dostępu i** identyfikator **kontraktu**. 
 
-Użytkownik lub użytkownicy twojej firmy mogą potrzebować udostępnić te identyfikatory pomocy technicznej podczas pierwszego przesyłania wniosku o pomoc techniczną dla niektórych typów produktów lub usług.
+Użytkownik lub użytkownicy twojej firmy mogą potrzebować udostępnić te identyfikatory pomocy technicznej przy pierwszym przesłaniu wniosku o pomoc techniczną dla niektórych typów produktów lub usług.
 
 ## <a name="next-steps"></a>Następne kroki
 
 - [Migrowanie z Partner Membership Center do Partner Center](prepare-pmc-pc-migration.md)
 - [Dowiedz się więcej o kompetencjach i korzyściach związanych z mpn](learn-about-competencies.md)
-- [Dowiedz się, jak zarządzać korzyściami z korzystania z sieci MPN w Partner Center](manage-your-partner-network-benefits.md)
+- [Dowiedz się, jak zarządzać korzyściami mpn w Partner Center](manage-your-partner-network-benefits.md)
 - [Znajdź korzyści związane z programem MPN i identyfikatory pomocy technicznej w Partner Center](mpn-find-benefits.md)

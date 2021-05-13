@@ -4,39 +4,36 @@ ms.topic: how-to
 ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, jakie nieprzypisane płatności są widoczne na stronie rozliczeniowej Centrum partnerskiego. Dowiedz się również, jak zastosować je do faktur.
+description: Dowiedz się, czym są nieprzydzielone płatności, gdy zobaczysz je na Partner Center Rozliczeń. Dowiedz się również, jak stosować je do faktur.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d3920cbdc52a844477aacac9c7ac2122c14edeba
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 018416585ea141d4842ec0787b59fd7e214c9999
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755806"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818630"
 ---
-# <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Zarządzanie przydzielonymi płatnościami na stronie rozliczeniowej Centrum partnerskiego
+# <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Zarządzanie nieprzydzielonych płatnościami na Partner Center rozliczeń
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator rozliczeń | Administrator konta
 
-- Administrator rozliczeń
-- Administrator konta
+Czasami na stronie Rozliczeń może być widać nieprzydzieloną płatność. Nieprzydzielona płatność to płatność dokonana wobec firmy Microsoft, która nie jest stosowana do określonej faktury.
 
-Czasami może zostać wyświetlona Niezaalokowana płatność na stronie rozliczeń. Przydzieloną płatność to płatność dokonana w firmie Microsoft, która nie została zastosowana do konkretnej faktury.
+## <a name="to-view-your-unallocated-payments"></a>Aby wyświetlić nieprzydzielone płatności
 
-## <a name="to-view-your-unallocated-payments"></a>Aby wyświetlić nieprzypisane płatności
+1. [Zaloguj się do pulpitu Partner Center nawigacyjnego.](https://partner.microsoft.com/dashboard/home)
 
-1. [Zaloguj się do pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/home).
+2. W menu po lewej stronie wybierz pozycję **Rozliczenia.**
 
-2. W menu po lewej stronie wybierz pozycję **rozliczenia**.
+3. Na stronie Rozliczenia znajdź sekcję **Nieprzydzielona** płatność. 
 
-3. Na stronie rozliczenia Znajdź **przydzieloną sekcję płatności** . 
+Aby zastosować tę kwotę do określonej faktury, wyślij wiadomość e-mail i poinformuj nas, do której faktury bposcapp@microsoft.com zastosować tę płatność. Pamiętaj, aby uwzględnić wszystkie informacje, które zostałyby podane podczas dokonywania płatności. Strona Rozliczenia zostanie zaktualizowana za 5–6 dni. 
 
-Aby zastosować tę kwotę do określonej faktury, wiadomości e-mail bposcapp@microsoft.com i poinformować nas o tym, do której faktury zastosować tę płatność. Pamiętaj o uwzględnieniu wszystkich informacji, które byłyby w przypadku dokonania płatności. Twoja strona rozliczenia będzie aktualizowana w ciągu 5-6 dni. 
-
-Nieprzypisane płatności pozostają bez przydziału, dopóki nie zostaną przypisane do faktury. 
+Nieprzydzielone płatności pozostają nieprzydzielone do momentu przypisania ich do faktury. 
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Rozliczanie za komercyjne produkty i subskrypcje w witrynie Marketplace w centrum partnerskim](csp-commercial-marketplace-billing.md)
+- [Rozliczenia za produkty i subskrypcje platformy handlowej w Partner Center](csp-commercial-marketplace-billing.md)

@@ -1,92 +1,87 @@
 ---
-title: Centrum partnerskie — licencje na produkty
+title: Partner Center Insights — licencje produktów
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Zapoznaj się z raportem dotyczącym licencji produktu i Dowiedz się, jak ulepszyć produkty w chmurze oparte na licencjonowaniu, które są sprzedawane lub zarządzane przez klientów.
+description: Zapoznaj się z tym raportem licencji produktu i dowiedz się, jak ulepszyć swoje licencjonowane produkty w chmurze, które sprzedajesz lub zarządzasz swoimi klientami.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14cd4664ecfb140b82dfd27994ff99c7a62d2261
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 15658abdbf23c1181fb411fd66673fc9699250ae
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086910"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855169"
 ---
-# <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Raport dotyczący licencji produktu na pulpicie nawigacyjnym usługi Partner Center Insights
+# <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Raport Licencje produktów na pulpicie nawigacyjnym Partner Center Insights
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Agent administracyjny | Przeglądarka raportów | Przeglądarka raportów dla kierownictwa
 
-- Administrator globalny
-- Agent administracyjny
-- Podgląd raportów
-- Executive — Podgląd raportów
-
-Raport licencje na produkty przedstawia analizę licencji dla produktów w chmurze opartych na licencjach, takich jak Office 365, Dynamics, Microsoft 365, Power BI i innych. Przedstawione tutaj analizy są związane z użyciem licencji sprzedawanych lub zarządzanych przez klientów. Poniższe sekcje można wyświetlić w raporcie licencje na produkty.
+Raport Licencje produktów przedstawia analizę licencji dla produktów w chmurze opartych na licencjach, takich jak Office 365, Dynamics, Microsoft 365, Power BI i inne. Analiza przedstawiona w tym miejscu jest skojarzona z użyciem sprzedanych licencji lub licencji, które zarządzasz dla klientów. Poniższe sekcje można wyświetlić w raporcie Licencje produktów.
 
 - Podsumowanie
-- Geograficzne rozmieszczenie licencji
-- Dodanie licencji
-- Dystrybucja licencji według lokalizacji partnerów, kanału sprzedaży, jednostek SKU, typu dołączania partnera, segmentu
+- Geograficzne rozrzuty licencji
+- Dodaje licencję
+- Dystrybucja licencji według lokalizacji partnerów, kanału sprzedaży, jednostki SKU, typu dołączenia partnera, segmentu
 
  > [!NOTE]
- > Ten raport jest dostępny na pulpicie nawigacyjnym usługi Insights. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w centrum partnerskim, takim jak Administrator globalny, administrator konta, Podgląd raportów lub dyrektor raportów programu. Aby uzyskać więcej informacji, zobacz Administrator globalny firmy. określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami dyrektora raportów.
+ > Ten raport jest dostępny na pulpicie nawigacyjnym szczegółowych informacji. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Podgląd raportów lub Executive Report Viewer. Aby uzyskać więcej informacji, zobacz administrator globalny firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami Executive Report Viewer.
 
 ## <a name="summary"></a>Podsumowanie
 
-Sekcja podsumowania zawiera widok migawki kluczowych wskaźników wydajności (KPI) skojarzonych z licencjami produktu w chmurze sprzedawanymi, wdrożonymi i używanymi. Dzięki temu można śledzić aktywne użycie w odniesieniu do licencji sprzedanych klientom.
+Sekcja podsumowania zawiera widok migawki kluczowych wskaźników wydajności (KPI) skojarzonych z licencjami produktów w chmurze, które są sprzedawane, wdrażane i używane. Ułatwia to śledzenie aktywnego użycia w stosunku do licencji sprzedawanych klientom.
 
-:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Podsumowanie raportu dotyczącego licencji":::
+:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="podsumowanie raportu licencji":::
 
 Aby uzyskać więcej informacji na temat każdej sekcji podsumowania, zobacz poniżej:
 
-- Liczba 
-  - Bieżąca liczba wszystkich licencji sprzedawanych lub zarządzanych przez użytkownika w przypadku produktów w chmurze opartych na licencjach, takich jak Office 365, Dynamics, Microsoft 365, Power BI i innych.
-  - Procent wzrostu lub odrzucenia tych licencji w wybranym zakresie dat.
-  - Tendencja do trendu w zakresie licencji: Micro Chart prezentuje trend miesięczny liczby licencji w ramach wybranego zakresu dat
+- Licencje: 
+  - Bieżąca liczba wszystkich licencji sprzedawanych lub zarządzanych przez Użytkownika dla produktów w chmurze opartych na licencjach, takich jak Office 365, Dynamics, Microsoft 365, Power BI i inne.
+  - Procentowy wzrost lub spadek liczby tych licencji w wybranym zakresie dat.
+  - Mikro wykres trendu licencji: mikroelement przedstawia trend liczby licencji w ciągu miesiąca w wybranym zakresie dat
 
 - Wdrożone licencje:
   - Bieżąca liczba wszystkich przypisanych licencji klienta.
-  - Procent wzrostu lub odrzucenia tych licencji w wybranym okresie.
-  - Micro Chart (licznik licencji): Micro Chart przedstawia trend miesiąc-miesięczny liczby przypisanych licencji w wybranym zakresie dat.
+  - Procent wzrostu lub spadku liczby tych licencji w wybranym okresie.
+  - Mikro wykres liczby licencji: mikro wykres przedstawia trend liczby przypisanych licencji z miesiąca na miesiąc w wybranym zakresie dat.
 
 - Aktywne licencje: 
-  - Bieżąca liczba wszystkich licencji klienta z dowolnym aktywnym użyciem w ciągu ostatnich 30 dni w wybranym zakresie dat.
-  - Procent wzrostu lub odrzucenia tych licencji w wybranym zakresie dat.
-  - Na mikrografie prezentowany jest trend miesięczny za miesiąc liczby licencji w wybranym zakresie dat.
+  - Bieżąca liczba wszystkich licencji klienta z aktywnym użyciem w ciągu ostatnich 30 dni w wybranym zakresie dat.
+  - Procent wzrostu lub spadku liczby tych licencji w wybranym zakresie dat.
+  - Wykres Mikro przedstawia trend liczby licencji w ciągu miesiąca w wybranym zakresie dat.
 
-## <a name="geographical-spread-of-licenses"></a>Geograficzne rozmieszczenie licencji
+## <a name="geographical-spread-of-licenses"></a>Geograficzny rozrzut licencji
 
-Widok **geograficznie rozmieszczenia licencji** pokazuje geograficzną dystrybucję bieżących licencji i aktywnych licencji według rynków klientów. ( **Bieżąca** liczba licencji obejmuje również Nieprzypisane licencje).
+W **widoku rozrzuceń geograficznych licencji** jest przedstawiany geograficzny rozkład bieżących licencji i aktywnych licencji według rynków klientów. (Liczba **bieżących** licencji obejmuje również nieprzypisane licencje).
 
-**Liczba krajów/regionów** przedstawia łączne kraje/regiony, w których masz bieżące i aktywne licencje klienta.
+**Liczba krajów/regionów przedstawia** łączną liczbę krajów/regionów, w których masz bieżące i aktywne licencje klientów.
 
-Możesz wyszukać i wybrać kraj w siatce, aby powiększyć do lokalizacji na mapie. Naciśnij opcję **Strona główna** na mapie, aby powrócić do widoku domyślnego. Umieść kursor na mapie, aby wyświetlić bieżące licencje i aktywne licencje według kraju klienta. Oba pola siatki są sortowane.
+Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapie. Naciśnij opcję **Strona** główna na mapie, aby przywrócić widok domyślny. Umieść kursor na mapie, aby wyświetlić bieżące licencje i aktywne licencje według kraju klienta. Oba pola w siatce można sortować.
 
-:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="Rozmieszczenie geograficzne licencji":::
+:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="rozrzut geograficzny licencji":::
 
-## <a name="license-adds"></a>Dodanie licencji
+## <a name="license-adds"></a>Dodaje licencję
 
 Ten widok przedstawia trend licencji dodanych w wybranym zakresie dat. 
 
-Aby przedstawić trend według produktu i usługi/obciążenia, wybierz produkt w górnej części ekranu i usługę/obciążenie z listy rozwijanej jednostki SKU.
+Aby przedstawić trend według produktu i usługi/obciążenia, wybierz pozycję Produkt w górnej części ekranu i usługę/obciążenie z listy rozwijanej Jednostki SKU.
 
-Oś X reprezentuje miesiące wybranego zakresu dat. Oś Y reprezentuje liczbę dodanych licencji. Aby powiększyć określony czas, użyj suwaka w górnej części wykresu.
+Oś X reprezentuje miesiące wybranego zakresu dat. Oś Y reprezentuje liczbę dodanych licencji. Aby powiększyć określony okres, użyj suwaka w górnej części wykresu.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Dodanie licencji":::
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="dodano licencję":::
 
 ## <a name="license-distribution"></a>Dystrybucja licencji
 
-Ten widok przedstawia podział licencji klienta według produktu i kraju/regionu klienta. Po wybraniu produktu na wykresie kołowym **produktu** na sąsiednim wykresie zostanie wyświetlony podział licencji według regionu klienta.
+Ten widok przedstawia podział licencji klientów według produktu i kraju/regionu klienta. Po wybraniu produktu na wykresie kołowym Licencja według **produktu** sąsiadujące wykresy pokażą podział licencji według regionu klienta.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="Dystrybucja licencji":::
+:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="dystrybucja licencji":::
 
 ## <a name="next-steps"></a>Następne kroki
 
-Więcej raportów można znaleźć w temacie [Partner Center Insights](partner-center-insights.md).
+Aby uzyskać więcej raportów, [zobacz Partner Center Insights.](partner-center-insights.md)
 
 >[!NOTE] 
-> Możesz pobrać pierwotne dane, aby wyłączyć ten raport z sekcji Pobieranie raportów na pulpicie nawigacyjnym usługi Insights. [Więcej informacji](pci-download-reports.md)
+> Możesz pobrać nieprzetworzone dane, które są zasilane z tego raportu, z sekcji Pobieranie raportów na pulpicie nawigacyjnym szczegółowych informacji. [Więcej informacji](pci-download-reports.md)

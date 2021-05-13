@@ -1,57 +1,54 @@
 ---
-title: Uprawnienie do planowania zaangażowania usług
+title: Uprawnienia do planowania zaangażowania usług
 ms.topic: article
 ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Dowiedz się więcej o wymaganiach dotyczących uprawnień dla poszczególnych usług planowania programu Software Assurance firma może chcieć zaoferować klientom korporacyjnym.
+description: Dowiedz się więcej o wymaganiach dotyczących uprawnień do poszczególnych pakiet Software Assurance usług planowania, które firma może zaoferować klientom korporacyjnym.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2cf45807c6347ad62ad343d2be8a477ab8ea9d33
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 844a795330a0c10ef51f6b47ce15afa37d3d71f5
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028268"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855254"
 ---
-# <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Wyświetl wymagania kwalifikacyjne dla zaangażowania usług planowania
+# <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Wyświetlanie wymagań dotyczących uprawnień dla zaangażowania usług planowania
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Administrator partnera MPN
 
-- Administrator globalny
-- Administrator partnerski MPN
-
-Ten artykuł ułatwia zapoznanie się z wymaganiami dotyczącymi uprawnień, które należy spełnić, zanim firma będzie mogła zarejestrować lub dostarczyć zaangażowanie w usługi planowania oprogramowania Software Assurance dla firmy Microsoft.
+Ten artykuł pomaga dowiedzieć się więcej o wymaganiach dotyczących uprawnień, które należy spełnić, aby firma może rejestrować lub dostarczać usługi pakiet Software Assurance Planning Services dla firmy Microsoft.
 
 >[!NOTE]
-> Oprócz spełnienia wymagań związanych z ofertą usług planowania należy również wykonać kilka innych czynności, aby można było dostarczyć zaangażowanie w usługi planowania programu Software Assurance. Aby zapoznać się z omówieniem wszystkich wymaganych czynności, zobacz [Software Assurance Planning Services w centrum partnerskim](software-assurance-dps.md).
+> Oprócz spełnienia pakiet Software Assurance wymagań dotyczących uprawnień do oferty Usług planowania, przed dostarczeniem usług planowania należy wykonać kilka innych kroków. Omówienie wszystkich wymaganych kroków można znaleźć w te [pakiet Software Assurance Planning Services w Partner Center](software-assurance-dps.md).
 
-## <a name="learn-more-about-each-engagement"></a>Dowiedz się więcej o każdym zaręczynach
+## <a name="learn-more-about-each-engagement"></a>Dowiedz się więcej o każdym zaangażowaniu
 
-Każde zaangażowanie usług planowania ma własne, specyficzne wymagania dotyczące uprawnień i ich własny dozwolony maksymalny czas trwania.
+Każde zaangażowanie usług planowania ma własne, specyficzne wymagania dotyczące uprawnień i własne dozwolone maksymalne czasy trwania.
 
-Aby dowiedzieć się więcej na temat wymagań dotyczących kompetencji specyficznych dla zaangażowania, zobacz poniższą tabelę.
+Aby dowiedzieć się więcej o tych wymaganiach dotyczących kompetencji specyficznych dla zaangażowania, zobacz następującą tabelę.
 
 | Nazwa zaangażowania | Wymagane kompetencje dla tego zaangażowania | Aby dowiedzieć się więcej, zobacz arkusz danych dla tej oferty |
 |:--- |:--- |:--- |
-| Planowanie wdrażania systemu Windows i pakietu Office  | Silver lub Gold Windows i urządzenia  |  [DDPS (Desktop Deployment Planning Services) — zaangażowanie](https://go.microsoft.com/fwlink/?linkid=2116072)
-| Planowanie wdrażania produktywności na urządzeniach przenośnych  | Zarządzanie urządzeniami z Silver lub Gold Enterprise Mobility lub Windows i urządzenia  | [DDPS (Desktop Deployment Planning Services) — zaangażowanie](https://go.microsoft.com/fwlink/?linkid=2116072) |  
-| Nowoczesne potwierdzenie koncepcji korporacyjnej przedsiębiorstwa IT |  Zarządzanie pakietem Silver lub Gold Enterprise Mobility  | [DDPS (Desktop Deployment Planning Services) — zaangażowanie](https://go.microsoft.com/fwlink/?linkid=2116072) |  
-| Uaktualnianie programu Microsoft Dynamics 365 dla zaangażowania klienta  | Business Applications w chmurze lub w chmurze — zarządzanie relacjami z klientami  | [Usługi DYDPS (Dynamics Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116073)
-| Migrowanie do programu Microsoft Dynamics 365 na potrzeby zaangażowania klienta  | Business Applications w chmurze lub w chmurze — zarządzanie relacjami z klientami  | [Usługi DYDPS (Dynamics Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116073)
-| Uaktualnianie systemu Microsoft Dynamics 365 dla finansów i operacji  | Planowanie zasobów w firmie Gold Enterprise (ERP)  | [Usługi DYDPS (Dynamics Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116073)  |
-| Modernizacja platformy Windows Server | Silver lub Gold Datacenter | [Wdrożenia chmury prywatnej, zarządzania i wirtualizacji (PVDPS)](https://go.microsoft.com/fwlink/?linkid=2115982) |
-| Planowanie wdrożenia programu SharePoint  | Współpraca Srebrna lub złota i zawartość  | [Usługi planowania wdrożenia programu SharePoint (SDPS)](https://go.microsoft.com/fwlink/?linkid=2116074)  |
-| Planowanie rozwiązań do zarządzania projektami i portfolio (PPM)  | Zarządzanie projektami i portfolio Silver lub Gold (PPM)  | [Usługi planowania wdrożenia programu SharePoint (SDPS)](https://go.microsoft.com/fwlink/?linkid=2116074)  |
-| Planowanie wdrożenia programu Exchange  | Wiadomości Silver lub Gold  | [Usługi programów Skype dla firm i Exchange Deployment Planning Services (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
-Planowanie wdrożenia programu Skype dla firm  | Komunikacja Silver lub Gold  | [Usługi programów Skype dla firm i Exchange Deployment Planning Services (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
-| Modernizacja danych  | Analiza danych Gold lub platforma danych  | [SQL Server zaangażowania usług planowania wdrożenia (SSDP)](https://go.microsoft.com/fwlink/?linkid=2116076)  |
+| Planowanie wdrożenia systemu Windows i pakietu Office  | Silver lub Gold Windows and Devices  |  [Zaangażowanie usług planowania wdrożenia pulpitu (DDPS, Desktop Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116072)
+| Planowanie wdrażania produktywności urządzeń przenośnych  | Silver lub Gold Enterprise Mobility Management LUB Windows and Devices  | [Zaangażowanie usług planowania wdrożenia pulpitu (DDPS, Desktop Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
+| Modern IT Enterprise Security Proof of Concept |  Silver lub Gold Enterprise Mobility Management  | [Zaangażowanie usług planowania wdrożenia pulpitu (DDPS)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
+| Uaktualnianie usługi Microsoft Dynamics 365 for Customer Engagement  | Silver lub Gold Cloud Business Applications LUB Zarządzanie relacjami z klientami w chmurze  | [Zaangażowanie usług dynamics deployment planning services (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)
+| Migrowanie do usługi Microsoft Dynamics 365 for Customer Engagement  | Silver lub Gold Cloud Business Applications LUB Zarządzanie relacjami z klientami w chmurze  | [Zaangażowanie usług dynamics deployment planning services (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)
+| Uaktualnianie usługi Microsoft Dynamics 365 for Finance and Operations  | Gold Enterprise Resource Planning (ERP)  | [Zaangażowanie usług dynamics deployment planning services (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)  |
+| Modernizowanie platformy Windows Server | Silver lub Gold Datacenter | [Usługi planowania zarządzania i wirtualizacji (PVDPS) w chmurze prywatnej](https://go.microsoft.com/fwlink/?linkid=2115982) |
+| Planowanie wdrożenia programu SharePoint  | Współpraca i zawartość na silver lub gold  | [Udziały w usługach planowania wdrażania programu SharePoint (SDPS)](https://go.microsoft.com/fwlink/?linkid=2116074)  |
+| Planowanie rozwiązań do zarządzania projektami i portfolio (PPM)  | Zarządzanie projektami i portfolio (PPM) na silver lub gold  | [Udziały w usługach planowania wdrażania programu SharePoint (SDPS)](https://go.microsoft.com/fwlink/?linkid=2116074)  |
+| Planowanie wdrażania programu Exchange  | Silver lub Gold Messaging  | [Usługi planowania wdrażania programu Skype dla firm i programu Exchange (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
+Planowanie wdrażania programu Skype dla firm  | Silver lub Gold Communications  | [Usługi planowania wdrażania programu Skype dla firm i programu Exchange (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
+| Modernizacja majątku danych  | Gold Data Analytics LUB Data Platform  | [SQL Server usług planowania wdrożenia (SSDPS)](https://go.microsoft.com/fwlink/?linkid=2116076)  |
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Przepływ pracy usług planowania programu Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115983)
-- [Często zadawane pytania dotyczące usług planowania oprogramowania Software Assurance](https://go.microsoft.com/fwlink/?linkid=2116077)
-- [Zasady usług planowania oprogramowania Software Assurance](https://go.microsoft.com/fwlink/?linkid=2115984)
-- [Wycofane zaangażowanie usług planowania programu Software Assurance](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)
+- [pakiet Software Assurance przepływ pracy usług planowania](https://go.microsoft.com/fwlink/?linkid=2115983)
+- [pakiet Software Assurance — często zadawane pytania dotyczące usług planowania](https://go.microsoft.com/fwlink/?linkid=2116077)
+- [pakiet Software Assurance usług planowania](https://go.microsoft.com/fwlink/?linkid=2115984)
+- [pakiet Software Assurance Usług planowania wycofane zaangażowanie](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)

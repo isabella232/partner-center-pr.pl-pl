@@ -1,89 +1,84 @@
 ---
-title: Raport dotyczący użycia usługi Partner Center Insights w pakiecie Office 365
+title: Raport użycia usługi Office 365 w Centrum partnerskim
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Zobacz, co jest potrzebne, i w jaki sposób możesz udoskonalić korzystanie z subskrypcji pakietu Office 365, które są sprzedawane lub zarządzane przez klientów.
+description: Sprawdź, co robisz dobrze i gdzie możesz ulepszyć użycie subskrypcji usługi Office 365, które sprzedajesz klientom lub zarządzasz nimi.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: d1710215f5fd1d7058232c81ae68ae9cd1ba5240
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 685dce8d521bc27b9b91efd5206e9da0d7e45f34
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086315"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854608"
 ---
-# <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Raport użycia pakietu Office 365 dostępny na pulpicie nawigacyjnym usługi Partner Center Insights
+# <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Raport użycia usługi Office 365 dostępny na pulpicie nawigacyjnym Partner Center Insights
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Agent administracyjny | Przeglądarka raportów | Przeglądarka raportów dla kierownictwa
 
-- Administrator globalny
-- Agent administracyjny
-- Podgląd raportów
-- Executive — Podgląd raportów
-
-Raport użycia pakietu Office 365 zawiera dane dotyczące użycia subskrypcji pakietu Office 365, które są sprzedawane lub zarządzane dla klientów. Poniższe sekcje można wyświetlić w raporcie użycia pakietu Office 365.
+Raport użycia usługi Office 365 zawiera dane użycia dla subskrypcji usługi Office 365, które zostały sprzedane klientom lub są nimi zarządzane. Poniższe sekcje można wyświetlić w raporcie użycia usługi Office 365.
 
 - Podsumowanie
-- Użycie pakietu Office 365 według lokalizacji geograficznej
-- Użycie pakietu Office 365 według obciążenia
+- Użycie usługi Office 365 według lokalizacji geograficznej
+- Użycie usługi Office 365 według obciążenia
 - Wydajność subskrypcji
-- Dystrybucja użycia pakietu Office 365
+- Dystrybucja użycia usługi Office 365
 
  > [!NOTE]
- > Ten raport jest dostępny na pulpicie nawigacyjnym usługi Insights. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w centrum partnerskim, takim jak Administrator globalny, administrator konta, Podgląd raportów lub dyrektor raportów programu. Aby uzyskać więcej informacji, zobacz Administrator globalny firmy. określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami dyrektora raportów.
+ > Ten raport jest dostępny na pulpicie nawigacyjnym szczegółowych informacji. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Podgląd raportów lub Executive Report Viewer. Aby uzyskać więcej informacji, zobacz Administrator globalny firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami Executive Report Viewer.
 
 ## <a name="summary"></a>Podsumowanie
 
-Sekcja podsumowania przedstawia widok migawki kluczowych wskaźników związanych z subskrypcjami pakietu Office 365, które są sprzedawane lub zarządzane przez klientów.  
+Sekcja podsumowania przedstawia widok migawek kluczowych wskaźników związanych z subskrypcjami usługi Office 365, które zostały sprzedane klientom lub są nimi zarządzane.  
 
-- Nowe subskrypcje: Łączna liczba subskrypcji sprzedawanych lub zarządzanych w wybranym przedziale czasu.
+- Nowe subskrypcje: Łączna liczba subskrypcji sprzedanych lub zarządzanych w wybranym okresie.
 
-   Micro Graf prezentuje trend miesięczny dla nowych subskrypcji dla wybranego zakresu dat.
+   Wykres Mikro przedstawia trend miesiąc do miesiąca liczby nowych subskrypcji dla wybranego zakresu dat.
 
-- Dostępne stanowiska: całkowita liczba licencji sprzedanych w wybranym przedziale czasu.
+- Dostępne stanowiska: łączna liczba licencji sprzedanych w wybranym okresie.
 
-   Na mikrografie prezentowany jest trend miesięczny w ciągu miesiąca dla liczby sprzedanych licencji w wybranym zakresie dat.
+   Wykres Mikro przedstawia trend liczby sprzedanych licencji z miesiąca na miesiąc w wybranym zakresie dat.
 
-- Aktywni użytkownicy: liczba użytkowników, którzy korzystali z obciążenia w poprzednim miesiącu. 
+- Aktywni użytkownicy miesięcznie: liczba użytkowników, którzy używali obciążenia w poprzednim miesiącu. 
 
-   W programie Micro Chart jest prezentowany miesięczny trend miesięcznych aktywnych użytkowników w wybranym okresie.
+   Wykres Mikro przedstawia miesięczny trend aktywnych użytkowników miesięcznie w wybranym okresie.
 
-:::image type="content" source="images/pci/pci-o365-usage-summary.png" alt-text="Podsumowanie użycia pakietu Office 365":::
+:::image type="content" source="images/pci/pci-o365-usage-summary.png" alt-text="Podsumowanie użycia usługi Office 365":::
 
-## <a name="office-365-usage-by-geography"></a>Użycie pakietu Office 365 według lokalizacji geograficznej
+## <a name="office-365-usage-by-geography"></a>Użycie usługi Office 365 według lokalizacji geograficznej
 
-**Użycie pakietu Office 365 według lokalizacji geograficznej** przedstawia rozkład miesięcznych aktywnych użytkowników (Mau) i płatnych jednostek (Pau) według kraju klienta. MAU odnosi się do liczby licencji używanych w poprzednim miesiącu, a PAU odnosi się do liczby płatnych miejsc sprzedanych lub zarządzanych w wybranym przedziale czasu. Jaśniejsze kolory na mapie przedstawiają mniejsze wartości, a ciemne kolory reprezentują wyższe wartości. Możesz wyszukać i wybrać kraj w siatce. Możesz również powiększyć w celu bliższego wyglądu.
+Użycie **usługi Office 365** według lokalizacji geograficznej przedstawia rozkład miesięcznych aktywnych użytkowników (MAU) i płatnych dostępnych jednostek (PAU) według kraju klienta. Mau odnosi się do liczby licencji używanych w poprzednim miesiącu, a PAU odnosi się do liczby płatnych miejsc sprzedanych lub zarządzanych w wybranym okresie. Jaśniejsze kolory na mapie reprezentują niższe wartości, a ciemniejsze reprezentują wyższe wartości. Możesz wyszukać i wybrać kraj w siatce. Możesz również powiększyć widok, aby uzyskać bliższy wygląd.
 
-**Liczba tabeli kraje/region** przedstawia łączne kraje/regiony, w których są generowane zdarzenia użycia platformy Azure.
+Tabela **Liczba krajów/regionów** przedstawia łączną liczbę krajów/regionów, w których są generowane zdarzenia użycia platformy Azure.
 
-Możesz wyszukać i wybrać kraj w siatce, aby powiększyć do lokalizacji na mapie. Wybierz opcję **Strona główna** na mapie, aby powrócić do oryginalnego widoku.
+Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapie. Wybierz opcję **Strona** główna na mapie, aby przywrócić oryginalny widok.
 
 
-:::image type="content" source="images/pci/pci-o365-usage-geography.png" alt-text="Użycie pakietu Office 365 według lokalizacji geograficznej":::
+:::image type="content" source="images/pci/pci-o365-usage-geography.png" alt-text="Użycie usługi Office 365 według lokalizacji geograficznej":::
 
-## <a name="office-365-usage-by-workload"></a>Użycie pakietu Office 365 według obciążenia
+## <a name="office-365-usage-by-workload"></a>Użycie usługi Office 365 według obciążenia
 
-Użycie pakietu Office 365 według obciążenia przedstawia podział MAU i PAU według obciążeń.
+Użycie usługi Office 365 według obciążenia przedstawia podział mau i pau według obciążeń.
 
-:::image type="content" source="images/pci/pci-o365-usage-workload.png" alt-text="Użycie pakietu Office 365 według obciążenia":::
+:::image type="content" source="images/pci/pci-o365-usage-workload.png" alt-text="Użycie usługi Office 365 według obciążenia":::
 
 ## <a name="subscriptions-performance"></a>Wydajność subskrypcji
 
-Wydajność subskrypcji przedstawia podział MAU i PAU według obciążeń na klienta. W tabeli przedstawiono dane dla najpopularniejszych klientów 100 według rozliczanego przychodu. możesz wyszukać dowolnego klienta lub pobrać dane pierwotne, aby wyświetlić szczegółowe informacje dla wszystkich klientów.
+Wydajność subskrypcji przedstawia podział mau i pau według obciążeń na klienta. W tabeli przedstawiono dane 100 najsuchomiej klientów według rozliczanych przychodów. Możesz wyszukać dowolnego klienta lub pobrać dane pierwotne, aby wyświetlić szczegóły dotyczące wszystkich klientów.
 
-:::image type="content" source="images/pci/pci-o365-usage-subscription.png" alt-text="Wydajność subskrypcji pakietu Office 365":::
+:::image type="content" source="images/pci/pci-o365-usage-subscription.png" alt-text="Wydajność subskrypcji usługi Office 365":::
 
-## <a name="office-365-usage-distribution"></a>Dystrybucja użycia pakietu Office 365
+## <a name="office-365-usage-distribution"></a>Dystrybucja użycia usługi Office 365
 
-Dystrybucja użycia pakietu Office 365 przedstawia podział PAU i subskrypcji według jednostek SKU.
+Rozkład użycia usługi Office 365 przedstawia podział pau i subskrypcji według jednostki SKU.
 
-:::image type="content" source="images/pci/pci-o365-usage-distribution.png" alt-text="Dystrybucja użycia pakietu Office 365":::
+:::image type="content" source="images/pci/pci-o365-usage-distribution.png" alt-text="Dystrybucja użycia usługi Office 365":::
 
 ## <a name="next-steps"></a>Następne kroki
 
-- Więcej raportów można znaleźć w temacie [Partner Center Insights](partner-center-insights.md).
+- Aby uzyskać więcej raportów, [zobacz Partner Center Insights.](partner-center-insights.md)
 
-- Możesz pobrać pierwotne dane, aby wyłączyć ten raport z sekcji Pobieranie raportów na pulpicie nawigacyjnym usługi Insights. [Więcej informacji](pci-download-reports.md) 
+- Nieprzetworzone dane do zasilania tego raportu możesz pobrać z sekcji Pobieranie raportów na pulpicie nawigacyjnym szczegółowych informacji. [Więcej informacji](pci-download-reports.md) 

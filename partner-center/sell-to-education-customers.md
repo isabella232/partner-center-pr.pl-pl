@@ -1,6 +1,6 @@
 ---
-title: Jak sprzedawać oferty dla klientów edukacyjnych
-description: Dowiedz się, jak utworzyć klienta edukacyjnego i sprzedawać oferty w centrum partnerskim. Obejmuje potwierdzenie stanu weryfikacji dla klienta edukacyjnego.
+title: Jak sprzedawać oferty klientom edukacyjnym
+description: Dowiedz się, jak utworzyć klienta edukacyjnego i sprzedawać im oferty w Partner Center. Obejmuje potwierdzenie stanu weryfikacji dla klienta edukacyjnego.
 ms.topic: how-to
 ms.date: 12/17/2020
 ms.service: partner-dashboard
@@ -9,94 +9,90 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e0c8812683a038ce1f869cb3cb6750424d49ec05
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 1b1b89841faf77a78c8cc268357daaaf95307223
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028371"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855407"
 ---
-# <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Jak sprzedawać oferty dla klientów edukacyjnych i jak utworzyć odbiorcę edukacji w centrum partnerskim
+# <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Jak sprzedawać oferty klientom edukacyjnym i jak utworzyć klienta edukacyjnego w Partner Center
 
-**Odpowiednie role**
-
-- Administrator globalny
-- Agent administracyjny
-- Agent sprzedaży
+**Odpowiednie role:** Administrator globalny | Agent administracyjny | Agent sprzedaży
 
 ## <a name="create-an-education-customer"></a>Tworzenie klienta edukacyjnego
 
-W tym artykule wyjaśniono, jak utworzyć klienta edukacji w centrum partnerskim i sprzedawać do nich produkty edukacyjne. Opisano w nim również, jak wyświetlić stan weryfikacji i ponownie przesłać żądanie weryfikacji, jeśli jest to konieczne. Oferty edukacyjne są obecnie **dostępne tylko dla usług opartych na licencji** , takich jak Microsoft 365, Dynamics, Intune itd. Nie jest ona dostępna dla innych typów (subskrypcje oprogramowania, bezterminowego oprogramowania lub produktów platformy Azure).
+W tym artykule wyjaśniono, jak utworzyć klienta edukacyjnego w Partner Center i sprzedawać im produkty edukacyjne. Opisano w nim również sposób wyświetlania stanu weryfikacji i ponownego prześlij żądanie weryfikacji w razie potrzeby. Oferty edukacyjne są obecnie **dostępne tylko dla usług opartych** na licencjach, takich jak Microsoft 365, Dynamics, Intune itp. Nie jest ona dostępna dla innych typów (subskrypcji oprogramowania, oprogramowania bezterminowego lub produktów platformy Azure).
 
 > [!IMPORTANT]
-> Firma Microsoft weryfikuje każdą nowo utworzoną dzierżawcę klientów edukacyjnych, aby upewnić się, że są one kwalifikowane dla ofert edukacyjnych.  Upewnij się, że wprowadzasz wymagane informacje jako dokładne i pełne, jak to możliwe, aby uniknąć opóźnień w procesie weryfikacji.
+> Firma Microsoft weryfikuje każdą nowo utworzoną dzierżawę klienta edukacyjnego, aby upewnić się, że są zakwalifikowani do ofert edukacyjnych.  Upewnij się, że wprowadzasz wymagane informacje tak dokładnie i całkowicie, jak to możliwe, aby zapobiec opóźnieniom w procesie weryfikacji.
 
 1. Zaloguj się do Centrum partnerskiego.
 
-2. Wybierz pozycję **klienci** , a następnie wybierz pozycję **Dodaj klienta**. Wybierz pozycję **Edukacja** na liście rozwijanej **specjalne kwalifikacje** .  Wprowadź pozostałe informacje o koncie zgodnie z wymaganiami.  Kluczowe pola, które ułatwiają proces weryfikacji, obejmują:
+2. Wybierz **pozycję Klienci,** a następnie **wybierz pozycję Dodaj klienta.** Wybierz **pozycję Edukacja** z listy **rozwijanej Kwalifikacje** specjalne.  Wypełnij pozostałe informacje o koncie zgodnie z potrzebami.  Kluczowe pola, które pomagają w procesie weryfikacji, obejmują:
 
-   - **Nazwa firmy**: Wprowadź nazwę podmiotu prawnego — wymagana do weryfikacji
-   - **Wiersze kraju/regionu i adresu**: wprowadź pełny adres korespondencyjny jednostki — wymagany do weryfikacji
-   - **Adres e-mail**: Wprowadź wiadomość e-mail będącą właścicielem jednostki — nie jest to bezpłatna ani on.Microsoft.Coma wiadomość e-mail — wymagana do weryfikacji
-   - **Informacje kontaktowe klienta**: te szczegóły będą używane w ramach procesu weryfikacji
-   - **Podstawowa nazwa domeny**: służy do tworzenia konta klienta i adresów e-mail.  Wybierz nazwę podobną do nazwy firmy bez spacji i znaków specjalnych.  Tej nazwy nie można zmienić później.
+   - **Nazwa firmy:** WPROWADŹ NAZWĘ JEDNOSTKI PRAWNEJ — wymagana do weryfikacji
+   - **Kraj/region i wiersze adresów:** WPROWADŹ PEŁNY ADRES POCZTOWY JEDNOSTKI — wymagany do weryfikacji
+   - **Adres e-mail:** wprowadź wiadomość e-mail należącą do jednostki — nie bezpłatną lub on.microsoft.com e-mail — wymaganą do weryfikacji
+   - **Informacje kontaktowe klienta:** te szczegóły będą używane w ramach procesu weryfikacji
+   - **Nazwa domeny podstawowej:** służy do tworzenia kont i adresów e-mail klienta.  Wybierz nazwę podobną do nazwy firmy bez spacji ani znaków specjalnych.  Tej nazwy nie można później zmienić.
 
-3. Po zakończeniu wybierz pozycję **Przegląd**.
+3. Po zakończeniu wybierz pozycję **Przejrzyj**.
 
-   :::image type="content" source="images/eduaccountinfo.png" alt-text="Konto klienta edukacyjnego":::
+   :::image type="content" source="images/eduaccountinfo.png" alt-text="Education customer account (Konto klienta edukacyjnego)":::
 
-4. Po potwierdzeniu **przeglądu** zostanie wyświetlony stan **nieprzeglądu** , jeśli przesłane informacje są prawidłowe. 
+4. Po potwierdzeniu **weryfikacji** zostanie wyświetlony stan InReview (W **przeglądzie),** jeśli przesłane informacje są prawidłowe. 
 
-    :::image type="content" source="images/edu/create-review.png" alt-text="Przekształcenie konta klienta w przegląd"lightbox="images/edu/create-review-expanded.png":::
+    :::image type="content" source="images/edu/create-review.png" alt-text="Konto klienta edukacyjnego w przeglądzie"lightbox="images/edu/create-review-expanded.png":::
 
-### <a name="confirm-your-education-customers-verification-status"></a>Potwierdzenie stanu weryfikacji klienta edukacyjnego
+### <a name="confirm-your-education-customers-verification-status"></a>Potwierdzanie stanu weryfikacji klienta edukacyjnego
 
-Na stronie **konto** klienta zapoznaj się z tematem **specjalne kwalifikacje**.
+Na stronie Konto klienta **zobacz Specjalny** **stan kwalifikacji**.
 Przykłady stanu:
 
-- Jeśli klient przeszedł weryfikację: Education
+- Jeśli klient przeszedł weryfikację: Edukacja
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="Weryfikacja edukacji zakończyła się pomyślnie":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="Weryfikacja edukacji powiodła się":::
 
-- Jeśli klient nie przeszedł weryfikacji: nie jest to klient edukacyjny
+- Jeśli klient nie przejdzie weryfikacji: nie jest klientem edukacyjnym
 
-   :::image type="content" source="images/edu/fail-reason.png" alt-text="Weryfikacja edukacji zakończyła się niepowodzeniem" lightbox="images/edu/fail-reason-expanded.png":::
+   :::image type="content" source="images/edu/fail-reason.png" alt-text="Weryfikacja edukacji nie powiodła się" lightbox="images/edu/fail-reason-expanded.png":::
 
-- Jeśli klient nie został oznaczony jako klient edukacyjny: brak
+- Jeśli klient nie został oznaczony jako klient edukacyjny: Brak
 
-   :::image type="content" source="images/edu/account-one.png" alt-text="Klient edukacyjny nie jest oznakowany jako taki" lightbox="images/edu/account-one-expanded.png":::
+   :::image type="content" source="images/edu/account-one.png" alt-text="education customer is not tagged as such" lightbox="images/edu/account-one-expanded.png":::
 
-- Jeśli klient jest przeglądany jako klient edukacyjny: w przeglądzie
+- Jeśli klient jest przeglądany jako klient edukacyjny: W przeglądzie
 
-    :::image type="content" source="images/edu/in-review.png" alt-text="przegląd dla klienta edukacyjnego" lightbox="images/edu/in-review-expanded.png":::
+    :::image type="content" source="images/edu/in-review.png" alt-text="education customer is in review" lightbox="images/edu/in-review-expanded.png":::
 
-## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>Popraw informacje o koncie klienta i prześlij je ponownie w celu weryfikacji
+## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>Poprawianie informacji o koncie klienta i ponowne ich prześlij do weryfikacji
 
-Jeśli klient nie przejdzie do początkowej weryfikacji, można teraz skorygować informacje i ponownie przesłać go.
+Jeśli klient nie powiedzie się podczas wstępnej weryfikacji, możesz teraz poprawić informacje i ponownie je przesłać.
 
 ### <a name="correct-the-customer-account-information"></a>Poprawianie informacji o koncie klienta
 
-Aby zaktualizować informacje o kliencie, musisz mieć uprawnienia administratora globalnego. Informacje są aktualizowane w portalu pakietu Office 365, ponieważ nie można zaktualizować tych danych za pomocą portalu Centrum partnerskiego.
+Aby zaktualizować informacje o kliencie, musisz mieć uprawnienia administratora globalnego. Aktualizujesz informacje w portalu usługi Office 365, ponieważ tych danych nie można zaktualizować z Partner Center portalu.
 
-1. Na stronie **konto** zostaną wyświetlone informacje stwierdzające, że kwalifikacja klienta jest uznawana za "nie jest to klient edukacyjny".
+1. Na **stronie Konto** zobaczysz informacje z informacją, że kwalifikacja klienta jest uważana za "Nie jest klientem edukacyjnym".
 
-2. Odśwież przeglądarkę, aby zresetować stronę. Będzie dostępny przycisk **aktualizacji** , a dla opcji **specjalne kwalifikacje** zostanie ustawiona wartość **Brak**.
+2. Odśwież przeglądarkę, aby zresetować stronę. Zostanie ustawiony przycisk **Aktualizuj,** a **stan Kwalifikacje specjalne** zostanie ustawiony na **wartość Brak.**
 
-3. Wybierz pozycję **Aktualizuj**. Na stronie **Zarządzanie usługami** wybierz pozycję **Office 365**.
+3. Wybierz pozycję **Aktualizuj**. Na stronie **Zarządzanie usługami** wybierz pozycję **Office 365.**
 
-4. Nastąpi przekierowanie do centrum administracyjnego pakietu Office 365 na nowej karcie przeglądarki. Być może zażądano zalogowania się przy użyciu swoich poświadczeń.
+4. Nastąpi przekierowanie do Centrum administracyjnego usługi Office 365 na nowej karcie przeglądarki. Może pojawić się prośba o zalogowanie się przy użyciu swoich poświadczeń.
 
 5. Wybierz pozycję **Ustawienia**.
 
-6. Wybierz kartę **profil organizacji** w górnej części ekranu, a następnie **Informacje o organizacji**. Teraz możesz zaktualizować szczegóły klienta.
+6. Wybierz **kartę Organization profile (Profil** organizacji) w górnej części ekranu, a następnie pozycję **Organization information (Informacje o organizacji).** Teraz możesz zaktualizować szczegóły klienta.
 
-7. Wybierz pozycję **Zapisz zmiany** w dolnej części paska bocznego.  
+7. Wybierz **pozycję Zapisz** zmiany w dolnej części paska bocznego.  
 
-### <a name="resubmit-for-verification"></a>Prześlij ponownie w celu weryfikacji
+### <a name="resubmit-for-verification"></a>Prześlij ponownie do weryfikacji
 
-1. Przejdź do karty Centrum partnerskiego i na stronie **konto** klienta. Odśwież przeglądarkę i sprawdź, czy strona firmy została zaktualizowana o nowe informacje. Wybierz przycisk **Aktualizuj** , aby zażądać ponownej weryfikacji edukacji.
+1. Przejdź do karty Partner Center i strony **konta** klienta. Odśwież przeglądarkę i sprawdź, czy strona Firmy została zaktualizowana do nowych informacji. Wybierz **przycisk Aktualizuj,** aby poprosić o ponowną weryfikację edukacji.
 
-2. Jeśli zaktualizowane szczegóły klienta są uprawnione do korzystania z ofert edukacyjnych, zostaną wyświetlone **specjalne zastrzeżenia** , które zostały zaktualizowane do **edukacji**. Jeśli nadal nie widzisz **klienta edukacyjnego**, skontaktuj się z pomocą techniczną w celu weryfikacji ręcznej.
+2. Jeśli zaktualizowane szczegóły klienta kwalifikują się do ofert edukacyjnych, zobaczysz, że kwalifikacje **specjalne** zostały zaktualizowane do **oferty Education**. Jeśli nadal widzisz element **Nie dla** klientów edukacyjnych, skontaktuj się z pomocą techniczną w celu weryfikacji ręcznej.
 
 ## <a name="next-steps"></a>Następne kroki
 
@@ -104,4 +100,4 @@ Aby zaktualizować informacje o kliencie, musisz mieć uprawnienia administrator
 
 - [Dodawanie nowego klienta](add-a-new-customer.md)
 
-- [Sprzedaj Minecraft: subskrypcje wersji edukacyjnej dla klientów edukacyjnych](minecraft-subscriptions.md)
+- [Sprzedaż Minecraft: Education Edition subskrypcji dla klientów edukacyjnych](minecraft-subscriptions.md)

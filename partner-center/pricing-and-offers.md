@@ -4,187 +4,180 @@ ms.topic: article
 ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Zobacz bieżące cenniki dla usług opartych na licencjach, takich jak Office 365, Microsoft Dynamics CRM i Enterprise Mobility Suite oraz usług opartych na użyciu, takich jak Azure.
+description: Zobacz bieżące cenniki usług opartych na licencjach, takich jak Office 365, Microsoft Dynamics CRM i Enterprise Mobility Suite, oraz usług opartych na użyciu, takich jak platforma Azure.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b960a903c2ba85963047033094636da6dc599f90
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 1cf69258b507258e1186514c54fa11ebf8a57d36
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964429"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854523"
 ---
-# <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Cennik i oferty dla pakietu Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure i innych
+# <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Ceny i oferty dla usług Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure i innych
 
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent administracyjny | Administrator partnera MPN | Agent sprzedaży | Administrator rozliczeń
 
-- Administrator globalny
-- Administrator zarządzania użytkownikami
-- Agent administracyjny
-- Administrator partnerski MPN
-- Agent sprzedaży
-- Administrator rozliczeń
+Aby wyświetlić najnowsze Dostawca rozwiązań w chmurze i oferty, na pulpicie nawigacyjnym portalu dla partnerów przejdź do tematu **Sell > Pricing and Offers**(Sprzedaż i oferty). Znajdziesz oddzielne cenniki różnych typów dostępnych produktów. Następujące cenniki są dostępne na **stronie Cennik i oferty:**
 
-Aby zobaczyć najnowsze programy i oferty dostawcy rozwiązań w chmurze, na pulpicie nawigacyjnym portalu dla partnerów przejdź do pozycji **sprzedaj > Cennik i oferty**. Znajdziesz osobne cenniki dla różnych dostępnych typów produktów. Poniższe listy cen są dostępne na stronie **Cennik i oferty** :
-
-- **Usługi oparte na licencji** obejmują informacje o cenach dla pakietu Office 365, programu Enterprise Mobility i zabezpieczeń E3, a także usługi Dynamics 365. Sekcja cenowa oparta na licencji obejmuje aktualną i zapoznawczą, a także macierz listą ofert. Cennik zawiera Cennik i szacowane ceny detaliczne (ERP) dla ofert w ramach wszystkich obsługiwanych walut. Macierz list oferty zawiera dostępność rynkową oraz inne ważne informacje o ofertach. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
-- **Usługi oparte na użyciu** obejmują informacje o cenach dla Microsoft Azure i programu Visual Studio. Możesz również użyć [kalkulatora cen usług platformy Azure w ramach dostawcy usług kryptograficznych](https://azure.microsoft.com/pricing/calculator/). Pobieranie oparte na użyciu obejmuje zarówno listę cenową dostawcy usług kryptograficznych dla wszystkich obsługiwanych walut, jak i pliki cen usług udostępnionych w programie ERP. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
-- **Microsoft Azure zarezerwowane wystąpienia** zawierają informacje o cenach dla wszystkich obsługiwanych walut dla wystąpień zarezerwowanych platformy Azure. Pobieranie cen obejmuje również ceny usług udostępnionych w programie ERP. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
-- **Subskrypcje oprogramowania** obejmują ceny za subskrypcje oprogramowania oparte na terminach dla wszystkich obsługiwanych walut. Plik ceny obejmuje wszystkie obsługiwane waluty z cennikiem i MSRP. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
-- **Cennik planu platformy Azure** obejmuje informacje o cenach dla usług zużycia planu platformy Azure, a także Cennik rezerwacji planu platformy Azure. Ceny są bezpośrednimi cenami lub ERP i mogą być pobierane dla każdego z obsługiwanych rynków. Dane w tych plikach są odświeżane codziennie.
-- Walutowe **kursy wymiany** są używane do obliczania rozliczeń naliczanych między USD a partnerami lokalnymi. Stawki są aktualizowane pierwszego dnia każdego miesiąca, a dla danego miesiąca obowiązuje wartość PRAWDA, a stawki są dostępne. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
-- Portal **Marketplace** obejmuje Cennik rozwiązań niezależnych dostawców oprogramowania firmy Microsoft komercyjnych Marketplace. Ceny są pobierane na rynek. Dane w tych plikach są odświeżane codziennie.
+- **Usługi oparte na licencjach zawierają** informacje o cenach usług Office 365, Enterprise Mobility i Security E3, a także i Dynamics 365. Sekcja cennika opartego na licencjach zawiera bieżące i zapoznawcze ceny, a także macierz listy ofert. Cenniki obejmują ceny cennika i szacowane ceny detaliczne (ERP) dla ofert we wszystkich obsługiwanych walutach. Macierz listy ofert zawiera informacje o dostępności na rynku i inne ważne informacje o ofertach. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
+- **Usługi oparte na użyciu zawierają** informacje o cenach Microsoft Azure i Visual Studio. Możesz również użyć kalkulatora cen [usług platformy Azure w programie CSP](https://azure.microsoft.com/pricing/calculator/). Pobieranie oparte na użyciu obejmuje zarówno cenniki dostawców usług w chmurze dla wszystkich obsługiwanych walut, jak i pliki cen usług udostępnionych w systemie ERP. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
+- **Microsoft Azure usługi Azure Reserved Instances** zawierają informacje o cenach wszystkich obsługiwanych walut dla wystąpień zarezerwowanych platformy Azure. Pobieranie cennika obejmuje również cennik usług udostępnionych w systemie ERP. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
+- **Subskrypcje oprogramowania obejmują** ceny dla subskrypcji oprogramowania opartych na terminach dla wszystkich obsługiwanych walut. Plik price zawiera wszystkie obsługiwane waluty z ceną cennika i msrp. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
+- **Cennik planu platformy Azure** zawiera informacje o cenach usług użycia planu platformy Azure, a także cennik rezerwacji planu platformy Azure. Ceny są cenami bezpośrednimi lub ERP i można je pobrać dla dowolnego obsługiwanego rynku. Dane w tych plikach są odświeżane codziennie.
+- **Kursy wymiany walut są** używane do obliczania rozliczeń naliczanych między USD a walutą lokalną partnerów. Stawki są aktualizowane pierwszego dnia każdego miesiąca i mają wartość true dla danego miesiąca, które są udostępniane. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
+- **Witryna Marketplace** zawiera cennik rozwiązań isv z komercyjnej platformy handlowej firmy Microsoft. Ceny są pobierane na rynek. Dane w tych plikach są odświeżane codziennie.
 
 > [!Note] 
-> Tylko partnerzy programu CSP z możliwością obsługi języka Transact mogą wyświetlać i pobierać Cennik. Pośrednicy odsprzedawcy powinni [skontaktować się z dostawcą CSP]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider) , aby uzyskać szczegółowe informacje o cenach
+> Tylko partnerzy CSP z możliwością transakcji mogą wyświetlać i pobierać cenniki. Odsprzedawcy pośredni powinni skontaktować [się z dostawcą CSP]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider) w celu zażądania szczegółowych informacji o cenach
 
-## <a name="price-list-preview-and-change-frequency"></a>Wersja zapoznawcza i częstotliwość zmiany cennika 
+## <a name="price-list-preview-and-change-frequency"></a>Podgląd cennika i częstotliwość zmian 
 
-Usługi oparte na licencji obejmują wersję zapoznawczą cennika, pod warunkiem 30 dni przed wprowadzeniem jakichkolwiek zmian. Aby wyświetlić wersję zapoznawczą cennika, przejdź do pozycji **sprzedaj > Cennik i oferty**. Nie ma wersji zapoznawczej cen dla usług opartych na użyciu, ponieważ te usługi są dynamiczne. W poniższej tabeli opisano sposób odczytywania tabeli cennika.
+Usługi oparte na licencjach obejmują podgląd cennika z 30-dniową wyprzedzeniem od wszelkich zmian. Aby wyświetlić podgląd cennika, przejdź do tematu Sell > Pricing and offers (Sprzedaż i **oferty).** Nie ma wersji zapoznawczej cen usług opartych na użyciu, ponieważ te usługi są dynamiczne. W poniższej tabeli wyjaśniono, jak odczytać tabelę cennika.
 
 |**Element**        |**Definicja**      |
 |:-----------   |:-----------   |
-|DODANA   |Nowy element do cennika|
-|ZMIANA   |Zmiany w cenniku od miesiąca do miesiąca. Mogą wystąpić inne zmiany niezwiązane z cennikiem, partnerzy powinni porównać cenniki między miesiącami, aby określić zmiany innych właściwości.|
-|DEL   |Element został usunięty z cennika|
-|UNC   |Cennik niezmieniony z cennika poprzedniego miesiąca  |
-|Data ważności   |Pierwszy dzień, w którym można zamówić ofertę    |
-|Data ważności   |Ostatnia data oferty, którą można zamówić   |
-|Nazwa wyświetlana oferty   |Nazwa połączona z klientem dla oferty   |
+|Dodaj   |Nowy element cennika|
+|Chg   |Zmiany ceny cennika z miesiąca na miesiąc. Mogą wystąpić inne zmiany, które nie są związane z ceną cennika. Partnerzy powinni porównać cenniki między miesiącami, aby określić zmiany w innych właściwościach.|
+|DEL   |Element usunięty z cennika|
+|UNC   |Cennik bez zmian w porównaniu z cennikiem z poprzedniego miesiąca  |
+|Ważny od daty   |Pierwsza data zamówienia oferty    |
+|Ważny do daty   |Data ostatniego zamówienia oferty   |
+|Nazwa wyświetlana oferty   |Nazwa oferty skierowana do klienta   |
 |Identyfikator oferty   |Wewnętrzny identyfikator oferty   |
-|Typ umowy licencyjnej   |Typy umów licencyjnych mogą być firmowe, rządowe lub akademickie. Typ umowy określa typy klientów, do których oferta może być sprzedawana.|
-|Jednostka zakupu   |Czas zakupu oferty. Jednostki zakupu są zwykle miesięcznie.   |
-|Pomocniczy typ licencji   |Dodatkowe typy licencji to nieokreślony, dodatek lub wersja próbna. Dodatek wskazuje, że istnieją wstępnie wymagane produkty, które klient musi zakupić przed zakupem dodatku.|
-|Typ klienta końcowego   |Powiąż z powrotem z umową licencyjną: Licencja firmowa — firmowy odsprzedawcy w chmurze, licencja dla instytucji rządowych — rząd odsprzedawcy w chmurze lub licencja akademickia — nauczyciel odsprzedawcy w chmurze lub student odsprzedawcy w chmurze   |
-|Cennik   |Cena płacona przez partnera   |
-|Cena ERP   |Szacowana lub Zalecana cena detaliczna dla klienta   |
+|Typ umowy licencyjnej   |Typy umów licencyjnych mogą być firmowe, rządowe lub akademickie. Typ umowy określa typy klientów, którym można sprzedawać ofertę.|
+|Jednostka zakupu   |Czas trwania zakupionej oferty. Jednostki zakupu zazwyczaj są miesięczne.   |
+|Typ licencji pomocniczej   |Dodatkowe typy licencji będą nieo określone, dodatek lub wersja próbna. Dodatek wskazuje, że istnieją wstępnie wymagane produkty, które klient musi zakupić przed zakupem dodatku.|
+|Typ klienta końcowego   |Odnosi się z powrotem do typu umowy licencyjnej: licencja firmowa — odsprzedawca chmury firmowy, licencja dla instytucji rządowych — odsprzedawca chmury dla instytucji rządowych lub licencja akademickia — odsprzedawca chmury lub odsprzedawca chmury student   |
+|Cennik   |Cena, jaką zapłaci partner   |
+|Cena ERP   |Szacowana lub zalecana cena detaliczna dla klienta   |
 
 ## <a name="price-changes"></a>Zmiany cen
 
-Zmiany cen są typowym wystąpieniem. Partnerzy mogą przewidywać zmiany cen dla ofert opartych na licencjach, przeglądając listę cenową w wersji zapoznawczej. Na pulpicie nawigacyjnym Centrum partnerskiego Otwórz stronę Cennik i oferty, aby wyświetlić podgląd cennika.
+Częstym zdarzeniem są zmiany cen. Partnerzy mogą przewidywać zmiany cen ofert opartych na licencjach, patrząc na podgląd cennika. Na Partner Center nawigacyjnym otwórz stronę Cennik i oferty, aby wyświetlić podgląd cennika.
 
-Jednak Cennik oparty na użyciu platformy Azure nie ma wersji zapoznawczej. Partnerzy mogą utrzymywać zmiany cen użycia platformy Azure, korzystając z interfejsu API RateCard, który zwraca Cennik miernika tego dnia.
+Jednak cennik oparty na użyciu platformy Azure nie ma wersji zapoznawczej. Partnerzy mogą być na bieżąco ze zmianami cen za użycie platformy Azure przy użyciu interfejsu API usługi RateCard, który zwraca ceny mierników z tego dnia.
 
-|**Typ produktu**   |**Przykłady produktu**  |**Dostępna wersja zapoznawcza** |**Szczegóły zmiany**|
+|**Typ produktu**   |**Przykłady produktów**  |**Dostępna wersja zapoznawcza** |**Zmienianie szczegółów**|
 |-----------------------|:-----------------------|:-------------------|------------------|
-|Oparta na licencji|Office, Dynamics, Intune, Windows Enterprise|30 dni|Cennik przedstawiający Cennik oznaczony jako CHNG na listach cen w wersji zapoznawczej|
-|Na podstawie użycia|Zasoby platformy Azure|Niedostępne|Dziennik zmian dostępny na karcie **historia zmian** cennika na poprzednim miesiącu|
-|Oprogramowanie||Niedostępne|Ręcznie Porównaj listy cen z miesiąca na miesiąc|
-|Rezerwacje|Maszyny wirtualne, które zostały wstępnie opłacone|Niedostępne|Ręcznie Porównaj listy cen z miesiąca na miesiąc|
+|Oparte na licencjach|Office, Dynamics, Intune, Windows Enterprise|30-dniowy|Wyświetlanie zmian cen oznaczonych jako CHNG w cennikach wersji zapoznawczej|
+|Na podstawie użycia|Zasoby platformy Azure|Niedostępne|Dziennik zmian dostępny na karcie Historia zmian cennika z **poprzedniego** miesiąca|
+|Oprogramowanie||Niedostępne|Ręczne porównywanie cenników z miesiąca na miesiąc|
+|Rezerwacje|Maszyny wirtualne, z przedpłatą|Niedostępne|Ręczne porównywanie cenników z miesiąca na miesiąc|
 
-Ceny na podstawie użycia mogą się zmieniać w ciągu miesiąca. Aby uzyskać dzienny Cennik dla tych zasobów platformy Azure, partnerzy muszą wywołać interfejs API RateCard. 
+Ceny oparte na użyciu mogą zmieniać się w ciągu miesiąca. Aby uzyskać "bieżące" dzienne ceny tych zasobów platformy Azure, partnerzy muszą wywołać interfejs API usługi RateCard. 
 
 > [!Note] 
-> Zmiany cen subskrypcji dotyczą tylko podczas odnawiania. Miesięczna opłata jest naliczana według ceny zakupu lub ceny w momencie tworzenia subskrypcji. Jeśli cena zostanie zwiększona lub obniżona po uzyskaniu rocznego okresu obowiązywania, partner nie będzie obciążany zmienioną ceną do momentu odnowienia — zwykle w okresie 12-miesięcznym.
+> Zmiany cen subskrypcji mają zastosowanie tylko podczas odnawiania. Opłata miesięczna partnera jest określana na podstawie ceny zakupu lub ceny w czasie tworzenia subskrypcji. Jeśli cena zwiększa się lub zmniejsza po zbycie rocznego okresu, partnerowi nie jest naliczana opłata za zmienioną cenę do czasu odnowienia — zwykle w okresie 12 miesięcy.
 
 ## <a name="pricing-and-special-segments"></a>Cennik i segmenty specjalne
 
-Dostawca usług kryptograficznych oferuje pewne usługi do specjalnych segmentów rynkowych, na przykład edukację, niedochodową i rządową chmurę społecznościową. Nie wszystkie usługi są dostępne w każdym kanale. Nie ma żadnych ustawień domyślnych segmentu, które nazywają segment "komercyjne". Wszystkie cenniki oparte na licencjach są dostępne na liście cenowej na podstawie licencji na stronie Cennik i oferty. Cennik Azure Government jest dostępny na liście cen opartych na użyciu podczas logowania do Azure Government włączono dzierżawy CSP. Subskrypcje oprogramowania i bezterminowe oprogramowanie nie obsługują jeszcze tych specjalnych segmentów.
+CSP — oferuje niektóre usługi dla specjalnych segmentów rynku, takich jak edukacja, organizacje niedochodowe i chmura społeczności dla instytucji rządowych. Nie wszystkie usługi są dostępne w każdym kanale. Żaden segment nie jest domyślnie domyślny dla tego, co nazywamy segmentem "komercyjnym". Wszystkie ceny oparte na licencjach są dostępne w cenniku opartym na licencjach na stronie Ceny i oferty. Azure Government są dostępne w cenniku opartym na użyciu po zalogowaniu się do dzierżawy Azure Government CSP. Subskrypcje oprogramowania i bezterminowe oprogramowanie nie obsługują jeszcze tych specjalnych segmentów.
 
-|**Segment**   |**kto musi kwalifikować się**   |**Partner uprawnia klienta**|**Włączone typy produktów**|
+|**Segment**   |**kto musi się kwalifikować**   |**Partner kwalifikuje klienta**|**Włączone typy produktów**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|Customer|Nie, kwalifikacja klienta będzie wykonywana przez firmę Microsoft |Tylko na podstawie licencji|
-|Niedochodowy|Customer|Nie, klienci są kwalifikowani poza centrum partnerskim|Tylko na podstawie licencji|
-|Government Community Cloud (GCC)|Partner i klient|Po włączeniu współpracy w zatoce partner może tworzyć klientów z współpracy w zatoce| Tylko na podstawie licencji|
-|Azure Government|Partner|Gdy jest kwalifikowana, Partner działa w dzierżawie dostawcy CSP specyficznym dla Azure Government|Zasoby platformy Azure|
+|Education|Customer|Nie, kwalifikacje klientów będą wykonywane przez firmę Microsoft |Tylko na podstawie licencji|
+|Non-profit|Customer|Nie, klient kwalifikuje się poza Partner Center|Tylko na podstawie licencji|
+|Government Community Cloud (GCC)|Partner i klient|Po włączeniu GCC partner może tworzyć klientów GCC| Tylko na podstawie licencji|
+|Azure Government|Partner|Po zakwalifikowanym partner działa w dzierżawie CSP specyficznej dla Azure Government|Zasoby platformy Azure|
 
-Marginesy partnerów, różnica między cennikiem a szacowanymi cenami sprzedaży detalicznej, mogą się różnić od segmentów do segmentów. Zazwyczaj Edukacja i niedochodowość mają mniej lub małe marginesy dla partnerów programu CSP. Dokładne wartości można znaleźć na liście cenowej na podstawie licencji. 
+Marże partnerów, różnica między ceną detaliczną a szacowaną ceną detaliczną, może różnić się w zależności od segmentu. Zwykle edukacja i organizacje niedochodowe mają niższe marże dla partnerów CSP lub ich brak. Dokładne wartości można znaleźć w cenniku opartym na licencjach. 
 
 ## <a name="add-on-offer-types"></a>Typy ofert dodatków
 
-Usługi oparte na licencji można nabyć jako podstawowe oferty lub dodatki. Tylko oferty podstawowe są wykrywalne i jednostek za pośrednictwem katalogu Centrum partnerskiego. Po zakupie ofert podstawowych należy zastosować dodatki. Kolumna **pomocniczy typ licencji** listy cenowej na podstawie licencji zawiera informacje o każdej ofercie i jej typie. Oferty podstawowe mają **niespecyficzne** wartości w kolumnie pomocniczy typ licencji cennika i można je kupić w katalogu. Nie można kupić dodatkowych wartości typu licencji **dodatku** w wykazie. Aby kupić te dodatki:
+Usługi oparte na licencjach można zakupić jako podstawowe oferty lub dodatki. Tylko oferty podstawowe można odnajdywać i kupować za pośrednictwem Partner Center katalogu. Po zakupie podstawowych ofert musisz zastosować dodatki. Cennik oparty na licencjach **Kolumna Pomocniczy typ** licencji zawiera informacje o każdej ofercie i jej typie. Oferty podstawowe mają **nieo określone wartości** w kolumnie typu licencji pomocniczej cennika i można je kupić w katalogu. Nie można zakupić dodatkowych wartości **typu licencji dodatku** w katalogu. Aby kupić te dodatki:
 
-1. Zapoznaj się z macierzą listą ofert, aby wyświetlić listę identyfikatorów ofert, które należy zakupić przed zakupem dodatku.
-2. Kup ofertę podstawową z wykazu
-3. Przejdź do klienta z listy klient. Kliknij subskrypcję oferty podstawowej, która została właśnie zakupiona. Na stronie Zarządzanie subskrypcją zostaną wyświetlone dostępne dodatki, które można zastosować do oferty podstawowej.
+1. Zapoznaj się z macierzą listy ofert, aby wyświetlić listę identyfikatorów ofert, które należy zakupić przed zakupem dodatku.
+2. Kupowanie oferty podstawowej z katalogu
+3. Przejdź do klienta z listy klientów. Kliknij subskrypcję dla właśnie zakupionej oferty podstawowej. Na stronie zarządzania subskrypcją zobaczysz dostępne dodatki, które można zastosować do oferty podstawowej.
 
 > [!Note] 
-> Niektóre podstawowe oferty mają wartości **typu jednostki** **licencji dodatku**. W przypadku podstawowej oferty to oznacza, że po zakupie nie przypiszesz licencji użytkownika. Jeśli oferta może zostać zakupiona w wykazie, jest to **podstawowa oferta** niezależnie od typu jednostki w interfejsie użytkownika.
+> Niektóre oferty podstawowe mają **wartości typu jednostkowego** licencji **dodatków.** W przypadku oferty podstawowej oznacza to po prostu, że licencje użytkowników nie są przypisywane po zakupie. Jeśli ofertę można kupić w katalogu, jest to oferta podstawowa **niezależnie** od typu jednostki w interfejsie użytkownika.
 
 ## <a name="pricing-between-azure-and-non-azure"></a>Cennik platformy Azure i spoza platformy Azure
 
-Ceny różnią się w zależności od różnych typów ofert. Cennik oparty na licencji jest zazwyczaj kwotą za licencję w danym miesiącu. Cennik oparty na użyciu jest określany za pomocą danego zasobu ze skojarzonym IDENTYFIKATORem miernika. Partnerzy nie są obciążani opłatami za pozyskiwanie subskrypcji platformy Azure. Jednak partnerzy są obciążani za zasoby używane przez różne wdrożenia w ramach subskrypcji platformy Azure. Cennik na cenniku opartym na użyciu jest zorganizowany wokół różnych identyfikatorów liczników zasobów na platformie Azure.
+Ceny różnią się w zależności od typu ofert. Ceny oparte na licencjach to zwykle kwota za licencję w danym miesiącu. Ceny oparte na użyciu są określane na podstawie użycia danego zasobu ze skojarzonym identyfikatorem miernika. Partnerzy nie są obciążani opłatami za uzyskanie subskrypcji platformy Azure. Jednak partnerom są naliczane opłaty za zasoby używane przez różne wdrożenia w ramach subskrypcji platformy Azure. Cennik na podstawie użycia jest zorganizowany wokół różnych identyfikatorów mierników zasobów na platformie Azure.
 
-Rezerwacje platformy Azure są oparte na terminach zakupy dla określonego typu zasobu — Virtual Machines. Zakup rezerwacji Azure pozwala partnerowi na przedpłatę (co najmniej jeden rok) i zarezerwować daną maszynę wirtualną. Rezerwacje pozwalają zaoszczędzić pieniądze i zapewnić, że ich maszyna wirtualna jest zawsze dostępna na czas trwania okresu. Partner może dostosować rezerwację do identyfikatorów mierników zasobów opartych na użyciu. Identyfikatory liczników są spójne w obrębie zasobu, niezależnie od tego, czy partner kupuje maszynę wirtualną czy po prostu wdrażają maszynę wirtualną jako zasób oparty na użyciu.
+Rezerwacje platformy Azure to zakupy oparte na terminach dla określonego typu zasobu — Virtual Machines. Zakup rezerwacji platformy Azure umożliwia partnerowi przedpłatę (terminy za rok lub trzy lata) i zarezerwowanie danej maszyny wirtualnej. Rezerwacje oszczędzają pieniądze partnera i zapewniają, że ich maszyna wirtualna jest zawsze dostępna przez cały okres. Partner może dopasować wymaganą rezerwację do identyfikatorów mierników zasobów opartych na użyciu. Identyfikatory mierników są spójne w obrębie zasobu niezależnie od tego, czy partner kupuje maszynę wirtualną, czy po prostu wdraża maszynę wirtualną jako zasób oparty na użyciu.
 
-## <a name="offers-matrix"></a>Oferuje macierz
+## <a name="offers-matrix"></a>Tabela ofert
 
-Na stronie Cennik i oferty Wyświetl macierz oferty odsprzedawcy chmury, aby zapoznać się z różnymi jednostkami SKU i pakietami produktów, które są dostępne do sprzedaży. Macierz oferty zawiera oferty, które są dostępne dla ustawień regionalnych. Jeśli element znajduje się na liście cenowej, ale nie w macierzy oferty, oznacza to, że produkty nie mogą być jeszcze uporządkowane. Gdy tylko staną się dostępne w kolejności, macierz oferty są aktualizowane.
+Na stronie Ceny i oferty wyświetl macierz oferty odsprzedawcy chmury, aby zapoznać się z różnymi jednostkami SKU i pakietami produktów dostępnymi do sprzedaży. Macierz ofert zawiera oferty, które są dostępne dla 1.0. Jeśli element znajduje się na liście cen, ale nie w macierzy ofert, oznacza to, że produktów nie można jeszcze zamówić. Gdy tylko będą dostępne do zamówienia, macierz ofert zostanie zaktualizowana.
 
-W przypadku partnerów programu CSP, którzy korzystają z zestawów SDK (Partner Center Software Development Kit). Firma Microsoft publikuje także listę usług platformy Azure w programie CSP na stronie Cennik i oferty.
+Dla partnerów programu CSP, którzy używają Partner Center Software Development Kit (SDK). Firma Microsoft publikuje również listę usług platformy Azure w programie CSP na stronie Cennik i oferty.
 
-### <a name="offers-matrix-and-price-list-questions"></a>Oferuje pytania dotyczące macierzy i cennika
+### <a name="offers-matrix-and-price-list-questions"></a>Pytania dotyczące macierzy ofert i cennika
 
-Jeśli masz pytania dotyczące cennika lub macierzy ofert, Prześlij żądanie obsługi za pomocą Centrum partnerskiego.
+Jeśli masz pytania dotyczące cennika lub macierzy ofert, prześlij żądanie obsługi za pośrednictwem Partner Center.
 
-## <a name="offer-limits"></a>Limity oferty
+## <a name="offer-limits"></a>Limity ofert
 
-Niektóre oferty oparte na licencji mają pewne reguły i ograniczenia, które zabraniają wielu zakupów dla tego samego klienta. Te reguły dotyczą większości wersji próbnych i wielu małych ofert w biznesie. Oferty **małych firm** są definiowane przez te oferty, które mają maksymalną liczbę licencji mniejszą niż 300.
+Niektóre oferty oparte na licencjach mają pewne reguły i ograniczenia, które zabraniają wielu zakupów dla tego samego klienta. Te reguły dotyczą większości wersji próbnych i wielu ofert małych firm. **Oferty dla małych firm** są definiowane przez te oferty, które mają maksymalną liczbę licencji mniejszą niż 300.
 
-Te ograniczenia zakupu są definiowane jako część konfiguracji oferty i można je znaleźć, przeglądając macierz list oferty. Dwie kolumny danych współpracują ze sobą w celu zdefiniowania wymuszania: 1. Zakres ograniczeń oferty i 2. Limit oferty. Ograniczenia są wymuszane podczas zakupu. Wykaz w centrum partnerskim nie zezwoli partnerowi na zakup większej liczby ofert niż zezwala na to. Każda próba naruszenia ograniczeń spowoduje wystąpienie błędu.
+Te ograniczenia zakupu są definiowane jako część konfiguracji oferty i można je znaleźć w macierzy listy ofert. Dwie kolumny danych współpracują ze sobą w celu zdefiniowania wymuszania: 1. Zakres limitu oferty i 2. Limit oferty. Ograniczenia są wymuszane podczas zakupu. Katalog w Centrum partnerskim nie zezwala partnerowi na kupowanie większej liczby ofert niż zezwalają na to reguły. Każda próba naruszenia ograniczeń spowoduje błąd.
 
-Zakres ograniczeń oferty jest rejestrowany jako kolumna w macierzy list ofert i może mieć wartości none, Lifetime lub współbieżne. 
+Zakres limitu oferty jest rejestrowany jako kolumna w macierzy listy ofert i może mieć wartości None, Lifetime lub Concurrent. 
 
-- Oferty bez **żadnych** ograniczeń mogą zostać zakupione.
-- Oferty **okresu istnienia** można kupić tylko raz.
-- **Współbieżne** oferty można zakupić tyle razy, ile jest to dozwolone przez wartość **limitu oferty** dla tej oferty. Większość prób ma zakres limitu oferty z limitem oferty równym "1". W przypadku większości ofert dla małych firm obowiązuje limit ograniczonej oferty z limitem oferty równy "2".
+- Oferty z **none** można kupić bez ograniczeń.
+- **Oferty** okresu istnienia można kupić tylko raz.
+- **Oferty** współbieżne można zakupić tyle razy, ile jest dozwolone przez wartość **Limit oferty** dla tej oferty. Większość wersji próbnych ma zakres limitu oferty w okresie istnienia z limitem oferty o wartości "1". Większość ofert dla małych firm ma zakres limitu współbieżnych ofert z limitem oferty "2".
 
 > [!IMPORTANT]
-> Limity współbieżności są wymuszane nawet wtedy, gdy oferta została anulowana. Oferta musi zostać całkowicie anulowana, a następnie wycofać ją w celu zwolnienia dodatkowego miejsca, co pozwala na inny zakup.
+> Limity współbieżności są wymuszane nawet w przypadku anulowania oferty. Ofertę należy anulować całkowicie, a następnie anulować jej aprowizę, aby umożliwić dodatkowe miejsce na kolejny zakup.
 
-### <a name="taxes-and-pricing"></a>Podatki i Cennik
+### <a name="taxes-and-pricing"></a>Podatki i ceny
 
-Wszystkie ceny na listach cen dostawcy CSP Centrum partnerskiego są podatkiem włącznie. Aby uzyskać więcej informacji na temat podatków od dokumentu Centrum partnerskiego [i zwolnienia podatkowe](tax-and-tax-exemptions.md).
+Wszystkie ceny w cennikach programu CSP w Centrum partnerskim są włącznie z podatkami. Więcej informacji można znaleźć w dokumencie Partner Center [Taxs and tax exemptions (Podatki i zwolnienia z podatku).](tax-and-tax-exemptions.md)
 
-## <a name="multi-year-term-offers"></a>Oferty wieloletniego terminu
+## <a name="multi-year-term-offers"></a>Oferty długoterminowe na wiele lat
 
-### <a name="36-month-offers"></a>36 ofert
+### <a name="36-month-offers"></a>Oferty na 36 miesięcy
 
-Istnieje około 50 ofert, które mają trzy lata. Są one identyfikowane przez **(36 mo)** w tytule ofert. Oferty te są podobne do ofert rocznych. Jedyną różnicą jest około tego okresu. Te oferty mają trzy lata okresu, dzięki czemu subskrypcje są odnawiane automatycznie po trzech latach zamiast jednego. Poniżej znajduje się podsumowanie sposobu działania tych ofert:
+Istnieje około 50 ofert usługi Dynamics z postanowieniami za trzy lata. Są one identyfikowane **przez (36 miesięcy)** w tytule ofert. Te oferty są podobne do ofert okresowych dla roku. Jedyna różnica dotyczy ich terminu. Te oferty mają okres trzech lat, dzięki czemu subskrypcje są odnawiane automatycznie po trzech latach, a nie po jednym. Poniżej znajduje się podsumowanie sposobu działania tych ofert:
 
-- Warunki to 36 miesięcy, subskrypcje będą odnawiane automatycznie po trzech latach
+- Warunki to 36 miesięcy, a subskrypcje będą odnawiane automatycznie po trzech latach
 - Partnerzy mogą anulować lub zmienić liczbę licencji w okresie subskrypcji
-- Odnawianie roczne będzie naliczane w cenie czasu zakupu przez okres trzyletni
-- Częstotliwość rozliczeń jest w dalszym ciągu roczna lub miesięczna
+- Odnawianie roczne będzie roczące po cenie zakupu za okres trzech lat
+- Częstotliwość rozliczeń jest nadal co rok lub co miesiąc
 
-### <a name="72-month-offers"></a>72 ofert
+### <a name="72-month-offers"></a>Oferty na 72 miesiące
 
-Podstawowa oferta Microsoft 365 a1 ma półroczny okres.  Dodatki do pakietu Office 365 a1 są dostępne po zakupie tej oferty podstawowej. 
+Microsoft 365 podstawowa A1 ma okres sześciu lat.  Dodatki usługi Office 365 A1 są dostępne po zakupie tej oferty podstawowej. 
 
 |**Nazwa oferty**   |**Identyfikator oferty**   |**Typ**|
 |-------------------|-----------------------|----------------------------|
-|Microsoft 365 a1|778a4dce-0014-4d53-8647-314ef2b091d2|Oferta podstawowa|
-|Pakiet Office 365 a1 dla wykładowców (dla urządzenia)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Dodatek|
-|Pakiet Office 365 a1 for Students (dla urządzenia)|bae285a9-d56b-4384-b02f-38adc61a6f12|Dodatek|
+|Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Oferta podstawowa|
+|Office 365 A1 dla nauczycieli i wykładowców (dla urządzenia)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Dodatek|
+|Office 365 A1 dla uczniów (dla urządzeń)|bae285a9-d56b-4384-b02f-38adc61a6f12|Dodatek|
 
 Poniżej znajduje się podsumowanie sposobu działania tych ofert:
 
-- Termin jest przez 72 miesięcy lub sześć lat
-- Subskrypcja nie jest odnawiana i wygasa po sześciu latach
-- Częstotliwość rozliczeń w ofercie jest naliczana jako cena roczna, ale przed uzyskaniem subskrypcji partner jest rozliczany na pierwszej fakturze
-- Subskrypcje dla zamówień a1 72-miesiąc są zablokowane po zakupie i nie można ich anulować i nie można dodać do subskrypcji liczby licencji po początkowym zakupie
-- Ta subskrypcja nie jest anulowana i nie jest zwrotna.
+- Okres to 72 miesiące lub sześć lat
+- Subskrypcja nie jest odnawiana i wygasa po upływie sześciu lat
+- Częstotliwość rozliczeń w ofercie jest przedstawiana jako roczna, ale partner jest rozliczany z góry na pierwszej fakturze po uzyskaniu subskrypcji
+- Subskrypcje ofert 72-miesięcznych A1 są blokowane po zakupie i nie można ich anulować, a liczby licencji nie można dodać do subskrypcji po początkowym zakupie
+- Tej subskrypcji nie można anulować i nie można jej zwrócić.
 
 ## <a name="estimated-retail-price-erp"></a>Szacowana cena detaliczna (ERP)
 
-W przypadku większości cenników uwzględniona jest cena na liście, Cena naliczana przez partnera oraz Szacowana cena detaliczna. Szacowana cena detaliczna (ERP) jest również nazywana sugerowaną przez firmę Microsoft ceną detaliczną lub MSRP. Te dwie wartości, ERP i MSRP, reprezentują szacunkową wartość rynkową produktów, jeśli klient musiał kupić produkty bezpośrednio od firmy Microsoft. Poniżej znajdują się informacje na temat usługi ERP/MSRP dla każdego typu produktu lub usługi. 
+Większość list cen zawiera cenę cennika, cenę rozlikową partnera i szacowaną cenę detaliczną. Szacowana cena detaliczna (ERP) jest również nazywana sugerowaną ceną detaliczną firmy Microsoft lub MSRP. Te dwie wartości, ERP i MSRP, reprezentują szacowaną wartość rynku produktów, jeśli klient zakupi produkty bezpośrednio od firmy Microsoft. Poniżej przedstawiono, gdzie można znaleźć szczegóły ERP/MSRP dla każdego typu produktu lub usługi. 
 
 
 |**Produkt lub usługa**        |**Szczegóły cennika ERP i MSRP**      |
 |:-----------   |:-----------   |
 |Produkt lub usługa  |Szczegóły cennika ERP i MSRP  |
-|Usługi oparte na licencji  |Wymienione jako ERP na listach cen opartych na licencji  |
-|Usługi oparte na użyciu platformy Azure  |Znajdują się na liście cen równoważnej usługom udostępnionym  |
-|Rezerwacje platformy Azure  |Znajdują się na liście cen równoważnej usługom udostępnionym  |
-|Na podstawie użycia planu platformy Azure  |Ceny to sprzedaż detaliczna niezdyskontowana w arkuszach cen  |
-|Rezerwacje planu platformy Azure  |Odwołania do listy cen usług udostępnionych na platformie Azure  |
-|Subskrypcje oprogramowania  |Wymienione jako MSRP na listach cen subskrypcji oprogramowania  |
-|Marketplace  |Wymienione jako MSRP na listach cen w witrynie Marketplace  |
+|Usługi oparte na licencjach  |Wymienione jako ERP w cennikach opartych na licencjach  |
+|Usługi oparte na użyciu platformy Azure  |Można je znaleźć w równoważnych cennikach usług udostępnionych  |
+|Rezerwacje platformy Azure  |Można je znaleźć w równoważnych cennikach usług udostępnionych  |
+|Na podstawie użycia planu platformy Azure  |Ceny nie są z rabatami detalicznymi w arkuszach cen  |
+|Rezerwacje planów platformy Azure  |Odwołania do cenników usług udostępnionych rezerwacji platformy Azure  |
+|Subskrypcje oprogramowania  |Wymienione jako MSRP w cennikach subskrypcji oprogramowania  |
+|Marketplace  |Wyświetlane jako MSRP w cennikach witryny Marketplace  |
 
 Więcej zasobów: 
 
 - [Cennik planu platformy Azure](azure-plan-price-list.md)
-- [Przegląd cen platformy Azure](https://azure.microsoft.com/pricing/)
+- [Omówienie cennika platformy Azure](https://azure.microsoft.com/pricing/)

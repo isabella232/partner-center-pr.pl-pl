@@ -9,22 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e863a5dbb86dae2c1cd3395589b4d4318eb0dba1
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: d9ae853b095339b54f7b4d2eb0f41fecd5f53f80
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284149"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854778"
 ---
 # <a name="support-from-microsoft"></a>Pomoc techniczna od firmy Microsoft
 
-**Dotyczy**
+**Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Centrum partnerskie Microsoft Cloud for US Government
-
-**Odpowiednie role**
-
-- Agent pomocy technicznej
+**Odpowiednie role:** Agent pomocy technicznej
 
 Jeśli masz problemy z usługą firmy Microsoft lub usługą Partner Center, możesz zgłosić problem firmie Microsoft, eskalować problem do firmy Microsoft w celu pomocy i śledzić problem do momentu jego rozwiązania.
 
@@ -32,9 +28,9 @@ Jeśli masz problemy z usługą firmy Microsoft lub usługą Partner Center, mo�
 
 [Pomoc techniczna w imieniu klientów](report-problems-on-behalf-of-a-customer.md) — uzyskiwanie pomocy i zgłaszanie problemów na kliencie.
 
-[Sprawdź kondycję usługi](check-service-health.md) — sprawdź, czy w usłudze nie występują jakieś bieżące znane Partner Center.
+[Sprawdź kondycję usługi](check-service-health.md) — sprawdź, czy w usłudze nie występują jakiekolwiek bieżące znane Partner Center.
 
-[Uzyskiwanie automatycznych powiadomień o usłudze za pomocą naszych](get-automated-service-notifications-with-our-apis.md) interfejsów API — dostawcy rozwiązań w chmurze mogą otrzymywać automatyczne powiadomienia o usługach klientów.
+[Uzyskiwanie automatycznych powiadomień o usługach za pomocą naszych](get-automated-service-notifications-with-our-apis.md) interfejsów API — dostawcy rozwiązań w chmurze mogą otrzymywać automatyczne powiadomienia o usługach klientów.
 
 ## <a name="next-steps"></a>Następne kroki
 

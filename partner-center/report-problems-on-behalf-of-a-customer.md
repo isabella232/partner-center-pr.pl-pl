@@ -9,24 +9,20 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f67a3b6a403f09cb773a5ca663d6cf6db1b03e2e
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: 6ba25d0bfc4796ca43d36bb34bf6d9e82889881c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018122"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855713"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Zgłaszanie problemu z usługą w imieniu klienta — w tym informacji o tym, kiedy i jak to zrobić
 
-**Dotyczy**
+**Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Centrum partnerskie Microsoft Cloud for US Government
+**Odpowiednie role:** Administrator globalny
 
-**Odpowiednie role**
-
-- Administrator globalny
-
-Jeśli u klienta występuje problem z usługą, którego nie można rozwiązać i który spełnia kryteria opisane w tesłudze [Escalate problems to Microsoft](escalate-problems-to-microsoft.md)(Eskalowanie problemów do firmy Microsoft), dostawca pośredni może utworzyć dla nich bilet pomocy technicznej. Ten proces jest również przydatny w przypadku eskalacji problemów z rozliczeniami lub sporów oraz w przypadku problemów związanych z oszustwami.
+Jeśli u klienta występuje problem z usługą, którego nie można rozwiązać i który spełnia kryteria opisane w tesłudze [Escalate problems to Microsoft (Eskalowanie](escalate-problems-to-microsoft.md)problemów do firmy Microsoft), dostawca pośredni może utworzyć dla nich bilet pomocy technicznej. Ten proces jest również przydatny w przypadku eskalacji problemów z rozliczeniami lub sporów oraz w przypadku problemów związanych z oszustwami.
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Przesyłanie żądania obsługi dla klienta
 
@@ -48,7 +44,7 @@ Jeśli u klienta występuje problem z usługą, którego nie można rozwiązać 
 >
 >- Aby jako odsprzedawca pośredni tworzył żądania obsługi dla klienta na platformie Azure, twój dostawca pośredni musi udzielić Ci dostępu do konta platformy Azure klienta. Różni się to od administrowania usługą Office 365 w imieniu klientów.
 >
->- Mimo że administrator pomocy technicznej w usłudze Partner Center nie może tworzyć żądań obsługi w portalu usługi Azure, to co może zrobić, to utworzyć grupę pomocy technicznej w witrynie Azure Service Portal i nadać tej grupie uprawnienia do rejestrować żądania pomocy technicznej.
+>- Mimo że administrator pomocy technicznej w usłudze Partner Center nie może tworzyć żądań obsługi w portalu usługi Azure, można utworzyć grupę pomocy technicznej w portalu usługi platformy Azure i nadać tej grupie uprawnienia do logowania żądań pomocy technicznej.
 
 1. Wybierz pozycję **Nowe żądanie obsługi**.
 
@@ -87,9 +83,9 @@ W każdym z tych przypadków możesz użyć poniższej procedury, aby utworzyć 
 
 3. Później przejrzyj żądania obsługi klienta, przechodząc do centrum administracyjnego usługi Office 365 i wybierając pozycję **Zobacz wszystkie bilety pomocy technicznej.**
 
-### <a name="support-for-commercial-marketplace-products"></a>Obsługa produktów komercyjnej platformy handlowej
+### <a name="support-for-commercial-marketplace-products"></a>Obsługa produktów na platformie handlowej
 
-Firma Microsoft nie zapewnia pomocy technicznej dotyczącej produktów na platformie handlowej. Skontaktuj się z niezależnym dostawcą oprogramowania, który opublikował produkt, aby uzyskać pomoc techniczną.
+Firma Microsoft nie zapewnia pomocy technicznej dotyczącej produktów na platformie handlowej. Aby uzyskać pomoc techniczną, skontaktuj się z niezależnym dostawcą oprogramowania, który opublikował produkt.
 
 Aby znaleźć informacje kontaktowe isv:
 
@@ -107,9 +103,9 @@ Zobacz następujące często zadawane pytania dotyczące żądań obsługi, któ
 
 ### <a name="what-is-included-as-part-of-the-support-entitlement"></a>Co obejmuje uprawnienie do pomocy technicznej?
 
-Żądania obsługi należy składać za pośrednictwem Partner Center. Są one dostępne dla platformy Azure, Microsoft Office 365, Microsoft Dynamics CRM Online i pakietu Enterprise Mobility Suite. Jako partner biorący udział w programie Dostawca rozwiązań w chmurze, możesz oczekiwać priorytetowego czasu odpowiedzi na najważniejsze problemy.
+Żądania obsługi należy składać za pośrednictwem Partner Center. Są one dostępne dla platformy Azure, Microsoft Office 365, Microsoft Dynamics CRM Online i Pakietu Enterprise Mobility Suite. Jako partner biorący udział w programie Dostawca rozwiązań w chmurze, możesz oczekiwać priorytetowego czasu odpowiedzi na najważniejsze problemy.
 
-Pomoc techniczna dla twojej dzierżawy partnera nie jest uwzględniona w ramach korzyści pomocy technicznej dla programu CSP. Jednak usługi Office 365, Microsoft Dynamics CRM Online i Enterprise Mobility Suite nie naliczają oddzielnej opłaty za subskrypcję pomocy technicznej dla partnerów lub klientów. Platforma Azure nalicza opłatę, ale jeśli masz prawo do korzystania z Signature Cloud Support lub innych korzyści Microsoft Partner Network (MPN), możesz użyć tych korzyści do zapłacenia tej opłaty.
+Pomoc techniczna dla twojej dzierżawy partnera nie jest uwzględniona w ramach korzyści pomocy technicznej dla programu CSP. Jednak usługi Office 365, Microsoft Dynamics CRM Online i Enterprise Mobility Suite nie naliczają oddzielnej opłaty za subskrypcję pomocy technicznej dla partnerów lub klientów. Platforma Azure nalicza opłatę, ale jeśli masz prawo do korzystania z usługi Signature Cloud Support lub innych korzyści Microsoft Partner Network (MPN), możesz użyć tych korzyści do zapłacenia tej opłaty.
 
 Ta korzyść dotyczy wszystkich partnerów biorących udział w programie Dostawca rozwiązań w chmurze, płatnym lub w okresie próbnym. Pomoc techniczna dotycząca rozliczeń i zarządzania subskrypcjami jest również uwzględniona jako bezpłatny składnik tego pakietu.
 
@@ -134,7 +130,7 @@ Nie, pomoc techniczna telefoniczna nie jest oferowana dla tego programu.
 
 Jeśli logujesz się Microsoft Azure Portal bezpośrednio, centrum jest wyświetlane we własnym kontekście, a nie w kontekście klienta. Dlatego podczas tworzenia żądania obsługi dla własnych subskrypcji należy logować się bezpośrednio Microsoft Azure Portal chmurze.
 
-Uprawnienie do obsługi programu CSP nie zapewnia pomocy technicznej dla Twojej subskrypcji partnera. W związku z tym podczas tworzenia żądania obsługi, które dotyczy twojej subskrypcji partnera, musisz podać prawidłowe uprawnienie do planu pomocy technicznej. Przykłady obejmują identyfikator umowy MPN, premier lub plan pomocy technicznej platformy Azure. Aby uzyskać więcej informacji, zobacz [często zadawane pytania dotyczące pomoc techniczna platformy Azure usługi](https://go.microsoft.com/fwlink/?LinkId=717532).
+Uprawnienie do obsługi programu CSP nie zapewnia pomocy technicznej dla Twojej subskrypcji partnera. W związku z tym podczas tworzenia żądania obsługi, które dotyczy twojej subskrypcji partnera, musisz podać prawidłowe uprawnienie do planu pomocy technicznej. Przykłady obejmują identyfikator kontraktu MPN, premier lub plan pomocy technicznej platformy Azure. Aby uzyskać więcej informacji, zobacz [często zadawane pytania dotyczące pomoc techniczna platformy Azure usługi](https://go.microsoft.com/fwlink/?LinkId=717532).
 
 ### <a name="what-happens-if-i-sign-into-the-office-365-admin-center-portal-and-bypass-partner-center"></a>Co się stanie, jeśli zaloguję się do portalu centrum administracyjnego usługi Office 365 i pominiesz Partner Center?
 
@@ -142,7 +138,7 @@ Jeśli logujesz się bezpośrednio do centrum administracyjnego usługi Office 3
 
 ### <a name="how-do-i-get-additional-dynamics-365-support"></a>Jak mogę uzyskać dodatkową pomoc techniczną dla usługi Dynamics 365?
 
-Jeśli występują problemy związane z: subskrypcjami planu usługi Dynamics 365, licencjonowaniem, rozliczeniami, operacjami & operations, licencjami produktu Dynamics 365 lub potrzebujesz dalszej pomocy technicznej:
+Jeśli występują problemy związane z: subskrypcjami planu usługi Dynamics 365, licencjonowaniem, rozliczeniami, finansami & Operations, licencjami produktów Dynamics 365 lub potrzebujesz dalszej pomocy technicznej:
  
 Kontakt z [pomocą techniczną usługi Dynamics](/dynamics365/customer-engagement/admin/contact-technical-support)
 

@@ -1,184 +1,180 @@
 ---
-title: Przypisywanie ról & uprawnień użytkownikom
+title: Przypisywanie ról & uprawnień do użytkowników
 ms.topic: article
 ms.date: 10/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, które role najlepiej nadają się użytkownikom firmy, którzy zarządzają komercyjnymi transakcjami, odwołaniami, bodźcami lub członkostwem MPN w centrum partnerskim.
+description: Dowiedz się, które role są najlepsze dla użytkowników firmy, którzy zarządzają transakcjami komercyjnymi, poleceniami, zachętami lub członkostwem w programie MPN Partner Center.
 author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: a6e6424dfb787bbe9510d47299f945309dd00528
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: b1ac34bbb92d600805465ca5f6d1b28af54cd5e1
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633917"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855135"
 ---
-# <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Przypisywanie ról i uprawnień użytkowników dla użytkowników firmy, którzy chcą korzystać z Centrum partnerskiego
+# <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Przypisywanie ról i uprawnień użytkowników w firmie, którzy muszą pracować w Partner Center
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Administrator partnera MPN
 
-- Administrator globalny
-- Administrator zarządzania użytkownikami
-- Administrator partnerski MPN
+Profil partnera, w tym nazwę i adres prawna, szczegóły pomocy technicznej, informacje o zwolnieniach z podatku, informacje o banku i podstawowy kontakt dla twojej firmy. Następny krok: Skonfigurowanie użytkowników przy użyciu haseł i ról, aby rozpocząć pracę w Partner Center z Tobem.
 
-Skonfigurowano Profil partnera, w tym imię i nazwisko oraz adres, szczegóły pomocy technicznej, zwolnienia podatkowe plików, informacje o banku oraz kontakt podstawowy firmy. Następny krok: Poproś użytkowników o skonfigurowanie haseł i ról, aby mogli zacząć pracę w centrum partnerskim.
+## <a name="set-up-your-employees-to-work-in-partner-center"></a>Konfigurowanie pracowników do pracy w Partner Center
 
-## <a name="set-up-your-employees-to-work-in-partner-center"></a>Konfigurowanie pracowników do pracy w centrum partnerskim
-
-Należy określić typy dostępu użytkowników do Centrum partnerskiego według ról i uprawnień. Role są powiązane z programami, w których działa Twoja firma. Na przykład jeśli Twoja firma jest firmą z dostawcą rozwiązań w chmurze (CSP), nie będziesz mieć tylko standardowych ról zarządzania dzierżawcą Azure Active Directory, takich jak Administrator globalny, ale będą potrzebować ról specyficznych dla programu CSP. Każdy program ma odpowiednie role.
+Typy dostępu użytkowników, które muszą być Partner Center, określa się na podstawie ról i uprawnień, które im nadaj. Role są związane z programami, w które bierze udział Twoja firma. Jeśli na przykład Twoja firma jest firmą Dostawca rozwiązań w chmurze (CSP), będziesz mieć nie tylko standardowe role zarządzania dzierżawą usługi Azure Active Directory, takie jak administrator globalny, ale także role specyficzne dla programu CSP. Każdy program ma specyficzne role.
 
 >[!Note]
-> Azure Active Directory ról dzierżawy należą do roli Administrator globalny, administrator użytkowników i dostawca usług kryptograficznych. Role spoza usługi Azure-Active-Directory to role, które nie zarządzają dzierżawcą. obejmują one MPN administratora, administratora profilu biznesowego, administratora odwołań, administratora zachęty i użytkownika zachęty. 
+> Azure Active Directory dzierżawy obejmują role administratora globalnego, administratora użytkowników i roli CSP. Role spoza usługi Azure Active Directory to role, które nie zarządzają dzierżawą. Należą do nich administrator mpn, administrator profilu biznesowego, administrator poleceń, administrator zachęt i użytkownik zachęt. 
 
-### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Zarządzanie transakcjami komercyjnymi w centrum partnerskim (role usługi Azure AD i CSP)
+### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Zarządzanie transakcjami komercyjnymi w Partner Center (role usługi Azure AD i CSP)
 
-|**Role**|**Co można zrobić**|**Dowiedz się więcej**|
+|**Role**|**Co mogą zrobić**|**Dowiedz się więcej**|
 |----------------------------------|---|:---------------------------------|
 |Administrator globalny|* Może uzyskać dostęp do wszystkich konto Microsoft/usług z pełnymi uprawnieniami|[Zarządzanie kontem w portalu Partner Center](partner-center-account-setup.md)
-|      |* Tworzenie biletów pomocy technicznej dla Centrum partnerskiego
-||* Przeglądanie utworzonych biletów pomocy technicznej
+|      |* Tworzenie biletów pomocy technicznej dla Partner Center
+||* Wyświetlanie tworzyć biletów pomocy technicznej partnera
 ||* Wyświetlanie umów, cenników i ofert
-||* Wyświetlanie, tworzenie i zarządzanie użytkownikami partnerskimi|
-||  Wyświetlanie, tworzenie i Zarządzanie rozliczeniami, fakturami i plikami Rekonesans
-|Administrator zarządzania użytkownikami   | * Wyświetlanie, tworzenie i zarządzanie użytkownikami|[Zarządzaj korzyściami z członkostwa w Microsoft Partner Network i ofertami w centrum partnerskim](manage-your-partner-network-benefits.md)
-||* Wyświetl wszystkie profile partnerów
-||* Tworzenie biletów pomocy technicznej dla Centrum partnerskiego
-||* Przeglądanie utworzonych biletów pomocy technicznej
-|Administrator rozliczeń | — Wyświetlanie, tworzenie i Zarządzanie rozliczeniami, fakturami i plikami Rekonesans|[Read your bill (Odczytywanie rachunku)](billing.md)
-||* Wyświetl Cennik
-||* Tworzenie biletów pomocy technicznej dla Centrum partnerskiego
-||* Przeglądanie utworzonych biletów pomocy technicznej
-|Użytkownik domyślny|  Wyświetl mój profil   |[Resetowanie hasła](reset-my-pasword.md)
+||* Wyświetlanie i tworzenie użytkowników partnerów oraz zarządzanie nimi|
+||  Wyświetlanie, tworzenie i zarządzanie rozliczeniami, fakturami i plikami ponownego tworzenia
+|Administrator zarządzania użytkownikami   | * Wyświetlanie i tworzenie użytkowników oraz zarządzanie nimi|[Zarządzanie korzyściami Microsoft Partner Network i ofertami członkostwa w programie Partner Center](manage-your-partner-network-benefits.md)
+||* Wyświetl wszystko partnerów
+||* Tworzenie biletów pomocy technicznej dla Partner Center
+||* Wyświetlanie tworzyć bilety pomocy technicznej partnera
+|Administrator rozliczeń | — Wyświetlanie, tworzenie i zarządzanie rozliczeniami, fakturami i plikami ponownego tworzenia|[Read your bill (Odczytywanie rachunku)](billing.md)
+||* Wyświetl cennik
+||* Tworzenie biletów pomocy technicznej dla Partner Center
+||* Wyświetlanie tworzyć bilety pomocy technicznej partnera
+|Użytkownik domyślny|  Wyświetl Mój profil   |[Resetowanie hasła](reset-my-pasword.md)
 |Agent administracyjny | * Zarządzanie klientami|[Nawiązywanie relacji z klientami](connect-with-your-customers.md)
-||* Dodaj listę urządzeń do Centrum partnerskiego
-||* Tworzenie i stosowanie profilów na urządzeniach
+||* Dodawanie listy urządzeń do Partner Center
+||* Tworzenie i stosowanie profilów do urządzeń
 ||* Zarządzanie subskrypcjami
-||* Żądania dotyczące kondycji usług i usług dla klientów
-||* Żądaj uprawnień administratora delegowanego
-||* Wyświetl Cennik i oferty
+||* Kondycja usługi i żądania obsługi dla klientów
+||* Żądanie delegowanych uprawnień administratora
+||* Wyświetlanie cen i ofert
 ||* Rozliczenia
-||* Administruj w imieniu klienta
-||* Rejestracja odsprzedawcy o wartości dodanej
-||* Tworzenie biletów pomocy technicznej dla Centrum partnerskiego
-||* Przeglądanie utworzonych biletów pomocy technicznej|
-|Agent sprzedaży | * Zarządzanie klientami|[Zapewnij klientom pomoc techniczną dotyczącą rozliczeń i udziel odpowiedzi na pytania dotyczące rozliczeń](provide-billing-support.md)
-||* Dodaj listę urządzeń do Centrum partnerskiego
+||* Administrowanie w imieniu klienta
+||* Rejestrowanie odsprzedawcy dodanej wartości
+||* Tworzenie biletów pomocy technicznej dla Partner Center
+||* Wyświetlanie tworzyć biletów pomocy technicznej partnera|
+|Agent sprzedaży | * Zarządzanie klientami|[Zapewnianie pomocy technicznej dotyczącej rozliczeń dla klientów i pomaganie w odpowiadania na ich pytania dotyczące rozliczeń](provide-billing-support.md)
+||* Dodaj listę urządzeń do Partner Center
 ||* Zarządzanie subskrypcjami
 ||* Wyświetlanie biletów pomocy technicznej
-||* Zażądaj relacji z klientem
-||* Wyświetl Cennik i oferty
-||* Zarządzanie potencjalnymi klientami klienta
-||* Wyświetl umowę klienta
-||* Rejestracja odsprzedawcy o wartości dodanej
-||* Tworzenie biletów pomocy technicznej dla Centrum partnerskiego
-||* Przeglądanie utworzonych biletów pomocy technicznej|
-|Agent pomocy technicznej| * Wyszukiwanie i wyświetlanie klienta|[Eskalacja problemów do firmy Microsoft i Dowiedz się, które problemy są bardziej odpowiednie dla eskalacji firmy Microsoft](escalate-problems-to-microsoft.md)
-||* Edytuj szczegóły klienta
-||* Pomoc w rozwiązywaniu problemów klientów związanych z rozliczeniami i zarządzaniem subskrypcjami
-||* Prośba o pomoc techniczną w imieniu klientów 
+||* Żądanie relacji z klientem
+||* Wyświetlanie cen i ofert
+||* Zarządzanie potencjalnymi klientami
+||* Wyświetlanie umowy klienta
+||* Rejestrowanie odsprzedawcy dodanej wartości
+||* Tworzenie biletów pomocy technicznej dla Partner Center
+||* Wyświetlanie tworzyć biletów pomocy technicznej partnera|
+|Agent pomocy technicznej| * Wyszukiwanie i wyświetlanie klienta|[Eskalowanie problemów do firmy Microsoft i dowiedz się, które problemy są bardziej odpowiednie do eskalacji firmy Microsoft](escalate-problems-to-microsoft.md)
+||* Edytowanie szczegółów klienta
+||* Pomoc w rozwiązywaniu problemów klientów z zarządzaniem rozliczeniami lub subskrypcjami
+||* Żądanie pomocy technicznej w imieniu klientów 
 ||* Zarządzanie subskrypcjami i problemami z rozliczeniami w imieniu klientów
-||* Tworzenie biletów pomocy technicznej dla Centrum partnerskiego
-||* Przeglądanie utworzonych biletów pomocy technicznej| 
+||* Tworzenie biletów pomocy technicznej dla Partner Center
+||* Wyświetlanie tworzyć bilety pomocy technicznej partnera| 
 
-### <a name="control-panel-vendor-cpv-csp-role-and-non-azure-ad-role"></a>Dostawca panelu sterowania (CPV). (Rola CSP i rola spoza usługi Azure AD)
+### <a name="control-panel-vendor-cpv-csp-role-and-non-azure-ad-role"></a>Panel sterowania dostawcy (CPV). (Rola CSP i rola spoza usługi Azure AD)
 
-CPVs opracowywać aplikacje do użycia przez partnerów dostawcy rozwiązań w chmurze (CSP), aby umożliwić im integrację systemów z interfejsami API Centrum partnerskiego. 
+Firmy cpv opracowywują aplikacje do Dostawca rozwiązań w chmurze (CSP), aby umożliwić im integrowanie systemów z Partner Center API. 
 
 |**Role**   |**Co możesz zrobić**|**Dowiedz się więcej**|
 |------------------------------|:----------------------------|----|
-|Administrator globalny| Wyświetl swój profil CPV i Zarządzaj nim|[Zarejestruj się jako dostawca panelu sterowania, aby ułatwić integrację systemów partnerskich programu CSP z interfejsami API Centrum partnerskiego](enroll-as-cpv.md)
-||Wyświetl wszystkich użytkowników, którzy potrzebują dostępu do funkcji CPV, i zarządzaj nimi|
+|Administrator globalny| Wyświetlanie profilu CPV i zarządzanie nimi|[Zarejestruj się jako dostawca Panel sterowania, aby pomóc w integracji systemów partnerów programu CSP z Partner Center API](enroll-as-cpv.md)
+||Wyświetlanie użytkowników, którzy potrzebują dostępu do funkcji CPV, i zarządzanie nimi|
 
-### <a name="guest-user-must-be-added-to-the-azure-active-directory-tenant"></a>Użytkownik-Gość (musi zostać dodany do dzierżawy Azure Active Directory)
+### <a name="guest-user-must-be-added-to-the-azure-active-directory-tenant"></a>Użytkownik-gość (musi zostać dodany do Azure Active Directory dzierżawy)
 
-|**Użytkownik-Gość**   | **Role**|
+|**Użytkownik-gość**   | **Role**|
 |---------------------------|:--------------------|
-||Administrator partnerski MPN|
+||Administrator partnera MPN|
 ||Administrator profilu biznesowego|
-||Administrator odwołań|
+||Administrator poleceń|
 
 
-## <a name="manage-mpn-membership-and-your-company"></a>Zarządzanie członkostwem w MPN i firmą 
+## <a name="manage-mpn-membership-and-your-company"></a>Zarządzanie członkostwem w programie MPN i firmą 
 
-Role te nie są Azure Active Directory rolami. Role te zarządzają firmową firmą, a nie z dzierżawcą.
+Te role nie są Azure Active Directory ról. Te role zarządzają firmą, a nie dzierżawą.
 
 |**Role** | **Co możesz zrobić**|**Dowiedz się więcej**|
 |----------------------------|:----------------------------|-----|
-|Administrator partnerski MPN|* Wyświetlanie i tworzenie żądań obsługi partnerów oraz zarządzanie nimi|[Kupowanie lub odnawianie subskrypcji programu Microsoft Action Pack i kompetencji Gold](mpn-get-action-pack.md)
-||* Wyświetl profile prawne, firmowe, biznesowe i MPN
-||* Wyświetl szczegóły użytkownika i ich dane dotyczące umiejętności
-||* Wyświetl kompetencje
-||* Wyświetl korzyści i zarządzaj nimi
-||* Oferty dotyczące widoków i zakupów MPN
-||* Widok MPN zawiera historię i faktury zamówień
-||* Wyświetl dane wskaźnika udziału partnera
-||* Można korzystać z narzędzia sprawdzania poprawności załącznika|
-||* Przeglądanie analizy danych klienta
-||* Wyświetl inne role użytkownika w firmie, ale nie można przypisać ról
-||* Tworzenie biletów pomocy technicznej dla Centrum partnerskiego
-||* Przeglądanie utworzonych biletów pomocy technicznej
-|Administrator konta| Dodaj lokalizacje|[Zarządzanie lokalizacjami](manage-locations.md)
+|Administrator partnera MPN|* Wyświetlanie i tworzenie żądań obsługi partnerów oraz zarządzanie nimi|[Kupowanie lub odnawianie subskrypcji programu Microsoft Action Pack i kompetencji Gold](mpn-get-action-pack.md)
+||* Wyświetlanie profilów prawnych, firmowych, biznesowych i MPN
+||* Wyświetlanie szczegółów użytkownika i jego danych umiejętności
+||* Wyświetlanie kompetencji
+||* Wyświetlanie korzyści i zarządzanie nimi
+||* Wyświetlanie i kupowanie ofert MPN
+||* Wyświetl historię zamówień i faktury ofert MPN
+||* Wyświetlanie danych wskaźnika udziału partnera
+||* Może działać w narzędziu do weryfikacji walidowania walidowania w|
+||* Wyświetlanie analizy danych klientów
+||* Wyświetlanie innych ról użytkowników w firmie, ale nie można przypisywać ról
+||* Tworzenie biletów pomocy technicznej dla Partner Center
+||* Wyświetlanie tworzyć biletów pomocy technicznej partnera
+|Administrator konta| Dodawanie lokalizacji|[Zarządzanie lokalizacjami](manage-locations.md)
 || Zarządzanie profilami związanymi z kontami, dla których jesteś administratorem 
 ||* Przypisywanie ról dla użytkowników w dzierżawie do ról spoza usługi Azure Active Directory 
 ||* Rejestrowanie lokalizacji w programach
-||* Tworzenie biletów pomocy technicznej dla Centrum partnerskiego
-||* Przeglądanie utworzonych biletów pomocy technicznej
+||* Tworzenie biletów pomocy technicznej dla Partner Center
+||* Wyświetlanie tworzyć bilety pomocy technicznej partnera
 
-## <a name="manage-referrals"></a>Zarządzanie odwołaniami
+## <a name="manage-referrals"></a>Zarządzanie poleceniami
 
 |**Role** | **Co możesz zrobić**|**Dowiedz się więcej**
 |------------------------------|:-------------------------|---|
-|Administrator odwołań|Tworzenie wszystkiego i zarządzanie nim na karcie odwołania w centrum partnerskim|[Zarządzanie możliwościami wspólnej sprzedaży](manage-co-sell-opportunities.md)
-||    Może wyświetlać i edytować wszystkie możliwości wspólnej sprzedaży i potencjalni klienci
+|Administrator poleceń|Tworzenie wszystkich danych i zarządzanie nimi na karcie Polecenia w Partner Center|[Zarządzanie możliwościami wspólnej sprzedaży](manage-co-sell-opportunities.md)
+||    Może wyświetlać i edytować wszystkie szanse sprzedaży i potencjalnych klientów
 ||    Może przypisywać członków zespołu do transakcji
 ||    Może wyświetlać i edytować profile biznesowe
-||    Może wyświetlać i rejestrować oferty dla szans sprzedaży oznaczonych jako kupione i kwalifikujące się do rejestracji transakcji
-||    Możliwość tworzenia i wyświetlania biletów pomocy technicznej
-|Użytkownik z odwołaniami|Twórz i Zarządzaj szansami do sprzedaży tylko wtedy, gdy są one częścią zespołu |[Zarządzanie możliwościami wspólnej sprzedaży](manage-co-sell-opportunities.md)
-||    Może tworzyć możliwości wspólnej sprzedaży dla lokalizacji, do których są przypisane role.
-||    Może wyświetlać i rejestrować oferty dla szans sprzedaży, które są oznaczone jako kupione i kwalifikujące się do rejestracji transakcji, jeśli są członkami zespołu.
-||    Możliwość tworzenia i wyświetlania biletów pomocy technicznej
-|Administrator profilu biznesowego|Tworzenie profilów firmowych i zarządzanie nimi | [Zarządzanie profilami biznesowymi](create-a-marketing-profile.md)
-||    Możliwość tworzenia i wyświetlania biletów pomocy technicznej
+||    Może wyświetlać i rejestrować transakcje dla szans sprzedaży, które są oznaczone jako wygrały i kwalifikują się do rejestracji transakcji
+||    Może tworzyć i wyświetlać bilety pomocy technicznej
+|Użytkownik poleceń|Tworzenie możliwości współpracy sprzedaży i zarządzanie nimi tylko wtedy, gdy są one częścią zespołu |[Zarządzanie możliwościami wspólnej sprzedaży](manage-co-sell-opportunities.md)
+||    Może tworzyć możliwości współpracy sprzedaży dla lokalizacji, w których przypisano im rolę.
+||    Może wyświetlać i rejestrować transakcje dla szans sprzedaży oznaczonych jako wygrane i uprawnione do rejestracji transakcji, jeśli są członkami zespołu.
+||    Może tworzyć i wyświetlać bilety pomocy technicznej
+|Administrator profilu biznesowego|Tworzenie profilów biznesowych i zarządzanie nimi | [Zarządzanie profilami biznesowymi](create-a-marketing-profile.md)
+||    Może tworzyć i wyświetlać bilety pomocy technicznej
 
-Wraz z nową rolą użytkownika z odwołaniami wprowadzamy również zakres lokalizacji dla transakcji. W poniższej tabeli objaśniono dostęp do transakcji na podstawie lokalizacji.
+Wraz z nową rolą użytkownika poleceń wprowadzamy również zakres lokalizacji transakcji. W poniższej tabeli wyjaśniono dostęp do transakcji na podstawie lokalizacji.
 
 |**Zakres** | **Co możesz zrobić** |
 |------------------------------|:-------------------------|
-|Cała firma | Administratorzy i użytkownicy mają dostęp do tworzenia transakcji dla dowolnej lokalizacji w firmie|
-|| Administrator odwołań ma dostęp do wyświetlania i edytowania wszystkich transakcji |
-|| Użytkownicy odwołań mają dostęp do wyświetlania i edytowania wszystkich transakcji tylko wtedy, gdy są one częścią zespołu |
-|Co najmniej jedna lokalizacja | Administratorzy i użytkownicy mają dostęp do tworzenia transakcji dla przypisanej lokalizacji w swojej firmie|
-|| Administrator odwołań ma dostęp do wyświetlania i edytowania wszystkich transakcji należących do przypisanych lokalizacji|
-|| Użytkownicy odwołań mają dostęp do wyświetlania i edytowania wszystkich transakcji należących do przypisanych lokalizacji, jeśli są one częścią zespołu|
+|Cała firma | Zarówno administratorzy, jak i użytkownicy mają dostęp do tworzenia transakcji dla dowolnej lokalizacji w swojej firmie|
+|| Administrator poleceń ma dostęp do wyświetlania i edytowania wszystkich transakcji |
+|| Użytkownicy poleceń mają dostęp do wyświetlania i edytowania wszystkich transakcji tylko wtedy, gdy są częścią zespołu |
+|Co najmniej jedna lokalizacja | Zarówno administratorzy, jak i użytkownicy mają dostęp do tworzenia transakcji dla przypisanej lokalizacji w swojej firmie|
+|| Administrator poleceń ma dostęp do wyświetlania i edytowania wszystkich transakcji należących do przypisanych lokalizacji|
+|| Użytkownicy poleceń mają dostęp do wyświetlania i edytowania wszystkich transakcji należących do przypisanych lokalizacji, jeśli są częścią zespołu|
 
-## <a name="manage-incentives"></a>Zarządzanie bodźcami
+## <a name="manage-incentives"></a>Zarządzanie zachętami
 
 |**Role** | **Co możesz zrobić**|**Dowiedz się więcej**
 |------------------------------|:-------------------------|---|
-|Administrator zachęt|* Inicjuje zachęty i zarządza nimi |[Skorzystaj z tych zasobów, aby rozpocząć pracę z zachętami](incentives-get-started-intro.md)
-||* Może wyświetlać i edytować wszystkie aspekty programów zachęty
-||* Można wyświetlać i edytować szczegóły dotyczące banku i podatku
-||* Wyświetlanie zysków z rabatu i współistnienia
-||* Pomoc techniczna dotycząca dostępu
-||* Płatności zachęcające do rozstrzygania sporów|
-|Użytkownik zachęt|* Może wyświetlać programy zachęty
-||* Można wyświetlać i inicjować oświadczenia zachęt
-||* Wyświetlanie zysków z rabatu i współistnienia
-||* Tworzenie biletów pomocy technicznej dla Centrum partnerskiego
-||* Przeglądanie utworzonych biletów pomocy technicznej
+|Administrator zachęt|* Inicjuje zachęty i zarządza nimi |[Użyj tych zasobów, aby rozpocząć pracę z zachętami](incentives-get-started-intro.md)
+||* Może wyświetlać i edytować wszystkie aspekty programów zachęt
+||* Może wyświetlać i edytować dane bankowe i podatkowe
+||* Wyświetlanie zarobków dla chętnych i współpracowników
+||* Obsługa dostępu
+||* Spory dotyczące płatności zachęt|
+|Zachęty użytkownika|* Może wyświetlać programy zachęt
+||* Może wyświetlać i inicjować roszczenia dotyczące zachęt
+||* Wyświetlanie zarobków w chętnych i współpracy
+||* Tworzenie biletów pomocy technicznej dla Partner Center
+||* Wyświetlanie tworzyć bilety pomocy technicznej partnera
 
-## <a name="view-partner-center-insights-data"></a>Wyświetlanie danych szczegółowych informacji w centrum partnerskim
+## <a name="view-partner-center-insights-data"></a>Wyświetlanie Partner Center szczegółowych informacji
 
 |**Role** | **Co możesz zrobić**|**Dowiedz się więcej**|
 |------------------------------|:-------------------------|---|
-|Executive — Podgląd raportów|Dostęp do wszystkich zestawów danych raportowania, tworzenie biletów pomocy technicznej dla partnerów, wyświetlanie utworzonych biletów pomocy technicznej|[Przegląd raportów pulpitu nawigacyjnego dostępnych w usłudze Partner Center Insights](pci-overview-report.md)
-|Podgląd raportów|Dostęp do raportów danych z wyjątkiem dochodów i danych osobowych klientów i pracowników, tworzenie biletów pomocy technicznej dla partnerów, wyświetlanie tworzonych biletów pomocy technicznej|
+|Przeglądarka raportów dla kierownictwa|Dostęp do wszystkich zestawów danych raportowania, tworzenie biletów pomocy technicznej dla partnerów, wyświetlanie tworzyć biletów pomocy technicznej dla partnerów|[Omówienie raportów pulpitu nawigacyjnego dostępnych w Partner Center Insights](pci-overview-report.md)
+|Przeglądarka raportów|Dostęp do raportów danych z wyjątkiem danych osobowych dotyczących przychodów oraz danych osobowych klientów i pracowników, tworzenie biletów pomocy technicznej dla partnerów, wyświetlanie tworzyć biletów pomocy technicznej partnera|
 
 ## <a name="next-steps"></a>Następne kroki
 
 - [Tworzenie kont użytkowników i przypisywanie ról oraz uprawnień](create-user-accounts-and-set-permissions.md)
-- [Sprawdź informacje o koncie po zarejestrowaniu się w nowym programie partnerskim centrum](verification-responses.md)
+- [Weryfikowanie informacji o koncie podczas rejestrowania w nowym Partner Center programie](verification-responses.md)

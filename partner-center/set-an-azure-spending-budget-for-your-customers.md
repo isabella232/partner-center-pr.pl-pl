@@ -2,129 +2,127 @@
 title: Ustawianie budżetu wydatków na platformę Azure dla klientów
 ms.topic: how-to
 ms.date: 03/17/2021
-description: Dowiedz się, jak ustawiać lub usuwać miesięczne budżety wydatków platformy Azure dla klientów, a także wyświetlać dane wydatków platformy Azure i ustawiać powiadomienia związane z budżetem.
+description: Dowiedz się, jak ustawiać lub usuwać miesięczne budżety wydatków na platformę Azure dla klientów, a także jak wyświetlać dane wydatków na platformie Azure i ustawiać powiadomienia dotyczące budżetu.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eaf54898d7a130ca38e5a2aaeba279fb722c9e66
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 14e901f51841e58b28a3cbbb1b7a19ce89d7c324
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712753"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855356"
 ---
-# <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Ustaw, sprawdzaj lub usuwaj miesięczne budżety wydatków platformy Azure dla klientów w centrum partnerskim
+# <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Ustawianie, sprawdzanie lub usuwanie miesięcznych budżetów wydatków na platformę Azure dla klientów w Partner Center
 
-**Odpowiednie role**
+**Odpowiednie role:** Agent administracyjny
 
-- Agent administracyjny
-
-Możesz [ustawić miesięczny budżet wydatków platformy Azure dla klientów](#set-azure-spending-budget) w centrum partnerskim. Dzięki temu klienci mogą zarządzać wydatkami na platformę Azure. Ta opcja umożliwia porównanie wydatków platformy Azure dla klientów z budżetem w danym miesiącu. Ułatwia ona również klientom budżetowanie wydatków na platformę Azure, dzięki czemu miesięczne rozliczenie nie jest wyższe niż przewidywane.
+Możesz ustawić [miesięczny budżet wydatków na platformę Azure dla klientów w](#set-azure-spending-budget) Partner Center. Ułatwia to klientom zarządzanie wydatkami na platformę Azure. Ta opcja umożliwia porównanie wydatków klientów na platformę Azure z budżetem w ciągu miesiąca. Ułatwia to również klientom budżetowanie wydatków na platformę Azure, dzięki czemu ich miesięczne rachunki nie są wyższe niż przewidujesz.
 
 > [!NOTE]  
-> Ta funkcja jest niedostępna w piaskownicy lub testowaniu na kontach w środowisku produkcyjnym.
+> Ta funkcja nie jest dostępna w piaskownicy ani na kontach Test w środowisku produkcyjnym (TIP).
 
-Po [ustawieniu budżetu wydatków na platformę Azure dla swoich klientów](#set-azure-spending-budget)można również przejrzeć użycie klienta w następujący sposób. Te opcje mogą pomóc w określeniu błędnie skonfigurowanych usług lub nietypowych trendów, które mogą sugerować oszustwo. Następnie możesz współpracować z klientami, aby identyfikować główną przyczynę i zarządzać kosztami. W razie potrzeby można także [zmienić budżet klienta](#set-azure-spending-budget) na wyższą kwotę.
+Po [skonfigurowaniu budżetu wydatków na platformę Azure](#set-azure-spending-budget)dla klientów możesz również przejrzeć użycie klientów w następujący sposób. Te opcje mogą pomóc w wykrywaniu błędnie skonfigurowanych usług lub nietypowych trendów, które mogą sugerować oszustwo. Następnie możesz współpracować z klientami, aby zidentyfikować główną przyczynę i zarządzać kosztami. W razie potrzeby można również zmienić budżet klienta [na](#set-azure-spending-budget) wyższą kwotę.
 
-- [Sprawdź bieżące wydatki na platformę Azure](#check-current-azure-spending)
+- [Sprawdzanie bieżących wydatków na platformę Azure](#check-current-azure-spending)
 
-- [Włącz powiadomienia e-mail, gdy wydatki klienta zbliżają się do limitu budżetu](#notifications-for-budget-limits)
+- [Włącz powiadomienia e-mail, gdy wydatki klienta zbliża się do limitu budżetu](#notifications-for-budget-limits)
 
-- [Wyświetlanie wyszczególnionych kosztów według usługi dla subskrypcji opartych na użyciu](#itemized-costs-by-service)
+- [Wyświetlanie kosztów pozycji według usługi dla subskrypcji opartych na użyciu](#itemized-costs-by-service)
 
-W dowolnym momencie możesz również [usunąć budżet wydatków platformy Azure](#remove-azure-spending-budget) dla klientów.
+W dowolnym momencie [możesz również usunąć budżet](#remove-azure-spending-budget) wydatków na platformę Azure dla klientów.
 
-## <a name="azure-spending-data"></a>Dane wydatków platformy Azure
+## <a name="azure-spending-data"></a>Dane wydatków na platformę Azure
 
-Dane wydatków platformy Azure to *oszacowanie* , a *rzeczywiste kwoty rozliczeń mogą się różnić*. Wartość danych *nie odzwierciedla* podatków, kredytów, korekt lub innych opłat, które mogą być stosowane.
+Dane wydatków na platformę Azure są *szacowane,* a *rzeczywiste kwoty rozliczeń mogą się różnić.* Wartość danych nie odzwierciedla *podatków,* środków, korekt ani innych opłat, które mogą być naliczane.
 
-Dane wydatków są *odświeżane raz* dziennie. Klienci mogą nadal korzystać z usług i zasobów platformy Azure (i być obciążani nimi), chyba że zmienisz ustawienia konta w Azure Portal.
+Dane wydatków są *odświeżane raz dziennie.* Klienci mogą nadal korzystać z usług i zasobów platformy Azure (za które są naliczane opłaty), chyba że zmienisz ustawienia konta w Azure Portal.
 
-## <a name="set-azure-spending-budget"></a>Ustaw budżet wydatków na platformę Azure
+## <a name="set-azure-spending-budget"></a>Ustawianie budżetu wydatków na platformę Azure
 
-Możesz *ustawić miesięczny budżet wydatków platformy Azure* dla wielu klientów w centrum partnerskim:
+Możesz ustawić *miesięczny budżet wydatków na platformę Azure dla* wielu klientów w Partner Center:
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/) Centrum partnerskiego.
 
-2. W menu po lewej stronie w obszarze **CSP** wybierz pozycję **wydatki na platformę Azure**.
+2. W menu po lewej stronie w obszarze **CSP** wybierz pozycję **Wydatki na platformę Azure.**
 
-3. Na stronie **wydatków platformy Azure** w obszarze **klienci z subskrypcjami Microsoft Azure** wybierz klientów, dla których chcesz ustawić budżet.
+3. Na stronie **wydatków na** platformę Azure w obszarze **Klienci Microsoft Azure subskrypcjami** wybierz klientów, dla których chcesz ustawić budżet.
 
-4. Wprowadź wartość dla **miesięcznego budżetu**.
+4. Wprowadź wartość dla budżetu **miesięcznego.**
 
-5. Wybierz pozycję **Zastosuj** , aby zapisać zmiany.
+5. Wybierz **pozycję Zastosuj,** aby zapisać zmiany.
 
-Możesz również *ustawić budżet dla pojedynczego klienta* w ustawieniach subskrypcji:
+Możesz również *ustawić budżet dla pojedynczego klienta w* ustawieniach subskrypcji:
 
 1. Zaloguj się do pulpitu nawigacyjnego Centrum partnerskiego.
 
-2. W menu po lewej stronie w obszarze **CSP** wybierz pozycję **klienci**.
+2. W menu po lewej stronie w obszarze **CSP** wybierz pozycję **Klienci**.
 
-3. Na stronie **klienci** wybierz **nazwę firmy** klienta.
+3. Na **stronie Klienci** wybierz nazwę firmy **klienta**.
 
-4. Na stronie **subskrypcje** klienta w obszarze **subskrypcja oparta na użyciu** wybierz pozycję **Zmień budżet**.
+4. Na stronie Subskrypcje klienta w **obszarze** Subskrypcja oparta **na użyciu** wybierz pozycję **Zmień budżet.**
 
 5. Wprowadź wartość budżetu.
 
-6. Wybierz pozycję **Zastosuj** , aby zapisać zmiany.
+6. Wybierz **pozycję Zastosuj,** aby zapisać zmiany.
 
-## <a name="remove-azure-spending-budget"></a>Usuń budżet wydatków platformy Azure
+## <a name="remove-azure-spending-budget"></a>Usuwanie budżetu wydatków na platformę Azure
 
-Możesz *usunąć miesięczny budżet wydatków platformy Azure* dla klientów w centrum partnerskim:
-
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/) Centrum partnerskiego.
-
-2. W menu po lewej stronie w obszarze **CSP** wybierz pozycję **wydatki na platformę Azure**.
-
-3. Na stronie **wydatków platformy Azure** w obszarze **klienci z subskrypcjami Microsoft Azure** wybierz klientów, których budżet chcesz usunąć.
-
-4. Wybierz pozycję **Usuń budżet**.
-
-## <a name="check-current-azure-spending"></a>Sprawdź bieżące wydatki na platformę Azure
-
-W dowolnym momencie możesz *śledzić bieżące wydatki na korzystanie z platformy Azure i budżety miesięczne klientów* :
+Możesz usunąć *miesięczny budżet wydatków na* platformę Azure dla klientów w Partner Center:
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/) Centrum partnerskiego.
 
-2. W menu po lewej stronie w obszarze **CSP** wybierz pozycję **wydatki na platformę Azure**.
+2. W menu po lewej stronie w obszarze **CSP** wybierz pozycję **Wydatki na platformę Azure.**
 
-3. Na stronie **wydatków na platformę Azure** w obszarze **klienci z subskrypcjami Microsoft Azure** można zobaczyć przegląd budżetów miesięcznych klientów, bieżące oszacowania wydatków i procent użycia budżetu.
+3. Na stronie **wydatków na** platformę Azure w obszarze **Klienci Microsoft Azure subskrypcjami** wybierz klientów, których budżet chcesz usunąć.
+
+4. Wybierz **pozycję Usuń budżet.**
+
+## <a name="check-current-azure-spending"></a>Sprawdzanie bieżących wydatków na platformę Azure
+
+Bieżące wydatki *na platformę Azure* i budżety miesięczne klientów można śledzić w dowolnym momencie:
+
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/) Centrum partnerskiego.
+
+2. W menu po lewej stronie w obszarze **CSP** wybierz pozycję **Wydatki na platformę Azure.**
+
+3. Na stronie **wydatków na** platformę Azure w obszarze Klienci z subskrypcjami **Microsoft Azure** można zobaczyć omówienie miesięcznych budżetów klientów, bieżących szacunkowych wydatków i procentowego użytego budżetu.
 
 ## <a name="notifications-for-budget-limits"></a>Powiadomienia dotyczące limitów budżetu
 
-*Powiadomienia e-mail można włączyć* , gdy miesięczne wydatki klienta zbliżają się do limitu budżetu. Po włączeniu tej opcji użytkownik zostanie powiadomiony, że klienci będą korzystać z co najmniej 80% czasu miesięcznego budżetu. Ta opcja pomaga zachować oczami na rachunku na korzystanie z platformy Azure. Aby skonfigurować powiadomienia e-mail:
+Możesz *włączyć powiadomienia e-mail,* gdy miesięczne wydatki klienta zbliżają się do limitu budżetu. Po włączeniu tej opcji będziesz powiadamiany, gdy klienci będą korzystać z co najmniej 80% miesięcznego budżetu. Ta opcja pomaga śledzić rachunek za korzystanie z platformy Azure. Aby skonfigurować powiadomienia e-mail:
 
 1. Zaloguj się do Centrum partnerskiego.
 
 2. Przejdź do obszaru **Settings** (Ustawienia).
 
-3. Wybierz pozycję **moje preferencje**.
+3. Wybierz **pozycję Moje preferencje.**
 
-4. Jeśli nie, skonfiguruj preferowany adres e-mail.
+4. Skonfiguruj preferowany adres e-mail, jeśli nie został jeszcze skonfigurowany.
 
-5. Skonfiguruj preferowany język dla powiadomienia.
+5. Skonfiguruj preferowany język powiadomienia.
 
-6. Wybierz kartę **dostawca CSP** w sekcji **Preferencje powiadomień** .
+6. Wybierz **kartę CSP** w **sekcji Preferencje** powiadomień.
 
-7. Zaznacz opcję Poczta E-mail dla powiadomienia **wydatków platformy Azure** i **Zapisz**.
+7. Zaznacz opcję Email (Adres e-mail) dla **powiadomienia Azure Spending (Wydatki na** platformę Azure) i save **(Zapisz).**
 
 
-## <a name="itemized-costs-by-service"></a>Wyszczególnione koszty według usługi
+## <a name="itemized-costs-by-service"></a>Koszty z elementami według usługi
 
-Można *wyświetlić wyszczególnione koszty (i szacowane użycie) według usługi dla subskrypcji opartych na użyciu*:
+Możesz wyświetlić *koszty z pozycjami (i szacowane użycie) według usługi dla subskrypcji opartych na użyciu:*
 
 1. Zaloguj się do Centrum partnerskiego.
 
-2. W menu po lewej stronie w obszarze **CSP** wybierz pozycję **klienci**.
+2. W menu po lewej stronie w obszarze **CSP** wybierz pozycję **Klienci.**
 
-3. Na stronie **klienci** wybierz **nazwę firmy** klienta.
+3. Na stronie **Klienci** wybierz nazwę firmy **klienta**.
 
-4. Na stronie **subskrypcje** klienta w obszarze **subskrypcje na podstawie użycia** wybierz nazwę **subskrypcji**.
+4. Na stronie **Subskrypcje klienta** w obszarze **Subskrypcje** oparte na użyciu wybierz nazwę **subskrypcji**.
 
-5. Na stronie subskrypcja można przejrzeć **koszty wyszczególnione** według usługi i **szacowane użycie** w bieżącym miesiącu.
+5. Na stronie subskrypcji możesz przejrzeć  koszty ujmowane według usługi i Szacowane użycie **dla** bieżącego miesiąca.
 
 
 ## <a name="next-steps"></a>Następne kroki

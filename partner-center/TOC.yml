@@ -97,13 +97,13 @@
         - name: Dowiedz się więcej na temat kompetencji
           href: learn-about-competencies.md
           displayName: mpn
-        - name: Rejestrowanie jako partner uczenia
+        - name: Rejestracja jako partner uczenia
           href: mpn-benefits-map-competency-learning-option-enroll.md
           displayName: mpn
         - name: Kompetencje — często zadawane pytania
           href: competencies-faq.md
           displayName: 'renew, mpn'
-        - name: Płatność opłatami za kompetencje
+        - name: Opłacanie opłat za kompetencje
           href: mpn-pay-fee-silver-gold-competency.md
           displayName: mpn
         - name: Wyłączenie kompetencji dla deweloperów aplikacji
@@ -145,7 +145,7 @@
       displayName: csp
     - name: 'Umowy z Klientem Microsoft (według regionu, języka)'
       href: agreements.md
-    - name: Jak potwierdzić akceptację klienta Umowa z Klientem Microsoft
+    - name: Jak potwierdzić akceptację przez klienta Umowa z Klientem Microsoft
       href: confirm-customer-agreement.md
     - name: 'Rynki regionalne CSP, waluty'
       href: regional-authorization-overview.md
@@ -390,6 +390,8 @@
       href: modern-invoice-reconciliation-file.md
     - name: Obliczanie obowiązującej ceny jednostkowej
       href: effective-unit-price-calculation.md
+    - name: Wymuszanie limitu środków
+      href: credit-limit-enforcement.md
     - name: Typowe scenariusze rozliczeń
       href: common-billing-scenarios.md
       displayName: 'trial, subscription'

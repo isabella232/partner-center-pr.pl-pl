@@ -1,100 +1,97 @@
 ---
-title: Uaktualnianie systemu Windows 10 Home do systemu Windows 10 Education
+title: Uaktualnianie Windows 10 Home do Windows 10 Education
 ms.topic: article
 ms.date: 10/28/2020
-description: Dowiedz się, w jaki sposób partnerzy dostawcy rozwiązań w chmurze mogą uaktualnić niektórych klientów edukacyjnych z systemu Windows 10 Home do systemu Windows 10 Education
+description: Dowiedz się, Dostawca rozwiązań w chmurze (CSP) partnerzy mogą uaktualnić niektórych swoich klientów edukacyjnych z Windows 10 Home do Windows 10 Education
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6b5741ba09cedccd5f421374c4aa5ca609823bcd
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 806ddcd6e55a72ac2e1d15bdbec7c27c604917dc
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022744"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818698"
 ---
-# <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Uaktualnij niektórych klientów edukacyjnych z systemu Windows 10 Home do systemu Windows 10 Education
+# <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Uaktualnianie niektórych klientów edukacyjnych z Windows 10 Home do Windows 10 Education
 
-**Odpowiednie role**
-
-- Agent administracyjny
-- Administrator rozliczeń
+**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń
 
 ## <a name="overview"></a>Omówienie
 
-Od 1 listopada 2020, dostawcy usług kryptograficznych, którzy zakupili Microsoft 365 a3 lub A5 lub subskrypcję systemu Windows 10 Enterprise a3 lub A5, mogą pomóc swoim klientom szkoleń w uaktualnianiu z systemu Windows 10 Home do systemu Windows 10 Education, który jest przeznaczony do obsługi zarówno klasy, jak i zdalnego uczenia się.
+Od 1 listopada 2020 r. CSP, którzy kupili subskrypcje Microsoft 365 A3 lub A5 albo Windows 10 Enterprise A3 lub A5, mogą pomóc klientom edukacyjnym w uaktualnieniu z usługi Windows 10 Home do usługi Windows 10 Education, która jest przeznaczona zarówno do uczenia na potrzeby zajęć, jak i uczenia zdalnego.
 
-Od 1 listopada 2020 system Windows 10 Home będzie uprawniającym systemem operacyjnym dla klientów edukacyjnych licencjonowanych przez umowę Microsoft Cloudową (za pośrednictwem dostawcy usług kryptograficznych). To uprawnienie, które do tej pory było dostępne tylko w programach edukacyjnych licencjonowania zbiorowego (VL), zostało włączone za pośrednictwem pomocy technicznej portalu Microsoft 365. 
+Od 1 listopada 2020 r. Windows 10 Home kwalifikującym się systemem operacyjnym dla klientów edukacyjnych licencjonowanych za pośrednictwem usługi Umowa dotycząca platformy Microsoft Cloud (za pośrednictwem CSP). Te uprawnienia, które do tej pory były dostępne tylko w programach edukacyjnych licencjonowania zbiorowego (VL), były włączane za pośrednictwem Microsoft 365 pomocy technicznej portalu administracyjnego. 
 
 ## <a name="how-the-upgrade-process-works"></a>Jak działa proces uaktualniania
 
-Partnerzy programu CSP mogą pomóc swoim klientom w uaktualnieniu przez przesłanie żądania pomocy technicznej w ich imieniu. Pomoc techniczna firmy Microsoft sprawdzi żądanie, aby upewnić się, że klient kwalifikuje się; gdy żądanie zostanie zatwierdzone, pomoc techniczna przekaże klucz Windows 10 Pro Education do partnera, który będzie mógł udzielić klientowi.
+Partnerzy programu CSP mogą pomóc swoim klientom w uaktualnieniu, przesyłając wniosek o pomoc techniczną w ich imieniu. Pomoc techniczna Microsoft przejmie żądanie, aby upewnić się, że klient kwalifikuje się; Po zatwierdzeniu żądania dział pomocy technicznej Windows 10 Pro Education klucz dostępu partnerowi, który może go następnie przekazać klientowi.
 
-Gdy klient zainstaluje klucz, a urządzenie jest przyłączone do domeny dzierżawy za pośrednictwem Azure Active Directory (AAD), urządzenie zostanie automatycznie uaktualnione do systemu Windows 10 Education (subskrypcja).   
+Gdy klient zainstaluje klucz, a urządzenie zostanie przyłączone do domeny dzierżawy za pośrednictwem usługi Azure Active Directory (AAD), urządzenie zostanie automatycznie uaktualnione do Windows 10 Education (subskrypcji).   
 
-## <a name="step-by-step-process-for-customers-to-get-windows-10-education"></a>Proces krok po kroku dla klientów w celu uzyskania systemu Windows 10 Education
+## <a name="step-by-step-process-for-customers-to-get-windows-10-education"></a>Proces krok po kroku dla klientów w celu uzyskania Windows 10 Education
 
-Partnerzy powinni utworzyć żądanie pomocy technicznej i pobrać klucze z pomocy technicznej. Partnerzy współdzielą te klucze z klientami.
+Partnerzy powinni utworzyć wniosek o pomoc techniczną i uzyskać klucze od pomocy technicznej. Partnerzy następnie dzielą się tymi kluczami ze swoimi klientami.
 
 ### <a name="partners--how-to-get-the-keys"></a>Partnerzy — jak uzyskać klucze:
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard).
 
-2. W menu Centrum partnerskiego wybierz pozycję **klienci**, a następnie wybierz klienta, który potrzebuje pomocy technicznej.
+2. Z menu Partner Center wybierz pozycję **Klienci,** a następnie wybierz klienta, który potrzebuje pomocy technicznej.
 
-3. Wybierz pozycję **Zarządzanie usługami** i wybierz pozycję **żądania obsługi**.
+3. Wybierz **pozycję Zarządzanie usługami** i wybierz **pozycję Żądania obsługi.**
 
-4. Wybierz pozycję **nowe żądanie** , a następnie wybierz pozycję **Office 365 i pakiet Enterprise Mobility Suite**.
+4. Wybierz **pozycję Nowe żądanie,** a następnie wybierz **pozycję Office 365 i Enterprise Mobility Suite.**
 
-5. Nastąpi przekierowanie do portalu pakietu Office 365, w którym należy się zalogować przy użyciu poświadczeń Centrum partnerskiego.
+5. Zostaniesz przekierowyny do portalu usługi Office 365, w którym musisz się zalogować przy użyciu Partner Center poświadczeń.
 
-6. Wybierz pozycję **obsługa, nowe żądanie obsługi** z menu po lewej stronie.
+6. Wybierz **pozycję Pomoc techniczna, Nowe żądanie** obsługi z menu po lewej stronie.
 
 7. Uwzględnij poniższe szczegóły w Support request:
 
-- **Tytuł:** Klucz produktu systemu Windows 10 Home do systemu Windows 10 Education
-- **Opis:** Zażądaj [Wstaw numer] kluczy, aby włączyć uaktualnienie do systemu Windows 10 Education. (Należy zauważyć, że liczba żądanych kluczy nie może być większa niż Licencja subskrypcyjna na Microsoft 365 a3/A5 lub Windows 10 Enterprise a3/A5). Identyfikator subskrypcji klienta [Wstaw klientów identyfikator identyfikatora subskrypcji dla Microsoft 365 a3/A5 lub subskrypcji systemu Windows 10 Enterprise a3/A5.]
-- **Numer osoby kontaktowej:** Ta wartość zostanie wstępnie wypełniona; Przejrzyj, aby potwierdzić lub zaktualizować.
-- **Adres e-mail:** Ta funkcja zostanie wstępnie wypełniona i powinna być wiadomością e-mail używaną jako administrator witryny Microsoft Portal (tylko administrator globalny lub administrator rozliczeń).
-- **Preferowana metoda kontaktu**: wybierz pozycję **telefon** lub **Zaplanuj wywołanie zwrotne**.
+- **Tytuł:** Windows 10 Home, Windows 10 Education uaktualnić klucz produktu
+- **Opis:** Żądanie [wstaw numer] kluczy w celu włączenia uaktualnienia do Windows 10 Education. (Należy pamiętać, że liczba żądanych kluczy nie może być większa niż liczba Microsoft 365 A3/A5 lub Windows 10 Enterprise licencji subskrypcji A3/A5). Identyfikator subskrypcji klienta [wstaw identyfikator GUID subskrypcji klientów dla swojej subskrypcji Microsoft 365 A3/A5 lub Windows 10 Enterprise A3/A5.]
+- **Numer kontaktowy:** Zostanie ona wstępnie wypełniona. przejrzyj, aby potwierdzić lub zaktualizować.
+- **Adres e-mail:** Ta wiadomość zostanie wstępnie wypełniona i powinna być adresem e-mail, która powinna być wysyłana jako administrator portalu firmy Microsoft (tylko administrator globalny lub administrator rozliczeń).
+- **Preferowana metoda kontaktu:** wybierz **pozycję Phone (Telefon)** **lub Schedule a call back (Zaplanuj połączenie).**
 
-8. Wybierz pozycję **kontakt ze mną**. Oczekiwany czas oczekiwania jest wskazany w okienku **potrzebna pomoc?**
+8. Wybierz **pozycję Skontaktuj się ze mną.** Oczekiwany czas oczekiwania jest wskazywany w **okienku Potrzebujesz pomocy?.**
 
-9. **Pomoc techniczna firmy Microsoft** sprawdzi żądanie, aby upewnić się, że klient kwalifikuje się. Po zatwierdzeniu żądania wyśle wiadomość e-mail do partnera zawierającego instrukcje dotyczące uzyskiwania dostępu do kluczy.
+9. **Pomoc techniczna Microsoft** przejmie żądanie, aby upewnić się, że klient kwalifikuje się. Po zatwierdzeniu żądania będą oni wysyłać do partnera wiadomość e-mail z instrukcjami dotyczącymi uzyskiwania dostępu do kluczy.
 
-10. **Partnerzy** korzystają z kluczy i innych instrukcji z klientami.
+10. **Partnerzy** dzielą się kluczami i innymi instrukcjami ze swoimi klientami.
 
 ### <a name="customer-applies-the-upgrade"></a>Klient stosuje uaktualnienie:
 
-Aby uaktualnić system Windows 10 Home przy użyciu klucza produktu Windows 10 Pro Education, klient musi wykonać następujące czynności:  
+Aby uaktualnić Windows 10 Home przy użyciu Windows 10 Pro Education produktu, klient musi wykonać następujące czynności:  
 
-1. Wybierz pozycję **Start**, a następnie wybierz pozycję **ustawienia > aktualizacja & zabezpieczenia > aktywacja**. Wybierz pozycję **Zmień klucz produktu**, a następnie wprowadź 25-znakowy klucz produktu Windows 10 Pro. Wybierz pozycję **dalej** , aby rozpocząć uaktualnianie do systemu Windows 10 Pro.
+1. Wybierz **pozycję Uruchom,** a następnie **wybierz pozycję Ustawienia > Zaktualizuj & zabezpieczeń > aktywacji.** Wybierz **pozycję Zmień klucz produktu,** a następnie wprowadź 25-znakowy Windows 10 Pro produktu. Wybierz **przycisk Dalej,** aby rozpocząć uaktualnianie do Windows 10 Pro.
 
-2. Gdy urządzenie jest przyłączone do domeny dzierżawy (za pośrednictwem usługi AAD), urządzenie zostanie automatycznie uaktualnione do systemu Windows 10 Education.  
+2. Gdy urządzenie zostanie przyłączone do domeny dzierżawy (za pośrednictwem usługi AAD), zostanie automatycznie uaktualnione do Windows 10 Education.  
 
 ## <a name="frequently-asked-questions"></a>Często zadawane pytania
 
 **Którzy klienci są uprawnieni?**
-Klienci korzystający z usług dostawcy CSP, którzy zakwalifikowaniy się jako akademickie i mają aktywną subskrypcję systemu Windows 10 Enterprise a3/A5 lub Microsoft 365 subskrypcje licencji a3/A5, mogą uaktualnić swoje urządzenia z systemem Windows 10 Home do edukacji Skieruj innych klientów edukacyjnych, którzy chcą licencjonować te oferty za pośrednictwem licencjonowania zbiorowego (VLSC).
+Klienci programu CSP, którzy kwalifikują się jako pracownicy akademicki i mają aktywne subskrypcje licencji Windows 10 Enterprise A3/A5 lub Microsoft 365 A3/A5, mogą uaktualnić swoje urządzenia Windows 10 Home do Windows 10 Education. Przekieruj innych klientów z edukacji, którzy licencjonują te oferty za pośrednictwem licencjonowania zbiorowego, do Centrum usługi licencjonowania zbiorowego (VLSC).
 
-**Czy klienci korzystający z licencjonowania zbiorowego mogą korzystać z tego procesu?**
-Nie, klienci z licencjami ZBIORCZymi, którzy zapoznają się z licencją dla rozwiązań edukacyjnych (EES), Open Value Subscription for Education Solutions (OVS-ES), a szkoły powinni przejść do usługi [VLSC](https://www.microsoft.com/Licensing/servicecenter/default.aspx) w celu pobrania produktów i kluczy. 
+**Czy moi klienci licencjonowania zbiorowego mogą korzystać z tego procesu?**
+Nie. Klienci licencjonowania zbiorowego, którzy mają licencję za pośrednictwem usług Enrollment for Education Solutions (EES), Open Value Subscription for Education Solutions (OVS-ES) i School, powinni przejść do [VLSC,](https://www.microsoft.com/Licensing/servicecenter/default.aspx) aby pobrać produkty i klucze. 
 
-**Mój klient potrzebuje więcej kluczy niż pierwotnie wymagane. Jak można je uzyskać?**
-Możesz przesłać dodatkowe żądanie pomocy technicznej dla kluczy dla urządzeń z systemem Windows 10 Home. Łączna ilość w wielu żądaniach nie powinna być większa niż łączna liczba aktywnych licencji dla subskrypcji Microsoft 365 a3/A5 lub Windows 10 Enterprise a3/A5.
+**Mój klient potrzebuje więcej kluczy niż pierwotnie zażądano. Jak mogę je uzyskać?**
+Możesz przesłać dodatkowe żądanie pomocy technicznej dotyczące kluczy dla urządzeń Windows 10 Home klienta. Łączna ilość w wielu żądaniach nie powinna być większa niż łączna liczba aktywnych licencji usługi Microsoft 365 A3/A5 lub Windows 10 Enterprise subskrypcji A3/A5.
 
-**Klient zamierza kupić więcej urządzeń z systemem Windows 10 Home. Czy mogą uzyskać więcej uaktualnień?**
-W przypadku klientów edukacyjnych należy wziąć pod uwagę niski koszt urządzeń edukacyjnych systemu Windows 10 za pomocą naszego [kształtu przyszłego](https://www.microsoft.com/education/products/windows/shapethefuture.aspx) programu i wyeliminować konieczność uaktualnienia urządzeń z systemem Windows 10 Home. Jeśli kupują więcej urządzeń z systemem Windows 10 Home, partnerzy muszą przesłać nowe żądanie pomocy technicznej za pośrednictwem portalu administracyjnego firmy Microsoft.
+**Mój klient chce kupić więcej Windows 10 Home urządzeń. Czy mogą uzyskać więcej uaktualnień?**
+Klienci edukacyjni powinni wziąć pod uwagę niskie koszty Windows 10 Education urządzeń za pośrednictwem [naszego programu Shape the Future](https://www.microsoft.com/education/products/windows/shapethefuture.aspx) i wyeliminować konieczność uaktualniania Windows 10 Home urządzeń. Jeśli zakupią więcej urządzeń Windows 10 Home, partnerzy muszą przesłać nowy wniosek o pomoc techniczną za pośrednictwem portalu administracyjnego firmy Microsoft.
 
-**Czy istnieje termin, w którym należy skontaktować się z pomocą techniczną i otrzymać klucz uaktualnienia?**
-Uaktualnienie systemu Windows 10 Education jest oparte na aktywnej subskrypcji licencji dla klienta Microsoft 365 a3/A5 lub Windows 10 Enterprise a3/A5. Jeśli klient nie rozszerzy ani nie odnawia subskrypcji, uprawnienie do uaktualnienia również zostanie zakończone.
+**Czy istnieje termin, kiedy należy skontaktować się z pomocą techniczną i odebrać klucz uaktualnienia?**
+Uaktualnienie Windows 10 Education opiera się na aktywnych subskrypcjach Microsoft 365 A3/A5 lub Windows 10 Enterprise A3/A5 klienta. Jeśli klient nie rozszerza ani nie odnawia subskrypcji, uprawnienie do uaktualnienia również się kończy.
 
 ## <a name="next-steps"></a>Następne kroki
 
-**Gdzie partnerzy mogą dowiedzieć się więcej o systemie Windows 10 Education?**
+**Gdzie partnerzy mogą dowiedzieć się więcej na temat Windows 10 Education?**
 
-- [Funkcje Eduction systemu Windows](https://www.microsoft.com/education/products/windows/features)
+- [Funkcje funkcji Eduction systemu Windows](https://www.microsoft.com/education/products/windows/features)
 - [Centrum edukacji systemu Windows](/education/windows/)

@@ -1,88 +1,83 @@
 ---
-title: Raport użycia Enterprise Mobility + Security usługi Partner Center
+title: Partner Center Insights Enterprise Mobility + Security użycia
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Zobacz, co Ci się robi, i w jaki sposób możesz udoskonalić korzystanie z Enterprise Mobility + Securityych subskrypcji, które są sprzedawane lub zarządzane przez klientów.
+description: Zobacz, co robisz dobrze i gdzie możesz poprawić użycie subskrypcji Enterprise Mobility + Security sprzedaży lub zarządzania dla klientów.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: c62e074c7329ada33390b77be13c523660344d49
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 8b0784e2d81b4483eb374120be2411729d922a47
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086281"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854625"
 ---
-# <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Raport użycia Enterprise Mobility + Security dostępny na pulpicie nawigacyjnym usługi Partner Center Insights
+# <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security raportu użycia dostępnego na pulpicie nawigacyjnym Partner Center Insights
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Agent administracyjny | Przeglądarka raportów | Przeglądarka raportów dla kierownictwa
 
-- Administrator globalny
-- Agent administracyjny
-- Podgląd raportów
-- Executive — Podgląd raportów
-
-Raport użycia Enterprise Mobility + Security zawiera dane dotyczące użycia dla subskrypcji Enterprise Mobility + Security, które są sprzedawane lub zarządzane przez klientów. Poniższe sekcje można wyświetlić w raporcie użycia Enterprise Mobility + Security.
+Raport Enterprise Mobility + Security użycia zawiera dane użycia dla subskrypcji Enterprise Mobility + Security, które zostały sprzedane klientom lub są nimi zarządzane. Poniższe sekcje można wyświetlić w raporcie Enterprise Mobility + Security użycia.
 
 - Podsumowanie
-- Enterprise Mobility + Security użycia według lokalizacji geograficznej
-- Użycie Enterprise Mobility + Security według jednostki SKU
+- Enterprise Mobility + Security według lokalizacji geograficznej
+- Enterprise Mobility + Security użycia według SKU
 - Wydajność subskrypcji
 - Enterprise Mobility + Security dystrybucji użycia
 
  > [!NOTE]
- > Ten raport jest dostępny na pulpicie nawigacyjnym usługi Insights. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w centrum partnerskim, takim jak Administrator globalny, administrator konta, Podgląd raportów lub dyrektor raportów programu. Aby uzyskać więcej informacji, zobacz Administrator globalny firmy. określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami dyrektora raportów.
+ > Ten raport jest dostępny na pulpicie nawigacyjnym szczegółowych informacji. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Podgląd raportów lub Executive Report Viewer. Aby uzyskać więcej informacji, zobacz administrator globalny firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami Executive Report Viewer.
 
 ## <a name="summary"></a>Podsumowanie
 
-Sekcja podsumowania przedstawia widok migawki kluczowych wskaźników związanych z Enterprise Mobility + Security subskrypcjami użycia, które zostały sprzedane lub którymi zarządza klient. 
+Sekcja podsumowania zawiera widok migawki kluczowych wskaźników związanych z subskrypcjami Enterprise Mobility + Security, które zostały sprzedane klientom lub przez nie zarządzane. 
 
-- Nowe subskrypcje: całkowita liczba subskrypcji sprzedawanych lub zarządzanych w wybranym przedziale czasu.
+- Nowe subskrypcje: Łączna liczba subskrypcji sprzedanych lub zarządzanych w wybranym okresie.
 
-   Micro Chart prezentuje trend miesięczny nowej subskrypcji dla wybranego zakresu dat.
+   Wykres Mikro przedstawia trend z miesiąca na miesiąc dla nowej subskrypcji dla wybranego zakresu dat.
 
-- Dostępne stanowiska: całkowita liczba licencji sprzedanych w wybranym przedziale czasu.
+- Dostępne stanowiska: łączna liczba licencji sprzedanych w wybranym okresie.
 
-   Na mikrografie prezentowany jest trend między miesiącami dla dostępnych miejsc w wybranym zakresie dat.
+   Wykres Mikro przedstawia trend liczby dostępnych stanowisk w wybranym zakresie dat z miesiąca na miesiąc.
 
-- Miesięczne użycie aktywne: liczba licencji użytych w poprzednim miesiącu.
+- Aktywne użycie miesięczne: liczba licencji, które były używane w poprzednim miesiącu.
 
-   W programie Micro Chart jest prezentowany miesięczny trend licencji użytych w wybranym okresie.
+   Wykres Mikro przedstawia miesięczny trend licencji używanych w wybranym okresie.
 
 :::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="Podsumowanie użycia usług EMS":::
 
-## <a name="enterprise-mobility--security-usage-by-geography"></a>Enterprise Mobility + Security użycia według lokalizacji geograficznej
+## <a name="enterprise-mobility--security-usage-by-geography"></a>Enterprise Mobility + Security według lokalizacji geograficznej
 
-**Enterprise Mobility + Security użycie według lokalizacji geograficznej** przedstawia rozkład miesięcznych aktywnych użytkowników (Mau) i płatnych jednostek (Pau) według kraju klienta. MAU odnosi się do liczby licencji używanych w poprzednim miesiącu, a PAU odnosi się do liczby płatnych miejsc sprzedanych lub zarządzanych w wybranym przedziale czasu. Jaśniejsze kolory na mapie przedstawiają mniejsze wartości, a ciemne kolory reprezentują wyższe wartości. Możesz wyszukać i wybrać kraj w siatce. Możesz również powiększyć w celu bliższego wyglądu.
+Dane **Enterprise Mobility + Security według** lokalizacji geograficznej przedstawiają rozkład miesięcznych aktywnych użytkowników (MAU) i płatnych dostępnych jednostek (PAU) według kraju klienta. Mau odnosi się do liczby licencji używanych w poprzednim miesiącu, a PAU odnosi się do liczby płatnych miejsc sprzedanych lub zarządzanych w wybranym okresie. Jaśniejsze kolory na mapie reprezentują niższe wartości, a ciemniejsze reprezentują wyższe wartości. Możesz wyszukać i wybrać kraj w siatce. Możesz również powiększyć widok, aby uzyskać bliższy wygląd.
 
-**Liczba tabeli kraje/region** przedstawia łączne kraje/regiony, w których są generowane zdarzenia użycia platformy Azure.
+Tabela **Liczba krajów/regionów** przedstawia łączną liczbę krajów/regionów, w których są generowane zdarzenia użycia platformy Azure.
 
-Możesz wyszukać i wybrać kraj w siatce, aby powiększyć do lokalizacji na mapie. Wybierz opcję **Strona główna** na mapie, aby powrócić do oryginalnego widoku.
+Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapie. Wybierz opcję **Strona** główna na mapie, aby przywrócić oryginalny widok.
 
 :::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="Użycie usług EMS według lokalizacji geograficznej":::
 
-## <a name="enterprise-mobility--security-usage-by-sku"></a>Użycie Enterprise Mobility + Security według jednostki SKU
+## <a name="enterprise-mobility--security-usage-by-sku"></a>Enterprise Mobility + Security użycia według SKU
 
-Użycie Enterprise Mobility + Security według jednostki SKU przedstawia miesięczne podziały MAU i PAU według jednostek SKU.
+Dane Enterprise Mobility + Security według jednostki SKU przedstawiają comiesięczne podziały mau i jednostki PAU według jednostki SKU.
 
-:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="Użycie usług EMS według jednostki SKU":::
+:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="Użycie usług EMS według SKU":::
 
 ## <a name="subscriptions-performance"></a>Wydajność subskrypcji
 
-Wydajność subskrypcji przedstawia podział MAU i PAU według jednostek SKU na subskrypcję klienta. W tabeli przedstawiono dane dla najpopularniejszych klientów 100 według rozliczanego przychodu. możesz wyszukać dowolnego klienta lub pobrać dane pierwotne, aby wyświetlić szczegółowe informacje dla wszystkich klientów.
+Wydajność subskrypcji przedstawia podział jednostki MAU i pau według jednostki SKU na subskrypcję klienta. Dane 100 najbardziej dochodowych klientów według rozliowanych przychodów są wyświetlane w tabeli i możesz wyszukać dowolnego klienta lub pobrać dane pierwotne, aby wyświetlić szczegóły dla wszystkich klientów.
 
-:::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="Wydajność subskrypcji pakietu EMS":::
+:::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="Wydajność subskrypcji EMS":::
 
 ## <a name="enterprise-mobility--security-usage-distribution"></a>Enterprise Mobility + Security dystrybucji użycia
 
-Enterprise Mobility + Security dystrybucji użycia przedstawia podział PAU i subskrypcji według jednostek SKU.
+Rozkład Enterprise Mobility + Security użycia przedstawia podział pau i subskrypcji według jednostki SKU.
 
 :::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="Dystrybucja użycia usług EMS":::
 
 ## <a name="next-steps"></a>Następne kroki
 
-- Więcej raportów można znaleźć w temacie [Partner Center Insights](partner-center-insights.md).
+- Aby uzyskać więcej raportów, [zobacz Partner Center Insights.](partner-center-insights.md)
 
-- Możesz pobrać pierwotne dane, aby wyłączyć ten raport z sekcji Pobieranie raportów na pulpicie nawigacyjnym usługi Insights. [Więcej informacji](pci-download-reports.md) 
+- Możesz pobrać nieprzetworzone dane, które są zasilane z tego raportu, z sekcji Pobieranie raportów na pulpicie nawigacyjnym szczegółowych informacji. [Więcej informacji](pci-download-reports.md) 

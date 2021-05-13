@@ -1,33 +1,31 @@
 ---
-title: Możliwości ograniczonego rachunku bezpośredniego
+title: Ograniczone możliwości na rachunku bezpośrednim
 ms.topic: article
 ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się więcej o wymaganiach partnerów rozliczanych bezpośrednio w programie CSP i o tym, co należy zrobić, aby uniknąć ograniczenia możliwości. Dowiedz się, czy Twoje możliwości zostały ograniczone.
+description: Dowiedz się więcej o wymaganiach partnera rozliczanych bezpośrednio w programie CSP i o tym, co należy zrobić, aby uniknąć ograniczenia możliwości. Sprawdź, czy Twoje możliwości zostały ograniczone.
 author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05ccc6016e9dcd6e7582cdd31dbc4d0054c43f8d
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: b3b1f3e1593f7e35bd3b9ed6c56ea28683bff95a
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018071"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855492"
 ---
-# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Ograniczone możliwości dotyczące rachunku bezpośredniego i wymagania wymagane dla partnerów rozliczanych bezpośrednio w programie CSP
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Ograniczone możliwości rachunku bezpośredniego i wymagania wymagane przez partnerów rozliczanych bezpośrednio w programie CSP
 
-**Odpowiednie role**
-
-- Administrator globalny
+**Odpowiednie role:** Administrator globalny
 
 ## <a name="overview"></a>Omówienie
 
-Partnerzy rozliczani bezpośrednio muszą spełnić nowe [wymagania, aby](direct-partner-new-requirements.md) pozostać w programie partnera rozliczania bezpośredniego w programie CSP. W przeciwnym razie dostęp do funkcji rachunku bezpośredniego zostanie ostatecznie ograniczony i będzie można dłużej wykonywać określone zadania, takie jak dokonywanie nowych zakupów dla klientów.
+Partnerzy rozliczani bezpośrednio muszą spełniać nowe [wymagania,](direct-partner-new-requirements.md) aby pozostać w programie partnerskim rozliczanych bezpośrednio przez program CSP. W przeciwnym razie ich dostęp do funkcji rachunku bezpośredniego zostanie ostatecznie ograniczony i będzie można dłużej wykonywać określone zadania, takie jak dokonywanie nowych zakupów dla klientów.
 
 > [!Note]
-> Partnerzy rozliczani bezpośrednio, którzy nie spełniają nowych wymagań programu dla partnerów rozliczanych bezpośrednio w programie CSP, zostaną poinformowani przez firmę Microsoft, gdy ich możliwości dotyczące rachunku bezpośredniego będą ograniczone. Dotyczy to wszystkich partnerów rozliczanych bezpośrednio, bez względu na to, czy zdecydowali się na przejście od partnera z rozliczeniami bezpośrednimi do odsprzedawców [pośrednich.](transition-direct-to-indirect.md)  
+> Bezpośredni partnerzy rozliczani, którzy nie spełniają nowych wymagań dotyczących programu partnerskiego rozliczania bezpośredniego w programie CSP, zostaną poinformowani przez firmę Microsoft, gdy ich możliwości dotyczące rachunku bezpośredniego będą ograniczone. Dotyczy to wszystkich bezpośrednich partnerów rozliczanych niezależnie od tego, czy wybrali opcję przejścia od partnera z rozliczeniami bezpośrednimi do odsprzedawców [pośrednich.](transition-direct-to-indirect.md)  
 
 ## <a name="how-to-tell-if-your-direct-bill-capabilities-has-been-restricted"></a>Jak sprawdzić, czy możliwości rachunku bezpośredniego zostały ograniczone
 
@@ -37,13 +35,13 @@ Aby sprawdzić, czy dostęp z dzierżawy partnera z rozliczeniami bezpośrednimi
 
 2. Przejdź do **ustawień konta Profil**  ->  **prawny.**
 
-3. W **obszarze Informacje o** programie **odszukaj Microsoft Cloud Solution Provider stan .**
+3. W **obszarze Informacje o** programie poszukaj Microsoft Cloud Solution Provider **stanu**.
 
-4. Jeśli stan programu ma **ograniczoną** wartość , oznacza to, że dostęp dzierżawy partnera z rozliczeniami bezpośrednimi do funkcji rachunku bezpośredniego został ograniczony.
+4. Jeśli stan programu ma ograniczoną wartość **,** oznacza to, że dostęp dzierżawy partnera z rozliczeniami bezpośrednimi do funkcji rachunku bezpośredniego został ograniczony.
 
 ## <a name="affected-direct-bill-capabilities"></a>Możliwości rachunku bezpośredniego, których dotyczy problem
 
-Jeśli możliwości dotyczące rachunku bezpośredniego zostały ograniczone, nie możesz już robić nowych zakupów dla klientów w Partner Center. To ograniczenie obejmuje:
+Jeśli możliwości rachunku bezpośredniego zostały ograniczone, nie możesz już robić nowych zakupów dla klientów w Partner Center. To ograniczenie obejmuje:
 
 - Subskrypcje platformy Azure
 
@@ -51,11 +49,11 @@ Jeśli możliwości dotyczące rachunku bezpośredniego zostały ograniczone, ni
 
 - Dodaj nowe dodatki do istniejących subskrypcji opartych na licencjach.
 
-- Dokonaj zakupów oprogramowania i produktów zarezerwowanych (na przykład subskrypcji oprogramowania, oprogramowania bezterminowego i wystąpień zarezerwowanych maszyn wirtualnych platformy Azure).
+- Dokonaj zakupów oprogramowania i produktów rezerwacji (na przykład subskrypcji oprogramowania, oprogramowania bezterminowego i wystąpień zarezerwowanych maszyn wirtualnych platformy Azure).
 
-Nie można również użyć oferty usług udostępnionych partnera platformy [Azure](shared-services.md) w ramach programu CSP, aby zakupić nowe subskrypcje platformy Azure na własny użytek.
+Nie można również użyć oferty usług udostępnionych partnera [platformy Azure w](shared-services.md) ramach programu CSP, aby zakupić nowe subskrypcje platformy Azure na własny użytek.
 
-Nie ma to wpływu na istniejące subskrypcje rachunku bezpośredniego. Pozostają one prawidłowe i są automatycznie odnawiane. Użytkownik będzie nadal rozliczany bezpośrednio przez firmę Microsoft, dopóki nie zostanie anulowany. Nadal można zarządzać istniejącymi subskrypcjami w następujący sposób:
+Nie ma to wpływu na istniejące subskrypcje rachunku bezpośredniego. Pozostają one ważne i są automatycznie odnawiane. Do momentu anulowania będą naliczane bezpośrednio przez firmę Microsoft. Nadal można zarządzać istniejącymi subskrypcjami w następujący sposób:
 
 - Wstrzymywanie istniejących subskrypcji
 
@@ -75,9 +73,9 @@ Oprócz nowych zakupów nie można uzyskać dostępu do następujących funkcji 
 - Nie można wygenerować zaproszenia dla klientów żądających bezpośredniej relacji odsprzedawcy. Opcja **Zażądaj relacji odsprzedawcy** na **stronie Klienci** Partner Center nie będzie dostępna.
 
     >[!NOTE]
-    >W ramach przejścia z bezpośredniego partnera rozsyłania na odsprzedawcę pośredniego, jeśli dzierżawa partnera z rozliczeniami bezpośrednimi została już zarejestrowane jako odsprzedawca pośredni, możesz zamiast tego wygenerować zaproszenie do klienta z żądaniem relacji odsprzedawcy pośredniego.
+    >W ramach przejścia z partnera z rozliczeniami bezpośrednimi do odsprzedawcy pośredniego, jeśli dzierżawa partnera z rozliczeniami bezpośrednimi została już zarejestrowane jako odsprzedawca pośredni, możesz zamiast tego wygenerować zaproszenie do klienta z żądaniem relacji odsprzedawcy pośredniego.
 
-- Nie można utworzyć nowej dzierżawy piaskownicy. Każda dzierżawa partnera z rozliczeniami bezpośrednimi może utworzyć jedną dzierżawę piaskownicy dla integracji interfejsu API rachunku bezpośredniego. Jeśli wcześniej nie utworzono takiego konta, nie możesz tego zrobić po ograniczeniu możliwości twojego partnera z rozliczeniami bezpośrednimi.  
+- Nie można utworzyć nowej dzierżawy piaskownicy. Każda dzierżawa partnera z rozliczeniami bezpośrednimi może utworzyć jedną dzierżawę piaskownicy dla integracji interfejsu API z rozliczeniami bezpośrednimi. Jeśli jeszcze nie utworzono takiego konta, nie możesz tego zrobić po ograniczeniu możliwości twojego partnera z rozliczeniami bezpośrednimi.  
 
 ## <a name="next-steps"></a>Następne kroki
 

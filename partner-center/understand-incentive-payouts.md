@@ -1,60 +1,55 @@
 ---
-title: Wyświetl szczegóły zachęty i programu
+title: Wyświetlanie informacji o zachętach i programach
 ms.topic: article
 ms.date: 11/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Użyj tych stron do wyświetlania stanu programu bodźce i zarządzania nim
+description: Użyj tych stron do wyświetlania stanu Program zachęt zarządzania
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a66e32a3c9320ac32b0749c67197c6a27574ce75
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 798fde02b87e8f8105dad6d00c32b050fb90097e
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712617"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818749"
 ---
-# <a name="view-your-incentives-program-details"></a>Wyświetl szczegóły programu zachęty
+# <a name="view-your-incentives-program-details"></a>Wyświetlanie szczegółów programu zachęt
 
-**Odpowiednie role**
+**Odpowiednie role:** Zachęty dla administratorów | Zachęty dla użytkowników | Administrator globalny | Administrator partnera MPN
 
-- Administrator zachęt
-- Użytkownik zachęt
-- Administrator globalny
-- Administrator partnerski MPN
-
-W tym artykule objaśniono stronę **omówienia funkcji Moje zachęty** , która przedstawia ogólny stan programów bodźca, a także stan każdego programu w każdej lokalizacji. Zapewnia również różne stany rejestracji.
+W tym artykule  wyjaśniono stronę Przeglądu moich zachęt, na której przedstawiono ogólny stan programów zachęt, a także stan poszczególnych programów w poszczególnych lokalizacjach. Zapewnia również różne stany rejestracji.
 
 >[!NOTE]
->Aby uzyskać więcej informacji na temat zachęt i funkcji zachęty w centrum partnerskim, zobacz temat [inwestycje i zachęty dla partnerów](https://partner.microsoft.com/membership/partner-incentives) (wymagane jest zalogowanie się).
+>Aby uzyskać więcej informacji na temat zachęt i funkcji zachęt w Partner Center, zobacz [Partner Investments and Incentives](https://partner.microsoft.com/membership/partner-incentives) (Inwestycje i zachęty dla partnerów) (wymagane jest zalogowanie się).
 
-## <a name="access-the-incentives-overview-page"></a>Dostęp do strony przeglądu zachęt
+## <a name="access-the-incentives-overview-page"></a>Uzyskiwanie dostępu do strony z omówieniem zachęt
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard) Centrum partnerskiego.
-1. Wybierz opcję **zachęty**, a następnie pozycję **Przegląd** z menu.
-1. Przejrzyj podsumowanie zarobków i płatności w górnej części strony, a następnie więcej szczegółowych informacji w tabeli poniżej. Można również sortować, grupować i rozszerzać dołączoną tabelę:
+1. Wybierz **pozycję Zachęty,** a następnie **pozycję** Przegląd z menu.
+1. Przejrzyj podsumowanie zarobków i płatności w górnej części strony, a następnie więcej szczegółowych informacji w tabeli poniżej. Możesz również sortować, grupować i rozwijać tabelę towarzyszących:
 
-   - Aby sortować według kolumny, wybierz nazwę kolumny.
-   - Aby grupować według programu, wybierz kartę **według programu** powyżej tabeli.
-   - Aby grupować według lokalizacji, wybierz kartę **według lokalizacji** nad tabelą.
-   - Aby wyświetlić więcej szczegółów na temat rejestracji w ramach określonej grupy, wybierz symbol ostrokątny na końcu danego wiersza. Ten cudzysłów ostrokątny rozszerza widok.
+   - Aby posortować według kolumny, wybierz nazwę kolumny.
+   - Aby grupować według programu, wybierz **kartę Według programu** nad tabelą.
+   - Aby grupować według lokalizacji, wybierz **kartę Według** lokalizacji nad tabelą.
+   - Aby wyświetlić więcej szczegółów na temat rejestracji w określonej grupie, wybierz symbol szewronu na końcu danego wiersza. Ten szewron rozszerza widok.
 1. Jeśli do zarejestrowania się w programie wymagane jest wykonanie dodatkowych czynności, odpowiednie informacje zostaną wyświetlone w kolumnie **Stan**. W takim przypadku wybierz symbol cudzysłowu ostrokątnego, aby dowiedzieć się więcej o następnych krokach, które należy wykonać.
 
 ## <a name="enrollment-status"></a>Stan rejestracji
 
-W poniższej tabeli objaśniono różne stany rejestracji widoczne w kolumnie **stan** .
+W poniższej tabeli wyjaśniono różne stany rejestracji wyświetlane w **kolumnie** Stan.
 
 | **Stan**         | **Pojawia się, gdy** |
 |:------------------------------------|:------------------|
-| Wymagana akcja  | Partner zaakceptował zaproszenie do rejestracji w programie zachęty, ale może być konieczne zaktualizowanie informacji o banku lub podatku. Aby zaktualizować dane bankowe lub podatkowe w centrum partnerskim, zapoznaj się z kolumną **wymagane akcje** . |
-| Wycofane  | Konkretny program zachęty nie jest już oferowany w systemie zachęt. |
-| Zarejestrowano  | Wszystkie informacje podatkowe i bankowe zostały zweryfikowane. Partner nie wymaga żadnych dalszych czynności rejestracyjnych. |
-| Rejestrowanie  | Użytkownik nie jest administratorem zachęty, a rejestracja odbywa się w **wymaganej akcji** lub **sprawdza stan rejestracji** .|
-| Nieaktywne/niekwalifikujące się | W tej chwili program zachęty może nie być otwarty do rejestracji lub partner nie spełnia bieżącego uprawnienia do rejestracji ani ponownego rejestrowania. <br><br> Jeśli stan jest **nieuprawniony**, partner nie spełnia aktualnych wymagań dotyczących uprawnień dla programu; wybranie linku **Zobacz wymagania dotyczące uprawnień** poniżej stanu rejestracji będzie zawierać wymagania dotyczące uprawnień oraz tego, jakie wymagania zostały spełnione. <br><br> W programie zachęty może być również wyświetlany stan **nieaktywności** usługi Virtual ORGANIZATION (VORG) lub konta globalnego partnera (PGA), które nie są już aktywne.  |
-| Zaproszeni  | Do partnera wysłano nowe zaproszenie do rejestracji programu zachęty, ale nie uruchomiono jeszcze procesu rejestracji przez partnera. Sąsiadujące kolumny **wymagane akcje** przedstawiają następne kroki i powiązane linki.  |
-| Weryfikowanie rejestracji  | Partner już zakończył lub zaktualizował informacje dotyczące banku i podatku dla nowej lub istniejącej rejestracji i czeka na zweryfikowanie tych informacji przez firmę Microsoft. W trakcie procesu weryfikacji **Sprawdzanie poprawności rejestracji** może się pojawić przez maksymalnie 48 godzin.  |
+| Wymagana akcja  | Partner zaakceptował zaproszenie do zarejestrowania się w programie zachęt, ale może być konieczne zaktualizowanie informacji bankowych lub podatkowych. Zobacz **kolumnę Wymagane akcje,** aby uzyskać informacje o kolejnych krokach lub linkach do aktualizowania informacji bankowych lub podatkowych w Partner Center. |
+| Przerwać  | Określony program zachęt nie jest już oferowany w systemie zachęt. |
+| Zarejestrowano  | Wszystkie informacje podatkowe i bankowe zostały zweryfikowane. Partner nie wymaga żadnej dalszej akcji rejestracji. |
+| Rejestrowanie  | Użytkownik nie jest administratorem zachęt, a rejestracja znajduje się w wymaganym działaniu **lub** sprawdzania **poprawności stanów** rejestracji.|
+| Nieaktywny/nieaktywny | Program zachęt może nie być obecnie otwarty na rejestrację lub partner nie spełnia warunków bieżących uprawnień do rejestracji lub ponownej rejestracji. <br><br> Jeśli stan to **Niekwalifikuje się**, partner nie spełnia bieżących wymagań dotyczących uprawnień do programu; Wybranie **linku Zobacz wymagania dotyczące uprawnień** poniżej stanu rejestracji spowoduje pokazanie wymagań dotyczących uprawnień i tego, które z tych wymagań zostały spełnione. <br><br> Może być również  wyświetlony stan Nieaktywny dla rejestracji organizacji wirtualnej (VORG) lub globalnego konta partnera (PGA), które nie są już aktywne w programie zachęt.  |
+| Zaproszony  | Zaproszenie do rejestracji nowego programu zachęt zostało wysłane do partnera, ale partner nie rozpoczął jeszcze procesu rejestracji. Sąsiadująca kolumna **Wymagane akcje** zawiera następne kroki i wszelkie powiązane linki.  |
+| Sprawdzania poprawności rejestracji  | Partner zakończył już lub zaktualizował informacje bankowe i podatkowe dotyczące nowej lub istniejącej rejestracji i czeka, aż firma Microsoft zweryfikuje te informacje. Podczas procesu walidacji **walidacja rejestracji** może być wyświetlana przez maksymalnie 48 godzin.  |
 
 ## <a name="see-your-payment-information"></a>Wyświetlanie informacji o płatności
 
@@ -64,11 +59,11 @@ Wybierz ikonę wypłaty w prawym górnym rogu ekranu, aby uzyskać dostęp do ty
 - Płatności
 - Eksportowanie danych
 
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="Przedstawia ikonę wypłaty w prawym górnym rogu portalu Centrum partnerskiego":::
+:::image type="content" source="images/payouts/payout-overview.png" alt-text="Ilustruje ikonę Wypłaty w prawym górnym rogu Partner Center portal":::
 
 Te informacje obejmują łączne płatności i zarobki związane z zachętami od momentu zarejestrowania w programach zachęt. Na tej stronie podano też zarobki i płatności według lokalizacji lub programu, a także wszelkie dalsze czynności, które należy wykonać, aby zarejestrować się w programie w określonej lokalizacji. 
 
-Możesz również użyć [interfejsu API wypłaty partnera](https://apidocs.microsoft.com/services/partnerpayouts) , aby połączyć się i uzyskać bezpośrednią transakcję oraz dane dotyczące płatności. Zobacz [instrukcje wypłaty](payout-statement.md) , aby dowiedzieć się więcej.
+Możesz również użyć interfejsu API wypłat [partnera,](https://apidocs.microsoft.com/services/partnerpayouts) aby bezpośrednio nawiązać połączenie i uzyskać dane dotyczące transakcji wypłat i płatności. Aby [dowiedzieć się więcej,](payout-statement.md) zobacz Wypłaty.
 
 ## <a name="next-steps"></a>Następne kroki
 

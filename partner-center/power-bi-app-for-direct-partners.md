@@ -1,64 +1,59 @@
 ---
-title: Często zadawane pytania — Analiza Centrum partnerskiego dla Power BI
+title: Często zadawane pytania — Partner Center Analytics dla Power BI
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Zapoznaj się z tym omówieniem i często zadawanymi pytaniami dotyczącymi aplikacji analizy Centrum partnerskiego dla Power BI.
+description: Zapoznaj się z tym omówieniem i często zadawanych pytań dotyczących aplikacja statystyczna Centrum partnerskiego dla usługi Power BI.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edc6469693e8dc8dcc93f9a4df66c9a232b29738
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 28fb6e9a963228f45a927089e0bb8ae3ecd452ff
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633679"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854540"
 ---
-# <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Omówienie i często zadawane pytania dotyczące aplikacji do analiz Centrum partnerskiego dla Power BI (bezpośredni partnerzy w programie CSP)
+# <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Omówienie i często zadawane pytania dotyczące aplikacja statystyczna Centrum partnerskiego dla usługi Power BI (bezpośredni partnerzy w programie CSP)
 
 
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent sprzedaży | Agent administracyjny
 
-- Administrator globalny
-- Administrator zarządzania użytkownikami
-- Agent sprzedaży
-- Agent administracyjny
-
-Uzyskaj wizualną reprezentację danych biznesowych za pomocą aplikacji do analizy Centrum partnerskiego, aby uzyskać Power BI. Aplikacja, zaprojektowana dla partnerów bezpośrednich w programie dostawcy rozwiązań w chmurze (CSP), podłącza się do znanej platformy Power BI.
+Uzyskaj wizualną reprezentację danych biznesowych za pomocą aplikacja statystyczna Centrum partnerskiego dla usługi Power BI. Aplikacja przeznaczona dla bezpośrednich partnerów w programie Dostawca rozwiązań w chmurze programie (CSP) jest podpięła się do znanej Power BI platformie.
 
 > [!NOTE]  
-> Jesteś bezpośrednim partnerem, jeśli prowadzisz działalność bezpośrednio z firmą Microsoft i klientami.
+> Jesteś bezpośrednim partnerem, jeśli współpracujesz bezpośrednio z firmą Microsoft i klientami.
 
-Zainstaluj aplikację, aby wyświetlić graficzne widoki:
+Zainstaluj aplikację, aby uzyskać widoki graficzne:
 
 - Rozwój bazy klientów, subskrypcji i licencji
 
-- Użycie pakietu Office 365, Microsoft Dynamics i produktów Microsoft Azure
+- Użycie usług Office 365, Microsoft Dynamics i Microsoft Azure produktów
 
-- Dzienne jednostki zużycia dla każdego zmierzonego zasobu w każdej subskrypcji platformy Azure w ciągu ostatnich 60 dni
+- Jednostki dziennego zużycia dla każdego zasobu taryfowego w każdej subskrypcji platformy Azure w ciągu ostatnich 60 dni
 
-- Szacowany koszt na podstawie karty z najnowszą stawką
+- Szacowany koszt na podstawie najnowszej karty stawki
 
-- Możliwość eksportowania zestawów danych i tworzenia niestandardowych raportów, w tym dla poszczególnych klientów
+- Możliwość eksportowania zestawów danych i tworzenia raportów niestandardowych, w tym dla niestandardowych klientów
 
 ## <a name="frequently-asked-questions"></a>Często zadawane pytania
 
-Zalecamy przejrzenie odpowiedzi na często zadawane pytania przed zainstalowaniem aplikacji.
+Zalecamy przejrzenie naszych odpowiedzi na często zadawane pytania przed zainstalowaniem aplikacji.
 
 | **Pytanie** | **Odpowiedź** |
 | --- | ---------- |
-| Co to jest koszt aplikacji? | Sama aplikacja jest bezpłatna. Aby wyświetlić podgląd aplikacji, możesz [zarejestrować się w celu uzyskania bezpłatnej Usługa Power BI](https://go.microsoft.com/fwlink/p/?linkid=845347) i użyć jej do dostosowania pulpitów nawigacyjnych i raportów. Aby zezwolić innym osobom w firmie na korzystanie z aplikacji, musisz mieć aktywną subskrypcję programu Microsoft Power BI Professional lub Microsoft Power BI Premium. |
-| Kto może nawiązać połączenie z aplikacją do analizy w centrum partnerskim? | Ta wersja aplikacji została zaprojektowana dla partnerów bezpośrednich (warstwa 1) w programie dostawcy rozwiązań w chmurze. Jesteś bezpośrednim partnerem, jeśli prowadzisz działalność bezpośrednio z firmą Microsoft i klientami. Aby zainstalować aplikację, musisz być administratorem globalnym, agentem administracyjnym lub administratorem rozliczeń dla konta firmowego. |
-| Jestem dostawcą pośrednim; Czy mogę użyć aplikacji? | Tak. Administrator globalny, Agent administracyjny lub administrator rozliczeń może zainstalować aplikację i wyświetlić dane dotyczące klientów bezpośrednich. Przyszłe wersje mogą obejmować funkcje, które umożliwiają wyświetlanie danych o pośrednim odsprzedawcy. |
-| Jak poznać przyszłe wersje? | Ogłoszenia i wersje zapoznawcze są udostępniane w programie partnerskim wczesnego oprogramowania do wdrażania. Swoją opinię można również udostępnić za pomocą programu wczesne przyjęcie. Jeśli nie korzystasz już z programu w programie, Dowiedz się, jak dołączać. Zobacz [dołączenie do programu partnerskiego interfejsu API centrum partnera i zestawu SDK wczesnego oprogramowania do wdrażania](/partner-center/develop/early-adopter-program).  |
-| Kto może dostosowywać pulpity nawigacyjne i raporty w aplikacji? | Tylko administrator globalny, Agent administracyjny lub administrator rozliczeń, który zainstalował aplikację, może dostosować pulpit nawigacyjny lub utworzyć nowe raporty w Power BI interfejsie sieci Web. |
-| Kto może wyświetlać pulpity nawigacyjne i raporty w aplikacji? | Administrator globalny, Agent administracyjny lub administrator rozliczeń, który zainstalował aplikację, może udostępnić dane aplikacji każdemu, kto ma aktywną subskrypcję programu Microsoft Power BI Professional lub Microsoft Power BI Premium. |
-| Czy mogę używać aplikacji do wyświetlania danych z wielu dzierżawców usługi Azure AD w różnych lokalizacjach? | W tej wersji można wyświetlić tylko dane z dzierżawy usługi Azure AD, do których Administrator globalny lub administrator został zalogowany. | 
-| Kiedy aplikacja będzie dostępna w dodatkowych językach? | Anonse dotyczące planów są udostępniane za pomocą programu do wczesnego wdrażania Centrum partnerskiego. Jeśli nie masz jeszcze udziału w programie, utwórz go teraz o [https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program) . Swoją opinię można również udostępnić za pomocą programu wczesne przyjęcie. | 
+| Jaki jest koszt aplikacji? | Sama aplikacja jest bezpłatna. Aby wyświetlić podgląd aplikacji, możesz [zarejestrować](https://go.microsoft.com/fwlink/p/?linkid=845347) się w celu korzystania z bezpłatnej usługa Power BI i używać jej do dostosowywania pulpitów nawigacyjnych i raportów. Aby umożliwić innym osobom w firmie korzystanie z aplikacji, musisz mieć aktywną subskrypcję programu Microsoft Power BI Professional lub Microsoft Power BI Premium. |
+| Kto może połączyć się z aplikacją Partner Center Analytics? | Ta wersja aplikacji jest przeznaczona dla bezpośrednich partnerów (warstwa 1) w Dostawca rozwiązań w chmurze aplikacji. Jesteś bezpośrednim partnerem, jeśli współpracujesz bezpośrednio z firmą Microsoft i z klientami. Aby zainstalować aplikację, musisz być administratorem globalnym, agentem administratora lub administratorem rozliczeń dla konta firmy. |
+| Jestem dostawcą pośrednim; czy mogę używać aplikacji? | Tak. Administrator globalny, agent administratora lub administrator rozliczeń może zainstalować aplikację i zobaczyć dane dotyczące klientów bezpośrednich. Przyszłe wersje mogą obejmować funkcje, które umożliwią wyświetlanie danych o odsprzedawcach pośrednich. |
+| Jak mogę dowiedzieć się więcej o przyszłych wersjach? | Ogłoszenia i wersje zapoznawcze są udostępniane za pośrednictwem Partner Center wczesnego programu. Możesz również podzielić się swoją opinią za pośrednictwem programu wczesnego użytkownika. Jeśli jeszcze nie uczestniczysz w programie, dowiedz się, jak dołączyć. Zobacz [Join the Partner Center API and SDK Early Adopter Program (Dołączanie do Partner Center API i zestawu SDK Early Adopter Program).](/partner-center/develop/early-adopter-program)  |
+| Kto może dostosowywać pulpity nawigacyjne i raporty w aplikacji? | Tylko administrator globalny, agent administratora lub administrator rozliczeń, który zainstalował aplikację, może dostosować pulpit nawigacyjny lub tworzyć nowe raporty w Power BI interfejsie internetowym. |
+| Kto może wyświetlać pulpity nawigacyjne i raporty w aplikacji? | Administrator globalny, agent administratora lub administrator rozliczeń, który zainstalował aplikację, może udostępniać dane aplikacji wszystkim osobom, które mają aktywną subskrypcję usługi Microsoft Power BI Professional lub Microsoft Power BI Premium. |
+| Czy mogę używać aplikacji do wyświetlania danych z wielu dzierżaw usługi Azure AD w różnych lokalizacjach? | W tej wersji można wyświetlać tylko dane z dzierżawy usługi Azure AD, do których zalogował się administrator globalny lub agent administratora. | 
+| Kiedy aplikacja będzie dostępna w dodatkowych językach? | Ogłoszenia o planach są opublikowane za pośrednictwem Partner Center programu wczesnego wdrażania. Jeśli nie bierzesz jeszcze udziału w programie, zarejestruj się, aby go teraz uzyskać na stronie [https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program) . Możesz również podzielić się swoją opinią za pośrednictwem programu wczesnego użytkownika. | 
 
 
 
@@ -66,4 +61,4 @@ Zalecamy przejrzenie odpowiedzi na często zadawane pytania przed zainstalowanie
 
 [Instalowanie i wyświetlanie podglądu aplikacji statystycznej Centrum partnerskiego dla usługi Microsoft Power BI](power-bi-app-for-direct-partners-install.md)
 
-[Wyświetl dane biznesowe za pomocą aplikacji analizy Centrum partnerskiego dla firmy Microsoft Power BI](power-bi-app-for-direct-partners-use.md)
+[Wyświetlanie danych biznesowych za pomocą aplikacji Partner Center Analytics dla usługi Microsoft Power BI](power-bi-app-for-direct-partners-use.md)

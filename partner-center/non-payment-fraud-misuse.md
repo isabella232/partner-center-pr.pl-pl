@@ -9,33 +9,26 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: c3b7db95bbbd039f8328ddd2785579bb533197cc
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: 1d8e59ea2d2e8d40163ea06b305845c37a356f16
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686300"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818664"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Zarządzanie przypadkami braku płatności, oszustw lub nieprawidłowego użycia w centrum partnerskim
 
-**Dotyczy**
+**Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Centrum partnerskie Microsoft Cloud for US Government
-
-**Odpowiednie role**
-
-- Administrator globalny
-- Administrator zarządzania użytkownikami
-- Agent administracyjny
-- Administrator rozliczeń
+**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent administracyjny | Administrator rozliczeń
 
 Klient jest odpowiedzialny finansowo za fałszywe zakupy przez klientów i/lub niepłać za zakupione usługi. Dlatego zdecydowanie zalecamy stosowanie środków zaradczych związanych z *zapobieganiem oszustwom i ich wykrywaniem.*
 
-Aby uniknąć i/lub rozwiązać problemy związane z fałszywymi działaniami lub nieprawidłowym użyciem, ważne jest zrozumienie potencjalnych zagrożeń oraz opracowanie zasad i praktyk, które mogą zmniejszyć narażenie na ryzyko.
+Aby uniknąć i/lub rozwiązać problemy związane z fałszywymi działaniami lub nieprawidłowym użyciem, ważne jest zrozumienie potencjalnych zagrożeń i opracowanie zasad i praktyk, które mogą zmniejszyć narażenie na ryzyko.
 
 ## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Wymuszanie zasad dopuszczalnego użycia przez firmę Microsoft
 
-Jeśli firma Microsoft wykryje działania partnerów lub klientów, które potwierdzimy lub podejrzewamy, narusza zasady dopuszczalnego użycia, podejmiemy kroki wymuszania. Klient może zostać natychmiast zawieszony. Otrzymasz powiadomienie o działaniach wymuszania lub zaktualizowanych żądaniach firmy Microsoft.
+Jeśli firma Microsoft wykryje działania partnerów lub klientów, które potwierdzimy lub podejrzewamy, naruszają zasady dopuszczalnego użycia, podejmiemy kroki wymuszania. Klient może zostać natychmiast zawieszony. Otrzymasz powiadomienie o działaniach wymuszania lub zaktualizowanych żądaniach firmy Microsoft.
 
 ## <a name="abuse-of-service-risks"></a>Nadużycie ryzyka związanego z usługą
 
@@ -50,7 +43,7 @@ Przykłady tych naruszeń zasad dopuszczalnego użycia przez firmę Microsoft mo
 - Rozproszone ataki typu "odmowa usługi" (DDoS)
 - Wyszukiwanie bitcoinów
 - Dystrybucja złośliwego oprogramowania
-- Ponowne subskrypcje
+- Subskrypcja z 1999 r.
 
 ## <a name="theft-of-service-risks"></a>Kradzież zagrożeń związanych z usługami
 
@@ -64,22 +57,22 @@ Przykłady tych zagrożeń związanych z transakcjami online mogą obejmować:
 - Błędnie reprezentowane tożsamości
 - Usługi aprowizowane i używane przed otrzymaniem początkowej płatności
 - Nowe rynki i/lub regiony wysokiego ryzyka związane z oszustwami online
-- Automatyzowanie tworzenia i kupowania kont przez nieautomatyznych użytkowników
+- Automatyzowanie tworzenia i kupowania konta przez nieautomatyznych użytkowników
 
 ## <a name="managing-online-risk"></a>Zarządzanie ryzykiem w trybie online
 
-Poniższe zalecenia ułatwiają opracowywanie zasad i praktyk w celu zmniejszenia narażenia na ryzyko transakcji online w cyklu życia relacji z klientami.
+Poniższe zalecenia ułatwiają opracowywanie zasad i praktyk w celu zmniejszenia narażenia na ryzyko związane z transakcjami online w cyklu życia relacji z klientami.
 
 ### <a name="onboarding-new-customers"></a>Dołączanie nowych klientów
 
-Sugestie dotyczące zmniejszania ryzyka online podczas dołączania nowych klientów obejmują:
+Sugestie dotyczące zmniejszania ryzyka w trybie online podczas dołączania nowych klientów obejmują:
 
 - Ustanawianie relacji osobistych z klientami, gdy jest to możliwe (na przykład kontaktowanie się z klientami przez telefon).
 - Sprawdź poświadczenia i doświadczenie klientów za pomocą lepszych metod (takich jak korzystanie z biur kredytowych lub komercyjnych agencji raportów biznesowych).
-- Użyj uwierzytelniania wieloskładnikowego (na przykład weryfikacji SMS) podczas rejestracji, aby zminimalizować narażenie na tworzenie i kupowanie konta robotyki.
+- Użyj uwierzytelniania wieloskładnikowego (na przykład weryfikacji SMS) podczas tworzenia konta, aby zminimalizować ryzyko utworzenia i zakupu konta robotyki.
 - Śledzenie tożsamości i zarządzanie nimi przy użyciu usług (takich jak usługi tożsamości cyfrowych).
 - Oceń siłę finansową klienta za pomocą rygorystycznych systemów wykrywania oszustw związanych z kartami kredytowymi.
-- Ustanów zasady czystego kolekcji. Szczegóły procesu kolekcji oraz tego, kiedy brak płatności będzie mieć wpływ na dostęp do subskrypcji. (Możesz wyłączyć dostęp lub [wstrzymać subskrypcje klienta w](create-a-new-subscription.md#suspend-a-subscription) przypadku braku płatności).
+- Ustanów zasady czystej kolekcji. Szczegóły procesu kolekcji oraz tego, kiedy brak płatności będzie mieć wpływ na dostęp do subskrypcji. (Możesz wyłączyć dostęp lub [wstrzymać subskrypcje klienta w](create-a-new-subscription.md#suspend-a-subscription) przypadku braku płatności).
 
 ### <a name="managing-customer-accounts"></a>Managing customer accounts (Zarządzanie kontami klientów)
 

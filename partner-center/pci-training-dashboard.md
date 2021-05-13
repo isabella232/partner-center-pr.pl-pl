@@ -1,69 +1,66 @@
 ---
-title: Pulpit nawigacyjny szkoleń szczegółowych informacji
+title: Pulpit nawigacyjny trenowania szczegółowych informacji
 ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Poznaj pulpit nawigacyjny szkolenia Centrum partnerskiego. Szkolenie to jeden z raportów dostępnych w obszarze usługi Partner Center Insights (PCI).
+description: Eksplorowanie Partner Center szkoleniowego. Szkolenie jest jednym z raportów dostępnych w obszarze Partner Center Insights (PCI).
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bad11a2f480aaa229708a3e9a108466a130b4127
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: e3beb1d051d2407229deebbb94b938a8f8b7218e
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086247"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854557"
 ---
-# <a name="trainings-dashboard"></a>Pulpit nawigacyjny szkoleń
+# <a name="trainings-dashboard"></a>Pulpit nawigacyjny szkolenia
 
-**Odpowiednie role**
+**Odpowiednie role:** Przeglądarka raportów dla kierownictwa | Przeglądarka raportów
 
-- Executive — Podgląd raportów
-- Podgląd raportów
-
-Pulpit nawigacyjny szkolenia zawiera szczegółowe informacje o certyfikatach, ocenach i badaniach podejmowanych przez firmę pracowników firmy. Pulpit nawigacyjny szkolenia zawiera następujące sekcje:
+Pulpit nawigacyjny Szkolenia zawiera szczegółowe informacje o certyfikatach, ocenach i badaniach przeprowadzonych przez pracowników firmy. Pulpit nawigacyjny Szkolenia zawiera następujące sekcje:
 
 - Podsumowanie
-- Wydajność szkolenia podzielona przez certyfikaty, oceny, egzaminy
-- Poszczególne osoby za pomocą poświadczeń, takich jak certyfikaty, oceny, egzaminy
+- Podział wydajności trenowania według certyfikatów, ocen, egzaminów
+- Indywidualne osoby według poświadczeń, takich jak certyfikaty, oceny, egzaminy
 - Szczegóły działania
 
 >[!NOTE] 
->Ten raport jest dostępny w centrum usługi Insights w usłudze partnerskiej. Aby wyświetlić ten raport, należy mieć przypisaną rolę w podglądzie raportów lub w podglądzie raportów programu Executive. Niektóre sekcje tego raportu będą widoczne tylko dla użytkowników, którzy są użytkownikami programu Executive. Aby uzyskać więcej informacji na temat kontroli dostępu do raportów usługi Insights, zobacz [role PCI](pci-roles.md).
+>Ten raport jest dostępny w centrum Szczegółowych informacji w Partner Center. Aby wyświetlić ten raport, musisz mieć przypisaną rolę Podgląd raportów lub Executive Report Viewer. Kilka sekcji tego raportu będzie widocznych tylko dla użytkowników, którzy są osobami przeglądających raporty kierownictwa. Aby uzyskać więcej informacji na temat kontroli dostępu do raportów szczegółowych informacji, zobacz [Role PCI.](pci-roles.md)
 
 ## <a name="summary"></a>Podsumowanie
 
-Sekcja podsumowania przedstawia widok migawki z różnymi wskaźnikami wydajności związanymi z szkoleniami. Różne wskaźniki wydajności są certyfikowanymi osobami, certyfikatami, osobami z poświadczeniami egzaminów, poświadczeniami egzaminów, osobami z poświadczeniami oceny i poświadczeniami oceny. Dane w tej sekcji są odświeżane w oparciu o wybrany zakres dat, który może mieć trzy miesiące (3M), sześć miesięcy (6 min) i 12 miesięcy (1Y) lub niestandardowy zakres danych (niestandardowy). 
+Sekcja podsumowania przedstawia liczbowy widok migawek różnych wskaźników wydajności związanych z trenowaniami. Różne wskaźniki wydajności to certyfikowane osoby, certyfikaty, osoby z poświadczeniami egzaminu, poświadczenia egzaminu, osoby z poświadczeniami oceny i poświadczeniami oceny. Dane w tej sekcji są odświeżane na podstawie wybranego zakresu dat, czyli trzech miesięcy (3M), sześciu miesięcy (6 mln) i 12 miesięcy (1Y) lub niestandardowego zakresu danych (niestandardowy). 
 
 :::image type="content" source="images/pci/td-summary.png" alt-text="Podsumowanie":::
 
-- **Osoby z certyfikatami**: określa liczbę odrębnych osób z certyfikatami w firmie.
-- **Liczba certyfikatów**: reprezentuje łączną liczbę certyfikatów podejmowanych przez użytkowników w firmie.
+- **Osoby z certyfikatami**: reprezentuje liczbę odrębnych osób z certyfikatami w firmie.
+- **Liczba certyfikatów:** reprezentuje łączną liczbę certyfikatów podjętych przez osoby w firmie.
 - **Osoby z ocenami**: reprezentuje liczbę odrębnych osób z poświadczeniami oceny w firmie. 
-- **Licznik ocen**: przedstawia łączną liczbę ocen podejmowanych przez użytkowników w firmie.
-- **Osoby z badaniami**: przedstawiają liczbę odrębnych osób z poświadczeniami badania w firmie. 
-- **Liczba badań**: reprezentuje łączną liczbę badań wykonanych przez poszczególne osoby w firmie.
+- **Liczba ocen:** reprezentuje łączną liczbę ocen przeprowadzonych przez poszczególne osoby w firmie.
+- **Osoby z badaniem**: reprezentuje liczbę odrębnych osób z poświadczeniami badania w firmie. 
+- **Liczba egzaminów:** reprezentuje łączną liczbę kontroli wykonanej przez osoby w firmie.
 
-## <a name="training-performance"></a>Wydajność szkoleń
+## <a name="training-performance"></a>Wydajność trenowania
 
-Wydajność szkolenia przedstawia miesięczną liczbę osób indywidualnych i szkolenia wykonywane przez poszczególne osoby w firmie. Jest on dzielony przez certyfikaty, oceny i egzaminy w formie wykresu dla wybranego zakresu dat. Oś X przedstawia miesiące dla wybranego zakresu dat. Oś Y reprezentuje odrębną liczbę osób i liczbę wykonanych szkoleń dla wybranego typu szkolenia. Wybierz odpowiednie karty powyżej wykresu, aby wyświetlić podział według typu szkoleniowego. Dane wykresu można pobrać za pomocą ikony pobierania w formacie TSV dla wybranego zakresu dat.
+Wydajność szkolenia przedstawia liczbę poszczególnych osób z miesiąca na miesiąc oraz szkolenia ukończone przez osoby w firmie. Jest on podzielony według certyfikacji, ocen i egzaminów w postaci wykresu dla wybranego zakresu dat. Oś X reprezentuje miesiące dla wybranego zakresu dat. Oś Y reprezentuje odrębną liczbę osób i liczbę podjętych szkoleń dla wybranego typu szkolenia. Wybierz odpowiednie karty nad wykresem, aby wyświetlić podział według typu trenowania. Dane wykresu można pobrać za pomocą ikony pobierania w formacie TSV dla wybranego zakresu dat.
 
-:::image type="content" source="images/pci/td-training-performance.png" alt-text="Wydajność szkoleń":::
+:::image type="content" source="images/pci/td-training-performance.png" alt-text="Wydajność trenowania":::
 
-## <a name="individuals-performance"></a>Wydajność poszczególnych użytkowników
+## <a name="individuals-performance"></a>Wydajność poszczególnych osób
 
-Sekcja "wydajność poszczególnych użytkowników" przedstawia szczegóły szkolenia wykonywanego przez poszczególne osoby w firmie dla wybranego zakresu dat. Wyszukaj i wybierz nazwę osoby w lewym panelu w sekcji. Szczegóły szkolenia dla wybranej osoby są wyświetlane w prawym panelu sekcji.
+Sekcja Wydajność dla poszczególnych osób zawiera szczegółowe informacje o szkoleniach poszczególnych osób w firmie dla wybranego zakresu dat. Wyszukaj i wybierz imię i nazwisko osoby w lewym panelu sekcji. Szczegóły szkolenia dla wybranej osoby są wyświetlane na prawym panelu sekcji.
 
-:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Indiviual wydajność":::
+:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Wydajność Indiviual":::
 
 >[!NOTE] 
-> Sekcja wydajność poszczególnych osób jest dostępna tylko dla użytkowników, którzy są użytkownikami programu Executive w raportach. 
+> Sekcja wydajności Osoby jest dostępna tylko dla użytkowników, którzy są osobami przeglądających raporty kierownictwa. 
 
 ## <a name="next-steps"></a>Następne kroki
 
-[Raporty w usłudze Partner Center Insights](partner-center-insights.md)
+[Raporty w Partner Center Insights](partner-center-insights.md)
 
 >[!NOTE] 
-> Możesz pobrać pierwotne dane, aby wyłączyć ten raport z sekcji Pobieranie raportów na pulpicie nawigacyjnym usługi Insights. [Więcej informacji](pci-download-reports.md)
+> Możesz pobrać nieprzetworzone dane, które są zasilane z tego raportu, z sekcji Pobieranie raportów na pulpicie nawigacyjnym szczegółowych informacji. [Więcej informacji](pci-download-reports.md)

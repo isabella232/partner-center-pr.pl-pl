@@ -1,68 +1,62 @@
 ---
-title: Udzielanie klientom pomocy technicznej dotyczącej rozliczeń
+title: Pomoc techniczna dotycząca rozliczeń dla klientów
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się więcej o pomocy technicznej dotyczącej rozliczeń klientów wymaganych od partnerów programu CSP. Ta obsługa obejmuje własność relacji z rozliczeniami klientów i odpowiadanie na pytania dotyczące rozliczeń.
+description: Dowiedz się więcej o wymaganej pomocy technicznej dotyczącej rozliczeń klientów od partnerów programu CSP. Ta pomoc techniczna obejmuje posiadanie relacji rozliczeniowej klienta i odpowiadanie na pytania dotyczące rozliczeń.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b369cd263f1852c54c260fa39860e7acafae5f90
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: dd8a9b09d4dbd45c0d76bce1674babfd5e17cdbe
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633662"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854132"
 ---
-# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Zapewnij klientom pomoc techniczną dotyczącą rozliczeń i udziel odpowiedzi na pytania dotyczące rozliczeń
+# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Zapewnianie pomocy technicznej dotyczącej rozliczeń dla klientów i pomaganie w odpowiadania na ich pytania dotyczące rozliczeń
 
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent pomocy technicznej | Administrator rozliczeń | Agent sprzedaży
 
-- Administrator globalny
-- Administrator zarządzania użytkownikami
-- Agent pomocy technicznej
-- Administrator rozliczeń
-- Agent sprzedaży
+Jesteś właścicielem relacji rozliczeniowej z klientami i odpowiadasz na pytania dotyczące rozliczeń, które mogą mieć Twoi klienci.
 
-Użytkownik jest odpowiedzialny za rozliczenia z klientami i odpowiada za odpowiedzi na pytania dotyczące rozliczeń, które mogą być dostępne dla klientów.
+- Odpowiadasz za terminowe płatności na rzecz firmy Microsoft.
 
-- Użytkownik jest odpowiedzialny za płatności w czasie do firmy Microsoft.
+- Zalecamy ustanowienie jasnych zasad kolekcji z klientami, które szczegółowo wyjaśnią proces kolekcji i kiedy będzie to miało wpływ na dostęp do subskrypcji, usług lub oprogramowania klienta.
 
-- Zalecamy ustanowienie zasad czyszczenia kolekcji z klientami, którzy opisują proces tworzenia kolekcji i kiedy dostęp do subskrypcji, usług lub oprogramowania klienta będzie miał wpływ.
-
-- W razie potrzeby można wyłączyć dostęp klienta do produktu w celu uzyskania niepłatności.
+- W razie potrzeby możesz wyłączyć dostęp klienta do produktu w przypadku braku płatności.
 
 ## <a name="microsoft-partner-support-guidance"></a>Wskazówki dotyczące pomocy technicznej dla partnerów firmy Microsoft
 
-W modelu dostawcy usług kryptograficznych partnerzy obsługujący dane transakcyjne są zaufanymi klasyfikatorami, którzy są swoimi klientami i są właścicielami kompleksowych relacji, w tym pomocy technicznej, gdy ich klient ma pytania lub problemy. Dzięki pomocy technicznej partnerzy punktu dotykowego mogą dowiedzieć się więcej na temat klienta i ich firmy, aby identyfikować nowe usługi i rozwiązania, dla których wartość jest równa.
+Partnerzy, którzy inicjują transakcje w modelu CSP, są zaufanymi doradcami klientów i są właścicielami relacji, w tym pomocy technicznej, gdy ich klient ma pytanie lub problem. Dzięki punktom dotykowym pomocy technicznej partnerzy mogą dowiedzieć się więcej o kliencie i jego firmie, aby identyfikować nowe usługi i rozwiązania, które wpływają na wartość.
 
-Aby spełnić wymagania dotyczące pomocy technicznej, partner może odsprzedać pomoc techniczną od innego podmiotu. mogą one stanowić źródło całości lub części swojej struktury pomocy technicznej i/lub mogą skonfigurować strukturę w celu bezpośredniej obsługi.  Partner może naliczać opłaty za całą pomoc techniczną lub jej część. Partner powinien ideach klientom pomoc techniczną, która zapewni im, godziny korzystania z usługi i metodę kontaktu oraz ceny (jeśli są naliczane w celu uzyskania pomocy technicznej). 
+Aby spełnić wymagania dotyczące pomocy technicznej, partner może odsprzedać pomoc techniczną z innej jednostki, może zlecić całość lub część struktury pomocy technicznej i/lub może skonfigurować strukturę w celu bezpośredniego świadczenia pomocy technicznej.  Partner może naliczać opłaty za całą lub część pomocy technicznej udostępnianej klientom. Partner powinien przedstawić swoim klientom pomoc techniczną, godziny obsługi i metodę kontaktu oraz cennik (w przypadku naliowania opłat za pomoc techniczną). 
 
 >[!Note]
->Jeśli nie jesteś dostawcą usług kryptograficznych i masz pytania dotyczące rozliczeń klientów, zapoznaj się z konkretnym portalem odpowiednich produktów lub usług.
+>Jeśli nie jesteś cSP i masz pytania dotyczące rozliczeń klientów, zapoznaj się z określonym portalem dla odpowiednich produktów lub usług.
 
-Partnerzy muszą odbierać przychodzące żądania pomocy technicznej od klientów, diagnozować problemy, aby zapewnić najlepszą część zdolności partnera, a następnie rozwiązywać problemy, które znajdują się w zasięgu linii bazowej pomocy technicznej. Jeśli partner nie może rozwiązać problemu, może eskalować problemy do firmy Microsoft za pośrednictwem następujących pojazdów pomocy technicznej:
+Partnerzy muszą otrzymywać przychodzące żądania pomocy technicznej od klientów, diagnozować problemy w najlepszy sposób, a następnie rozwiązywać problemy, które znajdują się w zakresie granic podstawowej pomocy technicznej. Jeśli partner nie może rozwiązać problemu, może eskalować problemy do firmy Microsoft za pośrednictwem następujących pojazdów pomocy technicznej:
 
-- Pomoc techniczna dotycząca problemów **komercyjnych** jest dostępna dla wszystkich partnerów w programie CSP
+- **Pomoc techniczna** dla problemów komercyjnych jest dostępna dla wszystkich partnerów w programie CSP
 
-- Pomoc techniczna dotycząca problemów **technicznych** jest dostępna w:
+- **Pomoc techniczna** jest dostępna za pośrednictwem:
 
-  - Pomoc techniczna Premium dla partnerów (podstawa opłaty)
-  - Zaawansowana pomoc techniczna dla partnerów (podstawa opłaty)
-  - Obsługa podpisów w chmurze (uwzględnionych w kompetencjach Gold/Silver)
+  - Pomoc techniczna Premier dla partnerów (podstawa opłat)
+  - Zaawansowana pomoc techniczna dla partnerów (podstawa opłat)
+  - Signature Cloud Support (dołączone do kompetencji Gold/Silver)
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Zapewnianie rozliczeń, zarządzania subskrypcjami i pomocy technicznej 
 
-Każda usługa online ma określone i szczegółowe wymagania dotyczące udostępniania rozliczeń, zarządzania subskrypcjami i pomocy technicznej klientom. Aby uzyskać więcej informacji, zobacz:
+Każda usługa online ma specyficzne i szczegółowe wymagania dotyczące zapewniania klientom rozliczeń, zarządzania subskrypcjami i pomocy technicznej. Aby uzyskać więcej informacji, zobacz:
 
-- [Subskrypcje systemu Dynamics 365 sprzedawane za poorednictwem dostawcy usług kryptograficznych](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+- [Subskrypcje usługi Dynamics 365 sprzedawane za pośrednictwem programu CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
-- [Subskrypcje platformy Azure sprzedawane za pomocą dostawcy usług kryptograficznych](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+- [Subskrypcje platformy Azure sprzedawane za pośrednictwem programu CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
-- [Subskrypcje pakietu Office 365 sprzedawane za poorednictwem dostawcy usług kryptograficznych](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+- [Subskrypcje usługi Office 365 sprzedawane za pośrednictwem CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
 ## <a name="next-steps"></a>Następne kroki
 
