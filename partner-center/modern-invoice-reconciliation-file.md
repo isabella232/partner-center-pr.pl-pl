@@ -8,22 +8,19 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 559b5334eb23ad76fe8cc51fc1beeaa3a86c6fa1
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 85946f44e1265ad5012faf9d782609904100c80e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702794"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146259"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Pola pliku uzgodnień zakupu dla programu CSP
 
-**Odpowiednie role**
-
-- Administrator konta
-- Agent rozliczeń
+**Odpowiednie role:** Administrator konta | Agent rozliczeń
 
 ## <a name="using-the-recon-file"></a>Korzystanie z pliku rekonescji
-W poniższej tabeli przedstawiono opisy i przykładowe wartości pól w pliku uzgodnień dla zakupów tylko raz w programie CSP.
+W poniższej tabeli przedstawiono opisy i przykładowe wartości pól w pliku uzgodnień w przypadku zakupów tylko raz w programie CSP.
 
 Aby uzyskać więcej informacji na temat plików uzgodnień, zobacz [Używanie plików uzgodnień](use-the-reconciliation-files.md).
 
@@ -48,14 +45,14 @@ Aby uzyskać więcej informacji na temat plików uzgodnień, zobacz [Używanie p
 | UnitPrice | Cena za licencję opublikowana w cenniku w momencie zakupu. Upewnij się, że jest to informacja przechowywana w systemie rozliczeniowym podczas uzgadniania. | *0.045* |
 | Liczba | Liczba licencji. Upewnij się, że jest to informacja przechowywana w systemie rozliczeniowym podczas uzgadniania. | *1* |
 | Suma częściowa | Suma przed opodatkowaniem. Suma częściowa powinna być równa rozliczanej ilości pomnożonej przez efektywną cenę jednostkową. | *0* |
-| TaxTotal | Kwota podatku. Na podstawie reguł podatkowych obowiązujących na rynku i określonych okoliczności. | *0* |
+| TaxTotal | Opłata podatku. Na podstawie reguł podatkowych obowiązujących na rynku i określonych okoliczności. | *0* |
 | Łącznie | Łączna kwota jest równa sumie częściowej plus kwota podatku. | *0* |
 | Waluta | Rachunek jest generowany w kontekście waluty klienta. Oznacza to, że jeśli jesteś partnerem w transakcji z klientami z różnych rozliczanych walut, otrzymasz fakturę dla każdego typu waluty klienta.  | *EUR* |
-| PriceAdjustmentDescription | Przyczyny korekt ceny jednostkowej. Są to główne przyczyny, ale nie tylko ustalanie efektywnej ceny jednostkowej. | *["15,0% środków uzyskane przez partnerów dla usług zarządzanych"]* |
+| PriceAdjustmentDescription | Przyczyny korekt ceny jednostkowej. Są to główne przyczyny, ale nie tylko ustalanie efektywnej ceny jednostkowej. | *["15,0% środków uzyskane przez partnerów dla zarządzanych usług"]* |
 | PublisherName | Wydawca produktu.  | *Microsoft* |
 | PublisherId | Unikatowy identyfikator używany Partner Center do identyfikowania wydawcy. | *NA* |
 | SubscriptionDescription | Nazwa oferty usługi zakupionej przez klienta, zgodnie z definicją w cenniku. Ta kolumna jest identycznym polem co OfferName. | *Plan platformy Azure* |
-| SubscriptionId | Unikatowy identyfikator subskrypcji na platformie rozliczeniowej firmy Microsoft. Nie służy do uzgadniania. Należy pamiętać, że ten identyfikator nie jest taki sam jak identyfikator subskrypcji w konsoli administracyjnej partnera. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
+| SubscriptionId | Unikatowy identyfikator subskrypcji na platformie rozliczeniowej firmy Microsoft. Nie są używane do uzgadniania. Należy pamiętać, że ten identyfikator nie jest taki sam jak identyfikator subskrypcji w konsoli administracyjnej partnera. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
 | ChargeStartDate | Data rozpoczęcia okresu rozliczeniowego subskrypcji. | *9/1/2020* |
 | ChargeEndDate | Data zakończenia okresu rozliczeniowego subskrypcji. | *2020-09-30* |
 | TermAndBillingCycle | Zobowiązanie czasu trwania do kontynuowania subskrypcji w momencie zakupu. | *Dane przechowywane (GB/miesiąc)* |
@@ -72,7 +69,7 @@ Aby uzyskać więcej informacji na temat plików uzgodnień, zobacz [Używanie p
 | CreditReasonCode | Opis środków. | *Środków na korzystanie z platformy Azure* |
 
 >[!NOTE]
->Możesz uzgodnić zużycie platformy Azure w pliku rekonescji zakupu w ramach jednego zakupu. W tym celu przejdź do pliku z rekonescją dziennego użycia i wyszukaj swój subscriptionID. Spowoduje to wyświetlenie wszystkich kosztów skojarzonych z identyfikatorem planu platformy Azure. Twój azure subscriptionID jest wyświetlany jako EntitlementID.
+>Możesz uzgodnić zużycie platformy Azure w pliku rekonescji zakupu w ramach jednego zakupu. W tym celu przejdź do pliku rekonescji dziennego użycia ocenianego codziennie i wyszukaj swój subscriptionID. Spowoduje to wyświetlenie wszystkich kosztów skojarzonych z Twoim identyfikatorem planu platformy Azure. Twój azure subscriptionID jest wyświetlany jako EntitlementID.
 
 ## <a name="next-steps"></a>Następne kroki
 

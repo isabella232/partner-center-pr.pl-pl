@@ -9,18 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf0d3c38b301c363a4a990db5258cf2a3f30d487
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: da3fc23a51cc70eec91a304f14189eb191c71339
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109819383"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148112"
 ---
 # <a name="credit-limit-enforcement-cle"></a>Wymuszanie limitu środków (CLE)
 
-**Odpowiednie role**
-
-- Administrator rozliczeń
+**Odpowiednie role:** Administrator rozliczeń
 
 ## <a name="your-credit-limit-and-how-it-works"></a>Limit środków i sposób jego działania
 
@@ -34,7 +32,7 @@ Przypisujemy Limit środków na poziomie dzierżawy w okresie dołączania. Opie
 
 ## <a name="frequently-asked-questions"></a>Często zadawane pytania
 
-### <a name="is-my-credit-limit-set-at-the-tenant-or-global-level"></a>Czy limit środków został ustawiony na poziomie dzierżawy, czy globalnym?
+### <a name="is-my-credit-limit-set-at-the-tenant-or-global-level"></a>Czy limit środków został ustawiony na poziomie dzierżawy, czy na poziomie globalnym?
 
 Poziom dzierżawy. Załóżmy na przykład, że prowadzisz działalność w Stanach Zjednoczonych, Kanadzie i Japonii. Jeśli dzierżawa w Kanadzie osiągnie limit środków, ta dzierżawa otrzyma powiadomienie, gdy spróbuje dokonać zakupu w Partner Center. Nie będzie to mieć wpływu na pozostałe dzierżawy. 
 
@@ -72,7 +70,7 @@ Tak. Limity środków mają zastosowanie do wszystkich programów i produktów C
 
 ### <a name="who-will-receive-the-notification-when-my-organization-is-nearing-its-credit-limit"></a>Kto otrzyma powiadomienie, gdy moja organizacja zbliża się do limitu środków?
 
-Powiadomienie powinien otrzymać kontakt z działem ds. płatności dla konta finansowego Twojej organizacji.
+Powiadomienie powinno zostać otrzymać osoba kontaktowa ds. należności dla konta finansowego Twojej organizacji.
 
 ## <a name="next-steps"></a>Następne kroki
 

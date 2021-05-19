@@ -1,107 +1,104 @@
 ---
 title: Harmonogramy i procesy wypłaty
-description: Zapoznaj się z wypłatami i transakcjami, takimi jak harmonogramy płatności i procesy odliczeń dla komercyjnych rynków i innych transakcji.
-ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+description: Dowiedz się więcej o wypłatach i transakcjach, takich jak harmonogramy płatności i procesy ponownego przetwarzania dla platformy handlowej i innych transakcji.
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: f2ba8132677eb0a0368021b6d7065f5202589f24
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086179"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146956"
 ---
 # <a name="payout-schedules-and-processes"></a>Harmonogramy i procesy wypłaty
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator konta | Administrator globalny
 
-- Administrator konta
-- Administrator globalny
-
-W tym artykule omówiono harmonogram płatności firmy Microsoft, gdzie można znaleźć status wypłaty, a następnie proces niepłaty dla klienta.
+W tym artykule omówiono harmonogram płatności firmy Microsoft, gdzie można znaleźć stan wypłaty oraz proces braku płatności od klienta.
 
 ## <a name="payment-schedules"></a>Harmonogramy płatności
 
-W poniższych sekcjach opisano nasz proces wypłats dotyczący transakcji dotyczących **Enterprise Agreement** i **karty kredytowej/faktury** .
+W poniższych sekcjach opisano proces wypłat dla **Enterprise Agreement** transakcji **kartą kredytową/fakturą.**
 
 ### <a name="enterprise-agreement-transactions"></a>Enterprise Agreement transakcji
 
-Gdy klient kupuje produkt z Microsoft AppSource lub Azure Marketplace przy użyciu istniejących w firmie Microsoft Enterprise Agreement dla transakcji, będziemy wystawić wypłaty w następnym cyklu wypłaty w okresie 30 dni. Transakcje, w których klient używa karty kredytowej, ma 30-dniowy okres przechowywania przed wypłatą.
+Gdy klient zakupi produkt od firmy Microsoft AppSource lub Azure Marketplace przy użyciu istniejącej usługi Microsoft Enterprise Agreement dla transakcji, wystawimy wypłaty w następnym cyklu wypłat 30-dniowym po fakturze klienta. Transakcje, w których klient korzysta z karty kredytowej, mają 30-dniowy okres przechowywania przed wypłatą.
 
-Wypłata często nastąpi, zanim firma Microsoft będzie zbierać płatność od klienta. Zapoznaj się z artykułem [dotyczącym niepłatności klienta](#process-for-customer-non-payment) w przypadku akcji podejmowanych w przypadku niepowodzenia płatności przez klienta firmy Microsoft, ale wystawiłeś już wypłatę.
+Wypłata często występuje, zanim firma Microsoft zbierze płatność od klienta. Zobacz [Przetwarzanie niepłacenia](#process-for-customer-non-payment) przez klienta poniżej, aby uzyskać informacje o akcjach, które podejmiemy, jeśli klient nie zapłaci firmie Microsoft, ale wystawiliśmy już wypłatę.
 
-| Zdarzenie | Opis | Widoczność raportów | Terminy |
+| Zdarzenie | Opis | Widoczność raportowania | Chronometraż* |
 | --- | --- | --- | --- |
-| Użycie lub miesiąc transakcji | Klient korzysta z usługi lub kupuje ją. | Pulpit nawigacyjny [użycia](/azure/marketplace/partner-center-portal/usage-dashboard) lub [zamówienia](/azure/marketplace/partner-center-portal/orders-dashboard) | **Miesiąc 1** |
-| Firma Microsoft oblicza kwotę rozliczeń | Określanie łącznego użycia, łącznej liczby transakcji | Pulpit nawigacyjny [użycia](/azure/marketplace/partner-center-portal/usage-dashboard) lub [zamówienia](/azure/marketplace/partner-center-portal/orders-dashboard) | **Miesiąc 2** |
-| Opublikowano wypłaty | Ustalanie opłat za Agencję i dochodów z wypłaty | Oznaczono jako nieprzetworzony w historii transakcji w [instrukcji wypłaty](payout-statement.md) | **Miesiąc 3 (pierwszy tydzień)** |
-| Przygotuj wypłatę | Dochody są przygotowywane do miesięcznej płatności | Oznaczone jako nadchodzące w historii transakcji w [instrukcji wypłaty](payout-statement.md) | **Miesiąc 3 (pierwszy tydzień)** |
-| **Wysłane wypłaty** | **Płatność jest wysyłana do wydawcy** | **Oznaczone jako wysłane w historii transakcji i w sekcji płatności [instrukcji wypłaty](payout-statement.md)** | **Miesiąc 3 (nie później niż 15)** |
-| Faktura zapłacona przez klienta | Firma Microsoft zbiera płatność od klienta | Bez zmian | **Miesiąc od 4 do 12** |
+| Użycie lub miesiąc transakcji | Klient używa lub kupuje usługę. | [Pulpit nawigacyjny](/azure/marketplace/partner-center-portal/usage-dashboard) użycia [lub](/azure/marketplace/partner-center-portal/orders-dashboard) zamówienia | **Miesiąc 1** |
+| Firma Microsoft oblicza kwotę rozliczeniowa | Określanie łącznego użycia i łącznej liczby transakcji | [Pulpit nawigacyjny](/azure/marketplace/partner-center-portal/usage-dashboard) użycia [lub](/azure/marketplace/partner-center-portal/orders-dashboard) zamówienia | **Miesiąc 2** |
+| Opublikowana wypłata | Określanie opłat agencyjnych i zarobków wypłat | Oznaczone jako Nieprzetworzone w historii transakcji na [wyciągu z wypłat](payout-statement.md) | **3 miesiąc (1. tydzień)** |
+| Przygotowywanie wypłaty | Zarobki są przygotowane do płatności miesięcznych | Oznaczone jako Nadchodzące w historii transakcji w zestawienia [wypłat](payout-statement.md) | **3 miesiąc (1. tydzień)** |
+| **Wysłane wypłaty** | **Płatność jest wysyłana do wydawcy** | **Oznaczone jako Wysłane w historii transakcji i w sekcji Płatności zestawienia [wypłat](payout-statement.md)** | **Miesiąc 3 (nie później niż 15)** |
+| Faktura zapłacona przez klienta | Firma Microsoft zbiera płatność od klienta | Bez zmian | **Od 4 do 12 miesięcy** |
 |
 
-\* Data wypłaty przypada w czasie standardowym (PST).
+\* Data wypłaty jest w czasie pacyficznym (PST).
 
 :::image type="content" source="images/payouts/timeline-enterprise.png" alt-text="Oś czasu płatności dla klientów z umową Enterprise Agreement.":::
 
-### <a name="transactions-with-credit-card-or-invoice-checkwire"></a>Transakcje z kartą kredytową lub fakturą (test/przewód)
+### <a name="transactions-with-credit-card-or-invoice-checkwire"></a>Transakcje za pomocą karty kredytowej lub faktury (czek/przelew)
 
-Wszystkie zakupy z kartą kredytową lub fakturą miesięczną mają 30-dniowy okres przechowywania, dzięki czemu fundusze są zbierane od klienta.
+Wszystkie zakupy przy użyciu karty kredytowej lub faktury miesięcznej mają 30-dniowy okres przechowywania, aby upewnić się, że środki są zbierane od klienta.
 
-| Zdarzenie | Opis | Widoczność raportów | Terminy |
+| Zdarzenie | Opis | Widoczność raportowania | Chronometraż* |
 | --- | --- | --- | --- |
-| Użycie lub miesiąc transakcji | Klient korzysta z usługi lub kupuje ją. | Pulpit nawigacyjny [użycia](/azure/marketplace/partner-center-portal/usage-dashboard) lub [zamówienia](/azure/marketplace/partner-center-portal/orders-dashboard) | **Miesiąc 1** |
-| Faktura zapłacona przez klienta | Określanie łącznego użycia, całkowitej wartości transakcji i faktury płatnej klienta | Pulpit nawigacyjny [użycia](/azure/marketplace/partner-center-portal/usage-dashboard) lub [zamówienia](/azure/marketplace/partner-center-portal/orders-dashboard) | **Miesiąc 2** |
-| Opublikowano wypłaty | Ustalanie opłat za Agencję i dochodów z wypłaty | Oznaczono jako nieprzetworzony w historii transakcji w [instrukcji wypłaty](payout-statement.md) | **Miesiąc 2** |
-| 30-dniowy okres przechowywania | Upewnij się, że zebrano środki, możliwe obciążeń zwrotnych i zwrotne żądania | Oznaczono jako nieprzetworzony w historii transakcji w [instrukcji wypłaty](payout-statement.md) | **Miesiąc 3** |
-| Przygotuj wypłatę | Dochody są przygotowywane do miesięcznej płatności | Oznaczone jako nadchodzące w historii transakcji w [instrukcji wypłaty](payout-statement.md) | **Miesiąc 4 (pierwszy tydzień)** |
-| **Wysłane wypłaty** | **Płatność jest wysyłana do wydawcy** | **Oznaczone jako wysłane w historii transakcji i w sekcji płatności [instrukcji wypłaty](payout-statement.md)** | **Miesiąc 4 (nie później niż 15)** |
+| Użycie lub miesiąc transakcji | Klient używa lub kupuje usługę. | [Pulpit nawigacyjny](/azure/marketplace/partner-center-portal/usage-dashboard) użycia [lub](/azure/marketplace/partner-center-portal/orders-dashboard) zamówienia | **Miesiąc 1** |
+| Faktura zapłacona przez klienta | Określanie łącznego użycia, łącznej wartości transakcji i faktury opłacanej przez klienta | [Pulpit nawigacyjny](/azure/marketplace/partner-center-portal/usage-dashboard) użycia [lub](/azure/marketplace/partner-center-portal/orders-dashboard) zamówienia | **Miesiąc 2** |
+| Opublikowana wypłata | Określanie opłat agencyjnych i zarobków w wypłatach | Oznaczone jako Nieprzetworzone w historii transakcji na [wyciągu z wypłat](payout-statement.md) | **Miesiąc 2** |
+| 30-dniowy okres przechowywania | Zapewnianie zbierania środków, możliwych opłat zwrotnych i żądań zwrotu pieniędzy | Oznaczone jako Nieprzetworzone w historii transakcji na [wyciągu z wypłat](payout-statement.md) | **Miesiąc 3** |
+| Przygotowywanie wypłaty | Zarobki są przygotowane do płatności miesięcznej | Oznaczone jako Upcoming in Transaction History (Nadchodzące w historii transakcji) w [zestawienia wypłat](payout-statement.md) | **4. miesiąc (1. tydzień)** |
+| **Wysłane wypłaty** | **Płatność jest wysyłana do wydawcy** | **Oznaczone jako Wysłane w historii transakcji i w sekcji Płatności zestawienia [wypłat](payout-statement.md)** | **Miesiąc 4 (nie później niż 15)** |
 |
 
-\* Data wypłaty przypada w pacyficznym czasie standardowym (PST).
+\* Data wypłaty jest w czasie pacyficznym (PST).
 
-:::image type="content" source="images/payouts/timeline-credit-card-invoice.png" alt-text="Oś czasu płatności dla kart kredytowych i klientów faktury.":::
+:::image type="content" source="images/payouts/timeline-credit-card-invoice.png" alt-text="Oś czasu płatności dla klientów kart kredytowych i faktur.":::
 
-## <a name="process-for-customer-non-payment"></a>Proces dla niepłaty klienta
+## <a name="process-for-customer-non-payment"></a>Proces niepłacący klienta
 
-W rzadkich przypadkach firma Microsoft nie jest w stanie zebrać płatności od klientów na potrzeby zakupów w portalu Marketplace. Gdy klient nie może uregulować firmy Microsoft zgodnie z harmonogramem rozliczeń, rozpocznie się proces zbierania danych. Ten proces trwa około czterech miesięcy i obejmuje trwałą komunikację od firmy Microsoft. Jeśli płatność nie zostanie odebrana na koniec tego procesu, firma Microsoft zapisuje środki jako niezbierane.
+W rzadkich przypadkach firma Microsoft nie może zbierać płatności od klientów za zakupy na platformie handlowej. Gdy klient nie zapłaci firmie Microsoft zgodnie z harmonogramem rozliczeniowym, rozpoczynamy proces kolekcji. Ten proces trwa około czterech miesięcy i obejmuje trwałą komunikację firmy Microsoft. Jeśli płatność nie zostanie odebrana po zakończeniu tego procesu, firma Microsoft zapisze środki jako niekodowane.
 
-W ramach procesu wypłaty w tym miejscu firma Microsoft mogła już wypłacić środki na wydawców, które ostatecznie nie są zbierane. W związku z tym mamy proces uzgadniania tych kwot. Aby mieć pewność, że płatność (już otrzymana) może zostać uzgodniona, otrzymasz powiadomienie, gdy klient jest w procesie zbierania danych, a zakupy są prawdopodobnie wypisywane.
+W ramach procesu wypłaty, który został tu sformułowany, firma Microsoft może już zapłacono środki dla wydawców (Ciebie), którzy ostatecznie nie są zbierani. W związku z tym mamy proces uzgadniania tych kwot. Aby upewnić się, że masz ostrzeżenie, że płatność (już odebrana) może zostać uzgodniona, zostaniesz powiadomiona, gdy klient jest w procesie kolekcji, a zakupy prawdopodobnie zostaną zapisane.
 
-Firma Microsoft zwróci wszelkie płatne opłaty za korzystanie z jednej z następujących metod: (1) firma Microsoft może odjęciu niepłatnych kwot od przyszłych wypłat. na przykład jeśli $1 000 wypłaty są uznawane za niezbierane i odpisywane, przyszłe wypłaty zostaną wstrzymane do momentu odzyskania $1 000 lub (2) firma Microsoft może zażądać zwrotu lub wydawców faktury za jakiekolwiek niezebrane kwoty.
+Firma Microsoft będzie wycofać wszystkie wypłaty, które zostały ci już opłacone, korzystając z jednej z następujących metod: (1) Firma Microsoft może odjąć niezapłacone kwoty od przyszłych wypłat; Na przykład jeśli wypłaty w wysokości 1000 USD zostaną uznane za niekodowalne i zapisane, przyszłe wypłaty zostaną wstrzymane do momentu odzyskania kwoty 1000 USD lub (2) Firma Microsoft może zażądać zwrotu lub wydawców faktur dla wszelkich nieukońowanych kwot.
 
-Oto przykład:
+Oto przykładowy harmonogram:
 
-| Zdarzenie | Przybliżona data * | Widoczność partnerów |
+| Zdarzenie | Przybliżona data* | Widoczność partnerów |
 | --- | --- | --- |
-| Przykładowa data wypłaty | 10/15/2020 | Sekcja oznaczone jako **wysłane** w historii transakcji i w sekcji płatności na pulpicie nawigacyjnym wypłaty |
-| <font color="red">Jeśli klient nie płacisz firmie Microsoft</font> | 12/2/2020 – 12/5/2020 | Bez zmian, taka sama jak powyżej |
-| Klient otrzymuje wiadomość e-mail z pierwszą opóźnioną płatnością | 12/6/2020 | Brak |
-| Klient otrzymuje zwykłe wiadomości e-mail o rosnącej pilności | 12/7/2020 – 1/31/2021 | Brak |
-| Wydawca otrzymuje powiadomienie, że jest to prawdopodobnie | 1/7/2021 | Powiadomienie e-mail wysłane do wydawcy, że jego klient nie przesłał jeszcze płatności. Identyfikator transakcji i kwota dolara są uwzględniane. |
-| Klient otrzymuje powiadomienie o zakończeniu | 2/1/2021 | Brak |
-| Zakończenia procesu zbierania/fundusze są wypisywane | 2/15/2021 | Powiadomienie e-mail wysłane do wydawcy, że środki zostały wypisane. Identyfikator transakcji i kwota dolara są uwzględniane. |
-| Wypłata jest potrącana | 3/1/2021 | Wydawca zobaczy negatywną transakcję w zestawieniu wypłaty Centrum partnerskiego |
-| Wypłata została wstrzymana | 3/15/2021 | Przyszłe wypłaty zostaną wyświetlone w zestawieniu wypłaty w centrum partnerskim. Wydawca nie otrzyma płatności do momentu, gdy saldo nie będzie już ujemne.  |
+| Przykładowa data wypłaty | 10/15/2020 | Oznaczone jako **wysłane w** historii transakcji i w sekcji Płatności na pulpicie nawigacyjnym wypłat |
+| <font color="red">Jeśli klient nie płaci firmie Microsoft</font> | 12/2/2020 – 12/5/2020 | Bez zmian, tak samo jak powyżej |
+| Klient otrzymuje pierwszą wiadomość e-mail z opóźnieniem płatności | 12/6/2020 | Brak |
+| Klient otrzymuje regularne wiadomości e-mail o rosnącej pilności | 12/7/2020 – 1/31/2021 | Brak |
+| Wydawca jest prawdopodobnie powiadamiany o zapisie | 1/7/2021 | Wiadomość e-mail z powiadomieniem wysłanym do wydawcy, że klient jeszcze nie wysłał płatności. Uwzględniane są identyfikator transakcji i kwota w dolarach. |
+| Klient otrzymuje powiadomienie o zakończeniu działania | 2/1/2021 | Brak |
+| Proces zbierania kończy się/środki są zapisywane | 2/15/2021 | Wiadomość e-mail z powiadomieniem wysłanym do wydawcy, że środki zostały zapisane. Uwzględniane są identyfikator transakcji i kwota w dolarach. |
+| Odejmowana jest wypłata | 3/1/2021 | Wydawca zobaczy ujemną transakcję w Partner Center wypłaty |
+| Wypłata jest wstrzymana | 3/15/2021 | Przyszłe wypłaty będą wyświetlane w Partner Center wypłat. Wydawca nie otrzyma płatności, dopóki saldo nie będzie ujemne.  |
 |||
 
-\* Data wypłaty przypada w pacyficznym czasie standardowym (PST).
+\* Data wypłaty jest w czasie pacyficznym (PST).
 
-## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Liczba dni, w przypadku których płatność osiągnie konto płatne
+## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Liczba dni, przez które płatności mają dotrzeć do konta wypłaty
 
-Zwykle wysyłamy wszelkie płatności należne w danym miesiącu w piętnastym dniu tego miesiąca, ale poczekaj, aż płatność osiągnie Twoje konto. Liczba dni zależy od formy płatności używanej dla Twojego konta, zgodnie z poniższym opisem.
+Zwykle wysyłamy wszelkie płatności w danym miesiącu 15 dnia tego miesiąca, ale dotarcie płatności do Twojego konta zajmuje więcej czasu. Liczba dni zależy od formy płatności, która jest stosowana dla Twojego konta, zgodnie z poniższym opisem.
 
 > [!NOTE]
-> Pokazane poniżej dni są przybliżone; dowolna płatność może zająć więcej czasu lub dłużej.
+> Poniższe dni są przybliżone. Każda płatność może potrwać więcej lub mniej czasu, aby uzyskać dostęp do konta.
 
-| Metoda płatności     | Liczba dni do uzyskania dostępu do konta wypłaty     |
+| Metoda płatności     | Liczba dni do osiągnięcia konta wypłaty     |
 |--------------------|--------------------------------------------|
-| PayPal             | 1 dzień roboczy                             |
-| ACH/SEPA           | 2-3 dni roboczych                          |
-| Przelew      | 7-10 dni roboczych                         |
+| PayPal             | 1 dzień biznesowy                             |
+| ACH/SEPA           | 2–3 dni robocze                          |
+| Przelew      | 7–10 dni roboczych                         |
 |
 
 ## <a name="next-steps"></a>Następne kroki

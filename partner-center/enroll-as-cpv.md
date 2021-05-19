@@ -1,6 +1,6 @@
 ---
-title: Rejestracja jako dostawca panelu sterowania
-description: Dowiedz się, jak zarejestrować się jako dostawca panelu sterowania (CPV) w centrum partnerskim, aby lepiej zintegrować systemy partnerskie CSP z interfejsami API Centrum partnerskiego.
+title: Rejestrowanie jako Panel sterowania dostawcy
+description: Dowiedz się, jak zarejestrować się jako dostawca Panel sterowania (CPV) w u Partner Center, aby lepiej zintegrować systemy partnerskie programu CSP z Partner Center API.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,40 +9,38 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 01/15/2021
-ms.openlocfilehash: 5fd2267d53641fe4a0b6181217a35f0470e5bbe5
-ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
+ms.openlocfilehash: edc0ea8f0fda58f23cbce82bc7023a3277517cc3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "98560514"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147143"
 ---
-# <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>Zarejestruj się jako dostawca panelu sterowania, aby ułatwić integrację systemów partnerskich programu CSP z interfejsami API Centrum partnerskiego
+# <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>Zarejestruj się jako dostawca Panel sterowania, aby pomóc w integracji systemów partnerów programu CSP z Partner Center API
 
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny
 
-- Administrator globalny
+Dostawca Panel sterowania (CPV) to niezależny dostawca oprogramowania, który opracowuje aplikacje do użycia przez partnerów programu Dostawca rozwiązań w chmurze (CSP) w celu umożliwienia im integracji systemów z Partner Center API. Dostawca Panel sterowania nie jest partnerem CSP z bezpośrednim dostępem do pulpitu nawigacyjnego Partner Center lub Partner Center API.
 
-Dostawca panelu sterowania (CPV) to niezależny dostawca oprogramowania, który opracowuje aplikacje do użycia przez partnerów dostawcy rozwiązań w chmurze (CSP), aby umożliwić im integrację systemów z interfejsem API Centrum partnerskiego. Dostawca panelu sterowania nie jest partnerem dostawcy usług kryptograficznych, który ma bezpośredni dostęp do pulpitu nawigacyjnego Centrum partnerskiego lub interfejsów API Centrum partnerskiego.
+Niezależnie od tego, czy jesteś bieżącym dostawcą usługi Panel sterowania (CPV), czy też nowym dostawcą CPV, który chce współpracować z partnerami firmy Microsoft, firma Microsoft wymaga teraz zarejestrowania się w programie Partner Center w celu zarejestrowania aplikacji i pomocy technicznej Dostawca rozwiązań w chmurze partnerów. Aby utworzyć konto, partner CPV może użyć istniejącej dzierżawy partnera CSP lub istniejącej dzierżawy CPV albo utworzyć nową dzierżawę w ramach procesu dołączania. Jeśli partner CPV zdecyduje się na użycie istniejącej dzierżawy CSP, będzie musiał utworzyć oddzielne aplikacje wielodostępne i zarejestrować je w Partner Center dla działań CPV. Aplikacji nie można zarejestrować zarówno jako aplikacji CSP, jak i CPV. Po zarejestrowaniu w usłudze Partner Center i zarejestrowaniu aplikacji będziesz mieć dostęp do tych Partner Center API.  Jeśli potrzebujesz konta piaskownicy, skontaktuj się z firmą Microsoft za pośrednictwem Pomoc techniczna Microsoft aplikacji. Jeśli masz już konto piaskownicy, kontynuuj korzystanie z niego. Nowa piaskownica nie będzie potrzebna
 
-Bez względu na to, czy jesteś bieżącym dostawcą (CPV), czy nowym CPV, który chce współpracować z partnerami firmy Microsoft, firma Microsoft wymaga, aby zarejestrować się w centrum partnerskim w celu zarejestrowania aplikacji i obsługi partnerów dostawcy rozwiązań w chmurze. Aby utworzyć konto, partner CPV może użyć istniejącej dzierżawcy partnera CSP lub istniejącej dzierżawy CPV lub utworzyć nową dzierżawę jako część procesu dołączania. Jeśli partner CPV zdecyduje się na korzystanie z istniejącej dzierżawy CSP, należy utworzyć osobne aplikacje wielodostępne i zarejestrować je w centrum partnerskim dla działań CPV. Nie można zarejestrować aplikacji jako dostawcy usług kryptograficznych i CPV. Po zarejestrowaniu się w centrum partnerskim i zarejestrowaniu aplikacji będziesz mieć dostęp do interfejsów API Centrum partnerskiego.  Jeśli potrzebujesz konta piaskownicy, skontaktuj się z firmą Microsoft za pomocą żądania pomoc techniczna firmy Microsoft. Jeśli masz już konto piaskownicy, Kontynuuj korzystanie z niego. Nie będziesz potrzebować nowej piaskownicy
-
-Przejrzyj [umowę dostawcy panelu sterowania firmy Microsoft](https://go.microsoft.com/fwlink/?linkid=2055198)
+Zapoznaj się z [umową Panel sterowania microsoft](https://go.microsoft.com/fwlink/?linkid=2055198)
 
 
-## <a name="working-in-partner-center"></a>Praca w centrum partnerskim
+## <a name="working-in-partner-center"></a>Praca w Partner Center
 
-Po zarejestrowaniu się w doświadczeniu w centrum partnerskim i zaakceptowaniu umowy CPV można:
+Po zarejestrowaniu się w Partner Center CPV i zaakceptowaniu umowy CPV można:
 
-- Zarządzanie aplikacjami wielodostępnymi (Dodawanie aplikacji do Azure Portal, rejestrowanie i wyrejestrowywanie aplikacji w centrum partnerskim).
+- Zarządzanie aplikacjami wielodostępnych (dodawanie aplikacji do Azure Portal, rejestrowanie i wyrejestrowywuje aplikacje w Partner Center).
 
     >[!Note] 
-    >CPVs muszą zarejestrować swoje aplikacje w centrum partnerskim, aby uzyskać autoryzację dla interfejsów API Centrum partnerskiego. Dodawanie aplikacji do Azure Portal samej nie powoduje autoryzacji aplikacji CPV dla interfejsów API Centrum partnerskiego. 
+    >Procesory CPV muszą zarejestrować swoje aplikacje w Partner Center, aby uzyskać autoryzację dla Partner Center API. Dodawanie aplikacji tylko do Azure Portal nie powoduje autoryzowania aplikacji CPV dla Partner Center API. 
 
-- Wyświetl swój profil CPV i Zarządzaj nim 
+- Wyświetlanie profilu CPV i zarządzanie tym profilem 
 
-- Wyświetlaj użytkowników, którzy potrzebują dostępu do funkcji CPV, i zarządzaj nimi. Administrator globalny jest jedyną rolą, którą może mieć element CPV.
+- Wyświetlanie użytkowników, którzy potrzebują dostępu do funkcji CPV, i zarządzanie nimi. Administrator globalny jest jedyną rolą, jaką może mieć protokół CPV.
 
 ## <a name="next-steps"></a>Następne kroki
 
--[Dodawanie dodatkowych dzierżawców do konta Centrum partnerskiego](multi-tenant-account.md)
+-[Dodawanie kolejnych dzierżaw do konta Partner Center dzierżawy](multi-tenant-account.md)

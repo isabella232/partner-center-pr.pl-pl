@@ -1,50 +1,46 @@
 ---
-title: Zarządzaj oświadczeniami do współpracowników
+title: Zarządzanie zachętami — roszczenia dotyczące współpracy
 ms.topic: how-to
 ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Dowiedz się, jak inicjować zachęty do zgłaszania wniosków z Centrum partnerskiego. Możesz zobaczyć wszystkie działania, które prowadzą do kompilowania Twojego zgłoszenia w historii.
+description: Dowiedz się, jak inicjować zachęty do oświadczeń o współpracy z Partner Center. W historii można zobaczyć wszystkie działania, które trafiają do budynku roszczenia.
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9780aa80fdcaab6cfd240127b80155cbfb8dcd26
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 185d1593808bc417fa15646955a0cce683242570
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502922"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148163"
 ---
-# <a name="create-and-manage-an-incentives-co-op-claim"></a>Tworzenie i zarządzanie zgłoszeniem zachęty do współpracy
+# <a name="create-and-manage-an-incentives-co-op-claim"></a>Tworzenie roszczeń do współpracy zachęt i zarządzanie nimi
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Zachęty dla administratorów | Zachęty użytkownika
 
-- Administrator globalny
-- Administrator zachęt
-- Użytkownik zachęt
-
-Możesz zainicjować zakres bodźców z poziomu Centrum partnerskiego.
+Możesz zainicjować roszczenie zachęt z poziomu Partner Center.
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 
-2. Wybierz kartę **zachęty** , a następnie wybierz pozycję **Zarządzanie współistnieniem**.
+2. Wybierz **kartę Zachęty,** a następnie wybierz pozycję **Co-op management (Zarządzanie współpracy).**
 
-3. Jeśli masz już oświadczenie w procesie, na stronie Przegląd oświadczeń są wyświetlane informacje o stanie istniejących oświadczeń, zatwierdzonych i całkowitych środków.
+3. Jeśli roszczenie jest już w trakcie przetwarzania, strona Przegląd roszczeń zawiera informacje o stanie istniejących roszczeń i środków zatwierdzonych, roszczeń i sum.
 
-4. Aby utworzyć nowe zastrzeżenie, wybierz pozycję **Utwórz zastrzeżenie**.
+4. Aby utworzyć nowe oświadczenie, wybierz **pozycję Utwórz oświadczenie.**
 
-5. Po wypełnieniu formularza początkowego i wybraniu pozycję **Utwórz żądanie** nastąpi przekierowanie do strony szczegółów, na której będzie można dodawać faktury, CSR, dokumenty potwierdzające i metryki. W razie konieczności można także dodać dodatkowe informacje.
+5. Po wypełnieniu formularza początkowego i wybraniu opcji Utwórz roszczenie zostaniesz przekierowynyny do strony szczegółów roszczenia, na której będzie można dodać faktury, raporty CSR, dokumenty potwierdzające i metryki. W razie konieczności można także dodać dodatkowe informacje.
 
 Na stronie szczegółów roszczenia można zwrócić się do innych osób w organizacji o przekazanie dokumentacji do formularza. Do każdego przekazanego dokumentu pomocniczego można podać szczegółowe informacje. 
 
 ### <a name="manage-your-claims"></a>Zarządzanie oświadczeniami
 
-Możesz zobaczyć wszystkie działania, które prowadzą do kompilowania Twojego zgłoszenia w **historii**. Za każdym razem, gdy współpracownik dodaje dokument lub komentarze pomocnicze, akcja jest przechowywana w **historii**. Do momentu przesłania tego żądania stan jest **edytowany**. Stan Twojego zgłoszenia zmienia się w miarę jego przemieszczania przez proces zatwierdzania. Czasami podczas przeglądania zgłoszenia możesz otrzymać opinię na temat konkretnego elementu w dokumentacji potwierdzającej wykonanie (PoE). Opinie i prośby o dodatkowe informacje są również wyświetlane w historii roszczeń.
+W historii możesz zobaczyć wszystkie działania, które trafiają do budynku **roszczenia.** Za każdym razem, gdy współpracownik doda dokument lub komentarze do czegoś, akcja jest przechowywana w **historii**. Do momentu przesyłania roszczenia stanem jest **edytowanie .** Stan oświadczenia zmienia się w trakcie procesu zatwierdzania. Czasami podczas przeglądania roszczenia możesz otrzymać opinię na temat określonego elementu w dokumentacji weryfikacji wykonania(PoE). Opinie i żądania dotyczące dodatkowych informacji są również wyświetlane w historii roszczeń.
 
-Nie można edytować swojego zgłoszenia, jeśli recenzent nie zażąda dodatkowych informacji.
+Po przesłaniu roszczenia nie można edytować go, chyba że recenzent zażąda dodatkowych informacji.
 
-Aby uzyskać więcej informacji, zapoznaj się z tematem [zachęty dla partnerów Guidebook](https://assetsprod.microsoft.com/co-op-guidebook.pdf).
+Aby uzyskać więcej informacji, zobacz Przewodnik po współpracy w programie [Partner Incentives](https://assetsprod.microsoft.com/co-op-guidebook.pdf).
 
 ## <a name="next-steps"></a>Następne kroki
 

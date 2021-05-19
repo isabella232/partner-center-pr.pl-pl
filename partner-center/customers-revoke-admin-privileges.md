@@ -1,112 +1,109 @@
 ---
-title: Uzyskaj uprawnienia administratora klienta
+title: Uzyskiwanie uprawnień administratora klienta
 ms.topic: how-to
 ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Uzyskaj uprawnienia wymagane do zarządzania usługą lub subskrypcją klienta w ich imieniu. Dowiedz się, w jaki sposób uprawnienia są udzielane, odwoływane i zarządzane.
+description: Uzyskaj uprawnienia potrzebne do zarządzania usługą lub subskrypcją klienta w jego imieniu. Dowiedz się, w jaki sposób uprawnienia są udzielane, odwoływały się i zarządzane.
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 624b66c7912af1f0109b6aadeffb67c5d4e9ea4b
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 779e76d6bb3e8df679a5ca6fa8ce441e42529161
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502501"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147296"
 ---
-# <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Uzyskaj uprawnienia do zarządzania usługą lub subskrypcją klienta
+# <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Uzyskiwanie uprawnień do zarządzania usługą lub subskrypcją klienta
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator | Agent sprzedaży
 
-- Agent administracyjny
-- Agent sprzedaży
+Aby zarządzać usługą lub subskrypcją klienta w jego imieniu, klient musi przyznać Ci uprawnienia administratora do tej usługi. Aby uzyskać uprawnienia administratora od klienta, wyślij do nich wiadomość e-mail z żądaniem relacji odsprzedawcy. Po zatwierdzeniu żądania przez klienta będzie można zalogować się do portalu administracyjnego usługi i zarządzać usługą w imieniu klienta. 
 
-Aby zarządzać usługą lub subskrypcją klienta w ich imieniu, klient musi przyznać uprawnienia administratora dla tej usługi. Aby uzyskać uprawnienia administratora od klienta, Wyślij do nich wiadomość e-mail z żądaniem relacji odsprzedawcy. Po zatwierdzeniu żądania przez klienta będzie można zalogować się do portalu administratora usługi i zarządzać usługą w imieniu klienta. 
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Zapraszanie klienta do nawiązania relacji odsprzedawcy
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Zaproś klienta o nawiązanie z nim relacji odsprzedawcy
-
-1.  Wybierz pozycję **klienci** , a następnie wybierz pozycję **Żądaj relacji odsprzedawcy**.
+1.  Wybierz **pozycję Customers (Klienci),** a następnie wybierz pozycję Request a reseller **relationship (Zażądaj relacji odsprzedawcy).**
 
 2.  Na następnej stronie przejrzyj wersję roboczą wiadomości e-mail. Możesz otworzyć wersję roboczą wiadomości w domyślnej aplikacji poczty e-mail lub skopiować wiadomość do schowka i wkleić do wiadomości e-mail. 
 
     >[!IMPORTANT]
     >Tekst wiadomości można edytować, ale należy pamiętać o zachowaniu spersonalizowanego linku umożliwiającego bezpośrednie połączenie klienta z Twoim kontem. 
     
-3.  Po ukończeniu tego kroku wybierz pozycję **gotowe** .
+3.  Po **ukończeniu** tego kroku wybierz pozycję Gotowe.
 
 4.  Wyślij wiadomość e-mail do klienta.
 
-5.  Po zaakceptowaniu zaproszenia klient zostanie wyświetlony na stronie **klientów** i będzie można z niego udostępnić usługę i zarządzać nią.
+5.  Gdy klient zaakceptuje zaproszenie, pojawi się  na stronie Klienci, a ty będziesz w stanie aprowizować usługę dla klienta i zarządzać jej od tej strony.
 
-6.  Aby zarządzać kontem klienta, usługami, użytkownikami i licencjami, rozwiń rekord klienta, wybierając strzałkę w dół obok swojej nazwy, a następnie wybierając Portal administratora dla usługi, którą chcesz zarządzać.
+6.  Aby zarządzać kontem, usługami, użytkownikami i licencjami klienta, rozwiń rekord klienta, wybierając strzałkę w dół obok jego nazwy, a następnie wybierz portal administracyjny dla usługi, którą chcesz zarządzać.
 
 >[!IMPORTANT]  
->Klienci mogą ponownie przypisywać lub usuwać uprawnienia administratora w portalu administracyjnym usługi. Należy jednak poinformować klienta, że usunięcie uprawnień administratora oznacza, że nie będzie już można otworzyć żądania obsługi do firmy Microsoft w ich imieniu. Nie będzie można otwierać tych typów żądań obsługi w imieniu klienta do momentu ponownego negocjowania umowy z klientem.
+>Klienci mogą ponownie przypisać lub usuwać uprawnienia administratora w portalu administracyjnym usługi. Należy jednak poinformować klienta, że usunięcie uprawnień administratora oznacza, że nie będzie już można otworzyć żądania obsługi do firmy Microsoft w jego imieniu. Nie będzie można otworzyć tego typu żądań obsługi w imieniu klienta do czasu ponownego negocjowania umowy z klientem.
 
-Klienci mogą dowiedzieć się, którzy z partnerów mają uprawnienia administratora do swojej dzierżawy, z poziomu portalu administracyjnego pakietu Office 365. W tym celu:
+Twoi klienci mogą dowiedzieć się, którzy z partnerów mają uprawnienia administratora do swojej dzierżawy, z poziomu portalu administracyjnego usługi Office 365. W tym celu:
 
-1. Klient musi zalogować się do portalu administracyjnego pakietu Office 365 jako Administrator globalny.
+1. Klient musi zalogować się do portalu administracyjnego usługi Office 365 jako administrator globalny.
 
-2. Wybierz pozycję **Ustawienia**  >  **relacje partnera**.
+2. Wybierz pozycję **Ustawienia**  >  **Relacje partnerów.**
 
-3. Na stronie **relacje partnera** klient zobaczy listę partnerów, z którymi pracują, oraz tych, którym przyznano uprawnienia administracji delegowanej do swojej dzierżawy.
+3. Na stronie **Relacje z** partnerami klient zobaczy listę partnerów, z którymi pracuje, oraz tych, którym przyznano uprawnienia administratora delegowane do dzierżawy.
 
-## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>Klienci mogą zarządzać uprawnieniami administratora delegowanego przez partnera 
+## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>Klienci mogą zarządzać delegowanymi uprawnieniami administratora partnera 
 
-Klient może zdecydować o usunięciu z dzierżawy uprawnień administratora delegowanego, ale zachować tę relację w celu odnowienia subskrypcji i licencji. Klienci zarządzają prawami i uprawnieniami do kont Office 365 na stronie **relacje partnerów** w centrum administracyjnym pakietu Office 365. Na tej stronie klienci mogą:
+Klient może zdecydować się na usunięcie delegowanych uprawnień administratora ze swojej dzierżawy, ale zachować relację z Tobem na potrzeby odnawiania subskrypcji i licencji. Klienci zarządzają prawami i uprawnieniami do swoich kont usługi Office 365 na stronie **Relacje** partnerów w centrum administracyjnym usługi Office 365. Na tej stronie klienci mogą:
 
-- Sprawdź, z których partnerów mają relację i które partnerzy mają uprawnienia administratora delegowanego
+- Zobacz, z którymi partnerami są oni w relacji i którzy partnerzy mają delegowane uprawnienia administratora
 
-- Usuwanie z dzierżawy uprawnień do administracji delegowanej przez partnera
+- Usuwanie delegowanych uprawnień administracyjnych partnera z dzierżawy
 
-Aby usunąć uprawnienia administracji delegowanej z partnera:
+Aby usunąć delegowane uprawnienia administracyjne od partnera:
 
-1. Na stronie **relacje partnera** wybierz partnera zainteresowania.
-2. W okienku szczegółów wybierz pozycję **Usuń administratora delegowanego**.
+1. Na stronie **Relacje z** partnerami wybierz odpowiedniego partnera.
+2. W okienku szczegółów wybierz pozycję **Usuń administratora delegowanego.**
 3. W okienku potwierdzenia wybierz pozycję **Usuń**.
 
 >[!IMPORTANT]  
->Przypisania ról usługi Azure AD do partnera są niejawne. Jeśli spróbujesz wyświetlić listę członków ról usługi Azure AD przy użyciu portalu usługi Azure AD/programu PowerShell/Graf, partner nie zostanie zwrócony. Aby dowiedzieć się, czy partnerzy są przypisani do ról usługi Azure AD, należy odwołać się do strony relacje partnerów w portalu administracyjnym pakietu Office 365, aby dowiedzieć się, czy uprawnienie administracji delegowanej zostało przyznane partnerowi.
+>Przypisania ról usługi Azure AD do partnera są niejawne. Jeśli spróbujesz wyświetlić listę członków ról usługi Azure AD przy użyciu portalu usługi Azure AD/programu PowerShell/programu Graph, partner nie zostanie zwrócony. Aby dowiedzieć się, czy partnerzy są przypisani do ról usługi Azure AD, musisz zapoznać się ze stroną Relacje partnerów w portalu administracyjnym usługi Office 365, aby dowiedzieć się, czy udzielono partnerowi delegowanych uprawnień administracyjnych.
 
-## <a name="delegated-admin-privileges-in-azure-ad"></a>Uprawnienia administratora delegowanego w usłudze Azure AD 
+## <a name="delegated-admin-privileges-in-azure-ad"></a>Delegowane uprawnienia administratora w usłudze Azure AD 
 
-Istnieją dwie grupy zabezpieczeń, agenci administracyjni i agenci pomocy technicznej w dzierżawie usługi Azure AD partnera, które są używane do administracji delegowanej. Gdy klient przyznaje delegowane uprawnienia administracyjne do partnera:
+W dzierżawie usługi Azure AD partnera istnieją dwie grupy zabezpieczeń: Agenci administracyjni i Agenci pomocy technicznej, które są używane do administracji delegowanej. Gdy klient przyznaje partnerowi delegowane uprawnienia administracyjne:
 
-- Grupa agentów administracyjnych jest przypisana do roli administratora globalnego w dzierżawie usługi Azure AD klienta.
+- Grupa Agent administratora jest przypisana do roli administratora globalnego w dzierżawie usługi Azure AD klienta.
 
-- Grupa agentów pomocy technicznej jest przypisana do roli administratora pomocy technicznej w dzierżawie usługi Azure AD klienta.
+- Grupa Agent pomocy technicznej jest przypisana do roli administrator pomocy technicznej w dzierżawie usługi Azure AD klienta.
 
-W oparciu o przypisane role katalogu członkowie obu grup mogą zalogować się do dzierżawy usługi Azure AD klienta i usług O365 przy użyciu poświadczeń partnera i administratora w imieniu klienta.
+Na podstawie przypisanych ról katalogu członkowie obu grup mogą logować się do dzierżawy usługi Azure AD i usług O365 klienta przy użyciu poświadczeń partnera i administratora w imieniu klienta.
 
-Jeśli klient usunie uprawnienia administratora delegowanego, przypisania ról usługi Azure AD zostaną usunięte i nie będzie już można zarządzać dzierżawą usługi Azure AD klienta.
+Jeśli klient usunie delegowane uprawnienia administratora, przypisania ról usługi Azure AD zostaną usunięte i nie będzie już można zarządzać dzierżawą usługi Azure AD klienta.
 
-### <a name="azure-subscriptions-and-resource-management"></a>Subskrypcje i zarządzanie zasobami platformy Azure
+### <a name="azure-subscriptions-and-resource-management"></a>Subskrypcje platformy Azure i zarządzanie zasobami
 
-Każda subskrypcja platformy Azure ma swój własny zestaw ról zarządzania zasobami. Aby partner programu CSP mógł zarządzać subskrypcją platformy Azure klienta, partner musi być przypisany do co najmniej jednej roli w ramach subskrypcji platformy Azure. W szczególności:
+Każda subskrypcja platformy Azure ma własny zestaw ról zarządzania zasobami. Aby partner CSP może zarządzać subskrypcją platformy Azure klienta, należy przypisać mu co najmniej jedną rolę w ramach subskrypcji platformy Azure. W szczególności:
 
-- Gdy klient zaakceptuje zaproszenie odsprzedawcy i przyzna delegowane uprawnienia administracyjne partnerowi, partner nie uzyskuje dostępu do istniejących subskrypcji platformy Azure w ramach dzierżawy klienta.
+- Gdy klient akceptuje zaproszenie odsprzedawcy i przyznaje partnerowi delegowane uprawnienia administracyjne, partner nie uzyskuje automatycznie dostępu do istniejących subskrypcji platformy Azure w ramach dzierżawy klienta.
 
-- Gdy Partner CSP Inicjuje nową subskrypcję platformy Azure dla klienta, Grupa agenci administracyjni w ramach dzierżawcy partnera CSP automatycznie przypisze rolę właściciela w ramach subskrypcji. Na podstawie tego przypisania roli członkowie grupy mogą uzyskiwać dostęp do zasobów w ramach subskrypcji i zarządzać nimi.
+- Gdy partner CSP apowiuje nową subskrypcję platformy Azure dla klienta, do grupy Agenci administracyjni w ramach dzierżawy partnera CSP jest automatycznie przypisywana rola właściciela w ramach subskrypcji. Na podstawie tego przypisania roli członkowie grupy mogą uzyskać dostęp do zasobów w ramach subskrypcji i zarządzać nimi.
 
-- Po usunięciu przez klienta uprawnień delegowanych z partnera przy użyciu portalu pakietu Office 365 partner nadal może zarządzać subskrypcją platformy Azure klienta, o ile partner nadal jest przypisany do co najmniej jednej roli w ramach subskrypcji. Aby uniemożliwić partnerowi Zarządzanie subskrypcją platformy Azure, klient musi usunąć przypisanie roli.
+- Gdy klient usunie delegowane uprawnienia administracyjne od partnera przy użyciu portalu usługi Office 365, partner może nadal zarządzać subskrypcją platformy Azure klienta, o ile partner jest nadal przypisany do co najmniej jednej roli w ramach subskrypcji. Aby zatrzymać partnera w zarządzaniu subskrypcją platformy Azure, klient musi usunąć przypisanie roli.
 
 ## <a name="windows-autopilot"></a>Windows Autopilot
 
-W centrum partnerskim partnerzy CSP mogą zarządzać profilami autopilotażu dla swoich klientów bez uprawnień administratora delegowanego w następujących okolicznościach: 
+Z Partner Center CSP partnerzy mogą zarządzać profilami rozwiązania Autopilot dla swoich klientów bez delegowanych uprawnień administratora w takich okolicznościach: 
 
-- Jeśli klient usunie uprawnienia administratora delegowanego, ale zachowuje związek z odsprzedawcą, można nadal zarządzać profilami autopilotażu.
+- Jeśli klient usunie delegowane uprawnienia administracyjne, ale zachowa relację odsprzedawcy z Toem, możesz nadal zarządzać profilami rozwiązania Autopilot.
 
-- Można zarządzać urządzeniami klienta, które zostały dodane przez Ciebie lub innego partnera. 
+- Możesz zarządzać urządzeniami klientów dodanymi przez Ciebie lub innego partnera. 
 
-- Nie możesz zarządzać urządzeniami, które zostały dodane przez klienta za pomocą Microsoft Store dla firm, Microsoft Store do edukacji lub portalu Microsoft Intune.
+- Nie można zarządzać urządzeniami dodanymi przez klienta za pośrednictwem witryny Microsoft Store dla Firm, Microsoft Store dla Instytucji Edukacyjnych lub Microsoft Intune Portal.
 
-Aby uzyskać więcej informacji na temat autopilotażu, zobacz [uproszczenie konfiguracji urządzenia za pomocą autopilotażu systemu Windows](autopilot.md).
+Aby uzyskać więcej informacji na temat rozwiązania Autopilot, zobacz [Simplify device setup with Windows Autopilot (Upraszczanie konfiguracji urządzenia za pomocą Windows Autopilot).](autopilot.md)
 
 >[!IMPORTANT]  
->Bieżące środowisko zarządzania autopilotażem w centrum partnerskim może nadal ulec zmianie. Po opublikowaniu tego artykułu są brane pod uwagę następujące zmiany:
+>Bieżące środowisko zarządzania rozwiązaniem Autopilot w Partner Center może nadal ulec zmianie. W momencie opublikowania tego artykułu rozważane są następujące zmiany:
 
-- Aby partner mógł dodać/zaktualizować/usunąć profile i zastosować/wyeliminować profil z dowolnych urządzeń w dzierżawie klienta, musi mieć przyznane uprawnienia administracyjne delegowane przez klienta.
+- Partner musi uzyskać delegowane uprawnienia administracyjne przez klienta, aby partner może dodawać/aktualizować/usuwać profile i stosować/usuwać profil z dowolnych urządzeń w dzierżawie klienta.
 
-- Przed usunięciem przez partnera urządzeń dodanych przez partnerów lub klienta w dzierżawie klienta należy przyznać partnerowi uprawnienia administratora delegowanego. W przeciwnym razie partner może usunąć tylko te urządzenia, które zostały dodane wcześniej przez tego samego partnera.
+- Partner musi uzyskać delegowane uprawnienia administracyjne przez klienta, aby partner może usunąć urządzenia dodane przez innych partnerów lub przez klienta w dzierżawie klienta. W przeciwnym razie partner może usunąć tylko urządzenia dodane wcześniej przez tego samego partnera.

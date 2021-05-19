@@ -1,6 +1,6 @@
 ---
 title: Zarządzanie roszczeniami związanymi ze współpracą
-description: Zapoznaj się z procesem oświadczeń współpracujących, w tym terminami, problemami z walutą i sposobami sporu odrzuconego oświadczenia współdziałania.
+description: Poznaj proces roszczeń dotyczących współpracy, w tym terminy, problemy z walutą i sposób zakwestionowania odrzuconego roszczenia o współpracy.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
@@ -8,38 +8,36 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 10/29/2020
-ms.openlocfilehash: 29e67bbeca2b136146a1d9d1ee7eef4d0f9d3b0c
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 952a6b327dd31b1155efe3c08bb52f9b300b0a93
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179160"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146769"
 ---
-# <a name="manage-incentives-co-op-claims"></a>Zarządzaj oświadczeniami do współpracowników
+# <a name="manage-incentives-co-op-claims"></a>Zarządzanie zachętami — roszczenia dotyczące współpracy
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator zachęt
 
-- Administrator zachęt
+Następująca zawartość zawiera informacje dotyczące zarządzania roszczeniami o współpracy, w tym osie czasu, reguły i sposób zakwestionowania odrzuconego roszczenia współpracy.
 
-Poniższa zawartość zawiera informacje służące do zarządzania oświadczeniami operacji współpracujących, w tym na osiach czasu, regułach i sposobach sporu odrzuconego oświadczenia współdziałania.
+## <a name="co-op-claims-approval-and-payment-deadlines"></a>Zatwierdzanie roszczeń o współpracy i terminy płatności
 
-## <a name="co-op-claims-approval-and-payment-deadlines"></a>Zatwierdzenie oświadczeń i termin płatności dla operacji współpracujących
+### <a name="when-will-my-co-op-claim-be-approved"></a>Kiedy moje roszczenie o współpracy zostanie zatwierdzone?
 
-### <a name="when-will-my-co-op-claim-be-approved"></a>Kiedy będzie można zatwierdzić moje zgłoszenie?
+Roszczenia dotyczące współpracy są sprawdzane w ciągu dwóch dni roboczych od ich przesłania. Gdy zostaną uznane za prawidłowe, zostaną one ustawione na stan Zatwierdzone.  
 
-Oświadczenia współpracujące są przeglądane w ciągu dwóch dni roboczych od ich przesłania. Gdy zostaną uznane za prawidłowe, zostaną one ustawione na stan zatwierdzone.  
-
-Poniżej przedstawiono różne możliwe stany dla oświadczeń współpracujących.
+Poniżej przedstawiono różne możliwe stany oświadczeń współpracy.
 
 - Przesłane
 - W trakcie przeglądu
-  - Firma Microsoft przeprowadzi przegląd w ciągu dwóch dni roboczych od zgłoszenia wniosku. Jeśli Twój stan jest objęty przeglądem dłuższym niż dwa dni, skontaktuj się z [pomocą techniczną](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+  - Firma Microsoft ukończy przegląd w ciągu dwóch dni roboczych od przesłanego roszczenia. Jeśli Twój stan jest przeglądany dłużej niż dwa dni, skontaktuj się z pomocą [techniczną.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
 - Wymagana akcja
 - Edytowanie
 - Approved (Zatwierdzono)
 - Odrzucone
 
-## <a name="co-op-claim-payments"></a>Płatności z tytułu współdziałania
+## <a name="co-op-claim-payments"></a>Płatności roszczeń w ramach współpracy
 
 ### <a name="when-will-i-get-the-payment-for-the-approved-co-op-claim"></a>Kiedy otrzymam płatność z tytułu zatwierdzonego roszczenia dotyczącego współpracy?
 
@@ -53,17 +51,17 @@ Gdy środki z tytuły współpracy są uzyskiwane z różnych jednostek firmy Mi
 
 Każdy program zachęt ma profil bankowy, który został utworzony podczas konfigurowania. Waluta określona w tym profilu jest walutą, w której będą realizowane wypłaty.
 
-## <a name="rejected-co-op-claims"></a>Odrzucone oświadczenia współpracy
+## <a name="rejected-co-op-claims"></a>Odrzucone roszczenia dotyczące współpracy
 
-Jeśli materiały przesłane wraz z roszczeniem dotyczącym współpracy zostaną uznane za niewystarczające, roszczenie zostanie odrzucone. Przyczyny odrzucenia można wyświetlić w polu **Historia** na stronie roszczeń dotyczących współpracy. Aby zgłosić odrzucenie, należy wykonać poniższą procedurę:
+Jeśli materiały przesłane wraz z roszczeniem dotyczącym współpracy zostaną uznane za niewystarczające, roszczenie zostanie odrzucone. Przyczyny odrzucenia można wyświetlić w polu **Historia** na stronie roszczeń dotyczących współpracy. Aby zakwestionować odrzucenie, użyj następującej procedury:
 
 ### <a name="dispute-a-rejected-co-op-claim"></a>Kwestionowanie odrzuconego roszczenia dotyczącego współpracy
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 
-2. W obszarze **zachęty** wybierz pozycję **Zarządzanie współobsługą**.
+2. W **obszarze Zachęty** wybierz pozycję **Zarządzanie współpracy.**
 
-3. Wybierz roszczenie dotyczące współpracy, które chcesz zakwestionować. Zostanie otwarta strona żądania współdziałania.
+3. Wybierz roszczenie dotyczące współpracy, które chcesz zakwestionować. Zostanie otwarta strona roszczenia współpracy.
 
 4. W dolnej części strony wybierz pozycję **Zakwestionuj**.
 

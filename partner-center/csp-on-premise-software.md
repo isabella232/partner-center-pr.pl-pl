@@ -1,87 +1,84 @@
 ---
-title: Sprzedawanie oprogramowania lokalnego za poorednictwem dostawcy usług kryptograficznych
+title: Sprzedaż oprogramowania lokalnego za pośrednictwem programu CSP
 ms.topic: how-to
 ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, w jaki sposób partnerzy w programie CSP mogą kupować, sprzedawać i anulować lokalne subskrypcje oprogramowania w imieniu klientów w centrum partnerskim.
+description: Dowiedz się, jak partnerzy w programie CSP mogą kupować, sprzedawać i anulować lokalne subskrypcje oprogramowania oraz zarządzać nimi w imieniu klientów w Partner Center.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 650f8085ba0e204b01f97a23640a37388ef57f17
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: fc082f40a778d09e96f6f8cb5a563197e2de6f18
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475215"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147619"
 ---
-# <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Sprzedawanie oprogramowania lokalnego za pomocą programu Cloud Solution Provider (CSP)
+# <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Sprzedaż oprogramowania lokalnego za pośrednictwem programu Dostawca rozwiązań w chmurze (CSP)
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator | Administrator globalny
 
-- Agent administracyjny
-- Administrator globalny
-
-Oprogramowanie lokalne w programie CSP obsługuje płynne przejście do chmury, wprowadzając oprogramowanie lokalne w programie ukierunkowanym na chmurę.Ta nowa oferta ułatwia partnerowi dołączenie wartości do każdego scenariusza zakupów, ponieważ zapewniają one jedną platformę do transactu wszystkich produktów firmy Microsoft. Jako dostawca usług kryptograficznych możesz teraz sprzedawać oprogramowanie lokalne za pomocą Centrum partnerskiego oprócz otwartych, EA i innych programów, które są obecnie używane.  
+Oprogramowanie lokalne w programie CSP obsługuje bezproblemowe przejście do chmury przez wprowadzenie oprogramowania lokalnego w programie skoncentrowanym na chmurze.Ta nowa oferta ułatwia dodanie partnera o wartości dodanej do każdego scenariusza zakupu, ponieważ zapewnia jedną platformę do transakcji wszystkich produktów firmy Microsoft. Jako CSP możesz teraz sprzedawać oprogramowanie lokalne za pośrednictwem usługi Partner Center jako dodatek do programów Open, EA i innych, które są obecnie w użyciu.  
  
-Przy zapewnieniu najlepszej ogólnej wartości klienta przy użyciu opcji lokalnego licencjonowania oprogramowania firma Microsoft opracowała również model biznesowy jako przyjazny dla partnera. Niebezpośrednie Licencjonowanie oprogramowania lokalnego w oprogramowaniu CSP oznacza przewidywalność kosztów i usprawniony proces sprzedaży. Ten nowy model biznesowy ułatwia pozyskiwanie, zarządzanie i korzystanie z oprogramowania dla klientów, co pozwala skupić się na zdobywaniu biznesowej z rozwiniętym portfelem rozwiązań do zarządzania IT.
+Zapewniając najlepszą ogólną wartość klienta przy użyciu opcji licencjonowania oprogramowania lokalnego, model biznesowy został również tak przyjazny dla partnerów, jak to tylko możliwe. Proste licencjonowanie oprogramowania lokalnego w programie CSP oznacza przewidywalność kosztów i usprawniony proces sprzedaży. Ten nowy model biznesowy ułatwia klientom nabywanie i wycenę lokalnego oprogramowania oraz zarządzanie nim, co pozwala skoncentrować się na zdobyciu korzyści biznesowych dzięki rozbudowanym portfolio rozwiązań do zarządzania zasobami IT o wartości dodanej.
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Kupowanie subskrypcji oprogramowania w imieniu klientów
 
-Aby kupić subskrypcje oprogramowania w imieniu klienta, przejdź do strony szczegółów klienta, wybierz pozycję Dodaj produkty, a następnie postępuj zgodnie z instrukcjami wyświetlanymi na ekranie, aby utworzyć i uregulować zamówienie.
+Aby kupić subskrypcje oprogramowania w imieniu klienta, przejdź do strony szczegółów klienta, wybierz pozycję Dodaj produkty, a następnie postępuj zgodnie z wyświetlanymi instrukcjami, aby utworzyć zamówienie i zapłacić za nie.
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktywowanie subskrypcji oprogramowania i zarządzanie nimi
 
-Po zakupieniu oprogramowania ty lub klienci muszą pobrać ją (partnerzy przy użyciu Centrum partnerskiego), korzystając z centrum administracyjnego Microsoft 365. Użyj poniższej procedury w tym celu. Ważne jest, aby zrozumieć ryzyko związane z kopiowaniem linków i pobieraniem oprogramowania. Aby uzyskać więcej informacji, zobacz **Korzystanie z Centrum partnerskiego w celu uzyskania pobrań oprogramowania i kluczy licencji klienta** w [centrum partnerskim — nowy Przewodnik obsługi transakcji](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
+Po zakupie oprogramowania Ty lub Twoi klienci muszą je pobrać (partnerzy korzystający z usługi Partner Center; klienci korzystający z centrum Microsoft 365 administracyjnego). Użyj poniższej procedury w tym celu. Ważne jest, aby zrozumieć czynniki ryzyka związane z kopiowaniem linków i pobieraniem oprogramowania. Aby uzyskać więcej informacji, zobacz Używanie usługi **Partner Center** do pobierania oprogramowania klienta i kluczy licencji w [Partner Center New Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
 >[!NOTE]
->Aby uzyskać link do kluczy i plików do pobrania, musisz być agentem administracyjnym w centrum partnerskim.
+>Musisz być agentem administratora w Partner Center, aby uzyskać link do kluczy i plików do pobrania.
 
-1. Przejdź do strony szczegółów klienta, a następnie wybierz pozycję **oprogramowanie**. Zostanie wyświetlona lista wszystkich programów zakupionych w imieniu klienta.
+1. Przejdź do strony szczegółów klienta, a następnie wybierz pozycję **Oprogramowanie**. Zostanie wyświetlona lista wszystkich programów zakupionych w imieniu klienta.
 
-2. Wybierz pozycję **wersja** produktu, **Język**, **bit**, a następnie wybierz pozycję **Pobierz klucze i pliki do pobrania**. 
+2. Wybierz wersję **produktu,** **język,** **bit** i wybierz pozycję **Pobierz klucze i pliki do pobrania.** 
 
-3. Wybierz pozycję **Pobierz klucz** , aby wyświetlić 32-cyfrowy produkt w oknie dialogowym podręcznym, który można skopiować i wysłać do klienta. 
+3. Wybierz **pozycję Pobierz klucz,** aby wyświetlić 32-cyfrowy produkt w oknie podręcznym, które można skopiować i wysłać do klienta. 
 
-4. Wybierz pozycję **Pobierz** , aby pobrać bity. 
+4. Wybierz **pozycję Pobierz,** aby pobrać bity. 
 
-5. Wybierz pozycję **Kopiuj link** , jeśli chcesz wysłać klientowi link do pobierania usługi BITS. 
+5. Wybierz **pozycję Kopiuj link,** jeśli chcesz wysłać klientowi link do pobierania bitów. 
 
-6. Możesz również **anulować** kolejność oprogramowania i otrzymać środki na 100% (jeśli zostało to zrobione w okresie zasad anulowania 60 dni).
+6. Możesz również **anulować** zamówienie na oprogramowanie i otrzymać 100% środków (jeśli zostanie to zrobione w okresie 60 dni od anulowania).
 
 >[!NOTE]
->Tylko klienci mają dostęp do informacji o kluczach produktów i pobieraniu w centrum administracyjnym Microsoft 365 (wymagana rola administratora globalnego). Aby wyświetlić te informacje, partnerzy muszą korzystać z Centrum partnerskiego.
+>Tylko klienci mają dostęp do uzyskiwania dostępu do kluczy produktów i pobierania informacji w centrum administracyjnym Microsoft 365 (wymagana jest rola administratora globalnego). Partnerzy muszą użyć Partner Center, aby wyświetlić te informacje.
 
 ## <a name="cancel-a-purchase"></a>Anulowanie zakupu
 
-Aby anulować zakup, należy wykonać czynności opisane w poniższej procedurze. Po zakończeniu anulowania klucz oprogramowania zostanie odwołany.
+Aby anulować zakup, użyj poniższej procedury. Po zakończeniu anulowania klucz oprogramowania zostanie odwołany.
 
 >[!NOTE]
->Aby anulować zakup, musisz być agentem administracyjnym. 
+>Aby anulować zakup, musisz być agentem administratora. 
 
 1.  Przed rozpoczęciem procesu upewnij się, że masz następujące elementy: 
-    - Identyfikator GUID lub nazwa domeny dzierżawy klienta
-    - Identyfikator zamówienia lub Identyfikator subskrypcji
+    - Identyfikator GUID dzierżawy klienta lub nazwa domeny
+    - Identyfikator zamówienia lub subskrypcji
     - Przyczyna zwrotu pieniędzy
     - Żądana kwota
 
-2.  Na stronie Szczegóły klienta wybierz pozycję **oprogramowanie**. Zostanie wyświetlona lista wszystkich zakupionych programów. 
+2.  Na stronie szczegółów klienta wybierz pozycję **Oprogramowanie**. Zostanie wyświetlona lista wszystkich zakupionych programów. 
 
-3.  Znajdź oprogramowanie, które chcesz anulować, i wybierz pozycję **Anuluj**. Zostanie otwarta strona **Zgłoś problem z centrum partnerskim** . 
+3.  Znajdź oprogramowanie, które chcesz anulować, a następnie wybierz pozycję **Anuluj.** Zostanie **otwarta strona Zgłoś problem Partner Center** aplikacji. 
 
-4.  W obszarze **szczegóły** na liście **typ problemu** wybierz opcję **zakup dostawcy CSP/zwrot w imieniu klientów**.
+4.  W **obszarze** Szczegóły na **liście Typ problemu** wybierz pozycję **CSP Purchase/Refund on behalf of customers (Zakup/zwrot w imieniu klientów).**
 
-5.  Wypełnij pola **wpływ** i **tytuł** . 
+5.  Wypełnij pola  Wpływ **i** Tytuł. 
 
-6.  W polu **Opis** podaj następujące elementy: 
-    -   Identyfikator GUID lub nazwa domeny dzierżawy klienta
-    -   Identyfikator zamówienia lub Identyfikator subskrypcji
+6.  W **polu** Opis podaj następujące informacje: 
+    -   Identyfikator GUID dzierżawy klienta lub nazwa domeny
+    -   Identyfikator zamówienia lub subskrypcji
     -   Przyczyna zwrotu pieniędzy
     -   Żądana kwota
 
-7.  W polu **kontakt** Wprowadź imię i nazwisko, adres e-mail i numer telefonu. 
+7.  W polu **Kontakt** wprowadź swoje imię i nazwisko, adres e-mail i numer telefonu. 
 
-8.  Jeśli konieczne jest dołączenie pliku z dowolnego powodu, wybierz pozycję **Dodaj pliki**. Ta czynność jest opcjonalna. 
+8.  Jeśli z jakiegoś powodu musisz dołączyć plik, wybierz **pozycję Dodaj pliki.** Ta czynność jest opcjonalna. 
 
-9.  Gdy skończysz, wybierz pozycję **Prześlij**.
+9.  Po zakończeniu wybierz pozycję **Prześlij.**

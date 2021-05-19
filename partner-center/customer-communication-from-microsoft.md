@@ -9,22 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 6de0d50364930999a7d0f335016a7c5a1864d8ab
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 407b133d37d3f1c3ca46c8a9c15b3a75e93f2922
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284353"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147449"
 ---
 # <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Wskazówki dotyczące pomyślnej komunikacji z firmą Microsoft
 
-**Dotyczy**
+**Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Centrum partnerskie Microsoft Cloud for US Government
-
-**Odpowiednie role**
-
-- Agent pomocy technicznej
+**Odpowiednie role:** Agent pomocy technicznej
 
 Ogólnie rzecz biorąc, oczekujemy, że cała komunikacja z klientem będzie pochodzić od Dostawca rozwiązań w chmurze partnerskiego. Ponieważ jesteś właścicielem relacji rozliczeń klienta, firma Microsoft nie będzie wysyłać wiadomości bezpośrednio do klientów związanych z ich subskrypcjami.
 

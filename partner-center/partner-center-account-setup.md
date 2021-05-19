@@ -9,30 +9,27 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b59d18a62ce6a775e97f88708467d07e9c351a66
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 6c5acad01490ca679fa0761aa015fe0142e476bd
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740390"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146378"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Zarządzanie kontem Partner Center — profilem firmy, informacjami o banku, rolami, uprawnieniami i nie tylko
 
-**Odpowiednie role** 
+**Odpowiednie role:** Administrator globalny | Administrator konta
 
-- Administrator globalny
-- Administrator konta
+Konto, które tworzysz na Partner Center rejestracji, to służbowy adres e-mail oraz informacje biznesowe. Po utworzeniu konta zakończysz konfigurowanie pełnego profilu firmy, w tym szczegółów pomocy technicznej, w razie potrzeby zwolnienia z podatku oraz podstawowych informacji kontaktowych. Konto firmy będzie również obejmować konta użytkowników dla wszystkich członków zespołu, którzy będą korzystać z Partner Center. Praca, która może obejmować dodawanie klientów lub zarządzanie nimi, sprzedaż subskrypcji, pracę z rozliczeniami i fakturowaniem, tworzenie profilów biznesowych, zarządzanie poleceniami, pracę z programami zachęt, zapewnianie pomocy technicznej i nie tylko.
 
-Konto, które tworzysz w Partner Center rejestracji, to służbowy adres e-mail oraz informacje biznesowe. Po utworzeniu konta zakończysz konfigurowanie pełnego profilu firmy, w tym szczegóły pomocy technicznej, w razie potrzeby zwolnienia z podatku oraz podstawowe informacje kontaktowe. Konto firmy będzie również obejmować konta użytkowników dla wszystkich użytkowników w Twoim zespole, którzy będą używać Partner Center. Praca, która może obejmować dodawanie klientów lub zarządzanie nimi, sprzedaż subskrypcji, pracę z rozliczeniami i fakturowaniem, tworzenie profilów biznesowych, zarządzanie poleceniami, pracę z programami zachęt, zapewnianie pomocy technicznej i nie tylko.
-
-Zobacz też artykuły [Invite employees to join Partner Center (Zapraszanie pracowników do dołączenia do zespołu)](guide-to-migration.md) [i Add a new user (Dodawanie nowego użytkownika).](create-user-accounts-and-set-permissions.md)
+Zobacz też artykuły [Invite employees to join Partner Center (Zapraszanie](guide-to-migration.md) pracowników do dołączenia do zespołu) [i Add a new user (Dodawanie nowego użytkownika).](create-user-accounts-and-set-permissions.md)
 
 >[!NOTE]
->Menu Ustawienia konta zmieni się w zależności od programów, w których użytkownik jest zarejestrowany. Jeśli na przykład jesteś partnerem w programie Dostawca rozwiązań w chmurze Program (CSP), możesz zarządzać usługami udostępnionym platformy Azure za pomocą **ustawień konta**.
+>Menu Ustawienia konta zmieni się w zależności od programów, w których użytkownik jest zarejestrowany. Jeśli na przykład jesteś partnerem w programie Dostawca rozwiązań w chmurze Program (CSP), będziesz w stanie zarządzać usługami udostępnionym platformy Azure za pomocą **ustawień konta**.
 
 ## <a name="account-management"></a>Zarządzanie kontami
 
-Wszyscy partnerzy komercyjni i programujący mają dostęp do zarządzania kontami w programie Partner Center, logując się do pulpitu nawigacyjnego usługi Partner Center i wybierając pozycję Ustawienia **(ikona** koła zębatego) w prawym górnym rogu ekranu, [a](https://partner.microsoft.com/dashboard) następnie pozycję **Ustawienia konta.**  Nie trzeba już wybierać między ustawieniami Partner i Deweloper. Wszystkie profile i ustawienia są teraz połączone.
+Wszyscy partnerzy komercyjni i programowi mają dostęp do zarządzania kontami w programie Partner Center, logując się do pulpitu nawigacyjnego programu Partner Center i wybierając pozycję Ustawienia **(ikona** koła zębatego) w prawym górnym rogu ekranu, [a](https://partner.microsoft.com/dashboard) następnie pozycję **Ustawienia konta.**  Nie trzeba już wybierać między ustawieniami Partner i Deweloper. Wszystkie profile i ustawienia są teraz połączone.
 
 :::image type="content" source="images/accountsettings/opening.png" alt-text="ikona ustawień":::
 
@@ -42,35 +39,35 @@ Zostanie wyświetlona strona ustawień konta.
 
 ### <a name="locate-your-mpn-id"></a>Lokalizowanie identyfikatora MPN
 
-Bez względu na to, czy jesteś partnerem, czy deweloperem, użyj identyfikatora MPN na przykład do rejestrowania biletów pomocy technicznej. Identyfikator MPN znajduje się na stronie **Informacje prawne.** Można go również znaleźć w profilu **tożsamości**.
+Bez względu na to, czy jesteś partnerem, czy deweloperem, użyj swojego identyfikatora MPN na przykład w celu rejestrowania biletów pomocy technicznej. Identyfikator MPN znajduje się na stronie **Informacje prawne.** Można go również znaleźć w profilu **tożsamości**.
 
 ## <a name="account-settings---partners-resellers"></a>Ustawienia konta — partnerzy, odsprzedawcy
 
-Po wybraniu  ikony Ustawienia i otwarciu **menu** Ustawienia konta domyślny widok, jeśli firma jest  częścią programu Dostawca rozwiązań w chmurze, to Informacje prawne z dwiema kartami: **Partner** i **Odsprzedawca.** Każda karta zawiera aspekty twojej firmy.
+Po wybraniu  ikony Ustawienia i otwarciu **menu** Ustawienia konta domyślnym widokiem, jeśli firma jest  częścią programu Dostawca rozwiązań w chmurze, są informacje prawne z dwiema kartami: **Partner** i **Odsprzedawca.** Każda karta zawiera aspekty twojej firmy.
 
-:::image type="content" source="images/accountsettings/reseller.png" alt-text="Menu zawiera karty Partner i Odsprzedawcy":::
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="Menu zawiera karty partnerów i odsprzedawców":::
 
-Karta Partner zawiera wszystkie informacje prawne, takie jak zarejestrowana nazwa prawna i adres firmy, a także podstawowe informacje kontaktowe i lokalizacje biznesowe. Karta Reseller (Odsprzedawca) dla partnerów wykonujących działalność w firmie CSP zawiera **profil Customer support (Pomoc techniczna dla klientów).**
+Karta Partner zawiera wszystkie informacje prawne, takie jak zarejestrowana nazwa prawna i adres firmy, a także podstawowe informacje kontaktowe i lokalizacje biznesowe. Karta Reseller (Sprzedawca) dla partnerów wykonujących działalność w programie CSP zawiera **profil Customer support (Pomoc techniczna dla klientów).**
 
-Jeśli Firma nie uczestniczy w programie CSP, w widoku domyślnym będzie pokazywana tylko karta **Partner,** która będzie zawierać profil **pomocy technicznej klienta**.
+Jeśli Twoja firma nie uczestniczy w programie CSP, w widoku domyślnym będzie pokazywana tylko karta **Partner,** która będzie zawierać profil **pomocy technicznej klienta**.
 
 ### <a name="when-you-are-in-more-than-one-account"></a>Jeśli masz więcej niż jedno konto
 
-Możesz być częścią więcej niż jednego konta. Możesz sprawdzić, czy należysz do wielu kont, korzystając z s wyboru konta w menu nawigacji po lewej stronie.
+Możesz być częścią więcej niż jednego konta. Możesz sprawdzić, czy jesteś częścią wielu kont, korzystając z s wyboru konta w menu nawigacji po lewej stronie.
 
 :::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identyfikowanie s wyboru konta":::
 
 Jeśli nie widzisz s wyboru konta, należysz tylko do jednego konta. 
 
-Po wybraniu tego selektora wszystkie konta, których jesteś częścią, zostaną wyświetlone jako lista. Następnie możesz wybrać dowolne z nich i przełączyć się na to konto. Wszystko po tym pojawia się w kontekście tego konta.  
+Po wybraniu tego selektora wszystkie konta, których jesteś częścią, zostaną wyświetlone jako lista. Następnie możesz wybrać dowolną z nich i przełączyć się na to konto. Wszystko po tym pojawia się w kontekście tego konta.  
 
-W poniższym przykładzie zalogowany użytkownik jest częścią trzech wyróżnione konta. Użytkownik może się między nimi przełączać, klikając konto.
+W poniższym przykładzie zalogowany użytkownik jest częścią trzech wyróżnione konta. Użytkownik może przełączać się między nimi, klikając konto.
 
 :::image type="content" source="images/accountsettings/picker-two.png" alt-text="Konta, do których należysz":::
 
 ## <a name="organization-profile"></a>Profil organizacji
 
-Za pomocą tych stron można zarządzać obszarami szczegółowej działalności firmy, w tym z legalnym profilem biznesowym, profilem partnera i dzierżawami. Zarządzaj każdym obszarem oddzielnie. Zostały one opisane poniżej. 
+Za pomocą tych stron można zarządzać obszarami szczegółowej działalności firmy, w tym z profilem biznesowym z prawem, profilem partnera i dzierżawami. Zarządzaj każdym obszarem oddzielnie. Zostały one opisane poniżej. 
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Menu informacje prawne.":::
 
@@ -82,7 +79,7 @@ Po pierwszym dołączeniu Partner Center firma przechodzi proces weryfikacji z f
 
 Możesz sprawdzić profil firmy lub wprowadzić informacje firmowe ręcznie. Jeśli Twoja firma jest zarejestrowana w [firmie Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)użyj identyfikatora DUNS, aby sprawdzić informacje o firmie. Jeśli chcesz samodzielnie podać szczegóły swojej firmy, wybierz pozycję **Ręcznie.**
 
-Jeśli Twoja firma znajduje się w **Stanach, Kolumbii,** **Kyrgyzstanie,** **Nacji,** **Przemysku** lub **Rosji,** a Twój adres zostanie podany ręcznie, zweryfikujemy Twój adres. Jeśli ten, który wprowadzasz, różni się od zweryfikowanego adresu, zalecamy użycie zweryfikowanego adresu. Weryfikacja gwarantuje, że adres jest dokładny i można go wysłać.
+Jeśli Twoja firma znajduje się w **Stanach, Kolumbii,** **Kyrgyzstanie,** Naimnej, **Kolumbii** lub **Rosji,** a Twój adres zostanie podany ręcznie, zweryfikujemy Twój adres.  Jeśli ten, który wprowadzasz, różni się od zweryfikowanego adresu, zalecamy użycie zweryfikowanego adresu. Weryfikacja gwarantuje, że adres jest dokładny i można go wysłać.
 
 ### <a name="primary-contact-email"></a>Podstawowa wiadomość e-mail kontaktowa
 
@@ -92,11 +89,11 @@ Dowiedz się więcej na [temat weryfikacji i informacji o koncie.](verification-
 
 ### <a name="tenants-profile"></a>Profil Dzierżawy
 
-Ta strona zawiera wszystkie informacje o dzierżawach usługi Azure AD, zarówno komercyjnych, jak i deweloperach. W tym profilu administrator globalny może skojarzyć nowe dzierżawy z kontem globalnym partnera.
+Ta strona zawiera wszystkie informacje o dzierżawach usługi Azure AD, zarówno komercyjnych, jak i deweloperowych. W tym profilu administrator globalny może skojarzyć nowe dzierżawy z kontem globalnym partnera.
 
 ### <a name="identifiers"></a>Identyfikatory
 
-Ta strona zawiera Partner Center tożsamości firmowe: identyfikatory MPN, identyfikatory wydawców, identyfikatory wydawców systemu Windows i inne.  Każdy obszar można rozszerzyć i edytować w taki sposób, aby na przykład można było łatwo zlokalizować główny kontakt dla twojej firmy publikowania.
+Ta strona zawiera Partner Center tożsamości firmowe: identyfikatory MPN, identyfikatory wydawców, identyfikatory wydawców systemu Windows i inne.  Każdy obszar można rozszerzyć i edytować w taki sposób, aby na przykład można było łatwo zlokalizować podstawowy kontakt dla twojej firmy publikowania.
 
 ### <a name="company-profile"></a>Profil firmy
 
@@ -112,14 +109,14 @@ Ta strona zawiera szczegóły wypłat  i podatków, w tym informacje dotyczące 
 
 ## <a name="user-management"></a>Zarządzanie użytkownikami
 
-To, nad czym pracujesz w Partner Center i obszarami, które można aktualizować lub zobaczyć, zależy od Twojej roli i uprawnień dołączonych do tej roli. Jeśli na przykład nie jesteś administratorem zachęt, nie będziesz mieć możliwości zmiany niczego na stronach zachęt, chociaż możesz wyświetlać dane. Dowiedz się więcej o [rolach i uprawnieniach](permissions-overview.md)
+To, nad czym pracujesz Partner Center i obszarami, które można aktualizować lub zobaczyć, zależy od Twojej roli i uprawnień dołączonych do tej roli. Jeśli na przykład nie jesteś administratorem zachęt, nie będziesz mieć możliwości zmiany niczego na stronach zachęt, chociaż możesz wyświetlać dane. Dowiedz się więcej o [rolach i uprawnieniach](permissions-overview.md)
 
 ### <a name="update-preferred-email"></a>Aktualizowanie preferowanej poczty e-mail
 
 Aby zaktualizować preferowaną wiadomość e-mail w celu otrzymywania Partner Center powiadomień:
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard) Centrum partnerskiego.
-1. Przejdź do preferencji [**Engagement**](https://partner.microsoft.com/dashboard/engagement/preference), wybierz link **Zmień,** zaktualizuj adres e-mail i wybierz pozycję **Zapisz.**
+1. Przejdź do preferencji [**Engagement,**](https://partner.microsoft.com/dashboard/engagement/preference)wybierz link **Zmień,** zaktualizuj adres e-mail i wybierz pozycję **Zapisz.**
 
 ### <a name="find-your-user-role"></a>Znajdowanie roli użytkownika
 

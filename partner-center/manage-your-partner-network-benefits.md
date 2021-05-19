@@ -4,26 +4,21 @@ ms.topic: how-to
 ms.date: 10/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Dołącz do Microsoft Partner Network (MPN) i korzystaj z Partner Center, aby zarządzać korzyściami i ofertami członkostwa, które mogą pomóc w rozwoju firmy.
+description: Dołącz do Microsoft Partner Network (MPN) i użyj Partner Center, aby zarządzać korzyściami i ofertami członkostwa, które mogą pomóc w rozwoju firmy.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f53661918508271901c6403e8270105c06d4246a
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 874d2e564b56acd37065c863fbf945b29c44167d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818766"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146531"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Zarządzanie korzyściami Microsoft Partner Network i ofertami członkostwa w programie Partner Center
 
-**Odpowiednie role**
-
-- Administrator globalny
-- Administrator zarządzania użytkownikami
-- Agent administracyjny
-- Administrator partnera MPN
+**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent administracyjny | Administrator partnera MPN
 
 >[!IMPORTANT]
 >W tym artykule wyjaśniono, jak rozpocząć korzystanie z korzyści Microsoft Partner Network (MPN) w witrynie Partner Center tej witryny. Jeśli nie otrzymano zaproszenia do przeniesienia informacji o firmie z programu Partner Membership Center (PMC) do aplikacji Partner Center, należy nadal zarządzać korzyściami z członkostwa w programie MPN w programie PMC. [Zaloguj się teraz](https://partner.microsoft.com/_login?authType=OpenIdConnect) do pmc.
@@ -71,22 +66,22 @@ Istnieją dwa typy subskrypcji opartych na użyciu, które można otrzymać, w z
 
 Możesz aprowizowana za pomocą:
 
-- 100 USD/miesiąc (lub odpowiednik w walucie lokalnej) miesięczne środków na korzystanie z platformy Azure lub/i
-- 6000 USD, 12 000 USD lub/i 13 000 USD/rok (lub każdy z nich równoważnych w walucie lokalnej) środków zbiorczych platformy Azure
+- 100 USD/miesiąc (lub odpowiednik w walucie lokalnej) miesięcznych środków na korzystanie z platformy Azure lub/i
+- 6000 USD, 12 000 USD lub/i 13 000 USD/rok (lub każdy z nich równoważnych w walucie lokalnej) kredytów zbiorczych platformy Azure
 
 Aby aktywować Microsoft Azure subskrypcji usługi Partner Center, przypisz dostęp do użytkownika w firmie (w tym użytkowników-gości), który ma wpis użytkownika utworzony w Azure Active Directory.
-W przypadku miesięcznych środków na korzystanie z platformy Azure w wysokości 100 USD/miesiąc (lub równoważnej w walucie lokalnej) możesz w dowolnym momencie dodać lub usunąć użytkowników z tej subskrypcji. 
+W przypadku miesięcznych środków na korzystanie z platformy Azure w wysokości 100 USD/miesiąc (lub równoważnej w walucie lokalnej) możesz dodać lub usunąć użytkowników z tej subskrypcji w dowolnym momencie. 
 
-W przypadku środków zbiorczych na korzystanie z platformy Azure (co rok) opcja usuwania nie jest dostępna w usłudze Partner Center, ale możesz przenieść te środków zbiorcze na inną osobę w trakcie roku rejestracji. Subskrypcji zbiorczych środków na korzystanie z platformy Azure (co rok) nie można łączyć z innymi ofertami licencjonowania, przedpłaty ani środków (to jest microsoft Enterprise Agreement, partnera rozwiązań w chmurze, platformy Azure w ramach programu Licencjonowanie, Azure — dostęp próbny, Action Pack itp.).
+W przypadku środków zbiorczych na korzystanie z platformy Azure (co rok) opcja usuwania nie jest dostępna w usłudze Partner Center, ale możesz przenieść te środków zbiorcze na inną osobę w trakcie roku rejestracji. Subskrypcji środków zbiorczych na platformę Azure (co rok) nie można łączyć z innymi ofertami licencjonowania, przedpłaty ani środków (tj. Microsoft Enterprise Agreement, Cloud Solution Partner, Azure w ramach programu licencjonowania Open, Azure — dostęp próbny, Action Pack itp.).
 
 ## <a name="license-based-subscriptions"></a>Subskrypcje oparte na licencjach
 
-Sekcja subskrypcji opartych na licencjach na karcie Produkty w chmurze usługi Azure & zawiera listę wszystkich produktów w chmurze, które wymagają klucza produktu do aktywacji, takich jak Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic i Power BI. Typ oferty aktywnej jako partner MPN — MAPS, Silver lub Gold — określa, które produkty są wyświetlane.
+Sekcja subskrypcji opartych na licencjach na karcie Produkty w chmurze usługi Azure & zawiera listę wszystkich produktów w chmurze, które wymagają klucza produktu do aktywacji, takich jak Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD — podstawowa i Power BI. Typ oferty aktywnej jako partner MPN — MAPS, Silver lub Gold — określa, które produkty są wyświetlane na liście.
 
-Aby aktywować subskrypcje oparte na licencjach, kliknij symbol listy rozwijanej obok interesującego Cię produktu i przeczytaj instrukcje dotyczące sposobu realizacji kluczy. Po przeczytaniu instrukcji wybierz link, który przekierowuje Cię do portalu, aby zrealizować klucze i klucz przypisany do produktu.
+Aby aktywować subskrypcje oparte na licencjach, kliknij symbol listy rozwijanej obok interesującego Cię produktu i przeczytaj instrukcje dotyczące sposobu realizacji kluczy. Po przeczytaniu instrukcji wybierz link, który przekierowuje Cię do portalu w celu zrealizowania kluczy i przypisanego klucza dla produktu.
 
 >[!IMPORTANT]
->Należy pamiętać, że po zrealizowaniu klucza nie można zrealizować tego samego klucza po raz drugi, dlatego upewnij się, że wiesz, czy musisz dodać więcej licencji (stanowisk), czy też rozszerzyć datę zakończenia. Jeśli zdecydujesz się dodać więcej licencji i nie rozszerzyć daty zakończenia, system zapewni mniej niż 12 miesięcy aktywnej subskrypcji. Upewnij się, że zalogowano się przy użyciu poprawnych poświadczeń, aby aktywować klucze w odpowiedniej dzierżawie.
+>Pamiętaj, że po zrealizowaniu klucza nie można zrealizować tego samego klucza po raz drugi, dlatego upewnij się, że wiesz, czy musisz dodać więcej licencji (stanowisk), czy rozszerzyć datę zakończenia. Jeśli zdecydujesz się dodać więcej licencji i nie rozszerzyć daty zakończenia, system udostępni mniej niż 12 miesięcy aktywnej subskrypcji. Upewnij się, że zalogowano się przy użyciu poprawnych poświadczeń, aby aktywować klucze w odpowiedniej dzierżawie.
 
 ## <a name="manage-visual-studio-subscriptions"></a>Zarządzanie Visual Studio subskrypcji
 
@@ -106,7 +101,7 @@ Aby aktywować subskrypcje oparte na licencjach, kliknij symbol listy rozwijanej
 
 ## <a name="manage-technical-benefits---microsoft-product-support"></a>Zarządzanie korzyściami technicznymi — pomoc techniczna firmy Microsoft
 
-W tej sekcji opisano sposób aktywowania korzyści pomocy technicznej i zarządzania nimi na Partner Center [nawigacyjnym.](https://partner.microsoft.com/dashboard) Jeśli twoje Microsoft Partner Network nadal znajduje się w Partner Membership Center (PMC), musisz jednak skontaktować się z innym zasobem, np. frontline partnera, aby aktywować korzyści techniczne. Zobacz [Aktywowanie korzyści technicznych poza Partner Center](https://docs.microsoft.com/partner-center/partner-membership-center-tech-benefits-activate).
+W tej sekcji opisano sposób aktywowania korzyści pomocy technicznej i zarządzania nimi na Partner Center [nawigacyjnym](https://partner.microsoft.com/dashboard). Jeśli twoje Microsoft Partner Network nadal znajduje się w Partner Membership Center (PMC), musisz jednak skontaktować się z innym zasobem, np. Frontline partnera, aby aktywować korzyści techniczne. Zobacz [Aktywowanie korzyści technicznych poza Partner Center](partner-membership-center-tech-benefits-activate.md).
 
 Aby zobaczyć korzyści techniczne dotyczące pomocy technicznej Partner Center, wykonaj następujące czynności:
 
@@ -116,13 +111,13 @@ Aby zobaczyć korzyści techniczne dotyczące pomocy technicznej Partner Center,
 
    Jeśli nie widzisz tych opcji lub strony Korzyści techniczne, możesz [](permissions-overview.md) nie mieć przypisanych prawidłowych ról użytkownika w Partner Center. Skontaktuj się ze swoim Partner Center globalnym, aby uzyskać dostęp.
 
-3. Rozwiń listę korzyści. Aby rozpocząć korzystanie z określonej korzyści pomocy technicznej, należy wykonać następujące czynności przy pierwszym jej użyciu:
+3. Rozwiń listę korzyści. Aby rozpocząć korzystanie z konkretnej korzyści pomocy technicznej, należy wykonać następujące czynności przy pierwszym użyciu:
 
    - **Aktywuj korzyść techniczną.** Po rozwinięciu szczegółów korzyści wybierz pozycję **Aktywuj**. Odzwyć kilka dni na przetwarzanie żądania aktywacji.
 
    - **Wyświetlanie i udostępnianie pomocy technicznej produktu Identyfikator dostępu i Identyfikator kontraktu.** Po przetworzeniu żądania aktywacji zobaczysz szczegółowe  informacje  o identyfikatorze dostępu i identyfikatorze kontraktu przy następnym rozszerzaniu tej korzyści technicznej. Ty lub użytkownicy twojej firmy muszą udostępniać te informacje i używać ich przy pierwszym przesłaniu wniosku o pomoc techniczną dla niektórych typów produktów lub usług.
 
-4. Po aktywowaniu można korzystać z korzyści technicznych dla różnych rodzajów pomocy technicznej. Aby przesłać żądania pomocy technicznej dotyczące następujących usług, przeczytaj szczegółowe instrukcje na stronie Korzyści techniczne. Zobacz też szczegółowe informacje poniżej.
+4. Po aktywowaniu możesz skorzystać z korzyści technicznych dla różnych rodzajów pomocy technicznej. Aby przesłać żądania pomocy technicznej dotyczące następujących usług, przeczytaj szczegółowe instrukcje na stronie Korzyści techniczne. Zobacz również szczegółowe informacje poniżej.
 
    Na Partner Center Korzyści techniczne opisano następujące typy pomocy technicznej:
 
@@ -133,14 +128,15 @@ Aby zobaczyć korzyści techniczne dotyczące pomocy technicznej Partner Center,
    - W przypadku Action Pack i partnerów kompetencji Gold/Silver używaj zdarzeń pomocy technicznej produktów **firmy Microsoft** dla najnowszych produktów lokalnych **(tylko** bieżące i poprzednie wersje).
 
      >[!NOTE]
-     > Identyfikator dostępu i identyfikator kontraktu są wymagane w przypadku żądań pomocy technicznej dla produktów lokalnych, platformy Azure (innych niż CSP) i dynamics. Aby w przyszłości znaleźć identyfikator dostępu i identyfikator kontraktu, możesz również przeczytać temat [Znajdowanie korzyści.](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits)
-     > 
-[Dowiedz się więcej o pomocy technicznej dla produktów lokalnych lub w chmurze](https://docs.microsoft.com/partner-center/mpn-benefits-technical-support)
+     > Identyfikator dostępu i identyfikator kontraktu są wymagane w przypadku żądań pomocy technicznej dla produktów lokalnych, platformy Azure (innych niż CSP) i dynamics. Aby dowiedzieć się więcej, przeczytaj [korzyści pomocy technicznej](mpn-benefits-technical-support.md).
+
+[Dowiedz się więcej o pomocy technicznej dla produktów lokalnych lub w chmurze](mpn-benefits-technical-support.md)
+
   
 ## <a name="manage-technical-benefits---partner-advisory-hours"></a>Zarządzanie korzyściami technicznymi — godziny porad dla partnerów
-Godziny świadczenia usług doradczych partnerów to waluta używana w przypadku technicznych usług przedsprzedażowych i wdrożeniowych **(TPD, Technical Presales and Deployment Services),** po prostu zaloguj się, aby przesłać żądanie (aktywacja lub przypisanie użytkownika nie jest wymagane).
+Godziny porad dla partnerów to waluta używana w przypadku technicznych usług przedsprzedażowych i wdrożeniowych **(TPD, Technical Presales and Deployment Services),** po prostu zaloguj się, aby przesłać żądanie (aktywacja lub przypisanie użytkownika nie jest wymagane).
 
-Aby zobaczyć korzyści techniczne z godzin porad dla partnerów w Partner Center, wykonaj następujące czynności:
+Aby zobaczyć korzyści techniczne z godzin pracy dla partnerów w Partner Center, wykonaj następujące czynności:
 
 1. Zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard)
 
@@ -150,7 +146,7 @@ Aby zobaczyć korzyści techniczne z godzin porad dla partnerów w Partner Cente
      >[!NOTE]
      > Jeśli na stronie korzyści technicznych jest wyświetlany komunikat "Wygląda na to, że nie masz jeszcze żadnych *korzyści",* oznacza to, że zalogowano się przy użyciu konta partnera, które nie ma ofert Gold, Silver lub Microsoft Action Pack i nie masz jeszcze uprawnienia do korzystania z usługi lub używasz niewłaściwego konta do zalogowania.
      > 
-[Dowiedz się więcej o technicznych usługach przedsprzedażowych i wdrożeniowych (TPD)](https://docs.microsoft.com/partner-center/technical-benefits)
+[Dowiedz się więcej o technicznych usługach przedsprzedażowych i wdrożeniowych (TPD)](technical-benefits.md)
   
 ## <a name="manage-go-to-market-offers"></a>Zarządzanie ofertami na rynek
 
@@ -165,13 +161,13 @@ Aby zobaczyć korzyści techniczne z godzin porad dla partnerów w Partner Cente
 
 2. Aby aktywować dowolną ofertę lub program w ramach wyjść na rynek, musisz najpierw przypisać kontakt marketingowy firmy. Ten kontakt będzie otrzymywać kolejne wiadomości dotyczące aktywnych ofert w trybie go-to-market.
 
-3. Aby dodać lub zaktualizować informacje kontaktowe dotyczące marketingu, przejdź na górę strony Przejdź do rynku, a następnie wybierz pozycję **Dodaj,** **Zaktualizuj** lub **Zmień.** Teraz wykonaj następujące czynności:  
+3. Aby dodać lub zaktualizować informacje kontaktowe dotyczące marketingu, przejdź w górnej części strony Przejdź do rynku, a następnie wybierz pozycję **Dodaj,** **Zaktualizuj** lub **Zmień.** Teraz wykonaj następujące czynności:  
 
    a. Wybierz użytkownika z listy. Jeśli użytkownik, którego chcesz przypisać, nie znajduje się na liście, możesz dodać nowych użytkowników [w](create-user-accounts-and-set-permissions.md) **ustawieniach konta**.
 
    b. Podaj adres e-mail użytkownika inny niż adres e-mail skojarzony z kontem Partner Center firmowym.
 
-      Na adres e-mail wskazanego kontaktu marketingowego będziemy wysyłać instrukcje dotyczące korzystania z oferty Go-To-Market.
+      Instrukcje dotyczące korzystania z oferty Go-To-Market zostaną na adres e-mail wyznaczonej osoby kontaktowej ds. marketingu.
 
    c.  Podaj numer telefonu i preferowany język osoby kontaktowej ds. marketingu. Po zakończeniu wprowadzania tych informacji wybierz pozycję **Przypisz użytkownika**.
 
@@ -180,7 +176,7 @@ Aby zobaczyć korzyści techniczne z godzin porad dla partnerów w Partner Cente
 5. Wybierz **pozycję Aktywuj,** aby aktywować ofertę.
 
    > [!NOTE]
-   >Może mieć kilka dni, aby wysłać instrukcje pocztą e-mail do przypisanego kontaktu marketingowego i aktywować ofertę w trybie go-to-market. Po aktywowaniu oferty zmiany zostaną wprowadzone na stronie Przejdź na rynek. W kolumnie **Stan** pojawi się zmiana oferty na **Aktywna.** W **kolumnie Wygasa** zobaczysz datę wygaśnięcia oferty. Tej oferty można używać do daty jej wygaśnięcia. Dowiedz się więcej o [różnych typach](mpn-learn-about-go-to-market-benefits.md) dostępnych zasobów, ofert i programów dostępnych na rynku.  
+   >Może mieć kilka dni, aby wysłać instrukcje pocztą e-mail do przypisanego kontaktu marketingowego i aktywować ofertę przejdź na rynek. Po aktywowaniu oferty zmiany zostaną wprowadzone na stronie Przejdź do rynku. W kolumnie **Stan** pojawi się zmiana oferty na **Aktywna.** W **kolumnie Wygasa** zobaczysz datę wygaśnięcia oferty. Tej oferty można używać do daty jej wygaśnięcia. Dowiedz się więcej o [różnych typach](mpn-learn-about-go-to-market-benefits.md) dostępnych zasobów, ofert i programów dostępnych na rynku.  
 
 ## <a name="cancel-a-membership-benefit-or-offer"></a>Anulowanie korzyści lub oferty członkostwa
 

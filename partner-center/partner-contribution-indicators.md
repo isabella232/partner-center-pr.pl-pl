@@ -9,20 +9,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dcd4d322a0a62644dbceb4ba4b4910d218495121
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: beb7888f947e766f753906c1f6452118cc5efb99
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740373"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147007"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Korzystanie z wskaźników udziałów partnerów w celu uzyskania kompetencji w obszarze Aplikacje biznesowe w chmurze
 
-**Odpowiednie role**
-
-- Administrator globalny
-- Administrator partnera MPN
-- Administrator konta
+**Odpowiednie role:** Administrator globalny | Administrator partnera MPN | Administrator konta
 
 W tym artykule opisano siedem kluczowych wskaźników udziału partnera (PCI, Partner Contribution Indicators) używanych do oceny postępów partnera w osiągnięciu lub zachowaniu kompetencji Silver lub Gold Cloud Business Applications kompetencji.
 
@@ -54,7 +50,7 @@ Gdy partner osiąga pewne poziomy wpływu w kluczowych wskaźnikach, na przykła
 
 ## <a name="pci-scoring-based-on-seven-key-indicators"></a>Ocenianie wskaźników PCI na podstawie siedmiu kluczowych wskaźników
 
-Pci zapewnia zaawansowany widok możliwości technicznych partnera, ich możliwości w zakresie sukcesu klientów i ich wydajności sprzedaży. Aby pomóc partnerom w osiągnięciu kompetencji silver lub gold cloud Business Applications, usługa PCI mierzy wydajność firmy w poprzednim roku na siedmiu kluczowych wskaźnikach:
+Pci zapewnia zaawansowany widok możliwości technicznych partnera, ich zdolność do napędzania sukcesu klientów i ich wyniki sprzedaży. Aby pomóc partnerom w osiągnięciu kompetencji silver lub gold cloud Business Applications, usługa PCI mierzy wydajność firmy w poprzednim roku na siedmiu kluczowych wskaźnikach:
 
 *Wskaźniki wydajności:*
 
@@ -74,42 +70,42 @@ Pci zapewnia zaawansowany widok możliwości technicznych partnera, ich możliwo
 
 6. **Nowe duże wdrożenia:** liczba dzierżaw produkcyjnych, które przekroczyły próg wysokiego użycia w ciągu ostatnich 12 miesięcy. (Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [Definicje dla nowych dużych wdrożeń).](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)
 
-7. **Miesięczny wzrost liczby aktywnych użytkowników:** wzrost liczby aktywnych użytkowników miesięcznie we wszystkich klientach w ciągu ostatnich 12 miesięcy. (Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [Definicje miesięcznego](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)wzrostu liczby aktywnych użytkowników).
+7. **Miesięczny wzrost liczby aktywnych użytkowników:** wzrost liczby aktywnych użytkowników miesięcznie we wszystkich klientach w ciągu ostatnich 12 miesięcy. Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [Definicje dotyczące miesięcznego wzrostu liczby aktywnych użytkowników).](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>Jak ocena PCI wpływa na uprawnienia do kompetencji
-Punkty są przyznawane dla każdego osiągniętego wskaźnika, co spowoduje jednolicienową ocenę PCI. Możliwe jest maksymalnie 100 punktów. 
+Punkty są przyznawane dla każdego osiągniętego wskaźnika, co spowoduje jednolicieową ocenę PCI. Możliwe jest maksymalnie 100 punktów. 
 
 Twój wynik PCI określa uprawnienia do kompetencji w następujący sposób:
 
-|Jeśli Twój wynik PCI to  | Ty  |
+|Jeśli twój wynik PCI to  | Ty  |
 |:----------------------|:-----------------|
-|1–59 punktów  | **nie kwalifikuje się** do kompetencji Silver lub Gold |
+|1–59 punktów  | **nie kwalifikują się** do kompetencji Silver lub Gold |
 |60–79 punktów  | spełnianie wymagań dotyczących kompetencji Silver  |
 |80–100 punktów  | spełnianie wymagań dotyczących kompetencji Gold
 
-Na poniższej ilustracji przedstawiono skróconą, wizualną referencję.
+Na poniższej ilustracji przedstawiono szybkie, wizualne odwołanie.
 :::image type="content" source="images/pcinew1.png" alt-text="Przedstawia wyniki PCI w celu uzyskania kompetencji Silver lub Gold." border="false":::
 
-### <a name="maximum-pci-competency-scores-you-can-achieve-for-each-indicator"></a>Maksymalna liczba ocen kompetencji PCI, które można uzyskać dla każdego wskaźnika
+### <a name="maximum-pci-competency-scores-you-can-achieve-for-each-indicator"></a>Maksymalna liczba ocen kompetencji PCI, które można osiągnąć dla każdego wskaźnika
 
-Każdy wskaźnik zapewnia ocenę, która jest dodawana do sumy. Poniżej znajdują się maksymalne wyniki dla każdego wskaźnika kompetencji cloud Business Applications:
+Każdy wskaźnik zapewnia ocenę, która jest dodawana do sumy. Poniżej podano maksymalne wyniki dla każdego wskaźnika kompetencji cloud Business Applications:
 
 |Dla tego wskaźnika | Maksymalny wynik dla tej kompetencji to  |
 |:------------|:--------------:|
 |Wydajność — nowy przychód netto  | 10 punktów  |
-|Wydajność — dodaje klient sieci  | 10 punktów  |
+|Wydajność — klient sieci dodaje  | 10 punktów  |
 |Możliwość — konsultanci funkcjonalni  | 15 punktów  |
-|Możliwość — rozwój konsultanta funkcjonalnego  | 15 punktów  |
+|Możliwości — rozwój konsultanta funkcjonalnego  | 15 punktów  |
 |Możliwość — deweloperzy  | 5 punktów |
 |Sukces klientów — nowe duże wdrożenia  | 20 punktów  |
-|Sukces klientów — miesięczny wzrost liczby aktywnych użytkowników  | 25 punktów |
+|Sukces klienta — miesięczny wzrost liczby aktywnych użytkowników  | 25 punktów |
 
-Na poniższej ilustracji przedstawiono szybkie, wizualne odwołanie.
+Na poniższej ilustracji przedstawiono skróconą, wizualną referencję.
 :::image type="content" source="images/pci/perfnew.png" alt-text="Przedstawia wykres z maksymalną możliwą oceną dla każdego z siedmiu wskaźników udziału partnera (PCI)." border="false":::
 
 ## <a name="thresholds-for-each-pci-metric-for-this-competency"></a>Progi dla każdej metryki PCI dla tej kompetencji
 
-Każda metryka PCI ma progi ustawione przez firmę Microsoft, które mogą zdobywać maksymalne punkty w firmie. Te progi różnią się w przypadku ścieżek Customer Engagement oraz Finance and Operations używanych do uzyskania kompetencji cloud Business Applications. Progi różnią się również w przypadku partnerów działających na rynkach rozwiniętych i partnerów działających wyłącznie na rynkach rozwijających się. Podział **kraju** **na** kategorie na rynku opracowany lub opracowywany jest oparty na [Microsoft Partner Network danych](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
+Każda metryka PCI ma progi ustawione przez firmę Microsoft, które mogą zdobywać maksymalne punkty firmy. Te progi różnią się w przypadku ścieżek Customer Engagement i Finance and Operations używanych do uzyskania kompetencji cloud Business Applications. Progi różnią się również w przypadku partnerów działających na rynkach rozwiniętych i partnerów działających wyłącznie na rynkach rozwijających się. **Opracowana** **lub opracowana** kategoryzacja rynku kraju jest oparta na Microsoft Partner Network [danych.](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)
 
 Należy pamiętać, że 4 metryki są mierzone w oparciu o lokalizację, w której partner działa, a nie lokalizację, w której zarejestrowano lokalizację MPN. Oznacza to, że partner zarejestrowany na rynku rozwijającym się, który ma klientów z rynku rozwijanego, będzie musiał spełniać ocenę PCI dla krajów rozwiniętych.
 
@@ -127,12 +123,12 @@ W poniższej tabeli przedstawiono lokalizację, która ma zastosowanie według m
 
 Punkty w każdej metryce są zsuowane, aby uzyskać odrębny wynik PCI dla customer engagement oraz finance and operations. Ten wynik będzie aktualizowany co miesiąc.
 
-Partnerzy mogą uzyskać maksymalną liczbę punktów dla danej metryki, jeśli spełnią lub przekroczą progi wskazane poniżej. Punkty częściowe można uzyskać za wszystkie metryki z wyjątkiem wzrostu konsultanta funkcjonalnego.
+Partnerzy mogą uzyskać maksymalną liczbę punktów dla danej metryki, jeśli spełnią lub przekroczą progi wskazane poniżej. Punkty częściowe można zdobywać za wszystkie metryki z wyjątkiem wzrostu konsultanta funkcjonalnego.
 
 Na przykład rozwinięty partner na rynku o wartości 150 000 USD w nowym przychodzie netto będzie zdobywać połowę (150 000 USD/300 000 USD) z maksymalnie 10 punktów.
 
 Szczegółowe informacje można znaleźć w następujących tabelach:
-- [Tabela 1. Progi zaangażowania klientów](partner-contribution-indicators.md#table-1-customer-engagement-thresholds-for-this-competency)
+- [Tabela 1. Progi customer engagement](partner-contribution-indicators.md#table-1-customer-engagement-thresholds-for-this-competency)
 - [Tabela 2. Progi finansowe i operacyjne](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds-for-this-competency)
 
 ### <a name="table-1-customer-engagement-thresholds-for-this-competency"></a>Tabela 1 Progi customer engagement dla tej kompetencji
@@ -144,20 +140,20 @@ Szczegółowe informacje można znaleźć w następujących tabelach:
 | **Opracowany** | 300 000 USD | 10 | 15 | *\* Patrz uwaga* | 5 | 5 | 25% |
 | **Rozwijających się** | 150 000 USD | 5  | 5  |*\* Patrz uwaga* | 2 | 1 | 25% |
 
-*\*Uwaga: Cele wzrostu różnią się w zależności od liczby konsultantów punktu odniesienia i konkretnej opcji używanej przez partnera do uzyskania punktów. Aby dowiedzieć się więcej na temat opcji uzyskiwania punktów lub określonych celów wzrostu poszczególnych opcji, zobacz [Definicje wzrostu konsultanta funkcjonalnego.](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)*
+*\* Uwaga: Cele wzrostu różnią się w zależności od liczby konsultantów punktu odniesienia i konkretnej opcji używanej przez partnera do uzyskiwania punktów. Aby dowiedzieć się więcej na temat opcji uzyskiwania punktów lub celów rozwoju poszczególnych opcji, zobacz Definicje dla rozwoju [konsultanta funkcjonalnego](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
 
-### <a name="table-2-finance-and-operations-thresholds-for-this-competency"></a>Tabela 2 Progi dotyczące finansów i operacji dla tej kompetencji
+### <a name="table-2-finance-and-operations-thresholds-for-this-competency"></a>Tabela 2 Progi finansowe i operacyjne dla tej kompetencji
 
 
-| Metryka PCI | Wskaźnik wydajności: Nowy przychód netto | Wskaźnik wydajności: Nowy klient dodaje | Wskaźnik możliwości: Konsultanci funkcjonalni | Wskaźnik możliwości: Wzrost konsultanta funkcjonalnego | Wskaźnik możliwości: Deweloperzy | Wskaźnik sukcesu klienta: Nowe duże wdrożenia | Wskaźnik sukcesu klienta: Miesięczny wzrost liczby aktywnych użytkowników |
+| Metryka PCI | Wskaźnik wydajności: Nowy przychód netto | Wskaźnik wydajności: Nowy klient dodaje | Wskaźnik możliwości: Konsultanci funkcjonalni | Wskaźnik możliwości: Rozwój konsultanta funkcjonalnego | Wskaźnik możliwości: Deweloperzy | Wskaźnik sukcesu klienta: Nowe duże wdrożenia | Wskaźnik sukcesu klienta: Miesięczny wzrost liczby aktywnych użytkowników |
 |---|---|---|---|---|---|---|---|
 | **Maksymalna liczba punktów** | 10 punktów | 10 punktów | 15 punktów | 15 punktów | 5 punktów | 20 punktów | 25 punktów |
 | **Opracowany** | 300 000 USD | 3 | 15 | *\* Patrz uwaga* | 5  | 3 | 25% |
 | **Rozwijających się** | 150 000 USD | 1 | 5 |*\* Patrz uwaga* | 2 | 1 | 25% |
 
-*\* Uwaga: Cele wzrostu różnią się w zależności od liczby konsultantów punktu odniesienia i konkretnej opcji używanej przez partnera do uzyskiwania punktów. Aby dowiedzieć się więcej na temat opcji uzyskiwania punktów lub określonych celów rozwoju każdej opcji, zobacz Definicje dla rozwoju [konsultanta funkcjonalnego](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
+*\* Uwaga: Cele wzrostu różnią się w zależności od liczby konsultantów punktu odniesienia i konkretnej opcji używanej przez partnera do uzyskiwania punktów. Aby dowiedzieć się więcej na temat opcji uzyskiwania punktów lub celów rozwoju poszczególnych opcji, zobacz Definicje dla rozwoju [konsultanta funkcjonalnego](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
 
-## <a name="prerequisites-to-receive-pci-credit-for-a-customer"></a>Wymagania wstępne dotyczące otrzymania środków PCI dla klienta
+## <a name="prerequisites-to-receive-pci-credit-for-a-customer"></a>Wymagania wstępne dotyczące otrzymania środków pci dla klienta
 
 Niektóre wskaźniki udziału partnerów umożliwiają otrzymanie środków dla danego klienta tylko wtedy, gdy jest z nim skojarzenie między partnerami. Wskaźniki lub metryki PCI, na które mają wpływ te wymagania wstępne, to:
 
@@ -171,7 +167,7 @@ Niektóre wskaźniki udziału partnerów umożliwiają otrzymanie środków dla 
 - Jesteś użytkownik Claiming Partner of Record (CPOR) dla płatnej subskrypcji należącej do dzierżawy tego klienta
 - Jesteś cyfrowym partnerem rekordów (DPOR) dla płatnej subskrypcji należącej do dzierżawy tego klienta
 
-Partner staje się CPOR, jeśli nawiązał skojarzenie z klientem na poziomie subskrypcji za pośrednictwem zachęty Dynamics 365 Online Services Advisor (OSA) lub zachęty Dynamics 365 Online Services Usage (OSU). Aby dowiedzieć się więcej, zobacz [Understand CPOR associations (Opis skojarzeń CPOR).](incentives-customer-associations-intro.md)
+Partner staje się CPOR, jeśli nawiązał skojarzenie z klientem na poziomie subskrypcji za pośrednictwem zachęty Dynamics 365 Online Services Advisor (OSA) lub zachęty Dynamics 365 Online Services Usage (OSU). Aby dowiedzieć się więcej, zobacz [Understand CPOR associations (Informacje o skojarzeniach CPOR).](incentives-customer-associations-intro.md)
 
 Partner staje się DPOR, jeśli ustanowiono skojarzenie z klientem na poziomie subskrypcji w ramach produktu.
 
@@ -194,25 +190,25 @@ Użyj poniższej listy, aby szybko przejść do określonej definicji:
 
 ### <a name="definitions-for-pci-metric-1---net-new-revenue"></a>Definicje metryk PCI #1 — nowy przychód netto
 
-Nowy przychód netto jest [wskaźnikiem wydajności](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Punkty tego wskaźnika są obliczane dla kompetencji cloud Business Applications w następujący sposób:
+Nowy przychód netto jest [wskaźnikiem wydajności](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Punkty tego wskaźnika są obliczane dla kompetencji Cloud Business Applications w następujący sposób:
 
 - Nowy przychód netto jest definiowany jako nowy przychód netto rozliczany we wszystkich kanałach sprzedaży w celu zakwalifikowania produktów Dynamics 365.
-- Nowy przychód netto jest sumowany w okresie ostatnich 12 miesięcy z maksymalną możliwą zarobką na poziomie 10 punktów.
-- Punkty dla nowego przychodu netto są obliczane jako rozliczenia minus środki i agregowane w ciągu 12 miesięcy.
+- Nowy przychód netto jest sumowany w okresie ostatnich 12 miesięcy z maksymalną możliwą zarobkami na poziomie 10 punktów.
+- Punkty dla nowego przychodu netto są obliczane jako rozliczenia pomniejszone o środki i agregowane w ciągu 12 miesięcy.
 - Nowy przychód netto jest obliczany na podstawie następujących kwalifikujących się produktów:
-  - Produkty kwalifikujące się do zaangażowania klientów obejmują: Sales, Customer Service, Field Service, Project Service Automation, Marketing, Microsoft Relationship Sales, Plan 1, Talent i Enterprise Team Member.
-  - Produkty kwalifikujące się do finansów i operacji obejmują: Unified Operations, Finance, Supply Chain Management, Retail, Commerce, Plan 2, Mixed Reality, Talent i Enterprise Team Member.
+  - Produkty kwalifikujące się do zaangażowania klientów obejmują: Sprzedaż, Obsługa klienta, Usługa terenowa, Automatyzacja usługi projektu, Marketing, Sprzedaż relacji firmy Microsoft, Plan 1, Talent i Członek zespołu przedsiębiorstwa.
+  - Produkty kwalifikujące się do działań finansowych i operacyjnych obejmują: Unified Operations, Finance, Supply Chain Management, Retail, Commerce, Plan 2, Mixed Reality, Talent i Enterprise Team Member.
 
 - Kanały sprzedaży obejmują Enterprise Agreement (EA), Dostawca rozwiązań w chmurze (CSP) i Web Direct.
-- W Enterprise Agreement tylko przychód: ten przychód obejmuje przychód z pierwszego roku umowy. Cykliczny przychód z drugiego i trzeciego roku nie jest uwzględniany.
+- W Enterprise Agreement tylko przychód: ten przychód obejmuje przychód z pierwszego roku umowy. Przychód cykliczny z drugiego i trzeciego roku nie jest uwzględniany.
 
-### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Definicje metryk PCI dla #2 — dodaje klient sieci
+### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Definicje metryk interfejsu PCI #2 — klient sieci dodaje
 
-Klient netto dodaje wskaźnik [wydajności](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Punkty tego wskaźnika są obliczane dla kompetencji cloud Business Applications w następujący sposób:
+Klient sieci dodaje wskaźnik [wydajności](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Punkty tego wskaźnika są obliczane dla kompetencji Cloud Business Applications w następujący sposób:
 
-- Sumowanie sumuje się na koniec 12-miesięcznego okresu z maksymalnym możliwymi zarobkami na poziomie 10 punktów. 
+- Sumowanie sumuje się w ciągu ostatnich 12 miesięcy z maksymalną możliwą zarobkami na poziomie 10 punktów. 
 
-- Klienci netto są dodawana we wszystkich kanałach sprzedaży. 
+- Klienci sieci są dodawana we wszystkich kanałach sprzedaży. 
 
 - Punkty dla klientów sieciowych są obliczane co miesiąc, ponieważ klienci dodani minus klienci utraceni i są agregowane przez 12 miesięcy. 
 
@@ -224,7 +220,7 @@ Klient netto dodaje wskaźnik [wydajności](partner-contribution-indicators.md#p
 
   | Dla tej ścieżki | Klient netto dodaje, aby zdobywać maksymalnie 10 punktów |
   |---------------------|----------------------------|
-  | Customer Engagement | — 10 klientów netto (dla partnerów na rynkach *rozwiniętych);*</br>— 5 klientów netto (dla partnerów na *rynkach rozwijających* się)  |
+  | Customer Engagement | — 10 klientów netto (dla partnerów na rynkach *rozwiniętych);*</br>— 5 nowych klientów netto (dla partnerów na *rynkach rozwijających* się)  |
   | Finance and Operations | — 3 dodano klientów netto (dla partnerów na rynkach *rozwiniętych);*</br>— 1 nowy dodatek dla klientów (dla partnerów na *rynkach rozwijających* się) |
 
   > [!NOTE]
@@ -242,7 +238,7 @@ Klient netto dodaje wskaźnik [wydajności](partner-contribution-indicators.md#p
   
   - Wszyscy partnerzy skojareni z klientem utracą kredyt dla nowego klienta w miesiącu utraty klienta.
   
-  - Każdy partner kojarzący się z tym samym klientem, za pośrednictwem starych lub nowych subskrypcji, otrzyma nowe konto do dodania środków dla tego klienta.
+  - Każdy partner kojarzący się z tym samym klientem, za pośrednictwem starych lub nowych subskrypcji, otrzyma nowe konto dla tego klienta.
   
   **Gdy klient pracuje już bezpośrednio z firmą Microsoft:**
 
@@ -250,7 +246,7 @@ Klient netto dodaje wskaźnik [wydajności](partner-contribution-indicators.md#p
 
 ### <a name="definitions-for-pci-metric-3---functional-consultants"></a>Definicje metryk PCI #3 — konsultanci funkcjonalni
 
-Konsultantzy funkcjonalni to [wskaźnik możliwości](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Punkty tego wskaźnika są obliczane dla kompetencji cloud Business Applications w następujący sposób:
+Konsultantzy funkcjonalni to [wskaźnik możliwości](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Punkty tego wskaźnika są obliczane dla kompetencji Cloud Business Applications w następujący sposób:
 
 - Punkty wskaźnika konsultanta funkcjonalnego są oparte na migawce z bieżącego miesiąca z maksymalnym możliwymi zarobkami na poziomie 15 punktów.
 
@@ -269,62 +265,62 @@ Konsultantzy funkcjonalni to [wskaźnik możliwości](partner-contribution-indic
 > [!NOTE]
 > Egzaminy oznaczone gwiazdką ( ) zostaną wycofane lub zastąpione w \* najbliższych miesiącach. Szczegółowe informacje można znaleźć poniżej:
 >
-> - Egzaminy oznaczone jedną gwiazdką ( ) zostały \* wycofane 31 grudnia 2020 r. Egzaminy wycofane 31 grudnia 2020 r. będą kwalifikować się do poziomu kompetencji i odnowienia do 31 grudnia 2021 r., jeśli zostaną wykonane przed ich wycofane.
-> - Egzaminy oznaczone dwiema gwiazdkami ( ) zostaną \* \* wycofane 31 stycznia 2021 r. Egzaminy wycofane 31 stycznia 2021 r. będą kwalifikować się do poziomu kompetencji i odnowienia do 31 stycznia 2022 r., jeśli zostaną wykonane przed wycofaniem.
+> - Egzaminy oznaczone jedną gwiazdką ( ) zostały \* wycofane 31 grudnia 2020 r. Egzaminy wycofane 31 grudnia 2020 r. będą kwalifikować się do uzyskania kompetencji i odnowienia do 31 grudnia 2021 r., jeśli zostaną wykonane przed ich wycofane.
+> - Egzaminy oznaczone dwoma gwiazdkami ( ) zostaną wycofane \* \* 31 stycznia 2021 r. Egzaminy wycofane 31 stycznia 2021 r. będą kwalifikować się do poziomu kompetencji i odnowienia do 31 stycznia 2022 r., jeśli zostaną wykonane przed wycofaniem.
 
-### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>Definicje metryk PCI dla #4 — wzrost konsultanta funkcjonalnego
+### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>Definicje metryk PCI dla #4 — rozwój konsultanta funkcjonalnego
 
 Rozwój konsultanta funkcjonalnego jest [wskaźnikiem możliwości](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Punkty tego wskaźnika są obliczane dla kompetencji Cloud Business Applications w następujący sposób:
 
-Partner ma jedną z dwóch opcji, aby uzyskać punkty "wszystko lub nic" (15 lub 0 punktów) dostępne dla tej metryki. Nie zostaną przyznane żadne częściowe punkty.
+Partner ma jedną z dwóch opcji uzyskania wszystkich lub żadnych punktów (15 lub 0 punktów) dostępnych dla tej metryki. Punkty częściowe nie będą przyznawane.
 
 **Opcja 1 w celu uzyskania punktów:**
 
 - Rozwój konsultanta funkcjonalnego jest definiowany jako wzrost liczby certyfikowanych partnerów konsultanci funkcjonalni od migawki linii bazowej. Data migawki linii bazowej zostanie podjęta 1 października 2020 r.
 
-- Punkty wskaźnika wzrostu konsultanta funkcjonalnego są oparte na migawce bieżącego miesiąca w porównaniu z punktem odniesienia z 1 października 2020 r. Partnerzy mogą uzyskać 0 lub 15 punktów za pomocą tego wskaźnika.
+- Punkty wskaźnika wzrostu konsultanta funkcjonalnego są oparte na migawce bieżącego miesiąca w porównaniu z punktem odniesienia z 1 października 2020 r. Partnerzy mogą osiągnąć 0 lub 15 punktów za pomocą tego wskaźnika.
 
-- Migawka linii bazowej zostanie zresetowana w następnej dacie odnowienia Business Applications chmury.
+- Migawka linii bazowej zostanie zresetowana w następnej dacie odnowienia kompetencji Business Applications Cloud.
 
-- Aby kwalifikować się do punktów, musisz mieć co najmniej **15** partnerów konsultanci funkcjonalni partnerów na rynku opracowanych i **5** partnerów handlowych w programie Developing Market Partners w momencie utworzenia migawki punktu odniesienia.
+- Aby kwalifikować się do punktów, musisz mieć co najmniej **15** partnerów konsultanci funkcjonalni dla opracowanych partnerów rynkowych i **5** partnerów biznesowych w przypadku tworzenia partnerów handlowych w momencie utworzenia migawki punktu odniesienia.
 
-- **Nie zostaną przyznane żadne częściowe punkty.** Wzrost na podstawie migawki linii bazowej musi osiągnąć lub przekroczyć progi wskazane w poniższej tabeli. W tabeli przedstawiono **kolumnę Rozwinięte** **i opracowywanie** z planem bazowym konsultanta funkcjonalnego, który musi kwalifikować się do zdobywania punktów.
+- **Punkty częściowe nie będą przyznawane.** Wzrost na podstawie migawki linii bazowej musi spełniać lub przekraczać progi wskazane w poniższej tabeli. W tabeli przedstawiono **kolumnę Rozwinięte** i **opracowywanie** z planem bazowym konsultanta funkcjonalnego, który musi kwalifikować się do zdobywania punktów.
 
-  | Opracowany | Rozwijających się | Wzrost wymagany do zdobycia wszystkich 15 punktów
+  | Opracowany | Rozwijających się | Wzrost potrzebny do zdobycia wszystkich 15 punktów
   |:---:|:---:|:---:|
   | 15-29 | 5-14 | 35% |
   | 30–49 | 15-24 | 25% |
-  | 50 lub więcej | 25 i więcej | Zobacz opcje poniżej |
+  | 50 i więcej | 25 i więcej | Zobacz opcje poniżej |
 
 **Opcja 2 w celu uzyskania punktów:**
 
-- Opracowani partnerzy biznesowi mogą certyfikować 50 lub więcej konsultantów funkcjonalnych w czasie na pierwszą rocznicę kompetencji cloud Business Applications PCI. (Partnerzy z rynku mogą certyfikować 25 lub więcej konsultantów funkcjonalnych w czasie na pierwszą rocznicę kompetencji cloud Business Applications PCI).
+- Opracowani partnerzy biznesowi mogą certyfikować 50 lub więcej konsultantów funkcjonalnych w czasie na pierwszą rocznicę kompetencji Cloud Business Applications PCI. (Opracowywanie partnerów handlowych może uzyskać certyfikację co najmniej 25 konsultantów funkcjonalnych w czasie na pierwszą rocznicę kompetencji cloud Business Applications PCI).
 
-- Jeśli osiągniesz ten próg, otrzymasz pełne 15 punktów za konsultanci funkcjonalni wzrost przez 24 miesiące od tej daty. W praktyce oznacza to, że otrzymasz maksymalne punkty za konsultanci funkcjonalni rozwoju w przypadku dwóch rocznic kompetencji Business Applications Chmura.
+- Jeśli osiągniesz ten próg, otrzymasz pełne 15 punktów za konsultanci funkcjonalni wzrost przez 24 miesiące od tej daty. Oznacza to, że otrzymasz maksymalne punkty za konsultanci funkcjonalni rozwoju w przypadku dwóch rocznic Business Applications chmury.
 
 ### <a name="definitions-for-pci-metric-5---developers"></a>Definicje metryk pci #5 — deweloperzy
 
-Deweloperzy to [wskaźnik możliwości](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Punkty tego wskaźnika są obliczane dla kompetencji cloud Business Applications w następujący sposób:
+Deweloperzy to [wskaźnik możliwości](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Punkty tego wskaźnika są obliczane dla kompetencji Cloud Business Applications w następujący sposób:
 
-- Deweloperzy są definiowani jako liczba osób posiadających obecnie aktywny certyfikat Developer Associate.
+- Deweloperzy są definiowani jako liczba osób posiadających aktualnie aktywny certyfikat Developer Associate.
 
-- Punkty dla wskaźnika Deweloperzy są oparte na migawce z bieżącego miesiąca z maksymalnie 5 dostępnymi punktami.
+- Wskaźniki "Punkty dla deweloperów" są oparte na migawce z bieżącego miesiąca z maksymalnie 5 dostępnymi punktami.
 
 - Deweloperzy customer engagement uzyskają kredyt, gdy przejdą:
   - PL-400<br/>**lub**
   - MB-200 \* **i** jeden z następujących egzaminów:
     - MB-400 \* lub MB2-716\*\*
 
-- Deweloperzy z sektora finansów i operacji uzyskają kredyt, gdy przejdą:
-  - MB-300<br/>
+- Deweloperzy ds. finansów i operacji uzyskają kredyt, gdy przejdą:
+  - MB–300<br/>
   **i** jeden z następujących egzaminów:
   - MB-500 lub MB-894\*\*
 
 > [!NOTE]
-> Egzaminy oznaczone gwiazdką ( ) zostaną wycofane lub \* zastąpione w najbliższych miesiącach. Szczegółowe informacje można znaleźć poniżej:
+> Egzaminy oznaczone gwiazdką ( ) zostaną wycofane lub zastąpione w \* najbliższych miesiącach. Szczegółowe informacje można znaleźć poniżej:
 >
 > - Egzaminy oznaczone jedną gwiazdką ( ) zostały \* wycofane 31 grudnia 2020 r. Egzaminy wycofane 31 grudnia 2020 r. będą kwalifikować się do poziomu kompetencji i odnowienia do 31 grudnia 2021 r., jeśli zostaną wykonane przed ich wycofane.
-> - Egzaminy oznaczone dwiema gwiazdkami ( ) zostaną \* \* wycofane 31 stycznia 2021 r. Egzaminy wycofane 31 stycznia 2021 r. będą kwalifikować się do poziomu kompetencji i odnowienia do 31 stycznia 2022 r., jeśli zostaną wykonane przed wycofaniem.
+> - Egzaminy oznaczone dwoma gwiazdkami ( ) zostaną wycofane \* \* 31 stycznia 2021 r. Egzaminy wycofane 31 stycznia 2021 r. będą kwalifikować się do poziomu kompetencji i odnowienia do 31 stycznia 2022 r., jeśli zostaną wykonane przed wycofaniem.
 
 ### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>Definicje metryk PCI #6 — nowe duże wdrożenia
 
@@ -334,40 +330,40 @@ Nowe duże wdrożenia są [wskaźnikiem sukcesu klienta](partner-contribution-in
 
 - Nowe duże wdrożenia są definiowane inaczej dla customer engagement w  porównaniu z finansami i operacjami oraz dla partnerów działających na rynkach rozwiniętych i *na rynkach rozwijających* się:
 
-  - W przypadku usługi Customer Engagement nowe duże wdrożenia są definiowane jako liczba wystąpień produkcyjnych w ramach dzierżawy, które przekroczyły **250** aktywnych użytkowników miesięcznie (w przypadku partnerów rynku opracowywanego) i **150** aktywnych użytkowników miesięcznie (w przypadku opracowywania partnerów handlowych).
+  - W przypadku usługi Customer Engagement nowe duże wdrożenia są definiowane jako liczba wystąpień produkcyjnych w ramach dzierżawy, które przekroczyły **250** aktywnych użytkowników miesięcznie (w przypadku opracowanych partnerów handlowych) i **150** aktywnych użytkowników miesięcznie (w przypadku opracowywania partnerów handlowych).
 
-  - W przypadku usług Finance and Operations nowe duże wdrożenia są definiowane jako liczba wystąpień produkcyjnych w ramach dzierżawy, które przekroczyły **100** aktywnych użytkowników miesięcznie (w przypadku partnerów rynku opracowywanego) i **50** aktywnych użytkowników miesięcznie (w przypadku opracowywania partnerów handlowych).
+  - W przypadku usług finansowych i operacyjnych nowe duże wdrożenia są definiowane jako liczba wystąpień produkcyjnych w ramach dzierżawy, które przekroczyły **100** aktywnych użytkowników miesięcznie (w przypadku opracowanych partnerów handlowych) i **50** aktywnych użytkowników miesięcznie (w przypadku opracowywania partnerów handlowych).
   
-  (Aby uzyskać szczegółowe informacje na temat rynków opracowanych i rozwijających się, zobacz [te Microsoft Partner Network).](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)
+  (Aby uzyskać szczegółowe informacje na temat rozwoju i rozwoju rynków, zobacz [te Microsoft Partner Network definicje).](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)
 
 - Dzierżawa jest uznawana za przekroczenie miesięcznego progu aktywnego użytkownika, jeśli dzierżawa była:
 
-  - Poniżej określonego progu 12 miesięcy temu **i**
+  - Poniżej określonego progu 12 miesięcy temu **oraz**
 
-  - Przekroczył ten próg co najmniej raz w ciągu kolejnych 11 miesięcy.
+  - Przekroczenie tego progu co najmniej raz w ciągu kolejnych 11 miesięcy.
 
 - Aktywni użytkownicy miesięcznie są zliczane na poziomie dzierżawy i sumowane tylko w ramach płatnych subskrypcji w ramach dzierżawy.
 
 - Aktywni użytkownicy miesięcznie są obliczane na koniec każdego miesiąca.
 
 - Partnerzy są skojarzone z dzierżawami na poziomie subskrypcji. Subskrypcje są mapowane na następujące, kwalifikujące produkty Customer Engagement lub do produktów Finance and Operations:
-  - Produkty kwalifikujące się do zaangażowania klientów obejmują: Sales, Customer Service, Field Service, Project Service Automation, Marketing, Microsoft Relationship Sales, Plan 1, Talent i Enterprise Team Member.
-  - Produkty kwalifikujące się do finansów i operacji obejmują: Unified Operations, Finance, Supply Chain Management, Retail, Commerce, Plan 2, Mixed Reality, Talent i Enterprise Team Member.
-- Wszyscy partnerzy skojarzone z dowolną płatną subskrypcją w ramach dzierżawy uzyskają kredyt dla wszystkich wystąpień produkcyjnych Customer Engagement lub Finance and Operations w ramach tej dzierżawy.
+  - Produkty kwalifikujące się do zaangażowania klientów obejmują: Sprzedaż, Obsługa klienta, Usługa terenowa, Automatyzacja usługi projektu, Marketing, Sprzedaż relacji firmy Microsoft, Plan 1, Talent i Członek zespołu przedsiębiorstwa.
+  - Produkty kwalifikujące się do działań finansowych i operacyjnych obejmują: Unified Operations, Finance, Supply Chain Management, Retail, Commerce, Plan 2, Mixed Reality, Talent i Enterprise Team Member.
+- Wszyscy partnerzy powiązani z dowolną płatną subskrypcją w ramach dzierżawy otrzymają kredyt na wszystkie wystąpienia produkcyjne Customer Engagement lub Finance and Operations w ramach tej dzierżawy.
 
 ### <a name="definitions-for-pci-metric-7---monthly-active-user-growth"></a>Definicje metryk PCI #7 — miesięczny wzrost liczby aktywnych użytkowników
 
-Miesięczny wzrost liczby aktywnych użytkowników to [wskaźnik sukcesu klienta](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Punkty tego wskaźnika są obliczane dla kompetencji cloud Business Applications w następujący sposób:
+Miesięczny wzrost liczby aktywnych użytkowników to [wskaźnik sukcesu klienta](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Punkty tego wskaźnika są obliczane dla kompetencji Cloud Business Applications w następujący sposób:
 
 - Miesięczny wzrost liczby aktywnych użytkowników jest definiowany jako wzrost liczby aktywnych użytkowników miesięcznie w całej bazie klientów w ciągu ostatnich 12 miesięcy. 
 
 - Aktywni użytkownicy miesięcznie są zliczane na poziomie dzierżawy i sumowane tylko w ramach płatnych subskrypcji w ramach dzierżawy.
 
-- Miesięczny wskaźnik wzrostu liczby aktywnych użytkowników porównuje bieżący miesiąc z punktem odniesienia z 12 miesięcy temu. Dostępnych jest maksymalnie 25 punktów.
+- Wskaźnik wzrostu liczby aktywnych użytkowników miesięcznie porównuje bieżący miesiąc z punktem odniesienia z 12 miesięcy temu. Dostępnych jest maksymalnie 25 punktów.
 
 - Aktywni użytkownicy miesięcznie są obliczane na koniec każdego miesiąca.
 
-- Miesięczny wzrost liczby aktywnych użytkowników jest definiowany inaczej w przypadku ścieżek Customer  Engagement i Finance and Operations oraz dla partnerów działających na rynkach rozwiniętych i *na rynkach rozwijających* się:
+- Miesięczny wzrost liczby aktywnych użytkowników jest definiowany inaczej dla ścieżek Customer Engagement  i Finance and Operations oraz dla partnerów działających na rynkach rozwiniętych i na *rynkach rozwijających* się:
 
   - Aby customer engagement kwalifikowało się do punktów, opracowani partnerzy biznesowi muszą mieć plan bazowy co najmniej **250** aktywnych użytkowników miesięcznie, a programowi partnerzy biznesowi muszą mieć plan bazowy **150** aktywnych użytkowników miesięcznie w całej bazie klientów 12 miesięcy temu.
 
@@ -377,7 +373,7 @@ Miesięczny wzrost liczby aktywnych użytkowników to [wskaźnik sukcesu klienta
 
 - Partnerzy są skojarzone z dzierżawami na poziomie subskrypcji. Subskrypcje są mapowane na kwalifikowanie produktów Customer Engagement lub kwalifikowanie produktów Finance and Operations.
 
-- Wszyscy partnerzy skojarzone z dowolną płatną subskrypcją w ramach dzierżawy otrzymają kredyt dla wszystkich aktywnych użytkowników platformy Customer Engagement lub Finance and Operations zsumowanych na wszystkich płatnych subskrypcjach w ramach tej dzierżawy.
+- Wszyscy partnerzy skojarzone z dowolną płatną subskrypcją w ramach dzierżawy otrzymają kredyt dla wszystkich aktywnych użytkowników platformy Customer Engagement lub Finance and Operations zsumowanych dla wszystkich płatnych subskrypcji w ramach tej dzierżawy.
 
 ## <a name="how-to-access-partner-contribution-indicators"></a>Jak uzyskać dostęp do wskaźników udziału partnera
 

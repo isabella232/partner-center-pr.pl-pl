@@ -1,210 +1,207 @@
 ---
-title: Wymagania podstawowe
+title: Podstawowe wymagania dotyczące zachęt
 ms.topic: article
 ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Dowiedz się, jak generować żądania, zrozumieć rozwój rynku i maksymalizować gotowość partnerów do działania w programie zachęt.
+description: Dowiedz się, jak wygenerować zapotrzebowanie, zrozumieć rozwój rynku i zmaksymalizować gotowość partnerów do działań w programie zachęt.
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 47a670c97acce757270076cf0ae01067db544e2f
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: a980d35104f2fe7aad0117f3515a61ecf217a2b9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502956"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148299"
 ---
-# <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Podstawowe wymagania dotyczące działań w programie zachęty
+# <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Podstawowe wymagania dotyczące działań w programie zachęt
 
-**Odpowiednie role**
+**Odpowiednie role:** Zachęty dla administratorów | Zachęty użytkownika
 
-- Administrator zachęt
-- Użytkownik zachęt
+Każdy typ działania, dla którego przesyłasz roszczenie dotyczące zachęt, ma podstawowe wymagania. Musisz zademonstrować, że zostały spełnione te wymagania w dokumentach potwierdzających wykonanie. Niektóre działania wymagają również określonych typów komunikacji i metryk.
 
-Każdemu typowi działania, dla którego jest przesyłane żądanie zachęty, mają podstawowe wymagania. Musisz udowodnić, że te wymagania zostały spełnione w przypadku dokumentów wykonawczych. Niektóre działania wymagają również określonych typów komunikacji i metryk.
+W poniższych tabelach przedstawiono podstawowe wymagania dotyczące poszczególnych akceptowanych działań. 
 
-W poniższych tabelach przedstawiono podstawowe wymagania dotyczące każdej z zaakceptowanych działań. 
+## <a name="demand-generation"></a>Generowanie zapotrzebowania
 
-## <a name="demand-generation"></a>Generowanie popytu
+### <a name="print-advertising"></a>Drukowanie reklam
 
-### <a name="print-advertising"></a>Reklamy drukowania
-
-| Kategoria | Potwierdzenie wykonania    |
+| Kategoria | Dowód wykonania    |
 | ------ | ----------- |
-| Wymagania podstawowe    | Firmowy znak firmowy i informacje kontaktowe<br><br>Zawartość firmy Microsoft |
-| Wymagania dotyczące komunikacji | Kopia końcowej części komunikacji (oparta na reklamie) przedstawiająca wymagania podstawowe dla programu |
-| Metryki     | Szacowany dostęp klienta (lub partnera) |
-|Kwalifikujące się wydatki    | Rozmieszczenie nośników innej firmy<br><br>Materiał drukowany<br><br>Marketing i usługi twórcze dla instytucji, w tym opłaty za agencje  |
+| Wymagania podstawowe    | Marka i informacje kontaktowe firmy<br><br>Zawartość firmy Microsoft |
+| Wymagania dotyczące komunikacji | Kopia końcowego elementu komunikacyjnego (na podstawie reklam) przedstawiająca podstawowe wymagania specyficzne dla programu |
+| Metryki     | Szacowany zasięg klienta (lub partnera) |
+|Kwalifikujące się wydatki    | Umieszczanie multimediów innych firm<br><br>Materiał drukowany<br><br>Agencje marketingowe i usługi kreatywne, w tym opłaty agencyjne  |
 
 ### <a name="digital-advertising"></a>Reklamy cyfrowe
 
-| Kategoria | Potwierdzenie wykonania    |
+| Kategoria | Dowód wykonania    |
 | ------ | ----------- |
 | Wymagania podstawowe | NA |
-| Wymagania dotyczące komunikacji | Zrzut ekranu przedstawiający anons cyfrowy<br><br>AND<br><br>Adres URL strony docelowej, pokazujący wymagania podstawowe specyficzne dla programu |
-| Metryki     | Podsumowanie wyników (na przykład raport kliknij) |
-|Kwalifikujące się wydatki    | Rozmieszczenie nośników innej firmy<br><br>Opłata — Agencja: usługi marketingowe i kreatywne, w tym opłaty za agencje |
+| Wymagania dotyczące komunikacji | Zrzut ekranu przedstawiający reklamę cyfrową<br><br>AND<br><br>Adres URL strony docelowej z podstawowymi wymaganiami specyficznymi dla programu |
+| Metryki     | Podsumowanie wyników (na przykład raport klikany) |
+|Kwalifikujące się wydatki    | Umieszczanie multimediów innych firm<br><br>Opłata — agencja: usługi marketingowe i kreatywne, w tym opłaty agencyjne |
 
-### <a name="direct-mail-email-and-short-message-service-sms"></a>Bezpośrednia poczta, poczta e-mail i krótka usługa wiadomości (SMS)
+### <a name="direct-mail-email-and-short-message-service-sms"></a>Usługa bezpośredniej poczty e-mail, wiadomości e-mail i wiadomości krótkich (SMS)
 
-| Kategoria | Potwierdzenie wykonania    |
+| Kategoria | Dowód wykonania    |
 | ------ | ----------- |
 | Wymagania podstawowe    | NA |
-| Wymagania dotyczące komunikacji | 1) kopia końcowej części komunikacyjnej przedstawiająca wymagania podstawowe dotyczące programu<br><br>2) weryfikacja dystrybucji może obejmować kopertę wysyłkową postmarked lub inne potwierdzenie korespondencji (bezpośrednia poczta), końcową wiadomość e-mail z nagłówkiem z datą lub inną dowodem wiadomości e-mail (wiadomość e-mail) lub zdjęcie wiadomości telefonicznej (SMS). |
-| Metryki     | Szacowany dostęp klienta (lub partnera) |
-|Kwalifikujące się wydatki    | Pozyskiwanie bazy danych<br><br>Materiał drukowany<br><br>Opłata pocztowa<br><br>Opłata — Agencja: usługi marketingowe i kreatywne, w tym opłaty za agencje |
+| Wymagania dotyczące komunikacji | 1) Kopia końcowego elementu komunikacyjnego przedstawiająca podstawowe wymagania specyficzne dla programu<br><br>2) Potwierdzenie dystrybucji może obejmować kopertę wysyłkową ze znakiem pocztowym lub inne potwierdzenie wysyłki (bezpośrednia wiadomość e-mail), ostateczną wiadomość e-mail z datą nagłówka lub inne potwierdzenie wiadomości e-mail (e-mail) lub zdjęcie wiadomości telefonicznej (SMS) |
+| Metryki     | Szacowany zasięg klienta (lub partnera) |
+|Kwalifikujące się wydatki    | Pozyskiwanie bazy danych<br><br>Materiał drukowany<br><br>Wysyłki<br><br>Opłata — agencja: usługi marketingowe i kreatywne, w tym opłaty agencyjne |
 
-### <a name="partner-website-and-search-engine"></a>Witryna sieci Web partnera i wyszukiwarka
+### <a name="partner-website-and-search-engine"></a>Witryna internetowa partnera i wyszukiwarka
 
-| Kategoria | Potwierdzenie wykonania    |
+| Kategoria | Dowód wykonania    |
 | ------ | ----------- |
 | Wymagania podstawowe    | NA |
-| Wymagania dotyczące komunikacji | Adresy URL i/lub zrzuty ekranu stron witryny pokazujące adres URL<br><br>Deklaracja dotycząca pracy lub usługi dla projektu funkcji optymalizacji (tylko działanie optymalizacji) |
-| Metryki     | Podsumowanie wyników (na przykład raport kliknij) |
-|Kwalifikujące się wydatki    | Opłata — Agencja: usługi marketingowe, w tym opłaty za agencje<br><br>Programowanie/programowanie: opłaty programistyczne i programistyczne<br><br>Opłata — Optymalizacja: optymalizacje i opłaty za konserwację  |
+| Wymagania dotyczące komunikacji | Adres URL i/lub zrzuty ekranu stron witryny pokazujące adres URL<br><br>Umowa o pracę lub umowę serwisową dla projektu SEO (tylko działania SEO) |
+| Metryki     | Podsumowanie wyników (na przykład raport klikany) |
+|Kwalifikujące się wydatki    | Opłata — agencja: Usługi marketingowe, w tym opłaty agencyjne<br><br>Programowanie/programowanie: opłaty za programowanie i programowanie<br><br>Opłata — OPTYMALIZACJA: opłaty za optymalizację i konserwację  |
 
-### <a name="microsoft-syndicated-content"></a>Zawartość zespolona firmy Microsoft
+### <a name="microsoft-syndicated-content"></a>Zawartość syndykowana firmy Microsoft
 
-| Kategoria | Potwierdzenie wykonania    |
+| Kategoria | Dowód wykonania    |
 | ------ | ----------- |
 | Wymagania podstawowe    | NA |
-| Wymagania dotyczące komunikacji | ADRESY URL i/lub zrzuty ekranu stron witryny z adresem URL |
-| Metryki     | Podsumowanie wyników (na przykład raport kliknij) |
-|Kwalifikujące się wydatki    | Rzeczywiste koszty do USD18, 750 za okres użytkowania dla usług marketingowych agencji opłat, w tym opłat za agencje<br><br>Opłaty programistyczne i programistyczne<br><br>Położenie nośnika  |
+| Wymagania dotyczące komunikacji | Adres URL i/lub zrzuty ekranu stron witryny pokazujące adres URL |
+| Metryki     | Podsumowanie wyników (na przykład raport klikany) |
+|Kwalifikujące się wydatki    | Rzeczywiste koszty do 18 750 USD na okres użycia dla: opłata — usługi marketingowe agencji, w tym opłaty agencyjne<br><br>Opłaty za programowanie i programowanie<br><br>Umieszczanie multimediów  |
 
-### <a name="multi-touch-digital-campaign"></a>Kampania cyfrowa z obsługą wielodotyku
+### <a name="multi-touch-digital-campaign"></a>Wielo dotykowa kampania cyfrowa
 
-| Kategoria | Potwierdzenie wykonania    |
+| Kategoria | Dowód wykonania    |
 | ------ | ----------- |
 | Wymagania podstawowe    |NA |
-| Wymagania dotyczące komunikacji | Wszystkie potwierdzenia wykonania zgodnie z opisem na stronie odpowiednie działania są wymagane<br><br>Reklamy cyfrowe<br><br>Bezpośredni adres E-mail<br><br>Optymalizacja witryny sieci Web partnera i aparatu wyszukiwania<br><br>Telemarketing  |
+| Wymagania dotyczące komunikacji | Wymagany jest cały dowód wykonania zgodnie ze szczegółowymi informacjami na stronie odpowiedniego działania<br><br>Digital Advertising<br><br>Bezpośrednia wiadomość e-mail<br><br>Optymalizacja witryny internetowej partnera i wyszukiwarki<br><br>Telemarketing  |
 | Metryki     | NA |
-|Kwalifikujące się wydatki    | Rozmieszczenie nośników innej firmy<br><br>Opłata — Agencja: usługi marketingowe i kreatywne, w tym opłaty za agencje<br><br>Pozyskiwanie bazy danych<br><br>Programowanie/programowanie: opłaty programistyczne i programistyczne<br><br>Opłata — Optymalizacja: optymalizacje i opłaty za konserwację<br><br>Opłata — opłaty w centrum połączeń innych firm |
+|Kwalifikujące się wydatki    | Umieszczanie multimediów innych firm<br><br>Opłata — agencja: Usługi marketingowe i kreatywne, w tym opłaty agencyjne<br><br>Pozyskiwanie bazy danych<br><br>Programowanie/programowanie: opłaty za programowanie i programowanie<br><br>Opłata — OPTYMALIZACJA: opłaty za optymalizację i konserwację<br><br>Opłata — opłaty za centrum telefonicznej obsługi klienta innej firmy |
 
-## <a name="market-development"></a>Programowanie na rynku
+## <a name="market-development"></a>Rozwój rynku
 
-### <a name="telemarketing-and-expositions"></a>Telemarketing i Expositions
+### <a name="telemarketing-and-expositions"></a>Telemarketing i cyferki
 
-| Kategoria | Potwierdzenie wykonania    |
+| Kategoria | Dowód wykonania    |
 | ------ | ----------- |
-| Wymagania podstawowe    | Informacje o nazwie lub znakach firmowych muszą być zawarte w skrypcie telesprzedaży, zawartości firmy Microsoft |
+| Wymagania podstawowe    | Informacje o nazwie/marce firmy muszą być zawarte w skrypcie telesales, zawartości firmy Microsoft |
 | Wymagania dotyczące komunikacji | Kopia skryptu |
 | Metryki     | Podsumowanie wyników (liczba wywołań i liczba pomyślnych kontaktów) |
-|Kwalifikujące się wydatki    | Opłata — Agencja: usługi marketingowe, w tym opłaty za agencje<br><br>Opłata — centrum połączeń innych firm: opłaty<br><br>Pozyskiwanie bazy danych  |
+|Kwalifikujące się wydatki    | Opłata — agencja: Usługi marketingowe, w tym opłaty agencyjne<br><br>Opłata — centrum telefoniczne innej firmy: opłaty<br><br>Pozyskiwanie bazy danych  |
 
-### <a name="customer-seminars-and-boot-camps"></a>Seminaria klientów i rozruch Camp
+### <a name="customer-seminars-and-boot-camps"></a>Seminaria i seminaria rozruchowe klientów
 
-| Kategoria | Potwierdzenie wykonania    |
+| Kategoria | Dowód wykonania    |
 | ------ | ----------- |
 | Wymagania podstawowe    | Nazwa marki firmy i informacje kontaktowe<br><br>Zawartość firmy Microsoft  |
-| Wymagania dotyczące komunikacji | Zaproszenie do zdarzeń i porządek dzienny/program<br><br>Fotografie zdarzeń<br><br>Materiały prezentacji, jeśli zaproszenie i porządek obrad nie spełniają wymagań podstawowych |
-| Metryki     | Liczba zarejestrowanych Gości |
-|Kwalifikujące się wydatki    | Podpisywanie/Wyświetlanie/drukowanie materiałów<br><br>Prezentów<br><br>Opłata — Agencja: usługi marketingowe, w tym opłaty za agencje<br><br>Opłata — Rejestracja<br><br>Opłata — Głośnik zewnętrzny<br><br>Koszty związane z opłatą i sprzętem, w tym urządzenia Surface i zarządzane przez inną firmę<br><br>Gastronomiczne (z wyłączeniem alkoholu) |
+| Wymagania dotyczące komunikacji | Zaproszenie do wydarzenia i program<br><br>Zdjęcia zdarzeń<br><br>Materiały prezentacji, jeśli zaproszenie do wydarzenia i spotkanie nie spełniają podstawowych wymagań |
+| Metryki     | Liczba zarejestrowanych gości |
+|Kwalifikujące się wydatki    | Podpisywanie/wyświetlanie/materiały drukowane<br><br>Prezenty<br><br>Opłata — agencja: Usługi marketingowe, w tym opłaty agencyjne<br><br>Opłata — rejestracja<br><br>Opłata — zewnętrzna prelegentka<br><br>Opłata — wypożyczanie obiektów i sprzętu, w tym urządzeń Surface należących do innej firmy i zarządzanych przez nie<br><br>Dobowe (z wyłączeniem bąbka) |
 
-### <a name="tradeshows-and-exhibitions"></a>Tradeshows i wystawy
+### <a name="tradeshows-and-exhibitions"></a>Tradeshows i ich łańce
 
-| Kategoria | Potwierdzenie wykonania    |
+| Kategoria | Dowód wykonania    |
 | ------ | ----------- |
 | Wymagania podstawowe    | Nazwa marki firmy i informacje kontaktowe<br><br>Zawartość firmy Microsoft  |
-| Wymagania dotyczące komunikacji | Zaproszenie do zdarzeń i porządek dzienny/program<br><br>Zdjęcie pokazujące uczestnictwo w zdarzeniach (na przykład zdjęcie kabiny, Fotografia prezentacji itp.) |
-| Metryki     | Szacowana liczba uczestników lub odwiedzających kabiny  |
-|Kwalifikujące się wydatki    | Podpisywanie/Wyświetlanie/drukowanie materiałów<br><br>Prezentów<br><br>Opłata — Agencja: usługi marketingowe, w tym opłaty za agencje<br><br>Opłata — Rejestracja<br><br>Opłata — Głośnik zewnętrzny<br><br>Koszty związane z opłatą i sprzętem, w tym urządzenia Surface i zarządzane przez inną firmę<br><br>Gastronomiczne (z wyłączeniem alkoholu) |
+| Wymagania dotyczące komunikacji | Zaproszenie do wydarzenia i program<br><br>Zdjęcie przedstawiające uczestnictwo w wydarzeniach (na przykład zdjęcie w galerii, zdjęcie prezentacji itp.) |
+| Metryki     | Szacowana liczba uczestników lub gości w chętnych  |
+|Kwalifikujące się wydatki    | Znak / wyświetlacz / materiały drukowane<br><br>Prezenty<br><br>Opłata — agencja: Usługi marketingowe, w tym opłaty agencyjne<br><br>Opłata — rejestracja<br><br>Opłata — zewnętrzna prelegentka<br><br>Opłata — wypożyczanie obiektów i sprzętu, w tym urządzeń Surface należących do innej firmy i zarządzanych przez nie<br><br>Zamów (z wyjątkiem jedli) |
 
-### <a name="customer-offers"></a>Oferty klienta
+### <a name="customer-offers"></a>Oferty klientów
 
-| Kategoria | Potwierdzenie wykonania    |
+| Kategoria | Dowód wykonania    |
 | ------ | ----------- |
 | Wymagania podstawowe    | Zawartość firmy Microsoft |
-| Wymagania dotyczące komunikacji | Pokaż ofertę z warunkami i postanowieniami. Rzeczywiste koszty do 25% łącznej liczby uzyskanych środków współpracowników na okres użytkowania. Partnerzy Surface mogą zastrzec do 100% kosztów współpracowników na okres użytkowania w przypadku kwalifikujących się wydatków związanych z działaniem. |
+| Wymagania dotyczące komunikacji | Pokaż ofertę z warunkami i postanowieniami. Rzeczywiste koszty do 25% całkowitej sumy środków zdobytych w ramach współpracy na okres użycia. Partnerzy powierzchniowi mogą uzyskać do 100% środków uzyskanej współpracy na okres użycia na kwalifikujące się wydatki na działania. |
 | Metryki     | Podsumowanie wyników |
-|Kwalifikujące się wydatki    | Podpisywanie/Wyświetlanie/drukowanie materiałów<br><br>Prezentów<br><br>Opłata — Agencja: usługi marketingowe, w tym opłaty za agencje |
+|Kwalifikujące się wydatki    | Znak / wyświetlacz / materiały drukowane<br><br>Prezenty<br><br>Opłata — agencja: Usługi marketingowe, w tym opłaty agencyjne |
 
-### <a name="internal-incentives-and-spiffs"></a>Zachęty wewnętrzne i SPIFFs
+### <a name="internal-incentives-and-spiffs"></a>Wewnętrzne zachęty i systemy SPIF
 
-| Kategoria | Potwierdzenie wykonania    |
+| Kategoria | Dowód wykonania    |
 | ------ | ----------- |
-| Wymagania podstawowe    | Nazwa marki firmy i informacje kontaktowe — reguły konkursu wewnętrznego będą wystarczające, jeśli nazwa firmy/marki zostanie uwzględniona w materiale komunikacji<br><br>Zawartość firmy Microsoft |
-| Wymagania dotyczące komunikacji   | Pokaż ofertę z warunkami i postanowieniami. Rzeczywiste koszty do 25% łącznej liczby uzyskanych środków współpracowników na okres użytkowania. Partnerzy Surface mogą zastrzec do 100% kosztów współpracowników na okres użytkowania w przypadku kwalifikujących się wydatków związanych z działaniem. |
+| Wymagania podstawowe    | Nazwa marki firmy i informacje kontaktowe — wewnętrzne reguły konkursu wystarczą, jeśli nazwa firmy/marki zostanie uwzględniona w materiałach komunikacyjnych<br><br>Zawartość firmy Microsoft |
+| Wymagania dotyczące komunikacji   | Pokaż ofertę z warunkami i postanowieniami. Rzeczywiste koszty do 25% całkowitej sumy środków zdobytych w ramach współpracy na okres użycia. Partnerzy powierzchniowi mogą uzyskać do 100% środków uzyskanej współpracy na okres użycia na kwalifikujące się wydatki na działania. |
 | Metryki     | Podsumowanie wyników |
-|Kwalifikujące się wydatki    | Rzeczywiste koszty do 25% łącznej liczby uzyskanych środków na okres użytkowania dla: Signing, Display, drukowanych materiałów<br><br>Prezentów<br><br>Opłata — Agencja: usługi marketingowe, w tym opłaty za agencje<br><br>Partnerzy Surface partner mogą zgłaszać do 100% kosztów współpracowników na okres użytkowania dla kwalifikujących się wydatków związanych z działaniem |
+|Kwalifikujące się wydatki    | Rzeczywiste koszty do 25% łącznej sumy środków uzyskanej współpracy na okres użycia dla: Podpisywanie, wyświetlanie, materiały drukowane<br><br>Prezenty<br><br>Opłata — agencja: Usługi marketingowe, w tym opłaty agencyjne<br><br>Partnerzy powierzchniowi mogą uzyskać do 100% środków uzyskanej współpracy na okres użycia na kwalifikujące się wydatki na działania |
 
-### <a name="on-site-champ"></a>SEO w lokacji
+### <a name="on-site-champ"></a>On-site Champ
 
-| Kategoria | Potwierdzenie wykonania    |
+| Kategoria | Dowód wykonania    |
 | ------ | ----------- |
-| Wymagania podstawowe    | Usługi ukierunkowane na 100% w produktach firmy Microsoft | 
-| Wymagania dotyczące komunikacji | Przykład elementów dostarczanych (na podstawie tego, co zostało opisane w formularzu SEO w lokacji) |
+| Wymagania podstawowe    | Usługi koncentrowały się w 100% na produktach firmy Microsoft | 
+| Wymagania dotyczące komunikacji | Przykładowe produkty do dostarczenia (na podstawie tego, co opisano w formularzu on-site champ) |
 | Metryki     | NA |
-|Kwalifikujące się wydatki    | Rzeczywiste koszty do 100% w przypadku powierzchni i 50% dla wszystkich innych programów wypracowanych środków współpracujących za okres użytkowania dla: opłaty — usługi: usługi udostępniane przez zasoby SEO w lokacji |
+|Kwalifikujące się wydatki    | Rzeczywiste koszty do 100% dla urządzenia Surface i 50% dla wszystkich innych programów zdobytych środków współpracy na okres użycia dla: Opłaty — usługi: usługi udostępniane przez zasoby on-Site Champ |
 
 ### <a name="proof-of-concept"></a>Weryfikacja koncepcji
 
-| Kategoria | Potwierdzenie wykonania    |
+| Kategoria | Dowód wykonania    |
 | ------ | ----------- |
 | Wymagania podstawowe    | Weryfikacja koncepcji |
 | Wymagania dotyczące komunikacji  | Zawartość firmy Microsoft |
-| Metryki     | Kopia materiałów opracowana na potrzeby koncepcji explication lub danych dotyczących badań rynkowych: oficjalny dokument, rozwój analizy przypadków, badania rynku, środowisko do obsługi przed obciążeniem klientów firmy Microsoft (CIE) to kwalifikujące się wydatki badawcze.<br><br>Kwalifikujące się opłaty za usługę mogą obejmować konfigurację centrum demonstracji technologicznej i usług wdrażania, w tym instalację, konfigurację, migrację danych, testowanie lub konfigurację systemu z obsługą klienta.<br><br>Koszty związane z programowaniem/programowaniem mogą obejmować programowanie systemu interfejsu API. |
-|Kwalifikujące się wydatki    | Materiały drukowane: badania: oficjalny dokument, rozwój analizy przypadków, badania rynkowe, środowisko do obsługi zanurzenia klientów<br><br>Programowanie/programowanie<br><br>Opłata — Agencja: usługi marketingowe, w tym opłaty za agencje<br><br>Opłata-usługa: usługi zawodowe świadczone przez partnera lub dostawcę innych firm w celu wspierania weryfikacji koncepcji |
+| Metryki     | Kopia materiałów opracowanych na potrzeby eksplikacji koncepcji lub danych badań na rynku: oficjalny dokument, opracowywanie analizy przypadku, badania rynku, środowisko immersji klienta — środowisko Immersion (CIE) firmy Microsoft to kwalifikujące się wydatki badawcze.<br><br>Kwalifikujące się opłaty za usługi mogą obejmować skonfigurowanie technologicznego centrum demonstracyjnego i usług wdrażania, w tym instalacji, konfiguracji, migracji danych, testowania lub konfiguracji systemu dla klientów.<br><br>Wydatki związane z programowaniem/programowaniem mogą obejmować opracowywanie systemu interfejsów API. |
+|Kwalifikujące się wydatki    | Materiały drukowane: Research: White paper, case study development, market research, Customer Immersion Experience<br><br>Programowanie/programowanie<br><br>Opłata — agencja: Usługi marketingowe, w tym opłaty agencyjne<br><br>Opłata — usługa: Usługi pracy udostępniane przez partnera lub dostawcę zewnętrznego w celu potwierdzenia koncepcji |
 
-### <a name="employee-purchase-web-setup-for-customers"></a>Konfiguracja zakupów dla pracowników w sieci Web dla klientów
+### <a name="employee-purchase-web-setup-for-customers"></a>Konfiguracja sieci Web zakupów pracowników dla klientów
 
-| Kategoria | Potwierdzenie wykonania    |
+| Kategoria | Dowód wykonania    |
 | ------ | ----------- |
 | Wymagania podstawowe    | NA |
-| Wymagania dotyczące komunikacji | Strona docelowa adresu URL lub zrzut ekranu stron witryny sieci Web. Nie kwalifikuje się do dodania powierzchni |
-| Metryki     | Opłata — Agencja: usługi marketingowe, w tym opłaty za agencje<br><br>Programowanie/programowanie: opłaty programistyczne i programistyczne<br><br>Opłata-usługa: usługi zawodowe udostępniane przez partnera lub dostawcę innych firm w ramach obsługi konfiguracji sieci Web |
+| Wymagania dotyczące komunikacji | Strona docelowa adresu URL lub zrzut ekranu przedstawiający strony witryny internetowej. Nie kwalifikuje się do urządzenia Surface ADD |
+| Metryki     | Opłata — agencja: Usługi marketingowe, w tym opłaty agencyjne<br><br>Programowanie/programowanie: opłaty za programowanie i programowanie<br><br>Opłata — usługa: Usługi pracy świadczone przez partnera lub dostawcę zewnętrznego w celu obsługi konfiguracji sieci Web |
 |Kwalifikujące się wydatki    | NA |
 
 ## <a name="partner-readiness"></a>Gotowość partnerów
 
-### <a name="mpn-participation"></a>MPN uczestnictwo
+### <a name="mpn-participation"></a>Uczestnictwo w programie MPN
 
-| Kategoria | Potwierdzenie wykonania    |
+| Kategoria | Dowód wykonania    |
 | ------ | ----------- |
 | Wymagania podstawowe    | Oryginalna faktura firmy Microsoft |
 | Wymagania dotyczące komunikacji | NA |
 | Metryki     | NA |
-|Kwalifikujące się wydatki    | Opłata — Rejestracja roczna: MPN roczne opłaty za rejestrację<br><br>Tabliczka i dysk DVD (pierwszy zestaw): MPN i pierwszy zestaw dysków DVD<br><br>Dodatkowy zestaw narzędzi korzyści |
+|Kwalifikujące się wydatki    | Opłata — rejestracja roczna: roczne opłaty za rejestrację w programie MPN<br><br>Dysk DVD (pierwszy zestaw): członkostwo w programie MPN i pierwszy zestaw dysków DVD<br><br>Dodatkowy zestaw narzędzi korzyści |
 
-### <a name="microsoft-exams-and-tuition"></a>Egzaminy firmy Microsoft i Tuition
+### <a name="microsoft-exams-and-tuition"></a>Egzaminy i ektura firmy Microsoft
 
-| Kategoria | Potwierdzenie wykonania    |
+| Kategoria | Dowód wykonania    |
 | ------ | ----------- |
-| Wymagania podstawowe    | Kod kursu/kod egzaminu w usłudze Microsoft Learning |
+| Wymagania podstawowe    | Kod kursu/kod egzaminu na Microsoft Learning |
 | Wymagania dotyczące komunikacji | Faktura innej firmy z kodem kursu i datą ukończenia lub fakturą z kodem egzaminu i datą ukończenia |
-| Metryki     | Lista uczestników i koszt poszczególnych osób |
-|Kwalifikujące się wydatki    | Opłata — egzamin: opłaty za egzaminy firmy Microsoft dotyczące certyfikacji i kompetencji<br><br>Opłata — szkolenia/Tuition: opłaty za korzystanie z programu Microsoft Tuition dotyczące certyfikatów i kompetencji, w tym wydatków szkoleniowych na żądanie<br><br>Szkolenia niezależne od niezależnych dostawców oprogramowania — Tuition wydatki na szkolenia dotyczące rozwiązań innych firm, które mogą być widoczne na potrzeby korzystania z aplikacji i platform firmy Microsoft.<br><br>Opłata-MCT odnowienie: opłata za odnowienie Trainer firmy Microsoft (nie jest wymagana żadna Metryka)<br><br>|
+| Metryki     | Lista uczestników i koszt osoby |
+|Kwalifikujące się wydatki    | Opłata — egzamin: Opłaty za egzaminy firmy Microsoft związane z certyfikacjami i kompetencjami<br><br>Opłata — szkolenia/ition: Opłaty za szkolenia firmy Microsoft dotyczące certyfikacji i kompetencji, w tym wydatki na szkolenia na żądanie<br><br>Szkolenia w zakresie rozwiązań innych firm — wydatki na szkolenia dotyczące rozwiązań innych firm, które można zademonstrować w celu wykorzystania lub znajdowania się w aplikacjach i platformach firmy Microsoft<br><br>Opłata — odnawianie mct: Microsoft Certified Trainer odnowienia (nie jest wymagana metryka)<br><br>|
 
-### <a name="internal-training-and-floor-days"></a>Wewnętrzne szkolenie i dni produkcji
+### <a name="internal-training-and-floor-days"></a>Szkolenia wewnętrzne i dni łódki
 
-| Kategoria | Potwierdzenie wykonania    |
+| Kategoria | Dowód wykonania    |
 | ------ | ----------- |
-| Wymagania podstawowe    | 100% zawartości firmy Microsoft na potrzeby przedziału czasu lub miejsca na zdarzenia |
-| Wymagania dotyczące komunikacji | Plan szkoleń lub program zdarzeń<br><br>Zawartość prezentacji firmy Microsoft<br><br>|
+| Wymagania podstawowe    | Zawartość firmy Microsoft na poziomie 100% dla czasu dnia lub zajętego obszaru zdarzeń |
+| Wymagania dotyczące komunikacji | Training Training Training Lub Event Program<br><br>Zawartość prezentacji firmy Microsoft<br><br>|
 | Metryki     | Liczba uczestników |
-|Kwalifikujące się wydatki    | Opłata — szkolenia/Tuition/Rejestracja/platforma szkolenia cyfrowego lub cyfrowy format szkolenia<br><br>Podpisywanie/Wyświetlanie/drukowanie materiałów<br><br>Prezentów<br><br>Opłata — Agencja: usługi marketingowe, w tym opłaty za agencje<br><br>Opłata — Głośnik zewnętrzny<br><br>Opłaty za materiały i wynajem sprzętu<br><br>Gastronomiczne (z wyłączeniem alkoholu) |
+|Kwalifikujące się wydatki    | Opłata — formatowanie szkoleń/szkoleń/rejestracji/platformy szkoleń cyfrowych lub szkoleń cyfrowych<br><br>Znak / wyświetlacz / materiały drukowane<br><br>Prezenty<br><br>Opłata — agencja: usługi marketingowe, w tym opłaty agencyjne<br><br>Opłata — zewnętrzna prelegentka<br><br>Opłata — wypożyczenie sprzętu i sprzętu<br><br>Dobowe (z wyłączeniem bąbka) |
 
-### <a name="microsoft-hosted-conferences"></a>Konferencje hostowane firmy Microsoft
+### <a name="microsoft-hosted-conferences"></a>Konferencje hostowane przez firmę Microsoft
 
-| Kategoria | Potwierdzenie wykonania    |
+| Kategoria | Dowód wykonania    |
 | ------ | ----------- |
-| Wymagania podstawowe    | Konferencje obsługiwane przez firmę Microsoft. Wydatki drogą/hotelowe są ograniczone do 5 000 USD na osobę na konferencję, ograniczone do 3 uczestników, z całkowitym limitem USD 45 000 dla drogą/szkolenia/wydatków związanych z hotelem na okres dla każdego programu. Hosting może mieć różne dodatki. |
-| Wymagania dotyczące komunikacji | Kopia konferencji/zaproszenia do zdarzenia lub potwierdzenie rejestracji przedstawiające dowód, że Konferencja jest hostowana przez firmę Microsoft<br><br>Trasa transportowa z datami podróży (tylko koszty podróży i drogą) |
+| Wymagania podstawowe    | Konferencje hostowane przez firmę Microsoft. Wydatki na bilety lotnicze/hotelowe są ograniczone do 5000 USD na osobę na konferencję, ograniczoną do 3 uczestników, przy łącznym limitie 45 000 USD na opłaty za bilety lotnicze/szkolenia/hotel na okres na program. Hosting może mieć różne przydziały. |
+| Wymagania dotyczące komunikacji | Kopia zaproszenia do konferencji/wydarzenia lub potwierdzenia rejestracji z dowodem na to, że konferencja jest hostowana przez firmę Microsoft<br><br>Trasy transportowe z datami podróży (Tylko podróż — koszty podróży) |
 | Metryki     | NA |
-|Kwalifikujące się wydatki    | Opłata — Rejestracja: dla maksymalnie 3 uczestników na konferencję<br><br>Podróż-drogą/Hotel: Transport (drogą lub pouczenie oraz odpowiednie podatki) i Hotel (tylko stawka pokojowa i odpowiednie podatki)<br><br>Uwaga: koszty podróży — drogą/Hotel są ograniczone do 5 000 USD na osobę na konferencję, ograniczone do 3 uczestników, z całkowitym limitem USD 45 000 dla drogą/szkolenia/kosztów hotelowych na okres dla każdego programu. Hosting może mieć różne dodatki. |
+|Kwalifikujące się wydatki    | Opłata — rejestracja: dla maksymalnie 3 uczestników na konferencję<br><br>Travel — Airfare/Hotel: Transport (opłata za lot lub trenowanie i obowiązujące podatki) i hotel (tylko stawka pokoju i odpowiednie podatki)<br><br>Uwaga: Wydatki związane z podróżami — koszty podróży/hotelowych są ograniczone do 5000 USD na osobę na konferencję( ograniczenie do 3 uczestników, przy łącznym limitie 45 000 USD na opłaty za lot/szkolenie/hotel na okres na program). Hosting może mieć różne przydziały. |
 
-### <a name="product-seedingdemo-units"></a>Inicjatory produktu/jednostki demonstracyjne
+### <a name="product-seedingdemo-units"></a>Iniekcjowanie/jednostki demonstracyjne produktów
 
-| Kategoria | Potwierdzenie wykonania    |
+| Kategoria | Dowód wykonania    |
 | ------ | ----------- |
-| Wymagania podstawowe    | Możesz przejąć do 10% łącznej liczby naliczanych środków współpracujących i 3 000 USD, w zależności od tego, która jest większa lub równa okresowi programu. Komputery stacjonarne & partnerzy nie mają limitu oświadczeń. |
-| Wymagania dotyczące komunikacji | Specyfikacje systemów demonstracyjnych wbudowanych w firmach.<br><br>Potwierdzenie dostawy dla jednostki demonstracyjnej innej firmy.<br><br>Weryfikacja jednostki demonstracyjnej innej firmy. |
+| Wymagania podstawowe    | Możesz uzyskać maksymalnie 10% łącznego naliczonego środków współpracy lub 3000 USD w zależności od tego, co jest większe lub na okres programu. Partnerzy urządzenia Surface PC & Hub nie mają limitu oświadczeń. |
+| Wymagania dotyczące komunikacji | Specyfikacje systemów dla jednostek demonstracyjnych wbudowanych.<br><br>Dowód dostarczenia na jednostkę demonstracyjną innej firmy.<br><br>Dowód jednostki demonstracyjnej innej firmy. |
 | Metryki     | NA |
 |Kwalifikujące się wydatki    | NA |
 
- Aby uzyskać szczegółowe informacje, Pobierz pozycję [zachęty dla partnerów Guidebook](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (wymagane jest zalogowanie się).
+ Aby uzyskać szczegółowe informacje, pobierz [podręcznik](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) współpracy zachęt dla partnerów (wymagane jest zalogowanie).
 
 ## <a name="next-steps"></a>Następne kroki
 

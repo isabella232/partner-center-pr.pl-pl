@@ -1,34 +1,28 @@
 ---
-title: Dodawanie identyfikatora VAT dla podatków służbowych
+title: Dodawanie identyfikatora VAT na potrzeby podatków biznesowych
 ms.topic: article
 ms.date: 12/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Podatki w przypadku zakupów w centrum partnerskim są uzależnione od Twojego adresu służbowego. Przedsiębiorstwa w niektórych krajach mogą podać swój numer VAT lub odpowiedni odpowiednik.
+description: Podatki w przypadku zakupów w centrum partnerskim są uzależnione od Twojego adresu służbowego. Firmy w niektórych krajach mogą podać numer VAT lub lokalny odpowiednik.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a7278e6dff35d7941fbe44b65609dc4a2443c1f3
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 1605072e35a96d8bc8ed2e9f507b38a6837fbd35
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132761"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146939"
 ---
-# <a name="add-a-vat-id-to-your-billing-profile"></a>Dodawanie identyfikatora VAT do profilu rozliczeń
+# <a name="add-a-vat-id-to-your-billing-profile"></a>Dodawanie identyfikatora VAT do profilu rozliczeniowego
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Administrator rozliczeń | Agent administracyjny | Agent sprzedaży
 
-- Administrator globalny
-- Administrator zarządzania użytkownikami
-- Administrator rozliczeń
-- Agent administracyjny
-- Agent sprzedaży
+Aby zaktualizować profil rozliczeniowy w celu dołączyć identyfikator VAT, możesz użyć poniższej procedury. (Pamiętaj, że może to być niemożliwe w Twoim kraju lub regionie).
 
-Poniższa procedura służy do aktualizowania profilu rozliczeń w celu uwzględnienia identyfikatora podatku VAT. (Należy zauważyć, że może to nie być możliwe w Twoim kraju lub regionie).
-
-## <a name="update-your-billing-profile-with-your-vat-id"></a>Aktualizowanie profilu rozliczeń przy użyciu identyfikatora VAT
+## <a name="update-your-billing-profile-with-your-vat-id"></a>Aktualizowanie profilu rozliczeniowego przy użyciu identyfikatora VAT
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/) Centrum partnerskiego.
 2. W menu **Ustawienia** (ikona koła zębatego) wybierz pozycję **Ustawienia konta**.

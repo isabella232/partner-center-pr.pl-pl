@@ -4,94 +4,91 @@ ms.topic: article
 ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Skorzystaj z Centrum partnerskiego, aby odpowiedzieć na odwołania i zarządzać nowymi, istniejącymi i zarchiwizowanymi potencjalnymi klientami oraz odwołaniami. Dowiedz się również, jak uzyskać więcej odwołań w przyszłości.
+description: Używaj Partner Center, aby odpowiadać na polecenia i zarządzać nowymi, istniejącymi i zarchiwizowane potencjalnymi klientami i poleceniami. Dowiedz się również, jak uzyskać więcej poleceń w przyszłości.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 94bcde2402b7276bef8eaaf84975f2a5677723fe
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: dd34a30cf21a90ac7781ed84945a208df13b3700
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133118"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146548"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Manage different leads like customer inquiries, marketing-qualified leads, and sales-qualified leads (Zarządzanie różnymi typami potencjalnych klientów: wywodzących się bezpośrednio z klientów, zakwalifikowanych za pośrednictwem kanału marketingowego i zakwalifikowanych przez sprzedawców)
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator partnera MPN | Administrator poleceń
 
-- Administrator partnerski MPN
-- Administrator odwołań
+Firma Microsoft wysyła miliony potencjalnych klientów rocznie do swoich partnerów. Masz możliwość otrzymywania potencjalnych klientów od firmy Microsoft i tworzenia firmy. Ta sekcja pomoże Ci zrozumieć, jak zarządzać potencjalnymi klientami, którzy otrzymujesz od dostawcy rozwiązań firmy Microsoft, i jak na nich działać.
 
-Firma Microsoft wysyła miliony potencjalnych klientów na rok do swoich partnerów. Masz możliwość otrzymywania potencjalnych klientów od firmy Microsoft i tworzenia swojej firmy. Ta sekcja pomoże Ci zrozumieć, jak zarządzać potencjalnymi klientami otrzymanymi ze strony dostawca rozwiązań firmy Microsoft i wykonywać na nich działania.
-
-Warunkiem wstępnym do odebrania potencjalnych klientów jest [utworzenie profilu biznesowego](create-a-marketing-profile.md) dla firmy. Profil biznesowy tworzony przez Ciebie dla firmy będzie pomocny dla potencjalnych klientów, innych partnerów i sprzedawcy firmy Microsoft na stronie internetowej [dostawcy rozwiązań firmy Microsoft](https://www.microsoft.com/solution-providers/home) . Informacje o profilu biznesowym są łączone z informacjami o członkostwie w firmie, takimi jak dane dotyczące kompetencji i dodatkowe adnotacje firmy Microsoft zapewniające bogaty profil dla klientów podczas wyszukiwania partnera do pracy. Wszystkie żądania, które pochodzą z listy profilów na stronie Dostawca rozwiązań firmy Microsoft, są dostępne w sekcji **potencjalni klienci** na karcie **odwołania** w okienku nawigacji po lewej stronie.
+Warunkiem wstępnym do otrzymywania potencjalnych klientów [jest utworzenie profilu biznesowego](create-a-marketing-profile.md) dla firmy. Profil biznesowy, który utworzysz dla twojej firmy, pomoże Ci być widoczny dla potencjalnych klientów, innych partnerów i sprzedawców firmy Microsoft na stronie internetowej [dostawcy rozwiązań firmy Microsoft.](https://www.microsoft.com/solution-providers/home) Informacje o Twoim profilu biznesowym są łączone z informacjami o członkostwie w firmie, np. danymi kompetencji i dodatkowymi poręczeniami firmy Microsoft zapewniającymi rozbudowane profile dla klientów podczas wyszukiwania partnera, z którym będą pracować. Wszystkie żądania pochodzące z listy profilów na stronie dostawcy rozwiązań  firmy Microsoft  są dostępne w sekcji Potencjalni klienci na karcie Polecenia w okienku nawigacji po lewej stronie.
 
 ## <a name="types-of-leads"></a>Typy potencjalnych klientów
 
-**Zapytania klientów** — są to potencjalni klienci, którzy pochodzą bezpośrednio od klientów. Firma przeszukuje i znalazła profil firmy i wypełnił formularz wskazujący potrzebę i szczegółowe informacje kontaktowe.
+**Zapytania klientów —** są to potencjalni klienci, którzy pochodzą bezpośrednio od klientów. Firma wyszukała i znalazła Twój profil firmy oraz wypełniła formularz informujący o potrzebie i szczegółach kontaktu.
 
-**Kwalifikujące** się do marketingu — są to potencjalni klienci, którzy otrzymali żądanie klienta za pomocą jednego z różnych kanałów marketingowych.
+**Zakwalifikowani do** działań marketingowych — są to potencjalni klienci, którzy są wysłani do Twojej firmy przez pracowników firmy Microsoft, którzy otrzymali żądanie klienta za pośrednictwem jednego z różnych kanałów marketingowych.
 
-**Kwalifikujące** się do sprzedaży — są to potencjalni klienci, którzy są nadawcy przez sprzedawców firmy Microsoft, którzy zbierają wymagania od klienta i pomagają im znaleźć odpowiedniego partnera w celu rozwiązania problemu z klientem. Te potencjalni klienci nie są takie same jak okazje do sprzedaży w przypadku, gdy przedstawiciel handlowy firmy Microsoft aktywnie zatrudnia partnera i klienta do momentu zamknięcia transakcji.
+**Zakwalifikowani** do sprzedaży — są to potencjalni klienci, którzy są wysyłani do Ciebie przez sprzedawców firmy Microsoft, którzy zbierają wymagania od klienta i pomagają im znaleźć odpowiedniego partnera do rozwiązania problemu klienta. Ci potencjalni klienci to nie to samo co w przypadku możliwości współpracy sprzedaży, w których przedstawiciel handlowy firmy Microsoft aktywnie współpracuje z partnerem i klientem do momentu zamknięcia transakcji.
 
-## <a name="navigating-the-leads-section"></a>Nawigowanie w sekcji potencjalni klienci
+## <a name="navigating-the-leads-section"></a>Nawigowanie po sekcji Potencjalni klienci
 
-Sekcja potencjalni klienci zawiera trzy karty najwyższego poziomu. 
+W sekcji potencjalnych klientów znajdują się trzy karty najwyższego poziomu. 
 
-**Potencjalni klienci w portalu Marketplace** — to wszyscy potencjalni klienci pochodzący ze strony dostawcy rozwiązań firmy Microsoft wyszukują zapytania klientów.
+**Potencjalni klienci z** platformy handlowej — są to wszyscy potencjalni klienci pochodzący z wyszukiwania na stronie dostawcy rozwiązań firmy Microsoft, które są zapytaniami klientów.
 
-**Zakwalifikowani potencjalni klienci** — są to wszyscy potencjalni klienci typu kwalifikowanego do marketingu i sprzedaży.
+**Kwalifikowani potencjalni** klienci — wszyscy potencjalni klienci typu Marketing kwalifikowani i zakwalifikowani do sprzedaży.
 
-**Ulubione** — na tej karcie zostaną wyświetlone wszystkie potencjalni klienci, którzy są oznaczeni jako Ulubione na karcie potencjalni klienci Marketplace lub zakwalifikowani potencjalni klienci. Dowolny potencjalny klient można oznaczyć jako ulubiony, klikając ikonę serca w obszarze potencjalnego klienta w widoku listy. Możesz usunąć potencjalnego klienta z ulubionych, klikając ponownie tę samą ikonę.
+**Ulubione — na tej** karcie zostaną wyświetlone wszystkie potencjalni klienci oznaczyni jako ulubioni na karcie Potencjalni klienci witryny Marketplace lub Kwalifikowani potencjalni klienci. Możesz oznaczyć dowolnego potencjalnego klienta jako ulubionego, klikając ikonę serca w widoku listy potencjalnych klienta. Możesz usunąć potencjalnego klienta z ulubionych, klikając ponownie tę samą ikonę.
 
-## <a name="responding-to-a-lead"></a>Reagowanie na potencjalnego klienta
+## <a name="responding-to-a-lead"></a>Odpowiadanie na potencjalnego klienta
 
-Każdy potencjalny klient przechodzi przez własny cykl życia. W tej sekcji przedstawiono różne etapy i akcje, które można wykonać na każdym etapie.
+Każdy potencjalny lider przechodzi przez własny cykl życiowy. W tej sekcji identyfikuje się różne etapy i akcje, które można podjąć na każdym etapie.
 
-### <a name="received-stage"></a>Otrzymany etap
+### <a name="received-stage"></a>Odebrano etap
 
-Na tym etapie otrzymujesz nowego potencjalnego klienta bezpośrednio od klienta lub od pracownika firmy Microsoft. Przejrzyj szczegóły i możesz skontaktować się z klientem, aby dowiedzieć się więcej o potrzebach firmy.
+Na tym etapie otrzymano nowego potencjalnego klienta bezpośrednio od klienta lub od pracownika firmy Microsoft. Przejrzyj szczegóły i skontaktuj się z klientem, jeśli chcesz dowiedzieć się więcej o jego potrzebach biznesowych.
 
-W tym etapie można wykonać dwie akcje — Zaakceptuj lub Odrzuć odwołanie:
+Na tym etapie możesz podjąć dwie akcje — zaakceptować lub odrzucić polecenie:
 
-- **Zaakceptuj**: Wprowadź nazwę transakcji, szacowanej wartości transakcji i szacowanego przedziału czasu zakupu. Należy również podać informacje w polu **uwagi** , aby dowiedzieć się więcej o tym, czego szuka klient. Opcjonalnie możesz wprowadzić identyfikator programu CRM (tylko dla celów referencyjnych), identyfikator kampanii marketingowej, co spowodowało odpowiednie potencjalnego klienta i dodać dodatkowe kontakty z firmy. Gdy skończysz, wybierz pozycję **dalej**. Przeniesiemy odwołanie na **kolejny etap**, co oznacza, że planujesz aktywnie współpracować z klientem w celu rozwiązania ich potrzeb. Będziemy również używać tych informacji, aby pomóc w znalezieniu podobnych transakcji w przyszłości. 
+- **Zaakceptuj:** wprowadź nazwę transakcji, szacowaną wartość transakcji i szacowany okres zakupu. Należy również podać informacje w polu **Uwagi,** aby bardziej szczegółowo wyjaśnić, czego szuka klient. Opcjonalnie możesz wprowadzić swój identyfikator CRM w tym miejscu (tylko w celach informacyjnych), identyfikator kampanii marketingowej, co zaowocuje odpowiednim potencjalnym klientem i doda dodatkowe kontakty z Twojej firmy. Po zakończeniu wybierz pozycję **Dalej.** Przeniesiemy polecenie do następnego **etapu,** co oznacza, że planujesz aktywnie współpracować z klientem, aby rozwiązać jego potrzeby. Użyjemy również tych informacji, aby ułatwić znajdowanie podobnych transakcji w przyszłości. 
 
-- **Odrzuć**: Wybierz przyczynę odrzucenia transakcji i Dodaj wszelkie uwagi, które chcesz dołączyć, a następnie wybierz pozycję **Zamknij** . Archiwizujemy go jako **odrzucony** i powiadomi klienta, aby wybrać innego partnera.
+- **Odrzuć:** wybierz przyczynę odrzucenia transakcji i dodaj wszelkie uwagi, które chcesz dołączyć, a następnie wybierz **pozycję Zamknij** ofertę. Zarchiwizujmy ją jako **Odrzucone** i powiadomimy klienta o wybraniu innego partnera.
 
-- Jeśli nie odpowiesz w wyznaczonym czasie (obecnie 14 dni), będziemy archiwizować ją jako **wygasłą** i powiadomić firmę Microsoft lub partnera, który wysłał tę możliwość.
+- Jeśli nie odpowiesz w tym samym czasie (obecnie 14 dni),  zarchiwizujmy ją jako Wygasłe i powiadomimy firmę Microsoft lub partnera, który wysłał Do Ciebie tę możliwość.
 
 > [!TIP]
-> Klient może jawnie zażądać, aby zainteresowani partnerzy skontaktowali się bezpośrednio z nimi. W takim przypadku w górnej części strony zobaczysz alert z ikoną płomienia. Zdecydowanie zalecamy, aby skontaktować się z klientem tak szybko, jak to możliwe, aby zwiększyć szanse wygrania transakcji. Po 72 godzinach odwołanie będzie nadal aktywne, ale ikona i komunikat zmienią się. Należy skontaktować się z klientem, Jeśli interesuje Cię realizowanie odwołania.
+> Klient ma możliwość jawnego zażądania bezpośredniego skontaktowania się z nimi przez zainteresowanych partnerów. W takim przypadku w górnej części strony zostanie wyświetlony alert z ikoną ikony. Zdecydowanie zalecamy skontaktowanie się z klientem tak szybko, jak to możliwe, aby zwiększyć prawdopodobieństwo wygrania transakcji. Po 72 godzinach polecenie będzie nadal aktywne, ale ikona i komunikat zmienią się. Nadal należy skontaktować się z klientem, jeśli interesują Cię skierowania.
 
-### <a name="accepted-stage"></a>Zaakceptowany etap
+### <a name="accepted-stage"></a>Akceptowany etap
 
-Jeśli chcesz zmienić wszystkie informacje podane dla zaakceptowanego odwołania, należy wybrać opcję **Edytuj**. Następnie można zaktualizować nazwę transakcji, szacowaną datę zakupu, szacowaną wartość, notatki, identyfikator CRM i/lub identyfikator kampanii marketingowej.  Możesz również wybrać opcję **Dodaj swoich pracowników** , aby podać imię i nazwisko, numer telefonu i adresy e-mail osób, które pracują nad pracą.
+Jeśli pracujesz nad zamknięciem transakcji, jeśli chcesz zmienić jakiekolwiek informacje podane dla zaakceptowanych poleceń, wybierz pozycję **Edytuj**. Następnie możesz zaktualizować nazwę transakcji, szacowaną datę zakupu, szacowaną wartość, notatki, identyfikator CRM i/lub identyfikator kampanii marketingowej.  Możesz również wybrać pozycję **Dodaj pracowników,** aby podać imię i nazwisko, numer telefonu i adresy e-mail wszystkich dodatkowych osób pracujących nad ofertą.
 
-Gdy skończysz, możesz wykonać jedną z dwóch akcji, która oznacza, że transakcja jest **wykorzystana** lub **utracona** , aby zgłosić wynik, dzięki czemu możemy odpowiednio ją zarchiwizować.
+Po zakończeniu możesz podjąć jedną z dwóch akcji, które oznaczają  transakcja jako Wygrana lub Utracona, aby zgłosić wynik, abyśmy odpowiednio go zarchiwizować. 
 
-### <a name="archived-stage"></a>Zarchiwizowany etap
+### <a name="archived-stage"></a>Etap zarchiwizowane
 
-Jest to etap terminalu, w którym wszystkie możliwości są ostatecznie dostępne. Na tym etapie można wyświetlić wszystkich potencjalnych klientów, którzy znajdują się w stanie **wygrany, utracony, odrzucony** i **wygasły** . Nie ma żadnych akcji, które można wykonać na tym etapie.
+Jest to końcowy etap, do którego docierają wszystkie szanse sprzedaży. Na tym etapie możesz wyświetlić wszystkich potencjalnych klientów, którzy wygrali, utracli, **odrzucili** i **wygasły.** Nie ma żadnych akcji, które można podjąć na tym etapie.
 
-## <a name="getting-more-leads"></a>Większa potencjalni klienci
+## <a name="getting-more-leads"></a>Uzyskiwanie większej liczby potencjalnych klientów
 
-Oto kilka porad ułatwiających uzyskanie bardziej odpowiednich odwołań:
+Oto kilka porad, które pomogą Ci uzyskać bardziej odpowiednie polecenia:
 
-- **Wybierz słowa kluczowe i preferencje, które reprezentują unikatowy i specjalistyczny model biznesowy w [profilu biznesowym](create-a-marketing-profile.md)**. Usuń słowa kluczowe, które generują odwołania, które nie są zainteresowane. Jeśli nie interesują Cię przedsiębiorstwami o określonym rozmiarze, zaktualizuj te Preferencje.
+- **Wybierz słowa kluczowe i preferencje reprezentujące Twoją unikatową wiedzę i model biznesowy w [profilu biznesowym.](create-a-marketing-profile.md)** Usuń słowa kluczowe, które będą generować polecenia, które Cię nie interesują. Jeśli nie interesuje Cię kontakt z firmami o określonej wielkości, zaktualizuj tę preferencję.
 
-- **Przejrzyj swoje informacje kontaktowe w [profilu biznesowym](create-a-marketing-profile.md) dla każdej lokalizacji**. Upewnij się, że Twój zespół otrzymuje alerty przychodzące.
+- **Przejrzyj informacje kontaktowe w profilu [biznesowym dla](create-a-marketing-profile.md) każdej lokalizacji.** Upewnij się, że Twój zespół otrzymuje alerty przychodzące.
 
-- **Szybko reaguj na odwołania**. Gdy w odpowiednim czasie zaczniesz reagować na żądania przychodzące, Zwiększmy widoczność w przyszłych wynikach wyszukiwania klientów. Upewnij się, że zespół szybko odpowie z zamiarem.
+- **Szybko reaguje na polecenia**. W przypadku terminowego reagowania na żądania przychodzące zwiększymy Twoją widoczność w przyszłych wynikach wyszukiwania klientów. Upewnij się, że Twój zespół szybko reaguje z Twoją intencją.
 
-- **Choosy z zaakceptowanymi przez Ciebie ofertami**. Monitorujemy typy transakcji, które można zaakceptować i odrzucić, i użyć tych informacji, aby pomóc w znalezieniu podobnych transakcji. Akceptowanie transakcji, które nie są dobrym dopasowaniem, nie poprawi wyników wyszukiwania i może mieć wpływ na jakość otrzymywanych potencjalnych klientów.
+- **Nie omów transakcji, które akceptujesz.** Monitorujemy typy akceptowanych i odrzucanych transakcji oraz używamy tych informacji, aby pomóc Ci znaleźć podobne transakcje. Zaakceptowanie transakcji, które nie są dobrym rozwiązaniem, nie poprawi wyników wyszukiwania i może wpłynąć na jakość obierania potencjalnych klientów.
 
-- **Zgłoś ponownie szacowane rozmiary transakcji, daty zamknięcia i końcowy status Twoich transakcji (wygrane lub utracone)**. Będziemy używać tych informacji, aby w dalszym ciągu udostępniać dane dotyczące jakości.
+- **Z report back the estimated deal sizes, closing dates, and the final status of your deals (won or lost)**. Użyjemy tych informacji, aby nadal dostarczać polecenia wysokiej jakości.
 
 ## <a name="next-steps"></a>Następne kroki
 
 - [Manage co-sell opportunities (Zarządzanie możliwościami wspólnego sprzedawania)](manage-co-sell-opportunities.md)
 
-- [Uzyskaj łącznik współsprzedażowy dla programu Dynamics 365 CRM](connector-dynamics.md)
+- [Uzyskiwanie łącznika do współpracy sprzedaży dla usługi Dynamics 365 CRM](connector-dynamics.md)
 
-- [Uzyskaj łącznik współsprzedażowy dla programu Salesforce CRM](connector-salesforce.md)
+- [Uzyskiwanie łącznika do współsprzedaży dla rozwiązania Salesforce CRM](connector-salesforce.md)

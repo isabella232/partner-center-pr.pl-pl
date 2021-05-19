@@ -1,6 +1,6 @@
 ---
-title: Przegląd planów i weryfikacji wykonywania
-description: Poznaj najważniejsze dokumenty, które są związane z zachętami, w tym plan oświadczeń dla współpracowników i szczegółowe potwierdzenie wykonania (PoE).
+title: Omówienie planów i dowodów wykonania
+description: Dowiedz się więcej na temat kluczowych dokumentów wymaganych przez zachęty, w tym planu zachęt do współpracy oświadczeń i szczegółowego potwierdzenia wykonania (PoE).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,48 +8,45 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 3cd9ee73da3432b88c2ef3669f12451d675a319a
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: e98296aa42327a7b2ebd91b44f2e28e9010600bb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179177"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146752"
 ---
-# <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Użyj tych zasobów, aby pomóc w tworzeniu planów i prób wykonywania zachęt
+# <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Te zasoby ułatwiają tworzenie planów zachęt i dowodów wykonania
 
-**Odpowiednie role**
+**Odpowiednie role:** Zachęty dla administratorów | Zachęty użytkownika
 
-- Administrator zachęt
-- Użytkownik zachęt
+W tym artykule opisano niektóre z kluczowych dokumentów wymaganych do pomyślnego uzyskania zapłaty za pracę w ramach określonego programu zachęt. Te dokumenty obejmują:
 
-W tym artykule opisano niektóre z najważniejszych dokumentów wymaganych do pomyślnego nawiązania sukcesu i zapłacenia za pracę w konkretnym programie zachęt. Te dokumenty obejmują:
+- Zachęty — plan roszczeń do współpracy
+- Szczegółowa potwierdzenie wykonania (PoE)
 
-- Plan oświadczeń z zachętą
-- Szczegółowy dowód wykonania (PoE)
+W zależności od typu programu zachęt, w ramach których jesteś zarejestrowanym użytkownikiem, Twój plan zachęt do współpracy z roszczeniami i twoja weryfikacja wykonania (PoE) będą kluczowe dla Twojego sukcesu dzięki zachętom.
 
-W zależności od typu programu bodźców, który jest rejestrowany w programie, plan oświadczeń współpracujących z przepisami i potwierdzeniem wykonania (PoE) będzie pełnić funkcję zachęty do sukcesu.
+## <a name="what-is-an-incentives-co-op-claims-plan"></a>Co to jest plan zachęt do współpracy w oświadczeń?
 
-## <a name="what-is-an-incentives-co-op-claims-plan"></a>Co to jest plan oświadczeń dotyczących współdziałania?
-
-Plan oświadczeń dotyczących współdziałania w ramach programu zachęty opisuje kampanie marketingowe, działania oraz inne szczegóły, które są konieczne do pomyślnego przeprowadzenia programów. Po utworzeniu tego planu zostanie on przesłany do firmy Microsoft w celu zatwierdzenia. Dowiedz się więcej [na temat tworzenia planu](incentives-create-your-plan.md).
+Plan roszczeń dotyczących współpracy zachęt opisuje kampanie marketingowe, działania i inne szczegóły potrzebne do powodzenia programu. Po utworzeniu tego planu należy przesłać go do firmy Microsoft w celu zatwierdzenia. Dowiedz się więcej [na temat tworzenia planu](incentives-create-your-plan.md).
 
 ## <a name="what-is-a-proof-of-execution-poe"></a>Co to jest dowód wykonania (PoE)?
 
-Po otrzymaniu płatności za zachęty należy przesłać szczegółowe potwierdzenie wykonania (PoE) do firmy Microsoft. Twoje PoE mogą zawierać szczegółowe informacje o każdej powiązanej kampanii, dacie wystąpiło działanie bodźce oraz wnioskowaną kwotę. 
+Po opłaceniu pracy w programie zachęt należy przesłać do firmy Microsoft szczegółową weryfikację wykonania. Twoje żądanie zakupu może zawierać szczegółowe informacje o dowolnej powiązanej kampanii, dacie, w ramach którego wystąpiło działanie zachęt, oraz kwoty, które są w nim deklarowane. 
 
-Dowiedz się więcej o [przygotowaniu potwierdzenia wykonania](incentives-prepare-your-proof-of-execution.md).
+Dowiedz się więcej [na temat przygotowywania dowodów wykonania.](incentives-prepare-your-proof-of-execution.md)
 
-## <a name="incentives-document-resources"></a>Zachęca do zasobów dokumentów
+## <a name="incentives-document-resources"></a>Zachęty dla zasobów dokumentów
 
-Poniższe zasoby wyjaśniają sposób organizowania, tworzenia i edytowania tych najważniejszych dokumentów. Opisano w nich również, co należy zrobić, jeśli firma Microsoft zatwierdzi Twoje zgłoszenie lub jeśli którekolwiek z roszczeń zostało odrzucone.
+W poniższych zasobach wyjaśniono, jak organizować, tworzyć i edytować te dokumenty z kluczowymi zachętami. Opisano również, co należy zrobić, jeśli firma Microsoft zatwierdzi Twoje roszczenie lub jeśli jakiekolwiek roszczenie zostanie odrzucone.
 
-|  **Aby to zrobić**  |  **Przeczytaj to**  |
+|  **W tym celu**  |  **Przeczytaj to**  |
 |--------------|-----------|
-| Dowiedz się, jak utworzyć plan oświadczeń dotyczących współdziałania | [Tworzenie planu](incentives-create-your-plan.md)  |
-Dowiedz się, jak utworzyć potwierdzenie wykonania | [Przygotowywanie potwierdzenia wykonania](incentives-prepare-your-proof-of-execution.md)  |
+| Dowiedz się, jak utworzyć plan zachęt do współpracy z roszczeniami | [Tworzenie planu](incentives-create-your-plan.md)  |
+Dowiedz się, jak utworzyć dowód wykonania | [Przygotowywanie potwierdzenia wykonania](incentives-prepare-your-proof-of-execution.md)  |
 
 ## <a name="next-steps"></a>Następne kroki
 
-- Dowiedz się, jak [utworzyć własny plan](incentives-create-your-plan.md)
-- Dowiedz się więcej na temat [procesu zgłaszania wniosków o zachęty](claims-overview.md)
-- Dowiedz się więcej [na temat zachęt dla skojarzeń klientów przy użyciu modelu CPOR](submit-osa-claim.md)
+- Dowiedz się, [jak utworzyć własny plan](incentives-create-your-plan.md)
+- Dowiedz się więcej na [temat procesu roszczeń dotyczących](claims-overview.md) współpracy zachęt
+- Dowiedz się więcej [o zachętach dla skojarzeń klientów korzystających z modelu CPOR](submit-osa-claim.md)

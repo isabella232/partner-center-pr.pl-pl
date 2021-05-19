@@ -1,124 +1,121 @@
 ---
-title: Pobierz liderów sprzedaży — Utwórz profil biznesowy
+title: Uzyskiwanie potencjalnych klientów — tworzenie profilu biznesowego
 ms.topic: article
 ms.date: 03/09/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, jak uzyskać dostęp do sprzedaży od firmy Microsoft. Jednym z kluczowych jest utworzenie profilu biznesowego w centrum partnerskim, który umożliwia klientom łatwiejsze znajdowanie.
+description: Dowiedz się, jak uzyskać potencjalnych klientów od firmy Microsoft. Jednym z kluczy jest utworzenie profilu biznesowego w u Partner Center który pozwala klientom łatwiej cię znaleźć.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: f66a5c32f145be5a80de838dae2cd1926e6aebce
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964396"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148212"
 ---
-# <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Utwórz profil biznesowy, aby uzyskać potencjalnych klientów firmy Microsoft i pomóc klientom w znalezieniu
+# <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Tworzenie profilu biznesowego w celu uzyskania potencjalnych klientów firmy Microsoft i pomocy klientom w ich odnalezieniu
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator profilu biznesowego | Administrator poleceń
 
-- Administrator profilu biznesowego
-- Administrator odwołań
+Jako kwalifikowany partner firmy Microsoft możesz utworzyć profil biznesowy, aby zaprezentować swoją firmę klientom, którzy szukają Twoich unikatowych rozwiązań i wiedzy, aby rozwiązać ich potrzeby biznesowe.
 
-Jako uprawniony partner firmy Microsoft możesz utworzyć profil biznesowy, aby zaprezentować firmę klientom, którzy szukali unikatowych rozwiązań i wiedzy, aby sprostać potrzebom biznesowym.
+Firma Microsoft każdego roku angażuje miliony klientów w ramach działań marketingowych, sprzedażowych i usługowych. Większość z tych zaangażowania daje nam możliwości zapewnienia poleceń dla naszych partnerów w formie potencjalnych klientów. 
 
-Firma Microsoft zatrudnia miliony klientów co roku w ramach wysiłków marketingowych, sprzedaży i usług. Większość z tych zakontraktowań pozwala tworzyć okazje dla naszych partnerów w postaci liderów sprzedaży. 
+Utworzenie profilu biznesowego to pierwszy krok w kierunku uzyskania poleceń. Pokażemy Twój profil klientom, którzy poszukują partnerów, którzy mogą pomóc im we wdrażaniu produktów i rozwiązań firmy Microsoft, za pośrednictwem:
 
-Tworzenie profilu biznesowego to pierwszy krok w kierunku uzyskiwania odwołań. Pokażemy Twój profil klientom poszukującym partnerów, którzy mogą pomóc im wdrożyć produkty i rozwiązania firmy Microsoft, w tym:
+- **Środowisko [wyszukiwania dostawcy](https://www.microsoft.com/solution-providers/home) rozwiązań .** Potencjalni klienci mogą samodzielnie wyszukiwać oferty partnerów, aby zlokalizować partnerów spełniających ich kryteria wyszukiwania.
 
-- **Środowisko wyszukiwania [dostawcy rozwiązań](https://www.microsoft.com/solution-providers/home)**. Potencjalni klienci mogą samodzielnie przeszukiwać osoby partnerskie w celu lokalizowania partnerów spełniających kryteria wyszukiwania.
-
-- **Odwołania od pracowników działu sprzedaży i usług firmy Microsoft**. Potencjalni klienci zainteresowani wdrożeniem rozwiązań technologicznych opartych na chmurze kontaktują się z firmą Microsoft w celu znalezienia profesjonalistów, którzy mogą sprostać potrzebom biznesowym. Ci specjaliści firmy Microsoft mogą następnie skierować potencjalnych klientów do firmy.
+- **Polecenia od pracowników działu sprzedaży i obsługi firmy Microsoft.** Potencjalni klienci zainteresowani wdrożeniem rozwiązań technologicznych opartych na chmurze kontaktują się z firmą Microsoft w celu znalezienia specjalistów spełniających ich potrzeby biznesowe. Ci specjaliści firmy Microsoft mogą następnie odwoływać potencjalnych klientów do Twojej firmy.
 
 ## <a name="create-a-profile"></a>Tworzenie profilu
 
 > [!NOTE]  
-> Aby można było utworzyć profil biznesowy, musisz mieć konto Centrum partnerskiego. Jeśli nie masz jeszcze konta Centrum partnerskiego, zapoznaj się z artykułem [Tworzenie konta Centrum partnerskiego](mpn-create-a-partner-center-account.md) , aby uzyskać pomoc w tworzeniu jednego z nich.
+> Aby można było utworzyć profil biznesowy, musisz mieć Partner Center biznesowe. Jeśli nie masz jeszcze konta Partner Center, zobacz [Tworzenie](mpn-create-a-partner-center-account.md) konta Partner Center, aby uzyskać pomoc w jego tworzeniu.
 
-Utwórz profile dla każdego regionu, do którego masz uprawnienia do prowadzenia działalności.
+Utwórz profile dla każdego regionu, w których masz uprawnienia do prowadzenia działalności.
 
-1. W menu **Centrum partnerskiego** wybierz pozycję **odwołania** &gt; **profile biznesowe** &gt; Wybierz kraj/region > **[utworzyć profil biznesowy](https://partner.microsoft.com/referrals/businessprofiles/)**.
+1. Z menu **Partner Center** pozycję Profile  biznesowe poleceń wybierz &gt;  &gt; kraj/region, a > **[Utwórz profil biznesowy.](https://partner.microsoft.com/referrals/businessprofiles/)**
 
-2. Na stronie **Utwórz profil biznesowy** wybierz region, a następnie wprowadź informacje o profilu.
+2. Na stronie **Tworzenie profilu biznesowego** wybierz region, a następnie wprowadź informacje o profilu.
    > [!NOTE]  
-   >  Centrum partnerskie obsługuje wiele języków, ale niektóre elementy, takie jak opis i Tagi dowolnego formularza, mogą wymagać dołączenia tekstu z różnych języków, jak to opisano w tym temacie.
+   >  Chociaż Partner Center obsługuje wiele języków, niektóre elementy, takie jak opis i tagi w formularzu swobodnym, mogą wymagać dołączyć tekst z różnych języków, jak wspomniano w tym temacie.
 
 ### <a name="partner-information"></a>Informacje o partnerze
 
-Wprowadź firmę, Dodaj logo i Krótki opis oraz link do witryny sieci Web. 
+Wprowadź swoją firmę, dodając logo i krótki opis oraz link do witryny internetowej. 
 
-Logo może być plikiem GIF, JPG lub PNG z maksymalną szerokością 300 pikseli. Zalecamy stosowanie proporcji kwadratowej lub długiej. Nie zaleca się stosowania proporcji o wysokiej proporcji.
+Logo może być plikiem GIF, JPG lub PNG o maksymalnej szerokości 300 pikseli. Zalecamy używanie kwadratowych lub długich współczynników proporcji. Wysoki współczynnik proporcji nie jest zalecany.
 
-Opis może składać się z maksymalnie 2500 znaków. Porady dotyczące doskonały opis: 
+Opis może mieć maksymalnie 2500 znaków. Porady dotyczące doskonałego opisu: 
 
--  Zapoznaj **się** z najważniejszymi zdaniami w pierwszym zdaniu lub dwóch. Powinien to być nagłówek, który przechwytuje uwagę klientów. W obszarze Wyszukiwanie w ramach wyszukiwania przez partnera zostanie wyświetlony pierwszy wiersz lub dwa w podglądzie wyników wyszukiwania.
--  **Skup się na doświadczeniach firmy z ofertami specyficznymi dla firmy Microsoft**. Klienci szukający odwołań zazwyczaj szukają partnerów z doświadczeniem firmy Microsoft.
--  **Użyj punktorów**. Podziel informacje na listy punktowane, aby ułatwić ich skanowanie.
--  **Należy unikać żargon**. Korzystaj z prostego, codziennego języka, nazywając oferty na to, co robią: wymagane przez nich działania lub zadania lub cel, które pomagają klientom.
--  **Nie martw się o wypełnienie opisu słowami kluczowymi wyszukiwania**. Narzędzia wyszukiwania klienta wyszukują słowa kluczowe wygenerowane w sekcji specjalizacja partnera, a nie opis.
--  **Zachowaj aktualność profilu**. W przypadku każdego oprogramowania lub usługi należy zaktualizować profil, zachowując jego synchronizację z witryną sieci Web firmy.
--  **Nie odwołują się do innych firm partnerskich firmy Microsoft według nazwy**, chyba że jest to spółka zależna ani nie jest stowarzyszona z firmą, bądź masz umowę z firmą partnerskią do działania w ramach partnerstwa i/lub podwyższania poziomu dla udostępnionych możliwości roboczych.
--  W **przypadku regionów z wieloma językami** należy rozważyć dołączenie tekstu z wielu języków w opisie.
+-  **Bądź krótki**, prowadząc z tym, co jest ważne w pierwszym zdaniu lub dwóch. Powinien to być nagłówek, który przyciąga uwagę klientów. W oknie wyszukiwania Znajdź partnera zostanie wyświetlony pierwszy wiersz lub dwa w podglądzie wyników wyszukiwania.
+-  **Skoncentruj się na doświadczeniach firmy z ofertami firmy Microsoft.** Klienci wyszukują polecenia i zazwyczaj poszukują partnerów ze specyficznym dla firmy Microsoft doświadczeniem.
+-  **Użyj punktorów**. Podział informacji na listy punktowane w celu ułatwienia skanowania.
+-  **Unikaj żargonu**. Używaj prostego, codziennego języka, nazw swoich ofert dla tego, co robią: potrzeb biznesowych, z jakimi one korzystają, lub zadania lub celu, które pomagają klientom osiągnąć.
+-  **Nie przejmuj się wypełnianiem opisu słowami kluczowymi wyszukiwania**. Narzędzia wyszukiwania klientów wyszukuje słowa kluczowe wygenerowane w sekcji Wiedza partnerska, a nie opis.
+-  **Zachowaj bieżący profil.** Przy każdym wydaniu oprogramowania lub usługi zaktualizuj swój profil, zachowując jego synchronizację z witryną internetową firmy.
+-  Nie należy odwoływać się do innej firmy partnerskiej firmy **Microsoft** według nazwy, chyba że jest ona podmiotem zależnym lub w inny sposób powiązana z Twoją firmą lub masz bieżącą umowę z firmą partnerską na działanie w ramach partnerstwa i/lub promowanie siebie nawzajem w przypadku współdzielonych możliwości pracy.
+-  **W przypadku regionów z wieloma językami** rozważ uwzględnianie tekstu z wielu języków w opisie.
 
 #### <a name="linkedin-company-page-more-ways-to-connect"></a>Strona firmy w serwisie LinkedIn: więcej sposobów nawiązywania połączenia
 
-Dodaj stronę firmy w serwisie LinkedIn, aby wzmocnić połączenia z potencjalnymi klientami. 
+Dodaj stronę firmy w serwisie LinkedIn, aby wzmacniać połączenia z potencjalnymi klientami. 
 
-Po dołączeniu tego linku klienci będą mogli szybko wyświetlić więcej informacji o organizacji za pomocą platformy LinkedIn.
+Jeśli dołączysz ten link, klienci będą mogli szybko wyświetlić więcej informacji o Organizacji za pośrednictwem platformy LinkedIn.
 
-Jeśli nie masz jeszcze strony firmy w serwisie LinkedIn, możesz ją [utworzyć](https://www.linkedin.com/company/setup/new/).
+Jeśli nie masz jeszcze strony firmy w serwisie LinkedIn, możesz ją [utworzyć teraz.](https://www.linkedin.com/company/setup/new/)
 
-### <a name="partner-expertise"></a>Znajomość partnerów
+### <a name="partner-expertise"></a>Wiedza partnerów
 
-Narzędzia Wyszukiwanie **partnerów** wyszukiwania szukają tagów doświadczenia. Zoptymalizuj te Tagi, aby pomóc w uzyskaniu wglądu w profile.
+Narzędzia **wyszukiwania Znajdź partnera** szukają tagów wiedzy. Zoptymalizuj te tagi, aby ułatwić profilowi uzyskanie wglądu.
 
-Zacznij od dodania własnych tagów do sekcji specjalizacja partnerów. Tagi, które można dodać: 
+Zacznij od dodania własnych tagów do sekcji Partner Expertise (Wiedza partnerska). Tagi, które można dodać: 
 
--  **Tagi skoncentrowania branżowego**
+-  **Tagi fokusu branżowego**
 -  **Produkty**. Ograniczone do produktów firmy Microsoft
 -  **Typ usługi**
--  **Rozwiązania, umiejętności i możliwości**. Tagi te są bezpłatne i umożliwiają dodawanie słów kluczowych wyszukiwania, które są unikatowe dla Twoich możliwości.
+-  **Rozwiązania, umiejętności i możliwości.** Tagi te mają postać bezpłatną i zapewniają możliwość dodawania słów kluczowych wyszukiwania, które są unikatowe dla Twoich możliwości.
 
-Inne Tagi używane podczas wyszukiwania:
+Inne tagi używane w wyszukiwaniu:
 
-- **Tagi kompetencji** to wyznaczenie wypracowane przedstawiające możliwości firmy.
+- **Tagi kompetencji to** zdobyte oznaczenie, które pokazuje możliwości firmy.
 
 ### <a name="customer-preferences"></a>Preferencje klienta
 
 #### <a name="target-size"></a>Rozmiar docelowy
 
-Możesz zrezygnować z odwołań od firm, które nie spełniają Twojego docelowego rozmiaru klienta.
+Możesz zrezygnować z poleceń od firm, które nie spełniają wymagań twojego docelowego klienta.
 
-Dzięki temu będziesz mieć więcej czasu na wyszukanie firm, które są zgodne z firmami, z którymi wolisz pracować.
+Rezygnacja z tej opcji pozwala poświęcać więcej czasu na pracę w firmach, które są zgodne z firmami, z których wolisz pracować.
 
 #### <a name="locations"></a>Lokalizacje
 
-Można dodać maksymalnie 5 najpopularniejszych lokalizacji w poszczególnych regionach. Te lokalizacje są wyświetlane, gdy klienci szukają partnerów przez sąsiedztwo.
+Można dodać maksymalnie 5 lokalizacji firmy na region. Te lokalizacje są wyświetlane, gdy klienci wyszukuje partnerów w pobliżu.
 
-Wskaż lokalizacje, które są oficjalnymi lokalizacjami firmy i można sprawdzić ich poprawność. Wybierz lokalizacje, które są centralne względem rynków, które są używane, i najlepiej reprezentuje możliwości firmy.
+Wskaż lokalizacje, które są oficjalnymi lokalizacjami firmy i które mogą być weryfikowane. Wybierz lokalizacje, które są centralnymi lokalizacjami dla rynku, na którym działasz, i najlepiej reprezentują możliwości twojej firmy do zrealizowania.
 
-Po zakończeniu aktualizowania informacji o lokalizacji wybierz pozycję **Zapisz tę lokalizację** lub **Zapisz tę lokalizację i Dodaj kolejną** (nawet jeśli jest dodawana tylko jedna lokalizacja).
+Po zakończeniu aktualizowania informacji o  lokalizacji wybierz pozycję Zapisz tę lokalizację lub Zapisz tę lokalizację i dodaj kolejną **(nawet** jeśli dodajesz tylko jedną lokalizację).
 
-Każda dodana lokalizacja zostanie oddzielną stroną profilu. Podczas aktualizowania stron profilów upewnij się, że zostały one zaktualizowane dla każdej lokalizacji.
+Każda dodana lokalizacja staje się oddzielną stroną profilu. Podczas aktualizowania stron profilu upewnij się, że są aktualizowane dla każdej lokalizacji.
 
-Aby zaktualizować adres lokalizacji, musisz najpierw **usunąć** lokalizację i ponownie ją dodać.
+Aby zaktualizować adres lokalizacji, należy najpierw  usunąć lokalizację i dodać ją ponownie.
 
-Jeśli masz 5 największych lokalizacji i musisz ją zmienić, najpierw **Usuń** istniejącą lokalizację i Dodaj nową lokalizację.
+Jeśli znajdujesz się w 5 najlepszych lokalizacjach i musisz ją **zmienić,** najpierw usuń istniejącą lokalizację i dodaj nową lokalizację.
 
-## <a name="review-your-profile"></a>Przejrzyj swój profil
+## <a name="review-your-profile"></a>Przeglądanie profilu
 
-Po opublikowaniu profilu aktualizacje są wyświetlane w obszarze wyszukiwania [dostawcy rozwiązań](https://www.microsoft.com/solution-providers/home) w ciągu 24 godzin.
+Po opublikowaniu profilu aktualizacje zostaną [](https://www.microsoft.com/solution-providers/home) wyświetlone w wyszukiwaniu Znajdź dostawcę rozwiązań w ciągu 24 godzin.
 
-## <a name="improve-the-visibility-of-your-profile"></a>Popraw widoczność profilu
+## <a name="improve-the-visibility-of-your-profile"></a>Poprawianie widoczności profilu
 
-- **[Szybkie reagowanie na żądania](manage-leads.md)**. Gdy otrzymasz odwołanie klienta, szybsza odpowiedź może prowadzić do lepszego rezultatu na stronach wyszukiwania dla przyszłych klientów.
+- **[Szybko odpowiadaj na żądania](manage-leads.md)**. Po otrzymaniu polecenia klienta szybsza odpowiedź może prowadzić do lepszych wyników na stronach wyszukiwania dla przyszłych klientów.
 
-- **Być wybiórcze ze znacznikami**.  Lepiej jest mieć mniejszą liczbę tagów, która najlepiej reprezentuje oferty firmy, rozwiązania, propozycje wartości i unikatowe położenie, w którym można spójnie przedstawić sukces.  Spowoduje to wyregulowanie dywidend w przyszłych wynikach wyszukiwania.
-- **Uzyskuj znaczniki kompetencji** w firmie Microsoft, aby przedstawić swoją biegłość w naszych produktach.
+- **Należy selektywnie z tagami**.  Lepiej mieć mniej tagów, które najlepiej reprezentują oferty, rozwiązania, ofertę wartości i unikatową pozycję, w której można stale demonstrować sukces.  Spowoduje to zapłacenia dywidendy w przyszłych wynikach wyszukiwania.
+- **Zdobywaj tagi kompetencji za** pośrednictwem firmy Microsoft, aby zademonstrować Twoją biegłość w naszych produktach.
 
 ## <a name="next-steps"></a>Następne kroki
 
-[Reagowanie na odwołania](manage-leads.md)
+[Odpowiadanie na polecenia](manage-leads.md)

@@ -9,26 +9,22 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: ae39190e47b48a69e103da6d899b11c224a56d22
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: c4e1459b71016718533d02953691065332c4ad13
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686147"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147347"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Zapewnianie klientom różnych rodzajów pomocy technicznej
 
-**Dotyczy**
+**Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Centrum partnerskie Microsoft Cloud for US Government
-
-**Odpowiednie role**
-
-- Agent pomocy
+**Odpowiednie role:** Agent pomocy
 
 ## <a name="microsoft-partner-support-guidance"></a>Wskazówki dotyczące pomocy technicznej dla partnerów firmy Microsoft
 
-Partnerzy, którzy inicjują transakcje w modelu CSP, są zaufanymi doradcami ich klientów, a jeśli jesteś partnerem z bezpośrednimi rozliczeniami, jesteś właścicielem relacji end-to-end. Odsprzedawcy pośredni powinni współpracować ze swoimi dostawcami pośrednimi w celu obsługi klientów. Ta relacja obejmuje obsługę klientów w przypadku pytań lub problemów. Dzięki zapewnieniu pomocy technicznej klientom możesz dowiedzieć się więcej o nich i ich działalności. Ułatwia to zidentyfikowanie nowych usług i rozwiązań, które wpływają na wartość.
+Partnerzy, którzy inicjują transakcje w modelu CSP, są zaufanymi doradcami ich klientów, a jeśli jesteś partnerem z bezpośrednimi rozliczeniami, jesteś właścicielem relacji end-to-end. Odsprzedawcy pośredni powinni współpracować ze swoimi dostawcami pośrednimi, aby wspierać klientów. Ta relacja obejmuje obsługę klientów w przypadku pytań lub problemów. Dzięki zapewnieniu pomocy technicznej klientom możesz dowiedzieć się więcej o nich i ich działalności. Ułatwia to zidentyfikowanie nowych usług i rozwiązań, które wpływają na wartość.
 
 Aby spełnić wymaganie dotyczące pomocy technicznej, możesz odsprzedać pomoc techniczną innej firmie, zlecić całą lub część struktury pomocy technicznej i/lub skonfigurować strukturę w celu bezpośredniego świadczenia pomocy technicznej. Możesz naliczać opłaty za całą lub część pomocy technicznej udostępnianej klientom. Pamiętaj, aby poinformować klientów o typach pomocy technicznej, które zapewniasz, godzinach pracy, metodzie kontaktu i cenach (jeśli są obciążane pomocą techniczną).
 
@@ -44,7 +40,7 @@ Klienci CSP nie mogą samodzielnie tworzyć biletów pomocy technicznej. Muszą 
 
   - [Signature Cloud Support](manage-your-partner-network-benefits.md) (zawarte w korzyściach MPN dla kompetencji Gold lub Silver, używanie tylko dla produktów w chmurze)
 
-  - [Zdarzenia pomocy technicznej produktu](manage-your-partner-network-benefits.md) (w tym korzyści programu MPN dla partnerów firmy Gold, Silver lub Microsoft Action Pack, których można używać tylko w przypadku najnowszych produktów lokalnych)
+  - [Zdarzenia pomocy technicznej produktu](manage-your-partner-network-benefits.md) (w tym korzyści związane z programem MPN dla partnerów firmy Gold, Silver lub Microsoft Action Pack, których można używać tylko w przypadku najnowszych produktów lokalnych)
 
 ## <a name="providing-billing-subscription-management-and-technical-support"></a>Zapewnianie rozliczeń, zarządzania subskrypcjami i pomocy technicznej 
 

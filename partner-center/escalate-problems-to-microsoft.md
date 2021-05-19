@@ -1,6 +1,6 @@
 ---
 title: Eskalacja problemów do firmy Microsoft
-description: Dowiedz się, które problemy partnerzy firmy Microsoft powinni rozwiązać dla swoich klientów i jakie problemy mogą wymagać eskalacji do firmy Microsoft.
+description: Dowiedz się, które problemy partnerzy firmy Microsoft powinni rozwiązać samodzielnie dla swoich klientów oraz jakie problemy mogą być konieczne do eskalacji do firmy Microsoft.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,58 +9,51 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 4422c5b002f8233f9d6225e7d4e7a82f6e37a280
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9504f66a53b2dc2303303e3f82020b591ce1f94f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441850"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146973"
 ---
-# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Eskalacja problemów do firmy Microsoft i Dowiedz się, które problemy są bardziej odpowiednie dla eskalacji firmy Microsoft  
+# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Eskalowanie problemów do firmy Microsoft i dowiedz się, które problemy są bardziej odpowiednie do eskalacji firmy Microsoft  
 
-**Dotyczy**
+**Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Centrum partnerskie Microsoft Cloud for US Government
+**Odpowiednie role:** Agent administracyjny | Administrator globalny | Agent sprzedaży | Agent pomocy technicznej
 
-**Odpowiednie role**
+Oczekuje się, że będziesz rozwiązywać problemy w imieniu klientów. Pierwszym krokiem powinno być sprawdzenie [kondycji usługi pod](check-service-health.md) uwagę istniejących, udokumentowanych problemów. Jeśli nie rozwiąże to problemu klienta, możesz użyć uprawnień administratora do rozwiązywania problemów z oprogramowaniem, ustawieniami i konfiguracją.
 
-- Agent administracyjny
-- Administrator globalny
-- Agent sprzedaży
-- Agent pomocy technicznej
-
-Należy się spodziewać, że zostaną rozwiązane problemy w imieniu klientów. Pierwszym etapem jest [Sprawdzenie kondycji usługi](check-service-health.md) dla istniejących, udokumentowanych problemów. Jeśli to nie rozwiąże problemu z klientem, możesz użyć uprawnień administratora do rozwiązywania problemów z oprogramowaniem, ustawieniami i konfiguracją.
-
-Istnieje jednak kilka kategorii problemów, które należy przeprowadzić do firmy Microsoft, aby rozwiązać ten problem:
+Istnieje jednak kilka kategorii problemów, które należy rozwiązać, aby rozwiązać ten problem:
 
 - Nieudokumentowane problemy z usługami, które nie działają zgodnie z opisami usług.
 
 - Niedostępne usługi
 
-- Usterki i inne niezgodności, które wpływają na wygląd lub działanie usługi
+- Usterki i inne nieprawidłowości, które mają wpływ na wygląd lub działanie usługi
 
-- Zakłócenia sieci na dużą skalę
+- Przerwy w działaniu sieci na dużą skalę
 
-- Problemy regionalne z wpływem wielu dzierżawców
+- Problemy regionalne związane z wpływem na wiele dzierżaw
 
-## <a name="submit-a-support-request"></a>Prześlij żądanie pomocy technicznej
+## <a name="submit-a-support-request"></a>Prześlij wniosek o pomoc techniczną
 
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
+1. Zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard)
 
-2. W menu Centrum partnerskiego wybierz pozycję **klienci**, a następnie wybierz klienta, który potrzebuje pomocy technicznej.
+2. Z menu Partner Center wybierz pozycję **Klienci,** a następnie wybierz klienta, który potrzebuje pomocy technicznej.
 
-3. Wybierz pozycję **Zarządzanie usługami** i wybierz pozycję **żądania obsługi**.
+3. Wybierz **pozycję Zarządzanie usługami** i wybierz **pozycję Żądania obsługi.**
 
-4. Wybierz pozycję **nowe żądanie** , a następnie wybierz pozycję **Microsoft Office 365**.
+4. Wybierz **pozycję Nowe żądanie,** a następnie **wybierz Microsoft Office 365.**
 
-5. Nastąpi przekierowanie do portalu pakietu Office 365, w którym należy się zalogować przy użyciu poświadczeń Centrum partnerskiego.
+5. Zostaniesz przekierowyny do portalu usługi Office 365, w którym musisz zalogować się przy użyciu Partner Center poświadczeń.
 
-6. Wybierz pozycję **Obsługa**, **nowe żądanie obsługi** z menu po lewej stronie.
+6. Wybierz **pozycję Pomoc** techniczna , Nowe żądanie **obsługi** z menu po lewej stronie.
 
-7. Wybierz temat Pomoc techniczna.
+7. Wybierz temat pomocy technicznej.
 
 >[!NOTE]
->Ważne jest, aby zacząć od pulpitu nawigacyjnego Centrum partnerskiego w celu zachowania relacji między partnerem i klientem. 
+>Ważne jest, aby rozpocząć od pulpitu nawigacyjnego Partner Center, aby utrzymać relację między partnerem i klientem. 
 
-Informacje o problemach z raportowaniem w imieniu klienta znajdują się w temacie raportowanie [problemów w imieniu klienta](report-problems-on-behalf-of-a-customer.md).
+Aby uzyskać informacje na temat zgłaszania problemów w imieniu klienta, zobacz Zgłaszanie problemów [w imieniu klienta.](report-problems-on-behalf-of-a-customer.md)
 

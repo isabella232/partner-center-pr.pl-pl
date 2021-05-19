@@ -1,6 +1,6 @@
 ---
-title: Obsługa wielokanałowego dla klientów
-description: W niektórych przypadkach klienci mogą chcieć zatrudnić do aprowizacji i obsłużyć subskrypcję zakupione w innym miejscu.
+title: Obsługa wielu kanałów dla klientów
+description: W niektórych przypadkach klienci mogą chcieć zatrudnić Cię do aprowizować i obsługiwać subskrypcję kupioną w innym miejscu.
 ms.topic: article
 ms.date: 06/17/2020
 ms.service: partner-dashboard
@@ -9,43 +9,37 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9bf577b6869a8b48215cb404df872d79f38e6a5e
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: bd0bb946c2f59f50c27aff58569d497bc21bf30b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441986"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146412"
 ---
-# <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Obsługa wielokanałowa — używanie innych partnerów do obsługi subskrypcji klientów zakupionych w innym miejscu
+# <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Obsługa wielu kanałów — używanie innych partnerów do obsługi subskrypcji klientów zakupionych w innym miejscu
 
-**Dotyczy**
+**Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Centrum partnerskie Microsoft Cloud for US Government
+**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent sprzedaży
 
-**Odpowiednie role**
+Funkcja Partner Center obsługuje scenariusze, w których klient chce zatrudnić partnera do zarządzania subskrypcją kupioną w innym miejscu i obsługiwać ją. Obsługa wielu kanałów ma zastosowanie, gdy klient:
 
-- Administrator globalny
-- Administrator zarządzania użytkownikami
-- Agent sprzedaży
+- Już zakupione subskrypcje bezpośrednio od firmy Microsoft lub za pośrednictwem programów Advisor, Open lub EA.
 
-Funkcja wielokanałowego Centrum partnerskiego obsługuje scenariusze, gdy klient chce zatrudniać partnera w celu zarządzania subskrypcją, która została zakupiona w innym miejscu. Obsługa wielokanałowa jest stosowana, gdy klient:
+- Zakupiono subskrypcje od innej firmy, która nie jest Dostawca rozwiązań w chmurze programem firmy Microsoft lub nie jest partnerem syndykacji firmy Microsoft. Klienci nie mogą przełączyć istniejących subskrypcji opartych na licencjach na innego partnera w programie Dostawca rozwiązań w chmurze — muszą poczekać do końca okresu subskrypcji lub anulować przed przeniesieniem.
 
-- Już zakupiono subskrypcje bezpośrednio od firmy Microsoft lub za pośrednictwem usługi Advisor, Open lub EA.
-
-- Zakupiono subskrypcje od innych firm, które nie są w programie dostawcy rozwiązań w chmurze ani nie są partnerem Microsoft Syndication. Klienci nie mogą przełączać istniejących subskrypcji opartych na licencji na innego partnera w programie dostawcy rozwiązań w chmurze — muszą czekać do końca okresu subskrypcji lub anulować przed przeniesieniem.
-
-|Aby obsługiwać te usługi  | Wykonaj następujące czynności: |
+|Aby obsługiwać te usługi  | W tym celu: |
 |:---------|:---------|
-|Usługi oparte na licencji    | Aby zapewnić obsługę kont wielokanałowych, musisz zażądać uprawnień od klienta, aby zarządzać swoimi subskrypcjami. Aby uzyskać więcej informacji, zobacz [żądanie relacji odsprzedawcy z klientem](request-a-relationship-with-a-customer.md).   |
-|Usługi oparte na użyciu     |  W przypadku klienta, który ma już subskrypcję do Microsoft Azure z innego kanału, takiego jak Advisor, Open lub EA, należy utworzyć nową subskrypcję platformy Azure w centrum partnerskim, ręcznie wprowadzić szczegóły subskrypcji, a następnie anulować poszczególne usługi lub całą subskrypcję. Dostawca CSP platformy Azure może współistnieć z różnymi kanałami.<br/><br/> W przypadku klienta, który ma już subskrypcję Microsoft Azure od innego partnera, możesz na przykład przełączyć usługi platformy Azure na innego partnera.  Aby uzyskać więcej informacji, zobacz [przełączanie subskrypcji platformy Azure na innego partnera](switch-azure-subscriptions-to-a-different-partner.md). |
+|Usługi oparte na licencjach    | Aby zapewnić obsługę kont wielokanałowych, musisz poprosić klienta o uprawnienia do zarządzania subskrypcjami. Aby uzyskać więcej informacji, zobacz [Request a reseller relationship with a customer (Żądanie relacji odsprzedawcy z klientem).](request-a-relationship-with-a-customer.md)   |
+|Usługi oparte na użyciu     |  W przypadku klienta, który ma już subskrypcję usługi Microsoft Azure z innego kanału, takiego jak Advisor, Open lub EA, musisz utworzyć nową subskrypcję platformy Azure w usłudze Partner Center, ręcznie wprowadzić szczegóły subskrypcji, a następnie anulować poszczególne usługi lub całą subskrypcję. Azure CSP współistnieć z różnymi kanałami.<br/><br/> Na przykład w przypadku klienta, który ma już subskrypcję usługi Microsoft Azure innego partnera, możesz przełączyć usługi platformy Azure na innego partnera.  Aby uzyskać więcej informacji, zobacz [Przełączanie subskrypcji platformy Azure na innego partnera.](switch-azure-subscriptions-to-a-different-partner.md) |
 
 > [!IMPORTANT]  
-> Partner CSP nie może obecnie odsprzedać Usługi online innego partnera CSP. Firma Microsoft stale przegląda zasady i możliwości wszystkich programów. Każdy anons dotyczący wersji funkcji zostanie ogłoszony za pomocą zwykłych kanałów komunikacji, w tym Centrum partnerskiego.
+> Partner CSP nie może obecnie odsprzedawać Usługi online partnera CSP. Firma Microsoft stale przegląda zasady i możliwości wszystkich programów. Wszelkie ogłoszenia o wydaniach funkcji będą ogłaszane za pośrednictwem zwykłych kanałów komunikacyjnych, w tym Partner Center.
 
 ## <a name="next-steps"></a>Następne kroki
 
 [Praca z innymi partnerami](work-with-other-partners.md)
 
-- Jeśli jesteś pośrednim odsprzedawcą, zobacz [partner z dostawcami pośrednimi](indirect-reseller-tasks-in-partner-center.md).
+- Jeśli jesteś odsprzedawcą pośrednim, zobacz [partner z dostawcami pośrednimi](indirect-reseller-tasks-in-partner-center.md).
 
-- Jeśli jesteś dostawcą pośrednim, zobacz [partner z pośrednimi odsprzedawcami](indirect-provider-tasks-in-partner-center.md).
+- Jeśli jesteś dostawcą pośrednim, zobacz [Partner with indirect resellers (Partner z odsprzedawcami pośrednimi).](indirect-provider-tasks-in-partner-center.md)

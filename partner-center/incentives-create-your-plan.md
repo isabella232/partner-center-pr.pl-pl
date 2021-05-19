@@ -1,38 +1,34 @@
 ---
-title: Utwórz plan zachęt
+title: Tworzenie planu zachęt
 ms.topic: article
 ms.date: 09/11/2020
-description: Zbierz i Utwórz niezbędne informacje w celu wygenerowania pomyślnego planu marketingowego dla programu zachęt.
+description: Zbierz i utwórz informacje niezbędne do wygenerowania pomyślnego planu marketingowego dla programu zachęt.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ad11a42a91cfacb625a05b850b0cdfee3d48d0b
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 31bed9eabcd63f80c7924b264e7abf04dab4b543
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179262"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146803"
 ---
-# <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Generowanie planu marketingowego dla programu zachęty
+# <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Generowanie planu marketingowego dla programu zachęt
 
-**Odpowiednie role**
+**Odpowiednie role:** Zachęty dla administratorów | Administrator rozliczeń | Administrator globalny
 
-- Administrator zachęt
-- Administrator rozliczeń
-- Administrator globalny
+Plan roszczeń dotyczących współpracy to seria kampanii marketingowych, działań i innych szczegółów opisujących, jak sprawisz, że program będzie sukcesem. Po utworzeniu planu należy przesłać go do firmy Microsoft w celu zatwierdzenia.
 
-Plan oświadczeń współdziałania to seria kampanii marketingowych, działań i innych szczegółowych informacji opisujących sposób pomyślnego przeprowadzenia tego programu. Po utworzeniu planu można przesłać go do firmy Microsoft w celu zatwierdzenia.
+## <a name="create-your-incentives-plan"></a>Tworzenie planu zachęt
 
-## <a name="create-your-incentives-plan"></a>Utwórz plan zachęt
-
-Plany można wyświetlić, wybierając pozycję **Planowanie zarządzania** na stronie **zachęty** , a następnie otwierając żądany program.
+Możesz wyświetlić swoje plany, wybierając **pozycję Zarządzanie planem** na **stronie Zachęty,** a następnie otwierając program, którego potrzebujesz.
 
 >[!NOTE]
->Na stronie zachęty może nie być widoczne zarządzanie planem. Wynika to z faktu, że pulpit nawigacyjny Centrum partnerskiego jest dynamiczny i zawiera tylko te elementy, które są odpowiednie dla konkretnej roli i działań. Jeśli nie widzisz zarządzania planami na stronie zachęt, prawdopodobnie nie zarejestrowano Cię w programie, który ma plany. Aby uzyskać pomoc, skontaktuj się z administratorem zachęt.
+>Na stronie Zachęty może nie być widać strony Zarządzanie planem. Jest to spowodowane tym, Partner Center pulpit nawigacyjny jest dynamiczny i wyświetla tylko to, co jest odpowiednie dla określonej roli i działań. Jeśli na stronie Zachęty nie widzisz strony Zarządzanie planami, prawdopodobnie oznacza to, że nie jesteś obecnie zarejestrowanym w programie, który ma plany. Skontaktuj się z administratorem zachęt, aby uzyskać pomoc.
 
-Aby uzyskać więcej informacji na temat planów dla danego programu zachęt, zobacz Przewodnik po programie.
+Aby uzyskać więcej informacji na temat planów dla określonej Program zachęt, zobacz przewodnik po programie.
 
 ## <a name="how-to-submit-a-plan"></a>Jak przesłać plan
 
@@ -40,15 +36,15 @@ Aby uzyskać więcej informacji na temat planów dla danego programu zachęt, zo
 
 2. W obszarze **Zachęty** w lewym okienku nawigacyjnym wybierz pozycję **Program**, a następnie wybierz program. 
 
-3. Na stronie **program** Znajdź odpowiedni rynek dla swojego planu, a następnie wybierz pozycję **Utwórz plan**. 
+3. Na **stronie Program** znajdź odpowiedni rynek dla swojego planu, a następnie wybierz pozycję **Utwórz plan**. 
 
-4. Na stronie **nowy plan** Wypełnij pola wymagane. **Waluta** to wartość, która ma być uwzględniana w planie. **Wiadomość e-mail recenzenta** powinna być adresem E-mail firmy Microsoft Twojego Menedżera konta. Należy pamiętać, że można utworzyć tylko jeden plan dla każdego identyfikatora MPN, funduszu, programu i okresu. Wybierz pozycję **Zapisz**.
+4. Na stronie **Nowy plan** wypełnij wymagane pola. **Waluta** to wartość, którą chcesz odzwierciedlić w planie. **Adres e-mail** recenzenta powinien być adresem e-mail firmy Microsoft menedżera konta. Należy pamiętać, że można utworzyć tylko jeden plan dla każdego identyfikatora MPN, funduszu, programu i okresu. Wybierz pozycję **Zapisz**.
 
 5. Na stronie stanu planu przejrzyj wyświetlane informacje. Wybierz pozycję **Edytuj**, aby zaktualizować informacje.
 
 6. Gdy informacje na tej stronie są poprawne, wybierz pozycję **Nowa kampania**.
 
-7. Wypełnij pola wymagane na stronie **Nowa kampania** , a następnie wybierz pozycję **Zapisz**.
+7. Wypełnij wymagane pola na stronie **Nowa kampania,** a następnie wybierz pozycję **Zapisz**.
 
 8. Na stronie stanu wybierz pozycję **Nowe działanie**. 
 
@@ -66,7 +62,7 @@ Twój plan został przesłany. Firma Microsoft powiadomi administratora zachęt 
 
 3. W sekcji **Plany** stan każdego planu znajduje się w kolumnie **Stan**.
 
-   Poniżej przedstawiono różne możliwe stany dotyczące planu roszczeń dotyczących współdziałania.
+   Poniżej przedstawiono różne możliwe stany planu roszczeń współpracy.
 
    - Przesłane
    - W trakcie przeglądu
@@ -75,20 +71,20 @@ Twój plan został przesłany. Firma Microsoft powiadomi administratora zachęt 
    - Approved (Zatwierdzono)
    - Odrzucone
 
-## <a name="plan-submission-timelines"></a>Planowanie osi czasu przesłania
+## <a name="plan-submission-timelines"></a>Planowanie osi czasu przesyłania
 
 Musisz utworzyć i przesłać swój plan do ostatniego dnia roku trwania programu. W razie potrzeby możesz edytować i ponownie przesłać plan przez okres dodatkowych 90 dni po tej dacie, ale plan musi zostać utworzony i wstępnie przesłany w trakcie roku trwania programu.
 
 >[!NOTE]
-> Można utworzyć tylko jeden plan na typ Funduszu dla roku programowego.
+> Dla każdego typu programu można utworzyć tylko jeden plan na rok programu.
 
 ## <a name="plan-payments"></a>Planowanie płatności
 
 Co miesiąc otrzymujesz płatność od firmy Microsoft w oparciu o swoje dochody i limity planu. Płatności są dokonywane piętnastego dnia następnego miesiąca.
 
-Na przykład jeśli plan został zatwierdzony przez $10 000, a uzyskano $5 000 w miesiącu kwietnia, otrzymasz $5 000 od 15 maja.
+Jeśli na przykład Twój plan został zatwierdzony na kwotę 10 000 USD i w kwietniu zarobisz 5000 USD, 15 maja otrzymasz 5000 USD.
 
-W ramach tego samego planu, Jeśli otrzymujesz $15 000 w miesiącu kwietnia, otrzymasz $10 000 15 maja, ponieważ $10 000 był limit dla Twojego planu. Aby móc uzyskać większą płatność, musisz podnieść limit planu dla kolejnego miesiąca.
+W ramach tego samego planu, jeśli otrzymasz 15 000 USD w kwietniu, 15 maja otrzymasz 10 000 USD, ponieważ 10 000 USD to limit planu. Aby móc uzyskać większą płatność, musisz podnieść limit planu dla kolejnego miesiąca.
 
 ## <a name="next-steps"></a>Następne kroki
 

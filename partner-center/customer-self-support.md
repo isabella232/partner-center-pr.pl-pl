@@ -9,22 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51936e900374e4213d0eb40fe2dc90d813e81582
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 89d7cf65d34911cc4098206dbc70d72cd2998e7f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284183"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147466"
 ---
 # <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Samodzielne wsparcie klienta za pośrednictwem Microsoft Office administracyjnego usługi 365 lub za pośrednictwem Azure Portal
 
-**Dotyczy**
+**Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Centrum partnerskie Microsoft Cloud for US Government
-
-**Odpowiednie role**
-
-- Agent pomocy technicznej
+**Odpowiednie role:** Agent pomocy technicznej
 
 Klienci mogą zalogować się do własnego centrum administracyjnego Microsoft Office 365 lub do Azure Portal, aby zarządzać własnymi kontami:
 

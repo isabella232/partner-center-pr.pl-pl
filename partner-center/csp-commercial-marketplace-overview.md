@@ -1,89 +1,87 @@
 ---
-title: Przegląd — rynek CSP
+title: Omówienie — platforma handlowa CSP
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, jak sprzedawać subskrypcje klientów w ramach oferty oprogramowanie jako usługa (SaaS) od niezależnych dostawców oprogramowania (ISV) w portalu Marketplace.
+description: Dowiedz się, jak sprzedawać klientom subskrypcje ofert oprogramowania jako usługi (SaaS) od niezależnych dostawców oprogramowania (ISV) na platformie handlowej.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6b914d6dbd69f374976584d1261382ef8fe9ded9
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 7c18f69a62e8f8d126a0756911d2fbcdfdb85d8d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979451"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147874"
 ---
-# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Omówienie portalu komercyjnego w centrum partnerskim
+# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Omówienie platformy handlowej w Partner Center
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny
 
-- Administrator globalny
+Partner w programie Dostawca rozwiązań w chmurze (CSP) umożliwia tworzenie pakietów i sprzedaż produktów firmy Microsoft wraz z rozwiązaniami opublikowanymi przez niezależnych dostawców oprogramowania (ISV) innych firm. Możliwość pakiecie rozwiązań w ten sposób pozwala lepiej obsługiwać klientów końcowych i rozwijać swoją działalność w zakresie usług CSP.
 
-Partner programu w programie Cloud Solution Provider (CSP) umożliwia ponoszenie i sprzedawanie produktów firmy Microsoft wraz z rozwiązaniami opublikowanymi przez niezależnych dostawców oprogramowania (ISV). Możliwość łączenia rozwiązań w ten sposób pozwala lepiej obsługiwać klientów końcowych i rozwijać działalność usług CSP.
+Jako partner w programie CSP możesz użyć usługi Partner Center wielu rozwiązań isv na platformie handlowej firmy Microsoft. Zapewnia to użytkownikom i klientom kilka kluczowych korzyści:
 
-Jako partner w programie CSP, możesz użyć Centrum partnerskiego, aby zakupić wiele rozwiązań niezależnych dostawców oprogramowania z komercyjnego rynku firmy Microsoft. Zapewnia to klientom kilka najważniejszych korzyści:
+- Dostęp do katalogu rozwiązań oprogramowania zoptymalizowanych pod kątem technologii i środowisk firmy Microsoft.
+- Uproszczone zawłaszczenie i skrócony cykl zaopatrzenia.
+- Pojedyncza integracja z Partner Center API. (Taka integracja dodatkowo umożliwia dostęp do katalogu rozwiązań isv, obniża koszt operacji i inżynierii oraz usprawnia zarządzanie subskrypcjami wielu dostawców i rozliczeniami za pośrednictwem jednego dostawcy).
+- Usprawnione wdrażanie i aprowizowanie w dzierżawie platformy Azure klienta (w przypadku rozwiązań opartych na maszynach wirtualnych).
+- Zmniejsza potencjalne wyzwania związane z bezpośrednim zakupem lub zakupem niezależnych dostawców oprogramowania, konfiguracją i integracją rozwiązań firmy Microsoft oraz potrzebą zarządzania cyklicznymi fakturami od wielu dostawców lub konsolidowania ich.
 
-- Dostęp do wykazu rozwiązań programistycznych zoptymalizowanych pod kątem technologii i środowisk firmy Microsoft.
-- Uproszczona Umawiająca się i skrócony cykl zakupów.
-- Pojedyncza integracja z interfejsami API Centrum partnerskiego. (Taka integracja zapewnia dalsze dostęp do wykazu rozwiązań niezależnych dostawców oprogramowania, obniża koszty operacji i inżynierii oraz usprawnia zarządzanie wieloma subskrypcjami dostawców i rozliczeniami za pomocą jednego dostawcy).
-- Usprawnione wdrażanie i Inicjowanie obsługi administracyjnej w dzierżawie platformy Azure klienta (dla rozwiązań opartych na maszynach wirtualnych).
-- Pozwala ograniczyć potencjalne wyzwania związane z zakupem bezpośredniego dostawcy oprogramowania lub umową, konfiguracją i integracją rozwiązań firmy Microsoft oraz koniecznością zarządzania lub konsolidowania faktur cyklicznych od wielu dostawców.
+## <a name="overview-of-csp-offers-in-the-commercial-marketplace"></a>Omówienie ofert CSP na platformie handlowej
 
-## <a name="overview-of-csp-offers-in-the-commercial-marketplace"></a>Omówienie ofert dostawcy usług kryptograficznych w portalu komercyjnym
+Jeśli jesteś partnerem w programie CSP, istnieje wiele działań na platformie handlowej, które możesz chcieć wykonać w odniesieniu do ofert isv. Zobacz następującą tabelę, aby dowiedzieć się więcej o każdym działaniu.
 
-Jeśli jesteś partnerem w programie CSP, istnieje wiele komercyjnych działań w portalu Marketplace, które możesz chcieć wykonać w odniesieniu do oferty niezależnych dostawców oprogramowania. Zapoznaj się z poniższą tabelą, aby uzyskać więcej informacji na temat poszczególnych działań.
-
-|**Jeśli chcesz**  |**Odczyt**   |
+|**Jeśli chcesz**  |**Odczytu**   |
 |:------------------------------------|:------------------|
-|Dowiedz się, jak wyświetlać lub wyszukiwać dostępne oferty, Cennik, szczegóły produktu lub informacje kontaktowe wydawcy | [Odkryj oferty](csp-commercial-marketplace-discover.md) | 
-|Dowiedz się, jak kupić i wdrożyć ofertę   | [Kup oferty](csp-commercial-marketplace-purchase.md)   | 
-|Dowiedz się, jak anulować lub odnowić subskrypcję lub dodać lub usunąć licencje  | [Zarządzanie ofertami](csp-commercial-marketplace-manage.md) |
-|Dowiedz się więcej na temat rozliczeń dla komercyjnych zakupów w portalu Marketplace | [Informacje o rozliczeniach](csp-commercial-marketplace-billing.md) |
-|Dowiedz się, kto jest odpowiedzialny za typy pomocy technicznej dla zakupu niezależnego dostawcy oprogramowania | [Informacje o pomocy technicznej](csp-commercial-marketplace-support.md) |
-|Dowiedz się więcej o umowach i zadaniach partnerów CSP i niezależnych dostawców oprogramowania na rynku komercyjnym | [Informacje o Umawiającej się](csp-commercial-marketplace-contracting.md) |
+|Dowiedz się, jak wyświetlać i wyszukiwać dostępne oferty, ceny, szczegóły produktu lub informacje kontaktowe wydawcy | [Odnajdywanie ofert](csp-commercial-marketplace-discover.md) | 
+|Dowiedz się, jak kupić i wdrożyć ofertę   | [Oferty zakupu](csp-commercial-marketplace-purchase.md)   | 
+|Dowiedz się, jak anulować lub odnowić subskrypcję albo dodać lub usunąć licencje  | [Zarządzanie ofertami](csp-commercial-marketplace-manage.md) |
+|Dowiedz się, jak działa rozliczanie zakupów na platformie handlowej | [Informacje o rozliczeniach](csp-commercial-marketplace-billing.md) |
+|Dowiedz się, kto jest odpowiedzialny za jakie typy pomocy technicznej dotyczącej zakupów u isV | [Opis pomocy technicznej](csp-commercial-marketplace-support.md) |
+|Dowiedz się więcej o kontraktach i obowiązkach partnerów CSP i isvs na platformie handlowej | [Zrozumienie zakłoniania](csp-commercial-marketplace-contracting.md) |
 
 > [!NOTE]
-> W tym omówieniu opisano, jak partnerzy w programie CSP mogą korzystać z niektórych komercyjnych funkcji witryny Marketplace w centrum partnerskim. W przeciwieństwie do partnerów w programie CSP wydawcy niezależnego dostawcy oprogramowania mają inną rolę w portalu Marketplace. Są również dostępne różne komercyjne funkcje witryny Marketplace w centrum partnerskim. Aby dowiedzieć się więcej na temat roli wydawców niezależnych dostawców oprogramowania, zobacz [Omówienie portalu komercyjnego platformy Azure](/azure/marketplace/partner-center-portal/commercial-marketplace-overview).
+> W tym przeglądzie opisano, jak partnerzy w programie CSP mogą używać niektórych funkcji platformy handlowej w Partner Center. W przeciwieństwie do partnerów w programie CSP wydawcy ISV pełnią inną rolę na platformie handlowej. Mają one również różne funkcje komercyjnej platformy handlowej dostępne w ramach Partner Center. Aby dowiedzieć się więcej na temat roli wydawców isV, zobacz Omówienie komercyjnej platformy [handlowej platformy Azure.](/azure/marketplace/partner-center-portal/commercial-marketplace-overview)
 
-## <a name="where-to-complete-commercial-marketplace-activities"></a>Gdzie można dokończyć komercyjne działania w witrynie Marketplace
+## <a name="where-to-complete-commercial-marketplace-activities"></a>Gdzie można ukończyć działania związane z platformą handlową
 
-Jako partner w programie CSP można wykonać wiele komercyjnych działań w witrynie Marketplace dla niezależnych dostawców oprogramowania SaaS bezpośrednio z poziomu [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard) Centrum partnerskiego lub [interfejsów API Centrum partnerskiego](/partner-center/develop/). Jednak aby wykonać inne działania w witrynie Marketplace, może być konieczne przechodzenie do:
+Jako partner w programie CSP możesz wykonać wiele działań na platformie handlowej dla [](https://partner.microsoft.com/dashboard) ofert ISV SaaS bezpośrednio z pulpitu nawigacyjnego usługi Partner Center lub przy użyciu Partner Center [API.](/partner-center/develop/) Jednak w celu wykonania innych działań na platformie handlowej może być konieczne:
 
-- [Portal zarządzania Microsoft Azure](https://portal.azure.com/)
+- Portal [Microsoft Azure zarządzania](https://portal.azure.com/)
 
     Lub
 
-- System lub witryna sieci Web wydawcy niezależnego dostawcy oprogramowania
+- System lub witryna internetowa innego wydawcy ISV
 
-Wiele miejsc, w których możesz przejść do kończenia działań, rozpoczyna się od wybranego typu oferty. Partnerzy w programie CSP mogą obecnie w sposób transakcyjny dwa typy ofert z wydawcami niezależnych dostawców oprogramowania:
+Większość miejsca, w którym można przejść do ukończenia działań, zaczyna się od typu oferty, który wybierzesz. Partnerzy w programie CSP mogą obecnie transakcje dwóch typów ofert u zewnętrznych wydawców isV:
 
-1. Oferty SaaS oparte na licencjach  
+1. Oparte na licencjach oferty SaaS  
 2. Oferty oparte na użyciu (w tym oferty oparte na maszynach wirtualnych, kontenerach lub aplikacjach platformy Azure)
 
-Przejdź do pozycji [podstawy rozliczeń](billing-basics.md) , aby dowiedzieć się więcej na temat rozliczeń między ofertami opartymi na licencji a ofertami opartymi na użyciu.  
+Przejdź do [tematu Billing Basics (Podstawy](billing-basics.md) rozliczeń), aby dowiedzieć się więcej o tym, czym różnią się rozliczenia między ofertami opartymi na licencjach i ofertami opartymi na użyciu.  
 
-Aby dowiedzieć się, gdzie można wykonać konkretne działania w witrynie Marketplace dla ofert opartych na licencjach lub użyciu niezależnych dostawców oprogramowania, zobacz poniższe tabele.
+Aby dowiedzieć się, gdzie wykonać konkretne działanie na platformie handlowej dla ofert internetowych opartych na licencjach lub opartych na użyciu, zobacz poniższe tabele.
 
-|**W przypadku ofert opartych na licencji lub naliczanych SaaS z niezależnych dostawców oprogramowania**  |**Zastosowanie**  |
+|**W przypadku opartych na licencjach lub mierzonych ofert SaaS od isvs**  |**Zastosowanie**  |
 |:------------------------------------|:------------------|
-|Aby odnaleźć dostępne oferty lub wyszukać je  | Pulpit nawigacyjny Centrum partnerskiego lub interfejsy API Centrum partnerskiego  |
-|Aby kupić ofertę  | Pulpit nawigacyjny Centrum partnerskiego lub interfejsy API Centrum partnerskiego  |
-|Aby wdrożyć zakupione oferty (Konfiguracja konta, zarządzanie oprogramowaniem lub wdrożenie w dzierżawie usługi AAD klienta)  | System lub witryna sieci Web wydawcy niezależnego dostawcy oprogramowania  |
-|Aby anulować/odnowić subskrypcje oferty lub dodać/usunąć licencje | Pulpit nawigacyjny Centrum partnerskiego lub interfejsy API Centrum partnerskiego  |
-|Aby utworzyć użytkowników lub zarządzać uprawnieniami  | System lub witryna sieci Web wydawcy niezależnego dostawcy oprogramowania  |
+|Aby odnaleźć lub wyszukać dostępne oferty  | Partner Center pulpitu nawigacyjnego lub Partner Center API  |
+|Aby kupić ofertę  | Partner Center pulpitu nawigacyjnego lub Partner Center API  |
+|Aby wdrożyć zakupioną ofertę (konfiguracja konta, zarządzanie oprogramowaniem lub wdrażanie w dzierżawie usługi AAD klienta)  | System lub witryna internetowa wydawcy isV  |
+|Aby anulować/odnowić subskrypcje ofert lub dodać/usunąć licencje | Partner Center pulpitu nawigacyjnego lub Partner Center API  |
+|Aby utworzyć użytkowników lub zarządzać uprawnieniami  | System lub witryna internetowa wydawcy isV  |
 
-|**W przypadku ofert opartych na użyciu z niezależnych dostawców oprogramowania**  |**Zastosowanie**  |
+|**W przypadku ofert opartych na użyciu od isvs**  |**Zastosowanie**  |
 |:------------------------------------|:------------------|
-|Aby odnaleźć dostępne oferty lub wyszukać je  | Pulpit nawigacyjny Centrum partnerskiego, interfejsy API Centrum partnerskiego lub Azure Portal  |
+|Aby odnaleźć lub wyszukać dostępne oferty  | Partner Center pulpitu nawigacyjnego, Partner Center interfejsów API lub Azure Portal  |
 |Aby kupić ofertę  | Azure Portal  |
-|Aby wdrożyć zakupione oferty (Konfiguracja konta, zarządzanie oprogramowaniem lub wdrożenie w dzierżawie usługi AAD klienta)  | Azure Portal  |
-|Aby anulować/odnowić subskrypcje oferty lub dodać/usunąć licencje | Azure Portal  |
+|Aby wdrożyć zakupioną ofertę (konfiguracja konta, zarządzanie oprogramowaniem lub wdrażanie w dzierżawie usługi AAD klienta)  | Azure Portal  |
+|Aby anulować/odnowić subskrypcje ofert lub dodać/usunąć licencje | Azure Portal  |
 |Aby utworzyć użytkowników lub zarządzać uprawnieniami  | Azure Portal  |
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Odkryj lub Wyświetl komercyjne oferty rynkowe](csp-commercial-marketplace-discover.md)
-- [Kup komercyjne oferty rynkowe](csp-commercial-marketplace-purchase.md)
+- [Odnajdywanie lub wyświetlanie ofert na platformie handlowej](csp-commercial-marketplace-discover.md)
+- [Kupowanie ofert komercyjnej platformy handlowej](csp-commercial-marketplace-purchase.md)

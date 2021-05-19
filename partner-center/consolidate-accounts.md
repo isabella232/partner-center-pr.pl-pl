@@ -1,6 +1,6 @@
 ---
-title: Konsolidowanie firmowych kont
-description: Dowiedz się, jak skonsolidować konta Centrum członkostwa partnerów (PMC) w jednym koncie w centrum partnerskim. Dotyczy migracji z programu PMC do Centrum partnerskiego.
+title: Konsolidowanie kont firmowych
+description: Dowiedz się, jak skonsolidować Partner Membership Center (PMC) na jednym koncie w Partner Center. Dotyczy migracji z pmc do Partner Center.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,59 +9,56 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 6d8fca11f2db40e7f8b4ebcd4580d8f0aba115eb
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: efa7251bd658558efcbab562e0c7bc8a66b8bcb8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354529"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148282"
 ---
-# <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Konsolidowanie kont firmowych w przypadku migrowania z programu PMC do Centrum partnerskiego
+# <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Konsolidowanie kont firmowych podczas migracji z pmc do Partner Center
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator partnera MPN | Administrator konta
 
-- Administrator partnerski MPN
-- Administrator konta
+W przypadku usługi PMC firma może mieć wiele kont i lokalizacji. Każda lokalizacja ma własne konto. Podczas migracji do Partner Center wszystkie konta i lokalizacje zostaną skonsolidowane na jednym globalnym koncie partnera z kilkoma lokalizacjami. Następujące elementy zostaną z Toami: Twoje identyfikatory MPN, kompetencje, zakupy, zasoby marketingowe, programy i oferty. Nic nie zostanie utracone.
 
-W PMC firma mogła mieć wiele kont i lokalizacji. Każda lokalizacja ma swoje własne konto. Podczas migracji do Centrum partnerskiego wszystkie konta i lokalizacje zostaną skonsolidowane na jedno konto globalne partnera z kilkoma lokalizacjami. Następujące elementy zostaną przeniesione z Ciebie: Twoje identyfikatory MPN, kompetencje, zakupy, zasoby marketingowe, programy i oferty. Nic nie zostanie utracone.
+Po pierwszym zalogowaniu Partner Center konto zostanie dodane jako administrator MPN Partner Center konta. Ta rola umożliwia administrowanie kontem, dodawanie użytkowników, przypisywanie uprawnień i wykonywanie innych zadań administracyjnych.
 
-Po pierwszym zalogowaniu się w centrum partnerskim użytkownik zostanie dodany jako administrator MPN dla konta Centrum partnerskiego. Ta rola umożliwia administrowanie kontem, Dodawanie użytkowników, przypisywanie uprawnień i wykonywanie innych zadań administracyjnych.
+## <a name="why-should-you-consolidate-your-multiple-accounts-in-pmc-into-one-account-in-partner-center"></a>Dlaczego należy skonsolidować wiele kont w programie PMC w jednym koncie w Partner Center?
 
-## <a name="why-should-you-consolidate-your-multiple-accounts-in-pmc-into-one-account-in-partner-center"></a>Dlaczego należy skonsolidować wiele kont w ramach PMC do jednego konta w centrum partnerskim?
+1. W przypadku wszystkich danych w ramach jednego konta zarządzanie kontem powinno być Microsoft Partner Network łatwiejsze.
 
-1. W przypadku wszystkich elementów w ramach jednego konta warto ułatwić zarządzanie kontem Microsoft Partner Network.
+2. Zarządzanie sprzedażą i publikowanie rozwiązań jest łatwiejsze w ramach jednej struktury kont.
 
-2. Zarządzanie współsprzedażą i publikowaniem rozwiązań jest łatwiejsze w ramach jednej struktury konta.
+3. Firma Microsoft rozpozna Cię jako jedną firmę, co spowoduje skonsolidowany przychód, co ułatwi uzyskiwanie pełnego obrazu we wszystkich lokalizacjach.  
 
-3. Firma Microsoft rozpozna Cię jako jedną firmę, co spowoduje skonsolidowane uznanie przychodu, dzięki czemu można łatwiej uzyskać pełny obraz we wszystkich lokalizacjach.  
+4. Za kompetencje i maki z dostępem do chmury trzeba płacić tylko raz, co rok.
 
-4. Musisz zanieść za kompetencje i mapy tylko raz, co rok.
+5. Po konsolidacji kont możesz kwalifikować się do większej liczby kompetencji. Teraz możesz również kwalifikować się do innych programów zachęt.
 
-5. Po skonsolidowaniu kont można kwalifikować się do korzystania z większej liczby kompetencji. Możesz również kwalifikować się do korzystania z innych programów zachęty.
+## <a name="what-happens-during-consolidation-of-accounts"></a>Co się dzieje podczas konsolidacji kont
 
-## <a name="what-happens-during-consolidation-of-accounts"></a>Co się dzieje podczas konsolidowania kont
+- Nie można zmienić szczegółów na ekranie szczegółów firmy. Te szczegóły są dostępne dla konta globalnego partnera.
 
-- Nie można zmienić szczegółów na ekranie szczegóły firmy. Te szczegóły dotyczą konta globalnego partnera.
+- Konta w programie PMC zostaną skonsolidowane na koncie globalnym partnera.
 
-- Konta w obszarze PMC zostaną skonsolidowane na konto globalne partnera.
+- Wszystkie lokalizacje w programie PMC zostaną przeniesione do tego istniejącego Partner Center globalnego partnera jako lokalizacje. Możesz również dodać dodatkowe lokalizacje. Aby uzyskać więcej informacji na temat lokalizacji, przeczytaj [zarządzanie kontem partnera — lokalizacje.](manage-locations.md)
 
-- Wszystkie lokalizacje w kryterium PMC zostaną przeniesione do tego istniejącego konta globalnego partnera Centrum partnerskiego jako lokalizacji. Można również dodać więcej lokalizacji. Aby uzyskać więcej informacji na temat lokalizacji, przeczytaj artykuł  [Zarządzanie kontami partnerskimi — lokalizacje](manage-locations.md).
-
-- Po zakończeniu procesu konsolidacji nie będzie można go wycofać. Wszystkie szczegóły firm będą teraz wyświetlane jako lokalizacje w ramach istniejącego konta globalnego partnera. 
+- Po zakończeniu procesu konsolidacji nie będzie można go odwrócić. Szczegóły wszystkich firm będą teraz wyświetlane jako lokalizacje na istniejącym koncie globalnym partnera. 
 
 - Wszystkie identyfikatory MPN są zachowywane podczas tej konsolidacji.
 
-- Wszystkie istniejące kompetencje (Gold/Silver) i zakupy (mapy/Gold/Silver) są zachowywane podczas konsolidacji. Zachowywane są również wszystkie powiązane zasoby marketingowe, programy i oferty.
+- Wszystkie istniejące kompetencje (Gold/Silver) i zakupy (MAPS/Gold/Silver) są zachowywane podczas konsolidacji. Zachowywane są również wszelkie powiązane zasoby marketingowe, programy i oferty.
 
-- Użytkownik (zalogowany przy użyciu identyfikatora służbowego poczty e-mail) zostanie automatycznie dodany jako administrator MPN i administrator konta do konta globalnego partnera. Pozwala to na zarządzanie kontem w razie konieczności.
+- Ty (użytkownik, który zalogował się przy użyciu służbowego identyfikatora poczty e-mail) zostanie automatycznie dodany jako administrator MPN i administrator konta do konta globalnego partnera. Pozwala to administrować kontem zgodnie z potrzebami.
 
-## <a name="consolidating-your-go-to-market-offers-programs-and-competencies"></a>Konsolidowanie ofert, programów i kompetencji na rynku
+## <a name="consolidating-your-go-to-market-offers-programs-and-competencies"></a>Konsolidacja ofert, programów i kompetencji w zakresie programu Go-To-Market
 
-W kryterium PMC było możliwe, że każda lokalizacja ma swoje własne kompetencje, jego własne mapy i inne oferty marketingowe specyficzne dla danej lokalizacji.
+W programie PMC możliwe było, aby każda lokalizacja miała własne kompetencje, własne makitki i inne oferty marketingowe specyficzne dla danej lokalizacji.
 
-W centrum partnerskim wszystkie konta lokalizacji są konsolidowane na jedno konto globalne. Oznacza to, że wszystkie oferty do sprzedaży, programy i kompetencje są również skonsolidowane. Zestawy narzędzi do dodatkowych zalet (ABTKs) nie będą dostępne. Można jednak zorganizować dystrybucję zasobów marketingowych, ofert, programów i kompetencji wymaganych przez firmę. Podczas konsolidowania jest udostępniane rozszerzenie. To rozszerzenie umożliwia firmie korzystanie z zasobów marketingowych, ofert i programów używanych w ramach kryterium PMC przez dodatkowy rok.
+W Partner Center wszystkie konta lokalizacji są konsolidowane na jednym koncie globalnym. Oznacza to, że wszystkie oferty, programy i kompetencje w programie Go-To-Market również są konsolidowane. Zestawy narzędzi dodatkowych korzyści (ABTK) nie będą dostępne. Można jednak zorganizować dystrybucję zasobów marketingowych, ofert, programów i kompetencji zgodnie z wymaganiami firmy. Podczas konsolidowania jest udostępniane rozszerzenie. To rozszerzenie umożliwia firmie korzystanie z zasobów marketingowych, ofert i programów używanych w programie PMC przez dodatkowy rok.
 
-Aby uzyskać więcej informacji na temat różnic między pakietem PMC i centrum partnerskim, przeczytaj artykuł [przechodzenie od PMC do Centrum partnerskiego](guide-to-migration.md).
+Aby uzyskać więcej informacji na temat różnic między pmc i Partner Center, przeczytaj [przenoszenie z PMC do Partner Center](guide-to-migration.md).
 
 ## <a name="next-steps"></a>Następne kroki
 

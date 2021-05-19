@@ -1,6 +1,6 @@
 ---
-title: Partner z pośrednimi odsprzedawcami w dostawcy usług kryptograficznych
-description: Jako dostawca pośrednich lub dystrybutorów dowiesz się, jak rozwijać przez partnera z pośrednimi odsprzedawcami. Obejmuje to zadania, które można wykonywać w centrum partnerskim.
+title: Współpraca z odsprzedawcami pośrednimi w programie CSP
+description: Jako dostawca pośredni lub dystrybutor dowiedz się, jak rozszerzyć działalność przez współpracę z odsprzedawcami pośrednimi. Obejmuje to zadania, które można wykonywać w Partner Center.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,170 +9,165 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: 6ba6fce58df6ab6047a5ec6e7c46e1538b49756d
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: bd11b65fb1f11839cba50d8bc1da94668009c56c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178956"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146684"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Współpraca partnerska z odsprzedawcami pośrednimi w programie Cloud Solution Provider
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent administracyjny | Agent sprzedaży
 
-- Administrator globalny
-- Administrator zarządzania użytkownikami
-- Agent administracyjny
-- Agent sprzedaży
+Dzięki tak złożonej i szybko zmieniającej się platformie handlowej klienci chcą mieć przewagę konkurencyjną, którą mogą im zapewnić rozwiązania technologiczne. W takim przypadku warto, aby partnerzy zainwestowali w zaangażowanie partnerów w celu rozszerzenia ofert i umożliwienia klientom jeszcze większej liczby działań.
 
-Dzięki takiemu złożonemu i szybko zmieniającemu się platformie Marketplace klienci chcą zapewnić konkurencyjność rozwiązań technologicznych. W takim klimacie warto mieć pewność, że partnerzy mogą inwestować w zaangażowanie między partnerami, aby zwiększyć oferty i umożliwić klientom jeszcze więcej.
+Nowi odsprzedawcy wchodzą na rynek i szukają sposobów zaoferowania swoich rozwiązań klientom spoza ich rynków i lokalizacji regionalnych. Jako ustalony dostawca technologii masz dobre miejsce, aby być ich trasą do rynku. Partneraj z odsprzedawcami pośrednimi w programie Dostawca rozwiązań w chmurze (CSP), aby nawiązać połączenie z innymi partnerami, wprowadzić nowe rozwiązania na rynek i przejść do wdrożenia usług w chmurze przez klientów.
 
-Nowi odsprzedawcy wprowadzają rynek i poszukującą sposobów oferowania rozwiązań klientom poza ich rynkami i lokalnymi. Jako ustalony dostawca technologii, można również umieścić swoją trasę na rynku. Partner z pośrednimi odsprzedawcami w programie w ramach dostawcy rozwiązań w chmurze (CSP) do łączenia się z innymi partnerami, wprowadzenia nowych rozwiązań na rynek i przechodzenia z wyprzedzeniem klientów do wdrażania usług w chmurze.
+W modelu odsprzedawca-dostawca pośredni (dwuwarstwowy) współpracujesz z odsprzedawcami pośrednimi, aby zaoferować klientom rozwiązania w chmurze firmy Microsoft. Produkty i subskrypcje kupujesz bezpośrednio od firmy Microsoft, a następnie oferujesz te rozwiązania klientom za pośrednictwem odsprzedawców.
 
-W modelu dostawcy pośredniego — odsprzedawca (dwuwarstwowy) można zapewnić klientom pośrednim odsprzedawcom oferowanie rozwiązań w chmurze firmy Microsoft. Możesz kupić produkty i subskrypcje bezpośrednio od firmy Microsoft, a następnie zaoferować je klientom za pośrednictwem Odsprzedawcy.
+Jako dostawca pośredni używasz usługi Partner Center do:
 
-Jako dostawca pośredni możesz użyć Centrum partnerskiego, aby:
+- Nawiązywanie połączenia z odsprzedawcami pośrednimi, którzy mogą pomóc w rozszerzaniu zasięgu i bazy klientów
 
-- Nawiązywanie połączenia z pośrednimi odsprzedawcami, którzy mogą pomóc rozwijać zasięg i podstawę klientów
+- Ustanawianie partnerstwa z odsprzedawcami pośrednimi, które umożliwią zarówno współpracę z wspólnymi klientami, jak i
 
-- Ustanów partnerstwo z pośrednimi odsprzedawcami, które umożliwiają współdziałanie z typowymi klientami
+- Wyznaczanie odsprzedawców pośrednich do zarządzania określonymi klientami i subskrypcjami
 
-- Wyznaczanie pośrednich odsprzedawcaów do zarządzania określonymi klientami i subskrypcjami
+- Zarządzanie relacjami z firmą Microsoft, klientami i odsprzedawcami pośrednimi w jednym miejscu
 
-- Zarządzanie relacjami z firmą Microsoft, klientami i pośrednimi odsprzedawcami w jednym miejscu
-
-Aby uzyskać informacje o tym, co jest wymagane do wzięcia udziału w programie CSP jako odsprzedawcy pośrednim, zobacz [Rozpoczynanie pracy jako pośredni odsprzedawcy](https://partner.microsoft.com/membership/cloud-solution-provider/) w [witrynie sieci Web Microsoft Partner Network](https://partner.microsoft.com).
+Aby uzyskać informacje o tym, co jest wymagane do uczestnictwa w programie CSP jako odsprzedawca pośredni, zobacz [Rozpoczynanie](https://partner.microsoft.com/membership/cloud-solution-provider/) pracy jako odsprzedawca pośredni w Microsoft Partner Network [internetowej](https://partner.microsoft.com).
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>Zadania dostawcy pośredniego w Centrum partnerskim
 
-Wykonaj następujące kroki, aby ustanowić partnerstwo z pośrednimi odsprzedawcami i klientami oraz zarządzać nimi. Kroki 2 i 3 opisano szczegółowo poniżej.
+Wykonaj poniższe kroki, aby ustanowić partnerstwo i zarządzać nim z odsprzedawcami i klientami pośrednimi. Kroki 2 i 3 zostały opisane bardziej szczegółowo poniżej.
 
-1. Przejrzyj profil firmy na [liście oficjalnych dostawców pośrednich firmy Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider).
+1. Przejrzyj profil firmy na liście oficjalnych dostawców pośrednich [firmy Microsoft.](https://partnercenter.microsoft.com/partner/find-a-provider)
 
    - Aby wprowadzić zmiany w firmowym profilu pośredniego dostawcy rozwiązań, skontaktuj się z przedstawicielem firmy Microsoft.
 
-2. Połącz z pośrednimi odsprzedawcami
+2. Nawiązywanie połączenia z odsprzedawcami pośrednimi
 
-   - Aby można było korzystać z odsprzedawcami i prowadzić do nich transakcji, należy ustanowić partnerstwo z nimi w centrum partnerskim.
+   - Zanim będzie można wchodzić w interakcje z odsprzedawcami i nawiązywać z nimi transakcje, należy ustanowić z nimi partnerstwo w Partner Center.
 
 3. Nawiązywanie relacji z klientami
 
    - Kojarzenie nowych klientów i subskrypcji z odsprzedawcami
 
-   - Ustanów relacje odsprzedawców z istniejącymi klientami
+   - Ustanawianie relacji odsprzedawcy z istniejącymi klientami
 
-Po wykonaniu tych kroków możesz zarządzać partnerstwem odsprzedawcy na stronie **pośrednich odsprzedawców** z poziomu Twojego menu **Centrum partnerskiego** .
+Po ukończeniu tych kroków możesz zarządzać partnerami sprzedawców na stronie **Odsprzedawcy** pośredni z menu **Partner Center** sprzedaży.
 
 > [!IMPORTANT]
-> Aby rozpocząć pracę z odsprzedawcami, należy je zarejestrować jako pośrednich odsprzedawcach w programie CSP i mieć konta Centrum partnerskiego. Aby uzyskać informacje o rejestrowaniu w dostawcy usług kryptograficznych, należy wskazać odsprzedawcy [partnerom z dostawcami pośrednimi w dostawcy usług kryptograficznych](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) .
+> Aby można było rozpocząć pracę z odsprzedawcami, muszą oni być zarejestrowani jako odsprzedawcy pośredni w programie CSP i mieć Partner Center kont. Wskaż odsprzedawcom partnera z [dostawcami pośrednimi w programie CSP,](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) aby uzyskać informacje na temat rejestrowania w programie CSP.
 
-## <a name="connect-with-indirect-resellers"></a>Połącz z pośrednimi odsprzedawcami
+## <a name="connect-with-indirect-resellers"></a>Nawiązywanie połączenia z odsprzedawcami pośrednimi
 
-Aby współdziałać z pośrednimi odsprzedawcami w centrum partnerskim i wykonywać w nim instrukcje, należy ustanowić partnerstwo z nimi. Partnerstwo z odsprzedawcą pośrednią umożliwia klientom i odsprzedawcy obu klientów.
+Aby wchodzić w interakcje i transakcje z odsprzedawcami pośrednimi w Partner Center, należy ustanowić z nimi partnerstwo. Współpraca z odsprzedawcą pośrednim umożliwia zarówno Użytkownikowi, jak i odsprzedawcy korzystanie z usług typowych klientów.
 
-Aby nawiązać partnerstwo, Wyślij wiadomość e-mail z prośbą o powiązanie z odsprzedawcą. Przed rozpoczęciem upewnij się, że adres e-mail odsprzedawcy jest dostępny.
+Aby ustanowić partnerstwo, wyślij do odsprzedawcy wiadomość e-mail z żądaniem partnerstwa. Przed rozpoczęciem upewnij się, że masz adres e-mail odsprzedawcy.
 
-Na stronie Szczegóły subskrypcji w polu odsprzedawca (identyfikator MPN) Dodaj odsprzedawcy, z którym chcesz współpracować. Upewnij się, że używasz identyfikatora MPN skojarzonego z kontem partnera odsprzedawcy, które zostały użyte do dołączenia do Centrum partnerskiego. Dzięki temu odsprzedawca otrzymuje odpowiednie środki zachęcające i ma aktywną umowę Partnerskią firmy Microsoft, która będzie uczestniczyć w transakcji.
+Na stronie szczegółów subskrypcji w polu Odsprzedawca (identyfikator MPN) dodaj odsprzedawcę, z którym chcesz pracować. Pamiętaj, aby użyć identyfikatora MPN skojarzonego z kontem lokalizacji partnera odsprzedawcy, które było używane do dołączania do Partner Center. Dzięki temu odsprzedawca otrzyma odpowiednie zachęty i będzie miał aktywną Microsoft Partner Agreement do angażowania się w transakcję.
 
-1. Wybierz **pośrednich odsprzedawcy** z menu **Centrum partnerskiego** .
+1. Wybierz **pozycję Odsprzedawcy pośredni** z menu **Partner Center** sprzedaży.
 
-2. Na stronie **pośrednich odsprzedawcy** wybierz pozycję **Żądaj powiązania**. Zostanie wyświetlona robocza wiadomość e-mail.
+2. Na stronie **Odsprzedawcy pośredni** wybierz pozycję **Zażądaj partnerstwa**. Zostanie wyświetlona wersja robocza wiadomości e-mail.
 
-3. Wybierz pozycję **Otwórz w wiadomości e-mail** , aby otworzyć wiadomość w domyślnej aplikacji poczty e-mail, lub wybierz opcję **Kopiuj do schowka** , aby skopiować, a następnie wklej komunikat do wiadomości e-mail. Po zakończeniu wybierz pozycję **gotowe** .
+3. Wybierz **pozycję Otwórz w wiadomości e-mail,** aby  otworzyć wiadomość w domyślnej aplikacji poczty e-mail, lub wybierz pozycję Kopiuj do schowka, aby skopiować, a następnie wklej wiadomość w wiadomości e-mail. Po **zakończeniu wybierz** pozycję Gotowe.
     > [!IMPORTANT]  
-    >  Możesz edytować tekst w wiadomości e-mail, ale pamiętaj o uwzględnieniu linku, który jest spersonalizowany dla konta Centrum partnerskiego.
+    >  Możesz edytować tekst wiadomości e-mail, ale pamiętaj, aby dołączyć link spersonalizowany dla Twojego konta Partner Center e-mail.
 
-4. Gdy odsprzedawca zaakceptuje Twoje żądanie powiązania, pojawią się na liście pośrednich odsprzedawców, a następnie można:
+4. Gdy odsprzedawca zaakceptuje Twoje żądanie partnerstwa, pojawi się na liście odsprzedawców pośrednich, co umożliwia:
 
    - Dodawanie nowych klientów w ich imieniu
 
-   - Przesyłanie zamówień w imieniu swoich klientów
+   - Przesyłanie zamówień w imieniu ich klientów
 
-   - Skojarz je z subskrypcją, aby mogli zarządzać nią w imieniu klienta, który go zakupił
+   - Skojarz je z subskrypcją, aby zarządzać nim w imieniu klienta, który ją zakupił
 
-   - Wyznaczanie ich jako osoby kontaktowej pomocy technicznej dla określonych subskrypcji
+   - Wyznaczanie ich jako osoby kontaktowej do pomocy technicznej klienta w przypadku określonych subskrypcji
 
-W zależności od poziomu dostępu i zaangażowania, które ma mieć odsprzedawca, można wykonać co najmniej jedną akcję opisaną poniżej.
+W zależności od poziomu dostępu i zaangażowania odsprzedawcy możesz podjąć co najmniej jedną z czynności opisanych poniżej.
 
-W przypadku istniejących subskrypcji Jeśli zdecydujesz się na współpracę z odsprzedawcą pośredniego, możesz zaktualizować szczegóły subskrypcji w celu uwzględnienia pośredniego odsprzedawcy.
+W przypadku istniejących subskrypcji, jeśli zdecydujesz się na pracę z odsprzedawcą pośrednim, możesz zaktualizować szczegóły subskrypcji, aby uwzględnić odsprzedawcę pośredniego.
 
-- Na stronie Szczegóły subskrypcji w polu **odsprzedawca (identyfikator MPN)** Dodaj odsprzedawcy, z którym chcesz współpracować. Dzięki temu odsprzedawca otrzymuje odpowiednie zachęty.
+- Na stronie szczegółów subskrypcji w polu **Odsprzedawca (identyfikator MPN)** dodaj odsprzedawcę, z którym chcesz pracować. Dzięki temu odsprzedawca otrzyma odpowiednie zachęty.
 
-| **Aby to osiągnąć** | **Zrób to** | **Miejscu** |
+| **W tym celu** | **Zrób to** | **Gdzie** |
 |   ------------------   |   -------   |   -----   |
-| Umożliwienie odsprzedawcy do zarządzania kontem klienta i posiadania uprawnień administratora do zarządzania swoimi subskrypcjami | Skojarz odsprzedawcę z kontem klienta podczas dodawania nowego klienta | Na stronie **Nowy klient** |
-| Umożliwienie odsprzedawcy zarządzania kontem klienta platformy Azure|Skojarz odsprzedawcę z kontem klienta platformy Azure przy dodawaniu nowego klienta|W **portalu usług platformy Azure** wybierz pozycję [Ustawienia użytkownika](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) , aby przyznać pośrednim uprawnienia **właściciela dzierżawy**|
-| Przyznaj środki na korzystanie z odsprzedawców | Skojarz odsprzedawcę z subskrypcją (nową lub istniejącą) | Na stronie **Nowa subskrypcja** |
-| Delegowanie obsługi klienta dla określonych subskrypcji do odsprzedawcy | Wybierz odsprzedawcę z listy **wskazanych kontaktów pomocy technicznej** | Na stronie szczegółów subskrypcji: Wybierz klienta ze strony **klientów** , a następnie wybierz subskrypcję na stronie **subskrypcje** klienta |
+| Umożliwianie odsprzedawcy zarządzania kontem klienta i uprawnienia administratora do zarządzania subskrypcjami | Kojarzenie odsprzedawcy z kontem klienta podczas dodawania nowego klienta | Na **stronie Nowy** klient |
+| Umożliwianie odsprzedawcy zarządzania kontem klienta platformy Azure|Kojarzenie odsprzedawcy z kontem klienta platformy Azure podczas dodawania nowego klienta|W **witrynie Azure Service Portal** wybierz [pozycję Ustawienia użytkownika,](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) aby nadać odsprzedawcy pośredniego **uprawnienia właściciela dzierżawy**|
+| Nadaj odsprzedawcy środki na zachęty | Kojarzenie odsprzedawcy z subskrypcją (nową lub istniejącą) | Na stronie **Nowa subskrypcja** |
+| Delegowanie obsługi klienta dla określonych subskrypcji do odsprzedawcy | Wybierz odsprzedawcę z **listy kontaktowych wyznaczonych pomocy** technicznej | Na stronie szczegółów subskrypcji: wybierz klienta  ze strony Klienci, a następnie wybierz subskrypcję na **stronie Subskrypcje** klienta |
 
 ## <a name="remove-partnership-with-indirect-resellers"></a>Usuwanie partnerstwa z pośrednimi odsprzedawcami
 
-Aby usunąć partnerstwo z istniejącym odsprzedawcą pośrednim, wykonaj poniższe czynności. 
+Aby usunąć partnerstwo z istniejącym odsprzedawcą pośrednim, wykonaj poniższe kroki. 
 
-1. W menu Centrum partnerskiego na pulpicie nawigacyjnym wybierz pozycję **pośredni odsprzedawca**. 
+1. Z menu Partner Center pulpitu nawigacyjnego wybierz pozycję **Odsprzedawcy pośredni.** 
 
-2. Na stronie **pośrednich odsprzedawcy** wybierz pozycję **Usuń powiązanie**. Zostanie wyświetlony komunikat z prośbą o potwierdzenie. Aby to zrobić, wybierz pozycję **tak**.
+2. Na stronie **Odsprzedawcy pośredni** wybierz pozycję **Usuń partnerstwo**. Zostanie wyświetlony komunikat z prośbą o potwierdzenie. Aby kontynuować, wybierz pozycję **Tak.**
 
-:::image type="content" source="images/ip-ir-relationship.png" alt-text="Usuń powiązanie":::
+:::image type="content" source="images/ip-ir-relationship.png" alt-text="Usuwanie partnerstwa":::
 
 >[!IMPORTANT]
->Klienci powiązani z odsprzedawcą pośrednim nie zostaną usunięci. Przyznane uprawnienia administratora delegowanego pozostaną bez zmian.
->Użytkownik reprezentuje, że decyzja o zaprzestanie obowiązywania relacji z partnerem była prowadzona w dobrej wierze, na uzasadniony cel biznesowy i zgodnie z umową z Twoim klientem lub partnerem, i wyraża zgodę na obronę i powierzenie firmy Microsoft nieszkodliwej w stosunku do roszczeń innych podmiotów.
->Jeśli Twoja umowa wymaga tego, należy podać informacje prawne dotyczące przerwania dla klienta lub partnera. To narzędzie nie generuje powiadomienia dla klienta lub partnera.
+>Klienci skojarzone z odsprzedawcą pośrednim nie zostaną usunięci. Wszelkie przyznane delegowane uprawnienia administratora pozostaną niezmienione.
+>Klient reprezentuje, że decyzja o wycofaniu relacji z partnerem została podjęta w dobrej organizacji, w legalnym celu biznesowym i zgodnie z twoją umową z klientem lub partnerem, oraz zgadzasz się na obronę i obronę firmy Microsoft przed roszczeniami innych firm i przeciw nim.
+>Jeśli umowa tego wymaga, klient lub partner musi przekazać klientowi lub partnerowi powiadomienie prawne o jego zakończeniu. To narzędzie nie generuje powiadomienia dla klienta lub partnera.
 
-3. Pośredni odsprzedawca, którego usunięto partnerstwo, nie będzie widoczny na liście.
-W zależności od poziomu dostępu i zaangażowania można komunikować się z odsprzedawcą pośrednim, jak również z klientem końcowym o tej zmianie.
+3. Odsprzedawca pośredni, którego partnerstwo zostało usunięte, nie pojawi się na liście.
+W zależności od poziomu dostępu i zaangażowania możesz chcieć komunikować się z odsprzedawcą pośrednim, a także z klientem końcowym o tej zmianie.
 
 
 ## <a name="connect-with-customers"></a>Nawiązywanie relacji z klientami
 
-Po otrzymaniu nowych klientów należy utworzyć konta dla nich w centrum partnerskim. Po dodaniu nowego konta klienta można wyznaczyć określonego odsprzedawcy do zarządzania kontem i zarządzać subskrypcjami i usługami klientów w ich imieniu.
+Po dostania nowych klientów należy utworzyć dla nich konta w Partner Center. Po dodaniu nowego konta klienta możesz wyznaczyć określonego odsprzedawcę do zarządzania kontem i administrowania subskrypcjami i usługami klientów w ich imieniu.
 
-W przypadku kojarzenia odsprzedawcy z nowym kontem klienta do odsprzedawcy można przystąpić do zarządzania kontem i subskrypcją. Oznacza to, że odsprzedawca ma dostęp administratora do subskrypcji i usług klienta i może zarządzać nimi w imieniu klienta.
+Kojarzenie odsprzedawcy z nowym kontem klienta wiąże się z delegowaniem zarządzania kontem i subskrypcją do odsprzedawcy. Oznacza to, że odsprzedawca ma dostęp administratora do subskrypcji i usług klienta i może zarządzać nimi w imieniu klienta.
 
-### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Dodaj nowych klientów i skojarz je z pośrednimi odsprzedawcami
+### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Dodawanie nowych klientów i kojarzenie ich z odsprzedawcami pośrednimi
 
-1. Wybierz **pośrednich odsprzedawcy** z menu **Centrum partnerskiego** .
+1. Wybierz **pozycję Odsprzedawcy pośredni** z menu **Partner Center** sprzedaży.
 
-2. Znajdź pośredniego odsprzedawcy, do którego chcesz przypisać nowych klientów, a następnie wybierz pozycję **Dodaj nowego klienta**. Należy zauważyć, że pośredni odsprzedawca został już wybrany dla Ciebie w formularzu szczegółowym klienta. Podaj szczegóły klienta, a następnie wybierz pozycję **Dalej: subskrypcje**.
+2. Znajdź odsprzedawcę pośredniego, do którego chcesz przypisać nowych klientów, a następnie wybierz **pozycję Dodaj nowego klienta.** Zwróć uwagę, że odsprzedawca pośredni został już wybrany na formularzu szczegółów klienta. Podaj szczegóły klienta, a następnie wybierz pozycję **Dalej: Subskrypcje.**
 
-3. Na stronie **Nowa subskrypcja** wybierz subskrypcje, które chce kupić klient, a następnie wprowadź liczbę licencji potrzebnych przez klienta.
+3. Na **stronie Nowa subskrypcja** wybierz subskrypcje, które klient chce kupić, a następnie wprowadź liczbę licencji, których potrzebuje klient.
 
 4. Wybierz opcję **Dalej: Review** (Dalej: przegląd).
 
-5. Jeśli kolejność jest poprawna, wybierz pozycję **Prześlij**. Jeśli kolejność jest niepoprawna, wybierz pozycję **Anuluj** , aby anulować całą operację i zacząć od nowa.
+5. Jeśli zamówienie jest poprawne, wybierz pozycję **Prześlij**. Jeśli zamówienie jest nieprawidłowe, wybierz pozycję **Anuluj,** aby anulować całą operację i zacząć od początku.
 
-6. Po przesłaniu zamówienia zostanie wyświetlona strona **potwierdzenia** . W obszarze **Informacje o instalacji** są wyświetlane nazwy konta użytkownika administratora i hasła tymczasowego. Skopiuj informacje o nazwie konta użytkownika i hasła, aby można było wysłać je do nowego klienta.
+6. Po przesłaniu zamówienia zostanie **wyświetlona strona** Potwierdzenie. W **obszarze Informacje o** instalacji są wyświetlane nazwa konta użytkownika administratora i hasło tymczasowe. Skopiuj nazwę konta użytkownika i informacje o hasłach, aby można je było wysłać do nowego klienta.
 
     > [!IMPORTANT]  
-    > Pamiętaj, aby zanotować nazwę konta użytkownika i hasło, ponieważ nie możesz uzyskać dostępu do tych informacji ponownie po zamknięciu tej strony.
+    > Pamiętaj, aby zanotować nazwę konta użytkownika i hasło, ponieważ nie możesz ponownie uzyskać dostępu do tych informacji po zamknięciu tej strony.
 
-7. Kliknij **Gotowe**. Nowy klient zostanie wyświetlony na liście klientów skojarzony z odsprzedawcą pośrednią. Odsprzedawca ma teraz dostęp administratora do informacji o koncie i subskrypcji klienta oraz może zarządzać subskrypcjami w imieniu klienta.
+7. Kliknij **Gotowe**. Nowy klient zostanie wyświetlony na liście klientów skojarzonych z odsprzedawcą pośrednim. Odsprzedawca ma teraz dostęp administratora do informacji o koncie klienta i subskrypcji i może zarządzać subskrypcjami w imieniu klienta.
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Dodawanie nowych subskrypcji do kont klientów
 
-Gdy klienci chcą zakupić nowe subskrypcje, uaktualnić istniejące lub zakupić dodatkowe licencje, wprowadź te zmiany na koncie klienta za pomocą portalu Microsoft 365. Nie można tego zrobić w Azure Portal.
+Jeśli klienci chcą kupić nowe subskrypcje, uaktualnić istniejące lub zakupić dodatkowe licencje, należy wprowadzić te zmiany na koncie klienta za pośrednictwem Microsoft 365 portal. Nie można tego zrobić w Azure Portal.
 
-1. Wybierz pozycję **klienci** z Twojego menu **Centrum partnerskiego** .
+1. Wybierz **pozycję Klienci** z **Partner Center** menu.
 
-2. Znajdź klienta, którego konto chcesz zmienić. Możesz filtrować listę według pośredniego odsprzedawcy, aby zawęzić wybór. Rozwiń rekord klienta, wybierając strzałkę w dół, a następnie wybierając polecenie **Dodaj subskrypcję**.
+2. Znajdź klienta, którego konto chcesz zmienić. Możesz filtrować listę według odsprzedawcy pośredniego, aby zawęzić wybór. Rozwiń rekord klienta, wybierając strzałkę w dół, a następnie wybierając pozycję **Dodaj subskrypcję.**
 
-3. Na stronie **Nowa subskrypcja** wybierz subskrypcje, a następnie wprowadź liczbę licencji, które chce zakupić klient.
+3. Na **stronie Nowa subskrypcja** wybierz subskrypcje i wprowadź liczbę licencji, które klient chce kupić.
 
-4. Aby skojarzyć subskrypcję z odsprzedawcą, wybierz z listy nazwę odsprzedawcy, a następnie wybierz pozycję **Prześlij**. Skojarzenie odsprzedawcy z subskrypcją umożliwia im zdobycie zachęt, jeśli ma to zastosowanie.
+4. Aby skojarzyć subskrypcję z odsprzedawcą, wybierz nazwę odsprzedawcy z listy, a następnie wybierz pozycję **Prześlij**. Skojarzenie odsprzedawcy z subskrypcją umożliwia uzyskanie zachęt, jeśli ma to zastosowanie.
 
-5. Nowe subskrypcje pojawiają się na liście subskrypcje klienta.
+5. Nowe subskrypcje są wyświetlane na liście subskrypcji klienta.
 
-6. Jeśli chcesz, aby odsprzedawcy obsłużył żądania obsługi klienta dotyczące nowej subskrypcji, wybierz subskrypcję, a następnie wybierz odsprzedawcę z listy **wskazanych kontaktów pomocy technicznej** . 
+6. Jeśli chcesz, aby odsprzedawca obsłużył żądania obsługi klienta dotyczące nowej subskrypcji, wybierz subskrypcję, a następnie wybierz odsprzedawcę z listy **kontaktów Wyznaczona pomoc techniczna.** 
 
-7. Po zakończeniu wybierz pozycję **Prześlij** .
+7. Po **zakończeniu wybierz** pozycję Prześlij.
 
 ## <a name="next-steps"></a>Następne kroki
 
-Znajdź odpowiedzi na pytania dotyczące umowy partnerskiej firmy Microsoft
+Znajdź odpowiedzi na swoje pytania dotyczące Microsoft Partner Agreement
 
-- [Jak dostawcy pośrednim mogą pomóc odsprzedawcy w przyjęciu umowy partnerskiej firmy Microsoft — często zadawane pytania](mpa-indirect-provider-faq.md)
+- [Jak dostawcy pośredni mogą pomóc odsprzedawcom w Microsoft Partner Agreement — często zadawane pytania](mpa-indirect-provider-faq.md)
 
-Aby uzyskać więcej informacji o zarządzaniu kontami i subskrypcjami klientów, zobacz:
+Aby uzyskać więcej informacji na temat zarządzania kontami klientów i subskrypcjami, zobacz:
 
-- [Subskrypcje klienta](customer-subscriptions.md)
+- [Subskrypcje klientów](customer-subscriptions.md)
