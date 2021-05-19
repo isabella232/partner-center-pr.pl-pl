@@ -1,109 +1,104 @@
 ---
-title: Kup lub Odnów oferty firmy Microsoft Action Pack
+title: Kupowanie lub odnawianie ofert Action Pack Microsoft
 ms.topic: how-to
 ms.date: 12/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Dowiedz się, jak kupić subskrypcję Action Pack firmy Microsoft i zacząć korzystać z zalet Action Pack. Dowiedz się również, jak odnowić, anulować, wyświetlić rachunek i nie tylko.
+description: Dowiedz się, jak kupić subskrypcję usługi Microsoft Action Pack i rozpocząć korzystanie z Action Pack korzyści. Dowiedz się również, jak odnawiać, anulować, wyświetlać rachunek i nie tylko.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b75bffcab2c51ac81e3c2f623ad74a9314339b9
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: dc7be1fdf92249c31e8b2c6aa6611015e8b9b42f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132302"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152311"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Kupowanie lub odnawianie subskrypcji programu Microsoft Action Pack i kompetencji Gold
 
 
-**Odpowiednie role**
-
-- Administrator globalny
-- Administrator zarządzania użytkownikami
-- Administrator partnerski MPN
-- Agent administracyjny
+**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Administrator partnera MPN | Agent administracyjny
 
 
-Z poziomu [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego Członkowie Microsoft Partner Network (MPN)) mogą kupować i odnawiać oferty korzyści, w tym subskrypcję programu Microsoft Action Pack oraz kompetencje Silver i Gold.
+Na pulpicie [](https://partner.microsoft.com/dashboard)Partner Center nawigacyjnym członkowie zespołu Microsoft Partner Network (MPN)) mogą kupować lub odnawiać oferty korzyści, w tym subskrypcję Microsoft Action Pack oraz kompetencje Silver i Gold.
 
-## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Kup Action Pack firmy Microsoft po raz pierwszy
+## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Kupowanie Action Pack Microsoft po raz pierwszy
 
-Jeśli dopiero zaczynasz współdziałać z firmą Microsoft, pierwszym krokiem jest dołączenie do Microsoft Partner Network. Aby dołączyć MPN, przejdź do [strony członkostwo](https://partner.microsoft.com/membership) w witrynie sieci partnerskiej i wybierz pozycję **Dołącz teraz** , gdy wszystko będzie gotowe do rejestracji.
+Jeśli nie masz jeszcze możliwości współpracy z firmą Microsoft, pierwszym krokiem jest dołączenie do Microsoft Partner Network. Aby dołączyć do [](https://partner.microsoft.com/membership) programu MPN, przejdź do strony członkostwa w witrynie sieciowej partnera i wybierz pozycję Dołącz **teraz,** gdy wszystko będzie gotowe do rejestracji.
 
-Po pomyślnym dołączeniu do sieci partnerskiej postępuj zgodnie z [instrukcjami w witrynie sieci partnerskiej](https://partner.microsoft.com/membership/action-pack) (wymagane logowanie), aby kupić pierwszą subskrypcję Action Pack. 
+Po pomyślnym dołączeniu do sieci partnerskiej postępuj zgodnie z instrukcjami w witrynie sieciowej partnera [(wymagane](https://partner.microsoft.com/membership/action-pack) jest zalogowanie), aby kupić pierwszą Action Pack subskrypcji. 
 
-Więcej informacji na temat Action Pack można znaleźć w witrynie [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-3) .
+Więcej szczegółów na temat Action Pack można znaleźć w [witrynie Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-3) sieci Web.
 
-Zostań [partnerem z kompetencjami](https://partner.microsoft.com/membership/competencies). 
+Zostać [partnerem kompetencji.](https://partner.microsoft.com/membership/competencies) 
 
-## <a name="renew-a-microsoft-action-pack-subscription"></a>Odnów subskrypcję Action Pack firmy Microsoft
+## <a name="renew-a-microsoft-action-pack-subscription"></a>Odnawianie subskrypcji Action Pack Microsoft
 
 >[!IMPORTANT]
->Teraz możesz zarządzać subskrypcją usługi Action Pack w centrum partnerskim.
+>Teraz zarządzasz subskrypcją Action Pack na Partner Center.
 
 ### <a name="check-your-renewal-eligibility"></a>Sprawdzanie uprawnień do odnawiania
 
 >[!IMPORTANT]
->Jeśli zaproszono Cię do odnowienia subskrypcji w centrum partnerskim, pamiętaj, że zmieniono zasady dotyczące okna odnowienia i można odnowić subskrypcję dopiero po jej wygaśnięciu. Na przykład jeśli subskrypcja wygaśnie w dniu 22 czerwca, możesz ją odnowić od 23 czerwca do 30 dni później.
->Datę wygaśnięcia subskrypcji można znaleźć na stronie [**oferty członkostwa**](https://partnercenter.microsoft.com/pcv/partnership/offers) (wymagane jest zalogowanie się). Jeśli chcesz się odnowić w centrum partnerskim, wykonaj poniższe czynności.  
+>Jeśli zaproszono Cię o odnowienie subskrypcji w Partner Center, pamiętaj, że zmieniliśmy nasze zasady okna odnawiania i możesz odnowić subskrypcję dopiero po jej wygaśnięciu. Jeśli na przykład subskrypcja wygaśnie 22 czerwca, możesz ją odnowić od 23 czerwca do 30 dni po.
+>Datę wygaśnięcia subskrypcji można znaleźć na stronie [**Oferty członkostwa**](https://partnercenter.microsoft.com/pcv/partnership/offers) (wymagane jest zalogowanie). Jeśli masz uprawnienia do odnowienia w Partner Center, wykonaj poniższe kroki.  
 
-### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Aby odnowić subskrypcję programu Microsoft Action Pack w centrum partnerskim
+### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Aby odnowić subskrypcję Action Pack Microsoft w Partner Center
 
-1. Przejdź do strony [**oferty**](https://partnercenter.microsoft.com/pcv/partnership/offers) dotyczącej członkostwa. Znajdź kafelek **Microsoft Action Pack Subscription** .  
+1. Przejdź do strony [**Oferty członkostwa.**](https://partnercenter.microsoft.com/pcv/partnership/offers) Znajdź **kafelek Microsoft Action Pack Subscription.**  
 
-2. Wybierz pozycję **Odnów subskrypcję** , a następnie wybierz formę płatności. Płatność można dokonać przy użyciu karty kredytowej lub elektronicznego przelewu bankowego.
+2. Wybierz **pozycję Odnów subskrypcję,** a następnie wybierz formę płatności. Możesz zapłacić za pomocą karty kredytowej lub elektronicznego przelewu bankowego.
 
     >[!NOTE]
-    >Jeśli **odnowienie subskrypcji** nie jest wyświetlane lub jest wyszarzone, nie masz jeszcze uprawnień do odnowienia subskrypcji Action Pack. Zmieniono zasady dotyczące okna odnowienia, aby można było odnowić subskrypcję **dopiero po** jej wygaśnięciu. Na przykład jeśli subskrypcja wygaśnie w dniu 22 czerwca, możesz ją odnowić od 23 czerwca do 30 dni później.  
+    >Jeśli **odnawianie subskrypcji** nie jest wyświetlane lub jest wyszarane, nie masz jeszcze uprawnienia do odnowienia subskrypcji Action Pack subskrypcji. Zmieniliśmy nasze zasady okna odnawiania, aby można było odnowić subskrypcję dopiero **po** jej wygaśnięciu. Jeśli na przykład subskrypcja wygaśnie 22 czerwca, możesz ją odnowić od 23 czerwca do 30 dni po.  
 
-3. Jeśli płacisz kartą kredytową, postępuj zgodnie z instrukcjami dotyczącymi dodawania danych karty kredytowej. Jeśli płacisz za pośrednictwem elektronicznego transferu bankowego, podaj nazwę kontaktu, numer telefonu i adres e-mail, a następnie wybierz pozycję **Prześlij**.
+3. W przypadku płatności kartą kredytową postępuj zgodnie z instrukcjami dotyczącymi dodawania informacji o karcie kredytowej. W przypadku płatności przelewem elektronicznym podaj nazwę kontaktu, numer telefonu i adres e-mail, a następnie wybierz pozycję **Prześlij**.
 
-4. Przejrzyj szczegóły zamówienia, a następnie wybierz pozycję **Kup** , gdy wszystko jest gotowe do zakupu Action Pack. Karta kredytowa jest rozliczana od razu.
+4. Przejrzyj szczegóły zamówienia, a następnie wybierz **pozycję Kup,** gdy wszystko będzie gotowe do Action Pack. Karta kredytowa zostanie obciążona natychmiast.
 
-5. Zamówienie zostało potwierdzone. Wybierz pozycję **Zamknij**.
+5. Twoje zamówienie zostało potwierdzone. Wybierz pozycję **Zamknij**.
 
-### <a name="update-your-bill-to-address"></a>Zaktualizuj adres płatnika
+### <a name="update-your-bill-to-address"></a>Aktualizowanie adresu adresata faktury
 
-W procesie odnawiania lub kupowania Action Pack można sprawdzić poprawność adresu płatnika.
+W procesie odnawiania lub zakupu Action Pack masz możliwość zweryfikowania adresu faktury.
 
- 1. Po wybraniu opcji **Prześlij** możesz przejrzeć szczegóły zakupu. Wybierz pozycję **Aktualizuj** , Jeśli zobaczysz, że adres musi zostać zaktualizowany.
+ 1. Po wybraniu **przycisku** Prześlij możesz przejrzeć szczegóły zakupu. Wybierz **pozycję** Aktualizuj, jeśli zobaczysz, że twój adres wymaga aktualizacji.
   
- 1. Na stronie **profil prawny** Zaktualizuj swój adres.
+ 1. Na stronie **Profil prawny** zaktualizuj swój adres.
 
 ## <a name="cancel-your-action-pack-subscription"></a>Anulowanie subskrypcji Action Pack
 
-Aby anulować subskrypcję programu Microsoft Action Pack, może być konieczne skontaktowanie się z pomocą techniczną partnera.
+Aby anulować subskrypcję usługi Microsoft Action Pack, może być konieczne skontaktowanie się z pomocą techniczną partnera.
 
-1. Przejdź do strony [**oferty**](https://partnercenter.microsoft.com/pcv/partnership/offers) dotyczącej członkostwa. Wybierz pozycję **Microsoft Action Pack Subscription** , aby wyświetlić szczegóły subskrypcji. 
+1. Przejdź do strony [**Oferty członkostwa.**](https://partnercenter.microsoft.com/pcv/partnership/offers) Wybierz **pozycję Subskrypcja Action Pack Microsoft,** aby wyświetlić szczegóły subskrypcji. 
 
-3. Wybierz pozycję **Anuluj subskrypcję**. Postępuj zgodnie z instrukcjami dotyczącymi tworzenia żądania obsługi. 
+3. Wybierz **pozycję Anuluj subskrypcję.** Postępuj zgodnie z instrukcjami dotyczącymi tworzenia wniosku o pomoc techniczną. 
 
-4. W formularzu żądanie pomocy technicznej wybierz następujące wartości, aby prawidłowo skierować żądanie:
+4. W formularzu żądania obsługi wybierz następujące wartości, aby prawidłowo rozsyłać żądanie:
 
-    -  Wybierz pozycję **Zgłoś problemy w centrum partnerskim**, a następnie wybierz pozycję **nowe żądanie** na następnej stronie.
+    -  Wybierz **pozycję Zgłoś problemy Partner Center**, a następnie wybierz pozycję Nowe **żądanie** na następnej stronie.
 
-    -  Rozwiń listę **typ problemu** i wybierz pozycję **Pomoc z fakturą partnera, płatnością lub plikiem uzgodnienia**. 
+    -  Rozwiń **listę Typ problemu i** wybierz pozycję Pomoc w przypadku faktury **partnera, płatności lub pliku uzgodnień.** 
 
-5. Zakończ wypełnienie wymaganych informacji, a następnie wybierz pozycję **Prześlij**. Zespół pomocy technicznej Centrum partnerskiego skontaktuje się z Tobą, aby pomóc Ci anulować subskrypcję.
+5. Zakończ wypełnianie wymaganych informacji, a następnie wybierz pozycję **Prześlij.** Zespół Partner Center skontaktuje się z Tobą, aby pomóc Ci anulować subskrypcję.
 
-Aby sprawdzić stan żądania obsługi, wybierz pozycję **Centrum partnerskie żądania** z **pomocy technicznej**, a następnie wybierz pozycję **Otwórz**. Wybierz odpowiednie żądanie obsługi z listy.  
+Aby sprawdzić stan żądania obsługi, wybierz pozycję żądania obsługi Partner Center **pomocy** **technicznej,** a następnie wybierz pozycję **Otwórz**. Wybierz odpowiednie żądanie obsługi z listy.  
 
-## <a name="download-your-action-pack-invoice"></a>Pobieranie faktury Action Pack
+## <a name="download-your-action-pack-invoice"></a>Pobieranie faktury Action Pack faktury
 
-1. Przejdź do strony [**oferty**](https://partnercenter.microsoft.com/pcv/partnership/offers) dotyczącej członkostwa. Wybierz pozycję **Microsoft Action Pack Subscription** , aby wyświetlić szczegóły subskrypcji. 
+1. Przejdź do strony [**Oferty członkostwa.**](https://partnercenter.microsoft.com/pcv/partnership/offers) Wybierz **pozycję Subskrypcja Action Pack Microsoft,** aby wyświetlić szczegóły subskrypcji. 
 
-3. Wybierz pozycję **Pobierz fakturę**.
+3. Wybierz **pozycję Pobierz fakturę.**
  
 ## <a name="next-steps"></a>Następne kroki
 
--   [Zacznij korzystać z korzyści Action Pack](manage-your-partner-network-benefits.md)
+-   [Rozpoczynanie korzystania z Action Pack korzyści](manage-your-partner-network-benefits.md)
 
 -   [Kompetencje](learn-about-competencies.md)
 
--   [Dowiedz się więcej na temat poziomów członkostwa w zakresie kompetencji Silver i Gold](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
+-   [Dowiedz się więcej o poziomach członkostwa kompetencji Silver i Gold](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
 
 -   [Dodawanie użytkowników i przypisywanie do nich uprawnień](create-user-accounts-and-set-permissions.md)
 

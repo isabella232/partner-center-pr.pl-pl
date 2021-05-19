@@ -1,6 +1,6 @@
 ---
-title: Zachęty do kwalifikowania się do programu
-description: Upewnij się, że spełniono wymagania kwalifikacyjne dla programu zachęt. Ten proces obejmuje sprawdzanie uprawnień w przewodniku programu.
+title: Program zachęt uprawnienia
+description: Upewnij się, że zostały spełnione wymagania dotyczące uprawnień do programu zachęt. Ten proces obejmuje sprawdzanie uprawnień w przewodniku po programie.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -8,21 +8,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 03/16/2021
-ms.openlocfilehash: cd54249e1fb53fdf3a753b38d1e9999008b9d79a
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8b9442a99aaf1ed23242eb568859d3113a8262d4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179227"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152107"
 ---
-# <a name="determine-your-incentives-program-eligibility"></a>Ustalanie uprawnień programu zachęty
+# <a name="determine-your-incentives-program-eligibility"></a>Określanie uprawnień do programu zachęt
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Administrator zachęt
 
-- Administrator globalny
-- Administrator zachęt
-
- Każdy program zachęt ma pewne wymagania dotyczące uprawnień. Te wymagania dotyczące uprawnień do programu zostały opracowane w celu zagwarantowania, że masz podpisane wszystkie odpowiednie umowy, zdobyte kompetencje, odpowiednią prognozę przychodów i inne niezbędne wymagania, wymagania wstępne, które pozwolą zapewnić pomyślność Twojemu programowi zachęt.
+Każdy program zachęt ma pewne wymagania dotyczące uprawnień. Te wymagania dotyczące uprawnień do programu zostały opracowane w celu zagwarantowania, że masz podpisane wszystkie odpowiednie umowy, zdobyte kompetencje, odpowiednią prognozę przychodów i inne niezbędne wymagania, wymagania wstępne, które pozwolą zapewnić pomyślność Twojemu programowi zachęt.
 
 ## <a name="determining-your-program-eligibility"></a>Ustalanie uprawnień do programu
 
@@ -34,14 +31,14 @@ Wymagania dotyczące uprawnień do programu można znaleźć w przewodniku po pr
 
 2. W obszarze **Zachęty** na lewym panelu nawigacyjnym wybierz pozycję **Przegląd**. Zostanie otwarta strona **Przegląd programu**.
 
-3. Wybierz odpowiedni program.
+3. Wybierz program, którego potrzebujesz.
 
-4. W polu **stan** wybierz pozycję **wymagania dotyczące uprawnień**.
+4. W polu **Stan** wybierz pozycję **Wymagania dotyczące uprawnień.**
 
-   :::image type="content" source="images/incentives/eligibility.png" alt-text="Zrzut ekranu jest przykładem wymagań związanych z zachętami.":::
+   :::image type="content" source="images/incentives/eligibility.png" alt-text="Zrzut ekranu przedstawiający przykład wymagań dotyczących zachęt.":::
 
-5. Wypełnij wszystkie obszary, które nie są zaznaczone, aby móc spełnić kryteria. Każdy program zachęty ma swój własny zestaw wymagań.
+5. Wypełnij wszystkie obszary, które nie są zaznaczone w celu spełnienia uprawnień. Każdy program zachęt ma własny zestaw wymagań.
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Wypłaty i profile podatków dla programów zachęty](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+- [Wypłaty i profile podatkowe dla programów zachęt](incentives-create-and-manage-your-payout-and-tax-profiles.md)

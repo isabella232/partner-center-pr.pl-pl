@@ -1,109 +1,104 @@
 ---
-title: Migrowanie kwalifikowanych subskrypcji systemu Dynamics 365
+title: Migrowanie kwalifikowanych subskrypcji usługi Dynamics 365
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, jak przeprowadzić migrację z kwalifikowanych, podstawowych subskrypcji Dynamics 365 do nowej subskrypcji przed wygaśnięciem istniejących subskrypcji.
+description: Dowiedz się, jak przeprowadzić migrację z kwalifikowanych, podstawowych subskrypcji usługi Dynamics 365 do nowej subskrypcji przed wygaśnięciem istniejących subskrypcji.
 author: Brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 363c97b8c2b62e8d6b62cbe3b2807fb3c0ef3e38
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 5ba6992eff64031aed0dafeb5a5010983396ab63
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132744"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151648"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Migrowanie usługi Dynamics 365 i planu Customer Engagement Plan z warstwy Podstawowa (zakwalifikowane oferty) do nowszych wersji
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent administracyjny | Agent sprzedaży
 
-- Administrator globalny
-- Administrator zarządzania użytkownikami
-- Agent administracyjny
-- Agent sprzedaży
+Od 1 stycznia 2019 r. klienci z subskrypcjami usługi Dynamics 365 for Sales/Customer Engagement z subskrypcji Podstawowa (kwalifikowane oferty) nie mogą już odnawiać tych starszych ofert. Istniejące subskrypcje nie będą odnawiane automatycznie po wygaśnięciu. Na stronie szczegółów subskrypcji stan subskrypcji zmieni się na "Wygasa [data]" z "Automatyczne odnowienie [data]". 
 
-Od 1 stycznia 2019 klienci z planem Dynamics 365 for Sales/Customer Engagement z subskrypcji Basic (z ofertami kwalifikowanymi) nie mogą już odnowiać tych starszych ofert; istniejące subskrypcje nie będą odnawiane automatycznie po ich wygaśnięciu. Na stronie szczegółów subskrypcji stan subskrypcji zmieni się na "wygasa w dniu [Date]" z "autonews w dniu [Date]". 
+Aby zapewnić ciągłość działania klientów, należy przejść te z wygasających subskrypcji do obsługiwanej opcji wymienionej poniżej. Zalecamy przeniesienie klientów do nowych subskrypcji przed datą zakończenia subskrypcji w roku, aby uniknąć jakichkolwiek błędów w usłudze dla klientów.
 
-Aby zapewnić ciągłość dla klientów, należy przenieść te osoby z wygasanymi subskrypcjami do obsługiwanej opcji, wymienione poniżej. Zalecamy przeniesienie klientów do nowych subskrypcji przed roczną datą końcową subskrypcji, aby uniknąć przerwy w działaniu usługi dla klientów.
+Jeśli używasz interfejsu API (CREST lub Partner Center), wygasające subskrypcje możesz znaleźć, oceniając datę zakończenia subskrypcji wraz z właściwością automatycznego odnawiania = False. 1 stycznia 2019 r. dla określonych subskrypcji zostanie ustawiona wartość auto renew=False. Klientów można przenieść do nowego planu w dowolnym momencie. 
 
-W przypadku korzystania z interfejsu API (SZCZYTu lub Centrum partnerskiego) można wyszukać wygasające subskrypcje, oceniając datę końcową subskrypcji wraz z właściwością autorenew = false. Dla podanych subskrypcji zostanie ustawiona wartość autorenew = false 1 stycznia 2019. Klientów można przenieść do nowego planu w dowolnym momencie. 
-
-### <a name="the-dynamics-365-offers-being-retired"></a>Oferty dla systemu Dynamics 365 są wycofywane
+### <a name="the-dynamics-365-offers-being-retired"></a>Oferty usługi Dynamics 365 są wy wycofane
 
 - Dynamics 365 for Sales Enterprise Edition CRMOL Basic (kwalifikowana oferta)
-- Dynamics 365 for Sales Enterprise Edition CRMOL Basic (kwalifikowana oferta) dla wykładowców
-- Dynamics 365 for Sales Enterprise Edition CRMOL Basic (Oferta kwalifikowana) dla studentów
-- Dynamics 365 for Sales Enterprise Edition (cennik dla instytucji rządowych) CRMOL Basic (kwalifikowana oferta)
-- Dynamics 365 for Sales Enterprise Edition od wersji SA dla programu CRM Basic (kwalifikowana oferta)
-- Dynamics 365 for Sales Enterprise Edition od wersji SA dla programu CRM Basic (kwalifikowana oferta) dla wykładowców
-- Dynamics 365 for Sales Enterprise Edition od wersji SA for CRM Basic (Oferta kwalifikowana) dla studentów
-- Dynamics 365 for Sales Enterprise Edition (cennik dla instytucji rządowych) z programu SA for CRM Basic (kwalifikowana oferta)
-- Dynamics 365 for Sales Enterprise Edition Add-On dla programu CRM Basic (kwalifikowana oferta)
-- Dynamics 365 for Sales Enterprise Edition Add-On dla programu CRM Basic (kwalifikowana oferta) dla wykładowców
-- Dynamics 365 for Sales Enterprise Edition Add-On dla programu CRM Basic (Oferta kwalifikowana) dla studentów
-- Dynamics 365 for Sales Enterprise Edition (cennik dla instytucji rządowych) Add-On dla programu CRM Basic (kwalifikowana oferta)
-- Dynamics 365 Customer Engagement plan Enterprise Edition CRMOL Basic (kwalifikowana oferta)
-- Dynamics 365 Customer Engagement plan Enterprise Edition (cennik dla instytucji rządowych) CRMOL Basic (kwalifikowana oferta)
-- Dynamics 365 Customer Engagement plan Enterprise Edition CRMOL Basic (kwalifikowana oferta) dla studentów
-- Dynamics 365 Customer Engagement plan Enterprise Edition CRMOL Basic (kwalifikowana oferta) dla wykładowców
-- Dynamics 365 Customer Engagement plan Enterprise Edition od wersji SA dla programu CRM Basic (Oferta kwalifikowana)
-- Dynamics 365 Customer Engagement plan Enterprise Edition (cennik dla instytucji rządowych) od SA for CRM Basic (kwalifikowana oferta)
-- Dynamics 365 Customer Engagement plan Enterprise Edition from SA for CRM Basic (Oferta kwalifikowana) dla studentów
-- Dynamics 365 Customer Engagement plan Enterprise Edition from SA for CRM Basic (Oferta kwalifikowana) dla nauczycieli lub wykładowców
-- Dynamics 365 Customer Engagement plan Enterprise Edition Add-On for CRM Basic (Oferta kwalifikowana)
-- Dynamics 365 Customer Engagement plan Enterprise Edition (cennik dla instytucji rządowych) Add-On dla programu CRM Basic (Oferta kwalifikowana)
-- Dynamics 365 Customer Engagement plan Enterprise Edition Add-On for CRM Basic (Oferta kwalifikowana) dla studentów
-- Dynamics 365 Customer Engagement plan Enterprise Edition Add-On for CRM Basic (kwalifikowana oferta) dla wykładowców
+- Dynamics 365 for Sales Enterprise Edition CRMOL — podstawowa (oferta kwalifikowana) dla nauczycieli
+- Dynamics 365 for Sales Enterprise Edition CRMOL Basic (kwalifikowana oferta) dla uczniów
+- Dynamics 365 for Sales Enterprise Edition (ceny dla instytucji rządowych) CRMOL — podstawowa (oferta kwalifikowana)
+- Dynamics 365 for Sales Enterprise Edition From SA for CRM Basic (Kwalifikowana oferta)
+- Dynamics 365 for Sales Enterprise Edition From SA for CRM Basic (Qualified Offer) for Faculty
+- Dynamics 365 for Sales Enterprise Edition From SA for CRM Basic (Qualified Offer) for Students
+- Dynamics 365 for Sales Enterprise Edition (cennik dla instytucji rządowych) od skoja września 2017 r. dla crm (oferta kwalifikowana)
+- Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (oferta kwalifikowana)
+- Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (oferta kwalifikowana) dla nauczycieli i wykładowców
+- Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (oferta kwalifikowana) dla uczniów
+- Dynamics 365 for Sales Enterprise Edition (cennik dla instytucji rządowych) dla Add-On crm (oferta kwalifikowana)
+- Dynamics 365 Customer Engagement Plan Enterprise Edition CRMOL Basic (oferta kwalifikowana)
+- Dynamics 365 Customer Engagement Plan Enterprise Edition (ceny dla instytucji rządowych) CRMOL — podstawowa (oferta kwalifikowana)
+- Dynamics 365 Customer Engagement Plan Enterprise Edition CRMOL Basic (Oferta kwalifikowana) dla uczniów
+- Dynamics 365 Customer Engagement Plan Enterprise Edition CRMOL Basic (oferta kwalifikowana) dla nauczycieli i wykładowców
+- Dynamics 365 Customer Engagement Plan Enterprise Edition From SA for CRM Basic (Kwalifikowana oferta)
+- Dynamics 365 Customer Engagement Plan Enterprise Edition (cennik dla instytucji rządowych) z skoja stycznia 2017 r. dla crm (oferta kwalifikowana)
+- Dynamics 365 Customer Engagement Plan Enterprise Edition From SA for CRM Basic (Qualified Offer) for Students
+- Dynamics 365 Customer Engagement Plan Enterprise Edition From SA for CRM Basic (Qualified Offer) for Faculty
+- Dynamics 365 Customer Engagement Plan Enterprise Edition Add-On for CRM Basic (oferta kwalifikowana)
+- Dynamics 365 Customer Engagement Plan Enterprise Edition (ceny dla instytucji rządowych) Add-On crm Basic (oferta kwalifikowana)
+- Dynamics 365 Customer Engagement Plan Enterprise Edition Add-On for CRM Basic (Oferta kwalifikowana) dla uczniów
+- Dynamics 365 Customer Engagement Plan Enterprise Edition Add-On for CRM Basic (oferta kwalifikowana) dla nauczycieli i wykładowców
 
 
 
-## <a name="dynamics-365-for-sales-customer-engagement-plan-from-basic-qualified-offers-replacement-plans"></a>Plan "Dynamics 365 for Sales/Customer Engagement" z podstawowych (kwalifikowanych ofert) planów zastępczych
+## <a name="dynamics-365-for-sales-customer-engagement-plan-from-basic-qualified-offers-replacement-plans"></a>Plan usługi Dynamics 365 for Sales/Customer Engagement z planów zastępczych w podstawową (kwalifikowanych ofertach)
 
 **Wycofane oferty**   
 
-- Dynamics 365 for Sales z programu CRM Basic lub CRMOL Basic (kwalifikowana oferta)
-- Plan zaangażowania klienta Dynamics 365 z programu CRM Basic lub CRMOL Basic (kwalifikowana oferta)
+- Dynamics 365 for Sales z usługi CRM Basic lub CRMOL Basic (oferta kwalifikowana)
+- Dynamics 365 Customer Engagement Plan from CRM Basic lub CRMOL Basic (Oferta kwalifikowana)
 
 **Opcje zamiany**
 - Dynamics 365 for Sales Professional (NOWOŚĆ)
 - Dynamics 365 for Sales Professional (NOWOŚĆ)
 - Dynamics 365 for Customer Service
-- Plan zaangażowania klientów w usłudze Dynamics 365 lub
-- Członkowie zespołu Dynamics 365
+- Dynamics 365 Customer Engagement Plan lub
+- Członkowie zespołu usługi Dynamics 365
 
 
 
-## <a name="transition-customers-to-new-product-plans"></a>Przejście klientów do nowych planów produktu
+## <a name="transition-customers-to-new-product-plans"></a>Przechodzenie klientów do nowych planów produktów
 
-Przeniesienie klientów z wycofanych jednostek SKU do nowszych wersji wymaga wykonania następujących kroków w tej kolejności:
+Przenoszenie klientów z wycofanych do nowszej jednostki SKU wymaga następujących kroków w tej kolejności:
 
-- Kup nową subskrypcję
-- Ponowne przypisanie bieżących licencji użytkownika
-- Anuluj starą subskrypcję
+- Kupowanie nowej subskrypcji
+- Ponowne przypisanie bieżących licencji użytkowników
+- Anulowanie starej subskrypcji
 
-## <a name="purchase-the-new-plan-for-your-customer"></a>Kup nowy plan dla klienta
+## <a name="purchase-the-new-plan-for-your-customer"></a>Zakup nowego planu dla klienta
 
-1. Wybierz pozycję **klienci** na lewym panelu nawigacyjnym, a następnie wybierz klienta, który ma zostać przeniesiony do nowej subskrypcji.
-2. Wybierz pozycję **Dodaj subskrypcję**.
-3. Wybierz subskrypcję, którą chcesz kupić z wykazu (w tym przypadku jedną z opcji powyżej), wprowadź liczbę licencji, a następnie wybierz pozycję **Prześlij**. 
+1. Wybierz **pozycję Klienci** w lewym okienku, a następnie wybierz klienta, którego chcesz przenieść do nowej subskrypcji.
+2. Wybierz **pozycję Dodaj subskrypcję.**
+3. Wybierz subskrypcję, którą chcesz kupić z katalogu (w tym przypadku jedną z powyższych opcji), wprowadź liczbę licencji, a następnie wybierz pozycję **Prześlij**. 
 
-Klient będzie miał teraz zarówno starą subskrypcję, jak i nową. Następnym krokiem jest ponowne przypisanie licencji do użytkowników klienta.
+Klient będzie teraz miał starą i nową subskrypcję. Następnym krokiem jest ponowne przypisanie licencji do użytkowników klienta.
 
-1. Wybierz pozycję **klienci** na lewym panelu nawigacyjnym, a następnie wybierz przenoszony klient.
-2. Wybierz pozycję **Użytkownicy i licencje**.
-3. Aby ponownie przypisać licencję do użytkownika, wybierz użytkownika, a następnie wybierz pozycję **Zarządzaj licencjami**. 
-4. Na stronie **Zarządzanie licencjami** Usuń zaznaczenie pola wyboru Dynamics 365 for Sales/Customer Engagement from Basic (kwalifikowana oferta), a następnie wybierz nowy plan usługi dla subskrypcji, do której będzie przenoszony klient. 
-5. Wybierz pozycję **Prześlij**. Należy to zrobić dla każdego użytkownika, który potrzebuje nowej licencji. 
+1. Wybierz **pozycję Klienci** w lewym okienku, a następnie wybierz klienta, który przenosisz.
+2. Wybierz **pozycję Użytkownicy i licencje.**
+3. Aby ponownie przypisać licencję do użytkownika, wybierz użytkownika, a następnie wybierz pozycję **Zarządzaj licencjami.** 
+4. Na stronie Zarządzanie **licencjami** wyczyść pole wyboru Dynamics 365 for Sales/ Customer Engagement Plan from Basic (Qualified Offer) license (Plan usługi Dynamics 365 for Sales/ Customer Engagement Plan from Basic (Qualified Offer) (Plan usługi Dynamics 365 for Sales/ Customer Engagement plan from Basic (Qualified Offer) (Plan usługi Dynamics 365 for Sales/Customer Engagement z licencji Podstawowej (kwalifikowana oferta) i wybierz nowy plan usługi dla subskrypcji, do których klient jest przenoszący. 
+5. Wybierz pozycję **Prześlij**. Zrobisz to dla każdego użytkownika, który potrzebuje nowej licencji. 
 
-Po przeniesieniu licencji do nowej subskrypcji można anulować starą subskrypcję. 
+Po przeniesioniu licencji do nowej subskrypcji możesz anulować starą subskrypcję. 
 
-1. Wybierz pozycję **klienci** na lewym panelu nawigacyjnym, a następnie wybierz przenoszony klient.
-2. Na stronie Szczegóły subskrypcji Ustaw starą subskrypcję na **zawieszoną** i wybierz pozycję **Prześlij**.
+1. Wybierz **pozycję Klienci** w lewym okienku nav, a następnie wybierz klienta, który przenosisz.
+2. Na stronie szczegółów subskrypcji ustaw starą subskrypcję na wartość **Wstrzymano** i wybierz pozycję **Prześlij.**
 
-Stara subskrypcja jest zawieszona, a nowa subskrypcja jest aktywna. Zawieszona subskrypcja zostanie cofnięta automatycznie po 120 dniach. Klient nie będzie miał dodatkowych kosztów dla starej subskrypcji.
+Stara subskrypcja została wstrzymana, a nowa subskrypcja jest aktywna. Wstrzymana subskrypcja zostanie automatycznie anulowana po upływie 120 dni. Klient nie poniesie żadnych dodatkowych kosztów dla starej subskrypcji.
  
 
  

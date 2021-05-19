@@ -1,90 +1,85 @@
 ---
-title: Migrowanie firm z programu PMC do Centrum partnerskiego
+title: Migrowanie firm z pmc do Partner Center
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Co należy wiedzieć podczas migrowania wielu firm z Centrum członkostwa partnerów (PMC) do Centrum partnerskiego i konsolidowania ich do konta globalnego partnera.
+description: Co należy wiedzieć w przypadku migracji wielu firm z Partner Membership Center (PMC) do Partner Center i skonsolidowania ich na globalnym koncie partnera.
 author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0787056d8d32db4a2975f7488bb65141c240ff88
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 2c9973bf82957cd017abfc59c25b0c17173cb3f8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132659"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151597"
 ---
-# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Przeniesienie wielu firm do Centrum partnerskiego z Centrum członkostwa w partnerze (PMC)
+# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Przenoszenie wielu firm do Partner Center z Partner Membership Center (PMC)
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent administracyjny | Agent sprzedaży
 
-- Administrator globalny
-- Administrator zarządzania użytkownikami
-- Agent administracyjny
-- Agent sprzedaży
+Podczas przenoszenia konta firmy z witryny PMC do Centrum partnerskiego może być konieczne przeniesienie kilku kont. W Partner Center te konta zostaną skonsolidowane na jednym koncie globalnym (PGA). Pierwsze konto, które przeniesiesz, będzie traktowane jako konto globalne partnera, a wszystkie kolejne konta zostaną skonsolidowane na pierwszym koncie jako lokalizacje. Rozpocznij przenoszenie przy użyciu konta PMC dla siedzibie firmy. Aby uzyskać więcej informacji, zobacz Przewodnik migracji z [usługi PMC](guide-to-migration.md) do usługi Partner Center lub obejrzyj ten krótki klip wideo, w którym konta z [wieloma lokalizacjami zostały łatwe.](https://vimeo.com/290335248)
 
-Podczas przenoszenia konta firmy z witryny PMC do Centrum partnerskiego może być konieczne przeniesienie kilku kont. W centrum partnerskim konta te zostaną skonsolidowane na jedno konto globalne (PGA). Pierwsze przenoszone konto będzie traktowane jako konto globalne partnera, a wszystkie kolejne konta zostaną skonsolidowane na pierwsze konto jako lokalizacje. Rozpocznij przenoszenie przy użyciu konta PMC dla siedziby firmy. Aby uzyskać więcej informacji, zobacz [Przewodnik dotyczący migrowania z programu PMC do Centrum partnerskiego](guide-to-migration.md) lub obejrzyj krótkie, [szybkie konta wielu lokalizacji](https://vimeo.com/290335248)wideo.
+## <a name="move-your-additional-accounts-into-partner-center"></a>Przenoszenie dodatkowych kont do Partner Center
 
-## <a name="move-your-additional-accounts-into-partner-center"></a>Przenoszenie dodatkowych kont do Centrum partnerskiego
+Ponieważ jedno konto firmowe zostało już przeniesione do Partner Center, gdy się zalogujesz, powiesz, które konto znajduje się już w Partner Center.
 
-Ponieważ przeniesiono jedno konto firmowe do Centrum partnerskiego, po zalogowaniu się powiadomimy o tym, które konto już znajduje się w centrum partnerskim.
+Po migracji, jeśli odkryjesz, że niewłaściwe konto firmowe zostało wyznaczone jako firma prawna, możesz zmienić to oznaczenie.
 
-Po przeprowadzeniu migracji, jeśli okaże się, że niewłaściwe konto firmowe zostało wyznaczone jako firma prawna, można zmienić to oznaczenie.
+1. Przejdź do profilu **partnera.**
 
-1. Przejdź do swojego **profilu partnera.**
+2. Upewnij się, że lokalizacja, którą chcesz wyznaczyć jako Legal business, znajduje się na liście lokalizacji. Jeśli tak nie jest, dodaj go.
 
-2. Upewnij się, że lokalizacja, która ma zostać wyznaczona jako firma prawna, znajduje się na liście lokalizacji. Jeśli nie, Dodaj ją.
+3. Wybierz **pozycję Aktualizuj legalny profil biznesowy.**
 
-3. Wybierz pozycję **Aktualizuj służbowy profil prawny.**
-
-4. Wybierz firmę i region i Zapisz go.
+4. Wybierz firmę i region i zapisz je.
 
 :::image type="content" source="images/migration/accountwithus.png" alt-text="Istniejące konto":::
 
-## <a name="your-company-has-an-account-in-partner-center"></a>Twoja firma ma konto w centrum partnerskim
+## <a name="your-company-has-an-account-in-partner-center"></a>Twoja firma ma konto w Partner Center
 
-Zobaczysz Twoje istniejące konto i notatka z informacją o tym, że szczegółowe dane firmy (konto, na którym się zalogowano) zostaną skonsolidowane na to konto.
+Zobaczysz istniejące konto i notatkę z informacją, że szczegóły Twojej firmy (konto, za pomocą których aktualnie się logujesz) zostaną skonsolidowane na tym koncie.
 
-:::image type="content" source="images/migration/existingaccount2.png" alt-text="Konto w centrum partnerskim":::
+:::image type="content" source="images/migration/existingaccount2.png" alt-text="Konto w Partner Center":::
 
-Na tym ekranie przedstawiono szczegółowe informacje o istniejącym koncie (nazwie i adresie), które zostało już utworzone w centrum partnerskim wraz ze szczegółami kontaktu podstawowego.
+Na tym ekranie przedstawiono szczegóły istniejącego konta (nazwę i adres), które zostało już utworzone w u Partner Center wraz ze szczegółami kontaktu podstawowego.
 
 Wybierz opcję **Kontynuuj**.
 
-## <a name="what-happens-during-consolidation-of-accounts"></a>Co się dzieje podczas konsolidowania kont
+## <a name="what-happens-during-consolidation-of-accounts"></a>Co się dzieje podczas konsolidacji kont
 
-- Nie można zmienić żadnych szczegółów na tym ekranie.
+- Na tym ekranie nie można zmienić żadnych szczegółów.
 
-- Konto w kryterium PMC (aktualnie przenoszone) zostanie skonsolidowane na to istniejące konto
+- Konto w chmurze PMC (obecnie przenoszące się) zostanie skonsolidowane z istniejącym kontem
 
-- Twoje CENTRALĄ i wszystkie lokalizacje w PMC zostaną przeniesione do tego istniejącego konta Centrum partnerskiego jako lokalizacje
+- Twoja HQ i wszystkie lokalizacje w centrum pmc zostaną przeniesione na to istniejące konto Partner Center jako lokalizacje
 
-- Po zakończeniu konsolidacji zobaczysz wszystkie szczegóły konta jako lokalizacje na istniejącym koncie Centrum partnerskiego
+- Po zakończeniu konsolidacji wszystkie szczegóły konta będą widzieć jako lokalizacje w ramach istniejącego Partner Center konta
 
 - Wszystkie identyfikatory MPN są zachowywane podczas tej konsolidacji
 
-- Wszystkie posiadane kompetencje (Gold/Silver), zakupy (mapy/Gold/Silver) i powiązane korzyści są zachowywane podczas konsolidacji
+- Wszystkie istniejące kompetencje (Gold/Silver), zakupy (MAPS/Gold/Silver) i powiązane korzyści są zachowywane podczas konsolidacji
 
-- Użytkownik (zalogowany przy użyciu identyfikatora służbowego poczty e-mail) zostanie automatycznie dodany jako administrator MPN i administrator konta do istniejącego konta Centrum partnerskiego, aby można było zarządzać kontem w razie potrzeby
+- Ty (użytkownik, który zalogował się przy użyciu służbowego identyfikatora poczty e-mail) zostanie automatycznie dodany jako administrator MPN i administrator konta do istniejącego konta usługi Partner Center, aby można było administrować kontem zgodnie z potrzebami
 
 ## <a name="review-your-company-information"></a>Przeglądanie informacji o firmie
 
-Sprawdź informacje o firmie i zmodyfikuj je w razie potrzeby.  Te szczegóły zostaną użyte do migrowania konta do Centrum partnerskiego, więc upewnij się, że szczegóły są poprawne.
+Sprawdź informacje o firmie i w razie potrzeby edytuj je.  Te szczegóły będą używane do migrowania konta do Partner Center, dlatego upewnij się, że szczegóły są poprawne.
 
-Szczegóły są oparte na informacjach w PMC i zostaną zweryfikowane w celu zapewnienia, że firma jest uzasadniona.
+Szczegółowe informacje są oparte na informacjach w chmurze pmc i zostaną zweryfikowane w celu zapewnienia, że firma jest uzasadniona.
 
 
-:::image type="content" source="images/migration/review.png" alt-text="Szczegóły przeglądu":::
+:::image type="content" source="images/migration/review.png" alt-text="Przeglądanie szczegółów":::
 
-Jeśli konto, które chcesz przenieść, znajduje się w tym samym kraju lub regionie co istniejące konto, możesz zdecydować, czy chcesz użyć tego adresu, czy dodać inny. Jeśli zdecydujesz się użyć innego adresu, ten adres zostanie zweryfikowany. Jeśli chcesz użyć tego samego adresu, zostanie użyty istniejący adres i kontakt podstawowy.
+Jeśli konto, które przenosisz, znajduje się w tym samym kraju lub regionie co istniejące konto, możesz zdecydować, czy chcesz użyć tego adresu, czy dodać inny. Jeśli zdecydujesz się użyć innego adresu, ten adres zostanie zweryfikowany. Jeśli chcesz użyć tego samego adresu, zostanie użyty istniejący adres i kontakt podstawowy.
 
-Po sprawdzeniu/edytowaniu informacji na tym ekranie wybierz pozycję **Prześlij** , a Twoje konta zostaną skonsolidowane.
+Po zweryfikowaniu/edytowaniu informacji na tym ekranie wybierz pozycję **Prześlij.** Twoje konta zostaną skonsolidowane.
 
 ## <a name="partner-profile"></a>Profil partnera
 
-Gdy przeglądasz swój profil, zobaczysz informacje dotyczące firmy prawnej (w obszarze PMC to była główna) oraz informacje dla wszystkich dodatkowych lokalizacji.
+Podczas wyświetlania profilu zobaczysz informacje dotyczące twojej firmy prawnej (w chmurze PMC, w tej siedzibie) oraz informacje dotyczące wszystkich dodatkowych lokalizacji.
 
 ## <a name="next-steps"></a>Następne kroki
 
@@ -92,5 +87,5 @@ Gdy przeglądasz swój profil, zobaczysz informacje dotyczące firmy prawnej (w 
 - [Tworzenie kont użytkowników](create-user-accounts-and-set-permissions.md)
 - [Przypisywanie ról i uprawnień użytkowników](permissions-overview.md)
 - [Zarządzanie programami członkostwa](renew-mpn-offers.md)
-- [Utwórz profil firmowy firmy](create-a-marketing-profile.md)
-- [Łączenie się z klientami przy użyciu odwołań](manage-leads.md)
+- [Tworzenie profilu biznesowego firmy](create-a-marketing-profile.md)
+- [Nawiązywanie połączenia z klientami za pośrednictwem poleceń](manage-leads.md)

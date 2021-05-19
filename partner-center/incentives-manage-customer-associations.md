@@ -1,6 +1,6 @@
 ---
-title: Zachęca do powiązań klientów
-description: Informacje o ważnych procesach i osiach czasu na potrzeby zarządzania skojarzeniami klientów z zażądanym partnerem rekordów (CPOR).
+title: Zachęty dla skojarzeń klientów
+description: Informacje na temat ważnych procesów i osi czasu zarządzania skojarzeniami klientów w przypadku roszczeń partnerów rekordów (CPOR, Claimed Partner of Record).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: how-to
@@ -8,56 +8,52 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 91ff0d9b0696e1ef77cf21ce288afbc51c3fe528
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: e0c79fb70c5b439968302353c70907f37aaa09a7
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179483"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151937"
 ---
-# <a name="manage-incentives-customer-associations"></a>Zarządzanie powiązaniami klientów zachęt
+# <a name="manage-incentives-customer-associations"></a>Zarządzanie skojarzeniami klientów z zachętami
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator rozliczeń | Administrator globalny | Administrator zachęt
 
-- Administrator rozliczeń
-- Administrator globalny
-- Administrator zachęt
+Platforma CPOR (Claimed Partner of Record) jest używana przez partnerów do skojarzenia się z klientami końcowi, dla których mają wpływ na użycie lub zakup produktów firmy Microsoft. Obecnie platforma CPOR obsługuje Business Applications i Microsoft 365 produktów. Partnerzy używają tej metody skojarzenia, aby uzyskać wgląd w wydajność klientów, otrzymywać płatności zachęt za pośrednictwem programów OSU i OSA oraz uzyskać skojarzenie przychodów jako wpływ biznesowy.  
 
-Zatwierdzono platformę partnera rekordów (CPOR), aby partnerzy mogli skojarzyć siebie z klientami końcowymi, którzy mają wpływ na użycie lub zakup produktów firmy Microsoft. Obecnie platforma CPOR obsługuje produkty Business Applications i Microsoft 365. Partnerzy używają tej metody kojarzenia, aby uzyskać wgląd w wydajność klienta, otrzymywać zachęty do płacenia za pomocą programów OSU i OSA oraz uzyskać skojarzenie przychodu jako wpływ na działalność biznesową.  
+## <a name="how-your-cpor-association-claim-relates-to-incentives"></a>W jaki sposób roszczenie dotyczące skojarzenia CPOR odnosi się do zachęt
 
-## <a name="how-your-cpor-association-claim-relates-to-incentives"></a>Jak powiązanie powiązania CPOR z bodźcami
+Jeśli roszczenie skojarzenia CPOR zostało zatwierdzone, użytkownik jest teraz skojarzony z klientem. Nie oznacza to, że roszczenie jest zatwierdzane dla zarobków zachęt lub wypłat. Przewodnik po programie zachęt zawiera opis wymagań dotyczących kwalifikowalności zachęt do zapłaty na podstawie zatwierdzonych roszczeń.
 
-Jeśli zostało wykonane powiązanie skojarzenia CPOR i zostało ono zatwierdzone, masz teraz skojarzenie z klientem. Nie oznacza to, że zatwierdzenie jest zatwierdzane na potrzeby zarobków lub wypłat. Przewodnik po programie zachęty przedstawia wymagania dotyczące kwalifikacji, które należy zapłacić na podstawie zatwierdzonych oświadczeń.
+Przewodniki dotyczące programu zachęt można znaleźć na [stronie Microsoft Partner Network](https://aka.ms/partnerincentives).
 
-Przewodniki dotyczące programu motywacyjnego można znaleźć na [Microsoft Partner Network](https://aka.ms/partnerincentives).
+Jeśli Twoje roszczenie dotyczące skojarzenia CPOR zostanie zatwierdzone i kwalifikuje się do zachęt, możesz zweryfikować identyfikator subskrypcji lub dzierżawy w raportach dotyczących zarobków i wypłat. 
 
-Jeśli Twoje zatwierdzenie skojarzenia CPOR zostało zatwierdzone i kwalifikuje się do zachęty, można sprawdzić poprawność subskrypcji lub identyfikatora dzierżawy w raportowaniu zysków i wypłat. 
+## <a name="cpor-association-claims-timeline"></a>Oś czasu oświadczeń skojarzeń CPOR
 
-## <a name="cpor-association-claims-timeline"></a>Oś czasu oświadczeń powiązań CPOR
+- Przesłane: będzie w stanie przesłana przez maksymalnie pięć dni roboczych, dopóki firma Microsoft nie rozpocznie procesu zatwierdzania.
+- W obszarze Przegląd: Firma Microsoft ma pięć dni roboczych na podjęcie decyzji na podstawie potwierdzenia wykonania.
+- Wymagana akcja partnera: jeśli recenzent wyśle Ci komentarze i żądanie dodatkowych informacji, masz pięć dni roboczych na udzielenie odpowiedzi. W ciągu 10 dni należy podjąć decyzję o roszczeń dotyczących skojarzenia CPOR na podstawie umowy SLA recenzenta, a także o czasie, który zajmuje recenzentom weryfikacji wykonania (PoE, proof of execution) dodatkowe informacje.
+- Zatwierdzone: Twoje roszczenie skojarzenia CPOR zostało zatwierdzone. Po zatwierdzeniu skojarzenia do klienta zostanie wysłane powiadomienie, które daje mu możliwość odmowy skojarzenia. Klient będzie miał siedem dni na rezygnację. Po zakończeniu tego okresu zgody roszczenie zostanie wysłane w celu oceny uprawnień do programów zachęt.
 
-- Przesłano: będzie on w stanie przesłany przez maksymalnie pięć dni roboczych do momentu rozpoczęcia procesu zatwierdzania przez firmę Microsoft.
-- W obszarze przegląd: Firma Microsoft ma pięć dni roboczych na podejmowanie decyzji w oparciu o potwierdzenie wykonania.
-- Wymagana akcja partnera: jeśli recenzent wysyła Komentarze i prośbę o dodatkowe informacje, masz pięć dni roboczych na odpowiedź. Należy podjąć decyzję dotyczącą Twojego powiązania CPOR w ciągu 10 dni w oparciu o umowę SLA recenzenta oraz ilość czasu potrzebną do udostępnienia recenzentów z dodatkowymi informacjami.
-- Zatwierdzone: Twoje powiązanie skojarzenia CPOR zostało zatwierdzone. Po zatwierdzeniu skojarzenia zostanie do niego wysłane powiadomienie z informacją o odrzuceniu skojarzenia. Klient będzie miał siedem dni, aby zrezygnować z korzystania z programu. Po upływie tego okresu zgody zgłoszenie zostanie wysłane w celu oceny uprawnień do programów zachęty.
+## <a name="view-the-status-of-your-cpor-association-claim"></a>Wyświetlanie stanu roszczenia skojarzenia CPOR
 
-## <a name="view-the-status-of-your-cpor-association-claim"></a>Wyświetl stan Twojego powiązania skojarzenia CPOR
+Stan roszczenia skojarzenia CPOR można sprawdzić w dowolnym momencie przy użyciu pulpitu nawigacyjnego skojarzeń [klienta](https://partner.microsoft.com/dashboard/incentives/claims/associations) (wymagane jest zalogowanie się).
 
-W dowolnym momencie można sprawdzić stan powiązania CPOR skojarzenia z użyciem [pulpitu nawigacyjnego skojarzenia klienta](https://partner.microsoft.com/dashboard/incentives/claims/associations) (wymagane jest zalogowanie się).
+Poniżej podano stany i ich znaczenia:
 
-Oto Stany i ich znaczenie:
-
-| Stan zgłoszenia | Pojawia się, gdy |
+| Stan oświadczenia | Pojawia się, gdy |
 | ------ | ----------- | 
-|  Edytowanie  | Twoje powiązanie skojarzenia CPOR zostało utworzone. Pozostaje w tym stanie do momentu przekazania potwierdzenia dokumentu wykonania i przesłania zgłoszenia do zatwierdzenia.   |
-|  Przesłane  | Partner pomyślnie przesłał swój związek skojarzenia CPOR, ale firma Microsoft nie rozpoczęła jeszcze procesu recenzowania.   |
-|  W trakcie przeglądu  | Firma Microsoft rozpoczęła sprawdzanie poprawności dokumentacji PoE. Firma Microsoft może skontaktować się z Tobą, aby uzyskać więcej szczegółów. Umowa SLA procesu przeglądu jest pięć dni roboczych.  |
-|  Odrzucone  | Twój PoE był niewystarczający lub nie odpowiedział w ciągu pięciu dni roboczych zgodnie z wytycznymi dotyczącymi przeglądu PoE i zostało odrzucone.   |
-|  Approved (Zatwierdzono)  | Zatwierdzenie zostało zatwierdzone. Po zatwierdzeniu przez firmę Microsoft klient otrzymuje możliwość odmowy powiązania. Klient ma siedem dni, aby zrezygnować z zatwierdzenia przez firmę Microsoft. Mimo że Twoje zgłoszenie będzie widoczne jako zatwierdzone, zostanie wysłane tylko do oceny zachęty po upływie okresu zgody.   |
-|  Wymagana akcja partnera  | Firma Microsoft przeanalizowała oświadczenie CPOR Association PoE i potrzebuje więcej informacji związanych z Twoim PoE dla zażądanych produktów/obciążeń. Masz pięć dni roboczych, aby podać żądane informacje i ponownie przesłać Twoje żądanie, lub zostanie odrzucone. Poniżej znajdują się potencjalne powody, dla których mogą być potrzebne dodatkowe informacje:
+|  Edytowanie  | Twoje roszczenie skojarzenia CPOR zostało utworzone. Pozostaje on w tym stanie do momentu przekazania dokumentu potwierdzającego wykonanie i przesłania roszczenia do zatwierdzenia.   |
+|  Przesłane  | Partner pomyślnie przesłał swoje roszczenie dotyczące skojarzenia CPOR, ale firma Microsoft nie rozpoczęła jeszcze procesu przeglądu.   |
+|  W trakcie przeglądu  | Firma Microsoft rozpoczęła sprawdzania poprawności dokumentacji programu PoE. Aby uzyskać więcej informacji, możemy skontaktować się z Tobą. Umowa SLA procesu przeglądu to pięć dni roboczych.  |
+|  Odrzucone  | Weryfikacja weryfikacji weryfikacji jest niewystarczająca lub nie odpowiedziała w ciągu pięciu dni roboczych zgodnie z wytycznymi weryfikacji, a roszczenie zostało odrzucone.   |
+|  Approved (Zatwierdzono)  | Oświadczenie zostało zatwierdzone. Po zatwierdzeniu przez firmę Microsoft klient otrzymał możliwość odmowy skojarzenia. Klient ma siedem dni na rezygnację po zatwierdzeniu przez firmę Microsoft. Mimo że roszczenie będzie wyświetlane jako zatwierdzone, zostanie wysłane do oceny zachęt dopiero po upływie okresu zgody.   |
+|  Wymagana akcja partnera  | Firma Microsoft przejmuje roszczenie dotyczące skojarzenia CPOR i potrzebuje dodatkowych informacji dotyczących weryfikacji weryfikacji jakości dla produktów/obciążeń, których dotyczy roszczenie. Masz pięć dni roboczych na dostarczenie żądanych informacji i ponowne przesłanie roszczenia. W przypadku jego odrzucenia żądanie zostanie odrzucone. Poniżej znajdują się potencjalne powody, dla których mogą być potrzebne dodatkowe informacje:
 
 - Brak wszystkich weryfikacji wykonania (PoE) — brak weryfikacji wykonania z powodu przesłania niepoprawnego pliku lub pliku nieodnoszącego się do roszczenia dotyczącego skojarzenia CPOR
 
-- Brak podpisu klienta potwierdzenia klienta nie ma na PoE
+- Brak podpisu klienta potwierdzenia klienta nie znajduje się w weryfikacji weryfikacji klienta
 
 - Brakujące lub stare daty — brak dat na weryfikacji wykonania lub zamieszczone daty są stare w stosunku do roszczenia
 
@@ -65,38 +61,38 @@ Oto Stany i ich znaczenie:
 
 - Brakujące produkty — weryfikacja wykonania nie zawiera produktu lub obciążenia, którego dotyczy roszczenie 
 
-## <a name="dispute-the-status-of-a-cpor-association-claim"></a>Zażądaj stanu CPOR powiązania skojarzenia
+## <a name="dispute-the-status-of-a-cpor-association-claim"></a>Zakwestionowanie stanu roszczenia skojarzenia CPOR
 
-Jeśli Twoje powiązanie skojarzenia CPOR zostanie odrzucone, masz 30 dni na spór o odrzucenie. Wiadomość e-mail z powiadomieniem o odrzuceniu zawiera również informacje o tym, gdzie można zapoznać się z przyczyną odrzucenia oraz jak je zakwestionować.  
+Jeśli roszczenie dotyczące skojarzenia CPOR zostanie odrzucone, masz 30 dni na zakwestionowanie odrzucenia. Wiadomość e-mail z powiadomieniem o odrzuceniu zawiera również informacje o tym, gdzie można zapoznać się z przyczyną odrzucenia oraz jak je zakwestionować.  
 
-Jeśli zakończono 30 dni i nadal chcesz zgłosić odrzucone żądanie, musisz przesłać nowe skojarzenie ze zaktualizowanym potwierdzeniem wykonania (PoE). 
+Jeśli minęło 30 dni i nadal chcesz zakwestionować odrzucone roszczenie, musisz przesłać nowe skojarzenie ze zaktualizowaną weryfikacją wykonania. 
 
-### <a name="to-dispute-a-rejected-claim"></a>Aby zgłosić odrzucone zgłoszenie
+### <a name="to-dispute-a-rejected-claim"></a>Aby zakwestionować odrzucone roszczenie
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
-2. Otwórz zastrzeżenie, które chcesz zgłosić.
-3. Na stronie roszczeń wybierz pozycję **spór**.
-4. Wprowadź uzasadnienie biznesowe i/lub zaktualizowane PoE wyjaśniające, dlaczego odrzucenie powinno być rozpatrywane.
-5. Po zakończeniu dodawania informacji wybierz pozycję **Rozpocznij spór**. Nasi recenzenci powinni skontaktować się z Tobą w ciągu pięciu dni roboczych.
+2. Otwórz roszczenie, które chcesz zakwestionować.
+3. Na stronie roszczenia wybierz pozycję **Zakwestionuj**.
+4. Wprowadź uzasadnienie biznesowe i/lub zaktualizowaną konfigurację z wyjaśnieniem, dlaczego należy ponownie rozważyć odrzucenie.
+5. Po zakończeniu dodawania informacji wybierz pozycję **Rozpocznij spór**. Nasi recenzentzy powinni skontaktować się z Tobą w ciągu pięciu dni roboczych.
 
-## <a name="reasons-a-cpor-association-claim-is-rejected"></a>Powody, dla których odrzucono powiązanie powiązania CPOR
+## <a name="reasons-a-cpor-association-claim-is-rejected"></a>Przyczyny odrzucenia roszczenia skojarzenia CPOR
 
-Istnieją trzy podstawowe powody, aby można było odrzucić powiązanie skojarzenia CPOR.
+Istnieją trzy podstawowe przyczyny odrzucenia roszczenia skojarzenia CPOR.
 
-**Żądanie partnera:** Partnerzy mogą żądać odrzucania skojarzenia. To uzasadnienie jest najczęściej używane, gdy Partner utworzył CPOR powiązania skojarzenia przez pomyłkę przy użyciu niepoprawnego MPNu, wybrano nieprawidłowe działanie (na przykład wybierzesz skojarzenie przychodu zamiast sprzedaży przed sprzedażą) lub nie pracujesz już z klientem.
+**Żądanie partnera:** Partnerzy mogą zażądać odrzucenia skojarzenia. To uzasadnienie jest najczęściej używane, gdy partner utworzył roszczenie dotyczące skojarzenia CPOR przez pomyłkę przy użyciu nieprawidłowego mpn, wybrał nieprawidłowe działanie (na przykład wybrano skojarzenie przychodu zamiast przedsprzedaż) lub nie pracuje już z klientem.
 
-**Odrzucenie klienta:** Po pomyślnym przeprowadzeniu żądania skojarzenia CPOR przez proces zatwierdzania PoE jego stan zmieni się na zatwierdzony, gdy klient ma możliwość odmowy zgody na skojarzenie. Jeśli klient odmawia wyrażenia zgody, skojarzenie zostanie odrzucone.
+**Odrzuć klienta:** Po pomyślnym zakończeniu procesu zatwierdzania skojarzenia CPOR jego stan zmieni się na Zatwierdzone, podczas gdy klient ma możliwość odmowy zgody skojarzenia. Jeśli klient odmawia wyrażenia zgody, skojarzenie zostanie odrzucone.
 
-**Niewystarczające potwierdzenie wykonania:** Dla każdego skojarzenia CPOR wymagane jest potwierdzenie wykonania. Po przesłaniu wniosku o skojarzenie CPOR, recenzenci firmy Microsoft pozostaną do pięciu dni, aby przejrzeć swój PoE i poprosił o dodatkowe informacje potrzebne do skorzystania z sekcji komentarzy w Twoim wystąpieniu. Jeśli informacje są niewystarczające, Twoje powiązanie skojarzenia CPOR zostanie odrzucone.
+**Niewystarczająca ilość dowodu wykonania:** Dowód wykonania jest wymagany dla każdego skojarzenia CPOR. Po przesłaniu roszczenia o skojarzenie CPOR recenzentzy firmy Microsoft przejdą do weryfikacji i poproszą o wszelkie dodatkowe informacje wymagane za pomocą sekcji Komentarze w żądaniu. Jeśli te informacje są niewystarczające, roszczenie dotyczące skojarzenia CPOR zostanie odrzucone.
 
 Inne możliwe przyczyny odrzucenia:
 
-- Brak zgody klienta na PoE
+- Brak zgody klienta na przetwarzanie poe
 - Brakujące produkty
 - Brak odpowiedzi partnera
-- PoE niedostępne
+- Wytłoki są niedostępne
 
-## <a name="edit-your-cpor-association-claim"></a>Edytowanie powiązania skojarzenia CPOR
+## <a name="edit-your-cpor-association-claim"></a>Edytowanie roszczenia skojarzenia CPOR
 
 Istnieje możliwość edytowania określonych pól w ramach roszczenia dotyczącego skojarzenia CPOR. Użytkownik może zostać poproszony o usunięcie produktów/obciążeń, jeśli recenzenci dostarczą wskazówek, że przesłana weryfikacja wykonania jest niewystarczająca. Aby można było edytować, roszczenie dotyczące skojarzenia CPOR musi mieć stan Przesłane lub Wymagane działanie partnera.
 
@@ -107,17 +103,17 @@ Pola, które można edytować:
 - Informacje kontaktowe klienta i partnera
 - Dodawanie dodatkowych weryfikacji wykonania i komentarzy
 
-## <a name="customer-consent-notification"></a>Powiadomienie klienta
+## <a name="customer-consent-notification"></a>Powiadomienie o zgody klienta
 
-Po zatwierdzeniu powiązania skojarzenia CPOR z klientem zostanie wysłane powiadomienie z informacją o odrzuceniu skojarzenia. Klient będzie miał siedem dni, aby zrezygnować z korzystania z programu. Twój stan w tym okresie zostanie wyświetlony zgodnie z zatwierdzeniem. Jeśli klient odmawia wyrażenia zgody, skojarzenie zostanie odrzucone. Po upływie tego okresu zgody klient nie odmówił zgody, zgłoszenie zostanie wysłane w celu oceny uprawnień do programów zachęty.
+Po zatwierdzeniu roszczenia skojarzenia CPOR do klienta zostanie wysłane powiadomienie z możliwością odmowy skojarzenia. Klient będzie miał siedem dni na rezygnację. Twój stan w tym okresie będzie wyświetlany jako Zatwierdzone. Jeśli klient odmawia wyrażenia zgody, skojarzenie zostanie odrzucone. Po zakończeniu okresu zgody, gdy klient nie odmówi zgody, roszczenie zostanie wysłane w celu oceny uprawnień do programów zachęt.
 
-## <a name="how-to-communicate-with-poe-reviewers"></a>Jak komunikować się z recenzentami PoE
+## <a name="how-to-communicate-with-poe-reviewers"></a>Jak komunikować się z recenzentami weryfikacji weryfikacji weryfikacji
 
-Gdy recenzenci przejdzie przez PoE, mogą określić, że dodatkowe informacje są konieczne. Jeśli tak, skontaktują się z Tobą za pomocą sekcji komentarzy Twojego żądania. Można także odpowiedzieć na nie w sekcji komentarzy.
+Gdy recenzentzy przejdą weryfikację weryfikacji weryfikacji, mogą ustalić, że potrzebne są dodatkowe informacje. Jeśli tak, skontaktuje się z Tobą za pośrednictwem sekcji Komentarze Twojego roszczenia. Możesz odpowiedzieć na nie również w sekcji Komentarze.
 
-## <a name="view-claim-history"></a>Wyświetl historię roszczeń
+## <a name="view-claim-history"></a>Wyświetlanie historii roszczeń
 
-W ramach powiązania skojarzenia CPOR w prawym górnym rogu znajduje się przycisk **historia** , który umożliwia wyświetlenie wszystkich zmian, komentarzy i akcji podjętych na tym wystąpieniu z perspektywy partnera i recenzenta.
+W oświadczenie skojarzenia CPOR, w prawym  górnym rogu znajduje się przycisk Historia, który umożliwia wyświetlanie wszystkich zmian, komentarzy i akcji podjętych w związku z tym oświadczeniem z perspektywy partnera i recenzenta.
 
 ## <a name="next-steps"></a>Następne kroki
 

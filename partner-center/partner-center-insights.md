@@ -1,6 +1,6 @@
 ---
-title: Wgląd w szczegółowe dane Centrum partnerskiego
-description: Eksploruj ten pulpit nawigacyjny ujednoliconego raportowania Centrum partnerskiego. Zobacz, jak wykonujesz kluczowe wskaźniki wydajności dla sprzedaży i wdrażania, opracowywania klientów i nie tylko.
+title: Partner Center Insights
+description: Zapoznaj się z tym Partner Center ujednoliconym pulpitem nawigacyjnym raportowania. Zobacz, jak radzisz sobie z wskaźnikami KPI dla sprzedaży i wdrażania, rozwoju klientów i nie tylko.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,93 +9,88 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: ba8389ff613b47b17b87a6769674e33948fdc37d
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 6661fb013b25e55785dac9156e5f3561f5b50c97
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086587"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151019"
 ---
-# <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Informacje o centrum partnerów — pulpit nawigacyjny pokazujący, jak działa partner komercyjny firmy Microsoft
+# <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Insights — pulpit nawigacyjny, który pokazuje, jak działa partner komercyjny firmy Microsoft
 
-**Odpowiednie role**
-
-- Administrator globalny
-- Administrator konta
-- Executive — Podgląd raportów
-- Podgląd raportów
+**Odpowiednie role:** Administrator globalny | Administrator konta | Przeglądarka raportów dla kierownictwa | Przeglądarka raportów
 
 ## <a name="introduction"></a>Wprowadzenie
 
-Pulpit nawigacyjny usługi Insights to ujednolicony pulpit nawigacyjny raportowania w centrum partnerskim dla partnerów komercyjnych firmy Microsoft, które są zarejestrowane w programie Microsoft Partner Network (MPN). Pulpit nawigacyjny usługi Insights oferuje widok 360 kluczowych wskaźników wydajności w ramach produktów w chmurze, takich jak pakiet Office, platforma Azure, usługa Dynamics i modele licencjonowania, takie jak CSP i EA. Przedstawia on bogaty zestaw raportów kluczowych wskaźników wydajności, które mogą pomóc w podejmowaniu decyzji opartych na danych w organizacji. 
+Pulpit nawigacyjny usługi Insights to ujednolicony pulpit nawigacyjny raportowania w usłudze Partner Center dla partnerów komercyjnych firmy Microsoft zarejestrowanych w programie Microsoft Partner Network (MPN). Pulpit nawigacyjny usługi Insights zapewnia 360-stopniowy widok kluczowych wskaźników wydajności (KPI) dla produktów w chmurze, takich jak office, Azure, Dynamics i modeli licencjonowania, takich jak CSP i EA. Udostępnia ona bogaty zestaw raportów kluczowych wskaźników wydajności, które mogą ułatwić podejmowanie decyzji opartych na danych dla organizacji. 
 
-## <a name="role-based-access-control-to-the-insights-dashboard"></a>Kontrola dostępu oparta na rolach na pulpicie nawigacyjnym usługi Insights
+## <a name="role-based-access-control-to-the-insights-dashboard"></a>Kontrola dostępu oparta na rolach do pulpitu nawigacyjnego szczegółowych informacji
 
-W centrum partnerskim są dostępne dwie nowe role przeznaczone specjalnie do uzyskiwania dostępu do wglądu w dane: **Podgląd raportów** i **dyrektor raportów** programu. Użytkownicy w roli programu Executive Report Viewer mają dostęp do wszystkich zestawów danych raportowania, a użytkownicy w roli przeglądarki raportów nie będą mieli dostępu do poufnych zestawów danych, takich jak dochody i dane osobowe dotyczące odbiorców/pracowników. 
+Istnieją dwie nowe role w programie Partner Center przeznaczone specjalnie do uzyskiwania dostępu do szczegółowych **informacji:** Podgląd raportów i **Executive Report Viewer.** Użytkownicy z rolą Executive Report Viewer mają dostęp do wszystkich zestawów danych raportowania, natomiast użytkownicy z rolą Osoby wyświetlającego raporty nie będą mieć dostępu do poufnych zestawów danych, takich jak dane osobowe przychodów i klientów/pracowników. 
 
-Administrator globalny lub administrator konta może przypisywać użytkownikom te role i są przypisane do całej firmy lub dla określonej lokalizacji MPN.  
+Administrator globalny lub administrator konta może przypisać użytkownikom te role i są przypisani do całej firmy lub dla określonej lokalizacji MPN.  
 
 >[!Note] 
->Użytkownicy, którzy zostali MPN Administratorzy od 20 stycznia 2020 zostały automatycznie dodani do roli przeglądarki raportów w całej firmie. Mogą uzyskiwać dostęp do raportów w postaci przeglądarki raportów bez jawnej akcji wymaganej przez administratora globalnego lub administratora konta. Jeśli to konieczne, Administratorzy globalni lub administrator konta mogą przesłonić te przydziały. 
+>Użytkownicy, którzy byli administratorami MPN od 20 stycznia 2020 r., zostali automatycznie dodani do roli przeglądarki raportów dla całej firmy. Mogą oni uzyskać dostęp do raportów jako przeglądarki raportów bez żadnej jawnej akcji wymaganej przez administratora globalnego lub administratora konta. Administratorzy globalni lub administratorzy kont mogą w razie potrzeby przesłonić te przypisania. 
 
 ## <a name="reports-available"></a>Dostępne raporty
 
-Poniższe raporty są dostępne w ramach pulpitu nawigacyjnego usługi Insights.
+Następujące raporty są dostępne w ramach pulpitu nawigacyjnego szczegółowych informacji.
 
-**Przegląd**: Raport z omówieniem przedstawia widok migawek różnych kluczowych wskaźników wydajności, takich jak liczba klientów, liczba aktywnych subskrypcji, przychód użycia platformy Azure, aktywne licencje itp.
+**Przegląd:** Raport Przegląd przedstawia widok migawki różnych kluczowych wskaźników wydajności, takich jak liczba klientów, liczba aktywnych subskrypcji, przychód z użycia platformy Azure, aktywne licencje itp.
 
-**Klient**: Raport klienta przedstawia analizę klientów, takich jak dane dotyczące pozyskiwania klientów, aktywni klienci itd.
+**Klient:** Raport Klienta przedstawia analizy dotyczące klientów, takie jak dane pozyskiwania klientów, aktywni klienci itp.
 
-**Produkt — subskrypcje**: Raport subskrypcje przedstawia analizę zakupów i użycia dla subskrypcji chmury (na przykład O365, Azure, Dynamics itp.).
+**Produkt — subskrypcje:** Raport Subskrypcje przedstawia analizę pozyskiwania i użycia dla subskrypcji w chmurze (takich jak usługi O365, Azure, Dynamics itp.)
 
-**Produkt — licencje**: pulpit nawigacyjny licencji przedstawia analizę licencji dla produktów w chmurze opartych na licencjach, takich jak O365, Dynamics, Power BI itd.
+**Licencje produktów:** pulpit nawigacyjny Licencje przedstawia analizę licencji dla opartych na licencjach produktów w chmurze, takich jak O365, Dynamics, Power BI itp.
 
-**Produkt — użycie platformy Azure**: raport użycia platformy Azure przedstawia metryki dotyczące subskrypcji platformy Azure klientów, w tym dochody i użycie platformy Azure według kategorii mierników.
+**Produkt — użycie platformy Azure:** Raport Użycia platformy Azure przedstawia metryki związane z subskrypcjami platformy Azure klientów, w tym przychody z użycia platformy Azure i użycie według kategorii mierników.
 
-**Kompetencje**: Raport dotyczący kompetencji przedstawia metryki dotyczące aktywnych, wykwalifikowanych i narażonych kompetencji.
+**Kompetencje:** raport Kompetencje przedstawia metryki dotyczące kompetencji aktywnych, kwalifikowanych i zagrożonych.
 
-**Zalety**: Raport korzyści przedstawia analizę korzyści płynących z partnerów uzyskanych w porównaniu z ich zużyciem.
+**Korzyści:** Raport Korzyści przedstawia analizę korzyści dla partnerów, które zostały uzyskane w porównaniu z ich wykorzystaniem.
 
 ## <a name="navigating-the-insights-reports"></a>Nawigowanie po raportach szczegółowych informacji
 
-**Filtry zakresu dat**: można znaleźć wybór zakresu dat w prawym górnym rogu każdej strony. Dane wyjściowe wykresów stron przeglądu można dostosować, wybierając zakres dat na podstawie ostatnich 3, 6 lub 12 miesięcy lub wybierając niestandardowy zakres dat. Domyślny wybór zakresu dat to 12 miesięcy. 
+**Filtry zakresu dat:** wybór zakresu dat można znaleźć w prawym górnym rogu każdej strony. Dane wyjściowe wykresów strony przeglądu można dostosować, wybierając zakres dat na podstawie ostatnich 3, 6 lub 12 miesięcy albo wybierając niestandardowy zakres dat. Domyślny zakres dat to 12 miesięcy. 
 
 :::image type="content" source="images/pci/intro1.png" alt-text="Mapa wprowadzenia":::
 
-**Przycisk opinii**: Każdy wykres/kontrolka we wszystkich raportach usługi Insights jest dołączany do przycisku opinii, aby umożliwić dostarczenie opinii o wystąpieniach w funkcji raportu. 
+**Przycisk opinii:** każdy wykres/kontrolka we wszystkich raportach szczegółowych informacji jest uwzględniany za pomocą przycisku opinii, aby można było przekazać opinię o wystąpieniu funkcji raportu. 
 
  
-**Filtry na poziomie strony**: oprócz raportów dotyczących przeglądu, korzyści i kompetencji, wszystkie raporty usługi Insights umożliwiają stosowanie filtrów na poziomie strony. 
+**Filtry na poziomie strony:** z wyjątkiem raportów Przegląd, Korzyści i Kompetencje wszystkie raporty szczegółowych informacji umożliwiają stosowanie filtrów na poziomie strony. 
 
-- Wybrane filtry będą dotyczyć wszystkich wykresów i metryk na stronie, w tym sekcji podsumowania. Element filtru będzie dostępny, jeśli masz jakieś dane w tych kryteriach filtrowania. 
+- Wybrane filtry będą stosowane do wszystkich wykresów i metryk na stronie, w tym do sekcji podsumowania. Element filtru będzie dostępny, jeśli masz jakiekolwiek dane w ramach tych kryteriów filtrowania. 
 
-- **Wszystkie** listy filtrów są domyślnie zaznaczone. Na przykład jeśli nie wybrano konkretnego produktu w filtrze produkty, domyślnym wyborem będzie wszystkie produkty.
+- Domyślnym wyborem każdej listy filtrów jest **.** Jeśli na przykład nie wybrano określonego produktu w filtrze produktów, domyślnym wyborem będą wszystkie produkty.
 
-- Wybrane filtry zostaną wyświetlone u góry strony. 
+- Wybrane filtry będą wyświetlane w górnej części strony. 
 
-:::image type="content" source="images/pci/filters.png" alt-text="Zrzut ekranu przedstawiający zastosowany pasek filtrów z wybranymi filtrami dla produktów, rynków klientów, przypisań partnerów i kanałów sprzedaży.":::
+:::image type="content" source="images/pci/filters.png" alt-text="Częściowy zrzut ekranu przedstawiający pasek Zastosowane filtry z wyborami filtrów dla produktów, rynków klienta, autorstwa partnerów i kanałów sprzedaży.":::
 
 ### <a name="filters-definitions"></a>Definicje filtrów:
 
-- Produkty: Lista wszystkich produktów Microsoft Cloud sprzedawanych/zarządzanych przez organizację, na przykład O365, Azure, D365, EMS, Power BI itp.
-- Rynki klientów: Lista krajów klienta
-- Przypisania partnerów: typ powiązania z subskrypcjami klientów, na przykład Digital Partner of Record (DPOR), Administrator delegowany (DAP) i link administratora partnera (PAL). 
-- Lokalizacje partnerów: Lista wszystkich lokalizacji MPN organizacji.
-- Kanały sprzedaży: cały kanał sprzedaży/Cennik, za pośrednictwem którego kupujesz/udostępniasz produkty i usługi, np. CSP, EA, CSP pośredniego, bezpośrednie, Doradca, otwarte, inne
-- Segmenty klientów: Lista segmentów klientów w ramach bazy klientów partnerskich.
+- Produkty: lista wszystkich produktów w chmurze firmy Microsoft sprzedawanych/zarządzanych przez organizację, na przykład O365, Azure, D365, EMS, Power BI itp.
+- Rynki klientów: Lista krajów klientów
+- Przypisania partnerów: Typ skojarzenia z subskrypcjami klientów, na przykład Cyfrowy partner rekordów (DPOR), Delegowane uprawnienia administratora (DAP) i Link administratora partnera (PAL). 
+- Lokalizacje partnerów: lista wszystkich lokalizacji MPN w organizacji.
+- Kanały sprzedaży: wszystkie kanały sprzedaży/ceny, za pośrednictwem których kupujesz/aprowizujesz produkty i usługi, a mianowicie CSP, EA, CSP indirect, Direct, Advisor, Open, inne
+- Segmenty klientów: lista segmentów klientów w bazie klientów partnerów.
 
-## <a name="read-about-each-of-the-dashboards-and-reports"></a>Przeczytaj o poszczególnych pulpitach nawigacyjnych i raportach:
+## <a name="read-about-each-of-the-dashboards-and-reports"></a>Przeczytaj o każdym z pulpitów nawigacyjnych i raportów:
 
-- [Centrum partnerskie — Omówienie pulpitu nawigacyjnego](pci-overview-report.md)
+- [Partner Center Insights — omówienie pulpitu nawigacyjnego](pci-overview-report.md)
 
-- [Centrum partnerskie — informacje o pulpicie nawigacyjnym klienta](pci-customer-report.md)
+- [Partner Center Insights — pulpit nawigacyjny klienta](pci-customer-report.md)
 
-- [Centrum partnerskie — raport dotyczący subskrypcji](pci-product-subscriptions-report.md)
+- [Partner Center Insights — raport subskrypcji](pci-product-subscriptions-report.md)
 
-- [Centrum partnerskie — szczegółowe informacje o licencjach](pci-product-licenses-report.md)
+- [Partner Center Insights — raport licencji](pci-product-licenses-report.md)
 
-- [Szczegółowe informacje o centrum partnerskim — raport użycia platformy Azure](pci-azure-usage-report.md)
+- [Partner Center Insights — raport użycia platformy Azure](pci-azure-usage-report.md)
 
-- [Centrum partnerskie — raport dotyczący kompetencji](pci-competencies-report.md)
+- [Partner Center Insights — raport kompetencji](pci-competencies-report.md)
 
-- [Raport dotyczący usługi Partner Center — informacje o korzyściach](pci-benefits-report.md)
+- [Partner Center Insights — raport korzyści](pci-benefits-report.md)

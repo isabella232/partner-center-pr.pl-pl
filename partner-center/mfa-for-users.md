@@ -9,39 +9,37 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f42c97be88a1a505f7e0ae9b8af0d4a9167d8447
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 5173526d0f65623311d5cd3a1061e8b9e93e9bb9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182379"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151631"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Konfigurowanie użytkowników przy użyciu uwierzytelniania wieloskładnikowego
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny
 
-- Administrator globalny
-
-Lepsze zabezpieczenia i bezpieczeństwo ochrony prywatności znajdują się wśród naszych najważniejszych priorytetów. Wiemy, że najlepszą obroną jest zapobieganie i że jest to tylko silne rozwiązanie. Dlatego potrzebujemy, aby wszyscy w naszym ekosystemie mogli działać i zapewnić odpowiednie zabezpieczenia. Zdecydowanie zalecamy, aby wszyscy partnerzy mogli korzystać z uwierzytelniania wieloskładnikowego (MFA) dla swoich użytkowników w dzierżawie partnera. 
+Naszymi najwyższymi priorytetami są większe zabezpieczenia prywatności i bezpieczeństwo. Wiemy, że najlepszą obroną jest zapobieganie i że jesteśmy tylko tak silni jak nasze słabe łącze. Dlatego potrzebujemy, aby wszyscy w naszym ekosystemie działali i zapewniali odpowiednie zabezpieczenia. Zdecydowanie zalecamy, aby wszyscy partnerzy włączyli uwierzytelnianie wieloskładnikowe (MFA) dla swoich użytkowników w dzierżawie partnera. 
 
 ## <a name="add-multi-factor-authentication-for-your-users"></a>Dodawanie uwierzytelniania wieloskładnikowego dla użytkowników
 
-Aby wykonać to zadanie, musisz być administratorem globalnym Twojej firmy.
+Aby wykonać to zadanie, musisz być administratorem globalnym w swojej firmie.
 
-Najprostszym rozwiązaniem jest włączenie usługi MFA dla użytkowników podczas dodawania ich do dzierżawy usługi Azure AD.
+Najłatwiej jest włączyć usługę MFA dla użytkowników podczas dodawania ich do dzierżawy usługi Azure AD.
 
-1. Zaloguj się do [Azure Portal](https://portal.azure.com) a następnie przejdź do pozycji **Zarządzanie użytkownikami**.
-1. Wybierz pozycję **uwierzytelnianie wieloskładnikowe**.
-1. Wybierz użytkownika, który chcesz włączyć, a następnie wybierz pozycję **Włącz**.
+1. Zaloguj się do [Azure Portal](https://portal.azure.com) a następnie przejdź do **tematu Zarządzanie użytkownikami.**
+1. Wybierz **pozycję Uwierzytelnianie wieloskładnikowe.**
+1. Wybierz użytkownika, którego chcesz włączyć, a następnie wybierz pozycję **Włącz.**
 
-Spowoduje to włączenie usługi MFA dla tego użytkownika. Włączona oznacza, że użytkownik zostanie poproszony o skonfigurowanie weryfikacji usługi MFA podczas pierwszego logowania. Po zalogowaniu zostanie wyświetlony monit o podanie kodu wysłanego do nich za pośrednictwem wiadomości e-mail lub wiadomości SMS (w zależności od konfiguracji).  
+Spowoduje to włączenie uwierzytelniania wieloskładnikowego dla tego użytkownika. Wartość Włączone oznacza, że użytkownik zostanie poproszony o skonfigurowanie weryfikacji MFA podczas pierwszego logowania. Następnie podczas logowania zostanie wyświetlony monit o podanie kodu wysłanego do nich za pośrednictwem poczty e-mail lub wiadomości SMS (w zależności od tego, która konfiguracja została przez nich wysłana).  
 
-:::image type="content" source="images/MFA/securityverification.png" alt-text="Określ sposób weryfikacji":::
+:::image type="content" source="images/MFA/securityverification.png" alt-text="Określanie sposobu weryfikacji":::
 
 >[!NOTE]
->Możesz **wymusić** , aby użytkownicy korzystali z usługi MFA, wykonując te same kroki, jak powyżej, i wybierając pozycję **Wymuszaj**. Aby dowiedzieć się więcej, przeczytaj artykuł [Włączanie usługi Azure Multi-Factor Authentication dla poszczególnych użytkowników w celu zabezpieczenia zdarzeń związanych z logowaniem](/azure/active-directory/authentication/howto-mfa-userstates). 
+>Możesz **wymusić użycie** uwierzytelniania wieloskładnikowego przez użytkowników, korzystając z powyższych kroków i wybierając pozycję **Wymuszaj.** Aby dowiedzieć się więcej, przeczytaj [włączanie usługi Azure Multi-Factor Authentication](/azure/active-directory/authentication/howto-mfa-userstates)dla 1 użytkownika w celu zabezpieczenia zdarzeń logowania. 
 
-Wszyscy użytkownicy zaczynają **wyłączać**. Gdy rejestrujesz użytkowników w usłudze Azure Multi-Factor Authentication dla poszczególnych użytkowników, ich stan zmieni się na **włączone**. Gdy użytkownicy będą mogli się zalogować i zakończyć proces rejestracji, ich stan zmieni się na **wymuszone**. 
+Wszyscy użytkownicy zaczynają od **wyłączonego .** W przypadku rejestrowania użytkowników w usługach Azure Active Directory Multi-Factor Authentication ich stan zmieni się na **Włączone.** Po włączeniu logowania użytkowników i ukończeniu procesu rejestracji ich stan zmieni się na **Wymuszone.** 
 
 ## <a name="next-steps"></a>Następne kroki
 

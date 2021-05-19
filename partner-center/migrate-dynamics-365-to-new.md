@@ -1,71 +1,66 @@
 ---
-title: Migrowanie systemu Dynamics 365 Business Edition
+title: Migrowanie usługi Dynamics 365 Business Edition
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Zapoznaj się z tematem, jak przeprowadzić migrację do wersji kwalifikowanej systemu Dynamics 365 Business Edition, zanim wygasną.
+description: Dowiedz się, jak przeprowadzić migrację kwalifikowanych ofert usługi Dynamics 365 Business Edition do nowszej wersji, zanim wygasną.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e83c06c11638bdde508fd27904038bcb6d8c9e9c
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 8232ab165ea68ebefdfbb30f3ac52c907e1b7278
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132642"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151529"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Migrate Dynamics 365 Business Edition Offers to newer versions (Migrowanie ofert usługi Dynamics 365 Business Edition do nowszych wersji)
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent administracyjny | Agent sprzedaży
 
-- Administrator globalny
-- Administrator zarządzania użytkownikami
-- Agent administracyjny
-- Agent sprzedaży
+Od 1 stycznia 2019 r. klienci z subskrypcjami usługi Dynamics 365 Business Edition nie mogą już odnawiać tych starszych ofert. Istniejące subskrypcje nie będą odnawiane automatycznie po wygaśnięciu. Na stronie szczegółów subskrypcji stan subskrypcji zmieni się na "Wygasa [data]" z "Automatyczne odnowienie [data]".
 
-Od 1 stycznia 2019 klienci korzystający z subskrypcji Dynamics 365 Business Edition nie mogą już odnowiać tych starszych ofert; istniejące subskrypcje nie będą odnawiane automatycznie po ich wygaśnięciu. Na stronie szczegółów subskrypcji stan subskrypcji zmieni się na "wygasa w dniu [Date]" z "autonews w dniu [Date]".
+Aby zapewnić ciągłość działania klientów, należy przejść te z wygasających subskrypcji do obsługiwanej opcji wymienionej poniżej. Zalecamy przeniesienie klientów do nowych subskrypcji przed datą zakończenia subskrypcji w roku, aby uniknąć jakichkolwiek outages usługi dla klientów.
 
-Aby zapewnić ciągłość dla klientów, należy przenieść te osoby z wygasanymi subskrypcjami do obsługiwanej opcji, wymienione poniżej. Zalecamy przeniesienie klientów do nowych subskrypcji przed roczną datą końcową subskrypcji, aby uniknąć przerwy w działaniu usługi dla klientów.
+Jeśli używasz interfejsu API (CREST lub Partner Center), wygasające subskrypcje możesz znaleźć, oceniając datę zakończenia subskrypcji wraz z właściwością automatycznego odnawiania = False. 1 stycznia 2019 r. dla określonych subskrypcji zostanie ustawiona opcja automatycznego odnawiania=Fałsz. Klientów można przenieść do nowego planu w dowolnym momencie. 
 
-W przypadku korzystania z interfejsu API (SZCZYTu lub Centrum partnerskiego) można wyszukać wygasające subskrypcje, oceniając datę końcową subskrypcji wraz z właściwością autorenew = false. Dla podanych subskrypcji zostanie ustawiona wartość autorenew = false 1 stycznia 2019. Klientów można przenieść do nowego planu w dowolnym momencie. 
+## <a name="the-dynamics-365-business-editions-being-retired"></a>Wycofane wersje usługi Dynamics 365 Business
 
-## <a name="the-dynamics-365-business-editions-being-retired"></a>Wycofywane wersje systemu Dynamics 365 Business
+- Dynamics 365 for Finance and Operations, wersja Business
+- Dynamics 365 for Team Members, wersja Business
 
-- Dynamics 365 dla finansów i operacji, wersja Business
-- Dynamics 365 dla członków zespołu, wersja Business
+## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics Business Central — nowe oferty usługi Dynamics 365 Business Edition
 
-## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics Business Central — wersja Dynamics 365 Business Edition — nowe oferty
+Dzięki nowym ofertom usługi Dynamics Business Central klienci mogą łączyć swoje finanse, sprzedaż, usługi i operacje, aby usprawnić procesy biznesowe, usprawnić interakcje z klientami i podejmować lepsze decyzje. Usługa Dynamics 365 Business Central jest oparta na chmurze i jest dostępna tylko za pośrednictwem Dostawca rozwiązań w chmurze (CSP).
+Klienci usługi Dynamics 365 Business Edition są uprawnieni do otrzymania cennika przejścia z rabatem dla nowych ofert usługi Business Central do 30 czerwca 2020 r.
 
-Nowe oferty usługi Dynamics Business Central umożliwiają klientom łączenie ich finansów, sprzedaży, usług i operacji w celu usprawnienia procesów biznesowych, poprawy interakcji z klientami oraz podejmowania lepszych decyzji. Usługa Dynamics 365 Business Central jest oparta na chmurze i dostępna za pośrednictwem partnerów programu Cloud Solution Provider (CSP).
-Klienci korzystający z systemu Dynamics 365 Business Edition mogą otrzymywać obniżone ceny za okresy przejściowe dla nowych ofert w ramach usługi Business Central do 30 czerwca 2020.
+## <a name="transition-customers-to-new-product-plans"></a>Przechodzenie klientów do nowych planów produktów
 
-## <a name="transition-customers-to-new-product-plans"></a>Przejście klientów do nowych planów produktu
+ Przenoszenie klientów z wycofanych do nowszej jednostki SKU wymaga następujących kroków w tej kolejności:
 
- Przeniesienie klientów z wycofanych jednostek SKU do nowszych wersji wymaga wykonania następujących kroków w tej kolejności:
+- Kupowanie nowej subskrypcji
+- Ponowne przypisanie bieżących licencji użytkowników
+- Anulowanie starej subskrypcji
 
-- Kup nową subskrypcję
-- Ponowne przypisanie bieżących licencji użytkownika
-- Anuluj starą subskrypcję
+## <a name="purchase-the-new-plan-for-your-customer"></a>Zakup nowego planu dla klienta
 
-## <a name="purchase-the-new-plan-for-your-customer"></a>Kup nowy plan dla klienta
+1. Wybierz **pozycję Klienci** w lewym okienku, a następnie wybierz klienta, którego chcesz przenieść do nowej subskrypcji.
+2. Wybierz **pozycję Dodaj subskrypcję.**
+3. Wybierz subskrypcję, którą chcesz kupić z katalogu (w tym przypadku jedną z powyższych opcji), wprowadź liczbę licencji, a następnie wybierz pozycję **Prześlij**. 
 
-1. Wybierz pozycję **klienci** na lewym panelu nawigacyjnym, a następnie wybierz klienta, który ma zostać przeniesiony do nowej subskrypcji.
-2. Wybierz pozycję **Dodaj subskrypcję**.
-3. Wybierz subskrypcję, którą chcesz kupić z wykazu (w tym przypadku jedną z opcji powyżej), wprowadź liczbę licencji, a następnie wybierz pozycję **Prześlij**. 
+Klient będzie teraz miał starą i nową subskrypcję. Następnym krokiem jest ponowne przypisanie licencji do użytkowników klienta.
 
-Klient będzie miał teraz zarówno starą subskrypcję, jak i nową. Następnym krokiem jest ponowne przypisanie licencji do użytkowników klienta.
+1. Wybierz **pozycję Klienci** w lewym okienku, a następnie wybierz klienta, który przenosisz.
+2. Wybierz **pozycję Użytkownicy i licencje.**
+3. Aby ponownie przypisać licencję do użytkownika, wybierz użytkownika, a następnie wybierz pozycję **Zarządzaj licencjami.** 
+4. Na stronie Zarządzanie **licencjami** wyczyść pole wyboru Dynamics 365 for Sales/ Customer Engagement Plan from Basic (Qualified Offer) license (Plan usługi Dynamics 365 for Sales/ Customer Engagement Plan from Basic (Qualified Offer) (Plan usługi Dynamics 365 for Sales/ Customer Engagement plan from Basic (Qualified Offer) (Plan usługi Dynamics 365 for Sales/Customer Engagement z licencji Podstawowej (kwalifikowana oferta) i wybierz nowy plan usługi dla subskrypcji, do których klient jest przenoszący. 
+5. Wybierz pozycję **Prześlij**. Zrobisz to dla każdego użytkownika, który potrzebuje nowej licencji. 
 
-1. Wybierz pozycję **klienci** na lewym panelu nawigacyjnym, a następnie wybierz przenoszony klient.
-2. Wybierz pozycję **Użytkownicy i licencje**.
-3. Aby ponownie przypisać licencję do użytkownika, wybierz użytkownika, a następnie wybierz pozycję **Zarządzaj licencjami**. 
-4. Na stronie **Zarządzanie licencjami** Usuń zaznaczenie pola wyboru Dynamics 365 for Sales/Customer Engagement from Basic (kwalifikowana oferta), a następnie wybierz nowy plan usługi dla subskrypcji, do której będzie przenoszony klient. 
-5. Wybierz pozycję **Prześlij**. Należy to zrobić dla każdego użytkownika, który potrzebuje nowej licencji. 
+Po przeniesionej licencji do nowej subskrypcji możesz anulować starą subskrypcję. 
 
-Po przeniesieniu licencji do nowej subskrypcji można anulować starą subskrypcję. 
+1. Wybierz **pozycję Klienci** w lewym okienku, a następnie wybierz klienta, który przenosisz.
+2. Na stronie szczegółów subskrypcji ustaw starą subskrypcję na **wstrzymaną i** wybierz pozycję **Prześlij.**
 
-1. Wybierz pozycję **klienci** na lewym panelu nawigacyjnym, a następnie wybierz przenoszony klient.
-2. Na stronie Szczegóły subskrypcji Ustaw starą subskrypcję na **zawieszoną** i wybierz pozycję **Prześlij**.
-
-Stara subskrypcja jest zawieszona, a nowa subskrypcja jest aktywna. Zawieszona subskrypcja zostanie cofnięta automatycznie po 120 dniach. Klient nie będzie miał dodatkowych kosztów dla starej subskrypcji.
+Stara subskrypcja została wstrzymana, a nowa subskrypcja jest aktywna. Wstrzymana subskrypcja zostanie automatycznie anulowana po upływie 120 dni. Klient nie poniesie żadnych dodatkowych kosztów dla starej subskrypcji.

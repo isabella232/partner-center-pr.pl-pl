@@ -2,42 +2,39 @@
 title: Pokazy dla partnerów MPN
 ms.topic: article
 ms.date: 02/05/2021
-description: Dowiedz się, jak znaleźć pokazy dostępne dla partnerów MPN Silver, Gold i Action Pack.
+description: Dowiedz się, jak znaleźć pokazy dostępne dla partnerów mpn Silver, Gold Action Pack partnerów.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 26162b4164d3bb8f1572c460f431efab056e1a8a
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: c49b8de69d65a4417e9533a80f72c4bd2ef80b8f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132591"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152413"
 ---
-# <a name="demos-for-mpn-partners--microsoft-365-dynamics-365-teams-and-more"></a>Pokazy dla partnerów MPN — Microsoft 365, Dynamics 365, zespołów i innych
+# <a name="demos-for-mpn-partners--microsoft-365-dynamics-365-teams-and-more"></a>Pokazy dla partnerów MPN — Microsoft 365, Dynamics 365, Teams i nie tylko
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator partnera MPN | Administrator konta
 
-- Administrator partnerski MPN
-- Administrator konta
+Microsoft Partner Network (MPN) oferuje szeroką gamę pokazów dla partnerów Silver, Gold i Action Pack Partners.
 
-Microsoft Partner Network (MPN) oferuje szeroką gamę pokazów dla partnerów Silver, Gold i Action Pack.
-
-## <a name="access-mpn-demos"></a>Dostęp do pokazów MPN
+## <a name="access-mpn-demos"></a>Uzyskiwanie dostępu do pokazów programu MPN
 
 Aby uzyskać dostęp do pokazów MPN:
 
-- Zaloguj się do usługi [CDX.Transform.Microsoft.com](https://cdx.transform.microsoft.com/) przy użyciu konta MPN.
+- Zaloguj się [cdx.transform.microsoft.com](https://cdx.transform.microsoft.com/) przy użyciu konta MPN.
 
 >[!NOTE]
->Możesz zalogować się jako dostawca CSP tylko wtedy, gdy ta sama dzierżawa jest również używana dla członkostwa MPN.
+>Możesz zalogować się jako CSP tylko wtedy, gdy ta sama dzierżawa jest również używana w przypadku członkostwa w programie MPN.
 
-Aby wyświetlić istniejącą zawartość, zobacz [środowiska](https://cdx.transform.microsoft.com/experiences).
+Aby wyświetlić istniejącą zawartość, zobacz [Experiences (Środowisko).](https://cdx.transform.microsoft.com/experiences)
 
-Aby utworzyć dzierżawę, zobacz [Moje środowiska](https://cdx.transform.microsoft.com/my-tenants).
+Aby utworzyć dzierżawę, zobacz [Moje środowiska.](https://cdx.transform.microsoft.com/my-tenants)
 
 ## <a name="next-steps"></a>Następne kroki
 
-- Przegląd [często ZAdawanych pokazów](https://cdx.transform.microsoft.com/help/faq)
-- Odwiedź witrynę [pomocy technicznej dla demonstracji firmy Microsoft](https://cdx.transform.microsoft.com/submit-request) i zaloguj się przy użyciu konta SKOJARZONEGO z MPN
+- Zapoznaj się z [tematem Demos FAQ (Pokazy — często zadawane pytania)](https://cdx.transform.microsoft.com/help/faq)
+- Odwiedź [stronę pomocy technicznej programu Microsoft Demos](https://cdx.transform.microsoft.com/submit-request) i zaloguj się przy użyciu konta skojarzonego z programem MPN

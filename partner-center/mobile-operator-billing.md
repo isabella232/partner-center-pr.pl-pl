@@ -1,31 +1,29 @@
 ---
 title: Rozliczenia operatora sieci komórkowej — Microsoft Store
-description: Aplikacja Microsoft Store rozliczenia operatora sieci komórkowej jako formę płatności dla operatorów sieci komórkowej, którzy obsługują tę funkcję.
+description: Ten Microsoft Store oferuje rozliczenia operatora sieci komórkowej jako formę płatności dla operatorów sieci komórkowej, którzy obsługują tę funkcję.
 ms.date: 04/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.topic: article
 ms.author: hickeys
 author: hickeys
-keywords: windows 10, uwp, mobile operators, mobile billing, mobile operator billing
+keywords: windows 10, UWP, operatorzy urządzeń przenośnych, rozliczenia za urządzenia przenośne, rozliczenia operatora sieci komórkowej
 ms.localizationpriority: medium
-ms.openlocfilehash: 20ce286814682277e375894e99f947d084206246
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 70d1d05911c927832ae82a402b0c17be52e39cfa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172391"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151546"
 ---
 # <a name="mobile-operator-billing"></a>Rozliczenia operatora komórkowego
 
-**Odpowiednie role**
-
-- Administrator globalny
+**Odpowiednie role:** Administrator globalny
 
 > [!NOTE]
 > Jeśli szukasz pomocy technicznej dotyczącej wypłat, w tym konfigurowania kont wypłat, brakujących wypłat, wstrzymywania wypłat lub innych, skontaktuj się z pomocą [techniczną tutaj.](https://developer.microsoft.com/windows/support)
 
-Aplikacja Microsoft Store rozliczenia operatora sieci komórkowej jako formę płatności za urządzenia z systemem Windows 10, telefony z Windows 10 Mobile i Xbox One konsole. Jeśli operator sieci komórkowej klienta obsługuje tę funkcję, może dodać rozliczenia operatora sieci komórkowej jako formę płatności i używać go do zakupów w Sklepie przy użyciu konta mobilnego.
+Aplikacja Microsoft Store rozliczenia operatora sieci komórkowej jako formę płatności za urządzenia z systemem Windows 10, telefony z Windows 10 Mobile i Xbox One konsole. Jeśli operator sieci komórkowej klienta obsługuje tę funkcję, może dodać rozliczenia operatora jako formę płatności i używać go do zakupów w Sklepie przy użyciu konta mobilnego.
 
 > [!TIP]
 > Jeśli operator sieci komórkowej klienta oferuje rozliczenia za operator sieci komórkowej, ale klient nie może znaleźć tej opcji na swoim urządzeniu, zapoznaj się z tymi [krokami.](https://support.microsoft.com/instantanswers/b25d6dd6-fb8b-3710-1e13-4d30eb01b51f)
@@ -36,7 +34,7 @@ Regularnie współpracujemy z operatorami sieci komórkowej, aby zwiększyć dos
 
 Następujący operatorzy sieci komórkowej obecnie obsługują rozliczenia operatora sieci komórkowej.
 
-| Kraj/region       | Operatorzy sieci komórkowej                                        |
+| Kraj/region       | Operatorzy urządzeń przenośnych                                        |
 |----------------------|---------------------------------------------------------|
 | Australia            | Optus                                                   |
 | Austria              | A1 Telekom, Domachison 3G Zamów, T-Mobile /tele.ring  |

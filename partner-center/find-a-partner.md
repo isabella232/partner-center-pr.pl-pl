@@ -8,24 +8,22 @@ description: Jako partner firmy Microsoft możesz mieć pytania dotyczące sposo
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: df7ae61a88852d6ef2e4c1cb210b689a20235d0c
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: be12ede0c725a859892985e4cfb9032d7fb2abe8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172340"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150951"
 ---
 # <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Znajdź partnera lub dostawcę rozwiązań, aby odpowiedzieć na pytania dotyczące programów, licencjonowania lub transakcji klientów 
 
-**Odpowiednie role**
-
-- Wszyscy partnerzy firmy Microsoft
+**Odpowiednie role:** Wszyscy partnerzy firmy Microsoft
 
 Ten artykuł zawiera informacje dla partnerów firmy Microsoft dotyczące sposobu znalezienia innych partnerów, którzy mogą pomóc im i ich klientom odnosić sukcesy dzięki produktom i usługom firmy Microsoft.
 
 ## <a name="different-microsoft-partners-and-solution-providers"></a>Różni partnerzy firmy Microsoft i dostawcy rozwiązań
 
-W ekosystemie partnerów firmy Microsoft istnieje wiele typów partnerów lub dystrybutorów. Kilka z tych, które zostały uwzględnione w tym artykule, to:
+W ekosystemie partnerów firmy Microsoft istnieje wiele typów partnerów lub dystrybutorów. Kilka z tych, które zostały uwzględnione w tym artykule, to między innymi:
 
 - Dostawca rozwiązań w chmurze (CSP) odsprzedawcy pośredni programu (CSP) i ich dostawcy pośredni
 - Dystrybutorzy programu licencjonowania zbiorowego
@@ -41,7 +39,7 @@ Zapoznaj się z następującą tabelą, aby znaleźć partnera lub dystrybutora.
 |:------------------|:--------------- |
 |Znajdź dostawcę pośredniego CSP (dla odsprzedawców pośrednich CSP, którzy nie mają jeszcze *przypisanego dostawcy pośredniego)* | [Microsoft Partner Network wyszukiwania dostawcy pośredniego](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)  |
 |Znajdowanie dostawcy lub dystrybutora rozwiązań programu licencjonowania zbiorowego  | [Strona wyszukiwania dostawcy rozwiązań firmy Microsoft](https://www.microsoft.com/solution-providers/home)  |
-|Znajdź autoryzowanego dystrybutora kanału OEM firmy Microsoft  | [Strona wyszukiwania Partner Center OEM firmy Microsoft dla urządzeń](https://devicepartner.microsoft.com/connect/distributor)  |
+|Znajdowanie autoryzowanego dystrybutora kanału OEM firmy Microsoft  | [Strona wyszukiwania Partner Center OEM firmy Microsoft dla urządzeń](https://devicepartner.microsoft.com/connect/distributor)  |
 
 ## <a name="next-steps"></a>Następne kroki
 

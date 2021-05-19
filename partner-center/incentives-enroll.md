@@ -8,18 +8,16 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: c4e24c22790edddef02e7936eaef9ed788489a37
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 670fae58a9a0e25127eb746f38063ea300d5ee2f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528531"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152090"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Rejestracja i zarządzanie użytkownikami w programie zachęt
 
-**Odpowiednie role**
-
-- Administrator zachęt
+**Odpowiednie role:** Administrator zachęt
 
 >[!NOTE]
 >Aby zarejestrować się w programie zachęt, musisz ukończyć migrację Partner Membership Center Partner Center [programu](prepare-pmc-pc-migration.md).
@@ -41,21 +39,21 @@ Aby zarejestrować się w Partner Center zachęt, administrator administrator gl
 
 Gdy Twoja organizacja kwalifikuje się do zachęt, firma Microsoft wyśle zaproszenie do administratora zachęt kwalifikującego się pliku MPNLocationID, aby rozpocząć proces rejestracji. Ta wiadomość e-mail zostanie wysłana z Partner Center firmy **Microsoft** i będzie mieć temat Zaproszenie do rejestracji **zachęt partnera.** Otwórz zaproszenie i wybierz pozycję **Rozpocznij**.
 
-Zaproszenie zostanie również wyświetlony na stronie Partner Center głównej. Po wybraniu tego komunikatu nie będzie można go wyświetlić ponownie. Administrator zachęt może jednak ukończyć ten proces, logując się  do pulpitu nawigacyjnego Partner Center i wybierając pozycję [Przegląd](https://partner.microsoft.com/dashboard/) w obszarze **Zachęty** na lewym pasku nawigacyjnym. Wybierz **pozycję Zarejestruj,** a następnie wypełnij profil wypłaty i profil podatkowy dla programu.
+Zaproszenie zostanie również wyświetlony na stronie Partner Center głównej. Po wybraniu tego komunikatu nie będzie można go wyświetlić ponownie. Administrator zachęty może jednak ukończyć ten proces, logując  się do pulpitu nawigacyjnego Partner Center i wybierając pozycję [Przegląd](https://partner.microsoft.com/dashboard/) w obszarze **Zachęty** w lewym okienku nawigacyjnym. Wybierz **pozycję Zarejestruj,** a następnie wypełnij profil wypłaty i profil podatkowy dla programu.
 
-Jeśli masz już domyślną konfigurację profilu bankowego dla lokalizacji MPN i próbujesz zarejestrować się w  tej samej lokalizacji MPN w programie zachęt, po wybraniu pozycji Zarejestruj i zaakceptuj zaproszenie zostanie wyświetlony domyślny profil bankowy. Zostanie również pokazany dowolny dostępny profil podatkowy, jeśli został utworzony dla tej lokalizacji MPN. Jeśli firma Microsoft ma wszystkie wymagane szczegóły profilu bankowego i podatkowego, zostanie wyświetlony monit o wybranie opcji **Prześlij** w celu ukończenia rejestracji. Zobacz [Konfigurowanie domyślnego profilu bankowego.](incentives-create-and-manage-your-payout-and-tax-profiles.md#set-up-a-default-bank-profile)
+Jeśli masz już domyślną konfigurację profilu bankowego dla lokalizacji MPN i próbujesz zarejestrować się w  tej samej lokalizacji MPN w programie zachęt, po wybraniu pozycji Zarejestruj i zaakceptowaniu zaproszenia zostanie wyświetlony domyślny profil bankowy. Zostanie również pokazany dowolny dostępny profil podatkowy, jeśli został utworzony dla tej lokalizacji MPN. Jeśli firma Microsoft ma wszystkie wymagane szczegóły profilu bankowego i podatkowego, zostanie wyświetlony monit o wybranie opcji **Prześlij** w celu ukończenia rejestracji. Zobacz [Konfigurowanie domyślnego profilu bankowego.](incentives-create-and-manage-your-payout-and-tax-profiles.md#set-up-a-default-bank-profile)
 
-Możesz również wybrać profil bankowy inny niż domyślny profil bankowy. Jeśli firma Microsoft wymaga dodatkowych szczegółów dotyczących profilów płatności,  profilów podatkowych lub  waluty, zostanie wyświetlony monit o kontynuowanie i nastąpi przekierowanie do strony profilów płatności i podatków w celu podania brakujących szczegółów. 
+Możesz również wybrać profil bankowy inny niż domyślny profil bankowy. Jeśli firma Microsoft wymaga dodatkowych szczegółów dotyczących profilów płatności,  profilów podatkowych lub  waluty, zostanie wyświetlony monit Continue (Kontynuuj) i nastąpi przekierowanie do strony profilu płatności i podatku w celu podania brakujących szczegółów. 
 
-Rejestracja jest uznawana za ukończoną tylko wtedy, gdy profil wypłaty i profil podatkowy, który pozyskasz dla rejestracji, zostanie zweryfikowany przez firmę Microsoft.
+Rejestracja jest uznawana za ukończoną tylko wtedy, gdy profil wypłaty i profil podatkowy, który popełnisz dla rejestracji, są weryfikowane przez firmę Microsoft.
 
-Niektóre programy zachęt nie mają kryteriów kwalifikowalności i są otwarte dla wszystkich partnerów. Administrator zachęt będzie widzieć zaproszenia dla tych programów na stronie przeglądu zachęt, pod warunkiem, że ma uprawnienia do odpowiedniego programu zachęt i programu MPN. Firma Microsoft nie wysyła wiadomości e-mail z zaproszeniami do tych programów.
+Niektóre programy zachęt nie mają kryteriów kwalifikowalności i są otwarte dla wszystkich partnerów. Administrator zachęt zobaczy zaproszenia dla tych programów na stronie przeglądu zachęt, pod warunkiem, że ma uprawnienia do odpowiedniego programu zachęt i programu MPN. Firma Microsoft nie wysyła wiadomości e-mail z zaproszeniami do tych programów.
 
-Aby uzyskać więcej informacji na temat procesu rejestracji, pobierz Przewodnik po rejestracji [zachęt](https://partner.microsoft.com/resources/detail/partner-center-incentives-enrollment-pdf) (wymagane jest zalogowanie).
+Aby uzyskać więcej informacji na temat procesu rejestracji, pobierz przewodnik [po rejestracji zachęt](https://partner.microsoft.com/resources/detail/partner-center-incentives-enrollment-pdf) (wymagane jest zalogowanie).
 
 ## <a name="expiration-and-renewal"></a>Wygaśnięcie i odnowienie
 
-Rejestracja zachęt wygasa na koniec roku obrachunkowego. Jeśli jednak pozostaniesz kwalifikującym się partnerem z aktywną umową, firma Microsoft przekaże rejestrację zachęt do następnego roku obrachunkowego. Nie musisz podjąć żadnych działań, o ile informacje o wypłatach i podatku wymagane dla programu zachęt są kompletne zgodnie z regułami programu zachęt.
+Rejestracja zachęt wygasa na koniec roku obrachunkowego. Jeśli jednak pozostaniesz kwalifikującym się partnerem z aktywną umową, firma Microsoft przekaże rejestrację zachęt do kolejnego roku obrachunkowego. Nie musisz podjąć żadnych działań, o ile informacje o wypłatach i podatku wymagane dla programu zachęt są kompletne zgodnie z regułami programu zachęt.
 
 ## <a name="next-steps"></a>Następne kroki
 

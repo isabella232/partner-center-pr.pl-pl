@@ -1,26 +1,22 @@
 ---
 title: Wypłaty i profil podatkowy — często zadawane pytania
 description: Uzyskaj odpowiedzi na często zadawane pytania dotyczące wypłat i szczegółów podatkowych w Partner Center. Zawiera odpowiedzi na pytania o to, dlaczego zarobki są inne niż oczekiwano.
-ms.service: partner-dashboard
-ms.subservice: partnercenter-incentives
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 05/06/2021
-ms.openlocfilehash: 74d62a794d95cbf7a5170ddbcfe474cc61fbf9b3
-ms.sourcegitcommit: 5780fab794d7a48c64ce27eeabd7a39d56706e9c
+ms.openlocfilehash: 7f5cf168a87c25f3afe0767769ce8dcc77d07f04
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "109240520"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145834"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Typowe pytania dotyczące wypłat i podatków
 
-**Odpowiednie role**
-
-- Administrator konta
-- Administrator globalny
-- Administrator zachęt
+**Odpowiednie role:** Administrator konta | Administrator globalny | Administrator zachęt
 
 W tym artykule znajdują się odpowiedzi na często zadawane pytania dotyczące wypłat i szczegółów podatkowych w Partner Center. Uwzględnione tematy obejmują terminy płatności, sprawdzanie uprawnień do zarobków oraz znaczenie poprawnego skonfigurowania profilów wypłaty i profilów podatkowych.
 
@@ -59,7 +55,7 @@ Jeśli twoja firma jest zapraszana do wielu programów, możesz użyć tego same
 
 #### <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>W jaki sposób firma Microsoft zapewnia, że informacje bankowe są rzeczywiście informacjami firmy, a nie osobistym kontem bankowym pracownika?
 
-Firma jest odpowiedzialna za zapewnienie, że rola administratora zachęt — który ma uprawnienia do edytowania tych informacji — jest nadana tylko odpowiednim pracownikom.
+Firma odpowiada za zapewnienie, że rola administratora zachęt — który ma uprawnienia do edytowania tych informacji — jest nadana tylko odpowiednim pracownikom.
 
 #### <a name="my-tax-profile-has-expired-how-do-i-fix-update-it"></a>Mój profil podatkowy wygasł. Jak mogę go zaktualizować?
 
@@ -78,15 +74,15 @@ Jeśli profil podatkowy wygasł lub wygaśnie, oznacza to, że formularz podatko
 
 - Być może zamówienie klienta nie kwalifikuje się jeszcze do wypłaty. W przypadku zamówień od klientów niekorporacyjnych firma Microsoft musi otrzymać płatność od klienta, zanim zarobki wydawcy zostaną zakwalifikowane. W przypadku zamówień od klientów korporacyjnych zarobki będą dostępne od 1 do 2 dni po dacie zamówienia zakupu. Sprawdź stan zamówienia w obszarze [Raporty zamówień](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order).
 - Zarobki z tytułu transakcji sprzed lipca 2019 r. mogą nie być widoczne w raporcie historii transakcji. Możesz sprawdzić historyczne zestawienia w obszarze [Pobieranie wypłat](https://partner.microsoft.com/dashboard/payouts/reports/incentiveexport).
-- Sprawdź ramy [czasowe cyklu wypłat i](payment-thresholds-methods-timeframes.md) dowiedz się, kiedy twoje zarobki powinny pojawić się w zestawieniach wypłat.
+- Sprawdź ramy [czasowe cyklu wypłat i](payment-thresholds-methods-timeframes.md) dowiedz się, kiedy twoje zarobki powinny pojawić się w wyciągu z wypłat.
 
 #### <a name="why-is-my-earnings-amount-different-than-what-i-expected"></a>Dlaczego kwota zarobków jest inna niż oczekiwana?
 
 - Jeśli zamówienie zostało opłacone częściowo przez klienta, kwota zarobków będzie oparta na częściowo zapłaconej kwoty po odjęniu opłaty i odpowiedniego podatku.
-- Sprawdź odpowiedzialność za zakres podatków według kraju. W krajach, w których podatek jest odpowiedzialny przez firmę Microsoft, firma Microsoft pobiera i odejmuje podatek od zarobków wydawcy. Kwota transakcji wskazana w zestawieniu jest pomniejszona o podatek. Zobacz [Szczegóły podatków](tax-details-marketplace.md).
+- Sprawdź odpowiedzialność za zakres podatków według kraju. W krajach, w których podatek jest odpowiedzialny przez firmę Microsoft, firma Microsoft pobiera i odlicza podatek od zarobków wydawcy. Kwota transakcji wskazana w zestawieniu jest pomniejszona o podatek. Zobacz [Szczegóły podatków](tax-details-marketplace.md).
 - Oferty SaaS i IaaS mają obniżoną opłatę agencyjną w wysokości 10% zamiast standardowego 20%, pozostawiając zarobki na poziomie 90%. Jest to wymaganie dotyczące Co-Sell IP. Ta promocja obowiązuje do 30 czerwca 2021 r. 
 
-**Dalsze informacje:** [Komercyjna](https://go.microsoft.com/fwlink/p/?LinkID=699560)umowa wydawcy platformy handlowej, [](payout-policy-details.md)szczegóły zasad wypłaty, [próg płatności,](payment-thresholds-methods-timeframes.md)metoda i ramy [czasowe,](payout-statement.md) Uzyskiwanie [płatności,](marketplace-get-paid.md)szczegóły [podatkowe,](tax-details-marketplace.md)zestawienia wypłat
+**Dalsze informacje:** [Komercyjna](/legal/marketplace/msft-publisher-agreement)umowa wydawcy platformy handlowej, [](payout-policy-details.md)szczegóły zasad wypłaty, [próg płatności,](payment-thresholds-methods-timeframes.md)metoda i ramy [czasowe,](payout-statement.md) [Uzyskiwanie](marketplace-get-paid.md)płatności, Szczegóły [podatku,](tax-details-marketplace.md)Zestawienia wypłat
 
 ## <a name="earnings-reconciliation"></a>Uzgadnianie zarobków
 
@@ -123,9 +119,9 @@ Waluta wypłaty zależy od waluty wybranej w profilu wypłat. Waluta zakupu to w
 
 #### <a name="how-do-i-reconcile-adjustments"></a>Jak mogę uzgodnić korekty?
 
-Korekty płatności mają na celu wyrównanie kwot płatności, na przykład w związku z problemami systemowymi. W wyciągu z wypłat przyczyna określa przyczynę korekty. Nie są one przeznaczone do uzgadniania bezpośrednio z poszczególnymi transakcjami.
+Korekty płatności mają na celu wyrównanie kwot płatności, na przykład w związku z problemami systemowymi. W zestawieniach wypłat przyczyna korekty określa przyczynę. Nie są one przeznaczone do uzgadniania bezpośrednio z poszczególnymi transakcjami.
 
-**Dalsze informacje:** [Komercyjna umowa wydawcy](https://go.microsoft.com/fwlink/p/?LinkID=699560)platformy handlowej, [szczegóły](payout-policy-details.md)zasad wypłaty, szczegóły [podatku,](tax-details-marketplace.md) [próg płatności, metoda i ramy czasowe](payment-thresholds-methods-timeframes.md)
+**Dalsze informacje:** [Komercyjna umowa wydawcy](/legal/marketplace/msft-publisher-agreement)platformy handlowej, [szczegóły](payout-policy-details.md)zasad wypłaty, szczegóły [podatku,](tax-details-marketplace.md) [próg płatności, metoda i ramy czasowe](payment-thresholds-methods-timeframes.md)
 
 ## <a name="taxes"></a>Podatki
 
@@ -144,7 +140,7 @@ Przejdź do [strony profilu](https://partner.microsoft.com/dashboard/payee/profi
 #### <a name="how-do-i-find-withholding-tax-for-a-transaction"></a>Jak mogę znaleźć podatek potrącony dla określonej transakcji?
 Podatkiem potrąconym objęci są wydawcy z USA, którzy złożyli formularz W-9. Podatek potrącony jest obliczany na podstawie płatności miesięcznych.
 
-**Dalsze informacje:** [Komercyjna umowa wydawcy platformy handlowej,](https://go.microsoft.com/fwlink/p/?LinkID=699560) [szczegóły zasad wypłat](payout-policy-details.md)
+**Dalsze informacje:** [Komercyjna umowa wydawcy platformy handlowej,](/legal/marketplace/msft-publisher-agreement) [szczegóły zasad wypłat](payout-policy-details.md)
 
 ## <a name="payout-statement-access"></a>Dostęp do zestawienia wypłat
 
@@ -181,13 +177,13 @@ Przejdź do strony **Wypłaty — Płatności** i zobacz sekcję **Lista płatno
 
 Przejdź do [strony profilu](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage), aby wyświetlić formularze dotyczące rozliczenia rocznego podatku.
 
-**Dalsze informacje:** [Zestawienia wypłat,](payout-statement.md) [Pobieranie historii transakcji](payout-statement.md#transaction-history-download)
+**Dalsze informacje:** [Zestawienia wypłat,](payout-statement.md) [pobieranie historii transakcji](payout-statement.md#transaction-history-download)
 
 ## <a name="historical-statements"></a>Instrukcje historyczne
 
 #### <a name="how-do-i-view-historical-information"></a>Jak mogę wyświetlić informacje historyczne?
 
-Zestawienie historyczne zawiera migawkę danych dotyczących wypłat od października 2019 r. Niestety, informacje o wypłatach nie są odświeżane. Aby uzyskać najnowsze informacje, prześlij bilet pomocy technicznej dla najnowszych danych.
+Zestawienie historyczne zawiera migawkę danych dotyczących wypłat od października 2019 r. Niestety, informacje o wypłatach nie są odświeżane. Aby uzyskać najnowsze informacje, prześlij bilet pomocy technicznej, aby uzyskać najnowsze dane.
 
 **Dalsze informacje:** [Zestawienia wypłat,](payout-statement.md) [Pobieranie historii transakcji](payout-statement.md#transaction-history-download)
 
@@ -208,7 +204,7 @@ Użyj [interfejsu API wypłat partnera.](https://apidocs.microsoft.com/services/
 - Gdy zarobki mają stan „nieprzetworzone”, możesz sprawdzić termin zapadalności, aby określić miesiąc, w którym zarobki zostaną przetworzone na potrzeby płatności. Po przygotowaniu płatności stan zarobków zmieni się na "przetworzone".  Firma Microsoft zwalnia płatności do 15. dnia miesiąca, w którym przypada termin zapadalności.
 - W przypadku zamówień zapłaconych za pomocą karty kredytowej firma Microsoft wstrzymuje płatności 30 dni do momentu dojrzewania zarobków.
 
- **Dalsze informacje:** [Komercyjna umowa](https://go.microsoft.com/fwlink/p/?LinkID=699560)wydawcy platformy handlowej, [szczegóły zasad](payout-policy-details.md)wypłaty, szczegóły [podatku,](tax-details-marketplace.md) [próg płatności, metoda i ramy czasowe](payment-thresholds-methods-timeframes.md)
+ **Dalsze informacje:** [Komercyjna umowa](/legal/marketplace/msft-publisher-agreement)wydawcy platformy handlowej, [szczegóły zasad](payout-policy-details.md)wypłaty, szczegóły [podatku,](tax-details-marketplace.md) [próg płatności, metoda i ramy czasowe](payment-thresholds-methods-timeframes.md)
 
 ## <a name="next-steps"></a>Następne kroki
 

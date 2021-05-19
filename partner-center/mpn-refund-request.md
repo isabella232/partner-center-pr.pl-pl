@@ -1,40 +1,37 @@
 ---
-title: Zwrot korzyści z MPN
+title: Zwrot kosztów korzyści z mpn
 ms.topic: article
 ms.date: 02/05/2021
-description: Dowiedz się, jak zażądać zwrotu pieniędzy na korzyść MPN i kryteria niezbędne do kwalifikowania się.
+description: Dowiedz się, jak zażądać zwrotu kosztów dla korzyści z programu MPN oraz poznać kryteria niezbędne do kwalifikowania się.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 39a925bbfccb720951a63f4e11207df4a3252200
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 919a0187d3d999e935667bdbd6d565fb093fe6dd
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132914"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151325"
 ---
-# <a name="request-a-refund-for-an-mpn-benefit"></a>Zażądaj zwrotu za korzyść MPN
+# <a name="request-a-refund-for-an-mpn-benefit"></a>Żądanie zwrotu pieniędzy za korzyść mpn
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator partnera MPN | Administrator konta
 
-- Administrator partnerski MPN
-- Administrator konta
+W tym artykule wymieniono kryteria, które należy spełnić w przypadku żądania zwrotu korzyści z mpn.
 
-W tym artykule przedstawiono kryteria, które należy spełnić, gdy zażądasz zwrotu za korzyść MPN.
-
-## <a name="criteria-for-a-refund"></a>Kryteria zwrotu
-Podczas żądania zwrotu pieniędzy dla korzyści MPN (Action Pack, poziomu Silver lub złota), żądanie musi być zgodne z następującymi kryteriami:
+## <a name="criteria-for-a-refund"></a>Kryteria zwrotu pieniędzy
+W przypadku żądania zwrotu pieniędzy za Action Pack MPN (na poziomie Silver lub Gold), które zostały zakupione, żądanie musi spełniać następujące kryteria:
 
 - Zakup został dokonany w ciągu ostatnich 30 dni
 - Nie można aktywować/używać wszystkich korzyści
-- Klucze produktów nie mogą być wyświetlane (nawet jeśli nie są aktywowane)
+- Nie można wyświetlać kluczy produktów (nawet jeśli nie są aktywowane)
 
-Zwroty podatków dla partnerów zwolnionych z opodatkowania są dostępne przez rok.
+Zwroty podatku dla partnerów, którzy są zwolnieni z podatku, są dostępne przez jeden rok.
 
 >[!NOTE]
->Jeśli masz ofertę na członkostwo w Silver i korzystasz z rabatu w wysokości 25% Gold do przeprowadzenia uaktualnienia do oferty uprawniającej do ubiegania się o członkostwo w wersji Gold, nie kwalifikujesz się do zwrotu z srebra (nawet jeśli zapłacisz za członkostwo Silver w ciągu 30 dni i nie wykorzystano korzyści).
+>Jeśli masz ofertę członkostwa w programie Silver i korzystasz z 25% rabatu na członkostwo w wersji Gold w celu uaktualnienia do oferty członkostwa Gold, nie kwalifikujesz się do zwrotu kosztów za platformę Silver (nawet jeśli zapłacisz za członkostwo w silver w ciągu 30 dni i nie korzystasz z korzyści).
 
 ## <a name="next-steps"></a>Następne kroki
 

@@ -9,32 +9,30 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8177222d2c39732ac36543e523f268313fb8c4e
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 3f5ef67372b0472212943d29dfcd4212f453a15e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109795061"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152464"
 ---
-# <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Tworzenie konta MPN w programie Partner Center celu zarządzania korzyściami i kompetencjami sieci
+# <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Tworzenie konta MPN w programie Partner Center do zarządzania korzyściami i kompetencjami sieci
 
-**Odpowiednie role**
+**Odpowiednie role:** administrator partnera MPN
 
-- Administrator partnera MPN
-
-Jeśli nie masz jeszcze Microsoft Partner Network (MPN) i nie masz identyfikatora MPN, możesz rozpocząć rejestrację, korzystając z instrukcji [dotyczących rejestracji.](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)
+Jeśli jesteś nowym użytkownik Microsoft Partner Network (MPN) i nie masz identyfikatora MPN, możesz rozpocząć rejestrację, korzystając z instrukcji [dotyczących rejestracji.](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)
 
 ## <a name="prerequisites"></a>Wymagania wstępne 
 
-Gdy wszystko będzie gotowe do utworzenia konta w Partner Center, musisz mieć pod ręką następujące elementy.  Zebranie tych elementów przed rozpoczęciem może potrwać kilka minut:
+Gdy wszystko będzie gotowe do utworzenia konta na Partner Center, musisz mieć do ręki następujące elementy.  Zebranie tych elementów przed rozpoczęciem może potrwać kilka minut:
 
-- Służbowa poczta e-mail LUB konto służbowe usługi Office 365. Firma może wymagać zakupu domeny poczty e-mail w celu skonfigurowania służbowych adresów e-mail dla pracowników. Aby uzyskać więcej informacji, [przeczytaj temat Konto służbowe i konto Partner Center](azure-active-directory-tenants-and-partner-center.md). 
+- Służbowy adres e-mail firmy LUB konto służbowe usługi Office 365. Firma może wymagać zakupu domeny poczty e-mail w celu skonfigurowania służbowych adresów e-mail dla pracowników. Aby uzyskać więcej informacji, [przeczytaj temat Konto służbowe Twojej firmy i Partner Center](azure-active-directory-tenants-and-partner-center.md). 
  
-- Prawne imię i nazwisko oraz adres firmy.
+- Prawna nazwa i adres firmy.
 
 - Uprawnienia do podpisywania umów prawnych. Upewnij się, że masz uprawnienia do podpisywania umów prawnych w imieniu firmy, ponieważ zostaniesz o to poproszony podczas procesu rejestracji.
 
-- Imię i nazwisko oraz firmowy adres e-mail osoby, która ma pełnić swoją podstawową imieniu. Aby zapewnić bezpieczeństwo i prywatność firmy, wysyłamy wiadomość e-mail do głównej osoby kontaktowej, aby zweryfikować adres e-mail i upewnić się, że adres e-mail należy do Twojej firmy. Gdy podstawowy kontakt zweryfikuje adres e-mail, będziemy kontynuować przeglądanie podanych informacji. Weryfikacja trwa zwykle od 3 do 5 dni roboczych. 
+- Nazwa i firmowa wiadomość e-mail osoby, która ma pełnić swoją podstawową imieniu. Aby zapewnić bezpieczeństwo i prywatność twojej firmy, wysyłamy wiadomość e-mail do głównej osoby kontaktowej, aby zweryfikować adres e-mail i upewnić się, że adres e-mail należy do Twojej firmy. Gdy podstawowy kontakt zweryfikuje adres e-mail, będziemy kontynuować przeglądanie podanych informacji. Weryfikacja trwa zwykle od 3 do 5 dni roboczych. 
 
 - Aby uzyskać informacje na temat procesu weryfikacji, zobacz [Weryfikacja konta](verification-responses.md).
 
@@ -43,9 +41,9 @@ Gdy wszystko będzie gotowe do utworzenia konta w Partner Center, musisz mieć p
 
 ## <a name="get-started"></a>Rozpoczęcie pracy
 
-1. Na stronie [**Wprowadzenie zacznij**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) od służbowego adresu e-mail podanego przez twoją firmę, na przykład you@yourcompanyname.com .
+1. Na stronie [**Wprowadzenie zacznij od**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) służbowego adresu e-mail podanego przez Twoją firmę, na przykład you@yourcompanyname.com .
 
-    a.  Adres e-mail musi być prawidłowy i dostępny, ponieważ w celu kontynuowania wyślemy na ten adres kod weryfikacyjny.
+    a.  Adres e-mail musi być prawidłowy i dostępny, ponieważ w celu kontynuowania wyślemy na nie kod weryfikacyjny.
 
     b.  Adres e-mail nie powinien zawierać takich słów jak "info", "admin", email@ "." Lub " marketing@.. ."; te formaty adresów nie są obsługiwane.
 
@@ -54,20 +52,20 @@ Gdy wszystko będzie gotowe do utworzenia konta w Partner Center, musisz mieć p
 2. Możesz zalogować się przy użyciu konta służbowego usługi Office 365, na przykład you@contoso.onmicrosoft.com .
 
    >[!NOTE]
-   > Do zarejestrowania się w programie MPN nie można użyć poświadczeń istniejącego konta CSP.
+   > Nie można użyć poświadczeń istniejącego konta CSP do zarejestrowania się w programie MPN.
 
 3. Podaj informacje prawne dotyczące firmy.
 
-    Możesz sprawdzić profil firmy lub wprowadzić informacje firmowe ręcznie. Jeśli Twoja firma jest zarejestrowana w [firmie Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)użyj identyfikatora DUNS, aby sprawdzić informacje o firmie. Jeśli chcesz samodzielnie podać szczegóły swojej firmy, wybierz pozycję **Ręcznie.**
+    Możesz sprawdzić profil firmy lub wprowadzić informacje firmowe ręcznie. Jeśli Twoja firma jest zarejestrowana w [firmie Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)użyj identyfikatora DUNS ID, aby sprawdzić informacje o firmie. Jeśli chcesz samodzielnie podać szczegóły swojej firmy, wybierz pozycję **Ręcznie.**
 
-    Jeśli Twoja firma znajduje się w **Stanach, Kolumbii,** **Kyrgyzstanie,** Naimnej, **Kolumbii** lub **Rosji,** a Twój adres zostanie podany ręcznie, zweryfikujemy Twój adres.  Jeśli ten, który wprowadzasz, różni się od zweryfikowanego adresu, zalecamy użycie zweryfikowanego adresu. Gwarantuje to, że elementy adresu są standaryzowane zgodnie z definicją w urzędzie pocztowym kraju, poprawnie sformatowane i wysyłane.  
+    Jeśli Twoja firma znajduje się w Stanach, **Kolumbii,** **Kyrgyzstanie,** Naimnej, Poniesiesz , Lub **Brazylia,** a Twój adres zostanie podany ręcznie, zweryfikujemy Twój adres.  Jeśli ten, który wprowadzasz, różni się od zweryfikowanego adresu, zalecamy użycie zweryfikowanego adresu. Dzięki temu elementy adresu są ustryzowane zgodnie z definicją w urzędzie pocztowym kraju, poprawnie sformatowane i wysłane.  
 
-    Po podano informacje o firmie, wprowadź podstawowe informacje kontaktowe. Główną osobą kontaktową powinna być osoba w twojej firmie, z którą możemy się skontaktować w związku z Twoją aplikacją (może to być Ty lub inna osoba w Twojej firmie).
+    Po podano informacje o firmie, wprowadź podstawowe informacje kontaktowe. Główną osobą kontaktową powinna być osoba w Firmie, z którą możemy się skontaktować w związku z Twoją aplikacją (może to być Osoba kontaktowa lub Inna osoba w Twojej firmie).
 
 4. Wybierz **pozycję Zarejestruj teraz.**
 
     >[!IMPORTANT]
-    >Aby zapewnić bezpieczeństwo i prywatność twojej firmy, wysyłamy wiadomość e-mail do głównej osoby kontaktowej, aby zweryfikować adres e-mail i upewnić się, że adres e-mail należy do Twojej firmy. Gdy podstawowy kontakt zweryfikuje adres e-mail, będziemy kontynuować przeglądanie podanych informacji. Weryfikacja trwa zwykle od 3 do 5 dni roboczych. 
+    >Aby zapewnić bezpieczeństwo i prywatność firmy, wysyłamy wiadomość e-mail do głównej osoby kontaktowej, aby zweryfikować adres e-mail i upewnić się, że adres e-mail należy do Twojej firmy. Gdy podstawowy kontakt zweryfikuje adres e-mail, będziemy kontynuować przeglądanie podanych informacji. Weryfikacja trwa zwykle od 3 do 5 dni roboczych. 
 
 ## <a name="registration-id-numbers-by-country"></a>Numery identyfikatorów rejestracji według kraju
 
@@ -83,8 +81,8 @@ W poniższej tabeli przedstawiono przykłady numerów rejestracyjnych zebranych 
 |**Brazylia** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) — (Cadastro Nacional da Pessoa Jurdica lub National Registry of Legal Entities). Jest to numer identyfikacyjny wystawiony dla firm w Brazylii przez Departament Federalnego Przychodu Brazylii  |
 | **Chiny** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) — numer identyfikacyjny podatku |
 | **Węgry**  | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) — numer identyfikacyjny podatku |
-| **Indie** | Identyfikator podatkowy<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) — (Obecność w Różnych Krajach) ZAANGAŻOWANIE INDIE oznacza, że istnieje jedna organizacja, która działa w kilku lokalizacjach w Indiach. |
-| **Irak** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — numer identyfikacji podatkowej |
+| **Indie** | Identyfikator podatkowy<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) — (obecność w Różnych Krajach) ZAANGAŻOWANIE INDIE OZNACZA, że istnieje jedna organizacja, która działa w kilku lokalizacjach w Indiach. |
+| **Irak** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — numer identyfikacyjny podatku |
 | **Kazachstan**  | BIN — numer identyfikacyjny banku<br>IIN — numer identyfikacyjny wystawcy |
 | **Kirgistan**  | NUMER IDENTYFIKACYJNY — numer identyfikacji podatkowej |
 | **Mołdawia**  | IDNO — unikatowy numer identyfikacyjny stanu przypisany do jednostki prawnej (znany również jako. Kod obrachunkowy).<br>IDNP — kod osobisty urodzenia ("Numarul de Identificare") |
@@ -98,17 +96,17 @@ W poniższej tabeli przedstawiono przykłady numerów rejestracyjnych zebranych 
 | **Tajlandia** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — numer identyfikacji podatkowej |
 | **Turcja** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) — numer identyfikacji podatkowej<br>Nin |
 | **Ukraina**  | EGRPOU<br>EDRPOU — identyfikator lokalny |
-| **Zjednoczone Emiraty Arabskie** | Identyfikator podatkowy<br>[Numer VAT](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) — znany również jako numer rejestracji vat. Jest to unikatowy numer identyfikujący osobę osobową (służbową) lub nieuprawnieniową osobę prawna zarejestrowaną do identyfikacji VAT. |
+| **Zjednoczone Emiraty Arabskie** | Identyfikator podatkowy<br>[Numer VAT](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) — znany również jako numer rejestracji VAT. Jest to unikatowy numer identyfikujący osobę prawna (biznesową) lub osobę niepowiązywistą zarejestrowaną na potrzeby podatku VAT. |
 | **Stany Zjednoczone** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) — numer identyfikacyjny pracodawcy |
-| **Uzbekistan**  | ZAKSZ — numer nip. |
-| **Wietnam** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — numer identyfikacyjny podatku |
-| **Wenezuela** | HH — numer podatkowy ("Registro de Identificakal Fiscal") |
+| **Uzbekistan**  | NUMER IDENTYFIKACYJNY — numer identyfikacji podatkowej |
+| **Wietnam** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — numer identyfikacji podatkowej |
+| **Wenezuela** | HH — jest numerem podatkowym ("Registro de Identificaty Fiscal") |
 
 
 
 ## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Jak wyświetlić szczegóły konta lub wyświetlić i pobrać umowę MPN
 
-Zaloguj się Partner Center przy użyciu poświadczeń MPN. Wybierz [**pozycję Profil partnera,**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) aby wyświetlić szczegóły prawne twojej firmy, stan weryfikacji, identyfikatory MPN, a także utworzyć nowe lokalizacje MPN, jeśli to konieczne. 
+Zaloguj się Partner Center przy użyciu poświadczeń MPN. Wybierz [**pozycję Profil partnera,**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) aby wyświetlić szczegóły prawne firmy, stan weryfikacji, identyfikatory MPN, a także w razie potrzeby utworzyć nowe lokalizacje MPN. 
 
 Możesz również wyświetlić inne ważne informacje, takie jak identyfikatory MPN, zarządzać lokalizacjami MPN i wyświetlać Microsoft Partner Agreement pomocą linków menu po lewej stronie, jak pokazano na poniższym zrzucie ekranu.
 
@@ -121,7 +119,7 @@ Możesz również wyświetlić inne ważne informacje, takie jak identyfikatory 
 
 -  [Kupowanie lub odnawianie subskrypcji programu Microsoft Action Pack](mpn-get-action-pack.md)
 
--  [Zarządzanie korzyściami członkostwa](manage-your-partner-network-benefits.md)
+-  [Zarządzanie korzyściami z członkostwa](manage-your-partner-network-benefits.md)
 
 -  [Dowiedz się więcej o wymaganiach dotyczących kompetencji w przypadku członkostwa w językach Gold i Silver](https://partner.microsoft.com/membership/competencies)
 

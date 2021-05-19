@@ -1,6 +1,6 @@
 ---
 title: Przygotowywanie potwierdzenia wykonania
-description: Zapoznaj się z ważnością potwierdzenia wykonania (PoE), osi czasu, wyświetlania stanu i wytycznych dotyczących dostarczania.
+description: Zrozumienie znaczenia weryfikacji wykonania,osi czasu, stanu wyświetlania i wytycznych dotyczących przesyłania.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
@@ -8,22 +8,20 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: d0e5dca008f73a13fb25e9322c492a053037e633
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: a81962de16b56329167338012cc66e160fffafe8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179449"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151886"
 ---
-# <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Twórz i przesyłaj dokumenty umożliwiające potwierdzenie wykonania (PoE)
+# <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Tworzenie i przesyłanie dokumentów dotyczących weryfikacji wykonania zachęt
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator zachęt
 
-- Administrator zachęt
+Przed uzyskaniem zapłaty za pracę z zachętami musisz przesłać szczegółową weryfikację wykonania. Ten artykuł przeprowadzi Cię przez proces tworzenia efektywnego potwierdzenia wykonania.
 
-Przed zapłaceniem za Twoje zachęty należy przesłać szczegółowe potwierdzenie wykonania (PoE). Ten artykuł przeprowadzi Cię przez proces tworzenia efektywnego potwierdzenia wykonania.
-
-## <a name="how-to-submit-a-poe"></a>Jak przesłać PoE
+## <a name="how-to-submit-a-poe"></a>Jak przesłać poe
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 
@@ -31,47 +29,47 @@ Przed zapłaceniem za Twoje zachęty należy przesłać szczegółowe potwierdze
 
 3. W sekcji **Plany** wybierz odpowiedni plan. Zostanie otwarta strona stanu dla tego planu.
 
-4. W sekcji **kampanie** Znajdź żądane działanie.
+4. W **sekcji Kampanie** znajdź działanie, którego potrzebujesz.
 
-5. W kolumnie **potwierdzenie wykonania** wybierz pozycję **Dodaj PoE**.
+5. W kolumnie **Proof of execution (Potwierdzenie wykonania)** wybierz **pozycję Add PoE (Dodaj weryfikację wykonania).**
 
-6. Na **stronie nowe potwierdzenie wykonania** wprowadź wymagane pola.
+6. Na stronie **Nowy dowód wykonania** wprowadź wymagane pola.
 
-   - **Nazwa**  Przyjazna nazwa dla żądania współpracy.
-   - **Data**  Data wykonania. Ta data musi przypadać między datą rozpoczęcia kampanii a datą końcową kampanii.
-   - **Kwota**  Kwota żądania współpracy.
+   - **Nazwa**  Przyjazna nazwa oświadczenia o współpracy.
+   - **Data**  Data wykonania. Ta data musi wypadać między datą rozpoczęcia kampanii a datą zakończenia kampanii.
+   - **Kwota**  Kwota roszczenia do współpracy.
 
 7. Wybierz pozycję **Zapisz**.
 
-8. Na stronie **Nowy dowód wykonania** wprowadź wymagane pola.
+8. Na stronie **Nowe potwierdzenie wykonania oświadczenia** wprowadź wymagane pola.
 
-   - **Nazwa**  Przyjazna nazwa dla żądania współpracy.
-   - **Data**  Data wykonania. Ta data musi przypadać między datą rozpoczęcia kampanii a datą końcową kampanii.
-   - **Szacowane wrażenia**   Szacowane osiągnięcie tego działania; Liczba osób.
-   - **Identyfikator przed zatwierdzeniem**   Jest to identyfikator, który firma Microsoft wysyła po zatwierdzeniu materiałów marketingowych.
+   - **Nazwa**  Przyjazna nazwa oświadczenia o współpracy.
+   - **Data**  Data wykonania. Ta data musi wypadać między datą rozpoczęcia kampanii a datą zakończenia kampanii.
+   - **Szacowane wrażenia**   Szacowany zasięg tego działania; liczba osób.
+   - **Identyfikator wstępnego zatwierdzenia**   Jest to identyfikator, który firma Microsoft wysyła po zatwierdzeniu twoich materiałów marketingowych.
 
 9. Po zakończeniu wybierz pozycję **Utwórz roszczenie**.
 
 10. Na **stronie informacji o fakturach i wydatkach** prześlij jeden z dwóch następujących dokumentów:
-    - **Faktura innej firmy**  W polu **Faktura innej firmy** wybierz pozycję **przeciągnij lub Przeglądaj pliki do przekazania**. Dodaj faktury i wymagane szczegóły faktury, a następnie wybierz pozycję **Zapisz**.
-    - **Raport usługi certyfikacji**  Wybierz pozycję **Dodaj raport usługi certyfikacji**. Na stronie **generowanie raportu usługi certyfikacji** Wypełnij wymagane pola, a następnie wybierz pozycję **Zapisz**.
+    - **Faktura innej firmy**  W polu **Faktura innej firmy** wybierz pozycję **Przeciągnij lub przeglądaj pliki, aby przekazać element**. Dodaj fakturę i wymagane szczegóły faktury, a następnie wybierz pozycję **Zapisz**.
+    - **Raport usługi certyfikacji**  Wybierz **pozycję Dodaj raport usługi certyfikacji.** Na stronie **Generowanie raportu usługi certyfikacji** wypełnij wymagane pola, a następnie wybierz pozycję **Zapisz.**
 
-11. Możesz również przekazać **dokumenty potwierdzające** , jeśli chcesz. W polu **dokumenty próbne** wybierz pozycję **przeciągnij lub Przeglądaj pliki do przekazania**. W przypadku wybrania opcji Sprawdź dokumenty należy dodać uwagi objaśniające. Po dodaniu uwagi wybierz pozycję **Zapisz**.
+11. Jeśli chcesz, możesz również **przekazać dokumenty** potwierdzające. W polu **Dokumenty weryfikacji** wybierz pozycję **Przeciągnij lub przeglądaj pliki, aby przekazać plik**. W przypadku wybrania opcji Dokumenty potwierdzające należy dodać uwagi objaśniające. Po dodaniu uwagi wybierz pozycję **Zapisz**.
 
-12. Wprowadź wszelkie końcowe Komentarze przed przesłaniem PoE, a następnie wybierz pozycję **Prześlij żądanie**.
+12. Wprowadź końcowe komentarze przed przesłaniem żądania, a następnie wybierz pozycję **Prześlij roszczenie.**
 
-## <a name="view-the-status-of-a-poe"></a>Wyświetlanie stanu elementu PoE
+## <a name="view-the-status-of-a-poe"></a>Wyświetlanie stanu zamówienia
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 
 2. Na stronie **Zachęty** wybierz pozycję **Zarządzanie planem**, a następnie wybierz odpowiedni program. Zostanie otwarta strona stanu.
 
-3. W sekcji **oświadczenia** stan każdego PoEu jest wymieniony w kolumnie **stan** .
+3. W **sekcji Oświadczenia** stan każdego zamówienia jest wymieniony w **kolumnie** Stan.
 
-   Poniżej przedstawiono różne możliwe stany związane z PoEem.
+   Poniżej przedstawiono różne możliwe stany roszczenia współpracy PoE.
 
    - Przesłane
-   - W obszarze przegląd (Firma Microsoft zakończy przegląd przed ostatnim dniem miesiąca po przesłaniu PoE).
+   - W trakcie przeglądu (firma Microsoft ukończy przegląd przed ostatnim dniem miesiąca po przesłaniu weryfikacji wykonania).
    - Wymagana akcja
    - Edytowanie
    - Approved (Zatwierdzono)

@@ -1,64 +1,60 @@
 ---
-title: Co należy zrobić, jeśli tylko administrator programu MPN opuścił firmę?
+title: Co zrobić, jeśli jedyny administrator programu MPN opuścił firmę?
 ms.topic: how-to
 ms.date: 09/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, co należy zrobić, aby znaleźć nowego administratora MPN lub uzyskać pomoc od administratora globalnego firmy. Dowiedz się również, jak dodać nowego administratora globalnego Centrum partnerskiego.
+description: Dowiedz się, co zrobić, aby znaleźć nowego administratora MPN lub uzyskać pomoc od administratora globalnego firmy. Dowiedz się również, jak dodać nową Partner Center globalnego.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3702ebd5a9421036a053a9a142a2f40d3e488137
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5efd157078acd72ca47418aaa9559a678fc5b129
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106442003"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151172"
 ---
-# <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>Co należy zrobić, jeśli tylko administrator programu MPN opuścił firmę?
+# <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>Co zrobić, jeśli jedyny administrator programu MPN opuścił firmę?
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator partnera MPN | Administrator konta | Administrator globalny
 
-- Administrator partnerski MPN
-- Administrator konta
-- Administrator globalny
+W poniższym artykule przedstawiono trzy typowe scenariusze dotyczące tego, co zrobić, jeśli administrator MPN opuścił firmę.
 
-W poniższym artykule przedstawiono trzy typowe scenariusze dotyczące tego, co należy zrobić, jeśli administrator MPN opuścił firmę.
+## <a name="scenario-1-mpn-partner-adminaccount-admin-has-left-the-company-but-there-are-still-global-admins-in-the-account"></a>Scenariusz 1. Administrator partnera MPN/administrator konta opuścił firmę, ale na koncie nadal znajdują się administratorzy globalni
 
-## <a name="scenario-1-mpn-partner-adminaccount-admin-has-left-the-company-but-there-are-still-global-admins-in-the-account"></a>Scenariusz 1: administrator partnera MPN/administrator konta opuścił firmę, ale nadal istnieją Administratorzy globalni w ramach konta
+W takim przypadku innej osobie w firmie można przypisać rolę administratora partnera MPN. Aby przypisać rolę określonego administratora partnera MPN/administratora konta:
 
-W takim przypadku inną osobą w firmie może być przypisana rola administratora partnera MPN. Aby przypisać rolę określonej roli administratora partnera MPN/administratora konta:
+1. Zaloguj się do Partner Center konta służbowego (na przykład tom@contoso.com ).
+1. Na stronie **Zarządzanie użytkownikami** filtruj według pozycji Administrator globalny, aby zobaczyć, kim są administratorzy globalni Twojej firmy. 
+1. Skontaktuj się z jednym z administratorów globalnych i poproś go o przypisanie Ci potrzebnej roli specyficznej dla programu MPN. 
 
-1. Zaloguj się do konta usługi Partner Center przy użyciu swojego konta służbowego (na przykład tom@contoso.com ).
-1. Na stronie **Zarządzanie użytkownikami** filtru na administratorze globalnym, aby zobaczyć, kto ma Administratorzy globalni firmy. 
-1. Skontaktuj się z jedną z administratorów globalnych i poproś o przypisanie Ci wymaganej roli MPN. 
+## <a name="scenario-2-mpn-partner-adminaccount-admin-has-left-the-company-and-there-are-no-global-admins-in-the-account"></a>Scenariusz 2. Administrator partnera MPN/administrator konta opuścił firmę i na koncie nie ma administratorów globalnych 
 
-## <a name="scenario-2-mpn-partner-adminaccount-admin-has-left-the-company-and-there-are-no-global-admins-in-the-account"></a>Scenariusz 2: administrator partnera MPN/administrator konta opuścił firmę, a na koncie nie ma administratorów globalnych 
+Jeśli do strony  Zarządzanie użytkownikami zostanie odfiltrowany filtr Administrator globalny, ale w Twojej firmie nie ma administratora globalnego, który może ci pomóc w zdobyciu roli specyficznej dla programu MPN, wykonaj następujące kroki:
 
-Jeśli przejdziesz do strony **zarządzania użytkownikami** i odfiltrusz administratora globalnego, ale okażesz, że w firmie nie ma administratora globalnego, który może pomóc Ci uzyskać rolę MPN, wykonaj następujące kroki:
+1. Przejdź do [portal.azure.com](https://ms.portal.azure.com/), zaloguj się przy użyciu konta służbowego (na przykład tom@contoso.com ). 
+1. Wybierz opcję **Pomoc i obsługa techniczna** na pasku nav menu po lewej stronie.
+1. Na następnej stronie wybierz pozycję Nowy  **Support request** typ problemu technicznego z menu rozwijanego, wstaw wszelkie dodatkowe szczegóły i kliknij pozycję **Dalej: Rozwiązania.**
 
-1. Przejdź do [Portal.Azure.com](https://ms.portal.azure.com/), zaloguj się przy użyciu konta służbowego (na przykład tom@contoso.com ). 
-1. Wybierz opcję **Pomoc i obsługa techniczna** na pasku nawigacyjnym po lewej stronie.
-1. Na następnej stronie wybierz pozycję **nowy support Request** i typ **problemu technicznego** w menu rozwijanym, Wstaw dodatkowe szczegóły i kliknij przycisk **Dalej: rozwiązania.**
+:::image type="content" source="images/accountsettings/adminfinder.png" alt-text="Zlokalizuj administratora w Azure Portal":::
 
-:::image type="content" source="images/accountsettings/adminfinder.png" alt-text="Znajdź administratora w Azure Portal":::
-
-4. Po przejrzeniu zalecanych rozwiązań na następnej stronie wybierz pozycję **Dalej: szczegóły** i Wypełnij wymagane pola.
-1. Przejrzyj i Utwórz żądanie pomocy technicznej.
+4. Po przejrzeniu zalecanych rozwiązań na następnej stronie wybierz pozycję **Dalej: Szczegóły** i wypełnij wymagane pola.
+1. Przejrzyj i utwórz wniosek o pomoc techniczną.
 
 
-## <a name="scenario-3-mpn-partner-adminaccount-adminglobal-admin-has-left-the-company-and-there-are-no-other-users-who-can-access-the-companys-azure-ad-this-is-a-complete-loss-of-access"></a>Scenariusz 3: administrator partnera MPN/administrator konta/Administrator globalny opuścił firmę i nie ma innych użytkowników, którzy mają dostęp do usługi Azure AD firmy. Jest to pełna utrata dostępu.
+## <a name="scenario-3-mpn-partner-adminaccount-adminglobal-admin-has-left-the-company-and-there-are-no-other-users-who-can-access-the-companys-azure-ad-this-is-a-complete-loss-of-access"></a>Scenariusz 3. Administrator partnera MPN/administrator konta/administrator globalny opuścił firmę i nie ma żadnych innych użytkowników, którzy mogą uzyskać dostęp do usługi Azure AD firmy. Jest to całkowita utrata dostępu.
 
-Postępuj zgodnie z procedurą [przejęcia przez administratora](/azure/active-directory/users-groups-roles/domains-admin-takeover#internal-admin-takeover) , aby przejąć niezarządzany katalog jako administrator Azure Active Directory.
+Wykonaj kroki [przejęcia przez administratora,](/azure/active-directory/users-groups-roles/domains-admin-takeover#internal-admin-takeover) aby przejąć katalog niezaiemadowany jako Azure Active Directory administratora.
 
-## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Nie masz pewności, czy Twoja firma ma już konto służbowe?
+## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Nie masz pewności, czy Firma ma już konto służbowe?
 
-Jeśli nie masz pewności, czy firma ma konto służbowe, wykonaj następujące kroki, aby je sprawdzić.
+Jeśli nie masz pewności, czy firma ma konto służbowe, wykonaj następujące kroki, aby to sprawdzić.
 
-1. Zaloguj się do [portalu administracyjnego platformy Azure](https://ms.portal.azure.com).
-2. Wybierz **Azure Active Directory** z menu po lewej stronie, a następnie wybierz pozycję **nazwy domen**.
-Jeśli masz już konto służbowe, nazwa domeny zostanie wyświetlona.
+1. Zaloguj się do portalu [administracyjnego platformy Azure.](https://ms.portal.azure.com)
+2. Wybierz **Azure Active Directory** z menu po lewej stronie, a następnie wybierz **pozycję Nazwy domen**.
+Jeśli masz już konto służbowe, nazwa domeny zostanie wymieniona.
 
 >[!Note]
->Jeśli masz aktywną subskrypcję do Microsoft Azure lub pakietu Office 365, masz już konto służbowe, a poświadczenia logowania powinny być takie same jak te, które są używane do uzyskiwania dostępu do tych usług.
+>Jeśli masz aktywną subskrypcję usługi Microsoft Azure lub Office 365, masz już konto służbowe, a poświadczenia logowania powinny być takie same jak te używane do uzyskiwania dostępu do tych usług.

@@ -1,82 +1,75 @@
 ---
-title: Dowiedz się więcej na temat programu "przejdź do rynku" z ofertami firmy Microsoft
+title: Dowiedz się więcej o wychodznym na rynek dzięki ofertom firmy Microsoft
 ms.topic: article
 ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Dowiedz się, w jaki sposób można skrócić czas wprowadzenia na rynek, generować potencjalnych klientów i rozwijać swoją firmę.
+description: Dowiedz się, jak oferta Go-To-Market z ofertami firmy Microsoft może przyspieszyć proces wdrażania na rynku, generowania potencjalnych klientów i rozwijania twojej firmy.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d4f06f1983ab4bf3b6f9f77d02e7ae94817feeab
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 1b22075c91d7a19c555223409ed9410522e010d2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475266"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152243"
 ---
-# <a name="explore-your-go-to-market-with-microsoft-offers"></a>Zapoznaj się z ofertami firmy Microsoft dotyczącymi przejścia na rynek
+# <a name="explore-your-go-to-market-with-microsoft-offers"></a>Eksplorowanie ofert firmy Microsoft na rynek
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Administrator partnera MPN
 
-- Administrator globalny
-- Administrator partnerski MPN
+Gdy zostaniesz członkiem Microsoft Partner Network, uzyskasz dostęp do korzyści związanych z członkostwem, które mogą pomóc w rozwoju firmy. Go-To-Market with Microsoft resources, offers, and programs are among the [many benefits](https://partner.microsoft.com/manage-your-partner-network-benefits) you receive as a Microsoft Partner Network member.
 
-Gdy jesteś członkiem Microsoft Partner Network, uzyskasz dostęp do korzyści z członkostwa, które mogą pomóc Ci w tworzeniu i rozwoju firmy. Przechodzenie między zasobami, ofertami i programami firmy Microsoft jest między [wieloma korzyściami](https://partner.microsoft.com/manage-your-partner-network-benefits) , które otrzymujesz jako członek Microsoft Partner Network.
-
-Oferty na wprowadzenie do rynku zapewniają dostęp do zasobów sprzedaży i marketingu wyłącznie na poziomie, które mogą ułatwić skrócenie czasu wprowadzania na rynek, generować potencjalnych klientów i rozwijać swoją firmę.
+Oferty go-to-market zapewniają dostęp do wyłącznych zasobów sprzedażowych i marketingowych, które mogą pomóc w skróceniu czasu wprowadzania na rynek, generowaniu potencjalnych klientów i rozszerzaniu działalności.
 
 >[!NOTE]
->Jeśli nie jesteś jeszcze członkiem Microsoft Partner Network, Dołącz do [witryny Microsoft Partner Network](https://partner.microsoft.com/membership).
+>Jeśli nie jesteś jeszcze członkiem grupy Microsoft Partner Network, dołącz do witryny [Microsoft Partner Network sieci Web.](https://partner.microsoft.com/membership)
 
-## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>Zasoby na rynku, oferty i programy dostępne na poziomie członkostwa
+## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>Zasoby, oferty i programy dostępne w programie Go-To-Market według poziomu członkostwa
 
-Oferty przechodzenia do rynku różnią się w zależności od konkretnego poziomu członkostwa w MPN, Twoich specjalizacji [i wszelkich](learn-about-competencies.md) posiadanych uprawnień.
+Oferty z programu Go-To-Market różnią się w zależności od konkretnego poziomu członkostwa w programie MPN, specjalizacji i wszelkich [osiąganych](learn-about-competencies.md) kompetencji.
 
-Wszyscy członkowie MPN mają dostęp do niektórych standardowych zasobów GTM. Obejmują one dostęp do gotowych do użycia zasobów marketingowych, platformy włączania sprzedaży i marketingu cyfrowego na żądanie. Dostępne są również jeszcze więcej ofert i programów do sprzedaży dla partnerów, którzy uzyskują kompetencje Silver lub Gold i/lub partnerzy niezależnego dostawcy oprogramowania z oferowaną współsprzedażą.
+Wszyscy członkowie programu MPN mają dostęp do niektórych standardowych zasobów GTM. Obejmują one dostęp do gotowych do użycia zasobów marketingowych, platformy do obsługi sprzedaży i marketingu cyfrowego na żądanie. Dostępnych jest również jeszcze więcej ofert i programów dla partnerów, którzy osiągają kompetencje Silver lub Gold i/lub partnerów ISV z ofertą gotową do sprzedaży.
 
 >[!NOTE]
->Zasoby na rynku, oferty i programy mogą być dodawane i zmieniane. Przejdź do strony Microsoft Partner Network [Przejdź na rynek](https://partner.microsoft.com/membership/go-to-market) , aby dowiedzieć się więcej o najnowszych zasobach na rynek i ofertach dostępnych dla partnerów, którzy uzyskują różne poziomy kompetencji i/lub partnerów niezależnych dostawców oprogramowania z oferowaną ofertą sprzedaży.
+>Zasoby, oferty i programy wprowadzone na rynek podlegają zmianom i dodatkom. Przejdź do strony Microsoft Partner Network [Go-To-Market](https://partner.microsoft.com/membership/go-to-market) (Przejdź na rynek), aby dowiedzieć się więcej o najnowszych zasobach na rynek i ofertach dostępnych dla partnerów, którzy osiągają różne poziomy kompetencji i/lub partnerów ISV z ofertą gotową do współpracy.
 
-Dodatkowe oferty typu "przejdź do rynku" są dostępne dla osób mających poziom kwalifikacji **Silver** i/lub partnerów niezależnego dostawcy oprogramowania z ofertą kwalifikującą się do zaoferowania:
+Dodatkowe oferty z programu Go-To-Market dostępne dla osób z poziomem kompetencji **Silver** i/lub partnerów ISV z kwalifikującą się ofertą zachęt do współpracy:
 
-- Wszystkie MPN standardowe zasoby dotyczące języka go-to-Market
-- Optymalizacja profilu biznesowego i Zarządzanie odwołaniami
-- Jak na rynku z firmą Microsoft
+- Wszystkie standardowe zasoby go-to-market mpn
+- Optymalizacja profilu biznesowego i zarządzanie odwołaniami
+- Jak reklamować z firmą Microsoft
 
-Dodatkowe oferty przechodzenia na rynek dostępne dla partnerów z poziomami kwalifikacji **Gold** i/lub partnerów niezależnego dostawcy oprogramowania mają ofertę kwalifikującą się do zaoferowania:
+Dodatkowe oferty z programu Go-To-Market dostępne dla partnerów z poziomami kompetencji **Gold** i/lub partnerów ISV z kwalifikującej się ofertą zachęt do współpracy:
 
-- Wszystkie MPN standardowe zasoby dotyczące języka go-to-Market
-- Wszystkie produkty do sprzedaży z Silver/ISV są gotowe do użycia w ofertach do wprowadzenia na rynek
-- Współmarkowy jeden-pager
-- Prezentacja z wspólną marką
-- Analiza przypadku ze wspólną marką
-- Naciśnij pozycję wydanie z ofertą Microsoft Executive
-- Współmarkowe marketingy społeczne
+- Wszystkie standardowe zasoby go-to-market mpn
+- Wszystkie gotowe oferty sprzedaży na rynek dla wszystkich usług Silver/ISV gotowych do współpracy
+- Przybornik go-to-market partnera 
 
-## <a name="view-go-to-market-membership-offers-in-partner-center"></a>Zapoznaj się z ofertami członkostwa na rynku w centrum partnerskim
+## <a name="view-go-to-market-membership-offers-in-partner-center"></a>Wyświetlanie ofert członkostwa w programie Go-To-Market w Partner Center
 
-Aby wyświetlić oferty przechodzenia do rynku:
+Aby wyświetlić oferty w celu wyekseruj:
 
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
+1. Zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard)
 
-2. Z menu po lewej stronie wybierz pozycję **MPN**. Następnie wykonaj jedną z następujących czynności:
+2. W menu po lewej stronie wybierz pozycję **MPN.** Następnie wykonaj jedną z następujących czynności:
 
-   - Wybierz pozycję **Omówienie**. Przewiń do sekcji **szybkie łącza** , a następnie wybierz kartę **Przechodzenie do rynku** .
+   - Wybierz pozycję **Omówienie**. Przewiń do **sekcji Szybkie linki,** a następnie wybierz kartę **Przejdź do rynku.**
 
      lub
 
-   - Wybierz **zalety** , a następnie pozycję **Przejdź do rynku**.
+   - Wybierz **pozycję Korzyści,** **a następnie pozycję Przejdź na rynek.**
 
-Zostanie wyświetlona lista ofert przechodzenia do rynku, które są już aktywne lub które są dostępne do aktywacji.
+Zostanie wyświetlona lista ofert w trybie Go-To-Market, które są już aktywne lub które są dostępne do aktywacji.
 
-## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>Zarządzanie ofertami "przejdź do rynku" w centrum partnerskim lub ich aktywowanie
+## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>Zarządzanie ofertami przejdź na rynek lub aktywowanie ich w Partner Center
 
-Aby uaktywnić oferty przechodzenia do rynku lub zarządzać nimi, zobacz [jak zarządzać ofertami przechodzenia do rynku](manage-your-partner-network-benefits.md#manage-go-to-market-offers). Część procesu aktywacji wymaga przypisania osoby marketingowej jako kontaktu w celu uzyskania monitu o wiadomości e-mail i komunikacji z ofertami przechodzenia na rynek.
+Aby aktywować oferty w trybie go-to-market lub zarządzać nimi, zobacz jak zarządzać ofertami w [trybie go-to-market.](manage-your-partner-network-benefits.md#manage-go-to-market-offers) Część procesu aktywacji wymaga przypisania osoby marketingowej jako osoby kontaktowej do otrzymywania kolejnej wiadomości e-mail i wiadomości dotyczących aktywowanych ofert w ramach programu Go-To-Market.
 
 >[!IMPORTANT]
->Musisz być administratorem globalnym lub MPN partnera, aby aktywować konkretne oferty przejdź do rynku i przypisać powiązaną osobę kontaktową Marketing. W razie potrzeby można stać się administratorem globalnym, postępując zgodnie z instrukcjami na [stronie **korzyści**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (wymagane jest zalogowanie się). Firma może mieć już administratora globalnego, aby skontaktować się z zespołem.
+>Musisz być administratorem globalnym lub administratorem partnera MPN, aby aktywować określone oferty dotyczące wyjść na rynek i przypisać powiązanego kontaktu marketingowego. W razie potrzeby możesz zostać administratorem globalnym, korzystając z instrukcji na stronie [ **Korzyści**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (wymagane jest zalogowanie się). Twoja firma może już mieć administratora globalnego, dlatego skontaktuj się z zespołem.
 
 ## <a name="next-steps"></a>Następne kroki
 
@@ -86,4 +79,4 @@ Aby uaktywnić oferty przechodzenia do rynku lub zarządzać nimi, zobacz [jak z
 
 - [Dowiedz się więcej na temat kompetencji](learn-about-competencies.md)
 
-- [Sprzedawanie z firmą Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)
+- [Sell with Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)

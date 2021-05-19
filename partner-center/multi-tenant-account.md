@@ -1,77 +1,74 @@
 ---
-title: Dodawanie dzierżawców do konta Centrum partnerskiego
+title: Dodawanie dzierżaw do konta Partner Center dzierżawy
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, jak dodawać i konsolidować wiele dzierżawców usługi Azure AD na koncie Centrum partnerskiego oraz zarządzać nimi, a także dowiedzieć się, dlaczego warto to zrobić.
+description: Dowiedz się, jak dodawać i konsolidować wiele dzierżaw usługi Azure AD Partner Center konta usługi Azure AD oraz jak nimi zarządzać, i dowiedz się, dlaczego warto to zrobić.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2f3094489f65b7164b4a55804047f9a4ab5f11cb
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: caea2002b5edc2958c0af316762408e309bcf14a
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124809"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151206"
 ---
-# <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Dodawanie wielu dzierżawców i zarządzanie nimi na koncie Centrum partnerskiego
+# <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Dodawanie wielu dzierżaw na koncie usługi Partner Center zarządzanie nimi
 
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Administrator konta
 
-- Administrator globalny
-- Administrator konta
+W tym artykule omówiono sposób konsolidowania wielu dzierżaw usługi Azure Active Directory (Azure AD) dla firmy, a następnie dodawania ich i zarządzania nimi na koncie Partner Center dzierżawy. Istnieje wiele powodów, aby to zrobić. Na przykład:
 
-W tym artykule omówiono sposób konsolidowania wielu dzierżaw Azure Active Directory (Azure AD) dla Twojej firmy, a następnie dodawania ich i zarządzania nimi na koncie Centrum partnerskiego. Istnieje wiele powodów, dla których należy to zrobić. Na przykład:
+- Załóżmy, że Twoja firma, Contoso, nabyła inną firmę, Fabrikam. Chcesz, aby obie firmy pozostały oddzielone, ale chcesz, aby nowi pracownicy mogli korzystać z Partner Center. W takim przypadku skojarzysz dzierżawę usługi Azure AD nowej firmy z kontem globalnym partnera (PGA). To skojarzenie umożliwia użytkownikom w obu firmach pracę w Partner Center.
 
-- Załóżmy, że firma Contoso uzyska kolejną firmę, firmę fabrikam. Chcesz, aby dwie firmy pozostały do oddzielenia, ale chcesz, aby nowi pracownicy mogli korzystać z Centrum partnerskiego. W takim przypadku należy skojarzyć dzierżawę usługi Azure AD nowej firmy z kontem globalnym partnera (PGA). To skojarzenie umożliwia użytkownikom w obu firmach działanie w centrum partnerskim.
+- Jeśli firma działa z więcej niż jedną dzierżawą (na przykład *contoso.com*, *contoso.uk* i *contoso.in*), można użyć wielodostępności, aby zgrupować je na tym samym koncie komputera.
 
-- Jeśli uruchamiasz swoją firmę z więcej niż jedną dzierżawą (na przykład *contoso.com*, *contoso.uk* i *contoso.in*), możesz użyć wielodostępności, aby ZGRUPOWAĆ je na tym samym koncie komputera.
+- Jeśli wytyczne dotyczące koncentracji i pozyskiwania wymagają współpracy z dzierżawami  obu firm, należy użyć zarówno constoso.com, *jak i fabrikam.com* dzierżawców.
 
-- Jeśli fuzje i wskazówki dotyczące pozyskiwania wymagają pracy z dzierżawcami obu firm, należy użyć zarówno dzierżaw *constoso.com* , jak i *fabrikam.com* .
-
-- Użytkownicy dowolnych dzierżawców muszą mieć możliwość:
-    * Centrum partnerskie dostępu do szkoleń, plików cyfrowych i skojarzeń Microsoft Certified Professional (MCP).
-    * Należy przypisać role Centrum partnerskiego, takie jak administrator Microsoft Partner Network (MPN) lub administrator zachęt.
+- Użytkownicy dowolnej dzierżawy muszą mieć możliwość:
+    * Dostęp Partner Center do szkoleń, pobierania cyfrowego lub skojarzenia Microsoft Certified Professional (MCP).
+    * Mieć przypisane Partner Center, takie jak Microsoft Partner Network (MPN) lub administrator zachęt.
 
 ## <a name="add-an-azure-ad-tenant-to-your-account"></a>Dodawanie dzierżawy usługi Azure AD do konta
 
-1. Zaloguj się jako Administrator globalny do [Centrum partnerskiego firmy Microsoft](https://partner.microsoft.com/dashboard).
+1. Zaloguj się jako administrator globalny w aplikacji [Microsoft Partner Center](https://partner.microsoft.com/dashboard).
 
-1. W prawym górnym rogu wybierz pozycję **Ustawienia**, wybierz pozycję **Ustawienia konta**, a następnie wybierz pozycję **dzierżawy**.
+1. W prawym górnym rogu wybierz pozycję **Ustawienia,** wybierz **pozycję Ustawienia konta,** a następnie wybierz **pozycję Dzierżawy.**
  
-   :::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="Zrzut ekranu przedstawiający przycisk Skojarz w okienku profil usługi Azure AD."::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="Zrzut ekranu przedstawiający przycisk Skojarz w okienku Profil usługi Azure AD."::: 
 
-1. Wybierz pozycję **Skojarz**, a następnie wskaż dzierżawcę, który chcesz skojarzyć.
+1. Wybierz **pozycję Skojarz,** a następnie wskaż dzierżawę, którą chcesz skojarzyć.
 
-1. W wierszu polecenia Zaloguj się jako Administrator globalny do dzierżawy, którą chcesz skojarzyć, a następnie wybierz pozycję **Potwierdź**. 
+1. Po wyświetleniu monitu zaloguj się jako administrator globalny do dzierżawy, którą chcesz skojarzyć, a następnie wybierz pozycję **Potwierdź.** 
 
-   :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Zrzut ekranu przedstawiający przycisk Potwierdź w okienku Potwierdź nowe skojarzenie usługi Azure AD."::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Zrzut ekranu przedstawiający przycisk Potwierdź w okienku Potwierdzanie nowego skojarzenia usługi Azure AD."::: 
 
-   Po potwierdzeniu skojarzenia zostanie wyświetlony komunikat **cała grupa** . Aby wyświetlić nowo dodaną dzierżawę, wybierz pozycję **Wróć do zarządzania dzierżawcą**. 
+   Po potwierdzeniu skojarzenia zostanie wyświetlony **komunikat Wszystkie** zestawy. Aby wyświetlić nowo dodaną dzierżawę, wybierz pozycję **Powrót do zarządzania dzierżawą.** 
  
 >[!NOTE]
->Nie można skojarzyć dzierżawy z kontem, jeśli jest ono już skojarzone z innym kontem Centrum partnerskiego.
+>Nie można skojarzyć dzierżawy z kontem, jeśli jest ona już skojarzona z innym Partner Center kontem.
 
 
 ## <a name="remove-a-tenant-from-your-account"></a>Usuwanie dzierżawy z konta
  
-1. Zaloguj się jako Administrator globalny do [Centrum partnerskiego firmy Microsoft](https://partner.microsoft.com/dashboard).
+1. Zaloguj się jako administrator globalny w aplikacji [Microsoft Partner Center](https://partner.microsoft.com/dashboard).
 
-1. W prawym górnym rogu wybierz ikonę **Ustawienia** , a następnie wybierz pozycję **Ustawienia konta**.
+1. W prawym górnym rogu wybierz **ikonę Ustawienia,** a następnie wybierz **pozycję Ustawienia konta.**
 
-1. W okienku po lewej stronie wybierz pozycję **dzierżawy**. W obszarze **Zarządzanie dzierżawami usługi Azure AD** wybierz kartę **partner** .
+1. W okienku po lewej stronie wybierz **pozycję Dzierżawy.** W **obszarze Zarządzanie dzierżawami usługi Azure AD** wybierz **kartę Partner.**
  
-1. Wybierz pozycję **Usuń** obok dzierżawy, której skojarzenie chcesz usunąć.
+1. Wybierz **pozycję Usuń** obok dzierżawy, której skojarzenie chcesz usunąć.
 
-   :::image type="content" source="images/disassociate.png" alt-text="Zrzut ekranu przedstawiający bieżące skojarzenia dzierżawców i ich linki do usunięcia.":::
+   :::image type="content" source="images/disassociate.png" alt-text="Zrzut ekranu przedstawiający bieżące skojarzenia dzierżawy i ich linki Usuń.":::
 
-   Jak pokazano na poprzednim zrzucie ekranu, łącza **Usuń** są włączone dla wszystkich skojarzonych dzierżawców, z wyjątkiem głównej dzierżawy i dzierżawy, do której użytkownik jest aktualnie zalogowany. 
+   Jak pokazano na poprzednim  zrzucie ekranu, linki Usuń są włączone dla wszystkich skojarzonych dzierżaw, z wyjątkiem dzierżawy podstawowej i dzierżawy, do których aktualnie się zalogowano. 
 
    > [!NOTE]   
-   > Po usunięciu dzierżawy użytkownicy tej dzierżawy nie mają już dostępu do konta Centrum partnerskiego, a usunięcie może mieć wpływ na swoje kompetencje. 
+   > Po usunięciu dzierżawy użytkownicy w tej dzierżawie nie mają już dostępu do konta usługi Partner Center, a usunięcie może mieć wpływ na Twoje kompetencje. 
 
 ## <a name="next-steps"></a>Następne kroki
 

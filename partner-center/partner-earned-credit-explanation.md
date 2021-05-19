@@ -1,88 +1,82 @@
 ---
-title: Kwota uzyskana przez partnera w przypadku usług zarządzanych
+title: Środków uzyskane przez partnerów dla usług zarządzanych
 ms.topic: article
 ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, w jaki sposób środki na korzystanie z usługi zarządzanej przez partnerów firmy Microsoft są obliczane i płatne oraz jak zapewnić, że masz odpowiednie uprawnienia.
+description: Dowiedz się, jak są obliczane i opłacane punkty uzyskane przez partnerów firmy Microsoft dla usług zarządzanych oraz jak upewnić się, że kwalifikujesz się.
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 022e7aabd0d850660f8236dce9a4fab9069af01b
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: ba422a2feae2affb9c2b60ad345c4d6bb0d525c7
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087131"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145868"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Jak są obliczane i wypłacane środki zarobione przez partnera
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent administracyjny | Administrator rozliczeń | Agent sprzedaży
 
-- Administrator globalny
-- Administrator zarządzania użytkownikami
-- Agent administracyjny
-- Administrator rozliczeń
-- Agent sprzedaży
+Uzyskane przez partnerów punkty dla usług zarządzanych (PEC) rozpoznaje i nagradza partnerów, którzy są właścicielami 24-godzinnej kontroli operacyjnej IT i zarządzania częściami lub całym środowiskiem platformy Azure swoich klientów. Domyślnie w programie CSP partnerzy mają przyznane niezbędne prawa dostępu do subskrypcji klienta, co umożliwia im wykonywanie 24 x 7 operacji zarządzania i kontrolowania zasobów w ramach subskrypcji. Inne sposoby, w jakie klienci mogą aprowizują dostęp dla partnerów transakcji, opisano w poniższej sekcji. Miesięczna kwota faktury jest wartością netto środków uzyskanego przez partnera. Partnerzy mogą zobaczyć szczegóły PEC w swoim miesięcznym pliku rekonescji. Aby uzyskać dodatkowe sposoby, w jakie klient może aprowizować dostęp dla partnera transakcji, zobacz Zarządzanie subskrypcjami i zasobami [w ramach planu platformy Azure.](azure-plan-manage.md)
 
-Środki na korzystanie z partnerów w przypadku usług zarządzanych (PEC) są rozpoznawane i nagradzane przez partnerów, którzy są właścicielami 24x7 kontroli działania IT i zarządzania częściami lub całym środowiskiem platformy Azure. Domyślnie w programie CSP partnerzy otrzymują niezbędne prawa dostępu do subskrypcji klienta, umożliwiając im wykonywanie przez 24 X 7 operacyjnych zarządzania i kontroli nad zasobami w ramach subskrypcji. Inne sposoby, w których klienci mogą inicjować dostęp do partnerów transakcyjnych, zostały opisane w poniższej sekcji. Miesięczna kwota faktury jest netto dla partnera, który uzyskał środki. Partnerzy mogą zobaczyć szczegóły dotyczące PEC w ich comiesięcznym pliku rekonesans. Aby uzyskać dodatkowe sposoby udostępniania dostępu dla partnera transakcji, przeczytaj artykuł [Zarządzanie subskrypcjami i zasobami w ramach planu platformy Azure](azure-plan-manage.md).
+Przeczytaj również [temat Przywróć uprawnienia administratora dla Azure CSP subskrypcji](revoke-reinstate-csp.md)
 
-Przeczytaj również temat [przywracanie uprawnień administratora dla subskrypcji CSP platformy Azure](revoke-reinstate-csp.md)
+## <a name="eligibility"></a>Kwalifikowalności
 
-## <a name="eligibility"></a>Kryteria
+W celu otrzymania środków zdobytych przez partnera obowiązują następujące wymagania: 
 
-Aby otrzymać środki na korzystanie z partnerów (PEC), mają zastosowanie następujące wymagania: 
+- Aby otrzymać uzyskane środki na zasoby platformy Azure, musisz mieć aktywną umowę MPN i prawidłową rolę kontroli dostępu opartej na rolach (RBAC).
 
-- Użytkownik musi mieć aktywną umowę MPN oraz ważną rolę kontroli dostępu opartej na rolach (RBAC), aby uzyskać dostęp do dochodów z zasobów platformy Azure, którymi zarządzasz.
+- Musisz mieć całodobową kontrolę operacyjną i zarządzanie zasobami platformy Azure klienta w programie CSP. Oznacza to, że musisz mieć uprawnienia administratora do subskrypcji platformy Azure klienta, grupy zasobów platformy Azure i zasobu platformy Azure. W przypadku dostawców pośrednich i ich pośrednich odsprzedawców dostawca pośredni będzie kwalifikować się do PEC, jeśli dostawca pośredni lub odsprzedawca pośredni albo obaj mają tę kontrolę operacyjną. Aby dowiedzieć się więcej na ten temat, zobacz [Przywróć uprawnienia](./revoke-reinstate-csp.md)administratora dla Azure CSP subskrypcji.
 
-- Musisz mieć 24x7ą kontrolę operacyjną i zarządzanie zasobami platformy Azure klienta w dostawcy usług kryptograficznych. Oznacza to, że użytkownik musi mieć uprawnienia administratora do subskrypcji platformy Azure klienta, grupy zasobów platformy Azure, zasobu platformy Azure. W przypadku dostawców pośrednich i ich pośrednich odsprzedawców Dostawca pośredni będzie uprawniony do PEC, jeśli dostawca pośredni lub pośredni odsprzedawca lub oba mają tę kontrolę operacyjną. Aby dowiedzieć się więcej na ten temat, zobacz [przywracanie uprawnień administratora dla subskrypcji CSP platformy Azure](./revoke-reinstate-csp.md).
+- Oprócz powyższych wymagań PEC ma zastosowanie tylko do usług wymienionych w cenniku użycia planu platformy Azure, który można wyeksportować ze strony [cennika planu platformy Azure.](https://partner.microsoft.com/commerce/sales)
 
-- Oprócz powyższych wymagań, PEC ma zastosowanie tylko do usług wymienionych w cenniku zużycia planu platformy Azure, które można eksportować ze strony [cennika planu platformy Azure](https://partner.microsoft.com/commerce/sales) .
-
-- PEC **nie** ma zastosowania do następujących usług:
+- PEC **nie ma zastosowania** do następujących usług:
     - Rezerwacje planu platformy Azure
-    - Produkty innych firm identyfikowane jako osoby trzecie w kolumnie znaczniki w cenie zużycia planu platformy Azure
-    - Produkty z cennika portalu Marketplace
-    - [Virtual Machines na platformie Azure](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
+    - Produkty innych firm zidentyfikowane jako produkty innych firm w kolumnie Tagi ceny za zużycie planu platformy Azure
+    - Produkty w cenniku witryny Marketplace
+    - [Azure Spot Virtual Machines](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
 
-- PEC jest uzyskiwany do poziomu zasobów platformy Azure. Jeśli masz prawidłowy dostęp na poziomie subskrypcji lub grupy zasobów, każdy zasób, który jest rzutowany do wyższej jednostki, będzie miał wartość PEC.
+- PEC jest zdobywany do poziomu zasobów platformy Azure. Jeśli masz prawidłowy dostęp na poziomie subskrypcji lub grupy zasobów, każdy zasób, który jest zbiorczy dla wyższej jednostki, będzie zdobywać PEC.
 
-- Szczegóły dotyczące komputera PEC są również dostępne na stronie [Azure Cost Management](/azure/cost-management-billing/costs/get-started-partners) .
+- Szczegółowe informacje na temat PEC są również dostępne na [stronie Usługi Azure Cost Management.](/azure/cost-management-billing/costs/get-started-partners)
 
 ### <a name="calculation"></a>Obliczenia
 
-Wartość PEC jest obliczana codziennie i można ją wyświetlić w pliku dziennego użycia i w pliku Rekonesans faktury miesięcznej. Partner (Dostawca pośredni lub pośredni odsprzedawca) musi mieć dostęp przez cały dzień (24x7), aby upewnić się, że uzyskują PEC. Wartość PEC jest obliczana codziennie na zarządzanych zasobach platformy Azure. Partnerzy utrzymujący trwały dostęp uprzywilejowany przez miesiąc (zakres dostępu) i dla wszystkich kwalifikujących się zasobów (zakres dostępu) uzyskują pełny stan PEC. Obniżka zakresów i zakresów spowoduje obniżenie stawki PEC przez miesiąc. Dzienny, oceniany plik użycia jest codziennie wyświetlany na podstawie zasobu platformy Azure, niezależnie od tego, czy jest on stosowany. Partnerzy mogą także rejestrować się w alertach, aby monitorować zmiany trwałego uprzywilejowanego dostępu.
+PEC jest obliczany codziennie i może być przeglądany w pliku dziennego użycia i pliku ponownego faktury miesięcznej. Partner (dostawca pośredni lub odsprzedawca pośredni) musi mieć dostęp przez cały dzień (24 godziny na dobę), aby mieć pewność, że zdobywa PEC. PEC jest obliczany codziennie na podstawie zarządzanych zasobów platformy Azure. Partnerzy zachowujący trwały dostęp uprzywilejowany przez miesiąc (zakres dostępu) i dla wszystkich kwalifikujących się zasobów (zakres dostępu) uzyskają pełny dostęp. Zmniejszenie zakresu i zakresu spowoduje obniżenie stawki PEC dla miesiąca. Plik dziennego użycia jest codziennie przedstawiany w ramach zasobu platformy Azure, niezależnie od tego, czy PEC jest stosowany. Partnerzy mogą również rejestrować się w alertach, aby monitorować zmiany w trwałym uprzywilejowanym dostępie.
 
 ## <a name="azure-cost-management"></a>Azure Cost Management
 
-Azure Cost Management (ACM) przy użyciu analizy kosztów umożliwia partnerom wyświetlanie kosztów, które otrzymały korzyść dla PEC.  
+Azure Cost Management (ACM) przy użyciu analizy kosztów umożliwia partnerowi wyświetlanie kosztów, które otrzymały korzyść z PEC.  
 
-1. W [Azure Portal](https://portal.azure.com)Zaloguj się do dzierżawy partnerskiej i wybierz pozycję **Cost Management + rozliczenia**.
+1. W [Azure Portal](https://portal.azure.com)zaloguj się do dzierżawy partnera i wybierz **pozycję Cost Management + Billing**.
 
-2. Wybierz pozycję **Zarządzanie kosztami**
+2. Wybierz **pozycję Zarządzanie kosztami**
 
-3. Wybierz **analizę kosztów**
+3. Wybierz **pozycję Analiza kosztów**
 
-   W widoku Analiza kosztów zostaną wyświetlone koszty związane z kontem rozliczeniowym dla wszystkich usług zakupionych i zużytych według cen uiszczanych przez firmę Microsoft.
+   W widoku Analiza kosztów będą wyświetlane koszty dla konta rozliczeniowego dla wszystkich usług zakupionych i zużytych po cenach, które płacisz firmie Microsoft.
 
-4. Wybierz pozycję **PartnerEarnedCreditApplied** na liście rozwijanej na wykresie przestawnym, aby zobaczyć koszty, do których zastosowano Pec. Gdy właściwość **PartnerEarnedCreditApplied** ma wartość true, skojarzony koszt ma korzyść dla partnera. 
+4. Wybierz **pozycję PartnerEarnedCreditApplied** na liście rozwijanej wykresu przestawnego, aby wyświetlić koszty, dla których zastosowano PEC. Gdy **właściwość PartnerEarnedCreditApplied** ma wartość True, skojarzony koszt ma korzyść z środków uzyskane przez partnera. 
 
-   Gdy właściwość PartnerEarnedCreditApplied ma wartość false, skojarzony koszt nie spełnia wymagań wymaganych do kredytowania lub zakupionej usługi nie kwalifikuje się do uzyskania kredytu za partnerów.
+   Gdy właściwość PartnerEarnedCreditApplied ma wartość False, skojarzony koszt nie spełnił wymaganych uprawnień do środków lub zakupiona usługa nie kwalifikuje się do środków uzyskane przez partnera.
 
    >[!NOTE] 
-   >Zazwyczaj użycie usług trwa 8-24 godzin w **Cost Management** , a kredyty dla PEC będą wyświetlane w ciągu 48 godzin od momentu uzyskania dostępu w Azure Cost Management.
+   >Zwykle użycie usług w ujmce Cost Management trwa 8–24 **godziny, a** środki PEC pojawią się w ciągu 48 godzin od czasu uzyskania dostępu w Azure Cost Management.
 
-5. Możesz również grupować według i filtrować według właściwości **PartnerEarnedCreditApplied** za pomocą polecenia **Grupuj według oraz dodać** funkcje filtru, aby przejść do szczegółów kosztów mających wartość PEC i koszty, które nie mają zastosowania Pec.
+5. Można również grupować według i filtrować według właściwości **PartnerEarnedCreditApplied** przy użyciu funkcji Grupuj według i Dodaj filtr, aby przejść do szczegółów kosztów, które mają PEC i kosztów, które nie mają zastosowania PEC. 
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Kredyt wypracowany przez partnera — przegląd](partner-earned-credit.md)
+- [Środków uzyskane przez partnerów — omówienie](partner-earned-credit.md)
 
-- Szczegółowe przykłady obliczeń środków uzyskanych przez partnera znajdują się na liście cenowej, którą można połączyć za pomocą pulpitu nawigacyjnego Centrum partnerskiego (wymagane jest zalogowanie się).
+- Szczegółowe przykłady obliczeń środków uzyskane przez partnerów znajdują się na cenniku, do który można uzyskać dostęp za pośrednictwem pulpitu Partner Center (wymagane jest zalogowanie).
 
-- [Przejdź do planu platformy Azure — wprowadzenie](azure-plan-get-started.md)
+- [Przejście do planu platformy Azure — wprowadzenie](azure-plan-get-started.md)
 
 - [Zarządzanie subskrypcjami i zasobami w ramach planu platformy Azure](azure-plan-manage.md)
 
-- [Odwołaj lub przywracaj uprawnienia administratora dla subskrypcji CSP platformy Azure](revoke-reinstate-csp.md)
+- [Odwoływanie lub przywróć uprawnienia administratora dla Azure CSP subskrypcji](revoke-reinstate-csp.md)

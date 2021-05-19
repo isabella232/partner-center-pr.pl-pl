@@ -4,77 +4,75 @@ ms.topic: overview
 ms.date: 12/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Korzystaj z Centrum partnerskiego, aby Transact Business z firmą Microsoft i klientami
+description: Use Partner Center to transact business with Microsoft and your customers (Korzystanie z Partner Center do transakcji biznesowych z firmą Microsoft i klientami)
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 992e02e2ae27e4cf03071e114de22f42f11f7601
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 7d476404bbfdb5814f325b7fdafd34d44780fb66
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132251"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151121"
 ---
 # <a name="what-is-partner-center"></a>Co to jest Centrum partnerskie?
 
-**Odpowiednie role**
+**Odpowiednie role:** Wszyscy partnerzy zainteresowani Partner Center
 
-- Wszyscy partnerzy zainteresowani Centrum partnerskiego
+[Partner Center](https://partner.microsoft.com/dashboard/home) usprawnia kilka procesów biznesowych, aby ułatwić partnerom firmy Microsoft zarządzanie relacjami z firmą Microsoft i ich klientami. Partner Center łatwy dostęp do narzędzi potrzebnych do pracy. Użyj Partner Center, aby:
 
-[Centrum partnerskie](https://partner.microsoft.com/dashboard/home) usprawnia kilka procesów biznesowych, aby ułatwić partnerom firmy Microsoft zarządzanie swoimi relacjami z firmą Microsoft i jej klientami. Centrum partnerskie umożliwia łatwe uzyskiwanie dostępu do narzędzi potrzebnych do wykonania pracy. Użyj Centrum partnerskiego, aby:
-
-- Zarządzanie konto Microsoftami i użytkownikami
-- Zaangażuj klientów
-- Kompiluj relacje z innymi partnerami
-- Rejestrowanie w programach zachęty
+- Zarządzanie swoimi konto Microsoft i użytkownikami
+- Angażowanie klientów
+- Tworzenie relacji z innymi partnerami
+- Rejestrowanie w programach zachęt
 - Zarządzanie członkostwem w Microsoft Partner Network
 - Zarządzanie subskrypcjami klientów
-- Rachunek i zapłacicie
+- Naliczanie rachunku i uzyskiwanie płatności
 - Kontakt z pomocą techniczną
-- Publikuj lub Eksploruj oferty w [komercyjnym portalu Microsoft Marketplace](/azure/marketplace), wykaz tysięcy usług i aplikacji transakcyjnych dostępnych dla klientów, skompilowanych i dostarczanych przez naszych partnerów niezależnych dostawców oprogramowania (ISV).
+- Publikowanie lub eksplorowanie ofert na platformie handlowej firmy [Microsoft](/azure/marketplace)— katalogu tysięcy dostępnych dla klientów usług i aplikacji, które są budowaną i dostarczaną przez naszych niezależnych partnerów w zakresie oprogramowania.
 
-:::image type="content" source="images/home.png" alt-text="Omówienie centrum partnerskiego":::
+:::image type="content" source="images/home.png" alt-text="Partner Center omówienie":::
 
 ## <a name="manage-your-account"></a>Zarządzanie kontem
 
-Bez względu na to, czy jesteś partnerem w programie dostawcy rozwiązań w chmurze, czy od partnera deweloperów, który sprzedaje Twoje aplikacje, możesz zarządzać swoim kontem Centrum partnerskiego z jednej lokalizacji ustawień konta: [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home)Centrum partnerskiego. Z tego miejsca można modyfikować informacje prawne, szczegóły podatkowe, dzierżawy, lokalizacje biznesowe, użytkowników i uprawnienia oraz określone programy, w których firma jest zarejestrowana.
+Niezależnie od tego, czy jesteś partnerem w programie Dostawca rozwiązań w chmurze, czy partnerem deweloperów sprzedajem Twoje aplikacje, możesz zarządzać kontem usługi Partner Center z jednej lokalizacji ustawień konta: pulpitu nawigacyjnego Partner Center [nawigacyjnego](https://partner.microsoft.com/dashboard/home). W tym miejscu można modyfikować informacje prawne, szczegóły podatkowe, dzierżawy, lokalizacje biznesowe, użytkowników i uprawnienia oraz określone programy, w których firma jest zarejestrowane.
 
-Elementy, które można wyświetlić w centrum partnerskim, są zależne od Twojej roli i uprawnień. Dowiedz się więcej w temacie [role i uprawnienia](permissions-overview.md).
+To, co można zobaczyć i zarządzać w Partner Center zależy od Twojej roli i uprawnień. Aby dowiedzieć się [więcej, zobacz Roles and permissions (Role i uprawnienia).](permissions-overview.md)
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Menu Ustawienia.":::
 
 ## <a name="membership-programs"></a>Programy członkostwa
 
-W centrum partnerskim możesz zakupić Action Pack firmy Microsoft, która udostępnia oprogramowanie i narzędzia firmy Microsoft do opracowania ekspertyzy, takie jak opracowywanie umiejętności w kierunku osiągania kompetencji i zdobywania zaawansowanych specjalizacji. Korzyści zawarte w tych programach ułatwiają tworzenie rozwiązań i przechodzenie do rynku. Przejrzyj je i zarządzaj nimi w centrum partnerskim. [Porównaj Microsoft Partner Network programów członkostwa](https://partner.microsoft.com/membership/compare-offers).
+W ramach Partner Center można kupić usługę Microsoft Action Pack, która udostępnia oprogramowanie i narzędzia firmy Microsoft do rozwijania wiedzy, na przykład rozwijanie umiejętności w zakresie zdobywania kompetencji i zdobywania zaawansowanych specjalizacji. Korzyści zawarte w tych programach pomagają tworzyć rozwiązania i wchodzić na rynek; przeglądać je i zarządzać nimi w Partner Center. [Porównaj Microsoft Partner Network członkostwa w programie](https://partner.microsoft.com/membership/compare-offers).
 
 ## <a name="connect-with-customers"></a>Nawiązywanie relacji z klientami
 
-Utwórz własny profil biznesowy, aby wyświetlić jego dziedziny wiedzy. Wyróżnij wiedzę techniczną i obszar rozwiązań, Zaprezentuj zakres i głębokość swoich umiejętności, a następnie potencjalny klient może prowadzić do nowych szans rynkowych. Dzięki centrum partnerskim partnerzy mają zwiększony dostęp do zasobów marketingowych, aby ułatwić im skrócenie czasu wprowadzania na rynek, generować potencjalnych klientów i rozwijać swoją działalność w chmurze. Komercyjny katalog produktów Marketplace, który obejmuje Microsoft AppSource i witrynę Azure Marketplace, umożliwia zaoferowanie informacji i środowiska zakupu w ramach produktu. Twoje rozwiązania znajdują się w naszych sklepach online obok naszych rozwiązań firmy Microsoft, łącząc Cię z firmami, organizacjami i agencjami rządowymi na całym świecie. Aby dowiedzieć się więcej na temat odwołań, przeczytaj artykuł [Zarządzanie różnymi liderami, takimi jak zapytania klientów, potencjalni klienci i potencjalni klienci](manage-leads.md). Aby dowiedzieć się więcej o profilu biznesowym, przeczytaj artykuł [Tworzenie profilu biznesowego](create-a-marketing-profile.md).
+Sbuduj swój profil biznesowy, aby wyświetlić obszary wiedzy firmy. Wyróżnij swoją wiedzę techniczną i wiedzę z zakresu rozwiązań, pokazuj zakres i zakres swoich umiejętności oraz liderów w nowych możliwościach na rynku. Dzięki Partner Center partnerzy zwiększyli dostęp do zasobów marketingowych, aby pomóc im przyspieszyć czas wprowadzania na rynek, generować potencjalnych klientów i rozwijać swoją firmę w chmurze. Katalog produktów platformy handlowej, który zawiera Microsoft AppSource i Azure Marketplace, umożliwia oferowanie informacji i obsługi zakupów w produktach. Twoje rozwiązania są wymienione w naszych sklepach online obok naszych własnych rozwiązań firmy Microsoft, łącząc Cię z firmami, organizacjami i agencjami rządowymi na całym świecie. Aby dowiedzieć się więcej o poleceniach, przeczytaj zarządzanie różnymi potencjalnymi klientami, na przykład zapytaniami klientów, potencjalnymi klientami zakwalifikowanym do działań marketingowych i potencjalnymi klientami [zakwalifikowanym do sprzedaży.](manage-leads.md) Aby dowiedzieć się więcej na temat profilu biznesowego, przeczytaj [tworzenie profilu biznesowego.](create-a-marketing-profile.md)
 
-## <a name="co-sell-with-microsoft-and-other-partners"></a>Współsprzedaż z firmą Microsoft i innymi partnerami
+## <a name="co-sell-with-microsoft-and-other-partners"></a>Wspólna sprzedaż z firmą Microsoft i innymi partnerami
 
-Współsprzedaż jest ścieżką dla partnerów, aby wspólnie sprzedawać z firmą Microsoft i innymi partnerami w celu współpracy, lepszej sprzedaży i pozytywnego rezultatu klientów. Opcja współsprzedaży umożliwia korzystanie z globalnej marki firmy Microsoft, zespołów sprzedaży, możliwości generacji popytu i komercyjnej witryny Marketplace w celu uzyskania nowych klientów na całym świecie. Sprzedaj zarówno z innymi partnerami, jak i z nami. Dowiedz się więcej na temat [zarządzania szansami do sprzedaży](manage-co-sell-opportunities.md).
+Wspólna sprzedaż to ścieżka dla partnerów do wspólnej sprzedaży z firmą Microsoft i innymi partnerami w celu współpracy, wspólnej sprzedaży i pozytywnych wyników klientów. Dzięki współpracy można korzystać z globalnej marki firmy Microsoft, zespołów sprzedaży, możliwości generowania popytu i platformy handlowej, aby dotrzeć do nowych klientów na całym świecie. Sprzedawaj zarówno u innych partnerów, jak i u nas. Aby dowiedzieć się [więcej, zobacz Manage co-sell opportunities (Zarządzanie możliwościami współpracy sprzedaży).](manage-co-sell-opportunities.md)
 
-## <a name="manage-customer-software-needs"></a>Zarządzanie wymaganiami dotyczącymi oprogramowania klienta
+## <a name="manage-customer-software-needs"></a>Zarządzanie potrzebami klienta w zakresie oprogramowania
 
-Jako zaufany partner odgrywasz kluczową rolę na wszystkich etapach cyklu życia klienta, niezależnie od tego, jak klienci zdecydują się na zakup oprogramowania i usług firmy Microsoft. Jeśli klient udzieli uprawnień administracyjnych, będzie można wdrożyć subskrypcje i zarządzać nimi, zachować wydajność, skonfigurować użytkowników, a nawet utworzyć dla nich bilety pomocy technicznej. Centrum partnerskie zapewnia szybki i łatwy dostęp do pomocy technicznej firmy Microsoft na żądanie, aby lepiej rozwiązać problemy i spełnić potrzeby klientów. Dowiedz się więcej o [ofercie obsługi klienta](customer-support.md).
+Jako zaufany partner odgrywasz kluczową rolę na wszystkich etapach cyklu życia klienta, niezależnie od tego, jak klienci zdecydują się na zakup oprogramowania i usług firmy Microsoft. Jeśli klient nada Ci uprawnienia administracyjne, będziesz w stanie wdrażać subskrypcje i zarządzać nimi, utrzymywać wydajność, tworzyć użytkowników, a nawet tworzyć dla nich bilety pomocy technicznej. Partner Center zapewnia szybki i łatwy dostęp do pomocy technicznej firmy Microsoft na żądanie, aby pomóc w lepszym rozwiązywaniu problemów i zaspokajania potrzeb klientów. Dowiedz się więcej na [temat oferowania pomocy technicznej dla klientów.](customer-support.md)
 
 ## <a name="maintain-a-secure-environment"></a>Obsługa bezpiecznego środowiska
 
-Mając Azure Active Directory jako główny element konta Centrum partnerskiego, upewnij się, że Twój zespół używa [uwierzytelniania wieloskładnikowego](partner-security-requirements-mandating-mfa.md) , aby zapewnić bezpieczeństwo danych. Bezpieczeństwo i zabezpieczenia prywatności znajdują się wśród naszych najważniejszych priorytetów.
+Mając Azure Active Directory głównym elementem konta Partner Center, upewnij się, że Twój zespół korzysta z uwierzytelniania wieloskładnikowego, [aby](partner-security-requirements-mandating-mfa.md) zapewnić bezpieczeństwo danych. Zabezpieczenia i zabezpieczenia prywatności należą do naszych głównych priorytetów.
 
 ## <a name="data-and-analytics"></a>Dane i analiza
 
-Dostęp do kilku różnych typów raportów danych z pulpitu nawigacyjnego Centrum partnerskiego:
+Uzyskaj dostęp do kilku różnych typów raportów danych z pulpitu Partner Center nawigacyjnego:
 
-- Wskaźniki udziałów partnerów (PCI) pokazują wpływ na partnerów w oparciu o siedem kluczowych miar sukcesu klientów
-- Raporty danych z usługi partner Insights pozwalają określić, gdzie sprzedaż jest wysoka, pomóc Ci w ustaleniu, którzy klienci wdrażali swoje subskrypcje lub potrzebują pomocy technicznej, a także pokazać, jak dobrze sprzedajesz produkty.
+- Wskaźniki wkładu partnerów (PCI) pokazują wpływ partnera na siedem kluczowych miar sukcesu klientów
+- Raporty danych usługi Partner Insights identyfikują wysoką sprzedaż, pomagają dowiedzieć się, którzy klienci wdrożyli swoje subskrypcje lub potrzebują pomocy technicznej, oraz pokazują, jak dobrze twoje produkty się sprzedaje.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Określanie, gdzie są używane licencje":::
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Określanie, gdzie znajdują się twoje licencje":::
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Dołącz do Microsoft Partner Network i Utwórz konto Centrum partnerskiego](mpn-create-a-partner-center-account.md)
-- [Utwórz swój profil biznesowy](create-a-marketing-profile.md)
-- [Eksplorowanie rejestracji w programie CSP](csp-overview.md)
-- [Dowiedz się więcej o komercyjnej witrynie Marketplace](csp-commercial-marketplace-overview.md)
+- [Dołącz do Microsoft Partner Network i utwórz Partner Center konto](mpn-create-a-partner-center-account.md)
+- [Tworzenie profilu biznesowego](create-a-marketing-profile.md)
+- [Eksplorowanie rejestrowania w programie CSP](csp-overview.md)
+- [Dowiedz się więcej o platformie handlowej](csp-commercial-marketplace-overview.md)

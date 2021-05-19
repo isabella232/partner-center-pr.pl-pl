@@ -1,6 +1,6 @@
 ---
 title: Zachęty — problemy ze skojarzeniami klientów
-description: Dowiedz się, jak rozwiązywać problemy, które można napotkać podczas pracy z żądanymi skojarzeniami klientów z systemem CPOR.
+description: Dowiedz się, jak rozwiązać problemy, które są związane z pracą ze skojarzeniami klientów CPOR (Claimed Partner of Record).
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -8,86 +8,82 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 30639725c0a852046251e83c3791f56d788931c1
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8f1c087911e6dd7e58182c99e2b97b7a6b2246d8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179217"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152175"
 ---
-# <a name="issues-with-claimed-partner-of-record-cpor-customer-associations"></a>Problemy z zażądanymi powiązaniami partnera rekordów (CPOR)
+# <a name="issues-with-claimed-partner-of-record-cpor-customer-associations"></a>Problemy ze skojarzeniami klientów WCPOR (Claimed Partner of Record)
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator rozliczeń | Administrator globalny | Administrator zachęt
 
-- Administrator rozliczeń
-- Administrator globalny
-- Administrator zachęt
-
-Poniższa zawartość pomoże rozwiązać problemy, które można napotkać podczas pracy z skojarzeniami klientów.
+Zawartość poniżej pomoże Ci rozwiązać problemy, które mogą się dzieje podczas pracy ze skojarzeniami klientów.
 
 ## <a name="domain-tenant-mismatch"></a>Niezgodność dzierżawy domeny
 
-W przepływie wiązania powiązania partnera rekordu (CPOR), zostanie wyświetlony monit o podanie identyfikatora dzierżawy klienta i poddomeny. Jeśli zostanie wyświetlony komunikat o błędzie informujący, że nie są zgodne, skontaktuj się z klientem, aby upewnić się, że masz odpowiednie szczegóły.
+W przepływie oświadczenia skojarzenia Odpowiedzialności partnera (CPOR) zostanie poproszony o podanie identyfikatora dzierżawy klienta i poddomeny. Jeśli zostanie wyświetlony komunikat o błędzie z informacją, że nie są one zgodne, skontaktuj się z klientem, aby upewnić się, że masz poprawne szczegóły.
 
-## <a name="subscription-errors-in-the-cpor-association-claim-flow"></a>Błędy subskrypcji w przepływie powiązań powiązania CPOR
+## <a name="subscription-errors-in-the-cpor-association-claim-flow"></a>Błędy subskrypcji w przepływie skojarzenia CPOR
 
-W przepływie CPOR powiązań skojarzenia może zostać wyświetlony monit o podanie subskrypcji dla produktu, który próbujesz zgłosić za pośrednictwem Business Applications (Dynamics 365). Prosimy o subskrypcję, ponieważ firma Microsoft zaleca dynamiczne sprawdzanie, czy produkt i subskrypcja należy do dzierżawy, dla której ma zostać przejęte żądanie. Sprawdzamy również, czy subskrypcja jest w stanie aktywnym/z stanem prolongaty.
+W przepływie roszczenia skojarzenia CPOR może zostać poproszony o podanie subskrypcji produktu, który próbujesz uzyskać za pośrednictwem usługi Business Applications (Dynamics 365). Pytamy o subskrypcję, ponieważ dynamicznie sprawdzamy, czy produkt i subskrypcja należą do dzierżawy, której się żąda. Sprawdzamy również, czy subskrypcja jest aktywna/w stanie prolongaty.
 
-Jeśli wystąpi błąd, może się to zdarzyć z kilku powodów:
+Jeśli wystąpi błąd, może to być z kilku powodów:
 
 - Wybrany produkt nie istnieje w dzierżawie klienta
 - Podana subskrypcja nie jest dla usługi Dynamics
 - Podana subskrypcja dotyczy dostawcy CSP
-- Klient nie został jeszcze aktywowany/nie zainicjowano obsługi administracyjnej produktów dla tej subskrypcji
+- Klient nie aktywował jeszcze/nie aprowizował produktów dla tej subskrypcji
 - Subskrypcja została już przejęta
-- Podany identyfikator nie jest IDENTYFIKATORem subskrypcji
+- Podany identyfikator nie jest identyfikatorem subskrypcji
 
-Jeśli masz pytanie dotyczące dokładności subskrypcji, skontaktuj się z klientem, aby upewnić się, że subskrypcja jest poprawna i czy używasz prawidłowego identyfikatora dzierżawy.
+Jeśli masz pytanie dotyczące dokładności subskrypcji, we współpracy z klientem upewnij się, że subskrypcja jest poprawna i że używasz poprawnego identyfikatora dzierżawy.
 
-Jeśli ta trasa nie rozwiązała problemu, skontaktuj się z [pomocą techniczną](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Jeśli ta trasa nie rozwiązała problemu, skontaktuj się z pomocą [techniczną](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
-## <a name="when-subscriptions-will-be-available-to-claim"></a>Gdy subskrypcje będą dostępne dla roszczeń
+## <a name="when-subscriptions-will-be-available-to-claim"></a>Kiedy będą dostępne subskrypcje do żądania
 
-Po odebraniu subskrypcji zostanie wyświetlony komunikat o błędzie, jeśli subskrypcja nie została jeszcze zainicjowana. Istnieje kilka kroków, które klient musi podjąć, aby uzyskać dostęp do tej subskrypcji dla platformy CPOR i udostępnić ją do roszczeń. Jeśli wystąpi błąd podczas próby zgłoszenia subskrypcji, skontaktuj się z klientem, aby upewnić się, że został on zainicjowany, a poprawność subskrypcji jest prawidłowa. Jeśli ta trasa została już wykonana, skontaktuj się z [pomocą techniczną](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+W przypadku żądania subskrypcji wystąpi błąd, jeśli subskrypcja nie została jeszcze aprowizowana. Istnieje kilka kroków, które klient musi wykonać, aby subskrypcja stała się dostępna dla platformy CPOR, aby ją przejąć i udostępnić do żądania. Jeśli podczas próby uzyskania subskrypcji występuje błąd, skontaktuj się z klientem, aby upewnić się, że została ona aprowizowana i że przejmowana subskrypcja jest poprawna. Jeśli ta trasa została już przekierowyna, skontaktuj się z [pomocą techniczną](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
-## <a name="which-activity-do-i-choose"></a>Jakie działania wybieramy?
+## <a name="which-activity-do-i-choose"></a>Które działanie wybrać?
 
-Platforma CPORing platform umożliwia korzystanie z oświadczeń skojarzenia CPOR powiązanych z obszarami rozwiązań Business Applications i Microsoft 365. Poniżej przedstawiono działania, które mają zastosowanie do każdego obszaru rozwiązania. Wybierz odpowiednie działanie na podstawie opisów, aby uniknąć konieczności ponownego zgłoszenia w przyszłości. Pozyskanie z nieprawidłowym działaniem może spowodować nieodebrane zyski i zysk zachęty.
+Platforma oświadczeń CPOR umożliwia oświadczenia skojarzenia CPOR związane Business Applications i Microsoft 365 rozwiązania. Poniżej przedstawiono działania, które mają zastosowanie do każdego obszaru rozwiązania. Wybierz odpowiednie działanie na podstawie opisów, aby uniknąć konieczności odzyskiwania w przyszłości. Oświadczenie o nieprawidłowym działaniu może spowodować nieuprawnnianie uprawnień i zarobki zachęt.
 
 
 | Obszar rozwiązania | Działanie | Dotyczy |
 | ------ | ----------- | ----------- |
-| Aplikacje biznesowe      | Przedsprzedażna   | Wybierz, czy ma wpływ na zakup kwalifikującego się produktu i czy ma zostać zastosowany do bodźci przedsprzedaży. Ta opcja ma zastosowanie tylko wtedy, gdy klient kupił te produkty za pośrednictwem umowy licencjonowania zbiorowego lub sieci Web. |
-|    |  Użycie  | Wybierz, jeśli chcesz, aby system został rozłożenie i użycie kwalifikującego się obciążenia, i chcesz zastosować do bodźci dotyczącej użycia. Ta opcja ma zastosowanie tylko wtedy, gdy klient kupił te produkty za pośrednictwem umowy licencjonowania zbiorowego lub sieci Web. |
-|    | Skojarzenie przychodu   | Wybierz, czy ma wpływ na wybór kwalifikującego się produktu jako osoba mająca wpływ na działalność biznesową. Ta opcja dotyczy tylko skojarzenia przychodu, a nie do zapłacenia zachęty. Ta opcja ma zastosowanie tylko wtedy, gdy klient kupił te produkty za pośrednictwem umowy licencjonowania zbiorowego lub sieci Web.   |
-| Microsoft 365   | Użycie   | Wybierz, jeśli chcesz, aby system został rozłożenie i użycie kwalifikującego się obciążenia, i chcesz zastosować do bodźci dotyczącej użycia. |
+| Aplikacje biznesowe      | Przedsprzedaż   | Wybierz pozycję , jeśli wpłynęło to na zakup kwalifikującego się produktu i chcesz złożyć wniosek o zachęty przedsprzedażowe. Ta opcja ma zastosowanie tylko w przypadku, gdy klient zakupił te produkty w ramach umowy licencjonowania zbiorowego lub usługi Web-Direct. |
+|    |  Użycie  | Wybierz, czy chcesz zachęcić cię do wdrożenia i użycia kwalifikującego się obciążenia i chcesz zastosować zachęty dotyczące użycia. Ta opcja ma zastosowanie tylko w przypadku, gdy klient zakupił te produkty w ramach umowy licencjonowania zbiorowego lub usługi Web-Direct. |
+|    | Skojarzenie przychodów   | Wybierz, czy wpłynęło to na wybór kwalifikującego się produktu jako osoby wywłaszczacej działalność biznesową. Ta opcja dotyczy tylko skojarzenia przychodów, a nie płatności zachęt. Ta opcja ma zastosowanie tylko w przypadku, gdy klient zakupił te produkty w ramach umowy licencjonowania zbiorowego lub usługi Web-Direct.   |
+| Microsoft 365   | Użycie   | Wybierz, czy chcesz uzyskać zachęty dotyczące użycia i wdrożenia kwalifikujących się obciążeń. |
 
-## <a name="which-mpn-do-i-choose"></a>Które MPN mam wybrać?
+## <a name="which-mpn-do-i-choose"></a>Który mpn wybrać?
 
-W przepływie CPOR powiązań skojarzenia zostanie wyświetlony monit o wybranie firmy MPN, która powinna zostać skojarzona z podaną przez Ciebie klientem. Firma może mieć wiele usługi MPNS, z których część może zostać zarejestrowana w programach zachęty i innych skojarzonych z typem partnera, takim jak FRP FastTrack. Przepływ CPOR powiązań skojarzenia będzie identyfikować, które usługi MPNS są zarejestrowane w programie zachęty, ale nie powiedzie się, jeśli jest to konkretny typ partnera MPN. Ważne jest, aby wybrać poprawną MPN, aby uniknąć konieczności ponownego zgłoszenia w przyszłości. Pozyskanie z nieprawidłowym MPN może spowodować nieodebrane zyski i zysk zachęty.
+W przepływie roszczenia skojarzenia CPOR zostanie poproszony o wybranie firmowego mpn, który powinien być skojarzony z pracą, w przypadku których klient końcowy ma pracować. Firma może mieć wiele sieci MPN, z których część może być zarejestrowanych w programach zachęt, a inne skojarzone z typem partnera, takim jak FRP FastTrack. Przepływ roszczenia skojarzenia CPOR określi, które sieci MPN są zarejestrowane w programie zachęt, ale nie określi, czy jest to określony typ partnera MPN. Ważne jest, aby wybrać prawidłowy program MPN, aby uniknąć konieczności odzyskiwania w przyszłości. Roszczenie za pomocą nieprawidłowego mpn może spowodować nieuprawnną kwalifikowalność i zarobki zachęt.
 
-Jeśli nie wiesz, których MPN użyć, skontaktuj się z administratorem globalnym.
+Jeśli nie wiesz, którego programu MPN użyć, skontaktuj się z administratorem globalnym.
 
-Jeśli MPN, którego chcesz użyć, nie jest zarejestrowana, możesz nim zarządzać na [karcie Przegląd zachęt](https://partner.microsoft.com/dashboard/incentives/enrollment/summary) (wymagane jest zalogowanie się).
+Jeśli program MPN, którego chcesz użyć, nie jest zarejestrowany, możesz zarządzać tym na karcie [Przegląd](https://partner.microsoft.com/dashboard/incentives/enrollment/summary) zachęt (wymagane jest zalogowanie).
 
-## <a name="choosing-a-product-vs-entering-a-subscription"></a>Wybieranie produktu a wprowadzenie do subskrypcji
+## <a name="choosing-a-product-vs-entering-a-subscription"></a>Wybieranie produktu a wprowadzanie subskrypcji
 
-Gdy produkt Dynamics zostanie przejęty i zatwierdzony, partner może wyświetlić identyfikator subskrypcji w samym roszczeniu skojarzenia CPOR. Gdy ta subskrypcja jest przejęta, jest ona aktywna lub w stanie prolongaty, ale może istnieć czas na zakończenie subskrypcji, a w oddzielnym wystąpieniu skojarzenia CPOR muszą zostać przejęte nowe subskrypcje.
+Po zatwierdzeniu i zatwierdzeniu produktu Dynamics partner może wyświetlić identyfikator subskrypcji w samym oświadczeniem skojarzenia CPOR. Gdy ta subskrypcja jest przejmowana, jest w stanie aktywnym lub w stanie prolongaty, ale może wystąpić czas, gdy subskrypcja zakończy się, a nowe subskrypcje muszą zostać przejmowane w oddzielnym skojarzeniach CPOR.
 
-## <a name="competing-claims"></a>Oświadczenia konkurujące
+## <a name="competing-claims"></a>Konkurujące roszczenia
 
-Jeśli tworzysz CPOR skojarzenie skojarzenia dla klienta i ich produktów, które są już skojarzone z innym partnerem, Twoje zgłoszenie przejdzie przez proces rozstrzygania:
+Jeśli tworzysz roszczenie dotyczące skojarzenia CPOR dla klienta i jego produktów, które są już skojarzone z innym partnerem, Twoje roszczenie zostanie rozsądzone:
 
 1. Po utworzeniu nowego skojarzenia klienta firma Microsoft sprawdzi szczegóły skojarzenia i przesłanej weryfikacji wykonania, aby zapewnić jego dokładność.
 
-2. Jeśli ty i inny partner zawiążą ten sam Klient i produkt/obciążenie, firma Microsoft zapoznaje się z dokumentacją dotyczącą wykonywania każdego partnera, aby określić, który partner ma zatwierdzić.
+2. Jeśli Ty i inny partner żądacie tego samego klienta i produktu/obciążenia, firma Microsoft przejmie dokumentację weryfikacji wykonania każdego partnera, aby określić, którego partnera należy zatwierdzić.
 
-3. Mogą być wymagane dodatkowe informacje od obu partnerów, co może powodować opóźnienia w przetwarzaniu żądania skojarzenia.
+3. Obaj partnerzy mogą zażądać dodatkowych informacji, co może spowodować opóźnienia w przetwarzaniu żądania skojarzenia.
 
-4. Twoje powiązanie skojarzenia CPOR będzie nadal weryfikowane w ciągu pięciu dni roboczych, mimo że jego stan może pozostać w _ramach przeglądu_ przez dłuższy czas. Ten scenariusz może wystąpić, gdy firma Microsoft współpracuje z partnerem, który aktualnie jest właścicielem produktu/obciążenia. W takim przypadku użytkownik zostanie powiadomiony w sekcji komentarzy Twojego żądania. 
+4. Twoje roszczenie dotyczące skojarzenia CPOR będzie nadal przeglądane  w ciągu pięciu dni roboczych, chociaż jego stan może pozostać w obszarze Przeglądu przez dłuższy czas. Ten scenariusz może wystąpić, gdy firma Microsoft współpracuje z partnerem, który jest obecnie właścicielem produktu/obciążenia. Jeśli tak się stanie, użytkownik zostanie powiadomiony w sekcji komentarzy roszczenia. 
 
 >[!IMPORTANT]
->Jeśli będziemy potrzebować dodatkowych informacji w celu zweryfikowania poprawności CPORu skojarzenia (PoE), skontaktujemy się z Tobą za pośrednictwem sekcji komentarzy dotyczących roszczeń dotyczących powiązań CPOR.
+>Jeśli będziemy wymagać dodatkowych informacji w celu zweryfikowania weryfikacji wykonania skojarzenia CPOR, skontaktujemy się z Tobą za pośrednictwem sekcji komentarzy roszczenia skojarzenia CPOR.
 
 ## <a name="next-steps"></a>Następne kroki
 

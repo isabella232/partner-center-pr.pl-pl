@@ -1,64 +1,58 @@
 ---
-title: Faktury Microsoft Partner Network & podatków
+title: Microsoft Partner Network faktur & podatków
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Dowiedz się, jak wyświetlać lub pobierać faktury dotyczące członkostwa w usłudze MPN, jak wykluczać podatek i jak wysyłać numer NIP firmy Microsoft.
+description: Dowiedz się, jak wyświetlić lub pobrać fakturę za członkostwo w programie MPN, jak przesłać fakturę w celu zwolnienia z podatku oraz jak wysłać do firmy Microsoft numer NIP.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b61fd5c3c68b3bbd9396cf55a53c22b85523d976
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: c3ea3fae2ae8052b517bfb80e16614c4708a253b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132795"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151291"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Faktury i podatki w Microsoft Partner Network
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Administrator partnera MPN | Administrator rozliczeń | Agent administracyjny
 
-- Administrator globalny
-- Administrator zarządzania użytkownikami
-- Administrator partnerski MPN
-- Administrator rozliczeń
-- Agent administracyjny
+## <a name="view-or-download-your-mpn-membership-invoice"></a>Wyświetlanie lub pobieranie faktury za członkostwo w programie MPN
 
-## <a name="view-or-download-your-mpn-membership-invoice"></a>Wyświetlanie lub pobieranie faktury dotyczącej członkostwa w usłudze MPN
+Aby wyświetlić lub pobrać końcową fakturę za zamówienie związane z członkostwem w grupie Microsoft Partner Network, skorzystaj z poniższych Microsoft Partner Network. Faktury są ogólnie dostępne 10 dni po zakończeniu płatności. Aby uzyskać dodatkowe informacje, skontaktuj się z regionalnym centrum obsługi.  
 
-Wykonaj poniższe kroki, aby wyświetlić lub pobrać końcową fakturę dla zamówienia powiązanego z członkostwem w Microsoft Partner Network. Faktury są ogólnie dostępne 10 dni po zakończeniu płatności. Aby uzyskać dodatkowe informacje, skontaktuj się z regionalnym centrum usług.  
+Aby wykonać tę procedurę, administrator globalny lub administratorem partnera MPN. 
 
-Aby wykonać tę procedurę, trzeba być administratorem globalnym lub administratorem partnera MPN. 
+1.  Zaloguj się [Partner Center](https://partner.microsoft.com/dashboard/home) przy użyciu konta służbowego i wybierz **pozycję MPN** w menu po lewej stronie.
 
-1.  Zaloguj się do [Centrum partnerskiego](https://partner.microsoft.com/dashboard/home) przy użyciu swojego konta służbowego, a następnie wybierz pozycję **MPN** w menu po lewej stronie.
+4.  Na liście rozwijanej wybierz pozycję **Oferty członkostwa,** aby wyświetlić oferty dostępne do zakupu i faktury dostępne dla bieżącego roku rejestracji. Aby wyświetlić faktury z poprzednich lat, wybierz pozycję **Wygasłe**.
 
-4.  Z listy rozwijanej wybierz pozycję **oferty członkostwa** , aby zobaczyć oferty dostępne do zakupu oraz faktury dostępne dla bieżącego roku rejestracji. Aby wyświetlić faktury z poprzednich lat, wybierz pozycję **Wygasłe**.
+6.  Wybierz fakturę, a następnie wybierz pozycję **Pobierz fakturę.** 
 
-6.  Wybierz żądaną fakturę, a następnie wybierz pozycję **Pobierz fakturę**. 
+## <a name="file-a-tax-exemption"></a>File a tax exemption (Jak złożyć zwolnienie z podatku)
 
-## <a name="file-a-tax-exemption"></a>Wykluczanie podatku
+1.  W Partner Center wybierz pozycję **Ustawienia.**
+    - Aby znaleźć swój identyfikator MPN, wybierz **pozycję Profil partnera.**
 
-1.  W centrum partnerskim wybierz pozycję **Ustawienia**.
-    - Aby znaleźć identyfikator MPN, wybierz pozycję **Profil partnera**.
+2.  Utwórz nowy bilet pomocy technicznej. W Partner Center wybierz pozycję **Żądania obsługi,** wybierz pozycję **Partner Center żądania,** a następnie wybierz **pozycję Nowe żądanie.**
 
-2.  Utwórz nowy bilet pomocy technicznej. W centrum partnerskim wybierz pozycję **żądania obsługi**, wybierz pozycję **żądania Centrum partnerskiego**, a następnie wybierz pozycję **nowe żądanie**.
+3.  Wypełnij formularz. W przypadku **typu problemu wybierz** pozycję Nie można **zarządzać moim profilem.** W opisie uwzględnij swój identyfikator MPN.
 
-3.  Wypełnij formularz. Dla **typu problemu** wybierz pozycję **nie można zarządzać moim profilem**. W opisie Uwzględnij identyfikator MPN.
+4.  Po przesłaniu biletu firma Microsoft napisze do Ciebie wiadomość e-mail, aby uzyskać więcej informacji. Po udzielenie odpowiedzi dołącz odpowiednią dokumentację techniczną dla certyfikatów zwolnienia z podatku.
 
-4.  Po przesłaniu biletu firma Microsoft wyśle wiadomość e-mail w celu uzyskania dodatkowych informacji. Po otrzymaniu odpowiedzi Dołącz do odpowiedniej dokumentacji pomocniczej dotyczącej certyfikatów zwolnienia z podatku.
+## <a name="send-microsoft-your-vat-id-number"></a>Wysyłanie numeru VAT firmy Microsoft
 
-## <a name="send-microsoft-your-vat-id-number"></a>Wyślij numer NIP firmy Microsoft
+1.  Na Partner Center [nawigacyjnym wybierz](https://partner.microsoft.com/dashboard/home)pozycję **Oferty członkostwa,** a następnie wybierz pozycję **Dostępne.** 
 
-1.  Na [pulpicie nawigacyjnym](https://partner.microsoft.com/dashboard/home)Centrum partnerskiego wybierz pozycję **oferty członkostwa**, a następnie wybierz pozycję **dostępne**. 
+2.  Wybierz **pozycję Dodaj identyfikator VAT.** 
 
-2.  Wybierz pozycję **Dodaj swój identyfikator podatku VAT**. 
-
-3.  Wprowadź identyfikator płatnika podatku VAT dla swojej firmy, wybierz pozycję **Dodaj**, a następnie wybierz pozycję **dalej**. 
+3.  Wprowadź identyfikator VAT swojej firmy, wybierz pozycję **Dodaj,** a następnie wybierz pozycję **Dalej.** 
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Przegląd rozliczeń Centrum partnerskiego](billing-basics.md)
+- [Omówienie rozliczeń Partner Center rozliczeń](billing-basics.md)
 
-- [Uzyskaj środki na zaliczanie podatku](withholding-tax-credit-form.md)
+- [Uzyskiwanie środków na podatek potrącony](withholding-tax-credit-form.md)
