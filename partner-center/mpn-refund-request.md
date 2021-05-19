@@ -1,41 +1,38 @@
 ---
-title: Zwrot korzyści z MPN
+title: Zwrot kosztów korzyści z mpn
 ms.topic: article
 ms.date: 02/05/2021
-description: Dowiedz się, jak zażądać zwrotu pieniędzy na korzyść MPN i kryteria niezbędne do kwalifikowania się.
+description: Dowiedz się, jak zażądać zwrotu kosztów dla korzyści z programu MPN oraz poznać kryteria niezbędne do kwalifikowania się.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 39a925bbfccb720951a63f4e11207df4a3252200
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 919a0187d3d999e935667bdbd6d565fb093fe6dd
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132914"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151325"
 ---
-# <a name="request-a-refund-for-an-mpn-benefit"></a><span data-ttu-id="390d4-103">Zażądaj zwrotu za korzyść MPN</span><span class="sxs-lookup"><span data-stu-id="390d4-103">Request a refund for an MPN benefit</span></span>
+# <a name="request-a-refund-for-an-mpn-benefit"></a><span data-ttu-id="2d4a3-103">Żądanie zwrotu pieniędzy za korzyść mpn</span><span class="sxs-lookup"><span data-stu-id="2d4a3-103">Request a refund for an MPN benefit</span></span>
 
-<span data-ttu-id="390d4-104">**Odpowiednie role**</span><span class="sxs-lookup"><span data-stu-id="390d4-104">**Appropriate roles**</span></span>
+<span data-ttu-id="2d4a3-104">**Odpowiednie role:** Administrator partnera MPN | Administrator konta</span><span class="sxs-lookup"><span data-stu-id="2d4a3-104">**Appropriate roles**: MPN partner admin | Account admin</span></span>
 
-- <span data-ttu-id="390d4-105">Administrator partnerski MPN</span><span class="sxs-lookup"><span data-stu-id="390d4-105">MPN partner admin</span></span>
-- <span data-ttu-id="390d4-106">Administrator konta</span><span class="sxs-lookup"><span data-stu-id="390d4-106">Account admin</span></span>
+<span data-ttu-id="2d4a3-105">W tym artykule wymieniono kryteria, które należy spełnić w przypadku żądania zwrotu korzyści z mpn.</span><span class="sxs-lookup"><span data-stu-id="2d4a3-105">This article lists the criteria you must meet when you request a refund for an MPN benefit.</span></span>
 
-<span data-ttu-id="390d4-107">W tym artykule przedstawiono kryteria, które należy spełnić, gdy zażądasz zwrotu za korzyść MPN.</span><span class="sxs-lookup"><span data-stu-id="390d4-107">This article lists the criteria you must meet when you request a refund for an MPN benefit.</span></span>
+## <a name="criteria-for-a-refund"></a><span data-ttu-id="2d4a3-106">Kryteria zwrotu pieniędzy</span><span class="sxs-lookup"><span data-stu-id="2d4a3-106">Criteria for a refund</span></span>
+<span data-ttu-id="2d4a3-107">W przypadku żądania zwrotu pieniędzy za Action Pack MPN (na poziomie Silver lub Gold), które zostały zakupione, żądanie musi spełniać następujące kryteria:</span><span class="sxs-lookup"><span data-stu-id="2d4a3-107">When requesting a refund for an MPN benefit (Action Pack, Silver level or Gold level) that you’ve purchased, your request must match the following criteria:</span></span>
 
-## <a name="criteria-for-a-refund"></a><span data-ttu-id="390d4-108">Kryteria zwrotu</span><span class="sxs-lookup"><span data-stu-id="390d4-108">Criteria for a refund</span></span>
-<span data-ttu-id="390d4-109">Podczas żądania zwrotu pieniędzy dla korzyści MPN (Action Pack, poziomu Silver lub złota), żądanie musi być zgodne z następującymi kryteriami:</span><span class="sxs-lookup"><span data-stu-id="390d4-109">When requesting a refund for an MPN benefit (Action Pack, Silver level or Gold level) that you’ve purchased, your request must match the following criteria:</span></span>
+- <span data-ttu-id="2d4a3-108">Zakup został dokonany w ciągu ostatnich 30 dni</span><span class="sxs-lookup"><span data-stu-id="2d4a3-108">The purchase was made within the last 30 days</span></span>
+- <span data-ttu-id="2d4a3-109">Nie można aktywować/używać wszystkich korzyści</span><span class="sxs-lookup"><span data-stu-id="2d4a3-109">All benefits must not be activated/used</span></span>
+- <span data-ttu-id="2d4a3-110">Nie można wyświetlać kluczy produktów (nawet jeśli nie są aktywowane)</span><span class="sxs-lookup"><span data-stu-id="2d4a3-110">Product keys must not be viewed (even if they are not activated)</span></span>
 
-- <span data-ttu-id="390d4-110">Zakup został dokonany w ciągu ostatnich 30 dni</span><span class="sxs-lookup"><span data-stu-id="390d4-110">The purchase was made within the last 30 days</span></span>
-- <span data-ttu-id="390d4-111">Nie można aktywować/używać wszystkich korzyści</span><span class="sxs-lookup"><span data-stu-id="390d4-111">All benefits must not be activated/used</span></span>
-- <span data-ttu-id="390d4-112">Klucze produktów nie mogą być wyświetlane (nawet jeśli nie są aktywowane)</span><span class="sxs-lookup"><span data-stu-id="390d4-112">Product keys must not be viewed (even if they are not activated)</span></span>
-
-<span data-ttu-id="390d4-113">Zwroty podatków dla partnerów zwolnionych z opodatkowania są dostępne przez rok.</span><span class="sxs-lookup"><span data-stu-id="390d4-113">Tax refunds, for tax exempt partners, are available for one year.</span></span>
+<span data-ttu-id="2d4a3-111">Zwroty podatku dla partnerów, którzy są zwolnieni z podatku, są dostępne przez jeden rok.</span><span class="sxs-lookup"><span data-stu-id="2d4a3-111">Tax refunds, for tax exempt partners, are available for one year.</span></span>
 
 >[!NOTE]
-><span data-ttu-id="390d4-114">Jeśli masz ofertę na członkostwo w Silver i korzystasz z rabatu w wysokości 25% Gold do przeprowadzenia uaktualnienia do oferty uprawniającej do ubiegania się o członkostwo w wersji Gold, nie kwalifikujesz się do zwrotu z srebra (nawet jeśli zapłacisz za członkostwo Silver w ciągu 30 dni i nie wykorzystano korzyści).</span><span class="sxs-lookup"><span data-stu-id="390d4-114">If you had a Silver membership offer, and you used the 25% Gold membership discount to upgrade to a Gold membership offer, you are not eligible for a Silver refund (even if you paid for Silver membership within 30 days and have not used the benefits).</span></span>
+><span data-ttu-id="2d4a3-112">Jeśli masz ofertę członkostwa w programie Silver i korzystasz z 25% rabatu na członkostwo w wersji Gold w celu uaktualnienia do oferty członkostwa Gold, nie kwalifikujesz się do zwrotu kosztów za platformę Silver (nawet jeśli zapłacisz za członkostwo w silver w ciągu 30 dni i nie korzystasz z korzyści).</span><span class="sxs-lookup"><span data-stu-id="2d4a3-112">If you had a Silver membership offer, and you used the 25% Gold membership discount to upgrade to a Gold membership offer, you are not eligible for a Silver refund (even if you paid for Silver membership within 30 days and have not used the benefits).</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="390d4-115">Następne kroki</span><span class="sxs-lookup"><span data-stu-id="390d4-115">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="2d4a3-113">Następne kroki</span><span class="sxs-lookup"><span data-stu-id="2d4a3-113">Next steps</span></span>
 
-- [<span data-ttu-id="390d4-116">Partnerstwo z firmą Microsoft</span><span class="sxs-lookup"><span data-stu-id="390d4-116">Partner with Microsoft</span></span>](mpn-overview.md)
+- [<span data-ttu-id="2d4a3-114">Partnerstwo z firmą Microsoft</span><span class="sxs-lookup"><span data-stu-id="2d4a3-114">Partner with Microsoft</span></span>](mpn-overview.md)

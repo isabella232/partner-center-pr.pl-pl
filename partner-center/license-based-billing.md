@@ -1,6 +1,6 @@
 ---
 title: Rozliczenia na podstawie licencji
-description: Dowiedz się, w jaki sposób rozliczenia oparte na licencjach różnią się od rozliczeń opartych na użyciu w centrum partnerskim, w tym w jaki sposób opłaty są naliczane według licencji (nie za
+description: Dowiedz się, czym różni się rozliczanie oparte na licencjach od rozliczeń opartych na użyciu w Partner Center, w tym jak są naliczane opłaty za licencję (a nie według użycia licencji).
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,57 +9,52 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 007a15091a018755c60c4e02c394ad31868d4233
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8232ab784611a04990044049c16e84c1a47b9567
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179415"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151835"
 ---
-# <a name="license-based-billing-in-partner-center"></a><span data-ttu-id="b884f-103">Rozliczanie na podstawie licencji w centrum partnerskim</span><span class="sxs-lookup"><span data-stu-id="b884f-103">License-based billing in Partner Center</span></span>
+# <a name="license-based-billing-in-partner-center"></a><span data-ttu-id="1d282-103">Rozliczenia oparte na licencjach w Partner Center</span><span class="sxs-lookup"><span data-stu-id="1d282-103">License-based billing in Partner Center</span></span>
 
-<span data-ttu-id="b884f-104">**Odpowiednie role**</span><span class="sxs-lookup"><span data-stu-id="b884f-104">**Appropriate roles**</span></span>
+<span data-ttu-id="1d282-104">**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Administrator rozliczeń | Agent administracyjny</span><span class="sxs-lookup"><span data-stu-id="1d282-104">**Appropriate roles**: Global admin | User management admin | Billing admin | Admin agent</span></span>
 
-- <span data-ttu-id="b884f-105">Administrator globalny</span><span class="sxs-lookup"><span data-stu-id="b884f-105">Global admin</span></span>
-- <span data-ttu-id="b884f-106">Administrator zarządzania użytkownikami</span><span class="sxs-lookup"><span data-stu-id="b884f-106">User management admin</span></span>
-- <span data-ttu-id="b884f-107">Administrator rozliczeń</span><span class="sxs-lookup"><span data-stu-id="b884f-107">Billing admin</span></span>
-- <span data-ttu-id="b884f-108">Agent administracyjny</span><span class="sxs-lookup"><span data-stu-id="b884f-108">Admin agent</span></span>
+<span data-ttu-id="1d282-105">W przypadku zakupu produktów lub Usługi online w Partner Center, które wymagają **licencji,**  są naliczane faktury za każdą kupowaną licencję.</span><span class="sxs-lookup"><span data-stu-id="1d282-105">When you buy products or online services in Partner Center that require **licenses**, you're billed *for each license* that you buy.</span></span> <span data-ttu-id="1d282-106">Za użycie *tych licencji* nie są naliczane opłaty.</span><span class="sxs-lookup"><span data-stu-id="1d282-106">You're *not billed* by usage for these licenses.</span></span> <span data-ttu-id="1d282-107">(Aby uzyskać informacje na temat rozliczeń opartych na użyciu i innych typów rozliczeń, zobacz Typy rozliczeń [w Partner Center).](./billing-basics.md)</span><span class="sxs-lookup"><span data-stu-id="1d282-107">(For information on usage-based billing and other billing types, see [Types of billing in Partner Center](./billing-basics.md).)</span></span>
 
-<span data-ttu-id="b884f-109">Gdy kupujesz produkty lub Usługi online w centrum partnerskim, które wymagają **licencji**, opłaty są naliczane *za każdą* z kupionych licencji.</span><span class="sxs-lookup"><span data-stu-id="b884f-109">When you buy products or online services in Partner Center that require **licenses**, you're billed *for each license* that you buy.</span></span> <span data-ttu-id="b884f-110">Nie są *naliczane opłaty* za użycie dla tych licencji.</span><span class="sxs-lookup"><span data-stu-id="b884f-110">You're *not billed* by usage for these licenses.</span></span> <span data-ttu-id="b884f-111">(Aby uzyskać informacje dotyczące rozliczeń i innych typów rozliczeń opartych na użyciu, zobacz [typy rozliczeń w centrum partnerskim](billing-different-types.md)).</span><span class="sxs-lookup"><span data-stu-id="b884f-111">(For information on usage-based billing and other billing types, see [Types of billing in Partner Center](billing-different-types.md).)</span></span>
+## <a name="license-billing-frequency"></a><span data-ttu-id="1d282-108">Częstotliwość rozliczeń licencji</span><span class="sxs-lookup"><span data-stu-id="1d282-108">License billing frequency</span></span>
 
-## <a name="license-billing-frequency"></a><span data-ttu-id="b884f-112">Częstotliwość rozliczania licencji</span><span class="sxs-lookup"><span data-stu-id="b884f-112">License billing frequency</span></span>
+<span data-ttu-id="1d282-109">Możesz zdecydować się na rozliczanie licencji raz w miesiącu **(rozliczenia** miesięczne) lub raz w roku **(rozliczenia roczne).**</span><span class="sxs-lookup"><span data-stu-id="1d282-109">You can choose to be billed for licenses once a month (**monthly billing**) or once a year (**annual billing**).</span></span> 
 
-<span data-ttu-id="b884f-113">Możesz wybrać opcję rozliczania licencji raz na miesiąc (**miesięczne rozliczenie**) lub raz na rok (**opłata roczna**).</span><span class="sxs-lookup"><span data-stu-id="b884f-113">You can choose to be billed for licenses once a month (**monthly billing**) or once a year (**annual billing**).</span></span> 
+## <a name="billing-date-for-licenses"></a><span data-ttu-id="1d282-110">Data rozliczenia licencji</span><span class="sxs-lookup"><span data-stu-id="1d282-110">Billing date for licenses</span></span>
 
-## <a name="billing-date-for-licenses"></a><span data-ttu-id="b884f-114">Data rozliczenia licencji</span><span class="sxs-lookup"><span data-stu-id="b884f-114">Billing date for licenses</span></span>
+<span data-ttu-id="1d282-111">Subskrypcje oparte na licencjach są rozliczane z wyprzedzeniem w dniu **rocznicy subskrypcji.**</span><span class="sxs-lookup"><span data-stu-id="1d282-111">License-based subscriptions are billed in advance on the subscription's **anniversary date**.</span></span> <span data-ttu-id="1d282-112">Data rocznicy to dzień miesiąca, w których zakupiono subskrypcję.</span><span class="sxs-lookup"><span data-stu-id="1d282-112">The anniversary date is the day of the month that you purchased the subscription.</span></span>
 
-<span data-ttu-id="b884f-115">Subskrypcje oparte na licencji są rozliczane z góry od **daty rocznicy** subskrypcji.</span><span class="sxs-lookup"><span data-stu-id="b884f-115">License-based subscriptions are billed in advance on the subscription's **anniversary date**.</span></span> <span data-ttu-id="b884f-116">Dzień rocznicy to dzień miesiąca, w którym zakupiono subskrypcję.</span><span class="sxs-lookup"><span data-stu-id="b884f-116">The anniversary date is the day of the month that you purchased the subscription.</span></span>
+<span data-ttu-id="1d282-113">Na przykład:</span><span class="sxs-lookup"><span data-stu-id="1d282-113">For example:</span></span>
 
-<span data-ttu-id="b884f-117">Na przykład:</span><span class="sxs-lookup"><span data-stu-id="b884f-117">For example:</span></span>
+- <span data-ttu-id="1d282-114">Jeśli zakupiono **subskrypcję miesięczną** 15 stycznia, datą rocznicy będzie 15. każdego miesiąca.</span><span class="sxs-lookup"><span data-stu-id="1d282-114">If you purchased a **monthly subscription** on January 15, the anniversary date will be the 15th of each month.</span></span>
+- <span data-ttu-id="1d282-115">Jeśli zakupiono **roczną subskrypcję** 15 stycznia, datą rocznicy będzie 15 stycznia każdego roku.</span><span class="sxs-lookup"><span data-stu-id="1d282-115">If you purchased an **annual subscription** on January 15, the anniversary date will be January 15 of each year.</span></span>
 
-- <span data-ttu-id="b884f-118">W przypadku zakupu **comiesięcznej subskrypcji** 15 stycznia dzień rocznicy będzie 15.</span><span class="sxs-lookup"><span data-stu-id="b884f-118">If you purchased a **monthly subscription** on January 15, the anniversary date will be the 15th of each month.</span></span>
-- <span data-ttu-id="b884f-119">Jeśli **subskrypcja roczna** została zakupiona 15 stycznia, dzień rocznicy będzie 15 stycznia każdego roku.</span><span class="sxs-lookup"><span data-stu-id="b884f-119">If you purchased an **annual subscription** on January 15, the anniversary date will be January 15 of each year.</span></span>
+## <a name="license-term"></a><span data-ttu-id="1d282-116">Okres licencji</span><span class="sxs-lookup"><span data-stu-id="1d282-116">License term</span></span>
 
-## <a name="license-term"></a><span data-ttu-id="b884f-120">Termin licencji</span><span class="sxs-lookup"><span data-stu-id="b884f-120">License term</span></span>
+<span data-ttu-id="1d282-117">Wszystkie subskrypcje oparte na licencjach mają płatny 12-miesięczny okres, który zaczyna się od daty zakupu.</span><span class="sxs-lookup"><span data-stu-id="1d282-117">All license-based subscriptions have a 12-month paid term, which begins on the purchase date.</span></span>
 
-<span data-ttu-id="b884f-121">Wszystkie subskrypcje oparte na licencji mają termin 12-miesięczny, który rozpoczyna się od daty zakupu.</span><span class="sxs-lookup"><span data-stu-id="b884f-121">All license-based subscriptions have a 12-month paid term, which begins on the purchase date.</span></span>
+## <a name="license-cancellation"></a><span data-ttu-id="1d282-118">Anulowanie licencji</span><span class="sxs-lookup"><span data-stu-id="1d282-118">License cancellation</span></span>
 
-## <a name="license-cancellation"></a><span data-ttu-id="b884f-122">Anulowanie licencji</span><span class="sxs-lookup"><span data-stu-id="b884f-122">License cancellation</span></span>
+<span data-ttu-id="1d282-119">Licencję można anulować w dowolnym momencie okresu [licencji.](#license-term)</span><span class="sxs-lookup"><span data-stu-id="1d282-119">You can cancel a license at any point during the [license term](#license-term).</span></span> <span data-ttu-id="1d282-120">Jednak miesiąc, w którym anulujesz subskrypcję, ma wpływ na to, ile środków otrzymasz za anulowaną licencję.</span><span class="sxs-lookup"><span data-stu-id="1d282-120">However, the month in which you cancel impacts how much credit you will receive for the canceled license.</span></span>
 
-<span data-ttu-id="b884f-123">Licencję można anulować w dowolnym momencie [obowiązywania umowy licencyjnej](#license-term).</span><span class="sxs-lookup"><span data-stu-id="b884f-123">You can cancel a license at any point during the [license term](#license-term).</span></span> <span data-ttu-id="b884f-124">Jednak miesiąc, w którym anulowanie ma wpływ na kwotę kredytu dla anulowanej licencji.</span><span class="sxs-lookup"><span data-stu-id="b884f-124">However, the month in which you cancel impacts how much credit you will receive for the canceled license.</span></span>
+<span data-ttu-id="1d282-121">Jeśli wstrzymasz subskrypcję w 1 miesiącu, zostanie ci nadanych 100%.</span><span class="sxs-lookup"><span data-stu-id="1d282-121">If you suspend a subscription in month 1, you will be credited 100%.</span></span>
 
-<span data-ttu-id="b884f-125">W przypadku wstrzymania subskrypcji w miesiącu 1 zostanie naliczone 100%.</span><span class="sxs-lookup"><span data-stu-id="b884f-125">If you suspend a subscription in month 1, you will be credited 100%.</span></span>
+<span data-ttu-id="1d282-122">Jeśli zawiesisz subskrypcję w miesiącach 2–12, środki zostaną przyznane proporcjonalnie.</span><span class="sxs-lookup"><span data-stu-id="1d282-122">If you suspend a subscription in months 2-12, you will be credited on a prorated basis.</span></span>
 
-<span data-ttu-id="b884f-126">Jeśli zawiesisz subskrypcję w miesiącach 2–12, środki zostaną przyznane proporcjonalnie.</span><span class="sxs-lookup"><span data-stu-id="b884f-126">If you suspend a subscription in months 2-12, you will be credited on a prorated basis.</span></span>
+## <a name="license-renewal"></a><span data-ttu-id="1d282-123">Odnawianie licencji</span><span class="sxs-lookup"><span data-stu-id="1d282-123">License renewal</span></span>
 
-## <a name="license-renewal"></a><span data-ttu-id="b884f-127">Odnowienie licencji</span><span class="sxs-lookup"><span data-stu-id="b884f-127">License renewal</span></span>
+<span data-ttu-id="1d282-124">Wszystkie subskrypcje oparte na licencjach są odnawiane automatycznie 12 miesięcy po upływie płatnego okresu.</span><span class="sxs-lookup"><span data-stu-id="1d282-124">All license-based subscriptions auto-renew 12-months after the paid term begins.</span></span>
 
-<span data-ttu-id="b884f-128">Wszystkie subskrypcje oparte na licencji są odnawiane przez okres 12 miesięcy po rozpoczęciu płatności.</span><span class="sxs-lookup"><span data-stu-id="b884f-128">All license-based subscriptions auto-renew 12-months after the paid term begins.</span></span>
+## <a name="next-steps"></a><span data-ttu-id="1d282-125">Następne kroki</span><span class="sxs-lookup"><span data-stu-id="1d282-125">Next steps</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="b884f-129">Następne kroki</span><span class="sxs-lookup"><span data-stu-id="b884f-129">Next steps</span></span>
+- [<span data-ttu-id="1d282-126">Omówienie rozliczeń Partner Center danych</span><span class="sxs-lookup"><span data-stu-id="1d282-126">Overview of Partner Center billing</span></span>](billing-basics.md)
 
-- [<span data-ttu-id="b884f-130">Przegląd rozliczeń Centrum partnerskiego</span><span class="sxs-lookup"><span data-stu-id="b884f-130">Overview of Partner Center billing</span></span>](billing-basics.md)
+- [<span data-ttu-id="1d282-127">Typy rozliczeń w Centrum partnerskim</span><span class="sxs-lookup"><span data-stu-id="1d282-127">Types of billing in Partner Center</span></span>](./billing-basics.md)
 
-- [<span data-ttu-id="b884f-131">Typy rozliczeń w Centrum partnerskim</span><span class="sxs-lookup"><span data-stu-id="b884f-131">Types of billing in Partner Center</span></span>](billing-different-types.md)
-
-- [<span data-ttu-id="b884f-132">Główne artykuły dotyczące rozliczeń i podatków</span><span class="sxs-lookup"><span data-stu-id="b884f-132">Main billing and tax articles</span></span>](billing.md)
+- [<span data-ttu-id="1d282-128">Główne artykuły dotyczące rozliczeń i podatków</span><span class="sxs-lookup"><span data-stu-id="1d282-128">Main billing and tax articles</span></span>](billing.md)
