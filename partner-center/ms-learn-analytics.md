@@ -1,144 +1,141 @@
 ---
-title: Analiza Microsoft Learn analizy usługi Partner Center
+title: Partner Center Insights Microsoft Learn analizy
 ms.topic: article
 ms.date: 08/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Śledź osoby uczące w firmie, wykorzystując dane dotyczące indywidualnych szkoleń, ukończonych modułów, ukończonych ścieżek szkoleniowych i nie tylko.
+description: Śledź informacje o osobach uczących się w firmie, korzystając z danych dotyczących poszczególnych szkoleń, ukończonych modułów, ukończonych ścieżek szkoleniowych i nie tylko.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5b9a0ea8c4eefee1a87b9ccd626b1f2864234521
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 132583352e1697a2f9dfa624eb9532692be6d734
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132319"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152634"
 ---
-# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Raport Microsoft Learn Analytics zawiera informacje o stanie analityków w firmie
+# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Raport Microsoft Learn analizy danych przedstawia stan uczniów w firmie
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Administrator partnera MPN
 
-- Administrator globalny
-- Administrator partnerski MPN
-
-Raport Microsoft Learn zawiera informacje na temat informacji o użytkownikach w firmie, w tym modułów, które zostały ukończone, oraz ścieżek szkoleniowych, na których się znajdują. Ten raport wyświetla informacje o stanie poszczególnych poszczególnych osób. Administrator globalny i administrator MPN firmy mogą wyświetlać dane.
+Raport Microsoft Learn zawiera informacje o uczących się w firmie, w tym o modułach, które ukończyli, i ścieżkach szkoleniowych, na których się znajdują. Raport zawiera stan poszczególnych uczniów. Dane mogą być przeglądane przez administratora globalnego i administratora MPN w firmie.
 
 ## <a name="how-to-read-the-report"></a>Jak odczytać raport
 
 ### <a name="summary-charts"></a>Wykresy podsumowujące
 
-Te wykresy podsumowują liczbę i miesięczne skumulowane trendy dotyczące przeszkolonych osób, uzupełniania modułów i ścieżek szkoleniowych.
+Te wykresy podsumowują liczbę i miesięczne trendy skumulowane dla wytrenowane osoby, uzupełnienia modułów i ścieżki szkoleniowe.
 
 
-**Liczba przeszkolonych** odbiorców: liczba wszystkich odrębnych osób, które ukończyły co najmniej jeden moduł w wybranym zakresie dat 
+**Liczba wytrenowanych osób:** liczba wszystkich odrębnych uczniów, którzy ukończyli co najmniej jeden moduł w wybranym zakresie dat 
 
-Interaktywny **Wykres trendów dla osób indywidualnych**: miesiąc w stosunku do łącznej liczby aktywnych użytkowników 
+**Mini wykres trendu wytrenowane osoby:** Skumulowana liczba aktywnych uczniów z miesiąca na miesiąc 
 
-**Liczba ukończonych modułów**: liczba zaawansowanych modułów przez osoby, które pozostało w firmie partnera w ramach wybranego zakresu dat.
-Na przykład jeśli "moduł 1" jest zakończony przez 15 osób, a "moduł 2" został ukończony przez te same 15 osób, liczba uzupełnień modułu będzie równa 30. Data ukończenia modułu powinna należeć do wybranego zakresu dat.
+**Liczba ukończonych modułów:** liczba ukończonych modułów przez uczniów w firmie partnera w wybranym zakresie dat.
+Jeśli na przykład "Moduł 1" zostanie ukończony przez 15 osób, a "Moduł 2" został ukończony przez te same 15 osób, liczba ukończonych modułów będzie wynosić 30. Data ukończenia modułu powinna być w wybranym zakresie dat.
 
-**Trend zaawansowania modułów — wykres mini**: miesięczna liczba skumulowanych zaawansowanych modułów 
+**Mini wykres trendu uzupełniania modułów:** Skumulowana liczba ukończonych modułów z miesiąca na miesiąc 
 
-**Liczba uzupełniania ścieżek szkoleniowych**: liczba zaawansowanych ścieżek szkoleniowych przez osoby uczące w firmie partnera w ramach wybranego zakresu dat.
-Na przykład jeśli ścieżka szkoleniowa "Path 1" została ukończona przez 20 osób, a Ścieżka szkoleniowa "Path 2" została ukończona przez te same 20 osób, liczba uzupełnień ścieżki szkoleniowej będzie równa 40. Data ukończenia ścieżki szkoleniowej powinna należeć do wybranego zakresu dat.
+**Liczba ukończenia ścieżki szkoleniowej:** liczba ukończenia ścieżki szkoleniowej przez uczniów w firmie partnera w wybranym zakresie dat.
+Jeśli na przykład ścieżka edukacyjna "Ścieżka 1" została ukończona przez 20 osób, a ścieżka edukacyjna "ścieżka 2" została ukończona przez te same 20 osób, liczba ukończenia ścieżki szkoleniowej wynosi 40. Data ukończenia ścieżki szkoleniowej powinna być w wybranym zakresie dat.
 
-**Samouczek przedstawiający Kończenie ścieżki szkoleniowej — mini wykres**: miesięczna liczba skumulowanych postanowień ścieżki szkoleniowej 
+**Mini wykres trendu uzupełniania ścieżki szkoleniowej:** Skumulowana liczba ukończenia ścieżki szkoleniowej z miesiąca na miesiąc 
 
-### <a name="trained-individuals-monthly-trend"></a>Trend miesięczny przeszkolonych osób indywidualnych
+### <a name="trained-individuals-monthly-trend"></a>Miesięczny trend wytrenowane osoby
 
-Te dane to trend użytkowników firmy, którzy ukończyli moduł po raz pierwszy w danym miesiącu. 
+Te dane to trend użytkowników firmy, którzy ukończyli moduł po raz pierwszy w tym miesiącu. 
 
-**Oś X** jest miesiąc dla wybranego filtru czasu. 
+**Oś X to** miesiąc dla wybranego filtru czasu. 
 
-**Oś Y** to liczba aktywnych osób, którzy zarejestrowali się (po raz pierwszy modułu) w tym miesiącu. Nie jest to skumulowane.
+**Oś Y to** liczba aktywnych uczniów, którzy zarejestrują się (po raz pierwszy ukończenie modułu) w tym miesiącu. Ta wartość nie jest zbiorcza.
 
-### <a name="module-completions-monthly-trend"></a>Miesięczny trend ukończenia modułu
+### <a name="module-completions-monthly-trend"></a>Trend miesięczny uzupełniania modułów
 
-Te dane to trend modułów wykonanych przez wszystkich użytkowników Twojej firmy w danym miesiącu. (nieskumulowane) 
+Te dane to trend modułów ukończonych przez wszystkich użytkowników firmy w tym miesiącu. (niekumulowane) 
 
-**Oś X** jest miesiąc dla wybranego filtru czasu. 
+**Oś X to** miesiąc dla wybranego filtru czasu. 
 
-**Oś Y** jest liczbą uzupełniania modułu w danym miesiącu. Nie jest to skumulowane.
+**Oś Y to** liczba ukończonych modułów w tym miesiącu. Ta wartość nie jest zbiorcza.
 
-### <a name="learning-path-completions-monthly-trend"></a>Miesięczny trend ukończenia ścieżki szkoleniowej
+### <a name="learning-path-completions-monthly-trend"></a>Miesięczny trend uzupełniania ścieżki szkoleniowej
 
-Te dane to trend ścieżek szkoleniowych wykonanych przez użytkowników Twojej firmy w tym miesiącu. (nieskumulowane) 
+Te dane to trend ścieżek edukacyjnych zrealizowanych przez użytkowników firmy w tym miesiącu. (niekumulowane) 
 
-**Oś X** jest miesiąc dla wybranego filtru czasu. 
+**Oś X to** miesiąc dla wybranego filtru czasu. 
 
-**Oś Y** jest liczbą uzupełniań modułów w danym miesiącu. Nie jest to skumulowane.
+**Oś Y to** liczba ukończonych modułów w tym miesiącu. Ta wartość nie jest zbiorcza.
 
 ### <a name="learning-path-completion-tabs"></a>Karty uzupełniania ścieżki szkoleniowej 
 
-**Karta moduł**
+**Karta Moduł**
 
-Ta karta zawiera podział modułów ukończonych w firmie przez pięć najważniejszych nazw modułów; produkt, do którego jest skojarzony moduł; i rola użytkownika odnoszące się do modułu.  
+Ta karta zawiera podział modułów ukończonych w firmie według pięciu najlepszych nazw modułów. produkt, z którym jest skojarzony moduł; i rolę użytkownika, która jest do tego modułu.  
 
-- Wykres pierścieniowy uzupełniania modułu: podział uzupełniania modułu (liczba wyświetlana w sekcji Podsumowanie) według nazw modułów.
+- Wykres pierścieniowy uzupełniania modułów: podział uzupełniania modułów (liczba wyświetlana w sekcji podsumowania) według nazw modułów.
 
 Liczba wyświetlana na środku wykresu to łączna liczba ukończonych modułów
 
-- Zakończenia według roli: podział uzupełniania modułu przez rolę modułu. Jeśli moduł jest skojarzony z wieloma rolami, każda z nich jest dodawana do liczby uzupełniania modułu.
+- Uzupełnienia według roli: podział ukończenia modułów według roli modułu. Jeśli moduł jest skojarzony z wieloma rolami, każda z ról jest dodawana do liczby ukończonych modułów.
 
-Liczba wyświetlana na środku wykresu to liczba odrębnych ról dla uzupełniania modułu. 
+Liczba wyświetlana na środku wykresu to liczba odrębnych ról dla ukończenia modułu. 
 
-- Zakończenia według produktu: podział uzupełniania modułu przez produkt, do którego jest zamapowany moduł. Jeśli moduł jest skojarzony z wieloma produktami, każdy z nich zostanie dodany do liczby uzupełniania modułu.    
+- Uzupełnienia według produktu: podział uzupełniania modułów według produktu, na który jest mapowany moduł. Jeśli moduł jest skojarzony z wieloma produktami, każdy z tych produktów jest dodawany do liczby ukończonych modułów.    
 
-Liczba wyświetlana na środku wykresu to liczba odrębnych produktów dla uzupełniania modułu.  
+Liczba wyświetlana na środku wykresu to liczba odrębnych produktów do ukończenia modułu.  
 
-**Karta ścieżka szkoleniowa**   
+**Karta ścieżki szkoleniowej**   
 
-Ta karta zawiera podział ścieżek szkoleniowych ukończonych w firmie przez pięć najważniejszych nazw modułów; produkt, do którego jest zamapowana ścieżka szkoleniowa; i rola mająca znaczenie dla tej ścieżki szkoleniowej.  
+Ta karta zawiera podział ścieżek edukacyjnych ukończonych w firmie według pięciu najlepszych nazw modułów. produkt, na który jest zamapowana ścieżka edukacyjna; oraz rolę, która jest kluczowa dla tej ścieżki szkoleniowej.  
 
-- Wykres pierścieniowy ukończenia ścieżki nauki: podział uzupełniania ścieżki szkoleniowej (liczba wyświetlana w sekcji podsumowania) według nazwy.
+- Wykres pierścieniowy uzupełniania ścieżek edukacyjnych: podział ukończenia ścieżki szkoleniowej (liczba wyświetlana w sekcji podsumowania) według nazwy.
 
-- Ukończenia według roli *: podział zaawansowania ścieżek szkoleniowych przez rolę. Jeśli moduł jest skojarzony z wieloma rolami, każda z nich jest dodawana do liczby uzupełniania modułu.
+- Uzupełnienia według roli*: podział ścieżek uczenia według roli. Jeśli moduł jest skojarzony z wieloma rolami, każda z ról jest dodawana do liczby ukończenia modułu.
 
-- Ukończenia według produktu: podział zaawansowania ścieżek szkoleniowych przez produkt, do którego jest mapowana ścieżka szkoleniowa. Jeśli moduł jest skojarzony z wieloma produktami, każdy z nich zostanie dodany do liczby uzupełniania modułu.
+- Uzupełnienia według produktu: podział ścieżek uczenia według produktu, na który jest mapowana ścieżka edukacyjna. Jeśli moduł jest skojarzony z wieloma produktami, każdy z tych produktów jest dodawany do liczby ukończonych modułów.
 
-### <a name="completions-by-learning-individuals"></a>Ukończenie przez osoby uczące
+### <a name="completions-by-learning-individuals"></a>Uzupełnienia przez osoby uczące się
 
-Zawiera listę przeszkolonych użytkowników w firmie oraz szczegóły ich ukończonych modułów i ścieżek szkoleniowych.
+Zawiera listę przeszkolonych użytkowników w firmie oraz szczegółowe informacje o ukończonych modułach i ścieżkach szkoleniowych.
 
-Microsoft Learn identyfikuje dowiedzenia przy użyciu identyfikatora obiektu użytkownika. Na **karcie moduły** wszystkie informacje są sortowane według ukończonych modułów. Są one wyświetlane z Microsoft Learn nazwą użytkownika, IDENTYFIKATORem obiektu i liczbą modułów. Możesz wyszukiwać przy użyciu nazwy użytkownika. 
+Microsoft Learn identyfikuje uczących się przy użyciu identyfikatora obiektu użytkownika. Na karcie **Moduły** wszyscy uczniowie są sortowane według ukończonych modułów. Są one wyświetlane z nazwą Microsoft Learn użytkownika, identyfikatorem obiektu i liczbami modułów. Możesz wyszukiwać przy użyciu nazwy użytkownika. 
 
-Na **karcie ścieżki szkoleniowe** wszystkie informacje posortowane według ścieżek szkoleniowych są wyświetlane z nazwą wyświetlaną, identyfikatorem obiektu i liczbą modułów.
+Na karcie **Ścieżki szkoleniowe** wszyscy uczniowie posortowani według ukończonych ścieżek edukacyjnych są wyświetlani z nazwą wyświetlaną, identyfikatorem obiektu i licznikiem modułów.
 
-Aby uzyskać szczegółowe informacje na temat użycia identyfikatora obiektu użytkownika: 
+Aby uzyskać szczegółowe informacje dla uczących się przy użyciu identyfikatora obiektu użytkownika: 
 
-1. Zaloguj się do [Eksploratora grafów](https://developer.microsoft.com/graph/graph-explorer ). (Użytkownik musi być administratorem globalnym dzierżawy usługi Azure AD Twojej firmy).
+1. Zaloguj się do [eksploratora programu Graph.](https://developer.microsoft.com/graph/graph-explorer ) (Musisz być administratorem globalnym dzierżawy usługi Azure AD swojej firmy).
 
-2. Skopiuj identyfikator obiektu użytkownika do [obszaru wyróżnionego](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f) w Eksploratorze grafu. 
+2. Skopiuj identyfikator obiektu użytkownika do obszaru [wyróżnionego w](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f) Eksploratorze programu Graph. 
 
 ## <a name="faq"></a>Często zadawane pytania
 
-1. Nie mogę zobaczyć szczegółów dotyczących uczenia firmy.
+1. Nie widzę szczegółów uczenia mojej firmy.
 
-Ten raport jest dostępny dla partnerów, którzy mają konto w centrum partnerskim. Jeśli nadal jesteś w centrum członkostwa partnerskiego, nie będzie można zobaczyć tego raportu.
+Ten raport jest dostępny dla partnerów, którzy mają konto w Partner Center. Jeśli nadal jesteś w Partner Membership Center, nie będzie można wyświetlić tego raportu.
 
 2.  Kto w naszej firmie może wyświetlać ten raport? 
 
-Administrator globalny i administrator MPN mogą wyświetlić raport.
+Administrator globalny i administrator MPN mogą wyświetlać raport.
 
-3. Jak upewnić się, że wszyscy nasi użytkownicy kojarzą swoje konta Microsoft Learn z kontem Centrum partnerskiego?
+3. Jak upewnić się, że wszyscy nasi użytkownicy kojarzą swoje konta Microsoft Learn z kontem Partner Center?
 
-Po dodaniu nowego użytkownika przez administratora globalnego użytkownik musi przejść do swojego **mojego profilu** , aby skojarzyć swoje konto Microsoft Learn.
+Gdy administrator globalny doda nowego użytkownika, musi przejść do swojego konta **Mój profil** skojarzyć Microsoft Learn konta.
 
-- Wybierz ikonę **konta** w prawym górnym rogu pulpitu nawigacyjnego, a następnie wybierz pozycję **mój profil**. 
+- Wybierz **ikonę Twoje konto** w prawym rogu pulpitu nawigacyjnego, a następnie wybierz **pozycję Mój profil**. 
 
--  W ramach **uczenia** użytkownik będzie mógł skojarzyć swoje konto uczenia firmy Microsoft i połączyć konto Microsoft z szkołą partnerów.
+-  W **obszarze Twoja nauka** użytkownik będzie mógł skojarzyć swoje konto Microsoft Learning i połączyć swoje konto konto Microsoft z uczelnią Partner University.
 
-3. Czy mogę zobaczyć wszystkich użytkowników firmy, którzy logują się do Microsoft Learn przy użyciu konta MSA w tym raporcie?
+3. Czy mogę zobaczyć wszystkich użytkowników firmy, którzy logują się Microsoft Learn kontem MSA w tym raporcie?
 
-Obecnie najlepszym sposobem jest dodanie tych użytkowników do dzierżawy usługi Azure AD, a następnie dodanie ich do Centrum partnerskiego, aby można było skojarzyć swoje konto Microsoft Learn za pomocą **mojego profilu** w centrum partnerskim. 
+Obecnie najlepszym sposobem na to jest dodanie tych użytkowników do dzierżawy usługi Azure AD, a następnie dodanie ich do usługi Partner Center w celu skojarzenia konta Microsoft Learn za pośrednictwem usługi **Mój profil** w Partner Center. 
 
-W przypadku użytkowników, którzy używają tylko konta MSA do szkolenia, w najbliższej przyszłości zespół Microsoft Learn umożliwi im kojarzenie służbowej poczty e-mail z ich Microsoft Learn profilem. 
+W przypadku użytkowników, którzy używają tylko konta MSA do szkolenia, w najbliższej przyszłości zespół Microsoft Learn umożliwi im skojarzenie służbowej poczty e-mail z profilem Microsoft Learn aplikacji. 
 
 ## <a name="next-steps"></a>Następne kroki
 
-Więcej raportów można znaleźć w temacie [Partner Center Insights](partner-center-insights.md).
+Aby uzyskać więcej raportów, [zobacz Partner Center Insights.](partner-center-insights.md)
 
 >[!NOTE] 
-> Możesz pobrać pierwotne dane, aby wyłączyć ten raport z sekcji Pobieranie raportów na pulpicie nawigacyjnym usługi Insights. [Więcej informacji](pci-download-reports.md) 
+> Możesz pobrać nieprzetworzone dane, które są zasilane z tego raportu, z sekcji Pobieranie raportów na pulpicie nawigacyjnym szczegółowych informacji. [Więcej informacji](pci-download-reports.md) 

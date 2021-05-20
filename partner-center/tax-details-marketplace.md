@@ -1,35 +1,35 @@
 ---
-title: Szczegóły podatku dla platformy handlowej firmy Microsoft
-description: Dowiedz się więcej o zagadnieniach podatkowych dotyczących wyboru cen, implikacji wypłaty i odpowiedzialności podatkowej za kraje/regiony dystrybucji.
+title: Szczegóły podatku dla komercyjnej platformy handlowej firmy Microsoft
+description: Dowiedz się więcej o zagadnieniach podatkowych dotyczących wyboru cen, skutków wypłaty i odpowiedzialności podatkowej za kraje/regiony dystrybucji.
 ms.topic: conceptual
 ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/26/2021
-ms.openlocfilehash: f96f765596024e2df5f1c9e2418ff331dbcd51eb
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5ba7e5a4713c3cb92e7c5b8eee8e0370c8099d14
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854812"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152753"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Szczegóły podatkowe dla wydawców na komercyjnej platformie handlowej
 
 **Odpowiednie role:** Administrator globalny
 
-Ta strona zawiera informacje o obowiązkach podatkowych i zagadnieniach podatkowych dla wydawców komercyjnej platformy handlowej (wydawców) i deweloperów platformy handlowej dla konsumentów (deweloperów) w związku z zakupami przez klientów końcowych produktów wydawcy/dewelopera zgodnie z umową [wydawcy](https://go.microsoft.com/fwlink/p/?LinkID=699560) platformy Microsoft Azure Marketplace i umową [Umowa dewelopera aplikacji](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH).  Poniższe informacje są uzupełnieniem i nie mają na celu zastąpienia warunków i postanowień umowy wydawcy firmy Microsoft i Umowa dewelopera aplikacji.  O ile nie określono inaczej, poniższe informacje dotyczą zarówno wydawców komercyjnej platformy handlowej, jak i deweloperów platformy handlowej konsumentów, którzy udostępniają swoje produkty/oferty do sprzedaży za pośrednictwem witryny Microsoft Marketplace. 
+Ta strona zawiera informacje o obowiązkach podatkowych i zagadnieniach podatkowych dla wydawców komercyjnej platformy handlowej (wydawców) i deweloperów platformy handlowej konsumentów (deweloperów) w związku z zakupami przez klientów końcowych produktów wydawcy/dewelopera zgodnie z umową [wydawcy](/legal/marketplace/msft-publisher-agreement) platformy Microsoft Azure Marketplace i umową [Umowa dewelopera aplikacji](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH).  Poniższe informacje są uzupełnieniem i nie mają na celu zastąpienia warunków i postanowień umowy wydawcy firmy Microsoft i Umowa dewelopera aplikacji.  O ile nie określono inaczej, poniższe informacje dotyczą zarówno wydawców komercyjnej platformy handlowej, jak i deweloperów platformy handlowej konsumentów, którzy udostępniają swoje produkty/oferty do sprzedaży za pośrednictwem witryny Microsoft Marketplace. 
 
 ## <a name="end-customer-taxation"></a>Podatki od klientów końcowych
 
-Każda z obowiązków firmy Microsoft i wydawców/deweloperów w zakresie sprzedaży, użytkowania, towarów i usług, wartości dodanej lub podobnych podatków( jeśli ma zastosowanie) w przypadku sprzedaży klienta końcowego **(podatki** od klienta końcowego) zależy od kraju, w którym wydawcy/deweloperzy zdecydowali się udostępnić produkty/oferty do sprzedaży klientom końcowi za pośrednictwem Microsoft Marketplace.). W poniższej tabeli przedstawiono okoliczności i odpowiedzialność za podatek od klientów końcowych w krajach z sprzedażą kwalifikującą się Microsoft Marketplace lub innych regionach.  Poniższe informacje mogą ulec zmianie, a wydawcy/deweloperzy są odpowiedzialni za przeglądanie tej strony w celu sprawdzenia bieżących, dokładnych informacji.
+Każda z obowiązków firmy Microsoft i wydawców/deweloperów w zakresie sprzedaży, użytkowania, towarów i usług, wartości dodanej lub podobnych podatków, jeśli takie są, w przypadku sprzedaży klientów końcowych **(podatki** od klientów końcowych) zależy od kraju, w którym wydawcy/deweloperzy zdecydowali się udostępnić produkty/oferty do sprzedaży klientom końcowi za pośrednictwem Microsoft Marketplace.). W poniższej tabeli przedstawiono okoliczności i odpowiedzialność za podatki od klientów końcowych w krajach, które kwalifikują się do sprzedaży Microsoft Marketplace pośrednictwem firmy.  Poniższe informacje mogą ulec zmianie, a wydawcy/deweloperzy są odpowiedzialni za przeglądanie tej strony w celu sprawdzenia bieżących, dokładnych informacji.
 
-W **krajach zarządzanych przez** wydawcę/dewelopera firma Microsoft działa jako agent lub komisja (jeśli dotyczy) wydawcy/dewelopera. Wydawcy/deweloperzy potwierdzają i zgadzają się, że wydawcy/deweloperzy mają wyłączną odpowiedzialność za określenie całej zgodności wymaganej dla i zarządzania endowym opodatkowaniem klienta, w tym między innymi rejestrację, obliczanie podatku, zbieranie podatków, przelew podatkowy, weryfikację stanu działalności biznesowej klientów i dostarczanie faktur podatkowych klientom. Wydawcy/deweloperzy potwierdzają, że w odniesieniu do każdej sprzedaży w kraju zarządzanym przez wydawcę/dewelopera firma Microsoft może obecnie nie być w stanie podać szczegółów transakcji wymaganych przez wydawców/deweloperów w celu zapewnienia klientom faktur podatkowych. 
+W **krajach zarządzanych** przez wydawcę/dewelopera firma Microsoft działa jako agent lub komisja (jeśli ma zastosowanie) wydawcy/dewelopera. Wydawcy/deweloperzy potwierdzają i zgadzają się, że wydawcy/deweloperzy mają wyłączną odpowiedzialność za określenie całej zgodności wymaganej do zakończenia podatku od klienta oraz zarządzanie nimi, w tym między innymi rejestrację, obliczanie podatku, zbieranie podatków, przelew podatkowy, sprawdzanie stanu działalności biznesowej klientów i dostarczanie faktur podatkowych klientom. Wydawcy/deweloperzy potwierdzają, że w odniesieniu do każdej sprzedaży w kraju zarządzanym przez wydawcę/dewelopera firma Microsoft może obecnie nie być w stanie podać szczegółów transakcji wymaganych przez wydawców/deweloperów do świadczenia klientom faktur podatkowych. 
 
-W **krajach zarządzanych przez firmę** Microsoft firma Microsoft działa jako agent wydawcy/dewelopera. Firma Microsoft przejmuje odpowiedzialność za zarządzanie podatkiem od klientów końcowych, w tym obliczanie, zbieranie i/lub remitowanie niektórych podatków. W przypadku komercyjnej platformy handlowej może to również obejmować sprawdzania stanu działalności biznesowej klientów końcowych przez uzyskanie numerów rejestracji podatkowej lub certyfikatów zwolnienia z podatku. Firma Microsoft zarządza podatkiem od klientów końcowych za pośrednictwem lokalnych lub zdalnych podmiotów zależnych zarejestrowanych lokalnie. Faktury firmy Microsoft w ramach numeru rejestracji firmy Microsoft. Firma Microsoft uwzględnia wszelkie podatki od klientów końcowych w ramach zwrotu podatku od firmy Microsoft.
+W **krajach zarządzanych przez firmę** Microsoft firma Microsoft działa jako agent wydawcy/dewelopera. Firma Microsoft przejmuje odpowiedzialność za zarządzanie podatkiem od klientów końcowych, w tym obliczanie, zbieranie i/lub remitowanie niektórych podatków. W przypadku komercyjnej platformy handlowej może to również obejmować sprawdzania stanu działalności klientów końcowych przez uzyskanie numerów rejestracji podatkowej lub certyfikatów zwolnienia z podatku. Firma Microsoft zarządza podatkiem od klientów końcowych za pośrednictwem lokalnych lub zdalnych podmiotów stowarzyszonech zarejestrowanych lokalnie. Faktury firmy Microsoft w ramach numeru rejestracji firmy Microsoft. Firma Microsoft uwzględnia wszelkie podatki od klientów końcowych w ramach zwrotu podatkowego firmy Microsoft.
 
-Firma Microsoft nie udziela żadnych gwarancji, że działania firmy Microsoft w pełni spełnią zobowiązania wydawcy/dewelopera w krajach zarządzanych przez firmę Microsoft.  W przypadku wszystkich krajów zarządzanych przez firmę Microsoft firma Microsoft zdecydowanie zaleca, aby wydawcy/deweloperzy współpracowali z własnymi doradcami podatkowymi, aby sprawdzić, czy zarządzane przez firmę Microsoft przelewy podatkowe wystarczająco spełniają wymagania wydawców/deweloperów dotyczące zgodności. Jest to szczególnie ważne w przypadku wszystkich krajów zarządzanych przez firmę Microsoft, z których wydawcy/deweloperzy sprzedaje swoje produkty/oferty.  Firma Microsoft działa jako agent wydawcy/dewelopera w krajach zarządzanych przez firmę Microsoft.
+Firma Microsoft nie udziela żadnych gwarancji, że działania firmy Microsoft w pełni spełnią zobowiązania wydawcy/dewelopera w krajach zarządzanych przez firmę Microsoft.  W przypadku wszystkich krajów zarządzanych przez firmę Microsoft firma Microsoft zdecydowanie zaleca, aby wydawcy/deweloperzy współpracowali z własnymi doradcami podatkowymi, aby upewnić się, czy zarządzane przez firmę Microsoft przelewy podatkowe wystarczająco spełniają wymagania zgodności wydawców/deweloperów. Jest to szczególnie ważne w przypadku wszystkich krajów zarządzanych przez firmę Microsoft, z których wydawcy/deweloperzy sprzedają swoje produkty/oferty.  Firma Microsoft działa jako agent wydawcy/dewelopera w krajach zarządzanych przez firmę Microsoft.
 
-W krajach **odsprzedawcy** firma Microsoft działa jako odsprzedawca, a nie agent wydawcy/dewelopera, udostępniając produkty/oferty wydawcy/dewelopera do sprzedaży klientom Microsoft Marketplace pośrednictwem firmy.  Wydawcy/deweloperzy są odpowiedzialni za sprzedaż, użycie, towary i usługi, wartość dodaną lub podobne podatki, jeśli istnieją, w związku ze sprzedażą produktów/ofert firmie Microsoft, a firma Microsoft jest odpowiedzialna za wszystkie podatki od klientów końcowych w związku z ich poniesień.
+W **krajach odsprzedawcy** firma Microsoft działa jako odsprzedawca, a nie agent wydawcy/dewelopera, udostępniając produkty/oferty wydawcy/dewelopera klientom końcowi za pośrednictwem Microsoft Marketplace.  Wydawcy/deweloperzy są odpowiedzialni za sprzedaż, użycie, towary i usługi, dodatkową wartość dodaną lub podobne podatki(jeśli istnieją) w związku ze sprzedażą produktów/ofert firmie Microsoft, a firma Microsoft jest odpowiedzialna za wszystkie podatki od klientów końcowych w związku z tym, że są one dla klientów końcowych.
 
 
 ### <a name="publisherdeveloper-managed-countries"></a>Kraje zarządzane przez wydawcę/dewelopera: 
@@ -43,7 +43,7 @@ W krajach **odsprzedawcy** firma Microsoft działa jako odsprzedawca, a nie agen
 |Samoa Amerykańskie|Curacao|Kiribati|Watykan|
 |Andora|Dübouti|Kuwejt|Wenezuela|
 |Angola|Dominika|Kirgistan|Wietnam|
-|Anguilla|Dominikana|Laos|Wallis & ).|
+|Anguilla|Dominikana|Laos|Wallis & Futuna|
 |Antarktyda|Ekwador|Liban|Jemen|
 |Antigua & Barbuda|Egipt|Lesotho|Zambia|
 |Aruba|Salwador|Liberia|Urugwaj|
@@ -56,7 +56,7 @@ W krajach **odsprzedawcy** firma Microsoft działa jako odsprzedawca, a nie agen
 |Bhutan|Gabon|Wyspy Marshalla|
 |Boliwia|Ghana|Martinque|
 |Bonaire|Gruzja|Mauretania|
-|Ai & Wańcowy|Gibraltar|Mauritius|
+|Reprezentacja & Wawrze|Gibraltar|Mauritius|
 |Botswana|Grenlandia|Ma Ote|
 |Wyspa Bouveta|Grenada|Mikronezja|
 |Brytyjskie Wyspy Dziewicze|Gwadelupa|Mołdawia
@@ -110,9 +110,9 @@ Chiny|Marketplace nie jest włączona|Odsprzedawca włączony z wyjątkiem: dewe
 
 W krajach zarządzanych przez wydawców/deweloperów wypłata firmy Microsoft dla wydawców/deweloperów jest uwzględniana w wysokości opłaty sklepowej i wszelkich mających zastosowanie podatków, które mogą obejmować dowolne z następujących: podatku potrącania i sprzedaży, użycia, towarów i usług, wartości dodanej lub podobnych podatków od opłaty sklepowej.
 
-W odpowiednich krajach zarządzanych przez firmę Microsoft i odsprzedawcach wypłata firmy Microsoft dla wydawców/deweloperów jest uwzględniana w wysokości opłaty sklepowej i wszelkich podatków, które mogą obejmować dowolne z następujących podatków: Podatek od klienta końcowego, podatek potrąceniowy i sprzedaż, użycie, towary i usługi, wartość dodana lub podobne podatki od opłaty sklepowej. [Raporty](payout-statement.md) udostępniane wydawcom/deweloperom przez firmę Microsoft identyfikują kwoty tych podatków. 
+W odpowiednich krajach zarządzanych przez firmę Microsoft i odsprzedawcach wypłata firmy Microsoft dla wydawców/deweloperów jest uwzględniana w wysokości opłaty sklepowej i wszelkich podatków, które mogą obejmować dowolne z następujących podatków: podatek od klienta końcowego, podatek potrąceniowy i sprzedaż, użycie, towary i usługi, wartość dodana lub podobne podatki od opłaty sklepowej. [Raporty](payout-statement.md) udostępniane wydawcom/deweloperom przez firmę Microsoft identyfikują kwoty tych podatków. 
 
-Firma Microsoft zbiera podatek od opłat za sklep w następujących krajach, w których wydawcy/deweloperzy zdecydowali się udostępnić produkty/oferty do sprzedaży klientom Microsoft Marketplace:
+Firma Microsoft pobiera podatek od opłat za sklep w następujących krajach, w których wydawcy/deweloperzy zdecydowali się udostępnić produkty/oferty do sprzedaży klientom końcowi za pośrednictwem Microsoft Marketplace:
 
 |**Kraj**|**Komercyjna platforma handlowa**|**Consumer Marketplace**|
 |----------------|-----------------------------|-----------------------|
@@ -124,9 +124,9 @@ Firma Microsoft zbiera podatek od opłat za sklep w następujących krajach, w k
 
 ## <a name="commercial-marketplace-payout-scenarios"></a>Scenariusze wypłat na komercyjnej platformie handlowej
 
-### <a name="end-customer-taxation"></a>Podatek od klientów końcowych
+### <a name="end-customer-taxation"></a>Podatki dla klientów końcowych
 
-- Scenariusz 1: Klient w ofercie zakupów w kraju zarządzanych przez wydawcę
+- Scenariusz 1. Klient w ofercie zakupów w kraju zarządzanym przez wydawcę
 
   :::image type="content" source="images/tax/scenario-one.png" alt-text="Wykres przedstawiający sposób płatności wydawcy.":::
 
@@ -134,27 +134,27 @@ Firma Microsoft zbiera podatek od opłat za sklep w następujących krajach, w k
 
   :::image type="content" source="images/tax/scenario-two.png" alt-text="Wykres przedstawiający podatki w kraju zarządzanym przez firmę Microsoft":::
 
-- Scenariusz 3. Obcy wydawca dokonuje sprzedaży za granicę klientowi zarejestrowanego w UNII VAT znajdującego się w kraju zarządzanym przez firmę Microsoft
+- Scenariusz 3: Obcy wydawca dokonuje sprzedaży za granicę klientowi zarejestrowanego w UNII EUROPEJSKIEJ, znajdującego się w kraju zarządzanym przez firmę Microsoft
 
-  :::image type="content" source="images/tax/scenario-three.png" alt-text="Wykres przedstawiający wpływ ue-podatku VAT na podatek"::: 
+  :::image type="content" source="images/tax/scenario-three.png" alt-text="Wykres pokazujący wpływ podatku VAT w UE na podatek"::: 
 
-- Scenariusz 4. Wydawca obcy dokonuje sprzedaży krajowej klientowi znajdującego się w kraju zarządzanym przez firmę Microsoft lub w innym kraju klientowi w Niemczech
+- Scenariusz 4: Obcy wydawca dokonuje sprzedaży krajowej klientowi znajdującego się w kraju zarządzanym przez firmę Microsoft lub sprzedaży pozakrajowej klientowi w Niemczech
 
   :::image type="content" source="images/tax/scenario-four.png" alt-text="Wykres przedstawiający sposób obsługi podatku VAT":::
 
-- Scenariusz 5: Klient w ofercie zakupów w kraju zarządzanym przez firmę Microsoft, w przypadku której istnieje podatek od opłaty za usługę sklepu
+- Scenariusz 5: Klient w ofercie zakupów w kraju zarządzanych przez firmę Microsoft, w przypadku której istnieje podatek od opłaty za usługę sklepu
 
   :::image type="content" source="images/tax/scenario-five.png" alt-text="Wykres przedstawiający wpływ opłaty za usługę sklepu na podatek":::
 
 ### <a name="withholding-tax"></a>Podatku
 
-- Scenariusz 1: Obcy wydawca (bez odpowiednich korzyści podatkowych w profilu podatkowym) dokonuje sprzedaży klientowi w USA. 
+- Scenariusz 1: Obcy wydawca (bez żadnych odpowiednich korzyści podatkowych w profilu podatkowym) dokonuje sprzedaży dla klienta w USA. 
 
   :::image type="content" source="images/tax/withholding-one.png" alt-text="Wykres przedstawiający podatek potrącany bez podatku":::
 
-- Scenariusz 2: Obcy wydawca (z mającymi zastosowanie korzyściami podatkowymi w profilu podatkowym do zerowej stawki procentowej) z urzędem sprzedaży dla klienta w USA. 
+- Scenariusz 2. Obcy wydawca (z mającym zastosowanie korzyściami podatkowymi z profilu podatkowego do zerowej stawki procentowej) z płatnością na podstawie podatku dla klienta w USA. 
 
-  :::image type="content" source="images/tax/withholding-two.png" alt-text="Wykres przedstawiający podatek potrącany z podatkiem":::
+  :::image type="content" source="images/tax/withholding-two.png" alt-text="Wykres przedstawiający podatek potrącany z tytułu podatku":::
 
 ## <a name="next-steps"></a>Następne kroki
 

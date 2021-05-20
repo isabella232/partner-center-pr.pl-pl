@@ -10,16 +10,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3889d0af73cfc683f1d45737a136a8e0c5a42656
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: bca5c5ff58ae222d06ac0de5f4aebde13cd87b0c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794976"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153025"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Zarządzanie użytkownikami i licencjami w usłudze Partner Center for Microsoft Cloud Germany
 
-**Dotyczy:** Partner Center | Partner Center for Microsoft Cloud Germany
+**Dotyczy:** Partner Center for Microsoft Cloud Germany
 
 **Odpowiednie role:** Administrator globalny | Administrator konta
 
@@ -28,7 +28,7 @@ ms.locfileid: "109794976"
 >  
 > W przyszłości nowi klienci mogą korzystać z obecnie dostępnych regionów europejskich lub nowych regionów w Niemczech, gdy staną się dostępne. Aby uzyskać więcej informacji, zobacz [Microsoft to deliver cloud services from new datacenters in Germany (Firma Microsoft](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)może dostarczać usługi w chmurze z nowych centrów danych w Niemczech).
 
-W celu zachowania zgodności z niemieckimi przepisami prawnymi, które określają sposób zbierania i używania danych osób fizycznych, a także kluczowych standardów międzynarodowych, następujące możliwości zarządzania użytkownikami i licencjami nie są dostępne w usłudze Partner Center microsoft Cloud Germany. Zamiast tego możesz dodawać użytkowników i licencje oraz zarządzać nimi w witrynie Azure Portal dla usługi Microsoft Cloud w Niemczech lub w centrum administracyjnym usługi Office 365.
+W celu zachowania zgodności z niemieckimi przepisami i regulacjami prawnymi, które określają sposób zbierania i używania danych osób fizycznych oraz kluczowych standardów międzynarodowych, następujące funkcje zarządzania użytkownikami i licencjami nie są dostępne w usłudze Partner Center microsoft Cloud Germany. Zamiast tego możesz dodawać użytkowników i licencje oraz zarządzać nimi w witrynie Azure Portal dla usługi Microsoft Cloud w Niemczech lub w centrum administracyjnym usługi Office 365.
 
 Funkcja lub możliwość | Wykonywanie zadań w programie
 :--- | :---

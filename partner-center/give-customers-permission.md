@@ -1,6 +1,6 @@
 ---
-title: Zezwól klientom na kupowanie własnych usług w programie CSP
-description: Dowiedz się, w jaki sposób partnerzy programu CSP mogą umożliwić klientom kupowanie własnych usług, takich jak rezerwacje platformy Azure, w przypadku subskrypcji zakupionej dla nich w centrum partnerskim.
+title: Let customers buy their own services in CSP
+description: Dowiedz się, jak partnerzy programu CSP mogą pozwolić klientom na kupowanie własnych usług, takich jak rezerwacje platformy Azure, dla subskrypcji zakupionej dla nich w Partner Center.
 ms.topic: how-to
 ms.date: 05/18/2020
 ms.service: partner-dashboard
@@ -9,153 +9,150 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4feaa8cba8ba17f553b5e936dcf892ffbf7ccc82
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9fabd6bd188c9d596128672d9fce3321db9b5432
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441306"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150764"
 ---
-# <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Przyznaj klientom uprawnienia w centrum partnerskim do kupowania własnych produktów lub usług
+# <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Nadaj klientom uprawnienia Partner Center do kupowania własnych produktów lub usług
 
-**Odpowiednie role**
+**Odpowiednie role:** Agent administracyjny | Agent sprzedaży
 
-- Agent administracyjny
-- Agent sprzedaży
+W tym artykule pokazano, jak partner w programie Dostawca rozwiązań w chmurze (CSP) może udzielić klientowi uprawnień do zakupu niektórych własnych usług lub zasobów.
 
-W tym artykule pokazano, jak partner w programie dostawcy rozwiązań w chmurze (CSP) może przyznać klientowi uprawnienia do kupowania niektórych własnych usług lub zasobów.
+Partnerzy w programie CSP często używają Partner Center i jego platformy handlowej do kupowania rozwiązań i usług dla swoich klientów. Partnerzy zezwalają niektórym klientom na aprowizować te usługi bezpośrednio z Azure Portal.
 
-Partnerzy w programie CSP często używają Centrum partnerskiego i jego komercyjnej witryny Marketplace do kupowania rozwiązań i usług dla swoich klientów. Partnerzy umożliwiają klientom samodzielne udostępnianie tych usług bezpośrednio z poziomu Azure Portal.
+Oto przykład. Załóżmy, że kupujesz subskrypcję planu platformy Azure dla klienta w Partner Center. Następnie decydujesz się dodać inne zasoby lub usługi do tej subskrypcji w imieniu klienta. W takim przypadku możesz dodać rezerwacje platformy Azure do subskrypcji klienta (na przykład dodać wystąpienia zarezerwowane maszyn wirtualnych). Następnie możesz zezwolić klientowi na dalsze aprowizować zasoby rezerwacji platformy Azure samodzielnie w Azure Portal.
 
-Oto przykład. Załóżmy, że kupisz subskrypcję planu platformy Azure dla klienta w centrum partnerskim. Następnie zdecyduje się dodać inne zasoby lub usługi do tej subskrypcji w imieniu klienta. W takim przypadku można dodać rezerwacje platformy Azure do subskrypcji klienta (na przykład dodanie zarezerwowanych wystąpień maszyn wirtualnych). Następnie można umożliwić klientowi dalsze Inicjowanie obsługi zasobów usługi Azure Reservation w Azure Portal.
+Teraz dzięki funkcji **Uprawnień klienta** możesz zapewnić klientom więcej opcji samoobsługi dzięki zasobom platformy Azure. Włączając uprawnienia dla klienta, umożliwiasz klientom kupowanie własnych zasobów (na przykład kupowanie własnych rezerwacji platformy Azure).  
 
-Teraz dzięki funkcji **uprawnień klienta** możesz zapewnić klientom dodatkowe opcje samoobsługowego używania zasobów platformy Azure. Włączenie uprawnień dla klienta umożliwia klientom kupowanie własnych zasobów (np. kupowanie własnych rezerwacji platformy Azure).  
+## <a name="overview-of-customer-permissions-in-partner-center"></a>Omówienie uprawnień klientów w Partner Center
 
-## <a name="overview-of-customer-permissions-in-partner-center"></a>Przegląd uprawnień klienta w centrum partnerskim
+Użyj strony Konto **klienta,** aby włączyć (lub wyłączyć) uprawnienia klienta. Obecnie ta funkcja obsługuje:
 
-Użyj strony **konto** klienta, aby włączyć (lub wyłączyć) uprawnienia klienta. Obecnie ta funkcja obsługuje:
+- **Rezerwacje platformy Azure:** Włączenie tego uprawnienia umożliwia klientowi zakup własnych rezerwacji platformy Azure dla konkretnej subskrypcji platformy Azure, która została dla nich zakupiona.
 
-- **Rezerwacje platformy Azure:** Włączenie tego uprawnienia pozwala klientowi zakupić własne rezerwacje platformy Azure dla określonej subskrypcji platformy Azure, która została zakupiona.
+Przed włączeniem uprawnień klienta należy zwrócić uwagę na następujące ważne kwestie:
 
-Przed włączeniem uprawnień klienta należy zwrócić uwagę na następujące ważne punkty:
+- Domyślnie uprawnienia klienta są automatycznie wyłączane (wyłączone) w Partner Center.
 
-- Domyślnie uprawnienia klienta są automatycznie wyłączane (wyłączone) w centrum partnerskim.
+- Aby można było włączyć (lub wyłączyć) uprawnienia klienta, musisz mieć przypisaną rolę agenta administracyjnego w Partner Center.
 
-- Aby móc włączyć (lub wyłączyć) uprawnienia dla klienta, musisz mieć przypisaną rolę Agent administracyjny w centrum partnerskim.
+  Partnerzy przypisani do roli Agent sprzedaży lub Agent pomocy technicznej mają dostęp tylko do odczytu i nie mogą włączać ani wyłączać uprawnień klientów.
 
-  Partnerzy przypisani do roli agenta sprzedaży lub agenta pomocy technicznej mają dostęp tylko do odczytu i nie mogą włączać ani wyłączać uprawnień klienta.
+- Możesz włączyć (włączyć) uprawnienia dla dowolnego klienta, który wybierzesz.
 
-- Możesz włączyć (Włącz) uprawnienia dla dowolnego wybranego klienta.
+- Możesz włączyć (lub wyłączyć) uprawnienia klienta przy użyciu pulpitu nawigacyjnego Partner Center lub Partner Center [API.](/partner-center/develop/manage-customers)
 
-- Możesz włączyć (lub wyłączyć) uprawnienia klienta przy użyciu pulpitu nawigacyjnego Centrum partnerskiego lub [interfejsów API Centrum partnerskiego](/partner-center/develop/manage-customers).
+- Po włączeniu (włączeniu) uprawnień dla określonego klienta będziesz ponosić odpowiedzialność za wszystkie kolejne zakupy dokonane przez tego klienta. Jeśli klienci chcą wymienić, anulować lub odnowić dokonany zakup (lub chcą zmienić początkowy zakres rezerwacji), nie będą mogli tego zrobić samodzielnie. Musi poprosić Cię jako partnera o pomoc w wymianie, anulowaniu i odnowieniu zakupów lub późniejszym wprosieniu zmian w zakresie rezerwacji.  
 
-- Po włączeniu uprawnień (Włączanie) dla określonego klienta użytkownik jest zobowiązany do płacenia za kolejne zakupy dokonane przez tego klienta. Jeśli klienci chcą wymienić, anulować lub odnowić dokonane zakupy (lub chcą zmienić początkowy zakres rezerwacji), nie będą oni mogli tego robić. Muszą oni mieć pytania, jako partnera, w celu ułatwienia wymiany, anulowania i odnawiania zakupów lub wprowadzać późniejsze zmiany w zakresie rezerwacji.  
+- Po włączeniu uprawnień dla określonego klienta  klient nie będzie powiadamiany o kolejnych zakupach dokonanych przez klienta.
 
-- Po włączeniu uprawnień dla określonego klienta **nie** będziesz otrzymywać powiadomień o jakichkolwiek późniejszych zakupach dokonanych przez klienta.
-
-- Późniejsze zakupy dokonane przez klienta będą widoczne w centrum partnerskim wraz z wszelkimi zakupami dokonanymi przez Ciebie. Te zakupy można znaleźć na stronie **historia zamówienia** klienta, stronie **zastrzeżeń** lub w [**dzienniku aktywności**](activity-logs.md).
+- Późniejsze zakupy dokonane przez klienta będą wyświetlane w Partner Center wraz z dowolnymi zakupami dokonanym przez Ciebie. Te zakupy można znaleźć na stronie  Historia zamówień klienta, na stronie **Rezerwacje** lub w [**dzienniku aktywności.**](activity-logs.md)
 
 >[!NOTE]
-> Aby uzyskać informacje na temat cen, które klient będzie obciążany i jak pomóc klientom w zarządzaniu zakupami, zobacz [Pomoc dla klientów zarządzających rezerwacjami, które kupują](give-customers-permission.md#help-customers-manage-reservations-they-purchase).
+> Aby uzyskać informacje o cenach, które klient zapłaci, oraz o tym, jak pomóc klientom w zarządzaniu zakupami, zobacz Pomaganie klientom w zarządzaniu [rezerwacjami, które kupują.](give-customers-permission.md#help-customers-manage-reservations-they-purchase)
 
-## <a name="give-customers-permission-to-buy-their-own-azure-reservations"></a>Przyznaj klientom uprawnienia do kupowania własnych rezerwacji platformy Azure
+## <a name="give-customers-permission-to-buy-their-own-azure-reservations"></a>Nadaj klientom uprawnienia do zakupu własnych rezerwacji platformy Azure
 
-Rezerwacje platformy Azure to świetny sposób kupowania usług platformy Azure z obniżoną stawką. Aby dowiedzieć się więcej na temat korzyści z używania rezerwacji platformy Azure, zobacz [co to są Azure Reservations?](/azure/cost-management-billing/reservations/save-compute-costs-reservations)
+Rezerwacje platformy Azure to doskonały sposób na kupowanie usług platformy Azure po obniżonej cenie. Aby dowiedzieć się więcej na temat zalet rezerwacji platformy Azure, zobacz [Co to są rezerwacje platformy Azure?](/azure/cost-management-billing/reservations/save-compute-costs-reservations)
 
-Teraz masz możliwość kupowania rezerwacji platformy Azure w imieniu swoich klientów. Możesz też przyznać klientom uprawnienia do kupowania własnych rezerwacji platformy Azure.
+Teraz masz możliwość zakupu rezerwacji platformy Azure w imieniu klientów, co być może już robiliśmy. Możesz też udzielić klientom uprawnień do zakupu własnych rezerwacji platformy Azure.
 
 >[!NOTE]
-> Po nadaniu klientom uprawnień do zakupu własnych rezerwacji na platformę Azure Pomóż im zarządzać wszelkimi zakupionymi rezerwacjami. Aby uzyskać więcej informacji, zobacz [Pomoc dla klientów zarządzanie rezerwacjami, które kupują](give-customers-permission.md#help-customers-manage-reservations-they-purchase).
+> Po nadasz klientom uprawnienia do zakupu własnych rezerwacji platformy Azure, pomóż im zarządzać wszystkimi zakupami rezerwacji. Aby uzyskać więcej informacji, zobacz [Pomaganie klientom w zarządzaniu rezerwacjami, które kupują.](give-customers-permission.md#help-customers-manage-reservations-they-purchase)
 
-### <a name="to-enable-customers-to-buy-their-own-azure-reservations"></a>Aby umożliwić klientom kupowanie własnych rezerwacji platformy Azure
+### <a name="to-enable-customers-to-buy-their-own-azure-reservations"></a>Aby umożliwić klientom zakup własnych rezerwacji platformy Azure
 
-1. Upewnij się, że klient ma istniejący plan platformy Azure lub subskrypcję globalną platformy Azure, która została zakupiona w ich imieniu.
+1. Sprawdź, czy klient ma istniejący plan platformy Azure lub globalną subskrypcję platformy Azure kupioną w jego imieniu.
 
-2. Sprawdź, czy klient ma przypisaną rolę **właściciela** dla tej subskrypcji.
+2. Sprawdź, czy klientowi przypisano **rolę właściciela** dla tej subskrypcji.
 
-3. Włącz uprawnienia klienta **(Włącz tę funkcję),** aby zakupić własne rezerwacje platformy Azure.
+3. Włącz uprawnienia klienta (włącz tę **funkcję),** aby kupić własne rezerwacje platformy Azure.
 
-Każdy krok zostanie wyświetlony poniżej.
+Każdy krok jest wyświetlany poniżej.
 
-### <a name="verify-the-customer-has-an-existing-azure-subscription"></a>Sprawdź, czy klient ma istniejącą subskrypcję platformy Azure
+### <a name="verify-the-customer-has-an-existing-azure-subscription"></a>Sprawdzanie, czy klient ma istniejącą subskrypcję platformy Azure
 
-Przed udzieleniem klientom uprawnień do kupowania własnych rezerwacji na platformę Azure należy sprawdzić, czy klient ma istniejący plan platformy Azure lub subskrypcję globalną platformy Azure. Jeśli klient nie wyświetli bieżącej subskrypcji platformy Azure w centrum partnerskim, musisz kupić subskrypcję dla nich przed włączeniem ich uprawnień.
+Zanim udzielisz klientom uprawnień do zakupu własnych rezerwacji platformy Azure, musisz sprawdzić, czy klient ma istniejący plan platformy Azure lub subskrypcję globalną platformy Azure. Jeśli klient nie pokazuje bieżącej subskrypcji platformy Azure w Partner Center, musisz kupić dla nich subskrypcję przed włączeniem uprawnień klienta.
 
-- Aby sprawdzić, czy klient ma już subskrypcję platformy Azure, zaloguj się do pulpitu nawigacyjnego Centrum partnerskiego, a następnie wybierz opcję **CSP** , a następnie kliknij pozycję **klienci**. Wybierz określonego klienta z listy. Następnie wybierz pozycję **subskrypcje** i poszukaj wszelkich subskrypcji opartych na użyciu usługi Azure plan lub Azure Global.
+- Aby sprawdzić, czy klient ma już subskrypcję platformy Azure, zaloguj się do pulpitu nawigacyjnego usługi Partner Center, a następnie wybierz pozycję **CSP,** a następnie **pozycję Klienci.** Wybierz określonego klienta z listy. Następnie wybierz **pozycję Subskrypcje** i poszukaj dowolnych subskrypcji opartych na użyciu dla planu platformy Azure lub globalnej platformy Azure.
 
-- Jeśli klient nie ma istniejącej subskrypcji platformy Azure, możesz kupić dla nich subskrypcję. Zobacz [kupowanie planu platformy Azure](purchase-azure-plan.md).
+- Jeśli klient nie ma istniejącej subskrypcji platformy Azure, możesz kupić dla nich subskrypcję. Zobacz [Zakup planu platformy Azure.](purchase-azure-plan.md)
 
-### <a name="verify-the-customer-has-been-assigned-the-correct-role-in-azure"></a>Sprawdź, czy klient został przypisany do poprawnej roli na platformie Azure
+### <a name="verify-the-customer-has-been-assigned-the-correct-role-in-azure"></a>Sprawdź, czy klientowi przypisano prawidłową rolę na platformie Azure
 
-Po zweryfikowaniu, że klient ma istniejącą subskrypcję platformy Azure, należy również sprawdzić, czy użytkownicy usługi Key powiązani z klientem mają przypisaną prawidłową rolę **właściciela** dla tej subskrypcji platformy Azure. Jest to dostęp oparty na rolach (RBAC) wymagany przez klienta do kupowania rezerwacji platformy Azure dla zakupionej subskrypcji platformy Azure.
+Po sprawdzeniu, czy klient ma istniejącą subskrypcję platformy Azure, musisz również sprawdzić,  czy kluczom skojarzonym z klientem przypisano prawidłową rolę właściciela dla tej subskrypcji platformy Azure. Jest to dostęp oparty na rolach (RBAC), który klient musi kupić rezerwacje platformy Azure dla zakupionej subskrypcji platformy Azure.
 
-Niektórzy partnerzy mogą mieć już przypisaną rolę **właściciela** do klientów chcących aktywnie zarządzać własnymi zasobami platformy Azure i inicjować do nich udostępnianie. Jeśli masz już przypisany stan **właściciela** do klienta w celu zarządzania poprzednimi subskrybowanymi subskrypcjami, możesz pominąć ten krok.  
+Niektórzy partnerzy mogą już przypisać rolę **właściciela** klientom, którzy chcą aktywnie zarządzać własnymi zasobami platformy Azure i aprowizować je. Jeśli masz już przypisany stan **Właściciel** do klienta w celu zarządzania wcześniejszymi subskrypcjami, które zostały dla nich zakupione, możesz pominąć ten krok.  
 
 > [!IMPORTANT]
-> Jeśli klient nie ma przypisanej roli **właściciela** , otrzyma błąd w Azure Portal uniemożliwić im kupowanie rezerwacji platformy Azure.
+> Jeśli klientowi nie przypisano  roli Właściciel, zostanie wyświetlony błąd w Azure Portal uniemożliwiający mu zakup rezerwacji platformy Azure.
 
-Aby sprawdzić, czy klient ma przypisaną rolę **właściciela** dla subskrypcji platformy Azure:
+Aby sprawdzić, czy klientowi przypisano **rolę właściciela** dla subskrypcji platformy Azure:
 
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
+1. Zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard)
 
-2. Wybierz pozycję **dostawca usług kryptograficznych**, a następnie pozycję **klienci** i wybierz określonego klienta.
+2. Wybierz **pozycję CSP**, **a następnie pozycję Klienci** i wybierz określonego klienta.
 
-3. Wybierz **subskrypcje** dla tego klienta i Znajdź określoną subskrypcję platformy Azure.
+3. Wybierz **pozycję Subskrypcje** dla tego klienta i znajdź określoną subskrypcję platformy Azure.
 
 4. Wybierz przycisk **Zarządzaj** obok subskrypcji tego klienta. Spowoduje to otwarcie [Azure Portal](https://portal.azure.com/).
 
-5. Aby przypisać rolę **właściciela** do określonego użytkownika, wykonaj następujące kroki, [Aby przypisać użytkownika jako administratora](/azure/cost-management-billing/manage/add-change-subscription-administrator#to-assign-a-user-as-an-administrator).
+5. Aby przypisać **rolę właściciela** do określonego użytkownika, wykonaj następujące kroki, aby przypisać użytkownika jako [administratora.](/azure/cost-management-billing/manage/add-change-subscription-administrator#to-assign-a-user-as-an-administrator)
 
-### <a name="turn-on-or-turn-off-customer-permissions-to-purchase-their-own-azure-reservations"></a>Włącz lub Wyłącz uprawnienia klienta, aby kupić własne rezerwacje platformy Azure
+### <a name="turn-on-or-turn-off-customer-permissions-to-purchase-their-own-azure-reservations"></a>Włączanie lub wyłączanie uprawnień klienta w celu zakupu własnych rezerwacji platformy Azure
 
-Po zweryfikowaniu, że klient ma istniejącą subskrypcję platformy Azure, a użytkownicy mają przypisaną rolę **właściciela** dla tej subskrypcji, możesz włączyć (włączyć) uprawnienia klienta. Możesz również użyć tych kroków, aby wyłączyć (wyłączyć) uprawnienia klienta. Uprawnienia klientów można włączać lub wyłączać za pomocą pulpitu nawigacyjnego Centrum partnerskiego lub [interfejsów API Centrum partnerskiego](/partner-center/develop/manage-customers).
+Po sprawdzeniu, czy klient ma istniejącą subskrypcję platformy Azure, a użytkownikom przypisano rolę właściciela dla tej subskrypcji, możesz włączyć (włączyć) uprawnienia klienta.  Możesz również użyć tych kroków, aby wyłączyć (wyłączyć) uprawnienia klienta. Uprawnienia klientów można włączać lub wyłączać przy użyciu pulpitu nawigacyjnego Partner Center lub [Partner Center API.](/partner-center/develop/manage-customers)
 
-Aby włączyć (lub wyłączyć) uprawnienia klienta w centrum partnerskim:
+Aby włączyć (lub wyłączyć) uprawnienia klienta w Partner Center:
 
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard)Centrum partnerskiego.
+1. Zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard)
 
-2. W menu nawigacji po lewej stronie wybierz **dostawcę CSP**, a następnie pozycję **klienci**. Zostanie wyświetlona lista klientów.
+2. W menu nawigacji po lewej stronie wybierz pozycję **CSP**, a następnie **pozycję Klienci.** Zostanie wyświetlona lista klientów.
 
 3. Wybierz konkretną nazwę klienta.
 
-4. Wybierz pozycję **konto** z menu klient. Zostanie wyświetlona strona **konto** klienta.
+4. Wybierz **pozycję Konto** z menu klienta. Zostanie **wyświetlona strona Konto** klienta.
 
-5. Znajdź obszar **uprawnienia klienta** w dolnej części strony.
+5. Znajdź **obszar Uprawnienia** klienta w dolnej części strony.
 
-   :::image type="content" source="images/give-customers-permission-reservations.png" alt-text="Uprawnienia klienta na stronie konta." border="true":::
+   :::image type="content" source="images/give-customers-permission-reservations.png" alt-text="Uprawnienia klienta na stronie Konto." border="true":::
 
-6. W obszarze **rezerwacje platformy Azure** Znajdź opcję **Zezwalaj klientowi na zakup** .
+6. W **obszarze Rezerwacje platformy Azure** znajdź opcję **Zezwalaj klientowi na zakup.**
 
-7. Aby włączyć uprawnienia klienta, Przenieś przełącznik obok tej opcji do pozycji **włączone** . Aby wyłączyć uprawnienia klienta, przesuń przełącznik na pozycję OFF ( **Wyłącz** ).
+7. Aby włączyć uprawnienia klienta, przenieś przełącznik obok tej opcji do **pozycji** Wł. Aby wyłączyć uprawnienia klienta, przenieś przełącznik do **pozycji** Wyłączone.
 
 >[!NOTE]
-> Aby dowiedzieć się, co się dzieje w przypadku włączenia uprawnień klienta do zakupu własnych rezerwacji platformy Azure, zobacz [Omówienie uprawnień klientów w centrum partnerskim](give-customers-permission.md#overview-of-customer-permissions-in-partner-center).
+> Aby dowiedzieć się, co jeszcze się dzieje po włączeniu uprawnień klienta do zakupu własnych rezerwacji platformy Azure, zobacz Overview of customer permissions in Partner Center (Omówienie uprawnień klientów w [usłudze Partner Center](give-customers-permission.md#overview-of-customer-permissions-in-partner-center).
 >
->Po włączeniu lub wyłączeniu uprawnień klienta dziennik aktywności rejestruje każdą akcję. (Ten dziennik jest dostępny po wybraniu ikony koła zębatego w górnej części pulpitu nawigacyjnego Centrum partnerskiego). Po włączeniu lub wyłączeniu uprawnień klienta akcja zostanie wyświetlona w ramach opcji **Utwórz uprawnienia do zakupu klienta** lub **Usuń uprawnienia zakupu klienta** w dzienniku aktywności.
+>Po włączeniu (lub włączeniu) uprawnień klienta dziennik aktywności rejestruje każdą akcję. (Ten dziennik jest dostępny po wybraniu ikony koła zębatego w górnej części pulpitu Partner Center nawigacyjnego). Gdy włączysz lub wyłączysz uprawnienia klienta, akcja będzie wyświetlana jako Utwórz uprawnienia zakupu klienta lub Usuń uprawnienia zakupu klienta **w** dzienniku aktywności. 
 
-## <a name="help-customers-manage-reservations-they-purchase"></a>Pomóż klientom zarządzać rezerwacjami, które kupują
+## <a name="help-customers-manage-reservations-they-purchase"></a>Pomaganie klientom w zarządzaniu rezerwacjami, które kupują
 
-Po nadaniu klientom uprawnień do zakupu własnych rezerwacji na platformę Azure możesz pomóc im lepiej zarządzać wszelkimi zakupionymi zasobami. Klienci mogą zarządzać wieloma aspektami rezerwacji platformy Azure bezpośrednio z poziomu [Azure Portal](https://portal.azure.com/). Będą oni musieli pomóc Ci w zarządzaniu kilkoma innymi aspektami rezerwacji platformy Azure, które kupują w ramach subskrypcji programu CSP.  
+Gdy udzielisz klientom uprawnień do zakupu własnych rezerwacji platformy Azure, możesz pomóc im lepiej zarządzać wszystkimi zakupiatymi zasobami. Klienci mogą zarządzać wieloma aspektami samych rezerwacji platformy Azure bezpośrednio z Azure Portal [.](https://portal.azure.com/) Będą oni potrzebować Twojej pomocy w zarządzaniu kilkoma innymi aspektami rezerwacji platformy Azure, które kupują w ramach subskrypcji programu CSP.  
 
-Pomóż klientom dowiedzieć się więcej o zarządzaniu tymi aspektami rezerwacji platformy Azure:
+Pomóż klientom zrozumieć więcej na temat zarządzania tymi aspektami rezerwacji platformy Azure:
 
-- Ceny klientów będą obciążani rezerwacjami platformy Azure
+- Ceny, za które klienci płacą za rezerwacje platformy Azure
 - Jak klienci mogą zoptymalizować użycie rezerwacji platformy Azure
-- Co się stanie, gdy klienci kupują rezerwacje z zakresem udostępnionym?
-- Co się stanie, jeśli klienci chcą zmienić, anulować i odnowić rezerwację lub zmienić jej zakres?
+- Co się stanie, gdy klienci kupią rezerwacje w zakresie udostępnionym?
+- Co się stanie, jeśli klienci będą chcieli zmienić, anulować i odnowić rezerwację lub zmienić jej zakres?
 
-**Ceny klientów będą płacenia za rezerwacje.** Klient będzie kupował rezerwacje platformy Azure w oparciu o subskrypcję zakupionej wcześniej na koncie rozliczeniowym partnera CSP. Cena klienta dla wszelkich rezerwacji systemu Azure, które kupują w oparciu o tę subskrypcję, jest również ustawiana przez użytkownika. Cena ta może być różna od ceny bezpośrednio w sieci Web, która widzi klient w Azure Portal.
+**Ceny, z których klienci będą płacić za rezerwacje.** Klient będzie kupować rezerwacje platformy Azure na podstawie wcześniej zakupionej subskrypcji na koncie rozliczeniowym partnera CSP. Cena wszystkich rezerwacji platformy Azure kupowanych w oparciu o tę subskrypcję jest również ustawiana przez klienta. Ta cena może różnić się od ceny bezpośredniej dla sieci Web, które klient widzi w Azure Portal.
 
-**Jak klienci mogą zoptymalizować użycie rezerwacji.** Niektórzy klienci mogą skorzystać z dodatkowych informacji na temat optymalizowania użycia rezerwacji lub sposobu przypisywania początkowego zakresu rezerwacji podczas zakupu. Aby uzyskać więcej informacji, poprosimy klientów o odczytywanie [rezerwacji dla zasobów platformy Azure](/azure/cost-management-billing/reservations/manage-reserved-vm-instance).
+**Jak klienci mogą zoptymalizować użycie rezerwacji.** Niektórzy klienci mogą skorzystać z zalet uczenia się więcej o tym, jak zoptymalizować użycie rezerwacji lub jak przypisać początkowy zakres rezerwacji podczas zakupu. Aby uzyskać więcej informacji, poproś klientów o przeczytanie [tematu Zarządzanie rezerwacjami zasobów platformy Azure.](/azure/cost-management-billing/reservations/manage-reserved-vm-instance)
 
-**Co się stanie, gdy klient kupi rezerwację z zakresem udostępnionym?** Gdy klienci kupują rezerwację w oparciu o wcześniejszą subskrypcję dostawcy CSP i przypisująsz zakres współużytkowany do tej rezerwacji, wszystkie rabaty, które klient otrzymał przez dostawcę usług kryptograficznych, zostaną zastosowane do dopasowania użycia dla wszystkich subskrypcji, których Partner CSP zakupił dla tego klienta.
+**Co się stanie, gdy klient zakupi rezerwację w zakresie udostępnionym?** Gdy klienci kupują rezerwację na podstawie poprzedniej subskrypcji programu CSP i przypisują jej zakres udostępniony, wszelkie rabaty, które klient otrzymał, będą dotyczyć pasującego użycia dla wszystkich subskrypcji zakupionych dla tego klienta przez partnera CSP.
 
-**Co powinni robić Klienci, jeśli chcą wymienić, anulować lub odnowić kupione zakupy lub zmienić początkowy zakres rezerwacji?** Klienci muszą poproś ich partnera o zmianę zakresu początkowego rezerwacji. Potrzebują także pomocy partnera w zakresie wymiany, anulowania lub odnawiania rezerwacji. Nie mogą oni wykonywać tych zadań przy użyciu rezerwacji w oparciu o subskrypcje zakupione dla nich przez partnera CSP.
+**Co powinni zrobić klienci, jeśli chcą wymienić, anulować lub odnowić dokonany zakup lub zmienić początkowy zakres rezerwacji?** Klienci muszą poprosić partnera o pomoc w zmianie początkowego zakresu rezerwacji. Potrzebują oni również pomocy partnera w wymianie, anulowaniu lub odnowieniu rezerwacji. Nie mogą oni samodzielnie wykonywać tych zadań z rezerwacjami opartymi na subskrypcjach zakupionych dla nich przez partnera CSP.
 
 ## <a name="next-steps"></a>Następne kroki
 
 - [Kupowanie rezerwacji platformy Azure w imieniu klientów](azure-reservations-buying.md)
 
-- [Centrum partnerskie — sprzedawanie rezerwacji firmy Microsoft](azure-reservations.md)
+- [Partner Center — sprzedaż rezerwacji firmy Microsoft](azure-reservations.md)
 
 - [Zarządzanie rezerwacjami platformy Azure w imieniu klientów](azure-reservations-manage.md)

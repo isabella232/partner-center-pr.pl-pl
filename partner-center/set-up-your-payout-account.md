@@ -1,18 +1,18 @@
 ---
-title: Konfigurowanie konta do wypłaty & formularzy podatkowych — komercyjna platforma handlowa firmy Microsoft
-description: Aby otrzymywać pieniądze ze sprzedaży ofert na platformie handlowej, dowiedz się, jak skonfigurować konto wypłaty i wypełnić niezbędne formularze podatkowe.
+title: Konfigurowanie konta do wypłaty & formularzy podatkowych — platforma handlowa firmy Microsoft
+description: Aby otrzymywać pieniądze z oferty sprzedaży na platformie handlowej, dowiedz się, jak skonfigurować konto wypłaty i wypełnić niezbędne formularze podatkowe.
 ms.topic: conceptual
-ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 255ae28af5b29645b06ad0ae6a1f9660ad334c3c
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2dbbab72ea68246bf0cb99d57a5ce3640f25c867
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854847"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152923"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Konfigurowanie konta do wypłaty i formularzy podatkowych
 
@@ -20,10 +20,10 @@ ms.locfileid: "109854847"
 
 Aby otrzymywać pieniądze ze sprzedaży ofert na platformie handlowej, musisz skonfigurować konto wypłaty i wypełnić niezbędne formularze podatkowe w Partner Center [.](https://partner.microsoft.com/dashboard)
 
-Jeśli planujesz tylko wyświetlić listę bezpłatnych ofert (i nie planujesz oferować zakupów w aplikacji ani korzystać z usługi Microsoft Advertising), nie musisz konfigurowanie konta wypłaty ani wypełnianie formularzy podatkowych. Jeśli później zmienisz zdanie i zdecydujesz, że chcesz sprzedawać oferty (lub dodatki), możesz skonfigurować konto wypłaty i wypełnić formularze podatkowe w tym czasie. Nie będzie można przesyłać żadnych płatnych ofert ani dodatków do momentu ukończenia konta wypłaty i profilu podatkowego.
+Jeśli planujesz tylko wyświetlić listę bezpłatnych ofert (i nie planujesz oferować zakupów w aplikacji ani korzystać z usługi Microsoft Advertising), nie musisz konfigurowanie konta wypłaty ani wypełnianie formularzy podatkowych. Jeśli później zmienisz zdanie i zdecydujesz, że chcesz sprzedawać oferty (lub dodatki), możesz skonfigurować konto wypłaty i wypełnić formularze podatkowe w tym czasie. Nie będzie można przesyłać żadnych płatnych ofert ani dodatków, dopóki nie zostanie ukończone konto wypłaty i profil podatkowy.
 
 > [!NOTE]
-> Na niektórych rynkach wydawcy mogą przesyłać tylko bezpłatne oferty. Jeśli Twoje konto jest zarejestrowane na jednym z tych rynków, nie będziesz mieć możliwości skonfigurowania konta wypłaty.
+> Na niektórych rynkach wydawcy mogą przesłać tylko bezpłatną ofertę. Jeśli Twoje konto jest zarejestrowane na jednym z tych rynków, nie będziesz mieć możliwości skonfigurowania konta do wypłaty.
 
 Po skonfigurowaniu konta należy wykonać dwie czynności, zanim będzie można sprzedawać ofertę (lub dodatki) na platformie handlowej:
 
@@ -31,7 +31,7 @@ Po skonfigurowaniu konta należy wykonać dwie czynności, zanim będzie można 
 - [Konfigurowanie konta wypłaty](#payout-account)
 
 > [!NOTE]
-> Aby uzyskać szczegółowe informacje o tym, jak i kiedy będziesz otrzymywać płatności za pieniądze, które oferujesz, zobacz Getting paid in the commercial marketplace (Uzyskiwanie płatności na [platformie handlowej).](marketplace-get-paid.md)
+> Aby uzyskać szczegółowe informacje o tym, jak i kiedy będzie opłacana pieniądze z oferty, zobacz Getting paid in the commercial marketplace (Uzyskiwanie płatności [na platformie handlowej).](marketplace-get-paid.md)
 
 ## <a name="tax-forms"></a>Formularze podatkowe
 
@@ -39,14 +39,14 @@ Swoim profilem podatkowym i formularzami podatkowymi zarządzasz na stronie **Wy
 
 ### <a name="create-or-update-your-tax-profile"></a>Tworzenie lub aktualizowanie profilu podatkowego
 
-Najpierw należy utworzyć profil podatkowy i przypisać go do programów, w których uczestniczysz. Aby utworzyć lub zaktualizować  profil podatkowy w u Partner Center, należy wykonać poniższe Partner Center. Formularze podatkowe można wypełnić i przesłać w formie elektronicznej na Partner Center nawigacyjnym. W większości przypadków nie trzeba drukować ani wysyłać żadnych formularzy pocztą e-mail.
+Najpierw należy utworzyć profil podatkowy i przypisać go do programów, w których uczestniczysz. Aby utworzyć lub zaktualizować  profil podatkowy w u Partner Center, należy wykonać poniższe Partner Center. Formularze podatkowe można wypełnić i przesłać w formie elektronicznej na pulpicie Partner Center nawigacyjnym. W większości przypadków nie trzeba drukować ani wysyłać żadnych formularzy pocztą e-mail.
 
 > [!IMPORTANT]
-> Różne kraje i regiony mają różne wymagania podatkowe. Dokładna kwota, którą należy zapłacić w podatkach, zależy od krajów i regionów, w których sprzedajesz swoją ofertę. Zobacz umowę [wydawcy Microsoft Azure Marketplace,](https://go.microsoft.com/fwlink/p/?LinkID=699560) aby dowiedzieć się, w których krajach/regionach firma Microsoft remituje sprzedaż i korzystać z podatku w Twoim imieniu. W innych krajach/regionach, w zależności od tego, gdzie jest zarejestrowana rejestracja, może być konieczne pominięcie sprzedaży i użycie podatku dla sprzedaży oferty bezpośrednio do lokalnego urzędu skarbowego. Ponadto przychody ze sprzedaży aplikacji mogą być rozliczane jako dochód. Zdecydowanie zachęcamy do skontaktowania się z odpowiednim urzędem w danym kraju lub regionie, co może pomóc w ustaleniu odpowiednich informacji podatkowych dla działań na platformie handlowej.
+> Różne kraje i regiony mają różne wymagania podatkowe. Dokładna kwota, którą należy zapłacić w podatkach, zależy od krajów i regionów, w których sprzedajesz swoją ofertę. Zobacz umowę [Microsoft Azure Marketplace Publisher,](/legal/marketplace/msft-publisher-agreement) aby dowiedzieć się, w których krajach/regionach firma Microsoft remituje sprzedaż i korzystać z podatku w Twoim imieniu. W innych krajach/regionach, w zależności od tego, gdzie jest zarejestrowana, może być konieczne pominięcie sprzedaży i użycie podatku dla sprzedaży oferty bezpośrednio do lokalnego urzędu skarbowego. Ponadto ostępuje sprzedaż aplikacji, która otrzymujesz, może być rozliczana jako dochód. Zdecydowanie zachęcamy do skontaktowania się z odpowiednim urzędem dla Danego kraju lub regionu, który może pomóc w ustaleniu odpowiednich informacji podatkowych dla działań na platformie handlowej.
 
 1. Na [pulpicie Partner Center wybierz](https://partner.microsoft.com/dashboard)ikonę koła zębatego Ustawienia w prawym górnym rogu, a następnie **pozycję Ustawienia konta.** 
 
-2. W menu nawigacji po lewej stronie wybierz pozycję **Wypłaty i podatek,** a następnie wybierz **pozycję Wypłaty i przypisania podatkowe.**
+2. W menu nawigacji po lewej stronie wybierz pozycję **Wypłata i podatek,** a następnie wybierz **pozycję Wypłaty i przypisania podatkowe.**
 
 3. Wybierz kombinację programu i identyfikatora sprzedawcy, dla którego chcesz skonfigurować informacje podatkowe.
 
@@ -59,29 +59,29 @@ Najpierw należy utworzyć profil podatkowy i przypisać go do programów, w kt�
 7. W zależności od wyborów w kroku 6 zostanie wyświetlony monit o podanie informacji podatkowych wymaganych dla danego kraju/regionu.
 
    > [!NOTE]
-   > Niezależnie od kraju/regionu, w którym znajduje się jego kraj/region, musisz wypełnić formularze podatkowe, Stany Zjednoczone w celu sprzedaży dowolnych ofert lub dodatków za pośrednictwem platformy handlowej. Wydawcy, którzy spełniają Stany Zjednoczone wymagań dotyczących rezydencji, muszą wypełnić formularz IRS W-9. Inni wydawcy spoza Stany Zjednoczone muszą wypełnić formularz IRS W-8. Te formularze można wypełniać online po wypełnieniu profilu podatkowego.
+   > Niezależnie od kraju/regionu, w którym znajduje się kraj/region zamieszkania, musisz wypełnić formularze podatkowe, Stany Zjednoczone w celu sprzedaży dowolnej oferty lub dodatków za pośrednictwem platformy handlowej. Wydawcy, którzy spełniają Stany Zjednoczone wymagań dotyczących rezydencji, muszą wypełnić formularz IRS W-9. Inni wydawcy spoza Stany Zjednoczone muszą wypełnić formularz IRS W-8. Te formularze można wypełniać online podczas wypełniania profilu podatkowego.
 
 ### <a name="withholding-rates"></a>Stawki potrącone
 
-Informacje, które przesyłasz w formularzach podatkowych, określają odpowiednią stawkę potrącenia podatku. Stawka potrącania ma zastosowanie tylko do sprzedaży w Stany Zjednoczone; sprzedaż dokonana w lokalizacjach innych niż USA nie podlega wstrzymaniu. Stawki potrącania różnią się, ale w przypadku większości wydawców zarejestrowanych poza Stany Zjednoczone stawka domyślna wynosi 30%. Możesz zmniejszyć tę stawkę, jeśli twój kraj/region wyraził zgodę na podatek dochodowy od Stany Zjednoczone.
+Informacje, które można przesłać w formularzach podatkowych, określają odpowiednią stawkę potrącenia podatku. Stawka potrącania ma zastosowanie tylko do sprzedaży w Stany Zjednoczone; sprzedaż dokonana w lokalizacjach spoza Stanów Zjednoczonych nie podlega potrącaniom. Stawki potrącania różnią się, ale w przypadku większości wydawców zarejestrowanych poza Stany Zjednoczone domyślna stawka wynosi 30%. Możesz zmniejszyć tę stawkę, jeśli kraj/region uzgodnił podatek dochodowy z Stany Zjednoczone.
 
-### <a name="tax-treaty-benefits"></a>Korzyści z podatku
+### <a name="tax-treaty-benefits"></a>Korzyści z tytułu podatku
 
-Jeśli jesteś poza Stany Zjednoczone, możesz skorzystać z korzyści podatkowych. Korzyści te różnią się w zależności od kraju/regionu i mogą pozwolić na zmniejszenie kwoty podatków, która jest wstrzymywana na platformie handlowej. Korzyści podatkowe można uzyskać, wypełniając część II formularza W-8BEN. Zalecamy komunikowanie się z odpowiednimi zasobami w twoim kraju lub regionie, aby określić, czy te korzyści mają zastosowanie do Ciebie.
+Jeśli jesteś poza Stany Zjednoczone, możesz skorzystać z korzyści podatkowych. Te korzyści różnią się w zależności od kraju/regionu i mogą pozwolić na zmniejszenie kwoty podatków, którą platforma handlowa wstrzymuje. Możesz uzyskać korzyści podatkowe, wypełniając część II formularza W-8BEN. Zalecamy komunikowanie się z odpowiednimi zasobami w twoim kraju lub regionie, aby określić, czy te korzyści mają zastosowanie do Ciebie.
 
 > [!NOTE]
-> Numer Stany Zjednoczone (ITIN) nie jest wymagany do otrzymywania płatności od firmy Microsoft ani do otrzymywania korzyści podatkowych.
+> Numer identyfikacyjny Stany Zjednoczone indywidualnego (ITIN) nie jest wymagany do otrzymywania płatności od firmy Microsoft ani do otrzymywania korzyści podatkowych.
 
 ## <a name="payout-account"></a>Konto wypłaty
 
-Konto wypłaty to konto bankowe, do którego wysyłamy wpływy ze sprzedaży. Możesz wyświetlić wszystkie konta płatności wprowadzone na stronie Profil.
+Konto wypłaty to konto bankowe, do którego wysyłamy wpływy ze sprzedaży. Na stronie Profil możesz wyświetlić wszystkie konta płatności wprowadzone przez Ciebie.
 
 > [!NOTE]
-> Na niektórych rynkach można użyć usługi PayPal na koncie wypłaty. Aby dowiedzieć się, czy system PayPal jest obsługiwany na określonym rynku, zobacz [Progi,](payment-thresholds-methods-timeframes.md) metody i harmonogramy płatności oraz informacje dotyczące systemu [PayPal](#paypal-info) poniżej, aby uzyskać więcej szczegółów.
+> Na niektórych rynkach można użyć usługi PayPal na koncie wypłaty. Aby dowiedzieć się, czy płatność PayPal jest obsługiwana na określonym rynku, zobacz [Progi,](payment-thresholds-methods-timeframes.md) metody i harmonogramy płatności oraz poniższe informacje dotyczące systemu [PayPal,](#paypal-info) aby uzyskać więcej szczegółów.
 
 ### <a name="create-a-payment-profile"></a>Tworzenie profilu płatności
 
-1. W [Partner Center](https://partner.microsoft.com/dashboard)wybierz **ikonę koła zębatego** Ustawienia w prawym górnym rogu, a następnie **pozycję Ustawienia konta.**
+1. W [Partner Center](https://partner.microsoft.com/dashboard)wybierz ikonę koła **zębatego** Ustawienia w prawym górnym rogu, a następnie **pozycję Ustawienia konta.**
 2. Pod *nagłówkiem Wypłata i podatek* wybierz **pozycję Wypłata i przypisanie profilu podatkowego.**
 
     > [!NOTE]
@@ -89,11 +89,11 @@ Konto wypłaty to konto bankowe, do którego wysyłamy wpływy ze sprzedaży. Mo
 
 3. Wybierz formę płatności, która ma zostać skonfigurowana.
 
-4. Wybierz istniejący profil płatności lub wybierz pozycję Utwórz **nowy profil** płatności, aby utworzyć nowy profil dla wybranej formy płatności.
+4. Wybierz istniejący profil płatności lub wybierz pozycję **Utwórz nowy profil** płatności, aby utworzyć nowy profil dla wybranej formy płatności.
 
-### <a name="create-a-bank-based-payment-profile"></a>Tworzenie profilu płatności opartego na banku
+### <a name="create-a-bank-based-payment-profile"></a>Tworzenie profilu płatności bankowego
 
-Jeśli wybrano użycie konta bankowego w celu otrzymywania wypłat, należy wykonać następujący proces, aby skonfigurować konto bankowe.
+Jeśli wybrano używanie konta bankowego do otrzymywania wypłat, należy wykonać następujący proces, aby skonfigurować konto bankowe.
 
 1. Na stronie *Profil bankowy* podaj wymagane informacje o banku.
 2. Podaj szczegóły konta bankowego.
@@ -101,11 +101,11 @@ Jeśli wybrano użycie konta bankowego w celu otrzymywania wypłat, należy wyko
     > [!NOTE]
     > Pola, których używasz do podania informacji o koncie, akceptują tylko znaki alfanumeryczne.
 
-3. Podaj szczegóły szczegóły szczegóły szczegóły szczegóły.
-4. Po powrocie na *stronę Przypisywanie* profilu wybierz walutę, która ma być przez nas używania podczas wydawania wypłat.
+3. Podaj szczegóły szczegóły szczegóły szczegóły.
+4. Na stronie *Przypisywanie profilu* wybierz walutę, która ma być przez nas używania podczas wydawania wypłat.
 
     > [!WARNING]
-    > Upewnij się, że Twój bank akceptuje walutę wypłaty, która jest wybierana.
+    > Upewnij się, że Twój bank akceptuje wybieraną walutę wypłaty.
 
 5. Musisz wybrać profil płatności dla każdego programu, w ramach których uczestniczysz, chociaż możesz użyć tego samego profilu dla wielu programów.
 
@@ -116,9 +116,9 @@ Jeśli wybrano użycie konta bankowego w celu otrzymywania wypłat, należy wyko
 
 Aby upewnić się, że wypłata powiodła się, upewnij się, że:
 
-- Nazwa **właściciela konta wprowadzona** dla Twojego konta wypłaty w Partner Center musi być dokładnie taka sama jak nazwa skojarzona z Twoim kontem bankowym. Jeśli na przykład nazwa konta bankowego zawiera drugie imię, dodaj drugie imię do nazwy **właściciela konta**.
-- Wypłaty są przenoszone bezpośrednio z firmy Microsoft na konto bankowe w walucie USD.
-- Informacje o banku wprowadzone w Partner Center alfabetu łacińskiego są tłumaczone na znaki cyrylicy.
+- Nazwa **właściciela konta wprowadzona** dla Twojego konta wypłaty w Partner Center musi być dokładnie taka sama jak nazwa skojarzona z Twoim kontem bankowym. Jeśli na przykład nazwa konta bankowego zawiera drugie imię i nazwisko, dodaj drugie imię do nazwy **właściciela konta**.
+- Wypłaty są przenoszone bezpośrednio z firmy Microsoft na Konto bankowe w walucie USD.
+- Informacje o banku wprowadzone w Partner Center w alfabetach łacińskich są tłumaczone na znaki cyrylicy.
 
 ### <a name="editing-existing-payment-profiles"></a>Edytowanie istniejących profilów płatności
 
@@ -135,7 +135,7 @@ Jeśli musisz wprowadzić zmiany lub poprawić nieprawidłowe informacje, możes
 
 ### <a name="paypal-info"></a>Informacje o systemie PayPal
 
-W wybranych krajach i regionach możesz utworzyć konto płatności, wprowadzając informacje dotyczące konta PayPal. Jednak przed wybraniem usługi PayPal jako opcji konta płatności:
+W wybranych krajach i regionach możesz utworzyć konto płatności, wprowadzając informacje o systemie PayPal. Jednak przed wybraniem opcji PayPal jako konta płatności:
 
 - Sprawdź [progi, metody](payment-thresholds-methods-timeframes.md) i harmonogramy płatności, aby potwierdzić, czy payPal jest obsługiwaną metodą płatności w Twoim kraju lub regionie.
 - Zapoznaj się z następującymi często zadawanych pytaniami. W zależności od sytuacji konto PayPal może nie być najlepszą opcją dla Ciebie, a konto bankowe może być preferowane.
@@ -158,7 +158,7 @@ W niektórych krajach i regionach należy spełnić dodatkowe wymagania dotyczą
 
 #### <a name="pakistan"></a>Pakistan
 
-Form-R jest wymaganiem regulacyjną w zakresie bankowości internetowej w 1999 r. Służy ona do wskazywania przeznaczenia i przyczyny otrzymania środków od osób, które są od nich chłone. W związku z tym za każdym razem, gdy kwalifikujesz się do comiesięcznej wypłaty od firmy Microsoft, musisz przesłać formularz r do banku, zanim wypłata zostanie wydana na Twoim koncie. Skontaktuj się z lokalną gałęzią banku, aby uzyskać instrukcje dotyczące uzyskiwania kopii formularza Form-R.
+Form-R jest wymaganiem regulacyjną w zakresie bankowości internetowej. Służy ona do wskazywania przeznaczenia i przyczyny otrzymania środków od osób, które z nich odmówią. W związku z tym za każdym razem, gdy kwalifikujesz się do comiesięcznej wypłaty od firmy Microsoft, musisz przesłać formularz Form-R do banku, aby można było wytworzyć wypłatę na Twoim koncie. Skontaktuj się z lokalną gałęzią banku, aby uzyskać instrukcje dotyczące uzyskiwania kopii formularza Form-R.
 
 W każdym miesiącu musisz przesłać formularz Form-R do banku, który kwalifikujesz się do wypłaty. Jeśli na przykład oczekujesz wypłaty w każdym miesiącu roku, musisz przesłać formularz Form-R 12 razy (raz w miesiącu).
 
@@ -166,10 +166,10 @@ Po przesłaniu wypłaty do banku masz 30 dni na przesłanie formularza R. Jeśli
 
 #### <a name="russia"></a>Rosja
 
-Jeśli jesteś wydawcą, który mieszka w Rosyjskim, może być konieczne dostarczenie dokumentacji do banku, zanim bank zdeponuje środki na Twoim koncie. Jeśli kwalifikujesz się do otrzymania zapłaty, w wiadomości e-mail udostępnimy następującą dokumentację:
+Jeśli jesteś wydawcą, który mieszka w Rosyjskim, może być konieczne dostarczenie dokumentacji bankowi, zanim bank zdeponuje środki na Twoim koncie. Jeśli kwalifikujesz się do otrzymania zapłaty, w wiadomości e-mail udostępnimy następującą dokumentację:
 
 - Certyfikat akceptacji (AC) — zawiera kwotę wypłaty przeniesioną na Twoje konto.
-- [Microsoft Azure Marketplace Publisher Agreement](https://go.microsoft.com/fwlink/p/?LinkID=699560)  — podpisana kopia umowy wydawcy, która musi być podpisana jako licznik.
+- [Microsoft Azure Marketplace Publisher Agreement](/legal/marketplace/msft-publisher-agreement)  — podpisana kopia umowy wydawcy, która musi być podpisana jako licznik.
 
 Aby upewnić się, że wypłata powiodła się, upewnij się, że:
 
@@ -183,23 +183,23 @@ Aby upewnić się, że wypłata powiodła się, upewnij się, że:
 Jeśli jesteś wydawcą, który mieszka w Chylinie, może być konieczne dostarczenie dokumentacji do banku, zanim bank zdeponuje środki na Twoim koncie. Jeśli kwalifikujesz się do otrzymania zapłaty, w wiadomości e-mail udostępnimy następującą dokumentację:
 
 - Certyfikat akceptacji (AC) — zawiera kwotę wypłaty przeniesioną na Twoje konto.
-- [Microsoft Azure Marketplace Publisher Agreement](https://go.microsoft.com/fwlink/p/?LinkID=699560) — podpisana kopia umowy wydawcy, która musi być podpisana jako licznik.
-- Poprawka umowy (AA) — ten dokument może być używany przez twój bank do identyfikowania środków do wypłaty.
+- [Microsoft Azure Marketplace Publisher Agreement](/legal/marketplace/msft-publisher-agreement) — podpisana kopia umowy wydawcy, która musi być podpisana jako licznik.
+- Poprawka umowy (AA) — ten dokument może być używany przez bank do identyfikowania środków do wypłaty.
 
-Firma Microsoft udostępnia wszystkie trzy dokumenty przy pierwszej próbie wypłaty. W przypadku kolejnych wypłat otrzymasz tylko dokument AC. Zachowaj dokumenty ada i AA na wypadek, gdy będą potrzebne do otrzymywania przyszłych wypłat z banku.
+Firma Microsoft udostępnia wszystkie trzy dokumenty przy pierwszej próbie wypłaty. W przypadku kolejnych wypłat otrzymasz tylko dokument AC. Zachowaj dokumenty ADA i AA, jeśli będą potrzebne do otrzymania przyszłych wypłat z banku.
 
-### <a name="create-a-paypal-payment-profile"></a>Tworzenie profilu płatności w systemie PayPal
+### <a name="create-a-paypal-payment-profile"></a>Tworzenie profilu płatności PayPal
 
-Jeśli wybrano użycie konta bankowego w celu otrzymywania wypłat, należy wykonać następujący proces, aby skonfigurować konto bankowe.
+Jeśli wybrano używanie konta bankowego do otrzymywania wypłat, należy wykonać następujący proces, aby skonfigurować konto bankowe.
 
-1. Na *stronie PayPal* podaj wymagane informacje o twoim koncie PayPal.
+1. Na *stronie PayPal* podaj wymagane informacje o koncie PayPal.
 2. Podaj szczegóły swojego konta PayPal.
 
     > [!NOTE]
     > Pola, których używasz do podania informacji o koncie, akceptują tylko znaki alfanumeryczne.
 
-3. Podaj szczegóły szczegóły szczegóły szczegóły szczegóły.
-4. Po powrocie na *stronę Przypisywanie* profilu wybierz walutę, która ma być przez nas używania podczas wydawania wypłat.
+3. Podaj szczegóły szczegóły szczegóły szczegóły.
+4. Na stronie *Przypisywanie profilu* wybierz walutę, która ma być przez nas używania podczas wydawania wypłat.
 5. Musisz wybrać profil płatności dla każdego programu, w ramach których uczestniczysz, chociaż możesz użyć tego samego profilu dla wielu programów.
 6. Wybierz pozycję Prześlij, aby zapisać zmiany.
 

@@ -1,92 +1,87 @@
 ---
-title: Raport dotyczący użycia usługi Partner Center Insights
+title: Raport użycia usługi Dynamics Insights Centrum partnerskiego
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Zobacz, co jest potrzebne, i w jaki sposób możesz udoskonalić korzystanie z subskrypcji systemu Dynamics sprzedawanych lub zarządzanych przez klientów.
+description: Sprawdź, co robisz dobrze i gdzie możesz ulepszyć użycie subskrypcji usługi Dynamics, które sprzedajesz klientom lub zarządzasz nimi.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 60c0eebccff963858b1af09318b5202016ea5291
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 0e2880f8548b220d708c61c08a0ea9fb37700240
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086927"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152804"
 ---
-# <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Raport użycia platformy Dynamics dostępny z poziomu pulpitu nawigacyjnego usługi Partner Center Insights
+# <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Raport użycia usługi Dynamics dostępny na pulpicie nawigacyjnym Partner Center Insights
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Agent administracyjny | Przeglądarka raportów | Przeglądarka raportów dla kierownictwa
 
-- Administrator globalny
-- Agent administracyjny
-- Podgląd raportów
-- Executive — Podgląd raportów
-
-Raport użycie systemu Dynamics zawiera dane o użyciu dla subskrypcji Dynamics 365 sprzedawanych lub zarządzanych dla klientów. Poniższe sekcje można wyświetlić w raporcie użycie systemu Dynamics.
+Raport użycia usługi Dynamics zawiera dane użycia dla subskrypcji usługi Dynamics 365, które zostały sprzedane klientom lub są nimi zarządzane. Poniższe sekcje można wyświetlić w raporcie użycia usługi Dynamics.
 
 - Podsumowanie
-- Użycie dynamiki według lokalizacji geograficznej
-- Użycie dynamiki według jednostki SKU
+- Użycie usługi Dynamics według lokalizacji geograficznej
+- Użycie usługi Dynamics według SKU
 - Wydajność subskrypcji
-- Dystrybucja użycia systemu Dynamics
+- Dystrybucja użycia usługi Dynamics
 
  > [!NOTE]
- > Ten raport jest dostępny na pulpicie nawigacyjnym usługi Insights. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w centrum partnerskim, takim jak Administrator globalny, administrator konta, Podgląd raportów lub dyrektor raportów programu. Aby uzyskać więcej informacji, zobacz Administrator globalny firmy. określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami dyrektora raportów.
+ > Ten raport jest dostępny na pulpicie nawigacyjnym szczegółowych informacji. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Podgląd raportów lub Executive Report Viewer. Aby uzyskać więcej informacji, zobacz Administrator globalny firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami Executive Report Viewer.
 
 ## <a name="summary"></a>Podsumowanie
 
-Sekcja podsumowania przedstawia widok migawek kluczowych wskaźników związanych z subskrypcjami użycia systemu Dynamics sprzedawanymi lub zarządzanymi dla klientów.  
+Sekcja podsumowania przedstawia widok migawki kluczowych wskaźników związanych z subskrypcjami użycia usługi Dynamics, które zostały sprzedane klientom lub są nimi zarządzane.  
 
-- Dostępne stanowiska: całkowita liczba licencji sprzedanych w wybranym przedziale czasu.
+- Dostępne stanowiska: łączna liczba licencji sprzedanych w wybranym okresie.
 
-   Na mikrografie prezentowany jest trend miesięczny dostępnej liczby miejsc dla wybranego zakresu dat.
+   Wykres Mikro przedstawia trend liczby dostępnych stanowisk w wybranym zakresie dat z miesiąca na miesiąc.
 
-- Przypisane stanowiska: całkowita liczba licencji przypisanych w wybranym przedziale czasu.
+- Przypisane stanowiska: łączna liczba licencji przypisanych w wybranym okresie.
 
-   Na mikrografie prezentowany jest trend miesięczny między przypisanymi stanowiskami w wybranym zakresie dat.
+   Wykres Mikro przedstawia trend miesiąc do miesiąca liczby przypisanych stanowisk w wybranym zakresie dat.
 
-- Aktywne stanowiska: całkowita liczba licencji, które miały użycie w wybranym przedziale czasu. 
+- Aktywne stanowiska: łączna liczba licencji, które miały użycie w wybranym okresie. 
 
-   Na tym samym wykresie jest prezentowany miesięczny trend miesięcznych aktywnych miejsc w wybranym okresie.
+   Wykres Mikro przedstawia miesięczny trend aktywnych stanowisk w wybranym okresie.
 
-- Aktywne użycie%: całkowita liczba aktywnych siedzeń wyrażona jako procent dostępnych stanowisk dla wybranego przedziału czasu. 
+- Aktywne użycie %: łączna liczba aktywnych stanowisk wyrażona jako procent dostępnych stanowisk w wybranym okresie. 
 
-   W programie Micro Chart jest prezentowany miesięczny trend aktywnego użycia w wybranym okresie.
+   Wykres Mikro przedstawia miesięczny trend wartości procentowego aktywnego użycia w wybranym okresie.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Podsumowanie użycia systemu Dynamics":::
+:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Podsumowanie użycia usługi Dynamics":::
 
-## <a name="dynamics-usage-by-geography"></a>Użycie dynamiki według lokalizacji geograficznej
+## <a name="dynamics-usage-by-geography"></a>Użycie usługi Dynamics według lokalizacji geograficznej
 
-**Użycie usługi Dynamics według lokalizacji geograficznej** przedstawia rozkład dostępnych stanowisk i miejsc aktywności według kraju klienta. Jaśniejsze kolory na mapie przedstawiają mniejsze wartości, a ciemne kolory reprezentują wyższe wartości. Możesz wyszukać i wybrać kraj w siatce. Możesz również powiększyć w celu bliższego wyglądu.
+Użycie **usługi Dynamics według lokalizacji geograficznej** przedstawia rozkład dostępnych stanowisk i aktywnych stanowisk według kraju klienta. Jaśniejsze kolory na mapie reprezentują niższe wartości, a ciemniejsze reprezentują wyższe wartości. Możesz wyszukać i wybrać kraj w siatce. Możesz również powiększyć widok, aby uzyskać bliższy wygląd.
 
-**Liczba tabeli kraje/region** przedstawia łączne kraje/regiony, w których są generowane zdarzenia użycia platformy Azure.
+Tabela **Liczba krajów/regionów** przedstawia łączną liczbę krajów/regionów, w których są generowane zdarzenia użycia platformy Azure.
 
-Możesz wyszukać i wybrać kraj w siatce, aby powiększyć do lokalizacji na mapie. Wybierz opcję **Strona główna** na mapie, aby powrócić do oryginalnego widoku.
+Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapie. Wybierz opcję **Strona główna** na mapie, aby przywrócić oryginalny widok.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Użycie dynamiki według lokalizacji geograficznej":::
+:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Użycie usługi Dynamics według lokalizacji geograficznej":::
 
-## <a name="dynamics-usage-by-sku"></a>Użycie dynamiki według jednostki SKU
+## <a name="dynamics-usage-by-sku"></a>Użycie usługi Dynamics według SKU
 
-Użycie usługi Dynamics według jednostki SKU przedstawia miesięczny trend dostępnych stanowisk, aktywnych miejsc i przypisanych siedzeń według jednostek SKU.
+Użycie usługi Dynamics przez jednostkę SKU przedstawia miesięczny trend dostępnych stanowisk, aktywnych stanowisk i przypisanych stanowisk przez jednostki SKU.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="Użycie dynamiki według jednostki SKU":::
+:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="Użycie usługi Dynamics według SKU":::
 
 ## <a name="subscriptions-performance"></a>Wydajność subskrypcji
 
-Wydajność subskrypcji przedstawia miesięczny trend aktywnego użycia na subskrypcję klienta. W tabeli przedstawiono dane dla najpopularniejszych klientów 100 według rozliczanego przychodu. możesz wyszukać dowolnego klienta lub pobrać dane pierwotne, aby wyświetlić szczegółowe informacje dotyczące wszystkich subskrypcji.
+Wydajność subskrypcji przedstawia miesięczny trend użycia aktywnego na subskrypcję klienta. Dane dla 100 najbardziej dochodowych klientów według rozliowanych przychodów są wyświetlane w tabeli i możesz wyszukać dowolnego klienta lub pobrać dane pierwotne, aby wyświetlić szczegóły dotyczące wszystkich subskrypcji.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Wydajność subskrypcji systemu Dynamics":::
+:::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Wydajność subskrypcji usługi Dynamics":::
 
-## <a name="dynamics-usage-distribution"></a>Dystrybucja użycia systemu Dynamics
+## <a name="dynamics-usage-distribution"></a>Dystrybucja użycia usługi Dynamics
 
-Rozkład użycia systemu Dynamics przedstawia podział dostępnych stanowisk, aktywnych miejsc i przypisanych stanowisk według jednostek SKU.
+Rozkład użycia usługi Dynamics przedstawia podział dostępnych stanowisk, aktywnych stanowisk i przypisanych stanowisk według jednostki SKU.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Dystrybucja użycia systemu Dynamics":::
+:::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Dystrybucja użycia usługi Dynamics":::
 
 ## <a name="next-steps"></a>Następne kroki
 
-- Więcej raportów można znaleźć w temacie [Partner Center Insights](partner-center-insights.md).
+- Aby uzyskać więcej raportów, [zobacz Partner Center Insights.](partner-center-insights.md)
 
-- Możesz pobrać pierwotne dane, aby wyłączyć ten raport z sekcji Pobieranie raportów na pulpicie nawigacyjnym usługi Insights. [Więcej informacji](pci-download-reports.md) 
+- Możesz pobrać nieprzetworzone dane, które są zasilane z tego raportu, z sekcji Pobieranie raportów na pulpicie nawigacyjnym szczegółowych informacji. [Więcej informacji](pci-download-reports.md) 

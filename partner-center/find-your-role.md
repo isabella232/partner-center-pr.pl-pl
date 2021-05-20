@@ -1,6 +1,6 @@
 ---
-title: Znajdź przypisaną rolę
-description: Dowiedz się, gdzie przejść do Centrum partnerskiego, aby znaleźć przypisaną rolę, uprawnienia i administratora globalnego.
+title: Znajdowanie przypisanej roli
+description: Dowiedz się, dokąd Partner Center, aby znaleźć przypisaną rolę, uprawnienia i administratora globalnego.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,51 +9,49 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 7f6cdab138e2213848acb36a66cb48d2dcee1ea6
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 10cb5971584378691e9cbe50029926944e023b51
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492521"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150832"
 ---
-# <a name="find-your-role-your-permissions-and-your-global-admin"></a>Znajdź rolę, uprawnienia i administratora globalnego
+# <a name="find-your-role-your-permissions-and-your-global-admin"></a>Znajdowanie roli, uprawnień i administratora globalnego
 
 
-**Odpowiednie role**
+**Odpowiednie role:** wszyscy Partner Center użytkowników
 
-- Wszyscy użytkownicy Centrum partnerskiego
+## <a name="find-the-role-youve-been-assigned"></a>Znajdowanie przypisanej roli
 
-## <a name="find-the-role-youve-been-assigned"></a>Znajdź przypisaną rolę
+Jeśli administrator globalny nie podał Ci informacji, możesz dowiedzieć się, jaką rolę pełnisz w Partner Center, wykonując następujące czynności:
 
-Jeśli administrator globalny nie otrzyma od Ciebie informacji, możesz dowiedzieć się, jaka rola znajduje się w centrum partnerskim, wykonując następujące czynności:
+1. Zaloguj się do Partner Center [pulpitu nawigacyjnego.](https://partner.microsoft.com/dashboard/home)
 
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home)Centrum partnerskiego.
-
-1. Wybierz ikonę **Ustawienia konta** , a następnie wybierz pozycję **mój profil**.
+1. Wybierz **ikonę Ustawienia konta,** a następnie wybierz pozycję **Mój profil**.
  
-1. Wybierz kartę **role i uprawnienia** . Zobaczysz Twoje role i uprawnienia.
+1. Wybierz **kartę Role i** uprawnienia. Zobaczysz role i uprawnienia.
  
 >[!Note]
->Jeśli nie widzisz programu podczas logowania, zazwyczaj oznacza to, że nie masz odpowiednich uprawnień do działania w tym programie. Jeśli na przykład nie widzisz strony zachęty podczas logowania, nie masz uprawnień do zachęcania. Administrator globalny może udzielić potrzebnych uprawnień.
+>Jeśli nie widzisz programu po zalogowaniu się, zazwyczaj oznacza to, że nie masz odpowiednich uprawnień do pracy w tym programie. Jeśli na przykład nie widzisz strony Zachęty podczas logowania, nie masz uprawnień zachęt. Administrator globalny może nadać Ci wymagane uprawnienia.
 
-## <a name="find-your-global-admin"></a>Znajdź administratora globalnego
+## <a name="find-your-global-admin"></a>Znajdowanie administratora globalnego
 
-Czasami może być konieczna zmiana roli użytkownika lub dodanie przez niego nowego użytkownika.
+Czasami może być konieczne zmiana roli użytkownika lub może być konieczne przypisanie określonej roli przez nowego użytkownika.
 
-Aby znaleźć administratora globalnego, który może wprowadzać zmiany roli lub przypisać role do nowego użytkownika: 
+Aby znaleźć administratora globalnego, który może wprowadzać zmiany roli lub przypisywać role do nowego użytkownika: 
 
-1. Na **ikonie ustawień konta** w prawym górnym rogu Centrum partnerskiego wybierz pozycję **Zarządzanie użytkownikami**.
+1. Z **ikony Ustawienia konta** w prawym górnym rogu ekranu Partner Center pozycję **Zarządzanie użytkownikami.**
 
-1. Filtruj w Administratorze globalnym
+1. Filtrowanie według administratora globalnego
 
-1. Możesz również przejść do pozycji **mój profil**, wybrać **role i uprawnienia** i wyświetlić listę różnych administratorów, którzy mogą pomóc w podwyższeniu poziomu uprawnień. 
+1. Możesz również przejść do witryny  **Mój profil**, wybrać pozycję Role i uprawnienia i wyświetlić listę różnych administratorów, którzy mogą pomóc Ci podnieść swoje uprawnienia. 
 
 
-## <a name="get-a-new-global-admin-assigned-to-your-company"></a>Uzyskaj nowego administratora globalnego przypisanego do Twojej firmy
+## <a name="get-a-new-global-admin-assigned-to-your-company"></a>Uzyskiwanie nowego administratora globalnego przypisanego do firmy
 
-Jeśli administrator globalny opuści firmę, ktoś inny będzie musiał wypełnić tę rolę. Prześlij bilet do zespołu platformy Azure lub pakietu Office 365. Aby uzyskać informacje o tym, jak to zrobić, wybierz jedną z poniższych opcji.
+Jeśli administrator globalny opuści firmę, ktoś inny będzie musiał pełnić tę rolę. Prześlij bilet do zespołu platformy Azure lub usługi Office 365. Aby uzyskać informacje na ten temat, wybierz jedną z poniższych opcji.
 
-[Nowy Administrator globalny dla platformy Azure](https://support.microsoft.com/help/4505981/what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company)
+[Nowy administrator globalny platformy Azure](https://support.microsoft.com/help/4505981/what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company)
 
-[Nowy Administrator globalny dla pakietu Office 365](https://admin.microsoft.com/)
+[Nowy administrator globalny usługi Office 365](https://admin.microsoft.com/)
 

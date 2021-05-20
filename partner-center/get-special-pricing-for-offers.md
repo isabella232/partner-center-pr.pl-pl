@@ -9,40 +9,36 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bff69796cb753f93225bb44324629180d981a721
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 38985e48923bb0a3c6ad54eb600a44d419b5ad85
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702692"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150798"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Sprzedaż w specjalistycznych branżach, takich jak edukacja, organizacje non profit i użytkownicy rządowi
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Agent administracyjny | Agent sprzedaży
 
-- Administrator globalny
-- Agent administracyjny
-- Agent sprzedaży
-
-Firma Microsoft oferuje specjalne, obniżone ceny dla wybranych grup klientów, w tym klientów edukacyjnych, klientów niedochodowych, małych firm i instytucji rządowych. Aby można było zaoferować im specjalne ceny, zarówno Ty, jak i Twój klient muszą zostać zakwalifikowani. Te specjalne oferty cenowe są obecnie **dostępne tylko** dla usług opartych na licencjach, takich jak Microsoft 365, Dynamics, Intune itp. Nie jest ona dostępna dla innych typów (subskrypcji oprogramowania, oprogramowania bezterminowego lub produktów platformy Azure).
+Firma Microsoft oferuje specjalne, obniżone ceny dla wybranych grup klientów, w tym klientów edukacyjnych, klientów niedochodowych, małych firm i instytucji rządowych. Zanim będzie można zaoferować im specjalne ceny, zarówno Ty, jak i Twój klient muszą zostać zakwalifikowani. Te specjalne oferty cenowe są obecnie **dostępne tylko** dla usług opartych na licencjach, takich jak Microsoft 365, Dynamics, Intune itp. Nie jest ona dostępna dla innych typów (subskrypcji oprogramowania, oprogramowania bezterminowego lub produktów platformy Azure).
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>Wymagania dotyczące sprzedaży w wyspecjalizowanych branżach
 
 |**Cennik specjalny**   |**Wymagane kwalifikacje odsprzedawcy**   |**Wymagane kwalifikacje klienta**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Education   |Brak   | Musi być [kwalifikowanym użytkownikiem edukacyjnym.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
-|Instytucje rządowe   |Aby sprzedawać platformę Azure, zarejestruj się przy użyciu formularza [weryfikacji chmury](https://azuregov.microsoft.com/csp)dla instytucji rządowych USA firmy Microsoft. Aby sprzedawać subskrypcje oparte na licencjach dla instytucji rządowych, nie ma potrzeby kwalifikowania.|   Brak|
+|Instytucje rządowe   |Aby sprzedawać platformę Azure, zarejestruj się przy użyciu formularza [weryfikacji chmury](https://azuregov.microsoft.com/csp)dla instytucji rządowych USA firmy Microsoft. Aby sprzedawać subskrypcje oparte na licencjach dla instytucji rządowych, nie ma wymaganych kwalifikacji.|   Brak|
 |Non profit  |Brak<br/> Musi mieć dzierżawę Azure Active Directory non profit.<br/> Dowiedz się więcej o [ofertach specjalnych dla organizacji non profit](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Zarejestruj się w programie [dla organizacji non profit firmy Microsoft,](https://nonprofit.microsoft.com/#/register) aby kwalifikować się do tego programu.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Sprawdzanie kwalifikacji odsprzedawcy
 
-Poniższe kroki mają zastosowanie tylko do dostawców pośrednich i partnerów rozliczanych bezpośrednio. Odsprzedawcy pośredni muszą połączyć się z dostawcą pośrednim, aby dostarczać oferty o cenie akademickiej dla kwalifikowanych użytkowników edukacyjnych.
+Poniższe kroki mają zastosowanie tylko do dostawców pośrednich i partnerów rozliczanych bezpośrednio. Odsprzedawcy pośredni muszą połączyć się z dostawcą pośrednim, aby dostarczać oferty o cenie akademickiej dla uprawnionych użytkowników edukacyjnych.
 
 1. Na Partner Center [nawigacyjnym](https://partner.microsoft.com/dashboard)wybierz ikonę koła zębatego w prawym górnym rogu okna, aby otworzyć **pozycję Ustawienia konta.**
 
 2. W profilu **prawnym w** sekcji Informacje **o programie** odszukaj sekcję **Kwalifikacje odsprzedawcy.**
 
-3. Jeśli nie widzisz kwalifikacji **odsprzedawcy,** nie masz jeszcze uprawnień do zakupu żadnych ofert specjalnych.
+3. Jeśli nie widzisz kwalifikowania **odsprzedawcy,** nie masz jeszcze autoryzacji do zakupu żadnych ofert specjalnych.
 
 ## <a name="check-the-customer-qualifications"></a>Sprawdzanie kwalifikacji klientów
 
@@ -71,10 +67,10 @@ Reguły zakupu dotyczące sprzedaży specjalnych ofert dla klientów:
 |:----------------------------|:---------------------------------|:------------------------------------------|
 | Commercial |Commercial | Non-profit, Education lub Government Community Cloud |
 | Non-profit |Komercyjne, niedochodowe | Edukacja lub Government Community Cloud |
-| Education |Komercyjne, edukacyjne | Organizacje niedochodowe lub Government Community Cloud |
+| Education |Komercyjna, Edukacja | Organizacje niedochodowe lub Government Community Cloud |
 | Government Community Cloud |Government Community Cloud | Non-profit, Education lub Commercial |
 | Jednostka należąca do stanu  | Commercial  | Non-profit, Education lub Government Community Cloud  |
-| Jeśli jednostka edukacyjna i jednostka należąca do stanu | Komercyjne, edukacyjne | Organizacje niedochodowe lub Government Community Cloud |
+| Jeśli jednostka edukacyjna i jednostka należąca do stanu | Komercyjna, Edukacja | Organizacje niedochodowe lub Government Community Cloud |
 | Jeśli jednostka należąca do Government Community Cloud | Government Community Cloud | Non-profit, Education lub Commercial |
 
 ## <a name="next-steps"></a>Następne kroki

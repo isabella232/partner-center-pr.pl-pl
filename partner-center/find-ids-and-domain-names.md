@@ -9,18 +9,16 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 643b1eeb96a47ee4c438f733efe3be22234d02ff
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 5da41cdbfa7aa1780b31e170a2398e8e7c65df27
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740288"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150866"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Lokalizowanie ważnych identyfikatorów dla użytkownika
 
-**Odpowiednie role**
-
-- Administrator globalny
+**Odpowiednie role:** Administrator globalny
 
 W tym artykule opisano, jak [za pomocą Azure Portal](https://portal.azure.com/) zlokalizować następujące informacje dla użytkownika:
 
@@ -47,9 +45,9 @@ Wykonaj następujące kroki, aby zlokalizować identyfikator dzierżawy usługi 
 
    :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="Przedstawia stronę Przegląd z dwoma wyróżnione polami: identyfikatorem dzierżawy i nazwą domeny podstawowej.":::
 
-4. Identyfikator dzierżawy można znaleźć w Azure Portal na kilka innych sposobów. Wybierz **Azure Active Directory** z menu. Następnie znajdź **sekcję Zarządzanie** w menu i wybierz pozycję **Właściwości.**
+4. Identyfikator dzierżawy można znaleźć w Azure Portal na kilka innych sposobów. Wybierz **Azure Active Directory** z menu. Następnie znajdź sekcję **Zarządzanie** w menu i wybierz pozycję **Właściwości**.
 
-   Na stronie Właściwości jest również wyświetlany identyfikator dzierżawy skojarzony z użytkownikiem.
+   Na stronie Właściwości jest również wyświetlany skojarzony z użytkownikiem identyfikator dzierżawy.
 
    :::image type="content" source="images/id/3-find-id-azure-portal-aad-properties-tenant-id-partial.png" alt-text="Wyświetla stronę Właściwości z wyróżnione polem Identyfikator dzierżawy.":::
 
@@ -75,7 +73,7 @@ Samo znalezienie nazwy domeny i identyfikatora dzierżawy może nie być wystarc
 
 6. Znajdź sekcję Tożsamość na stronie profilu użytkownika. W tym miejscu zostanie wyświetlone pole Identyfikator obiektu z unikatowym identyfikatorem obiektu użytkownika.
 
-      :::image type="content" source="images/id/7-find-id-azure-portal-aad-user-profile-object-id.png" alt-text="Przedstawia stronę Profilu użytkownika z sekcją Tożsamość i jednym wyróżnione polem identyfikatora obiektu.":::
+      :::image type="content" source="images/id/7-find-id-azure-portal-aad-user-profile-object-id.png" alt-text="Wyświetla stronę Profil użytkownika z sekcją Tożsamość i jednym wyróżnione polem identyfikatora obiektu.":::
 
 ## <a name="next-steps"></a>Następne kroki
 

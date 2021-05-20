@@ -9,20 +9,20 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: c700176ced0710f621dbdfab65513767976aff3d
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 46c2371e3a95b8840f14ebc5063d90bd5926fb8f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818613"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153059"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Weryfikowanie lub aktualizowanie informacji o profilu firmy 
 
 **Odpowiednie role:** Administrator globalny | Administrator konta MPN
 
-Po pierwszym zalogowaniu się Partner Center jako administrator globalny upewnij się, że wszystkie szczegóły twojej firmy są poprawne. Należą do nich główna osoba kontaktowa, nazwa i adres firmy prawnej oraz informacje o programie. Jeśli Twoja firma ma więcej niż jedną lokalizację, sprawdź dokładność danych lokalizacji. Jako administrator globalny, administrator rozliczeń lub agent administratora możesz również wyświetlić i zaktualizować informacje dotyczące rozliczeń i podatków.
+Po pierwszym zalogowaniu się do Partner Center jako administrator globalny należy potwierdzić, że wszystkie szczegóły twojej firmy są poprawne. Obejmują one podstawowy kontakt, nazwę i adres firmy prawnej oraz informacje o programie. Jeśli firma ma więcej niż jedną lokalizację, sprawdź dokładność danych lokalizacji. Jako administrator globalny, administrator rozliczeń lub agent administratora możesz również zobaczyć i zaktualizować informacje dotyczące rozliczeń i podatków.
 
-Profil partnera składa się z prawnych informacji biznesowych, podstawowej nazwy kontaktowej i poczty e-mail, programów, w których uczestniczy firma, oraz, jeśli ma to zastosowanie, innych firm, które są teraz scalane w ramach Twojej firmy prawnej. Upewnij się, że nazwa i adres firmy w Twoim profilu biznesowym z prawem są wolne od błędów pisowni i skrótów, i dokładnie dopasuj formalne rekordy rejestracji firmy. Jeśli prowadzisz działalność na wyłączną firmę, musisz użyć nazwy swojej firmy jako nazwy prawnej.
+Profil partnera składa się z informacji biznesowych, podstawowej nazwy kontaktowej i poczty e-mail, programów, w których uczestniczy firma, oraz, jeśli ma to zastosowanie, innych firm, które są teraz scalane w ramach Twojej firmy prawnej. Upewnij się, że nazwa i adres firmy w Twoim profilu biznesowym w obszarze Prawne są wolne od błędów pisowni i skrótów, i dokładnie dopasuj formalne rekordy rejestracji firmy. Jeśli działasz jako jedyny użytkownik, musisz użyć nazwy swojej firmy jako nazwy prawnej.
 
 
 ## <a name="locate-the-legal-business-profile"></a>Lokalizowanie legalnych profilów biznesowych
@@ -31,18 +31,18 @@ Profil partnera składa się z prawnych informacji biznesowych, podstawowej nazw
  
 1. Wybierz **pozycję Profil organizacji.** 
 
-2. Przejrzyj swój **profil biznesowy z prawem,** **podstawowe informacje kontaktowe** i informacje o **programie**.
+2. Przejrzyj swój **profil biznesowy z prawem,** **podstawowe informacje kontaktowe** i informacje o **programie.**
 
-Jeśli inne firmy zostały scalone w ramach Twojej firmy prawnej, możesz również przejrzeć te informacje. 
+Jeśli twoje inne firmy zostały scalone w ramach Twojej firmy prawnej, możesz również przejrzeć te informacje. 
 
 ## <a name="update-your-legal-business-profile"></a>Aktualizowanie legalnych profilów biznesowych 
 
 Zaktualizuj nazwę lub adres firmy prawnej na Partner Center.
 
 >[!Important]
->- W przypadku kont MPN zarówno administrator globalny, jak i administrator konta mogą zaktualizować prawna nazwę firmy.
+>- W przypadku kont MPN zarówno administrator globalny, jak i administrator konta mogą zaktualizować nazwę firmy prawnej.
 >- W przypadku kont odsprzedawcy pośredniego programu CSP tylko administrator globalny może zaktualizować nazwę firmy prawnej. 
->- Partnerzy rozliczani bezpośrednio i dostawcy pośredni nie mogą zmienić nazwy prawnej firmy, jeśli stan weryfikacji konta to **Autoryzowane.** Jeśli musisz zmienić nazwę, musisz utworzyć bilet [pomocy technicznej](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
+>- Partnerzy rozliczani bezpośrednio i dostawcy pośredni nie mogą zmienić nazwy prawnej swojej firmy, jeśli stan weryfikacji konta to **Autoryzowane.** Jeśli musisz zmienić nazwę, musisz utworzyć bilet [pomocy technicznej](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
 
 
@@ -83,24 +83,23 @@ Aby zaktualizować identyfikator MPN skojarzony z kontem CSP:
  
 1. Wybierz **pozycję Identyfikatory** w **ustawieniach konta.**
 
-1. W sekcji **CSP** użyj  linku Aktualizuj, aby zaktualizować identyfikator MPN skojarzony z Twoim kontem CSP 
+1. W sekcji **CSP** użyj  linku Aktualizuj, aby zaktualizować identyfikator MPN skojarzony z twoim kontem CSP 
 
 
 ## <a name="update-your-csp-legal-billing-address"></a>Aktualizowanie adresu rozliczeniowego dla programu CSP
 
-Jeśli jesteś administratorem globalnym, administratorem rozliczeń lub agentem administratora, możesz zmienić adres wyświetlany na fakturze w profilu **wypłaty i profilu podatkowym.** Nie możesz jednak zmienić nazwy firmy na fakturze z powodu ograniczenia w systemie fakturowania.
+Jeśli jesteś administratorem globalnym, administratorem rozliczeń lub agentem administratora, możesz zmienić adres wyświetlany na fakturze w profilu **wypłaty i podatku.** Nie możesz jednak zmienić nazwy firmy na fakturze z powodu ograniczenia w systemie fakturowania.
 
 :::image type="content" source="images/billing-profile.png" alt-text="Przechwytywanie ekranu obszaru, w którym są dodawane informacje rozliczeniowe":::
 
 |**Pole**  |**Opis**|  
 |---------------------|:------------------|
-|Nazwa firmy dla faktury|Nazwa firmy wyświetlana na Bill-To na fakturze CSP.  Nie można tego edytować w Centrum partnerskim.  Aby je zaktualizować, utwórz bilet pomocy technicznej.|
-|Adres dla faktury|Adres odbiorcy faktury widoczny na fakturze CSP. Możliwość aktualizacji z profilu [rozliczeniowego.](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)|
-|Kontakt dla faktur|Szczegóły kontaktu rozliczeniowego (imię, nazwisko, numer podstawowy) dla konta CSP.  Możliwość aktualizacji z profilu [rozliczeniowego.](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)|
-|Numer pozy|Numer zamówienia zakupu wyświetlany na fakturze partnera.  Można aktualizować z [profilu rozliczeniowego.](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)|
-|Identyfikator podatkowy firmy|Firmy w niektórych krajach mogą podać numer podatku od wartości dodanej [(VAT) lub lokalny odpowiednik](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number). Aby zaktualizować identyfikator podatkowy/podatku VAT, musisz być administratorem globalnym, administratorem rozliczeń lub agentem administratora.|
-|Waluta rozliczeniowa|Waluta rozliczeniowa konta CSP jest określana przez kraj prawny konta CSP.  Nie można tego zmienić po utworzeniu konta CSP.|
-
+|Nazwa firmy dla faktury|Nazwa firmy wyświetlana w Bill-To na fakturze CSP.  Nie można tego edytować w Centrum partnerskim.  Aby zaktualizować, utwórz bilet pomocy technicznej.|
+|Adres faktury|Adres odbiorcy faktury widoczny na fakturze CSP. Można aktualizować z [profilu rozliczeniowego.](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)|
+|Kontakt dla faktur|Szczegóły kontaktu rozliczeniowego (imię, nazwisko, numer podstawowy) dla konta CSP.  Można aktualizować z [profilu rozliczeniowego.](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)|
+|Numer pozy|Numer zamówienia zakupu wyświetlany na fakturze partnera.  Możliwość aktualizacji z profilu [rozliczeniowego](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
+|Identyfikator podatkowy firmy|Firmy w niektórych krajach mogą podać numer [podatku VAT lub](./organization-tax-info.md)lokalny odpowiednik . Aby zaktualizować identyfikator podatkowy/podatku VAT, musisz być administratorem globalnym, administratorem rozliczeń lub agentem administratora.|
+|Waluta rozliczeniowa|Waluta rozliczeniowa twojego konta CSP jest określana przez kraj prawny konta CSP.  Nie można tego zmienić po utworzeniu konta CSP.|
 
 ## <a name="next-steps"></a>Następne kroki
 
