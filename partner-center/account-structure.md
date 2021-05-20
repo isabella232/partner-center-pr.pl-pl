@@ -4,31 +4,28 @@ ms.topic: article
 ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 'Partnerzy MPN mogą poznać dwa poziomy kont w programie Partner Center: globalne konto partnera (PGA) i konto lokalizacji partnera (PLA).'
+description: Partnerzy MPN mogą poznać dwa poziomy kont w programie Partner Center, globalne konto partnera (PGA) i konto lokalizacji partnera (PLA).
 author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a32dba704482dad34b689b21da9e41de74a6e051
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: fb2488f9a82e261997703c22bca7c3cd9e761db0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284166"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150662"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partner Center ma dwa poziomy kont dla partnerów MPN
 
-**Odpowiednie role**
-
-- Administrator konta
-- Administrator globalny
+**Odpowiednie role:** Administrator konta | Administrator globalny
 
 Firma ma dwa poziomy kont w Partner Center.
 
 ## <a name="the-top-level-account-is-the-partner-global-account-pga"></a>Konto najwyższego poziomu to konto globalne partnera (PGA)
 
 - Konto globalne partnera zawiera adres firmy prawnej i podstawowy kontakt dla Twojej firmy. 
-- Wyświetl szczegóły konta globalnego partnera z **profilu** ustawień  >  **Organizacji**  >  **Profil prawny**.
+- Wyświetl szczegóły konta globalnego partnera z profilu ustawień  >  **Organizacji**  >  **Profil prawny.**
 - Szczegóły będą również zawierać identyfikator MPN konta globalnego partnera. 
 - PgA jest nadrzędnym elementem firmy i nie jest używany do kojarzenia programów zachęt ani Dostawca rozwiązań w chmurze. 
 - Lokalizacje powinny być używane do takich skojarzeń.
@@ -38,7 +35,7 @@ Firma ma dwa poziomy kont w Partner Center.
 Konto PGA może mieć dodatkowe lokalizacje biznesowe. Każda lokalizacja ma swój własny identyfikator MPN lub konto lokalizacji partnera (PLA). Identyfikator MPN lokalizacji jest identyfikatorem lokalizacji dla transakcji biznesowych i rejestracji w programach zachęt.
 
 - Każde konto lokalizacji partnera może mieć własny adres prawnych i kontakt podstawowy. Lokalizacje mogą również udostępniać adres prawny kontu globalnego lub innym lokalizacjom.
-- Wyświetl listę kont lokalizacji partnera z **ustawienia**  ->  **lokalizacje**.
+- Wyświetl listę kont lokalizacji partnera z **ustawień**  ->  **Lokalizacje**.
 - Wszystkie konta lokalizacji są na tym samym poziomie i w ramach konta globalnego partnera.
 - Administratorzy konta mogą dodawać lokalizacje.
 

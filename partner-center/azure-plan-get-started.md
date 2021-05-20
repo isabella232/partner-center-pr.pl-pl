@@ -1,6 +1,6 @@
 ---
-title: Rozpocznij przenoszenie do planu platformy Azure
-description: Dowiedz się, co ci i czego potrzebują, aby dowiedzieć się więcej o korzystaniu z planu "płatność zgodnie z rzeczywistym użyciem" platformy Azure, w tym pierwszych kroków, środków bezpieczeństwa i sposobach rozpoczęcia pracy.
+title: Rozpoczynanie przechodzenia do planu platformy Azure
+description: Dowiedz się, co Ty i Twoi klienci powinni wiedzieć o używaniu planu płatności zgodnie z potrzebami platformy Azure, w tym o pierwszych krokach, zabezpieczeniach i instrukcje dotyczące rozpoczynania pracy.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,54 +9,51 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: fcf75acef4afb80c5aec889911ffc2b4a53b6edd
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 58feabdefb02660559c69f61190070310768b947
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534917"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149659"
 ---
-# <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Zacznij korzystać z stawek płatność zgodnie z rzeczywistym użyciem z planem platformy Azure
+# <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Rozpoczynanie korzystania ze stawek płatności zgodnie z użyciem w planie platformy Azure
 
-**Odpowiednie role**
-
-- Agent administracyjny
-- Agent sprzedaży
+**Odpowiednie role:** Agent administracyjny | Agent sprzedaży
 
 
-Firma Microsoft wprowadziła nowe środowisko handlowe w centrum partnerskim.  Dzięki temu nowemu środowisku handlowym partnerzy będą uzyskiwać dostęp do usług platformy Azure w ramach stawek płatność zgodnie z rzeczywistym użyciem dla klientów w ramach umowy klienta firmy Microsoft.
+Firma Microsoft wprowadziła nowe środowisko handlowe w Partner Center.  Dzięki nowej wersji handlowej partnerzy uzyskają dostęp do usług platformy Azure według stawek płatności zgodnie z Umowa z Klientem Microsoft.
 
-Ten plan upraszcza proces zakupów — w planie platformy Azure można mieć wiele subskrypcji platformy Azure. Nie musisz już przesyłać oddzielnej kolejności na subskrypcję platformy Azure. W tym nowym środowisku handlowym dla platformy Azure została wyrównana do jednej zasady globalnego cennika, co umożliwia partnerom programu CSP oferowanie platformy Azure pod kątem opublikowanych cen.
+Ten plan upraszcza proces zakupu — w planie platformy Azure można mieć wiele subskrypcji platformy Azure. Nie musisz już przesyłać oddzielnego zamówienia na subskrypcję platformy Azure. W tym nowym doświadczeniu handlowym dla platformy Azure dostosliśmy się do jednej globalnej zasady cenowej, dzięki czemu partnerzy programu CSP mogą oferować platformę Azure po opublikowanych cenach.
 
-Wymagania dotyczące transformacji cyfrowych naszych klientów wymagają nowych umiejętności od partnerów. Wielu klientów szuka partnerów w celu świadczenia usług powyżej i wykraczających poza transakcję, aby zapewnić płynność podróży w chmurze i wydajnie korzystać z usług platformy Azure. Partnerzy firmy Microsoft odgrywają kluczową rolę na wszystkich etapach cyklu życia klienta. Te rodzaje usług partnerskich są w sposób ciągły i obejmują monitorowanie, zasady i zarządzanie usługami platformy Azure, Konfigurowanie i Konfigurowanie precyzyjnego dostrajania, pomoc techniczną i różne inne usługi. Wymagają one, aby partner dokładnie się ze środowiskiem platformy Azure klienta i mieć ciągłe i właściwe zarządzanie i kontrolę nad zasobami, którymi zarządzają. Partnerzy rozliczeń, którzy zapewnią tę 24 X 7 operacji w chmurze, będą uprawnieni do uzyskania środków na korzystanie z **usług zarządzanych przez partnerów** .
+Potrzeby naszych klientów w zakresie transformacji cyfrowej wymagają nowych umiejętności od partnerów. Wielu klientów poszuka partnerów w celu zapewnienia usług wykraczających poza transakcję, aby ich podróż w chmurze była bardziej płynna i pomagać w wydajnym chmurze. Partnerzy firmy Microsoft odgrywają kluczową rolę na wszystkich etapach cyklu życia klienta. Tego rodzaju usługi partnerskie są w trakcie realizacji i obejmują monitorowanie majątku na platformie Azure, zarządzanie zasadami i ładem, konfigurowanie dostrajania, pomoc techniczną i wiele innych usług. Wymagają oni, aby partner dokładnie znał środowisko platformy Azure klienta oraz miał ciągłe i odpowiednie zarządzanie oraz kontrolę nad bazowymi zasobami, którym zarządza. Partnerzy rozliczeniowi, którzy zapewniają to 24 x 7 rozwiązań do zarządzania operacjami w chmurze, będą uprawnieni do otrzymania środków uzyskane przez partnerów na usługi zarządzane **na** tę pracę.
 
-## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>Upewnij się, że klienci zostali podpisali umowę klienta firmy Microsoft
+## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>Upewnij się, że klienci podpisali Umowa z Klientem Microsoft
 
-Od 1 października 2019 umowa dla klientów firmy Microsoft, umowa bezterminowa, która upraszcza i usprawnia korzystanie z zakupów klientów w ramach pełnego procesu cyfrowego, jest dostępna. Wszyscy klienci, którzy chcą korzystać z nowego środowiska handlowego w programie CSP dla systemu Azure, muszą podpisać umowę klienta firmy Microsoft.
+Od 1 października 2019 r. dostępna jest umowa Umowa z Klientem Microsoft, która upraszcza i usprawnia proces zakupów klientów w pełni cyfrowym. Wszyscy klienci, którzy chcą korzystać z nowego rozwiązania handlowego w programie CSP dla platformy Azure, muszą podpisać umowę Umowa z Klientem Microsoft.
 
-Partnerzy, którzy chcą korzystać z nowego planu platformy Azure i tworzą nowe zamówienie, muszą potwierdzić akceptację umowy licencyjnej klienta firmy Microsoft przy użyciu pulpitu nawigacyjnego Centrum partnerskiego i interfejsu API w środowisku produkcyjnym.
+Partnerzy, którzy chcą dokonać transakcji w ramach nowego planu platformy Azure i złożyć nowe zamówienie, powinni potwierdzić akceptację klientów Umowa z Klientem Microsoft użyciu pulpitu nawigacyjnego Partner Center i interfejsu API w środowisku produkcyjnym.
 
-Od 1 lutego 2020, istniejąca umowa Microsoft Cloud zostanie usunięta z programu CSP. Od tego czasu potwierdzenie partnera (zaświadczanie) o akceptacji przez klienta dla nowej umowy klienta firmy Microsoft będzie wymagane dla wszystkich innych ofert, w tym Microsoft 365, Dynamics 365 i istniejącej platformy Azure. Partnerzy w dostawcy usług kryptograficznych nie będą mogli utworzyć nowego zamówienia dla klienta bez zaświadczania umowy klienta firmy Microsoft.
+Od 1 lutego 2020 r. istniejące Umowa dotycząca platformy Microsoft Cloud zostaną usunięte z programu CSP. Od tego czasu potwierdzenie przez partnera (potwierdzenie) akceptacji przez klienta dla nowego Umowa z Klientem Microsoft będzie wymagane dla wszystkich innych ofert, w tym Microsoft 365, Dynamics 365 i istniejącej platformy Azure. Partnerzy w programie CSP nie będą mogli złożyć nowego zamówienia dla klienta bez zaświadczenia Umowa z Klientem Microsoft.
 
-Aby uzyskać szczegółowe informacje, przeczytaj artykuł [potwierdzenie akceptacji klienta umowy klienta firmy Microsoft](confirm-customer-agreement.md)
+Aby uzyskać szczegółowe informacje, przeczytaj [Potwierdzanie akceptacji przez klienta Umowa z Klientem Microsoft](confirm-customer-agreement.md)
 
-## <a name="security-and-access-control-practices"></a>Zasady zabezpieczeń i kontroli dostępu
+## <a name="security-and-access-control-practices"></a>Rozwiązania dotyczące zabezpieczeń i kontroli dostępu
 
-Aby pomóc w zabezpieczeniu partnerów i klientów, wprowadzamy zestaw obowiązkowych wymagań w zakresie zabezpieczeń dla doradców, dostawców panelu sterowania i partnerów uczestniczących w programie dostawcy rozwiązań w chmurze.
+Aby ułatwić ochronę partnerów i klientów, wprowadzamy zestaw obowiązkowych wymagań dotyczących zabezpieczeń dla doradców, dostawców Panel sterowania i partnerów biorących udział w programie Dostawca rozwiązań w chmurze zabezpieczeń.
 
-Partnerzy, którzy nie implementują obowiązkowych wymagań w zakresie zabezpieczeń, nie będą mogli wykonywać operacji Transact w programie dostawcy rozwiązań w chmurze ani zarządzać dzierżawami klientów, korzystając z delegowania praw administratora, gdy te wymagania są wymuszane. Jesteśmy w trakcie ustanawiania technicznego okresu wymuszania wymagań i będą powiadamiać partnerów o dacie z szczegółowymi informacjami.
+Partnerzy, którzy nie implementują obowiązkowych wymagań dotyczących zabezpieczeń, nie będą mogli wykonać transakcji w programie Dostawca rozwiązań w chmurze ani zarządzać dzierżawami klientów, korzystając z delegowanych praw administratora, po wymuszenia tych wymagań. Jesteśmy w trakcie ustalania technicznej daty wymuszania wymagań i powiadomimy partnerów o dacie przy użyciu szczegółowych informacji.
 
-## <a name="actions-to-take-to-implement-mfa"></a>Akcje podejmowane w celu zaimplementowania usługi MFA
+## <a name="actions-to-take-to-implement-mfa"></a>Akcje do wykonania w celu zaimplementowania usługi MFA
 
-Mając wysoce uprzywilejowany charakter partnera, musimy upewnić się, że każdy użytkownik ma wyzwanie usługi MFA dla każdego pojedynczego uwierzytelniania. Można to osiągnąć za pomocą jednej z następujących metod:
+Biorąc pod uwagę wysoce uprzywilejowany charakter partnera, musimy upewnić się, że każdy użytkownik ma zadanie uwierzytelniania wieloskładnikowego dla każdego pojedynczego uwierzytelniania. Można to zrobić za pomocą jednego z następujących sposobów:
 
-- Implementowanie Azure AD — wersja Premium i zapewnianie, że uwierzytelnianie wieloskładnikowe (MFA) jest wymuszane dla każdego użytkownika
-- Implementowanie [domyślnych ustawień zabezpieczeń usługi Azure AD](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
-- Implementowanie rozwiązania innych firm i zapewnienie, że uwierzytelnianie wieloskładnikowe jest wymuszane dla każdego użytkownika
+- Implementowanie Azure AD — wersja Premium i upewnianie się, że uwierzytelnianie wieloskładnikowe (MFA) jest wymuszane dla każdego użytkownika
+- Implementowanie ustawień [domyślnych zabezpieczeń usługi Azure AD](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
+- Implementowanie rozwiązania innej firmy i upewnianie się, że uwierzytelniania wieloskładnikowego jest wymuszane dla każdego użytkownika
 
-Od 1 sierpnia 2019 wszyscy partnerzy muszą wymusić uwierzytelnianie wieloskładnikowe dla wszystkich użytkowników, w tym kont usług, w dzierżawie partnera. Szczegółowe informacje o tych wymaganiach dotyczących zabezpieczeń znajdują się w [wymaganiach dotyczących zabezpieczeń partnerów](partner-security-requirements.md).
+Od 1 sierpnia 2019 r. wszyscy partnerzy muszą wymuszać uwierzytelnianie wieloskładnikowe dla wszystkich użytkowników, w tym kont usług, w dzierżawie partnera. Szczegółowe informacje na temat tych wymagań dotyczących zabezpieczeń można znaleźć na stronie [Partner security requirements (Wymagania dotyczące zabezpieczeń partnerów).](partner-security-requirements.md)
 
-Firma Microsoft zaleca partnerom korzystanie z pracujemy RBAC, zgodnie z najlepszymi rozwiązaniami, które zostały włączone za pomocą [zasobów Azure Active Directory Privileged Identity Management](/azure/active-directory/privileged-identity-management/pim-configure).
+Firma Microsoft zaleca partnerom korzystanie z kontroli RBAC zgodnie z najlepszymi rozwiązaniami dostępnymi za [pośrednictwem Azure Active Directory Privileged Identity Management zasobów.](/azure/active-directory/privileged-identity-management/pim-configure)
 
 ## <a name="read-more-about-the-azure-plan"></a>Przeczytaj więcej na temat planu platformy Azure
 
@@ -64,14 +61,14 @@ Firma Microsoft zaleca partnerom korzystanie z pracujemy RBAC, zgodnie z najleps
 
 - [Porównanie ofert platformy Azure](compare-azure-offers.md)
 
-- [Kredyt wypracowany przez partnera — przegląd](partner-earned-credit.md)
+- [Środków uzyskane przez partnerów — omówienie](partner-earned-credit.md)
 
-- Obliczenia związane z kredytem uzyskanym przez partnera (PEC) oraz role i uprawnienia kwalifikujące się do uzyskania kredytów uzyskanych przez partnerów są dostępne na liście cenowej pulpitu nawigacyjnego Centrum partnerskiego (wymagane jest zalogowanie się).
+- Obliczenia środków zdobytych przez partnerów oraz role i uprawnienia, które kwalifikują się do uzyskania środków uzyskane przez partnera, są dostępne w cenniku pulpitu nawigacyjnego platformy Partner Center (wymagane jest zalogowanie).
 
 ## <a name="next-steps"></a>Następne kroki 
 
-- [Jak jest określony kredyt uzyskany przez partnera — szczegóły](partner-earned-credit-explanation.md)
-- [Objaśniono listę cen planu platformy Azure](azure-plan-price-list.md)
+- [Jak są określane punkty uzyskane przez partnera — szczegóły](partner-earned-credit-explanation.md)
+- [Objaśniono cennik planu platformy Azure](azure-plan-price-list.md)
 - [Przenoszenie klienta do planu platformy Azure](azure-plan-transition.md)
 - [Zarządzanie subskrypcjami i zasobami w ramach planu platformy Azure](azure-plan-manage.md)
 - [Pełna lista krajów/regionów, w których jest dostępny plan platformy Azure](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)

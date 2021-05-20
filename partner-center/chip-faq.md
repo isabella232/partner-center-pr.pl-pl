@@ -2,71 +2,69 @@
 title: Często zadawane pytania dotyczące zachęt do oceny rozwiązań
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Poznaj odpowiedzi na często zadawane pytania dotyczące oceny rozwiązań na platformie zachęt w kanale.
+description: Odpowiedzi na często zadawane pytania dotyczące oceny rozwiązań można znaleźć na platformie CHANNEL Incentives Platform (CHIP).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9395a64a5bdf5aa0219bb9457d581e71bef777c2
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: d46b37aa903d10ec97b780eec9dde1deec623277
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354631"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148979"
 ---
-# <a name="solution-assessment-incentives-faq-for-the-channel-incentives-platform-chip"></a>Zachęty do oceny rozwiązań dotyczące platformy zachęt dla kanałów (MIKROUKŁAD) 
+# <a name="solution-assessment-incentives-faq-for-the-channel-incentives-platform-chip"></a>Zachęty do oceny rozwiązań — często zadawane pytania dotyczące platformy Channel Incentives Platform (CHIP) 
 
-**Odpowiednie role**
+**Odpowiednie role:** Podstawowy kontakt lub administrator programu
 
-- Podstawowy kontakt lub administrator programu
+Poniżej znajdziesz odpowiedzi na często zadawane pytania.
 
-Znajdź odpowiedzi na często zadawane pytania poniżej.
+## <a name="what-are-the-eligibility-requirements-for-the-solution-assessment-incentive-program"></a>Jakie są wymagania dotyczące uprawnień do programu zachęt do oceny rozwiązań?
 
-## <a name="what-are-the-eligibility-requirements-for-the-solution-assessment-incentive-program"></a>Jakie są wymagania kwalifikacyjne dla programu zachęty do oceny rozwiązań?
+Partnerzy z aktywnym i zarejestrowanym stanem w programie zachęt do oceny rozwiązań w roku 20 będą nadal uprawnieni do zachęt w roku 21, jeśli mają aktywne członkostwo w programie MPN i aktywną kompetencję Silver lub Gold MPN. Kwalifikacje partnerów będą sprawdzane pod celu kwalifikowania się co rok.  Jeśli ustanowioni partnerzy nie spełnią wymagań dotyczących uprawnień i uczestnictwa w bieżącym roku, zostaną usunięci w następnym corocznym przeglądzie.  Wszyscy nowi partnerzy są dołączani za pośrednictwem lokalnego specjalisty ds. oceny rozwiązań (SAS) w swoim obszarze.  Sygnatura dostępu współdzielonego zidentyfikuje partnerów, którzy mają zostać doczesni, na podstawie dopasowania umiejętności i wiedzy w firmie partnerskiej oraz potrzeb biznesowych podmiotów zależnych obsługiwanych przez sygnaturę dostępu współdzielonego.
+Przed rozpoczęciem procesu dołączania partnerzy będą musieli omówić z sygnaturą dostępu współdzielonego możliwości, które firma ma w zakresie wspierania ocen w swoich lokalizacjach. 
 
-Partnerzy z aktywnym i zarejestrowanym stanem w programie zachęty do oceny rozwiązań w programie FY20 będą nadal kwalifikowani do bodźców w FY21, jeśli mają aktywne członkostwo MPN i aktywną kompetencję Silver lub Gold MPN. Kwalifikacje partnerów będą weryfikowane w celu przyznania rocznego uznania.  Jeśli ustanowioni partnerzy nie spełniają wymagań dotyczących uprawnień i udziału w bieżącym roku, zostaną usunięci w następnym rocznym przeglądzie.  Wszyscy nowi partnerzy są dołączeni przez lokalny specjalistę ds. oceny rozwiązań.  Sygnatura dostępu współdzielonego zidentyfikuje partnerów do dołączenia na podstawie dopasowania umiejętności i wiedzy w firmie partnerskiej oraz potrzeb związanych z biznesem podmiotów zależnych obsługiwanych przez te SYGNATURy dostępu współdzielonego.
-Przed rozpoczęciem procesu dołączania partnerzy będą musieli omówić z sygnaturami dostępu współdzielonego, jakie możliwości firma ma w obsłudze oceny w ich miejscowości. 
+Partnerzy, którzy nie są aktualnie zarejestrowani w programie zachęt, muszą spełniać poniższe kryteria zachętY FY21, aby kwalifikować się do dołączania do programu zachęt do oceny rozwiązań. Aby uzyskać szczegółowe [informacje, zapoznaj się z tematem Uprawnienia do oceny rozwiązania.](chip-solutions-assessment-eligible.md)
 
-Partnerzy obecnie nie zarejestrowani w programie zachęty muszą spełniać poniższe kryteria zachęty FY21, aby kwalifikować się do dołączania do rozwiązania do oceny rozwiązań. Aby uzyskać szczegółowe informacje, zobacz [uprawnienie do oceny rozwiązań](chip-solutions-assessment-eligible.md).
+## <a name="how-do-i-enroll-in-the-solution-assessments-incentive-program"></a>Jak mogę zarejestrować się w programie zachęt do oceny rozwiązań?
 
-## <a name="how-do-i-enroll-in-the-solution-assessments-incentive-program"></a>Jak mogę zarejestrować się w programie zachęty do oceny rozwiązań?
+Skontaktuj się z lokalnym specjalistą ds. oceny rozwiązań (SAS), aby zainicjować proces.
 
-Aby zainicjować proces, skontaktuj się z lokalnym specjalistą ds. oceny rozwiązań.
+## <a name="how-do-i-submit-my-bank-and-tax-details"></a>Jak mogę przesłać moje dane bankowe i podatkowe?
 
-## <a name="how-do-i-submit-my-bank-and-tax-details"></a>Jak mogę przesłać moje szczegóły dotyczące banku i podatku?
+Zapoznaj [się z tematem Nawigowanie](chip-intro.md) po platformie CHIP, aby uzyskać instrukcje krok po kroku dotyczące sposobu przesyłania profilów bankowych i podatkowych.
 
-Przeczytaj temat [nawigowanie po MIKROukładie](chip-intro.md) , aby uzyskać instrukcje krok po kroku dotyczące przesyłania Twojego banku i profilów podatkowych.
+## <a name="my-deal-status-has-been-approved-in-chip-why-hasnt-it-been-paid-yet"></a>Stan mojej transakcji został zatwierdzony na stronie CHIP. Dlaczego nie została jeszcze zapłacona?
 
-## <a name="my-deal-status-has-been-approved-in-chip-why-hasnt-it-been-paid-yet"></a>Stan transakcji został zatwierdzony w układzie. Dlaczego nie została jeszcze wypłacona?
+Oprócz stanu transakcji stan zamówienia sprzedaży musi również zostać zatwierdzony na platformie CHIP, zanim będzie można przesłać możliwość płatności. Zapoznaj się z możliwościami na stronie CHIP, aby upewnić się, że weryfikacja weryfikacji weryfikacji została przesłana i zatwierdzona przez zespół weryfikacji. Aby wyświetlić stan zamówienia sprzedaży, zaloguj się do mikroukładu i wybierz pozycję **Wyszukaj transakcje** z karty **Muszę...** . Wprowadź identyfikator **szansy sprzedaży i** wybierz **pozycję Wyszukaj**. W wynikach wyszukiwania wybierz hiperlink "Edytuj" w obszarze PoE. Na stronie wynikowej przewiń do sekcji "Przegląd", aby zobaczyć stan weryfikacji zamówienia. Zapoznaj się również z polem "Komentarze" w przypadku, gdy zespół weryfikacji musi uzyskać dodatkowe informacje na temat weryfikacji.
 
-Oprócz stanu transakcji stan POE musi być również zatwierdzony w układzie, aby można było przesłać szansę do płatności. Przejrzyj swoją szansę w układzie, aby upewnić się, że POE został przekazany i zatwierdzony przez zespół ds. weryfikacji POE w układzie. Aby wyświetlić stan POE, zaloguj się do mikroukładu i wybierz pozycję **Wyszukaj z oferty** **...** . Wprowadź **Identyfikator szansy sprzedaży** i wybierz pozycję **Wyszukaj**. W wynikach wyszukiwania wybierz hiperlink "Edytuj" w obszarze POE. Na stronie wyników przewiń do sekcji "przegląd", aby wyświetlić stan POE. Sprawdź również pole "Komentarze", jeśli zespół POE zażądał dodatkowych informacji na POE.
+## <a name="why-did-i-not-receive-any-payment-for-milestone-1-for-my-opportunity"></a>Dlaczego nie otrzymam żadnej płatności za punkt kontrolny Milestone 1 w przypadku mojej szansy sprzedaży?
 
-## <a name="why-did-i-not-receive-any-payment-for-milestone-1-for-my-opportunity"></a>Dlaczego nie otrzymałem płatności za punkt kontrolny 1 dla mojej okazji?
+Od 15 sierpnia 2020 r. punkt kontrolny 1 jest opłacany przy 0% zatwierdzonego poziomu zachęt, a milestone 2 jest opłacany na poziomie 100% zatwierdzonego poziomu zachęt. Wszystkie otwarte działania zarejestrowane w ramach chipu przed 15 sierpnia 2020 r. będą nadal opłacane zgodnie ze wskazówkami z FY20. Zapoznaj się z [często zadawanymi pytaniami](https://assetsprod.microsoft.com/solution-assessment-incentive-program-faq.pdf) partnerów, aby uzyskać wskazówki dotyczące zmian w procesie kamieni milowych.
 
-Od 15 sierpnia 2020, punkt kontrolny 1 jest płatny przy 0% zatwierdzonego poziomu zachęty, a punkt kontrolny 2 został wypłacony o 100% zatwierdzonego poziomu zachęty. Wszystkie otwarte zakontraktowania należące do 15 sierpnia 2020 będą nadal płatne zgodnie ze wskazówkami FY20. Zapoznaj się z tematem [często zadawanych pytań dotyczących partnerów](https://assetsprod.microsoft.com/solution-assessment-incentive-program-faq.pdf) , aby uzyskać wskazówki dotyczące zmian w procesie punktu
+## <a name="how-to-i-dispute-an-opportunity-or-payment-i-received"></a>Jak zakwestionować otrzymane szanse sprzedaży lub płatność?
 
-## <a name="how-to-i-dispute-an-opportunity-or-payment-i-received"></a>Jak mogę zgłosić szansę sprzedaży lub płatność otrzymaną?
+Skontaktuj się z sygnaturą dostępu współdzielonego, która może zapewnić wskazówki dotyczące tego żądania.
 
-Skontaktuj się ze swoim sygnaturą dostępu współdzielonego, aby uzyskać wskazówki dotyczące tego żądania.
+## <a name="the-opportunity-is-closed-in-chip-which-is-preventing-me-from-uploading-poe-what-can-i-do-to-get-the-opportunity-paid"></a>Możliwość jest zamykana na stronie CHIP, co uniemożliwia mi przekazanie pliku POE. Co mogę zrobić, aby uzyskać płatną szansę sprzedaży?
 
-## <a name="the-opportunity-is-closed-in-chip-which-is-preventing-me-from-uploading-poe-what-can-i-do-to-get-the-opportunity-paid"></a>Szansa jest zamknięta w układzie, który uniemożliwia przekazywanie POE. Co mogę zrobić, aby uzyskać okazję do zapłacenia?
+Po zamknięciu szansy sprzedaży nie kwalifikuje się ona już do zachęt. Aby uzyskać dalsze wskazówki, należy się do nich out to your SAS (Sygnatura dostępu współdzielonego).
 
-Gdy szansa sprzedaży zostanie ZAMKNIĘTA, nie kwalifikuje się już do zachęty. Skontaktuj się ze swoim sygnaturą dostępu współdzielonego, aby uzyskać dalsze wskazówki.
+## <a name="how-do-i-add-a-new-adminuser-to-chip"></a>Jak mogę dodać nowego administratora/użytkownika do usługi CHIP?
 
-## <a name="how-do-i-add-a-new-adminuser-to-chip"></a>Jak mogę dodać nowego administratora/użytkownika do układu?
+Podstawowy kontakt z partnerem (administrator) jest odpowiedzialny za zaproszenie wszystkich innych użytkowników w firmie do zarejestrowania się na chipie. Są oni również odpowiedzialni za dostęp użytkowników, w tym za dezaktywację wszystkich użytkowników, którzy odchodzą z firmy. Przeczytaj Przewodnik po [platformie zachęt kanałów.](chip-intro.md)
 
-Kontakt z głównym partnerem (Administrator) ma obowiązek zaprosić wszystkich innych użytkowników w firmie do rejestracji w układzie. Są one również odpowiedzialne za dostęp użytkowników, w tym dezaktywację wszystkich użytkowników, którzy opuszczają firmę. Przeczytaj [Przewodnik dotyczący platformy zachęt w kanale](chip-intro.md).
+## <a name="the-primary-admin-has-left-our-company-how-do-we-change-my-primary-admin-in-chip"></a>Administrator podstawowy opuścił naszą firmę. Jak zmienić głównego administratora na mikroukładzie?
 
-## <a name="the-primary-admin-has-left-our-company-how-do-we-change-my-primary-admin-in-chip"></a>Administrator główny opuścił naszą firmę. Jak zmienić administratora podstawowego w układzie CHIP?
+Administrator podstawowy na stronie CHIP powinien być podstawowym kontaktem partnera w programie MPN. Upewnij się, że program MPN został zaktualizowany o nowy kontakt i skontaktuj się z regionalnym zespołem pomocy technicznej w celu zażądania zmiany na mikroukładzie.
 
-Podstawowym administratorem w układzie CHIP powinien być główny kontakt partnerski w MPN. Upewnij się, że MPN został zaktualizowany przy użyciu nowego kontaktu i skontaktuj się z zespołem pomocy technicznej, aby zażądać zmiany w układzie.
+Na pulpicie Partner Center nawigacyjnym wybierz pozycję **Pomoc techniczna** w menu po lewej stronie. Wybierz **zachęty** jako kategorię lub wyszukaj nazwę swojego programu w obszarze "Przeglądaj tematy".
 
-Na pulpicie nawigacyjnym Centrum partnerskiego wybierz pozycję **Pomoc techniczna** w menu po lewej stronie. Wybierz opcję **zachęty** jako kategorię lub Wyszukaj nazwę programu w obszarze "przeglądanie tematów".
-
-Po przejrzeniu dostępnej pomocy dotyczącej tematu, jeśli nadal potrzebujesz pomocy, możesz utworzyć bilet bezpośrednio na stronie zalecane dokumenty — **Utwórz bilet pomocy technicznej** .
+Po wyświetleniu dostępnej pomocy dotyczącej tematu, jeśli nadal potrzebujesz pomocy, możesz utworzyć bilet bezpośrednio z opcji Zalecane dokumenty — Utwórz **bilet** pomocy technicznej.
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Nawigacja — MIKROUKŁAD](chip-intro.md)
+- [Nawigowanie po układzie CHIP](chip-intro.md)

@@ -1,96 +1,91 @@
 ---
-title: Rozliczanie za jednorazowe zakupy cykliczne &
+title: Rozliczanie jednorazowych & cyklicznych zakupów
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Przykładowe rozliczenia Centrum partnerskiego i wybieranie cyklicznych zakupów — w przypadku zakupu subskrypcji należy dodać więcej subskrypcji, dodać lub usunąć licencje.
+description: Partner Center przykłady rozliczeń dla jednorazowych zakupów i wybierz cykliczne zakupy — w przypadku zakupu subskrypcji dodaj więcej subskrypcji, dodaj lub usuń licencje.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 329675e10205755819a19710976073d22f73eb58
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: a26b6e5299c5186959612e622808161ca0f7f7c2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502535"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148622"
 ---
-# <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Scenariusze rozliczania Centrum partnerskiego dla jednorazowych i wybranych cyklicznych zakupów
+# <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Partner Center scenariuszy rozliczania jednorazowych i wybierz cykliczne zakupy
 
-**Odpowiednie role**
+**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Agent pomocy technicznej | Agent sprzedaży
 
-- Agent administracyjny
-- Administrator rozliczeń
-- Agent pomocy technicznej
-- Agent sprzedaży
+Są to [typowe scenariusze rozliczeń.](common-billing-scenarios.md) 
 
-Są to [typowe scenariusze rozliczania](common-billing-scenarios.md). 
+## <a name="purchase-a-subscription-and-add-a-license-on-the-same-day"></a>Kupowanie subskrypcji i dodawanie licencji w tym samym dniu
 
-## <a name="purchase-a-subscription-and-add-a-license-on-the-same-day"></a>Kup subskrypcję i Dodaj licencję w tym samym dniu
+W scenariuszu 1 subskrypcja zostanie zakupiona 11 czerwca po cenie jednostkowej 4 USD. Później tego samego dnia zakupisz kolejną subskrypcję w tej samej cenie.
 
-W scenariuszu 1 w przypadku zakupu subskrypcji na 11 czerwca cena jednostkowa wynosząca $4. Później ten sam dzień kupuje inną subskrypcję w tej samej cenie.
+Plik rekonescji będzie obejmować następujące elementy:
 
-Plik Rekonesans będzie zawierać następujące elementy:
+- Rachunek w wysokości 4 USD za okres świadczenia usługi od 10 czerwca do 9 lipca.
+- 4,00 USD proporcjonalnie do okresu świadczenia usługi od 11 czerwca do 11 czerwca. Jest to okres, w którym masz licencję na te. Obliczenie = (cena miesięczna/łączna liczba dni w okresie świadczenia usługi) x dni w okresie świadczenia usługi proporcjonalnie x liczba licencji = (4/30) x 30 x 1 = 4,00.
+- 8,00 USD proporcjonalnie do okresu świadczenia usługi od 10 czerwca do 9 lipca. Jest to okres, w którym masz dwie licencje. Obliczenie = (4/30) x 30 x 2 = 8,00.
 
-- $4 rachunek za okres korzystania z usługi 10 czerwca — Lipiec 9.
-- opłaty za usługę $-4,00 proporcjonalnie do liczby dni dla okresu korzystania z usług 11 czerwca — Czerwiec 11. Jest to okres, w którym masz licencję. Obliczanie = (cena miesięczna/suma dni w okresie korzystania z usługi) x dni w okresie usługi proporcjonalnie do liczby licencji = (4/30) x 30 x 1 = 4,00.
-- $8,00 opłat naliczanych za okres korzystania z usługi 10 czerwca — Lipiec 9. Jest to okres, w którym masz dwie licencje. Obliczanie = (4/30) x 30 x 2 = 8,00.
-
-|**Data zakupu**   |**Opłata zaczyna się** |**Koniec opłaty**  |**Cena jednostkowa**  |**Liczba**  |**Kwota** |**Typ opłaty** |
+|**Data zakupu**   |**Początek opłaty** |**Koniec opłaty**  |**Cena jednostkowa**  |**Liczba**  |**Kwota** |**Typ opłaty** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|6/11/2019      |6/10/2019   |7/09/2019         |$4                |1                 |$4            |Nowy         |
-|6/11/2019     | 6/10/2019    |7/09/2019        |$4        |1        | -$4       |addilooć           |
-|6/11/2019     | 6/10/2019    |7/09/2019        |$4        | 2      |$8         |addilooć           |
+|6/11/2019      |6/10/2019   |7/09/2019         |4 USD                |1                 |4 USD            |Nowy         |
+|6/11/2019     | 6/10/2019    |7/09/2019        |4 USD        |1        | -$4       |addQuantity           |
+|6/11/2019     | 6/10/2019    |7/09/2019        |4 USD        | 2      |8 USD         |addQuantity           |
 
-## <a name="purchase-a-subscription-and-add-more-subscriptions-later"></a>Kup subskrypcję i Dodaj więcej subskrypcji później
+## <a name="purchase-a-subscription-and-add-more-subscriptions-later"></a>Kupowanie subskrypcji i dodawanie kolejnych subskrypcji później
 
-W scenariuszu 2, kupisz subskrypcję od 11 czerwca według ceny jednostkowej $4 i 12 czerwca, kupisz kolejną subskrypcję dla tego samego produktu w tej samej cenie.
+W scenariuszu 2 zakupisz subskrypcję 11 czerwca po cenie jednostkowej 4 USD, a 12 czerwca zakupisz kolejną subskrypcję dla tego samego produktu za tę samą cenę.
 
-Plik Rekonesans będzie zawierać następujące elementy:
+Plik rekonescji będzie obejmować następujące elementy:
 
-- $4 rachunek za okres korzystania z usługi 10 czerwca — Lipiec 9.
-- opłaty za korzystanie z stawki $-3,87 dla okresu korzystania z usług 11 czerwca – 12 czerwca. Jest to okres, w którym masz jedną licencję. Obliczanie = (cena miesięczna/suma dni w okresie korzystania z usługi) x dni w okresie usługi proporcjonalnie do liczby licencji = (4/30) x 29 x 1 = 3,87.
-- $7,74 opłat naliczanych za okres korzystania z usług 12 czerwca – Lipiec 9. Jest to okres, w którym masz dwie licencje. Obliczanie = (4/30) x 29 x 2 = 7,74.
+- Rachunek w wysokości 4 USD za okres świadczenia usługi od 10 czerwca do 9 lipca.
+- 3,87 USD proporcjonalnie do okresu świadczenia usługi od 11 czerwca do 12 czerwca. Jest to okres, w którym masz jedną licencję. Obliczenie = (cena miesięczna/łączna liczba dni w okresie świadczenia usługi) x dni w okresie świadczenia usługi proporcjonalnie x liczba licencji = (4/30) x 29 x 1 = 3,87.
+- 7,74 USD proporcjonalnie do okresu świadczenia usługi od 12 czerwca do 9 lipca. Jest to okres, w którym masz dwie licencje. Obliczenie = (4/30) x 29 x 2 = 7,74.
 
-|**Data zakupu**   |**Opłata zaczyna się** |**Koniec opłaty**  |**Cena jednostkowa**  |**Liczba**  |**Kwota** |**Typ opłaty** |
+|**Data zakupu**   |**Początek opłaty** |**Koniec opłaty**  |**Cena jednostkowa**  |**Liczba**  |**Kwota** |**Typ opłaty** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|6/11/2019 (masz jedną licencję)     |6/10/2019   |7/09/2019         |$4         |1        |$4            |Nowy         |
-|6/12/2019     | 6/10/2019    |7/09/2019        |$4        |1        | -$3,87       |addilooć           |
-|6/12/2019     | 6/10/2019    |7/09/2019        |$4        | 2      |$7,74       |addilooć           |
+|11.06.2019 (masz jedną licencję)     |6/10/2019   |7/09/2019         |4 USD         |1        |4 USD            |Nowy         |
+|6/12/2019     | 6/10/2019    |7/09/2019        |4 USD        |1        | -3,87 USD       |addQuantity           |
+|6/12/2019     | 6/10/2019    |7/09/2019        |4 USD        | 2      |7,74 USD       |addQuantity           |
 
-## <a name="purchase-a-subscription-and-remove-a-license-on-the-same-day"></a>Kup subskrypcję i Usuń licencję w tym samym dniu
+## <a name="purchase-a-subscription-and-remove-a-license-on-the-same-day"></a>Kupowanie subskrypcji i usuwanie licencji w tym samym dniu
 
-W scenariuszu 3 zakupiono dwie subskrypcje dla tego samego produktu w dniu 11 czerwca z ceną jednostkową wynoszącą $4. Później ten sam dzień usunął jedną z licencji.  
+W scenariuszu 3 zakupisz dwie subskrypcje dla tego samego produktu 11 czerwca po cenie jednostkowej 4 USD. Później tego samego dnia usuniesz jedną z licencji.  
 
-Plik Rekonesans będzie zawierać następujące elementy:
+Plik rekonescji będzie zawierać następujące elementy:
 
-- $8 Bill dla dwóch licencji dla okresu korzystania z usług 10 czerwca — Lipiec 9.
-- opłaty za usługę $-8,00 proporcjonalnie do liczby dni dla okresu korzystania z usług 11 czerwca — Czerwiec 11. Jest to okres, w którym masz dwie licencje. Obliczanie = (cena miesięczna/suma dni w okresie korzystania z usługi) x dni w okresie usługi proporcjonalnie do liczby licencji = (4/30) x 30 x 2 = 8,00.
-- $4,00 opłaty za okres korzystania z usługi w wysokości 11 czerwca – Lipiec 9. Jest to okres, w którym masz jedną licencję. Obliczanie = (4/30) x 30 x 1 = 4,00.
+- Rachunek 8 USD za dwie licencje na okres świadczenia usługi od 10 czerwca do 9 lipca.
+- –8,00 USD proporcjonalnie do okresu świadczenia usługi od 11 czerwca do 11 czerwca. Jest to okres, w którym masz dwie licencje. Obliczenie = (cena miesięczna/łączna liczba dni w okresie świadczenia usługi) x dni w okresie świadczenia usługi proporcjonalnie x liczba licencji = (4/30) x 30 x 2 = 8,00.
+- 4,00 USD proporcjonalnie za okres świadczenia usługi od 11 czerwca do 9 lipca. Jest to okres, w którym masz jedną licencję. Obliczenie = (4/30) x 30 x 1 = 4,00.
 
-|**Data zakupu**   |**Opłata zaczyna się** |**Koniec opłaty**  |**Cena jednostkowa**  |**Liczba**  |**Kwota** |**Typ opłaty** |
+|**Data zakupu**   |**Początek opłaty** |**Koniec opłaty**  |**Cena jednostkowa**  |**Liczba**  |**Kwota** |**Typ opłaty** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|6/11/2019      |6/10/2019   |7/09/2019         |$4                |2                 |$8            |Nowy         |
-|6/11/2019     | 6/10/2019    |7/09/2019        |$4        |2        | -$8       |removeQuantity           |
-|6/11/2019     | 6/10/2019    |7/09/2019        |$4        | 1      |$4         |removeQuantity           |
+|6/11/2019      |6/10/2019   |7/09/2019         |4 USD                |2                 |8 USD            |Nowy         |
+|6/11/2019     | 6/10/2019    |7/09/2019        |4 USD        |2        | -$8       |removeQuantity           |
+|6/11/2019     | 6/10/2019    |7/09/2019        |4 USD        | 1      |4 USD         |removeQuantity           |
 
-## <a name="purchase-a-subscription-and-remove-licenses-later"></a>Kup subskrypcję i Usuń licencje później
+## <a name="purchase-a-subscription-and-remove-licenses-later"></a>Kupowanie subskrypcji i usuwanie licencji później
 
-W scenariuszu 4 można zakupić dwie subskrypcje w dniu 11 czerwca w cenie jednostkowej wynoszącej $4 i 12 czerwca, po usunięciu jednej z licencji.
+W scenariuszu 4 zakupisz dwie subskrypcje 11 czerwca w cenie jednostkowej 4 USD, a 12 czerwca usuniesz jedną z licencji.
 
-Plik Rekonesans będzie zawierać następujące elementy:
+Plik rekonescji będzie zawierać następujące elementy:
 
-- $8 rachunek za okres korzystania z usługi 10 czerwca — Lipiec 9.
-- opłaty za korzystanie z stawki $-7,74 dla okresu korzystania z usług 11 czerwca – 12 czerwca. Jest to okres, w którym masz dwie licencje. Obliczanie = (cena miesięczna/suma dni w okresie korzystania z usługi) x dni w okresie usługi proporcjonalnie do liczby licencji = (4/30) x 29 x 2 = 7,74.
-- $3,87 opłat naliczanych za okres korzystania z usług 12 czerwca – Lipiec 9. Jest to okres, w którym masz jedną licencję. Obliczanie = (4/30) x 29 x 1 = 3,87.
+- Rachunek w wysokości 8 USD dla okresu świadczenia usługi od 10 czerwca do 9 lipca.
+- 7,74 USD proporcjonalnie za okres świadczenia usługi od 11 czerwca do 12 czerwca. Jest to okres, w którym masz dwie licencje. Obliczenie = (cena miesięczna/łączna liczba dni w okresie świadczenia usługi) x dni w okresie świadczenia usługi proporcjonalnie x liczba licencji = (4/30) x 29 x 2 = 7,74.
+- 3,87 USD proporcjonalnie za okres świadczenia usługi od 12 czerwca do 9 lipca. Jest to okres, w którym masz jedną licencję. Obliczenie = (4/30) x 29 x 1 = 3,87.
 
-|**Data zakupu**   |**Opłata zaczyna się** |**Koniec opłaty**  |**Cena jednostkowa**  |**Liczba**  |**Kwota** |**Typ opłaty** |
+|**Data zakupu**   |**Początek opłaty** |**Koniec opłaty**  |**Cena jednostkowa**  |**Liczba**  |**Kwota** |**Typ opłaty** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|6/11/2019 (masz dwie licencje)     |6/10/2019   |7/09/2019         |$4         |2        |$8       |Nowy       |
-|6/12/2019     | 6/10/2019    |7/09/2019        |$4        |2        | -$7,74       |removeQuantity           |
-|6/12/2019 (masz jedną licencję)    | 6/10/2019    |7/09/2019   |$4    |1      |$3,87    |removeQuantity |
+|11.06.2019 (masz dwie licencje)     |6/10/2019   |7/09/2019         |4 USD         |2        |8 USD       |Nowy       |
+|6/12/2019     | 6/10/2019    |7/09/2019        |4 USD        |2        | -7,74 USD       |removeQuantity           |
+|12.06.2019 (masz jedną licencję)    | 6/10/2019    |7/09/2019   |4 USD    |1      |3,87 USD    |removeQuantity |
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Przykładowe miesięczne Scenariusze rozliczania dla nowych subskrypcji, zmiany kwot licencji lub zawieszeń](common-billing-scenarios-monthly.md)
+- [Przykładowe miesięczne scenariusze rozliczeń dla nowych subskrypcji, zmiana kwoty licencji lub zawieszenia](common-billing-scenarios-monthly.md)

@@ -1,5 +1,5 @@
 ---
-title: Często zadawane pytania dotyczące Microsoft Partner Network
+title: Microsoft Partner Network często zadawane pytania dotyczące korzyści
 ms.topic: article
 ms.date: 02/04/2021
 description: Odpowiedzi na pytania dotyczące zasad dotyczących Microsoft Partner Network korzyści.
@@ -9,143 +9,141 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: 521e3a3adb51f528fd7b2a35103f78b0c193f1d1
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.openlocfilehash: f54e5e91dd63e5ceeaa3c25b929823e6d731d7d0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99552397"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149319"
 ---
-# <a name="microsoft-partner-network-benefits-faq"></a>Często zadawane pytania dotyczące Microsoft Partner Network
+# <a name="microsoft-partner-network-benefits-faq"></a>Microsoft Partner Network często zadawane pytania dotyczące korzyści
 
-**Odpowiednie role**
+**Odpowiednie role:** administrator partnera MPN
 
-- Administrator partnerski MPN
-
-W poniższym artykule przedstawiono niektóre z najważniejszych pytań, na które partnerzy Microsoft Partner Network (MPN) mają swoje korzyści, kompetencje i licencje na produkty.
+Poniższy artykuł zawiera odpowiedzi na niektóre główne pytania Microsoft Partner Network (MPN) dotyczące korzyści związanych z członkostwem w programie MPN, kompetencji i licencji produktów.
 
 ## <a name="responding-to-covid-19"></a>Reagowanie na COVID-19
 
-**P.** **nasza rocznica jego kompetencji jest w stanie, w którym nie można spełnić wymagań dotyczących kompetencji spowodowanych wpływem na COVID-19. Co robimy?**
+**Pytanie.** Zbliża się data rocznicy kompetencji i nie możemy spełnić wymagań dotyczących kompetencji ze względu na wpływ związany  **z coVID-19. Co należy zrobić?**
 
-A. Jeśli data rocznicy przystąpienia przypada między 1 stycznia a 30 czerwca 2021, rozszerzamy istniejące kompetencje lub kompetencje (z wyjątkiem Business Applications w chmurze) w ciągu następnej rocznicy w 2022. Nie ma potrzeby spełnienia wymagań dotyczących egzaminu lub wydajności, ale nadal będzie naliczana opłata za kompetencje.Aby uzyskać więcej informacji, zobacz nasz [wpis w blogu](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
+A. Jeśli rocznica Kompetencji przypada w okresie od 1 stycznia do 30 czerwca 2021 r., rozszerzamy Twoje istniejące kompetencje (z wyjątkiem kompetencji Cloud Business Applications) do następnej rocznicy w 2022 r. Nie musisz spełniać wymagań dotyczących egzaminu ani wydajności, ale nadal płacisz opłatę za kompetencję.Aby uzyskać więcej informacji, zobacz nasz [wpis w blogu](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
 
 ## <a name="membership"></a>Członkostwo
 
-**P: co to jest proces i czas na odnowienie kompetencji?**
+**Pytanie: Jaki jest proces i harmonogram odnawiania kompetencji?**
 
-Odp.: firma może odnowić kompetencje w centrum partnerskim. Musisz spełnić wymagania dotyczące wydajności dotyczące kompetencji, zweryfikować wymagane egzaminy i umiejętności w każdym roku i uregulować roczną opłatę w oknie odnowienia, aby zachować stan kompetencji i uzyskać dostęp do powiązanych korzyści.
+A: Twoja firma może odnowić kompetencję w Partner Center. Musisz spełniać wymagania dotyczące wydajności kompetencji, weryfikować wymagane egzaminy i umiejętności każdego roku oraz płacić roczną opłatę w ramach okna odnawiania, aby zachować stan kompetencji i dostęp do powiązanych korzyści.
 
- Przed odnowieniem kompetencji Administratorzy globalni lub administrator konta firmy muszą przejrzeć i zaktualizować informacje biznesowe. Mogą uzyskać dostęp do profilu firmy w centrum partnerskim, aby zobaczyć stan i sprawdzić, jakie informacje należy zaktualizować. Do zweryfikowania Twoich informacji może być wymagana dodatkowa dokumentacja.  
+ Przed odnowieniem kompetencji administrator globalny lub administrator konta w firmie musi przejrzeć i zaktualizować informacje biznesowe. Mogą oni uzyskać dostęp do profilu firmy w Partner Center, aby wyświetlić stan i przejrzeć informacje, które należy zaktualizować. W celu zweryfikowania informacji może być wymagana dodatkowa dokumentacja.  
 
- Okno odnowienia rozpoczyna się od rocznicy daty zakupu powiększonej o jeden dzień. Jeśli na przykład zakupiono Action Pack firmy Microsoft w dniu 1 września 2020, 30-dniowy okres odnawiania rozpoczyna się 2 września 2021. Role administratora globalnego i MPN w firmie otrzymują komunikację odnowienia, która zaczyna się do daty rocznicy i 30 dni po. W oknie odnowienia będziesz nadal mieć dostęp do skojarzonych korzyści.
+ Okno odnowienia rozpoczyna się w rocznicę daty zakupu plus jeden dzień. Jeśli na przykład zakupiono usługę Microsoft Action Pack 1 września 2020 r., 30-dniowy okres odnawiania rozpocznie się 2 września 2021 r. Role administratora globalnego i administratora MPN w firmie otrzymują komunikat o odnowieniu do daty rocznicy i po upływie 30 dni. Będziesz nadal mieć dostęp do skojarzonych korzyści w oknie odnawiania.
 
- Aby uzyskać dodatkowe informacje, odwiedź stronę " [Odnów MPN Offer](renew-mpn-offers.md)".
+ Aby uzyskać dodatkowe informacje, odwiedź stronę [Renew MPN Offer (Odnawianie oferty MPN).](renew-mpn-offers.md)
 
-**P: Kiedy można odnowić Action Pack firmy Microsoft?**
+**Pytanie: Kiedy można odnowić subskrypcję Action Pack Microsoft?**
 
-Odp.: firma może odnowić Action Pack firmy Microsoft w centrum partnerskim w oknie odnowienia.
+O: Twoja firma może odnowić konto microsoft Action Pack w Partner Center w oknie odnawiania.
 
-Przed odnowieniem Action Pack Administrator globalny lub administratora konta dla firmy będzie musiał przejrzeć i zaktualizować dane biznesowe firmy. Mogą uzyskać dostęp do profilu firmy w centrum partnerskim, aby zobaczyć swój stan i zrozumieć, jakie informacje należy zaktualizować. Do zweryfikowania Twoich informacji może być wymagana dodatkowa dokumentacja.  
+Przed odnowieniem subskrypcji Action Pack administrator globalny lub administrator konta w firmie będzie musiał przejrzeć i zaktualizować informacje biznesowe firmy. Mogą oni uzyskać dostęp do profilu firmy w Partner Center, aby zobaczyć Twój stan i zrozumieć, jakie informacje należy zaktualizować. W celu zweryfikowania informacji może być wymagana dodatkowa dokumentacja.  
 
- Okno odnowienia rozpoczyna się od rocznicy daty zakupu powiększonej o jeden dzień. Jeśli na przykład zakupiono Action Pack firmy Microsoft w dniu 1 września 2020, 30-dniowy okres odnawiania rozpoczyna się 2 września 2021. w oknie odnowienia będzie nadal można uzyskać dostęp do skojarzonych korzyści.
+ Okno odnawiania rozpoczyna się w rocznicę daty zakupu plus jeden dzień. Jeśli na przykład zakupiono usługę Microsoft Action Pack 1 września 2020 r., 30-dniowy okres odnawiania rozpocznie się 2 września 2021 r. Będziesz nadal mieć dostęp do skojarzonych korzyści w oknie odnawiania.
 
- Aby uzyskać dodatkowe informacje, odwiedź stronę " [Odnów MPN Offer](renew-mpn-offers.md) "
+ Aby uzyskać dodatkowe informacje, odwiedź stronę [Renew MPN Offer (Odnawianie oferty MPN)](renew-mpn-offers.md)
 
-**P: Jaka jest różnica między Action Pack firmy Microsoft a Action Pack uczenia?**
+**Pytanie: Jaka jest różnica między usługą Microsoft Action Pack a usługą Learning Action Pack?**
 
-Odp.: Microsoft Action Pack to portfolio zasobów, które ułatwiają partnerom zapoznanie się z technologiami firmy Microsoft i kompilowanie rozwiązań/usług. Możesz kupić jedną firmę Microsoft Action Pack niezależnie od tego, czy masz kompetencje, czy nie.
+O: Usługa Microsoft Action Pack to portfolio zasobów, które ułatwiają partnerom, np. zapoznanie się z technologiami firmy Microsoft i tworzenie rozwiązania/usługi. Możesz kupić jedną usługę microsoft Action Pack, niezależnie od tego, czy masz kompetencję, czy nie.
 
-Action Pack uczenia to poziom wpisu do programu partnerskiego uczenie. Program szkoleniowy udostępnia zasoby dla firm, które oferują szkolenia technologiczne i/lub mają praktyczne uczenie się. [Action Pack szkoleniowe](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/) oferuje rabaty dla programów kursowych, Marketplace i korzyści, aby pomóc partnerom uzyskiwać ekspertów w różnych wierszach produktów firmy Microsoft.
-Zapoznaj się z [tabelą licencjonowania](https://assetsprod.microsoft.com/microsoft-action-pack-license-table.pdf) dla Action Pack firmy Microsoft i Action Pack uczenia.
+Poziom Action Pack to poziom wejścia do programu Learning Partner Program. Program Szkoleniowy udostępnia zasoby dla firm, które oferują szkolenia technologiczne i/lub praktykę szkoleniową. Witryna [Learning Action Pack](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/) oferuje rabaty na produkty Courseware, Marketplace i korzyści, aby pomóc partnerom stać się ekspertami w różnych produktach firmy Microsoft.
+Zapoznaj się z [tabelą licencjonowania](https://assetsprod.microsoft.com/microsoft-action-pack-license-table.pdf) dla witryny Microsoft Action Pack i witryny Learning Action Pack.
 
-**P:** **co się stanie z naszymi kompetencjami lub Action Pack korzyści w ramach 30-dniowego okresu odnawiania?**
+**Pytanie:** Co się dzieje z naszą kompetencją **lub korzyściami Action Pack w 30-dniowym okresie odnawiania?**
 
-Odp.: zgodnie z umową MPN będziesz nadal mieć dostęp do korzyści z programu, o ile Twoje członkostwo jest aktywne. Po wygaśnięciu członkostwa dostęp do korzyści zostanie utracony.
+O: Zgodnie z umową MPN będziesz nadal mieć dostęp do korzyści związanych z programem, dopóki twoje członkostwo jest aktywne. Po wygaśnięciu członkostwa dostęp do korzyści zostanie utracony.
 
- Aby uzyskać dodatkowe informacje, odwiedź stronę " [Odnów MPN Offer](renew-mpn-offers.md) "
+ Aby uzyskać dodatkowe informacje, odwiedź stronę [Odnawianie oferty MPN](renew-mpn-offers.md)
 
 ## <a name="product-licenses"></a>Licencje na produkty
 
-**P: Jakie są bieżące oferty dla partnerów w Microsoft Partner Network na licencji na produkt?**
+**Pytanie: Jakie są aktualne oferty dla partnerów w Microsoft Partner Network licencji produktów?**
 
-Odp.: licencje na produkty (określane również jako licencje użytkowania wewnętrznego lub prawa do użytku wewnętrznego) są zawarte w korzyściach dla partnerów, którzy korzystają z kompetencji lub kupują Action Pack firmy Microsoft. Uzyskaj listę bieżących ofert licencji na produkty z [przewodnika po programach Microsoft Partner Network](https://aka.ms/partner-benefits-use-guide).
+A: Licencje na produkty (nazywane również licencjami do użytku wewnętrznego lub prawami do użytku wewnętrznego) są uwzględniane w korzyściach dla partnerów, którzy osiągają kompetencję lub kupują licencję firmy Microsoft Action Pack. Listę bieżących ofert licencji produktów można uzyskać w [przewodniku po Microsoft Partner Network produktów.](https://aka.ms/partner-benefits-use-guide)
 
-**P: Czy można użyć pojedynczego tokenu w celu odblokowania wielu subskrypcji?**
+**Pytanie: Czy do odblokowania wielu subskrypcji można użyć jednego tokenu?**
 
-Odp.: nie, nie można podzielić tokenów w celu odblokowania wielu subskrypcji. Tokeny muszą być używane w podanym formacie. Na przykład nie można podzielić na siebie tokenów 25-stanowiskowych na 5 różnych tokenów 5-stanowiskowych.
+A: Nie, nie można podzielić tokenów w celu odblokowania wielu subskrypcji. Tokeny muszą być używane w dostarczonym formacie. Na przykład tokenu 25-miejscowego nie można podzielić na 5 różnych tokenów 5-miejscowych.
 
-Aby uzyskać dodatkowe informacje, zapoznaj się z przewodnikiem po programach partnerskich firmy Microsoft [aka.MS/partner-Benefits-use-Guide](https://aka.ms/partner-benefits-use-guide)
+Aby uzyskać dodatkowe informacje, zapoznaj się z przewodnikiem po programach partnerskich firmy Microsoft [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**P:** **w przypadku aktywacji tokenu dla usług w chmurze w niewłaściwej dzierżawie lub dodania siedzeń zamiast rozszerzania można uzyskać token zastępczy?**
+**Pytanie:** **Jeśli aktywowaliśmy token dla** usług w chmurze w niewłaściwej dzierżawie lub dodaliśmy stanowiska zamiast rozszerzać, czy możemy uzyskać token zastępczy?
 
-Odp.: zastępowanie tokenów dla aktywacji usługi w chmurze w niewłaściwej dzierżawie i w przypadku siedzeń dodanych przez pomyłkę w istniejących subskrypcjach można wydać jednorazowo tylko w ciągu 30 dni od aktywacji oryginalnego tokenu.
+A: Tokeny zastępcze dla aktywacji usługi w chmurze w niewłaściwej dzierżawie i dla miejsc dodanych przez pomyłkę w istniejących subskrypcjach mogą być wystawiane tylko raz w ciągu 30 dni od aktywacji oryginalnego tokenu.
 
-Aby uzyskać dodatkowe informacje, zapoznaj się z przewodnikiem po programach partnerskich firmy Microsoft [aka.MS/partner-Benefits-use-Guide](https://aka.ms/partner-benefits-use-guide)
+Aby uzyskać dodatkowe informacje, zapoznaj się z przewodnikiem po programach partnerskich firmy Microsoft [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**P: w przypadku licencji na oprogramowanie lokalne, czy musimy dysponować kluczem produktu do instalacji?**
+**Pytanie: czy w przypadku licencji na lokalne oprogramowanie do instalacji potrzebny jest klucz produktu?**
 
-Odp.: nie wszystkie produkty wymagają klucza produktu. Aktywacja produktu jest wymagana w przypadku systemów operacyjnych Windows Server i klienckich oraz wszystkich Microsoft Office aplikacji klienckich.
+A: Nie wszystkie produkty wymagają klucza produktu. Aktywacja produktu jest wymagana w przypadku serwerów i klienckich systemów operacyjnych Windows oraz wszystkich Microsoft Office klienckich.
 
- Aby uzyskać dodatkowe informacje, zapoznaj się z przewodnikiem po programach partnerskich firmy Microsoft [aka.MS/partner-Benefits-use-Guide](https://aka.ms/partner-benefits-use-guide)
+ Aby uzyskać dodatkowe informacje, zapoznaj się z przewodnikiem po programach partnerskich firmy Microsoft [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**P: czy możemy uzyskać więcej kluczy produktów, jeśli wykorzystano wszystkie instalacje i aktywacje?**
+**Pytanie: Czy możemy uzyskać więcej kluczy produktów, jeśli zużyliśmy wszystkie instalacje i aktywacje?**
 
-Odp.: Niektóre klucze produktu są wystawiane z użyciem klucza aktywacji wielokrotnej (MAK). Te produkty mają skończoną liczbę instalacji, aktywacji lub stanowisk. Klucz produktu przestanie działać po wykorzystaniu wszystkich instalacji i aktywacji. Nie zostanie przyznane dodatkowe aktywacje dla tych kluczy produktów.
+A: Niektóre wystawione klucze produktów to wiele kluczy aktywacji (MAK). Te produkty mają ograniczoną liczbę instalacji, aktywacji lub miejsc. Klucz produktu przestanie działać, gdy zostaną zużyte wszystkie instalacje i aktywacje. Dodatkowe aktywacje dla tych kluczy produktów nie zostaną przyznane.
 
- Aby uzyskać dodatkowe informacje, odwiedź stronę podręcznika programów partnerskich firmy Microsoft [aka.MS/partner-Benefits-use-Guide](https://aka.ms/partner-benefits-use-guide)
+ Aby uzyskać dodatkowe informacje, odwiedź stronę Przewodnik po programach partnerskich firmy Microsoft [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**P: co w przypadku rezygnacji z odnowienia kompetencji lub Action Pack firmy Microsoft czy nadal będziemy używać licencji na oprogramowanie lokalne?**
+**Pytanie: Co zrobić, jeśli zdecydujemy się nie odnawiać kompetencji lub Action Pack Microsoft, czy nadal będziemy korzystać z licencji na oprogramowanie lokalne?**
 
-Odpowiedź: nie. Licencje na oprogramowanie lokalne, które są dołączone do osiągnięcia kompetencji, i Action Pack firmy Microsoft nie są bezterminowe.
-Masz uprawnienia i masz prawo do używania tych licencji tylko w ramach członkostwa. Musisz uzyskać prawa licencji za pośrednictwem licencji komercyjnej lub Odinstaluj oprogramowanie lokalne uzyskane za pośrednictwem Microsoft Partner Network, jeśli nie zdecydujesz się na odnowienie kompetencji lub Action Pack.
+Odpowiedź: nie. Licencje na oprogramowanie lokalne, które są objęte poziomem kompetencji, i licencja Action Pack Microsoft nie są bezterminowe.
+Masz prawo i masz prawo do korzystania z tych licencji tylko podczas członkostwa. Musisz uzyskać prawa licencyjne za pośrednictwem licencjonowania komercyjnego lub odinstalować dowolne oprogramowanie lokalne uzyskane za pośrednictwem usługi Microsoft Partner Network, jeśli zdecydujesz się nie odnawiać kompetencji lub Action Pack.
 
-Aby uzyskać dodatkowe informacje, odwiedź stronę podręcznika programów partnerskich firmy Microsoft [aka.MS/partner-Benefits-use-Guide](https://aka.ms/partner-benefits-use-guide)
+Aby uzyskać dodatkowe informacje, odwiedź stronę Przewodnik po programach partnerskich firmy Microsoft [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**P: czy firma Microsoft Action Pack obejmuje subskrypcję Visual Studio Enterprise?**
+**Pytanie: Czy usługa Microsoft Action Pack obejmuje Visual Studio Enterprise subskrypcji?**
 
-Odp.: nie, Action Pack firmy Microsoft zawiera tylko subskrypcje Visual Studio Professional.
+A: Nie, usługa Microsoft Action Pack obejmuje Visual Studio Professional tylko subskrypcje.
 
-Aby uzyskać dodatkowe informacje, odwiedź stronę podręcznika programów partnerskich firmy Microsoft [aka.MS/partner-Benefits-use-Guide](https://aka.ms/partner-benefits-use-guide)
+Aby uzyskać dodatkowe informacje, odwiedź stronę Przewodnik po programach partnerskich firmy Microsoft [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**P: Czy można udostępnić subskrypcje programu Visual Studio, które są dołączone do osiągnięcia kwalifikacji lub Action Pack firmy Microsoft?**
+**Pytanie: Czy możemy udostępnić subskrypcje Visual Studio, które są objęte poziomem kompetencji, lub subskrypcje Action Pack?**
 
-Odp.: nie, subskrypcje programu Visual Studio są licencjonowane na użytkownika i muszą być przypisane i aktywowane, aby były prawidłowe. Udostępnianie poświadczeń logowania jest zabronione.
+A: Nie, Visual Studio są licencjonowane na użytkownika i muszą być przypisane i aktywowane, aby być prawidłowe. Udostępnianie poświadczeń logowania jest zabronione.
 
-Aby uzyskać dodatkowe informacje, odwiedź stronę podręcznika programów partnerskich firmy Microsoft [aka.MS/partner-Benefits-use-Guide](https://aka.ms/partner-benefits-use-guide)
+Aby uzyskać dodatkowe informacje, odwiedź stronę Przewodnik po programach partnerskich firmy Microsoft [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**Pytania.** **Jak wiemy, ile licencji na produkt** **posiada firma?**
+**P.** **Skąd wiemy, ile licencji produktów** ma **nasza firma?**
 
-A. Można wyświetlać i zarządzać licencjami na produkty oraz inne korzyści związane z osiągnięciem kompetencji lub Action Pack w centrum partnerskim. Dowiedz się więcej w temacie [Zarządzanie korzyściami z sieci partnerskiej](manage-your-partner-network-benefits.md).
+A. Licencje produktów i inne korzyści związane z poziomem kompetencji można wyświetlać i zarządzać nimi w Action Pack w Partner Center. Dowiedz się więcej na [temat zarządzania korzyściami dla sieci partnerów.](manage-your-partner-network-benefits.md)
 
-**Pytania. Jak firma Microsoft może korzystać z licencji na produkty w ramach osiągnięcia kompetencji lub Action Pack?**
+**P. W jaki sposób firma może korzystać z dostępnych nam licencji na produkty w ramach poziomu kompetencji lub Action Pack?**
 
-A. Firma Microsoft oferuje licencje na produkty dla partnerów w Microsoft Partner Network, którzy mają co najmniej jedną kompetencję, lub kupują Action Pack, aby pomóc im w tworzeniu innowacyjnych rozwiązań i zapoznać się z produktami i technologiami firmy Microsoft. Warunki użytkowania licencji na produkty dołączone do osiągnięcia kompetencji i Action Pack są wyjaśnione w [przewodniku Microsoft Partner Network programów](https://aka.ms/partner-benefits-use-guide).
+A. Dołączamy licencje produktów dla partnerów w Microsoft Partner Network, którzy mają co najmniej jedną kompetencję, lub zakupią usługę Microsoft Action Pack, aby ułatwić im tworzenie innowacyjnych rozwiązań i zapoznanie się z produktami i technologiami firmy Microsoft. Warunki użytkowania licencji produktów zawartych w celu osiągnięcia kompetencji i Action Pack zostały wyjaśnione w [przewodniku Microsoft Partner Network programach.](https://aka.ms/partner-benefits-use-guide)
 
-**Pytania.** **Czy istnieją ograniczenia dotyczące sposobu** **, w jaki firma Microsoft może korzystać z licencji na produkty w ramach osiągnięcia kompetencji lub Action Pack?**
+**P.** **Czy istnieją ograniczenia dotyczące sposobu,** w jaki firma może korzystać z dostępnych dla nas licencji produktów w ramach poziomu kompetencji **lub Action Pack?**
 
-A. Tak, istnieją ograniczenia. Warunki użytkowania licencji produktu są inne niż Licencje komercyjne nabyte za pomocą programów licencjonowania firmy Microsoft. Aby uzyskać więcej informacji, Przeczytaj [warunki użytkowania licencji na produkt](https://www.microsoft.com/licensing).
-Licencje na produkty nie obejmują programu Software Assurance i istnieją pewne ograniczenia dotyczące licencji na produkty. Warunki użytkowania licencji na produkty można sprawdzić w [przewodniku po programach Microsoft Partner Network](https://aka.ms/partner-benefits-use-guide).
+A. Tak, istnieją ograniczenia. Warunki użytkowania licencji produktów różnią się od licencji komercyjnych nabytych za pośrednictwem programów licencjonowania firmy Microsoft. Aby uzyskać więcej informacji, zapoznaj [się z warunkami użytkowania licencjonowania produktów.](https://www.microsoft.com/licensing)
+Licencje produktów nie obejmują programu Software Assurance i istnieją pewne ograniczenia dotyczące licencji produktów. Warunki użytkowania licencji produktów można przejrzeć w [przewodniku po programach Microsoft Partner Network usługi](https://aka.ms/partner-benefits-use-guide).
 
-**Pytania.** **Jak dodać więcej licencji na produkty wymienione w centrum partnerskim, aby nasza** **firma była objęta usługą?**
+**P.** **Jak dodać więcej licencji produktów** do tego, co jest wymienione w Partner Center, aby nasza firma została **objęta?**
 
-A. Licencje na produkty objęte osiągnięciem kompetencji oraz Action Pack mają różne warunki użytkowania od licencji komercyjnych nabyte za pośrednictwem programów licencjonowania firmy Microsoft. Zalecamy przejrzenie opcji związanych z licencjonowaniem firmy w firmie [Microsoft](https://www.microsoft.com/licensing).
+A. Licencje produktów objęte poziomem kompetencji i Action Pack mają inne warunki użytkowania niż licencje komercyjne pozyskane za pośrednictwem programów licencjonowania firmy Microsoft. Zalecamy zapoznanie się z opcjami spełniania potrzeb firmy w zakresie licencjonowania w witrynie [licencjonowania firmy Microsoft.](https://www.microsoft.com/licensing)
 
-**Pytania. Niedawno zostałeś scalony z inną firmą w Microsoft Partner Network, która ma kompetencje. Czy będziemy otrzymywać wszystkie nasze bieżące licencje na produkty, gdy korzystamy z możliwości scalania kont w centrum partnerskim?**
+**P. Niedawno scaliliśmy się z inną firmą w Microsoft Partner Network, która ma kompetencję. Czy podczas korzystania z możliwości scalania kont w programie możemy zachować wszystkie nasze bieżące licencje Partner Center?**
 
-A. Osiągnięcie kompetencji i Action Pack zakupu są wykonywane w centrum partnerskim przez konto globalne partnera. W przypadku korzystania z funkcji scalania kont w centrum partnerskim istniejące korzyści dla każdego konta pozostają tak samo, jak do następnego odnowienia. Po odnowieniu korzyści związane z osiągnięciem kompetencji i Action Pack są implementowane dla konta globalnego partnera firmy partnerskiej.
+A. Poziom kompetencji i Action Pack są ukończone w Partner Center za pośrednictwem konta globalnego partnera. Jeśli korzystasz z możliwości scalania kont w Partner Center, istniejące korzyści dla każdego konta pozostaną bez końca aż do następnego odnowienia. Po odnowieniu korzyści związane z poziomem kompetencji i Action Pack są implementowane dla konta globalnego partnera firmy partnerskiej.
 
--   Microsoft Action Pack: Firma partnerska może zakupić jeden Action Pack na konto globalne partnera.
+-   Microsoft Action Pack: firma partnerska może zakupić jedną Action Pack na konto globalne partnera.
 
--   Kompetencje: Firma partnerska otrzyma jeden pakiet głównych korzyści, które są powiązane z największą osiągnięciem, oraz uprawnienia specyficzne dla kompetencji partnera na koncie globalnym partnera.
+-   Kompetencja: firma partnerska otrzyma jeden pakiet podstawowych korzyści skojarzonych z najwyższym poziomem wykształcenia oraz korzyści specyficzne dla kompetencji, do których partner kwalifikuje się na koncie globalnym partnera.
 
- Przejrzyj informacje o [scalaniu kont](merge-accounts.md) , aby dowiedzieć się więcej o tym, jak działa funkcja, i jak zdecydować, czy jest to odpowiednie dla potrzeb firmy.
+ Zapoznaj się z informacjami na temat scalania [kont,](merge-accounts.md) aby dowiedzieć się więcej o tym, jak działa funkcja i jak zdecydować, czy jest ona właściwa dla potrzeb Twojej firmy.
 
-**Pytania.** **Mamy pytania dotyczące** **licencji produktów firmy Microsoft w centrum partnerskim. Gdzie mamy Ci pomoc?**
+**P.** **Mamy pytania dotyczące licencji** produktów firmy w **Partner Center. Gdzie możemy uzyskać pomoc w tym celu?**
 
-A. Możesz przejść do [sekcji Pomoc techniczna Centrum partnerskiego](https://partner.microsoft.com/support) , aby uzyskać linki do zasobów, które mogą być przydatne, lub otworzyć bilet z zespołem pomocy technicznej nasz partner w razie potrzeby.
+A. Możesz przejść do sekcji [Pomoc techniczna](https://partner.microsoft.com/support) w Partner Center, aby uzyskać linki do zasobów, które mogą być pomocne, lub otworzyć bilet dla naszego zespołu pomocy technicznej partnera, jeśli to konieczne.
 
 ## <a name="next-steps"></a>Następne kroki
 
 - [Znajdowanie korzyści programu Microsoft Partner Network](mpn-find-benefits.md)
-- [Odnów ofertę MPN](renew-mpn-offers.md)
+- [Odnawianie oferty MPN](renew-mpn-offers.md)

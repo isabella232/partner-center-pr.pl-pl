@@ -9,21 +9,16 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: cd7567a53f517d770bf51c734f5a1ace7b6ec94b
-ms.sourcegitcommit: 25336c9e4ff1e76669ac71539265f79d1b2b29f5
+ms.openlocfilehash: 234e183ae814dc30f8d7d00c5dddb1ffea612825
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "107941779"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150560"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Jak dodać nowy rekord klienta w Partner Center
 
-**Odpowiednie role**
-
-- Administrator globalny
-- Administrator zarządzania użytkownikami
-- Agent administracyjny
-- Agent sprzedaży
+**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent administracyjny | Agent sprzedaży
 
 W tym artykule opisano sposób dodawania nowego klienta do listy klientów w Partner Center. Te kroki są wymagane, aby można było sprzedawać subskrypcje, zarządzać rozliczeniami lub zapewniać pomoc techniczną klientowi.
 
@@ -50,14 +45,14 @@ W tym artykule opisano sposób dodawania nowego klienta do listy klientów w Par
   
 3. Jeśli jesteś dostawcą pośrednim, wybierz z listy odsprzedawcę pośredniego, który chcesz skojarzyć z subskrypcjami tego klienta.
 
-4. Po **zakończeniu wprowadzania** wszystkich wymaganych informacji wybierz pozycję Dalej: Subskrypcje.
+4. Wybierz **pozycję Dalej: Subskrypcje** po zakończeniu wprowadzania wszystkich wymaganych informacji.
 
 5. Na **stronie Subskrypcje** wybierz oferty, które klient chce kupić od Ciebie, wprowadź liczbę licencji, a następnie wybierz pozycję **Dalej: Przejrzyj**.
 
 6. Na stronie **Przegląd** sprawdź poprawność wpisów, a następnie wybierz pozycję **Prześlij,** jeśli informacje są poprawne.
 
    >[!NOTE]
-   >Jeśli musisz zmienić jakiekolwiek szczegóły klienta, wybierz pozycję **Aktualizuj** w **sekcji Informacje o** koncie. Jeśli musisz zmienić wybrane oferty, wybierz pozycję **Aktualizuj** w **sekcji** Subskrypcje.
+   >Jeśli musisz zmienić jakiekolwiek szczegóły klienta, wybierz pozycję **Aktualizuj** w **sekcji Informacje o koncie.** Jeśli musisz zmienić wybrane oferty, wybierz pozycję **Aktualizuj** w **sekcji** Subskrypcje.
 
 7. Po **zakończeniu** dodawania informacji o kliencie i zakupienia wymaganych subskrypcji wybierz pozycję Gotowe.
 

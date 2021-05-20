@@ -1,6 +1,6 @@
 ---
-title: Analizowanie użycia platformy Azure w celu ułatwienia rozwoju firmy
-description: Dowiedz się, jak korzystać z Centrum partnerskiego, aby uzyskiwać dane dotyczące użycia subskrypcji platformy Azure dla klientów. Dane obejmują subskrypcje sprzedawane, zagrożone i używane.
+title: Analizowanie użycia platformy Azure w celu rozwoju firmy
+description: Dowiedz się, jak Partner Center, aby uzyskać dane dotyczące użycia subskrypcji platformy Azure klientów. Dane obejmują sprzedane, zagrożone i w użyciu subskrypcje.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
@@ -9,59 +9,54 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 0a7bc34ded62eb9e19dbbad8e214eb30534b8ea6
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: e2acdb777e0ef77ebf9d08eed3d3842c74af9e18
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439116"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150237"
 ---
-# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Pobierz dane o tym, jak dobrze działają klienci i subskrypcje platformy Azure
+# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Uzyskiwanie danych o tym, jak dobrze radzią sobie klienci i subskrypcje platformy Azure
 
 
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent administracyjny | Agent sprzedaży
 
-- Administrator globalny
-- Administrator zarządzania użytkownikami
-- Agent administracyjny
-- Agent sprzedaży
+Dane wpływają na decyzje biznesowe. Użyj metryk na stronie użycia **platformy Azure,** aby zidentyfikować sukcesy i obszary, które wymagają większej uwagi. Użyj tych informacji podczas planowania nowych celów biznesowych.
 
-Decyzje biznesowe na dyskach danych. Użyj metryk na stronie **użycie platformy Azure** , aby zidentyfikować Twoje sukcesy i obszary, które wymagają większej uwagi. Te informacje służą do planowania nowych celów firmy.
-
-Aby przejść do **korzystania z platformy Azure**, zaloguj się na [pulpicie nawigacyjnym](https://partner.microsoft.com/dashboard)Centrum partnerskiego. Wybierz pozycję **Analiza** w menu Centrum partnerskiego, a następnie wybierz pozycję **użycie platformy Azure**.
+Aby uzyskać informacje o użyciu **platformy Azure,** zaloguj się do Partner Center [nawigacyjnego](https://partner.microsoft.com/dashboard). Wybierz **pozycję Analiza** z menu Partner Center, a następnie wybierz pozycję Użycie platformy **Azure.**
 
 > [!NOTE]
-> Analiza użycia platformy Azure jest dostępna tylko dla partnerów w programie dostawcy rozwiązań w chmurze.
+> Analiza użycia platformy Azure jest dostępna tylko dla partnerów w Dostawca rozwiązań w chmurze programie.
 
 Śledzimy następujące metryki:
 
 ## <a name="summary"></a>Podsumowanie
 
-- **Łączna liczba sprzedawanych subskrypcji platformy Azure**: ilość subskrypcji sprzedanych w określonym okresie  
-- **Klienci z użyciem**: liczba klientów z użyciem platformy Azure w określonym przedziale czasu  
-- **Klienci bez użycia**: liczba klientów bez użycia platformy Azure w określonym przedziale czasu  
+- **Łączna liczba sprzedanych subskrypcji platformy Azure:** liczba sprzedanych subskrypcji w określonym przedziale czasu  
+- **Klienci z użyciem:** liczba klientów korzystających z platformy Azure w określonym przedziale czasu  
+- **Klienci bez użycia:** liczba klientów bez użycia platformy Azure w określonym przedziale czasu  
 
-## <a name="top-5-customers-in-category"></a>5 najpopularniejszych klientów w kategorii
+## <a name="top-5-customers-in-category"></a>5 najlepszych klientów w kategorii
 
-- 5 najpopularniejszych klientów dla określonej kategorii  
+- 5 najlepszych klientów w określonej kategorii  
 
-## <a name="azure-subscriptions-at-risk"></a>Subskrypcje platformy Azure zagrożone
+## <a name="azure-subscriptions-at-risk"></a>Zagrożone subskrypcje platformy Azure
 
-Ta sekcja wskazuje ryzyko związane z zmianą w ramach subskrypcji platformy Azure. Te informacje mogą być używane przez partnerów do zaangażowania się z klientami i minimalizowania zmian
+Ta sekcja wskazuje przewidywane ryzyko zmian w subskrypcjach platformy Azure. Te informacje mogą być używane przez partnerów do angażowania klientów i minimalizowania rezygnacji
 
 ## <a name="subscriptions-without-usage"></a>Subskrypcje bez użycia
 
 - Lista określonych subskrypcji bez użycia platformy Azure w określonym przedziale czasu  
 
-## <a name="azure-subscription-churn"></a>Zmiany subskrypcji platformy Azure
+## <a name="azure-subscription-churn"></a>Rezygnacja z subskrypcji platformy Azure
 
-- **Aktywne subskrypcje**: liczba aktywnych subskrypcji według daty  
-- **Niezainicjowane subskrypcje**: liczba subskrypcji cofniętych lub zawieszonych według daty  
+- **Aktywne subskrypcje:** liczba aktywnych subskrypcji według daty  
+- **Anulowano aprowizowane subskrypcje:** liczba subskrypcji, dla których anulowano aprowizę lub która została wstrzymana według daty  
 
 ## <a name="customer-count"></a>Liczba klientów
 
-- Nowi klienci uzyskali w określonym okresie  
+- Nowi klienci pozyskani w określonym przedziale czasu  
 
 ## <a name="azure-subscription-retention"></a>Przechowywanie subskrypcji platformy Azure
 
@@ -69,4 +64,4 @@ Ta sekcja wskazuje ryzyko związane z zmianą w ramach subskrypcji platformy Azu
 
  ## <a name="next-steps"></a>Następne kroki
 
-- [Kup plan platformy Azure dla klientów & uzyskać dostęp do najnowszych usług platformy Azure w ramach stawek płatność zgodnie z rzeczywistym użyciem](purchase-azure-plan.md)
+- [Kup plan platformy Azure dla klientów, & uzyskać dostęp do najnowszych usług platformy Azure ze stawkami płatności zgodnie z użyciem](purchase-azure-plan.md)

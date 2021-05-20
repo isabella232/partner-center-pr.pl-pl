@@ -2,39 +2,37 @@
 title: Sprawdzanie stanu płatności na platformie CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Dowiedz się, jak korzystać z platformy zachęt w kanale (MIKROUKŁAD) do sprawdzania stanu płatności. Należy zauważyć, że MIKROUKŁAD zostanie wycofany z końcem 2021.
+description: Dowiedz się, jak sprawdzić stan płatności za pomocą platformy Channel Incentives Platform (CHIP). Należy pamiętać, że chip zostanie wycofany z końcem 2021 r.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b234f026592a6f6040cc901a3721b144b1c6c4e7
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 4bd3ff28dbc0ff159a68827735b81be5ac1eb948
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570539"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148894"
 ---
-# <a name="check-payment-status-in-the-channel-incentives-platform-chip"></a>Sprawdź stan płatności na platformie zachęty kanału (MIKROUKŁAD)
+# <a name="check-payment-status-in-the-channel-incentives-platform-chip"></a>Sprawdzanie stanu płatności na platformie Channel Incentives Platform (CHIP)
 
-**Odpowiednie role**
-
-- Administrator mikroukładu
+**Odpowiednie role:** administrator mikroukładu
 
 >[!NOTE]
->Platforma mikroukładu zostanie wycofana z końcem 2021.
+>Platforma CHIP zostanie wycofana z końcem 2021 r.
 
-## <a name="payment-status-for-the-enterprise-and-splar-programs"></a>Status płatności dla programów przedsiębiorstwa i SPLAR
+## <a name="payment-status-for-the-enterprise-and-splar-programs"></a>Stan płatności dla programów Enterprise i SPLAR
 
-Aby sprawdzić status płatności w układzie CHIP dla programów Enterprise i SPLAR, wykonaj następujące czynności:
+Aby sprawdzić stan płatności na platformie CHIP, w przypadku programów Enterprise i SPLAR wykonaj następujące kroki:
 
-1. Zaloguj się do układu.
+1. Zaloguj się do mikroukładu.
  
-1. Wybierz link programu **Enterprise** lub **SPLAR** na ekranie głównym układu, aby otworzyć pulpit nawigacyjny. Pulpit nawigacyjny jest ekranem podsumowania dla wszystkich zarobków i płatności.
+1. Wybierz link **Enterprise lub** **SPLAR** program na ekranie głównym chipu, aby otworzyć pulpit nawigacyjny. Pulpit nawigacyjny to ekran podsumowania wszystkich zarobków i płatności.
  
-1. Aby pobrać pełne szczegóły dotyczące zarobków, płatności lub obliczeń, wybierz opcję  **Eksportuj do programu Excel** z listy rozwijanej **Wybierz** .
+1. Aby pobrać pełne szczegóły zarobków, płatności lub obliczeń, wybierz pozycję  **Eksportuj** do programu Excel z **listy rozwijanej** Wybierz.
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Uprawnienie do oceny rozwiązań](chip-solution-assessment.md) 
+- [Uprawnienia do oceny rozwiązań](chip-solution-assessment.md) 

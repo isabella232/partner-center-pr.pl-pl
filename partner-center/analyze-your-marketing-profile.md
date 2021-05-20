@@ -4,112 +4,110 @@ ms.topic: article
 ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, w jaki sposób używać strony potencjalni klienci, aby zobaczyć, jak dobrze przechwytywasz informacje o klientach docelowych i generują odwołania.
+description: Dowiedz się, jak używać strony szczegółowych informacji o potencjalnych klientach, aby zobaczyć, jak dobrze przyciągasz uwagę klientów docelowych i generujesz polecenia.
 author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: 6ddb9544e0c6f6a29540fe30d03d307318ddfdf8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530837"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150220"
 ---
 # <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analiza potencjalnych klientów — sprawdź, jak skutecznie przyciągasz docelowych odbiorców i klientów z polecenia
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator poleceń
 
-- Administrator odwołań
+Na **stronie** Potencjalni klienci w sekcji **Analiza** w sekcji Skierowania możesz zobaczyć, jak działa Twoje polecenia. Regularnie sprawdzaj te metryki, aby identyfikować trendy lub obszary, które wymagają uwagi, i zacząć prowadzeniu w kierunku celów biznesowych.
 
-Strona **potencjalni klienci** w sekcji **Analiza** odwołań pozwala zobaczyć, jak są wykonywane odwołania. Regularnie Przeglądaj te metryki, aby identyfikować trendy i obszary wymagające uwagi, a także rozpocząć pracę na podstawie celów firmy.
-
-Aby wyświetlić dane dotyczące potencjalnych klientów, w menu Centrum partnerskiego przejdź do pozycji **odwołania > analizuj > potencjalni klienci**.
+Aby wyświetlić dane szczegółowych informacji o potencjalnych Partner Center, z menu przejdź do pozycji Polecenia i > analizuj potencjalnych > **potencjalnych klientów.**
 
 ## <a name="apply-filters"></a>Stosowanie filtrów
 
-W górnej części strony **potencjalni klienci** możesz wybrać przedział czasu, dla którego chcesz wyświetlić dane. Wybór domyślny to **3m** (trzy miesiące), ale możesz wybrać wyświetlanie danych przez sześć miesięcy lub jeden rok. Możesz również wybrać opcję **niestandardowe** , aby wyświetlić dane dla wszystkich odwołań w określonym przedziale czasu.
+W górnej części strony **Potencjalni** klienci możesz wybrać okres, dla którego chcesz wyświetlić dane. Wartość domyślna to **3 mln** (trzy miesiące), ale zamiast tego można wybrać wyświetlanie danych przez okres sześciu miesięcy lub roku. Możesz również wybrać pozycję **Niestandardowe,** aby wyświetlić dane dla wszystkich poleceń w określonym okresie.
 
-Możesz kliknąć przycisk Filtry, aby otworzyć panel, który umożliwia filtrowanie wszystkich danych na tej stronie według nazwy klienta, kraju, typu transakcji, kierunku transakcji, nazwy rozwiązania i stanu. Poniżej znajdują się szczegółowe informacje o tych filtrach.
+Możesz kliknąć przycisk Filtry, aby otworzyć panel, który umożliwia filtrowanie wszystkich danych na tej stronie według nazwy klienta, kraju, typu transakcji, kierunku transakcji, nazwy rozwiązania i stanu. Poniżej przedstawiono szczegóły tych filtrów.
 
-- **Nazwa klienta**: wartość domyślna to **wszystkie**, ale można ograniczyć dane do wybranych klientów.
-- **Kraj**: wartość domyślna to **wszystkie**, ale możesz ograniczyć dane do jednego lub większej liczby krajów klienta, które wybierzesz.
-- **Program referencyjny**: wartość domyślna to **All**, ale można ograniczyć dane do określonego programu odwołań. Ten filtr jest widoczny tylko wtedy, gdy organizacja jest zarejestrowana w programie referencyjnym.
-- **Stan**: wartość domyślna to **wszystkie**, ale można wybrać ograniczenie danych do odwołań, które zawierają jeden lub więcej typów stanu odwołania, takich jak akceptowane, odrzucone, wygasłe, utracone i wygrane.
-- **Typ kwalifikacji**: wartość domyślna to **wszystkie**, ale można wybrać ograniczenie danych do odwołań, które są potencjalnymi klientami Marketplace lub wykwalifikowanymi potencjalnymi klientami.
+- **Nazwa klienta:** wartość domyślna to **Wszystkie,** ale można ograniczyć dane do wybranego klienta.
+- **Kraj:** wartość domyślna **to Wszystkie,** ale można ograniczyć dane do co najmniej jednego wybranego kraju klienta.
+- **Program poleceń:** wartość domyślna to **Wszystkie,** ale można ograniczyć dane do określonego programu poleceń. Ten filtr jest widoczny tylko wtedy, gdy Twoja organizacja jest zarejestrowana w programie poleceń.
+- **Stan:** wartość domyślna to **Wszystkie,** ale można ograniczyć dane do poleceń, które zawierają co najmniej jeden typ stanu od skierowania, taki jak zaakceptowane, odrzucone, wygasłe, utracone i zwyciężyły wybrane przez Ciebie.
+- **Typ kwalifikacji:** wartość domyślna to **Wszystkie,** ale możesz ograniczyć dane do poleceń, które są potencjalnymi klientami na platformie handlowej lub zakwalifikowanych potencjalnych klientów.
 
-Informacje we wszystkich wykresach wymienionych poniżej będą odzwierciedlać zakres dat i wszystkie wybrane filtry, z wyjątkiem wymienionych poniżej. Niektóre sekcje umożliwiają również stosowanie dodatkowych filtrów, takich jak filtrowanie do określonego rozwiązania.
+Informacje na wszystkich wykresach wymienionych poniżej będą odzwierciedlać zakres dat i wszystkie wybrane filtry, z wyjątkiem wymienionych poniżej. Niektóre sekcje umożliwiają również zastosowanie dodatkowych filtrów, takich jak filtrowanie do określonego rozwiązania.
 
-## <a name="referrals-summary"></a>Podsumowanie odwołań
+## <a name="referrals-summary"></a>Podsumowanie poleceń
 
-Na tej karcie przedstawiono przegląd sposobu działania potencjalnych klientów.
+Na tej karcie przedstawiono omówienie sposobu, w jaki potencjalni klienci są przeprowadzani.
 
-Na wykresie przedstawiono łączną liczbę odwiedzin stron, liczbę kliknięć przycisku akcji (partnera kontaktu), liczbę potencjalnych klientów wygenerowanych po kliknięciu przez klientów wywołania akcji i łączny potencjalnych klientów wykorzystanych w wybranym okresie.
+Wykres przedstawia łączną liczbę odwiedzin strony, liczbę kliknięć przycisku wezwanie do akcji (skontaktuj się z partnerem), liczbę potencjalnych klientów wygenerowanych po kliknięciu przez klientów wezwania do działania oraz łączną liczbę potencjalnych klientów zwyciężyłych w wybranym okresie.
 
-Metryki zmiany procentowej (pokazane w kolorze czerwonym lub zielonym ze wskaźnikiem strzałki) wskazują różnicę między **ostatnim pełnym miesiącem w wybranym zakresie dat** a **pierwszym pełnym miesiącem w tym zakresie**. Załóżmy na przykład, że bieżąca data to 15 czerwca, a wybrano filtr **3m** , aby wyświetlić dane z ostatnich trzech miesięcy. W takim przypadku te metryki będą pokazywały różnicę między maja (ostatni pełny miesiąc w wybranym okresie) i marzec (pierwszy pełny miesiąc w wybranym okresie) wybrany zakres dat jest ostatnim **3m**, a porównanie między danymi dla programu może a danymi na marzec.
+Metryki zmiany procentowej (wyświetlane w kolorze czerwonym lub zielonym  ze wskaźnikiem strzałki) wskazują różnicę między ostatnim pełnym miesiącem w wybranym zakresie dat a pierwszym pełnym miesiącem **w tym zakresie.** Załóżmy na przykład, że bieżąca data to 15 czerwca i wybrano filtr **3M** w celu pokazania danych z ostatnich trzech miesięcy. W tym przypadku te metryki pokazują różnicę między majem (ostatnim pełnym miesiącem w wybranym okresie) a marcem (pierwszym pełnym miesiącem w wybranym okresie) wybranym zakresem dat jest ostatnie **3** mln. Porównanie dotyczy danych z maja i danych z marca.
 
-:::image type="content" source="images/referrals/leadsanalyticssummary.png" alt-text="Obraz przedstawiający kartę Podsumowanie analizy potencjalnych klientów.":::
+:::image type="content" source="images/referrals/leadsanalyticssummary.png" alt-text="Obraz przedstawiający kartę podsumowania analizy potencjalnych klientów.":::
 
-## <a name="conversion-funnel"></a>Lejk konwersji
+## <a name="conversion-funnel"></a>Lejek konwersji
 
-W tej sekcji przedstawiono wizualny wskaźnik, w jaki sposób transakcje są przenoszone z jednego stanu do drugiego za pośrednictwem cyklu życia. Cały cykl życia można wyświetlić na podstawie wielkości transakcji, a także wartości transakcji w USD na podstawie głównej tabeli przestawnej dla tej sekcji. Pierwsza sekcja jest oznaczona typem transakcji, aby dać wizualizację wskaźnikiem woluminu lub wartości według typu. Istnieje również sekcja, **potencjalni klienci od przeszłości**, która jest używana do wskazywania transakcji, dla których podjęto akcję akceptującą/odrzucają lub oznaczając je jako wygrane lub utracone w okresie, który został wybrany dla raportu. Filtry można zastosować, aby wyświetlić postęp transakcji na różnych etapach cyklu życia.
+W tej sekcji przedstawiono wizualny wskaźnik sposobu przenoszenia transakcji z jednego stanu do innego w cyklu życia. Możesz wyświetlić cały cykl życia na podstawie wielkości transakcji, a także wartości transakcji w USD na podstawie głównego wykresu przestawnego dla tej sekcji. Pierwsza sekcja jest oznaczona typem transakcji, aby zapewnić wizualny wskaźnik ilości lub wartości według typu. Istnieje również sekcja Potencjalni klienci z przeszłości **,** która jest używana do wskazywania transakcji, dla których zostały podjęte działania dotyczące ich zaakceptowania/odrzucania lub oznaczania ich jako wygranych/utraconych w okresie wybranym dla raportu. Możesz zastosować filtry, aby wyświetlić postęp transakcji na różnych etapach ich cyklu życia.
 
-:::image type="content" source="images/referrals/leadsanalyticsfunnel.png" alt-text="Obraz przedstawiający rozdzielacz konwersji dla odwołań.":::
+:::image type="content" source="images/referrals/leadsanalyticsfunnel.png" alt-text="Obraz przedstawiający lejek konwersji dla poleceń.":::
 
 ## <a name="leads-by-geography"></a>Potencjalni klienci według lokalizacji geograficznej
 
-W tej sekcji przedstawiono kraje/regiony, w których pochodziły transakcje, wraz ze szczegółami dotyczącymi poszczególnych krajów/regionów. Istnieje widok tabeli szczegółów transakcji dla każdego z krajów oraz widok mapy wszystkich krajów. Możesz kliknąć określony kraj w tabeli lub kliknąć Widok mapy, aby powiększyć do określonego kraju.
+W tej sekcji przedstawiono kraje/regiony, z których pochodziły transakcje, wraz ze szczegółami dla każdego kraju/regionu. Istnieje widok tabeli ze szczegółami transakcji dla każdego kraju oraz widok mapy wszystkich krajów. Możesz kliknąć konkretny kraj w tabeli lub kliknąć widok mapy, aby powiększyć widok do określonego kraju.
 
-:::image type="content" source="images/referrals/leadsanalyticsgeodistribution.png" alt-text="Obraz przedstawiający rozkład geograficzny odwołań.":::
+:::image type="content" source="images/referrals/leadsanalyticsgeodistribution.png" alt-text="Obraz przedstawiający dystrybucję geograficzną poleceń.":::
 
 ## <a name="leads-by-program"></a>Potencjalni klienci według programu
 
-Ta kombinacja tabeli i wykresu pozwala zobaczyć, który z programów referencyjnych potencjalni klienci kierują najwięcej odwołań i największą wartość transakcji.
-W tabeli podano łączne potencjalni klienci, potencjalni klienci zaakceptowani w ramach umowy SLA (24 godziny) zarówno w wartościach procentowych, jak i bezwzględnych, które wygasły, a także potencjalni klienci, którzy nabyli w stanie wykorzystali i łączną wartość potencjalni klienci wygraną w walucie USD. Istnieje również wykres trendu potencjalnych klientów z prawej strony tabeli, który pokazuje łączną liczbę transakcji i wartość transakcji uzyskaną w walucie USD na podstawie wybranego programu. Wybór domyślny to wszystkie rozwiązania.
+Ta kombinacja tabeli i wykresu pozwala zobaczyć, którzy potencjalni klienci programu poleceń są liderami najwięcej poleceń i najwyższą wartością transakcji.
+Tabela zawiera łącznie potencjalnych klientów, potencjalnych klientów zaakceptowanych w umowach SLA (24 godziny) w wartościach procentowych i bezwzględnych, potencjalnych klientów, którzy wygasli, oraz potencjalnych klientów, którzy wygrali, wraz z łączną wartością potencjalnych klientów wygranych w walucie USD. Po prawej stronie tabeli znajduje się wykres trendu potencjalnych klientów, który pokazuje łączną liczbę transakcji i wartość transakcji wygraną w walucie USD na podstawie wybranego programu. Domyślnym wyborem są wszystkie rozwiązania.
 
-:::image type="content" source="images/referrals/leadsanalyticsreferralsprogram.png" alt-text="Obraz przedstawiający program z zakwalifikowanymi odwołaniami prowadzi do wydajności.":::
+:::image type="content" source="images/referrals/leadsanalyticsreferralsprogram.png" alt-text="Obraz przedstawiający program kwalifikowanych poleceń prowadzi do wydajności.":::
 
-## <a name="declined--lost-reasons"></a>Odrzucone & utraconych przyczyn
+## <a name="declined--lost-reasons"></a>Odrzucone & utracone przyczyny
 
-Ta sekcja ułatwi przeanalizowanie przyczyn, dla których potencjalni klienci są oznaczeni jako **odrzucani** lub **traconi** przez firmę. Opcje w tych reprezentacjach są takie same, jak w przypadku wybrania przez nich sprzedawcy podczas zamykania potencjalnego klienta jako odrzuconego lub utraconego.
+Ta sekcja pomoże Ci przeanalizować przyczyny, dla  których potencjalni klienci są oznaczani przez Twoją firmę jako odrzuconi **lub** utraceni. Opcje w tych reprezentacjach są tymi samymi przyczynami, które wybrali sprzedawcy, zamykając potencjalnego klienta jako odrzuconego lub utraconego.
 
-:::image type="content" source="images/referrals/leadsanalyticsreasons.png" alt-text="Obraz przedstawiający powody wybrane przez partnera podczas odrzucania lub wykonywania potencjalnych klientów jako utracone.":::
+:::image type="content" source="images/referrals/leadsanalyticsreasons.png" alt-text="Obraz przedstawiający przyczyny wybrane przez partnera podczas odrzucania lub podejmowania potencjalnego klienta jako utraconego.":::
 
 ## <a name="comparison-charts"></a>Wykresy porównawcze
 
-Sekcja porównanie pomoże porównać dane związane z potencjalnymi klientami na podstawie wielu wymiarów w woluminie i wartości wygranych potencjalnych klientów w tabeli przestawnej USD.
-Trzy wymiary, które można wybrać do porównania danych, to
+Sekcja porównania pomoże Ci porównać dane związane z potencjalnymi klientami w oparciu o wiele wymiarów zarówno na woluminie, jak i wartości potencjalnych klientów zwyciężyłych w tabeli przestawnej USD.
+Istnieją trzy wymiary, które można wybrać do porównania danych:
 
 - Typ kwalifikacji
-- Wprowadza
-- Program referencyjny
+- Rynków
+- Program poleceń
 
-W przypadku wybrania typu kwalifikacji istnieje możliwość porównania wydajności odwołań w odniesieniu do potencjalnych klientów i wykwalifikowanych klientów. W przypadku rynków i programu referencyjnego można wybrać trzy różne opcje, aby porównać ich wydajność. Pierwszy wykres, który jest wykresem słupkowym, będzie zawierał dane z miesięcznego trendu miesięcznego w oparciu o główny obszar Pivot, który jest woluminem lub wartością oferty. Istnieje również wykres kołowy z prawej strony wykresu słupkowego, który pokazuje rozkład według wartości procentowej dla tych samych danych.
+Po wybraniu typu kwalifikacji możesz porównać wydajność poleceń w odniesieniu do potencjalnych klientów na platformie handlowej i potencjalnych klientów zakwalifikowanych. W przypadku rynku i programu poleceń można wybrać maksymalnie trzy różne opcje, aby porównać ich wydajność. Pierwszy wykres, który jest wykresem słupkowym, będzie zawierał dane z trendem miesiąc do miesiąca na podstawie głównego wykresu przestawnego, czyli liczby lub wygranych transakcji. Po prawej stronie wykresu słupkowego znajduje się również wykres kołowy, który pokazuje rozkład według wartości procentowej dla tych samych danych.
 
 :::image type="content" source="images/referrals/leadsanalyticscompare.png" alt-text="Obraz przedstawiający sekcję porównania.":::
 
-## <a name="raw-data-table"></a>Nieprzetworzona tabela danych
+## <a name="raw-data-table"></a>Tabela danych pierwotnych
 
-Poniższa tabela ze wszystkimi danymi pierwotnymi związanymi z potencjalnymi klientami pomoże szybko **wyeksportować** dane do dowolnej szczegółowej lub niestandardowej analizy, która ma zostać wykonana.
+W poniższej tabeli ze wszystkimi nieprzetworzone  dane związane z potencjalnymi klientami możesz szybko wyeksportować dane do dowolnej szczegółowej lub niestandardowej analizy, którą chcesz wykonać.
 
-:::image type="content" source="images/referrals/leadsanalyticsrawdata.png" alt-text="Obraz przedstawiający nieprzetworzoną tabelę danych dla potencjalnych klientów.":::
+:::image type="content" source="images/referrals/leadsanalyticsrawdata.png" alt-text="Obraz przedstawiający tabelę danych pierwotnych dla potencjalnych klientów.":::
 
 ## <a name="no-data"></a>Brak danych
 
-Istnieje kilka przyczyn, dla których otrzymujesz pusty wykres, jak poniżej, podczas uzyskiwania dostępu do analizy potencjalnych klientów, zgodnie z poniższym opisem.
+Istnieje wiele przyczyn, dla których uzyskujesz pusty wykres, taki jak poniżej, podczas uzyskiwania dostępu do analizy potencjalnych klientów, jak opisano poniżej.
 
-- Brak danych dla tego konta. Spróbuj utworzyć oferty, aby uzyskać ten raport.
-- Wystąpił problem z łącznością sieciową. Sprawdź połączenie internetowe i spróbuj ponownie.
-- Brak rekordów pasujących do filtrów, które zostały zastosowane. Spróbuj zresetować filtry.
-- Istnieje opóźnienie między zmianą stanu potencjalnego klienta i zaktualizowaniem go w raporcie analizy. Sprawdź raport po 24 godzinach.
+- Nie ma żadnych danych dla tego konta. Spróbuj utworzyć transakcje, aby wypełnić ten raport.
+- Występuje problem z łącznością sieciową. Sprawdź połączenie internetowe i spróbuj ponownie.
+- Nie ma żadnych rekordów zgodnych z zastosowanymi filtrami. Spróbuj zresetować filtry.
+- Istnieje opóźnienie między zmianą stanu potencjalnego klienta i zaktualizowanie tego samego stanu w raporcie analizy. Sprawdź raport po 24 godzinach.
 
 :::image type="content" source="images/referrals/nodata.png" alt-text="Obraz przedstawiający brak wizualizacji danych dla potencjalnych klientów.":::
 
 > [!TIP]
-> Aby dowiedzieć się, jak działają możliwości wspólnej sprzedaży, przejrzyj [stronę informacje o możliwościach współsprzedaży](referral-insights.md).
+> Aby zobaczyć, jak są dostępne możliwości sprzedaży, przejrzyj stronę szczegółowych informacji o [możliwościach sprzedaży](referral-insights.md).
 
 ## <a name="next-steps"></a>Następne kroki
 

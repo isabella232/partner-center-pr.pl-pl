@@ -1,90 +1,88 @@
 ---
-title: Azure plan — zarządzanie subskrypcjami & zasoby
+title: Plan platformy Azure — zarządzanie subskrypcjami & zasobów
 ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, w jaki sposób partnerzy mogą korzystać z różnych opcji kontroli dostępu opartej na rolach (RBAC), aby uzyskiwać kontrolę operacyjną i zarządzać zasobami platformy Azure klienta.
+description: Dowiedz się, jak partnerzy mogą korzystać z różnych opcji kontroli dostępu opartej na rolach (RBAC) w celu uzyskania operacyjnej kontroli zasobów platformy Azure i zarządzania nimi.
 author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 18cc5c62beaa76f6e3ade79f2f2069e0f2bd3c7e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534934"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149608"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Zarządzanie subskrypcjami i zasobami w ramach planu platformy Azure
 
-**Odpowiednie role**
-
-- Agent administracyjny
+**Odpowiednie role:** Agent administratora
 
 
-W tym artykule wyjaśniono, w jaki sposób partnerzy CSP mogą korzystać z różnych opcji kontroli dostępu opartej na rolach (RBAC), aby uzyskiwać kontrolę operacyjną i zarządzać zasobami platformy Azure klienta. Gdy przeniesiesz klienta do planu platformy Azure, domyślnie przypiszesz uprawnienia administratora na platformie Azure (prawa właściciela subskrypcji za pomocą administratora w imieniu).
+W tym artykule wyjaśniono, jak partnerzy programu CSP mogą korzystać z różnych opcji kontroli dostępu opartej na rolach (RBAC) w celu uzyskania operacyjnej kontroli zasobów platformy Azure i zarządzania nimi. Po przejściu klienta do planu platformy Azure masz domyślnie przypisane uprzywilejowane prawa administratora na platformie Azure (prawa właściciela subskrypcji za pośrednictwem administratora w imieniu użytkownika).
 
  > [!NOTE]
- > Prawa administratora do subskrypcji platformy Azure mogą zostać usunięte przez klienta w ramach subskrypcji, grupy zasobów lub poziomu obciążenia. 
+ > Klient może usunąć prawa administratora do subskrypcji platformy Azure na poziomie subskrypcji, grupy zasobów lub obciążenia. 
 
- Partnerzy mogą uzyskać 24x7ą kontrolę operacyjną i zarządzanie zasobami platformy Azure klienta w programie CSP przy użyciu różnych opcji dostępnych za pośrednictwem funkcji kontroli dostępu opartej na rolach (RBAC). 
+ Partnerzy mogą uzyskać całodobową kontrolę operacyjną i zarządzanie zasobami platformy Azure klienta w programie CSP przy użyciu różnych opcji dostępnych za pośrednictwem funkcji kontroli dostępu opartej na rolach (RBAC). 
 
-- **Administrator w imieniu (AOBO)** — z [AOBOem](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO)każdy użytkownik mający rolę Agent administracyjny w dzierżawie partnerskiej będzie miał dostęp do subskrypcji platformy Azure utworzonych za pomocą programu CSP.
+- **Admin on Behalf Of (AOBO)** — w przypadku funkcji [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO)każdy użytkownik z rolą agenta administracyjnego w dzierżawie partnera będzie miał dostęp właściciela RBAC do subskrypcji platformy Azure tworzyć za pośrednictwem programu CSP.
 
-- **Azure Lighthouse**: AOBO nie pozwala na elastyczność tworzenia odrębnych grup, które współpracują z różnymi klientami, lub aby włączyć różne role dla grup lub użytkowników. Za pomocą usługi Azure Lighthouse można przypisywać różne grupy do różnych klientów lub ról. Ze względu na to, że użytkownicy będą mieć odpowiedni poziom dostępu za pomocą zarządzania zasobami delegowanymi przez platformę Azure, można zmniejszyć liczbę użytkowników, którzy mają rolę agenta administratora (i w związku z tym mieć pełny dostęp AOBO). Pozwala to zwiększyć bezpieczeństwo przez ograniczenie niepotrzebnego dostępu do zasobów klientów. Zapewnia również większą elastyczność zarządzania wieloma klientami w odpowiedniej skali. Aby uzyskać więcej informacji, przeczytaj artykuł [Azure Lighthouse i program Cloud Solution Provider](/azure/lighthouse/concepts/cloud-solution-provider).
+- **Azure Lighthouse:** AOBO nie zezwala na elastyczność tworzenia odrębnych grup, które działają z różnymi klientami, ani włączania różnych ról dla grup lub użytkowników. Za Azure Lighthouse można przypisywać różne grupy do różnych klientów lub ról. Ponieważ użytkownicy będą mieć odpowiedni poziom dostępu za pośrednictwem zarządzania zasobami delegowanymi platformy Azure, można zmniejszyć liczbę użytkowników, którzy mają rolę agenta administracyjnego (i w związku z tym mają pełny dostęp do AOBO). Pomaga to zwiększyć bezpieczeństwo przez ograniczenie niepotrzebnego dostępu do zasobów klientów. Zapewnia ona również większą elastyczność zarządzania wieloma klientami na dużą skalę. Aby uzyskać więcej informacji, [przeczytaj Azure Lighthouse i Dostawca rozwiązań w chmurze programu](/azure/lighthouse/concepts/cloud-solution-provider).
 
-- **Użytkownicy katalogu lub Gości lub jednostki [usługi](/azure/active-directory/develop/app-objects-and-service-principals)**: można delegować szczegółowy dostęp do subskrypcji CSP przez dodanie użytkowników w katalogu klienta lub dodanie użytkowników-Gości i przypisanie określonych ról RBAC.
+- Użytkownicy katalogu lub użytkownicy-goście lub jednostki **[usługi:](/azure/active-directory/develop/app-objects-and-service-principals)** możesz delegować szczegółowy dostęp do subskrypcji CSP, dodając użytkowników w katalogu klienta lub dodając użytkowników-gości i przypisując określone role RBAC.
 
-Firma Microsoft zaleca, aby użytkownicy mieli minimalne uprawnienia, których potrzebują do wykonywania swojej pracy jako rozwiązania zabezpieczeń. Zobacz [zasoby Azure Active Directory Privileged Identity Management](/azure/active-directory/privileged-identity-management/pim-configure).
+Firma Microsoft zaleca, aby użytkownicy mieli minimalne uprawnienia, których potrzebują, aby wykonać swoją pracę jako rozwiązanie w zakresie zabezpieczeń. Zobacz [Azure Active Directory Privileged Identity Management zasobów.](/azure/active-directory/privileged-identity-management/pim-configure)
 
-## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>Połącz swój identyfikator partnera (identyfikator MPN) z poświadczeniami, aby zarządzać zasobami platformy Azure klienta
+## <a name="link-your-partner-id-mpn-id-to-your-credentials-for-managing-customers-azure-resources"></a>Łączenie identyfikatora partnera (identyfikatora MPN) z poświadczeniami na potrzeby zarządzania zasobami platformy Azure klienta
 
-W poniższej tabeli przedstawiono metody służące do kojarzenia identyfikatora partnera z różnymi opcjami dostępu RBAC.
+W poniższej tabeli przedstawiono metody używane do skojarzenia identyfikatora partnera z różnymi opcjami dostępu RBAC.
 
 |**Kategoria**   |**Scenariusz**   |**Skojarzenie identyfikatora MPN**|
 |-----------------|:------------------------|:------------------|
-|AOBO   |Bezpośredni partner lub dostawca usług kryptograficznych tworzy subskrypcję dla klienta, który domyślnie jest partnerem dostawcy usług kryptograficznych lub dostawcy pośrednim, przy użyciu AOBO.; Bezpośredni partner CSP lub Dostawca pośredni zapewniają pośredni dostęp do subskrypcji przy użyciu usługi AOBO.|Automatyczna (brak wymaganej pracy z partnerem)|
-|Azure Lighthouse|Partner tworzy nową [ofertę usług zarządzanych w portalu Marketplace](/azure/lighthouse/concepts/managed-services-offers). Ta oferta zostanie zaakceptowana w ramach subskrypcji dostawcy usług kryptograficznych, a partner uzyskuje dostęp do subskrypcji dostawcy usług kryptograficznych.|Automatyczna (brak wymaganej pracy z partnerem)|
-|Azure Lighthouse|Partner wdraża [szablon ARM](/azure/lighthouse/how-to/onboard-customer) w subskrypcji platformy Azure|Partner musi skojarzyć identyfikator MPN z użytkownikiem lub jednostką usługi w dzierżawie partnera. Aby uzyskać więcej informacji — [Identyfikator partnera linku](/azure/billing/billing-partner-admin-link-started).|
-|Użytkownik katalogu lub gościa|Partner tworzy nowego użytkownika lub nazwę główną usługi w katalogu klienta i udziela użytkownikowi dostępu do subskrypcji dostawcy usług kryptograficznych. Partner tworzy nowego użytkownika lub nazwę główną usługi w katalogu klienta. Partner dodaje użytkownika do grupy i zapewnia dostęp do subskrypcji dostawcy usług kryptograficznych do grupy.|Partner musi skojarzyć identyfikator MPN z użytkownikiem lub jednostką usługi w dzierżawie klienta. Aby uzyskać więcej informacji — [Identyfikator partnera linku](/azure/billing/billing-partner-admin-link-started).|
+|Aobo   |Partner bezpośredni lub dostawca pośredni dostawcy CSP tworzy subskrypcję dla klienta, dzięki czemu partner bezpośredni lub dostawca pośredni jest domyślnym właścicielem subskrypcji przy użyciu usługi AOBO. Bezpośredni partner programu CSP lub dostawca pośredni zapewniają odsprzedawcy pośredniego dostęp do subskrypcji przy użyciu usługi AOBO.|Automatyczne (nie jest wymagana żadna praca partnerska)|
+|Azure Lighthouse|Partner tworzy nową [ofertę usług zarządzanych w witrynie Marketplace.](/azure/lighthouse/concepts/managed-services-offers) Ta oferta jest akceptowana w ramach subskrypcji programu CSP, a partner uzyskuje dostęp do subskrypcji CSP.|Automatyczne (nie jest wymagana żadna praca partnerska)|
+|Azure Lighthouse|Partner wdraża szablon [usługi ARM w](/azure/lighthouse/how-to/onboard-customer) subskrypcji platformy Azure|Partner musi skojarzyć identyfikator MPN z użytkownikiem lub jednostką usługi w dzierżawie partnera. Aby uzyskać więcej informacji, [kliknij identyfikator partnera](/azure/billing/billing-partner-admin-link-started).|
+|Katalog lub użytkownik-gość|Partner tworzy nowego użytkownika lub jednostkę usługi w katalogu klienta i zapewnia użytkownikowi dostęp do subskrypcji dostawcy usług w chmurze. Partner tworzy nowego użytkownika lub jednostkę usługi w katalogu klienta. Partner dodaje użytkownika do grupy i zapewnia dostęp do subskrypcji programu CSP do grupy.|Partner musi skojarzyć identyfikator MPN z użytkownikiem lub jednostką usługi w dzierżawie klienta. Aby uzyskać więcej informacji, [kliknij link identyfikator partnera](/azure/billing/billing-partner-admin-link-started).|
 
-## <a name="confirm-that-you-have-admin-access"></a>Upewnij się, że masz uprawnienia dostępu administratora
+## <a name="confirm-that-you-have-admin-access"></a>Potwierdź, że masz dostęp administratora
 
-Musisz mieć dostęp administratora, aby zarządzać usługami klienta i otrzymać kredyty. W celu uzyskania szczegółowych informacji na temat dochodów uzyskanych przez [partnerów](partner-earned-credit.md) . Masz dwa sposoby, aby upewnić się, że masz pewność, że masz dostęp administratora.
+Aby zarządzać usługami klienta i uzyskać uzyskane środki, wymagany jest dostęp administratora. Przeczytaj [informacje o środki uzyskane przez partnerów,](partner-earned-credit.md) aby uzyskać szczegółowe informacje na temat uzyskanego środków. Masz dwa sposoby, aby upewnić się, że masz dostęp administratora.
 
-- Przejrzyj plik dziennego użycia — można to ustalić, przeglądając cenę jednostkową i obowiązującą cenę jednostkową w pliku dziennego użycia i sprawdzając, czy jest stosowany rabat. Jeśli otrzymujesz rabat, który jesteś administratorem.
+- Przejrzyj plik dziennego użycia — można to ustalić, przeglądając cenę jednostkową i efektywną cenę jednostkową w pliku dziennego użycia i potwierdzając, czy rabat jest stosowany. Jeśli otrzymujesz rabat, jesteś administratorem.
 
-- Tworzenie alertu usługi Azure monitor — możesz utworzyć [alert](/azure/azure-monitor/platform/alerts-activity-log) dziennika aktywności Azure monitor, aby otrzymywać powiadomienia o tym, kiedy dostęp do usługi RBAC zostanie usunięty z subskrypcji dostawcy usług kryptograficznych.
+- Tworzenie alertu usługi Azure Monitor — możesz utworzyć [](/azure/azure-monitor/platform/alerts-activity-log) alert dziennika aktywności usługi Azure Monitor, który będzie powiadamiany o usunięciu dostępu RBAC z subskrypcji CSP.
 
-### <a name="create-an-azure-monitor-alert"></a>Tworzenie alertu usługi Azure monitor
+### <a name="create-an-azure-monitor-alert"></a>Tworzenie alertu usługi Azure Monitor
 
 1. Utwórz alert.
 
-   :::image type="content" source="images/azure/azurealert1.png" alt-text="Alert platformy Azure":::
+   :::image type="content" source="images/azure/azurealert1.png" alt-text="alert platformy azure":::
 
-2. Wybierz typ akcji, która ma zostać podjęta przez alert. Na przykład jeśli określisz, że chcesz wysłać wiadomość e-mail, otrzymasz wiadomość e-mail z powiadomieniem, jeśli wystąpi jakiekolwiek usunięcie przypisania roli.
+2. Wybierz typ akcji, którą ma podjąć alert. Jeśli na przykład określisz, że chcesz otrzymywać wiadomości e-mail, otrzymasz wiadomość e-mail z powiadomieniem o usunięciu przypisania roli.
 
-   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Konfigurowanie alertu":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="konfigurowanie alertu":::
 
 ### <a name="aobo-removal"></a>Usuwanie AOBO
 
-Klienci mogą zarządzać dostępem do swoich subskrypcji, przechodząc do **Access Control** na Azure Portal. Na karcie **przypisania ról** wybierają pozycję **Usuń dostęp**. W takim przypadku można:
+Klienci mogą zarządzać dostępem do swoich subskrypcji, przechodząc **do Access Control** na Azure Portal. Na karcie **Przypisania ról zaznacz** opcję Usuń **dostęp.** W takim przypadku można:
 
-- Skontaktuj się z klientem, aby sprawdzić, czy można przywrócić dostęp administratora.
+- Porozmawiaj z klientem, aby sprawdzić, czy można przywrócić dostęp administratora.
 
-- Użyj dostępu dostępnego za pośrednictwem [kontroli dostępu opartej na rolach (RBAC)](/azure/role-based-access-control/overview).
+- Użyj dostępu zapewnianych za [pośrednictwem kontroli dostępu opartej na rolach (RBAC).](/azure/role-based-access-control/overview)
 
-- Użyj dostępu dostępnego za pomocą [usługi Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/).
+- Użyj dostępu udostępnianego za [pośrednictwem Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/).
 
-Dostęp oparty na rolach różni się od dostępu administratora. Role ograniczają precyzyjne działania i nie mogą być wykonywane. Dostęp administratora jest szerszy.
+Dostęp oparty na rolach różni się od dostępu administratora. Role dokładnie oddzielają to, co można, a czego nie można robić. Dostęp administratora jest szerszy.
 
-Aby zobaczyć role kwalifikujące się do zdobycia PEC, Przeczytaj [role i uprawnienia dla partnera](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QuW2).
+Aby wyświetlić role kwalifikujące się do uzyskania punktów PEC, przeczytaj [role i uprawnienia dla środków uzyskane przez partnera.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QuW2)
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Odwoływanie i przywraca uprawnień administratora dla subskrypcji CSP platformy Azure](revoke-reinstate-csp.md)
+- [Odwoływanie i ponowne odwoływanie uprawnień administratora dla Azure CSP subskrypcji](revoke-reinstate-csp.md)
 
-- [Kredyt wypracowany przez partnera — przegląd](partner-earned-credit.md)
+- [Środków uzyskane przez partnerów — omówienie](partner-earned-credit.md)
 
-- [Kwota uzyskana przez partnera w przypadku usług zarządzanych](partner-earned-credit-explanation.md)
+- [Środków uzyskane przez partnerów dla usług zarządzanych](partner-earned-credit-explanation.md)

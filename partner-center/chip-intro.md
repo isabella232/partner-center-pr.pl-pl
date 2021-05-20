@@ -1,43 +1,41 @@
 ---
-title: Korzystanie z platformy zachęty kanału (MIKROUKŁAD)
+title: Korzystanie z platformy Channel Incentives Platform (CHIP)
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Dowiedz się, jak korzystać z platformy zachęt do obsługi kanałów (MIKROUKŁAD) na potrzeby działań związanych z zachętami. Uwaga Ta platforma zostanie wycofana z końcem 2021.
+description: Dowiedz się, jak używać platformy Channel Incentives Platform (CHIP) do pracy z zachętami. Pamiętaj, że ta platforma zostanie wycofana pod koniec 2021 r.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 386acaadc74c1c8247a42cebc98c3d325ba43511
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: ebee6f49a57eb56429f33291768347be505e3b37
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570404"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148962"
 ---
-# <a name="navigate-the-channel-incentives-platform-chip"></a>Przejdź do platformy zachęty kanału (MIKROUKŁAD)
+# <a name="navigate-the-channel-incentives-platform-chip"></a>Nawigowanie po platformie Channel Incentives Platform (CHIP)
+
+**Odpowiednie role:** administrator mikroukładu
 
 >[!NOTE]
->Platforma mikroukładu zostanie wycofana z końcem 2021.
+>Platforma CHIP zostanie wycofana z końcem 2021 r.
 
-**Odpowiednie role**
+## <a name="sign-into-the-chip-dashboard"></a>Logowanie się do pulpitu nawigacyjnego chipu
 
-- Administrator mikroukładu
+Platforma Channel Incentives Platform (CHIP) zapewnia dostęp do danych zachęt dla określonych programów Microsoft Channel Incentives i pokazuje zaktualizowane szczegóły zarobków za sprzedaż produktów firmy Microsoft.
 
-## <a name="sign-into-the-chip-dashboard"></a>Logowanie się do pulpitu nawigacyjnego MIKROUKŁAD
-
-Platforma zachęt w kanale zapewnia dostęp do danych zachęt dla określonych programów zachęty kanału firmy Microsoft i pokazuje zaktualizowane dane dotyczące zdobywania sprzedaży produktów firmy Microsoft.
-
-W celu zarejestrowania się w układzie podstawowym kontakt z firmą otrzyma zaproszenie zawierające unikatowy kod zaproszenia (UIC). Musisz użyć kodu, aby uzyskać dostęp do układu po raz pierwszy.
+Aby zarejestrować się na platformie CHIP, główna osoba kontaktowa w Twojej firmie otrzyma zaproszenie, które zawiera unikatowy kod zaproszenia (UIC). Aby uzyskać dostęp do mikroukładu po raz pierwszy, musisz użyć kodu .
 
 
-Możesz się zalogować i przejść w następujący sposób:
+Możesz się zalogować i nawigować w następujący sposób:
 
-1. Otwórz MIKROUKŁAD i wprowadź identyfikator Microsoft ID (poprzedni identyfikator Live ID) i hasło na stronie logowania, a następnie kliknij przycisk Zaloguj.
+1. Otwórz program CHIP i wprowadź swój identyfikator Microsoft (poprzedni identyfikator na żywo) oraz hasło na stronie logowania, a następnie kliknij przycisk zaloguj.
  
 1. Wybierz program, do którego chcesz uzyskać dostęp.
-Z tego miejsca możesz wyświetlić **wydajność** i **zyski** dla wybranego programu. 
+W tym miejscu możesz wyświetlić wyniki **i** **zarobki** dla wybranego programu. 
 
 ## <a name="next-steps"></a>Następne kroki
 

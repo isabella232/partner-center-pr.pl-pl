@@ -1,72 +1,69 @@
 ---
-title: Połącz konto służbowe, aby uzyskać dostęp do Centrum partnerskiego
+title: Łączenie konta służbowego w celu uzyskania dostępu do Partner Center
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Utwórz konto służbowe łączące firmę z kontem Centrum partnerskiego. Dzięki temu pracownicy w firmie mogą uzyskiwać dostęp do Centrum partnerskiego.
+description: Utwórz konto służbowe, które łączy Twoją firmę z Partner Center kontem. Dzięki temu pracownicy w firmie mogą uzyskać dostęp do Partner Center.
 author: vinayks
 ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: a06a38ef9d96b4c2a1e95328d510eb2fd71ff0e3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534798"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149846"
 ---
-# <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Utwórz konto służbowe łączące firmę z kontem Centrum partnerskiego
+# <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Tworzenie konta służbowego, które łączy twoją firmę z kontem Partner Center konto
 
-**Odpowiednie role**
-
-- Administrator globalny
-- Administrator zarządzania użytkownikami
+**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami
 
 ## <a name="why-you-need-a-work-account"></a>Dlaczego potrzebujesz konta służbowego
 
-Firma Microsoft wymaga połączenia konta służbowego firmy z nowym kontem Centrum partnerskiego. Link umożliwia użytkownikom konta logowanie się do Centrum partnerskiego przy użyciu nazw użytkowników i haseł konta służbowego.
+Firma Microsoft wymaga połączenia firmowego konta służbowego z nowym Partner Center konta. Link umożliwia użytkownikom konta logowanie się do aplikacji Partner Center przy użyciu nazw użytkowników i haseł kont służbowych.
 
 ## <a name="the-work-account-email-address"></a>Adres e-mail konta służbowego
 
-Twoje konto służbowe lub służbowe wiadomości e-mail to adres e-mail podany przez firmę. Adres e-mail konta służbowego jest zwykle w formacie `you@yourcompany.com` . Osobiste adresy e-mail, takie jak Hotmail, Gmail lub Yahoo, nie będą działać i nie mogą być używane w ramach konta Centrum partnerskiego.
+Służbowy adres e-mail lub służbowy adres e-mail jest adresem e-mail dostarczonym przez firmę. Adres e-mail konta służbowego ma zazwyczaj format `you@yourcompany.com` . Osobiste adresy e-mail, takie jak Hotmail, Gmail lub Yahoo, nie są służbowym adresem e-mail i nie mogą być używane Partner Center konta.
 
-Jeśli masz więcej niż jeden prawidłowy służbowy adres e-mail, użyj tego, który jest skojarzony z centralną siedzibą firmy, a nie z działem regionalnym, na przykład użyj adresu `contoso.com` e-mail, a nie `contoso.uk` adres.
+Jeśli masz więcej niż jeden prawidłowy służbowy adres e-mail, użyj tego, który jest skojarzony z siedzibą firmy, a nie z działem regionalnym, na przykład użyj adresu e-mail, a nie `contoso.com` `contoso.uk` adresu.
 
 > [!NOTE]  
-> Przed podjęciem decyzji o użyciu istniejącego konta służbowego należy wziąć pod uwagę liczbę użytkowników, którzy będą musieli współpracować w centrum partnerskim. Jeśli masz użytkowników na koncie, które nie muszą współpracować w centrum partnerskim, rozważ utworzenie nowego konta tylko dla tych użytkowników, którzy będą musieli korzystać z Centrum partnerskiego.
+> Przed podjęciem decyzji o użyciu istniejącego konta służbowego zastanów się, ilu użytkowników na koncie będzie musiało pracować w Partner Center. Jeśli masz użytkowników na koncie, którzy nie będą musieli pracować w programie Partner Center, rozważ utworzenie nowego konta tylko dla tych użytkowników, którzy będą musieli pracować w Partner Center.
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Nie masz pewności, czy Twoja firma ma już konto służbowe?
 
-Jeśli nie masz pewności, czy firma ma konto służbowe, wykonaj następujące kroki, aby je sprawdzić. Jeśli masz aktywną subskrypcję do Microsoft Azure lub pakietu Office 365, masz już konto służbowe.
+Jeśli nie masz pewności, czy firma ma konto służbowe, wykonaj następujące kroki, aby to sprawdzić. Jeśli masz aktywną subskrypcję usługi Microsoft Azure lub Office 365, masz już konto służbowe.
 
 1. Zaloguj się w witrynie [Azure Portal](https://portal.azure.com).
 
-2. Wybierz Azure Active Directory z menu, a następnie wybierz pozycję nazwy domen.
+2. Wybierz Azure Active Directory z menu, a następnie wybierz pozycję Nazwy domen.
 
-3. Jeśli masz już konto służbowe, nazwa domeny zostanie wyświetlona.
+3. Jeśli masz już konto służbowe, nazwa domeny zostanie wymieniona.
 
-Jeśli firma nie ma jeszcze konta służbowego, można ją utworzyć podczas procesu rejestracji.
+Jeśli firma nie ma jeszcze konta służbowego, możesz je utworzyć podczas procesu rejestracji.
 
-Na poniższym diagramie przedstawiono kroki dla kilku typowych scenariuszy:
+Na poniższym diagramie przedstawiono kilka typowych scenariuszy:
 
-- Określanie, czy masz konto służbowe
-- Określanie sposobu logowania się do konta służbowego
-- Określanie, czy konieczne jest utworzenie nowego konta służbowego
+- określanie, czy masz konto służbowe
+- określanie sposobu logowania się do konta służbowego
+- określanie, czy musisz utworzyć nowe konto służbowe
 
-:::image type="content" source="images/onboardingAADFlow.png" lightbox="images/onboardingAADFlow.png" alt-text="Czy masz konto służbowe lub musisz je utworzyć?":::
+:::image type="content" source="images/onboardingAADFlow.png" lightbox="images/onboardingAADFlow.png" alt-text="Czy masz konto służbowe, czy musisz je utworzyć?":::
 
 Aby uzyskać więcej informacji na temat dodawania domen w usłudze Azure AD, zobacz [Dodawanie lub kojarzenie domeny w usłudze Azure AD](/azure/active-directory/active-directory-add-domain)
 
 ## <a name="about-microsoft-azure"></a>Informacje o Microsoft Azure
 
-Microsoft Azure to platforma chmury publicznej, za pomocą której firmy mogą tworzyć i wdrażać aplikacje oraz zarządzać nimi w globalnej sieci zarządzanych przez firmę Microsoft centrów danych. Firmy używają platformy Azure do kompilowania wirtualnej infrastruktury IT za pomocą funkcji wirtualnych lub usług, a nie maszyn fizycznych.
+Microsoft Azure to platforma chmury publicznej, której firmy mogą używać do tworzenia i wdrażania aplikacji oraz zarządzania nimi w globalnej sieci centrów danych zarządzanych przez firmę Microsoft. Firmy używają platformy Azure do tworzenia wirtualnej infrastruktury IT z funkcjami wirtualnymi lub usługami zamiast maszyn fizycznych.
 
-Gdy kupisz subskrypcję platformy Azure, jesteś w istocie dzierżawionym dedykowanym, bezpiecznym miejscem w chmurze publicznej platformy Azure, ale nie różni się zbyt od wynajmu piętra w ramach budynku biurowego w celu zapewnienia fizycznej firmy. Dla właściciela budynku biurowego firma jest dzierżawcą.
+Po zakupie subskrypcji platformy Azure zasadniczo wynajmujesz dedykowane, bezpieczne miejsce w chmurze publicznej Azure, nie różni się zbytnie od wynajmowania podłogi w budynku biurowym w celu przechowywania fizycznej firmy. Właściciel budynku biurowego jest dzierżawcą.
 
-Konto służbowe platformy Azure to dedykowana i izolowana wirtualna reprezentacja firmy w chmurze publicznej platformy Azure, która została utworzona w przypadku subskrybowania usługi w chmurze firmy Microsoft, takiej jak Azure, Microsoft Intune lub Office 365.
+Konto służbowe platformy Azure to dedykowana i odizolowana wirtualna reprezentacja firmy w chmurze publicznej platformy Azure, utworzona automatycznie podczas subskrybowania usługi w chmurze firmy Microsoft, takiej jak Azure, Microsoft Intune lub Office 365.
 
-Twoje konto służbowe obsługuje użytkowników usługi Azure AD i informacje o nich — hasła, dane profilu, uprawnienia i tak dalej. Konto służbowe zawiera również grupy, aplikacje i inne informacje odnoszące się do firmy i jej zabezpieczeń.
+Konto służbowe hostuje użytkowników usługi Azure AD oraz informacje o nich — ich hasła, dane profilu, uprawnienia i tak dalej. Konto służbowe zawiera również grupy, aplikacje i inne informacje dotyczące firmy i jej zabezpieczeń.
 
 ## <a name="next-steps"></a>Następne kroki
 

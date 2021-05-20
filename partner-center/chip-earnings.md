@@ -2,46 +2,44 @@
 title: Wyświetlanie zarobków na platformie CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Dowiedz się, jak wyświetlać swoje oświadczenia i zarobki w narzędziu zachęty dla kanału.
+description: Dowiedz się, jak wyświetlić zestawienie zachęt i zarobki w narzędziu Channel Incentives Platform (CHIP).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 09ed80e4be53f210341279193bae71dc47f87eec
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 74606a4c7f52e5aa23f7e963cab27e491c436b59
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354495"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149030"
 ---
-# <a name="view-earnings-using-the-chip-tool"></a>Wyświetlanie zarobków przy użyciu narzędzia MIKROUKŁAD
+# <a name="view-earnings-using-the-chip-tool"></a>Wyświetlanie zarobków przy użyciu narzędzia CHIP
 
-**Odpowiednie role**
+**Odpowiednie role:** Podstawowy kontakt lub administrator programu
 
-- Podstawowy kontakt lub administrator programu
+Dostęp do zestawienia zachęt można uzyskać za pośrednictwem narzędzia Platformy zachęt (CHIP, Channel Incentives Platform).
 
-Możesz uzyskać dostęp do swoich instrukcji zachęt za pośrednictwem narzędzia platformy zachęty kanału (MIKROUKŁAD).
+## <a name="view-earnings"></a>Wyświetlanie zarobków
 
-## <a name="view-earnings"></a>Wyświetl zarobki
+1. Zaloguj się do aplikacji CHIP przy użyciu konto Microsoft (poprzedni identyfikator Live ID).
 
-1. Zaloguj się do układu przy użyciu konto Microsoft (poprzedni identyfikator Live ID).
+2. Wybierz program zachęt, który Cię interesuje.
 
-2. Wybierz program zachęty, który Cię interesuje.
-
-3. W obszarze **Podsumowanie programu** wybierz pozycję okres lub miesiąc. 
-1. Z listy rozwijanej wybierz pozycję Szczegóły obliczeń.
-1.  Kliknij przycisk **Otwórz** na pasku powiadomień, aby otworzyć instrukcję.
+3. W **obszarze Podsumowanie programu** wybierz okres lub miesiąc. 
+1. Wybierz pozycję Szczegóły obliczeń z listy rozwijanej.
+1.  Kliknij **przycisk Otwórz** na pasku powiadomień, aby otworzyć swoją instrukcje.
 
 ### <a name="explanation-of-details-tabs"></a>Wyjaśnienie kart szczegółów
 
-|**Tabulator**|**Definicja**|
+|**Tab**|**Definicja**|
 |-------------|--------------------------|
-|DetailReport-Flatfile|Zawiera szczegółowe informacje dotyczące programu zachęt w wybranym okresie, w tym nazwę klienta, umowę, szczegóły dźwigni|
-|DeltaReport — Pivot|Aktualizacje z ostatniej opublikowanej instrukcji tylko dla przedsiębiorstwa|
-|DetailReport — Pivot|Podsumowanie szczegółów płatności, w tym waluta i kwota płatności|
-|Szczegóły osiągnięcia|Wartość bazowa, osiągnięcie i procent wzrostu dla SPLAR|
+|DetailReport-Flatfile|Zawiera szczegółowe informacje dotyczące programu zachęt dla wybranego okresu, w tym nazwę klienta, umowę, szczegóły dotyczące dźwigni|
+|DeltaReport-pivot|Aktualizacje z ostatniej opublikowanej instrukcji tylko dla przedsiębiorstw|
+|DetailReport-pivot|Podsumowanie szczegółów płatności, w tym waluty i kwoty płatności|
+|Szczegóły osiągnięcia|Wartość bazowa, osiągnięcie i procent wzrostu tylko dla wartości SPLAR|
 
 ## <a name="next-steps"></a>Następne kroki
 

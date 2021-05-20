@@ -1,6 +1,6 @@
 ---
 title: Analizowanie subskrypcji i licencji
-description: Dowiedz się, jak używać metryk na stronie subskrypcji i analizy licencji, aby identyfikować Twoje sukcesy i obszary, które wymagają większej uwagi.
+description: Dowiedz się, jak używać metryk na stronie analizy subskrypcji i licencji, aby identyfikować sukcesy i obszary, które wymagają większej uwagi.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
@@ -9,36 +9,31 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 03/31/2021
-ms.openlocfilehash: 3f84026cc6402bea71837b06a5e330f2c879a06b
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 45a0ebb70f6e139b1e130c3cfc1d24eb79b41a0d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103795"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150152"
 ---
-# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analizuj subskrypcje i licencje, aby pomóc Ci w podejmowaniu decyzji w firmie i nowych celach
+# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analizowanie subskrypcji i licencji w celu podejmowania decyzji biznesowych i nowych celów
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent administracyjny | Agent sprzedaży
 
-- Administrator globalny
-- Administrator zarządzania użytkownikami
-- Agent administracyjny
-- Agent sprzedaży
+Dane wpływają na decyzje biznesowe. Użyj metryk na stronie **analizy** subskrypcji i licencji, aby zidentyfikować sukcesy i obszary, które wymagają większej uwagi. Użyj tych informacji podczas planowania nowych celów biznesowych.
 
-Decyzje biznesowe na dyskach danych. Metryki na stronie **subskrypcja i analiza licencji** umożliwiają identyfikowanie twoich sukcesów i obszarów, które wymagają większej uwagi. Te informacje służą do planowania nowych celów firmy.
-
-**Przychód TTM dostawcy usług kryptograficznych (USD)**: Ta Metryka reprezentuje zagregowany przychód dostawcy CSP (USD) dla końcowego 12 miesięcy (TTM) dla konta lokalizacji partnera i konta globalnego partnera (PGA), z którym jest skojarzone to konto dostawcy CSP. Jeśli masz inne konta CSP z innym PGAem, musisz zalogować się do każdego z nich, aby wyświetlić odpowiedni zagregowany przychód TTM.  Kliknij link Szczegóły pobierania, aby uzyskać podział przychodu TTM (USD) na identyfikator MPN.
+**CSP TTM Revenue (USD)**: ta metryka reprezentuje zagregowany przychód rozliczany w programie CSP (USD) dla ostatnich 12 miesięcy (TTM) dla kont lokalizacji partnera i globalnego konta partnera (PGA), z którym jest skojarzone to konto CSP. Jeśli masz inne konta CSP z innym pga, musisz zalogować się do każdego z nich, aby wyświetlić odpowiednie zagregowane przychody z TTM.  Kliknij link szczegółów pobierania, aby uzyskać podział przychodu z TTM (USD) na identyfikator MPN.
 
 >[!NOTE]
->Ceny w walucie lokalnej (starsze wersje Commerce FX) w komercyjnych są zarządzane w ramach +/-5% dolarów amerykańskich. Starsza wersja kursów (FX) firmy Microsoft różni się od kursów dotyczących rozliczeń FX używanych przez platformę Azure w nowoczesnych doświadczeniach handlowych. Współczesne kursy w ramach rozliczeń dla handlu elektronicznego są oparte na stawkach Microsoft P&L (kursy w firmie Reuters FX z kanału skarbowego). Starsze stawki w handlu FX są poufne firmy Microsoft.
+>Lokalne ceny walut (starsza wersja commerce FX) w wersji komercyjnej są zarządzane w granicach +/-5% dolarów amerykańskich. Starszy kurs wymiany handlowej (FX) różni się od rozliczeń stawek FX używanych przez platformę Azure w nowoczesnym handlu. Stawki FX rozliczeń dla nowoczesnego handlu są oparte na stawkach Microsoft P&L (reuters FX rates from Treasury feed). Starsze stawki handlowe FX są poufne przez firmę Microsoft.
 
 
-Pozostała część raportu może być przestawiana na podstawie następujących produktów:
+Pozostała część raportu może być przestawna w oparciu o następujące produkty:
 
- - **Dynamics 365**: dane Dynamics 365  
- - Pakiet **EMS**: dane usług zarządzania przedsiębiorstwem  
- - **Microsoft 365**: dane Microsoft 365  
- - **Office 365**: dane pakietu Office 365  
+ - **Dynamics 365:** dane usługi Dynamics 365  
+ - **EMS:** dane usług Enterprise Management Services  
+ - **Microsoft 365:** Microsoft 365 danych  
+ - **Office 365:** dane usługi Office 365  
 
 
 ## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>Typy metryk subskrypcji i licencji, które można wyświetlić
@@ -46,49 +41,49 @@ Pozostała część raportu może być przestawiana na podstawie następujących
 Śledzimy następujące metryki:
 
 **Podsumowanie**  
- - **Sprzedane subskrypcje**: liczba subskrypcji utworzonych w określonym okresie  
+ - **Sprzedane subskrypcje:** liczba subskrypcji utworzonych w określonym przedziale czasu  
   
- - **Sprzedane licencje**: liczba sprzedanych licencji w określonym przedziale czasu  
+ - **Sprzedane licencje:** liczba sprzedanych licencji w określonym przedziale czasu  
   
- - **Odnawianie subskrypcji w ciągu 30 dni**: liczba subskrypcji, w których stan jest aktywny w określonym przedziale czasu i gdzie **autorenew** ma wartość true
+ - **Subskrypcje odnawiane w ciągu 30** dni: liczba subskrypcji, w których stan jest aktywny w określonym przedziale czasu i gdzie **autorenew** ma wartość true
  
- - **Aktywne subskrypcje**: subskrypcje, w których stan jest **aktywny**  
+ - **Aktywne subskrypcje:** subskrypcje, w których stan to **Aktywne**  
  
- - **Zawieszone subskrypcje**: Liczba wstrzymanych subskrypcji, brak filtru daty  
+ - **Wstrzymane subskrypcje:** liczba wstrzymanych subskrypcji, brak filtru daty  
 
-**Podział produktu**
+**Podział produktów**
   
- - **Liczba subskrypcji**: 5 najpopularniejszych produktów posortowanych według sprzedanych subskrypcji  
+ - **Liczba subskrypcji:** 5 najliczbowych produktów posortowanych według sprzedanych subskrypcji  
  
- - **Liczba licencji**: 5 najpopularniejszych produktów według posortowanych licencji
+ - **Liczba licencji:** 5 najlepiej sprzedawanych produktów według posortowanych licencji
 
 **Przechowywanie subskrypcji**
 
- - **Odnowione subskrypcje**: subskrypcje odnowione w ciągu ostatnich 30 dni  
+ - **Odnowione subskrypcje:** subskrypcje odnawiane w ciągu ostatnich 30 dni  
 
-**Zmiany subskrypcji**  
- - **Nowe subskrypcje**: liczba nowych subskrypcji w okresie, z wyłączeniem ofert wersji próbnej  
+**Rezygnacja z subskrypcji**  
+ - **Nowe subskrypcje:** liczba nowych subskrypcji w okresie z wyłączeniem ofert wersji próbnej  
  
- - **Niezainicjowane subskrypcje**: liczba subskrypcji cofniętych lub zawieszonych według daty  
+ - **Anulowano aprowizowane subskrypcje:** liczba subskrypcji anulowanych lub zawieszonych według daty  
 
-**Zawieszone subskrypcje** 
+**Wstrzymane subskrypcje** 
  
- - Lista wszystkich subskrypcji ze stanem **zawieszone**, z wyłączeniem ofert wersji próbnej  
+ - Lista wszystkich subskrypcji ze stanem **Wstrzymano** z wyłączeniem ofert wersji próbnej  
   
 **Aktywne subskrypcje**
 
  - Lista wszystkich aktywnych subskrypcji  
 
-**Konwersje subskrypcji wersji próbnej**  
+**Konwersje subskrypcji w wersji próbnej**  
 
- - **Konwersja wersji próbnej**: liczba wszystkich **aktywnych** subskrypcji, w których wystąpiła wersja próbna konwersji w określonym przedziale czasu  
+ - **Konwersja wersji** próbnej: liczba wszystkich aktywnych **subskrypcji,** w których nastąpiła konwersja wersji próbnej płatnej w określonym przedziale czasu  
 
 **Subskrypcje wersji próbnej kończące się w ciągu 30 dni**  
 
- - Lista rozpoczętych prób, gdzie Data zakończenia przypada w ciągu 30 dni, a nie istnieje płatna Data rozpoczęcia skojarzona z subskrypcją  
+ - Lista wersji próbnych, które zostały rozpoczęte, gdzie data zakończenia wynosi w ciągu 30 dni, a z subskrypcją nie jest skojarzona żadna płatna data rozpoczęcia  
 
 
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Analizowanie wydajności pośrednich odsprzedawcaów](analyze-indirect-resellers.md)
+- [Analizowanie wydajności odsprzedawców pośrednich](analyze-indirect-resellers.md)

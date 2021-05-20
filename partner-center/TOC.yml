@@ -134,6 +134,8 @@
     - name: Przechodzenie z bezpośredniego rachunku CSP na odsprzedawcę pośredniego
       href: transition-direct-to-indirect.md
       displayName: csp
+    - name: Partnerzy nie mogą już rejestrować się jako doradcy
+      href: advisors-no-csp.md
 - name: Umowy dotyczące CSP
   href: microsoft-partner-agreement.md
   items:

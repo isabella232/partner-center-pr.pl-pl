@@ -1,54 +1,49 @@
 ---
-title: Dostosowywanie wbudowanego środowiska urządzenia
+title: Dostosowywanie out-of-box experience urządzenia
 ms.topic: how-to
 ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Przed dostarczeniem nowego urządzenia klienta można użyć profilów autopilotażu systemu Windows do dostosowania lub wstępnego skonfigurowania gotowego do użycia środowiska (OOBE) urządzenia.
+description: Przed dostarczeniem nowego urządzenia klienta można użyć profilów usługi Windows Autopilot w celu dostosowania lub wstępnego skonfigurowania out-of-box experience (OOBE) urządzenia.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 12057d50e4456dd2450ff497e00c89a9afa5dc4d
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 5294495403be729adecb5a7814ade4f9d454a0f6
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534997"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149829"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Używanie profilów rozwiązania Windows Autopilot na nowych urządzeniach w celu dostosowania środowiska gotowego do użycia dla klienta
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator | Administrator globalny | Agent sprzedaży | Administrator zarządzania użytkownikami
 
-- Agent administracyjny
-- Administrator globalny
-- Agent sprzedaży
-- Administrator zarządzania użytkownikami
+Jeśli zarządzasz urządzeniami klienta, może być konieczne dostosowanie out-of-box experience (OOBE) dla użytkowników klienta. Nowe urządzenia można wstępnie skonfigurować przy użyciu profilów Windows Autopilot przed dostarczeniem urządzeń do klientów i zastosować nowe profile do już zakupionych urządzeń. 
 
-Jeśli zarządzasz urządzeniami klienta, może być konieczne dostosowanie środowiska OOBE (out-of-Box Experience) dla użytkowników klienta. Można wstępnie skonfigurować nowe urządzenia z profilami autopilotażu systemu Windows przed dostarczeniem urządzeń do klientów i zastosować nowe profile do urządzeń, które zostały już zakupione. 
+Należy pamiętać, że od producentów OEM rozpoczęto zawieranie etykiety wysyłkowej poza polem urządzenia rozwiązania Autopilot, które zawiera identyfikator klucza produktu **(PKID) urządzenia.**  Ten 1-wymiarowy, czytelny kod kreskowy zapewnia partnerom niższego szczebla możliwość rejestrowania urządzeń w programie Autopilot bez konieczności rozpakowania urządzeń i zbierania identyfikatorów urządzeń w alternatywny sposób.
 
-Należy pamiętać, że producenci OEM, którzy uruchomili etykietę wysyłkową na zewnątrz pola urządzenie pilotażowe, pokazujący **Identyfikator klucza produktu (PKID)** urządzenia.  Ten 1-wymiarowy, czytelny kod kreskowy zapewnia partnerom podrzędnym możliwość rejestrowania urządzeń dla autopilotażu bez konieczności Unbox urządzeń i zbierania identyfikatorów urządzeń przy użyciu alternatywnych metod.
+W tym artykule wyjaśniono, jak tworzyć i stosować profile rozwiązania Autopilot do urządzeń w Partner Center.
 
-W tym artykule wyjaśniono, jak utworzyć i zastosować profile autopilotażu na urządzeniach w centrum partnerskim.
-
-Jeśli nie znasz już programu pilotażowego, zapoznaj się z informacjami w poniższych artykułach:
+Jeśli nie znasz jeszcze rozwiązania Autopilot, zapoznaj się z informacjami w tych artykułach:
 
 - [Omówienie rozwiązania Windows Autopilot](/windows/deployment/windows-10-auto-pilot)
-- [Przewodnik dotyczący wdrażania w programie autopilotaż](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
+- [Podręcznik wdrażania rozwiązania Autopilot](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>Omówienie
 
-Dzięki funkcji autopilotażu systemu Windows w centrum partnerskim można tworzyć niestandardowe profile, które mają zastosowanie do urządzeń klienckich. Następujące ustawienia profilu były dostępne po opublikowaniu tego artykułu:
+Dzięki funkcji Windows Autopilot na Partner Center można tworzyć profile niestandardowe do zastosowania na urządzeniach klientów. W momencie opublikowania tego artykułu były dostępne następujące ustawienia profilu:
 
-- Pomiń ustawienia prywatności. To opcjonalne ustawienie profilu autopilotażu pozwala organizacjom nie żądać ustawień prywatności podczas procesu OOBE.
+- Pomiń ustawienia prywatności. To opcjonalne ustawienie profilu rozwiązania Autopilot pozwala organizacjom nie pytać o ustawienia prywatności podczas procesu OOBE.
 
-- Wyłącz tworzenie konta administratora lokalnego na urządzeniu. Organizacje mogą zdecydować, czy użytkownik konfigurujący urządzenie powinien mieć dostęp administratora po zakończeniu procesu.
+- Wyłącz tworzenie konta administratora lokalnego na urządzeniu. Organizacje mogą zdecydować, czy po zakończeniu procesu użytkownik konfiguracji urządzenia powinien mieć dostęp administratora.
 
-- Automatycznie Skonfiguruj urządzenie pod kątem pracy lub szkoły. Wszystkie urządzenia zarejestrowane za pomocą autopilotażu będą automatycznie uznawane za urządzenia służbowe, więc nie będzie to konieczne w trakcie procesu OOBE.
+- Automatycznie skonfiguruj urządzenie do pracy lub nauki. Wszystkie urządzenia zarejestrowane przy użyciu rozwiązania Autopilot zostaną automatycznie uznane za urządzenia służbowe, więc to pytanie nie zostanie zadane podczas procesu OOBE.
 
-- Pomiń strony konfiguracji Cortany, OneDrive i rejestracji OEM. Wszystkie urządzenia zarejestrowane za pomocą autopilotażu automatycznie pomijają te strony podczas procesu OOBE (out-of-Box Experience).
+- Pomiń strony konfiguracji cortany, usługi OneDrive i rejestracji OEM. Wszystkie urządzenia zarejestrowane przy użyciu rozwiązania Autopilot będą automatycznie pomijać te strony podczas procesu OOBE (out-of-box experience).
 
-- Pomiń umowę licencyjną użytkownika oprogramowania (EULA). Począwszy od systemu Windows 10 w wersji 1709, organizacje mogą zdecydować o pominięciu strony umów EULA przedstawionych podczas procesu OOBE. Aby zapoznać się z ważnymi informacjami na temat pomijania strony umów EULA podczas instalacji systemu Windows, zobacz sekcję dotyczącą [umowy EULA systemu Windows](#windows-autopilot-eula-dismissal) .
+- Pomiń umowę licencyjną użytkownika oprogramowania (EULA). Począwszy od Windows 10 wersji 1709, organizacje mogą zdecydować się pominąć stronę eula przedstawioną podczas procesu OOBE. Zobacz [Windows Autopilot poniżej,](#windows-autopilot-eula-dismissal) aby uzyskać ważne informacje dotyczące pomijania strony eula podczas instalacji systemu Windows.
 
 Mają zastosowanie następujące uprawnienia i ograniczenia dotyczące zarządzania profilami i urządzeniami:
 
@@ -58,122 +53,122 @@ Mają zastosowanie następujące uprawnienia i ograniczenia dotyczące zarządza
 
 - Nie możesz zarządzać urządzeniami przekazanymi przez Twojego klienta do sklepu Microsoft Store dla firm lub portalu usługi Microsoft Intune.
 
-## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>Tworzenie profilów autopilotażu i zarządzanie nimi w centrum partnerskim
+## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>Tworzenie profilów rozwiązania Autopilot i zarządzanie nimi w Partner Center
 
-W centrum partnerskim można utworzyć profile wdrażania systemu Windows i zastosować je do urządzeń.
+W Partner Center można tworzyć Windows Autopilot wdrażania i stosować je do urządzeń.
 
 >[!NOTE]
 >Tylko agenci administracyjni mogą tworzyć i stosować profile.
 
-### <a name="create-a-new-autopilot-profile"></a>Utwórz nowy profil autopilotażu
+### <a name="create-a-new-autopilot-profile"></a>Tworzenie nowego profilu rozwiązania Autopilot
 
-1. Wybierz pozycję **klienci** z menu Centrum partnerskiego, a następnie wybierz klienta, dla którego tworzysz profil autopilotażu.
+1. Wybierz **pozycję** Klienci Partner Center menu, a następnie wybierz klienta, dla których tworzysz profil rozwiązania Autopilot.
 
-2. Na stronie Szczegóły klienta wybierz pozycję **urządzenia**.
+2. Na stronie szczegółów klienta wybierz pozycję **Urządzenia**.
 
-3. W obszarze **Profile autopilotaż systemu Windows** wybierz pozycję **Dodaj nowy profil**.
+3. W **Windows Autopilot profilów wybierz** pozycję Dodaj nowy **profil.**
 
 4. Wprowadź nazwę i opis profilu, a następnie skonfiguruj ustawienia OOBE. Wybierz spośród opcji:  
 
-   - Pomiń ustawienia prywatności w instalatorze
+   - Pomijanie ustawień prywatności w konfiguracji
 
-   - Wyłącz konto administratora lokalnego w instalatorze
+   - Wyłączanie konta administratora lokalnego w instalatorze
   
-   - Automatycznie Pomijaj strony w instalatorze<br>
-        (Obejmuje *Automatyczne wybieranie ustawień dotyczących pracy lub szkoły* oraz *pomijanie stron ustawień rejestracji Cortany, OneDrive i OEM*)
+   - Automatyczne pomijanie stron w konfiguracji<br>
+        (Obejmuje *automatyczne wybieranie ustawień dla służbowych* i *pomijanie cortany, usługi OneDrive* i stron konfiguracji rejestracji OEM)
   
-   - Pomiń umowę licencyjną użytkownika oprogramowania (EULA)<br> 
+   - Pomiń umowę licencyjną użytkownika końcowego (EULA)<br> 
        >[!IMPORTANT] 
-       >Aby zapoznać się z ważnymi informacjami na temat pomijania strony umów EULA podczas instalacji systemu Windows, zobacz sekcję dotyczącą [umowy EULA systemu Windows](#windows-autopilot-eula-dismissal) .
+       >Zobacz [Windows Autopilot poniżej,](#windows-autopilot-eula-dismissal) aby uzyskać ważne informacje dotyczące pomijania strony eula podczas instalacji systemu Windows.
 
-5. Po zakończeniu wybierz pozycję **Prześlij** .
+5. Po **zakończeniu wybierz** pozycję Prześlij.
 
-### <a name="apply-an-autopilot-profile-to-customer-devices"></a>Stosowanie profilu autopilotażu do urządzeń klienckich
+### <a name="apply-an-autopilot-profile-to-customer-devices"></a>Stosowanie profilu rozwiązania Autopilot do urządzeń klientów
 
 >[!NOTE]
->W poniższych instrukcjach przyjęto założenie, że urządzenia klienta zostały już dodane do Centrum partnerskiego i że można uzyskać dostęp do listy urządzeń. Jeśli urządzenia klienta nie zostały jeszcze dodane, postępuj zgodnie z instrukcjami w temacie [Dodawanie urządzeń do konta klienta](#add-devices-to-a-customers-account) , a następnie wykonaj poniższe kroki.
+>W poniższych instrukcjach przyjęto założenie, że urządzenia klienta zostały już dodane do Partner Center i że możesz uzyskać dostęp do jego listy urządzeń. Jeśli urządzenia klienta nie zostały jeszcze dodane, postępuj zgodnie z instrukcjami w artykule Dodawanie urządzeń do konta klienta, [a](#add-devices-to-a-customers-account) następnie wykonaj poniższe kroki.
 
-Po utworzeniu profilu programu pilotażowego dla klienta można go zastosować na urządzeniach klienta.
+Po utworzeniu profilu rozwiązania Autopilot dla klienta można go zastosować do urządzeń klienta.
 
-1. Wybierz pozycję **klienci** z menu Centrum partnerskiego, a następnie wybierz klienta, dla którego został utworzony profil autopilotażu.
+1. Wybierz **pozycję** Customers (Klienci) Partner Center menu aplikacji, a następnie wybierz klienta, dla których utworzono profil rozwiązania Autopilot.
 
-2. Na stronie Szczegóły klienta wybierz pozycję **urządzenia**.
+2. Na stronie szczegółów klienta wybierz pozycję **Urządzenia**.
 
-3. W obszarze **Zastosuj profile do urządzeń** wybierz urządzenia lub grupy urządzeń, do których chcesz dodać profile, a następnie wybierz pozycję **Zastosuj profil**. Właśnie stosowany profil zostanie wyświetlony w kolumnie **profil** .
+3. W **obszarze Zastosuj profile do urządzeń** wybierz urządzenia lub grupy urządzeń, do których chcesz dodać profile, a następnie wybierz pozycję Zastosuj **profil.** Właśnie zastosowany profil zostanie wyświetlony w **kolumnie** Profil.
 
 4. Wykonaj poniższe kroki, aby sprawdzić, czy profil zostanie pomyślnie zastosowany do urządzenia.
 
     a.  Podłącz urządzenie do sieci i włącz je.
 
-    b.  Sprawdź, czy są wyświetlane odpowiednie ekrany OOBE (jeśli istnieją).
+    b.  Sprawdź, czy są wyświetlane odpowiednie ekrany OOBE (jeśli występują).
 
-    c.  Po zatrzymaniu procesu OOBE Zresetuj urządzenie do domyślnych ustawień fabrycznych, aby przygotować je do nowego użytkownika.
+    c.  Po zatrzymaniu procesu OOBE przywróć domyślne ustawienia fabryczne urządzenia, aby przygotować je dla nowego użytkownika.
 
-### <a name="remove-an-autopilot-profile-from-a-customers-device"></a>Usuwanie profilu autopilotażu z urządzenia klienta
+### <a name="remove-an-autopilot-profile-from-a-customers-device"></a>Usuwanie profilu rozwiązania Autopilot z urządzenia klienta
 
-1. Wybierz pozycję **klienci** z menu Centrum partnerskiego, a następnie wybierz klienta, dla którego został utworzony profil autopilotażu.
+1. Wybierz **pozycję** Customers (Klienci) Partner Center menu aplikacji, a następnie wybierz klienta, dla których utworzono profil rozwiązania Autopilot.
 
-2. Na stronie Szczegóły klienta wybierz pozycję **urządzenia**.
+2. Na stronie szczegółów klienta wybierz pozycję **Urządzenia**.
 
-3. W obszarze **Zastosuj profile do urządzeń** wybierz urządzenia, z których chcesz usunąć profil, a następnie wybierz pozycję **Usuń profil**.
+3. W **obszarze Zastosuj profile do urządzeń** wybierz urządzenia, z których chcesz usunąć profil, a następnie wybierz pozycję Usuń **profil.**
 
    >[!NOTE]
-   >Usunięcie profilu z urządzenia nie powoduje usunięcia go z listy. Jeśli chcesz usunąć profil, postępuj zgodnie z instrukcjami w temacie [Aktualizowanie lub usuwanie profilu autopilotażu](#update-or-delete-an-autopilot-profile).
+   >Usunięcie profilu z urządzenia nie powoduje usunięcia profilu z listy. Jeśli chcesz usunąć profil, postępuj zgodnie z instrukcjami w sekcji [Aktualizowanie lub usuwanie profilu rozwiązania Autopilot.](#update-or-delete-an-autopilot-profile)
 
-### <a name="update-or-delete-an-autopilot-profile"></a>Aktualizowanie lub usuwanie profilu autopilotażu
+### <a name="update-or-delete-an-autopilot-profile"></a>Aktualizowanie lub usuwanie profilu rozwiązania Autopilot
 
-Jeśli klient chce zmienić wbudowane środowisko po wysłaniu do nich urządzeń, można zmienić profil w centrum partnerskim.
+Jeśli klient chce zmienić środowisko out-of-box po wysłaniu do nich urządzeń, możesz zmienić profil w Partner Center.
 
-Gdy urządzenie klienta nawiązuje połączenie z Internetem, pobiera najnowsze wersje profilu podczas procesu OOBE. Ponadto w przypadku gdy klient przywraca domyślne ustawienia fabryczne urządzenia, urządzenie powróci do najnowszej wersji profilu podczas procesu OOBE.
+Gdy urządzenie klienta połączy się z Internetem, pobierze najnowszą wersję profilu podczas procesu OOBE. Ponadto za każdym razem, gdy klient przywróci urządzenie do domyślnych ustawień fabrycznych, urządzenie ponownie pobierze najnowszą wersję profilu podczas procesu OOBE.
 
-1. Wybierz pozycję **klienci** z menu Centrum partnerskiego, a następnie wybierz klienta, który chce zmienić profil autopilotażu.
+1. Wybierz **pozycję** Klienci z Partner Center, a następnie wybierz klienta, który chce, aby zmienić profil rozwiązania Autopilot.
 
-2. Na stronie Szczegóły klienta wybierz pozycję **urządzenia**.
+2. Na stronie szczegółów klienta wybierz pozycję **Urządzenia.**
 
-3. W obszarze **Profile autopilotaż systemu Windows** wybierz profil, który ma zostać zaktualizowany. Wprowadź wymagane zmiany, a następnie wybierz pozycję **Prześlij**.
+3. W **Windows Autopilot profilów** wybierz profil, który chcesz zaktualizować. Określ wymagane zmiany, a następnie wybierz pozycję **Prześlij.**
 
-Aby usunąć ten profil, wybierz pozycję **Usuń profil** w prawym górnym rogu strony.
+Aby usunąć ten profil, wybierz **pozycję Usuń profil** w prawym górnym rogu strony.
 
 ### <a name="add-devices-to-a-customers-account"></a>Dodawanie urządzeń do konta klienta
 
 >[!NOTE]
 >Agenci sprzedaży i agenci administracyjni mogą dodawać urządzenia do konta klienta.
 
-Aby można było zastosować niestandardowe profile autopilotażu na urządzeniach klienckich, musisz mieć dostęp do listy urządzeń klienta.
+Aby można było zastosować niestandardowe profile rozwiązania Autopilot do urządzeń klientów, musisz mieć dostęp do listy urządzeń klienta.
 
-Jeśli planujesz użycie nazwy producenta OEM, numeru seryjnego i kombinacji modelu, należy pamiętać o następujących ograniczeniach:
+Jeśli planujesz używać nazwy OEM, numeru seryjnego i kombinacji modelu, należy pamiętać o tych ograniczeniach:
 
-- Ta krotka działa tylko w przypadku nowszych urządzeń (na przykład skrótów 4K) i nie jest obsługiwana w przypadku skrótów 128B (RS2 i starszych urządzeń).
+- Ta krotka działa tylko w przypadku urządzeń nowszej (na przykład 4k skrótów) i nie jest obsługiwana w przypadku skrótów 128b (RS2 i poprzednich urządzeń).
 
-- Rejestracja spójnej kolekcji uwzględnia wielkość liter, dlatego dane w pliku muszą być zgodne z nazwą modelu i producenta **_dokładnie_* znakiem dostarczonym przez dostawcę OEM (dostawca sprzętu).
+- W rejestracji krotki jest wielkość liter, dlatego dane w pliku  muszą być zgodne z nazwami modelu i producenta dokładnie tak, jak podano w przypadku dostawcy OEM (dostawcy sprzętu).
 
-Postępuj zgodnie z poniższymi instrukcjami, aby dodać urządzenia do konta klienta w centrum partnerskim.
+Postępuj zgodnie z poniższymi instrukcjami, aby dodać urządzenia do konta klienta w Partner Center.
 
-1. Wybierz _ *Customers** z menu Centrum partnerskiego, a następnie wybierz klienta, którego urządzenia chcesz zarządzać.
+1. Wybierz **pozycję** Klienci z Partner Center, a następnie wybierz klienta, którego urządzeniami chcesz zarządzać.
 
-2. Na stronie Szczegóły klienta wybierz pozycję **urządzenia**.
+2. Na stronie szczegółów klienta wybierz pozycję **Urządzenia.**
 
-3. W obszarze **Zastosuj profile do urządzeń** wybierz pozycję **Dodaj urządzenia**.
+3. W **obszarze Zastosuj profile do urządzeń wybierz** pozycję Dodaj **urządzenia.**
 
-4. Wprowadź nazwę listy urządzeń, a następnie wybierz pozycję **Przeglądaj** , aby przekazać listę klientów (w formacie pliku CSV) do Centrum partnerskiego.
+4. Wprowadź nazwę listy urządzeń, a  następnie wybierz pozycję Przeglądaj, aby przekazać listę klientów (w formacie pliku CSV) do Partner Center.
 
     >[!NOTE]
-    >Plik CSV powinien zostać odebrany przy użyciu zakupu urządzenia. Jeśli plik CSV nie został odebrany, możesz go utworzyć, wykonując czynności opisane w temacie [Dodawanie urządzeń do systemu Windows autopilotaż](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell).  
+    >Ten plik CSV powinien zostać odebrany wraz z zakupem urządzenia. Jeśli nie otrzymasz pliku CSV, możesz go utworzyć samodzielnie, korzystając z procedury opisanej w temacie [Dodawanie](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell)urządzeń do Windows Autopilot .  
 
-5. Przekaż plik CSV, a następnie wybierz pozycję **Zapisz**.
+5. Przekaż plik CSV, a następnie wybierz pozycję **Zapisz.**
 
-Jeśli podczas próby przekazania pliku CSV zostanie wyświetlony komunikat o błędzie, sprawdź format pliku. Możesz użyć samego skrótu sprzętu lub nazwy producenta OEM, numeru seryjnego i modelu (w tej kolejności kolumn) lub identyfikatora produktu systemu Windows. Możesz również użyć pliku CSV z linkiem obok pozycji **Dodaj urządzenia** , aby utworzyć listę urządzeń.
+Jeśli podczas próby przekazania pliku CSV zostanie wyświetlony komunikat o błędzie, sprawdź format pliku. Możesz użyć samego skrótu sprzętu lub nazwy producenta OEM, numeru seryjnego i modelu (w tej kolejności kolumn) lub identyfikatora produktu systemu Windows. Możesz również użyć przykładowego pliku CSV dostarczonego za pomocą linku obok **przycisku Dodaj urządzenia,** aby utworzyć listę urządzeń.
 
-Plik CSV powinien wyglądać następująco:
+Plik CSV powinien wyglądać podobnie do tego:
 
-> **Numer seryjny urządzenia, identyfikator produktu systemu Windows, skrót sprzętu, nazwa producenta, model urządzenia**
+> **Numer seryjny urządzenia,Identyfikator produktu systemu Windows,Skrót sprzętu,Nazwa producenta,Model urządzenia**
 
-> **{numer_seryjny},,, Microsoft Corporation, Surface laptop**
+> **{serialNumber},,,Microsoft Corporation, Surface Laptop**
 
 >[!NOTE]
-> "Nazwa producenta" i "model urządzenia" są rozróżniana wielkość liter.
+> W polach "Nazwa producenta" i "Model urządzenia" jest wielkość liter.
 
-Jeśli nie wiesz, jakie wartości należy umieścić w polu Nazwa producenta i model urządzenia, możesz uruchomić to urządzenie, aby zebrać poprawne wartości:
+Jeśli nie wiesz, jaką wartość należy umieścić dla pól Nazwa producenta i Model urządzenia, możesz uruchomić tę wartość na urządzeniu, aby zebrać poprawne wartości:
 
 <pre><code>md c:\\HWID
 
@@ -186,10 +181,10 @@ Install-Script -Name Get-WindowsAutoPilotInfo
 Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv -Partner -Force
 </code></pre>
 
-## <a name="windows-autopilot-eula-dismissal"></a>Odrzucanie umowy EULA systemu Windows
+## <a name="windows-autopilot-eula-dismissal"></a>Windows Autopilot odrzuć eula
 
 ### <a name="important-information"></a>WAŻNE INFORMACJE
 
-Program Windows automatycznie pilotaż umożliwia skonfigurowanie dostosowanych instalacji systemu Windows na urządzeniach zarządzanych przez klientów. Jeśli klient zezwoli na to w tym celu, można pominąć lub ukryć niektóre ekrany skonfigurowane, które są zwykle prezentowane użytkownikom podczas konfigurowania systemu Windows, w tym na ekranie akceptacji umowy licencyjnej użytkownika oprogramowania.
+Windows Autopilot umożliwia skonfigurowanie dostosowanych instalacji systemu Windows na urządzeniach, które są zarządzane dla klientów. W przypadku autoryzacji klienta można pominąć lub ukryć niektóre ekrany konfiguracji, które są zwykle prezentowane użytkownikom podczas konfigurowania systemu Windows, w tym ekran akceptacji umowy licencyjnej użytkownika oprogramowania (EULA).
 
-Za pomocą tej funkcji, użytkownik wyraża zgodę na pominięcie lub ukrycie wszelkich ekranów, które zostały zaprojektowane w celu udostępnienia użytkownikom informacji lub akceptacji warunków oznacza, że uzyskano wystarczającą zgodę i autoryzację od klienta, aby ukryć warunki i w imieniu klienta (czy organizacja lub indywidualny użytkownik może mieć możliwość), wyrazić zgodę na wszelkie powiadomienia i zaakceptować warunki, które są odpowiednie dla klienta. Obejmuje to umowę dotyczącą warunków i postanowień licencyjnych lub informacji, które byłyby widoczne dla użytkownika, jeśli nie została pominięta lub ukryta przy użyciu tego narzędzia. Klient nie może używać oprogramowania systemu Windows na tych urządzeniach, jeśli klient nie uzyskał ważnej licencji na oprogramowanie firmy Microsoft lub jej licencjonowanych dystrybutorów.
+Korzystając z tej funkcji, użytkownik zgadza się, że pomijanie lub ukrywanie ekranów, które mają na celu powiadomienie lub akceptację warunków, oznacza, że klient uzyskał wystarczającą zgodę i autoryzację, aby ukryć warunki, oraz że w imieniu klienta (w zależności od przypadku organizacji lub użytkownika indywidualnego) wyraża zgodę na wszelkie powiadomienia i akceptuje wszelkie postanowienia dotyczące klienta. Obejmuje to umowę z warunkami i postanowieniami licencji lub powiadomienie, które zostaną przedstawione użytkownikowi, jeśli użytkownik nie pominął ani nie ukrywał jej za pomocą tego narzędzia. Klient nie może korzystać z oprogramowania systemu Windows na tych urządzeniach, jeśli klient nie uzyskał w prawidłowy sposób licencji na oprogramowanie od firmy Microsoft lub licencjonowanych dystrybutorów.

@@ -1,41 +1,36 @@
 ---
-title: Wspólne miesięczne scenariusze rozliczeń
+title: Typowe miesięczne scenariusze rozliczeń
 ms.topic: article
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Typowe scenariusze w centrum partnerskim w przypadku korzystania z comiesięcznych rozliczeń — obejmuje dodanie nowych subskrypcji, zmianę liczby licencji oraz wstrzymanie subskrypcji.
+description: Typowe scenariusze w Partner Center w przypadku korzystania z rozliczeń miesięcznych — obejmuje dodawanie nowych subskrypcji, zmienianie ilości licencji i zawieszanie subskrypcji.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4fe5c33fe549604f25500dd333d187e6b70ad73e
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 66c9ec09f707d87248fdef31e4cf66f4ca927ce1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502518"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148656"
 ---
-# <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Przykładowe miesięczne Scenariusze rozliczania dla nowych subskrypcji, zmiany kwot licencji lub zawieszeń
+# <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Przykładowe miesięczne scenariusze rozliczeń dla nowych subskrypcji, zmienianie kwoty licencji lub zawieszanie
 
-**Odpowiednie role**
+**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Agent pomocy technicznej | Agent sprzedaży
 
-- Agent administracyjny
-- Administrator rozliczeń
-- Agent pomocy technicznej
-- Agent sprzedaży
+Te [przykładowe typowe scenariusze rozliczeń](common-billing-scenarios.md) mają zastosowanie w przypadku korzystania z rozliczeń miesięcznych w Partner Center.
 
-Te przykładowe [typowe scenariusze rozliczania](common-billing-scenarios.md) są stosowane w przypadku używania comiesięcznych rozliczeń w centrum partnerskim.
+## <a name="new-monthly-subscription"></a>Nowa miesięczna subskrypcja
 
-## <a name="new-monthly-subscription"></a>Nowa subskrypcja miesięczna
-
-Data rozliczenia to 15. w każdym miesiącu. 13 stycznia można zakupić nową subskrypcję z jedną licencją na USD/miesiąc i wybrać comiesięczne rozliczanie. Plik uzgadniania na podstawie licencji 15 stycznia będzie zawierać następujące wiersze rozliczeń:
+Data rozliczenia to 15. dzień każdego miesiąca. 13 stycznia zakupisz nową subskrypcję z jedną licencją za 4 USD miesięcznie i wybierzesz rozliczenia miesięczne. Plik uzgodnień oparty na licencjach z 15 stycznia będzie zawierać następujące wiersze rozliczeń:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |2/12/2018    |Opłata za cykl   |4,00       |1        |4,00 |
 
-Plik uzgadniania opartego na licencji od lutego 15 będzie zawierać następujący wiersz rozliczenia:
+Plik uzgodnień oparty na licencjach z 15 lutego będzie zawierać następujący wiersz rozliczeń:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -43,73 +38,73 @@ Plik uzgadniania opartego na licencji od lutego 15 będzie zawierać następują
 
 ## <a name="change-license-quantity"></a>Zmień liczbę licencji
 
-Data rozliczenia to 15. w każdym miesiącu. 13 stycznia można zakupić nową subskrypcję z jedną licencją na USD/miesiąc i wybrać comiesięczne rozliczanie. Plik uzgadniania na podstawie licencji 15 stycznia będzie zawierać następujące wiersze rozliczeń:
+Data rozliczenia to 15. dzień każdego miesiąca. 13 stycznia zakupisz nową subskrypcję z jedną licencją na 4 USD/miesiąc i wybierzesz rozliczenia miesięczne. Plik uzgodnień oparty na licencjach z 15 stycznia będzie zawierać następujące wiersze rozliczeń:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |2/12/2018    |Opłata za cykl   |4,00       |1        |4,00    |
 
-1 lutego zwiększasz ilość licencji od jednej do dwóch. Plik uzgadniania opartego na licencji od lutego 15 będzie zawierać następujące wiersze rozliczania:
+1 lutego zwiększysz liczbę licencji z jednej do dwóch. Plik uzgodnień oparty na licencjach z 15 lutego będzie zawierać następujące wiersze rozliczeń:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-| 1/13/2018        |2/12/2018    |Tempo wystąpienia cyklu   |-4,00       |1        |-4,00   |
-|1/13/2018         |1/31/2018    | Tempo wystąpienia cyklu   |2.45       |1        |2.45    |
-|2018-01-02         |2/12/2018    | Tempo wystąpienia cyklu   |1,55       |2        |3,10    |
-|2/13/2018         |3/12/2018    | Tempo wystąpienia cyklu   |4,00       |2        |8,00    |
+| 1/13/2018        |2/12/2018    |Cykl wystąpienia prorate   |-4.00       |1        |-4.00   |
+|1/13/2018         |1/31/2018    | Cykl wystąpienia prorate   |2.45       |1        |2.45    |
+|2018-01-02         |2/12/2018    | Cykl wystąpienia prorate   |1,55       |2        |3.10    |
+|2/13/2018         |3/12/2018    | Cykl wystąpienia prorate   |4,00       |2        |8.00    |
 
-Cena miesięczna to 4,00, a okres korzystania z usługi 1/13/2018 – 2/12/2018 wynosi 31 dni. Jest to równe cenie dziennej wynoszącej 0,129 (4/31).
+Cena miesięczna wynosi 4,00, a w okresie usługi od 13.01.2018 r. do 12.02.2018 r. Odpowiada to cenie dziennej 0,129 (4/31).
 
-W okresie obowiązywania 1/13/2018 – 1/31/2018 występuje 19 dni.
+W okresie proracji od 13.01.2018 r. do 31.01.2018 r. istnieje 19 dni.
 
-Cena jednostkowa dawki = 2,451 = 19 x 0,129
+Cena jednostkowa proration = 2,451 = 19 x 0,129
 
-W okresie obowiązywania 2/1/2018 – 2/12/2018 znajduje się 12 dni.
+W okresie proracji od 1.02.2018 r. do 12.02.2018 r. istnieje 12 dni.
 
-Cena jednostkowa dawki = 1,54 = 12 x 0,129
+Cena jednostkowa proration = 1,54 = 12 x 0,129
 
-## <a name="suspend-before-30-days"></a>Wstrzymaj przed 30 dni
+## <a name="suspend-before-30-days"></a>Wstrzymywanie przed 30 dniami
 
-Data rozliczenia to 15. w każdym miesiącu. 13 stycznia można zakupić nową subskrypcję z jedną licencją na USD/miesiąc i wybrać comiesięczne rozliczanie. Plik uzgadniania na podstawie licencji 15 stycznia będzie zawierać następujące wiersze rozliczeń:
+Data rozliczenia to 15. dzień każdego miesiąca. 13 stycznia zakupisz nową subskrypcję z jedną licencją na 4 USD/miesiąc i wybierzesz rozliczenia miesięczne. Plik uzgodnień oparty na licencjach z 15 stycznia będzie zawierać następujące wiersze rozliczeń:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |2/12/2018    |Opłata za cykl   |4,00       |1        |4,00    |
 
-1 lutego wstrzymuje się subskrypcję. Plik uzgadniania opartego na licencji od lutego 15 będzie zawierać następujący wiersz rozliczenia:
+1 lutego zawieszasz subskrypcję. Plik uzgodnień oparty na licencjach z 15 lutego będzie zawierać następujący wiersz rozliczeń:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-1/13/2018|2/12/2018|Opłata za anulowanie|-4,00|1|-4,00
+1/13/2018|2/12/2018|Anulowanie opłaty|-4.00|1|-4.00
 
-## <a name="suspend-after-30-days"></a>Wstrzymaj po 30 dniach
+## <a name="suspend-after-30-days"></a>Wstrzymywanie po upływie 30 dni
 
-Data rozliczenia to 15. w każdym miesiącu. 13 stycznia można zakupić nową subskrypcję z jedną licencją na USD/miesiąc i wybrać comiesięczne rozliczanie. Plik uzgadniania na podstawie licencji 15 stycznia będzie zawierać następujące wiersze rozliczeń:
+Data rozliczenia to 15. dzień każdego miesiąca. 13 stycznia zakupisz nową subskrypcję z jedną licencją na 4 USD/miesiąc i wybierzesz rozliczenia miesięczne. Plik uzgodnień oparty na licencjach z 15 stycznia będzie zawierać następujące wiersze rozliczeń:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|2/12/2018|Opłata za cykl|4,00|1|4,00
 
-Plik uzgadniania opartego na licencji od lutego 15 będzie zawierać następujący wiersz rozliczenia:
+Plik uzgodnień oparty na licencjach z 15 lutego będzie zawierać następujący wiersz rozliczeń:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 2/13/2018|3/12/2018|Opłata za cykl|4,00|1|4,00
 
-1 marca wstrzymasz subskrypcję. 15 marca plik uzgadniania opartego na licencji będzie zawierać następujący wiersz rozliczenia:
+1 marca wstrzymujesz subskrypcję. Plik uzgodnień oparty na licencjach z 15 marca będzie zawierać następujący wiersz rozliczeń:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-3/1/2018|3/12/2018|Opłata za anulowanie|-1,72|1|-1,72
+3/1/2018|3/12/2018|Anulowanie opłaty|-1.72|1|-1.72
 
-Cena miesięczna to 4,00, a okres korzystania z usługi 2/13/2018 – 3/12/2018 wynosi 28 dni. Jest to równe cenie dziennej wynoszącej 0,143 (4/28).
+Cena miesięczna wynosi 4,00, a w okresie usługi od 13.02.2018 r. do 12.03.2018 r. Odpowiada to cenie dziennej 0,143 (4/28).
 
-Cena jednostkowa = dni w okresie użytkowania x cena dzienna x liczba licencji.
+Cena jednostkowa = dni w okresie świadczenia usługi x cena dzienna x liczba licencji.
 
-W okresie anulowania 3/1/2018 – 3/12/2018 znajduje się 12 dni.
+W okresie anulowania 3/1/2018 – 3/12/2018 istnieje 12 dni.
 
-W związku z tym cena jednostkowa =-1,716 (12 x 0,143 x (-1)).
+W związku z tym cena jednostkowa = -1,716 (12 x 0,143 x (-1)).
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Scenariusze rozliczania dla jednorazowych i wybranych cyklicznych zakupów](common-billing-scenarios-onetime-recurring.md)
+- [Scenariusze rozliczeń dla jednorazowych zakupów i wybieranie cyklicznych zakupów](common-billing-scenarios-onetime-recurring.md)

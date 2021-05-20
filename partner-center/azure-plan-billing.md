@@ -1,169 +1,165 @@
 ---
-title: Azure plan rozliczania — faktury & pliki Rekonesans
+title: Rozliczenia planu platformy Azure — pliki & ponownego rozliczania
 ms.topic: article
 ms.date: 01/20/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, jak uzyskać dostęp do struktury plików faktur i uzgodnień uzgadniania dla planu platformy Azure i zrozumieć ją.
+description: Dowiedz się, jak uzyskać dostęp do struktury pliku faktur i uzgodnień związanej z rozliczeniami dla planu platformy Azure oraz jak je zrozumieć.
 author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 757383ee264e58e7b4dc8ffefafe213cb49acb79
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924989"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149795"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nowe środowisko handlowe w programie CSP — rozliczenia platformy Azure 
 
-**Odpowiednie role**
+**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Administrator globalny
 
-- Agent administracyjny
-- Administrator rozliczeń
-- Administrator globalny
+W tym artykule wyjaśniono, jak uzyskać dostęp do struktury plików faktur i uzgodnień związanych z rozliczeniami dla planu platformy Azure oraz jak je zrozumieć. Rozliczenia w ramach planu platformy Azure to uproszczone środowisko rozliczeniowe korzystające ze dostosowanej pojedynczej daty rozliczeniowej i okresu rozliczeniowego opartego na miesiącu kalendarzowym.
 
-W tym artykule wyjaśniono, jak uzyskać dostęp do struktury pliku faktury i uzgodnienia dotyczącej rozliczeń dla planu platformy Azure i zrozumieć ją. Rozliczenia zgodnie z planem platformy Azure to uproszczone środowisko rozliczeniowe korzystające z wyrównanej pojedynczej daty rozliczania i okresu rozliczeniowego w kalendarzu.
+## <a name="summary-of-billing-essentials"></a>Podsumowanie podstawowych informacji o rozliczeniach
 
-## <a name="summary-of-billing-essentials"></a>Podsumowanie podstawy rozliczeń
+- **Data faktury:** faktura i plik uzgodnień będą dostępne na Partner Center nawigacyjnym/interfejsie API do 8 .00 (północ czasu UTC).
 
-- **Data faktury**: plik faktury i uzgodnienia będą dostępne na pulpicie nawigacyjnym/interfejsie API Centrum partnerskiego przez 8 (północy czasu UTC).
+- **Okres rozliczeniowy** faktury: okres rozliczeniowy faktury jest dopasowany do miesiąca kalendarzowego, na przykład 10/1-10/31, 11/1-11/30.
 
-- **Okres rozliczeniowy faktury**: okres rozliczeniowy faktury jest wyrównany do miesiąca kalendarzowego, na przykład 10/1-10/31, 11/1-11/30.
+- **Okresy obsługi opłat:** Opłaty będą zgodne z miesiącem kalendarzowym. Jeśli na przykład rozliczany partner dodaje usługi platformy Azure za pośrednictwem planu platformy Azure w dniu 10/15 i klient rozpocznie korzystanie z usług platformy Azure 10/15, wówczas rozliczany partner otrzyma fakturę/rekonesję w dniu 8.11.01. za zużycie przez klienta w okresie 10/15–10/31. Faktura za następny miesiąc, która zostanie wygenerowana w dniu 8.12.2018, zawiera wszystkie opłaty za okres 11/1– 11/31.
 
-- **Opłaty za okresy usługi**: opłaty zostaną wyrównane do miesiąca kalendarzowego. Na przykład jeśli Partner rozliczeń dodaje usługi platformy Azure w ramach planu platformy Azure w dniu 10/15, a klient zacznie zużywać usługi platformy Azure w dniu 10/15, wówczas rozliczenia partner otrzymają faktury/Rekonesans na 11/8 w celu użycia przez klienta okresu usługi 10/15-10/31. Faktury w następnym miesiącu, które mają zostać wygenerowane w dniu 12/8, zawierają wszystkie opłaty za okres usługi 11/1-11/31.
+- **Termin płatności faktury:** 60 dni netto.
 
-- **Termin płatności faktury**: NET 60 dni.
+- Waluta **faktury:** od 28 stycznia 2021 r. partnerzy w regionie UNII EUROPEJSKIEJ/EFTA i Zjednoczonego Królestwa, którzy mają nowych klientów i istniejących klientów programu CSP, którzy kupują nowe oferty handlowe po raz pierwszy, których dzierżawy zostały utworzone przed 11 maja 2020 r., będą rozliczani za te zakupy w walucie lokalizacji partnera. Partnerzy znajdujący się poza regionem Unii Europejskiej/EFTA i Zjednoczonego Królestwa będą nadal rozliczani w walucie lokalizacji partnera.
 
-- **Waluta faktury**: począwszy od dwudziestu stycznia 2021, partnerzy w regionie EU/EFTA i Zjednoczone Królestwo, którzy mają nowych klientów i istniejących klientów korzystających z dostawcy usług kryptograficznych kupujących nowe oferty handlowe po raz pierwszy, których dzierżawcy zostały utworzone przed 11 maja 2020, będą rozliczani za te zakupy w walucie lokalizacji partnera. Partnerzy spoza regionu UE/EFTA i Zjednoczonego Królestwa będą nadal rozliczani w walucie lokalizacji partnera.
+- **Zachęty dla partnerów:** Zapłacono 45 dni od końca miesiąca na fakturze.
 
-- **Zachęty dla partnerów**: płatne 45 dni od końca miesiąca faktury.
+## <a name="access-your-invoices-and-reconciliation-files"></a>Uzyskiwanie dostępu do faktur i plików uzgodnień
 
-## <a name="access-your-invoices-and-reconciliation-files"></a>Uzyskiwanie dostępu do faktur i plików uzgadniania
+Administrator globalny lub administrator rozliczeń w firmie otrzyma wiadomość e-mail, gdy faktura będzie gotowa do wyświetlenia.
 
-Administrator globalny lub administrator rozliczeń dla Twojej firmy otrzyma wiadomość e-mail, gdy faktura będzie gotowa do wyświetlenia.
-
-Aby uzyskać dostęp do pliku faktury i uzgodnienia:
+Aby uzyskać dostęp do pliku faktury i uzgodnień:
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/) Centrum partnerskiego.
 
-2. W menu Centrum partnerskiego wybierz pozycję **rozliczenia**.
+2. Z menu Partner Center wybierz pozycję **Rozliczenia.**
 
-3. Wybierz kartę **cykliczną** i **jednorazową** oraz daną walutę.
+3. Wybierz kartę **Cykliczne** i **Jednorazowa** oraz walutę, która Cię interesuje.
 
-   :::image type="content" source="images/azure/billing3.png" alt-text="godzin":::
+   :::image type="content" source="images/azure/billing3.png" alt-text="billing":::
 
-4. Wybierz pozycję **Faktura** lub **plik uzgadniania**.  
+4. Wybierz **pozycję Plik** faktury lub **uzgodnień.**  
 
-   Aby wyświetlić historyczne faktury i pliki Rekonesans, rozwiń wiersz historia rozliczeń poniżej.
+   Aby wyświetlić faktury historyczne i ponownie rozbudować pliki, rozwiń wiersz Historia rozliczeń poniżej.
 
-## <a name="understanding-usage-data"></a>Informacje o użyciu 
+## <a name="understanding-usage-data"></a>Informacje o danych użycia 
 
-1. Azure plan to główny lub najwyższego poziomu kontenera do użycia. Całe użycie jest powiązane z powrotem z jednym planem platformy Azure.
+1. Plan platformy Azure jest kontenerem głównym lub najwyższego poziomu do użycia. Całe użycie jest powiązane z pojedynczym planem platformy Azure.
 
 2. W ramach planu będzie co najmniej jedna subskrypcja platformy Azure. Są to kontenery używane do zarządzania zasobami i ich wdrażania. 
 
-3. W ramach subskrypcji grupy zasobów dodają do zasobów grupy. Każdy zasób jest wdrażany w jednej grupie zasobów. 
+3. W ramach subskrypcji grupy zasobów są dodawania do zasobów grupy. Każdy zasób jest wdrażany w jednej grupie zasobów. 
 
 4. Przykłady zasobów obejmują maszyny wirtualne i konta magazynu. 
 
-5. Liczniki emisji zasobów: Liczniki są pomiary zużycia zasobu, a jeden zasób może emitować użycie dla wielu liczników. Liczniki są identyfikowane przez ProductId, identyfikatora skuId i AvailabilityId. 
+5. Mierniki emisji zasobów: mierniki to pomiary zużycia zasobu, a jeden zasób może emitować użycie dla wielu mierników. Mierniki są identyfikowane przez productId, SKUId i AvailabilityId. 
 
-### <a name="hierarchy-of-subscription-resource-groups-and-metering"></a>Hierarchia grup zasobów i pomiarów subskrypcji
+### <a name="hierarchy-of-subscription-resource-groups-and-metering"></a>Hierarchia grup zasobów subskrypcji i pomiary
 
-**Konto platformy Azure (dzierżawca)**
+**Konto platformy Azure (dzierżawa)**
 
 - Subskrypcja A
-    - Przesourceing 1
+    - ResourceGroup 1
         - Maszyna wirtualna (zasób)
-            - Licznik obliczeń
+            - Miernik obliczeniowy
         - Sieć wirtualna (zasób)
-            - Brak licznika rozliczeń
+            - Brak miernika rozliczeń
 
-    - Przesourceing 2
+    - ResourceGroup 2
         - Maszyna wirtualna (zasób)
-            - Licznik komputera
-        - Dysk zarządzany przez SSD w warstwie Premium (zasób)
-            - Licznik pojemności magazynu
-            - Licznik operacji magazynu
+            - Miernik komputera
+        - SSD w warstwie Premium dysku zarządzanego (zasób)
+            - Miernik pojemności magazynu
+            - Miernik operacji magazynu
 
-- Subskrypcja B — resourceing 1 — Azure SQL (Resource) — metry jednostek DTU-VPN Gateway (zasób) — licznik bramy sieci VPN
+- Subskrypcja B — ResourceGroup 1 — Azure SQL (zasób) — miernik jednostek DTU — VPN Gateway (zasób) — miernik bramy sieci VPN
 
-    - Przesourceing 2
-        - Interfejs Virtual Network (zasób)
-            - Brak licznika rozliczeń
+    - ResourceGroup 2
+        - Virtual Network interfejs (zasób)
+            - Brak miernika rozliczeń
 
-## <a name="read-the-invoice"></a>Przeczytaj fakturę
+## <a name="read-the-invoice"></a>Odczytywanie faktury
 
-1. Faktura będzie dostępna nie później niż w ciągu każdego miesiąca.
+1. Faktura będzie dostępna nie później niż ósmą część każdego miesiąca.
 
-2. Partnerzy mają 60 dni, aby przekazać płatność.
+2. Partnerzy mają 60 dni na odmówienie płatności.
 
 3. Okres rozliczeniowy będzie obejmować dany miesiąc kalendarzowy, na przykład 10/1-10/31.
 
-4. Opłaty są naliczane za liczbę netto korekt (kwota to netto za "Partner".
+4. Opłaty są naliczane bez korekt (kwota jest netto "środki uzyskane przez partnerów dla zarządzanych usług").
 
-5. Aby uzyskać dodatkowe informacje dotyczące rozliczeń, zapoznaj się z plikiem faktury Rekonesans i dzienną oceną plików użycia.
+5. Przejrzyj plik rekonesji faktury i plik dziennego użycia z ocenami, aby uzyskać dodatkowe szczegóły rozliczeń.
 
-   :::image type="content" source="images/azure/invoice1.png" alt-text="faktury":::
+   :::image type="content" source="images/azure/invoice1.png" alt-text="Faktury":::
 
-## <a name="read-the-invoice-reconciliation-file"></a>Przeczytaj plik uzgadniania faktur
+## <a name="read-the-invoice-reconciliation-file"></a>Odczytywanie pliku uzgodnień faktur
 
-1. Każda kombinacja planu i licznika platformy Azure może mieć do dwóch wierszy rozliczeń w pliku rekonesans.
+1. Każda kombinacja planu i miernika platformy Azure może zawierać maksymalnie dwa wiersze rozliczeń w pliku rekonesfigurowania.
 
-2. Jeśli licznik zakwalifikowany dla dowolnego typu rabatu lub kredytu (na przykład rabaty warstwowe lub środki uzyskane przez partnera dla usług zarządzanych) w całym miesiącu kalendarzowym, plik Rekonesans będzie zawierać tylko jedną linię rozliczenia. Kolumna **PriceAdjusmentDescription** będzie odwoływać się do rabatu lub środków uzyskanych z tytułu uznania.
+2. Jeśli miernik kwalifikował się do dowolnego typu rabatu lub środków (takich jak rabaty warstwowe lub środki uzyskane przez partnera dla usług zarządzanych) w całym miesiącu kalendarzowym, plik rekonesfiguracji będzie zawierać tylko jedną linię rozliczeniową. Kolumna **PriceAdjusmentDescription** będzie odwoływać się do rabatu lub środków zdobytych.
 
-3. Jeśli nie ma zasobów dla określonego licznika, które kwalifikują się do rabatu lub dla partnerów, plik Rekonesans będzie zawierać tylko jedną linię rozliczeniową, a obowiązująca cena jednostkowa to cena detaliczna (czyli cena jednostkowa).
+3. Jeśli nie ma żadnych zasobów dla określonego miernika, który kwalifikował się do rabatu lub środków uzyskane przez partnera, plik rekonescji będzie zawierać tylko jedną linię rozliczeniową, a efektywną ceną jednostkową będzie cena detaliczna (czyli cena jednostkowa).
 
-4. Jeśli licznik lub wszystkie zasoby emitujące Ten licznik są zakwalifikowane dla partnerów w ramach **usług zarządzanych** przez część miesiąca, plik Rekonesans będzie zawierać dwa wiersze rozliczania. Jeden wiersz będzie reprezentować dni kwalifikowane, a drugi wiersz będzie reprezentować dni, w których licznik nie kwalifikuje się.
+4. Jeśli miernik lub jakiekolwiek zasoby emitujące ten  licznik kwalifikowały się do środków uzyskane przez partnera dla usług zarządzanych przez część miesiąca, plik rekonescji będzie zawierać dwa wiersze rozliczeń. Jeden wiersz będzie reprezentować dni, w których miernik został zakwalifikowany, a drugi wiersz będzie reprezentować dni, w których miernik nie kwalifikował się.
 
-## <a name="read-the-daily-usage-file"></a>Przeczytaj plik dziennego użycia
+## <a name="read-the-daily-usage-file"></a>Odczytywanie pliku dziennego użycia
 
-- Liczniki subskrypcji w ramach planu platformy Azure są klasyfikowane i są skumulowane w ujęciu dziennym.
+- Mierniki subskrypcji w ramach planu platformy Azure są codziennie oceniane i skumulowane.
 
-- Środki na korzystanie z **usług zarządzanych przez partnerów** są określane i stosowane codziennie.
+- **Środków uzyskane przez partnerów na usługi zarządzane** są określane i stosowane codziennie.
 
-- Każdy miernik subskrypcji będzie miał wiersz na każdy dzień miesiąca, w którym wystąpiło zużycie.
+- Każdy licznik subskrypcji będzie miał wiersz dla każdego dnia miesiąca, w którym było zużycie.
 
 - W poniższym przykładzie:
 
-  - Zliczanie środków zakwalifikowanych dla **partnerów uzyskano środki dla usług zarządzanych** przez 7/1-7/3 (Zwróć uwagę na to, że obowiązująca cena jednostkowa to cena detaliczna pomniejszona o środki
+  - Miernik zakwalifikowany do środków **uzyskane** przez partnerów dla usług zarządzanych w okresie od 7/1 do 7/3 (należy pamiętać, że efektywna cena jednostkowa to cena detaliczna mniejsza niż kredyt uzyskane przez partnera.
 
-  - Licznik nie kwalifikuje się do uzyskania środków w wysokości dla **partnerów zarządzanych** przez 7/4-7/7 (Zwróć uwagę na to, że obowiązująca cena jednostkowa to cena detaliczna).
+  - Miernik nie kwalifikował  się do środków uzyskane przez partnerów na usługi zarządzane w okresie od 7/4 do 7/7 (należy pamiętać, że efektywna cena jednostkowa to cena detaliczna).
 
-  - Zliczanie środków zakwalifikowanych dla **partnerów w przypadku usług zarządzanych** przez 7/8-7/31 (Zwróć uwagę na to, że obowiązująca cena jednostkowa to cena detaliczna pomniejszona o środki na partnerów
+  - Miernik zakwalifikowany do środków **uzyskane** przez partnerów dla usług zarządzanych w okresie od 7/8 do 7/31 (należy pamiętać, że efektywna cena jednostkowa to cena detaliczna mniejsza niż kredyt uzyskane przez partnera).
 
    :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2":::
 
 ## <a name="invoice-in-customer-currency"></a>Faktura w walucie klienta
 
-Opłaty za usługi platformy Azure za pomocą planu platformy Azure są naliczane w USD i rozliczone w walucie klienta przypisanej do kraju. Jeśli waluta rozliczeń jest niezerowa, na ostatniej stronie faktury zostanie wyświetlona stawka obcej wymiany (FX). Stawki FX są określane co miesiąc i stosowane do poniższej faktury. Aby zapoznać się z pełną listą walut krajów, zapoznaj się z tematem [dostępność nowych ofert handlowych i macierzami walutowymi klientów](https://go.microsoft.com/fwlink/?linkid=2112354).
+Opłaty za usługi platformy Azure w ramach planu platformy Azure będą naliczane w USD i rozliczane w walucie przypisanej do kraju klienta. Jeśli waluta rozliczeniowa nie jest w USD, używany kurs wymiany walut (FX) będzie wyświetlany na ostatniej stronie faktury. Stawki FX są określane co miesiąc i stosowane do poniższej faktury. Aby uzyskać pełną listę walut krajów, zapoznaj się z nową ofertą handlową dla dostępności [kraju i macierzą walut klientów.](https://go.microsoft.com/fwlink/?linkid=2112354)
 
-Firma Microsoft postępuje zgodnie z wymianą giełdową na potrzeby konwersji. Korzystamy z kursu wymiany, który jest równy kursowi wymiany przechwyconemu w ostatnim dniu ostatniego miesiąca roboczego w wymianie giełdowej w Londynie. Stawki FX będą odświeżane i dostępne w dniu przed pierwszym miesiącem, dla którego mają zastosowanie.
+Firma Microsoft obserwuje giełdę w Londynie w celu konwersji. Używamy kursu wymiany, który jest równy kursowi wymiany przechwyconej w ostatniej sekundzie ostatniego dnia biznesowego miesiąca na giełdzie w Londynie. Stawki FX zostaną odświeżone i udostępnione w dniu przed pierwszym miesiącem, dla którego mają zastosowanie.
 
 ## <a name="azure-reservations"></a>Rezerwacje platformy Azure
 
 
-W przypadku kupowania [rezerwacji platformy Azure](azure-reservations.md) za pomocą planu platformy Azure można wybrać jednorazowe lub comiesięczne rozliczanie.
+Jeśli kupujesz [rezerwacje platformy Azure](azure-reservations.md) za pośrednictwem planu platformy Azure, możesz wybrać rozliczenia godzinowe lub miesięczne.
 
 
 ## <a name="azure-spending"></a>Wydatki na platformie Azure
 
-Istniejące środowisko wydatków platformy Azure zostanie zaktualizowane, aby obsługiwało nowe rozliczenia planu platformy Azure w centrum partnerskim. Dzięki temu partnerzy mogą:
+Istniejące środowisko wydatków na platformę Azure jest aktualizowane w celu obsługi nowych rozliczeń planu platformy Azure w Partner Center. Dzięki temu partnerzy mogą:
 
-- Wyświetlanie i odbieranie alertów dotyczących zestawu budżetu na poziomie klienta oraz zarządzanie nimi 
+- Wyświetlanie i odbieranie alertów dotyczących budżetu ustawionego na poziomie klienta oraz zarządzanie nimi 
 
-- Wyświetl łączne szacowane wydatki w planie platformy Azure (podzielone według zasobów i poziomów licznika)
+- Wyświetlanie łącznych szacowanych wydatków w ramach planu platformy Azure (podzielone według poziomu zasobu i miernika)
 
-Ze względu na to, że model rozliczeń dla usług platformy Azure w ramach planu platformy Azure jest zużyciem po płatności, aby uniknąć wyższego rachunku niż przewidywane, partnerzy mogą stosować miesięczny budżet i śledzić procent użycia. Budżet można zastosować jednocześnie do jednego klienta lub wielu klientów. 
+Ponieważ model rozliczeń dla usług platformy Azure za pośrednictwem planu platformy Azure to użycie po płatności, aby uniknąć większego rachunku, niż oczekiwano, partnerzy mogą zastosować miesięczny budżet i śledzić procent użycia. Budżet można zastosować do jednego klienta lub wielu klientów jednocześnie. 
 
 :::image type="content" source="images/azure/azurespend.png" alt-text="Wydatki na platformie Azure":::
 
 ## <a name="next-steps"></a>Następne kroki
 
-- Zobacz, w jaki sposób jest naliczany kredyt uzyskany przez partnera (PEC). Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/) Centrum partnerskiego i Znajdź dostępną listę cenową.
+- Zobacz, jak są obliczane punkty uzyskane przez partnera. Zaloguj się do Partner Center [pulpitu nawigacyjnego i](https://partner.microsoft.com/dashboard/) znajdź dostępny cennik.
 
-- Dowiedz się więcej o [kupowaniu planu platformy Azure](purchase-azure-plan.md)
+- Dowiedz się więcej [o zakupie planu platformy Azure](purchase-azure-plan.md)
 
-- Zobacz cennik [dla nowego środowiska handlowego w programie CSP](azure-plan-price-list.md)
+- Zobacz cennik nowego doświadczenia handlowego w [programie CSP](azure-plan-price-list.md)

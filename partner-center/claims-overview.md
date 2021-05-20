@@ -1,76 +1,73 @@
 ---
-title: Zachęty do współistnienia i oświadczeń
+title: Zachęty — omówienie współpracy i roszczeń
 ms.topic: article
 ms.date: 03/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Dowiedz się, jak przesłać pomyślne żądanie współdziałania w celu zachęty, organizując odpowiednią dokumentację, faktury, instrukcje i dowód wykonania.
+description: Dowiedz się, jak przesłać pomyślne roszczenie dotyczące współpracy dla zachęt, organizując odpowiednią dokumentację, faktury, zestawienia i dowód wykonania.
 author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 99098b49ded4808edfd4ee895565d1563c52675a
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 5e5f8000032fa09d7752f8c6206325630b995b63
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022710"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148724"
 ---
-# <a name="earn-cooperative-marketing-funds"></a>Zdobywanie wspólnych środków marketingowych
+# <a name="earn-cooperative-marketing-funds"></a>Zyskaj wspólne środki marketingowe
 
-**Odpowiednie role**
+**Odpowiednie role:** Zachęty dla administratorów | Zachęty użytkownika
 
-- Administrator zachęt
-- Użytkownik zachęt
+Środki na marketing kooperacyjny (współoperacyjność) to środki, które zdobywasz za pośrednictwem programów zachęt firmy Microsoft, przejmując się za działania, które wspierają świadomość produktów firmy Microsoft. Przykłady programów zachęt to Dostawca rozwiązań w chmurze, zarządzany odsprzedawca, hosting i urządzenie Surface.
 
-Fundusze na współpracę w ramach współpracy marketingowej to środki, które można zdobyć za pomocą programów zachęt firmy Microsoft przez zajmowanie zwrotów za działania, które obsługują świadomość produktów firmy Microsoft. Przykładami programów zachęty są dostawcy rozwiązań w chmurze, zarządzani odsprzedawcy, hosting i powierzchnia.
+Środki na współoperacyjność umożliwiają prowadzenie działań marketingowych, które zwiększają świadomość marki i zwiększają rozwój potoku sprzedaży. Możesz zainwestować środki na współpracę w działania ułatwiające gotowość, opracowywanie specjalizacji lub uzyskanie certyfikatów firmy Microsoft — działania, które sprzyjają skoncentrowanym rozwiązaniom i centrum doskonałości.
 
-Fundusze współdziałające umożliwiają prowadzenie działań marketingowych, które spowodują zwiększenie świadomości marki i wzrost wzrostu potoku sprzedaży. W działaniach można inwestować środki w celu ułatwienia gotowości, opracowywania specjalizacji lub uzyskania certyfikatów firmy Microsoft — działań, które wspierają ukierunkowane rozwiązania i centra doskonałości.
-
-Więcej informacji można znaleźć na stronie [zasobów dotyczących współpracowników](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) .
+Więcej informacji można znaleźć na stronie [Co-op Funds Resources (Zasoby dotyczące środków współpracy).](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/)
 
 >[!Important]
->Oświadczenia współdziałające nie mają zastosowania do poradnika usług online (OSA, Online Services Usage, OSU) — Microsoft 365 i OSU-Business programów do zachęty aplikacji. Aby przesłać żądanie dotyczące jednego z tych programów, zobacz [Tworzenie associearation klienta przy użyciu modelu CPOR](submit-osa-claim.md).
+>Oświadczenia dotyczące współpracy nie mają zastosowania do programów doradczych w zakresie usług online (OSA) Sell, Online Services Usage (OSU) Microsoft 365 i OSU-Business Application Incentive. Aby przesłać roszczenie dotyczące jednego z tych programów, zobacz [Create associearation for associearation using the CPOR model](submit-osa-claim.md)(Tworzenie rejestracji jednokrotnej klienta przy użyciu modelu CPOR).
 
-## <a name="how-co-op-funds-are-calculated"></a>Jak są obliczane środki współdziałania
+## <a name="how-co-op-funds-are-calculated"></a>Jak są obliczane środki na współoperacyjną
 
-Firma Microsoft oblicza kwalifikujące się dochody z oferty, korzystając z wartości procentowej podziału (na przykład 60% rabatu — 40%.). Zostanie wyświetlona część rabatu przy użyciu istniejącej erze z wynagrodzeniami dla danego programu, podczas gdy firma Microsoft będzie naliczać część zysku zachęty.
+Firma Microsoft oblicza kwalifikujące się zarobki w programie zachęty na podstawie podzielonej wartości procentowej (na przykład 60% procent kosztów — 40% współpracy). Część zyskasz, korzystając z istniejącego okresu płatności za poszczególne programy, podczas gdy firma Microsoft będzie naliczać część opłat za zachęty w ramach współpracy.
 
-Więcej informacji na temat erze z opcją wypłaty i podzielenie procentu można znaleźć w przewodniku programu zachęty. Użyj [tej procedury](incentives-determined-your-program-eligibility.md) , aby uzyskać dostęp do przewodnika programu.
+Więcej informacji na temat czasu płatności i podzielonej wartości procentowej można znaleźć w przewodniku po programie zachęt. Użyj [tej procedury,](incentives-determined-your-program-eligibility.md) aby uzyskać dostęp do przewodnika po programie.
 
 >[!NOTE]
->Jeśli zarobki współpracujące są poniżej wartości progowej w okresie zarobkowym, zyski współpracujące zostaną przekonwertowane na rabat na końcu semestra. Aby uzyskać więcej informacji lub określić kwotę progową, zobacz Przewodnik po programie zachęty.
+>Jeśli zarobki w ramach współpracy są poniżej progu w okresie zarobków w ramach współpracy, zarobki w ramach współpracy zostaną przekonwertowane na zarobki na koniec roku. Aby uzyskać więcej informacji lub określić wartość progową, zobacz przewodnik po programie zachęt.
 
-## <a name="when-to-claim-your-funds"></a>Kiedy należy zgłosić środki
+## <a name="when-to-claim-your-funds"></a>Kiedy należy roszczeń do środków
 
-Oś czasu dla środków współpracujących jest podzielona na 2 6 miesięcy, H1 i H2. ("H" oznacza okres obrachunkowy półrocza).
+Oś czasu środków na współoperacyjną jest podzielona na dwa okresy sześciu miesięcy: H1 i H2. ("H" oznacza pół roku obrachunkowego).
 
-- H1 to pierwsza połowa roku obrachunkowego, 1 lipca, 31 grudnia.
-- H2 to druga połowa roku obrachunkowego, od 1 stycznia do 30 czerwca.
+- H1 to pierwsza połowa roku obrachunkowego, 1 lipca — 31 grudnia.
+- H2 to druga połowa roku obrachunkowego, 1 stycznia — 30 czerwca.
 
-Miesięczny okres, w którym naliczane są zyski, staną się **okresem zdobywania**. Tych zarobków należy używać w pewnym momencie w trakcie następnego sześciomiesięcznego **okresu użytkowania**. Jeśli nie korzystasz z zarobków na koniec okresu użytkowania, utracisz je. **Okres** zgłaszania to sześciomiesięczny okres, w którym można zatwierdzić zwroty dla działań programu zachęty.
+Okres sześciu miesięcy, w którym są naliczane zarobki, staje się **okresem zarobków.** Te zarobki należy wykorzystać w pewnym momencie w ciągu kolejnych sześciu miesięcy **okresu użycia.** Jeśli nie użyjesz zarobków do końca okresu użycia, z nich nie będziesz korzystać. Okres **roszczeń to** okres sześciu miesięcy, w którym można uzyskać roszczenie dotyczące działań programu zachęt.
 
-W poniższej tabeli przedstawiono różne okresy użytkowania, użycia i okresu roszczeń. O ile nie zaznaczono inaczej, okresy są rozbudowywane od pierwszego dnia pierwszego miesiąca do ostatniego dnia ostatniego miesiąca.
+W poniższej tabeli przedstawiono różne okresy zarobków, użycia i roszczeń. O ile nie określono inaczej, okresy są dłuższe od pierwszego dnia pierwszego miesiąca do ostatniego dnia ostatniego miesiąca.
 
-|  Jeśli okres zdobywania/naliczania jest  |Półroczny okres obrachunkowy to  |  Okres użytkowania to  |  Okresem roszczeń jest  |
+|  Jeśli okres zarobków/naliczania to  |Okres pół roku obrachunkowego to  |  Okres użycia to  |  Okres roszczenia to  |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-|**Lipiec — gru 2020**| FY21 H1  |  Sty — czerwiec 2021  |  16 lutego sie 15 2021  |
-|**Sty — czerwiec 2021** |  FY21 H2  |  Lipiec — gru 2021  |  Sie 16 2021 — 15 2022 lutego  |
-|**Lipiec — gru 2021**|  FY22 H1  |  Sty — czerwiec 2022  |  16 lutego sie 15 2022  |
-|**Sty — czerwiec 2022** |  FY22 H2  |  Lipiec — gru 2022  |  Sie 16 2022 — 15 2023 lutego  |
+|**Lipiec– grudzień 2020 r.**| FY21 H1  |  Sty — czerwiec 2021 r.  |  16 lutego — 15 sierpnia 2021 r.  |
+|**Sty — czerwiec 2021 r.** |  FY21 H2  |  Lipiec – grudzień 2021 r.  |  16 sierpnia 2021 r. — 15 lutego 2022 r.  |
+|**Lipiec – grudzień 2021 r.**|  FY22 H1  |  Sty — czerwiec 2022 r.  |  16 lutego — 15 sierpnia 2022 r.  |
+|**Sty — czerwiec 2022 r.** |  FY22 H2  |  Lipiec – grudzień 2022 r.  |  16 sierpnia 2022 r. — 15 lutego 2023 r.  |
 
 >[!NOTE]
->Firma Microsoft zastrzega sobie prawo do żądania oryginalnych dokumentów potwierdzających wykonanie (PoE). Wszystkie oryginalne dokumenty powinny być przechowywane przez 24 miesiące po dacie działania.
+>Firma Microsoft zastrzega sobie prawo do żądania oryginalnych dokumentów weryfikacji wykonania(PoE). Wszystkie oryginalne dokumenty należy przechowywać przez 24 miesiące po dacie działania.
 
-Poniższe zasoby pomogą Ci rozpocząć pracę z oświadczeniami operacji współdziałania.
+Poniższe zasoby pomogą Ci rozpocząć pracę z oświadczeniami współpracy.
 
 | Wymagana czynność | Przeczytaj to |
 | ------ | ----------- |
-| Prześlij żądanie |  [Tworzenie i zarządzanie tym zgłoszeniem programu zachęty](create-incentives-claims.md)  |
-| Zarządzanie przesłanym wnioskiem | [Tworzenie i zarządzanie tym zgłoszeniem programu zachęty](create-incentives-claims.md)    |
-| Zapoznaj się z podstawowymi wymaganiami dotyczącymi żądania działania | [Podstawowe wymagania dotyczące działań w programie zachęty](core-requirements.md)   |
-| Przejrzyj szczegóły programu zachęty | [Guidebook — zachęty dla partnerów](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
-| Tworzenie skojarzenia klienta i przesyłanie roszczeń | [Tworzenie skojarzenia klienta przy użyciu modelu CPOR](submit-osa-claim.md)   |
+| Przesyłanie oświadczenia |  [Tworzenie roszczeń do współpracy programu zachęt i zarządzanie nimi](create-incentives-claims.md)  |
+| Zarządzanie przesłanym oświadczeniem | [Tworzenie roszczeń do współpracy programu zachęt i zarządzanie nimi](create-incentives-claims.md)    |
+| Opis podstawowych wymagań dotyczących oświadczenia działania | [Podstawowe wymagania dotyczące działań w programie zachęt](core-requirements.md)   |
+| Przeglądanie szczegółów programu zachęt | [Partner Incentives Co-op Guidebook](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
+| Tworzenie skojarzenia klienta i przesyłanie roszczenia | [Tworzenie skojarzenia klienta przy użyciu modelu CPOR](submit-osa-claim.md)   |
 
 ## <a name="next-steps"></a>Następne kroki
 

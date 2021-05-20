@@ -1,6 +1,6 @@
 ---
-title: Jak potwierdzić, że klient zaakceptował umowę klienta firmy Microsoft do programu CSP
-description: Partnerzy dostawcy rozwiązań w chmurze (CSP) muszą potwierdzić akceptację przez klienta umowy klienta firmy Microsoft przed zamawianiem usług firmy Microsoft dla klientów.
+title: Jak potwierdzić, że klient zaakceptował Umowa z Klientem Microsoft programu CSP
+description: Dostawca rozwiązań w chmurze (CSP) partnerzy muszą potwierdzić akceptację przez klienta Umowa z Klientem Microsoft przed zamówieniem usługi firmy Microsoft dla klientów.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,82 +9,79 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 03/24/2021
-ms.openlocfilehash: ebb52a3a8223d3b1101e3a8e78728fcc167e25e3
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: c75f129ae5a0755833462138f60901cc7ff36732
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633782"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148520"
 ---
-# <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Jak potwierdzić, że klient zaakceptował umowę klienta firmy Microsoft do programu CSP
+# <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Jak potwierdzić, że klient zaakceptował Umowa z Klientem Microsoft programu CSP
 
-**Odpowiednie role**
-
-- Agent administracyjny
-- Agent sprzedaży
+**Odpowiednie role:** Agent administracyjny | Agent sprzedaży
 
 
-Klienci mogą korzystać z dwóch opcji zaakceptowania umowy klienta firmy Microsoft.
+Klienci mają dwie opcje dotyczące sposobu akceptowania Umowa z Klientem Microsoft.
 
-**Opcja 1**: zaświadczanie partnera dotyczącego akceptacji przez klienta może potwierdzić akceptację klienta przy użyciu interfejsu API/zestawu SDK Centrum partnerskiego lub pulpitu nawigacyjnego Centrum partnerskiego.
+**Opcja 1:** Potwierdzenie akceptacji klienta przez partnera — partner może potwierdzić akceptację klienta przy użyciu interfejsu API lub zestawu SDK Partner Center lub za pośrednictwem pulpitu Partner Center nawigacyjnego.
 
-**Opcja 2**: klient bezpośredni akceptacji — partner może zaprosić klienta za pośrednictwem adresu URL w celu przejrzenia i zaakceptowania umowy w centrum administracyjnym Microsoft 365.
+**Opcja 2:** Akceptacja bezpośrednia klienta — partner może zaprosić klienta za pośrednictwem adresu URL w celu przejrzenia i zaakceptowania umowy w Microsoft 365 Administracyjnego.
 
-## <a name="access-microsoft-customer-agreement-template"></a>Dostęp do szablonu umowy klienta firmy Microsoft
+## <a name="access-microsoft-customer-agreement-template"></a>Szablon Umowa z Klientem Microsoft dostępu
 
-Możesz ręcznie pobrać najnowszą wersję szablonu umowy klienta firmy Microsoft z tego [miejsca](https://aka.ms/customeragreement). Umowa dla klientów firmy Microsoft jest specyficzna dla kraju. Podczas żądania szablonu umowy klienta firmy Microsoft upewnij się, że wybrano właściwy kraj na podstawie lokalizacji klienta.
+Najnowszą wersję szablonu aplikacji można pobrać ręcznie Umowa z Klientem Microsoft [tutaj.](https://aka.ms/customeragreement) Ta Umowa z Klientem Microsoft jest specyficzna dla kraju. Podczas żądania Umowa z Klientem Microsoft szablonu należy wybrać właściwy kraj na podstawie lokalizacji klienta.
 
-## <a name="option-1-confirm-customer-acceptance-in-partner-center"></a>Opcja 1: potwierdzenie akceptacji przez klienta w centrum partnerskim
+## <a name="option-1-confirm-customer-acceptance-in-partner-center"></a>Opcja 1. Potwierdzanie akceptacji przez klientów w Partner Center
 
-Bezpośredni partnerzy Bill mogą potwierdzić akceptację klienta umowy klienta firmy Microsoft w centrum partnerskim dla nowych i istniejących klientów. Pośredni odsprzedawcy nie mogą zaświadczać swoich klientów i muszą współpracować z dostawcami pośrednimi w celu uzyskania zaświadczania.
+Partnerzy rozliczani bezpośrednio mogą potwierdzić akceptację klientów Umowa z Klientem Microsoft w Partner Center dla nowych i istniejących klientów. Odsprzedawcy pośredni nie mogą poświadczać w imieniu swoich klientów i muszą współpracować ze swoim dostawcą pośrednim, aby uzyskać ukończone zaświadczenia.
 
-### <a name="confirm-customer-acceptance-for-new-customers"></a>Potwierdź akceptację klienta dla nowych klientów
+### <a name="confirm-customer-acceptance-for-new-customers"></a>Potwierdzanie akceptacji przez klientów dla nowych klientów
 
-Podczas tworzenia nowej dzierżawy klienta w centrum partnerskim wykonaj następujące kroki, aby potwierdzić akceptację umowy klienta firmy Microsoft przez klienta. Aby wykonać te kroki, musisz być agentem administracyjnym lub agentem sprzedaży.
+Podczas tworzenia nowej dzierżawy klienta w Partner Center, należy wykonać następujące kroki, aby potwierdzić akceptację Umowa z Klientem Microsoft. Aby wykonać te kroki, musisz być agentem administracyjnym lub agentem sprzedaży.
 
-1. Wybierz pozycję **klienci**, a następnie **Nowy klient**.
+1. Wybierz **pozycję Klienci,** a następnie **pozycję Nowy klient.**
 
-2. W obszarze **Informacje o koncie** wprowadź informacje dotyczące firmy i jej głównej osoby kontaktowej.
+2. W **obszarze Informacje o** koncie wprowadź informacje dotyczące firmy i jej głównej osoby kontaktowej.
 
-3. W obszarze **Umowa Microsoft** wybierz pole, aby zatwierdzić, że klient zaakceptował umowę klienta firmy Microsoft.
+3. W **ramach umowy firmy Microsoft** zaznacz pole wyboru, aby zaświadczyć, że klient zaakceptował Umowa z Klientem Microsoft.
 
-4. W obszarze **Data akceptacji umowy** wprowadź odpowiednią datę. Nie można ustawić tej wartości na datę przyszłą.
+4. W **obszarze Data akceptacji umowy** wprowadź odpowiednią datę. Nie można ustawić tej daty na przyszłą datę.
 
-5. Upewnij się, że wyświetlane informacje kontaktowe użytkownika podstawowego są poprawne. Jeśli jest to nieprawidłowe, wybierz pozycję **Aktualizuj** i wprowadź dokładne informacje dla osoby, która zaakceptował umowę.
+5. Upewnij się, że wyświetlane informacje kontaktowe użytkownika podstawowego są poprawne. Jeśli jest niepoprawna, wybierz pozycję **Aktualizuj** i wprowadź dokładne informacje dotyczące osoby, która zaakceptowała umowę.
 
-6. Wybierz pozycję **dalej** , aby kontynuować tworzenie dzierżawy klienta.
+6. Wybierz **przycisk Dalej,** aby kontynuować tworzenie dzierżawy klienta.
 
    :::image type="content" source="images/mca/newcustomeragreement.jpg" alt-text="Nowy klient":::  
 
-### <a name="confirm-customer-acceptance-for-existing-customers"></a>Potwierdzenie akceptacji przez klienta dla istniejących klientów
+### <a name="confirm-customer-acceptance-for-existing-customers"></a>Potwierdzanie akceptacji przez klientów dla istniejących klientów
 
-Aby to zrobić, musisz być agentem administracyjnym lub agentem sprzedaży:
+Aby to zrobić, musisz być agentem administratora lub agentem sprzedaży:
 
 1. Wybierz pozycję **Klienci**. Znajdź i wybierz klienta.
 
-2. Wybierz pozycję **Informacje o koncie**.
+2. Wybierz **pozycję Informacje o koncie.**
 
-3. W obszarze **Umowa klienta firmy Microsoft** wybierz pozycję **Aktualizuj**.
+3. W **Umowa z Klientem Microsoft** wybierz pozycję **Zaktualizuj**.
 
-4. Wprowadź **imię** i **nazwisko, nazwisko,** **adres e-mail** i **numer telefonu** (opcjonalnie) osoby, która zaakceptował umowę. W obszarze **Data akceptacji umowy** wprowadź odpowiednią datę. Nie można ustawić tej wartości na datę przyszłą.
+4. Wprowadź **imię,** **nazwisko,** adres **e-mail** i numer telefonu  (opcjonalnie) osoby, która zaakceptowała umowę. W **obszarze Data akceptacji umowy** wprowadź odpowiednią datę. Nie można ustawić tej daty na przyszłą datę.
 
-5. Wybierz pozycję **Zapisz** i Kontynuuj.
+5. Wybierz **pozycję Zapisz** i kontynuuj.
 
    :::image type="content" source="images/mcua2-update2.png" alt-text="Istniejący klient":::
 
-### <a name="retrieve-confirmation-of-customer-acceptance"></a>Pobierz potwierdzenie akceptacji klienta
+### <a name="retrieve-confirmation-of-customer-acceptance"></a>Pobieranie potwierdzenia akceptacji przez klienta
 
-Aby uzyskać potwierdzenie, że istniejący klient zaakceptował umowę klienta firmy Microsoft, wykonaj następujące czynności. Aby to zrobić, musisz być agentem administracyjnym lub agentem sprzedaży.
+Aby pobrać potwierdzenie, że istniejący klient zaakceptował Umowa z Klientem Microsoft, należy wykonać następujące kroki. Aby to zrobić, musisz być agentem administratora lub agentem sprzedaży.
 
-1. Wybierz pozycję **klienci**, a następnie Znajdź i wybierz klienta, który ma zostać wyświetlony.
+1. Wybierz **pozycję Klienci,** a następnie znajdź i wybierz klienta, którego chcesz wyświetlić.
 
-2. Wybierz pozycję **Informacje o koncie**.
+2. Wybierz **pozycję Informacje o koncie.**
 
-3. W obszarze **Umowa klienta firmy Microsoft** Sprawdź, czy jest to potwierdzenie czy nie zostało dostarczone przez tego klienta.
+3. W **ramach umowy klienta firmy Microsoft** sprawdź, czy potwierdzenie nie zostało dostarczone przez tego klienta.
 
-## <a name="confirm-customer-acceptance-using-partner-center-apisdk"></a>Potwierdzenie akceptacji klienta przy użyciu interfejsu API/zestawu SDK Centrum partnerskiego
+## <a name="confirm-customer-acceptance-using-partner-center-apisdk"></a>Potwierdzanie akceptacji przez klientów przy użyciu Partner Center API/SDK
 
-Za pomocą interfejsu API/zestawu SDK Centrum partnerskiego można potwierdzić akceptację umowy klienta firmy Microsoft przez klienta. Aby uzyskać szczegółowe informacje na temat interfejsu API/SDK, zobacz:
+Możesz użyć Partner Center API/zestawu SDK, aby potwierdzić akceptację przez klienta Umowa z Klientem Microsoft. Aby uzyskać szczegółowe informacje na temat interfejsu API/zestawu SDK, zobacz:
 
 - [Pobieranie metadanych umowy dla umowy klienta firmy Microsoft](/partner-center/develop/get-customer-agreement-metadata)
 
@@ -92,119 +89,119 @@ Za pomocą interfejsu API/zestawu SDK Centrum partnerskiego można potwierdzić 
 
 - [Pobieranie potwierdzenia akceptacji przez klienta umowy klienta firmy Microsoft](/partner-center/develop/get-confirmation-of-customer-agreement)
 
-- [Pobierz link do pobierania dla szablonu umowy klienta firmy Microsoft](/partner-center/develop/download-customer-agreement-template)
+- [Uzyskiwanie linku pobierania dla szablonu Umowa z Klientem Microsoft szablonu](/partner-center/develop/download-customer-agreement-template)
 
-## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>Opcja 2: akceptacja klienta w centrum administracyjnym Microsoft 365
+## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>Opcja 2. Akceptacja klienta w Microsoft 365 administracyjnym
 
-Partnerzy mogą zapraszać nowych i istniejących klientów za pośrednictwem adresu URL, aby przejrzeć i zaakceptować umowę w centrum administracyjnym Microsoft 365. W następnych sekcjach pokazano, jak:
+Partnerzy mogą zapraszać nowych i istniejących klientów za pośrednictwem adresu URL do przejrzenia i zaakceptowania umowy w Microsoft 365 Administracyjnego. W kilku następnych sekcjach podano, jak:
 
-- Utwórz nowego klienta i zaproś klienta o sprawdzenie i zaakceptowanie umowy.
+- Utwórz nowego klienta i zaproś go do przejrzenia i zaakceptowania umowy.
 
-- Zaproś nowego klienta o sprawdzenie i zaakceptowanie relacji odsprzedawcy oraz umowy.
+- Zaproś nowego klienta do przejrzenia i zaakceptowania relacji odsprzedawcy i umowy.
 
-- Zaproś istniejącego klienta o sprawdzenie i zaakceptowanie umowy.
+- Zaproś istniejącego klienta do przejrzenia i zaakceptowania umowy.
 
 >[!NOTE]
-> Możesz użyć [interfejsu API/SDK Centrum partnerskiego](/partner-center/develop/get-direct-sign-status-of-customer-agreement) , aby uzyskać stan bezpośredniej akceptacji umowy klienta firmy Microsoft przez klienta.  
+> Możesz użyć [Partner Center API/zestawu SDK,](/partner-center/develop/get-direct-sign-status-of-customer-agreement) aby uzyskać stan bezpośredniej akceptacji klienta dla Umowa z Klientem Microsoft.  
 
-## <a name="create-a-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>Utwórz nowego klienta i zaproś klienta o sprawdzenie i zaakceptowanie umowy
+## <a name="create-a-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>Tworzenie nowego klienta i zapraszanie go do przejrzenia i zaakceptowania umowy
 
-Wykonaj następujące kroki, aby utworzyć nowego klienta w centrum partnerskim, a następnie Zaproś go o sprawdzenie i zaakceptowanie umowy klienta firmy Microsoft w centrum administracyjnym Microsoft 365.
+Użyj poniższych kroków, aby utworzyć nowego klienta w Partner Center następnie zaprosić go do przejrzenia i zaakceptowania Umowa z Klientem Microsoft w Microsoft 365 administracyjnym.
 
-1. Na karcie **klienci** w centrum partnerskim wybierz pozycję **Dodaj klienta**.
+1. Na karcie **Customers (Klienci)** w Partner Center wybierz **pozycję Add customer (Dodaj klienta).**
 
-2. W obszarze **Informacje o koncie** wprowadź informacje o nowym kliencie we wszystkich wymaganych polach, w tym nazwę firmy klienta i kontakt podstawowy.
+2. W **obszarze Informacje o** koncie wprowadź informacje o nowym kliencie we wszystkich wymaganych polach, w tym nazwę firmy klienta i podstawowy kontakt.
 
-3. W obszarze **Umowa klienta** wybierz pozycję **klient z prośbą o zaakceptowanie umowy klienta firmy Microsoft w centrum administracyjnym Microsoft 365**. Wypełnij wszystkie inne wymagane pola na stronie.
+3. W **obszarze Umowa z** Klientem wybierz pozycję Klient zostanie poproszony o **zaakceptowanie Umowa z Klientem Microsoft w Microsoft 365 administracyjnym.** Wypełnij wszystkie inne wymagane pola na stronie.
 
-4. Wybierz pozycję **Dalej: Przejrzyj** następnie kontynuuj kroki, aby utworzyć dzierżawę klienta. 
+4. Wybierz **pozycję Dalej: Przejrzyj,** a następnie kontynuuj kroki tworzenia dzierżawy klienta. 
 
 >[!NOTE] 
->Nowi klienci nie mogą dokonać zakupu, dopóki nie zaakceptują umowy klienta firmy Microsoft.  
+>Nowi klienci nie mogą dokonać zakupu, dopóki nie zaakceptują Umowa z Klientem Microsoft.  
 
-   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Utwórz nowego klienta":::
+   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Tworzenie nowego klienta":::
 
-5. Po dojściu do ekranu **potwierdzenia** w nowym przepływie pracy klienta Zapisz poświadczenia klienta. Musisz podać te poświadczenia klientom później.
+5. Po osiągnięciu ekranu **Potwierdzenie** w przepływie pracy nowego klienta zapisz poświadczenia klienta. Te poświadczenia trzeba będzie przekazać później klientowi.
 
-6. Na zewnątrz Centrum partnerskiego Utwórz i Wyślij wiadomość e-mail z zaproszeniem klienta, aby zatwierdzić umowę klienta firmy Microsoft w centrum administracyjnym Microsoft 365. Upewnij się, że te elementy zostały uwzględnione w wiadomości e-mail:
+6. Poza Partner Center utwórz i wyślij wiadomość e-mail z zaproszeniem klienta do zaakceptowania Umowa z Klientem Microsoft w Microsoft 365 Administracyjnego. Pamiętaj, aby uwzględnić następujące elementy w wiadomości e-mail:
 
-   - Link do tego [adresu URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement) (wymagane logowanie)
+   - Link do tego adresu [URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement) (wymagane jest zalogowanie)
 
    - Poświadczenia klienta zapisane w kroku 5.
 
-7. Klient otrzyma wiadomość e-mail z zaproszeniem od partnera i wybierze [adres URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement).
+7. Klient otrzyma wiadomość e-mail z zaproszeniem od partnera i wybierze adres [URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement).
 
-8. Klient loguje się do centrum administracyjnego Microsoft 365 przy użyciu podanych poświadczeń klienta.
+8. Klient logowania się Microsoft 365 administracyjnym przy użyciu podanych poświadczeń klienta.
 
-9. Klient sprawdza pole, aby zaakceptować umowę klienta firmy Microsoft.
+9. Klient sprawdza to pole, aby zaakceptować umowę klienta firmy Microsoft.
 
-## <a name="invite-a-new-customer-to-review-and-accept-the-reseller-relationship-and-microsoft-customer-agreement"></a>Zaproś nowego klienta o sprawdzenie i zaakceptowanie relacji odsprzedawcy oraz umowy klienta firmy Microsoft 
+## <a name="invite-a-new-customer-to-review-and-accept-the-reseller-relationship-and-microsoft-customer-agreement"></a>Zaproś nowego klienta do przejrzenia i zaakceptowania relacji odsprzedawcy i Umowa z Klientem Microsoft 
 
-Wykonaj następujące kroki, aby zaprosić nowego klienta do przejrzenia i zaakceptowania relacji odsprzedawcy oraz umowy klienta firmy Microsoft. 
+Użyj poniższych kroków, aby zaprosić nowego klienta do przejrzenia i zaakceptowania relacji odsprzedawcy i Umowa z Klientem Microsoft. 
 
-1. Na karcie **klienci** w centrum partnerskim wybierz pozycję **Żądaj linku relacji odsprzedawcy** . 
+1. Na karcie **Customers (Klienci)** w Partner Center wybierz link **Request a reseller relationship (Zażądaj relacji odsprzedawcy).** 
 
-2. Zostanie wygenerowany automatyczny szablon wiadomości e-mail, w tym tekst i sparametryzowany adres URL kierujący klienta do centrum administracyjnego Microsoft 365.
+2. Zostanie wygenerowany automatyczny szablon wiadomości e-mail, w tym tekst i sparametryzowane adresy URL, które kierują klienta do centrum Microsoft 365 administracyjnego.
 
-3. Można dostosować automatycznie wygenerowany szablon wiadomości e-mail, a następnie wybrać opcję **Kopiuj do schowka** lub **otworzyć w wiadomości e-mail**.
+3. Możesz dostosować automatycznie wygenerowany szablon wiadomości e-mail, a następnie wybrać pozycję **Kopiuj do schowka** lub **Otwórz w wiadomości e-mail.**
 
-4. Ten szablon wiadomości e-mail zaprasza klienta, aby akceptował żądanie dotyczące **relacji odsprzedawcy** oraz **umowę klienta firmy Microsoft**. (Uwaga: w wiadomości e-mail z zaproszeniem upewnij się, że partner zawiera również adres URL, który został podany automatycznie, oraz poświadczenia klienta, które zostały ostatnio utworzone).
+4. Użyj tego szablonu wiadomości e-mail, aby zaprosić klienta do **zaakceptowania** żądania relacji odsprzedawcy **i Umowa z Klientem Microsoft**. (Uwaga: w wiadomości e-mail z zaproszeniem upewnij się, że partner zawiera również adres URL, który został automatycznie podany, a także poświadczenia klienta, które zostały ostatnio utworzone).
 
-   :::image type="content" source="images/mca/createrelationship.png" alt-text="Utwórz relację":::
+   :::image type="content" source="images/mca/createrelationship.png" alt-text="tworzenie relacji":::
 
-5. Klient otrzymuje zaproszenie za pośrednictwem poczty e-mail i klika sparametryzowany adres URL. 
+5. Klient otrzymuje zaproszenie za pośrednictwem poczty e-mail i klika sparametryzowane adresy URL. 
 
-6. Klient korzysta z poświadczeń podanych w wiadomości e-mail w celu zalogowania się do centrum administracyjnego Microsoft 365.
+6. Klient używa poświadczeń podanych w wiadomości e-mail, aby zalogować się Microsoft 365 Centrum administracyjnego.
 
-7. Klient sprawdza pole, aby zaakceptować **relację odsprzedawcy** oraz **umowę klienta firmy Microsoft**. 
+7. Klient sprawdza pole wyboru, aby zaakceptować relację **odsprzedawcy** **i Umowa z Klientem Microsoft**. 
 
-8. W ramach tego samego adresu URL klient może zobaczyć skonsolidowaną listę różnych partnerów, z którymi pracują. Mogą wybrać partnera, aby wyświetlić szczegóły.
+8. W ramach tego samego adresu URL klient może wyświetlić skonsolidowaną listę różnych partnerów, z których pracuje. Może wybrać partnera, aby wyświetlić szczegóły.
 
    :::image type="content" source="images/mca/accept.jpg" alt-text="Zaakceptowanie umowy":::
 
 
-## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>Zaproś istniejącego klienta o sprawdzenie i zaakceptowanie umowy
+## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>Zapraszanie istniejącego klienta do przejrzenia i zaakceptowania umowy
 
-Wykonaj następujące kroki, aby zaprosić istniejącego klienta do przejrzenia i zaakceptowania umowy klienta firmy Microsoft. 
+Skorzystaj z poniższych kroków, aby zaprosić istniejącego klienta do przejrzenia i zaakceptowania Umowa z Klientem Microsoft. 
 
-1. Utwórz adres e-mail klienta z osadzonym adresem URL, który zaprasza klienta, aby zaakceptował umowę klienta firmy Microsoft.
+1. Utwórz wiadomość e-mail klienta z osadzonym adresem URL z zaproszeniem klienta do zaakceptowania Umowa z Klientem Microsoft.
 
 2. Klient otrzymuje zaproszenie za pośrednictwem poczty e-mail i klika [adres URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement). 
 
-3. Klient wprowadza swoje poświadczenia do centrum administracyjnego Microsoft 365.
+3. Klient wprowadza swoje poświadczenia w Microsoft 365 Administracyjnego.
 
-4. Klient sprawdza pole, aby zaakceptować umowę klienta firmy Microsoft. 
+4. Klient sprawdza to pole, aby zaakceptować Umowa z Klientem Microsoft. 
 
-5. W ramach tego samego adresu URL klient może zobaczyć skonsolidowaną listę różnych partnerów, z którymi pracują. Mogą wybrać partnera, aby wyświetlić szczegóły.
+5. Pod tym samym adresem URL klient może zobaczyć skonsolidowaną listę różnych partnerów, z których pracuje. Może wybrać partnera, aby wyświetlić szczegóły.
 
-   :::image type="content" source="images/mca/customeraccept.png" alt-text="Dział":::
+   :::image type="content" source="images/mca/customeraccept.png" alt-text="Klienta":::
 
 >[!NOTE]
->W niektórych scenariuszach klienci mogą nie być w stanie bezpośrednio zaakceptować umowy klienta firmy Microsoft. Aby dowiedzieć się więcej na temat tych sytuacji, przeczytaj dwa scenariusze, w których musisz zalogować się w imieniu klienta poniżej.
+>W niektórych scenariuszach klienci mogą nie być w stanie bezpośrednio zaakceptować Umowa z Klientem Microsoft. Aby dowiedzieć się więcej na temat tych sytuacji, przeczytaj dwa scenariusze, w których musisz zaświadczyć w imieniu klienta, poniżej.
 
-## <a name="two-scenarios-where-you-need-to-attest-on-behalf-of-your-customer"></a>Dwa scenariusze, w których należy zaświadczać o swoim imieniu klienta
+## <a name="two-scenarios-where-you-need-to-attest-on-behalf-of-your-customer"></a>Dwa scenariusze, w których musisz zaświadczyć w imieniu klienta
 
-Istnieją dwa scenariusze, w których klienci mogą nie być w stanie bezpośrednio zaakceptować umowy klienta firmy Microsoft w centrum administracyjnym Microsoft 365.
+Istnieją dwa scenariusze, w których klienci mogą nie być w stanie bezpośrednio zaakceptować Umowa z Klientem Microsoft w Microsoft 365 administracyjnym.
 
-**Scenariusz 1**: istniejący klient kupił dowolne z następujących elementów za pomocą istniejącej relacji partnera: oferty, oprogramowania lub subskrypcji oprogramowania, wystąpień zarezerwowanych lub planu platformy Azure. Klient próbuje teraz dokonać nowego zakupu (z wyjątkiem autoodnawiania). Gdy klient kliknie ten adres URL, otrzyma komunikat "Skontaktuj się z partnerem w celu potwierdzenia akceptacji umowy klienta firmy Microsoft".  
+**Scenariusz 1.** Istniejący klient kupił dowolne z następujących produktów w ramach istniejącej relacji partnerskiej: oferty, subskrypcje oprogramowania lub oprogramowania, wystąpienia zarezerwowane lub plan platformy Azure. Klient próbuje teraz dokonać nowego zakupu (z wyjątkiem automatycznego odnawiania). Gdy klient kliknie adres URL, otrzyma komunikat "Skontaktuj się z partnerem, aby potwierdzić akceptację Umowa z Klientem Microsoft".  
 
-**Aby rozwiązać ten problem**: należy zaświadczać o imieniu klienta.
+**Aby rozwiązać** ten problem: musisz atestować w imieniu klienta.
 
-:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Zrzut ekranu przedstawiający stronę centrum administracyjnego Microsoft 365 z prośbą o skontaktowanie się z partnerem w celu potwierdzenia akceptacji umowy klienta firmy Microsoft.":::
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Zrzut ekranu Microsoft 365 Centrum administracyjnego z prośbą o sprosenie się z partnerem w celu potwierdzenia akceptacji Umowa z Klientem Microsoft.":::
 
-**Scenariusz 2**. istniejący klient zakupił jedną z następujących ofert, subskrypcji oprogramowania i oprogramowania, wystąpień zarezerwowanych oraz planu platformy Azure. Klient podejmie teraz próbę dokonania nowego zakupu u nowego partnera.
+**Scenariusz 2.** Istniejący klient kupił dowolną z następujących ofert, subskrypcji oprogramowania i oprogramowania, wystąpień zarezerwowanych i planu platformy Azure. Klient próbuje teraz dokonać nowego zakupu u nowego partnera.
 
-Gdy klient kliknie adres URL, aby Microsoft 365 centrum administracyjnego w celu zaakceptowania nowej relacji partnera i umowy, otrzyma komunikat "Skontaktuj się z partnerem w celu potwierdzenia akceptacji umowy klienta firmy Microsoft".  
+Gdy klient kliknie adres URL w centrum administracyjnym Microsoft 365, aby zaakceptować nową relację z partnerem i umowę, otrzyma komunikat "Skontaktuj się z partnerem, aby potwierdzić akceptację Umowa z Klientem Microsoft".  
 
-**Aby rozwiązać ten problem**: należy zaświadczać o imieniu klienta.  
+**Aby rozwiązać** ten problem: musisz atestować w imieniu klienta.  
 
-## <a name="confirm-that-a-customer-has-accepted-the-agreement"></a>Potwierdź, że klient zaakceptował umowę
+## <a name="confirm-that-a-customer-has-accepted-the-agreement"></a>Potwierdzanie, że klient zaakceptował umowę
 
-Jeśli spróbujesz utworzyć nowe zamówienie dla istniejącego klienta, który nie został wcześniej potwierdzony, zostanie wyświetlony monit o ukończenie potwierdzenia. Użyj poniższej procedury w tym celu.
+Jeśli spróbujesz utworzyć nowe zamówienie dla istniejącego klienta, który nie został jeszcze potwierdzony, zostanie wyświetlony monit o potwierdzenie. Użyj poniższej procedury w tym celu.
 
-1. Wprowadź **imię** **, nazwisko,** **adres e-mail** i **numer telefonu** (opcjonalnie) użytkownika, który zaakceptował umowę.
+1. Wprowadź **imię,** **nazwisko,** adres **e-mail** i **numer** telefonu (opcjonalnie) użytkownika, który zaakceptował umowę.
 
-2. W obszarze **Data akceptacji umowy** wprowadź odpowiednią datę. Nie można ustawić tej wartości na datę przyszłą.
+2. W **obszarze Data akceptacji umowy** wprowadź odpowiednią datę. Nie można ustawić tej daty na przyszłą datę.
 
 3. Wybierz przycisk **Zapisz i kontynuuj**. 
 

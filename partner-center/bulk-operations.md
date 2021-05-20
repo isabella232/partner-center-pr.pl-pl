@@ -1,6 +1,6 @@
 ---
-title: Eksportuj zbiorczo i Importuj możliwości wspólnej sprzedaży za pośrednictwem plików programu Excel/CSV w odniesieniu do odwołań
-description: Dowiedz się, jak pobierać, tworzyć i aktualizować możliwości wspólnej sprzedaży przy użyciu plików programu Excel (CSV) w centrum partnerskim
+title: Zbiorcze eksportowanie i importowanie możliwości współpracy sprzedaży za pośrednictwem plików programu Excel/CSV w poleceniach
+description: Dowiedz się, jak pobierać, tworzyć i aktualizować możliwości współpracy sprzedaży przy użyciu plików programu Excel (CSV) w Partner Center
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,96 +9,93 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: c8910b98e32abe10ae3bc86f24aae7bec2630741
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: af567b9b8b36841b6e6fd7e18a34e1c4b6b81f2e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880722"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149166"
 ---
-# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Operacje zbiorcze dla wspólnych możliwości sprzedaży przy użyciu plików z wartościami rozdzielanymi przecinkami (CSV)
+# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Operacje zbiorcze dotyczące możliwości współpracy sprzedaży przy użyciu plików wartości rozdzielanych przecinkami (CSV)
 
-**Odpowiednie role**
+**Odpowiednie role:** Administrator poleceń | Użytkownik poleceń
 
-- Administrator odwołań
-- Użytkownik z odwołaniami
-
-Operacje zbiorcze w centrum partnerskim pomagają firmie eksportować i importować dane możliwości wspólnej sprzedaży. Przejdź do strony z **możliwością współsprzedaży** , aby znaleźć linki **importu** i **eksportu** w prawym górnym rogu transparentu tytułu strony. Korzystając z tej funkcji, użytkownicy z uprawnieniami **administratora** i odniesień do użytkowników mogą korzystać z tego **konta** .
+Operacje zbiorcze w Partner Center pomagają firmie eksportować i importować dane dotyczące możliwości współpracy sprzedaży. Przejdź do strony **możliwości współpracy sprzedaży,**  aby znaleźć linki **importu** i eksportu w prawym górnym rogu baneru tytułu strony. Użytkownicy z **uprawnieniami administratora poleceń i** użytkownika poleceń mogą korzystać z tej funkcji. 
 
 > [!IMPORTANT]
-> Akcje create/Update wykonywane za pomocą importu zbiorczego nie są odwracalne. Podczas modyfikowania lub tworzenia dużej liczby rekordów należy zachować ostrożność. Po utworzeniu transakcji można modyfikować tylko podzestaw pól. **Żadna akcja nie będzie dozwolona, gdy jakakolwiek transakcja osiągnie stan terminalu, taki jak odrzucone/wygasłe/wykorzystane/utracone.**
+> Akcje tworzenia/aktualizacji wykonywane za pośrednictwem importu zbiorczego są nieodwracalne. Podczas modyfikowania lub tworzenia dużej liczby rekordów należy zachować ostrożność. Po utworzeniu transakcji można zmodyfikować tylko podzbiór pól. **Żadne akcje nie będą dozwolone, gdy dowolna transakcja osiągnie stan końcowy, taki jak Odrzucone/Wygasłe/Won/Lost.**
 
-## <a name="export-co-sell-opportunities"></a>Eksportuj możliwości wspólnej sprzedaży
+## <a name="export-co-sell-opportunities"></a>Eksportowanie możliwości współpracy sprzedaży
 
-Poniższe informacje opisują funkcję eksportu:
+Poniżej opisano funkcje eksportowania:
 
-- Aby wyeksportować **maksymalnie 5000 rekordów** , kliknij przycisk **Eksportuj** .
-- Pobrane transakcje będą oparte na poziomach dostępu. Administratorzy odwołań i użytkownicy odwołań mogą uzyskać różne wyniki w zależności od ich zakresu i włączenia jako członków zespołu w ramach transakcji. Dowiedz się więcej o [uprawnieniach odwołań](permissions-overview.md#manage-referrals).
-- Funkcja eksportu przyjmuje do konta bieżącą kartę na stronie możliwości wspólnej sprzedaży i filtry, które zostały zastosowane.
-- Zostanie wygenerowany plik CSV ze wszystkimi danymi opartymi na zastosowanych filtrach.
-- Pobranie rekordów może potrwać do 1 minuty.
-- Nie musisz czekać na ukończenie akcji pobierania. Nawet jeśli przejdziesz do innych stron w centrum partnerskim, plik zostanie pobrany zaraz po zakończeniu eksportu funkcji.
-- Pobrany plik można ponownie wykorzystać, aby zmodyfikować szczegóły dotyczące transakcji i przekazać je w celu zaktualizowania wszystkich rekordów.
+- Klikając przycisk eksportu, można wyeksportować maksymalnie **5000** **rekordów.**
+- Pobierane transakcje będą oparte na poziomach dostępu. Administratorzy poleceń i użytkownicy poleceń mogą uzyskać różne wyniki w zależności od zakresu i dołączania ich jako członkowie zespołu w transakcji. Dowiedz się więcej o [uprawnieniach poleceń](permissions-overview.md#manage-referrals).
+- Funkcja eksportu uwzględnia bieżącą kartę na stronie możliwości współpracy sprzedaży i zastosowane filtry.
+- Zostanie wygenerowany plik CSV ze wszystkimi danymi na podstawie zastosowanych filtrów.
+- Pobieranie rekordów może potrwać do jednej minuty.
+- Nie musisz czekać na ukończenie akcji pobierania. Nawet jeśli przechodzisz do innych stron w Partner Center, plik zostanie pobrany zaraz po zakończeniu funkcji eksportowania.
+- Pobranego pliku można użyć ponownie, aby zmodyfikować szczegóły transakcji i przekazać go w celu zaktualizowania dowolnych rekordów.
 
-## <a name="import-co-sell-opportunities"></a>Importuj możliwości wspólnej sprzedaży
+## <a name="import-co-sell-opportunities"></a>Importowanie możliwości współpracy sprzedaży
 
-- Można utworzyć lub zaktualizować **maksymalnie 1000 rekordów** przy użyciu funkcji importowania.
-- Możesz utworzyć szablon od podstaw, pobierając szablon ze strony importu w centrum partnerskim.
-- Możesz również użyć funkcji eksportu, aby pobrać istniejące rekordy i zaktualizować je.
-- Jeśli plik ma więcej niż 1000 rekordów, nie można go przetworzyć.
-- Po przetworzeniu pliku zostanie wyświetlone podsumowanie zawierające liczbę odwołań, które zostały utworzone, zaktualizowane i nieprzetwarzane, w ostatniej karcie pliku przetwarzania.
-- Możesz pobrać szczegóły przetworzonych rekordów, naprawić wszystkie błędy i przekazać ten sam plik, aby utworzyć lub zaktualizować rekordy, które nie powiodły się w poprzednim uruchomieniu. **Usuń wszystkie pomyślne rekordy z pliku przed przekazaniem poprawionych rekordów, które nie powiodły się w poprzednim przebiegu.**
-- Aby dodać więcej rozwiązań, Dodaj dodatkowe kolumny obok rozwiązania 1 i użyj nazwy kolumny jako rozwiązania X, gdzie X reprezentuje liczbę rozwiązań w ramach transakcji. Na przykład rozwiązanie 2, rozwiązanie 3.
-- Do rozpatrzenia można dodać do 50 rozwiązań.
-- Aby dodać więcej członków zespołu, Dodaj dodatkowe kolumny obok pozycji członek zespołu 1 i użyj nazwy kolumny jako członka zespołu X, gdzie X reprezentuje liczbę członków zespołu w ramach transakcji. Na przykład członek zespołu 2, członek zespołu 3.
-- Do transakcji możesz dodać maksymalnie 50 członków zespołu.
+- Za pomocą funkcji importowania można utworzyć lub zaktualizować maksymalnie **1000** rekordów.
+- Szablon można skompilować od podstaw, pobierając go ze strony Importowanie w Partner Center.
+- Możesz również użyć funkcji Eksportuj, aby pobrać istniejące rekordy i zaktualizować je.
+- Jeśli plik zawiera więcej niż 1000 rekordów, nie można go przetworzyć.
+- Po przetworzeniu pliku podsumowanie z liczbą poleceń utworzonych, zaktualizowanych i nie przetworzonych zostanie wyświetlone na ostatniej karcie pliku procesu.
+- Możesz pobrać szczegóły przetworzonych rekordów, naprawić wszelkie błędy i przekazać ten sam plik, aby utworzyć lub zaktualizować rekordy, które nie powiodły się w poprzednim uruchomieniu. **Usuń wszystkie rekordy pomyślne z pliku przed przekazaniem poprawionych rekordów, które nie powiodły się w poprzednim uruchomieniu.**
+- Aby dodać więcej rozwiązań, dodaj dodatkowe kolumny obok rozwiązania 1 i użyj nazwy kolumny jako rozwiązania X, gdzie X reprezentuje liczbę rozwiązania w transakcji. Na przykład rozwiązanie 2, rozwiązanie 3.
+- Do transakcji można dodać maksymalnie 50 rozwiązań.
+- Aby dodać kolejnych członków zespołu, dodaj dodatkowe kolumny obok pola Członek zespołu 1 i użyj nazwy kolumny jako członka zespołu X, gdzie X reprezentuje liczbę członków zespołu w transakcji. Na przykład członek zespołu 2, członek zespołu 3.
+- Do transakcji można dodać maksymalnie 50 członków zespołu.
 
 > [!NOTE]
-> Nie musisz czekać na ukończenie przetwarzania. Szczegóły ostatnio przetworzonego pliku będą dostępne do pobrania po zakończeniu przetwarzania. **W przypadku przekazywania plików z 1000 rekordów może upłynąć do 10 minut.**
+> Nie musisz czekać na ukończenie przetwarzania. Szczegóły ostatnio przetworzonego pliku będą dostępne do pobrania po zakończeniu przetwarzania. **Przekazywanie plików ze 1000 rekordami może potrwać do 10 minut.**
 
 > [!IMPORTANT]
-> Przeczytaj uważnie wszystkie instrukcje i sprawdź format każdej kolumny w poniższej tabeli przed utworzeniem lub aktualizacją transakcji przy użyciu plików CSV w centrum partnerskim.
+> Przeczytaj uważnie wszystkie instrukcje i sprawdź format każdej kolumny z poniższej tabeli przed utworzeniem lub zaktualizowaną transakcjami przy użyciu plików CSV w Partner Center.
 
-|**Nazwa kolumny**|**Czy jest to wymagane?**|**Opis**|**Przykładowe wartości**|
+|**Nazwa kolumny**|**Czy jest to obowiązkowe?**|**Opis**|**Przykładowe wartości**|
 |-----|:-----|:---------|:---|
-błędy|Nie|Błędy, Jeśli dowolne powiązane z operacjami tworzenia/aktualizacji w. r. t do odwołań zostaną uwzględnione w tej kolumnie. Jeśli występuje wiele błędów, wszystkie z nich zostaną wyświetlone oddzielone średnikami.|Brak obowiązkowego rozwiązania pola 1|
-Identyfikator zaangażowania|Nie|Identyfikator zaangażowania jest generowany przez system odwołań Centrum partnerskiego firmy Microsoft. Nie jest wymagane do utworzenia nowego odwołania. Jeśli aktualizujesz rekord, możesz użyć istniejącego identyfikatora zaangażowania.|f7eaae47-0b84-4ac4-b4ea-5b2587d42cee
-Identyfikator polecenia|Nie|Identyfikator odwołania jest generowany przez system odwołań Centrum partnerskiego firmy Microsoft. Nie jest wymagane do utworzenia nowego odwołania. Wypełnij ją IDENTYFIKATORem odwołania, jeśli aktualizujesz istniejący rekord.|ebacdkdc-0b84-4ac4-b4ea-5b2587d42cee
-Nazwa transakcji|Tak|Przyjazna nazwa dla transakcji dla odwołania.|Transakcja wiosny Zjednoczonego Królestwa
-Nazwa klienta|Tak|Nazwa firmy klienta. Użyj prawnej nazwy organizacji do szybkiego dopasowania po stronie firmy Microsoft.|Contoso Corporation
-Wiersz adresu klienta 1|Tak|Wiersz adresu 1 firmy klienta. |Jeden sposób firmy Contoso
-Wiersz adresu klienta 2|Nie|Wiersz adresu 2 firmy klienta.|NE 148
-Miasto klienta|Tak|Miasto, w którym znajduje się organizacja klienta.|Redmond
+błędy|Nie|Błędy, jeśli jakiekolwiek związane z operacjami tworzenia/aktualizacji w.r.t do od skierowań zostaną uwzględnione w tej kolumnie. Jeśli istnieje wiele błędów, wszystkie z nich zostaną wyświetlone rozdzielone średnikami.|Brak obowiązkowego pola Rozwiązanie 1|
+Identyfikator zaangażowania|Nie|Identyfikator zaangażowania jest generowany przez system poleceń centrum partnerskiego firmy Microsoft. Nie jest wymagane do tworzenia nowych poleceń. Jeśli aktualizujesz rekord, możesz użyć istniejącego identyfikatora zaangażowania.|f7eaae47-0b84-4ac4-b4ea-5b2587d42cee
+Identyfikator polecenia|Nie|Identyfikator polecenia jest generowany przez system poleceń Centrum partnerskiego firmy Microsoft. Nie jest wymagane do tworzenia nowych poleceń. Wypełnij go identyfikatorem odwołania, jeśli aktualizujesz istniejący rekord.|ebacdkdc-0b84-4ac4-b4ea-5b2587d42cee
+Nazwa transakcji|Tak|Przyjazna nazwa transakcji dla Twojej odwołania.|Uk spring deal
+Nazwa klienta|Tak|Nazwa firmy klienta. Użyj prawnej nazwy organizacji, aby szybko dopasować po stronie firmy Microsoft.|Contoso Corporation
+Wiersz 1 adresu klienta|Tak|Wiersz 1 adresu firmy klienta. |One Contoso Way
+Wiersz 2 adresu klienta|Nie|Adres 2 firmy klienta.|NE 148, ulica
+Customer City|Tak|Miasto, w którym znajduje się organizacja klienta.|Redmond
 Stan klienta|Nie|Stan, w którym znajduje się organizacja klienta.|Waszyngton
 Kod pocztowy klienta|Nie|Kod pocztowy regionu, w którym znajduje się organizacja klienta.|98052
-Kraj klienta|Tak|Kraj/region, w którym znajduje się organizacja klienta. Użyj dwuliterowych kodów kraju, jak wspomniano [tutaj]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes).|USA
-Identyfikator klienta D-N-S|Nie|Spróbuj pobrać identyfikator DUNS organizacji klienta. Pomoże to w szybszym dopasowaniu organizacji klienta po stronie firmy Microsoft, co pomaga szybciej przypisywać sprzedającemu. Identyfikator DUNS można bezpłatnie uzyskać z tej [witryny sieci Web](https://www.dnb.com/duns-number/lookup.html).|81466849
-Imię kontaktu z klientem|Zależy od|Imię jest wymagane tylko wtedy, gdy potrzebujesz pomocy firmy Microsoft. Imię kontaktu podstawowego od organizacji klienta pracującego nad tym postępowaniem.|Michał
-Nazwisko osoby kontaktowej klienta|Zależy od|Nazwisko jest wymagane tylko wtedy, gdy potrzebujesz pomocy firmy Microsoft. Nazwisko głównej osoby kontaktowej w organizacji klienta, która pracuje nad tym postępowaniem.|Customer
-Numer telefonu kontaktowego klienta|Zależy od|Numer telefonu jest wymagany tylko wtedy, gdy potrzebujesz pomocy firmy Microsoft. Numer telefonu podstawowego kontaktu z organizacji klienta pracującego nad tym postępowaniem.|9999999999
-Adres E-mail osoby kontaktowej klienta|Zależy od|Adres e-mail jest wymagany tylko wtedy, gdy potrzebujesz pomocy firmy Microsoft. Adres e-mail kontaktu podstawowego od organizacji klienta pracującego nad tym postępowaniem.|john.customer@contoso.com
-Stan odwołania partnera|Tak|Wskazuje stan transakcji z perspektywy firmy. Wymagane, jeśli próbujesz utworzyć lub zmodyfikować odwołanie. Jeśli próbujesz utworzyć nową transokazję, użyj **nowej** . Akceptowane wartości są udokumentowane w [tym miejscu](/partner/develop/referral-resources#referralstatus).|Aktywna
-Stan pododwołania do partnera|Tak|Wskazuje dokładny stan transakcji. Użyj **zaakceptowanych** w przypadku próby utworzenia nowej transakcji. Jest również wymagane, jeśli modyfikujesz istniejące odwołanie. Akceptowane wartości są udokumentowane w [tym miejscu](/partner/develop/referral-resources#referralsubstatus).|Zaakceptowano
-Stan odwołania firmy Microsoft|Zależy od|Wskazuje stan żądania współsprzedawcy wysłanego do pomocy firmy Microsoft. Jest to pole tylko do odczytu. Wszelkie zmiany wprowadzone w tym polu podczas importowania danych zostaną zignorowane.| Oczekiwanie
-Przyczyna odrzucenia/utraty|Zależy od| Te informacje są wymagane tylko w przypadku zmiany stanu podrzędnego pola na odrzucone lub utracone. W przeciwnym razie można zignorować tę kolumnę. <br/> **Wprowadź liczbę na podstawie poniższych opcji** <br/><br/> **1**— budżet projektu jest nieodpowiedni  <br/> **2**— klient nie odpowiedział  <br/> **3**— klient wybrał innego dostawcę  <br/> **4** — wymagania klienta nie zostały spełnione  <br/> **5** — nie do klienta <br/> **6**— proponowany wiersz czasu był zbyt krótki <br/> **7** — raportowanie jako nadużycia, spam lub wyłudzanie informacji <br/> **8** — inne |6|
-Etap sprzedaży|Nie|Jest to pole wskazujące szczegółowy etap sprzedaży odwołania. Przeczytaj więcej na temat etapów sprzedaży [tutaj](./manage-co-sell-opportunities.md)|40
-Szacowana wartość transakcji|Tak|Wartość transakcji na podstawie początkowych rozmów z klientem. Można to zmienić do momentu, aż transakcja osiągnie jeden z **wygranych** lub **utraconych** Stanów terminalu.|12563
-Waluta|Tak|Waluta, w której wprowadzono wartość transakcji. Kody walut można znaleźć [tutaj](https://en.wikipedia.org/wiki/ISO_4217).|USD
-Szacowana data zamknięcia|Tak|Szacowana data zamknięcia transakcji w oparciu o początkowe rozmowy z klientem w formacie MM/DD/RRRR. <br/> **Data powinna być w strefie czasowej UTC. Wszystkie daty wyświetlane w interfejsie użytkownika Centrum partnerskiego są oparte na zlokalizowanych strefach czasowych. W interfejsie użytkownika Centrum partnerskiego może istnieć +/-jeden dzień, Jeśli przeglądasz odwołanie, dla którego podałeś datę w strefie czasowej UTC.**|1/30/2020
-IDENTYFIKATOR PROGRAMU CRM|Nie|Identyfikator tego konkretnego odwołania w systemie CRM, jeśli istnieje. To jest pole wprowadzania tekstu w postaci bezpłatnej.|34234324-sdfsdf-345345-SFD
-Identyfikator kampanii marketingowej|Nie|To pole wskazuje kampanię marketingową, która spowodowała to konkretne odwołanie. Zwykle używane do obliczania zwrotu z inwestycji|BingSummer2020
-Uwagi|Nie|Szczegółowe informacje wskazujące aktualizacje powiązane z odwołaniem|To jest przykładowa Uwaga
-Pomoc firmy Microsoft jest wymagana?|Tak|Wskazuje to, czy chcesz, aby firma Microsoft mogła pomóc Ci w tworzeniu tego żądania współsprzedażowego|Tak
-Którą konkretną pomoc firma Microsoft?|Zależy od|Jednym z sześciu różnych sposobów może Ci pomóc firma Microsoft. Ma to zastosowanie tylko w przypadku wybrania opcji tak dla pytania "Pomoc firmy Microsoft"? " <br/> **Wprowadź liczbę na podstawie poniższych opcji** <br/><br/> **1**— propozycja wartości specyficznej dla obciążenia  <br/> **2**— architektura techniczna klienta  <br/> **3**— Weryfikacja koncepcji/demo  <br/> **4**— oferty i Licencjonowanie  <br/> **5**— powodzenie po sprzedaży klienta  <br/> **6**— ogólne lub inne|1|
-Udostępnianie z zespołem ds. sprzedaży firmy Microsoft|Tak|Wskazuje to, czy chcesz udostępnić szczegóły dotyczące transakcji z zespołem sprzedaży firmy Microsoft, czy nie. Ma to zastosowanie tylko w przypadku wybrania opcji nie dla pytania "pomoc Microsoft wymagana? "|Tak
-Uwagi do firmy Microsoft|Nie|Dowolnych uwag do firmy Microsoft, jeśli potrzebujesz pomocy od firmy Microsoft|Potrzebna pomoc dotycząca weryfikacji koncepcji dla klientów firmy Contoso
-Wyrażanie zgody na udostępnianie klientowi/partnerowi|Tak|Wyraża zgodę na udostępnienie szczegółowych informacji kontaktowych klienta i pracowników firmy, którzy pracują nad pracą. **W przypadku wybrania tej kolumny nie można tworzyć ani aktualizować transakcji.** |Tak
-Rozwiązanie 1|Tak|Identyfikator rozwiązania (wymagane), waluta (opcjonalnie), w którym została wprowadzona wartość transakcji. W [tym miejscu](https://en.wikipedia.org/wiki/ISO_4217)można znaleźć kody walutowe, cenę jednostki SKU (opcjonalnie) i ilość jednostki SKU (opcjonalnie).  |PERUWIAŃSKI-1234-PQRS, USD, 10, 100
-Członek zespołu 1|Tak|Imię, nazwisko, numer telefonu komórkowego i identyfikator poczty e-mail odpowiedniego członka zespołu.| Robert, partner, 999999, Bob.partner@Contoso.com
+Kraj klienta|Tak|Kraj/region, w którym znajduje się organizacja klienta. Użyj dwulicieowych kodów krajów, jak wspomniano [tutaj.]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)|USA
+Identyfikator D-U-S klienta|Nie|Spróbuj pobrać identyfikator DUNS organizacji klienta. Pomoże to w szybszym dopasowaniu organizacji klienta po stronie firmy Microsoft, co ułatwia szybsze przypisywanie sprzedawców. Identyfikator DUNS ID możesz uzyskać bezpłatnie z tej witryny [internetowej.](https://www.dnb.com/duns-number/lookup.html)|81466849
+Imię kontaktu z klientem|Zależy|Imię jest obowiązkowe tylko wtedy, gdy potrzebujesz pomocy firmy Microsoft. Imię głównej osoby kontaktowej z organizacji klienta, która pracuje nad tą ofertą.|Michał
+Nazwisko osoby kontaktowej klienta|Zależy|Nazwisko jest obowiązkowe tylko wtedy, gdy potrzebujesz pomocy firmy Microsoft. Nazwisko głównej osoby kontaktowej z organizacji klienta, która pracuje nad tą ofertą.|Customer
+Numer telefonu do kontaktu z klientem|Zależy|Numer telefonu jest wymagany tylko wtedy, gdy potrzebujesz pomocy firmy Microsoft. Numer telefonu głównej osoby kontaktowej z organizacji klienta, która pracuje nad tą ofertą.|9999999999
+Adres e-mail kontaktu z klientem|Zależy|Adres e-mail jest wymagany tylko wtedy, gdy potrzebujesz pomocy firmy Microsoft. Adres e-mail głównej osoby kontaktowej z organizacji klienta, która pracuje nad tą ofertą.|john.customer@contoso.com
+Stan polecenia partnera|Tak|Wskazuje stan transakcji z perspektywy firmy. Wymagane, jeśli próbujesz utworzyć lub zmodyfikować polecenie. Użyj **nowego,** jeśli próbujesz utworzyć nową ofertę. Akceptowane wartości są udokumentowane [tutaj.](/partner/develop/referral-resources#referralstatus)|Aktywna
+Podstatus poleceń partnera|Tak|Wskazuje dokładny stan transakcji. Użyj **zaakceptowanych,** jeśli próbujesz utworzyć nową ofertę. Jest to również wymagane w przypadku modyfikowania istniejącego odwołania. Akceptowane wartości są udokumentowane [tutaj.](/partner/develop/referral-resources#referralsubstatus)|Zaakceptowano
+Stan poleceń firmy Microsoft|Zależy|Wskazuje stan żądania współpracy sprzedaży wysłanego do firmy Microsoft poszukując pomocy. Jest to pole tylko do odczytu. Wszelkie zmiany wprowadzone w tym polu podczas importowania danych zostaną zignorowane.| Oczekiwanie
+Odrzucona/utracona przyczyna|Zależy| Musisz podać te informacje tylko wtedy, gdy zmieniasz stan podrzędny pola na Odrzucone lub Utracone. W przeciwnym razie możesz zignorować tę kolumnę. <br/> **Wprowadź liczbę na podstawie poniższych opcji** <br/><br/> **1**— Budżet projektu nie jest odpowiedni  <br/> **2**— Klient nie odpowiedział  <br/> **3**— Klient wybrał innego dostawcę  <br/> **4** — Wymagania klienta nie zostały spełnione  <br/> **5** — Nie jest klientem <br/> **6**— Proponowana linia czasowa była zbyt krótka <br/> **7** — Zgłaszanie jako nadużycie, spam lub wyłudzanie informacji <br/> **8** — Inne |6|
+Etap sprzedaży|Nie|Jest to pole wskazujące szczegółowy etap sprzedaży polecenia. Dowiedz się więcej o etapach [sprzedaży tutaj](./manage-co-sell-opportunities.md)|40
+Szacowana wartość transakcji|Tak|Wartość transakcji na podstawie początkowych konwersacji z klientem. Można to zmienić, dopóki transakcja nie osiągnie jednego z stanów końcowych, w których **zostanie wygrana lub** **utracona.**|12563
+Waluta|Tak|Waluta, w której wprowadzana jest wartość transakcji. Kody walut można znaleźć [tutaj.](https://en.wikipedia.org/wiki/ISO_4217)|USD
+Szacowana data zamknięcia|Tak|Szacowana data zamknięcia transakcji na podstawie początkowych konwersacji z klientem w formacie MM/DD/YYYY. <br/> **Data powinna być w strefie czasowej UTC. Wszystkie daty wyświetlane w interfejsie Partner Center są oparte na zlokalizowanych strefach czasowych. Jeśli patrzysz na polecenie, dla którego podano datę w strefie czasowej UTC, może być Partner Center raz na dzień w interfejsie użytkownika.**|1/30/2020
+Identyfikator CRM|Nie|Identyfikator tego konkretnego polecenia w systemie CRM, jeśli jest używany. Jest to pole wprowadzania tekstu w postaci bezpłatnej.|34234324-sdfsdf-345345-sfd
+Identyfikator kampanii marketingowej|Nie|To pole wskazuje kampanię marketingową, co zaowocowała tym konkretnym poleceniem. Zwykle używany do obliczania zwrotu z inwestycji|BingSummer2020
+Uwagi|Nie|Szczegółowe uwagi wskazujące aktualizacje związane z poleceniem|To jest przykładowa uwaga
+Wymagana jest pomoc firmy Microsoft?|Tak|Ma to na celu wskazanie, czy chcesz, aby firma Microsoft pomogła Ci w zrzucie wniosku o współs sprzedaży|Tak
+Jaka pomoc od firmy Microsoft?|Zależy|Jeden z sześciu różnych sposobów, w jakie firma Microsoft może Ci pomóc. Ma to zastosowanie tylko w przypadku wybrania opcji Tak dla pytania "Wymagana pomoc firmy Microsoft? " <br/> **Wprowadź liczbę na podstawie poniższych opcji** <br/><br/> **1**— Obciążenie — propozycja określonej wartości  <br/> **2**— Architektura techniczna klienta  <br/> **3**— Proof of concept /Demo  <br/> **4 —** Oferty i licencjonowanie  <br/> **5 —** Post — sukces klientów sprzedaży  <br/> **6**— Ogólne lub inne|1|
+Udostępnianie zespołowi sprzedaży firmy Microsoft|Tak|Ma to na celu wskazanie, czy chcesz udostępnić szczegóły transakcji zespołowi sprzedaży firmy Microsoft, czy nie. Ma to zastosowanie tylko w przypadku wybrania opcji Nie dla pytania "Wymagana pomoc firmy Microsoft? "|Tak
+Uwagi do firmy Microsoft|Nie|Wszelkie uwagi dotyczące firmy Microsoft, jeśli potrzebujesz pomocy od firmy Microsoft|Potrzebna pomoc z usługą POC dla klienta firmy Contoso
+Zgoda na udostępnianie kontaktu klienta/partnera|Tak|Zgoda na udostępnianie danych kontaktowych klienta i danych kontaktowych pracowników firmy, którzy pracują nad ofertą. **Transakcje nie będą tworzone ani aktualizowane, jeśli dla tej kolumny wybierzesz pozycję Nie.** |Tak
+Rozwiązanie 1|Tak|Identyfikator rozwiązania (wymagane), waluta (opcjonalnie), w której wprowadzono wartość transakcji. Kody walut można znaleźć [tutaj:](https://en.wikipedia.org/wiki/ISO_4217)Price of the SKU (Optional) (Cena SKU (opcjonalnie) i Quantity of the SKU (Optional) (Opcjonalnie) (Cena sku (opcjonalnie)  |SOL-1234-PQRS, USD, 10, 100
+Członek zespołu 1|Tak|Imię, nazwisko, numer telefonu komórkowego i identyfikator e-mail odpowiedniego członka zespołu.| Bob, Partner, 999999, Bob.partner@Contoso.com
 
 ## <a name="next-steps"></a>Następne kroki
 
-Możesz użyć tych łączników współsprzedawanych w centrum partnerskim do współpracy z firmą Microsoft w ramach systemów CRM.
+Tych łączników można używać Partner Center do współs sprzedaży z firmą Microsoft z poziomu systemów CRM.
 
-- [Łącznik współsprzedawanych produktów Dynamics 365 CRM — Omówienie](connector-dynamics.md)
-- [Łącznik współpracujący z usługą Salesforce CRM — Omówienie](connector-salesforce.md)
+- [Łącznik do współpracy sprzedaży dla usługi Dynamics 365 CRM — omówienie](connector-dynamics.md)
+- [Łącznik do współsprzedaży dla rozwiązania Salesforce CRM — omówienie](connector-salesforce.md)
