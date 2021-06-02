@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bdf6495d86da09b7d1d167c3fa1b3b5f15a35ab6
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 309a3578edcd06770c818722f2164a4d10a945da
+ms.sourcegitcommit: 32ef8d43902357a85df420b48b0ec1d63ad073e4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147500"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "110754481"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sprzedaż subskrypcji oprogramowania za pośrednictwem programu Dostawca rozwiązań w chmurze (CSP)
 
@@ -68,7 +68,7 @@ Dzięki Korzyść użycia hybrydowego platformy Azure uzyskać większą wartoś
 > | Falklandy     | Nauru     | Stany Zjednoczone Odlying Islands   |
 > | Gujana Francuska     | Nowa Kaledonia     | Vanuatu   |
 > | Polinezja Francuska     | Niger     | Watykan   |
-> | Francuskie Terytoria Południowe i Antarktyczne     | Niue     | Wallis i Futuna   |
+> | Francuskie Terytoria Południowe i Antarktyczne     | Niue     | Wallis i Ichuna   |
 > | Gabon     | Norfolk     | Jemen   |
 > | Gambia     | Mariany Północne     |    |
 > | Gibraltar     | Palau       |    |
@@ -85,14 +85,14 @@ Aby kupić subskrypcje oprogramowania w imieniu klienta:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktywowanie subskrypcji oprogramowania i zarządzanie nimi
 
-Po zakupie oprogramowania Ty lub Twoi klienci muszą je pobrać (partnerzy korzystający z usługi Partner Center; klienci korzystający z centrum Microsoft 365 administracyjnego). Użyj poniższej procedury w tym celu. Ważne jest, aby zrozumieć ryzyko związane z kopiowaniem linków i pobieraniem oprogramowania. Aby uzyskać więcej informacji, zobacz **using Partner Center to obtain customer software downloads and license keys** (Używanie usługi Partner Center do pobierania oprogramowania klienta i kluczy licencji) w Partner Center New Commerce Operations [Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)(Przewodnik obsługi nowego handlu).
+Po zakupie oprogramowania Ty lub Twoi klienci muszą je pobrać (partnerzy korzystający z usługi Partner Center; klienci korzystający z centrum Microsoft 365 administracyjnego). Użyj poniższej procedury w tym celu. Ważne jest, aby zrozumieć czynniki ryzyka związane z kopiowaniem linków i pobieraniem oprogramowania. Aby uzyskać więcej informacji, zobacz Używanie usługi **Partner Center** do pobierania oprogramowania klienta i kluczy licencji w [Partner Center New Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
 >[!NOTE]
->Musisz być agentem administratora w Partner Center uzyskać link do kluczy i plików do pobrania.
+>Musisz być agentem administratora w Partner Center, aby uzyskać link do kluczy i plików do pobrania.
 
-1. Przejdź do strony szczegółów klienta, a następnie wybierz pozycję **Oprogramowanie**. Zostanie wyświetlona lista całego oprogramowania zakupionego w imieniu klienta.
+1. Przejdź do strony szczegółów klienta, a następnie wybierz pozycję **Oprogramowanie**. Zostanie wyświetlona lista wszystkich programów zakupionych w imieniu klienta.
 
-2. Wybierz wersję **produktu,** **język,** **bit** i wybierz pozycję **Pobierz klucze i pobierz.** 
+2. Wybierz wersję **produktu,** **język,** **bit** i wybierz pozycję **Pobierz klucze i pliki do pobrania.** 
 
 3. Wybierz **pozycję Pobierz klucz,** aby wyświetlić 32-cyfrowy produkt w podręcznym oknie dialogowym, które można skopiować i wysłać do klienta. 
 
@@ -100,14 +100,14 @@ Po zakupie oprogramowania Ty lub Twoi klienci muszą je pobrać (partnerzy korzy
 
 5. Wybierz **pozycję Kopiuj link,** jeśli chcesz wysłać klientowi link do pobierania bitów. 
 
-6. Możesz również **anulować** zamówienie na oprogramowanie i otrzymać 100% środków (jeśli zostanie wykonane w okresie zasad anulowania 60 dni).
+6. Możesz również **anulować** zamówienie na oprogramowanie i otrzymać 100% środków (jeśli zostanie to zrobione w ciągu 30-dniowego okresu zasad anulowania).
 
 >[!NOTE]
 >Tylko klienci mają dostęp do uzyskiwania dostępu do kluczy produktów i pobierania informacji w centrum administracyjnym Microsoft 365 (wymagana jest rola administratora globalnego). Partnerzy muszą użyć Partner Center, aby wyświetlić te informacje.
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Pobieranie subskrypcji serwera i klucze licencji dostępne za pośrednictwem Microsoft 365 Admin Center dla klientów 
 
-Klienci będą mogli pobierać klucze licencji i pliki do pobrania subskrypcji serwera CSP Microsoft 365 Centrum administracyjnego. Aby wyświetlić klucze licencji i pliki do pobrania subskrypcji programu CSP, klient musi przejść do strony Microsoft 365 Admin Center > **Billing > Your products > Software (Twoje** produkty i oprogramowanie). Aby uzyskać więcej informacji, zobacz [kartę Oprogramowanie w obszarze Rozliczenia](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
+Klienci będą mogli uzyskać klucze licencji subskrypcji serwera CSP i pliki do pobrania z Microsoft 365 Administracyjnego. Aby wyświetlić klucze licencji i pliki do pobrania subskrypcji programu CSP, klient musi przejść do strony Microsoft 365 Admin Center > **Billing > Your products > Software (Twoje** produkty i oprogramowanie). Aby uzyskać więcej informacji, zobacz [kartę Oprogramowanie w obszarze Rozliczenia](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Wyświetlanie aktywności związanej z dostępem do klucza oprogramowania i pobieraniem oprogramowania
 
@@ -126,22 +126,20 @@ W celach inspekcji lub zgodności może być konieczne sprawdzenie listy użytko
 
 ## <a name="cancel-a-purchase"></a>Anulowanie zakupu
 
-Zakup oprogramowania można anulować w ciągu 60 dni od daty zakupu. Jeśli anulujesz subskrypcję w ciągu tego pierwszego 60-dniowego okresu, nie zostanie naliczona opłata za wcześniejsze zakończenie. Po upływie 60 dni nie można już anulować zakupu. (Zobacz Uwaga, aby uzyskać kluczowe ograniczenia tej reguły anulowania. Aby dowiedzieć się, co się stanie po anulowaniu zakupu oprogramowania, zobacz również Ważne uwagi po tych krokach. 
+Zakup oprogramowania można anulować w ciągu 30 dni od daty zakupu. Jeśli anulujesz subskrypcję w ciągu tego pierwszego 30-dniowego okresu, nie zostanie naliczona opłata za wcześniejsze zakończenie. Po upływie 30 dni nie można już anulować zakupu. (Zobacz Uwaga, aby uzyskać kluczowe ograniczenia tej reguły anulowania. Aby dowiedzieć się, co się stanie po anulowaniu zakupu oprogramowania, zobacz również Ważne uwagi po tych krokach. 
 
 >[!NOTE]
->Poniższe kroki anulowania zakupu dotyczą tylko oprogramowania, które kwalifikuje się do anulowania w określonym oknie anulowania, na przykład w ciągu pierwszych 60 dni od zakupu. Te kroki nie dotyczą również planu oprogramowania SUSE Linux lub RedHat na platformie Azure. Obecnie nie można anulować ani wymienić planu oprogramowania SUSE ani RedHat. [Dowiedz się więcej](/azure/virtual-machines/linux/prepay-suse-software-charges) na temat korzystania z planów systemu SUSE Linux lub RedHat.
+>Poniższe kroki anulowania zakupu dotyczą tylko oprogramowania, które kwalifikuje się do anulowania w określonym oknie anulowania, na przykład w ciągu pierwszych 30 dni od zakupu. Te kroki nie dotyczą również planu oprogramowania SUSE Linux lub RedHat na platformie Azure. Obecnie nie można anulować ani wymienić planu oprogramowania SUSE ani RedHat. [Dowiedz się więcej](/azure/virtual-machines/linux/prepay-suse-software-charges) na temat korzystania z planów oprogramowania SUSE Linux lub RedHat.
 
 Wykonaj poniższe kroki, aby anulować zakup:
 
 >[!NOTE]
->Aby anulować zakup, musisz być agentem administratora. W poniższych krokach opisano, jak anulować zakup na Partner Center nawigacyjnym. Można to również zrobić przy użyciu interfejsu [API Partner Center API.](/partner-center/develop/cancel-software-purchases)
+>Aby anulować zakup, musisz być agentem administratora. W poniższych krokach opisano, jak anulować zakup na pulpicie Partner Center nawigacyjnym. Możesz to również zrobić przy użyciu interfejsu [API Partner Center .](/partner-center/develop/cancel-software-purchases)
 
-1. Przed rozpoczęciem procesu anulowania upewnij się, że masz następujące elementy:
+1. Przed rozpoczęciem procesu anulowania upewnij się, że masz następujące informacje:
 
     - Nazwa klienta, identyfikator GUID dzierżawy lub nazwa domeny
-
     - Nazwa produktu, który chcesz anulować
-    
     - Identyfikator zamówienia
 
 2. Zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard)
@@ -150,15 +148,15 @@ Wykonaj poniższe kroki, aby anulować zakup:
 
 4. Na stronie szczegółów klienta wybierz **pozycję** Oprogramowanie, aby wyświetlić listę oprogramowania zakupionego dla klienta. 
 
-5. Znajdź zakup oprogramowania, który chcesz anulować, a następnie wybierz pozycję **Anuluj.** Zostanie wyświetlone okno dialogowe.
+5. Znajdź zakup oprogramowania, które chcesz anulować, a następnie wybierz pozycję **Anuluj.** Zostanie wyświetlone okno dialogowe.
 
-6. Z listy rozwijanej Numer zamówienia wybierz prawidłowy numer identyfikatora zamówienia, który chcesz anulować. (Więcej informacji o zamówieniu lub numerze identyfikatora zamówienia można znaleźć na stronie **historii zamówień** klienta).
+6. Z listy rozwijanej Order number (Numer zamówienia) wybierz prawidłowy numer identyfikatora zamówienia, który chcesz anulować. (Więcej informacji na temat numeru zamówienia lub identyfikatora zamówienia można znaleźć na stronie historii **zamówień** klienta).
 
-7. Zaznacz pole wyboru, aby potwierdzić przeczytanie **ważnego** komunikatu dotyczącego anulowania. (Zapoznaj się z **ważną uwaga** poniżej, aby dowiedzieć się więcej o tym, co się stanie po anulowaniu zakupu).
+7. Zaznacz pole wyboru, aby potwierdzić przeczytanie **ważnego** komunikatu dotyczącego anulowania. (Zapoznaj się z ważną **uwaga** poniżej, aby dowiedzieć się więcej o tym, co się stanie po anulowaniu zakupu).
 
 8. Wybierz **pozycję Prześlij,** aby anulować zakup. Jeśli chcesz anulować wiele zamówień dla klienta, musisz ponownie wykonać kroki od 4 do 6 dla każdego unikatowego numeru zamówienia.
 
-Podczas próby anulowania zamówienia Partner Center także podać inne informacje (które są wyświetlane poniżej listy rozwijanej Numer zamówienia). Te informacje mogą obejmować:
+Podczas próby anulowania zamówienia użytkownik może Partner Center także inne informacje (wyświetlane poniżej listy rozwijanej Numer zamówienia). Te informacje mogą obejmować:
 
 - Ile dni pozostało do anulowania tego konkretnego zamówienia
 
@@ -173,7 +171,7 @@ Podczas próby anulowania zamówienia Partner Center także podać inne informac
 
 Po anulowaniu zakupu:
 
-- Wszystkie powiązane klucze oprogramowania i linki pobierania zostaną odwołane. Oznacza to, że ani Ty, ani klient nie możecie korzystać z kluczy oprogramowania i pobierać linków, które już są powiązane z tym zakupem. Klient jest odpowiedzialny za zaprzestanie korzystania ze wszystkich anulowanych programów. Użytkownik jest również odpowiedzialny za odinstalowanie anulowanych programów oraz usunięcie wszelkich powiązanych plików do pobrania oprogramowania i linków.
+- Wszystkie powiązane klucze oprogramowania i linki pobierania zostaną odwołane. To odwołanie oznacza, że Ty i Klient nie możecie już korzystać z kluczy oprogramowania i pobierać linków związanych z tym zakupem. Klient jest odpowiedzialny za zaprzestanie korzystania ze wszystkich anulowanych programów. Użytkownik jest również odpowiedzialny za odinstalowanie anulowanych programów oraz usunięcie wszelkich powiązanych plików do pobrania oprogramowania i linków.
 
 - Anulowany element będzie nadal wyświetlany na stronie Szczegóły oprogramowania klienta, ale klucz aktywacji nie będzie dostępny.
 
@@ -192,21 +190,18 @@ Jeśli próbowano anulować zakup oprogramowania za pośrednictwem usługi Partn
 4. W polu Opis podaj następujące informacje:
 
     - Identyfikator GUID dzierżawy klienta lub nazwa domeny
-    
     - Identyfikator zamówienia lub subskrypcji
-    
     - Przyczyna zwrotu pieniędzy
-
     - Żądana kwota
 
 5. W polu Kontakt wprowadź swoje imię i nazwisko, adres e-mail i numer telefonu.
 
-6. Jeśli z jakiegoś powodu musisz dołączyć plik, wybierz **pozycję Dodaj pliki**. Ta czynność jest opcjonalna.
+6. Jeśli z jakiegoś powodu musisz dołączyć plik, wybierz **pozycję Dodaj pliki.** Ta czynność jest opcjonalna.
 
 7. Po zakończeniu wybierz pozycję **Prześlij.**
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Używanie Partner Center do sprzedawania subskrypcji klientów produktom platformy handlowej](sell-marketplace-products.md)
+- [Używanie Partner Center do sprzedawania klientom subskrypcji produktów na platformie handlowej](sell-marketplace-products.md)
  
 - [Przypisywanie subskrypcji platformy Azure do klientów w Partner Center](assign-azure-subscriptions.md)
