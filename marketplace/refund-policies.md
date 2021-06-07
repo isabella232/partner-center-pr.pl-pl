@@ -1,59 +1,59 @@
 ---
-title: Zasady dotyczące zwrotów Microsoft AppSource i Azure Marketplace
-description: Dowiedz się, jakie są zasady dotyczące zwrotów produktów sprzedawanych w witrynie Microsoft AppSource i witrynie Azure Marketplace
+title: Zasady zwrotu kosztów Microsoft AppSource i Azure Marketplace
+description: Dowiedz się, jakie są zasady zwrotów dla produktów sprzedawanych Microsoft AppSource i Azure Marketplace
 ms.service: marketplace-customer
 ms.topic: article
-author: anbene
+author: jeweber
 ms.author: jeweber
-ms.date: 11/20/2020
-ms.openlocfilehash: 10055b164610d5a9d0eb9da5e7240164581afbee
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 06/02/2021
+ms.openlocfilehash: 37be38030ece0b78629fe1ebbb77c41f2cbcb8fb
+ms.sourcegitcommit: 771a7fca2125a9895226a06e9f1f3988dcc561ea
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412679"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "111446859"
 ---
-# <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Zasady dotyczące zwrotów Microsoft AppSource i Azure Marketplace
+# <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Zasady zwrotu kosztów Microsoft AppSource i Azure Marketplace
 
-Zakupy w witrynie Microsoft AppSource lub witrynie Azure Marketplace mogą kwalifikować się do zwrotu pieniędzy. W tym artykule wprowadzono zasady dotyczące zwrotów.
+Zakupy w Microsoft AppSource lub Azure Marketplace mogą kwalifikować się do zwrotu kosztów. W tym artykule oprowadzono nasze zasady dotyczące zwrotów.
 
-## <a name="software-as-a-service-saas-offers"></a>Oferty oprogramowanie jako usługa (SaaS)
+## <a name="software-as-a-service-saas-offers"></a>Oferty oprogramowania jako usługi (SaaS)
 
-W przypadku planów miesięcznych możesz skorzystać z pełnego zwrotu pieniędzy, jeśli subskrypcja zostanie anulowana w ciągu jednego dnia od zakupu. W przypadku planów rocznych masz prawo do pełnego zwrotu pieniędzy w przypadku anulowania subskrypcji w ciągu 14 dni od zakupu. Zwroty nie są dostępne dla subskrypcji anulowane po powyższym okresie.
+W przypadku planów miesięcznych kwalifikujesz się do pełnego zwrotu pieniędzy, jeśli anulujesz subskrypcję w ciągu jednego dnia od zakupu. W przypadku planów co rok masz prawo do pełnego zwrotu pieniędzy, jeśli anulujesz subskrypcję w ciągu 14 dni od zakupu. Zwroty nie są dostępne dla subskrypcji anulowanych po upływie powyższych okresów.
 
-Jeśli usuniesz stanowiska z subskrypcji, kwalifikujesz się do częściowego zwrotu na podstawie pozostałej części okresu subskrypcji.
+Zwroty nie są wystawiane dla opłat zmiennych. Na przykład jeśli oferta SaaS oferuje rachunki na podstawie liczby wiadomości e-mail wysłanych z platformy poczty e-mail.
 
 ## <a name="office-add-ins"></a>Dodatki pakietu Office
 
-Jeśli kupisz dodatek dla pakietu Office, kwalifikujesz się do pełnego zwrotu, jeśli subskrypcja zostanie anulowana w ciągu jednego dnia od zakupu lub odnowienia.  Jeśli anulujesz subskrypcję po upływie jednego dnia od zakupu, kwalifikujesz się do częściowego zwrotu na podstawie pozostałej części oferty.  Jeśli zmodyfikujesz subskrypcję, możesz kwalifikować się do częściowego zwrotu na podstawie pozostałej części okresu subskrypcji.
+Jeśli zakupisz dodatek dla pakietu Office, będziesz kwalifikować się do pełnego zwrotu kosztów, jeśli anulujesz subskrypcję w ciągu jednego dnia od zakupu lub odnowienia. Jeśli anulujesz subskrypcję po jednym dniu od zakupu, kwalifikujesz się do częściowego zwrotu na podstawie pozostałej części oferty. Jeśli zmodyfikujesz subskrypcję, możesz kwalifikować się do częściowego zwrotu na podstawie pozostałej części okresu subskrypcji.
 
 ## <a name="azure-developer-services"></a>Usługi dla deweloperów platformy Azure
 
-W przypadku obniżenia poziomu usług dla deweloperów możesz skorzystać ze częściowej zwrotu pieniędzy na podstawie pozostałej części okresu subskrypcji. Zwroty są niedostępne w przypadku anulowania subskrypcji.
+Jeśli zmniejszysz liczbę usług dla deweloperów, będziesz kwalifikować się do częściowego zwrotu na podstawie pozostałej części okresu subskrypcji. Zwroty nie są dostępne po anulowaniu subskrypcji.
 
 ## <a name="azure-managed-applications"></a>Aplikacje zarządzane na platformie Azure
 
-Aplikacje zarządzane przez platformę Azure nie są spłacane.
+Nie można zwrócić kosztów aplikacji zarządzanych platformy Azure.
 
 ## <a name="azure-reserved-instances"></a>Wystąpienia zarezerwowane platformy Azure
 
-Zasady dotyczące zwrotów dla wystąpień zarezerwowanych na platformie Azure (RI) są dostępne w ramach samoobsługowych [wymian i zwrotów za Azure Reservations](/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations).
+Zasady zwrotów dla wystąpienia zarezerwowanego platformy Azure są dostępne na stronie Samoobsługowe wymiany i [zwroty kosztów rezerwacji platformy Azure.](/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations)
 
 ## <a name="azure-support-plans"></a>Plany pomocy technicznej platformy Azure
 
-W przypadku przeniesienia lub zmodyfikowania planu pomocy technicznej platformy Azure może być uprawniony do częściowej refundacji. Kwota została zwrócona na podstawie pozostałej części okresu subskrypcji.
+W przypadku przeniesienia lub zmodyfikowania planu pomocy technicznej platformy Azure możesz kwalifikować się do częściowego zwrotu kosztów. Zwrócona kwota jest oparta na pozostałej części okresu subskrypcji.
 
 ## <a name="azure-databricks"></a>Azure Databricks
 
-W przypadku usunięcia Azure Databricks elementu zawartości użytkownik jest uprawniony do częściowej refundacji na podstawie podanych jednostek pozostałego okresu. Aby dowiedzieć się więcej na temat Azure Databricks, zobacz [dokumentację dotyczącą Azure Databricks](/azure/databricks).
+Jeśli usuniesz zasób Azure Databricks, kwalifikujesz się do częściowego zwrotu na podstawie pozostałych określonych jednostek okresu. Aby dowiedzieć się więcej na temat Azure Databricks, zobacz [Azure Databricks dokumentacji](/azure/databricks).
 
 ## <a name="monetary-commitment"></a>Zobowiązanie pieniężne
 
-W przypadku anulowania zobowiązania do użycia pieniężnego, które zostało opłacone z góry, użytkownik jest uprawniony do częściowego zwrotu na podstawie pozostałej części okresu zobowiązania.
+Jeśli anulujesz zobowiązanie pieniężne za zużycie zapłacone z góry, kwalifikujesz się do częściowego zwrotu na podstawie pozostałej części okresu zobowiązania.
 
 > [!NOTE]
-> Zobowiązania pieniężnego nie można używać do zakupów w witrynie Microsoft AppSource lub witrynie Azure Marketplace.
+> Zobowiązania pieniężnego nie można używać do zakupów w Microsoft AppSource lub Azure Marketplace.
 
-## <a name="microsoft-azure-consumption-commitment-macc"></a>Microsoft Azure zaangażowanie w użycie (MACC)
+## <a name="microsoft-azure-consumption-commitment-macc"></a>Microsoft Azure zużycie (MACC)
 
-Program Microsoft Azuree zaangażowanie w użycie (MACC) nie ma dedykowanych zasad dotyczących zwrotów. Produkty zakupione w ramach umowy MACC są zgodne z zasadami opisanymi w tym artykule.
+Program Microsoft Azure zużycie (MACC) nie ma dedykowanych zasad zwrotu pieniędzy. Produkty zakupione w ramach umowy MACC są zgodne z zasadami opisanymi w tym artykule.
