@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 85946f44e1265ad5012faf9d782609904100c80e
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 3264c793dfb2e8592cd059cd84d5bb08769abbcf
+ms.sourcegitcommit: c8d1bcf54cdcdc3f827f9210c8abddab02a686fe
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146259"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "112073802"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Pola pliku uzgodnień zakupu dla programu CSP
 
@@ -30,12 +30,12 @@ Aby uzyskać więcej informacji na temat plików uzgodnień, zobacz [Używanie p
 | CustomerId | Unikatowy identyfikator firmy Microsoft dla klienta w formacie identyfikatora GUID. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
 | CustomerName | Nazwa organizacji klienta zgłoszona w Partner Center. Ta kolumna jest ważna w przypadku uzgadniania faktury z informacjami o systemie. | *Johnny Modern Cust DE2* |
 | CustomerDomainName | Nazwa domeny klienta. | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | Kraj, w którym znajduje się Klient. Zobacz pełną [listę krajów dla](./regional-authorization-overview.md) Twojego regionu.  | *DE* |
+| CustomerCountry | Kraj, w którym znajduje się klient. Zobacz pełną [listę krajów dla](./regional-authorization-overview.md) Twojego regionu.  | *DE* |
 | InvoiceNumber | Numer faktury skojarzony z plikiem uzgodnień.  | *G002297372* |
-| MpnId | Identyfikator MPN partnera CSP. Aby uzyskać więcej informacji, [zobacz, jak elementować według partnera](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *6034453* |
+| MpnId | Identyfikator MPN partnera CSP. Aby uzyskać więcej informacji, zobacz [jak elementować według partnera](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *6034453* |
 | ResellerMpnId | Identyfikator MPN odsprzedawcy rekordu dla subskrypcji. | *6048879* |
-| OrderId (Identyfikator zamówienia) | Unikatowy identyfikator zamówienia na platformie rozliczeniowej firmy Microsoft. Może być przydatna do zidentyfikowania zamówienia podczas kontaktowania się z pomocą techniczną. Nie służy do uzgadniania. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
-| OrderDate (Data zamówienia) | Data w utc, w przypadku gdy zamówienie zostało złożone. | *10/3/2020* |
+| OrderId (Identyfikator zamówienia) | Unikatowy identyfikator zamówienia na platformie rozliczeniowej firmy Microsoft. Może być przydatna do zidentyfikowania zamówienia podczas kontaktowania się z pomocą techniczną. Nie są używane do uzgadniania. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
+| OrderDate (Data zamówienia) | Data w czasie UTC, w przypadku gdy zamówienie zostało złożone. | *10/3/2020* |
 | ProductId | Unikatowy identyfikator produktu. | *DZH318Z0BNZ5* |
 | SkuId | Unikatowy identyfikator jednostki SKU. | *006G* |
 | AvailabilityId | Unikatowy identyfikator dostępności. | *DZH318Z08B80* |
@@ -52,7 +52,7 @@ Aby uzyskać więcej informacji na temat plików uzgodnień, zobacz [Używanie p
 | PublisherName | Wydawca produktu.  | *Microsoft* |
 | PublisherId | Unikatowy identyfikator używany Partner Center do identyfikowania wydawcy. | *NA* |
 | SubscriptionDescription | Nazwa oferty usługi zakupionej przez klienta, zgodnie z definicją w cenniku. Ta kolumna jest identycznym polem co OfferName. | *Plan platformy Azure* |
-| SubscriptionId | Unikatowy identyfikator subskrypcji na platformie rozliczeniowej firmy Microsoft. Nie są używane do uzgadniania. Należy pamiętać, że ten identyfikator nie jest taki sam jak identyfikator subskrypcji w konsoli administracyjnej partnera. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
+| SubscriptionId | Unikatowy identyfikator subskrypcji na platformie rozliczeniowej firmy Microsoft. Nie jest używana do uzgadniania. Należy pamiętać, że ten identyfikator nie jest taki sam jak identyfikator subskrypcji w konsoli administracyjnej partnera. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
 | ChargeStartDate | Data rozpoczęcia okresu rozliczeniowego subskrypcji. | *9/1/2020* |
 | ChargeEndDate | Data zakończenia okresu rozliczeniowego subskrypcji. | *2020-09-30* |
 | TermAndBillingCycle | Zobowiązanie czasu trwania do kontynuowania subskrypcji w momencie zakupu. | *Dane przechowywane (GB/miesiąc)* |
@@ -64,12 +64,22 @@ Aby uzyskać więcej informacji na temat plików uzgodnień, zobacz [Używanie p
 | PricingCurrency | Waluta w cenniku. | *USD* |
 | PCToBCExchangeRate | Kurs wymiany stosowany dla waluty cennika na walutę rozliczeniową. | *0.846202666* |
 | PCToBCExchangeRateDate | Data, w której jest określana waluta cenowa waluty rozliczeniowej. | *2020-09-30* |
-| MeterDescription (Deskryptor miernika) | Opis miernika.  | *Tabele — przechowywane dane LRS (GB/miesiąc)* |
+| MeterDescription (Opis miernika) | Opis miernika.  | *Tabele — dane LRS przechowywane (GB/miesiąc)* |
 | ReservationOrderId | Identyfikator zamówienia rezerwacji. | *E21A6344E398FFC1C4D7...* |
 | CreditReasonCode | Opis środków. | *Środków na korzystanie z platformy Azure* |
+| SubscriptionStartDate | Data zakupu subskrypcji. | *5/1/2021* |
+| SubscriptionEndDate | Data wygaśnięcia subskrypcji. | *4/30/2022* |
+| ReferenceID | Połączenie ze wszystkimi transakcjami, które występują podczas uaktualniania. | *025d68a6-1bd6-42ab-9636-15e8d776a30e* |
+| ProductQualifiers | Identyfikator, który będzie znał zakupy dodatku lub wersji próbnej. | *["Dodatek"]* |
+| PromotionID | Identyfikator używany do pobierania informacji o promocji. | *78bcf906-b945-4210-8818-cfb93caf12a1* |
 
 >[!NOTE]
->Możesz uzgodnić zużycie platformy Azure w pliku rekonescji zakupu w ramach jednego zakupu. W tym celu przejdź do pliku rekonescji dziennego użycia ocenianego codziennie i wyszukaj swój subscriptionID. Spowoduje to wyświetlenie wszystkich kosztów skojarzonych z Twoim identyfikatorem planu platformy Azure. Twój azure subscriptionID jest wyświetlany jako EntitlementID.
+>Możesz uzgodnić zużycie platformy Azure w pliku ponownego zakupu w ramach jednego zakupu. W tym celu przejdź do pliku z rekonescją dziennego użycia i wyszukaj swój subscriptionID. Spowoduje to wyświetlenie wszystkich kosztów skojarzonych z identyfikatorem planu platformy Azure. Twoja subskrypcja platformy Azure jest wyświetlana jako entitlementID.
+>
+
+## <a name="how-to-connect-the-base-subscription-with-the-upgraded-subscription"></a>Jak połączyć podstawową subskrypcję z uaktualnioną subskrypcją?
+
+Należy użyć identyfikatora subskrypcji produktu podstawowego, aby znaleźć odpowiednie identyfikatory referencyjne i użyć ich do pobrania wszystkich skojarzonych transakcji. W połączeniu z identyfikatorem subskrypcji i identyfikatorem odwołania można połączyć wszystkie uaktualnienia, które wystąpiły w jednym zdarzeniu.
 
 ## <a name="next-steps"></a>Następne kroki
 
