@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0d9224e9d86c540cc463538acc435f682cdc2d58
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: cd302a7b4839b98cdd96fda38b381d9282b00620
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146854"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112275995"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Raport użycia platformy Azure dostępny na pulpicie nawigacyjnym Partner Center Insights
 
@@ -36,7 +36,7 @@ Sekcja podsumowania zawiera widok migawki kluczowych wskaźników wydajności (K
 - Subskrypcje platformy Azure: bieżąca liczba subskrypcji klientów platformy Azure sprzedanych lub zarządzanych przez Ciebie.
 Procentowy wzrost lub spadek liczby tych subskrypcji platformy Azure w wybranym zakresie dat.
 
-Wykres Micro przedstawia trend liczby subskrypcji platformy Azure z miesiąca na miesiąc dla wybranego zakresu dat.
+Wykres Mikro przedstawia trend liczby subskrypcji platformy Azure z miesiąca na miesiąc dla wybranego zakresu dat.
 - Aktywne subskrypcje platformy Azure: bieżąca liczba sprzedanych lub zarządzanych przez Ciebie subskrypcji platformy Azure, które były aktywne w ciągu ostatnich 30 dni.
 Procentowy wzrost lub spadek liczby tych subskrypcji w wybranym zakresie dat.
 
@@ -51,7 +51,7 @@ Wykres Micro przedstawia miesięczny trend ACR US$ przypisany do Ciebie w wybran
 > [!NOTE]
  > przychód z wykorzystania platformy Azure (ACR) będą widoczne tylko dla użytkowników, którym przypisano rolę osoby przeglądowej raportu wykonawczego.
 
-:::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Podsumowanie użycia platformy Azure":::
+:::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Podsumowanie użycia platformy Azure.":::
 
 ## <a name="azure-usage-by-geography"></a>Użycie platformy Azure według lokalizacji geograficznej
 
@@ -61,7 +61,7 @@ Tabela **Liczba krajów/regionów** przedstawia łączną liczbę krajów/region
 
 Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapie. Wybierz opcję **Strona** główna na mapie, aby przywrócić oryginalny widok.
 
-:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Użycie platformy Azure według lokalizacji geograficznej":::
+:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Użycie platformy Azure według lokalizacji geograficznej.":::
 
 ## <a name="azure-utilization"></a>Wykorzystanie platformy Azure
 
@@ -69,7 +69,7 @@ Ten widok przedstawia trendy przychodów lub godzin użycia platformy Azure z mi
 
 Wykres słupkowy przedstawia trend miesięcznych przychodów/godzin użycia. Wykres liniowy przedstawia trend wzrostu w porównaniu z poprzednim miesiącem dla wybranych kategorii poziomu usług/mierników platformy Azure.
 
-:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Wykorzystanie użycia platformy Azure":::
+:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Wykorzystanie użycia platformy Azure.":::
 
 ## <a name="next-steps"></a>Następne kroki
 

@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e48e137de3fc9b3084729e5095223229b87c289
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 85a6a43a1e28a7a6917361dc1fc74cc3d5e8d502
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152396"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276573"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Znajdowanie korzyści programu Microsoft Partner Network 
 
@@ -36,14 +36,14 @@ Jako Microsoft Partner Network twoja firma ma dostęp do wielu korzyści, które
    - [Produkty usługi Azure & Cloud](mpn-benefits-azure-cloud.md)
    - [Produkty oprogramowania](mpn-benefits-software.md)
    - [Subskrypcje programu Visual Studio](mpn-benefits-visual-studio.md)
-   - Korzyści techniczne — [korzyści z pomocy technicznej (identyfikator dostępu i identyfikator kontraktu)](mpn-benefits-technical-support.md) lub usługi [przedsprzedazy technicznej i wdrażania (TPD)](technical-benefits.md)
+   - Korzyści techniczne — korzyści z pomocy technicznej (identyfikator dostępu i [identyfikator kontraktu)](mpn-benefits-technical-support.md) lub [usługi przedsprzedadzeń i wdrażania (TPD)](technical-benefits.md)
    - [Przejdź na rynek](mpn-learn-about-go-to-market-benefits.md)
    - [Program Marketplace Rewards](marketplace-rewards.md)
    - [Konstruktor logo](mpn-logo-builder.md)
 
 3. Rozwijając (+ ) korzyść, znajdziesz dodatkowe informacje, które pomogą Ci aktywować określoną korzyść.
 
-   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="Rozszerzone korzyści":::
+   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="Rozszerzone korzyści.":::
 
    > [!NOTE]
    > Aby aktywować korzyści, musisz mieć przypisaną rolę administratora globalnego lub administratora partnera MPN w Partner Center. Wszyscy inni użytkownicy w firmie powinni jednak mieć możliwość wyświetlania szczegółów korzyści w Partner Center, takich jak identyfikatory pomocy technicznej produktu. Aby uzyskać więcej informacji na temat Partner Center ról, zobacz [Przypisywanie ról i](permissions-overview.md)uprawnień użytkownika w Partner Center .

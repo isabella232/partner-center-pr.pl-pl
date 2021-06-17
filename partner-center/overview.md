@@ -4,46 +4,46 @@ ms.topic: overview
 ms.date: 12/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Use Partner Center to transact business with Microsoft and your customers (Korzystanie z Partner Center do transakcji biznesowych z firmą Microsoft i klientami)
+description: Używanie Partner Center do prowadzenia transakcji biznesowych z firmą Microsoft i klientami
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 7d476404bbfdb5814f325b7fdafd34d44780fb66
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: dc34044753b540545086113e356e194c3c99138a
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151121"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277661"
 ---
 # <a name="what-is-partner-center"></a>Co to jest Centrum partnerskie?
 
 **Odpowiednie role:** Wszyscy partnerzy zainteresowani Partner Center
 
-[Partner Center](https://partner.microsoft.com/dashboard/home) usprawnia kilka procesów biznesowych, aby ułatwić partnerom firmy Microsoft zarządzanie relacjami z firmą Microsoft i ich klientami. Partner Center łatwy dostęp do narzędzi potrzebnych do pracy. Użyj Partner Center, aby:
+[Partner Center](https://partner.microsoft.com/dashboard/home) usprawnia kilka procesów biznesowych, aby ułatwić partnerom firmy Microsoft zarządzanie relacjami z firmą Microsoft i ich klientami. Partner Center umożliwia łatwy dostęp do narzędzi potrzebnych do pracy. Użyj Partner Center, aby:
 
-- Zarządzanie swoimi konto Microsoft i użytkownikami
-- Angażowanie klientów
+- Zarządzanie użytkownikami konto Microsoft użytkownikami
+- Kontaktowanie się z klientami
 - Tworzenie relacji z innymi partnerami
 - Rejestrowanie w programach zachęt
 - Zarządzanie członkostwem w Microsoft Partner Network
 - Zarządzanie subskrypcjami klientów
 - Naliczanie rachunku i uzyskiwanie płatności
 - Kontakt z pomocą techniczną
-- Publikowanie lub eksplorowanie ofert na platformie handlowej firmy [Microsoft](/azure/marketplace)— katalogu tysięcy dostępnych dla klientów usług i aplikacji, które są budowaną i dostarczaną przez naszych niezależnych partnerów w zakresie oprogramowania.
+- Publikowanie lub eksplorowanie ofert na platformie handlowej firmy [Microsoft](/azure/marketplace)— wykaz tysięcy usług i aplikacji dostępnych dla klientów, które zostały sbudowaną i dostarczaną przez naszych niezależnych partnerów w zakresie oprogramowania.
 
-:::image type="content" source="images/home.png" alt-text="Partner Center omówienie":::
+:::image type="content" source="images/home.png" alt-text="Partner Center omówienie.":::
 
 ## <a name="manage-your-account"></a>Zarządzanie kontem
 
-Niezależnie od tego, czy jesteś partnerem w programie Dostawca rozwiązań w chmurze, czy partnerem deweloperów sprzedajem Twoje aplikacje, możesz zarządzać kontem usługi Partner Center z jednej lokalizacji ustawień konta: pulpitu nawigacyjnego Partner Center [nawigacyjnego](https://partner.microsoft.com/dashboard/home). W tym miejscu można modyfikować informacje prawne, szczegóły podatkowe, dzierżawy, lokalizacje biznesowe, użytkowników i uprawnienia oraz określone programy, w których firma jest zarejestrowane.
+Niezależnie od tego, czy jesteś partnerem w programie Dostawca rozwiązań w chmurze, czy partnerem deweloperów sprzedażowym Twoich aplikacji, zarządzasz kontem usługi Partner Center z jednej lokalizacji ustawień konta: pulpitu nawigacyjnego [Partner Center.](https://partner.microsoft.com/dashboard/home) W tym miejscu można modyfikować informacje prawne, szczegóły podatkowe, dzierżawy, lokalizacje biznesowe, użytkowników i uprawnienia oraz określone programy, w których firma jest zarejestrowane.
 
-To, co można zobaczyć i zarządzać w Partner Center zależy od Twojej roli i uprawnień. Aby dowiedzieć się [więcej, zobacz Roles and permissions (Role i uprawnienia).](permissions-overview.md)
+To, co można zobaczyć i zarządzać w Partner Center zależy od Twojej roli i uprawnień. Aby dowiedzieć się [więcej, zobacz Role i uprawnienia](permissions-overview.md).
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Menu Ustawienia.":::
 
 ## <a name="membership-programs"></a>Programy członkostwa
 
-W ramach Partner Center można kupić usługę Microsoft Action Pack, która udostępnia oprogramowanie i narzędzia firmy Microsoft do rozwijania wiedzy, na przykład rozwijanie umiejętności w zakresie zdobywania kompetencji i zdobywania zaawansowanych specjalizacji. Korzyści zawarte w tych programach pomagają tworzyć rozwiązania i wchodzić na rynek; przeglądać je i zarządzać nimi w Partner Center. [Porównaj Microsoft Partner Network członkostwa w programie](https://partner.microsoft.com/membership/compare-offers).
+W Partner Center można kupić usługę Microsoft Action Pack, która udostępnia oprogramowanie i narzędzia firmy Microsoft do rozwijania wiedzy, na przykład rozwijanie umiejętności w zakresie zdobywania kompetencji i zdobywania zaawansowanych specjalizacji. Korzyści zawarte w tych programach pomagają tworzyć rozwiązania i wchodzić na rynek; przeglądać je i zarządzać nimi w Partner Center. [Porównaj Microsoft Partner Network członkostwa w programie](https://partner.microsoft.com/membership/compare-offers).
 
 ## <a name="connect-with-customers"></a>Nawiązywanie relacji z klientami
 
@@ -68,7 +68,7 @@ Uzyskaj dostęp do kilku różnych typów raportów danych z pulpitu Partner Cen
 - Wskaźniki wkładu partnerów (PCI) pokazują wpływ partnera na siedem kluczowych miar sukcesu klientów
 - Raporty danych usługi Partner Insights identyfikują wysoką sprzedaż, pomagają dowiedzieć się, którzy klienci wdrożyli swoje subskrypcje lub potrzebują pomocy technicznej, oraz pokazują, jak dobrze twoje produkty się sprzedaje.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Określanie, gdzie znajdują się twoje licencje":::
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Określ, gdzie znajdują się Twoje licencje.":::
 
 ## <a name="next-steps"></a>Następne kroki
 

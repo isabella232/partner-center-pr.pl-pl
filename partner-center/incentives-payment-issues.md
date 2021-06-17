@@ -8,18 +8,18 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b67564fbf469ac23ad514d96c3ec7b27bb3a5e6
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: ad71a6e02d6472ae844c504491e5acb05d5d6426
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151954"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277865"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Rozwiązywanie problemów z brakującymi płatnościami, nieprawidłowymi zarobkami i innymi problemami
 
 **Odpowiednie role:** Administrator zachęt
 
-Ten artykuł pomoże Ci rozwiązać wszelkie problemy z zarobkami lub płatnościami w programie zachęt. Uwzględnione tematy obejmują terminy płatności, sprawdzanie kwalifikowalności zarobków oraz znaczenie prawidłowego skonfigurowania profilów wypłat i profilów podatkowych.
+Ten artykuł pomoże Ci rozwiązać wszelkie problemy z zarobkami lub płatnościami w programie zachęt. Uwzględnione tematy obejmują terminy płatności, sprawdzanie uprawnień do zarobków oraz znaczenie prawidłowego konfigurowania profilów wypłat i profilów podatkowych.
 
 ## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>Kto może tworzyć lub aktualizować profile wypłaty i profile podatkowe dla mojej organizacji?
 
@@ -75,16 +75,16 @@ Możesz zlokalizować i uzgodnić korekty, pobierając szczegóły zarobków i t
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 2. Na górnym pasku nawigacyjnym wybierz ikonę pieniędzy, a następnie wybierz **pozycję Historia transakcji.**
 3. Zastosuj odpowiednie filtry. (Patrz **ważna uwaga** poniżej).
-4. Po przefiltreniu danych wybierz pozycję **Rozpocznij pobieranie,** a następnie wybierz **pozycję Eksportuj dane.** Dane zostaną otwarte w pliku CSV.
+4. Po przefiltreniu danych wybierz pozycję **Rozpocznij pobieranie,** a następnie wybierz pozycję **Eksportuj dane.** Dane zostaną otwarte w pliku CSV.
 5. W pliku CSV przejdź do kolumny P, **typ zarobków**.
 6. Przefiltruj tę kolumnę pod **tematem Korekta i korekta.** Miesiąc każdej korekty można zobaczyć w kolumnie S.
 
 >[!IMPORTANT]
 >Korekty zastosowane do poprzednich okresów zarobków nie będą widoczne w zarobkach za miesiąc, w którym zastosowano korektę. Korekty będą zawsze odzwierciedlane w raporcie zarobków za miesiąc, do których zastosowano korektę.
 >
->Na przykład korekta zarobków ze stycznia 2019 r., która została przetworzona we wrześniu 2019 r., nie będzie uwzględniana w wysokości zarobków z września 2019 r. Jednak po otrzymaniu płatności za wrzesień 2019 r. będzie ona obejmować korektę za styczeń 2019 r., która została zastosowana we wrześniu. W tym scenariuszu należy pobrać szczegóły transakcji ze stycznia 2019 r., aby zobaczyć zastosowane korekty.
+>Na przykład korekta zarobków ze stycznia 2019 r., która została przetworzona we wrześniu 2019 r., nie zostanie odzwierciedlone w wysokości zarobków z września 2019 r. Jednak po otrzymaniu płatności za wrzesień 2019 r. będzie ona zawierać korektę za styczeń 2019 r., która została zastosowana we wrześniu. W tym scenariuszu należy pobrać szczegóły transakcji ze stycznia 2019 r., aby zobaczyć zastosowane korekty.
 >
->Należy o tym pamiętać podczas ustawienia filtrów dat. Jak wspomniano powyżej, korekty dla poprzednich okresów będą widoczne tylko w miesiącu, w którym zastosowano korektę. Sprawdź dokładnie, czy wybrany zakres dat odpowiada miesiącowi korekty, która ma być zlokalizowana. Może być konieczne wybranie opcji **Wyczyść wszystko,** aby usunąć filtry, a następnie zastosowanie nowych.
+>Należy o tym pamiętać podczas ustawienia filtrów dat. Jak wspomniano powyżej, korekty dla poprzednich okresów będą widoczne tylko w miesiącu, w którym zastosowano korektę. Sprawdź dokładnie, czy wybrany zakres dat odpowiada miesiącowi korekty, który próbujesz zlokalizować. Może być konieczne wybranie opcji **Wyczyść wszystko,** aby usunąć filtry, a następnie zastosowanie nowych.
 
 ## <a name="why-are-my-co-op-claim-payments-made-in-two-different-currencies"></a>Dlaczego moje płatności związane z roszczeniami dotyczącymi współpracy są realizowane w dwóch różnych walutach?
 
@@ -102,7 +102,7 @@ Jeśli nie widzisz zarobków w okresie, w którym są one oczekiwane, zwykle jes
 
 - **Twój profil płatności może być niekompletny.**  Data rozpoczęcia zarobków w ramach zachęty to pierwszy dzień miesiąca, w którym zostały spełnione wszystkie wymagania dotyczące kwalifikowalności, w tym dołączenia ze szczegółowymi informacjami podatkowymi i dotyczącymi wypłat. Zarobki nie będą dostępne dla miesięcy poprzedzających uzupełnienie wypłat i podatków. Jeśli na przykład spełnisz wszystkie wymagania w ciągu miesiąca kwietnia 2020 r., datą rozpoczęcia zarobków będzie 1 kwietnia 2020 r.
 
-Jeśli wymagania dotyczące uprawnień, w tym dołączanie ze szczegółami wypłat i podatków na czas, a zarobki nadal nie istnieją, skontaktuj się z pomocą [techniczną](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Jeśli wymagania dotyczące uprawnień, w tym dołączanie ze szczegółami wypłaty i podatków na czas, a zarobki nadal są brakujące, skontaktuj się z pomocą [techniczną.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
 
 ## <a name="my-earnings-are-missing-or-incorrect"></a>Brakuje moich zarobków lub są one nieprawidłowe
 
@@ -110,25 +110,25 @@ Brakujące lub niepoprawne zarobki mogą być spowodowane przez jeden z następu
 
 - **Być może nie spełniono wymagań.**  Sprawdź, czy zostały spełnione zasady [kwalifikowalności](#my-payment-is-missing-or-incorrect) i reguły kwalifikowalnych przychodów dla zachęty, która Cię interesuje.
 
-- **Być może występuje rozbieżność.**  Jeśli spełniasz [wymagania](incentives-determined-your-program-eligibility.md) dotyczące [](incentives-confirm-your-earnings-eligibility.md) uprawnień do programu i zarobków, a Twoje zarobki nadal wydają się być nieprawidłowe, poniższe informacje mogą pomóc w pobraniu danych.
+- **Być może występuje rozbieżność.**  Jeśli spełniasz wymagania [dotyczące](incentives-determined-your-program-eligibility.md) [](incentives-confirm-your-earnings-eligibility.md) uprawnień do programu i zarobków, a Twoje zarobki nadal wydają się nieprawidłowe, poniższe informacje mogą pomóc w pobraniu danych.
 
-Zarobki są wyświetlane zarówno **na stronie Historia transakcji,** jak i **na stronie** Płatności. Dostęp do obu stron można uzyskać, wybierając **ikonę Wypłaty** na pasku nawigacyjnym Partner Center.
+Zarobki są wyświetlane zarówno **na stronie Historia transakcji,** jak i **na stronie Płatności.** Dostęp do obu stron można uzyskać, wybierając **ikonę Wypłata** na pasku nawigacyjnym Partner Center.
 
-:::image type="content" source="images/incentives/paymenticon.png" alt-text="Informacje o transakcji":::
+:::image type="content" source="images/incentives/paymenticon.png" alt-text="Informacje o transakcji.":::
 
-Miesięczne kwoty zarobków w widoku Historia transakcji mogą nie być zgodne z kwotą płatności otrzymaną w określonym miesiącu. Wynika to z ponownych obliczeń i korekt dla poprzednich okresów zarobków, które są stosowane do przyszłych płatności.
+Miesięczne kwoty zarobków w widoku Historia transakcji mogą nie być zgodne z kwotą płatności otrzymaną w określonym miesiącu. Jest to spowodowane ponownym obliczaniem i korektami dla poprzednich okresów zarobków, które są stosowane do przyszłych płatności.
 
-Na przykład korekta zarobków ze stycznia 2019 r., która została przetworzona we wrześniu 2019 r., nie zostanie odzwierciedlona w kwotę zarobków za wrzesień 2019 r.; Jednak po otrzymaniu płatności za wrzesień 2019 r. będzie ona obejmować korektę za styczeń 2019 r., która została zastosowana we wrześniu.
+Na przykład korekta zarobków ze stycznia 2019 r., która została przetworzona we wrześniu 2019 r., nie zostanie odzwierciedlona w wysokości zarobków za wrzesień 2019 r.; Jednak po otrzymaniu płatności za wrzesień 2019 r. uwzględni ona korektę za styczeń 2019 r., która została zastosowana we wrześniu.
 
 W tym scenariuszu należy pobrać szczegóły transakcji, aby uzyskać pełny widok wszystkich zarobków uwzględnionych w płatności.  Ponadto możesz przejść do widoku Płatności, aby pobrać transakcje dla każdej płatności.
 
 ### <a name="transaction-history"></a>Historia transakcji
 
-Ten widok przedstawia trendy zarobków i płatności według miesiąca, zarobków według stanu i szczegółów transakcji wraz ze stanem płatności dla każdej transakcji. Dane są widoczne tylko dla programów i identyfikatorów MPN, dla których jesteś administratorem lub użytkownikiem zachęty.
+Ten widok przedstawia trendy zarobków i płatności według miesiąca, zarobków według stanu i szczegółów transakcji wraz ze stanem płatności dla każdej transakcji. Dane są widoczne tylko dla programów i identyfikatorów MPN, dla których jesteś użytkownikiem zachęty lub administratorem.
 
 ### <a name="payments"></a>Płatności
 
-Ten widok umożliwia wyświetlanie płatności dla wszystkich programów i identyfikatorów MPN. Dane są widoczne tylko dla programów i identyfikatorów MPN, dla których jesteś administratorem lub użytkownikiem zachęty. Z tego widoku możesz pobrać przelew lub wyświetlić szczegóły transakcji według płatności.
+Ten widok umożliwia wyświetlanie płatności dla wszystkich programów i identyfikatorów MPN. Dane są widoczne tylko dla programów i identyfikatorów MPN, dla których jesteś użytkownikiem zachęty lub administratorem. Z tego widoku możesz pobrać przelew lub wyświetlić szczegóły transakcji według płatności.
 
 | Wymagana czynność | Przejdź tutaj |
 | ------ | :----------- | 
@@ -141,7 +141,7 @@ Ten widok umożliwia wyświetlanie płatności dla wszystkich programów i ident
 
 Jeśli nie możesz zlokalizować szczegółów płatności lub transakcji, sprawdź, czy zastosowano poprawne filtry. Ponieważ niektóre nazwy programów uległy zmianie (na przykład program CSP 1T Direct Partner jest teraz CSP Direct Bill Partner), może być konieczne użycie wielu opcji.
 
-Jeśli nadal nie możesz znaleźć swoich zarobków lub uważasz, że pokazane zarobki są nieprawidłowe, skontaktuj się z pomocą [techniczną.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
+Jeśli nadal nie możesz znaleźć swoich zarobków lub uważasz, że pokazane zarobki są nieprawidłowe, skontaktuj się z pomocą [techniczną](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="how-do-i-reconcile-my-earnings"></a>Jak mogę uzgodnić moje zarobki?
 
@@ -151,13 +151,13 @@ Jeśli w zarobkach występują rozbieżności, wykonaj następujące czynności:
 
 2. **Potwierdź, że Twój profil płatności został wypełniony.**  Data rozpoczęcia zarobków w ramach zachęty to pierwszy dzień miesiąca, w którym zostały spełnione wszystkie wymagania dotyczące kwalifikowalności, w tym dołączenia ze szczegółowymi informacjami podatkowymi i dotyczącymi wypłat. Zarobki nie będą dostępne dla miesięcy poprzedzających uzupełnienie wypłat i podatków. Jeśli na przykład spełnisz wszystkie wymagania w ciągu miesiąca kwietnia 2020 r., datą rozpoczęcia zarobków będzie 1 kwietnia 2020 r. 
 
-3. **Potwierdź, że spełniasz wymagania.**  Sprawdź, czy zostały spełnione [](#my-payment-is-missing-or-incorrect) reguły kwalifikowalności i kwalifikowalnych przychodów dla programu zachęt.
+3. **Potwierdź, że spełniasz wymagania.**  Sprawdź, czy zostały spełnione wymagania [dotyczące](#my-payment-is-missing-or-incorrect) kwalifikowalności i reguł kwalifikowalnych przychodów dla programu zachęt.
 
-Jeśli te działania nie pomogą, a Twoje zarobki nadal nie zostaną uzgodnione, skontaktuj się z [pomocą techniczną.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
+Jeśli te akcje nie pomogą, a Twoje zarobki nadal nie zostały uzgodnione, skontaktuj się z [pomocą techniczną](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="where-can-i-find-my-rates"></a>Gdzie mogę znaleźć moje stawki?
 
-1. Zaloguj się [do zachęt partnerów.](https://partner.microsoft.com/membership/partner-incentives)
+1. Zaloguj się [do programu zachęt dla partnerów.](https://partner.microsoft.com/membership/partner-incentives)
 
 2. Przewiń w dół, aby uzyskać dostęp do dokumentów programu.
 

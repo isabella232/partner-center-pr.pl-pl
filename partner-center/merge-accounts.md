@@ -8,12 +8,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 8c47204d54cf05113eae73cede4afedf106ac121
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: bcef4c771d748b0e2fbeae8cf1daaf41d7f53b43
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146514"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276641"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Merge your partner account with another partner account (Scalanie konta partnera z kontem innego partnera)
 
@@ -25,45 +25,45 @@ Co najmniej dwie firmy, które są aktywnymi partnerami firmy Microsoft i mają 
 
 - Organizacja partnerska, która inicjuje scalanie, będzie kontem globalnym partnera (PGA).
 
-- Zaproszona organizacja PGA staje się lokalizacją inicjatora firmy.
+- Pga organizacji zapraszana staje się lokalizacją firmy inicjatora.
 
-- Wszystkie lokalizacje scalanych kont stają się lokalizacjami w ramach konta PGA.
+- Wszystkie lokalizacje scalanych kont stają się lokalizacjami w ramach pga.
 
-- Po zakończeniu łączenia kont zobaczysz szczegóły konta, takie jak lokalizacje i użytkownicy w profilu PGA. Nie można cofnąć tego procesu.
+- Po zakończeniu koncentracji konta zobaczysz szczegóły konta, takie jak lokalizacje i użytkownicy w profilu PGA. Nie można cofnąć tego procesu.
 
 - Wszystkie identyfikatory MPN lokalizacji są zachowywane podczas tej konsolidacji.
 
-- Role użytkownika są przejmyne. Jeśli na przykład użytkownik był administratorem zachęt dla określonej lokalizacji, nadal będzie miał tę rolę po zakończeniu koncentracji i będzie mógł zobaczyć zachęty, które zobaczyli przed rozpoczęciem koncentracji.
+- Zostaną przeniesiene role użytkownika. Jeśli na przykład użytkownik był administratorem zachęt dla określonej lokalizacji, nadal będzie miał tę rolę po scaleniu i będzie mógł zobaczyć zachęty, które widzi przed scaleniem.
 
 - Dzierżawy usługi Azure AD i konta CSP nie są scalane i nie mają żadnego efektu.
 
-- Opublikowane oferty i dane potoku co-sell skojarzone z obiema firmami są zachowywane
+- Opublikowane oferty i dane potoku współs sprzedaży skojarzone z obiema firmami są zachowywane
 
 ### <a name="view-of-merged-accounts"></a>Widok scalonych kont
 
-:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Łączenie kont":::
+:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Fuzja kont.":::
 
-## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>Czego można oczekiwać, jeśli zaproszono Cię do scalenia konta Partner Center z innym Partner Center kontem
+## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>Czego można oczekiwać, jeśli zaproszono Cię o scalenie konta Partner Center z innym Partner Center kontem
 
-Jeśli zdecydujesz się zaakceptować zaproszenie do scalenia kont: · Twoje identyfikatory MPN i lokalizacje zostaną scalone z kontem PGA konta partnera, które Cię zaprosiło.
+Jeśli zdecydujesz się zaakceptować zaproszenie do scalenia kont: · Twoje identyfikatory MPN i lokalizacje zostaną scalone z kontem partnera, które Cię zaprosiło.
 
-- Użytkownicy zostaną wywniosci do scalonego konta z ich rolami bez zmian.
+- Użytkownicy zostaną wprowadzeni do scalonego konta z ich rolami bez zmian.
 
-- Istniejące korzyści i kompetencje zostaną zachowane dla obu firm po zakończeniu koncentracji do czasu odnowienia. Podczas odnawiania konta będą traktowane jako jedna firma i będą stosowane standardowe reguły odnawiania.
+- Istniejące korzyści i kompetencje zostaną zachowane dla obu firm po scaleniu do czasu odnowienia. Po odnowieniu konta będą traktowane jako jedna firma i będą stosowane standardowe reguły odnawiania.
 
 ## <a name="understand-the-impacts-to-programs-and-benefits-when-partners-elect-to-merge-accounts"></a>Zrozumienie wpływu na programy i korzyści w przypadku, gdy partnerzy wybiorą scalanie kont
 
-- Wszystkie istniejące kompetencje (Gold/Silver), zakupy (takie jak microsoft Action Pack) i powiązane korzyści są zachowywane podczas konsolidacji. Jeśli obie firmy mają taką samą kompetencję, ale jedna jest złoty, a druga silver, kompetencja o najwyższym poziomie zaawansowania zostanie nadana, a partnerzy będą mieli jeden zestaw korzyści w kategorii Silver i jeden zestaw złotych korzyści dla tej kompetencji do czasu ich następnego odnowienia. 
+- Wszystkie istniejące kompetencje (Gold/Silver), zakupy (takie jak Microsoft Action Pack) i powiązane korzyści są zachowywane podczas konsolidacji. Jeśli obie firmy mają taką samą kompetencję, ale jedna jest złotą, a druga silver, kompetencja o najwyższym poziomie zaawansowania zostanie nadana, a partnerzy będą mieli jeden zestaw korzyści ze silver i jeden zestaw złotych korzyści dla tej kompetencji do czasu ich następnego odnowienia. 
 
-- Data najwyższej rocznicy dla Action Pack Microsoft zostanie zachowana po zakończeniu koncentracji. Jeśli na przykład rocznica firmy 1 to czerwiec 2020 r. w przypadku odnowienia usługi Action Pack, a data rocznicy odnowienia dla firmy Action Pack to październik 2020 r., firma Microsoft użyje daty października 2020 r. jako nowej daty rocznicy dla scalonej firmy.
+- Data najwyższej rocznicy dla Action Pack Microsoft zostanie zachowana po scaleniu. Jeśli na przykład rocznica firmy 1 to czerwiec 2020 r. w przypadku odnowienia Action Pack, a data rocznicy odnowienia dla firmy Action Pack to październik 2020 r., firma Microsoft użyje daty października 2020 r. jako nowej daty rocznicy dla scalonej firmy.
 
-- Podczas koncentracji konta i do następnego odnowienia każde konto zachowuje swoje Action Pack i/lub kompetencji. Podczas odnawiania obowiązują Action Pack odnawiania kompetencji.
+- Podczas koncentracji konta i do następnego odnowienia każde konto zachowuje swoje Action Pack i/lub kompetencje. Podczas odnawiania obowiązują Action Pack i odnawianie kompetencji.
 
-- Po odnowieniu korzyści związane z poziomem kompetencji i Action Pack są implementowane dla globalnego konta partnera firmy partnerskiej:
+- Po odnowieniu korzyści, które są objęte poziomem kompetencji i Action Pack są implementowane dla konta globalnego partnera firmy partnerskiej:
 
-  - Microsoft Action Pack: firma partnerska będzie mogła zakupić jeden pakiet Action Pack na konto globalne partnera.
+  - Microsoft Action Pack: firma partnerska będzie mogła zakupić jedną Action Pack na konto globalne partnera.
 
-  - Kompetencja: firma partnerska otrzyma jeden pakiet podstawowych korzyści skojarzonych z najwyższym poziomem wiedzy oraz korzyści specyficzne dla kompetencji, do których partner kwalifikuje się na globalne konto partnera.
+  - Kompetencja: firma partnerska otrzyma jeden pakiet podstawowych korzyści skojarzonych z najwyższym poziomem wykształcenia oraz korzyści specyficzne dla kompetencji, do których partner kwalifikuje się na konto globalne partnera.
 
 - Wszystkie korzyści podlegają przewodnikowi [użycia Microsoft Partner Network korzyści.](https://aka.ms/partner-benefits-use-guide) Na przykład: aktywowany token usługi O365 E3 działa przez 12 miesięcy po aktywacji. Po aktywowaniu tokenu dla licencji w dzierżawie te licencje nie mogą zostać przeniesione do innej dzierżawy.
 
@@ -100,27 +100,27 @@ Jeśli zdecydujesz się zaakceptować zaproszenie do scalenia kont: · Twoje ide
   
     b. dzierżawa usługi Azure AD = @contoso.com
  
-    c. gold competency, która wygasa 1 października 2020 r.
-2. Firma Fabrikam, Inc. ma
+    c. złotych kompetencji, która wygasa 1 października 2020 r.
+2. Fabrikam, Inc. ma
  
     a.  globalny identyfikator MPN 3333333 i dwa identyfikatory MPN lokalizacji podrzędnej 4444444 i 5555555
 
     b.  dzierżawa usługi Azure AD = @fabrikam.com
 
     c.  dwie złote kompetencje, które wygasną 1 grudnia 2020 r.
-3.  Firma Contoso kupuje firmę Fabrikam i przechodzi [tutaj,](https://partner.microsoft.com/dashboard/account/merger) aby zainicjować żądanie scalenia.
-4.  Firma Fabrikam Partner Center do tej samej strony, co firma Contoso w kroku #3, w celu zatwierdzenia żądania firmy Contoso.
-5.  Firma Contoso przegląda szczegóły scalania na tej samej stronie i zapewnia potwierdzenie kontynuowania scalania kont.
-6.  Po zakończeniu koncentracji konto firmowe będzie wyświetlane jako:
+3.  Firma Contoso kupuje firmę Fabrikam i przechodzi [tutaj,](https://partner.microsoft.com/dashboard/account/merger) aby zainicjować żądanie scalania.
+4.  Firma Fabrikam logowania Partner Center i przechodzi do tej samej strony, co firma Contoso w kroku #3, aby zatwierdzić żądanie firmy Contoso.
+5.  Firma Contoso przegląda szczegóły scalania na tej samej stronie i zapewnia potwierdzenie, aby kontynuować scalanie konta.
+6.  Po scaleniu konto firmowe będzie wyświetlane w następujący sposób:
 
-    a.  Firma o nazwie Contoso z globalnym identyfikatorem MPN 1111111 i 4 identyfikatorami MPN lokalizacji podrzędnej 2222222, 3333333, 4444444 i 55555555
+    a.  Firma o nazwie Contoso z globalnym identyfikatorem MPN 11111111 i 4 identyfikatorami MPN lokalizacji podrzędnej 2222222, 3333333, 4444444 i 55555555
     
     b.  Będzie ona mieć dwie dzierżawy usługi Azure AD ( + ), które mają dostęp do tego samego @contoso.com @fabrikam.com Partner Center konta
     
-    c.  Będzie on miał dwa pakiety korzyści z kompetencji: jeden, który wygasa 1 października 2020 r., i drugi, który wygasa 1 grudnia 2020 r. 1 grudnia 2020 r. będą mogli odnowić ten pakiet jako pojedynczy pakiet korzyści z kompetencji. Po odnowieniu firma Contoso zachowa wszystkie trzy kompetencje, mimo że może zachować tylko jeden pakiet korzyści.
+    c.  Będzie ona mieć dwa pakiety korzyści kompetencji: jeden, który wygasa 1 października 2020 r., i drugi, który wygasa 1 grudnia 2020 r. 1 grudnia 2020 r. będą oni mogli odnowić pakiet jako pojedynczy pakiet korzyści kompetencji. Po odnowieniu firma Contoso zachowa wszystkie trzy kompetencje, mimo że może utrzymywać tylko jeden pakiet korzyści.
     
-7.  Administratorzy firmy Contoso będą nadal zarządzać rolami Partner Center dla @contoso.com użytkowników firmy. Administratorzy firmy Fabrikam będą nadal zarządzać rolami Partner Center dla @fabrikam.com użytkowników firmy. Administratorzy firmy Contoso mogą administrować użytkownikami firmy Fabrikam tylko wtedy, gdy zostaną zaproszeni jako goście do dzierżawy firmy Fabrikam.
-8.  Firma Contoso może zignorować dzierżawę i ponownie wyedytować pracownikom firmy Fabrikam nowe poświadczenia z nowymi rolami @fabrikam.com @contoso.com i uprawnieniami.
+7.  Administratorzy firmy Contoso będą nadal zarządzać rolami Partner Center @contoso.com użytkowników. Administratorzy firmy Fabrikam będą nadal zarządzać rolami Partner Center @fabrikam.com użytkowników. Administratorzy firmy Contoso mogą administrować użytkownikami firmy Fabrikam tylko wtedy, gdy zostaną zaproszeni jako goście do dzierżawy firmy Fabrikam.
+8.  Firma Contoso może zdecydować się na zignorowanie dzierżawy i ponowne wyświadczenie pracownikom firmy Fabrikam nowych poświadczeń @fabrikam.com @contoso.com z nowymi rolami i uprawnieniami.
 
 ## <a name="next-steps"></a>Następne kroki
 
@@ -128,4 +128,4 @@ Jeśli zdecydujesz się zaakceptować zaproszenie do scalenia kont: · Twoje ide
 
 - [Weryfikowanie informacji o profilu partnera](update-your-partner-profile.md)
 
-- [Dodawanie Azure Partner Shared Services, aby partnerzy mogą kupować subskrypcje platformy Azure na własny użytek](shared-services.md)
+- [Dodaj Azure Partner Shared Services, aby partnerzy mogą kupować subskrypcje platformy Azure na własny użytek](shared-services.md)

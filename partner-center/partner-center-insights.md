@@ -9,12 +9,12 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 6661fb013b25e55785dac9156e5f3561f5b50c97
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 05fad9c7eecbc8b7f639faa24b654fb0474245ca
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151019"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277627"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Insights — pulpit nawigacyjny, który pokazuje, jak działa partner komercyjny firmy Microsoft
 
@@ -39,32 +39,32 @@ Następujące raporty są dostępne w ramach pulpitu nawigacyjnego szczegółowy
 
 **Przegląd:** Raport Przegląd przedstawia widok migawki różnych kluczowych wskaźników wydajności, takich jak liczba klientów, liczba aktywnych subskrypcji, przychód z użycia platformy Azure, aktywne licencje itp.
 
-**Klient:** Raport Klienta przedstawia analizy dotyczące klientów, takie jak dane pozyskiwania klientów, aktywni klienci itp.
+**Klient:** Raport klienta przedstawia analizy dotyczące klientów, takie jak dane pozyskiwania klientów, aktywni klienci itp.
 
-**Produkt — subskrypcje:** Raport Subskrypcje przedstawia analizę pozyskiwania i użycia dla subskrypcji w chmurze (takich jak usługi O365, Azure, Dynamics itp.)
+**Produkt — Subskrypcje:** Raport Subskrypcje przedstawia analizę pozyskiwania i użycia dla subskrypcji w chmurze (takich jak usługi O365, Azure, Dynamics itp.)
 
 **Licencje produktów:** pulpit nawigacyjny Licencje przedstawia analizę licencji dla opartych na licencjach produktów w chmurze, takich jak O365, Dynamics, Power BI itp.
 
-**Produkt — użycie platformy Azure:** Raport Użycia platformy Azure przedstawia metryki związane z subskrypcjami platformy Azure klientów, w tym przychody z użycia platformy Azure i użycie według kategorii mierników.
+**Produkt — użycie platformy Azure:** Raport Użycia platformy Azure przedstawia metryki związane z subskrypcjami platformy Azure klientów, w tym przychody użycia platformy Azure i użycie według kategorii mierników.
 
-**Kompetencje:** raport Kompetencje przedstawia metryki dotyczące kompetencji aktywnych, kwalifikowanych i zagrożonych.
+**Kompetencje:** Raport Kompetencje przedstawia metryki dotyczące kompetencji aktywnych, kwalifikowanych i zagrożonych.
 
-**Korzyści:** Raport Korzyści przedstawia analizę korzyści dla partnerów, które zostały uzyskane w porównaniu z ich wykorzystaniem.
+**Korzyści:** Raport Korzyści przedstawia analizę korzyści, które zostały uzyskane przez partnerów w porównaniu z ich wykorzystaniem.
 
 ## <a name="navigating-the-insights-reports"></a>Nawigowanie po raportach szczegółowych informacji
 
-**Filtry zakresu dat:** wybór zakresu dat można znaleźć w prawym górnym rogu każdej strony. Dane wyjściowe wykresów strony przeglądu można dostosować, wybierając zakres dat na podstawie ostatnich 3, 6 lub 12 miesięcy albo wybierając niestandardowy zakres dat. Domyślny zakres dat to 12 miesięcy. 
+**Filtry zakresu dat:** wybór zakresu dat można znaleźć w prawym górnym rogu każdej strony. Dane wyjściowe wykresów stron przeglądu można dostosować, wybierając zakres dat na podstawie ostatnich 3, 6 lub 12 miesięcy albo wybierając niestandardowy zakres dat. Domyślny zakres dat to 12 miesięcy. 
 
-:::image type="content" source="images/pci/intro1.png" alt-text="Mapa wprowadzenia":::
+:::image type="content" source="images/pci/intro1.png" alt-text="Mapa wprowadzenia.":::
 
-**Przycisk opinii:** każdy wykres/kontrolka we wszystkich raportach szczegółowych informacji jest uwzględniany za pomocą przycisku opinii, aby można było przekazać opinię o wystąpieniu funkcji raportu. 
+**Przycisk Opinii:** każdy wykres/kontrolka we wszystkich raportach szczegółowych informacji jest uwzględniany za pomocą przycisku opinii, aby można było przekazać opinię o wystąpieniu funkcji raportu. 
 
  
 **Filtry na poziomie strony:** z wyjątkiem raportów Przegląd, Korzyści i Kompetencje wszystkie raporty szczegółowych informacji umożliwiają stosowanie filtrów na poziomie strony. 
 
-- Wybrane filtry będą stosowane do wszystkich wykresów i metryk na stronie, w tym do sekcji podsumowania. Element filtru będzie dostępny, jeśli masz jakiekolwiek dane w ramach tych kryteriów filtrowania. 
+- Wybrane filtry będą stosowane do wszystkich wykresów i metryk na stronie, w tym sekcji podsumowania. Element filtru będzie dostępny, jeśli masz dane w ramach tych kryteriów filtrowania. 
 
-- Domyślnym wyborem każdej listy filtrów jest **.** Jeśli na przykład nie wybrano określonego produktu w filtrze produktów, domyślnym wyborem będą wszystkie produkty.
+- Domyślnym wyborem każdej listy filtrów jest **.** Jeśli na przykład nie wybrano określonego produktu w filtrze products, domyślnym wyborem będą wszystkie produkty.
 
 - Wybrane filtry będą wyświetlane w górnej części strony. 
 

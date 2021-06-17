@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d71d3efe10d38cfc0b5ce8dd60c3c51e2be9f1b
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 07ff4df4b6d91b84af40e9b2b32d991f4ad09062
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855611"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277797"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Partner Center żądania portalu i narzędzie diagnostyczne
 
@@ -41,29 +41,29 @@ Skontaktuj się Partner Center pomocą techniczną, jeśli znajdziesz problemy l
 
 **Obecnie w wersji zapoznawczej*
 
-Jeśli problem wymaga konwersacji z pomocą techniczną, możesz zaplanować termin na stronie szczegółów biletu.
+Jeśli problem wymaga rozmowy z pomocą techniczną, możesz zaplanować termin na stronie szczegółów biletu.
 
-:::image type="content" source="images/support/ticket.png" alt-text="Planowanie terminu pomocy technicznej":::
+:::image type="content" source="images/support/ticket.png" alt-text="Zaplanuj termin pomocy technicznej.":::
 
 1.  Na stronie szczegółów biletu w Partner Center wybierz dostępną datę i godzinę w kalendarzu z informacjami o pomocy technicznej. W lokalnej strefie czasowej będą dostępne tylko daty i godziny.
 
-:::image type="content" source="images/support/ticket2.png" alt-text="Planowanie terminu":::
+:::image type="content" source="images/support/ticket2.png" alt-text="Zaplanuj termin.":::
 
-2. Partner Center sprawdza dostępność w kalendarzu propagato pomocy technicznej.
+2. Partner Center sprawdza dostępność w kalendarzu zwolenniczka pomocy technicznej.
 
-1. Podczas planowania terminu Partner Center do Ciebie zaproszenie kalendarza z informacjami na temat sposobu kontaktu z tobą przez rzeczniczka pomocy technicznej, dzięki czemu możesz śledzić ten termin we własnym kalendarzu służbowym.  Chociaż ta funkcja jest nadal w wersji zapoznawczej, wiadomość e-mail i zaproszenie kalendarza będą w języku angielskim, ale będzie on w stanie obsługiwać Cię w języku wybranym podczas tworzenia biletu.
+1. Podczas planowania terminu Partner Center do Ciebie zaproszenie kalendarza z informacjami na temat sposobu kontaktu z tobą przez działem pomocy technicznej, dzięki czemu możesz śledzić ten termin we własnym kalendarzu służbowym.  Chociaż ta funkcja jest nadal w wersji zapoznawczej, wiadomość e-mail i zaproszenie kalendarza będą w języku angielskim, ale będzie on w stanie obsługiwać Cię w języku wybranym podczas tworzenia biletu.
 
-:::image type="content" source="images/support/ticket3.png" alt-text="Data i godzina":::
+:::image type="content" source="images/support/ticket3.png" alt-text="Data i godzina.":::
 
 ## <a name="hours-of-operation"></a>Godziny pracy
 
 **Pomoc techniczna dla partnerów**
 
-:::image type="content" source="images/support/hoop.png" alt-text="Godziny pracy pomocy technicznej":::
+:::image type="content" source="images/support/hoop.png" alt-text="Godziny pracy pomocy technicznej.":::
 
 ## <a name="send-diagnostics"></a>Wysyłanie diagnostyki
 
-Jeśli podczas pracy na stronie Partner Center wystąpi błąd, może zostać wyświetlony monit o zebranie informacji dziennika. Wybierz **pozycję Zbierz więcej informacji** z linku rozwijanego w górnej części strony, aby otworzyć narzędzie diagnostyczne klienta. To narzędzie zbiera informacje, których zespół pomocy technicznej partnera potrzebuje do ustalenia przyczyny błędu. 
+Jeśli błąd wystąpi podczas pracy na stronie Partner Center, może zostać wyświetlony monit o zebranie informacji dziennika. Wybierz **pozycję Zbierz więcej** informacji z linku rozwijanego w górnej części strony, aby otworzyć narzędzie diagnostyczne klienta. To narzędzie zbiera informacje, których zespół pomocy technicznej partnera potrzebuje do ustalenia przyczyny błędu. 
 
 >[!NOTE]
 >Na Partner Center, które zawierają **/pcv/** w adresie URL, możesz otworzyć narzędzie ręcznie, aby zebrać te informacje.

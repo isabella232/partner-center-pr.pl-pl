@@ -1,6 +1,6 @@
 ---
-title: Korzyści MPN — techniczne przedsprzedaży i wdrożenia (TPD)
-description: Dowiedz się więcej na temat korzyści z Microsoft Partner Network (MPN) dla usług przedsprzedaży i wdrażania (TPD)
+title: Korzyści związane z programem MPN — techniczna przedsprzedaż i wdrażanie (TPD)
+description: Dowiedz się Microsoft Partner Network (MPN) korzyści z technicznych usług przedsprzedażyłowych i wdrożeniowych (TPD)
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 ms.topic: article
@@ -8,70 +8,103 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 02/24/2021
-ms.openlocfilehash: 3e3f1d576c03e437c218f7902c7770a1203eba70
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.date: 03/30/2021
+ms.openlocfilehash: b6de912047a327e89e2572504329e9eff23e7dbf
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768724"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276386"
 ---
-# <a name="explore-technical-presales-and-deployment-services-tpd"></a>Poznaj techniczne usługi dotyczące sprzedaży i wdrażania (TPD) 
+# <a name="explore-technical-presales-and-deployment-services-tpd"></a>Eksplorowanie technicznych usług przedsprzedażowych i wdrożeniowych (TPD) 
 
-Dowiedz się więcej na temat korzyści płynących z usługi Microsoft Partner Network (MPN), które uzyskują się w zakresie technicznych usług sprzedaży i wdrażania, takich jak konsultacje, pomoc przedsprzedaży, godziny doradcze i wiele innych.
+**Odpowiednie role:** administrator partnera MPN
 
-## <a name="develop-your-technical-know-how"></a>Rozwijaj swoją wiedzę techniczną — jak
+Dowiedz się więcej Microsoft Partner Network (MPN) oferowanych w ramach technicznych usług przedsprzedażowych i wdrożeniowych, w tym konsultacja, pomoc przedsprzedażowa, godziny porad i nie tylko.
 
-Korzystaj z usług presprzedaży i wdrażania (TPD) dla zdalnego spersonalizowanych konsultacji jednokrotnych w celu szybszego tworzenia możliwości technicznych w celu zwiększenia sprzedaży, wdrożenia bardziej wydajnego i przyspieszenia tworzenia aplikacji. [Dowiedz się więcej](https://aka.ms/TPD).
+## <a name="develop-your-technical-know-how"></a>Opracowywanie wiedzy technicznej
 
-Obsługiwane są wszystkie rozwiązania w chmurze lub hybrydowe, a także lokalne systemy Windows 10, Windows Server i Microsoft SQL Server. 
+Użyj technicznych usług przedsprzedażowych i wdrożeniowych (TPD, Technical Presales and Deployment Services) w celu zdalnego spersonalizowania relacji jeden-do-jednego, aby szybciej tworzyć możliwości techniczne w celu zwiększenia sprzedaży, efektywniej wdrażać i przyspieszać opracowywanie aplikacji. [Dowiedz się więcej](https://aka.ms/TPD).
 
-- Partnerzy z ofertami Gold, Silver i Action Pack mogą korzystać z porad dotyczących partnerów na potrzeby konsultacji. 
+Obsługiwane są wszystkie rozwiązania w chmurze lub rozwiązania hybrydowe, oprócz rozwiązań lokalnych Windows 10, Windows Server i Microsoft SQL Server. 
 
-- Partnerzy Gold i Silver otrzymują nieograniczoną pomoc dotyczącą sprzedaży. 
+- Partnerzy z ofertami Gold, Silver i Action Pack mogą korzystać z godzin doradczych partnerów na użytek konsultacji. 
 
-- Członkowie sieci mogą kupować [Action Pack](https://partner.microsoft.com/membership/action-pack) , aby otrzymywać pięć godzin doradczych.  
+- Partnerzy gold i silver otrzymują nieograniczoną pomoc przedsprzedażną. 
 
-|     Typ oferty    | Liczba godzin doradczych |   Przedsprzedaż techniczna   |
+- Członkowie sieci mogą zakupić [Action Pack,](https://partner.microsoft.com/membership/action-pack) aby otrzymać pięć godzin porad.  
+
+|     Typ oferty    | Liczba godzin porad |   Przedsprzedaż techniczna   |
 |:-----------------:|:------------------------:|:----------------------:|
 |        Złoty       |            50            |        Nieograniczona liczba       |
 |       Srebrny      |            20            |        Nieograniczona liczba       |
-| Action Pack (MAPS) |             5            | Odliczanie godzin doradczych |
+| Action Pack (MAPS) |             5            | Odejmuje godziny porad |
 
-Zaloguj się przy użyciu dowolnego konta użytkownika skojarzonego z MPN, aby **[utworzyć żądanie techniczne usług sprzedaży i wdrażania (TPD)](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** .
+Zaloguj się przy użyciu dowolnego konta użytkownika skojarzonego z programem MPN, aby utworzyć żądanie technicznych usług **[przedsprzedaży](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** i wdrażania (aktywacja korzyści technicznej nie jest wymagana).
 
-:::image type="content" source="images/technical-benefits.png" lightbox="images/technical-benefits.png" alt-text="Korzyści techniczne dotyczące sprzedaży i wdrażania" border="false":::
+## <a name="delivery-scenarios"></a>Scenariusze dostarczania
 
-## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Prześlij żądanie dotyczące usług wdrażania i sprzedaży technicznej 
+- Techniczne **analizy przedsprzedaży** służą do definiowania oferty wartości, zapewniania oszacowań kosztów, zarządzania zastrzeżeniami klientów, reagowania na komunikaty konkurencji, demonstrowania rozwiązań technicznych, weryfikacji koncepcji lub planowania architektury i projektowania, co prowadzi do oświadczenia o pracy.
 
-Korzyści techniczne dotyczące usług sprzedaży i wdrażania (TPD) są automatycznie aktywowane i dostępne dla wszystkich skojarzonych użytkowników MPN. 
+  - *Nie są obsługiwane:* Planowanie potoku sprzedaży, cenniki i cenniki.
 
-Aby wyświetlić zalety techniczne w centrum partnerskim:
 
-1. Zaloguj się przy użyciu skojarzonego konta MPN na [pulpicie nawigacyjnym](https://partner.microsoft.com/dashboard)Centrum partnerskiego. 
+- **Wskazówki dotyczące** planowania i projektowania architektury, najlepsze rozwiązania, wskazówki dotyczące wdrażania, dokumentacji i dokumentacji dotyczącej wdrażania są używane podczas planowania i planowania wdrożenia.
+
+  - *Nie są obsługiwane:* Naprawa w przypadku łamania, pomoc techniczna/rozwiązywanie problemów, usługi w lokacji, długoterminowe konsultowanie bezpośrednio z działem pomocy technicznej lub pomoc praktyczne w środowisku produkcyjnym. 
+
+
+- **Witryna Marketplace w** witrynie Marketplace służy do publikowania rozwiązania do ciągłego generowania potencjalnych klienta na platformie handlowej firmy Microsoft. Dla deweloperów, konfiguracja usługi, architektura lub przeglądy projektu, migracja z rozwiązań lokalnych, przegląd kodu i pomoc w publikowaniu aplikacji.
+
+  - *Nie są obsługiwane:* Debugowanie kodu, opracowywanie aplikacji poza jasnym potwierdzeniem koncepcji.
+
+## <a name="in-scope-products-and-services"></a>In-Scope produktów i usług
+
+Następujące produkty i usługi znajdują się w zakresie technicznych usług przedsprzedażowych i wdrożeniowych:
+- **Microsoft 365:** wszystkie składniki usługi Microsoft Office 365, takie jak Microsoft Teams, Exchange Online, SharePoint Online, OneDrive, Yammer, Project Online, Skype dla firm Server 2019, Enterprise Mobility + Security, Microsoft Intune, Azure Active Directory, Azure Information Protection
+  - *Poza zakresem: Wyłącznie lokalne serwery pakietu Office — Exchange i SharePoint*
+- **Business Applications:** Microsoft Dynamics 365 (online), Microsoft Power Platform (Power Apps, Power Automate, Power BI)
+  - *Poza zakresem: Wyłącznie lokalne wersje usługi Dynamics 365, GP, SL, AX, NAV*
+- **Microsoft Azure:** wszystkie Microsoft Azure i powiązane usługi, takie jak infrastruktura jako usługa, platforma jako usługa, platforma danych, analiza analizy biznesowej, Cognitive Services, Azure Machine Learning, Azure Stack
+- **Windows Server:** główny obsługiwany system Windows Server (zgodnie z **[cyklem życia produktu)](/lifecycle/policies/fixed)**
+  - System Center obejmuje powiązane produkty, takie jak SCCM, jeśli są powiązane ze scenariuszami chmury lub hybrydowymi
+- **Windows 10:** Windows 10 operacyjny, urządzenia, aplikacje uniwersalne
+- **Produkty w prywatnej lub publicznej** wersji zapoznawczej: pomoc jest zapewniana w przypadku środowisk nieprodukyjnych i bez gwarancji dostępności informacji lub czasu odpowiedzi
+
+## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Przesyłanie wniosku o pomoc techniczną w zakresie usług przedsprzedażowych i wdrożeniowych 
+
+Korzyści z technicznych usług przedsprzedażowych i wdrożeniowych (TPD, Technical Presales and Deployment Services) są automatycznie aktywowane i dostępne dla wszystkich użytkowników skojarzonych z programem MPN. 
+
+Aby wyświetlić korzyści techniczne w Partner Center:
+
+1. Zaloguj się przy użyciu konta skojarzonego z programem MPN na pulpicie Partner Center [nawigacyjnym.](https://partner.microsoft.com/dashboard) 
 
    > [!NOTE]
-   > Jeśli Twoje konto jest skojarzone tylko z dostawcą CSP i nie jest skojarzone z usługą MPN, zostanie wyświetlony komunikat o błędzie "nie masz autoryzacji do wykonania tej akcji". Musisz mieć skojarzone konto MPN.
+   > Jeśli Twoje konto jest skojarzone tylko z CSP i nie jest skojarzone z MPN, zostanie wyświetlony komunikat o błędzie "Nie masz autoryzacji dla tej akcji". Musisz mieć skojarzone konto MPN.
 
-2. Rozwiń pozycję **zalety** w menu nawigacji po lewej stronie, a następnie wybierz pozycję **zalety techniczne**. Na stronie korzyści techniczne zostanie wyświetlona lista korzyści z pomocy technicznej dla ofert związanych z subskrypcją Gold, Silver lub Microsoft Action Pack. 
-
-   > [!NOTE]
-   > Jeśli nie masz aktywnych ofert członkostwa, zobaczysz komunikat "Wygląda na to, że nie masz jeszcze żadnych korzyści". Jeśli Twoja firma ma aktywne oferty członkostwa, ale nie możesz ich zobaczyć, być może zalogowano się przy użyciu niewłaściwego konta. Aby sprawdzić konto, kliknij ikonę **konta** w prawym górnym rogu strony, a następnie kliknij pozycję **Zaloguj się przy użyciu innego konta** (jeśli jest to wymagane).
-
-3. Wybierz pozycję **[Prześlij prosprzedaż techniczną i żądanie wdrożenia](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)**.
-
-4. Użyj **produktów wyszukiwania** i wprowadź odpowiedni produkt. Jeśli otrzymasz zbyt wiele wyników, możesz filtrować na podstawie obszaru rozwiązania lub przeglądania tematów w celu filtrowania poszczególnych poziomów taksonomii.
+2. Rozwiń **pozycję Korzyści** w menu nawigacji po lewej stronie i wybierz pozycję **Korzyści techniczne.** Zostanie wyświetlona strona Korzyści techniczne z listą korzyści pomocy technicznej dostępnych dla ofert członkostwa w programie Gold, Silver Action Pack Microsoft. 
 
    > [!NOTE]
-   > Jeśli potrzebujesz konsultacji w chmurze w ramach planu pomocy technicznej ASfP lub PSfP, skontaktuj się z pomocą techniczną Menedżera kont (SAM).
+   > Jeśli nie masz aktywnych ofert członkostwa, zostanie wyświetlony komunikat "Wygląda na to, że nie masz jeszcze żadnych korzyści". Jeśli Twoja firma ma aktywne oferty członkostwa, ale ich nie widzisz, być może zalogowano się przy użyciu niewłaściwego konta. Aby sprawdzić konto, kliknij **ikonę Konto** w prawym górnym rogu strony, a następnie kliknij pozycję Zaloguj się **przy użyciu innego konta** (jeśli jest to wymagane).
 
-5. **Wypełnij formularz i Prześlij.** Upewnij się, że dołączysz pełny międzynarodowy kod wybierania numeru telefonu. W przypadku krajów obejmujących wiele stref czasowych, na przykład USA, Rosja, wskaż strefę czasową i preferowane godziny pracy.
+3. Wybierz pozycję Submit technical presales and deployment request (Prześlij techniczne żądanie **[przedsprzedazy i wdrożenia).](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)**
+
+:::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="Korzyści techniczne dotyczące przedsprzedadzeń i wdrażania." :::
+
+4. Użyj **funkcji Wyszukaj produkty** i wprowadź odpowiedni produkt. Jeśli otrzymasz zbyt wiele wyników, możesz filtrować według obszaru rozwiązania lub tematów Przeglądania, aby filtrować poszczególne poziom taksonomii.
+
+:::image type="content" source="images/benefits/mpn-tpd-2.png" lightbox="images/benefits/mpn-tpd-2.png" alt-text="Korzyści techniczne dotyczące przedsprzedadzeń i wdrażania — wyszukiwanie produktów.":::
+
+   > [!NOTE]
+   > Jeśli w ramach planu pomocy technicznej usługi ASfP lub PSfP potrzebujesz usługi Cloud Consult, skontaktuj się z menedżerem ds. kont pomocy technicznej.
+
+5. **Wypełnij formularz i prześlij go.** Upewnij się, że do twojego numeru telefonu dołączyć pełny międzynarodowy kod wybierania numerów. W przypadku krajów, które obejmują wiele stref czasowych, na przykład USA, Chiny, wskaż strefę czasową i preferowane godziny pracy.
 
    > [!IMPORTANT]
-   > Upewnij się, że wybrano odpowiedni kraj (lub region) i język, ponieważ określają, gdzie Twoje żądanie jest kierowane.
+   > Pamiętaj, aby wybrać odpowiedni kraj (lub region) i język, ponieważ określają one, dokąd twoje żądanie jest kierowane.
 
-6. Na stronie potwierdzenie jest wyświetlany numer i opis żądania pomocy technicznej. Otrzymasz również wiadomość e-mail z potwierdzeniem z Centrum partnerskiego z numerem przypadku.
+6. Na stronie potwierdzenia jest przedstawiany numer i opis wniosku o pomoc techniczną. Otrzymasz również wiadomość e-mail z potwierdzeniem od Partner Center z numerem przypadku.
 
 ## <a name="next-steps"></a>Następne kroki
 
-[Zarządzaj korzyściami Microsoft Partner Network i ofertami](manage-your-partner-network-benefits.md)
+[Zarządzanie korzyściami Microsoft Partner Network i ofertami](manage-your-partner-network-benefits.md)

@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 63aea520279dc6d126253969cb3175a253b9b3c6
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 8674dfa337f0620b6c916f685fced9882134032a
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109795027"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276369"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Otrzymywanie środków na koncie Partner Center na potrącenie podatku
 
@@ -39,24 +39,24 @@ Wykonaj następujące kroki, aby przesłać nową potrącenie podatku:
 
 3. Kliknij **pozycję Submit new** (Prześlij nową) obok faktury, dla której chcesz przesłać zezwolenie. Link Prześlij nowy spowoduje, że zostaniesz przekierowyany do **strony Nowy wniosek o potrącenie podatku.**
 
-   :::image type="content" source="images/wht1.png" alt-text="Przesyłanie nowej potrącenia podatku dla faktury":::
+   :::image type="content" source="images/wht1.png" alt-text="Prześlij nową potrącenie podatku dla faktury.":::
 
 4. Przejrzyj szczegóły faktury, aby upewnić się, że przesyłasz żądanie właściwej faktury.
 
-   :::image type="content" source="images/wht2.png" alt-text="Uzupełnij szczegóły potrącenia podatku dla faktury":::
+   :::image type="content" source="images/wht2.png" alt-text="Uzupełnij szczegóły potrącenia podatku dla faktury.":::
 
 5. Wprowadź wartość "Suma potrąceń" w obszarze **Szczegóły potrącenia podatku.** "Suma potrąceń" to kwota, która ma zostać zasypowana.
 
-6. **Dołącz** certyfikat podatkowy. W żądaniu potrącenia podatku  należy dołączyć cyfrową kopię certyfikatu podatku potrącanego.  Ten certyfikat został otrzymany od lokalnej urzędu skarbowego, gdy płacisz podatki lokalnemu urzędowi podatkowemu. Kwota podatku na podstawie faktury w certyfikacie podatku potrącanego musi być dopasowana do łącznej kwoty w żądaniu potrącenia podatku.
+6. **Dołącz** certyfikat podatkowy. W żądaniu potrącenia podatku  należy dołączyć cyfrową kopię certyfikatu podatku potrącenia.  Ten certyfikat został otrzymany od lokalnej urzędu skarbowego, gdy płacisz podatki lokalnemu urzędowi podatkowemu. Kwota podatku na podstawie faktury w certyfikacie podatku potrącanego musi być dopasowana do łącznej kwoty w żądaniu potrącenia podatku.
 
    > [!IMPORTANT]
-   > Sumy zapewniane przez partnera powinny być zgodne z linią faktury z dołączonego certyfikatu podatkowego. Dołączone pliki certyfikatów podatkowych muszą mieć jeden z następujących formatów: . Tylko pdf lub obraz (. Jpeg. PNG i . GIF). Ponadto nazwy plików nie powinny zawierać spacji ani znaków specjalnych. Rozmiary plików nie mogą przekraczać 1 MB.
+   > Sumy zapewniane przez partnera powinny być zgodne z linią faktury z dołączonego certyfikatu podatkowego. Dołączone pliki certyfikatów podatkowych muszą mieć jeden z następujących formatów: .PDF tylko obraz (. JPEG, .PNG i .GIF). Ponadto nazwy plików nie powinny zawierać spacji ani znaków specjalnych. Rozmiary plików nie mogą przekraczać 1 MB.
 
 7. **Prześlij** żądanie potrącenia podatku.
 
-   Po przesłaniu żądanie zostanie przekazane do procesu zatwierdzania, w którym zostanie zatwierdzone do ukończenia lub wysłane z powrotem w razie potrzeby poprawek. Wyświetl identyfikator i stan żądania oraz  historię rozliczeń, z której przesłaliśmy nowe żądanie.
+   Po przesłaniu żądanie zostanie przekazane do procesu zatwierdzania, w którym zostanie zatwierdzone do ukończenia lub wysłane z powrotem w razie potrzeby poprawek. Wyświetl identyfikator żądania i stan swoich  żądań oraz w historii rozliczeń, z której przesłaliśmy nowe żądanie.
 
-   Jeśli żądanie zostanie wysłane z powrotem do Ciebie, będzie można zmienić kwotę potrącenia i zastąpić certyfikat, jeśli występuje z nim problem.
+   Jeśli Żądanie zostanie wysłane z powrotem do Ciebie, będzie można zmienić kwotę potrącenia i zastąpić certyfikat, jeśli występuje problem z tym certyfikatem.
 
 ## <a name="update-request-and-resubmit"></a>Aktualizowanie żądania i ponowne prześlij
 
@@ -95,17 +95,17 @@ Jeśli masz pytania dotyczące procesu żądania kredytu z tytułu podatku potr�
 
 ## <a name="german-tax-withholding"></a>Niemiecki potrącenie podatku
 
-Partnerzy, którzy wysyłają niemieckie żądania potrąceń podatku, powinni pamiętać o przesłaniu kopii certyfikatu podatku potrącanego na następujący adres:
+Partnerzy, którzy przesłali niemieckie żądania potrącenia potrąceń, powinni pamiętać o przesłaniu kopii twardych certyfikatu podatku potrąconych na następujący adres:
 
-- ATTN: EOC Tax Team Suwne Gannon
+- ATTN: EOC Tax Team Terazne Gannon
 - Microsoft EMEA Operations Centre
 - One Microsoft Place,
 - South County Business Park
-- Dossztad, Dublin 18, Holandia
+- Dobowe, Dublin 18, Irlandia
 
 ### <a name="questions-and-assistance-for-tax-withholding-requests"></a>Pytania i pomoc dotyczące żądań potrącenia podatku
 
-Partnerzy powinni użyć nowego procesu opisanego powyżej, aby przesłać nowe żądania i nie używać już tworzenia żądań pomocy technicznej dla nowych żądań potrącenia podatku. Partnerzy z dodatkowymi pytaniami na temat żądań potrącenia podatku mogą [przesyłać wnioski o pomoc techniczną.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Żądania pomocy technicznej mają pomóc partnerom w przypadku istniejących żądań, dlatego muszą mieć swój identyfikator żądania, **aby** przesłać nowy bilet. Jeśli partnerzy nie mogą przesłać żądania przy użyciu nowego procesu, powinni wprowadzić jakieś liczby (wszystkie 1) w formularzu wniosku o pomoc techniczną. 
+Partnerzy powinni korzystać z nowego procesu opisanego powyżej, aby przesyłać nowe żądania i nie używać już tworzenia żądań pomocy technicznej dla nowych żądań potrącania podatków. Partnerzy z dodatkowymi pytaniami na temat żądań potrącenia podatku [mogą przesyłać wnioski o pomoc techniczną.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Żądania pomocy technicznej mają pomóc partnerom w przypadku istniejących żądań, więc muszą mieć swój identyfikator żądania, **aby** przesłać nowy bilet. Jeśli partnerzy nie mogą przesłać żądania przy użyciu nowego procesu, powinni wprowadzić jakieś liczby (wszystkie 1) w formularzu wniosku o pomoc techniczną. 
 
    > [!IMPORTANT]
    > Partnerzy nie muszą kontaktować się z pomocą techniczną, jeśli stan żądania to **Ukończono.** Ten stan jest przedstawiany w historii **rozliczeń** obok faktury do przesłania. **Ostatnie kwoty** płatności obok faktury powinny odzwierciedlać kwotę potrącenia podatku w ciągu 10 dni po oznaczeniu żądania jako **Ukończono.**

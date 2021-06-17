@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f5ef67372b0472212943d29dfcd4212f453a15e
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 087ac3439d1eb96321fe8d084f62fcb5fe0a0717
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152464"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276556"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Tworzenie konta MPN w programie Partner Center do zarządzania korzyściami i kompetencjami sieci
 
@@ -41,9 +41,9 @@ Gdy wszystko będzie gotowe do utworzenia konta na Partner Center, musisz mieć 
 
 ## <a name="get-started"></a>Rozpoczęcie pracy
 
-1. Na stronie [**Wprowadzenie zacznij od**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) służbowego adresu e-mail podanego przez Twoją firmę, na przykład you@yourcompanyname.com .
+1. Na stronie [**Wprowadzenie zacznij**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) od służbowego adresu e-mail podanego przez twoją firmę, na przykład you@yourcompanyname.com .
 
-    a.  Adres e-mail musi być prawidłowy i dostępny, ponieważ w celu kontynuowania wyślemy na nie kod weryfikacyjny.
+    a.  Adres e-mail musi być prawidłowy i dostępny, ponieważ w celu kontynuowania wyślemy na ten adres kod weryfikacyjny.
 
     b.  Adres e-mail nie powinien zawierać takich słów jak "info", "admin", email@ "." Lub " marketing@.. ."; te formaty adresów nie są obsługiwane.
 
@@ -52,37 +52,37 @@ Gdy wszystko będzie gotowe do utworzenia konta na Partner Center, musisz mieć 
 2. Możesz zalogować się przy użyciu konta służbowego usługi Office 365, na przykład you@contoso.onmicrosoft.com .
 
    >[!NOTE]
-   > Nie można użyć poświadczeń istniejącego konta CSP do zarejestrowania się w programie MPN.
+   > Do zarejestrowania się w programie MPN nie można użyć poświadczeń istniejącego konta CSP.
 
 3. Podaj informacje prawne dotyczące firmy.
 
-    Możesz sprawdzić profil firmy lub wprowadzić informacje firmowe ręcznie. Jeśli Twoja firma jest zarejestrowana w [firmie Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)użyj identyfikatora DUNS ID, aby sprawdzić informacje o firmie. Jeśli chcesz samodzielnie podać szczegóły swojej firmy, wybierz pozycję **Ręcznie.**
+    Możesz sprawdzić profil firmy lub wprowadzić informacje firmowe ręcznie. Jeśli Twoja firma jest zarejestrowana w [firmie Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)użyj identyfikatora DUNS, aby sprawdzić informacje o firmie. Jeśli chcesz samodzielnie podać szczegóły swojej firmy, wybierz pozycję **Ręcznie.**
 
-    Jeśli Twoja firma znajduje się w Stanach, **Kolumbii,** **Kyrgyzstanie,** Naimnej, Poniesiesz , Lub **Brazylia,** a Twój adres zostanie podany ręcznie, zweryfikujemy Twój adres.  Jeśli ten, który wprowadzasz, różni się od zweryfikowanego adresu, zalecamy użycie zweryfikowanego adresu. Dzięki temu elementy adresu są ustryzowane zgodnie z definicją w urzędzie pocztowym kraju, poprawnie sformatowane i wysłane.  
+    Jeśli Twoja firma znajduje się w **Stanach, Kolumbii,** **Kyrgyzstanie,** Naimnej, **Kolumbii** lub **Rosji,** a Twój adres zostanie podany ręcznie, zweryfikujemy Twój adres.  Jeśli ten, który wprowadzasz, różni się od zweryfikowanego adresu, zalecamy użycie zweryfikowanego adresu. Gwarantuje to, że elementy adresu są standaryzowane zgodnie z definicją w urzędzie pocztowym kraju, poprawnie sformatowane i wysyłane.  
 
-    Po podano informacje o firmie, wprowadź podstawowe informacje kontaktowe. Główną osobą kontaktową powinna być osoba w Firmie, z którą możemy się skontaktować w związku z Twoją aplikacją (może to być Osoba kontaktowa lub Inna osoba w Twojej firmie).
+    Po podano informacje o firmie, wprowadź podstawowe informacje kontaktowe. Główną osobą kontaktową powinna być osoba w twojej firmie, z którą możemy się skontaktować w związku z Twoją aplikacją (może to być Ty lub inna osoba w Twojej firmie).
 
 4. Wybierz **pozycję Zarejestruj teraz.**
 
     >[!IMPORTANT]
-    >Aby zapewnić bezpieczeństwo i prywatność firmy, wysyłamy wiadomość e-mail do głównej osoby kontaktowej, aby zweryfikować adres e-mail i upewnić się, że adres e-mail należy do Twojej firmy. Gdy podstawowy kontakt zweryfikuje adres e-mail, będziemy kontynuować przeglądanie podanych informacji. Weryfikacja trwa zwykle od 3 do 5 dni roboczych. 
+    >Aby zapewnić bezpieczeństwo i prywatność twojej firmy, wysyłamy wiadomość e-mail do głównej osoby kontaktowej, aby zweryfikować adres e-mail i upewnić się, że adres e-mail należy do Twojej firmy. Gdy podstawowy kontakt zweryfikuje adres e-mail, będziemy kontynuować przeglądanie podanych informacji. Weryfikacja trwa zwykle od 3 do 5 dni roboczych. 
 
 ## <a name="registration-id-numbers-by-country"></a>Numery identyfikatorów rejestracji według kraju
 
-Jeśli jesteś dostawcą pośrednim, partnerem z rozliczeniami bezpośrednimi lub odsprzedawcą pośrednim i współpracujesz z nowymi lub istniejącymi klientami w następujących krajach, musisz podać numery identyfikacyjnych rejestracji dla swojej firmy. Jeśli kraj, w którym prowadzenia działalność biznesową, nie jest wymieniony poniżej, identyfikator rejestracji jest opcjonalny.
+Jeśli jesteś dostawcą pośrednim, partnerem rozliczania bezpośredniego lub odsprzedawcą pośrednim i współpracujesz z nowymi lub istniejącymi klientami w następujących krajach, musisz podać numery identyfikatorów rejestracji dla swojej firmy. Jeśli kraj, w którym prowadzenia działalności biznesowej, nie jest wymieniony poniżej, identyfikator rejestracji jest opcjonalny.
 
 W poniższej tabeli przedstawiono przykłady numerów rejestracyjnych zebranych dla każdego kraju. W przypadkach, gdy na liście znajduje się wiele identyfikatorów, wymagany jest tylko jeden identyfikator.
 
 | **Kraj lub region** | **Szczegóły** | 
 |:--|:--|
-| **Armenia** | ZAKSZ — numer identyfikacyjny podatku<br>Numer VAT — znany także jako numer rejestracji podatku VAT. Jest to unikatowy numer identyfikujący osobę osobową (służbową) lub nieuprawnieniową osobę prawna zarejestrowaną do identyfikacji VAT.<br>Numer usługi publicznej |
-| **Azerbejdżan**  | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) — numer identyfikacyjny podatku<br>ZAKSZ — numer identyfikacyjny podatku |
-| **Białoruś**  | UNP — jest to 9-cyfrowy numer (numeryczny dla organizacji, alfanumeryczny dla użytkowników indywidualnych), który zawiera identyfikator regionu, numer seryjny na region i cyfrę kontrolną. |
+| **Armenia** | NUMER IDENTYFIKACYJNY — numer identyfikacyjny podatku<br>Numer VAT — znany również jako numer rejestracji VAT. Jest to unikatowy numer identyfikujący osobę prawna (biznesową) lub osobę niepowiązywistą zarejestrowaną na potrzeby podatku VAT.<br>Numer usługi publicznej |
+| **Azerbejdżan**  | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) — numer identyfikacji podatkowej<br>NUMER IDENTYFIKACYJNY — numer identyfikacyjny podatku |
+| **Białoruś**  | UNP — jest to dziewięciocyfrowa liczba (numeryczna dla organizacji, alfanumeryczne dla użytkowników indywidualnych) zawierająca identyfikator regionu, numer seryjny na region i cyfrę kontrolną. |
 |**Brazylia** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) — (Cadastro Nacional da Pessoa Jurdica lub National Registry of Legal Entities). Jest to numer identyfikacyjny wystawiony dla firm w Brazylii przez Departament Federalnego Przychodu Brazylii  |
-| **Chiny** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) — numer identyfikacyjny podatku |
-| **Węgry**  | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) — numer identyfikacyjny podatku |
-| **Indie** | Identyfikator podatkowy<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) — (obecność w Różnych Krajach) ZAANGAŻOWANIE INDIE OZNACZA, że istnieje jedna organizacja, która działa w kilku lokalizacjach w Indiach. |
-| **Irak** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — numer identyfikacyjny podatku |
+| **Chiny** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) — numer identyfikacji podatkowej |
+| **Węgry**  | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) — numer identyfikacji podatkowej |
+| **Indie** | Identyfikator podatkowy<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) — (Obecność w Całym Kraju) ZAANGAŻOWANIE INDIE OZNACZA, że istnieje jedna organizacja, która działa w kilku lokalizacjach w Indiach. |
+| **Irak** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — numer identyfikacji podatkowej |
 | **Kazachstan**  | BIN — numer identyfikacyjny banku<br>IIN — numer identyfikacyjny wystawcy |
 | **Kirgistan**  | NUMER IDENTYFIKACYJNY — numer identyfikacji podatkowej |
 | **Mołdawia**  | IDNO — unikatowy numer identyfikacyjny stanu przypisany do jednostki prawnej (znany również jako. Kod obrachunkowy).<br>IDNP — kod osobisty urodzenia ("Numarul de Identificare") |
@@ -110,7 +110,7 @@ Zaloguj się Partner Center przy użyciu poświadczeń MPN. Wybierz [**pozycję 
 
 Możesz również wyświetlić inne ważne informacje, takie jak identyfikatory MPN, zarządzać lokalizacjami MPN i wyświetlać Microsoft Partner Agreement pomocą linków menu po lewej stronie, jak pokazano na poniższym zrzucie ekranu.
 
-:::image type="content" source="images/mpn-new.png" alt-text="Profil partnera":::
+:::image type="content" source="images/mpn-new.png" alt-text="Profil partnera.":::
 
 
 ## <a name="next-steps"></a>Następne kroki

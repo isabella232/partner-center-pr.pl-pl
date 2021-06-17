@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64dbbbae0087275fa8d0c5fd4f364079623efe63
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 288e4ebb224d3ff1b0d4050691b733e678ec29a3
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148996"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276945"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Lokalizowanie liczby komputerów i poziomu opłat dla umowy
 
@@ -57,21 +57,21 @@ Możesz zalogować się [do](https://www.explore.ms/) explore.ms, aby zapoznać 
 
 #### <a name="pool-and-pricing-levels"></a>Pula i poziomy cen
 
-Po wyszukaniu numeru umowy w explore.ms krokach przedstawionych powyżej wybierz numer umowy. Spowoduje to dostęp do strony szczegółów umowy, na której będą wyświetlane podsumowanie **umowy** i **oferty**. Sekcja ofert zawiera poziomy cen.
+Po wyszukaniu numeru umowy w explore.ms krokach przedstawionych powyżej wybierz numer umowy. Spowoduje to pokazanie podsumowania umowy i ofert  na stronie szczegółów **umowy.** Sekcja ofert zawiera poziomy cen.
 
 ## <a name="method-2---chip"></a>Metoda 2 — CHIP
 
-1. Zaloguj się do programu CHIP i wybierz pozycję LSP Incentives (Zachęty dla programu LSP).
+1. Zaloguj się na stronie CHIP i wybierz pozycję LSP Incentives (Zachęty LSP).
 
 2. Na stronie **Podsumowanie płatności** partnera wybierz miesiąc raportowania, który  chcesz wyświetlić, a następnie wybierz pozycję Szczegóły obliczeń z listy rozwijanej w obszarze **Eksportuj do programu Excel:**
 
-:::image type="content" source="images/chip/chiplocate.png" alt-text="Lokalizowanie szczegółów programu":::
+:::image type="content" source="images/chip/chiplocate.png" alt-text="Zlokalizuj szczegóły programu.":::
 
 3. Rozpocznie się eksport i będzie można otworzyć plik lub zapisać/zapisać jako miejsce docelowe.
 
 4. Po otwarciu raportu przejdź do karty **DetailReport-FlatFile** w lewym dolnym rogu:
 
-:::image type="content" source="images/chip/flatfile.png" alt-text="Pobieranie pliku płaskiego":::
+:::image type="content" source="images/chip/flatfile.png" alt-text="Pobieranie pliku płaskiego.":::
 
 Teraz możesz wyszukać numer umowy, którego szukasz, w kolumnie J. Przypisana liczba komputerów stacjonarnych znajduje się w kolumnie R z etykietą Agreement_DesktopCount. Poziom opłaty dla tej umowy można również potwierdzić w kolumnie "AI" z etykietą Warstwa.
 

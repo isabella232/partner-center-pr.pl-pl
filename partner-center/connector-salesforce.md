@@ -8,12 +8,12 @@ description: Zsynchronizuj polecenia w Partner Center z crm usługi Salesforce. 
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: fa9b35343e1251cfce5caff107de8dff344f4e68
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 74894671966ac0409f6366f33c91ddadfae1ba4c
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148418"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276981"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Łącznik do współsprzedaży dla rozwiązania Salesforce CRM — omówienie
 
@@ -30,15 +30,15 @@ Rozwiązanie jest oparte na rozwiązaniu Microsoft Power Automate i używa Partn
 |Microsoft Partner Network identyfikator |Potrzebny jest prawidłowy identyfikator MPN|Aby dołączyć [do programu MPN](https://partner.microsoft.com/)|
 |Gotowość do współs sprzedaży|Twoje rozwiązanie ip/usług musi być gotowe do współpracy.|[Sell with Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Konto Centrum partnerskiego|Identyfikator MPN skojarzony z dzierżawą Partner Center musi być taki sam jak identyfikator MPN skojarzony z rozwiązaniem do współs sprzedaży. Przed wdrożeniem łączników sprawdź, czy polecenia dotyczące współpracy sprzedaży są Partner Center portalu.|[Zarządzanie kontem](create-user-accounts-and-set-permissions.md)|
-|Partner Center ról użytkownika|Pracownik, który zainstaluje łączniki i będzie ich używać, musi być administratorem poleceń|[Przypisywanie ról i uprawnień użytkowników](create-user-accounts-and-set-permissions.md)|
-|Salesforce CRM|Rolą użytkownika CRM jest administrator systemu lub customizer systemu|[Przypisywanie ról w programie Salesforce CRM](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
-|Power Automate Flow Account|Aktywne konto [Power Automate](https://flow.microsoft.com) administratora systemu CRM lub customizera systemu. Ten użytkownik powinien zalogować się [do Power Automate](https://flow.microsoft.com) co najmniej raz przed instalacją.|
+|Partner Center ról użytkownika|Pracownik, który zainstaluje łączniki i użyje ich, musi być administratorem poleceń|[Przypisywanie ról i uprawnień użytkowników](create-user-accounts-and-set-permissions.md)|
+|Salesforce CRM|Rola użytkownika CRM to administrator systemu lub customizer systemu|[Przypisywanie ról w programie Salesforce CRM](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
+|Power Automate Flow Account|Aktywne konto [Power Automate](https://flow.microsoft.com) administratora systemu CRM lub customizera systemu. Ten użytkownik powinien zalogować się [Power Automate](https://flow.microsoft.com) co najmniej raz przed instalacją.|
 
 ## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Instalacja pakietu Salesforce dla pól niestandardowych firmy Microsoft 
 
-Aby zsynchronizować polecenia między usługami Partner Center i Salesforce CRM, rozwiązanie Power Automate musi jasno identyfikować pola poleceń specyficzne dla firmy Microsoft. To pomnożenie umożliwia zespołom sprzedawców partnerskich podjęcie decyzji o poleceniach, które chcą udostępnić firmie Microsoft w celu współpracy sprzedaży.
+Aby zsynchronizować polecenia w usługach Partner Center i Salesforce CRM, rozwiązanie Power Automate musi jasno identyfikować pola poleceń specyficzne dla firmy Microsoft. To oznaczanie zapewnia zespołom sprzedawców partnerskich możliwość decydowania o tym, które polecenia mają być współużytkowania przez nich udostępnianie firmie Microsoft.
 
-1. W u usługi Salesforce **aktywuj pozycję Notatki** i dodaj ją do listy powiązanych szans sprzedaży. 
+1. W u usługi Salesforce aktywuj pozycję **Notatki** i dodaj ją do listy powiązanych szans sprzedaży. 
 [Odwołanie](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
 
 2. **Aktywuj zespoły szans** sprzedaży, wykonać następujące czynności: 
@@ -49,17 +49,17 @@ Aby zsynchronizować polecenia między usługami Partner Center i Salesforce CRM
 3. W uakiecie Salesforce zainstaluj niestandardowe pola i obiekty przy użyciu [instalatora pakietu](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV). Użyj tej funkcji, aby zainstalować pakiet w dowolnej firmie.
 
 >[!NOTE]
->Jeśli instalujesz w piaskownicy, musisz zastąpić początkową część adresu URL fragmentem http://test.salesforce.com
+>Jeśli instalujesz w piaskownicy, musisz zastąpić początkową część adresu URL wartością http://test.salesforce.com
 
-4. W uwitrynie Salesforce dodaj pozycję Microsoft Solutions do **listy Powiązane z szansami** sprzedaży. Po dodaniu wybierz **ikonę klucza** i zaktualizuj właściwości
+4. W u usługi Salesforce dodaj rozwiązania firmy Microsoft do listy Opportunity related **(Powiązane z szansą** sprzedaży). Po dodaniu wybierz **ikonę klucza** i zaktualizuj właściwości
 
-## <a name="best-practice-test-before-you-go-live"></a>Najlepsze rozwiązanie: Testowanie przed rozpoczęciem działania
+## <a name="best-practice-test-before-you-go-live"></a>Najlepsze rozwiązanie: Testowanie przed rozpoczęciem transmisji na żywo
 
-Przed zainstalowaniem, skonfigurowaniem i dostosowaniem rozwiązania Power Automate w środowisku produkcyjnym należy przetestować rozwiązanie w przejściowym wystąpieniu programu CRM.
+Przed zainstalowaniem, skonfigurowaniem i dostosowaniem rozwiązania Power Automate w środowisku produkcyjnym należy przetestować rozwiązanie w przejściowym wystąpieniu crm.
 
 - Zainstaluj rozwiązanie Microsoft Power Automate w środowisku przejściowym/wystąpieniu crm.
 
-- Zrób kopię rozwiązania i uruchom konfigurację oraz Power Automate dostosowywania przepływu w środowisku przejściowym.
+- Zrób kopię rozwiązania, a następnie uruchom konfigurację i Power Automate dostosowywania przepływu w środowisku przejściowym.
 
 - Przetestuj rozwiązanie w wystąpieniu przejściowym/CRM.
 
@@ -73,33 +73,33 @@ Przed zainstalowaniem, skonfigurowaniem i dostosowaniem rozwiązania Power Autom
 
 3. Wybierz **pozycję Rozwiązania** na pasku nawigacyjnym po lewej stronie.
 
-4. Wybierz link **Open AppSource (Otwórz usługę AppSource)** w górnym menu.
+4. Wybierz link **Otwórz usługę AppSource** w górnym menu.
 
-   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Otwieranie usługi AppSource":::
+   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Otwórz usługę AppSource.":::
 
-5. Wyszukaj Partner Center **Referrals Connectors for Salesforce** w oknie podręcznym.  
+5. Wyszukaj **łączniki poleceń Partner Center dla usługi Salesforce** w oknie podręcznym.  
 
-   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
+   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce.":::
 
 6. Wybierz przycisk **Pobierz teraz, a** następnie pozycję **Kontynuuj.**
 
-7. Spowoduje to otwarcie strony, na której można wybrać środowisko CRM usługi Salesforce w celu zainstalowania aplikacji.  Wyrażanie zgody na warunki i postanowienia.
+7. Spowoduje to otwarcie strony, na której można wybrać środowisko CRM usługi Salesforce do zainstalowania aplikacji.  Wyrażanie zgody na warunki i postanowienia.
 
-   :::image type="content" source="images/salesforce/available-crm.png" alt-text="Dostępne rozwiązania CRMS":::
+   :::image type="content" source="images/salesforce/available-crm.png" alt-text="Dostępne rozwiązania CRMS.":::
 
-8. Następnie zostaniesz skierowany do strony **Zarządzanie rozwiązaniami.**  Przejdź do pozycji "Partner Center Polecenia", używając przycisków strzałek w dolnej części strony. **Zaplanowana instalacja** powinna pojawić się obok Partner Center polecenia. Instalacja potrwa 10–15 minut.
+8. Następnie zostaniesz skierowany do strony **Zarządzanie rozwiązaniami.**  Przejdź do pozycji "Partner Center polecenia" przy użyciu przycisków strzałek w dolnej części strony. **Instalacja zaplanowana** powinna być wyświetlana obok Partner Center polecenia. Instalacja potrwa 10–15 minut.
 
-9. Po zakończeniu instalacji wróć do strony Power Automate [i](https://flow.microsoft.com) wybierz pozycję **Rozwiązania w** obszarze nawigacji po lewej stronie. Zwróć **uwagę Partner Center że synchronizacja poleceń dla usługi Salesforce** jest dostępna na liście Rozwiązania.
+9. Po zakończeniu instalacji wróć do strony Power Automate [i](https://flow.microsoft.com) wybierz pozycję **Rozwiązania** w obszarze nawigacji po lewej stronie. Zwróć **uwagę Partner Center że synchronizacja poleceń dla usługi Salesforce** jest dostępna na liście Rozwiązania.
 
 10. Wybierz **Partner Center polecenia dla usługi Salesforce.** Dostępne są Power Automate przepływów i jednostek:
 
-    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Przepływy usługi Salesforce":::
+    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Przepływy usługi Salesforce.":::
 
 
 
 ## <a name="configure-the-solution"></a>Konfigurowanie rozwiązania
 
-1. Po zainstalowaniu rozwiązania w wystąpieniu crm wróć do Power Automate [.](https://flow.microsoft.com/)
+1. Po zainstalowaniu rozwiązania w wystąpieniu crm przejdź z powrotem do Power Automate [.](https://flow.microsoft.com/)
 
 2. Z **listy rozwijanej** Środowiska w prawym górnym rogu wybierz wystąpienie crm, w którym zainstalowano Power Automate rozwiązanie.
 3. Należy utworzyć połączenia, które kojarzą trzy konta użytkowników:
@@ -110,7 +110,7 @@ Przed zainstalowaniem, skonfigurowaniem i dostosowaniem rozwiązania Power Autom
 
 5. Utwórz połączenie, klikając **pozycję Utwórz połączenie.**
 
-:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Tworzenie połączenia":::
+:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Utwórz połączenie.":::
 
 - Wyszukaj Partner Center poleceń (wersja zapoznawcza) na pasku wyszukiwania w prawym górnym rogu.
 
@@ -122,53 +122,53 @@ Przed zainstalowaniem, skonfigurowaniem i dostosowaniem rozwiązania Power Autom
 
 -  Po dodaniu wszystkich połączeń w środowisku powinny zostać wyświetlony następujące połączenia:
 
- :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Obserwowanie połączeń":::
+ :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Obserwuj połączenia.":::
 
 ### <a name="edit-the-connections"></a>Edytowanie połączeń
 
 1. Wróć do strony Rozwiązania i wybierz pozycję **Rozwiązanie domyślne.**  Wybierz **pozycję Odwołanie do połączenia (wersja zapoznawcza),** klikając pozycję **Wszystkie.**
  
-:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Rozpoczynanie edycji łącznika":::
+:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Rozpocznij edytowanie łącznika.":::
 
 2. Edytuj poszczególne połączenia, wybierając ikonę z trzema kropkami. Dodaj odpowiednie połączenia.
 
-:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Edytowanie łączników":::
+:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Edytowanie łączników.":::
 
 3. Włącz przepływy w następującej kolejności:
 
-- Partner Center rejestracji webhook (niejawny program testów w wersji zapoznawczej)
-- Tworzenie poleceń do współpracy sprzedaży — salesforce do Partner Center (insider preview)
+- Partner Center Webhook Registration (Insider Preview)
+- Tworzenie polecenia do współpracy sprzedaży — salesforce do Partner Center (niejawny program testów w wersji zapoznawczej)
 - Partner Center Microsoft Co-sell Referral Updates to Salesforce (Insider Preview)
 - Partner Center do usługi Salesforce (niejawny program testów w wersji zapoznawczej)
 - Salesforce to Partner Center (Insider Preview)
 - Salesforce Opportunity to Partner Center (Insider Preview)
 - Salesforce Microsoft Solutions to Partner Center (Insider Preview)
 
-## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Używanie interfejsów API elementy webhook do rejestrowania zdarzeń zmiany zasobów
+## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Rejestrowanie zdarzeń zmiany zasobów przy użyciu interfejsów API elementy webhook
 
-Interfejsy API Partner Center webhook umożliwiają rejestrowanie zdarzeń zmiany zasobów. Te zdarzenia zmiany są wysyłane na adres URL jako wpisy HTTP.
+Interfejsy API Partner Center Webhook umożliwiają rejestrowanie zdarzeń zmiany zasobów. Te zdarzenia zmiany są wysyłane na twój adres URL jako wpisy HTTP.
 
 1. Aby zarejestrować swój adres URL, wybierz **Partner Center webhook Registration (Insider Preview)** Power Automate przepływu.
 
-2. Dodaj połączenia dla (a.) Partner Center użytkownika z poświadczeniami administratora poleceń (b.) Partner Center zdarzenia, jak wyróżnione poniżej
+2. Dodaj połączenia dla (a.) Partner Center z poświadczeniami administratora poleceń (b.) Partner Center zdarzenia, jak wyróżnione poniżej
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Wyzwalacz":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Wyzwalacz.":::
 
-3. Po wymusień tych aktualizacji zobaczysz
+3. Po wdowy tych aktualizacjach zobaczysz
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Elementy webhook":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhook ( Webhook).":::
 
 4. Zapisz zmiany i wybierz pozycję **Włącz.**
 
    Aby umożliwić Partner Center webhook nasłuchiwać zmian zdarzeń, wykonaj następujące kroki:
 
-5. Wybierz **Partner Center do programu Salesforce CRM (niejawny program testów w wersji zapoznawczej).**
+5. Wybierz **Partner Center do programu Salesforce CRM (niejawny program zapoznawczy).**
 
 6. Wybierz **ikonę Edytuj** i wybierz pozycję **Po otrzymaniu żądania HTTP.**
 
 7. Wybierz **ikonę Kopiuj,** aby skopiować podany adres URL żądania HTTP POST.
 
-   :::image type="content" source="images/salesforce/copy-url.png" alt-text="Kopiowanie adresu URL":::
+   :::image type="content" source="images/salesforce/copy-url.png" alt-text="Skopiuj adres URL.":::
 
 8. Teraz wybierz przepływ "Rejestracja Partner Center webhook (niejawny program testów)" i wybierz Power Automate **Uruchom.**
 
@@ -184,19 +184,19 @@ Interfejsy API Partner Center webhook umożliwiają rejestrowanie zdarzeń zmian
 
 11. Wybierz **pozycję Uruchom,** a następnie wybierz pozycję **Gotowe.**
 
-Teraz można nasłuchiwać zdarzeń tworzenia i aktualizowania.
+Teraz może nasłuchiwać zdarzeń tworzenia i aktualizowania.
 
 ## <a name="customize-synchronization-steps"></a>Dostosowywanie kroków synchronizacji
 
-Gdy polecenia dotyczące współpracy sprzedaży są synchronizowane Partner Center systemem CRM, pola, które są synchronizowane na Partner Center PC, są wymienione tutaj.
+Gdy polecenia dotyczące współpracy sprzedaży są synchronizowane między Partner Center i systemem CRM, pola, które są synchronizowane na Partner Center PC, są wymienione tutaj.
 
-Często systemy CRM są wysoce dostosowane. Możesz dostosować przepływy Power Automate przepływów. Postępuj zgodnie z przewodnikiem mapowania pól i w razie potrzeby wyprowadź odpowiednie zmiany w krokach Power Automate przepływów.  Dostępne są mapowania rozwiązań Microsoft Partner Centers do CRM, ale w zależności od środowiska CRM możesz zdecydować się na dalsze dostosowywanie pól.
+Często systemy CRM są wysoce dostosowane. Możesz dostosować przepływy Power Automate przepływów. Postępuj zgodnie z przewodnikiem mapowania pól i w razie potrzeby wprowadź odpowiednie zmiany w krokach Power Automate przepływów.  Dostępne są mapowania rozwiązań Microsoft Partner Centers do crm, ale w zależności od środowiska CRM można dostosować pola.
 
 Wiele kroków każdego z przepływów Power Automate można dostosować w zależności od potrzeb. Poniżej przedstawiono przykłady dostępnych dostosowań:
 
-1. Aby dostosować pola dla zdarzeń tworzenia lub aktualizowania w Partner Center do synchronizacji poleceń crm:
+1. Aby dostosować pola dla zdarzeń tworzenia lub aktualizowania w Partner Center do synchronizacji poleceń CRM:
 
-   1. Wybierz pozycję Partner Center do programu Salesforce CRM (insider preview).
+   1. Wybierz pozycję Partner Center do programu Salesforce CRM (niejawny program zapoznawczy).
 
    2. Wybierz **pozycję Edytuj,** aby edytować/dostosować Power Automate przepływu.
 
@@ -216,7 +216,7 @@ Wiele kroków każdego z przepływów Power Automate można dostosować w zależ
 
    2. Wybierz **pozycję (Zakres) Zsynchronizuj szansę sprzedaży.**
 
-   3. W przypadku dostosowywania mapowań pól CRM (na podstawie przewodnika mapowania pól) dla zdarzeń aktualizacji wybierz opcję Jeśli istnieje różnica między obiektami potencjalnych klientów w **programie Partner Center crm,** a następnie wybierz pozycję .
+   3. W przypadku dostosowywania mapowań pól CRM (na podstawie przewodnika mapowania pól) dla zdarzeń aktualizacji wybierz opcję Jeśli istnieje różnica między obiektami potencjalnych klientów w systemach **Partner Center i CRM,** a następnie .
 
    4. Wybierz krok podrzędny, **jeśli tak,** a następnie rozwiń krok Aktualizuj odwołanie **przy użyciu danych szansy sprzedaży.**
 
@@ -265,7 +265,7 @@ Następujące pola niestandardowe powinny być częścią sekcji CRM:
 
    2. Upewnij się, że podczas tworzenia nowej szansy sprzedaży w środowisku CRM usługi Salesforce jest obecna następująca sekcja
 
-      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Środowisko usługi Salesforce":::
+      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Środowisko usługi Salesforce.":::
 
    3. Aby zsynchronizować tę możliwość z usługą Microsoft Partner Center, należy ustawić następujące pola w widoku karty:
 
@@ -291,7 +291,7 @@ Następujące pola niestandardowe powinny być częścią sekcji CRM:
 
     5. Przejdź do okna **Otwieranie szans sprzedaży.** Polecenie utworzone w programie Microsoft Partner Center jest teraz synchronizowane w programie Salesforce CRM.
 
-       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Ekran szans sprzedaży usługi Salesforce":::
+       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Ekran szans sprzedaży usługi Salesforce.":::
 
     6. Po wybraniu zsynchronizowanego polecenia zostaną wypełnione szczegóły widoku karty.
 

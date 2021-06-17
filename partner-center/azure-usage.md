@@ -1,6 +1,6 @@
 ---
 title: Ustalanie rozmiarów maszyn wirtualnych Azure na potrzeby maksymalnego użycia rezerwacji
-description: Dowiedz się, jak do rozmiaru maszyny wirtualnej (VM) do potrzeb obliczeniowych klientów, gdy kupujesz Microsoft Azure rezerwacje dla nich.
+description: Dowiedz się, jak rozmiar maszyny wirtualnej (VM) do potrzeb obliczeniowych klientów podczas zakupu Microsoft Azure rezerwacji dla nich.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 14d488091227e30909b3d41af0684494a8b55de7
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2d8bc76e0da51abf433e49028445b398c6a1db31
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149455"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276998"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Ustalanie rozmiarów maszyn wirtualnych Microsoft Azure na potrzeby maksymalnego użycia rezerwacji
 
@@ -23,11 +23,11 @@ ms.locfileid: "110149455"
 W tym artykule wyjaśniono, jak rozmiar maszyny wirtualnej (VM) do potrzeb obliczeniowych klientów podczas zakupu Microsoft Azure dla nich rezerwacji.
  
 > [!NOTE]
-> Ten artykuł dotyczy tylko partnerów w programie Dostawca rozwiązań w chmurze (CSP). Klienci korzystający z innych typów subskrypcji (takich jak subskrypcje z płatnością zgodnie z użyciem, indywidualny, Umowa z Klientem Microsoft lub Enterprise Agreement) powinni zamiast tego przeczytać tę dokumentację rezerwacji platformy [Azure.](/azure/cost-management-billing/reservations)
+> Ten artykuł dotyczy tylko partnerów w programie Dostawca rozwiązań w chmurze (CSP). Klienci korzystający z innych typów subskrypcji (takich jak subskrypcje z płatnością zgodnie z użyciem, indywidualne, Umowa z Klientem Microsoft lub Enterprise Agreement) powinni zamiast tego przeczytać tę dokumentację rezerwacji platformy [Azure.](/azure/cost-management-billing/reservations)
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Określanie rozmiaru maszyny wirtualnej dla rezerwacji platformy Azure klienta
 
-Podczas Microsoft Azure rezerwacji w imieniu klientów należy wybrać maszynę wirtualną o rozmiarze spełniającym potrzeby obliczeniowe klienta. Te informacje można znaleźć przy użyciu jednej z tych metod:
+Podczas Microsoft Azure rezerwacji w imieniu klientów należy wybrać maszynę wirtualną o rozmiarze, aby spełnić potrzeby obliczeniowe klienta. Te informacje można znaleźć przy użyciu jednej z tych metod:
 
 - Interfejs API wykorzystania platformy Azure
 - Witryna Azure Portal
@@ -40,17 +40,17 @@ Instrukcje dotyczące korzystania z każdej z tych metod znajdują się poniżej
 >Rabaty na rezerwacje nie mają zastosowania do klasycznych ani promocyjnych maszyn wirtualnych.
 
 >[!IMPORTANT]
->Aby poprawnie zidentyfikować typ i rozmiar maszyny wirtualnej do kupienia w imieniu klienta, należy użyć jednej z metod opisanych poniżej, ponieważ typ serii maszyn wirtualnych nie jest poprawnie wyświetlany w plikach uzgodnień Partner Center.
+>Aby poprawnie zidentyfikować typ i rozmiar maszyny wirtualnej do kupienia w imieniu klienta, należy użyć jednej z metod opisanych poniżej, ponieważ typ serii maszyn wirtualnych nie jest poprawnie wyświetlany w plikach uzgodnień Partner Center maszyn wirtualnych.
 
-### <a name="get-vm-sizing-information-using-the-azure-utilization-api"></a>Uzyskiwanie informacji o rozmiarze maszyny wirtualnej przy użyciu interfejsu API wykorzystania platformy Azure
+### <a name="get-vm-sizing-information-using-the-azure-utilization-api"></a>Uzyskiwanie informacji o rozmiarze maszyny wirtualnej przy użyciu interfejsu API użycia platformy Azure
 
 1. Użyj wartości atrybutu ServiceType z additionalInfo w odpowiedzi interfejsu API, aby zidentyfikować rozmiar maszyny wirtualnej do kupienia.
 
-2. Aby uzyskać więcej informacji, zobacz [Get a customer's utilization records for Azure](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) in the Partner Center API (Uzyskiwanie rekordów wykorzystania platformy Azure przez klienta w [interfejsie API Partner Center ).](/partner-center/develop/)
+2. Aby uzyskać więcej informacji, zobacz [Get a customer's utilization records for Azure](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) in the Partner Center API (Uzyskiwanie rekordów wykorzystania platformy Azure przez klienta w [interfejsie API Partner Center API).](/partner-center/develop/)
 
 ### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Uzyskiwanie informacji o rozmiarze maszyny wirtualnej przy użyciu Microsoft Azure Portal
 
-1. W Partner Center przejdź do **strony Customers (Klienci).**
+1. W Partner Center przejdź do strony **Customers** (Klienci).
 
 2. Znajdź klienta, który chce kupić rezerwacje maszyn wirtualnych platformy Azure, a następnie wybierz strzałkę w dół, aby rozwinąć informacje o kliencie. Wybierz **Portal zarządzania Microsoft Azure,** aby otworzyć rekord klienta w Azure Portal.
 
@@ -58,13 +58,13 @@ Instrukcje dotyczące korzystania z każdej z tych metod znajdują się poniżej
 
 4. Na stronie szczegółów maszyny wirtualnej znajdź informacje o rozmiarze i regionie, jak pokazano poniżej, i użyj tych informacji do zakupu rezerwacji w Partner Center.  
 
-   :::image type="content" source="images/usage1.png" alt-text="Informacje o rozmiarze i regionie na stronie szczegółów":::
+   :::image type="content" source="images/usage1.png" alt-text="Informacje o rozmiarze i regionie na stronie szczegółów.":::
 
 ### <a name="get-vm-sizing-information-using-microsoft-azure-powershell"></a>Uzyskiwanie informacji o rozmiarze maszyny wirtualnej przy użyciu Microsoft Azure PowerShell
 
 Skorzystaj z informacji na poniższej ilustracji, aby uzyskać lokalizację i rozmiar maszyny wirtualnej, dla której chcesz kupić rezerwację. 
 
-:::image type="content" source="images/usage2.png" alt-text="Lokalizacja i rozmiar maszyny wirtualnej":::
+:::image type="content" source="images/usage2.png" alt-text="Lokalizacja i rozmiar maszyny wirtualnej.":::
 
 ### <a name="get-vm-sizing-information-using-the-azure-resource-manager-arm-api"></a>Uzyskiwanie informacji o rozmiarze maszyny wirtualnej przy użyciu interfejsu API Azure Resource Manager (ARM)
 
@@ -74,8 +74,8 @@ Skorzystaj z informacji na poniższej ilustracji, aby uzyskać lokalizację i ro
 
 3. Wywołanie zwraca wartości **vmSize** i **location**, jak pokazano poniżej.
 
-    :::image type="content" source="images/usage3.png" alt-text="Wartość vmSize":::
-    :::image type="content" source="images/usage4.png" alt-text="wartość lokalizacji":::
+    :::image type="content" source="images/usage3.png" alt-text="wartość vmSize.":::
+    :::image type="content" source="images/usage4.png" alt-text="wartość lokalizacji.":::
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Weryfikowanie rabatu za użycie maszyny wirtualnej platformy Azure i rezerwację
 
@@ -97,7 +97,7 @@ Instrukcje dotyczące korzystania z każdej z tych metod znajdują się poniżej
 
 2. Znajdź klienta, którego rabat na rezerwację i użycie chcesz zweryfikować, a następnie wybierz strzałkę w dół, aby rozwinąć informacje o kliencie. Wybierz **Portal zarządzania Microsoft Azure,** aby otworzyć rekord klienta w Azure Portal.
 3. Wybierz **pozycję Rezerwacje** z menu portalu, a następnie wybierz rezerwację, dla której chcesz sprawdzić użycie.
-4. Na stronie **Przegląd** sprawdź wykres wykorzystania rezerwacji, który pokazuje, jaka część rezerwacji została zastosowana do maszyn wirtualnych.
+4. Na stronie **Przegląd** sprawdź wykres wykorzystania rezerwacji, który pokazuje, ile rezerwacji zastosowano do maszyn wirtualnych.
 
     >[!NOTE]
     >Dane użycia mogą być opóźnione o maksymalnie 8 godzin.
@@ -115,7 +115,7 @@ Instrukcje dotyczące korzystania z każdej z tych metod znajdują się poniżej
 
 Dane użycia rezerwacji można uzyskać za pomocą interfejsu API wykorzystania platformy Azure, aby sprawdzić, czy klient otrzyma rabat na rezerwację i sprawdzić, do których maszyn wirtualnych jest stosowany rabat. Porównaj przykład A z przykładem B, aby zobaczyć, jak zweryfikować użycie rezerwacji klienta.
 
-:::image type="content" source="images/usage5.png" alt-text="Przykłady użycia rezerwacji":::
+:::image type="content" source="images/usage5.png" alt-text="Przykłady użycia rezerwacji.":::
 
 - Identyfikator reservationId identyfikuje rezerwację platformy Azure, która została użyta do zastosowania rabatu do maszyny wirtualnej.
 - consumptionMeter to identyfikator MeterId maszyny wirtualnej, do których zastosowano rabat na rezerwację.

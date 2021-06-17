@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 13d6e7dc4722227035be2b24df48427f2008bb14
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 3d30f250d6635758f3bef8e06c6f57ba0a0be744
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151784"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276828"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Zarządzanie lokalizacjami konta MPN i dodawanie (usuwanie) lokalizacji
 
@@ -25,12 +25,12 @@ Identyfikator MPN lokalizacji identyfikuje każdą określoną lokalizację firm
 
 ## <a name="the-following-scenario-is-typical"></a>Typowy jest następujący scenariusz:
 
-Firma Contoso ma swoje globalne konto partnera (PGA) w Zjednoczonym Królestwie. PgA to zarejestrowana firma prawna, a jej globalny identyfikator MPN jest używany do zarządzania całą działalnością nie transakcyjną. Firma Contoso ma również konta lokalizacji partnera (PLA) równoważne przedstawicielsjom lub oddziałom w innej lokalizacji w Zjednoczonym Królestwie, Francji i Stanach Zjednoczonych. W strukturze konta MPN te plasy są reprezentowane jako unikatowe identyfikatory MPN lokalizacji. Plas są używane dla transakcji biznesowych, takich jak CSP lub programy zachęt. Wypłaty są powiązane z określonymi lokalizacjami. 
+Firma Contoso ma swoje globalne konto partnera (PGA) w Zjednoczonym Królestwie. PgA to zarejestrowana firma prawna, a jej globalny identyfikator MPN jest używany do zarządzania całą działalnością nie transakcyjną. Firma Contoso ma również konta lokalizacji partnera (PLA, Partner Location Accounts) odpowiadające podmiotom zależnym lub oddziałom w innej lokalizacji w Zjednoczonym Królestwie, Francji i Stanach Zjednoczonych. W strukturze konta MPN te plasy są reprezentowane jako unikatowe identyfikatory MPN lokalizacji. Plas są używane dla transakcji biznesowych, takich jak CSP lub programy zachęt. Wypłaty są powiązane z określonymi lokalizacjami. 
 
 >[!NOTE]
 >Istnieje relacja 1–1 między dzierżawą CSP i identyfikatorem lokalizacji MPN.
 
-:::image type="content" source="images/locations/locations1.png" alt-text="Struktura lokalizacji MPN":::
+:::image type="content" source="images/locations/locations1.png" alt-text="Struktura lokalizacji MPN.":::
 
 ## <a name="prerequisites-in-order-to-add-a-new-account-for-a-csp-business"></a>Wymagania wstępne dotyczące dodawania nowego konta dla firmy CSP
 
@@ -49,7 +49,7 @@ Aby dodać nowe konto biznesowe programu CSP, rozpocznij od upewniania się, że
 
 ## <a name="view-and-update-your-mpn-locations"></a>Wyświetlanie i aktualizowanie lokalizacji MPN
 
-1. Zaloguj się do Partner Center [nawigacyjnego przy](https://partner.microsoft.com/dashboard/home) użyciu poświadczeń konta MPN. (Poświadczenia MPN mogą różnić się od poświadczeń CSP) 
+1. Zaloguj się na Partner Center [nawigacyjnym przy](https://partner.microsoft.com/dashboard/home) użyciu poświadczeń konta MPN. (Poświadczenia MPN mogą różnić się od poświadczeń CSP) 
  
 1. Na **ikonie Ustawienia** wybierz pozycję **Ustawienia konta,** **Profil organizacji,** **Prawne.** 
 
@@ -68,11 +68,11 @@ Zaktualizuj następujące pola:
 
 - **Miasto & pola Stan/Prowincja:** upewnij się, że kombinacja miasta i województwa jest poprawna. Istnieją kraje, w których będzie stosowane menu rozwijane służące do wybierania województwa, a w innych krajach należy ręcznie wstawić pole.
 
-- **Zip/ Postal code field**(Kod pocztowy): upewnij się, że pole Kod pocztowy jest zgodne ze wskazanym polem Country (Kraj), Region (Region), City (Miasto) lub Address (Adres).
+- **Zip/Postal code field (Kod** pocztowy): upewnij się, że pole Kod pocztowy jest zgodne ze wskazanym polem Country (Kraj), Region (Region), City (Miasto) lub Address (Adres).
 
 - **Pola** podstawowych informacji kontaktowych: upewnij się, że wypełnione są pola imienia i nazwiska oraz że wskazany adres e-mail jest służbowym adresem e-mail, a nie osobistym (na przykład @outlook.com @live.com , itp.)
 
-- **Pole Numeru telefonu:** upewnij się, że numer telefonu NIE zawiera znaków specjalnych, spacji ani kodu kraju. Wartość wprowadzona w polu Numer telefonu zawsze będzie zawierać maksymalnie 10 znaków.
+- **Pole numeru telefonu:** upewnij się, że numer telefonu NIE zawiera znaków specjalnych, spacji ani kodu kraju. Wartość wprowadzona w polu Numer telefonu zawsze będzie zawierać maksymalnie 10 znaków.
 
 5. Jeśli nie ma komunikatu o błędzie, w menu Ustawienia wybierz pozycję **Ustawienia konta,** **Profil organizacji,** **Identyfikatory**. 
 
@@ -92,14 +92,14 @@ Zaktualizuj następujące pola:
  
 1. Wybierz **pozycję Dodaj lokalizację**. Spowoduje to utworzenie nowego identyfikatora MPN dla nowej lokalizacji, za pomocą których można korzystać z transakcji i zachęt CSP.
 
-:::image type="content" source="images/legal-biz.png" alt-text="Dodawanie nowej firmy prawnej":::
+:::image type="content" source="images/legal-biz.png" alt-text="Dodaj nową firmę z branży prawnej.":::
 
 > [!NOTE]
 > Po dodaniu lokalizacji w Partner Center nie można jej usunąć. Jeśli do logowania używasz poprawnego identyfikatora **MPN,** w menu po lewej Partner Center zostanie wyświetlony identyfikator MPN.
 
 ## <a name="add-the-registration-number-id"></a>Dodawanie identyfikatora numeru rejestracji
 
-Jeśli jesteś dostawcą pośrednim, partnerem z rozliczeniami bezpośrednimi lub odsprzedawcą pośrednim i współpracujesz z nowymi lub istniejącymi klientami w następujących krajach, musisz podać numery identyfikatorów rejestracji dla swojej firmy. Jeśli kraj, w którym prowadzenia działalność biznesową, nie jest wymieniony poniżej, identyfikator rejestracji jest opcjonalny.
+Jeśli jesteś dostawcą pośrednim, partnerem rozliczania bezpośredniego lub odsprzedawcą pośrednim i współpracujesz z nowymi lub istniejącymi klientami w następujących krajach, musisz podać numery identyfikatorów rejestracji dla swojej firmy. Jeśli kraj, w którym prowadzenia działalności biznesowej, nie jest wymieniony poniżej, identyfikator rejestracji jest opcjonalny.
 
 - Armenia 
 - Azerbejdżan 
@@ -131,7 +131,7 @@ Aby uzyskać więcej informacji, przeczytaj [informacje o numerze identyfikatora
 
 ## <a name="delete-a-location"></a>Usuwanie lokalizacji
 
-Aby usunąć lokalizację z konta, musisz skontaktować się z pomocą [techniczną partnera](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Upewnij się, że rozumiesz wpływ tej akcji. Nie można pobrać usuniętych lokalizacji i wszystkie elementy powiązane z tym konkretnym identyfikatorem MPN nie będą już rozpoznawane ani aktywne dla Twojej firmy.
+Aby usunąć lokalizację z konta, należy skontaktować się z pomocą [techniczną partnera](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Upewnij się, że rozumiesz wpływ tej akcji. Nie można pobrać usuniętych lokalizacji i wszystkie elementy powiązane z tym konkretnym identyfikatorem MPN nie będą już rozpoznawane ani aktywne dla Twojej firmy.
 
 ## <a name="change-country-of-partner-global-account"></a>Zmiana kraju konta globalnego partnera 
 
@@ -139,11 +139,11 @@ Aby usunąć lokalizację z konta, musisz skontaktować się z pomocą [technicz
 
 2. Na karcie **Partner** przejdź  do pozycji Lokalizacje biznesowe i sprawdź listę lokalizacji, aby upewnić się, że na liście znajduje się lokalizacja, której chcesz użyć jako jednostki prawnej. 
  
-1. Aby dodać lokalizację, kliknij pozycję Dodaj lokalizację i w wysuwanych menu podaj wymagane szczegóły, takie jak nazwa firmy, adres i podstawowy kontakt dla lokalizacji, którą chcesz dodać do firmy.  
+1. Aby dodać lokalizację, kliknij pozycję Dodaj lokalizację **i** na wysuwanych polach podaj wymagane szczegóły, takie jak nazwa firmy, adres i podstawowy kontakt dla lokalizacji, którą chcesz dodać do firmy. 
  
 1. Wybierz **pozycję Zmień kraj** obok listy rozwijanej **Kraj/region** i wykonaj kroki. 
 
-:::image type="content" source="images/lbp.png" alt-text="Wysuwają się dane z legalnych profilów biznesowych":::
+:::image type="content" source="images/lbp.png" alt-text="Dane prawne profilu biznesowego są wysuwu.":::
 
 5. Wybierz pozycję **Zapisz**.
 

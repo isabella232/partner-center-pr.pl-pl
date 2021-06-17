@@ -8,12 +8,12 @@ description: Sprawdź, co robisz dobrze i gdzie możesz ulepszyć użycie subskr
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 685dce8d521bc27b9b91efd5206e9da0d7e45f34
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e1b60c96bad5d3bf514bdfb36d36a733364e6c92
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854608"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277814"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Raport użycia usługi Office 365 dostępny na pulpicie nawigacyjnym Partner Center Insights
 
@@ -46,7 +46,7 @@ Sekcja podsumowania przedstawia widok migawek kluczowych wskaźników związanyc
 
    Wykres Mikro przedstawia miesięczny trend aktywnych użytkowników miesięcznie w wybranym okresie.
 
-:::image type="content" source="images/pci/pci-o365-usage-summary.png" alt-text="Podsumowanie użycia usługi Office 365":::
+:::image type="content" source="images/pci/pci-o365-usage-summary.png" alt-text="Podsumowanie użycia usługi Office 365.":::
 
 ## <a name="office-365-usage-by-geography"></a>Użycie usługi Office 365 według lokalizacji geograficznej
 
@@ -57,28 +57,28 @@ Tabela **Liczba krajów/regionów** przedstawia łączną liczbę krajów/region
 Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapie. Wybierz opcję **Strona** główna na mapie, aby przywrócić oryginalny widok.
 
 
-:::image type="content" source="images/pci/pci-o365-usage-geography.png" alt-text="Użycie usługi Office 365 według lokalizacji geograficznej":::
+:::image type="content" source="images/pci/pci-o365-usage-geography.png" alt-text="Użycie usługi Office 365 według lokalizacji geograficznej.":::
 
 ## <a name="office-365-usage-by-workload"></a>Użycie usługi Office 365 według obciążenia
 
 Użycie usługi Office 365 według obciążenia przedstawia podział mau i pau według obciążeń.
 
-:::image type="content" source="images/pci/pci-o365-usage-workload.png" alt-text="Użycie usługi Office 365 według obciążenia":::
+:::image type="content" source="images/pci/pci-o365-usage-workload.png" alt-text="Użycie usługi Office 365 według obciążenia.":::
 
 ## <a name="subscriptions-performance"></a>Wydajność subskrypcji
 
-Wydajność subskrypcji przedstawia podział mau i pau według obciążeń na klienta. W tabeli przedstawiono dane 100 najsuchomiej klientów według rozliczanych przychodów. Możesz wyszukać dowolnego klienta lub pobrać dane pierwotne, aby wyświetlić szczegóły dotyczące wszystkich klientów.
+Wydajność subskrypcji przedstawia podział mau i pau według obciążeń na klienta. Dane dla 100 najbardziej dochodowych klientów według rozliowanych przychodów są wyświetlane w tabeli i możesz wyszukać dowolnego klienta lub pobrać dane pierwotne, aby wyświetlić szczegółowe informacje dla wszystkich klientów.
 
-:::image type="content" source="images/pci/pci-o365-usage-subscription.png" alt-text="Wydajność subskrypcji usługi Office 365":::
+:::image type="content" source="images/pci/pci-o365-usage-subscription.png" alt-text="Wydajność subskrypcji usługi Office 365.":::
 
 ## <a name="office-365-usage-distribution"></a>Dystrybucja użycia usługi Office 365
 
 Rozkład użycia usługi Office 365 przedstawia podział pau i subskrypcji według jednostki SKU.
 
-:::image type="content" source="images/pci/pci-o365-usage-distribution.png" alt-text="Dystrybucja użycia usługi Office 365":::
+:::image type="content" source="images/pci/pci-o365-usage-distribution.png" alt-text="Dystrybucja użycia usługi Office 365.":::
 
 ## <a name="next-steps"></a>Następne kroki
 
 - Aby uzyskać więcej raportów, [zobacz Partner Center Insights.](partner-center-insights.md)
 
-- Nieprzetworzone dane do zasilania tego raportu możesz pobrać z sekcji Pobieranie raportów na pulpicie nawigacyjnym szczegółowych informacji. [Więcej informacji](pci-download-reports.md) 
+- Możesz pobrać nieprzetworzone dane, które będą zasilać ten raport, z sekcji Pobieranie raportów na pulpicie nawigacyjnym szczegółowych informacji. [Więcej informacji](pci-download-reports.md) 

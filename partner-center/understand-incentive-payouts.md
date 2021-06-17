@@ -4,36 +4,36 @@ ms.topic: article
 ms.date: 11/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Użyj tych stron do wyświetlania stanu Program zachęt zarządzania
+description: Użyj tych stron do wyświetlania stanu Program zachęt zarządzania nimi
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 798fde02b87e8f8105dad6d00c32b050fb90097e
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 33ec3befdc4b2bab2f31d25d210679594debbbf1
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818749"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277253"
 ---
 # <a name="view-your-incentives-program-details"></a>Wyświetlanie szczegółów programu zachęt
 
 **Odpowiednie role:** Zachęty dla administratorów | Zachęty dla użytkowników | Administrator globalny | Administrator partnera MPN
 
-W tym artykule  wyjaśniono stronę Przeglądu moich zachęt, na której przedstawiono ogólny stan programów zachęt, a także stan poszczególnych programów w poszczególnych lokalizacjach. Zapewnia również różne stany rejestracji.
+W tym artykule  wyjaśniono stronę Przeglądu moich zachęt, na której przedstawiono ogólny stan programów zachęt, a także stan poszczególnych programów w każdej lokalizacji. Zapewnia również różne stany rejestracji.
 
 >[!NOTE]
->Aby uzyskać więcej informacji na temat zachęt i funkcji zachęt w Partner Center, zobacz [Partner Investments and Incentives](https://partner.microsoft.com/membership/partner-incentives) (Inwestycje i zachęty dla partnerów) (wymagane jest zalogowanie się).
+>Aby uzyskać więcej informacji na temat zachęt i funkcji zachęt w Partner Center, zobacz [Partner Investments and Incentives](https://partner.microsoft.com/membership/partner-incentives) (Wymagane logowanie).
 
-## <a name="access-the-incentives-overview-page"></a>Uzyskiwanie dostępu do strony z omówieniem zachęt
+## <a name="access-the-incentives-overview-page"></a>Uzyskiwanie dostępu do strony przeglądu zachęt
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard) Centrum partnerskiego.
 1. Wybierz **pozycję Zachęty,** a następnie **pozycję** Przegląd z menu.
-1. Przejrzyj podsumowanie zarobków i płatności w górnej części strony, a następnie więcej szczegółowych informacji w tabeli poniżej. Możesz również sortować, grupować i rozwijać tabelę towarzyszących:
+1. Przejrzyj podsumowanie zarobków i płatności w górnej części strony, a następnie więcej szczegółowych informacji w tabeli poniżej. Możesz również sortować, grupować i rozwijać towarzyszącej tabeli:
 
    - Aby posortować według kolumny, wybierz nazwę kolumny.
    - Aby grupować według programu, wybierz **kartę Według programu** nad tabelą.
-   - Aby grupować według lokalizacji, wybierz **kartę Według** lokalizacji nad tabelą.
+   - Aby grupować według lokalizacji, wybierz **kartę Według lokalizacji** nad tabelą.
    - Aby wyświetlić więcej szczegółów na temat rejestracji w określonej grupie, wybierz symbol szewronu na końcu danego wiersza. Ten szewron rozszerza widok.
 1. Jeśli do zarejestrowania się w programie wymagane jest wykonanie dodatkowych czynności, odpowiednie informacje zostaną wyświetlone w kolumnie **Stan**. W takim przypadku wybierz symbol cudzysłowu ostrokątnego, aby dowiedzieć się więcej o następnych krokach, które należy wykonać.
 
@@ -43,7 +43,7 @@ W poniższej tabeli wyjaśniono różne stany rejestracji wyświetlane w **kolum
 
 | **Stan**         | **Pojawia się, gdy** |
 |:------------------------------------|:------------------|
-| Wymagana akcja  | Partner zaakceptował zaproszenie do zarejestrowania się w programie zachęt, ale może być konieczne zaktualizowanie informacji bankowych lub podatkowych. Zobacz **kolumnę Wymagane akcje,** aby uzyskać informacje o kolejnych krokach lub linkach do aktualizowania informacji bankowych lub podatkowych w Partner Center. |
+| Wymagana akcja  | Partner zaakceptował zaproszenie do zarejestrowania się w programie zachęt, ale może być konieczne zaktualizowanie informacji bankowych lub podatkowych. Zobacz **kolumnę Wymagane akcje,** aby uzyskać informacje o kolejnych krokach lub linki do aktualizowania informacji bankowych lub podatkowych w Partner Center. |
 | Przerwać  | Określony program zachęt nie jest już oferowany w systemie zachęt. |
 | Zarejestrowano  | Wszystkie informacje podatkowe i bankowe zostały zweryfikowane. Partner nie wymaga żadnej dalszej akcji rejestracji. |
 | Rejestrowanie  | Użytkownik nie jest administratorem zachęt, a rejestracja znajduje się w wymaganym działaniu **lub** sprawdzania **poprawności stanów** rejestracji.|
@@ -59,7 +59,7 @@ Wybierz ikonę wypłaty w prawym górnym rogu ekranu, aby uzyskać dostęp do ty
 - Płatności
 - Eksportowanie danych
 
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="Ilustruje ikonę Wypłaty w prawym górnym rogu Partner Center portal":::
+:::image type="content" source="images/payouts/payout-overview.png" alt-text="Ilustruje ikonę Wypłaty w prawym górnym rogu Partner Center portalu.":::
 
 Te informacje obejmują łączne płatności i zarobki związane z zachętami od momentu zarejestrowania w programach zachęt. Na tej stronie podano też zarobki i płatności według lokalizacji lub programu, a także wszelkie dalsze czynności, które należy wykonać, aby zarejestrować się w programie w określonej lokalizacji. 
 

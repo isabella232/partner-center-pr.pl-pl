@@ -1,35 +1,35 @@
 ---
 title: Kupowanie oprogramowania i rozwiązań od Azure Marketplace
-description: Dowiedz się więcej o narzędziach, które upraszczają i usprawniają zakupy oprogramowania i zarządzanie nim w Azure Marketplace.
+description: Dowiedz się więcej o narzędziach, które upraszczają i upraszczają zakupy oprogramowania i zarządzanie nimi w Azure Marketplace.
 ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 04/15/2021
-ms.openlocfilehash: cfe37f26ad685ca723336d8559d15d4a64048f4b
-ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
+ms.date: 01/18/2021
+ms.openlocfilehash: f747c11ef4bfc9abe1035ffb3f059da59b6572ac
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "109630087"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276505"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace zakupu
 
-Azure Marketplace wiele narzędzi i funkcji, które upraszczają i upraszczają proces zakupów, fakturowania i zarządzania zasadami zakupów.
+Azure Marketplace ma wiele narzędzi i funkcji, które upraszczają i upraszczają proces zakupów, fakturowania i zarządzania zasadami zakupów.
 
 ## <a name="simplified-procurement"></a>Uproszczone zaopatrzenie
 
 Witryna Azure Marketplace pomaga uprościć proces zaopatrzenia przy użyciu różnych opcji zakupu. W przypadku zakupu produktów przy użyciu karty kredytowej skojarzonej z kontem platformy Azure wszystkie zakupy zostaną skonsolidowane na jednej fakturze i rozliczane na wybranej karcie kredytowej. Jeśli jesteś dużym klientem, możesz dokonać zakupu przy użyciu konta Enterprise Agreement. W przypadku umowy EA wszelkie zakupy oprogramowania są automatycznie uwzględniane na fakturze za platformę Azure. Faktura będzie zawierać opłaty za użycie platformy Azure, a następnie opłaty za witrynę Azure Marketplace.
 
-Zakup za pośrednictwem Azure Marketplace pozwala wyeliminować złożoność zarządzania poszczególnymi relacjami z dostawcami i fakturami. Otrzymasz jeden skonsolidowany miesięczny rachunek od firmy Microsoft, który obejmuje zarówno zakupy Azure Marketplace jak i opłaty za platformę Azure.
+Zakup za pośrednictwem Azure Marketplace eliminuje złożoność zarządzania poszczególnymi relacjami z dostawcami i fakturami. Otrzymasz od firmy Microsoft jeden skonsolidowany miesięczny rachunek, który obejmuje zarówno zakupy Azure Marketplace, jak i opłaty za platformę Azure.
 
 ## <a name="permission-to-purchase"></a>Uprawnienie do zakupu
 
-Po tym, jak znaleziono właściwą aplikację, ukończenie zakupu jest proste. Będziesz jednak potrzebować odpowiednich uprawnień w ramach subskrypcji platformy Azure. Ponieważ platforma Azure działa w oparciu [o](/azure/role-based-access-control/overview) model Access Control (RBAC), Twoje  konto musi mieć uprawnienia właściciela subskrypcji lub współautora, aby dokonać zakupu. 
+Po tym, jak znajdziesz właściwą aplikację, ukończenie zakupu jest proste. Będziesz jednak potrzebować odpowiednich uprawnień w ramach subskrypcji platformy Azure. Ponieważ platforma Azure działa w modelu opartym na [Access Control](/azure/role-based-access-control/overview) (RBAC),  Twoje konto musi mieć uprawnienia właściciela subskrypcji lub współautora, aby dokonać zakupu. 
 
-Przed zakończeniem zakupu upewnij się, że użytkownik ma poprawną konfigurację w dzierżawie platformy Azure. Pomoże to zapobiec błędom podczas zakupu.
+Przed ukończeniem zakupu upewnij się, że użytkownik ma poprawną konfigurację w dzierżawie platformy Azure. Pomoże to zapobiec błędom podczas zakupu.
 
-W Azure Marketplace aplikacji w Azure Portal znajdź aplikację, którą chcesz kupić, a  następnie wybierz pozycję Utwórz lub Skonfiguruj **i zasubskrybuj**. Przed rozpoczęciem korzystania z nowego rozwiązania zostanie wyświetlony monit o ukończenie niektórych informacji.
+W Azure Marketplace na stronie Azure Portal znajdź aplikację, którą chcesz kupić, a  następnie wybierz pozycję Utwórz lub **Skonfiguruj + subskrybuj.** Przed rozpoczęciem korzystania z nowego rozwiązania zostanie wyświetlony monit o ukończenie pewnych informacji.
 
 :::image type="content" source="media/overview/offer-create-screen.png" alt-text="Przycisk Utwórz oferty.":::
 
@@ -39,7 +39,7 @@ Jeśli chcesz wdrożyć rozwiązanie ze sklepu Azure Marketplace online, wybierz
 
 :::image type="content" source="media/overview/sign-in-to-azure-marketplace.png" alt-text="Okno Azure Marketplace logowania.":::
 
-Po zalogowaniu nastąpi przekierowanie do produktu w Azure Portal celu ukończenia zakupu.
+Po zalogowaniu nastąpi przekierowanie do produktu w Azure Portal, aby ukończyć zakup.
 
 ## <a name="purchase-policy-management"></a>Zarządzanie zasadami zakupu
 
@@ -51,7 +51,7 @@ Firma Microsoft umożliwia zarządzanie zakupami użytkowników za pośrednictwe
 
 Te ustawienia dotyczą wszystkich użytkowników z dostępem do subskrypcji platformy Azure, co daje możliwość kontrolowania zakupów IT za pośrednictwem Azure Portal.
 
-:::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="Kontrolowanie zakupów IT za pośrednictwem Azure Portal":::
+:::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="Kontrolowanie zakupów IT za pośrednictwem Azure Portal.":::
 
 ## <a name="cost-management"></a>Zarządzanie kosztami
 
@@ -66,10 +66,10 @@ Możesz wyświetlić opłaty i faktury w witrynie Azure Marketplace w narzędziu
 Zakup oferty za pośrednictwem usługi Azure Marketplace może się nie powieść z różnych powodów. Użycie interfejsu wiersza polecenia (CLI) do zakupu jest bardziej prawdopodobne, że spowoduje błędy, ponieważ możesz próbować kupić ofertę, która nie jest dostępna lub widoczna w Azure Marketplace. Poniżej przedstawiono kontrole, które mogą spowodować niepowodzenie zakupu:
 
 1. Subskrypcja należy do grupy Enterprise Agreement (EA), a administrator UMOWY EA jest wyłączony Azure Marketplace zakupów.
-1. Administrator umowy EA włączył zakupy tylko dla bezpłatnych ofert, a oferta jest ofertą płatną.
+1. Administrator UMOWY EA włączył zakupy tylko dla bezpłatnych ofert, a oferta jest ofertą płatną.
 1. Oferta nie znajduje się na platformie handlowej.
-1. Niezależny dostawca oprogramowania (ISV) wycofał ofertę (dawniej zatrzymać sprzedaż), przynajmniej w Twoim regionie.
-1. Subskrypcja, której używasz, należy do konta rozliczeniowego w regionie, w którym oferta nie jest dostępna.
+1. Niezależny dostawca oprogramowania przestał sprzedawać ofertę, przynajmniej w Twoim regionie.
+1. Subskrypcja, której używasz, należy do konta rozliczeniowego w regionie, w którym oferta jest niedostępny.
 1. Subskrypcja/konto rozliczeniowe nie jest skojarzone z prawidłowym instrumentem płatniczym (takim jak ważna karta kredytowa).
 1. Subskrypcja należy do grupy Dostawca rozwiązań w chmurze (CSP), a isV odrzucił sprzedaż za pośrednictwem CSP.
 1. Prywatna platforma handlowa jest włączona dla subskrypcji, a oferta nie znajduje się na liście dozwolonych ofert.

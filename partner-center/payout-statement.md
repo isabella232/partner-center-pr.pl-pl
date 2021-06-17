@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: 4e9ab721fe356dbcdff7316a5ed5b52c81f2d4eb
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: dc0c720544f4a8a3c95e5b91ec656e65dbce7c80
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152600"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276114"
 ---
 # <a name="payout-statements"></a>Zestawienia wypłat
 
@@ -46,27 +46,27 @@ Zaloguj się do [Partner Center](https://partner.microsoft.com/dashboard/home) i
 - Płatności
 - Eksportowanie danych
 
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="Ilustruje ikonę Wypłaty w prawym górnym rogu Partner Center portal":::
+:::image type="content" source="images/payouts/payout-overview.png" alt-text="Ilustruje ikonę Wypłaty w prawym górnym rogu Partner Center portal.":::
 
-Możesz również użyć interfejsu API wypłat [partnera,](https://apidocs.microsoft.com/services/partnerpayouts) aby bezpośrednio nawiązać połączenie i uzyskać dane dotyczące transakcji wypłat i płatności.
+Możesz również użyć interfejsu API wypłat [partnera,](https://apidocs.microsoft.com/services/partnerpayouts) aby nawiązać połączenie i uzyskać dane dotyczące transakcji wypłat i płatności bezpośrednio.
 
 
 ## <a name="transaction-history"></a>Historia transakcji
 
-Strona **Historia transakcji** zawiera podsumowanie zarobków, szacowaną następną płatność oraz trend zarobków i płatności w ciągu ostatnich 36 miesięcy. Szczegóły transakcji można również pobrać z tej sekcji.<br><br>Ten raport przedstawia wszystkie zarobki kwalifikujące się do wypłaty, w tym płatności, które nie zostały jeszcze wysłane. Zarobki kwalifikują się do wypłaty, gdy isv isv completed all bank and tax information in Partner Center, has earned >$50, the ISV account is active, and the customer has been billed (for EA transactions) or the payment has been received (for non-EA transactions).
+Strona **Historia transakcji** zawiera podsumowanie zarobków, szacowaną następną płatność oraz trend zarobków i płatności w ciągu ostatnich 36 miesięcy. Szczegóły transakcji można również pobrać z tej sekcji.<br><br>Ten raport przedstawia wszystkie zarobki kwalifikujące się do wypłaty, w tym płatności, które nie zostały jeszcze wysłane. Zarobki kwalifikują się do wypłaty, gdy isv has completed all bank and tax information in Partner Center, has earned >$50, the ISV account is active, and the customer has been billed (for EA transactions) or the payment has been received (for non-EA transactions).
 
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="Przegląd transakcji.":::
 
-- **Zarobki wysłane w tym roku** — łączne zarobki i podział zarobków, które zostały zapłacone i będą opłacone w nadchodzącym miesiącu.
+- **Zarobki wysłane w tym roku** — łączne zarobki i podział zarobków, które zostały zapłacone i zostaną opłacone w nadchodzącym miesiącu.
 - **Szacowany miesiąc płatności —** łączne zarobki oczekiwane w nadchodzących miesiącach.
-- **Zarobki i trendy płatności** — miesięczne zarobki i kwoty płatności w ciągu ostatnich 36 miesięcy.
-- **Pobierz** — pobierz szczegóły transakcji w formacie csv lub tsv.
+- **Trend zarobków i płatności** — miesięczne zarobki i kwoty płatności z ostatnich 36 miesięcy.
+- **Pobierz** — pobierz szczegóły transakcji w .csv lub tsv.
 
-Użyj wyboru zakresu dat w prawym górnym rogu strony, aby odfiltrować dane wyjściowe strony w celu pokazania ostatnich 3, 6, 12 lub 36 miesięcy. Możesz też wybrać niestandardowy zakres dat do 36 miesięcy. Domyślny zakres dat to 12 miesięcy. Możesz również filtrować według identyfikatora rejestracji, programu, identyfikatora płatności, typu zarobków, dźwigni i stanu. Dane są dostępne dla bieżącego roku obrachunkowego (1 lipca – 30 czerwca) i poprzednich dwóch lat obrachunkowych.
+Użyj opcji wyboru zakresu dat w prawym górnym rogu strony, aby odfiltrować dane wyjściowe strony w celu pokazania ostatnich 3, 6, 12 lub 36 miesięcy. Możesz też wybrać niestandardowy zakres dat do 36 miesięcy. Domyślny zakres dat to 12 miesięcy. Możesz również filtrować według identyfikatora rejestracji, programu, identyfikatora płatności, typu zarobków, opcji Lever i stanu. Dane są dostępne dla bieżącego roku obrachunkowego (1 lipca — 30 czerwca) i poprzednich dwóch lat obrachunkowych.
 
 :::image type="content" source="images/payouts/search-filter.png" alt-text="Filtr wyszukiwania w prawym górnym rogu strony.":::
 
-Aby wyświetlić więcej szczegółów dotyczących zarobków, wybierz strzałkę w dół po prawej stronie. Spowoduje to wyświetlenie dźwigni, kwoty przychodu, produktu i klienta. Jeśli z jakiegoś powodu jakiekolwiek z tych danych są niedostępne, ale potrzebujesz do nich dostępu, skontaktuj się z pomocą techniczną. Jeśli zarobki są wynikiem korekty, a nie transakcji, pola Produkt i Klient nie będą wyświetlane.
+Aby wyświetlić więcej szczegółów dotyczących zarobków, wybierz strzałkę w dół w prawej części strony. Spowoduje to wyświetlenie uchwytu, kwoty przychodu, produktu i klienta. Jeśli z jakiegoś powodu jakiekolwiek z tych danych są niedostępne, ale potrzebujesz dostępu do nich, skontaktuj się z pomocą techniczną. Jeśli zarobki są wynikiem korekty, a nie transakcji, pola Produkt i Klient nie będą wyświetlane.
 
 ### <a name="transaction-history-summary"></a>Podsumowanie historii transakcji
 
@@ -75,15 +75,15 @@ Ten widok przedstawia szczegóły zarobków, w tym pochodzenie zarobków z daty 
 :::image type="content" source="images/payouts/transaction-history.png" alt-text="Historia transakcji.":::
 
 - **Data osiągnięcia** — data zakupu.
-- **Typ zarobków** — typ zarobków, na przykład Sprzedaż, Przyniesienie lub Współpraca.
-- **Łączna** kwota — kwota zarobków netto. Na platformie handlowej oznacza to po odjęeniu standardowej opłaty za platformę handlową.
+- **Typ zarobków** — typ zarobków, na przykład Sprzedaż, Zamów lub Współpraca.
+- **Łączna** kwota — kwota zarobków netto. Na platformie handlowej oznacza to po odjęniu standardowej opłaty za platformę handlową.
 - **Stan** — ma trzy opcje:
     - **Nadchodzące** — zarobki są w okresie oczekiwania na chłodzenie.
-    - **Przetworzone** — zarobki są przygotowane do następnej płatności.
+    - **Przetworzone** — zarobki są przygotowywane do następnej płatności.
     - **Wysłane** — zarobki zostały zapłacone.
-- **Szacowany miesiąc** płatności — miesiąc, w przypadku których zarobki powinny zostać zapłacone. Aby uzyskać [więcej informacji, zobacz](#estimated-payment-month) następną sekcję.
+- **Szacowany miesiąc płatności** — miesiąc, w ciągu których zarobki powinny zostać opłacone. Aby uzyskać [więcej informacji, zobacz](#estimated-payment-month) następną sekcję.
 
-Transakcje zarobków są wyświetlane, gdy transakcja spełnia uprawnienia do wypłaty. Aby zrozumieć, dlaczego brakuje Ci lub nieoczekiwane zarobki, zobacz Typowe pytania [dotyczące wypłat na platformie handlowej.](payout-faq.md#why-are-my-earnings-missing)
+Transakcje zarobków są wyświetlane, gdy transakcja spełnia uprawnienia do wypłaty. Aby dowiedzieć się, dlaczego brakuje Ci lub niespodziewanych zarobków, zobacz Typowe [pytania dotyczące wypłat na platformie handlowej.](payout-faq.md#why-are-my-earnings-missing)
 
 #### <a name="estimated-payment-month"></a>Szacowany miesiąc płatności
 
@@ -110,10 +110,10 @@ Szacowana kwota może się różnić od rzeczywistej z różnych powodów:
 
 Pamiętaj, że płatność jest zwalniana w prognozowanych miesiącach tylko wtedy, gdy są spełnione zasady progu programu i uprawnień do płatności. Reguły te obejmują, ale nie są ograniczone do poniższej listy:
 
-- Twój profil podatkowy musi być aktualny
+- Profil podatkowy musi być aktualny
 - Zarobki muszą spełniać lub przekraczać minimalny próg zarobków zdefiniowany w przewodniku po programie.
-- Wstrzymana wypłata: jeśli wybierzesz opcję "Hold my Payment" (Wstrzymaj moją płatność) na stronie przypisywania profilów.
-- Instrument wypłaty jest niedostępny: Profil płatności lub/i profil podatkowy nie został ukończony.
+- Wstrzymanie wypłaty: jeśli wybierzesz opcję "Przytrzymaj moją płatność" na stronie przypisywania profilów.
+- Instrument wypłaty jest niedostępny: profil płatności lub/i profil podatkowy nie został ukończony.
 
 ### <a name="transaction-history-download"></a>Pobieranie historii transakcji
 
@@ -122,13 +122,13 @@ Aby wyświetlić więcej szczegółów dotyczących zarobków, wybierz **pozycj�
 >[!NOTE]
 >Eksport pobierania historii transakcji ma dwa nowe pola od sierpnia 2020 r.:
 >
->- **lastPaymentCurrency**  Waluta, w której otrzymano najnowszą płatność, we wszystkich sieciach MPN, do których ma dostęp partner, który jest aktualnie zalogowany. Jeśli żadna płatność nie zostanie odebrana, ostatnia waluta płatności będzie w dolarach amerykańskich.
+>- **lastPaymentCurrency**  Waluta, w której odebrano najnowszą płatność, we wszystkich sieciach MPN, do których partner, który jest aktualnie zalogowany, ma dostęp. Jeśli żadna płatność nie zostanie odebrana, ostatnią walutą płatności będzie dolar amerykański.
 >- **earningAmountInLastPaymentCurrency**  Kwota zarobków w ostatniej walucie płatności.
 
 | Nazwa kolumny | Opis | Zastosowanie programów zachęt/platform handlowych |
 | --- | --- | --- |
 | agreementEndDate | Data zakończenia umowy | Zachęty — tylko niektóre programy |
-| agreementNumber | Numer umowy | Zachęty — tylko niektóre programy |
+| agreementNumber (numer umowy) | Numer umowy | Zachęty — tylko niektóre programy |
 | agreementStartDate | Data rozpoczęcia umowy | Zachęty — tylko niektóre programy |
 | calculationDate | Data obliczenia zarobków w systemie | Wszystko |
 | claimId | Unikatowy identyfikator oświadczenia | Zachęty — tylko niektóre programy |
@@ -140,8 +140,8 @@ Aby wyświetlić więcej szczegółów dotyczących zarobków, wybierz **pozycj�
 | distributorName (nazwa dystrybutora) | Nazwa dystrybutora | Zachęty — tylko niektóre programy |
 | earningAmount | Kwota zarobków w oryginalnej walucie transakcji | Wszystko |
 | earningAmountInLastPaymentCurrency | Kwota zarobków w ostatniej walucie płatności (pole będzie puste, jeśli żadne wcześniejsze płatności nie zostały opłacone) |  |
-| earningAmountUSD | Zarobki w USD | Wszystko |
-| earningDate | Data zarobku | Wszystko |
+| earningAmountUSD | Kwota zarobków w USD | Wszystko |
+| earningDate | Data zarobków | Wszystko |
 | earningExchangeRate | Kurs wymiany używany do pokazania odpowiedniej kwoty w USD | Wszystko |
 | earningId | Unikatowy identyfikator dla każdego zarobku | Wszystko |
 | earningRate | Stawka zachęt zastosowana do kwoty transakcji w celu wygenerowania zarobków | Wszystko |
@@ -159,10 +159,10 @@ Aby wyświetlić więcej szczegółów dotyczących zarobków, wybierz **pozycj�
 | localProviderSeller | Lokalny dostawca/sprzedawca rekordu |  |
 | Miesiąc dojrzałości | Szacowany miesiąc płatności | Wszystko |
 | OrderId (Identyfikator zamówienia) | Odnosi się do faktury klienta  | Rynkach |
-| parentProductId | Unikatowy nadrzędny identyfikator produktu. Jeśli dla transakcji nie ma produktu nadrzędnego, identyfikator produktu nadrzędnego = identyfikator produktu. | Rynkach |
-| parentProductName | Nazwa produktu nadrzędnego. Jeśli dla transakcji nie ma produktu nadrzędnego, nazwa produktu nadrzędnego = nazwa produktu. | Rynkach |
+| parentProductId | Unikatowy nadrzędny identyfikator produktu. Jeśli dla transakcji nie ma produktu nadrzędnego, oznacza to, że nadrzędny identyfikator produktu = identyfikator produktu. | Rynkach |
+| parentProductName (nazwa_elementu_nadrzędnego) | Nazwa produktu nadrzędnego. Jeśli dla transakcji nie ma produktu nadrzędnego, nazwa produktu nadrzędnego = nazwa produktu. | Rynkach |
 | participantId | Podstawowa tożsamość partnera zarobków w ramach programu | Wszystko |
-| participantIdType | Głównie identyfikator programu dla programów zachęt i sprzedawców IF dla platform handlowych | Wszystko |
+| typ-uczestnika | Głównie identyfikator programu dla programów zachęt i sprzedawców IF dla platform handlowych | Wszystko |
 | nazwa uczestnika | Nazwa partnera zarobków | Wszystko |
 | partnerCountryCode | Lokalizacja/kraj/region partnera zarobków | Wszystko |
 | partNumber | Zawsze będzie pusta | Niektóre programy zachęt i platformy handlowe |
@@ -182,7 +182,7 @@ Aby wyświetlić więcej szczegółów dotyczących zarobków, wybierz **pozycj�
 | reasonCode |  |  |
 | resellerCountry |  |  |
 | resellerId | Identyfikator odsprzedawcy | Zachęty — tylko niektóre programy |
-| resellerName | Nazwa odsprzedawcy |  |
+| resellerName (nazwa odsprzedawcy) | Nazwa odsprzedawcy |  |
 | SkuId | Identyfikator SKU zdefiniowany podczas publikowania. Oferta może mieć wiele jednostki SKU, ale jednostkę SKU można skojarzyć tylko z jedną ofertą. Zachęty — tylko niektóre programy |  |
 | storeFee | Kwota zachowywana przez firmę Microsoft jako opłata za korzystanie z aplikacji lub dodatku w Sklepie | Rynkach |
 | subscriptionEndDate | Data zakończenia subskrypcji | Zachęty — tylko niektóre programy |
@@ -191,7 +191,7 @@ Aby wyświetlić więcej szczegółów dotyczących zarobków, wybierz **pozycj�
 | taxCity |  |  |
 | taxCountry |  |  |
 | taxRemitModel | Strona odpowiedzialna za remitowanie podatków (sprzedaż, użycie lub podatki VAT/GST) | Rynkach |
-| taxRemitted | Kwota emitowanych podatków (sprzedaż, użycie lub podatki VAT/GST) | Rynkach |
+| taxRemitted | Kwota uchwalonego podatku (sprzedaż, użycie lub podatki VAT/GST) | Rynkach |
 | taxState | Stan klienta |  |
 | taxZipCode | Kod pocztowy klienta |  |
 | tpan | Wskazuje sieć ad innej firmy | Marketplaces Tylko reklamy |
@@ -201,9 +201,9 @@ Aby wyświetlić więcej szczegółów dotyczących zarobków, wybierz **pozycj�
 | transactionCurrency | Waluta, w której miała miejsce pierwotna transakcja klienta (nie jest to waluta lokalizacji partnera) | Wszystko |
 | Transactiondate | Data transakcji. Przydatne w przypadku programów, w których wiele transakcji przyczynia się do jednego zarobku | Wszystko |
 | transactionExchangeRate | Data kursu wymiany używana do pokazania odpowiedniej kwoty transakcji w USD | Wszystko |
-| transactionId (wartość transactionId) | Unikatowy identyfikator transakcji | Wszystko |
-| transactionPaymentMethod | Instrument płatniczy klienta używany na potrzeby transakcji, taki jak Karta, Rozliczenia operatora sieci komórkowej lub PayPal | Rynkach |
-| Transactiontype | Typ transakcji, na przykład zakup, zwrot, zwrot lub obciążenie zwrotne | Rynkach |
+| transactionId | Unikatowy identyfikator transakcji | Wszystko |
+| transactionPaymentMethod | Instrument płatniczy klienta używany do transakcji, taki jak Karta, Rozliczenia operatora sieci komórkowej lub PayPal | Rynkach |
+| Transactiontype | Typ transakcji, taki jak zakup, zwrot, zwrot lub obciążenie zwrotne | Rynkach |
 | workload | Obciążenie | Zachęty — tylko niektóre programy |
 |
 
@@ -213,11 +213,11 @@ W poniższej tabeli wymieniono kody przyczyn korekt i ich opisy.
 
 |**Kod przyczyny**   |**Opis**   |
 |------------------|:-------------------------------------|
-| Zgodność z ar | Korekta, która zmniejsza zarobki, gdy faktury firmy Microsoft nie są opłacane na czas przez partnera. |
-| Przewłaszczane współoperacyjne | Korekta, która przenosi zarobki z współpracy na inny okres lub konwertuje zarobki z współpracy na zarobki w 2018 r. |
-| Korekta operacyjna | Korekta, która koryguje błędy obliczeń systemowych firmy Microsoft. |
-| Niepoprawne oblicze korekty dotyczącej operacyjności firmy Microsoft | Korekta, która koryguje błędy. |
-| Niepoprawna rejestracja firmy Microsoft z korektą platformy Ops | Korekta błędnych obliczeń związanych z rejestracją. |
+| Zgodność ar | Korekta, która zmniejsza zarobki, gdy faktury firmy Microsoft nie są opłacane na czas przez partnera. |
+| Przewłaszczane współoperacyjne | Korekta, która przenosi zarobki w związku z współpraca na inny okres lub konwertuje zarobki w kooperacji na zarobki w 2018 r. |
+| Korekta operacyjna | Korekta, która poprawia błędy obliczeń systemu firmy Microsoft. |
+| Niepoprawne oblicze korekty operacyjności firmy Microsoft | Korekta, która poprawia błędy obliczania. |
+| Korekty korekty operacyjna nieprawidłowa rejestracja firmy Microsoft | Korekta błędnych obliczeń związanych z rejestracją. |
 | Mapowanie partnerów (subskrypcja) MCI/CSP | Korekta, która koryguje niedorównanie subskrypcji. |
 | Wyjątek zasad | Korekta zastępująca regułę programu.  |
 | Zarobki w poprzednim okresie | Korekta zarobków poza bieżącym okresem zarobków. |
@@ -240,14 +240,14 @@ Strona **Płatności** zawiera szczegółowe informacje o pieniędzy, które zos
 
 Tabela **Lista płatności zawiera płatności** płatne i oczekujące. Możesz pobrać informacje podatkowe dotyczące opłaty za usługę w formacie PDF i wyświetlić szczegóły zarobków dla danej płatności.
 
-:::image type="content" source="images/payouts/list-of-payments.png" alt-text="Eksportowanie historii transakcji":::
+:::image type="content" source="images/payouts/list-of-payments.png" alt-text="Eksportowanie historii transakcji.":::
 
 - **Płatne** — wszystkie płatności wysłane pomyślnie. Wybierz rok z menu rozwijanego, aby odfiltrować płatności wydane w tym roku.
 - **Oczekujące** — nadchodzące płatności.
-- **Podatek od opłaty za usługę (formularz PDF)** — dostępny w przypadku płatności podlegających podatku od opłaty za usługę. Podatki z tytułu opłaty za usługę są pokazane w **tece Inne podatki.**
-- **Widok** — przekierowuje do historii transakcji z listą zarobków uwzględnionych w płatności.
+- **Podatek od opłaty za usługę (formularz PDF)** — dostępny dla płatności podlegających opodatkowaniu opłaty za usługę. Podatki od opłat za usługi są pokazane w **tesłudze.**
+- **Wyświetl** — przekierowuje do historii transakcji z listą zarobków uwzględnionych w płatności.
 
-Aby dowiedzieć się, dlaczego brakuje Ci lub niespodziewanych zarobków, zobacz Typowe [pytania dotyczące wypłat na platformie handlowej.](payout-faq.md#why-are-my-earnings-missing)
+Aby zrozumieć, dlaczego brakuje Ci lub niespodziewane zarobki, zobacz Typowe pytania [dotyczące wypłat na platformie handlowej.](payout-faq.md#why-are-my-earnings-missing)
 
 ### <a name="payment-status"></a>Stan płatności
 
@@ -255,9 +255,9 @@ W poniższej tabeli wyjaśniono różne stany zarobków.
 
 | Stan zarobków | Przyczyna | Wymagana jest akcja partnera? |
 | --- | --- | --- |
-| Nieprzetworzonych | Zarobki kwalifikują się do płatności. Pozostaje w tym stanie przez okres chłodzenia zgodnie z definicją w przewodniku programu dla Program zachęt. | Nie |
-| Nadchodzących | Wygenerowane zamówienie płatności oczekujące na przeglądy wewnętrzne przed przetworzeniem płatności. | Nie |
-| Oczekująca faktura podatkowe | Faktura podatkowe jest niekompletna lub nieprawidłowa. | Aby można było zapłacić fakturę podatkowej, musisz ją zaktualizować |
+| Nieprzetworzonych | Zarobki kwalifikują się do płatności. Pozostaje ona w tym stanie przez okres chłodzenia zgodnie z definicją w przewodniku programu dla Program zachęt. | Nie |
+| Nadchodzących | Przed przetworzeniem płatności wygenerowano zamówienie płatności oczekujące na przeglądy wewnętrzne. | Nie |
+| Oczekiwanie na fakturę podatku | Faktura skarbowa jest niekompletna lub nieprawidłowa. | Zanim będzie można zapłacić fakturę podatku, musisz zaktualizować fakturę |
 | Odrzucone podczas przeglądu | Płatność została odrzucona podczas przeglądu. | Aby uzyskać szczegółowe informacje, skontaktuj się z pomocą techniczną firmy Microsoft |
 | Niepowodzenie | Płatność nie powiodła się z powodu błędu systemu firmy Microsoft. | Aby uzyskać szczegółowe informacje, skontaktuj się z pomocą techniczną firmy Microsoft |
 | W toku | Trwa płatność. | Nie |
@@ -280,10 +280,10 @@ W poniższej tabeli wyjaśniono różne stany zarobków.
 | participantIDType | Zazwyczaj identyfikator programu dla programów zachęt i identyfikator sprzedawcy dla programów ze Sklepu |
 | nazwa uczestnika | Nazwa partnera zarobków |
 | nazwa_programu | Zachęty/nazwa programu sklepu |
-| Zdobył | Kwota zdobytych w walucie Płatności na dla tego programu/uczestnikaID |
-| earnedUSD | Kwota uzyskanej za identyfikator programu/uczestnika w USD |
-| withheldTax | Kwota podatku nieutrzymana w walucie Płatności zgodnie z programem/wartością uczestnika |
-| salesTax | Łączna kwota podatku od sprzedaży w walucie Płatność zgodnie z programem/wartością uczestnika (dotyczy tylko programów zachęt) |
+| Zdobył | Kwota zdobytych w walucie Płatności na dla tego programu/uczestnika |
+| earnedUSD | Kwota uzyskanego za identyfikator programu/uczestnika w USD |
+| withheldTax | Kwota podatku zatrzymana w walucie Płatności zgodnie z programem/wartością uczestnika |
+| salesTax | Łączna kwota podatku od sprzedaży w walucie Płatności zgodnie z programem/wartością uczestnika (dotyczy tylko programów zachęt) |
 | serviceFeeTax | Łączna kwota usługiFeeTax w walucie zapłać do dla programu/uczestnikaID (dotyczy tylko programów Azure Marketplace sklepu) |
 | totalPayment | Łączna płatność w walucie lokalnej z wyłączeniem podatku potrącanego i z uwzględnieniem podatku od sprzedaży (jeśli ma zastosowanie) dla programu/uczestnikaID |
 | currencyCode | Kod płatności dla waluty |
@@ -298,7 +298,7 @@ W poniższej tabeli wyjaśniono różne stany zarobków.
 
 Strona **Eksportowanie** danych nie jest odświeżana samodzielnie. Może być konieczne ręczne odświeżenie strony, aby wyświetlić najnowsze dane. Wybierz jedną z trzech kart, aby wyeksportować historię **transakcji,** **płatności,** **podsumowanie transakcji** lub **zestawienie historyczne.**
 
-Filtr może spowodować błąd **Brak dostępnych** danych. Taka możliwość może wystąpić, jeśli pozostawisz domyślny okres wybrany na trzy miesiące, a następnie wybierzesz identyfikator płatności z zarobków spoza tego okresu. W takim przypadku rozwiń swój okres i spróbuj ponownie.
+Filtr może spowodować błąd **Brak dostępnych** danych. Może się tak zdarzyć, jeśli pozostawisz domyślny okres wybrany na trzy miesiące, a następnie wybierzesz identyfikator płatności z zarobków spoza tego okresu. W takim przypadku rozwiń swój okres i spróbuj ponownie.
 
 Oto przykładowy eksport płatności:
 
@@ -306,14 +306,14 @@ Oto przykładowy eksport płatności:
 
 ### <a name="historical-statements"></a>Instrukcje historyczne
 
-Podsumowanie **Eksportowanie** danych zapewnia również dostęp do instrukcji historycznych.
+Podsumowanie **eksportowania** danych zapewnia również dostęp do instrukcji historycznych.
 
 > [!NOTE]
 > Instrukcja historyczna jest migawką i nie jest odświeżana. Skontaktuj się z [pomocą techniczną](https://partner.microsoft.com/support/v2/?stage=1) i w razie potrzeby zażądaj najnowszych danych.
 
 :::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Eksportowanie instrukcji historycznych.":::
 
-- Historia transakcji przed 1 lipca 2019 r. jest obsługiwane oddzielnie i używa różnych pól z nowszych raportów historii.
+- Historia transakcji przed 1 lipca 2019 r. jest obsługiwane oddzielnie i używa różnych pól z późniejszych raportów historii.
 - Starsza historia transakcji zawiera kolumnę o nazwie "Reserved", która odpowiada kolumnie "Zarobki" w nowoczesnej historii, z tą różnicą, że wyklucza wszystkie zarobki ze stanem "Wysłane płatności".
 - Filtry, takie jak 3M, 6M lub 12M, nie będą stosowane do sekcji Instrukcje historyczne.
 
@@ -327,16 +327,16 @@ W poniższej tabeli wyjaśniono każdą kolumnę w instrukcji historycznej.
 | Identyfikator zamówienia | Unikatowy identyfikator zamówienia. Ten identyfikator umożliwia identyfikowanie transakcji zakupu z odpowiednimi transakcjami niekupu, takimi jak zwroty lub obciążenia zwrotne. Oba będą mieć ten sam identyfikator zamówienia. Ponadto jeśli istnieje opłata podzielona, w przypadku której wiele metod płatności zostało użytych w ramach pojedynczego zakupu, można połączyć transakcje zakupu. |
 | Transaction ID (Identyfikator transakcji) | Unikatowy identyfikator transakcji. |
 | Data i godzina transakcji | Data i godzina transakcji (UTC). |
-| Identyfikator produktu nadrzędnego | Unikatowy nadrzędny identyfikator produktu. Jeśli dla transakcji nie ma produktu nadrzędnego, identyfikator produktu nadrzędnego = identyfikator produktu. |
+| Nadrzędny identyfikator produktu | Unikatowy nadrzędny identyfikator produktu. Jeśli dla transakcji nie ma produktu nadrzędnego, oznacza to, że nadrzędny identyfikator produktu = identyfikator produktu. |
 | Identyfikator produktu | Unikatowy identyfikator produktu. |
 | Nazwa produktu nadrzędnego | Nazwa produktu nadrzędnego. Jeśli dla transakcji nie ma produktu nadrzędnego, nazwa produktu nadrzędnego = nazwa produktu. |
 | Nazwa produktu | Nazwa produktu |
-| Typ produktu | Typ produktu, taki jak aplikacja, dodatek lub gra |
-| Liczba | Gdy źródło przychodu jest Microsoft Store dla Firm, wartość Quantity reprezentuje liczbę zakupionych licencji. W przypadku wszystkich innych źródeł przychodów dla wartości Quantity będzie zawsze 1. Nawet jeśli pojedyncza transakcja zostanie podzielona na dwa elementy wiersza, ponieważ zostały użyte dwie różne formy płatności, każdy element wiersza będzie pokazywać wartość Quantity (Ilość) 1. |
-| Typ transakcji | Typ transakcji, taki jak zakup, zwrot, zwrot lub obciążenie zwrotne |
-| Formy płatności | Instrument płatniczy klienta używany do transakcji, taki jak Karta, Rozliczenia operatora sieci komórkowej lub PayPal |
+| Typ produktu | Typ produktu, na przykład Aplikacja, Dodatek lub Gra |
+| Liczba | Gdy źródło przychodu jest Microsoft Store dla Firm, wartość Quantity reprezentuje liczbę zakupionych licencji. W przypadku wszystkich innych źródeł przychodów ilość będzie zawsze wynosić 1. Nawet jeśli pojedyncza transakcja zostanie podzielona na dwa pozycje, ponieważ zostały użyte dwie różne formy płatności, każdy element wiersza będzie pokazywać wartość Quantity (Ilość) 1. |
+| Typ transakcji | Typ transakcji, na przykład zakup, zwrot, zwrot lub obciążenie zwrotne |
+| Formy płatności | Instrument płatniczy klienta używany na potrzeby transakcji, taki jak Karta, Rozliczenia operatora sieci komórkowej lub PayPal |
 | Kraj/region | Kraj/region, w którym wystąpiła transakcja |
-| Dostawca lokalny/sprzedawca | Lokalny dostawca/sprzedawca rekordów |
+| Dostawca lokalny/sprzedawca | Lokalny dostawca/sprzedawca rekordu |
 | Waluta transakcji | Waluta transakcji |
 | Kwota transakcji | Kwota transakcji |
 | Tax Remitted | Kwota emitowanych podatków (sprzedaż, użycie lub podatki VAT/GST) |
@@ -349,12 +349,12 @@ W poniższej tabeli wyjaśniono każdą kolumnę w instrukcji historycznej.
 | Waluta płatności | Waluta, w której dokonano płatności |
 | Przekonwertowana płatność | Kwota płatności przekonwertowana na walutę płatności przy użyciu stawki FX |
 | Model zwolnienia z podatku | Strona odpowiedzialna za remitowanie podatków (sprzedaż, użycie lub podatki VAT/GST) |
-| Data i godzina uprawnień | Data i godzina kontynuowania transakcji kwalifikują się do wypłaty (UTC). Po utworzeniu wypłaty obejmuje ona transakcję z datą uprawnienia do daty i godziny utworzenia wypłaty (uwzględnioną tylko w zarezerwowanym **pliku** CSV). |
-| Opłaty | Przedstawia podział wszystkich szczegółów opłat zagregowanych w kolumnie Kwota transakcji (uwzględnionych tylko dla Azure Marketplace; nieujmowane **w** zarezerwowanym pliku CSV). |
+| Data i godzina uprawnień | Data i godzina kontynuowania transakcji kwalifikują się do wypłaty (UTC). Po utworzeniu wypłaty obejmuje ona transakcję z datą uprawnień (o godzinie) przed datą utworzenia wypłaty (uwzględnioną tylko w **zastrzeżonym** pliku CSV). |
+| Opłaty | Przedstawia podział wszystkich szczegółów opłaty zagregowanych w kolumnie Kwota transakcji (uwzględnionych tylko dla Azure Marketplace; nieujętego w **zastrzeżonym** pliku CSV). |
 |||
 
 ## <a name="next-steps"></a>Następne kroki
 
 - [Interfejs Partner Payout API](https://apidocs.microsoft.com/services/partnerpayouts)
 - [Szczegóły zasad wypłat](payout-policy-details.md)
-- Aby uzyskać pomoc techniczną w przypadku rozliczeń, skontaktuj się z pomocą techniczną [wydawcy komercyjnej platformy handlowej.](https://partner.microsoft.com/support/v2/?stage=1)
+- Aby uzyskać pomoc techniczną w związku z rozliczeniami, skontaktuj się z pomocą techniczną [wydawcy komercyjnej platformy handlowej.](https://partner.microsoft.com/support/v2/?stage=1)
