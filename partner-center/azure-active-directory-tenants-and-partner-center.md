@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.date: 11/25/2019
-ms.openlocfilehash: a06a38ef9d96b4c2a1e95328d510eb2fd71ff0e3
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.date: 6/17/2021
+ms.openlocfilehash: 69aa45de55a4356eaab1bcd4cd309feb14de9f6e
+ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149846"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112318065"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Tworzenie konta służbowego, które łączy twoją firmę z kontem Partner Center konto
 
@@ -31,7 +31,7 @@ Służbowy adres e-mail lub służbowy adres e-mail jest adresem e-mail dostarcz
 Jeśli masz więcej niż jeden prawidłowy służbowy adres e-mail, użyj tego, który jest skojarzony z siedzibą firmy, a nie z działem regionalnym, na przykład użyj adresu e-mail, a nie `contoso.com` `contoso.uk` adresu.
 
 > [!NOTE]  
-> Przed podjęciem decyzji o użyciu istniejącego konta służbowego zastanów się, ilu użytkowników na koncie będzie musiało pracować w Partner Center. Jeśli masz użytkowników na koncie, którzy nie będą musieli pracować w programie Partner Center, rozważ utworzenie nowego konta tylko dla tych użytkowników, którzy będą musieli pracować w Partner Center.
+> Przed użyciem istniejącego konta służbowego zastanów się, ilu użytkowników na koncie służbowym będzie musiało uzyskać dostęp do Partner Center. Jeśli masz użytkowników na koncie służbowym, którzy nie będą potrzebować dostępu do aplikacji Partner Center, rozważ utworzenie nowego konta tylko dla tych użytkowników, którzy będą Partner Center dostępu.
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Nie masz pewności, czy Twoja firma ma już konto służbowe?
 
@@ -39,13 +39,13 @@ Jeśli nie masz pewności, czy firma ma konto służbowe, wykonaj następujące 
 
 1. Zaloguj się w witrynie [Azure Portal](https://portal.azure.com).
 
-2. Wybierz Azure Active Directory z menu, a następnie wybierz pozycję Nazwy domen.
+2. Wybierz Azure Active Directory menu nawigacji, a następnie wybierz **pozycję Custom Domain Nazwy.**
 
 3. Jeśli masz już konto służbowe, nazwa domeny zostanie wymieniona.
 
 Jeśli firma nie ma jeszcze konta służbowego, możesz je utworzyć podczas procesu rejestracji.
 
-Na poniższym diagramie przedstawiono kilka typowych scenariuszy:
+Na poniższym diagramie przedstawiono kroki dla kilku typowych scenariuszy:
 
 - określanie, czy masz konto służbowe
 - określanie sposobu logowania się do konta służbowego
@@ -57,13 +57,13 @@ Aby uzyskać więcej informacji na temat dodawania domen w usłudze Azure AD, zo
 
 ## <a name="about-microsoft-azure"></a>Informacje o Microsoft Azure
 
-Microsoft Azure to platforma chmury publicznej, której firmy mogą używać do tworzenia i wdrażania aplikacji oraz zarządzania nimi w globalnej sieci centrów danych zarządzanych przez firmę Microsoft. Firmy używają platformy Azure do tworzenia wirtualnej infrastruktury IT z funkcjami wirtualnymi lub usługami zamiast maszyn fizycznych.
+Microsoft Azure to platforma chmury publicznej, której firmy mogą używać do tworzenia i wdrażania aplikacji oraz zarządzania nimi w globalnej sieci centrów danych zarządzanych przez firmę Microsoft. Firmy używają platformy Azure do tworzenia wirtualnej infrastruktury IT z funkcjami wirtualnymi lub usługami, a nie maszynami fizycznymi.
 
 Po zakupie subskrypcji platformy Azure zasadniczo wynajmujesz dedykowane, bezpieczne miejsce w chmurze publicznej Azure, nie różni się zbytnie od wynajmowania podłogi w budynku biurowym w celu przechowywania fizycznej firmy. Właściciel budynku biurowego jest dzierżawcą.
 
-Konto służbowe platformy Azure to dedykowana i odizolowana wirtualna reprezentacja firmy w chmurze publicznej platformy Azure, utworzona automatycznie podczas subskrybowania usługi w chmurze firmy Microsoft, takiej jak Azure, Microsoft Intune lub Office 365.
+Konto służbowe platformy Azure to dedykowana i odizolowana wirtualna reprezentacja firmy w chmurze publicznej platformy Azure utworzona automatycznie podczas subskrybowania usługi w chmurze firmy Microsoft, takiej jak Azure, Microsoft Intune lub Office 365.
 
-Konto służbowe hostuje użytkowników usługi Azure AD oraz informacje o nich — ich hasła, dane profilu, uprawnienia i tak dalej. Konto służbowe zawiera również grupy, aplikacje i inne informacje dotyczące firmy i jej zabezpieczeń.
+Twoje konto służbowe hostuje użytkowników usługi Azure AD i informacje o nich — ich hasła, dane profilu, uprawnienia i tak dalej. Konto służbowe zawiera również grupy, aplikacje i inne informacje dotyczące firmy i jej zabezpieczeń.
 
 ## <a name="next-steps"></a>Następne kroki
 

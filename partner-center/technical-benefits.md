@@ -9,16 +9,16 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: b6de912047a327e89e2572504329e9eff23e7dbf
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: fb991e8e5792e2be2087e05cc371b064ea11d02e
+ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276386"
+ms.locfileid: "112318099"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Eksplorowanie technicznych usług przedsprzedażowych i wdrożeniowych (TPD) 
 
-**Odpowiednie role:** administrator partnera MPN
+**Odpowiednie role:** każde konto użytkownika MPN, o ile organizacja ma aktywną kompetencję lub konto microsoft Action Pack.
 
 Dowiedz się więcej Microsoft Partner Network (MPN) oferowanych w ramach technicznych usług przedsprzedażowych i wdrożeniowych, w tym konsultacja, pomoc przedsprzedażowa, godziny porad i nie tylko.
 
@@ -44,14 +44,14 @@ Zaloguj się przy użyciu dowolnego konta użytkownika skojarzonego z programem 
 
 ## <a name="delivery-scenarios"></a>Scenariusze dostarczania
 
-- Techniczne **analizy przedsprzedaży** służą do definiowania oferty wartości, zapewniania oszacowań kosztów, zarządzania zastrzeżeniami klientów, reagowania na komunikaty konkurencji, demonstrowania rozwiązań technicznych, weryfikacji koncepcji lub planowania architektury i projektowania, co prowadzi do oświadczenia o pracy.
+- Techniczne analizy **przedsprzedaży** służą do definiowania oferty wartości, zapewniania oszacowań kosztów, licencjonowania technicznego, zarządzania zastrzeżeniami klientów, reagowania na komunikaty konkurencji, demonstrowania rozwiązań technicznych, weryfikacji koncepcji lub planowania architektury i projektowania prowadzącego do oświadczenia o pracy.
 
-  - *Nie są obsługiwane:* Planowanie potoku sprzedaży, cenniki i cenniki.
+  - *Nie są obsługiwane:* Planowanie potoku sprzedaży, dyskusje klientów końcowych, cennik licencjonowania i cenniki.
 
 
 - **Wskazówki dotyczące** planowania i projektowania architektury, najlepsze rozwiązania, wskazówki dotyczące wdrażania, dokumentacji i dokumentacji dotyczącej wdrażania są używane podczas planowania i planowania wdrożenia.
 
-  - *Nie są obsługiwane:* Naprawa w przypadku łamania, pomoc techniczna/rozwiązywanie problemów, usługi w lokacji, długoterminowe konsultowanie bezpośrednio z działem pomocy technicznej lub pomoc praktyczne w środowisku produkcyjnym. 
+  - *Nie są obsługiwane:* Pomoc techniczna w przypadku łamania lub rozwiązywanie problemów, poprawki, usługi w lokacji, długoterminowe konsultingi (mniej niż 25 godzin na zaangażowanie) bezpośrednio do pomocy technicznej klienta lub pomocy technicznej w środowisku produkcyjnym. 
 
 
 - **Witryna Marketplace w** witrynie Marketplace służy do publikowania rozwiązania do ciągłego generowania potencjalnych klienta na platformie handlowej firmy Microsoft. Dla deweloperów, konfiguracja usługi, architektura lub przeglądy projektu, migracja z rozwiązań lokalnych, przegląd kodu i pomoc w publikowaniu aplikacji.
@@ -66,7 +66,7 @@ Następujące produkty i usługi znajdują się w zakresie technicznych usług p
 - **Business Applications:** Microsoft Dynamics 365 (online), Microsoft Power Platform (Power Apps, Power Automate, Power BI)
   - *Poza zakresem: Wyłącznie lokalne wersje usługi Dynamics 365, GP, SL, AX, NAV*
 - **Microsoft Azure:** wszystkie Microsoft Azure i powiązane usługi, takie jak infrastruktura jako usługa, platforma jako usługa, platforma danych, analiza analizy biznesowej, Cognitive Services, Azure Machine Learning, Azure Stack
-- **Windows Server:** główny obsługiwany system Windows Server (zgodnie z **[cyklem życia produktu)](/lifecycle/policies/fixed)**
+- **Windows Server i SQL Server:** w ramach wsparcia głównego zgodnie z **[cyklem życia produktu](/lifecycle/policies/fixed)**)
   - System Center obejmuje powiązane produkty, takie jak SCCM, jeśli są powiązane ze scenariuszami chmury lub hybrydowymi
 - **Windows 10:** Windows 10 operacyjny, urządzenia, aplikacje uniwersalne
 - **Produkty w prywatnej lub publicznej** wersji zapoznawczej: pomoc jest zapewniana w przypadku środowisk nieprodukyjnych i bez gwarancji dostępności informacji lub czasu odpowiedzi
@@ -106,5 +106,6 @@ Aby wyświetlić korzyści techniczne w Partner Center:
 6. Na stronie potwierdzenia jest przedstawiany numer i opis wniosku o pomoc techniczną. Otrzymasz również wiadomość e-mail z potwierdzeniem od Partner Center z numerem przypadku.
 
 ## <a name="next-steps"></a>Następne kroki
+[Pomoc techniczna dla produktów lokalnych lub w chmurze](/mpn-benefits-technical-support.md)
 
 [Zarządzanie korzyściami Microsoft Partner Network i ofertami](manage-your-partner-network-benefits.md)
