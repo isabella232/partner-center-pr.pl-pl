@@ -1,7 +1,7 @@
 ---
 title: Jak dodać nowy rekord klienta
 ms.topic: how-to
-ms.date: 04/27/2020
+ms.date: 04/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dowiedz się, jak dodać nowy rekord klienta w Partner Center. Następnie możesz sprzedawać subskrypcje klientów, zarządzać rozliczeniami lub zapewniać pomoc techniczną dla klientów.
@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 234e183ae814dc30f8d7d00c5dddb1ffea612825
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 76e15992355eff88e3a9391ea4af327c3ad969e0
+ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150560"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "112373362"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Jak dodać nowy rekord klienta w Partner Center
 
@@ -23,11 +23,11 @@ ms.locfileid: "110150560"
 W tym artykule opisano sposób dodawania nowego klienta do listy klientów w Partner Center. Te kroki są wymagane, aby można było sprzedawać subskrypcje, zarządzać rozliczeniami lub zapewniać pomoc techniczną klientowi.
 
 >[!NOTE]
->W przypadku istniejących klientów, w tym tych, którzy [](multichannel.md) już mają rekordy klientów w uciece Partner Center w scenariuszu obejmującym wiele kanałów lub wieloskładnikowych, należy zażądać relacji z nimi [zamiast](request-a-relationship-with-a-customer.md)wykonać kroki opisane tutaj. [](multipartner.md)
+>W przypadku istniejących klientów, w tym tych, którzy [](multichannel.md) już mają rekordy klientów w programie Partner Center za pośrednictwem scenariusza wielokanałowego lub wieloskładnikowego, należy zażądać relacji z nimi [zamiast](request-a-relationship-with-a-customer.md)wykonać kroki opisane tutaj. [](multipartner.md)
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Aby dodać nowego klienta w Centrum partnerskim
 
-1. Wybierz **pozycję Klienci** z Partner Center menu, a następnie wybierz pozycję Dodaj **klienta.**
+1. Wybierz **pozycję Customers** (Klienci) Partner Center menu, a następnie wybierz pozycję Add customer **(Dodaj klienta).**
 
 2. Na stronie **Informacje o koncie** wprowadź szczegóły klienta i podstawowe informacje kontaktowe. Sprawdź również, czy klient zaakceptował i podpisał najnowszą wersję [Umowa z Klientem Microsoft](agreements.md).
 
