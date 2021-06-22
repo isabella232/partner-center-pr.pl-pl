@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 37373c032dc34315c0e3274987805d7518d0b595
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 9cdb83c8b58b75606275c9773cba79eba75d5d0d
+ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276607"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112450811"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Konfigurowanie użytkowników przy użyciu uwierzytelniania wieloskładnikowego
 
@@ -34,7 +34,7 @@ Najłatwiej jest włączyć usługę MFA dla użytkowników podczas dodawania ic
 
 Spowoduje to włączenie uwierzytelniania wieloskładnikowego dla tego użytkownika. Włączone oznacza, że użytkownik zostanie poproszony o skonfigurowanie weryfikacji MFA podczas pierwszego logowania. Później podczas logowania zostanie wyświetlony monit o podanie kodu wysłanego do nich za pośrednictwem poczty e-mail lub wiadomości SMS (w zależności od tego, która konfiguracja została przez nich wysłana).  
 
-:::image type="content" source="images/MFA/securityverification.png" alt-text="Określ sposób weryfikacji.":::
+:::image type="content" source="images/multi-factor-authentication/security-verification.png" alt-text="Określ sposób weryfikacji.":::
 
 >[!NOTE]
 >Możesz **wymusić użycie** usługi MFA przez użytkowników, korzystając z powyższych kroków i wybierając pozycję **Wymuszaj.** Aby dowiedzieć się więcej, przeczytaj włączanie usługi [Azure Multi-Factor Authentication](/azure/active-directory/authentication/howto-mfa-userstates)dla uwierzytelniania na użytkownika w celu zabezpieczenia zdarzeń logowania. 
