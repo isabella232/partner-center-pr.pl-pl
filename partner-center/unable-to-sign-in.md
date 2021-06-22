@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f4af8c48e2bbe65f58549b542447c80b699332be
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 2b67201355e748f9280d28413a8737a9b07db5c6
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818800"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431501"
 ---
 # <a name="troubleshoot-sign-in-issues-for-partner-center"></a>Rozwiązywanie problemów z logowaniem dla Partner Center
 
@@ -24,15 +24,15 @@ Ten artykuł zawiera rozwiązania typowych problemów z logowaniem dla Partner C
 
 ## <a name="youve-forgotten-your-password-for-partner-center"></a>Nie pamiętasz hasła do Partner Center
 
-Jeśli nie pamiętasz hasła i nie możesz zalogować się do Partner Center, skontaktuj się z pomocą techniczną. Odpowiedni kontakt można znaleźć na [stronie Pomoc techniczna dla produktów biznesowych.](/microsoft-365/admin/contact-support-for-business-products)
+Jeśli nie pamiętasz hasła i nie możesz zalogować się do Partner Center, skontaktuj się z pomocą techniczną. Odpowiedni kontakt można znaleźć na [stronie pomocy technicznej dotyczącej produktów biznesowych.](/microsoft-365/admin/contact-support-for-business-products)
 
-Jeśli jesteś partnerem MPN, poproś administratora globalnego o utworzenie nowego hasła. Jeśli jesteś odsprzedawcą pośrednim w programie CSP, poproś dostawcę pośredniego o utworzenie nowego administratora globalnego w dzierżawie usługi Azure AD lub utworzenie nowego hasła przy użyciu delegowanych uprawnień administratora.
+Jeśli jesteś partnerem usługi Microsoft Partner Network (MPN), poproś administratora globalnego o utworzenie nowego hasła. Jeśli jesteś odsprzedawcą pośrednim w programie Dostawca rozwiązań w chmurze (CSP), poproś dostawcę pośredniego o utworzenie nowego administratora globalnego w dzierżawie usługi Azure Active Directory (AD) lub utworzenie nowego hasła przy użyciu ich delegowanych uprawnień administratora.
 
-Aby dowiedzieć się więcej na temat resetowania hasła i odzyskiwania dostępu do konta służbowego, przeczytaj resetowanie hasła służbowego [przy użyciu informacji zabezpieczających.](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password)
+Aby dowiedzieć się więcej o tym, jak można zresetować hasło i odzyskać dostęp do konta służbowego, przeczytaj resetowanie hasła służbowego [przy użyciu informacji zabezpieczających.](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password)
 
 ## <a name="you-cant-view-or-manage-the-expected-pages-or-capabilities-in-partner-center"></a>W programie nie można wyświetlać oczekiwanych stron ani możliwości ani zarządzać nimi Partner Center
 
-Dostęp do stron w Partner Center jest kontrolowany przez przypisane role. Aby sprawdzić, które role są przypisane, na stronie Partner Center wybierz ikonę Ustawienia, wybierz pozycję Ustawienia **konta,** a następnie w menu Ustawienia konta wybierz pozycję **Zarządzanie użytkownikami.** W polu Wyszukaj wpisz swoją nazwę, a następnie wyświetl wyniki.
+Dostęp do stron w Partner Center jest kontrolowany przez przypisane role. Aby sprawdzić, które role są przypisane, na stronie Partner Center wybierz ikonę Ustawienia, wybierz pozycję Ustawienia **konta,** a następnie w ustawieniach Konta wybierz pozycję **Zarządzanie użytkownikami.** W polu Wyszukaj wpisz swoje imię i nazwisko, a następnie wyświetl wyniki.
 
 Jeśli nie możesz wyświetlić kompetencji, klientów, zachęt lub użytkowników, których oczekujesz, ani zarządzać nimi, wypróbuj następujące rozwiązania:
 

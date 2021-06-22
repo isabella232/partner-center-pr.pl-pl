@@ -9,12 +9,12 @@ ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fc31915660b6a82954daee5fcc8fb2d5292e725c
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 6c486d4866b0a2a912801d2648a1822418687078
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109795010"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431698"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Informacje o plikach uzgodnień opartych na użyciu i ich określonych polach w Partner Center
 
@@ -31,13 +31,13 @@ W poniższych polach wyjaśniono, które usługi zostały użyte i jakie są sta
 | PartnerId | Identyfikator partnera w formacie IDENTYFIKATORA GUID. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | PartnerName | Nazwa partnera. | *Contoso, Ltd.* |
 | PartnerBillableAccountId | Identyfikator konta partnera. | *1010578050* |
-| CustomerCompanyName | Nazwa organizacji klienta zgłoszona w Partner Center. *Bardzo ważne w przypadku uzgadniania faktury z informacjami o systemie.* | *Klient testowy* |
-| MpnId | Identyfikator MPN partnera CSP. | *4390934* |
+| CustomerCompanyName | Nazwa organizacji klienta zgłoszona w Partner Center. *Jest to bardzo ważne w przypadku uzgadniania faktury z informacjami o systemie.* | *Klient testowy* |
+| MpnId | Microsoft Partner Network (MPN) partnera Dostawca rozwiązań w chmurze (CSP). | *4390934* |
 | ResellerMpnId | Identyfikator MPN odsprzedawcy rekordu dla subskrypcji.  |
 | InvoiceNumber | Numer faktury, na której pojawia się określona transakcja. | *D020001IVK* |
-| ChargeStartDate | Data rozpoczęcia cyklu rozliczeniowego, z wyjątkiem prezentowania dat wcześniej niezapłacanych danych użycia ukrytego (z poprzedniego cyklu rozliczeniowego). Godzina to zawsze początek dnia, 0:00. | *2/1/2019 0:00* |
-| ChargeEndDate | Data końcowa cyklu rozliczeniowego, z wyjątkiem dat prezentowania wcześniej niezaliczanych danych użycia ukrytego (z poprzedniego cyklu rozliczeniowego). Godzina to zawsze koniec dnia, 23:59. | *2/28/2019 23:59* |
-| SubscriptionId | Unikatowy identyfikator subskrypcji na platformie rozliczeniowej firmy Microsoft. Może być przydatna do identyfikowania subskrypcji podczas kontaktowania się z pomocą techniczną. Nie służy do uzgadniania. *To nie jest to samo, co **identyfikator subskrypcji w** konsoli administracyjnej partnera.* | *usCBMgAAAAAAAAAAIA* |
+| ChargeStartDate | Data rozpoczęcia cyklu rozliczeniowego, z wyjątkiem dat wcześniej nienaliczanych danych użycia ukrytego (z poprzedniego cyklu rozliczeniowego). Godzina to zawsze początek dnia, 0:00. | *2/1/2019 0:00* |
+| ChargeEndDate | Data zakończenia cyklu rozliczeniowego, z wyjątkiem dat wcześniej niezaliczanych danych użycia ukrytego (z poprzedniego cyklu rozliczeniowego). Czas to zawsze koniec dnia, 23:59. | *2/28/2019 23:59* |
+| SubscriptionId | Unikatowy identyfikator subskrypcji na platformie rozliczeniowej firmy Microsoft. Może być przydatna do zidentyfikowania subskrypcji podczas kontaktowania się z pomocą techniczną. Nie są używane do uzgadniania. *To nie jest to samo co **identyfikator subskrypcji w** konsoli administracyjnej partnera.* | *usCBMgAAAAAAAAIAA* |
 | SubscriptionName | Pseudonim oferty usługi. | *Microsoft Azure* |
 | SubscriptionDescription | Działalność biznesowa oferty usług. | *Microsoft Azure* |
 | OrderID | Unikatowy identyfikator zamówienia na platformie rozliczeniowej firmy Microsoft. Może być przydatna do zidentyfikowania subskrypcji podczas kontaktowania się z pomocą techniczną. Nie są używane do uzgadniania. | *566890604832738111* |
@@ -47,13 +47,13 @@ W poniższych polach wyjaśniono, które usługi zostały użyte i jakie są sta
 | ResourceName | Nazwa zasobu platformy Azure. | *Transfer danych w (GB),* *transfer danych na zewnątrz (GB)* |
 | Region (Region) | Region, do którego ma zastosowanie użycie. Służy głównie do przypisywania stawek do transferów danych, ponieważ stawki różnią się w zależności od regionu. | *Azja i Pacyfik,* *Europa,* *Ameryka Łacińska*, *Ameryka Północna* |
 | SKU | Unikatowy identyfikator firmy Microsoft dla oferty. | *7UD-00001* |
-| DetailLineItemId | Identyfikator i ilość, które mają być elementami różnych stawek za usługę lub zasób w danym okresie rozliczeniowym. W przypadku cen warstwowych platformy Azure może być jedna stawka dla określonej liczby rozliczanych jednostek, a następnie inna stawka po tej ilości. | *1* |
-| ConsumedQuantity | Ilość zużytej usługi (np. godziny lub GB) w okresie raportowania. Obejmuje również wszelkie nienalizane użycie z poprzednich okresów raportowania. | *11* |
+| DetailLineItemId | Identyfikator i ilość do podano różne stawki dla usługi lub zasobu w danym okresie rozliczeniowym. W przypadku cen warstwowych platformy Azure może być naliczana jedna stawka dla maksymalnie określonej liczby rozliczanych jednostek, a następnie inna stawka po tej ilości. | *1* |
+| ConsumedQuantity | Ilość zużytej usługi (np. godziny lub GB) w okresie raportowania. Obejmuje również wszelkie nienaliowane użycie z poprzednich okresów raportowania. | *11* |
 | IncludedQuantity | Jednostki uwzględnione w ramach oferty. Zwykle nie występuje w programie CSP. | *0* |
-| OverageQuantity | Jednostki nie są uwzględniane w ramach oferty. Muszą one zostać opłacone przez partnera. Równa się **wartości ConsumedQuantity** minus **IncludedQuantity**. | *11* |
+| OverageQuantity | Jednostki nie są uwzględnione w ramach oferty. Muszą one zostać opłacone przez partnera. Równa się **consumedQuantity** minus **IncludedQuantity**. | *11* |
 | Listprice | Cena oferty obowiązywała w dniu rozpoczęcia subskrypcji. | *0,0808 USD* |
 | PretaxCharges | Równa się **wartości ListPrist** pomnożonej **przez wartość OverageQuantity** zaokrągloną do najbliższego centa. | *0,085 USD* |
-| TaxAmount (Kwota podatku) | Kwota podatku naliczona. Na podstawie reguł podatkowych obowiązujących na rynku i określonych okoliczności. | *0,08 USD* |
+| TaxAmount | Kwota podatku naliczona. Na podstawie reguł podatkowych obowiązujących na rynku i określonych okoliczności. | *0,08 USD* |
 | PostTaxTotal | Łącznie po opodatkowaniu, gdy ma zastosowanie podatek. | *0,93 USD* |
 | Waluta | Typ waluty. Każda jednostka rozliczeniowa ma tylko jedną walutę. Sprawdź, czy jest ona taka, jak pierwsza faktura, a następnie po każdej istotnej aktualizacji platformy rozliczeniowej. | *EUR* |
 | PretaxEffectiveRate | Cena przedtax na jednostkę. Równe **pretaxCharges** podzielone przez **OverageQuantity**, zaokrąglone do najbliższego centa. | *0,08 USD* |
@@ -65,8 +65,8 @@ W poniższych polach wyjaśniono, które usługi zostały użyte i jakie są sta
 | Jednostka | Jednostka zasobu **Nazwa**. | *GB* lub *GODZINY* |
 | CustomerBillableAccount | Unikatowy identyfikator konta na platformie rozliczeniowej firmy Microsoft. | *1280018095* |
 | UsageDate | Data wdrożenia usługi. | *2/1/2019 0:00* |
-| Region mierzony | Określa lokalizację centrum danych w regionie (dla usług, w których ta wartość ma zastosowanie i jest wypełniana). | *Azja Wschodnia*, *Azja Wschodnia,* Europa *Północna,* *Europa Zachodnia,* *Północno-środkowe stany USA,* *Południowo-środkowe stany USA* |
-| MeteredService | Identyfikuje użycie poszczególnych usług platformy Azure, jeśli nie zostanie ono wyraźnie zidentyfikowane w kolumnie **ServiceName.** Na przykład transfery danych są zgłaszane jako *Microsoft Azure — wszystkie usługi* w kolumnie **ServiceName.** | *AccessControl,* *CDN,* *Compute,* *Database,* *ServiceBus,* *Storage* |
+| Region mierzony | Określa lokalizację centrum danych w regionie (dla usług, w których ta wartość ma zastosowanie i jest wypełniana). | *Azja Wschodnia*, *Południowe Azja Wschodnia,* Europa *Północna,* *Europa Zachodnia,* *Północno-środkowe stany USA,* *Południowo-środkowe stany USA* |
+| MeteredService | Identyfikuje użycie poszczególnych usług platformy Azure, jeśli nie jest ono wyraźnie identyfikowane w kolumnie **ServiceName.** Na przykład transfery danych są zgłaszane jako *Microsoft Azure — wszystkie usługi* w kolumnie **ServiceName.** | *AccessControl,* *CDN,* *Compute,* *Database,* *ServiceBus,* *Storage* |
 | MeteredServiceType | Pole **MeteredService,** które zawiera dodatkowe wyjaśnienie użycia usługi platformy Azure. | *Zewnętrznych* |
 | Project | Zdefiniowana przez klienta nazwa wystąpienia usługi. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | ServiceInfo | Liczba połączeń Azure Service Bus, które zostały zaaprowizowane i wykorzystane w danym dniu. | *1,000000 połączeń / 30* dni (jeśli masz indywidualnie aprowizowane połączenie w ciągu 30-dniowego miesiąca), 25 połączeń / 30 dni — *używane: 10000000* (jeśli zaaprowizowanych zostało 25 połączeń Service Bus i w tym dniu wykorzystano 1) |

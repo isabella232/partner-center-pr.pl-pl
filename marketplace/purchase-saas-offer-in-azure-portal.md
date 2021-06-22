@@ -8,12 +8,12 @@ ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
 ms.date: 06/04/2021
-ms.openlocfilehash: b73a9acb7b9cf9eee1151de1f8e45f6fd6ef256f
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.openlocfilehash: 8dba9f95607a4172e6d5d0bc2ec148a25b599cd1
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373493"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431447"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Kupowanie oferty SaaS w Azure Portal
 
@@ -107,12 +107,12 @@ Komunikaty o błędach, które mogą wystąpić podczas tego procesu:
 - Adres *e-mail klienta* o identyfikatorze *obiektu ObjectID* nie ma autoryzacji do wykonania akcji *DeploymentValidationAction* w zakresie *ResourceGroup; DeploymentScope* lub zakres jest nieprawidłowy.  
   - Ten komunikat zostanie wyświetlony, jeśli nie masz odpowiednich uprawnień do subskrypcji/grupy zasobów platformy Azure.  
     Jeśli niedawno udzielono dostępu, odśwież swoje poświadczenia.  
-    Aby wdrożyć zasoby w grupie zasobów, musisz mieć co najmniej dostęp współautora. Sprawdź stan dostępu w obszarze **Grupy zasobów,** a **następnie** Access Control . To pokazuje, kim jest "Właściciel", którego możesz poprosić o przypisanie Cię jako "współautora".
+    Aby wdrożyć zasoby w grupie zasobów, musisz mieć co najmniej dostęp współautora. Sprawdź stan dostępu w obszarze **Grupy zasobów,** a **następnie** Access Control . To pokazuje, kim jest "Właściciel", którego możesz poprosić o przypisanie Cię jako "Współautor".
 
 - Subskrypcja używana do tego zakupu nie zezwala na zakupy w witrynie Marketplace.  
   - Użyj innej subskrypcji lub poproś administratora o zmianę definicji tej subskrypcji i ponów próbę.
 
 ## <a name="next-steps"></a>Następne kroki
 
-- Jeśli sprzedajesz swoją ofertę za pośrednictwem firmy Microsoft, przejdź do tematu Jak dodać odbiorców wersji zapoznawczej oferty [SaaS.](/azure/marketplace/create-new-saas-offer-preview)
-- W przeciwnym razie przejdź do [tematu Jak sprzedawać ofertę SaaS.](/azure/marketplace/create-new-saas-offer-marketing)
+- Jeśli już zakupiono ofertę na platformie handlowej, przejdź do [tematu Rozliczenia i fakturowanie](/marketplace/billing-invoicing)
+- Możesz również dowiedzieć się więcej o [opcjach planów prywatnych.](/marketplace/private-offers)

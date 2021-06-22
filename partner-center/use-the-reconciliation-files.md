@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 755881d0bd96b9d601346ebb6271bd524c31d0a3
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 1a7d5f3169c4b338a07475a7e246e87841b8dcfb
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794959"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431575"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Dowiedz się, jak odczytywać elementy wiersza w plikach Partner Center uzgodnień
 
@@ -41,12 +41,12 @@ Czasami plik uzgodnień może zawierać problemy z formatowaniem. Na przykład t
 
 Wykonaj następujące kroki, aby rozwiązać wszelkie problemy z formatowaniem w plikach uzgodnień:
 
-1. Otwórz plik uzgodnień (w formacie CSV) w programie Microsoft Excel.
+1. Otwórz plik uzgodnień (w formacie .csv) w programie Microsoft Excel.
 2. Wybierz pierwszą kolumnę w pliku.
 3. Otwórz Kreatora **konwertowania tekstu na kolumny.** Na wstążce wybierz pozycję **Dane,** a następnie wybierz pozycję **Tekst na kolumny.**
 4. W kreatorze wybierz **typ pliku Rozdzielany.** Następnie wybierz pozycję **Dalej**.
 5. W polu **Ograniczniki** wybierz pozycję **Przecinek**. (Jeśli **karta** jest już zaznaczona, możesz pozostawić tę opcję zaznaczoną). Następnie wybierz pozycję **Dalej.**
-6. W polu **Format danych kolumny** wybierz pozycję **Date:MDY**. Następnie wybierz pozycję **Dalej**.
+6. W polu **Format danych kolumny** wybierz pozycję **Date:MDY.** Następnie wybierz pozycję **Dalej**.
 7. W polu **Format danych kolumny** wybierz pozycję **Tekst** dla wszystkich kolumn ilości. Następnie wybierz pozycję **Finish** (Zakończ).
 
 ## <a name="download-reconciliation-files-programmatically"></a>Programowe pobieranie plików uzgodnień
@@ -60,18 +60,18 @@ Jeśli możesz pobrać plik uzgodnień, ale nie możesz go otworzyć w programie
 ### <a name="open-a-recon-file-in-power-bi"></a>Otwórz plik rekonescji w Power BI
 
 1. Pobierz plik uzgodnień w zwykły sposób.
-2. Pobierz, zainstaluj i otwórz wystąpienie Power BI.
+2. Pobierz, zainstaluj i otwórz wystąpienie usługi Microsoft Power BI.
 3. Na karcie Power BI **Narzędzia** główne wybierz pozycję **Pobierz dane.**
-4. Na liście **wspólnych źródeł danych wybierz** pozycję **Tekst/CSV.**
+4. Na liście **wspólnych źródeł danych** wybierz pozycję **Tekst/CSV.**
 5. Po wyświetleniu monitu otwórz plik rekonescji.
 
-### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Otwieranie pliku rekonescji w tabeli przestawnej programu Excel
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Otwieranie pliku ponownego w tabeli przestawnej programu Excel
 
 1. Pobierz plik uzgodnień w zwykły sposób.
 2. Otwórz nowy plik w programie Microsoft Excel.
 3. Na karcie **Dane** wybierz pozycję **Pobierz dane,** wybierz pozycję **Z pliku**, a następnie wybierz **pozycję Tekst/CSV.**
 4. Po wyświetleniu monitu otwórz plik rekonescji. Zostaną wyświetlone dane.
-5. Z menu **rozwijanego** Załaduj wybierz pozycję **Załaduj do**, a następnie kliknij **przycisk OK.**
+5. Z menu **rozwijanego** Ładowanie wybierz pozycję **Załaduj do**, a następnie wybierz przycisk **OK.**
 6. W **oknie dialogowym Import danych** wybierz pozycję **Raport tabeli przestawnej,** aby otworzyć plik.
 
 ## <a name="negative-amount-displayed"></a>Wyświetlana kwota ujemna
@@ -101,9 +101,9 @@ Partnerzy w modelu **pośrednim mogą** używać tych dodatkowych pól zarówno 
 
 ### <a name="reseller-mpn-id"></a>Identyfikator MPN odsprzedawcy
 
-Jeśli partner CSP sprzedał subskrypcję bezpośrednio klientowi, jego identyfikator **MPN** jest dwukrotnie wymieniony jako identyfikator **MPN** i identyfikator **MPN odsprzedawcy.**
+Jeśli partner CSP sprzedał subskrypcję bezpośrednio klientowi, jego identyfikator **MPN** jest dwukrotnie wymieniony jako zarówno identyfikator **MPN,** jak i identyfikator **MPN odsprzedawcy.**
 
-Jeśli partner programu CSP ma odsprzedawcę bez identyfikatora **MPN,** ta wartość jest ustawiana na identyfikator **MPN** partnera.
+Jeśli partner CSP ma odsprzedawcę bez identyfikatora **MPN,** ta wartość jest ustawiana na identyfikator **MPN** partnera.
 
 Jeśli partner CSP usunie identyfikator **MPN odsprzedawcy,** ta wartość zostanie ustawiona *na -1.*
 
