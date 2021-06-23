@@ -1,20 +1,20 @@
 ---
-title: Pomoc techniczna dotycząca rozliczeń dla klientów
+title: Zapewnij klientom pomoc techniczną w rozliczeniach
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się więcej o wymaganej pomocy technicznej dotyczącej rozliczeń klientów od partnerów programu CSP. Ta pomoc techniczna obejmuje posiadanie relacji rozliczeniowej klienta i odpowiadanie na pytania dotyczące rozliczeń.
+description: Dowiedz się więcej na temat pomocy technicznej dotyczącej rozliczeń dla klientów Dostawca rozwiązań w chmurze partnerów programu (CSP). Ta pomoc techniczna obejmuje posiadanie relacji rozliczeniowej klienta i odpowiadanie na pytania dotyczące rozliczeń.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dd8a9b09d4dbd45c0d76bce1674babfd5e17cdbe
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: ab9ac3c7ba8e718c3b154e81649965457a4cf7ff
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854132"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551326"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Zapewnianie pomocy technicznej dotyczącej rozliczeń dla klientów i pomaganie w odpowiadania na ich pytania dotyczące rozliczeń
 
@@ -31,21 +31,21 @@ Jesteś właścicielem relacji rozliczeniowej z klientami i odpowiadasz na pytan
 
 ## <a name="microsoft-partner-support-guidance"></a>Wskazówki dotyczące pomocy technicznej dla partnerów firmy Microsoft
 
-Partnerzy, którzy inicjują transakcje w modelu CSP, są zaufanymi doradcami klientów i są właścicielami relacji, w tym pomocy technicznej, gdy ich klient ma pytanie lub problem. Dzięki punktom dotykowym pomocy technicznej partnerzy mogą dowiedzieć się więcej o kliencie i jego firmie, aby identyfikować nowe usługi i rozwiązania, które wpływają na wartość.
+Partnerzy, którzy obsługują transakcje w modelu Dostawca rozwiązań w chmurze (CSP), są zaufanymi doradcami swoich klientów i są właścicielami relacji end-to-end, w tym pomocy technicznej, gdy ich klient ma pytanie lub problem. Dzięki punktom dotykowym pomocy technicznej partnerzy mogą dowiedzieć się więcej o kliencie i jego firmie, aby identyfikować nowe usługi i rozwiązania, które wpływają na wartość.
 
 Aby spełnić wymagania dotyczące pomocy technicznej, partner może odsprzedać pomoc techniczną z innej jednostki, może zlecić całość lub część struktury pomocy technicznej i/lub może skonfigurować strukturę w celu bezpośredniego świadczenia pomocy technicznej.  Partner może naliczać opłaty za całą lub część pomocy technicznej udostępnianej klientom. Partner powinien przedstawić swoim klientom pomoc techniczną, godziny obsługi i metodę kontaktu oraz cennik (w przypadku naliowania opłat za pomoc techniczną). 
 
 >[!Note]
->Jeśli nie jesteś cSP i masz pytania dotyczące rozliczeń klientów, zapoznaj się z określonym portalem dla odpowiednich produktów lub usług.
+>Jeśli nie jesteś programem CSP i masz pytania dotyczące rozliczeń klientów, zapoznaj się z określonym portalem dla odpowiednich produktów lub usług.
 
-Partnerzy muszą otrzymywać przychodzące żądania pomocy technicznej od klientów, diagnozować problemy w najlepszy sposób, a następnie rozwiązywać problemy, które znajdują się w zakresie granic podstawowej pomocy technicznej. Jeśli partner nie może rozwiązać problemu, może eskalować problemy do firmy Microsoft za pośrednictwem następujących pojazdów pomocy technicznej:
+Partnerzy muszą otrzymywać przychodzące żądania pomocy technicznej od klientów, diagnozować problemy w sposób najlepiej korzystający z możliwości partnera, a następnie rozwiązywać problemy, które znajdują się w zakresie granic pomocy technicznej dla linii bazowej. Jeśli partner nie może rozwiązać problemu, może eskalować problemy do firmy Microsoft za pośrednictwem następujących pojazdów pomocy technicznej:
 
-- **Pomoc techniczna** dla problemów komercyjnych jest dostępna dla wszystkich partnerów w programie CSP
+- **Obsługa problemów** komercyjnych jest dostępna dla wszystkich partnerów w programie CSP
 
-- **Pomoc techniczna** jest dostępna za pośrednictwem:
+- **Pomoc techniczna** w zakresie problemów technicznych jest dostępna za pośrednictwem:
 
-  - Pomoc techniczna Premier dla partnerów (podstawa opłat)
-  - Zaawansowana pomoc techniczna dla partnerów (podstawa opłat)
+  - Pomoc techniczna Premier dla partnerów (PSfP) (podstawa opłat)
+  - Zaawansowana pomoc techniczna dla partnerów (ASfP) (podstawa opłat)
   - Signature Cloud Support (dołączone do kompetencji Gold/Silver)
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Zapewnianie rozliczeń, zarządzania subskrypcjami i pomocy technicznej 

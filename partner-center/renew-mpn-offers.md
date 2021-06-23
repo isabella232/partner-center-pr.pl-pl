@@ -4,29 +4,29 @@ ms.topic: article
 ms.date: 02/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Odnawianie Microsoft Partner Network (MPN) dla kompetencji i zaawansowanych specjalizacji — okno odnawiania rozpoczyna się datą rocznicy zakupu plus jeden dzień.
+description: Odnawianie Microsoft Partner Network (MPN) dla kompetencji i zaawansowanych specjalizacji — okno odnawiania rozpoczyna się rocznicą daty zakupu plus jeden dzień.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72e5c797f292329e779924177b0500e80754e3df
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2b88e3ceee001a79b80a38408e6bb6b1f1940a07
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855679"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551677"
 ---
-# <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Odnawianie ofert MPN dla kompetencji i zaawansowanych specjalizacji w oknie odnawiania
+# <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Odnawianie ofert MPN na kompetencje i zaawansowane specjalizacje w oknie odnawiania
 
 **Odpowiednie role:** administrator partnera MPN
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Reagowanie na coVID-19: Microsoft Partner Network aktualizacji
 
-Firma Microsoft oferuje rozszerzenie kompetencji (z wyjątkiem kompetencji Cloud Business Applications) i zaawansowane rozszerzenie specjalizacji dla partnerów z datami rocznicy (AD) między 1 stycznia 2021 r. a 30 czerwca 2021 r. Aby uzyskać więcej informacji, zobacz [wpis w blogu partnera](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
+Firma Microsoft oferuje rozszerzenie kompetencji (z wyjątkiem kompetencji Cloud Business Applications) i rozszerzenie specjalizacji zaawansowanej dla partnerów z datami rocznicy od 1 stycznia 2021 r. do 30 czerwca 2021 r. Aby uzyskać więcej informacji, zobacz [wpis w blogu partnera](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
 
 ## <a name="renewal-reminders"></a>Przypomnienia dotyczące odnowienia
 
-Masz 30 dni od daty rocznicy odnowienia. W tym czasie korzyści będą nadal przynosić korzyści. 15 dni przed datą rocznicy firma Microsoft przypomni Ci o zbliżającej się rocznicy. Kolejne przypomnienie otrzymasz 23 dni po dacie rocznicy. Po odnowieniu w tym rocznicowym i 30-dniowym okresie korzyści pozostaną niezmienione. Jeśli nie odnowisz w oknie odnawiania, utracisz korzyści i kompetencje.
+Masz 30 dni od daty rocznicy odnowienia. W tym czasie korzyści będą nadal przynosić korzyści. Na 15 dni przed datą rocznicy firma Microsoft przypomni Ci o nadchodzącej rocznicy. Kolejne przypomnienie otrzymasz 23 dni po dacie rocznicy. W przypadku odnowienia w ramach tego rocznicy i 30-dniowego okresu korzyści pozostaną niezmienione. Jeśli nie odnowisz okresu w oknie odnawiania, utracisz korzyści i kompetencje.
 
 Po odnowieniu w oknie odnawiania nowa data rocznicy będzie przypadać 365 dni po bieżącej rocznicy.
 
@@ -36,11 +36,11 @@ Po odnowieniu w oknie odnawiania nowa data rocznicy będzie przypadać 365 dni p
 
 2. Na liście dostępnych kompetencji Twoje kompetencje powinny być oznaczone jako Ukończone.  
 
-3. Wybierz jedną z twoich kompetencji. Zobaczysz powiadomienie, że masz nadane zwolnienie z spełniania wymagań do następnej daty odnowienia.
+3. Wybierz jedną ze swoich kompetencji. Zobaczysz powiadomienie, że masz nadane zwolnienie z spełniania wymagań do następnej daty odnowienia.
 
-4. Aby skorzystać z tej oferty, przejdź do **tematu Oferty członkostwa**. Aby ukończyć proces, może być konieczne wniesienie opłaty za kompetencję w zależności od zakupu lub odnowienia kompetencji.
+4. Aby skorzystać z tej oferty, przejdź do tematu **Membership offers (Oferty członkostwa).** Aby ukończyć proces, może być konieczne wniesienie opłaty za kompetencję w zależności od zakupu lub odnowienia kompetencji.
 
-Aby skorzystać z rozszerzenia, musisz przenieść członkostwo z programu Partner Membership Center (PMC) do Partner Center, aby odnowić kompetencję i zapłacić opłatę. Jeśli jeszcze nie przeniesiono członkostwa, dowiedz [się więcej](prepare-pmc-pc-migration.md)i już   dziś [dokonaj przejścia.](https://partners.microsoft.com/partnerprogram/Welcome.aspx)    
+Aby skorzystać z rozszerzenia, musisz przenieść członkostwo z programu Partner Membership Center (PMC) do Partner Center, aby odnowić kompetencję i zapłacić opłatę. Jeśli jeszcze nie przeniesiono członkostwa, dowiedz [się więcej](partner-membership-center-retirement-faq.md)i już   dziś [dokonaj przejścia.](https://partners.microsoft.com/partnerprogram/Welcome.aspx)    
 
 ## <a name="next-steps"></a>Następne kroki
 

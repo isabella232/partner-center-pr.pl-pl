@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24eba2969552b0403de9828e86d4fc73abfec585
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: ab23e04afd3ffd5c287cc057aa51e872ab725f4d
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276267"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551184"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Kup plan platformy Azure dla klientów, & uzyskać dostęp do najnowszych usług platformy Azure po stawkach płatności zgodnie z potrzebami
 
 **Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent sprzedaży
 
-Po zakupie planu platformy Azure dla klientów w ramach usługi Umowa z Klientem Microsoft masz dostęp do pełnego katalogu najnowszych usług platformy Azure po stawkach płatności zgodnie z użyciem. Partnerzy programu CSP będą teraz mogli uzyskać dostęp do dowolnej usługi platformy Azure, gdy stanie się ona ogólnie dostępna. Partner może mieć wiele subskrypcji platformy Azure w ramach planu platformy Azure. 
+Po zakupie planu platformy Azure dla klientów w ramach usługi Umowa z Klientem Microsoft masz dostęp do pełnego katalogu najnowszych usług platformy Azure po stawkach płatności zgodnie z użyciem. Dostawca rozwiązań w chmurze (CSP) będą teraz mogli uzyskać dostęp do dowolnej usługi platformy Azure, gdy stanie się ona ogólnie dostępna. Partner może mieć wiele subskrypcji platformy Azure w ramach planu platformy Azure. 
 
 ## <a name="countryregion-availability"></a>Dostępność kraju/regionu
 
@@ -31,7 +31,7 @@ Nowe środowisko handlowe w programie CSP dla platformy Azure jest obecnie dost�
 Sposób zakupu planu platformy Azure jest podobny do zakupu dowolnej innej subskrypcji. Kluczowa różnica polega na tym, że przed rzeczywiście zamówieniem należy potwierdzić, że klient podpisał umowę Umowa z Klientem Microsoft.
 
 1. Wybierz **pozycję Segment komercyjne** i wpisz **Microsoft Azure** 
-2. W obszarze Plan platformy Azure wybierz **pozycję Dodaj do koszyka**
+2. W obszarze Plan platformy Azure wybierz pozycję **Dodaj do koszyka**
 
 :::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Zakupu.":::
 
@@ -95,7 +95,7 @@ Na **stronie Subskrypcje** w sekcji opartej na użyciu rozwiń plan platformy **
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Dodawanie subskrypcji i konfigurowanie zasobów
 
-Dodasz subskrypcje i skonfigurujesz zasoby dla klienta w Azure Portal. Możesz również oddzielić środowisko klienta według obciążenia lub projektu. Subskrypcjami można zarządzać za [pośrednictwem Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) a także Azure Portal. 
+Dodasz subskrypcje i skonfigurujesz zasoby dla klienta w Azure Portal. Możesz również oddzielić środowisko klienta według obciążenia lub projektu. Subskrypcjami można zarządzać za pośrednictwem [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) i Azure Portal. 
 
 Aby zarządzać zasobami i subskrypcjami klienta, musisz mieć uprawnienia **Administratora w imieniu** (AOBO). Aby uzyskać informacje na temat zarządzania dostępem, przeczytaj [zarządzanie subskrypcjami i zasobami w ramach planu platformy Azure.](azure-plan-manage.md)
 
