@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/26/2021
-ms.openlocfilehash: 06abd261e4d71b2e5e37eb2d77c1e62794c99a95
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 673620843ea8d469f1a665982f2a120b4b1e2d7e
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277763"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490023"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Szczegóły podatkowe dla wydawców na komercyjnej platformie handlowej
 
@@ -54,7 +54,7 @@ W krajach **odsprzedawcy** firma Microsoft działa jako odsprzedawca, a nie agen
 |Benin|Wyspy Owcze|Malediwy|
 |Bermudy|Fidżi|Mali|
 |Bhutan|Gabon|Wyspy Marshalla|
-|Boliwia|Ghana|Martinque|
+|Boliwia|Ghana|Martynika|
 |Bonaire|Gruzja|Mauretania|
 |Ai & Wańcowy|Gibraltar|Mauritius|
 |Botswana|Grenlandia|Ma Ote|
@@ -91,28 +91,28 @@ W krajach **odsprzedawcy** firma Microsoft działa jako odsprzedawca, a nie agen
 |Cypr|Włochy|Rumunia|Turcja|
 Czechy|Łotwa|Rosja|Zjednoczone Emiraty Arabskie|
 |Dania|Liechtenstein|Arabia Saudyjska|Zjednoczone Królestwo|
-|Estonia|Litwa|Serbia|Stany Zjednoczone w tym Portoryko|
+|Estonia|Litwa|Serbia|Stany Zjednoczone tym Portoryko|
 
 
 ### <a name="end-customer-taxation-with-differences-in-marketplace"></a>Podatki od klientów końcowych z różnicami na platformie handlowej
 
 |**Kraj**|**Komercyjna platforma handlowa (Azure Marketplace & AppSource)**| **Consumer Marketplace (Microsoft Store)**|
 |------------------|:-----------------|:---------------|
-|Brazylia|Odsprzedawca z wyjątkiem: wydawca zarządzany w przypadku zakupów dokonanych za pośrednictwem scenariusza zakupu klienta CSP|Zarządzane przez dewelopera z wyjątkiem: Odsprzedawca w przypadku zakupów dokonanych za pośrednictwem urządzeń działających na Windows 10|
-|Meksyk|Zarządzane przez firmę Microsoft z wyjątkiem: Odsprzedawca w przypadku zakupów w ramach scenariusza zakupu klienta w ramach umowy Enterprise Agreement|Zarządzane przez firmę Microsoft|
-|Australia|Zarządzane przez firmę Microsoft z wyjątkiem: Odsprzedawca w przypadku zakupów w ramach scenariusza zakupu klienta w ramach umowy Enterprise Agreement|Zarządzane przez firmę Microsoft|
-Chiny|Marketplace nie jest włączona|Odsprzedawca włączony z wyjątkiem: deweloper zarządzany dla urządzeń przenośnych z systemem Windows Phone 7.x i na komputerach osobistych z systemem Windows 8.x|
-|Bahrajn|Zarządzane przez wydawcę|Zarządzane przez firmę Microsoft|
-|Oman|Zarządzane przez wydawcę|Zarządzane przez firmę Microsoft|
+|Brazylia|Odsprzedawca z wyjątkiem: wydawca zarządzany w przypadku zakupów Dostawca rozwiązań w chmurze (CSP) w scenariuszu zakupu klienta|Zarządzane przez deweloperów z wyjątkiem: Odsprzedawca za zakupy dokonane za pośrednictwem urządzeń działających na Windows 10|
+|Meksyk|Zarządzane przez firmę Microsoft z wyjątkiem: odsprzedawca zakupów w ramach scenariusza zakupu klienta w ramach umowy Enterprise Agreement|Zarządzane przez firmę Microsoft|
+|Australia|Zarządzane przez firmę Microsoft z wyjątkiem: odsprzedawca zakupów w ramach scenariusza zakupu klienta w ramach umowy Enterprise Agreement|Zarządzane przez firmę Microsoft|
+Chiny|Marketplace nie jest włączona|Włączone odsprzedawców z wyjątkiem: deweloper zarządzany dla urządzeń przenośnych z systemem Windows Phone 7.x i na komputerach osobistych z systemem Windows 8.x|
+|Bahrajn|Wydawca zarządzany|Zarządzane przez firmę Microsoft|
+|Oman|Wydawca zarządzany|Zarządzane przez firmę Microsoft|
 
 
 ## <a name="tax-considerations-on-payouts"></a>Zagadnienia podatkowe dotyczące wypłat
 
-W krajach zarządzanych przez wydawców/deweloperów wypłata firmy Microsoft dla wydawców/deweloperów jest uwzględniana w wysokości opłaty sklepowej i wszelkich mających zastosowanie podatków, które mogą obejmować dowolne z następujących: podatku potrącania i sprzedaży, użycia, towarów i usług, wartości dodanej lub podobnych podatków od opłaty sklepowej.
+W krajach, w których firma Microsoft jest zarządzana przez wydawców/deweloperów, wypłata dla wydawców/deweloperów jest poniesiena od opłaty sklepowej i wszelkich podatków, które mogą obejmować dowolne z następujących czynności: podatek potrącany i sprzedaż, użycie, towary i usługi, wartość dodana lub podobne podatki od opłaty sklepowej.
 
-W odpowiednich krajach zarządzanych przez firmę Microsoft i odsprzedawcach wypłata firmy Microsoft dla wydawców/deweloperów jest uwzględniana w wysokości opłaty sklepowej i wszelkich podatków, które mogą obejmować dowolne z następujących podatków: Podatek od klienta końcowego, podatek potrąceniowy i sprzedaż, użycie, towary i usługi, wartość dodana lub podobne podatki od opłaty sklepowej. [Raporty](payout-statement.md) udostępniane wydawcom/deweloperom przez firmę Microsoft identyfikują kwoty tych podatków. 
+W odpowiednich krajach i odsprzedawcach zarządzanych przez firmę Microsoft wypłata firmy Microsoft wydawcom/deweloperom jest poniesiena od opłaty sklepowej i wszelkich podatków, które mogą obejmować dowolne z następujących czynności: podatek od klienta końcowego, podatek potrącany i sprzedaż, użycie, towary i usługi, wartość dodana lub podobne podatki od opłaty sklepowej. [Raporty](payout-statement.md) udostępniane wydawcom/deweloperom przez firmę Microsoft określają kwoty tych podatków. 
 
-Firma Microsoft zbiera podatek od opłat za sklep w następujących krajach, w których wydawcy/deweloperzy zdecydowali się udostępnić produkty/oferty do sprzedaży klientom Microsoft Marketplace:
+Firma Microsoft pobiera podatek od opłat za sklep w następujących krajach, w których wydawcy/deweloperzy zdecydowali się udostępnić produkty/oferty do sprzedaży klientom końcowi za pośrednictwem Microsoft Marketplace:
 
 |**Kraj**|**Komercyjna platforma handlowa**|**Consumer Marketplace**|
 |----------------|-----------------------------|-----------------------|
@@ -124,17 +124,17 @@ Firma Microsoft zbiera podatek od opłat za sklep w następujących krajach, w k
 
 ## <a name="commercial-marketplace-payout-scenarios"></a>Scenariusze wypłat na komercyjnej platformie handlowej
 
-### <a name="end-customer-taxation"></a>Podatek od klientów końcowych
+### <a name="end-customer-taxation"></a>Podatki dla klientów końcowych
 
-- Scenariusz 1: Klient w ofercie zakupów w kraju zarządzanych przez wydawcę
+- Scenariusz 1: Klient w kraju zarządzanym przez wydawcę kupuje ofertę
 
   :::image type="content" source="images/tax/scenario-one.png" alt-text="Wykres przedstawiający sposób płatności wydawcy.":::
 
-- Scenariusz 2: Klient w ofercie zakupów w kraju zarządzanym przez firmę Microsoft (nieistotny kraj wydawcy)
+- Scenariusz 2: Klient w zarządzanym przez firmę Microsoft kraju kupuje ofertę (nieistotny kraj wydawcy)
 
   :::image type="content" source="images/tax/scenario-two.png" alt-text="Wykres przedstawiający podatki w kraju zarządzanym przez firmę Microsoft.":::
 
-- Scenariusz 3. Obcy wydawca dokonuje sprzedaży za granicę klientowi zarejestrowanego w UNII VAT znajdującego się w kraju zarządzanym przez firmę Microsoft
+- Scenariusz 3: Obcy wydawca dokonuje sprzedaży za granicę dla zarejestrowanego klienta z podatku VAT (EU-value-added tax) znajdującego się w kraju zarządzanym przez firmę Microsoft
 
   :::image type="content" source="images/tax/scenario-three.png" alt-text="Wykres przedstawiający wpływ ue-podatku VAT na podatek."::: 
 
@@ -142,19 +142,19 @@ Firma Microsoft zbiera podatek od opłat za sklep w następujących krajach, w k
 
   :::image type="content" source="images/tax/scenario-four.png" alt-text="Wykres przedstawiający sposób obsługi podatku VAT.":::
 
-- Scenariusz 5: Klient w ofercie zakupów w kraju zarządzanych przez firmę Microsoft, w przypadku której istnieje podatek od opłaty za usługę sklepu
+- Scenariusz 5. Klient w zarządzanym przez firmę Microsoft kraju kupuje ofertę, w której istnieje podatek od opłaty za usługę sklepu
 
-  :::image type="content" source="images/tax/scenario-five.png" alt-text="Wykres przedstawiający wpływ opłaty za usługę Sklep na podatek.":::
+  :::image type="content" source="images/tax/scenario-five.png" alt-text="Wykres przedstawiający wpływ opłaty za usługę sklepu na podatek.":::
 
 ### <a name="withholding-tax"></a>Podatku
 
-- Scenariusz 1: Obcy wydawca (bez żadnych odpowiednich korzyści podatkowych w profilu podatkowym) dokonuje sprzedaży klientowi w USA. 
+- Scenariusz 1: Obcy wydawca (bez odpowiednich korzyści podatkowych w profilu podatkowym) dokonuje sprzedaży klientowi w USA. 
 
   :::image type="content" source="images/tax/withholding-one.png" alt-text="Wykres przedstawiający podatek potrącany bez podatku.":::
 
-- Scenariusz 2. Obcy wydawca (z mającym zastosowanie korzyściami podatkowymi w profilu podatkowym do zerowej stawki procentowej) z płatnością na podstawie podatku dla klienta w USA. 
+- Scenariusz 2: Obcy wydawca (z mającymi zastosowanie korzyściami podatkowymi w profilu podatkowym do zerowej stawki procentowej) przy sprzedaży dla klienta w USA. 
 
-  :::image type="content" source="images/tax/withholding-two.png" alt-text="Wykres przedstawiający podatek potrącany z tytułu podatku.":::
+  :::image type="content" source="images/tax/withholding-two.png" alt-text="Wykres przedstawiający podatek potrącany z płatnością podatku.":::
 
 ## <a name="next-steps"></a>Następne kroki
 

@@ -4,39 +4,39 @@ ms.topic: article
 ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Tworzenie skojarzeń klientów przy Claiming Partner of Record (CPOR). Ułatwia zarządzanie sprzedażą, użyciem i zachętami dla Microsoft 365 & usługi Dynamics 365.
+description: Tworzenie skojarzeń klientów przy Claiming Partner of Record (CPOR). Ułatwia zarządzanie sprzedażą, użyciem i zachętami Microsoft 365 & klientów usługi Dynamics 365.
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9526a47d0b6d734bde48f403c11fa84d734511c1
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 196009d9271324377be02d0b2d12ba8a4d7a993c
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856104"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489955"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Skojarzenia klientów za pośrednictwem modelu CPOR (Claimed Partner of Record) dla Microsoft 365 i Dynamics 365
 
 
 **Odpowiednie role:** Administrator zachęt
 
-1 października 2019 r. firma Microsoft rozpoczęła korzystanie z modelu Claiming Partner of Record (CPOR) w celu zarządzania skojarzeniami z klientami usług Microsoft 365 i Dynamics 365 w odniesieniu do sprzedaży usług online (OSA), korzystania z usług online (OSU) — Microsoft 365 i zachęt OSU-Business Application.
+1 października 2019 r. firma Microsoft zaczęła używać modelu Claiming Partner of Record (CPOR) do zarządzania skojarzeniami posiadanych przez Ciebie z klientami usług Microsoft 365 i Dynamics 365 w zakresie sprzedaży usług online (OSA), korzystania z usług online (OSU)-Microsoft 365 i zachęt OSU-Business Application.
 
 >[!Important]
-> Roszczenia dotyczące skojarzenia klienta (CPOR) dotyczą tylko sprzedaży usług online (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 i OSU-Business programów zachęt aplikacji. Jeśli przesyłasz roszczenie dotyczące współpracy dla innego programu, takiego jak Dostawca rozwiązań w chmurze, Managed Reseller, Hosting lub Surface, zapoznaj się z procesem roszczeń o współpracy opisanym tutaj. <br><br>Po przesłaniu roszczenia firma Microsoft weryfikuje je. Na tym etapie możemy poprosić Cię o dodatkowe informacje. Powiadomimy również klienta o twoim żądaniu skojarzenia. Klienci mają pięć dni roboczych na rezygnację. Jeśli użytkownik nie zrezygnuje, skojarzenie z tą konkretną dzierżawą i obciążeniem będzie oficjalne. W tym momencie będziesz mieć dostęp do danych użycia klienta. 
+> Roszczenia dotyczące skojarzenia klienta (CPOR) dotyczą tylko sprzedaży usług online (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 i OSU-Business zachęt aplikacji. Jeśli przesyłasz roszczenie dotyczące współpracy dla innego programu, takiego jak Dostawca rozwiązań w chmurze (CSP), Managed Reseller, Hosting lub Surface, zapoznaj się z procesem roszczeń o współpracy opisanym tutaj. <br><br>Po przesłaniu roszczenia firma Microsoft je weryfikuje. W tym momencie możemy poprosić Cię o dodatkowe informacje. Powiadomimy również klienta o żądaniu skojarzenia. Klienci mają pięć dni roboczych na rezygnację. Jeśli nie zrezygnują, skojarzenie z tą konkretną dzierżawą i obciążeniem będzie oficjalne. W tym momencie będziesz mieć dostęp do danych użycia klienta. 
 
 Do ukończenia roszczenia potrzebne są następujące informacje:
 
-- Identyfikator **MPN** jednostki, która składa roszczenie
+- Identyfikator **MPN** (identyfikator Microsoft Partner Network) dla jednostki, która składa oświadczenie
 
-- Nazwa domeny **klienta Znajdź** [](find-ids-and-domain-names.md)
+- Nazwa domeny klienta **(aby** uzyskać więcej informacji, zobacz Znajdowanie identyfikatora [dzierżawy, nazwy domeny, identyfikatora obiektu użytkownika](find-ids-and-domain-names.md))
 
-- Identyfikator katalogu **klienta lub** identyfikator **dzierżawy** [Znajdź](find-ids-and-domain-names.md)
+- Identyfikator katalogu **klienta** lub identyfikator **dzierżawy** (aby uzyskać więcej informacji, zobacz Znajdowanie identyfikatora dzierżawy, nazwy [domeny, identyfikatora obiektu użytkownika)](find-ids-and-domain-names.md)
 
 - Obszar **Rozwiązanie,** taki jak Business Applications lub Microsoft 365
 
-- Wykonane  działanie i typ oświadczenia, które chcesz wykonać, takie jak skojarzenie przedsprzedażowe, użycie lub przychód
+- Wykonane  działanie i typ oświadczenia, które chcesz wykonać, takie jak skojarzenie Przedsprzedaż, Użycie lub Przychód
 
 - Nazwa kontaktu, **tytuł** i adres e-mail klienta
 
@@ -54,7 +54,7 @@ Do ukończenia roszczenia potrzebne są następujące informacje:
 
 Należy również zrozumieć następujące kwestie:
 
-- Jeśli masz istniejących Microsoft 365, musisz ponownie skojarzyć się z tymi, z których chcesz nadal zdobywać zachęty OSU, korzystając z tego procesu.
+- Jeśli masz istniejących Microsoft 365, musisz ponownie skojarzyć się z tymi, którzy chcą nadal zdobywać zachęty OSU, korzystając z tego procesu.
 
 - Jeśli masz istniejące skojarzenia z usługą Dynamics 365 lub Power BI, te skojarzenia pozostaną ważne do czasu wygaśnięcia ich subskrypcji.
 
@@ -62,7 +62,7 @@ Należy również zrozumieć następujące kwestie:
 
 ## <a name="create-a-customer-association"></a>Tworzenie skojarzenia klienta
 
-1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/) Centrum partnerskiego.
 
 2. Wybierz **kartę Zachęty,** wybierz **pozycję Przegląd,** a następnie wybierz pozycję **Skojarzenia klientów.**
 
@@ -88,7 +88,7 @@ Należy również zrozumieć następujące kwestie:
    >[!NOTE]
    >Jeśli Twój produkt to Dynamics 365, a wybierany produkt ma wiele subskrypcji dla tego konkretnego klienta, musisz również wprowadzić identyfikator subskrypcji.
 
-10. Dostarczenie dowodu wykonania (PoE, Proof of Execution). Możesz przeciągnąć je do pola, przejść do własnej dokumentacji pomocniczej lub użyć szablonu, wybierając pozycję **Pobierz szablon**. 
+10. Supply your PoE. Możesz przeciągnąć je do pola, przejść do własnej dokumentacji pomocniczej lub użyć szablonu, wybierając pozycję **Pobierz szablon**. 
 
 11. Jeśli chcesz, dodaj i zapisz komentarze, a następnie wybierz pozycję **Prześlij roszczenie**. Wyślemy do klienta wiadomość e-mail z prośbą o zatwierdzenie Twojego skojarzenia klienta.
 

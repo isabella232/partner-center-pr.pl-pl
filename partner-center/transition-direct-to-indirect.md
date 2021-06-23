@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się, jak partner programu CSP może Partner Center do przejścia z partnera z rozliczeniami bezpośrednimi do odsprzedawcy pośredniego.
+description: Dowiedz się, jak Dostawca rozwiązań w chmurze programu (CSP) może Partner Center, aby przejść z partnera z rozliczeniami bezpośrednimi do odsprzedawcy pośredniego.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e57c4a5d0a02079e887b38fa9754d276062d20cc
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 205451a1c42c6538936df49ba8a4314372a94082
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276420"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490057"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Zmiana z partnera z rozliczaniem bezpośrednim w programie Cloud Solution Provider (CSP) na odsprzedawcę pośredniego w programie CSP
 
@@ -22,13 +22,13 @@ ms.locfileid: "112276420"
 
 >[!Note]
 >Ten artykuł jest przeznaczony dla partnerów rozliczanych bezpośrednio, którzy zdecydowali się przejść na odsprzedawców pośrednich. Jednak nawet jeśli użytkownik nie podjął jeszcze jawnej decyzji o zarejestrowaniu się jako [](direct-partner-new-requirements.md) odsprzedawca pośredni, partnerzy rozliczani bezpośredni, którzy nie spełniają nowych wymagań programu dla partnera rozliczanego bezpośrednio przez program CSP, zostaną poinformowani przez firmę Microsoft o tym, że ich możliwości dotyczące rachunku bezpośredniego będą [ograniczone.](restricted-direct-bill-capabilities.md)
-<br>Od stycznia 2021 r. zostanie dodane nowe wymaganie dotyczące przychodów. Partnerzy zarejestrowani jako partnerzy z rozliczeniami bezpośrednimi muszą mieć co najmniej 300 000 USD przychodu z programu Dostawca rozwiązań w chmurze na poziomie globalnego konta partnera w ciągu poprzednich 12 miesięcy.
+<br>Od stycznia 2021 r. zostanie dodane nowe wymaganie dotyczące przychodów. Partnerzy zarejestrowani jako partnerzy z rozliczeniami bezpośrednimi muszą mieć co najmniej 300 000 USD przychodu z programu CSP na poziomie globalnego konta partnera w ciągu poprzednich 12 miesięcy.
 
 Będzie można zarejestrować się w programie odsprzedawcy pośredniego przy użyciu istniejącej dzierżawy z rozliczeniami bezpośrednimi.
 
 ## <a name="get-started"></a>Rozpoczęcie pracy
 
-1. Upewnij się, że Twój profil partnera w Partner Center i identyfikator MPN są aktualne.
+1. Upewnij się, że Twój profil partnera w Partner Center i Microsoft Partner Network (MPN) są aktualne.
 
 2. Zaloguj się do Partner Center jako administrator globalny dzierżawy z rozliczeniami bezpośrednimi, z których przechodzisz do odsprzedawcy pośredniego.
 
@@ -38,7 +38,7 @@ Będzie można zarejestrować się w programie odsprzedawcy pośredniego przy u�
 
    :::image type="content" source="images/direct/direct2a.png" alt-text="Zarejestruj się teraz.":::
 
-4. Wybierz pozycję Zarejestruj teraz. Twoja firma odsprzedawcy pośredniego będzie używać tej samej dzierżawy usługi AAD, która jest dla Twojej bezpośredniej firmy.
+4. Wybierz pozycję Zarejestruj teraz. Twoja firma odsprzedawcy pośredniego będzie używać tej samej Microsoft Azure Active Directory dzierżawy usługi (Azure AD), która jest w twojej bezpośredniej firmie.
 
     > [!NOTE]
     > Początkowo ta nowa funkcja przejścia będzie dostępna dla partnerów od daty rocznicy września do grudnia. Jeśli nie masz daty rocznicy między wrześniem a grudniem, w tej chwili nie zobaczysz tej możliwości. Partnerzy z datami rocznic po grudniu 2018 r. zostaną powiadomieni później, gdy funkcja zostanie włączona dla partnerów.
@@ -169,15 +169,15 @@ Aby użyć tej funkcji w istniejącej dzierżawie klienta:
 
 1. Zaloguj się do Partner Center jako **agent administracyjny.**
 
-2. Na stronie **Klienci wybierz** istniejącego klienta i kliknij jego ikonę Szybkie **linki,** aby rozwinąć widok podsumowania klienta.
+2. Na stronie **Klienci wybierz** istniejącego klienta i wybierz jego ikonę Szybkie **linki,** aby rozwinąć widok podsumowania klienta.
 
-3. W **obszarze Dostawcy pośredni kliknij** pozycję Przenieś klienta u dostawcy **pośredniego.**
+3. W **obszarze Dostawcy pośredni wybierz** pozycję Przenieś klienta u dostawcy **pośredniego.**
 
     :::image type="content" source="images/direct/direct5-1.png" alt-text="Przeniesienie klienta do dostawcy pośredniego.":::
 
 4. W podręcznym oknie dialogowym wybierz **dostawcę** pośredniego, który ma mieć relację odsprzedawcy z klientem.
 
-5. Kliknij **przycisk Zapisz i kontynuuj.**
+5. Wybierz przycisk **Zapisz i kontynuuj**.
 
 6. Sprawdź, czy wybrany dostawca pośredni jest pojawiany w **obszarze Dostawcy pośredni.**
 
@@ -231,7 +231,7 @@ W modelu pośrednim programu CSP odsprzedawcy pośredni nie mają relacji rozlic
 
 ### <a name="how-to-transition-to-indirect-reseller-status"></a>Jak przejść do stanu odsprzedawcy pośredniego
 
-Ta funkcja jest procesem 4-krokowym, w którym:
+Ta funkcja jest procesem czteroetapowym, w którym:
 
 - Partner przejściowy tworzy żądanie przeniesienia subskrypcji. Żądanie zawiera co najmniej jedną istniejącą subskrypcję skojarzoną z tym samym klientem i jest adresowane do dostawcy pośredniego.
 
@@ -260,15 +260,15 @@ Aby utworzyć żądanie przeniesienia jako partner przejściowy:
 
 1. Zaloguj się do Partner Center jako **agent administracyjny.**
 
-2. Na stronie **Klienci** wybierz odpowiedniego klienta i kliknij ikonę Szybkie linki, aby rozwinąć widok podsumowania klienta.
+2. Na stronie **Klienci** wybierz odpowiedniego klienta i wybierz ikonę Szybkie linki, aby rozwinąć widok podsumowania klienta.
 
 3. W **obszarze Dostawcy pośredni potwierdź,** że na liście znajduje się zamierzony dostawca pośredni.
 
-4. Kliknij **pozycję Wyświetl subskrypcje.**
+4. Wybierz **pozycję Wyświetl subskrypcje.**
 
 5. Na **stronie Subskrypcje** poszukaj przeniesienia **subskrypcji**.
 
-6. W **obszarze Przenoszenie subskrypcji** kliknij pozycję **Zażądaj przeniesienia subskrypcji.**
+6. W **obszarze Przenoszenie subskrypcji** wybierz pozycję **Zażądaj przeniesienia subskrypcji.**
 
     :::image type="content" source="images/direct/direct8.png" alt-text="Zażądaj przeniesienia subskrypcji.":::
 
@@ -276,7 +276,7 @@ Aby utworzyć żądanie przeniesienia jako partner przejściowy:
 
     :::image type="content" source="images/direct/direct9.png" alt-text="Utwórz żądanie przeniesienia.":::
 
-8. Kliknij pozycję **Utwórz**.
+8. Wybierz przycisk **Utwórz**.
 
 9. Aktywne żądanie przeniesienia subskrypcji zostanie wyświetlone w obszarze **Przenoszenie subskrypcji.**
 
@@ -290,19 +290,19 @@ Aby przejrzeć i zaakceptować żądanie przeniesienia jako dostawca pośredni:
 
 1. Zaloguj się do Partner Center jako **agent administracyjny** lub agent **sprzedaży.**
 
-2. Na stronie **Klienci** wybierz odpowiedniego klienta i kliknij jego ikonę Szybkie linki, aby rozwinąć widok podsumowania klienta.
+2. Na stronie **Klienci** wybierz odpowiedniego klienta i wybierz jego ikonę Szybkie linki, aby rozwinąć widok podsumowania klienta.
 
 3. W **obszarze Odsprzedawcy pośredni** potwierdź, że partner przejściowy znajduje się na liście.
 
-4. Kliknij **pozycję Wyświetl subskrypcje.**
+4. Wybierz **pozycję Wyświetl subskrypcje.**
 
 5. Na **stronie Subskrypcje** poszukaj przeniesienia **subskrypcji**.
 
     :::image type="content" source="images/direct/direct11.png" alt-text="Wyświetl żądanie przeniesienia.":::
 
-6. W **obszarze Przenoszenie subskrypcji** kliknij żądanie przeniesienia, aby przejrzeć.
+6. W **obszarze Przenoszenie subskrypcji** wybierz żądanie przeniesienia do przejrzenia.
 
-7. Kliknij **pozycję Zaakceptuj** (lub **Odrzuć)** zgodnie z potrzebami.
+7. Wybierz **pozycję Zaakceptuj** (lub **Odrzuć)** zgodnie z potrzebami.
 
     :::image type="content" source="images/direct/direct12.png" alt-text="Zaakceptuj żądanie przeniesienia.":::
 
@@ -318,11 +318,11 @@ Aby przejrzeć i zaakceptować żądanie przeniesienia jako dostawca pośredni:
 
 Partner przejściowy powinien wykonać następujące czynności:
 
-1. Zaloguj się Partner Center jako **agent administracyjny** lub agent **sprzedaży.**
+1. Zaloguj się do Partner Center jako **agent administracyjny** lub **agent sprzedaży.**
 
-2. Na stronie **Klienci** wybierz odpowiedniego klienta i kliknij ikonę Szybkie **linki,** aby rozwinąć widok podsumowania klienta.
+2. Na stronie **Klienci** wybierz odpowiedniego klienta i wybierz ikonę Szybkie **linki,** aby rozwinąć widok podsumowania klienta.
 
-3. Kliknij **pozycję Wyświetl subskrypcje.**
+3. Wybierz **pozycję Wyświetl subskrypcje.**
 
 4. Na **stronie Subskrypcje** poszukaj przeniesienia **subskrypcji**.
 

@@ -9,30 +9,30 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1d5f415680cad8466da631a68fb6249a5298a2d
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2cfea9bc672ff12868a7944cf81601e5292dae80
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855985"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489904"
 ---
-# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Przenoszenie klientów opartych na licencjach z innych kanałów & partnerów do programu Dostawca rozwiązań w chmurze licencji
+# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-csp-program"></a>Przenoszenie klientów opartych na licencjach z innych kanałów & partnerów do programu Dostawca rozwiązań w chmurze (CSP)
 
 **Odpowiednie role:** Administrator konta | Agent sprzedaży | Agent rozliczeń
 
 Jeśli klient chce zatrudnić wielu partnerów, przenieść swoje subskrypcje do innego partnera lub zarządzać subskrypcjami zakupionymi w innym miejscu, możesz przenieść ich ręcznie. Możesz również przenieść klientów do Partner Center z innego kanału.
 
-## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Przenoszenie subskrypcji opartych na licencjach klienta do programu Dostawca rozwiązań w chmurze Program (CSP)
+## <a name="move-your-customers-license-based-subscriptions-to-the-csp-program"></a>Przenoszenie subskrypcji opartych na licencjach klienta do programu CSP
 
-1. Wybierz **pozycję Customers** (Klienci) Partner Center menu, a następnie wybierz pozycję Request a reseller relationship **(Zażądaj relacji odsprzedawcy).** Aby zapewnić obsługę kont wielokanałowych, należy wykonać to samo.
+1. Wybierz **pozycję Customers** (Klienci) z menu Partner Center a następnie wybierz pozycję Request a reseller relationship **(Zażądaj relacji odsprzedawcy).** Aby zapewnić obsługę kont wielokanałowych, należy wykonać to samo.
 
-2. Po zaakceptowaniu zaproszenia przez klienta będzie można aprowizować żądane subskrypcje i licencje dla klienta (na przykład tę samą ofertę usługi Office 365, która została zakupiona wcześniej).
+2. Gdy klient zaakceptuje zaproszenie, będzie można aprowizować żądane subskrypcje i licencje dla klienta (na przykład tę samą ofertę usługi Office 365, która została zakupiona wcześniej przez klienta).
 
-3. Klient może zezwolić na wygaśnięcie oryginalnych subskrypcji lub anulować je. Ponieważ jednak nie ma żadnych zwrotów za anulowane subskrypcje, najlepiej poczekać, aż subskrypcje wygasną w pobliżu naturalnych dat wygaśnięcia.
+3. Klient może zezwolić na wygaśnięcie oryginalnych subskrypcji lub anulować je. Ponieważ jednak nie ma żadnych zwrotów za anulowane subskrypcje, najlepiej poczekać, aż subskrypcje będą zbliżać się do daty wygaśnięcia.
 
 
    >[!NOTE]
-   >Klient może kwalifikować się do otrzymania środków, jeśli został zakupiony za pośrednictwem portalu administracyjnego usługi Microsoft 365 (M365) (na przykład w ramach rozliczeń miesięcznych lub miesięcznych bezpośrednio od firmy Microsoft). Środki na subskrypcje zakupione bezpośrednio od firmy Microsoft są obsługiwane przez pomoc techniczną rozliczeń **platformy M365.** Zobacz wskazówki dotyczące usługi M365 dotyczące anulowania [subskrypcji M365.](/microsoft-365/commerce/subscriptions/cancel-your-subscription) Jeśli masz delegowane uprawnienia administracyjne dla klienta, możesz skontaktować się z pomocą techniczną M65 w imieniu klienta. Jeśli tak nie jest, poproś klienta o bezpośredni kontakt z pomocą techniczną M365, aby dowiedzieć się, do i w jaki sposób zostaną mu one nadane. Przeczytaj informacje [na temat delegowanych uprawnień administratora.](customers-revoke-admin-privileges.md)
+   >Klient może kwalifikować się do otrzymania środków, jeśli zakupił je za pośrednictwem portalu administracyjnego usługi Microsoft 365 (M365) (na przykład za pośrednictwem comiesięcznego lub miesięcznego rozliczenia bezpośredniego od firmy Microsoft). Środki na subskrypcje zakupione bezpośrednio od firmy Microsoft są obsługiwane przez pomoc techniczną rozliczeń **platformy M365.** Zobacz wskazówki dotyczące usługi M365 dotyczące anulowania [subskrypcji M365.](/microsoft-365/commerce/subscriptions/cancel-your-subscription) Jeśli masz delegowane uprawnienia administracyjne dla klienta, możesz skontaktować się z pomocą techniczną M65 w imieniu klienta. Jeśli nie, poproś klienta o bezpośredni kontakt z pomocą techniczną M365, aby dowiedzieć się, do ile środków jest uprawniony i jak te informacje zostaną mu nadane. Przeczytaj informacje na [temat delegowanych uprawnień administratora.](customers-revoke-admin-privileges.md)
 
 
 4. Następnie klient będzie kontynuować pracę z aprowizowanych przez Ciebie subskrypcji bez zakłóceń.
