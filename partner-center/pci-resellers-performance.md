@@ -4,23 +4,23 @@ ms.topic: article
 ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Pulpit nawigacyjny wydajności odsprzedawcy w Partner Center Insights zawiera omówienie wydajności różnych pośrednich odsprzedawców CSP Indirect Provider.
+description: Pulpit nawigacyjny wydajności odsprzedawcy w Partner Center Insights zawiera przegląd wydajności różnych pośrednich odsprzedawców pośrednich dostawcy Dostawca rozwiązań w chmurze (CSP).
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cc0fb8a56d397cebeb5a40fa1a1c8d6eae77fe25
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 65fddcc47105cf329bb8f5d3e1aa342deee556b4
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277372"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565172"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Pulpit nawigacyjny wydajności odsprzedawcy w u Partner Center Insights
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny | Przeglądarka raportów | Przeglądarka raportów dla kierownictwa
 
-Pulpit nawigacyjny wydajności odsprzedawcy w Partner Center Insights zawiera omówienie wydajności różnych pośrednich odsprzedawców CSP Indirect Provider. Pulpit nawigacyjny zawiera dane odsprzedawców, którzy są aktywni, jakie przychody generują i jakie produkty generują przychody. Dostawcy pośredni będą mogli wyszukać określonego odsprzedawcę według nazwy i wyszukać szczegóły odsprzedawcy na pulpicie nawigacyjnym wydajności odsprzedawcy.
+Pulpit nawigacyjny wydajności odsprzedawcy w Partner Center Insights zawiera omówienie wydajności różnych pośrednich odsprzedawców pośrednich dostawcy Dostawca rozwiązań w chmurze (CSP). Pulpit nawigacyjny zawiera dane odsprzedawców, którzy są aktywni, jakie przychody generują i jakie produkty generują przychody. Dostawcy pośredni będą mogli wyszukać określonego odsprzedawcę według nazwy i wyszukać szczegóły odsprzedawcy na pulpicie nawigacyjnym wydajności odsprzedawcy.
 
 Poniższe sekcje można wyświetlić na pulpicie nawigacyjnym wydajności odsprzedawcy.
 
@@ -32,14 +32,14 @@ Poniższe sekcje można wyświetlić na pulpicie nawigacyjnym wydajności odsprz
 - Aktywni odsprzedawcy według lokalizacji partnerów
 - Trend dystrybucji geograficznej przychodów
 - Wydajność odsprzedawcy według segmentu klientów
-- Stan podpisywania umowy MPA odsprzedawcy
+- Stan Microsoft Partner Agreement (MPA) odsprzedawcy
 
  > [!NOTE]
- > Ten raport jest dostępny na pulpicie nawigacyjnym szczegółowych informacji. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Podgląd raportów lub Executive Report Viewer. Aby uzyskać więcej informacji, zobacz administrator globalny firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami Executive Report Viewer.
+ > Ten raport jest dostępny na pulpicie nawigacyjnym szczegółowych informacji. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Przeglądarka raportów lub Przeglądarka raportów dla kierownictwa. Aby uzyskać więcej informacji, zobacz Administratora globalnego firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami do przeglądarki raportów executive.
 
 ## <a name="summary"></a>Podsumowanie
 
-Sekcja podsumowania zawiera widok migawki kluczowych wskaźników wydajności (KPI) związanych z CSP Indirect Provider.
+Sekcja podsumowania przedstawia widok migawki kluczowych wskaźników wydajności (KPI) związanych z CSP Indirect Provider.
 
 - Aktywni odsprzedawcy: liczba odsprzedawców, którzy mają co najmniej jedną aktywną subskrypcję w tym miesiącu.
 
@@ -57,7 +57,7 @@ Wykres Micro przedstawia trend z miesiąca na miesiąc łącznej liczby nowych o
 
 Wykres Micro przedstawia trend przychodów z miesiąca na miesiąc w wybranym zakresie dat.
 
-- Sekcja Rozliczany przychód według produktów zawiera miesiąc według miesięcznego podziału przychodu rozliczanych w USD z podziałem na sprzedane produkty. 
+- Sekcja Rozliczany przychód według produktów zawiera miesiąc według miesiąca z podziałem na rozliczany przychód w USD z podziałem na sprzedane produkty. 
 
 :::image type="content" source="images/pci/pci-res-perf-summary-1.png" alt-text="podsumowanie wydajności odsprzedawców.":::
 
@@ -65,9 +65,9 @@ Wykres Micro przedstawia trend przychodów z miesiąca na miesiąc w wybranym za
 
 Widok **Odsprzedawcy według lokalizacji geograficznej zapewnia geograficzną dystrybucję odsprzedawców. Za pomocą tego widżetu partnerzy mogą wyświetlać łączną liczbę odsprzedawców, nowych odsprzedawców i rozliczany przychód **(USD)** z podziałem na różne lokalizacje geograficzne.
 
-Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapie. Naciśnij opcję **Strona** główna na mapie, aby przywrócić oryginalny widok. Zatrzymaj wskaźnik myszy na mapie, aby wyświetlić **rozliczany przychód (USD)** według kraju. Pole Rozliczany przychód (USD) na siatce jest sortowalne.
+Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapie. Naciśnij opcję **Strona** główna na mapie, aby przywrócić oryginalny widok. Zatrzymaj wskaźnik myszy na mapie, aby wyświetlić **rozliczany przychód (USD)** według kraju. Pole Przychód rozliczany (USD) na siatce można sortować.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-by-geo-1.png" alt-text="Odsprzedawcy według lokalizacji geograficznej .":::
+:::image type="content" source="images/pci/pci-res-perf-resel-by-geo-1.png" alt-text="Odsprzedawcy według lokalizacji geograficznej.":::
 
 ## <a name="resellers-addchurns"></a>Odsprzedawcy dodają/zrzucą
 
@@ -81,7 +81,7 @@ Ten widok zawiera podział miesiąc po miesiącu liczby nowych odsprzedawców, o
 
 ## <a name="resellers-revenue-trend"></a>Trend przychodów odsprzedawców 
 
-Ten widok przedstawia miesięczny trend podziału przychodów rozliczanych (USD) według produktów o usługach O365, D365, EMS, Power BI i Azure. Ogólne metryki są agregowane w różnych produktach dla każdego miesiąca. Partner może wyszukać określonego odsprzedawcę według nazwy i wyszukać dane dla tego określonego odsprzedawcy. Pole Rozliczany przychód (USD) na siatce jest sortowalne.
+Ten widok przedstawia miesięczny trend rozlicznych przychodów (USD) według produktów: Office 365, Dynamics 365, Enterprise Mobility and Security (EMS), Microsoft Power BI i Azure. Ogólne metryki są agregowane w różnych produktach dla każdego miesiąca. Partner może wyszukać określonego odsprzedawcę według nazwy i wyszukać dane dla tego określonego odsprzedawcy. Pole Przychód rozliczany (USD) na siatce można sortować.
 
 :::image type="content" source="images/pci/pci-res-perf-resel-rev-trend-1.png" alt-text="Trend przychodów odsprzedawców.":::
 
@@ -111,7 +111,7 @@ Ten widok umożliwia partnerowi zrozumienie miesięcznego trendu przychodów w U
 
 ## <a name="reseller-mpa-signing-status"></a>Stan podpisywania umowy MPA odsprzedawcy
 
-Ten widok zawiera stan podpisywania umowy MPA dla odsprzedawców wraz z dodatkowymi meta danymi, takimi jak stan vetting MPN, stan migracji PMC do komputera itp.
+Ten widok zawiera stan podpisywania umowy MPA dla odsprzedawców wraz z dodatkowymi meta danymi, takimi jak stan Microsoft Partner Network (MPN) w celu Partner Membership Center (PMC) w celu Partner Center stanu migracji.
 
 :::image type="content" source="images/pci/pci-res-perf-mpa-stat-1.png" alt-text="Stan podpisywania umowy MPA odsprzedawcy.":::
 

@@ -8,18 +8,18 @@ description: Sprawdź, co robisz dobrze i gdzie możesz poprawić użycie subskr
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 36993633ab2e2be0a726c70bf930f842bfaf890f
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 75aa86ebc768b9d6d252a29eb84aef97ab99ab0c
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276301"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565342"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI raport użycia dostępny na pulpicie nawigacyjnym Partner Center Insights
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny | Przeglądarka raportów | Przeglądarka raportów dla kierownictwa
 
-Raport Power BI użycia zawiera dane użycia dla subskrypcji Power BI, które zostały sprzedane klientom lub są nimi zarządzane. Poniższe sekcje można wyświetlić w Power BI użycia.
+Raport Power BI użycia zawiera dane użycia dla subskrypcji usługi Microsoft Power BI, które zostały sprzedane klientom lub są nimi zarządzane. Poniższe sekcje można wyświetlić w raporcie Power BI użycia.
 
 - Podsumowanie
 - Power BI według lokalizacji geograficznej
@@ -28,7 +28,7 @@ Raport Power BI użycia zawiera dane użycia dla subskrypcji Power BI, które zo
 - Power BI dystrybucji użycia
 
  > [!NOTE]
- > Ten raport jest dostępny na pulpicie nawigacyjnym szczegółowych informacji. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Podgląd raportów lub Executive Report Viewer. Aby uzyskać więcej informacji, zobacz Administrator globalny firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami Executive Report Viewer.
+ > Ten raport jest dostępny na pulpicie nawigacyjnym szczegółowych informacji. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Przeglądarka raportów lub Executive report viewer. Aby uzyskać więcej informacji, zobacz Administrator globalny twojej firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami do przeglądarki raportów executive.
 
 ## <a name="summary"></a>Podsumowanie
 
@@ -46,7 +46,7 @@ Sekcja podsumowania przedstawia widok migawek kluczowych wskaźników związanyc
 
    Wykres Mikro przedstawia miesięczny trend miesięcznych aktywnych stanowisk w wybranym okresie.
 
-- Aktywne użycie %: łączna liczba aktywnych stanowisk wyrażona jako procent dostępnych stanowisk w wybranym okresie. 
+- Active Usage %: Łączna liczba aktywnych stanowisk wyrażona jako procent dostępnych stanowisk w wybranym okresie. 
 
    Wykres Mikro przedstawia miesięczny trend wartości procentowego aktywnego użycia w wybranym okresie.
 
@@ -54,7 +54,7 @@ Sekcja podsumowania przedstawia widok migawek kluczowych wskaźników związanyc
 
 ## <a name="power-bi-usage-by-geography"></a>Power BI według lokalizacji geograficznej
 
-Dane **Power BI według lokalizacji geograficznej** przedstawiają rozkład dostępnych stanowisk i aktywnych stanowisk według kraju klienta. Jaśniejsze kolory na mapie reprezentują niższe wartości, a ciemniejsze reprezentują wyższe wartości. Możesz wyszukać i wybrać kraj w siatce, aby powiększyć widok.
+Dane **Power BI według lokalizacji geograficznej** przedstawiają rozkład dostępnych i aktywnych stanowisk według kraju klienta. Jaśniejsze kolory na mapie reprezentują niższe wartości, a ciemniejsze reprezentują wyższe wartości. Możesz wyszukać i wybrać kraj w siatce, aby powiększyć widok.
 
 Tabela **Liczba krajów/regionów** przedstawia łączną liczbę krajów/regionów, w których są generowane zdarzenia użycia platformy Azure.
 

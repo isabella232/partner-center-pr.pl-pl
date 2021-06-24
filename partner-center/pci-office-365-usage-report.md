@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Sprawdź, co robisz dobrze i gdzie możesz ulepszyć użycie subskrypcji usługi Office 365, które sprzedajesz klientom lub zarządzasz nimi.
+description: Zobacz, co robisz dobrze i gdzie możesz ulepszyć użycie subskrypcji usługi Office 365, które sprzedajesz klientom lub zarządzasz nimi.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: e1b60c96bad5d3bf514bdfb36d36a733364e6c92
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 43ac7763b32eed5c63fd3766262ad1649ae81e11
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277814"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565376"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Raport użycia usługi Office 365 dostępny na pulpicie nawigacyjnym Partner Center Insights
 
@@ -28,19 +28,19 @@ Raport użycia usługi Office 365 zawiera dane użycia dla subskrypcji usługi O
 - Dystrybucja użycia usługi Office 365
 
  > [!NOTE]
- > Ten raport jest dostępny na pulpicie nawigacyjnym szczegółowych informacji. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Podgląd raportów lub Executive Report Viewer. Aby uzyskać więcej informacji, zobacz Administrator globalny firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami Executive Report Viewer.
+ > Ten raport jest dostępny na pulpicie nawigacyjnym szczegółowych informacji. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Przeglądarka raportów lub Przeglądarka raportów dla kierownictwa. Aby uzyskać więcej informacji, zobacz Administratora globalnego firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami do przeglądarki raportów executive.
 
 ## <a name="summary"></a>Podsumowanie
 
-Sekcja podsumowania przedstawia widok migawek kluczowych wskaźników związanych z subskrypcjami usługi Office 365, które zostały sprzedane klientom lub są nimi zarządzane.  
+Sekcja podsumowania zawiera widok migawki kluczowych wskaźników związanych z subskrypcjami usługi Office 365, które zostały sprzedane klientom lub przez nie zarządzane.  
 
-- Nowe subskrypcje: Łączna liczba subskrypcji sprzedanych lub zarządzanych w wybranym okresie.
+- Nowe subskrypcje: łączna liczba subskrypcji sprzedanych lub zarządzanych w wybranym okresie.
 
-   Wykres Mikro przedstawia trend miesiąc do miesiąca liczby nowych subskrypcji dla wybranego zakresu dat.
+   Wykres Mikro przedstawia trend liczby nowych subskrypcji w wybranym zakresie dat z miesiąca na miesiąc.
 
 - Dostępne stanowiska: łączna liczba licencji sprzedanych w wybranym okresie.
 
-   Wykres Mikro przedstawia trend liczby sprzedanych licencji z miesiąca na miesiąc w wybranym zakresie dat.
+   Wykres Mikro przedstawia trend liczby sprzedanych licencji w wybranym zakresie dat z miesiąca na miesiąc.
 
 - Aktywni użytkownicy miesięcznie: liczba użytkowników, którzy używali obciążenia w poprzednim miesiącu. 
 
@@ -67,7 +67,7 @@ Użycie usługi Office 365 według obciążenia przedstawia podział mau i pau w
 
 ## <a name="subscriptions-performance"></a>Wydajność subskrypcji
 
-Wydajność subskrypcji przedstawia podział mau i pau według obciążeń na klienta. Dane dla 100 najbardziej dochodowych klientów według rozliowanych przychodów są wyświetlane w tabeli i możesz wyszukać dowolnego klienta lub pobrać dane pierwotne, aby wyświetlić szczegółowe informacje dla wszystkich klientów.
+Wydajność subskrypcji przedstawia podział mau i pau według obciążeń na klienta. W tabeli przedstawiono dane 100 najbardziej dochodowych klientów według rozliczanych danych. Możesz wyszukać dowolnego klienta lub pobrać dane pierwotne, aby wyświetlić szczegóły dotyczące wszystkich klientów.
 
 :::image type="content" source="images/pci/pci-o365-usage-subscription.png" alt-text="Wydajność subskrypcji usługi Office 365.":::
 
@@ -81,4 +81,4 @@ Rozkład użycia usługi Office 365 przedstawia podział pau i subskrypcji wedł
 
 - Aby uzyskać więcej raportów, [zobacz Partner Center Insights.](partner-center-insights.md)
 
-- Możesz pobrać nieprzetworzone dane, które będą zasilać ten raport, z sekcji Pobieranie raportów na pulpicie nawigacyjnym szczegółowych informacji. [Więcej informacji](pci-download-reports.md) 
+- Możesz pobrać nieprzetworzone dane, które są zasilane z tego raportu, z sekcji Pobieranie raportów na pulpicie nawigacyjnym szczegółowych informacji. [Więcej informacji](pci-download-reports.md) 
