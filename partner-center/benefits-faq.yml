@@ -1,0 +1,100 @@
+### YamlMime:FAQ
+metadata:
+  title: Microsoft Partner Network korzyści — często zadawane pytania
+  ms.topic: article
+  ms.date: 12/15/2020
+  description: Odpowiedzi na pytania dotyczące wygasania, odnawiania i aktywowania licencji na platformę Azure, chmurę, usługi Visual Studio oraz korzyści techniczne i pomocy technicznej
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-mpn
+  author: arpithakanuganti
+  ms.author: v-arkanu
+  ms.localizationpriority: medium
+  ms.custom: SEOJUNE20
+  ms.openlocfilehash: 72db9073e071581e1f8b7eb685da1d1d7db56294
+  ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "112915671"
+title: Microsoft Partner Network korzyści — często zadawane pytania
+summary: >
+  **Odpowiednie role:** administrator partnera MPN
+
+
+  Wiele typowych pytań dotyczących Microsoft Partner Network (MPN) można rozwiązać w tym artykule.
+sections:
+- name: Pytania ogólne
+  questions:
+  - question: >
+      Co oznacza "Data wygaśnięcia korzyści"
+    answer: "Data wygaśnięcia korzyści oznacza ostatnią datę aktywowania korzyści.\n\nDo daty odnowienia masz czas na zrealizowanie korzyści dostępnych w ramach jednorocznego okresu rejestracji. Datę rozpoczęcia odnowienia można znaleźć na stronie [Oferty członkostwa](https://partner.microsoft.com/dashboard/mpn/offers) na pulpicie nawigacyjnym MPN.\n\nMożna jednak używać kluczy produktów przez rok od dnia ich zrealizowania w odpowiednich portalach w chmurze.\n\nJeśli na przykład data wygaśnięcia korzyści to 31 stycznia 2021 r., klucze należy zrealizować w odpowiednim portalu w chmurze przed 31 stycznia 2021 r. Jeśli klucz produktu zostanie zrealizowany 1 grudnia 2020 r., można go używać do 1 grudnia 2021 r., mimo że data wygaśnięcia korzyści to 31 stycznia.\n\n> [!NOTE]  \n> Jeśli masz korzyści, które wymagają przypisania użytkownika (na przykład Visual Studio subskrypcji), możesz aktywować te korzyści i korzystać z nich przez dodatkowe 30 dni po dacie odnowienia rejestracji.\n"
+  - question: >
+      Jak mogę odnowić swoje korzyści
+    answer: >
+      Aby odnowić korzyści, użyj następującej procedury:
+
+
+      1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
+
+
+      2. W lewym okienku nav wybierz **pozycję MPN.**
+
+
+      3. Na karcie **MPN** wybierz opcję **Korzyści.**
+
+
+      4. Aktywuj korzyść.
+
+
+      Jeśli korzyść, której potrzebujesz, nie jest dostępna, musisz odnowić członkostwo w Partner Center i powtórzyć powyższy proces.
+  - question: >
+      Otrzymano powiadomienie z powiadomieniem, że moja subskrypcja wkrótce wygasa — co mam zrobić
+    answer: >
+      Zaloguj się do portalu w chmurze, który wygenerował powiadomienie, sprawdź datę wygaśnięcia istniejących subskrypcji, a następnie dodaj licencje do wygasających subskrypcji lub rozszerz istniejącą subskrypcję na następny rok rejestracji.
+  - question: >
+      Kiedy można odnowić członkostwo
+    answer: >
+      Istniejące członkostwo można odnowić w dowolnym dniu następującym po dacie rozpoczęcia odnawiania.
+- name: Korzyści z aktywacji na platformie Azure i w chmurze
+  questions:
+  - question: >
+      Jak dodawanie, rozszerzanie/odnawianie licencji działa na platformie Azure
+    answer: "Podczas dodawania licencji zwiększasz łączną liczbę licencji dla istniejącej subskrypcji.\n\nW przypadku odnawiania lub rozszerzania subskrypcji liczba licencji pozostaje taka sama, ale wydłuża się czas dla tych subskrypcji.\n\n> [!IMPORTANT]  \n> Jeśli zdecydujesz się dodać licencje do istniejącej subskrypcji, subskrypcja wygaśnie za mniej niż 12 miesięcy, w zależności od liczby istniejących i dodanych licencji. Po zrealizowaniu klucza nie można go ponownie zrealizować. Przed zrealizowaniem klucza upewnij się, że rozumiesz, czy musisz dodać licencje, odnowić/rozszerzyć subskrypcję.\n"
+  - question: >
+      Czy mogę aktywować licencję na koncie klienta?
+    answer: >
+      Nie. Licencje produktów są wydawane w celach demonstracyjnych. Pracownicy działu sprzedaży i marketingu mogą używać tego oprogramowania do prezentnia produktów klientom, ale produktów demonstracyjnych nie można instalować na sprzęcie ani infrastrukturze klienta i muszą być one używane we współpracy z nadzorem partnera.
+  - question: >
+      Mam problem z przypisywaniem użytkowników w ramach środków zbiorczych platformy Azure. Co należy zrobić
+    answer: >
+      Ofert środków zbiorczych platformy Azure nie można łączyć z innymi ofertami. Jeśli przypisanie użytkownika nie działa, prawdopodobnie oznacza to, że użytkownik, którego chcesz przypisać, korzysta już z innych ofert licencjonowania, przedpłaty lub środków, takich jak Microsoft Enterprise Agreement, Cloud Solution Partner, Azure in Open, Azure — dostęp próbny, Action Pack itp. Jeśli użytkownik nie ma subskrypcji żadnej z tych umów lub planów i nadal nie możesz go przypisać, skontaktuj się z Pomoc techniczna Microsoft.
+- name: Visual Studio korzyści
+  questions:
+  - question: >
+      Jak działa Visual Studio aktywacji w Partner Center
+    answer: "Subskrypcje można przypisywać do wszystkich użytkowników na liście zarządzania użytkownikami w programie Partner Center lub w dzierżawie usługi Azure Active Directory (AAD), wykonując następujące czynności:\n\n1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).\n\n2. Z menu Partner Center wybierz pozycję **MPN.**\n\n3. Wybierz **pozycję Korzyści,** a następnie wybierz **pozycję Visual Studio**.\n\n4. Przypisz żądanych użytkowników do istniejących Visual Studio dostępnych subskrypcji.\n\nPo przypisaniu subskrypcji użytkownik musi zalogować się do usługi Visual Studio, aby zarządzać subskrypcją.\n\n> [!Note]  \n> Visual Studio subskrypcje mogą zostać ponownie przypisani z jednego subskrybenta do innego, jeśli minęło 90 dni od czasu oryginalnego przypisania.\n"
+- name: Korzyści techniczne i pomoc techniczna
+  questions:
+  - question: >
+      Nie mogę zainstalować oprogramowania pobranego z Partner Center. Jak mogę uzyskać pomoc
+    answer: >
+      Instalacja, aktywacja i inna pomoc związana z produktem są udostępniane za pośrednictwem Pomoc techniczna Microsoft. Aby uzyskać pomoc, wykonaj następujące czynności:
+
+
+      1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
+
+
+      2. Z menu Partner Center wybierz pozycję **MPN.**
+
+
+      3. Wybierz **pozycję Korzyści,** a następnie wybierz **pozycję Korzyści techniczne.**
+
+
+      4. Użyj sekcji Korzyści techniczne, aby aktywować i otrzymać identyfikator dostępu/identyfikator kontraktu.
+
+
+      5. Zaloguj się [do Pomoc techniczna Microsoft](https://support.microsoft.com/supportforbusiness/productselection).
+
+
+      6. Wybierz produkt, który próbujesz zainstalować, a następnie utwórz bilet pomocy technicznej.
+additionalContent: "\n## <a name=\"next-steps\"></a>Następne kroki\n\n- [Zdobądź zaawansowaną specjalizację, aby zaprezentować swoją wiedzę](advanced-specializations.md)"
