@@ -5,13 +5,13 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: d45d301abfea03e06a8fc67e759012d4275d7dec
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.date: 05/04/2021
+ms.openlocfilehash: 6fdbbf9ad2b31e2b61eec20193717f60dd8e199a
+ms.sourcegitcommit: b6959846c30d062d05028c9b4ba14c07e903e61a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373460"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112970195"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Azure Marketplace rozliczeń i fakturowania
 
@@ -49,11 +49,11 @@ Opłaty będą naliczane za cykliczne zakupy w okresie, w którym zostały zakup
 > Okres świadczenia usługi to okres, za który zapłacono za korzystanie z usługi. Zostanie ona automatycznie odnowiona w godzinach i okresu świadczenia usługi, chyba że użytkownik anuluje je wcześniej.
 
 > [!NOTE]
-> Dostosowujemy się do ostatniego dnia miesiąca rozliczeniowego, jeśli data miesiąca odnowienia nie może być równa dacie miesiąca zakupu. Oznacza to, że jeśli jeden z nich ma subskrybować datę 1/31, datą zakończenia rozliczeń dla lutego będzie 2/27, a nowy okres rozliczeniowy zaczyna się 2.02.28 (2.02.28 i 2/29, jeśli zaczyna się w roku przestępniowym).
+> Dostosowujemy okres rozliczeniowy (lub ostatni dzień miesiąca rozliczeniowego), jeśli data miesiąca odnowienia nie może być równa dacie miesiąca zakupu. Oznacza to, że jeśli jedna z nich miałaby subskrybować datę 1/31, data zakończenia rozliczeń zostanie dostosowana do 2/27, przy użyciu daty odnowienia 2/28 (odpowiednio 2/28 i 2/29, jeśli zaczyna się rok przestępny).
 
 ## <a name="invoices"></a>Faktury
 
-Otrzymasz wiadomość e-mail na początku każdego miesiąca kalendarzowego, gdy faktura będzie dostępna w Azure Portal. Na fakturze będą wyświetlane wszystkie bezpłatne i płatne oferty zakupione i/lub zużyte w miesiącu kalendarzowym. Jeśli masz tylko bezpłatne oferty, zobaczysz tylko pozycje 0 USD i nie trzeba będzie podjąć żadnych działań płatniczych. **Enterprise Agreement klienci otrzymają** łącznie fakturę przedstawiającą opłaty za platformę Azure i Azure Marketplace (z wyłączeniem klientów w Australii, Japonii i Singapurze). **Klienci, którzy kupują bezpośrednio Azure Marketplace,** otrzymają rachunek tylko za Azure Marketplace zakupów. Aby uzyskać szczegółowe informacje, [zobacz Invoices for MOSP accounts (Faktury dla kont moSP).](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)
+Otrzymasz wiadomość e-mail na początku każdego miesiąca kalendarzowego, gdy faktura będzie dostępna w Azure Portal. Na fakturze będą wyświetlane wszystkie bezpłatne i płatne oferty zakupione i/lub zużyte w miesiącu kalendarzowym. Jeśli masz tylko bezpłatne oferty, zobaczysz tylko pozycje 0 USD i nie musisz podjąć żadnych działań płatniczych. **Enterprise Agreement klienci** otrzymają łącznie fakturę przedstawiającą opłaty za platformę Azure i Azure Marketplace (z wyjątkiem klientów w Australii, Japonii i Singapurze). **Klienci, którzy kupują bezpośrednio Azure Marketplace,** otrzymają rachunek tylko za Azure Marketplace zakupów. Aby uzyskać szczegółowe informacje, [zobacz Invoices for MOSP accounts (Faktury dla kont moSP).](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)
 
 Po otrzymaniu faktury mogą być różne:
 
