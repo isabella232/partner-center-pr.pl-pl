@@ -9,20 +9,22 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 37b77e434d20a2efe4a298f773f0356bbb958ac2
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 770df3cff40b8cc51eab16fb95d0bd43967a5a69
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149591"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013271"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Przechodzenie klientów do planu platformy Azure z istniejących ofert CSP platformy Azure
 
-**Odpowiednie role:** Administrator | Administrator rozliczeń | Administrator globalny | Agent pomocy technicznej | Agent sprzedaży | Administrator zarządzania użytkownikami
+**Dotyczy:** Partner Center 
+
+**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Administrator globalny | Agent pomocy technicznej | Agent sprzedaży | Administrator zarządzania użytkownikami
 
 W tym artykule wyjaśniono, jak partnerzy programu CSP mogą używać usługi Partner Center do przenoszenia klientów z istniejących ofert CSP platformy Azure do usług platformy Azure w ramach planu platformy Azure. Dostawcy pośredni i partnerzy rozliczani bezpośrednio mogą przejść na nowe środowisko handlowe dostępne w programie Microsoft Cloud Service Provider Program (CSP) dla platformy Azure. (Odsprzedawcy pośredni będą musieli współpracować ze swoimi dostawcami pośrednimi). Klienci będą mieć usprawniony sposób kupowania usług w chmurze, niezależnie od tego, czy kupują u partnerów, od sprzedawców firmy Microsoft, czy bezpośrednio w Internecie.
 
-Możliwość przejścia jest dostępna tylko dla klientów, którzy przejdą do nowego rozwiązania handlowego dla platformy Azure i którzy podpisali umowę Umowa z Klientem Microsoft. Nie jest to możliwe w przypadku innych ofert w programie CSP, takich jak Office 365 lub Dynamics 365.
+Możliwość przejścia jest dostępna tylko dla klientów, którzy przejdą do nowego rozwiązania handlowego dla platformy Azure i którzy podpisali umowę Umowa z Klientem Microsoft. Nie są to inne oferty w programie CSP, takie jak Office 365 lub Dynamics 365.
 
 ## <a name="transition-existing-csp-offers-to-an-azure-plan"></a>Przechodzenie istniejących ofert CSP do planu platformy Azure
 
@@ -48,7 +50,7 @@ Możesz przejść od klienta z istniejących ofert CSP platformy Azure do usług
    - Jeden plan na klienta w scenariuszach bezpośredniego programu CSP  
    - Jeden plan na odsprzedawcę  
 
-   Na przykład partner kupił dwie oferty Microsoft Azure i dodał w zakupie dwie odrębne jednostki por. W takim przypadku przepływ pracy przejścia zakupi dwa plany platformy Azure (po jednym na odsprzedawcę) i automatycznie zamapuje odpowiednie subskrypcje platformy Azure w ramach planów platformy Azure.  
+   Na przykład partner kupił dwie oferty Microsoft Azure i uwzględniał w zakupie dwa odrębne por. W takim przypadku przepływ pracy przejścia zakupi dwa plany platformy Azure (po jednym na odsprzedawcę) i automatycznie zamapuje odpowiednie subskrypcje platformy Azure w ramach planów platformy Azure.  
 
    **Mapowanie subskrypcji platformy Azure na plan platformy Azure**
 
@@ -61,20 +63,20 @@ Możesz przejść od klienta z istniejących ofert CSP platformy Azure do usług
    >[!NOTE]
    >Budżet ustawiony w Partner Center nie jest przekierowyny do Azure Portal. Należy również ustawić budżet i alert w Azure Portal.
 
-   Po przejście do planu platformy Azure nie można już kupować subskrypcji platformy Azure dla tego klienta. Subskrypcje tworzy się w ramach planu platformy Azure w Azure Portal.
+   Po przejść do planu platformy Azure nie można już kupować subskrypcji platformy Azure dla tego klienta. Subskrypcje tworzy się w ramach planu platformy Azure w Azure Portal.
 
    >[!NOTE]
    > Wszystkie subskrypcje platformy Azure zakupione za pośrednictwem kontroli RBAC w ramach planu platformy Azure będą wycenione i rozliczane w walucie lokalnej. Stawki FX nie będą używane.
 
 ### <a name="track-your-transition-details"></a>Śledzenie szczegółów przejścia
 
-Śledź postęp przejścia w Azure Portal a także w Partner Center.
+Śledź postęp przejścia w Azure Portal, a także w Partner Center.
 
-:::image type="content" source="images/azure/details1.png" alt-text="Zrzut ekranu przedstawiający tabelę z listą szczegółów przejścia dla subskrypcji — obejmuje subskrypcję D, datę przejścia i stan przejścia.":::
+:::image type="content" source="images/azure/details1.png" alt-text="Zrzut ekranu przedstawiający tabelę z listą szczegółów przejścia na subskrypcję — obejmuje subskrypcję D, datę przejścia i stan przejścia.":::
 
 ### <a name="billing-impact-to-partners"></a>Wpływ na rozliczenia dla partnerów
 
-W przypadku przejścia klienta z istniejącej oferty CSP platformy Azure będziesz mieć wpływ na następujące rozliczenia:
+W przypadku przejścia klienta z istniejącej oferty CSP platformy Azure będą mieć wpływ na następujące rozliczenia:
 
 - Opłaty będą naliczane na istniejącej fakturze za korzystanie z programu CSP do momentu zakończenia oryginalnej subskrypcji platformy Azure dla programu CSP.
 

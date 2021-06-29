@@ -4,32 +4,34 @@ ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się więcej o witrynie handlowej dotyczącej planu platformy Azure, aby kupić usługi platformy Azure po stawkach płatności zgodnie z użyciem dla klientów. Dowiedz się również o nowych wymaganiach dotyczących zabezpieczeń.
+description: Dowiedz się więcej na temat usługi handlowej planu platformy Azure, aby kupić usługi platformy Azure po stawkach płatności zgodnie z użyciem dla klientów. Dowiedz się również o nowych wymaganiach dotyczących zabezpieczeń.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: de0f13bab73eebde3c1cf12db586d07c47b277f6
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 74595843e4aaf2fe0e92fb92d417343dd7e4b81d
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149625"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013305"
 ---
-# <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Wprowadzenie: plan platformy Azure umożliwia partnerom kupowanie platformy Azure przy użyciu stawek płatności zgodnie z użyciem dla klientów
+# <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Wprowadzenie: Plan platformy Azure umożliwia partnerom kupowanie platformy Azure po stawkach płatności zgodnie z użyciem dla klientów
 
-**Odpowiednie role:** Administrator | Agent sprzedaży | Administrator globalny
+**Dotyczy:** Partner Center
+
+**Odpowiednie role:** Agent administracyjny | Agent sprzedaży | Administrator globalny
 
 Firma Microsoft wprowadziła nowe środowisko handlowe w Partner Center, czyli planie platformy Azure.  Dzięki nowej wersji handlowej partnerzy uzyskają dostęp do usług platformy Azure według stawek płatności zgodnie z Umowa z Klientem Microsoft.
 
-Ten plan upraszcza proces zakupu — w planie platformy Azure można mieć wiele subskrypcji platformy Azure. Nie musisz już przesyłać oddzielnego zamówienia na subskrypcję platformy Azure. W tym nowym doświadczeniu handlowym dla platformy Azure dostosliśmy się do jednej globalnej zasady cenowej, dzięki czemu partnerzy programu CSP mogą oferować platformę Azure po opublikowanych cenach.
+Ten plan upraszcza proces zakupu — w planie platformy Azure można mieć wiele subskrypcji platformy Azure. Nie trzeba już przesyłać oddzielnego zamówienia na subskrypcję platformy Azure. W tym nowym doświadczeniu handlowym dla platformy Azure dostosowyliśmy się do jednej globalnej zasady cenowej, dzięki czemu partnerzy programu CSP mogą oferować platformę Azure po opublikowanych cenach.
 
-Przejście klientów z istniejących ofert CSP platformy Azure do usług platformy Azure w ramach planu platformy Azure w nowym doświadczeniu handlowym w programie CSP z poziomu Partner Center. To przejście wymaga tylko następujących czynności:
+Przejście klientów z istniejących ofert platformy Azure dla programu CSP do usług platformy Azure w ramach planu platformy Azure w nowym obszarze handlowym w programie CSP z poziomu Partner Center. To przejście wymaga tylko następujących czynności:
 
-- Partner i klient końcowy muszą mieć ustanowioną relację odsprzedawcy za pośrednictwem Partner Center, a klient musi podpisać Umowa z Klientem Microsoft.
+- Partner i klient końcowy muszą mieć ustanowioną relację odsprzedawcy za pośrednictwem Partner Center, a klient musi podpisać umowę Umowa z Klientem Microsoft.
 
 >[!Note]
->Od 1 lutego 2020 r. istniejące Umowa dotycząca platformy Microsoft Cloud zostaną usunięte z programu CSP. Od tego czasu dla wszystkich innych ofert, w tym usług Microsoft 365, Dynamics 365 i istniejącej platformy Azure, będzie wymagane potwierdzenie przez partnera (potwierdzenie) akceptacji przez klienta dla nowej usługi Umowa z Klientem Microsoft. Partnerzy w programie CSP nie będą mogli złożyć nowego zamówienia dla klienta bez zaświadczenia Umowa z Klientem Microsoft. Aby uzyskać szczegółowe informacje, [przeczytaj Potwierdzanie akceptacji przez klienta Umowa z Klientem Microsoft](confirm-customer-agreement.md).
+>Od 1 lutego 2020 r. istniejące Umowa dotycząca platformy Microsoft Cloud zostaną usunięte z programu CSP. Od tego czasu dla wszystkich innych ofert, w tym usług Microsoft 365, Dynamics 365 i istniejącej platformy Azure, wymagane będzie potwierdzenie przez partnera (potwierdzenie) akceptacji przez klienta dla nowej usługi Umowa z Klientem Microsoft. Partnerzy w programie CSP nie będą mogli złożyć nowego zamówienia dla klienta bez zaświadczenia Umowa z Klientem Microsoft. Aby uzyskać szczegółowe informacje, [przeczytaj Potwierdzanie akceptacji przez klienta Umowa z Klientem Microsoft](confirm-customer-agreement.md).
 
 
 ## <a name="next-steps"></a>Następne kroki
