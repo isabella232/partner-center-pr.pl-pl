@@ -1,85 +1,83 @@
 ---
 title: Rejestracja transakcji
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 06/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Zarejestrowanie transakcji, która zwyciężyła w Partner Center, ułatwia firmie Microsoft zapewnienie większej liczby możliwości w przyszłości.
+description: Zarejestrowanie transakcji, która wygrała w Partner Center, ułatwia firmie Microsoft zapewnienie większej liczby możliwości w przyszłości.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 4709236b8887bc262cac3bf36b5dd7fcf3c17c92
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: eaa9bb6f8e57033669ef584e7c52c0d050a532e0
+ms.sourcegitcommit: 8235c89e789cdb5115fc1c19151fa8e97c743fe5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551150"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113080669"
 ---
-# <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Zarejestruj transakcje, które zostały wygrane w Partner Center, aby później uzyskać więcej możliwości
+# <a name="register-deals-youve-won-in-partner-center"></a>Rejestrowanie transakcji, które zostały wygrane w Partner Center
 
 **Odpowiednie role:** Administrator poleceń
 
 Możesz zarejestrować transakcje, które zostały Partner Center, podając dodatkowe informacje o kontrakcie. Te informacje pomagają nam zapewnić więcej możliwości w przyszłości.
 
-W przypadku niektórych kwalifikujących  się [](manage-leads.md)rozwiązań po wybraniu opcji Won w procesie odpowiedzi na polecenie zostanie poproszony o podanie dodatkowych informacji w celu zarejestrowania transakcji. Firma Microsoft przejmie podane informacje i może poprosić o więcej szczegółów podczas procesu przeglądu.
+Istnieją dwie ścieżki, które prowadzą do rejestracji transakcji:
 
-Możesz również zarejestrować nowe transakcje, które zostały przez Ciebie wygrane, które korzystają z jednego z Twoich rozwiązań, nawet jeśli nie zostały one pochodzące za pośrednictwem [polecenia](referrals.md).
+- Utworzono nową ofertę w sekcji **Możliwości** współpracy sprzedaży, a Twoja transakcja spełnia kryteria rejestracji transakcji.
+- Chcesz zgłosić zamkniętą umowę programu ISV Connect, która nie została sprzedana razem z firmą Microsoft.
 
-## <a name="register-a-new-deal"></a>Rejestrowanie nowej transakcji
+## <a name="register-a-deal-originating-from-a-co-sell-opportunity"></a>Rejestrowanie transakcji pochodzącej z szansy sprzedaży
 
-Aby zarejestrować nową umowę sprzedaży typu **IP,** przejdź do  odpowiedniej szansy sprzedaży i wybierz pozycję Zarejestruj ofertę w sekcji "Postęp transakcji twojej firmy".
+Jeśli chcesz zarejestrować ofertę pochodzącą z możliwości współpracy sprzedaży, Twoja transakcja musi spełniać następujące wymagania dotyczące uprawnień:
 
-Na stronie **wersji roboczej transakcji** podaj następujące informacje.
+- Typ transakcji jest typu "co sell" lub "led" przez partnera (wybrano, aby umożliwić sprzedawcom firmy Microsoft wyświetlanie tej transakcji).
+- W transakcji istnieje co najmniej jedno rozwiązanie kwalifikujące się do zachęt. Rozwiązanie kwalifikuje się do zachęty, jeśli zawiera co najmniej jeden z następujących tagów:
+  - Współsieć adresów IP platformy Azure
+  - Business Applications Premium
+  - Business Applications Standardowa
+- Stan transakcji to "Won".
+- Jeśli typ transakcji to współpraca sprzedaży, firma Microsoft musi zaakceptować zaproszenie lub oznaczone jako wygrane. Stan firmy Microsoft można sprawdzić, patrząc na kartę Microsoft poniżej szczegółów transakcji.
 
-- **Stan transakcji w witrynie Marketplace:** zaznacz pole wyboru, aby utworzyć rejestrację dla transakcji, która zostanie transakcyjna na Azure Marketplace.
-- **Data transakcji w witrynie Marketplace:** jeśli pole powiązane ze stanem transakcji witryny Marketplace jest zaznaczone, to pole jest dostępne i należy je skonfigurować. Wartość jest datą poprzedniej transakcji lub szacowaną przyszłą datą transakcji.
-- **Łączna wartość kontraktu:** łączna oczekiwana wartość dla zaangażowania. Powinno to obejmować wszystkie opłaty za oprogramowanie i usługę, ale nie koszty sprzętu. Pamiętaj, aby wybrać odpowiednią walutę.
-- **Wartość rozwiązania:** łączna wartość rozwiązania w chmurze, które zostanie użyte w transakcji. Pamiętaj, aby uwzględnić wszystkie koszty związane z opłatami za oprogramowanie i konserwację, ale nie uwzględniać elementów zwrotnych, nie cyklicznych opłat za dostosowywanie ani bezpośrednio powiązanych opłat za licencje Dostawca rozwiązań w chmurze (CSP) naliczanych przez firmę Microsoft.
-- **Wdrożono w witrynie**: wybierz pozycję **Azure** lub **Inne.**
-- **Gdzie zostanie wdrożone rozwiązanie?**: Wybierz dzierżawę **Klient** lub **Dzierżawę partnera.**
-- **Data podpisania** kontraktu: data podpisania umowy końcowej przez organizację i klienta. W przypadku transakcji z płatnością zgodnie z użyciem (PAYG, pay-as-you-go) użyj daty pierwszej faktury.
-- **Data rozpoczęcia kontraktu:** data rozpoczęcia kontraktu. W przypadku transakcji z płatnością za użycie użyj daty pierwszej faktury. Domyślnie Partner Center nie pozwala na wprowadzenie daty rozpoczęcia wcześniejszej niż data podpisania kontraktu. Może to mieć wpływ na niektóre transakcje, takie jak wdrożenia adresów IP, które rozpoczynają się przed datą podpisania. Aby pomyślnie wprowadzić te transakcje, użyj daty  podpisania kontraktu zarówno w przypadku pól daty podpisywania, jak i daty rozpoczęcia przesyłania. (Kontrakt powinien jawnie określić czas trwania transakcji, aby można było prawidłowo obliczyć wartość ACV).
-- **Data zakończenia kontraktu:** jeśli kontrakt zakończy się w określonej dacie, podaj datę. W przypadku transakcji z płatnością w płatności za użycie użyj daty ostatniej lub ostatniej faktury.
-- **Typ kontraktu:** Nie dotyczy transakcji dotyczących współpracy sprzedaży ip.
-- **Kontakt dla** rejestracji: **imię,** **nazwisko,** numer  telefonu i adres e-mail osoby w **organizacji,** z którą możemy się kontaktować, jeśli potrzebujemy więcej szczegółowych informacji o dowolnych informacjach podanych tutaj.
+Jeśli zostały spełnione wymagania dotyczące uprawnień, zostanie automatycznie wyświetlony monit o  zarejestrowanie transakcji przy użyciu przycisku Zarejestruj teraz wyświetlanego na pasku postępu transakcji:
 
-Po ukończeniu wszystkich sekcji strony wybierz pozycję **Zarejestruj**. Rejestracja transakcji zostanie przeniesiona do stanu **Przesłane.** Firma Microsoft przejmie informacje podane po zakończeniu transakcji w **obszarze Stan przeglądu.** Możesz użyć filtrów, aby wyświetlić transakcje na podstawie ich stanu.
+:::image type="content" source="images/register-deals.png" alt-text="Zrzut ekranu przedstawiający pasek postępu transakcji.":::
 
-Aby zarejestrować zamkniętą umowę **isv connect,** wybierz **pozycję +Zgłoś zamkniętą umowę isv connect**
+> [!NOTE]
+> Jeśli element **rejestracji transakcji** nie jest pokazywany na pasku postępu transakcji dla Twojej transakcji, transakcja nie spełnia wszystkich wymagań dotyczących rejestracji transakcji.
 
-Na stronie **Nowa transakcja** podaj następujące informacje.
+Po kliknięciu **przycisku** Zarejestruj teraz nastąpi przekierowanie do strony Rejestracja transakcji i zostanie wyświetlony monit o wypełnienie formularza, który zawiera wstępnie wypełnione informacje o kliencie i rozwiązaniu. Wypełnij formularz, korzystając z poniższych instrukcji, a następnie kliknij pozycję **Zarejestruj.**
 
-- **Szczegóły klienta:** wprowadź **nazwę firmy** klienta i wybierz jego **kraj/region.** Następnie wprowadź wartość **City (Miasto)** **i State/Province (Województwo).**
+Podczas rejestracji zostanie utworzony jeden lub dwa rekordy rejestracji transakcji w zależności od rozwiązania.
+
+- Jeśli Twoje rozwiązanie kwalifikuje się do korzystania z programu ISV Connect, zostanie utworzony rekord rejestracji transakcji programu ISV Connect. Ten rekord rejestracji transakcji będzie używany do fakturowania.
+- Jeśli Twoje rozwiązanie kwalifikuje się do zachęt do współpracy sprzedaży ip, zostanie utworzony rekord rejestracji transakcji sprzedaży dla adresu IP. Ten rekord rejestracji transakcji zostanie przejrzony i zatwierdzony lub odrzucony przez zespół do przeglądu transakcji sprzedaży.
+
+## <a name="report-a-closed-isv-connect-deal"></a>Zgłaszanie zamkniętej transakcji isv connect
+
+Aby zgłosić zamkniętą umowę programu ISV Connect, przejdź do karty **Rejestracja** transakcji i kliknij pozycję + Zgłoś zamkniętą ofertę **programu ISV Connect.** Wypełnij wymagane pola i kliknij pozycję **Zarejestruj.** Ten rekord rejestracji transakcji będzie używany do fakturowania.
+
+## <a name="fill-out-the-deal-registration-form"></a>Wypełnij formularz rejestracji transakcji
+
+> [!NOTE]
+> Transakcje można filtrować według nazwy klienta, stanu i typu transakcji. W tym celu kliknij przycisk **Filtruj** w górnej części strony Rejestracja transakcji.
+
+Niezależnie od tego, czy przyszliśmy do rejestracji transakcji z możliwości sprzedaży, czy zgłaszasz zamkniętą ofertę programu ISV Connect, która nie została sprzedana razem z firmą Microsoft, zostanie wyświetlony monit o wypełnienie poniższych pól w formularzu rejestracji transakcji.
+
+- **Szczegóły klienta:** wprowadź **nazwę firmy** dla klienta i wybierz jego **kraj/region.** Następnie wprowadź nazwę **City (Miasto)** **i State/Province (Województwo).**
 - **Rozwiązanie:** Wybierz rozwiązanie, które będzie używane dla transakcji. Jeśli nie widzisz odpowiedniego rozwiązania na liście, skontaktuj się z pomocą techniczną.
-- **Typ kontraktu:** określ, czy jest to **nowy kontrakt,** **czy** odnowienie poprzedniego kontraktu.
-- **Łączna wartość kontraktu:** łączna oczekiwana wartość dla zaangażowania. Powinno to obejmować wszystkie opłaty za oprogramowanie i usługę, ale nie koszty sprzętu. Pamiętaj, aby wybrać odpowiednią walutę.
-- **Wartość rozwiązania:** łączna wartość rozwiązania w chmurze, które zostanie użyte w transakcji. Pamiętaj, aby uwzględnić wszystkie koszty związane z opłatami za oprogramowanie i konserwację, ale nie uwzględniać elementów zwrotnych, nie cyklicznych opłat za dostosowywanie ani bezpośrednio powiązanych opłat licencyjnych CSP zapłaconych przez firmę Microsoft.
-- **Wdrożono w witrynie**: wybierz pozycję **Azure** lub **Inne.**
-- **Gdzie zostanie wdrożone rozwiązanie?**: Wybierz dzierżawę **Klient** lub **Dzierżawę partnera.**
-- **Data rozpoczęcia kontraktu:** data rozpoczęcia kontraktu. W przypadku transakcji z płatnością za użycie użyj daty pierwszej faktury. Domyślnie Partner Center nie pozwala na wprowadzenie daty rozpoczęcia wcześniejszej niż data podpisania kontraktu. Może to mieć wpływ na niektóre transakcje, takie jak wdrożenia adresów IP, które rozpoczynają się przed datą podpisania. Aby pomyślnie wprowadzić te transakcje, użyj  daty podpisania kontraktu dla pól daty podpisania i daty rozpoczęcia podczas przesyłania. (Kontrakt powinien jawnie określić czas trwania transakcji, aby można było prawidłowo obliczyć wartość ACV).
-- **Data zakończenia kontraktu:** jeśli kontrakt zakończy się w określonej dacie, wybierz pozycję Ma **datę zakończenia** i podaj tę datę. Jeśli kontrakt nie ma określonej daty zakończenia, wybierz pozycję **Bezterminowy**. W przypadku transakcji z płatnością zgodnie z użyciem (PAYG, pay-as-you-go) użyj daty ostatniej lub najnowszej faktury.
-- **Data podpisania** kontraktu: data podpisania umowy końcowej przez organizację i klienta. W przypadku transakcji z płatnością za użycie użyj daty pierwszej faktury.
-- **Kontakt dla** rejestracji: **imię,** **nazwisko,** numer  telefonu i adres e-mail osoby w **organizacji,** z którą możemy się kontaktować, jeśli potrzebujemy więcej szczegółowych informacji o dowolnych informacjach podanych tutaj.
+- **Typ kontraktu:** określ, czy ta transakcja jest **nową umową,** **czy** odnowieniem poprzedniego kontraktu.
+- **Łączna wartość kontraktu:** łączna oczekiwana wartość dla zaangażowania. Ta wartość powinna obejmować wszystkie opłaty za oprogramowanie i usługę, ale nie koszty sprzętu. Pamiętaj, aby wybrać odpowiednią walutę.
+- **Wartość rozwiązania:** łączna wartość rozwiązania w chmurze, które zostanie użyte w transakcji. Pamiętaj, aby uwzględnić wszystkie koszty związane z opłatami za oprogramowanie i konserwację, ale nie obejmują elementów z możliwością ponownego zwrotu, cyklicznych opłat za dostosowywanie ani bezpośrednio skojarzonych opłat licencyjnych CSP zapłaconych przez firmę Microsoft.
+- **Czy rozwiązanie zostanie wdrożone na platformie Azure? Jeśli nie, wybierz pozycję Inne:** wybierz pozycję **Azure** lub **Inne.**
+- **Czy zużycie rozwiązania będzie działać w dzierżawie partnera** lub dzierżawie klienta? : Wybierz dzierżawę Klient **lub** **Dzierżawę partnera.**
+- **Data rozpoczęcia kontraktu:** data rozpoczęcia kontraktu. W przypadku transakcji z płatnością zgodnie z użyciem (PAYG, pay-as-you-go) użyj daty pierwszej faktury. Domyślnie Partner Center nie pozwala na wprowadzenie daty rozpoczęcia wcześniejszej niż data podpisania kontraktu. Może to mieć wpływ na niektóre transakcje, takie jak wdrożenia adresów IP, które rozpoczną się przed datą podpisania. Aby pomyślnie wprowadzić te transakcje, użyj  daty podpisania kontraktu w polach daty podpisania i daty rozpoczęcia podczas przesyłania. (Kontrakt powinien jawnie określić czas trwania transakcji, aby można było prawidłowo obliczyć wartość ACV).
+- **Data zakończenia kontraktu:** jeśli kontrakt zakończy się w określonej dacie, wybierz pozycję Ma **datę zakończenia** i podaj tę datę. Jeśli kontrakt nie ma określonej daty zakończenia, wybierz pozycję **Bezterminowe**. W przypadku transakcji z płatnością zgodnie z użyciem (PAYG, pay-as-you-go) użyj daty ostatniej lub najnowszej faktury.
+- **Data podpisania** kontraktu: data podpisania umowy końcowej przez organizację i klienta. W przypadku transakcji z płatnością zgodnie z użyciem (PAYG, pay-as-you-go) użyj daty pierwszej faktury.
+- **Osoba kontaktowa** rejestracji: **imię,** **nazwisko,**  **numer** telefonu i adres e-mail osoby w organizacji, z którą możemy się skontaktować, jeśli potrzebujemy dodatkowych informacji na temat dowolnej z podanych tutaj informacji.
 
-Po ukończeniu wszystkich sekcji strony wybierz pozycję **Zarejestruj**. Rejestracja transakcji zostanie przeniesiona na stronę **W toku.** Firma Microsoft przejmie następnie podane informacje.
+Po ukończeniu wszystkich sekcji strony kliknij pozycję **Zarejestruj.**
 
-Za pomocą filtrów można wyświetlać tylko rejestracje **nieukończone** **lub wymagane** do aktualizacji transakcji.
+- Jeśli transakcja to transakcja isV Connect, zauważysz, że stan transakcji to "Przesłane, Ukończone". W przypadku tego rekordu rejestracji transakcji nie są wymagane żadne dalsze działania. Ten rekord zostanie użyty do fakturowania.
+- Jeśli transakcja jest transakcja sprzedaży typu IP, możesz zauważyć, że stan transakcji to "Przesłane". Zespół reenzentów transakcji sprzedaży firmy Microsoft przejmie informacje podane w rekordzie rejestracji transakcji. W razie potrzeby zespół reenzentów zażąda od Ciebie więcej akcji lub bezpośrednio zatwierdzi/odrzuci ofertę.
+- Jeśli rejestrujesz ofertę pochodzącą z możliwości współpracy sprzedaży i zobaczysz, że utworzono dwa rekordy rejestracji transakcji, oznacza to, że rozwiązanie w Twojej transakcji kwalifikuje się zarówno do programu ISV Connect, jak i do współsiezyny adresów IP. Rekord ISV Connect będzie używać do fakturowania. Rekord współs sprzedaży dla adresu IP zostanie przejrzęcy przez zespół weryfikacji transakcji sprzedaży.
 
-## <a name="viewing-active-and-closed-deal-registrations"></a>Wyświetlanie aktywnych i zamkniętych rejestracji transakcji
-
-Rejestracje nowych, aktywnych i zamkniętych transakcji można przeglądać w różnych stanach w obszarze Polecenia **>** Rejestracja transakcji przy użyciu filtru Stan w sekcji filtru znajdującej się w prawym górnym rogu strony.
-
-### <a name="action-required"></a>Wymagana akcja
-
-Na stronie Rejestracje transakcji odfiltruj stan Wymagana akcja. Zobaczysz nowe rejestracje, które nie zostały jeszcze zarejestrowane lub wymagają aktualizacji. Za pomocą filtrów można wyświetlać tylko rejestracje **nieukończone** **lub wymagane** do aktualizacji transakcji. **Niekompletne** rejestracje transakcji to te, które pochodzą z poleceń, ale nie zostały jeszcze zarejestrowane. **Rejestracje transakcji** wymagane do aktualizacji to te, które zostały utworzone i zarejestrowane, ale wymagają aktualizacji podanych informacji.
-
-### <a name="under-review"></a>W trakcie przeglądu
-
-Na stronie Rejestracje transakcji odfiltruj stan W trakcie przeglądu. Zobaczysz rejestracje transakcji przeglądane przez firmę Microsoft. Jeśli będziemy potrzebować dodatkowych informacji, użyjemy podanych przez Ciebie informacji **kontaktowych** dotyczących rejestracji.
-
-Jeśli jakiekolwiek informacje muszą zostać zaktualizowane, możemy przenieść rejestrację transakcji do **stanu Wymagana akcja.**
-
-### <a name="closed"></a>Zamknięty
-
-Na stronie Rejestracje transakcji odfiltruj stan Zamknięty. Zobaczysz transakcje, które zostały pomyślnie zarejestrowane i przejmowane przez firmę Microsoft. Za pomocą filtrów można wyświetlać tylko **zatwierdzone lub** **odrzucone** rejestracje transakcji.

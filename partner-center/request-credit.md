@@ -2,29 +2,29 @@
 title: Request an SLA credit from Microsoft (Żądanie kredytu SLA od firmy Microsoft)
 ms.topic: article
 ms.date: 03/31/2021
-description: Poznaj korzyści, ograniczenia i procedury związane z żądaniem od firmy Microsoft środków w umowie dotyczącej poziomu usług (SLA), jeśli klienci wystąpią w przypadku usterek usługi.
+description: Poznaj korzyści, ograniczenia i procedury związane z żądaniem od firmy Microsoft środków w umowie dotyczącej poziomu usług (SLA), jeśli klienci wystąpią w przypadku 355 000 000 000 000 000 000 000 000 000 000 000 000 000 000 00
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 4a8e785de051aa6f722a1bfddc4ad83d6502bbb3
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: f521e55869d60987fb46cd5d570bf206939e0782
+ms.sourcegitcommit: 8235c89e789cdb5115fc1c19151fa8e97c743fe5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551660"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113080643"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Jak i kiedy zażądać środków z umowy dotyczącej poziomu usług (SLA) od firmy Microsoft
 
 **Odpowiednie role:** Agent administracyjny | Administrator globalny
 
-Możesz zażądać od firmy Microsoft środków w umowie dotyczącej poziomu usług **(SLA),** jeśli w usłudze, która jest udostępniana klientom, nie będzie można korzystać z tej usługi.
+Możesz zażądać od firmy Microsoft środków w umowie dotyczącej poziomu usług **(SLA),** jeśli w usłudze, która jest udostępniana klientom, nie będzie można jej użyć.
 
 ## <a name="sla-credit-calculation"></a>Obliczanie środków w umowach SLA
 
-Środki firmy Microsoft na umowy SLA są określane na podstawie usług, których to miało wpływ. Jeśli na przykład klient ma pakiet usługi Office 365, ale wystąpiła tylko przeoowa w programie SharePoint, punkty umowy SLA są zatwierdzane tylko dla programu SharePoint, a nie całego planu klienta.
+Środki na umowy SLA od firmy Microsoft są określane na podstawie usług, których to miało wpływ. Jeśli na przykład klient ma pakiet usługi Office 365, ale wystąpiła tylko przeoowa w programie SharePoint, punkty umowy SLA są zatwierdzane tylko dla programu SharePoint, a nie całego planu klienta.
 
 *Środki są proporcjonalnie oceniane na podstawie usługi, na która ma to wpływ, oraz czasu trwania 3000 000 000 000 000 000 000 000 000 000* Aby wyświetlić typy scenariuszy, które kwalifikują się do środków w umowy SLA, zobacz dokument [Online Services Consolidated SLA (Skonsolidowana umowa SLA usług online).](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37) Te informacje dotyczą również usług sprzedawanych za pośrednictwem programu Dostawca rozwiązań w chmurze (CSP).
 
@@ -33,8 +33,8 @@ Możesz zażądać od firmy Microsoft środków w umowie dotyczącej poziomu us�
 
 *Partner CSP musi przesłać roszczenie i wszystkie wymagane informacje do końca miesiąca kalendarzowego następującego po miesiącu, w którym wystąpiło zdarzenie.* Na przykład jeśli zdarzenie miało miejsce 15 lutego, firma Microsoft musi otrzymać roszczenie i wszystkie wymagane informacje do 31 marca. Klienci końcowi i odsprzedawcy pośredni nie mogą przesyłać roszczeń kredytowych w ramach umowy SLA; Dostawca pośredni lub bezpośredni partner na rachunku musi przesłać roszczenia w ich imieniu.
 
->[!NOTE]
->Zdarzenia doradcze[(Jak sprawdzić kondycję Microsoft 365](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)usługi ) nie kwalifikują się do środków w umowach SLA.
+> [!NOTE]
+> Zdarzenia doradcze nie kwalifikują się do środków w umowach SLA. Zdarzenie opublikowane na pulpicie nawigacyjnym usługi Service Health  wskazuje, że może to mieć wpływ na dzierżawę i reprezentuje najlepsze informacje, które firma Microsoft ma w czasie publikowania. Dane strony kondycji reprezentują ogólną dostępność usługi. Wpływ poszczególnych usług, środki zaradcze i rozwiązania mogą się różnić. Aby uzyskać więcej informacji, możesz zapoznać się z końcowymi informacjami na temat zdarzenia po zdarzeniu i przeglądu po zdarzeniu. Zobacz [Jak sprawdzić kondycję Microsoft 365,](/microsoft-365/enterprise/view-service-health#incidents-and-advisories) aby uzyskać więcej informacji.
 
 ### <a name="required-information"></a>Wymagane informacje
 
