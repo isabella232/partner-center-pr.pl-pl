@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: 7cdb5e04482f32d1b57346c86fa9db218cb11452
-ms.sourcegitcommit: 5d5747d245bdd967fd82df4bcc0a1f8a30a55cea
+ms.openlocfilehash: fae1f29f2fdc804764a29f81f2cddb7353dbf7f7
+ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "113105043"
+ms.lasthandoff: 07/01/2021
+ms.locfileid: "113173661"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Pomoc techniczna dla produktów lokalnych lub w chmurze
 
@@ -54,20 +54,20 @@ Jak wyświetlić lub aktywować korzyści techniczne w Partner Center:
 
 2. Rozwiń **pozycję Korzyści** w menu nawigacji po lewej stronie i wybierz pozycję [**Korzyści techniczne.**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) Na stronie Korzyści techniczne będą wyświetlane aktywne oferty członkostwa w usługach Gold, Silver Action Pack Microsoft.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Korzyści techniczne, a następnie rozszerzanie korzyści" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Korzyści techniczne, a następnie rozwiń pozycję Korzyści." :::
 
    > [!NOTE]
    > Jeśli nie masz aktywnych ofert członkostwa, zostanie wyświetlony komunikat "Wygląda na to, że nie masz jeszcze żadnych korzyści". Jeśli Twoja firma ma aktywne oferty członkostwa, ale ich nie widzisz, zalogowano się przy użyciu niewłaściwego konta. Aby sprawdzić swoje konto, wybierz **ikonę Konto** w prawym górnym rogu strony i wybierz pozycję Zaloguj się **przy użyciu innego konta** (jeśli jest to wymagane).
 
 3. Aby skorzystać z pomocy technicznej firmy Microsoft lub pomocy technicznej dotyczącej produktu podpis, musisz aktywować korzyść. Aby aktywować korzyść, wybierz **przycisk Aktywuj.** Konto użytkownika używane do aktywacji wymaga ról administratora globalnego lub administratora partnera MPN.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="Korzyści techniczne wybierz pozycję Aktywuj" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="Korzyści techniczne wybierz pozycję Aktywuj." :::
 
 4. Identyfikator dostępu i identyfikator kontraktu będą wyświetlane wszystkim użytkownikom po pomyślnej aktywacji. Po wyświetlaniu identyfikatora dostępu i identyfikatora kontraktu możesz użyć pomocy technicznej produktów firmy Microsoft i pomocy technicznej dotyczącej podpisów produktów (członkowie gold i silver).
 
    Jeśli przycisk Aktywuj jest nieaktywna, Twoje konto nie ma roli zabezpieczeń Administrator globalny ani Administrator partnera MPN. Użyj  [funkcji Zarządzania użytkownikami](https://partner.microsoft.com/dashboard/account/v3/usermanagement#users) i filtruj według pozycji Administrator globalny lub Administrator partnera MPN, aby znaleźć użytkownika w celu aktywowania korzyści.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="Aktywowane korzyści techniczne pokazują identyfikator dostępu i identyfikator kontraktu" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="Aktywowane korzyści techniczne pokazują identyfikator dostępu i identyfikator kontraktu." :::
 
    > [!NOTE]
    > Identyfikator dostępu i identyfikator kontraktu będą potrzebne przy pierwszym użyciu pomocy technicznej produktów firmy Microsoft lub pomocy technicznej dotyczącej podpisów dla każdego konta. Po skojarzoną z kontem korzyści nie trzeba ponownie używać identyfikatora dostępu i identyfikatora kontraktu.  
@@ -86,7 +86,7 @@ W ramach członkostwa w Microsoft Partner Network partnerzy są uprawnieni do na
 | Pomoc techniczna firmy Microsoft<br>Najnowsze w środowisku lokalnym <br>tylko produkty | 10 zdarzeń | 15 zdarzeń | 20 zdarzeń |
 | Signature Cloud Support<br>Dotyczy tylko produktów w chmurze | | Kompetencje w chmurze:<br>Nieograniczona liczba<br><br>Inne kompetencje:<br>5. Zdarzenia | Kompetencje w chmurze:<br>Nieograniczona liczba<br>          <br>Inne kompetencje:<br>10 zdarzeń   | 
 
-Kompetencje w chmurze obejmują: kompetencje w zakresie zabezpieczeń, Business Applications w chmurze, platformę w chmurze, produktywność w chmurze, zarządzanie mobilnością w przedsiębiorstwie, małe i średnie firmy w chmurze.
+Kompetencje w chmurze obejmują: kompetencje w zakresie zabezpieczeń, Business Applications w chmurze, platformę w chmurze, produktywność w chmurze, Enterprise Mobility Management, małe i średnie firmy w chmurze.
 
 ## <a name="microsoft-product-support-on-premises"></a>Pomoc techniczna firmy Microsoft (lokalna)
 
@@ -121,7 +121,7 @@ Identyfikator dostępu i identyfikator kontraktu będą potrzebne przy pierwszym
 > [!NOTE]  
 > W przypadku korzystania z Azure Portal. Jeśli Twoja umowa pomocy technicznej jest już skojarzona z kontem, zostanie wyświetlony komunikat o błędzie "Identyfikator dostępu jest już skojarzony..." podczas dodawania identyfikatora dostępu i identyfikatora kontraktu. zobacz poniżej
 
-Partnerzy programu CSP tworzący żądania platformy Azure mogą używać planu Dostawca rozwiązań w chmurze pomocy technicznej bez dodawania umowy pomocy technicznej.
+Partnerzy programu CSP tworzący żądania platformy Azure mogą używać Dostawca rozwiązań w chmurze pomocy technicznej "Dostawca rozwiązań w chmurze" bez dodawania umowy pomocy technicznej.
 
 Użytkownicy z **rolą Agent administratora** mogą wybrać pozycję [Klienci](https://partner.microsoft.com/commerce/customers/list) w obszarze CSP w menu nawigacji po lewej stronie, wybrać pozycję **Zarządzanie** usługami i wybrać pozycję **Nowe żądanie.**  Po wybraniu odpowiedniego obciążenia zostanie otwarty portal specyficzny dla obciążenia, dodasz umowę pomocy technicznej i utworzysz żądanie.
 
