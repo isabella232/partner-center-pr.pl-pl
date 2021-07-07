@@ -4,26 +4,26 @@ ms.topic: article
 ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się więcej na temat wskaźników udziału partnerów (PCI, Partner Contribution Indicators), które muszą spełnić, zanim będą oni w stanie uzyskać kompetencję w zakresie rozwiązań w chmurze dla małych i średnich firm.
+description: Dowiedz się więcej na temat partnerów wskaźników udziału partnerów (PCI, Partner Contribution Indicators), które muszą spełnić, zanim będą oni w stanie uzyskać kompetencję w zakresie rozwiązań w chmurze dla małych i średnich firm.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6fdc5687379d7bca08802f2301fdb8587f38da20
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 44a5d2a6b845168cf73dbabfea05c218e9357091
+ms.sourcegitcommit: b0d1413ffa2099ddf11d013d41378afa50953f32
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277644"
+ms.lasthandoff: 07/05/2021
+ms.locfileid: "113297639"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Korzystanie z wskaźników udziałów partnerów w celu uzyskania kompetencji w obszarze Rozwiązania w chmurze dla małych i średnich przedsiębiorstw
 
 **Odpowiednie role:** Administrator globalny | Administrator partnera MPN | Administrator konta
 
-W tym artykule opisano sześć kluczowych wskaźników udziału partnerów (PCI) używanych do oceny postępów partnera w osiągnięciu lub zachowaniu kompetencji Silver lub Gold Small and Midmarket Cloud Solutions za pośrednictwem opcji SMB Cloud Business Applications.
+W tym artykule opisano sześć kluczowych wskaźników udziału partnera (PCI, Partner Contribution Indicators) używanych do oceny postępów partnera w osiągnięciu lub zachowaniu kompetencji Silver lub Gold Small and Midmarket Cloud Solutions za pośrednictwem opcji SMB Cloud Business Applications.
 
 > [!NOTE]
-> Dowiedz się, jak partnerzy używają innego zestawu metryk wskaźnika udziału partnera w celu uzyskania kompetencji silver lub gold cloud Business Applications. Aby uzyskać więcej informacji, zobacz [Use Partner Contribution Indicators for the Cloud Business Applications competency](partner-contribution-indicators.md)(Używanie wskaźników udziału partnerów dla kompetencji Cloud Business Applications). Możesz również dowiedzieć [się więcej o](https://partner.microsoft.com/membership/competencies) różnych dostępnych kompetencjach i ich wymaganiach.
+> Dowiedz się, w jaki sposób partnerzy używają innego zestawu metryk wskaźnika udziału partnera, aby uzyskać kompetencję Silver lub Gold Cloud Business Applications kompetencję. Aby uzyskać więcej informacji, zobacz [Use Partner Contribution Indicators for the Cloud Business Applications competency](partner-contribution-indicators.md)(Używanie wskaźników udziału partnera na Business Applications chmury). Możesz również przeczytać [więcej na temat](https://partner.microsoft.com/membership/competencies) różnych dostępnych kompetencji i ich wymagań.
 
 Ten artykuł zawiera informacje dotyczące:
 
@@ -35,26 +35,26 @@ Ten artykuł zawiera informacje dotyczące:
 
 - [Jak uzyskać dostęp do tego obszaru Partner Center](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#how-to-access-partner-contribution-indicators)
 
-## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>Omówienie wskaźników udziału partnerów dla tej kompetencji
+## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>Omówienie wskaźników udziału partnera dla tej kompetencji
 
-Wskaźniki udziału partnerów zapewniają całościową miarę wpływu partnera na osiąganie pomyślnych wyników klientów, a tym samym większe rozróżnienie na rynku, gdy partner osiąga lub zachowuje kompetencję rozwiązań w chmurze dla małych i średnich firm za pośrednictwem opcji SMB Cloud Business Applications.
+Wskaźniki udziału partnerów zapewniają całościową miarę wpływu partnera na osiąganie pomyślnych wyników klientów, a tym samym większe różnice na rynku, gdy partner osiągnie lub zachowa kompetencję w zakresie rozwiązań w chmurze dla małych i średnich firm za pośrednictwem opcji SMB cloud Business Applications.
 
-Dzięki pci partnerzy otrzymują środki na kluczowe miary sukcesu klientów, takie jak pomyślne wdrożenia i zwiększenie użycia. Są one nagradzane za dalsze inwestowanie i skalowanie swoich możliwości technicznych.
+Dzięki pci partnerzy otrzymują środki na kluczowe miary sukcesu klientów, takie jak pomyślne wdrożenia i zwiększenie użycia. Są nagradzani za dalsze inwestowanie w możliwości techniczne i skalowanie ich w zewnątrz.
 
-Gdy partner osiąga pewne poziomy wpływu na przykład kluczowe wskaźniki, może on uzyskać (lub zachować) kompetencję rozwiązania w chmurze dla małych i średnich firm za pośrednictwem opcji SMB Cloud Business Applications.
+Gdy partner osiąga pewne poziomy wpływu na przykład w kluczowych wskaźnikach, może uzyskać (lub zachować) kompetencję Rozwiązania w chmurze dla małych i średnich firm za pośrednictwem opcji SMB Cloud Business Applications.
 
 > [!NOTE]
-> Aby dowiedzieć się więcej na temat korzyści wynikających z uzyskania kompetencji, zobacz [Kompetencje partnerów firmy Microsoft.](https://partner.microsoft.com/membership/competencies)
+> Aby dowiedzieć się więcej o korzyściach wynikających z uzyskania kompetencji, zobacz [Kompetencje partnerów firmy Microsoft.](https://partner.microsoft.com/membership/competencies)
 
 ## <a name="pci-scoring-based-on-six-key-indicators"></a>Ocenianie wskaźników PCI na podstawie sześciu kluczowych wskaźników
 
-Pci zapewnia zaawansowany widok możliwości technicznych partnera, ich zdolność do napędzania sukcesu klientów i ich wyniki sprzedaży. Aby pomóc partnerom w osiągnięciu kompetencji Silver or Gold Small and Midmarket Cloud Solutions za pośrednictwem opcji SMB Cloud Business Applications, usługa PCI mierzy wydajność firmy w poprzednim roku na sześciu kluczowych wskaźnikach:
+Analiza PCI zapewnia zaawansowany widok możliwości technicznych partnera, jego możliwości w zakresie sukcesu klientów i wydajności sprzedaży. Aby pomóc partnerom w osiągnięciu kompetencji Silver lub Gold Small and Midmarket Cloud Solutions za pośrednictwem opcji SMB Cloud Business Applications, usługa PCI mierzy wydajność firmy w poprzednim roku na sześciu kluczowych wskaźnikach:
 
 *Wskaźniki wydajności:*
 
 1. **Nowy przychód netto:** nowy przychód netto we wszystkich kanałach sprzedaży dla określonych produktów firmy Microsoft. (Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [Definicje dla nowego przychodu netto).](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-1---net-new-revenue)
 
-2. **Klient sieci dodaje:** Klienci netto pozyskani dla określonych produktów firmy Microsoft we wszystkich kanałach sprzedaży. (Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [Definicje dla klienta netto dodaje](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-2---net-customer-adds)).
+2. **Klient sieci dodaje:** Klienci netto pozyskani dla określonych produktów firmy Microsoft we wszystkich kanałach sprzedaży. (Aby uzyskać szczegółowe informacje na temat tej metryki, [zobacz Definicje dla klienta netto dodaje](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-2---net-customer-adds)).
 
 *Wskaźniki możliwości:*
 
@@ -64,27 +64,27 @@ Pci zapewnia zaawansowany widok możliwości technicznych partnera, ich zdolnoś
 
 *Wskaźniki sukcesu klientów:*
 
-5. **Nowe wdrożenia:** liczba dzierżaw produkcyjnych, które przekroczyły określony próg użycia w ciągu ostatnich 12 miesięcy. (Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [Definicje dla nowych wdrożeń).](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-5---new-deployments)
+5. **Nowe wdrożenia:** liczba dzierżaw produkcyjnych, które przekroczyły określony próg użycia w ciągu ostatnich 12 miesięcy. (Aby uzyskać szczegółowe informacje na temat tej metryki, [zobacz Definicje dla nowych wdrożeń).](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-5---new-deployments)
 
-6. **Miesięczny wzrost liczby aktywnych użytkowników:** wzrost liczby aktywnych użytkowników miesięcznie we wszystkich klientach w ciągu ostatnich 12 miesięcy. Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [Definicje dotyczące miesięcznego wzrostu liczby aktywnych użytkowników).](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-6---monthly-active-user-growth)
+6. **Miesięczny wzrost liczby aktywnych użytkowników:** wzrost liczby aktywnych użytkowników miesięcznie we wszystkich klientach w ciągu ostatnich 12 miesięcy. (Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [Definicje miesięcznego](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-6---monthly-active-user-growth)wzrostu liczby aktywnych użytkowników).
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>Jak ocena PCI wpływa na uprawnienia do kompetencji
-Punkty są przyznawane dla każdego osiągniętego wskaźnika, co spowoduje jednolicieową ocenę PCI. Możliwe jest maksymalnie 100 punktów. 
+Punkty są przyznawane dla każdego osiągniętego wskaźnika, co spowoduje jednolicienową ocenę PCI. Możliwe jest maksymalnie 100 punktów. 
 
 Twój wynik PCI określa uprawnienia do kompetencji w następujący sposób:
 
-|Jeśli twój wynik PCI to  | Ty  |
+|Jeśli Twój wynik PCI to  | Ty  |
 |:----------------------|:-----------------|
-|1–59 punktów  | **nie kwalifikują się** do kompetencji Silver lub Gold |
+|1–59 punktów  | **nie kwalifikuje się** do kompetencji Silver lub Gold |
 |60–79 punktów  | spełnianie wymagań dotyczących kompetencji Silver  |
 |80–100 punktów  | spełnianie wymagań dotyczących kompetencji Gold
 
-Na poniższej ilustracji przedstawiono szybkie, wizualne odwołanie.
+Na poniższej ilustracji przedstawiono skróconą, wizualną referencję.
 :::image type="content" source="images/pcinew1.png" alt-text="Przedstawia wyniki PCI w celu uzyskania kompetencji Silver lub Gold." border="false":::
 
 ### <a name="maximum-pci-indicator-scores-for-this-competency"></a>Maksymalna liczba wskaźników PCI dla tej kompetencji
 
-Każdy wskaźnik zapewnia ocenę, która jest dodawana do sumy. Poniżej znajdują się maksymalne oceny, które można uzyskać dla każdego wskaźnika, aby uzyskać kompetencję Silver lub Gold Small and Midmarket Cloud Solutions za pośrednictwem opcji SMB cloud Business Applications:
+Każdy wskaźnik zapewnia ocenę, która jest dodawana do sumy. Poniżej podano maksymalne wyniki, które można uzyskać dla każdego wskaźnika, aby uzyskać kompetencję Silver lub Gold Small and Midmarket Cloud Solutions za pośrednictwem opcji SMB Cloud Business Applications:
 
 |Dla tego wskaźnika | Maksymalny wynik dla tej kompetencji to  |
 |:------------|:--------------:|
@@ -92,29 +92,29 @@ Każdy wskaźnik zapewnia ocenę, która jest dodawana do sumy. Poniżej znajduj
 |Wydajność — klient sieci dodaje  | 10 punktów  |
 |Możliwość — konsultanci funkcjonalni  | 30 punktów  |
 |Możliwość — deweloperzy  | 5 punktów |
-|Sukces klienta — nowe wdrożenia  | 20 punktów  |
-|Sukces klientów — miesięczny wzrost liczby aktywnych użytkowników  | 25 punktów |
+|Sukces klientów — nowe wdrożenia  | 20 punktów  |
+|Sukces klienta — miesięczny wzrost liczby aktywnych użytkowników  | 25 punktów |
 
 ## <a name="thresholds-for-each-pci-metric-for-this-competency"></a>Progi dla każdej metryki PCI dla tej kompetencji
 
-Każda metryka PCI ma progi ustawione przez firmę Microsoft, które mogą zdobywać maksymalne punkty w firmie w celu uzyskania kompetencji Silver lub Gold Small and Midmarket Cloud Solutions za pośrednictwem opcji SMB cloud Business Applications.
+Każda metryka PCI ma progi ustawione przez firmę Microsoft, które mogą zdobywać maksymalne punkty w firmie w celu uzyskania kompetencji Silver lub Gold Small and Midmarket Cloud Solutions za pośrednictwem opcji SMB Cloud Business Applications.
 
-Punkty w każdej metryce są wyliowane w celu zwracania odrębnego wyniku PCI. Ten wynik będzie aktualizowany co miesiąc.
+Punkty w każdej metryce są zsuowane, aby można było wywnioskować odrębną ocenę PCI. Ten wynik będzie aktualizowany co miesiąc.
 
-Partnerzy mogą uzyskać maksymalną liczbę punktów dla danej metryki, jeśli spełnią lub przekroczą progi wskazane poniżej. Punkty częściowe można zdobywać za wszystkie metryki.
+Partnerzy mogą zdobywać maksymalne punkty dla danej metryki, jeśli spełnią lub przekroczą progi wskazane poniżej. Punkty częściowe można zdobywać za wszystkie metryki.
 
-Na przykład partner rynku o wartości 15 000 USD w nowym przychód netto będzie zdobywać połowę (15 000 USD/30 000 USD) z maksymalnie 10 punktów.
+Na przykład partner rynku o wartości 15 000 USD w nowym przychód netto zyska połowę (15 000 USD/30 000 USD) z maksymalnie 10 punktów.
 
-W poniższej tabeli opisano konkretne progi wskaźnika udziału partnerów, które można osiągnąć, aby uzyskać maksymalną liczbę punktów w celu uzyskania kompetencji Silver lub Gold Small and Midmarket Cloud Solutions za pośrednictwem opcji SMB Cloud Business Applications.
+W poniższej tabeli opisano konkretne progi wskaźnika udziału partnera, które można osiągnąć, aby uzyskać maksymalną liczbę punktów w celu uzyskania kompetencji Silver lub Gold Small and Midmarket Cloud Solutions za pośrednictwem opcji SMB Cloud Business Applications.
 
 | Metryka PCI | Wskaźnik wydajności: Nowy przychód netto | Wskaźnik wydajności: Klient sieci dodaje | Wskaźnik możliwości: Konsultanci funkcjonalni | Wskaźnik możliwości: Deweloperzy | Wskaźnik sukcesu klienta: Nowe wdrożenia | Wskaźnik sukcesu klienta: Miesięczny wzrost liczby aktywnych użytkowników |
 |---|:---:|:---:|:------:|:---:|:---:|:----:|
 | **Maksymalna liczba punktów** | 10 punktów | 10 punktów | 30 punktów | 5 punktów | 20 punktów | 25 punktów |
 | **Kryteria**       | 30 000 USD  | 10  | 5    | 2  | 10  | 35% |
 
-## <a name="prerequisites-to-receive-pci-credit-for-a-customer"></a>Wymagania wstępne dotyczące otrzymania środków pci dla klienta
+## <a name="prerequisites-to-receive-pci-credit-for-a-customer"></a>Wymagania wstępne dotyczące otrzymywania środków pci dla klienta
 
-Niektóre wskaźniki udziału partnerów umożliwiają otrzymanie środków dla danego klienta tylko wtedy, gdy jest z nim skojarzenie między partnerami. Wskaźniki lub metryki PCI, na które mają wpływ te wymagania wstępne, to:
+Niektóre wskaźniki wkładu partnerów umożliwiają otrzymanie środków dla danego klienta tylko wtedy, gdy masz skojarzenie między partnerami a klientem. Wskaźniki, czyli metryki PCI, na które mają wpływ te wymagania wstępne:
 
 - Nowy przychód netto
 - Klient sieci dodaje
@@ -126,7 +126,7 @@ Niektóre wskaźniki udziału partnerów umożliwiają otrzymanie środków dla 
 - Jesteś użytkownik Claiming Partner of Record (CPOR) dla płatnej subskrypcji należącej do dzierżawy tego klienta
 - Jesteś cyfrowym partnerem rekordów (DPOR) dla płatnej subskrypcji należącej do dzierżawy tego klienta
 
-Partner staje się CPOR, jeśli nawiązał skojarzenie z klientem na poziomie subskrypcji za pośrednictwem zachęty Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) lub zachęty Dynamics 365 [Online Services Usage](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (OSU).
+Partner staje się CPOR, jeśli nawiązał skojarzenie z klientem na poziomie subskrypcji za pośrednictwem zachęty Dynamics 365 Online Services Advisor (OSA) lub zachęty Dynamics 365 Online Services Usage (OSU).
 
 Partner staje się DPOR, jeśli ustanowiono skojarzenie z klientem na poziomie subskrypcji w ramach produktu.
 
@@ -260,11 +260,11 @@ Nowe wdrożenia są wskaźnikiem [sukcesu klienta](partner-contribution-indicato
 
 - Aktywni użytkownicy miesięcznie są obliczane na koniec każdego miesiąca.
 
-- Partnerzy są skojarzone z dzierżawami na poziomie subskrypcji. Subskrypcje są mapowane na następujące, kwalifikujące się produkty:
+- Partnerzy są skojarzone z dzierżawami na poziomie subskrypcji. Subskrypcje są mapowane na następujące produkty kwalifikujące się:
   - Produkty kwalifikujące się do usługi Dynamics 365 Customer Engagement obejmują: Sales, Marketing, Customer Service, Field Service, Project server, Plan 1, Automation, Marketing, Microsoft Relationship Sales
-  - Produkty kwalifikujące się do działań finansowych i operacyjnych obejmują: Business Central, Capacity and Storage, Finance and Operations (w tym ochronę przed oszustwami, operacje, sprzedaż detaliczną, kadry, plan 2), rzeczywistość mieszaną, członek zespołu
+  - Produkty kwalifikujące się do finansów i operacji obejmują: Business Central, Capacity and Storage, Finance and Operations (w tym ochronę przed oszustwami, operacje, sprzedaż detaliczną, kadry, plan 2), rzeczywistość mieszaną, członka zespołu
 
-- Wszyscy partnerzy powiązani z dowolną płatną subskrypcją w ramach dzierżawy uzyskają kredyt na wszystkie wystąpienia produkcyjne w ramach tej dzierżawy. 
+- Wszyscy partnerzy powiązani z dowolną płatną subskrypcją w ramach dzierżawy otrzymają kredyt dla wszystkich wystąpień produkcyjnych w ramach tej dzierżawy. 
 
 ### <a name="definitions-for-pci-metric-6---monthly-active-user-growth"></a>Definicje metryk PCI #6 — miesięczny wzrost liczby aktywnych użytkowników
 
@@ -274,7 +274,7 @@ Miesięczny wzrost liczby aktywnych użytkowników to [wskaźnik sukcesu klienta
 
 - Aktywni użytkownicy miesięcznie są zliczane na poziomie dzierżawy i sumowane tylko w ramach płatnych subskrypcji w ramach dzierżawy.
 
-- Wskaźnik wzrostu liczby aktywnych użytkowników miesięcznie porównuje bieżący miesiąc z punktem odniesienia z 12 miesięcy temu. W przypadku uzyskania kompetencji Gold lub Silver Small and Midmarket Cloud Solutions za pośrednictwem opcji SMB cloud Business Applications można zastosować maksymalnie 25 punktów.
+- Miesięczny wskaźnik wzrostu liczby aktywnych użytkowników porównuje bieżący miesiąc z punktem odniesienia z 12 miesięcy temu. Do osiągnięcia kompetencji Gold or Silver Small and Midmarket Cloud Solutions za pośrednictwem opcji SMB cloud Business Applications jest dostępnych maksymalnie 25 punktów.
 
 - Aktywni użytkownicy miesięcznie są obliczane na koniec każdego miesiąca.
 
@@ -282,11 +282,11 @@ Miesięczny wzrost liczby aktywnych użytkowników to [wskaźnik sukcesu klienta
 
 - Partnerzy są skojarzone z dzierżawami na poziomie subskrypcji. Subskrypcje są mapowane na kwalifikujące się produkty.
 
-- Wszyscy partnerzy powiązani z dowolną płatną subskrypcją w ramach dzierżawy otrzymają kredyt dla wszystkich aktywnych użytkowników miesięcznie zsumowany dla wszystkich płatnych subskrypcji w ramach tej dzierżawy.
+- Wszyscy partnerzy powiązani z dowolną płatną subskrypcją w ramach dzierżawy otrzymają kredyt dla wszystkich aktywnych użytkowników miesięcznie zsumowany we wszystkich płatnych subskrypcjach w ramach tej dzierżawy.
 
 ## <a name="how-to-access-partner-contribution-indicators"></a>Jak uzyskać dostęp do wskaźników udziału partnera
 
-W tej sekcji opisano sposób uzyskiwania dostępu do szczegółów wskaźników udziału partnera i postępów partnerów.
+W tej sekcji opisano sposób uzyskiwania dostępu do szczegółów wskaźników udziału partnera i postępu partnera.
 
 ### <a name="access-partner-contribution-indicators"></a>Wskaźniki udziału partnera dostępu
 
@@ -296,12 +296,12 @@ Aby wyświetlić tabelę Wskaźników udziału partnera, wykonaj następujące k
 
 2. Wybierz **pozycję MPN** z menu nawigacji, a następnie wybierz **pozycję Kompetencje.**
 
-3. Wybierz **kompetencję Rozwiązania w chmurze** w małych i średnich przedsiębiorstwach, a następnie wybierz opcję **SMB Cloud Business Applications .**
+3. Wybierz **kompetencję Rozwiązania w chmurze** Dla małych i średnich firm, a następnie wybierz opcję **Cloud Business Applications SMB.**
 
-4. W sekcji Podsumowanie wyświetl swój postęp, osiągnięcia i powiązany wynik do daty.
+4. W sekcji Podsumowanie wyświetl postęp, osiągnięcia i powiązany wynik do daty.
 
    :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="Jak odczytać tabelę Partner Contribution Indicators (Wskaźniki udziału partnera).":::
 
 ## <a name="next-steps"></a>Następne kroki
 
-Zapoznaj się z [tymi zasobami](https://partner.microsoft.com/training/assets/collection/cloud-business-applications-smb-option-for-smmcs-competency-attainment#/) informacyjnymi, aby dowiedzieć się więcej na temat uzyskania kompetencji Gold lub Silver Small and Midmarket Cloud Solutions za pośrednictwem opcji cloud Business Applications SMB.
+Wyświetl te [zasoby informacyjne,](https://partner.microsoft.com/training/assets/collection/cloud-business-applications-smb-option-for-smmcs-competency-attainment#/) aby dowiedzieć się więcej na temat uzyskania kompetencji Gold or Silver Small and Midmarket Cloud Solutions za pośrednictwem opcji SMB Cloud Business Applications SMB.

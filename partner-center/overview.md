@@ -4,22 +4,22 @@ ms.topic: overview
 ms.date: 12/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Używanie Partner Center do prowadzenia transakcji biznesowych z firmą Microsoft i klientami
-author: laurabrenner
-ms.author: labrenne
+description: Use Partner Center to transact business with Microsoft and your customers (Transakcje biznesowe z firmą Microsoft i klientami)
+author: jasongroce
+ms.author: jasongroce
 ms.localizationpriority: high
-ms.openlocfilehash: dc34044753b540545086113e356e194c3c99138a
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: cd9400915861667378ccf5545a6a8827a699d465
+ms.sourcegitcommit: a84c83bbd95156344b3d9b2778973f47a9f83141
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277661"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "113353724"
 ---
 # <a name="what-is-partner-center"></a>Co to jest Centrum partnerskie?
 
 **Odpowiednie role:** Wszyscy partnerzy zainteresowani Partner Center
 
-[Partner Center](https://partner.microsoft.com/dashboard/home) usprawnia kilka procesów biznesowych, aby ułatwić partnerom firmy Microsoft zarządzanie relacjami z firmą Microsoft i ich klientami. Partner Center umożliwia łatwy dostęp do narzędzi potrzebnych do pracy. Użyj Partner Center, aby:
+[Partner Center](https://partner.microsoft.com/dashboard/home) usprawnia kilka procesów biznesowych, aby ułatwić partnerom firmy Microsoft zarządzanie relacjami z firmą Microsoft i ich klientami. Partner Center zapewnia dostęp do narzędzi potrzebnych do pracy. Użyj Partner Center, aby:
 
 - Zarządzanie użytkownikami konto Microsoft użytkownikami
 - Kontaktowanie się z klientami
@@ -35,15 +35,15 @@ ms.locfileid: "112277661"
 
 ## <a name="manage-your-account"></a>Zarządzanie kontem
 
-Niezależnie od tego, czy jesteś partnerem w programie Dostawca rozwiązań w chmurze, czy partnerem deweloperów sprzedażowym Twoich aplikacji, zarządzasz kontem usługi Partner Center z jednej lokalizacji ustawień konta: pulpitu nawigacyjnego [Partner Center.](https://partner.microsoft.com/dashboard/home) W tym miejscu można modyfikować informacje prawne, szczegóły podatkowe, dzierżawy, lokalizacje biznesowe, użytkowników i uprawnienia oraz określone programy, w których firma jest zarejestrowane.
+Niezależnie od tego, czy jesteś partnerem w programie Dostawca rozwiązań w chmurze, czy też partnerem deweloperów sprzedażowym Twoich aplikacji, zarządzasz kontem usługi Partner Center z jednej lokalizacji ustawień konta: pulpitu nawigacyjnego [Partner Center.](https://partner.microsoft.com/dashboard/home) W tym miejscu można modyfikować informacje prawne, szczegóły podatkowe, dzierżawy, lokalizacje biznesowe, użytkowników i uprawnienia oraz określone programy, w których firma jest zarejestrowane.
 
-To, co można zobaczyć i zarządzać w Partner Center zależy od Twojej roli i uprawnień. Aby dowiedzieć się [więcej, zobacz Role i uprawnienia](permissions-overview.md).
+To, co można zobaczyć i zarządzać Partner Center zależy od Twojej roli i uprawnień. Aby dowiedzieć się [więcej, zobacz Role i uprawnienia.](permissions-overview.md)
 
-:::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Menu Ustawienia.":::
+:::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Ustawienia menu.":::
 
 ## <a name="membership-programs"></a>Programy członkostwa
 
-W Partner Center można kupić usługę Microsoft Action Pack, która udostępnia oprogramowanie i narzędzia firmy Microsoft do rozwijania wiedzy, na przykład rozwijanie umiejętności w zakresie zdobywania kompetencji i zdobywania zaawansowanych specjalizacji. Korzyści zawarte w tych programach pomagają tworzyć rozwiązania i wchodzić na rynek; przeglądać je i zarządzać nimi w Partner Center. [Porównaj Microsoft Partner Network członkostwa w programie](https://partner.microsoft.com/membership/compare-offers).
+W ramach Partner Center można kupić usługę Microsoft Action Pack, która udostępnia oprogramowanie i narzędzia firmy Microsoft do rozwijania wiedzy, na przykład rozwijanie umiejętności w zakresie zdobywania kompetencji i zdobywania zaawansowanych specjalizacji. Korzyści zawarte w tych programach pomagają tworzyć rozwiązania i wchodzić na rynek; przeglądać je i zarządzać nimi w Partner Center. [Porównaj Microsoft Partner Network członkostwa w programie](https://partner.microsoft.com/membership/compare-offers).
 
 ## <a name="connect-with-customers"></a>Nawiązywanie relacji z klientami
 
@@ -65,8 +65,8 @@ Mając Azure Active Directory głównym elementem konta Partner Center, upewnij 
 
 Uzyskaj dostęp do kilku różnych typów raportów danych z pulpitu Partner Center nawigacyjnego:
 
-- Wskaźniki wkładu partnerów (PCI) pokazują wpływ partnera na siedem kluczowych miar sukcesu klientów
-- Raporty danych usługi Partner Insights identyfikują wysoką sprzedaż, pomagają dowiedzieć się, którzy klienci wdrożyli swoje subskrypcje lub potrzebują pomocy technicznej, oraz pokazują, jak dobrze twoje produkty się sprzedaje.
+- Wskaźniki wkładu partnerów (PCI, Partner Contribution Indicators) pokazują wpływ partnera na siedem kluczowych miar sukcesu klientów
+- Raporty Szczegółowe informacje partnerów identyfikują wysoką sprzedaż, pomagają dowiedzieć się, którzy klienci wdrożyli swoje subskrypcje lub potrzebują pomocy technicznej, oraz pokazują, jak dobrze twoje produkty się sprzedaje.
 
 :::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Określ, gdzie znajdują się Twoje licencje.":::
 
