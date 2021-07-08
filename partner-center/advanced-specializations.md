@@ -1,7 +1,7 @@
 ---
 title: Dowiedz się więcej o zaawansowanych specjalizacjach
 ms.topic: article
-ms.date: 01/21/2021
+ms.date: 07/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Wzmocnienie profilu biznesowego w katalogu partnerów firmy Microsoft. Dowiedz się więcej na temat zaawansowanych specjalizacji, które można uzyskać, oraz istniejących kompetencji Gold i Silver.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91c182f2eb42bbe834926c7985d343524305485a
-ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
+ms.openlocfilehash: 779e6d344d9fc75a45a4d89a65ebff3ace8ce8cb
+ms.sourcegitcommit: 312f3800d0a0464af9df4d7ffb0d9faec273fd74
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "112125926"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113489813"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Zdobądź zaawansowaną specjalizację, aby zaprezentować zweryfikowane możliwości
 
@@ -22,11 +22,11 @@ ms.locfileid: "112125926"
 
 Zaawansowane specjalizacje firmy Microsoft są kompilowane na podstawie powiązanych kompetencji [gold,](learn-about-competencies.md) które partner może zdobyć. Zdobywanie złotych kompetencji wraz z powiązanymi zaawansowanymi specjalizacjami umożliwia partnerom dalsze odróżnienie ich możliwości od klientów.
 
-Aby uzyskać zaawansowaną specjalizację, partner często musi spełniać wymagające wymagania, takie jak uzyskanie dokumentacji klientów, wykonanie inspekcji innej firmy, udowodnienie uzyskania odpowiedniego zestawu umiejętności i spełnienie pewnych innych pomiarów wydajności.
+Aby uzyskać zaawansowaną specjalizację, partner często musi spełniać wymagające wymagania, takie jak uzyskanie dokumentacji klienta, wykonanie inspekcji innej firmy, udowodnienie uzyskania odpowiedniego zestawu umiejętności i spełnienie pewnych innych pomiarów wydajności.
 
 Spełniając te rygorystyczne wymagania, partnerzy mogą następnie zweryfikować swoją głęboką wiedzę, rozbudowane doświadczenie i sprawdzone powodzenie w dostarczaniu dostosowanych rozwiązań dla klientów w obszarach wysokiego zapotrzebowania i istotności klientów.
 
-Partnerzy, którzy uzyskają zaawansowaną specjalizację, uzyskają etykietę skierowaną do klienta, która będzie wyświetlana w profilu biznesowym w narzędziu do wyszukiwania dostawcy [rozwiązań firmy Microsoft.](https://www.microsoft.com/solution-providers/home) Ta etykieta dodatkowo weryfikuje możliwości partnera, zapewniając mu dostęp do powiązanych korzyści, rozszerzonego zasięgu klientów i większego zaufania klientów.
+Partnerzy, którzy uzyskają zaawansowaną specjalizację, uzyskają etykietę skierowaną do klienta, która będzie wyświetlana w profilu biznesowym w narzędziu do wyszukiwania dostawców [rozwiązań firmy Microsoft.](https://www.microsoft.com/solution-providers/home) Ta etykieta dodatkowo weryfikuje możliwości partnera, zapewniając mu dostęp do powiązanych korzyści, rozszerzonego zasięgu klientów i większego zaufania klientów.
 
 > [!NOTE]
 > Aby dowiedzieć się więcej na temat zaawansowanych specjalizacji, odwiedź [stronę Microsoft Partner Network specjalizacji zaawansowanych.](https://partner.microsoft.com/membership/advanced-specialization)
@@ -52,8 +52,11 @@ Każda zaawansowana specjalizacja odpowiada obszarowi rozwiązania:
 - Migracja systemu Windows Server i programu SQL Server na platformę Microsoft Azure
 - AI i Machine Learning w Microsoft Azure
 - Infrastruktura chmury hybrydowej z Microsoft Azure Stack HCI
-- Operacje hybrydowe i zarządzanie nimi za pomocą Microsoft Azure Arc
-- Microsoft Azure rozwiązania VMware
+- Hybrydowe operacje i zarządzanie z usługą Microsoft Azure Arc
+- Microsoft Azure Rozwiązanie VMware
+- DevOps z GitHub na Microsoft Azure
+- Usługi sieciowe w Microsoft Azure
+
 
 **Business Applications** specjalizacje obejmują:
 

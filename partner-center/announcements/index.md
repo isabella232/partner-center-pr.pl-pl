@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 06/30/2021
-ms.openlocfilehash: a3d7bc5cbcd8809fd1682265891a617966e6e953
-ms.sourcegitcommit: b0d1413ffa2099ddf11d013d41378afa50953f32
+ms.date: 07/07/2021
+ms.openlocfilehash: 675aab510607a5c18b9f675f1480244fc8394220
+ms.sourcegitcommit: 312f3800d0a0464af9df4d7ffb0d9faec273fd74
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/05/2021
-ms.locfileid: "113297656"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113489779"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
@@ -22,6 +22,7 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 
 |**Kategoria**|**Ogłoszenia z lipca 2021 r.**|**Ogłoszone**|
 |---------|:---------|:---------|
+|Możliwości|[Ogłoszenie przejrzystości rabatów dla klientów](2021-july.md#4)| 7 lipca |
 |Możliwości|[Windows 7 Extended Security Updates (ESU) Year 2 (2021) product key issue rozwiązane](2021-july.md#3)|2 lipca |
 |Możliwości|[Wyświetlanie ofert i uruchomień produktów w tym miesiącu](2021-july.md#2)|1 lipca|
 |Możliwości|[Dynamics 365 Migracja do chmury promocji i wycofania ofert z rabatem](2021-july.md#1)|1 lipca|
@@ -52,7 +53,7 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 |Możliwości|[Ogłoszenie kwalifikacji jednostki należącej do stanu](2021-may.md#2)|4 maja|
 | Oferty/Business Applications|[Wyświetlanie ofert i uruchomień produktów w tym miesiącu](2021-may.md#1)|3 maja, aktualizacja: 7 maja|
 |**Kategoria**|**Ogłoszenia z kwietnia 2021 r.**|**Ogłoszone**|
-|Gotowość|[Zaktualizowany interfejs API weryfikacji adresu klienta CSP zostanie zaktualizowany w czerwcu; Możliwość testowania jest teraz dostępna](2021-april.md#10)|30 kwietnia|
+|Gotowość|[Zaktualizowany interfejs API weryfikacji adresu klienta dostawcy CSP zostanie zaktualizowany w czerwcu. Funkcja testowania jest teraz dostępna](2021-april.md#10)|30 kwietnia|
 |Możliwości|[Nowa lokalizacja dokumentacji programu Swagger Partner Center API](2021-april.md#9)|26 kwietnia|
 |Możliwości|[Dostawca rozwiązań w chmurze dotyczące okresu zwracanego oprogramowania (CSP) i powiadomienia o wygaśnięciu linku pobierania](2021-april.md#8)|21 kwietnia|
 |Rozwój firmy|[Otwórz program licencjonowania: Przejście odsprzedawców do programu Dostawca rozwiązań w chmurze (CSP)](2021-april.md#7)|19 kwietnia|
@@ -65,8 +66,8 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 |**Kategoria**|**Ogłoszenia z marca 2021 r.**|**Ogłoszone**|
 |Możliwości|[Zaktualizowany interfejs API weryfikacji adresu klienta dostawcy CSP jest teraz dostępny do testowania](2021-march.md#18)|31 marca|
 |Oferty/Nowoczesne miejsce pracy|[Nowe Exchange administracyjnego (EAC)](2021-march.md#17)|29 marca|
-|Oferty/Nowoczesne miejsce pracy|[Operacje firmy Microsoft: Wprowadzenie do kalendarza uruchamiania produktu](2021-march.md#16)|25 marca|
-|Możliwości|[Zmiany wymagań dotyczących dołączania klientów w usługach CSP](2021-march.md#15)|25 marca|
+|Oferty/Nowoczesne miejsce pracy|[Microsoft Operations: Introducing the product launch calendar (Operacje firmy Microsoft: wprowadzenie do kalendarza uruchamiania produktu)](2021-march.md#16)|25 marca|
+|Możliwości|[Zmiany wymagań dotyczących dołączania klientów do CSP](2021-march.md#15)|25 marca|
 |Oferty/rynki|[Korekty cennika oprogramowania bezterminowego z 1 marca 2021 r.](2021-march.md#14)|23 marca|
 |Możliwości|[Wersja zestawu SDK w .NET Standard (wersja 1.17.0)](2021-march.md#13)|23 marca|
 |Możliwości|[Oferta komercyjnej platformy handlowej programu CSP i zachęty FY21 CSP dla kwalifikujących się ofert](2021-march.md#12)|18 marca|
@@ -82,7 +83,7 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 |Możliwości|[Nowe produkty i oferty usługi Microsoft Dynamics 365 dostępne od 1 kwietnia 2021 r.](2021-march.md#2)|4 marca|
 |Możliwości|[Usługa Microsoft Drukowanie uniwersalne jest teraz dostępna w niektórych pakietach](2021-march.md#1)|3 marca|
 |**Kategoria**|**Ogłoszenia z lutego 2021 r.**|**Ogłoszone**|
-|Możliwości|[Interfejsy API kwalifikacji PUT zostały wycofane, w maju ma zostać wycofana get-to-tire](2021-february.md#14)|25 lutego|
+|Możliwości|[Interfejsy API kwalifikacji PUT zostały wycofane, a get to retire in May](2021-february.md#14)|25 lutego|
 |Możliwości|[Udostępnianie transakcji sprzedaży zbiorczej na dużą skalę przy Partner Center operacji zbiorczych](2021-february.md#13)|25 lutego|
 |Możliwości|[Migrowanie transakcji z usługi Partner Sales Połączenie (PSC) przy użyciu funkcji migracji nowej transakcji](2021-february.md#12)|25 lutego|
 |Możliwości|[Większa elastyczność dzięki transakcjom sprzedaży typu "co sell" prowadzonym przez partnerów](2021-february.md#11)|25 lutego|
@@ -101,7 +102,7 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 |Nowoczesne miejsce pracy|[Zmiany wymagań dotyczących dołączania do programu Cloud Solution Provider (CSP)](2021-january.md#14)|28 stycznia|
 |Możliwości|[Microsoft Partner Agreement (MPA) — aktualizacja odsprzedawcy pośredniego & często zadawanych pytaniach](2021-january.md#13)|27 stycznia|
 |Możliwości|[Partner Center dziennika inspekcji w celu dołączyć dwa nowe typy operacji dla daP](2021-january.md#12)|25 stycznia|
-|Możliwości|[Zmiany w dostępności oferty platformy Azure w programie CSP związane z nowym środowiskom handlowym w programie CSP dla platformy Azure](2021-january.md#11)|21 stycznia|
+|Możliwości|[Zmiany dotyczące dostępności oferty platformy Azure w programie CSP związane z nowym środowiskom handlowym w programie CSP dla platformy Azure](2021-january.md#11)|21 stycznia|
 |Rozwijanie firmy|[Oprogramowanie bezterminowe jest teraz ogólnie dostępne w programie Dostawca rozwiązań w chmurze](2021-january.md#10)|19 stycznia|
 |Rozwijanie firmy|[Przypomnienie: Wprowadzenie ograniczenia przepustowości interfejsu API dla partnerów wywołujących interfejsy API centrum partnerskiego](2021-january.md#9)|19 stycznia|
 |Oferty/rynki|[Nowe możliwości związane z zabezpieczeniami, zgodnością i tożsamością wprowadzane 1 lutego 2021 r.](2021-january.md#8)|15 stycznia|

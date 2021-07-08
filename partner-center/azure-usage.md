@@ -1,6 +1,6 @@
 ---
 title: Ustalanie rozmiarów maszyn wirtualnych Azure na potrzeby maksymalnego użycia rezerwacji
-description: Dowiedz się, jak rozmiar maszyny wirtualnej (VM) do potrzeb obliczeniowych klientów podczas zakupu Microsoft Azure rezerwacji dla nich.
+description: Dowiedz się, jak rozmiarować maszynę wirtualną do potrzeb obliczeniowych klientów podczas zakupu Microsoft Azure rezerwacji dla nich.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,18 +9,18 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 2d8bc76e0da51abf433e49028445b398c6a1db31
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 650618de7460f4667c60ac58cbe6716530db7f16
+ms.sourcegitcommit: b55f63a029d88c73cd5190bbac2df1b5990e6e44
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276998"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113510197"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Ustalanie rozmiarów maszyn wirtualnych Microsoft Azure na potrzeby maksymalnego użycia rezerwacji
 
 **Odpowiednie role:** Agent administracyjny | Agent sprzedaży
 
-W tym artykule wyjaśniono, jak rozmiar maszyny wirtualnej (VM) do potrzeb obliczeniowych klientów podczas zakupu Microsoft Azure dla nich rezerwacji.
+W tym artykule wyjaśniono, jak rozmiar maszyny wirtualnej (VM) do potrzeb obliczeniowych klientów podczas zakupu Microsoft Azure rezerwacji.
  
 > [!NOTE]
 > Ten artykuł dotyczy tylko partnerów w programie Dostawca rozwiązań w chmurze (CSP). Klienci korzystający z innych typów subskrypcji (takich jak subskrypcje z płatnością zgodnie z użyciem, indywidualne, Umowa z Klientem Microsoft lub Enterprise Agreement) powinni zamiast tego przeczytać tę dokumentację rezerwacji platformy [Azure.](/azure/cost-management-billing/reservations)
@@ -48,11 +48,11 @@ Instrukcje dotyczące korzystania z każdej z tych metod znajdują się poniżej
 
 2. Aby uzyskać więcej informacji, zobacz [Get a customer's utilization records for Azure](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) in the Partner Center API (Uzyskiwanie rekordów wykorzystania platformy Azure przez klienta w [interfejsie API Partner Center API).](/partner-center/develop/)
 
-### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Uzyskiwanie informacji o rozmiarze maszyny wirtualnej przy użyciu Microsoft Azure Portal
+### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Uzyskiwanie informacji o rozmiarze maszyny wirtualnej przy użyciu Microsoft Azure portal
 
 1. W Partner Center przejdź do strony **Customers** (Klienci).
 
-2. Znajdź klienta, który chce kupić rezerwacje maszyn wirtualnych platformy Azure, a następnie wybierz strzałkę w dół, aby rozwinąć informacje o kliencie. Wybierz **Portal zarządzania Microsoft Azure,** aby otworzyć rekord klienta w Azure Portal.
+2. Znajdź klienta, który chce kupić rezerwacje maszyn wirtualnych platformy Azure, a następnie wybierz strzałkę w dół, aby rozwinąć informacje o kliencie. Wybierz **Microsoft Azure portal zarządzania,** aby otworzyć rekord klienta w Azure Portal.
 
 3. Wybierz **pozycję Maszyny wirtualne** z menu portalu, a następnie wybierz maszynę wirtualną, dla której chcesz kupić rezerwację.
 
@@ -70,16 +70,16 @@ Skorzystaj z informacji na poniższej ilustracji, aby uzyskać lokalizację i ro
 
 1. Korzystając z klienta ARMClient lub interfejsów API ARM, wywołaj klienta ARM dla maszyny wirtualnej, dla której chcesz kupić rezerwację.
 
-2. /subscriptions/ <Subscription ID> /resourceGroups/ <Resource group name> /providers/Microsoft.Compute/virtualMachines/ <VM Instance Name> ?api-version=2017-12-01
+2. `/subscriptions/<Subscription ID>/resourceGroups/<Resource group name>/providers/Microsoft.Compute/virtualMachines/<VM Instance Name>?api-version=2017-12-01`
 
-3. Wywołanie zwraca wartości **vmSize** i **location**, jak pokazano poniżej.
+3. Wywołanie zwraca wartości parametrów **vmSize** i **location**, jak pokazano poniżej.
 
     :::image type="content" source="images/usage3.png" alt-text="wartość vmSize.":::
     :::image type="content" source="images/usage4.png" alt-text="wartość lokalizacji.":::
 
-## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Weryfikowanie rabatu za użycie maszyny wirtualnej platformy Azure i rezerwację
+## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Weryfikowanie użycia maszyny wirtualnej platformy Azure i rabatu na rezerwację
 
-Po zakupie wystąpienia zarezerwowanego maszyny wirtualnej platformy Azure w imieniu klienta rabat za opłacenie z góry miejsca maszyny wirtualnej jest automatycznie stosowany do maszyn wirtualnych, które pasują do atrybutów i ilości rezerwacji klienta.
+Po zakupie wystąpienia zarezerwowanego maszyny wirtualnej platformy Azure w imieniu klienta rabat za opłacenie miejsca maszyny wirtualnej jest automatycznie stosowany do maszyn wirtualnych, które pasują do atrybutów i ilości rezerwacji klienta.
 
 Możesz sprawdzić użycie rezerwacji klienta i sprawdzić, do których maszyn wirtualnych są stosowane rabaty za rezerwację, korzystając z jednej z następujących metod:
 
@@ -91,13 +91,13 @@ Instrukcje dotyczące korzystania z każdej z tych metod znajdują się poniżej
 >[!NOTE]
 >Tylko interfejs API wykorzystania platformy Azure pokazuje, do której maszyny wirtualnej jest stosowany rabat.  
 
-### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Sprawdź użycie rezerwacji klienta w Microsoft Azure Portal
+### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Weryfikowanie użycia rezerwacji klienta w portalu Microsoft Azure portal
 
 1. W Partner Center przejdź do strony **Customers** (Klienci).
 
-2. Znajdź klienta, którego rabat na rezerwację i użycie chcesz zweryfikować, a następnie wybierz strzałkę w dół, aby rozwinąć informacje o kliencie. Wybierz **Portal zarządzania Microsoft Azure,** aby otworzyć rekord klienta w Azure Portal.
+2. Znajdź klienta, którego rabat na rezerwację i użycie chcesz zweryfikować, a następnie wybierz strzałkę w dół, aby rozwinąć informacje o kliencie. Wybierz **Microsoft Azure portal zarządzania,** aby otworzyć rekord klienta w Azure Portal.
 3. Wybierz **pozycję Rezerwacje** z menu portalu, a następnie wybierz rezerwację, dla której chcesz sprawdzić użycie.
-4. Na stronie **Przegląd** sprawdź wykres wykorzystania rezerwacji, który pokazuje, ile rezerwacji zastosowano do maszyn wirtualnych.
+4. Na stronie **Przegląd** sprawdź wykres wykorzystania rezerwacji, który pokazuje, jaka część rezerwacji została zastosowana do maszyn wirtualnych.
 
     >[!NOTE]
     >Dane użycia mogą być opóźnione o maksymalnie 8 godzin.
@@ -124,7 +124,7 @@ Dane użycia rezerwacji można uzyskać za pomocą interfejsu API wykorzystania 
 Aby uzyskać więcej informacji, zobacz [Get a customer's utilization records for Azure](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) in the Partner Center API (Uzyskiwanie rekordów wykorzystania platformy Azure przez klienta w [interfejsie API Partner Center API).](/partner-center/develop/)
 
 >[!IMPORTANT]
->Koszty oprogramowania, takie jak Microsoft Windows Server, nie są obecnie uwzględniane w cenie rezerwacji maszyny wirtualnej i będą wyświetlane jako oddzielne pozycje w rekordzie zamówienia i na fakturze. Jeśli jednak klient ma korzyść użycia hybrydowego platformy Azure, koszty oprogramowania nie zostaną zastosowane. Aby uzyskać więcej informacji, zobacz [Koszty oprogramowania systemu Windows nieujmowane w wystąpieniach zarezerwowanych.](/azure/billing/billing-reserved-instance-windows-software-costs)  
+>Koszty oprogramowania, takie jak microsoft Windows Server, nie są obecnie uwzględniane w cenie rezerwacji maszyny wirtualnej i będą wyświetlane jako oddzielne pozycje w rekordzie zamówienia i na fakturze. Jeśli jednak klient ma korzyść użycia hybrydowego platformy Azure, koszty oprogramowania nie zostaną zastosowane. Aby uzyskać więcej informacji, [zobacz Windows oprogramowania nieujmowane w wystąpieniach zarezerwowanych.](/azure/billing/billing-reserved-instance-windows-software-costs)  
 
 ## <a name="next-steps"></a>Następne kroki
 
