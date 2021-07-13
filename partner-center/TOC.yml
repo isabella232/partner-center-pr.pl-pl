@@ -83,13 +83,13 @@
         - name: Dowiedz się więcej na temat kompetencji
           href: learn-about-competencies.md
           displayName: mpn
-        - name: Rejestrowanie jako Edukacja partnerów
+        - name: Rejestracja jako Edukacja partnerów
           href: mpn-benefits-map-competency-learning-option-enroll.md
           displayName: mpn
         - name: Kompetencje — często zadawane pytania
           href: competencies-faq.yml
           displayName: 'renew, mpn'
-        - name: Płatność opłatami za kompetencje
+        - name: Opłacanie opłat za kompetencje
           href: mpn-pay-fee-silver-gold-competency.md
           displayName: mpn
         - name: Wyłączenie kompetencji dla deweloperów aplikacji
@@ -134,7 +134,7 @@
       displayName: csp
     - name: 'Umowy z Klientem Microsoft (według regionu, języka)'
       href: agreements.md
-    - name: Jak potwierdzić akceptację klienta Umowa z Klientem Microsoft
+    - name: Jak potwierdzić akceptację przez klienta Umowa z Klientem Microsoft
       href: confirm-customer-agreement.md
     - name: 'Rynki regionalne CSP, waluty'
       href: regional-authorization-overview.md
@@ -191,7 +191,7 @@
         - name: Aktualizowanie profilu partnera
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Certyfikacja listy w programie Partner Finder
+        - name: Certyfikacja oferty w programie Partner Finder
           href: partner-finder-certification.md
         - name: Informacje o numerze identyfikatora rejestracji
           href: reg-number-id.md
@@ -454,7 +454,7 @@
       href: payment-thresholds-methods-timeframes.md
       displayName: invoice
     - name: Wypłaty i profil podatkowy — często zadawane pytania
-      href: payout-faq.md
+      href: payout-faq.yml
 - name: Nawiązywanie relacji z klientami
   items:
     - name: Nawiązywanie relacji z klientami
