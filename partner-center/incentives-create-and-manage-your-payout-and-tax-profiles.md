@@ -8,14 +8,14 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: b167b0e65f3339a29f0227f6135ed70931300d8e
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a6d578c2ad09e1f8bb03f520d659f1a9b1e199a9
+ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152158"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "113684257"
 ---
-# <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Tworzenie profilów wypłat i profilów podatkowych w programie zachęt i zarządzanie nimi w Partner Center
+# <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Tworzenie profilów wypłat i profilów podatkowych zachęt i zarządzanie nimi w Partner Center
 
 **Odpowiednie role:** Zachęty dla administratorów | Administrator konta | Administrator globalny
 
@@ -46,23 +46,23 @@ Jeśli Twoja firma jest zarejestrowanych w wielu programach zachęt, możesz uż
 W poniższych sekcjach przedstawiono proces tworzenia profilów płatności i profilów podatkowych oraz zarządzania nimi w Partner Center.
 
 >[!IMPORTANT]
->Musisz być administratorem zachęt, aby tworzyć profile płatności i profile podatkowe oraz zarządzać nimi w Partner Center. Role zachęt muszą być przypisane do każdej lokalizacji MPN w ramach każdego programu zachęt. Aby uzyskać więcej informacji na temat dodawania administratorów zachęt w Partner Center, zobacz [Tworzenie kont użytkowników.](create-user-accounts-and-set-permissions.md)
+>Musisz być administratorem zachęt, aby tworzyć profile płatności i profile podatkowe w usługach Partner Center. Role zachęt muszą być przypisane do każdej lokalizacji MPN w ramach każdego programu zachęt. Aby uzyskać więcej informacji na temat dodawania administratorów zachęt w Partner Center, zobacz [Tworzenie kont użytkowników.](create-user-accounts-and-set-permissions.md)
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>Uzyskiwanie dostępu do sekcji wypłat i podatków w Partner Center
 
-1. Zaloguj się do [pulpitu Partner Center nawigacyjnego](https://partner.microsoft.com/dashboard/) przy użyciu Azure Active Directory usługi (Azure AD) (konta firmowego) lub odpowiedniego adresu e-mail, jeśli zostało przypisane.
+1. Zaloguj się do [pulpitu Partner Center nawigacyjnego](https://partner.microsoft.com/dashboard/) przy użyciu konta Azure Active Directory (Azure AD) (konta firmowego) lub odpowiedniego adresu e-mail, jeśli został przypisany.
 
    - W ramach jednego konta usługi Azure AD można zarejestrować wiele domen. Skontaktuj się z administratorem globalnym, aby ustalić, które domeny są skojarzone.
    - Jeśli możesz zalogować się tylko przy użyciu domeny i potrzebujesz dodatkowych domen, skontaktuj się z administratorem konta, aby dodać dodatkowe domeny @onmicrosoft.com do konta usługi Azure AD.
    - Jeśli zostanie wyświetlony monit  o wybranie konta służbowego lub osobistego, wybierz pozycję Konto **służbowe.**
 
-2. Wybierz ikonę koła zębatego, aby otworzyć menu **Ustawienia,** a następnie wybierz **pozycję Ustawienia konta.**
+2. Wybierz ikonę koła zębatego, aby **otworzyć menu Ustawienia,** a następnie wybierz **pozycję Ustawienia konta.**
 
 3. W menu **Ustawienia konta** wybierz pozycję **Wypłata i podatek.**
 
 ## <a name="assign-payout-and-tax-profiles-to-individual-programs"></a>Przypisywanie profilów wypłat i profilów podatkowych do poszczególnych programów
 
-1. Zaloguj się do Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard/)a następnie wybierz ikonę koła zębatego, aby **otworzyć** menu Ustawienia. 
+1. Zaloguj się do Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard/)a następnie wybierz ikonę koła zębatego, aby otworzyć **Ustawienia** nawigacyjny. 
 
 2. Wybierz **pozycję Ustawienia konta,** rozwiń **sekcję Wypłata i podatek,** a następnie wybierz **pozycję Przypisanie profilu wypłaty i profilu podatkowego.** 
    
@@ -82,26 +82,26 @@ W poniższych sekcjach przedstawiono proces tworzenia profilów płatności i pr
     >[!NOTE]
     >Dostępność formy płatności zależy od reguł programu zachęt.
 
-    - Jeśli identyfikator MPN Twojej lokalizacji jest opłacany przez lokalną jednostkę zależną firmy Microsoft za określony program zachęt i zezwala na notę kredytową LRD (dystrybutor ograniczonego ryzyka) jako formę płatności, Twój profil płatności zostanie wstępnie wypełniony przy użyciu formy płatności LRD Credit Note. W wierszu karty kredytowej LRD dla odpowiedniego programu zachęt i identyfikatora  MPN lokalizacji w sekcji profilu płatności zostanie wyświetlony stan **Wymagane** potwierdzenie lub weryfikacja.
+    - Jeśli identyfikator MPN Twojej lokalizacji jest opłacany przez lokalny podmiot zależny firmy Microsoft dla określonego programu zachęt i zezwala na notę kredytową LRD (dystrybutor ograniczonego ryzyka) jako formę płatności, Twój profil płatności zostanie wstępnie wypełniony przy użyciu formy płatności LRD Credit Note. W wierszu formy płatności dla odpowiedniego programu zachęt i identyfikatora MPN  lokalizacji w wierszu faktury kredytowej LRD stanem w sekcji profilu płatności będzie potwierdzenie lub weryfikacja potrzebna. 
     
        Wybierz **pozycję Weryfikacja, która** jest potrzebna, aby potwierdzić i zweryfikować szczegóły identyfikatora dzierżawy dostawcy CSP skojarzone z lokalizacją MPN i metodą płatności w celu otrzymania płatności za pomocą faktury kredytowej. W **oknie dialogowym Szczegóły uwagi** kredytowej sprawdź i sprawdź, czy podany identyfikator dzierżawy programu CSP i podane szczegóły są poprawne. Jeśli zostanie wyświetlony więcej niż jeden identyfikator dzierżawy, starannie wybierz identyfikator dzierżawy CSP, dla którego chcesz otrzymywać płatności. Następnie wybierz pozycję **Potwierdź,** aby potwierdzić, że szczegóły twojej firmy są poprawne, i że płatność za zachętę powinna zostać dokonana w wybranym identyfikatorze dzierżawy dostawcy usług WSP.
  
       Jeśli stan to **Potwierdzony,** przypisanie identyfikatora dzierżawy CSP zostało ukończone i nie są wymagane żadne dalsze działania. Możesz nadal wybrać pozycję Potwierdzony, aby wyświetlić szczegóły przypisania.
    
-      W krajach, które wymagają od partnerów jawnego żądania zastosowania zwolnienia z podatku, istnieje możliwość zastosowania zwolnienia z podatku obok profilu podatkowego w sekcji profilu podatkowego programu zachęt i lokalizacji MPN. Zaznaczenie tego pola spowoduje zastosowanie korzyści wynikających ze zwolnienia z podatku do faktury kredytowej zachęty. 
+      W krajach, które wymagają od partnerów jawnego żądania zastosowania zwolnienia z podatku, będzie dostępna opcja zastosowania zwolnienia z podatku obok profilu podatkowego w sekcji profilu podatkowego programu zachęt i lokalizacji MPN. Zaznaczenie tego pola spowoduje zastosowanie korzyści wynikających ze zwolnienia z podatku do faktury kredytowej zachęty. 
    
-      Obecnie metoda płatności za pomocą faktury kredytowej LRD jest dostępna tylko dla partnerów w Australii, Nowej Zelandii i Kanadzie w ramach programu Microsoft Commerce Incentive. Jeśli jesteś partnerem rozliczania bezpośredniego lub dostawcą pośrednim w tych trzech krajach zarejestrowanych w programie MCI i nie widzisz noty kredytowej LRD jako dostępnej formy płatności, potwierdź, że identyfikator dzierżawy jest skojarzony z odpowiednim kontem lokalizacji MPN partnera. Aby uzyskać więcej informacji na ten temat, [przeczytaj, jak zaktualizować profil organizacji.](update-your-partner-profile.md)
+      Obecnie metoda płatności za pomocą faktury kredytowej LRD jest dostępna tylko dla partnerów w Australii, Nowej Zelandii i Kanadzie w ramach programu Microsoft Commerce Incentive. Jeśli jesteś partnerem z rozliczeniami bezpośrednimi lub dostawcą pośrednim w tych trzech krajach zarejestrowanych w programie MCI i nie widzisz noty kredytowej LRD jako dostępnej formy płatności, potwierdź, że identyfikator dzierżawy jest skojarzony z odpowiednim kontem lokalizacji MPN partnera. Aby uzyskać więcej informacji na ten temat, [przeczytaj, jak zaktualizować profil organizacji.](update-your-partner-profile.md)
 
     
 5. Wybierz **walutę**.
 
-6. Po ukończeniu wszystkich pól płatności wybierz pozycję **Prześlij**.
+6. Po ukończeniu wszystkich pól płatności wybierz pozycję **Prześlij.**
 
 ## <a name="set-up-a-default-bank-profile"></a>Konfigurowanie domyślnego profilu bankowego
 
-Możesz skonfigurować domyślne profile bankowe i przypisać je do lokalizacji MPN. Te profile wartości domyślnych będą używane przez firmę Microsoft do kolejnych rejestracji w tej lokalizacji MPN. 
+Możesz skonfigurować domyślne profile bankowe i przypisać je do lokalizacji MPN. Te profile domyślne będą używane przez firmę Microsoft do kolejnych rejestracji w tej lokalizacji MPN. 
 
-1. Zaloguj się do [Partner Center,](https://partner.microsoft.com/dashboard/)a następnie wybierz ikonę koła zębatego, aby **otworzyć**   menu Ustawienia. 
+1. Zaloguj się do Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard/)a następnie wybierz **** ikonę koła zębatego, aby Ustawienia   menu. 
 
 2. Wybierz **pozycję Ustawienia konta,** rozwiń **sekcję Wypłata i** podatek, a następnie wybierz pozycję Profile **wypłaty i profile podatkowe.** 
 
@@ -111,39 +111,39 @@ Możesz skonfigurować domyślne profile bankowe i przypisać je do lokalizacji 
 
 5. Wybierz profil bankowy z listy dostępnych profilów bankowych Twojej firmy, wybierz walutę, która ma być używana z tym profilem banku, a następnie wybierz listę lokalizacji MPN, dla których chcesz zastosować ten profil domyślny.
 
-6. Po **zakończeniu** wyboru wybierz pozycję Gotowe. Przycisk Gotowe nie będzie można klikać do momentu ukończenia wszystkich wymaganych pól. 
+6. Po **zakończeniu** wyborów wybierz pozycję Gotowe. Przycisk Gotowe nie będzie można klikać, dopóki nie zostaną wypełnione wszystkie wymagane pola. 
 
 >[!NOTE]
->To samo parowanie banków i walut można zastosować do wielu lokalizacji. Jeśli do lokalizacji MPN przypisano jeden raz domyślny profil i kombinację waluty, nie będzie ona już wyświetlana na liście rozwijanej lokalizacji dla przyszłych domyślnych przypisań profilów. Jeśli wybór domyślny zostanie usunięty, lokalizacja MPN pojawi się ponownie w przypadku przyszłych domyślnych przypisań profilów. Każda kombinacja profilu bankowego i waluty jest dodawana jako unikatowy, edytowalny wiersz.
+>To samo parowanie banku i waluty można zastosować do wielu lokalizacji. Jeśli do lokalizacji MPN przypisano raz domyślny profil i kombinację waluty, nie będzie ona już wyświetlana na liście rozwijanej lokalizacji dla przyszłych domyślnych przypisań profilu. Jeśli wybór domyślny zostanie usunięty, lokalizacja MPN pojawi się ponownie w przypadku przyszłych domyślnych przypisań profilów. Każda kombinacja profilu bankowego i waluty jest dodawana jako unikatowy, edytowalny wiersz.
 
 7. Po dodaniu wszystkich wymaganych zmian wybierz pozycję **Zapisz.**  
 
 ## <a name="create-your-bank-profile"></a>Tworzenie profilu bankowego
 
-Profile bankowe są tworzone na poziomie firmy. Dzięki temu jeden profil bankowy może być przypisany do wielu identyfikatorów MPN i programów zachęt w firmie. Mogą wystąpić wyjątki podczas stosowania profilu bankowego w różnych krajach, ponieważ mogą mieć zastosowanie różne reguły dotyczące bankowości i podatków.
+Profile bankowe są tworzone na poziomie firmy. Dzięki temu jeden profil bankowy może być przypisany do wielu identyfikatorów MPN i programów zachęt w firmie. W przypadku stosowania profilu bankowego w różnych krajach mogą wystąpić wyjątki, ponieważ mogą mieć zastosowanie różne reguły dotyczące bankowości i podatków.
 
 >[!NOTE]
 >Na poniższych stronach wymagane są pola oznaczone gwiazdką. Jeśli nie wiesz, co to jest pole, wybierz ikonę informacji. 
 
-1. Na stronie **Szczegóły** wypełnij następujące pola: **Nazwa profilu:** Wprowadź unikatową nazwę, aby zidentyfikować ten profil płatności.
+1. Na stronie **Szczegóły** wypełnij następujące pola: **Nazwa profilu:** wprowadź unikatową nazwę identyfikującą ten profil płatności.
     **Lokalizacja konta bankowego:** Kraj, w którym znajduje się bank firmy.
-    **Formy płatności:** Preferowaną metodą płatności za Partner Center jest elektroniczne przelew bankowy.
+    **Formy płatności:** Preferowaną metodą płatności za Partner Center jest przelew bankowy w formie elektronicznej.
 
 2. Wybierz opcję **Dalej**.
 
-3. Na stronie **Konto bankowe** wprowadź swoje informacje. Pola wyświetlane na tej stronie różnią się w zależności od kraju. 
+3. Na **stronie Konto** bankowe wprowadź swoje informacje. Pola wyświetlane na tej stronie różnią się w zależności od kraju. 
 
 4. Wybierz opcję **Dalej**.
 
-5. Na **stronie** Wzręb wprowadź odpowiednie informacje. Jest to osoba w firmie, z którą bank skontaktuje się, jeśli będzie musiał omówić Twoje konto.
+5. Na **stronie** Zdjęcie wprowadź odpowiednie informacje. Jest to osoba w firmie, z którą bank skontaktuje się, jeśli będzie musiał omówić Twoje konto.
 
 6. Po zakończeniu pól wybierz pozycję **Zakończ,** a następnie wybierz pozycję **Potwierdź,** aby utworzyć profil bankowy.
 
-Nastąpi przekierowanie do strony **Wypłaty i profile podatkowe.** Stan nowego profilu będzie odzwierciedlał **oczekującą** weryfikację firmy Microsoft do momentu ukończenia walidacji. Ten proces może potrwać do 48 godzin. Po zakończeniu walidacji stan profilu będzie odzwierciedlał stan **Zatwierdzone** lub **Wymagana akcja**. Jeśli **wymagana jest akcja**, powtórz powyższe kroki, podając niezbędne informacje. 
+Nastąpi przekierowanie do strony Wypłaty **i profile podatkowe.** Stan nowego profilu będzie odzwierciedlać stan **Oczekiwanie na** weryfikację firmy Microsoft do momentu ukończenia walidacji. Ten proces może potrwać do 48 godzin. Po zakończeniu walidacji stan profilu będzie odzwierciedlał stan **Zatwierdzone** lub **Wymagana akcja.** Jeśli **wymagana jest akcja**, powtórz powyższe kroki, podając niezbędne informacje. 
 
 ## <a name="create-your-tax-profile"></a>Tworzenie profilu podatkowego
 
-Użyj poniższej procedury, aby przekazać firmie Microsoft informacje podatkowe wymagane dla Twojej organizacji. Strony w tej sekcji są dynamiczne i różnią się w zależności od kraju lub regionu. Jeśli potrzebujesz pomocy przy identyfikowaniu prawidłowych informacji podatkowych, skontaktuj się z odpowiednimi źródłami rządowymi w Twoim kraju.
+Użyj poniższej procedury, aby przekazać firmie Microsoft informacje podatkowe wymagane przez Twoją organizację. Strony w tej sekcji są dynamiczne i różnią się w zależności od kraju lub regionu. Jeśli potrzebujesz pomocy przy identyfikowaniu prawidłowych informacji podatkowych, skontaktuj się z odpowiednimi źródłami rządowymi w Twoim kraju.
 
 W przypadku firm partnerskich w Ameryce Północnej i Południowej, jeśli potrzebujesz informacji na temat wypełniania formularzy W8 lub W9, następujące adresy przejdą do witryny IRS:
 
@@ -157,8 +157,8 @@ W przypadku firm partnerskich w Ameryce Północnej i Południowej, jeśli potrz
 
 2. Na **stronie Konfiguracja** wybierz opcję, która ma zastosowanie do Twojej firmy.
 
-   - Wybierz opcję po lewej stronie, jeśli twoja firma jest włączona tylko do Stany Zjednoczone lub jeśli ten profil jest dla osoby poszczególnych.
-   - Wybierz opcję po prawej stronie, jeśli firma jest włączona poza Stany Zjednoczone, a następnie wybierz kraj/region z listy.
+   - Wybierz opcję po lewej stronie, jeśli firma jest włączona tylko do Stany Zjednoczone lub jeśli ten profil jest dla osoby poszczególnych.
+   - Wybierz opcję po prawej stronie, jeśli Twoja firma jest włączona poza Stany Zjednoczone, a następnie wybierz kraj/region z listy.
 
 3. Wybierz opcję **Dalej**. 
 
@@ -166,7 +166,7 @@ W przypadku firm partnerskich w Ameryce Północnej i Południowej, jeśli potrz
 
 5. Na stronie **Dodatkowa dokumentacja** wybierz wymagane pola i wybierz pozycję **Dalej.** 
 
-6. Wybierz **pozycję Przeglądaj,** aby przekazać wszystkie dokumenty wymagane przez kraj lub region. Gdy zostanie pokazana nazwa dokumentu, wybierz pozycję **Przekaż**. 
+6. Wybierz **pozycję Przeglądaj,** aby przekazać wszystkie dokumenty wymagane przez kraj lub region. Gdy zostanie pokazana nazwa dokumentu, wybierz pozycję **Upload**. 
 
 7. Jeśli musisz usunąć dokument, wybierz pozycję **Usuń**.
 
@@ -176,9 +176,9 @@ W przypadku firm partnerskich w Ameryce Północnej i Południowej, jeśli potrz
  
 ## <a name="update-expired-tax-profiles"></a>Aktualizowanie wygasłych profilów podatkowych
 
-1. Zaloguj się do Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard/)a następnie wybierz ikonę koła zębatego, aby **otworzyć** menu Ustawienia.
+1. Zaloguj się do Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard/)a następnie wybierz ikonę koła zębatego, aby otworzyć **Ustawienia** nawigacyjny.
 
-1. Wybierz **pozycję Ustawienia konta,** rozwiń **sekcję Wypłata i** podatek, a następnie wybierz pozycję Profil **wypłaty i profil podatkowy.**
+1. Wybierz **pozycję Ustawienia konta,** rozwiń **sekcję Wypłata i** podatek, a następnie wybierz pozycję **Wypłata i profil podatkowy.**
 
 1. Wybierz **pozycję Profil podatkowy.**
 
@@ -190,4 +190,4 @@ W przypadku firm partnerskich w Ameryce Północnej i Południowej, jeśli potrz
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Typowe pytania dotyczące wypłat i podatków](payout-faq.md)
+- [Typowe pytania dotyczące wypłat i podatków](payout-faq.yml)
