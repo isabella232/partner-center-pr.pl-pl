@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/09/2021
-ms.openlocfilehash: 664e8d1353a022e73a5d2f68d11dea4d7cfd438f
-ms.sourcegitcommit: e2256e60cd2d4d41b3653655e3b1931292234283
+ms.openlocfilehash: 81b687e6c1f5fe1f35fc12f7dbb53e76416b5005
+ms.sourcegitcommit: 285c0007cb2c2e26ff6a3d2fd6bf91edc82a3946
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/11/2021
-ms.locfileid: "113599775"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "113648369"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
@@ -22,6 +22,8 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 
 |**Kategoria**|**Ogłoszenia z lipca 2021 r.**|**Ogłoszone**|
 |---------|:---------|:---------|
+|Gotowość|[Zmiany interfejsu API weryfikacji adresu Dostawca rozwiązań w chmurze (CSP) wprowadzone 13 lipca 2021 r.](2021-july.md#8)| 12 lipca |
+|Możliwości|[Aktualizacja społeczności Dostawca rozwiązań w chmurze (CSP) z lipca](2021-july.md#7)| 12 lipca |
 |Możliwości|[Utrzymuj aktywne certyfikaty firmy Microsoft dzięki pomocy Partner Center](2021-july.md#6)| 9 lipca |
 |Możliwości|[Wersja zestawu SDK w .NET Standard (wersja 2.0.1)](2021-july.md#5)| 7 lipca |
 |Możliwości|[Zawiadomienie o przejrzystości rabatów dla klientów](2021-july.md#4)| 7 lipca |

@@ -9,27 +9,13 @@
     - name: Partnerstwo z firmą Microsoft
       href: mpn-overview.md
       displayName: mpn
-    - name: Tworzenie konta MPN w Partner Center
+    - name: Tworzenie konta MPN w Centrum partnerskim
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
     - name: Rozwiązywanie problemów z konfiguracją konta
       href: troubleshoot-account-sign-n.md
-    - name: Przejścia z centrum PMC
-      items:
-        - name: Przygotowanie do migracji z centrum PMC
-          href: prepare-pmc-pc-migration.md
-          displayName: 'role, roles, ro, mpn'
-        - name: Przewodnik przechodzenia z centrum PMC
-          href: guide-to-migration.md
-        - name: Porównanie centrów PMC i PC
-          href: move-pmc-pc-map.md
-        - name: Przenoszenie wielu firm
-          href: move-multiple-companies.md
-        - name: Konsolidowanie firm
-          href: consolidate-accounts.md
-        - name: Aktywowanie korzyści dla centrum PMC
-          href: partner-membership-center-tech-benefits-activate.md
-          displayName: mpn
+    - name: Partner Membership Center wycofanie
+      href: partner-membership-center-retirement-faq.md
     - name: Korzyści związane z członkostwem
       items:
         - name: Omówienie korzyści
@@ -48,9 +34,9 @@
           href: mpn-find-benefits.md
           displayName: mpn
         - name: Zasady i użycie korzyści — często zadawane pytania
-          href: benefits-faq-new.md
+          href: benefits-faq-new.yml
         - name: Często zadawane pytania dotyczące korzyści
-          href: benefits-faq.md
+          href: benefits-faq.yml
           displayName: 'renew, license,'
         - name: Wyświetlanie lub pobieranie faktury MPN
           href: mpn-view-print-maps-invoice.md
@@ -97,13 +83,13 @@
         - name: Dowiedz się więcej na temat kompetencji
           href: learn-about-competencies.md
           displayName: mpn
-        - name: Rejestracja jako partner uczenia
+        - name: Rejestrowanie jako Edukacja partnerów
           href: mpn-benefits-map-competency-learning-option-enroll.md
           displayName: mpn
         - name: Kompetencje — często zadawane pytania
-          href: competencies-faq.md
+          href: competencies-faq.yml
           displayName: 'renew, mpn'
-        - name: Opłacanie opłat za kompetencje
+        - name: Płatność opłatami za kompetencje
           href: mpn-pay-fee-silver-gold-competency.md
           displayName: mpn
         - name: Wyłączenie kompetencji dla deweloperów aplikacji
@@ -114,9 +100,10 @@
       items:
         - name: Prezentuj swoją wiedzę
           href: advanced-specializations.md
+          displayName: Advanced specializations
         - name: Zastosuj lub sprawdź stan
           href: advanced-specializations-apply.md
-          displayName: mpn
+          displayName: 'mpn, Advanced specializations'
     - name: Zostań dostawcą Azure Expert MSP
       href: azure-expert-msp.md
 - name: Dostawca rozwiązań w chmurze program (CSP)
@@ -147,7 +134,7 @@
       displayName: csp
     - name: 'Umowy z Klientem Microsoft (według regionu, języka)'
       href: agreements.md
-    - name: Jak potwierdzić akceptację przez klienta Umowa z Klientem Microsoft
+    - name: Jak potwierdzić akceptację klienta Umowa z Klientem Microsoft
       href: confirm-customer-agreement.md
     - name: 'Rynki regionalne CSP, waluty'
       href: regional-authorization-overview.md
@@ -161,7 +148,7 @@
         - name: Centrum partnerskie Microsoft Cloud for US Government
           href: partner-center-for-microsoft-us-govt-cloud.md
         - name: Często zadawane pytania — Microsoft Cloud for US Government
-          href: faq-for-us-govt-cloud.md
+          href: faq-for-us-govt-cloud.yml
           displayName: csp
         - name: Centrum partnerskie dla Microsoft Cloud Niemcy
           href: partner-center-for-microsoft-cloud-germany.md
@@ -204,6 +191,8 @@
         - name: Aktualizowanie profilu partnera
           href: update-your-partner-profile.md
           displayName: mpn
+        - name: Certyfikacja listy w programie Partner Finder
+          href: partner-finder-certification.md
         - name: Informacje o numerze identyfikatora rejestracji
           href: reg-number-id.md
         - name: Dołączanie do dostawców oprogramowania panelu sterowania
@@ -263,12 +252,12 @@
           href: bulk-operations.md
         - name: Używanie łączników CRM wspólnej sprzedaży
           items:
-            - name: Dla platformy Dynamics 365
+            - name: Łącznik dla usługi Dynamics 365
               href: connector-dynamics.md
-            - name: Dla usługi Salesforce
+            - name: Łącznik dla usługi Salesforce
               href: connector-salesforce.md
-        - name: Rozwiązywanie problemów z łącznikami
-          href: connectors-troubleshoot.md
+            - name: Rozwiązywanie problemów z łącznikami
+              href: connectors-troubleshoot.md
         - name: Wspólna sprzedaż — migracja z centrum PSC do PC
           href: psc-to-pc.md
           displayName: mpn
@@ -365,7 +354,7 @@
         - name: Stan płatności w programie Solution Assessment
           href: chip-solution-assessment-payment.md
         - name: Program Solution Assessment — często zadawane pytania
-          href: chip-faq.md
+          href: chip-faq.yml
         - name: Problem z uzyskiwaniem dostępu do platformy CHIP
           href: chip-access-trouble.md
 - name: Rozliczenia i podatki
@@ -787,5 +776,5 @@
       href: partner-security-compliance.md
       displayName: csp
     - name: Często zadawane pytania
-      href: partner-security-requirements-faq.md
+      href: partner-security-requirements-faq.yml
       displayName: 'sandbox, csp'
