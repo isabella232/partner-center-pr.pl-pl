@@ -191,7 +191,7 @@
         - name: Aktualizowanie profilu partnera
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Certyfikacja oferty w programie Partner Finder
+        - name: Certyfikacja listy w programie Partner Finder
           href: partner-finder-certification.md
         - name: Informacje o numerze identyfikatora rejestracji
           href: reg-number-id.md
@@ -273,7 +273,7 @@
     - name: Wprowadzenie do zachęt
       items:
         - name: Często zadawane pytania dotyczące zachęt
-          href: incentives-faq.md
+          href: incentives-faq.yml
           displayName: mpn
         - name: Wprowadzenie do zachęt
           href: incentives-get-started-intro.md

@@ -8,24 +8,24 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 5aead530797d8d122ea871a693c774439b412171
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 32b7575e0110eba8c04e971845f54ca71bfb45c5
+ms.sourcegitcommit: d1deaeb1703cf2c25119037c5fb624c44fca74b4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146718"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "113753361"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>10 podstawowych danych do pracy z zachętami
 
 **Odpowiednie role:** Zachęty dla administratorów | Zachęty użytkownika
 
-Microsoft Program zachęt to zaawansowane narzędzie, które nagradza partnerów za angażowanie klientów z produktami i usługami firmy Microsoft. Im lepiej rozumiesz program, tym większe jest Twoje prawdopodobieństwo sukcesu.
+Microsoft Program zachęt to zaawansowane narzędzie, które nagradza partnerów za angażowanie klientów z produktami i usługami firmy Microsoft. Im lepiej rozumiesz program, tym większe prawdopodobieństwo sukcesu.
 
-Zalecamy, aby przed rozpoczęciem pracy z  programem zachęt wykonać 10 podstawowych czynności wymienionych poniżej. Pomoże to zagwarantować, że Twoje środowisko zachęt jest dobre i pomoże zapobiec opóźnieniom w wypłatach zachęt.
+Zalecamy, aby przed rozpoczęciem pracy z  programem zachęt wykonać 10 podstawowych czynności wymienionych poniżej. Pomogą one zapewnić, że Twoje środowisko zachęt jest dobre, i pomoże zapobiec opóźnieniom w wypłatach zachęt.
 
 ## <a name="1-join-the-microsoft-partner-network"></a>1. Dołącz do Microsoft Partner Network
 
-Jeśli nie jesteś jeszcze partnerem firmy Microsoft, musisz dołączyć do programu MPN, aby skorzystać z zachęt i innych korzyści. Aby dowiedzieć się więcej, zobacz Microsoft Partner Network Membership ( [Członkostwo).](https://partner.microsoft.com/membership)
+Jeśli nie jesteś jeszcze partnerem firmy Microsoft, musisz dołączyć do programu MPN, aby skorzystać z zachęt i innych korzyści. Aby dowiedzieć się więcej, [zobacz Microsoft Partner Network Membership (Członkostwo).](https://partner.microsoft.com/membership)
 
 ## <a name="2-read-your-incentives-program-guide"></a>2. Przeczytaj swój Przewodnik po programach
 
@@ -33,15 +33,15 @@ Każdy program zachęt ma własny szczegółowy przewodnik po programie. W tym p
 
 ## <a name="3-set-up-your-tax-and-banking-profile"></a>3. Konfigurowanie profilu podatkowego i bankowego
 
-Niemal wszystkie opóźnienia wypłat lub inne przerwy w procesie zachęt są wynikiem niedokładnego lub niekompletnego profilu podatkowego i bankowego. Przed rozpoczęciem programu zachęt upewnij się, że Twój profil jest w dobrej kondycji. Aby dowiedzieć się więcej, zobacz [Wypłaty i profile podatkowe w Partner Center](incentives-create-and-manage-your-payout-and-tax-profiles.md).
+Prawie wszystkie opóźnienia wypłat lub inne przerwy w procesie zachęt są wynikiem niedokładnego lub niekompletnego profilu podatkowego i bankowego. Przed rozpoczęciem programu zachęt upewnij się, że Twój profil jest w dobrym stanie. Aby dowiedzieć się więcej, zobacz [Wypłaty i profile podatkowe w Partner Center](incentives-create-and-manage-your-payout-and-tax-profiles.md).
 
 ## <a name="4-learn-about-roles-and-permissions"></a>4. Informacje o rolach i uprawnieniach
 
-Ważne jest, aby dobrze zrozumieć role i uprawnienia związane z programem zachęt. Po zakończeniu tej operacji możesz zdecydować, które role powinny być przypisane do osób w firmie. Aby dowiedzieć się więcej, zobacz [Jakie role użytkownika są dostępne?](incentives-faq.md#what-user-roles-are-available)
+Ważne jest, aby dobrze zrozumieć role i uprawnienia związane z programem zachęt. Po zakończeniu tej operacji możesz zdecydować, które role powinny być przypisane do osób w firmie. Aby dowiedzieć się więcej, zobacz [Jakie role użytkownika są dostępne?](incentives-faq.yml#what-user-roles-are-available-)
 
 ## <a name="5-review-the-incentives-faq"></a>5. Przejrzyj zachęty — często zadawane pytania
 
-Uzyskaj odpowiedzi na często zadawane pytania dotyczące zachęt, zanim je nawet zadawaj. Często aktualizujemy często zadawane pytania dotyczące zachęt, korzystając z informacji Pomoc techniczna Microsoft i bezpośredniej komunikacji z partnerami. Często zadawane pytania można znaleźć [tutaj.](incentives-faq.md)
+Uzyskaj odpowiedzi na często zadawane pytania dotyczące zachęt, zanim je nawet zadawaj. Często aktualizujemy często zadawane pytania dotyczące zachęt, korzystając z informacji Pomoc techniczna Microsoft i bezpośredniej komunikacji z partnerami. Często zadawane pytania można znaleźć [tutaj.](incentives-faq.yml)
 
 ## <a name="6-confirm-your-program-eligibility"></a>6. Potwierdzanie uprawnień do programu
 
