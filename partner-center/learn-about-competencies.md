@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 74144defb1b5b5bfd0cf67c98e4b9401f22ea93d
-ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
+ms.openlocfilehash: ff9be32e88c839186ede4cc081aabf75a822a23d
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/28/2021
-ms.locfileid: "112989346"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114373709"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Rozróżnianie firmy przez uzyskanie kompetencji firmy Microsoft
 
@@ -40,7 +40,7 @@ Możesz zobaczyć wymagania i to, co twoja firma osiągnęła z obszaru kompeten
 
 2. W sekcji MPN w menu Centrum partnerskiego wybierz pozycję **Kompetencje**.
 
-3. Aby wyświetlić szczegóły, wybierz nazwę kompetencji i określoną opcję kompetencji. Możesz sprawdzić, co zostały wykonane, oraz zobaczyć pełne wymagania i linki do określonych egzaminów oraz dat weryfikacji wycofanych egzaminów.
+3. Aby wyświetlić szczegóły, wybierz nazwę kompetencji i określoną opcję kompetencji. Możesz sprawdzić, co ukończono, a także zobaczyć pełne wymagania i linki do konkretnych egzaminów oraz dat weryfikacji wycofanych egzaminów.
 
 ## <a name="competency-areas"></a>Obszary kompetencji
 
@@ -48,10 +48,10 @@ Aby uzyskać kompetencję w zakresie członkostwa silver lub gold, poproszono Ci
 
 |**Warstwowy**            |**Kompetencji**                    |
 |--------------------|--------------------------------|
-|Aplikacje i infrastruktura| — Opracowywanie aplikacji<br/> — Integracja aplikacji<br/> — Platforma w chmurze<br/> — Metodyka DevOps<br/> - Datacenter |
-|Aplikacje biznesowe | — Cloud Business Applications</br> — Planowanie zasobów przedsiębiorstwa (ERP)</br> — Projekt i portfolio |
+|Aplikacje i infrastruktura| — Opracowywanie aplikacji<br/> — Integracja aplikacji<br/> — Platforma w chmurze<br/> — DevOps<br/> - Datacenter |
+|Aplikacje biznesowe | — Cloud Business Applications</br> — Enterprise planowania zasobów (ERP)</br> — Project i portfolio |
 |Dane i AI| — Analiza danych<br/> — Platforma danych |
-|Nowoczesne miejsce pracy i zabezpieczenia | — Współpraca i zawartość<br/> — Komunikacja<br/> — Produktywność w chmurze<br/> — Enterprise Mobility Management (EMM)<br/> — Obsługa komunikatów<br/> — Zabezpieczenia<br/> — Rozwiązania w chmurze dla małych i średnich firm<br/> — System Windows i urządzenia |
+|Nowoczesne miejsce pracy i zabezpieczenia | — Współpraca i zawartość<br/> — Komunikacja<br/> — Produktywność w chmurze<br/> — Enterprise Mobility Management (EMM)<br/> — Obsługa komunikatów<br/> — Zabezpieczenia<br/> — Rozwiązania w chmurze dla małych i średnich firm<br/> — Windows i urządzenia |
 
 Poziomy kompetencji Silver i Gold mają różne wymagania dla każdego z obszarów. W każdym obszarze znajdują się klasy i egzaminy, które pracownicy w firmie mogą wziąć w celu osiągnięcia odpowiedniego poziomu kompetencji. 
 
@@ -63,12 +63,12 @@ Aby dowiedzieć się więcej na temat tego, co jest potrzebne do uzyskania kompe
 
 - Dowiedz się, jak jeszcze bardziej zaprezentować swoją wiedzę, parując złoty poziom kompetencji z co najmniej jedną [zaawansowaną specjalizacją.](advanced-specializations.md)
 
-- Dowiedz się więcej na [temat określonych zasobów chodzących](mpn-learn-about-go-to-market-benefits.md) na rynek, które są objęte kompetencjami.
+- Dowiedz się więcej o określonych [zasobach wchodzących](mpn-learn-about-go-to-market-benefits.md) na rynek, które są objęte kompetencjami.
 
 - Dowiedz się więcej [o fakturach i podatkach dla kompetencji.](mpn-view-print-maps-invoice.md)
 
 - Dowiedz się, jak [zapłacić opłatę skojarzoną](mpn-pay-fee-silver-gold-competency.md) z członkostwem w kompetencji Silver lub Gold.
 
-- Wyświetl raport Partner Center Insights, [który](pci-competencies-report.md) pokazuje bieżący stan Twoich kompetencji.
+- Wyświetl Partner Center Szczegółowe informacje [kompetencji,](insights-competencies-report.md) który pokazuje bieżący stan Twoich kompetencji.
 
 - Uzyskaj odpowiedzi na [często zadawane pytania dotyczące](competencies-faq.yml) kompetencji.

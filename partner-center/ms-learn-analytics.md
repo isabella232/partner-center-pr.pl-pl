@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5d73582d3cfe0aa19483526d9b77e55a4c7e0a0
-ms.sourcegitcommit: 70b8ebbe0d431c7a13529f9eabd1b24f40108a46
+ms.openlocfilehash: d9f9ce631fe667030638e1a9167809e3dae69830
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/14/2021
-ms.locfileid: "113989761"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114373873"
 ---
 # <a name="use-microsoft-learn-analytics-reports"></a>Korzystanie z Microsoft Learn analizy danych
 
@@ -33,7 +33,7 @@ Te wykresy podsumowują liczbę i miesięczne trendy skumulowane dla wytrenowane
 **Mini wykres trendu wytrenowane osoby:** Skumulowana liczba aktywnych uczniów z miesiąca na miesiąc 
 
 **Liczba ukończonych modułów:** liczba ukończonych modułów przez uczniów w firmie partnera w wybranym zakresie dat.
-Jeśli na przykład moduł "Module 1" zostanie ukończony przez 15 osób, a "Moduł 2" został ukończony przez te same 15 osób, liczba ukończonych modułów będzie wynosić 30. Data ukończenia modułu powinna wypadać w wybranym zakresie dat.
+Jeśli na przykład "Moduł 1" zostanie ukończony przez 15 osób, a "Moduł 2" został ukończony przez te same 15 osób, liczba ukończonych modułów będzie wynosić 30. Data ukończenia modułu powinna być w wybranym zakresie dat.
 
 **Mini wykres trendu uzupełniania modułów:** Skumulowana liczba ukończonych modułów z miesiąca na miesiąc 
 
@@ -48,23 +48,23 @@ Te dane to trend użytkowników firmy, którzy ukończyli moduł po raz pierwszy
 
 **Oś X to** miesiąc dla wybranego filtru czasu. 
 
-**Oś Y to** liczba aktywnych uczniów, którzy zarejestrują się (po raz pierwszy ukończenie modułu) w tym miesiącu. Ta wartość nie jest zbiorcza.
+**Oś Y to** liczba aktywnych uczniów, którzy zarejestrują się (po raz pierwszy ukończenie modułu) w tym miesiącu. Nie jest to skumulowane.
 
 ### <a name="module-completions-monthly-trend"></a>Trend miesięczny uzupełniania modułów
 
-Te dane to trend modułów ukończonych przez wszystkich użytkowników firmy w tym miesiącu. (niekumulowane) 
+Te dane to trend modułów ukończonych przez wszystkich użytkowników firmy w tym miesiącu. (nie kumuluje się) 
 
 **Oś X to** miesiąc dla wybranego filtru czasu. 
 
-**Oś Y** to liczba ukończonych modułów w tym miesiącu. Ta wartość nie jest zbiorcza.
+**Oś Y to** liczba ukończonych modułów w tym miesiącu. Nie jest to skumulowane.
 
 ### <a name="learning-path-completions-monthly-trend"></a>Edukacja ścieżki uzupełniania trendu miesięcznego
 
-Te dane to trend ścieżek edukacyjnych zrealizowanych przez użytkowników firmy w tym miesiącu. (niekumulowane) 
+Te dane to trend ścieżek edukacyjnych zrealizowanych przez użytkowników firmy w tym miesiącu. (nie kumuluje się) 
 
 **Oś X to** miesiąc dla wybranego filtru czasu. 
 
-**Oś Y to** liczba ukończonych modułów w tym miesiącu. Ta wartość nie jest zbiorcza.
+**Oś Y to** liczba ukończonych modułów w tym miesiącu. Nie jest to skumulowane.
 
 ### <a name="learning-path-completion-tabs"></a>Edukacja uzupełniania ścieżki
 
@@ -84,15 +84,15 @@ Liczba wyświetlana na środku wykresu to liczba odrębnych ról dla ukończenia
 
 Liczba wyświetlana na środku wykresu to liczba odrębnych produktów do ukończenia modułu.  
 
-#### <a name="learning-path-tab"></a>Edukacja ścieżki dostępu
+#### <a name="learning-path-tab"></a>karta Edukacja ścieżki dostępu
 
 Ta karta zawiera podział ścieżek edukacyjnych ukończonych w firmie według pięciu najlepszych nazw modułów. produkt, na który jest mapowana ścieżka edukacyjna; oraz rolę, która jest kluczowa dla tej ścieżki szkoleniowej.  
 
 - Edukacja uzupełniania ścieżek na wykresie pierścieniowym: podział Edukacja uzupełniania ścieżek (liczba wyświetlana w sekcji podsumowania) według nazwy.
 
-- Uzupełnianie według roli: podział uzupełniania ścieżek uczenia według roli. Jeśli moduł jest skojarzony z wieloma rolami, każda z ról jest dodawana do liczby ukończonych modułów.
+- Uzupełnianie według roli: podział uzupełniania ścieżek uczenia według roli. Jeśli moduł jest skojarzony z wieloma rolami, każda z ról jest dodawana do liczby uzupełniania modułów.
 
-- Uzupełnienia według produktu: podział ścieżek uczenia według produktu, na który ścieżka jest mapowana. Jeśli moduł jest skojarzony z wieloma produktami, każdy z tych produktów jest dodawany do liczby ukończonych modułów.
+- Uzupełnienia według produktu: podział uzupełniania ścieżek edukacyjnych według produktu, do którego ścieżka jest mapowana. Jeśli moduł jest skojarzony z wieloma produktami, każdy z tych produktów jest dodawany do liczby ukończonych modułów.
 
 ### <a name="completions-by-learning-individuals"></a>Uzupełnianie przez osoby uczące się
 
@@ -100,7 +100,7 @@ Ta lista zawiera wytrenowane użytkowników w firmie oraz szczegółowe informac
 
 Microsoft Learn identyfikuje uczniów przy użyciu identyfikatora obiektu użytkownika. Na karcie **Moduły wszyscy** uczniowie są sortowane według ukończonych modułów. Są one wyświetlane z nazwą Microsoft Learn użytkownika, identyfikatorem obiektu i liczbami modułów. Możesz wyszukiwać przy użyciu nazwy użytkownika. 
 
-Na karcie **Edukacja ścieżki szkoleniowe** są wyświetlani wszyscy uczniowie posortowani według ukończonych ścieżek edukacyjnych z nazwą wyświetlaną, identyfikatorem obiektu i licznikiem modułów.
+Na karcie **Edukacja ścieżki szkoleniowe** wszyscy uczniowie posortowani według ukończonych ścieżek edukacyjnych są wyświetlani z nazwą wyświetlaną, identyfikatorem obiektu i licznikiem modułów.
 
 Aby uzyskać szczegółowe informacje dla uczących się przy użyciu identyfikatora obiektu użytkownika: 
 
@@ -133,11 +133,11 @@ Aby uzyskać szczegółowe informacje dla uczących się przy użyciu identyfika
 
    Obecnie najlepszym sposobem na to jest dodanie tych użytkowników do dzierżawy usługi Azure AD, a następnie dodanie ich do usługi Partner Center w celu skojarzenia konta Microsoft Learn za pośrednictwem usługi **Mój profil** w Partner Center. 
 
-   W przypadku użytkowników, którzy używają tylko konta MSA do szkolenia, w najbliższej przyszłości zespół Microsoft Learn umożliwi im skojarzenie służbowej poczty e-mail z profilem Microsoft Learn aplikacji. 
+   W przypadku użytkowników, którzy używają konta MSA tylko do szkolenia, w najbliższej przyszłości zespół Microsoft Learn umożliwi im skojarzenie służbowej poczty e-mail ze swoim profilem Microsoft Learn aplikacji. 
 
 ## <a name="next-steps"></a>Następne kroki
 
 Aby uzyskać więcej raportów, [zobacz Partner Center Szczegółowe informacje](partner-center-insights.md).
 
 >[!NOTE] 
-> Możesz pobrać nieprzetworzone dane, które będą zasilać ten raport, z sekcji Pobieranie raportów na Szczegółowe informacje nawigacyjnym. [Więcej informacji](pci-download-reports.md) 
+> Możesz pobrać nieprzetworzone dane, które będą zasilać ten raport, z sekcji Pobieranie raportów na Szczegółowe informacje nawigacyjnym. [Więcej informacji](insights-download-reports.md) 
