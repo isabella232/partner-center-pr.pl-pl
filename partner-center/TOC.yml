@@ -89,7 +89,7 @@
         - name: Kompetencje — często zadawane pytania
           href: competencies-faq.yml
           displayName: 'renew, mpn'
-        - name: Płatność opłatami za kompetencje
+        - name: Opłacanie opłat za kompetencje
           href: mpn-pay-fee-silver-gold-competency.md
           displayName: mpn
         - name: Wyłączenie kompetencji dla deweloperów aplikacji
@@ -134,7 +134,7 @@
       displayName: csp
     - name: 'Umowy z Klientem Microsoft (według regionu, języka)'
       href: agreements.md
-    - name: Jak potwierdzić akceptację klienta Umowa z Klientem Microsoft
+    - name: Jak potwierdzić akceptację przez klienta Umowa z Klientem Microsoft
       href: confirm-customer-agreement.md
     - name: 'Rynki regionalne CSP, waluty'
       href: regional-authorization-overview.md
@@ -260,6 +260,8 @@
               href: connectors-troubleshoot.md
         - name: Wspólna sprzedaż — migracja z centrum PSC do PC
           href: psc-to-pc.md
+        - name: Migracja usługi IOT PSC do komputera
+          href: partner-sales-connect-to-partner-center-iot.md
           displayName: mpn
     - name: Rejestracja transakcji
       href: register-deals.md
@@ -733,7 +735,7 @@
                   href: insights-programmatic-analytics-api-delete-report.md
                 - name: Wstrzymywanie wykonań raportu
                   href: insights-programmatic-analytics-api-pause-report-executions.md
-                - name: Wznawianie wykonywania raportu
+                - name: Wznawianie wykonywania raportów
                   href: insights-programmatic-analytics-api-resume-report-executions.md
         - name: Definicje danych analiz
           href: insights-data-definitions.md

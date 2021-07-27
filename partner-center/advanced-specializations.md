@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 023cb8967e4acf4b5dd84460dcbfd8d815a95795
-ms.sourcegitcommit: 4de6c593139c48c79d2abe2df8365c89acf7e32d
+ms.openlocfilehash: d0077df2e05c6b28564e255f84c9ef62fce69f47
+ms.sourcegitcommit: 75bb0a3d7bbcc048e850da040d1a4489a4af3332
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/24/2021
-ms.locfileid: "114661631"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "114612808"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Zdobądź zaawansowaną specjalizację, aby zaprezentować zweryfikowane możliwości
 
@@ -42,6 +42,7 @@ Każda zaawansowana specjalizacja odpowiada obszarowi rozwiązania:
 
 **Zaawansowane** specjalizacje platformy Azure obejmują:
 
+- Rozwiązanie Azure VMware
 - Analiza na Microsoft Azure
 - Migracja magazynu danych na platformę Microsoft Azure
 - Środowisko Kubernetes na platformie Microsoft Azure
