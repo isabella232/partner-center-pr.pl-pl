@@ -9,37 +9,40 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fc082f40a778d09e96f6f8cb5a563197e2de6f18
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e304f1f852437412ebf6be161a663fcabe02f027
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147619"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114433966"
 ---
-# <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Sprzedaż oprogramowania lokalnego za pośrednictwem programu Dostawca rozwiązań w chmurze (CSP)
+# <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Sprzedawanie oprogramowania lokalnego za pośrednictwem programu Dostawca rozwiązań w chmurze (CSP)
 
 **Odpowiednie role:** Administrator | Administrator globalny
 
 Oprogramowanie lokalne w programie CSP obsługuje bezproblemowe przejście do chmury przez wprowadzenie oprogramowania lokalnego w programie skoncentrowanym na chmurze.Ta nowa oferta ułatwia dodanie partnera o wartości dodanej do każdego scenariusza zakupu, ponieważ zapewnia jedną platformę do transakcji wszystkich produktów firmy Microsoft. Jako CSP możesz teraz sprzedawać oprogramowanie lokalne za pośrednictwem usługi Partner Center jako dodatek do programów Open, EA i innych, które są obecnie w użyciu.  
  
-Zapewniając najlepszą ogólną wartość klienta przy użyciu opcji licencjonowania oprogramowania lokalnego, model biznesowy został również tak przyjazny dla partnerów, jak to tylko możliwe. Proste licencjonowanie oprogramowania lokalnego w programie CSP oznacza przewidywalność kosztów i usprawniony proces sprzedaży. Ten nowy model biznesowy ułatwia klientom nabywanie i wycenę lokalnego oprogramowania oraz zarządzanie nim, co pozwala skoncentrować się na zdobyciu korzyści biznesowych dzięki rozbudowanym portfolio rozwiązań do zarządzania zasobami IT o wartości dodanej.
+Zapewniając najlepszą ogólną wartość klienta przy użyciu opcji licencjonowania oprogramowania lokalnego, model biznesowy został również tak przyjazny dla partnerów, jak to tylko możliwe. Proste licencjonowanie oprogramowania lokalnego w programie CSP oznacza przewidywalność kosztów i usprawniony proces sprzedaży. Ten nowy model biznesowy ułatwia nabywanie i wycenę lokalnego oprogramowania oraz zarządzanie nim, co pozwala skoncentrować się na zdobyciu korzyści biznesowych dzięki rozbudowanym portfolio rozwiązań do zarządzania zasobami IT o wartości dodanej.
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Kupowanie subskrypcji oprogramowania w imieniu klientów
 
 Aby kupić subskrypcje oprogramowania w imieniu klienta, przejdź do strony szczegółów klienta, wybierz pozycję Dodaj produkty, a następnie postępuj zgodnie z wyświetlanymi instrukcjami, aby utworzyć zamówienie i zapłacić za nie.
 
+> [!NOTE]
+> Aby uzyskać więcej informacji, zobacz ten [przewodnik dotyczący zamawiania i](https://partner.microsoft.com/resources/detail/guide-to-ordering-and-fulfillment-through-partner-center-pdf)realizacji za pośrednictwem Partner Center .
+
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktywowanie subskrypcji oprogramowania i zarządzanie nimi
 
-Po zakupie oprogramowania Ty lub Twoi klienci muszą je pobrać (partnerzy korzystający z usługi Partner Center; klienci korzystający z centrum Microsoft 365 administracyjnego). Użyj poniższej procedury w tym celu. Ważne jest, aby zrozumieć czynniki ryzyka związane z kopiowaniem linków i pobieraniem oprogramowania. Aby uzyskać więcej informacji, zobacz Używanie usługi **Partner Center** do pobierania oprogramowania klienta i kluczy licencji w [Partner Center New Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
+Po zakupie oprogramowania Ty lub Twoi klienci muszą je pobrać (partnerzy korzystający z usługi Partner Center; klienci korzystający z centrum Administracja Microsoft 365). Użyj poniższej procedury w tym celu. Ważne jest, aby zrozumieć czynniki ryzyka związane z kopiowaniem linków i pobieraniem oprogramowania. Aby uzyskać więcej informacji, zobacz **using Partner Center to obtain customer software downloads and license keys** (Używanie usługi Partner Center do pobierania oprogramowania klienta i kluczy licencji) w [przewodniku Partner Center New Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
->[!NOTE]
->Musisz być agentem administratora w Partner Center, aby uzyskać link do kluczy i plików do pobrania.
+> [!NOTE]
+> Musisz być agentem administratora w Partner Center, aby uzyskać link do kluczy i plików do pobrania.
 
 1. Przejdź do strony szczegółów klienta, a następnie wybierz pozycję **Oprogramowanie**. Zostanie wyświetlona lista wszystkich programów zakupionych w imieniu klienta.
 
 2. Wybierz wersję **produktu,** **język,** **bit** i wybierz pozycję **Pobierz klucze i pliki do pobrania.** 
 
-3. Wybierz **pozycję Pobierz klucz,** aby wyświetlić 32-cyfrowy produkt w oknie podręcznym, które można skopiować i wysłać do klienta. 
+3. Wybierz **pozycję Pobierz klucz,** aby wyświetlić 32-cyfrowy produkt w wyskakującym oknie podręcznym, które można skopiować i wysłać do klienta. 
 
 4. Wybierz **pozycję Pobierz,** aby pobrać bity. 
 
@@ -47,15 +50,15 @@ Po zakupie oprogramowania Ty lub Twoi klienci muszą je pobrać (partnerzy korzy
 
 6. Możesz również **anulować** zamówienie na oprogramowanie i otrzymać 100% środków (jeśli zostanie to zrobione w okresie 60 dni od anulowania).
 
->[!NOTE]
->Tylko klienci mają dostęp do uzyskiwania dostępu do kluczy produktów i pobierania informacji w centrum administracyjnym Microsoft 365 (wymagana jest rola administratora globalnego). Partnerzy muszą użyć Partner Center, aby wyświetlić te informacje.
+> [!NOTE]
+> Tylko klienci mają dostęp do uzyskiwania dostępu do kluczy produktów i pobierania informacji w centrum Administracja Microsoft 365 (wymagana jest rola administratora globalnego). Partnerzy muszą użyć Partner Center, aby wyświetlić te informacje.
 
 ## <a name="cancel-a-purchase"></a>Anulowanie zakupu
 
 Aby anulować zakup, użyj poniższej procedury. Po zakończeniu anulowania klucz oprogramowania zostanie odwołany.
 
->[!NOTE]
->Aby anulować zakup, musisz być agentem administratora. 
+> [!NOTE]
+> Aby anulować zakup, musisz być agentem administratora. 
 
 1.  Przed rozpoczęciem procesu upewnij się, że masz następujące elementy: 
     - Identyfikator GUID dzierżawy klienta lub nazwa domeny

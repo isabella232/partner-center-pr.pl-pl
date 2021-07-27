@@ -8,12 +8,12 @@ ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
 ms.date: 06/29/2021
-ms.openlocfilehash: a124e4c5bb31a1fbb744bf2c5e1ea65a356bdd54
-ms.sourcegitcommit: 1d09ccaaa54f167b0c63e99761172ebe84e89f2e
+ms.openlocfilehash: a42269dfac07ccc49f72dce7a6e8259ade3d546e
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "113221444"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114433796"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Kupowanie oferty SaaS w Azure Portal
 
@@ -40,18 +40,18 @@ Po zakończeniu pracy Azure Portal istnieje kilka sposobów zawężenia wyszukiw
 
 ### <a name="narrowing-your-search"></a>Zawężanie wyszukiwania
 
-Na stronie głównej w obszarze **Usługi platformy Azure** wybierz pozycję + Utwórz **zasób lub** pozycję **Marketplace.** Możesz też użyć skrótu **G + N w** dowolnym miejscu na platformie.
+Na stronie głównej w obszarze **Usługi platformy Azure** wybierz pozycję + Utwórz **zasób lub** pozycję **Marketplace.** Możesz też użyć **skrótu G + N w** dowolnym miejscu na platformie.
 
 - Zawęzij wyniki do ofert SaaS przy użyciu **filtru Typ** oferty, a następnie wybierz **pozycję SaaS**.
 - Użyj paska wyszukiwanie globalne w górnym obszarze nawigacji, aby znaleźć określoną ofertę SaaS.
 
-Znajdź [prywatną ofertę SaaS,](/marketplace/private-offers) wybierając baner w górnej części strony **głównej witryny** Marketplace. Nie wszystkie oferty lub plany są dostępne we wszystkich lokalizacjach geograficznych, a niektóre mogą być wyświetlane tylko dla niektórych dzierżaw.
+Znajdź [prywatną ofertę SaaS,](./private-offers.md) wybierając baner w górnej części strony **głównej witryny** Marketplace. Nie wszystkie oferty lub plany są dostępne we wszystkich lokalizacjach geograficznych, a niektóre mogą być wyświetlane tylko dla niektórych dzierżaw.
 
 Filtrowany widok przedstawia każdą dostępną ofertę SaaS reprezentowaną przez tytuł. Wybierz jedną z nich, aby wyświetlić stronę szczegółów produktu. Obejmuje to następujące sekcje:
 
 - Przegląd — szczegółowe informacje o usłudze, materiałach marketingowych i edukacyjnych
 - Plany i ceny — każda oferta będzie zawierać co najmniej jeden plan z różnymi warunkami i cenami rozliczeń
-- Informacje o użyciu i pomoc techniczna — Publisher, identyfikator oferty i identyfikator planu
+- Informacje o użyciu i pomoc techniczna — Publisher identyfikator oferty, identyfikator oferty i identyfikator planu
 - Ocena i przeglądy określonej oferty SaaS
 
 ## <a name="available-billing-models-plansskus-for-saas-offers"></a>Dostępne modele rozliczeń (plany/jednostki SKU) dla ofert SaaS
@@ -69,11 +69,11 @@ Te modele cenowe są dostępne zarówno dla planów publicznych, jak i prywatnyc
 
 1. Na stronie produktu wybierz plan spełniający Twoje potrzeby i kontynuuj konfigurowanie **+ subskrybowanie**
 2. W ramach procesu zakupu nastąpi przekierowanie do karty  Podstawowe informacje i wymagane będzie:
-    1. *Zdefiniuj subskrypcję,* której chcesz użyć do rozliczeń. Subskrypcja platformy Azure, która jest w użyciu, powinna mieć zdefiniowaną prawidłową metodę zakupu. Musisz mieć odpowiedni poziom uprawnień lub grupę zasobów w ramach tej subskrypcji z odpowiednim poziomem uprawnień. Ponadto kraj rozliczeniowy powinien być tym, w którym oferta jest dostępna do zakupu. Subskrypcji platformy Azure bez ważnej formy płatności (na przykład subskrypcji MSDN) można używać tylko do zakupu bezpłatnych planów
+    1. *Zdefiniuj subskrypcję,* której chcesz użyć do rozliczeń. Subskrypcja platformy Azure, która jest w użyciu, powinna mieć zdefiniowaną prawidłową metodę zakupu. Musisz mieć odpowiedni poziom uprawnień lub grupę zasobów w ramach tej subskrypcji z odpowiednim poziomem uprawnień. Ponadto kraj rozliczeniowy powinien być tym, w którym oferta jest dostępna do zakupu. Subskrypcji platformy Azure bez ważnej formy płatności (na przykład subskrypcji MSDN) można użyć tylko do zakupu bezpłatnych planów
     1. Wybierz lub utwórz **grupę zasobów,* do której będzie należeć zasób SaaS.
     1. Wpisz nazwę *subskrypcji* SaaS, aby łatwo ją później zidentyfikować. Po zakupie nie można zmienić nazwy.
-    1. W **obszarze** Plan zobaczysz wybrany plan na stronie szczegółowej produktu (PDP). Jeśli nie dokonano aktywnego wyboru w pdp, zostanie wyświetlony plan domyślny. Możesz zmienić wybór, wybierając link **Zmień** plan. Wybierz odpowiedni okres rozliczeniowy, a następnie wybierz inny plan. Możesz zmienić plan po zakupie, jeśli wydawca go obsługuje. Nie będzie można jednak zmienić okresu z miesięcznego na roczny ani z rocznego na miesięczny.
-    1. W przypadkach, gdy model cenowy jest *określony dla użytkownika,* może być konieczne określenie liczby *użytkowników*. Cena, która zostanie wyświetlony, zmieni się w zależności od wybranej subskrypcji, planu i okresu.
+    1. W **obszarze** Plan zobaczysz wybrany plan na stronie szczegółowej produktu (PDP). Jeśli nie dokonano aktywnego wyboru w pdp, zostanie wyświetlony plan domyślny. Możesz zmienić wybór, wybierając link **Zmień** plan. Wybierz odpowiedni okres rozliczeniowy, a następnie wybierz inny plan. Możesz zmienić plan po zakupie, jeśli wydawca go obsługuje. Nie będzie jednak można zmienić okresu z miesięcznego na roczny ani z rocznego na miesięczny.
+    1. W przypadkach, gdy model cenowy jest określony dla *użytkownika,* może być konieczne określenie liczby *użytkowników*. Cena, która zostanie wyświetlony, zmieni się w zależności od wybranej subskrypcji, planu i terminu.
 3. Przejdź do **karty Tagi** — *tagi to* zdefiniowane przez użytkownika pary klucz/wartość, które można umieścić bezpośrednio w zasobie lub grupie zasobów. Tagów możesz użyć, aby później łatwo znaleźć zasób SaaS. Platforma Azure obsługuje obecnie do 50 tagów na zasób i grupę zasobów. Tagi mogą być umieszczane w zasobie w czasie tworzenia lub dodawane do istniejącego zasobu.
 4. Przejdź do **tematu Przeglądanie + subskrybowanie,** aby zapoznać się ze szczegółami oferty i planu.
     1. Zapoznaj *Warunki użytkowania,* *poprawkami* i *zasadami* ochrony prywatności wydawcy, a także ich Azure Marketplace
@@ -81,7 +81,7 @@ Te modele cenowe są dostępne zarówno dla planów publicznych, jak i prywatnyc
     1. Przejrzyj *podstawowe informacje i* szczegóły *tagów*
 5. Po potwierdzeniu wybierz pozycję **Subskrybuj**.
 
-## <a name="saas-subscription-and-configuration"></a>Subskrypcja i konfiguracja saaS
+## <a name="saas-subscription-and-configuration"></a>Subskrypcja i konfiguracja SaaS
 
 Po wybraniu opcji subskrybowania zostanie wyświetlony komunikat "Twoja subskrypcja SaaS jest w toku". Ten proces powinien potrwać kilka minut. Nie zamykaj okna, dopóki nie zostanie zakończone.
 
@@ -129,5 +129,5 @@ Komunikaty o błędach, które mogą wystąpić podczas tego procesu:
 
 ## <a name="next-steps"></a>Następne kroki
 
-- Jeśli już zakupiono ofertę na platformie handlowej, przejdź do [tematu Rozliczenia i fakturowanie](/marketplace/billing-invoicing)
-- Możesz również dowiedzieć się więcej o [opcjach planów prywatnych.](/marketplace/private-offers)
+- Jeśli już zakupiono ofertę w witrynie Marketplace, przejdź do [tematu Rozliczenia i fakturowanie](./billing-invoicing.md)
+- Możesz również dowiedzieć się więcej o [opcjach planów prywatnych.](./private-offers.md)

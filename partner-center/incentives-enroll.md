@@ -1,5 +1,5 @@
 ---
-title: Rejestracja zachęt
+title: Zachęty rejestracji
 ms.topic: how-to
 ms.date: 04/15/2021
 description: Zarejestruj się w programie zachęt i przypisz role niezbędne do zarządzania użytkownikami. W tym artykule opisano proces rejestracji.
@@ -8,36 +8,36 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 670fae58a9a0e25127eb746f38063ea300d5ee2f
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f3be1b1d267321a4229ba3ea56aa950e14538289
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152090"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114433949"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Rejestracja i zarządzanie użytkownikami w programie zachęt
 
 **Odpowiednie role:** Administrator zachęt
 
 >[!NOTE]
->Aby zarejestrować się w programie zachęt, musisz ukończyć migrację Partner Membership Center Partner Center [programu](prepare-pmc-pc-migration.md).
+>Aby zarejestrować się w programie zachęt, musisz ukończyć migrację Partner Membership Center Partner Center [programu](./partner-membership-center-retirement-faq.md).
 
 Proces rejestracji składa się z dwóch kroków.
 
 **Krok 1. Zarządzanie użytkownikami:** Ten krok obejmuje ustanowienie administratora zachęt w Partner Center.
 
-**Krok 2. Rejestracja:** firma Microsoft wysyła do Ciebie zaproszenie do zarejestrowania się w programie zachęt.
+**Krok 2. Rejestracja:** firma Microsoft wysyła zaproszenie do zarejestrowania się w programie zachęt.
 
 ## <a name="user-management"></a>Zarządzanie użytkownikami
 
-Aby zarejestrować się w Partner Center zachęt, administrator administrator globalny lub administrator konta musi skonfigurować użytkowników firmowych jako administratorów zachęt. Aby uzyskać informacje o kontach partnerów, rolach i uprawnieniach, zobacz [Manage your Partner Center account (Zarządzanie kontem partnerskim).](partner-center-account-setup.md) W administrator globalny można również skonfigurować użytkowników firmowych za pośrednictwem usługi Azure Active Directory (Azure AD).
+Aby zarejestrować się w programie zachęt Partner Center, administrator administrator globalny lub administrator konta musi skonfigurować użytkowników firmy jako administratorów zachęt. Aby uzyskać informacje o kontach partnerów, rolach i uprawnieniach, zobacz [Manage your Partner Center account (Zarządzanie kontem partnerskim).](partner-center-account-setup.md) Usługa administrator globalny również skonfigurować użytkowników firmy za pośrednictwem usługi Azure Active Directory (Azure AD).
 
 >[!NOTE]
->Tylko administrator zachęt może rejestrować się w programach zachęt. Jeśli w Twojej lokalizacji nie ma administratora zachęt, administrator administrator globalny i administrator konta musi go przypisać. Administrator zachęty musi być przypisany do identyfikatorów MPN lokalizacji. Konto administrator globalny lub administratora konta można również przypisać jako administratora zachęt. Aby dowiedzieć się więcej o różnych rolach, zobacz [Zarządzanie zachętami.](permissions-overview.md#manage-incentives)
+>Tylko administrator zachęt może rejestrować się w programach zachęt. Jeśli w Twojej lokalizacji nie ma administratora zachęt, administrator administrator globalny i administrator konta musi go przypisać. Administrator zachęty musi być przypisany do identyfikatorów MPN lokalizacji. Administrator administrator globalny lub administrator konta może być również przypisany jako administrator zachęty. Aby dowiedzieć się więcej o różnych rolach, zobacz [Zarządzanie zachętami.](permissions-overview.md#manage-incentives)
 
 ## <a name="enrollment-process"></a>Proces rejestracji
 
-Gdy Twoja organizacja kwalifikuje się do zachęt, firma Microsoft wyśle zaproszenie do administratora zachęt kwalifikującego się pliku MPNLocationID, aby rozpocząć proces rejestracji. Ta wiadomość e-mail zostanie wysłana z Partner Center firmy **Microsoft** i będzie mieć temat Zaproszenie do rejestracji **zachęt partnera.** Otwórz zaproszenie i wybierz pozycję **Rozpocznij**.
+Gdy Twoja organizacja kwalifikuje się do korzystania z zachęt, firma Microsoft wyśle zaproszenie do administratora zachęty kwalifikującego się pliku MPNLocationID, aby rozpocząć proces rejestracji. Ta wiadomość e-mail zostanie wysłana z Partner Center firmy **Microsoft** i będzie mieć temat **Zaproszenie do rejestracji zachęt partnera.** Otwórz zaproszenie i wybierz pozycję **Wprowadzenie**.
 
 Zaproszenie zostanie również wyświetlony na stronie Partner Center głównej. Po wybraniu tego komunikatu nie będzie można go wyświetlić ponownie. Administrator zachęty może jednak ukończyć ten proces, logując  się do pulpitu nawigacyjnego Partner Center i wybierając pozycję [Przegląd](https://partner.microsoft.com/dashboard/) w obszarze **Zachęty** w lewym okienku nawigacyjnym. Wybierz **pozycję Zarejestruj,** a następnie wypełnij profil wypłaty i profil podatkowy dla programu.
 
@@ -45,7 +45,7 @@ Jeśli masz już domyślną konfigurację profilu bankowego dla lokalizacji MPN 
 
 Możesz również wybrać profil bankowy inny niż domyślny profil bankowy. Jeśli firma Microsoft wymaga dodatkowych szczegółów dotyczących profilów płatności,  profilów podatkowych lub  waluty, zostanie wyświetlony monit Continue (Kontynuuj) i nastąpi przekierowanie do strony profilu płatności i podatku w celu podania brakujących szczegółów. 
 
-Rejestracja jest uznawana za ukończoną tylko wtedy, gdy profil wypłaty i profil podatkowy, który popełnisz dla rejestracji, są weryfikowane przez firmę Microsoft.
+Rejestracja jest uznawana za ukończoną tylko wtedy, gdy profil wypłaty i profil podatkowy, który pozyskasz dla rejestracji, zostanie zweryfikowany przez firmę Microsoft.
 
 Niektóre programy zachęt nie mają kryteriów kwalifikowalności i są otwarte dla wszystkich partnerów. Administrator zachęt zobaczy zaproszenia dla tych programów na stronie przeglądu zachęt, pod warunkiem, że ma uprawnienia do odpowiedniego programu zachęt i programu MPN. Firma Microsoft nie wysyła wiadomości e-mail z zaproszeniami do tych programów.
 

@@ -89,7 +89,7 @@
         - name: Kompetencje — często zadawane pytania
           href: competencies-faq.yml
           displayName: 'renew, mpn'
-        - name: Opłacanie opłat za kompetencje
+        - name: Płatność opłatami za kompetencje
           href: mpn-pay-fee-silver-gold-competency.md
           displayName: mpn
         - name: Wyłączenie kompetencji dla deweloperów aplikacji
@@ -134,7 +134,7 @@
       displayName: csp
     - name: 'Umowy z Klientem Microsoft (według regionu, języka)'
       href: agreements.md
-    - name: Jak potwierdzić akceptację przez klienta Umowa z Klientem Microsoft
+    - name: Jak potwierdzić akceptację klienta Umowa z Klientem Microsoft
       href: confirm-customer-agreement.md
     - name: 'Rynki regionalne CSP, waluty'
       href: regional-authorization-overview.md
@@ -191,7 +191,7 @@
         - name: Aktualizowanie profilu partnera
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Certyfikacja oferty w programie Partner Finder
+        - name: Certyfikacja listy w programie Partner Finder
           href: partner-finder-certification.md
         - name: Informacje o numerze identyfikatora rejestracji
           href: reg-number-id.md
@@ -500,7 +500,7 @@
         - name: Kupowanie ofert z platformy handlowej
           href: csp-commercial-marketplace-purchase.md
           displayName: csp
-        - name: Zarządzanie licencjonowaniem w ofertach platformy handlowej
+        - name: Zarządzanie licencjonowaniem w ofertach na platformie handlowej
           href: csp-commercial-marketplace-licensing.md
           displayName: csp
         - name: Oferty na platformie handlowej z wyłącznością od niezależnych dostawców oprogramowania
@@ -551,6 +551,12 @@
         - name: Role i uprawnienia dla środków zarobionych przez partnera
           href: azure-roles-perms-pec.md
           displayName: 'role, roles, ro'
+        - name: Często zadawane pytania dotyczące środków uzyskane przez partnerów
+          href: partner-earned-credit-faq.md
+          displayName: 'faq, partner earned credit'
+        - name: Rozwiązywanie problemów ze środków uzyskane przez partnerów
+          href: partner-earned-credit-troubleshoot.md
+          displayName: 'partner earned credit, troubleshooting'
         - name: Nowe środowisko handlowe w programie CSP — rozliczenia platformy Azure
           href: azure-plan-billing.md
           displayName: invoice
@@ -647,48 +653,90 @@
           href: partner-center-insights.md
           displayName: data
         - name: Dostęp do analiz oparty na rolach
-          href: pci-roles.md
+          href: insights-roles.md
         - name: Raporty analiz
           items:
             - name: Omówienie
-              href: pci-overview-report.md
+              href: insights-overview-report.md
             - name: Klient
-              href: pci-customer-report.md
+              href: insights-customer-report.md
             - name: Wydajność odsprzedawcy
-              href: pci-resellers-performance.md
+              href: insights-resellers-performance.md
               displayName: 'indirect, reseller'
             - name: Subskrypcje produktu
-              href: pci-product-subscriptions-report.md
+              href: insights-product-subscriptions-report.md
             - name: Użycie platformy Azure
-              href: pci-azure-usage-report.md
+              href: insights-azure-usage-report.md
             - name: Użycie usługi Teams
-              href: pci-teams-usage-report.md
+              href: insights-teams-usage-report.md
             - name: Użycie usługi Office 365
-              href: pci-office-365-usage-report.md
+              href: insights-office-365-usage-report.md
             - name: Użycie systemu Dynamics
-              href: pci-dynamics-usage-report.md
+              href: insights-dynamics-usage-report.md
             - name: Użycie pakietu Enterprise Mobility + Security
-              href: pci-enterprise-mobility-security-usage-report.md
+              href: insights-enterprise-mobility-security-usage-report.md
             - name: Użycie usługi Power BI
-              href: pci-power-bi-usage-report.md
+              href: insights-power-bi-usage-report.md
             - name: Szkolenia
-              href: pci-training-dashboard.md
+              href: insights-training-dashboard.md
             - name: Analiza rozwiązania Microsoft Learn
               href: ms-learn-analytics.md
             - name: Kompetencje
-              href: pci-competencies-report.md
+              href: insights-competencies-report.md
             - name: Korzyści
-              href: pci-benefits-report.md
+              href: insights-benefits-report.md
             - name: Skłonności CloudAscent
-              href: pci-customer-opportunities.md
+              href: insights-customer-opportunities.md
             - name: Licencje na produkty
-              href: pci-product-licenses-report.md
+              href: insights-product-licenses-report.md
         - name: Analizy — często zadawane pytania
-          href: pci-known-issues.md
+          href: insights-known-issues.md
         - name: Pobieranie raportów analiz
-          href: pci-download-reports.md
+          href: insights-download-reports.md
+        - name: Dostęp programowy do analizy
+          items:
+            - name: Rozpoczęcie pracy
+              href: insights-programmatic-get-started.md
+            - name: Wymagania wstępne dotyczące dostępu programowego
+              href: insights-programmatic-prerequisites.md
+            - name: Paradygmat dostępu programowego
+              href: insights-programmatic-access-paradigm.md
+            - name: Pierwsze programowe wywołanie interfejsu API
+              href: insights-programmatic-first-api-call.md
+            - name: Lista zapytań systemowych
+              href: insights-programmatic-system-queries.md
+            - name: Przykładowe zapytania
+              href: insights-programmatic-sample-queries.md
+            - name: Specyfikacja zapytania niestandardowego
+              href: insights-programmatic-custom-query.md
+            - name: Przykładowa aplikacja
+              href: insights-programmatic-sample-application.md
+            - name: Często zadawane pytania
+              href: insights-programmatic-faq.md
+            - name: Dokumentacja interfejsu API
+              items:
+                - name: Dostępne interfejsy API
+                  href: insights-programmatic-analytics-available-api.md
+                - name: Pobierz wszystkie zestawy danych
+                  href: insights-programmatic-analytics-api-get-dataset.md
+                - name: Uzyskiwanie zapytań dotyczących raportów
+                  href: insights-programmatic-analytics-api-get-report-queries.md
+                - name: Usuwanie zapytań dotyczących raportów
+                  href: insights-programmatic-analytics-api-delete-report-queries.md
+                - name: Wypróbuj zapytania dotyczące raportów
+                  href: insights-programmatic-analytics-api-try-report-queries.md
+                - name: Uzyskiwanie raportu
+                  href: insights-programmatic-analytics-api-get-report.md
+                - name: Aktualizowanie raportu
+                  href: insights-programmatic-analytics-api-update-report.md
+                - name: Usuń raport
+                  href: insights-programmatic-analytics-api-delete-report.md
+                - name: Wstrzymywanie wykonań raportu
+                  href: insights-programmatic-analytics-api-pause-report-executions.md
+                - name: Wznawianie wykonywania raportu
+                  href: insights-programmatic-analytics-api-resume-report-executions.md
         - name: Definicje danych analiz
-          href: pci-data-definitions.md
+          href: insights-data-definitions.md
     - name: Wskaźniki udziałów partnerów
       items:
         - name: Dla kompetencji Cloud Business Applications
