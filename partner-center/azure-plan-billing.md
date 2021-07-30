@@ -3,18 +3,18 @@ title: Rozliczenia planu platformy Azure — pliki & i pliki rekonfigurowane
 ms.topic: article
 ms.date: 05/19/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 description: Dowiedz się, jak uzyskać dostęp do struktury plików faktur i uzgodnień związanej z rozliczeniami dla planu platformy Azure oraz jak je zrozumieć.
 author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c7c06f5ed7b147625afb5020f63ead411ef58fa8
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 08b5dc73868b061b7941e6862439e226c6bb9a7a
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551524"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838431"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nowe środowisko handlowe w programie CSP — rozliczenia platformy Azure 
 
@@ -28,7 +28,7 @@ W tym artykule wyjaśniono, jak uzyskać dostęp do struktury plików faktur i u
 
 - **Okres rozliczeniowy** faktury: okres rozliczeniowy faktury jest dopasowany do miesiąca kalendarzowego, na przykład 10/1-10/31, 11/1-11/30.
 
-- **Okresy obsługi opłat:** opłaty będą zgodne z miesiącem kalendarzowym. Jeśli na przykład rozliczany partner dodaje usługi platformy Azure za pośrednictwem planu platformy Azure 10/15 i klient rozpocznie korzystanie z usług platformy Azure 10/15, rozliczany partner otrzyma fakturę/rekonesję w dniu 8.11.2015 r. za zużycie przez klienta w okresie 10/15 – 10/31. Faktura za następny miesiąc, która zostanie wygenerowana w dniu 8.12.2018, zawiera wszystkie opłaty za okres 11/1– 11/31.
+- **Okresy obsługi opłat:** opłaty będą zgodne z miesiącem kalendarzowym. Jeśli na przykład rozliczany partner dodaje usługi platformy Azure za pośrednictwem planu platformy Azure 10/15 i klient rozpocznie korzystanie z usług platformy Azure 10/15, rozliczany partner otrzyma fakturę/rekonesję w dniu 8.11.2015 r. za zużycie przez klienta w okresie 10/15 – 10/31. Faktura za następny miesiąc, która zostanie wygenerowana w dniu 8.12.2018, zawiera wszystkie opłaty za okres 11/1–11/31.
 
 - **Termin płatności faktury:** 60 dni netto.
 
@@ -80,11 +80,11 @@ Aby uzyskać dostęp do pliku faktury i uzgodnień:
     - ResourceGroup 2
         - Maszyna wirtualna (zasób)
             - Miernik komputera
-        - SSD w warstwie Premium dysk zarządzany (zasób)
-            - Miernik pojemności magazynu
-            - Miernik operacji magazynu
+        - Premium Dysk zarządzany przez dysk SSD (zasób)
+            - Storage wydajności
+            - Storage operacyjny
 
-- Subskrypcja B — ResourceGroup 1 — Azure SQL (zasób) — miernik jednostek DTU — VPN Gateway (zasób) — miernik bramy sieci VPN
+- Subskrypcja B — ResourceGroup 1 — azure SQL (zasób) — miernik jednostek DTU — VPN Gateway (zasób) — miernik bramy sieci VPN
 
     - ResourceGroup 2
         - Virtual Network interfejs (zasób)
@@ -112,7 +112,7 @@ Aby uzyskać dostęp do pliku faktury i uzgodnień:
 
 3. Jeśli nie ma żadnych zasobów dla określonego miernika, który kwalifikował się do rabatu lub środków uzyskane przez partnera, plik rekonescji będzie zawierać tylko jedną linię rozliczeniową, a efektywną ceną jednostkową będzie cena detaliczna (czyli cena jednostkowa).
 
-4. Jeśli miernik lub jakiekolwiek zasoby emitujące ten  licznik kwalifikowały się do środków uzyskane przez partnera dla usług zarządzanych przez część miesiąca, plik rekonescji będzie zawierać dwa wiersze rozliczeń. Jeden wiersz będzie reprezentować dni, w których miernik został zakwalifikowany, a drugi wiersz będzie reprezentować dni, w których miernik się nie kwalifikował.
+4. Jeśli miernik lub jakiekolwiek zasoby emitujące ten  licznik kwalifikowały się do środków uzyskane przez partnera dla usług zarządzanych przez część miesiąca, plik rekonescji będzie zawierać dwa wiersze rozliczeń. Jeden wiersz będzie reprezentować dni, w których miernik został zakwalifikowany, a drugi wiersz będzie reprezentować dni, w których miernik nie kwalifikował się.
 
 >[!NOTE]
 >Możesz uzgodnić zużycie platformy Azure w pliku ponownego zakupu w ramach jednego zakupu. W tym celu przejdź do pliku z rekonescją dziennego użycia i wyszukaj swój subscriptionID. Spowoduje to wyświetlenie wszystkich kosztów skojarzonych z identyfikatorem planu platformy Azure. Twoja subskrypcja platformy Azure jest wyświetlana jako entitlementID.
@@ -131,17 +131,17 @@ Aby uzyskać dostęp do pliku faktury i uzgodnień:
 
   - Miernik nie kwalifikował  się do środków uzyskane przez partnerów na usługi zarządzane w okresie od 7/4 do 7/7 (należy pamiętać, że efektywna cena jednostkowa to cena detaliczna).
 
-  - Miernik **zakwalifikowany** do środków uzyskane przez partnerów dla usług zarządzanych w okresie od 7/8 do 7/31 (należy pamiętać, że efektywna cena jednostkowa to cena detaliczna mniejsza niż kredyt uzyskane przez partnera).
+  - Miernik zakwalifikowany do środków **uzyskane** przez partnerów dla usług zarządzanych w okresie od 7/8 do 7/31 (należy pamiętać, że efektywna cena jednostkowa to cena detaliczna mniejsza niż kredyt uzyskane przez partnera).
 
    :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2.":::
 
 ## <a name="invoice-in-customer-currency"></a>Faktura w walucie klienta
 
-Opłaty za usługi platformy Azure w ramach planu platformy Azure będą naliczane w USD i rozliczane w walucie przypisanej do kraju klienta. Jeśli waluta rozliczeniowa nie jest w USD, używany kurs wymiany walut (FX) będzie wyświetlany na ostatniej stronie faktury. Stawki FX są określane co miesiąc i stosowane do poniższej faktury. Aby uzyskać pełną listę walut krajów, zapoznaj się z nową ofertą handlową dla dostępności [kraju i macierzą walut klientów.](https://go.microsoft.com/fwlink/?linkid=2112354)
+Opłaty za usługi platformy Azure w ramach planu platformy Azure będą naliczane w USD w walucie przypisanej do kraju klienta. Jeśli waluta rozliczeniowa nie jest w USD, używany kurs wymiany walut (FX) będzie wyświetlany na ostatniej stronie faktury. Stawki FX są określane co miesiąc i stosowane do poniższej faktury. Aby uzyskać pełną listę walut krajów, zapoznaj się z nową ofertą handlową dla dostępności [kraju i macierzą walut klientów.](https://go.microsoft.com/fwlink/?linkid=2112354)
 
 Firma Microsoft stosuje wstępnie określony kurs wymiany do podstawowych cen USD, aby uzyskać łączne opłaty naliczane za usługi platformy Azure zakupione lub zużyte w każdym miesiącu kalendarzowym. Miesięczny kurs wymiany to średni kurs opublikowany przez thomson Reuters (zazwyczaj) dwa dni robocze przed końcem poprzedniego miesiąca o godzinie 16:00 GMT. 
 
-**Na przykład** Grudniowy kurs wymiany firmy Microsoft będzie wartością średniego kursu wymiany Thomson Reuters z 29 listopada lub około 29 listopada dla danej waluty. Ta stawka będzie stosowana do wszystkich zakupów w tej walucie od 1 grudnia do 31 grudnia. 
+**Na przykład** Grudniowy kurs wymiany firmy Microsoft będzie wartością średniego kursu wymiany Thomson Reuters w okolicy 29 listopada dla danej waluty. Ta stawka będzie stosowana do wszystkich zakupów w tej walucie od 1 grudnia do 31 grudnia. 
 
 ## <a name="azure-reservations"></a>Rezerwacje platformy Azure
 
@@ -151,7 +151,7 @@ W przypadku zakupu [rezerwacji platformy Azure](azure-reservations.md) za pośre
 
 ## <a name="azure-spending"></a>Wydatki na platformie Azure
 
-Istniejące środowisko wydatków na platformę Azure zostanie zaktualizowane w celu obsługi nowych rozliczeń planu platformy Azure w Partner Center. Dzięki temu partnerzy mogą:
+Istniejące środowisko wydatków na platformę Azure jest aktualizowane w celu obsługi nowych rozliczeń planu platformy Azure w Partner Center. Dzięki temu partnerzy mogą:
 
 - Wyświetlanie i odbieranie alertów dotyczących budżetu ustawionego na poziomie klienta oraz zarządzanie nimi 
 
@@ -163,7 +163,7 @@ Ponieważ model rozliczeń dla usług platformy Azure za pośrednictwem planu pl
 
 ## <a name="next-steps"></a>Następne kroki
 
-- Zobacz, jak są obliczane punkty uzyskane przez partnera. Zaloguj się do Partner Center [pulpitu nawigacyjnego i](https://partner.microsoft.com/dashboard/) znajdź dostępny cennik.
+- Zobacz, jak są obliczane punkty uzyskane przez partnerów. Zaloguj się na Partner Center [nawigacyjnym i](https://partner.microsoft.com/dashboard/) znajdź dostępny cennik.
 
 - Dowiedz się więcej [o zakupie planu platformy Azure](purchase-azure-plan.md)
 

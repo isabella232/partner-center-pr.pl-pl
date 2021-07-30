@@ -4,20 +4,20 @@ metadata:
   ms.topic: article
   ms.date: 02/17/2021
   ms.service: partner-dashboard
-  ms.subservice: partnercenter-csp
+  ms.subservice: partnercenter-enroll
   description: Najważniejsze pytania dotyczące Microsoft Partner Agreement odpowiedzi
   author: vinayks
   ms.author: vinayks
   ms.localizationpriority: medium
   ms.custom: SEOMAY.20
-  ms.openlocfilehash: a6d0905ba604e6811e7a1eded1881a24da64bf96
-  ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
+  ms.openlocfilehash: 1eac4c58981ee5097ab429480e33072a39b9c20c
+  ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/15/2021
-  ms.locfileid: "114346707"
+  ms.lasthandoff: 07/29/2021
+  ms.locfileid: "114846047"
 title: Jak dostawcy pośredni mogą pomóc odsprzedawcom pośrednim akceptować Microsoft Partner Agreement (MPA)
-summary: "**Odpowiednie role:** Administrator globalny | Agent administracyjny | Agent sprzedaży\n\nPoniższe pytania i odpowiedzi pomagają w rozwiązaniu potencjalnych problemów i rozwiązań pomagania odsprzedawcy pośrednim w zrozumieniu, jak i dlaczego należy zaakceptować program MPA. \n\nDostawcy pośredni, partnerzy rozliczani bezpośrednio i odsprzedawcy pośredni w programie Dostawca rozwiązań w chmurze zobaczą te informacje jako przydatne.\n"
+summary: "**Odpowiednie role:** Administrator globalny | Agent administracyjny | Agent sprzedaży\n\nPoniższe pytania i odpowiedzi pomagają w rozwiązaniu potencjalnych problemów i rozwiązań pomagania odsprzedawcom pośrednim w zrozumieniu, jak i dlaczego należy zaakceptować program MPA. \n\nDostawcy pośredni, partnerzy rozliczani bezpośrednio i odsprzedawcy pośredni w programie Dostawca rozwiązań w chmurze zobaczą te informacje jako przydatne.\n"
 sections:
 - name: Pytania dotyczące zasad i programu MPA
   questions:
@@ -37,8 +37,8 @@ sections:
 
       Dotyczy to również partnerów "Advisor", którzy dobyli transakcje w programie CSP. Firma Microsoft potrzebuje aktywnego konta CSP Indirect Reseller w każdym regionie firmy CSP dla odsprzedawców pośrednich do transakcji z dostawcami pośrednimi.
   - question: >
-      Pracuję z wieloma dostawcami pośrednimi (dystrybutorami) w różnych krajach. Czy muszę zaakceptować program MPA w każdym kraju CSP?
-    answer: "Potrzebujesz co najmniej jednej sygnatury MPA na region CSP względem identyfikatora MPN. Jeśli na przykład masz identyfikator MPN we Francji i masz zarejestrowane w programie CSP Indirect Reseller we Francji i zaakceptowane mpA, jesteś zgodny w całym regionie Europy programu [CSP](regional-authorization-overview.md#europe-region-and-market) i nie musisz akceptować mpA w innych krajach Europy. Transakcję można uzyskać za pomocą dowolnego dostawcy pośredniego w całym regionie Europy dostawcy usług w chmurze. \n"
+      Pracuję z wieloma dostawcami pośrednimi (dystrybutorami) w różnych krajach. Czy muszę zaakceptować mpA w każdym kraju CSP?
+    answer: "Potrzebujesz co najmniej jednej sygnatury MPA na region CSP względem identyfikatora MPN. Jeśli na przykład masz identyfikator MPN we Francji i masz zarejestrowane w programie CSP Indirect Reseller we Francji i zaakceptowane mpA, jesteś zgodny w całym regionie Europy programu [CSP](regional-authorization-overview.md#europe-region-and-market) i nie musisz akceptować mpA w innych krajach Europy. Transakcję można uzyskać za pomocą dowolnego dostawcy pośredniego w całym regionie Europy dostawcy CSP. \n"
   - question: >
       Jestem partnerem rozliczania bezpośredniego we Francji, a także transakcją z dostawcą pośrednim we Włochach, czy muszę zaakceptować dwa mpA, jeden jako rachunek bezpośredni i jeden jako odsprzedawca pośredni?
     answer: Jeśli w regionie CSP zaakceptowaliśmy już program MPA z rozliczeniami bezpośrednimi, nie musisz akceptować mpa odsprzedawcy pośredniego w programie CSP. Musisz jednak upewnić się, że Twoje konto MPN znajduje się w Partner Center, a identyfikator MPN udostępniony dostawcy pośredniego znajduje się w Partner Center.
@@ -50,13 +50,13 @@ sections:
     answer: "Jeśli odsprzedawcy pośredni nie akceptują mpA, nie będą mieć żadnych transakcji z dostawcą pośrednim. Będzie to miało wpływ na zachęty firmy Microsoft. \n"
   - question: >
       Czy jeśli nie zaakceptuję mpa, Partner Center zostanie ode mnie? Jakie są dokładne czynniki ryzyka, jeśli odsprzedawcy nie akceptują mpA?
-    answer: "Odsprzedawcy pośredni będą mieć zablokowaną transakcję z dostawcą pośrednim (dystrybutorem). W najbliższej przyszłości odsprzedawca pośredni nie planuje odejmować odsprzedawcy pośredniego. \n"
+    answer: "Odsprzedawcy pośredni będą mieć zablokowaną transakcję z dostawcą pośrednim (dystrybutorem). Odsprzedawca pośredni nie planuje w najbliższej przyszłości odejmować odsprzedawcy pośredniego. \n"
   - question: >
-      Mój odsprzedawca mówi, że program MPA został już zaakceptowany przez pracownika, który odszedł z firmy. Czy muszą ponownie zaakceptować?
+      Mój odsprzedawca mówi, że mpa został już zaakceptowany przez pracownika, który odszedł z firmy. Czy muszą zaakceptować ponownie?
     answer: >
       Nie
   - question: >
-      Mój odsprzedawca ostatnio zmienił nazwę firmy, ale zaakceptował już program MPA. Czy muszą ponownie zaakceptować?
+      Mój odsprzedawca ostatnio zmienił nazwę firmy, ale zaakceptował już program MPA. Czy muszą zaakceptować ponownie?
     answer: >
       Nie
   - question: >
@@ -72,16 +72,16 @@ sections:
     answer: "Konto MPN powinno być używane do zarządzania członkostwem w firmie Microsoft. Zapewnia jeden globalny identyfikator MPN (PGA) i jeden lub wiele identyfikatorów MPN lokalizacji (PLA) w zależności od liczby tworzyć podmioty zależne. Konto dostawcy CSP jest skojarzone z identyfikatorami MPN Twojej lokalizacji i jest używane do transakcji z dostawcami pośrednimi lub do zarządzania zachętami. \n\n\n- [Zarządzanie lokalizacjami na koncie partnera](manage-locations.md)\n\n- [Weryfikowanie profilu organizacji](update-your-partner-profile.md)\n\n- [Microsoft Partner Network członkostwa](mpn-overview.md)\n\n\nKonto CSP skojarzone z identyfikatorem MPN lokalizacji umożliwia pracę z dostawcami pośrednimi, zarządzanie klientami i zdobywanie zachęt.\n    \n- [Program Microsoft Partner Agreement (MPA) dla CSP](microsoft-partner-agreement.md)\n\n- [Praca z dostawcami pośrednimi w programie CSP](indirect-reseller-tasks-in-partner-center.md)\n"
   - question: >
       Jaka jest różnica między globalnym identyfikatorem MPN i identyfikatorem MPN lokalizacji?
-    answer: "Konto globalne MPN jest równoważne centrali, a lokalizacje MPN to Twoje podmioty zależne.  Istnieje jeden unikatowy globalny identyfikator MPN (identyfikator MPN PGA) i jeden lub wiele unikatowych identyfikatorów MPN lokalizacji (IDENTYFIKATORY PLA MPN). Identyfikatory MPN można sprawdzić, logując się do aplikacji Partner Center przy użyciu konta MPN, wybierając pozycję **Ustawienia**, a następnie pozycję **Konto Ustawienia** i przechodząc do strony **Identyfikatory.** \n\nJeśli masz podmioty zależne w różnych krajach, możesz utworzyć lokalizacje MPN w tych krajach i uzyskać identyfikatory MPN lokalizacji. Następnie możesz użyć tych identyfikatorów MPN lokalizacji, aby zarejestrować się w programie CSP, udostępnić informacje dostawcom pośrednim i uzyskać zachęty. \n\n- [Zarządzanie lokalizacjami na koncie partnera](manage-locations.md)\n\nJeśli wystąpią problemy, zdaj bilet [pomocy technicznej](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) z poziomu Partner Center. \n"
+    answer: "Konto globalne MPN jest równoważne centrali, a lokalizacje MPN to Twoje podmioty zależne.  Istnieje jeden unikatowy globalny identyfikator MPN (identyfikator MPN PGA) i jeden lub wiele unikatowych identyfikatorów MPN lokalizacji (IDENTYFIKATORY PLA MPN). Identyfikatory MPN możesz sprawdzić, logując się do aplikacji Partner Center przy użyciu konta MPN, wybierając pozycję **Ustawienia**, a następnie pozycję **Account Ustawienia** i przechodząc do strony **identyfikatorów.** \n\nJeśli masz podmioty zależne w różnych krajach, możesz utworzyć lokalizacje MPN w tych krajach i uzyskać identyfikatory MPN lokalizacji. Następnie możesz użyć tych identyfikatorów MPN lokalizacji, aby zarejestrować się w programie CSP, udostępnić informacje dostawcom pośrednim i uzyskać zachęty. \n\n- [Zarządzanie lokalizacjami na koncie partnera](manage-locations.md)\n\nJeśli wystąpią problemy, zdaj bilet [pomocy technicznej](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) z poziomu Partner Center. \n"
   - question: >
       Nie wiem, którego identyfikatora MPN użyć podczas rejestrowania w CSP Indirect Reseller programie?
     answer: >
-      Przed [zarejestrowaniem w CSP Indirect Reseller programu](indirect-reseller-tasks-in-partner-center.md)musisz mieć aktywne konto MPN w Partner Center. Kraj identyfikatora MPN i kraj konta CSP powinny być zgodne w celu pomyślnego skojarzenia, a identyfikator MPN powinien być w Partner Center. Zaloguj się do konta MPN (poświadczenia logowania MPN i CSP mogą się różnić). Przejdź do Ustawienia account Ustawienia Organization Profile Identifiers (Identyfikator profilu organizacji) i znajdź identyfikator MPN z typem **"Location"**(Lokalizacja) zgodnie z krajem  ->    ->    ->   konta CSP.  Dowiedz się więcej [o lokalizacjach MPN](manage-locations.md) przed skojarzeniem identyfikatora MPN z kontem CSP podczas procesu rejestracji w programie CSP.
+      Przed [zarejestrowaniem w CSP Indirect Reseller programu](indirect-reseller-tasks-in-partner-center.md)musisz mieć aktywne konto MPN w Partner Center. Kraj identyfikatora MPN i kraj konta CSP powinny być zgodne w celu pomyślnego skojarzenia, a identyfikator MPN powinien być w Partner Center. Zaloguj się do konta MPN (poświadczenia logowania MPN i CSP mogą się różnić). Przejdź do Ustawienia konta Ustawienia organizacji i znajdź identyfikator MPN z typem **"Location"**(Lokalizacja), który odpowiada krajowi  ->    ->    ->   twojego konta CSP.  Dowiedz się więcej [o lokalizacjach MPN](manage-locations.md) przed skojarzeniem identyfikatora MPN z kontem CSP podczas procesu rejestracji w programie CSP.
   - question: >
       Jak mogę sprawdzić, który identyfikator MPN jest skojarzony z moim kontem CSP?
-    answer: "Zaloguj się do CSP Indirect Reseller konta. Przejdź do **Ustawienia**  ->  **konta Ustawienia**  ->    ->  **identyfikatorów profilu organizacji.** W obszarze CSP strony skojarzony identyfikator MPN jest identyfikatorem **MPN** skojarzonym z kontem dostawcy CSP i powinien zostać udzielony dostawcy pośredniego dla transakcji dostawcy CSP. \n"
+    answer: "Zaloguj się do CSP Indirect Reseller konta. Przejdź do **Ustawienia**  ->  **konta Ustawienia**  ->    ->  **identyfikatorów profilu organizacji.** W obszarze CSP na stronie skojarzony identyfikator MPN jest identyfikatorem **MPN** skojarzonym z Kontem dostawcy CSP i powinien zostać udzielony dostawcy pośredniego dla transakcji dostawcy CSP. \n"
   - question: >
-      Jak wyświetlić wszystkie identyfikatory MPN?
+      Jak mogę wyświetlić wszystkie identyfikatory MPN?
     answer: >
       Zaloguj się Partner Center przy użyciu poświadczeń konta MPN (poświadczenia logowania MPN i CSP mogą się różnić). W **Ustawienia** wybierz **pozycję Identyfikatory Ustawienia**  ->  **organizacji,**  ->   aby wyświetlić identyfikatory MPN. Aby dodać nową lokalizację MPN/podmiot zależny, przejdź do pozycji **Profil prawny** i kliknij **pozycję Dodaj lokalizację.**
 - name: Pytania dotyczące autoryzacji regionalnej dla programu CSP
@@ -89,7 +89,7 @@ sections:
   - question: >
       Co to jest region CSP?
     answer: >
-      Region CSP składa się z co najmniej jednego kraju, w którym można wykonywać działalność w firmie CSP. Firma obejmuje na przykład pracę z dostawcami pośrednimi, nawiązywanie połączenia z klientami, transakcje i naliczanie zachęt. Do prowadzenia działalności w regionie CSP potrzebne jest co najmniej jedno konto CSP (konto służbowe usługi Office 365). Dowiedz się więcej na [temat regionu CSP](regional-authorization-overview.md).
+      Region CSP składa się z co najmniej jednego kraju, w którym można wykonywać działalność biznesową WSP. Firma obejmuje na przykład pracę z dostawcami pośrednimi, nawiązywanie połączenia z klientami, transakcje i naliczanie zachęt. Do prowadzenia działalności w regionie CSP potrzebne jest co najmniej jedno konto CSP (konto służbowe usługi Office 365). Dowiedz się więcej na [temat regionu CSP](regional-authorization-overview.md).
 
 
       Jeśli jesteś użytkownikiem CSP Indirect Reseller, musisz nawiązyć współpracę z dostawcą pośrednim w tym samym regionie i możesz sprzedawać tylko klientom w tym samym regionie.
@@ -107,7 +107,7 @@ sections:
   - question: >
       Czy mogę mieć więcej niż jedno konto MPN i CSP w Partner Center?
     answer: >
-      Możesz mieć tylko jedno konto MPN (logowanie) i jedno lub wiele kont CSP (logowania) w zależności od regionów CSP firmy, w których działa Twoja firma. Na przykład możesz mieć swoje konto MPN w Stanach Zjednoczonych (HQ) z lokalizacjami w Stanach Zjednoczonych (podmiot zależny), Zjednoczone Emiraty Zjednoczone (podmiot zależny) i Australii (podmiot zależny).
+      W zależności od regionów CSP firmy firma może mieć tylko jedno konto MPN (logowanie) i jedno lub wiele kont CSP (logowania). Na przykład możesz mieć swoje konto MPN w Stanach Zjednoczonych (HQ) z lokalizacjami w Stanach Zjednoczonych (podmiot zależny), Zjednoczone Zjednoczone Emiraty Zjednoczone (podmiot zależny) i Australii (podmiot zależny).
 
       Możesz mieć jedno konto CSP (Office 365 służbowe) w Stanach Zjednoczonych, które ma te same poświadczenia logowania co konto MPN. Możesz mieć drugie konto CSP w Wielkiej Brytanii. który ma różne poświadczenia logowania do zarządzania firmą WSP w regionie Europy, a trzeci w Australii, który ma inne poświadczenia logowania niż pozostałe dwa do zarządzania firmą CSP w Australii.
 
@@ -127,24 +127,24 @@ sections:
       Po zmigrowaniu konta MPN dowiedz się więcej na temat podpisania umowy MPA. Przeczytaj [temat microsoft-partner-agreement](microsoft-partner-agreement.md#download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process).
 
 
-      W przypadku problemów należy zgłaszać bilet [pomocy technicznej](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) z poziomu Partner Center.
+      W przypadku problemów zdaj bilet [pomocy technicznej](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) z poziomu Partner Center.
   - question: >
       Jak mogę sprawdzić, czy mój identyfikator MPN został zmigrowany do Partner Center?
-    answer: "Zaloguj się do konta MPN przy użyciu dowolnej roli (poświadczenia logowania MPN i CSP mogą się różnić). \n\nW **obszarze Ustawienia konta** wybierz pozycję Strona profilu **prawnego** na **karcie Partner.** Jeśli w obszarze Informacje o programie jest wyświetlony stan \"Stan programu MPN\", Twój identyfikator MPN znajduje się w Partner Center. Jeśli nie widzisz \"Stan programu MPN\" na karcie \"Partner\", oznacza to, że zalogowano się przy użyciu konta CSP lub konto MPN nadal nie znajduje się w Partner Center. Nadal może być konieczne przeprowadzenie migracji konta MPN z aplikacji PMC na komputer.\n\n\n:::image type=\"content\" source=\"images/legal-info-mpn.png\" alt-text=\"Gdzie można zobaczyć informacje o programie MPN.\":::\n"
+    answer: "Zaloguj się do konta MPN przy użyciu dowolnej roli (poświadczenia logowania MPN i CSP mogą się różnić). \n\nW **obszarze Ustawienia konta** wybierz pozycję Strona profilu **prawnego** na **karcie Partner.** Jeśli w obszarze Informacje o programie jest wyświetlony stan \"Stan programu MPN\", Twój identyfikator MPN znajduje się w Partner Center. Jeśli nie widzisz \"Stan programu MPN\" na karcie \"Partner\", oznacza to, że zalogowano się przy użyciu konta programu CSP lub konto MPN nadal nie znajduje się w Partner Center. Nadal może być konieczne przeprowadzenie migracji konta MPN z aplikacji PMC na komputer.\n\n\n:::image type=\"content\" source=\"images/legal-info-mpn.png\" alt-text=\"Gdzie można zobaczyć informacje o programie MPN.\":::\n"
 - name: Pytania dotyczące weryfikacji konta MPN i CSP
   questions:
   - question: >
       Zarejestrowane w programie MPN i programie odsprzedawcy pośredniego programu CSP, ale mój stan weryfikacji profilu biznesowego jest w stanie Odrzucone. Co mam zrobić?
-    answer: "Musisz zaktualizować informacje o profilu prawnym, klikając pozycję **Aktualizuj**. Przed przystąpieniem zapoznaj się z następującymi artykułami:\n\n- [Weryfikowanie informacji o koncie](verification-responses.md#what-is-verified-and-how-to-respond)\n\n- [Weryfikowanie profilu organizacji](update-your-partner-profile.md)\n\nJeśli nie możesz samodzielnie rozwiązać tego problemu, zdaj bilet pomocy technicznej z poziomu Partner Center, logując się przy użyciu konta CSP i:\n\n- W przypadku problemów z weryfikacją biznesową utwórz [wniosek o pomoc techniczną.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)  \n- W przypadku problemów z weryfikacją zatrudnienia utwórz [wniosek o pomoc techniczną.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)\n\n:::image type=\"content\" source=\"images/rejected-faq-mpa.png\" alt-text=\"Odrzucone.\":::\n"
+    answer: "Musisz zaktualizować informacje o profilu prawnym, klikając pozycję **Aktualizuj**. Przed przystąpieniem zapoznaj się z następującymi artykułami:\n\n- [Weryfikowanie informacji o koncie](verification-responses.md#what-is-verified-and-how-to-respond)\n\n- [Weryfikowanie profilu organizacji](update-your-partner-profile.md)\n\nJeśli nie możesz samodzielnie rozwiązać problemu, wyślij bilet pomocy technicznej z poziomu Partner Center, logując się przy użyciu konta CSP i:\n\n- W przypadku problemów z weryfikacją biznesową utwórz [wniosek o pomoc techniczną.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)  \n- W przypadku problemów z weryfikacją zatrudnienia utwórz [wniosek o pomoc techniczną.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)\n\n:::image type=\"content\" source=\"images/rejected-faq-mpa.png\" alt-text=\"Odrzucone.\":::\n"
   - question: >
-      Zarejestrowane w programie MPN/programie CSP Indirect Reseller ale mój stan weryfikacji profilu biznesowego jest zablokowany w stanie Oczekiwanie. Co mam zrobić?
+      Zarejestrowane w programie MPN/programie CSP Indirect Reseller ale mój stan weryfikacji profilu biznesowego może być zablokowany w stanie Oczekiwanie. Co mam zrobić?
     answer: "Jeśli twój profil biznesowy odsprzedawcy pośredniego w programie CSP ma stan Oczekiwanie na kwalifikację po upływie więcej niż pięciu dni roboczych, w ciągu tego Partner Center kliknij pozycję Partner Center [Pomocy technicznej.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=345795c0-26bd-dd95-d291-b78ed4a8edce) \n\n:::image type=\"content\" source=\"images/pending.png\" alt-text=\"Stan jest oczekujący.\":::\n"
 - name: Pytania dotyczące pracy w Partner Center
   questions:
   - question: >
       Nie wiem, kto jest administratorem Partner Center, kto może zaakceptować program MPA?
     answer: >
-      Administrator globalny w firmie musi zaakceptować przedsiębiorstwo MPA. Aby dowiedzieć się, kto w firmie ma przypisaną rolę administratora globalnego, przejdź do **tematu Zarządzanie użytkownikami.** W polu Wyszukaj wpisz administrator globalny. Zostaną ściągnięte nazwy osób, którym przypisano rolę administratora globalnego. Każda z tych osób może zaakceptować mpa. Jeśli Twoja firma nie ma administratora globalnego, przeczytaj co zrobić, jeśli firma [potrzebuje administratora globalnego.](no-mpn-admin.md)
+      Administrator globalny w firmie musi zaakceptować przedsiębiorstwo MPA. Aby dowiedzieć się, kto w firmie ma przypisaną rolę administratora globalnego, przejdź do **tematu Zarządzanie użytkownikami.** W polu Wyszukaj wpisz administrator globalny. Zostaną ściągnięte nazwiska osób, którym przypisano rolę administratora globalnego. Każda z tych osób może zaakceptować mpa. Jeśli Twoja firma nie ma administratora globalnego, przeczytaj co zrobić, jeśli firma [potrzebuje administratora globalnego.](no-mpn-admin.md)
 
 
       :::image type="content" source="images/user-management-clean.png" alt-text="Jak znaleźć administratora globalnego.":::
@@ -160,7 +160,7 @@ sections:
   - question: >
       Chcę zaakceptować umowy MPA, ale nie widzę żadnego miejsca (przycisku do akceptowania warunków), aby to zrobić?
     answer: >
-      Zaloguj się Partner Center przy użyciu CSP Indirect Reseller konta. Przejdź do strony Przeglądu CSP.  Jeśli nie widzisz przycisku **Akceptuj** i kontynuuj oraz zielonego baneru z informacją o zaakceptowaniu mpa, oznacza to, że nie masz odpowiedniej roli do zaakceptowania mpa. W celu zaakceptowania mpa należy skontaktować się z administratorem globalnym.
+      Zaloguj się Partner Center przy użyciu CSP Indirect Reseller konta. Przejdź do strony Przeglądu CSP.  Jeśli nie widzisz przycisku **Akceptuj** i kontynuuj oraz nie widzisz zielonego baneru z informacją o zaakceptowaniu mpa, oznacza to, że nie masz odpowiedniej roli do zaakceptowania mpa. W celu zaakceptowania mpa należy skontaktować się z administratorem globalnym.
 
 
       :::image type="content" source="images/agreement-two.png" alt-text="Znajdź umowy.":::

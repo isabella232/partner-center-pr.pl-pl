@@ -3,24 +3,24 @@ title: Uaktualnianie subskrypcji klienta
 ms.topic: article
 ms.date: 05/07/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Dowiedz się, jak uaktualnić lub zmodyfikować subskrypcję klienta. Dodaj więcej licencji lub przejdź do innej wersji z większej liczby usług.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 366114cd78e96f95cd1ac649573a0164f6d062a9
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 123a7dd8bc730ffae06532746cf45849f4ff002f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150526"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839400"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Dodawanie licencji lub większej liczby usług do subskrypcji klienta
 
-**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent administracyjny | Agent sprzedaży | Agent pomocy technicznej
+**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent administracyjny | Agent sprzedaży | Agent pomocy technicznej
 
-Jeśli klient potrzebuje większej liczby licencji niż zapewnia bieżąca subskrypcja lub innej wersji z dodatkowymi usługami, możesz uaktualnić subskrypcję. Aby uzyskać więcej informacji, zobacz [Przełączanie na inne aplikacje Microsoft 365 Apps dla planu biznesowego.](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+Jeśli klient potrzebuje większej liczby licencji niż zapewnia bieżąca subskrypcja lub innej wersji z dodatkowymi usługami, możesz uaktualnić subskrypcję. Aby uzyskać więcej informacji, zobacz [Przełączanie na inny plan Aplikacje Microsoft 365 dla firm .](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>Uaktualnienia obsługiwane w programie CSP <a id="upgradesubscription"></a>
 
@@ -28,11 +28,11 @@ Następujące uaktualnienia są obsługiwane w Dostawca rozwiązań w chmurze pr
 
 | Oferta | Możliwe uaktualnienia|
 |---:|:---|
-| Microsoft 365 Apps dla firm   | — Microsoft 365 Business Premium ( Premium) <br/>  — Microsoft 365 Apps for enterprise <br/> — Office 365 Enterprise E3 <br/> — Office 365 Enterprise E5 <br/> |
+| Aplikacje Microsoft 365 dla firm   | — Microsoft 365 Business Premium jęz. <br/>  — Aplikacje Microsoft 365 dla przedsiębiorstw <br/> — Office 365 Enterprise E3 <br/> — Office 365 Enterprise E5 <br/> |
 | Microsoft 365 Business Standard    | — Office 365 Enterprise E3 <br/> — Office 365 Enterprise E5 <br/> |
-| Microsoft 365 Business Basic | — Microsoft 365 Business Standard 5 <br/> — Office 365 Enterprise E1 <br/> — Office 365 Enterprise E3<br/> — Office 365 Enterprise E5 <br/> |
+| Microsoft 365 Business Basic | — Microsoft 365 Business Standard — <br/> — Office 365 Enterprise E1 <br/> — Office 365 Enterprise E3<br/> — Office 365 Enterprise E5 <br/> |
 
-— Microsoft 365 Apps for business India and Microsoft 365 Business Basic India można uaktualnić do wersji Microsoft 365 Business Standard India, a nie do Microsoft 365 Business Standard.
+za Aplikacje Microsoft 365 dla firm Indie i Microsoft 365 Business Basic Indie można uaktualnić do Microsoft 365 Business Standard Indie, a nie do Microsoft 365 Business Standard.
 
 
 ## <a name="conditions"></a>Warunki
@@ -59,12 +59,12 @@ Aby uzyskać więcej informacji na temat wpływu na rozliczenia, zobacz jak anul
 
 3. Wybierz nową ofertę, a następnie wybierz pozycję **Prześlij.**
 
-4. Przejście niektórych kont użytkowników dla niektórych usług może wymagać dodatkowej pracy. Jeśli tak, Partner Center zawiera listę kont i usług, których dotyczy problem. Aby uzyskać pomoc, zobacz artykuł w bazie wiedzy Problemy z ponownego przypisania licencji podczas przełączania planów w [usłudze Office 365.](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+4. Przejście niektórych kont użytkowników dla niektórych usług może wymagać dodatkowej pracy. Jeśli tak, Partner Center zawiera listę kont i usług, których dotyczy problem. Aby uzyskać pomoc, zobacz artykuł w bazie wiedzy Problemy z ponownego przypisania licencji podczas przełączania planów w [programie Office 365](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
 
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Przełączanie na inny plan Microsoft 365 dla planu biznesowego](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+- [Przełączanie się do innego Microsoft 365 dla planu biznesowego](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
 - [Żądanie delegowanych uprawnień administratora](request-a-relationship-with-a-customer.md)
 

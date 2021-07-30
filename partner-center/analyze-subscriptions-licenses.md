@@ -2,19 +2,19 @@
 title: Analizowanie subskrypcji i licencji
 description: Dowiedz się, jak używać metryk na stronie analizy subskrypcji i licencji, aby identyfikować sukcesy i obszary, które wymagają większej uwagi.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: amitravat
 ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 03/31/2021
-ms.openlocfilehash: 45a0ebb70f6e139b1e130c3cfc1d24eb79b41a0d
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 393f0ee6c49cbbdf814a823f732bb4b92d4deb2e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150152"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839077"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analizowanie subskrypcji i licencji w celu podejmowania decyzji biznesowych i nowych celów
 
@@ -31,9 +31,9 @@ Dane wpływają na decyzje biznesowe. Użyj metryk na stronie **analizy** subskr
 Pozostała część raportu może być przestawna w oparciu o następujące produkty:
 
  - **Dynamics 365:** dane usługi Dynamics 365  
- - **EMS:** dane usług Enterprise Management Services  
+ - **EMS:** Enterprise danych usług zarządzania  
  - **Microsoft 365:** Microsoft 365 danych  
- - **Office 365:** dane usługi Office 365  
+ - **Office 365:** Office 365 danych  
 
 
 ## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>Typy metryk subskrypcji i licencji, które można wyświetlić
@@ -45,7 +45,7 @@ Pozostała część raportu może być przestawna w oparciu o następujące prod
   
  - **Sprzedane licencje:** liczba sprzedanych licencji w określonym przedziale czasu  
   
- - **Subskrypcje odnawiane w ciągu 30** dni: liczba subskrypcji, w których stan jest aktywny w określonym przedziale czasu i gdzie **autorenew** ma wartość true
+ - **Subskrypcje odnawiane w ciągu 30** dni: liczba subskrypcji, w których stan jest aktywny przez określony okres i gdzie **autorenew** ma wartość true
  
  - **Aktywne subskrypcje:** subskrypcje, w których stan to **Aktywne**  
  
@@ -78,9 +78,9 @@ Pozostała część raportu może być przestawna w oparciu o następujące prod
 
  - **Konwersja wersji** próbnej: liczba wszystkich aktywnych **subskrypcji,** w których nastąpiła konwersja wersji próbnej płatnej w określonym przedziale czasu  
 
-**Subskrypcje wersji próbnej kończące się w ciągu 30 dni**  
+**Subskrypcje wersji próbnej kończące się na 30 dni**  
 
- - Lista wersji próbnych, które zostały rozpoczęte, gdzie data zakończenia wynosi w ciągu 30 dni, a z subskrypcją nie jest skojarzona żadna płatna data rozpoczęcia  
+ - Lista prób, które zostały rozpoczęte, gdzie data zakończenia wynosi w ciągu 30 dni i nie ma płatnej daty rozpoczęcia skojarzonej z subskrypcją  
 
 
 

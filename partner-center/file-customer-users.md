@@ -1,36 +1,36 @@
 ---
-title: Pola dla pliku CSV do importowania wielu użytkowników dla konta klienta
+title: Pola dla .csv do importowania wielu użytkowników dla konta klienta
 ms.topic: article
 ms.date: 08/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Aby dodać wielu użytkowników do konta klienta, utwórz plik wartości rozdzielanych przecinkami (CSV) z odpowiednimi polami.
+ms.subservice: partnercenter-customers
+description: Aby dodać wielu użytkowników do konta klienta, utwórz plik wartości rozdzielanych przecinkami (.csv) z odpowiednimi polami.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 152daadde25a9325937797f7a3daa90dfb59a9b4
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 7d8cbeecf081dc82448625daeedc0ce21b31174e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150985"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838346"
 ---
-# <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Dodawanie wielu użytkowników do konta klienta przez utworzenie pliku CSV
+# <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Dodawanie wielu użytkowników do konta klienta przez utworzenie .csv klienta
 
 **Odpowiednie role:** Administrator globalny
 
-Dodaj wielu użytkowników do konta klienta jednocześnie, przesyłając plik danych w formacie pliku wartości rozdzielanych przecinkami (csv) do Partner Center. Możesz pobrać przykładowy plik danych z usługi Partner Center następnie edytować go do własnego użytku lub utworzyć nowy plik danych przy użyciu modelu danych zdefiniowanego poniżej.
+Dodaj jednocześnie wielu użytkowników do konta klienta, przesyłając plik danych w formacie pliku wartości rozdzielanych przecinkami (.csv) do Partner Center. Możesz pobrać przykładowy plik danych z Partner Center a następnie edytować go do własnego użytku lub utworzyć nowy plik danych przy użyciu modelu danych zdefiniowanego poniżej.
 
 ## <a name="data-file-requirements"></a><a href="" id="creatingtheimportcsvfile"></a>Wymagania dotyczące pliku danych
 
 Aby dodać wielu użytkowników do konta klienta przy użyciu procesu przekazywania zbiorczego, należy spełnić następujące wymagania:
 
 - Musisz mieć uprawnienia administratora globalnego do konta klienta;
-- Każdy użytkownik musi mieć unikatowy adres e-mail dołączony do domen poczty e-mail klienta;
+- Każdy użytkownik musi mieć unikatowy adres e-mail dołączony do domen poczty e-mail klienta.
 - Jednocześnie można przekazać maksymalnie 100 rekordów. Jeśli musisz dodać więcej niż 100 użytkowników, utwórz i przekaż dodatkowe pliki danych.
 - Wszyscy użytkownicy muszą znajdować się w tej samej lokalizacji **geograficznej.**
-- Wprowadź tylko dane opisane poniżej. Extraneous data will cause the upload to fail.
+- Wprowadź tylko dane opisane poniżej. Dane ekstraneiczne spowodą niepowodzenie przekazywania.
 
 Wprowadź następujące dane w pliku danych:
 

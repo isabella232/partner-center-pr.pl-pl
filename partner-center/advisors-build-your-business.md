@@ -3,40 +3,40 @@ title: Dodawanie klientów z ofertami wersji próbnej usługi Office 365
 ms.topic: article
 ms.date: 05/13/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Dowiedz się, jak autoryzowani doradcy firmy Microsoft mogą powiększać swoje subskrypcje usługi Office 365. Tworzenie i wysyłanie zaproszeń do wersji próbnej usługi Office 365 i ofert zakupu do klientów.
+ms.subservice: partnercenter-pricing
+description: Dowiedz się, jak autoryzowani doradcy firmy Microsoft mogą Office 365 subskrypcji. Twórz i wysyłaj Office 365 próbnych i ofert zakupu do klientów.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd7e10aaf0bf339f92fbc9dc2f73f403c81693a3
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9cd73c6701a57463a3e9d10c40d979942a85feb1
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150390"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839349"
 ---
-# <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Doradcy: Tworzenie bazy klientów przy użyciu zaproszeń do wersji próbnej usługi Office 365 i ofert zakupu
+# <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Doradcy: tworzenie bazy klientów przy użyciu ofert zakupu i zaproszeń do wersji próbnej usługi Office 365
 
 
 **Odpowiednie role:** Advisor
 
 
-Jako autoryzowany doradca firmy Microsoft **Partner Center** możliwość rozwoju bazy klientów i tworzenia długotrwałych relacji z klientami. Dzięki Partner Center możesz wysyłać klientom zaproszenia do wersji próbnej i oferty zakupu oraz oferować im delegowane usługi administracyjne w zależności od usług, do których świadczenia masz uprawnienia.
+Jako autoryzowany doradca firmy Microsoft **Partner Center** możliwość rozwoju bazy klientów i tworzenia długotrwałych relacji z klientami. Dzięki Partner Center możesz wysyłać klientom zaproszenia do wersji próbnej i oferty zakupu oraz oferować im delegowane usługi administracyjne, w zależności od usług, do których świadczenia usług masz uprawnienia.
 
-Po zalogowaniu się do usługi Partner Center przejdź do wersji próbnej i kup oferty **.** Zobaczysz narzędzia i zadania, które pomogą w rozwoju firmy.
+Po zalogowaniu się do Partner Center przejdź do wersji próbnej i zakupu ofert **.** Zobaczysz kilka narzędzi i zadań, które pomogą w rozwoju firmy.
 
 ## <a name="create-and-send-trial-invitations"></a>Tworzenie i wysyłanie zaproszeń do wersji próbnej
 
 > [!NOTE]
 > Ta funkcja jest dostępna tylko dla partnerów, którzy są autoryzowanymi doradcami subskrypcji.
 
-Możesz tworzyć i wysyłać zaproszenia do wysyłania do klientów, aby próbowali oni korzystać z usługi Office 365. Zaproszenie może zawierać jedną subskrypcję wersji próbnej.
+Możesz tworzyć i wysyłać zaproszenia do wysyłania do klientów, aby próbowali Office 365. Zaproszenie może zawierać jedną subskrypcję wersji próbnej.
 
-Jeśli masz certyfikat, aby zaoferować administrację delegowaną, możesz dodać do zaproszenia do wersji próbnej opcję, która umożliwia administrowanie subskrypcją w imieniu klienta. Ułatwia to klientowi wypróbowanie usługi Office 365.
+Jeśli masz certyfikat, aby oferować administrację delegowaną, możesz dodać opcję do zaproszenia do wersji próbnej, która umożliwia administrowanie subskrypcją w imieniu klienta. Ułatwia to klientom wypróbowanie Office 365.
 
-Po utworzeniu zaproszenia do wersji próbnej zostanie utworzony niestandardowy adres URL. Adres URL zawiera osadzony kod, który identyfikuje Cię jako doradcę subskrypcji. Możesz użyć tego adresu URL dla jednego klienta lub dla wielu klientów. Adres URL można wysłać do klienta w wiadomości e-mail lub opublikować w witrynie internetowej.
-Aby uzyskać więcej informacji na temat zaproszeń do wersji próbnej, zobacz [Tworzenie zaproszenia do wersji próbnej](advisors-create-a-trial-invitation.md).
+Podczas tworzenia zaproszenia do wersji próbnej tworzony jest niestandardowy adres URL. Adres URL zawiera osadzony kod, który identyfikuje Cię jako doradcę subskrypcji. Możesz użyć tego adresu URL dla jednego klienta lub dla wielu klientów. Adres URL można wysłać do klienta w wiadomości e-mail lub opublikować w witrynie internetowej.
+Aby uzyskać więcej informacji na temat zaproszeń do wersji próbnej, zobacz [Tworzenie zaproszenia do wersji próbnej.](advisors-create-a-trial-invitation.md)
 
 ## <a name="create-and-send-purchase-offers"></a>Tworzenie i wysyłanie ofert zakupu
 
@@ -53,4 +53,4 @@ Jeśli klient chce mieć inną liczbę licencji, wyślij nową ofertę lub może
 
 - [Utwórz ofertę zakupu.](advisor-create-a-purchase-offer.md)
 
-- [Partnerzy nie mogą już rejestrować się jako doradcy](advisors-no-csp.md)
+- [Partnerzy nie mogą już rejestrować się w roli doradcy](advisors-no-csp.md)

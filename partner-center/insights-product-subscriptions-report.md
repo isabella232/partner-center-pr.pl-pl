@@ -3,18 +3,18 @@ title: Partner Center Szczegółowe informacje subskrypcji
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Zobacz, co robisz dobrze i gdzie możesz ulepszyć subskrypcje chmury, które sprzedajesz lub zarządzasz dla klientów.
+ms.subservice: partnercenter-insights
+description: Sprawdź, co robisz dobrze i gdzie możesz ulepszyć subskrypcje chmury, które sprzedajesz lub zarządzasz dla swoich klientów.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a1ce0e75817376b5cf1996a56f416acc4bcbd0f3
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: eefb4f4ee6657acf583ad0b5d4149e662c320184
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377027"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114846183"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Raport subskrypcji produktów dostępny na pulpicie nawigacyjnym Partner Center Szczegółowe informacje nawigacyjnym
 
@@ -32,7 +32,7 @@ Poniższe sekcje można wyświetlić w raporcie Subskrypcje produktów.
 - Trend produktów
 
  > [!NOTE]
- > Ten raport jest dostępny na pulpicie nawigacyjnym Szczegółowe informacje nawigacyjnym. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Przeglądarka raportów lub Przeglądarka raportów dla kierownictwa. Aby uzyskać więcej informacji, zobacz Administrator globalny firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami do przeglądarki raportów executive.
+ > Ten raport jest dostępny na pulpicie nawigacyjnym Szczegółowe informacje nawigacyjnym. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Podgląd raportów lub Przeglądarka raportów kierownictwa. Aby uzyskać więcej informacji, zobacz Administratora globalnego firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami do przeglądarki raportów executive.
 
 ## <a name="summary"></a>Podsumowanie
 
@@ -57,9 +57,9 @@ Aby uzyskać więcej informacji na temat każdej sekcji podsumowania, zobacz pon
   - Procentowy wzrost lub spadek liczby subskrypcji dodanych w ostatnim pełnym miesiącu w porównaniu do pierwszego pełnego miesiąca.
   - Wykres Mikro przedstawia miesięczny trend subskrypcji dodanych w wybranym zakresie dat.
 
-- Subskrypcje, których rezygnacja została anulowana:
+- Subskrypcje z rezygnacją:
   - Łączna liczba rezygnacji subskrypcji klientów w wybranym zakresie dat. Subskrypcje ze stanem **Anulowana aprowizowana** **lub** Wstrzymane w tym miesiącu są liczone jako subskrypcja z rezygnacją.  
-  - Procent rezygnacji subskrypcji w wybranym zakresie dat.
+  - Procent zmian subskrypcji w wybranym zakresie dat.
   - Wykres Mikro przedstawia miesięczny trend rezygnacji subskrypcji w wybranym zakresie dat.
 
 - Subskrypcje według produktów: podział bieżącej liczby subskrypcji według produktów w chmurze.
@@ -70,7 +70,7 @@ Widok **Subskrypcje według lokalizacji** geograficznej pokazuje rozkład geogra
 
 Tabela **Liczba krajów/regionów** przedstawia łączną liczbę krajów/regionów, w których masz subskrypcje, oraz kwotę na kraj całkowitej i aktywnej subskrypcji.
 
-Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapie. Naciśnij opcję **Strona główna** na mapie, aby przywrócić oryginalny widok. Umieść kursor na mapie, aby wyświetlić wszystkie subskrypcje i aktywne subskrypcje według kraju. Oba pola w siatce można sortować.
+Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapie. Naciśnij opcję **Strona** główna na mapie, aby przywrócić oryginalny widok. Umieść kursor na mapie, aby wyświetlić wszystkie subskrypcje i aktywne subskrypcje według kraju. Oba pola na siatce można sortować.
 
 :::image type="content" source="images/insights/sub-report-sub-by-geography.png" alt-text="subskrypcje według lokalizacji geograficznej.":::
 
@@ -78,7 +78,7 @@ Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapi
 
 Ten widok przedstawia trend subskrypcji. Są one podzielone na różne kategorie (Nowy, Istniejący, Rezygnacje) dla wybranego zakresu dat. Oś X reprezentuje miesiące z wybranego zakresu dat. Oś Y reprezentuje liczbę subskrypcji. Subskrypcje z rezygnacjami są reprezentowane w ujemnej skali osi Y. 
 
-Skumulowany wykres kolumnowy przedstawia podział nowych, istniejących i rezygnacji subskrypcji dla miesiąca. Możesz ponownie skompilować wykres kolumnowy z podziałem na określone elementy stosu. W tym celu wybierz te konkretne elementy w legendzie. Możesz również użyć suwaka w górnej części wykresu, aby powiększyć określony okres.
+Skumulowany wykres kolumnowy przedstawia podział nowych, istniejących i rezygnacji subskrypcji dla miesiąca. Możesz ponownie skompilować wykres kolumnowy z podziałem na określone elementy stosu. Aby to zrobić, wybierz te konkretne elementy w legendzie. Możesz również użyć suwaka w górnej części wykresu, aby powiększyć określony okres.
 
 :::image type="content" source="images/insights/sub-report-sub-adds-churns.png" alt-text="subskrypcja dodaje i churns.":::
 
@@ -98,7 +98,7 @@ Ten widok przedstawia dystrybucję bieżących subskrypcji klientów według sta
 
 Ten widok przedstawia wykres słupkowy i dwa wykresy kołowe. Wykres słupkowy przedstawia miesięczny trend subskrypcji z podziałem na produkty komercyjne, takie jak azure, Office i Dynamics.
 
-Dwa wykresy kołowe pokazują podział bieżących subskrypcji klientów. Pierwszy wykres kołowy dzieli subskrypcje według produktów. Drugi wykres kołowy dzieli subskrypcje według jednostki SKU lub planów. Po wybraniu produktu na wykresie kołowym **Podział** według produktów sąsiedni wykres kołowy pokazuje podział subskrypcji tego produktu według jednostki SKU.
+Dwa wykresy kołowe pokazują podział bieżących subskrypcji klientów. Pierwszy wykres kołowy dzieli subskrypcje według produktów. Drugi wykres kołowy dzieli subskrypcje według jednostki SKU lub planów. Po wybraniu produktu na wykresie kołowym **Podział** według produktów na sąsiednim wykresie kołowym zostanie pokazany podział subskrypcji tego produktu według jednostki SKU.
 
 :::image type="content" source="images/insights/sub-report-prods-trend.png" alt-text="trend produktów.":::
 

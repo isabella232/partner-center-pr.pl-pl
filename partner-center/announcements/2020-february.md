@@ -1,164 +1,164 @@
 ---
 title: Ogłoszenia z lutego 2020 r.
-description: Powiadomienia 2020 lutego dla Centrum partnerskiego firmy Microsoft, takie jak nowe możliwości, promocje, oferty, rynki lub zmiany w istniejących ofertach.
+description: Ogłoszenia dotyczące platformy Microsoft Partner Center z lutego 2020 r., takie jak nowe możliwości, promocje, oferty, rynki lub zmiany istniejących ofert.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-action-center
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 7e608752b76c940e83434d7ec7daf3e4058512bd
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 59884a0bcf25af224bb37035625a608737118ec7
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132848"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838992"
 ---
 # <a name="february-2020-announcements"></a>Ogłoszenia z lutego 2020 r.
 
-Ta strona zawiera szczegółowe informacje dotyczące anonsów dla programu Microsoft Partner Center CSP dla lutego 2020.
+Na tej stronie szczegółowo o ogłoszeniach dotyczących programu Microsoft Partner Center CSP na luty 2020 r.
 
-2020 anonse: [styczeń 2020](2020-january.md) | Luty 2020 | [Marzec 2020](2020-march.md)  |  [Kwiecień 2020](2020-april.md)  |  [2020 maja](2020-may.md)
+Ogłoszenia dotyczące roku 2020: [styczeń 2020](2020-january.md) | Luty 2020 | [Marzec 2020](2020-march.md)  |  r. [Kwiecień 2020](2020-april.md)  |  r. [Maj 2020 r.](2020-may.md)
 
 _________________
 
-## <a name="new-process-for-submitting-tax-withholding-credit-requests"></a><a id="9"/></a>Nowy proces przesyłania potrąconych pożyczek podatkowych
+## <a name="new-process-for-submitting-tax-withholding-credit-requests"></a><a id="9"/></a>Nowy proces przesyłania żądań kredytu na potrącenie potrącenia podatku
 
 ### <a name="categories"></a>Kategorie
 
 - Data: 2020-02-25
-- Typ: oferty/rynki
-- Stan: jest teraz dostępny
+- Typ: Oferty/rynki
+- Stan: Teraz dostępne
 - [Dowiedz się więcej](https://partner.microsoft.com/resources/collection/submit-tax-withholding-credit-request#/)
 
-### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
 
-- Partnerzy dostawcy usług kryptograficznych przesyłają żądania kredytowe dotyczące potrącania podatków.
+- Partnerzy CSP przesyłający żądania środków na potrącenie potrącenia podatku.
 
 ### <a name="summary"></a>Podsumowanie:
 
-Jest już dostępny nowy proces przesyłania zaliczania kredytów na podatek. Ten proces umożliwia partnerom, którzy nakładają pozostałe saldo na zaległe faktury, na przesyłanie wniosków o dopuszczenie, jeśli już zapłacili podatki lokalnym urzędom skarbowym. Partnerzy mogą teraz przesyłać żądania kredytowe dotyczące potrącenia podatków na stronie rozliczeń w centrum partnerskim. Wcześniej zastąpiły kredyty z tytułu zaliczania podatku, które są wysyłane przez kontakt z pomocą techniczną w centrum partnerskim.
+Dostępny jest nowy proces przesyłania żądań kredytu na potrącenie potrącenia podatku. Ten proces umożliwia partnerom, którzy mają pozostałe saldo na poprzednich fakturach, przesyłanie wniosków o podatek, jeśli zapłacili już podatki do lokalnych urzędów podatkowych. Partnerzy mogą teraz przesyłać żądania środków na potrącenie podatku na stronie rozliczeń w Partner Center. Wcześniej żądania środków na potrącenie podatku były przesyłane przez kontakt z pomocą techniczną w Partner Center.
 
-Jeśli po przesłaniu dalsze zmiany są wymagane, firma Microsoft wyśle żądania z powrotem do partnera w celu ponownego przesłania, a na stronie rozliczenia zostanie zaktualizowany stan żądania. W tym momencie partner może zdecydować się na edytowanie istniejącego żądania lub przesłanie nowego. Po zatwierdzeniu żądania następnej faktury zostanie zaktualizowana w celu odzwierciedlenia tej kwoty.
+Jeśli po przesłaniu wymagane są dalsze zmiany, firma Microsoft wyśle do partnera żądania ponownego przesłania, a stan żądania zostanie zaktualizowany na stronie Rozliczeń. W tym momencie partner może edytować istniejące żądanie lub przesłać nowe. Po zatwierdzeniu żądania następna faktura zostanie zaktualizowana, aby odzwierciedlić, że kwota nie jest już należne.
 
 ### <a name="additional-resources"></a>Dodatkowe zasoby:
 
-Dokumentację i szczegółowe informacje znajdują się w [kolekcji galerii CSP](https://partner.microsoft.com/resources/collection/submit-tax-withholding-credit-request#/).
+Dokumentacja i dalsze szczegóły można znaleźć w [kolekcji Galeria programu CSP.](https://partner.microsoft.com/resources/collection/submit-tax-withholding-credit-request#/)
 
 ### <a name="change-log"></a>Dziennik zmian
 
-- 25 lutego 2020: Opublikowano oryginalny anons
+- 25 lutego 2020 r.: opublikowano oryginalne zawiadomienie
 
 _________________
 
-## <a name="new-microsoft-customer-agreement-acceptance-capability-available-now"></a><a id="8"/></a>Dostępna jest nowa funkcja akceptacji umowy dla klientów firmy Microsoft.
+## <a name="new-microsoft-customer-agreement-acceptance-capability-available-now"></a><a id="8"/></a>Nowe Umowa z Klientem Microsoft akceptacji danych są teraz dostępne.
 
 ### <a name="categories"></a>Kategorie
 
 - Data: 2020-02-25
-- Typ: możliwości
-- Stan: jest teraz dostępny
+- Typ: Możliwości
+- Stan: Teraz dostępne
 - [Dowiedz się więcej](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
 
-### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem:
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ:
 
-- Bezpośredni dostawca rachunku i pośrednich dostawców w programie CSP
+- Bezpośredni rachunek i dostawcy pośredni w programie CSP
 
 ### <a name="summary"></a>Podsumowanie:
 
-Partnerzy mogą teraz zapraszać nowych i istniejących klientów do przeglądania i akceptowania umowy licencyjnej firmy Microsoft bezpośrednio w uwierzytelnionej witrynie Microsoft Portal (Microsoft 365 centrum administracyjnym).
+Partnerzy mogą teraz zapraszać nowych i istniejących klientów do przejrzenia i zaakceptowania Umowa z Klientem Microsoft bezpośrednio w uwierzytelnionym portalu Firmy Microsoft (Administracja Microsoft 365 Center).
 
-Ta nowa możliwość oznacza, [że partnerzy mogą teraz korzystać z dwóch opcji](../confirm-customer-agreement.md) podczas prezentowania klientom umowy klienta firmy Microsoft:
+Ta nowa funkcja oznacza, [że partnerzy mają](../confirm-customer-agreement.md) teraz dwie opcje podczas prezentowania Umowa z Klientem Microsoft klientom:
 
-- **Opcja 1:** Partnerzy mogą przedstawić klientom nową umowę klienta firmy Microsoft w taki sam sposób, jak w przypadku umowy Microsoft Cloud. Po przejrzeniu i zaakceptowaniu umowy przez klienta partnerzy muszą zaświadczać o akceptacji klienta w firmie Microsoft. Pulpit nawigacyjny Centrum partnerskiego, interfejs API Centrum partnerskiego i zestaw SDK platformy .NET został zaktualizowany do obsługi partnera z potwierdzeniem akceptacji przez klienta umowy klienta firmy Microsoft w ten sposób.
-- **Opcja 2 (Nowa funkcja):** Partnerzy mogą zapraszać klientów do uwierzytelnionego portalu Microsoft (Microsoft 365 centrum administracyjnego), aby wyświetlić i podpisać umowę. Ta opcja umożliwia uproszczone zarządzanie umowami, szybszą implementację i mniejszą ilość pracy dla partnerów, gdy klient zaakceptuje bezpośrednio w centrum administracyjnym Microsoft 365, potwierdza zatwierdzenie warunków.
+- **Opcja 1:** Partnerzy mogą przedstawić nowe Umowa z Klientem Microsoft klientom w taki sam sposób, jak wcześniej w przypadku Umowa dotycząca platformy Microsoft Cloud. Po przejrzeniu i zaakceptowaniu umowy przez klienta partnerzy muszą poświadczyć o akceptacji klienta przez firmę Microsoft. Pulpit Partner Center nawigacyjny, Partner Center API i zestaw SDK platformy .NET zostały zaktualizowane w celu obsługi partnera, potwierdzając w ten sposób akceptację Umowa z Klientem Microsoft przez klienta.
+- **Opcja 2 (nowa funkcja):** Partnerzy mogą zapraszać klientów do uwierzytelnionego portalu Firmy Microsoft (Administracja Microsoft 365 Center) w celu wyświetlenia i podpisania umowy. Ta opcja umożliwia uproszczone zarządzanie umowami, szybsze wdrażanie i mniej pracy dla partnerów, ponieważ gdy klient zaakceptuje bezpośrednio w centrum Administracja Microsoft 365 Center, potwierdza zatwierdzenie warunków.
 
-Partnerzy mogą dowiedzieć się, czy klienci zaakceptowali nową umowę przy użyciu nowych funkcji dostępnych na pulpicie nawigacyjnym Centrum partnerskiego lub za pośrednictwem [tego nowego interfejsu API](/partner-center/develop/get-direct-sign-status-of-customer-agreement).
+Partnerzy mogą dowiedzieć się, czy klienci zaakceptowali nową umowę, korzystając z nowych funkcji dostępnych na pulpicie nawigacyjnym usługi Partner Center lub za [pośrednictwem tego nowego interfejsu API.](/partner-center/develop/get-direct-sign-status-of-customer-agreement)
 
-Począwszy od 1 lutego 2020, potwierdzenie akceptacji przez klientów umowy licencyjnej firmy Microsoft jest wymagane w celu wprowadzenia nowych zamówień dla każdego dostawcy usług kryptograficznych we wszystkich regionach w ramach chmury publicznej firmy Microsoft. Partnerzy CSP nie mogą już wprowadzać nowych zakupów, w tym zmian miejsc lub odnowienia istniejących zakupów, bez potwierdzenia, że klient zaakceptował umowę klienta firmy Microsoft przy użyciu jednej z tych opcji.
+Od 1 lutego 2020 r. potwierdzenie przez partnera akceptacji usługi Umowa z Klientem Microsoft przez partnera jest wymagane do składania nowych zamówień dla wszystkich ofert CSP we wszystkich regionach w ramach chmury publicznej firmy Microsoft. Partnerzy CSP nie mogą już dobyć nowych zakupów, w tym zmian miejsc lub odnowienia istniejących zakupów, bez potwierdzenia, że ich klient zaakceptował Umowa z Klientem Microsoft za pośrednictwem jednej z tych opcji.
  
 >[!Note] 
 >Nie ma to wpływu na automatyczne odnawianie.
 
 ### <a name="next-steps"></a>Następne kroki:
 
-- Jeśli klient nie zaakceptował umowy klienta firmy Microsoft, jest wymagany od 1 lutego 2020 dla nowych zamówień. Partnerzy muszą albo zaświadczyć. Opcja 1: klient zaakceptował umowę lub opcja 2: zapraszanie klientów do akceptacji umowy bezpośrednio za pomocą Centrum administracyjnego Microsoft 365.
-- Partnerzy korzystający z interfejsów API dla istniejącej zaświadczania o umowie Microsoft Cloud muszą skorygować istniejącą implementację przy użyciu zaktualizowanego interfejsu API.
-- Pouczenie swoich agentów i odsprzedawcaów od nowych warunków umowy oraz zaprezentowanie nowej umowy i zweryfikowanie akceptacji przez klienta.
+- Jeśli klient nie zaakceptował Umowa z Klientem Microsoft nowych zamówień, od 1 lutego 2020 r. będzie to obowiązkowe. Partnerzy muszą zaświadczyć. Opcja 1: klient zaakceptował umowę lub opcja 2: zapraszanie klientów do zaakceptowania umowy bezpośrednio za pośrednictwem Administracja Microsoft 365 Center.
+- Partnerzy korzystający z interfejsów API dla Umowa dotycząca platformy Microsoft Cloud muszą poprawić istniejącą implementację za pomocą zaktualizowanego interfejsu API.
+- Wytrenuj agentów i sprzedawców na podstawie nowych warunków umowy oraz prezentowania nowej umowy i sprawdzania poprawności akceptacji klienta.
 
-### <a name="additional-resources"></a>Dodatkowe zasoby:
+### <a name="additional-resources"></a>Zasoby dodatkowe:
 
-Partnerzy mogą wyświetlać zawartość umowy dla klientów firmy Microsoft dostępną na tej [stronie galerii CSP](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/). W tym:
+Partnerzy mogą wyświetlać zawartość Umowa z Klientem Microsoft dostępną na tej [stronie galerii CSP.](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/) W tym:
 
-- Umowa klienta firmy Microsoft w przewodniku CSP (zaktualizowany)
-- Umowa dla klientów firmy Microsoft — często zadawane pytania (zaktualizowane)
+- Przewodnik Umowa z Klientem Microsoft w programie CSP (zaktualizowany)
+- Umowa z Klientem Microsoft często zadawane pytania (aktualizacja)
 
 ### <a name="change-log"></a>Dziennik zmian:
 
-- 11 lutego 2020: Opublikowano pierwotny anons
-- 25 lutego 2020: anons został zaktualizowany przy użyciu [tego nowego interfejsu API](/partner-center/develop/get-direct-sign-status-of-customer-agreement) w celu uzyskania stanu bezpośredniego akceptacji klienta.
+- 11 lutego 2020 r.: opublikowano oryginalne ogłoszenie
+- 25 lutego 2020 r.: Ogłoszenie zaktualizowano o ten nowy interfejs [API](/partner-center/develop/get-direct-sign-status-of-customer-agreement) w celu uzyskania stanu bezpośredniej akceptacji klienta.
 
 _________________
 
-## <a name="license-based-price-list-march-preview-updated"></a><a id="7"/></a>Wersja zapoznawcza wersji zapoznawczej z licencją na licencję
+## <a name="license-based-price-list-march-preview-updated"></a><a id="7"/></a>Cennik oparty na licencjach Zaktualizowano cennik w marcu (wersja zapoznawcza)
 
 ### <a name="categories"></a>Kategorie
 
 - Data: 2020-02-19
-- Typ: oferty/rynki
-- Stan: jest teraz dostępny
+- Typ: Oferty/rynki
+- Stan: Teraz dostępne
 
 ### <a name="summary"></a>Podsumowanie:
 
- Aby zapewnić obsługę programu Microsoft Defender, który został [ogłoszony ostatnio](https://www.yammer.com/cloudpartnercommunity/#/threads/show?threadId=537815418421248&messageId=538893749682176?trk_event=likes_message_click), został zaktualizowany plik cen w wersji zapoznawczej z licencją na licencję w celu uwzględnienia tych dwóch ofert, wcześniej znajdujących się w pliku w wersji zapoznawczej w marcu 2020-01-31:
+ W celu obsługi nadchodzącej i nadchodzącej wersji usługi Microsoft [Defender](https://www.yammer.com/cloudpartnercommunity/#/threads/show?threadId=537815418421248&messageId=538893749682176?trk_event=likes_message_click)niedawno ogłosiliśmy, że zaktualizowaliśmy oparty na licencji plik cennika z marca w wersji zapoznawczej, aby uwzględnić te dwie oferty. Wcześniej plik wersji zapoznawczej z marca został opublikowany w dniu 2020-01-31:
 
-Oferta: identyfikator oferty zaawansowanej ochrony przed zagrożeniami w usłudze Microsoft Defender: e2dcab13-1365-417A-b624-4901e2b252f5
+Oferta: Zaawansowana ochrona przed zagrożeniami w usłudze Microsoft Defender identyfikator oferty: e2dcab13-1365-417a-b624-4901e2b252f5
 
-Oferta: identyfikator oferty usługi Microsoft Defender Advanced Threat Protection dla usług edukacyjnych: 1a7a1bcc-c7bf-4c6b-b55d-d79a6e3bb3ee
+Oferta: Zaawansowana ochrona przed zagrożeniami w usłudze Microsoft Defender for Education Offer ID: 1a7a1bcc-c7bf-4c6b-b55d-d79a6e3bb3ee
 
-Te dwie nowe oferty są jedynymi zmianami wprowadzonymi w pliku podglądu. Wersja zapoznawcza w marcu została zaktualizowana o 2020-02-14, 1PM PST.
+Te dwie nowe oferty to jedyne zmiany wprowadzone w pliku w wersji zapoznawczej. Wersja zapoznawcza z marca została zaktualizowana 2020-02-14, 13:00 PST.
 
-**Problemy z cenami na podstawie licencji w lutym**
+**Problemy z cenami opartymi na licencjach z lutego**
 
-Poniżej znajdują się znane problemy na liście cen i oferty z cennikiem z lutego. W przypadku zgłoszonych wcześniej problemów ERP, a także w przypadku, gdy można rozwiązać poniższe problemy, będzie dostępna aktualizacja w poniedziałek 2/10. Ale dla lutego:
+Poniżej przedstawiono znane problemy w cenniku w lutym i macierzy listy ofert. W poniedziałek 2/10 zostanie zgłoszona aktualizacja w sprawie zgłoszonych wcześniej problemów z systemem ERP, a także tego, kiedy można rozwiązać poniższe problemy. Ale w lutym:
 
-**Poniżej znajdują się oferty na liście cen opartych na licencji na luty, ale nie na macierzy z listą ofert.**
+**Poniżej przedstawiono oferty w cenniku opartym na licencjach z lutego, ale nie w macierzy listy ofert.**
 
-Następująca oferta jest niedostępna i zostanie usunięta z przyszłych list cen:
+Następująca oferta nie jest dostępna i zostanie usunięta z przyszłych cenników:
 
-Oferta: system Microsoft 365 Phone — identyfikator oferty wersji próbnej użytkownika wirtualnego:  `b9a1d576-43fd-464b-8ad9-4b1eafc5db77`
+Oferta: Microsoft 365 system telefoniczny — identyfikator oferty wersji próbnej użytkownika wirtualnego:`b9a1d576-43fd-464b-8ad9-4b1eafc5db77`
 
-Oferty te są dostępne, ale nie znajdują się w macierzy list oferty. Aby uzyskać szczegółowe informacje na temat macierzy ofert, zapoznaj się z matrycą poprzedniej listy oferty od stycznia 2020.
+Te oferty są dostępne, ale nie znajdują się w macierzy listy ofert. Aby uzyskać szczegółowe informacje o macierzy ofert, zapoznaj się z poprzednią macierzą listy ofert ze stycznia 2020 r.
 
-Oferta: Pomoc techniczna Pro Direct dla systemu Dynamics 365 — identyfikator oferty ujednoliconych operacji: `09dc6202-bfbb-44fb-9c87-b12c90084010`
+Oferta: Pro pomocy technicznej dla usługi Dynamics 365 Unified Operations o identyfikatorze oferty:`09dc6202-bfbb-44fb-9c87-b12c90084010`
 
-Oferta: Pomoc techniczna Pro Direct dla systemu Dynamics 365 Unified Operations dla identyfikatora oferty wykładowcy: `c3b23a21-76e2-46e7-ae4f-60e1bdb96bea`
+Oferta: Pro obsługa bezpośrednia dla ujednoliconych operacji usługi Dynamics 365 dla nauczycieli i wykładowców o identyfikatorze oferty:`c3b23a21-76e2-46e7-ae4f-60e1bdb96bea`
 
-Oferta: Pomoc techniczna Pro Direct dla systemu Dynamics 365 ujednoliconych operacji dla studentów o IDENTYFIKATORze oferty: `1835808d-06a2-42c5-9f09-82c2e7ed5c72`
+Oferta: Pro pomocy technicznej dla usługi Dynamics 365 Unified Operations for Students o identyfikatorze oferty:`1835808d-06a2-42c5-9f09-82c2e7ed5c72`
 
-Oferty te nie znajdują się na liście cenowej, ale powinny być. Zapoznaj się z cennikiem z 19 grudnia, ponieważ nie zmieniono cen dla tej oferty.
+Te oferty nie zostały w cenniku, ale powinny być. Zapoznaj się z cennikiem z 19 grudnia, ponieważ ceny tej oferty nie uległy zmianie.
 
-Oferta: identyfikator oferty Microsoft 365 a1: `778a4dce-0014-4d53-8647-314ef2b091d2`
+Oferta: Microsoft 365 A1 identyfikator oferty:`778a4dce-0014-4d53-8647-314ef2b091d2`
 
-Oferta: identyfikator oferty usługi Dynamics 365 zdalnego dołączania do wersji próbnej: `7ce81df9-f10c-49a3-843d-e9de6fdc779f`
+Oferta: Dynamics 365 Remote Assist Attach Trial Offer ID :) `7ce81df9-f10c-49a3-843d-e9de6fdc779f`
 
-Oferta: identyfikator oferty próbnej pomocy zdalnej usługi Dynamics 365: `545484f9-1c3e-426d-a387-0aa029146443`
+Oferta: Identyfikator oferty wersji próbnej usługi Dynamics 365 Remote Assist: `545484f9-1c3e-426d-a387-0aa029146443`
 
-### <a name="erp-issues"></a>Problemy z ERP
+### <a name="erp-issues"></a>Problemy z systemem ERP
 
-Wcześniej zgłoszone rozbieżności między cennikiem dostawcy usług kryptograficznych i innymi witrynami firmy Microsoft są nadal objęte badaniem. Pojawiły się pewne niewielkie różnice w przypadku niektórych walut, w szczególności NZD, w których szacowane ceny detaliczne (ERP) na listach cen dostawcy usług kryptograficznych były inne niż ceny opublikowane w publicznych witrynach sieci Web firmy Microsoft. Zespół nadal bada te problemy. Te wartości ERP nie mają wpływu na liczbę rozliczeń partnerów; są one jednak używane przez partnerów, aby określić, jak ustawiać ich ceny dla klientów.
+Wcześniej zgłoszone rozbieżności między cennikiem programu CSP i innymi witrynami firmy Microsoft są nadal w trakcie badania. W niektórych walutach, zwłaszcza NZD, zgłoszono niewielkie różnice, w których szacowane ceny detaliczne (ERP) w cennikach CSP były inne niż ceny publikowane w publicznych witrynach internetowych firmy Microsoft. Zespół nadal bada te problemy. Te wartości ERP nie mają wpływu na to, ile partnerów jest rozliczanych. Są one jednak używane przez partnerów do określania sposobu określania cen dla klientów.
 
 _________________
 
-## <a name="reminder---action-required-transition-from-baseline-policies-to-security-defaults-before-feb-29-2020"></a><a id="6"/></a>Przypomnienie — wymagana akcja: przejście z zasad bazowych do domyślnych ustawień zabezpieczeń przed 29 lutego 2020
+## <a name="reminder---action-required-transition-from-baseline-policies-to-security-defaults-before-feb-29-2020"></a><a id="6"/></a>Przypomnienie — wymagana akcja: Przejście z zasad bazowych do domyślnych ustawień zabezpieczeń przed 29 lutego 2020 r.
 
 ### <a name="categories"></a>Kategorie
 
 - Data: 2020-02-12
-- Typ: możliwości
-- Stan: jest teraz dostępny
+- Typ: Możliwości
+- Stan: Teraz dostępne
 - [Dowiedz się więcej](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
 
 ### <a name="target-audiences"></a>Docelowi odbiorcy
@@ -169,274 +169,274 @@ _________________
 
 ### <a name="summary"></a>Podsumowanie:
 
-Ta ważna Aktualizacja dotycząca [obowiązkowych wymagań związanych z bezpieczeństwem partnerów](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). Począwszy od **29 lutego 2020** , zasady "odniesienia" Azure Active Directory (Azure AD) ["Baseline" zostaną usunięte](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) i zastąpione ustawieniami "domyślne zabezpieczenia", tym bardziej kompleksowy zestaw zasad ochrony dla Ciebie i Twoich klientów. Ustawienia domyślne zabezpieczeń w usłudze Azure AD mogą pomóc w ochronie organizacji przy użyciu wstępnie skonfigurowanych ustawień zabezpieczeń dla typowych ataków.
+Ta ważna aktualizacja dotycząca [obowiązkowych wymagań dotyczących zabezpieczeń partnerów.](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/) Od **29 lutego 2020** r. zasady ["bazowe"](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) usługi Azure Active Directory (Azure AD) zostaną usunięte i zastąpione przez "wartości domyślne zabezpieczeń", czyli bardziej kompleksowy zestaw zasad ochrony dla Ciebie i Twoich klientów. Wartości domyślne zabezpieczeń w usłudze Azure AD mogą pomóc chronić organizację za pomocą wstępnie skonfigurowanych ustawień zabezpieczeń dla typowych ataków.
 
-Nasz system wskazuje, że organizacja korzysta obecnie z zasad bazowych, ale nie przeszedł jeszcze do domyślnych ustawień zabezpieczeń. **Jeśli nie przejdziesz do domyślnych ustawień zabezpieczeń przed 29 lutego, utracisz uwierzytelnianie wieloskładnikowe (MFA) przy użyciu zasad podstawowych dla dzierżawców partnerskich. Włącz domyślne ustawienia zabezpieczeń tak szybko, jak to możliwe, aby uniknąć przerw w** działaniu firmy.
+Nasz system wskazuje, że Twoja organizacja aktualnie korzysta z zasad bazowych, ale nie została jeszcze przełączona do domyślnych ustawień zabezpieczeń. Jeśli do 29 lutego nie zostaną przejdą ustawienia domyślne zabezpieczeń, utracisz uwierzytelnianie wieloskładnikowe włączone przy użyciu zasad bazowych w **dzierżawach partnerów. Włącz ustawienia domyślne zabezpieczeń tak szybko, jak to możliwe, aby uniknąć zakłóceń w działalności biznesowej.**
 
 ### <a name="key-considerations"></a>Najważniejsze zagadnienia
 
-Zasady ustawień domyślnych zabezpieczeń są jedną z [opcji](../partner-security-requirements.md#implementing-multi-factor-authentication) , które partnerzy mogą wybrać wdrożenie usługi MFA w celu spełnienia wymagań dotyczących zabezpieczeń w zależności od potrzeb firmy. Oferuje on podstawowy poziom zabezpieczeń włączony bez dodatkowych kosztów. Zapoznaj się z [tematem Włączanie usługi MFA dla Twojej organizacji za pomocą usług Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) oraz najważniejszych zagadnień poniżej:
+Zasady wartości domyślnych zabezpieczeń [](../partner-security-requirements.md#implementing-multi-factor-authentication) to jedna z opcji, które partnerzy mogą wybrać do zaimplementowania usługi MFA na potrzeby wymagań dotyczących zabezpieczeń w zależności od potrzeb biznesowych. Oferuje ona podstawowy poziom zabezpieczeń włączony bez dodatkowych kosztów. Zapoznaj [się ze instrukcjami włączania uwierzytelniania](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) wieloskładnikowego dla organizacji za pomocą usługi Azure AD i zapoznaj się z poniższymi kluczowymi zagadnieniami:
 
-- W przypadku partnerów, którzy korzystają z [dostępu warunkowego](/azure/active-directory/conditional-access/concept-conditional-access-policy-common), ustawienia domyślne zabezpieczeń nie będą dostępne.
-- Domyślne ustawienia zabezpieczeń wymuszają wszystkie zasady jednocześnie, w tym wymagane uwierzytelnianie MFA dla administratorów, zasady ochrony użytkowników końcowych i wymagane uwierzytelnianie wieloskładnikowe na potrzeby zarządzania usługami.
-- Blokowanie starszego uwierzytelniania nie będzie wymuszane dla partnerów w tym momencie. Jednak ze względu na to, że większość zdarzeń związanych z tożsamościami złamanymi nie pochodzi z prób logowania przy użyciu starszego uwierzytelniania, zachęca się partnerów do przejścia od tych starszych protokołów.
-- Domyślne ustawienia zabezpieczeń automatycznie pomijają konto synchronizacji Azure AD Connect.
-- Ustawienia domyślne zabezpieczeń to ogólna dostępność [zasad](/azure/active-directory/conditional-access/concept-baseline-protection)dotyczących wersji zapoznawczej. Gdy Partner włącza ustawienia domyślne zabezpieczeń, nie będą już mogli włączać zasad bazowych.
+- W przypadku partnerów korzystających [z dostępu warunkowego](/azure/active-directory/conditional-access/concept-conditional-access-policy-common)wartości domyślne zabezpieczeń nie będą dostępne.
+- Wartości domyślne zabezpieczeń wymuszają wszystkie zasady jednocześnie, w tym wymagane uwierzytelniania wieloskładnikowego dla zasad administratorów, zasady ochrony użytkowników końcowych i wymagane uwierzytelniania wieloskładnikowego na potrzeby zarządzania usługami.
+- Blokowanie starszego uwierzytelniania nie będzie w tej chwili wymuszane dla partnerów. Jednak ponieważ większość zdarzeń związanych z naruszonymi tożsamościami pochodzi z prób logowania przy użyciu starszego uwierzytelniania, zachęcamy partnerów do odejścia od tych starszych protokołów.
+- Ustawienia domyślne zabezpieczeń automatycznie wykluczają konto usługi Azure AD Połączenie Sync.
+- Wartości domyślne zabezpieczeń to ogólne zastąpienie zasad punktów odniesienia [w wersji zapoznawczej.](/azure/active-directory/conditional-access/concept-baseline-protection) Gdy partner włączy wartości domyślne zabezpieczeń, nie będzie już mógł włączyć zasad bazowych.
 
-### <a name="next-steps-and-resources-for-security-defaults"></a>Następne kroki i zasoby dla ustawień domyślnych zabezpieczeń
+### <a name="next-steps-and-resources-for-security-defaults"></a>Następne kroki i zasoby dotyczące ustawień domyślnych zabezpieczeń
 
-Partnerzy, którzy obecnie korzystają z zasad linii bazowej:
+Partnerzy korzystający obecnie z zasad bazowych:
 
-- Dowiedz się więcej o [ustawieniach domyślnych zabezpieczeń](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) i [włączaniu usługi MFA dla Twojej organizacji](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started).
-- Zaplanuj przejście z zasad punktu odniesienia do domyślnych ustawień zabezpieczeń.
-- [Włącz domyślne ustawienia zabezpieczeń jednym kliknięciem](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) dla każdej dzierżawy partnerskiej najszybciej, jak to możliwe. Jeśli ustawienia domyślne zabezpieczeń nie spełniają Twoich potrzeb, należy wziąć pod uwagę inne opcje.
+- Dowiedz się więcej o [ustawieniach domyślnych zabezpieczeń](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) i [włączaniu uwierzytelniania wieloskładnikowego dla organizacji.](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)
+- Planowanie przejścia z zasad bazowych do wartości domyślnych zabezpieczeń.
+- [Włącz ustawienia domyślne zabezpieczeń za pomocą jednego kliknięcia](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) dla każdej dzierżawy partnera tak szybko, jak to możliwe. Jeśli wartości domyślne zabezpieczeń nie spełniają Twoich potrzeb, rozważ inne opcje.
 
-Dostawcy pośrednii:
+Dostawcy pośredni:
 
-- Poinformuj odsprzedawcy w programie Microsoft CSP o zmianie ([Użyj tego szablonu wiadomości e-mail](https://assetsprod.microsoft.com/security-defaults-indirect-reseller-template.docx)). Upewnij się, że odsprzedawca włączy ustawienia domyślne zabezpieczeń, jeśli obecnie korzystają z zasad linii bazowej.
+- Poinformuj odsprzedawców w programie Microsoft CSP o zmianie[(użyj tego szablonu wiadomości e-mail).](https://assetsprod.microsoft.com/security-defaults-indirect-reseller-template.docx) Upewnij się, że odsprzedawcy włączają wartości domyślne zabezpieczeń, jeśli obecnie są używani zasady bazowe.
 
 >[!Note] 
->Firma Microsoft będzie również komunikować się bezpośrednio z odsprzedawcami, którzy aktualnie korzystają z zasad bazowych, i mają informacje kontaktowe Centrum partnerskiego.
+>Firma Microsoft będzie również bezpośrednio komunikować się z odsprzedawcami, którzy obecnie korzystali z zasad bazowych i mają Partner Center informacji kontaktowych.
 
-Jeśli masz jakieś pytania dotyczące wymagań dotyczących zabezpieczeń partnerów, zapoznaj się z dodatkowymi zasobami [tutaj](https://aka.ms/security-requirements).
+Jeśli masz pytania dotyczące wymagań dotyczących zabezpieczeń partnera, zapoznaj się z dodatkowymi [zasobami](https://aka.ms/security-requirements)tutaj.
 
-Z poważaniem doceniamy Twoje partnerstwo i zobowiązanie do zapewnienia, że ekosystem działa w ramach zaufania.
+Bardzo doceniamy Twoje partnerstwo i zobowiązanie do zapewnienia, że nasz ekosystem działa z zaufaniem.
 
 ### <a name="change-log"></a>Dziennik zmian
 
-- 8 stycznia 2020: Opublikowano oryginalny anons
-- 12 lutego 2020: Opublikowano anonsowanie przypomnień
+- 8 stycznia 2020 r.: opublikowano oryginalne zawiadomienie
+- 12 lutego 2020 r.: opublikowano ogłoszenie przypomnienia
 
 _________________
 
-## <a name="audio-conferencing-offers-introduced-to-multinational-customers-with-users-in-india-on-february-1-2020"></a><a id="5"/></a>Konferencje audio są oferowane klientom z wielonarodowymi użytkownikami w Indiach 1 lutego 2020
+## <a name="audio-conferencing-offers-introduced-to-multinational-customers-with-users-in-india-on-february-1-2020"></a><a id="5"/></a>Oferty konferencji audiokonferencyjnej wprowadzone dla klientów międzynarodowych z użytkownikami w Indiach 1 lutego 2020 r.
 
 ### <a name="categories"></a>Kategorie
 
 - Data: 2020-02-05
-- Typ: oferty/rynki
-- Stan: jest teraz dostępny
+- Typ: Oferty/rynki
+- Stan: Teraz dostępne
 - [Dowiedz się więcej](https://partner.microsoft.com/resources/collection/audio-conf-india-users-overview#/)
 
 ### <a name="summary"></a>Podsumowanie:
 
-Firma Microsoft wprowadziła oferty konferencji audio dla wielonarodowych klientów z użytkownikami w Indiach 1 lutego 2020. Możesz użyć ofert do usługi NET New i odnawiania klientów.
+Firma Microsoft wprowadziła 1 lutego 2020 r. oferty konferencji audiokonferencyjnej dla klientów międzynarodowych z użytkownikami w Indiach. Możesz skorzystać z ofert dla nowych i odnawiających klientów.
 
-### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem:
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ:
 
- Partnerzy dostawcy rozwiązań w chmurze (CSP) z klientami korzystającymi z konferencji audio, którzy mogą mieć użytkowników w Indiach.
+ Dostawca rozwiązań w chmurze (CSP) współpracuje z klientami korzystającymi z konferencji audiokonferencyjnej, którzy mogą mieć użytkowników w Indiach.
 
 ### <a name="details"></a>Szczegóły
- Firma Microsoft wprowadziła nową ofertę użytkownika konferencji audio dla wielonarodowych firm z użytkownikami na podstawie Indii.
+ Firma Microsoft wprowadziła nową ofertę dla użytkowników korzystających z konferencji audiokonferencyjnej dla firm międzynarodowych z użytkownikami z Indie.
 
-### <a name="who-needs-to-purchase-the-new-offer"></a>Kto musi zakupić nową ofertę
+### <a name="who-needs-to-purchase-the-new-offer"></a>KtoTo musi zakupić nową ofertę
 
-Tę ofertę należy kupić tylko wtedy, gdy klienci znajdujący się poza Indiami mają przypisane subskrypcje użytkownikom fizycznie znajdującym się w Indiach. W takim przypadku należy zakupić dowolną liczbę ofert dodatków, ponieważ użytkownicy znajdują się fizycznie w Indiach.
+Tę ofertę należy kupić tylko wtedy, gdy klienci znajdujący się poza Indiem mają przypisane subskrypcje do użytkowników fizycznie znajdujących się w Indiach. W takim przypadku należy kupić tyle ofert dodatków, ile jest użytkowników fizycznie znajdujących się w Indiach.
 
-Nie należy kupować oferty, jeśli podmiot prawny klienta jest oparty na Indiach. Zapoznaj się z lokalnym zespołem konto Microsoft, jak najlepiej kontynuować pracę.
+Nie należy kupować oferty, jeśli jednostka prawna klienta znajduje się w Indiach. Skontaktuj się z lokalnym zespołem konto Microsoft, aby dowiedzieć się, jak najlepiej postępować.
 
-### <a name="when-to-purchase"></a>Kiedy należy kupić
+### <a name="when-to-purchase"></a>Kiedy dokonać zakupu
 
-Bieżący użytkownicy mogą zachować ofertę USD4 do momentu odnowienia. Usługa NET New i odnawianie klientów wielonarodowych z użytkownikami w Indiach będzie wymagało oferty nowej oferty.
+Aktualni użytkownicy mogą zachować ofertę USD 4 do czasu odnowienia. Nowi i odnowi międzynarodowych klientów z użytkownikami w Indiach będą musieli cytować nową ofertę w przyszłości.
 
 ### <a name="new-offers"></a>Nowe oferty
 
-Zapoznaj się z listą ofert 0aa62437-b86a-48BD-ae51-85c8dcec5e6d.
+Zapoznaj się z listą ofert 0aa62437-b86a-48bd-ae51-85c8dcec5e6d.
 
 ### <a name="next-steps"></a>Następne kroki
 
-Zapoznaj się z cennikiem. Te informacje są również udostępniane wszystkim odpowiednim kontaktom w organizacji, szczególnie w zespole sprzedaży.
+Zapoznaj się z cennikiem. Udostępnij te informacje również wszystkim odpowiednim kontaktom w Twojej organizacji, szczególnie zespołowi sprzedaży.
 
-**Masz?**
+**Pytania?**
 
-Jeśli masz jakieś pytania dotyczące tych ofert, Sprawdź odpowiednią grupę partnerów w usłudze Yammer.
+Jeśli masz pytania dotyczące tych ofert, sprawdź swoją Yammer partnerów.
 
 _________________
 
-## <a name="new-price-sheet-and-foreign-exchange-rate-apis-available-for-azure-plan-pricing"></a><a id="4"/></a>Nowy arkusz cen i obce interfejsy API kursu wymiany są dostępne dla cen planu platformy Azure
+## <a name="new-price-sheet-and-foreign-exchange-rate-apis-available-for-azure-plan-pricing"></a><a id="4"/></a>Nowy arkusz cen i interfejsy API kursów wymiany walut dostępne dla cennika planu platformy Azure
 
 ### <a name="categories"></a>Kategorie
 
 - Data: 2020-02-04
-- Typ: możliwości
-- Stan: jest teraz dostępny
+- Typ: Możliwości
+- Stan: Teraz dostępne
 - [Dowiedz się więcej](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#)
 
-### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem:
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ:
 
-Bezpośrednie rozliczenia i pośrednich dostawców w programie CSP, którzy wykonują operacje transakcyjne i odsprzedają liczniki i rezerwacje zużycia planu platformy Azure, i używają interfejsów API Centrum partnerskiego w integracji z centrum partnerskim firmy Microsoft.
+Dostawcy bezpośredni i pośredni w programie CSP, którzy transakcjują i odsprzedają mierniki zużycia planu platformy Azure i rezerwacje oraz używają interfejsów API Centrum partnerskiego w ramach integracji z usługą Microsoft Partner Center.
 
 ### <a name="summary"></a>Podsumowanie:
 
-[Nowe środowisko komercyjne dla platformy Azure w programie CSP](https://blogs.partner.microsoft.com/mpn/grow-your-business-with-the-new-commerce-experience-for-azure-in-the-csp-program/) może pomóc Ci uzyskać więcej klientów i zwiększyć zyskowność dzięki usprawnionemu kupowaniu i sprzedawaniu.
+Nowe [środowisko handlowe dla Platforma Azure w programie CSP](https://blogs.partner.microsoft.com/mpn/grow-your-business-with-the-new-commerce-experience-for-azure-in-the-csp-program/) może pomóc w zdobyciu większej liczby klientów i podwyższeniu zyskowności dzięki usprawnionym procesom kupowania i sprzedaży.
 
- W ramach nowego środowiska przyjemnością ogłaszamy dostępność [nowych interfejsów API cen](/partner/develop/pricing) , które programowo pobierają **Cennik planu platformy Azure na potrzeby użycia i rezerwacji** oraz **indeksy kursów walut obcych** dla walut rozliczeń obsługiwanych przez firmę Microsoft. Dzięki nowemu interfejsowi API cenowemu partnerzy mogą zautomatyzować i uprościć proces pobierania informacji o cenach.
+ W ramach nowego interfejsu z przyjemnością ogłaszamy [](/partner/develop/pricing) dostępność nowych interfejsów API cennika, które programowo  pobierają ceny planu platformy **Azure** na potrzeby użycia i rezerwacji oraz indeksów kursów wymiany walut rozliczeniowych obsługiwanych przez firmę Microsoft. Za pomocą nowego interfejsu API cennika partnerzy mogą zautomatyzować i uprościć proces pobierania informacji o cenach.
 
-### <a name="the-new-pricing-apis-provide-the-following-capabilities"></a>Nowe interfejsy API cenowe zapewniają następujące możliwości:
+### <a name="the-new-pricing-apis-provide-the-following-capabilities"></a>Nowe interfejsy API cennika zapewniają następujące możliwości:
 
-- Umożliwia partnerom programowe pobieranie cen dla usług platformy Azure i danych kursu wymiany
-- Pomaga partnerom uzyskać informacje o cenach, w tym Cennik taryfowy w USD dla zasobów platformy Azure i rezerwacje w przypadku zastosowania do planu platformy Azure
-- Umożliwia partnerom pobieranie miesięcznych kursów wymiany dla obsługiwanych walut rozliczeniowych w ramach nowego środowiska (plan platformy Azure)
-- Oferuje możliwość pobrania cen lub kursów wymiany walut w bieżącym miesiącu lub w poprzednich miesiącach
+- Umożliwia partnerom programowe pobieranie cen usług platformy Azure i danych kursów wymiany
+- Pomaga partnerom uzyskać informacje o cenach, w tym ceny miernika w USD dla zasobów i rezerwacji platformy Azure w przypadku zastosowania do planu platformy Azure
+- Umożliwia partnerom pobieranie miesięcznych kursów wymiany dla obsługiwanych walut rozliczeniowych w ramach nowego rozwiązania (plan platformy Azure)
+- Oferuje możliwość pobrania cen lub kursów wymiany walut z bieżącego miesiąca lub poprzednich miesięcy
 
 >[!Note] 
->To jest nowy zasób interfejsu API sieci, który jest specyficzny dla cen planu platformy Azure.
-- Istniejący [interfejs API RateCard](/partner-center/develop/get-prices-for-microsoft-azure) powinien być nadal używany dla istniejących zasobów platformy Azure lub rezerwacji wdrożonych w poprzednich subskrypcjach platformy Azure, które nie są częścią planu platformy Azure.
-- Te interfejsy API znajdują się w innym punkcie końcowym (domenie hostującym interfejs API) do interfejsów API Centrum partnerskiego.
+>Jest to nowy zasób interfejsu API specyficzny dla cennika planu platformy Azure.
+- Istniejący interfejs [API usługi RateCard](/partner-center/develop/get-prices-for-microsoft-azure) nadal powinien być używany dla istniejących zasobów platformy Azure lub rezerwacji wdrożonych w poprzednich subskrypcjach platformy Azure, które nie są częścią planu platformy Azure.
+- Te interfejsy API znajdują się w innym punkcie zakończenia (domenie hostującym interfejs API) niż Partner Center API.
 
-### <a name="partner-next-steps-and-resources"></a>Następne kroki i zasoby partnera:
+### <a name="partner-next-steps-and-resources"></a>Kolejne kroki i zasoby partnerów:
 
 - Zapoznaj się z [dokumentacją dla deweloperów](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#/)
-- Zaimplementuj proces zautomatyzowany przy użyciu [nowego interfejsu API](/partner/develop/pricing)
-- Zapoznaj się z [dokumentacją dotyczącą cennika planu platformy Azure](../azure-plan-price-list.md) , aby uzyskać informacje dotyczące cen.
-- [Dowiedz się więcej o usłudze Azure plan oraz nowym środowisku handlowym w programie CSP](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+- Implementowanie zautomatyzowanego procesu przy [użyciu nowego interfejsu API](/partner/develop/pricing)
+- Zapoznaj się z [dokumentacją cennika planu platformy Azure,](../azure-plan-price-list.md) aby uzyskać pytania dotyczące cen.
+- [Dowiedz się więcej na temat planu platformy Azure i nowego doświadczenia handlowego w programie CSP](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 
 ### <a name="change-log"></a>Dziennik zmian
 
-- 4 lutego 2020: Opublikowano oryginalny anons
+- 4 lutego 2020 r.: opublikowano oryginalne zawiadomienie
 
 _________________
 
-## <a name="changes-to-partner-center-support-experience"></a><a id="3"/></a>Zmiany w obsłudze Centrum partnerskiego
+## <a name="changes-to-partner-center-support-experience"></a><a id="3"/></a>Zmiany w pomocy technicznej Centrum partnerskiego
 
 ### <a name="categories"></a>Kategorie
 
 - Data: 2020-02-04
-- Typ: możliwości
-- Stan: jest teraz dostępny
+- Typ: Możliwości
+- Stan: Teraz dostępne
 
-### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem:
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ:
 
-- Wszyscy użytkownicy, którzy tworzą żądania pomocy technicznej w centrum partnerskim.
+- Wszyscy użytkownicy, którzy tworzą żądania pomocy technicznej w Partner Center.
 
 ### <a name="summary"></a>Podsumowanie:
 
-Centrum partnerskie usprawnia przepływ żądań pomocy technicznej dla wszystkich programów partnerskich.
+Partner Center usprawnia przepływ wniosku o pomoc techniczną dla wszystkich Partner Center graficznych.
 
 ### <a name="details"></a>Szczegóły
- Wybranie tematu pomocy technicznej, który najlepiej opisuje problem partnera, umożliwia centrum partnerskiemu zebranie wszystkich wymaganych informacji dotyczących problemu i szybsze uzyskanie go do właściwych inżynierów pomocy technicznej. Wprowadzamy zmiany, aby uprościć, jak partnerzy znajdą najlepsze miejsce do rejestrowania żądań obsługi:
+ Wybranie tematu pomocy technicznej, który najlepiej opisuje problem partnera, Partner Center zebrać wszystkie wymagane informacje dotyczące problemu i szybciej uzyskać je do odpowiednich inżynierów pomocy technicznej. Wprowadzamy zmiany, aby uprościć sposób, w jaki partnerzy znajdują najlepsze miejsce do rejestrować swoje żądania obsługi:
 
 - Szybkie wyszukiwanie ułatwia znalezienie tematu, który najlepiej opisuje problem.
 - Użytkownicy mogą również "wyświetlać filtry", aby nawigować po dostępnych tematach pomocy technicznej.
-- Nadmiarowe tematy zostały usunięte, a inne opisy tematów zostały zaktualizowane, aby były bardziej czytelne.
+- Tematy nadmiarowe zostały usunięte, a inne opisy tematów zostały zaktualizowane, aby były bardziej czytelne.
 
-Te zmiany będą dostępne przez tydzień z 3 lutego.
+Te zmiany zaczną być dostępne w tygodniu od 3 lutego.
 
 ### <a name="additional-resources"></a>Dodatkowe zasoby:
 
-- Więcej informacji na temat [tworzenia żądań obsługi w centrum partnerskim](../report-problems-with-partner-center.md).
+- Więcej informacji na temat [tworzenia żądań pomocy technicznej w Centrum partnerskim.](../report-problems-with-partner-center.md)
 
 ### <a name="change-log"></a>Dziennik zmian
 
-- <sup>4 lutego</sup>, 2020: Opublikowano oryginalny anons
+- 4<sup>lutego</sup>2020 r.: opublikowano oryginalne zawiadomienie
 
 _________________
 
-## <a name="now-required-microsoft-customer-agreement-acceptance-in-csp"></a><a id="2"/></a>Teraz wymagane: akceptacja umowy klienta firmy Microsoft w ramach dostawcy CSP.
+## <a name="now-required-microsoft-customer-agreement-acceptance-in-csp"></a><a id="2"/></a>Teraz wymagane: Umowa z Klientem Microsoft akceptacji w programie CSP.
 
 ### <a name="categories"></a>Kategorie
 
 - Data: 2020-02-04
-- Typ: możliwości
-- Stan: jest teraz dostępny
+- Typ: Możliwości
+- Stan: Teraz dostępne
 - [Dowiedz się więcej](https://www.microsoft.com/licensing/docs/customeragreement)
 
-### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem:
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ:
 
-- Bezpośredni dostawca rachunku i pośrednich dostawców w programie CSP
+- Bezpośredni rachunek i dostawcy pośredni w programie CSP
 
 ### <a name="summary"></a>Podsumowanie:
 
-Nowa [Umowa dla klientów firmy Microsoft](https://www.microsoft.com/licensing/docs/customeragreement) w programie w ramach programu Cloud Solution Provider (CSP) stała się dostępna w dniu 2019 października, zastępując istniejącą umowę Microsoft Cloud. Nowa, uproszczona umowa dla klientów zapewnia spójne warunki zakupu dla klientów, niezależnie od sposobu, w jaki klienci zdecydują się zakupić.
+Nowa wersja [Umowa z Klientem Microsoft](https://www.microsoft.com/licensing/docs/customeragreement) w programie Dostawca rozwiązań w chmurze (CSP) stała się dostępna od października 2019 r., zastępując istniejące Umowa dotycząca platformy Microsoft Cloud. Nowa, uproszczona umowa klienta zapewnia klientom spójne warunki zakupu — niezależnie od sposobu, w jaki klienci zdecydują się na zakup.
 
-**Od 1 lutego 2020, bezpośrednie rachunki i pośrednich dostawców w dostawcy CSP są wymagane do potwierdzenia akceptacji przez klienta umowy licencyjnej firmy Microsoft dla dowolnych ofert dostawcy usług kryptograficznych w ramach chmury publicznej firmy Microsoft** . Bez potwierdzenia akceptacji przez klienta nowej umowy, partnerzy nie będą mogli dokonać nowego zakupu dla klienta, w tym między innymi zmianą miejsc i odnowieniem istniejących zakupów od tej daty (nie wpłynie to na automatyczne odnawianie).
+**Począwszy od 1 lutego 2020 r.,** dostawcy bezpośredni i pośredni w programie CSP muszą potwierdzić zgodę klienta na Umowa z Klientem Microsoft ofert CSP w chmurze publicznej firmy Microsoft. Bez potwierdzenia akceptacji nowej umowy przez klienta partnerzy nie będą mogli dokonać nowego zakupu dla klienta, w tym zmiany miejsc i odnowienia istniejących zakupów od tej daty (nie będzie to miało wpływu na automatyczne odnawianie).
 
-Partnerzy mogą przedstawić klientom nową umowę w taki sam sposób jak w przypadku istniejącej umowy Microsoft Cloud. Po przeprowadzeniu przeglądu i zaakceptowaniu umowy przez klienta partnerzy muszą potwierdzić akceptację klienta w centrum partnerskim. Interfejs użytkownika sieci Web usługi Partner Center, interfejs API i zestaw SDK platformy .NET zostały zaktualizowane w celu obsługi nowej umowy.
+Partnerzy mogą przedstawić klientom nową umowę w taki sam sposób, jak w przypadku istniejących Umowa dotycząca platformy Microsoft Cloud. Gdy klient przejmie i zaakceptuje umowę, partnerzy muszą potwierdzić akceptację klienta na Partner Center. Interfejs użytkownika Partner Center, interfejs API i zestaw .NET SDK zostały zaktualizowane w celu obsługi nowej umowy.
 
-Aby uzyskać więcej informacji, zapoznaj się z tematem zasoby dotyczące umowy klienta firmy Microsoft w programie CSP znajdującym się na [tej stronie](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
+Aby uzyskać więcej informacji, przejrzyj zasoby dotyczące Umowa z Klientem Microsoft w programie CSP znajdujące się [na tej stronie.](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
 
 ### <a name="next-steps"></a>Następne kroki
 
-- Potwierdź akceptację klienta przy użyciu [interfejsu użytkownika sieci Web Centrum partnerskiego lub interfejs API](../confirm-customer-agreement.md).
+- Potwierdź akceptację klienta przy użyciu interfejsu Partner Center [internetowego lub interfejsu API.](../confirm-customer-agreement.md)
 - Partnerzy korzystający z interfejsów API dla istniejącej umowy dotyczącej platformy Microsoft Cloud muszą skorygować istniejącą implementację przy użyciu [zaktualizowanego interfejsu API](../confirm-customer-agreement.md).
 - Przeprowadź szkolenie agentów i odsprzedawców w zakresie [nowych warunków umowy](https://www.microsoft.com/licensing/docs/customeragreement) oraz prezentowania nowej umowy i weryfikowania akceptacji klienta.
 
 >[!NOTE] 
->Akceptacja Klienta umowy dotyczącej firmy Microsoft jest również wymagana do zakupu za pośrednictwem [nowego środowiska handlowego w programie CSP dla platformy Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) wydanej w listopadzie 2019. W CY2020 Q1 partnerzy w dostawcy usług kryptograficznych będą również mogli zobaczyć dodatkową opcję w centrum partnerskim, która umożliwi partnerom zapraszanie klientów do uwierzytelnionej witryny Microsoft Portal (Microsoft 365 centrum administracyjne), a klienci będą mogli bezpośrednio wyświetlać i podpisywać umowę klienta firmy Microsoft.
+>Akceptacja przez klienta Umowa z Klientem Microsoft jest również wymagana do zakupu za pośrednictwem nowego rozwiązania handlowego w programie CSP dla platformy [Azure,](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) które zostało wydane w listopadzie 2019 r. W I kwartale 2020 r. partnerzy w programie CSP zaczną również wyświetlać dodatkową opcję w u usługach Partner Center, która umożliwi partnerom zapraszanie klientów do uwierzytelnionego portalu firmy Microsoft (centrum Administracja Microsoft 365) oraz bezpośrednie wyświetlanie i podpisywanie Umowa z Klientem Microsoft firmy Microsoft.
 
 ### <a name="change-log"></a>Dziennik zmian:
 
-- 28 stycznia 2020: Opublikowano oryginalny monit.
-- 4 lutego 2020: powiadomienie, które zostało zaktualizowane zgodnie z umową klienta firmy Microsoft, jest wymagane.
+- 28 stycznia 2020 r.: Opublikowano oryginalne przypomnienie.
+- 4 lutego 2020 r.: Ogłoszenie zaktualizowane w celu odzwierciedlenia Umowa z Klientem Microsoft jest teraz wymagane.
 
 _________________
 
-## <a name="microsoft-has-released-additional-dynamics-365-products-effective-february-1-2020"></a><a id="1"/></a>Firma Microsoft wyłączyła dodatkowe produkty Dynamics 365, 1 lutego 2020
+## <a name="microsoft-has-released-additional-dynamics-365-products-effective-february-1-2020"></a><a id="1"/></a>Firma Microsoft wydała dodatkowe produkty Dynamics 365 od 1 lutego 2020 r.
 
 ### <a name="categories"></a>Kategorie
 
 - Data: 2020-02-03
-- Typ: oferty/rynki
-- Stan: jest teraz dostępny
+- Typ: Oferty/rynki
+- Stan: Teraz dostępne
 
 ### <a name="summary"></a>Podsumowanie:
 
-Firma Microsoft udostępniła dodatkowe produkty Dynamics 365 w dniu 1 lutego 2020.
+Firma Microsoft opublikowała dodatkowe produkty Dynamics 365 1 lutego 2020 r.
 
-### <a name="impacted-audience"></a>Odbiorcy, których dotyczy problem:
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ:
 
-- Partnerzy oferujący program Dynamics 365 za pomocą programu Cloud Solution Provider (CSP) na całym świecie (chyba że zaleci inaczej)
+- Partnerzy oferujący usługę Dynamics 365 za pośrednictwem programu Dostawca rozwiązań w chmurze (CSP) na całym świecie (chyba że zaleca się inaczej)
 
 ### <a name="details"></a>Szczegóły
 
-Firma Microsoft udostępniła nowe produkty dla programu Dynamics BIZ Apps i produktów platformy dla platform 1 lutego 2020.
+Firma Microsoft opublikowała nowe produkty dla usług Dynamics Biz Apps i Power Platform Products 1 lutego 2020 r.
 
-### <a name="biz-apps-and-power-platform"></a>Aplikacje BIZ i platforma energetyczna
+### <a name="biz-apps-and-power-platform"></a>Aplikacje biz i Power Platform
 
- W dniu 1 lutego 2020 zostały wydane następujące nowe i zaktualizowane oferty dla aplikacji BIZ i oferowanych platform:
+ 1 lutego 2020 r. zostały wydane następujące nowe i zaktualizowane oferty usług Biz Apps i Power Platform ofert:
 
-Kadry (nowe oferty)
+Human Resources (nowe oferty)
 
-- Użytkownicy korzystający z systemu Dynamics 365 kadr mogą zakupić ujednolicone oferty dotyczące pojemności bazy danych/plików w usłudze Dynamics 365.
-- Oferty Self-Serve w usłudze Dynamics 365 HR
-- Zasoby ludzkie Dynamics 365 (użytkownik, dzierżawca)
+- Użytkownicy usługi Dynamics 365 HR mogą kupować oferty Dynamics 365 Unified Ops Additional DB/File Capacity USL.
+- Oferty usługi Dynamics 365 HR Self-Serve usługi Dynamics 365 HR
+- Zasoby ludzkie usługi Dynamics 365 (użytkownik, dzierżawa)
 
-Analiza partii dla zarządzania łańcuchem dostaw (nowe oferty)
+LoT Intelligence for Supply Chain Management (nowe oferty)
 
-- Scenariusz analizy IoT (poziom dzierżawy) — obejmuje uprawnienia do sześciu scenariuszy i dziesięciu maszyn (wymaganie wstępne: łańcuch dostaw/ujednolicona baza użytkowników zarządzania usługą Ops lub dołączanie jednostki SKU)
-- Dodatek usługi IoT Intelligence dodatkowy komputer (poziom dzierżawy) dla dodatku, który udostępnia klientowi licencje na dziesięć dodatkowych maszyn (wymaganie wstępne: jednostka SKU scenariusza analizy IoT)
+- Scenariusz analizy IoT (poziom dzierżawy) — obejmuje uprawnienie do sześciu scenariuszy i dziesięciu maszyn (wymaganie wstępne: baza użytkowników łańcucha dostaw/ujednoliconego zarządzania operacyjną lub dołączanie SKU)
+- Dodatek IoT Intelligence Additional Machine (na poziomie dzierżawy) dla dodatku, który licencjonuje klienta na dziesięć dodatkowych maszyn (wymaganie wstępne: SKU scenariusza analizy IoT)
 
 Zmiana nazwy handlu elektronicznego
 
-- Oferta detaliczna Dynamics 365 została zmieniona na Dynamics 365 commerce.
+- Oferta Dynamics 365 Retail została zmieniona na Dynamics 365 Commerce.
 
-Customer Insights aktualizację licencji. Następujące jednostki SKU mają zmieniony typ licencjonowania z dodatku na nie:
+Customer Insights aktualizacji licencji. Następujące jednostki SKU zmieniły typ licencjonowania z AddOn na NON:
 
 - Dyn365ECstmrInsights ShrdSvr ALNG SubsVL MVL
 - Dyn365ECstmrInsightsEDU ShrdSvr ALNG SubsVL MVL
 
-Następujące oferty nie są już dostępne dla zasobów ludzkich systemu Dynamics 365:
+Następujące oferty nie są już dostępne dla zasobów ludzkich usługi Dynamics 365:
 
-- Dynamics 365 talent
-- Dynamics 365 for talent z poziomu skojarzenia zabezpieczeń
+- Dynamics 365 Talent
+- Dynamics 365 for Talent from SA
 - Przyciąganie, dołączanie i kompleksowe zatrudnianie
 
-1 lutego 2020 firma Microsoft zmieniła nazwy niektórych rodzin produktów i oferuje możliwość dostosowania nazw istniejących ofert dla platformy Dynamics i usługi na platformie PowerShell w innych kanałach i regionach. Zapoznaj się ze szczegółowymi zmianami w pliku zatytułowanym "Dynamics CSP Offer Name Changess — luty 2020" [tutaj](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#).
+1 lutego 2020 r. firma Microsoft zmieniła nazwy niektórych rodzin produktów i ofert w celu dostosowania nazewnictwa istniejących ofert usługi Dynamics i Power Platform w innych kanałach i regionach. Zobacz konkretne zmiany w pliku zatytułowanym "Zmiany nazwy oferty programu Dynamics CSP — luty 2020" [tutaj.](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#)
 
 ### <a name="additional-resources"></a>Dodatkowe zasoby
 
 - [Strona główna usługi Dynamics 365](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [Strona główna przewodnika po aplikacjach dla rzeczywistości mieszanej](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [Strona główna oszustwa aplikacji BIZ](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [FY20 usługi PowerApps i aktualizacje licencjonowania usługi Flow](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [Licencjonowanie systemu Microsoft Dynamics 365](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Strona główna przewodnika po aplikacjach Mixed Reality Apps](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Strona główna oszustw związanych z aplikacjami biz apps](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Aktualizacje licencjonowania usług PowerApps i Flow FY20](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Licencjonowanie usługi Microsoft Dynamics 365](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 
 ### <a name="next-steps"></a>Następne kroki
 
 Udostępnij te informacje w organizacji i klientom.
 
-Jeśli chcesz Dig więcej informacji na temat aktualizacji licencjonowania i propozycji wartości, zapoznaj się z naszą treścią gotowości w sekcji **dodatkowe zasoby** i w witrynie PartnerSource.
+Jeśli chcesz zagłębić się w aktualizacje licencjonowania i wartość oferty, zapoznaj się z  naszą zawartością na temat gotowości w sekcji Dodatkowe zasoby i w chmurze PartnerSource.
 
-Jeśli potrzebujesz pomocy technicznej wyłącznie w odniesieniu do Twoich operacji z firmą Microsoft, [skontaktuj się z pomocą techniczną](https://partner.microsoft.com/pcv/servicerequests/create).
+Jeśli potrzebujesz pomocy technicznej ściśle związanej z operacjami wykonywanymi przez firmę Microsoft, [skontaktuj się z pomocą techniczną](https://partner.microsoft.com/pcv/servicerequests/create).
 
 _________________

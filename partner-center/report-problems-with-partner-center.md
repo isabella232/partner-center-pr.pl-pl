@@ -1,35 +1,35 @@
 ---
-title: Partner Center żądania portalu i narzędzie diagnostyczne
+title: Zbieranie problemów dotyczących diagnostyki i raportowania w Partner Center
 ms.topic: how-to
 ms.date: 11/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-support
 description: Dowiedz się, jak zgłaszać problemy z Partner Center i jak zbierać informacje diagnostyczne dla zespołu pomocy technicznej partnera.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07ff4df4b6d91b84af40e9b2b32d991f4ad09062
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 3e8f48476a6136889be8bb5c9f7a12ed8c42dc94
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277797"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845962"
 ---
-# <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Partner Center żądania portalu i narzędzie diagnostyczne
+# <a name="collecting-diagnostics-and-reporting-problems-in-partner-center"></a>Zbieranie problemów dotyczących diagnostyki i raportowania w Partner Center
 
 **Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
 
 **Odpowiednie role:** Wszyscy partnerzy zainteresowani Partner Center
 
 Wszyscy zalogowani użytkownicy Partner Center mogą utworzyć wniosek o pomoc techniczną dla partnera. Użytkownicy mogą wyświetlać przesłane przez nich żądania pomocy technicznej tylko po zalogowaniu się do Partner Center.
-Skontaktuj się Partner Center pomocą techniczną, jeśli znajdziesz problemy lub potrzebujesz pomocy w Partner Center portalem. Wysyłanie diagnostyki w celu szybszego rozwiązania problemu.
+Skontaktuj się Partner Center pomocą techniczną, jeśli znajdziesz problemy lub potrzebujesz pomocy w Partner Center portalem. Wyślij diagnostykę, aby umożliwić szybsze rozwiązanie problemu. 
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Zgłoś problem z Partner Center
 
-1. Na **pulpicie Partner Center** nawigacyjnym wybierz pozycję **Pomoc techniczna,** a następnie wybierz **pozycję Żądania pomocy technicznej dla partnerów.**
+1. Na **pulpicie Partner Center** nawigacyjnym wybierz pozycję **Pomoc techniczna,** a następnie wybierz **pozycję Żądania pomocy technicznej partnerów.**
 
-2. Wybierz **pozycję Nowe** żądanie, a następnie wyszukaj typ problemu, który najlepiej opisuje Twój problem. Wybierz typ problemu i przejrzyj **rozwiązania.**
+2. Wybierz **[pozycję Nowe](https://partner.microsoft.com/dashboard/support/servicerequests/create)** żądanie, a następnie wyszukaj typ problemu, który najlepiej opisuje Twój problem. Wybierz typ problemu i przejrzyj **rozwiązania.**
 
 3. Zapoznaj się ze **stroną Zalecane rozwiązania,** aby zapoznać się z krokami lub powiązanymi dokumentami, które mogą pomóc w rozwiązaniu problemu.
 
@@ -41,25 +41,35 @@ Skontaktuj się Partner Center pomocą techniczną, jeśli znajdziesz problemy l
 
 **Obecnie w wersji zapoznawczej*
 
-Jeśli problem wymaga rozmowy z pomocą techniczną, możesz zaplanować termin na stronie szczegółów biletu.
+Planowanie terminów umożliwia zaplanowanie terminu z przypisanym do Ciebie zwolennikiem.  W wersji zapoznawczej terminy są ograniczone do podzbioru typów problemów i zespołów pomocy technicznej.  
+
+   > [!NOTE]
+   > Planowanie terminu pomocy technicznej nie jest natychmiast dostępne po utworzeniu sprawy. Termin pomocy technicznej można zaplanować tylko po przypisaniu właściciela żądania.   
+
+1. Na **pulpicie Partner Center** nawigacyjnym wybierz pozycję **[Pomoc techniczna.](https://partner.microsoft.com/dashboard/support/servicerequests)** 
+
+2. Kliknij otwarte żądanie, aby wyświetlić szczegóły biletu. W oknie Planowanie terminu pomocy technicznej **(wersja zapoznawcza)** wybierz dostępną datę i godzinę. Dostępne terminy są oparte na dostępności kalendarza przez kandydata pomocy technicznej i są wyświetlane w lokalnej strefie czasowej.
 
 :::image type="content" source="images/support/ticket.png" alt-text="Zaplanuj termin pomocy technicznej.":::
 
-1.  Na stronie szczegółów biletu w Partner Center wybierz dostępną datę i godzinę w kalendarzu z informacjami o pomocy technicznej. W lokalnej strefie czasowej będą dostępne tylko daty i godziny.
+3. Wybierz **pozycję Zaplanuj ten termin,** aby zarezerwować termin u zamiennie.
 
 :::image type="content" source="images/support/ticket2.png" alt-text="Zaplanuj termin.":::
 
-2. Partner Center sprawdza dostępność w kalendarzu zwolenniczka pomocy technicznej.
-
-1. Podczas planowania terminu Partner Center do Ciebie zaproszenie kalendarza z informacjami na temat sposobu kontaktu z tobą przez działem pomocy technicznej, dzięki czemu możesz śledzić ten termin we własnym kalendarzu służbowym.  Chociaż ta funkcja jest nadal w wersji zapoznawczej, wiadomość e-mail i zaproszenie kalendarza będą w języku angielskim, ale będzie on w stanie obsługiwać Cię w języku wybranym podczas tworzenia biletu.
+4. Po zarezerwowaniu terminu Partner Center pokaże datę i godzinę na stronie szczegółów biletu.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Data i godzina.":::
 
-## <a name="hours-of-operation"></a>Godziny pracy
+5.  Otrzymasz wiadomość e-mail od Partner Center Terminy. Otwórz załącznik pliku ics, aby dodać termin do kalendarza. Możesz również otrzymywać wiadomości e-mail z przypomnieniem. 
 
-**Pomoc techniczna dla partnerów**
+6.  Aby zmienić termin, wróć do strony szczegółów biletu w Partner Center wybierz pozycję Zmień harmonogram tego terminu **lub** Anuluj **ten termin.** 
 
-:::image type="content" source="images/support/hoop.png" alt-text="Godziny pracy pomocy technicznej.":::
+   > [!NOTE]
+   > Skrzynka Partner Center Terminy nie jest monitorowana. Służy tylko do wysyłania zaproszeń na spotkanie.   
+   
+Harmonogram terminu pomocy technicznej jest w wersji zapoznawczej:
+- Wiadomości e-mail z potwierdzeniem spotkania i przypomnieniem mogą wyświetlać czas wizyty w innej strefie czasowej niż czas lokalny.  Jednak dołączony plik ics spowoduje dodanie terminu do kalendarza w odpowiednim czasie lokalnym. 
+- Obecnie istnieje ograniczenie dotyczące języka wiadomości e-mail z potwierdzeniem spotkania i przypomnieniami.  Te wiadomości e-mail mogą być w języku angielskim, a nie w wybranym języku.  Jednak nadal będziesz otrzymywać pomoc techniczną w wybranym języku.
 
 ## <a name="send-diagnostics"></a>Wysyłanie diagnostyki
 
@@ -76,7 +86,7 @@ Możesz wyświetlić podgląd informacji diagnostycznych, a następnie zapisać 
 
 3. Przejrzyj informacje w pliku przed wysłaniem go, ponieważ mogą one zawierać dane osobowe, które chcesz usunąć.
 
-    >[!NOTE]
+   > [!NOTE]
     >W niektórych przeglądarkach **sekcja Widok strony** w dolnej części strony Podgląd może być pusta.  To jest ok.
 
 4. Postępuj zgodnie z instrukcjami wyświetlanymi na ekranie, aby zapisać plik.
@@ -84,6 +94,13 @@ Możesz wyświetlić podgląd informacji diagnostycznych, a następnie zapisać 
 5. Dołącz plik do wniosku o pomoc techniczną.
 
 Pomoc techniczna dla partnerów może poprosić o uruchomienie tego narzędzia kilka razy, aby uzyskać najbardziej aktualne informacje.
+
+## <a name="hours-of-operation"></a>Godziny pracy
+
+**Pomoc techniczna dla partnerów**
+
+:::image type="content" source="images/support/hoop.png" alt-text="Godziny pracy pomocy technicznej.":::
+
 
 ## <a name="next-steps"></a>Następne kroki
 

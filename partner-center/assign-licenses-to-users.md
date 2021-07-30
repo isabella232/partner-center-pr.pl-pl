@@ -3,18 +3,18 @@ title: Zarządzanie użytkownikami dla kont klientów
 ms.topic: how-to
 ms.date: 02/25/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Zarządzanie użytkownikami dla klientów w Partner Center — tworzenie kont użytkowników, dodawanie lub usuwanie licencji użytkowników, resetowanie haseł oraz usuwanie lub przywracanie kont użytkowników.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dc896ec3ce16ab0f05a8131de14f573ad96a8141
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1c346e5e680fdd0b0b82715160b238e1e6b6a9a9
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149897"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838635"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Zarządzanie użytkownikami i licencjami użytkowników dla kont klientów 
 
@@ -26,9 +26,9 @@ Możesz tworzyć i usuwać nowych użytkowników na koncie klienta. Możesz rów
 Gdy kupujesz nowe subskrypcje dla klienta, klient powinien podać listę wszystkich użytkowników, którzy będą potrzebować kont, ich uprawnień użytkownika i usług, których potrzebuje każdy użytkownik.  
 
 >[!NOTE]
->Sekcja **Użytkownicy i** licencje  na karcie Klient zawiera wszystkich użytkowników utworzonych w dzierżawie określonego klienta, w tym użytkowników, którzy mają licencje zakupione od innego partnera CSP lub z innego kanału zakupów.
+>Sekcja **Użytkownicy i** licencje  na karcie Klient zawiera wszystkich użytkowników utworzonych w dzierżawie określonego klienta, w tym użytkowników, którzy mają licencje zakupione od innego partnera CSP lub z innego kanału zakupu.
 
-Subskrypcje [można przypisywać do wielu użytkowników](bulk-license-provisioning-for-multiple-users.md) jednocześnie, importując nazwy przy użyciu pliku arkusza kalkulacyjnego CSV zgodnego z programem [Excel.](adding-multiple-users-to-a-customer-account.md)
+Subskrypcje [można jednocześnie przypisywać](bulk-license-provisioning-for-multiple-users.md) do wielu użytkowników, importując nazwy przy użyciu zgodnego Excel pliku [.csv arkusza kalkulacyjnego.](adding-multiple-users-to-a-customer-account.md)
 
 <a href="" id="createuseraccounts"></a>
 
@@ -46,26 +46,26 @@ Subskrypcje [można przypisywać do wielu użytkowników](bulk-license-provision
 
 6. Jeśli dodajesz wielu użytkowników po jednym na raz, użyj **opcji Dodaj innego użytkownika.**
 
-7. Można również dodać wielu użytkowników jednocześnie, importując plik arkusza kalkulacyjnego CSV zgodny z [programem Excel.](adding-multiple-users-to-a-customer-account.md) Możesz poczekać, aż cały zestaw będzie już gotowe, zanim napisze wiadomość e-mail lub będzie drukować nazwy i hasła z ekranu potwierdzenia.
+7. Można również dodać wielu użytkowników jednocześnie, importując plik [Excel zgodny .csv arkusza kalkulacyjnego.](adding-multiple-users-to-a-customer-account.md) Możesz poczekać, aż cały zestaw zostanie już ustawiony, zanim napisze wiadomość e-mail lub będzie drukować nazwy i hasła z ekranu potwierdzenia.
 
 <a href="" id="userlicensing"></a>
 
 ## <a name="add-or-remove-user-licenses-for-a-customer"></a>Dodawanie lub usuwanie licencji użytkowników dla klienta
 
-Poniższe kroki dotyczą dodawania lub usuwania licencji użytkowników dla produktów firmy Microsoft. Aby dodać lub usunąć licencje użytkowników dla opartych na licencjach subskrypcji SaaS na platformie handlowej, zobacz Dodawanie lub usuwanie licencji dla subskrypcji [SaaS.](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)
+Poniższe kroki dotyczą dodawania lub usuwania licencji użytkowników dla produktów firmy Microsoft. Aby dodać lub usunąć licencje użytkowników dla opartych na licencjach subskrypcji SaaS na platformie handlowej, zobacz Dodawanie lub usuwanie licencji dla [subskrypcji SaaS.](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)
 
 1. Zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard)
 
 2. Z Partner Center wybierz pozycję **Klienci,** a następnie wybierz klienta z listy.
 
-3. W menu klienta wybierz pozycję **Użytkownicy i licencje.**
+3. W menu klienta wybierz pozycję **Użytkownicy i licencje**.
 
-4. Wybierz co najmniej jednego użytkownika z listy. Jeśli na przykład klient właśnie zakupił nowe licencje i chcesz przypisać je do osób, które jeszcze ich nie mają, możesz użyć opcji Filtruj użytkowników **według...,** aby znaleźć odpowiednią grupę.
+4. Wybierz co najmniej jednego użytkownika z listy. Jeśli na przykład klient właśnie kupił nowe licencje i chcesz przypisać je do osób, które ich jeszcze nie mają, możesz użyć opcji Filtruj użytkowników **według...,** aby znaleźć odpowiednią grupę.
 
-5. Wybierz pozycję **Zarządzaj licencjami**. Dokonaj zmian, a następnie **zapisz .**
+5. Wybierz pozycję **Zarządzaj licencjami**. Dokonaj zmian, a następnie **zapisz plik**.
 
 > [!NOTE]
-> W [Azure Marketplace produktu](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)przypisanie licencji i aktywacja są zarządzane za pośrednictwem niezależnego dostawcy oprogramowania, który opublikował produkt.
+> W [Azure Marketplace produktów](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)przypisanie licencji i aktywacja są zarządzane za pośrednictwem niezależnego dostawcy oprogramowania, który opublikował produkt.
 
 <a href="" id="resetpassword"></a>
 
@@ -75,7 +75,7 @@ Poniższe kroki dotyczą dodawania lub usuwania licencji użytkowników dla prod
 
 2. Z Partner Center wybierz pozycję **Klienci,** a następnie wybierz klienta z listy.
 
-3. W menu klienta wybierz pozycję **Użytkownicy i licencje.** Wybierz użytkownika z listy.
+3. W menu klienta wybierz pozycję **Użytkownicy i licencje**. Wybierz użytkownika z listy.
 
 4. W dolnej części ekranu wybierz pozycję **Resetuj hasło.** 
 
@@ -87,7 +87,7 @@ Poniższe kroki dotyczą dodawania lub usuwania licencji użytkowników dla prod
 
 1. Z menu **Partner Center** wybierz pozycję **Klienci.** Wybierz klienta z listy.
 
-2. W menu klienta wybierz pozycję **Użytkownicy i licencje.** Wybierz użytkownika z listy.
+2. W menu klienta wybierz pozycję **Użytkownicy i licencje**. Wybierz użytkownika z listy.
 
 3. W dolnej części ekranu wybierz pozycję **Usuń konto użytkownika.**
 

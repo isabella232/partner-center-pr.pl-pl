@@ -5,16 +5,16 @@ ms.date: 06/08/2020
 description: Dowiedz się więcej na temat wszystkich elementów w pliku uzgodnień opartym na użyciu w Partner Center. Zawiera kilka przykładów.
 author: sodeb
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c486d4866b0a2a912801d2648a1822418687078
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.openlocfilehash: 3048bad7912f101e1c332e54eff981473f0f31d7
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431698"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839655"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Informacje o plikach uzgodnień opartych na użyciu i ich określonych polach w Partner Center
 
@@ -42,7 +42,7 @@ W poniższych polach wyjaśniono, które usługi zostały użyte i jakie są sta
 | SubscriptionDescription | Działalność biznesowa oferty usług. | *Microsoft Azure* |
 | OrderID | Unikatowy identyfikator zamówienia na platformie rozliczeniowej firmy Microsoft. Może być przydatna do zidentyfikowania subskrypcji podczas kontaktowania się z pomocą techniczną. Nie są używane do uzgadniania. | *566890604832738111* |
 | ServiceName | Nazwa usługi platformy Azure, o których mowa. | *MASZYNY WIRTUALNE* |
-| ServiceType | Określony typ usługi platformy Azure. | *Service Bus — indywidualny lub pakiet,* *baza danych SQL Azure — Business lub Web Edition* |
+| ServiceType | Określony typ usługi platformy Azure. | *Service Bus — indywidualny lub pakiet*, *Usługi SQL Azure database — Business lub Web Edition* |
 | ResourceGuid | Określony unikatowy identyfikator dla wszystkich danych usługi i struktury cen. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | ResourceName | Nazwa zasobu platformy Azure. | *Transfer danych w (GB),* *transfer danych na zewnątrz (GB)* |
 | Region (Region) | Region, do którego ma zastosowanie użycie. Służy głównie do przypisywania stawek do transferów danych, ponieważ stawki różnią się w zależności od regionu. | *Azja i Pacyfik,* *Europa,* *Ameryka Łacińska*, *Ameryka Północna* |
@@ -69,7 +69,7 @@ W poniższych polach wyjaśniono, które usługi zostały użyte i jakie są sta
 | MeteredService | Identyfikuje użycie poszczególnych usług platformy Azure, jeśli nie jest ono wyraźnie identyfikowane w kolumnie **ServiceName.** Na przykład transfery danych są zgłaszane jako *Microsoft Azure — wszystkie usługi* w kolumnie **ServiceName.** | *AccessControl,* *CDN,* *Compute,* *Database,* *ServiceBus,* *Storage* |
 | MeteredServiceType | Pole **MeteredService,** które zawiera dodatkowe wyjaśnienie użycia usługi platformy Azure. | *Zewnętrznych* |
 | Project | Zdefiniowana przez klienta nazwa wystąpienia usługi. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
-| ServiceInfo | Liczba połączeń Azure Service Bus, które zostały zaaprowizowane i wykorzystane w danym dniu. | *1,000000 połączeń / 30* dni (jeśli masz indywidualnie aprowizowane połączenie w ciągu 30-dniowego miesiąca), 25 połączeń / 30 dni — *używane: 10000000* (jeśli zaaprowizowanych zostało 25 połączeń Service Bus i w tym dniu wykorzystano 1) |
+| ServiceInfo | Liczba połączeń usługi Azure Service Bus, które zostały zaaprowizowane i wykorzystane w danym dniu. | *1,000000 połączeń / 30* dni (jeśli masz indywidualnie aprowizowane połączenie w ciągu 30-dniowego miesiąca), 25 połączeń / 30 dni — *używane: 1,0000000* (jeśli zaaprowizowanych zostało 25 pań połączeń Service Bus i w tym dniu wykorzystano 1) |
 
 ## <a name="next-steps"></a>Następne kroki
 

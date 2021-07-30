@@ -2,29 +2,29 @@
 title: Analizowanie użycia platformy Azure w celu rozwoju firmy
 description: Dowiedz się, jak Partner Center, aby uzyskać dane dotyczące użycia subskrypcji platformy Azure klientów. Dane obejmują sprzedane, zagrożone i w użyciu subskrypcje.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: amitravat
 ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: e2acdb777e0ef77ebf9d08eed3d3842c74af9e18
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: d26fe1c71a574ed58ca227979cda445950873596
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150237"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839128"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Uzyskiwanie danych o tym, jak dobrze radzią sobie klienci i subskrypcje platformy Azure
 
 
 
-**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent administracyjny | Agent sprzedaży
+**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent administracyjny | Agent sprzedaży
 
-Dane wpływają na decyzje biznesowe. Użyj metryk na stronie użycia **platformy Azure,** aby zidentyfikować sukcesy i obszary, które wymagają większej uwagi. Użyj tych informacji podczas planowania nowych celów biznesowych.
+Dane wpływają na decyzje biznesowe. Użyj metryk na stronie użycia **platformy Azure,** aby zidentyfikować swoje sukcesy i obszary, które wymagają większej uwagi. Użyj tych informacji podczas planowania nowych celów biznesowych.
 
-Aby uzyskać informacje o użyciu **platformy Azure,** zaloguj się do Partner Center [nawigacyjnego](https://partner.microsoft.com/dashboard). Wybierz **pozycję Analiza** z menu Partner Center, a następnie wybierz pozycję Użycie platformy **Azure.**
+Aby uzyskać dostęp do użycia **platformy Azure,** zaloguj się do Partner Center [nawigacyjnego](https://partner.microsoft.com/dashboard). Wybierz **pozycję Analiza** z menu Partner Center, a następnie wybierz pozycję Użycie platformy **Azure.**
 
 > [!NOTE]
 > Analiza użycia platformy Azure jest dostępna tylko dla partnerów w Dostawca rozwiązań w chmurze programie.
@@ -64,4 +64,4 @@ Ta sekcja wskazuje przewidywane ryzyko zmian w subskrypcjach platformy Azure. Te
 
  ## <a name="next-steps"></a>Następne kroki
 
-- [Kup plan platformy Azure dla klientów, & uzyskać dostęp do najnowszych usług platformy Azure ze stawkami płatności zgodnie z użyciem](purchase-azure-plan.md)
+- [Kup plan platformy Azure dla klientów, & uzyskać dostęp do najnowszych usług platformy Azure po stawkach płatności zgodnie z użyciem](purchase-azure-plan.md)

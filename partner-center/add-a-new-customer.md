@@ -3,18 +3,18 @@ title: Jak dodać nowy rekord klienta
 ms.topic: how-to
 ms.date: 04/27/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Dowiedz się, jak dodać nowy rekord klienta w Partner Center. Następnie możesz sprzedawać subskrypcje klientów, zarządzać rozliczeniami lub zapewniać pomoc techniczną dla klientów.
 author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 76e15992355eff88e3a9391ea4af327c3ad969e0
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.openlocfilehash: dccc5365d6b05ebae474c5afeb7bd7d091d86d34
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373362"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839536"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Jak dodać nowy rekord klienta w Partner Center
 

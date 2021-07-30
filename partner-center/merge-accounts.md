@@ -3,17 +3,17 @@ title: Merge your partner account with another partner account (Scalanie konta p
 description: Dowiedz się, jak scalić konto partnera z innym kontem partnera w Partner Center — dla firm, które są aktywnymi partnerami firmy Microsoft w Partner Center.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-enroll
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: bcef4c771d748b0e2fbeae8cf1daaf41d7f53b43
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: f7019f6288b5705430ef3c4f24a1cab3dbd05957
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276641"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114846132"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Merge your partner account with another partner account (Scalanie konta partnera z kontem innego partnera)
 
@@ -84,7 +84,7 @@ Jeśli zdecydujesz się zaakceptować zaproszenie do scalenia kont: · Twoje ide
 >[!Note]
 >Aby przeprowadzić fuzję kont, musisz być **administratorem konta** w swojej firmie.
 
-1. Wybierz **pozycję Ustawienia** na pulpicie Partner Center nawigacyjnym. 
+1. Wybierz **Ustawienia** na pulpicie nawigacyjnym Partner Center nawigacyjnym. 
 
 2. Wybierz **pozycję Scalanie konta.**
 
@@ -96,14 +96,14 @@ Jeśli zdecydujesz się zaakceptować zaproszenie do scalenia kont: · Twoje ide
 
 1. Contoso, Ltd. ma 
 
-    a. globalny [identyfikator MPN 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) i jeden identyfikator MPN lokalizacji podrzędnej [2222222.](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)
+    a. globalny [identyfikator MPN 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) i jeden identyfikator [MPN](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)lokalizacji podrzędnej 2222222 .
   
     b. dzierżawa usługi Azure AD = @contoso.com
  
     c. złotych kompetencji, która wygasa 1 października 2020 r.
 2. Fabrikam, Inc. ma
  
-    a.  globalny identyfikator MPN 3333333 i dwa identyfikatory MPN lokalizacji podrzędnej 4444444 i 5555555
+    a.  globalny identyfikator MPN 3333333 dwa identyfikatory MPN lokalizacji podrzędnej 4444444 i 5555555
 
     b.  dzierżawa usługi Azure AD = @fabrikam.com
 
@@ -113,7 +113,7 @@ Jeśli zdecydujesz się zaakceptować zaproszenie do scalenia kont: · Twoje ide
 5.  Firma Contoso przegląda szczegóły scalania na tej samej stronie i zapewnia potwierdzenie, aby kontynuować scalanie konta.
 6.  Po scaleniu konto firmowe będzie wyświetlane w następujący sposób:
 
-    a.  Firma o nazwie Contoso z globalnym identyfikatorem MPN 11111111 i 4 identyfikatorami MPN lokalizacji podrzędnej 2222222, 3333333, 4444444 i 55555555
+    a.  Firma o nazwie Contoso z globalnym identyfikatorem MPN 1111111 i 4 identyfikatorami MPN lokalizacji podrzędnej 2222222, 3333333, 4444444 i 5555555
     
     b.  Będzie ona mieć dwie dzierżawy usługi Azure AD ( + ), które mają dostęp do tego samego @contoso.com @fabrikam.com Partner Center konta
     

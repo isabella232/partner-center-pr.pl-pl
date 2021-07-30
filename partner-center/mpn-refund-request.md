@@ -2,18 +2,18 @@
 title: Zwrot kosztów korzyści z mpn
 ms.topic: article
 ms.date: 02/05/2021
-description: Dowiedz się, jak zażądać zwrotu kosztów dla korzyści z programu MPN oraz poznać kryteria niezbędne do kwalifikowania się.
+description: Dowiedz się, jak zażądać zwrotu pieniędzy w celu uzyskania korzyści z programu MPN oraz poznać kryteria niezbędne do kwalifikowania się.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-incentives
+ms.subservice: partnercenter-benefits
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 919a0187d3d999e935667bdbd6d565fb093fe6dd
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: b7fe4ae33160a4f6b8da816d2e18d8695c656de4
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151325"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839740"
 ---
 # <a name="request-a-refund-for-an-mpn-benefit"></a>Żądanie zwrotu pieniędzy za korzyść mpn
 

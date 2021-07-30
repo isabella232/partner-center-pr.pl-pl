@@ -3,17 +3,17 @@ title: Specyfikacja zapytania niestandardowego
 description: Dowiedz się, jak tworzyć zapytania niestandardowe w celu wyodrębniania danych z tabel analitycznych.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 57f2109044e604dca21b0109b5be56f40170628e
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 636d2eba7d259ae5e4525100b8d26e25ff031f48
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377164"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839718"
 ---
 # <a name="custom-query-specification"></a>Specyfikacja zapytania niestandardowego
 
@@ -73,7 +73,7 @@ Są to przykładowe zapytania, które pokazują, jak wyodrębniać różne typy 
 
 |Zapytanie|    Opis    |
 |----|    ----    |
-|**WYBIERZ** CustomerTenantId, PaidAvailableUnits **FROM** <br>OfficeUsage **TIMESPAN** LAST_MONTH|    To zapytanie pobierze każdy kod CusotmerTenantID i odpowiadające mu jednostki PaidAvailableUnits w ciągu ostatniego 1 miesiąca.    |
+|**WYBIERZ** CustomerTenantId, PaidAvailableUnits **FROM** <br>OfficeUsage **TIMESPAN** LAST_MONTH|    To zapytanie pobierze każdy cusotmerTenantID i odpowiadające mu jednostki PaidAvailableUnits w ciągu ostatniego 1 miesiąca.    |
 |**WYBIERZ** CustomerTenantId, PaidAvailableUnits **FROM** <br>OfficeUsage **ORDER** BY PaidAvailableUnits **LIMIT** 10|    To zapytanie spowoduje, że 10 najlepszych dzierżaw klientów otrzyma malejącą kolejność liczby płatnych dostępnych jednostek.     |
 |**WYBIERZ** CustomerTenantId, PaidAvailableUnits, MonthlyActiveUsers **FROM** OfficeUsage **WHERE** MonthlyActiveUsers > 100000 **ORDER BY** MonthlyActiveUsers **TIMESPAN** LAST_6_MONTHS |    To zapytanie pobierze jednostki PaidAvailableUnits i MonthlyActiveUsers wszystkich klientów, którzy mają użytkowników MonthlyActiveUser więcej niż 100 000.     |
 |**WYBIERZ** CustomerTenantId, Month, MonthlyActiveUsers **FROM** <br>OfficeUsage **WHERE** CustomerTpId IN ('2a31c234-1f4e-4c60-909e-76d234f93161', '80780748-3f9a-11eb-b378-0242ac130002') |    To zapytanie pobierze wartości CustomerTenantId i monthly active users dla każdego miesiąca według dwóch wartości CustomerTpId: '2a31c234-1f4e-4c60-909e-76d234f93161" i "80780748-3f9a-11eb-b378-0242ac130002".     |
@@ -132,7 +132,7 @@ Każda część jest opisana poniżej.
 
 Ta część zapytania określa kolumny, które zostaną wyeksportowane. Kolumny, które można wybrać, to pola wymienione w sekcjach *selectableColumns* i *availableMetrics* zestawu danych.
 
-Opcjonalnie można `DISTINCT` określić słowo kluczowe po . `SELECT` Jeśli `DISTINCT` zostanie określony, końcowe wyeksportowane wiersze zawsze będą zawierać odrębne wartości wybranych kolumn. Metryki będą obliczane dla każdej odrębnej kombinacji wybranych kolumn, dlatego słowo kluczowe nie jest wymagane, gdy kolumna metryki znajduje się `DISTINCT` na liście wybranych kolumn.
+Opcjonalnie można `DISTINCT` określić słowo kluczowe po `SELECT` . Jeśli `DISTINCT` zostanie określony, końcowe wyeksportowane wiersze zawsze będą zawierać odrębne wartości wybranych kolumn. Metryki będą obliczane dla każdej odrębnej kombinacji wybranych kolumn, dlatego słowo kluczowe nie jest wymagane, gdy kolumna metryki znajduje się `DISTINCT` na liście wybranych kolumn.
 
 **Przykład:**
 
@@ -164,7 +164,7 @@ Ta część zapytania służy do określania warunków filtrowania w zestawie da
 
 ### `ORDER BY`
 
-Ta część zapytania określa kryteria zamawiania wyeksportowanych wierszy. Kolumny, na których można zdefiniować kolejność, muszą pochodzić z kolumn *selectableColumns* i *availableMetrics* zestawu danych. Jeśli nie określono kierunku kolejności, zostanie on domyślnie desc w kolumnie. Kolejność można zdefiniować w wielu kolumnach, oddzielając kryteria przecinkiem.
+Ta część zapytania określa kryteria zamawiania wyeksportowanych wierszy. Kolumny, na których można zdefiniować kolejność, muszą pochodzić z kolumn *selectableColumns* i *availableMetrics* zestawu danych. Jeśli nie określono kierunku kolejności, zostanie ona domyślnie określona DESC w kolumnie. Kolejność można zdefiniować w wielu kolumnach, oddzielając kryteria przecinkiem.
 
 **Przykład:**
 
@@ -177,7 +177,7 @@ Ta część zapytania określa liczbę wierszy, które zostaną wyeksportowane. 
 
 ### `TIMESPAN`
 
-Ta część zapytania określa czas, dla którego dane muszą zostać wyeksportowane. Możliwe wartości powinny pochodzić z *pola availableDateRanges* w definicji zestawu danych.
+Ta część zapytania określa czas trwania, dla którego dane muszą zostać wyeksportowane. Możliwe wartości powinny pochodzić z *pola availableDateRanges* w definicji zestawu danych.
 
 ### <a name="case-sensitivity-in-query-specification"></a>Czułość wielkości liter w specyfikacji zapytania
 

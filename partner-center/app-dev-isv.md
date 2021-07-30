@@ -1,47 +1,47 @@
 ---
-title: Zwolnienie z egzaminu z kompetencji w programie Application Development
+title: Zwolnienie z egzaminu na kompetencję w zakresie opracowywania aplikacji
 ms.topic: article
 ms.date: 05/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: W przypadku partnerów z wcześniejszą kompetencją isv dowiedz się, jak uzyskać wyjątek od wymagań egzaminu na czas jednego egzaminu dla kompetencji Opracowywanie aplikacji
+ms.subservice: partnercenter-membership
+description: W przypadku partnerów z wcześniejszą kompetencją isv dowiedz się, jak uzyskać wyjątek od wymagań egzaminu czasowego dla kompetencji Tworzenie aplikacji
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2d3dfbb409ec8a11d4152e9c064e0ce7a05711b5
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 71121a7493da8dee18fc65a90a4a70cc32d712c9
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149999"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838652"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Wyjątek od wymagań egzaminu czasowego dla kompetencji Tworzenie aplikacji
 
 **Odpowiednie role:** Administrator globalny | Administrator partnera MPN
 
-Jeśli masz już wycofaną kompetencję isv, a jeden z następujących scenariuszy dotyczy Ciebie, oferujemy Twojej firmie zwolnienie wymagań egzaminu z jednego egzaminu dla kompetencji Gold lub [Silver Application Development.](https://partner.microsoft.com/membership/application-development-competency) 
+Jeśli masz już wycofaną kompetencję isV, a jeden z następujących scenariuszy dotyczy Ciebie, oferujemy Twojej firmie wyjątek od wymagań egzaminu terminowego dla kompetencji Gold lub [Silver Application Development.](https://partner.microsoft.com/membership/application-development-competency) 
 
 Partnerzy z kompetencją isv:
 
-- **Twoja kompetencja isV wygasła** — od 22 listopada 2019 r. w 22 listopada 2019 r. jest dostępne zwolnienie z wymagań egzaminu Partner Center 22 listopada 2019 r. Masz 30 dni na skorzystanie z oferty. Zaloguj się do Partner Center, aby uzyskać szczegółowe informacje specyficzne dla Twojej firmy.
+- **Twoja kompetencja isv wygasła** — od 22 listopada 2019 r. jest dostępne zwolnienie z wymagań dotyczących egzaminu Partner Center. Masz 30 dni na skorzystanie z oferty. Zaloguj się do Partner Center, aby uzyskać szczegółowe informacje specyficzne dla Twojej firmy.
 
-- **Twoje członkostwo w kompetencji znajduje się w** oknie odnawiania — zwolnienie wymagań egzaminu czasowego jest dostępne w Partner Center 22 listopada 2019 r. Masz 30 dni na skorzystanie z oferty. Zaloguj się do Partner Center, aby uzyskać szczegółowe informacje specyficzne dla Twojej firmy.
+- **Członkostwo w kompetencji znajduje się w** oknie odnawiania — od 22 listopada 2019 r. jest dostępne zwolnienie wymagań dotyczących egzaminu Partner Center wersji. Masz 30 dni na skorzystanie z oferty. Zaloguj się do Partner Center, aby uzyskać szczegółowe informacje specyficzne dla Twojej firmy.
 
-- **Członkostwo w kompetencjach ma** zostać odnowione w najbliższych miesiącach — zwolnienie wymagań dotyczących egzaminu godzinowego będzie dostępne, gdy najdą czas na odnowienie. W tym czasie otrzymasz ofertę przez 30 dni.
+- **Członkostwo w kompetencjach ma** zostać odnowione w najbliższych miesiącach — gdy na to będzie czas odnowienia, będzie dostępne zwolnienie z wymagań dotyczących egzaminu czasowego. W tym czasie otrzymasz ofertę w ciągu 30 dni.
 
-Partnerzy z kompetencją opracowywanie aplikacji osiągniętą za pośrednictwem ścieżki IP certyfikatu:
+Partnerzy z kompetencją tworzenie aplikacji osiągniętą za pośrednictwem ścieżki IP certyfikatu:
 
-- **Jeśli masz ofertę platformy handlowej firmy Microsoft,** twoje zwolnienie wymagań dotyczących egzaminu godzinowego będzie dostępne w momencie odnawiania kompetencji. W tym czasie będziesz mieć 30 dni na skorzystanie z oferty.
+- **Jeśli masz ofertę platformy handlowej** firmy Microsoft, twoje zwolnienie wymagań dotyczących egzaminu czasowego będzie dostępne w momencie odnowienia kompetencji. W tym czasie będziesz mieć 30 dni na skorzystanie z oferty.
 
-- Jeśli nie masz listy komercyjnej platformy handlowej firmy **[Microsoft,](https://azure.microsoft.com/overview/commercial-marketplace/)** opublikuj rozwiązanie do lutego 2020 r., aby kwalifikować się do zwolnienia z wymagań egzaminów.
+- Jeśli nie masz oferty platformy handlowej firmy **[Microsoft,](https://azure.microsoft.com/overview/commercial-marketplace/)** opublikuj swoje rozwiązanie do lutego 2020 r., aby kwalifikować się do zwolnienia z wymagań dotyczących egzaminu tymczasowego.
 
 ## <a name="how-to-take-advantage-of-your-offer"></a>Jak korzystać z oferty
 
 1. Z menu Partner Center pulpitu nawigacyjnego wybierz pozycję **Kompetencje.**
 2. Na liście dostępnych kompetencji tworzenie aplikacji ma oznaczenie **Ukończono.**
 
-3. Wybierz **pozycję Opracowywanie aplikacji.** Zobaczysz powiadomienie, że masz nadpisanie, które zwalnia firmę z spełniania wymagań egzaminu. 
+3. Wybierz **pozycję Tworzenie aplikacji.** Zobaczysz powiadomienie, że masz nadpisanie, które zwalnia firmę z spełniania wymagań egzaminu. 
 
 4. Aby skorzystać z tej oferty, przejdź do tematu **Membership offers (Oferty członkostwa).** Aby ukończyć proces, może być konieczne wniesienie opłaty za kompetencję w zależności od zakupu lub odnowienia kompetencji. 
 
@@ -53,7 +53,7 @@ Jeśli potrzebujesz pomocy przy uzyskiwaniu oferty lub masz pytania dotyczące u
 
 **Jak mogę, czy moja firma kwalifikuje się do tej oferty?**
 
-Firmy partnerskie uprawnione do korzystania z tej oferty zostały powiadomione za pośrednictwem poczty e-mail i Partner Center wiadomości e-mail z informacjami o tym, jak uzyskać ofertę. Do kwalifikujących się partnerów należą osoby, które uzyskały obecnie wycofaną kompetencję ISV, oraz te, którzy zdali kompetencję Tworzenie aplikacji za pośrednictwem ścieżki IP certyfikatu. 
+Firmy partnerskie uprawnione do korzystania z tej oferty zostały powiadomione za pośrednictwem poczty e-mail i Partner Center w sieci Partner Center z informacjami o tym, jak uzyskać ofertę. Do kwalifikujących się partnerów należą osoby, które uzyskały już wycofaną kompetencję isV, oraz te, którzy zdali kompetencję Tworzenie aplikacji za pośrednictwem ścieżki IP certyfikatu. 
 
 **Jakie są zalety kompetencji Tworzenie aplikacji?**
 
@@ -65,6 +65,6 @@ Wkrótce udostępnimy więcej informacji o naszych planach dla isvs i udostępni
 
 **Jak mogę uzyskać tę ofertę, jeśli moja firma nie ma kompetencji isv?**
 
-Ta oferta jest dostępna tylko dla kwalifikujących się partnerów — tych, którzy mieli kompetencję isv lub kompetencję Tworzenie aplikacji za pośrednictwem ścieżki IP certyfikatu. Aktywnie rozważamy krótkoterminowe i długoterminowe kompleksowe rozwiązania do obsługi isvs i wkrótce udostępnimy więcej szczegółów. 
+Ta oferta jest dostępna tylko dla kwalifikujących się partnerów — tych, którzy mają kompetencję isv lub kompetencję Tworzenie aplikacji za pośrednictwem ścieżki IP certyfikatu. Aktywnie rozważamy krótkoterminowe i długoterminowe kompleksowe rozwiązania do obsługi isvs i wkrótce udostępnimy więcej szczegółów. 
 
 

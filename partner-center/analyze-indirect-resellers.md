@@ -2,19 +2,19 @@
 title: Analizowanie wydajności odsprzedawców pośrednich
 description: Użyj analizy, aby dowiedzieć się, jak robią odsprzedawcy pośredni, zarówno ich sukcesy, jak i obszary, które mogą wymagać większej uwagi.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh
 ms.author: shganesh
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: 50a527f8fd3690ff73b198e572b356706889e72b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a7d04e437a2546c887b40f37a7381605535e8ca9
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150186"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839094"
 ---
 # <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Używanie analizy do analizowania wydajności odsprzedawców pośrednich
 
@@ -44,32 +44,32 @@ Dane wpływają na decyzje biznesowe. Użyj metryk na stronie analizy **Odsprzed
 
 **Najważniejsze produkty według liczby subskrypcji**  
  - **Dynamics 365:** produkty Dynamics 365 posortowane według sprzedanych subskrypcji  
- - **EMS:** Liczba sprzedanych subskrypcji usług Enterprise Management Services  
+ - **EMS:** liczba sprzedanych subskrypcji Enterprise Management Services  
  - **Microsoft 365:** liczba sprzedanych Microsoft 365 subskrypcji  
- - **Office 365:** produkty usługi Office 365 posortowane według sprzedanych subskrypcji  
+ - **Office 365:** Office 365 produktów posortowanych według sprzedanych subskrypcji  
 
 **Nowe subskrypcje**  
  - Liczba nowych subskrypcji dodanych według daty  
 
 **Rezygnacja z subskrypcji**  
  - **Nowe subskrypcje:** liczba nowych subskrypcji dodanych według daty  
- - **Anulowano aprowizowane subskrypcje:** liczba subskrypcji anulowanych lub zawieszonych według daty  
+ - **Anulowano aprowizowane subskrypcje:** liczba subskrypcji, dla których anulowano aprowizę lub która została wstrzymana według daty  
 
 **Szczegóły nowego odsprzedawcy**  
- - **Nazwa odsprzedawcy:** Nazwy odsprzedawców pośrednich  
+ - **Nazwa** odsprzedawcy: Nazwy odsprzedawców pośrednich  
  - **Lokalizacja:** Rynki, na których działają odsprzedawcy pośredni  
  - **Subskrypcje:** liczba subskrypcji, które odsprzedawca sprzedał  
  - **Licencje:** łączna liczba licencji, które odsprzedawca sprzedał we wszystkich subskrypcjach  
 
-**Stan ze podpisem umowy MPA**
+**Stan podpisania umowy MPA**
 
-Ta sekcja zawiera informacje o stanie podpisanym przez MPA odsprzedawców pośrednich WSP.
+Ta sekcja zawiera stan podpisanego umowy MPA odsprzedawców pośrednich WSP.
 
- - **Nazwa** odsprzedawcy: nazwa odsprzedawcy pośredniego CSP
+ - **Nazwa** odsprzedawcy: nazwa odsprzedawcy pośredniego w programie CSP
  - **Identyfikator MPN:** identyfikator MPN odsprzedawcy pośredniego
  - **Region:** region, w którym działa odsprzedawca pośredni
- - **Stan vettingu MPN:** stan Vetting odsprzedawcy pośredniego
- - **Stan podpisania umowy MPA:** stan podpisywania umowy MPA dla odsprzedawcy pośredniego
+ - **Stan vettingu MPN:** Stan Vetting odsprzedawcy pośredniego
+ - **Stan podpisania umowy MPA:** stan podpisywania umowy MPA odsprzedawcy pośredniego
 
 Kliknij ikonę pobierania na wykresie, aby pobrać dane o stanie ze podpisem MPA z dodatkowymi wymiarami
   

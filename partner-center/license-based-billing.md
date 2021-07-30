@@ -3,18 +3,18 @@ title: Rozliczenia na podstawie licencji
 description: Dowiedz się, czym różni się rozliczanie oparte na licencjach od rozliczeń opartych na użyciu w Partner Center, w tym jak są naliczane opłaty za licencję (a nie według użycia licencji).
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 8232ab784611a04990044049c16e84c1a47b9567
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 838dc5cbce503f449c2796c8397625266f826059
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151835"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114846149"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Rozliczenia oparte na licencjach w Partner Center
 
@@ -32,7 +32,7 @@ Subskrypcje oparte na licencjach są rozliczane z wyprzedzeniem w dniu **rocznic
 
 Na przykład:
 
-- Jeśli zakupiono **subskrypcję miesięczną** 15 stycznia, datą rocznicy będzie 15. każdego miesiąca.
+- Jeśli zakupiono subskrypcję **miesięczną** 15 stycznia, rocznica będzie przypadać 15. dnia każdego miesiąca.
 - Jeśli zakupiono **roczną subskrypcję** 15 stycznia, datą rocznicy będzie 15 stycznia każdego roku.
 
 ## <a name="license-term"></a>Okres licencji
@@ -53,7 +53,7 @@ Wszystkie subskrypcje oparte na licencjach są odnawiane automatycznie 12 miesi�
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Omówienie rozliczeń Partner Center danych](billing-basics.md)
+- [Omówienie rozliczeń Partner Center rozliczeń](billing-basics.md)
 
 - [Typy rozliczeń w Centrum partnerskim](./billing-basics.md)
 
