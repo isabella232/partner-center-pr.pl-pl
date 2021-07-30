@@ -3,18 +3,18 @@ title: Program Microsoft Partner Agreement (MPA) dla CSP
 ms.topic: how-to
 ms.date: 03/23/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Dowiedz się więcej o wymaganiach partnerów programu Microsoft CSP dotyczących podpisywania i weryfikowania ujednoliconych, cyfrowo akceptowanych Microsoft Partner Agreement (MPA).
+ms.subservice: partnercenter-enroll
+description: Dowiedz się więcej o wymaganiach partnerów programu Microsoft CSP dotyczących podpisywania i weryfikowania tej ujednoliconej, cyfrowo akceptowanej Microsoft Partner Agreement (MPA).
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 965d655d6216cf2d50315c73afb87ff01d511238
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 483ef506e9d699ed112e93ae30c0ff76fa0c8280
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114433880"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840114"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Dowiedz się więcej o Microsoft Partner Agreement (MPA) dla partnerów programu CSP
 
@@ -56,7 +56,7 @@ Aby nadal uczestniczyć w programie CSP, musisz podpisać umowę Microsoft Partn
 
 1. W **Ustawienia** wybierz **pozycję Ustawienia konta,** a następnie wybierz pozycję Profil [partnera.](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)
 
-1. Sprawdź **sekcję Informacje o** programie. Jeśli Twoje informacje nie pokazują stanu **odsprzedawcy pośredniego,** musisz zarejestrować [się jako odsprzedawca pośredni.](indirect-reseller-tasks-in-partner-center.md)
+1. Sprawdź **sekcję Informacje o** programie. Jeśli twoje informacje nie pokazują stanu **odsprzedawcy pośredniego,** musisz zarejestrować [się jako odsprzedawca pośredni.](indirect-reseller-tasks-in-partner-center.md)
 
 1. Jeśli  **odsprzedawca pośredni** ma stan **Aktywny,** jesteś aktywnym odsprzedawcą pośrednim w Partner Center.
  
@@ -64,14 +64,14 @@ Aby nadal uczestniczyć w programie CSP, musisz podpisać umowę Microsoft Partn
  
 1. Jeśli odsprzedawca pośredni ma stan **Odrzucono** lub **Odrzucono**, weryfikacja twojego konta nie powiodła się. Przeczytaj [proces weryfikacji,](verification-responses.md) aby dowiedzieć się, jak rozwiązać problem z weryfikacją.
 
-1. Jeśli wcześniej przeszliśmy do Partner Center jako odsprzedawca pośredni, zaakceptuj Microsoft Partner Agreement na Partner Center nawigacyjnym przy użyciu poświadczeń administratora globalnego. Możesz potwierdzić, że Microsoft Partner Agreement została już [](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) podpisana z profilu partnera Informacje o **programie** lub powiadomienia na banerze na stronie Przeglądu programu CSP.
+1. Jeśli wcześniej przeszliśmy do Partner Center jako odsprzedawca pośredni, zaakceptuj Microsoft Partner Agreement na Partner Center nawigacyjnym przy użyciu poświadczeń administratora globalnego. Możesz sprawdzić, czy użytkownik Microsoft Partner Agreement został [](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) już podpisany z profilu partnera **Informacje o programie** lub powiadomienia na banerze na stronie Przeglądu programu CSP.
 
 Pamiętaj, aby zaakceptować żądanie relacji dostawcy usług w chmurze z dostawcą pośrednim.
 
 ## <a name="sign-the-mpa"></a>Podpisywanie umowy MPA
 
 1. Zaloguj się do Centrum partnerskiego przy użyciu konta CSP Indirect Reseller. Musisz być administratorem globalnym.
-1. Przejdź do strony **[Przeglądu CSP.](https://partner.microsoft.com/pcv/dashboard/overview)**  Jeśli nie widzisz przycisku **Akceptuj** i kontynuuj lub zielonego baneru z informacją o podpisaniu umowy MPA, nie masz odpowiedniej roli do podpisania umowy MPA. Skontaktuj się z administratorem globalnym, aby podpisać Umowę partnerską firmy Microsoft.
+1. Przejdź do strony **[Przeglądu CSP.](https://partner.microsoft.com/pcv/dashboard/overview)**  Jeśli nie widzisz przycisku Akceptuj i kontynuuj lub zielonego baneru z informacją o podpisaniu umowy MPA, nie masz odpowiedniej roli do podpisania umowy MPA.  Skontaktuj się z administratorem globalnym, aby podpisać Umowę partnerską firmy Microsoft.
 
 1. Aby wyświetlić i pobrać **Microsoft Partner Agreement** przed jego podpisaniem, wybierz Microsoft Partner Agreement, jak pokazano poniżej.
 

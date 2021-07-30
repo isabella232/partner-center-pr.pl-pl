@@ -3,17 +3,17 @@ title: Uzyskiwanie interfejsu API raportów — Szczegółowe informacje danych
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Ten interfejs API umożliwia uzyskiwanie wszystkich dostępnych identyfikatorów raportów w Partner Center szczegółowych informacji.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 174a2f60a36cb46b287b787b177dd32236cef4eb
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: dc0e3925aeb07adc0e2b38af2913c63d3183941e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377203"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841355"
 ---
 # <a name="get-report-api"></a>Uzyskiwanie interfejsu API raportu
 

@@ -3,29 +3,29 @@ title: Zarządzanie kontem w Centrum partnerskim
 ms.topic: conceptual
 ms.date: 03/18/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-enroll
 description: Dowiedz się, Partner Center zarządzać profilem firmy, informacjami o banku i podatku, rolami, uprawnieniami i nie tylko.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d7f37e6ea8873071d432d376a3e03f7830217690
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: bce76c9c2d44d00bd41eae7012113b104bd1aa05
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114434170"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841457"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Zarządzanie kontem Partner Center — profilem firmy, informacjami o banku, rolami, uprawnieniami i nie tylko
 
 **Odpowiednie role:** Administrator globalny | Administrator konta
 
-Konto, które tworzysz w Partner Center rejestracji, to służbowy adres e-mail oraz informacje biznesowe. Po utworzeniu konta zakończysz konfigurowanie pełnego profilu firmy, w tym szczegółów pomocy technicznej, w razie potrzeby zwolnienia z podatku i podstawowych informacji kontaktowych. Konto firmy będzie również obejmować konta użytkowników dla wszystkich użytkowników w Twoim zespole, którzy będą używać Partner Center. Praca, która może obejmować dodawanie klientów lub zarządzanie nimi, sprzedaż subskrypcji, pracę z rozliczeniami i fakturowaniem, tworzenie profilów biznesowych, zarządzanie poleceniami, pracę z programami zachęt, zapewnianie pomocy technicznej i nie tylko.
+Konto, które tworzysz na Partner Center rejestracji, jest służbowym adresem e-mail i informacjami biznesowymi. Po utworzeniu konta zakończysz konfigurowanie pełnego profilu firmy, w tym szczegółów pomocy technicznej, w razie potrzeby zwolnienia z podatku i podstawowych informacji kontaktowych. Konto firmy będzie również obejmować konta użytkowników dla wszystkich użytkowników w Twoim zespole, którzy będą używać Partner Center. Praca, która może obejmować dodawanie klientów lub zarządzanie nimi, sprzedaż subskrypcji, pracę z rozliczeniami i fakturowaniem, tworzenie profilów biznesowych, zarządzanie poleceniami, pracę z programami zachęt, zapewnianie pomocy technicznej i nie tylko.
 
-Zobacz też artykuły [Invite employees to join Partner Center (Zapraszanie pracowników do dołączenia do zespołu)](./partner-membership-center-retirement-faq.md) [i Add a new user (Dodawanie nowego użytkownika).](create-user-accounts-and-set-permissions.md)
+Zobacz również artykuły [Invite employees to join Partner Center (Zapraszanie pracowników do dołączenia do zespołu)](./partner-membership-center-retirement-faq.md) [i Add a new user (Dodawanie nowego użytkownika).](create-user-accounts-and-set-permissions.md)
 
 >[!NOTE]
->Menu Ustawienia konta zmieni się w zależności od programów, w których użytkownik jest zarejestrowany. Jeśli na przykład jesteś partnerem w programie Dostawca rozwiązań w chmurze Program (CSP), będziesz w stanie zarządzać usługami udostępnionym platformy Azure za pomocą **ustawień konta**.
+>Menu Ustawienia konta zmieni się w zależności od programów, w których użytkownik jest zarejestrowany. Jeśli na przykład jesteś partnerem w programie Dostawca rozwiązań w chmurze Programie (CSP), będziesz w stanie zarządzać usługami udostępnionym platformy Azure za pomocą **ustawień konta**.
 
 ## <a name="account-management"></a>Zarządzanie kontami
 
@@ -47,13 +47,13 @@ Po wybraniu  ikony Ustawienia i otwarciu **menu** Ustawień konta domyślny wido
 
 :::image type="content" source="images/accountsettings/reseller.png" alt-text="Menu zawiera karty Partner i Odsprzedawcy.":::
 
-Karta Partner zawiera wszystkie informacje prawne, takie jak zarejestrowana nazwa prawna i adres firmy, a także podstawowe informacje kontaktowe i lokalizacje biznesowe. Karta Reseller (Sprzedawca) dla partnerów wykonujących działalność w programie CSP zawiera **profil pomocy technicznej klienta**.
+Karta Partner zawiera wszystkie informacje prawne, takie jak zarejestrowana nazwa prawna i adres firmy, a także podstawowe informacje kontaktowe i lokalizacje biznesowe. Karta Reseller (Sprzedawca) dla partnerów wykonujących działalność w programie CSP zawiera **profil Customer support (Pomoc techniczna dla klientów).**
 
 Jeśli Twoja firma nie uczestniczy w programie CSP, w widoku domyślnym będzie pokazywana tylko karta **Partner,** która będzie zawierać profil **pomocy technicznej klienta**.
 
 ### <a name="when-you-are-in-more-than-one-account"></a>Jeśli masz więcej niż jedno konto
 
-Możesz być częścią więcej niż jednego konta. Możesz sprawdzić, czy jesteś częścią wielu kont, korzystając z s wyboru konta w menu nawigacji po lewej stronie.
+Możesz być częścią więcej niż jednego konta. Możesz sprawdzić, czy jesteś częścią wielu kont, korzystając z s wyboru "konta" w menu nawigacji po lewej stronie.
 
 :::image type="content" source="images/accountsettings/picker-one.png" alt-text="Zidentyfikuj s wyboru konta.":::
 
@@ -69,7 +69,7 @@ W poniższym przykładzie zalogowany użytkownik jest częścią trzech wyróżn
 
 Za pomocą tych stron można zarządzać obszarami szczegółowej działalności firmy, w tym z profilem biznesowym z prawem, profilem partnera i dzierżawami. Zarządzaj każdym obszarem oddzielnie. Zostały one opisane poniżej. 
 
-:::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Menu informacji prawnych.":::
+:::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Menu informacje prawne.":::
 
 ### <a name="legal-info"></a>Informacje prawne
 
@@ -79,7 +79,7 @@ Po pierwszym dołączeniu Partner Center firma przechodzi proces weryfikacji z f
 
 Możesz sprawdzić profil firmy lub wprowadzić informacje firmowe ręcznie. Jeśli Twoja firma jest zarejestrowana w [firmie Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)użyj identyfikatora DUNS, aby sprawdzić informacje o firmie. Jeśli chcesz samodzielnie podać szczegóły swojej firmy, wybierz pozycję **Ręcznie.**
 
-Jeśli Twoja firma znajduje się w **Stanach, Kolumbii,** **Kyrgyzstanie,** **Nacji,** **Przemysku** lub **Rosji,** a Twój adres zostanie podany ręcznie, zweryfikujemy Twój adres. Jeśli ten, który wprowadzasz, różni się od zweryfikowanego adresu, zalecamy użycie zweryfikowanego adresu. Weryfikacja gwarantuje, że adres jest dokładny i można go wysłać.
+Jeśli Twoja firma znajduje się w **Stanach, Kolumbii,** **Kyrgyzstanie,** Naimnej, **Kolumbii** lub **Rosji,** a Twój adres zostanie podany ręcznie, zweryfikujemy Twój adres.  Jeśli ten, który wprowadzasz, różni się od zweryfikowanego adresu, zalecamy użycie zweryfikowanego adresu. Weryfikacja gwarantuje, że adres jest dokładny i można go wysłać.
 
 ### <a name="primary-contact-email"></a>Podstawowa wiadomość e-mail kontaktowa
 
@@ -97,15 +97,15 @@ Ta strona zawiera Partner Center tożsamości firmowe: identyfikatory MPN, ident
 
 ### <a name="company-profile"></a>Profil firmy
 
-Ta strona określa typ partnerstwa z firmą Microsoft, taki jak niezależny dostawca oprogramowania lub partner programu CSP. Pokazuje ona liczbę klientów, z których pracujesz, roczny przychód i bieżącą wielkość firmy. Rozwiń informacje  o firmie na stronie Szczegóły firmy, aby poinformować firmę Microsoft o typie pracy, którą chcesz wykonać z firmą Microsoft, takiej jak tworzenie aplikacji, odsprzedaj oprogramowanie firmy Microsoft i innych firm lub jesteś integratorem systemów. Opcjonalnie określ, gdzie obecnie prowadzisz działalność biznesową, oraz ustawienia lokalne, w których chcesz rozszerzyć swoją działalność w przyszłości.
+Ta strona określa typ partnerstwa z firmą Microsoft, taki jak niezależny dostawca oprogramowania lub partner programu CSP. Pokazuje ona liczbę klientów, z których pracujesz, roczny przychód i bieżącą wielkość firmy. Rozwiń informacje  o firmie na stronie Szczegóły firmy, aby poinformować firmę Microsoft o typie pracy, którą chcesz wykonać z firmą Microsoft, taką jak tworzenie aplikacji, odsprzedaj oprogramowanie firmy Microsoft i innych firm lub jesteś integratorem systemów. Opcjonalnie określ, gdzie obecnie prowadzisz działalność biznesową, oraz ustawienia lokalne, w których chcesz rozszerzyć swoją działalność w przyszłości.
 
 ### <a name="account-merge-profile"></a>Profil scalania konta
 
-Po zaproszeniu firmy, która ma aktywne konto w Partner Center scalania swojego konta z Twoim, te informacje są zarządzane na **stronie Scalanie** konta. Poszukaj identyfikatora MPN firmy, która ma zostać zaproszona do scalenia z Twoją firmą, wyświetlenia bieżących merges i wysłania zaproszeń do firm. Zaakceptuj lub odrzuć zaproszenie do scalenia konta firmowego z kontem innej firmy w tym miejscu. Aby uzyskać szczegółowe informacje, [zobacz Scalanie konta partnera z innym kontem partnera.](merge-accounts.md)
+Po zaproszeniu firmy, która ma aktywne konto w Partner Center scalania swojego konta z Twoim, te informacje są zarządzane na **stronie Scalanie** konta. Poszukaj identyfikatora MPN firmy, która ma zostać zaproszona do scalenia z Twoją firmą, wyświetlenia bieżących merges i wysłania zaproszeń do firm. Zaakceptuj lub odrzuć zaproszenie do scalenia konta firmowego z kontem innej firmy w tym miejscu. Aby uzyskać szczegółowe informacje, [zobacz Scalanie konta partnerskiego z innym kontem partnera.](merge-accounts.md)
 
 ## <a name="payout-and-tax"></a>Wypłata i podatek
 
-Ta strona zawiera szczegóły wypłaty  i podatku, w tym informacje dotyczące **rachunku,** numeru faktury, numeru nip, numeru NIP dla firmy, numeru VAT, jeśli go masz, oraz używaną walutę.
+Ta strona zawiera szczegóły wypłaty  i podatku, w tym informacje dotyczące **rachunku,** numeru faktury, numeru nip, numeru NIP dla twojej firmy, numeru VAT, jeśli go masz, oraz używaną walutę.
 
 ## <a name="user-management"></a>Zarządzanie użytkownikami
 
@@ -136,7 +136,7 @@ Aby zobaczyć, do których programów masz dostęp:
 
 2. Menu nawigacji po lewej stronie będzie odzwierciedlać programy, w których użytkownik jest zarejestrowany, i będzie wyświetlać opcje dostępne dla każdego programu.
 
-Oto jeden przykład. Załóżmy, że użytkownik ma dostęp do trzech programów na Partner Center nawigacyjnym: programu **MPN,** programu **poleceń** i programu **komercyjnej platformy handlowej.** Po zalogowaniu się Partner Center pulpitu nawigacyjnego zobaczą te trzy programy po lewej stronie ekranu.
+Oto jeden przykład. Załóżmy, że użytkownik ma dostęp do trzech programów na Partner Center nawigacyjnym: programu **MPN,** programu **poleceń** i programu **komercyjnej platformy handlowej.** Po zalogowaniu się do Partner Center pulpitu nawigacyjnego zobaczą te trzy programy po lewej stronie ekranu.
 
 :::image type="content" source="images/accountsettings/programs-enrolled-left-nav.png" alt-text="Menu Zarejestrowane programy.":::
 
@@ -147,7 +147,7 @@ Istnieje wiele Partner Center dostępnych programów. Każdy program ma inne wym
 Aby dowiedzieć się więcej o rejestrowaniu w niektórych Partner Center, zobacz następującą listę częściową:
 
 - [Program komercyjnej platformy handlowej](/azure/marketplace/partner-center-portal/create-account)
-- [Microsoft Partner Network korzyści z członkostwa](mpn-overview.md)
+- [Microsoft Partner Network członkostwa](mpn-overview.md)
 - [Program CSP](./enrolling-in-the-csp-program.md)
 - [Office Sklepie](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
@@ -161,4 +161,4 @@ Aby dowiedzieć się więcej na temat rejestrowania w programach Partner Center,
 - [Zarządzanie kontem MPN: lokalizacje](manage-locations.md)
 - [Resetowanie hasła użytkownika](reset-a-user-password.md)
 - [Interfejs API: uzyskiwanie profilu biznesowego partnera z prawem](/partner-center/develop/get-legal-business-profile)
-- [Odkrywanie ofert i cen na platformie Partner Center platformie handlowej](csp-commercial-marketplace-discover.md)
+- [Odkryj oferty i ceny na platformie handlowej Partner Center platformy handlowej](csp-commercial-marketplace-discover.md)

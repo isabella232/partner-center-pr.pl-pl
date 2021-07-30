@@ -3,18 +3,18 @@ title: Znajdowanie identyfikatora dzierżawy, nazwy domeny, identyfikatora obiek
 ms.topic: how-to
 ms.date: 11/06/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Dowiedz się, jak znaleźć identyfikatory w Azure Portal — identyfikator dzierżawy usługi Azure AD organizacji, nazwę domeny lub identyfikator konkretnego obiektu użytkownika. Niektóre zadania wymagają tych informacji.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 5da41cdbfa7aa1780b31e170a2398e8e7c65df27
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2c313896419053627dd646783a1df2f1bf53753a
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150866"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840539"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Lokalizowanie ważnych identyfikatorów dla użytkownika
 
@@ -33,7 +33,7 @@ W tym artykule opisano, jak [za pomocą Azure Portal](https://portal.azure.com/)
 Wykonaj następujące kroki, aby zlokalizować identyfikator dzierżawy usługi Azure AD lub nazwę domeny podstawowej w Azure Portal. (Jeśli chcesz znaleźć identyfikator dzierżawy programowo, zobacz Znajdowanie identyfikatora dzierżawy za pomocą programu [PowerShell lub interfejsu wiersza polecenia).](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant#find-tenant-id-with-powershell)
 
 > [!NOTE]
-> Identyfikator dzierżawy może być nazywany różnymi nazwami w różnych aplikacjach lub zasobach. Na przykład identyfikator dzierżawy może być określany jako identyfikator katalogu, dzierżawa usługi Azure Active Directory (Azure AD), identyfikator firmy Microsoft lub w przypadku niektórych raportów, nawet identyfikator *tenantguid*.
+> Identyfikator dzierżawy może być nazywany różnymi nazwami w różnych aplikacjach lub zasobach. Na przykład identyfikator dzierżawy może być określany jako identyfikator katalogu, dzierżawa usługi Azure Active Directory (Azure AD), identyfikator firmy Microsoft lub w przypadku niektórych raportów, nawet *identyfikator tenantguid*.
 
 1. Zaloguj się w witrynie [Azure Portal](https://portal.azure.com/).
 
@@ -61,7 +61,7 @@ Samo znalezienie nazwy domeny i identyfikatora dzierżawy może nie być wystarc
 
 3. Znajdź **sekcję Zarządzanie** w menu, a następnie wybierz pozycję **Użytkownicy.**
 
-      :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="Wyświetla Azure Active Directory menu z wyróżnione, opcja Użytkownicy.":::
+      :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="Wyświetla Azure Active Directory menu z wyróżniona opcją Użytkownicy.":::
 
 4. Na stronie Użytkownicy wpisz nazwę użytkownika w polu wyszukiwania.
 
@@ -73,11 +73,11 @@ Samo znalezienie nazwy domeny i identyfikatora dzierżawy może nie być wystarc
 
 6. Znajdź sekcję Tożsamość na stronie profilu użytkownika. W tym miejscu zostanie wyświetlone pole Identyfikator obiektu z unikatowym identyfikatorem obiektu użytkownika.
 
-      :::image type="content" source="images/id/7-find-id-azure-portal-aad-user-profile-object-id.png" alt-text="Wyświetla stronę Profil użytkownika z sekcją Tożsamość i jednym wyróżnione polem identyfikatora obiektu.":::
+      :::image type="content" source="images/id/7-find-id-azure-portal-aad-user-profile-object-id.png" alt-text="Wyświetla stronę Profilu użytkownika z sekcją Tożsamość i jednym wyróżnione polem identyfikatora obiektu.":::
 
 ## <a name="next-steps"></a>Następne kroki
 
 - [Programowe znajdowanie identyfikatora dzierżawy przy użyciu programu PowerShell lub interfejsu wiersza polecenia](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - [Dowiedz się więcej o profilach użytkowników w Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
-- [Dowiedz się, jak partnerzy mogą zobaczyć lub wyeksportować szczegóły klientów w Partner Center](see-your-customer-list.md)
+- [Dowiedz się, jak partnerzy mogą zobaczyć lub wyeksportować szczegóły klienta w Partner Center](see-your-customer-list.md)
 

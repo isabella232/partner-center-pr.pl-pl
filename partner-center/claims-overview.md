@@ -9,25 +9,25 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 5e5f8000032fa09d7752f8c6206325630b995b63
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 180756cb5c658b5ed16119e03bfe9e1271b68599
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148724"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840352"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Zyskaj wspólne środki marketingowe
 
 **Odpowiednie role:** Zachęty dla administratorów | Zachęty użytkownika
 
-Środki na marketing kooperacyjny (współoperacyjność) to środki, które zdobywasz za pośrednictwem programów zachęt firmy Microsoft, przejmując się za działania, które wspierają świadomość produktów firmy Microsoft. Przykłady programów zachęt to Dostawca rozwiązań w chmurze, zarządzany odsprzedawca, hosting i urządzenie Surface.
+Środki na marketing kooperacyjny (współoperacyjność) to środki, które zdobywasz w ramach programów zachęt firmy Microsoft, przejmując się za działania, które wspierają świadomość produktów firmy Microsoft. Przykłady programów zachęt to Dostawca rozwiązań w chmurze, zarządzany odsprzedawca, hosting i urządzenie Surface.
 
 Środki na współoperacyjność umożliwiają prowadzenie działań marketingowych, które zwiększają świadomość marki i zwiększają rozwój potoku sprzedaży. Możesz zainwestować środki na współpracę w działania ułatwiające gotowość, opracowywanie specjalizacji lub uzyskanie certyfikatów firmy Microsoft — działania, które sprzyjają skoncentrowanym rozwiązaniom i centrum doskonałości.
 
 Więcej informacji można znaleźć na stronie [Co-op Funds Resources (Zasoby dotyczące środków współpracy).](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/)
 
 >[!Important]
->Oświadczenia dotyczące współpracy nie mają zastosowania do programów doradczych w zakresie usług online (OSA) Sell, Online Services Usage (OSU) Microsoft 365 i OSU-Business Application Incentive. Aby przesłać roszczenie dotyczące jednego z tych programów, zobacz [Create associearation for associearation using the CPOR model](submit-osa-claim.md)(Tworzenie rejestracji jednokrotnej klienta przy użyciu modelu CPOR).
+>Roszczenia dotyczące współpracy nie mają zastosowania do usług Online Services Advisory (OSA) Sell, Online Services Usage (OSU) -Microsoft 365 i OSU-Business programów zachęt aplikacji. Aby przesłać roszczenie dotyczące jednego z tych programów, zobacz [Create associearation for associearation using the CPOR model](submit-osa-claim.md)(Tworzenie rejestracji jednokrotnej klienta przy użyciu modelu CPOR).
 
 ## <a name="how-co-op-funds-are-calculated"></a>Jak są obliczane środki na współoperacyjną
 
@@ -40,18 +40,18 @@ Więcej informacji na temat czasu płatności i podzielonej wartości procentowe
 
 ## <a name="when-to-claim-your-funds"></a>Kiedy należy roszczeń do środków
 
-Oś czasu środków na współoperacyjną jest podzielona na dwa okresy sześciu miesięcy: H1 i H2. ("H" oznacza pół roku obrachunkowego).
+Oś czasu środków na współpraca jest podzielona na dwa okresy sześciu miesięcy, H1 i H2. ("H" oznacza pół roku obrachunkowego).
 
 - H1 to pierwsza połowa roku obrachunkowego, 1 lipca — 31 grudnia.
 - H2 to druga połowa roku obrachunkowego, 1 stycznia — 30 czerwca.
 
-Okres sześciu miesięcy, w którym są naliczane zarobki, staje się **okresem zarobków.** Te zarobki należy wykorzystać w pewnym momencie w ciągu kolejnych sześciu miesięcy **okresu użycia.** Jeśli nie użyjesz zarobków do końca okresu użycia, z nich nie będziesz korzystać. Okres **roszczeń to** okres sześciu miesięcy, w którym można uzyskać roszczenie dotyczące działań programu zachęt.
+Okres sześciu miesięcy, w którym są naliczane zarobki, staje się **okresem zarobków.** Te zarobki należy wykorzystać w pewnym momencie w ciągu kolejnych sześciu miesięcy **okresu użycia.** Jeśli nie będziesz używać zarobków przed końcem okresu użycia, ich nie będziesz używać. Okres **roszczeń to** okres sześciu miesięcy, w którym można uzyskać roszczenie dotyczące działań programu zachęt.
 
 W poniższej tabeli przedstawiono różne okresy zarobków, użycia i roszczeń. O ile nie określono inaczej, okresy są dłuższe od pierwszego dnia pierwszego miesiąca do ostatniego dnia ostatniego miesiąca.
 
-|  Jeśli okres zarobków/naliczania to  |Okres pół roku obrachunkowego to  |  Okres użycia to  |  Okres roszczenia to  |
+|  Jeśli okres zarobków/naliczania to  |Okres obrachunkowy w połowie roku to  |  Okres użycia to  |  Okres roszczenia to  |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-|**Lipiec– grudzień 2020 r.**| FY21 H1  |  Sty — czerwiec 2021 r.  |  16 lutego — 15 sierpnia 2021 r.  |
+|**Lipiec – grudzień 2020 r.**| FY21 H1  |  Sty — czerwiec 2021 r.  |  16 lutego — 15 sierpnia 2021 r.  |
 |**Sty — czerwiec 2021 r.** |  FY21 H2  |  Lipiec – grudzień 2021 r.  |  16 sierpnia 2021 r. — 15 lutego 2022 r.  |
 |**Lipiec – grudzień 2021 r.**|  FY22 H1  |  Sty — czerwiec 2022 r.  |  16 lutego — 15 sierpnia 2022 r.  |
 |**Sty — czerwiec 2022 r.** |  FY22 H2  |  Lipiec – grudzień 2022 r.  |  16 sierpnia 2022 r. — 15 lutego 2023 r.  |

@@ -3,18 +3,18 @@ title: pakiet Software Assurance usługi planowania wycofania
 ms.topic: article
 ms.date: 04/07/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 description: Usługi planowania firmy Microsoft są wy wycofane.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 791443cbcc4d8ee055ae9e4961d5e5329399e436
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 880a2db785f9e8f14093dd3bf1abae2a9c580ff0
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551507"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840981"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>pakiet Software Assurance usługi planowania wycofania
 
@@ -23,11 +23,11 @@ ms.locfileid: "112551507"
 
 Korzyść z usług planowania zostanie całkowicie wycofana z pakiet Software Assurance, ale klienci mogą nadal pracować z partnerami, aby korzystać z usług planowania w dniach na potrzeby zaangażowania, podczas gdy firmy są ważne. Są to istotne daty prowadzące do wycofania programu: 
 
-- 1 lutego 2020 r. : Usługi planowania w chmurze zostały wycofane.  
-- 1 lutego 2020 r.: Nie można już konwertować trenowania na dni świadczenia usług planowania.  
+- 1 lutego 2020 r.: usługi planowania w chmurze zostały wycofane.  
+- 1 lutego 2020 r.: Nie można już konwertować trenowanych trenów na dni planowania usług.  
 - 1 lutego 2021 r.: Klienci nie będą już naliczać korzyści z usług planowania. 
 - 30 czerwca 2021 r.: ostatni dzień dla klientów na potrzeby tworzenia/przypisywania usług planowania. Wszystkie pozostałe dni usług planowania zostaną usunięte 1 lipca 2021 r.
-- 1 stycznia 2022 r.: ostatni dzień dla partnerów w celu zrealizowania usług planowania. Partner będzie miał 60 dni od wykupu, aby ukończyć proces żądania płatności.  
+- 1 stycznia 2022 r.: ostatni dzień dla partnerów w celu zrealizowania usług planowania. Partner będzie miał 60 dni od realizacji, aby ukończyć proces żądania płatności.  
 
 >[!NOTE]
 >Nie ma żadnych zmian w cyklu życia cyklu życia cyklu życia. Po utworzeniu/przypisaniu klienta rezerwację z zakupem, zaangażowanie klienta i wykup trzeba ukończyć w ciągu 180 dni przed wygaśnięciem ważności certyfikatu.  Aby uzyskać więcej informacji na temat wycofania programu Planning Services, zobacz często zadawane pytania w witrynie zmian korzyści pakiet Software Assurance [(BENEFIT) (WYMAGANE](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) jest zalogowanie).  Wszelkie pytania należy kierować do regionalnego zespołu pomocy technicznej partnera: Pomoc techniczna [dla partnerów EMEA;](mailto:savoucher@msdirectservices.com) [Ogólna pomoc techniczna dla partnerów](https://partner.microsoft.com/dashboard/support/servicerequests)
@@ -35,7 +35,7 @@ Korzyść z usług planowania zostanie całkowicie wycofana z pakiet Software As
 
 ### <a name="get-started"></a>Rozpoczęcie pracy
 
-Jeśli nie masz jeszcze takich pakiet Software Assurance Usług planowania, wykonaj wszystkie poniższe kroki. Jeśli jesteś już aktywny w programach usług planowania, rozpocznij każde nowe zaangażowanie w kroku 4 (4) poniżej.
+Jeśli jesteś nowym użytkownikom usług planowania pakiet Software Assurance, wykonaj wszystkie poniższe kroki. Jeśli jesteś już aktywny w programach usług planowania, rozpocznij każde nowe zaangażowanie w kroku 4 (4) poniżej.
 
 1. Weryfikowanie uprawnień (nowi partnerzy)
 2. Rejestracja (nowi partnerzy)
@@ -52,7 +52,7 @@ W tym artykule wyjaśniono, jak wykonać poszczególne kroki.
 
 Zanim firmy partnerskie i konsultanci będą w stanie zarejestrować się w jednej z ofert usług planowania, muszą spełniać wymagania dotyczące kompetencji w następujący sposób:
 
-**Wymagania dotyczące kompetencji.** Wymagania dotyczące kompetencji są specyficzne dla zaangażowania, które ma zostać dostarczone. Na przykład Twoja firma może zostać zarejestrowane w ofercie usług planowania wdrażania pulpitu (DDPS). Jednak będziesz kwalifikować się do dostarczenia określonego zaangażowania w ramach oferty DDPS, jeśli Twoja firma posiada również kompetencję kwalifikowaną do tego konkretnego zaangażowania.
+**Wymagania dotyczące kompetencji.** Wymagania dotyczące kompetencji są specyficzne dla zaangażowania, które ma zostać dostarczone. Na przykład Twoja firma może zostać zarejestrowane w ofercie usług planowania wdrożenia pulpitu (DDPS). Jednak będziesz kwalifikować się do dostarczenia określonego zaangażowania w ramach oferty DDPS, jeśli Twoja firma posiada również kompetencję kwalifikowaną do tego konkretnego zaangażowania.
 
 >[!NOTE]
 > Aby dowiedzieć się więcej o wymaganiach dotyczących uprawnień do określonych działań, zobacz wymagania dotyczące uprawnień [do zaangażowania usług Planowania.](software-assurance-dps-requirements.md)
@@ -61,8 +61,8 @@ Aby pomóc zweryfikować uprawnienia firmy do rejestracji w określonym zaangaż
 
 1. Zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard/home)
 2. Wybierz **pozycję MPN** z menu, a następnie wybierz **pozycję Programy**.
-3. Wybierz **pozycję Rejestracja programu Software Assurance.**
-4. Wybierz **kartę Rejestracja programu Planning Services** w górnej części strony. Obok wszystkich wymagań lub kompetencji, które zostały już ukończone, zostanie wyświetlony zielony znacznik wyboru.
+3. Wybierz **pozycję Rejestracja w programie Software Assurance.**
+4. Wybierz **kartę Planning Services program enrollment** (Rejestrowanie programu Planning Services) w górnej części strony. Obok wszystkich wymagań lub kompetencji, które zostały już ukończone, zostanie wyświetlony zielony znacznik wyboru.
 
 ## <a name="enroll-new-partners"></a>Rejestracja (nowi partnerzy)
 
@@ -86,13 +86,13 @@ Aby uzyskać szczegółowe instrukcje, które klient musi wykonać, aby utworzy�
 
 ## <a name="validate-and-reserve-voucher-existing-partners"></a>Walidacja i rezerwa walid (istniejący partnerzy)
 
-Po przypisaniu przez klienta do twojej firmy konta w Centrum usługi licencjonowania zbiorowego [(VLSC)](https://www.microsoft.com/Licensing/servicecenter/default.aspx)klient otrzymuje wiadomość e-mail z identyfikatorem użytkownika. Klient musi wysłać ci tę wiadomość e-mail, aby uzyskać informacje potrzebne do zarezerwowania usługi.
+Gdy klient przypisze do Twojej firmy konto w Centrum usługi licencjonowania zbiorowego [(VLSC),](https://www.microsoft.com/Licensing/servicecenter/default.aspx)klient otrzyma wiadomość e-mail z identyfikatorem użytkownika. Klient musi wysłać ci tę wiadomość e-mail, aby uzyskać informacje potrzebne do zarezerwowania usługi.
 
 Jeśli masz szczegóły dotyczące planu, możesz zarezerwować rezerwację i zaplanować zaangażowanie w planowanie. Aby uzyskać szczegółowe instrukcje, [zobacz krok 5](https://go.microsoft.com/fwlink/?linkid=2115983) przepływu pracy.
 
 ## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a>Pełne zaangażowanie i dostarczanie dostaw klientowi (istniejącym partnerom)
 
-Aby zakwalifikować się do realizacji zaangażowania w usługi planowania, konsultant musi ukończyć co najmniej jedno z ocen technicznych lub egzaminów wymaganych do uzyskania kwalifikowania kompetencji w ramach zaangażowania. (Aby dowiedzieć się więcej o ocenach lub egzaminach wymaganych, zobacz wymagania dotyczące uprawnień do zaangażowania w usługi [planowania).](software-assurance-dps-requirements.md)
+Aby zakwalifikować się do realizacji zaangażowania w usługi planowania, konsultant musi ukończyć co najmniej jedno z ocen technicznych lub egzaminów wymaganych do uzyskania kwalifikowania kompetencji w ramach zaangażowania. Aby dowiedzieć się więcej na temat ocen lub wymaganych egzaminów, zapoznaj się z wymaganiami kwalifikacyjnymi dla zaangażowania w [usługi planowania).](software-assurance-dps-requirements.md)
 
 Po zakończeniu zaangażowania firmy i dostarczeniu klientowi końcowych ukończonych dostaw należy wypełnić i przesłać raport ukończenia w trybie online.
 
@@ -104,7 +104,7 @@ Aby można było zafakturować firmę Microsoft za dostarczone zaangażowanie, n
 
 ## <a name="request-payment-from-microsoft-existing-partners"></a>Żądanie płatności od firmy Microsoft (istniejących partnerów)
 
-Po zrealizowaniu usług planowania należy zafakturować firmę Microsoft na płatność. Płatności są obsługiwane za pośrednictwem pakiet Software Assurance płatności online (SAVB).
+Po zrealizowaniu usług planowania należy zafakturować firmę Microsoft na płatność. Płatności są obsługiwane za pośrednictwem pakiet Software Assurance Online Benefit (SAVB).
 
 Aby przesłać fakturę do firmy Microsoft za pośrednictwem aplikacji SAVB, postępuj zgodnie z [instrukcjami w kroku 8](https://go.microsoft.com/fwlink/?linkid=2115983) przepływu pracy.
 

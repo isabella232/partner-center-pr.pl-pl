@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 53ae5c3cf47ab74ad7dc61777ce512b37f4269fa
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 67c09a71b0e5e6774a6306a6af1b0eee6705083e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152039"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840369"
 ---
 # <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Użyj tych zasobów, aby rozpocząć pracę z zachętami
 
@@ -25,7 +25,7 @@ Ten artykuł zawiera krótkie wprowadzenie do programów zachęt firmy Microsoft
 
 Jako partner w organizacji Microsoft Partner Network (MPN), masz dostęp do różnych programów zachęt, które mogą nagradzać Cię za dostarczanie usług klientom. Te programy mogą również pomóc w rozwoju firmy.
 
-Jeśli jesteś nowym użytkownikom zachęt i chcesz dowiedzieć się więcej o dostępnych programach zachęt, zaloguj się do programu Zachęty i inwestycje firmy [Microsoft.](https://partner.microsoft.com/membership/partner-incentives)
+Jeśli jesteś nowym użytkownikom zachęt i chcesz dowiedzieć się więcej o dostępnych programach zachęt, zaloguj się do programu [zachęt i inwestycji firmy Microsoft.](https://partner.microsoft.com/membership/partner-incentives)
 
 > [!NOTE]
 > Jeśli nie jesteś jeszcze partnerem, [rozważ dołączenie do](https://partner.microsoft.com/membership)Microsoft Partner Network . Dzięki temu możesz zacząć korzystać z zachęt i innych korzyści dostępnych dla partnerów w Microsoft Partner Network.  

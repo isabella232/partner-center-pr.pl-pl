@@ -1,28 +1,28 @@
 ---
 title: Dostępne usługi platformy Azure w programie Azure CSP
-description: W tym artykule omówiono usługi platformy Azure, które są i nie są dostępne w programie Azure Cloud Solution Provider (CSP).
+description: W tym artykule omówiono usługi platformy Azure, które są i nie są dostępne w programie Azure Dostawca rozwiązań w chmurze (CSP).
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 author: amitravat
 ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da97dded531b6792a4468d9be9b63367f818b352
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 3147836916f827e6962fb436b74d9ce1716d9f4a
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149744"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841678"
 ---
-# <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Usługi platformy Azure dostępne w programie Azure Cloud Solution Provider (CSP)
+# <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Usługi platformy Azure dostępne w programie Azure Dostawca rozwiązań w chmurze (CSP)
 
 **Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Administrator globalny | Agent pomocy technicznej | Agent sprzedaży | Administrator zarządzania użytkownikami
 
 ## <a name="available-azure-services-in-azure-csp"></a>Dostępne usługi platformy Azure w programie Azure CSP
 
-W tym artykule wymieniono usługi platformy Azure, które są i nie są dostępne w programie Azure Cloud Solution Provider (CSP). Omówiono w nim również dostępność usług w chmurach narodowych Microsoft Azure (Niemcy) [i](https://azure.microsoft.com/overview/clouds/germany/) [Microsoft Azure Government.](https://azure.microsoft.com/overview/clouds/government/)
+W tym artykule wymieniono usługi platformy Azure, które są i nie są dostępne w programie Azure Dostawca rozwiązań w chmurze (CSP). Omówiono w nim również dostępność usług w chmurach krajowych Microsoft Azure [Niemcy](https://azure.microsoft.com/overview/clouds/germany/) i [Microsoft Azure Government.](https://azure.microsoft.com/overview/clouds/government/)
 
 >[!Note]
 > [Platforma Azure (Chiny)](https://www.azure.cn/) nie jest dostępna w Azure CSP programie.
@@ -41,11 +41,11 @@ Następujące usługi wymagają specjalnych konfiguracji w programie CSP:
 
 - [Usługa Key Vault](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
-- [Azure Time Series Insights](https://azure.microsoft.com/services/time-series-insights/) Tylko użytkownicy z dzierżawy klienta mogą uzyskać dostęp do danych w Time Series Insights klienta. Partnerzy mogą domyślnie zarządzać środowiskiem Time Series Insights klienta, ale jeśli potrzebują dostępu do danych w nim, muszą zostać dodani do dzierżawy klienta.
+- [Azure Time Series Szczegółowe informacje](https://azure.microsoft.com/services/time-series-insights/) Tylko użytkownicy z dzierżawy klienta mogą uzyskać dostęp do danych w ich środowisku Szczegółowe informacje Time Series. Partnerzy mogą domyślnie zarządzać środowiskiem usługi Time Series Szczegółowe informacje, ale jeśli potrzebują dostępu do danych w tym środowisku, muszą zostać dodani do dzierżawy klienta.
 
 ## <a name="visual-studio-marketplace"></a>Witryna Visual Studio Marketplace
 
-Teraz możesz zakupić elementy wymienione poniżej w Visual Studio Marketplace, z wyjątkiem rozszerzeń innych firm.
+Teraz możesz kupić elementy wymienione poniżej w witrynie Visual Studio Marketplace, z wyjątkiem rozszerzeń innych firm.
 
 - [Azure DevOps](https://www.visualstudio.com/team-services/)
 
@@ -53,7 +53,7 @@ Teraz możesz zakupić elementy wymienione poniżej w Visual Studio Marketplace,
 
 - [Xamarin University trenowania](https://marketplace.visualstudio.com/items?itemName=ms.xamarin-university)
 
-Aby ułatwić Ci pracę, utworzono filmy wideo i dokumentację na temat sposobu skonfigurowania i zakupu aplikacji oraz zarządzania nimi [Azure DevOps](/vsts/billing/csp/set-up-csp-customer) CSP.
+Aby ułatwić Ci pracę, utworzono filmy wideo i dokumentację na temat sposobu Azure DevOps i zarządzania nimi w [programie](/vsts/billing/csp/set-up-csp-customer) CSP.
 
 ## <a name="azure-marketplace-items-in-azure-csp"></a>Elementy witryny Azure Marketplace w programie Azure CSP
 
@@ -133,20 +133,20 @@ W poniższej tabeli przedstawiono regularnie aktualizowaną listę dostępnych p
 |  Azure Analysis Services  |    |    |
 |  Power BI Embedded  |    |    |
 |  **AI + Cognitive Services**  |    |    |
-|  Usługa Machine Learning  |    |  X  |
+|  Machine Learning  |    |  X  |
 |  Usługa Azure Bot  |    |    |
 |  Cognitive Services  |    |    |
 |  Sztuczna inteligencja w usłudze Azure Batch  |    |    |
 |  **Internet rzeczy**  |    |    |
 |  Usługa IoT Hub  |  X  |  X  |
 |  IoT Central  |    |    |
-|  Usługa Machine Learning  |    |  X  |
+|  Machine Learning  |    |  X  |
 |  Stream Analytics  |    |  X  |
 |  Event Hubs  |  X  |  X  |
 |  Location-Based Services  |    |    |
 |  Notification Hubs  |  X  |  X  |
 |  Time Series Insights  |    |    |
-|  **Integracja dla przedsiębiorstw**  |    |    |
+|  **Enterprise Integracji**  |    |    |
 |  StorSimple  |  X  |    |
 |  API Management  |    |    |
 |  Event Grid  |    |    |
@@ -184,4 +184,4 @@ W poniższej tabeli przedstawiono regularnie aktualizowaną listę dostępnych p
 
 - [Dowiedz się](/azure/cloud-solution-provider/overview/partner-center-overview) więcej o dostępnych możliwościach platformy Azure w Partner Center.
 
-- [Tworzenie](/azure/cloud-solution-provider/customer-management/create-new-customer) pierwszego klienta w Azure CSP i wdrażanie usług platformy Azure.
+- [Utwórz](/azure/cloud-solution-provider/customer-management/create-new-customer) pierwszego klienta w usłudze Azure CSP i wd wdrażaj usługi platformy Azure.

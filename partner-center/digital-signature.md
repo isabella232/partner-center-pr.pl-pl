@@ -3,18 +3,18 @@ title: Możliwość podpisów cyfrowych
 ms.topic: how-to
 ms.date: 07/21/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 description: Dowiedz się, Partner Center partnerzy w Indiach mogą wyświetlać faktury podpisane cyfrowo i odbierać cyfrowe kopie faktur dla zamówień utworzonych w Partner Center.
 author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4253c59a85c8353856b16f60957761f4f2245da3
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: c9a910468c9f743cac848cbd9392f3ff64827cec
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147194"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840658"
 ---
 # <a name="view-digitally-signed-invoices"></a>Wyświetlanie faktur podpisanych cyfrowo
 
@@ -36,7 +36,7 @@ Partnerzy w Indiach widzą teraz, że firma Microsoft ma podpisane cyfrowo faktu
 
 3. Wybierz podpis. Zostanie wyświetlony certyfikat z informacją o ważności.
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="Podpisana faktura z polem Autoryzowany podpis i stanem weryfikacji podpisu, okno dialogowe ze szczegółami, opcja Właściwości sygnatury, opcja Anuluj."::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="Podpisana faktura z polem autoryzowanych podpisów i oknie dialogowym Stan weryfikacji podpisu ze szczegółami, opcją Właściwości sygnatury, opcją Anuluj."::: 
 
 4. Wybierz **pozycję Właściwości sygnatury,** aby wyświetlić więcej szczegółów dotyczących ważności sygnatury.
 
@@ -44,11 +44,11 @@ Partnerzy w Indiach widzą teraz, że firma Microsoft ma podpisane cyfrowo faktu
 
 4. Możesz również upewnić się, że ścieżki certyfikacji są poprawne i że certyfikat jest zaufany.
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="Okno dialogowe Podgląd certyfikatów zawiera kilka kart z większej liczby szczegółów dotyczących certyfikatu i całego jego łańcucha wystawiania.":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="Okno dialogowe Podgląd certyfikatów zawiera kilka kart z większej liczby szczegółów dotyczących certyfikatu i jego całego łańcucha wystawiania.":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>Dodatkowe informacje na temat faktur i podpisów cyfrowych
 
-Kopia cyfrowa zostanie wysyłana do osoby, która utworzyła zamówienie w Partner Center. Nie można uzyskać podpisanych cyfrowo faktur za faktury wystawione przed 17 lipca 2020 r. Ponadto ręcznie podpisane faktury nie będą dostępne.
+Kopia cyfrowa zostanie wysłane do osoby, która utworzyła zamówienie w Partner Center. Nie można uzyskać podpisanych cyfrowo faktur za faktury wystawione przed 17 lipca 2020 r. Ponadto ręcznie podpisane faktury nie będą dostępne.
 
 ## <a name="next-steps"></a>Następne kroki
 

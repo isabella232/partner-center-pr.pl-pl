@@ -1,19 +1,19 @@
 ---
-title: Paradygmat dostępu programowego dla Szczegółowe informacje danych
+title: Paradygmat dostępu programowego dla danych szczegółowych informacji
 description: Opis przepływu wysokiego poziomu wzorca wywołań interfejsu API dla analizy programowej. Interfejsy API służące do uzyskiwania dostępu do raportów analizy szczegółowych informacji partnerów są również objęte analizą.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: dcdd54fcc744fdb1683259203188c309a3949eff
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 1a06da353c8069d15d597faeaaf8700df5f62fd1
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376982"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841100"
 ---
 # <a name="programmatic-access-paradigm"></a>Paradygmat dostępu programowego
 
@@ -29,7 +29,7 @@ Ta lista zawiera więcej szczegółów na temat rysunku 1.
 3. Następnie aplikacja klienjąca musi wywołać interfejs [API](#create-report-api) tworzenia raportu przy użyciu parametru QueryId wraz z datą rozpoczęcia raportu, interwałem powtórzeń, cyklem i opcjonalnym URI wywołania zwrotnego.
 4. W przypadku powodzenia interfejs [API tworzenia raportu](#create-report-api) zwraca wartość ReportId.
 5. Aplikacja klienjąca jest powiadamiana pod adresem URL wywołania zwrotnego, gdy tylko dane raportu będą gotowe do pobrania.
-6. Następnie aplikacja kliency używa interfejsu API get [report executions do](#get-report-execution-api) wykonywania zapytań o stan raportu przy użyciu identyfikatora raportu i zakresu dat.
+6. Następnie aplikacja kliency używa interfejsu [API get report executions do](#get-report-execution-api) wykonywania zapytań o stan raportu przy użyciu identyfikatora raportu i zakresu dat.
 7. W przypadku powodzenia jest zwracany link pobierania raportu, a aplikacja może zainicjować pobieranie danych.
 
 ## <a name="report-query-language-specification"></a>Specyfikacja języka zapytań raportów
@@ -38,11 +38,11 @@ Chociaż zapewniamy zapytania [systemowe, których](insights-programmatic-system
 
 ## <a name="create-report-query-api"></a>Tworzenie interfejsu API zapytań raportu
 
-Interfejs API pomaga tworzyć zapytania niestandardowe definiujące zestaw danych, z którego należy wyeksportować kolumny i metryki. Interfejs API zapewnia elastyczność tworzenia nowego szablonu raportowania w zależności od potrzeb biznesowych.  
+Interfejs API ułatwia tworzenie zapytań niestandardowych, które definiują zestaw danych, z którego należy wyeksportować kolumny i metryki. Interfejs API zapewnia elastyczność tworzenia nowego szablonu raportowania w zależności od potrzeb biznesowych.  
 
-Możesz również użyć zapytań [systemowych, które](insights-programmatic-system-queries.md) udostępniliśmy. Gdy niestandardowe szablony raportów nie są potrzebne, można wywołać interfejs [API](#create-report-api) tworzenia raportów bezpośrednio przy użyciu podanych zapytań systemowych QueryId.  
+Możesz również użyć zapytań [systemowych, które](insights-programmatic-system-queries.md) udostępniliśmy. Gdy niestandardowe szablony raportów nie są potrzebne, możesz wywołać interfejs [API](#create-report-api) tworzenia raportów bezpośrednio przy użyciu podanych zapytań systemowych QueryId.  
 
-W poniższym przykładzie pokazano, jak utworzyć zapytanie niestandardowe, aby uzyskać 10 klientów z najlepszymi przychodami w ostatnim miesiącu.
+W poniższym przykładzie pokazano, jak utworzyć zapytanie niestandardowe, aby uzyskać 10 najlepszych klientów według przychodu w ostatnim miesiącu.
 
 ### <a name="request-syntax"></a>Składnia żądania
 
@@ -140,22 +140,22 @@ Ta tabela zawiera kluczowe definicje elementów w ładunku żądania.
 
 ## <a name="create-report-api"></a>Tworzenie interfejsu API raportu
 
-Po pomyślnym utworzeniu niestandardowego szablonu raportu i [](#create-report-query-api) otrzymaniu pola QueryID w ramach odpowiedzi na zapytanie dotyczące tworzenia raportu ten interfejs API może zostać wywołany w celu zaplanowania wykonywania zapytania w regularnych odstępach czasu. Można ustawić częstotliwość i harmonogram dostarczenia raportu.
+Po pomyślnym utworzeniu niestandardowego szablonu raportu i [](#create-report-query-api) otrzymaniu pola QueryID w ramach odpowiedzi na zapytanie dotyczące raportu ten interfejs API może zostać wywołany w celu zaplanowania wykonywania zapytania w regularnych odstępach czasu. Można ustawić częstotliwość i harmonogram dostarczenia raportu.
 W przypadku zapytań systemowych, które zapewniamy, interfejs API tworzenia raportu może być również wywoływany za pomocą [queryId](insights-programmatic-system-queries.md).
 
 ### <a name="callback-url"></a>Adres URL wywołania zwrotnego
 
-Interfejs API tworzenia raportu akceptuje adres URL wywołania zwrotnego. Ten adres URL zostanie wywołany po pomyślnym generowaniu raportu. Adres URL wywołania zwrotnego powinien być publicznie dostępny. Oprócz adresu URL można również określić metodę wywołania zwrotnego. Metodą wywołania zwrotnego może być tylko "GET" lub "POST". Metoda domyślna, jeśli nie zostanie przekazana żadna wartość, to "POST". ReportId, który zakończył generowanie zawsze będzie przekazywany z powrotem podczas wywołania zwrotnego.
+Interfejs API tworzenia raportu akceptuje adres URL wywołania zwrotnego. Ten adres URL zostanie wywołany po pomyślnym zakończeniu generowania raportu. Adres URL wywołania zwrotnego powinien być publicznie dostępny. Oprócz adresu URL można również określić metodę wywołania zwrotnego. Metodą wywołania zwrotnego może być tylko "GET" lub "POST". Jeśli nie zostanie przekazana żadna wartość, domyślną metodą będzie "POST". Podczas wywołania zwrotnego zawsze zostanie przekazany raport reportId, który zakończył generowanie.
 
-Wywołanie zwrotne POST: Jeśli przekazany adres URL to `https://www.contosso.com/callback` , wywołany zwrotny adres URL to . `https://www.contosso.com/callback/<reportID>` 
+Wywołanie zwrotne POST: Jeśli przekazany adres URL to `https://www.contosso.com/callback` , wywołany zwrotny adres URL będzie miał 1000. `https://www.contosso.com/callback/<reportID>` 
 
-Wywołanie zwrotne GET: Jeśli przekazany adres URL to `https://www.contosso.com/callback` , wywołany zwrotny adres URL to . `https://www.contosso.com/callback?reportId=<reportID>` 
+Wywołanie zwrotne GET: jeśli przekazany adres URL to `https://www.contosso.com/callback` , wywołany zwrotny adres URL będzie miał 2000. `https://www.contosso.com/callback?reportId=<reportID>` 
 
-### <a name="executenow-reports"></a>Raporty executeNow
+### <a name="executenow-reports"></a>Raporty ExecuteNow
 
-Istnieje aprowizowanie do generowania raportu bez planowania. Ładunek interfejsu API tworzenia raportu może akceptować parametr , który będzie kolejkować raport do wygenerowania zaraz po `ExecuteNow` wywołaniu interfejsu API. W `ExecuteNow` przypadku ustawienia wartości true pola , , są `StartTime` ignorowane, ponieważ te `RecurrenceCount` `RecurrenceInterval` raporty nie są zaplanowane.
+Istnieje aprowizowanie do generowania raportu bez planowania. Ładunek interfejsu API tworzenia raportu może akceptować parametr , który będzie kolejkować raport do wygenerowania natychmiast po `ExecuteNow` wywołaniu interfejsu API. W `ExecuteNow` przypadku ustawienia wartości true pola , , są `StartTime` ignorowane, ponieważ te `RecurrenceCount` `RecurrenceInterval` raporty nie są zaplanowane.
 
-Dwa dodatkowe pola mogą być przekazywane, gdy `ExecuteNow` ma wartość true, `QueryStartTime` i `QueryEndTime` . Te dwa pola `TIMESPAN` zastąpią pole w zapytaniu. Te pola nie mają zastosowania do zaplanowanych raportów, ponieważ dane będą generowane w sposób ciągły przez ustalony czas, który nie zmienia się.
+W przypadku wartości true można dodać `ExecuteNow` dwa `QueryStartTime` dodatkowe pola: i `QueryEndTime` . Te dwa pola `TIMESPAN` zastąpią pole w zapytaniu. Te pola nie mają zastosowania do zaplanowanych raportów, ponieważ dane będą generowane w sposób ciągły przez ustalony czas, który nie zmienia się.
 
 ### <a name="request-syntax"></a>Składnia żądania
 
@@ -199,7 +199,7 @@ Brak
 
 ### <a name="glossary"></a>Słownik
 
-Poniżej przedstawiono kluczowe definicje elementów w ładunku żądania:
+Poniżej przedstawiono kluczowe definicje elementów ładunku żądania:
 
 |    Parametr     |    Wymagane     |    Opis     |    Dozwolone wartości     |
 |    ----    |    ----    |    ----    |    ----    |
@@ -208,9 +208,9 @@ Poniżej przedstawiono kluczowe definicje elementów w ładunku żądania:
 |    QueryId     |    Yes     |    Identyfikator zapytania raportu     |    ciąg     |
 |    StartTime     |    Yes     |    Znacznik czasu UTC, od którego rozpocznie się generowanie raportu. <br> Format powinien być: yyyy-MM-ddTHH:mm:ssZ       |    ciąg     |
 |    ExecuteNow     |    Nie     |    Ten parametr powinien służyć do tworzenia raportu, który zostanie wykonany tylko raz. `StartTime`, `RecurrenceInterval` i `RecurrenceCount` są ignorowane, jeśli jest ustawiona na wartość true. Raport jest wykonywany natychmiast w sposób asynchroniczny     |    true/false     |
-|    QueryStartTime     |    Nie     |    Opcjonalnie określa czas rozpoczęcia zapytania wyodrębniania danych. Ten parametr ma zastosowanie tylko w przypadku raportu wykonania raz, dla których `ExecuteNow` ustawiono wartość true. Ustawienie zastąpień tego `TIMESPAN` parametru podanych w zapytaniu. Format powinien być yyyy-MM-ddTHH:mm:ssZ     |    Sygnatura czasowa jako ciąg     |
-|    QueryEndTime     |    Nie     |    Opcjonalnie określa czas zakończenia zapytania wyodrębniania danych. Ten parametr ma zastosowanie tylko w przypadku raportu wykonania raz, dla których `ExecuteNow` ustawiono wartość true. Ustawienie zastąpień tego `TIMESPAN` parametru podanych w zapytaniu. Format powinien być yyyy-MM-ddTHH:mm:ssZ     |    Sygnatura czasowa jako ciąg     |
-|    RecurrenceInterval     |    Yes     |    Częstotliwość w godzinach, z jaką raport powinien zostać wygenerowany. <br> Wartość minimalna to 4, a wartość maksymalna to 2160.      |    liczba całkowita     |
+|    QueryStartTime     |    Nie     |    Opcjonalnie określa czas rozpoczęcia dla zapytania wyodrębniania danych. Ten parametr ma zastosowanie tylko w przypadku raportu wykonania raz, dla których `ExecuteNow` ustawiono wartość true. Ustawienie tego parametru zastępuje `TIMESPAN` podane w zapytaniu. Format powinien być yyyy-MM-ddTHH:mm:ssZ     |    Sygnatura czasowa jako ciąg     |
+|    QueryEndTime     |    Nie     |    Opcjonalnie określa czas zakończenia zapytania wyodrębniania danych. Ten parametr ma zastosowanie tylko w przypadku raportu wykonania raz, dla których `ExecuteNow` ustawiono wartość true. Ustawienie tego parametru zastępuje `TIMESPAN` podane w zapytaniu. Format powinien być yyyy-MM-ddTHH:mm:ssZ     |    Sygnatura czasowa jako ciąg     |
+|    CyklInterval     |    Yes     |    Częstotliwość w godzinach, z jaką powinien zostać wygenerowany raport. <br> Wartość minimalna to 4, a wartość maksymalna to 2160.      |    liczba całkowita     |
 |    RecurrenceCount     |    Nie     |    Liczba raportów do wygenerowania.     |    liczba całkowita     |
 |    Format     |    Nie     |    Format wyeksportowanego pliku. <br> Wartość domyślna to CSV.    |    "CSV"/"TSV"     |
 |    CallbackUrl     |    Nie     |    Publicznie dostępny adres URL, który można opcjonalnie skonfigurować jako miejsce docelowe wywołania zwrotnego     |    Ciąg (adres URL HTTP)     |
@@ -275,16 +275,16 @@ Poniżej przedstawiono kluczowe definicje elementów w odpowiedzi:
 |    RecurrenceInterval     |    Interwał cyklu zapewniany podczas tworzenia raportu     |
 |    RecurrenceCount     |    Liczba cyklów zapewniana podczas tworzenia raportu.      |
 |    CallbackUrl     |    Adres URL wywołania zwrotnego podany w żądaniu     |
-|    CallbackMethod     |    Metoda wywołania zwrotnego dostarczana w żądaniu     |
+|    CallbackMethod     |    Metoda wywołania zwrotnego podana w żądaniu     |
 |    Format     |    Format plików raportu. Możliwe wartości to `CSV` lub `TSV` .     |
-|    TotalCount     |    Liczba rekordów w tablicy Value     |
+|    Łączna liczba     |    Liczba rekordów w tablicy Value     |
 |    Statuscode     |    Kod wyniku     |
-|    message     |    Możliwe wartości to 200, 400, 401, 403, 500. Komunikat o stanie z wykonywania interfejsu API     |
+|    message     |    Możliwe wartości to 200, 400, 401, 403, 500. Komunikat o stanie z wykonania interfejsu API     |
 |        |        |
 
 ## <a name="get-report-execution-api"></a>Uzyskiwanie interfejsu API wykonywania raportu
 
-Ta metoda umożliwia wykonywanie zapytań o stan wykonania raportu przy użyciu raportu otrzymywanego z interfejsu [API tworzenia raportu.](#create-report-api) Metoda zwraca link pobierania raportu, jeśli raport jest gotowy do pobrania. W przeciwnym razie metoda zwraca stan. Ten interfejs API umożliwia również uzyskiwanie wszystkich wykonań, które miały miejsce dla danego raportu.  
+Tej metody można użyć do wykonywania zapytań o stan wykonania raportu przy użyciu reportidu otrzymanego z interfejsu [API tworzenia raportu.](#create-report-api) Metoda zwraca link pobierania raportu, jeśli raport jest gotowy do pobrania. W przeciwnym razie metoda zwraca stan. Możesz również użyć tego interfejsu API, aby uzyskać wszystkie wykonania, które miały miejsce dla danego raportu.  
 
 >[!IMPORTANT]
 >Ten interfejs API ma domyślne parametry zapytania ustawione dla `executionStatus=Completed` i `getLatestExecution=true` . W związku z tym wywołanie interfejsu API przed pierwszym pomyślnym wykonaniem raportu zwróci kod 404. Oczekujące wykonania można uzyskać, ustawiając . `executionStatus=Pending`
@@ -306,7 +306,7 @@ Ta metoda umożliwia wykonywanie zapytań o stan wykonania raportu przy użyciu 
 
 |    Nazwa parametru    |    Wymagany    |    Typ    |    Opis    |
 |    ----    |    ----    |    ----    |    ----    |
-|    reportId    |    Yes    |    ciąg    |    Filtruj, aby uzyskać szczegóły wykonywania tylko raportów z argumentem reportId podanym w tym argumentze. Można określić wiele elementów reportId, oddzielając je średnikiem "; ".    |
+|    reportId    |    Yes    |    ciąg    |    Filtruj, aby uzyskać szczegóły wykonywania tylko raportów z argumentem reportId podanym w tym argumentie. Można określić wiele elementów reportId, oddzielając je średnikiem "; ".    |
 |        |        |        |        |
 
 ### <a name="query-parameter"></a>Parametr zapytania
@@ -314,8 +314,8 @@ Ta metoda umożliwia wykonywanie zapytań o stan wykonania raportu przy użyciu 
 |    Nazwa parametru    |    Wymagany    |    Typ    |    Opis    |
 |    ----    |    ----    |    ----    |    ----    |
 |    Executionid    |    Nie    |    ciąg    |    Filtruj, aby uzyskać szczegółowe informacje tylko o raportach z argumentem executionId podanym w tym argumentie. Można określić wiele elementów executionId, oddzielając je średnikiem "; ".    |
-|    Executionstatus    |    Nie    |    Ciąg/wyli).    |    Filtruj, aby uzyskać szczegółowe informacje tylko o raportach z argumentem executionStatus podanym w tym argumentie. <br> Prawidłowe wartości to: `Pending` `Running` , i `Paused` `Completed` . <br> Wartość domyślna to `Completed`. <br> Wiele stanów można określić, oddzielając je średnikiem "; ".    |
-|    getLatestExecution    |    Nie    |    boolean    |    Interfejs API zwróci szczegóły najnowszego wykonania. Domyślnie ten parametr ma wartość true.<br> Jeśli zdecydujesz się przekazać wartość tego parametru jako false, interfejs API zwróci wystąpienia wykonywania z ostatnich 90 dni.    |
+|    Executionstatus    |    Nie    |    Ciąg/wyli).    |    Filtruj, aby uzyskać szczegółowe informacje tylko o raportach z argumentem executionStatus podanym w tym argumentie. <br> Prawidłowe wartości to: `Pending` `Running` , i `Paused` `Completed` . <br> Wartość domyślna to `Completed`. <br> Wiele stanów można określić, oddzielając je średnikami "; ".    |
+|    getLatestExecution    |    Nie    |    boolean    |    Interfejs API zwróci szczegóły najnowszego wykonania. Domyślnie ten parametr ma wartość true.<br> Jeśli zdecydujesz się przekazać wartość tego parametru jako false, interfejs API zwróci wystąpienia wykonania z ostatnich 90 dni.    |
 |        |        |        |        |
 
 ### <a name="sample-request-payload"></a>Ładunek przykładowego żądania

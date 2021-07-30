@@ -3,18 +3,18 @@ title: Oferty wyłącznie w witrynie Marketplace od isvs
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Dowiedz się, w jaki sposób niezależni dostawcy oprogramowania (ISV) sprawiają, że niektóre oferty są wyłączne i dostępne tylko dla określonych partnerów CSP.
+ms.subservice: partnercenter-pricing
+description: Dowiedz się, w jaki sposób niezależni dostawcy oprogramowania (ISV) sprawiają, że niektóre oferty są wyłączne i dostępne tylko dla określonych partnerów programu CSP.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 35a4e08ade5c5dcfb796535ed117e3bf1f33cabd
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 7d7abd8e2eea2d22178194832ff8ec0370ab05eb
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151801"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840046"
 ---
 # <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Oferty na platformie handlowej z wyłącznością od niezależnych dostawców oprogramowania
 

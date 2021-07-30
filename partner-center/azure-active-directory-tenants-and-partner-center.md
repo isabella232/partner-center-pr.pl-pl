@@ -2,19 +2,19 @@
 title: Łączenie konta służbowego w celu uzyskania dostępu do Partner Center
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Utwórz konto służbowe, które łączy Twoją firmę z Partner Center kontem. Dzięki temu pracownicy w firmie mogą uzyskać dostęp do Partner Center.
 author: vinayks
 ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 6/17/2021
-ms.openlocfilehash: 69aa45de55a4356eaab1bcd4cd309feb14de9f6e
-ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
+ms.openlocfilehash: 04624db5201b3a0e57b74b43678f6f2cd134c5c9
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112318065"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841695"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Tworzenie konta służbowego, które łączy twoją firmę z kontem Partner Center konto
 
@@ -39,7 +39,7 @@ Jeśli nie masz pewności, czy firma ma konto służbowe, wykonaj następujące 
 
 1. Zaloguj się w witrynie [Azure Portal](https://portal.azure.com).
 
-2. Wybierz Azure Active Directory menu nawigacji, a następnie wybierz **pozycję Custom Domain Nazwy.**
+2. Wybierz Azure Active Directory menu nawigacji, a następnie wybierz pozycję **Custom Domain Nazwy.**
 
 3. Jeśli masz już konto służbowe, nazwa domeny zostanie wymieniona.
 
@@ -61,7 +61,7 @@ Microsoft Azure to platforma chmury publicznej, której firmy mogą używać do 
 
 Po zakupie subskrypcji platformy Azure zasadniczo wynajmujesz dedykowane, bezpieczne miejsce w chmurze publicznej Azure, nie różni się zbytnie od wynajmowania podłogi w budynku biurowym w celu przechowywania fizycznej firmy. Właściciel budynku biurowego jest dzierżawcą.
 
-Konto służbowe platformy Azure to dedykowana i odizolowana wirtualna reprezentacja firmy w chmurze publicznej platformy Azure utworzona automatycznie podczas subskrybowania usługi w chmurze firmy Microsoft, takiej jak Azure, Microsoft Intune lub Office 365.
+Konto służbowe platformy Azure to dedykowana i odizolowana wirtualna reprezentacja firmy w chmurze publicznej Platformy Azure, utworzona automatycznie podczas subskrybowania usługi w chmurze firmy Microsoft, takiej jak Azure, Microsoft Intune lub Office 365.
 
 Twoje konto służbowe hostuje użytkowników usługi Azure AD i informacje o nich — ich hasła, dane profilu, uprawnienia i tak dalej. Konto służbowe zawiera również grupy, aplikacje i inne informacje dotyczące firmy i jej zabezpieczeń.
 

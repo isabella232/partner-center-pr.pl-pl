@@ -3,18 +3,18 @@ title: Nawiązywanie relacji z klientami
 description: Jeśli jesteś odsprzedawcą pośrednim w programie CSP, ten artykuł pomoże Ci nawiązać połączenie z nowymi i istniejącymi klientami.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 ms.custom: contperf-fy21q2
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 6fe2eb7af3fbfa826496c1de409675cd84d92ef5
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9d9798bdbf83bbe7d812f5bbf83b81fb8fcde373
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148435"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840284"
 ---
 # <a name="connect-with-customers"></a>Nawiązywanie relacji z klientami
 
@@ -22,29 +22,29 @@ ms.locfileid: "110148435"
 **Odpowiednie role:** Administrator globalny | Agent administracyjny
 
 
-Aby wykonać transakcję z klientami na Partner Center, klienci muszą mieć konta Partner Center i należy ustanowić z nimi relacje odsprzedawcy. Aby umożliwić dostawcy pośredniego zakup subskrypcji i usług w imieniu klientów, dostawca musi również mieć relacje odsprzedawcy z klientami.
+Aby można było nawiązywać transakcje z Partner Center, klienci muszą mieć konta Partner Center klienta i należy ustanowić z nimi relacje odsprzedawcy. Aby umożliwić dostawcy pośredniego zakup subskrypcji i usług w imieniu klientów, dostawca musi również mieć relacje odsprzedawcy z klientami.
 
-## <a name="connect-with-existing-customers"></a>Nawiązywanie połączenia z istniejącymi klientami
+## <a name="connect-with-existing-customers"></a>Połączenie z istniejącymi klientami
 
-Po pomyślnym zarejestrowaniu się jako odsprzedawca pośredni zobaczysz tych samych klientów w Partner Center, z których już masz do pracy w innych portalach. Takie inne portale obejmują centrum administracyjne usługi Office 365 lub Azure Portal. Aby wyświetlić listę klientów, wybierz pozycję **Klienci** **z** Partner Center menu.
+Po pomyślnym zarejestrowaniu się jako odsprzedawca pośredni zobaczysz tych samych klientów w Partner Center, z których już masz do pracy w innych portalach. Takie inne portale obejmują Office 365 administracyjnego lub Azure Portal. Aby wyświetlić listę klientów, wybierz pozycję **Klienci** z **Partner Center** menu.
 
-W przypadku nawiązywania połączenia z dostawcą pośrednim nie można automatycznie uzyskać klientów dostawcy pośredniego. Podobnie klienci, z którym pracujesz samodzielnie lub za pośrednictwem dostawcy pośredniego, ale nie za pośrednictwem usługi Partner Center, nie będą automatycznie pojawiać się na liście klientów podczas rejestrowania w Partner Center. Musisz ustanowić relację odsprzedawcy z klientami, aby transakcje w Partner Center.  W tym celu należy wysłać do nich wiadomość e-mail z zaproszeniem w celu nawiązania Partner Center, jak opisano poniżej.
+W przypadku nawiązywania połączenia z dostawcą pośrednim nie można automatycznie uzyskać klientów tego dostawcy pośredniego. Podobnie klienci, z którym pracujesz samodzielnie lub za pośrednictwem dostawcy pośredniego, ale nie za pośrednictwem usługi Partner Center, nie będą automatycznie pojawiać się na liście klientów podczas rejestrowania w Partner Center. Należy ustanowić relację odsprzedawcy z klientami w celu transakcji w Partner Center.  W tym celu należy wysłać do nich wiadomość e-mail z zaproszeniem w celu nawiązania połączenia Partner Center, jak opisano poniżej.
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Zapraszanie klienta do ustanowienia relacji odsprzedawcy
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Zapraszanie klienta do nawiązania relacji odsprzedawcy z Toem
 
-1. Wybierz **pozycję Customers** (Klienci) **Partner Center** menu aplikacji, a następnie wybierz pozycję Request a reseller relationship **(Zażądaj relacji odsprzedawcy).**
+1. Wybierz **pozycję Customers** (Klienci) z menu **Partner Center** a następnie wybierz pozycję Request a reseller relationship **(Zażądaj relacji odsprzedawcy).**
 
-2. Na następnej stronie przejrzyj wersję roboczą wiadomości e-mail. Możesz otworzyć wiadomość w wersji roboczej w wiadomości e-mail lub skopiować wiadomość do schowka i wkleić ją do wiadomości e-mail.
+2. Na następnej stronie przejrzyj wersję roboczą wiadomości e-mail. Możesz otworzyć wiadomość roboczą w wiadomości e-mail lub skopiować wiadomość do schowka i wkleić ją do wiadomości e-mail.
 
    Tekst wiadomości można edytować, ale należy pamiętać o zachowaniu spersonalizowanego linku umożliwiającego bezpośrednie połączenie klienta z Twoim kontem. Po **ukończeniu** tego kroku wybierz pozycję Gotowe.
 
 3. Wyślij wiadomość e-mail do klienta.
 
-4. Gdy klient zaakceptuje Zaproszenie, pojawi się na **stronie Klienci.** W tym miejscu możesz zarządzać ich subskrypcjami i usługami.
+4. Po zaakceptowaniu zaproszenia przez klienta pojawi się on na **stronie** Klienci. W tym miejscu możesz zarządzać ich subskrypcjami i usługami.
 
 5. Aby zarządzać kontem, usługami, użytkownikami i licencjami klienta, rozwiń rekord klienta, wybierając strzałkę w dół obok jego nazwy.
 
-## <a name="connect-with-new-customers"></a>Nawiązywanie połączenia z nowymi klientami
+## <a name="connect-with-new-customers"></a>Połączenie z nowymi klientami
 
 Jeśli przyciągasz nowych klientów, musisz połączyć się z nimi na Partner Center. Nowych klientów można uzyskać za pośrednictwem wielu kanałów, w tym:
 
@@ -60,7 +60,7 @@ Aby uzyskać uprawnienia administratora do zarządzania subskrypcjami  i usługa
 
 1. Wybierz **pozycję Dostawcy pośredni** z Partner Center **menu.**
 
-2. Wybierz **pozycję Zaproś** nowych klientów, aby zaprosić klienta do nawiązania relacji odsprzedawcy zarówno z Toem, jak i dostawcą pośrednim w tym samym czasie. Dostawca musi mieć relację odsprzedawcy z Klientem, aby można było przesyłać zamówienia w imieniu klienta, gdy klient chce kupić nowe subskrypcje lub dodać nowe licencje do istniejących subskrypcji.
+2. Wybierz **pozycję Zaproś** nowych klientów, aby zaprosić klienta do ustanowienia relacji odsprzedawcy zarówno z Toem, jak i dostawcą pośrednim w tym samym czasie. Dostawca musi mieć relację odsprzedawcy z Klientem, aby można było przesyłać zamówienia w imieniu klienta, gdy klient chce kupić nowe subskrypcje lub dodać nowe licencje do istniejących subskrypcji.
 
 3. Na następnej stronie przejrzyj wersję roboczą wiadomości e-mail. Możesz otworzyć wiadomość roboczą w wiadomości e-mail lub skopiować wiadomość do schowka i wkleić ją do wiadomości e-mail.
 
@@ -74,7 +74,7 @@ Aby uzyskać uprawnienia administratora do zarządzania subskrypcjami  i usługa
 
 Aby usunąć relację z klientem, wykonaj poniższe kroki:
 
-1.  Z Partner Center wybierz pozycję **Klienci** i wybierz klienta, którego relację chcesz usunąć.
+1.  Z Partner Center przejdź do strony **Klienci** i wybierz klienta, którego relację chcesz usunąć.
 
 2.  Wybierz **konto**.
 
@@ -84,8 +84,8 @@ Aby usunąć relację z klientem, wykonaj poniższe kroki:
 
 >[!IMPORTANT]
 >Jeśli ustanowiono relację z klientem i usuniesz tę relację, wszelkie przyznane uprawnienia administratora delegowanego pozostaną niezmienione.
->Klient reprezentuje, że decyzja o przerwaniu relacji z klientem została podjęta w dobrej rozumie, w legalnym celu biznesowym i zgodnie z twoją umową z klientem lub partnerem, a Ty zgadzasz się na obronę i obronę firmy Microsoft przed roszczeniami innych firm i w stosunku do tych roszczeń.
->Klient lub partner musi przekazać klientowi lub partnerowi informacje prawne o zakończeniu działania, jeśli wymaga tego umowa. To narzędzie nie generuje powiadomienia dla klienta lub partnera.
+>Klient reprezentuje, że decyzja o przerwaniu relacji z klientem została podjęta w dobrej organizacji, w legalnym celu biznesowym i zgodnie z twoją umową z klientem lub partnerem, oraz zgadzasz się na obronę i obronę firmy Microsoft przed roszczeniami innych firm i przeciw nim.
+>Jeśli umowa tego wymaga, klient lub partner musi przekazać klientowi lub partnerowi powiadomienie prawne o jego zakończeniu. To narzędzie nie generuje powiadomienia dla klienta lub partnera.
 
 ## <a name="next-steps"></a>Następne kroki
 

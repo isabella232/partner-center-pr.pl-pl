@@ -3,18 +3,18 @@ title: Rozwiązywanie problemów z konfigurowaniem konta Partner Center lub odna
 ms.topic: how-to
 ms.date: 08/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-enroll
 description: Rozwiązywanie problemów podczas próby zarejestrowania się w Partner Center. Odpowiada na wyzwania związane z metodami płatności, zapomnia hasłami i nie tylko.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4fc1a43b4d525d9221ac7e4db56f5f278404e3f5
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.openlocfilehash: 0d35930082b6bbbbceee26af83b563d70b638cef
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431752"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840794"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Rozwiązywanie problemów z konfiguracją konta lub odnawianiem mpn
 
@@ -33,11 +33,11 @@ Aby kontynuować, wybierz **pozycję Zaakceptuj,** a następnie wybierz pozycję
 
 ### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Jeśli dział IT wyłączył opcji Zarejestruj **się w Partner Center**
 
-Zostanie wyświetlony ten komunikat, ponieważ użytkownicy marketingowi są wyłączeni lub ponieważ w dzierżawie usługi Azure Active Directory (AD) jest wyłączona rejestracja Azure Active Directory (AD). Administrator globalny konta usługi Azure AD może włączyć wymagane funkcje, uruchamiając następujące polecenie programu PowerShell:
+Ten komunikat jest wyświetlany, ponieważ użytkownicy marketingowi są wyłączeni lub w dzierżawie usługi Azure Active Directory (AD). Administrator globalny konta usługi Azure AD może włączyć wymagane funkcje, uruchamiając następujące polecenie programu PowerShell:
 
 **Set-MsolCompanySettings -AllowEmailVerifiedUsers $true -AllowAdHocSubscriptions $true**
 
-Aby uzyskać więcej informacji, zapoznaj [się z tematem Self-service sign up (Rejestracja samoobsługowa).](/azure/active-directory/users-groups-roles/directory-self-service-signup)
+Aby uzyskać więcej informacji, przeczytaj [temat Self-service sign up (Rejestracja samoobsługowa).](/azure/active-directory/users-groups-roles/directory-self-service-signup)
 
 ## <a name="you-forgot-your-password"></a>Nie pamiętasz hasła
 
@@ -45,10 +45,10 @@ Jeśli nie pamiętasz hasła, na stronie logowania wybierz pozycję Nie **możes
 
 ## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Na ekranie "Poinformuj nas o swojej firmie" zostanie wyświetlony błąd "Wystąpił problem"
 
-Ten komunikat o błędzie jest zwykle wyświetlany, jeśli przypadkowo używasz znaków specjalnych, spacji lub kodu kraju w firmowym numerze telefonu. Wartość wprowadzona w polu Numer telefonu może zawierać maksymalnie 10 znaków.
+Ten komunikat o błędzie jest zwykle wyświetlany, jeśli przypadkowo używasz znaków specjalnych, spacji lub kodu kraju w firmowym numerze telefonu. Wartość wprowadzona w polu Telefon Number może zawierać maksymalnie 10 znaków.
 
 
-### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>Podczas zakupu karty kredytowej jest wyświetlany komunikat o błędzie informujący, że "Twoje zamówienie zostało odrzucone. Sprawdź swoje informacje"
+### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>Podczas zakupu karty kredytowej jest wyświetlany komunikat o błędzie z informacją, że "Twoje zamówienie zostało odrzucone. Sprawdź swoje informacje"
 
 
 Zawsze używaj adresu odpowiadającego karcie kredytowej, a nie jednostki prawnej. Upewnij się również, że kod pocztowy jest poprawny i odpowiada adresowi, z których korzystasz.

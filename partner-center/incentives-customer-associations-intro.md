@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 05/20/2021
-ms.openlocfilehash: 9bcdd9e99f9db5271a1ca51dab01c376c938acc9
-ms.sourcegitcommit: 75b84d0918802325019577930d368bc3df193ab2
+ms.openlocfilehash: b540f3f667095704bddd78873faac94246fbf59a
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "110236087"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840403"
 ---
 # <a name="use-these-resources-to-make-customer-association-claims-for-specific-incentives-programs"></a>Użyj tych zasobów, aby złożyć roszczenia dotyczące skojarzenia klienta dla określonych programów zachęt
 
@@ -21,7 +21,7 @@ ms.locfileid: "110236087"
 
 W tym artykule przedstawiono zasoby dla partnerów firmy Microsoft, którzy spełniają następujące kryteria:
 
-- Należysz do następujących programów zachęt firmy Microsoft: Sprzedaż usług online (OSA), Online Services Usage (OSU) -Microsoft 365 i OSU-Business application incentives.
+- Należysz do następujących programów zachęt firmy Microsoft: Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 i OSU-Business Application Incentives.
 
 - Pracujesz z Microsoft 365 lub Dynamics 365 i chcesz odwołać się do niektórych z tych prac lub uzyskać je w powyższych programach zachęt.
 
@@ -33,15 +33,15 @@ CPOR umożliwia firmie Microsoft identyfikowanie i rozpoznawanie partnerów, kt�
 
 ## <a name="how-do-customer-associations-and-cpor-relate-to-incentives"></a>W jaki sposób skojarzenia klientów i CPOR odnoszą się do zachęt?
 
-Firma Microsoft używa teraz Claiming Partner of Record (CPOR) do zarządzania skojarzeniami, które masz z klientami Microsoft 365 i Dynamics 365.
+Firma Microsoft używa teraz modelu Claiming Partner of Record (CPOR) do zarządzania skojarzeniami z klientami usług Microsoft 365 i Dynamics 365.
 
-Ten model ma zastosowanie do Twojej pracy z klientami w następujących programach zachęt: Sprzedaż usług online (OSA), Użycie usług online (OSU)-Microsoft 365 oraz zachęty OSU-Business Application.
+Ten model ma zastosowanie do Twojej pracy z klientami w następujących programach zachęt: Sprzedaż usług online (OSA), Online Services Usage (OSU) -Microsoft 365 i OSU-Business Application.
 
 Firma Microsoft weryfikuje wszystkie roszczenia dotyczące zachęt.
 
-W tym momencie możemy poprosić Cię o więcej informacji. Powiadomimy również klienta o żądaniu skojarzenia. Klienci mają pięć dni roboczych na rezygnację. Jeśli nie zrezygnują, skojarzenie z tą konkretną dzierżawą i obciążeniem będzie oficjalne.
+W tym momencie możemy cię poprosić o więcej informacji. Powiadomimy również klienta o Twoim żądaniu skojarzenia. Klienci mają pięć dni roboczych na rezygnację. Jeśli użytkownik nie zrezygnuje, skojarzenie z tą konkretną dzierżawą i obciążeniem będzie oficjalne.
 
-Akceptując żądanie skojarzenia, klient zapewnia ci dostęp do niektórych swoich danych, aby można było świadczyć dla niego usługi zarządzania. 
+Akceptując twoje żądanie skojarzenia, klient zapewnia Ci dostęp do niektórych swoich danych, aby można było zapewnić im usługi zarządzania. 
 
 ## <a name="resources-to-help-you-create-and-manage-customer-associations"></a>Zasoby, które ułatwiają tworzenie skojarzeń klientów i zarządzanie nimi
 
@@ -49,7 +49,7 @@ Akceptując żądanie skojarzenia, klient zapewnia ci dostęp do niektórych swo
 |  **W tym celu**  |  **Przeczytaj to**  |
 |--------------|-----------|
 | Dowiedz się, jak utworzyć skojarzenie klienta  | [Tworzenie skojarzenia klienta przy użyciu modelu CPOR](submit-osa-claim.md)  |
-|Informacje na temat zarządzania skojarzeniami klientów  | [Zarządzanie skojarzeniami niestandardowymi](incentives-manage-customer-associations.md)  |
+|Dowiedz się, jak zarządzać skojarzeniami klientów  | [Zarządzanie skojarzeniami niestandardowymi](incentives-manage-customer-associations.md)  |
 |Rozwiązywanie problemów z skojarzeniami klientów  | [Problemy związane z skojarzeniami klientów](incentives-customer-association-issues.md)  |
 
 ## <a name="next-steps"></a>Następne kroki

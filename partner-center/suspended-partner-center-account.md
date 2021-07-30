@@ -3,18 +3,18 @@ title: Przywracanie zawieszonego konta w Centrum partnerskim
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Dowiedz się, jak przywrócić wstrzymane konto Partner Center, dlaczego występuje zawieszenie konta partnera i jak można używać swojego konta podczas zawieszania.
 author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da1b93e757ad923f8a1c11e21ed2b957ecf1ad11
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2132320d47a29806f338a7d3986626fefd22ee01
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854761"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841134"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restore a suspended Partner Center account - learn why it happens and what to do about it (Przywracanie zawieszonego konta Centrum partnerskiego — przyczyny i czynnością do wykonania)
 
@@ -29,7 +29,7 @@ W tym artykule wyjaśniono, co należy zrobić, jeśli Twoje konto w Centrum par
 
 ## <a name="why-partner-center-accounts-are-suspended"></a>Dlaczego Partner Center konta są zawieszone
 
-Firma Microsoft zawiesi konto Partner Center z jednego z następujących powodów:
+Firma Microsoft wstrzyma Partner Center konta z jednego z następujących powodów:
 
 - Gdy bieżąca kwota rozliczeniowa jest za overduchem większa niż 60 dni
 - W przypadku wykrycia znacznego nadużycie konta
@@ -40,7 +40,7 @@ Firma Microsoft zawiesi konto Partner Center z jednego z następujących powodó
 
 Jeśli wiesz, że Twoje konto jest aktualne, sprawdź ustawienia [profilu](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) partnera, aby potwierdzić, że aktywne informacje są kompletne. 
 
-Jeśli nie masz pewności, czy Twoje  konto jest aktualne, wybierz pozycję Rozliczenia z **menu** Partner Center, aby sprawdzić rachunek. Strona rozliczeń zawiera historię rozliczeń i trendy, saldo za bieżący miesiąc, linki do plików faktur i uzgodnień oraz najnowszą płatność.
+Jeśli nie masz pewności, czy Twoje  konto jest aktualne, wybierz pozycję Rozliczenia z menu **Partner Center,** aby sprawdzić rachunek. Strona rozliczeń zawiera historię rozliczeń i trendy, saldo za bieżący miesiąc, linki do plików faktur i uzgodnień oraz najnowszą płatność.
 
 Jeśli Twoje konto jest zaduszone, postępuj zgodnie z instrukcjami na rachunku, aby ustalić płatność, a następnie prześlij wniosek o pomoc techniczną w celu przywrócenia konta. 
 

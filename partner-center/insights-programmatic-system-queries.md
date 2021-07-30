@@ -1,21 +1,21 @@
 ---
-title: Lista zapytań systemowych dotyczących dostępu programowego szczegółowych informacji o partnerach
+title: Lista zapytań systemowych dotyczących dostępu programowego do szczegółowych informacji o partnerze
 description: Dowiedz się więcej o zapytaniach systemowych, których można używać do uzyskiwania dostępu do danych analitycznych szczegółowych informacji partnerów.
 ms.topic: reference
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 4b0bd5411d02463b015cf812cde78e34ef853814
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 9f82907d24a1693097d8c9cfc42094be067639b1
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376645"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840012"
 ---
-# <a name="list-of-system-queries-for-partner-insights-programmatic-access"></a>Lista zapytań systemowych dotyczących dostępu programowego szczegółowych informacji o partnerach
+# <a name="list-of-system-queries-for-partner-insights-programmatic-access"></a>Lista zapytań systemowych dotyczących dostępu programowego do szczegółowych informacji o partnerze
 
 Następujące zapytania systemowe mogą być używane w interfejsie [API tworzenia raportu](insights-programmatic-access-paradigm.md#create-report-api) bezpośrednio z queryId. Zapytania systemowe są podobne do raportów eksportu w Partner Center przez sześć miesięcy (6 mln).
 
@@ -29,7 +29,7 @@ Raport Klienci z ostatnich sześciu miesięcy
 
 Identyfikator zapytania: `6664daf3-c161-423a-92a1-0ea6db2c0384`
 
-### <a name="report-query"></a>Zapytanie raportu
+### <a name="report-query"></a>Zapytanie dotyczące raportu
 ```sql
 SELECT PGAMpnId,MpnId,PartnerName,CustomerName,CustomerTpid,DUNSNumber,CustomerSegment,TopSegment,
 CustomerMarket,CustomerStatus,CustomerTenantId,CustomerTenantName,CustomerTenantCountry,TenantDomainName,
@@ -44,7 +44,7 @@ Stanowiska, subskrypcje i raport przychodów z ostatnich sześciu miesięcy
 
 Identyfikator zapytania: `c9fc1c79-4408-49ff-97f9-e1aa3f155804`
 
-### <a name="report-query"></a>Zapytanie raportu
+### <a name="report-query"></a>Zapytanie dotyczące raportu
 
 ```sql
 SELECT PGAMpnId,MpnId,SubscriptionId,SubscriptionStartDate,SubscriptionEndDate,SubscriptionState,month,
@@ -61,7 +61,7 @@ Profilowanie danych
 
 Identyfikator zapytania: `e65f3a4f-fb99-4319-97ff-59e57566a871`
 
-### <a name="report-query"></a>Zapytanie raportu
+### <a name="report-query"></a>Zapytanie dotyczące raportu
 
 ```sql
 SELECT MPNId,PartnerName,PGA_MPNId,PGA_PartnerName,City,Country,HierarchyLevel 
@@ -74,7 +74,7 @@ Raport AzureUsage z ostatnich sześciu miesięcy
 
 Identyfikator zapytania: `d1a4d75e-5ca8-4847-845f-ee0a9be6f07b`
 
-### <a name="report-query"></a>Zapytanie raportu
+### <a name="report-query"></a>Zapytanie dotyczące raportu
 
 ```sql
 SELECT PGAMpnId,SubscriptionId,SubscriptionStartDate,SubscriptionEndDate,FirstUseDate,SubscriptionState,Month,
@@ -90,7 +90,7 @@ Raport OfficeUsage z ostatnich sześciu miesięcy
 
 Identyfikator zapytania: `d8349f7b-a7d1-467e-b26d-434d4a50f26a`
 
-### <a name="report-query"></a>Zapytanie raportu
+### <a name="report-query"></a>Zapytanie dotyczące raportu
 
 ```sql
 SELECT CustomerTenantId,CustomerTpid,WorkloadName,Month,PaidAvailableUnits,MonthlyActiveUsers,CustomerName,
@@ -100,11 +100,11 @@ FROM OfficeUsage TIMESPAN LAST_6_MONTHS
 
 ## <a name="dynamics-usage"></a>Użycie usługi Dynamics
 
-Raport DynamicsUsage z sześciu miesięcy
+Raport DynamicsUsage przez sześć miesięcy
 
 Identyfikator zapytania: `6209a8fd-93af-442e-8b3f-3df0f77e8463`
 
-### <a name="report-query"></a>Zapytanie raportu
+### <a name="report-query"></a>Zapytanie dotyczące raportu
 
 ```sql
 SELECT SubscriptionId,SubscriptionStartDate,SubscriptionEndDate,SubscriptionStatus,Month,RevSumDivisionName,
@@ -116,11 +116,11 @@ FROM DynamicsUsage TIMESPAN LAST_6_MONTHS
 
 ## <a name="power-bi-usage"></a>Użycie usługi Power BI
 
-Raport usługi PowerBIUsage z sześciu miesięcy
+Raport PowerBIUsage przez sześć miesięcy
 
 Identyfikator zapytania: `40ebfe2f-7183-4427-a911-5c9b45b6df15`
 
-### <a name="report-query"></a>Zapytanie raportu
+### <a name="report-query"></a>Zapytanie dotyczące raportu
 
 ```sql
 SELECT SubscriptionId,SubscriptionStartDate,SubscriptionEndDate,SubscriptionStatus,Month,SKU,SKUId,
@@ -136,7 +136,7 @@ Raport EMSUsage przez sześć miesięcy
 
 Identyfikator zapytania: `d7f20ea4-8751-4d6b-b1d7-821c316acd6a`
 
-### <a name="report-query"></a>Zapytanie raportu
+### <a name="report-query"></a>Zapytanie dotyczące raportu
 
 ```sql
 SELECT SubscriptionId,SubscriptionStartDate,SubscriptionEndDate,SubscriptionStatus,Month,SKU,SKUId,
@@ -148,11 +148,11 @@ AADPMonthlyActiveUsers,IntuneMonthlyActiveUsers,AzipMonthlyActiveUsers FROM EMSU
 
 ## <a name="competency-performance-requirement-report"></a>Raport wymagań w zakresie wydajności kompetencji
 
-Raport CompetencyPeformanceRequirement z sześciu miesięcy
+Raport CompetencyPeformanceRequirement przez sześć miesięcy
 
 Identyfikator zapytania: `3a0e1adc-f5c1-42ac-9422-8e944bf81ae5`
 
-### <a name="report-query"></a>Zapytanie raportu
+### <a name="report-query"></a>Zapytanie dotyczące raportu
 
 ```sql
 SELECT CompetencyName,CompetencyAttainmentOptionName,Month,MetricName,MetricMonthlyContribution,TTMAggregate,
@@ -165,11 +165,11 @@ TIMESPAN LAST_6_MONTHS
 
 ### <a name="report-description"></a>Opis raportu
 
-Raport CloudProductsResellerPerformance z sześciu miesięcy
+Raport CloudProductsResellerPerformance przez sześć miesięcy
 
 Identyfikator zapytania: `c09c2eda-861b-4664-8ee8-48a14745a26a`
 
-### <a name="report-query"></a>Zapytanie raportu
+### <a name="report-query"></a>Zapytanie dotyczące raportu
 
 ```sql
 SELECT ResellerMpnid,ResellerName,ResellerMarket,IndirectProviderMPNId,IndirectProviderName,Month,Product,
@@ -180,11 +180,11 @@ FROM CloudProductsResellerPerformance TIMESPAN LAST_6_MONTHS
 
 ## <a name="clas-agreement-renewal-propensity"></a>Proporcjonalność do odnawiania umowy CLAS
 
-Raport CLASAgreementRenewalsPropensity z sześciu miesięcy
+Raport CLASAgreementRenewalsPropensity przez sześć miesięcy
 
 Identyfikator zapytania: `c4fc87ac-4cca-44cd-bf4d-835ac513f9ee`
 
-### <a name="report-query"></a>Zapytanie raportu
+### <a name="report-query"></a>Zapytanie dotyczące raportu
 
 ```sql
 SELECT MPNID,PartnerName,CustomerID,DUNSNumber,AccountName,Domain,OrgSize,Industry,Vertical,Area,Subsidiary,
@@ -201,7 +201,7 @@ Raport CLASAzurePropensity przez sześć miesięcy
 
 Identyfikator zapytania: `9a18bd70-8f90-4bd2-8266-5f6e453e3ee7`
 
-### <a name="report-query"></a>Zapytanie raportu
+### <a name="report-query"></a>Zapytanie dotyczące raportu
 
 ```sql
 SELECT MPNID,PartnerName,CustomerID,DUNSNumber,AccountName,Domain,OrgSize,Industry,Vertical,Area,Subsidiary,
@@ -229,13 +229,13 @@ HasAWS,HasEA,HasOpen
 FROM CLASAzurePropensity
 ```
 
-## <a name="clas-d365-propensity"></a>Clas D365 propensity
+## <a name="clas-d365-propensity"></a>Proporcjonalność CLAS D365
 
-Raport CLASD365Propensity dla sześciu miesięcy
+Raport CLASD365Propensity przez sześć miesięcy
 
 Identyfikator zapytania: `258fdcac-6e9c-4072-af27-b1b3d97be16c`
 
-### <a name="report-query"></a>Zapytanie raportu
+### <a name="report-query"></a>Zapytanie dotyczące raportu
 
 ```sql
 SELECT MPNID,PartnerName,CustomerID,DUNSNumber,AccountName,Domain,OrgSize,Industry,Vertical,Area,Subsidiary,
@@ -261,13 +261,13 @@ DynamicsOnPremAXorCRM_HasOpenRenewal,M365UpsellCustomer,HasGoogle,HasAWS,HasEA,H
 FROM CLASD365Propensity
 ```
 
-## <a name="clas-m365-propensity"></a>CLAS M365 propensity
+## <a name="clas-m365-propensity"></a>Proporcjonalność CLAS M365
 
-Raport CLASM365Propensity dla sześciu miesięcy
+Raport CLASM365Propensity przez sześć miesięcy
 
 Identyfikator zapytania: `fbe00e32-fdde-4465-b3e4-41bbd021a130`
 
-### <a name="report-query"></a>Zapytanie raportu
+### <a name="report-query"></a>Zapytanie dotyczące raportu
 
 ```sql
 SELECT MPNID,PartnerName,CustomerID,DUNSNumber,AccountName,Domain,OrgSize,Industry,Vertical,Area,Subsidiary,
@@ -295,7 +295,7 @@ Raport TeamsUsage3PApps przez sześć miesięcy
 
 Identyfikator zapytania: `42d287be-cc76-4109-a066-f3140ad97fe2`
 
-### <a name="report-query"></a>Zapytanie raportu
+### <a name="report-query"></a>Zapytanie dotyczące raportu
 
 ```sql
 SELECT CustomerId,CustomerTenantId,CustomerName,CustomerCountry,DateKey,AppName,UserCount 
@@ -308,20 +308,20 @@ Raport TeamsUsageWorkload przez sześć miesięcy
 
 Identyfikator zapytania: `817fe875-acb0-4c45-9201-b7a35a60235a`
 
-### <a name="report-query"></a>Zapytanie raportu
+### <a name="report-query"></a>Zapytanie dotyczące raportu
 
 ```sql
 SELECT CustomerId,CustomerTenantId,MonthKey,SubWorkload,DesktopUsers,WebUsers,MobileUsers,AllUpPartiticipants
 FROM TeamsUsageWorkload TIMESPAN LAST_6_MONTHS
 ```
 
-## <a name="teams-usage-meetings-and-calls"></a>Teams użycia i połączenia
+## <a name="teams-usage-meetings-and-calls"></a>Teams użycia i rozmowy
 
 Raport TeamsUsageMeetingsAndCalls przez sześć miesięcy
 
 Identyfikator zapytania: `b7bd73a8-47e8-4c57-b915-445708cfd7bf`
 
-### <a name="report-query"></a>Zapytanie raportu
+### <a name="report-query"></a>Zapytanie dotyczące raportu
 
 ```sql
 SELECT CustomerId,CustomerTenantId,DateKey,SubWorkload,MeetingCount,MeetingDuration 
@@ -330,11 +330,11 @@ FROM TeamsUsageMeetingsAndCalls TIMESPAN LAST_6_MONTHS
 
 ## <a name="competency-summary-history"></a>Historia podsumowania kompetencji
 
-Raport CompetencySummaryHistory z sześciu miesięcy
+Raport CompetencySummaryHistory przez sześć miesięcy
 
 Identyfikator zapytania: `fddab2aa-523d-47f6-90fe-588557306db4`
 
-### <a name="report-query"></a>Zapytanie raportu
+### <a name="report-query"></a>Zapytanie dotyczące raportu
 
 ```sql
 SELECT CompetencyName,CompetencyLevel,CompetencyStatus,CompetencyStartDate,CompetencyEndDate 
@@ -343,11 +343,11 @@ FROM CompetencySummaryHistory TIMESPAN LAST_6_MONTHS
 
 ## <a name="training-completion"></a>Ukończenie szkolenia
 
-Raport ukończenia szkolenia z sześciu miesięcy
+Raport ukończenia trenowania przez sześć miesięcy
 
 Identyfikator zapytania: `20f5da57-3c2a-481b-b6a0-ec34d6db14e2`
 
-### <a name="report-query"></a>Zapytanie raportu
+### <a name="report-query"></a>Zapytanie dotyczące raportu
 
 ```sql
 SELECT TrainingActivityId,TrainingTitle,TrainingType,AADUserId,TrainingCompletionDate,Month,IcMCP,MCPID,MPNId,
@@ -357,11 +357,11 @@ FROM TrainingCompletions TIMESPAN LAST_6_MONTHS
 
 ## <a name="microsoft-learn"></a>Microsoft Learn
 
-Microsoft Learn raportu z ostatnich sześciu miesięcy
+Microsoft Learn raport z ostatnich sześciu miesięcy
 
 Identyfikator zapytania: `0e06c7c3-75ab-4cd5-8178-8cf1a2de49cc`
 
-### <a name="report-query"></a>Zapytanie raportu
+### <a name="report-query"></a>Zapytanie dotyczące raportu
 
 ```sql
 SELECT UserName,UserId,TrainingName,TrainingType,Products,Roles,CompletionDate,MPNId,PartnerName,CustomerMarket 
