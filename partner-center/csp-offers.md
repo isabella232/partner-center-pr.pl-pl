@@ -3,24 +3,24 @@ title: Oferty partnerów w programie CSP
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Jako partner programu CSP zapoznaj się z rosnącym katalogiem usług w chmurze firmy Microsoft i ofertami, które można sprzedawać klientom.
+ms.subservice: partnercenter-pricing
+description: Jako partner programu CSP dowiedz się więcej o rosnącym katalogu usług w chmurze firmy Microsoft i ofertach, które można sprzedawać klientom.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 57cddcaf13431b0e61ef1573a4dd54b229c7e097
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e5d82e43b63c2803b0f494a2f773e32ec135bdfd
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147636"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843191"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Omówienie ofert partnerów w programie Cloud Solution Provider
 
 **Odpowiednie role:** Agent administracyjny | Administrator globalny | Agent sprzedaży
 
-Partnerzy firmy Microsoft w programie Dostawca rozwiązań w chmurze (CSP) mają dostępny coraz większy katalog ofert. Możesz sprzedawać pełną gamę usług w chmurze [firmy Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services)oraz różne inne oferty, które często się zmieniają. Aby wyświetlić oferty CSP dla bieżącego miesiąca, zaloguj się do witryny Partner Center a następnie przejdź do [**strony Cennik i oferty.**](https://partnercenter.microsoft.com/pcv/sales)  
+Partnerzy firmy Microsoft w programie Dostawca rozwiązań w chmurze (CSP) mają coraz większy katalog ofert dostępnych dla nich. Możesz sprzedawać pełną gamę usług w chmurze firmy [Microsoft](https://partner.microsoft.com/cloud-solution-provider/products-and-services)oraz różne inne oferty, które często się zmieniają. Aby wyświetlić oferty CSP dla bieżącego miesiąca, zaloguj się do witryny Partner Center a następnie przejdź do [**strony Cennik i oferty.**](https://partnercenter.microsoft.com/pcv/sales)  
 
 Nie zostało jeszcze zarejestrowane w Dostawca rozwiązań w chmurze programu? Odwiedź [Dostawca rozwiązań w chmurze,](https://partner.microsoft.com/cloud-solution-provider) aby uzyskać więcej informacji na temat rejestrowania. 
 
@@ -29,17 +29,17 @@ Nie zostało jeszcze zarejestrowane w Dostawca rozwiązań w chmurze programu? O
 
 ## <a name="what-you-can-sell-through-csp"></a>Co można sprzedawać za pośrednictwem programu CSP
 
-Obecnie można sprzedawać następujące typy produktów i usług klientom CSP:
+Obecnie możesz sprzedawać następujące typy produktów i usług klientom CSP:
 
 ### <a name="azure-reservations"></a>Rezerwacje platformy Azure
 
-   Klienci mogą zarezerwować miejsce z wyprzedzeniem na maszynach wirtualnych platformy Azure na okres 1 roku lub 3 lat.
+   Klienci mogą zarezerwować miejsce na maszynach wirtualnych platformy Azure z wyprzedzeniem na okres 1– lub 3 lat.
 
-   Aby uzyskać więcej informacji, zobacz Sell Microsoft Azure Reserved VM Instances (Sprzedaż Microsoft Azure [wystąpień zarezerwowanych maszyn wirtualnych).](azure-reservations.md)
+   Aby uzyskać więcej informacji, zobacz Sell Microsoft Azure Reserved VM Instances (Sprzedaż [wystąpień zarezerwowanych maszyn wirtualnych).](azure-reservations.md)
 
 ### <a name="software"></a>Oprogramowanie
 
-   Klienci mogą kupować subskrypcje oprogramowania (do systemu Windows Server i SQL Server na okres 1 roku lub 3 lat, aby można było uruchamiać je na wystąpieniach zarezerwowanych maszyn wirtualnych platformy Azure.
+   Klienci mogą kupować subskrypcje oprogramowania (aby Windows Server i SQL Server, na okres 1 roku lub 3 lat, uruchamiać na wystąpieniach zarezerwowanych maszyn wirtualnych platformy Azure).
 
    Aby uzyskać więcej informacji, zobacz [Sell software subscriptions through CSP (Sprzedaż subskrypcji oprogramowania za pośrednictwem programu CSP).](csp-software-subscriptions.md)  
 
@@ -51,7 +51,7 @@ Obecnie można sprzedawać następujące typy produktów i usług klientom CSP:
 
 ### <a name="software-as-a-service-saas-and-other-azure-marketplace-products"></a>Oprogramowanie jako usługa (SaaS) i inne [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace) produktów
 
-   Subskrypcje produktów SaaS od niezależnych dostawców oprogramowania (ISV) można sprzedawać. Aby wyświetlić tylko oferty SaaS w **usługach online,** użyj filtrów, aby ustawić **wartość Wydawca** na **Partner**. Spowoduje to pokazanie wszystkich ofert SaaS, które można kupić dla tego klienta.
+   Subskrypcje produktów SaaS od niezależnych dostawców oprogramowania (ISV) można sprzedawać. Aby wyświetlić tylko oferty SaaS w **usługach online,** użyj filtrów, aby **ustawić** Publisher **partnerów.** Spowoduje to pokazanie wszystkich ofert SaaS, które można kupić dla tego klienta.
 
    Informacje o tych produktach można również znaleźć na **stronie witryny Marketplace.**
 
@@ -70,7 +70,7 @@ Na poniższej liście identyfikuje się każdy z nowych obszarów na **stronie D
 
 **Segment** — określa ogólny typ działalności biznesowej, na przykład komercyjnej lub rządowej, do której chcesz sprzedawać
 
-**Wydawca** — wybierz typy produktów, które chcesz wyświetlić — aplikacje utworzone przez firmę Microsoft lub przez innych wydawców
+**Publisher** — wybierz typy produktów, które chcesz wyświetlić — aplikacje utworzone przez firmę Microsoft lub przez innych wydawców
 
 **Typ rozliczeń** — określa, czy produkt jest rozliczany za liczbę licencji, czy za użycie
 
@@ -85,43 +85,43 @@ Aby kupić produkty i usługi w imieniu klientów CSP, należy wybrać elementy,
 >[!NOTE]
 >Oferta CSP musi być dostępna zarówno w kraju dzierżawy, jak i w kraju dzierżawy klienta. Jeśli na przykład twoja dzierżawa znajduje się w Niemczech, a dzierżawa klienta znajduje się w Niemczech, nie będziesz w stanie sprzedawać usługi Dynamics 365 Business Central Premium temu klientowi, ponieważ ta oferta nie jest obecnie dostępna w azji.
 
-1. Wybierz **pozycję** Klienci Partner Center menu, a następnie znajdź klienta, który chce kupić od Ciebie. 
+1. Wybierz **pozycję** Klienci z Partner Center menu, a następnie znajdź klienta, który chce kupić od Ciebie. 
 
-2. Wybierz strzałkę w dół na końcu wiersza klienta, aby rozwinąć rekord klienta, a następnie wybierz **pozycję Dodaj produkty.** Odtąd tworzysz zamówienie. Zamówienie może zawierać kilka elementów różnego typu, ale wszystkie muszą dotyczyć tego samego klienta.
+2. Wybierz strzałkę w dół na końcu wiersza klienta, aby rozwinąć rekord klienta, a następnie wybierz pozycję **Dodaj produkty.** Odtąd tworzysz zamówienie. Zamówienie może zawierać kilka elementów różnego typu, ale wszystkie muszą dotyczyć tego samego klienta.
 
-3. Na stronie **Dodawanie produktów** wybierz pozycję **Azure,** **Usługi online** lub **Oprogramowanie.**
+3. Na stronie **Dodawanie produktów** wybierz pozycję **Azure,** **Usługi online** lub **Oprogramowanie**.
 
 4. Dostosuj dostępne filtry, aby łatwiej znaleźć szukane produkty. Aby wyświetlić pełną listę dostępnych filtrów, ustaw odpowiednie filtry na **dowolny z nich.**
 
 5. Wybierz produkt, którego chce klient, wprowadź potrzebną ilość, a następnie wybierz **pozycję Dodaj do koszyka.**
 
-6. Powtarzaj kroki 4 i 5 do momentu dodania wszystkich niezbędnych elementów do koszyka. Wybierz **pozycję Przejrzyj,** aby sprawdzić, czy twoje zamówienie jest prawidłowe.  
+6. Powtarzaj kroki 4 i 5 do momentu dodania wszystkich niezbędnych elementów do koszyka. Wybierz **pozycję Przejrzyj,** aby sprawdzić, czy zamówienie jest prawidłowe.  
 
 7. Na stronie **Przeglądanie zamówień** sprawdź lub zmień produkty i ilość, a następnie wybierz pozycję **Kup,** aby kupić zamówienie.
 
-8. Szczegóły zamówienia, w tym numer zamówienia, są wyświetlane na następnej stronie. Wybierz **pozycję Gotowe,** aby przejść **do strony Historii** zamówień.
+8. Szczegóły zamówienia, w tym numer zamówienia, są wyświetlane na następnej stronie. Wybierz **pozycję Gotowe,** aby przejść do **strony Historii** zamówień.
 
-### <a name="customer-order-history"></a>Historia zamówień klientów
+### <a name="customer-order-history"></a>Historia zamówień klienta
 
 Aby wyświetlić historię zamówień klienta:
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home) Centrum partnerskiego.
 2. W menu po lewej stronie wybierz pozycję **Klienci.**
-3. Na **stronie Klienci** znajdź klienta, którego historię zamówień chcesz wyświetlić. Wybierz strzałkę w dół, aby rozwinąć rekord klienta.
+3. Na stronie **Klienci** znajdź klienta, którego historię zamówień chcesz wyświetlić. Wybierz strzałkę w dół, aby rozwinąć rekord klienta.
 4. Wybierz **pozycję Wyświetl** zamówienia, aby wyświetlić historię zamówień klienta.
  
 ## <a name="rules-for-special-segments"></a>Reguły dla segmentów specjalnych
 
-Niektóre oferty oparte na licencjach można kupić tylko pod pewnymi warunkami. Oferty segmentów specjalnych obejmują oferty dla edukacji, organizacji niedochodowych Government Community Cloud (GCC). Szczegółowe informacje o tych warunkach zakupu można znaleźć w temacie [Reguły zakupu dla segmentów specjalnych.](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)
+Niektóre oferty oparte na licencjach można kupić tylko w określonych warunkach. Oferty segmentów specjalnych obejmują oferty dla edukacji, organizacji niedochodowych Government Community Cloud (GCC). Szczegółowe informacje o tych warunkach zakupu można znaleźć w temacie [Reguły zakupu dla segmentów specjalnych](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).
 
 ## <a name="troubleshooting-catalog-purchases"></a>Rozwiązywanie problemów z zakupami w katalogu
 
 Mogą być różne przyczyny tego, dlaczego nie można znaleźć szukanej oferty w katalogu. Poniżej przedstawiono czynności, które należy sprawdzić, jeśli nie możesz znaleźć spodziewanych ofert.
 
-- **Sprawdź, czy klient jest wykwalifikowany**. Wiele ofert wymaga, aby klientom były sprzedawane specjalne kwalifikacje. Te specjalne segmenty obejmują edukacja, organizacje niedochodowe i Government Community Cloud (GCC). Przed zarejestrowaniem problemu najpierw sprawdź, czy kwalifikacje klienta zostały odpowiednio ustawione. Możesz to sprawdzić, wybierając klienta z listy klientów i wyświetlając konto. W razie potrzeby konto będzie miało specjalne kwalifikacje. Jeśli próbujesz kupić segment edukacyjny dla klienta, który nie jest wykwalifikowany, te oferty nie będą widoczne w katalogu. Aby uzyskać więcej informacji na temat kwalifikowania klientów, zobacz [dokumentację segmentów specjalnych.](get-special-pricing-for-offers.md)
+- **Sprawdź, czy klient jest wykwalifikowany**. Wiele ofert wymaga, aby klientom były sprzedawane specjalne kwalifikacje. Te specjalne segmenty obejmują edukacja, organizacje niedochodowe i Government Community Cloud (GCC). Przed zarejestrowaniem problemu najpierw sprawdź, czy kwalifikacje klienta zostały odpowiednio ustawione. Możesz to sprawdzić, wybierając klienta z listy klientów i wyświetlając konto. W razie potrzeby konto będzie miało specjalne kwalifikacje. Jeśli próbujesz kupić segment edukacyjny dla klienta, który nie jest wykwalifikowany, te oferty nie będą widoczne w katalogu. Aby uzyskać więcej informacji na temat kwalifikowania klientów, zobacz [dokumentację dotyczącą segmentów specjalnych.](get-special-pricing-for-offers.md)
 - **Zdecyduj, czy próbujesz kupić dodatek czy ofertę podstawową**. Wiele usług opartych na licencjach, takich jak Microsoft 365 i Dynamics 365, umożliwia zarówno zakupy w katalogu ofert podstawowych, jak i dodatków. W katalogu można kupić tylko oferty podstawowe. Aby kupić dodatki, upewnij się, że najpierw zakupisz ofertę podstawową w katalogu, a następnie wybierz klienta z listy klientów, a następnie wybierz subskrypcję dla oferty podstawowej. Dodatki można stosować do oferty podstawowej na tej stronie zarządzania subskrypcjami. 
 - **Sprawdź, czy produkty są dostępne na rynku**. Wiele produktów i usług jest skonfigurowanych do sprzedaży wyłącznie klientom w określonych krajach. Listę obsługiwanych krajów można znaleźć w różnych plikach cennika. Kraje obsługiwane przez usługi oparte na licencji są dostępne w macierzy list ofert na stronie cennika i ofert.
-- **Sprawdź, czy oferty są dostępne w cenniku**. Dostępna lista ofert może ulec zmianie z miesiąca na miesiąc. Jeśli nie możesz znaleźć oferty w katalogu, sprawdź, czy jest ona dostępna w bieżących cennikach na stronie > **ceny i oferty.**
+- **Sprawdź, czy oferty są dostępne w cenniku**. Dostępna lista ofert może ulec zmianie z miesiąca na miesiąc. Jeśli nie możesz znaleźć oferty w katalogu, sprawdź, czy jest ona dostępna w bieżących cennikach na stronie > **Cennik i oferty.**
 
 ### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Zalecane dokumenty związane z zakupami w Partner Center
 
@@ -133,6 +133,6 @@ Mogą być różne przyczyny tego, dlaczego nie można znaleźć szukanej oferty
 
 ## <a name="next-steps"></a>Następne kroki
 
-Aby uzyskać informacje na temat sposobu działania procesu rozliczeń, zobacz [Podstawowe informacje o rozliczeniach.](billing-basics.md)
+Aby uzyskać informacje na temat sposobu działania procesu rozliczeniowego, zobacz [Podstawowe informacje o rozliczeniach.](billing-basics.md)
 
-Aby uzyskać informacje na temat zakupu w ramach planu platformy Azure, zobacz [Zakup planu platformy Azure.](purchase-azure-plan.md)
+Aby uzyskać informacje o zakupie w ramach planu platformy Azure, zobacz [Zakup planu platformy Azure.](purchase-azure-plan.md)

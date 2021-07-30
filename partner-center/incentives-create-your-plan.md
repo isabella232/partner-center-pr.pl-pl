@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 31bed9eabcd63f80c7924b264e7abf04dab4b543
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 387be6313a1e775963c86714a6c5c825a2ca8169
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146803"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842336"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Generowanie planu marketingowego dla programu zachęt
 
@@ -23,12 +23,12 @@ Plan roszczeń dotyczących współpracy to seria kampanii marketingowych, dzia�
 
 ## <a name="create-your-incentives-plan"></a>Tworzenie planu zachęt
 
-Możesz wyświetlić swoje plany, wybierając **pozycję Zarządzanie planem** na **stronie Zachęty,** a następnie otwierając program, którego potrzebujesz.
+Plany można wyświetlić, wybierając pozycję **Zarządzanie planem** na **stronie Zachęty,** a następnie otwierając program.
 
 >[!NOTE]
->Na stronie Zachęty może nie być widać strony Zarządzanie planem. Jest to spowodowane tym, Partner Center pulpit nawigacyjny jest dynamiczny i wyświetla tylko to, co jest odpowiednie dla określonej roli i działań. Jeśli na stronie Zachęty nie widzisz strony Zarządzanie planami, prawdopodobnie oznacza to, że nie jesteś obecnie zarejestrowanym w programie, który ma plany. Skontaktuj się z administratorem zachęt, aby uzyskać pomoc.
+>Na stronie Zachęty może nie być widać strony Zarządzanie planem. Dzieje się tak, ponieważ Partner Center nawigacyjny jest dynamiczny i wyświetla tylko to, co jest odpowiednie dla określonej roli i działań. Jeśli nie widzisz strony Zachęty w usłudze Plan Management, prawdopodobnie oznacza to, że nie jesteś obecnie zarejestrowanym w programie, który ma plany. Skontaktuj się z administratorem zachęt, aby uzyskać pomoc.
 
-Aby uzyskać więcej informacji na temat planów dla określonej Program zachęt, zobacz przewodnik po programie.
+Aby uzyskać więcej informacji na temat planów dotyczących Program zachęt, zobacz przewodnik po programie.
 
 ## <a name="how-to-submit-a-plan"></a>Jak przesłać plan
 
@@ -44,7 +44,7 @@ Aby uzyskać więcej informacji na temat planów dla określonej Program zachęt
 
 6. Gdy informacje na tej stronie są poprawne, wybierz pozycję **Nowa kampania**.
 
-7. Wypełnij wymagane pola na stronie **Nowa kampania,** a następnie wybierz pozycję **Zapisz**.
+7. Wypełnij wymagane pola na stronie **Nowa kampania,** a następnie wybierz pozycję **Zapisz.**
 
 8. Na stronie stanu wybierz pozycję **Nowe działanie**. 
 
@@ -62,7 +62,7 @@ Twój plan został przesłany. Firma Microsoft powiadomi administratora zachęt 
 
 3. W sekcji **Plany** stan każdego planu znajduje się w kolumnie **Stan**.
 
-   Poniżej przedstawiono różne możliwe stany planu roszczeń współpracy.
+   Poniżej przedstawiono różne możliwe stany planu roszczenia do współpracy.
 
    - Przesłane
    - W trakcie przeglądu

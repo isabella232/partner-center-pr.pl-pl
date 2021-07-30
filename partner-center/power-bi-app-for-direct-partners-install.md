@@ -3,28 +3,28 @@ title: Instalowanie Partner Center Analytics dla Power BI
 ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Wykonaj kroki opisane w tym artykule, aby zainstalować i wyświetlić podgląd aplikacja statystyczna Centrum partnerskiego dla usługi Power BI (dla bezpośrednich partnerów w programie CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ff95f989ac847bd2c17558d062c86a52110b2ddf
-ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
+ms.openlocfilehash: a07742a55df088842f6bac1a1cbdd65bf0db8282
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "112565048"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842659"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instalowanie i wyświetlanie podglądu aplikacji statystycznej Centrum partnerskiego dla usługi Microsoft Power BI
 
 
-**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent sprzedaży | Agent administracyjny
+**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent sprzedaży | Agent administracyjny
 
 ## <a name="before-you-begin"></a>Zanim rozpoczniesz
 
-Wybierz aplikację, która jest najbardziej odpowiedni dla Twojej firmy, z następującej listy dostępnych aplikacji Power BI Microsoft:
+Wybierz aplikację, która jest najbardziej odpowiednią dla Twojej firmy, z następującej listy dostępnych aplikacji Power BI Microsoft:
 
 - [Dostawca bezpośredni](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
@@ -46,7 +46,7 @@ Przed zainstalowaniem wersji zapoznawczej Partner Center Analytics upewnij się,
 
 ## <a name="to-install-the-app"></a>Aby zainstalować aplikację
 
-1. Wybierz link źródła aplikacji podany w powyższej sekcji (Dostawca bezpośredni/Dostawca pośredni/Odsprzedawca pośredni).
+1. Wybierz podany link źródła aplikacji (Dostawca bezpośredni/Dostawca pośredni/Odsprzedawca pośredni) w powyższej sekcji.
 
 2. Wybierz **pozycję POBIERZ TERAZ.** 
 
@@ -62,11 +62,11 @@ Przed zainstalowaniem wersji zapoznawczej Partner Center Analytics upewnij się,
 
 8. Wybierz **pozycję** Aplikacje i wybierz zainstalowane aplikacje.
 
-9. Rozpocznij ekranie nowej aplikacji.
+9. Wprowadzenie ekran nowej aplikacji zostanie otwarty.
 
-10. Aby nawiązać połączenie z danymi, wybierz pozycję **Połącz**.
+10. Aby nawiązać połączenie z danymi, wybierz **pozycję Połączenie**.
 
-11. W **oknie podręcznym Połącz** z usługą Partner Center  Analytics sprawdź, czy dla opcji Metoda uwierzytelniania ustawiono wartość **oAuth2,** lub wybierz pozycję **oAuth2** z listy, jeśli tak nie jest. 
+11. W **oknie podręcznym** Połączenie to Partner Center Analytics sprawdź, czy  dla opcji Metoda uwierzytelniania ustawiono opcję **oAuth2,** lub wybierz pozycję **oAuth2** z listy, jeśli tak nie jest. 
 
 > [!NOTE]  
 >  Może to potrwać kilka minut.
@@ -77,7 +77,7 @@ Przed zainstalowaniem wersji zapoznawczej Partner Center Analytics upewnij się,
 
 Gdy usługa Partner Center Analytics zostanie połączona z Power BI, rozpocznie się ładowanie danych. W zależności od ilości danych może to potrwać do 10 minut. 
 
-Po zakończeniu ładowania danych możesz rozpocząć korzystanie z pulpitu nawigacyjnego i raportów aplikacji Partner Center Analytics w Power BI.
+Po zakończeniu ładowania danych możesz rozpocząć korzystanie z pulpitu nawigacyjnego i raportów Partner Center Analytics w Power BI.
 
 ## <a name="next-steps"></a>Następne kroki
 

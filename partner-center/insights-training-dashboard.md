@@ -3,18 +3,18 @@ title: Szczegółowe informacje Pulpit nawigacyjny szkolenia
 ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Eksploruj Partner Center szkoleniowy. Szkolenie jest jednym z raportów dostępnych w Partner Center Szczegółowe informacje (PCI).
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b80944074666a161a4f5794a3c35ed3ca2d6376
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 8749bdc1c2249f97d5db288f953eded1c4c06b02
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376620"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843174"
 ---
 # <a name="trainings-dashboard"></a>Pulpit nawigacyjny szkolenia
 
@@ -45,13 +45,13 @@ Sekcja podsumowania przedstawia liczbowy widok migawek różnych wskaźników wy
 
 ## <a name="training-performance"></a>Wydajność trenowania
 
-Wyniki trenowania przedstawia liczbę osób z miesiąca na miesiąc i szkolenia ukończone przez osoby w firmie. Jest on podzielony według certyfikacji, ocen i egzaminów w postaci wykresu dla wybranego zakresu dat. Oś X reprezentuje miesiące dla wybranego zakresu dat. Oś Y reprezentuje odrębną liczbę osób i liczbę wytnych szkoleń dla wybranego typu trenowania. Wybierz odpowiednie karty nad wykresem, aby wyświetlić podział według typu trenowania. Dane wykresu można pobrać za pomocą ikony pobierania w formacie TSV dla wybranego zakresu dat.
+Wyniki trenowania przedstawia liczbę osób z miesiąca na miesiąc i szkolenia ukończone przez osoby w firmie. Jest on podzielony według certyfikacji, ocen i egzaminów w postaci wykresu dla wybranego zakresu dat. Oś X reprezentuje miesiące dla wybranego zakresu dat. Oś Y reprezentuje odrębną liczbę osób i liczbę podjętych szkoleń dla wybranego typu trenowania. Wybierz odpowiednie karty nad wykresem, aby wyświetlić podział według typu trenowania. Dane wykresu można pobrać za pomocą ikony pobierania w formacie TSV dla wybranego zakresu dat.
 
 :::image type="content" source="images/insights/training-dashboard-training-performance.png" alt-text="Wydajność trenowania.":::
 
-## <a name="individuals-performance"></a>Wydajność użytkowników indywidualnych
+## <a name="individuals-performance"></a>Wydajność poszczególnych osób
 
-Sekcja Wydajności dla użytkowników indywidualnych zawiera szczegółowe informacje o szkoleniach poszczególnych osób w firmie dla wybranego zakresu dat. Wyszukaj i wybierz imię i nazwisko osoby w lewym panelu sekcji. Szczegóły szkolenia dla wybranej osoby są wyświetlane na prawym panelu sekcji.
+Sekcja Wydajności osób przedstawia szczegółowe informacje o szkoleniach poszczególnych osób w firmie dla wybranego zakresu dat. Wyszukaj i wybierz imię i nazwisko osoby w lewym panelu sekcji. Szczegóły szkolenia dla wybranej osoby są wyświetlane na prawym panelu sekcji.
 
 :::image type="content" source="images/insights/training-dashboard-individual-performance.png" alt-text="Indywidualna wydajność.":::
 

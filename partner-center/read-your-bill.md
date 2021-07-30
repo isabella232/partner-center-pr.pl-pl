@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/05/2020
 description: Dowiedz się więcej o plikach & uzgadniania. Na rachunku są Partner Center opłaty za program, produkty i klientów w tym miesięcznym okresie.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bbdf85d20e15841189191d6b415b54c26378850e
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 839f6f76e7efde4f0ad51375ceb5801f925c2510
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551201"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842171"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Informacje o pliku rachunku i uzgodnień — dowiedz się, jak znaleźć je w Partner Center
 
@@ -40,15 +40,15 @@ Poprzednie faktury można znaleźć w sekcji Historia rozliczeń. Wybierz odpowi
 
 ## <a name="invoice-types"></a>Typy faktur
 
-Firma Microsoft wyłoży jedną fakturę dla wszelkich opłat opartych na licencjach (takich jak usługa Office 365) i opłat opartych na użyciu (takich jak platforma Azure) oraz oddzielną fakturę za opłaty razowe (takie jak usługa Azure RI, witryna Marketplace lub plan platformy Azure).
+Firma Microsoft wyłoży jedną fakturę dla wszelkich opłat opartych na licencjach (takich jak Office 365) i opłat opartych na użyciu (takich jak platforma Azure) oraz oddzielną fakturę za opłaty tylko raz (takie jak RI platformy Azure, witryna Marketplace lub plan platformy Azure).
 
 Na przykład  
 
-**Scenariusz 1 [pojedyncza waluta]**: Partner ma zakupy dla oferty 145P i licencji usługi Office 365.  
+**Scenariusz 1 [pojedyncza waluta]**: Partner ma zakupy dla oferty 145P i Office 365 licencji,  
 
-- Partner otrzyma jeden plik PDF faktury i dwa pliki uzgodnień obejmujące opłaty za usługę Office 365 i platformę Azure (145p).  
+- Partner otrzyma jeden plik PDF faktury i dwa pliki uzgodnień obejmujące opłaty za Office 365 i platformę Azure (145p).  
 
-**Scenariusz 2 [pojedyncza waluta]**: Partner ma zakupy dla planu usługi Azure RI, witryny Marketplace i/lub platformy Azure wraz z zakupami 145p.
+**Scenariusz 2 [pojedyncza waluta]**: Partner ma zakupy na platformie Azure RI, Marketplace i/lub planie platformy Azure wraz z zakupami 145p.
 
 - Partner otrzyma jeden plik PDF faktury i jeden plik uzgodnień obejmujący opłaty za platformę Azure (145p). 
 
@@ -65,7 +65,7 @@ Na przykład
 
 ## <a name="understanding-invoice-pdf"></a>Informacje o fakturze w formacie PDF 
 
-**Faktury za** użycie i opłaty na podstawie licencji: faktury za opłaty za usługi, takie jak Office 365 i Azure, będą dostępne w ciągu dwóch (2) dni od wybranej daty rozliczeniowej [UTC].  
+**Faktury** za użycie i opłaty na podstawie licencji: faktury za opłaty za usługi takie jak Office 365 i Azure będą dostępne w ciągu dwóch (2) dni od wybranej daty rozliczeniowej [UTC].  
 
 **Faktury za opłaty jednorazowo** i cykliczne: faktury za opłaty za usługi, takie jak azure RI, plan platformy Azure i marketplace, będą dostępne nie później niż ósmego dnia każdego miesiąca.  
 

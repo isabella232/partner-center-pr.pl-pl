@@ -1,20 +1,20 @@
 ---
 title: Ustalanie rozmiarów maszyn wirtualnych Azure na potrzeby maksymalnego użycia rezerwacji
-description: Dowiedz się, jak rozmiarować maszynę wirtualną do potrzeb obliczeniowych klientów podczas zakupu Microsoft Azure rezerwacji dla nich.
+description: Dowiedz się, jak rozmiar maszyny wirtualnej (VM) był nakierowyny na potrzeby obliczeniowe klientów podczas zakupu Microsoft Azure rezerwacji dla nich.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 650618de7460f4667c60ac58cbe6716530db7f16
-ms.sourcegitcommit: b55f63a029d88c73cd5190bbac2df1b5990e6e44
+ms.openlocfilehash: dc9b9100e01191c24c03c76e9a9ff5a6ffe335d1
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "113510197"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842188"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Ustalanie rozmiarów maszyn wirtualnych Microsoft Azure na potrzeby maksymalnego użycia rezerwacji
 
@@ -27,7 +27,7 @@ W tym artykule wyjaśniono, jak rozmiar maszyny wirtualnej (VM) do potrzeb oblic
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Określanie rozmiaru maszyny wirtualnej dla rezerwacji platformy Azure klienta
 
-Podczas Microsoft Azure rezerwacji w imieniu klientów należy wybrać maszynę wirtualną o rozmiarze, aby spełnić potrzeby obliczeniowe klienta. Te informacje można znaleźć przy użyciu jednej z tych metod:
+Podczas Microsoft Azure rezerwacji w imieniu klientów należy wybrać maszynę wirtualną o rozmiarze spełniającym potrzeby obliczeniowe klienta. Te informacje można znaleźć przy użyciu jednej z tych metod:
 
 - Interfejs API wykorzystania platformy Azure
 - Witryna Azure Portal
@@ -72,14 +72,14 @@ Skorzystaj z informacji na poniższej ilustracji, aby uzyskać lokalizację i ro
 
 2. `/subscriptions/<Subscription ID>/resourceGroups/<Resource group name>/providers/Microsoft.Compute/virtualMachines/<VM Instance Name>?api-version=2017-12-01`
 
-3. Wywołanie zwraca wartości parametrów **vmSize** i **location**, jak pokazano poniżej.
+3. Wywołanie zwraca wartości **vmSize** i **location**, jak pokazano poniżej.
 
     :::image type="content" source="images/usage3.png" alt-text="wartość vmSize.":::
     :::image type="content" source="images/usage4.png" alt-text="wartość lokalizacji.":::
 
-## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Weryfikowanie użycia maszyny wirtualnej platformy Azure i rabatu na rezerwację
+## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Weryfikowanie rabatu za użycie maszyny wirtualnej platformy Azure i rezerwację
 
-Po zakupie wystąpienia zarezerwowanego maszyny wirtualnej platformy Azure w imieniu klienta rabat za opłacenie miejsca maszyny wirtualnej jest automatycznie stosowany do maszyn wirtualnych, które pasują do atrybutów i ilości rezerwacji klienta.
+Po zakupie wystąpienia zarezerwowanego maszyny wirtualnej platformy Azure w imieniu klienta rabat za opłacenie z góry miejsca maszyny wirtualnej jest automatycznie stosowany do maszyn wirtualnych, które pasują do atrybutów i ilości rezerwacji klienta.
 
 Możesz sprawdzić użycie rezerwacji klienta i sprawdzić, do których maszyn wirtualnych są stosowane rabaty za rezerwację, korzystając z jednej z następujących metod:
 
@@ -97,7 +97,7 @@ Instrukcje dotyczące korzystania z każdej z tych metod znajdują się poniżej
 
 2. Znajdź klienta, którego rabat na rezerwację i użycie chcesz zweryfikować, a następnie wybierz strzałkę w dół, aby rozwinąć informacje o kliencie. Wybierz **Microsoft Azure portal zarządzania,** aby otworzyć rekord klienta w Azure Portal.
 3. Wybierz **pozycję Rezerwacje** z menu portalu, a następnie wybierz rezerwację, dla której chcesz sprawdzić użycie.
-4. Na stronie **Przegląd** sprawdź wykres wykorzystania rezerwacji, który pokazuje, jaka część rezerwacji została zastosowana do maszyn wirtualnych.
+4. Na stronie **Przegląd** sprawdź wykres wykorzystania rezerwacji, który pokazuje, ile rezerwacji zastosowano do maszyn wirtualnych.
 
     >[!NOTE]
     >Dane użycia mogą być opóźnione o maksymalnie 8 godzin.
