@@ -3,18 +3,18 @@ title: Resetowanie hasła
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Dowiedz się, jak zresetować hasło Partner Center lub uzyskać pomoc od administratora globalnego firmy. Dowiedz się również, jak dodać nową Partner Center globalnego.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db178f668efcf519264d9ba46dbcb5277cc5b8cd
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: c26c33947e35e83f643c6ef1c6ddf74dab460f6d
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855526"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844466"
 ---
 # <a name="reset-my-password"></a>Resetowanie hasła
  

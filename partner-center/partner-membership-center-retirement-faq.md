@@ -3,17 +3,17 @@ title: Partner Membership Center — często zadawane pytania dotyczące wycofan
 ms.topic: article
 ms.date: 06/15/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-membership
 description: Uzyskaj odpowiedzi na pytania dotyczące wycofania Partner Membership Center (PMC) i przejścia do Partner Center.
 author: jasongroce
 ms.author: misherma
 ms.localizationpriority: high
-ms.openlocfilehash: 2aea685cf2bd468fcfa4e3b7530672ad1cc474eb
-ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
+ms.openlocfilehash: 9f46389ac0c1174690090d571305d6163cabb09e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "112126770"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837309"
 ---
 # <a name="partner-membership-center-retirement-faq"></a>Partner Membership Center — często zadawane pytania dotyczące wycofania
 **Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami

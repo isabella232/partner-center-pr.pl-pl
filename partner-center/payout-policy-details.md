@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 05/25/2021
-ms.openlocfilehash: bcecd4c31d80a4130331c652491e7951af180c67
-ms.sourcegitcommit: f1255fb65eac6ee2e0ff0cb95cc16a02dc57fc1a
+ms.openlocfilehash: 417421ad51c30d067ce3eb2189534a391b2951a2
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "110582427"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845010"
 ---
 # <a name="payout-schedules-and-processes"></a>Harmonogramy i procesy wypłaty
 
@@ -22,7 +22,7 @@ W tym artykule omówiono harmonogram płatności firmy Microsoft, gdzie można z
 
 ## <a name="payment-schedules"></a>Harmonogramy płatności
 
-W poniższych sekcjach opisano proces wypłat dla **Enterprise Agreement** i Umowa z Klientem Microsoft **lub CSP.**
+W poniższych sekcjach opisano proces wypłat **dla** Enterprise Agreement i Umowa z Klientem Microsoft **lub CSP.**
 
 ### <a name="transactions-when-customer-has-an-enterprise-agreement"></a>Transakcje, gdy klient ma Enterprise Agreement
 
@@ -34,9 +34,9 @@ Wypłata często występuje, zanim firma Microsoft zbierze płatność od klient
 | --- | --- | --- | --- |
 | Użycie lub miesiąc transakcji | Klient używa lub kupuje usługę. | [Pulpit nawigacyjny](/azure/marketplace/partner-center-portal/usage-dashboard) użycia [lub](/azure/marketplace/partner-center-portal/orders-dashboard) zamówienia | **Miesiąc 1** |
 | Firma Microsoft oblicza kwotę rozliczeniowa | Określanie łącznego użycia i łącznej liczby transakcji | [Pulpit nawigacyjny](/azure/marketplace/partner-center-portal/usage-dashboard) użycia [lub](/azure/marketplace/partner-center-portal/orders-dashboard) zamówienia | **Miesiąc 2** |
-| Opublikowana wypłata | Określanie opłat agencyjnych i zarobków wypłat | Oznaczone jako Nieprzetworzone w historii transakcji na [wyciągu z wypłat](payout-statement.md) | **3 miesiąc (1. tydzień)** |
-| Przygotowywanie wypłaty | Zarobki są przygotowane do płatności miesięcznych | Oznaczone jako Nadchodzące w historii transakcji w zestawienia [wypłat](payout-statement.md) | **3 miesiąc (1. tydzień)** |
-| **Wysłane wypłaty** | **Płatność jest wysyłana do wydawcy** | **Oznaczone jako Wysłane w historii transakcji i w sekcji Płatności zestawienia [wypłat](payout-statement.md)** | **Miesiąc 3 (nie później niż 15)** |
+| Opublikowana wypłata | Określanie opłat agencyjnych i zarobków w wypłatach | Oznaczone jako Nieprzetworzone w historii transakcji na [wyciągu z wypłat](payout-statement.md) | **3 miesiąc (1. tydzień)** |
+| Przygotowywanie wypłaty | Zarobki są przygotowane do płatności miesięcznej | Oznaczone jako Upcoming in Transaction History (Nadchodzące w historii transakcji) w [zestawienia wypłat](payout-statement.md) | **3 miesiąc (1. tydzień)** |
+| **Wysłane wypłaty** | **Płatność jest wysyłana do wydawcy** | **Oznaczone jako wysłane w historii transakcji i w sekcji Płatności zestawienia [wypłat](payout-statement.md)** | **3. miesiąc (nie później niż 15. miesiąc)** |
 | Faktura zapłacona przez klienta | Firma Microsoft zbiera płatność od klienta | Bez zmian | **Od 4 do 12 miesięcy** |
 |
 
@@ -54,21 +54,21 @@ Wszystkie zakupy przy użyciu karty kredytowej lub faktury miesięcznej mają 30
 | Faktura zapłacona przez klienta | Określanie łącznego użycia, łącznej wartości transakcji i faktury opłacanej przez klienta | [Pulpit nawigacyjny](/azure/marketplace/partner-center-portal/usage-dashboard) użycia [lub](/azure/marketplace/partner-center-portal/orders-dashboard) zamówienia | **Miesiąc 2** |
 | Opublikowana wypłata | Określanie opłat agencyjnych i zarobków w wypłatach | Oznaczone jako Nieprzetworzone w historii transakcji na [wyciągu z wypłat](payout-statement.md) | **Miesiąc 2** |
 | 30-dniowy okres przechowywania | Zapewnianie zbierania środków, możliwych opłat zwrotnych i żądań zwrotu pieniędzy | Oznaczone jako Nieprzetworzone w historii transakcji na [wyciągu z wypłat](payout-statement.md) | **Miesiąc 3** |
-| Przygotowywanie wypłaty | Zarobki są przygotowane do płatności miesięcznej | Oznaczone jako Upcoming in Transaction History (Nadchodzące w historii transakcji) w [zestawienia wypłat](payout-statement.md) | **4. miesiąc (1. tydzień)** |
-| **Wysłane wypłaty** | **Płatność jest wysyłana do wydawcy** | **Oznaczone jako Wysłane w historii transakcji i w sekcji Płatności zestawienia [wypłat](payout-statement.md)** | **Miesiąc 4 (nie później niż 15)** |
+| Przygotowywanie wypłaty | Zarobki są przygotowane do płatności miesięcznej | Oznaczone jako Upcoming in Transaction History (Nadchodzące w historii transakcji) w [zestawienia wypłat](payout-statement.md) | **4 miesiąc (1. tydzień)** |
+| **Wysłane wypłaty** | **Płatność jest wysyłana do wydawcy** | **Oznaczone jako wysłane w historii transakcji i w sekcji Płatności zestawienia [wypłat](payout-statement.md)** | **4. miesiąc (nie później niż 15. miesiąc)** |
 |
 
 \* Data wypłaty jest w czasie pacyficznym (PST).
 
-:::image type="content" source="images/payouts/timeline-credit-card-invoice.png" alt-text="Oś czasu płatności dla klientów kart kredytowych i faktur.":::
+:::image type="content" source="images/payouts/timeline-credit-card-invoice.png" alt-text="Oś czasu płatności dla klientów korzystających z kart kredytowych i faktur.":::
 
-## <a name="process-for-customer-non-payment"></a>Proces niepłacący klienta
+## <a name="process-for-customer-non-payment"></a>Proces braku płatności dla klienta
 
-W rzadkich przypadkach firma Microsoft nie może zbierać płatności od klientów za zakupy na platformie handlowej. Gdy klient nie zapłaci firmie Microsoft zgodnie z harmonogramem rozliczeniowym, rozpoczynamy proces kolekcji. Ten proces trwa około czterech miesięcy i obejmuje trwałą komunikację firmy Microsoft. Jeśli płatność nie zostanie odebrana po zakończeniu tego procesu, firma Microsoft zapisze środki jako niekodowane.
+W rzadkich przypadkach firma Microsoft nie może zbierać płatności od klientów za zakupy na platformie handlowej. Gdy klient nie płaci firmie Microsoft zgodnie z harmonogramem rozliczeniowym, rozpoczynamy proces kolekcji. Ten proces trwa około czterech miesięcy i obejmuje trwałą komunikację z firmą Microsoft. Jeśli płatność nie zostanie odebrana po zakończeniu tego procesu, firma Microsoft zapisze środki jako niekońcowe.
 
-W ramach procesu wypłaty, który został tu sformułowany, firma Microsoft może już zapłacono środki dla wydawców (Ty), które są ostatecznie niekodne. W związku z tym mamy proces uzgadniania tych kwot.
+W ramach procesu wypłaty, który został tu sformułowany, firma Microsoft może już wypłaconych środki wydawcom (Ty), które są ostatecznie niekodowalne. W związku z tym mamy proces uzgadniania tych kwot.
 
-Firma Microsoft będzie wycofać wszystkie wypłaty, które zostały ci już opłacone, korzystając z jednej z następujących metod: (1) Firma Microsoft może odjąć niezapłacone kwoty od przyszłych wypłat; Na przykład jeśli wypłaty w wysokości 1000 USD zostaną uznane za niekodowalne i zapisane, przyszłe wypłaty zostaną wstrzymane do momentu odzyskania kwoty 1000 USD lub (2) Firma Microsoft może zażądać zwrotu lub wydawców faktur dla wszelkich nieukońowanych kwot.
+Firma Microsoft będzie wycofać wszelkie wypłaty, które zostały ci już zapłacone, przy użyciu jednej z następujących metod: (1) Firma Microsoft może odjąć niezapłacone kwoty od przyszłych wypłat; Na przykład jeśli 1000 USD w wypłatach zostanie uznane za niekodowalne i zapisane, przyszłe wypłaty zostaną wstrzymane do momentu odzyskania 1000 USD lub (2) firma Microsoft może zażądać zwrotu lub wydawców faktur dla wszelkich nieobranych kwot.
 
 Oto przykładowy harmonogram:
 
@@ -78,11 +78,11 @@ Oto przykładowy harmonogram:
 | <font color="red">Jeśli klient nie płaci firmie Microsoft</font> | 12/2/2020 – 12/5/2020 | Bez zmian, tak jak powyżej |
 | Klient otrzymuje pierwszą wiadomość e-mail z opóźnieniem płatności | 12/6/2020 | Brak |
 | Klient otrzymuje regularne wiadomości e-mail o rosnącej pilności | 12/7/2020 – 1/31/2021 | Brak |
-| Wydawca jest prawdopodobnie powiadamiany o zapisie | 1/7/2021 | - |
+| Publisher jest prawdopodobnie powiadamiany o zapisie | 1/7/2021 | - |
 | Klient otrzymuje powiadomienie o zakończeniu działania | 2/1/2021 | Brak |
-| Proces zbierania kończy się/środki są zapisywane | 2/15/2021 | Wiadomość e-mail z powiadomieniem wysłanym do wydawcy o tym, że środki zostały zapisane. |
-| Odejmowana jest wypłata | 3/1/2021 | Wydawca zobaczy ujemną transakcję w Partner Center wypłaty |
-| Wypłata jest wstrzymana | 3/15/2021 | Przyszłe wypłaty będą wyświetlane w Partner Center wypłat. Wydawca nie otrzyma płatności, dopóki saldo nie będzie ujemne.  |
+| Proces zbierania kończy się/środki są zapisywane | 2/15/2021 | Wysłane do wydawcy powiadomienie e-mail o tym, że środki zostały zapisane. |
+| Odejmowana jest wypłata | 3/1/2021 | Publisher ujemną transakcję w Partner Center wypłaty |
+| Wypłata jest nieutrzymana | 3/15/2021 | Przyszłe wypłaty będą wyświetlane w Partner Center wypłat. Publisher nie otrzyma płatności, dopóki saldo nie będzie już ujemne.  |
 |||
 
 \* Data wypłaty jest w czasie pacyficznym (PST).

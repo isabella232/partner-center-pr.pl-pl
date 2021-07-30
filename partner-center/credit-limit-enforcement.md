@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 05/11/2021
 description: Dowiedz się więcej na temat limitu środków i sposobu jego obliczania. Zawiera często zadawane pytania.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da3fc23a51cc70eec91a304f14189eb191c71339
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 32dc94a4bd85160a02a4be880469f713d98449ba
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148112"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837972"
 ---
 # <a name="credit-limit-enforcement-cle"></a>Wymuszanie limitu środków (CLE)
 
@@ -24,11 +24,11 @@ ms.locfileid: "110148112"
 
 Limit środków to maksymalna kwota (w dolarach amerykańskich), którą partner może wydać na zakup produktów lub subskrypcji w Partner Center. W przypadku przekroczenia limitu środków nie będzie można dokonać nowych zakupów, dopóki nie zostanie dokonana wystarczająca płatność. Istniejące subskrypcje będą nadal nieprzerwane.
 
-Limity środków mają zastosowanie do ofert w planie platformy Azure, rezerwacjach platformy Azure, oprogramowaniu, witrynie Marketplace, produktach Azure 145 P, Office i Dynamics. Limity środków nie mają zastosowania do odnawiania i bieżącego użycia.
+Limity środków mają zastosowanie do ofert w planie platformy Azure, rezerwacjach platformy Azure, oprogramowaniu, witrynie Marketplace, platformie Azure 145 P, Office i produktach Dynamics. Limity środków nie mają zastosowania do odnawiania i bieżącego użycia.
 
 Przypisujemy Limit środków na poziomie dzierżawy w okresie dołączania. Opieramy go na prognozowanych przychodach, zakupach i historii płatności. Następnie użyjemy następującej formuły do obliczenia dostępnego salda:
 
-**[Limit środków — (zakup przychodzący + zaległe niezapłacone faktury + nierozlicone opłaty — nadpłata)]**
+**[Limit środków — (Zakup przychodzący + Zaległe niezapłacone faktury + Nierozlicone opłaty — nadpłata)]**
 
 ## <a name="frequently-asked-questions"></a>Często zadawane pytania
 
@@ -44,7 +44,7 @@ Tak. Istniejące subskrypcje klientów będą kontynuowane bez zakłóceń. Nie 
 
 Tak, dotyczy to obu tych sytuacji.
 
-### <a name="after-i-submit-my-payment-to-reinstate-my-account-when-can-i-purchase-more-subscriptions"></a>Kiedy mogę kupić więcej subskrypcji po przesłaniu płatności w celu przywrócenia konta? 
+### <a name="after-i-submit-my-payment-to-reinstate-my-account-when-can-i-purchase-more-subscriptions"></a>Kiedy po przesłaniu płatności w celu przywrócenia konta mogę kupić więcej subskrypcji? 
 
 Powinno być możliwe wznowienie zakupu w ciągu 24 godzin od płatności przy założeniu, że firma Microsoft otrzymała wszystkie wymagania dotyczące kontynuowania procesu sprawdzania środków.
 
@@ -56,7 +56,7 @@ Skontaktuj się [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) z nami, 
 
 Tak. Możesz jednak skontaktować się z firmą Microsoft na stronie , [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) aby rozwiązać ten problem.
 
-### <a name="how-soon-will-i-hear-back-if-i-write-to-ucmwrcspmicrosoftcom"></a>Jak szybko usłyszę ponownie, jeśli napiszę do ucmwrcsp@microsoft.com ?
+### <a name="how-soon-will-i-hear-back-if-i-write-to-ucmwrcspmicrosoftcom"></a>Jak szybko usłyszę, jeśli napiszę do ucmwrcsp@microsoft.com ?
 
 Odpowiedź powinna być wyższa niż 24 godziny. 
 
@@ -68,7 +68,7 @@ Limit środków określamy na podstawie prognozowanych przychodów, zakupów i h
 
 Tak. Limity środków mają zastosowanie do wszystkich programów i produktów CSP w Partner Center.
 
-### <a name="who-will-receive-the-notification-when-my-organization-is-nearing-its-credit-limit"></a>Kto otrzyma powiadomienie, gdy moja organizacja zbliża się do limitu środków?
+### <a name="who-will-receive-the-notification-when-my-organization-is-nearing-its-credit-limit"></a>KtoTo otrzyma powiadomienie, gdy moja organizacja zbliża się do limitu środków?
 
 Powiadomienie powinno zostać otrzymać osoba kontaktowa ds. należności dla konta finansowego Twojej organizacji.
 

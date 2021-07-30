@@ -3,18 +3,18 @@ title: Umowy dotyczące CSP, cenniki i oferty
 ms.topic: article
 ms.date: 05/15/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Linki do przewodników Dostawca rozwiązań w chmurze, umów partnerskich, umów klienta, cenników i ofert.
 author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d7811decea89ecee8bc1db565fb9952a8d62e572
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: eea3a3232996a86520627f58a0897bd2cc815e93
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147789"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837649"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Cloud Solution Provider program guide, agreements, price lists, and offers (Przewodnik po programie Cloud Solution Provider oraz jego umowy, cenniki i oferty)
 
@@ -31,7 +31,7 @@ Przejrzyj wymagania dotyczące stania się partnerem w Dostawca rozwiązań w ch
 [Przewodnik po programie dla Dostawca rozwiązań w chmurze partnerów](https://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
->Jeśli potrzebujesz listu biznesowego potwierdzającego lub certyfikowania Twojego stanu jako zatwierdzonego partnera firmy Microsoft w programie [Dostawca rozwiązań w chmurze,](https://partner.microsoft.com/pcv/servicerequests/create) skontaktuj się z pomocą techniczną, aby go zażądać.
+>Jeśli potrzebujesz listu firmowego potwierdzającego lub certyfikowania Twojego stanu jako zatwierdzonego partnera firmy Microsoft w programie [Dostawca rozwiązań w chmurze,](https://partner.microsoft.com/pcv/servicerequests/create) skontaktuj się z pomocą techniczną, aby go zażądać.
 
 ### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Dodatkowe warunki oferty dla Microsoft Partner Agreement
 
@@ -46,15 +46,15 @@ Aby ręcznie pobrać najnowszą wersję szablonu Umowa z Klientem Microsoft, wyb
 >[!IMPORTANT]
 >Musisz potwierdzić, że klient zaakceptował Umowa z Klientem Microsoft. Możesz potwierdzić, potwierdzając, że klient zaakceptował umowę, lub zapraszając klienta do bezpośredniego zaakceptowania umowy. Zobacz [Potwierdzanie akceptacji przez klienta Umowa z Klientem Microsoft](confirm-customer-agreement.md).
 
-### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Poprawka do tajemnicy zawodowej do Umowa dotycząca platformy Microsoft Cloud (Niemcy)
+### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Professional Poprawka do Umowa dotycząca platformy Microsoft Cloud (Niemcy)
 
 W Niemczech kodeks karny (sekcja 203) i profesjonalne kodeksy postępowania wymagają zachowania poufności niektórych relacji z klientami, na przykład relacji między pacjentami i ich lekarzami oraz relacji między lekarzami a ich klientami. Grupy te muszą zapewnić tajemnicę zawodową. W przypadku tych i innych podmiotów w celu zakupu usług w chmurze od dostawców rozwiązań w chmurze dostawca usług w chmurze musi zawrzeć napisaną umowę z klientem, która zapewnia tajemnicę służbową.
 
 Jeśli prowadzenia działalności biznesowej w Niemczech, może być konieczne podanie tej poprawki do tajemnicy zawodowej dla klientów tam oprócz Umowa dotycząca platformy Microsoft Cloud.
 
-[Umowa dotycząca platformy Microsoft Cloud dotyczące tajemnicy zawodowej dla Niemiec (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+[Umowa dotycząca platformy Microsoft Cloud Professional secrecy amendment for Germany (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
-[Umowa dotycząca platformy Microsoft Cloud Professional Secrecy Amendment for Germany (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+[Umowa dotycząca platformy Microsoft Cloud Professional secrecy Amendment for Germany (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
 ## <a name="pricing"></a>Cennik
 
@@ -64,13 +64,13 @@ Cennik oparty na licencjach jest aktualizowany co miesiąc, a firma Microsoft wy
 
 Ceny oparte na użyciu są dynamiczne i często się zmieniają. Przykłady usług opartych na użyciu obejmują Microsoft Azure.
 
-Ceny zakupu za jeden raz są również dynamiczne. Przykłady zakupów razowych obejmują rezerwacje Microsoft Azure i odpowiednie subskrypcje oprogramowania Windows Server i SQL.
+Ceny zakupu za jeden raz są również dynamiczne. Przykłady zakupów razowych obejmują rezerwacje Microsoft Azure i odpowiadające im subskrypcje Windows Server i SQL oprogramowania.
 
-Aby uzyskać informacje o cenach Azure Marketplace ofert, przejdź do witryny **Marketplace** Partner Center menu nawigacji po lewej stronie. Wybierz produkt, aby wyświetlić informacje o wydawcy, jednostkach SKU i cenach. Ceny tych produktów Azure Marketplace często się zmieniają. Aby uzyskać bieżące informacje o cenach dla wszystkich produktów w witrynie Marketplace, wybierz pozycję **Eksportuj cennik,** aby wygenerować arkusz kalkulacyjny ze wszystkimi danymi cen. Te informacje są aktualizowane codziennie, więc możesz je sprawdzać tak często, jak chcesz.
+Aby uzyskać informacje o cenach Azure Marketplace ofert, przejdź do witryny **Marketplace** Partner Center menu nawigacji po lewej stronie. Wybierz produkt, aby wyświetlić informacje o wydawcy, jednostkach SKU i cenach. Ceny tych produktów Azure Marketplace często się zmieniać. Aby uzyskać bieżące informacje o cenach dla wszystkich produktów w witrynie Marketplace, wybierz pozycję **Eksportuj cennik,** aby wygenerować arkusz kalkulacyjny ze wszystkimi danymi cen. Te informacje są aktualizowane codziennie, więc możesz je sprawdzać tak często, jak chcesz.
 
 ## <a name="offers"></a>Oferty
 
-Jako partner w programie CSP możesz sprzedawać szeroką gamę produktów, usług i rozwiązań firmy Microsoft, w tym usługi Office 365, Enterprise Mobility Suite, Microsoft Dynamics i Microsoft Azure. Aby uzyskać więcej informacji o tym, które oferty są dostępne do sprzedaży  w ramach tych rodzin produktów, zobacz macierz ofert CSP na stronie Cennik i oferty dostępnej w **menu** Partner Center produktów. Ten dokument jest aktualizowany co miesiąc.
+Jako partner w programie CSP możesz sprzedawać szeroką gamę produktów, usług i rozwiązań firmy Microsoft, w tym Office 365, Enterprise Mobility Suite, Microsoft Dynamics i Microsoft Azure. Aby uzyskać więcej informacji o tym, które oferty są dostępne do sprzedaży  w ramach tych rodzin produktów, zobacz macierz ofert CSP na stronie Cennik i oferty dostępnej w **menu** Partner Center produktów. Ten dokument jest aktualizowany co miesiąc.
 
 W przypadku partnerów programu CSP, którzy korzystają z interfejsu API rekordów użycia języka Crest, firma Microsoft publikuje również listę usług platformy Azure w programie CSP na stronie Cennik **i oferty.**
 

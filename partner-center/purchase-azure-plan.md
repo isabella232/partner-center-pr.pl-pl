@@ -3,18 +3,18 @@ title: Kupowanie planu platformy Azure
 ms.topic: how-to
 ms.date: 07/21/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Korzystając z planu platformy Azure, dowiedz się, jak kupić pojedynczą lub wiele subskrypcji platformy Azure, rezerwacji platformy Azure, skonfigurować zasoby oraz wyświetlić lub dodać subskrypcje.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a85fafab9ec815c0d593580837a8d5fd415c2bc
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 792ac90b1c8cad0929ea163a2b4f606ac9a1d3ce
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114433721"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844517"
 ---
 # <a name="purchase-the-azure-plan-for-customers-and-access-the-latest-azure-services"></a>Kupowanie planu platformy Azure dla klientów i uzyskiwanie dostępu do najnowszych usług platformy Azure
 
@@ -66,14 +66,14 @@ Aby znaleźć nowy plan platformy Azure z Partner Center API, zobacz [Tworzenie 
 
 ## <a name="review-and-buy"></a>Przeglądanie i kupowanie
 
-Wróć do **strony Dodawanie produktu,** na której widać, że plan platformy Azure został dodany. Wybierz **pozycję Przejrzyj,** aby przejrzeć zakup, a następnie wybierz **pozycję Kup.** 
+Wróć do **strony Dodawanie produktu,** na której widać, że plan platformy Azure został dodany. Wybierz **pozycję Przejrzyj,** aby przejrzeć zakup, a następnie wybierz **pozycję Kup**. 
 
 > [!NOTE]
 > Po zakupie planu platformy Azure dla klienta nie będzie można już kupić planu Microsoft Azure (0145p) dla tego klienta. Konieczne będzie utworzenie przyszłych subskrypcji za pośrednictwem planu platformy Azure.
 
 ## <a name="purchase-azure-reservations-under-the-azure-plan"></a>Kupowanie rezerwacji platformy Azure w ramach planu platformy Azure 
   
-Możesz również kupić rezerwacje Microsoft Azure w ramach planu platformy Azure w imieniu klientów w Partner Center. (Lub, jeśli wolisz, możesz udzielić swoim klientom uprawnień do zakupu własnych rezerwacji platformy [Azure](give-customers-permission.md) z wcześniejszej subskrypcji, która została dla nich zakupiona).
+Możesz również kupić rezerwacje Microsoft Azure planie platformy Azure w imieniu klientów w Partner Center. (Lub, jeśli wolisz, możesz udzielić swoim klientom uprawnień do zakupu własnych rezerwacji platformy [Azure](give-customers-permission.md) z wcześniejszej subskrypcji, która została dla nich zakupiona).
 
 1. Z menu Partner Center pulpitu [nawigacyjnego](https://partner.microsoft.com/dashboard/)wybierz pozycję **Klienci.** Znajdź klienta, który chce kupić rezerwacje platformy Azure, a następnie wybierz strzałkę w dół, aby rozwinąć wiersz klienta.
 

@@ -3,41 +3,41 @@ title: Przywróć uprawnienia administratora dla Azure CSP
 ms.topic: how-to
 ms.date: 05/27/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Dowiedz się, jak pomóc klientom w przywróceniu uprawnień administratora partnera, dzięki czemu partner może pomóc w zarządzaniu subskrypcjami usługi Azure Dostawca rozwiązań w chmurze (CSP) klienta.
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 196b38d30942278beb00096529f5965db7dfb96c
-ms.sourcegitcommit: b55f63a029d88c73cd5190bbac2df1b5990e6e44
+ms.openlocfilehash: 0a3af74158b36442118d41662744fc921277963c
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "113510180"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845333"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Przywróć uprawnienia administratora dla subskrypcji Azure CSP klienta  
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny
 
-Jako Dostawca rozwiązań w chmurze (CSP), klienci często oczekują, że będziesz zarządzać ich użyciem platformy Azure i ich systemami. Musisz mieć do tego uprawnienia administratora. Niektóre uprawnienia są przyznawane, gdy relacja odsprzedawcy z klientem zostanie ustanowiona. Inne osoby są przyznawane przez klienta.
+Jako Dostawca rozwiązań w chmurze (CSP) klienci często oczekują, że będziesz zarządzać ich użyciem platformy Azure i ich systemami. Musisz mieć do tego uprawnienia administratora. Niektóre uprawnienia są przyznawane, gdy relacja odsprzedawcy z klientem zostanie ustanowiona. Inne osoby są udzielane przez klienta.
 
 ## <a name="admin-privileges-for-azure-in-csp"></a>Uprawnienia administratora dla Platforma Azure w programie CSP
 
 Istnieją dwa poziomy uprawnień administratora dla Platforma Azure w programie CSP.
 
 - **Uprawnienia administratora na poziomie dzierżawy (delegowane** uprawnienia administratora): partnerzy programu CSP uzyskają te uprawnienia podczas ustanawiania relacji odsprzedawcy programu CSP z klientami. Delegowane uprawnienia administratora zapewniają partnerom programu CSP dostęp do dzierżaw ich klientów. Ten dostęp umożliwia im korzystanie z funkcji administracyjnych, takich jak dodawanie użytkowników i zarządzanie nimi, resetowanie haseł i zarządzanie licencjami użytkowników.
-- **Uprawnienia administratora na poziomie subskrypcji:** partnerzy programu CSP uzyskają te uprawnienia podczas tworzenia Azure CSP subskrypcji dla swoich klientów. Te uprawnienia dają partnerom programu CSP pełny dostęp do tych subskrypcji, co pozwala im aprowizować zasoby platformy Azure i zarządzać nimi.
+- **Uprawnienia administratora na poziomie subskrypcji:** partnerzy programu CSP uzyskają te uprawnienia podczas tworzenia Azure CSP subskrypcji dla swoich klientów. Te uprawnienia umożliwiają partnerom programu CSP pełny dostęp do tych subskrypcji, co pozwala im aprowizować zasoby platformy Azure i zarządzać nimi.
 
 ## <a name="reinstate-csp-a-partners-admin-privileges"></a>Przywróć uprawnienia administratora partnera w programie CSP
 
-Klient może ponownie utworzyć przypisanie roli CSP, jeśli udostępnisz klientowi grupę `object ID` AdminAgents. Aby odzyskać delegowane uprawnienia administratora, musisz współpracować z klientem, aby wykonać poniższe kroki.
+Klient może ponownie utworzyć przypisanie roli CSP, jeśli udostępnisz klientowi grupę `object ID` AdminAgents. Aby odzyskać delegowane uprawnienia administratora, musisz współpracować z klientem, aby wykonać następujące kroki.
 
 1. Zaloguj się do pulpitu Partner Center nawigacyjnego.
 
 2. W menu Partner Center wybierz pozycję **Klienci.**
 
-3. Wybierz klienta, z który pracujesz, **i zażądaj relacji odsprzedawcy.** Ta akcja generuje link do klienta, który ma uprawnienia administratora dzierżawy.
+3. Wybierz klienta, z który pracujesz, i **zażądaj relacji odsprzedawcy.** Ta akcja generuje link do klienta, który ma uprawnienia administratora dzierżawy.
 
 4. Klient musi wybrać link i zatwierdzić żądanie relacji odsprzedawcy.
 
@@ -51,9 +51,9 @@ Klient może ponownie utworzyć przypisanie roli CSP, jeśli udostępnisz klient
    Get-AzADGroup -DisplayName AdminAgents
    ```
 
-6. Klient musi następnie wykonać poniższe kroki przy użyciu programu PowerShell lub interfejsu wiersza polecenia platformy Azure. Klient musi mieć:
+6. Następnie klient musi wykonać poniższe kroki przy użyciu programu PowerShell lub interfejsu wiersza polecenia platformy Azure. Klient musi mieć:
 
-- Rola właściciela **lub administratora** dostępu **użytkowników** 
+- Rola właściciela **lub** **administratora dostępu użytkowników** 
 - Uprawnienia do tworzenia przypisań ról na poziomie subskrypcji
 
    a. Tylko w przypadku programu PowerShell klient musi zaktualizować `Az.Resources` moduł.
@@ -109,7 +109,7 @@ Zamiast udzielać uprawnień właściciela w zakresie subskrypcji, możesz udzie
    az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "<Resource URI>"
    ```
 
-Jeśli powyższe kroki nie działają lub podczas próby ich próby występują błędy, spróbuj wykonać następującą procedurę "catch-all", aby przywrócić prawa administratora dla klienta.
+Jeśli powyższe kroki nie działają lub występują błędy podczas próby ich uzyskania, spróbuj wykonać następującą procedurę "catch-all", aby przywrócić prawa administratora dla klienta.
 
 ```powershell
 Install-Module -Name Az.Resources -Force -Verbose
@@ -127,13 +127,13 @@ Jeśli klient nie może wykonać kroku 6 powyżej, niech spróbuje wykonać nast
 New-AzRoleAssignment -ObjectId <principal ID> -RoleDefinitionName "Owner" -Scope "/subscriptions/<costumer subscription>" -ObjectType "ForeignGroup" -Debug > newRoleAssignment.log
 ```
 
-Udostępnij wynikowy `newRoleAssignment.log` plik firmie Microsoft do dalszej analizy.
+Udostępnij wynikowy `newRoleAssignment.log` plik firmie Microsoft w celu dalszej analizy.
 
 Jeśli procedura "catch-all" nie powiedzie się podczas `Import-Module` , spróbuj wykonać następujące czynności:
 - Jeśli importowanie nie powiedzie się, ponieważ moduł jest w użyciu, uruchom ponownie sesję programu PowerShell, zamykając i ponownie otwierając wszystkie okna.
 - Sprawdź wersję programu za `Az.Resources` pomocą . `Get-Module Az.Resources -ListAvailable`
 - Jeśli wersja 4.1.1 nie znajduje się na liście dostępnych, należy użyć programu `Update-Module Az.Resources -Force` .
-- Jeśli w błędzie zostanie określony stan, który musi być określoną wersją, zaktualizuj również ten moduł, zastępując `Az.Accounts` wartość `Az.Resources` . `Az.Accounts` Następnie należy ponownie uruchomić sesję programu PowerShell.
+- Jeśli błąd zawiera konkretną wersję, zaktualizuj również ten moduł, zastępując `Az.Accounts` wartość `Az.Resources` . `Az.Accounts` Następnie należy ponownie uruchomić sesję programu PowerShell.
 
 
 ## <a name="next-steps"></a>Następne kroki

@@ -1,48 +1,48 @@
 ---
-title: Rozliczenia dla produktów komercyjnej platformy handlowej
+title: Rozliczenia za produkty platformy handlowej
 ms.topic: article
 ms.date: 05/12/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Dowiedz się, jak działa rozliczanie dla produktów SaaS lub subskrypcji isv saas zakupionych dla klientów na platformie handlowej w Partner Center.
+ms.subservice: partnercenter-billing
+description: Dowiedz się, jak działa rozliczanie dla produktów SaaS isv lub subskrypcji zakupionych dla klientów na platformie handlowej w Partner Center.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c25d4ab3077c6a0f648c767472e8b7b60ef53a9c
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 102f13530ece08cd813412a44897ece0186e7cbb
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148027"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837955"
 ---
-# <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Rozliczenia za produkty i subskrypcje komercyjnej platformy handlowej w Partner Center
+# <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Rozliczenia za produkty i subskrypcje platformy handlowej w Partner Center
 
 
 **Odpowiednie role:** Administrator globalny | Administrator rozliczeń
 
-Jako partner w programie CSP możesz użyć usługi Partner Center do zakupu produktów SaaS opartych na licencjach od wydawców ISV na platformie handlowej. Po tym możesz uzyskać dostęp do rachunku za tego typu zakupy. Okres rozliczeniowy rozpoczyna się pierwszego dnia miesiąca kalendarzowego i kończy ostatniego dnia miesiąca kalendarzowego. Faktury są udostępniane 8 dnia następnego miesiąca.
+Jako partner w programie CSP możesz używać usługi Partner Center do kupowania opartych na licencjach produktów SaaS od wydawców ISV na platformie handlowej. Po tym możesz uzyskać dostęp do rachunku za tego typu zakupy. Okres rozliczeniowy rozpoczyna się pierwszego dnia miesiąca kalendarzowego i kończy się ostatniego dnia miesiąca kalendarzowego. Faktury są udostępniane 8 dnia następnego miesiąca.
 
 Dostęp do faktur można uzyskać z pulpitu nawigacyjnego Partner Center [lub](https://partner.microsoft.com/dashboard/) przy użyciu [Partner Center API.](/partner-center/develop/)
 
-Partnerzy w programie CSP są rozliczani za komercyjne rozwiązania platformy handlowej od isV zakupione dla klienta w przypadku zakupu tych produktów w usłudze Partner Center lub u firmy Azure Portal (przy użyciu wcześniej zakupionej dzierżawy platformy Azure przez klienta).
+Partnerzy w programie CSP są rozliczani za rozwiązania platformy handlowej dla isV zakupione dla klienta w przypadku zakupu tych produktów w usłudze Partner Center lub u firmy Azure Portal (przy użyciu wcześniej zakupionej dzierżawy platformy Azure przez klienta CSP).
 
 >[!NOTE]
->Jeśli klienci korzystają z własnej dzierżawy usługi Azure AD (nie jednej zakupionej od partnera w programie CSP), klienci mogą również zakupić własne rozwiązanie SaaS dla isv bezpośrednio w usłudze ([Microsoft AppSource](https://appsource.microsoft.com/) lub [Azure Marketplace](https://azuremarketplace.microsoft.com/)). Jeśli to zrobią, otrzymają własny rachunek bezpośrednio od firmy Microsoft. Podobnie jeśli partner w programie CSP sprzedaje klientowi subskrypcję platformy Azure lub nowy plan [](/azure/role-based-access-control/built-in-roles) platformy Azure i udziela klientowi (lub odsprzedawcy pośredniego) dostępu opartego na rolach do tej dzierżawy (przypisując klientowi dowolną rolę oprócz **Czytelnika),** ten klient (lub odsprzedawca pośredni) może również zakupić oferty platformy handlowej bez wcześniejszego zatwierdzenia lub powiadomienia partnera CSP. W takich przypadkach firma Microsoft nie będzie bezpośrednio powiadamiać partnerów w programie CSP o zakupach dokonanych przez ich klientów. Firma Microsoft oferuje jednak opcjonalny [mechanizm](/azure/azure-monitor/platform/alerts-activity-log) Azure Monitor, który umożliwia ustawianie alertów lub powiadomień dotyczących aktywności w subskrypcji platformy Azure.
+>Jeśli klienci korzystają z własnej dzierżawy usługi Azure AD (nie tej zakupionej od partnera w programie CSP), klienci mogą również zakupić własne rozwiązanie SaaS dla isv bezpośrednio w witrynie ([Microsoft AppSource](https://appsource.microsoft.com/) [lub Azure Marketplace](https://azuremarketplace.microsoft.com/)). Jeśli to zrobi, otrzyma własny rachunek bezpośrednio od firmy Microsoft. Podobnie jeśli partner w programie CSP sprzedaje klientowi subskrypcję platformy Azure lub nowy plan [](/azure/role-based-access-control/built-in-roles) platformy Azure i udziela klientowi (lub odsprzedawcy pośredniego) dostępu opartego na rolach do tej dzierżawy (przypisując mu dowolną rolę oprócz **Czytelnika),** ten klient (lub odsprzedawca pośredni) może również zakupić oferty platformy handlowej bez wcześniejszego zatwierdzenia lub powiadomienia partnera CSP. W takich przypadkach firma Microsoft nie będzie bezpośrednio powiadamiać partnerów w programie CSP o zakupach dokonanych przez ich klientów. Firma Microsoft oferuje jednak opcjonalny mechanizm [Azure Monitor,](/azure/azure-monitor/platform/alerts-activity-log) który umożliwia ustawianie alertów lub powiadomień dotyczących aktywności w subskrypcji platformy Azure.
 
-## <a name="access-billing-information-for-commercial-marketplace-products"></a>Uzyskiwanie dostępu do informacji rozliczeniowych dla produktów komercyjnej platformy handlowej
+## <a name="access-billing-information-for-commercial-marketplace-products"></a>Uzyskiwanie dostępu do informacji rozliczeniowych dotyczących produktów na platformie handlowej
 
-Administrator globalny lub administrator rozliczeń w firmie otrzyma wiadomość e-mail, gdy faktura będzie gotowa do wyświetlenia. Aby uzyskać dostęp do najnowszej faktury i pliku uzgodnień dla zakupów produktów na platformie handlowej:
+Gdy faktura będzie gotowa do wyświetlenia, administrator globalny lub administrator rozliczeń w firmie otrzyma wiadomość e-mail. Aby uzyskać dostęp do najnowszej faktury i pliku uzgodnień dla zakupów produktów na platformie handlowej:
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/) Centrum partnerskiego.
 
 2. Z menu Partner Center wybierz pozycję **Rozliczenia.** 
 
-    W górnej części strony Rozliczenia zobaczysz dwie karty: **Cykliczne** i Cykliczne oraz **Zakupy jednorazowe.** Każda karta umożliwia dostęp do plików faktur i uzgodnień (uzgodnień) dla różnych produktów z platformy handlowej:
+    W górnej części strony Rozliczenia zostaną wyświetlonych dwie **karty:** Cykliczne i Cykliczne oraz Zakupy **jednorazowe.** Każda karta umożliwia dostęp do plików faktur i uzgodnień (uzgodnień) dla różnych produktów z platformy handlowej:
 
-    - **Karta** Cykliczne: przedstawia pliki faktur i uzgodnień dla subskrypcji związanych z usługami Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI Pro i Microsoft Azure.
+    - **Karta** Cykliczne: wyświetla pliki faktur i uzgodnień dla subskrypcji związanych z usługami Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI Pro i Microsoft Azure.
 
-    - **Karta Zakupów cyklicznych i jednorazowych:** przedstawia pliki faktur i uzgodnień dla planu platformy Azure, rezerwacji platformy Azure, oprogramowania i produktów platformy handlowej.
+    - **Karta Zakupów cyklicznych i jednorazowych:** pokazuje pliki faktur i uzgodnień dla planu platformy Azure, rezerwacji platformy Azure, oprogramowania i produktów platformy handlowej.
   
 3. Wybierz **kartę Cykliczne i zakupy jednorazowe.** Jeśli zakupiono subskrypcje dla klienta w innej walucie, zobaczysz kartę dla każdej waluty. Na tej stronie możesz wykonać kilka czynności:
 
@@ -53,13 +53,13 @@ Administrator globalny lub administrator rozliczeń w firmie otrzyma wiadomość
     - Aby sprawdzić szacowane saldo konta lub rachunek w dowolnym momencie na podstawie najnowszej aktywności konta, wybierz link w obszarze **nagłówka Oszacowania.**  
 
     >[!NOTE]
-    > Gdy opublikujemy rachunek 8 dnia miesiąca, będzie on obejmować podatki oraz wszelkie inne odpowiednie opłaty i środki. Oznacza to, że końcowa kwota do płatności może różnić się od kwoty, która będzie się różnić w okresie rozliczeniowym.
+    > Gdy opublikujemy Twój rachunek 8 dnia miesiąca, będzie on obejmować podatki oraz wszelkie inne obowiązujące opłaty i środki. Oznacza to, że końcowa należna kwota może różnić się od kwoty, która będzie się różnić w okresie rozliczeniowym.
 
 ## <a name="more-about-invoices-and-recon-files-for-commercial-marketplace-products"></a>Więcej informacji o fakturach i plikach wymiany dla produktów platformy handlowej
 
 Ta sekcja zawiera więcej informacji na temat plików faktur i uzgodnień dla subskrypcji SaaS komercyjnej platformy handlowej zakupionych dla klientów od zewnętrznych wydawców isV.
 
-Po wybraniu  pozycji Zakupy cykliczne i  jednorazowe z opcji Rozliczenia w menu usługi Partner Center uzyskasz dostęp do faktur i plików uzgodnień dla opłat związanych z zakupami zarówno firmy Microsoft (firmy Microsoft), jak i od dostawcy oprogramowania (innej firmy). Te zakupy mogą być skojarzone z:
+Po wybraniu  pozycji Zakupy cykliczne i  jednorazowe z opcji Rozliczenia w menu usługi Partner Center uzyskasz dostęp do faktur i plików uzgodnień dla opłat związanych zarówno z zakupami firmy Microsoft (firmy Microsoft), jak i z zakupami dostawcy oprogramowania (innych firm). Te zakupy mogą być skojarzone z:
 
 - Subskrypcje SaaS (od wydawców firmy Microsoft lub isV)
 
@@ -67,26 +67,26 @@ Po wybraniu  pozycji Zakupy cykliczne i  jednorazowe z opcji Rozliczenia w menu 
 
 - Rezerwacje platformy Azure
 
-- Inne oprogramowanie oparte na subskrypcji (od firmy Microsoft lub wydawców ISV)
+- Inne oprogramowanie oparte na subskrypcji (od firmy Microsoft lub od wydawców ISV)
 
-Przykłady takich zakupów mogą obejmować oprogramowanie SUSE Linux (subskrypcję oprogramowania) lub subskrypcję produktu SaaS dla isv platformy Azure.
+Przykładami takich zakupów mogą być oprogramowanie SUSE Linux (subskrypcja oprogramowania) lub subskrypcja produktu SaaS dostawcy oprogramowania platformy Azure.
 
 >[!NOTE]
 > Aby uzyskać więcej informacji na temat odczytywania faktur i plików ponownego rozliczania, zobacz również [Omówienie rozliczeń](billing.md).
 
-### <a name="tips-on-reading-your-invoice"></a>Porady dotyczące odczytywania faktury
+### <a name="tips-on-reading-your-invoice"></a>Wskazówki na odczytywaniu faktury
 
-W przypadku zakupu produktu SaaS opartego na licencjach od zewnętrznego wydawcy isV zobaczysz na fakturze tylko opłaty za licencję. Dzieje się tak nawet wtedy, gdy produkt SaaS dostawcy oprogramowania isv używa (lub zużywa) bazowych zasobów infrastruktury platformy Azure. Wynika to z tego, że opłaty za użycie infrastruktury platformy Azure klienta dla produktu SaaS dostawcy isv są rozliczane bezpośrednio u dostawcy oprogramowania. (Dostawcy oprogramowania zobaczą skojarzone opłaty za użycie platformy Azure we własnym pliku uzgodnień faktur z dziennej oceny użycia platformy Azure).
+W przypadku zakupu opartego na licencji produktu SaaS od zewnętrznego wydawcy isv publisher zobaczysz tylko opłaty za licencję na fakturze. Dzieje się tak nawet wtedy, gdy produkt SaaS dostawcy oprogramowania isv korzysta z podstawowych zasobów infrastruktury platformy Azure. Wynika to z tego, że opłaty za użycie infrastruktury platformy Azure klienta dla produktu SaaS dostawcy oprogramowania są rozliczane bezpośrednio u dostawcy oprogramowania. (Dostawcy oprogramowania zobaczą skojarzone opłaty za użycie platformy Azure we własnym pliku uzgodnień faktur z dziennego użycia platformy Azure).
 
 Faktura będzie zawierać kilka stron:
 
-- **Strona 1 faktury:** Zawiera podsumowanie szczegółów rozliczeń partnera programu CSP. Obejmuje to podsumowanie opłat za okres rozliczeniowy, numer faktury, terminy płatności (net 60 dni) i formy płatności rozliczeń do zapłacenia przelewem lub czeku.
+- **Strona 1 faktury:** Zawiera podsumowanie szczegółów rozliczeń partnera programu CSP. Obejmuje to podsumowanie opłat za okres rozliczeniowy, numer faktury, warunki płatności (60 dni netto) i formy płatności rozliczeń do zapłacenia za pomocą przelewu lub czeku.
 
-- **Strona 2 (i wszystkie kolejne strony) faktury:** Szczegóły opłat za zakupy firmy Microsoft i zakupy innych firm (na podstawie licencji) z platformy handlowej. Zakupy oparte na licencjach isv można zidentyfikować za pomocą wiersza **Wydawca** pod każdą nazwą produktu. Skojarzony plik uzgodnień zawiera więcej szczegółów rozliczeń dla konkretnych opłat na fakturze.
+- **Strona 2 (i wszystkie kolejne strony) faktury:** Szczegóły opłat za zakupy firmy Microsoft i zakupy innych firm (na podstawie licencji) z platformy handlowej. Zakupy oparte na licencjach isv można zidentyfikować przy **Publisher** pod każdą nazwą produktu. Skojarzony plik uzgodnień zawiera więcej szczegółów rozliczeń dla konkretnych opłat na fakturze.
 
 - **Ostatnia strona faktury:** Jeśli za produkty z platformy handlowej opartej na licencjach zostały naliczone opłaty od isV, na ostatniej stronie zostanie podanych więcej szczegółów dotyczących nazwy i adresu wydawcy isv.
 
-### <a name="tips-on-reading-your-reconciliation-file"></a>Porady dotyczące odczytywania pliku uzgodnień
+### <a name="tips-on-reading-your-reconciliation-file"></a>Wskazówki odczytywania pliku uzgodnień
 
 Plik **uzgodnień cyklicznych i jednorazowych** zakupów zawiera kilka kolumn z dodatkowymi szczegółami, które są mapowane na opłaty na fakturze. Kolumna **PublisherName** pokazuje, czy zakup pochodzi od firmy Microsoft, czy od zewnętrznego wydawcy isv publisher.
 
@@ -98,7 +98,7 @@ W przypadku ofert bezpłatnej wersji próbnej isv:
 
 - Po zakupie i wdrożeniu bezpłatnej wersji próbnej kwalifikującej się produktu dla klienta przez isV klient jest automatycznie zarejestrowany w bezpłatnej wersji próbnej przez wydawcę isv. Bezpłatny okres próbny kończy się automatycznie po okresie zdefiniowanym przez wydawcę isv. Po zakończeniu okresu klient zostanie obciążony. Oznacza to, że w pliku uzgodnień mogą być wyświetlane dwa wiersze dla produktu kwalifikującego się do korzystania z wersji próbnej: jeden, który śledzi okres próbny, i jeden, który śledzi płatną ofertę (co spowoduje wyświetlenie kosztu w wysokości 0 USD do momentu zakończenia okresu próbnego). Po zakończeniu okresu próbnego zaczną być wyświetlane opłaty w wierszu przedstawiającym płatną ofertę. 
 
-Aby uzyskać więcej informacji na temat tego, co reprezentuje każda kolumna, zobacz [Używanie plików uzgodnień](use-the-reconciliation-files.md). Zobacz też [Typy rozliczeń w Partner Center](./billing-basics.md)
+Aby uzyskać więcej informacji o tym, co reprezentuje każda kolumna, zobacz [Używanie plików uzgodnień](use-the-reconciliation-files.md). Zobacz też [Typy rozliczeń w Partner Center](./billing-basics.md)
 
 ## <a name="next-steps"></a>Następne kroki
 

@@ -3,18 +3,18 @@ title: Partner Center Szczegółowe informacje
 description: Zapoznaj się z tym Partner Center ujednoliconym pulpitem nawigacyjnym raportowania. Zobacz, jak radzisz sobie z wskaźnikami KPI dla sprzedaży i wdrażania, rozwoju klientów i nie tylko.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: a16cca546142d3a8091643607534697e0403fff9
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 2061286ecb048647d666438a34b4759175b7deb4
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114373754"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844619"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Szczegółowe informacje — pulpit nawigacyjny, który pokazuje, jak działa partner komercyjny firmy Microsoft
 
@@ -26,7 +26,7 @@ Pulpit Szczegółowe informacje nawigacyjny to ujednolicony pulpit nawigacyjny r
 
 ## <a name="role-based-access-control-to-the-insights-dashboard"></a>Kontrola dostępu oparta na rolach do pulpitu Szczegółowe informacje nawigacyjnego
 
-Istnieją dwie nowe role w programie Partner Center przeznaczone specjalnie do uzyskiwania dostępu do Szczegółowe informacje: Report **Viewer** i **Executive Report Viewer.** Użytkownicy z rolą Executive Report Viewer mają dostęp do wszystkich zestawów danych raportowania, natomiast użytkownicy z rolą Osoby wyświetlającego raporty nie będą mieć dostępu do poufnych zestawów danych, takich jak dane osobowe przychodów i klientów/pracowników. 
+Istnieją dwie nowe role w programie Partner Center przeznaczone specjalnie do uzyskiwania dostępu do Szczegółowe informacje: Report **Viewer** i **Executive Report Viewer.** Użytkownicy z rolą Executive Report Viewer mają dostęp do wszystkich zestawów danych raportowania, natomiast użytkownicy w roli Osoby wyświetlającego raporty nie będą mieć dostępu do poufnych zestawów danych, takich jak dane osobowe przychodów i klientów/pracowników. 
 
 Administrator globalny lub administrator konta może przypisać użytkownikom te role i są one przypisywane do całej firmy lub dla określonej lokalizacji MPN.  
 
@@ -39,7 +39,7 @@ Poniższe raporty są dostępne w ramach pulpitu Szczegółowe informacje nawiga
 
 **Przegląd:** Raport Przegląd przedstawia widok migawki różnych kluczowych wskaźników wydajności, takich jak liczba klientów, liczba aktywnych subskrypcji, przychód z użycia platformy Azure, aktywne licencje itp.
 
-**Klient:** Raport Klienta przedstawia analizy dotyczące klientów, takie jak dane pozyskiwania klientów, aktywni klienci itp.
+**Klient:** Raport klienta przedstawia analizy dotyczące klientów, takie jak dane pozyskiwania klientów, aktywni klienci itp.
 
 **Produkt — Subskrypcje:** Raport Subskrypcje przedstawia analizę pozyskiwania i użycia dla subskrypcji w chmurze (takich jak usługi O365, Azure, Dynamics itp.)
 
@@ -47,7 +47,7 @@ Poniższe raporty są dostępne w ramach pulpitu Szczegółowe informacje nawiga
 
 **Produkt — użycie platformy Azure:** Raport Użycia platformy Azure przedstawia metryki związane z subskrypcjami platformy Azure klientów, w tym przychody użycia platformy Azure i użycie według kategorii mierników.
 
-**Kompetencje:** Raport Kompetencje przedstawia metryki dotyczące kompetencji aktywnej, kwalifikowanej i narażonej na ryzyko.
+**Kompetencje:** Raport Kompetencje przedstawia metryki dotyczące kompetencji aktywnych, kwalifikowanych i zagrożonych.
 
 **Korzyści:** Raport Korzyści przedstawia analizę korzyści, które zostały uzyskane przez partnerów w porównaniu z ich wykorzystaniem.
 

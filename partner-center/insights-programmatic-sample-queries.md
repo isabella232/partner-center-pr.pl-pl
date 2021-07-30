@@ -3,21 +3,21 @@ title: Lista przykładowych zapytań
 description: Użyj przykładowych zapytań, aby programowo uzyskać dostęp do danych analitycznych szczegółowych informacji partnerów.
 ms.topic: reference
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: e25784585a1ac505db99e58265939a8851edcbad
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 36da8a59548142bf09daf42dbc936fba15d46d1e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376660"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844687"
 ---
 # <a name="sample-queries-for-partner-center-insights-report"></a>Przykładowe zapytania dotyczące Partner Center szczegółowych informacji
 
-Ten artykuł zawiera przykładowe zapytania dotyczące raportów Szczegółowe informacje partnerów. Możesz użyć tych zapytań, wywołując punkt końcowy interfejsu API tworzenia zapytania raportu. W razie potrzeby wywołanie [interfejsu API](insights-programmatic-access-paradigm.md#create-report-query-api) tworzenia zapytania raportu można zmodyfikować, aby dodać więcej kolumn, dostosować okres obliczeniowy i dodać warunki filtrowania.
+Ten artykuł zawiera przykładowe zapytania dotyczące raportów Szczegółowe informacje partnerów. Możesz użyć tych zapytań, wywołując punkt końcowy interfejsu API tworzenia zapytań raportów. W razie potrzeby wywołanie [interfejsu API](insights-programmatic-access-paradigm.md#create-report-query-api) tworzenia zapytania raportu można zmodyfikować w celu dodania większej liczby kolumn, dostosowania okresu obliczeniowego i dodania warunków filtrowania.
 
 Aby uzyskać szczegółowe informacje o nazwach kolumn, atrybutach i opisach, zapoznaj się z [definicjami danych](insights-data-definitions.md).
 
@@ -37,7 +37,7 @@ WHERE CustomerMarket='United States' TIMESPAN LAST_MONTH
 
 ### <a name="by-sku-and-billed-revenue"></a>Według: SKU i przychód rozliowany
 
-Lista klientów korzystających z określonej sku i rozliczanych przychodów w ciągu ostatnich 6 miesięcy wynosi ponad 20 000
+Lista klientów używających określonej sku i rozliczanych przychodów w ciągu ostatnich 6 miesięcy wynosi ponad 20 000
 
 ```sql
 SELECT CustomerName, CustomerTpid, SKU, Month, BilledRevenueUSD 
@@ -78,7 +78,7 @@ FROM Profile
 WHERE PGAMpnId='1001xx'
 ```
 
-## <a name="reseller-performance"></a>Reseller Performance
+## <a name="reseller-performance"></a>Wydajność odsprzedawcy
 
 Te przykładowe zapytania dotyczą raportu wydajności odsprzedawcy:
 
@@ -165,7 +165,7 @@ TIMESPAN LAST_6_MONTHS
 
 ### <a name="by-total-acr"></a>Według łącznej liczby ACR
 
-Lista subskrypcji użycia platformy Azure, w których łączna liczba subskrypcji usługi ACR jest większa niż 20 000 w ciągu ostatnich sześciu miesięcy
+Lista subskrypcji użycia platformy Azure, w których łączna liczba usługi ACR jest większa niż 20 000 w ciągu ostatnich sześciu miesięcy
 
 ```sql
 SELECT SubscriptionId, ServiceName, CustomerName, Month, UsageUnits, UsageQuantity, TotalACR 

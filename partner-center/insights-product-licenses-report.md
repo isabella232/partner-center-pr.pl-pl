@@ -3,18 +3,18 @@ title: Partner Center Szczegółowe informacje — licencje produktów
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Zapoznaj się z tym raportem licencji produktu i dowiedz się, jak ulepszyć swoje licencjonowane produkty w chmurze, które sprzedajesz lub zarządzasz swoimi klientami.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb98f8ca54636c55f6ca4d654478a94f340edd89
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 5287e056e2ac2e8a0238ac7f86cca0fe58b92238
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377051"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845197"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Raport Licencje produktów na pulpicie Partner Center Szczegółowe informacje nawigacyjnym
 
@@ -28,7 +28,7 @@ Raport Licencje produktów przedstawia analizę licencji produktów w chmurze op
 - Dystrybucja licencji według lokalizacji partnerów, kanału sprzedaży, jednostki SKU, typu dołączenia partnera, segmentu
 
  > [!NOTE]
- > Ten raport jest dostępny na pulpicie nawigacyjnym Szczegółowe informacje nawigacyjnym. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Przeglądarka raportów lub Przeglądarka raportów dla kierownictwa. Aby uzyskać więcej informacji, zobacz Administrator globalny firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami do raportów dla kierownictwa.
+ > Ten raport jest dostępny na pulpicie Szczegółowe informacje nawigacyjnym. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Przeglądarka raportów lub Przeglądarka raportów dla kierownictwa. Aby uzyskać więcej informacji, zobacz Administratora globalnego firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami do raportów dla kierownictwa.
 
 ## <a name="summary"></a>Podsumowanie
 
@@ -39,7 +39,7 @@ Sekcja podsumowania zawiera widok migawki kluczowych wskaźników wydajności (K
 Aby uzyskać więcej informacji na temat każdej sekcji podsumowania, zobacz poniżej:
 
 - Licencje: 
-  - Bieżąca liczba wszystkich licencji sprzedawanych lub zarządzanych przez użytkownika dla produktów w chmurze opartych na licencjach, takich jak Office 365, Dynamics, Microsoft 365, Microsoft Power BI i inne.
+  - Bieżąca liczba wszystkich licencji sprzedanych lub zarządzanych przez użytkownika dla produktów w chmurze opartych na licencjach, takich jak Office 365, Dynamics, Microsoft 365, Microsoft Power BI i inne.
   - Procentowy wzrost lub spadek liczby tych licencji w wybranym zakresie dat.
   - Wykres mikro trendu licencji: mikroelement przedstawia trend liczby licencji w ciągu miesiąca w wybranym zakresie dat
 
@@ -49,7 +49,7 @@ Aby uzyskać więcej informacji na temat każdej sekcji podsumowania, zobacz pon
   - Mikrowy wykres liczby licencji: mikroelement przedstawia trend liczby przypisanych licencji z miesiąca na miesiąc w wybranym zakresie dat.
 
 - Aktywne licencje: 
-  - Bieżąca liczba wszystkich licencji klientów z aktywnym użyciem w ciągu ostatnich 30 dni w wybranym zakresie dat.
+  - Bieżąca liczba wszystkich licencji klienta z aktywnym użyciem w ciągu ostatnich 30 dni w wybranym zakresie dat.
   - Procentowy wzrost lub spadek liczby tych licencji w wybranym zakresie dat.
   - Wykres Mikro przedstawia trend liczby licencji z miesiąca na miesiąc w wybranym zakresie dat.
 

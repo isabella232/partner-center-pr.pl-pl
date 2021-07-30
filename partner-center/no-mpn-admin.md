@@ -3,18 +3,18 @@ title: Co zrobić, jeśli jedyny administrator programu MPN opuścił firmę?
 ms.topic: how-to
 ms.date: 09/08/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Dowiedz się, co zrobić, aby znaleźć nowego administratora MPN lub uzyskać pomoc od administratora globalnego firmy. Dowiedz się również, jak dodać nową Partner Center administratora globalnego.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21042169a33d9a413f17f951c4daad0c5fc86a17
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 339f677dc095a32e5cf7e52902b23716a1343561
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277678"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845384"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>Co zrobić, jeśli jedyny administrator programu MPN opuścił firmę?
 

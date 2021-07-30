@@ -3,17 +3,17 @@ title: Rozwiązywanie problemów z łącznikami poleceń do współpracy
 ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-referrals
 description: Poznaj odpowiedzi na często zadawane pytania dotyczące używania łączników wspólnej sprzedaży. Przeczytaj często zadawane pytania dotyczące rozwiązywania problemów z łącznikami do współs sprzedaży.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: bb7a227624c548a29046b80d3bd5fa363a4aee2f
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 5143d8e779332fd7df1ebeb3b5175658a0190f4b
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276937"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838057"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Rozwiązywanie problemów z łącznikami poleceń do współpracy
 
@@ -41,14 +41,14 @@ Sprzedawcy partnerscy muszą mieć przypisaną rolę "Administrator poleceń". A
 
 5. Jakie wymagania wstępne są wymagane do Power Automate środowiska?
 
-Aby korzystać z Power Automate, potrzebne są:
+Aby używać Power Automate, potrzebne są:
 
 - Wymagana Power Automate licencji.
 - Wymagany jest magazyn o rozmiarze co najmniej 1 GB.
 
 6.  Czy do korzystania z rozwiązania łączników usługi Salesforce potrzebna jest subskrypcja usługi Dynamics 365?
 
-Rozwiązanie łącznika usługi Salesforce jest typu "Dynamics Flow", które obsługuje synchronizację z innymi systemami CRM. Rozwiązanie nie wymaga wystąpienia usługi Dynamics 365 ani subskrypcji. Podczas instalowania rozwiązania Salesforce może pojawić się lista rozwijana z istniejącym środowiskiem usługi CDS w firmie. Musisz wybrać to środowisko. Ponadto w przypadku wystąpienia błędu "Nie można odnaleźć organizacji usługi Dynamics 365 połączonej z zalogowanym użytkownikiem", konieczne będzie utworzenie nowego środowiska dla łącznika.
+Rozwiązanie Łącznik usługi Salesforce jest typu "Dynamics Flow", które obsługuje synchronizację z innymi systemami CRM. Rozwiązanie nie wymaga wystąpienia usługi Dynamics 365 ani subskrypcji. Podczas instalowania rozwiązania Salesforce może pojawić się lista rozwijana z istniejącym środowiskiem usługi CDS w firmie. Musisz wybrać to środowisko. Ponadto w przypadku wystąpienia błędu "Nie można odnaleźć organizacji usługi Dynamics 365 połączonej z zalogowanym użytkownikiem", konieczne będzie utworzenie nowego środowiska dla łącznika.
 
 ## <a name="questions-and-answers-about-configuration"></a>Pytania i odpowiedzi dotyczące konfiguracji
 
@@ -62,7 +62,7 @@ Wykonaj następujące kroki rozwiązywania problemów:
 - Wyłączanie i włączanie przepływu podrzędnego 
 - Usuń rozwiązanie, a następnie zainstaluj je ponownie. 
 
-2.  Co należy zrobić, jeśli wystąpi błąd "Zaloguj się" podczas dodawania łącznika Partner Center platformie Power Automate Platform?
+2.  Co należy zrobić, jeśli podczas dodawania łącznika Partner Center na platformie Power Automate Platform wystąpi błąd "Zaloguj się"?
 
 :::image type="content" source="images/cosellconnectors/failure.png" alt-text="Komunikat o błędzie wymagający logowania.":::
 
@@ -125,7 +125,7 @@ E. Na stronie flow Partner Center Webhook Registration (Rejestracja w tym celu) 
 
 ## <a name="questions-and-answers-about-runmaintenance"></a>Pytania i odpowiedzi dotyczące uruchamiania/konserwacji
 
-1. Jak rozwiązywać problemy z błędami podczas Power Automate wykonywania przepływu?
+1. Jak rozwiązywać problemy z błędami podczas Power Automate wykonywania przepływu pracy?
 
 Aby upewnić się, że przepływy Power Automate działają zgodnie z oczekiwaniami i rozwiązywać problemy z błędami podczas wykonywania, zobacz [Naprawianie błędów przepływu.](/power-automate/fix-flow-failures)
 
@@ -163,7 +163,7 @@ Poniżej przedstawiono kilka opcji, które można wypróbować:
 
 - Sprawdź, czy nazwa użytkownika lub hasło wygasły dla Partner Center z rolami administratora poleceń.
 
-- Możesz przejść do niezsynchronizowanych szans sprzedaży, wprowadzić aktualizację pomocniczą i sprawdzić, czy polecenie zostało zsynchronizowane.
+- Możesz przejść do niezsynchronizowanych szans sprzedaży, wprowadzić drobną aktualizację i sprawdzić, czy polecenie zostało zsynchronizowane.
 
 - Jeśli przepływy zostały uruchomione i zakończyły się niepowodzeniem, wybierz przepływ i prześlij ponownie przebieg, który zakończył się niepowodzeniem.
 
@@ -175,27 +175,27 @@ Upewnij się, że istnieją odpowiednie role
  
 - Rola administratora systemu lub customizera systemu w wystąpieniu systemu CRM
 
-- Upewnij się, Power Automate użytkownika przepływu danych loguje się https://flow.microsoft.com wcześniej co najmniej raz
+- Upewnij się, że Power Automate przepływu danych zaloguje się wcześniej https://flow.microsoft.com co najmniej raz
 
-6. Jeśli zobaczysz, że **brakuje** kodu kraju konta klienta podczas tworzenia możliwości współpracy sprzedaży, co należy zrobić?
+6. Jeśli zobaczysz, że **brakuje kodu** kraju konta klienta podczas tworzenia możliwości współpracy sprzedaży, co należy zrobić?
 
 Musisz dodać dwuliterowy kod kraju ISO do konta klienta w systemie CRM.
 
-7. Co należy zrobić, jeśli zobaczysz błąd, że identyfikator rozwiązania **jest** wymagany podczas tworzenia możliwości współpracy sprzedaży?
+7. Co należy zrobić, jeśli zobaczysz błąd, że **identyfikator rozwiązania jest** wymagany podczas tworzenia możliwości współpracy sprzedaży?
 
-Aby utworzyć polecenie do współpracy sprzedaży, potrzebujesz gotowego rozwiązania firmy Microsoft do współpracy. 
+Aby utworzyć polecenie do współpracy sprzedaży, potrzebujesz gotowego rozwiązania firmy Microsoft do współpracy sprzedaży. 
 
-8. Co należy zrobić, gdy zobaczysz możliwości współpracy sprzedaży utworzone w Partner Center, które nie są zsynchronizowane z programem CRM, mimo że nie występują błędy przepływu?
+8. Co należy zrobić, gdy zobaczysz możliwości współpracy sprzedaży utworzone w Partner Center, które nie są synchronizowane z programem CRM, mimo że nie ma żadnych błędów przepływu?
 
 Wykonaj następujące czynności:
 
-- Po utworzeniu nowej transakcji sprzedaży w uciecie sprawdź Partner Center czy zostanie wywołany przepływ Partner Center dynamics 365 (może zostać wywołany wiele razy).
+- Po utworzeniu nowej transakcji sprzedaży typu "co-sell" w programie Partner Center sprawdź, czy zostanie wywołany przepływ Partner Center do usługi Dynamics 365 (może zostać wywołany wiele razy).
 
-- Jeśli przepływ zostanie wywołany, sprawdź wszystkie wywołane przepływy i zidentyfikuj przebieg przepływu, który zaktualizuje system CRM. Możesz wykonać akcje i sprawdzić, czy system CRM został zaktualizowany, czy napotkał problem.
+- Jeśli przepływ zostanie wywołany, sprawdź wszystkie wywołane przepływy i zidentyfikuj przebieg przepływu, który zaktualizuje system CRM. Możesz wykonać te akcje i sprawdzić, czy program zaktualizował system CRM, czy napotkał problem.
 
-- Sprawdź **nową ofertę** w Partner Center, aby sprawdzić, czy zostanie ona wypełniona identyfikatorem CRM.
+- Sprawdź **nową Partner Center,** aby sprawdzić, czy zostanie ona wypełniona identyfikatorem CRM.
 
-- Upewnij się, że transakcja nie została przypadkowo zamknięta jako **wygrana** lub **utracona** w Partner Center.
+- Upewnij się, że transakcja nie została przypadkowo zamknięta jako **Wygrana** lub **Utracona w** Partner Center.
 
 ## <a name="next-steps"></a>Następne kroki
 

@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: e98296aa42327a7b2ebd91b44f2e28e9010600bb
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: d315ac84f73676f8ef21d3fc5a1cded80fb32e4d
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146752"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845265"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Te zasoby ułatwiają tworzenie planów zachęt i dowodów wykonania
 
@@ -32,9 +32,9 @@ Plan roszczeń dotyczących współpracy zachęt opisuje kampanie marketingowe, 
 
 ## <a name="what-is-a-proof-of-execution-poe"></a>Co to jest dowód wykonania (PoE)?
 
-Po opłaceniu pracy w programie zachęt należy przesłać do firmy Microsoft szczegółową weryfikację wykonania. Twoje żądanie zakupu może zawierać szczegółowe informacje o dowolnej powiązanej kampanii, dacie, w ramach którego wystąpiło działanie zachęt, oraz kwoty, które są w nim deklarowane. 
+Po opłaceniu pracy z zachętami musisz przesłać do firmy Microsoft szczegółową weryfikację wykonania. Twoje żądanie zakupu może zawierać szczegółowe informacje o dowolnej powiązanej kampanii, dacie, w ramach którego wystąpiło działanie zachęt, oraz o kwotę, którą można uzyskać. 
 
-Dowiedz się więcej [na temat przygotowywania dowodów wykonania.](incentives-prepare-your-proof-of-execution.md)
+Dowiedz się więcej [o przygotowywaniu dowodów wykonania.](incentives-prepare-your-proof-of-execution.md)
 
 ## <a name="incentives-document-resources"></a>Zachęty dla zasobów dokumentów
 
@@ -42,7 +42,7 @@ W poniższych zasobach wyjaśniono, jak organizować, tworzyć i edytować te do
 
 |  **W tym celu**  |  **Przeczytaj to**  |
 |--------------|-----------|
-| Dowiedz się, jak utworzyć plan zachęt do współpracy z roszczeniami | [Tworzenie planu](incentives-create-your-plan.md)  |
+| Dowiedz się, jak utworzyć plan zachęt do współpracy w oświadczeń | [Tworzenie planu](incentives-create-your-plan.md)  |
 Dowiedz się, jak utworzyć dowód wykonania | [Przygotowywanie potwierdzenia wykonania](incentives-prepare-your-proof-of-execution.md)  |
 
 ## <a name="next-steps"></a>Następne kroki

@@ -3,18 +3,18 @@ title: Usuwanie relacji odsprzedawcy z klientem
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Dowiedz się, jak bezpośredni partnerzy firmy Microsoft mogą usuwać klientów z listy, usuwać delegowane uprawnienia administratora i przestać wspierać lub kupować dla klienta.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 83259f2f895be9ef34c55db5613ccfe6891a4424
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 355f4917098ae6f6e383bf1a889197a725777311
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551473"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844970"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Jak przenieść relację odsprzedawcy z klientem w Centrum partnerskim
 
@@ -27,7 +27,7 @@ Bezpośredni partnerzy lub dostawcy pośredni: jeśli nie masz już transakcji z
 Usunięcie relacji ma następujące konsekwencje:
 
 - Usunięcie klienta z listy klientów w Centrum partnerskim
-- Usuwa Użytkownika z listy [dostępnych kontaktów pomocy technicznej](assign-support-contacts.md) dla klienta
+- Usuwa Użytkownika z [listy dostępnych kontaktów pomocy technicznej](assign-support-contacts.md) dla klienta
 - Usunięcie uprawnień administratora delegowania dla klienta
 - Uniemożliwienie klientowi dokonywania zakupów w przyszłości
 
@@ -45,16 +45,16 @@ Aby usunąć relację, musisz najpierw anulować rezerwacje wystąpień zarezerw
 
    4. Powtórz te kroki dla każdej aktywnej subskrypcji.
 
-2. **Usuń relację z Partner Center:**
+2. **Usuń relację w Partner Center:**
 
-   a. Z Partner Center wybierz pozycję **Klienci** i wybierz klienta.
+   a. Z Partner Center przejdź do strony **Klienci** i wybierz klienta.
 
    b. Wybierz **konto**.
 
    c. Wybierz **pozycję Usuń relację odsprzedawcy.**
 
    > [!NOTE]
-   > Jeśli jakiekolwiek subskrypcje są nadal aktywne, link **Usuń relację** odsprzedawcy będzie nieaktywny.
+   > Jeśli jakiekolwiek subskrypcje są nadal aktywne, link Usuń relację **odsprzedawcy** będzie nieaktywny.
 
 ## <a name="next-steps"></a>Następne kroki
 

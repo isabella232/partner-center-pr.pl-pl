@@ -3,37 +3,37 @@ title: Sprzedaż subskrypcji oprogramowania za pośrednictwem dostawcy rozwiąza
 ms.topic: how-to
 ms.date: 03/08/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Dowiedz się, jak partnerzy w programie CSP mogą używać usługi Partner Center do kupowania, sprzedawania i anulowania wystąpień zarezerwowanych platformy Azure i subskrypcji serwera dla klientów oraz zarządzania nimi.
+ms.subservice: partnercenter-pricing
+description: Dowiedz się, jak partnerzy w programie CSP mogą używać usług Partner Center do kupowania, sprzedawania i anulowania wystąpień zarezerwowanych platformy Azure i subskrypcji serwera dla klientów oraz zarządzania nimi.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5793ae33420a131362e6d81cc69817beef3cc158
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 162de08f0114d24cc72d21387ca004e7901c15a2
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114433932"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844721"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sprzedaż subskrypcji oprogramowania za pośrednictwem programu Dostawca rozwiązań w chmurze (CSP)
 
-**Odpowiednie role:** Administrator | Administrator globalny
+**Odpowiednie role:** Agent administracyjny | Administrator globalny
 
-Dzięki rezerwacjom platformy Azure i subskrypcjom serwera (Windows Server i SQL Server) partnerzy programu CSP mogą lepiej rozwiązać rosnące zapotrzebowanie klientów na bardziej ekonomiczne rozwiązania do obsługi wysoce przewidywalnych i trwałych obciążeń w chmurze. 
+Dzięki rezerwacjom platformy Azure i subskrypcjom serwera (Windows Server i SQL Server) partnerzy w programie CSP mogą lepiej rozwiązać rosnące zapotrzebowanie klientów na bardziej ekonomiczne rozwiązania do obsługi wysoce przewidywalnych i trwałych obciążeń w chmurze. 
 
-Możesz teraz pozyskiwać i aprowizować rezerwacje platformy Azure oraz subskrypcje serwera i zarządzać nimi w imieniu klientów komercyjnych za pośrednictwem usług Partner Center i Azure Portal, korzystając z zalet Korzyść użycia hybrydowego platformy Azure.
+Możesz teraz pozyskiwać i aprowizować rezerwacje platformy Azure oraz subskrypcje serwera i zarządzać nimi w imieniu klientów komercyjnych za pośrednictwem usług Partner Center i Azure Portal, korzystając z Korzyść użycia hybrydowego platformy Azure.
 
-Dzięki Korzyść użycia hybrydowego platformy Azure zyskasz większą wartość z licencji serwera Windows Server i zaoszczędź do 40% na maszynach wirtualnych. Z tej korzyści można korzystać w przypadku licencji Windows Server Datacenter i Standard Edition objętych pakiet Software Assurance. W zależności od wersji można przekonwertować lub ponownie użyć licencji, aby uruchamiać maszyny wirtualne programu Windows Server na platformie Azure i płacić niższą podstawową stawkę za obliczenia (na przykład maszyny wirtualne z systemem Linux).
+Dzięki Korzyść użycia hybrydowego platformy Azure uzyskać większą wartość z licencji programu Windows Server i zaoszczędzić do 40% na maszynach wirtualnych. Możesz skorzystać z korzyści z licencji Windows Server Datacenter i Standard Edition objętych pakiet Software Assurance. W zależności od wersji możesz przekonwertować lub ponownie użyć licencji, aby uruchamiać maszyny wirtualne programu Windows Server na platformie Azure i płacić niższą podstawową stawkę za obliczenia (na przykład stawki za maszyny wirtualne z systemem Linux).
 
-## <a name="azure-reservations-unavailable-markets"></a>Rezerwacje platformy Azure niedostępne na rynkach
+## <a name="azure-reservations-unavailable-markets"></a>Rezerwacje platformy Azure są niedostępne na rynkach
 
 >[!IMPORTANT]
 >Rezerwacje platformy Azure **nie są** dostępne na następujących rynkach:  
 >  
 > **Niedostępne rynki (w kolejności alfabetycznej)**
 >
-> |A do Gi   | Gr do Pal  | Pap do Z |
+> |A do Gi   | Gr do Pal  | Pap–Z |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | Wyspy Alandzkie     | Grenlandia     | Papua Nowa Gwinea     |
 > | Samoa Amerykańskie     | Grenada     | Wyspy Pitcairn     |
@@ -46,7 +46,7 @@ Dzięki Korzyść użycia hybrydowego platformy Azure zyskasz większą wartoś�
 > | Benin     | Haiti       | Saint Vincent i Grenadyny     |
 > | Bhutan     | Wyspy Heard i McDonalda       | Samoa     |
 > | Bonaire     | Wyspa Man     | San Marino     |
-> | Wyspa Bouveta     | Jan Mayen     | São Tomé i Práncipe   |
+> | Wyspa Bouveta     | Jan Mayen     | São Tomé i Prüncipe   |
 > | Brytyjskie Terytorium Oceanu Indyjskiego       | Jersey     | Seszele   |
 > | Brytyjskie Wyspy Dziewicze     | Kiribati       | Sierra Leone   |
 > | Burkina Faso     | Kosowo     | Sint Eustatius     |
@@ -55,7 +55,7 @@ Dzięki Korzyść użycia hybrydowego platformy Azure zyskasz większą wartoś�
 > | Republika Środkowoafrykańska     | Liberia     | Somalia     |
 > | Czad     | Madagaskar     | Georgia Południowa i Sandwich Południowy     |
 > | Chiny     | Malawi     | Sudan Południowy     |
-> | Wyspa Bożego Narodzenia     | Malediwy     | StRowa, Ascension, Tristan da Cunha     |
+> | Wyspa Bożego Narodzenia     | Malediwy     | St Stana, Ascension, Tristan da Cunha     |
 > | Wyspy Kokosowe (Keelinga)     | Mali     | Surinam     |
 > | Komory     | Wyspy Marshalla     | Svalbard     |
 > | Kongo     | Martynika     | Suazi     |
@@ -107,7 +107,7 @@ Po zakupie oprogramowania Ty lub Twoi klienci muszą je pobrać (partnerzy korzy
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Pobieranie subskrypcji serwera i klucze licencji dostępne za pośrednictwem Administracja Microsoft 365 Center dla klientów 
 
-Klienci będą mogli uzyskać klucze licencji i pliki do pobrania subskrypcji serwera CSP z Administracja Microsoft 365 Center. Aby wyświetlić klucze licencji i pliki do pobrania subskrypcji programu CSP, klient musi przejść do strony Administracja Microsoft 365 Center > **Billing > Your products > Software (Twoje** produkty > oprogramowania). Aby uzyskać więcej informacji, zobacz [kartę Oprogramowanie w obszarze Rozliczenia](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
+Klienci będą mogli uzyskać klucze licencji subskrypcji serwera CSP i pliki do pobrania z Administracja Microsoft 365 Center. Aby wyświetlić klucze licencji i pliki do pobrania subskrypcji programu CSP, klient musi przejść do strony Administracja Microsoft 365 Center > **Billing > Your products > Software (Twoje** produkty > oprogramowanie). Aby uzyskać więcej informacji, zobacz [kartę Oprogramowanie w obszarze Rozliczenia](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Wyświetlanie aktywności związanej z dostępem do klucza oprogramowania i pobieraniem oprogramowania
 
@@ -129,12 +129,12 @@ W celach inspekcji lub zgodności może być konieczne sprawdzenie listy użytko
 Zakup oprogramowania można anulować w ciągu 30 dni od daty zakupu. Jeśli anulujesz subskrypcję w ciągu tego pierwszego 30-dniowego okresu, nie zostanie naliczona opłata za wcześniejsze zakończenie. Po upływie 30 dni nie można już anulować zakupu. (Zobacz Uwaga, aby uzyskać informacje o kluczowych ograniczeniach tej reguły anulowania. Aby dowiedzieć się, co się stanie po anulowaniu zakupu oprogramowania, zobacz również Ważne uwagi po tych krokach. 
 
 >[!NOTE]
->Poniższe kroki anulowania zakupu dotyczą tylko oprogramowania, które kwalifikuje się do anulowania w określonym oknie anulowania, na przykład w ciągu pierwszych 30 dni od zakupu. Te kroki nie dotyczą również planu oprogramowania SUSE Linux lub RedHat na platformie Azure. Obecnie nie można anulować ani wymienić planu oprogramowania SUSE ani RedHat. [Dowiedz się więcej](/azure/virtual-machines/linux/prepay-suse-software-charges) na temat korzystania z planów oprogramowania SUSE Linux lub RedHat.
+>Poniższe kroki anulowania zakupu dotyczą tylko oprogramowania, które kwalifikuje się do anulowania w określonym oknie anulowania, na przykład w ciągu pierwszych 30 dni od zakupu. Te kroki nie dotyczą również planu oprogramowania SUSE Linux lub RedHat na platformie Azure. Obecnie nie można anulować ani wymienić planu oprogramowania SUSE ani RedHat. [Dowiedz się więcej](/azure/virtual-machines/linux/prepay-suse-software-charges) na temat korzystania z planów systemu SUSE Linux lub RedHat.
 
 Wykonaj poniższe kroki, aby anulować zakup:
 
 >[!NOTE]
->Aby anulować zakup, musisz być agentem administratora. W poniższych krokach opisano, jak anulować zakup na pulpicie Partner Center nawigacyjnym. Można to również zrobić przy użyciu interfejsu [API Partner Center API.](/partner-center/develop/cancel-software-purchases)
+>Aby anulować zakup, musisz być agentem administratora. W poniższych krokach opisano, jak anulować zakup na pulpicie Partner Center nawigacyjnym. Możesz to również zrobić przy użyciu interfejsu [API Partner Center .](/partner-center/develop/cancel-software-purchases)
 
 1. Przed rozpoczęciem procesu anulowania upewnij się, że masz następujące informacje:
 
@@ -150,7 +150,7 @@ Wykonaj poniższe kroki, aby anulować zakup:
 
 5. Znajdź zakup oprogramowania, które chcesz anulować, a następnie wybierz pozycję **Anuluj.** Zostanie wyświetlone okno dialogowe.
 
-6. Z listy rozwijanej Order number (Numer zamówienia) wybierz prawidłowy numer identyfikatora zamówienia, który chcesz anulować. (Więcej informacji o zamówieniu lub numerze identyfikacyjnym zamówienia można znaleźć na stronie historii **zamówień** klienta).
+6. Z listy rozwijanej Order number (Numer zamówienia) wybierz prawidłowy numer identyfikatora zamówienia, który chcesz anulować. (Więcej informacji na temat numeru zamówienia lub identyfikatora zamówienia można znaleźć na stronie historii **zamówień** klienta).
 
 7. Zaznacz pole wyboru, aby potwierdzić przeczytanie **ważnego** komunikatu dotyczącego anulowania. (Zapoznaj się z ważną **uwaga** poniżej, aby dowiedzieć się więcej o tym, co się stanie po anulowaniu zakupu).
 
@@ -177,13 +177,13 @@ Po anulowaniu zakupu:
 
 - Kredyt na anulowane zamówienie pojawi się na następnej fakturze miesięcznej. Oprogramowanie bezterminowe otrzyma 100% środków, a subskrypcje oprogramowania otrzymają kredyt proporcjonalny.
 
-### <a name="submit-a-customer-support-request-to-cancel-a-purchase"></a>Prześlij żądanie obsługi klienta, aby anulować zakup
+### <a name="submit-a-customer-support-request-to-cancel-a-purchase"></a>Prześlij wniosek o pomoc techniczną w celu anulowania zakupu
 
-Jeśli próbowano anulować zakup oprogramowania za pośrednictwem usługi Partner Center ale podano więcej informacji i wypełniono formularz wniosku o pomoc techniczną dla klientów, następujące kroki mogą pomóc:
+Jeśli próbowano anulować zakup oprogramowania za pośrednictwem usługi Partner Center ale podano więcej informacji i wypełniono formularz wniosku o pomoc techniczną, następujące kroki mogą pomóc w:
 
-1. Po wybraniu linku **do żądania obsługi klienta** w oknie Anuluj zakup zostanie otwarta strona Zgłoś problem **Partner Center** klienta.
+1. Po wybraniu linku **do żądania obsługi klienta** w oknie Anuluj zakup zostanie otwarta strona Zgłoś problem **Partner Center** pomocy technicznej.
 
-2. W **obszarze** Szczegóły na liście Typ problemu wybierz pozycję **Zakup/zwrot CSP w imieniu klientów.**
+2. W **obszarze** Szczegóły na liście Typ problemu wybierz pozycję **CSP Purchase/Refund on behalf of customers (Zakup/zwrot w imieniu klientów).**
 
 3. Wypełnij pola Wpływ i Tytuł.
 
@@ -196,12 +196,12 @@ Jeśli próbowano anulować zakup oprogramowania za pośrednictwem usługi Partn
 
 5. W polu Kontakt wprowadź swoje imię i nazwisko, adres e-mail i numer telefonu.
 
-6. Jeśli z jakiegoś powodu musisz dołączyć plik, wybierz **pozycję Dodaj pliki**. Ta czynność jest opcjonalna.
+6. Jeśli z jakiegoś powodu musisz dołączyć plik, wybierz **pozycję Dodaj pliki.** Ta czynność jest opcjonalna.
 
 7. Po zakończeniu wybierz pozycję **Prześlij.**
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Przewodnik po zamawianiu i realizacji za pośrednictwem Partner Center](https://partner.microsoft.com/resources/detail/guide-to-ordering-and-fulfillment-through-partner-center-pdf)
-- [Używanie Partner Center do sprzedawania subskrypcji klientów produktom komercyjnej platformy handlowej](sell-marketplace-products.md)
+- [Przewodnik dotyczący zamawiania i realizacji za pośrednictwem Partner Center](https://partner.microsoft.com/resources/detail/guide-to-ordering-and-fulfillment-through-partner-center-pdf)
+- [Używanie Partner Center do sprzedawania klientom subskrypcji produktów platformy handlowej](sell-marketplace-products.md)
 - [Przypisywanie subskrypcji platformy Azure do klientów w Partner Center](assign-azure-subscriptions.md)

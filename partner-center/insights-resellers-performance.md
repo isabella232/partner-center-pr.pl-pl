@@ -3,18 +3,18 @@ title: Partner Center Szczegółowe informacje wydajności odsprzedawców
 ms.topic: article
 ms.date: 09/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Pulpit nawigacyjny wydajności odsprzedawcy w Partner Center Szczegółowe informacje zawiera omówienie wydajności różnych pośrednich odsprzedawców pośrednich dostawcy Dostawca rozwiązań w chmurze (CSP).
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c8fc28730fecdd97928159cef3f0c48a6eeda1f5
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 796af99cc405a72bebcd467b242dafb83ac756e5
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376640"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844704"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Pulpit nawigacyjny wydajności odsprzedawcy w Partner Center Szczegółowe informacje
 
@@ -43,7 +43,7 @@ Sekcja podsumowania zawiera widok migawki kluczowych wskaźników wydajności (K
 
 - Aktywni odsprzedawcy: liczba odsprzedawców, którzy mają co najmniej jedną aktywną subskrypcję w tym miesiącu.
 
-Wykres Mikro przedstawia trend miesiąc do miesiąca różnych odsprzedawców, którzy są aktywni w wybranym zakresie dat.
+Wykres Mikro przedstawia trend miesiąc do miesiąca dla różnych odsprzedawców, którzy są aktywni w wybranym zakresie dat.
 
 - Odsprzedawcy transakcji: liczba odsprzedawców, którzy sprzedali co najmniej jedną subskrypcję w tym miesiącu. 
 
@@ -51,9 +51,9 @@ Wykres Mikro przedstawia trend miesiąc do miesiąca odsprzedawców zarejestrowa
 
 - Nowi odsprzedawcy: Liczba odsprzedawców, którzy rozpoczęli transakcję u dostawcy pośredniego w tym miesiącu. 
 
-Wykres Mikro przedstawia trend miesiąc do miesiąca całkowitej liczby nowych odsprzedawców w wybranym zakresie dat.
+Wykres Mikro przedstawia trend miesiąc do miesiąca łącznej liczby nowych odsprzedawców w wybranym zakresie dat.
 
-- Rozliczany przychód USD: przychód w USD sterowany przez odsprzedawców w tym miesiącu. 
+- Rozliczany przychód w USD: przychód w USD sterowany przez odsprzedawców w tym miesiącu. 
 
 Wykres Mikro przedstawia trend przychodów z miesiąca na miesiąc w wybranym zakresie dat.
 
@@ -65,7 +65,7 @@ Wykres Mikro przedstawia trend przychodów z miesiąca na miesiąc w wybranym za
 
 Widok **Odsprzedawcy według lokalizacji geograficznej zapewnia geograficzną dystrybucję odsprzedawców. Za pomocą tego widżetu partnerzy mogą wyświetlać łączną liczbę odsprzedawców, nowych odsprzedawców i przychodów rozliczanych **(USD)** według różnych lokalizacji geograficznych.
 
-Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapie. Naciśnij opcję **Strona główna** na mapie, aby przywrócić oryginalny widok. Zatrzymaj wskaźnik myszy na mapie, aby wyświetlić **rozliczany przychód (USD)** według kraju. Pole Rozliczany przychód (USD) w siatce można sortować.
+Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapie. Naciśnij opcję **Strona główna** na mapie, aby przywrócić oryginalny widok. Zatrzymaj wskaźnik myszy na mapie, aby **wyświetlić rozliczany przychód (USD)** według kraju. Pole Rozliczany przychód (USD) w siatce można sortować.
 
 :::image type="content" source="images/insights/resellers-performance-by-geo.png" alt-text="Odsprzedawcy według lokalizacji geograficznej.":::
 
@@ -74,8 +74,8 @@ Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapi
 Ten widok zawiera podział miesiąc po miesiącu liczby nowych odsprzedawców, odsprzedawców z rezygnacją **i** **istniejących odsprzedawców.** 
 
 - Nowi odsprzedawcy: liczba odsprzedawców, którzy zostali nowo zarejestrowani u dostawcy pośredniego w wybranym zakresie dat.
-- Odsprzedawców z rezygnacją: liczba odsprzedawców, którzy nie mieli transakcji w ciągu ostatnich sześciu miesięcy z wyłączeniem bieżącego miesiąca.
-- Istniejący odsprzedawcy: Liczba odsprzedawców, którzy mieli transakcje w poprzednim miesiącu.
+- Rezygnacje odsprzedawców: liczba odsprzedawców, którzy nie mieli transakcji w ciągu ostatnich sześciu miesięcy z wyłączeniem bieżącego miesiąca.
+- Istniejący odsprzedawcy: Liczba odsprzedawców, którzy byli transakcjami w poprzednim miesiącu.
 
 :::image type="content" source="images/insights/resellers-performance-add-churn.png" alt-text="Odsprzedawcy dodają/odrzucą rezygnacje.":::
 
@@ -111,7 +111,7 @@ Ten widok umożliwia partnerowi zrozumienie miesięcznego trendu przychodów w U
 
 ## <a name="reseller-mpa-signing-status"></a>Stan podpisywania umowy MPA odsprzedawcy
 
-Ten widok zawiera stan podpisywania umowy MPA dla odsprzedawców wraz z dodatkowymi meta danymi, takimi jak stan Microsoft Partner Network (MPN) podczas Partner Membership Center (PMC) w celu Partner Center stanu migracji.
+Ten widok zawiera stan podpisywania umowy MPA dla odsprzedawców wraz z dodatkowymi meta danymi, takimi jak stan Microsoft Partner Network (MPN) w celu Partner Membership Center (PMC) w celu Partner Center stanu migracji.
 
 :::image type="content" source="images/insights/resellers-performance-mpa-status.png" alt-text="Stan podpisywania umowy MPA odsprzedawcy.":::
 

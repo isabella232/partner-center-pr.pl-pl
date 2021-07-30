@@ -3,24 +3,24 @@ title: Microsoft Partner Network członkostwa
 ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-membership
 description: Dowiedz się więcej Microsoft Partner Network (MPN), takich jak Action Pack firmy Microsoft, kompetencje lub opcje programów, aby wejść na rynek i sprzedawać swoje rozwiązania.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1ed25c3f1c9e5f8cec5384762fa9bdf5d09e5b76
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: bd5acdd94272d9c022eb0e3a034325b2dc1d9f12
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114433645"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845435"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Współpraca z firmą Microsoft i odkrywanie korzyści związanych z członkostwem
 
 **Odpowiednie role:** Administrator globalny | Administrator partnera MPN | Administrator zarządzania użytkownikami | Agent administracyjny
 
-Program Microsoft Partner Network (MPN) zapewnia najszerszy zakres produktów w branży i programach, które rozróżniają Twoją firmę, wchodzą na rynek i sprzedają swoje rozwiązania. Dołącz bez kosztów, a następnie zdecyduj, jak zainwestować we współpracę z pakietem akcji firmy Microsoft, zestawem startowym lub kompetencją.
+Program Microsoft Partner Network (MPN) zapewnia najszerszy zakres produktów w branży i programach, które rozróżniają Twoją firmę, trafiają na rynek i sprzedają swoje rozwiązania. Dołącz bez kosztów, a następnie zdecyduj, jak zainwestować we współpracę z pakietem akcji firmy Microsoft, zestawem startowym lub kompetencją.
 
 Dołączasz do programu partnerskiego firmy Microsoft, stając się częścią globalnej społeczności, która łączy Cię z relacjami, analizami, narzędziami, zasobami i programami, które są potrzebne, aby zadumić klientów i napędzać rozwój firmy. W celu osiągnięcia celów biznesowych weź udział w programie na poziomie, który odpowiada Twoim unikatowym potrzebom, aby uzyskać dostęp do większej liczby korzyści, oraz rozwijać swoją relację z nami i innymi partnerami w sieci. 
 
@@ -32,7 +32,7 @@ Aby dołączyć Microsoft Partner Network, przejdź do strony [ **Członkostwo**
 
 Action Pack oferuje oprogramowanie, pomoc techniczną i korzyści dla firm, które chcą zacząć, tworzyć i rozwijać swoją praktykę firmy Microsoft w świecie chmury i urządzeń przenośnych.
 
-Przejrzyj poniższe zasoby, aby dowiedzieć się więcej o Action Pack:
+Przejrzyj poniższe zasoby, aby dowiedzieć się więcej na temat Action Pack:
 
 - [Przenieś swoją firmę w chmurze naprzód dzięki usłudze Microsoft Action Pack](https://partner.microsoft.com/membership/action-pack)
 
@@ -53,7 +53,7 @@ Przejrzyj poniższe zasoby, aby dowiedzieć się więcej o kompetencjach:
 
 ## <a name="microsoft-partner-network-benefits-and-requirements"></a>Microsoft Partner Network i wymagania
 
-Dołączając do Microsoft Partner Network, otrzymujesz zestaw podstawowych korzyści, które mogą pomóc zaoszczędzić czas i pieniądze, jednocześnie wzmacniając możliwości, lepiej obsługiwać klientów i tworzyć połączenia w celu osiągnięcia pełnego potencjału biznesowego. 
+Dołączając do Microsoft Partner Network, otrzymujesz zestaw podstawowych korzyści, które mogą pomóc zaoszczędzić czas i pieniądze, jednocześnie wzmacniasz swoje możliwości, lepiej obsługiwać klientów i tworzyć połączenia w celu osiągnięcia pełnego potencjału biznesowego. 
 
 Zapoznaj się z poniższymi zasobami, aby dowiedzieć się więcej o korzyściach i wymaganiach dotyczących sieci:
 

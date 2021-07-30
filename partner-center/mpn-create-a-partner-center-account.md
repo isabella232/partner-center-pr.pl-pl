@@ -3,18 +3,18 @@ title: Tworzenie konta MPN w Partner Center
 ms.topic: article
 ms.date: 05/07/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-enroll
 description: Dowiedz się, Microsoft Partner Network członkowie mogą utworzyć konto Partner Center do zarządzania korzyściami i kompetencjami w zakresie sieci.
 author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ee6f0cb6019dc68e4303a95bfa4f89727338b64
-ms.sourcegitcommit: a84c83bbd95156344b3d9b2778973f47a9f83141
+ms.openlocfilehash: 6f73d510b5426f50aa595ff59813583befb8eab4
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "113353741"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837377"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Tworzenie konta MPN w programie Partner Center celu zarządzania korzyściami i kompetencjami sieci
 
@@ -37,15 +37,15 @@ Gdy wszystko będzie gotowe do utworzenia konta w Partner Center, musisz mieć p
 - Aby uzyskać informacje na temat procesu weryfikacji, zobacz [Weryfikacja konta](verification-responses.md).
 
 > [!NOTE]
-> Jeśli masz konto w Partner Membership Center (PMC), zostało ono zmigrowane Partner Center. Kliknij, aby uzyskać więcej informacji na [temat Partner Membership Center wycofania.](partner-membership-center-retirement-faq.md)
+> Jeśli masz konto w Partner Membership Center (PMC), zostało ono zmigrowane do Partner Center. Kliknij, aby uzyskać więcej informacji na [temat Partner Membership Center wycofania.](partner-membership-center-retirement-faq.md)
 
 ## <a name="get-started"></a>Rozpoczęcie pracy
 
 1. Na stronie [**Wprowadzenie zacznij od**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) służbowego adresu e-mail podanego przez Twoją firmę, na przykład you@yourcompanyname.com .
 
-    a.  Adres e-mail musi być prawidłowy i dostępny, ponieważ w celu kontynuowania wyślemy na nie kod weryfikacyjny.
+    a.  Adres e-mail musi być prawidłowy i dostępny dla Ciebie, ponieważ w celu kontynuowania wyślemy na nie kod weryfikacyjny.
 
-    b.  Adres e-mail nie powinien zawierać takich słów jak "info", "admin", email@ "." Lub " marketing@.. ."; te formaty adresów nie są obsługiwane.
+    b.  Adres e-mail nie powinien zawierać takich słów jak "info", "admin", " email@ ." Lub " marketing@.. ."; te formaty adresów nie są obsługiwane.
 
     c.  Aby kupić usługę MAPS lub zarządzać kompetencjami, musisz uaktualnić to konto, [weryfikując](become-global-admin.md) domenę i stając się administratorem. 
 
@@ -58,7 +58,7 @@ Gdy wszystko będzie gotowe do utworzenia konta w Partner Center, musisz mieć p
 
     Możesz sprawdzić profil firmy lub wprowadzić informacje firmowe ręcznie. Jeśli Twoja firma jest zarejestrowana w [firmie Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)użyj identyfikatora DUNS ID, aby sprawdzić informacje o firmie. Jeśli chcesz samodzielnie podać szczegóły swojej firmy, wybierz pozycję **Ręcznie.**
 
-    Jeśli Twoja firma znajduje się w Stanach, **Kolumbii,** **Kyrgyzstanie,** Naimnej, Poniesiesz , Lub **Brazylia,** a Twój adres zostanie podany ręcznie, zweryfikujemy Twój adres.  Jeśli ten, który wprowadzasz, różni się od zweryfikowanego adresu, zalecamy użycie zweryfikowanego adresu. Gwarantuje to, że elementy adresu są standaryzowane zgodnie z definicją w urzędzie pocztowym kraju, poprawnie sformatowane i wysłane.  
+    Jeśli Twoja firma znajduje się w Stanach, Kolumbii, **Kyrgyzstanie,** Naimnej, **Przemysku** lub  **Kolumbii,** a Twój adres zostanie podany ręcznie, zweryfikujemy Twój adres. Jeśli ten, który wprowadzasz, różni się od zweryfikowanego adresu, zalecamy użycie zweryfikowanego adresu. Gwarantuje to, że elementy adresu są standaryzowane zgodnie z definicją w urzędzie pocztowym kraju, poprawnie sformatowane i wysłane.  
 
     Po podano informacje o firmie, wprowadź podstawowe informacje kontaktowe. Główną osobą kontaktową powinna być osoba w Firmie, z którą możemy się skontaktować w związku z Twoją aplikacją (może to być Osoba kontaktowa lub Inna osoba w Twojej firmie).
 
@@ -75,13 +75,13 @@ W poniższej tabeli przedstawiono przykłady numerów rejestracyjnych zebranych 
 
 | **Kraj lub region** | **Szczegóły** | 
 |:--|:--|
-| **Armenia** | ZAKSZ — numer identyfikacyjny podatku<br>Numer VAT — znany także jako numer rejestracji podatku VAT. Jest to unikatowy numer identyfikujący osobę osobową (służbową) lub nieuprawnieniową osobę prawna zarejestrowaną do identyfikacji VAT.<br>Numer usługi publicznej |
-| **Azerbejdżan**  | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) — numer identyfikacyjny podatku<br>ZAKSZ — numer identyfikacyjny podatku |
+| **Armenia** | NUMER IDENTYFIKACYJNY — numer identyfikacyjny podatku<br>Numer VAT — znany także jako numer rejestracji vat. Jest to unikatowy numer identyfikujący osobę osobową (służbową) lub nieuprawnieniową osobę prawna zarejestrowaną do identyfikacji VAT.<br>Numer usługi publicznej |
+| **Azerbejdżan**  | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) — numer identyfikacyjny podatku<br>NUMER IDENTYFIKACYJNY — numer identyfikacyjny podatku |
 | **Białoruś**  | UNP — jest to 9-cyfrowy numer (numeryczny dla organizacji, alfanumeryczny dla użytkowników indywidualnych), który zawiera identyfikator regionu, numer seryjny na region i cyfrę kontrolną. |
 |**Brazylia** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) — (Cadastro Nacional da Pessoa Jurdica lub National Registry of Legal Entities). Jest to numer identyfikacyjny wystawiony dla firm w Brazylii przez Departament Federalnego Przychodu Brazylii  |
 | **Chiny** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) — numer identyfikacyjny podatku |
 | **Węgry**  | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) — numer identyfikacyjny podatku |
-| **Indie** | Identyfikator podatkowy<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) — (Obecność w Różnych Krajach) ZAANGAŻOWANIE INDIE oznacza, że istnieje jedna organizacja, która działa w kilku lokalizacjach w Indiach. |
+| **Indie** | Identyfikator podatkowy<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) — (obecność w Różnych Krajach) ZAANGAŻOWANIE INDIE OZNACZA, że istnieje jedna organizacja, która działa w kilku lokalizacjach w Indiach. |
 | **Irak** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — numer identyfikacyjny podatku |
 | **Kazachstan**  | BIN — numer identyfikacyjny banku<br>IIN — numer identyfikacyjny wystawcy |
 | **Kirgistan**  | ZAKSZ — numer nip. |
@@ -93,20 +93,20 @@ W poniższej tabeli przedstawiono przykłady numerów rejestracyjnych zebranych 
 | **Republika Południowej Afryki** | TRN — numer rejestracji ruchu |
 | **Sudan Południowy** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — numer identyfikacyjny podatku |
 | **Tadżykistan**  | ZAKSZ — numer nip.<br>EIN — numer identyfikacyjny pracodawcy<br>KPP — jest to kod, który odzwierciedla przyczynę rejestracji organizacji. |
-| **Tajlandia** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — numer identyfikacji podatkowej |
-| **Turcja** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) — numer identyfikacji podatkowej<br>Nin |
+| **Tajlandia** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — numer identyfikacyjny podatku |
+| **Turcja** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) — numer identyfikacyjny podatku<br>Nin |
 | **Ukraina**  | EGRPOU<br>EDRPOU — identyfikator lokalny |
-| **Zjednoczone Emiraty Arabskie** | Identyfikator podatkowy<br>[Numer VAT](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) — znany również jako numer rejestracji VAT. Jest to unikatowy numer identyfikujący osobę prawna (biznesową) lub osobę niepowiązywistą zarejestrowaną na potrzeby podatku VAT. |
+| **Zjednoczone Emiraty Arabskie** | Identyfikator podatkowy<br>[Numer VAT](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) — znany także jako numer rejestracji podatku VAT. Jest to unikatowy numer identyfikujący osobę prawna (firmę) lub osobę niemową zarejestrowaną do identyfikacji VAT. |
 | **Stany Zjednoczone** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) — numer identyfikacyjny pracodawcy |
-| **Uzbekistan**  | NUMER IDENTYFIKACYJNY — numer identyfikacji podatkowej |
-| **Wietnam** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — numer identyfikacji podatkowej |
-| **Wenezuela** | HH — jest numerem podatkowym ("Registro de Identificaty Fiscal") |
+| **Uzbekistan**  | ZAKSZ — numer nip. |
+| **Wietnam** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — numer identyfikacyjny podatku |
+| **Wenezuela** | HH — numer podatkowy ("Registro de Identificakal Fiscal") |
 
 
 
 ## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Jak wyświetlić szczegóły konta lub wyświetlić i pobrać umowę MPN
 
-Zaloguj się Partner Center przy użyciu poświadczeń MPN. Wybierz [**pozycję Profil partnera,**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) aby wyświetlić szczegóły prawne firmy, stan weryfikacji, identyfikatory MPN, a także w razie potrzeby utworzyć nowe lokalizacje MPN. 
+Zaloguj się Partner Center przy użyciu poświadczeń MPN. Wybierz [**pozycję Profil partnera,**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) aby wyświetlić szczegóły prawne twojej firmy, stan weryfikacji, identyfikatory MPN, a także utworzyć nowe lokalizacje MPN, jeśli to konieczne. 
 
 Możesz również wyświetlić inne ważne informacje, takie jak identyfikatory MPN, zarządzać lokalizacjami MPN i wyświetlać Microsoft Partner Agreement pomocą linków menu po lewej stronie, jak pokazano na poniższym zrzucie ekranu.
 

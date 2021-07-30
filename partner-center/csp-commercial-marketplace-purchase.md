@@ -3,20 +3,20 @@ title: Kupowanie ofert komercyjnej platformy handlowej
 ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Dowiedz się, w jaki sposób partnerzy programu CSP mogą używać platformy handlowej Partner Center do kupowania przez klientów ofert SaaS od niezależnych dostawców oprogramowania.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f5cf4895fa4d66c65215989d808a1dd18ef9064
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2984dbb3a02df91d5a2a284182476bf348a24f47
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147857"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837666"
 ---
-# <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Kupowanie produktów na platformie handlowej dla klientów w Partner Center
+# <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Kupowanie produktów komercyjnej platformy handlowej dla klientów w Partner Center
 
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny
@@ -33,28 +33,28 @@ Subskrypcje opartych na licencjach lub mierzonych produktach SaaS oferowanych pr
 
 Aby kupić subskrypcję SaaS opartą na licencji lub mierzoną w u Partner Center, zobacz Tworzenie, zawieszanie lub [anulowanie subskrypcji klientów.](create-a-new-subscription.md#create-a-new-subscription)
 
-Możesz również użyć [interfejsów API Partner Center do](/partner-center/develop/) tworzenia subskrypcji platformy handlowej dla klientów. (Aby uzyskać więcej informacji na temat korzystania z Partner Center API, zobacz Tworzenie subskrypcji dla produktów platformy [handlowej).](/partner-center/develop/create-subscription-azure-marketplace-products)
+Za pomocą interfejsów [API Partner Center można](/partner-center/develop/) również tworzyć subskrypcje platformy handlowej dla klientów. (Aby uzyskać więcej informacji na temat używania Partner Center API, zobacz Tworzenie subskrypcji dla produktów platformy [handlowej).](/partner-center/develop/create-subscription-azure-marketplace-products)
 
 >[!IMPORTANT]
-> Jako partner w programie CSP  możesz kupować oparte na licencjach lub mierzone subskrypcje **SaaS** od wydawców ISV w Partner Center. Oznacza to, że  możesz kupić dowolną ofertę **SaaS** opartą na licencjach lub taryfowej, która została ci udostępnione przez wydawcę ISV, w tym oferty wyłączne, do których masz dostęp. [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) Aby kupić lub zarządzać innymi, komercyjnymi ofertami platformy handlowej od isvs (takimi jak oferty oparte na użyciu obejmujące aplikacje platformy Azure, kontenery lub maszyny wirtualne), musisz przejść do witryny [Azure Portal.](https://portal.azure.com/)
+> Jako partner w programie CSP  możesz kupić oparte na licencjach lub mierzone subskrypcje **SaaS** od wydawców ISV w Partner Center. Oznacza to, że  możesz kupić dowolną opartą na licencjach lub mierzoną [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) ofertę **SaaS,** która została Ci udostępnione przez wydawcę ISV, w tym oferty wyłączne, do których masz dostęp. Aby kupić inne, komercyjne oferty platformy handlowej od isvs (na przykład oferty oparte na użyciu obejmujące aplikacje platformy Azure, kontenery lub maszyny wirtualne) lub zarządzać nimi, musisz przejść do witryny [Azure Portal](https://portal.azure.com/).
 
 ## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>Kupowanie subskrypcji opartych na użyciu w Azure Portal
 
-W przeciwieństwie do opartych na licencjach subskrypcji SaaS od innych wydawców isv, subskrypcje oparte na użyciu najpierw wymagają od klienta subskrypcji platformy Azure. Rozliczenia dla komercyjnej platformy handlowej zasoby oparte na użyciu są dostępne w ramach subskrypcji platformy Azure klienta. Gdy klient ma subskrypcję platformy Azure, partner w programie CSP może wykonać następujące kroki, aby kupić dla nich subskrypcję platformy handlowej:
+W przeciwieństwie do opartych na licencjach subskrypcji SaaS od zewnętrznych wydawców isv, subskrypcje oparte na użyciu najpierw wymagają od klienta subskrypcji platformy Azure. Rozliczenia dla komercyjnej platformy handlowej zasoby oparte na użyciu są dostępne w ramach subskrypcji platformy Azure klienta. Gdy klient ma subskrypcję platformy Azure, partner w programie CSP może wykonać następujące kroki, aby kupić dla nich subskrypcję platformy handlowej:
 
-1. Zaloguj się na Partner Center [nawigacyjnym,](https://partner.microsoft.com/dashboard)a następnie wybierz pozycję **Klienci** z menu po lewej stronie.
+1. Zaloguj się do [Partner Center,](https://partner.microsoft.com/dashboard)a następnie wybierz pozycję **Klienci** z menu po lewej stronie.
 
 2. Wybierz określonego klienta, a następnie wybierz **pozycję Subskrypcje.**  
 
-3. W obszarze **Subskrypcje oparte na użyciu** wybierz pozycję **Wszystkie zasoby.** Zostanie on przekierowyny do portalu zarządzania platformy Azure.
+3. W obszarze **Subskrypcje oparte na użyciu** wybierz pozycję **Wszystkie zasoby.** W ten sposób zostaniemy przekierowyni do portalu zarządzania platformy Azure.
 
 4. W portalu zarządzania platformy Azure wybierz **pozycję Utwórz zasób** z menu po lewej stronie.
 
 5. Wybierz **pozycję Zobacz** wszystko w górnej części Azure Marketplace listy.
 
-6. Aby zawęzić listę, użyj filtrów w górnej części listy Marketplace. Na przykład możesz wybrać pozycję **Microsoft** lub **Partner** z listy rozwijanej Wydawca, aby wyświetlić tylko oferty firmy Microsoft lub te od wydawcy ISV. 
+6. Aby zawęzić listę, użyj filtrów w górnej części listy w witrynie Marketplace. Na przykład możesz wybrać pozycję **Microsoft** lub **Partner** z listy rozwijanej **Publisher,** aby wyświetlić tylko oferty firmy Microsoft lub oferty od wydawcy isv.
 
-7. Wybierz określoną ofertę, a następnie wybierz **pozycję Utwórz.**
+7. Wybierz określoną ofertę, a następnie wybierz pozycję **Utwórz.**
 
 ## <a name="next-steps"></a>Następne kroki
 

@@ -3,19 +3,19 @@ title: Konsolidacja dzierżawy autoryzacji regionalnej programu CSP
 ms.topic: how-to
 ms.date: 07/15/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Użyj tych instrukcji, aby skonsolidować dzierżawy dla różnych krajów/regionów. Obejmuje to kroki migracji kont klientów i subskrypcji klientów.
 author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84e5f7f2674e9b2f3c3c26ed2ea49f9bba0e96e0
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: f4df62bddba501552eafe2142f4c0656b8eefc7c
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276879"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844415"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instrukcje dotyczące konsolidacji dzierżawy regionalnej autoryzacji dostawcy CSP
 
@@ -44,13 +44,13 @@ Możesz konsolidować dzierżawy dla swojej firmy. Użyj tych instrukcji, aby sk
 
 3. Wybierz **pozycję Request a reseller relationship (Zażądaj relacji odsprzedawcy).** Zostanie wyświetlony domyślny komunikat e-mail do wysłania do klientów. Ten komunikat zawiera adres URL z identyfikatorem organizacji unikatowym dla nowego Partner Center konta.
 
-4. **Akcja klienta:** Upewnij się, że każdy z aktywnych klientów, których chcesz migrować, odwiedzi ten adres URL. Podczas otwierania adresu URL klient jest monitowany o zalogowanie się do portalu usługi Office 365. Klient korzysta z tego samego identyfikatora organizacji, za pomocą których uzyskuje dostęp do portalu administracyjnego platformy Azure i usługi Office 365.
+4. **Akcja klienta:** Upewnij się, że każdy z aktywnych klientów, których chcesz migrować, odwiedzi ten adres URL. Podczas otwierania adresu URL klient jest monitowany o zalogowanie się do Office 365 portal. Klient korzysta z tego samego identyfikatora organizacji, który jest przez niego Office 365 portalami administracyjnym.
 
 5. Po zalogowaniu administrator globalny  dla konta klienta jest monitowany o przesłanie umowy, która daje delegowane uprawnienia administratora do nowego konta CSP. Jeśli klient się na to zgadza, zaznacza pole wyboru i wyraża zgodę na autoryzowanie relacji.
 
 Klienci będą pojawiać się na liście klientów partnera po przesłaniu umowy jeden po drugiej.
 
-## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Migrowanie subskrypcji usługi Office 365 i subskrypcji spoza platformy Azure opartych na użyciu
+## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Migrowanie Office 365 i subskrypcji spoza platformy Azure opartych na użyciu
 
 1. Po podpisaniu umowy przez klienta możesz ponownie utworzyć jego subskrypcje w ramach dzierżawy scentralizowanego partnera.
 
@@ -75,7 +75,7 @@ Przed przejściem do następnej sekcji upewnij się, że wszystkie subskrypcje k
 > [!NOTE]
 > Partnerzy muszą wstrzymać  subskrypcje na koncie Przechodzenie z dzierżawy partnera w programie Partner Center tego  samego dnia, w który te subskrypcje zostały przenoszone i ustawione w ramach konta Przechodzenie do dzierżawy partnera w Partner Center, aby zagwarantować, że nie wystąpią podwójne rozliczenia. Żądania pomocy technicznej zostaną odrzucone w przypadku środków ze względu na nakładanie się rozliczeń, które nie wyłączają prawidłowo **przejścia z** subskrypcji.
 
-## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Wyłączanie subskrypcji usługi Office 365 w obszarze Przechodzenie z konta partnera
+## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Wyłączanie subskrypcji Office 365 w obszarze Przechodzenie z konta partnera
 
 Wyłączenie subskrypcji CSP w obszarze **Przechodzenie z** kont partnerów zatrzymuje wszelkie przyszłe rozliczenia. Nie trzeba ręcznie wyłączać subskrypcji platformy Azure, ponieważ subskrypcje platformy Azure są automatycznie wyłączane podczas procesu migracji.
 
@@ -96,7 +96,7 @@ Wyłączenie subskrypcji CSP w obszarze **Przechodzenie z** kont partnerów zatr
 
 ## <a name="migrating-azure-usage-based-subscriptions"></a>Migrowanie subskrypcji platformy Azure opartych na użyciu
 
-W przeciwieństwie do subskrypcji programu CSP usługi Office 365 na platformie Azure nie trzeba migrować ręcznie subskrypcji CSP opartych na użyciu. Microsoft Azure pomoc techniczna zmigruje subskrypcje platformy Azure i  wszystkie wdrożone usługi lub zasoby z konta przechodzenia z kont odsprzedawców CSP do konta odsprzedawcy programu **CSP.** Podczas tego przejścia nie będzie żadnych zakłóceń w działaniu usługi dla klienta.
+W przeciwieństwie Office 365 CSP platformy Azure, subskrypcje CSP oparte na użyciu nie muszą być migrowane ręcznie. Microsoft Azure Pomoc techniczna zmigruje subskrypcje platformy Azure i wszystkie wdrożone usługi lub zasoby z konta przechodzenia z kont odsprzedawców programu **CSP** do konta odsprzedawcy programu **CSP.** Podczas tego przejścia nie będzie żadnych zakłóceń w działaniu usługi dla klienta.
 
 1. Upewnij się, że konta klientów, które będą mieć zmigrowane subskrypcje platformy Azure, zaakceptowały umowę skojarzoną z nowym kontem **przechodzenia do** programu CSP.
 
@@ -132,7 +132,7 @@ Za pomocą **funkcji Eksportuj** możesz przechwycić subskrypcje, których chce
 
 2. Otwórz nazwę żądanego klienta.
 
-3. Na stronie **Subskrypcje** wybierz pozycję Eksportuj **subskrypcje,** aby wyeksportować szczegóły subskrypcji do pliku programu Excel.
+3. Na stronie **Subskrypcje** wybierz pozycję Eksportuj **subskrypcje,** aby wyeksportować szczegóły subskrypcji do Excel subskrypcji.
 
 4. Użyj tej listy, aby ponownie utworzyć subskrypcje w nowej skonsolidowanej dzierżawie.
 
@@ -142,4 +142,4 @@ Aby uzyskać więcej informacji na temat rejestracji interfejsu API, zobacz [Kon
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Dostawca rozwiązań w chmurze programem regionalne rynki i waluty, w których można sprzedawać oferty CSP](regional-authorization-overview.md)
+- [Dostawca rozwiązań w chmurze programie regionalne rynki i waluty, w których można sprzedawać oferty programu CSP](regional-authorization-overview.md)

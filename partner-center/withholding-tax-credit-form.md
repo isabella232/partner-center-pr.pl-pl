@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/05/2020
 description: Odbierz kredyt na koncie Partner Center na potrącenie podatku. Informacje obejmują kroki przesyłania żądania potrącenia podatku.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05bf6e09c5dc5982c3faa3e426f7b99acfc09949
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.openlocfilehash: a033b474a472a1737a2d6d171ee98c1c1bdf1317
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431722"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844756"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Otrzymywanie środków na koncie Partner Center na potrącenie podatku
 

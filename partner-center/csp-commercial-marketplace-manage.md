@@ -3,31 +3,31 @@ title: Zarządzanie produktami na platformie handlowej & ofert
 ms.topic: how-to
 ms.date: 07/02/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Korzystając Partner Center, dowiedz się, jak dostawcy rozwiązań w chmurze mogą zarządzać ofertami dostawców oprogramowania innych firm zakupionymi dla klientów na platformie handlowej.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e1bb2752dad5325478496c83fc368943780d8afb
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: fb6b64ef6117f0e26f0fd41d215816c38d5b7b80
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147908"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837734"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Zarządzanie produktami i ofertami na platformie handlowej dla klientów
 
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny
 
-Partnerzy w programie Dostawca rozwiązań w chmurze (CSP) mogą użyć portalu Partner Center, aby zakupić wiele ofert lub subskrypcji SaaS isv SaaS dla swoich klientów na platformie handlowej. Po zakupie oferty masz różne sposoby zarządzania jej.
+Partnerzy w programie Dostawca rozwiązań w chmurze (CSP) mogą za pomocą portalu Partner Center zakupić wiele ofert lub subskrypcji SaaS isv SaaS dla swoich klientów na platformie handlowej. Po zakupie oferty możesz zarządzać jej różnymi sposobami.
 
 ## <a name="view-or-edit-a-subscription"></a>Wyświetlanie lub edytowanie subskrypcji
 
 Po zakupie subskrypcji od zewnętrznego wydawcy isv publisher możesz przejrzeć lub edytować ją w następujący sposób:
 
-1. Zaloguj się do pulpitu Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard)a następnie wybierz **pozycję Klienci** z menu nawigacji po lewej stronie.
+1. Zaloguj się do Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard)a następnie wybierz pozycję **Klienci** z menu nawigacji po lewej stronie.
 
 2. Wybierz odpowiedniego klienta, a następnie wybierz **pozycję Subskrypcje.** Zawiera listę wszystkich subskrypcji opartych na licencjach zakupionych dla klienta.
 
@@ -81,7 +81,7 @@ Wydawca powinien dostarczyć spersonalizowany link i kod autoryzacji, który ide
 
 ## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>Anulowanie subskrypcji SaaS opartej na licencji od wydawcy isv publisher
 
-W przypadku subskrybowania opartego na licencji produktu SaaS oferowanego przez wydawcę ISV na platformie handlowej można anulować subskrypcję w wyznaczonym okresie anulowania. Ten okres anulowania zmienia się w zależności od tego, czy masz subskrypcję miesięczną, czy roczną. Możesz również wybrać, czy subskrypcja ma być odnawiana automatycznie.
+Po zasubskrybowania opartego na licencji produktu SaaS oferowanego przez wydawcę ISV na platformie handlowej można anulować subskrypcję w wyznaczonym okresie anulowania. Ten okres anulowania zmienia się w zależności od tego, czy masz subskrypcję miesięczną, czy roczną. Możesz również wybrać, czy subskrypcja ma być odnawiana automatycznie.
 
 Aby uzyskać więcej informacji na temat okresów anulowania, które mają zastosowanie, sposobu anulowania lub automatycznego odnawiania subskrypcji, zobacz:
 
@@ -93,7 +93,7 @@ Aby uzyskać więcej informacji na temat okresów anulowania, które mają zasto
 
 W przypadku ofert platformy handlowej SaaS można dodawać lub usuwać licencje użytkowników dla subskrypcji klienta.
 
-1. Zaloguj się do pulpitu Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard)a następnie wybierz **pozycję Klienci** z menu nawigacji po lewej stronie.
+1. Zaloguj się do Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard)a następnie wybierz pozycję **Klienci** z menu nawigacji po lewej stronie.
 
 2. Wybierz odpowiedniego klienta, a następnie wybierz **pozycję Subskrypcje.** Zawiera listę wszystkich subskrypcji opartych na licencjach zakupionych dla klienta.
 

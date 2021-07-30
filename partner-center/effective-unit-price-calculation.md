@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 04/02/2021
 description: Dowiedz się więcej na temat efektywnej ceny jednostkowej i sposobu jej obliczania. Ten artykuł zawiera również przykładowe obliczenia.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84beac77d41b8c11be9ac3cad87460eec9632ac4
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 4148e9be6ab5bd3e5a146c0ed5479d8ad9723204
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147126"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837326"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Obliczanie efektywnej ceny jednostkowej dla użycia planu platformy Azure
 
@@ -46,17 +46,17 @@ W poniższej tabeli przedstawiono przykład sposobu obliczania efektywnej ceny j
 
 W tabeli mają zastosowanie następujące wartości: 
 
-- **UP** = cena jednostkowa zasobu/godziny = 0,868
+- **UP** = cena jednostkowa zasobu/godzina = 0,868
 
 - **BCU** = rozliczana jednostka zużycia dla miernika
 
-- **BC** = rozliczany koszt miernika = BCU * UP * 0,85. Odzwierciedla to korektę rabatu 15% PEC. Następnie używamy dolnego limitu funkcji, aby ograniczyć wartość do dwóch cyfr po przecinku dziesiętnym, aby nalicować minimalną kwotę. 
+- **BC** = rozliczany koszt miernika = BCU * UP * 0,85. Odzwierciedla to korektę rabatu 15% rabatu PEC. Następnie używamy dolnego limitu funkcji, aby ograniczyć wartość do dwóch cyfr po przecinku dziesiętnym, aby naliczyć minimalną kwotę. 
 
 - **Efektywna cena jednostkowa** = BCU/BC
 
 >[!NOTE]
 
->Uwaga: Miernik w tym przykładzie nie ma warstw cenowych ani innych rabatów — współczynniki Efektywne ceny jednostkowej w procentach rabatów i innych korektach.
+>Uwaga: Miernik w tym przykładzie nie ma warstw cenowych ani innych rabatów — współczynniki efektywnej ceny jednostkowej mają wartość procentową rabatu i inne korekty.
 
 
 | Date (Data) | BCU (rozliczana jednostka zużycia) | BC (koszt rozliczany) | Efektywna cena jednostkowa |

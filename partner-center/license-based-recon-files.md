@@ -3,18 +3,18 @@ title: Pliki uzgodnień na podstawie licencji
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 description: Dowiedz się, jak odczytywać pliki uzgodnień oparte na licencjach w Partner Center. W tym artykule wyjaśniono znaczenie każdego pola w pliku rekonescji opartym na licencjach.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 041f0fadfea107027ae1d9796d235700e66e6834
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 7ebbd34e8de8db845b06b8d75bc17e88612e8477
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146582"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837360"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Opis pól w Partner Center uzgadniania na podstawie licencji
 
@@ -36,11 +36,11 @@ Aby uzgodnić zmiany z zamówieniami klienta, porównaj Syndication_Partner_Subs
 | OrderId (Identyfikator zamówienia) | Unikatowy identyfikator zamówienia na platformie rozliczeniowej firmy Microsoft. Może być przydatna do zidentyfikowania zamówienia podczas kontaktowania się z pomocą techniczną. Nie są używane do uzgadniania. | *566890604832738111* |
 | SubscriptionId | Unikatowy identyfikator subskrypcji na platformie rozliczeniowej firmy Microsoft. Może być przydatna do zidentyfikowania subskrypcji podczas kontaktowania się z pomocą techniczną. Nie są używane do uzgadniania. *Ta wartość nie jest taka sama jak **identyfikator subskrypcji w** konsoli administracyjnej partnera. Zamiast tego **zobacz SyndicationPartnerSubscriptionNumber.*** | *usCBMgAAAAAAAAIAA* |
 | SyndykacjaPartnerSubscriptionNumber | Unikatowy identyfikator subskrypcji. Klient może mieć wiele subskrypcji dla tego samego planu. Ta kolumna jest ważna w przypadku analizy pliku uzgodnień. To pole jest mapowe **na identyfikator subskrypcji** w konsoli administracyjnej partnera. | *fb977ab5-test-test-test-24c8d9591708* |
-| OfferId | Unikatowy identyfikator oferty. Identyfikator oferty standardowej, zgodnie z definicją w cenniku. *Ta wartość nie jest **dopasowana do identyfikatora oferty** z cennika. Zamiast **tego zobacz DurableOfferID.*** | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
-| DurableOfferId | Unikatowy identyfikator trwałej oferty, zgodnie z definicją w cenniku. *Ta wartość odpowiada **identyfikatorowi oferty** z cennika.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
-| OfferName | Nazwa oferty usługi zakupionej przez klienta, zgodnie z definicją w cenniku. | *Microsoft Office 365 (Plan E3)* |
-| SubscriptionStartDate | Data rozpoczęcia subskrypcji w czasie UTC. Godzina to zawsze początek dnia, 0:00. To pole jest ustawione na dzień po przesłaniu zamówienia. Używane razem z **subskrypcjąEndDate,** aby określić, czy klient nadal znajduje się w pierwszym roku subskrypcji, czy subskrypcja została odnowiona na następny rok. | *2/1/2019 0:00* |
-| SubscriptionEndDate | Data zakończenia subskrypcji w czasie UTC. Godzina to zawsze początek dnia, 0:00. *12 miesięcy i **x** dni* po dacie rozpoczęcia w celu dostosowania do daty rozliczeniowej partnera lub *12 miesięcy* od daty odnowienia. Podczas odnawiania ceny są aktualizowane do bieżącego cennika. Komunikacja z klientem może być wymagana przed automatycznym odnawianiem. | *2/1/2019 0:00* |
+| OfferId | Unikatowy identyfikator oferty. Standardowy identyfikator oferty, zgodnie z definicją w cenniku. *Ta wartość nie jest dopasowana do **identyfikatora oferty** z cennika. Zamiast tego **zobacz DurableOfferID.*** | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
+| DurableOfferId | Unikatowy trwały identyfikator oferty, zgodnie z definicją w cenniku. *Ta wartość odpowiada **identyfikatorowi oferty** z cennika.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
+| OfferName | Nazwa oferty usługi zakupionej przez klienta, zgodnie z definicją w cenniku. | *Microsoft Office 365 (plan E3)* |
+| SubscriptionStartDate | Data rozpoczęcia subskrypcji w czasie UTC. Godzina to zawsze początek dnia, 0:00. To pole jest ustawione na dzień po przesłaniu zamówienia. Używana z **subskrypcjąEndDate** w celu określenia, czy klient nadal znajduje się w pierwszym roku subskrypcji, czy subskrypcja została odnowiona na następny rok. | *2/1/2019 0:00* |
+| SubscriptionEndDate | Data zakończenia subskrypcji w czasie UTC. Godzina to zawsze początek dnia, 0:00. *12 miesięcy plus x **dni*** po dacie rozpoczęcia w celu dostosowania do daty rozliczeniowej partnera lub *12 miesięcy* od daty odnowienia. Po odnowieniu ceny są aktualizowane do bieżącego cennika. Komunikacja z klientem może być wymagana przed automatycznym odnawianiem. | *2/1/2019 0:00* |
 | ChargeStartDate | Dzień rozpoczęcia opłat. Godzina to zawsze początek dnia, 0:00. Służy do obliczania opłat dziennych *(proporcjonalnie do opłat),* gdy klient zmienia numery licencji. | *2/1/2019 0:00* |
 | ChargeEndDate | Koniec dnia opłat. Czas to zawsze koniec dnia, 23:59. Służy do obliczania opłat dziennych *(proporcjonalnie do opłat),* gdy klient zmienia numery licencji. | *2/28/2019 23:59* |
 | ChargeType | Typ [opłaty lub](recon-file-charge-types.md) korekty. | Zobacz [typy opłat.](recon-file-charge-types.md) |
@@ -52,7 +52,7 @@ Aby uzgodnić zmiany z zamówieniami klienta, porównaj Syndication_Partner_Subs
 | Podatek | Kwota podatku. Na podstawie reguł podatkowych obowiązujących na rynku i określonych okoliczności. | *0* |
 | TotalForCustomer | Suma po opodatkowaniu. Sprawdza, czy na fakturze nie są naliczane opłaty podatkowe. | *11* |
 | Waluta | Typ waluty. Każda jednostka rozliczeniowa ma tylko jedną walutę. Sprawdź, czy odpowiada pierwszej fakturze. Sprawdź ponownie po każdej istotnej aktualizacji platformy rozliczeniowej. | *EUR* |
-| DomainName | Nazwa domeny klienta. To pole może być puste do czasu drugiego cyklu rozliczeniowego. *Nie używaj tego pola jako unikatowego identyfikatora klienta. Klient/partner może zaktualizować domenę vanity lub domyślną za pośrednictwem portalu usługi Office 365.* | *example.onmicrosoft.com* |
+| DomainName | Nazwa domeny klienta. To pole może być puste do czasu drugiego cyklu rozliczeniowego. *Nie używaj tego pola jako unikatowego identyfikatora klienta. Klient/partner może zaktualizować domenę vanity lub domyślną za pośrednictwem Office 365 portal.* | *example.onmicrosoft.com* |
 | SubscriptionName | Pseudonim subskrypcji. Jeśli pseudonim nie zostanie określony, Partner Center użyje **OfferName**. | *PROJECT ONLINE* |
-| SubscriptionDescription | Nazwa oferty usługi zakupionej przez klienta, zgodnie z definicją w cenniku. (To jest pole identyczne z **OfferName**). | *PROJECT ONLINE PREMIUM BEZ KLIENTA PROJEKTU* |
+| SubscriptionDescription | Nazwa oferty usług zakupionej przez klienta, zgodnie z definicją w cenniku. (Jest to pole identyczne z **OfferName**). | *PROJECT ONLINE PREMIUM BEZ KLIENTA PROJEKTU* |
 | BillingCycleType | Częstotliwość rozliczania godzinowego.| *Raz na miesiąc* |

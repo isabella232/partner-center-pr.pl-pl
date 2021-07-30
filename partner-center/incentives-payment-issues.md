@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: ad71a6e02d6472ae844c504491e5acb05d5d6426
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 7e3f3e206c851fbcc68ecd47f6027a2d5856478e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277865"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844779"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Rozwiązywanie problemów z brakującymi płatnościami, nieprawidłowymi zarobkami i innymi problemami
 
@@ -21,7 +21,7 @@ ms.locfileid: "112277865"
 
 Ten artykuł pomoże Ci rozwiązać wszelkie problemy z zarobkami lub płatnościami w programie zachęt. Uwzględnione tematy obejmują terminy płatności, sprawdzanie uprawnień do zarobków oraz znaczenie prawidłowego konfigurowania profilów wypłat i profilów podatkowych.
 
-## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>Kto może tworzyć lub aktualizować profile wypłaty i profile podatkowe dla mojej organizacji?
+## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>KtoTo może tworzyć lub aktualizować profile wypłaty i profile podatkowe dla mojej organizacji?
 
 Użytkownicy, którzy mają rolę administratora zachęt w Partner Center dla odpowiedniego programu zachęt i lokalizacji MPN, mogą aktualizować i widzieć profile wypłaty i profile podatkowe dla organizacji.
 
@@ -135,7 +135,7 @@ Ten widok umożliwia wyświetlanie płatności dla wszystkich programów i ident
 | Wyświetlanie informacji o płatności według wiersza, w tym zarobków i kwot płatności w walucie lokalnej  | Zobacz pole **Lista** płatności   |
 | Pobieranie litery przelewu   |  Wybierz **pozycję Przelew płatności**  |
 | Wyświetlanie szczegółów poziomu transakcji dla określonej płatności |  Wybieranie **widoku**  |
-| Eksportowanie szczegółów transakcji do programu Excel  |  Wybierz **pozycję Rozpocznij pobieranie,** a następnie wybierz **pozycję Eksportuj dane.** Wszystkie wybrane filtry zostaną zastosowane do wyeksportowanych danych. Po zmianie stanu na Ukończono wybierz pozycję **Pobierz** i postępuj zgodnie z monitami, aby wyeksportować szczegółowy raport transakcji. Odśwież stronę, jeśli stan nie zostanie zaktualizowany w ciągu pięciu minut.  |
+| Eksportowanie szczegółów transakcji do Excel  |  Wybierz **pozycję Rozpocznij pobieranie,** a następnie wybierz **pozycję Eksportuj dane.** Wszystkie wybrane filtry zostaną zastosowane do wyeksportowanych danych. Po zmianie stanu na Ukończono wybierz pozycję **Pobierz** i postępuj zgodnie z monitami, aby wyeksportować szczegółowy raport transakcji. Odśwież stronę, jeśli stan nie zostanie zaktualizowany w ciągu pięciu minut.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Brakujące lub nieprawidłowe zarobki i płatności
 
@@ -157,9 +157,9 @@ Jeśli te akcje nie pomogą, a Twoje zarobki nadal nie zostały uzgodnione, skon
 
 ## <a name="where-can-i-find-my-rates"></a>Gdzie mogę znaleźć moje stawki?
 
-1. Zaloguj się [do programu zachęt dla partnerów.](https://partner.microsoft.com/membership/partner-incentives)
+1. Zaloguj się [do programu Zachęty dla partnerów.](https://partner.microsoft.com/membership/partner-incentives)
 
-2. Przewiń w dół, aby uzyskać dostęp do dokumentów programu.
+2. Przewiń w dół, aby uzyskać dostęp do dokumentów dotyczących programu.
 
 3. Wybierz link do dokumentu dla odpowiedniego programu.
 
