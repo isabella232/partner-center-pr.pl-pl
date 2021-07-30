@@ -3,18 +3,18 @@ title: Rozwiązywanie problemów ze środków uzyskane przez partnerów
 ms.topic: article
 ms.date: 07/22/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Dowiedz się, jak rozwiązać problemy z fakturami i inne problemy dotyczące środków uzyskane przez partnerów.
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9d7376b6224047176b5e6608ee190191a8f44824
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 7ce31bd688c32da956f466d63beede3f0fc9f9ef
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114434216"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843548"
 ---
 # <a name="troubleshooting-partner-earned-credit"></a>Rozwiązywanie problemów ze środków uzyskane przez partnerów
 
@@ -40,7 +40,7 @@ Jeśli masz problemy z PEC, takie jak dostęp lub brakujące informacje, sprawd�
 
 8. Upewnij się, że masz dostęp administratora przez cały dzień.
 
-9. Upewnij się, że przeglądasz poprawne kolumny w pliku dziennego użycia.
+9. Upewnij się, że przeglądasz prawidłowe kolumny w pliku dziennego użycia.
 
 ## <a name="next-steps"></a>Następne kroki
 

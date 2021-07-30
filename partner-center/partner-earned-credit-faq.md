@@ -3,22 +3,22 @@ title: Często zadawane pytania dotyczące środków uzyskane przez partnerów
 ms.topic: article
 ms.date: 07/22/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Znajdź odpowiedzi na często zadawane pytania dotyczące środków uzyskane przez partnerów.
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5d6aa77a02a24648828f06fb2c56640abdbfc56
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 3b66c4cf8b199263c3869a4235c4ee3b16ee369c
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114434217"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836697"
 ---
 # <a name="frequently-asked-questions-for-partner-earned-credit"></a>Często zadawane pytania dotyczące środków uzyskane przez partnerów
 
-Odpowiednie role: Administrator globalny | Administrator zarządzający użytkownikami | Agent administracyjny | Administrator rozliczeń | Agent sprzedaży
+Odpowiednie role: Administrator globalny | Administrator zarządzania użytkownikami | Agent administracyjny | Administrator rozliczeń | Agent sprzedaży
 
 Poniżej znajduje się lista często zadawanych pytań dotyczących środków uzyskane przez partnerów.
 
@@ -40,35 +40,35 @@ Zobacz [Obliczanie](partner-earned-credit-explanation.md#calculation).
 
 ## <a name="where-can-i-find-pec-details"></a>Gdzie można znaleźć szczegóły PEC?
 
-Szczegóły dotyczące PEC mogą być wyszukiwane bezpośrednio przez interfejs [API,](partner-earned-credit-explanation.md#calculation) codzienny plik rekonescji i [narzędzie ACM (Azure Cost Mgmt)](partner-earned-credit-explanation.md#azure-cost-management-and-pec) przez partnerów.
+Szczegóły PEC mogą być bezpośrednio wyszukiwane przez interfejs [API,](partner-earned-credit-explanation.md#calculation) codzienny plik rekonescji i [narzędzie ACM (Azure Cost Mgmt)](partner-earned-credit-explanation.md#azure-cost-management-and-pec) przez partnerów.
 
-## <a name="how-can-i-reconcile-my-pec-information-across-the-two-recon-files"></a>Jak mogę uzgodnić informacje dotyczące PEC między dwoma plikami rekonescji?
+## <a name="how-can-i-reconcile-my-pec-information-across-the-two-recon-files"></a>Jak mogę uzgodnić informacje o PEC między dwoma plikami rekonescji?
 
 W obszarze Rozliczenia znajdują się dwa pliki uzgodnień Partner Center, których można użyć.
 
-- Ostatnie działania uzgadniania użycia ocenianego codziennie (.csv)
-- Działanie uzgadniania ostatnich (.csv)
+- Codzienne rated usage reconciliation-recent activity (.csv)
+- Działanie Uzgadnianie ostatnich (.csv)
 
-Aby uzgodnić, partner może porównać pola ProductID, SKUID i AvailabilityID z tych dwóch plików dla każdego pola SubscriptionID.
+Aby uzgodnić, partner może porównać pola ProductID, SKUID i AvailabilityID z tych dwóch plików dla każdego subscriptionID.
 
-## <a name="for-an-indirect-reseller-working-with-an-indirect-provider-does-an-indirect-provider-need-to-add-the-indirect-resellers-account-as-an-rbac-identity-and-access-management-iam-role-to-the-end-customers-subscription-in-order-to-utilize-acm"></a>Czy w przypadku odsprzedawcy pośredniego, który współpracuje z dostawcą pośrednim, czy dostawca pośredni musi dodać konto odsprzedawcy pośredniego jako rolę zarządzania tożsamościami i dostępem RBAC (IAM) do subskrypcji klienta końcowego, aby móc korzystać z usługi ACM?
+## <a name="for-an-indirect-reseller-working-with-an-indirect-provider-does-an-indirect-provider-need-to-add-the-indirect-resellers-account-as-an-rbac-identity-and-access-management-iam-role-to-the-end-customers-subscription-in-order-to-utilize-acm"></a>Czy w przypadku odsprzedawcy pośredniego współpracującego z dostawcą pośrednim, czy dostawca pośredni musi dodać konto odsprzedawcy pośredniego jako rolę zarządzania tożsamościami i dostępem RBAC (IAM) do subskrypcji klienta końcowego w celu korzystania z usługi ACM?
 
-Tak, użytkownik CSP Indirect Provider dostęp [RBAC](/azure/role-based-access-control/overview) do odsprzedawcy pośredniego w subskrypcji platformy Azure.
+Tak, CSP Indirect Provider musi włączyć dostęp [RBAC](/azure/role-based-access-control/overview) do odsprzedawcy pośredniego w subskrypcji platformy Azure.
 
 ## <a name="what-happens-if-a-customer-removes-a-partners-rbac-admin-access"></a>Co się stanie, jeśli klient usunie dostęp administratora RBAC partnera?
 
-Partner bez odpowiedniego dostępu RBAC w programie CSP zachowuje w firmie Microsoft relację rozliczeń i odpowiedzialność klienta z platformą Azure. Chociaż nie ma to wpływu na partnera sprzedaży poprzedniej oferty platformy Azure w programie CSP, w przypadku nowej oferty platformy Azure w programie CSP, zafakturowany partner nie będzie kwalifikować się do PEC na fakturze za platformę Azure. Partnerzy mogą uzyskać częściowy dostęp administratora w programie CSP, uzyskanie dostępu za pośrednictwem konta użytkownika za pośrednictwem dostępu do katalogu/gościa przy użyciu kontroli dostępu na Azure Lighthouse. Aby uzyskać więcej informacji, zobacz [Przywróć](revoke-reinstate-csp.md)uprawnienia administratora dla subskrypcji Azure CSP klienta.
+Partner bez odpowiedniego dostępu RBAC w programie CSP nadal zachowuje relację rozliczeń klienta z platformą Azure i odpowiedzialność z firmą Microsoft. Chociaż nie ma to wpływu na partnera sprzedaży poprzedniej oferty platformy Azure w programie CSP, w przypadku nowej oferty platformy Azure w programie CSP zafakturowany partner nie będzie kwalifikował się do PEC na fakturze za platformę Azure. Partnerzy mogą uzyskać częściowy dostęp administratora w programie CSP, uzyskiwać dostęp za pośrednictwem konta użytkownika za pośrednictwem katalogu/dostępu gościa przy użyciu kontroli dostępu na Azure Lighthouse. Aby uzyskać więcej informacji, zobacz Przywróć uprawnienia administratora dla subskrypcji [Azure CSP klienta.](revoke-reinstate-csp.md)
 
-## <a name="how-do-i-know-if-im-earning-pec"></a>Jak mogę, czy zarobkuję PEC?
+## <a name="how-do-i-know-if-im-earning-pec"></a>Jak mogę wiedzieć, czy zarobkuję w PEC?
 
 Istnieje kilka sposobów, w jakie partner może potwierdzić, że ma odpowiedni dostęp do zasobów platformy Azure klienta.
 
-- Przejrzyj plik dziennego użycia: Jeśli partner otrzymuje kredyt uzyskane przez partnera dla usług zarządzanych, ma dostęp administratora. Można to ustalić, przeglądając cenę jednostkową i efektywną cenę jednostkową w pliku dziennego użycia i potwierdzając, czy rabat jest stosowany.
-- Tworzenie alertu Azure Monitor: alerty [](/azure/azure-monitor/platform/alerts-activity-log) dziennika aktywności można tworzyć przy użyciu usługi Azure Monitor w celu otrzymywania powiadomień o usunięciu dostępu RBAC z subskrypcji CSP. Zapoznaj się z przewodnikiem Opis środków uzyskane przez partnerów i dokumentacją techniczną.
+- Przejrzyj plik dziennego użycia: Jeśli partner otrzymuje środków uzyskane przez partnera dla usług zarządzanych, ma dostęp administratora. Można to ustalić, przeglądając cenę jednostkową i efektywną cenę jednostkową w pliku dziennego użycia i potwierdzając, czy rabat jest stosowany.
+- Tworzenie alertu Azure Monitor aktywności: [](/azure/azure-monitor/platform/alerts-activity-log) alerty dziennika aktywności można tworzyć przy użyciu Azure Monitor do odbierania powiadomień, gdy dostęp RBAC zostanie usunięty z subskrypcji CSP. Zapoznaj się z przewodnikiem Opis środków uzyskane przez partnerów i dokumentacją techniczną.
 
-## <a name="why-dont-i-see-pec-on-the-invoice"></a>Dlaczego na fakturze nie widzę PEC?
+## <a name="why-dont-i-see-pec-on-the-invoice"></a>Dlaczego nie widzę PEC na fakturze?
 
-PEC nie jest jawnie wywoływana na fakturze i nie ma oddzielnej pozycji do wyświetlania PEC, jednak zarobki PEC są uwzględniane w skorygowanej kwoty opłat netto na fakturze. Aby dowiedzieć się więcej o tym, gdzie można wyświetlić szczegóły PEC, zobacz sekcje How is PEC paid (Jak są płatne PEC).
+PEC nie jest jawnie wywoływany na fakturze i nie ma oddzielnego wiersza do wyświetlenia PEC, jednak zarobki PEC są uwzględniane w skorygowanej kwoty opłat netto na fakturze. Zapoznaj się z obliczeniami i sekcjami How is PEC paid (Jak są płatne sekcje PEC), aby dowiedzieć się więcej o tym, gdzie można wyświetlić szczegóły PEC.
 
 ## <a name="next-steps"></a>Następne kroki
 
@@ -76,6 +76,6 @@ PEC nie jest jawnie wywoływana na fakturze i nie ma oddzielnej pozycji do wyśw
 - [Zarządzanie subskrypcjami i zasobami w ramach planu platformy Azure](azure-plan-manage.md)
 - [Nowe środowisko handlowe w programie CSP — rozliczenia platformy Azure](azure-plan-billing.md)
 - [Przywracanie uprawnień administratora dla subskrypcji w ramach programu Azure CSP](revoke-reinstate-csp.md)
-- [Punkty uzyskane przez partnerów — omówienie](partner-earned-credit.md)
+- [Środków uzyskane przez partnerów — omówienie](partner-earned-credit.md)
 - [Role, uprawnienia do środków uzyskane przez partnerów](azure-roles-perms-pec.md)
 - [Informacje o środków uzyskane przez partnerów (przewodnik)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf) (wymagane logowanie)

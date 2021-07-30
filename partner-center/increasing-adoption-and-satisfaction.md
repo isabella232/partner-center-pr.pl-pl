@@ -3,29 +3,29 @@ title: Lepszy odbiór i większe zadowolenie
 ms.topic: how-to
 ms.date: 11/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Dowiedz się, jak używać metryk w Partner Center. Metryki mogą pokazywać, czy Twoja firma się rozwija, jak klienci używają swoich licencji i gdzie skupić się na inwestycjach.
+ms.subservice: partnercenter-customers
+description: Dowiedz się, jak używać metryk w Partner Center. Metryki mogą pokazać, czy Twoja firma się rozwija, jak klienci używają swoich licencji i gdzie skupić się na inwestycjach.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e8c0935ecf4cf7dba799eefbcbb74ed5e6702994
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 0e04334490f77add4f95627d3d4c5d5762a79c86
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146667"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843429"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Używanie metryk w Partner Center w celu zwiększenia przyjęcia i zadowolenia
 
-**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent administracyjny | Agent sprzedaży
+**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent administracyjny | Agent sprzedaży
 
-Nasi partnerzy używają wielu metryk, aby ocenić, czy ich firma rośnie i gdzie skupić się na inwestycjach. Partner Center może pomóc, dostarczając dane dotyczące tego, czy i w jaki sposób klienci korzystali z zakupionych licencji. Te informacje są dostępne dla produktów pakietu Office (w tym OneDrive dla Firm, które są liczone razem z programem SharePoint.
+Nasi partnerzy używają wielu metryk, aby ocenić, czy ich firma rozwija się i gdzie skupić się na inwestycjach. Partner Center może pomóc, dostarczając dane dotyczące tego, czy i w jaki sposób klienci korzystali z zakupionych licencji. Te informacje są dostępne dla Office (w tym OneDrive dla Firm, które są liczone razem z SharePoint).
 
-Dane dla wszystkich klientów można wyświetlić za pośrednictwem Dostawca rozwiązań w chmurze programie. Niektórzy klienci mogą kupować licencje od innych partnerów lub bezpośrednio od firmy Microsoft. W takich sytuacjach zobaczysz łączną liczbę licencji dla wszystkich partnerów. Aby wyświetlić tylko własne licencje, przejdź do subskrypcji klienta.
+Dane dla wszystkich klientów można wyświetlić za pośrednictwem programu Dostawca rozwiązań w chmurze usługi. Niektórzy klienci mogą kupować licencje od innych partnerów lub bezpośrednio od firmy Microsoft. W takich sytuacjach zobaczysz łączną liczbę licencji wszystkich partnerów. Aby wyświetlić tylko własne licencje, przejdź do subskrypcji klienta.
 
 > [!NOTE]  
-> Obecnie wyświetlane są tylko dane dotyczące usługi Office 365 i Dynamics 365. W przyszłości będziemy umożliwiać przetwarzanie danych dla dodatkowych produktów.
+> Obecnie wyświetlane są tylko dane dla Office 365 i Dynamics 365. W przyszłości będziemy umożliwiać dostęp do danych dotyczących dodatkowych produktów.
 
 ## <a name="find-license-and-user-data"></a>Znajdowanie licencji i danych użytkownika
 
@@ -47,11 +47,11 @@ Możesz znaleźć dane licencji i użytkowników dla jednego klienta lub w swoim
 
 2. Wybierz **pozycję** Analizuj i wybierz jedną z opcji analizy w menu.
 
-3. Aby pobrać dane dotyczące wdrożenia i użycia dla całego zestawu klientów, wybierz opcję **eksportu** (strzałka w dół).
+3. Aby pobrać dane dotyczące wdrożenia i użycia w całym zestawie klientów, wybierz opcję **eksportu** (strzałka w dół).
 
 Terminologia:
 
-- **Uprawnienie** = licencja, z których użytkownik jest uprawniony (nie jest zawieszona w przypadku oszustwa lub braku płatności, nie została uaktualniona do innej licencji, nie została anulowana przez użytkownika ani nie występuje inny problem).
+- **Uprawnienie** = licencja, do korzystania z których użytkownik jest uprawniony (nie jest zawieszona z powodu oszustwa lub braku płatności, nie została uaktualniona do innej licencji, nie została anulowana przez użytkownika ani nie występuje inny problem).
 
 - **Active** = jeśli subskrybowany użytkownik użył uprawnienia do zadania w ciągu ostatnich 28 dni kalendarzowych.
 
@@ -67,7 +67,7 @@ Terminologia:
 
   - Jeśli klient ma subskrypcję wersji próbnej, aktywność jest zliczane, ale subskrypcja nie jest wliczane do łącznej liczby uprawnień.
 
-  - Jeśli niektórzy klienci znacznie częściej niż są uprawnieni do korzystania z usługi Yammer w swojej licencji, może to znacznie pochylić dane.
+  - Jeśli niektórzy klienci często Yammer znacznie więcej niż jest uprawnionych do korzystania z licencji, może to znacznie zakrzywić dane.
 
 ## <a name="next-steps"></a>Następne kroki
 
@@ -77,15 +77,15 @@ Jeśli prowadzisz wiele pytań dotyczących pomocy i kursów, numery wdrożenia 
 
 **Problem:** Wskaźnik wdrożenia użytkowników jest niski i wiele licencji nie jest używanych.
 
-**Co należy wziąć pod uwagę:** Klienci mogą nie rozumieć wartości, jaką może zapewnić oprogramowanie. Potrzebują pomocy w przewidywaniu sposobów, w jakie mogą wprowadzić ją w swoje dni, aby uprościć zadania, które już robią, lub umożliwić nowe rodzaje produktywności.
+**Co należy wziąć pod uwagę:** klienci mogą nie rozumieć wartości zapewnianej przez oprogramowanie. Potrzebują pomocy w przewidywaniu sposobów ich uwzględnienia w swoich dniach w celu uproszczenia zadań, które już wykonywać, lub umożliwienia im nowych rodzajów produktywności.
 
-**Co należy wypróbować:** analizy przypadków, opinie użytkowników dotyczące konkretnych scenariuszy, blogi z samouczkami lub filmy wideo.
+**Co wypróbować:** analizy przypadków, opinie użytkowników dotyczące konkretnych scenariuszy, blogi z samouczkami lub filmy wideo.
 
-**Problem:** Istnieje duża liczba zaproszeń do pomocy technicznej, aby uzyskać pomoc i pytania z radą.
+**Problem:** Istnieje duża liczba telefonów do pomocy technicznej dotyczących pomocy i pytań dotyczących pomocy technicznej.
 
-**Co należy wziąć pod uwagę:** Klienci mogą być nowymi użytkownikami oprogramowania, wersji produktu lub zadań.
+**Co należy wziąć pod uwagę:** klienci mogą być nowymi użytkownikami oprogramowania, wersji produktu lub zadań.
 
-**Co** wypróbować: Możesz skorzystać z podwójnej strategii oferowania szkoleń (osobiście lub w trybie online) w celu zwiększenia ogólnej wiedzy klientów, a także promowania niektórych opcji samoobsługi dostępnych dla klientów.
+**Co wypróbować:** Możesz skorzystać z podwójnej strategii oferowania szkoleń (osobiście lub w trybie online) w celu zwiększenia ogólnej wiedzy klientów, jednocześnie promując niektóre opcje samoobsługi dostępne dla klientów.
 
-Możesz przeprojektować witrynę pomocy technicznej, aby oprócz [](customer-self-support.md) informacji kontaktowych dotyczących pomocy technicznej uwzględnić opcje samoobsługi opisane w te tematze Samodzielna obsługa klienta.
+Możesz przeprojektować witrynę pomocy technicznej, aby oprócz [](customer-self-support.md) informacji kontaktowych dotyczących pomocy technicznej uwzględnić również opcje samoobsługi opisane w te tematach samodzielnej obsługi klienta.
 

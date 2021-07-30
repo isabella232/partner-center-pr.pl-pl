@@ -3,17 +3,17 @@ title: Typowe pytania dotyczące dostępu programowego usługi Partner Insights
 description: Uzyskaj odpowiedzi na często zadawane pytania dotyczące uzyskiwania dostępu do danych szczegółowych informacji partnerów za pośrednictwem interfejsu API.
 ms.topic: troubleshooting
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 5645a834c2b6a84920ba032198f7f62aa1487c47
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 418af23ae50e1f8d9086b2eb6247ba964e4c1516
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377155"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836969"
 ---
 # <a name="programmatic-access-of-analytics-data-common-questions"></a>Często zadawane pytania dotyczące dostępu programistycznego do danych analizy
 

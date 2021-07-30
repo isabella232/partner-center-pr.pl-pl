@@ -3,18 +3,18 @@ title: Nie można zalogować się do Partner Center
 ms.topic: troubleshooting
 ms.date: 04/08/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-enroll
 description: Rozwiązywanie problemów z możliwymi przyczynami i poznaj rozwiązania dotyczące sytuacji, w których nie możesz zalogować się do usługi Partner Center — dowiedz się więcej o resetowaniu haseł, sprawdzaniu ról i sprawdzaniu poświadczeń.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b67201355e748f9280d28413a8737a9b07db5c6
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.openlocfilehash: d0a4583aa7b3ec6f51066dfa2c3dedcbcc18eb35
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431501"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836646"
 ---
 # <a name="troubleshoot-sign-in-issues-for-partner-center"></a>Rozwiązywanie problemów z logowaniem dla Partner Center
 
@@ -24,24 +24,24 @@ Ten artykuł zawiera rozwiązania typowych problemów z logowaniem dla Partner C
 
 ## <a name="youve-forgotten-your-password-for-partner-center"></a>Nie pamiętasz hasła do Partner Center
 
-Jeśli nie pamiętasz hasła i nie możesz zalogować się do Partner Center, skontaktuj się z pomocą techniczną. Odpowiedni kontakt można znaleźć na [stronie pomocy technicznej dotyczącej produktów biznesowych.](/microsoft-365/admin/contact-support-for-business-products)
+Jeśli nie pamiętasz hasła i nie możesz zalogować się do Partner Center, skontaktuj się z pomocą techniczną. Odpowiedni kontakt można znaleźć na [stronie Pomoc techniczna dla produktów biznesowych.](/microsoft-365/admin/contact-support-for-business-products)
 
-Jeśli jesteś partnerem usługi Microsoft Partner Network (MPN), poproś administratora globalnego o utworzenie nowego hasła. Jeśli jesteś odsprzedawcą pośrednim w programie Dostawca rozwiązań w chmurze (CSP), poproś dostawcę pośredniego o utworzenie nowego administratora globalnego w dzierżawie usługi Azure Active Directory (AD) lub utworzenie nowego hasła przy użyciu ich delegowanych uprawnień administratora.
+Jeśli jesteś partnerem usługi Microsoft Partner Network (MPN), poproś administratora globalnego o utworzenie nowego hasła. Jeśli jesteś odsprzedawcą pośrednim w programie Dostawca rozwiązań w chmurze (CSP), poproś dostawcę pośredniego o utworzenie nowego administratora globalnego w dzierżawie usługi Azure Active Directory (AD) lub utworzenie nowego hasła przy użyciu delegowanych uprawnień administratora.
 
-Aby dowiedzieć się więcej o tym, jak można zresetować hasło i odzyskać dostęp do konta służbowego, przeczytaj resetowanie hasła służbowego [przy użyciu informacji zabezpieczających.](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password)
+Aby dowiedzieć się więcej na temat resetowania hasła i odzyskiwania dostępu do konta służbowego, przeczytaj resetowanie hasła służbowego [przy użyciu informacji zabezpieczających.](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password)
 
 ## <a name="you-cant-view-or-manage-the-expected-pages-or-capabilities-in-partner-center"></a>W programie nie można wyświetlać oczekiwanych stron ani możliwości ani zarządzać nimi Partner Center
 
-Dostęp do stron w Partner Center jest kontrolowany przez przypisane role. Aby sprawdzić, które role są przypisane, na stronie Partner Center wybierz ikonę Ustawienia, wybierz pozycję Ustawienia **konta,** a następnie w ustawieniach Konta wybierz pozycję **Zarządzanie użytkownikami.** W polu Wyszukaj wpisz swoje imię i nazwisko, a następnie wyświetl wyniki.
+Dostęp do stron w Partner Center jest kontrolowany przez przypisane role. Aby sprawdzić, które role są przypisane, w Partner Center wybierz ikonę Ustawienia, wybierz pozycję Ustawienia **konta,** a następnie w ustawieniach Konta wybierz pozycję **Zarządzanie użytkownikami.** W polu Wyszukaj wpisz swoją nazwę, a następnie wyświetl wyniki.
 
 Jeśli nie możesz wyświetlić kompetencji, klientów, zachęt lub użytkowników, których oczekujesz, ani zarządzać nimi, wypróbuj następujące rozwiązania:
 
 - Aby uzyskać dostęp do możliwości programu MPN, programu CSP i poleceń, skontaktuj się z administratorem globalnym lub administratorem konta. Aby dowiedzieć się więcej o rolach i zadaniach, które włączają w Partner Center, zobacz Przypisywanie ról [& uprawnień do użytkowników.](permissions-overview.md)
-- Aby uzyskać dostęp do funkcji komercyjnej platformy handlowej i konsoli Xbox systemu Windows &, sklepu Office Store, usługi Microsoft Edge i programów programistów sprzętowych, skontaktuj się z osobą pełnioną w roli właściciela lub menedżera w organizacji. Aby dowiedzieć się więcej o rolach i uprawnieniach, zobacz [How to manage a commercial marketplace account in Microsoft Partner Center](/azure/marketplace/partner-center-portal/manage-account#define-user-roles-and-permissions).
+- Aby uzyskać dostęp do możliwości platformy handlowej oraz programów programistów Windows & Xbox, Office Store, Microsoft Edge i Hardware, skontaktuj się z osobą pełnioną w roli właściciela lub menedżera w organizacji. Aby dowiedzieć się więcej o rolach i uprawnieniach, zobacz [Jak zarządzać kontem platformy](/azure/marketplace/partner-center-portal/manage-account#define-user-roles-and-permissions)handlowej w programie Microsoft Partner Center .
 
 ## <a name="you-cant-see-your-offer-or-benefits-in-partner-center"></a>Nie widzisz swojej oferty ani korzyści w Partner Center
 
-Upewnij się, że do logowania używasz prawidłowych poświadczeń. Na przykład konta służbowe i osobiste mogą wyglądać tak samo (na przykład ), ale jedno może być kontem osobistym utworzonym przez Ciebie, a drugie może być kontem biznesowym ustawionym abc@contoso.com w Twoim imieniu. Jeśli w takim przypadku się zalogowano, ale nie możesz wyświetlić oczekiwanych możliwości związanych z programem MPN, programem CSP lub komercyjną platformą handlową, spróbuj wybrać konto służbowe.
+Upewnij się, że do logowania używasz prawidłowych poświadczeń. Na przykład konta służbowe i osobiste mogą wyglądać tak samo (na przykład ), ale jedno z nich może być kontem osobistym utworzonym przez Ciebie, a drugie może być kontem biznesowym ustawionym w abc@contoso.com Twoim imieniu. W takim przypadku, jeśli się zalogowano, ale nie możesz wyświetlić oczekiwanych możliwości związanych z mpn, CSP, komercyjną platformą handlową, spróbuj wybrać konto służbowe.
 
 ## <a name="next-steps"></a>Następne kroki
 

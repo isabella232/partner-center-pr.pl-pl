@@ -3,24 +3,24 @@ title: Zarządzanie nieprzydzielonymi płatnościami
 ms.topic: how-to
 ms.date: 06/08/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 description: Dowiedz się, czym są nieprzydzielone płatności, gdy zobaczysz je na Partner Center Rozliczeń. Dowiedz się również, jak stosować je do faktur.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 018416585ea141d4842ec0787b59fd7e214c9999
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 8a5f1264dfdb4059d63db6cbf361e6c2f34d8bd2
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818630"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836629"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Zarządzanie nieprzydzielonych płatnościami na Partner Center rozliczeń
 
 **Odpowiednie role:** Administrator rozliczeń | Administrator konta
 
-Czasami na stronie Rozliczeń może być widać nieprzydzieloną płatność. Nieprzydzielona płatność to płatność dokonana wobec firmy Microsoft, która nie jest stosowana do określonej faktury.
+Czasami na stronie Rozliczeń może być widać nieprzydzieloną płatność. Nieprzydzielona płatność to płatność dokonana w firmie Microsoft, która nie jest stosowana do określonej faktury.
 
 ## <a name="to-view-your-unallocated-payments"></a>Aby wyświetlić nieprzydzielone płatności
 
@@ -30,7 +30,7 @@ Czasami na stronie Rozliczeń może być widać nieprzydzieloną płatność. Ni
 
 3. Na stronie Rozliczenia znajdź sekcję **Nieprzydzielona** płatność. 
 
-Aby zastosować tę kwotę do określonej faktury, wyślij wiadomość e-mail i poinformuj nas, do której faktury bposcapp@microsoft.com zastosować tę płatność. Pamiętaj, aby uwzględnić wszystkie informacje, które zostałyby podane podczas dokonywania płatności. Strona Rozliczenia zostanie zaktualizowana za 5–6 dni. 
+Aby zastosować tę kwotę do określonej faktury, wyślij wiadomość e-mail i poinformuj nas, do której faktury bposcapp@microsoft.com zastosować tę płatność. Pamiętaj, aby uwzględnić wszystkie informacje, które zostałyby podane w przypadku dokonywania płatności. Strona Rozliczenia zostanie zaktualizowana za 5–6 dni. 
 
 Nieprzydzielone płatności pozostają nieprzydzielone do momentu przypisania ich do faktury. 
 

@@ -3,18 +3,18 @@ title: Microsoft gold, silver competency requirements (Wymagania dotyczące komp
 ms.topic: article
 ms.date: 01/26/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-membership
 description: Dowiedz się, jak zdobywać elitarne statusy partnerów firmy Microsoft i przyciągać nowych klientów, spełniając wymagania dotyczące kompetencji, aby zdobywać złote i silver poziomy członkostwa.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ff9be32e88c839186ede4cc081aabf75a822a23d
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 2eecc1963c83ea3deb4caf5116b05aaccbf857af
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114373709"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836343"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Rozróżnianie firmy przez uzyskanie kompetencji firmy Microsoft
 
@@ -30,7 +30,7 @@ Uzyskanie kompetencji może być również punktem wejścia do dalszych korzyśc
 
 - Odblokuj zaawansowane [oferty i programy,](mpn-learn-about-go-to-market-benefits.md) które pomogą Ci rozwinąć i rozwinąć Twoją firmę. [Dowiedz się więcej o tym, jak wyjść na rynek z firmą Microsoft.](https://partner.microsoft.com/solutions/go-to-market)
 
-- Uzyskanie złotej kompetencji daje możliwość wykonywania i dodawania bardziej zaawansowanych specjalizacji [do](advanced-specializations.md) portfolio. Zaawansowane specjalizacje ułatwiają prezentowanie klientom rosnącej wiedzy. [Dowiedz się więcej o zaawansowanych specjalizacjach.](https://partner.microsoft.com/membership/advanced-specialization)
+- Uzyskanie złotej kompetencji daje możliwość kontynuowania i dodawania bardziej zaawansowanych specjalizacji [do](advanced-specializations.md) portfolio. Zaawansowane specjalizacje ułatwiają prezentowanie klientom rosnącej wiedzy. [Dowiedz się więcej o zaawansowanych specjalizacjach.](https://partner.microsoft.com/membership/advanced-specialization)
 
 ## <a name="check-your-status-as-you-attain-a-competency"></a>Sprawdzanie stanu podczas uzyskania kompetencji
 
@@ -40,7 +40,7 @@ Możesz zobaczyć wymagania i to, co twoja firma osiągnęła z obszaru kompeten
 
 2. W sekcji MPN w menu Centrum partnerskiego wybierz pozycję **Kompetencje**.
 
-3. Aby wyświetlić szczegóły, wybierz nazwę kompetencji i określoną opcję kompetencji. Możesz sprawdzić, co ukończono, a także zobaczyć pełne wymagania i linki do konkretnych egzaminów oraz dat weryfikacji wycofanych egzaminów.
+3. Aby wyświetlić szczegóły, wybierz nazwę kompetencji i określoną opcję kompetencji. Możesz sprawdzić, co zostały wykonane, oraz zobaczyć pełne wymagania i linki do określonych egzaminów oraz dat weryfikacji wycofanych egzaminów.
 
 ## <a name="competency-areas"></a>Obszary kompetencji
 
@@ -49,7 +49,7 @@ Aby uzyskać kompetencję w zakresie członkostwa silver lub gold, poproszono Ci
 |**Warstwowy**            |**Kompetencji**                    |
 |--------------------|--------------------------------|
 |Aplikacje i infrastruktura| — Opracowywanie aplikacji<br/> — Integracja aplikacji<br/> — Platforma w chmurze<br/> — DevOps<br/> - Datacenter |
-|Aplikacje biznesowe | — Cloud Business Applications</br> — Enterprise planowania zasobów (ERP)</br> — Project i portfolio |
+|Aplikacje biznesowe | — Cloud Business Applications</br> — Enterprise zasobów (ERP)</br> — Project i portfolio |
 |Dane i AI| — Analiza danych<br/> — Platforma danych |
 |Nowoczesne miejsce pracy i zabezpieczenia | — Współpraca i zawartość<br/> — Komunikacja<br/> — Produktywność w chmurze<br/> — Enterprise Mobility Management (EMM)<br/> — Obsługa komunikatów<br/> — Zabezpieczenia<br/> — Rozwiązania w chmurze dla małych i średnich firm<br/> — Windows i urządzenia |
 

@@ -3,17 +3,17 @@ title: Aktualizowanie interfejsu API raportów
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Ten interfejs API umożliwia aktualizowanie parametrów raportu w Partner Center szczegółowych informacji.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: c5ab1059e9be9b42918d268da6a6c1a3cbfe52af
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 64ef897dc3c883e4adfda4285183e441f27f3c7f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377179"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837037"
 ---
 # <a name="update-report-api"></a>Aktualizowanie interfejsu API raportów
 
@@ -122,7 +122,7 @@ W tej tabeli zdefiniowano kluczowe elementy odpowiedzi:
 |    ReportId     |    Uniwersalny unikatowy identyfikator (UUID) aktualizowanego raportu     |
 |    Reportname     |    Nazwa nadana raportowi w ładunku żądania     |
 |    Opis     |    Opis podany w raporcie w ładunku żądania     |
-|    QueryId     |    Identyfikator zapytania przekazany podczas tworzenia raportu     |
+|    QueryId     |    Identyfikator zapytania przekazany w momencie utworzenia raportu     |
 |    Zapytanie     |    Tekst zapytania, który zostanie wykonany dla tego raportu     |
 |    Użytkownik     |    Identyfikator użytkownika użyty do utworzenia raportu     |
 |    CreatedTime     |    Godzina utworzenia raportu. Format czasu to yyyy-MM-ddTHH:mm:ssZ     |

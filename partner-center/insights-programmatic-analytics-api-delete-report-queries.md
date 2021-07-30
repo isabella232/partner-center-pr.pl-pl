@@ -3,17 +3,17 @@ title: Interfejs API usuwania zapytań dotyczących raportów — Szczegółowe 
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Użyj tego interfejsu API, aby usunąć zapytanie zdefiniowane przez użytkownika w Partner Center szczegółowych informacji.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: e608068613edad1fca277ba5886c9c4bc962ffd2
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: f755bc13ff4e0c4bc3a2c6ceda123c6a2bc47dc5
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376979"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836391"
 ---
 # <a name="delete-report-queries-api"></a>Interfejs API usuwania zapytań dotyczących raportów
 
@@ -38,7 +38,7 @@ Ten interfejs API usuwa zapytania zdefiniowane przez użytkownika.
 
 |    Nazwa parametru    |    Typ    |    Wymagane    |    Opis    |
 |    ----    |    ----    |    ----    |    ----    |
-|    queryId     |    ciąg     |    Nie    |    Filtruj, aby uzyskać szczegółowe informacje tylko o zapytaniach o identyfikatorze podanym w argumentze     |
+|    queryId     |    ciąg     |    Nie    |    Filtrowanie w celu uzyskania szczegółów dotyczących tylko zapytań o identyfikatorze podanym w argumentze     |
 |        |        |        |        |
 
 **Parametr zapytania**

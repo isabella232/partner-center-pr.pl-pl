@@ -3,18 +3,18 @@ title: Zarządzanie lokalizacjami na koncie partnera
 ms.topic: how-to
 ms.date: 05/01/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-membership
 description: Dowiedz się, jak dodać nową lokalizację i jak identyfikator MPN lokalizacji jest używany w programach zachęt, firmach CSP, subskrypcjach i innych transakcjach.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d30f250d6635758f3bef8e06c6f57ba0a0be744
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 66ca3a24a810f61eae9feece5e64440fa531cda5
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276828"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836986"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Zarządzanie lokalizacjami konta MPN i dodawanie (usuwanie) lokalizacji
 
@@ -32,7 +32,7 @@ Firma Contoso ma swoje globalne konto partnera (PGA) w Zjednoczonym Królestwie.
 
 :::image type="content" source="images/locations/locations1.png" alt-text="Struktura lokalizacji MPN.":::
 
-## <a name="prerequisites-in-order-to-add-a-new-account-for-a-csp-business"></a>Wymagania wstępne dotyczące dodawania nowego konta dla firmy CSP
+## <a name="prerequisites-in-order-to-add-a-new-account-for-a-csp-business"></a>Wymagania wstępne dotyczące dodawania nowego konta dla dostawcy usług kryptograficznych
 
 Aby dodać nowe konto biznesowe programu CSP, rozpocznij od upewniania się, że spełniliśmy wymagania wstępne.
 
@@ -51,7 +51,7 @@ Aby dodać nowe konto biznesowe programu CSP, rozpocznij od upewniania się, że
 
 1. Zaloguj się na Partner Center [nawigacyjnym przy](https://partner.microsoft.com/dashboard/home) użyciu poświadczeń konta MPN. (Poświadczenia MPN mogą różnić się od poświadczeń CSP) 
  
-1. Na **ikonie Ustawienia** wybierz pozycję **Ustawienia konta,** **Profil organizacji,** **Prawne.** 
+1. Z **ikony Ustawienia** wybierz pozycję **Ustawienia konta,** **Profil organizacji,** **Prawne.** 
 
 1. Na karcie **Partner** sprawdź, czy nie ma komunikatu o błędzie baneru z prośbą o naprawienie zmigrowanych lokalizacji z centrum PMC.  Jeśli lokalizacje nie zostały prawidłowo skonfigurowane w programie PMC i nie zostały jeszcze przejść na komputer, należy zaktualizować te lokalizacje.
 
@@ -72,9 +72,9 @@ Zaktualizuj następujące pola:
 
 - **Pola** podstawowych informacji kontaktowych: upewnij się, że wypełnione są pola imienia i nazwiska oraz że wskazany adres e-mail jest służbowym adresem e-mail, a nie osobistym (na przykład @outlook.com @live.com , itp.)
 
-- **Pole numeru telefonu:** upewnij się, że numer telefonu NIE zawiera znaków specjalnych, spacji ani kodu kraju. Wartość wprowadzona w polu Numer telefonu zawsze będzie zawierać maksymalnie 10 znaków.
+- **Telefon numer:** upewnij się, że numer Telefon NIE zawiera znaków specjalnych, spacji ani kodu kraju. Wartość wprowadzona w polu Telefon Number zawsze będzie zawierać maksymalnie 10 znaków.
 
-5. Jeśli nie ma komunikatu o błędzie, w menu Ustawienia wybierz pozycję **Ustawienia konta,** **Profil organizacji,** **Identyfikatory**. 
+5. Jeśli nie ma komunikatu o błędzie, z Ustawienia **wybierz** pozycję Konto **Ustawienia,** **Profil organizacji,** **Identyfikatory**.
 
 6. Znajdź identyfikator MPN z typem "Location" (Lokalizacja), który pasuje do kraju tego konta CSP, i użyj go do ukończenia skojarzenia.
 
@@ -84,7 +84,7 @@ Zaktualizuj następujące pola:
 
 1. Zaloguj się przy użyciu konta MPN w Partner Center. (Poświadczenia MPN mogą różnić się od poświadczeń CSP). Konto MPN powinno mieć uprawnienia administratora globalnego lub administratora konta. 
 
-1. Na **ikonie Ustawienia** wybierz pozycję **Ustawienia konta,** a następnie wybierz **pozycję Profil organizacji.**
+1. Z **ikony Ustawienia wybierz** pozycję **Ustawienia konta,** a następnie wybierz **pozycję Profil organizacji.**
 
 2. Wybierz **pozycję Prawne,** a następnie na **karcie Partner** wybierz pozycję **Lokalizacje biznesowe i** wybierz pozycję Dodaj **lokalizację.**
 
@@ -131,7 +131,7 @@ Aby uzyskać więcej informacji, przeczytaj [informacje o numerze identyfikatora
 
 ## <a name="delete-a-location"></a>Usuwanie lokalizacji
 
-Aby usunąć lokalizację z konta, należy skontaktować się z pomocą [techniczną partnera](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Upewnij się, że rozumiesz wpływ tej akcji. Nie można pobrać usuniętych lokalizacji i wszystkie elementy powiązane z tym konkretnym identyfikatorem MPN nie będą już rozpoznawane ani aktywne dla Twojej firmy.
+Aby usunąć lokalizację z konta, należy skontaktować się z pomocą [techniczną partnera](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Pamiętaj jednak, że takie działanie będzie miało określone skutki. Nie można pobrać usuniętych lokalizacji i wszystkie elementy powiązane z tym konkretnym identyfikatorem MPN nie będą już rozpoznawane ani aktywne dla Twojej firmy.
 
 ## <a name="change-country-of-partner-global-account"></a>Zmiana kraju konta globalnego partnera 
 

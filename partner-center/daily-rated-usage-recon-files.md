@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/12/2020
 description: Dowiedz się, jak odczytywać pliki uzgodnień dziennego użycia w Partner Center. Zawiera opisy dla określonych pól w pliku rekonescją.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9b5daf91646324a9d4ace92d25736cfd0361ad6c
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9b9c422124227804dcf1ac70286a73155d2e71d3
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147279"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844075"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Dowiedz się, jak odczytywać pliki uzgodnień dziennego użycia w Partner Center
 
@@ -49,10 +49,10 @@ W tym artykule wyjaśniono, jak odczytywać pliki uzgodnień dziennego użycia.
 | PublisherId | Identyfikator wydawcy w formacie identyfikatora GUID. |
 | SubscriptionDescription | Nazwa oferty usługi zakupionej przez klienta, zgodnie z definicją w cenniku. (Ta kolumna jest identycznym polem co **OfferName).** |
 | SubscriptionId | Unikatowy identyfikator subskrypcji na platformie rozliczeniowej firmy Microsoft. Nie są używane do uzgadniania. *Ten identyfikator nie jest taki sam jak **identyfikator subskrypcji** w konsoli administracyjnej partnera.* |
-| ChargeStartDate | Data rozpoczęcia cyklu rozliczeniowego (z wyjątkiem prezentowania dat wcześniej niezaliczanych danych użycia ukrytego z poprzedniego cyklu rozliczeniowego). Godzina to zawsze początek dnia, 0:00. |
-| ChargeEndDate | Data końcowa cyklu rozliczeniowego (z wyjątkiem prezentowania dat wcześniej niezapłacanych danych użycia ukrytego z poprzedniego cyklu rozliczeniowego). Godzina to zawsze koniec dnia, 23:59. |
+| ChargeStartDate | Data rozpoczęcia cyklu rozliczeniowego (z wyjątkiem dat wcześniej niezaliczanych danych ukrytego użycia z poprzedniego cyklu rozliczeniowego). Godzina to zawsze początek dnia, 0:00. |
+| ChargeEndDate | Data zakończenia cyklu rozliczeniowego (z wyjątkiem prezentowania dat wcześniej niezaliczanych danych użycia ukrytego z poprzedniego cyklu rozliczeniowego). Czas to zawsze koniec dnia, 23:59. |
 | UsageDate | Data użycia usługi. |
-| Typ miernika | Typ miernika. |
+| MeterType (Typ miernika) | Typ miernika. |
 | MeterCategory | Usługa najwyższego poziomu do użycia. |
 | MeterId | Identyfikator używanego miernika. |
 | MeterSubCategory | Typ usługi platformy Azure, który może mieć wpływ na stawkę. |
@@ -73,16 +73,16 @@ W tym artykule wyjaśniono, jak odczytywać pliki uzgodnień dziennego użycia.
 | PricingCurrency | Waluta w cenniku. |
 | ServiceInfo1 | Liczba połączeń Service Bus aprowizowanych i używanych w danym dniu. |
 | ServiceInfo2 | Starsze pole, które przechwytuje opcjonalne metadane specyficzne dla usługi. |
-| Tagi | Reprezentuje logiczną organizację zasobów platformy Azure ustawioną przez użytkownika. |
+| Tagi | Reprezentuje logiczną organizację zasobów platformy Azure ustawionych przez użytkownika. |
 | AdditionalInfo | Wszelkie dodatkowe informacje, które nie są zawarte w innych kolumnach. |
 | EffectiveUnitPrice | Rzeczywista wartość naliczana za jednostkę, w tym wszelkie rabaty, uzyskane punkty itp. |
-| PCToBCExchangeRate | Kurs wymiany stosowany dla waluty cennika na walutę rozliczeniową. |
-| PCToBCExchangeRateDate | Data, w której jest określana waluta cenowa waluty rozliczeniowej. |
+| PCToBCExchangeRate | Exchange stosowana dla waluty cennika do waluty rozliczeniowej. |
+| PCToBCExchangeRateDate | Data, w której jest określana waluta cenowa na walutę rozliczeniową. |
 | EntitlementId | Reprezentuje identyfikator subskrypcji platformy Azure. |
 | EntitlementDescription | Reprezentuje nazwę identyfikatora subskrypcji platformy Azure. |
 | PartnerEarnedCreditPercentage | Wyświetla partnerearnedcredit dla elementu wiersza. Uzyskane punkty będą mieć 0 lub 15% |
 | CreditPercentage (CreditPercentage) | Wyświetla informacje o środków na korzystanie z platformy Azure. Uzyskane punkty to 0 lub 100 procent. |
-| CreditType | Typ środków. Na przykład Zastosowane **środków na korzystanie z platformy Azure.** |
+| CreditType (Typ środków) | Typ środków. Na przykład Zastosowane **środków na korzystanie z platformy Azure.** |
 >[!NOTE]
 >Dzienne użycie oceniane zwykle trwa 24 godziny, aby pojawiać się w Partner Center lub uzyskać do niego dostęp za pośrednictwem interfejsu API.
 

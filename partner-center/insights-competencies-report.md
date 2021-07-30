@@ -3,18 +3,18 @@ title: Partner Center Szczegółowe informacje kompetencji
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Sprawdź, co robisz dobrze i gdzie możesz poprawić swoje kompetencje, poziomy kompetencji i oferty firmy Microsoft, aby ułatwić dostarczanie rozwiązań firmy Microsoft.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4789048c944f6e3adae9a047dbca097f1912d89e
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 0d5eab0684c52c94c0709f09f254031dd80d8a28
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377317"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843905"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Raport kompetencji dostępny na pulpicie nawigacyjnym Partner Center Szczegółowe informacje nawigacyjnym
 
@@ -26,7 +26,7 @@ Jeśli dowiesz się więcej na temat cyklu życia kompetencji, poziomu kompetenc
 
 ## <a name="competency-life-cycle"></a>Cykl życia kompetencji
 
-Z punktu widzenia cyklu życia partnerzy zaczynają od kluczowych wskaźników wydajności (KPI), które są wymagane do osiągnięcia określonych kompetencji. Po osiągnięciu progu dla danej kompetencji we wszystkich wymaganych metrykach stają się one **kwalifikowane** do kompetencji. Partnerzy mogą następnie płacić za ofertę kompetencji (Silver lub Gold), aby uzyskać kompetencję i zostać **aktywni** w tej kompetencji. Stan kompetencji **Aktywne** jest ważny przez rok od daty osiągnięcia kompetencji (jest to data **rocznicy** kompetencji). Po zakończeniu roku rocznicy partnerzy muszą spełnić wymagania dotyczące kompetencji. Jeśli ponownie nie spełni tych wymagań, utraci kompetencję. Stan **zagrożenia dla** wcześniej osiągniętej kompetencji oznacza, że przewiduje się, że niektóre kluczowe metryki spadną poniżej progu w dniu **rocznicy kompetencji.**
+Z punktu widzenia cyklu życia partnerzy zaczynają od kluczowych wskaźników wydajności (KPI), które są wymagane do uzyskania określonych kompetencji. Po osiągnięciu progu dla danej kompetencji we wszystkich wymaganych metrykach stają się one kwalifikowane **do** kompetencji. Partnerzy mogą następnie płacić za ofertę kompetencji (Silver lub Gold), aby uzyskać kompetencję i zostać **aktywni** w tej kompetencji. Stan kompetencji **Aktywne** jest ważny przez rok od daty osiągnięcia kompetencji (jest to data **rocznicy** kompetencji). Po zakończeniu roku rocznicy partnerzy muszą spełnić wymagania dotyczące kompetencji. Jeśli ponownie nie spełni tych wymagań, utraci kompetencję. Stan **zagrożenia dla** wcześniej osiągniętej kompetencji oznacza, że przewiduje się, że niektóre kluczowe metryki spadną poniżej progu w dniu **rocznicy kompetencji.**
 
 ## <a name="competency-attainment"></a>Poziom kompetencji
 
@@ -58,7 +58,7 @@ Podział liczby uruchomionych kompetencji według poziomu kompetencji (Silver/Go
 
 - Aktywne: Kompetencje, dla których zostały spełnione wymagania i zakupiono ofertę Silver/Gold. Podział liczby aktywnych kompetencji według poziomu kompetencji (Silver/Gold) z nazwami kompetencji.
 
-- Zagrożone (w następnym roku): Liczba kompetencji, które  są obecnie aktywne, ale również zagrożonych, że nie spełniają wymagań na następny rok. 
+- Zagrożone (w następnym roku): liczba kompetencji, które  są obecnie aktywne, ale również zagrożonych, że nie spełniają wymagań na następny rok. 
 Podział kompetencji (według poziomu kompetencji, na przykład Silver/Gold, z nazwami kompetencji), które mogą nie kwalifikować się do przyszłego roku.
 
 :::image type="content" source="images/insights/competencies-summary.png" alt-text="podsumowanie kompetencji.":::

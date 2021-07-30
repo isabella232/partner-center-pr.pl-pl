@@ -3,18 +3,18 @@ title: Partner Center Szczegółowe informacje korzyści
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Zobacz, jakie korzyści dla partnerów firmy Microsoft zostały przyznane, aby pomóc w rozwoju firmy, zwiększyć wydajność i rozwinąć umiejętności twojego zespołu.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 58cf04c4b701a57c816bfe08b2073cd695845231
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 457a5197ea9bcfaf2d9c936b7483b33688b1cb41
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377347"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843956"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Raport korzyści dostępny na pulpicie Partner Center Szczegółowe informacje nawigacyjnym
 
@@ -34,13 +34,13 @@ W raporcie Korzyści można wizualizować następujące wykresy:
 - Przejdź na rynek
 
  > [!NOTE]
- > Ten raport jest dostępny na pulpicie Szczegółowe informacje nawigacyjnym. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Podgląd raportów lub Executive Report Viewer. Aby uzyskać więcej informacji, zobacz administrator globalny firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami Executive Report Viewer.
+ > Ten raport jest dostępny na pulpicie nawigacyjnym Szczegółowe informacje nawigacyjnym. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Podgląd raportów lub Executive Report Viewer. Aby uzyskać więcej informacji, zobacz administrator globalny firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami Executive Report Viewer.
 
 ## <a name="summary"></a>Podsumowanie
 
 Sekcja Podsumowanie zawiera korzyści przyznane w ramach licencjonowanego oprogramowania, usług w chmurze (spoza platformy Azure), subskrypcji usługi Visual Studio, pomocy technicznej oraz niektórych usług lub ofert w ramach programu Go-To-Market.
 
-Przykład: Microsoft Partner Network (MPN) kwalifikują się do pomocy technicznej dotyczącej produktów i produktów w chmurze. Partnerzy, którzy zdają kompetencję Silver, mają wsparcie techniczne dla 15 zdarzeń dla produktów w środowisku lokalnym. W razie potrzeby mogą korzystać z tej pomocy technicznej. 
+Przykład: Microsoft Partner Network członkostwa w programie (MPN) kwalifikują się do pomocy technicznej dla produktów w środowisku lokalnym i produktów w chmurze. Partnerzy, którzy zdają kompetencję Silver, mają wsparcie techniczne dla 15 zdarzeń w przypadku produktów w środowisku lokalnym. W razie potrzeby mogą korzystać z tej pomocy technicznej. 
 
 :::image type="content" source="images/insights/benefits-summary.png" alt-text="podsumowanie korzyści.":::
 
@@ -59,7 +59,7 @@ Ten wykres przedstawia miesięczny trend licencji przyznanych w wybranym zakresi
 
 ## <a name="visual-studio-subscriptions"></a>Subskrypcje programu Visual Studio
 
-Ten wykres przedstawia miesięczny trend subskrypcji Visual Studio aktywowanych względem subskrypcji przydzielonych w wybranym zakresie dat.
+Ten wykres przedstawia miesięczny trend subskrypcji Visual Studio aktywowanych względem subskrypcji, które zostały przydzielone w wybranym zakresie dat.
 
 Wybierz kartę w górnej części wykresu, aby wyświetlić trend określonej Visual Studio subskrypcji, która została udzielona jako korzyści. Kolumny na wykresie reprezentują licencje używane dla subskrypcji. Wykres liniowy reprezentuje ogólną liczbę licencji przypisanych do subskrypcji.
 

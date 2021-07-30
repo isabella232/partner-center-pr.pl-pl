@@ -3,19 +3,19 @@ title: Interfejs API get report queries — Szczegółowe informacje danych
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Ten interfejs API umożliwia uzyskiwanie wszystkich dostępnych zapytań do użycia w interfejsie API raportów.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 3bf140576a19439990405cfef23190045e0a98be
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 5f65784ce93350c92e0ffe38849ce505f045e0b0
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377206"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843769"
 ---
-# <a name="get-report-queries-api"></a>Interfejs API pobierz zapytania dotyczące raportów
+# <a name="get-report-queries-api"></a>Interfejs API zapytań dotyczących raportów
 
 Interfejs API get report queries pobiera wszystkie zapytania, które są dostępne do użycia w raportach. Domyślnie pobiera wszystkie zapytania systemowe i zdefiniowane przez użytkownika.
 
@@ -43,7 +43,7 @@ Brak
 |    Nazwa parametru    |    Typ    |    Wymagane    |    Opis    |
 |    ----    |    ----    |    ----    |    ----    |
 |    queryId     |    ciąg     |    Nie    |    Filtrowanie w celu uzyskania szczegółów tylko zapytań o identyfikatorze podanym w argumentze     |
-|    nazwa_zapytania     |    ciąg     |    Nie    |    Filtrowanie w celu uzyskania szczegółów tylko zapytań o nazwie podanej w argumentze     |
+|    nazwa_zapytania     |    ciąg     |    Nie    |    Filtrowanie w celu uzyskania szczegółów tylko zapytań o nazwie podanej w argumentie     |
 |    IncludeSystemQueries     |    boolean     |    Nie    |    Uwzględnianie wstępnie zdefiniowanych zapytań systemowych w odpowiedzi     |
 |    IncludeOnlySystemQueries     |    boolean     |    Nie    |    Uwzględnianie w odpowiedzi tylko zapytań systemowych     |
 |        |        |        |        |

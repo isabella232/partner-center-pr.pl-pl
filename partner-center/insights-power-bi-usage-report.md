@@ -3,23 +3,23 @@ title: 'Centrum partnerskie : szczegółowe informacje Power BI użycia'
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Sprawdź, co robisz dobrze i gdzie możesz poprawić użycie subskrypcji Power BI sprzedaży lub zarządzania nimi dla klientów.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: b2a8ce1b1ddae6d3b4377dbcfec005f472e8a3fe
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 1f4cb47cf8cd3dbd12a57cab40a5a5d09888f324
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377070"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843837"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI raport użycia dostępny na pulpicie nawigacyjnym Partner Center Szczegółowe informacje nawigacyjnym
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny | Przeglądarka raportów | Przeglądarka raportów dla kierownictwa
 
-Raport Power BI użycia zawiera dane użycia dla subskrypcji usługi Microsoft Power BI, które zostały sprzedane klientom lub są nimi zarządzane. Poniższe sekcje można wyświetlić w raporcie Power BI użycia.
+Raport Power BI użycia zawiera dane użycia dla subskrypcji Power BI Microsoft, które zostały sprzedane klientom lub są nimi zarządzane. Poniższe sekcje można wyświetlić w raporcie Power BI użycia.
 
 - Podsumowanie
 - Power BI według lokalizacji geograficznej
@@ -28,7 +28,7 @@ Raport Power BI użycia zawiera dane użycia dla subskrypcji usługi Microsoft P
 - Power BI dystrybucji użycia
 
  > [!NOTE]
- > Ten raport jest dostępny na pulpicie nawigacyjnym Szczegółowe informacje nawigacyjnym. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Przeglądarka raportów lub Executive report viewer. Aby uzyskać więcej informacji, zobacz Administrator globalny twojej firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami do przeglądarki raportów executive.
+ > Ten raport jest dostępny na pulpicie Szczegółowe informacje nawigacyjnym. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Przeglądarka raportów lub Przeglądarka raportów kierownictwa. Aby uzyskać więcej informacji, zobacz Administrator globalny twojej firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami do przeglądarki raportów executive.
 
 ## <a name="summary"></a>Podsumowanie
 
@@ -44,9 +44,9 @@ Sekcja podsumowania przedstawia widok migawek kluczowych wskaźników związanyc
 
 - Aktywne stanowiska: łączna liczba licencji, które miały użycie w wybranym okresie. 
 
-   Wykres Mikro przedstawia miesięczny trend aktywnych stanowisk w wybranym okresie.
+   Wykres Mikro przedstawia miesięczny trend miesięcznych aktywnych stanowisk w wybranym okresie.
 
-- Active Usage %: Łączna liczba aktywnych stanowisk wyrażona jako procent dostępnych stanowisk w wybranym okresie. 
+- Aktywne użycie %: łączna liczba aktywnych stanowisk wyrażona jako procent dostępnych stanowisk w wybranym okresie. 
 
    Wykres Mikro przedstawia miesięczny trend wartości procentowego aktywnego użycia w wybranym okresie.
 
@@ -58,7 +58,7 @@ Dane **Power BI według lokalizacji geograficznej** przedstawiają rozkład dost
 
 Tabela **Liczba krajów/regionów** przedstawia łączną liczbę krajów/regionów, w których są generowane zdarzenia użycia platformy Azure.
 
-Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapie. Wybierz opcję **Strona główna** na mapie, aby przywrócić oryginalny widok.
+Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapie. Wybierz opcję **Strona** główna na mapie, aby przywrócić oryginalny widok.
 
 :::image type="content" source="images/insights/pbi-usage-geography.png" alt-text="Power BI według lokalizacji geograficznej.":::
 

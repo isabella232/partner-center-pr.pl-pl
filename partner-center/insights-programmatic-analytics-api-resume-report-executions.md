@@ -3,17 +3,17 @@ title: Wznawianie interfejsu API wykonywania raportu — Szczegółowe informacj
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Ten interfejs API umożliwia wznowienie wykonywania dowolnego wstrzymanego raportu w Partner Center szczegółowych informacji.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1372823425f3aefd025ffc3441623c1ceee34e1e
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 1019e9e6f679084ca0a388d685b5239ecc2e09e2
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377194"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836272"
 ---
 # <a name="resume-report-executions-api"></a>Wznawianie interfejsu API wykonywania raportów
 
@@ -98,7 +98,7 @@ W tej tabeli zdefiniowano kluczowe elementy odpowiedzi:
 |    ReportId     |    Uniwersalny unikatowy identyfikator (UUID) wznowienia raportu     |
 |    Reportname     |    Nazwa nadana raportowi podczas tworzenia     |
 |    Opis     |    Opis podany podczas tworzenia raportu     |
-|    QueryId     |    Identyfikator zapytania przekazany podczas tworzenia raportu     |
+|    QueryId     |    Identyfikator zapytania przekazany w momencie utworzenia raportu     |
 |    Zapytanie     |    Tekst zapytania, który zostanie wykonany dla tego raportu     |
 |    Użytkownik     |    Identyfikator użytkownika użyty do utworzenia raportu     |
 |    CreatedTime     |    Godzina utworzenia raportu. Format czasu to yyyy-MM-ddTHH:mm:ssZ     |

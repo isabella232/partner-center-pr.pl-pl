@@ -4,23 +4,23 @@ ms.topic: article
 ms.date: 06/05/2020
 description: Informacje o typach opłat (takich jak opłaty oparte na licencjach, na podstawie użycia i jeden raz), środki i rabaty w Partner Center uzgadniania.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10438ba30c6eb5ba5b1daef1ad16521f1f8e77c6
-ms.sourcegitcommit: 70b8ebbe0d431c7a13529f9eabd1b24f40108a46
+ms.openlocfilehash: fe37a7cdc6ac8e60b9cc5672f4b53813e1f194f8
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/14/2021
-ms.locfileid: "113989778"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844245"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Opis różnych typów opłat w plikach Partner Center uzgodnień
 
 **Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
 
-**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Administrator globalny
+**Odpowiednie role:** Administrator | Administrator rozliczeń | Administrator globalny
 
 W tym artykule opisano mapowania między sekcją faktury i skojarzonymi typami opłat, które mogą być w pliku uzgodnień. Faktura zawiera podsumowanie opłat. Plik uzgodnień zawiera szczegółowy podział transakcji elementów wiersza, w tym typy opłat. Aby uzyskać więcej informacji na temat plików uzgodnień, zobacz [jak używać plików uzgodnień](use-the-reconciliation-files.md).
 
@@ -31,7 +31,7 @@ Zarówno [pliki uzgodnień oparte na](usage-based-recon-files.md) użyciu, jak i
 
 ## <a name="map-charge-types-to-invoice-charges"></a>Mapowanie typów opłat na opłaty na podstawie faktur
 
-Aby odwoływać się do kwot opłat między fakturą i plikiem uzgodnień, użyj opcji filtrowania w Microsoft Excel. Filtruj według typów opłat w pliku uzgodnień, aby zamapować opłaty na faktury na zestaw podziałów opłat w pliku uzgodnień.
+Aby odwoływać się do kwot opłat między fakturą i plikiem uzgodnień, użyj opcji filtrowania w Microsoft Excel. Filtruj według typów opłat w pliku uzgodnień, aby zamapować opłaty na zestaw podziałów opłat w pliku uzgodnień.
 
 ## <a name="license-based-charges"></a>Opłaty na podstawie licencji
 
@@ -41,7 +41,7 @@ Aby zamapować te opłaty na podstawie licencji na fakturę, zsuń **kolumnę Am
 | ------------------------------------------------------------- | ------------------ |
 | Opłata za aktywację | Kwota naliczana klientowi podczas korzystania z subskrypcji po zakupie. |
 | Anulowanie opłaty | Naliczane proporcjonalnie opłaty są zwracane klientowi po zmianie skojarzonych licencji. |
-| Anulowanie prorate wystąpienia | Opłaty proporcjonalnie anulowane, gdy klient z subskrypcją miesięczną ma wstrzymaną subskrypcję i skojarzone licencje zmieniły się w ciągu tego samego miesiąca. |
+| Anulowanie prorate wystąpienia | Opłaty proporcjonalne anulowane, gdy klient z subskrypcją miesięczną ma wstrzymaną subskrypcję i skojarzone licencje zmieniły się w ciągu tego samego miesiąca. |
 | Opłata za cykl | Okresowe opłaty za subskrypcję. |
 | Cykl rozwoju wystąpienia | Naliczane proporcjonalnie opłaty naliczane od klienta w przypadku zmiany skojarzonych licencji. |
 | Naliczanie opłat po anulowaniu | Proporcjonalny zwrot za nieużywaną część usługi po anulowaniu. |
@@ -61,7 +61,7 @@ Aby zamapować te opłaty raz na fakturę, zsuń **kolumnę Amount** (Kwota) z p
 | new | Używany podczas tworzenia nowego zakupu. |
 | odnawianie | Używany, gdy subskrypcja zostanie odnowiona po zakończeniu okresu. |
 | addQuantity | Używane zarówno w przypadku zwrotu pierwotnego zakupu, jak i nowej ilości po zwiększeniu. |
-| removeQuantity | Używane zarówno w przypadku zwrotu oryginalnego zakupu, jak i nowej ilości po spadku. |
+| removeQuantity | Używane zarówno w przypadku zwrotu pierwotnego zakupu, jak i nowej ilości po zmniejszeniu. |
 | cancelImmediate | Używane po anulowaniu subskrypcji. |
 | konwertowanie | Używany podczas uaktualnienia licencji. |
 | customerCredit | Używane, gdy środki (np. na platformę Azure, umowa SLA itp.) są podawane względem transakcji. |

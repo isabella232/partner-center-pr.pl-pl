@@ -3,18 +3,18 @@ title: Partner Center Szczegółowe informacje użycia platformy Azure
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Sprawdź, co robisz dobrze i gdzie możesz ulepszyć korzystanie z subskrypcji platformy Azure, które sprzedajesz klientom lub zarządzasz nimi.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 78c8d42186d96e359f0771ca19eb7fbf4b46a8e1
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 75f326fab8ebc59628dadc43b048dfefe48c22cb
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377353"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843990"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Raport użycia platformy Azure dostępny na pulpicie nawigacyjnym Partner Center Szczegółowe informacje nawigacyjnym
 
@@ -49,13 +49,13 @@ Wykres mikro przedstawia miesięczny trend ACR US$ przypisany do Ciebie w wybran
 
 
 > [!NOTE]
- > przychód z wykorzystania platformy Azure (ACR) będą widoczne tylko dla użytkowników, którym przypisano rolę osoby wyświetlającego raporty kadry kierowniczej.
+ > przychód z wykorzystania platformy Azure (ACR) będą widoczne tylko dla użytkowników, którym przypisano rolę osoby wyświetlającego raporty wykonawcze.
 
 :::image type="content" source="images/insights/azure-usage-summary.png" alt-text="Podsumowanie użycia platformy Azure.":::
 
 ## <a name="azure-usage-by-geography"></a>Użycie platformy Azure według lokalizacji geograficznej
 
-Widok **użycia platformy Azure według lokalizacji geograficznej** przedstawia geograficzny rozkład przychodu z użycia platformy Azure (ACR US$) lub godzin użycia dla wszystkich lub wybranych kategorii poziomu usług/mierników platformy Azure. Jaśniejsze kolory na mapie reprezentują niższe wartości, a ciemniejsze reprezentują wyższe wartości. Możesz wyszukać i wybrać kraj w siatce, aby powiększyć 
+Widok **Użycia platformy Azure według** lokalizacji geograficznej przedstawia geograficzny rozkład przychodu z użycia platformy Azure (ACR US$) lub godzin użycia dla wszystkich lub wybranych kategorii poziomu usług/mierników platformy Azure. Jaśniejsze kolory na mapie reprezentują niższe wartości, a ciemniejsze reprezentują wyższe wartości. Możesz wyszukać i wybrać kraj w siatce, aby powiększyć 
 
 Tabela **Liczba krajów/regionów** przedstawia łączną liczbę krajów/regionów, w których są generowane zdarzenia użycia platformy Azure.
 

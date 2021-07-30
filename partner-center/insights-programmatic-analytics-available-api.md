@@ -3,17 +3,17 @@ title: Lista interfejsu API do uzyskiwania dostępu do danych szczegółowych in
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Lista interfejsów API do uzyskiwania dostępu do danych szczegółowych informacji partnerów.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 71d04b6927e27b1d7a8d72bbdaa56b41cb113625
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: cbd9f7fd08dfc4cfd247a0ed07a2c12845c5514c
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377170"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837003"
 ---
 # <a name="available-apis-for-partner-insights-analytics"></a>Dostępne interfejsy API do analizy szczegółowych informacji partnerów
 
@@ -35,7 +35,7 @@ Poniżej znajduje się lista interfejsów API do analizy szczegółowych informa
 | **Interfejs API** | **Funkcjonalność** |
 | --- | --- |
 | [Tworzenie zapytania raportu](insights-programmatic-access-paradigm.md#create-report-query-api) | Tworzy zapytania niestandardowe definiujące zestaw danych, z którego należy wyeksportować kolumny i metryki. |
-| [ZAPYTANIE GET raportu](insights-programmatic-analytics-api-get-report-queries.md) | Pobiera wszystkie zapytania dostępne do użycia w raportach. Domyślnie pobiera wszystkie zapytania systemowe i zdefiniowane przez użytkownika. |
+| [GET Report Query](insights-programmatic-analytics-api-get-report-queries.md) | Pobiera wszystkie zapytania dostępne do użycia w raportach. Domyślnie pobiera wszystkie zapytania systemowe i zdefiniowane przez użytkownika. |
 | [USUWANIE zapytania raportu](insights-programmatic-analytics-api-delete-report-queries.md) | Usuwa zapytania zdefiniowane przez użytkownika. |
 |||
 

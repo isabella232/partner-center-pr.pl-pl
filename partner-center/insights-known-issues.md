@@ -3,18 +3,18 @@ title: Partner Center Szczegółowe informacje znane problemy
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Przeczytaj o znanych problemach związanych z Partner Center Szczegółowe informacje (PCI). Informacje mogą obejmować znane problemy z renderowaniem lub ograniczenia raportowania.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eaf7c2971bb07659c0da60b1b528d80a5932322e
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 3d40c0c8bab2b7f49797feb3685920210198a6d3
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377122"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837054"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Partner Szczegółowe informacje — często zadawane pytania
 

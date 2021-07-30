@@ -3,17 +3,17 @@ title: Interfejs API pobierz wszystkie zestawy danych — Szczegółowe informac
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Ten interfejs API umożliwia uzyskiwanie szczegółowych informacji o wszystkich dostępnych zestawach danych Partner Center szczegółowych informacji.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 42ff7cc1f097e2423be5f1f7f9a7f62214d64949
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 8f4e69c8759c16bc38e64a361c8c077989447d3e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376958"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843803"
 ---
 # <a name="get-all-datasets-api"></a>Interfejs API pobierz wszystkie zestawy danych
 
@@ -93,7 +93,7 @@ W tej tabeli zdefiniowano kluczowe elementy odpowiedzi:
 |    Datasetname     |    Nazwa zestawu danych, który definiuje ten obiekt tablicy     |
 |    SelectableColumns     |    Nieprzetworzone kolumny, które można określić w wybranych kolumnach     |
 |    AvailableMetrics     |    Nazwy kolumn agregacji/metryk, które można określić w wybranych kolumnach     |
-|    AvailableDateRanges     |    Zakres dat, który może być używany w zapytaniach dotyczących raportu dla zestawu danych     |
+|    AvailableDateRanges     |    Zakres dat, który może być używany w zapytaniach raportu dla zestawu danych     |
 |    minimumRecurrenceInterval     |    Minimalna wartość interwału cyklu     |
 |    Łączna liczba     |    Liczba zestawów danych w tablicy Value     |
 |    Komunikat     |    Komunikat o stanie z wykonania interfejsu API     |

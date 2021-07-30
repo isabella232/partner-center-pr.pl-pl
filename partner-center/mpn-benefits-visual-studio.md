@@ -1,20 +1,20 @@
 ---
-title: Visual Studio korzyści — MPN
+title: Visual Studio Korzyści — MPN
 ms.topic: article
 ms.date: 02/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
-description: Dowiedz się więcej o Microsoft Partner Network (MPN) dla Visual Studio subskrypcji
+ms.subservice: partnercenter-benefits
+description: Dowiedz się więcej Microsoft Partner Network (MPN) dla Visual Studio subskrypcji
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24419f07084cab4899f1dac81140b5fea5f25b6b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 6bef607e7ca5d024c815f129a573bb58fa81c695
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152501"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843752"
 ---
 # <a name="explore-the-visual-studio-benefits-area-in-partner-center"></a>Zapoznaj się z Visual Studio korzyściami w Partner Center
 
@@ -22,9 +22,9 @@ ms.locfileid: "110152501"
 
 ## <a name="overview"></a>Omówienie
 
-W tym artykule opisano Visual Studio korzyści dostępne dla partnerów z Partner Center. Dowiesz się również, jak przypisywać użytkowników i aktywować Visual Studio subskrypcji. Aby wyświetlić wszystkie subskrypcje usługi Visual Studio, do których masz prawo w ramach aktywnej oferty rejestracji, przejdź do pozycji Korzyści usługi  [MPN>, a](https://partner.microsoft.com/dashboard/mpn/membership/benefits/visualstudio) następnie wybierz kartę Visual Studio w menu Partner Center rejestracji. Wszystkie Visual Studio są licencjonowane na użytkownika, muszą być przypisane i aktywowane, aby być prawidłowe. Możesz również zobaczyć typ oferty, który aprowizował produkt, który ci przysłał, typ korzyści, który aprowizował tę korzyść, typ korzyści (czy pochodzi z rdzeni lub przyrostowych) oraz datę wygaśnięcia tej korzyści.
+W tym artykule opisano Visual Studio korzyści dostępne dla partnerów z Partner Center. Dowiesz się również, jak przypisywać użytkowników i aktywować Visual Studio subskrypcji. Aby wyświetlić wszystkie subskrypcje usługi Visual Studio, do których masz prawo w ramach aktywnej oferty rejestracji, przejdź do pozycji Korzyści programu [>MPN, a](https://partner.microsoft.com/dashboard/mpn/membership/benefits/visualstudio) następnie wybierz kartę Visual Studio w menu Partner Center rejestracji. Wszystkie Visual Studio subskrypcji są licencjonowane na użytkownika, muszą być przypisane i aktywowane, aby być prawidłowe. Możesz również wyświetlić typ oferty, który aprowizował produkt korzyści, typ korzyści, który aprowizował tę korzyść, typ korzyści (czy pochodzi z produktu podstawowego, czy przyrostowego) oraz datę wygaśnięcia tej korzyści.
 
-:::image type="content" source="images/benefits/mpn-visual-studio-1.png" alt-text="Visual Studio korzyści dostępne dla Ciebie." border="false":::
+:::image type="content" source="images/benefits/mpn-visual-studio-1.png" alt-text="Visual Studio dostępne korzyści." border="false":::
 
 ## <a name="manage-visual-studio-subscriptions"></a>Zarządzanie Visual Studio subskrypcji
 
@@ -35,9 +35,9 @@ W tym artykule opisano Visual Studio korzyści dostępne dla partnerów z Partne
 3. Aby aktywować Visual Studio subskrypcji, wybierz użytkownika z listy, a następnie wybierz pozycję Przypisz użytkownika. Wybierz użytkownika z firmy (w tym jednego z użytkowników-gości), który ma wpis użytkownika utworzony w twoim Azure Active Directory
 
    > [!IMPORTANT]
-   > Jeśli użytkownik, którego chcesz przypisać, nie znajduje się na liście, możesz [dodać](create-user-accounts-and-set-permissions.md) nowych użytkowników w ustawieniach konta.
+   > Jeśli użytkownik, którego chcesz przypisać, nie znajduje się na liście, możesz dodać nowych użytkowników [w](create-user-accounts-and-set-permissions.md) ustawieniach konta.
 
-4. Powtórz ten proces dla każdej subskrypcji, którą chcesz przypisać. Przypisany użytkownik może zalogować się do [portalu Visual Studio i](https://my.visualstudio.com/) zarządzać subskrypcją. W portalu [Visual Studio portalu](https://my.visualstudio.com/?wt.mc_id=o%7Emsft%7Edocs)dla subskrybentów użytkownicy mogą mieć możliwość dodania alternatywnej tożsamości — oprócz tożsamości użytej do aktywowania subskrypcji. Więcej informacji na [temat tożsamości dla Visual Studio subskrybentów znajdziesz tutaj.](/visualstudio/subscriptions/vs-alternate-identity)
+4. Powtórz ten proces dla każdej subskrypcji, którą chcesz przypisać. Przypisany użytkownik może zalogować się do [portalu Visual Studio i](https://my.visualstudio.com/) zarządzać subskrypcją. W portalu [Visual Studio](https://my.visualstudio.com/?wt.mc_id=o%7Emsft%7Edocs)subskrybenta użytkownicy mogą mieć możliwość dodania alternatywnej tożsamości — oprócz tożsamości użytej do aktywowania subskrypcji. Dowiedz się więcej [o tożsamościach dla Visual Studio tutaj.](/visualstudio/subscriptions/vs-alternate-identity)
 
    > [!Note]
    > Visual Studio subskrypcje mogą zostać ponownie przypisani z jednego subskrybenta do innego, jeśli minęło 90 dni od czasu oryginalnego przypisania. Aby uzyskać dodatkowe informacje, przeczytaj **[Przewodnik po programach partnerskich firmy Microsoft.](https://aka.ms/partner-benefits-use-guide)**

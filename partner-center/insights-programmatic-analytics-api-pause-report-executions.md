@@ -3,17 +3,17 @@ title: Wstrzymywanie interfejsu API wykonywania raportu — Szczegółowe inform
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Ten interfejs API umożliwia wstrzymanie wykonywania dowolnego raportu w Partner Center szczegółowych informacji.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e490a6d5120d729f0ea4979a201e9a80ba2991c
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 798c5e87a3935923bd91d8e74716999fb8be4f54
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377200"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836374"
 ---
 # <a name="pause-report-executions-api"></a>Interfejs API wstrzymywania wykonywania raportów
 
@@ -98,13 +98,13 @@ W tej tabeli zdefiniowano kluczowe elementy odpowiedzi:
 |    ReportId     |    Uniwersalny unikatowy identyfikator (UUID) wstrzymanego raportu     |
 |    Reportname     |    Nazwa nadana raportowi podczas tworzenia     |
 |    Opis     |    Opis podany podczas tworzenia raportu     |
-|    QueryId     |    Identyfikator zapytania przekazany podczas tworzenia raportu     |
+|    QueryId     |    Identyfikator zapytania przekazany w momencie utworzenia raportu     |
 |    Zapytanie     |    Tekst zapytania, który zostanie wykonany dla tego raportu     |
 |    Użytkownik     |    Identyfikator użytkownika użyty do utworzenia raportu     |
 |    CreatedTime     |    Godzina utworzenia raportu. Format czasu to yyyy-MM-ddTHH:mm:ssZ     |
 |    ModifiedTime     |    Godzina ostatniej modyfikacji raportu. Format czasu to yyyy-MM-ddTHH:mm:ssZ     |
 |    ExecuteNow     |    Flaga ExecuteNow ustawiona w czasie tworzenia raportu     |
-|    StartTime     |    Czas rozpoczęcia wykonywania raportu. Format czasu to yyyy-MM-ddTHH:mm:ssZ     |
+|    StartTime     |    Godzina rozpoczęcia wykonywania raportu. Format czasu to yyyy-MM-ddTHH:mm:ssZ     |
 |    ReportStatus     |    Stan wykonania raportu. Możliwe wartości to Wstrzymane, Aktywne i Nieaktywne.     |
 |    RecurrenceInterval     |    Interwał cyklu zapewniany podczas tworzenia raportu     |
 |    RecurrenceCount     |    Liczba cyklów zapewniana podczas tworzenia raportu     |

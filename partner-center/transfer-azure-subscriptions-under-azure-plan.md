@@ -2,19 +2,19 @@
 title: Przenoszenie subskrypcji platformy Azure w ramach planu platformy Azure do innego partnera CSP
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Dowiedz się, jak Dostawca rozwiązań w chmurze programu partnerskiego skojarzonego z subskrypcjami platformy Azure klienta w ramach planu platformy Azure.
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/21/2021
-ms.openlocfilehash: b749c557394bc2b540b51aa5e8e681b8bfcaf0d3
-ms.sourcegitcommit: 1c82ab2d57cce6b814c19adcbe4865ef8a17c422
+ms.openlocfilehash: 14f03a8eb899f7224a38b0f998edd72077b34b3b
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "114725998"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844279"
 ---
 # <a name="transfer-a-customers-azure-subscriptions-to-a-different-csp-under-an-azure-plan"></a>Przenoszenie subskrypcji platformy Azure klienta do innego programu CSP (w ramach planu platformy Azure)
 
@@ -126,7 +126,7 @@ Bieżący partner musi przejrzeć i zaakceptować formularz żądania przeniesie
 
    W tym momencie wiadomość e-mail powiadamia przyszłego partnera, klienta i bieżącego partnera o zaakceptowanym żądaniu przeniesienia.
 
-   Po zaakceptowaniu przeniesienia stan transferu może pozostać "oczekujący" przez maksymalnie 15 minut podczas aktualizowania systemu. Jeśli ten proces trwa dłużej, system będzie próbować przez trzy dni. Jeśli stan przeniesienia pozostanie w stanie "oczekujące" przez dłużej niż trzy dni, partner powinien przesłać żądanie obsługi.
+   Po zaakceptowaniu przejścia stan transferu może pozostać "oczekujący" przez maksymalnie 15 minut podczas aktualizowania systemu. Jeśli ten proces trwa dłużej, system będzie próbować przez trzy dni. Jeśli stan przeniesienia pozostanie w stanie "oczekujące" przez dłużej niż trzy dni, partner powinien przesłać żądanie obsługi.
 
    Po zakończeniu przenoszenia subskrypcje uwzględnione w żądaniu pojawią się w planie platformy Azure przyszłego partnera. Nie będzie ona już wymieniona u bieżącego partnera.
 
@@ -139,7 +139,7 @@ Przejście nie wpływa na dostęp do istniejących użytkowników, grup lub jedn
 
 Jako nowy partner nie będziesz mieć żadnego dostępu RBAC do zasobów klienta po przeniesieniu subskrypcji. Poprzedni partner klienta zachowuje dostęp RBAC. We współpracy z klientem dowiedz się, kto ma wgląd w subskrypcje i jak wprowadzać wszelkie potrzebne zmiany.
 
-Klient będzie musiał usunąć dostęp RBAC platformy Azure dla poprzedniego partnera i dodać dostęp dla Ciebie. Aby uzyskać więcej informacji na temat zapewniania dostępu, zobacz Co to jest kontrola dostępu na podstawie ról [(RBAC) platformy Azure?.](/azure/role-based-access-control/overview) Aby uzyskać więcej informacji na temat usuwania dostępu, [zobacz Usuwanie przypisania roli](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment).
+Klient będzie musiał usunąć dostęp RBAC platformy Azure dla poprzedniego partnera i dodać dostęp dla Ciebie. Aby uzyskać więcej informacji na temat zapewniania dostępu, zobacz Co to jest kontrola dostępu na podstawie ról [(RBAC) platformy Azure?](/azure/role-based-access-control/overview). Aby uzyskać więcej informacji na temat usuwania dostępu, [zobacz Usuwanie przypisania roli](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment).
 
 Ponadto nie uzyskujesz automatycznie dostępu [administratora w imieniu (AOBO)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) do subskrypcji. AOBO jest niezbędne, aby można było zarządzać subskrypcjami platformy Azure klienta. Aby uzyskać więcej informacji na temat uprawnień platformy Azure, zobacz [Uzyskiwanie uprawnień do zarządzania usługą lub subskrypcją klienta](./customers-revoke-admin-privileges.md).
 
