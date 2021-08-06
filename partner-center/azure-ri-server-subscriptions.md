@@ -9,35 +9,35 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 752b7b9eee2da69dec597f56d1ddc2968aa7c29a
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 18b52fe72614ef6c0b501af4ecb4aafffd0150d89eaf50f255663aa6f831345d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841389"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115680689"
 ---
-# <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Pozyskiwanie, aprowiz & i zarządzanie wystąpieniami zarezerwowanymi maszyn wirtualnych platformy Azure i subskrypcjami serwerów dla klientów
+# <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Uzyskaj, aprowizuj i & wystąpieniami zarezerwowanymi maszyn wirtualnych platformy Azure i subskrypcjami serwerów dla klientów
 
 
-**Odpowiednie role:** Agent administracyjny | Administrator globalny | Agent pomocy technicznej | Agent sprzedaży | Administrator zarządzania użytkownikami
+**Odpowiednie role:** Administrator | Administrator globalny | Agent pomocy technicznej | Agent sprzedaży | Administrator zarządzania użytkownikami
 
 
 ## <a name="what-are-azure-reservations"></a>Co to jest Azure Reservations?
 
-Rezerwacje platformy Azure pomagają zaoszczędzić pieniądze, płacąc z przedpłaty za maszynę wirtualną przez rok lub trzy lata, pojemność obliczeniową usługi SQL Database, przepływność usługi Azure Cosmos DB lub inne zasoby platformy Azure. Przedpłata pozwala uzyskać rabat na zasoby, których używasz. Rezerwacje mogą znacznie zmniejszyć maszynę wirtualną, zasoby obliczeniowe bazy danych SQL, bazę danych Azure Cosmos DB i inne koszty zasobów do 72% w porównaniu z cenami z płatnością zgodnie z potrzebami. Rezerwacje umożliwiają skorzystanie z rabatu na rozliczenia i nie mają wpływu na stan środowiska uruchomieniowego Twoich zasobów. Aby uzyskać więcej informacji, [zobacz Co to są rezerwacje platformy Azure?](/azure/billing/billing-save-compute-costs-reservations)
+Rezerwacje platformy Azure pomagają zaoszczędzić pieniądze, płacąc z przedpłaty za maszynę wirtualną przez rok lub trzy lata, pojemność obliczeniową usługi SQL Database, przepływność usługi Azure Cosmos DB lub inne zasoby platformy Azure. Przedpłaty umożliwiają uzyskiwanie rabatu na zasoby, których używasz. Rezerwacje mogą znacznie zmniejszyć maszynę wirtualną, zasoby obliczeniowe bazy danych SQL, bazę danych Azure Cosmos DB i inne koszty zasobów do 72% w porównaniu z cenami z płatnością zgodnie z potrzebami. Rezerwacje umożliwiają skorzystanie z rabatu na rozliczenia i nie mają wpływu na stan środowiska uruchomieniowego Twoich zasobów. Aby uzyskać więcej informacji, [zobacz Co to są rezerwacje platformy Azure?](/azure/billing/billing-save-compute-costs-reservations)
 
 ## <a name="why-should-customers-buy-a-reservation"></a>Dlaczego klienci powinni kupić rezerwację?
 
-Jeśli klienci mają maszyny wirtualne, usługę Azure Cosmos DB lub bazy danych SQL, które działają przez długi czas, zakup rezerwacji daje im najbardziej opłacalny wybór. Jeśli na przykład klient stale uruchamia cztery wystąpienia usługi bez rezerwacji, opłaty są naliczane zgodnie z płatnością zgodnie z użyciem. Jeśli zakupią rezerwację dla tych zasobów, natychmiast uzyskają rabat na rezerwację. Zasoby nie będą już obciążane opłatami według stawek płatności zgodnie z rzeczywistym użyciem.
+Jeśli klienci mają maszyny wirtualne, usługę Azure Cosmos DB lub bazy danych SQL, które działają przez długi czas, zakup rezerwacji jest najbardziej opłacalnym rozwiązaniem. Jeśli na przykład klient stale uruchamia cztery wystąpienia usługi bez rezerwacji, opłaty są naliczane zgodnie z płatnością zgodnie z użyciem. Jeśli zakupią rezerwację dla tych zasobów, natychmiast uzyskają rabat na rezerwację. Zasoby nie będą już obciążane opłatami według stawek płatności zgodnie z rzeczywistym użyciem.
 
 ### <a name="compelling-new-azure-offer-in-csp"></a>Atrakcyjna nowa oferta platformy Azure w programie CSP
 
-Wprowadzając rezerwacje platformy Azure i subskrypcje serwera do programu CSP, firma Microsoft lepiej umożliwia swoim partnerom obsługę szybko rosnącego zapotrzebowania klientów na bardziej ekonomiczne rozwiązania do obsługi wysoce przewidywalnych, trwałych obciążeń w chmurze. Program CSP umożliwia partnerom pozyskiwanie rezerwacji platformy Azure i subskrypcji serwera oraz zarządzanie nimi w imieniu klientów komercyjnych za pośrednictwem usług Microsoft Partner Center i Azure Portal.
-Umożliwiamy nawet partnerom w naszym programie CSP wybór sposobu zakupu rezerwacji platformy Azure. Partnerzy programu CSP mogą kupować rezerwacje platformy [](give-customers-permission.md) Azure w [imieniu](azure-reservations-buying.md) klienta lub mogą zezwolić klientowi na zakup własnych rezerwacji z wcześniejszej subskrypcji platformy Azure zakupionej przez partnera.
+Przenosząc rezerwacje platformy Azure i subskrypcje serwerów do programu CSP, firma Microsoft lepiej umożliwia swoim partnerom obsługę szybko rosnącego zapotrzebowania klientów na bardziej ekonomiczne rozwiązania do obsługi wysoce przewidywalnych, trwałych obciążeń w chmurze. Program CSP umożliwia partnerom pozyskiwanie rezerwacji platformy Azure i subskrypcji serwera oraz zarządzanie nimi w imieniu klientów komercyjnych za pośrednictwem usług Microsoft Partner Center i Azure Portal.
+Umożliwiamy nawet partnerom w naszym programie CSP wybór sposobu zakupu rezerwacji platformy Azure. Partnerzy programu CSP mogą kupić rezerwacje platformy Azure [](give-customers-permission.md) w [imieniu](azure-reservations-buying.md) klienta lub mogą zezwolić klientowi na zakup własnych rezerwacji w ramach poprzedniej subskrypcji platformy Azure zakupionej przez partnera.
 
 Rezerwacje platformy Azure zapewniają klientom elastyczność wirtualizacji dla szerokiego zakresu rozwiązań obliczeniowych, w tym tworzenia i testowania, uruchamiania aplikacji i rozszerzania centrum danych.
 
-Na [](https://azure.microsoft.com/pricing/reserved-vm-instances/) Azure Reserved VM Instances klienci komercyjni mogą teraz zaoszczędzić do 72% w porównaniu z cenami maszyn wirtualnych platformy Azure z płatnością zgodnie z potrzebami, po prostu kupując lub "rezerwując" maszynę wirtualną na okres 1 roku lub 3 lat. Windows Klienci serwerów z Korzyść użycia hybrydowego platformy Azure dołączonymi do pakiet Software Assurance będą mogli zaoszczędzić do 80% w porównaniu z cenami z płatnością zgodnie z potrzebami.
+Na [](https://azure.microsoft.com/pricing/reserved-vm-instances/) Azure Reserved VM Instances klienci komercyjni mogą teraz zaoszczędzić do 72% w porównaniu z cenami maszyn wirtualnych platformy Azure z płatnością zgodnie z ich potrzebami, po prostu kupując maszynę wirtualną lub "rezerwując" ją na okres 1 roku lub 3 lat. Windows Klienci serwerów z Korzyść użycia hybrydowego platformy Azure dołączonymi do usługi pakiet Software Assurance będą mogli zaoszczędzić do 80% w porównaniu z cenami z płatnością zgodnie z potrzebami.
 
 Dzięki niedopasowanej kombinacji atrakcyjnych cen i niedopasowanych elastyczności wdrażania klienci zobaczą najlepszą ogólną wartość po wybraniu rezerwacji platformy Azure.
 
@@ -47,7 +47,7 @@ Dzięki niedopasowanej kombinacji atrakcyjnych cen i niedopasowanych elastyczno�
 
 
  
-**Roczne subskrypcje dla isv systemu Linux**
+**Roczne subskrypcje dla isv isv systemu Linux**
 
 - SUSE Linux
 - Red Hat Enterprise Linux

@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4148e9be6ab5bd3e5a146c0ed5479d8ad9723204
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: e043344b32a08db1ea5cddc333b43baab2e60aba0aabca0e554df6fa2f63f347
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837326"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115679805"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Obliczanie efektywnej ceny jednostkowej dla użycia planu platformy Azure
 
@@ -30,33 +30,33 @@ Efektywną cenę jednostkową obliczamy przy użyciu następujących trzech czyn
 - Rozliczany koszt miernika
 - Warstwy (jeśli dotyczy)
 
-Ponieważ monitorujemy dzienne zużycie w całym cyklu rozliczeniowym, efektywna cena jednostkowa będzie się zmieniać. Końcowa cena dla danego cyklu rozliczeniowego będzie dostępna po zatrzymaniu obliczenia zużycia i zamknięciu okresu rozliczeniowego. Większość zmian w zużyciu zobaczysz po czwartym lub piątym miejscu dziesiętnym.
+Ponieważ monitorujemy dzienne zużycie w całym cyklu rozliczeniowym, efektywna cena jednostkowa będzie się zmieniać. Końcowa cena dla danego cyklu rozliczeniowego będzie dostępna po zatrzymaniu obliczania zużycia i zamknięciu okresu rozliczeniowego. Większość zmian zużycia zobaczysz po czwartym lub piątym miejscu dziesiętnym.
 
 ## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>Dowiedz się, czy miernik korzysta z cen warstwowych
 
-Jeśli nie wiesz, czy miernik korzysta z cen warstwowych, skorzystaj z poniższej procedury, aby się tego dowiedzieć. 
+Jeśli nie wiesz, czy twój miernik korzysta z cen warstwowych, skorzystaj z poniższej procedury, aby się tego dowiedzieć. 
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
-2. Wybierz **pozycję Sell**(Sprzedawaj), wybierz pozycję Pricing and offers **(Ceny i oferty),** a następnie wybierz **pozycję Azure plan pricing (Cennik planu platformy Azure).**
+2. Wybierz **pozycję Sell**(Sprzedawaj), wybierz pozycję Pricing and offers (Ceny i **oferty),** a następnie wybierz **pozycję Azure plan pricing (Cennik planu platformy Azure).**
 3. Znajdź miernik według identyfikatora, a następnie pobierz dane cennika. 
 
 ## <a name="sample-calculation"></a>Przykładowe obliczenie
 
-W poniższej tabeli przedstawiono przykład sposobu obliczania efektywnej ceny jednostkowej w okresie otwarcia.
+W poniższej tabeli przedstawiono przykład sposobu obliczania efektywnej ceny jednostkowej w otwartym okresie.
 
 W tabeli mają zastosowanie następujące wartości: 
 
-- **UP** = cena jednostkowa zasobu/godzina = 0,868
+- **UP** = cena jednostkowa zasobu/godziny = 0,868
 
 - **BCU** = rozliczana jednostka zużycia dla miernika
 
-- **BC** = rozliczany koszt miernika = BCU * UP * 0,85. Odzwierciedla to korektę rabatu 15% rabatu PEC. Następnie używamy dolnego limitu funkcji, aby ograniczyć wartość do dwóch cyfr po przecinku dziesiętnym, aby naliczyć minimalną kwotę. 
+- **BC** = rozliczany koszt miernika = BCU * UP * 0,85. Odzwierciedla to korektę rabatu 15% PEC. Następnie używamy dolnego limitu funkcji, aby ograniczyć wartość do dwóch cyfr po przecinku dziesiętnym, aby nalicować minimalną kwotę. 
 
 - **Efektywna cena jednostkowa** = BCU/BC
 
 >[!NOTE]
 
->Uwaga: Miernik w tym przykładzie nie ma warstw cenowych ani innych rabatów — współczynniki efektywnej ceny jednostkowej mają wartość procentową rabatu i inne korekty.
+>Uwaga: Miernik w tym przykładzie nie ma warstw cenowych ani innych rabatów — współczynniki Efektywne ceny jednostkowej w procentach rabatów i innych korektach.
 
 
 | Date (Data) | BCU (rozliczana jednostka zużycia) | BC (koszt rozliczany) | Efektywna cena jednostkowa |

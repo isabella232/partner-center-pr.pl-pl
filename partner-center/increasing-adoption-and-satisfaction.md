@@ -4,25 +4,25 @@ ms.topic: how-to
 ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Dowiedz się, jak używać metryk w Partner Center. Metryki mogą pokazać, czy Twoja firma się rozwija, jak klienci używają swoich licencji i gdzie skupić się na inwestycjach.
+description: Dowiedz się, jak używać metryk w Partner Center. Metryki mogą pokazywać, czy Twoja firma się rozwija, jak klienci używają swoich licencji i gdzie skupić się na inwestycjach.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e04334490f77add4f95627d3d4c5d5762a79c86
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 3c4b65b35bbf00c89ad06c416469da38aa177370ff0357e82b3e70d2e5ffd507
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843429"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681675"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Używanie metryk w Partner Center w celu zwiększenia przyjęcia i zadowolenia
 
 **Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent administracyjny | Agent sprzedaży
 
-Nasi partnerzy używają wielu metryk, aby ocenić, czy ich firma rozwija się i gdzie skupić się na inwestycjach. Partner Center może pomóc, dostarczając dane dotyczące tego, czy i w jaki sposób klienci korzystali z zakupionych licencji. Te informacje są dostępne dla Office (w tym OneDrive dla Firm, które są liczone razem z SharePoint).
+Nasi partnerzy używają wielu metryk, aby mierzyć, czy ich firma rośnie i gdzie skupić się na inwestycjach. Partner Center może pomóc, dostarczając dane dotyczące tego, czy i w jaki sposób klienci korzystali z zakupionych licencji. Te informacje są dostępne dla Office (w tym OneDrive dla Firm, które są liczone razem z SharePoint).
 
-Dane dla wszystkich klientów można wyświetlić za pośrednictwem programu Dostawca rozwiązań w chmurze usługi. Niektórzy klienci mogą kupować licencje od innych partnerów lub bezpośrednio od firmy Microsoft. W takich sytuacjach zobaczysz łączną liczbę licencji wszystkich partnerów. Aby wyświetlić tylko własne licencje, przejdź do subskrypcji klienta.
+Dane wszystkich klientów można wyświetlić za pośrednictwem programu Dostawca rozwiązań w chmurze usługi. Niektórzy klienci mogą kupować licencje od innych partnerów lub bezpośrednio od firmy Microsoft. W takich sytuacjach zobaczysz łączną liczbę licencji wszystkich partnerów. Aby wyświetlić tylko własne licencje, przejdź do subskrypcji klienta.
 
 > [!NOTE]  
 > Obecnie wyświetlane są tylko dane dla Office 365 i Dynamics 365. W przyszłości będziemy umożliwiać dostęp do danych dotyczących dodatkowych produktów.
@@ -71,7 +71,7 @@ Terminologia:
 
 ## <a name="next-steps"></a>Następne kroki
 
-Jeśli prowadzisz wiele pytań dotyczących pomocy i kursów, numery wdrożenia na Twoim koncie są niskie lub szukasz możliwości sprzedaży, warto rozważyć oferowanie kursów szkoleniowych. Ucząc klientów, jak lepiej korzystać z zakupionego przez nich oprogramowania do obsługi rozwiązań w chmurze, z większą prawdopodobieństwem zobaczysz wzrost produktywności i zadowolenia oraz spadek potrzeb pomocy technicznej.
+Jeśli prowadzisz wiele pytań dotyczących pomocy i kursów, numery wdrożenia na Twoim koncie są niskie lub szukasz możliwości sprzedaży, warto rozważyć oferowanie kursów szkoleniowych. Ucząc klientów, jak lepiej korzystać z zakupionego przez nich oprogramowania do obsługi chmury, z większą prawdopodobieństwem zobaczysz wzrost produktywności i zadowolenia oraz spadek potrzeb pomocy technicznej.
 
 ### <a name="considering-how-to-improve-customer-adoption-and-usage---a-couple-scenarios"></a>Rozważanie, jak poprawić wdrożenie i użycie klientów — kilka scenariuszy
 

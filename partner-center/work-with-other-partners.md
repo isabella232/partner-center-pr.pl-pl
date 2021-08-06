@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Dowiedz się, w jaki sposób dostawcy pośredni nawiąają współpracę z odsprzedawcami pośrednimi w programie Dostawca rozwiązań w chmurze (CSP) i ustal, która rola jest dla Ciebie właściwa.
+description: Dowiedz się, w jaki sposób dostawcy pośredni nawiąają współpracę z odsprzedawcami pośrednimi w programie Dostawca rozwiązań w chmurze (CSP) i określają, która rola jest dla Ciebie właściwa.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 93ebd29529812535d2847485d2c9fe751fa5a9f8
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 40df92449caabd3451b69ee6f86f0bbd85ddf16f6e1c6e75b47613f9d3842ae9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845672"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115680961"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Różne sposoby pracy z innymi partnerami w Partner Center
 
@@ -34,11 +34,11 @@ Jeśli jesteś zatwierdzonym dostawcą pośrednim w programie CSP, zobacz [Partn
 
 ### <a name="indirect-resellers"></a>Odsprzedawcy pośredni
 
-Odsprzedawcy pośredni pracują z dostawcami pośrednimi, którzy mają bezpośrednie relacje z firmą Microsoft i mają infrastrukturę do świadczenia pomocy technicznej dla klientów i rozliczeń. Dzięki współpracy z dostawcami pośrednimi odsprzedawcy pośredni mogą współpracować z doświadczonymi dostawcami technologii, aby wejść na rynek bez konieczności pozyskania dużych inwestycji kapitałowych i zaoferowania szerszego portfolio rozwiązań firmy Microsoft.
+Odsprzedawcy pośredni pracują z dostawcami pośrednimi, którzy mają bezpośrednie relacje z firmą Microsoft i mają infrastrukturę do świadczenia pomocy technicznej i rozliczeń dla klientów. Dzięki współpracy z dostawcami pośrednimi odsprzedawcy pośredni mogą współpracować z doświadczonymi dostawcami technologii, aby wejść na rynek bez konieczności pozyskania dużych inwestycji kapitałowych i zaoferowania szerszego portfolio rozwiązań firmy Microsoft.
 
-Jeśli jesteś odsprzedawcą pośrednim lub chcesz zarejestrować się w programie CSP jako odsprzedawca pośredni, zobacz partner z dostawcami pośrednimi w programie [CSP,](indirect-reseller-tasks-in-partner-center.md) aby dowiedzieć się więcej o nawiązywaniu połączenia z dostawcami pośrednimi i klientami.
+Jeśli jesteś odsprzedawcą pośrednim lub chcesz zarejestrować się w programie CSP jako odsprzedawca pośredni, zobacz Partner with indirect providers in CSP (Współpraca z dostawcami pośrednimi w programie [CSP),](indirect-reseller-tasks-in-partner-center.md) aby dowiedzieć się więcej o nawiązywaniu połączenia z dostawcami pośrednimi i klientami.
 
-Nie masz pewności, czy zarejestrować się w programie CSP jako odsprzedawca pośredni, czy jako bezpośredni partner? Zobacz [Explore the indirect model (Eksplorowanie modelu](https://partner.microsoft.com/cloud-solution-provider/indirect) [pośredniego) w Microsoft Partner Network internetowej .](https://partner.microsoft.com)
+Nie masz pewności, czy zarejestrować się w programie CSP jako odsprzedawca pośredni, czy jako bezpośredni partner? Zobacz [Explore the indirect model (Eksplorowanie modelu](https://partner.microsoft.com/cloud-solution-provider/indirect) [pośredniego) w Microsoft Partner Network internetowej.](https://partner.microsoft.com)
 
 ## <a name="multi-partner-support"></a>Obsługa wielu partnerów
 

@@ -1,7 +1,7 @@
 ---
 title: Łączenie Microsoft Learn MCP z Partner Center kontem
 ms.topic: how-to
-ms.date: 01/29/2021
+ms.date: 08/03/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
 description: Dowiedz się, jak skojarzyć identyfikator MCP z kontem Partner Center, aby firma widziała ścieżki szkoleniowe i szkoleniowe, które zostały podjęte w kierunku kompetencji.
@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18ea02feb3cc9c3da269ff72ab043aecd24b1e32
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: a707c1b9c238063704d87b3c5542a11412985267
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836935"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101594"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Łączenie lub odłączanie identyfikatora profilu certyfikacji firmy Microsoft (MCID) z kontem Microsoft Partner Network (MPN)
 
@@ -22,7 +22,7 @@ ms.locfileid: "114836935"
 
 W tym artykule opisano, w jaki sposób klienci posiadający aktywne certyfikaty w programie certyfikacji firmy Microsoft mogą połączyć lub odłączyć identyfikator profilu certyfikacji firmy Microsoft (MCID) z organizacją Microsoft Partner Network (MPN).
 
-Musisz być administratorem partnera MPN lub administratorem globalnym, aby sprawdzić stan kompetencji [(wymagane](https://partner.microsoft.com/pcv/partnership/competencies) logowanie) na egzaminach lub pobrać raporty umiejętności w celu przejrzenia skojarzonych egzaminów. Organizacja partnerska spełnia wymagania dotyczące kompetencji, mając osoby z połączonymi identyfikatorami MCI skojarzonymi z organizacją. W tym samym czasie można połączyć mcid tylko z jednym członkostwem w programie MPN.
+Musisz być administratorem partnera MPN lub administratorem globalnym, aby sprawdzić stan kompetencji [(wymagane](https://partner.microsoft.com/pcv/partnership/competencies) logowanie) na egzaminy lub pobrać raporty dotyczące umiejętności w celu przejrzenia skojarzonych egzaminów. Organizacja partnerska spełnia wymagania dotyczące kompetencji, mając osoby z połączonymi identyfikatorami MCI skojarzonymi z organizacją. W tym samym czasie można połączyć mcid tylko z jednym członkostwem w programie MPN.
 
 ## <a name="get-partner-university-access"></a>Uzyskiwanie dostępu do uczelni Partner University
 
@@ -31,7 +31,7 @@ Aby uzyskać dostęp do uczelni Partner University, użyj poniższej procedury.
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 2. Wybierz niebieską **ikonę Mój** profil w prawym górnym rogu
-3. W polu **Twoja Edukacja** wybierz pozycję Uzyskaj dostęp do **uczelni partnerskiej.** Musisz wprowadzić poświadczenia konta w umkcie partnerskim (a nie konto Centrum partnerskiego) Twoje konto na uczelni Partner University zostanie teraz skojarzone z Twoim Partner Center użytkownika. Oceny zostaną odzwierciedlone w raporcie umiejętności Partner Center użytkownika w ciągu 72 godzin. Od nowo przekazanych ocen do odzwierciedlenia w raporcie może upłynęło od 7 do 10 dni.
+3. W polu **Twoja Edukacja** wybierz pozycję Uzyskaj dostęp do **uczelni partnerskiej.** Musisz wprowadzić poświadczenia konta w umkcie partnerskim (a nie konto Centrum partnerskiego) Twoje konto na uczelni Partner University zostanie teraz skojarzone z Twoim Partner Center użytkownika. Oceny zostaną odzwierciedlone w raporcie umiejętności Partner Center użytkownika w ciągu 72 godzin.
 4. Aby usunąć skojarzenie, wybierz **pozycję Usuń dostęp.**
 
 ## <a name="associate-a-microsoft-learning-account"></a>Kojarzenie konta Edukacja Microsoft
@@ -53,17 +53,17 @@ Jeśli potrzebujesz szczegółowych informacji, raport umiejętności będzie do
 
 ### <a name="how-can-a-user-link-their-microsoft-certification-profile-id-mcid-with-the-microsoft-partner-network-mpn-organization-they-work-for"></a>W jaki sposób użytkownik może połączyć identyfikator profilu certyfikacji firmy Microsoft (MCID) z Microsoft Partner Network (MPN), z jaką pracuje?
 
-Użytkownicy powinni zalogować się do witryny Partner Center i przejść do witryny **Mój profil, a** następnie wybrać pozycję Pobierz konto witryny **Partner University** lub skojarzyć konto **microsoft Edukacja** i wprowadzić swoje poświadczenia. Aby skojarzyć konto Edukacja Microsoft, użytkownik musi wprowadzić nazwę użytkownika i hasło używane do logowania się do profilu certyfikacji firmy Microsoft (MCID). Ze względu na kwestie związane z prywatnością użytkownicy muszą samodzielnie ukończyć proces łączenia kont.  
+Użytkownicy powinni zalogować się do witryny Partner Center i przejść do witryny **Mój profil, a** następnie wybrać pozycję Pobierz konto platformy **Partner University** lub skojarzyć konto **microsoft Edukacja** i wprowadzić swoje poświadczenia. Aby skojarzyć konto Edukacja Microsoft, użytkownik musi wprowadzić nazwę użytkownika i hasło używane do logowania się do profilu certyfikacji firmy Microsoft (MCID). Ze względu na kwestie związane z prywatnością użytkownicy muszą samodzielnie ukończyć proces łączenia kont.  
 
-### <a name="how-can-a-user-unlink-their-mcid-from-the-mpn-organization-they-work-for"></a>W jaki sposób użytkownik może odłączyć identyfikator MCID od organizacji MPN, z jaką pracuje?
+### <a name="how-can-a-user-unlink-their-mcid-from-the-mpn-organization-they-work-for"></a>Jak użytkownik może odłączyć identyfikator MCID od organizacji MPN, dla których pracuje?
 
 Zaloguj się do usługi Partner Center, przejdź do **opcji Mój profil,** a następnie wybierz **pozycję Usuń dostęp.** Ze względu na kwestie związane z prywatnością użytkownik musi samodzielnie ukończyć proces łączenia konta.
 
-### <a name="the-user-left-company-a-and-now-works-for-company-b-how-can-they-link-their-microsoft-certification-profile-id-mcid-with-company-b"></a>Użytkownik odszedł z firmy A i pracuje teraz w firmie B. Jak można połączyć identyfikator profilu certyfikacji firmy Microsoft (MCID) z firmą B?
+### <a name="the-user-left-company-a-and-now-works-for-company-b-how-can-they-link-their-microsoft-certification-profile-id-mcid-with-company-b"></a>Użytkownik odszedł z firmy A i teraz pracuje dla firmy B. Jak można połączyć identyfikator profilu certyfikacji firmy Microsoft (MCID) z firmą B?
 
 Użytkownik musi połączyć identyfikator MCID z firmą B, korzystając z powyższej procedury. Gdy użytkownik łączy identyfikator MCID z firmą B, zostanie automatycznie odłączony od firmy A.
 
-### <a name="the-user-left-company-a-and-no-longer-has-access-to-partner-center-they-want-to-unlink-their-mcid-from-company-a-and-are-not-planning-to-link-it-with-another-mpn-organization-at-the-moment"></a>Użytkownik opuścił firmę A i nie ma już dostępu do Partner Center. Firma chce odłączyć swój mcid od firmy A i w tej chwili nie planuje połączyć jej z inną organizacją MPN.
+### <a name="the-user-left-company-a-and-no-longer-has-access-to-partner-center-they-want-to-unlink-their-mcid-from-company-a-and-are-not-planning-to-link-it-with-another-mpn-organization-at-the-moment"></a>Użytkownik opuścił firmę A i nie ma już dostępu do Partner Center. Firma chce odłączyć swój mcid od firmy A i w tej chwili nie planuje połączyć go z inną organizacją MPN.
 
 Konto użytkownika musi zostać usunięte przez administratora globalnego po opuszczeniu firmy. Jeśli identyfikator MCID użytkownika nadal jest wyświetlany jako połączony z firmą w raporcie umiejętności, użytkownik musi poprosić administratora globalnego o usunięcie go z raportu.
 
@@ -79,7 +79,7 @@ Aby chronić przed nadużyciami, osoba MCP ma ograniczoną liczbę 3 skojarzeń 
 
 W przypadku problemów technicznych dotyczących łączenia lub odłączania identyfikatorów MCID z organizacjami partnerskimi MPN, które nie zostały rozwiązane w często zadawanych pytaniach, otwórz bilet pomocy [technicznej firmy](https://partner.microsoft.com/support)Microsoft.
 
-W przypadku pytań związanych z procesem scalania profilu certyfikacji firmy Microsoft (MCID) skontaktuj się z pomocą [techniczną.](https://aka.ms/mcpforum)
+W przypadku pytań związanych z procesem scalania profilu certyfikacji firmy Microsoft (MCID), skontaktuj się z [pomocą techniczną.](https://aka.ms/mcpforum)
 
 ## <a name="next-steps"></a>Następne kroki
 

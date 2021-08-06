@@ -10,12 +10,12 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ccabcb051feb3d0929afb7e0ae23ceb6ce208c37
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: e03002f68f18edd21055e77b5009b58ac4bdc581369cb352036f78e082b6a60c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842987"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115678258"
 ---
 # <a name="faqs-for-the-partner-center-analytics-app-for-power-bi"></a>Często zadawane pytania dotyczące aplikacja statystyczna Centrum partnerskiego dla usługi Power BI
 
@@ -47,7 +47,7 @@ Zalecamy przejrzenie naszych odpowiedzi na często zadawane pytania przed zainst
 | **Pytanie** | **Odpowiedź** |
 | --- | ---------- |
 | Jaki jest koszt aplikacji? | Sama aplikacja jest bezpłatna. Aby wyświetlić podgląd aplikacji, możesz zarejestrować się w celu korzystania z bezpłatnej usługi [Power BI i](https://go.microsoft.com/fwlink/p/?linkid=845347) używać jej do dostosowywania pulpitów nawigacyjnych i raportów. Aby umożliwić innym osobom w firmie korzystanie z aplikacji, musisz mieć aktywną subskrypcję usługi Microsoft Power BI Professional lub Microsoft Power BI Premium. |
-| KtoTo połączyć się z aplikacją Partner Center Analytics? | Ta wersja aplikacji jest przeznaczona dla bezpośrednich partnerów (warstwa 1) w programie CSP. Jesteś bezpośrednim partnerem, jeśli współpracujesz bezpośrednio z firmą Microsoft i klientami. Aby zainstalować aplikację, musisz być administratorem globalnym, agentem administratora lub administratorem rozliczeń konta firmy. |
+| KtoTo nawiązać połączenie z Partner Center Analytics? | Ta wersja aplikacji jest przeznaczona dla bezpośrednich partnerów (warstwa 1) w programie CSP. Jesteś bezpośrednim partnerem, jeśli współpracujesz bezpośrednio z firmą Microsoft i klientami. Aby zainstalować aplikację, musisz być administratorem globalnym, agentem administratora lub administratorem rozliczeń konta firmy. |
 | Jestem dostawcą pośrednim. Czy mogę używać aplikacji? | Tak. Administrator globalny, agent administratora lub administrator rozliczeń może zainstalować aplikację i zobaczyć dane dotyczące klientów bezpośrednich. Przyszłe wersje mogą zawierać funkcje, które umożliwią wyświetlanie danych dotyczących odsprzedawców pośrednich. |
 | Jak mogę dowiedzieć się więcej o przyszłych wersjach? | Anonse i wersje zapoznawcze są udostępniane za pośrednictwem Partner Center wczesnego przyjęcia programu. Możesz również podzielić się swoją opinią za pośrednictwem programu wczesnego użytkownika. Jeśli jeszcze nie bierzesz udziału w programie, dowiedz się, jak dołączyć. Zobacz [Join the Partner Center API and SDK Early Adopter Program (Dołączanie do Partner Center API i zestawu SDK Early Adopter Program).](/partner-center/develop/early-adopter-program)  |
 | KtoTo dostosować pulpity nawigacyjne i raporty w aplikacji? | Tylko administrator globalny, agent administratora lub administrator rozliczeń, który zainstalował aplikację, może dostosować pulpit nawigacyjny lub tworzyć nowe raporty w Power BI internetowym. |

@@ -2,19 +2,19 @@
 title: Korzystanie z plików uzgodnień
 ms.topic: article
 ms.date: 03/26/2021
-description: Dowiedz się więcej o plikach uzgodnień Partner Center i interpretowaniu szczegółowych widoków elementów wiersza opłat dla danego cyklu rozliczeniowego.
+description: Dowiedz się więcej o plikach uzgodnień Partner Center i interpretowaniu szczegółowych widoków elementów wiersza opłat w danym cyklu rozliczeniowym.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5fae4c9b9b40c8a71b56c46d0d1be629f832842
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2b14379f7e7750b3423d03be4addaca4e4a6a94834709b9f0b6e5891a185bb0c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844737"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681199"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Dowiedz się, jak odczytywać elementy wiersza w plikach Partner Center uzgodnień
 
@@ -29,7 +29,7 @@ Aby uzyskać informacje na temat odczytywania **faktury,** zobacz [Odczytywanie 
 - [Pola pliku uzgodnień w oparciu o licencję](license-based-recon-files.md)
 - [Pola pliku uzgodnień w oparciu o użycie](usage-based-recon-files.md)
 - [Pola pliku uzgodnień dziennego użycia](daily-rated-usage-recon-files.md)
-- [Pola pliku uzgodnień programu CSP zakupu tylko raz](modern-invoice-reconciliation-file.md)
+- [Pola pliku uzgodnień programu CSP z zakupem czasowym](modern-invoice-reconciliation-file.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Opis typów opłat w plikach uzgodnień
 
@@ -46,12 +46,12 @@ Wykonaj następujące kroki, aby rozwiązać wszelkie problemy z formatowaniem w
 3. Otwórz Kreatora **konwertowania tekstu na kolumny.** Na wstążce wybierz pozycję **Dane,** a następnie wybierz pozycję **Tekst na kolumny.**
 4. W kreatorze wybierz **typ pliku Rozdzielany.** Następnie wybierz pozycję **Dalej**.
 5. W polu **Ograniczniki** wybierz pozycję **Przecinek**. (Jeśli **karta** jest już zaznaczona, możesz pozostawić tę opcję zaznaczoną). Następnie wybierz pozycję **Dalej.**
-6. W polu **Format danych kolumny** wybierz pozycję **Date:MDY.** Następnie wybierz pozycję **Dalej**.
+6. W polu **Format danych kolumny** wybierz **pozycję Date:MDY.** Następnie wybierz pozycję **Dalej**.
 7. W polu **Format danych kolumny** wybierz pozycję **Tekst** dla wszystkich kolumn kwot. Następnie wybierz pozycję **Finish** (Zakończ).
 
 ## <a name="download-reconciliation-files-programmatically"></a>Programowe pobieranie plików uzgodnień
 
-Pliki uzgodnień mogą być bardzo duże i czasami trudno je pobrać. Aby programowo pobrać pliki uzgodnień, zobacz [Pobieranie elementów wiersza faktury.](/partner-center/develop/get-invoiceline-items)
+Pliki uzgodnień mogą być bardzo duże i czasami trudno je pobrać. Aby pobrać pliki uzgodnień programowo, zobacz [Pobieranie elementów wiersza faktury.](/partner-center/develop/get-invoiceline-items)
 
 ## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Jeśli plik przekracza limit wierszy w Excel
 
@@ -65,13 +65,13 @@ Jeśli możesz pobrać plik uzgodnień, ale nie możesz go otworzyć w Microsoft
 4. Na liście **wspólnych źródeł danych** wybierz pozycję **Tekst/CSV.**
 5. Po wyświetleniu monitu otwórz plik rekonescji.
 
-### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Otwieranie pliku rekonesfigurowego w Excel tabeli przestawnej
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Otwieranie pliku rekonescją w Excel tabeli przestawnej
 
 1. Pobierz plik uzgodnień w zwykły sposób.
 2. Otwórz nowy plik w Microsoft Excel.
 3. Na karcie **Dane** wybierz pozycję **Pobierz dane,** wybierz pozycję **Z pliku**, a następnie wybierz **pozycję Tekst/CSV.**
 4. Po wyświetleniu monitu otwórz plik rekonescji. Zostaną wyświetlone dane.
-5. Z menu **rozwijanego** Ładowanie wybierz pozycję **Załaduj do**, a następnie wybierz przycisk **OK.**
+5. Z menu **rozwijanego** Load (Ładowanie) wybierz pozycję Load to **(Załaduj do),** a następnie wybierz przycisk **OK.**
 6. W **oknie dialogowym Import danych** wybierz pozycję **Raport tabeli przestawnej,** aby otworzyć plik.
 
 ## <a name="negative-amount-displayed"></a>Wyświetlana kwota ujemna

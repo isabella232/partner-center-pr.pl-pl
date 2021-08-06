@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a1b47860f0af3427342d89945528e9118ecfc0aa
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b440b7baaad26ac6ee1c1e8313a13c4aa3cc271f9d84f5421aeb07edf1ea8a84
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843327"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681522"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrate Office 365 E4 subscriptions to newer Office 365 versions (Migrowanie subskrypcji usługi Office 365 E4 do nowszych wersji usługi Office 365)
 
@@ -48,14 +48,14 @@ Możesz zachować tę samą funkcjonalność, co E4, lub zapewnić klientom moż
 
 | Cecha | Opcja 1 | Opcja 2 | Opcja 3 | Opcja 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
-| Pobierz wszystkie funkcje zawarte w Office 365 Enterprise E4? | Yes | Yes | Yes | Nie |
-| Telefon zarządzane w Office 365? | Yes | Yes | Nie | Nie |
-| Telefon zarządzane zarówno lokalnie, jak i w Office 365 (wdrożenie hybrydowe)? | Yes | Yes | Nie | Nie |
-| Opcja dodania planu połączeń głosowych PSTN? | Yes | Yes | Nie | Nie |
-| Konferencje PSTN? | Yes | Nie | Nie | Nie |
-| Zaawansowane narzędzia do współpracy, analizy i zabezpieczeń? | Yes | Nie | Nie | Nie |
-| Interakcyjne raporty, pulpity nawigacyjne i wizualizacje danych? | Yes | Nie | Nie | Nie | 
-| Większa kontrola nad zabezpieczeniami danych i zgodnością dzięki wbudowanym mechanizmom kontroli prywatności, przejrzystości i udoskonalonym użytkownikom? | Yes | Nie | Nie | Nie | 
+| Pobierz wszystkie funkcje zawarte w Office 365 Enterprise E4? | Tak | Tak | Tak | Nie |
+| Telefon zarządzane w Office 365? | Tak | Tak | Nie | Nie |
+| Telefon zarządzane zarówno lokalnie, jak i w Office 365 (wdrożenie hybrydowe)? | Tak | Tak | Nie | Nie |
+| Opcja dodania planu połączeń głosowych PSTN? | Tak | Tak | Nie | Nie |
+| Konferencje PSTN? | Tak | Nie | Nie | Nie |
+| Zaawansowane narzędzia do współpracy, analizy i zabezpieczeń? | Tak | Nie | Nie | Nie |
+| Interakcyjne raporty, pulpity nawigacyjne i wizualizacje danych? | Tak | Nie | Nie | Nie | 
+| Większa kontrola nad zabezpieczeniami danych i zgodnością dzięki wbudowanym mechanizmom kontroli prywatności, przejrzystości i udoskonalonym użytkownikom? | Tak | Nie | Nie | Nie | 
 
 ## <a name="transition-customers-to-new-product-plans"></a>Przechodzenie klientów do nowych planów produktów
 

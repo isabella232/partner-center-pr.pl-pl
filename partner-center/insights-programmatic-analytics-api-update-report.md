@@ -1,5 +1,5 @@
 ---
-title: Aktualizowanie interfejsu API raportów
+title: Aktualizowanie interfejsu API raportu
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
@@ -8,14 +8,14 @@ description: Ten interfejs API umożliwia aktualizowanie parametrów raportu w P
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 64ef897dc3c883e4adfda4285183e441f27f3c7f
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c4425f6444603852e87d9287db720ec1b29ee57818bc949c82eed2179ac6149e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837037"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696918"
 ---
-# <a name="update-report-api"></a>Aktualizowanie interfejsu API raportów
+# <a name="update-report-api"></a>Aktualizowanie interfejsu API raportu
 
 Ten interfejs API ułatwia modyfikowanie parametru raportu.
 
@@ -66,14 +66,14 @@ W tej tabeli wymieniono kluczowe definicje elementów w odpowiedzi.
 
 |    Parametr    |    Wymagane    |    Opis    |    Dozwolone wartości    |
 |    ----    |    ----    |    ----    |    ----    |
-|    Reportname     |    Yes     |    Nazwa, która ma zostać przypisana do raportu     |    Ciąg     |
+|    Reportname     |    Tak     |    Nazwa, która ma zostać przypisana do raportu     |    Ciąg     |
 |    Opis     |    Nie     |    Opis utworzonego raportu     |    Ciąg     |
-|    StartTime     |    Yes    |    Sygnatura czasowa, po której rozpocznie się generowanie raportu     |    Ciąg     |
-|    RecurrenceInterval     |    Nie     |    Częstotliwość generowania raportu w godzinach. Wartość minimalna to 4     |    Liczba całkowita     |
+|    StartTime     |    Tak    |    Znacznik czasu, po którym rozpocznie się generowanie raportu     |    Ciąg     |
+|    RecurrenceInterval     |    Nie     |    Częstotliwość, z jaką raport powinien być generowany w godzinach. Wartość minimalna to 4     |    Liczba całkowita     |
 |    RecurrenceCount     |    Nie     |    Liczba raportów do wygenerowania. Wartość domyślna to nieokreślony.     |    Liczba całkowita     |
 |    Format     |    Nie    |    Format wyeksportowanego pliku. Wartość domyślna to CSV     |    CSV/TSV     |
 |    CallbackURL     |    Nie     |    Adres URL wywołania zwrotnego HTTPS, który ma być wywoływany podczas generowania raportu     |    Ciąg     |
-|    CallbackMethod    |    Nie    |    Metoda HTTP, która ma być używana do wywołania zwrotnego    |    GET/POST    |
+|    CallbackMethod    |    Nie    |    Metoda HTTP do wywołania zwrotnego    |    GET/POST    |
 |        |        |        |        |
 
 
@@ -125,8 +125,8 @@ W tej tabeli zdefiniowano kluczowe elementy odpowiedzi:
 |    QueryId     |    Identyfikator zapytania przekazany w momencie utworzenia raportu     |
 |    Zapytanie     |    Tekst zapytania, który zostanie wykonany dla tego raportu     |
 |    Użytkownik     |    Identyfikator użytkownika użyty do utworzenia raportu     |
-|    CreatedTime     |    Godzina utworzenia raportu. Format czasu to yyyy-MM-ddTHH:mm:ssZ     |
-|    ModifiedTime     |    Godzina ostatniej modyfikacji raportu. Format czasu to yyyy-MM-ddTHH:mm:ssZ     |
+|    CreatedTime     |    Godzina utworzenia raportu. Format godziny to yyyy-MM-ddTHH:mm:ssZ     |
+|    ModifiedTime     |    Godzina ostatniej modyfikacji raportu. Format godziny to yyyy-MM-ddTHH:mm:ssZ     |
 |    ExecuteNow     |    Flaga ExecuteNow ustawiona w czasie tworzenia raportu    |
 |    StartTime     |    Czas rozpoczęcia wykonywania raportu. Format godziny to yyyy-MM-ddTHH:mm:ssZ     |
 |    ReportStatus     |    Stan wykonania raportu. Możliwe wartości to Wstrzymane, Aktywne i Nieaktywne.     |

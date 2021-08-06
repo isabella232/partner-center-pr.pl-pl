@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7400aaa2208fa35ccc4efa439cd8d7ee597733b9
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 08afaa2153de21b3b89167e4c08eb9761e0e3a53
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842749"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101688"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Przegląd rozliczeń dla partnerów programu CSP pracujących w Centrum partnerskim 
 
@@ -47,7 +47,7 @@ Typy rozliczeń w Partner Center obejmują rozliczenia oparte na **licencjach,**
 
 **Rozliczenia oparte na licencjach** i na użyciu: opłaty za produkty będą naliczane w walucie kraju lub regionu, w którym się znajdujesz. Rachunek jest taki sam niezależnie od lokalizacji klienta, któremu sprzedano produkty.
 
-Rozliczenia **raz:** od 28 stycznia 2021 r. partnerzy w regionie Unii Europejskiej/EFTA i Zjednoczonego Królestwa, którzy mają nowych klientów i istniejących klientów programu CSP, którzy kupują nowe oferty handlowe po raz pierwszy, których dzierżawy zostały utworzone przed 11 maja 2020 r., będą rozliczani za te zakupy w walucie lokalizacji partnera.  Partnerzy znajdujący się poza regionem Unii Europejskiej/EFTA i Zjednoczonego Królestwa będą nadal rozliczani w walucie lokalizacji partnera. Przeczytaj więcej na temat [jednorazowych i cyklicznych .](azure-plan-billing.md) 
+Rozliczenia **raz:** od 28 stycznia 2021 r. partnerzy w regionie Unii Europejskiej/EFTA i Zjednoczonego Królestwa, którzy mają nowych klientów i istniejących klientów programu CSP, którzy kupują nowe oferty handlowe po raz pierwszy, których dzierżawy zostały utworzone przed 11 maja 2020 r., będą rozliczani za te zakupy w walucie lokalizacji partnera. Partnerzy znajdujący się poza regionem Unii Europejskiej/EFTA i Zjednoczonego Królestwa będą nadal rozliczani w walucie lokalizacji partnera. Przeczytaj więcej na temat [jednorazowych i cyklicznych .](azure-plan-billing.md) 
 
 ## <a name="invoices"></a>Faktury
 
@@ -55,7 +55,7 @@ Faktura jest podsumowaniem wszystkich opłat dla bieżącego okresu rozliczeniow
 
 W przypadku rozliczania na podstawie użycia i w oparciu o licencję faktura jest dostępna w ciągu dwóch (2) dni od wybranej daty rozliczenia w czasie UTC. Jeśli na przykład masz datę rozliczeniową 12 września, proces generowania faktur rozpocznie się o godzinie 12:00 czasu UTC 13 dnia i zakończy się o godzinie 12:00 czasu UTC 14. 
 
-W przypadku jednorazowego i cyklicznego rozliczania okres rozliczeniowy jest wyrównywany do miesiąca kalendarzowego, a pliki faktur lub uzgodnień będą dostępne nie później niż 8 dnia każdego miesiąca. Aby uzyskać więcej informacji, zobacz [Rozliczenia za plan platformy Azure.](azure-plan-billing.md) 
+W przypadku jednorazowego i cyklicznego rozliczania okres rozliczeniowy jest wyrównywany do miesiąca kalendarzowego, a pliki faktur lub uzgodnień będą dostępne nie później niż 8 dnia każdego miesiąca. Aby uzyskać więcej informacji, zobacz [Rozliczenia planu platformy Azure.](azure-plan-billing.md) 
 
 ## <a name="price-lists"></a>Cenniki
 

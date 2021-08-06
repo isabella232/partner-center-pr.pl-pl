@@ -4,149 +4,149 @@ ms.topic: article
 ms.date: 01/28/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-benefits
-description: Dowiedz się więcej Microsoft Partner Network (MPN) dla produktów platformy Azure i chmury, w tym o tym, jak aktywować subskrypcje.
+description: Dowiedz się więcej Microsoft Partner Network (MPN) dla produktów platformy Azure i usług w chmurze, w tym o tym, jak aktywować subskrypcje.
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd9d14fd6f7cc9f0376b550e4d87aa5de499312f
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c01180bf8d3f54436a1556072da20e351be099895ad131b1f003caf303c8b795
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841168"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697407"
 ---
 # <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>Zapoznaj się z obszarem korzyści związanych z platformą Azure i produktami w chmurze w Partner Center
 
 **Odpowiednie role:** Administrator globalny | Administrator partnera MPN
 
-W tym artykule opisano konkretne korzyści z platformy Azure i chmury dostępne dla partnerów z Partner Center. Dowiesz się również, jak aktywować niektóre typy subskrypcji platformy Azure i subskrypcji w chmurze.
+W tym artykule opisano konkretne korzyści dla platformy Azure i chmury dostępne dla partnerów z Partner Center. Dowiesz się również, jak aktywować niektóre typy subskrypcji platformy Azure i chmury.
  
 ## <a name="overview"></a>Omówienie
 
-Jako partner w Microsoft Partner Network masz dostęp do wielu korzyści technicznych i związanych z daniem na [rynek](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) w różnych obszarach. Jeśli masz przypisaną jedną z powyższych ról w Partner Center, możesz eksplorować wiele z tych korzyści bezpośrednio z Partner Center pulpitu nawigacyjnego. 
+Jako partner w Microsoft Partner Network możesz mieć dostęp do wielu korzyści technicznych i związanych z daniem na rynek [w](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) różnych obszarach. Jeśli masz przypisaną jedną z powyższych ról w Partner Center, możesz eksplorować wiele z tych korzyści bezpośrednio z Partner Center nawigacyjnego. 
 
 > [!NOTE]
 > Aby uzyskać dostęp do Partner Center korzyści, wystarczy zalogować się do [](https://partner.microsoft.com/dashboard) pulpitu nawigacyjnego usługi Partner Center i wybrać pozycję **MPN** z menu nawigacji po lewej stronie. Następnie wybierz **z** menu pozycję Korzyści, a następnie wybierz opcję lub obszar określonych korzyści, które chcesz eksplorować.
 
-Jedną z opcji korzyści, które mogą być dla Ciebie dostępne, są produkty **platformy Azure & w chmurze.** Po wybraniu pozycji **Azure & cloud z** menu  korzyści Partner Center zostanie wyświetlona strona Produkty usługi Azure & w **chmurze.**
+Jedną z dostępnych opcji korzyści jest usługa **Azure & w chmurze.** Po wybraniu pozycji Azure & cloud (Chmura usługi Azure **&)** z menu korzyści usługi Partner Center **zostanie** wyświetlona **strona azure & w chmurze.**
 
 Na tej stronie przedstawiono następujące szczegóły:
 
-- Dostępne są & subskrypcji produktów w chmurze na platformie Azure, niezależnie od tego, czy są to subskrypcje oparte na licencjach, czy subskrypcje oparte na użyciu
+- Różne dostępne & subskrypcji produktów platformy Azure w chmurze, niezależnie od tego, czy są to subskrypcje oparte na licencjach, czy subskrypcje oparte na użyciu
 - Ilość licencji przypisana dla każdego produktu
 - Typ oferty, który aprowizował dla Ciebie określony produkt korzyści
-- Typ korzyści (bez względu na to, czy pochodzi z rdzenia, czy przyrostowy)
+- Typ korzyści (niezależnie od tego, czy pochodzi z rdzenia, czy przyrostowego)
 - Data wygaśnięcia określonej korzyści
 
-:::image type="content" source="images/benefits/mpn-benefits-azure-cloud-1.png" alt-text="Strona produktów platformy Azure i produktów w chmurze z listą dostępnych korzyści dla subskrypcji." border="false":::
+:::image type="content" source="images/benefits/mpn-benefits-azure-cloud-1.png" alt-text="Strona produktów platformy Azure i produktów w chmurze zawiera listę dostępnych korzyści dla subskrypcji." border="false":::
 
 ## <a name="usage-based-vs-license-based-subscriptions"></a>Subskrypcje oparte na użyciu i na licencjach
 
-Na **stronie produktów & Azure w chmurze** znajdują się dwa typy korzyści z subskrypcji, które są dla Ciebie aprowowane:
+Na **stronie produktów & azure & w** chmurze są dostępne dwa typy korzyści z subskrypcji, które są dla Ciebie aprowowane:
 - Subskrypcje oparte na użyciu (Microsoft Azure kredytowe) 
 - Subskrypcje oparte na licencjach (na przykład Office 365)
 
-### <a name="usage-based-subscriptions-with-two-types-of-microsoft-azure-credit"></a>Subskrypcje oparte na użyciu z dwoma typami środków Microsoft Azure danych
+### <a name="usage-based-subscriptions-with-two-types-of-microsoft-azure-credit"></a>Subskrypcje oparte na użyciu z dwoma typami środków Microsoft Azure subskrypcji
 
-Istnieją dwa typy subskrypcji opartych na użyciu, które można otrzymywać, w zależności od aktywnych ofert dostępnych dla Microsoft Partner Network subskrypcji. Takie aktywne oferty mogą obejmować Action Pack Microsoft, kompetencję Silver lub złotą kompetencję. 
+Istnieją dwa typy subskrypcji opartych na użyciu, które można otrzymywać, w zależności od aktywnych ofert dostępnych dla Microsoft Partner Network subskrypcji. Takie aktywne oferty mogą obejmować Action Pack Microsoft, kompetencję Silver lub kompetencję Gold. 
 
-Dwa typy subskrypcji opartych na użyciu, które mogą być aprowowane dla tych ofert, obejmują miesięczne środki na korzystanie z platformy *Azure* i/lub środki zbiorcze platformy *Azure (co rok):*
+Dwa typy subskrypcji opartych na użyciu, które można aprowizują dla tych ofert, obejmują miesięczne środki na korzystanie z platformy *Azure* i/lub środki zbiorcze *platformy Azure (co rok):*
 
 - **Aprowizowanie miesięcznych środków na korzystanie z platformy Azure:** Może to wyglądać podobnie jak 100 USD/miesiąc (lub równoważne w walucie lokalnej)<br/>
 *Lub*
-- **Aprowizowanie zbiorczych środków na korzystanie z platformy Azure (co rok):** Może to wyglądać podobnie jak 6000 USD/rok, 12000 USD/rok i/lub 13000 USD/rok (lub każdy z nich jest odpowiednikiem w walucie lokalnej)
+- **Aprowizowanie środków zbiorczych na korzystanie z platformy Azure (co rok):** Może to wyglądać podobnie jak 6000 USD/rok, 12000 USD/rok i/lub 13000 USD/rok (lub każdy z nich jest odpowiednikiem w walucie lokalnej)
 
-Aby aktywować Microsoft Azure subskrypcji w Partner Center, musisz przypisać dostęp do użytkownika w firmie (lub użytkownika-gościa). Użytkownik musi już mieć wpis użytkownika utworzony w dzierżawie Azure Active Directory dzierżawy. Następnie wykonaj następujące kroki:
+Aby aktywować Microsoft Azure subskrypcji w Partner Center, musisz przypisać dostęp do użytkownika w firmie (lub do użytkownika-gościa). Użytkownik musi już mieć wpis użytkownika utworzony w dzierżawie Azure Active Directory dzierżawie. Następnie wykonaj następujące kroki:
 
-1. Gdy masz pewność, że użytkownik ma wpis użytkownika w dzierżawie usługi Azure AD, zaloguj się do pulpitu Partner Center [usługi](https://partner.microsoft.com/dashboard).
+1. Gdy masz pewność, że użytkownik ma wpis użytkownika w dzierżawie usługi Azure AD, zaloguj się do pulpitu Partner Center [nawigacyjnego](https://partner.microsoft.com/dashboard).
 
-1. Wybierz **pozycję MPN** z menu nawigacji po lewej stronie, a następnie **pozycję Benefits (Korzyści),** a następnie **pozycję Azure and cloud (Platforma Azure i chmura).**
+1. Wybierz **pozycję MPN** z menu nawigacji po lewej stronie, a następnie pozycję **Korzyści**, a następnie pozycję Azure **i chmura.**
 
 1. Wybierz strzałkę w dół w prawej kolumnie **Wyświetl szczegóły** dla subskrypcji opartej na użyciu, którą chcesz aktywować. 
 
-1. Znajdź obszar **Przypisanie użytkownika** na stronie Partner Center produktów na platformie **Azure i w chmurze** (poniżej). Następnie wybierz opcję **Przypisz użytkownika,** aby przypisać do tego użytkownika żądaną korzyść subskrypcji opartą na użyciu. 
+1. Znajdź obszar **Przypisanie użytkownika** na stronie Partner Center **platformy Azure i produktów w chmurze** (poniżej). Następnie wybierz opcję **Przypisz użytkownika,** aby przypisać do tego użytkownika żądaną korzyść subskrypcji na podstawie użycia. 
 
-   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-2.png" alt-text="Strona produktów platformy Azure i produktów w chmurze z obszarem przypisania użytkownika." border="false":::
+   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-2.png" alt-text="Strona produktów platformy Azure i produktów w chmurze z obszarem przypisywania użytkowników." border="false":::
 
-- Po przypisaniu miesięcznych środków na korzystanie z platformy Azure, takich jak 100 USD miesięcznie (lub odpowiedników w walucie lokalnej), należy pamiętać, że w dowolnym momencie możesz dodawać lub usuwać użytkowników z tej subskrypcji.
+- Po przypisaniu miesięcznych środków na korzystanie z platformy Azure, takich jak 100 USD miesięcznie (lub równoważnych w walucie lokalnej), należy pamiętać, że w dowolnym momencie możesz dodawać lub usuwać użytkowników z tej subskrypcji.
 
-- Po przypisaniu zbiorczych środków na korzystanie z  platformy Azure (co rok) pamiętaj, że opcja Usuń nie jest dostępna w Partner Center. Zamiast tego musisz przenieść kredyt zbiorczy na inną osobę w trakcie roku rejestracji. Zbiorczej (co roku) subskrypcji środków na korzystanie z platformy Azure nie można również łączyć z innymi ofertami licencjonowania, przedpłaconego lub kredytowego (na przykład Microsoft Enterprise Agreement, Dostawca rozwiązań w chmurze, Azure w ramach programu Licencjonowanie, Azure — dostęp próbny, Microsoft Action Pack itp.).
+- Po przypisaniu zbiorczych środków na korzystanie z  platformy Azure (co rok) pamiętaj, że opcja Usuń nie jest dostępna w Partner Center. Zamiast tego musisz przenieść kredyt zbiorczy na inną osobę w roku rejestracji. Zbiorcza (co roku) subskrypcja środków na korzystanie z platformy Azure nie może być również łączona z innymi ofertami licencjonowania, przedpłaconego ani środków (na przykład Microsoft Enterprise Agreement, Dostawca rozwiązań w chmurze, Azure w ramach programu licencjonowania Open, Azure — dostęp próbny, Microsoft Action Pack itp.).
 
 ### <a name="license-based-subscriptions"></a>Subskrypcje oparte na licencjach
 
-W sekcji subskrypcji opartych na licencjach na stronie produktów platformy Azure i chmury znajdziesz wszystkie produkty w chmurze, które wymagają klucza produktu do aktywacji, takie jak Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic, Power BI itp. Te produkty są oferowane na podstawie typu aktywnej oferty dostępnej dla Ciebie jako partner w Microsoft Partner Network. Takie oferty mogą obejmować Action Pack Microsoft, członkostwo w kompetencji Silver lub członkostwo w kompetencji Gold.
+W sekcji subskrypcji opartych na licencjach na stronie produktów Platformy Azure i chmury znajdziesz wszystkie produkty w chmurze, które wymagają klucza produktu do aktywacji, takie jak Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic, Power BI itp. Te produkty są oferowane na podstawie typu aktywnej oferty dostępnej dla Ciebie jako partner w Microsoft Partner Network. Takie oferty mogą obejmować Action Pack Microsoft, członkostwo w kompetencji Silver lub członkostwo w kompetencji Gold.
 
-Aby aktywować subskrypcję opartą na licencjach: 
+Aby aktywować subskrypcję opartą na licencji: 
 
-1. Znajdź określoną subskrypcję na stronie Produktów na platformie Azure i w chmurze. 
+1. Znajdź określoną subskrypcję na stronie produktów platformy Azure i produktów w chmurze. 
 
 1. Wybierz strzałkę listy rozwijanej po prawej stronie w kolumnie **Wyświetl szczegóły** dla tej subskrypcji. 
 
 1. Przeczytaj instrukcje na kolejnej stronie. Dzięki temu dowiesz się więcej na temat sposobu realizacji kluczy. 
 
-   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-3.png" alt-text="Strona produktów na platformie Azure i w chmurze ze szczegółami wyświetlania." border="false":::
+   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-3.png" alt-text="Strona produktów platformy Azure i produktów w chmurze ze szczegółami wyświetlania." border="false":::
 
 
-1. Gdy wszystko będzie gotowe do zrealizowania klucza, wybierz opcję **Przewodnik po aktywacji** dostępną w dolnej części tej strony.
-   - Jeśli chcesz aktywować nową subskrypcję lub istniejąca subskrypcja jest wyłączona/wygasła, otwórz prywatną lub **incognito** przeglądarkę , skopiuj i wklej następujący link i postępuj zgodnie z instrukcjami:
+1. Gdy wszystko będzie gotowe do zrealizowania klucza, wybierz opcję Przewodnik **aktywacji** w dolnej części tej strony.
+   - Jeśli chcesz aktywować nową subskrypcję lub istniejąca subskrypcja została wyłączona/wygasła, otwórz przeglądarkę prywatną lub **incognito,** a następnie skopiuj i wklej następujący link i postępuj zgodnie z instrukcjami:
 
       [https://signup.microsoft.com/productkeystart](https://signup.microsoft.com/productkeystart)
 
 > [!Note]
-> Office 365 E3, Office 365 E5, Enterprise Mobility + Security, Microsoft Intune i Windows 10 Enterprise nie są już częścią pakietów korzyści kompetencji. Możesz aktywować Microsoft 365 E3 lub Microsoft 365 E5, które działają jako zamienniki autonomicznych pakietów korzyści, które zostały wycofane.
-Jeśli potrzebujesz pomocy dotyczącej instalacji lub wdrażania korzyści z usługi M365, skorzystaj z korzyści technicznych, aby uzyskać bilet [pomocy technicznej](mpn-benefits-technical-support.md)
+> Office 365 E3, Office 365 E5, Enterprise Mobility + Security, Microsoft Intune i Windows 10 Enterprise korzyści nie są już częścią pakietów korzyści kompetencji. Możesz aktywować Microsoft 365 E3 lub Microsoft 365 E5, które działają jako zamienniki autonomicznych pakietów korzyści, które zostały wycofane.
+Jeśli potrzebujesz pomocy dotyczącej instalowania lub wdrażania korzyści z rozwiązania M365, skorzystaj z korzyści technicznych, aby uzyskać bilet [pomocy technicznej](mpn-benefits-technical-support.md)
       
-   - Jeśli chcesz rozszerzyć datę zakończenia lub dodać więcej stanowisk/licencji do istniejącej kopii subskrypcji, wklej poniższy link w oknie przeglądarki prywatnej lub **incognito** i postępuj zgodnie z instrukcjami:
+   - Jeśli chcesz rozszerzyć datę zakończenia lub dodać więcej stanowisk/licencji do istniejącej kopii subskrypcji, wklej poniższy link w prywatnym oknie przeglądarki lub w oknie przeglądarki **incognito** i postępuj zgodnie z instrukcjami:
  
       [https://admin.microsoft.com/AdminPortal/Home#/subscriptions](https://admin.microsoft.com/AdminPortal/Home#/subscriptions)
 
 > [!Note]
 > Po zrealizowaniu klucza nie można zrealizować tego samego klucza po raz drugi. Należy również zwrócić uwagę na następujące ważne kwestie:
 >
-> - Potwierdź, czy musisz dodać więcej licencji (stanowisk), ilu licencji oraz czy chcesz rozszerzyć datę zakończenia. Jeśli zdecydujesz się dodać więcej licencji  (stanowisk) i nie rozszerzysz daty zakończenia, system udostępni mniej niż 12 miesięcy aktywnej subskrypcji. 
+> - Potwierdź, czy musisz dodać więcej licencji (stanowisk), ile licencji i czy rozszerzyć datę zakończenia. Jeśli zdecydujesz się dodać więcej licencji  (stanowisk) i nie rozszerzysz daty zakończenia, system udostępni mniej niż 12 miesięcy aktywnej subskrypcji. 
 >
-> - Upewnij się, że zalogowano się przy użyciu poprawnych poświadczeń i że klucze są aktywowane w prawidłowej dzierżawie Azure Active Directory (AAD). Zawsze loguj się w oknie przeglądarki prywatnej/incognito, aby upewnić się, że klucze są aktywowane w odpowiedniej dzierżawie.
+> - Upewnij się, że zalogowano się przy użyciu poprawnych poświadczeń i że klucze są aktywowane w prawidłowej dzierżawie Azure Active Directory (AAD). Zawsze loguj się przy użyciu prywatnego/incognito okna przeglądarki, aby upewnić się, że klucze są aktywowane w odpowiedniej dzierżawie.
 >
-> - Data wygaśnięcia korzyści wyświetlana w witrynie Microsoft Partner Center wskazuje datę ostatniej, do wykonania praw użytkowania dla tej korzyści. Ta data może różnić się od daty zakończenia subskrypcji podanej w portalu Centrum administracyjnego M365. Może to być spowodowane kilkoma czynnikami, takimi jak data aktywacji korzyści, liczba licencji skojarzonych z kluczem oraz licencje dodane lub rozszerzone w portalu administracyjnym.
+> - Data wygaśnięcia korzyści pokazana w witrynie Microsoft Partner Center wskazuje ostatnią datę, w ciągu których mają być wykonywane prawa użytkowania dotyczące tej korzyści. Ta data może różnić się od daty zakończenia subskrypcji podanej w portalu Centrum administracyjnego M365. Może to być spowodowane kilkoma czynnikami, takimi jak data aktywacji korzyści, liczba licencji skojarzonych z kluczem oraz licencje dodane lub rozszerzone w portalu administracyjnym.
 
 ## <a name="extend-the-end-date-or-add-more-licenses-to-an-existing-subscription"></a>Rozszerzanie daty zakończenia lub dodawanie kolejnych licencji do istniejącej subskrypcji
 
-Wykonaj następujące kroki, aby dodać więcej licencji lub rozszerzyć datę zakończenia dla istniejącej subskrypcji:
+Wykonaj następujące kroki, aby dodać więcej licencji lub rozszerzyć datę zakończenia istniejącej subskrypcji:
 
-1. Skopiuj i wklej poniższy link w prywatnym oknie **przeglądarki lub w oknie przeglądarki incognito.**
+1. Skopiuj i wklej poniższy link w prywatnym **oknie przeglądarki lub w oknie przeglądarki incognito.**
 
    [https://admin.microsoft.com/AdminPortal/Home#/subscriptions](https://admin.microsoft.com/AdminPortal/Home#/subscriptions)
 
-1. Podczas logowania się do **portalu centrum administracyjnego M365** upewnij się, że logujesz się przy użyciu prawidłowej Azure Active Directory dzierżawy. Następnie wybierz określoną subskrypcję chmury z listy i wykonaj jedną z następujących czynności (aby odnowić subskrypcję lub dodać więcej licencji):
+1. Podczas logowania się do **portalu centrum administracyjnego usługi M365** upewnij się, że logujesz się przy użyciu właściwej Azure Active Directory dzierżawy. Następnie wybierz z listy określoną subskrypcję chmury i wykonaj jedną z następujących czynności (aby odnowić subskrypcję lub dodać więcej licencji):
 
-   - Aby odnowić istniejącą subskrypcję, wybierz opcję Rozszerz **datę zakończenia** w obszarze Licencja. Rozszerzenie daty zakończenia spowoduje wydłużenie czasu trwania subskrypcji przy zachowaniu takiej samej liczby licencji/stanowisk. 
+   - Aby odnowić istniejącą subskrypcję, wybierz opcję Rozszerz datę **zakończenia** w obszarze Licencja. Rozszerzenie daty zakończenia spowoduje wydłużenie czasu trwania subskrypcji przy zachowaniu takiej samej liczby licencji/stanowisk. 
 
-   - Aby dodać więcej licencji (stanowisk) do istniejącej subskrypcji, wybierz opcję Dodaj **licencje** w obszarze Licencja. Upewnij się, że nie **wybierasz opcji Dodaj licencje,** jeśli chcesz również odnowić istniejącą subskrypcję. Wybranie **opcji Dodaj licencje** spowoduje skrócenie czasu trwania subskrypcji i zwiększenie liczby licencji w subskrypcji.
+   - Aby dodać więcej licencji (stanowisk) do istniejącej subskrypcji, wybierz opcję Dodaj **licencje** w obszarze Licencja. Upewnij się, że nie **wybierasz opcji Dodaj licencje,** jeśli chcesz odnowić istniejącą subskrypcję. Wybranie **opcji Dodaj licencje** spowoduje skrócenie czasu trwania subskrypcji i zwiększenie liczby licencji w ramach subskrypcji.
 
    :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-4.png" alt-text="Strona produktów platformy Azure i produktów w chmurze przedstawiająca sposób dodawania licencji." border="false":::
 
-1. W panelu bocznym wybierz pozycję **Zrealizuj klucz produktu.** 
+1. W panelu bocznym wybierz pozycję **Zrealizuj klucz produktu**. 
 
 1. Wprowadź klucz produktu, a następnie wybierz pozycję **Weryfikuj,** aby zweryfikować szczegóły klucza. 
 
 1. Wybierz **pozycję Zrealizuj,** aby ukończyć proces.
 
    > [!NOTE]
-   > Każdy klucz produktu zapewnia użytkownikom 12 miesięcy usługi od daty zrealizowania klucza produktu. Jeśli jednak istniejący użytkownicy mają datę wczesnego odnowienia, zostaną uśrednione dwie daty, aby ułatwić zarządzanie subskrypcjami na podstawie jednej daty zakończenia dla wszystkich użytkowników. Podczas obliczania nie jest dodawany ani utracony czas. Obliczenia używane do uśredniania dwóch dat są:
+   > Każdy klucz produktu zapewnia użytkownikom 12 miesięcy pracy od daty zrealizowania klucza produktu. Jeśli jednak istniejący użytkownicy mają datę wczesnego odnowienia, uśrednione zostaną dwie daty, aby ułatwić zarządzanie subskrypcjami na podstawie jednej daty zakończenia dla wszystkich użytkowników. Podczas obliczania nie jest dodawany ani utracony czas. Obliczenie używane do uśredniania dwóch dat jest:
    >
-   > **Obliczenie:** \[ A (użytkownicy początkowi) x B (czas pozostały w subskrypcji) \+ C (nowi użytkownicy) x (12 miesięcy) ÷ łączna liczba użytkowników = pozostały nowy \] czas.
+   > **Obliczenie:** \[ A (użytkownicy początkowi) x B (czas pozostały w subskrypcji) \+ C (nowi użytkownicy) x (12 miesięcy) ÷ całkowita liczba użytkowników = pozostały nowy \] czas.
 
 ## <a name="activate-a-subscription-for-the-first-time"></a>Aktywowanie subskrypcji po raz pierwszy
 
-Wykonaj następujące kroki, jeśli aktywujesz subskrypcję po raz pierwszy. Możesz również wykonać następujące kroki, jeśli subskrypcja jest w stanie wyłączonym lub wygasłym:
+Wykonaj następujące kroki, jeśli aktywujesz subskrypcję po raz pierwszy. Możesz również wykonać następujące kroki, jeśli subskrypcja jest w stanie wyłączenia lub wygaśnięcia:
 
-1. Skopiuj i wklej poniższy link w prywatnym oknie **przeglądarki lub w oknie przeglądarki incognito.**
+1. Skopiuj i wklej poniższy link w prywatnym **oknie przeglądarki lub w oknie przeglądarki incognito.**
    
    [https://signup.microsoft.com/productkeystart](https://signup.microsoft.com/productkeystart)
 1. Upewnij się, że zalogowano się do prawidłowego konta Azure Active Directory dzierżawy. Po zalogowaniu sprawdź szczegóły dzierżawy.
 
-   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-5.png" alt-text="Strona produktów platformy Azure i produktów w chmurze przedstawiająca miejsce dodawania klucza." border="false":::
+   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-5.png" alt-text="Strona produktów platformy Azure i produktów w chmurze z miejscami dodawania klucza." border="false":::
 
 1. Wprowadź 25-cyfrowy klucz uzyskany z Partner Center, a następnie wybierz przycisk **Dalej.**
 

@@ -1,6 +1,6 @@
 ---
 title: Łącznik do współpracy sprzedaży dla usługi Dynamics 365 CRM Partner Center
-description: Synchronizuj polecenia w Partner Center za pomocą łącznika do współpracy sprzedaży dla usługi Dynamics 365 CRM. Następnie możesz sprzedawać z firmą Microsoft z poziomu systemu CRM.
+description: Synchronizuj polecenia w Partner Center z łącznikiem do współpracy sprzedaży dla usługi Dynamics 365 CRM. Następnie możesz sprzedawać z firmą Microsoft z poziomu systemu CRM.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
@@ -8,25 +8,25 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
-ms.openlocfilehash: 798a8a7d26480e8a1fc23bca3af45bd6a0e44778
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 30cfb79cc6dca9cfeab22478726eec2101e4d3b3efbd76008a57164728c481d9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838125"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115680315"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>Łącznik do współpracy sprzedaży dla usługi Dynamics 365 CRM — omówienie
 
 **Odpowiednie role:** Administrator poleceń | Administrator systemu lub customizer systemu w systemie CRM
 
-Partner Center łączniki do współpracy sprzedaży umożliwiają sprzedawcom współpracę z firmą Microsoft z poziomu systemów systemu relacji z klientami (CRM). Nie trzeba ich szkolić do używania Partner Center do zarządzania transakcjami sprzedaży. Użyj łączników do współpracy sprzedaży, aby utworzyć nowe polecenie do współpracy sprzedaży w celu:
+Partner Center łączniki do współpracy sprzedaży umożliwiają sprzedawcom współpracę z firmą Microsoft z poziomu systemów systemu relacji z klientami (CRM). Nie trzeba ich szkolić do używania Partner Center do zarządzania transakcjami sprzedaży. Użyj łączników do współpracy sprzedaży, aby utworzyć nowe polecenie do współpracy sprzedaży:
 
 - Angażowanie sprzedawcy firmy Microsoft
 - Otrzymywanie poleceń od sprzedawcy firmy Microsoft
 - Akceptowanie lub odrzucanie poleceń
 - Modyfikowanie danych transakcji, takich jak wartość transakcji i data zamknięcia 
  
-Możesz również otrzymywać wszelkie aktualizacje od sprzedawców firmy Microsoft dotyczące tych transakcji sprzedaży. Możesz zarządzać wszystkimi poleceniami w wybranej przez ciebie crm, a nie w Partner Center.
+Możesz również otrzymywać wszelkie aktualizacje od sprzedawców firmy Microsoft dotyczące tych transakcji sprzedaży. Możesz zarządzać wszystkimi swoimi poleceniami w systemie CRM, a nie w Partner Center.
 
 Rozwiązanie jest oparte na Power Automate i używa Partner Center API.
 
@@ -37,13 +37,13 @@ Przed zainstalowaniem rozwiązania upewnij się, że spełniasz następujące wy
 | Tematy   | Szczegóły   | Linki   |
 |--------------|--------------------|------|
 | Microsoft Partner Network (MPN) ID |Potrzebny jest prawidłowy identyfikator MPN. | [Dołączanie do sieci partnerów](https://partner.microsoft.com/) |
-| Gotowość do współs sprzedaży|Twoje rozwiązanie ip/usług musi być gotowe do współs sprzedaży. | [Sell with Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft) |
-| Konto Centrum partnerskiego | Identyfikator MPN skojarzony z dzierżawą Partner Center musi być taki sam jak identyfikator MPN skojarzony z rozwiązaniem do współpracy sprzedaży. Przed wdrożeniem łączników sprawdź, czy w portalu usługi Partner Center są dostępne polecenia dotyczące współpracy sprzedaży. | [Zarządzanie kontem](create-user-accounts-and-set-permissions.md) |
-| Partner Center ról użytkownika | Pracownik, który zainstaluje łączniki i będzie z nich korzystać, musi być administratorem poleceń.|[Przypisywanie ról i uprawnień użytkowników](create-user-accounts-and-set-permissions.md) |
-| Dynamics 365 CRM|Rola użytkownika CRM to Administrator systemu lub Customizer systemu.|[Przypisywanie ról w u usługi Dynamics 365](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization) |
-| Power Automate przepływu|Utwórz nowe środowisko produkcyjne z bazą danych do testowania, przemieszczania i produkcji. Jeśli masz istniejące środowisko produkcyjne z bazą danych, możesz użyć go ponownie. Użytkownik, który zamierza zainstalować rozwiązanie łącznika, musi mieć licencję Power Automate dostęp do tego środowiska. Możesz monitorować postęp i uzyskać więcej informacji w Power Automate [przypadku](https://flow.microsoft.com/) niepowodzenia instalacji. Wybierz **pozycję Zobacz historię w** obszarze **Rozwiązania**. | [Tworzenie środowiska lub zarządzanie środowiskiem](/power-platform/admin/create-environment#create-an-environment-with-a-database) |
+| Gotowość do współpracy sprzedaży|Twoje rozwiązanie ip/usług musi być gotowe do współs sprzedaży. | [Sell with Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft) |
+| Konto Centrum partnerskiego | Identyfikator MPN skojarzony z dzierżawą Partner Center musi być taki sam jak identyfikator MPN skojarzony z rozwiązaniem do współs sprzedaży. Przed wdrożeniem łączników sprawdź, czy w portalu Partner Center są dostępne polecenia do współpracy sprzedaży. | [Zarządzanie kontem](create-user-accounts-and-set-permissions.md) |
+| Partner Center ról użytkownika | Pracownik, który zainstaluje łączniki i będzie ich używać, musi być administratorem poleceń.|[Przypisywanie ról i uprawnień użytkowników](create-user-accounts-and-set-permissions.md) |
+| Dynamics 365 CRM|Rolą użytkownika CRM jest administrator systemu lub customizer systemu.|[Przypisywanie ról w u usługi Dynamics 365](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization) |
+| Power Automate przepływu|Utwórz nowe środowisko produkcyjne z bazą danych do testowania, przemieszczania i produkcji. Jeśli masz istniejące środowisko produkcyjne z bazą danych, możesz użyć go ponownie. Użytkownik, który ma zainstalować rozwiązanie łącznika, musi mieć licencję Power Automate i dostęp do tego środowiska. Możesz monitorować postęp i uzyskać więcej informacji w Power Automate [przypadku](https://flow.microsoft.com/) niepowodzenia instalacji. Wybierz pozycję **Zobacz historię w** obszarze **Rozwiązania.** | [Tworzenie środowiska lub zarządzanie środowiskiem](/power-platform/admin/create-environment#create-an-environment-with-a-database) |
 
-## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Instalowanie Partner Center od skierowań dla usługi Dynamics 365 (Power Automate rozwiązanie)
+## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Instalowanie Partner Center od skierowań dla usługi Dynamics 365 (Power Automate rozwiązania)
 
 1. Przejdź do [Power Automate](https://flow.microsoft.com)i wybierz pozycję **Środowiska** w prawym górnym rogu. Ten krok spowoduje pokazanie dostępnych wystąpień CRM.
 
@@ -51,27 +51,27 @@ Przed zainstalowaniem rozwiązania upewnij się, że spełniasz następujące wy
 
 3. Wybierz **pozycję Rozwiązania** po lewej stronie.
 
-4. Wybierz link **Otwórz usługę AppSource** w górnym menu.
+4. Wybierz link **Open AppSource (Otwórz usługę AppSource)** w górnym menu.
 
    :::image type="content" source="images/cosellconnectors/open-appsource.png" alt-text="Zrzut ekranu przedstawiający otwieranie usługi AppSource.":::
 
-5. Wyszukaj **łączniki poleceń Partner Center dla usługi Dynamics 365** w oknie podręcznym.  
+5. Wyszukaj Partner Center **Referrals Connectors for Dynamics 365** w oknie podręcznym.  
 
-6. Wybierz przycisk **Pobierz teraz,** a następnie wybierz pozycję **Kontynuuj.**
+6. Wybierz przycisk **Pobierz teraz, a** następnie wybierz pozycję **Kontynuuj.**
 
 7. Zostanie wyświetlona strona, na której można wybrać środowisko CRM (Dynamics 365), aby zainstalować aplikację. Wyrażanie zgody na warunki i postanowienia.
 
-8. Możesz monitorować postęp, a jeśli instalacja zakończy się niepowodzeniem, możesz uzyskać więcej szczegółów w Power Automate wybierając pozycję **Zobacz** historię w obszarze **Rozwiązania.**
+8. Możesz monitorować postęp, a jeśli instalacja zakończy się niepowodzeniem, możesz uzyskać więcej szczegółów w obszarze Power Automate wybierając pozycję **Zobacz** historię w obszarze **Rozwiązania.**
 
-9. Po zakończeniu instalacji wróć do strony Power Automate [i](https://flow.microsoft.com) wybierz **pozycję Rozwiązania** po lewej stronie. **Partner Center polecenia dla usługi Dynamics 365** jest teraz dostępna na **liście** rozwiązania.
+9. Po zakończeniu instalacji wróć do strony Power Automate [i](https://flow.microsoft.com) wybierz **pozycję Rozwiązania** po lewej stronie. **Partner Center od skierowań dla usługi Dynamics 365** jest teraz dostępna na **liście** rozwiązania.
 
-10. Wybierz **Partner Center polecenia synchronizacji dla usługi Dynamics 365.** Dostępne są Power Automate przepływów i jednostek.
+10. Wybierz **Partner Center synchronizację poleceń dla usługi Dynamics 365.** Poniżej przedstawiono Power Automate przepływów i jednostek.
 
     :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="Zrzut ekranu przedstawiający dostępne crms.":::
 
 ## <a name="test-before-you-go-live"></a>Testowanie przed rozpoczęciem transmisji na żywo
 
-Przed zainstalowaniem, skonfigurowaniem i dostosowaniem Power Automate w środowisku produkcyjnym przetestuj rozwiązanie w przejściowym wystąpieniu crm. Musisz:
+Przed zainstalowaniem, skonfigurowaniem i dostosowaniem rozwiązania Power Automate w środowisku produkcyjnym przetestuj rozwiązanie w przejściowym wystąpieniu crm. Konieczne będzie:
 
 - Zainstaluj Power Automate w wystąpieniu środowiska przejściowego CRM.
 - Skonfiguruj i dostosuj Power Automate w środowisku przejściowym.
@@ -86,17 +86,17 @@ Przed zainstalowaniem, skonfigurowaniem i dostosowaniem Power Automate w środow
 
 3. Należy utworzyć połączenia, które kojarzą trzy konta użytkowników:
 
-   - Partner Center z poświadczeniami administratora poleceń
+   - Partner Center użytkownika z poświadczeniami administratora poleceń
    - Zdarzenia Centrum partnerskiego
-   - Administrator CRM z przepływami Power Automate w rozwiązaniu
+   - Administrator crm z przepływami Power Automate w rozwiązaniu
 
-   a. Wybierz **pozycję** Połączenia po lewej stronie, a następnie **wybierz Partner Center polecenia** z listy.
+   a. Wybierz **pozycję** Połączenia po lewej stronie i wybierz **Partner Center polecenia** z listy.
 
    b. Utwórz połączenie, wybierając **pozycję Utwórz połączenie.**
 
       :::image type="content" source="images/cosellconnectors/dynamics-1.png" alt-text="Zrzut ekranu przedstawiający tworzenie połączenia.":::
 
-   c. Wyszukaj Partner Center **poleceń (wersja zapoznawcza)** na pasku wyszukiwania w prawym górnym rogu.
+   c. Wyszukaj Partner Center **polecenia (wersja zapoznawcza)** na pasku wyszukiwania w prawym górnym rogu.
 
    d. Utwórz połączenie dla użytkownika Partner Center z rolą poświadczeń administratora poleceń.
 
@@ -110,15 +110,15 @@ Przed zainstalowaniem, skonfigurowaniem i dostosowaniem Power Automate w środow
 
 ## <a name="edit-the-connections"></a>Edytowanie połączeń
 
-1. Wróć do strony **Rozwiązania** i wybierz pozycję **Rozwiązanie domyślne.** Wybierz **pozycję Odwołanie do połączenia (wersja zapoznawcza),** wybierając pozycję **Wszystkie.**
+1. Wróć do strony **Rozwiązania i** wybierz pozycję **Rozwiązanie domyślne.** Wybierz **pozycję Odwołanie do połączenia (wersja zapoznawcza),** wybierając pozycję **Wszystkie.**
 
    :::image type="content" source="images/connection-reference-video.gif" alt-text="Zrzut ekranu przedstawiający edytowanie połączeń.":::
 
 2. Edytuj poszczególne połączenia pojedynczo, wybierając ikonę wielokropka. Dodaj odpowiednie połączenia.
 
-   :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Zrzut ekranu przedstawiający wymienione połączenia.":::
+   :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Zrzut ekranu przedstawiający listę połączeń.":::
 
-3. Wróć do strony **Rozwiązania,** wybierz pozycję Partner Center Synchronizacja poleceń dla usługi **Dynamics 365** i włącz przepływ, wybierając ikonę wielokropka obok każdego przepływu w poniższej sekwencji. Jeśli podczas włączanie przepływu wystąpią jakiekolwiek problemy, zobacz [Kroki](connector-dynamics.md#customize-synchronization-steps) dostosowywania i [Kroki rozwiązywania problemów.](connectors-troubleshoot.md)
+3. Wróć do strony **Rozwiązania,** wybierz pozycję **Partner Center Referrals Synchronization for Dynamics 365**(Synchronizacja poleceń dla usługi Dynamics 365) i włącz przepływ, wybierając ikonę wielokropka obok każdego przepływu w poniższej sekwencji. Jeśli napotkasz jakiekolwiek problemy podczas włączanie przepływu, zobacz [Kroki](connector-dynamics.md#customize-synchronization-steps) dostosowywania i [Kroki rozwiązywania problemów.](connectors-troubleshoot.md)
 
    Włącz przepływy w następującej kolejności:
 
@@ -142,7 +142,7 @@ Przed zainstalowaniem, skonfigurowaniem i dostosowaniem Power Automate w środow
  
 ## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Rejestrowanie zdarzeń zmiany zasobów za pomocą interfejsów API elementy webhook
 
-Możesz użyć interfejsów API Partner Center webhook, aby zarejestrować się w celu rejestrowania zdarzeń zmiany zasobów. Te zdarzenia zmiany są wysyłane na adres URL jako wpisy HTTP.
+Interfejsy API Partner Center webhook można użyć do rejestrowania zdarzeń zmiany zasobów. Te zdarzenia zmiany są wysyłane na adres URL jako wpisy HTTP.
 
 1. Wybierz **Partner Center do usługi Dynamics 365 (niejawny program testów w wersji zapoznawczej).**
 
@@ -168,21 +168,21 @@ Ten webhook może teraz nasłuchiwać, tworzyć i aktualizować zdarzenia.
 
 ## <a name="customize-synchronization-steps"></a>Dostosowywanie kroków synchronizacji
 
-Systemy CRM są wysoce dostosowane i można dostosować Power Automate oparte na konfiguracji CRM. Gdy polecenia dotyczące współpracy sprzedaży są synchronizowane między usługą Partner Center a systemem CRM, pola, które są synchronizowane na komputerze z systemem Partner Center, są wymienione w przewodniku mapowania pól [niestandardowych.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxL6S)
+Systemy CRM są wysoce dostosowane i można dostosować Power Automate oparte na konfiguracji CRM. Gdy polecenia dotyczące współpracy sprzedaży są synchronizowane między usługą Partner Center i systemem CRM, pola, które są synchronizowane na komputerze Partner Center, są wymienione w przewodniku mapowania pól [niestandardowych.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxL6S)
 
-Postępuj zgodnie z przewodnikiem mapowania pól i w razie potrzeby w obszarze [Dostosuj] utwórz lub pobierz szczegóły z przepływu lub zmiennych środowiskowych usługi **Dynamics 365.** Nie aktualizuj żadnych innych przepływów w rozwiązaniu Power Automate, ponieważ może to mieć wpływ na przyszłe uaktualnienia rozwiązania.
+Postępuj zgodnie z przewodnikiem mapowania pól i w razie potrzeby w obszarze [Dostosuj] Utwórz lub pobierz szczegóły z przepływu lub zmiennych środowiskowych usługi **Dynamics 365.** Nie aktualizuj żadnych innych przepływów w rozwiązaniu Power Automate, ponieważ może to mieć wpływ na przyszłe uaktualnienia rozwiązania.
 
 Dostępne są następujące dostosowania:
 
 - **Wyświetl znacznik wyboru** w nazwie szansy sprzedaży: domyślnie obok nazwy szansy sprzedaży będzie wyświetlany znacznik wyboru, aby wskazać, że synchronizacja między usługami Partner Center i Dynamics 365 CRM odbywa się pomyślnie. Podobnie w przypadku niepowodzenia synchronizacji zostanie wyświetlony znak krzyżowy. Aby uniknąć dodawania znacznika wyboru lub krzyżyka w  nazwie szansy sprzedaży, ustaw bieżącą wartość znacznika wyboru Wyświetl w zmiennej środowiskowej nazwy szansy sprzedaży na nie.
-- **Wartość transakcji:** domyślnie wartość transakcji z Partner Center będzie synchronizowana z i z `estimatedvalue` systemu CRM. Jeśli w programie CRM masz inne pole, z których ma być zsynchronizowana wartość transakcji:
+- **Wartość transakcji:** domyślnie wartość transakcji z Partner Center będzie synchronizowana z i z systemu `estimatedvalue` CRM. Jeśli w programie CRM masz inne pole, z których ma być zsynchronizowana wartość transakcji:
 
   - Zaktualizuj nazwę **pola Wartość** transakcji w zmiennej środowiskowej usługi Dynamics 365 przy użyciu nazwy pola CRM. Upewnij się, że po podaj nazwę pola, a nie jego nazwę wyświetlaną.
-  - Edytuj pozycję [Dostosuj] Utwórz lub pobierz szczegóły z przepływu **usługi Dynamics 365,** a  następnie przejdź do tematu Tworzenie lub aktualizowanie szansy sprzedaży w programie CRM i zaktualizuj pozycję Utwórz nową szansę sprzedaży i Zaktualizuj istniejące akcje szansy sprzedaży, aby przypisać wartość **DealValue** do poprawnego pola w systemie CRM.   Ponadto usuń przypisanie **DealValue** z pola **Szacowany przychód.**
+  - Edytuj pozycję [Dostosuj] Utwórz lub pobierz szczegóły z przepływu **usługi Dynamics 365,** a  następnie przejdź do tematu Tworzenie lub aktualizowanie szansy sprzedaży w programie CRM i zaktualizuj pozycję Utwórz nową szansę sprzedaży i Zaktualizuj istniejące akcje szansy sprzedaży, aby przypisać wartość **DealValue** do poprawnego pola w systemie CRM.   Ponadto usuń przypisanie **DealValue** z pola **Estimated Revenue (Szacowany przychód).**
 
 - **Kod kraju konta klienta:** podczas tworzenia nowego polecenia musisz podać dwuliterowy kod kraju (ISO 3166). Domyślnie kod kraju będzie synchronizowany z i z pola address1_country **konta** w programie CRM. Jeśli w programie CRM masz inne pole, z których ma być synchronizowane kod kraju:
 
-  - W przypadku pola kodu kraju bez funkcjilookup na koncie,  które zawiera kod dwuliterowy, zaktualizuj nazwę pola Kod kraju konta klienta w zmiennej środowiskowej usługi Dynamics 365 przy użyciu nazwy pola CRM. Upewnij się, że po podaj nazwę pola, a nie jego nazwę wyświetlaną. Edytuj pozycję [Dostosuj] Utwórz lub pobierz szczegóły z przepływu **usługi Dynamics 365,** **a** następnie przejdź do tematu Tworzenie lub uzyskiwanie konta klienta w akcji CRM, aby przypisać wartość Country (Kraj) do poprawnego pola w programie CRM.  Ponadto usuń przypisanie **wartości** Country (Kraj) z **pola Address 1: Country/Region (Adres 1: kraj/region).**
+  - W przypadku pola kodu kraju nielookup na koncie, które  zawiera kod dwuliterowy, zaktualizuj nazwę pola Kod kraju konta klienta w zmiennej środowiskowej usługi Dynamics 365 przy użyciu nazwy pola CRM. Upewnij się, że po podaj nazwę pola, a nie jego nazwę wyświetlaną. Edytuj pozycję [Dostosuj] Utwórz lub pobierz szczegóły z przepływu **usługi Dynamics 365,** **a** następnie przejdź do tematu Tworzenie lub uzyskiwanie konta klienta w akcji CRM, aby przypisać wartość Country (Kraj) do poprawnego pola w crm.  Ponadto usuń przypisanie **wartości** Country (Kraj) z **pola Address 1: Country/Region (Adres 1: kraj/region).**
 
   - W przypadku pola kodu kraju opartego na wyszukiwaniach na koncie dodaj nowe pole niestandardowe na koncie i wypełnij je automatycznie dwuliterowym kodem kraju (ISO 3166) na podstawie wartości wybranej w polu opartym na wyszukiwaniach i na odwrót. Wykonaj powyższe kroki dla pola kodu kraju bez funkcji wykupu, aby zsynchronizować nowe pole niestandardowe z usługi CRM do i z Partner Center.
 
@@ -210,7 +210,7 @@ Po zainstalowaniu, skonfigurowaniu i dostosowaniu rozwiązania Power Automate mo
 
 Aby zsynchronizować polecenia w usługach Partner Center i Dynamics 365 CRM, rozwiązanie Power Automate wyraźnie oznacza pola poleceń specyficzne dla firmy Microsoft. Ta identyfikacja daje zespołom sprzedawców możliwość decydowania o tym, które polecenia chcą udostępnić firmie Microsoft w celu współpracy sprzedaży.
 
-Zestaw niestandardowych pól i obiektów zostanie dodany w ramach instalacji rozwiązania. Administrator systemu CRM będzie musiał utworzyć oddzielną sekcję CRM z niestandardowymi polami **Szansa** sprzedaży.
+Zestaw niestandardowych pól i obiektów zostanie dodany w ramach instalacji rozwiązania. Administrator systemu CRM musi utworzyć oddzielną sekcję CRM z niestandardowymi polami **Szansa** sprzedaży.
 
 W sekcji CRM powinny być częścią następujących pól niestandardowych:
 
@@ -222,21 +222,21 @@ W sekcji CRM powinny być częścią następujących pól niestandardowych:
 - **Microsoft CRM identyfikator:** po utworzeniu i zaakceptowaniu polecenia do współpracy sprzedaży przez firmę Microsoft to pole zostanie wypełnione identyfikatorem CRM firmy Microsoft.
 - **Produkty: Przestarzałe:** nie używaj tego pola ani nie dodawaj go do sekcji CRM. Jest ona dostępna tylko w przypadku zgodności z poprzednimi wersjami. Zamiast Partner Center rozwiązań.
 - **Inspekcja:** dziennik inspekcji tylko do odczytu do synchronizacji z Partner Center poleceniami.
-- **Microsoft Partner Center Solutions:** niestandardowy obiekt kojarzący gotowe rozwiązania do współpracy lub rozwiązania firmy Microsoft z szansami sprzedaży. Co najmniej jedno rozwiązanie można dodać lub usunąć z szansy sprzedaży. Przed udostępnieniem go firmie Microsoft należy dodać do szansy sprzedaży co najmniej jedno gotowe do sprzedaży lub rozwiązanie firmy Microsoft. Aby skojarzyć ten obiekt z szansą sprzedaży, zaktualizuj formularz **Szansa** sprzedaży w systemie CRM.
+- **Microsoft Partner Center Solutions:** niestandardowy obiekt do kojarzenia gotowych rozwiązań do współs sprzedaży lub rozwiązań firmy Microsoft z szansami sprzedaży. Co najmniej jedno rozwiązanie można dodać lub usunąć z szansy sprzedaży. Przed udostępnieniem go firmie Microsoft należy dodać do szansy sprzedaży co najmniej jedno rozwiązanie firmy Microsoft gotowe do sprzedaży. Aby skojarzyć ten obiekt z szansą sprzedaży, zaktualizuj formularz **Szansa** sprzedaży w systemie CRM.
 
-  Wybierz odpowiednią kartę w **formularzu Szansa** sprzedaży i dodaj podsiatę, jak pokazano poniżej.
+  Wybierz odpowiednią kartę w formularzu **Szansa** sprzedaży i dodaj podsiatę, jak pokazano poniżej.
 
   :::image type="content" source="images/cosellconnectors/dynamics-6.png" alt-text="Zrzut ekranu przedstawiający formularz Szansa sprzedaży.":::
 
   :::image type="content" source="images/cosellconnectors/dynamics-7.png" alt-text="Zrzut ekranu przedstawiający rozwiązania firmy Microsoft.":::
 
-- Po dodaniu rozwiązań firmy Microsoft możesz wstępnie zasypować szczegóły gotowego rozwiązania do współsprzedaży, aby sprzedawcy nie mieli ich dodawać. Aby dodać nowe szczegóły rozwiązania, przejdź do obiektu Szczegóły  rozwiązania firmy Microsoft w systemie CRM i wybierz pozycję Dodaj rekord, aby dodać jeden wpis, lub użyj Excel **przekazywania,** aby dodać wiele wpisów.
+- Po dodaniu rozwiązań firmy Microsoft możesz wstępnie zasypować szczegóły gotowego rozwiązania do współsprzedaży, aby sprzedawcy nie potrzebli ich dodawać. Aby dodać nowe szczegóły rozwiązania, przejdź do obiektu Szczegóły  rozwiązania firmy Microsoft w systemie CRM i wybierz pozycję Dodaj rekord, aby dodać jeden wpis, lub użyj Excel **przekazywania,** aby dodać wiele wpisów.
 
   :::image type="content" source="images/cosellconnectors/dynamics-solution-1.png" alt-text="Zrzut ekranu przedstawiający szczegóły nowego rozwiązania firmy Microsoft.":::
 
 ### <a name="scenarios"></a>Scenariusze
 
-1. Synchronizacja poleceń, gdy polecenie jest tworzone lub aktualizowane w systemie CRM i synchronizowane w Partner Center:
+1. Synchronizacja poleceń podczas tworzenia lub aktualizowania poleceń w systemie CRM i synchronizowania ich Partner Center:
 
    1. Zaloguj się do środowiska CRM usługi Dynamics 365 przy użyciu użytkownika, który ma wgląd w sekcję **Opportunity** (Szansa sprzedaży) w chmurze CRM.
 
@@ -250,31 +250,31 @@ W sekcji CRM powinny być częścią następujących pól niestandardowych:
 
          :::image type="content" source="images/cosellconnectors/dynamics-solution-3.png" alt-text="Zrzut ekranu przedstawiający sposób uzyskania odpowiednich pól w widoku karty.":::
 
-      - **Kontakt z** klientem: aby utworzyć polecenie współpracy sprzedaży, dodaj kontakt klienta do szansy sprzedaży.
+      - **Kontakt z** klientem: Aby utworzyć polecenie do współpracy sprzedaży, dodaj kontakt klienta do szansy sprzedaży.
       - **Synchronizuj z Partner Center:** Tak.
-      - **Rozwiązania firmy Microsoft:** Aby udostępnić polecenie firmie Microsoft, dodaj do szansy sprzedaży prawidłowe rozwiązanie gotowe do współpracy lub rozwiązanie firmy Microsoft.
+      - **Rozwiązania firmy Microsoft:** Aby udostępnić polecenie firmie Microsoft, dodaj do szansy sprzedaży prawidłowe gotowe rozwiązanie do współpracy lub rozwiązanie firmy Microsoft.
 
         :::image type="content" source="images/cosellconnectors/dynamics-solution-4.png" alt-text="Zrzut ekranu przedstawiający identyfikator rozwiązania.":::
 
-   1. Po utworzeniu szansy sprzedaży w u programie Dynamics 365 z opcją **Synchronizuj z Partner Center** ustawioną na Tak, poczekaj 10 minut. Następnie zaloguj się do swojego Partner Center konta. Twoje polecenia zostaną zsynchronizowane z programem Dynamics 365 i **identyfikatorem polecenia**. **Link polecenia** zostanie wypełniony. W przypadku awarii pole **Inspekcja** zostanie wypełnione informacjami o błędzie.
+   1. Po utworzeniu szansy sprzedaży w uchu Dynamics 365 z opcją **Synchronizuj** z Partner Center ustawioną na wartość Tak zaczekaj 10 minut. Następnie zaloguj się do swojego Partner Center konta. Twoje polecenia zostaną zsynchronizowane z programem Dynamics 365 i **identyfikatorem poleceń**. **Link do** polecenia zostanie wypełniony. Jeśli wystąpi błąd, pole **Inspekcja** zostanie wypełnione informacjami o błędzie.
 
-      1. Podobnie w przypadku szansy sprzedaży, dla których opcja Synchronizuj z usługą **Partner Center** została ustawiona na tak, w przypadku zaktualizowania szansy sprzedaży w programie Dynamics 365 CRM zmiany zostaną zsynchronizowane na Partner Center klienta.
+      1. Podobnie w przypadku szansy sprzedaży, dla których opcja Synchronizuj z usługą **Partner Center** została ustawiona na wartość Tak, jeśli zaktualizujemy możliwość w programie Dynamics 365 CRM, zmiany zostaną zsynchronizowane na Partner Center magazynu.
 
-      1. Szanse sprzedaży, które są pomyślnie synchronizowane Partner Center z ✔icon w u usługi Dynamics 365.
+      1. Szanse sprzedaży pomyślnie zsynchronizowane z Partner Center zostaną zidentyfikowane za pomocą ✔icon w u usługi Dynamics 365.
 
 1. Synchronizacja od skierowań, gdy polecenie jest tworzone lub aktualizowane Partner Center i synchronizowane w środowisku usługi Dynamics 365:
 
-   1. Zaloguj się do swojego Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard/home)
+   1. Zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard/home)
 
    1. Wybierz **pozycję Polecenia** z menu po lewej stronie.
 
-   1. Utwórz nowe polecenie współpracy sprzedaży z Partner Center, wybierając opcję **Nowa transakcja.**
+   1. Utwórz nowe polecenie współpracy sprzedaży z Partner Center, wybierając **opcję Nowa transakcja.**
 
    1. Zaloguj się do środowiska CRM usługi Dynamics 365.
 
-   1. Przejdź do okna **Otwieranie szans sprzedaży.** Polecenie utworzone w u Partner Center jest teraz synchronizowane w programie Dynamics 365 CRM.
+   1. Przejdź do okna **Otwieranie szans sprzedaży.** Polecenia utworzone w Partner Center są teraz synchronizowane w uchu Dynamics 365 CRM.
 
-   1. Po wybraniu zsynchronizowanego polecenia zostaną wypełnione szczegóły widoku karty.
+   1. Po wybraniu zsynchronizowanego odwołania zostaną wypełnione szczegóły widoku karty.
 
 ## <a name="next-steps"></a>Następne kroki
 

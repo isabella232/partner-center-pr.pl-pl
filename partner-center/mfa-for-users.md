@@ -3,18 +3,18 @@ title: Konfigurowanie użytkowników przy użyciu uwierzytelniania wieloskładni
 ms.topic: how-to
 ms.date: 12/15/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Dowiedz się, jak skonfigurować pracowników przy użyciu usługi MFA
 author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ee457193a23de0601b60b2291cdee985aceaaeb8
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 4ff0aa89224c13eddcc6b935c8494188298aeb12
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114846115"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100726"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Konfigurowanie użytkowników przy użyciu uwierzytelniania wieloskładnikowego
 

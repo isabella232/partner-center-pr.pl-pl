@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/21/2021
-ms.openlocfilehash: c1bc82e852c6777bc9e8c01a33b0976269e31b2f
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: cac2d1443fd47f45a70729bf034e65f33861e73698633938ae196e274f4a382b
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843599"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681386"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Dowiedz się, jak przenieść subskrypcje platformy Azure klienta do innego partnera
 
@@ -24,7 +24,7 @@ ms.locfileid: "114843599"
 
 W tym artykule opisano, jak klient może przełączyć swoje usługi Microsoft Azure z jednego Dostawca rozwiązań w chmurze (CSP) na inny po zakupie poprzedniej oferty platformy Azure w programie CSP.
 
-Po fazie 1 zmian wprowadzonych w poprzedniej ofercie platformy Azure w programie [CSP](https://go.microsoft.com/fwlink/p/?linkid=2164140)dla wszystkich istniejących relacji odsprzedawcy między partnerami i klientami w programie CSP partner może kontynuować transakcję poprzedniej oferty platformy Azure (MS-AZR-0145p), jeśli klient już ją kupił. W przypadku wszystkich istniejących relacji odsprzedawcy między partnerami i klientami, jeśli klient nie zakupił wcześniej poprzedniej oferty platformy Azure, partner może korzystać tylko z nowej oferty platformy Azure.
+Po fazie 1 zmian wprowadzonych w poprzedniej ofercie platformy Azure w programie [CSP](https://go.microsoft.com/fwlink/p/?linkid=2164140)dla wszystkich istniejących relacji odsprzedawcy między partnerami i klientami w programie CSP partner może kontynuować transakcję poprzedniej oferty platformy Azure (MS-AZR-0145p), jeśli klient już ją kupił. W przypadku wszystkich istniejących relacji odsprzedawcy między partnerami i klientami, jeśli klient nie zakupił wcześniej poprzedniej oferty platformy Azure, partner może tylko transakcyjnie korzystać z nowej oferty platformy Azure.
 
 - Jeśli bieżący i przyszły partner mają aktywne poprzednie subskrypcje ofert platformy **Azure** z klientem, poprzednie oferty platformy Azure (MS-AZR-0145p) opisane w tym dokumencie między bieżącym i przyszłym partnerem będą nadal dostępne po fazie 1, o ile obydwaj partnerzy zachowają aktywne poprzednie subskrypcje ofert platformy Azure. Ta możliwość przeniesienia zakończy się, gdy przyszły partner nie ma już aktywnych poprzednich subskrypcji ofert platformy Azure lub gdy poprzednia oferta platformy Azure (MS-AZR-0145p) w programie CSP zostanie trwale wycofana w fazie 3.
 
@@ -37,11 +37,11 @@ Aby przełączyć usługi lub subskrypcje platformy Azure klienta na innego part
 
 > [!NOTE]  
 > Obecnie tylko bezpośredni lub pośredni dostawcy mogą przenosić subskrypcje.
-> Nie można zmieniać partnerów dla subskrypcji Dostawca rozwiązań w chmurze platformy Azure skojarzonych z planem platformy Azure, Office 365, Enterprise Mobility Suite ani Microsoft Dynamics CRM subskrypcjami.
+> Nie można zmienić partnerów dla subskrypcji Dostawca rozwiązań w chmurze platformy Azure skojarzonych z planem platformy Azure, Office 365, Enterprise Mobility Suite ani Microsoft Dynamics CRM subskrypcjami.
 
 ## <a name="transfer-azure-subscriptions-to-another-partner-with-the-previous-azure-offer"></a>Przenoszenie subskrypcji platformy Azure do innego partnera z poprzednią ofertą platformy Azure
 
-1. Aby przenieść subskrypcję platformy Azure do nowego partnera z poprzednią ofertą platformy Azure, klient musi rozpocząć proces i skontaktować się ze swoim bieżącym partnerem z rekordami w zapisie.
+1. Aby przenieść subskrypcję platformy Azure do nowego partnera z poprzednią ofertą platformy Azure, klient musi rozpocząć proces i skontaktować się ze swoim bieżącym partnerem rekordu w formie zapisu.
 
    > [!NOTE]
    > Bieżący partner odpowiada za utworzenie biletu usługi, który inicjuje proces transferu. Firma Microsoft nie może interweniować w imieniu klienta lub nowego partnera. Klient powinien zaplanować ścisłą współpracę z bieżącym partnerem, aby przejście przebiegało bezproblemowo.
@@ -61,7 +61,7 @@ Aby przełączyć usługi lub subskrypcje platformy Azure klienta na innego part
 
    Do ukończenia formularza potrzebne są następujące informacje:
 
-   - Informacje kontaktowe bieżącego partnera i identyfikator Microsoft ID. W menu Partner Center wybierz pozycję **Ustawienia** konta Profil organizacji i użyj wymienionych w nich pozycji &gt; Identyfikator **firmy Microsoft,** Nazwa organizacji **i** Adres.
+   - Informacje kontaktowe bieżącego partnera i identyfikator Microsoft ID. W menu Partner Center wybierz pozycję **Ustawienia** konta Profil organizacji, a następnie użyj wymienionych w nich pozycji &gt; Identyfikator **firmy Microsoft,** Nazwa organizacji **i** Adres.
    - Identyfikator Microsoft klienta. W menu Partner Center wybierz pozycję **Klienci,** a następnie rozwiń listę klientów, aby wyświetlić jego **identyfikator Microsoft.**
    - Identyfikator subskrypcji do przeniesienia. Na rozwiniętej liście klientów wybierz pozycję **Wyświetl subskrypcje,** a następnie rozwiń wybraną subskrypcję, aby wyświetlić **identyfikator subskrypcji**.
 
@@ -72,7 +72,7 @@ Aby przełączyć usługi lub subskrypcje platformy Azure klienta na innego part
 
    Przejrzyj formularz, wypełnij informacje o nowym partnerze i podpisz go. Upewnij się, że nowy klient ma podpisaną umowę. Wyślij formularz z powrotem do bieżącego partnera rekordów.
 
-   *Ważne:* Jeśli nowy partner CSP nie ma relacji odsprzedawcy z klientem, musi go ustanowić przed przeniesieniem subskrypcji. [Informacje na temat tego, jak to zrobić, można znaleźć tutaj.](request-a-relationship-with-a-customer.md)
+   *Ważne:* Jeśli nowy partner CSP nie ma relacji odsprzedawcy z klientem, musi ustanowić go przed przeniesieniem subskrypcji. [Informacje na temat tego, jak to zrobić, można znaleźć tutaj.](request-a-relationship-with-a-customer.md)
 
    > [!NOTE]
    > Nowy partner CSP i dzierżawa klienta muszą znajdować się w tym samym kraju. 
@@ -92,9 +92,9 @@ Aby przełączyć usługi lub subskrypcje platformy Azure klienta na innego part
      ```
 
      > [!NOTE]
-     > Identyfikator dzierżawy **klienta jest wyświetlany** w Partner Center jako identyfikator microsoft **klienta**. Aby znaleźć identyfikator Microsoft (identyfikator dzierżawy) dla określonego klienta, zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard) Następnie wybierz **pozycję Klienci** z menu. Znajdź klienta na liście. Wybierz strzałkę w dół, aby rozwinąć ofertę klienta. Zobaczysz informacje o nazwie domeny klienta *i* identyfikatorze **microsoft klienta**. Użyj 16-cyfrowego **identyfikatora Microsoft ID w** poleceniu polecenia programu PowerShell.
+     > Identyfikator dzierżawy **klienta jest wyświetlany** w Partner Center jako identyfikator microsoft **klienta**. Aby znaleźć identyfikator Microsoft (identyfikator dzierżawy) dla określonego klienta, zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard) Następnie wybierz **pozycję Klienci** z menu. Znajdź klienta na liście. Wybierz strzałkę w dół, aby rozwinąć ofertę klienta. Zobaczysz informacje o nazwie domeny klienta *i* identyfikatorze **microsoft klienta**. Użyj 16-cyfrowego identyfikatora **Microsoft ID w** poleceniu polecenia programu PowerShell.
 
-   - Wyświetl role na koncie, w tym poprzednich partnerów CSP:
+   - Wyświetlanie ról na koncie, w tym poprzednich partnerów CSP:
 
      ```powershell
      Get-AzRoleAssignment

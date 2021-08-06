@@ -1,6 +1,6 @@
 ---
 title: Pierwsze wywołanie interfejsu API w celu uzyskania dostępu do danych analitycznych szczegółowych informacji partnerów
-description: Przykłady, w których dowiesz się, jak korzystać z interfejsu API w celu uzyskiwania dostępu do danych analitycznych szczegółowych informacji partnerów.
+description: Przykłady, na których można dowiedzieć się, jak korzystać z interfejsu API w celu uzyskiwania dostępu do danych analitycznych szczegółowych informacji partnerów.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
@@ -8,22 +8,22 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 9aac83645051f3e8f32945ae908ba1fe47c08d13
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 76fb1b113a44e195114d67d79f192b3c2dce1071b7502f01af20387f69d62a8f
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840029"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697469"
 ---
 # <a name="make-your-first-api-call-to-access-partner-insights-analytics-data"></a>Pierwsze wywołanie interfejsu API w celu uzyskania dostępu do danych analitycznych szczegółowych informacji partnerów
 
-Aby uzyskać listę interfejsów API do uzyskiwania dostępu do danych analitycznych szczegółowych informacji partnerów, zobacz Interfejsy API służące do uzyskiwania dostępu do danych [analitycznych szczegółowych informacji partnerów.](insights-programmatic-analytics-available-api.md) Przed pierwszym wywołaniem interfejsu API upewnij [](insights-programmatic-prerequisites.md) się, że spełniliśmy wymagania wstępne programowego uzyskiwania dostępu do aplikacji Partner Szczegółowe informacje danych analitycznych.
+Aby uzyskać listę interfejsów API na temat uzyskiwania dostępu do danych analitycznych szczegółowych informacji partnerów, zobacz Interfejsy API służące do uzyskiwania dostępu do danych analitycznych [szczegółowych informacji partnerów.](insights-programmatic-analytics-available-api.md) Przed pierwszym wywołaniem interfejsu API upewnij [](insights-programmatic-prerequisites.md) się, że spełniliśmy wymagania wstępne programowego uzyskiwania dostępu do danych analitycznych Szczegółowe informacje partnerów.
 
 ## <a name="token-generation"></a>Generowanie tokenu
 
-Przed wywołaniem dowolnej z metod należy najpierw uzyskać token Azure Active Directory (AAD). Należy przekazać token dostępu usługi Azure AD do nagłówka autoryzacji każdej metody w interfejsie API. Po uzyskaniu tokenu dostępu masz 60 minut na jego użycie, zanim wygaśnie. Po wygaśnięciu tokenu możesz odświeżyć token i nadal używać go do dalszych wywołań interfejsu API.
+Przed wywołaniem dowolnej z metod należy najpierw uzyskać token Azure Active Directory (AAD). Należy przekazać token dostępu usługi Azure AD do nagłówka Autoryzacja każdej metody w interfejsie API. Po uzyskaniu tokenu dostępu masz 60 minut na jego użycie przed wygaśnięciem. Po wygaśnięciu tokenu możesz odświeżyć token i nadal używać go do dalszych wywołań interfejsu API.
 
-Zapoznaj się z poniższym przykładowym żądaniem generowania tokenu. Trzy wartości, które są wymagane do wygenerowania tokenu, to `clientId` `clientSecret` , i `tenantId` . Parametr zasobu powinien być ustawiony na `https://api.partnercenter.microsoft.com`
+Zapoznaj się z poniższym przykładowym żądaniem generowania tokenu. Trzy wartości wymagane do wygenerowania tokenu to `clientId` , `clientSecret` i `tenantId` . Parametr zasobu powinien być ustawiony na `https://api.partnercenter.microsoft.com`
 
 #### <a name="request-example"></a>Przykład żądania
 
@@ -55,16 +55,16 @@ curl --location --request POST 'https://login.microsoftonline.com/<tenantId>/oau
 }
 ```
 
-Aby uzyskać więcej informacji na temat uzyskiwania tokenu usługi Azure AD dla aplikacji, zobacz Access analytics data using Store services (Uzyskiwanie dostępu do danych [analitycznych przy użyciu usług Store).](/windows/uwp/monetize/access-analytics-data-using-windows-store-services#step-2-obtain-an-azure-ad-access-token)
+Aby uzyskać więcej informacji na temat sposobu uzyskiwania tokenu usługi Azure AD dla aplikacji, zobacz [Access analytics data using Store services (Uzyskiwanie](/windows/uwp/monetize/access-analytics-data-using-windows-store-services#step-2-obtain-an-azure-ad-access-token) dostępu do danych analitycznych przy użyciu usług Store Services).
 
 ## <a name="programmatic-api-call"></a>Programowe wywołanie interfejsu API
 
-Po uzyskaniu tokenu usługi AAD zgodnie z opisem w poprzedniej sekcji wykonaj następujące kroki, aby utworzyć pierwszy raport dostępu programowego.
+Po uzyskaniu tokenu usługi AAD zgodnie z opisem w poprzedniej sekcji wykonaj następujące kroki, aby utworzyć pierwszy programowy raport dostępu.
 
 Dane można pobrać z następujących zestawów danych (datasetName):
 
 - CustomersAndTenants
-- SeatsSubscriptionsAndRevenue
+- MiejscaSubskrypcje IRavenue
 - AzureUsage
 - MsLearn
 - OfficeUsage
@@ -84,11 +84,11 @@ Dane można pobrać z następujących zestawów danych (datasetName):
 - TeamsUsageWorkload
 - TeamsUsageMeetingsAndCalls
 
-W poniższej sekcji przedstawiono przykłady programowego dostępu z zestawu `SubscriptionId` danych DynamicsUsage.
+W poniższej sekcji przedstawiono przykłady programowego uzyskiwania dostępu z `SubscriptionId` zestawu danych DynamicsUsage.
 
 ### <a name="step-1-make-a-rest-call-using-the-get-datasets-api"></a>Krok 1. Wywołanie REST przy użyciu interfejsu API pobierz zestawy danych
 
-Odpowiedź interfejsu API zawiera nazwę zestawu danych, z którego można pobrać raport. W przypadku określonego zestawu danych odpowiedź interfejsu API zawiera również listę poszczególnych kolumn, których można użyć na podstawie niestandardowego szablonu raportu. Możesz również odwołać się do [definicji danych,](insights-data-definitions.md) aby uzyskać nazwy kolumn.
+Odpowiedź interfejsu API zawiera nazwę zestawu danych, z którego można pobrać raport. W przypadku określonego zestawu danych odpowiedź interfejsu API zawiera również listę poszczególnych kolumn, których można użyć dla niestandardowego szablonu raportu. Możesz również odwołać się do [definicji danych,](insights-data-definitions.md) aby uzyskać nazwy kolumn.
 
 #### <a name="request-example"></a>Przykład żądania
 
@@ -164,7 +164,7 @@ curl
 
 ### <a name="step-2-create-the-custom-query"></a>Krok 2. Tworzenie zapytania niestandardowego
 
-W tym kroku użyjemy właściwości SubscriptionId z zestawu danych DynamicsUsage, aby utworzyć zapytanie niestandardowe dla raportu, którego potrzebujemy. Domyślny okres, jeśli nie zostanie określony w zapytaniu, wynosi 6 miesięcy.
+W tym kroku użyjemy właściwości SubscriptionId z zestawu danych DynamicsUsage, aby utworzyć zapytanie niestandardowe dla raportu, którego potrzebujemy. Domyślny limit czasu, jeśli nie zostanie określony w zapytaniu, wynosi 6 miesięcy.
 
 #### <a name="request-example"></a>Przykład żądania
 
@@ -269,7 +269,7 @@ curl
 
 ### <a name="step-4-create-the-report"></a>Krok 4. Tworzenie raportu
 
-W tym kroku użyjemy wcześniej wygenerowanego queryId do utworzenia raportu.
+W tym kroku użyjemy wcześniej wygenerowanego queryid do utworzenia raportu.
 
 #### <a name="request-example"></a>Przykład żądania
 
@@ -328,9 +328,9 @@ curl
 }
 ```
 
-Po pomyślnym `reportId` wykonaniu generowany jest plik , który musi zostać użyty do zaplanowania pobrania raportu.
+Po pomyślnym wykonaniu generowany jest plik , który musi zostać użyty `reportId` do zaplanowania pobrania raportu.
 
-### <a name="step-5-execute-report-executions-api"></a>Krok 5. Wykonywanie interfejsu API wykonań raportów
+### <a name="step-5-execute-report-executions-api"></a>Krok 5. Wykonywanie interfejsu API wykonywania raportów
 
 W tym kroku użyjemy interfejsu API wykonywania raportów, aby uzyskać bezpieczną lokalizację (adres URL) raportu.
 

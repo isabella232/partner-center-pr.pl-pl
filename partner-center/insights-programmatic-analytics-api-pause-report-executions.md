@@ -8,12 +8,12 @@ description: Ten interfejs API umożliwia wstrzymanie wykonywania dowolnego rapo
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 798c5e87a3935923bd91d8e74716999fb8be4f54
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 01bb70e46e5a80c039bfc90b2ac0a034aa73b1163f485af8b98676d756b73e18
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836374"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697163"
 ---
 # <a name="pause-report-executions-api"></a>Interfejs API wstrzymywania wykonywania raportów
 

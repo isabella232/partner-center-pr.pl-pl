@@ -19,7 +19,7 @@
     - name: Korzyść z tytułu zobowiązania do użycia platformy Azure
       href: azure-consumption-commitment-benefit.md
     - name: Plany prywatne
-      href: private-offers.md
+      href: private-plans.md
     - name: Kwalifikowanie się do przeniesienia subskrypcji
       href: transfer-eligibility.md
     - name: Tworzenie prywatnej witryny Azure Marketplace i zarządzanie nią

@@ -3,7 +3,7 @@ title: Ogłoszenia z lutego 2021 r.
 description: Ogłoszenia dotyczące platformy Microsoft Partner Center w lutym 2021 r., w tym nowe możliwości, promocje, oferty, rynki lub zmiany istniejących ofert.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-action-center
+ms.subservice: partnercenter-announcements
 author: brentserbus
 ms.author: brserbus
 ms.custom:
@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: 9926c29b6b111120218df38b323c6859dc59d772
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c7ae6a138f90f79e85c0ab8132873988524b9890
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838725"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101577"
 ---
 # <a name="february-2021-announcements"></a>Ogłoszenia z lutego 2021 r.
 
@@ -187,11 +187,11 @@ Firma Microsoft działa w oparciu o zaufanie. Dokładamy starań, aby zapewnić 
     - Zjednoczone Emiraty Arabskie
     - Wenezuela
 
-Partnerzy spełniający te kryteria muszą przesłać identyfikator rejestracji firmy klienta (znany również jako organizacja klienta ), oraz numer telefonu podczas następnej aktualizacji lub utworzenia subskrypcji dla tego klienta. Ci partnerzy mogą również wprowadzić opcjonalne drugie imię klienta.
+Partnerzy spełniający kryteria muszą przesłać identyfikator rejestracji firmy klienta (znany również jako organizacja klienta), oraz numer telefonu podczas następnej aktualizacji lub tworzenia subskrypcji dla tego klienta. Ci partnerzy mogą również wprowadzić opcjonalne drugie imię klienta.
 
-Pamiętaj, że podczas dodawania identyfikatora rejestracji firmy należy użyć identyfikatora podatku od działalności biznesowej, a nie identyfikatora osobistego klienta.
+Pamiętaj, że podczas dodawania identyfikatora rejestracji firmy należy użyć identyfikatora podatkowego firmy, a nie identyfikatora osobistego klienta.
 
-Partnerzy, którzy współpracuje z nowymi lub istniejącymi klientami w następujących krajach, są już dołączani do poprzedniej wersji w listopadzie 2020 r.
+Partnerzy, którzy firma współpracuje z nowymi lub istniejącymi klientami w następujących krajach, są już do dołączani w poprzedniej wersji w listopadzie 2020 r.
 
 - Armenia
 - Azerbejdżan
@@ -205,18 +205,18 @@ Partnerzy, którzy współpracuje z nowymi lub istniejącymi klientami w następ
 - Ukraina
 - Uzbekistan
 
-Pod koniec marca 2021 r. partnerzy z klientami na całym świecie będą mieć możliwość wprowadzenia identyfikatora rejestracji firmy, numeru telefonu i środkowej nazwy klienta jako opcjonalnych szczegółów.
+Pod koniec marca 2021 r. partnerzy z klientami na całym świecie będą mieć możliwość wprowadzania identyfikatora rejestracji firmy, numeru telefonu i średniego imienia dla klientów jako opcjonalnych szczegółów.
 
 ### <a name="next-steps"></a>Następne kroki
 
 - Przejrzyj dokumentację techniczną i często zadawane pytania w dedykowanej [kolekcji partnerów,](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) aby uzyskać bardziej szczegółowe wskazówki.
-- Przygotuj się do uwzględnienia zmian przy użyciu Partner Center API i internetowego interfejsu użytkownika. Zestawy API/ZESTAWY SDK będą dostępne do testowania.
+- Przygotuj się do uwzględnienia zmian przy użyciu Partner Center API i internetowego interfejsu użytkownika. Do testowania będą dostępne zestawy API/ZESTAWY SDK.
 - Pamiętaj, aby przesłać dodatkowe dane podczas dołączania nowych klientów lub modyfikowania istniejących danych klienta.
 - Jeśli używasz rozwiązania dostawcy panelu sterowania (CPV), skonsultuj się z dostawcą CPV.
 
 ### <a name="questions"></a>Masz pytania?
 
-Skontaktuj się z doradcą podatkowym lub lokalnym urzędem podatkowym, jeśli masz pytania związane z identyfikatorem rejestracji firmy (nazywanym również URZĘDEM PODATKOWYM lub NIP). Firma Microsoft nie może zapewnić wskazówek dotyczących kwestii podatkowych.
+Jeśli masz pytania związane z identyfikatorem rejestracji firmy (nazywanym również ONE LUB TIN), skontaktuj się z doradcą podatkowym lub lokalnym urzędem podatkowym. Firma Microsoft nie może zapewnić wskazówek dotyczących kwestii podatkowych.
 
 Jeśli potrzebujesz pomocy technicznej dotyczącej operacji wykonywanych w firmie Microsoft, otwórz [żądanie obsługi](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
@@ -231,7 +231,7 @@ Jeśli potrzebujesz pomocy technicznej dotyczącej operacji wykonywanych w firmi
 2 kwietnia 2021 r.: Aktualizacje obejmują następujące elementy:
 
 - Podano datę uruchomienia
-- Tytuł organizacji BARDZO został zaktualizowany do identyfikatora rejestracji firmy 
+- Tytuł organizacji ORGANIZATION został zaktualizowany do identyfikatora rejestracji firmy 
 - Dodano uwagę w celu wyjaśnienia identyfikatora rejestracji firmy
 
 
@@ -247,32 +247,32 @@ ________________
 
 Firma Microsoft będzie przechodzić całe przetwarzanie podpisów elektronicznych z rozwiązania DocuSign do rozwiązania Adobe Sign.
 
-### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
 
 Istniejący bezpośredni i pośredni partnerzy Dostawca rozwiązań w chmurze (CSP) w ramach MPA.
 
 ### <a name="details"></a>Szczegóły
 
-W lutym 2021 r. firma Microsoft rozpocznie przechodzenie wszystkich przetwarzanych podpisów elektronicznych z usługi DocuSign do rozwiązania Adobe Sign dla partnerów programu CSP.
+W lutym 2021 r. firma Microsoft rozpocznie przechodzenie wszystkich funkcji przetwarzania podpisów elektronicznych z rozwiązania DocuSign do rozwiązania Adobe Sign dla partnerów programu CSP.
 
-Należy oczekiwać bezproblemowego przejścia. Podczas migracji otrzymasz wiadomość e-mail z usługi , zamiast z aplikacji adobesign@adobesign.com DocuSign, za każdym razem, gdy jest wymagany podpis elektroniczny. Ta wiadomość e-mail zawiera link do strony internetowej Adobe Sign, na której należy się podpisać. Partnerzy firmy Microsoft nie będą muszą ponownie podpisywać istniejących umów, tylko przyszłych umów dotyczących kanału. Partnerzy w Tym kraju, Wenezji i Zamowie będą zobowiązani do fizycznego lub elektronicznego ponownego podpisania umowy rocznej.
+Należy oczekiwać bezproblemowego przejścia. Podczas migracji otrzymasz wiadomość e-mail z usługi zamiast z usługi DocuSign zawsze wtedy, gdy jest adobesign@adobesign.com wymagany podpis elektronicznych. Ta wiadomość e-mail zawiera link do strony internetowej Adobe Sign, na której trzeba będzie się podpisać. Partnerzy firmy Microsoft nie muszą ponownie podpisywać istniejących umów, tylko przyszłych umów kanału. Partnerzy w 2017 r. w 1997 roku będą wymagać od partnerów w 1999 r. podpisania umowy rocznej lub elektronicznej.
 
-Przykładowy adres e-mail z żądaniem podpisu Adobe Sign można znaleźć [w galerii zasobów.](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf)
+Przykładowy adres e-mail z żądaniem podpisu adobe Sign można znaleźć [w galerii zasobów.](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf)
 
 Aby uzyskać najlepsze wyniki, wykonaj następujące czynności:
 
-1. Dodaj do listy bezpiecznych nadawców, aby uniknąć sytuacji, w których wiadomości e-mail z tego adobesign@adobesign.com konta trafiają bezpośrednio do folderu wiadomości-śmieci.
+1. Dodaj adres do listy bezpiecznych nadawców, aby uniknąć sytuacji, w których wiadomości e-mail z tego adobesign@adobesign.com konta trafiają bezpośrednio do folderu wiadomości-śmieci.
 2. We współpracy z działem IT:
     - Dodaj adres e-mail do listy bezpiecznych nadawców, aby upewnić się, że nie jest on uwzględniony w żadnej wstępnie adobesign@adobesign.com ustalonej regułie wyłudzania informacji.
-    - Zaktualizuj istniejące zasady zabezpieczeń, aby upewnić się, że wszyscy wymagani adresaci mogą podpisać dokumentację w ramach licencji Enterprise rozwiązania Adobe Sign.
+    - Zaktualizuj istniejące zasady zabezpieczeń, aby upewnić się, że wszyscy wymagani adresaci mogą podpisać dokumentację w ramach licencji Adobe Sign Enterprise.
 
-Zasoby dotyczące dołączania, funkcji i procesów biznesowych można znaleźć na stronie [adobe Sign Migration Partner](https://aka.ms/eSignature/External).
+Zasoby dotyczące dołączania, funkcji i pytań dotyczących procesów biznesowych można znaleźć na stronie [adobe Sign Migration Partner .](https://aka.ms/eSignature/External)
 
 Adobe Sign to preferowane rozwiązanie firmy Microsoft do podpisów elektronicznych (ESS). Przejście do rozwiązania Adobe Sign zapewni bezpieczne i wydajne środowisko podpisów elektronicznych, które zapewni większą wartość naszym klientom i partnerom.
 
 Aby uzyskać dodatkowe informacje na temat elektronicznego podpisywania dokumentów i delegowania podpisu elektronicznego, zapoznaj się z następującymi samouczkami:
 
-- [Elektroniczne podpisywanie dokumentu | Samouczki dotyczące usługi Adobe Sign](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [Podpisywanie elektroniczne dokumentu przy | Samouczki dotyczące usługi Adobe Sign](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
 - [Delegowanie innej osoby do podpisania dokumentu | Samouczki dotyczące usługi Adobe Sign](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
 
 ### <a name="next-steps"></a>Następne kroki
@@ -281,7 +281,7 @@ Udostępnij te informacje odpowiednim uczestnikom projektu w organizacji.
 
 ### <a name="questions"></a>Masz pytania?
 
-Jeśli masz jakieś pytania, skontaktuj się z regionalne centrum operacyjne przy użyciu narzędzia [Call Logging Tool (CLT)](https://clt.partners.extranet.microsoft.com/CLT) lub zapoznaj się z [tematem Explore MS](https://www.explore.ms/). Dokładnie postępuj zgodnie ze standardowym procesem CLT, abyśmy w miarę możliwości rozpoznali Twoje zapytanie.
+Jeśli masz jakiekolwiek pytania, skontaktuj się z działem pomocy regionalne centrum operacyjne pomocą narzędzia [Call Logging Tool (CLT)](https://clt.partners.extranet.microsoft.com/CLT) lub zapoznaj się z [tematem Explore MS (Eksplorowanie usługi MS).](https://www.explore.ms/) Dokładnie postępuj zgodnie ze standardowym procesem CLT, aby jak najszybciej rozwiązać problem z zapytaniem.
 
 ### <a name="change-log"></a>Dziennik zmian
 
@@ -290,7 +290,7 @@ Jeśli masz jakieś pytania, skontaktuj się z regionalne centrum operacyjne prz
 
 _____________
 
-## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="8"></a> Przypomnienie: wprowadzenie ograniczania interfejsu API partnerom wywołującym interfejsy API Partner Center API
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="8"></a> Przypomnienie: wprowadzenie ograniczania interfejsu API dla partnerów wywołujących interfejsy API Partner Center API
 
 ### <a name="categories"></a>Kategorie
 
@@ -299,21 +299,21 @@ _____________
 
 ### <a name="summary"></a>Podsumowanie
 
-Firma Microsoft będzie implementować ograniczanie przepustowości interfejsu API, aby zapewnić bardziej spójną wydajność w czasie dla partnerów wywołujących interfejsy API Partner Center API.
+Firma Microsoft będzie implementować ograniczanie interfejsów API, aby umożliwić bardziej spójną wydajność w obrębie czasu dla partnerów wywołujących interfejsy API Partner Center API.
 
-### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
 
 Wszyscy partnerzy w ramach programu Dostawca rozwiązań w chmurze (CSP)  
 
 ### <a name="details"></a>Szczegóły
 
-Począwszy od lutego 2021 r., firma Microsoft będzie implementować ograniczanie interfejsów API, aby zapewnić bardziej spójną wydajność w zakresie czasu dla partnerów wywołujących interfejsy API Partner Center API.Ograniczanie ogranicza liczbę żądań do usługi w zakresie czasu, aby zapobiec nadużytości zasobów.Po przekroczeniu progu ograniczania Partner Center ogranicza wszelkie dalsze żądania od tego klienta przez określony czas.
+Począwszy od lutego 2021 r., firma Microsoft będzie implementować ograniczanie interfejsów API, aby umożliwić bardziej spójną wydajność w okresie dla partnerów wywołujących interfejsy API Partner Center API.Ograniczanie ogranicza liczbę żądań do usługi w okresie, aby zapobiec wywłaszceniu zasobów.Po przekroczeniu progu ograniczania Partner Center ogranicza wszelkie dalsze żądania od tego klienta na określony czas.
 
 **Korzyści dla partnerów:**
 
-Partner Center jest przeznaczony do obsługi dużej liczby żądań, ale w przypadku dużej liczby żądań składanych przez kilku partnerów ograniczanie przepustowości pomoże zachować optymalną wydajność i niezawodność dla wszystkich partnerów.  
+Partner Center jest przeznaczony do obsługi dużej liczby żądań, ale w przypadku dużej liczby żądań składanych przez kilku partnerów ograniczanie przepływności pomoże zachować optymalną wydajność i niezawodność dla wszystkich partnerów.  
 
-- Ograniczanie zapewnia minimalny przestój.
+- Ograniczanie zapewnia minimalny czas przestoju.
 - Ograniczanie ogranicza liczbę żądań o dużej liczbie żądań, co pomaga zapewnić spójną wydajność dla wszystkich partnerów.
 
 **Interfejsy API do ograniczenia:**
@@ -425,7 +425,7 @@ Zmiany stawek FX z marca nie zostały uwzględnione w cennikach opartych na lice
 
 ### <a name="next-steps"></a>Następne kroki
 
-Partnerzy powinni pobrać bieżący plik podglądu cennika dla oczekiwanych zmian na 1 marca 2021 r.
+Partnerzy powinni pobrać plik podglądu bieżącego cennika dla oczekiwanych zmian na 1 marca 2021 r.
 
 _______________
 
@@ -453,11 +453,11 @@ Premium to opcjonalny dodatek do Menedżera zgodności, który może pomóc klie
 |CSP — Corp — dodatek|[76be61a7-2c03-4b3e-8330-63b11bd904ed](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/76be61a7-2c03-4b3e-8330-63b11bd904ed)|8JA-00003|
 |CSP — Corp — wersja próbna|[f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4)|8JA-00004|
 |CSP — edukacyjne — wykładowcy — dodatek|[fa7f5773-063a-48cf-b3e2-de509ea1262f](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/fa7f5773-063a-48cf-b3e2-de509ea1262f)|8JB-00003|
-|CSP — edukacyjne — nauczycieli i wykładowców — wersja próbna|[828cecbd-8728-4339-b0c2-51e009a67d88](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/828cecbd-8728-4339-b0c2-51e009a67d88)|8JB-00004|
+|CSP — edukacyjne — wykładowcy — wersja próbna|[828cecbd-8728-4339-b0c2-51e009a67d88](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/828cecbd-8728-4339-b0c2-51e009a67d88)|8JB-00004|
 
 ### <a name="next-steps"></a>Następne kroki
 
-Przejrzyj poniższe zasoby dotyczące tego tematu i udostępnij informacje odpowiednim uczestnikom projektu w organizacji.   
+Zapoznaj się z poniższymi zasobami w tym temacie i udostępnij informacje odpowiednim uczestnikom projektu w organizacji.   
 
 - [Microsoft 365 E5 zabezpieczeń i zgodności](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?rtc=1&activetab=m365-enterprise:primaryr5)
 - [Tworzenie ocen i zarządzanie nimi w Menedżerze zgodności firmy Microsoft](/microsoft-365/compliance/compliance-manager-assessments?preserve-view=true&view=o365-worldwide)
@@ -471,82 +471,82 @@ _________________________________________________________
 - Data: 4 lutego 2021 r.
 - Możliwości
 
-### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
 
 Wszyscy partnerzy
 
 ### <a name="details"></a>Szczegóły
 
-Firma Microsoft oferuje rozszerzenie kompetencji (z wyjątkiem kompetencji Cloud Business Applications) i zaawansowane rozszerzenie specjalizacji dla partnerów z datami rocznicy (AD) między 1 stycznia 2021 r. a 30 czerwca 2021 r. Zapoznaj się z [naszym wpisem w blogu partnera,](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) aby uzyskać więcej informacji.
+Firma Microsoft oferuje rozszerzenie kompetencji (z wyjątkiem kompetencji Cloud Business Applications) i zaawansowane rozszerzenie specjalizacji dla partnerów z datami rocznicy (AD) między 1 stycznia 2021 r. a 30 czerwca 2021 r. Przejrzyj nasz [wpis w blogu partnera,](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) aby uzyskać więcej informacji.
 ________________
-## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> Nowe aktualizacje modułu Polecenia w Partner Center
+## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> Nowe aktualizacje modułu Referrals (Polecenia) w Partner Center
 
 ### <a name="categories"></a>Kategorie
 
 - Data: 5 lutego 2021 r.
 - Możliwości
  
-### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
 
-- Partnerzy z ofertami gotowymi do współpracy
-- Partnerzy z ofertą transakcji korzystającą z rozwiązania kwalifikującego się do zachęt platformy Azure na platformie handlowej
+- Partnerzy z gotowymi ofertami co-sell
+- Partnerzy z ofertą komercyjną korzystającą z rozwiązania kwalifikującego się do zachęt platformy Azure na platformie handlowej
 - Wszyscy partnerzy korzystający z modułu Polecenia w Partner Center.
 
 ### <a name="details"></a>Szczegóły
 
-W nowym roku dodajemy możliwości w celu ulepszania i wzbogacania doświadczenia w zakresie współs sprzedaży w Partner Center. Te nowe funkcje pomogą Ci przyspieszyć szybkość transakcji, rozszerzyć dostęp sprzedawców i ułatwić lepsze skalowanie firmy. Wprowadzone w module Polecenia te nowe dodatki pomogą Ci dotrzeć do większej liczby klientów za pośrednictwem innych partnerów firmy Microsoft lub sprzedawców firmy Microsoft, a wszystko to podczas zarządzania potokiem z firmą Microsoft w jednej lokalizacji.  
+W nowym roku dodajemy możliwości w celu ulepszania i wzbogacania doświadczenia w zakresie sprzedaży Partner Center. Te nowe funkcje pomogą Ci przyspieszyć szybkość transakcji, rozszerzyć dostęp sprzedawców i ułatwić lepsze skalowanie firmy. Wprowadzone w module Polecenia te nowe dodatki pomogą Ci dotrzeć do większej liczby klientów za pośrednictwem innych partnerów firmy Microsoft lub sprzedawców firmy Microsoft, a wszystko to podczas zarządzania potokiem z firmą Microsoft w jednej lokalizacji.  
 
-Oto co nowego w module poleceń Partner Center polecenia:
+Oto co nowego w module poleceń Partner Center poleceń:
 
-#### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>Wszyscy partnerzy korzystający z modułu Poleceń w Partner Center  
+#### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>Wszyscy partnerzy korzystający z modułu Polecenia w Partner Center  
 
 - [Tworzenie nowych połączeń SMB:](../connect-with-your-customers.md)współ sprzedawanie i współpraca ze sprzedawcami firmy Microsoft w celu uzyskania możliwości ruchu przychodzącego związanych z klientami korzystającymi z SMB.
 
-- [Rozwiń](../permissions-overview.md#manage-referrals)uprawnienia poleceń: przypisz użytkownikom uprawnienia do poleceń w zależności od tego, czy mają mieć uprawnienia administratora (dostęp do wszystkich możliwości współpracy sprzedaży) lub uprawnienia użytkownika (dostęp do określonych możliwości sprzedaży użytkownika).
+- [Rozwiń](../permissions-overview.md#manage-referrals)uprawnienia poleceń: przypisz uprawnienia użytkowników do poleceń w zależności od tego, czy chcesz, aby mieli uprawnienia administratora (dostęp do wszystkich możliwości współpracy sprzedaży) lub uprawnienia użytkownika (dostęp do możliwości konkretnej sprzedaży użytkownika).
 
-- [Migracja użytkowników](../psc-to-pc.md#user-migration)Połączenie partnerów: mapowanie istniejących uprawnień użytkownika usługi Partner Sales Połączenie na odpowiednie uprawnienia administratora poleceń i poleceń programu Partner Center, a następnie masowe stosowanie nowych uprawnień do użytkowników. Zapoznaj [się z dokumentacją uprawnień poleceń,](../permissions-overview.md#manage-referrals) aby dowiedzieć się więcej o zarządzaniu poleceniami.  
+- [Migracja użytkowników](../psc-to-pc.md#user-migration)Połączenie sprzedaży partnera: mapowanie istniejących uprawnień użytkownika usługi Partner Sales Połączenie na odpowiednie uprawnienia administratora poleceń i użytkowników poleceń programu Partner Center, a następnie masowe stosowanie nowych uprawnień do użytkowników. Przejrzyj [dokumentację uprawnień poleceń,](../permissions-overview.md#manage-referrals) aby dowiedzieć się więcej o zarządzaniu poleceniami.  
 
-#### <a name="partners-with-co-sell-ready-offers"></a>Partnerzy z ofertami gotowymi do współpracy
+#### <a name="partners-with-co-sell-ready-offers"></a>Partnerzy z gotowymi ofertami co-sell
 
-- [Wspólna sprzedaż z innymi partnerami:](../manage-co-sell-opportunities.md)Zaproś innego partnera z naszego zaawansowanego ekosystemu partnerskiego do współpracy ze sobą i odblokowania dostępu do większej liczby klientów.  
+- [Wspólna sprzedaż z innymi partnerami:](../manage-co-sell-opportunities.md)Zaproś innego partnera z naszego zaawansowanego ekosystemu partnerów do współpracy ze sobą i odblokowania dostępu do większej liczby odbiorców.  
 
-#### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Partnerzy z ofertą transakcji korzystającą z rozwiązania kwalifikującego się do zachęt platformy Azure na platformie handlowej
+#### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Partnerzy z ofertą komercyjną korzystającą z rozwiązania kwalifikującego się do zachęt platformy Azure na platformie handlowej
 
-- [Użyj rejestracji automatycznej transakcji:](../register-deals.md)oszczędzaj czas i zapewniaj dokładność, rejestrując transakcje ofert platformy Microsoft Commercial Marketplace na platformie Azure przy użyciu pola wyboru "Ta transakcja/wygrana została lub zostanie zakwestowana za pośrednictwem usług Azure Marketplace lub AppSource". Tak długo, jak data transakcji jest poprawna, informacje dotyczące rejestracji transakcji będą ściągane bezpośrednio z platformy handlowej firmy Microsoft.
+- [Użyj rejestracji automatycznej transakcji:](../register-deals.md)oszczędzaj czas i zapewniaj dokładność, rejestrując transakcje ofert platformy Azure na platformie Microsoft Commercial Marketplace przy użyciu pola wyboru "Ta transakcja/wygrana została lub zostanie za pośrednictwem usługi Azure Marketplace lub AppSource". Tak długo, jak data transakcji jest poprawna, informacje dotyczące rejestracji transakcji będą ściągane bezpośrednio z platformy handlowej firmy Microsoft.
 
 ### <a name="questions"></a>Masz pytania?
 
-Jeśli potrzebujesz pomocy dotyczącej korzystania z dowolnej [](../referrals.md) z nowych funkcji, zapoznaj się z sekcją Polecenia w naszej bazie wiedzy lub z materiałami pomocy technicznej dostępnymi w naszej galerii środowiska współpracy sprzedaży [(wymagane](https://aka.ms/CoSellExperience) jest zalogowanie).
+Jeśli potrzebujesz pomocy dotyczącej korzystania z dowolnej [](../referrals.md) z nowych funkcji, zapoznaj się z sekcją Polecenia w naszej bazie wiedzy lub z naszymi materiałami pomocy technicznej dostępnymi w naszej galerii środowiska współpracy sprzedaży [(wymagane](https://aka.ms/CoSellExperience) jest zalogowanie).
 
 Możesz otworzyć [bilet z naszym zespołem pomocy technicznej partnera,](https://partner.microsoft.com/support/?stage=1) aby uzyskać pomoc techniczną.
 
 ________________
-## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> Wycofanie i wycofanie interfejsów API kwalifikacji PUT na potrzeby procesu weryfikacji klientów w edukacji do 25 lutego 2021 r. i kwalifikacji GET do 4 maja 2021 r.
+## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> Zakończenie obsługi i wycofanie interfejsów API kwalifikacji PUT na potrzeby procesu weryfikacji klientów w edukacji do 25 lutego 2021 r. i kwalifikacji GET do 4 maja 2021 r.
 
 ### <a name="categories"></a>Kategorie
 
 - Data: 4 lutego 2021 r.
 - Możliwości
 
-### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
 
-Partnerzy sprzedawani w programie Academic, Non-Profit i GCC za pośrednictwem programu Dostawca rozwiązań w chmurze przy użyciu interfejsu API Partner Center
+Partnerzy sprzedażowi usług Academic, Non-Profit i GCC za pośrednictwem programu Dostawca rozwiązań w chmurze przy użyciu interfejsu API Partner Center API
 
 ### <a name="details"></a>Szczegóły
 
-To ogłoszenie stanowi kontynuację rozszerzenia usługi Partner Center [wydanego w grudniu.](./2020-december.md#1) W ramach tej wersji zostały wdrożone nowe interfejsy API kwalifikacji GET i POST, w wyniku czego istniejące interfejsy API kwalifikacji PUT Partner Center zostaną wycofane do 25 lutego 2021 r. i kwalifikacje GET do 4 maja **2021 r.**. W tym czasie musisz przejść do korzystania z nowych interfejsów API POST Partner Center, aby móc kupować oferty edukacyjne oraz nowy interfejs API kwalifikacji GET w celu zakupu wstępnie kwalifikowanych ofert dla organizacji niedochodowych i ofert GCC profit.
+To zawiadomienie jest kontynuacją rozszerzenia usługi Partner Center [wydanego w grudniu.](./2020-december.md#1) W ramach tej wersji zostały wdrożone nowe interfejsy API kwalifikacji GET i POST, w wyniku czego istniejące interfejsy API Partner Center kwalifikacji PUT zostaną wycofane do 25 lutego 2021 r. i kwalifikacje GET do 4 maja **2021 r.**. W tym czasie musisz przejść do korzystania z nowych interfejsów API POST Partner Center, aby móc kupować oferty edukacyjne i nowy interfejs API kwalifikacji GET w celu zakupu wstępnie kwalifikowanych ofert dla organizacji niedochodowych i ofert GCC profit.
 
 ### <a name="next-steps"></a>Następne kroki
 
 - **Aktualizacja do nowych interfejsów API w** celu pomyślnego i terminowego przejścia
-- **Zapoznaj się z nowymi zmianami Partner Center API** i przewodnikiem w zasobach gotowość do operacji: [Partner Center procesu](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) weryfikacji klientów w edukacji
-- **Udostępnij te informacje odpowiednim zespołom** w organizacji oraz odsprzedawcom, aby pomóc im przygotować się do tych zmian.
+- **Zapoznaj się z nowymi zmianami Partner Center API** i przewodnikiem w zasobach gotowość do operacji: [ulepszenia procesu weryfikacji](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) klienta Partner Center Education
+- **Udostępnij te informacje odpowiednim zespołom** w organizacji oraz odsprzedawcom, aby ułatwić im przygotowanie się do tych zmian.
 
 ### <a name="questions"></a>Masz pytania?
 
-W przypadku pytań związanych z tym powiadomieniem skontaktuj się z [Partner Center pomocą techniczną.](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)
+W przypadku jakichkolwiek pytań związanych z tym powiadomieniem skontaktuj się [z Partner Center pomocą techniczną.](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)
 
 ### <a name="change-log"></a>Dziennik zmian
 
-- Luty: zaktualizowane osie czasu dotyczące cofania pracy z kwalifikacjami GET & PUT
-- Styczeń: Przypomnienie o zbliżających się cofaniach pracy z kwalifikacjami GET & PUT
+- Luty: Zaktualizowane osie czasu dla cofania pracy z kwalifikacjami GET & PUT
+- Styczeń: Przypomnienie o nadchodzących cofaniach pracy z kwalifikacjami GET & PUT

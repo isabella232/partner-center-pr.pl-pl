@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15c86291b0e22b6189e7d0e423b5517cd9dfb2a3
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: a771f259069ceeae9906b03477acc56cc28e97132c5c24f9522275d49c924f62
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844993"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681233"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Uaktualnianie niektórych klientów edukacyjnych z Windows 10 Home do Windows 10 Education
 

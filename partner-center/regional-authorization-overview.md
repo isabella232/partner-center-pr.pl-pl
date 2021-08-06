@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b05fb7880f43867c151bd62bd1d94c2f19add3a5
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 33b60bd301a1493e7e722e26b3ff16128f4e9888
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842080"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100450"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Dostawca rozwiązań w chmurze programie regionalne rynki i waluty, w których można sprzedawać oferty CSP
 
@@ -42,7 +42,7 @@ Jeśli Twój kraj nie jest obsługiwany, ustanów relację z klientem w programi
 
 - Partnerzy rozliczani bezpośrednio używają następującego adresu URL: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . Zastąp **identyfikator partnertenantguid** identyfikatorem dzierżawy. 
 
-- Adres URL odsprzedawców pośrednich to: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Zastąp **identyfikator IRtenantguid** identyfikatorem dzierżawy. Zastąp **irmpnid** identyfikatorem MPN, a identyfikator **IPtenantguid** identyfikatorem dzierżawy dostawcy pośredniego.
+- Adres URL dla odsprzedawców pośrednich to: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Zastąp **identyfikator IRtenantguid** identyfikatorem dzierżawy. Zastąp **irmpnid** identyfikatorem MPN, a identyfikator **IPtenantguid** identyfikatorem dzierżawy dostawcy pośredniego.
 
 ## <a name="africa-region-and-market"></a>Region i rynek Afryki
 
@@ -167,7 +167,7 @@ Jeśli lokalizacją firmy jest Brazylia, możesz sprzedawać oferty CSP klientom
 
 ## <a name="canada-region-and-market"></a>Kanada region i rynek
 
-Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz sprzedawać oferty CSP klientom we wszystkich lokalizacjach na liście.
+Jeśli lokalizacja Firmy znajduje się na poniższej liście, możesz sprzedawać oferty CSP klientom we wszystkich lokalizacjach na liście.
 
 |  Kraj/region | Waluta |
 |  -------------- |:--------:|
@@ -175,9 +175,17 @@ Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz spr
 |  Saint Pierre i Miquelon|  CAD   |
 |
 
+## <a name="china-region-and-market"></a>Region i rynek w Chinach
+
+Jeśli twoja firma znajduje się w Chinach, możesz sprzedawać oferty CSP klientom w Chinach.
+
+|  Kraj/region | Waluta |
+|  -------------- |:--------:|
+|  Chiny        |   Cny    |
+
 ## <a name="europe-region-and-market"></a>Region i rynek w Europie
 
-Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz sprzedawać oferty CSP klientom we wszystkich lokalizacjach na liście.
+Jeśli lokalizacja Firmy znajduje się na poniższej liście, możesz sprzedawać oferty CSP klientom we wszystkich lokalizacjach na liście.
 
 |  Kraj/region | Waluta  |
 |  -------------- |:--------:|
@@ -230,7 +238,7 @@ Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz spr
 
 ## <a name="india-region-and-market"></a>Indie region i rynek
 
-Jeśli lokalizacja twojej firmy to Indie, możesz sprzedawać oferty CSP klientom w Indiach.
+Jeśli lokalizacja firmy to Indie, możesz sprzedawać oferty CSP klientom w Indiach.
 
 |  Kraj/region | Waluta |
 |  -------------- |:--------:|
@@ -239,7 +247,7 @@ Jeśli lokalizacja twojej firmy to Indie, możesz sprzedawać oferty CSP kliento
 
 ## <a name="japan-region-and-market"></a>Region i rynek w Japonii
 
-Jeśli lokalizacja Firmy to Japonia, możesz sprzedawać oferty CSP klientom w Japonii.
+Jeśli twoja firma znajduje się w Japonii, możesz sprzedawać oferty CSP klientom w Japonii.
 
 |  Kraj/region | Waluta |
 |  -------------- |:--------:|
@@ -248,7 +256,7 @@ Jeśli lokalizacja Firmy to Japonia, możesz sprzedawać oferty CSP klientom w J
 
 ## <a name="korea-republic-of-region-and-market"></a>Korea, Republika Regionu i Rynku
 
-Jeśli lokalizacją firmy jest Korea, Republika Korei, możesz sprzedawać oferty CSP klientom w Korei w Republice Południowej Południowej.
+Jeśli lokalizacją firmy jest Korea, Republika, możesz sprzedawać oferty CSP klientom w Korei w Republice Południowej Południowej.
 
 |  Kraj/region    | Waluta |
 |  --------------    |:--------:|
@@ -257,7 +265,7 @@ Jeśli lokalizacją firmy jest Korea, Republika Korei, możesz sprzedawać ofert
 
 ## <a name="latin-america-and-the-caribbean-region-and-market"></a>Ameryka Łacińska oraz region i rynek w Pacyfiku
 
-Jeśli lokalizacja Firmy znajduje się na poniższej liście, możesz sprzedawać oferty CSP klientom we wszystkich lokalizacjach na liście.
+Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz sprzedawać oferty CSP klientom we wszystkich lokalizacjach na liście.
 
 |  Kraj/region | Waluta |
 |  -------------- |:--------:|
@@ -318,7 +326,7 @@ Jeśli lokalizacja Firmy znajduje się na poniższej liście, możesz sprzedawa�
 
 ## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Bliski Wschód, Europa Środkowa oraz region i rynek Europa Wschodnia
 
-Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz sprzedawać oferty CSP klientom we wszystkich lokalizacjach na liście.
+Jeśli lokalizacja Firmy znajduje się na poniższej liście, możesz sprzedawać oferty CSP klientom we wszystkich lokalizacjach na liście.
 
 |  Kraj/region | Waluta |
 |  -------------- |:--------:|
@@ -352,7 +360,7 @@ Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz spr
 |  Mozambik     |   USD    |
 |  Oman           |   USD    |
 |  Pakistan       |   USD    |
-|  Territorydy przejmuje 100000000 |        |
+|  TerritoryDusz okupowany |        |
 |  Katar          |   USD    |
 |  Arabia Saudyjska   |   USD    |
 |  Serbia         |   USD    |
@@ -371,7 +379,7 @@ Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz spr
 
 ## <a name="new-zealand-region-and-market"></a>Region i rynek w Nowej Zelandii
 
-Jeśli lokalizacja Firmy znajduje się na poniższej liście, możesz sprzedawać oferty CSP klientom we wszystkich lokalizacjach na liście.
+Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz sprzedawać oferty CSP klientom we wszystkich lokalizacjach na liście.
 
 |  Kraj/region | Waluta |
 |  -------------- |:--------:|
@@ -401,7 +409,7 @@ Jeśli lokalizacją firmy jest Tajwan, możesz sprzedawać oferty CSP klientom w
 
 ## <a name="united-states-region-and-market"></a>Stany Zjednoczone i rynek
 
-Jeśli lokalizacja Firmy znajduje się na poniższej liście, możesz sprzedawać oferty CSP klientom we wszystkich lokalizacjach na liście.
+Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz sprzedawać oferty CSP klientom we wszystkich lokalizacjach na liście.
 
 |  Kraj/region       | Waluta |
 |  -------------        |:--------:|

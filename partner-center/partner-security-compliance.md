@@ -2,19 +2,19 @@
 title: Raport o stanie wymagań dotyczących zabezpieczeń
 ms.date: 10/30/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Dowiedz się, jak sprawdzić zgodność wymagań dotyczących zabezpieczeń z raportem o stanie wymagań dotyczących zabezpieczeń i raportem Partner Center MFA
 author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db558062f5dab2a3f9ffbe99f7122a436f89d21f
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 15e2792a38f8fc90612282ff30ad57dc320fc96a
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844551"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101234"
 ---
 # <a name="security-requirements-status-report"></a>Raport o stanie wymagań dotyczących zabezpieczeń
 

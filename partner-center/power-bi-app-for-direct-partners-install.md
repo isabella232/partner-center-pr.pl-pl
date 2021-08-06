@@ -10,21 +10,21 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a07742a55df088842f6bac1a1cbdd65bf0db8282
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 7c6ee1c14f79a0d521a94801272473369befa753a49557645681634e248b81e0
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842659"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681454"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instalowanie i wyświetlanie podglądu aplikacji statystycznej Centrum partnerskiego dla usługi Microsoft Power BI
 
 
-**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent sprzedaży | Agent administracyjny
+**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent sprzedaży | Agent administracyjny
 
 ## <a name="before-you-begin"></a>Zanim rozpoczniesz
 
-Wybierz aplikację, która jest najbardziej odpowiednią dla Twojej firmy, z następującej listy dostępnych aplikacji Power BI Microsoft:
+Wybierz aplikację, która jest najbardziej odpowiedni dla Twojej firmy, z następującej listy dostępnych aplikacji Power BI Microsoft:
 
 - [Dostawca bezpośredni](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
@@ -32,9 +32,9 @@ Wybierz aplikację, która jest najbardziej odpowiednią dla Twojej firmy, z nas
 
 - [Odsprzedawca pośredni](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
 
-Przed zainstalowaniem wersji zapoznawczej Partner Center Analytics upewnij się, że spełniasz następujące wymagania.
+Przed zainstalowaniem aplikacji Partner Center Analytics w wersji zapoznawczej upewnij się, że spełniasz następujące wymagania.
 
-- Wybierasz właściwą aplikację Power BI dla Twojej firmy.
+- Wybierasz właściwą aplikację Power BI dla Swojej firmy.
 
 - Masz licencję Power BI Pro.
 
@@ -58,15 +58,15 @@ Przed zainstalowaniem wersji zapoznawczej Partner Center Analytics upewnij się,
 
 6. Zainstaluj obszar roboczy, podając nazwę obszaru roboczego.
 
-7. Zainstalowane aplikacje szablonu można znaleźć w sekcji Aplikacje.
+7. Aplikacje szablonów zainstalowane w sekcji Aplikacje.
 
 8. Wybierz **pozycję** Aplikacje i wybierz zainstalowane aplikacje.
 
-9. Wprowadzenie ekran nowej aplikacji zostanie otwarty.
+9. Wprowadzenie zostanie otwarty ekran nowej aplikacji.
 
 10. Aby nawiązać połączenie z danymi, wybierz **pozycję Połączenie**.
 
-11. W **oknie podręcznym** Połączenie to Partner Center Analytics sprawdź, czy  dla opcji Metoda uwierzytelniania ustawiono opcję **oAuth2,** lub wybierz pozycję **oAuth2** z listy, jeśli tak nie jest. 
+11. W **oknie podręcznym** Połączenie Partner Center Analytics sprawdź, czy dla  opcji Metoda uwierzytelniania ustawiono wartość **oAuth2,** lub wybierz pozycję **oAuth2** z listy, jeśli tak nie jest. 
 
 > [!NOTE]  
 >  Może to potrwać kilka minut.
@@ -81,4 +81,4 @@ Po zakończeniu ładowania danych możesz rozpocząć korzystanie z pulpitu nawi
 
 ## <a name="next-steps"></a>Następne kroki
 
-[Wyświetlanie danych biznesowych za pomocą aplikacji Partner Center Analytics dla firmy Microsoft Power BI](power-bi-app-for-direct-partners-use.md)
+[Wyświetlanie danych biznesowych za pomocą aplikacji Partner Center Analytics dla usługi Microsoft Power BI](power-bi-app-for-direct-partners-use.md)

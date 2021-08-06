@@ -8,12 +8,12 @@ ms.localizationpriority: medium
 ms.date: 12/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-ms.openlocfilehash: af342ef92613adbeb7ac37e0dd5e813949e67e03
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 1fbf8ba030a6f6dd93314ef64130d75312cf36a70521d75249fd31d09e3b6416
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840760"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681114"
 ---
 # <a name="value-added-tax-vat-information"></a>Informacje o podatku od wartości dodanej (VAT)
 
@@ -69,14 +69,14 @@ Należy pamiętać, że firma Microsoft nie zapewnia porad podatkowych, a nastę
 |Litwa |- Format numeru VAT: 9 lub 12 cyfr<br/>- Kod kraju/regionu: LT<br/>— Przykład: 123456789 lub 012345678901 |
 |Luksemburg |- Format numeru VAT: 8 cyfr<br/>- Kod kraju/regionu: LU<br/>— Przykład: 12345678 |
 |Malta |- Format numeru VAT: 2 litery i 8 cyfr<br/>- Kod kraju/regionu: MT</br>-Przykład: MT12345678<br/>- Uwagi: pierwsze znaki zawsze będą mieć literę "MT". |
-|Holandia |- Format numeru VAT: 11 cyfr i 1 litera<br/>— Kod kraju/regionu: NL<br/>— Przykład: 123456789B01<br/>- Uwagi: dziesiąty znak to zawsze "B". |
+|Holandia |- Format numeru VAT: 11 cyfr i 1 litera<br/>- Kod kraju/regionu: NL<br/>— Przykład: 123456789B01<br/>- Uwagi: Dziesiąty znak to zawsze "B". |
 |Polska |- Format numeru VAT: 10 cyfr<br/>- Kod kraju/regionu: PL<br/>— Przykład: 1234567890 |
 |Portugalia |- Format numeru VAT: 9 cyfr<br/>- Kod kraju/regionu: PT<br/>— Przykład: 123456789 |
 |Rumunia |- Format numeru VAT: 2 litery i 8–10 cyfr<br/>- Kod kraju/regionu: RO<br/>— Przykład: RO12345678, RO123456789 lub RO1234567890<br/>- Uwagi: pierwsze znaki zawsze będą mieć literę "RO" |
 |Słowacja |- Format numeru VAT: 10 cyfr<br/>- Kod kraju/regionu: SK<br/>— Przykład: 1234567890<br/>- Uwagi: pierwsze znaki zawsze będą mieć literę "SI". |
-|Słowenia |- Format numeru VAT: 2 litery i 8 cyfr<br/>- Kod kraju/regionu: SI<br/>— Przykład: SI12345678<br/>- Uwagi: pierwsze znaki zawsze będą mieć literę "SI". |
+|Słowenia |- Format numeru VAT: 2 litery i 8 cyfr<br/>- Kod kraju/regionu: SI<br/>- Przykład: SI12345678<br/>- Uwagi: pierwsze znaki zawsze będą mieć literę "SI". |
 |Hiszpania |- Format numeru VAT: 9 cyfr<br/>- Kod kraju/regionu: ES<br/>- Przykład: X12345678, 12345678X lub X1234567X<br/>- Uwagi: zawiera 1 lub 2 litery: pierwszą, ostatnią lub pierwszą i ostatnią. |
-|Szwecja |- Format numeru VAT: 12 cyfr<br/>— Kod kraju/regionu: SE<br/>— Przykład: 123456789001<br/>- Uwagi: ostatnie 2 znaki muszą mieć 2 znaki "01". |
+|Szwecja |- Format numeru VAT: 12 cyfr<br/>— Kod kraju/regionu: SE<br/>— Przykład: 123456789001<br/>- Uwagi: ostatnie 2 znaki muszą mieć 01 znaków. |
 |Zjednoczone Królestwo |- Format numeru VAT: 9 lub 12 cyfr<br/>- Kod kraju/regionu: GB<br/>— Przykład: 123456789 lub 123456789001<br/>- Uwagi: ogólnie 9 cyfr, ale 12 cyfr, jeśli liczba reprezentuje pod firmę w grupie. |
 
 ## <a name="next-steps"></a>Następne kroki

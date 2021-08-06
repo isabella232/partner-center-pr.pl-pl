@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d4b59dc0f492dbca2afd603c6b7800e782ab3a12
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 42d3597e9c91fcc448289a673aae2c672df6869c004e7162efd5d6235259db09
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840318"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115679890"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>Porównanie różnic między ofertami platformy Azure w programie CSP
 
@@ -31,7 +31,7 @@ W poniższej tabeli przedstawiono omówienie kluczowych różnic między ofertam
 |Rozliczenia|Co miesiąc|Zmienna (zależna od oferty)|Klient końcowy|Z góry w przypadku pełnego lub 3-letniego okresu|Co miesiąc lub co rok|
 |Licencjobiorca|Klient końcowy|Zmienna (zależna od oferty)|Klient końcowy| Klient końcowy|Klient końcowy|
 |Okres pokrycia|Aktywne do momentu anulowania|Zmienna (zależna od oferty)|Zobacz opis oferty|Wszystkie rezerwacje platformy Azure mają własny unikatowy okres pokrycia. Wszystkie subskrypcje serwera będą mieć własny unikatowy okres pokrycia.|   Dodatkowe licencje zostaną przyciągnięte do istniejącego okresu pokrycia|
-|Automatyczne odnawianie|Yes|Yes|Nie| Nie|Yes|
+|Automatyczne odnawianie|Tak|Tak|Nie| Nie|Tak|
 |Wiele walut|Faktura oparta na lokalizacji klienta/walucie|Faktura oparta na lokalizacji klienta/walucie|Faktura oparta na lokalizacji klienta/walucie|Faktura oparta na lokalizacji klienta/walucie|Na podstawie waluty lokalizacji partnera| 
 |Plik rekon & faktury|Oddziel fakturę i plik rekoneswalu dla każdej waluty lokalizacji klienta.  Udostępnimy również pliki dziennego użycia (zarówno dla części rozliczanych, jak i nienaliowanych) |Oddziel fakturę i plik rekoneswalu dla każdej waluty lokalizacji klienta|Oddziel fakturę i plik rekoneswalu dla każdej waluty lokalizacji klienta|Oddziel fakturę i plik rekoneswalu dla każdej waluty lokalizacji klienta|Wszystkie zamówienia na jednej fakturze i plik ponownego zamówienia|
 |Cennik & macierzy ofert|Publikowane co miesiąc i wyceny w USD*|Oferty i ceny w witrynie Marketplace można eksportować w czasie rzeczywistym do formatu pliku CSV.|Oddzielny, pojedynczy plik ze wszystkimi cenami i szczegółami oferty. Nie ma oddzielnego pliku macierzy ofert||Oddzielny, pojedynczy plik ze wszystkimi cenami i szczegółami oferty. Nie ma oddzielnej macierzy ofert.| 

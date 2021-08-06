@@ -8,12 +8,12 @@ description: Użyj tego interfejsu API, aby usunąć dowolny raport w Partner Ce
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: a8a94fc1a6e69bab0a7671bd27949e271a77dbbe
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 358e08363c203b82a5e80e2660be6e04224f58df393c94f8af9062fcb5ec67a7
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840063"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697214"
 ---
 # <a name="delete-report-api"></a>Usuwanie interfejsu API raportu
 
@@ -106,7 +106,7 @@ W tej tabeli zdefiniowano kluczowe elementy odpowiedzi:
 |    ExecuteNow     |    Flaga ExecuteNow ustawiona w czasie tworzenia raportu     |
 |    StartTime     |    Czas rozpoczęcia wykonywania raportu. Format godziny to yyyy-MM-ddTHH:mm:ssZ     |
 |    ReportStatus     |    Stan wykonania raportu. Możliwe wartości to Wstrzymane, Aktywne i Nieaktywne.     |
-|    RecurrenceInterval     |    Interwał cyklu zapewniany podczas tworzenia raportu     |
+|    RecurrenceInterval     |    Interwał cyklu podany podczas tworzenia raportu     |
 |    RecurrenceCount     |    Liczba cyklów zapewniana podczas tworzenia raportu     |
 |    CallbackUrl     |    Adres URL wywołania zwrotnego podany w żądaniu     |
 |    CallbackMethod    |    Metoda wywołania zwrotnego podana w żądaniu    |

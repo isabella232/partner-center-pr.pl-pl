@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a980d35104f2fe7aad0117f3515a61ecf217a2b9
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 00f92dbe0c4a537626c5956e69c0b2d4b6dda20220f7b162e5d34ebfe24c5554
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148299"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681947"
 ---
 # <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Podstawowe wymagania dotyczące działań w programie zachęt
 
@@ -40,7 +40,7 @@ W poniższych tabelach przedstawiono podstawowe wymagania dotyczące poszczegól
 | Kategoria | Dowód wykonania    |
 | ------ | ----------- |
 | Wymagania podstawowe | NA |
-| Wymagania dotyczące komunikacji | Zrzut ekranu przedstawiający reklamę cyfrową<br><br>AND<br><br>Adres URL strony docelowej z podstawowymi wymaganiami specyficznymi dla programu |
+| Wymagania dotyczące komunikacji | Zrzut ekranu przedstawiający anons cyfrowy<br><br>AND<br><br>Adres URL strony docelowej z podstawowymi wymaganiami specyficznymi dla programu |
 | Metryki     | Podsumowanie wyników (na przykład raport klikany) |
 |Kwalifikujące się wydatki    | Umieszczanie multimediów innych firm<br><br>Opłata — agencja: usługi marketingowe i kreatywne, w tym opłaty agencyjne |
 
@@ -69,29 +69,29 @@ W poniższych tabelach przedstawiono podstawowe wymagania dotyczące poszczegól
 | Wymagania podstawowe    | NA |
 | Wymagania dotyczące komunikacji | Adres URL i/lub zrzuty ekranu stron witryny pokazujące adres URL |
 | Metryki     | Podsumowanie wyników (na przykład raport klikany) |
-|Kwalifikujące się wydatki    | Rzeczywiste koszty do 18 750 USD na okres użycia dla: opłata — usługi marketingowe agencji, w tym opłaty agencyjne<br><br>Opłaty za programowanie i programowanie<br><br>Umieszczanie multimediów  |
+|Kwalifikujące się wydatki    | Rzeczywiste koszty do 18 750 USD na okres użycia: opłata — usługi marketingowe agencji, w tym opłaty agencyjne<br><br>Opłaty za programowanie i programowanie<br><br>Umieszczanie multimediów  |
 
-### <a name="multi-touch-digital-campaign"></a>Wielo dotykowa kampania cyfrowa
+### <a name="multi-touch-digital-campaign"></a>Kampania cyfrowa z wieloma dotykami
 
 | Kategoria | Dowód wykonania    |
 | ------ | ----------- |
 | Wymagania podstawowe    |NA |
-| Wymagania dotyczące komunikacji | Wymagany jest cały dowód wykonania zgodnie ze szczegółowymi informacjami na stronie odpowiedniego działania<br><br>Digital Advertising<br><br>Bezpośrednia wiadomość e-mail<br><br>Optymalizacja witryny internetowej partnera i wyszukiwarki<br><br>Telemarketing  |
+| Wymagania dotyczące komunikacji | Wymagany jest cały dowód wykonania zgodnie z informacjami na stronie odpowiedniego działania<br><br>Reklamy cyfrowe<br><br>Bezpośrednia poczta e-mail<br><br>Optymalizacja witryny internetowej partnera i wyszukiwarki<br><br>Telemarketing  |
 | Metryki     | NA |
-|Kwalifikujące się wydatki    | Umieszczanie multimediów innych firm<br><br>Opłata — agencja: Usługi marketingowe i kreatywne, w tym opłaty agencyjne<br><br>Pozyskiwanie bazy danych<br><br>Programowanie/programowanie: opłaty za programowanie i programowanie<br><br>Opłata — OPTYMALIZACJA: opłaty za optymalizację i konserwację<br><br>Opłata — opłaty za centrum telefonicznej obsługi klienta innej firmy |
+|Kwalifikujące się wydatki    | Umieszczanie multimediów innych firm<br><br>Opłata — agencja: usługi marketingowe i kreatywne, w tym opłaty agencyjne<br><br>Pozyskiwanie bazy danych<br><br>Programowanie/programowanie: opłaty za programowanie i programowanie<br><br>Opłata — OPTYMALIZACJA: opłaty za optymalizację i konserwację<br><br>Opłata — opłaty za centrum telefoniczne innych firm |
 
 ## <a name="market-development"></a>Rozwój rynku
 
-### <a name="telemarketing-and-expositions"></a>Telemarketing i cyferki
+### <a name="telemarketing-and-expositions"></a>Telemarketing i cyferferty
 
 | Kategoria | Dowód wykonania    |
 | ------ | ----------- |
-| Wymagania podstawowe    | Informacje o nazwie/marce firmy muszą być zawarte w skrypcie telesales, zawartości firmy Microsoft |
+| Wymagania podstawowe    | Informacje o nazwie firmy/marce muszą być zawarte w skrypcie telesales, zawartości firmy Microsoft |
 | Wymagania dotyczące komunikacji | Kopia skryptu |
 | Metryki     | Podsumowanie wyników (liczba wywołań i liczba pomyślnych kontaktów) |
 |Kwalifikujące się wydatki    | Opłata — agencja: Usługi marketingowe, w tym opłaty agencyjne<br><br>Opłata — centrum telefoniczne innej firmy: opłaty<br><br>Pozyskiwanie bazy danych  |
 
-### <a name="customer-seminars-and-boot-camps"></a>Seminaria i seminaria rozruchowe klientów
+### <a name="customer-seminars-and-boot-camps"></a>Warsztaty dla klientów i seminaria rozruchowe
 
 | Kategoria | Dowód wykonania    |
 | ------ | ----------- |
@@ -107,7 +107,7 @@ W poniższych tabelach przedstawiono podstawowe wymagania dotyczące poszczegól
 | Wymagania podstawowe    | Nazwa marki firmy i informacje kontaktowe<br><br>Zawartość firmy Microsoft  |
 | Wymagania dotyczące komunikacji | Zaproszenie do wydarzenia i program<br><br>Zdjęcie przedstawiające uczestnictwo w wydarzeniach (na przykład zdjęcie w galerii, zdjęcie prezentacji itp.) |
 | Metryki     | Szacowana liczba uczestników lub gości w chętnych  |
-|Kwalifikujące się wydatki    | Znak / wyświetlacz / materiały drukowane<br><br>Prezenty<br><br>Opłata — agencja: Usługi marketingowe, w tym opłaty agencyjne<br><br>Opłata — rejestracja<br><br>Opłata — zewnętrzna prelegentka<br><br>Opłata — wypożyczanie obiektów i sprzętu, w tym urządzeń Surface należących do innej firmy i zarządzanych przez nie<br><br>Zamów (z wyjątkiem jedli) |
+|Kwalifikujące się wydatki    | Podpisywanie/wyświetlanie/materiały drukowane<br><br>Prezenty<br><br>Opłata — agencja: Usługi marketingowe, w tym opłaty agencyjne<br><br>Opłata — rejestracja<br><br>Opłata — zewnętrzna prelegentka<br><br>Opłata — wypożyczanie obiektów i sprzętu, w tym urządzeń Surface należących do innej firmy i zarządzanych przez nie<br><br>Dobowe (z wyłączeniem bąbka) |
 
 ### <a name="customer-offers"></a>Oferty klientów
 
@@ -116,7 +116,7 @@ W poniższych tabelach przedstawiono podstawowe wymagania dotyczące poszczegól
 | Wymagania podstawowe    | Zawartość firmy Microsoft |
 | Wymagania dotyczące komunikacji | Pokaż ofertę z warunkami i postanowieniami. Rzeczywiste koszty do 25% całkowitej sumy środków zdobytych w ramach współpracy na okres użycia. Partnerzy powierzchniowi mogą uzyskać do 100% środków uzyskanej współpracy na okres użycia na kwalifikujące się wydatki na działania. |
 | Metryki     | Podsumowanie wyników |
-|Kwalifikujące się wydatki    | Znak / wyświetlacz / materiały drukowane<br><br>Prezenty<br><br>Opłata — agencja: Usługi marketingowe, w tym opłaty agencyjne |
+|Kwalifikujące się wydatki    | Podpisywanie/wyświetlanie/materiały drukowane<br><br>Prezenty<br><br>Opłata — agencja: Usługi marketingowe, w tym opłaty agencyjne |
 
 ### <a name="internal-incentives-and-spiffs"></a>Wewnętrzne zachęty i systemy SPIF
 
@@ -132,9 +132,9 @@ W poniższych tabelach przedstawiono podstawowe wymagania dotyczące poszczegól
 | Kategoria | Dowód wykonania    |
 | ------ | ----------- |
 | Wymagania podstawowe    | Usługi koncentrowały się w 100% na produktach firmy Microsoft | 
-| Wymagania dotyczące komunikacji | Przykładowe produkty do dostarczenia (na podstawie tego, co opisano w formularzu on-site champ) |
+| Wymagania dotyczące komunikacji | Przykładowe produkty (na podstawie tego, co opisano w formularzu on-site champ) |
 | Metryki     | NA |
-|Kwalifikujące się wydatki    | Rzeczywiste koszty do 100% dla urządzenia Surface i 50% dla wszystkich innych programów zdobytych środków współpracy na okres użycia dla: Opłaty — usługi: usługi udostępniane przez zasoby on-Site Champ |
+|Kwalifikujące się wydatki    | Rzeczywiste koszty do 100% dla urządzenia Surface i 50% dla wszystkich innych programów zdobytych środków współpracy na okres użycia dla: Opłaty — usługi: usługi udostępniane przez zasoby On-Site Champ |
 
 ### <a name="proof-of-concept"></a>Weryfikacja koncepcji
 
@@ -151,7 +151,7 @@ W poniższych tabelach przedstawiono podstawowe wymagania dotyczące poszczegól
 | ------ | ----------- |
 | Wymagania podstawowe    | NA |
 | Wymagania dotyczące komunikacji | Strona docelowa adresu URL lub zrzut ekranu przedstawiający strony witryny internetowej. Nie kwalifikuje się do urządzenia Surface ADD |
-| Metryki     | Opłata — agencja: Usługi marketingowe, w tym opłaty agencyjne<br><br>Programowanie/programowanie: opłaty za programowanie i programowanie<br><br>Opłata — usługa: Usługi pracy świadczone przez partnera lub dostawcę zewnętrznego w celu obsługi konfiguracji sieci Web |
+| Metryki     | Opłata — agencja: Usługi marketingowe, w tym opłaty agencyjne<br><br>Programowanie/programowanie: opłaty za programowanie i programowanie<br><br>Opłata — usługa: Usługi pracy udostępniane przez partnera lub dostawcę zewnętrznego w celu obsługi konfiguracji sieci Web |
 |Kwalifikujące się wydatki    | NA |
 
 ## <a name="partner-readiness"></a>Gotowość partnerów
@@ -163,15 +163,15 @@ W poniższych tabelach przedstawiono podstawowe wymagania dotyczące poszczegól
 | Wymagania podstawowe    | Oryginalna faktura firmy Microsoft |
 | Wymagania dotyczące komunikacji | NA |
 | Metryki     | NA |
-|Kwalifikujące się wydatki    | Opłata — rejestracja roczna: roczne opłaty za rejestrację w programie MPN<br><br>Dysk DVD (pierwszy zestaw): członkostwo w programie MPN i pierwszy zestaw dysków DVD<br><br>Dodatkowy zestaw narzędzi korzyści |
+|Kwalifikujące się wydatki    | Opłata — rejestracja roczna: roczne opłaty za rejestrację w programie MPN<br><br>Dyski dvd (pierwszy zestaw): członkostwo w programie MPN i pierwszy zestaw dysków DVD<br><br>Dodatkowy zestaw narzędzi korzyści |
 
-### <a name="microsoft-exams-and-tuition"></a>Egzaminy i ektura firmy Microsoft
+### <a name="microsoft-exams-and-tuition"></a>Egzaminy i ition firmy Microsoft
 
 | Kategoria | Dowód wykonania    |
 | ------ | ----------- |
-| Wymagania podstawowe    | Kod kursu/kod egzaminu na Microsoft Learning |
+| Wymagania podstawowe    | Kod kursu/kod egzaminu w witrynie Microsoft Edukacja |
 | Wymagania dotyczące komunikacji | Faktura innej firmy z kodem kursu i datą ukończenia lub fakturą z kodem egzaminu i datą ukończenia |
-| Metryki     | Lista uczestników i koszt osoby |
+| Metryki     | Lista uczestników i koszt na osobę |
 |Kwalifikujące się wydatki    | Opłata — egzamin: Opłaty za egzaminy firmy Microsoft związane z certyfikacjami i kompetencjami<br><br>Opłata — szkolenia/ition: Opłaty za szkolenia firmy Microsoft dotyczące certyfikacji i kompetencji, w tym wydatki na szkolenia na żądanie<br><br>Szkolenia w zakresie rozwiązań innych firm — wydatki na szkolenia dotyczące rozwiązań innych firm, które można zademonstrować w celu wykorzystania lub znajdowania się w aplikacjach i platformach firmy Microsoft<br><br>Opłata — odnawianie mct: Microsoft Certified Trainer odnowienia (nie jest wymagana metryka)<br><br>|
 
 ### <a name="internal-training-and-floor-days"></a>Szkolenia wewnętrzne i dni łódki
@@ -181,18 +181,18 @@ W poniższych tabelach przedstawiono podstawowe wymagania dotyczące poszczegól
 | Wymagania podstawowe    | Zawartość firmy Microsoft na poziomie 100% dla czasu dnia lub zajętego obszaru zdarzeń |
 | Wymagania dotyczące komunikacji | Training Training Training Lub Event Program<br><br>Zawartość prezentacji firmy Microsoft<br><br>|
 | Metryki     | Liczba uczestników |
-|Kwalifikujące się wydatki    | Opłata — formatowanie szkoleń/szkoleń/rejestracji/platformy szkoleń cyfrowych lub szkoleń cyfrowych<br><br>Znak / wyświetlacz / materiały drukowane<br><br>Prezenty<br><br>Opłata — agencja: usługi marketingowe, w tym opłaty agencyjne<br><br>Opłata — zewnętrzna prelegentka<br><br>Opłata — wypożyczenie sprzętu i sprzętu<br><br>Dobowe (z wyłączeniem bąbka) |
+|Kwalifikujące się wydatki    | Opłata — formatowanie szkoleń/szkoleń/rejestracji/platformy szkoleń cyfrowych lub szkoleń cyfrowych<br><br>Znak / wyświetlacz / materiały drukowane<br><br>Prezenty<br><br>Opłata — agencja: usługi marketingowe, w tym opłaty agencyjne<br><br>Opłata — zewnętrzna prelegentka<br><br>Opłata — wypożyczanie obiektów i sprzętu<br><br>Zamów (z wyjątkiem jedli) |
 
 ### <a name="microsoft-hosted-conferences"></a>Konferencje hostowane przez firmę Microsoft
 
 | Kategoria | Dowód wykonania    |
 | ------ | ----------- |
-| Wymagania podstawowe    | Konferencje hostowane przez firmę Microsoft. Wydatki na bilety lotnicze/hotelowe są ograniczone do 5000 USD na osobę na konferencję, ograniczoną do 3 uczestników, przy łącznym limitie 45 000 USD na opłaty za bilety lotnicze/szkolenia/hotel na okres na program. Hosting może mieć różne przydziały. |
-| Wymagania dotyczące komunikacji | Kopia zaproszenia do konferencji/wydarzenia lub potwierdzenia rejestracji z dowodem na to, że konferencja jest hostowana przez firmę Microsoft<br><br>Trasy transportowe z datami podróży (Tylko podróż — koszty podróży) |
+| Wymagania podstawowe    | Konferencje hostowane przez firmę Microsoft. Wydatki na bilety lotnicze/hotelowe są ograniczone do 5000 USD na osobę na konferencję, z ograniczeniami do 3 uczestników, przy całkowitej limitie 45 000 USD na opłaty za bilety lotnicze/szkolenie/hotel na okres na program. Hosting może mieć różne limity. |
+| Wymagania dotyczące komunikacji | Kopia zaproszenia do konferencji/wydarzenia lub potwierdzenia rejestracji z dowodem na to, że konferencja jest hostowana przez firmę Microsoft<br><br>Trasy transportowe z datami podróży (tylko podróż — koszty podróży) |
 | Metryki     | NA |
-|Kwalifikujące się wydatki    | Opłata — rejestracja: dla maksymalnie 3 uczestników na konferencję<br><br>Travel — Airfare/Hotel: Transport (opłata za lot lub trenowanie i obowiązujące podatki) i hotel (tylko stawka pokoju i odpowiednie podatki)<br><br>Uwaga: Wydatki związane z podróżami — koszty podróży/hotelowych są ograniczone do 5000 USD na osobę na konferencję( ograniczenie do 3 uczestników, przy łącznym limitie 45 000 USD na opłaty za lot/szkolenie/hotel na okres na program). Hosting może mieć różne przydziały. |
+|Kwalifikujące się wydatki    | Opłata — rejestracja: dla maksymalnie 3 uczestników na konferencję<br><br>Podróż — airfare/hotel: transport (opłata za bilety lotnicze lub szkolenie i odpowiednie podatki) i hotel (tylko stawka pokoju i odpowiednie podatki)<br><br>Uwaga: Koszty podróży — wydatki na bilety lotnicze/hotelowe są ograniczone do 5000 USD na osobę na konferencję( ograniczenie do 3 uczestników, przy łącznej wartości 45 000 USD dla opłat za lot/trenowanie/hotelowych wydatków na okres na program). Hosting może mieć różne limity. |
 
-### <a name="product-seedingdemo-units"></a>Iniekcjowanie/jednostki demonstracyjne produktów
+### <a name="product-seedingdemo-units"></a>Iniekcjowanie produktów/jednostki demonstracyjne
 
 | Kategoria | Dowód wykonania    |
 | ------ | ----------- |
@@ -201,7 +201,7 @@ W poniższych tabelach przedstawiono podstawowe wymagania dotyczące poszczegól
 | Metryki     | NA |
 |Kwalifikujące się wydatki    | NA |
 
- Aby uzyskać szczegółowe informacje, pobierz [podręcznik](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) współpracy zachęt dla partnerów (wymagane jest zalogowanie).
+ Aby uzyskać szczegółowe informacje, pobierz podręcznik współpracy zachęt dla [partnerów](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (wymagane jest zalogowanie).
 
 ## <a name="next-steps"></a>Następne kroki
 

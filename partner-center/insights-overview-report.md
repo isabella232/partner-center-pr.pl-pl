@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5c063788b11dfb2507ff88a1774a94f21f6ebca5
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8ab68cbae952b8eab24dd989386007cd0c2fcc559cd48eb37256b80ce1146acf
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845231"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115678587"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Omówienie raportów pulpitu nawigacyjnego dostępnych w Partner Center Szczegółowe informacje
  
@@ -35,7 +35,7 @@ Podsumowanie zawiera informacje o klientach, przychód z wykorzystania platformy
 
 :::image type="content" source="images/insights/summary.png" alt-text="Licencje podsumowujące.":::
 
-Więcej informacji na temat każdej sekcji w sekcji Podsumowanie można znaleźć poniżej.
+Więcej informacji na temat poszczególnych sekcji w sekcji Podsumowanie można znaleźć poniżej.
 
 ### <a name="customers"></a>Klienci
 
@@ -74,7 +74,7 @@ Obszar **Aktywne subskrypcje** w obszarze Podsumowanie obejmuje:
  
 ### <a name="licenses-deployed"></a>Wdrożone licencje
 
-Obszar **Licencje wdrożone w** obszarze Podsumowanie obejmuje:
+Obszar **Licencje wdrożone w** obszarze Podsumowanie zawiera:
  
 - Liczba wszystkich licencji produktu w chmurze wdrożonych w subskrypcjach klientów w wybranym okresie. 
 - Procent wzrostu lub spadku liczby tych licencji w wybranym zakresie dat. 
@@ -100,10 +100,10 @@ Wskazuje to trend liczby subskrypcji klientów dla wybranego zakresu dat. Oś X 
 
 ## <a name="azure-consumed-revenue-growth-trend"></a>przychód z wykorzystania platformy Azure trendu wzrostu
 
-Miesięczny trend przychodu zużytego przez platformę Azure w dolarach amerykańskich przypisany do Ciebie w wybranym zakresie dat. Oś X reprezentuje miesiące z wybranego zakresu dat, a oś Y reprezentuje łączny przychód zużyty przez platformę Azure w dolarach amerykańskich przypisany do Ciebie w ciągu miesiąca.
+Miesięczny trend przychodu zużytego przez platformę Azure w dolarach amerykańskich przypisany do Ciebie w wybranym zakresie dat. Oś X reprezentuje miesiące wybranego zakresu dat, a oś Y reprezentuje łączny przychód zużyty przez platformę Azure w dolarach amerykańskich przypisany do Ciebie w ciągu miesiąca.
 
 > [!NOTE]
-> ACR będzie widoczny tylko dla użytkowników, którym przypisano rolę osoby przeglądowej raportu Executive. 
+> ACR będzie widoczny tylko dla użytkowników, którym przypisano rolę osoby przeglądowej raportu executive. 
 
 :::image type="content" source="images/insights/azure-consumed.png" alt-text="Zużycie platformy Azure.":::
 

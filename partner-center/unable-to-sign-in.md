@@ -3,18 +3,18 @@ title: Nie można zalogować się do Partner Center
 ms.topic: troubleshooting
 ms.date: 04/08/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Rozwiązywanie problemów z możliwymi przyczynami i poznaj rozwiązania dotyczące sytuacji, w których nie możesz zalogować się do usługi Partner Center — dowiedz się więcej o resetowaniu haseł, sprawdzaniu ról i sprawdzaniu poświadczeń.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d0a4583aa7b3ec6f51066dfa2c3dedcbcc18eb35
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d084cbf4def33074cc0ca1aae556004cf67bf555
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836646"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100150"
 ---
 # <a name="troubleshoot-sign-in-issues-for-partner-center"></a>Rozwiązywanie problemów z logowaniem dla Partner Center
 

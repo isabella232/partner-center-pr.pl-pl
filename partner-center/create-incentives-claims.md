@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 185d1593808bc417fa15646955a0cce683242570
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f94242bce381b9906f00671dd4ca41ca68c29fd28c80396e2e17d0130807ab71
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148163"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115679846"
 ---
 # <a name="create-and-manage-an-incentives-co-op-claim"></a>Tworzenie roszczeń do współpracy zachęt i zarządzanie nimi
 
@@ -30,13 +30,13 @@ Możesz zainicjować roszczenie zachęt z poziomu Partner Center.
 
 4. Aby utworzyć nowe oświadczenie, wybierz **pozycję Utwórz oświadczenie.**
 
-5. Po wypełnieniu formularza początkowego i wybraniu opcji Utwórz roszczenie zostaniesz przekierowynyny do strony szczegółów roszczenia, na której będzie można dodać faktury, raporty CSR, dokumenty potwierdzające i metryki. W razie konieczności można także dodać dodatkowe informacje.
+5. Po wypełnieniu formularza początkowego i wybraniu opcji Utwórz roszczenie zostaniesz przekierowynyny do strony szczegółów roszczenia, na której będzie można dodać faktury, żądania CSR, dokumenty potwierdzające i metryki. W razie konieczności można także dodać dodatkowe informacje.
 
 Na stronie szczegółów roszczenia można zwrócić się do innych osób w organizacji o przekazanie dokumentacji do formularza. Do każdego przekazanego dokumentu pomocniczego można podać szczegółowe informacje. 
 
 ### <a name="manage-your-claims"></a>Zarządzanie oświadczeniami
 
-W historii możesz zobaczyć wszystkie działania, które trafiają do budynku **roszczenia.** Za każdym razem, gdy współpracownik doda dokument lub komentarze do czegoś, akcja jest przechowywana w **historii**. Do momentu przesyłania roszczenia stanem jest **edytowanie .** Stan oświadczenia zmienia się w trakcie procesu zatwierdzania. Czasami podczas przeglądania roszczenia możesz otrzymać opinię na temat określonego elementu w dokumentacji weryfikacji wykonania(PoE). Opinie i żądania dotyczące dodatkowych informacji są również wyświetlane w historii roszczeń.
+W historii możesz zobaczyć wszystkie działania, które trafiają do budynku **roszczenia.** Za każdym razem, gdy współpracownik doda dokument lub komentarze do czegoś, akcja jest przechowywana w **historii**. Do momentu przesyłania roszczenia stanem jest **edytowanie .** Stan oświadczenia zmienia się w trakcie procesu zatwierdzania. Czasami podczas przeglądania roszczenia możesz otrzymać opinię na temat określonego elementu w dokumentacji weryfikacji wykonania. Opinie i żądania dotyczące dodatkowych informacji są również wyświetlane w historii roszczeń.
 
 Po przesłaniu roszczenia nie można edytować go, chyba że recenzent zażąda dodatkowych informacji.
 

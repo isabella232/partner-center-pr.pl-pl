@@ -9,16 +9,16 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 911c7271d852bef040dc7cc8f74eff2c8b865125
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 0a417d11c462884463184dff18b71f5cefafeb0b3567e33b36bc301c35ac9d8d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838363"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115680706"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Kupowanie Microsoft Azure rezerwacji w imieniu klientów w Partner Center
 
-**Odpowiednie role:** Administrator | Administrator globalny | Agent pomocy technicznej | Agent sprzedaży | Administrator zarządzania użytkownikami
+**Odpowiednie role:** Agent administracyjny | Administrator globalny | Agent pomocy technicznej | Agent sprzedaży | Administrator zarządzania użytkownikami
 
 W tym artykule wyjaśniono, jak kupować lub kupować rezerwacje platformy Azure w imieniu klientów w Partner Center. Identyfikuje on również rynki, na których rezerwacje platformy Azure są niedostępne.
  
@@ -115,7 +115,7 @@ Wykonaj poniższe kroki, aby Microsoft Azure rezerwacje w imieniu klientów w Pa
 
 5. Użyj filtrów, aby znaleźć rezerwacje platformy Azure na maszynach wirtualnych spełniających wymagania klienta.  
 
-6. Po odnalezieniu rezerwacji, które chcesz kupić, wprowadź liczbę wystąpień zarezerwowanych, których klient będzie potrzebować w opcji **Quantity** (Ilość), a następnie wybierz **pozycję Add to cart (Dodaj do koszyka).**  
+6. Po odnalezieniu rezerwacji, które chcesz kupić, wprowadź liczbę wystąpień zarezerwowanych, których klient będzie potrzebować w opcji **Quantity** (Ilość), a następnie wybierz pozycję Add to cart (Dodaj **do koszyka).**  
 
 7. Powtarzaj kroki 5 i 6 do momentu dodania wszystkich niezbędnych elementów do zamówienia. Wybierz **pozycję Przejrzyj,** aby sprawdzić, czy twoje zamówienie jest prawidłowe.  
 
@@ -126,14 +126,14 @@ Wykonaj poniższe kroki, aby Microsoft Azure rezerwacje w imieniu klientów w Pa
     - Wybierz zakres rezerwacji. Zakres rezerwacji może obejmować jedną subskrypcję lub wiele subskrypcji (zakres udostępniony). Jeśli zakres rezerwacji zostanie ograniczony do pojedynczej subskrypcji, rabat za rezerwację zostanie zastosowany tylko do tej subskrypcji. W przypadku wybrania opcji udostępnionej rabat za rezerwację jest stosowany do wszystkich subskrypcji w kontekście rozliczeń klienta. 
 
       >[!NOTE] 
-      >Jeśli zdecydujesz się ograniczyć zakres rezerwacji do pojedynczej subskrypcji platformy Azure, może być konieczne zwiększenie limitu przydziału procesorów wirtualnych subskrypcji. Aby zwiększyć limit przydziału procesorów wirtualnych subskrypcji, należy utworzyć żądanie obsługi w Azure Portal. Postępuj zgodnie z [instrukcjami](/azure/azure-supportability/resource-manager-core-quotas-request) w tym temacie, aby utworzyć żądanie. 
+      >Jeśli zdecydujesz się ograniczyć zakres rezerwacji do pojedynczej subskrypcji platformy Azure, może być konieczne zwiększenie limitu przydziału procesorów wirtualnych subskrypcji. Aby zwiększyć limit przydziału procesorów wirtualnych subskrypcji, należy utworzyć żądanie obsługi w Azure Portal. Postępuj zgodnie z [instrukcjami w tym temacie,](/azure/azure-supportability/resource-manager-core-quotas-request) aby utworzyć żądanie. 
 
       >[!NOTE]   
-      >Jeśli klient jest w ramach planu platformy Azure, dla ustawienia **Zakres**  zostanie ustawiona wartość **Udostępnione**. 
+      >Jeśli klient jest w ramach planu platformy Azure, **dla ustawienia Zakres**  zostanie ustawiona wartość **Udostępnione**. 
 
     - Jeśli jesteś partnerem dostawcy, wybierz odsprzedawcę, który chcesz skojarzyć z produktem.
     
-    - Jeśli rezerwacja platformy Azure obsługuje opcję Plan rozliczeniowy, z menu rozwijanego możesz wybrać częstotliwość rozliczeń jako miesięczną. 
+    - Jeśli rezerwacja platformy Azure obsługuje opcję Plan rozliczeniowy, możesz wybrać częstotliwość rozliczeń co miesiąc z menu rozwijanego. 
     - Jeśli rezerwacja platformy Azure nie obsługuje opcji Plan rozliczeniowy, częstotliwość rozliczeń jest domyślnie rozliczeniowa. 
 
 9. Wybierz **pozycję Kup,** aby zakupić zamówienie. Szczegóły zamówienia, w tym numer zamówienia, są wyświetlane na **stronie Potwierdzanie.** Wybierz **pozycję Gotowe,** aby przejść **do strony Historii** zamówień. 
@@ -147,5 +147,5 @@ Wykonaj poniższe kroki, aby Microsoft Azure rezerwacje w imieniu klientów w Pa
 |Rezerwacje platformy Azure w programie CSP — omówienie  | [Sprzedaż Microsoft Azure wystąpień zarezerwowanych](azure-reservations.md) |
 |Zarządzanie rezerwacjami platformy Azure w usłudze Partner Center | [Zarządzanie rezerwacjami platformy Azure w usłudze Partner Center](azure-reservations-manage.md)
 |Określanie prawidłowego rozmiaru maszyny wirtualnej i weryfikowanie użycia maszyny wirtualnej klienta   |[Rozmiar maszyny wirtualnej dla maksymalnego użycia rezerwacji platformy Azure](azure-usage.md)   |
-|Kupowanie rezerwacji platformy Azure przy użyciu interfejsu PARTNER CENTER API | [Informacje Azure Reserved VM Instances](/partner-center/develop/purchase-azure-reservations) w dokumentacji Partner Center dewelopera   |
+|Kupowanie rezerwacji platformy Azure przy użyciu interfejsu API Partner Center Api | [Informacje Azure Reserved VM Instances](/partner-center/develop/purchase-azure-reservations) w dokumentacji Partner Center dewelopera   |
 |Udzielanie klientom uprawnień do zakupu własnych rezerwacji platformy Azure  | [Nadaj klientom uprawnienia do zakupu własnych rezerwacji platformy Azure](give-customers-permission.md)  |

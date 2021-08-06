@@ -3,18 +3,18 @@ title: Przywracanie zawieszonego konta w Centrum partnerskim
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Dowiedz się, jak przywrócić wstrzymane konto Partner Center, dlaczego występuje zawieszenie konta partnera i jak można używać swojego konta podczas zawieszania.
 author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2132320d47a29806f338a7d3986626fefd22ee01
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 84448566bb3a5d4ef8655ccfee86e7d39f4a6642
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841134"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100399"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restore a suspended Partner Center account - learn why it happens and what to do about it (Przywracanie zawieszonego konta Centrum partnerskiego — przyczyny i czynnością do wykonania)
 
@@ -29,7 +29,7 @@ W tym artykule wyjaśniono, co należy zrobić, jeśli Twoje konto w Centrum par
 
 ## <a name="why-partner-center-accounts-are-suspended"></a>Dlaczego Partner Center konta są zawieszone
 
-Firma Microsoft wstrzyma Partner Center konta z jednego z następujących powodów:
+Firma Microsoft zawiesi konto Partner Center z jednego z następujących powodów:
 
 - Gdy bieżąca kwota rozliczeniowa jest za overduchem większa niż 60 dni
 - W przypadku wykrycia znacznego nadużycie konta

@@ -8,12 +8,12 @@ description: Ten interfejs API umożliwia uzyskiwanie wszystkich dostępnych ide
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: dc0e3925aeb07adc0e2b38af2913c63d3183941e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 9c6930d8be430f6a9219e7b3d11b2e64ed2af5253b81581581ad6254a2a1d8d3
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841355"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697146"
 ---
 # <a name="get-report-api"></a>Uzyskiwanie interfejsu API raportu
 
@@ -109,7 +109,7 @@ W tej tabeli zdefiniowano kluczowe elementy odpowiedzi:
 |    executeNow     |    Flaga ExecuteNow ustawiona w czasie tworzenia raportu    |
 |    StartTime     |    Rozpocznie się wykonywanie czasu. Format godziny to yyyy-MM-ddTHH:mm:ssZ     |
 |    ReportStatus     |    Stan wykonania raportu. Możliwe wartości to Wstrzymane, Aktywne i Nieaktywne.     |
-|    CyklInterval     |    Interwał cyklu zapewniany podczas tworzenia raportu     |
+|    RecurrenceInterval     |    Interwał cyklu zapewniany podczas tworzenia raportu     |
 |    RecurrenceCount     |    Liczba cyklów zapewniana podczas tworzenia raportu     |
 |    CallbackUrl     |    Adres URL wywołania zwrotnego podany w żądaniu     |
 |    CallbackMethod    |    Metoda wywołania zwrotnego podana w żądaniu    |

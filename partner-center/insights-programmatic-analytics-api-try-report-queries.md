@@ -8,12 +8,12 @@ description: Ten interfejs API umożliwia przetestowanie zapytania i zweryfikowa
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: c83b56b7d52e0b9feb598597b4a8e1fdaec98a3b
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8358366d4782473549403ca3def4c6a6ec3825c91899f401d6dc44b5a9192ea9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845605"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696958"
 ---
 # <a name="try-report-queries-api"></a>Wypróbuj interfejs API zapytań dotyczących raportów
 

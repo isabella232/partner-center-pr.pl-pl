@@ -3,18 +3,18 @@ title: Resetowanie hasła
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Dowiedz się, jak zresetować hasło Partner Center lub uzyskać pomoc od administratora globalnego firmy. Dowiedz się również, jak dodać nową Partner Center globalnego.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c26c33947e35e83f643c6ef1c6ddf74dab460f6d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 9e8c042809793da99daeb66f434e7f82405e03b0b949b5ae4481b5c4258dfb68
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844466"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115678224"
 ---
 # <a name="reset-my-password"></a>Resetowanie hasła
  
@@ -27,7 +27,7 @@ Jeśli nie pamiętasz hasła Partner Center, możesz je zresetować.
 
 Aby użyć tej metody, administrator globalny musi już skonfigurować możliwość resetowania hasła samodzielnie. (Jeśli administrator globalny nie wykonał tej funkcji, poproś go o [zresetowanie hasła).](reset-a-user-password.md)
 
-1. Na **ekranie Logowanie** wybierz pozycję **Nie można uzyskać dostępu do konta?,** a następnie wybierz pozycję **Dalej.**
+1. Na **ekranie Logowanie** wybierz pozycję **Nie możesz uzyskać dostępu do konta?,** a następnie wybierz pozycję **Dalej.**
 
 2. Wybierz **pozycję Konto służbowe.**
 

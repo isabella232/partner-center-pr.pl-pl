@@ -8,12 +8,12 @@ description: Użyj tego interfejsu API, aby usunąć zapytanie zdefiniowane prze
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: f755bc13ff4e0c4bc3a2c6ceda123c6a2bc47dc5
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 4714d523ff9942838e9666fe75f3df21aae69e043b6d9be1e1819cbd52dfb6ff
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836391"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681658"
 ---
 # <a name="delete-report-queries-api"></a>Interfejs API usuwania zapytań dotyczących raportów
 
@@ -38,7 +38,7 @@ Ten interfejs API usuwa zapytania zdefiniowane przez użytkownika.
 
 |    Nazwa parametru    |    Typ    |    Wymagane    |    Opis    |
 |    ----    |    ----    |    ----    |    ----    |
-|    queryId     |    ciąg     |    Nie    |    Filtrowanie w celu uzyskania szczegółów dotyczących tylko zapytań o identyfikatorze podanym w argumentze     |
+|    queryId     |    ciąg     |    Nie    |    Filtrowanie w celu uzyskania szczegółów tylko zapytań o identyfikatorze podanym w argumentze     |
 |        |        |        |        |
 
 **Parametr zapytania**
@@ -89,11 +89,11 @@ W tej tabeli zdefiniowano kluczowe elementy odpowiedzi:
 |    QueryId     |    Unikatowy identyfikator UUID zapytania, które zostało usunięte    |
 |    Nazwa     |    Nazwa zapytania, które zostało usunięte    |
 |    Opis     |    Opis usuniętego zapytania     |
-|    Zapytanie     |    Ciąg zapytania raportu usuniętego zapytania    |
+|    Zapytanie     |    Ciąg zapytania raportu dla usuniętego zapytania    |
 |    Typ     |    Ustaw wartość userDefined dla zapytań utworzonych przez użytkownika     |
 |    Użytkownik     |    Identyfikator użytkownika, który utworzył zapytanie     |
 |    CreatedTime     |    Czas utworzenia zapytania     |
-|    TotalCount     |    Liczba zestawów danych w tablicy Value     |
-|    Komunikat     |    Komunikat o stanie z wykonywania interfejsu API     |
+|    Łączna liczba     |    Liczba zestawów danych w tablicy Value     |
+|    Komunikat     |    Komunikat o stanie z wykonania interfejsu API     |
 |    Statuscode     |    Kod wyniku. Możliwe wartości to 200, 400, 401, 403, 500     |
 |        |        |
