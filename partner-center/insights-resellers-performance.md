@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 796af99cc405a72bebcd467b242dafb83ac756e5
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c319cff5d67dbf477dc15d1eaf4e048141cb193b54be30187f385bee1532200f
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844704"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115683299"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Pulpit nawigacyjny wydajności odsprzedawcy w Partner Center Szczegółowe informacje
 

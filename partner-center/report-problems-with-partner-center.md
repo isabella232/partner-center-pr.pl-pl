@@ -1,5 +1,5 @@
 ---
-title: Zbieranie problemów dotyczących diagnostyki i raportowania w Partner Center
+title: Zbieranie danych diagnostycznych i zgłaszanie problemów w programie Partner Center
 ms.topic: how-to
 ms.date: 11/19/2020
 ms.service: partner-dashboard
@@ -9,14 +9,14 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e8f48476a6136889be8bb5c9f7a12ed8c42dc94
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8539b5744cccd7356873a5fa8568fe271cc372877487afe1febe9290ed1e70ac
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845962"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682794"
 ---
-# <a name="collecting-diagnostics-and-reporting-problems-in-partner-center"></a>Zbieranie problemów dotyczących diagnostyki i raportowania w Partner Center
+# <a name="collecting-diagnostics-and-reporting-problems-in-partner-center"></a>Zbieranie danych diagnostycznych i zgłaszanie problemów w programie Partner Center
 
 **Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
 
@@ -44,7 +44,7 @@ Skontaktuj się Partner Center pomocą techniczną, jeśli znajdziesz problemy l
 Planowanie terminów umożliwia zaplanowanie terminu z przypisanym do Ciebie zwolennikiem.  W wersji zapoznawczej terminy są ograniczone do podzbioru typów problemów i zespołów pomocy technicznej.  
 
    > [!NOTE]
-   > Planowanie terminu pomocy technicznej nie jest natychmiast dostępne po utworzeniu sprawy. Termin pomocy technicznej można zaplanować tylko po przypisaniu właściciela żądania.   
+   > Planowanie terminu pomocy technicznej nie jest natychmiast dostępne po utworzeniu sprawy. Termin pomocy technicznej można zaplanować dopiero po przypisaniu właściciela żądania.   
 
 1. Na **pulpicie Partner Center** nawigacyjnym wybierz pozycję **[Pomoc techniczna.](https://partner.microsoft.com/dashboard/support/servicerequests)** 
 
@@ -62,7 +62,7 @@ Planowanie terminów umożliwia zaplanowanie terminu z przypisanym do Ciebie zwo
 
 5.  Otrzymasz wiadomość e-mail od Partner Center Terminy. Otwórz załącznik pliku ics, aby dodać termin do kalendarza. Możesz również otrzymywać wiadomości e-mail z przypomnieniem. 
 
-6.  Aby zmienić termin, wróć do strony szczegółów biletu w Partner Center wybierz pozycję Zmień harmonogram tego terminu **lub** Anuluj **ten termin.** 
+6.  Aby zmienić termin, wróć do strony szczegółów biletu w Partner Center wybierz pozycję Zmień **harmonogram** tego terminu lub **Anuluj ten termin.** 
 
    > [!NOTE]
    > Skrzynka Partner Center Terminy nie jest monitorowana. Służy tylko do wysyłania zaproszeń na spotkanie.   

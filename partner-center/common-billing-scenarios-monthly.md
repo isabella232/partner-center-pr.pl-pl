@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dad132f9ad749076dc52a45f1ce77f23839e8671
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f6486f391925b7b283bec6b14c93c51ede095be033a307031b20bc604a2629e5
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840709"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682321"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Przykładowe miesięczne scenariusze rozliczeń dla nowych subskrypcji, zmienianie kwoty licencji lub zawieszanie
 
@@ -77,7 +77,7 @@ Data rozliczenia to 15. dzień każdego miesiąca. 13 stycznia zakupisz nową su
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|2/12/2018|Anulowanie opłaty|-4.00|1|-4.00
 
-## <a name="suspend-after-30-days"></a>Wstrzymywanie po 30 dniach
+## <a name="suspend-after-30-days"></a>Wstrzymywanie po upływie 30 dni
 
 Data rozliczenia to 15. dzień każdego miesiąca. 13 stycznia zakupisz nową subskrypcję z jedną licencją na 4 USD/miesiąc i wybierzesz rozliczenia miesięczne. Plik uzgodnień oparty na licencjach z 15 stycznia będzie zawierać następujące wiersze rozliczeń:
 
@@ -101,10 +101,10 @@ Cena miesięczna wynosi 4,00, a w okresie usługi od 13.02.2018 r. do 12.03.2018
 
 Cena jednostkowa = dni w okresie świadczenia usługi x cena dzienna x liczba licencji.
 
-W okresie anulowania 1.03.2018 — 12.03.2018 — 12.03.2018 istnieje 12 dni.
+W okresie anulowania 3/1/2018 – 3/12/2018 istnieje 12 dni.
 
 W związku z tym cena jednostkowa = -1,716 (12 x 0,143 x (-1)).
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Scenariusze rozliczeń dla jednorazowych i wybieranie cyklicznych zakupów](common-billing-scenarios-onetime-recurring.md)
+- [Scenariusze rozliczeń dla jednorazowych zakupów i wybieranie cyklicznych zakupów](common-billing-scenarios-onetime-recurring.md)

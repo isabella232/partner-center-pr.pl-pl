@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 06/22/2021
-ms.openlocfilehash: 42e08be73fb6bd1b26e75f461ede51b1e18b909b
-ms.sourcegitcommit: b53616cd7bfeb68298dee69935a8007827b19d21
+ms.openlocfilehash: 029d68f2d33453f760e353bb0eb7a0f59df82fb887ef49d57c0b6c8f4bbe9d9a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "115014704"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115689091"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace zakupu
 
@@ -29,10 +29,10 @@ Po tym, jak znaleziono właściwą aplikację, ukończenie zakupu jest proste. B
 
 Przed zakończeniem zakupu upewnij się, że użytkownik ma poprawną konfigurację w dzierżawie platformy Azure. Pomoże to zapobiec błędom podczas zakupu.
 
-W Azure Marketplace aplikacji w Azure Portal znajdź aplikację, którą chcesz kupić, a  następnie wybierz pozycję Utwórz lub **Skonfiguruj i zasubskrybuj**. Przed rozpoczęciem korzystania z nowego rozwiązania zostanie wyświetlony monit o ukończenie niektórych informacji.
+W Azure Marketplace aplikacji w Azure Portal znajdź aplikację, którą chcesz kupić, a  następnie wybierz pozycję Utwórz lub Skonfiguruj **i zasubskrybuj**. Przed rozpoczęciem korzystania z nowego rozwiązania zostanie wyświetlony monit o ukończenie niektórych informacji.
 
 > [!CAUTION]
-> Zatwierdzenie w prywatnej witrynie Marketplace nie wskazuje na zakup rozwiązania.
+> Zatwierdzenie w prywatnej witrynie Marketplace nie wskazuje zakupu rozwiązania.
 
 :::image type="content" source="media/overview/offer-create-screen.png" alt-text="Przycisk Utwórz oferty.":::
 

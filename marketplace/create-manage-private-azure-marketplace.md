@@ -1,21 +1,21 @@
 ---
-title: Tworzenie prywatnych Azure Marketplace i zarządzanie nimi w Azure Portal
-description: Dowiedz się więcej na temat tworzenia prywatnych Azure Marketplace (wersja zapoznawcza) i zarządzania nimi w Azure Portal. Prywatne Azure Marketplace (wersja zapoznawcza) umożliwiają administratorom określenie, z których rozwiązań innych firm mogą korzystać ich użytkownicy.
+title: Tworzenie prywatnych aplikacji Azure Marketplace zarządzanie nimi w Azure Portal
+description: Dowiedz się więcej na temat tworzenia prywatnych Azure Marketplace (wersja zapoznawcza) i zarządzania nimi w Azure Portal. Prywatne Azure Marketplace (wersja zapoznawcza) umożliwiają administratorom określenie rozwiązań innych firm, których mogą używać użytkownicy.
 ms.service: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: 8a3ffbe5b57c49004518341d27c785dcd1b9ce87
-ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
+ms.openlocfilehash: c7238a601653b2c6b066b89403ba43cadddd13ed122355e42cf17b5e640c56a2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/01/2021
-ms.locfileid: "113173692"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115689707"
 ---
-# <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Tworzenie prywatnych Azure Marketplace i zarządzanie nimi w Azure Portal
+# <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Tworzenie prywatnych aplikacji Azure Marketplace zarządzanie nimi w Azure Portal
 
-Prywatne Azure Marketplace administratorzy mogą zarządzać rozwiązaniami innych firm, których mogą używać ich użytkownicy. W tym celu użytkownik może wdrażać tylko te oferty, które zostały zatwierdzone przez administratora i są zgodne z zasadami przedsiębiorstwa. W przypadku Azure Marketplace użytkownicy mogą wyszukiwać w sklepie online zgodne oferty zakupu i wdrożenia.
+Prywatne Azure Marketplace administratorzy określają, których rozwiązań innych firm mogą używać ich użytkownicy. W tym celu użytkownik może wdrażać tylko oferty zatwierdzone przez administratora i zgodne z zasadami przedsiębiorstwa. W przypadku Azure Marketplace użytkownicy mogą wyszukiwać w sklepie online zgodne oferty zakupu i wdrażania.
 
 Jako administrator witryny Marketplace (przypisana rola) zaczniesz od wyłączonego i pustego sklepu prywatnego, w którym możesz dodać zatwierdzone oferty i plany. W tym artykule wyjaśniono, jak przypisać potrzebną rolę, utworzyć magazyn prywatny, zarządzać elementami, zatwierdzać żądania użytkowników i włączać prywatne Azure Marketplace dla użytkowników.
 
@@ -25,10 +25,10 @@ Jako administrator witryny Marketplace (przypisana rola) zaczniesz od wyłączon
 
 ## <a name="assign-the-marketplace-admin-role"></a>Przypisywanie roli administratora witryny Marketplace
 
-Administrator dzierżawy administrator globalny przypisać rolę administratora witryny **Marketplace** administratorowi usługi Azure Marketplace prywatnego, który będzie zarządzać sklepem prywatnym.
+Administrator dzierżawy administrator globalny przypisanie roli administratora witryny **Marketplace** do administratora Azure Marketplace magazynu prywatnego, który będzie zarządzać sklepem prywatnym.
 
 >[!IMPORTANT]
-> Dostęp do zarządzania Azure Marketplace prywatnymi jest dostępny tylko dla administratorów IT z przypisaną rolą administratora witryny Marketplace.
+> Dostęp do prywatnych Azure Marketplace zarządzania jest dostępny tylko dla administratorów IT z przypisaną rolą administratora witryny Marketplace.
 
 ### <a name="prerequisites"></a>Wymagania wstępne
 
@@ -42,7 +42,7 @@ Te wymagania wstępne są wymagane, aby można było przypisać rolę administra
 
 1. Zaloguj się w witrynie [Azure Portal](https://portal.azure.com/).
 
-1. Wybierz **pozycję Wszystkie usługi,** a następnie pozycję **Marketplace.**
+1. Wybierz **pozycję Wszystkie usługi,** a następnie **pozycję Marketplace.**
 
 1. Wybierz **pozycję Prywatna platforma** handlowa z menu po lewej stronie.
 
@@ -65,12 +65,12 @@ Te wymagania wstępne są wymagane, aby można było przypisać rolę administra
 Użyj następującego skryptu programu PowerShell, aby przypisać rolę administratora witryny Marketplace. Wymaga on następujących parametrów:
 
 - **TenantId:** Identyfikator dzierżawy w zakresie (rolę administratora witryny Marketplace można przypisać w zakresie dzierżawy).
-- **SubscriptionId:** Subskrypcja, do której administrator globalny ma **przypisaną rolę współautora** lub wyższą.
+- **SubscriptionId:** Subskrypcja, do której administrator globalny ma **przypisaną rolę Współautor** lub wyższą.
 - **GlobalAdminUsername:** Nazwa użytkownika administratora globalnego.
 - **UsernameToAssignRoleFor:** Nazwa użytkownika, do którego zostanie przypisana rola administratora witryny Marketplace.
 
 > [!NOTE]
-> W przypadku użytkowników-gości zaproszonych do dzierżawy przypisanie roli administratora witryny Marketplace może potrwać do 48 godzin. Aby uzyskać więcej informacji, zobacz Properties of an Azure Active Directory B2B collaboration user (Właściwości użytkownika współpracy [B2B).](/azure/active-directory/b2b/user-properties)
+> W przypadku użytkowników-gości zaproszonych do dzierżawy przypisanie roli administratora witryny Marketplace może potrwać do 48 godzin. Aby uzyskać więcej informacji, zobacz Properties of an Azure Active Directory B2B collaboration user (Właściwości użytkownika [współpracy B2B).](/azure/active-directory/b2b/user-properties)
 
 ```PowerShell
 function Assign-MarketplaceAdminRole { 
@@ -152,24 +152,24 @@ New-AzRoleAssignment -SignInName $UsernameToAssignRoleFor -RoleDefinitionName $M
 Assign-MarketplaceAdminRole 
 ```
 
-Aby uzyskać więcej informacji na temat poleceń cmdlet zawartych w module Az.Portal programu PowerShell, zobacz [Microsoft Azure PowerShell: Polecenia cmdlet](/powershell/module/az.portal/)pulpitu nawigacyjnego portalu .
+Aby uzyskać więcej informacji na temat poleceń cmdlet zawartych w module Az.Portal programu PowerShell, zobacz [Microsoft Azure PowerShell: Polecenia cmdlet](/powershell/module/az.portal/)pulpitu nawigacyjnego portalu.
 
 ## <a name="create-private-azure-marketplace"></a>Tworzenie prywatnych Azure Marketplace
 
 1. Zaloguj się w witrynie [Azure Portal](https://portal.azure.com/).
-2. Wybierz **pozycję Wszystkie usługi,** a następnie pozycję **Marketplace.**
+2. Wybierz **pozycję Wszystkie usługi,** a następnie **pozycję Marketplace.**
 
-   :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Wyświetla Azure Portal główne.":::
+   :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Wyświetla okno Azure Portal główne.":::
 
 3. Wybierz **pozycję Prywatna platforma** handlowa z menu po lewej stronie.
 
 4. Wybierz **Wprowadzenie,** aby utworzyć Azure Marketplace prywatne (należy to zrobić tylko raz).
 
-    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Pokazuje, jak wybrać pozycję &quot;Wprowadzenie w Azure Portal&quot; w oknie głównym.":::
+    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Pokazuje, jak wybrać pozycję &quot;Wprowadzenie w Azure Portal głównym&quot;.":::
 
-    Jeśli dla Azure Marketplace już istnieje prywatny dostęp, domyślnie zostanie wybrana opcja Zarządzaj platformą **Marketplace.**
+    Jeśli dla Azure Marketplace istnieje już opcja Prywatne konta, domyślnie zostanie wybrana opcja Zarządzaj platformą **Marketplace.**
 
-5. Po zakończeniu będziesz mieć pusty i wyłączony prywatny Azure Marketplace.
+5. Po zakończeniu będziesz mieć puste i wyłączone prywatne Azure Marketplace.
 
     :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Wyświetla pusty ekran Azure Marketplace prywatnego.":::
 
@@ -183,14 +183,14 @@ Element jest kombinacją oferty i planu. Elementy można wyszukiwać i dodawać 
 
    :::image type="content" source="media/private-azure/marketplace-gallery.png" lightbox="media/private-azure/marketplace-gallery-zoom.png" alt-text="Pokazuje, jak przeglądać galerię lub używać pola wyszukiwania.":::
 
-3. Domyślnie podczas dodawania nowej oferty wszystkie bieżące plany zostaną dodane do listy zatwierdzonych. Aby zmodyfikować wybór planu przed dodaniem wybranych elementów, wybierz menu rozwijane na kafelku oferty i zaktualizuj wymagane plany.
+3. Domyślnie podczas dodawania nowej oferty wszystkie bieżące plany zostaną dodane do zatwierdzonej listy. Aby zmodyfikować wybór planu przed dodaniem wybranych elementów, wybierz menu rozwijane na kafelku oferty i zaktualizuj wymagane plany.
 
     :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Pokazuje, jak zaktualizować wymagane plany.":::
 
 4. Po **wybraniu** opcji wybierz pozycję Gotowe w lewym dolnym rogu.
 
 >[!Note]
-> **Dodawanie elementów** do witryny Marketplace będzie dostępne tylko dla ofert innych niż firmy Microsoft. Rozwiązania firmy Microsoft (w tym [zatwierdzone dystrybucje systemu Linux)](/azure/virtual-machines/linux/endorsed-distros)będą oznaczone jako "Zatwierdzone domyślnie" i nie będzie można nimi zarządzać w prywatnej witrynie Marketplace.
+> **Dodawanie elementów** do witryny Marketplace będzie dostępne tylko w przypadku ofert innych niż firmy Microsoft. Rozwiązania firmy Microsoft (w tym [zatwierdzone dystrybucje systemu Linux)](/azure/virtual-machines/linux/endorsed-distros)zostaną oznaczone jako "Zatwierdzone domyślnie" i nie mogą być zarządzane w prywatnej witrynie Marketplace.
 
 ## <a name="edit-items-plans"></a>Edytowanie planów elementu
 
@@ -207,11 +207,11 @@ Plany elementu można edytować na stronie Zarządzanie platformą Marketplace.
 
 ## <a name="delete-offers"></a>Usuwanie ofert
 
-Na stronie Zarządzanie platformą Marketplace zaznacz pole wyboru obok nazwy oferty (zobacz ekran powyżej), a następnie wybierz **pozycję Usuń elementy.**
+Na stronie Zarządzanie portalem Marketplace zaznacz pole wyboru obok nazwy oferty (zobacz ekran powyżej), a następnie wybierz **pozycję Usuń elementy.**
 
 ## <a name="enabledisable-private-azure-marketplace"></a>Włączanie/wyłączanie prywatnych Azure Marketplace
 
-Na stronie Zarządzanie platformą Marketplace zobaczysz jeden z tych banerów, które pokazują bieżący stan prywatnych Azure Marketplace:
+Na stronie Zarządzanie platformą Marketplace zostanie wyświetlony jeden z tych banerów z bieżącym stanem prywatnego Azure Marketplace:
 
 :::image type="content" source="media/private-azure/state-disable.png" alt-text="Wyświetla transparent &quot;Wyłącz stan&quot;.":::
 
@@ -219,16 +219,16 @@ Na stronie Zarządzanie platformą Marketplace zobaczysz jeden z tych banerów, 
 
 W razie potrzeby można włączyć lub Azure Marketplace prywatne.
 
-- Jeśli ta ustawienie jest wyłączone, wybierz **pozycję Włącz prywatną platformę Marketplace,** aby ją włączyć.
+- Jeśli ta ustawienie jest wyłączone, **wybierz pozycję Włącz prywatną platformę Marketplace,** aby ją włączyć.
 - Jeśli ta opcja jest włączona, **wybierz pozycję Wyłącz prywatną platformę Marketplace,** aby ją wyłączyć.
 
 ## <a name="private-azure-marketplace-notification-center"></a>Prywatne Azure Marketplace powiadomień
 
 Centrum powiadomień składa się z trzech typów powiadomień i umożliwia administratorowi witryny Marketplace działanie na podstawie powiadomienia:
 
-- Żądania zatwierdzenia od użytkowników dotyczące elementów, które nie znajdują się na liście zatwierdzonych (zobacz [Żądanie dodania ofert lub planów poniżej).](#request-to-add-offers-or-plans)
-- Powiadomienia o nowym planie dla ofert, które mają już co najmniej jeden plan na liście zatwierdzonych planów.
-- Usunięto powiadomienia o planach dla elementów, które znajdują się na liście zatwierdzonych, ale zostały usunięte z globalnej Azure Marketplace.
+- Żądania zatwierdzenia od użytkowników dotyczące elementów, które nie znajdują się na zatwierdzonej liście (zobacz [Żądanie dodania ofert lub planów](#request-to-add-offers-or-plans) poniżej).
+- Powiadomienia o nowych planach dla ofert, które mają już co najmniej jeden plan na zatwierdzonej liście.
+- Usunięto powiadomienia o planach dla elementów, które znajdują się na liście zatwierdzonych, ale zostały usunięte z globalnego Azure Marketplace.
 
 Aby uzyskać dostęp do centrum powiadomień:
 
@@ -240,8 +240,8 @@ Aby uzyskać dostęp do centrum powiadomień:
 
     :::image type="content" source="media/private-azure/notifications-more-options.png" alt-text="Wyświetla wyniki menu Więcej opcji.":::
 
-1. W przypadku żądań planu **show requests** otwiera formularz żądania zatwierdzenia, w którym można przejrzeć wszystkie żądania użytkowników dotyczące określonej oferty.
-1. Wybierz pozycję **Zatwierdź** **lub Odrzuć.**
+1. W przypadku żądań planu **pokaż żądania** otwiera formularz żądania zatwierdzenia, w którym można przejrzeć wszystkie żądania użytkowników dotyczące określonej oferty.
+1. Wybierz **pozycję Zatwierdź** **lub Odrzuć.**
 
    :::image type="content" source="media/private-azure/notifications-approve-reject-small.png" lightbox="media/private-azure/notifications-approve-reject.png" alt-text="Przedstawia opcje zatwierdzania i odrzucania.":::
 
@@ -250,9 +250,9 @@ Aby uzyskać dostęp do centrum powiadomień:
 
 ## <a name="browsing-private-azure-marketplace"></a>Przeglądanie prywatnych Azure Marketplace
 
-Po włączeniu Azure Marketplace prywatnego użytkownicy zobaczą plany zatwierdzone przez administratora witryny Marketplace.
+Gdy opcja Azure Marketplace jest włączona, użytkownicy zobaczą plany zatwierdzone przez administratora witryny Marketplace.
 
-- Zielone powiadomienie **Zatwierdzone** oznacza, że oferta partnera (spoza firmy Microsoft) została zatwierdzona.
+- Zielone powiadomienie **Zatwierdzone** wskazuje ofertę partnera (spoza firmy Microsoft), która została zatwierdzona.
 - Niebieskie powiadomienie **Zatwierdzone** oznacza ofertę firmy Microsoft (w tym [zatwierdzone dystrybucje systemu Linux),](/azure/virtual-machines/linux/endorsed-distros)która została zatwierdzona.
 
 Użytkownicy mogą filtrować między ofertami, które są zatwierdzone i nie zostały zatwierdzone:
@@ -297,7 +297,7 @@ Możesz poprosić o dodanie publicznej oferty lub planu, który nie jest obecnie
 > Po przesłaniu formularz żądania zatwierdzenia zostanie [](#private-azure-marketplace-notification-center) wysłany do Centrum powiadomień dla administratora witryny Marketplace w celu przejrzenia żądania i podjęcia działania.
 
 > [!CAUTION]
-> Zatwierdzenie w prywatnej witrynie Marketplace nie wskazuje zakupu rozwiązania.
+> Zatwierdzenie w prywatnej witrynie Marketplace nie wskazuje na zakup rozwiązania.
 
 ## <a name="frequently-asked-questions-faqs"></a>Często zadawane pytania
 
@@ -333,7 +333,7 @@ Oferty prywatne oparte na subskrypcji są widoczne tylko dla subskrypcji wymieni
 
 #### <a name="can-we-include-custom-images-in-private-azure-marketplace"></a>Czy można uwzględnić obrazy niestandardowe w prywatnych Azure Marketplace?
 
-Nie. Zarządzanie Azure Marketplace umożliwia dowolnemu administratorowi IT zarządzanie rozwiązaniami innych firm i zarządzanie nimi z globalnej Azure Marketplace. Ponieważ obrazy niestandardowe nie znajdują się Azure Marketplace globalnej, administrator IT nie może wybrać obrazów niestandardowych. Jeśli chcesz udostępnić obrazy niestandardowe, użyj [Shared Image Gallery](/azure/virtual-machines/shared-image-galleries).
+Nie. Prywatne Azure Marketplace każdy administrator IT może zarządzać rozwiązaniami innych firm i zarządzać nimi z globalnej Azure Marketplace. Ponieważ obrazy niestandardowe nie znajdują się Azure Marketplace globalnej, administrator IT nie może wybrać obrazów niestandardowych. Jeśli chcesz udostępnić obrazy niestandardowe, użyj [Shared Image Gallery](/azure/virtual-machines/shared-image-galleries).
 
 1. Przewodnik krok po kroku Tworzenie Shared Image Gallery (CLI,[](/azure/virtual-machines/shared-images-cli) [PowerShell).](/azure/virtual-machines/shared-images-powershell)
 2. Utwórz definicję obrazu w obrębie funkcji SIG. Klient powinien wybrać **pozycję Uogólnione** dla pola Stan systemu operacyjnego. (interfejs[wiersza polecenia,](/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition) [program PowerShell).](/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)

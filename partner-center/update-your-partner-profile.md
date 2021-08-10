@@ -1,7 +1,7 @@
 ---
 title: Weryfikowanie profilu firmy
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Dowiedz się, jak zweryfikować szczegóły firmy, takie jak podstawowy kontakt, adres i informacje o programie. Możesz również zaktualizować adresy prawne i rozliczeniowe.
 author: parthpandyaMSFT
 ms.author: parthp
@@ -9,18 +9,18 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 5b45b6705effae073fd7c41397b0fa020b830cf7
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 478bcba56e1763cc8a69b98bede0dc63c7a1cdad
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845843"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102030"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Weryfikowanie lub aktualizowanie informacji o profilu firmy 
 
 **Odpowiednie role:** Administrator globalny | Administrator konta MPN
 
-Po pierwszym zalogowaniu się Partner Center jako administrator globalny upewnij się, że wszystkie szczegóły Twojej firmy są poprawne. Należą do nich główna osoba kontaktowa, nazwa i adres firmy prawnej oraz informacje o programie. Jeśli Twoja firma ma więcej niż jedną lokalizację, sprawdź dokładność danych lokalizacji. Jako administrator globalny, administrator rozliczeń lub agent administratora możesz również wyświetlić i zaktualizować informacje dotyczące rozliczeń i podatków.
+Po pierwszym zalogowaniu się Partner Center jako administrator globalny upewnij się, że wszystkie szczegóły Twojej firmy są poprawne. Obejmują one podstawowy kontakt, nazwę i adres firmy prawnej oraz informacje o programie. Jeśli twoja firma ma więcej niż jedną lokalizację, sprawdź dokładność danych lokalizacji. Jako administrator globalny, administrator rozliczeń lub agent administratora możesz również wyświetlić i zaktualizować informacje dotyczące rozliczeń i podatków.
 
 > [!NOTE]
 > Aby zaktualizować adres rozliczeniowy, musisz być administratorem globalnym.
@@ -60,10 +60,10 @@ Zaktualizuj nazwę lub adres firmy prawnej na Partner Center.
 1. Jeśli weryfikacja nie powiedzie się, dowiedz się, jak [rozwiązać problem](verification-responses.md).
 
 >[!Important]
->Jeśli jesteś partnerem programu CSP, nie możesz zmienić kraju skojarzonego z Twoim adresem prawna. Twój kraj adresu prawnego jest powiązany z Twoją dzierżawą i usługami, a także walutą, z która jest robisz. Aby dowiedzieć się więcej o aktualizacjach kraju MPN, przeczytaj [Aktualizacje kraju MPN.](manage-locations.md#change-country-of-partner-global-account)
+>Jeśli jesteś partnerem programu CSP, nie możesz zmienić kraju skojarzonego z Twoim adresem prawnym. Twój kraj adresu prawnego jest powiązany z Twoją dzierżawą i usługami, a także walutą, w jakiej firma jest robisz. Aby dowiedzieć się więcej o aktualizacjach kraju MPN, przeczytaj [Aktualizacje kraju MPN.](manage-locations.md#change-country-of-partner-global-account)
 
 
-### <a name="who-can-update-legal-business-name-and-when"></a>KtoTo zaktualizować nazwę biznesową i czas
+### <a name="who-can-update-legal-business-name-and-when"></a>KtoTo może zaktualizować nazwę biznesową i czas
 
 |**Program**|**KtoTo zaktualizować nazwę firmy**|**Kiedy można je zaktualizować (stan)**|**Dozwolone**|
 |---------------------|:-------------------------------|:------------|:-----------------|
@@ -91,7 +91,7 @@ Aby zaktualizować identyfikator MPN skojarzony z kontem CSP:
 
 ## <a name="update-your-csp-legal-billing-address"></a>Aktualizowanie adresu rozliczeniowego dla programu CSP
 
-Jeśli jesteś administratorem globalnym, możesz zmienić adres wyświetlany na fakturze w profilu **wypłaty i profilu podatkowym.** Obecnie nie można zmienić nazwy firmy na fakturze ze względu na ograniczenie dotyczące systemu faktur.
+Jeśli jesteś administratorem globalnym, możesz zmienić adres wyświetlany na fakturze w profilu **wypłaty i profilu podatkowym.** Obecnie nie można zmienić nazwy firmy na fakturze ze względu na ograniczenie w systemie faktur.
 
 :::image type="content" source="images/billing-profile.png" alt-text="Przechwytywanie ekranu obszaru, w którym są dodawane informacje rozliczeniowe.":::
 
@@ -102,7 +102,7 @@ Jeśli jesteś administratorem globalnym, możesz zmienić adres wyświetlany na
 |Kontakt dla faktur|Szczegóły kontaktu rozliczeniowego (imię, nazwisko, numer podstawowy) dla konta CSP.  Można zaktualizować z [profilu rozliczeniowego.](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)|
 |Numer pozy|Numer zamówienia zakupu wyświetlany na fakturze partnera. Można zaktualizować z [profilu rozliczeniowego.](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)|
 |Identyfikator podatkowy firmy|Firmy w niektórych krajach mogą podać numer [podatku VAT lub](./organization-tax-info.md)lokalny odpowiednik . Aby zaktualizować identyfikator podatkowy/podatku VAT, musisz być administratorem globalnym, administratorem rozliczeń lub agentem administratora.|
-|Waluta rozliczeniowa|Waluta rozliczeniowa twojego konta CSP jest określana przez kraj prawny konta CSP.  Tych informacji nie można zmienić po utworzeniu konta CSP.|
+|Waluta rozliczeniowa|Waluta rozliczeniowa twojego konta CSP jest określana przez legalny kraj konta CSP.  Tych informacji nie można zmienić po utworzeniu konta CSP.|
 
 ## <a name="next-steps"></a>Następne kroki
 

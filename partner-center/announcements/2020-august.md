@@ -3,24 +3,24 @@ title: Ogłoszenia z sierpnia 2020 r.
 description: Ogłoszenia dotyczące platformy Microsoft Partner Center z sierpnia 2020 r., takie jak nowe możliwości, promocje, oferty, rynki lub zmiany istniejących ofert.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-action-center
+ms.subservice: partnercenter-announcements
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: c163258d59c0e0640c8d8f3a0469a94d45582d1d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: baeaf39dd75d3c39bb7cfee393c3f9c409d5ce33
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839043"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101991"
 ---
 # <a name="august-2020-announcements"></a>Ogłoszenia z sierpnia 2020 r.
 
 Ta strona zawiera szczegółowe informacje o ogłoszeniach dotyczących Partner Center Microsoft na sierpień 2020 r.
 
-Ogłoszenia dotyczące roku 2020: [styczeń](2020-january.md)  |  [luty](2020-february.md)  |  [](2020-march.md)  |  [marzec](2020-april.md)  |  [maj](2020-may.md)  |  [maj](2020-june.md)  |  [czerwca |](2020-july.md) Sierpnia
+Ogłoszenia dotyczące roku 2020: [styczeń](2020-january.md)  |  [marzec](2020-february.md)kwiecień  |  [](2020-march.md)  |  [](2020-april.md)  |  [maj](2020-may.md)  |  [czerwiec](2020-june.md)  |  [|](2020-july.md) Sierpnia
 
 ________________
 
@@ -31,34 +31,34 @@ ________________
 - Data: 2020-08-31
 - Możliwości
 
-### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
 
-Partnerzy sprzedani oferty Academic za pośrednictwem programu Dostawca rozwiązań w chmurze (CSP) 
+Partnerzy sprzedają oferty Academic za pośrednictwem programu Dostawca rozwiązań w chmurze (CSP) 
 
 ### <a name="summary"></a>Podsumowanie
 
-Firma Microsoft działa w oparciu o zaufanie i dokładamy starań, aby zapewnić zgodną, bezpieczną metodę weryfikacji klienta na potrzeby transakcji ofert akademickich w Dostawca rozwiązań w chmurze programie. W ramach tego zobowiązania w drugim kwartale tego roku obrachunkowego (FY21 Q2) wprowadzimy ulepszenia interfejsu API i interfejsu użytkownika usługi Partner Center, które poprawią przejrzystość i wgląd w proces sprawdzania klientów, a także możliwość wprowadzania bardziej dokładnych danych, co poprawi sukces klientów. 
+Firma Microsoft działa zgodnie z zaufaniem i dokładamy starań, aby zapewnić zgodną, bezpieczną metodę weryfikacji klienta na potrzeby transakcji ofert academic w Dostawca rozwiązań w chmurze programie. W ramach tego zobowiązania wprowadzimy ulepszenia interfejsu API i interfejsu użytkownika usługi Partner Center w drugim kwartale tego roku obrachunkowego (FY21 Q2), które dodaą przejrzystość i wgląd w proces sprawdzania klientów, a także możliwość wprowadzania dokładniej znanych danych, co poprawi sukces klientów. 
 
 #### <a name="partner-center-enhancements"></a>Partner Center ulepszenia
 
-- Nowe interfejsy API kwalifikacji GET i POST, które obsługują dokładne wprowadzanie danych i usprawniają proces weryfikacji klientów w edukacji firmy Microsoft.
-- Ulepszenia interfejsu użytkownika w celu obsługi dokładnego wprowadzania danych i ulepszania procesu weryfikacji klientów w edukacji firmy Microsoft.
+- Nowe interfejsy API kwalifikacji GET i POST do obsługi dokładnego wprowadzania danych i ulepszania procesu weryfikacji klientów w edukacji firmy Microsoft.
+- Ulepszenia interfejsu użytkownika w celu obsługi dokładnego wprowadzania danych i ulepszania procesu weryfikacji klientów usług edukacyjnych firmy Microsoft.
 
 #### <a name="testing"></a>Testowanie
 
-Partnerzy będą mieli możliwość przetestowania tych ulepszeń od października. Zdecydowanie zachęcamy do wykorzystania tej możliwości, aby lepiej zrozumieć interfejsy API i wprowadzanie danych wymagane do pomyślnego vettingu klientów. Wkrótce podamy więcej szczegółowych informacji na temat dokładnego czasu i sposobu uczestnictwa. Istniejące interfejsy PARTNER CENTER API zostaną wycofane przed końcem 2. kwartału roku 2019, w którym wszyscy partnerzy będą musieli przejść do korzystania z nowych interfejsów API Partner Center API.
+Partnerzy będą mieli możliwość przetestowania tych ulepszeń od października. Zdecydowanie zachęcamy do wykorzystania tej możliwości w celu lepszego zrozumienia interfejsów API i wprowadzania danych wymaganych do pomyślnego vettingu klientów. Wkrótce podamy więcej szczegółowych informacji na temat harmonogramu i sposobu uczestnictwa. Istniejące interfejsy API Partner Center zostaną wycofane przed końcem 2. kwartału roku 2019, w którym wszyscy partnerzy będą musieli przejść do korzystania z nowych interfejsów PARTNER CENTER API.
 
 #### <a name="library-and-museum-customers"></a>Klienci biblioteki i biblioteki
 
-Oprócz powyższych ulepszeń z przyjemnością ogłaszamy również, że w 2. kwartale 2019 r. włączymy oferty o cenach akademickich dla klientów korzystających z biblioteki i biblioteki Oraz firmy Edukacji, rozszerzając oferty dla instytucji edukacyjnych, za pomocą których można transakcje ofert CSP.
+Oprócz powyższych ulepszeń z przyjemnością ogłaszamy, że w 2. kwartale 201 r. włączymy oferty o cenie akademickiej dla klientów biblioteki i edukacji, rozszerzając klientów z instytucji edukacyjnych, za pomocą których można transakcje ofert CSP.
 
-Firma Microsoft zastrzega sobie prawo do przeglądania stanu dowolnego klienta lub proponowanego klienta jako kwalifikowanego użytkownika edukacyjnego. Aby uzyskać szczegółowe informacje, zobacz Wymagania dotyczące [użytkownika academic qualified education.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)
+Firma Microsoft zastrzega sobie prawo do przeglądania stanu każdego klienta lub proponowanego klienta jako kwalifikowanego użytkownika edukacyjnego. Aby uzyskać szczegółowe informacje, zobacz wymagania dotyczące użytkownika [academic qualified education.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)
 
 ### <a name="next-stepsadditional-resources"></a>Następne kroki/dodatkowe zasoby
 
-- Zapoznaj się z nowymi Partner Center Interfejs użytkownika interfejsu API w zasobach gotowość do operacji: [ulepszenia procesu weryfikacji](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) klienta Partner Center Education
-- Upewnij się, że Twoja organizacja jest zaznajomiony z wymaganiami [użytkownika academic qualified education.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)
-- Udostępnij te informacje odpowiednim zespołom w organizacji oraz odsprzedawcom, aby pomóc im przygotować się do tych zmian.
+- Przejrzyj nowe zmiany Partner Center Interfejs użytkownika interfejsu API w zasobach gotowości do operacji: [ulepszenia procesu weryfikacji](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) klienta Partner Center Education
+- Upewnij się, że Twoja organizacja jest zaznajomiony z wymaganiami [użytkownika academic qualified education user.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)
+- Udostępnij te informacje odpowiednim zespołom w organizacji oraz odsprzedawcom, aby ułatwić im przygotowanie się do tych zmian.
 - Obejrzyj aktualizację możliwości testowania w październiku, w której podamy szczegółowe informacje na temat harmonogramu i sposobu uczestnictwa.
 
 ________________
@@ -72,7 +72,7 @@ ________________
 
 ### <a name="details"></a>Szczegóły
 
-W ramach wcześniej ogłoszonego podsieć podaliśmy pewne aktualizacje Microsoft 365 Business Voice Promotion. Szczegółowe informacje można uzyskać, odwiedzając witrynę [Partner Center galerii zasobów.](https://partner.microsoft.com/resources/detail/announcement-microsoft-365-business-voice-promotion-deactivation-pdf) 
+W ramach wcześniej ogłoszonego podsieć poddaliśmy kilku aktualizacjom Microsoft 365 Business Voice Promotion. Szczegółowe informacje można uzyskać, odwiedzając witrynę [Partner Center galerii zasobów.](https://partner.microsoft.com/resources/detail/announcement-microsoft-365-business-voice-promotion-deactivation-pdf) 
 
 ________________
 
@@ -83,29 +83,29 @@ ________________
 - Data: 2020-08-12
 - Możliwości
 
-### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
 
-Partnerzy z rozliczeniami bezpośrednimi i dostawcy pośredni biorący udział w programie CSP, którzy Partner Center zestawu SDK platformy .NET. 
+Partnerzy z rozliczeniami bezpośrednimi i dostawcy pośredni uczestniczący w programie CSP, którzy Partner Center zestawu SDK platformy .NET. 
 
 ### <a name="summary"></a>Podsumowanie
 
-Od 21 lipca 2020 r. partnerzy mogą rozpocząć pobieranie wersji zestawu **.NET STANDARD SDK** zestawu Microsoft Partner Center .NET SDK w wersji 1.16.1 wraz ze zaktualizowanymi publicznymi zestaw SDK Centrum partnerskiego GitHub **przykładami.**
+Od 21 lipca 2020 r. partnerzy mogą rozpocząć pobieranie wersji zestawu **.NET STANDARD SDK Microsoft Partner Center** .NET SDK w wersji 1.16.1 wraz ze zaktualizowanymi publicznymi zestaw SDK Centrum partnerskiego GitHub **przykładami.**
 
 ### <a name="details"></a>Szczegóły
 
-Partnerzy rozliczający się bezpośrednio i dostawcy pośredni uczestniczący w programie CSP mogą pobrać najnowszą wersję zestawu .NET Standard SDK. Te zmiany sprawią, że zestaw SDK będzie zgodny z istniejącą aplikacją przy użyciu .NET Framework 4.6.1 lub 1. Ta .NET Standard będzie obsługiwać program .NET Core 2.0 i jego więcej.
+Partnerzy rozliczający się bezpośrednio i dostawcy pośredni uczestniczący w programie CSP mogą pobrać najnowszą wersję zestawu .NET Standard SDK. Te zmiany sprawią, że zestaw SDK będzie zgodny z istniejącą aplikacją przy użyciu .NET Framework 4.6.1 i 1. Ta .NET Standard będzie obsługiwać program .NET Core 2.0 i jego więcej.
 
-Istnieje ogromne zapotrzebowanie ze strony partnerów żądających zestawu SDK w .NET Standard. Bieżąca wersja zestawu SDK wymusza na partnerach używanie aplikacji napisanych w programie ASP.NET Framework, który jest powolny i kosztowny w porównaniu z aplikacjami platformy .NET Core. Dlatego migracja do standardu .NET może pomóc rozwiązać problemy z wydajnością lub zgodnością z programem .NET Core.
+Istnieje ogromne zapotrzebowanie od partnerów żądających zestawu SDK w .NET Standard. Bieżąca wersja zestawu SDK wymusza na partnerach korzystanie z aplikacji napisanych w programie ASP.NET Framework, która jest powolna i kosztowna w porównaniu z aplikacjami platformy .NET Core. Dlatego migracja do standardu .NET może pomóc rozwiązać problemy z wydajnością lub zgodnością z programem .NET Core.
  
 **Najważniejsze informacje**
-- Żadne dalsze wydania od firmy Microsoft dla .NET Framework 4.8, ponieważ jest to ostatnia wersja w jej wierszu.
-- Ogranicza przyszłe opracowywanie, ponieważ większość bibliotek będzie wydawać dla programu .NET Core lub .NET Standard, które mogą nie obsługiwać bieżącej wersji struktury.
+- Firma Microsoft nie wydaje żadnych dodatkowych wersji .NET Framework 4.8, ponieważ jest to ostatnia wersja w wierszu.
+- Ogranicza przyszłe opracowywanie, ponieważ większość bibliotek będzie wydawana dla programu .NET Core lub .NET Standard, co może nie obsługiwać bieżącej wersji struktury.
 - Program .NET Core jest korzystniejszy do użycia z kontenerami ze względu na jego lekki charakter.
 - Środowisko uruchomieniowe serwera o wysokiej wydajności dla Windows Server i Linux sprawia, że .NET Core jest platformą internetową o najwyższej wydajności.
 
 ### <a name="next-steps"></a>Następne kroki
 
-- Pobierz najnowszą wersję zestawu [.NET SDK w wersji 1.16.1](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.1)
+- Pobierz najnowszą wersję [zestawu .NET SDK w wersji 1.16.1](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.1)
 - Wersja: .NET SDK 1.16.1
 - Przykładowy kod: [przykładowy kod](https://github.com/microsoft/Partner-Center-DotNet-Samples)
 - Ga: 2020-08-12
@@ -119,29 +119,29 @@ ________________
 - Data: 2020-08-12
 - Możliwości
 
-### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
 
 Partnerzy sprzedaży Usługi online klientom komercyjnym
 
 ### <a name="details"></a>Szczegóły
 
-W [zeszłym roku firma](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf) Microsoft umożliwia osobom i zespołom bezpośrednie kupowanie wybranych usług. Dzisiaj ogłaszamy, że wkrótce zostaną dostępne samoobsługowe możliwości zakupu produktów Microsoft Project microsoft Visio produktów. Od 15 września 2020 r. osoby na całym świecie będą mogły kupować subskrypcje następujących produktów za pośrednictwem samoobsługi:
+W [zeszłym roku firma](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf) Microsoft umożliwia osobom i zespołom bezpośrednie kupowanie wybranych usług. Dzisiaj ogłaszamy, że wkrótce zostaną dostępne możliwości samoobsługowego zakupu produktów Microsoft Project microsoft Visio microsoft. Od 15 września 2020 r. osoby na całym świecie będą mogły kupować subskrypcje następujących produktów za pośrednictwem samoobsługi:
 
 - [Visio (plan 1)](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) i [Visio (plan 2)](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
 - [Project (plan 1)](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) i [Project (plan 3)](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
 
-**Uwaga:** Możliwości samoobsługowego zakupu nie są dostępne w Indiach ani dla klientów, którzy kwalifikują się do korzystania z ofert dla instytucji rządowych lub instytucji edukacyjnych.
+**Uwaga:** Możliwości samoobsługowego zakupu nie są dostępne w Indiach ani dla klientów, którzy są uprawnieni do korzystania z ofert dla instytucji rządowych lub edukacji.
 
 #### <a name="partner-benefits"></a>Korzyści dla partnerów
 
-Będziesz mieć możliwość zaoferowania usług użytkownikom indywidualnym i zespołom bez konieczności przechodzinia przez scentralizowany proces zakupów IT w celu uzyskania wymaganych licencji. Usługi mogą obejmować różne Project i Visio na podstawie scenariuszy integracji z Microsoft 365 i Power Platform. 
+Będziesz mieć możliwość zaoferowania usług użytkownikom indywidualnym i zespołom bez konieczności przechodzinia przez scentralizowany proces zaopatrzenia IT w celu uzyskania wymaganych licencji. Usługi mogą obejmować wiele Project i Visio w oparciu o scenariusze integracji z Microsoft 365 i Power Platform. 
 
-Dowiedz się więcej o możliwościach partnerów Visio i Power Platform w sesji Microsoft Inspire [Rebuild and reimagine business with Microsoft Visio and Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)(Ponowne kompilowanie i ponowne kompilowanie działalności biznesowej przy użyciu usług Microsoft Visio i Power Platform). Aby uzyskać dodatkowe informacje, odwiedź [przewodnik administratora samoobsługi](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins).
+Dowiedz się więcej o możliwościach partnerów Visio i Power Platform w sesji Microsoft Inspire [Rebuild and reimagine business with Microsoft Visio and Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)(Ponowne kompilowanie i ponowne kompilowanie działalności biznesowej z usługami Microsoft Visio i Power Platform). Aby uzyskać dodatkowe informacje, odwiedź przewodnik [administratora samoobsługi.](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins)
 
 #### <a name="additional-resources"></a>Dodatkowe zasoby
 
-- Przejrzyj wszystkie zasoby gotowości w galerii Zasobów gotowości na operacje: Możliwość samoobsługowego zakupu [przez klienta.](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)
-- Klienci mogą wypróbować usługę przed zakupem w Visio i Project próbnych, które są teraz dostępne Visio (plan 1) i [Visio (plan 2)](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/)i [Project (plan 1)](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software).
+- Przejrzyj wszystkie zasoby gotowości w galerii Zasobów gotowości na operacje: [Możliwość samoobsługowego](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)zakupu klienta .
+- Klienci mogą wypróbować usługę przed zakupem w Visio i Project próbnych, które są teraz dostępne dla Visio (plan 1) i [Visio (plan 2)](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/)i [Project (plan 1).](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software)
 
 ________________
 
@@ -153,23 +153,23 @@ ________________
 
 ### <a name="summary"></a>Podsumowanie
 
-Nowe jednostki SKU dodatku Advanced Communications dla Microsoft Teams udostępnione 1 sierpnia 2020 r.
+Nowe dodatkowe jednostki SKU komunikacji zaawansowanej dla Microsoft Teams stały się dostępne 1 sierpnia 2020 r.
 
-### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
 
-Wszyscy partnerzy inicjujące transakcje za Dostawca rozwiązań w chmurze (CSP)
+Wszyscy partnerzy w ramach programu Dostawca rozwiązań w chmurze (CSP)
 
 ### <a name="details"></a>Szczegóły
 
-Nowy dodatek Advanced Communications dla usługi Microsoft Teams jest teraz dostępny w cenie 12 USD za użytkownika/miesiąc. Dodatkowe jednostki SKU można kupić na podstawie dowolnego innego pakietu Microsoft 365, który zawiera Microsoft Teams. Zaawansowana komunikacja zapewnia nowy zestaw możliwości dla dużych spotkań, zasad komunikacji i integracji, a także zaawansowane narzędzia do zarządzania IT. 
+Nowy dodatek Advanced Communications dla usługi Microsoft Teams jest teraz dostępny po 12 USD za użytkownika/miesiąc. Dodatkowe jednostki SKU można kupić na podstawie dowolnego innego pakietu Microsoft 365, który zawiera Microsoft Teams. Zaawansowana komunikacja zapewnia nowy zestaw funkcji na duże spotkania, zasady komunikacji i integracje, a także zaawansowane narzędzia do zarządzania IT. 
 
-#### <a name="advanced-communications-features"></a>Zaawansowane funkcje komunikacji
+#### <a name="advanced-communications-features"></a>Funkcje zaawansowanej komunikacji
 
 Wydane podczas uruchamiania
 - Limity wydarzeń na żywo do 20 000 uczestników (50 równoczesnych, 16 godzin)
 
 Wydane później w CY2020
-- 1000-osobowa interaktywna Teams spotkania 
+- 1000-osobowa interakcyjna Teams spotkania 
 - Interaktywne spotkania dla 1000 uczestników z możliwością umożliwienia maksymalnie 20 000 spotkań "tylko w widoku". 
 - Spotkanie z spotkaniem z marką niestandardową
 - Dodatkowe dostosowania, narzędzia i ulepszenia komunikacji będą dodawane do SKU przez cały rok kalendarzowy
@@ -203,7 +203,7 @@ ________________
 - Data: 2020-08-04
 - Oferty/rynki
 
-### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
 
 Wszyscy partnerzy biorący udział w programie CSP
 
@@ -229,7 +229,7 @@ ________________
 - Data: 2020-08-03
 - Oferty/rynki
 
-### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
 
 Partnerzy inicjujące transakcję usługi Microsoft Dynamics 365
 
@@ -261,7 +261,7 @@ ________________
 - Data: 2020-08-03
 - Oferty/rynki
 
-### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
 
 Wszyscy partnerzy biorący udział w programie Dostawca rozwiązań w chmurze (CSP)
 
@@ -280,11 +280,11 @@ Rozwiązania Visio Microsoft mogą być używane w różnych branżach i rolach 
 Microsoft Visio to produkt, który pomoże Ci:
 
 - Używanie szablonu i scenariuszy integracji wykresu organizacyjnego z Excel i Power BI do tworzenia zrównoważonej struktury organizacyjnej
-- Planowanie bezpiecznego powrotu do miejsca pracy przy użyciu Visio floorplans w celu uwzględnienia wytycznych dotyczących rozdyskutowania społeczności
+- Planowanie bezpiecznego powrotu do miejsca pracy przy Visio floorplans w celu uwzględnienia wytycznych dotyczących rozdyskutowania społeczności
 - Dostosowanie modeli biznesowych: Analiza biznesowa jest podstawą oferty Visio wartości. Dostosowuj modele biznesowe do nowego sposobu pracy, mapując i przeprojektując krytyczne procesy biznesowe za pomocą usługi Visio i uzyskaj terminowe szczegółowe informacje o danych za pomocą diagramów Power BI i Visio osadzonych w tej aplikacji. 
 - Skup się na zmniejszeniu wartości i kosztów: Zidentyfikuj i zautomatyzuj powtarzające się procesy oraz pomóż klientom tworzyć samoobsługowe obciążenia dla typowych ról funkcjonalnych, takich jak zarządzanie ZASOBAMI IT, kadry i inne.
 
-Oferujemy bezpłatną 30-dniową wersję próbną Visio (plan 1) i Visio (plan 2), aby pomóc klientom korzystać z tych korzyści. Partnerzy mogą znaleźć wersje próbne w cenniku miesięcznym na stronie cen i ofert w Partner Center. Oferty w wersji próbnej będą mieć "WERSJĘ PRÓBNĄ" wymienioną w kolumnie typ licencji pomocniczej cennika.
+Oferujemy bezpłatną 30-dniową wersję próbną Visio (plan 1) i Visio (plan 2), aby pomóc klientom korzystać z tych korzyści. Partnerzy mogą znaleźć wersje próbne w cenniku miesięcznym na stronie cen i ofert w Partner Center. Oferty wersji próbnej będą mieć "WERSJĘ PRÓBNĄ" wymienioną w kolumnie typ licencji pomocniczej cennika.
 
 #### <a name="offer-details"></a>Szczegóły oferty
 

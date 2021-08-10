@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: d99de8ed53ae6ed7fa094f6da7a8947c1bcfccb9
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 3ed33f28f68f980d916832ab7cab9e09cc06d16c33c1b62a1bcf9fcde40629a2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836510"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115683222"
 ---
 # <a name="manage-incentives-customer-associations"></a>Zarządzanie skojarzeniami klientów zachęt
 

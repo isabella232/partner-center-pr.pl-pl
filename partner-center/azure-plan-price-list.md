@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 750dd081ea9486173b933e290c7c186f8e0844016c92100d828f1fdc0fa765b5
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: e4adc04f0d8b27f9cd53bbd678d1264b29b86b54
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115680837"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101303"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Cennik dla nowego środowiska handlowego w programie CSP dla platformy Azure
 
@@ -27,17 +27,17 @@ W ramach nowego rozwiązania handlowego dla Platforma Azure w programie CSP wpro
 W przypadku zarejestrowania *się przed* 21 lipca 2021 r.
 - Poprzednia oferta platformy Azure będzie nadal wyświetlona w cenniku.
 
-Zarejestrowanie się *w dniu* 21 lipca 2021 r. lub później
-- Poprzednia *oferta* platformy Azure nie będzie wyświetlona w cenniku.
+W przypadku zarejestrowania *się w dniu* 21 lipca 2021 r. lub później
+- Poprzednia *oferta* platformy Azure nie zostanie wyświetlona w cenniku.
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Zobacz cennik subskrypcji w obszarze cennika planu platformy Azure
 
-1.  W menu Partner Center pozycję **Sell (Sprzedawaj),** **a następnie pozycję Pricing and offers (Ceny i oferty).**
+1.  W menu Partner Center **sprzedaż,** a następnie pozycję Ceny **i oferty.**
 2.  W **obszarze Cennik użycia planu platformy** Azure i Cennik **rezerwacji** planu platformy Azure wybierz kraj, a następnie link pobierania.
    - W **obszarze Kursy wymiany obcej** wybierz link pobierania w sekcji .
 
    > [!NOTE] 
-   > **Stawki fx nie** są specyficzne dla kraju.
+   > **Stawki FX nie** są specyficzne dla kraju.
 
    :::image type="content" source="images/azure/pricing-new.png" alt-text="Zrzut ekranu przedstawiający cennik i oferty pokazujące nowe środowisko handlowe.":::
 
@@ -54,7 +54,7 @@ Zarejestrowanie się *w dniu* 21 lipca 2021 r. lub później
 
   - **Bieżące ceny:** ta opcja obejmuje wszystkie mierniki i ceny od pierwszego miesiąca do bieżącej daty miesiąca, takie jak nowe ceny, zmienione ceny lub usunięte ceny. Wszystkie ceny będą mieć efektywne daty rozpoczęcia i zakończenia, aby wyjaśnić, czy są nowe, czy usunięte.
 
-  - **Cennik z poprzedniego miesiąca:** pliki do pobrania dla każdego typu zasobu będą według miesięcy. W przypadku plików cen będzie to obejmować wszystkie mierniki, które były dostępne w tym miesiącu. Jeśli nowy miernik pojawił się w połowie miesiąca, pojawi się jako miernik z datą wejścia w życie odzwierciedlającą jego dostępność. Podobnie jak w przypadku cen, które zostały wycofane, pokazując efektywną datę zakończenia opisową, kiedy nie są już dostępne.
+  - **Cennik z poprzedniego miesiąca:** pliki do pobrania dla każdego typu zasobu będą według miesięcy. W przypadku plików cen będzie to obejmować wszystkie mierniki, które były dostępne w tym miesiącu. Jeśli nowy miernik pojawił się w połowie miesiąca, pojawi się jako miernik z datą wejścia w życie odzwierciedlającą jego dostępność. Podobnie jak w przypadku cen, które nie zostały wycofane, pokazując efektywną datę zakończenia opisową, kiedy nie są już dostępne.
 
   - **Stawki FX:** stawki fx będą dostępne do pobrania dzień przed 1. dniem miesiąca, 18:00 czasu PST. Jeśli na przykład chcesz uzyskać stawki za listopad, pobierz stawki z 31 października. W poprzednim miesiącu będą również dostępne stawki FX.
 
@@ -75,7 +75,7 @@ Zarejestrowanie się *w dniu* 21 lipca 2021 r. lub później
 |Publisher|Pierwszą firmą zawsze będzie firma Microsoft|
 |SkuDescription|Opis sku|
 |UnitOfMeasure|Jednostki, które będą naliczane lub rozliczane|
-|TermDuration|W przypadku produktów opartych na terminach— długość okresu, która ma zastosowanie do rezerwacji|
+|TermDuration|Długość terminu dla produktów opartych na terminach, które mają zastosowanie do rezerwacji|
 |Rynku|Rynek cen|
 |Waluta|Waluta cennika|
 |UnitPrice|Cena za jednostkę|
@@ -87,11 +87,11 @@ Zarejestrowanie się *w dniu* 21 lipca 2021 r. lub później
 |Typ miernika|Typ miernika|
 |Tagi|Właściwości elementu w przypadku cennika planu platformy Azure to platforma Azure lub platforma Azure i rezerwacje (w szczególności w przypadku rezerwacji)|
 
-Cenniki planu platformy Azure można wyeksportować na stronie [Cennik i oferty w](https://partner.microsoft.com/dashboard/sell/pricingandoffers) Partner Center.
+Cenniki planu platformy Azure można wyeksportować ze strony [Cennik i oferty w](https://partner.microsoft.com/dashboard/sell/pricingandoffers) Partner Center.
 
 ## <a name="tiered-pricing"></a>Ceny warstwowe
 
-Niektóre usługi użycia planu platformy Azure obsługują ceny warstwowe. Partnerzy mogą znaleźć te produkty i jednostki SKU w cenniku planu platformy Azure. Elementy, które mają wartości w kolumnach zakresu warstw cenowych, umożliwiają partnerom zrozumienie ceny na podstawie użycia. W poniższym przykładzie korzystającym z przykładowych danych mamy jedną sku produktu z trzema warstwami cenowych.
+Niektóre usługi użycia planu platformy Azure obsługują ceny warstwowe. Partnerzy mogą znaleźć te produkty i jednostki SKU w cenniku planu platformy Azure. Elementy, które mają wartości w kolumnach zakresu warstw cenowych, umożliwiają partnerom zrozumienie ceny na podstawie użycia. W poniższym przykładzie korzystającym z przykładowych danych mamy jedną sku produktu z trzema warstwami cenowym.
 
 |**Productid**   |**SkuId**   |**UnitPrice**   |**PricingTierRangeMin**   |**PricingTierRangeMax**   |
 |:---------------|:-----------|:---------------|:-------------------------|:-------------------------|
@@ -99,20 +99,20 @@ Niektóre usługi użycia planu platformy Azure obsługują ceny warstwowe. Part
 |DDD123456ABC|01AB|0,80|101|100000|
 |DDD123456ABC|01AB|1|1|100|
 
-W tym przykładzie, jeśli zostanie użytych 101 jednostek, opłata wynosi 100,80. Pierwsze 100 jednostek jest po jednej, a następna jednostka jest naliczana na poziomie 0,80.
+W tym przykładzie, jeśli używane jest 101 jednostek, opłata wynosi 100,80. Pierwsze 100 jednostek jest po jednej, a opłata za następną jednostkę jest naliczana na poziomie 0,80.
 
 ## <a name="pricing-api-for-azure-plan"></a>Interfejs API cennika dla planu platformy Azure
 
-Interfejs API cennika umożliwia [programowe](/partner/develop/pricing) pobieranie cennika planu platformy Azure na potrzeby użycia i rezerwacji. Można również pobrać kursy wymiany walut obcych.
+Interfejs API [cennika](/partner/develop/pricing) umożliwia programowe pobieranie cennika planu platformy Azure na potrzeby użycia i rezerwacji. Możesz również pobrać kursy wymiany walut obcych.
 
-Interfejs API cennika znajduje się w innym punkcie końcowym niż inne Partner Center API. Informacje o cenach obejmują ceny miernika w USD dla zasobów planu platformy Azure i cen rezerwacji stosowanych do subskrypcji planu platformy Azure.
+Interfejs API cennika znajduje się w innym punkcie końcowym niż inne Partner Center API. Informacje o cenach obejmują ceny mierników w USD dla zasobów planu platformy Azure i rezerwacje cenowe stosowane do subskrypcji planu platformy Azure.
 
-Ten interfejs API umożliwia również partnerom pobieranie miesięcznych kursów wymiany, ponieważ ceny planu platformy Azure są dostępne tylko w USD. Za pomocą interfejsów API można pobrać zarówno ceny, jak i kursy wymiany walut z bieżącego miesiąca lub poprzednich miesięcy.
+Ten interfejs API umożliwia również partnerom pobieranie miesięcznych kursów wymiany, ponieważ ceny planu platformy Azure są dostępne tylko w USD. Za pomocą interfejsów API można pobrać zarówno ceny, jak i kursy wymiany walut dla bieżącego miesiąca lub poprzednich miesięcy.
 
 > [!NOTE]
-> Interfejs API cennika jest specyficzny dla cennika planu platformy Azure. Nadal należy używać istniejącego interfejsu API usługi RateCard i list cen opublikowanych na stronie "Ceny i oferty" usługi Partner Center dla zasobów platformy Azure lub rezerwacji wdrożonych w subskrypcjach planu spoza platformy Azure. Interfejs API cennika planu platformy Azure nie obsługuje cen oprogramowania, platformy handlowej ani licencji, takich jak Microsoft 365 lub Dynamics 365.
+> Interfejs API cennika jest specyficzny dla cennika planu platformy Azure. Nadal należy używać istniejącego interfejsu API usługi RateCard i cenników opublikowanych na stronie "Cennik i oferty" usługi Partner Center dla zasobów platformy Azure lub rezerwacji wdrożonych w subskrypcjach spoza planu platformy Azure. Interfejs API cennika planu platformy Azure nie obsługuje cen oprogramowania, platformy handlowej ani licencji, takich jak Microsoft 365 lub Dynamics 365.
 
-Aby uzyskać więcej informacji na temat cennika planu platformy Azure i interfejsów API kursów wymiany walut, zobacz pełną dokumentację [interfejsu API cennika.](/partner/develop/pricing)
+Aby uzyskać więcej informacji na temat cennika planu platformy Azure i interfejsów API kursów wymiany walut, zobacz pełną dokumentację [interfejsu API cennika](/partner/develop/pricing).
 
 ## <a name="next-steps"></a>Następne kroki
 

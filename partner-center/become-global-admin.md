@@ -3,31 +3,31 @@ title: Jak zostać administratorem globalnym w swojej firmie
 ms.topic: how-to
 ms.date: 12/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Aby pracować w Partner Center, należy najpierw zweryfikować własność domeny. Dowiedz się, jak to zrobić i jak zostać administratorem globalnym, który może dodawać użytkowników.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01b8be1e02dcbc0a35f0cc24371c1a2819d4430f
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d2888a8deffffa3b281ca088696184fdb52376be
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842422"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102322"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>Weryfikowanie własności domeny w celu otrzymania uprawnień administratora globalnego 
 
 
 **Odpowiednie role:** Administrator globalny | Administrator konta
 
-Aby pracować w Partner Center, musisz najpierw zweryfikować własność domeny i zostać administratorem globalnym w firmie. Ponadto pracownikom nie zostaną przypisane role niezbędne do rozpoczęcia pracy.  Aby pracować w Partner Center wszyscy muszą mieć przypisaną rolę, która obejmuje uprawnienia.  
+Aby pracować w Partner Center, musisz najpierw zweryfikować własność domeny i zostać administratorem globalnym w firmie. Ponadto pracownicy nie będą mieć przypisanych ról niezbędnych do rozpoczęcia pracy.  Aby pracować w Partner Center wszyscy muszą mieć przypisaną rolę, która obejmuje uprawnienia.  
 
 ## <a name="verify-your-domain-ownership-to-become-a-global-admin-in-partner-center"></a>Sprawdź własność domeny, aby zostać administratorem globalnym w Partner Center
 
 Aby zostać administratorem globalnym w swojej firmie, musisz zweryfikować własność domeny.
 
-1. Na Partner Center nawigacyjnym na stronie **Oferty członkostwa** wybierz pozycję **Zostań administratorem globalnym.** 
+1. Na pulpicie Partner Center nawigacyjnym na stronie **Oferty członkostwa** wybierz pozycję **Zostań administratorem globalnym.** 
 
 2. Na stronie **Weryfikowanie własności domeny** skopiuj wartości TXT z tabeli. Zauważ, że Twoja domena została już wybrana.
 
@@ -50,9 +50,9 @@ Zweryfikowanie własności domeny powoduje również, że jesteś administratore
 
 ## <a name="find-the-companys-global-admin"></a>Znajdowanie administratora globalnego firmy
 
-1. Z **ikony Ustawienia u** góry po prawej stronie Partner Center wybierz **pozycję Zarządzanie użytkownikami.**
+1. Z **ikony Ustawienia w** prawym górnym rogu strony Partner Center wybierz **pozycję Zarządzanie użytkownikami.**
 
-1. Filtruj według administratora globalnego w polu wyszukiwania. Zostanie wyświetlona lista administratorów globalnych w firmie. Jeśli Twoja firma nie ma jeszcze administratora globalnego, postępuj zgodnie z poniższymi instrukcjami.
+1. Filtruj według administratora globalnego w polu wyszukiwania. Zostanie wyświetlona lista administratorów globalnych w firmie. Jeśli firma nie ma jeszcze administratora globalnego, postępuj zgodnie z poniższymi instrukcjami.
 
 ## <a name="next-steps"></a>Następne kroki
 

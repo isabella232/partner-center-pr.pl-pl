@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9cf6ddd8ed73fcd9a7ee20a180072ad51cc5b7c4
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2baab834c3d31639f1353a53fb8787da041aec1c1c59776df49bd590fb7452f0
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843565"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682372"
 ---
 # <a name="common-annual-billing-scenarios-in-partner-center"></a>Typowe roczne scenariusze rozliczeń w Partner Center
 
@@ -74,25 +74,25 @@ Data rozliczenia to 15. dzień każdego miesiąca. 13 stycznia kupujesz nową su
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-1/13/2018|1/12/2019|Cykl prorate wystąpienia|-48.00|1|-48.00
-1/13/2018|1/31/2018|Cykl prorate wystąpienia|2.47|1|2.47
-2018-01-02|1/12/2019|Cykl prorate wystąpienia|44.98|2|89.96
+1/13/2018|1/12/2019|Cykl wystąpienia prorate|-48.00|1|-48.00
+1/13/2018|1/31/2018|Cykl wystąpienia prorate|2.47|1|2.47
+2018-01-02|1/12/2019|Cykl wystąpienia prorate|44.98|2|89.96
 
 Cena roczna wynosi 48,00, co odpowiada cenie dziennej 0,13 (48,00/365).
 
 Cena jednostkowa = dni w okresie świadczenia usługi x cena dzienna x liczba licencji.
 
-W okresie świadczenia usługi 13.01.2018 – 31.01.2018 istnieje 19 dni.
+W okresie obsługi od 13.01.2018 r. do 31.01.2018 r. istnieje 19 dni.
 
 W związku z tym cena jednostkowa = 2,47 (19x0,13x1)
 
-Istnieją 346 dni w okresie świadczenia usługi od 1.02.2018 r. do 12.01.2019 r.
+W okresie obsługi od 1.02.2018 r. do 12.01.2019 r. istnieje 346 dni.
 
 W związku z tym cena jednostkowa = 44,98 (346x0,13x2)
 
-## <a name="suspend-before-30-days"></a>Wstrzymaj przed 30 dniami
+## <a name="suspend-before-30-days"></a>Wstrzymywanie przed 30 dniami
 
-Data rozliczenia to 15. dzień każdego miesiąca. 13 stycznia kupujesz nową subskrypcję z jedną licencją na 4 USD/miesiąc i wybierasz rozliczenia roczne. Plik uzgodnień oparty na licencjach z 15 stycznia będzie zawierać następujący wiersz rozliczeń:
+Data rozliczenia to 15. dzień każdego miesiąca. 13 stycznia zakupisz nową subskrypcję z jedną licencją na 4 USD/miesiąc i wybierzesz rozliczenia roczne. Plik uzgodnień oparty na licencjach z 15 stycznia będzie zawierać następujący wiersz rozliczeń:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -104,16 +104,16 @@ Data rozliczenia to 15. dzień każdego miesiąca. 13 stycznia kupujesz nową su
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|1/12/2019|Anulowanie opłaty|-48.00|1|-48.00
 
-## <a name="suspend-after-30-days"></a>Wstrzymywanie po upływie 30 dni
+## <a name="suspend-after-30-days"></a>Wstrzymywanie po 30 dniach
 
-Data rozliczenia to 15. dzień każdego miesiąca. 13 stycznia kupujesz nową subskrypcję z jedną licencją na 4 USD/miesiąc i wybierasz rozliczenia roczne. Plik uzgodnień oparty na licencjach z 15 stycznia będzie zawierać następujący wiersz rozliczeń:
+Data rozliczenia to 15. dzień każdego miesiąca. 13 stycznia zakupisz nową subskrypcję z jedną licencją na 4 USD/miesiąc i wybierzesz rozliczenia roczne. Plik uzgodnień oparty na licencjach z 15 stycznia będzie zawierać następujący wiersz rozliczeń:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|1/12/2019|Naliczanie opłat podczas zakupu|48.00|1|48.00
 
 Plik uzgodnień oparty na licencjach z 15 lutego nie będzie zawierać żadnych wierszy rozliczeń dla tej subskrypcji.
-1 marca wstrzymujesz subskrypcję. Plik uzgodnień oparty na licencjach z 15 marca będzie zawierać następujący wiersz rozliczeń:
+1 marca zawieszasz subskrypcję. Plik uzgodnień oparty na licencjach z 15 marca będzie zawierać następujący wiersz rozliczeń:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -123,7 +123,7 @@ Cena roczna wynosi 48,00, co odpowiada cenie dziennej 0,13 (48,00/365).
 
 Cena jednostkowa = dni w okresie świadczenia usługi x cena dzienna x liczba licencji.
 
-W okresie świadczenia usługi 3.1.2018 – 12.01.2019 r. istnieje 318 dni.
+W okresie obsługi od 1.03.2018 r. do 12.01.2019 r. istnieje 318 dni.
 
 W związku z tym cena jednostkowa = 41,34 (318x0,13x1). Ponieważ jest to kredyt, cena jednostkowa wynosi -41,34.
 

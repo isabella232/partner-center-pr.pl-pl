@@ -1,41 +1,41 @@
 ---
-title: Raport użycia zespołów szczegółowych informacji Centrum partnerskiego
+title: Raport użycia zespołów analizy centrum partnerskiego
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Sprawdź, co robisz dobrze i gdzie możesz ulepszyć użycie subskrypcji Teams sprzedaży lub zarządzania nimi dla klientów.
+description: Sprawdź, co robisz dobrze i gdzie możesz poprawić użycie subskrypcji Teams sprzedaży lub zarządzania nimi dla klientów.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 390c81496c16afb20ede58420c1201b24349708e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 4d6dec18310193e2d4b51bc41e6fce3ef11f8354d0dd451d1517923f8ea5845d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114846166"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115683062"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Teams raport użycia dostępny na pulpicie nawigacyjnym Partner Center Szczegółowe informacje nawigacyjnym
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny | Przeglądarka raportów | Przeglądarka raportów dla kierownictwa
 
-Raport Teams użycia przedstawia metryki związane Teams obciążeniami, które zostały sprzedane klientom lub nimi zarządzano. Poniższe sekcje można przejrzeć w Teams użycia.
+Raport Teams użycia przedstawia metryki związane z obciążeniami usługi Teams, które zostały sprzedane klientom lub są nimi zarządzane. Poniższe sekcje można wyświetlić w raporcie Teams użycia.
 
 - Podsumowanie
 - Trend konwersacji
-- Teams użycia według obciążeń
+- Teams według obciążeń
 - Najgorętsi klienci według użycia
 
  > [!NOTE]
- > Ten raport jest dostępny na pulpicie nawigacyjnym Szczegółowe informacje nawigacyjnym. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Przeglądarka raportów lub Przeglądarka raportów dla kierownictwa. Aby uzyskać więcej informacji, zobacz Administratora globalnego firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami do przeglądarki raportów executive.
+ > Ten raport jest dostępny na pulpicie Szczegółowe informacje nawigacyjnym. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Przeglądarka raportów lub Przeglądarka raportów kierownictwa. Aby uzyskać więcej informacji, zobacz Administrator globalny twojej firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami do przeglądarki raportów executive.
 
 ## <a name="summary"></a>Podsumowanie
 
-Sekcja podsumowania zawiera widok migawki kluczowych wskaźników związanych z Teams obciążeniami sprzedawanymi lub zarządzanymi przez Ciebie dla klientów.  
+Sekcja podsumowania przedstawia widok migawki kluczowych wskaźników związanych z obciążeniami Teams sprzedanymi lub zarządzanymi przez Ciebie dla twoich klientów.  
 
 - Klienci: odrębna liczba klientów używających Teams jako obciążenia dla wybranego czasu trwania.
 
-- Liczba spotkań: liczba Teams odbywanych przez klientów.
+- Liczba spotkań: liczba Teams spotkań prowadzonych przez klientów.
 
 - Średnia dzienna liczba spotkań na klienta: średnia dzienna liczba spotkań na klienta. 
 
@@ -47,11 +47,11 @@ Sekcja podsumowania zawiera widok migawki kluczowych wskaźników związanych z 
 
 ## <a name="conversations-trend"></a>Trend konwersacji
 
-Raport Trend konwersacji przedstawia miesięczny trend spotkań, połączeń i systemów telefonicznych Teams oraz średni czas trwania spotkania w minutach.
+Raport Trend konwersacji przedstawia miesięczny trend Teams, połączeń i systemów telefonicznych wraz ze średnim czasem trwania spotkania w minutach.
 
-:::image type="content" source="images/insights/teams-usage-conversation-trends.png" alt-text="trendy konwersacji dotyczące użycia zespołów.":::
+:::image type="content" source="images/insights/teams-usage-conversation-trends.png" alt-text="trendy konwersacji dotyczące użycia przez zespoły.":::
 
-## <a name="teams-usage-by-workloads"></a>Teams użycia według obciążeń
+## <a name="teams-usage-by-workloads"></a>Teams według obciążeń
 
 Raport Teams według obciążeń przedstawia comiesięczny podział użytkowników komputerów stacjonarnych, mobilnych i internetowych Teams według obciążeń.
 
@@ -59,7 +59,7 @@ Raport Teams według obciążeń przedstawia comiesięczny podział użytkownik�
 
 ## <a name="top-customers-by-usage"></a>Najgorętsi klienci według użycia
 
-Raport Top customers by usage (Najgorętsi klienci według użycia) przedstawia użycie klientów z najlepszymi Teams na spotkaniach, połączeniach telefonicznych, systemach telefonicznych i aplikacjach innych firm.
+Raport Top customers by usage (Najgoręcejsi klienci według użycia) przedstawia użycie najgorętszych klientów na Teams, połączeń telefonicznych, systemów telefonicznych i aplikacji innych firm.
 
 :::image type="content" source="images/insights/teams-usage-top-customer.png" alt-text="Najgorętsi klienci według użycia.":::
 
@@ -67,4 +67,4 @@ Raport Top customers by usage (Najgorętsi klienci według użycia) przedstawia 
 
 - Aby uzyskać więcej raportów, [zobacz Partner Center Szczegółowe informacje](partner-center-insights.md).
 
-- Możesz pobrać nieprzetworzone dane, które są zasilane z tego raportu, z sekcji Pobieranie raportów na pulpicie Szczegółowe informacje nawigacyjnym. [Więcej informacji](insights-download-reports.md) 
+- Możesz pobrać nieprzetworzone dane, które będą zasilać ten raport, z sekcji Pobieranie raportów na Szczegółowe informacje nawigacyjnym. [Więcej informacji](insights-download-reports.md) 

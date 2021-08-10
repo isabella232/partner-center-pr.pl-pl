@@ -9,12 +9,12 @@ metadata:
   author: mseamons
   ms.author: mseamons
   ms.localizationpriority: medium
-  ms.openlocfilehash: 868b47431eb6d04c0885f82c13f7611bace24d2c
-  ms.sourcegitcommit: d1deaeb1703cf2c25119037c5fb624c44fca74b4
+  ms.openlocfilehash: 82c659bb0610b701c294bafd22201e6c726750e92c7ad2ddaf040c9056dbfd63
+  ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/14/2021
-  ms.locfileid: "113753574"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "115688917"
 title: Często zadawane pytania dotyczące zachęt
 summary: >
   **Odpowiednie role:** Zachęty dla administratorów | Zachęty użytkownika
@@ -31,14 +31,14 @@ sections:
       Jeśli spróbujesz dołączyć do programu MPN, a Twoja firma jest już członkiem, program MPN rozpozna domenę i skojarzy Cię z istniejącym kontem. Istniejące konto może być taką samą firmą lub powiązaną firmą używającą tej samej domeny poczty e-mail lub tej samej usługi Azure Activity Directory (Azure AD) do zarządzania wieloma domenami.
 
 
-      Główną osobę kontaktową można zidentyfikować na stronie profilu prawnego. Jeśli Twoja lokalizacja to lokalizacja MPNHQ, wystarczy skonfigurować uprawnienia wymagane do zarządzania zachętami. Aby uzyskać więcej informacji na temat ról i uprawnień, zobacz [Omówienie uprawnień](permissions-overview.md).
+      Główną osobę kontaktową można zidentyfikować na stronie profilu prawnego. Jeśli Twoja lokalizacja to lokalizacja MPNHQ, wystarczy skonfigurować uprawnienia wymagane do zarządzania zachętami. Aby uzyskać więcej informacji na temat ról i uprawnień, zobacz [Omówienie uprawnień.](permissions-overview.md)
 
 
       Jeśli nie znajdujesz się w tym samym kraju co lokalizacja [](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) MPNHQ, zapoznaj się z instrukcjami dotyczącymi kont wielonarodowych, aby uzyskać więcej informacji na temat tego scenariusza.
   - question: >
       Jakie role użytkownika są dostępne?
     answer: >
-      Osoba, która zarejestruje firmę w Partner Center, domyślnie staje się główną osobą kontaktową i administratorem globalnym. Administrator może zapraszać użytkowników w portalu i zarządzać nimi.
+      Osoba, która zarejestruje firmę w Partner Center, domyślnie staje się główną osobą kontaktową i administratorem globalnym. Administrator może zapraszać użytkowników i zarządzać nimi w portalu.
 
 
       Kluczowymi rolami dla zachęt są administrator zachęt i użytkownik zachęt. Administrator zachęt może rejestrować się w programach zachęt oraz zarządzać danymi banku i podatków dla partnera. Użytkownik zachęt może wyświetlać raporty w narzędziu, aby zobaczyć, co zostało zapłacone, i podział każdej płatności, ale nie może wyświetlać ani edytować szczegółów banku. Obie role mogą być stosowane do wszystkich lokalizacji w ramach konta globalnego partnera.
@@ -54,7 +54,7 @@ sections:
       Prawdopodobnym powodem, dla którego nie widzisz zachęt, jest to, że nie masz odpowiednich uprawnień. Aby rozwiązać ten problem, użyj poniższej procedury.
 
 
-      1. Zaloguj się do Partner Center [nawigacyjnego przy](https://partner.microsoft.com/dashboard/) użyciu poświadczeń dzierżawy usługi Azure AD (poświadczeń służbowych). Jeśli nie możesz się zalogować, skontaktuj się z administratorem globalnym firmy.
+      1. Zaloguj się do [pulpitu Partner Center nawigacyjnego](https://partner.microsoft.com/dashboard/) przy użyciu poświadczeń dzierżawy usługi Azure AD (poświadczeń służbowych). Jeśli nie możesz się zalogować, skontaktuj się z administratorem globalnym firmy.
 
 
       2. Jeśli podczas logowania zostanie wyświetlony monit o  wybranie konta służbowego lub osobistego, wybierz pozycję Konto **służbowe.**

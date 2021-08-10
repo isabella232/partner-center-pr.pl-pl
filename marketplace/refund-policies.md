@@ -6,12 +6,12 @@ ms.topic: article
 author: jeweber
 ms.author: jeweber
 ms.date: 06/02/2021
-ms.openlocfilehash: 37be38030ece0b78629fe1ebbb77c41f2cbcb8fb
-ms.sourcegitcommit: 771a7fca2125a9895226a06e9f1f3988dcc561ea
+ms.openlocfilehash: 76aeefe324edba06b71cf41cfb25be805b356cc63de0377ba246b50d05187998
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "111446859"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688306"
 ---
 # <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Zasady zwrotu kosztów Microsoft AppSource i Azure Marketplace
 
@@ -25,7 +25,7 @@ Zwroty nie są wystawiane dla opłat zmiennych. Na przykład jeśli oferta SaaS 
 
 ## <a name="office-add-ins"></a>Dodatki pakietu Office
 
-Jeśli zakupisz dodatek dla pakietu Office, będziesz kwalifikować się do pełnego zwrotu kosztów, jeśli anulujesz subskrypcję w ciągu jednego dnia od zakupu lub odnowienia. Jeśli anulujesz subskrypcję po jednym dniu od zakupu, kwalifikujesz się do częściowego zwrotu na podstawie pozostałej części oferty. Jeśli zmodyfikujesz subskrypcję, możesz kwalifikować się do częściowego zwrotu na podstawie pozostałej części okresu subskrypcji.
+W przypadku zakupu Office dodatku kwalifikujesz się do pełnego zwrotu, jeśli anulujesz subskrypcję w ciągu jednego dnia od zakupu lub odnowienia. Jeśli anulujesz subskrypcję po jednym dniu od zakupu, kwalifikujesz się do częściowego zwrotu na podstawie pozostałej części oferty. Jeśli zmodyfikujesz subskrypcję, możesz kwalifikować się do częściowego zwrotu na podstawie pozostałej części okresu subskrypcji.
 
 ## <a name="azure-developer-services"></a>Usługi dla deweloperów platformy Azure
 

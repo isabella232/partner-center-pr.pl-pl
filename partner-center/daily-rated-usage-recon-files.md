@@ -1,5 +1,5 @@
 ---
-title: Pliki uzgodnień użycia z ocenianą dobową oceną
+title: Pliki uzgodnień użycia ocenianego codziennie
 ms.topic: article
 ms.date: 06/12/2020
 description: Dowiedz się, jak odczytywać pliki uzgodnień dziennego użycia w Partner Center. Zawiera opisy dla określonych pól w pliku rekonescją.
@@ -9,20 +9,20 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9b9c422124227804dcf1ac70286a73155d2e71d3
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 28b61ba66fa887db5b27667318ac8f3dcfbff0a14b73925db5a7be1b77dca266
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844075"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115689308"
 ---
-# <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Dowiedz się, jak odczytywać pliki uzgodnień dziennego użycia w Partner Center
+# <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Dowiedz się, jak odczytywać pliki uzgodnień użycia codziennie w u Partner Center
 
 **Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
 
-**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Agent sprzedaży | Agent pomocy technicznej
+**Odpowiednie role:** Administrator | Administrator rozliczeń | Agent sprzedaży | Agent pomocy technicznej
 
-W tym artykule wyjaśniono, jak odczytywać pliki uzgodnień dziennego użycia.
+W tym artykule wyjaśniono, jak odczytywać pliki uzgodnień użycia oceniane codziennie.
 
 >[!NOTE]
 >Dzienne użycie oceniane zwykle trwa 24 godziny, aby pojawiać się w Partner Center lub uzyskać do niego dostęp za pośrednictwem interfejsu API.
@@ -31,9 +31,9 @@ W tym artykule wyjaśniono, jak odczytywać pliki uzgodnień dziennego użycia.
 
 | Kolumna | Opis |
 | ------ | ----------- |
-| PartnerId | Identyfikator partnera w formacie IDENTYFIKATORA GUID. |
+| PartnerId | Identyfikator partnera w formacie identyfikatora GUID. |
 | PartnerName | Nazwa partnera. |
-| CustomerId | Unikatowy identyfikator firmy Microsoft dla klienta w formacie identyfikatora GUID. |
+| CustomerId | Unikatowy identyfikator microsoft klienta w formacie identyfikatora GUID. |
 | CustomerName | Nazwa organizacji klienta zgłoszona w Partner Center. *Ta kolumna jest ważna w przypadku uzgadniania faktury z informacjami o systemie.* |
 | CustomerDomainName | Nazwa domeny klienta. |
 | CustomerCountry | Kraj, w którym znajduje się klient. |
@@ -42,17 +42,17 @@ W tym artykule wyjaśniono, jak odczytywać pliki uzgodnień dziennego użycia.
 | InvoiceNumber | Numer faktury, na której pojawia się określona transakcja. |
 | ProductId | Identyfikator produktu. |
 | SkuId | Identyfikator określonej jednostki SKU. |
-| AvailabilityId | Identyfikator dostępności określonej jednostki SKU. W tej kolumnie pokazano, czy można kupić tę sku w danym kraju, walucie, segmencie branżowym itp. |
+| AvailabilityId | Identyfikator dostępności określonej jednostki SKU. W tej kolumnie pokazano, czy jest dostępna do zakupu w danym kraju, walucie, segmencie branżowym itp. |
 | SkuName | Tytuł określonej sku. |
 | ProductName | Nazwa produktu. |
 | PublisherName | Nazwa wydawcy. |
 | PublisherId | Identyfikator wydawcy w formacie identyfikatora GUID. |
-| SubscriptionDescription | Nazwa oferty usługi zakupionej przez klienta, zgodnie z definicją w cenniku. (Ta kolumna jest identycznym polem co **OfferName).** |
-| SubscriptionId | Unikatowy identyfikator subskrypcji na platformie rozliczeniowej firmy Microsoft. Nie są używane do uzgadniania. *Ten identyfikator nie jest taki sam jak **identyfikator subskrypcji** w konsoli administracyjnej partnera.* |
-| ChargeStartDate | Data rozpoczęcia cyklu rozliczeniowego (z wyjątkiem dat wcześniej niezaliczanych danych ukrytego użycia z poprzedniego cyklu rozliczeniowego). Godzina to zawsze początek dnia, 0:00. |
-| ChargeEndDate | Data zakończenia cyklu rozliczeniowego (z wyjątkiem prezentowania dat wcześniej niezaliczanych danych użycia ukrytego z poprzedniego cyklu rozliczeniowego). Czas to zawsze koniec dnia, 23:59. |
+| SubscriptionDescription | Nazwa oferty usługi zakupionej przez klienta, zgodnie z definicją w cenniku. (Ta kolumna jest identycznym polem **offername).** |
+| SubscriptionId | Unikatowy identyfikator subskrypcji na platformie rozliczeniowej firmy Microsoft. Nie służy do uzgadniania. *Ten identyfikator nie jest taki sam jak identyfikator **subskrypcji** w konsoli administracyjnej partnera.* |
+| ChargeStartDate | Data rozpoczęcia cyklu rozliczeniowego (z wyjątkiem dat prezentowania wcześniej niezaliczanych danych użycia ukrytego z poprzedniego cyklu rozliczeniowego). Godzina to zawsze początek dnia, 0:00. |
+| ChargeEndDate | Data końcowa cyklu rozliczeniowego (z wyjątkiem prezentowania dat wcześniej niezapłacanych danych użycia ukrytego z poprzedniego cyklu rozliczeniowego). Godzina to zawsze koniec dnia, 23:59. |
 | UsageDate | Data użycia usługi. |
-| MeterType (Typ miernika) | Typ miernika. |
+| Typ miernika | Typ miernika. |
 | MeterCategory | Usługa najwyższego poziomu do użycia. |
 | MeterId | Identyfikator używanego miernika. |
 | MeterSubCategory | Typ usługi platformy Azure, który może mieć wpływ na stawkę. |
@@ -67,22 +67,22 @@ W tym artykule wyjaśniono, jak odczytywać pliki uzgodnień dziennego użycia.
 | UnitPrice | Cena za licencję opublikowana w cenniku w momencie zakupu. Upewnij się, że ta cena odpowiada informacjom przechowywanym w systemie rozliczeniowym podczas uzgadniania. |
 | Liczba | Liczba licencji. Upewnij się, że ta cena odpowiada informacjom przechowywanym w systemie rozliczeniowym podczas uzgadniania. |
 | Unittype | Typ jednostki, w przypadku których jest naliczana opłata za miernik.  |
-| BillingPreTaxTotal | Łączna kwota rozliczeniowa przed podatkami.<br/> _**BillingPreTaxTotal** = FLOOR(([] @EffectiveUnitPrice *[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
+| BillingPreTaxTotal | Łączna kwota rozliczeniowa przed podatkami.<br/> _**BillingPreTaxTotal** = FLOOR(([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
 | BillingCurrency | Waluta w regionie geograficznym klienta. |
-| PricingPreTaxTotal | Ceny przed dodaniu podatków. |
+| PricingPreTaxTotal | Cennik przed dodaniu podatków. |
 | PricingCurrency | Waluta w cenniku. |
 | ServiceInfo1 | Liczba połączeń Service Bus aprowizowanych i używanych w danym dniu. |
 | ServiceInfo2 | Starsze pole, które przechwytuje opcjonalne metadane specyficzne dla usługi. |
-| Tagi | Reprezentuje logiczną organizację zasobów platformy Azure ustawionych przez użytkownika. |
+| Tagi | Reprezentuje logiczną organizację zasobów platformy Azure ustawioną przez użytkownika. |
 | AdditionalInfo | Wszelkie dodatkowe informacje, które nie są zawarte w innych kolumnach. |
 | EffectiveUnitPrice | Rzeczywista wartość naliczana za jednostkę, w tym wszelkie rabaty, uzyskane punkty itp. |
 | PCToBCExchangeRate | Exchange stosowana dla waluty cennika do waluty rozliczeniowej. |
-| PCToBCExchangeRateDate | Data, w której jest określana waluta cenowa na walutę rozliczeniową. |
+| PCToBCExchangeRateDate | Data, w której jest określana waluta cenowa waluty rozliczeniowej. |
 | EntitlementId | Reprezentuje identyfikator subskrypcji platformy Azure. |
 | EntitlementDescription | Reprezentuje nazwę identyfikatora subskrypcji platformy Azure. |
-| PartnerEarnedCreditPercentage | Wyświetla partnerearnedcredit dla elementu wiersza. Uzyskane punkty będą mieć 0 lub 15% |
+| PartnerEarnedCreditPercentage | Wyświetla partnerearnedcredit dla elementu wiersza. Uzyskane punkty to 0 lub 15% |
 | CreditPercentage (CreditPercentage) | Wyświetla informacje o środków na korzystanie z platformy Azure. Uzyskane punkty to 0 lub 100 procent. |
-| CreditType (Typ środków) | Typ środków. Na przykład Zastosowane **środków na korzystanie z platformy Azure.** |
+| CreditType | Typ środków. Na przykład Zastosowane **środków na korzystanie z platformy Azure.** |
 >[!NOTE]
 >Dzienne użycie oceniane zwykle trwa 24 godziny, aby pojawiać się w Partner Center lub uzyskać do niego dostęp za pośrednictwem interfejsu API.
 

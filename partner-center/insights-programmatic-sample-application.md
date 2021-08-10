@@ -8,12 +8,12 @@ description: Użyj przykładowej aplikacji, aby skompilować własną aplikację
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: cb2bc8be9ea49c0d75da4d78961865331ed908c9
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c558852b7c2af7243187a856067d17a2137cfac867149b80e9c852a1d08d780a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845044"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115683784"
 ---
 # <a name="sample-application"></a>Przykładowa aplikacja
 
@@ -47,7 +47,7 @@ git clone https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN.git
 
 - Aby szybko uruchomić aplikację, zaktualizuj identyfikator klienta i klucz tajny klienta wappsettings.Development.js **na**
 
-:::image type="content" source="images/insights/prog-acc-appsetting-development.png" alt-text="Ilustrowanie ciągu JSON tworzenia aplikacji":::
+:::image type="content" source="images/insights/prog-acc-appsetting-development.png" alt-text="Ilustrowanie danych JSON tworzenia aplikacji":::
 
 Uruchomienie aplikacji spowoduje uruchomienie lokalnego serwera internetowego, a zostanie otwarta strona ( `https://localhost:44365/ProgrammaticExportSampleApp/sample` ).
   

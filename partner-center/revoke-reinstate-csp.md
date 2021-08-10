@@ -9,25 +9,25 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a3af74158b36442118d41662744fc921277963c
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 53f9cf6533127231c152fbba0d7d7fbdadd6a897424f3d9383818fb45edf3465
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845333"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682656"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Przywróć uprawnienia administratora dla subskrypcji Azure CSP klienta  
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny
 
-Jako Dostawca rozwiązań w chmurze (CSP) klienci często oczekują, że będziesz zarządzać ich użyciem platformy Azure i ich systemami. Musisz mieć do tego uprawnienia administratora. Niektóre uprawnienia są przyznawane, gdy relacja odsprzedawcy z klientem zostanie ustanowiona. Inne osoby są udzielane przez klienta.
+Jako Dostawca rozwiązań w chmurze (CSP), klienci często oczekują, że będziesz zarządzać ich użyciem platformy Azure i ich systemami. Musisz mieć do tego uprawnienia administratora. Niektóre uprawnienia są przyznawane, gdy relacja odsprzedawcy z klientem zostanie ustanowiona. Inne osoby są przyznawane przez klienta.
 
 ## <a name="admin-privileges-for-azure-in-csp"></a>Uprawnienia administratora dla Platforma Azure w programie CSP
 
 Istnieją dwa poziomy uprawnień administratora dla Platforma Azure w programie CSP.
 
 - **Uprawnienia administratora na poziomie dzierżawy (delegowane** uprawnienia administratora): partnerzy programu CSP uzyskają te uprawnienia podczas ustanawiania relacji odsprzedawcy programu CSP z klientami. Delegowane uprawnienia administratora zapewniają partnerom programu CSP dostęp do dzierżaw ich klientów. Ten dostęp umożliwia im korzystanie z funkcji administracyjnych, takich jak dodawanie użytkowników i zarządzanie nimi, resetowanie haseł i zarządzanie licencjami użytkowników.
-- **Uprawnienia administratora na poziomie subskrypcji:** partnerzy programu CSP uzyskają te uprawnienia podczas tworzenia Azure CSP subskrypcji dla swoich klientów. Te uprawnienia umożliwiają partnerom programu CSP pełny dostęp do tych subskrypcji, co pozwala im aprowizować zasoby platformy Azure i zarządzać nimi.
+- **Uprawnienia administratora na poziomie subskrypcji:** partnerzy programu CSP uzyskają te uprawnienia podczas tworzenia Azure CSP subskrypcji dla swoich klientów. Te uprawnienia dają partnerom programu CSP pełny dostęp do tych subskrypcji, co pozwala im aprowizować zasoby platformy Azure i zarządzać nimi.
 
 ## <a name="reinstate-csp-a-partners-admin-privileges"></a>Przywróć uprawnienia administratora partnera w programie CSP
 
@@ -37,7 +37,7 @@ Klient może ponownie utworzyć przypisanie roli CSP, jeśli udostępnisz klient
 
 2. W menu Partner Center wybierz pozycję **Klienci.**
 
-3. Wybierz klienta, z który pracujesz, i **zażądaj relacji odsprzedawcy.** Ta akcja generuje link do klienta, który ma uprawnienia administratora dzierżawy.
+3. Wybierz klienta, z który pracujesz, **i zażądaj relacji odsprzedawcy.** Ta akcja generuje link do klienta, który ma uprawnienia administratora dzierżawy.
 
 4. Klient musi wybrać link i zatwierdzić żądanie relacji odsprzedawcy.
 
@@ -51,9 +51,9 @@ Klient może ponownie utworzyć przypisanie roli CSP, jeśli udostępnisz klient
    Get-AzADGroup -DisplayName AdminAgents
    ```
 
-6. Następnie klient musi wykonać poniższe kroki przy użyciu programu PowerShell lub interfejsu wiersza polecenia platformy Azure. Klient musi mieć:
+6. Klient musi następnie wykonać poniższe kroki przy użyciu programu PowerShell lub interfejsu wiersza polecenia platformy Azure. Klient musi mieć:
 
-- Rola właściciela **lub** **administratora dostępu użytkowników** 
+- Rola właściciela **lub administratora** dostępu **użytkowników** 
 - Uprawnienia do tworzenia przypisań ról na poziomie subskrypcji
 
    a. Tylko w przypadku programu PowerShell klient musi zaktualizować `Az.Resources` moduł.
@@ -109,7 +109,7 @@ Zamiast udzielać uprawnień właściciela w zakresie subskrypcji, możesz udzie
    az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "<Resource URI>"
    ```
 
-Jeśli powyższe kroki nie działają lub występują błędy podczas próby ich uzyskania, spróbuj wykonać następującą procedurę "catch-all", aby przywrócić prawa administratora dla klienta.
+Jeśli powyższe kroki nie działają lub podczas próby ich próby występują błędy, spróbuj wykonać następującą procedurę "catch-all", aby przywrócić prawa administratora dla klienta.
 
 ```powershell
 Install-Module -Name Az.Resources -Force -Verbose
@@ -129,11 +129,11 @@ New-AzRoleAssignment -ObjectId <principal ID> -RoleDefinitionName "Owner" -Scope
 
 Udostępnij wynikowy `newRoleAssignment.log` plik firmie Microsoft w celu dalszej analizy.
 
-Jeśli procedura "catch-all" nie powiedzie się podczas `Import-Module` , spróbuj wykonać następujące czynności:
+Jeśli procedura "catch-all" zakończy się niepowodzeniem podczas `Import-Module` procedury , spróbuj wykonać następujące czynności:
 - Jeśli importowanie nie powiedzie się, ponieważ moduł jest w użyciu, uruchom ponownie sesję programu PowerShell, zamykając i ponownie otwierając wszystkie okna.
 - Sprawdź wersję programu za `Az.Resources` pomocą . `Get-Module Az.Resources -ListAvailable`
 - Jeśli wersja 4.1.1 nie znajduje się na liście dostępnych, należy użyć programu `Update-Module Az.Resources -Force` .
-- Jeśli błąd zawiera konkretną wersję, zaktualizuj również ten moduł, zastępując `Az.Accounts` wartość `Az.Resources` . `Az.Accounts` Następnie należy ponownie uruchomić sesję programu PowerShell.
+- Jeśli w błędzie zostanie określony stan, który musi być określoną wersją, zaktualizuj również ten moduł, zastępując `Az.Accounts` wartość `Az.Resources` . `Az.Accounts` Następnie należy ponownie uruchomić sesję programu PowerShell.
 
 
 ## <a name="next-steps"></a>Następne kroki

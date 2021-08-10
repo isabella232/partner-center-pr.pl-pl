@@ -9,21 +9,21 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 03/24/2021
-ms.openlocfilehash: ed3b888791dad1e875db64b7ccbe20e7b0a8b4bbd71fb7c83cc677ee2d5f2d3a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: aa8f08b52a16aae56b02b09d5fdf607e92180ca5
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115680112"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101355"
 ---
 # <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Jak potwierdzić, że klient zaakceptował Umowa z Klientem Microsoft do programu CSP
 
-**Odpowiednie role:** Administrator | Agent sprzedaży
+**Odpowiednie role:** Agent administracyjny | Agent sprzedaży
 
 
-Klienci mają dwie opcje dotyczące sposobu akceptowania Umowa z Klientem Microsoft.
+Klienci mają dwie opcje akceptowania Umowa z Klientem Microsoft.
 
-**Opcja 1.** Potwierdzenie akceptacji klienta przez partnerów — partner może potwierdzić akceptację klienta przy użyciu interfejsu API lub zestawu SDK Partner Center lub za pośrednictwem Partner Center nawigacyjnego.
+**Opcja 1.** Potwierdzenie akceptacji klienta przez partnera — partner może potwierdzić akceptację klienta przy użyciu interfejsu API Partner Center/zestawu SDK lub za pośrednictwem Partner Center nawigacyjnego.
 
 **Opcja 2.** Bezpośrednia akceptacja klienta — partner może zaprosić klienta za pośrednictwem adresu URL do przejrzenia i zaakceptowania umowy w centrum Administracja Microsoft 365 klienta.
 
@@ -183,23 +183,23 @@ Skorzystaj z poniższych kroków, aby zaprosić istniejącego klienta do przejrz
 
 Istnieją dwa scenariusze, w których klienci mogą nie być w stanie bezpośrednio zaakceptować Umowa z Klientem Microsoft w Administracja Microsoft 365 Center.
 
-**Scenariusz 1.** Istniejący klient kupił dowolne z następujących produktów w ramach istniejącej relacji partnerskiej: oferty, subskrypcje oprogramowania lub oprogramowania, wystąpienia zarezerwowane lub plan platformy Azure. Klient próbuje teraz dokonać nowego zakupu (z wyjątkiem automatycznego odnawiania). Gdy klient kliknie adres URL, otrzyma komunikat "Skontaktuj się z partnerem, aby potwierdzić akceptację Umowa z Klientem Microsoft".  
+**Scenariusz 1.** Istniejący klient zakupił dowolny z następujących produktów w ramach istniejącej relacji z partnerem: oferty, subskrypcje oprogramowania lub oprogramowania, wystąpienia zarezerwowane lub plan platformy Azure. Klient próbuje teraz dokonać nowego zakupu (z wyjątkiem automatycznego odnawiania). Gdy klient kliknie adres URL, otrzyma komunikat "Skontaktuj się z partnerem, aby potwierdzić akceptację Umowa z Klientem Microsoft".  
 
-**Aby rozwiązać** ten problem: musisz atestować w imieniu klienta.
+**Aby rozwiązać** ten problem: musisz zaświadczyć w imieniu klienta.
 
-:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Zrzut ekranu Administracja Microsoft 365 Centrum z prośbą o sprosenie się z partnerem w celu potwierdzenia akceptacji Umowa z Klientem Microsoft.":::
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Zrzut ekranu Administracja Microsoft 365 centrum danych z prośbą o sprobatę partnera w celu potwierdzenia akceptacji Umowa z Klientem Microsoft.":::
 
 **Scenariusz 2.** Istniejący klient kupił dowolną z następujących ofert, subskrypcji oprogramowania i oprogramowania, wystąpień zarezerwowanych i planu platformy Azure. Klient próbuje teraz dokonać nowego zakupu u nowego partnera.
 
 Gdy klient kliknie adres URL w centrum Administracja Microsoft 365, aby zaakceptować nową relację z partnerem i umowę, otrzyma komunikat "Skontaktuj się z partnerem, aby potwierdzić akceptację Umowa z Klientem Microsoft".  
 
-**Aby rozwiązać** ten problem: musisz atestować w imieniu klienta.  
+**Aby rozwiązać** ten problem: musisz zaświadczyć w imieniu klienta.  
 
 ## <a name="confirm-that-a-customer-has-accepted-the-agreement"></a>Potwierdzanie, że klient zaakceptował umowę
 
-Jeśli spróbujesz utworzyć nowe zamówienie dla istniejącego klienta, który nie został jeszcze potwierdzony, zostanie wyświetlony monit o potwierdzenie. Użyj poniższej procedury w tym celu.
+Jeśli spróbujesz utworzyć nowe zamówienie dla istniejącego klienta, który nie został wcześniej potwierdzony, zostanie wyświetlony monit o potwierdzenie. Użyj poniższej procedury w tym celu.
 
-1. Wprowadź **imię,** **nazwisko,** **adres** e-mail i **Telefon** (opcjonalnie) użytkownika, który zaakceptował umowę.
+1. Wprowadź **imię, nazwisko,** **adres** **e-mail** **i Telefon** (opcjonalnie) użytkownika, który zaakceptował umowę.
 
 2. W **obszarze Data akceptacji umowy** wprowadź odpowiednią datę. Nie można ustawić tej daty na przyszłą datę.
 

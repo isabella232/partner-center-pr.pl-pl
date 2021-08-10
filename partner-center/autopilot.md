@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 95a201c53fc2eaf230d08bb4cfdd03a5747b5c05
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 7b022e51c99bffbdca085da317a963a9e051e14bd58211b0592b0da154554f04
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838482"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690379"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Używanie profilów rozwiązania Windows Autopilot na nowych urządzeniach w celu dostosowania środowiska gotowego do użycia dla klienta
 
@@ -22,7 +22,7 @@ ms.locfileid: "114838482"
 
 Jeśli zarządzasz urządzeniami klienta, może być konieczne dostosowanie out-of-box experience (OOBE) dla użytkowników klienta. Nowe urządzenia można wstępnie skonfigurować przy użyciu profilów rozwiązania Windows Autopilot przed dostarczeniem urządzeń do klientów i zastosować nowe profile do już zakupionych urządzeń. 
 
-Należy pamiętać, że od producentów OEM rozpoczęto zawieranie etykiety wysyłkowej poza polem urządzenia rozwiązania Autopilot, które zawiera identyfikator klucza produktu **(PKID) urządzenia.**  Ten 1-wymiarowy, czytelny kod kreskowy umożliwia partnerom niższego szczebla rejestrowanie urządzeń w programie Autopilot bez konieczności rozpakowania urządzeń i zbierania identyfikatorów urządzeń w alternatywny sposób.
+Należy pamiętać, że od producentów OEM rozpoczęto zawieranie etykiety wysyłkowej poza polem urządzenia rozwiązania Autopilot, które zawiera identyfikator klucza produktu **(PKID) urządzenia.**  Ten 1-wymiarowy, czytelny kod kreskowy zapewnia partnerom niższego szczebla możliwość rejestrowania urządzeń w programie Autopilot bez konieczności rozpakowania urządzeń i zbierania identyfikatorów urządzeń w alternatywny sposób.
 
 W tym artykule wyjaśniono, jak tworzyć i stosować profile rozwiązania Autopilot do urządzeń w Partner Center.
 
@@ -66,7 +66,7 @@ W Partner Center można tworzyć profile wdrażania Windows rozwiązania Autopil
 
 2. Na stronie szczegółów klienta wybierz pozycję **Urządzenia.**
 
-3. W **Windows profile rozwiązania Autopilot wybierz** pozycję Dodaj nowy **profil.**
+3. W **Windows rozwiązania Autopilot wybierz** pozycję Dodaj nowy **profil.**
 
 4. Wprowadź nazwę i opis profilu, a następnie skonfiguruj ustawienia OOBE. Wybierz spośród opcji:  
 
@@ -86,7 +86,7 @@ W Partner Center można tworzyć profile wdrażania Windows rozwiązania Autopil
 ### <a name="apply-an-autopilot-profile-to-customer-devices"></a>Stosowanie profilu rozwiązania Autopilot do urządzeń klientów
 
 >[!NOTE]
->W poniższych instrukcjach przyjęto założenie, że urządzenia klienta zostały już dodane do aplikacji Partner Center i że możesz uzyskać dostęp do ich listy urządzeń. Jeśli urządzenia klienta nie zostały jeszcze dodane, postępuj zgodnie z instrukcjami w artykule Dodawanie urządzeń do konta klienta, [a](#add-devices-to-a-customers-account) następnie wykonaj poniższe kroki.
+>W poniższych instrukcjach przyjęto założenie, że urządzenia klienta zostały już dodane do Partner Center i że możesz uzyskać dostęp do ich listy urządzeń. Jeśli urządzenia klienta nie zostały jeszcze dodane, postępuj zgodnie z instrukcjami w artykule Dodawanie urządzeń do konta klienta, [a](#add-devices-to-a-customers-account) następnie wykonaj poniższe kroki.
 
 Po utworzeniu profilu rozwiązania Autopilot dla klienta można go zastosować do urządzeń klienta.
 
@@ -138,7 +138,7 @@ Aby można było zastosować niestandardowe profile rozwiązania Autopilot do ur
 
 Jeśli planujesz używać nazwy OEM, numeru seryjnego i kombinacji modelu, należy pamiętać o tych ograniczeniach:
 
-- Ta krotka działa tylko w przypadku urządzeń nowszej (np. skrótów 4k) i nie jest obsługiwana w przypadku skrótów 128b (RS2 i poprzednich urządzeń).
+- Ta krotka działa tylko w przypadku urządzeń nowszej (na przykład 4k skrótów) i nie jest obsługiwana w przypadku skrótów 128b (RS2 i poprzednich urządzeń).
 
 - W rejestracji krotki jest zróżnicowa wielkość liter, dlatego  dane w pliku muszą być zgodne z nazwami modelu i producenta dokładnie tak, jak podano w przypadku dostawcy OEM (dostawcy sprzętu).
 
@@ -187,4 +187,4 @@ Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv -Partner -Force
 
 Windows Funkcja Autopilot umożliwia skonfigurowanie dostosowanych instalacji Windows na urządzeniach, które zarządzasz dla klientów. Jeśli klient ma takie uprawnienia, można pominąć lub ukryć niektóre ekrany konfiguracji, które są zwykle prezentowane użytkownikom podczas konfigurowania aplikacji Windows, w tym ekran akceptacji umowy licencyjnej użytkownika oprogramowania (EULA).
 
-Korzystając z tej funkcji, zgadzasz się, że pomijanie lub ukrywanie ekranów, które mają na celu powiadomienie lub zaakceptowanie warunków przez użytkowników, oznacza, że użytkownik uzyskał wystarczającą zgodę i autoryzację od klienta, aby ukryć warunki, oraz że w imieniu klienta (w zależności od tego, czy jest to organizacja, czy indywidualny użytkownik) , wyrażać zgodę na wszelkie powiadomienia i akceptować wszelkie postanowienia, które mają zastosowanie do klienta. Obejmuje to umowę z warunkami i postanowieniami licencji lub powiadomienie, które zostaną przedstawione użytkownikowi, jeśli użytkownik nie pominął ani nie ukrywał jej za pomocą tego narzędzia. Klient nie może korzystać z oprogramowania Windows tych urządzeniach, jeśli klient nie uzyskał w prawidłowy sposób licencji na oprogramowanie od firmy Microsoft lub licencjonowanych dystrybutorów.
+Korzystając z tej funkcji, zgadzasz się, że pominięcie lub ukrycie wszelkich ekranów, które mają na celu powiadomienie lub akceptację warunków, oznacza, że użytkownik uzyskał wystarczającą zgodę i autoryzację od klienta, aby ukryć warunki, oraz że Ty, w imieniu klienta (w zależności od tego, czy jest to organizacja, czy indywidualny użytkownik) , wyrażać zgodę na wszelkie powiadomienia i akceptować wszelkie postanowienia, które mają zastosowanie do klienta. Obejmuje to umowę z warunkami i postanowieniami licencji lub powiadomienie, które zostaną przedstawione użytkownikowi, jeśli użytkownik nie pominął ani nie ukrywał jej za pomocą tego narzędzia. Klient nie może korzystać z oprogramowania Windows tych urządzeniach, jeśli klient nie uzyskał w prawidłowy sposób licencji na oprogramowanie od firmy Microsoft lub licencjonowanych dystrybutorów.

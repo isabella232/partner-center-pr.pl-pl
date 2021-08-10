@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73ccd5326447de52eef6f7de2a43b53c09d84dae
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 9480b944ef740a8a230c227fb53242c1a4d18230ca77a17facad5cfd3482ee4d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837615"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690277"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 dla instytucji rządowych GCC kryteria kwalifikowalności partnera CSP i klienta 
 
@@ -25,13 +25,13 @@ ms.locfileid: "114837615"
 
 Jeśli interesuje Cię zatwierdzenie firmy (lub firmy klienta) do obsługi Office 365 dla instytucji rządowych GCC CSP, zapoznaj się z poniższymi wymaganiami.
 
-Możesz zostać zatwierdzony, jeśli jesteś partnerem, który obsługuje federalne, stanowe, lokalne lub plemienne jednostki rządowe Stanów Zjednoczonych. Aby zweryfikować uprawnienia organizacji, wypełnij krótki formularz znajdujący się [tutaj.](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)
+Możesz zostać zatwierdzony, jeśli jesteś partnerem, który obsługuje federalne, stanowe, lokalne lub plemienne jednostki rządowe Stanów Zjednoczonych. Aby zweryfikować kwalifikowalność organizacji, wypełnij krótki formularz znajdujący się [tutaj.](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)
 
 Klient może zostać zatwierdzony, jeśli jest organizacją, która obsługuje dane kontrolowane przez rząd lub jest federalnym, stanowym, lokalnym lub plemiennym podmiotem rządowym Stanów Zjednoczonych. Aby zweryfikować uprawnienia organizacji klientów, wypełnij krótki formularz znajdujący się [tutaj.](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer) 
 
--   Twoja organizacja musi być [zarejestrowane w](https://partnercenter.microsoft.com/partner/cloud-solution-provider) programie Dostawca rozwiązań w chmurze, ponieważ jest to warunek wstępny do zatwierdzenia Office 365 dla instytucji rządowych GCC dla programu CSP.
+-   Twoja organizacja musi być [zarejestrowane w](https://partnercenter.microsoft.com/partner/cloud-solution-provider) programie Dostawca rozwiązań w chmurze, ponieważ jest to warunek wstępny do zatwierdzenia dla programu Office 365 dla instytucji rządowych GCC CSP.
 -   Przewodnik krok po kroku dotyczący procesu weryfikacji dla Office 365 dla instytucji rządowych GCC CSP znajduje się [tutaj.](https://go.microsoft.com/fwlink/?linkid=2007323)
--   Aby uzyskać dodatkowe pytania lub wątpliwości dotyczące walidacji, skontaktuj się z eskalacją pomocy technicznej [RSC.](mailto:usgcce@microsoft.com)
+-   W przypadku dodatkowych pytań lub wątpliwości dotyczących weryfikacji skontaktuj się z eskalacją pomocy technicznej [RSC.](mailto:usgcce@microsoft.com)
 
 Office 365 dla instytucji rządowych GCC dla partnerów i klientów programu CSP zostanie zweryfikowana pod względem uprawnień na podstawie określonych kryteriów opisanych poniżej.
 
@@ -42,7 +42,7 @@ Office 365 dla instytucji rządowych GCC dla partnerów i klientów programu CSP
 **Kryteria klienta**
 1.  Jednostka rządowa USA w swojej instytucji rządowej. Na przykład:
  
-    -  Agencja federalna (np. agencja, agencja, dział lub inna jednostka rządowa USA)
+    -  Agencja federalna (np. agencje, agencje, działy lub inne jednostki rządowe STANÓW Zjednoczonych)
     -   Jednostka stanowa/lokalna 
     -   Jednostka plemienna
     -   Regionalne lub międzystanowe jednostki rządowe (ale bez jednostek międzynarodowych)

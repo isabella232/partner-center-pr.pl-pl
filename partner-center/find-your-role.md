@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: e7e18c967481e0bfb6e6b8466746beb5ed8459b9
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 4749674da24d047b84014194081e00a2bddd1c89e9d515740b4346e0b05898b8
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100021"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115683596"
 ---
 # <a name="find-your-role-your-permissions-and-your-global-admin"></a>Znajdowanie roli, uprawnień i administratora globalnego
 

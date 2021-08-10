@@ -9,18 +9,18 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9765f180e60154dc1a3e9be6160157e6d4248695
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 21a6ed65f5aac8d3d797b5189333a2e505ecba2179fa8f4f041af152e01a4db8
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843395"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115683647"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Zarządzanie Marketplace Rewards w Partner Center & aktywowania korzyści marketingowych, sprzedażowych i technicznych
 
 **Odpowiednie role:** Administrator partnera MPN | Administrator globalny | Agent administracyjny
 
-Jeśli publikujesz oferty oprogramowania na naszej platformie handlowej, Marketplace Rewards zapewnia ukierunkowaną pomoc techniczną dla wszystkich twoich ofert wraz z korzyściami marketingowym, sprzedażowym i technicznymi. Aby uzyskać szczegółowe informacje na temat programu i korzyści, [zobacz Marketplace Rewards](https://aka.ms/marketplacerewards) (PPT).
+Jeśli publikujesz oferty oprogramowania na naszej platformie handlowej, Marketplace Rewards zapewnia ukierunkowaną pomoc techniczną dla wszystkich Twoich ofert z korzyściami marketingowym, sprzedażowym i technicznym. Aby uzyskać szczegółowe informacje na temat programu i korzyści, [zobacz Marketplace Rewards](https://aka.ms/marketplacerewards) (PPT).
 
 Marketplace Rewards są obliczane na podstawie wszystkich profilów wydawcy połączonych z firmą PGA MPN. Aby sprawdzić uprawnienia do programu Marketplace Rewards, przejdź do strony Partner Center [Marketplace Rewards programu](https://partner.microsoft.com/dashboard/mpn/program/commercialmarketplace).
 
@@ -54,7 +54,7 @@ Informacje o programie Marketplace Rewards są dostępne za pośrednictwem dzier
 
 ### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Aby skojarzyć dzierżawę usługi Azure AD z programem PGA firmy
 
-1. Jako administrator globalny lub administrator konta zaloguj się do konta PGA w Partner Center.
+1. Jako administrator globalny lub administrator konta zaloguj się do pga w Partner Center.
 
 2. Wybierz **Ustawienia** (w prawym górnym rogu), **Ustawienia konta,** **Dzierżawy.**
 
@@ -62,6 +62,6 @@ Informacje o programie Marketplace Rewards są dostępne za pośrednictwem dzier
 
 4. Dodaj nazwę użytkownika i hasło dowolnego użytkownika w dzierżawie usługi Azure AD, który chcesz skojarzyć, a następnie wybierz pozycję **Prześlij.**
 
-5. Wyloguj Partner Center a następnie zaloguj się przy użyciu nazwy użytkownika i hasła dla dzierżawy, która właśnie jest skojarzona z pga.
+5. Wyloguj się Partner Center a następnie zaloguj się przy użyciu nazwy użytkownika i hasła dla dzierżawy, która właśnie była skojarzona z pga.
 
 6. Informacje o programie Commercial Rewards Marketplace będą teraz dostępne w menu nawigacji po lewej stronie.

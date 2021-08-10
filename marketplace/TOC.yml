@@ -26,7 +26,7 @@
       href: create-manage-private-azure-marketplace.md
     - name: Zarządzanie prywatną witryną Azure Marketplace — PowerShell
       href: manage-private-azure-marketplace-powershell.md
-    - name: Rozszerzanie platformy Azure za pomocą rozwiązań od partnerów
+    - name: Rozszerzanie platformy Azure o rozwiązania od partnerów
       href: /azure/partner-solutions/overview
 - name: Zasoby ogólne
   items:

@@ -9,18 +9,18 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 457a5197ea9bcfaf2d9c936b7483b33688b1cb41
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 5ed3bd35e25f21a9803eac10d7c6308e3eaa1f715451c00ee2943e92533fc4d2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843956"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115689276"
 ---
-# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Raport korzyści dostępny na pulpicie Partner Center Szczegółowe informacje nawigacyjnym
+# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Raport korzyści dostępny na pulpicie nawigacyjnym Partner Center Szczegółowe informacje nawigacyjnym
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny | Przeglądarka raportów | Przeglądarka raportów dla kierownictwa
 
-Jako partner firmy Microsoft możesz uzyskać dostęp do wielu korzyści, które korzystają z najnowszych technologii i innowacji, aby pomóc Ci rozwinąć umiejętności swojego zespołu, zwiększyć wydajność i rozwinąć firmę. Pakiety korzyści obejmują: alokacje licencjonowanego oprogramowania, usługi w chmurze, Visual Studio subskrypcji i pomoc techniczną. Te pakiety mogą również obejmować niektóre zasoby, oferty i programy z programu Go-To-Market. Raport Korzyści przedstawia trendy dotyczące korzyści, do których uzyskano dostęp i ich użycia w wybranym zakresie dat.
+Jako partner firmy Microsoft możesz uzyskać dostęp do wielu korzyści, które korzystają z najnowszych technologii i innowacji, aby pomóc Ci rozwinąć umiejętności swojego zespołu, zwiększyć wydajność i rozwinąć firmę. Pakiety korzyści obejmują: alokacje licencjonowanego oprogramowania, usługi w chmurze, Visual Studio subskrypcji i pomoc techniczną. Te pakiety mogą również obejmować niektóre zasoby, oferty i programy z programu Go-To-Market. Raport Korzyści przedstawia trendy dotyczące korzyści, do których uzyskano dostęp, oraz ich użycia w wybranym zakresie dat.
 
 :::image type="content" source="images/insights/benefits-intro.png" alt-text="omówienie strony korzyści.":::
 
@@ -53,9 +53,9 @@ Wybierz usługę w chmurze na **karcie Usługi,** aby wyświetlić wykres dla ok
 
 ## <a name="software-products"></a>Produkty oprogramowania
 
-Ten wykres przedstawia miesięczny trend licencji przyznanych w wybranym zakresie dat dla określonego produktu oprogramowania. Wybierz produkt z listy rozwijanej w górnej części wykresu, aby wyświetlić trend określonego produktu programowego, który został przyznany jako korzyści. Wykres liniowy przedstawia ogólną liczbę licencji przyznanych firmie.
+Ten wykres przedstawia miesięczny trend licencji przyznanych w wybranym zakresie dat dla określonego produktu oprogramowania. Wybierz produkt z listy rozwijanej w górnej części wykresu, aby wyświetlić trend określonego produktu programowego, który ma zostać przyznany jako korzyści. Wykres liniowy przedstawia ogólną liczbę licencji przyznanych firmie.
 
-:::image type="content" source="images/insights/benefits-software-products-granted.png" alt-text="produktów, które zostały przyznane.":::
+:::image type="content" source="images/insights/benefits-software-products-granted.png" alt-text="udzielonych produktów.":::
 
 ## <a name="visual-studio-subscriptions"></a>Subskrypcje programu Visual Studio
 
@@ -69,7 +69,7 @@ Wybierz kartę w górnej części wykresu, aby wyświetlić trend określonej Vi
 
 Ten wykres przedstawia miesięczny trend korzyści pomocy technicznej przyznanych w wybranym zakresie dat.
 
-Wybierz kartę w górnej części wykresu, aby wyświetlić trend konkretnej przyznanej korzyści pomocy technicznej. Wykres liniowy przedstawia ogólne godziny wsparcia przypisanego do wybranej pomocy technicznej.
+Wybierz kartę w górnej części wykresu, aby wyświetlić trend konkretnej przyznanej korzyści pomocy technicznej. Wykres liniowy reprezentuje ogólne godziny pomocy technicznej przypisanej do wybranej pomocy technicznej.
 
 :::image type="content" source="images/insights/benefits-technical-benefits.png" alt-text="korzyści techniczne.":::
 

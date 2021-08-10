@@ -4,23 +4,23 @@ ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
-description: Eksploruj rozliczenia po dodaniu nowych subskrypcji, dostosowaniu liczby licencji lub anulowaniu subskrypcji. Zobacz, czym różnią się subskrypcje oparte na użyciu i na licencjach.
+description: Eksplorowanie rozliczeń podczas dodawania nowych subskrypcji, dopasowywania ilości licencji lub anulowania subskrypcji. Zobacz, czym różnią się subskrypcje oparte na użyciu i na licencjach.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ad05edf9c1d67a5e373fde26bf10a4f6ad50cd6
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: af2ca8403192bc6a339c139eecb2d7120fd026a6a3a7d94033c4298177e808e8
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840335"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682151"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Typowe scenariusze rozliczeń dla partnerów programu CSP pracujących w Partner Center
 
 **Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Agent pomocy technicznej | Agent sprzedaży
 
-W tych artykułach wyjaśniono, czego należy oczekiwać na rachunku po dodaniu nowych subskrypcji, dostosowaniu liczby licencji do subskrypcji lub anulowaniu subskrypcji. Inne [Partner Center,](./billing-basics.md)takie jak subskrypcje oparte na użyciu i oparte na licencjach, są rozliczane inaczej.
+W tych artykułach wyjaśniono, czego należy oczekiwać na rachunku po dodaniu nowych subskrypcji, dostosowaniu liczby licencji do subskrypcji lub anulowaniu subskrypcji. Inne [Partner Center,](./billing-basics.md)takie jak subskrypcje oparte na użyciu i oparte na licencjach, są rozliczane w różny sposób.
 
 
 ## <a name="change-billing-frequency"></a>Zmiana częstotliwości rozliczeń
@@ -33,14 +33,14 @@ Aby zmienić częstotliwość rozliczeń usługi online dla klienta:
 2. W menu po lewej stronie wybierz pozycję **Klienci.**
 3. Wybierz klienta, którego częstotliwość rozliczeń subskrypcji chcesz zmienić.
 4. Na stronie **Subskrypcje klienta** wybierz subskrypcję, którą chcesz zmienić.
-5. Na stronie **Szczegóły** w obszarze **Częstotliwość rozliczeń** wybierz pozycję **Miesięczny lub** **Roczny.** Zostanie wyświetlona strona potwierdzenia z ważnymi informacjami na temat zmiany częstotliwości rozliczeń, a także lista subskrypcji, które mają zostać zmienione.
+5. Na stronie **Szczegóły** w obszarze **Częstotliwość rozliczeń** wybierz pozycję **Co miesiąc** lub **Co rok.** Zostanie wyświetlona strona potwierdzenia z ważnymi informacjami na temat zmiany częstotliwości rozliczeń, a także listą subskrypcji, które mają zostać zmienione.
 6. Wybierz **przycisk OK,** aby wprowadzić zmianę (lub **anuluj,** aby ją cofnąć).
 
 ## <a name="billing-scenarios"></a>Scenariusze rozliczeń
 
-| Typ rozliczeń | Uwzględnione scenariusze |
+| Typ rozliczeń | Scenariusze objęte |
 | --------------- | ----------------- |
-| [Rozliczenia miesięczne](common-billing-scenarios-monthly.md) | Dodawanie nowych subskrypcji, zmienianie liczby licencji i zawieszanie subskrypcji. |
+| [Miesięczne rozliczenia](common-billing-scenarios-monthly.md) | Dodawanie nowych subskrypcji, zmienianie ilości licencji i zawieszanie subskrypcji. |
 | [Rozliczenia roczne](common-billing-scenarios-annual.md) | Dodawanie nowych subskrypcji, dodawanie licencji przed datą rozliczeniową, zmienianie ilości licencji oraz zawieszanie i ponowne aktywowanie subskrypcji. |
 | [Rozliczanie jednorazowych i wybieranie cyklicznych zakupów](common-billing-scenarios-onetime-recurring.md) | Kupowanie subskrypcji, dodawanie kolejnych subskrypcji, dodawanie i usuwanie licencji. |
-| [Rozliczanie subskrypcji SaaS opartych na licencji](common-billing-scenarios-saas.md) | Bezpłatne wersje próbne subskrypcji oprogramowania jako usługi (SaaS) opartych na licencjach. Kupowanie i anulowanie subskrypcji SaaS miernika niestandardowego. |
+| [Rozliczenia dla subskrypcji SaaS opartych na licencjach](common-billing-scenarios-saas.md) | Bezpłatne wersje próbne subskrypcji oprogramowania jako usługi (SaaS) oparte na licencjach. Kupowanie i anulowanie subskrypcji SaaS mierników niestandardowych. |

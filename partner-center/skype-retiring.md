@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: 58908e966eb80d219afa0cbc8c043932f5aef1a1
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f69ecf931ab9d381b6cad1870506b1fbf68a15bc45e531a329d3171dee18b596
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842511"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682593"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrate Skype for Business Online Plan 1 subscriptions to newer Office 365 version (Migrowanie subskrypcji usługi Skype dla firm Online — plan 1 do nowszej wersji usługi Office 365)
 
@@ -39,10 +39,10 @@ Dzięki nowym planom klienci mogą korzystać z nowszej funkcjonalności w Offic
 
 |**Funkcja**    |**Opcja 1**   |**Opcja 2**   |**Opcja 3**   |
 |:-----------------|:-----------------|:-------------|:------------|
-|Pobierz wszystkie funkcje zawarte w planie 1 usługi Skype dla firm Online|Yes   |Yes   |Yes   |
-|Wiadomości błyskawiczne i obecność |Yes   |Yes   |Yes   |
-|Komunikacja równorzędna audio i wideo za pośrednictwem protokołu IP|Yes   |Yes   |Yes   
-|Dołączanie do spotkań jako uwierzytelniony użytkownik| Yes   |Yes   |Yes   |
+|Pobierz wszystkie funkcje zawarte w planie 1 usługi Skype dla firm Online|Tak   |Tak   |Tak   |
+|Wiadomości błyskawiczne i obecność |Tak   |Tak   |Tak   |
+|Komunikacja równorzędna audio i wideo za pośrednictwem protokołu IP|Tak   |Tak   |Tak   
+|Dołączanie do spotkań jako uwierzytelniony użytkownik| Tak   |Tak   |Tak   |
 
 ## <a name="transition-customers-to-new-product-plans"></a>Przechodzenie klientów do nowych planów produktów
 

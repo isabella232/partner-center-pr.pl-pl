@@ -9,36 +9,36 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: afad7126b8b97035f014c3cc706a0c3a0febbc76
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 031c3be7dbfd6b64b05ef10e1f56813a59c5559b72e7005812cabe74e2a9f3f0
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837632"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690294"
 ---
-# <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Sprzedaż Office 365 dla instytucji rządowych GCC subskrypcji CSP kwalifikowanym klientom
+# <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Sprzedaż Office 365 dla instytucji rządowych GCC subskrypcji CSP dla kwalifikowanych klientów
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny
 
 
 ## <a name="overview"></a>Omówienie
 
-Partnerzy firmy Microsoft w programie Dostawca rozwiązań w chmurze (CSP) mogą sprzedawać Office 365 dla instytucji rządowych GCC [subskrypcji CSP](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) kwalifikowanym klientom. Office 365 dla instytucji rządowych GCC dla programu CSP jest przeznaczony dla unikatowych potrzeb organizacji rządowych USA i zapewnia wszystkie funkcje i możliwości usług Office 365 w społeczności segmentowanych chmur dla instytucji rządowych, która umożliwia organizacjom spełnienie standardów zgodności i zabezpieczeń dla instytucji rządowych USA. 
+Partnerzy firmy Microsoft w programie Dostawca rozwiązań w chmurze (CSP) mogą sprzedawać subskrypcje Office 365 dla instytucji rządowych GCC [CSP](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) kwalifikowanym klientom. Office 365 dla instytucji rządowych GCC dla CSP jest przeznaczony dla unikatowych potrzeb organizacji rządowych USA i zapewnia wszystkie funkcje i możliwości usług Office 365 w społeczności segmentowanych chmur dla instytucji rządowych, która umożliwia organizacjom spełnienie standardów zgodności i zabezpieczeń dla instytucji rządowych USA. 
 
 >[!IMPORTANT] 
->Aby można było sprzedawać Office 365 dla instytucji rządowych GCC subskrypcji CSP, firma musi zostać zatwierdzona do sprzedaży kwalifikowanym klientom. Zanim klienci będą mieli możliwość zakupu subskrypcji CSP Office 365 dla instytucji rządowych GCC korzystania z nich, muszą spełnić wymagania dotyczące uprawnień. Zobacz [kryteria kwalifikowalności partnerów i klientów,](csp-gcc-validate.md) aby uzyskać ważne informacje.
+>Aby można było sprzedawać Office 365 dla instytucji rządowych GCC subskrypcji CSP, firma musi zostać zatwierdzona do sprzedaży kwalifikowanym klientom. Zanim klienci będą mieli możliwość zakupu i używania Office 365 dla instytucji rządowych GCC subskrypcji CSP, muszą spełniać wymagania dotyczące uprawnień. Aby uzyskać ważne informacje, zobacz kryteria [kwalifikowalności partnerów](csp-gcc-validate.md) i klientów.
 
 
 ## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a>Sprzedaż Office 365 dla instytucji rządowych GCC subskrypcji CSP
 
-Po zatwierdzeniu firmy do sprzedaży Office 365 dla instytucji rządowych GCC ofert CSP możesz rozpocząć sprzedaż dla klientów przy użyciu Partner Center. Zapoznaj się z tymi zasobami, aby dowiedzieć się, jak używać Partner Center do sprzedaży subskrypcji: 
+Po zatwierdzeniu firmy do sprzedaży Office 365 dla instytucji rządowych GCC ofert CSP możesz rozpocząć sprzedaż dla klientów przy użyciu Partner Center. Zapoznaj się z tymi zasobami, aby dowiedzieć się, jak Partner Center do sprzedaży subskrypcji: 
 
-- Aby uzyskać przewodnik krok po kroku, przeczytaj [Guide to selling Office 365 dla instytucji rządowych GCC for CSP subscriptions](https://go.microsoft.com/fwlink/?linkid=2007323)(Przewodnik po sprzedaży subskrypcji CSP).  
+- Aby zapoznać się z przewodnikiem krok po kroku, przeczytaj Przewodnik po [sprzedaży Office 365 dla instytucji rządowych GCC subskrypcji CSP.](https://go.microsoft.com/fwlink/?linkid=2007323)  
 
 
 ## <a name="next-steps"></a>Następne kroki
 
-Uzyskaj dostęp do informacji o [szansach sprzedaży partnera w administracji USA](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) w witrynie Microsoft 365 dla partnerów.
+Uzyskaj dostęp do informacji o [szansie sprzedaży partnera w administracji](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) USA w witrynie Microsoft 365 dla partnerów.
 
 Zasoby produktu:
 

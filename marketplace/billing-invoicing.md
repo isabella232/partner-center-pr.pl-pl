@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 05/04/2021
-ms.openlocfilehash: 6fdbbf9ad2b31e2b61eec20193717f60dd8e199a
-ms.sourcegitcommit: b6959846c30d062d05028c9b4ba14c07e903e61a
+ms.openlocfilehash: 29737d4b7966a5c2fd683b424228888ac373a5bf2635d5750e131f655187b522
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112970195"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115689013"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Azure Marketplace rozliczeń i fakturowania
 
@@ -19,7 +19,7 @@ W tym artykule omówiono informacje dotyczące rozliczeń i fakturowania dla Azu
 
 ## <a name="microsoft-supports-multiple-currencies"></a>Firma Microsoft obsługuje wiele walut
 
-Azure Marketplace oferty są wycenione i rozliczane w tych 17 walutach:
+Azure Marketplace są wyceny i rozliczane w tych 17 walutach:
 
 - Dolar australijski (AUD)
 - Real Brazylia (BRL)
