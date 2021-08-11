@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 08/05/2021
-ms.openlocfilehash: a388dd92d2711484260b839eb7b753e2335e03788d4b16fe7483be6b618eb2d7
-ms.sourcegitcommit: 8aa666a297f567435c8bd3eb7e90d29d2b96b601
+ms.date: 08/09/2021
+ms.openlocfilehash: 169ac959a64c4e0fe45c0358028360ee779e78dd1c7e29779dd382cad69f6b2a
+ms.sourcegitcommit: 16e49a6598ab0ac6e94c72287d2621103216b38a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/08/2021
-ms.locfileid: "116885460"
+ms.lasthandoff: 08/10/2021
+ms.locfileid: "117000262"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
@@ -22,18 +22,19 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 
 |**Kategoria**|**Ogłoszenia z sierpnia 2021 r.**|**Ogłoszone**|
 |---------|:---------|:---------|
-|Oferty/rynki|[Wyświetlanie najnowszych promocji i ofert](2021-august.md#7)| 6 sierpnia |
+|Oferty/rynki|[Wyświetlanie najnowszych promocji i ofert](2021-august.md#10)| 10 sierpnia |
+|Możliwości|[Monitorowanie zgodności za pośrednictwem zespołu zarządzania odpowiedzialności partnera (PAM)](2021-august.md#9)| 9 sierpnia |
+|Oferty/rynki|[Windows do zakupu jest już dostępna Windows wersji 365: Hybrydowe Windows dla świata hybrydowego](2021-august.md#8)| 9 sierpnia |
 |Oferty/rynki|[Nadchodzące zmiany cenników planów platformy Azure dla nowego rozwiązania handlowego](2021-august.md#6)| 4 sierpnia |
 |Możliwości|[Nowe środowisko handlowe programu CSP dla platformy Azure rozszerza się na](2021-august.md#5)| 3 sierpnia |
 |Możliwości|[Dostęp programowy do danych analitycznych Szczegółowe informacje partnerów](2021-august.md#4)| 3 sierpnia |
 |Oferty/rynki|[Zaświadczenia oferty wymagane w przypadku niektórych ofert Windows 365](2021-august.md#3)| 1 sierpnia |
-|Możliwości|[Windows do zakupu jest już dostępna Windows 365: Hybrydowe Windows dla świata hybrydowego](2021-august.md#2)| 1 sierpnia |
 |Możliwości|[Wyświetlanie ofert i uruchomień produktów w tym miesiącu](2021-august.md#1)| 1 sierpnia |
 |**Kategoria**|**Ogłoszenia z lipca 2021 r.**|**Ogłoszone**|
 |Możliwości|[Nowe środowisko handlowe w programie CSP dla platformy Azure, które rozszerza Government Community Cloud (GCC)](2021-july.md#16)| 26 lipca |
 |Możliwości|[Ulepszenie narzędzia do przenoszenia subskrypcji platformy Azure między partnerami w programie Dostawca rozwiązań w chmurze (CSP)](2021-july.md#15)| 21 lipca |
 |Możliwości|[Zmiany w dostępności oferty platformy Azure związane z nowym doświadczeniem handlowym w programie CSP dla platformy Azure](2021-july.md#14)| 21 lipca |
-|Nowoczesne miejsce pracy|[Introducing Windows 365: Hybrid Windows for a hybrid world (Wprowadzenie do Windows 365: rozwiązania hybrydowe dla świata hybrydowego)](2021-july.md#13)| 20 lipca |
+|Nowoczesne miejsce pracy|[Introducing Windows 365: Hybrid Windows for a hybrid world (Wprowadzenie do Windows 365: hybrydowe rozwiązania dla świata hybrydowego)](2021-july.md#13)| 20 lipca |
 |Możliwości|[Wprowadzenie ograniczania interfejsu API dla partnerów wywołujących interfejsy API Partner Center API](2021-july.md#12)| 19 lipca |
 |Możliwości|[Nowe oferty oprogramowania dostępne w programie licencjonowania Dostawca rozwiązań w chmurze (CSP) i zmiany w programie Licencjonowanie Open](2021-july.md#11)| 19 lipca |
 |Oferty/rynki|[Poprawki do wersji zapoznawczej cennika usług opartych na licencjach dla usługi Enterprise Mobility & Security (EMS) E3](2021-july.md#10)| 16 lipca |
@@ -47,11 +48,11 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 |Możliwości|[Wyświetlanie ofert i uruchomień produktów w tym miesiącu](2021-july.md#2)|1 lipca|
 |Możliwości|[Dynamics 365 Migracja do chmury podwyższenia i wycofania ofert z rabatem](2021-july.md#1)|1 lipca|
 |**Kategoria**|**Ogłoszenia z czerwca 2021 r.**|**Ogłoszone**|
-|Możliwości|[Aktualizacja fazy 2: zmiana waluty rozliczeniowej partnera dla nowych ofert handlowych w Unii Europejskiej/KRAJACH i Zjednoczonym Królestwie](2021-june.md#9)|24 czerwca|
+|Możliwości|[Aktualizacja fazy 2: zmiana waluty rozliczeniowej partnera dla nowych ofert handlowych w Unii Europejskiej/INTERNECIE i Zjednoczonym Królestwie](2021-june.md#9)|24 czerwca|
 |Możliwości|[Wyświetlanie najnowszych promocji i ofert](2021-june.md#8)|22 czerwca|
 |Możliwości|[Faza 1: Wkrótce zostaną wprowadzone zmiany dotyczące dostępności oferty platformy Azure w Dostawca rozwiązań w chmurze (CSP) związane z nowymi rozwiązaniami handlowymi](2021-june.md#7)|21 czerwca|
-|Rozwój firmy|[Aktualizacja społeczności Dostawca rozwiązań w chmurze (CSP) z czerwca](2021-june.md#6)|11 czerwca|
-|Oferty i rynki|[Dostawca rozwiązań w chmurze (CSP) rozszerzeń promocyjnych dla Microsoft 365 audiokonferencji i Microsoft 365 Business Voice](2021-june.md#5)|11 czerwca|
+|Rozwój firmy|[Aktualizacja społeczności Dostawca rozwiązań w chmurze czerwca (CSP) i przypomnienia](2021-june.md#6)|11 czerwca|
+|Oferty i rynki|[Dostawca rozwiązań w chmurze (CSP) na Microsoft 365 audiokonferencje i Microsoft 365 Business Voice](2021-june.md#5)|11 czerwca|
 |Możliwości|[Cennik oprogramowania bezterminowego poprawiony i ponownie opublikowany](2021-june.md#4)|4 czerwca|
 |Możliwości|[Korekta cennika usług opartych na licencjach z lipca (wersja zapoznawcza)](2021-june.md#3)|4 czerwca|
 |Możliwości|[Dodatkowe kolumny dla bardziej rozbudowanych informacji w raportach użycia platformy Azure](2021-june.md#2)|2 czerwca|
@@ -86,24 +87,24 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 |**Kategoria**|**Ogłoszenia z marca 2021 r.**|**Ogłoszone**|
 |Możliwości|[Zaktualizowany interfejs API weryfikacji adresu klienta dostawcy CSP jest teraz dostępny do testowania](2021-march.md#18)|31 marca|
 |Oferty/Nowoczesne miejsce pracy|[Nowe Exchange administracyjnego (EAC)](2021-march.md#17)|29 marca|
-|Oferty/Nowoczesne miejsce pracy|[Microsoft Operations: Introducing the product launch calendar (Operacje firmy Microsoft: wprowadzenie do kalendarza uruchamiania produktu)](2021-march.md#16)|25 marca|
-|Możliwości|[Zmiany wymagań dotyczących dołączania klientów do CSP](2021-march.md#15)|25 marca|
-|Oferty/rynki|[Korekty wprowadzone do 1 marca 2021 r. bezterminowy cennik oprogramowania](2021-march.md#14)|23 marca|
+|Oferty/Nowoczesne miejsce pracy|[Operacje firmy Microsoft: Wprowadzenie do kalendarza uruchamiania produktu](2021-march.md#16)|25 marca|
+|Możliwości|[Zmiany wymagań dotyczących dołączania klientów w usługach CSP](2021-march.md#15)|25 marca|
+|Oferty/rynki|[Korekty cennika oprogramowania bezterminowego z 1 marca 2021 r.](2021-march.md#14)|23 marca|
 |Możliwości|[Wersja zestawu SDK w .NET Standard (wersja 1.17.0)](2021-march.md#13)|23 marca|
 |Możliwości|[Oferta komercyjnej platformy handlowej programu CSP i zachęty FY21 CSP dla kwalifikujących się ofert](2021-march.md#12)|18 marca|
-|Możliwości|[Power BI Premium nazewnictwa ofert i aktualizacji wymagań wstępnych](2021-march.md#11)|18 marca|
-|Oferty/rynki|[Aktualizacje cen w marcu dla Microsoft 365 F3](2021-march.md#10)|16 marca|
-|Wydajność dysków & skalowania|[Aktualizowanie nazwy firmy prawnej za pomocą Partner Center](2021-march.md#9)|16 marca|
+|Możliwości|[Power BI Premium oferty nazewnictwa i aktualizacji wymagań wstępnych](2021-march.md#11)|18 marca|
+|Oferty/rynki|[Aktualizacje cen z marca dla Microsoft 365 F3](2021-march.md#10)|16 marca|
+|Wydajność dysków & skalowania|[Aktualizowanie prawnej nazwy firmy za pośrednictwem Partner Center](2021-march.md#9)|16 marca|
 |Możliwości|[Aktualizacja ewolucji programu Dostawca rozwiązań w chmurze (CSP) i zmiany programu licencjonowania Open License](2021-march.md#8)|15 marca|
-|Rozwój firmy|[Aktualizacja do poprzedniego powiadomienia: Premium Assessments, dodatek do Menedżera zgodności](2021-march.md#7)|15 marca|
-|Możliwości|[Migrowanie rozwiązań z programu One Commercial Partner (OCP) do platformy handlowej firmy Microsoft](2021-march.md#6)|12 marca|
-|Możliwości|[Rozszerzanie nowego doświadczenia handlowego w programie Dostawca rozwiązań w chmurze (CSP) dla platformy Azure na Rosję](2021-march.md#5)|10 marca|
-|Możliwości|[Partner Center klucza licencji oprogramowania i realizacji pobierania](2021-march.md#4)|5 marca|
+|Rozwój firmy|[Aktualizacja do poprzedniego anonsu: Premium Assessments , dodatek do Menedżera zgodności](2021-march.md#7)|15 marca|
+|Możliwości|[Migrowanie rozwiązań z usługi One Commercial Partner (OCP) go-to-market (GTM) na platformę handlową firmy Microsoft](2021-march.md#6)|12 marca|
+|Możliwości|[Rozszerzanie nowego doświadczenia handlowego w programie Dostawca rozwiązań w chmurze (CSP) dla platformy Azure do Zelandii](2021-march.md#5)|10 marca|
+|Możliwości|[Partner Center licencji oprogramowania i realizacja pobierania](2021-march.md#4)|5 marca|
 |Możliwości|[Migrowanie transakcji z programu Partner Sales Połączenie (PSC) do Partner Center](2021-march.md#3)|5 marca|
 |Możliwości|[Nowe produkty i oferty usługi Microsoft Dynamics 365 dostępne od 1 kwietnia 2021 r.](2021-march.md#2)|4 marca|
 |Możliwości|[Usługa Microsoft Drukowanie uniwersalne jest teraz dostępna w niektórych pakietach](2021-march.md#1)|3 marca|
 |**Kategoria**|**Ogłoszenia z lutego 2021 r.**|**Ogłoszone**|
-|Możliwości|[Interfejsy API kwalifikacji PUT zostały wycofane, a get do wycofania w maju](2021-february.md#14)|25 lutego|
+|Możliwości|[Interfejsy API kwalifikacji PUT zostały wycofane, a get to retire in May](2021-february.md#14)|25 lutego|
 |Możliwości|[Udostępnianie transakcji sprzedaży zbiorczej na dużą skalę przy Partner Center operacji zbiorczych](2021-february.md#13)|25 lutego|
 |Możliwości|[Migrowanie transakcji z usługi Partner Sales Połączenie (PSC) przy użyciu funkcji migracji nowej transakcji](2021-february.md#12)|25 lutego|
 |Możliwości|[Większa elastyczność dzięki transakcjom sprzedaży typu "co sell" prowadzonym przez partnerów](2021-february.md#11)|25 lutego|
@@ -111,25 +112,25 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 |Możliwości|[Teraz na żywo: migracja rozwiązania DocuSign do rozwiązania Adobe Sign dla partnerów w ramach umów partnerów firmy Microsoft (MPA)](2021-february.md#9)|16 lutego|
 |Rozwój firmy|[Przypomnienie: Wprowadzenie ograniczenia przepustowości interfejsu API dla partnerów wywołujących interfejsy API centrum partnerskiego](2021-february.md#8)|16 lutego|
 |Możliwości|[Wprowadzenie do Microsoft Viva tematach](2021-february.md#7)|12 lutego|
-|Oferty/rynki|[Microsoft 365 E3 ceny, które zostaną wprowadzone w marcu 2021 r.](2021-february.md#6)|11 lutego|
-|Oferty/rynki|[Zaktualizowano cennik wersji zapoznawczej na podstawie licencji dla norweskiej wersji językowej](2021-february.md#5)|10 lutego|
-|Możliwości|[Premium oceny, dodatek do Menedżera zgodności, zostanie w dniu 1 marca 2021 r.](2021-february.md#4)|5 lutego|
+|Oferty/rynki|[Microsoft 365 E3 ceny zostaną wprowadzone w marcu 2021 r.](2021-february.md#6)|11 lutego|
+|Oferty/rynki|[Cennik wersji zapoznawczej opartej na licencji został zaktualizowany dla norweskiej wersji językowej](2021-february.md#5)|10 lutego|
+|Możliwości|[Premium, dodatek do Menedżera zgodności, zostanie nadchodzący 1 marca 2021 r.](2021-february.md#4)|5 lutego|
 |Możliwości|[Reagowanie na coVID-19: Microsoft Partner Network aktualizacji](2021-february.md#3)|4 lutego|
-|Możliwości|[Nowe aktualizacje modułu Polecenia w Partner Center](2021-february.md#2)|4 lutego|
-|Nowoczesne miejsce pracy|[Wycofanie i wycofanie interfejsów API kwalifikacji PUT na potrzeby procesu weryfikacji klientów w edukacji do 25 lutego 2021 r. i kwalifikacje GET do 4 maja 2021 r.](2021-february.md#1)|4 lutego|
+|Możliwości|[Nowe aktualizacje modułu Referrals (Polecenia) w Partner Center](2021-february.md#2)|4 lutego|
+|Nowoczesne miejsce pracy|[Wycofanie i wycofanie interfejsów API kwalifikacji PUT na potrzeby procesu weryfikacji klientów w edukacji do 25 lutego 2021 r. i kwalifikacji GET do 4 maja 2021 r.](2021-february.md#1)|4 lutego|
 | **Kategoria** | **Ogłoszenia ze stycznia 2021 r.** | **Ogłoszone** |
-|Nowoczesne miejsce pracy|[Faza 1 teraz na żywo: Ue/EFTA & Zmiana waluty rozliczeniowej partnera dla nowych ofert handlowych](2021-january.md#15)|28 stycznia|
+|Nowoczesne miejsce pracy|[Faza 1 jest teraz owacy & jna: Zmiana waluty rozliczeniowej partnera w Zjednoczonym Królestwie dla nowych ofert handlowych](2021-january.md#15)|28 stycznia|
 |Nowoczesne miejsce pracy|[Zmiany wymagań dotyczących dołączania do programu Cloud Solution Provider (CSP)](2021-january.md#14)|28 stycznia|
-|Możliwości|[Microsoft Partner Agreement (MPA) — aktualizacja odsprzedawcy pośredniego & często zadawanych pytaniach](2021-january.md#13)|27 stycznia|
-|Możliwości|[Partner Center dziennika inspekcji w celu dołączyć dwa nowe typy operacji dla DAP](2021-january.md#12)|25 stycznia|
-|Możliwości|[Zmiany w dostępności oferty platformy Azure w programie CSP związane z nowym środowiskom handlowym w programie CSP dla platformy Azure](2021-january.md#11)|21 stycznia|
+|Możliwości|[Microsoft Partner Agreement (MPA) — aktualizacja odsprzedawcy pośredniego & często zadawanych pytania](2021-january.md#13)|27 stycznia|
+|Możliwości|[Partner Center dziennika inspekcji, aby uwzględnić dwa nowe typy operacji dla daP](2021-january.md#12)|25 stycznia|
+|Możliwości|[Zmiany w dostępności oferty platformy Azure w programie CSP związane z nowym doświadczeniem handlowym w programie CSP dla platformy Azure](2021-january.md#11)|21 stycznia|
 |Rozwijanie firmy|[Oprogramowanie bezterminowe jest teraz ogólnie dostępne w programie Dostawca rozwiązań w chmurze](2021-january.md#10)|19 stycznia|
 |Rozwijanie firmy|[Przypomnienie: Wprowadzenie ograniczenia przepustowości interfejsu API dla partnerów wywołujących interfejsy API centrum partnerskiego](2021-january.md#9)|19 stycznia|
 |Oferty/rynki|[Nowe możliwości związane z zabezpieczeniami, zgodnością i tożsamością wprowadzane 1 lutego 2021 r.](2021-january.md#8)|15 stycznia|
 |Możliwości|[Migracja DocuSign do programu Adobe Sign dla partnerów, którzy mają umowy Microsoft Partner Agreement (MPA)](2021-january.md#7)|15 stycznia|
 |Oferty/rynki|[Aktualizacja cennika komercyjnego w koronach norweskich](2021-january.md#6)|14 stycznia|
 |Oferty/rynki|[Aktualizacja cennika komercyjnego w rupiach indyjskich](2021-january.md#5)|8 stycznia|
-|Oferty/rynki|[Wywoływanie planu system telefoniczny aktualizacji na 1 lutego 2021 r.](2021-january.md#4)|8 stycznia|
+|Oferty/rynki|[Wywoływanie planu i system telefoniczny aktualizacji na 1 lutego 2021 r.](2021-january.md#4)|8 stycznia|
 |Oferty/rynki|[Aktualizacje cennika opartego na licencji w styczniu 2021 r.](2021-january.md#3)|8 stycznia|
 |Możliwości|[Wycofanie istniejących interfejsów API kwalifikacji GET i PUT na potrzeby procesu walidacji klienta edukacyjnego do końca lutego 2021 r.](2021-january.md#2)|5 stycznia|
 |Oferty/rynki|[Oferty usługi Dynamics 365 w lutym 2021 r.](2021-january.md#1)|4 stycznia|

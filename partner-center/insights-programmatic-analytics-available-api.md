@@ -8,12 +8,12 @@ description: Lista interfejsów API do uzyskiwania dostępu do danych szczegół
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: cbd9f7fd08dfc4cfd247a0ed07a2c12845c5514c
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 19c3094300e0d6c6f774117156cb6e26d80a0f22190c9736b12dd264178d6d7c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837003"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692419"
 ---
 # <a name="available-apis-for-partner-insights-analytics"></a>Dostępne interfejsy API do analizy szczegółowych informacji partnerów
 

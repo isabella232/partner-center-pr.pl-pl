@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: baeaf39dd75d3c39bb7cfee393c3f9c409d5ce33
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 01f5a340ca649f21b6f6c337132453d18a8068d26d6e6fc891f3f71545962817
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115101991"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115684803"
 ---
 # <a name="august-2020-announcements"></a>Ogłoszenia z sierpnia 2020 r.
 
 Ta strona zawiera szczegółowe informacje o ogłoszeniach dotyczących Partner Center Microsoft na sierpień 2020 r.
 
-Ogłoszenia dotyczące roku 2020: [styczeń](2020-january.md)  |  [marzec](2020-february.md)kwiecień  |  [](2020-march.md)  |  [](2020-april.md)  |  [maj](2020-may.md)  |  [czerwiec](2020-june.md)  |  [|](2020-july.md) Sierpnia
+Ogłoszenia dotyczące roku 2020: [styczeń](2020-january.md)  |  [luty](2020-february.md)  |  [marzec](2020-march.md)  |  [maj](2020-april.md)  |  [](2020-may.md)  |  [czerwiec czerwiec](2020-june.md)  |  [|](2020-july.md) Sierpnia
 
 ________________
 
@@ -46,7 +46,7 @@ Firma Microsoft działa zgodnie z zaufaniem i dokładamy starań, aby zapewnić 
 
 #### <a name="testing"></a>Testowanie
 
-Partnerzy będą mieli możliwość przetestowania tych ulepszeń od października. Zdecydowanie zachęcamy do wykorzystania tej możliwości w celu lepszego zrozumienia interfejsów API i wprowadzania danych wymaganych do pomyślnego vettingu klientów. Wkrótce podamy więcej szczegółowych informacji na temat harmonogramu i sposobu uczestnictwa. Istniejące interfejsy API Partner Center zostaną wycofane przed końcem 2. kwartału roku 2019, w którym wszyscy partnerzy będą musieli przejść do korzystania z nowych interfejsów PARTNER CENTER API.
+Partnerzy będą mieli możliwość przetestowania tych ulepszeń od października. Zdecydowanie zachęcamy do wykorzystania tej możliwości w celu lepszego zrozumienia interfejsów API i wprowadzania danych wymaganych do pomyślnego vettingu klientów. Wkrótce podamy więcej szczegółowych informacji na temat dokładnego czasu i sposobu uczestnictwa. Istniejące interfejsy API Partner Center zostaną wycofane przed końcem 2. kwartału roku 2019, w którym wszyscy partnerzy będą musieli przejść do korzystania z nowych interfejsów PARTNER CENTER API.
 
 #### <a name="library-and-museum-customers"></a>Klienci biblioteki i biblioteki
 
@@ -59,7 +59,7 @@ Firma Microsoft zastrzega sobie prawo do przeglądania stanu każdego klienta lu
 - Przejrzyj nowe zmiany Partner Center Interfejs użytkownika interfejsu API w zasobach gotowości do operacji: [ulepszenia procesu weryfikacji](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) klienta Partner Center Education
 - Upewnij się, że Twoja organizacja jest zaznajomiony z wymaganiami [użytkownika academic qualified education user.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)
 - Udostępnij te informacje odpowiednim zespołom w organizacji oraz odsprzedawcom, aby ułatwić im przygotowanie się do tych zmian.
-- Obejrzyj aktualizację możliwości testowania w październiku, w której podamy szczegółowe informacje na temat harmonogramu i sposobu uczestnictwa.
+- Obejrzyj aktualizację możliwości testowania w październiku, w której podamy szczegółowe informacje o chronometrażu i sposobach uczestnictwa.
 
 ________________
 
@@ -89,13 +89,13 @@ Partnerzy z rozliczeniami bezpośrednimi i dostawcy pośredni uczestniczący w p
 
 ### <a name="summary"></a>Podsumowanie
 
-Od 21 lipca 2020 r. partnerzy mogą rozpocząć pobieranie wersji zestawu **.NET STANDARD SDK Microsoft Partner Center** .NET SDK w wersji 1.16.1 wraz ze zaktualizowanymi publicznymi zestaw SDK Centrum partnerskiego GitHub **przykładami.**
+Od 21 lipca 2020 r. partnerzy mogą rozpocząć pobieranie wersji zestawu **.NET STANDARD SDK Microsoft Partner Center** .NET SDK 1.16.1 wraz ze zaktualizowanymi publicznymi zestaw SDK Centrum partnerskiego GitHub **przykładami.**
 
 ### <a name="details"></a>Szczegóły
 
-Partnerzy rozliczający się bezpośrednio i dostawcy pośredni uczestniczący w programie CSP mogą pobrać najnowszą wersję zestawu .NET Standard SDK. Te zmiany sprawią, że zestaw SDK będzie zgodny z istniejącą aplikacją przy użyciu .NET Framework 4.6.1 i 1. Ta .NET Standard będzie obsługiwać program .NET Core 2.0 i jego więcej.
+Partnerzy z rozliczeniami bezpośrednimi i dostawcy pośredni uczestniczący w programie CSP mogą pobrać najnowszą wersję zestawu .NET Standard SDK. Te zmiany sprawią, że zestaw SDK będzie zgodny z istniejącą aplikacją przy użyciu .NET Framework 4.6.1 i 1. Ta .NET Standard będzie obsługiwać program .NET Core 2.0 i jego więcej.
 
-Istnieje ogromne zapotrzebowanie od partnerów żądających zestawu SDK w .NET Standard. Bieżąca wersja zestawu SDK wymusza na partnerach korzystanie z aplikacji napisanych w programie ASP.NET Framework, która jest powolna i kosztowna w porównaniu z aplikacjami platformy .NET Core. Dlatego migracja do standardu .NET może pomóc rozwiązać problemy z wydajnością lub zgodnością z programem .NET Core.
+Istnieje ogromne zapotrzebowanie od partnerów żądających zestawu SDK w .NET Standard. Bieżąca wersja zestawu SDK wymusza na partnerach używanie aplikacji napisanych w programie ASP.NET Framework, która jest powolna i kosztowna w porównaniu z aplikacjami platformy .NET Core. Dlatego migracja do standardu .NET może pomóc rozwiązać problemy z wydajnością lub zgodnością z programem .NET Core.
  
 **Najważniejsze informacje**
 - Firma Microsoft nie wydaje żadnych dodatkowych wersji .NET Framework 4.8, ponieważ jest to ostatnia wersja w wierszu.
@@ -136,7 +136,7 @@ W [zeszłym roku firma](https://partner.microsoft.com/resources/detail/power-app
 
 Będziesz mieć możliwość zaoferowania usług użytkownikom indywidualnym i zespołom bez konieczności przechodzinia przez scentralizowany proces zaopatrzenia IT w celu uzyskania wymaganych licencji. Usługi mogą obejmować wiele Project i Visio w oparciu o scenariusze integracji z Microsoft 365 i Power Platform. 
 
-Dowiedz się więcej o możliwościach partnerów Visio i Power Platform w sesji Microsoft Inspire [Rebuild and reimagine business with Microsoft Visio and Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)(Ponowne kompilowanie i ponowne kompilowanie działalności biznesowej z usługami Microsoft Visio i Power Platform). Aby uzyskać dodatkowe informacje, odwiedź przewodnik [administratora samoobsługi.](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins)
+Dowiedz się więcej o możliwościach partnerów w Visio i Power Platform w sesji Microsoft Inspire [Rebuild and reimagine business with Microsoft Visio and Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)(Ponowne kompilowanie i ponowne kompilowanie działalności z Visio microsoft Power Platform). Aby uzyskać dodatkowe informacje, odwiedź przewodnik [administratora samoobsługi.](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins)
 
 #### <a name="additional-resources"></a>Dodatkowe zasoby
 
@@ -166,13 +166,13 @@ Nowy dodatek Advanced Communications dla usługi Microsoft Teams jest teraz dost
 #### <a name="advanced-communications-features"></a>Funkcje zaawansowanej komunikacji
 
 Wydane podczas uruchamiania
-- Limity wydarzeń na żywo do 20 000 uczestników (50 równoczesnych, 16 godzin)
+- Limity wydarzeń na żywo do 20 000 uczestników (50 współbieżnych, 16 godzin)
 
 Wydane później w CY2020
 - 1000-osobowa interakcyjna Teams spotkania 
 - Interaktywne spotkania dla 1000 uczestników z możliwością umożliwienia maksymalnie 20 000 spotkań "tylko w widoku". 
 - Spotkanie z spotkaniem z marką niestandardową
-- Dodatkowe dostosowania, narzędzia i ulepszenia komunikacji będą dodawane do SKU przez cały rok kalendarzowy
+- Dodatkowe dostosowania, narzędzia i ulepszenia komunikacji zostaną dodane do SKU przez cały rok kalendarzowy
 
 #### <a name="offer-details"></a>Szczegóły oferty
 
@@ -184,7 +184,7 @@ Wydane później w CY2020
 
 #### <a name="frequently-asked-questions"></a>Często zadawane pytania
 
-- **Co to jest advanced communications?** Ten nowy Microsoft Teams umożliwia klientom dalsze ulepszanie ich obsługi komunikacji. Można go kupić na podstawie dowolnej subskrypcji Microsoft 365, która jest subskrybowana.
+- **Co to jest advanced communications?** Ten nowy Microsoft Teams umożliwia klientom dalsze ulepszanie ich obsługi komunikacji. Można go kupić na podstawie dowolnej subskrypcji Microsoft 365, do których są subskrybowane.
 - **Ile to kosztuje?** Komercyjna wartość ERP wynosi 12 USD na użytkownika/miesiąc. 
 - **Którzy klienci mogą kupić dodatek?** Komercyjny, komercyjny sektor publiczny na całym świecie, edukacja i organizacje non-profit.
 - **Jak można go kupić?** Dodatek można kupić za pośrednictwem programu EA/EAS, EES, CSP lub Web Direct.
@@ -280,11 +280,11 @@ Rozwiązania Visio Microsoft mogą być używane w różnych branżach i rolach 
 Microsoft Visio to produkt, który pomoże Ci:
 
 - Używanie szablonu i scenariuszy integracji wykresu organizacyjnego z Excel i Power BI do tworzenia zrównoważonej struktury organizacyjnej
-- Planowanie bezpiecznego powrotu do miejsca pracy przy Visio floorplans w celu uwzględnienia wytycznych dotyczących rozdyskutowania społeczności
+- Planowanie bezpiecznego powrotu do miejsca pracy przy użyciu Visio floorplans w celu uwzględnienia wytycznych dotyczących rozdyskutowania społeczności
 - Dostosowanie modeli biznesowych: Analiza biznesowa jest podstawą oferty Visio wartości. Dostosowuj modele biznesowe do nowego sposobu pracy, mapując i przeprojektując krytyczne procesy biznesowe za pomocą usługi Visio i uzyskaj terminowe szczegółowe informacje o danych za pomocą diagramów Power BI i Visio osadzonych w tej aplikacji. 
-- Skup się na zmniejszeniu wartości i kosztów: Zidentyfikuj i zautomatyzuj powtarzające się procesy oraz pomóż klientom tworzyć samoobsługowe obciążenia dla typowych ról funkcjonalnych, takich jak zarządzanie ZASOBAMI IT, kadry i inne.
+- Skoncentruj się na wartości i redukcji kosztów: Zidentyfikuj i zautomatyzuj powtarzające się procesy oraz pomóż klientom tworzyć samoobsługowe obciążenia dla typowych ról funkcjonalnych, takich jak zarządzanie zasobami it, kadry i inne.
 
-Oferujemy bezpłatną 30-dniową wersję próbną Visio (plan 1) i Visio (plan 2), aby pomóc klientom korzystać z tych korzyści. Partnerzy mogą znaleźć wersje próbne w cenniku miesięcznym na stronie cen i ofert w Partner Center. Oferty wersji próbnej będą mieć "WERSJĘ PRÓBNĄ" wymienioną w kolumnie typ licencji pomocniczej cennika.
+Oferujemy bezpłatną 30-dniową wersję próbną Visio (plan 1) i Visio (plan 2), aby pomóc klientom korzystać z tych korzyści. Partnerzy mogą znaleźć wersje próbne w cenniku miesięcznym na stronie cen i ofert w Partner Center. Oferty w wersji próbnej będą mieć "WERSJĘ PRÓBNĄ" wymienioną w kolumnie typ licencji pomocniczej cennika.
 
 #### <a name="offer-details"></a>Szczegóły oferty
 

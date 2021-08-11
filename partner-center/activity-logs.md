@@ -9,16 +9,16 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e21db0b6d054c62cec0378a3b93201dea072128f
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8d8deb72da4bd0bbf3fe9d026a49c9eaf6c438661c237b4075dfc87f531da137
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839519"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685517"
 ---
-# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Wyświetlanie lub eksportowanie dzienników aktywności klienta w celu bardziej szczegółowego wglądu w transakcje klientów
+# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Wyświetlanie lub eksportowanie dzienników aktywności klientów w celu bardziej szczegółowego wglądu w transakcje klientów
 
-**Odpowiednie role:** Administrator globalny | Administrator rozliczeń | Administrator zarządzania użytkownikami | Agent administracyjny | Agent sprzedaży | Agent pomocy technicznej
+**Odpowiednie role:** Administrator globalny | Administrator rozliczeń | Administrator zarządzający użytkownikami | Agent administracyjny | Agent sprzedaży | Agent pomocy technicznej
 
 Dzienniki aktywności zawierają informacje o transakcjach i akcjach zarządzania partnerami dla klientów. Dzienniki transakcji zawierają szczegółowe informacje o transakcji, w tym zakupione subskrypcje. Dzienniki aktywności można również eksportować do formatu Excel plików wartości rozdzielanych przecinkami (.csv).
 

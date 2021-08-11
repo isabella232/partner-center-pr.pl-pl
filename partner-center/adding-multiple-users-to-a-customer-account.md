@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 907d1267164df267acab08675b4b9388fbf14474
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d609b84b44997f15fdb2c4a185bfdef00ce27adec16b52ade91af3ad78cad83c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839434"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685313"
 ---
 # <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>Upload pliku .csv użytkowników na konto klienta
 

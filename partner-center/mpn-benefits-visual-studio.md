@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6bef607e7ca5d024c815f129a573bb58fa81c695
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b48f26ef61277c9937edb704753d340368e3d83d4be6aded4c3706daeb591b35
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843752"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692277"
 ---
 # <a name="explore-the-visual-studio-benefits-area-in-partner-center"></a>Zapoznaj się z Visual Studio korzyściami w Partner Center
 
@@ -40,11 +40,11 @@ W tym artykule opisano Visual Studio korzyści dostępne dla partnerów z Partne
 4. Powtórz ten proces dla każdej subskrypcji, którą chcesz przypisać. Przypisany użytkownik może zalogować się do [portalu Visual Studio i](https://my.visualstudio.com/) zarządzać subskrypcją. W portalu [Visual Studio](https://my.visualstudio.com/?wt.mc_id=o%7Emsft%7Edocs)subskrybenta użytkownicy mogą mieć możliwość dodania alternatywnej tożsamości — oprócz tożsamości użytej do aktywowania subskrypcji. Dowiedz się więcej [o tożsamościach dla Visual Studio tutaj.](/visualstudio/subscriptions/vs-alternate-identity)
 
    > [!Note]
-   > Visual Studio subskrypcje mogą zostać ponownie przypisani z jednego subskrybenta do innego, jeśli minęło 90 dni od czasu oryginalnego przypisania. Aby uzyskać dodatkowe informacje, przeczytaj **[Przewodnik po programach partnerskich firmy Microsoft.](https://aka.ms/partner-benefits-use-guide)**
+   > Visual Studio subskrypcje mogą być ponownie przypisywani z jednego subskrybenta do innego, jeśli minęło 90 dni od czasu oryginalnego przypisania. Aby uzyskać dodatkowe informacje, przeczytaj **[Przewodnik po programach partnerskich firmy Microsoft.](https://aka.ms/partner-benefits-use-guide)**
 
 ## <a name="next-steps"></a>Następne kroki
 
-[Visual Studio subskrypcje oferowane w Microsoft Partner Network](/visualstudio/subscriptions/program-mpn)
+[Visual Studio subskrypcji oferowanych w Microsoft Partner Network](/visualstudio/subscriptions/program-mpn)
 
 [Dodawanie użytkowników i przypisywanie do nich uprawnień](create-user-accounts-and-set-permissions.md)
 

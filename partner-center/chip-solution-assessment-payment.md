@@ -2,19 +2,19 @@
 title: Stan płatności oceny rozwiązania
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Skorzystaj z platformy Channel Incentives Platform (CHIP), aby znaleźć informacje o możliwościach oceny rozwiązań, ich obliczeniach i stanie płatności.
+description: Skorzystaj z platformy CHIP (Channel Incentives Platform), aby znaleźć informacje o możliwościach oceny rozwiązań, ich obliczeniach i stanie płatności.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4184d155ceff22a34e1a85d2909f4e1b17a46daa
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 5443dedfcae17152b51df7aa021d900b2f61892509c85ba3c2ba99cb0b9b3a8d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148877"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692674"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>Informacje o stanie płatności i obliczeniach oceny rozwiązania
 
@@ -31,7 +31,7 @@ Możesz sprawdzić stan płatności dla stanu szansy sprzedaży oceny rozwiązan
 5. Sprawdź **sekcję Żądania płatności,** aby sprawdzić, czy żądanie płatności zostało utworzone.
 6. Sprawdź stan szansy sprzedaży.
 
-    - Jeśli żądanie płatności nie zostało utworzone, upewnij się, że szansa sprzedaży spełnia kryteria kwalifikowalności, aby uzyskać zachętę oceny rozwiązań. Więcej informacji na temat sprawdzania kryteriów uprawnień można znaleźć w [tece Ocena rozwiązania.](chip-solution-assessment.md)
+    - Jeśli żądanie płatności nie zostało utworzone, upewnij się, że szansa sprzedaży spełnia kryteria kwalifikowalności, aby uzyskać zachętę Oceny rozwiązań. Więcej informacji na temat sprawdzania kryteriów uprawnień można znaleźć w [tece Ocena rozwiązania.](chip-solution-assessment.md)
     - Jeśli zostanie utworzone żądanie płatności, przejdź do kroku 7.
 7. Sprawdź stan żądania płatności.
 
@@ -42,7 +42,7 @@ Możesz sprawdzić stan płatności dla stanu szansy sprzedaży oceny rozwiązan
 
 ## <a name="calculations-for-solutions-assessment"></a>Obliczenia dotyczące oceny rozwiązań
 
-Korzystając ze zdefiniowanych harmonogramów opłat, regionalne centra operacyjne firmy Microsoft obliczają i przetwarzają skojarzone opłaty zachęt, a płatności są wydawane co miesiąc.
+Korzystając ze zdefiniowanych harmonogramów opłat, regionalne centra operacji firmy Microsoft obliczają i przetwarzają skojarzone opłaty zachęt, a płatności są wydawane co miesiąc.
 
 Szanse sprzedaży muszą mieć wszystkie następujące atrybuty, aby były widoczne w tym raporcie zatwierdzania płatności:
 

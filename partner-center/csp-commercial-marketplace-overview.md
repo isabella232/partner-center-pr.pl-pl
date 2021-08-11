@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a899226e60e575d6c8aee003130b5390af023394
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 047738186f93e143e701794b76f8f8f1979129f94129b6fdc79c4de1196f2625
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837717"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690889"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Omówienie platformy handlowej w Partner Center
 
@@ -56,12 +56,12 @@ Jako partner w programie CSP możesz wykonać wiele działań na platformie hand
 
 - System lub witryna internetowa zewnętrznego wydawcy ISV
 
-Większość miejsca, w którym można przejść do pełnych działań, rozpoczyna się od typu oferty, który wybierzesz. Partnerzy w programie CSP mogą obecnie korzystać z dwóch rodzajów ofert u zewnętrznych wydawców isv:
+Większość miejsca, w którym można przejść do pełnych działań, rozpoczyna się od typu oferty, który wybierzesz. Partnerzy w programie CSP mogą obecnie transakcje dwóch typów ofert u zewnętrznych wydawców isV:
 
 1. Oparte na licencjach oferty SaaS  
 2. Oferty oparte na użyciu (w tym oferty oparte na maszynach wirtualnych, kontenerach lub aplikacjach platformy Azure)
 
-Przejdź do [tematu Billing Basics (Podstawy](billing-basics.md) rozliczeń), aby dowiedzieć się więcej o różnicach w rozliczeniach między ofertami opartymi na licencjach i ofertami opartymi na użyciu.  
+Przejdź do [tematu Billing Basics (Podstawy](billing-basics.md) rozliczeń), aby dowiedzieć się więcej o tym, czym różnią się rozliczenia między ofertami opartymi na licencjach i ofertami opartymi na użyciu.  
 
 Aby dowiedzieć się, gdzie wykonać konkretne działanie na platformie handlowej dla ofert internetowych opartych na licencjach lub opartych na użyciu, zobacz poniższe tabele.
 

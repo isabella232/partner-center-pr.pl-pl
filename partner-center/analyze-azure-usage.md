@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: d26fe1c71a574ed58ca227979cda445950873596
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 4dcf777cc4f6e7c7e16276b0275bf62dd927a833b892152c68366558ac42e86a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839128"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685143"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Uzyskiwanie danych o tym, jak dobrze radzią sobie klienci i subskrypcje platformy Azure
 
@@ -52,7 +52,7 @@ Ta sekcja wskazuje przewidywane ryzyko zmian w subskrypcjach platformy Azure. Te
 ## <a name="azure-subscription-churn"></a>Rezygnacja z subskrypcji platformy Azure
 
 - **Aktywne subskrypcje:** liczba aktywnych subskrypcji według daty  
-- **Anulowano aprowizowane subskrypcje:** liczba subskrypcji, dla których anulowano aprowizę lub która została wstrzymana według daty  
+- **Anulowane aprowizowane subskrypcje:** liczba subskrypcji, dla których anulowano aprowizę lub które zostały wstrzymane według daty  
 
 ## <a name="customer-count"></a>Liczba klientów
 
@@ -64,4 +64,4 @@ Ta sekcja wskazuje przewidywane ryzyko zmian w subskrypcjach platformy Azure. Te
 
  ## <a name="next-steps"></a>Następne kroki
 
-- [Kup plan platformy Azure dla klientów, & uzyskać dostęp do najnowszych usług platformy Azure po stawkach płatności zgodnie z użyciem](purchase-azure-plan.md)
+- [Kup plan platformy Azure dla klientów, & uzyskać dostęp do najnowszych usług platformy Azure ze stawkami płatności zgodnie z użyciem](purchase-azure-plan.md)

@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 37f1fe563c3d3ac43f596371eb2adbf775fcc62b
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: e1dee489e28e9bc5866b75d767e222be15a4f0f3e90e136d3742c9b55d9994a1
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100743"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692244"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Tworzenie konta MPN w programie Partner Center do zarządzania korzyściami i kompetencjami sieci
 
@@ -26,7 +26,7 @@ Jeśli jesteś nowym użytkownik Microsoft Partner Network (MPN) i nie masz iden
 
 Gdy wszystko będzie gotowe do utworzenia konta na Partner Center, musisz mieć do ręki następujące elementy.  Zebranie tych elementów przed rozpoczęciem może potrwać kilka minut:
 
-- Służbowy adres e-mail firmy LUB konto służbowe usługi Office 365. Firma może wymagać zakupu domeny poczty e-mail w celu skonfigurowania służbowych adresów e-mail dla pracowników. Aby uzyskać więcej informacji, [przeczytaj temat Konto służbowe Twojej firmy i Partner Center](azure-active-directory-tenants-and-partner-center.md). 
+- Służbowy adres e-mail LUB Office 365 służbowego. Firma może wymagać zakupu domeny poczty e-mail w celu skonfigurowania służbowych adresów e-mail dla pracowników. Aby uzyskać więcej informacji, [przeczytaj temat Konto służbowe Twojej firmy i Partner Center](azure-active-directory-tenants-and-partner-center.md). 
  
 - Prawna nazwa i adres firmy.
 
@@ -49,7 +49,7 @@ Gdy wszystko będzie gotowe do utworzenia konta na Partner Center, musisz mieć 
 
     c.  Aby kupić usługę MAPS lub zarządzać kompetencjami, musisz uaktualnić to konto, [weryfikując](become-global-admin.md) domenę i stając się administratorem. 
 
-2. Możesz zalogować się przy użyciu konta służbowego usługi Office 365, na przykład you@contoso.onmicrosoft.com .
+2. Możesz zalogować się przy użyciu Office 365 służbowego, na przykład you@contoso.onmicrosoft.com .
 
    >[!NOTE]
    > Do zarejestrowania się w programie MPN nie można użyć poświadczeń istniejącego konta CSP.

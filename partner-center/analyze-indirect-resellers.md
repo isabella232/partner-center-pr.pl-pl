@@ -9,14 +9,14 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: a7d04e437a2546c887b40f37a7381605535e8ca9
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 22a4cd826d806ba4f9cc3e83ea27116d5f694373fa26afdb3f403e7497f26e8c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839094"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685024"
 ---
-# <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Używanie analizy do analizowania wydajności odsprzedawców pośrednich
+# <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Analizowanie wydajności odsprzedawców pośrednich za pomocą analizy
 
 **Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami
 
@@ -53,7 +53,7 @@ Dane wpływają na decyzje biznesowe. Użyj metryk na stronie analizy **Odsprzed
 
 **Rezygnacja z subskrypcji**  
  - **Nowe subskrypcje:** liczba nowych subskrypcji dodanych według daty  
- - **Anulowano aprowizowane subskrypcje:** liczba subskrypcji, dla których anulowano aprowizę lub która została wstrzymana według daty  
+ - **Anulowane aprowizowane subskrypcje:** liczba subskrypcji, dla których anulowano aprowizę lub które zostały wstrzymane według daty  
 
 **Szczegóły nowego odsprzedawcy**  
  - **Nazwa** odsprzedawcy: Nazwy odsprzedawców pośrednich  
@@ -65,7 +65,7 @@ Dane wpływają na decyzje biznesowe. Użyj metryk na stronie analizy **Odsprzed
 
 Ta sekcja zawiera stan podpisanego umowy MPA odsprzedawców pośrednich WSP.
 
- - **Nazwa** odsprzedawcy: nazwa odsprzedawcy pośredniego w programie CSP
+ - **Nazwa** odsprzedawcy: nazwa odsprzedawcy pośredniego CSP
  - **Identyfikator MPN:** identyfikator MPN odsprzedawcy pośredniego
  - **Region:** region, w którym działa odsprzedawca pośredni
  - **Stan vettingu MPN:** Stan Vetting odsprzedawcy pośredniego

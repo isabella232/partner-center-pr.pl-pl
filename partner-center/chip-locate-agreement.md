@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 288e4ebb224d3ff1b0d4050691b733e678ec29a3
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: c2ae28bd6291af9c4a4445dcc4010b817e533c34b339b137b67ae1a99b5f4e2c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276945"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692781"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Lokalizowanie liczby komputerów i poziomu opłat dla umowy
 
@@ -41,9 +41,9 @@ Możesz zalogować się [do](https://www.explore.ms/) explore.ms, aby zapoznać 
 
 6. Wybierz **pozycję Wyszukaj.**
 
-7. Na ekranie wynikowym przewiń wyniki, aby znaleźć kolumnę Liczba umów **dla komputerów stacjonarnych.** 
+7. Na ekranie wynikowym przewiń wyniki, aby znaleźć **kolumnę Liczba** umów dla komputerów stacjonarnych. 
 
-8. Użyj licznika pulpitu, aby określić poziom opłaty na podstawie poniższej tabeli stawek.  
+8. Użyj liczby komputerów stacjonarnych, aby określić poziom opłaty na podstawie poniższej tabeli stawek.  
 
 | Poziom opłaty | Liczba komputerów stacjonarnych |
 | ------ | :-----------: |
@@ -53,17 +53,17 @@ Możesz zalogować się [do](https://www.explore.ms/) explore.ms, aby zapoznać 
 |  D | 15,000+   |
 
 >[!NOTE]
->Poziomy zachęt dla przedsiębiorstw są oparte na liczby komputerów stacjonarnych lub użytkowników (w zależności od tego, która wartość jest wyższa) w rejestracjach w sektorze komercyjnym i publicznym (PS). W przypadku rejestracji bez naturalnie skojarzonej liczby komputerów stacjonarnych lub użytkowników firma Microsoft stosuje liczbę komputerów stacjonarnych na podstawie liczby komputerów stacjonarnych lub liczby użytkowników towarzyszącej umowy EA. <br><br>Jeśli nie ma towarzyszącej umowy EA, poziom opłaty jest oparty na poziomie cen rejestracji. Poziom cen transakcji można również wyświetlić na stronie [www.explore.ms](https://www.explore.ms/). <br><br>Jeśli w istniejącym programie EA/EAS istnieje wiele poziomów puli i/lub cen, firma Microsoft zapłaci zachęty na najwyższym przypisanym poziomie cen/puli, a poziom A jest najniższy, a poziom D najwyższy.
+>Enterprise Poziomy zachęt są oparte na liczby komputerów stacjonarnych lub użytkowników (w zależności od tego, która wartość jest wyższa) w rejestracjach w sektorze komercyjnym i publicznym (PS). W przypadku rejestracji bez naturalnie skojarzonej liczby komputerów stacjonarnych lub użytkowników firma Microsoft stosuje liczbę komputerów stacjonarnych na podstawie liczby komputerów stacjonarnych lub liczby użytkowników towarzyszącej umowy EA. <br><br>Jeśli nie ma towarzyszącej umowy EA, poziom opłaty jest oparty na poziomie cen rejestracji. Poziom cen transakcji można również wyświetlić na stronie [www.explore.ms](https://www.explore.ms/). <br><br>Jeśli w istniejącym programie EA/EAS istnieje wiele poziomów puli i/lub cen, firma Microsoft zapłaci zachęty na najwyższym przypisanym poziomie cen/puli, a poziom A jest najniższy, a poziom D najwyższy.
 
 #### <a name="pool-and-pricing-levels"></a>Pula i poziomy cen
 
-Po wyszukaniu numeru umowy w explore.ms krokach przedstawionych powyżej wybierz numer umowy. Spowoduje to pokazanie podsumowania umowy i ofert  na stronie szczegółów **umowy.** Sekcja ofert zawiera poziomy cen.
+Po wyszukaniu numeru umowy w explore.ms krokach przedstawionych powyżej wybierz numer umowy. Spowoduje to dostęp do strony szczegółów umowy, na której będą wyświetlane podsumowanie **umowy** i **oferty**. Sekcja ofert zawiera poziomy cen.
 
 ## <a name="method-2---chip"></a>Metoda 2 — CHIP
 
-1. Zaloguj się na stronie CHIP i wybierz pozycję LSP Incentives (Zachęty LSP).
+1. Zaloguj się do programu CHIP i wybierz pozycję LSP Incentives (Zachęty dla programu LSP).
 
-2. Na stronie **Podsumowanie płatności** partnera wybierz miesiąc raportowania, który  chcesz wyświetlić, a następnie wybierz pozycję Szczegóły obliczeń z listy rozwijanej w obszarze **Eksportuj do programu Excel:**
+2. Na stronie **Podsumowanie płatności** partnera wybierz miesiąc raportowania, który  chcesz wyświetlić, a następnie wybierz pozycję Szczegóły obliczeń z listy rozwijanej w obszarze Eksportuj **do Excel**:
 
 :::image type="content" source="images/chip/chiplocate.png" alt-text="Zlokalizuj szczegóły programu.":::
 

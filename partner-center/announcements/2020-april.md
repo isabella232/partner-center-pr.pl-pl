@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/21/2021
-ms.openlocfilehash: 31689ef78520835fd31d976e340280302972c4ce
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 379d1d1124f46e3dd8f3f9f3ad957bd06e6c390c22d2af4d1fe8a41d544380be
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115102013"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115684820"
 ---
 # <a name="april-2020-announcements"></a>Ogłoszenia z kwietnia 2020 r.
 
@@ -44,13 +44,13 @@ Wszyscy partnerzy w ramach programu Dostawca rozwiązań w chmurze (CSP). Ta pro
 ### <a name="details"></a>Szczegóły
 
 W ramach zobowiązania [firmy Microsoft](https://www.microsoft.com/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) wobec klientów w tych niezrównanych czasach dostępna była sześciomiesięczny okres próbny usługi Office 365 E1 w programie CSP dla nowych klientów (zobacz definicję poniżej).
-4 maja 2020 r. firma Microsoft wprowadzi nowe promocje na rabaty dla usług Office 365 E1 i Microsoft 365 Business Basic, aby zaoferować te produkty bez kosztów przez pierwsze sześć miesięcy rocznej subskrypcji rozliczanych miesięcznie dla nowych klientów.
+4 maja 2020 r. firma Microsoft wprowadzi nowe promocje na rabaty dla usług Office 365 E1 i Microsoft 365 Business Basic w celu zaoferowania tych produktów bez poniesienia kosztów przez pierwsze sześć miesięcy rocznej subskrypcji rozliczanych miesięcznie dla nowych klientów.
 
-Te promocje zastąpią bieżącą Office 365 E1 wersji próbnej i różnią się w następujący sposób:
+Te promocje zastąpią bieżącą Office 365 E1 wersji próbnej i różnią się pod następującymi względami:
 
-- Partnerzy będą transakcyjni roczne jednostki SKU Office 365 E1 lub Microsoft 365 Business Basic, korzystając z programu CSP Discount, który stosuje 100% rabatu przez pierwsze sześć miesięcy, a nie unikatową, 6-miesięczną jednostkę SKU w wersji próbnej. [Dowiedz się więcej na temat promocji CSP.](../promotions.md)
+- Partnerzy będą transakcyjni roczne jednostki SKU Office 365 E1 lub Microsoft 365 Business Basic, korzystając z programu CSP Discount, który stosuje rabat 100% przez pierwsze sześć miesięcy, a nie unikatową jednostkę SKU z sześciomiesięcową próbą. [Dowiedz się więcej na temat promocji CSP.](../promotions.md)
 - Zamawianie będzie technicznie ograniczone do "tylko nowych klientów", a nie do wersji próbnej Office 365 E1, która została ograniczona tylko do nowych klientów za pośrednictwem zasad pisanych. 
-- W przypadku klientów korzystających z Microsoft 365 Business Basic SMB zostanie uwzględniony w tej promocji. Dzięki temu partnerzy mogą rozpocząć od klientów, którzy mają mniej niż 300 stanowisk w odpowiedniej rodzinie produktów, Microsoft 365 dla firm.
+- W przypadku klientów korzystających z Microsoft 365 Business Basic SMB ta promocja zostanie uwzględniona. Dzięki temu partnerzy mogą rozpocząć od klientów, którzy mają mniej niż 300 stanowisk w odpowiedniej rodzinie produktów, Microsoft 365 dla firm.
 Klienci, którzy mają obecnie licencję na Office 365 E1 próbną (dostępną do 4 maja 2020 r.), pozostaną w bieżącym planie — ta zmiana ma wpływ tylko na nowych klientów sieci.
 
 Definicja nowych klientów
@@ -91,7 +91,7 @@ Partnerzy w Dostawca rozwiązań w chmurze programu
 
 ### <a name="summary"></a>Podsumowanie
 
-Firma Microsoft stara się zapewnić elastyczność i opcje, aby ułatwić klientom kupowanie i korzystanie z produktów i usług od firmy Microsoft i naszych partnerów.
+Firma Microsoft stara się zapewnić elastyczność i opcje, aby ułatwić klientom kupowanie i korzystanie z produktów i usług od firmy Microsoft i jej partnerów.
 
 W ramach naszego dalszego zobowiązania wprowadzamy nową funkcję samoobsługi klienta dla rezerwacji platformy Azure, która upraszcza środowisko zakupu klientów i jeszcze bardziej zwiększa użycie rezerwacji platformy Azure za pośrednictwem partnerów w programie CSP.
 
@@ -132,7 +132,7 @@ Wszyscy partnerzy, którzy inicjuje transakcję M365 E3 za pośrednictwem cennik
 
 Wcześniej w 2020 r. wykryliśmy błąd w cenach EUR dla Microsoft 365 E3 w programie CSP: cena netto była niższa niż powinna. 1 kwietnia 2020 r. zaplanowaliśmy aktualizację systemu w celu poprawienia ceny.
 
-Mimo że ceny są błędne, dokonywanie korekt i rosnących cen w tej chwili nie jest odpowiednie ze względu na wyjątkowe okoliczności. W związku z tym tymczasowo wrócimy do poprzedniej, niższej ceny netto od 22 kwietnia 2020 r. Wszystkie faktury będą natychmiast odzwierciedlać poprzednie niższe ceny, natomiast na cenniku będą wyświetlane niższe ceny z cennika z maja 2020 r. w najbliższej przyszłości.
+Mimo że ceny są błędne, dokonywanie korekt i rosnących cen w tej chwili nie jest odpowiednie ze względu na wyjątkowe okoliczności. W związku z tym tymczasowo wrócimy do poprzedniej, niższej ceny netto od 22 kwietnia 2020 r. Wszystkie faktury będą natychmiast odzwierciedlać poprzednie niższe ceny, natomiast na cenniku będą wyświetlane niższe ceny z cennika z maja 2020 r., w najbliższej przyszłości.
 
 Partnerzy nie powinni używać cennika M365 E3 EUR wymienionego w cenniku z kwietnia 2020 r.; Zapoznaj się z cennikiem wymienionym w cenniku z marca 2020 r.
 
@@ -169,7 +169,7 @@ Większe i stałe zabezpieczenia i ochrona prywatności należą do naszych gł�
 
 Niedawno pomyślnie ukończyliśmy aktywowanie zabezpieczeń dla funkcji admin-on-behalf-of (AOBO) dla wszystkich dzierżaw partnerów, aby chronić firmy i klientów przed zdarzeniami związanymi z kradzieżą tożsamości.
 
-Aby jeszcze bardziej pomóc w obronie partnerów i klientów, od 1 maja **2020** r. rozpoczniemy aktywację zabezpieczeń przed Partner Center transakcji w programie CSP. Aktywacja dodatkowych zabezpieczeń oznacza, że partnerzy będą proszeni o użycie uwierzytelniania wieloskładnikowego (MFA) dla wszystkich transakcji w programie CSP przy użyciu środowiska użytkownika lub interfejsów API usługi Partner Center, co zapobiega nieautoryzowanemu dostępowi oraz chroni ich klientów i dzierżawców przed zdarzeniami zabezpieczeń związanymi z kradzieżą tożsamości. Więcej informacji można znaleźć [tutaj.](../partner-security-requirements-mandating-mfa.md)
+Aby jeszcze bardziej ułatwić obronę partnerów i klientów, począwszy od 1 maja **2020 r.,** rozpoczniemy aktywację zabezpieczeń przed Partner Center transakcji w programie CSP. Aktywacja dodatkowych zabezpieczeń oznacza, że partnerzy będą proszeni o użycie uwierzytelniania wieloskładnikowego (MFA) dla wszystkich transakcji w programie CSP przy użyciu środowiska użytkownika lub interfejsów API usługi Partner Center, co zapobiega nieautoryzowanemu dostępowi oraz chroni ich klientów i dzierżawców przed zdarzeniami zabezpieczeń związanymi z kradzieżą tożsamości. Więcej informacji można znaleźć [tutaj.](../partner-security-requirements-mandating-mfa.md)
 
 ### <a name="next-steps"></a>Następne kroki
 
@@ -236,7 +236,7 @@ Aby uzyskać dostęp do poprawek, wykonaj następujące kroki:
 - Krok 3. Wybierz go, a następnie kliknij pozycję "Przejrzyj rozwiązania"
 - Krok 4. Kliknięcie potrzebnej poprawki
 
-Alternatywnie zaloguj się do Centrum partnerskiego i przejdź do [tego adresu URL.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=0570a74b-e021-7aa6-9a81-d0fe505b8df5)
+Alternatywnie zaloguj się do witryny Partner Center i przejdź do [tego adresu URL.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=0570a74b-e021-7aa6-9a81-d0fe505b8df5)
 
 ### <a name="additional-resources"></a>Dodatkowe zasoby
 
@@ -269,7 +269,7 @@ Klienci usługi Microsoft Defender ATP z minimalną liczbą licencji 50 mogą u�
 
 Obecnie nie ma żadnych zmian w standardzie zabezpieczeń platformy Azure. Azure Security Center Standardowa w dalszym ciągu zapewnia zintegrowane środowisko użytkownika, aby chronić nie tylko punkty końcowe maszyny wirtualnej serwera, ale także szeroki zestaw zasobów platformy Azure, w tym IoT, usługi Azure Kubernetes Services (wersja zapoznawcza), Azure Container Registry (wersja zapoznawcza), Key Vault (wersja zapoznawcza), App Services, SQL i Storage.
 
-MdATP dla właścicieli serwerów SKU należy uaktualnić do Azure Security Center (ASC) Standard z 10 $10 krokowego SKU, aby korzystać z funkcji usługi ASC Standard.
+MdATP dla właścicieli SKU serwerów należy uaktualnić do Azure Security Center (ASC) Standard z 10 USD krokowego SKU, aby korzystać z funkcji usługi ASC Standard.
 
 ### <a name="product-offer"></a>Oferta produktu
 
@@ -742,28 +742,28 @@ _________________
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 Wszyscy partnerzy CSP.
 
-**Aktualizacja z 1 kwietnia 2020 r.** Od 31 stycznia 2020 r. wszyscy partnerzy w programie Dostawca rozwiązań w chmurze (CSP) powinni zaakceptować umowę dla wszystkich swoich dzierżaw CSP. Wcześniej informowaliśmy, że następna faza implementacji umowy rozpocznie się w kwietniu 2020 r.Aby zapobiec przerwom w działalności biznesowej, zdecydowaliśmy się na rozszerzenie następnej fazy implementacji po kwietniu 2020 r. Otrzymaliśmy opinie od niektórych naszych partnerów Dostawca rozwiązań w chmurze, że doświadczyli problemów z zaakceptowaniem mpa. W oparciu o te okoliczności pracujemy nad zapewnieniem, że zasoby firmy Microsoft są dostępne dla partnerów pomocy technicznej, którzy mają problemy z zaakceptowaniem umowy.
+**Aktualizacja z 1 kwietnia 2020 r.** Od 31 stycznia 2020 r. wszyscy partnerzy w programie Dostawca rozwiązań w chmurze (CSP) powinni zaakceptować umowę dla wszystkich swoich dzierżaw CSP. Wcześniej informowaliśmy, że następna faza implementacji umowy rozpocznie się w kwietniu 2020 r.Aby zapobiec przerwom w działalności biznesowej, zdecydowaliśmy się na rozszerzenie następnej fazy implementacji po kwietniu 2020 r. Otrzymaliśmy opinie od niektórych naszych partnerów Dostawca rozwiązań w chmurze, że doświadczyli problemów z zaakceptowaniem mpA. W tej sytuacji pracujemy nad zapewnieniem, że zasoby firmy Microsoft są dostępne dla partnerów, którzy mieli problemy z zaakceptowaniem umowy.
 
 ### <a name="summary"></a>Podsumowanie
 Od 31 stycznia 2020 r. wszyscy partnerzy biorący udział w programie Cloud Solution Provider, w tym odsprzedawcy pośredni, powinni zaakceptować Umowę partnerską firmy Microsoft w celu zapewnienia, że nie wystąpią żadne zakłócenia w możliwości tworzenia nowych klientów ani składania nowych zamówień dla istniejących klientów w programie CSP. Zaakceptowanie Umowy partnerskiej firmy Microsoft jest teraz wymagane dla wszystkich partnerów w programie CSP.
 
 Począwszy od kwietnia 2020 r.:
-- Partnerzy z rozliczeniami bezpośrednimi i dostawcy pośredni, którzy nie zaakceptowali Microsoft Partner Agreement nie będą mogli składać nowych zamówień i będą ograniczani do zarządzania tylko istniejącymi subskrypcjami.
+- Partnerzy z rozliczeniami bezpośrednimi i dostawcy pośredni, którzy nie zaakceptowali Microsoft Partner Agreement nie będą mogli składać nowych zamówień i będą mogli zarządzać tylko istniejącymi subskrypcjami.
 - Odsprzedawcy pośredni, którzy nie zaakceptowali Microsoft Partner Agreement nie będą już uprawnieni do działania jako partner rekordu dla nowych zamówień.
 
 **Jeśli jeszcze tego nie zrobiono, natychmiast wykonaj następujące czynności.**
 
 ### <a name="actions-for-direct-bill-partners"></a>Akcje dla partnerów rozliczanych bezpośrednio:
-1. Poinformuj kluczowych uczestników projektu w organizacji o przejrzenie Microsoft Partner Agreement.
+1. Poinformuj kluczowych uczestników projektu w organizacji, aby przejrzeli Microsoft Partner Agreement.
 2. Zaakceptuj Umowę partnerską firmy Microsoft na stronie [przeglądu programu CSP w Centrum partnerskim](https://partner.microsoft.com/pcv/dashboard/overview) przy użyciu poświadczeń administratora globalnego.
 
 Więcej informacji i zasobów można znaleźć na stronie galerii CSP [tutaj.](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp#/)
 
 ### <a name="actions-for-indirect-providers"></a>Akcje dla dostawców pośrednich
-1. Poinformuj kluczowych uczestników projektu w organizacji o przejrzenie Microsoft Partner Agreement.
+1. Poinformuj kluczowych uczestników projektu w organizacji, aby przejrzeli Microsoft Partner Agreement.
 2. Zaakceptuj Umowę partnerską firmy Microsoft na stronie [przeglądu programu CSP w Centrum partnerskim](https://partner.microsoft.com/pcv/dashboard/overview) przy użyciu poświadczeń administratora globalnego.
 3. Użyj [interfejsu API, aby zweryfikować stan podpisywania odsprzedawcy pośredniego.](/partner-center/develop/verify-indirect-reseller-mpa-status)
-4. Pomóc odsprzedawczyniom pośrednim w wykonaniu poniższych czynności.
+4. Pomagaj odsprzedawcom pośrednim w wykonaniu poniższych czynności.
 
 Więcej informacji i zasobów można znaleźć na stronie galerii CSP [tutaj.](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp#/)
 
@@ -772,15 +772,15 @@ Zdajemy sobie sprawę z problemów technicznych napotykanych przez dostawców po
 ### <a name="actions-for-indirect-resellers"></a>Akcje dla odsprzedawców pośrednich
 1. [Dołączaj do Partner Center](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/) jako odsprzedawca pośredni i zaakceptuj Microsoft Partner Agreement w ramach procesu dołączania.
 2. Jeśli wcześniej do usługi do usługi Partner Center jako odsprzedawca pośredni, zaakceptuj Microsoft Partner Agreement na stronie Partner Center [pulpitu](https://partner.microsoft.com/pcv/dashboard/overview) nawigacyjnego przy użyciu poświadczeń administratora globalnego.
-Informacje i zasoby dotyczące odsprzedawcy pośredniego są dostępne za pośrednictwem strony galerii CSP odsprzedawcy [tutaj.](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/)
+Informacje i zasoby specyficzne dla odsprzedawcy pośredniego są dostępne za pośrednictwem strony galerii CSP odsprzedawcy [tutaj.](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/)
 
 ### <a name="change-log"></a>Dziennik zmian
 
-- 14 stycznia 2020 r.: opublikowano oryginalne ogłoszenie.
-- 24 stycznia 2020 r.: seminaria internetowe z zaproszeniem na 27 stycznia 2020 r.
-- 31 stycznia 2020 r.: zaproszenia do serii seminariów internetowych zostały zaktualizowane na luty 2020 r.
-- 5 lutego 2020 r.: Microsoft Partner Agreement jest teraz wymagana akceptacja.
-- 4 marca 2020 r.: zaproszenia do serii seminariów internetowych zostały zaktualizowane na marzec 2020 r.
-- 1 kwietnia 2020 r.: ** Aktualizacja** — aby zapobiec zakłóceniom w działalności biznesowej, zdecydowaliśmy się na rozszerzenie następnej fazy implementacji po kwietniu 2020 r.
+- 14 stycznia 2020 r.: opublikowano oryginalne zawiadomienie.
+- 24 stycznia 2020 r. : seminaria internetowe z zaproszeniem na 27 stycznia 2020 r.
+- 31 stycznia 2020 r.: seminaria internetowe z zaproszeniem zaktualizowanym na luty 2020 r.
+- 5 lutego 2020 r.: Microsoft Partner Agreement wymagana jest akceptacja.
+- 4 marca 2020 r.: seria seminariów internetowych została zaktualizowana na marzec 2020 r.
+- 1 kwietnia 2020 r.: ** Aktualizacja ** — aby zapobiec przerwom w działalności biznesowej, zdecydowaliśmy się na rozszerzenie następnej fazy implementacji poza kwiecień 2020 r.
 
 _________________

@@ -9,20 +9,20 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 276747cffb3007e5403cb8238b0540fe191e34cb
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d86dc78deba8f16971d2c52cbbeb80478120c60bb0f35c24c60595cc9082e47b
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840624"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690838"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Eskalowanie problemów do firmy Microsoft i dowiedz się, które problemy są bardziej odpowiednie do eskalacji firmy Microsoft  
 
 **Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
 
-**Odpowiednie role:** Administrator | Administrator globalny | Agent sprzedaży | Agent pomocy technicznej
+**Odpowiednie role:** Agent administracyjny | Administrator globalny | Agent sprzedaży | Agent pomocy technicznej
 
-Oczekuje się, że rozwiążesz problemy w imieniu klientów. Pierwszym krokiem powinno być sprawdzenie [kondycji usługi pod](check-service-health.md) uwagę w przypadku istniejących, udokumentowanych problemów. Jeśli nie rozwiąże to problemu klienta, możesz użyć uprawnień administratora do rozwiązywania problemów z oprogramowaniem, ustawieniami i konfiguracją.
+Oczekuje się, że rozwiążemy problemy w imieniu klientów. Pierwszym krokiem powinno być sprawdzenie [kondycji usługi pod](check-service-health.md) uwagę istniejących, udokumentowanych problemów. Jeśli nie rozwiąże to problemu klienta, możesz użyć uprawnień administratora do rozwiązywania problemów z oprogramowaniem, ustawieniami i konfiguracją.
 
 Istnieje jednak kilka kategorii problemów, które należy rozwiązać, aby rozwiązać ten problem:
 
@@ -32,7 +32,7 @@ Istnieje jednak kilka kategorii problemów, które należy rozwiązać, aby rozw
 
 - Usterki i inne nieprawidłowości, które mają wpływ na wygląd lub działanie usługi
 
-- Przerwy w działaniu sieci na dużą skalę
+- Zakłócenia sieci na dużą skalę
 
 - Problemy regionalne związane z wpływem na wiele dzierżaw
 
@@ -53,7 +53,7 @@ Istnieje jednak kilka kategorii problemów, które należy rozwiązać, aby rozw
 7. Wybierz temat pomocy technicznej.
 
 >[!NOTE]
->Ważne jest, aby rozpocząć od pulpitu nawigacyjnego Partner Center, aby zachować relację między partnerem i klientem. 
+>Ważne jest, aby zacząć od pulpitu nawigacyjnego Partner Center, aby zachować relację między partnerem i klientem. 
 
 Aby uzyskać informacje na temat zgłaszania problemów w imieniu klienta, zobacz Zgłaszanie problemów [w imieniu klienta.](report-problems-on-behalf-of-a-customer.md)
 

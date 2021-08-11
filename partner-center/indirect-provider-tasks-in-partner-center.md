@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: c773d21f5e19bdb9712ed7a5d62061187d83281f
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d369f558412f89fab92201ec21cae363e87a555e4ab6e31a32a52a33f429cf7e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839774"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692516"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Współpraca partnerska z odsprzedawcami pośrednimi w programie Cloud Solution Provider
 
@@ -142,7 +142,7 @@ Kojarzenie odsprzedawcy z nowym kontem klienta wiąże się z delegowaniem zarz�
     > [!IMPORTANT]  
     > Pamiętaj, aby zanotować nazwę konta użytkownika i hasło, ponieważ nie możesz ponownie uzyskać dostępu do tych informacji po zamknięciu tej strony.
 
-7. Kliknij **Gotowe**. Nowy klient zostanie wyświetlony na liście klientów skojarzonych z odsprzedawcą pośrednim. Odsprzedawca ma teraz dostęp administratora do informacji o koncie i subskrypcji klienta i może zarządzać subskrypcjami w imieniu klienta.
+7. Kliknij **Gotowe**. Nowy klient zostanie wyświetlony na liście klientów skojarzonych z odsprzedawcą pośrednim. Odsprzedawca ma teraz dostęp administratora do informacji o koncie klienta i subskrypcji i może zarządzać subskrypcjami w imieniu klienta.
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Dodawanie nowych subskrypcji do kont klientów
 
@@ -150,7 +150,7 @@ Jeśli klienci chcą kupować nowe subskrypcje, uaktualniać istniejące lub kup
 
 1. Wybierz **pozycję Klienci** z **Partner Center** menu.
 
-2. Znajdź klienta, którego konto chcesz zmienić. Możesz filtrować listę według odsprzedawcy pośredniego, aby zawęzić wybór. Rozwiń rekord klienta, wybierając strzałkę w dół, a następnie wybierając pozycję **Dodaj subskrypcję**.
+2. Znajdź klienta, którego konto chcesz zmienić. Możesz filtrować listę według odsprzedawcy pośredniego, aby zawęzić wybór. Rozwiń rekord klienta, wybierając strzałkę w dół, a następnie wybierając **pozycję Dodaj subskrypcję**.
 
 3. Na **stronie Nowa subskrypcja** wybierz subskrypcje i wprowadź liczbę licencji, które klient chce kupić.
 
@@ -158,7 +158,7 @@ Jeśli klienci chcą kupować nowe subskrypcje, uaktualniać istniejące lub kup
 
 5. Nowe subskrypcje są wyświetlane na liście subskrypcji klienta.
 
-6. Jeśli chcesz, aby odsprzedawca obsłużył żądania obsługi klienta dotyczące nowej subskrypcji, wybierz subskrypcję, a następnie wybierz odsprzedawcę z listy **kontaktów Wyznaczona pomoc techniczna.** 
+6. Jeśli chcesz, aby odsprzedawca obsłużył żądania obsługi klienta dotyczące nowej subskrypcji, wybierz subskrypcję, a następnie wybierz odsprzedawcę z listy kontaktów **dla wyznaczonej pomocy** technicznej. 
 
 7. Po **zakończeniu wybierz** pozycję Prześlij.
 
@@ -166,7 +166,7 @@ Jeśli klienci chcą kupować nowe subskrypcje, uaktualniać istniejące lub kup
 
 Znajdź odpowiedzi na swoje pytania dotyczące Microsoft Partner Agreement
 
-- [Jak dostawcy pośredni mogą pomóc odsprzedawcom w Microsoft Partner Agreement — często zadawane pytania](mpa-indirect-provider-faq.yml)
+- [Jak dostawcy pośredni mogą pomóc odsprzedawcom w przyjęcie Microsoft Partner Agreement — często zadawane pytania](mpa-indirect-provider-faq.yml)
 
 Aby uzyskać więcej informacji na temat zarządzania kontami klientów i subskrypcjami, zobacz:
 

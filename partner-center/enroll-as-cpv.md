@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 01/15/2021
-ms.openlocfilehash: 6e31dfd73d2563bc6b41227a702690d74b7f306d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b8fd3627c2075a3aa63b2ac4bc9e940595e76fbd34a43fc00e8e10189b41aba3
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845724"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690872"
 ---
 # <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>Zarejestruj się jako dostawca Panel sterowania, aby pomóc w integracji systemów partnerów programu CSP z Partner Center API
 

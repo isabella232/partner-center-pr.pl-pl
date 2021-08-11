@@ -8,12 +8,12 @@ description: Dowiedz się więcej o wymaganiach dotyczących listy w programie P
 author: jasongroce
 ms.author: v-mhanscom
 ms.localizationpriority: medium
-ms.openlocfilehash: 712b26d56886b5265038a385dbf1ce1e68bb5081
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 5dfa4729b220611dec840e5505b071a0a8fbc845bef593c2e9fa9d0c0937c866
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836087"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691892"
 ---
 # <a name="partner-finder-listing-certification-policies"></a>Lista zasad certyfikacji w programie Partner Finder
 

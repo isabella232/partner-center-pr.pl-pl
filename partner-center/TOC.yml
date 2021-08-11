@@ -703,7 +703,7 @@
               href: insights-programmatic-prerequisites.md
             - name: Paradygmat dostępu programowego
               href: insights-programmatic-access-paradigm.md
-            - name: Pierwsze programowe wywołanie interfejsu API
+            - name: Pierwsze wywołanie programowego interfejsu API
               href: insights-programmatic-first-api-call.md
             - name: Lista zapytań systemowych
               href: insights-programmatic-system-queries.md
@@ -733,7 +733,7 @@
                   href: insights-programmatic-analytics-api-update-report.md
                 - name: Usuń raport
                   href: insights-programmatic-analytics-api-delete-report.md
-                - name: Wstrzymywanie wykonań raportu
+                - name: Wstrzymywanie wykonywania raportów
                   href: insights-programmatic-analytics-api-pause-report-executions.md
                 - name: Wznawianie wykonywania raportów
                   href: insights-programmatic-analytics-api-resume-report-executions.md

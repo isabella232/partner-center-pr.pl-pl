@@ -9,12 +9,12 @@ author: brentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 754d87096d7027fa3c18eb9af665f275d1d09363
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: cf971ee80a2ef15df66d0dbbfdc50436caca9b0fb05ab303ca0c6bbbb790b399
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839298"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685160"
 ---
 # <a name="partners-can-no-longer-enroll-as-advisors"></a>Partnerzy nie mogą już rejestrować się w roli doradcy 
 
@@ -25,9 +25,9 @@ Zarejestrowanie się w programie CSP (dowolnego typu) spowoduje zastąpienie sta
 
 ## <a name="enrolling-in-csp"></a>Rejestrowanie w programie CSP
 
-Jeśli zdecydujesz się zarejestrować się w programie CSP, nie będziesz mieć możliwości:
+Jeśli zdecydujesz się zarejestrować się w programie CSP, nie będzie można:
 
-- Tworzenie oferty Office 365 próbnej
+- Tworzenie oferty Office 365 wersji próbnej
 - Dodawanie klientów dla oferty Office 365 wersji próbnej
 - Tworzenie oferty zakupu usługi Office 365
 

@@ -9,19 +9,19 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d2888a8deffffa3b281ca088696184fdb52376be
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: a082e661cef28cf246dd742073efbc87487c4cdde694ddeb73958d9618c7a42a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115102322"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691178"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>Weryfikowanie własności domeny w celu otrzymania uprawnień administratora globalnego 
 
 
 **Odpowiednie role:** Administrator globalny | Administrator konta
 
-Aby pracować w Partner Center, musisz najpierw zweryfikować własność domeny i zostać administratorem globalnym w firmie. Ponadto pracownicy nie będą mieć przypisanych ról niezbędnych do rozpoczęcia pracy.  Aby pracować w Partner Center wszyscy muszą mieć przypisaną rolę, która obejmuje uprawnienia.  
+Aby pracować w Partner Center, musisz najpierw zweryfikować własność domeny i zostać administratorem globalnym w firmie. Ponadto pracownicy nie mają przypisanych ról niezbędnych do rozpoczęcia pracy.  Aby pracować w Partner Center wszyscy muszą mieć przypisaną rolę, która obejmuje uprawnienia.  
 
 ## <a name="verify-your-domain-ownership-to-become-a-global-admin-in-partner-center"></a>Sprawdź własność domeny, aby zostać administratorem globalnym w Partner Center
 
@@ -50,9 +50,9 @@ Zweryfikowanie własności domeny powoduje również, że jesteś administratore
 
 ## <a name="find-the-companys-global-admin"></a>Znajdowanie administratora globalnego firmy
 
-1. Z **ikony Ustawienia w** prawym górnym rogu strony Partner Center wybierz **pozycję Zarządzanie użytkownikami.**
+1. Z **ikony Ustawienia w** prawym górnym rogu strony Partner Center wybierz pozycję **Zarządzanie użytkownikami.**
 
-1. Filtruj według administratora globalnego w polu wyszukiwania. Zostanie wyświetlona lista administratorów globalnych w firmie. Jeśli firma nie ma jeszcze administratora globalnego, postępuj zgodnie z poniższymi instrukcjami.
+1. Filtruj według administratora globalnego w polu wyszukiwania. Zostanie wyświetlona lista administratorów globalnych w firmie. Jeśli Firma nie ma jeszcze administratora globalnego, postępuj zgodnie z poniższymi instrukcjami.
 
 ## <a name="next-steps"></a>Następne kroki
 

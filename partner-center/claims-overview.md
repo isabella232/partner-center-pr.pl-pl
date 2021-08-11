@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 180756cb5c658b5ed16119e03bfe9e1271b68599
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d82ea8da99dee232c40c2006d2b78a2baf10d1d34fd6bb1cdf7dccd949f397a7
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840352"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692602"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Zyskaj wspólne środki marketingowe
 

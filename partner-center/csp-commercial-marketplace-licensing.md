@@ -9,12 +9,12 @@ author: petand123
 ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73a02a0a6cad28939d21800c726811c8969ce9a2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2d8464b93f6f3215043775496baacc8c6abd907bf614db78725814c9bea59229
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837699"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690906"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Zarządzanie licencjonowaniem w ofertach na platformie handlowej
 
@@ -136,14 +136,14 @@ Użyj poniższej procedury, aby zaprosić klienta do wzięcia udziału w tej tra
 
 ## <a name="activate-manage-and-remove-your-licenses"></a>Aktywowanie i usuwanie licencji oraz zarządzanie nimi
 
-Gdy klient autoryzował relację z Toem, możesz rozpocząć dodawanie planów z oferty i przypisywanie licencji do każdego planu.
+Po autoryzowaniu relacji z Tobem przez klienta możesz rozpocząć dodawanie planów z oferty i przypisywanie licencji do każdego planu.
 
 1. W oknie Zarządzanie licencjami dla tej transakcji wybierz **pozycję +Dodaj plan**.
-2. Wypełnij pola **Plany dla tego rozwiązania** i Liczba **licencji,** a następnie wybierz **pozycję Aktualizuj licencje.** Licencje będą dostępne na stronie admin.microsoft.com, aby klienci mogą zarządzać pracownikami i je przypisywać.
+2. Wypełnij pola **Plany dla tego rozwiązania i** Liczba **licencji,** a następnie wybierz **pozycję Aktualizuj licencje.** Licencje będą dostępne na stronie admin.microsoft.com, aby klienci mogą zarządzać pracownikami i przypisywać je do pracowników.
 
-    - Aby zmienić liczbę licencji dla istniejącego planu, wprowadź nową liczbę w polu Liczba licencji, a następnie wybierz pozycję **Aktualizuj licencje.** 
+    - Aby zmienić liczbę licencji dla istniejącego planu, wprowadź nową liczbę w polu Liczba licencji, a następnie wybierz **pozycję Aktualizuj licencje.** 
 
-    - Aby dezaktywować lub usunąć licencje dla transakcji,  wybierz ikonę kosza w polu Akcje, a następnie wybierz pozycję **Aktualizuj licencje**.
+    - Aby dezaktywować lub usunąć licencje dla transakcji,  wybierz ikonę kosza w polu Akcje, a następnie wybierz **pozycję Aktualizuj licencje.**
 
 ## <a name="next-steps"></a>Następne kroki
 
