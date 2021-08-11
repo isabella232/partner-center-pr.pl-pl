@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 518c80d1e7b5c8c898f6e0508bdcca11f9e2e675fbd8afe5c327ec68877a0ed0
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 803d04b4496cd677f5a74049da32ed649d515819
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115678173"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102082"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>Resetowanie hasła użytkownika w Partner Center
 
@@ -23,7 +23,7 @@ ms.locfileid: "115678173"
 > [!NOTE]  
 > Jeśli jesteś zarejestrowanym użytkownikiem programu Dostawca rozwiązań w chmurze (CSP) w usłudze Microsoft Cloud Germany, zobacz Zarządzanie użytkownikami w usłudze [Partner Center for Microsoft Cloud Germany,](user-management-in-partner-center-for-microsoft-cloud-germany.md) aby uzyskać informacje na temat resetowania hasła użytkownika.
 
-Jeśli użytkownicy nie zapomną swoich haseł, przypisz im hasło tymczasowe. Mogą z niego korzystać przy następnym logować się do Partner Center.
+Jeśli użytkownik zapomni hasła, przypisz im hasło tymczasowe. Mogą z niego korzystać przy następnym logować się do Partner Center.
 
 ## <a name="reset-a-user-password-as-an-admin"></a>Resetowanie hasła użytkownika jako administrator
 

@@ -9,12 +9,12 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 04/15/2021
-ms.openlocfilehash: 7b862a75d8128a00411d23dba4de65b3d50172f8
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b50de8815afbc046f24abb09dcd5511abffd25dd573b502e3d592cf17760bd25
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844347"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693609"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Wymagania dotyczące rejestracji jako partner CSP rozliczający się bezpośrednio
 
@@ -31,7 +31,7 @@ Jako partner z rozliczeniami bezpośrednimi jesteś właścicielem relacji typu 
 |**Identyfikator MPN**   |Aktywne członkostwo w grupie Microsoft Partner Network identyfikator MPN dla lokalizacji, w której chcesz sprzedawać.   |
 |**Poręczenie**   |Urząd do akceptowania i podpisywania umów prawnych w imieniu organizacji.|
 |**Pomoc techniczna**   |Możliwość zapewnienia klientom pierwszego poziomu obsługi produktów w chmurze. <br/>Plan pomocy technicznej firmy Microsoft ( Advanced Support for Partners (ASfP) lub Pomoc techniczna Premier dla partnerów (PSfP) w zależności od potrzeb. [Porównaj plany pomocy technicznej.](https://partner.microsoft.com/support/partnersupport)<br/>WAŻNE: Przed zakupem planu pomocy technicznej należy przejść sprawdzenie środków. Gdy kontrola środków zostanie przekazana, otrzymasz wiadomość e-mail. |
-|**Wymaganie dotyczące przychodu**|Musi osiągnąć co najmniej 300 000 USD w Dostawca rozwiązań w chmurze rocznego przychodu programu w ciągu poprzednich 12 miesięcy jako odsprzedawca pośredni. Sprawdź, czy Twoja organizacja spełnia wymaganie dotyczące przychodów w [Partner Center Analytics.](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf) Partnerzy mogą przejrzeć swoje końcowe 12 miesięcy przychodów na Partner Center.<br/>Sprzedaż, która stanowi 300 000 USD na 12 miesięcy, podlega weryfikacji przez firmę Microsoft i może zostać poproszona o podanie dodatkowych informacji. Wymaganie dotyczące przychodu w wysokości 300 000 USD jest obliczane na podstawie przychodów z chmury i nie obejmuje oprogramowania bezterminowego w programie CSP.|
+|**Wymaganie dotyczące przychodu**|Musi osiągnąć co najmniej 300 000 USD w Dostawca rozwiązań w chmurze roku przychodu programu w ciągu poprzednich 12 miesięcy jako odsprzedawca pośredni. Sprawdź, czy Twoja organizacja spełnia wymaganie dotyczące przychodów w [Partner Center Analytics.](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf) Partnerzy mogą przejrzeć swoje końcowe 12 miesięcy przychodów na Partner Center.<br/>Sprzedaż, która stanowi 300 000 USD na 12 miesięcy, podlega weryfikacji przez firmę Microsoft i może zostać poproszona o podanie dodatkowych informacji. Wymaganie dotyczące przychodu w wysokości 300 000 USD jest obliczane na podstawie przychodu z chmury i wyklucza oprogramowanie bezterminowe w programie CSP.|
 |**Wymaganie dotyczące CSP**|Musi być odsprzedawcą pośrednim przez co najmniej 12 miesięcy.| 
 |**Konta do odebrania** |Infrastruktura organizacyjna do zarządzania rozliczeniami i aprowizowaniami klientów.|
 |**Zalecenie**|             |
@@ -49,7 +49,7 @@ Po sprawdzeniu, czy Firma spełnia wymagania dotyczące uprawnień do rejestracj
 
 ## <a name="transition-from-direct-to-indirect-reseller"></a>Przejście z odsprzedawcy bezpośredniego na odsprzedawcę pośredniego
 
-Bieżący partnerzy rozliczani bezpośrednio muszą spełniać nowe wymagania, aby pozostać w programie partnera rozliczania bezpośredniego w programie CSP. W przeciwnym razie [ich dostęp](restricted-direct-bill-capabilities.md) do funkcji rachunku bezpośredniego zostanie ostatecznie ograniczony i będzie można dłużej wykonywać określone zadania, takie jak dokonywanie nowych zakupów dla klientów.
+Bieżący partnerzy rozliczani bezpośrednio muszą spełniać nowe wymagania, aby pozostać w programie partnera rozliczania bezpośredniego w programie CSP. W przeciwnym razie [dostęp do funkcji](restricted-direct-bill-capabilities.md) rachunku bezpośredniego zostanie ostatecznie ograniczony i będzie można dłużej wykonywać określone zadania, takie jak dokonywanie nowych zakupów dla klientów.
 
 Jeśli zdecydujesz się na przejście z firmy z rachunku bezpośredniego na odsprzedawcę pośredniego, musisz wykonać kilka czynności. Aby dowiedzieć się więcej na temat przejścia, przeczytaj [transition from Dostawca rozwiązań w chmurze (CSP) direct partner to CSP indirect reseller (Przejście](transition-direct-to-indirect.md)od bezpośredniego partnera WSP do odsprzedawcy pośredniego programu CSP).
 

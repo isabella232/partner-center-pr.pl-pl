@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-support
-description: Dowiedz się więcej o typach pomocy technicznej, Dostawca rozwiązań w chmurze mogą zaoferować swoim klientom.
+description: Dowiedz się więcej o typach pomocy technicznej, Dostawca rozwiązań w chmurze programu mogą zaoferować swoim klientom.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d8e4781ffa64269056c684d9ab10a29ff97dacde
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 9b22279d3825ab1d82e03b43503712e4864e16531964fb9493278cf8855c3be9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841060"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693099"
 ---
-# <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Zapewnianie pomocy technicznej w celu pomocy klientom w konfigurowaniu i używaniu subskrypcji oraz zarządzaniu nimi
+# <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Zapewnianie pomocy technicznej, która pomaga klientom w konfigurowaniu i używaniu subskrypcji oraz zarządzaniu nimi
 
 
 **Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent pomocy technicznej | Agent administracyjny
@@ -32,21 +32,21 @@ W Partner Center można:
 
 1. Z menu **Partner Center** wybierz pozycję **Klienci.** Wybierz klienta z listy.
 2. W menu klienta wybierz pozycję **Zarządzanie usługami.**
-3. W sekcji **Administrowanie** usługami wybierz usługę, z która chcesz pracować, aby otworzyć portal zarządzania dla usługi.
-4. Jeśli znajdziesz problem z kontem klienta, na przykład z usługami, które nie są w stanie obsługi lub środowisko jest w stanie obniżonej wydajności, zacznij od sprawdzenia kondycji usługi. Zobacz [Sprawdzanie kondycji usługi](check-service-health.md).
-5. Aby eskalować trwający problem do firmy Microsoft, należy złożyć żądanie obsługi. Zobacz [Zgłaszanie problemów w imieniu klienta.](report-problems-on-behalf-of-a-customer.md)
+3. W sekcji **Administrowanie usługami** wybierz usługę, z która chcesz pracować, aby otworzyć portal zarządzania dla usługi.
+4. Jeśli znajdziesz problem z kontem klienta, na przykład z usługami, które nie są w stanie obniżonej wydajności, zacznij od sprawdzenia kondycji usługi. Zobacz [Sprawdzanie kondycji usługi](check-service-health.md).
+5. Aby eskalować bieżący problem do firmy Microsoft, należy złożyć żądanie obsługi. Zobacz [Zgłaszanie problemów w imieniu klienta.](report-problems-on-behalf-of-a-customer.md)
 
 ## <a name="microsoft-partner-support-guidance"></a>Wskazówki dotyczące pomocy technicznej dla partnerów firmy Microsoft
 
-Partnerzy, którzy inicjują transakcje w modelu CSP, są zaufanymi doradcami klientów i są właścicielami relacji, w tym pomocy technicznej, gdy ich klient ma pytanie lub problem. Dzięki punktom dotykowym pomocy technicznej partnerzy mogą dowiedzieć się więcej o kliencie i jego firmie, aby identyfikować nowe usługi i rozwiązania, które wpływają na wartość.
+Partnerzy obsługujący transakcje w modelu CSP są zaufanymi doradcami klientów i są właścicielami relacji typu end-to-end, w tym pomocy technicznej, gdy ich klient ma pytanie lub problem. Dzięki punktom obsługi partnerzy mogą dowiedzieć się więcej o kliencie i jego firmie, aby identyfikować nowe usługi i rozwiązania, które wpływają na wartość.
 
-Aby spełnić wymaganie dotyczące pomocy technicznej, partner może odsprzedać pomoc techniczną z innej jednostki, może zlecić całą lub część struktury pomocy technicznej i/lub może skonfigurować strukturę w celu bezpośredniego świadczenia pomocy technicznej.  Partner może naliczać opłaty za całą lub część pomocy technicznej udostępnianej klientom. Partner powinien przedstawić swoim klientom pomoc techniczną, godziny obsługi i metodę kontaktu oraz cennik (w przypadku naliowania opłat za pomoc techniczną). 
+Aby spełnić wymaganie dotyczące pomocy technicznej, partner może odsprzedać pomoc techniczną od innej jednostki, może zlecić całość lub część struktury pomocy technicznej i/lub może skonfigurować strukturę w celu bezpośredniego świadczenia pomocy technicznej.  Partner może naliczać opłaty za całą pomoc techniczną zapewnianą klientom lub jej część. Partner powinien przedstawić swoim klientom zapewnianą pomoc techniczną, godziny obsługi i metodę kontaktu oraz cennik (w przypadku naliowania opłat za pomoc techniczną). 
 
-Partnerzy muszą otrzymywać przychodzące żądania pomocy technicznej od klientów, diagnozować problemy w sposób najlepiej korzystający z możliwości partnera, a następnie rozwiązywać problemy, które znajdują się w zakresie granic pomocy technicznej linii bazowej. Jeśli partner nie może rozwiązać problemu, może eskalować problemy do firmy Microsoft za pośrednictwem następujących pojazdów pomocy technicznej:
+Partnerzy muszą otrzymywać przychodzące żądania pomocy technicznej od klientów, diagnozować problemy w najlepszy sposób, a następnie rozwiązywać problemy, które znajdują się w zakresie granic podstawowej pomocy technicznej. Jeśli partner nie może rozwiązać problemu, może eskalować problemy do firmy Microsoft za pośrednictwem następujących pojazdów pomocy technicznej:
 
-- **Obsługa problemów** komercyjnych jest dostępna dla wszystkich partnerów w programie CSP
+- **Pomoc techniczna** dla problemów komercyjnych jest dostępna dla wszystkich partnerów w programie CSP
 
-- **Pomoc** techniczna w zakresie problemów technicznych jest dostępna za pośrednictwem:
+- **Pomoc techniczna** jest dostępna za pośrednictwem:
 
   - Pomoc techniczna Premier dla partnerów (oparta na opłatach)
   - Zaawansowana pomoc techniczna dla partnerów (oparta na opłatach)
@@ -64,4 +64,4 @@ Każda usługa online ma specyficzne i szczegółowe wymagania dotyczące zapewn
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Zgłaszanie problemu z usługą w imieniu klienta — w tym informacji o tym, kiedy i jak to zrobić](report-problems-on-behalf-of-a-customer.md)
+- [Zgłaszanie problemu z usługą w imieniu klienta — w tym o tym, kiedy i jak to zrobić](report-problems-on-behalf-of-a-customer.md)

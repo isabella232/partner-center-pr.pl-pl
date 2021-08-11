@@ -8,12 +8,12 @@ description: Uzyskaj odpowiedzi na pytania dotyczące wycofania Partner Membersh
 author: jasongroce
 ms.author: misherma
 ms.localizationpriority: high
-ms.openlocfilehash: 9f46389ac0c1174690090d571305d6163cabb09e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 5569cc46a52a332dfee5278ee2fa8d7461262b9fd49d94b99fd682dc3f913820
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837309"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694017"
 ---
 # <a name="partner-membership-center-retirement-faq"></a>Partner Membership Center — często zadawane pytania dotyczące wycofania
 **Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami

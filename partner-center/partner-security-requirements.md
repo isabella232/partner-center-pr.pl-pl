@@ -9,28 +9,28 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8966d744dfb70a7850ef6d3dd68d2051344fe9cd
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 59e3011099755b9342a00574e0c5bb390e2fd7030a38996368c4127d2fca9518
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115101201"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694000"
 ---
 # <a name="security-requirements-for-using-partner-center-or-partner-center-apis"></a>Wymagania dotyczące zabezpieczeń dotyczące korzystania z interfejsów API Partner Center lub Partner Center api
 
 **Odpowiednie role:** wszyscy Partner Center użytkowników
 
-W tym artykule wyjaśniono obowiązkowe wymagania dotyczące zabezpieczeń dla doradców, dostawców usług Panel sterowania i partnerów biorących udział w programie Dostawca rozwiązań w chmurze, a także opcje uwierzytelniania i inne zagadnienia dotyczące zabezpieczeń. Zabezpieczenia i ochrona prywatności należą do naszych głównych priorytetów. Wiemy, że najlepszą obroną jest zapobieganie i że jesteśmy tylko tak silni, jak nasze słabe łącze. Dlatego potrzebujemy wszystkich w naszym ekosystemie, aby działać i zapewnić odpowiednie zabezpieczenia.
+W tym artykule wyjaśniono obowiązkowe wymagania dotyczące zabezpieczeń dla doradców, dostawców usług Panel sterowania i partnerów biorących udział w programie Dostawca rozwiązań w chmurze, a także opcje uwierzytelniania i inne zagadnienia dotyczące zabezpieczeń. Zabezpieczenia i ochrona prywatności należą do naszych najwyższych priorytetów. Wiemy, że najlepszą obroną jest zapobieganie i że jesteśmy tylko tak silni, jak nasze słabe łącze. Dlatego potrzebujemy wszystkich w naszym ekosystemie, aby działać i zapewnić odpowiednie zabezpieczenia.
 
 ## <a name="mandatory-security-requirements"></a>Obowiązkowe wymagania dotyczące zabezpieczeń
 
-Partnerzy, którzy nie implementują obowiązkowych wymagań dotyczących zabezpieczeń, nie będą mogli wykonać transakcji w programie Dostawca rozwiązań w chmurze ani zarządzać dzierżawami klientów przy użyciu delegowanych praw administratora. Ponadto partnerzy, którzy nie wdrażają wymagań dotyczących zabezpieczeń, mogą stanowić zagrożenie dla ich uczestnictwa w programach. Warunki skojarzone z wymaganiami zabezpieczeń partnera zostały dodane do Microsoft Partner Agreement. W odniesieniu do doradców zostaną spełnione te same wymagania umowne.
+Partnerzy, którzy nie implementują obowiązkowych wymagań dotyczących zabezpieczeń, nie będą mogli wykonać transakcji w programie Dostawca rozwiązań w chmurze ani zarządzać dzierżawami klientów przy użyciu delegowanych praw administratora. Ponadto partnerzy, którzy nie wdrażają wymagań dotyczących zabezpieczeń, mogą stanowić zagrożenie dla uczestnictwa w programach. Warunki skojarzone z wymaganiami zabezpieczeń partnera zostały dodane do Microsoft Partner Agreement. W odniesieniu do doradców zostaną spełnione te same wymagania umowne.
 
 W celu ochrony Ciebie i Twoich klientów wymagamy od partnerów natychmiastowego podjęcia następujących działań:  
 
 1. **Włącz uwierzytelnianie wieloskładnikowe (MFA) dla wszystkich kont użytkowników w dzierżawie partnera.** Należy wymusić uwierzytelniania wieloskładnikowego na wszystkich kontach użytkowników w dzierżawach partnera. Usługa MFA musi zakwestionować użytkowników podczas logowania się do komercyjnych usług w chmurze firmy Microsoft lub transakcji w programie Dostawca rozwiązań w chmurze za pośrednictwem usługi Partner Center lub za pośrednictwem interfejsów API.
 
-2. **Przyjmij model aplikacji zabezpieczonych platformę .** Wszyscy partnerzy zintegrowani z Partner Center API muszą przyjąć platformę [model aplikacji zabezpieczonych dla](/partner-center/develop/enable-secure-app-model) wszystkich aplikacji i aplikacji modelu uwierzytelniania użytkowników.
+2. **Przyjmij model aplikacji zabezpieczonych platformę .** Wszyscy partnerzy zintegrowani z interfejsami API Partner Center muszą przyjąć platformę [model aplikacji zabezpieczonych dla](/partner-center/develop/enable-secure-app-model) wszystkich aplikacji i aplikacji modelu uwierzytelniania użytkowników.
 
     > [!IMPORTANT]
     > Zdecydowanie zalecamy partnerom zaimplementowanie interfejsu model aplikacji zabezpieczonych w celu integracji z interfejsem API firmy Microsoft, takim jak Azure Resource Manager lub Microsoft Graph, lub w przypadku korzystania z automatyzacji, takiej jak program PowerShell, przy użyciu poświadczeń użytkownika, aby uniknąć zakłóceń w przypadku wymuszania uwierzytelniania wieloskładnikowego.
@@ -58,7 +58,7 @@ Jedną z opcji, które partnerzy mogą wybrać w celu zaimplementowania wymagań
 
 - Wartości domyślne zabezpieczeń to ogólne zastąpienie zasad punktów odniesienia w wersji zapoznawczej. Gdy partner włączy wartości domyślne zabezpieczeń, nie będzie już mógł włączyć zasad bazowych.
 
-- W przypadku ustawień domyślnych zabezpieczeń wszystkie zasady zostaną włączone jednocześnie.
+- W przypadku wartości domyślnych zabezpieczeń wszystkie zasady zostaną włączone jednocześnie.
 
 - W przypadku partnerów, którzy [korzystają z](/azure/active-directory/conditional-access/concept-conditional-access-policy-common)dostępu warunkowego, wartości domyślne zabezpieczeń nie [będą dostępne.](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults)
 
@@ -83,7 +83,7 @@ W przypadku wymuszania uwierzytelniania wieloskładnikowego starsze uwierzytelni
 
 #### <a name="do-you-have-office-365-users-with-licenses-associated-with-your-partner-tenant"></a>Czy masz użytkowników Office 365 z licencjami skojarzonymi z dzierżawą partnera?
 
-Przed zaimplementowaniem dowolnego rozwiązania zalecamy określenie, które wersje Microsoft Office użytkowników w dzierżawie partnera. Istnieje prawdopodobieństwo, że użytkownicy będą mieć problemy z łącznością z aplikacjami, Outlook. Przed wymusdaniem uwierzytelniania wieloskładnikowego należy upewnić się, że używasz programu Outlook 2013 SP1 lub nowszego oraz że Twoja organizacja ma włączone nowoczesne uwierzytelnianie. Aby uzyskać więcej informacji, zobacz [Włączanie nowoczesnego uwierzytelniania w Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online). 
+Przed zaimplementowaniem dowolnego rozwiązania zalecamy określenie, które wersje Microsoft Office użytkowników w dzierżawie partnera. Istnieje prawdopodobieństwo, że użytkownicy będą mieć problemy z łącznością z aplikacjami, Outlook. Przed wymuśm uwierzytelnianie wieloskładnikowe należy upewnić się, że używasz programu Outlook 2013 SP1 lub nowszego oraz że Twoja organizacja ma włączone nowoczesne uwierzytelnianie. Aby uzyskać więcej informacji, zobacz [Włączanie nowoczesnego uwierzytelniania w Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online). 
 
 Aby włączyć nowoczesne uwierzytelnianie dla urządzeń Windows z zainstalowanym programem Microsoft Office 2013, należy utworzyć dwa klucze rejestru. Zobacz [Włączanie nowoczesnego uwierzytelniania dla Office 2013 na Windows urządzeniach.](/office365/admin/security-and-compliance/enable-modern-authentication)
 
@@ -103,11 +103,11 @@ Ponieważ wymuszamy uwierzytelnianie wieloskładnikowe dla każdego użytkownika
 
 - Panel sterowania używany do aprowizowanie zasobów w imieniu klientów
 
-- Integracja z dowolną platformą używaną do fakturowania (w odniesieniu do programu CSP) i obsługą klientów
+- Integracja z dowolną platformą używaną do fakturowania (w odniesieniu do programu CSP) i wspierania klientów
 
 - Skrypty programu PowerShell, które używają modułów Az, AzureRM, Azure AD, MS Online i innych
 
-Powyższe listy nie są kompleksowe. Dlatego ważne jest, aby przeprowadzić pełną ocenę dowolnej aplikacji lub usługi w środowisku, która używa poświadczeń użytkownika do uwierzytelniania. Aby wziąć pod uwagę wymaganie uwierzytelniania wieloskładnikowego, należy zaimplementować wskazówki w [model aplikacji zabezpieczonych, gdy](/partner-center/develop/enable-secure-app-model) jest to możliwe.
+Powyższe listy nie są kompleksowe. Dlatego ważne jest, aby przeprowadzić pełną ocenę dowolnej aplikacji lub usługi w środowisku, która używa poświadczeń użytkownika do uwierzytelniania. Aby wziąć pod uwagę wymaganie uwierzytelniania wieloskładnikowego, należy zaimplementować wskazówki w [model aplikacji zabezpieczonych, jeśli](/partner-center/develop/enable-secure-app-model) jest to możliwe.
 
 ## <a name="accessing-your-environment"></a>Uzyskiwanie dostępu do środowiska
 
@@ -117,11 +117,11 @@ Aby lepiej zrozumieć, co lub kto uwierzytelnia bez konieczności uwierzytelnian
 
 Partner security requirements are enforced by Azure AD, and Partner Center, by checking for the presence of the MFA claim to identify that MFA verification has place. Od 18 listopada 2019 r. firma Microsoft aktywowała dodatkowe zabezpieczenia (wcześniej znane jako "wymuszanie techniczne") dzierżawom partnerskim.
 
-Po aktywacji użytkownicy w dzierżawie partnera są proszeni o ukończenie weryfikacji MFA podczas wykonywania jakichkolwiek operacji administratora w imieniu (AOBO), uzyskiwania dostępu do portalu Partner Center lub wywoływania interfejsów API Partner Center uwierzytelniania. Aby uzyskać więcej informacji, zobacz [Temat Wymuszanie uwierzytelniania wieloskładnikowego (MFA) dla dzierżawy partnera.](partner-security-requirements-mandating-mfa.md) 
+Po aktywacji użytkownicy w dzierżawie partnera są proszeni o ukończenie weryfikacji MFA podczas wykonywania jakichkolwiek operacji administratora w imieniu (AOBO), uzyskiwania dostępu do portalu Partner Center lub wywoływania interfejsów API Partner Center uwierzytelniania. Aby uzyskać więcej informacji, [zobacz Temat Wymuszanie uwierzytelniania wieloskładnikowego (MFA) dla dzierżawy partnera.](partner-security-requirements-mandating-mfa.md) 
 
 Partnerzy, którzy nie spełnili wymagań, powinni wdrożyć te miary tak szybko, jak to możliwe, aby uniknąć zakłóceń w działalności biznesowej. Jeśli używasz usługi Azure Active Directory Multi-Factor Authentication lub ustawień domyślnych zabezpieczeń usługi Azure AD, nie musisz nic więcej zrobić.
 
-Jeśli używasz rozwiązania MFA innej firmy, istnieje prawdopodobieństwo, że oświadczenie MFA nie zostanie wystawione. W przypadku braku tego oświadczenia usługa Azure AD nie będzie mogła określić, czy żądanie uwierzytelnienia zostało zakwestionowane przez usługę MFA. Aby uzyskać informacje na temat sprawdzania, czy rozwiązanie wystawia oczekiwane oświadczenie, przeczytaj temat Testing the Partner Security Requirements (Testowanie [wymagań zabezpieczeń partnera).](/powershell/partnercenter/test-partner-security-requirements) 
+Jeśli używasz rozwiązania MFA innej firmy, istnieje prawdopodobieństwo, że oświadczenie MFA nie zostanie wystawione. Jeśli to oświadczenie nie zostanie brakujące, usługa Azure AD nie będzie mogła określić, czy żądanie uwierzytelnienia zostało zakwestionowane przez usługę MFA. Aby uzyskać informacje na temat sprawdzania, czy rozwiązanie wystawia oczekiwane oświadczenie, przeczytaj temat Testing the Partner Security Requirements (Testowanie [wymagań zabezpieczeń partnera).](/powershell/partnercenter/test-partner-security-requirements) 
 
 > [!IMPORTANT]
 > Jeśli rozwiązanie innej firmy nie wystawia oczekiwanego oświadczenia, należy współpracować z dostawcą, który opracował rozwiązanie, aby określić, jakie działania należy podjąć.

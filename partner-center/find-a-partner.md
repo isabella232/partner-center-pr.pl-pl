@@ -8,20 +8,20 @@ description: Jako partner firmy Microsoft możesz mieć pytania dotyczące sposo
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 1a5da21326ae789e4b6f570c14f9a52e0348bb64
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 700e63d82f657d5f6921d870a1aec15fcda580a91bb9018c4e9261e6b2f92bd7
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845299"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693524"
 ---
 # <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Znajdź partnera lub dostawcę rozwiązań, aby odpowiedzieć na pytania dotyczące programów, licencjonowania lub transakcji klientów 
 
 **Odpowiednie role:** Wszyscy partnerzy firmy Microsoft
 
-Ten artykuł zawiera informacje dla partnerów firmy Microsoft dotyczące sposobu znalezienia innych partnerów, którzy mogą pomóc im i ich klientom odnosić sukcesy z produktami i usługami firmy Microsoft.
+Ten artykuł zawiera informacje dla partnerów firmy Microsoft dotyczące sposobu znalezienia innych partnerów, którzy mogą pomóc im i ich klientom odnosić sukcesy dzięki produktom i usługom firmy Microsoft.
 
-## <a name="different-microsoft-partners-and-solution-providers"></a>Różni partnerzy firmy Microsoft i dostawcy rozwiązań
+## <a name="different-microsoft-partners-and-solution-providers"></a>Różni partnerzy i dostawcy rozwiązań firmy Microsoft
 
 W ekosystemie partnerów firmy Microsoft istnieje wiele typów partnerów lub dystrybutorów. Kilka z tych, które zostały uwzględnione w tym artykule, to:
 

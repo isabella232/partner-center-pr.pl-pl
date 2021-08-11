@@ -9,14 +9,14 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d8d9bc05d2fe5ca87c5fa9f13371305a48fb6a52
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b60452fe1a5c73a4ae1ba630f7304d7d45b60eeb58f1b8fe6d67e299fcf27cc9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842715"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692946"
 ---
-# <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Sprawdzanie kondycji usługi pod uwagę klienta, który zgłasza potencjalny problem z usługą lub jego problem z usługą
+# <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Sprawdzanie kondycji usługi dla klienta, który zgłasza potencjalny problem z usługą lub jego przesłonić
 
 **Odpowiednie role:** Agent administracyjny | Administrator globalny | Agent pomocy technicznej | Agent sprzedaży
 
@@ -31,7 +31,7 @@ W tym artykule wyjaśniono, jak używać Partner Center do sprawdzania kondycji 
 >[!NOTE] 
 > Linki kondycji usługi na stronach **Zarządzanie** usługami przejmą partnera do centrum administracyjnego M365 lub Azure Portal jako **administrator delegowany.** Gdy partner dojedze do jednego z miejsc docelowych, może przejść do stron kondycji usługi w obu portalach, aby uzyskać więcej informacji na temat outage.
  
-Podczas 30.08.07.2017 firma Microsoft regularnie aktualizuje usługę, aby rozwiązać problem. Te powiadomienia są również wyświetlane w portalu Microsoft Azure lub w centrum Microsoft 365 administracyjnego.
+Podczas 30.08.08.2017 firma Microsoft regularnie aktualizuje usługę, aby rozwiązać problem. Te powiadomienia są również wyświetlane w portalu Microsoft Azure lub w centrum Microsoft 365 administracyjnego.
 
 ## <a name="next-steps"></a>Następne kroki 
 

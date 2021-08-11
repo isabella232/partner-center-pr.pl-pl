@@ -9,19 +9,19 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 196009d9271324377be02d0b2d12ba8a4d7a993c
-ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
+ms.openlocfilehash: 670a438446f2826f6a2eb42a3282ab00babd0ba5225d7d65a73fd8d314b03569
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112489955"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693830"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Skojarzenia klientów za pośrednictwem modelu CPOR (Claimed Partner of Record) dla Microsoft 365 i Dynamics 365
 
 
 **Odpowiednie role:** Administrator zachęt
 
-1 października 2019 r. firma Microsoft zaczęła używać modelu Claiming Partner of Record (CPOR) do zarządzania skojarzeniami posiadanych przez Ciebie z klientami usług Microsoft 365 i Dynamics 365 w zakresie sprzedaży usług online (OSA), korzystania z usług online (OSU)-Microsoft 365 i zachęt OSU-Business Application.
+1 października 2019 r. firma Microsoft rozpoczęła korzystanie z modelu CPOR (Claiming Partner of Record) do zarządzania skojarzeniami z klientami usług Microsoft 365 i Dynamics 365 w odniesieniu do sprzedaży usług online (OSA), korzystania z usług online (OSU Microsoft 365) i zachęt OSU-Business Application.
 
 >[!Important]
 > Roszczenia dotyczące skojarzenia klienta (CPOR) dotyczą tylko sprzedaży usług online (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 i OSU-Business zachęt aplikacji. Jeśli przesyłasz roszczenie dotyczące współpracy dla innego programu, takiego jak Dostawca rozwiązań w chmurze (CSP), Managed Reseller, Hosting lub Surface, zapoznaj się z procesem roszczeń o współpracy opisanym tutaj. <br><br>Po przesłaniu roszczenia firma Microsoft je weryfikuje. W tym momencie możemy poprosić Cię o dodatkowe informacje. Powiadomimy również klienta o żądaniu skojarzenia. Klienci mają pięć dni roboczych na rezygnację. Jeśli nie zrezygnują, skojarzenie z tą konkretną dzierżawą i obciążeniem będzie oficjalne. W tym momencie będziesz mieć dostęp do danych użycia klienta. 
@@ -54,7 +54,7 @@ Do ukończenia roszczenia potrzebne są następujące informacje:
 
 Należy również zrozumieć następujące kwestie:
 
-- Jeśli masz istniejących Microsoft 365, musisz ponownie skojarzyć się z tymi, którzy chcą nadal zdobywać zachęty OSU, korzystając z tego procesu.
+- Jeśli masz istniejących Microsoft 365, musisz ponownie skojarzyć się z tymi, z których chcesz nadal zdobywać zachęty OSU, korzystając z tego procesu.
 
 - Jeśli masz istniejące skojarzenia z usługą Dynamics 365 lub Power BI, te skojarzenia pozostaną ważne do czasu wygaśnięcia ich subskrypcji.
 

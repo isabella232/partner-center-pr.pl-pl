@@ -1,6 +1,6 @@
 ---
 title: Lista przykładowych zapytań
-description: Użyj przykładowych zapytań, aby programowo uzyskać dostęp do danych analitycznych szczegółowych informacji partnerów.
+description: Użyj przykładowych zapytań, aby programowo uzyskać dostęp do danych analitycznych szczegółowych informacji o partnerach.
 ms.topic: reference
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
@@ -8,16 +8,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 36da8a59548142bf09daf42dbc936fba15d46d1e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: fff74f7bf6c58f5845c491d23a1f71c3da177e0c126e863205f0fb18eb07b7c9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844687"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693286"
 ---
 # <a name="sample-queries-for-partner-center-insights-report"></a>Przykładowe zapytania dotyczące Partner Center szczegółowych informacji
 
-Ten artykuł zawiera przykładowe zapytania dotyczące raportów Szczegółowe informacje partnerów. Możesz użyć tych zapytań, wywołując punkt końcowy interfejsu API tworzenia zapytań raportów. W razie potrzeby wywołanie [interfejsu API](insights-programmatic-access-paradigm.md#create-report-query-api) tworzenia zapytania raportu można zmodyfikować w celu dodania większej liczby kolumn, dostosowania okresu obliczeniowego i dodania warunków filtrowania.
+Ten artykuł zawiera przykładowe zapytania dotyczące raportów Szczegółowe informacje partnerów. Możesz użyć tych zapytań, wywołując punkt końcowy interfejsu API tworzenia zapytań raportów. W razie potrzeby wywołanie [interfejsu API tworzenia zapytania](insights-programmatic-access-paradigm.md#create-report-query-api) raportu można zmodyfikować w celu dodania większej liczby kolumn, dostosowania okresu obliczeniowego i dodania warunków filtrowania.
 
 Aby uzyskać szczegółowe informacje o nazwach kolumn, atrybutach i opisach, zapoznaj się z [definicjami danych](insights-data-definitions.md).
 
@@ -165,7 +165,7 @@ TIMESPAN LAST_6_MONTHS
 
 ### <a name="by-total-acr"></a>Według łącznej liczby ACR
 
-Lista subskrypcji użycia platformy Azure, w których łączna liczba usługi ACR jest większa niż 20 000 w ciągu ostatnich sześciu miesięcy
+Lista subskrypcji użycia platformy Azure, w których łączna liczba subskrypcji usługi ACR jest większa niż 20 000 w ciągu ostatnich sześciu miesięcy
 
 ```sql
 SELECT SubscriptionId, ServiceName, CustomerName, Month, UsageUnits, UsageQuantity, TotalACR 

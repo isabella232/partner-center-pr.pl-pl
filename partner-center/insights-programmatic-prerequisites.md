@@ -8,12 +8,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 12c466cce37ac252fedf5f72ef90e390bb1af256
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 0f94b61e5228241e0314bca3443a8d5378d14916872e2bf3a4271aa7e6fae9f6
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845095"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693306"
 ---
 # <a name="prerequisites-to-programmatically-access-analytics-data"></a>Wymagania wstępne dotyczące programowego uzyskiwania dostępu do danych analitycznych
 
@@ -23,7 +23,7 @@ Aby programowo uzyskać dostęp do danych analitycznych szczegółowych informac
 
 ## <a name="mpn-program-enrollment"></a>Rejestracja w programie MPN
 
-Aby programowo uzyskać dostęp do danych analizy analizy partnerów, musisz być zarejestrowany w programie MPN i mieć Partner Center konto. Aby dowiedzieć się, jak to zrobić, [zobacz Tworzenie konta MPN w u Partner Center](mpn-create-a-partner-center-account.md)
+Aby programowo uzyskać dostęp do danych analitycznych szczegółowych informacji o partnerach, musisz być zarejestrowany w programie MPN i mieć Partner Center konto. Aby dowiedzieć się, jak to zrobić, [zobacz Tworzenie konta MPN w u Partner Center](mpn-create-a-partner-center-account.md)
 
 ## <a name="create-azure-active-directory-aad-application"></a>Tworzenie Azure Active Directory (AAD)
 
@@ -31,7 +31,7 @@ Zwykłych poświadczeń użytkownika nie można używać do programowego dostęp
 
 ## <a name="assign-executive-report-viewer-erv-role-to-the-user"></a>Przypisywanie użytkownikowi roli Executive Report Viewer (ERV)
 
-Aby programowo uzyskać dostęp do danych analizy szczegółowych informacji o partnerach, musisz mieć programowy programowy wgląd w szczegółowe dane partnerów, czyli E Aby dowiedzieć się, jak przypisać rolę ERV do użytkownika, zobacz [Partner Center Szczegółowe informacje dostępu opartego](insights-roles.md) na rolach — Partner Center
+Aby programowo uzyskać dostęp do danych analitycznych szczegółowych informacji o partnerach, musisz mieć programowy programowy wgląd w szczegółowe dane partnerów, czyli ERV (Executive Report Viewer). Aby dowiedzieć się, jak przypisać rolę ERV do użytkownika, zobacz [Partner Center Szczegółowe informacje dostępu opartego](insights-roles.md) na rolach — Partner Center
 
 ## <a name="generate-an-aad-token"></a>Generowanie tokenu usługi AAD
 

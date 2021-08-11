@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d03300ec89a877af3e02b6bd6567f6b1a832a397
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 7db8a3a7cd960532ed99f5c2a5262b0f37a8b4ef011325b8bb0d9685cfefdae0
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115101740"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693218"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Ceny i oferty dla usług Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure i innych
 
@@ -24,9 +24,9 @@ Aby wyświetlić najnowsze oferty i Dostawca rozwiązań w chmurze (CSP), na pul
 
 - **Usługi oparte na licencjach** zawierają informacje o cenach usług Office 365, Enterprise Mobility, Security E3 i Dynamics 365. Sekcja cennika opartego na licencjach zawiera bieżące i zapoznawcze ceny oraz macierz listy ofert. Cenniki obejmują ceny cennika i szacowane ceny detaliczne (ERP) dla ofert we wszystkich obsługiwanych walutach. Macierz listy ofert zawiera informacje o dostępności na rynku i inne ważne informacje o ofertach. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
    > [!NOTE]
-   > Ceny list i ERP są dla miesięcznej częstotliwości rozliczeń. W przypadku rocznej częstotliwości rozliczeń należy pomnożyć cenę miesięczną przez 12.
-- **Usługi oparte na użyciu** zawierają informacje o cenach Microsoft Azure i Visual Studio. Możesz również użyć usług [platformy Azure w kalkulatorze cen programu CSP.](https://azure.microsoft.com/pricing/calculator/) Pobieranie oparte na użyciu zawiera cenniki programu CSP dla wszystkich obsługiwanych walut i pliki cen usług udostępnionych w systemie ERP. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
-- **Microsoft Azure wystąpienia zarezerwowane zawierają** informacje o cenach dla wszystkich obsługiwanych walut dla wystąpień zarezerwowanych platformy Azure. Pobieranie cennika obejmuje również cennik usług udostępnionych w systemie ERP. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
+   > Ceny list i ERP są dla miesięcznej częstotliwości rozliczeń. W przypadku rocznej częstotliwości rozliczeń pomnóż cenę miesięczną przez 12.
+- **Usługi oparte na użyciu zawierają** informacje o cenach Microsoft Azure i Visual Studio. Możesz również użyć usług [platformy Azure w kalkulatorze cen programu CSP.](https://azure.microsoft.com/pricing/calculator/) Pobieranie oparte na użyciu zawiera zarówno cenniki dostawców usług w chmurze dla wszystkich obsługiwanych walut, jak i pliki cen usług udostępnionych w systemie ERP. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
+- **Microsoft Azure wystąpienia zarezerwowane zawierają** informacje o cenach wszystkich obsługiwanych walut dla wystąpień zarezerwowanych platformy Azure. Pobieranie cennika obejmuje również cennik usług udostępnionych w systemie ERP. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
 - **Subskrypcje oprogramowania obejmują** ceny subskrypcji oprogramowania opartych na terminach dla wszystkich obsługiwanych walut. Plik price zawiera wszystkie obsługiwane waluty z ceną cennika i sugerowaną przez producenta ceną detaliczną (MSRP). Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
 - **Cennik planu platformy Azure** zawiera informacje o cenach usług użycia planu platformy Azure i cennik rezerwacji planu platformy Azure. Ceny są cenami bezpośrednimi lub ERP i można je pobrać dla dowolnego obsługiwanego rynku. Dane w tych plikach są odświeżane codziennie.
 - **Kursy wymiany walut są** używane do obliczania rozliczeń naliczanych między USD a walutą lokalną partnerów. Stawki są aktualizowane pierwszego dnia każdego miesiąca i mają wartość true dla danego miesiąca, które są udostępniane. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
@@ -52,7 +52,7 @@ Usługi oparte na licencjach obejmują podgląd cennika z 30-dniową wyprzedzeni
 |Typ umowy licencyjnej   |Typy umów licencyjnych mogą być firmowe, rządowe lub akademickie. Typ umowy określa typy klientów, którym można sprzedawać ofertę.|
 |Jednostka zakupu   |Czas trwania zakupionej oferty. Jednostki zakupu zazwyczaj są miesięczne.   |
 |Typ licencji pomocniczej   |Dodatkowe typy licencji będą nieo określone, dodatek lub wersja próbna. Dodatek wskazuje, że istnieją wstępnie wymagane produkty, które klient musi zakupić przed zakupem dodatku.|
-|Typ klienta końcowego   |Wiąże się z typem umowy licencyjnej: licencja firmowa — odsprzedawca chmury firmowy, licencja dla instytucji rządowych — odsprzedawca chmury dla instytucji rządowych lub licencja akademickia — odsprzedawca chmury lub odsprzedawca chmury student   |
+|Typ klienta końcowego   |Odnosi się z powrotem do typu umowy licencyjnej: licencja firmowa — odsprzedawca chmury firmowy, licencja dla instytucji rządowych — odsprzedawca chmury dla instytucji rządowych lub licencja akademickia — odsprzedawca chmury lub odsprzedawca chmury student   |
 |Cennik   |Cena, jaką zapłaci partner   |
 |Cena ERP   |Szacowana lub zalecana cena detaliczna dla klienta   |
 
@@ -65,7 +65,7 @@ Jednak cennik oparty na użyciu platformy Azure nie ma wersji zapoznawczej. Part
 |**Typ produktu**   |**Przykłady produktów**  |**Dostępna wersja zapoznawcza** |**Zmienianie szczegółów**|
 |-----------------------|:-----------------------|:-------------------|------------------|
 |Oparte na licencjach|Office, Dynamics, Intune, Windows Enterprise|30-dniowy|Wyświetlanie zmian cen oznaczonych jako CHNG w cennikach wersji zapoznawczej|
-|Na podstawie użycia|Zasoby platformy Azure|Niedostępne|Dziennik zmian dostępny na karcie Historia zmian cennika z **poprzedniego** miesiąca|
+|Oparte na użyciu|Zasoby platformy Azure|Niedostępne|Dziennik zmian dostępny na karcie Historia zmian cennika z **poprzedniego** miesiąca|
 |Oprogramowanie||Niedostępne|Ręczne porównywanie cenników z miesiąca na miesiąc|
 |Rezerwacje|Maszyny wirtualne, z przedpłatą|Niedostępne|Ręczne porównywanie cenników z miesiąca na miesiąc|
 
@@ -76,14 +76,14 @@ Ceny oparte na użyciu mogą zmieniać się w ciągu miesiąca. Aby uzyskać "bi
 
 ## <a name="pricing-and-special-segments"></a>Cennik i segmenty specjalne
 
-CSP — oferuje niektóre usługi dla specjalnych segmentów rynku, takich jak edukacja, organizacje niedochodowe i chmura społeczności dla instytucji rządowych. Nie wszystkie usługi są dostępne w każdym kanale. Żaden segment nie jest domyślnie domyślny dla tego, co nazywamy segmentem "komercyjnym". Wszystkie ceny oparte na licencjach są dostępne w cenniku opartym na licencjach na stronie Ceny i oferty. Azure Government są dostępne w cenniku opartym na użyciu po zalogowaniu się do dzierżawy Azure Government CSP. Subskrypcje oprogramowania i oprogramowanie bezterminowe nie obsługują jeszcze tych specjalnych segmentów.
+CSP — oferuje niektóre usługi dla specjalnych segmentów rynku, takich jak edukacja, organizacje niedochodowe i chmura społeczności dla instytucji rządowych. Nie wszystkie usługi są dostępne w każdym kanale. Żaden segment nie jest domyślnie domyślny dla tego, co nazywamy segmentem "komercyjnym". Wszystkie ceny oparte na licencjach są dostępne w cenniku opartym na licencjach na stronie Ceny i oferty. Azure Government są dostępne w cenniku opartym na użyciu po zalogowaniu się do dzierżawy Azure Government CSP. Subskrypcje oprogramowania i bezterminowe oprogramowanie nie obsługują jeszcze tych specjalnych segmentów.
 
 |**Segment**   |**kto musi się kwalifikować**   |**Partner kwalifikuje klienta**|**Włączone typy produktów**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
 |Education|Customer|Nie, kwalifikacje klientów będą wykonywane przez firmę Microsoft |Tylko na podstawie licencji|
 |Non-profit|Customer|Nie, klient kwalifikuje się poza Partner Center|Tylko na podstawie licencji|
-|Government Community Cloud (GCC)|Partner i klient|Po GCC partner może tworzyć GCC klientów| Tylko na podstawie licencji|
-|Azure Government|Partner|Po zakwalifikowanym partner działa w dzierżawie programu CSP specyficznej dla Azure Government|Zasoby platformy Azure|
+|Government Community Cloud (GCC)|Partner i klient|Po GCC partner może tworzyć nowe GCC klientów| Tylko na podstawie licencji|
+|Azure Government|Partner|Po zakwalifikowanym partner działa w dzierżawie CSP specyficznej dla Azure Government|Zasoby platformy Azure|
 
 Marże partnerów, różnica między ceną detaliczną a szacowaną ceną detaliczną, może się różnić w zależności od segmentu. Zwykle edukacja i organizacje niedochodowe mają niższą marżę dla partnerów CSP lub ich brak. Dokładne wartości można znaleźć w cenniku opartym na licencjach. 
 
@@ -108,7 +108,7 @@ Rezerwacje platformy Azure to zakupy oparte na terminach dla określonego typu z
 
 Na stronie Ceny i oferty wyświetl macierz oferty odsprzedawcy chmury, aby zapoznać się z różnymi jednostkami SKU i pakietami produktów dostępnymi do sprzedaży. Macierz ofert zawiera oferty dostępne dla owych danych regionalnych. Jeśli element jest wymieniony w cenniku, ale nie w macierzy ofert, oznacza to, że produktów nie można jeszcze zamówić. Gdy tylko będą dostępne do zamówienia, macierz ofert zostanie zaktualizowana.
 
-Dla partnerów programu CSP, którzy korzystają Partner Center zestawów Sdk (Software Development Kit). Firma Microsoft publikuje również listę usług platformy Azure w programie CSP na stronie Cennik i oferty.
+Dla partnerów programu CSP, którzy korzystają Partner Center zestawów Software Development Kit (SDK). Firma Microsoft publikuje również listę usług platformy Azure w programie CSP na stronie Cennik i oferty.
 
 ### <a name="offers-matrix-and-price-list-questions"></a>Pytania dotyczące macierzy i cennika ofert
 
@@ -118,66 +118,66 @@ Jeśli masz pytania dotyczące cennika lub macierzy ofert, prześlij żądanie o
 
 Niektóre oferty oparte na licencjach mają pewne reguły i ograniczenia, które zabraniają wielu zakupów dla tego samego klienta. Te reguły mają zastosowanie do większości wersji próbnych i wielu ofert małych firm. **Oferty dla małych firm** są definiowane przez te oferty, które mają maksymalną liczbę licencji mniejszą niż 300.
 
-Te ograniczenia zakupu są definiowane jako część konfiguracji oferty i można je znaleźć, spoglądając na macierz listy ofert. Dwie kolumny danych współpracują ze sobą w celu zdefiniowania wymuszania: 1. Zakres limitu oferty i 2. Limit oferty. Ograniczenia są wymuszane podczas zakupu. Katalog w Centrum partnerskim nie zezwala partnerowi na kupowanie większej liczby ofert niż zezwalają na to reguły. Każda próba naruszenia ograniczeń spowoduje błąd.
+Te ograniczenia zakupu są definiowane jako część konfiguracji oferty i można je znaleźć, spoglądając na macierz listy ofert. Dwie kolumny danych współpracują ze sobą w celu zdefiniowania wymuszania: 1. Zakres limitu oferty i 2. Limit oferty. Ograniczenia są wymuszane podczas zakupu. Katalog w Partner Center nie zezwala partnerowi na kupowanie większej liczby ofert niż zezwalają na to reguły. Każda próba naruszenia ograniczeń spowoduje błąd.
 
 Zakres limitu oferty jest rejestrowany jako kolumna w macierzy listy ofert i może mieć wartości None, Lifetime lub Concurrent. 
 
 - Oferty z **none** można kupić bez ograniczeń.
-- **Oferty** w okresie istnienia można kupić tylko raz.
+- **Oferty** okresu istnienia można kupić tylko raz.
 - **Oferty** współbieżne można zakupić tyle razy, ile jest dozwolone przez wartość **Limit oferty** dla tej oferty. Większość wersji próbnych ma zakres limitu oferty w okresie istnienia z limitem oferty o wartości "1". Większość ofert dla małych firm ma zakres limitu współbieżnych ofert z limitem oferty "2".
 
 > [!IMPORTANT]
-> Limity współbieżności są wymuszane nawet w przypadku anulowania oferty. Oferta musi zostać całkowicie anulowana, a następnie anulowana, aby można było uzyskać dodatkowe miejsce na inny zakup.
+> Limity współbieżności są wymuszane nawet w przypadku anulowania oferty. Ofertę należy anulować całkowicie, a następnie anulować jej aprowizę, aby umożliwić dodatkowe miejsce na kolejny zakup.
 
 ### <a name="taxes-and-pricing"></a>Podatki i ceny
 
-Wszystkie ceny w cennikach CSP Centrum partnerskiego są włącznie z podatkami. Więcej informacji można znaleźć w dokumencie Partner Center [Taxes and tax exemptions (Podatki i zwolnienia z podatku).](tax-and-tax-exemptions.md)
+Wszystkie ceny w cennikach Partner Center CSP są bez podatku. Więcej informacji można znaleźć w dokumencie Partner Center [Taxs and tax exemptions (Podatki i zwolnienia z podatku).](tax-and-tax-exemptions.md)
 
 ## <a name="offer-attestation"></a>Zaswiadczenie oferty
 
-Niektóre oferty wymagają zgody partnera przed zakupem. Ten proces nosi nazwę zaświadczenia i od 1 sierpnia 2021 r. jedyne oferty wymagające zaświadczenia to oferty usługi Windows 365 Business z korzyścią Windows hybrydowej. Partnerzy zobaczą tekst na ekranie przeglądu podczas zakupu tych ofert. "Rozumiem, że każda osoba korzystająca z usługi Windows 365 Business z korzyścią użycia hybrydowego usługi Windows również musi mieć zainstalowaną prawidłową kopię wersji Windows 10/11 Pro na swoim podstawowym urządzeniu służbowym". Partnerzy muszą wyrazić zgodę na to przed zakupem.
+Niektóre oferty wymagają zgody partnera przed zakupem. Ten proces jest nazywany zaświadczeniam i od 1 sierpnia 2021 r. jedynymi ofertami wymagającymi zaświadczeń są oferty Windows 365 Business z korzyścią Windows hybrydowej. Partnerzy zobaczą tekst na ekranie przeglądu podczas zakupu tych ofert. "Rozumiem, że każda osoba korzystająca z usługi Windows 365 Business z korzyścią użycia hybrydowego usługi Windows również musi mieć zainstalowaną prawidłową kopię usługi Windows 10/11 Pro na swoim podstawowym urządzeniu służbowym". Partnerzy muszą wyrazić zgodę na to przed zakupem.
 
-Zaświadczenia dotyczą zarówno portalu Partner Center, jak i interfejsów API Partner Center podczas przesyłania zamówień i wyeencjonowania koszyków. Partnerzy mogą określić, które oferty wymagają zaświadczenia, sprawdzając attestationProperties [w](/partner-center/develop/offer-resources#attestationproperties) ofercie lub [obiektach SKU.](/partner-center/develop/product-resources#attestationproperties) Te właściwości wyjaśnią typ zaświadczenia oraz czy zaświadczenia są wymuszane w przypadku zakupów (enforceAttestation=True). W razie potrzeby partnerzy po prostu ustawiają dla wartości AttestationAccepted wartość true w koszyku lub [wierszu zamówienia](/partner-center/develop/cart-resources).
+Zaświadczenia dotyczą zarówno portalu Partner Center, jak i interfejsów API Partner Center podczas przesyłania zamówień i wyeencjonowania koszyków. Partnerzy mogą określić, które oferty wymagają zaświadczenia, sprawdzając attestationProperties [w](/partner-center/develop/offer-resources#attestationproperties) ofercie lub [obiektach SKU.](/partner-center/develop/product-resources#attestationproperties) Te właściwości wyjaśnią typ zaświadczenia oraz to, czy zaświadczenia są wymuszane w przypadku zakupów (enforceAttestation=True). W razie potrzeby partnerzy po prostu ustawiają wartość true attestationAccepted w koszyku lub [wierszu zamówienia](/partner-center/develop/cart-resources).
 
 Poniżej przedstawiono oferty, które obecnie wymagają zaświadczenia przed zakupem.
 
  | **Nazwa oferty** |**Identyfikator oferty** |
 |:------------------------------------------- |:--------------------------------------- |
 | Windows 365 Business 1 vCPU, 2 GB, 64 GB (z Windows korzyścią hybrydową) | 5f3a7cd2-c76f-4b21-9ddc-f48f09869cf6 |
-| Windows 365 Business 2 procesory wirtualne, 4 GB, 128 GB (z Windows korzyścią hybrydową) | 7612386a-d98d-4110-94b8-554bd612a5ab |
-| Windows 365 Business 2 procesory wirtualne, 4 GB, 128 GB (z Windows korzyścią hybrydową) | ab170880-1254-4534-abb9-fd0bf60cde71 |
+| Windows 365 Business 2 procesory wirtualne, 4 GB, 128 GB (z Windows korzyść hybrydowa) | 7612386a-d98d-4110-94b8-554bd612a5ab |
+| Windows wersji próbnej: 365 Business 2 procesory wirtualne, 4 GB, 128 GB (z Windows korzyścią hybrydową) | ab170880-1254-4534-abb9-fd0bf60cde71 |
 | Windows 365 Business 2 procesory wirtualne, 4 GB, 256 GB (z Windows korzyścią hybrydową) | cc624387-162c-4f31-9d6e-252d39d5324b |
 | Windows 365 Business 2 procesory wirtualne, 4 GB, 64 GB (z Windows korzyść hybrydowa) | f9777f60-19ae-4bd2-b881-6dc674564a2e |
 | Windows 365 Business 2 procesory wirtualne, 8 GB, 128 GB (z Windows korzyścią hybrydową) | 39daa752-18b7-4918-b4eb-cf27cf617ee2 |
-| Windows 365 Business 2 procesory wirtualne, 8 GB, 128 GB (z Windows korzyść hybrydowa) | d5623401-b8e0-429f-86df-29b6efdf4d95 |
+| Windows wersji próbnej: 365 Business 2 procesory wirtualne, 8 GB, 128 GB (z Windows korzyścią hybrydową) | d5623401-b8e0-429f-86df-29b6efdf4d95 |
 | Windows 365 Business 2 procesory wirtualne, 8 GB, 256 GB (z Windows korzyść hybrydowa) | 8fe4271f-c761-45f8-8261-5ab575195152 |
-| Windows 365 Business 4 procesory wirtualne, 16 GB, 128 GB (z Windows korzyścią hybrydową) | 037cff0f-c231-4cce-a7ef-5324c755ba9a |
+| Windows 365 Business 4 procesory wirtualne, 16 GB, 128 GB (z Windows korzyść hybrydowa) | 037cff0f-c231-4cce-a7ef-5324c755ba9a |
 | Windows 365 Business 4 procesory wirtualne, 16 GB, 128 GB (z Windows korzyścią hybrydową) | 46448c4c-8b12-4ea1-9be7-76b35d69bcf5 |
-| Windows 365 Business 4 procesory wirtualne, 16 GB, 256 GB (z Windows korzyścią hybrydową) | 977318cf-57a5-4c3f-a8b6-aa58853dd2e9 |
-| Windows 365 Business 4 procesory wirtualne, 16 GB, 512 GB (z Windows korzyścią hybrydową) | 1a3bdfb8-fb09-4331-8303-2c07e895c6d9 |
-| Windows 365 Business 8 procesorów wirtualnych, 32 GB, 128 GB (z Windows korzyścią hybrydową) | 1b96db48-9c02-4c95-8c0b-98e4e6aa187c |
+| Windows 365 Business 4 procesory wirtualne, 16 GB, 256 GB (z Windows korzyść hybrydowa) | 977318cf-57a5-4c3f-a8b6-aa58853dd2e9 |
+| Windows 365 Business 4 procesory wirtualne, 16 GB, 512 GB (z Windows korzyść hybrydowa) | 1a3bdfb8-fb09-4331-8303-2c07e895c6d9 |
+| Windows 365 Business 8 procesorów wirtualnych, 32 GB, 128 GB (z Windows korzyść hybrydowa) | 1b96db48-9c02-4c95-8c0b-98e4e6aa187c |
 | Windows 365 Business 8 procesorów wirtualnych, 32 GB, 256 GB (z Windows korzyścią hybrydową) | 3ff72e53-c37f-41d5-b932-793cb39c837b |
-| Windows 365 Business 8 procesorów wirtualnych, 32 GB, 512 GB (z Windows korzyścią hybrydową) | aca639ae-ae81-4298-a76a-094b6880913b |
+| Windows 365 Business 8 procesorów wirtualnych, 32 GB, 512 GB (z Windows korzyść hybrydowa) | aca639ae-ae81-4298-a76a-094b6880913b |
 
 ## <a name="multi-year-term-offers"></a>Oferty z okresami długoterminowymi
 
-### <a name="36-month-offers"></a>Oferty na 36 miesięcy
+### <a name="36-month-offers"></a>Oferty 36-miesięczne
 
-Istnieje około 50 ofert usługi Dynamics z postanowieniami za trzy lata. Są one identyfikowane **przez (36 miesięcy)** w tytule ofert. Te oferty są podobne do ofert okresowych dla roku. Jedyna różnica dotyczy ich terminu. Te oferty mają okres trzech lat, dzięki czemu subskrypcje są odnawiane automatycznie po trzech latach, a nie po jednym. Poniżej znajduje się podsumowanie sposobu działania tych ofert:
+Istnieje około 50 ofert usługi Dynamics, które mają terminy na trzy lata. Są one identyfikowane **przez (36 miesięcy)** w tytule ofert. Te oferty są podobne do ofert z okresami długoterminowymi. Jedyna różnica dotyczy ich terminu. Te oferty mają okres trzech lat, dzięki czemu subskrypcje są odnawiane automatycznie po trzech latach, a nie po jednym. Poniżej znajduje się podsumowanie sposobu działania tych ofert:
 
-- Warunki to 36 miesięcy, a subskrypcje będą odnawiane automatycznie po trzech latach
+- Terminy to 36 miesięcy, a subskrypcje będą odnawiane automatycznie po trzech latach
 - Partnerzy mogą anulować lub zmienić liczbę licencji w okresie subskrypcji
-- Odnawianie roczne będzie roczące po cenie zakupu za okres trzech lat
+- Roczne odnowienie będzie się być po cenie zakupu przez okres trzech lat
 - Częstotliwość rozliczeń jest nadal co rok lub co miesiąc
 
 ### <a name="72-month-offers"></a>Oferty na 72 miesiące
 
-Microsoft 365 A1 oferta podstawowa ma sześcioroczny okres.  Dodatkowe Office 365 A1 są dostępne po zakupie tej oferty podstawowej. 
+Microsoft 365 A1 oferta podstawowa ma okres sześciu lat.  Dodatki Office 365 A1 są dostępne po zakupie tej oferty podstawowej. 
 
 |**Nazwa oferty**   |**Identyfikator oferty**   |**Typ**|
 |-------------------|-----------------------|----------------------------|
 |Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Oferta podstawowa|
-|Office 365 A1 dla nauczycieli lub wykładowców (dla urządzenia)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Dodatek|
+|Office 365 A1 dla nauczycieli i wykładowców (dla urządzenia)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Dodatek|
 |Office 365 A1 dla uczniów (dla urządzenia)|bae285a9-d56b-4384-b02f-38adc61a6f12|Dodatek|
 
 Poniżej znajduje się podsumowanie sposobu działania tych ofert:
@@ -185,23 +185,23 @@ Poniżej znajduje się podsumowanie sposobu działania tych ofert:
 - Okres to 72 miesiące lub sześć lat
 - Subskrypcja nie jest odnawiana i wygasa po upływie sześciu lat
 - Częstotliwość rozliczeń w ofercie jest przedstawiana jako roczna, ale partner jest rozliczany z góry na pierwszej fakturze po uzyskaniu subskrypcji
-- Subskrypcje 72-miesięcznych ofert A1 są blokowane po zakupie i nie można ich anulować, a liczby licencji nie można dodać do subskrypcji po początkowym zakupie
+- Subskrypcje ofert 72-miesięcznych A1 są blokowane po zakupie i nie można ich anulować, a liczby licencji nie można dodać do subskrypcji po początkowym zakupie
 - Tej subskrypcji nie można anulować i nie można jej zwrócić.
 
 ## <a name="estimated-retail-price-erp"></a>Szacowana cena detaliczna (ERP)
 
-Większość cenników obejmuje cenę cennika, cenę rozlikową partnera i szacowaną cenę detaliczną. Szacowana cena detaliczna (ERP) jest również nazywana sugerowaną ceną detaliczną firmy Microsoft lub MSRP. Te dwie wartości, ERP i MSRP, reprezentują szacowaną wartość rynku produktów, jeśli klient zakupi produkty bezpośrednio od firmy Microsoft. Poniżej przedstawiono, gdzie można znaleźć szczegóły ERP/MSRP dla każdego typu produktu lub usługi. 
+Większość cenników obejmuje cenę cennika, cenę partnera i szacowaną cenę detaliczną. Szacowana cena detaliczna (ERP) jest również nazywana sugerowaną ceną detaliczną firmy Microsoft lub MSRP. Te dwie wartości, ERP i MSRP, reprezentują szacowaną wartość rynku produktów, jeśli klient zakupił produkty bezpośrednio od firmy Microsoft. Poniżej przedstawiono, gdzie można znaleźć szczegóły ERP/MSRP dla każdego typu produktu lub usługi. 
 
 
-|**Produkt lub usługa**        |**Szczegóły cennika ERP i MSRP**      |
+|**Produkt lub usługa**        |**Szczegóły cennika erp i MSRP**      |
 |:-----------   |:-----------   |
-|Produkt lub usługa  |Szczegóły cennika ERP i MSRP  |
-|Usługi oparte na licencjach  |Wymienione jako ERP w cennikach opartych na licencjach  |
-|Usługi oparte na użyciu platformy Azure  |Można je znaleźć w równoważnych cennikach usług udostępnionych  |
-|Rezerwacje platformy Azure  |Można je znaleźć w równoważnych cennikach usług udostępnionych  |
+|Produkt lub usługa  |Szczegóły cennika erp i MSRP  |
+|Usługi oparte na licencjach  |Lista ERP w cennikach opartych na licencjach  |
+|Usługi oparte na użyciu platformy Azure  |Można je znaleźć w cennikach równoważnych usług udostępnionych  |
+|Rezerwacje platformy Azure  |Można je znaleźć w cennikach równoważnych usług udostępnionych  |
 |Na podstawie użycia planu platformy Azure  |Ceny są detaliczne, bez rabatów w arkuszach cen  |
 |Rezerwacje planów platformy Azure  |Odwołania do cenników usług udostępnionych rezerwacji platformy Azure  |
-|Subskrypcje oprogramowania  |Wymienione jako MSRP w cennikach subskrypcji oprogramowania  |
+|Subskrypcje oprogramowania  |Wymieniona jako MSRP w cennikach subskrypcji oprogramowania  |
 |Portal Marketplace  |Wyświetlane jako MSRP w cennikach witryny Marketplace  |
 
 Więcej zasobów: 

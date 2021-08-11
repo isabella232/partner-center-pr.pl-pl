@@ -8,12 +8,12 @@ description: Ten interfejs API umożliwia uzyskiwanie szczegółowych informacji
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f4e69c8759c16bc38e64a361c8c077989447d3e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 96bbb039c022d3587183b8dbec014bc362255b750ac6670fe3c1906629b7e291
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843803"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693337"
 ---
 # <a name="get-all-datasets-api"></a>Interfejs API pobierz wszystkie zestawy danych
 
@@ -95,7 +95,7 @@ W tej tabeli zdefiniowano kluczowe elementy odpowiedzi:
 |    AvailableMetrics     |    Nazwy kolumn agregacji/metryk, które można określić w wybranych kolumnach     |
 |    AvailableDateRanges     |    Zakres dat, który może być używany w zapytaniach raportu dla zestawu danych     |
 |    minimumRecurrenceInterval     |    Minimalna wartość interwału cyklu     |
-|    Łączna liczba     |    Liczba zestawów danych w tablicy Value     |
-|    Komunikat     |    Komunikat o stanie z wykonania interfejsu API     |
+|    TotalCount     |    Liczba zestawów danych w tablicy Value     |
+|    Komunikat     |    Komunikat o stanie z wykonywania interfejsu API     |
 |    Statuscode     |    Kod wyniku. Możliwe wartości to 200, 400, 401, 403, 500     |
 |        |        |

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-support
-description: Jeśli masz problemy z usługą firmy Microsoft lub masz Partner Center, możesz eskalować do firmy Microsoft w celu pomocy i śledzić problem do momentu jego rozwiązania.
+description: Jeśli masz problemy z usługą firmy Microsoft lub Partner Center, możesz eskalować do firmy Microsoft w celu pomocy i śledzić problem do momentu jego rozwiązania.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc9f52cd015e8c1f7b8b91fd72d58f2445a3fce8
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: a2acb85f4306201b2d2ecb8140a5e6b4dec3e5ba57898db04f29640f7467021e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844971"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693813"
 ---
 # <a name="support-from-microsoft"></a>Pomoc techniczna od firmy Microsoft
 
@@ -26,11 +26,11 @@ Jeśli masz problemy z usługą firmy Microsoft lub usługą Partner Center, mo�
 
 [Partner Center pomocy technicznej](report-problems-with-partner-center.md) — uzyskiwanie pomocy i tworzenie biletów dla wszystkich Partner Center aplikacji.
 
-[Pomoc techniczna w imieniu klientów](report-problems-on-behalf-of-a-customer.md) — uzyskiwanie pomocy i zgłaszanie problemów klienta.
+[Pomoc techniczna w imieniu klientów](report-problems-on-behalf-of-a-customer.md) — uzyskiwanie pomocy i zgłaszanie problemów na kliencie.
 
-[Sprawdzanie kondycji usługi](check-service-health.md) — sprawdź, czy w usłudze istnieją jakiekolwiek bieżące znane Partner Center.
+[Sprawdź kondycję usługi](check-service-health.md) — sprawdź, czy w usłudze nie występują jakiekolwiek bieżące znane Partner Center.
 
-[Uzyskiwanie powiadomień o automatycznych usługach za pomocą naszych](get-automated-service-notifications-with-our-apis.md) interfejsów API — dostawcy rozwiązań w chmurze mogą otrzymywać automatyczne powiadomienia dotyczące usług swoich klientów.
+[Uzyskiwanie automatycznych powiadomień o usługach za pomocą naszych](get-automated-service-notifications-with-our-apis.md) interfejsów API — dostawcy rozwiązań w chmurze mogą otrzymywać automatyczne powiadomienia o usługach klientów.
 
 ## <a name="next-steps"></a>Następne kroki
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5d82e43b63c2803b0f494a2f773e32ec135bdfd
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 08be5bb39f58f4697090c2e144ff321331c428e13d165d831e96d9f27a6de403
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843191"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693779"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Omówienie ofert partnerów w programie Cloud Solution Provider
 
@@ -133,6 +133,6 @@ Mogą być różne przyczyny tego, dlaczego nie można znaleźć szukanej oferty
 
 ## <a name="next-steps"></a>Następne kroki
 
-Aby uzyskać informacje na temat sposobu działania procesu rozliczeniowego, zobacz [Podstawowe informacje o rozliczeniach.](billing-basics.md)
+Aby uzyskać informacje na temat sposobu działania procesu rozliczeń, zobacz [Podstawowe informacje o rozliczeniach.](billing-basics.md)
 
-Aby uzyskać informacje o zakupie w ramach planu platformy Azure, zobacz [Zakup planu platformy Azure.](purchase-azure-plan.md)
+Aby uzyskać informacje na temat zakupu w ramach planu platformy Azure, zobacz [Zakup planu platformy Azure.](purchase-azure-plan.md)

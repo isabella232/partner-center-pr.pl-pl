@@ -9,20 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e55e3069dc7e086ecac10d11e92e70942d63b78
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 3a936c0a0891f45cc5d5522cbe06415bf9c8beed4202bc5f5af2a0fbb2d3a8f8
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841406"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693762"
 ---
 # <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Sprzedawanie oprogramowania lokalnego za pośrednictwem programu Dostawca rozwiązań w chmurze (CSP)
 
-**Odpowiednie role:** Administrator | Administrator globalny
+**Odpowiednie role:** Agent administracyjny | Administrator globalny
 
 Oprogramowanie lokalne w programie CSP obsługuje bezproblemowe przejście do chmury przez wprowadzenie oprogramowania lokalnego w programie skoncentrowanym na chmurze.Ta nowa oferta ułatwia dodanie partnera o wartości dodanej do każdego scenariusza zakupu, ponieważ zapewnia jedną platformę do transakcji wszystkich produktów firmy Microsoft. Jako CSP możesz teraz sprzedawać oprogramowanie lokalne za pośrednictwem usługi Partner Center jako dodatek do programów Open, EA i innych, które są obecnie w użyciu.  
  
-Zapewniając najlepszą ogólną wartość klienta przy użyciu opcji licencjonowania oprogramowania lokalnego, model biznesowy został również tak przyjazny dla partnerów, jak to tylko możliwe. Proste licencjonowanie oprogramowania lokalnego w programie CSP oznacza przewidywalność kosztów i usprawniony proces sprzedaży. Ten nowy model biznesowy ułatwia klientom nabywanie i wycenę lokalnego oprogramowania oraz zarządzanie nim, co pozwala skoncentrować się na zdobyciu korzyści biznesowych dzięki rozbudowanym portfolio rozwiązań do zarządzania zasobami IT o wartości dodanej.
+Zapewniając najlepszą ogólną wartość klienta przy użyciu opcji licencjonowania oprogramowania lokalnego, model biznesowy został również tak przyjazny dla partnerów, jak to tylko możliwe. Proste licencjonowanie oprogramowania lokalnego w programie CSP oznacza przewidywalność kosztów i usprawniony proces sprzedaży. Ten nowy model biznesowy ułatwia nabywanie i wycenę lokalnego oprogramowania oraz zarządzanie nim, co pozwala skoncentrować się na zdobyciu korzyści biznesowych dzięki rozbudowanym portfolio rozwiązań do zarządzania zasobami IT o wartości dodanej.
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Kupowanie subskrypcji oprogramowania w imieniu klientów
 
@@ -33,7 +33,7 @@ Aby kupić subskrypcje oprogramowania w imieniu klienta, przejdź do strony szcz
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktywowanie subskrypcji oprogramowania i zarządzanie nimi
 
-Po zakupie oprogramowania Ty lub Twoi klienci muszą je pobrać (partnerzy korzystający z usługi Partner Center; klienci korzystający z centrum Administracja Microsoft 365). Użyj poniższej procedury w tym celu. Ważne jest, aby zrozumieć ryzyko związane z kopiowaniem linków i pobieraniem oprogramowania. Aby uzyskać więcej informacji, zobacz Używanie usługi **Partner Center** do pobierania oprogramowania klienta i kluczy licencji w [Partner Center New Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
+Po zakupie oprogramowania Ty lub Twoi klienci muszą je pobrać (partnerzy korzystający z usługi Partner Center; klienci korzystający z centrum Administracja Microsoft 365). Użyj poniższej procedury w tym celu. Ważne jest, aby zrozumieć czynniki ryzyka związane z kopiowaniem linków i pobieraniem oprogramowania. Aby uzyskać więcej informacji, zobacz Używanie usługi **Partner Center** do pobierania oprogramowania klienta i kluczy licencji w [Partner Center New Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
 > [!NOTE]
 > Musisz być agentem administratora w Partner Center, aby uzyskać link do kluczy i plików do pobrania.
@@ -42,7 +42,7 @@ Po zakupie oprogramowania Ty lub Twoi klienci muszą je pobrać (partnerzy korzy
 
 2. Wybierz wersję **produktu,** **język,** **bit** i wybierz pozycję **Pobierz klucze i pliki do pobrania.** 
 
-3. Wybierz **pozycję Pobierz klucz,** aby wyświetlić 32-cyfrowy produkt w wyskakującym oknie podręcznym, które można skopiować i wysłać do klienta. 
+3. Wybierz **pozycję Pobierz klucz,** aby wyświetlić 32-cyfrowy produkt w oknie podręcznym, które można skopiować i wysłać do klienta. 
 
 4. Wybierz **pozycję Pobierz,** aby pobrać bity. 
 

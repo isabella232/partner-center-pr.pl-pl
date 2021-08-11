@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 23ca72fada539b5036dfd6cf0ac04a5c18b5d96d
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 94e9cf040da3e369547503d691208f97181c698039ef7373639798b98a930a6b
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100184"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693587"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Nadaj klientom uprawnienia Partner Center do kupowania własnych produktów lub usług
 
@@ -145,7 +145,7 @@ Pomóż klientom dowiedzieć się więcej na temat zarządzania tymi aspektami r
 
 **Jak klienci mogą zoptymalizować użycie rezerwacji.** Niektórzy klienci mogą skorzystać z większej wiedzy na temat optymalizowania wykorzystania rezerwacji lub przypisywania początkowego zakresu rezerwacji podczas zakupu. Aby uzyskać więcej informacji, poproś klientów o przeczytanie [tematu Zarządzanie rezerwacjami zasobów platformy Azure.](/azure/cost-management-billing/reservations/manage-reserved-vm-instance)
 
-**Co się stanie, gdy klient zakupi rezerwację z zakresem udostępnionym?** Gdy klienci zakupią rezerwację na podstawie poprzedniej subskrypcji programu CSP i przypisują jej zakres udostępniony, wszelkie rabaty, które klient otrzymał, będą stosowane do pasującego użycia dla wszystkich subskrypcji zakupionych przez partnera CSP dla tego klienta.
+**Co się stanie, gdy klient zakupi rezerwację w zakresie udostępnionym?** Gdy klienci kupują rezerwację na podstawie poprzedniej subskrypcji programu CSP i przypisują jej zakres udostępniony, wszelkie rabaty, które klient otrzymał, będą stosowane do pasującego użycia dla wszystkich subskrypcji zakupionych przez partnera programu CSP dla tego klienta.
 
 **Co powinni zrobić klienci, jeśli chcą wymienić, anulować lub odnowić dokonany zakup lub zmienić początkowy zakres rezerwacji?** Klienci muszą poprosić partnera o pomoc w zmianie początkowego zakresu rezerwacji. Potrzebują oni również pomocy partnera w wymianie, anulowaniu lub odnowieniu rezerwacji. Nie mogą oni samodzielnie wykonywać tych zadań z rezerwacjami opartymi na subskrypcjach zakupionych dla nich przez partnera CSP.
 

@@ -9,18 +9,18 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: bb7bea476a79096890e3ae33c0256200eae18968
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: cb3edae4b0b5a9687dc25006fde9db86143860d9b44aa790f62fd1340e5deab8
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840743"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692980"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Przegląd: Główne artykuły dotyczące rozliczeń i podatków w Partner Center
 
-**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Administrator globalny | Agent sprzedaży
+**Odpowiednie role:** Administrator | Administrator rozliczeń | Administrator globalny | Agent sprzedaży
 
-Ten artykuł zawiera linki do informacji dotyczących rozliczeń i tematów podatkowych w Partner Center, w tym zasobów rozliczeniowych, faktur, rozliczeń CSP i podatków.
+Ten artykuł zawiera linki do informacji dotyczących rozliczeń i tematów podatkowych w Partner Center, takich jak zasoby rozliczeniowe, faktury, rozliczenia w programie CSP i podatki.
 
 
 | Temat | Opis |

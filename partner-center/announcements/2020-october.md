@@ -9,38 +9,38 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/30/2020
-ms.openlocfilehash: 5c4b09629e8052bdfdc26c24880b9cef8061a3b0159214867af9abbf552a5f6c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: a8c56ee7b60345d64ff0fe3c82ffaa45256cea13
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688254"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102555"
 ---
 # <a name="october-2020-announcements"></a>Ogłoszenia z października 2020 r.
 
-Na tej stronie szczegółowo o ogłoszeniach dotyczących platformy Microsoft Partner Center października 2020 r.
+Ta strona zawiera szczegółowe informacje o ogłoszeniach dotyczących Partner Center Microsoft na październik 2020 r.
 
-Ogłoszenia dotyczące roku 2020: marzec [](2020-march.md)  |  [kwiecień](2020-april.md)  |  [maj](2020-may.md)  |  [](2020-june.md)  |  [czerwiec lipca](2020-july.md)  |  [](2020-august.md)  |  [sierpień](2020-september.md) | Października
+Ogłoszenia dotyczące roku 2020: marzec [](2020-march.md)  |  [kwiecień](2020-april.md)  |  [maj](2020-may.md)  |  [](2020-june.md)  |  [czerwiec lipca](2020-july.md)  |  [](2020-august.md)  |  [sierpień |](2020-september.md) Października
 
 ______________
 
-## <a name="correction-to-calling-plan-expansion"></a><a name="18"></a>Korekta rozszerzenia planu wywołań 
+## <a name="correction-to-calling-plan-expansion"></a><a name="18"></a>Korekta rozszerzania planu wywołań 
 
 ### <a name="categories"></a>Kategorie
 
 - Data: 2020-10-29
 - Oferty/rynki
 
-### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
+### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
 Dostawcy bezpośredni, dostawcy pośredni i odsprzedawcy pośredni
 
 ### <a name="details"></a>Szczegóły
 
-1 października 2020 r. ogłosiliśmy dostępność planu [Office 365 Calling Plan na nowych rynkach.](2020-september.md#2) To zawiadomienie nie jest poprawne, a 240 minut na użytkownika miesięcznie dla planów krajowych nie jest dostępne, jak wspomniano wcześniej. 
+1 października 2020 r. ogłosiliśmy dostępność planu [Office 365 calling na nowych rynkach.](2020-september.md#2) To zawiadomienie nie jest poprawne, a 240 minut na użytkownika miesięcznie w przypadku planów krajowych nie jest dostępne, jak wspomniano wcześniej. 
 
 
-Szczegółowe informacje o planach połączeń można znaleźć w dokumentacji Microsoft Teams [produktu](/microsoftteams/calling-plan-landing-page).
+Aby uzyskać szczegółowe informacje o planach połączeń, zapoznaj się z dokumentacją Microsoft Teams [produktu](/microsoftteams/calling-plan-landing-page).
 
 
 ________________
@@ -52,7 +52,7 @@ ________________
 - Data: 2020-10-29
 - Możliwości
 
-### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
+### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
 Dostawca rozwiązań w chmurze (CSP), którzy wcześniej kupili standardowe subskrypcje oprogramowania Windows Server
 
@@ -62,7 +62,7 @@ Firma Microsoft ogłasza 30 października 2020 r. wydanie nowej aktualizacji fun
 
 ### <a name="next-steps"></a>Następne kroki
 
-- Udostępnij te informacje odpowiednim kontaktom w twojej organizacji.
+- Udostępnij te informacje odpowiednim kontaktom w organizacji.
 - Przejrzyj [Windows serwera w wersji 20H2](/windows/release-information/status-windows-10-20h2)
 
 ________________
@@ -76,9 +76,9 @@ ________________
 
 ### <a name="summary"></a>Podsumowanie
 
-Partnerzy programu CSP, którzy kupili subskrypcje Microsoft 365 A3/A5 lub Windows 10 Enterprise A3/A5 dla swoich klientów w edukacji, mogą teraz pomóc im w uaktualnieniu urządzeń Windows 10 Home do Windows 10 Education.
+Partnerzy programu CSP, którzy kupili subskrypcje Microsoft 365 A3/A5 lub Windows 10 Enterprise A3/A5 dla swoich klientów edukacyjnych, mogą teraz pomóc im w uaktualnieniu urządzeń Windows 10 Home do Windows 10 Education.
 
-### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
+### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
 Partnerzy CSP, którzy kupili subskrypcje Microsoft 365 A3/A5 lub Windows 10 Enterprise A3/A5 dla swoich klientów edukacyjnych
 
@@ -86,7 +86,7 @@ Partnerzy CSP, którzy kupili subskrypcje Microsoft 365 A3/A5 lub Windows 10 Ent
 
 Od 1 listopada 2020 r. partnerzy CSP, którzy zakupili subskrypcję platformy Microsoft 365 A3/A5 lub systemu Windows 10 Enterprise A3/A5, mogą ułatwić klientom wersji Education uaktualnienie z systemu Windows 10 Home do systemu Windows 10 Education, który jest przeznaczony do obsługi zarówno zajęć w klasach, jak i nauczania zdalnego.
 
-Od 1 listopada 2020 r. Windows 10 Home będzie kwalifikować się do systemu operacyjnego dla klientów edukacyjnych licencjonowanych za pośrednictwem usługi Umowa dotycząca platformy Microsoft Cloud (za pośrednictwem CSP). Ta kwalifikowalność, która do tej pory była dostępna tylko w programach edukacyjnych licencjonowania zbiorowego, została włączona za pośrednictwem Microsoft 365 pomocy technicznej portalu administracyjnego. 
+Od 1 listopada 2020 r. Windows 10 Home będzie kwalifikować się do systemu operacyjnego dla klientów edukacyjnych licencjonowanych za pośrednictwem usługi Umowa dotycząca platformy Microsoft Cloud (za pośrednictwem CSP). Te uprawnienia, które do tej pory były dostępne tylko w programach edukacyjnych licencjonowania zbiorowego (VL), były włączane za pośrednictwem Microsoft 365 pomocy technicznej portalu administracyjnego. 
 
 #### <a name="how-the-upgrade-process-works"></a>Jak działa proces uaktualniania
 
@@ -103,26 +103,26 @@ Szczegółowe informacje na temat uaktualniania klientów można znaleźć w tem
 
 ________________
 
-## <a name="refreshed-cloud-solution-provider-csp-digital-experience-now-available"></a><a name="15"></a>Odświeżone środowisko Dostawca rozwiązań w chmurze (CSP) jest teraz dostępne
+## <a name="refreshed-cloud-solution-provider-csp-digital-experience-now-available"></a><a name="15"></a>Odświeżone Dostawca rozwiązań w chmurze cyfrowe (CSP) są teraz dostępne
 
 ### <a name="categories"></a>Kategorie
 
 - Data: 2020-10-28
 - Możliwości
 
-### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
+### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
 Partnerzy CSP
 
 ### <a name="details"></a>Szczegóły
 
 Firma Microsoft dokłada starań, aby pomóc naszym partnerom zmaksymalizować ich potencjał, tworzyć innowacyjne rozwiązania i zwiększyć sukcesy klientów w Microsoft Partner Network. Dostawca rozwiązań w chmurze (CSP) to jeden z naszych najszybciej rozwijających się programów z ponad 90 000 uczestniczących firm.
-Aby przyspieszyć rozwój biznesowy partnerów w programie Dostawca rozwiązań w chmurze, wprowadzamy odświeżone środowisko cyfrowe programu Cloud Solution Program (CSP) w witrynie internetowej programu Microsoft Partner Network oraz nowy przewodnik dotyczący programu CSP. To odnówienie doświadczenia i nowych zasobów pomoże partnerom w uwolnić nowe możliwości i efektywniej rozwijać swoją firmę w programie CSP.
+Aby przyspieszyć rozwój biznesowy partnerów w programie Dostawca rozwiązań w chmurze, wprowadzamy odświeżone środowisko cyfrowe programu Cloud Solution Program (CSP) w witrynie internetowej usługi Microsoft Partner Network oraz nowy przewodnik po programie CSP. To odświeżone środowisko i nowe zasoby pomogą partnerom w odblokowaniu nowych możliwości i efektywniej rozwijaniu działalności w programie CSP.
 
 To nowe środowisko cyfrowe będzie obejmować:
 
-- Odświeżone środowisko cyfrowe programu CSP w celu przyspieszenia rozwoju firmy partnerskiej: Odświeżona strona CSP oferuje usprawnione środowisko, które prowadzi partnera przez proces rejestrowania, tworzenia rozwiązań, wdrażania na rynek i sprzedaży. Partnerzy mogą rozwijać swoje możliwości przychodów dzięki kampanii sprzedażowych i zasobom chodzcym na rynek. Inne zintegrowane zasoby pomagają partnerom być na bieżąco z programem CSP i ułatwiać im prowadzenia działalności.
-- Nowy Dostawca rozwiązań w chmurze programu w celu pomocy partnerom w identyfikowaniu nowych możliwości: ten przewodnik krok po kroku zawiera partnerom wskazówki dotyczące przyspieszania rozwoju firmy w chmurze za pomocą programu i rozszerzania możliwości uzyskania przychodów.
+- Odświeżone środowisko cyfrowe programu CSP w celu przyspieszenia rozwoju firmy partnerskiej: odświeżona strona CSP oferuje usprawnione środowisko, które prowadzi partnera przez proces rejestrowania, tworzenia rozwiązań, wdrażania na rynek i sprzedaży. Partnerzy mogą rozwijać swoje możliwości przychodów dzięki kampaniom sprzedażowym i zasobom chodzcym na rynek. Inne zintegrowane zasoby pomagają partnerom na bieżąco aktualizować i ułatwiać prowadzenia działalności w programie CSP.
+- Nowy Dostawca rozwiązań w chmurze przewodnik po programie, który pomaga partnerom identyfikować nowe możliwości: ten przewodnik krok po kroku zawiera wskazówki dla partnerów dotyczące przyspieszania rozwoju firmy w chmurze za pomocą programu i rozszerzania możliwości uzyskania przychodów.
 - Zawartość programu CSP w obszarze roboczym rozwiązania: Obszar roboczy rozwiązania to cyfrowe środowisko, które zapewnia pojedyncze miejsce docelowe zasobów na żądanie, które pozwala szybciej wprowadzać pomysły na rynek. Teraz dostawcy usług mogą znaleźć zawartość i zasoby specyficzne dla programu CSP w obszarze roboczym rozwiązania.
 
 ### <a name="additional-resources"></a>Dodatkowe zasoby
@@ -130,8 +130,8 @@ To nowe środowisko cyfrowe będzie obejmować:
 - Odwiedź [odświeżoną stronę CSP](https://aka.ms/CSP) 
 - Zapoznaj [się z nowym przewodnikiem po programie CSP](https://aka.ms/cspguidebook) i dowiedz się więcej o możliwościach wzrostu
 - Rozpoczynanie korzystania z obszaru roboczego rozwiązania w celu tworzenia praktyk i upraszczania kroków
-- Prowadzenia większej liczby kampanii przy użyciu zasobów odgrywanych przez sprzedaż 
-- Zachęcamy współpracowników do odwiedzania strony CSP i udostępniania powyższych zasobów w organizacji. Jeśli jesteś dostawcami pośrednimi, udostępnij zasoby odsprzedawcom pośrednim.
+- Wyeksymuj więcej kampanii, gdy sprzedaż odgrywa rolę w zasobach 
+- Zachęcamy współpracowników do odwiedzania strony programu CSP i udostępniania powyższych zasobów w organizacji. Jeśli jesteś dostawcami pośrednimi, udostępnij zasoby odsprzedawcom pośrednim.
 
 ________________
 
@@ -146,7 +146,7 @@ ________________
 
 Cennik subskrypcji oprogramowania z października 2020 r. został zaktualizowany.
 
-### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
+### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
 Wszyscy partnerzy w ramach programu Dostawca rozwiązań w chmurze (CSP)
 
@@ -154,11 +154,11 @@ Wszyscy partnerzy w ramach programu Dostawca rozwiązań w chmurze (CSP)
 
 Cennik subskrypcji oprogramowania z października 2020 r. został zaktualizowany o dwa pominięte wcześniej produkty.
 
-Windows 7 Year 2 ESU was available in October 2020 [(7 Rok 2 ESU](#3) był dostępny w październiku 2020 r.). Cennik 2 roku jest teraz dostępny w cenniku subskrypcji oprogramowania.
+Windows 7 year 2 ESU was available in October 2020 [(7 Rok 2 ESU](#3) był dostępny w październiku 2020 r.). Cennik 2 roku jest teraz dostępny w cenniku subskrypcji oprogramowania.
 - Identyfikator produktu: DG7GMGF0FL73
 - Identyfikator SKU: 0003
 
-[Usługa Azure SQL Edge](2020-september.md#9) została wydana pod koniec września 2020 r. Jest ona teraz dostępna w bieżącym cenniku Partner Center sprzedaży. 
+[Usługa Azure SQL Edge](2020-september.md#9) została wydana pod koniec września 2020 r. Jest ona teraz dostępna w bieżącym cenniku Partner Center cennika. 
 - Identyfikator produktu: DG7GMGF0GJC2
 
 Wszystkie cenniki Partner Center CSP są dostępne po zalogowaniu się do Partner Center i przejściu do tematu Sales/Offers and Pricing (Sprzedaż/oferty i cennik).
@@ -172,7 +172,7 @@ Wszystkie cenniki Partner Center CSP są dostępne po zalogowaniu się do Partne
 
 ________________
 
-## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>Wprowadzenie standardu wydajności dla wymagań partnera rachunku bezpośredniego w programie Dostawca rozwiązań w chmurze (CSP)
+## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>Wprowadzenie standardu wydajności dla wymagań partnerów rozliczających się bezpośrednio w programie Dostawca rozwiązań w chmurze (CSP)
 
 ### <a name="categories"></a>Kategorie
 
@@ -181,11 +181,11 @@ ________________
  
 ### <a name="summary"></a>Podsumowanie
 
-Wprowadzamy standard wydajności w ramach wymagań partnera z rozliczeniami bezpośrednimi w programie Dostawca rozwiązań w chmurze klienta.
+Wprowadzamy standard wydajności w ramach wymagań partnera z rozliczeniami bezpośrednimi w programie Dostawca rozwiązań w chmurze programie.
 
-### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
+### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
-Partnerzy rozliczani bezpośrednio w Dostawca rozwiązań w chmurze programu.
+Bezpośredni partnerzy rozliczani w Dostawca rozwiązań w chmurze programie.
 
 ### <a name="details"></a>Szczegóły
 
@@ -197,28 +197,28 @@ Najpierw **wprowadzamy standard wydajności w** ramach wymagań partnera z rozli
 
 Ten standard wydajności zostanie wprowadzony w styczniu 2021 r. dla bieżących partnerów z rozliczaniem bezpośrednim i należy spełnić wymagania dotyczące daty odnowienia planu pomocy technicznej dla partnerów.
 
-Jeśli nie możesz lub nie chcesz spełniać zaktualizowanych wymagań partnera z rozliczeniami bezpośrednimi, musisz ponownie zarejestrować się jako odsprzedawca pośredni w programie Dostawca rozwiązań w chmurze klienta. 
+Jeśli nie możesz lub nie chcesz spełniać zaktualizowanych wymagań partnera rozliczanych bezpośrednio, musisz ponownie zarejestrować się jako odsprzedawca pośredni w programie Dostawca rozwiązań w chmurze faktury. 
 
-To nowe wymaganie dotyczące przychodów pomoże partnerom w programie Dostawca rozwiązań w chmurze tworzyć bardziej zyskowną działalność za pomocą odpowiedniego modelu z bardziej przejrzystym standardem wydajności i skoncentrować się na dostarczaniu większej wartości klientom z mniejszym obciążeniem infrastruktury i działania.
+To nowe wymaganie dotyczące przychodów pomoże partnerom w programie Dostawca rozwiązań w chmurze w rozwoju bardziej zyskownej działalności za pośrednictwem odpowiedniego modelu z bardziej przejrzystym standardem wydajności i skoncentrowaniu się na dostarczaniu większej wartości klientom, którzy mają mniejsze obciążenie związane z infrastrukturą i operacyjną.
 
-Po drugie, w sierpniu 2018 r., zaktualizowaliśmy wymagania partnerów rozliczanych bezpośrednio o nowe kryteria zakupu kwalifikowanego planu pomocy technicznej partnera dla partnerów. Ponownie podkreślamy, jak ważne jest to wymaganie dla wszystkich partnerów rozliczających się bezpośrednio w Dostawca rozwiązań w chmurze programu.
+Po drugie, w sierpniu 2018 r., zaktualizowaliśmy wymagania partnerów rozliczanych bezpośrednio o nowe kryteria zakupu kwalifikowanego planu pomocy technicznej dla partnerów. Ponownie podkreślamy, jak ważne jest to, aby było to wymagane dla wszystkich partnerów rozliczających się bezpośrednio w Dostawca rozwiązań w chmurze programie.
 
-### <a name="direct-bill-partner-requirements"></a>Wymagania partnerów rozliczanych bezpośrednio
+### <a name="direct-bill-partner-requirements"></a>Wymagania partnerów z rozliczeniami bezpośrednimi
 
-Przejrzyj zaktualizowane [wymagania i](../direct-partner-new-requirements.md#minimum-requirements) zalecenia dotyczące partnerów rozliczanych bezpośrednio, aby ocenić, jak można utworzyć i rozwinąć bardziej zyskowną firmę przy użyciu odpowiedniego modelu w Dostawca rozwiązań w chmurze programie:
+Przejrzyj zaktualizowane [wymagania i zalecenia dla](../direct-partner-new-requirements.md#minimum-requirements) partnerów rozliczanych bezpośrednio, aby ocenić, jak można utworzyć i rozwinąć bardziej dochodową firmę przy użyciu odpowiedniego modelu w Dostawca rozwiązań w chmurze programie:
 
 1.**Nowe wymaganie dotyczące wydajności przychodów**
 
-**Istniejący partnerzy,** którzy są obecnie zarejestrowani w programie Dostawca rozwiązań w chmurze jako partnerzy rozliczani bezpośrednio, będą musieli spełnić nowy standard wydajności od stycznia 2021 r. Będziesz mieć czas do następnej daty odnowienia planu pomocy technicznej partnera, aby spełnić wymagania. Możesz przejrzeć swoje końcowe przychody z 12 miesięcy dla Partner Center, korzystając z [tego przewodnika](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf).
+**Istniejący partnerzy,** którzy są obecnie zarejestrowani w programie Dostawca rozwiązań w chmurze jako partnerzy rozliczani bezpośrednio, będą musieli spełnić nowy standard wydajności od stycznia 2021 r. Będziesz mieć czas do następnej daty odnowienia planu pomocy technicznej partnera, aby spełnić wymagania. Możesz przejrzeć swoje końcowe przychody z 12 miesięcy dla Partner Center, korzystając z [tego przewodnika.](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)
 
-Nowi partnerzy rejestrujący się w programie Dostawca rozwiązań w chmurze będą od października **2020** r. odsprzedawcami pośrednimi. W ciągu poprzednich 12 miesięcy muszą mieć przychód w wysokości co najmniej 300 000 USD w programie CSP. Możesz przejrzeć swój 12-miesięczny przychód z Partner Center, korzystając z [tego przewodnika](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf). 
+Nowi partnerzy rejestrujący się w programie Dostawca rozwiązań w chmurze będą od października **2020** r. odsprzedawcami pośrednimi. W ciągu poprzednich 12 miesięcy muszą mieć przychód w wysokości co najmniej 300 000 USD w programie CSP. Możesz przejrzeć końcowe przychody z 12 miesięcy dla Partner Center, korzystając z [tego przewodnika.](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf) 
 
 2.**Wymaganie umowy pomocy technicznej** 
 
-Rozwiń swoje możliwości pomocy technicznej, kupując jedną z dwóch opcji umowy pomocy technicznej:  
+Rozwiń możliwości pomocy technicznej, kupując jedną z dwóch opcji kontraktu pomocy technicznej:  
 
    - Zaawansowana pomoc techniczna firmy Microsoft dla partnerów (ASfP): pomoc techniczna w chmurze z priorytetem "jeden na jeden"  
-   - Pomoc techniczna Premier firmy Microsoft dla partnerów (PSfP): uzyskaj dostęp do pełnego katalogu proaktywnych usług, 24/7 godzin wsparcia z podwyższonym poziomem uprawnień/naprawy oraz do zarządzania kontami technicznymi w chmurze, środowisku hybrydowym i lokalnym. 
+   - Pomoc techniczna Premier firmy Microsoft dla partnerów (PSfP): uzyskaj dostęp do pełnego katalogu proaktywnych usług, 24/7-godzinnego wsparcia w przypadku przerwania/naprawy z podwyższonym poziomem uprawnień oraz zarządzania kontami technicznymi w chmurze, środowisku hybrydowym i lokalnym. 
 
 Porównaj [opcje umów pomocy technicznej,](https://partner.microsoft.com/support/partnersupport) aby kupić kwalifikowany plan.
 
@@ -226,15 +226,15 @@ Porównaj [opcje umów pomocy technicznej,](https://partner.microsoft.com/suppor
 
 **Zademonstruj kluczowe możliwości**
 
-Aby upewnić się, że wszystko jest gotowe i masz wiedzę na temat infrastruktury potrzebnej do obsługi programu z rozliczeniami bezpośrednimi, mamy kilka dodatkowych zaleceń. Zademonstruj, że zapewniasz co najmniej jedną zarządzaną usługę, usługę IP lub aplikację rozwiązania klienta. Partnerzy powinni dodawać wartość na usługach w chmurze firmy Microsoft, a nie tylko bezpośrednio odsprzedawać nasze usługi. Jest to ważna część strategii wejściowej partnera na rynek. [Dowiedz się więcej](https://partner.microsoft.com/solutions/managed-services) o dodawaniu usług zarządzanych. Zalecamy spełnienie minimalnych możliwości infrastruktury, takich jak rozliczenia i aprowizowanie. 
+Aby upewnić się, że masz gotową i wiedzę na temat infrastruktury potrzebnej do obsługi programu rachunku bezpośredniego, mamy kilka dodatkowych zaleceń. Zademonstruj, że zapewniasz co najmniej jedną zarządzaną usługę, usługę IP lub aplikację rozwiązania klienta. Partnerzy powinni dodawać wartość w oparciu o usługi w chmurze firmy Microsoft, a nie tylko bezpośrednio odsprzedawać nasze usługi. Jest to ważna część strategii partnerów dotyczącej wychodnia na rynek. [Dowiedz się więcej](https://partner.microsoft.com/solutions/managed-services) o dodawaniu usług zarządzanych. Zalecamy spełnienie minimalnych możliwości infrastruktury, takich jak rozliczenia i aprowizowanie. 
 
 Partnerzy rozliczani bezpośrednio w programie CSP, którzy nie spełniają nowych wymagań, będą musieli ponownie zarejestrować się jako odsprzedawcy pośredni w programie w Microsoft Partner Network. [Dowiedz się więcej](../transition-direct-to-indirect.md) o tym, jak można przejść z partnera z rozliczeniami bezpośrednimi do odsprzedawcy pośredniego.  
 
 ### <a name="next-steps"></a>Następne kroki
 
-- Przejrzyj zaktualizowane [wymagania partnerów rozliczanych bezpośrednio.](../direct-partner-new-requirements.md#minimum-requirements)
-- Przejrzyj często zadawane pytania i inne informacje w [galerii zasobów operacji w witrynie internetowej partnera firmy Microsoft.](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)
-- Znajdź [dostawcę pośredniego, z który będzie współpracować,](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider) jeśli opcja odsprzedawcy pośredniego lepiej odpowiada Twoim potrzebom biznesowym.
+- Zapoznaj się ze [zaktualizowanymi wymaganiami partnerów rozliczanych bezpośrednio.](../direct-partner-new-requirements.md#minimum-requirements)
+- Zapoznaj się z często zadawanymi pytaniami i innymi informacjami w [galerii zasobów operacji w witrynie internetowej partnera firmy Microsoft.](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)
+- Znajdź [dostawcę pośredniego, z który będzie pracować,](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider) jeśli opcja odsprzedawcy pośredniego lepiej odpowiada Twoim potrzebom biznesowym.
 ________________________________
 
 ## <a name="microsoft-365-business-voice-offer-updates"></a><a name="12"></a>Microsoft 365 Business Voice Aktualizacje oferty
@@ -246,15 +246,15 @@ ________________________________
  
 ### <a name="summary"></a>Podsumowanie
 
-Identyfikatory ofert w listopadowej wersji zapoznawczej cennika były niepoprawne.
+Identyfikatory ofert w listopadowym cenniku w wersji zapoznawczej były nieprawidłowe.
 
-### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
+### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
 Wszyscy partnerzy w ramach programu Dostawca rozwiązań w chmurze (CSP)
 
 ### <a name="details"></a>Szczegóły
 
-Niedawno udostępniliśmy ogłoszenia o nowych ofertach, które wkrótce w listopadzie: [Microsoft 365 Business Voice](#10) dla organizacji niedochodowych [i Microsoft 365 Business Voice](#9).
+Niedawno udostępniliśmy ogłoszenia o nowych ofertach wkrótce w listopadzie: [Microsoft 365 Business Voice dla](#10) organizacji niedochodowych [i Microsoft 365 Business Voice](#9).
 
 
 Poprawiono kilka identyfikatorów ofert w tych ogłoszeniach. Należy oczekiwać, że te poprawione identyfikatory ofert zostaną opublikowane w listopadowej aktualizacji cennika w najbliższych tygodniach.
@@ -264,21 +264,21 @@ Poprawiono kilka identyfikatorów ofert w tych ogłoszeniach. Należy oczekiwać
    |**Nazwa oferty**|**Identyfikator oferty**|**Identyfikator materiału**|
    |-------------------|:------|:------|
    |Microsoft 365 Business Voice Adoption Promo (TYLKO w USA)|4244aed3-90ae-4754-8dc8-37f2e8d84e85|PZW-00020|
-   |Microsoft 365 Business Voice (Nonprofit Staff Pricing)|8ede98bb-64b1-44b6-a6a9-96e8346b2e15|PZW-00018|
+   |Microsoft 365 Business Voice (cennik dla pracowników organizacji non profit)|8ede98bb-64b1-44b6-a6a9-96e8346b2e15|PZW-00018|
 
 #### <a name="incorrect-offer-ids"></a>Nieprawidłowe identyfikatory ofert
 
-Należy zignorować następujące listopadowe informacje o identyfikatorze oferty w wersji zapoznawczej cennika. 
+Następujące informacje o identyfikatorze oferty w wersji zapoznawczej cennika listopadowego powinny zostać zignorowane. 
 
    |**Nazwa oferty**|**Identyfikator oferty**|
    |-------------------|:------|
    |Microsoft 365 Business Voice Adoption Promo (TYLKO w USA)|93a8771f-ddc7-4c68-ac21-6bd1b17d1e5b|
-   |Microsoft 365 Business Voice (Nonprofit Staff Pricing)|ae54a18d-3472-473a-9b21-9831b8e658f3|
+   |Microsoft 365 Business Voice (cennik dla pracowników organizacji non profit)|ae54a18d-3472-473a-9b21-9831b8e658f3|
 
 ### <a name="next-steps"></a>Następne kroki
 
 - Zapoznaj się z cennikiem wersji zapoznawczej i udostępnij te informacje wszystkim odpowiednim kontaktom w organizacji.
-- Przejrzyj wszystkie materiały dotyczące gotowości w galerii zasobów aktualizacji programu CSP Wprowadzenie [Microsoft 365 Business Voice dla małych i średnich firm.](https://partner.microsoft.com/resources/collection/m365-voice-smb)
+- Zapoznaj się ze wszystkimi materiałami na temat gotowości w galerii zasobów aktualizacji programu CSP Introducing Microsoft 365 Business Voice for small and medium businesses (Wprowadzenie do programu CSP Program Updates [dla małych i średnich firm).](https://partner.microsoft.com/resources/collection/m365-voice-smb)
 ________________
 
 ## <a name="november-2020-update-online-services-and-software-channel-authorization-guide"></a><a name="11"></a>Aktualizacja z listopada 2020 r.: przewodnik dotyczący autoryzacji usług online i kanału oprogramowania
@@ -291,15 +291,15 @@ ________________
 ### <a name="summary"></a>Podsumowanie 
 Aktualizacje przewodnika autoryzacji MPA.
 
-### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
+### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
 Rachunek bezpośredni, dostawcy pośredni i partnerzy wielowarstwowi biorący udział w programie Dostawca rozwiązań w chmurze (CSP).
 
 ### <a name="details"></a>Szczegóły
-Zgodnie z tym podsekcją usług online i autoryzacji kanału oprogramowania, w ramach tej sekcji zatytułowanej "Powiadomienie o zmianach", zatytułowanej "Zmiany w przewodnikach", w witrynie Microsoft Partner Agreement — Firma Microsoft informuje Użytkownika, że usługi online i przewodnik autoryzacji kanału oprogramowania są aktualizowane; Wersja zapoznawcza zaktualizowanego przewodnika jest [dostępna tutaj.](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-pdf) Ta aktualizacja stanie się obowiązywać po 30 dniach od daty powiadomienia. Nie trzeba już nic akcję podjąć.
+Zgodnie z tym podsekcją usług online i autoryzacji kanału oprogramowania, w ramach tej sekcji zatytułowanej "Powiadomienie o zmianach", zatytułowanej "Zmiany przewodników", w twojej firmie Microsoft Partner Agreement — Firma Microsoft informuje Użytkownika, że usługi online i przewodnik autoryzacji kanału oprogramowania są aktualizowane; Wersja zapoznawcza zaktualizowanego przewodnika jest [dostępna tutaj.](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-pdf) Ta aktualizacja będzie obowiązywać po 30 dniach od daty tego powiadomienia. Nie trzeba nic dalej akcję podjąć.
 
 ### <a name="next-steps"></a>Następne kroki
-Nie są wymagane żadne akcje. Jest to tylko powiadomienie.
+Nie są wymagane żadne akcje. Jest to tylko uwaga.
 
 ________________
 
@@ -314,7 +314,7 @@ ________________
 
 1 listopada 2020 r. firma Microsoft wprowadzi nowe jednostki SKU dla Microsoft 365 Business Voice dla organizacji niedochodowych.
 
-### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
+### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
 Dostawcy bezpośredni, dostawcy pośredni i odsprzedawcy pośredni
 
@@ -335,7 +335,7 @@ Microsoft 365 Business Voice można dodać do następujących subskrypcji dla ma
 ### <a name="next-steps"></a>Następne kroki
 
 - Zapoznaj się z cennikiem wersji zapoznawczej i udostępnij te informacje wszystkim odpowiednim kontaktom w organizacji.
-- Przejrzyj wszystkie materiały dotyczące gotowości w galerii zasobów aktualizacji programu Dostawca rozwiązań w chmurze (CSP): [Introducing Microsoft 365 Business VOICE for small and medium business business (Wprowadzenie](https://partner.microsoft.com/resources/collection/m365-voice-smb#/)do usługi Microsoft 365 Business VOICE dla małych i średnich firm).
+- Przejrzyj wszystkie materiały dotyczące gotowości w galerii zasobów aktualizacji programu Dostawca rozwiązań w chmurze (CSP): [Introducing Microsoft 365 Business VOICE for small and medium business business (Wprowadzenie](https://partner.microsoft.com/resources/collection/m365-voice-smb#/)do usługi Business VOICE dla małych i średnich firm).
 
 ________________
 
@@ -348,12 +348,12 @@ ________________
 
 ### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
 
-Wszyscy partnerzy w ramach programu CSP
+Wszyscy partnerzy inicjujące transakcje za pośrednictwem programu CSP
 
 ### <a name="details"></a>Szczegóły
 
-Firma Microsoft wprowadza dwie nowe promocje dla partnerów dotyczące programu CSP, aby Teams rozwiązania do obsługi spotkań. Obie promocje zmniejszają liczbę problemów związanych z dodawaniem wideokonferencji do licencji usługi Microsoft 365, zapewniając klientom pełną Microsoft 365 i Teams jako rozwiązanie do obsługi spotkań i połączeń.
-Od 1 października 2020 r. do 31 marca 2021 r. klienci mogą bezpłatnie dodawać konferencje audio Microsoft 365 jako dodatkową sku do subskrypcji usługi Microsoft 365 przez 12 miesięcy.
+Firma Microsoft wprowadza dwie nowe promocje dla partnerów dotyczące programu CSP, aby Teams rozwiązania do obsługi spotkań. Obie promocje zmniejszają liczbę problemów związanych z dodawaniem konferencji audio do licencji Microsoft 365, zapewniając klientom pełną wartość Microsoft 365 i Teams jako rozwiązania do spotkań i połączeń.
+Od 1 października 2020 r. do 31 marca 2021 r. klienci mogą bezpłatnie dodać do subskrypcji usługi Microsoft 365 dodatkową do 12 miesięcy dodatkową subskrypcję usługi Microsoft 365 AudioKonferencje.
 
 #### <a name="offer-details"></a>Szczegóły oferty
 
@@ -368,7 +368,7 @@ Od 1 listopada 2020 r. do 30 kwietnia 2021 r. nowe i odnowienia subskrypcji usł
    |Microsoft 365 Business Voice Rabat za wdrożenie|e7d1d0fa-b769-45c7-aaea-c3e6f7402691|PZX-00006|
    |Microsoft 365 Business Voice Rabat za wdrożenie|ef3ff6bb-a288-4a56-9204-97b37ff9a0b8|PZW-00019|
    |Microsoft 365 Business Voice Rabat za wdrożenie|93a8771f-ddc7-4c68-ac21-6bd1b17d1e5b|PZW-00020|
-   |Microsoft 365 Business Voice (bez planu wywoływania) ( Rabat na wdrożenie)|b71df433-6fd9-4549-886d-577f7aa06070|PZY-00019|
+   |Microsoft 365 Business Voice (bez planu wywoływania) ( Rabat na wdrożenie)|b71df433-6fd9-4549-886d-577f7aaa06070|PZY-00019|
    |Microsoft 365 Business Voice (bez planu wywoływania) ( Rabat na wdrożenie)|4ba4d580-4902-42b0-8411-a27358dd5405|PZY-00016|
    |Microsoft 365 Business Voice (bez planu wywoływania) ( Rabat na wdrożenie)|bbfd896b-e3d4-45ba-9319-14104d400069|PZY-00018|
    |Microsoft 365 Business Voice (bez planu wywołań) na potrzeby promocji wdrożenia USA|9b05d0b7-cfb4-42f1-9cc3-f698dba2838e|PZY-00017|
@@ -532,23 +532,23 @@ Plany połączeń firmy Microsoft były wcześniej dostępne na następujących 
    |Microsoft 365 Plan połączeń krajowych i międzynarodowych|ded34535-507f-4246-8370-f9180318c537|AAA-13708|
    |Microsoft 365 Krajowe i międzynarodowe plany połączeń (cennik dla instytucji rządowych)|d97b23b4-627c-41db-8f55-ce342b0db656|AAA-13709|
    |Microsoft 365 Plan połączeń krajowych i międzynarodowych dla uczniów|64ed3fb4-9f46-4e8a-b287-7a3662245c37|AAA-22337|
-   |Microsoft 365 Krajowe i międzynarodowe plany połączeń dla nauczycieli lub wykładowców|492b8a14-381c-4536-bf63-bd5785c14734|AAA-22336|
-   |Microsoft 365 Krajowe i międzynarodowe plany połączeń dla GCC|0cf5df85-ecf5-43f5-93b0-04a950e906a3|AAD-25680|
+   |Microsoft 365 Plan połączeń krajowych i międzynarodowych dla nauczycieli lub wykładowców|492b8a14-381c-4536-bf63-bd5785c14734|AAA-22336|
+   |Microsoft 365 Plan połączeń krajowych i międzynarodowych dla GCC|0cf5df85-ecf5-43f5-93b0-04a950e906a3|AAD-25680|
    |Microsoft 365 Plan połączeń krajowych (120 minut)|40d28d55-0006-4bb0-8f41-37ac05df5dc7|AAD-11639|
    |Microsoft 365 Plan połączeń krajowych (120 minut) dla uczniów|353d7f89-2e6f-4deb-9145-80f281a782ab|AAD-11641|
    |Microsoft 365 Plan połączeń krajowych (120 minut) dla nauczycieli lub wykładowców|80fc6c74-cc94-478d-97b0-8455593a5987|AAD-11640|
 
 ### <a name="next-steps"></a>Następne kroki
 
-- Jeśli jesteś na rynku, na którym plany połączeń telefonicznych zostaną udostępnione 1 października 2020 r., udostępnij je uczestnikom projektu 
+- Jeśli jesteś na rynku, na którym plany połączeń zostaną udostępnione 1 października 2020 r., udostępnij je uczestnikom projektu 
 - W tych lokalizacjach geograficznych sprzedaj się do klientów, aby omówić plany połączeń firmy Microsoft. 
-- Nominuj klienta na warsztaty Microsoft Teams Calling Workshop 
+- Wyznaczyć klienta do warsztatu Microsoft Teams Calling Workshop 
 - Skorzystaj z przewodnika Microsoft Teams partnerów, aby opracować swoją praktykę w zakresie wywoływania 
-- Uzyskanie wywołania do Microsoft Teams specjalizacji zaawansowanej 
+- Uzyskanie wywołania dla Microsoft Teams specjalizacji zaawansowanej 
 
 ### <a name="questions"></a>Masz pytania?
 
-Aby uzyskać dodatkowe pytania dotyczące tych ofert, sprawdź odpowiednie Yammer społeczności.
+Jeśli masz dodatkowe pytania dotyczące tych ofert, sprawdź swoje Yammer społeczności.
 
 ________________
 
@@ -563,25 +563,25 @@ ________________
 
 1 listopada 2020 r. będą dostępne nowe ceny promocyjny dla usługi Microsoft Teams Advanced Communications. 
 
-### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
 
 Wszyscy partnerzy w ramach programu Dostawca rozwiązań w chmurze (CSP).
 
 ### <a name="details"></a>Szczegóły
 
-Advanced Communications Promo SKU for Microsoft Teams będzie dostępna od 1 listopada 2020 r. z rabatem 35 procent. SKU można kupić od 1 listopada 2020 r. do 31 stycznia 2021 r. 
+SKU Advanced Communications Promo dla Microsoft Teams będzie dostępna od 1 listopada 2020 r. z rabatem 35 procent. SKU można kupić od 1 listopada 2020 r. do 31 stycznia 2021 r. 
 
  
 #### <a name="offer-details"></a>Szczegóły oferty
 
    |**Nazwa oferty**|**Identyfikator oferty**|**Identyfikator materiału**|
    |-------------------|:------|:------|
-   |Advanced Communications Promo|0e89eea4-5cb1-4417-9f5d-886d1ff87940|1UC-00013|
+   |Advanced Communications ( Promocja dla komunikacji zaawansowanej)|0e89eea4-5cb1-4417-9f5d-886d1ff87940|1UC-00013|
 
 #### <a name="frequently-asked-questions"></a>Często zadawane pytania
 
-**Co to jest zaawansowana komunikacja?**
-Jest to nowa Microsoft Teams SKU dodatku, która umożliwia klientom dalsze ulepszanie obsługi komunikacji na podstawie dowolnego pakietu Microsoft 365 lub Office 365, który subskrybują.
+**Co to jest komunikacja zaawansowana?**
+Jest to nowa Microsoft Teams SKU, która umożliwia klientom dalsze ulepszanie obsługi komunikacji na podstawie dowolnego pakietu Microsoft 365 lub Office 365, który subskrybują.
 
 **Ile to kosztuje bez promocji?**
 Szacowana komercyjna cena detaliczna wynosi 12 USD na użytkownika miesięcznie.
@@ -592,27 +592,27 @@ Komercyjny, komercyjny sektor publiczny na całym świecie, edukacja i organizac
 **Za pośrednictwem których kanałów można kupić komunikację zaawansowaną?**
 Enterprise Agreement (EA)/Enterprise Subscription (EAS), Enrollment for Education Solutions (EES), CSP lub Web Direct.
 
-**Którzy klienci mogą zakupić skusyjną komunikację zaawansowaną?**
+**Którzy klienci mogą zakupić usługę Advanced Communications w cenie SKU?**
 Tylko klienci komercyjni.
 
-**W jaki sposób można kupić promocyjny sku komunikacji zaawansowanej?**
+**W jaki sposób można kupić sku promocyjnych wiadomości zaawansowanych?**
 Promocyjny sku można kupić za pośrednictwem EA/EAS lub CSP. 
 
 **Gdzie można je sprzedać?**
-Można go sprzedawać na wszystkich bieżących rynkach.
+Można go sprzedać na wszystkich bieżących rynkach.
 
 **Jakie są wymagania wstępne dotyczące komunikacji zaawansowanej?**
-Microsoft Teams i dowolny Microsoft 365/Office 365 pakietu.
+Microsoft Teams i wszelkie Microsoft 365/Office 365 pakietu.
 
 ### <a name="next-steps"></a>Następne kroki
 
-- Udostępnij te informacje odpowiednim kontaktom w organizacji i poznaj możliwości sprzedaży upsell i cross-sell.
-- Zapoznaj się z sekcją zasobów [przewodnika Teams partnerów.](https://aka.ms/teamscallingmeetingsguide)
-- Dodatkowe informacje na temat ofert Microsoft Teams można znaleźć na [blogu](https://www.microsoft.com/microsoft-365/blog/2020/09/08/3-deals-meeting-calling-experiences-microsoft-teams/) lub w [Office 365 yammer partnera.](https://www.yammer.com/office365partners/)
+- Udostępnij te informacje odpowiednim kontaktom w twojej organizacji i poznaj możliwości sprzedaży krzyżowej i sprzedaży.
+- Zapoznaj się z sekcją zasobów przewodnika [Teams partnerów.](https://aka.ms/teamscallingmeetingsguide)
+- Dodatkowe informacje na temat ofert promocyjnych Microsoft Teams można znaleźć na [blogu](https://www.microsoft.com/microsoft-365/blog/2020/09/08/3-deals-meeting-calling-experiences-microsoft-teams/) lub w [Office 365 yammer partnera.](https://www.yammer.com/office365partners/)
 
 ### <a name="questions"></a>Masz pytania?
 
-W przypadku pytań dotyczących tych ofert skontaktuj się z przedstawicielem w konto Microsoft lub pomocy technicznej.
+W przypadku jakichkolwiek pytań dotyczących tych ofert skontaktuj się z przedstawicielem w konto Microsoft zespołu lub pomocy technicznej.
 
 ________________
 
@@ -623,41 +623,41 @@ ________________
 - Data: 2020-10-02
 - Oferty/rynki
  
-### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
 
 Dostawca rozwiązań w chmurze partnerów (CSP)
 
 ### <a name="details"></a>Szczegóły
 
-1 listopada 2020 r. firma Microsoft wyda następujące nowe i zaktualizowane oferty usługi Dynamics 365 i Power Platform produktów dla programu CSP: 
+1 listopada 2020 r. firma Microsoft wyda następujące nowe i zaktualizowane usługi Dynamics 365 i Power Platform i produkty dla programu CSP: 
 
 - Dynamics 365 Customer Voice User Subscription License (USL) 
 - Rozszerzanie ofert do CSP
 
 ### <a name="additional-resources"></a>Dodatkowe zasoby
 
-- Przejrzyj kartę Project Operations w dokumencie [Dynamics CSP Offers-November 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) Excel, aby uzyskać szczegółowe informacje o identyfikatorze oferty.
-- Więcej informacji można znaleźć na stronie głównej usługi [Microsoft Dynamics 365 Customer Voice.](https://dynamics.microsoft.com/customer-voice/overview/)
-- Zobacz ogłoszenie [wrześniowych nowych ofert usługi Dynamics](2020-september.md#3).
+- Przejrzyj kartę Project Operations (Operacje zarządzania usługami) w dokumencie [Dynamics CSP Offers-November 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) Excel, aby uzyskać szczegółowe informacje o identyfikatorze oferty.
+- Więcej informacji można znaleźć na stronie głównej [usługi Microsoft Dynamics 365 Customer Voice.](https://dynamics.microsoft.com/customer-voice/overview/)
+- Wyświetl ogłoszenie [wrześniowych nowych ofert usługi Dynamics.](2020-september.md#3)
 
 ________________
 
-## <a name="windows-7-year-2-extended-security-updates-esu-now-available-for-cloud-solution-provider-csp-partners"></a><a name="3"></a>Windows 7-letnia rozszerzona aktualizacja zabezpieczeń (ESU) jest teraz dostępna dla Dostawca rozwiązań w chmurze (CSP) partnerów 
+## <a name="windows-7-year-2-extended-security-updates-esu-now-available-for-cloud-solution-provider-csp-partners"></a><a name="3"></a>Windows 7-letnia rozszerzona aktualizacja zabezpieczeń (ESU) jest teraz dostępna dla Dostawca rozwiązań w chmurze (CSP) 
 
 ### <a name="categories"></a>Kategorie
 
 - Data: 2020-10-01
 - Oferty/rynki
  
-### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
 
 Wszyscy partnerzy biorący udział w programie CSP
 
 ### <a name="details"></a>Szczegóły
 
-Obsługa Windows 7 zakończyła się 14 stycznia 2020 r. Mimo że wielu klientów jest na drodze do wdrażania Windows 10, firma Microsoft rozumie, że wszyscy znajdują się w innym punkcie procesu uaktualniania. Od 12 stycznia 2021 Windows 7 lat ESU wiemy, że klienci zaczynają planować na następny rok.  
+Obsługa Windows 7 zakończyła się 14 stycznia 2020 r. Chociaż wielu klientów jest na drodze do wdrażania Windows 10, firma Microsoft rozumie, że wszyscy znajdują się w innym punkcie procesu uaktualniania. Od 12 stycznia 2021 Windows 7 lat ESU do 12 stycznia 2021 r. wiemy, że klienci zaczynają planować na następny rok.  
 
-W przypadku klientów, którzy oczekują dalszego używania urządzeń z systemem Windows 7 w 2021 r., program Windows 7 Year 2 ESU (data zakończenia 12 stycznia 2022 r.) jest teraz dostępny dla partnerów programu CSP, aby pomóc klientom w podejmowaniu Windows 10 decyzji. Odwiedź [galerię zasobów,](https://partner.microsoft.com/resources/collection/windows-esu-csp#/) aby uzyskać więcej informacji. 
+W przypadku klientów, którzy chcą nadal korzystać z urządzeń z systemem Windows 7 w 2021 r., program Windows 7 year 2 ESU (data zakończenia 12 stycznia 2022 r.) jest teraz dostępny dla partnerów programu CSP, aby pomóc klientom w podejmowaniu Windows 10 decyzji. Odwiedź [witrynę Galeria zasobów,](https://partner.microsoft.com/resources/collection/windows-esu-csp#/) aby uzyskać więcej informacji. 
 
 #### <a name="additional-resources"></a>Dodatkowe zasoby
 
@@ -671,7 +671,7 @@ Przejrzyj zasoby dotyczące tego tematu i udostępnij te informacje odpowiednim 
 
 ### <a name="questions"></a>Masz pytania?
 
-Aby uzyskać dodatkowe pytania dotyczące tych ofert, sprawdź odpowiednie Yammer społeczności. 
+Jeśli masz dodatkowe pytania dotyczące tych ofert, sprawdź swoje Yammer społeczności. 
 ________________
 
 ## <a name="new-skus-bring-the-power-of-project-cortex-and-more-to-customers"></a><a name="2"></a>Nowe jednostki SKU to możliwości Projekt Cortex i nie tylko dla klientów
@@ -683,18 +683,18 @@ ________________
 
 ### <a name="summary"></a>Podsumowanie
 
-Z przyjemnością ogłaszamy dostępność nowych jednostki SKU 1 października 2020 r., aby ułatwić klientom wykorzystanie możliwości Projekt Cortex [i](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) Microsoft Search.
+Z przyjemnością ogłaszamy dostępność nowych jednostki SKU z 1 października 2020 r., aby ułatwić klientom wykorzystanie możliwości Projekt Cortex [i](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) Microsoft Search.
  
-### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
 
 Partnerzy inicjujące transakcje za pośrednictwem Dostawca rozwiązań w chmurze programu
 
 ### <a name="details"></a>Szczegóły
 
-Z przyjemnością ogłaszamy 1 października 2020 r. dostępność nowych jednostki SKU i wartości, aby ułatwić klientom wykorzystanie możliwości usług [Projekt Cortex](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) i Microsoft Search w celu umożliwienia użytkownikom bardziej wydajnego znajdowanie informacji i zarządzanie nimi.  
+Z przyjemnością ogłaszamy 1 października 2020 r. dostępność nowych jednostki SKU i wartości, aby ułatwić klientom wykorzystanie możliwości usług [Projekt Cortex](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) i Microsoft Search w celu umożliwienia użytkownikom wydajniejszego znajdowanie informacji i zarządzanie nimi.  
 
-**SharePoint Syntex (wcześniej Usługi inteligentnej zawartości)**  
-SharePoint Syntex używa zaawansowanej AI do automatyzowania przechwytywania, tagowania i zarządzania zawartością. Opiera się na SharePoint przetwarzania zawartości o dużej ilości danych, wyodrębniania metadanych w celu automatyzacji procesów oraz precyzyjnego zabezpieczenia i zgodność. Dzięki temu środowisko obsługi i odnajdywania wiedzy jest lepsze, zapewniając bardziej inteligentną zawartość sieci wiedzy. 
+**SharePoint Syntex (wcześniej Inteligentne usługi zawartości)**  
+SharePoint Syntex używa zaawansowanej AI do automatyzowania przechwytywania, tagowania i zarządzania zawartością. Opiera się na SharePoint przetwarzania zawartości na dużą ilość, wyodrębniania metadanych w celu automatyzacji procesów oraz precyzyjnego zabezpieczenia i zgodność. Dzięki temu środowisko obsługi i odnajdywania wiedzy jest lepsze, zapewniając inteligentną zawartość sieci wiedzy. 
 
 SharePoint Syntex Jednostki SKU będą dostępne w cennikach z 1 października (cennik z 1 września w wersji zapoznawczej odzwierciedla usługi Intelligent Content Services). Postanowienia licencyjne firmy Microsoft mogą nadal odwoływać się do tej sku pod starą nazwą Intelligent Content Services do 1 listopada 2020 r.
 
@@ -702,8 +702,8 @@ SharePoint Syntex Jednostki SKU będą dostępne w cennikach z 1 października (
 
 Za pomocą łączników Graph Microsoft klienci mogą indeksować elementy w repozytoriach zewnętrznych w celu uwzględnienia ich Microsoft Search wyników. Od 1 października 2020 r.:
 
-- Microsoft 365 E5 i Office 365 E5 będą obejmować możliwość indeksowania do 500 elementów przy użyciu łączników usługi Microsoft Graph dla Microsoft Search (nieułączona do rozwiązania A5).  
-- Każdy użytkownik z pakietem lub licencją autonomiczną, która obejmuje plan SharePoint lub OneDrive, będzie mógł zobaczyć wyniki wyszukiwania z łączników usługi Microsoft Graph dla Microsoft Search. 
+- Microsoft 365 E5 i Office 365 E5 będzie obejmować możliwość indeksowania do 500 elementów przy użyciu łączników usługi Microsoft Graph dla usługi Microsoft Search (nieułączona do rozwiązania A5).  
+- Każdy użytkownik z pakietem lub licencją autonomiczną, która obejmuje plan usługi SharePoint lub OneDrive, będzie mógł zobaczyć wyniki wyszukiwania łączników usługi Microsoft Graph dla Microsoft Search. 
 - Nowa **dodatkowa Graph pojemności łącznika** usługi będzie dostępna do indeksowania do 1 miliona dodatkowych elementów.
 
 #### <a name="offer-details"></a>Szczegóły oferty
@@ -711,21 +711,21 @@ Za pomocą łączników Graph Microsoft klienci mogą indeksować elementy w rep
    |**Nazwa oferty**|**Identyfikator oferty**|**Identyfikator materiału**|
    |-------------------|:------|:------|
    |SharePoint Syntex|2e969027-6eca-44a3-88fb-e7923e2c147f|5YI-00004|
-   |SharePoint Syntex (Cennik dla pracowników organizacji non profit)|48db24e2-0aac-47bd-bd74-40bde9ff7748|5YI-00005|
+   |SharePoint Syntex (Nonprofit Staff Pricing)|48db24e2-0aac-47bd-bd74-40bde9ff7748|5YI-00005|
    |SharePoint Syntex dla nauczycieli lub wykładowców|4a8f9036-791e-4ce4-a788-6c5af859fd82|5Z1-00005|
-   |Dodatkowa Graph pojemności łącznika|9c8b008f-d84f-46cd-a588-fea84947161d|1LA-00002|
-   |Dodatkowa Graph pojemności łącznika dla nauczycieli i wykładowców|0e0eb210-86e7-4038-9905-4fd5bf71c4bd|1TL-00003|
+   |Dodatkowa pojemność Graph łącznika|9c8b008f-d84f-46cd-a588-fea84947161d|1LA-00002|
+   |Dodatkowa Graph pojemności łącznika dla nauczycieli lub wykładowców|0e0eb210-86e7-4038-9905-4fd5bf71c4bd|1TL-00003|
 
 ### <a name="next-steps"></a>Następne kroki
 
-Przejrzyj zasoby dotyczące tego tematu i udostępnij je odpowiednim uczestnikom projektu w organizacji.
+Przejrzyj zasoby dotyczące tego tematu i udostępnij je odpowiednim uczestnikom projektu w twojej organizacji.
 
 ### <a name="questions"></a>Pytania
 
-Aby uzyskać więcej pytań na temat tych ofert, sprawdź odpowiednie Yammer społeczności. 
+Aby uzyskać więcej pytań dotyczących tych ofert, sprawdź odpowiednie Yammer społeczności. 
 ________________
 
-## <a name="fiscal-year-2021-fy21-cloud-solution-provider-csp-incentive-program-announcement"></a><a name="1"></a>Ogłoszenie programu zachęt dla roku obrachunkowego 2021 (FY21) Dostawca rozwiązań w chmurze (CSP)
+## <a name="fiscal-year-2021-fy21-cloud-solution-provider-csp-incentive-program-announcement"></a><a name="1"></a>Ogłoszenie programu zachęt dla Dostawca rozwiązań w chmurze (CSP) w roku obrachunkowym 2021 (FY21)
 
 ### <a name="categories"></a>Kategorie
 
@@ -734,17 +734,17 @@ ________________
 
 ### <a name="summary"></a>Podsumowanie
 
-Okres programu zachęt dla programu zachęt FY21 CSP zaczyna się 1 października 2020 r. Przewodniki zachęt FY21 i talii chodzenia są teraz dostępne na Partner Center.
+Okres programu zachęt dla programu zachęt dla programu CSP FY21 zaczyna się 1 października 2020 r. Przewodniki zachęt FY21 i talii chodzenia są teraz dostępne na Partner Center.
  
-### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
 
 Partnerzy rozliczani bezpośrednio w programie CSP, dostawcy pośredni i odsprzedawcy pośredni
 
 ### <a name="details"></a>Szczegóły
 
-Okres programu zachęt dla programu zachęt dla programu CSP FY20 zakończył się 30 września 2020 r. Okres programu zachęt dla programu zachęt FY21 CSP rozpoczyna się 1 października 2020 r. i trwa do 30 września 2021 r. Przewodniki programu zachęt FY21, slajdy z omówieniem i prezentacje są teraz publikowane w odpowiednich kolekcjach zasobów programu zachęt CSP w [witrynie internetowej partnera](https://aka.ms/partnerincentives/). Zachęcamy partnerów do pobierania i przeglądania zasobów programu FY21.
+Okres FY20 CSP incentive program zakończył się 30 września 2020 r. Okres programu zachęt FY21 CSP rozpoczyna się 1 października 2020 r. i trwa do 30 września 2021 r. Przewodniki programu zachęt FY21, slajdy z omówieniem i prezentacje są teraz publikowane w odpowiednich kolekcjach zasobów programu zachęt CSP w witrynie [internetowej partnera.](https://aka.ms/partnerincentives/) Zachęcamy partnerów do pobrania i przejrzenia zasobów programu FY21.
 
-Zaktualizowane stawki programu FY21 będą obowiązywać od 1 października 2020 r. Partnerzy zauważą odpowiednie zmiany w miesięcznych płatnościach zachęt rozpoczynających się od 15 grudnia 2020 r. cyklu płatności.
+Zaktualizowane stawki programu FY21 będą obowiązywać od 1 października 2020 r. Partnerzy zauważą odpowiednie zmiany w miesięcznych płatnościach zachęt począwszy od 15 grudnia 2020 r. cyklu płatności.
 
 ### <a name="next-steps"></a>Następne kroki
 
@@ -752,5 +752,5 @@ Zaktualizowane stawki programu FY21 będą obowiązywać od 1 października 2020
 
 ### <a name="questions"></a>Masz pytania?
 
-Zalecane kroki i artykuły samodzielnej pomocy dotyczące pytań  związanych z zachętami można uzyskać, wyszukując zachęty na pasku wyszukiwania Partner Center. 
+Zalecane kroki i artykuły samodzielnej pomocy dotyczące pytań  związanych z zachętami są dostępne, wyszukując zachęty na pasku wyszukiwania Partner Center. 
 ________________
