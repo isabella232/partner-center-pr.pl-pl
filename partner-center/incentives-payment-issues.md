@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e3f3e206c851fbcc68ecd47f6027a2d5856478e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 6a1bc04970a961254c4af7a8a96688f4d3379d051840a4fd556be84041b76a9e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844779"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687823"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Rozwiązywanie problemów z brakującymi płatnościami, nieprawidłowymi zarobkami i innymi problemami
 
@@ -157,9 +157,9 @@ Jeśli te akcje nie pomogą, a Twoje zarobki nadal nie zostały uzgodnione, skon
 
 ## <a name="where-can-i-find-my-rates"></a>Gdzie mogę znaleźć moje stawki?
 
-1. Zaloguj się [do programu Zachęty dla partnerów.](https://partner.microsoft.com/membership/partner-incentives)
+1. Zaloguj się [do programu zachęt dla partnerów.](https://partner.microsoft.com/membership/partner-incentives)
 
-2. Przewiń w dół, aby uzyskać dostęp do dokumentów dotyczących programu.
+2. Przewiń w dół, aby uzyskać dostęp do dokumentów programu.
 
 3. Wybierz link do dokumentu dla odpowiedniego programu.
 

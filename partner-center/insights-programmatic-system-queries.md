@@ -1,5 +1,5 @@
 ---
-title: Lista zapytań systemowych dotyczących dostępu programowego do szczegółowych informacji o partnerze
+title: Lista zapytań systemowych dotyczących dostępu programowego do szczegółowych informacji o partnerach
 description: Dowiedz się więcej o zapytaniach systemowych, których można używać do uzyskiwania dostępu do danych analitycznych szczegółowych informacji partnerów.
 ms.topic: reference
 ms.service: partner-dashboard
@@ -8,14 +8,14 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 9f82907d24a1693097d8c9cfc42094be067639b1
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b7778a72f6f314a8150932246034e217ef7789f6cc3cab64211609dd14be046c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840012"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694170"
 ---
-# <a name="list-of-system-queries-for-partner-insights-programmatic-access"></a>Lista zapytań systemowych dotyczących dostępu programowego do szczegółowych informacji o partnerze
+# <a name="list-of-system-queries-for-partner-insights-programmatic-access"></a>Lista zapytań systemowych dotyczących dostępu programowego do szczegółowych informacji o partnerach
 
 Następujące zapytania systemowe mogą być używane w interfejsie [API tworzenia raportu](insights-programmatic-access-paradigm.md#create-report-api) bezpośrednio z queryId. Zapytania systemowe są podobne do raportów eksportu w Partner Center przez sześć miesięcy (6 mln).
 
@@ -229,7 +229,7 @@ HasAWS,HasEA,HasOpen
 FROM CLASAzurePropensity
 ```
 
-## <a name="clas-d365-propensity"></a>Proporcjonalność CLAS D365
+## <a name="clas-d365-propensity"></a>Clas D365 propensity
 
 Raport CLASD365Propensity przez sześć miesięcy
 
@@ -371,4 +371,4 @@ FROM MSLearn TIMESPAN LAST_6_MONTHS
 ## <a name="next-steps"></a>Następne kroki
 
 - [Interfejsy API do uzyskiwania dostępu do danych analitycznych szczegółowych informacji partnerów](insights-programmatic-analytics-available-api.md)
-- [Przykładowa aplikacja do uzyskiwania dostępu do danych analitycznych szczegółowych informacji partnerów](insights-programmatic-sample-application.md)
+- [Przykładowa aplikacja do uzyskiwania dostępu do danych analitycznych szczegółowych informacji partnera](insights-programmatic-sample-application.md)

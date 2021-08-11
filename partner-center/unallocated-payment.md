@@ -4,23 +4,23 @@ ms.topic: how-to
 ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
-description: Dowiedz się, czym są nieprzydzielone płatności, gdy zobaczysz je na Partner Center Rozliczeń. Dowiedz się również, jak stosować je do faktur.
+description: Dowiedz się, czym są nieprzydzielone płatności, gdy zobaczysz je na Partner Center rozliczeń. Dowiedz się również, jak stosować je do faktur.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a5f1264dfdb4059d63db6cbf361e6c2f34d8bd2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 484b6c3adb66d1bbb3358568f32412b43b8aa77d6b8c8887b4c874c2812d233d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836629"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695955"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Zarządzanie nieprzydzielonych płatnościami na Partner Center rozliczeń
 
 **Odpowiednie role:** Administrator rozliczeń | Administrator konta
 
-Czasami na stronie Rozliczeń może być widać nieprzydzieloną płatność. Nieprzydzielona płatność to płatność dokonana w firmie Microsoft, która nie jest stosowana do określonej faktury.
+Czasami na stronie Rozliczeń może być widać nieprzydzieloną płatność. Nieprzydzielona płatność to płatność dokonana do firmy Microsoft, która nie jest stosowana do określonej faktury.
 
 ## <a name="to-view-your-unallocated-payments"></a>Aby wyświetlić nieprzydzielone płatności
 
@@ -36,4 +36,4 @@ Nieprzydzielone płatności pozostają nieprzydzielone do momentu przypisania ic
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Rozliczenia za produkty i subskrypcje platformy handlowej w Partner Center](csp-commercial-marketplace-billing.md)
+- [Rozliczenia za produkty i subskrypcje komercyjnej platformy handlowej w Partner Center](csp-commercial-marketplace-billing.md)

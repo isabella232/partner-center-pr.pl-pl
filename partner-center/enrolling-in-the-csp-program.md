@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2d265dfb2db76b89f589cc4b9cd1edfd5105c52e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b093266070cdd370b556258cb21ffde1231909133b63118c92edc5a93dfb8e29
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845775"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695122"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Rejestracja w programie Cloud Solution Provider
 
@@ -26,15 +26,15 @@ Szybko rosnące zapotrzebowanie na rozwiązania i usługi oparte na chmurze zape
 
 Aby zarejestrować się w programie Dostawca rozwiązań w chmurze, musisz najpierw mieć identyfikator MPN. Nie masz jeszcze? Dołącz [tutaj.](https://partner.microsoft.com/)
 
-Do ukończenia pracy z aplikacją CSP potrzebny będzie firmowy identyfikator MPN, pełny adres firmy, informacje o banku i służbowy adres e-mail pracownika, który będzie pełnił swoją Partner Center.
+Do ukończenia aplikacji CSP potrzebny będzie firmowy identyfikator MPN, pełny adres firmy, informacje o banku i służbowy adres e-mail pracownika, który będzie pełnił swoją Partner Center.
 
 1. Zaloguj się do Partner Center przy użyciu służbowego adresu e-mail (czyli poświadczeń dzierżawy usługi Azure AD).
 
 2. Utwórz profil partnera. Możesz sprawdzić profil firmy lub wprowadzić informacje firmowe ręcznie. Jeśli Twoja firma jest zarejestrowana w [firmie Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)użyj identyfikatora DUNS ID, aby znaleźć informacje o firmie. Jeśli chcesz podać szczegóły swojej firmy samodzielnie, wybierz pozycję  **Wprowadź ręcznie.**
 
-    W przypadku niektórych krajów po ręcznym wprowadzeniu adresu zweryfikujemy Twój adres. Jeśli wprowadzany adres różni się od zweryfikowanego, zalecamy użycie zweryfikowanego adresu. Dzięki temu elementy adresu są ustryzowane zgodnie z definicją w urzędzie pocztowym kraju, poprawnie sformatowane i wysłane.
+    W przypadku niektórych krajów po ręcznym wprowadzeniu adresu zweryfikujemy Twój adres. Jeśli wprowadzany adres różni się od zweryfikowanego, zalecamy użycie zweryfikowanego adresu. Gwarantuje to, że elementy adresu są standaryzowane zgodnie z definicją w urzędzie pocztowym kraju, poprawnie sformatowane i wysłane.
 
-3. Skojarz swój identyfikator MPN ze swoim profilem. Podczas weryfikacji możemy poprosić o dodatkowe dokumenty lub wypełnienie ankiety. Przejrzenie i zweryfikowanie podanych informacji może potrwać kilka dni. Po zakończeniu przeglądu napiszemy do Ciebie wiadomość e-mail.
+3. Skojarz swój identyfikator MPN z profilem. Podczas weryfikacji możemy poprosić o dodatkowe dokumenty lub wypełnienie ankiety. Przejrzenie i zweryfikowanie podanych informacji może potrwać kilka dni. Po zakończeniu przeglądu napiszemy do Ciebie wiadomość e-mail.
 
 4. Po zweryfikowaniu informacji zaakceptuj umowę odsprzedawcy pośredniego firmy Microsoft.
 
@@ -75,11 +75,11 @@ Jako partner z rozliczeniami bezpośrednimi jesteś właścicielem relacji typu 
 |**Zalecenie**|             |
 |**Usługa zarządzana**   |Co najmniej jedna zarządzana usługa, usługa IP lub aplikacja rozwiązania klienta. Dowiedz się więcej o [dodawaniu usług zarządzanych.](https://partner.microsoft.com/business-opportunities/managed-services-provider)|
 
-### <a name="verify-direct-bill-eligibility"></a>Weryfikowanie uprawnień do faktury bezpośredniej
+### <a name="verify-direct-bill-eligibility"></a>Weryfikowanie uprawnień do bezpośredniego rachunku
 
 Po sprawdzeniu, czy spełniasz minimalne wymagania dotyczące rejestracji jako partner z rozliczeniami bezpośrednimi, możesz przejść do [formularza rejestracji](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR39X9dQFZ3FMghsMA7GOTNJUQVRPMk9KUVJZRDA1T1pSTkRSMzIzRUlOWSQlQCN0PWcu).
 
-Po sprawdzeniu, czy firma spełnia wymagania dotyczące uprawnień do zarejestrowania się jako partner z rozliczeniami bezpośrednimi, a aplikacja rejestracji została ukończona, przejmiemy i zweryfikujemy informacje biznesowe podane w procesie rejestracji. W ramach tego przeglądu sprawdzimy kredyt Twojej firmy. Otrzymasz wiadomość e-mail, gdy Twoja firma pomyślnie przeszły sprawdzanie środków.
+Po sprawdzeniu, czy Firma spełnia wymagania dotyczące uprawnień do rejestracji jako partner z rozliczeniami bezpośrednimi, a aplikacja rejestracji została ukończona, przejmiemy i zweryfikujemy informacje biznesowe podane w procesie rejestracji. W ramach tego przeglądu sprawdzimy kredyt Twojej firmy. Otrzymasz wiadomość e-mail, gdy Twoja firma pomyślnie przeszły sprawdzanie środków.
 >[!IMPORTANT]
 >Sprawdzenie środków firmy może potrwać kilka dni lub dłużej. W tym czasie ważne jest, aby NIE kupować planu pomocy technicznej firmy Microsoft. Plan pomocy technicznej firmy Microsoft należy zakupić dopiero po poinformowaniu Cię o zakończeniu sprawdzania środków.
 
@@ -92,7 +92,7 @@ Zobacz [Transition from Dostawca rozwiązań w chmurze (CSP) direct bill partner
 ## <a name="csp-regional-markets-and-currencies"></a>CSP regional markets and currencies (Rynki regionalne i waluty programu CSP)
 
 Twój rynek zależy od lokalizacji Twojej firmy. Obejmuje on regiony i kraje, w których możesz sprzedawać oferty w programie CSP. Zobacz [Dostawca rozwiązań w chmurze regionalne rynki i waluty](regional-authorization-overview.md) programu dla lokalizacji na rynku i walut.
-Pamiętaj o przeczytaniu [tematu Wymagania wstępne, aby dodać nową lokalizację dla firmy, która jest w programie CSP.](manage-locations.md)
+Pamiętaj o przeczytaniu [tematu Wymagania wstępne, aby dodać nową lokalizację dla firmy CSP.](manage-locations.md)
 
 ## <a name="provide-partner-registration-id-number-for-specific-countries"></a>Podaj numer identyfikacyjny rejestracji partnera dla określonych krajów
 

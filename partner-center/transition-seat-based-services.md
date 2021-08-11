@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 810c01c16bd6a2f9c6fa863289e1b788a057b627
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: a3aba021aa1126ff18c9709dac68856e3f6de1822cfb908db3234a0a96a1f24c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842419"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115686860"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-csp-program"></a>Przenoszenie klientów opartych na licencjach z innych kanałów & partnerów do programu Dostawca rozwiązań w chmurze (CSP)
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 393bd70096ba3cd7d1c9889d5b521cc94a389d90
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 01234eaf64beaceb0b5511c64013a67196a71b95121fe1bd831ffa93ea19054f
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845979"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687030"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Zapewnij klientom 30-dniowe bezpłatne wersje próbne produktów firmy Microsoft
 
@@ -24,7 +24,7 @@ Dobrym sposobem na wprowadzenie klientów do nowych produktów firmy Microsoft j
 
 ## <a name="available-trial-offers"></a>Dostępne oferty wersji próbnej
 
-Wszystkie zaległe oferty wersji próbnej można znaleźć na **stronie** klienta. Ta strona zawiera listę wszystkich subskrypcji, w tym bezpłatnych wersji próbnych i subskrypcji płatnych. (Ta funkcja nie jest obecnie dostępna w Chinach).
+Wszystkie zaległe oferty wersji próbnej można znaleźć na **stronie klienta.** Ta strona zawiera listę wszystkich subskrypcji, w tym bezpłatnych wersji próbnych i subskrypcji płatnych. (Ta funkcja nie jest obecnie dostępna w Chinach).
 
 Każdy klient jest uprawniony do jednej bezpłatnej wersji próbnej dla każdej dostępnej oferty. Na przykład mogą uzyskać jedną bezpłatną wersję próbną Microsoft 365 Business Standard jedną bezpłatną wersję próbną na Office 365 E3. Jeśli jednak klient jest już właścicielem oferty, nie może skorzystać z bezpłatnej wersji próbnej dla tej oferty.
 
@@ -100,7 +100,7 @@ Roczne rozliczenia i bezpłatne wersje próbne są takie same w suwerennych chmu
 
 Bezpłatne wersje próbne mogą być używane w przypadku subskrypcji rozliczanych co miesiąc i rocznie. Częstotliwość rozliczeń można wybrać podczas konwertowania wersji próbnej na płatną subskrypcję.
 
-Data rozpoczęcia subskrypcji zależy od daty konwersji. Jeśli bezpłatna wersja próbna zostanie przekonwertowana na płatną ofertę z rozliczeniami rocznymi, data odnowienia subskrypcji będzie 12 miesięcy od daty konwersji. Jeśli bezpłatna wersja próbna zostanie przekonwertowana na ofertę płatną z rozliczeniami miesięcznymi, data odnowienia subskrypcji będzie 12 miesięcy od daty rozliczeniowej następującej po dacie konwersji.
+Data rozpoczęcia subskrypcji jest oparta na dacie konwersji. Jeśli bezpłatna wersja próbna zostanie przekonwertowana na płatną ofertę z rozliczeniami rocznymi, data odnowienia subskrypcji będzie 12 miesięcy od daty konwersji. Jeśli bezpłatna wersja próbna zostanie przekonwertowana na ofertę płatną z rozliczeniami miesięcznymi, data odnowienia subskrypcji będzie 12 miesięcy od daty rozliczeniowej następującej po dacie konwersji.
 
 ### <a name="invoices"></a>Faktury
 

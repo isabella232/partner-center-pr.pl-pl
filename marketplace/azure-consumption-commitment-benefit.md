@@ -1,17 +1,17 @@
 ---
 title: Korzyść ze zobowiązania w zakresie użycia platformy Azure — Azure Marketplace
-description: Dowiedz się więcej o Microsoft Azure zużycia energii (MACC), jak określić, czy Twoja organizacja ma możliwość znalezienia ofert w Azure Portal które kwalifikują się do korzyści platformy Azure.
+description: Dowiedz się więcej o Microsoft Azure zużycia energii (MACC), jak określić, czy Twoja organizacja ma możliwość znalezienia ofert w usługach Azure Portal które kwalifikują się do korzyści platformy Azure.
 ms.prod: marketplace-customer
 ms.topic: article
 author: mingshen
 ms.author: mingshen
 ms.date: 6/02/2021
-ms.openlocfilehash: ea6683c3033b25110784896eea0ac85083b8ed9e
-ms.sourcegitcommit: 09bb02ec24d5dfc873e1528c1994a442c3fd53a4
+ms.openlocfilehash: 17e57e2dec962fbbd65b778cdcd078a64b29627e1e20c4dbca0b4c1a26ec2808
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "111391195"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115686678"
 ---
 # <a name="azure-consumption-commitment-benefit"></a>Korzyść z tytułu zobowiązania do użycia platformy Azure
 
@@ -29,7 +29,7 @@ Aby skorzystać z tej korzyści, po prostu kup kwalifikującą się ofertę w us
 
 ## <a name="determine-if-your-organization-has-an-azure-consumption-commitment-maccctc"></a>Ustalanie, czy organizacja ma zobowiązanie do użycia platformy Azure (MACC/CtC)
 
-Jeśli nie masz pewności, czy Twoja organizacja ma umowę kwalifikujących, zaloguj się do witryny Marketplace w ramach witryny [Azure Portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Marketplace/MarketplaceOffersBlade/selectedMenuItemId/home) w ramach dzierżawy skojarzonej z Twoją organizacją. Jeśli widzisz opcję wyboru korzyści platformy **Azure** kwalifikujących się tylko jako opcja filtru, masz kwalifikujące zobowiązanie użycia platformy Azure. Kwalifikowanie Azure Marketplace zakupów będzie przyczyniać się do zobowiązania organizacji związanego z zużyciem platformy Azure w przypadku zakupu bezpośrednio w Azure Marketplace.
+Jeśli nie masz pewności, czy Twoja organizacja ma kwalifikujące się umowy, zaloguj się do witryny Marketplace w ramach witryny [Azure Portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Marketplace/MarketplaceOffersBlade/selectedMenuItemId/home) w ramach dzierżawy skojarzonej z Twoją organizacją. Jeśli widzisz opcję wyboru korzyści platformy **Azure** kwalifikujących się tylko jako opcja filtru, masz kwalifikujące zobowiązanie użycia platformy Azure. Kwalifikowanie Azure Marketplace zakupów będzie przyczyniać się do zobowiązania organizacji związanego z zużyciem platformy Azure w przypadku zakupu bezpośrednio w Azure Marketplace.
 
 [![Opcja menu Kwalifikowanie się do korzyści platformy Azure.](media/azure-benefit/azure-benefit-eligible.png)](media/azure-benefit/azure-benefit-eligible.png#lightbox)
 
@@ -46,7 +46,7 @@ Jeśli nie masz pewności, czy Twoja organizacja ma umowę kwalifikujących, zal
     :::image type="content" source="media/azure-benefit/azure-benefit-eligible-badge.png" alt-text="Znaczek Kwalifikowanie się do korzyści platformy Azure.":::
 
    > [!NOTE]
-   > Microsoft Azure rozliczane w organizacji za pośrednictwem wdrożenia Azure Marketplace z założenia będą przyczyniać się do zobowiązania organizacji. Dodatkową korzyścią dla ofert "Kwalifikowanie się do korzyści platformy Azure" jest to, że koszty oprogramowania/adresów IP przekazane przez dostawcę innej firmy będą również stanowiły 100% twojej faktury Azure Marketplace usługi.
+   > Microsoft Azure rozliczane w organizacji za pośrednictwem wdrożenia Azure Marketplace z założenia będą przyczyniać się do zobowiązania organizacji. Dodatkową korzyścią dla ofert "Kwalifikowanie się do korzyści z platformy Azure" jest to, że koszty oprogramowania/adresów IP przekazane przez dostawcę innej firmy również będą mieć udział w wysokości 100% twojej Azure Marketplace faktury.
 
 4. Kup/utwórz ofertę bezpośrednio za pośrednictwem Azure Marketplace. Firma Microsoft w każdym okresie faktury wniesie 100% kwalifikujących się zakupów ofert w ramach zobowiązania organizacji związanego z zużyciem platformy Azure, w tym kosztów oprogramowania/adresu IP.
 

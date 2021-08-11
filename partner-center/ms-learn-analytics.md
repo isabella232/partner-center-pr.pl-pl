@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 08/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Śledź informacje o osobach uczących się w firmie, wykorzystując dane dotyczące poszczególnych szkoleń, ukończonych modułów, ukończonych ścieżek szkoleniowych i nie tylko.
+description: Śledź informacje o osobach uczących się w firmie, wykorzystując dane dotyczące szkolenia indywidualnego, ukończonych modułów, ukończonych ścieżek szkoleniowych i nie tylko.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b291ee52c9c6e72dc50aab9aa386177d9778cbd1
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: e56ba633df6980605361fb5dabde185bda5baa663581e5ef47d4da4fda924a04
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845418"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694544"
 ---
 # <a name="use-microsoft-learn-analytics-reports"></a>Korzystanie Microsoft Learn analitycznych
 
@@ -66,7 +66,7 @@ Te dane to trend ścieżek edukacyjnych, które w tym miesiącu ukończyli użyt
 
 **Oś Y to** liczba ukończonych modułów w tym miesiącu. Nie jest to skumulowane.
 
-### <a name="learning-path-completion-tabs"></a>Edukacja uzupełniania ścieżki
+### <a name="learning-path-completion-tabs"></a>Edukacja uzupełniania ścieżki dostępu
 
 #### <a name="module-tab"></a>Karta Moduł
 
@@ -86,11 +86,11 @@ Liczba wyświetlana na środku wykresu to liczba odrębnych produktów do ukońc
 
 #### <a name="learning-path-tab"></a>Edukacja ścieżki dostępu
 
-Ta karta zawiera podział ścieżek edukacyjnych ukończonych w firmie według pięciu najlepszych nazw modułów. produkt, na który jest mapowana ścieżka edukacyjna; oraz rolę, która jest kluczowa dla tej ścieżki szkoleniowej.  
+Ta karta zawiera podział ścieżek edukacyjnych ukończonych w firmie według pięciu najlepszych nazw modułów. produkt, na który jest zamapowana ścieżka edukacyjna; oraz rolę, która jest kluczowa dla tej ścieżki szkoleniowej.  
 
 - Edukacja ścieżki uzupełniania na wykresie pierścieniowym: podział Edukacja uzupełniania ścieżek (liczba wyświetlana w sekcji podsumowania) według nazwy.
 
-- Uzupełnienia według roli: podział ukończenia ścieżek uczenia według roli. Jeśli moduł jest skojarzony z wieloma rolami, każda z ról jest dodawana do liczby ukończonych modułów.
+- Uzupełnienia według roli: podział ścieżek uczenia według roli. Jeśli moduł jest skojarzony z wieloma rolami, każda z ról jest dodawana do liczby uzupełniania modułów.
 
 - Uzupełnienia według produktu: podział ścieżek uczenia według produktu, na który ścieżka jest mapowana. Jeśli moduł jest skojarzony z wieloma produktami, każdy z nich jest dodawany do liczby ukończonych modułów.
 
@@ -112,7 +112,7 @@ Aby uzyskać szczegółowe informacje dla uczących się przy użyciu identyfika
 
 1. Nie widzę szczegółów uczenia mojej firmy.
 
-   Ten raport jest dostępny dla partnerów, którzy mają konto w Partner Center. Jeśli nadal jesteś w Partner Membership Center, nie będziesz w stanie wyświetlić tego raportu.
+   Ten raport jest dostępny dla partnerów, którzy mają konto w Partner Center. Jeśli nadal jesteś w Partner Membership Center, nie będzie można wyświetlić tego raportu.
 
 2. KtoTo w mojej firmie może wyświetlać ten raport? 
 

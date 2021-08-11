@@ -8,12 +8,12 @@ description: Zażądaj relacji z klientem w scenariuszach wielokanałowych dla w
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 5b80cc15ade94a9003ec1b21293d86c3b5ac8ace
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 9e38c557c2cf1ee87238015971336ca7593aece9798b8b376a60f6a881bce4e5
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844483"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695139"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Jak zażądać relacji odsprzedawcy od klienta w Centrum partnerskim
 
@@ -32,7 +32,7 @@ Możesz zażądać relacji odsprzedawcy z klientem z twojego kraju lub w tym sam
 
 1. Wybierz **pozycję Customers** (Klienci) z menu **Partner Center** a następnie wybierz pozycję Request a reseller relationship **(Zażądaj relacji odsprzedawcy).**
 
-2. Aby zażądać uprawnień administratora od tego klienta, wybierz pozycję Uwzględnij **delegowane** uprawnienia administracyjne dla Azure Active Directory i Office 365 . Aby ustanowić relację bez żądania uprawnień administratora, usuń zaznaczenie tej opcji.
+2. Aby zażądać uprawnień administratora od tego klienta, wybierz pozycję Uwzględnij delegowane uprawnienia administracyjne dla **usług Azure Active Directory i Office 365.** Aby ustanowić relację bez żądania uprawnień administratora, usuń zaznaczenie tej opcji.
 
 3. Na następnej stronie przejrzyj wersję roboczą wiadomości e-mail. Możesz otworzyć wersję roboczą wiadomości w domyślnej aplikacji poczty e-mail lub skopiować wiadomość do schowka i wkleić do wiadomości e-mail.
 
@@ -56,9 +56,9 @@ Możesz zażądać relacji odsprzedawcy z klientem z twojego kraju lub w tym sam
 
 |Typy klientów chmury  | Gdzie klient akceptuje zaproszenie do relacji odsprzedawcy? |
 |---------|---------
-| Klienci w chmurze publicznej | Administracja Microsoft 365 Centrum |
-| Klienci w witrynie Partner Center for Microsoft Cloud Germany | Microsoft Office Portal administracyjny |
-| Klienci w Partner Center for Microsoft Cloud for US Government | Microsoft Office Portal administracyjny |
+| Klienci w chmurze publicznej | Microsoft 365 Administracyjne |
+| Klienci w witrynie Partner Center for Microsoft Cloud Germany | Microsoft Office Admin Portal |
+| Klienci w Partner Center for Microsoft Cloud for US Government | Microsoft Office Admin Portal |
 |
 
 ## <a name="next-steps"></a>Następne kroki

@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17f0a23814213805d239d887719c5c3885234390
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: d3b7983a46ba81c7122057ed07fa9ebe7303237271776944121deea0c7e28862
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115102442"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687189"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Zmiana z partnera z rozliczaniem bezpośrednim w programie Cloud Solution Provider (CSP) na odsprzedawcę pośredniego w programie CSP
 
@@ -330,34 +330,34 @@ Partner przejściowy powinien wykonać następujące czynności:
 
 6. Sprawdź, czy subskrypcje nie są już wyświetlane jako aktywne na **stronie** Subskrypcje:
 
-   1. Jeśli jest to subskrypcja platformy Azure (MS-AZR-0145P), nie będzie ona już na liście.
+   1. Jeśli jest to subskrypcja platformy Azure (MS-AZR-0145P), nie będzie ona już wymieniona.
 
-   2. Jeśli jest to subskrypcja oparta na licencjach (Office 365, Dynamics, Intune), zostanie ona wymieniona jako **Wstrzymana.**
+   2. Jeśli jest to subskrypcja oparta na licencji (Office 365, Dynamics, Intune), zostanie ona wymieniona jako **Wstrzymana.**
 
    :::image type="content" source="images/direct/direct13.png" alt-text="Wstrzymano subskrypcję.":::
 
 ### <a name="considerations"></a>Zagadnienia do rozważenia
 
-- **Identyfikator subskrypcji będzie inny po przeniesieniu.** Jeśli jest to subskrypcja platformy Azure (MS-AZR-0145P), ponadto będzie ona mieć identyfikator subskrypcji platformy Azure, który jest zachowywany od poprzedniego właściciela i będzie wyświetlany w portalu zarządzania platformy Azure.
+- **Identyfikator subskrypcji będzie inny po przeniesieniu.** Jeśli jest to subskrypcja platformy Azure (MS-AZR-0145P), ponadto będzie ona mieć identyfikator subskrypcji platformy Azure, który jest zachowywany od poprzedniego właściciela i będzie widoczny w portalu zarządzania platformy Azure.
 
 - **Wiele żądań przeniesienia nie może odwoływać się do tej samej subskrypcji.** Po utworzeniu żądania przeniesienia, które obejmuje istniejącą subskrypcję, nie można utworzyć dodatkowych żądań przeniesienia, w tym tej samej subskrypcji, dopóki pierwsze żądanie przeniesienia nie zostanie anulowane.
 
-- **Dodatki dla subskrypcji opartych na licencjach muszą być przenoszone wraz z ich subskrypcją podstawową.** Jeśli podczas tworzenia żądania przeniesienia wybierzemy istniejącą subskrypcję z co najmniej jednym dodatkim, dodatki zostaną automatycznie uwzględnione w żądaniu przeniesienia.
+- **Dodatki dla subskrypcji opartych na licencjach muszą zostać przeniesione wraz z ich subskrypcją podstawową.** Jeśli podczas tworzenia żądania przeniesienia wybierzemy istniejącą subskrypcję z co najmniej jednym dodatkim, dodatki zostaną automatycznie uwzględnione w żądaniu przeniesienia.
 
 - **Zmiany liczby licencji w subskrypcji nie zostaną odzwierciedlone w istniejącym żądaniu przeniesienia.** Po utworzeniu żądania przeniesienia, które obejmuje istniejącą subskrypcję, należy unikać aktualizowania liczby licencji subskrypcji (lub skojarzonych dodatków). Jeśli to zrobisz, nowa ilość nie zostanie odzwierciedlona w żądaniu przeniesienia. Gdy dostawca pośredni zaakceptuje żądanie przeniesienia, wynikowa subskrypcja będzie mieć starą ilość. Jeśli chcesz, aby nowa ilość została przeniesiona do dostawcy pośredniego, musisz anulować istniejące żądanie przeniesienia i ponownie utworzyć nowe.
 
-- **Nie wszystkie zakupy można przenieść za pomocą samoobsługowego przenoszenia subskrypcji.** Obecnie przy użyciu tej funkcji można przenieść tylko subskrypcje usługi O365 i subskrypcje usługi Azure PAYG (MS-AZR-0145P). Inne zakupy, w tym plany platformy Azure, wystąpienia zarezerwowane platformy Azure, subskrypcje oparte na terminach i subskrypcje SaaS Azure Marketplace nie są obsługiwane. Na stronie przesyłania żądania przeniesienia zostanie wyświetlony powód, dla którego nie można przenieść subskrypcji. Aby przenieść te subskrypcje, [](create-a-new-subscription.md#suspend-or-cancel-a-subscription) musisz anulować istniejącą subskrypcję i zakupić nową ofertę dla klienta za pośrednictwem dostawcy pośredniego.
+- **Nie wszystkie zakupy można przenieść za pomocą samoobsługowego przeniesienia subskrypcji.** Obecnie przy użyciu tej funkcji można przenosić tylko subskrypcje usługi O365 i subskrypcje usługi Azure PAYG (MS-AZR-0145P). Inne zakupy, w tym plany platformy Azure, wystąpienia zarezerwowane platformy Azure, subskrypcje oparte na terminach i subskrypcje SaaS Azure Marketplace nie są obsługiwane. Na stronie przesyłania żądania przeniesienia zostanie wyświetlony powód, dla którego nie można przenieść subskrypcji. Aby przenieść te subskrypcje, [](create-a-new-subscription.md#suspend-or-cancel-a-subscription) musisz anulować istniejącą subskrypcję i zakupić nową ofertę dla klienta za pośrednictwem dostawcy pośredniego.
 
    > [!NOTE]
-   > Zmiany dostępności [ofert platformy Azure w programie CSP](./announcements/2021-july.md) związane z nowymi rozwiązaniami handlowymi nie będą miały wpływu na ten scenariusz przejścia. Subskrypcje usługi Azure PAYG[(MS-AZR-0145P)](https://go.microsoft.com/fwlink/p/?linkid=2164140)można stale przenosić do dostawcy pośredniego.
+   > Zmiany dostępności [oferty platformy Azure w programie CSP](./announcements/2021-july.md) związane z nowym środowiskom handlowym nie będą miały wpływu na ten scenariusz przejścia. Subskrypcje usługi Azure PAYG[(MS-AZR-0145P)](https://go.microsoft.com/fwlink/p/?linkid=2164140)można stale przenosić do dostawcy pośredniego.
 
 - **Nie można przetestować przy użyciu środowiska piaskownicy.**
 
-## <a name="enroll-for-indirect-reseller-incentives"></a>Rejestrowanie w ramach zachęt odsprzedawcy pośredniego
+## <a name="enroll-for-indirect-reseller-incentives"></a>Rejestracja w programie zachęt odsprzedawcy pośredniego
 
 Po pomyślnym zarejestrowaniu się jako odsprzedawca pośredni w istniejącej dzierżawie partnera z rozliczeniami bezpośrednimi otrzymasz zaproszenie do rejestracji w ramach zachęty odsprzedawcy pośredniego w ciągu 30 dni. Zaproszenie jest oparte na koncie MPN partnera, które jest obecnie skojarzone z dzierżawą partnera CSP. Zaproszenie zostanie wysłane na adres e-mail skojarzony z kontem MPN partnera.
 
-Możesz również zarejestrować się w programach zachęt dla rachunku bezpośredniego w tej samej dzierżawie partnera. Należy zarządzać programami oddzielnie.
+Możesz również zarejestrować się w programach zachęt dla rachunku bezpośredniego w tej samej dzierżawie partnera. Programy należy zarządzać oddzielnie.
 
 ## <a name="next-steps"></a>Następne kroki
 

@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Sprawdź, co robisz dobrze i gdzie możesz ulepszyć użycie subskrypcji Enterprise Mobility + Security sprzedaży lub zarządzania nimi dla klientów.
+description: Zobacz, co robisz dobrze i gdzie możesz poprawić użycie subskrypcji Enterprise Mobility + Security sprzedaży lub zarządzania dla klientów.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: b78167823a26b16bfa51a7a948afeda027b9898e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: fdf0da981b121f918370c18bace8a4443f4c4f5050d0c47a214ed353cde54b2e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837096"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115686235"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security raport użycia dostępny na pulpicie nawigacyjnym Partner Center Szczegółowe informacje nawigacyjnym
 
@@ -28,11 +28,11 @@ Raport Enterprise Mobility + Security użycia zawiera dane użycia dla subskrypc
 - Enterprise Mobility + Security dystrybucji użycia
 
  > [!NOTE]
- > Ten raport jest dostępny na pulpicie Szczegółowe informacje nawigacyjnym. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Przeglądarka raportów lub Przeglądarka raportów dla kierownictwa. Aby uzyskać więcej informacji, zobacz Administratora globalnego firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami do przeglądarki raportów executive.
+ > Ten raport jest dostępny na pulpicie nawigacyjnym Szczegółowe informacje nawigacyjnym. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Podgląd raportów lub Przeglądarka raportów kierownictwa. Aby uzyskać więcej informacji, zobacz Administrator globalny firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami do przeglądarki raportów executive.
 
 ## <a name="summary"></a>Podsumowanie
 
-Sekcja podsumowania zawiera widok migawki kluczowych wskaźników związanych z subskrypcjami Enterprise Mobility + Security, które zostały sprzedane klientom lub przez nie zarządzane. 
+Sekcja podsumowania przedstawia widok migawki kluczowych wskaźników związanych z subskrypcjami Enterprise Mobility + Security, które zostały sprzedane klientom lub są przez Ciebie zarządzane. 
 
 - Nowe subskrypcje: Łączna liczba subskrypcji sprzedanych lub zarządzanych w wybranym okresie.
 
@@ -40,7 +40,7 @@ Sekcja podsumowania zawiera widok migawki kluczowych wskaźników związanych z 
 
 - Dostępne stanowiska: łączna liczba licencji sprzedanych w wybranym okresie.
 
-   Wykres Mikro przedstawia trend liczby dostępnych stanowisk w wybranym zakresie dat z miesiąca na miesiąc.
+   Wykres Micro przedstawia trend liczby dostępnych stanowisk w wybranym zakresie dat z miesiąca na miesiąc.
 
 - Aktywne użycie miesięczne: liczba licencji, które były używane w poprzednim miesiącu.
 
@@ -60,7 +60,7 @@ Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapi
 
 ## <a name="enterprise-mobility--security-usage-by-sku"></a>Enterprise Mobility + Security użycia według SKU
 
-Dane Enterprise Mobility + Security według jednostki SKU przedstawiają comiesięczne podziały mau i pau według jednostki SKU.
+Dane Enterprise Mobility + Security według jednostki SKU przedstawiają comiesięczne podziały mau i jednostki PAU według jednostki SKU.
 
 :::image type="content" source="images/insights/ems-usage-sku.png" alt-text="Użycie usług EMS według SKU.":::
 
@@ -80,4 +80,4 @@ Rozkład Enterprise Mobility + Security użycia przedstawia podział pau i subsk
 
 - Aby uzyskać więcej raportów, [zobacz Partner Center Szczegółowe informacje](partner-center-insights.md).
 
-- Możesz pobrać nieprzetworzone dane, które są zasilane z tego raportu, z sekcji Pobieranie raportów na pulpicie Szczegółowe informacje nawigacyjnym. [Więcej informacji](insights-download-reports.md) 
+- Możesz pobrać dane pierwotne, które są zasilane z tego raportu, z sekcji Pobieranie raportów na pulpicie Szczegółowe informacje nawigacyjnym. [Więcej informacji](insights-download-reports.md) 

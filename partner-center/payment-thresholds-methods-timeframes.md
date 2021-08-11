@@ -7,12 +7,12 @@ ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 ms.date: 02/02/2021
-ms.openlocfilehash: 51b2ca2ce98789b41014597efd695fc61e7cbada
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 43b4cea49d5a716a5ca1e9bf397fcc105e4d6fc23c1924e537c05ac1d2ee1728
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842081"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694238"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>Progi, metody i horyzonty czasowe płatności
 
@@ -44,158 +44,158 @@ Są to kraje i regiony, w których powyższe formy płatności są używane dla 
 
 | Kraj/region | Azure Marketplace | Store, Advertising, Mixer i Minecraft | Office | PayPal Płatności  |
 | --- | --- | --- | --- | --- |
-| Afganistan | Yes | Yes | Nie | Nie |
-| Albania | Yes | Yes | Yes | Yes |
-| Algieria | Yes | Yes | Yes | Yes |
-| Andora | Nie | Nie | Yes | Yes |
-| Angola | Yes | Yes | Yes | Nie |
-| Antigua i Barbuda | Yes | Yes | Nie | Yes |
-| Argentyna | Yes | Yes | Yes | Yes |
-| Armenia | Yes | Yes | Nie | Nie |
-| Australia | Yes | Yes | Yes | Yes |
-| Austria | Yes | Yes | Yes | Yes |
-| Azerbejdżan | Yes | Yes | Yes | Nie |
-| Bahrajn | Yes | Yes | Yes | Yes |
-| Bangladesz | Yes | Yes | Yes | Nie |
-| Białoruś | Yes | Yes | Yes | Nie |
-| Belgia | Yes | Yes | Yes | Yes |
-| Benin | Yes | Yes | Yes | Nie |
-| Boliwia | Yes | Yes | Yes | Nie |
-| Bośnia i Hercegowina | Yes | Yes | Yes | Yes |
-| Botswana | Yes | Yes | Nie | Yes |
-| Brazylia | Yes | Yes | Yes | Yes |
-| Bułgaria | Yes | Yes | Yes | Yes |
-| Burkina Faso | Yes | Yes | Yes | Nie |
-| Burundi | Yes | Yes | Yes | Nie |
-| Kambodża | Yes | Yes | Yes | Nie |
-| Kamerun | Yes | Yes | Yes | Nie |
-| Kanada | Yes | Yes | Yes | Yes |
-| Republika Środkowoafrykańska | Yes | Yes | Yes | Nie |
-| Czad | Yes | Yes | Yes | Nie |
-| Chile | Yes | Yes | Yes | Yes |
-| Chiny | Nie | Yes | Yes | Yes |
-| Kolumbia | Yes | Yes | Yes | Yes |
-| Komory | Yes | Yes | Nie | Nie |
-| Kongo (DRK) | Yes | Yes | Yes | Nie |
-| Kongo, Republika Konga | Yes | Yes | Yes | Nie |
-| Kostaryka | Yes | Yes | Yes | Yes |
-| Cote D'Ivoire | Yes | Yes | Yes | Nie |
-| Chorwacja | Yes | Yes | Yes | Nie |
-| Cypr | Yes | Yes | Yes | Yes |
-| Czechy | Yes | Yes | Yes | Yes |
-| Dania | Yes | Yes | Yes | Yes |
-| Dominika | Yes | Yes | Nie | Yes |
-| Dominikana | Yes | Yes | Yes | Yes |
-| Ekwador | Yes | Yes | Yes | Yes |
-| Egipt | Yes | Yes | Yes | Yes |
-| Salwador | Yes | Yes | Yes | Yes |
-| Erytrea | Yes | Yes | Yes | Nie |
-| Estonia | Yes | Yes | Yes | Yes |
-| Etiopia | Yes | Yes | Yes | Nie |
-| Fidżi | Yes | Yes | Nie | Nie |
-| Finlandia | Yes | Yes | Yes | Yes |
-| Francja | Yes | Yes | Yes | Yes |
-| Gruzja | Yes | Yes | Yes | Yes |
-| Niemcy | Yes | Yes | Yes | Yes |
-| Ghana | Yes | Yes | Yes | Nie |
-| Grecja | Yes | Yes | Yes | Yes |
-| Gwatemala | Yes | Yes | Yes | Yes |
-| Gwinea | Yes | Yes | Yes | Nie |
-| Haiti | Yes | Yes | Yes | Nie |
-| Honduras | Yes | Yes | Yes | Yes |
-| Hongkong | Yes | Yes | Yes | Yes |
-| Węgry | Yes | Yes | Yes | Yes |
-| Islandia | Yes | Yes | Yes | Nie |
-| Indie | Yes | Yes | Yes | Yes |
-| Indonezja | Yes | Yes | Yes | Yes |
-| Irak | Yes | Yes | Nie | Nie |
-| Irlandia | Yes | Yes | Yes | Yes |
-| Izrael | Yes | Yes | Yes | Yes |
-| Włochy | Yes | Yes | Yes | Yes |
-| Jamajka | Yes | Yes | Yes | Yes |
-| Japonia | Yes | Yes | Yes | Yes |
-| Jordania | Yes | Yes | Yes | Yes |
-| Kazachstan | Yes | Yes | Yes | Yes |
-| Kenia | Yes | Yes | Yes | Yes |
-| Korea Południowa | Yes | Yes | Yes | Nie |
-| Kuwejt | Yes | Yes | Yes | Yes |
-| Kirgistan | Nie | Nie | Yes | Nie |
-| Laos | Yes | Yes | Yes | Nie |
-| Łotwa | Yes | Yes | Yes | Nie |
-| Liban | Yes | Yes | Nie | Nie |
-| Liberia | Yes | Yes | Yes | Nie |
-| Liechtenstein | Yes | Yes | Yes | Yes |
-| Litwa | Yes | Yes | Yes | Nie |
-| Luksemburg | Yes | Yes | Yes | Yes |
-| Madagaskar | Yes | Yes | Yes | Nie |
-| Malawi | Yes | Yes | Yes | Yes |
-| Malezja | Yes | Yes | Yes | Yes |
-| Mali | Yes | Yes | Yes | Nie |
-| Malta | Yes | Yes | Yes | Yes |
-| Mauritius | Yes | Yes | Nie | Yes |
-| Meksyk | Yes | Yes | Yes | Yes |
-| Monako | Yes | Yes | Nie | Nie |
-| Mongolia | Yes | Yes | Yes | Nie |
-| Czarnogóra | Yes | Yes | Yes | Nie |
-| Maroko | Yes | Yes | Yes | Nie |
-| Mozambik | Yes | Yes | Yes | Yes |
-| Nepal | Yes | Yes | Yes | Nie |
-| Holandia, | Yes | Yes | Yes | Yes |
-| Nowa Zelandia | Yes | Yes | Yes | Yes |
-| Nikaragua | Yes | Yes | Yes | Yes |
-| Niger | Yes | Yes | Yes | Nie |
-| Nigeria | Yes | Yes | Yes | Nie |
-| Macedonia Północna | Nie | Yes | Yes | Nie |
-| Norwegia | Yes | Yes | Yes | Yes |
-| Oman | Yes | Yes | Yes | Yes |
-| Pakistan | Yes | Yes | Yes | Nie |
-| Panama | Yes | Yes | Yes | Yes |
-| Paragwaj | Yes | Yes | Yes | Nie |
-| Peru | Yes | Yes | Yes | Yes |
-| Filipiny | Yes | Yes | Yes | Yes |
-| Polska | Yes | Yes | Yes | Yes |
-| Portugalia | Yes | Yes | Yes | Yes |
-| Portoryko | Nie | Nie | Yes | Nie |
-| Katar | Yes | Yes | Yes | Yes |
-| Rumunia | Yes | Yes | Yes | Nie |
-| Rosja | Yes | Yes | Nie | Yes |
-| Rwanda | Yes | Yes | Yes | Nie |
-| Saint Vincent i Grenadyny | Nie | Yes | Nie | Nie |
-| Arabia Saudyjska | Yes | Yes | Yes | Yes |
-| Senegal | Yes | Yes | Yes | Nie |
-| Serbia | Yes | Yes | Yes | Nie |
-| Sierra Leone | Yes | Yes | Yes | Nie |
-| Singapur | Yes | Yes | Yes | Yes |
-| Słowacja | Yes | Yes | Yes | Yes |
-| Słowenia | Yes | Yes | Yes | Yes |
-| Somalia | Yes | Yes | Yes | Nie |
-| Republika Południowej Afryki | Yes | Yes | Yes | Yes |
-| Hiszpania | Yes | Yes | Yes | Yes |
-| Sri Lanka | Yes | Yes | Yes | Nie |
-| Szwecja | Yes | Yes | Yes | Yes |
-| Szwajcaria | Yes | Yes | Yes | Nie |
-| Tajwan | Nie | Yes | Yes | Yes |
-| Tadżykistan | Yes | Yes | Nie | Nie |
-| Tanzania | Yes | Yes | Yes | Nie |
-| Tajlandia | Yes | Yes | Yes | Yes |
-| Timor-Leste | Yes | Yes | Yes | Nie |
-| Togo | Yes | Yes | Yes | Nie |
-| Tonga | Yes | Yes | Nie | Nie |
-| Trinidad i Tobago | Yes | Yes | Yes | Yes |
-| Tunezja | Yes | Yes | Yes | Nie |
-| Turcja | Yes | Yes | Yes | Nie |
-| Turkmenistan | Yes | Yes | Nie | Nie |
-| Uganda | Yes | Yes | Yes | Nie |
-| Ukraina | Yes | Yes | Nie | Nie |
-| Zjednoczone Emiraty Arabskie | Yes | Yes | Yes | Yes |
-| Zjednoczone Królestwo | Yes | Yes | Yes | Yes |
-| Stany Zjednoczone | Yes | Yes | Yes | Yes |
-| Urugwaj | Yes | Yes | Yes | Yes |
-| Uzbekistan | Yes | Yes | Nie | Nie |
-| Wenezuela | Yes | Yes | Yes | Yes |
-| Wietnam | Yes | Yes | Yes | Yes |
-| Zambia | Yes | Yes | Yes | Nie |
-| Zimbabwe | Yes | Yes | Yes | Nie |
+| Afganistan | Tak | Tak | Nie | Nie |
+| Albania | Tak | Tak | Tak | Tak |
+| Algieria | Tak | Tak | Tak | Tak |
+| Andora | Nie | Nie | Tak | Tak |
+| Angola | Tak | Tak | Tak | Nie |
+| Antigua i Barbuda | Tak | Tak | Nie | Tak |
+| Argentyna | Tak | Tak | Tak | Tak |
+| Armenia | Tak | Tak | Nie | Nie |
+| Australia | Tak | Tak | Tak | Tak |
+| Austria | Tak | Tak | Tak | Tak |
+| Azerbejdżan | Tak | Tak | Tak | Nie |
+| Bahrajn | Tak | Tak | Tak | Tak |
+| Bangladesz | Tak | Tak | Tak | Nie |
+| Białoruś | Tak | Tak | Tak | Nie |
+| Belgia | Tak | Tak | Tak | Tak |
+| Benin | Tak | Tak | Tak | Nie |
+| Boliwia | Tak | Tak | Tak | Nie |
+| Bośnia i Hercegowina | Tak | Tak | Tak | Tak |
+| Botswana | Tak | Tak | Nie | Tak |
+| Brazylia | Tak | Tak | Tak | Tak |
+| Bułgaria | Tak | Tak | Tak | Tak |
+| Burkina Faso | Tak | Tak | Tak | Nie |
+| Burundi | Tak | Tak | Tak | Nie |
+| Kambodża | Tak | Tak | Tak | Nie |
+| Kamerun | Tak | Tak | Tak | Nie |
+| Kanada | Tak | Tak | Tak | Tak |
+| Republika Środkowoafrykańska | Tak | Tak | Tak | Nie |
+| Czad | Tak | Tak | Tak | Nie |
+| Chile | Tak | Tak | Tak | Tak |
+| Chiny | Nie | Tak | Tak | Tak |
+| Kolumbia | Tak | Tak | Tak | Tak |
+| Komory | Tak | Tak | Nie | Nie |
+| Kongo (DRK) | Tak | Tak | Tak | Nie |
+| Kongo, Republika Konga | Tak | Tak | Tak | Nie |
+| Kostaryka | Tak | Tak | Tak | Tak |
+| Cote D'Ivoire | Tak | Tak | Tak | Nie |
+| Chorwacja | Tak | Tak | Tak | Nie |
+| Cypr | Tak | Tak | Tak | Tak |
+| Czechy | Tak | Tak | Tak | Tak |
+| Dania | Tak | Tak | Tak | Tak |
+| Dominika | Tak | Tak | Nie | Tak |
+| Dominikana | Tak | Tak | Tak | Tak |
+| Ekwador | Tak | Tak | Tak | Tak |
+| Egipt | Tak | Tak | Tak | Tak |
+| Salwador | Tak | Tak | Tak | Tak |
+| Erytrea | Tak | Tak | Tak | Nie |
+| Estonia | Tak | Tak | Tak | Tak |
+| Etiopia | Tak | Tak | Tak | Nie |
+| Fidżi | Tak | Tak | Nie | Nie |
+| Finlandia | Tak | Tak | Tak | Tak |
+| Francja | Tak | Tak | Tak | Tak |
+| Gruzja | Tak | Tak | Tak | Tak |
+| Niemcy | Tak | Tak | Tak | Tak |
+| Ghana | Tak | Tak | Tak | Nie |
+| Grecja | Tak | Tak | Tak | Tak |
+| Gwatemala | Tak | Tak | Tak | Tak |
+| Gwinea | Tak | Tak | Tak | Nie |
+| Haiti | Tak | Tak | Tak | Nie |
+| Honduras | Tak | Tak | Tak | Tak |
+| Hongkong | Tak | Tak | Tak | Tak |
+| Węgry | Tak | Tak | Tak | Tak |
+| Islandia | Tak | Tak | Tak | Nie |
+| Indie | Tak | Tak | Tak | Tak |
+| Indonezja | Tak | Tak | Tak | Tak |
+| Irak | Tak | Tak | Nie | Nie |
+| Irlandia | Tak | Tak | Tak | Tak |
+| Izrael | Tak | Tak | Tak | Tak |
+| Włochy | Tak | Tak | Tak | Tak |
+| Jamajka | Tak | Tak | Tak | Tak |
+| Japonia | Tak | Tak | Tak | Tak |
+| Jordania | Tak | Tak | Tak | Tak |
+| Kazachstan | Tak | Tak | Tak | Tak |
+| Kenia | Tak | Tak | Tak | Tak |
+| Korea Południowa | Tak | Tak | Tak | Nie |
+| Kuwejt | Tak | Tak | Tak | Tak |
+| Kirgistan | Nie | Nie | Tak | Nie |
+| Laos | Tak | Tak | Tak | Nie |
+| Łotwa | Tak | Tak | Tak | Nie |
+| Liban | Tak | Tak | Nie | Nie |
+| Liberia | Tak | Tak | Tak | Nie |
+| Liechtenstein | Tak | Tak | Tak | Tak |
+| Litwa | Tak | Tak | Tak | Nie |
+| Luksemburg | Tak | Tak | Tak | Tak |
+| Madagaskar | Tak | Tak | Tak | Nie |
+| Malawi | Tak | Tak | Tak | Tak |
+| Malezja | Tak | Tak | Tak | Tak |
+| Mali | Tak | Tak | Tak | Nie |
+| Malta | Tak | Tak | Tak | Tak |
+| Mauritius | Tak | Tak | Nie | Tak |
+| Meksyk | Tak | Tak | Tak | Tak |
+| Monako | Tak | Tak | Nie | Nie |
+| Mongolia | Tak | Tak | Tak | Nie |
+| Czarnogóra | Tak | Tak | Tak | Nie |
+| Maroko | Tak | Tak | Tak | Nie |
+| Mozambik | Tak | Tak | Tak | Tak |
+| Nepal | Tak | Tak | Tak | Nie |
+| Holandia, | Tak | Tak | Tak | Tak |
+| Nowa Zelandia | Tak | Tak | Tak | Tak |
+| Nikaragua | Tak | Tak | Tak | Tak |
+| Niger | Tak | Tak | Tak | Nie |
+| Nigeria | Tak | Tak | Tak | Nie |
+| Macedonia Północna | Nie | Tak | Tak | Nie |
+| Norwegia | Tak | Tak | Tak | Tak |
+| Oman | Tak | Tak | Tak | Tak |
+| Pakistan | Tak | Tak | Tak | Nie |
+| Panama | Tak | Tak | Tak | Tak |
+| Paragwaj | Tak | Tak | Tak | Nie |
+| Peru | Tak | Tak | Tak | Tak |
+| Filipiny | Tak | Tak | Tak | Tak |
+| Polska | Tak | Tak | Tak | Tak |
+| Portugalia | Tak | Tak | Tak | Tak |
+| Portoryko | Nie | Nie | Tak | Nie |
+| Katar | Tak | Tak | Tak | Tak |
+| Rumunia | Tak | Tak | Tak | Nie |
+| Rosja | Tak | Tak | Nie | Tak |
+| Rwanda | Tak | Tak | Tak | Nie |
+| Saint Vincent i Grenadyny | Nie | Tak | Nie | Nie |
+| Arabia Saudyjska | Tak | Tak | Tak | Tak |
+| Senegal | Tak | Tak | Tak | Nie |
+| Serbia | Tak | Tak | Tak | Nie |
+| Sierra Leone | Tak | Tak | Tak | Nie |
+| Singapur | Tak | Tak | Tak | Tak |
+| Słowacja | Tak | Tak | Tak | Tak |
+| Słowenia | Tak | Tak | Tak | Tak |
+| Somalia | Tak | Tak | Tak | Nie |
+| Republika Południowej Afryki | Tak | Tak | Tak | Tak |
+| Hiszpania | Tak | Tak | Tak | Tak |
+| Sri Lanka | Tak | Tak | Tak | Nie |
+| Szwecja | Tak | Tak | Tak | Tak |
+| Szwajcaria | Tak | Tak | Tak | Nie |
+| Tajwan | Nie | Tak | Tak | Tak |
+| Tadżykistan | Tak | Tak | Nie | Nie |
+| Tanzania | Tak | Tak | Tak | Nie |
+| Tajlandia | Tak | Tak | Tak | Tak |
+| Timor-Leste | Tak | Tak | Tak | Nie |
+| Togo | Tak | Tak | Tak | Nie |
+| Tonga | Tak | Tak | Nie | Nie |
+| Trinidad i Tobago | Tak | Tak | Tak | Tak |
+| Tunezja | Tak | Tak | Tak | Nie |
+| Turcja | Tak | Tak | Tak | Nie |
+| Turkmenistan | Tak | Tak | Nie | Nie |
+| Uganda | Tak | Tak | Tak | Nie |
+| Ukraina | Tak | Tak | Nie | Nie |
+| Zjednoczone Emiraty Arabskie | Tak | Tak | Tak | Tak |
+| Zjednoczone Królestwo | Tak | Tak | Tak | Tak |
+| Stany Zjednoczone | Tak | Tak | Tak | Tak |
+| Urugwaj | Tak | Tak | Tak | Tak |
+| Uzbekistan | Tak | Tak | Nie | Nie |
+| Wenezuela | Tak | Tak | Tak | Tak |
+| Wietnam | Tak | Tak | Tak | Tak |
+| Zambia | Tak | Tak | Tak | Nie |
+| Zimbabwe | Tak | Tak | Tak | Nie |
 | | |
 
 ## <a name="next-step"></a>Następny krok

@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2d9924b8d361be4237c613467a1d36db29cf7d9e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c0a88830796efa63cc6f9e2c0005b0974df22032dc877830b002527bced3a426
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842953"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694349"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Jak sprzedawać oferty klientom edukacyjnym i jak utworzyć klienta edukacyjnego w Partner Center
 
@@ -41,13 +41,13 @@ W tym artykule wyjaśniono, jak utworzyć klienta edukacyjnego w Partner Center 
 
    :::image type="content" source="images/eduaccountinfo.png" alt-text="Konto klienta edukacyjnego.":::
 
-4. Po potwierdzeniu **weryfikacji** zostanie wyświetlony stan **InReview** ( Przegląd), jeśli przesłane informacje są prawidłowe. 
+4. Po potwierdzeniu **weryfikacji** zostanie wyświetlony stan InReview (W **przeglądzie),** jeśli przesłane informacje są prawidłowe. 
 
     :::image type="content" source="images/edu/create-review.png" alt-text="Konto klienta edukacyjnego w przeglądzie."lightbox="images/edu/create-review-expanded.png":::
 
 ### <a name="confirm-your-education-customers-verification-status"></a>Potwierdzanie stanu weryfikacji klienta edukacyjnego
 
-Na stronie Konto klienta **zobacz Special** qualification **status (Specjalny stan kwalifikacji).**
+Na stronie Konto klienta **zobacz Specjalny** **stan kwalifikacji**.
 Przykłady stanu:
 
 - Jeśli klient przeszedł weryfikację: Edukacja
@@ -92,7 +92,7 @@ Aby zaktualizować informacje o kliencie, musisz mieć uprawnienia administrator
 
 1. Przejdź do karty Partner Center i strony **konta** klienta. Odśwież przeglądarkę i sprawdź, czy strona Firmy została zaktualizowana do nowych informacji. Wybierz **przycisk Aktualizuj,** aby poprosić o ponowną weryfikację edukacji.
 
-2. Jeśli zaktualizowane szczegóły klienta kwalifikują się do ofert edukacyjnych, zobaczysz, że kwalifikacje **specjalne** zostały zaktualizowane do **oferty Education**. Jeśli nadal widzisz błąd Nie dla klienta **edukacyjnego,** skontaktuj się z pomocą techniczną w celu weryfikacji ręcznej.
+2. Jeśli zaktualizowane szczegóły klienta kwalifikują się do ofert edukacyjnych, zobaczysz, że kwalifikacje **specjalne** zostały zaktualizowane do **oferty Education**. Jeśli nadal widzisz element **Nie dla** klientów edukacyjnych, skontaktuj się z pomocą techniczną w celu weryfikacji ręcznej.
 
 ## <a name="next-steps"></a>Następne kroki
 

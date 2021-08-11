@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 387be6313a1e775963c86714a6c5c825a2ca8169
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c46f34a0b4b1873c3cca9b64f42848b2051bf6338ccb121b48f8979729f12703
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842336"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694918"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Generowanie planu marketingowego dla programu zachęt
 
@@ -23,12 +23,12 @@ Plan roszczeń dotyczących współpracy to seria kampanii marketingowych, dzia�
 
 ## <a name="create-your-incentives-plan"></a>Tworzenie planu zachęt
 
-Plany można wyświetlić, wybierając pozycję **Zarządzanie planem** na **stronie Zachęty,** a następnie otwierając program.
+Możesz wyświetlić swoje plany, wybierając **pozycję Zarządzanie planem** na **stronie Zachęty,** a następnie otwierając program, którego potrzebujesz.
 
 >[!NOTE]
->Na stronie Zachęty może nie być widać strony Zarządzanie planem. Dzieje się tak, ponieważ Partner Center nawigacyjny jest dynamiczny i wyświetla tylko to, co jest odpowiednie dla określonej roli i działań. Jeśli nie widzisz strony Zachęty w usłudze Plan Management, prawdopodobnie oznacza to, że nie jesteś obecnie zarejestrowanym w programie, który ma plany. Skontaktuj się z administratorem zachęt, aby uzyskać pomoc.
+>Na stronie Zachęty może nie być widać strony Zarządzanie planem. Jest to spowodowane tym, Partner Center pulpit nawigacyjny jest dynamiczny i wyświetla tylko to, co jest odpowiednie dla określonej roli i działań. Jeśli nie widzisz strony Zarządzanie planem na stronie Zachęty, prawdopodobnie oznacza to, że nie jesteś obecnie zarejestrowanym w programie, który ma plany. Skontaktuj się z administratorem zachęt w celu uzyskania pomocy.
 
-Aby uzyskać więcej informacji na temat planów dotyczących Program zachęt, zobacz przewodnik po programie.
+Aby uzyskać więcej informacji na temat planów dla określonej Program zachęt, zobacz przewodnik po programie.
 
 ## <a name="how-to-submit-a-plan"></a>Jak przesłać plan
 
@@ -44,7 +44,7 @@ Aby uzyskać więcej informacji na temat planów dotyczących Program zachęt, z
 
 6. Gdy informacje na tej stronie są poprawne, wybierz pozycję **Nowa kampania**.
 
-7. Wypełnij wymagane pola na stronie **Nowa kampania,** a następnie wybierz pozycję **Zapisz.**
+7. Wypełnij wymagane pola na stronie **Nowa kampania,** a następnie wybierz pozycję **Zapisz**.
 
 8. Na stronie stanu wybierz pozycję **Nowe działanie**. 
 
@@ -62,7 +62,7 @@ Twój plan został przesłany. Firma Microsoft powiadomi administratora zachęt 
 
 3. W sekcji **Plany** stan każdego planu znajduje się w kolumnie **Stan**.
 
-   Poniżej przedstawiono różne możliwe stany planu roszczenia do współpracy.
+   Poniżej przedstawiono różne możliwe stany planu roszczeń współpracy.
 
    - Przesłane
    - W trakcie przeglądu
@@ -71,18 +71,18 @@ Twój plan został przesłany. Firma Microsoft powiadomi administratora zachęt 
    - Approved (Zatwierdzono)
    - Odrzucone
 
-## <a name="plan-submission-timelines"></a>Planowanie osi czasu przesyłania
+## <a name="plan-submission-timelines"></a>Osie czasu przesyłania planu
 
 Musisz utworzyć i przesłać swój plan do ostatniego dnia roku trwania programu. W razie potrzeby możesz edytować i ponownie przesłać plan przez okres dodatkowych 90 dni po tej dacie, ale plan musi zostać utworzony i wstępnie przesłany w trakcie roku trwania programu.
 
 >[!NOTE]
-> Dla każdego typu programu można utworzyć tylko jeden plan na rok programu.
+> Dla każdego typu programu można utworzyć tylko jeden plan dla każdego typu programu.
 
 ## <a name="plan-payments"></a>Planowanie płatności
 
 Co miesiąc otrzymujesz płatność od firmy Microsoft w oparciu o swoje dochody i limity planu. Płatności są dokonywane piętnastego dnia następnego miesiąca.
 
-Jeśli na przykład Twój plan został zatwierdzony na kwotę 10 000 USD i w kwietniu zarobisz 5000 USD, 15 maja otrzymasz 5000 USD.
+Jeśli na przykład Plan został zatwierdzony na kwotę 10 000 USD, a w kwietniu zarobisz 5000 USD, 15 maja otrzymasz 5000 USD.
 
 W ramach tego samego planu, jeśli otrzymasz 15 000 USD w kwietniu, 15 maja otrzymasz 10 000 USD, ponieważ 10 000 USD to limit planu. Aby móc uzyskać większą płatność, musisz podnieść limit planu dla kolejnego miesiąca.
 

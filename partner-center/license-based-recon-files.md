@@ -9,44 +9,44 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ebbd34e8de8db845b06b8d75bc17e88612e8477
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 7bb6900ba34c99d497d8273e56e6385aa3bf55690c8729526a5e4c6a1e60ba28
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837360"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694136"
 ---
-# <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Opis pól w Partner Center uzgadniania na podstawie licencji
+# <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Opis pól w plikach uzgodnień Partner Center opartych na licencjach
 
 **Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
 
 **Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Administrator rozliczeń | Agent administracyjny
 
-Aby uzgodnić zmiany z zamówieniami klienta, porównaj Syndication_Partner_Subscription_Number z pliku uzgodnień z **identyfikatorem subskrypcji** z Partner Center. 
+Aby uzgodnić zmiany z zamówieniami klienta, porównaj Syndication_Partner_Subscription_Number z pliku **uzgodnień** z **identyfikatorem** subskrypcji z Partner Center.
 
 ## <a name="fields-in-license-based-reconciliation-files"></a>Pola w plikach uzgodnień opartych na licencjach
 
 | Kolumna | Opis | Wartość przykładowa |
 | ------ | ----------- | ------------ |
 | PartnerId | Unikatowy identyfikator w formacie identyfikatora GUID dla określonej jednostki rozliczeniowej. Nie jest wymagane do uzgadniania. Tak samo we wszystkich wierszach. | *8ddd03642-test-test-test-46b58d356b4e* |
-| CustomerId | Unikatowy identyfikator firmy Microsoft dla klienta w formacie identyfikatora GUID. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
-| CustomerName | Nazwa organizacji klienta zgłoszona w Partner Center. *Bardzo ważne pole do uzgadniania faktury z informacjami o systemie.* | *Testowanie klienta A* |
+| CustomerId | Unikatowy identyfikator microsoft klienta w formacie identyfikatora GUID. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
+| CustomerName | Nazwa organizacji klienta zgłoszona w Partner Center. *Bardzo ważne pole służące do uzgadniania faktury z informacjami o systemie.* | *Testowanie klienta A* |
 | MpnId | Identyfikator MPN partnera CSP. Zobacz, [jak elementować według partnera](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
 | ResellerMpnId | Identyfikator MPN odsprzedawcy rekordu dla subskrypcji.  |
-| OrderId (Identyfikator zamówienia) | Unikatowy identyfikator zamówienia na platformie rozliczeniowej firmy Microsoft. Może być przydatna do zidentyfikowania zamówienia podczas kontaktowania się z pomocą techniczną. Nie są używane do uzgadniania. | *566890604832738111* |
-| SubscriptionId | Unikatowy identyfikator subskrypcji na platformie rozliczeniowej firmy Microsoft. Może być przydatna do zidentyfikowania subskrypcji podczas kontaktowania się z pomocą techniczną. Nie są używane do uzgadniania. *Ta wartość nie jest taka sama jak **identyfikator subskrypcji w** konsoli administracyjnej partnera. Zamiast tego **zobacz SyndicationPartnerSubscriptionNumber.*** | *usCBMgAAAAAAAAIAA* |
-| SyndykacjaPartnerSubscriptionNumber | Unikatowy identyfikator subskrypcji. Klient może mieć wiele subskrypcji dla tego samego planu. Ta kolumna jest ważna w przypadku analizy pliku uzgodnień. To pole jest mapowe **na identyfikator subskrypcji** w konsoli administracyjnej partnera. | *fb977ab5-test-test-test-24c8d9591708* |
-| OfferId | Unikatowy identyfikator oferty. Standardowy identyfikator oferty, zgodnie z definicją w cenniku. *Ta wartość nie jest dopasowana do **identyfikatora oferty** z cennika. Zamiast tego **zobacz DurableOfferID.*** | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
-| DurableOfferId | Unikatowy trwały identyfikator oferty, zgodnie z definicją w cenniku. *Ta wartość odpowiada **identyfikatorowi oferty** z cennika.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
+| OrderId (Identyfikator zamówienia) | Unikatowy identyfikator zamówienia na platformie rozliczeniowej firmy Microsoft. Może być przydatna do zidentyfikowania zamówienia podczas kontaktowania się z pomocą techniczną. Nie służy do uzgadniania. | *566890604832738111* |
+| SubscriptionId | Unikatowy identyfikator subskrypcji na platformie rozliczeniowej firmy Microsoft. Może być przydatna do identyfikowania subskrypcji podczas kontaktowania się z pomocą techniczną. Nie służy do uzgadniania. *Ta wartość nie jest taka sama jak **identyfikator subskrypcji** w konsoli administracyjnej partnera. Zamiast tego **zobacz SyndicationPartnerSubscriptionNumber.*** | *usCBMgAAAAAAAAAAIA* |
+| SyndicationPartnerSubscriptionNumber | Unikatowy identyfikator subskrypcji. Klient może mieć wiele subskrypcji dla tego samego planu. Ta kolumna jest ważna w przypadku analizy pliku uzgodnień. To pole jest mapowe **na identyfikator subskrypcji** w konsoli administracyjnej partnera. | *fb977ab5-test-test-test-24c8d9591708* |
+| OfferId | Unikatowy identyfikator oferty. Standardowy identyfikator oferty, zgodnie z definicją w cenniku. *Ta wartość nie jest **dopasowana do identyfikatora oferty** z cennika. Zamiast **tego zobacz DurableOfferID.*** | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
+| DurableOfferId | Unikatowy identyfikator trwałej oferty, zgodnie z definicją w cenniku. *Ta wartość odpowiada **identyfikatorowi oferty** z cennika.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
 | OfferName | Nazwa oferty usługi zakupionej przez klienta, zgodnie z definicją w cenniku. | *Microsoft Office 365 (plan E3)* |
-| SubscriptionStartDate | Data rozpoczęcia subskrypcji w czasie UTC. Godzina to zawsze początek dnia, 0:00. To pole jest ustawione na dzień po przesłaniu zamówienia. Używana z **subskrypcjąEndDate** w celu określenia, czy klient nadal znajduje się w pierwszym roku subskrypcji, czy subskrypcja została odnowiona na następny rok. | *2/1/2019 0:00* |
-| SubscriptionEndDate | Data zakończenia subskrypcji w czasie UTC. Godzina to zawsze początek dnia, 0:00. *12 miesięcy plus x **dni*** po dacie rozpoczęcia w celu dostosowania do daty rozliczeniowej partnera lub *12 miesięcy* od daty odnowienia. Po odnowieniu ceny są aktualizowane do bieżącego cennika. Komunikacja z klientem może być wymagana przed automatycznym odnawianiem. | *2/1/2019 0:00* |
+| SubscriptionStartDate | Data rozpoczęcia subskrypcji w czasie UTC. Godzina to zawsze początek dnia, 0:00. To pole jest ustawione na dzień po przesłaniu zamówienia. Używane razem z **subskrypcjąEndDate,** aby określić, czy klient nadal znajduje się w pierwszym roku subskrypcji, czy subskrypcja została odnowiona na następny rok. | *2/1/2019 0:00* |
+| SubscriptionEndDate | Data zakończenia subskrypcji w czasie UTC. Godzina to zawsze początek dnia, 0:00. *12 miesięcy plus **x** dni* po dacie rozpoczęcia w celu dostosowania do daty rozliczeniowej partnera lub *12 miesięcy* od daty odnowienia. Podczas odnawiania ceny są aktualizowane do bieżącego cennika. Komunikacja z klientem może być wymagana przed automatycznym odnawianiem. | *2/1/2019 0:00* |
 | ChargeStartDate | Dzień rozpoczęcia opłat. Godzina to zawsze początek dnia, 0:00. Służy do obliczania opłat dziennych *(proporcjonalnie do opłat),* gdy klient zmienia numery licencji. | *2/1/2019 0:00* |
-| ChargeEndDate | Koniec dnia opłat. Czas to zawsze koniec dnia, 23:59. Służy do obliczania opłat dziennych *(proporcjonalnie do opłat),* gdy klient zmienia numery licencji. | *2/28/2019 23:59* |
+| ChargeEndDate | Koniec dnia opłat. Godzina to zawsze koniec dnia, 23:59. Służy do obliczania opłat dziennych *(proporcjonalnie do opłat),* gdy klient zmienia numery licencji. | *2/28/2019 23:59* |
 | ChargeType | Typ [opłaty lub](recon-file-charge-types.md) korekty. | Zobacz [typy opłat.](recon-file-charge-types.md) |
-| UnitPrice | Cena za licencję opublikowana w cenniku w momencie zakupu. Upewnij się, że jest to informacja przechowywana w systemie rozliczeniowym podczas uzgadniania. | *6.82* |
-| Liczba | Liczba licencji. Upewnij się, że jest to informacja przechowywana w systemie rozliczeniowym podczas uzgadniania. | *2* |
-| Kwota | Łączna cena za ilość. Służy do sprawdzania, czy obliczenie kwoty jest takie, jak obliczasz tę wartość dla klientów. | *13.32* |
+| UnitPrice | Cena za licencję opublikowana w cenniku w momencie zakupu. Upewnij się, że są one takie jak informacje przechowywane w systemie rozliczeniowym podczas uzgadniania. | *6.82* |
+| Liczba | Liczba licencji. Upewnij się, że są one takie jak informacje przechowywane w systemie rozliczeniowym podczas uzgadniania. | *2* |
+| Kwota | Łączna cena za ilość. Służy do sprawdzania, czy obliczanie kwoty jest takie, jak ta wartość jest obliczana dla klientów. | *13.32* |
 | TotalOtherDiscount | Kwota rabatu zastosowana do tych opłat. Licencje produktów objęte kompetencją lub MAPS albo nowe subskrypcje kwalifikujące się do zachęty będą również zawierać kwotę rabatu w tej kolumnie. | *2.32* |
 | Suma częściowa | Suma przed opodatkowaniem. Sprawdza, czy suma częściowa odpowiada oczekiwanej sumie w przypadku rabatu. | *11* |
 | Podatek | Kwota podatku. Na podstawie reguł podatkowych obowiązujących na rynku i określonych okoliczności. | *0* |

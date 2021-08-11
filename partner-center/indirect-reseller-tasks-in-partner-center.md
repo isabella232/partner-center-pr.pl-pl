@@ -9,12 +9,12 @@ ms.localizationpriority: high
 author: vinayks
 ms.author: vinayks
 ms.date: 01/27/2021
-ms.openlocfilehash: ab99fc400f7392d43785457f817e0469f7f2c077
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2822d8c20841f647de8d1f4ab8ef3f41e116a1bd3aa2944f2c5f101d242604e9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840148"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115686476"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Dowiedz się, jak nawiązyć współpracę z dostawcami pośrednimi w Dostawca rozwiązań w chmurze programie
 
@@ -135,7 +135,7 @@ Twoja legalna lokalizacja biznesowa jako odsprzedawca pośredni dostawcy CSP okr
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Jak dostawcy pośredni mogą pomóc odsprzedawcom w Microsoft Partner Agreement — często zadawane pytania](mpa-indirect-provider-faq.yml)
+- [Jak dostawcy pośredni mogą pomóc odsprzedawcom w przyjęcie Microsoft Partner Agreement — często zadawane pytania](mpa-indirect-provider-faq.yml)
 
 - [Umowa partnerska firmy Microsoft](microsoft-partner-agreement.md)
 
@@ -149,4 +149,4 @@ Twoja legalna lokalizacja biznesowa jako odsprzedawca pośredni dostawcy CSP okr
 
 - [Dowiedz się więcej o procesie weryfikacji](verification-responses.md)
 
-- [Zobacz wymagania dotyczące partnerów rozliczanych bezpośrednio](direct-partner-new-requirements.md)
+- [Zobacz wymagania partnerów rozliczanych bezpośrednio](direct-partner-new-requirements.md)

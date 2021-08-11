@@ -10,21 +10,21 @@ metadata:
   ms.author: iswillia
   ms.localizationpriority: high
   ms.custom: SEOMAY.20
-  ms.openlocfilehash: 48f19e9745830eb2bccedd615a4a60f4803e8b71
-  ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+  ms.openlocfilehash: 2623ecb1cae7400f092b50ab73761a71b9e54db04e321cf88479a887acc413ea
+  ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 08/04/2021
-  ms.locfileid: "115101216"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "115696159"
 title: Często zadawane pytania dotyczące wymagań dotyczących zabezpieczeń partnerów
-summary: "**Odpowiednie role:** wszyscy Partner Center użytkowników\n\nW tym artykule znajdują się odpowiedzi na często zadawane pytania dotyczące [wymagań dotyczących zabezpieczeń partnera.](partner-security-requirements.md)\n\n## <a name=\"what-are-the-partner-security-requirements-and-why-should-partners-implement-them\"></a>Jakie są wymagania dotyczące zabezpieczeń partnerów i dlaczego powinni je zaimplementować partnerzy?\n\nWiększe i stałe zabezpieczenia i ochrona prywatności należą do naszych głównych priorytetów i nadal pomagamy partnerom chronić swoich klientów i dzierżawców. Nadal widzimy bardziej zaawansowane, zwiększające się liczby ataków na zabezpieczenia, przede wszystkim związanych ze zdarzeniami naruszenia zabezpieczeń tożsamości. Ponieważ środki zapobiegawcze odgrywają kluczową rolę w ogólnej strategii obrony [](partner-security-requirements.md) w celu zapobiegania atakom na zabezpieczenia, w 2019 r. wprowadziliśmy obowiązkowe wymagania dotyczące zabezpieczeń. Wszyscy partnerzy biorący udział w programie Dostawca rozwiązań w chmurze (CSP), dostawcy Panel sterowania i doradcy muszą zaimplementować wymagania, aby zachować zgodność.\n        \n## <a name=\"what-are-the-key-timelines-and-milestones\"></a>Jakie są kluczowe osie czasu i kamienie milowe?\n\nTerminy związane z tymi wymaganiami w zakresie zabezpieczeń, w tym osie czasu i kamienie milowe, są zawarte w [Microsoft Partner Agreement](microsoft-partner-agreement.md). Aby zachować zgodność z uczestnictwem w programie CSP, należy jak najszybciej zaimplementować te wymagania dotyczące zabezpieczeń.\n        \n## <a name=\"what-will-happen-if-i-dont-implement-these-partner-security-requirements\"></a>Co się stanie, jeśli te wymagania dotyczące zabezpieczeń partnera nie zostaną zaimplementowane?\n\nUsługa Microsoft Partner Agreement wymaga wymuszenia uwierzytelniania wieloskładnikowego dla kont użytkowników i przyjęcia modelu bezpiecznej aplikacji do interakcji z interfejsem API Partner Center API. \n        \nPartnerzy, którzy nie przestrzegają tych praktyk w zakresie zabezpieczeń, mogą utracić możliwość wykonywania transakcji w programie CSP lub zarządzania dzierżawami klientów przy użyciu delegowanych praw administratora.\n        \n## <a name=\"do-the-security-requirements-apply-to-all-geographies\"></a>Czy wymagania dotyczące zabezpieczeń mają zastosowanie do wszystkich lokalizacji geograficznych?\n\nTak, wymagania dotyczące zabezpieczeń mają zastosowanie do wszystkich lokalizacji geograficznych. Zdecydowanie zalecamy, aby wszyscy partnerzy w ramach transakcji za pośrednictwem suwerennej chmury (rząd STANÓW Zjednoczonych i Niemcy) natychmiast przyjmowały te nowe wymagania dotyczące zabezpieczeń. Jednak ci partnerzy nie są obecnie wymagani do spełnienia wymagań dotyczących zabezpieczeń. Firma Microsoft udostępni dodatkowe szczegóły dotyczące wymuszania tych wymagań dotyczących zabezpieczeń suwerennych chmur w przyszłości.\n\n## <a name=\"is-it-possible-to-get-an-exclusion-for-an-account\"></a>Czy można uzyskać wykluczenie dla konta?\n\nNie, nie można wykluczyć żadnego konta użytkownika z wymagania wymuszania uwierzytelniania wieloskładnikowego (MFA). Biorąc pod uwagę wysoce uprzywilejowany charakter partnera, Microsoft Partner Agreement wymaga, aby uwierzytelnianie wieloskładnikowe było wymuszane dla każdego konta użytkownika w dzierżawie partnera.\n\n## <a name=\"how-do-i-know-if-i-have-met-the-partner-security-requirements\"></a>Jak mogę, czy zostały spełnione wymagania dotyczące zabezpieczeń partnera?\n\nWykonaj poniższe czynności:\n        \n- Musisz spełnić wszystkie wymagania opisane w wymaganiach dotyczących [zabezpieczeń partnera.](partner-security-requirements.md)\n- Należy upewnić się, że wszystkie konta użytkowników w dzierżawie partnera mają wymuszone uwierzytelnianie wieloskładnikowe.\n        \nAby ułatwić zidentyfikowanie kluczowych obszarów, w [](https://partner.microsoft.com/commerce/security/compliance) których można podjąć działania, udostępniamy raport o stanie wymagań dotyczących zabezpieczeń, który jest dostępny za pośrednictwem Partner Center.\n        \nAby uzyskać więcej informacji na temat raportu o stanie, zobacz [Stan wymagań dotyczących zabezpieczeń partnera](partner-security-compliance.md).\n        \n"
+summary: "**Odpowiednie role:** wszyscy Partner Center użytkowników\n\nW tym artykule znajdują się odpowiedzi na niektóre często zadawane pytania dotyczące [wymagań dotyczących zabezpieczeń partnera.](partner-security-requirements.md)\n\n## <a name=\"what-are-the-partner-security-requirements-and-why-should-partners-implement-them\"></a>Jakie są wymagania dotyczące zabezpieczeń partnerów i dlaczego partnerzy powinni je zaimplementować?\n\nWiększe i stałe zabezpieczenia i ochrona prywatności należą do naszych głównych priorytetów i nadal pomagamy partnerom w ochronie ich klientów i dzierżaw. Nadal widzimy bardziej zaawansowane, zwiększając liczbę ataków na zabezpieczenia, głównie związanych ze zdarzeniami naruszenia tożsamości. Ponieważ środki zapobiegawcze odgrywają kluczową rolę w ogólnej strategii obrony [](partner-security-requirements.md) w celu zapobiegania atakom na zabezpieczenia, w 2019 r. wprowadziliśmy obowiązkowe wymagania dotyczące zabezpieczeń. Wszyscy partnerzy biorący udział w programie Dostawca rozwiązań w chmurze (CSP), dostawcy Panel sterowania i doradcy muszą zaimplementować wymagania, aby zachować zgodność.\n        \n## <a name=\"what-are-the-key-timelines-and-milestones\"></a>Jakie są kluczowe osie czasu i kamienie milowe?\n\nTerminy związane z tymi wymaganiami w zakresie zabezpieczeń, w tym osie czasu i punkty kontrolne, są zawarte w [Microsoft Partner Agreement](microsoft-partner-agreement.md). Te wymagania dotyczące zabezpieczeń należy zaimplementować tak szybko, jak to możliwe, aby zachować zgodność z uczestnictwem w programie CSP.\n        \n## <a name=\"what-will-happen-if-i-dont-implement-these-partner-security-requirements\"></a>Co się stanie, jeśli te wymagania dotyczące zabezpieczeń partnera nie zostaną zaimplementowane?\n\nUsługa Microsoft Partner Agreement wymaga wymuszenia uwierzytelniania wieloskładnikowego dla kont użytkowników i przyjęcia bezpiecznego modelu aplikacji do interakcji z interfejsem API Partner Center API. \n        \nPartnerzy, którzy nie przestrzegają tych praktyk w zakresie zabezpieczeń, mogą utracić możliwość wykonywania transakcji w programie CSP lub zarządzania dzierżawami klientów przy użyciu delegowanych praw administratora.\n        \n## <a name=\"do-the-security-requirements-apply-to-all-geographies\"></a>Czy wymagania dotyczące zabezpieczeń mają zastosowanie do wszystkich lokalizacji geograficznych?\n\nTak, wymagania dotyczące zabezpieczeń mają zastosowanie do wszystkich lokalizacji geograficznych. Zdecydowanie zaleca się, aby wszyscy partnerzy w ramach transakcji za pośrednictwem suwerennej chmury (rząd STANÓW Zjednoczonych i Niemcy) natychmiast zastosują te nowe wymagania dotyczące zabezpieczeń. Jednak ci partnerzy nie są obecnie zobowiązani do spełnienia wymagań dotyczących zabezpieczeń. Firma Microsoft udostępni dodatkowe szczegóły dotyczące wymuszania tych wymagań dotyczących zabezpieczeń dla suwerennych chmur w przyszłości.\n\n## <a name=\"is-it-possible-to-get-an-exclusion-for-an-account\"></a>Czy istnieje możliwość uzyskania wykluczenia dla konta?\n\nNie, nie można wykluczyć żadnego konta użytkownika z wymagania wymuszania uwierzytelniania wieloskładnikowego (MFA). Biorąc pod uwagę wysoce uprzywilejowany charakter partnera, Microsoft Partner Agreement wymaga, aby uwierzytelnianie wieloskładnikowe było wymuszane dla każdego konta użytkownika w dzierżawie partnera.\n\n## <a name=\"how-do-i-know-if-i-have-met-the-partner-security-requirements\"></a>Jak mogę czy spełniliśmy wymagania dotyczące zabezpieczeń partnera?\n\nWykonaj poniższe czynności:\n        \n- Musisz spełnić wszystkie wymagania opisane w wymaganiach dotyczących [zabezpieczeń partnera.](partner-security-requirements.md)\n- Należy upewnić się, że wszystkie konta użytkowników w dzierżawie partnera mają wymuszone uwierzytelnianie wieloskładnikowe.\n        \nAby ułatwić zidentyfikowanie kluczowych obszarów, w [](https://partner.microsoft.com/commerce/security/compliance) których można podjąć działania, udostępniamy raport o stanie wymagań dotyczących zabezpieczeń, który jest dostępny za pośrednictwem Partner Center.\n        \nAby uzyskać więcej informacji na temat raportu o stanie, zobacz [Partner security requirements status (Stan wymagań zabezpieczeń partnera).](partner-security-compliance.md)\n        \n"
 sections:
 - name: Wymagane akcje
   questions:
   - question: >
       Jakie są kluczowe akcje, które należy podjąć, aby spełnić wymagania?
     answer: >
-      Wszyscy partnerzy w programie CSP (rachunek bezpośredni, dostawca pośredni i odsprzedawca pośredni), doradcy i dostawcy Panel sterowania dostawcy muszą spełniać wymagania.
+      Wszyscy partnerzy w programie CSP (rachunek bezpośredni, dostawca pośredni i odsprzedawca pośredni), doradcy i dostawcy Panel sterowania muszą spełniać wymagania.
 
 
       1. **Wymuszanie uwierzytelniania wieloskładnikowego dla wszystkich użytkowników**
@@ -33,23 +33,23 @@ sections:
 
           Dodatkowe kwestie do rozważenia:
 
-          - Dostawcy pośredni muszą współpracować z odsprzedawcami pośrednimi, aby do nich Partner Center, jeśli jeszcze tego nie zrobili, i zachęcić swoich odsprzedawców do spełnienia wymagań.
-          - Usługa Azure MFA jest dostępna dla wszystkich użytkowników w dzierżawie partnera bez poniesień kosztów dzięki domyślnym wartościom zabezpieczeń usługi Azure AD z jedyną metodą weryfikacji aplikacji wystawcy uwierzytelnień, która obsługuje jednorazowe hasła oparte na czasie (TOTP).
+          - Dostawcy pośredni muszą współpracować z odsprzedawcami pośrednimi w celu do dołączania do Partner Center, jeśli jeszcze tego nie zrobili, i zachęcają odsprzedawców do spełnienia wymagań.
+          - Usługa Azure MFA jest dostępna dla wszystkich użytkowników w dzierżawie partnera bez poniesień za pośrednictwem ustawień domyślnych zabezpieczeń usługi Azure AD z jedyną metodą weryfikacji aplikacji wystawcy uwierzytelnień, która obsługuje hasła jednorazowe (TOTP) oparte na czasie.
           - Dodatkowe metody weryfikacji są dostępne za pośrednictwem [Azure Active Directory — wersja Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) SKU, jeśli są wymagane inne metody, takie jak połączenie telefoniczne lub wiadomość SMS.
           - Partnerzy mogą również używać rozwiązania MFA innej firmy dla każdego konta podczas uzyskiwania dostępu do komercyjnych usług w chmurze firmy Microsoft.
 
-      2. **Adopt the model aplikacji zabezpieczonych framework**
+      2. **Adopt the model aplikacji zabezpieczonych framework (Adopt the model aplikacji zabezpieczonych framework)**
 
-          Wszyscy partnerzy, którzy opracowali integrację niestandardową przy użyciu dowolnych interfejsów API (takich jak Azure Resource Manager, Microsoft Graph, Partner Center API itp.) lub wdrożyli automatyzację niestandardową przy użyciu narzędzi takich jak program PowerShell, będą musieli wdrożyć platformę [model aplikacji zabezpieczonych](/partner-center/develop/enable-secure-app-model) w celu integracji z usługami w chmurze firmy Microsoft. Niewykonanie tej pracy może spowodować zakłócenie z powodu wdrożenia usługi MFA. Poniższe zasoby zawierają omówienie i wskazówki dotyczące sposobu przyjęcia modelu.
+          Wszyscy partnerzy, którzy opracowali niestandardową integrację przy użyciu dowolnych interfejsów API (takich jak Azure Resource Manager, Microsoft Graph, Partner Center API itp.) lub wdrożyli niestandardową automatyzację przy użyciu narzędzi takich jak program PowerShell, będą musieli wdrożyć platformę [model aplikacji zabezpieczonych](/partner-center/develop/enable-secure-app-model) w celu integracji z usługami w chmurze firmy Microsoft. Niewykonanie tej uwierzytelniania może spowodować zakłócenia spowodowane wdrożeniem usługi MFA. Poniższe zasoby zawierają omówienie i wskazówki dotyczące sposobu przyjęcia modelu.
 
           - [model aplikacji zabezpieczonych omówienie](/partner-center/develop/enable-secure-app-model)
           - [Partner Center: model aplikacji zabezpieczonych przewodnik](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-          - [Partnerzy w programie CSP: przykładowy kod dla programu .NET umożliwiający model aplikacji zabezpieczonych](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
-          - [Partnerzy w programie CSP: przykładowy kod Java umożliwiający włączenie model aplikacji zabezpieczonych](/samples/microsoft/partner-center-java-samples/secure-app-model/)
+          - [Partnerzy w programie CSP: przykładowy kod programu .NET umożliwiający model aplikacji zabezpieczonych](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+          - [Partnerzy w programie CSP: przykładowy kod Java umożliwiający model aplikacji zabezpieczonych](/samples/microsoft/partner-center-java-samples/secure-app-model/)
           - [Partner Center uwierzytelniania](/partner-center/develop/partner-center-authentication)
           - [Partner Center dokumentu usługi Multi-Factor Authentication (MFA) programu PowerShell](/powershell/partnercenter/multi-factor-auth)
 
-          Skontaktuj się z dostawcą, jeśli używasz panelu sterowania w zakresie wdrożenia model aplikacji zabezpieczonych platformie.
+          Skonsultuj się z dostawcą, jeśli używasz panelu sterowania w zakresie wdrożenia model aplikacji zabezpieczonych platformie.
 
           Dostawcy panelu sterowania [](enroll-as-cpv.md) muszą do nich do Partner Center jako dostawca panelu sterowania i natychmiast rozpocząć wdrażanie tego wymagania. Zapoznaj się z [Partner Center: model aplikacji zabezpieczonych framework](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Dostawcy panelu sterowania muszą zaakceptować zgodę partnerów CSP i zarządzać nimi zamiast poświadczeń i przeczyścić poświadczenia wszystkich istniejących partnerów CSP.
 - name: Uwierzytelnianie wieloskładnikowe
@@ -66,37 +66,37 @@ sections:
 
       - Coś, co jest (biometria)
   - question: >
-      Jaki jest koszt włączania usługi MFA?
+      Jaki jest koszt włączenia usługi MFA?
     answer: >
-      Firma Microsoft udostępnia uwierzytelniania wieloskładnikowego bez poniesienie kosztów dzięki implementacji ustawień domyślnych zabezpieczeń usługi Azure AD. Jedyną opcją weryfikacji dostępną przy użyciu tej wersji uwierzytelniania wieloskładnikowego jest aplikacja wystawcy uwierzytelniań. Jeśli wymagane jest połączenie telefoniczne lub wiadomość SMS, [należy Azure Active Directory — wersja Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) licencję usługi. Alternatywnie można użyć rozwiązania innej firmy, aby zapewnić uwierzytelniania wieloskładnikowego dla każdego użytkownika w dzierżawie partnera — w tym przypadku odpowiedzialność za zapewnienie wymuszania i zgodności rozwiązania mfa.
+      Firma Microsoft udostępnia uwierzytelniania wieloskładnikowego bez poniesienie kosztów dzięki implementacji ustawień domyślnych zabezpieczeń usługi Azure AD. Jedyną opcją weryfikacji dostępną przy użyciu tej wersji uwierzytelniania wieloskładnikowego jest aplikacja uwierzytelniania. Jeśli wymagane jest połączenie telefoniczne lub wiadomość SMS, [należy Azure Active Directory — wersja Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) licencję usługi. Alternatywnie możesz użyć rozwiązania innej firmy, aby zapewnić uwierzytelniania wieloskładnikowego dla każdego użytkownika w dzierżawie partnera — w tym przypadku odpowiadasz za zapewnienie, że rozwiązanie MFA jest wymuszane i że jest zgodne.
   - question: >
       Jakie akcje należy wykonać, jeśli mam już rozwiązanie MFA?
     answer: >
-      W ramach tych wymagań dotyczących zabezpieczeń użytkownicy w dzierżawie partnera będą zobowiązani do uwierzytelniania przy użyciu usługi MFA podczas uzyskiwania dostępu do komercyjnych usług w chmurze firmy Microsoft. Rozwiązania innych firm mogą służyć do spełnienia tych wymagań. Firma Microsoft nie zapewnia już testowania poprawności niezależnym dostawcom tożsamości w celu zapewnienia zgodności z Azure Active Directory. Aby przetestować współdziałanie produktu, zapoznaj się z tymi [wytycznymi.](https://www.microsoft.com/download/details.aspx?id=56843)
+      Dzięki tym wymaganiom dotyczącym zabezpieczeń użytkownicy w dzierżawie partnera będą potrzebni do uwierzytelniania przy użyciu uwierzytelniania wieloskładnikowego podczas uzyskiwania dostępu do komercyjnych usług w chmurze firmy Microsoft. Rozwiązania innych firm mogą służyć do spełnienia tych wymagań. Firma Microsoft nie zapewnia już testowania poprawności niezależnym dostawcom tożsamości w celu zapewnienia zgodności z Azure Active Directory. Aby przetestować współdziałanie produktu, zapoznaj się z tymi [wytycznymi.](https://www.microsoft.com/download/details.aspx?id=56843)
 
 
       > [!IMPORTANT]
 
-      > W przypadku korzystania z rozwiązania innej firmy ważne jest, aby sprawdzić, czy rozwiązanie wystawia oświadczenie odwołania do metody uwierzytelniania (AMR), które zawiera wartość usługi MFA. Zobacz [Testing the Partner Security Requirements (Testowanie](/powershell/partnercenter/test-partner-security-requirements) wymagań zabezpieczeń partnera), aby uzyskać szczegółowe informacje na temat sposobu wystawiania oczekiwanego oświadczenia przez rozwiązanie innej firmy.
+      > W przypadku korzystania z rozwiązania innej firmy ważne jest, aby sprawdzić, czy rozwiązanie wystawia oświadczenie odwołania do metody uwierzytelniania (AMR), które zawiera wartość uwierzytelniania wieloskładnikowego. Zobacz [Testing the Partner Security Requirements (Testowanie](/powershell/partnercenter/test-partner-security-requirements) wymagań dotyczących zabezpieczeń partnera), aby uzyskać szczegółowe informacje na temat sposobu wystawiania oczekiwanego oświadczenia przez rozwiązanie innej firmy.
   - question: >
       Do transakcji używam wielu dzierżaw partnerów. Czy muszę zaimplementować uwierzytelniania wieloskładnikowego na nich wszystkich?
-    answer: "Tak, należy wymusić uwierzytelniania wieloskładnikowego dla każdej dzierżawy Azure Active Directory skojarzonej z programem CSP lub programem Advisor. Aby kupić licencję Azure Active Directory — wersja Premium, musisz zakupić licencję Azure Active Directory dla użytkowników w każdej Azure Active Directory dzierżawy. \n"
+    answer: "Tak, należy wymusić uwierzytelniania wieloskładnikowego dla każdej dzierżawy usługi Azure Active Directory skojarzonej z programem CSP lub programem Advisor. Aby kupić licencję Azure Active Directory — wersja Premium, musisz zakupić licencję Azure Active Directory dla użytkowników w każdej Azure Active Directory dzierżawy. \n"
   - question: >
       Czy każde konto użytkownika w dzierżawie partnera musi mieć wymuszone uwierzytelniania wieloskładnikowego?
     answer: >
-      Tak, każdy użytkownik musi mieć wymuszone uwierzytelniania wieloskładnikowego. Jeśli jednak używasz ustawień domyślnych zabezpieczeń usługi Azure AD, nie jest wymagane żadne dodatkowe działanie, ponieważ ta funkcja wymusza uwierzytelniania wieloskładnikowego dla wszystkich kont użytkowników. Włączenie wartości domyślnych zabezpieczeń jest bezpłatnym i łatwym sposobem zapewnienia, że konta użytkowników są zgodne z uwierzytelniania wieloskładnikowego i nie będą miały wpływu na wymuszanie uwierzytelniania wieloskładnikowego.
+      Tak, każdy użytkownik musi mieć wymuszone uwierzytelniania wieloskładnikowego. Jeśli jednak używasz ustawień domyślnych zabezpieczeń usługi Azure AD, nie jest wymagane żadne dodatkowe działanie, ponieważ ta funkcja wymusza uwierzytelniania wieloskładnikowego dla wszystkich kont użytkowników. Włączenie wartości domyślnych zabezpieczeń jest bezpłatnym i łatwym sposobem zapewnienia, że konta użytkowników są zgodne z usługą MFA i nie mają na nie wpływu, gdy uwierzytelniania wieloskładnikowego jest wymuszane.
   - question: >
       Jestem bezpośrednim partnerem w firmie Microsoft. Co mam zrobić?
     answer: >
       Bezpośredni partnerzy Dostawca rozwiązań w chmurze muszą wymuszać uwierzytelniania wieloskładnikowego dla każdego użytkownika w dzierżawie partnera.
   - question: >
-      Jestem odsprzedawcą pośrednim i transakcję za pośrednictwem tylko dystrybutora. Czy nadal muszę włączyć usługę MFA?
+      Jestem odsprzedawcą pośrednim i transakcję mogę tylko za pośrednictwem dystrybutora. Czy nadal muszę włączyć usługę MFA?
     answer: >
-      Wszyscy odsprzedawcy pośredni są zobowiązani do wymuszenia uwierzytelniania wieloskładnikowego dla każdego użytkownika w dzierżawie partnera. Odsprzedawca pośredni musi włączyć usługę MFA.
+      Wszyscy odsprzedawcy pośredni są zobowiązani do wymuszania uwierzytelniania wieloskładnikowego dla każdego użytkownika w dzierżawie partnera. Odsprzedawca pośredni musi włączyć usługę MFA.
   - question: >
-      Nie używam interfejsu API Partner Center API. Czy nadal muszę zaimplementować uwierzytelniania wieloskładnikowego?
+      Nie używam interfejsu API Partner Center. Czy nadal muszę zaimplementować uwierzytelniania wieloskładnikowego?
     answer: >
-      Tak, to wymaganie dotyczące zabezpieczeń jest wymagane dla wszystkich użytkowników, w tym administratorów partnerów i użytkowników końcowych w dzierżawie partnera.
+      Tak, to wymaganie dotyczące zabezpieczeń dotyczy wszystkich użytkowników, w tym administratorów partnerów i użytkowników końcowych w dzierżawie partnera.
   - question: >
       Którzy dostawcy innych firm zapewniają rozwiązania MFA zgodne z Azure Active Directory?
     answer: >
@@ -106,13 +106,13 @@ sections:
       Firma Microsoft nie zapewnia już testowania poprawności niezależnym dostawcom tożsamości w celu zapewnienia zgodności z Azure Active Directory. Jeśli chcesz przetestować współdziałanie produktu, zapoznaj się z tymi [wytycznymi.](https://www.microsoft.com/download/details.aspx?id=56843)
 
 
-      Aby uzyskać więcej informacji, zobacz [listę zgodności federacji usługi Azure AD](/azure/active-directory/hybrid/how-to-connect-fed-compatibility).
+      Aby uzyskać więcej informacji, zobacz listę [zgodności federacji usługi Azure AD.](/azure/active-directory/hybrid/how-to-connect-fed-compatibility)
   - question: >
       Jak przetestować usługę MFA w piaskownicy integracji?
     answer: >
       Należy włączyć funkcję ustawień domyślnych zabezpieczeń usługi Azure AD lub użyć rozwiązania innej firmy, które korzysta z federacji.
   - question: >
-      Czy włączenie uwierzytelniania wieloskładnikowego będzie miało wpływ na sposób interakcji z dzierżawą klienta?
+      Czy włączenie uwierzytelniania wieloskładnikowego wpłynie na sposób interakcji z dzierżawą klienta?
     answer: >
       Nie. Spełnienie tych wymagań dotyczących zabezpieczeń nie będzie miało wpływu na sposób zarządzania klientami. Możliwość wykonywania delegowanych operacji administracyjnych nie zostanie przerwana.
   - question: >
@@ -126,7 +126,7 @@ sections:
   - question: >
       Czy wymagania dotyczące zabezpieczeń partnerów mają zastosowanie do piaskownicy integracji?
     answer: >
-      Tak, wymagania dotyczące zabezpieczeń partnerów mają zastosowanie do piaskownicy integracji. Oznacza to, że konieczne będzie wdrożenie odpowiedniego rozwiązania MFA dla użytkowników w dzierżawie piaskownicy integracji. Zaleca się zaimplementowanie ustawień domyślnych zabezpieczeń usługi Azure AD w celu zapewnienia uwierzytelniania wieloskładnikowego.
+      Tak, wymagania dotyczące zabezpieczeń partnerów mają zastosowanie do piaskownicy integracji. Oznacza to, że należy zaimplementować odpowiednie rozwiązanie MFA dla użytkowników w dzierżawie piaskownicy integracji. Zaleca się zaimplementowanie ustawień domyślnych zabezpieczeń usługi Azure AD w celu zapewnienia uwierzytelniania wieloskładnikowego.
   - question: >
       Jak mogę skonfigurować konto dostępu awaryjnego ?.
     answer: >
@@ -134,166 +134,34 @@ sections:
   - question: >
       Czy usługa Active Directory usługa federacyjna (ADFS) jest wymagana, jeśli korzystam z rozwiązania innej firmy?
     answer: >
-      Nie, nie jest wymagane używanie usługi Active Directory usługa federacyjna (ADFS), jeśli korzystasz z rozwiązania innej firmy. Zaleca się, aby we współpracy z dostawcą rozwiązania określić, jakie są wymagania dotyczące jego rozwiązania.
+      Nie, nie jest wymagane używanie usługi Active Directory usługa federacyjna (ADFS), jeśli używasz rozwiązania innej firmy. Zaleca się, aby we współpracy z dostawcą rozwiązania określić, jakie są wymagania dotyczące jego rozwiązania.
   - question: >
       Czy wymagane jest włączenie wartości domyślnych zabezpieczeń usługi Azure AD?
     answer: >
-      Nie, nie jest wymagane włączanie domyślnych ustawień zabezpieczeń usługi Azure AD.
+      Nie. Nie jest wymagane włączenie domyślnych ustawień zabezpieczeń usługi Azure AD.
   - question: >
       Czy można użyć dostępu warunkowego, aby spełnić wymaganie uwierzytelniania wieloskładnikowego?
     answer: >
       Tak, możesz użyć dostępu warunkowego, aby wymusić uwierzytelniania wieloskładnikowego dla każdego użytkownika, w tym kont usług, w dzierżawie partnera. Jednak ze względu na wysoce uprzywilejowany charakter partnera musimy upewnić się, że każdy użytkownik ma zadanie uwierzytelniania wieloskładnikowego dla każdego pojedynczego uwierzytelniania. Oznacza to, że nie będzie można korzystać z funkcji dostępu warunkowego, która pomija wymaganie uwierzytelniania wieloskładnikowego.
   - question: >
-      Czy na konto usługi używane przez usługę Azure AD Połączenie będą miały wpływ wymagania dotyczące zabezpieczeń partnerów?
+      Czy na konto usługi używane przez usługę Azure AD Połączenie będą miały wpływ wymagania dotyczące zabezpieczeń partnera?
     answer: >
-      Nie, na konto usługi używane przez usługę Azure AD Połączenie nie będą miały wpływu wymagania dotyczące zabezpieczeń partnera. Jeśli wystąpi problem z usługą Azure AD Połączenie w wyniku wymuszania uwierzytelniania wieloskładnikowego, otwórz wniosek o pomoc techniczną z pomocą techniczną firmy Microsoft.
+      Nie, na konto usługi używane przez usługę Azure AD Połączenie nie będą miały wpływu wymagania dotyczące zabezpieczeń partnera. Jeśli wystąpi problem z usługą Azure AD Połączenie w wyniku wymuszania uwierzytelniania wieloskładnikowego, otwórz wniosek o pomoc techniczną do pomocy technicznej firmy Microsoft.
 - name: model aplikacji zabezpieczonych
   questions:
   - question: >
       KtoTo należy przyjąć bezpieczny model aplikacji, aby spełnić wymagania?
     answer: >
-      Firma Microsoft wprowadza bezpieczną, skalowalną platformę do uwierzytelniania partnerów Dostawca rozwiązań w chmurze (CSP) i dostawców Panel sterowania (CPV), która korzysta z uwierzytelniania wieloskładnikowego. Aby uzyskać więcej informacji, zobacz [model aplikacji zabezpieczonych przewodniku.](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) Wszyscy partnerzy, którzy opracowali integrację niestandardową przy użyciu dowolnych interfejsów API (takich jak Azure Resource Manager, Microsoft Graph, Partner Center API itp.) lub wdrożyli automatyzację niestandardową przy użyciu narzędzi takich jak program PowerShell, będą musieli wdrożyć platformę [model aplikacji zabezpieczonych](/partner-center/develop/enable-secure-app-model) w celu integracji z usługami w chmurze firmy Microsoft.
+      Firma Microsoft wprowadza bezpieczną, skalowalną platformę do uwierzytelniania partnerów Dostawca rozwiązań w chmurze (CSP) i dostawców Panel sterowania (CPV), która korzysta z uwierzytelniania wieloskładnikowego. Aby uzyskać więcej informacji, zobacz [model aplikacji zabezpieczonych przewodnik.](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) Wszyscy partnerzy, którzy opracowali niestandardową integrację przy użyciu dowolnych interfejsów API (takich jak Azure Resource Manager, Microsoft Graph, Partner Center API itp.) lub wdrożyli niestandardową automatyzację przy użyciu narzędzi takich jak program PowerShell, będą musieli wdrożyć platformę [model aplikacji zabezpieczonych](/partner-center/develop/enable-secure-app-model) w celu integracji z usługami w chmurze firmy Microsoft.
   - question: >
       Co to jest model aplikacji zabezpieczonych?
     answer: "Firma Microsoft wprowadza bezpieczną, skalowalną platformę do uwierzytelniania partnerów Dostawca rozwiązań w chmurze (CSP) i dostawców Panel sterowania (CPV), która korzysta z uwierzytelniania wieloskładnikowego. Zobacz przewodnik [model aplikacji zabezpieczonych, aby](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) uzyskać więcej informacji.  \n"
   - question: >
       Jak mogę zaimplementować model aplikacji zabezpieczonych?
     answer: >
-      Wszyscy partnerzy, którzy opracowali integrację niestandardową przy użyciu dowolnych interfejsów API (takich jak Azure Resource Manager, Microsoft Graph, Partner Center API itp.) lub wdrożyli automatyzację niestandardową przy użyciu narzędzi takich jak program PowerShell, będą musieli wdrożyć platformę [model aplikacji zabezpieczonych](/partner-center/develop/enable-secure-app-model) w celu integracji z usługami w chmurze firmy Microsoft. Niewykonanie tej pracy może spowodować zakłócenie z powodu wdrożenia usługi MFA. Poniższe zasoby zawierają omówienie i wskazówki dotyczące sposobu przyjęcia modelu.
+      Wszyscy partnerzy, którzy opracowali niestandardową integrację przy użyciu dowolnych interfejsów API (takich jak Azure Resource Manager, Microsoft Graph, Partner Center API itp.) lub wdrożyli niestandardową automatyzację przy użyciu narzędzi takich jak program PowerShell, będą musieli wdrożyć platformę [model aplikacji zabezpieczonych](/partner-center/develop/enable-secure-app-model) w celu integracji z usługami w chmurze firmy Microsoft. Niewykonanie tej uwierzytelniania może spowodować zakłócenia spowodowane wdrożeniem usługi MFA. Poniższe zasoby zawierają omówienie i wskazówki dotyczące sposobu przyjęcia modelu.
 
 
-      - [model aplikacji zabezpieczonych omówienie](/partner-center/develop/enable-secure-app-model)
-
-      - [Partner Center: model aplikacji zabezpieczonych przewodnik](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-
-      - [Partnerzy w programie CSP: przykładowy kod dla programu .NET umożliwiający model aplikacji zabezpieczonych](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
-
-      - [Partnerzy w programie CSP: przykładowy kod Java umożliwiający włączenie model aplikacji zabezpieczonych](/samples/microsoft/partner-center-java-samples/secure-app-model/)
-
-      - [Partner Center uwierzytelniania](/partner-center/develop/partner-center-authentication)
-
-      - [Partner Center dokumentu usługi Multi-Factor Authentication (MFA) programu PowerShell](/powershell/partnercenter/multi-factor-auth)
-
-
-      Jeśli używasz panelu sterowania, musisz skonsultować się z dostawcą w sprawie wdrożenia model aplikacji zabezpieczonych framework.
-
-
-      Dostawcy panelu sterowania [](enroll-as-cpv.md) muszą do nich do Partner Center jako dostawca panelu sterowania i natychmiast rozpocząć wdrażanie tego wymagania. Zapoznaj się z [Partner Center: model aplikacji zabezpieczonych framework](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Dostawcy panelu sterowania muszą zaakceptować zgodę partnerów CSP i zarządzać nimi zamiast poświadczeń i przeczyścić poświadczenia wszystkich istniejących partnerów CSP.
-  - question: >
-      Czy model aplikacji zabezpieczonych musi być zaimplementowany tylko dla interfejsu API/zestawu SDK Partner Center?
-    answer: "Wymuszanie uwierzytelniania wieloskładnikowego dla wszystkich kont użytkowników będzie miało wpływ na automatyzację lub integrację, która ma być uruchamiana nieinterakcyjnie. Chociaż wymagania dotyczące zabezpieczeń partnerów wymagają włączenia bezpiecznego modelu aplikacji dla interfejsu API usługi Partner Center, można go użyć do rozwiązania potrzeby drugiego czynnika uwierzytelniania z automatyzacją i integracją.\n\n>[!Note] \n>Zasoby, do których uzyskuje się dostęp, muszą obsługiwać uwierzytelnianie oparte na tokenach dostępu.\n"
-  - question: >
-      Korzystam z narzędzi automatyzacji, takich jak program PowerShell. Jak mogę zaimplementować model aplikacji zabezpieczonych?
-    answer: "Jeśli automatyzacja ma być uruchamiana nieinterakcyjnie i opiera się na poświadczeniach użytkownika na potrzeby model aplikacji zabezpieczonych uwierzytelniania, konieczne będzie zaimplementowanie tej funkcji. Zobacz [model aplikacji zabezpieczonych | Partner Center programu PowerShell, aby](/powershell/partnercenter/multi-factor-auth) uzyskać wskazówki dotyczące sposobu implementacji tej struktury.  \n\n>[!Note] \n>Nie wszystkie narzędzia automatyzacji zapewniają możliwość uwierzytelniania przy użyciu tokenów dostępu. Jeśli potrzebujesz pomocy w zrozumieniu, jakie zmiany [należy wprowadzić,](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) opublikuj komunikat w Partner Center Wskazówki dotyczące zabezpieczeń. \n"
-  - question: >
-      Jakie poświadczenia użytkownika powinien podać administrator aplikacji podczas wykonywania procesu wyrażania zgody?
-    answer: >
-      Zaleca się użycie konta usługi, do których przypisano najmniej uprzywilejowane uprawnienia. W odniesieniu do Partner Center API należy użyć konta, które zostało przypisane do roli Agent sprzedaży lub Agenci administracyjni.
-  - question: >
-      Dlaczego administrator aplikacji nie powinien poświadczeń użytkownika administratora globalnego podczas wykonywania procesu wyrażania zgody?
-    answer: >
-      Najlepszym rozwiązaniem jest użycie tożsamości z najmniejszymi uprawnieniami.  Spowoduje to zmniejszenie ryzyka. Nie zaleca się używania konta z uprawnieniami administratora globalnego, ponieważ zapewniałoby to więcej uprawnień niż jest to wymagane.
-  - question: >
-      Jestem partnerem programu CSP. Jak mogę, czy dostawca Panel sterowania (CPV) pracuje nad wdrożeniem rozwiązania?
-    answer: >
-      W przypadku partnerów korzystających z rozwiązania dostawcy Panel sterowania (CPV) do transakcji w programie Dostawca rozwiązań w chmurze (CSP) odpowiadasz za skonsultowanie się z dostawcą CPV.
-  - question: >
-      KtoTo jest dostawcą Panel sterowania (CPV)?
-    answer: >
-      Dostawca Panel sterowania to niezależny dostawca oprogramowania, który opracowuje aplikacje do użycia przez partnerów programu CSP w celu integracji z Partner Center API. Dostawca Panel sterowania nie jest partnerem CSP z bezpośrednim dostępem do pulpitu nawigacyjnego Partner Center lub interfejsów API. Szczegółowy opis jest dostępny w [przewodniku Partner Center: Model bezpiecznych aplikacji.](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-  - question: >
-      Jestem CPV. Jak mogę zarejestrować?
-    answer: >
-      Aby zarejestrować się jako dostawca panelu sterowania (CPV), postępuj zgodnie z wytycznymi w tym [miejscu.](enroll-as-cpv.md)
-
-
-      W celu otrzymania linku rejestracji lub podania sponsora pracownika firmy Microsoft, który ma relację biznesową z kontem CPV lub zna swoją firmę, musi skontaktować się z działem [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com) firmy Microsoft. Na przykład Partner Development Manager (PDM).
-
-
-      Po zarejestrowaniu Partner Center i zarejestrowaniu aplikacji będziesz mieć dostęp do Partner Center API. Informacje o piaskownicy otrzymasz za pośrednictwem Partner Center powiadomienia, jeśli jesteś nowym użytkownikiem CPV. Po zakończeniu rejestracji jako konto CPV firmy Microsoft i zaakceptowaniu umowy CPV można:
-
-
-      -  Zarządzanie aplikacją wielodostępną (dodawanie aplikacji do Azure Portal oraz rejestrowanie i wyrejestrowynie aplikacji w Partner Center).
-
-         >[!Note]
-         >Aby uzyskać autoryzację dla interfejsów API Partner Center CPV, Partner Center rejestrować swoje aplikacje w Partner Center. Dodawanie aplikacji tylko do Azure Portal nie powoduje autoryzowania aplikacji CPV dla Partner Center API.
-
-      - Wyświetlanie profilu CPV i zarządzanie tym profilem.
-
-
-      - Wyświetlanie użytkowników, którzy potrzebują dostępu do funkcji CPV, i zarządzanie nimi. Protokół CPV może mieć tylko rolę Administrator globalny.
-  - question: >
-      Korzystam z zestaw SDK Centrum partnerskiego. Czy zestaw SDK automatycznie zastosuje model aplikacji zabezpieczonych?
-    answer: >
-      Nie, należy postępować zgodnie z wytycznymi w przewodniku model aplikacji zabezpieczonych [usługi](https://assetsprod.microsoft.com/secure-application-model-guide.pdf).
-  - question: >
-      Czy mogę wygenerować token odświeżania dla modelu bezpiecznej aplikacji z kontami, które nie mają włączonej usługi MFA?
-    answer: >
-      Tak, token odświeżania można wygenerować przy użyciu konta, które nie ma wymuszania uwierzytelniania wieloskładnikowego. Należy tego jednak unikać. Token wygenerowany przy użyciu konta, które nie ma włączonej usługi MFA, nie będzie mógł uzyskać dostępu do zasobów ze względu na wymaganie uwierzytelniania wieloskładnikowego.
-  - question: >
-      Jak moja aplikacja powinna uzyskać token dostępu, jeśli włączymy usługę MFA?
-    answer: >
-      Należy postępować zgodnie z [model aplikacji zabezpieczonych,](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) który zawiera szczegółowe informacje na temat tego, jak to zrobić przy zachowaniu zgodności z nowymi wymaganiami w zakresie zabezpieczeń. Przykładowy kod .NET można znaleźć [tutaj,](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model) a przykładowy kod Java można [znaleźć tutaj.](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
-  - question: >
-      Czy w ramach protokołu CPV mogę utworzyć aplikację usługi Azure AD w dzierżawie CPV, czy dzierżawie partnera CSP?
-    answer: >
-      Protokół CPV będzie musiał utworzyć aplikację Azure Active Directory dzierżawie skojarzoną z rejestracją jako CPV.
-  - question: >
-      Jestem CSP, który korzysta z uwierzytelniania tylko aplikacji. Czy muszę wprowadzić jakieś zmiany?
-    answer: >
-      Nie ma to wpływu na uwierzytelnianie tylko aplikacji, ponieważ poświadczenia użytkownika nie są używane do żądania tokenu dostępu. Jeśli poświadczenia użytkownika są udostępniane, dostawcy panelu sterowania muszą przyjąć platformę [model aplikacji zabezpieczonych](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) i przeczyścić wszystkie istniejące poświadczenia partnerów, które mają.
-  - question: >
-      Czy jako protokół CPV mogę wykorzystać styl uwierzytelniania tylko aplikacji do uzyskiwania tokenów dostępu?
-    answer: >
-      Nie, Panel sterowania dostawcy nie mogą używać stylu uwierzytelniania tylko aplikacji do żądania tokenów dostępu w imieniu partnera. Powinni oni zaimplementować bezpieczny model aplikacji, który korzysta ze stylu uwierzytelniania aplikacji i użytkownika.
-- name: Wymuszanie techniczne
-  questions:
-  - question: >
-      Jaka jest aktywacja zabezpieczeń?
-    answer: "Wszyscy partnerzy biorący udział w programie Dostawca rozwiązań w chmurze (CSP), Panel sterowania Vendors (CPV) i doradcy powinni zaimplementować obowiązkowe wymagania dotyczące zabezpieczeń, aby zachować zgodność.\n\nAby zapewnić dodatkową ochronę, firma Microsoft rozpoczęła aktywację zabezpieczeń, które pomagają partnerom w zabezpieczaniu ich dzierżaw i klientów przez upoważnianie weryfikacji uwierzytelniania wieloskładnikowego (MFA) w celu zapobiegania nieautoryzowanemu dostępowi.  \n\nPomyślnie ukończono aktywację funkcji admin-on-behalf-of (AOBO) dla wszystkich dzierżaw partnerów. Aby jeszcze bardziej ułatwić ochronę partnerów i klientów w drugim kwartale 2020 r., rozpoczniemy aktywację dla transakcji usługi Partner Center w programie CSP, pomagając partnerom chronić firmy i klientów przed zdarzeniami związanymi z kradzieżą tożsamości.\n\nAby uzyskać więcej informacji, [odwiedź stronę Wymuszanie uwierzytelniania wieloskładnikowego (MFA) dla dzierżawy](partner-security-requirements-mandating-mfa.md) partnera.\n"
-  - question: >
-      Korzystam z rozwiązania uwierzytelniania wieloskładnikowego innej firmy i mam zablokowaną możliwość. Co mam zrobić?
-    answer: >
-      Aby sprawdzić, czy konto, do których uzyskuje dostęp do zasobów, [](https://tools.ietf.org/html/rfc8176) zostało zakwestionowane w celu uwierzytelnienia wieloskładnikowego, sprawdzimy oświadczenie referencyjne metody uwierzytelniania, aby sprawdzić, czy uwierzytelnianie wieloskładnikowe jest wyświetlane. Niektóre rozwiązania innych firm nie wystawiają tego oświadczenia lub nie zawierają wartości uwierzytelniania wieloskładnikowego. Jeśli brakuje oświadczenia lub wartości uwierzytelniania wieloskładnikowego nie ma na liście, nie ma możliwości ustalenia, czy uwierzytelnione konto zostało zakwestionowane na potrzeby uwierzytelniania wieloskładnikowego. Należy współpracować z dostawcą rozwiązania innej firmy, aby określić, jakie działania należy podjąć, aby rozwiązanie wystawiało oświadczenie referencyjne metody uwierzytelniania.
-
-
-      Zobacz [Temat Testing the Partner Security Requirements](/powershell/partnercenter/test-partner-security-requirements) if you'm unsure if your third-party solution is issuing the expected claim or not (Testowanie wymagań zabezpieczeń partnera, jeśli nie masz pewności, czy rozwiązanie innej firmy wystawia oczekiwane oświadczenie).
-  - question: >
-      Uwierzytelniania wieloskładnikowego blokuje mi obsługę mojego klienta przy użyciu AOBO. Co mam zrobić?
-    answer: >
-      Wymuszanie techniczne wymagań dotyczących zabezpieczeń partnera zostanie sprawdzone, jeśli uwierzytelnione konto zostało zakwestionowane w celu uwierzytelnienia wieloskładnikowego. Jeśli konto nie zostało, nastąpi przekierowanie do strony logowania i zostanie wyświetlony monit o uwierzytelnienie. Zapoznaj się z dodatkowymi funkcjami i wskazówkami w tej dokumentacji dzierżawy partnera w zakresie uwierzytelniania [wieloskładnikowego (MFA).](partner-security-requirements-mandating-mfa.md#partner-delegated-administration) W scenariuszu, w którym domena nie jest federowana, po pomyślnym uwierzytelnieniu zostanie wyświetlony monit o skonfigurowanie uwierzytelniania wieloskładnikowego. Po zakończeniu będzie można zarządzać klientami przy użyciu funkcji AOBO. W scenariuszu, w którym domena jest federowana, należy upewnić się, że konto jest wymagane do uwierzytelniania wieloskładnikowego.
-- name: Przejście ustawień domyślnych zabezpieczeń
-  questions:
-  - question: >
-      Jak przejść z zasad bazowych do wartości domyślnych zabezpieczeń lub innych rozwiązań MFA?
-    answer: >
-      Azure Active Directory (Azure AD) ["baseline"](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) policies are being removed and replaced with "security defaults" (Zasady bazowe usługi Azure AD) są usuwane i zastępowane przez "wartości domyślne zabezpieczeń", czyli bardziej kompleksowy zestaw zasad ochrony dla Ciebie i Twoich klientów. [Wartości domyślne zabezpieczeń mogą](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) pomóc w ochronie organizacji przed atakami zabezpieczającymi związanymi z kradzieżą tożsamości.
-
-
-      Implementacja uwierzytelniania wieloskładnikowego (MFA) zostanie usunięta z powodu wycofania zasad bazowych, jeśli nie zostało to spowodowane przejściem z zasad bazowych do zasad domyślnych zabezpieczeń lub innych opcji implementacji usługi [MFA.](partner-security-requirements.md#implementing-multi-factor-authentication) Każdy użytkownik w dzierżawach partnerskich wykonujący operacje chronione za pomocą usługi MFA zostanie zażądany w celu ukończenia weryfikacji mfa. Zapoznaj się z bardziej szczegółowymi [wskazówkami tutaj.](partner-security-requirements-mandating-mfa.md)
-
-      Aby zachować zgodność i zminimalizować zakłócenia, należy podjąć jedną z następujących czynności:
-
-
-      - Przejście do ustawień domyślnych zabezpieczeń
-          - Zasady domyślnych ustawień zabezpieczeń to jedna z opcji, które partnerzy mogą wybrać do zaimplementowania usługi MFA. Oferuje ona podstawowy poziom zabezpieczeń włączony bez dodatkowych kosztów.
-          - Dowiedz się, jak włączyć usługę MFA dla swojej organizacji za pomocą usługi Azure AD i zapoznaj się z kluczowymi zagadnieniami na [temat ustawień domyślnych zabezpieczeń.](partner-security-requirements.md#security-defaults)
-          - Włącz domyślne zasady zabezpieczeń, jeśli spełniają one potrzeby biznesowe.
-      - Przejście do dostępu warunkowego
-          - Jeśli zasady domyślne zabezpieczeń nie są potrzebne, włącz dostęp warunkowy. Aby uzyskać więcej informacji, zapoznaj się z dokumentacją dostępu warunkowego usługi Azure AD.
-- name: Kluczowe zasoby
-  questions:
-  - question: >
-      Jak zacząć
-    answer: >
-      - [Wymagania dotyczące zabezpieczeń partnerów: przewodnik krok po kroku.](partner-security-requirements.md)
-
-      - Pytania i opinie należy kierować do tej [grupy Partner Center Wskazówki dotyczące zabezpieczeń.](https://aka.ms/MPCSecurityGuidance)
-
-      - Weź udział w nadchodzących godzinach pracy partnera i seminariach internetowych. Szczegółowe informacje [o harmonogramie i zasobach można sprawdzić tutaj.](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)
-  - question: >
-      Zasoby dotyczące adoptowania bezpiecznego modelu aplikacji
-    answer: >
       - [model aplikacji zabezpieczonych omówienie](/partner-center/develop/enable-secure-app-model)
 
       - [Partner Center: model aplikacji zabezpieczonych przewodnik](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
@@ -305,19 +173,151 @@ sections:
       - [Partner Center uwierzytelniania](/partner-center/develop/partner-center-authentication)
 
       - [Partner Center dokumentu usługi Multi-Factor Authentication (MFA) programu PowerShell](/powershell/partnercenter/multi-factor-auth)
+
+
+      Jeśli używasz panelu sterowania, musisz skonsultować się z dostawcą w sprawie wdrożenia model aplikacji zabezpieczonych framework.
+
+
+      Dostawcy panelu sterowania są zobowiązani do [do](enroll-as-cpv.md) dołączania do Partner Center jako dostawca panelu sterowania i natychmiast rozpocząć implementowanie tego wymagania. Zapoznaj się z [Partner Center: model aplikacji zabezpieczonych framework](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Dostawcy panelu sterowania muszą zaakceptować zgodę partnerów CSP i zarządzać nimi zamiast poświadczeń i przeczyścić poświadczenia wszystkich istniejących partnerów CSP.
+  - question: >
+      Czy model aplikacji zabezpieczonych muszą być implementowane tylko dla interfejsu API Partner Center SDK?
+    answer: "Wymuś uwierzytelnianie wieloskładnikowe dla wszystkich kont użytkowników wpłynie to na wszelkie automatyzacje lub integrację, które mają być uruchamiane nieinterakcyjnie. Mimo że wymagania dotyczące zabezpieczeń partnerów wymagają włączenia bezpiecznego modelu aplikacji dla interfejsu API usługi Partner Center, można go użyć do rozwiązania potrzeby drugiego czynnika uwierzytelniania z automatyzacją i integracją.\n\n>[!Note] \n>Zasoby, do których uzyskiwany jest dostęp, muszą obsługiwać uwierzytelnianie oparte na tokenach dostępu.\n"
+  - question: >
+      Korzystam z narzędzi automatyzacji, takich jak program PowerShell. Jak mogę zaimplementować model aplikacji zabezpieczonych?
+    answer: "Jeśli automatyzacja ma być uruchamiana nieinterakcyjnie i opiera się na poświadczeniach użytkownika na potrzeby model aplikacji zabezpieczonych uwierzytelniania, konieczne będzie zaimplementowanie tej funkcji. Zobacz [model aplikacji zabezpieczonych | Partner Center programu PowerShell,](/powershell/partnercenter/multi-factor-auth) aby uzyskać wskazówki dotyczące sposobu implementacji tej struktury.  \n\n>[!Note] \n>Nie wszystkie narzędzia automatyzacji zapewniają możliwość uwierzytelniania przy użyciu tokenów dostępu. Jeśli potrzebujesz pomocy w zrozumieniu, jakie zmiany należy [wprowadzić,](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) opublikuj komunikat w grupie wskazówki dotyczące zabezpieczeń usługi Partner Center. \n"
+  - question: >
+      Jakie poświadczenia użytkownika powinien podać administrator aplikacji podczas procesu wyrażania zgody?
+    answer: >
+      Zalecane jest użycie konta usługi, do których przypisano najmniej uprzywilejowane uprawnienia. W odniesieniu do Partner Center API należy użyć konta, które zostało przypisane do roli Agent sprzedaży lub Agenci administracyjni.
+  - question: >
+      Dlaczego administrator aplikacji nie powinien poświadczeń użytkownika administratora globalnego podczas wykonywania procesu wyrażania zgody?
+    answer: >
+      Najlepszym rozwiązaniem jest użycie tożsamości z najmniejszymi uprawnieniami.  Spowoduje to zmniejszenie ryzyka. Nie zaleca się używania konta z uprawnieniami administratora globalnego, ponieważ zapewniałoby to więcej uprawnień niż jest to wymagane.
+  - question: >
+      Jestem partnerem programu CSP. Jak mogę, czy mój Panel sterowania (CPV) pracuje nad wdrożeniem rozwiązania?
+    answer: >
+      W przypadku partnerów korzystających z rozwiązania dostawcy Panel sterowania (CPV) do transakcji w programie Dostawca rozwiązań w chmurze (CSP) odpowiedzialność za skonsultowanie się z dostawcą CPV należy do Użytkownika.
+  - question: >
+      KtoTo jest dostawcą Panel sterowania (CPV)?
+    answer: >
+      Dostawca Panel sterowania to niezależny dostawca oprogramowania, który opracowuje aplikacje do użycia przez partnerów programu CSP w celu integracji z Partner Center API. Dostawca Panel sterowania nie jest partnerem CSP z bezpośrednim dostępem do pulpitu nawigacyjnego Partner Center lub interfejsów API. Szczegółowy opis jest dostępny w [przewodniku Partner Center: Model bezpiecznych aplikacji.](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+  - question: >
+      Jestem CPV. Jak mogę zarejestrować?
+    answer: >
+      Aby zarejestrować się jako dostawca panelu sterowania (CPV), postępuj zgodnie z wytycznymi w tym [miejscu.](enroll-as-cpv.md)
+
+
+      W celu otrzymania linku rejestracji należy skontaktować się z działem pomocy technicznej firmy Microsoft i podać sponsora pracownika firmy Microsoft, który ma relację biznesową z kontem CPV lub [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com) zna jego firmę. Na przykład Menedżer rozwoju partnera (PDM).
+
+
+      Po zarejestrowaniu się w Partner Center i zarejestrowaniu aplikacji będziesz mieć dostęp do Partner Center API. Jeśli jesteś nowym użytkownikiem CPV, otrzymasz Partner Center piaskownicy za pośrednictwem powiadomienia. Po zakończeniu rejestracji jako konto CPV firmy Microsoft i zaakceptowaniu umowy CPV można:
+
+
+      -  Zarządzanie aplikacjami wielodostępnych (dodawanie aplikacji do Azure Portal oraz rejestrowanie i wyrejestrowywuje aplikacje w Partner Center).
+
+         >[!Note]
+         >Procesory CPV muszą zarejestrować swoje aplikacje w Partner Center, aby uzyskać autoryzację dla Partner Center API. Dodawanie aplikacji do samej Azure Portal nie powoduje autoryzowania aplikacji CPV dla Partner Center API.
+
+      - Wyświetlanie profilu CPV i zarządzanie tym profilem.
+
+
+      - Wyświetlanie użytkowników, którzy potrzebują dostępu do funkcji CPV, i zarządzanie nimi. Adres CPV może mieć tylko rolę Administrator globalny.
+  - question: >
+      Korzystam z zestaw SDK Centrum partnerskiego. Czy zestaw SDK będzie automatycznie model aplikacji zabezpieczonych?
+    answer: >
+      Nie, należy postępować zgodnie z wytycznymi w przewodniku model aplikacji zabezpieczonych [przewodniku.](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+  - question: >
+      Czy mogę wygenerować token odświeżania dla bezpiecznego modelu aplikacji z kontami, które nie mają włączonej usługi MFA?
+    answer: >
+      Tak, token odświeżania można wygenerować przy użyciu konta, które nie ma wymuszania uwierzytelniania wieloskładnikowego. Należy tego jednak unikać. Token wygenerowany przy użyciu konta, które nie ma włączonej usługi MFA, nie będzie mógł uzyskać dostępu do zasobów ze względu na wymaganie uwierzytelniania wieloskładnikowego.
+  - question: >
+      Jak moja aplikacja powinna uzyskać token dostępu, jeśli włączymy usługę MFA?
+    answer: >
+      Należy postępować zgodnie z [model aplikacji zabezpieczonych,](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) który zawiera szczegółowe informacje o tym, jak to zrobić przy zachowaniu zgodności z nowymi wymaganiami w zakresie zabezpieczeń. Przykładowy kod .NET można znaleźć [tutaj,](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model) a przykładowy kod Java można [znaleźć tutaj.](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
+  - question: >
+      Czy jako konto CPV mogę utworzyć aplikację usługi Azure AD w dzierżawie CPV, czy dzierżawie partnera CSP?
+    answer: >
+      Protokół CPV będzie musiał utworzyć aplikację Azure Active Directory dzierżawie skojarzonej z rejestracją jako CPV.
+  - question: >
+      Jestem CSP, który korzysta z uwierzytelniania tylko aplikacji. Czy muszę wprowadzić jakieś zmiany?
+    answer: >
+      Nie ma to wpływu na uwierzytelnianie tylko aplikacji, ponieważ poświadczenia użytkownika nie są używane do żądania tokenu dostępu. Jeśli poświadczenia użytkownika są udostępniane, dostawcy panelu sterowania muszą [](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) przyjąć platformę model aplikacji zabezpieczonych i przeczyścić wszystkie istniejące poświadczenia partnera, które mają.
+  - question: >
+      Czy jako protokół CPV mogę wykorzystać styl uwierzytelniania tylko aplikacji, aby uzyskać tokeny dostępu?
+    answer: >
+      Nie, Panel sterowania dostawcy nie mogą używać stylu uwierzytelniania tylko aplikacji do żądania tokenów dostępu w imieniu partnera. Powinni oni zaimplementować bezpieczny model aplikacji, który wykorzystuje styl uwierzytelniania aplikacji i użytkownika.
+- name: Wymuszanie techniczne
+  questions:
+  - question: >
+      Co to jest aktywacja zabezpieczeń?
+    answer: "Wszyscy partnerzy biorący udział w programie Dostawca rozwiązań w chmurze (CSP), dostawcy Panel sterowania (CPV) i doradcy powinni zaimplementować obowiązkowe wymagania dotyczące zabezpieczeń, aby zachować zgodność.\n\nAby zapewnić dodatkową ochronę, firma Microsoft rozpoczęła aktywację zabezpieczeń, które pomagają partnerom zabezpieczyć ich dzierżawy i ich klientów przez zapewnienie weryfikacji uwierzytelniania wieloskładnikowego (MFA), aby zapobiec nieautoryzowanemu dostępowi.  \n\nPomyślnie ukończyliśmy aktywację funkcji admin-on-behalf-of (AOBO) dla wszystkich dzierżaw partnerów. Aby jeszcze bardziej chronić partnerów i klientów, ukierunkowanych na 2. kwartał 2020 r., rozpoczniemy aktywację transakcji usługi Partner Center w programie CSP, pomagając partnerom chronić firmy i klientów przed zdarzeniami związanymi z kradzieżą tożsamości.\n\nAby uzyskać więcej informacji, odwiedź [stronę Uwierzytelnianie wieloskładnikowe (MFA) dla dzierżawy partnera.](partner-security-requirements-mandating-mfa.md)\n"
+  - question: >
+      Korzystam z rozwiązania uwierzytelniania wieloskładnikowego innej firmy i mam zablokowaną możliwość. Co mam zrobić?
+    answer: >
+      Aby sprawdzić, czy konto, do których jest wymagane uwierzytelnianie wieloskładnikowe, sprawdzimy oświadczenie referencyjne metody uwierzytelniania, aby sprawdzić, czy na liście znajduje się uwierzytelnianie wieloskładnikowe. [](https://tools.ietf.org/html/rfc8176) Niektóre rozwiązania innych firm nie wystawiają tego oświadczenia lub nie zawierają wartości uwierzytelniania wieloskładnikowego. Jeśli brakuje oświadczenia lub nie ma wartości uwierzytelniania wieloskładnikowego, nie ma możliwości ustalenia, czy uwierzytelnione konto zostało zakwestionowane na potrzeby uwierzytelniania wieloskładnikowego. Należy współpracować z dostawcą rozwiązania innej firmy, aby określić, jakie działania należy podjąć, aby rozwiązanie wystawiało oświadczenie referencyjne metody uwierzytelniania.
+
+
+      Zobacz [Testing the Partner Security Requirements](/powershell/partnercenter/test-partner-security-requirements) if you'm unsure if your third-party solution is issuing the expected claim or not( Testowanie wymagań zabezpieczeń partnera, jeśli nie masz pewności, czy twoje rozwiązanie innej firmy wystawia oczekiwane oświadczenie.
+  - question: >
+      Uwierzytelniania wieloskładnikowego blokuje mi obsługę mojego klienta przy użyciu AOBO, co mam zrobić?
+    answer: >
+      Techniczne wymuszanie wymagań dotyczących zabezpieczeń partnerów zostanie sprawdzone, jeśli uwierzytelnione konto zostało zakwestionowane w celu uwierzytelnienia wieloskładnikowego. Jeśli konto nie zostało, nastąpi przekierowanie do strony logowania i monit o uwierzytelnienie się ponownie. Zapoznaj się z dodatkowymi doświadczeniami i wskazówkami w tej dokumentacji dotyczącej uwierzytelniania [wieloskładnikowego (MFA) dla dzierżawy partnera.](partner-security-requirements-mandating-mfa.md#partner-delegated-administration) W scenariuszu, w którym domena nie jest federowana, po pomyślnym uwierzytelnieniu zostanie wyświetlony monit o skonfigurowanie uwierzytelniania wieloskładnikowego. Po zakończeniu będzie można zarządzać klientami przy użyciu usługi AOBO. W scenariuszu, w którym domena jest federowana, należy upewnić się, że konto jest wymagane do uwierzytelniania wieloskładnikowego.
+- name: Przejście ustawień domyślnych zabezpieczeń
+  questions:
+  - question: >
+      Jak przejść z zasad bazowych do ustawień domyślnych zabezpieczeń lub innych rozwiązań MFA?
+    answer: >
+      Azure Active Directory "linii [bazowej"](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) (Azure AD) są usuwane i zastępowane "ustawieniami domyślnymi zabezpieczeń", bardziej kompleksowym zestawem zasad ochrony dla Ciebie i Twoich klientów. [Wartości domyślne zabezpieczeń mogą](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) pomóc w ochronie organizacji przed atakami bezpieczeństwa związanymi z kradzieżą tożsamości.
+
+
+      Implementacja uwierzytelniania wieloskładnikowego (MFA) zostanie usunięta z powodu wycofania zasad bazowych, jeśli nie została przełączona z zasad bazowych do zasad domyślnych zabezpieczeń lub innych opcji implementacji usługi [MFA.](partner-security-requirements.md#implementing-multi-factor-authentication) Każdy użytkownik w dzierżawach partnerskich wykonujący operacje chronione za pomocą uwierzytelniania wieloskładnikowego będzie żądał ukończenia weryfikacji uwierzytelniania wieloskładnikowego. Zapoznaj się z bardziej szczegółowymi [wskazówkami tutaj.](partner-security-requirements-mandating-mfa.md)
+
+      Aby zachować zgodność i zminimalizować zakłócenia, należy podjąć jedną z następujących czynności:
+
+
+      - Przejście do ustawień domyślnych zabezpieczeń
+          - Zasady wartości domyślnych zabezpieczeń to jedna z opcji, które partnerzy mogą zdecydować się na wdrożenie usługi MFA. Oferuje ona podstawowy poziom zabezpieczeń włączony bez dodatkowych kosztów.
+          - Dowiedz się, jak włączyć uwierzytelniania wieloskładnikowego dla organizacji za pomocą usługi Azure AD i zapoznaj się z [kluczowymi zagadnieniami na temat ustawień domyślnych zabezpieczeń.](partner-security-requirements.md#security-defaults)
+          - Włącz domyślne zasady zabezpieczeń, jeśli spełniają one potrzeby biznesowe.
+      - Przejście do dostępu warunkowego
+          - Jeśli zasady domyślne zabezpieczeń nie są potrzebne, włącz dostęp warunkowy. Aby uzyskać więcej informacji, zapoznaj się z dokumentacją dostępu warunkowego usługi Azure AD.
+- name: Kluczowe zasoby
+  questions:
+  - question: >
+      Jak zacząć
+    answer: >
+      - [Wymagania dotyczące zabezpieczeń partnerów: przewodnik krok po kroku.](partner-security-requirements.md)
+
+      - Pytania i opinie należy kierować do tej [grupy Partner Center Security Guidance Group.](https://aka.ms/MPCSecurityGuidance)
+
+      - Weź udział w nadchodzących godzinach pracy partnera i seminariach internetowych. Zapoznaj się ze [szczegółowym harmonogramem i zasobami tutaj.](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)
+  - question: >
+      Zasoby do przyjęcia modelu bezpiecznych aplikacji
+    answer: >
+      - [model aplikacji zabezpieczonych omówienie](/partner-center/develop/enable-secure-app-model)
+
+      - [Partner Center: model aplikacji zabezpieczonych przewodnik](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+
+      - [Partnerzy w programie CSP: przykładowy kod dla programu .NET umożliwiający model aplikacji zabezpieczonych](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+
+      - [Partnerzy w programie CSP: przykładowy kod Java umożliwiający włączenie model aplikacji zabezpieczonych](/samples/microsoft/partner-center-java-samples/secure-app-model/)
+
+      - [Partner Center uwierzytelniania](/partner-center/develop/partner-center-authentication)
+
+      - [Partner Center dokumentu usługi Multi-Factor Authentication (MFA) programu PowerShell](/powershell/partnercenter/multi-factor-auth)
 - name: Pomoc techniczna
   questions:
   - question: >
       Gdzie mogę uzyskać pomoc techniczną?
     answer: >
-      Aby uzyskać zasoby pomocy technicznej spełniające wymagania dotyczące zabezpieczeń, jeśli masz zaawansowaną pomoc techniczną dla partnerów (ASfP), skontaktuj się z menedżerem konta usługi. W przypadku umowy Pomocy technicznej Premier dla partnerów (PSfP) skontaktuj się z menedżerem kont usług i menedżerem ds. technicznych kont.
+      Aby zasoby pomocy technicznej spełniały wymagania dotyczące zabezpieczeń, jeśli masz zaawansowaną pomoc techniczną dla partnerów (ASfP), skontaktuj się z menedżerem konta usługi. W przypadku umowy Premier Support for Partners (PSfP) skontaktuj się z menedżerem ds. konta usługi i menedżerem ds. klientów technicznych.
   - question: >
-      Jak mogę uzyskać informacje techniczne i pomoc techniczną, które pomogą mi w przyjęcie bezpiecznej struktury modelu aplikacji?
+      Jak mogę uzyskać informacje techniczne i pomoc techniczną, aby ułatwić mi przyjęcie bezpiecznej struktury modelu aplikacji?
     answer: >
-      Opcje pomocy technicznej produktu dla Azure Active Directory są dostępne za pośrednictwem twoich korzyści związanych z mpn. Partnerzy z dostępem do aktywnej subskrypcji ASfP lub PSfP mogą współpracować ze skojarzonym menedżerem kont (SAM/TAM), aby najlepiej zrozumieć dostępne opcje.
+      Opcje pomocy technicznej produktu dla Azure Active Directory są dostępne za pośrednictwem Twoich korzyści związanych z mpn. Partnerzy z dostępem do aktywnej subskrypcji ASfP lub PSfP mogą współpracować ze skojarzonym menedżerem kont (SAM/TAM), aby jak najlepiej zrozumieć dostępne opcje.
   - question: >
-      Jak mogę skontaktować się z pomocą techniczną, jeśli utraciłem dostęp do Partner Center?
+      Jak mogę skontaktować się z pomocą techniczną, jeśli utracę dostęp do Partner Center?
     answer: "Jeśli utracisz dostęp z powodu problemu z usługą MFA, skontaktuj się z administratorem globalnym dzierżawy. Wewnętrzny dział IT będzie mógł poinformować Cię, kim jest administrator globalny. \n\nJeśli nie pamiętasz hasła, przeczytaj [nie można zalogować się, aby](unable-to-sign-in.md) uzyskać pomoc.\n"
   - question: >
       Gdzie można znaleźć więcej informacji na temat typowych problemów technicznych?
-    answer: Informacje dotyczące typowych problemów technicznych można znaleźć w te tematach Partner security requirements for partners using Partner Center or Partner Center APIs (Wymagania dotyczące zabezpieczeń partnerów korzystających z interfejsów API Partner Center [lub Partner Center partnerów)](partner-security-requirements.md)
+    answer: Informacje dotyczące typowych problemów technicznych można znaleźć w te [tematach Partner security requirements for partners using Partner Center or Partner Center APIs](partner-security-requirements.md) (Wymagania dotyczące zabezpieczeń partnerów korzystających z interfejsów API Partner Center lub Partner Center Partner)

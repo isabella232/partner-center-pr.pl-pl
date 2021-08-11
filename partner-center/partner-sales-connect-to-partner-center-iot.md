@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/07/2021
-ms.openlocfilehash: 1850ffe388349cdb7e4c685e5db0004d74735e80
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: b9ec14c2897af8cc493adcfe027269bfdc39d777556b81755fc2921c035955b8
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115101654"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687064"
 ---
 # <a name="guide-to-create-and-manage-iot-deals-in-partner-center-pc-for-iot-partners-migrating-from-partner-sales-connect-psc"></a>Przewodnik dotyczący tworzenia transakcji IOT na platformie Partner Center (PC) dla partnerów IOT migrowania z partnerów sales Połączenie (PSC)
 
@@ -141,49 +141,49 @@ Przed rozpoczęciem migracji transakcji z usługi Partner Center postępuj zgodn
     - Szacowana data zamknięcia transakcji
     - Uwagi partnerów
 
-Możesz użyć funkcji zbiorczego pobierania i przekazywania w chmurze PSC, aby dodać wszystkie brakujące szczegóły transakcji dla wszystkich kwalifikujących się transakcji.
+Możesz użyć funkcji pobierania i przekazywania zbiorczego w chmurze PSC, aby dodać wszystkie brakujące szczegóły transakcji dla wszystkich kwalifikujących się transakcji.
 
 >[!Note]
-> Migracja transakcji powiedzie się, nawet jeśli powyższe wymagania wstępne nie zostaną spełnione. Nie można jednak zmienić stanu transakcji, jeśli dowolne z powyższych wymaganych pól w Partner Center są niedostępne. Następnie musisz wprowadzić wszystkie wymagane informacje, których brakuje w transakcjach w Partner Center, aby rozpocząć pracę nad nimi. **Zdecydowanie zaleca się oczyszczenie kwalifikujących się transakcji w programie PSC przed ich migracją do Partner Center.**
+> Migracja transakcji powiedzie się, nawet jeśli powyższe wymagania wstępne nie zostaną spełnione. Nie można jednak zmienić stanu transakcji, jeśli którekolwiek z powyższych wymaganych pól w Partner Center są niedostępne. Następnie musisz wprowadzić wszystkie wymagane informacje, których brakuje w ofertach w Partner Center, aby rozpocząć pracę nad nimi. **Zdecydowanie zaleca się oczyszczenie kwalifikujących się transakcji w programie PSC przed ich migracją do Partner Center.**
 
-Migracja transakcji w Partner Center jest budowaną w środowisko jednym kliknięciem. Wystarczy kliknąć przycisk "Migruj **transakcje",** gdy firma będzie gotowa do migracji kwalifikujących się transakcji. **Nie można wybrać transakcji, które mają zostać zmigrowane z konsoli psc. Jeśli nie chcesz migrować żadnych transakcji do Partner Center, przed rozpoczęciem migracji przenieś je do stanu zamkniętego w konsoli psc.**
+Migracja transakcji w Partner Center jest budowaną w środowisko jednym kliknięciem. Wystarczy kliknąć przycisk "Migruj **transakcje",** gdy firma będzie gotowa do migracji kwalifikujących się transakcji. **Nie można wybrać transakcji, które mają zostać zmigrowane z psc. Jeśli nie chcesz migrować żadnych transakcji do usługi Partner Center, przenieś je do stanu zamkniętego w konsoli psc przed rozpoczęciem migracji.**
 
 >[!Note]
 > Po zainicjowaniu migracji migrowanie transakcji może potrwać do **24 godzin.**
 
-Po zakończeniu migracji stan baneru zmieni się na ukończony z linkiem do raportu migracji. Pobierz raport, aby wyświetlić szczegóły transakcji, które zostały zmigrowane z konsoli psc do Partner Center.
+Po zakończeniu migracji stan komunikatu transparentu zmieni się na ukończony z linkiem do raportu migracji. Pobierz raport, aby wyświetlić szczegóły transakcji, które zostały zmigrowane z konsoli psc do Partner Center.
 
 Raport zawiera poniższe szczegóły.
 
-- **Partner Center zaangażowania —** unikatowy identyfikator w Partner Center dla wszystkich transakcji w zaangażowaniu. Istnieją dwie transakcje — jedna dla partnera i jedna dla firmy Microsoft w przypadku zaangażowania w sprzedaż Partner Center.
-- **Partner Center polecenia —** unikatowy identyfikator Partner Center transakcji należącej do partnera.
-- **Nazwa transakcji** — identyfikator nadany transakcji w PSC.
-- **PsC deal ID** ( Identyfikator transakcji PSC) — unikatowy identyfikator transakcji w chmurze psc.
+- **Partner Center engagement ID** — unikatowy identyfikator w Partner Center dla wszystkich transakcji w zaangażowaniu. Istnieją dwie transakcje — jedna dla partnera i jedna dla firmy Microsoft w przypadku zaangażowania w sprzedaż Partner Center.
+- **Partner Center polecenia —** unikatowy identyfikator w Partner Center dla transakcji należącej do partnera.
+- **Nazwa transakcji** — identyfikator nadany transakcji w psc.
+- **Identyfikator transakcji PSC** — unikatowy identyfikator transakcji w chmurze psc.
 - **Błędy** — aby wskazać, czy wystąpił błąd podczas migrowania określonej transakcji.
 
 Wszystkie transakcje, które zostały pomyślnie zmigrowane, nie będą widoczne w konsoli psc. Możesz kontynuować pracę nad zmigrowanych transakcji w Partner Center.
 
-Transakcje migrowane z usługi PSC będą dostępne na karcie Dane wychodzące na stronie możliwości współpracy sprzedaży. Wszystkie transakcje będą tworzone jako transakcje prowadzone przez partnera. Są one widoczne dla sprzedawców firmy Microsoft.
+Transakcje migrowane z usługi PSC będą dostępne na karcie Outbound (Ruch wychodzący) na stronie Możliwości współpracy sprzedaży. Wszystkie transakcje zostaną utworzone jako transakcje prowadzone przez partnera. Są one widoczne dla sprzedawców firmy Microsoft.
 
 >[!Important]
-> Jeśli występują błędy, których nie można zmigrować niektórych transakcji, możesz ponownie zainicjować migrację transakcji, klikając przycisk **"Migruj transakcje".** Zostanie ona włączona tylko wtedy, gdy istnieją kwalifikujące się transakcje, które nie zostały jeszcze zmigrowane. Będzie to również przydatne, jeśli jesteś w fazie przejściowej, w której niektóre nowe transakcje są tworzone w chmurze po zainicjowaniu migracji transakcji.
+> Jeśli wystąpiły błędy, których nie można zmigrować niektórych transakcji, możesz ponownie zainicjować migrację transakcji, klikając przycisk **"Migruj transakcje".** Ta opcja zostanie włączona tylko wtedy, gdy istnieją kwalifikujące się transakcje, które nie zostały jeszcze zmigrowane. Będzie to również przydatne, jeśli jesteś w fazie przejściowej, w której niektóre nowe transakcje są tworzone w programie PSC po zainicjowaniu migracji transakcji.
 
-Po pomyślnym zmigrowania wszystkich transakcji pojawi się transparent z napisem **"Brak** transakcji do **migracji"** z wyłączonym przyciskiem "Migruj **transakcje".**
+Po pomyślnym zmigrowania wszystkich transakcji pojawi się transparent z napisem "Brak transakcji do **migracji"** z wyłączonym przyciskiem "Migruj **transakcje".** 
 
 ## <a name="next-steps"></a>Następne kroki
 
 Dowiedz się, jak tworzyć transakcje IOT i zarządzać nimi w Partner Center.
 Jest to ważny krok, który pomoże Ci przygotować się do zarządzania umowami IOT w Partner Center. Poznaj przepływy pracy i zmiany w Partner Center, aby efektywnie tworzyć transakcje i zarządzać nimi. Zacznij od całkowitego przeczytania tego dokumentu.
 
-## <a name="differences-between-psc-and-pc-workflows"></a>Różnice między przepływami pracy psc i PC
+## <a name="differences-between-psc-and-pc-workflows"></a>Różnice między przepływami pracy psc i pc
 
 |**Scenariusz**|**Partner Sales Połączenie**|**Centrum partnerskie**|
 |-----|:-----|:-----|
-|Role użytkownika|PsC ma role administratora, menedżera transakcji i sprzedawcy.|Partner Center ma [role użytkownika administrator poleceń](permissions-overview.md#manage-referrals) i polecenia, które na podstawie zakresu lokalizacji dają uprawnienia zarówno do odczytu, jak i zapisu.|
-|Szczegóły sprzedawcy firmy Microsoft|Widoczne zaraz po utworzeniu transakcji.|Szczegóły sprzedawcy firmy Microsoft nie są widoczne dla partnerów, ponieważ typ transakcji jest prowadzony przez partnera.
+|Role użytkownika|PsC ma role administratora, menedżera transakcji i sprzedawcy.|Partner Center ma role [administratora poleceń i](permissions-overview.md#manage-referrals) użytkownika poleceń, które na podstawie zakresu lokalizacji dają uprawnienia do odczytu i zapisu.|
+|Szczegóły sprzedawcy firmy Microsoft|Widoczne zaraz po utworzeniu transakcji.|Szczegóły sprzedawcy firmy Microsoft nie są widoczne dla partnerów, ponieważ typ transakcji jest kierowany przez partnera.
 |Rozwiązania|Do transakcji można dodać dowolną liczbę rozwiązań.|Partner może dodać do transakcji maksymalnie 50 rozwiązań.
 |Przypisanie transakcji|Tylko przypisany sprzedawca może wyświetlać transakcje i działać na ich podstawie.|Użytkownicy poleceń dodani do sekcji zespołu transakcji mogą wyświetlać i działać na transakcji. Administratorzy poleceń dla lokalizacji MPN, dla której transakcja została utworzona, mogą wyświetlać i działać na transakcji.|
-|Organizacja klienta|Wpis tekstowy w postaci bezpłatnej.|Aby przeszukać bazę danych usługi D [&](manage-co-sell-opportunities.md#select-your-customer) [B](https://www.dnb.com/) w organizacji klienta, wystarczy wpisać kilka znaków. Nazwa i adres prawnych są wypełniane automatycznie na podstawie wyboru.|
+|Organizacja klienta|Wpis tekstowy w formularzu bezpłatnym.|Aby przeszukać [organizację klienta w bazie](manage-co-sell-opportunities.md#select-your-customer) danych D&[B,](https://www.dnb.com/) wystarczy wpisać kilka znaków. Nazwa i adres prawne są wypełniane automatycznie na podstawie wyboru.|
 
 ## <a name="moving-from-psc-to-pc---faq"></a>Przenoszenie z usługi PSC na komputer — często zadawane pytania
 
@@ -191,41 +191,41 @@ Poniższe sekcje zawierają odpowiedzi na często zadawane pytania dotyczące mi
 
 ### <a name="1---what-should-i-do-if-i-dont-have-access-to-partner-center"></a>1 — Co zrobić, jeśli nie mam dostępu do Partner Center?
 
-Aby uzyskać przypisane role, możesz skontaktować się z administratorami wymienionymi na stronie "Brak dostępu". Będziesz potrzebować roli administratora [poleceń dla](permissions-overview.md#manage-referrals) uprawnień do odczytu i zapisu w sekcji polecenia. Jeśli zarządzasz tylko profilami biznesowymi, będziesz potrzebować roli administratora profilu biznesowego w Centrum partnerskim.
+Aby uzyskać przypisane role, możesz skontaktować się z administratorami wymienionymi na stronie "Brak dostępu". Będziesz potrzebować roli administratora [poleceń dla](permissions-overview.md#manage-referrals) uprawnień do odczytu i zapisu w sekcji od skierowań. Jeśli zarządzasz tylko profilami biznesowymi, rola administratora profilu biznesowego będzie potrzebna w Partner Center.
 
 :::image type="content" source="images/pscmigration/noaccess.png" alt-text="Obraz przedstawiający środowisko bez dostępu w Partner Center.":::
 
 ### <a name="2---who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>2 — KtoTo udzielić mi dostępu do sekcji Polecenia w Partner Center?
 
-Administrator [konta może](permissions-overview.md#manage-mpn-membership-and-your-company) udzielić Ci dostępu do karty Polecenia. Aby znaleźć administratora konta, wybierz **pozycję Ustawienia konta** z ikony koła zębatego w prawym górnym rogu pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard) Następnie wybierz pozycję **Zarządzanie użytkownikami** na lewym pasku nawigacyjnym drugiego poziomu. W górnej części listy użytkowników  wybierz menu rozwijane Filtr i zmień opcję na **administratora konta.** Na stronie zostaną wyświetleń wszyscy administratorzy konta wraz z odpowiednimi adresami e-mail. Poproś jedną z nich o przypisanie roli administratora poleceń dla twojego konta służbowego.
+Administrator [konta może](permissions-overview.md#manage-mpn-membership-and-your-company) udzielić Ci dostępu do karty Polecenia. Aby znaleźć administratora konta, wybierz **pozycję Ustawienia konta** z ikony koła zębatego w prawym górnym rogu pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard) Następnie wybierz pozycję **Zarządzanie użytkownikami** na lewym pasku nawigacyjnym drugiego poziomu. W górnej części listy użytkowników  wybierz menu rozwijane Filtr i zmień opcję na **administratora konta.** Na stronie zostaną wyświetleń wszyscy administratorzy kont z odpowiednimi adresami e-mail. Poproś jedną z nich o przypisanie roli administratora poleceń dla konta służbowego.
 
 ### <a name="3---the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>3 — przycisk +Nowa transakcja jest wyszarytowany dla naszego konta. Co należy zrobić, aby rozpocząć tworzenie transakcji?
 
-Dzieje się tak tylko wtedy, gdy identyfikator MPN skojarzony z Twoim kontem nie jest włączony do tworzenia transakcji IOT. Skontaktuj się z zespołem biznesowym IOT w wiadomości e-mail podanej podczas sesji szkoleniowych lub utwórz bilet pomocy technicznej, aby uzyskać identyfikator MPN włączony dla transakcji IOT".
+Dzieje się tak tylko wtedy, gdy identyfikator MPN skojarzony z Twoim kontem nie jest włączony do tworzenia transakcji IOT. Skontaktuj się z zespołem biznesowym IOT w wiadomości e-mail podanej podczas sesji szkoleniowych lub utwórz bilet pomocy technicznej, aby włączyć identyfikator MPN dla transakcji IOT".
 
-### <a name="4---can-i-assign-deals-to-a-specific-person-from-our-organization-like-psc"></a>4 — Czy mogę przypisać transakcje do określonej osoby z organizacji, na przykład do psc?
+### <a name="4---can-i-assign-deals-to-a-specific-person-from-our-organization-like-psc"></a>4 — Czy mogę przypisać transakcje do określonej osoby z naszej organizacji, na przykład DOC?
 
-Możesz przypisać członków zespołu do określonej transakcji. Nie blokuje to innym administratorom poleceń wyświetlania lub działania w przypadku tych transakcji.
+Możesz przypisać członków zespołu do określonej transakcji. Nie blokuje to innym administratorom poleceń wyświetlania tych transakcji ani działania na ich podstawie.
 
 ### <a name="5---is-there-a-view-of-all-the-deals-assigned-to-me"></a>5 — Czy istnieje widok wszystkich przypisanych mi transakcji?
 
-Możesz użyć funkcji Ulubione, która jest kartą na poziomie użytkownika. Możesz oznaczyć wszystkie transakcje przypisane do Ciebie jako ulubione, aby uzyskać szybki dostęp do transakcji.
+Możesz użyć funkcji ulubionej, która jest kartą na poziomie użytkownika. Możesz oznaczyć wszystkie transakcje przypisane do Ciebie jako ulubione, aby uzyskać szybki dostęp do transakcji.
 
 ### <a name="6---is-there-a-read-only-view-for-the-deals"></a>6 — Czy istnieje widok tylko do odczytu dla transakcji?
 
-Nie, w sekcji skierowań nie ma widoku tylko do odczytu transakcji.
+Nie, w sekcji poleceń nie ma widoku tylko do odczytu transakcji.
 
 ### <a name="7---is-adding-a-customer-organization-mandatory"></a>7 — Czy dodanie organizacji klienta jest obowiązkowe?
 
-Tak, dodawanie organizacji [klienta jest obowiązkowe](./manage-co-sell-opportunities.md#select-your-customer) w Partner Center. Najpierw należy wyszukać lokalizację, w której znajduje się klient. Na podstawie posiadanych szczegółów: Możesz dodać konkretne szczegóły, w tym dokładną nazwę budynku, lub po prostu podać szczegóły miasta. Wyszukiwanie w organizacji spowoduje pobranie wszystkich jednostek prawnych zgodnych z waną nazwą, dzięki czemu nie trzeba wprowadzać żadnych szczegółów adresu. Wszystkie szczegóły są wypełniane automatycznie w zależności od wybranej organizacji.
+Tak, dodawanie organizacji [klienta jest](./manage-co-sell-opportunities.md#select-your-customer) obowiązkowe w Partner Center. Najpierw należy wyszukać lokalizację, w której znajduje się klient. Na podstawie posiadanych szczegółów; Możesz dodać konkretne szczegóły, w tym dokładną nazwę budynku, lub po prostu podać szczegóły miasta. Wyszukiwanie organizacji spowoduje pobranie wszystkich jednostek prawnych zgodnych z watywną nazwą, dzięki czemu nie będzie trzeba wprowadzać żadnych szczegółów adresu. Wszystkie szczegóły są wypełniane automatycznie na podstawie wybranej organizacji.
 
 ### <a name="8---are-customer-contact-details-mandatory"></a>8 — Czy szczegóły kontaktowe klienta są obowiązkowe?
 
-Tak, dane kontaktowe klienta są obowiązkowe w przypadku tworzenia transakcji IOT.
+Tak, do tworzenia transakcji IOT wymagane są szczegółowe informacje kontaktowe klienta.
 
 ### <a name="9---how-many-solutions-can-i-add-to-a-deal"></a>9 — Ile rozwiązań mogę dodać do transakcji?
 
-Do transakcji można dodać maksymalnie 50 rozwiązań (analogicznych do "produktów" w chmurze PSC). Zarówno ilość, jak i szacowana data zamknięcia rozwiązania są obowiązkowe, a szacowana data zamknięcia rozwiązań powinna być wcześniejsza niż szacowana data zamknięcia w sekcji szczegółów transakcji.
+Do transakcji można dodać maksymalnie 50 rozwiązań (analogicznych do "produktów" w psc). Zarówno ilość, jak i szacowana data zamknięcia rozwiązania są obowiązkowe, a szacowana data zamknięcia rozwiązań powinna być wcześniejsza niż szacowana data zamknięcia w sekcji szczegółów transakcji.
 
 ### <a name="10---where-can-i-find-the-opportunity-id"></a>10 — Gdzie mogę znaleźć identyfikator szansy sprzedaży?
 

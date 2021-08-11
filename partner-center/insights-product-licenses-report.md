@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5287e056e2ac2e8a0238ac7f86cca0fe58b92238
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 076a65d8e309308142201dedfa807052d2d3b8eb5180be14734edbbec92a3616
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845197"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687536"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Raport Licencje produktów na pulpicie Partner Center Szczegółowe informacje nawigacyjnym
 
@@ -28,7 +28,7 @@ Raport Licencje produktów przedstawia analizę licencji produktów w chmurze op
 - Dystrybucja licencji według lokalizacji partnerów, kanału sprzedaży, jednostki SKU, typu dołączenia partnera, segmentu
 
  > [!NOTE]
- > Ten raport jest dostępny na pulpicie Szczegółowe informacje nawigacyjnym. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Przeglądarka raportów lub Przeglądarka raportów dla kierownictwa. Aby uzyskać więcej informacji, zobacz Administratora globalnego firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami do raportów dla kierownictwa.
+ > Ten raport jest dostępny na pulpicie nawigacyjnym Szczegółowe informacje nawigacyjnym. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Przeglądarka raportów lub Przeglądarka raportów dla kierownictwa. Aby uzyskać więcej informacji, zobacz Administratora globalnego firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami do raportów dla kierownictwa.
 
 ## <a name="summary"></a>Podsumowanie
 
@@ -49,7 +49,7 @@ Aby uzyskać więcej informacji na temat każdej sekcji podsumowania, zobacz pon
   - Mikrowy wykres liczby licencji: mikroelement przedstawia trend liczby przypisanych licencji z miesiąca na miesiąc w wybranym zakresie dat.
 
 - Aktywne licencje: 
-  - Bieżąca liczba wszystkich licencji klienta z aktywnym użyciem w ciągu ostatnich 30 dni w wybranym zakresie dat.
+  - Bieżąca liczba wszystkich licencji klientów z aktywnym użyciem w ciągu ostatnich 30 dni w wybranym zakresie dat.
   - Procentowy wzrost lub spadek liczby tych licencji w wybranym zakresie dat.
   - Wykres Mikro przedstawia trend liczby licencji z miesiąca na miesiąc w wybranym zakresie dat.
 
@@ -69,7 +69,7 @@ Ten widok przedstawia trend licencji dodanych w wybranym zakresie dat.
 
 Aby przedstawić trend według produktu i usługi/obciążenia, wybierz pozycję Produkt w górnej części ekranu i usługę/obciążenie z listy rozwijanej Jednostki **SKU.**
 
-Oś X reprezentuje miesiące z wybranego zakresu dat. Oś Y reprezentuje liczbę dodanych licencji. Aby powiększyć określony okres, użyj suwaka w górnej części wykresu.
+Oś X reprezentuje miesiące wybranego zakresu dat. Oś Y reprezentuje liczbę dodanych licencji. Aby powiększyć określony okres, użyj suwaka w górnej części wykresu.
 
 :::image type="content" source="images/insights/licenses-report-license-adds.png" alt-text="Dodaje licencję.":::
 
@@ -84,4 +84,4 @@ Ten widok przedstawia podział licencji klientów według produktu i kraju/regio
 Aby uzyskać więcej raportów, [zobacz Partner Center Szczegółowe informacje](partner-center-insights.md).
 
 >[!NOTE] 
-> Możesz pobrać dane pierwotne, które są zasilane z tego raportu, z sekcji Pobieranie raportów na pulpicie Szczegółowe informacje nawigacyjnym. [Więcej informacji](insights-download-reports.md)
+> Możesz pobrać nieprzetworzone dane, które są zasilane z tego raportu, z sekcji Pobieranie raportów na pulpicie Szczegółowe informacje nawigacyjnym. [Więcej informacji](insights-download-reports.md)

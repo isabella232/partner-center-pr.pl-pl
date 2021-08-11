@@ -9,66 +9,66 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2cb4a4700f9c8f74e835863cd74caacf20d2d6d1
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d221dbe28ecf9ef322b6f589f69b0390a72e5761c8b5ba250c5fccc84a66eb3f
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837020"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695345"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Zarządzanie możliwościami współpracy sprzedaży w Partner Center
 
 
 **Odpowiednie role:** Administrator partnera MPN | Administrator poleceń
 
-Skorzystaj z możliwości współpracy sprzedaży.  Możliwość współpracy sprzedaży to współpraca wielu podmiotów w celu sprzedaży produktów spełniających potrzeby klientów. Ten artykuł pomoże Ci zrozumieć, jak możesz wykorzystać możliwości współpracy sprzedaży w Partner Center, aby skutecznie sprzedawać i pozyskiwać nowych klientów.
+Skorzystaj z możliwości współpracy sprzedaży.  Możliwość współpracy sprzedaży to współpraca wielu podmiotów w celu sprzedaży produktów spełniających potrzeby klienta. Ten artykuł pomoże Ci zrozumieć, w jaki sposób możesz wykorzystać możliwości współpracy sprzedaży w Partner Center, aby skutecznie sprzedawać i pozyskiwać nowych klientów.
 
 ## <a name="types-of-co-sell-opportunities"></a>Typy możliwości współpracy sprzedaży
 
-**Możliwość współpracy sprzedaży —** w tym miejscu co najmniej jeden przedstawiciel handlowy firmy Microsoft aktywnie uczestniczy w transakcji, aby pomóc w rozwiązaniu problemu klienta. Szanse sprzedaży mogą pochodzić z konta klienta, w którym przedstawiciel handlowy firmy Microsoft zaprasza partnera do uczestnictwa w działaniach wspólnej sprzedaży lub od partnera, który potrzebuje więcej pomocy od działu sprzedaży firmy Microsoft w celu zamknięcia transakcji.
+**Możliwość współpracy sprzedaży** — w tym przypadku co najmniej jeden przedstawiciel handlowy firmy Microsoft aktywnie uczestniczy w transakcji, aby pomóc rozwiązać problem klienta. Szanse sprzedaży mogą pochodzić z konta klienta, w którym przedstawiciel handlowy firmy Microsoft zaprasza partnera do wzięcia udziału w działaniu wspólnej sprzedaży lub od partnera, który potrzebuje większej pomocy od działu sprzedaży firmy Microsoft w celu zamknięcia transakcji.
 
-**Partner to Partner (P2P)** — w tym miejscu jeden partner może zaprosić innych partnerów w ekosystemie wspólnej sprzedaży firmy Microsoft do współpracy. Partnerzy mogą opcjonalnie zaprosić do transakcji przedstawiciela handlowego firmy Microsoft, aby pomóc w zamknięciu transakcji. Zarówno partnerzy, jak i firma Microsoft, mogą zostać zaproszeni nawet po utworzeniu transakcji, o ile jest ona przed jej ukończeniem. (Należy pamiętać, że ukończone obejmuje zakończone, utracone, odrzucone i wygasłe).
+**Partner to Partner (P2P)** — w tym miejscu jeden partner może zaprosić innych partnerów w ekosystemie wspólnej sprzedaży firmy Microsoft do współpracy. Partnerzy mogą opcjonalnie zaprosić do transakcji przedstawiciela handlowego firmy Microsoft, aby pomóc w zamknięciu transakcji. Zarówno partnerzy, jak i firma Microsoft mogą zostać zaproszeni nawet po utworzeniu transakcji, o ile jest ona przed jej ukończeniem. (Należy pamiętać, że pełne obejmuje: won, lost, declined, and expired).
 
-**Transakcja prywatna** — dzieje się tak, gdy partner decyduje się na niezależną pracę nad ofertą utworzoną w Partner Center. Partnerzy mogą zapewnić widoczność zespołowi sprzedaży firmy Microsoft lub zaprosić sprzedawców firmy Microsoft szukających aktywnej pomocy po utworzeniu transakcji. Szczegóły transakcji nie są udostępniane zespołowi sprzedaży firmy Microsoft, dopóki partnerzy nie będą jawnie wybierać tak dla pytania "Czy chcesz, aby sprzedawcy firmy Microsoft wyświetlali tę ofertę?" lub poproś o pomoc zespół sprzedaży firmy Microsoft, wybierając jedną z opcji pytania "Identyfikowanie rodzaju pomocy, jakiej potrzebujesz od firmy Microsoft?".
+**Transakcja prywatna** — dzieje się tak, gdy partner decyduje się na niezależną pracę nad ofertą utworzoną w Partner Center. Partnerzy mogą zapewnić widoczność zespołowi sprzedaży firmy Microsoft lub zaprosić sprzedawców firmy Microsoft po utworzeniu transakcji, którzy poszukują aktywnej pomocy. Szczegóły transakcji nie są udostępniane zespołowi sprzedaży firmy Microsoft, dopóki partnerzy nie będą jawnie wybierać tak dla pytania "Czy chcesz, aby sprzedawcy firmy Microsoft wyświetlali tę ofertę?" lub poproś zespół sprzedaży firmy Microsoft o pomoc, wybierając jedną z opcji dla pytania "Identyfikowanie rodzaju pomocy, jakiej potrzebujesz od firmy Microsoft?".
 
-**Transakcja kierowana przez** partnera — są to transakcje, w przypadku których partner decyduje się na niezależną pracę nad transakcją, ale nie jest w stanie uzyskać wglądu w szczegóły transakcji członkom zespołu sprzedaży firmy Microsoft. Partnerzy mogą zapraszać sprzedawców firmy Microsoft po utworzeniu transakcji. Te transakcje kwalifikują się do rejestracji transakcji, gdy rozwiązanie kwalifikujące się do zachęty jest częścią transakcji. Zaproszenie sprzedawcy firmy Microsoft nie jest wymagane do rejestracji transakcji, jeśli kryteria rozwiązania kwalifikującego się do zachęty zostały spełnione. Możesz dokonać transakcji prowadzonej przez partnera, odpowiadając tak na pytanie "Czy chcesz, aby sprzedawcy firmy Microsoft zobaczyli tę ofertę?".
+**Transakcja kierowana przez partnera** — są to transakcje, w przypadku których partner decyduje się na niezależną pracę nad transakcją, ale nie jest w stanie uzyskać wglądu w szczegóły transakcji członkom zespołu sprzedaży firmy Microsoft. Partnerzy mogą zapraszać sprzedawców firmy Microsoft po utworzeniu transakcji. Te transakcje kwalifikują się do rejestracji transakcji, gdy rozwiązanie kwalifikujące się do zachęty jest częścią transakcji. Zaproszenie sprzedawcy firmy Microsoft nie jest wymagane do rejestracji transakcji, jeśli spełnione są kryteria rozwiązania kwalifikującego się do zachęty. Możesz dokonać transakcji prowadzonej przez partnera, odpowiadając tak na pytanie "Czy chcesz, aby sprzedawcy firmy Microsoft wyświetlali tę ofertę?"
 
-**Ocena rozwiązań —** tego typu transakcje mogą być tworzone tylko przez zestaw partnerów, którzy są oceniani przez zespół biznesowy ds. rozwiązań w celu przeprowadzania ocen technologicznych dla klientów korzystających z technologii firmy Microsoft lub planujących korzystanie z nich.
+**Ocena rozwiązań (SA)** — tego typu transakcje mogą być tworzone tylko przez zestaw partnerów, którzy są oceniani przez zespół biznesowy ds. rozwiązań w celu przeprowadzania ocen technologicznych dla klientów korzystających z technologii firmy Microsoft lub planujących korzystanie z technologii firmy Microsoft.
 
 > [!NOTE]
-> Transakcje prywatne, nawet jeśli nie są naprawdę współpracują, są uwzględnione na karcie możliwości wspólnej sprzedaży, aby zapewnić łatwą ścieżkę do uaktualnienia dowolnej transakcji potoku do możliwości wspólnej sprzedaży na dowolnym etapie nieterminowym **(wygrany,** utracony, odrzucony i wygasły).
+> Transakcje prywatne, mimo że nie są naprawdę wspólne, są uwzględnione na karcie możliwości wspólnej sprzedaży, aby zapewnić łatwą ścieżkę do uaktualnienia każdej transakcji potoku do możliwości wspólnej sprzedaży na dowolnym etapie nieterminowym (wygrany, utracony, odrzucony **i** wygasły).
 
 ## <a name="navigating-the-co-sell-section"></a>Nawigowanie po sekcji dotyczącej współpracy sprzedaży
 
-Aby uzyskać dostęp do sekcji Co-sell (Sprzedaż współsieć), wykonaj następujące kroki:
+Aby uzyskać dostęp do sekcji Co-sell (Współsieć), wykonaj następujące kroki:
 
 1. Zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard)
 
-2. W menu nawigacji po lewej stronie wybierz pozycję **Polecenia**, a następnie pozycję **Możliwości współpracy sprzedaży.**
+2. W menu nawigacji po lewej stronie wybierz pozycję **Polecenia,** a następnie pozycję **Możliwości współpracy sprzedaży.**
 
    W tej sekcji zostaną wyświetlonych trzy karty najwyższego poziomu:
 
-   - **Przychodzące —** na tej karcie są dostępne wszystkie szanse sprzedaży, które są wysyłane do partnera od sprzedawców firmy Microsoft w celu wspólnej sprzedaży.
+   - **Przychodzące —** na tej karcie są dostępne wszystkie możliwości sprzedaży zespołowej wysyłane do partnera od sprzedawców firmy Microsoft.
 
    - **Wychodzące** — na tej karcie są dostępne wszystkie szanse sprzedaży utworzone przez partnera. Partnerzy mogą tworzyć trzy różne kategorie szans sprzedaży — wspólna sprzedaż, prywatna i partnerska.
 
-   - **Ulubione — szanse** sprzedaży oznaczone jako ulubione na kartach Możliwości sprzedaży dla ruchu przychodzącego lub wychodzącego będą wyświetlane na tej karcie. Oznacz każdą szansę sprzedaży jako ulubioną, klikając ikonę serca dla szansy sprzedaży w widoku listy. Możesz usunąć możliwość z ulubionych, klikając ponownie tę samą ikonę.
+   - **Ulubione — szanse** sprzedaży oznaczone jako ulubione na kartach Możliwości sprzedaży dla ruchu przychodzącego lub wychodzącego będą wyświetlane na tej karcie. Oznacz dowolną szansę sprzedaży jako ulubioną, klikając ikonę serca szansy sprzedaży w widoku listy. Możesz usunąć możliwość z ulubionych, klikając ponownie tę samą ikonę.
 
 ## <a name="creating-a-co-sell-opportunity"></a>Tworzenie możliwości współpracy sprzedaży
 
 > [!IMPORTANT]
-> Aby móc wspólnie sprzedawać z firmą Microsoft, partnerzy muszą mieć rozwiązanie gotowe do użycia komercyjnego, zespół ds. sprzedaży oraz silną strategię wejścia na rynek. Muszą oni również spełniać określone dodatkowe kryteria. Aby uzyskać więcej informacji, zobacz [Become co-sell ready](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready)(Przygotuj się do współpracy).
+> Aby móc wspólnie sprzedawać z firmą Microsoft, partnerzy muszą mieć rozwiązanie gotowe do użycia komercyjnego, zespół ds. sprzedaży oraz silną strategię wejścia na rynek. Muszą oni również spełniać określone dodatkowe kryteria. Aby uzyskać więcej informacji, zobacz [Become co-sell ready (Przygotuj się do współpracy).](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready)
 
 Możesz utworzyć trzy typy szans sprzedaży.
 
-### <a name="select-your-customer"></a>Wybierz klienta
+### <a name="select-your-customer"></a>Wybieranie klienta
 
-Wybierz klienta dla określonej transakcji. Wprowadź ich lokalizację i zacznij wpisywać nazwę. W polu sugestii zaczną być wyświetlane rekomendacje na podstawie kryteriów wyszukiwania. Ponieważ wiele firm ma więcej niż jedną jednostkę biznesową w tej samej lokalizacji, możesz zobaczyć wiele wyników. Jeśli nie masz pewności, którą opcję wybrać, możesz potwierdzić, która liczba D-U-N-S należy do klienta. Upewnij się, że wybierasz dokładne dopasowanie dla klienta, z którym pracujesz.
+Wybierz klienta dla określonej transakcji. Wprowadź ich lokalizację i zacznij wpisywać nazwę. W polu sugestii zaczną być wyświetlane rekomendacje na podstawie kryteriów wyszukiwania. Ponieważ wiele firm ma więcej niż jedną jednostkę biznesową w tej samej lokalizacji, możesz zobaczyć wiele wyników. Jeśli nie masz pewności, który z nich wybrać, możesz potwierdzić, który numer D-U-N-S należy do Klienta. Pamiętaj, aby wybrać dokładne dopasowanie klienta, z którym pracujesz.
 
-Po kliknięciu **przycisku** Wybierz klienta zostanie wyświetlony monit o wprowadzenie imienia i nazwiska, numeru telefonu i adresu e-mail osoby, która jest głównym punktem kontaktu dla tej transakcji. Te informacje są opcjonalne i są wymagane tylko wtedy, gdy planujesz zaprosić dział sprzedaży firmy Microsoft, aby pomóc Ci w zaangażowaniu. Wybierz opcję **Dalej**.
+Po kliknięciu **przycisku** Wybierz klienta zostanie wyświetlony monit o wprowadzenie imienia i nazwiska, numeru telefonu i adresu e-mail osoby, która jest głównym punktem kontaktu dla tej transakcji. Te szczegóły są opcjonalne i są wymagane tylko wtedy, gdy planujesz zaprosić dział sprzedaży firmy Microsoft, aby pomóc Ci w zaangażowaniu. Wybierz opcję **Dalej**.
 
 > [!IMPORTANT]
-> Upewnij się, że masz zgodę klienta na dostarczenie firmie Microsoft jego informacji kontaktowych dotyczących transakcji. Firma Microsoft może używać tych informacji do bezpośredniego kontaktowania się z klientem.
+> Upewnij się, że uzyskano zgodę klienta na dostarczenie firmie Microsoft informacji kontaktowych dotyczących transakcji. Firma Microsoft może używać tych informacji do bezpośredniego kontaktowania się z klientem.
 
 ### <a name="deal-details"></a>Szczegóły transakcji
 
@@ -76,25 +76,25 @@ Wprowadź szczegóły bieżącej transakcji. Pola zdefiniowane poniżej mogą ul
 
 | **Nazwa pola** | **Obowiązkowy/opcjonalny** | **Szczegóły** |
 |-------------|--------|-------|
-|**Nazwa transakcji** | Obowiązkowy | Przyjazna nazwa identyfikująca Twoją umowę w późniejszym czasie. |
-|**Lokalizacja**| Obowiązkowy | Zakres lokalizacji MPN polecenia. Użytkownicy poleceń z tym zakresem lokalizacji mogą wyświetlać polecenia, jeśli są częścią zespołu. Administratorzy poleceń i administratorzy poleceń z zakresem globalnym mogą wyświetlać polecenia niezależnie od lokalizacji. Lokalizacji nie można edytować po utworzeniu odwołania.|
+|**Nazwa transakcji** | Obowiązkowy | Przyjazna nazwa identyfikująca Twoją ofertę w późniejszym czasie. |
+|**Lokalizacja**| Obowiązkowy | Zakres lokalizacji MPN polecenia. Użytkownicy poleceń z tym zakresem lokalizacji mogą wyświetlać polecenia, jeśli są częścią zespołu. Administratorzy poleceń i administratorzy poleceń z zakresem globalnym mogą wyświetlać polecenia niezależnie od lokalizacji. Lokalizacji nie można edytować po utworzeniu polecenia.|
 |**Szacowana wartość** | Obowiązkowy | Wartość transakcji na podstawie informacji dostępnych podczas tworzenia transakcji.|
-|**Szacowana data zamknięcia**| Obowiązkowy| Data, do której ma na celu zamknięcie transakcji z klientem. |
-|**Identyfikator CRM**| Opcjonalne | Oznacz transakcji identyfikatorem szansy sprzedaży w odpowiednim systemie CRM na potrzeby śledzenia.|
-|**Identyfikator kampanii marketingowej**| Opcjonalne | Przechwyć kampanię marketingową, która zakończyła się transakcja. Ten dokument może ułatwić śledzenie zwrotu z inwestycji w ramach określonej kampanii, jeśli wszystkie transakcje pochodzące z kampanii są oznaczane za pomocą tego samego identyfikatora.|
-|**Uwagi**| Opcjonalne | Zaktualizuj wszystkie najnowsze informacje, aby zapewnić wgląd innym pracownikom firmy pracującym nad taką samą ofertą lub próbującym zrozumieć bieżący stan transakcji. Można jej również użyć jako informacji o rekordzie dla dyskusji między sprzedawcami firmy Microsoft/innymi partnerami z Twoją firmą.|
+|**Szacowana data zamknięcia**| Obowiązkowy| Data, do której spodziewasz się zamknąć umowę z klientem. |
+|**Identyfikator CRM**| Opcjonalne | Otaguj transakcji identyfikatorem szansy sprzedaży w odpowiednim systemie CRM w celu śledzenia.|
+|**Identyfikator kampanii marketingowej**| Opcjonalne | Przechwyć kampanię marketingową, która zakończyła się transakcja. Ten dokument może pomóc w śledzniu zwrotu z inwestycji w określonej kampanii, jeśli wszystkie transakcje pochodzące z kampanii są oznaczane za pomocą tego samego identyfikatora.|
+|**Uwagi**| Opcjonalne | Zaktualizuj wszystkie najnowsze informacje, aby zapewnić widoczność innym pracownikom firmy pracującym nad taką samą transakcjią lub próbującym zrozumieć bieżący stan transakcji. Można go również użyć jako informacji w rekordzie na temat dyskusji między sprzedawcami firmy Microsoft/innymi partnerami z Twoją firmą.|
 
 ### <a name="add-team-members"></a>Dodawanie członków zespołu
 
-Po dodaniu szczegółów transakcji dodaj pracowników, którzy będą pracować nad tą konkretną ofertą. Musisz wprowadzić imię i nazwisko, numer telefonu i adres e-mail pracownika. Te szczegóły są obowiązkowe i aby utworzyć ofertę, musisz mieć co najmniej jeden kontakt ze wszystkimi wprowadzonymi szczegółami. Te szczegóły można zmienić nawet po utworzeniu transakcji. Ostatnie kontakty z poprzednich transakcji są wyświetlane po prawej stronie, aby można było szybko dodać je do transakcji. W przypadku transakcji P2P zespół może mieć pracowników zarówno z Twojej firmy, jak i firmy wysyłającej zaproszenie.
+Po dodaniu szczegółów transakcji dodaj pracowników, którzy będą pracować nad tą konkretną ofertą. Musisz wprowadzić imię i nazwisko, numer telefonu i adres e-mail pracownika. Te szczegóły są obowiązkowe. Aby utworzyć ofertę, musisz mieć co najmniej jeden kontakt ze wszystkimi wprowadzonymi szczegółami. Te szczegóły można zmienić nawet po utworzeniu transakcji. Ostatnie kontakty z poprzednich transakcji są wyświetlane po prawej stronie, aby szybko dodać je do transakcji. W przypadku transakcji P2P zespół może mieć pracowników zarówno z Twojej firmy, jak i firmy wysyłającej zaproszenie.
 
 ### <a name="add-solutions"></a>Dodawanie rozwiązań
 
-W tej sekcji należy podać informacje związane z rozwiązaniami, które będą częścią tej transakcji. Jest to obowiązkowa sekcja, w której należy dodać co najmniej jedno rozwiązanie w celu utworzenia transakcji. Szczegóły rozwiązania można zmienić po utworzeniu transakcji. Istnieje wiele typów rozwiązań, które można dodać do transakcji, które opisano poniżej
+W tej sekcji należy podać informacje dotyczące rozwiązań, które będą częścią tej transakcji. Jest to obowiązkowa sekcja, w której należy dodać co najmniej jedno rozwiązanie w celu utworzenia transakcji. Szczegóły rozwiązania można zmienić po utworzeniu transakcji. Istnieje wiele typów rozwiązań, które można dodać do transakcji, które opisano poniżej
 
-- **Rozwiązania mojej firmy:** Są to gotowe do współpracy rozwiązania opublikowane przez Twoją firmę
+- **Rozwiązania firmy:** Są to gotowe do współpracy rozwiązania opublikowane przez Twoją firmę
 - **Microsoft:** Są to rozwiązania należące do firmy Microsoft
-- **Inne rozwiązania innych firm:** Są to gotowe do współpracy rozwiązania publikowane przez innych partnerów w ekosystemie wspólna sprzedaż firmy Microsoft
+- **Inne rozwiązania innych firm:** Są to gotowe do współpracy rozwiązania, które są publikowane przez innych partnerów w ekosystemie wspólna sprzedaż firmy Microsoft
 - **Oceny rozwiązań:** Są to typy oceny, które kwalifikujący się partner może wybrać w zależności od potrzeb klienta
 
 > [!Important]
@@ -225,7 +225,7 @@ Nie, transakcji nie można modyfikować, gdy przejdą do stanu terminalu. Wygas�
 
 **Pytanie KtoTo otrzymuje powiadomienie e-mail od Partner Center?**
 
-W poniższym przepływie pracy wyjaśniono, jak wiadomości e-mail są wysyłane do partnerów z systemu poleceń Centrum partnerskiego dla nowych poleceń przychodzących partnerów.
+W poniższym przepływie pracy wyjaśniono, w jaki sposób wiadomości e-mail są wysyłane do partnerów z systemu poleceń Partner Center dla nowych poleceń przychodzących partnerów.
 
 :::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Obraz przedstawiający logikę sposobu, w jaki wiadomości e-mail są wysyłane do partnerów w przypadku nowych poleceń przychodzących.":::
 

@@ -8,18 +8,18 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 7daacc29fd48b6404ff5949560c872beef5c9770
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: bc4130ad2d17d22060423b105fa51999be0f35ca2fe2f6470725c3c8dc527724
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114846200"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687421"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Wyświetlanie dostępnych środków zdobytych, roszczeń i pozostałych środków w ramach współpracy
 
 **Odpowiednie role:** Zachęty dla administratorów | Zachęty użytkownika
 
-Możesz śledzić, monitorować i uzgadniać środki z programu zachęt na pulpicie nawigacyjnym Partner Center [nawigacyjnym](https://partner.microsoft.com/dashboard/) (wymagane jest zalogowanie się). Użyj poniższej procedury, aby wyświetlić te środki.
+Możesz śledzić, monitorować i uzgadniać środki z programu zachęt w ramach współpracy Partner Center [nawigacyjnym](https://partner.microsoft.com/dashboard/) (wymagane jest zalogowanie się). Użyj poniższej procedury, aby wyświetlić te środki.
 
 ## <a name="view-your-funds"></a>Wyświetlanie środków
 
@@ -31,12 +31,12 @@ Możesz śledzić, monitorować i uzgadniać środki z programu zachęt na pulpi
 
 4. Aby wyświetlić wszystkie oświadczenia przesłane dla wybranego okresu, przewiń w dół strony.
 
-Jeśli uważasz, że istnieją rozbieżności w kwotach wyświetlanych w podsumowaniu, możesz pobrać raport transakcji z poprzedniego okresu. Ten raport pomoże Ci określić kwotę środków na współoperacyjną uzyskane w wybranym okresie użycia. Aby pobrać raporty dotyczące transakcji lub zweryfikować przesłane oświadczenia w celu upewnienia się, że kwota pozostałej współpracy jest dokładna, zobacz [Historia transakcji](./payout-statement.md#transaction-history).
+Jeśli uważasz, że istnieją rozbieżności w kwotach wyświetlanych w podsumowaniu, możesz pobrać raport transakcji z poprzedniego okresu. Ten raport pomoże Ci określić kwotę środków współpracy zdobytych w wybranym okresie użycia. Aby pobrać raporty dotyczące transakcji lub zweryfikować przesłane oświadczenia w celu upewnienia się, że kwota pozostałej współpracy jest dokładna, zobacz [Historia transakcji](./payout-statement.md#transaction-history).
 
 ## <a name="view-estimated-earnings-during-the-current-period"></a>Wyświetlanie szacowanych zarobków w bieżącym okresie
-Zarobki dotyczące współpracy w bieżącym okresie zarobków nie są widoczne w widoku zarządzania współpracy do momentu rozpoczęcia okresu roszczeń dla bieżącego okresu zarobków. Aby wyświetlić szacowane zarobki za korzystanie z współpracy w bieżącym okresie zarobków, użyj następującej procedury:
+Zarobki dotyczące współpracy w bieżącym okresie zarobków nie są widoczne w widoku zarządzania współpracy do momentu rozpoczęcia okresu roszczeń dla bieżącego okresu zarobków. Aby wyświetlić szacowane zarobki dotyczące współpracy w bieżącym okresie zarobków, użyj następującej procedury:
 
-### <a name="view-your-estimated-co-op-earnings-for-the-current-earning-period"></a>Wyświetlanie szacowanych zarobków za współpracę dla bieżącego okresu zarobków
+### <a name="view-your-estimated-co-op-earnings-for-the-current-earning-period"></a>Wyświetlanie szacowanych zarobków za współprace w bieżącym okresie zarobków
 
 1. Na stronie **Historia** transakcji wybierz daty dla bieżącego okresu zarobków.
 2. W **filtrze Typ zarobków** wybierz pozycję **Współpraca**. Zostaną wyświetlone zarobki.
