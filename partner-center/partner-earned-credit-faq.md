@@ -1,7 +1,7 @@
 ---
 title: Często zadawane pytania dotyczące środków uzyskane przez partnerów
 ms.topic: article
-ms.date: 08/11/2021
+ms.date: 08/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Znajdź odpowiedzi na często zadawane pytania dotyczące środków uzyskane przez partnerów.
@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1732ae992ac24d9691d929606bcbaabd32ef4327
-ms.sourcegitcommit: 03713f713b38f8c7bc299dcb92b7264777d1339c
+ms.openlocfilehash: ae78b13ae17b223e1cb540bea50168d02bcb9a1c
+ms.sourcegitcommit: b2b04afce99412870b451878499e002e17e7b636
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "122019633"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "122226842"
 ---
 # <a name="frequently-asked-questions-for-partner-earned-credit"></a>Często zadawane pytania dotyczące środków uzyskane przez partnerów
 
@@ -46,7 +46,7 @@ Szczegóły dotyczące PEC mogą być wyszukiwane bezpośrednio przez interfejs 
 
 W obszarze Rozliczenia znajdują się dwa pliki uzgodnień Partner Center, których można użyć.
 
-- Ostatnie działania uzgadniania użycia ocenianego codziennie (.csv)
+- Ostatnie działania uzgadniania użycia (.csv)
 - Działanie uzgadniania ostatnich (.csv)
 
 Aby uzgodnić, partner może porównać pola ProductID, SKUID i AvailabilityID z tych dwóch plików dla każdego pola SubscriptionID.
@@ -61,12 +61,14 @@ Tak, użytkownik CSP Indirect Provider dostęp [RBAC](/azure/role-based-access-c
 
 Partner bez odpowiedniego dostępu RBAC w programie CSP zachowuje w firmie Microsoft relację rozliczeń i odpowiedzialność klienta z platformą Azure. Chociaż nie ma to wpływu na partnera sprzedaży poprzedniej oferty platformy Azure w programie CSP, w przypadku nowej oferty platformy Azure w programie CSP, zafakturowany partner nie będzie kwalifikować się do PEC na fakturze za platformę Azure. Partnerzy mogą uzyskać częściowy dostęp administratora w programie CSP, uzyskanie dostępu za pośrednictwem konta użytkownika za pośrednictwem dostępu do katalogu/gościa przy użyciu kontroli dostępu na Azure Lighthouse. Aby uzyskać więcej informacji, zobacz [Przywróć](revoke-reinstate-csp.md)uprawnienia administratora dla subskrypcji Azure CSP klienta.
 
-## <a name="how-do-i-know-if-im-earning-pec"></a>Jak mogę, czy zarobkuję PEC?
+:::image type="content" source="images/advanced-specializations/permissions.png" alt-text="Zrzut ekranu przedstawiający stronę Kontrola dostępu, na której można przywrócić uprawnienia administratora." border="false":::
+
+## <a name="how-do-i-know-if-im-earning-pec"></a>Jak mogę wiedzieć, czy zarobkuję PEC?
 
 Istnieje kilka sposobów, w jakie partner może potwierdzić, że ma odpowiedni dostęp do zasobów platformy Azure klienta.
 
 - Przejrzyj plik dziennego użycia: Jeśli partner otrzymuje kredyt uzyskane przez partnera dla usług zarządzanych, ma dostęp administratora. Można to ustalić, przeglądając cenę jednostkową i efektywną cenę jednostkową w pliku dziennego użycia i potwierdzając, czy rabat jest stosowany.
-- Utwórz alert Azure Monitor: alerty [](/azure/azure-monitor/platform/alerts-activity-log) dziennika aktywności można tworzyć przy użyciu usługi Azure Monitor, aby otrzymywać powiadomienia, gdy dostęp RBAC zostanie usunięty z subskrypcji CSP. Zapoznaj się z przewodnikiem Opis środków uzyskane przez partnerów i dokumentacją techniczną.
+- Tworzenie alertu Azure Monitor: alerty [](/azure/azure-monitor/platform/alerts-activity-log) dziennika aktywności można tworzyć przy użyciu usługi Azure Monitor do odbierania powiadomień, gdy dostęp RBAC zostanie usunięty z subskrypcji CSP. Zapoznaj się z przewodnikiem Opis środków uzyskane przez partnerów i dokumentacją techniczną.
 
 ## <a name="why-dont-i-see-pec-on-the-invoice"></a>Dlaczego na fakturze nie widzę PEC?
 
