@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bce8917477809a47fe23b3b880a0392771e56225dbd5885a7428a910cb3d32e2
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2d0c1e05ff0e0b9c807dfc7beb1136cec87b4069
+ms.sourcegitcommit: 8fe3b0f22d548bc6bcc1b87636216cd4d42b3ede
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681052"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "122297151"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Otrzymywanie środków na koncie Partner Center na potrącenie podatku
 
@@ -27,7 +27,7 @@ Dostawca rozwiązań w chmurze (CSP) w niektórych krajach otrzymują kwoty fakt
 Partnerzy używali do przesyłania żądań potrącenia podatku przez utworzenie żądań obsługi (biletów pomocy technicznej partnera) w Partner Center. Ten proces zmienił się w styczniu 2020 r. Teraz partnerzy CSP powinni przesyłać żądania potrącenia podatku na **stronie Rozliczenia** zamiast tworzyć żądania pomocy technicznej.
 
 > [!IMPORTANT]
-> Partnerzy mogą przesyłać żądania podatku potrącanego tylko dla **płatnych** faktur.
+> Partnerzy mogą przesyłać żądania podatku potrącanego tylko w przypadku częściowo płatnych faktur. W przypadku w pełni płatnych lub nieuprawnianych faktur skontaktuj się z pomocą [techniczną,](report-problems-with-partner-center.md) kontaktując się z pomocą techniczną, kontaktując się z certyfikatem potrącania podatku.
 
 ## <a name="submit-a-tax-withholding-request"></a>Przesyłanie żądania potrącenia podatku
 
@@ -37,7 +37,7 @@ Wykonaj następujące kroki, aby przesłać nową potrącenie podatku:
 
 2. W menu po lewej stronie wybierz pozycję **Rozliczenia** i przejdź do **pozycji Historia rozliczeń.**
 
-3. Wybierz **pozycję Prześlij nową** obok faktury, dla której chcesz przesłać fakturę. Link prześlij nowy spowoduje, że zostaniesz przekierowyny do strony **Nowy wniosek o potrącenie podatku.**
+3. Wybierz **pozycję Prześlij nową** obok faktury, dla której chcesz przesłać fakturę. Link prześlij nowy spowoduje, że zostaniesz przekierowyny do **strony Nowy wniosek o potrącenie podatku.**
 
    :::image type="content" source="images/wht1.png" alt-text="Prześlij nową potrącenie podatku dla faktury.":::
 
@@ -60,7 +60,7 @@ Wykonaj następujące kroki, aby przesłać nową potrącenie podatku:
 
 ## <a name="update-request-and-resubmit"></a>Aktualizowanie żądania i ponowne prześlij
 
-Zespół przeglądowy może wymagać poprawek i ponownego prześlij żądanie, zanim będzie można je zatwierdzić. Zmienią stan na **Oczekująca akcja partnera.** Aby poprawić i ponownie przesłać żądanie:
+Zespół przeglądu może wymagać poprawek i ponownego prześlij żądanie, zanim będzie można je zatwierdzić. Zmienią stan na **Oczekująca akcja partnera.** Aby poprawić i ponownie przesłać żądanie:
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home) Centrum partnerskiego.
 
@@ -84,18 +84,18 @@ Przesłanie żądania spowoduje wysłanie go z powrotem do zespołu przeglądowe
 
 Zatwierdzone żądania potrącenia podatku będą wykonywane na następnej fakturze, co spowoduje zaniżanie należnej kwoty. Żądania oflagowane jako **Ukończone** powinny być stosowane w ciągu 10 dni roboczych. 
 
-Wyczyszone kwoty zostaną odzwierciedlone w sekcji Historia rozliczeń **na stronie rozliczeń.** Kwoty wyczyszone będą wyświetlane w kolumnie **Ostatnia** płatność obok faktury, do których przesłano żądanie.
+Wyczyszone kwoty zostaną odzwierciedlone w sekcji Historia rozliczeń **strony rozliczeniowej**. Kwoty wyczyszone będą wyświetlane w kolumnie **Ostatnia** płatność obok faktury, do których przesłano żądanie.
 
    > [!IMPORTANT]
-   > Poprzednie faktury nie są ponownie wygenerowane ani wystawiane ponownie. Kwota wyczyszczynia jest po prostu stosowana do płatności z poprzednich miesięcy.
+   > Poprzednie faktury nie są ponownie wygenerowane ani ponownie wystawiane. Kwota wyczyść jest po prostu stosowana do płatności z poprzednich miesięcy.
 
 Przetwarzanie żądań potrącenia podatku powinno potrwać dwa dni przy założeniu, że certyfikat podatkowy i kwota są poprawne. Jeśli są wymagane zmiany, będzie to trwać dłużej ze względu na poprawki, które należy wprowadzić i ponownie przesłać.
 
-Jeśli masz pytania dotyczące procesu żądania kredytu na podatek potrąconych, prześlij bilet do pomocy technicznej partnera. Będziesz potrzebować identyfikatora żądania potrącenia podatku, aby odpowiedzieć na pytania.
+Jeśli masz pytania dotyczące procesu żądania kredytu z tytułu podatku potrącanego, prześlij bilet do pomocy technicznej partnera. Będziesz potrzebować identyfikatora żądania potrącenia podatku, aby odpowiedzieć na pytania.
 
 ## <a name="german-tax-withholding"></a>Niemiecki potrącenie podatku
 
-Partnerzy, którzy wysyłają niemieckie żądania potrąceń podatku, powinni pamiętać o przesłaniu kopii certyfikatu podatku potrącanego na następujący adres:
+Partnerzy, którzy przesyłają niemieckie żądania potrącenia podatku, powinni pamiętać o przesłaniu kopii certyfikatu z tytułu podatku potrącanego na następujący adres:
 
 - ATTN: EOC Tax Team Suwne Gannon
 - Microsoft EMEA Operations Centre
@@ -105,7 +105,7 @@ Partnerzy, którzy wysyłają niemieckie żądania potrąceń podatku, powinni p
 
 ### <a name="questions-and-assistance-for-tax-withholding-requests"></a>Pytania i pomoc dotyczące żądań potrącenia podatku
 
-Partnerzy powinni użyć nowego procesu opisanego powyżej, aby przesłać nowe żądania i nie używać już tworzenia żądań pomocy technicznej dla nowych żądań potrącenia podatku. Partnerzy, którzy mają więcej pytań dotyczących żądań potrącenia podatku, mogą [przesyłać wnioski o pomoc techniczną.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Żądania pomocy technicznej mają pomóc partnerom w przypadku istniejących żądań, dlatego muszą mieć swój identyfikator żądania, **aby** przesłać nowy bilet. Jeśli partnerzy nie mogą przesłać żądania przy użyciu nowego procesu, powinni wprowadzić jakieś liczby (wszystkie 1) w formularzu wniosku o pomoc techniczną. 
+Partnerzy powinni użyć nowego procesu opisanego powyżej, aby przesłać nowe żądania i nie używać już tworzenia żądań pomocy technicznej dla nowych żądań potrącenia podatku. Partnerzy, którzy mają więcej pytań dotyczących żądań potrącenia podatku, mogą [przesyłać wnioski o pomoc techniczną.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Żądania pomocy technicznej mają pomóc partnerom w przypadku istniejących żądań, więc muszą mieć swój identyfikator żądania, **aby** przesłać nowy bilet. Jeśli partnerzy nie mogą przesłać żądania przy użyciu nowego procesu, powinni wprowadzić jakieś liczby (wszystkie 1) w formularzu żądania pomocy technicznej. 
 
    > [!IMPORTANT]
    > Partnerzy nie muszą kontaktować się z pomocą techniczną, jeśli stan żądania to **Ukończono.** Ten stan jest przedstawiany w historii **rozliczeń** obok faktury do przesłania. **Ostatnie kwoty** płatności obok faktury powinny odzwierciedlać kwotę potrącenia podatku w ciągu 10 dni po oznaczeniu żądania jako **Ukończono.**
