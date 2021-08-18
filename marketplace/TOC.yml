@@ -6,6 +6,8 @@
       href: appsource-overview.md
     - name: Kupowanie oprogramowania
       href: purchase-software-appsource.md
+    - name: Plany prywatne
+      href: appsource-private-plans.md
 - name: Azure Marketplace
   items:
     - name: Informacje
@@ -23,10 +25,14 @@
     - name: Kwalifikowanie się do przeniesienia subskrypcji
       href: transfer-eligibility.md
     - name: Tworzenie prywatnej witryny Azure Marketplace i zarządzanie nią
-      href: create-manage-private-azure-marketplace.md
+      items:
+        - name: Widok Kolekcje
+          href: create-manage-private-azure-marketplace-new.md
+        - name: Starsza wersja
+          href: create-manage-private-azure-marketplace.md
     - name: Zarządzanie prywatną witryną Azure Marketplace — PowerShell
       href: manage-private-azure-marketplace-powershell.md
-    - name: Rozszerzanie platformy Azure o rozwiązania od partnerów
+    - name: Rozszerzanie platformy Azure za pomocą rozwiązań od partnerów
       href: /azure/partner-solutions/overview
 - name: Zasoby ogólne
   items:

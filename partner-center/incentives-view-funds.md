@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c629f7de5686a329f421251b251499c81e695e0ba4998e4b4d3a3b7d4cfe944
-ms.sourcegitcommit: dfed8309ec4ba4cbe5af05d0dcd30e4151ed17e6
+ms.openlocfilehash: 951018812e8dbf8af4c47e6a6573c2c62e6be1dc
+ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/12/2021
-ms.locfileid: "121469749"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "121915039"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Wyświetlanie dostępnych środków zdobytych, roszczeń i pozostałych środków współpracy
 
@@ -31,11 +31,11 @@ Możesz śledzić, monitorować i uzgadniać swoje środki zachęty w ramach wsp
 
 4. Na liście rozwijanej nad kafelkiem **Co-op claimed wybierz** okres użycia, który chcesz wyświetlić. Spowoduje to wyświetlenie kwot dla środków zdobytych **w** trybie **współpracy,** roszczeń do współpracy i pozostałej współpracy w wybranym okresie. 
 
-5. Data wygaśnięcia dla wybranego okresu jest wyświetlana poniżej ekranu **Pozostałe elementy** współpracy.  
+5. Data wygaśnięcia dla wybranego okresu jest wyświetlana poniżej **ekranu Pozostałe elementy** współpracy.  
 
 6. Aby wyświetlić wszystkie oświadczenia przesłane dla wybranego okresu, przewiń w dół strony.
 
-Jeśli uważasz, że istnieją rozbieżności w kwotach wyświetlanych w podsumowaniu, możesz pobrać raport transakcji z poprzedniego okresu. Ten raport pomoże Ci określić kwotę środków współpracy zdobytych w wybranym okresie użycia. Aby pobrać raporty transakcji lub zweryfikować przesłane oświadczenia, aby upewnić się, że kwota pozostałej współpracy jest dokładna, zobacz [Historia transakcji](./payout-statement.md#transaction-history).
+Jeśli uważasz, że istnieją rozbieżności w kwotach wyświetlanych w podsumowaniu, możesz pobrać raport transakcji z poprzedniego okresu. Ten raport pomoże Ci określić kwotę środków współpracy zdobytych w wybranym okresie użycia. Aby pobrać raporty dotyczące transakcji lub zweryfikować przesłane oświadczenia, aby upewnić się, że kwota pozostałej współpracy jest dokładna, zobacz [Historia transakcji](./payout-statement.md#transaction-history).
 
 ## <a name="view-estimated-earnings-during-the-current-period"></a>Wyświetlanie szacowanych zarobków w bieżącym okresie
 Zarobki w współpracy dla bieżącego okresu zarobków nie są widoczne w widoku Zarządzania współpracy do momentu rozpoczęcia okresu roszczeń dla bieżącego okresu zarobków. Aby wyświetlić szacowane zarobki w współpracy w bieżącym okresie zarobków, użyj następującej procedury:

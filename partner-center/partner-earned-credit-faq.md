@@ -1,7 +1,7 @@
 ---
 title: Często zadawane pytania dotyczące środków uzyskane przez partnerów
 ms.topic: article
-ms.date: 07/22/2021
+ms.date: 08/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Znajdź odpowiedzi na często zadawane pytania dotyczące środków uzyskane przez partnerów.
@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4efffe1bb01fd2822e20c39b828197b422e63caa2141528f531ada882db231b4
-ms.sourcegitcommit: dfed8309ec4ba4cbe5af05d0dcd30e4151ed17e6
+ms.openlocfilehash: 1732ae992ac24d9691d929606bcbaabd32ef4327
+ms.sourcegitcommit: 03713f713b38f8c7bc299dcb92b7264777d1339c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/12/2021
-ms.locfileid: "121469714"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "122019633"
 ---
 # <a name="frequently-asked-questions-for-partner-earned-credit"></a>Często zadawane pytania dotyczące środków uzyskane przez partnerów
 
@@ -60,8 +60,6 @@ Tak, użytkownik CSP Indirect Provider dostęp [RBAC](/azure/role-based-access-c
 ## <a name="what-happens-if-a-customer-removes-a-partners-rbac-admin-access"></a>Co się stanie, jeśli klient usunie dostęp administratora RBAC partnera?
 
 Partner bez odpowiedniego dostępu RBAC w programie CSP zachowuje w firmie Microsoft relację rozliczeń i odpowiedzialność klienta z platformą Azure. Chociaż nie ma to wpływu na partnera sprzedaży poprzedniej oferty platformy Azure w programie CSP, w przypadku nowej oferty platformy Azure w programie CSP, zafakturowany partner nie będzie kwalifikować się do PEC na fakturze za platformę Azure. Partnerzy mogą uzyskać częściowy dostęp administratora w programie CSP, uzyskanie dostępu za pośrednictwem konta użytkownika za pośrednictwem dostępu do katalogu/gościa przy użyciu kontroli dostępu na Azure Lighthouse. Aby uzyskać więcej informacji, zobacz [Przywróć](revoke-reinstate-csp.md)uprawnienia administratora dla subskrypcji Azure CSP klienta.
-
-:::image type="content" source="images/advanced-specializations/partner-permissions.png" alt-text="Zrzut ekranu przedstawiający stronę Kontrola dostępu, na której można przywrócić uprawnienia administratora." border="false":::
 
 ## <a name="how-do-i-know-if-im-earning-pec"></a>Jak mogę, czy zarobkuję PEC?
 
