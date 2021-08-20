@@ -191,7 +191,7 @@
         - name: Aktualizowanie profilu partnera
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Certyfikacja listy w programie Partner Finder
+        - name: Certyfikacja oferty w programie Partner Finder
           href: partner-finder-certification.md
         - name: Informacje o numerze identyfikatora rejestracji
           href: reg-number-id.md
@@ -265,11 +265,14 @@
           displayName: mpn
     - name: Rejestracja transakcji
       href: register-deals.md
-    - name: Get referral insights (Uzyskiwanie szczegółowych informacji o poleceniach)
-      href: referral-insights.md
-    - name: Uzyskiwanie szczegółowych informacji o potencjalnych klientami
-      href: analyze-your-marketing-profile.md
-      displayName: mpn
+    - name: Analiza poleceń
+      items:
+        - name: Uzyskiwanie szczegółowych informacji o potencjalnych klientami
+          href: referral-leads-insights.md
+        - name: Get referral insights (Uzyskiwanie szczegółowych informacji o poleceniach)
+          href: referral-insights.md
+        - name: Definicja danych analizy poleceń
+          href: referral-analytics-data-definition.md
 - name: Zachęty
   items:
     - name: Wprowadzenie do zachęt
@@ -733,7 +736,7 @@
                   href: insights-programmatic-analytics-api-update-report.md
                 - name: Usuń raport
                   href: insights-programmatic-analytics-api-delete-report.md
-                - name: Wstrzymywanie wykonywania raportów
+                - name: Wstrzymywanie wykonań raportu
                   href: insights-programmatic-analytics-api-pause-report-executions.md
                 - name: Wznawianie wykonywania raportów
                   href: insights-programmatic-analytics-api-resume-report-executions.md
