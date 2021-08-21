@@ -134,7 +134,7 @@
       displayName: csp
     - name: 'Umowy z Klientem Microsoft (według regionu, języka)'
       href: agreements.md
-    - name: Jak potwierdzić akceptację przez klienta Umowa z Klientem Microsoft
+    - name: Jak potwierdzić akceptację klienta Umowa z Klientem Microsoft
       href: confirm-customer-agreement.md
     - name: 'Rynki regionalne CSP, waluty'
       href: regional-authorization-overview.md
@@ -191,7 +191,7 @@
         - name: Aktualizowanie profilu partnera
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Certyfikacja oferty w programie Partner Finder
+        - name: Certyfikacja listy w programie Partner Finder
           href: partner-finder-certification.md
         - name: Informacje o numerze identyfikatora rejestracji
           href: reg-number-id.md
@@ -250,6 +250,8 @@
           href: manage-co-sell-opportunities.md
         - name: Operacje zbiorcze
           href: bulk-operations.md
+        - name: Reguły routingu
+          href: routing-rules.md
         - name: Używanie łączników CRM wspólnej sprzedaży
           items:
             - name: Łącznik dla usługi Dynamics 365
@@ -706,7 +708,7 @@
               href: insights-programmatic-prerequisites.md
             - name: Paradygmat dostępu programowego
               href: insights-programmatic-access-paradigm.md
-            - name: Pierwsze wywołanie programowego interfejsu API
+            - name: Pierwsze programowe wywołanie interfejsu API
               href: insights-programmatic-first-api-call.md
             - name: Lista zapytań systemowych
               href: insights-programmatic-system-queries.md
