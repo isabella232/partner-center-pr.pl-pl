@@ -8,12 +8,12 @@ description: Dokument zawiera listę różnych raportów i ich definicji danych,
 author: v-sausharma
 ms.author: v-sausharma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8af7b881b76b9a3adeed97b69da70bc3c16ffc4b
-ms.sourcegitcommit: 7c0dc665ca5e908de884003aebdd14889fcce5dc
+ms.openlocfilehash: e2409dcbfd2a9de677ef4ec79bf8749072859325
+ms.sourcegitcommit: a0afd7765a1a04dc603e096510fd9c138238a7cb
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122514168"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "122681847"
 ---
 # <a name="referral-analytics-export--data-definitions"></a>Eksportowanie analizy poleceń — definicje danych
 
@@ -58,20 +58,20 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 |   Waluta transakcji   |   Waluta transakcji    |
 |   Szacowana wartość transakcji    |   Szacowana wartość transakcji dostarczana przez partnera    |
 |   Szacowana wartość transakcji (USD)  |   Szacowana wartość transakcji dostarczana przez partnera w USD |
-|   Identyfikator rozwiązania     |   Identyfikator rozwiązania  |
-|   Nazwa rozwiązania   |   Nazwa rozwiązania    |
+|   Identyfikator rozwiązania     |   Lista identyfikatorów rozwiązań |
+|   Nazwa rozwiązania   |   Lista nazw rozwiązań  |
 |   Identyfikator MPN  |   Identyfikator sieci partnera firmy Microsoft partnera |
 |   Nazwa partnera    |   Nazwa partnera |
 |   Identyfikator transakcji |   Identyfikator transakcji  |
 |   Identyfikator zaangażowania   |   Unikatowy identyfikator zaangażowania    |
-|   Microsoft MSX ID    |   IDENTYFIKATOR TRANSAKCJI MSX  |
-|   Data utworzenia poleceń firmy Microsoft    |   Data utworzenia odwołania od firmy Microsoft |
+|   Identyfikator MICROSOFT MSX    |   Identyfikator transakcji MSX  |
+|   Data utworzenia polecenia firmy Microsoft    |   Data utworzenia odwołania od firmy Microsoft |
 |   Imię zarejestrowanego kontaktu   |   Imię i nazwisko kontaktu z partnerem podane podczas rejestracji transakcji |
 |   Nazwisko zarejestrowanego kontaktu    |   Nazwisko kontaktu partnera podanego podczas rejestracji transakcji  |
 |   Zarejestrowana kontaktowa wiadomość e-mail    |   Wiadomość e-mail kontaktu z partnerem podaną podczas rejestracji transakcji  |
-|   Zarejestrowany numer telefonu kontaktowego |   Telefon kontaktu z partnerem podanego podczas rejestracji transakcji. Obejmuje to opłaty za oprogramowanie i usługę, ale nie koszty sprzętu   |
+|   Zarejestrowany numer telefonu kontaktowego |   Telefon kontaktu z partnerem podanego podczas rejestracji transakcji   |
 |   Waluta kontraktu   |   Waluta kontraktu dostarczonego podczas rejestracji transakcji  |
-|   Wartość kontraktu  |   Łączna wartość kontraktu podana podczas rejestracji transakcji  |
+|   Wartość kontraktu  |   Łączna wartość kontraktu zapewniana podczas rejestracji transakcji. Obejmuje to opłaty za oprogramowanie i usługę, ale nie koszty sprzętu  |
 |   Wartość kontraktu (USD)    |   Łączna wartość kontraktu w USD podana podczas rejestracji transakcji   |
 |   Data rozpoczęcia kontraktu |   Data rozpoczęcia umowy podanej podczas rejestracji transakcji    |
 |   Data zakończenia kontraktu   |   Data zakończenia umowy podanej podczas rejestracji transakcji  |
