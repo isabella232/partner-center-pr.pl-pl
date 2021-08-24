@@ -16,6 +16,8 @@
       href: azure-purchasing-invoicing.md
     - name: Kupowanie oferty SaaS w Azure Portal
       href: purchase-saas-offer-in-azure-portal.md
+    - name: Zarządzanie cyklem życia subskrypcji SaaS
+      href: saas-subscription-lifecycle-management.md
     - name: Rozliczenia i fakturowanie
       href: billing-invoicing.md
     - name: Korzyść z tytułu zobowiązania do użycia platformy Azure
@@ -32,7 +34,7 @@
           href: create-manage-private-azure-marketplace.md
     - name: Zarządzanie prywatną witryną Azure Marketplace — PowerShell
       href: manage-private-azure-marketplace-powershell.md
-    - name: Rozszerzanie platformy Azure za pomocą rozwiązań od partnerów
+    - name: Rozszerzanie platformy Azure za pomocą rozwiązań partnerów
       href: /azure/partner-solutions/overview
 - name: Zasoby ogólne
   items:

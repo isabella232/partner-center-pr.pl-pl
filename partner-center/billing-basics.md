@@ -1,5 +1,5 @@
 ---
-title: Omówienie rozliczeń Partner Center rozliczeń
+title: Omówienie Partner Center rozliczeń
 ms.topic: article
 ms.date: 01/28/2021
 description: Poznaj podstawowe informacje o rozliczeniach i fakturach dla partnerów CSP w Partner Center. Zawiera informacje o tym, jak rozliczać klientów oraz jak znaleźć i odczytać fakturę.
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b3d498afef9997f1537cfe15b1fef93471d23ec50b43acd467f0e1c7aafd1434
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: f594b7d39234080e2c3f99c05a2e64fdaa18f0dd
+ms.sourcegitcommit: 38afe7e35e3dce4f35cf7352cc98e3d53e979a62
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692997"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "122752103"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Przegląd rozliczeń dla partnerów programu CSP pracujących w Centrum partnerskim 
 
@@ -33,7 +33,7 @@ Aby znaleźć rachunek:
 
 3. Na stronie **Rozliczenia** możesz pobrać najnowszy rachunek lub pobrać poprzednie rachunki w sekcji **Historia** rozliczeń.
 
-## <a name="bill-your-customers"></a>Naliczanie rachunku klientom
+## <a name="bill-your-customers"></a>Rozliczanie klientów
 
 Firma Microsoft nie ma żadnych wymagań ani warunków dotyczących sposobu obsługi własnych faktur.
 
@@ -41,13 +41,13 @@ Aby określić użycie klienta, zobacz pliki [uzgodnień](#find-your-bill). Uży
 
 ### <a name="billing-types"></a>Typy rozliczeń
 
-Typy rozliczeń w Partner Center obejmują rozliczenia oparte na **licencjach,** rozliczenia **oparte na użyciu** i rozliczenia **godzinowe.** 
+Typy rozliczeń w Partner Center obejmują rozliczenia oparte na **licencjach,** rozliczenia oparte **na użyciu** i rozliczenia **razowe.** 
 
 ### <a name="billing-currency"></a>Waluta rozliczeniowa
 
-**Rozliczenia oparte na licencjach** i na użyciu: opłaty za produkty będą naliczane w walucie kraju lub regionu, w którym się znajdujesz. Rachunek jest taki sam niezależnie od lokalizacji klienta, któremu sprzedano produkty.
+**Rozliczenia oparte na** licencjach i na użyciu: opłaty za produkty będą naliczane w walucie kraju lub regionu, w którym się znajdujesz. Rachunek jest taki sam niezależnie od lokalizacji klienta, któremu sprzedano produkty.
 
-Rozliczenia **raz:** od 28 stycznia 2021 r. partnerzy w regionie Unii Europejskiej/EFTA i Zjednoczonego Królestwa, którzy mają nowych klientów i istniejących klientów programu CSP, którzy kupują nowe oferty handlowe po raz pierwszy, których dzierżawy zostały utworzone przed 11 maja 2020 r., będą rozliczani za te zakupy w walucie lokalizacji partnera. Partnerzy znajdujący się poza regionem Unii Europejskiej/EFTA i Zjednoczonego Królestwa będą nadal rozliczani w walucie lokalizacji partnera. Przeczytaj więcej na temat [jednorazowych i cyklicznych .](azure-plan-billing.md) 
+**Rozliczenia raz:** od sierpnia 2021 r. wszyscy partnerzy będą rozliczani w walucie lokalizacji partnera, niezależnie od lokalizacji klienta, któremu sprzedano produkty. Przeczytaj więcej na temat [jednorazowych i cyklicznych .](azure-plan-billing.md) 
 
 ## <a name="invoices"></a>Faktury
 
@@ -61,7 +61,7 @@ W przypadku jednorazowego i cyklicznego rozliczania okres rozliczeniowy jest wyr
 
 Cenniki są aktualizowane co miesiąc. Cenniki wersji zapoznawczej są dostępne z jednym (1) miesiącem wcześniej.
 
-Aby wyświetlić najnowsze Dostawca rozwiązań w chmurze i oferty, na pulpicie nawigacyjnym Portalu dla partnerów przejdź do tematu Sell **> Pricing and Offers**(Sprzedaż i oferty). Znajdziesz oddzielne cenniki różnych typów produktów, które są dostępne. Następujące cenniki są dostępne na **stronie Cennik i oferty:**
+Aby wyświetlić najnowsze Dostawca rozwiązań w chmurze i oferty, na pulpicie nawigacyjnym Portalu dla partnerów przejdź do tematu Sell **> Pricing and Offers**(Sprzedaż i oferty). Znajdziesz oddzielne cenniki różnych typów produktów, które są dostępne. Następujące cenniki są dostępne na **stronie Cennik i** oferty:
 
 **Ceny oparte na** licencjach są gwarantowane przez okres subskrypcji, zazwyczaj 12 miesięcy od daty zakupu. 
 
@@ -69,7 +69,7 @@ Aby wyświetlić najnowsze Dostawca rozwiązań w chmurze i oferty, na pulpicie 
 
 **Ceny produktów, usług i subskrypcji oprogramowania** są gwarantowane w okresie obowiązywania subskrypcji. Jednak ceny mogą ulec zmianie po odnowieniu.
 
-Po zastosowaniu **środków** lub  korekt na następnej fakturze rozliczeniowej zobaczysz korekty i środki w zaległości.
+Po zastosowaniu środków lub  **korekt** na następnej fakturze rozliczeniowej zobaczysz korekty i środki w zaległości.
 
 ## <a name="payment-terms"></a>Warunki płatności
 
@@ -81,9 +81,9 @@ Po podano poprawione informacje rozliczeniowe, płatność będzie widoczna na s
 
 ### <a name="taxes-and-vat"></a>Podatki i podatku VAT
 
-Opłaty są naliczone na podstawie twoich danych (a nie danych klientów), ponieważ relacja rozliczeniowa między firmą Microsoft a To ty. Identyfikator podatkowy można przesłać później podczas procesu konfiguracji konta lub wniosku o pomoc techniczną. Zmiany zostaną odzwierciedlone w następnym cyklu rozliczeniowym.
+Opłaty są naliczone na podstawie twoich danych (a nie danych klientów), ponieważ relacja rozliczeń między firmą Microsoft a To ty. Identyfikator podatkowy można przesłać później podczas procesu konfiguracji konta lub wniosku o pomoc techniczną. Zmiany zostaną odzwierciedlone w następnym cyklu rozliczeniowym.
 
-W **przypadku zwolnienia z potrącenia i podatku** od sprzedaży należy przesłać dokumentację dotyczącą podatku za pośrednictwem wniosku o pomoc techniczną. Zobaczysz zmiany i odpowiednie zwroty w następnym cyklu rozliczeniowym. Dowiedz się więcej na temat [przesyłania podatku potrącanego.](withholding-tax-credit-form.md) 
+W **przypadku zwolnienia z potrącenia i podatku** od sprzedaży należy przesłać dokumentację dotyczącą podatku za pośrednictwem wniosku o pomoc techniczną. Zobaczysz zmiany i odpowiednie zwroty w następnym cyklu rozliczeniowym. Dowiedz się więcej na temat przesyłania [podatku potrącanego.](withholding-tax-credit-form.md) 
 
 W przypadku zwolnienia z podatku od wartości dodanej **(VAT)** należy przesłać identyfikator VAT (zweryfikowany przez firmę Microsoft) za pośrednictwem żądania obsługi.  Jeśli identyfikator VAT zostanie przesłany po konfiguracji konta (za pośrednictwem wniosku o pomoc techniczną), faktury przed tym żądaniem nie będą mieć identyfikatora VAT w formacie PDF faktury. Zmiany zostaną wprowadzone w następnym cyklu rozliczeniowym.
 
@@ -129,8 +129,8 @@ Mierzone stawki usług mogą ulec zmianie w ramach cyklu faktury.
 
 Może być konieczne zażądanie środków lub amiill z następujących powodów:
 
-- Należy wprowadzić korekty adresu lub zamówienia zakupu.
-- Zwrot podatku został zastosowany po wygenerowaniu faktury. Możesz zażądać kredytu lub amiillu, aby uzyskać zwrot podatku z powrotem na oryginalną fakturę. To samo dotyczy również zwrotów. Możesz zażądać środków lub listu na oryginalnej fakturze, a następnie ściągnąć zwrot.
+- Należy wprowadzić poprawki adresu lub zamówienia zakupu.
+- Zwrot podatku został zastosowany po wygenerowaniu faktury. Aby uzyskać zwrot podatku z powrotem na oryginalną fakturę, możesz zażądać kredytu lub przelewu. To samo dotyczy również zwrotów. Możesz zażądać środków lub illill oryginalnej faktury, a następnie ściągnąć zwrot.
 
 **W przypadku wszystkich transakcji jednorazowych i cyklicznych** firma Microsoft może wydać notatkę kredytową, gdy zażądasz środków lub illill. Faktura zostanie anulowana po wystawieniu środków. 
 
