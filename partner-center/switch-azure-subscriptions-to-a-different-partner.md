@@ -3,109 +3,181 @@ title: Przenoszenie subskrypcji platformy Azure do innego partnera
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Dowiedz się, jak Dostawca rozwiązań w chmurze partnera programu skojarzonego z subskrypcjami platformy Azure klienta.
+description: Dowiedz się, jak Dostawca rozwiązań w chmurze partner programu skojarzonego z subskrypcjami platformy Azure klienta.
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/21/2021
-ms.openlocfilehash: cac2d1443fd47f45a70729bf034e65f33861e73698633938ae196e274f4a382b
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 28e90ec4a699e2d8830f3695a30151e6b00e8cd1
+ms.sourcegitcommit: 994cf9b2a2b44ec3f739276258096cce787b6e5f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681386"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122879485"
 ---
-# <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Dowiedz się, jak przenieść subskrypcje platformy Azure klienta do innego partnera
+# <a name="transfer-a-customers-azure-subscriptions-to-a-different-partner-without-converting-them-to-an-azure-plan"></a>Przenoszenie subskrypcji platformy Azure klienta do innego partnera bez konwertowania ich na plan platformy Azure
 
 **Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
 
 **Odpowiednie role:** Administrator globalny
 
-W tym artykule opisano, jak klient może przełączyć swoje usługi Microsoft Azure z jednego Dostawca rozwiązań w chmurze (CSP) na inny po zakupie poprzedniej oferty platformy Azure w programie CSP.
+W tym artykule opisano, jak klient może przenieść subskrypcję platformy Azure ze swojego bieżącego Dostawca rozwiązań w chmurze (CSP) do innego CSP.
 
-Po fazie 1 zmian wprowadzonych w poprzedniej ofercie platformy Azure w programie [CSP](https://go.microsoft.com/fwlink/p/?linkid=2164140)dla wszystkich istniejących relacji odsprzedawcy między partnerami i klientami w programie CSP partner może kontynuować transakcję poprzedniej oferty platformy Azure (MS-AZR-0145p), jeśli klient już ją kupił. W przypadku wszystkich istniejących relacji odsprzedawcy między partnerami i klientami, jeśli klient nie zakupił wcześniej poprzedniej oferty platformy Azure, partner może tylko transakcyjnie korzystać z nowej oferty platformy Azure.
+W pierwszej sekcji, Przenoszenie subskrypcji platformy [Azure](#transferring-azure-subscriptions-to-another-partner)do innego partnera, opisano, jak klient może przenieść subskrypcję Microsoft Azure z jednego Dostawca rozwiązań w chmurze (CSP) do innego.
 
-- Jeśli bieżący i przyszły partner mają aktywne poprzednie subskrypcje ofert platformy **Azure** z klientem, poprzednie oferty platformy Azure (MS-AZR-0145p) opisane w tym dokumencie między bieżącym i przyszłym partnerem będą nadal dostępne po fazie 1, o ile obydwaj partnerzy zachowają aktywne poprzednie subskrypcje ofert platformy Azure. Ta możliwość przeniesienia zakończy się, gdy przyszły partner nie ma już aktywnych poprzednich subskrypcji ofert platformy Azure lub gdy poprzednia oferta platformy Azure (MS-AZR-0145p) w programie CSP zostanie trwale wycofana w fazie 3.
+W następnej sekcji [Transfering a previous Azure offer subscription without converting it to the Azure plan](#transferring-a-previous-azure-offer-subscription-without-converting-it-to-the-azure-plan)(Przenoszenie poprzedniej subskrypcji oferty platformy Azure bez konwertowania jej na plan platformy Azure) krótko opisano sposób wprowadzania nowego planu platformy Azure. Następnie opisano specjalny przypadek, w którym niektóre subskrypcje poprzedniej oferty platformy Azure można przenieść do innego programu CSP bez konwertowania ich na nowy plan platformy Azure.
 
-   > [!NOTE]
-   > W tym scenariuszu nie ma dostępnych zautomatyzowanych narzędzi i należy skorzystać z poniższego procesu.
+Klient, bieżący dostawca usług i nowy dostawca usług mają obowiązki podczas przenoszenia subskrypcji klienta do nowego dostawcy [usług platformy Azure.](#responsibilities-when-transferring-a-customer-subscription-to-a-new-azure-service-provider) Klient powinien zaplanować ścisłą współpracę z bieżącym partnerem, aby przejście przebiegało bezproblemowo.
 
-- Jeśli tylko bieżący partner ma klienta z aktywną poprzednią subskrypcją platformy **Azure (MS-AZR-0145p), a** przyszły partner jej nie ma, przeniesienie poprzedniej oferty platformy Azure między partnerami nie będzie już możliwe po fazie 1. Ponieważ przyszły partner nie może utworzyć poprzedniej subskrypcji oferty platformy Azure (MS-AZR-0145p) dla klienta, ten transfer nie zostanie włączony. W takim przypadku to narzędzie przejściowe może służyć do przenoszenia subskrypcji platformy Azure klienta między partnerami w programie CSP, jednocześnie konwertując ją na nową subskrypcję oferty platformy Azure.
+ Informacje wysokiego poziomu, które ułatwiają subskrybentom platformy Azure przenoszenie subskrypcji do i od partnerów CSP, można znaleźć w tesłudze [Transfer Azure subscriptions between subscribers and CSPs (Przenoszenie](/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)subskrypcji platformy Azure między subskrybentami i partnerami CSP).
 
-Aby przełączyć usługi lub subskrypcje platformy Azure klienta na innego partnera z poprzednią ofertą platformy Azure (MS-AZR-0145p), wykonaj następujące kroki ręczne. Zarówno partner, jak i klient muszą wykonać te kroki.
+Dodatkowe informacje o tym, jak klienci mogą zmieniać swoje subskrypcje platformy Azure z jednego partnera na innego, można znaleźć w tece Przenoszenie subskrypcji platformy Azure klienta do innego programu [CSP (w](/partner-center/transfer-azure-subscriptions-under-azure-plan) ramach planu platformy Azure)
 
-> [!NOTE]  
-> Obecnie tylko bezpośredni lub pośredni dostawcy mogą przenosić subskrypcje.
-> Nie można zmienić partnerów dla subskrypcji Dostawca rozwiązań w chmurze platformy Azure skojarzonych z planem platformy Azure, Office 365, Enterprise Mobility Suite ani Microsoft Dynamics CRM subskrypcjami.
+## <a name="prerequisites"></a>Wymagania wstępne
 
-## <a name="transfer-azure-subscriptions-to-another-partner-with-the-previous-azure-offer"></a>Przenoszenie subskrypcji platformy Azure do innego partnera z poprzednią ofertą platformy Azure
+- Partner programu CSP musi mieć relację odsprzedawcy z klientem, aby można było przenieść subskrypcję.  Aby uzyskać więcej informacji, [zobacz Jak zażądać relacji odsprzedawcy od klienta w Partner Center](/partner-center/request-a-relationship-with-a-customer).
+- Partner musi być dostawcą bezpośrednim lub pośrednim, aby przenieść subskrypcję.
+- Nie można przenieść subskrypcji skojarzonych z następującymi ofertami: plan platformy Azure, Office 365, Enterprise Mobility Suite i Microsoft Dynamics CRM.
+- Aby przenieść subskrypcję, klient musi znajdować się w tym samym kraju co partner.
+- Partnerzy działający w Microsoft Cloud for US Government lub Microsoft Cloud w Niemczech muszą zażądać uprawnień do zarządzania usługą lub subskrypcją klienta. Aby uzyskać więcej informacji, zobacz [Uzyskiwanie uprawnień do zarządzania usługą](/partner-center/customers-revoke-admin-privileges)lub subskrypcją klienta.
 
-1. Aby przenieść subskrypcję platformy Azure do nowego partnera z poprzednią ofertą platformy Azure, klient musi rozpocząć proces i skontaktować się ze swoim bieżącym partnerem rekordu w formie zapisu.
+## <a name="transferring-azure-subscriptions-to-another-partner"></a>Przenoszenie subskrypcji platformy Azure do innego partnera
 
-   > [!NOTE]
-   > Bieżący partner odpowiada za utworzenie biletu usługi, który inicjuje proces transferu. Firma Microsoft nie może interweniować w imieniu klienta lub nowego partnera. Klient powinien zaplanować ścisłą współpracę z bieżącym partnerem, aby przejście przebiegało bezproblemowo.
+Przenoszenie subskrypcji platformy Azure z jednego partnera CSP do innego jest wieloetapowym procesem, który wymaga działań klienta, bieżącego partnera i nowego partnera na różnych etapach. W poniższej tabeli przedstawiono diagram sekwencji ułatwiający wyjaśnienie, kto i kiedy robi.
 
-2. Partner subskrypcji musi wykonać następujące zadania:
+### <a name="responsibilities-when-transferring-a-customer-subscription-to-a-new-azure-service-provider"></a>Obowiązki podczas przenoszenia subskrypcji klienta do nowego dostawcy usług platformy Azure
 
-   Utwórz bilet usługi platformy Azure z Partner Center, aby zażądać przeniesienia subskrypcji:
+|Krok  |Customer  |Bieżący partner  |Nowy partner  |
+|---------|---------|---------|---------|
+|1     |[Klient powiadamia firmę Microsoft i bieżącego partnera na pisanie](#step-1-customer-contacts-current-partner-in-writing)         |         |         |
+|2     |         |[Tworzenie biletu pomocy technicznej w celu zażądania przeniesienia](#step-2-current-provider-creates-azure-support-ticket-to-request-a-transfer)        |         |
+|3     |         |[Wysyłanie wypełnionego formularza przeniesienia do klienta](#step-3-current-partner-completes-transfer-form-and-sends-it-to-the-customer)|         |
+|4     |         |[Kompletna zmiana Dostawca rozwiązań w chmurze formularza](#step-3-current-partner-completes-transfer-form-and-sends-it-to-the-customer)       |         |
+|5     |[Przeglądanie, podpisywanie & formularza powrotu](#step-5-the-customer-and-new-partner-review--return-the-form)       |         |[Przeglądanie, podpisywanie & formularza powrotu](#step-5-the-customer-and-new-partner-review--return-the-form)         |
+|6     |         |[Formularz przeglądu i dołączanie do żądania obsługi](#step-6-current-partner-reviews-form-and-attaches-it-to-the-service-request)        |         |
+|7     |         |         |[Usuwanie starego partnera z konta](#step-7-new-partner-removes-old-partner-from-account)         |
+|8     |         |         |[Usuwanie nieaktualnych uprawnień dostępu](#step-8-new-partner-removes-outdated-access-permissions)         |
 
-   1. Z Partner Center wybierz pozycję **Klienci,** wybierz klienta z listy, a następnie wybierz pozycję **Zarządzanie usługami.**
-   2. W sekcji **Bilety pomocy technicznej** wybierz menu rozwijane **Nowy** bilet, a następnie wybierz **pozycję Microsoft Azure**.
-   3. Na stronie [Azure Portal](https://portal.azure.com)pozycję **Nowy wniosek o pomoc techniczną.**
-   4. W kroku 1  wybierz pozycję **Zarządzanie** subskrypcjami jako typ problemu, określ identyfikator subskrypcji, którą chcesz przenieść, a następnie wybierz Dostawca rozwiązań w chmurze jako plan pomocy technicznej.
-   5. W kroku 2 wybierz **pozycję C-Minimalny wpływ** i wybierz typ problemu Inne pytania ogólne. 
-   6. Pobierz formularz [przeniesienia subskrypcji CSP.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)
+### <a name="steps-for-transferring-a-customer-subscription-to-a-new-azure-service-provider"></a>Procedura przenoszenia subskrypcji klienta do nowego dostawcy usług platformy Azure
 
-3. Partner subskrypcji: wypełnij formularz Przeniesienia subskrypcji programu [CSP,](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)podpisz go, a następnie wyślij do klienta. 
+#### <a name="step-1-customer-contacts-current-partner-in-writing"></a>Krok 1. Klient kontaktuje się na pisanie z bieżącym partnerem
 
-   Do ukończenia formularza potrzebne są następujące informacje:
+Klient rozpoczyna proces przenoszenia, powiadamiając na pisanie zarówno firmę Microsoft, jak i bieżącego partnera CSP (czyli nie słownie) o żądaniu przeniesienia subskrypcji.
 
-   - Informacje kontaktowe bieżącego partnera i identyfikator Microsoft ID. W menu Partner Center wybierz pozycję **Ustawienia** konta Profil organizacji, a następnie użyj wymienionych w nich pozycji &gt; Identyfikator **firmy Microsoft,** Nazwa organizacji **i** Adres.
-   - Identyfikator Microsoft klienta. W menu Partner Center wybierz pozycję **Klienci,** a następnie rozwiń listę klientów, aby wyświetlić jego **identyfikator Microsoft.**
-   - Identyfikator subskrypcji do przeniesienia. Na rozwiniętej liście klientów wybierz pozycję **Wyświetl subskrypcje,** a następnie rozwiń wybraną subskrypcję, aby wyświetlić **identyfikator subskrypcji**.
+#### <a name="step-2-current-provider-creates-azure-support-ticket-to-request-a-transfer"></a>Krok 2. Bieżący dostawca tworzy bilet pomocy technicznej platformy Azure w celu zażądania przeniesienia
 
-   > [!NOTE]
-   > Przeniesienie subskrypcji powoduje, że zostaną wyświetlony dwa identyfikatory subskrypcji na stronie Edytowanie subskrypcji przeniesionej subskrypcji: **1**— identyfikator subskrypcji usługi Partner Center jest używany na potrzeby rozliczeń.  **2**— Oryginalny identyfikator subskrypcji platformy Azure jest zachowywany i będzie wyświetlany w Partner Center, a także w portalu zarządzania azure. Ten identyfikator pojawi się w pliku rekonescji.  **Podczas rejestrowania biletów pomocy technicznej należy użyć obu identyfikatorów.**
+Bieżący partner tworzy bilet pomocy technicznej platformy Azure w celu zażądania przeniesienia subskrypcji.
 
-4. Klient i nowy partner subskrypcji:
+> [!NOTE]
+> Bieżący partner odpowiada za utworzenie biletu pomocy technicznej, który inicjuje proces przenoszenia. Firma Microsoft nie interweniuje w imieniu klienta ani nowego partnera.
 
-   Przejrzyj formularz, wypełnij informacje o nowym partnerze i podpisz go. Upewnij się, że nowy klient ma podpisaną umowę. Wyślij formularz z powrotem do bieżącego partnera rekordów.
+**Aby utworzyć bilet pomocy technicznej w celu zażądania przeniesienia:**
 
-   *Ważne:* Jeśli nowy partner CSP nie ma relacji odsprzedawcy z klientem, musi ustanowić go przed przeniesieniem subskrypcji. [Informacje na temat tego, jak to zrobić, można znaleźć tutaj.](request-a-relationship-with-a-customer.md)
+1. W menu Partner Center wybierz pozycję **Klienci,** wybierz klienta z listy, a następnie wybierz pozycję **Zarządzanie usługami.**
+1. W sekcji **Bilety pomocy technicznej** wybierz pozycję Nowy **bilet,** a następnie wybierz **Microsoft Azure.**
+1. W [Azure Portal](https://portal.azure.com/)wybierz pozycję Nowy **wniosek o pomoc techniczną.**
+1. W kroku 1 wniosku o  pomoc techniczną wybierz pozycję Zarządzanie subskrypcjami jako typ problemu, określ identyfikator subskrypcji, który chcesz przenieść, a następnie wybierz Dostawca rozwiązań w chmurze jako plan pomocy technicznej. 
+1. W kroku 2 wybierz **pozycję C-Minimalny wpływ** i wybierz typ problemu **Inne** pytania ogólne.
 
-   > [!NOTE]
-   > Nowy partner CSP i dzierżawa klienta muszą znajdować się w tym samym kraju. 
+#### <a name="step-3-current-partner-completes-transfer-form-and-sends-it-to-the-customer"></a>Krok 3. Bieżący partner kończy formularz przeniesienia i wysyła go do klienta
 
-5. Bieżący partner:
+Bieżący partner pobiera i kończy formularz [Zmiana](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)Dostawca rozwiązań w chmurze , podpisuje go, a następnie wysyła do klienta.
 
-   Upewnij się, że formularz zawiera informacje kontaktowe dla obu administratorów partnerów. Pomoc techniczna Microsoft obu administratorów w celu zweryfikowania przeniesienia. Upewnij się, że masz wszystkie trzy podpisy. Następnie użyj opcji **Upload,** aby dołączyć wypełniony formularz do istniejącego żądania obsługi. Inżynier pomocy technicznej firmy Microsoft wróci do Ciebie w ciągu ośmiu godzin pracy, aby zweryfikować potwierdzenie i ukończenie.
+#### <a name="step-4-current-partner-completes-current-partner-fills-in-the-change-of-cloud-solution-provider-form"></a>Krok 4. Bieżący partner wypełnia formularz Zmiana Dostawca rozwiązań w chmurze partnera
 
-6. Nowy partner:
+Bieżący partner kończy formularz [Zmiana](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)Dostawca rozwiązań w chmurze, podpisuje go i wysyła do klienta.
 
-   Zaktualizuj ustawienia subskrypcji platformy Azure, aby usunąć starego partnera z konta. Aby zobaczyć, które przypisania ról są aprowowane, uruchom dwa polecenia polecenia programu PowerShell.
+Informacje potrzebne do ukończenia formularza *zmiany Dostawca rozwiązań w chmurze* są:
 
-   - Dodaj nowego partnera jako odsprzedawcę na koncie:
+- **Informacje kontaktowe bieżącego partnera** i identyfikator Microsoft ID (które można znaleźć w menu Partner Center, wybierając pozycję Ustawienia konta **> profilu organizacji).**
+- **Identyfikator Microsoft klienta** (który można znaleźć w menu Partner Center,  wybierając pozycję Klienci, a następnie rozwijając listę klientów, aby ujawnić jego identyfikator Microsoft ID).
+- Identyfikator **subskrypcji** do przeniesienia (który można znaleźć w menu usługi Partner Center, wybierając pozycję Klienci, a następnie rozwijając listę klientów, wybierając pozycję Wyświetl subskrypcje, a następnie rozwijając wybraną subskrypcję, aby wyświetlić identyfikator subskrypcji.  
 
-     ```powershell
-     Connect-AzAccount -Tenant 'xxxx-xxxx-xxxx-xxxx'
-     ```
+#### <a name="step-5-the-customer-and-new-partner-review--return-the-form"></a>Krok 5. Klient i nowy partner & zwrot formularza
 
-     > [!NOTE]
-     > Identyfikator dzierżawy **klienta jest wyświetlany** w Partner Center jako identyfikator microsoft **klienta**. Aby znaleźć identyfikator Microsoft (identyfikator dzierżawy) dla określonego klienta, zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard) Następnie wybierz **pozycję Klienci** z menu. Znajdź klienta na liście. Wybierz strzałkę w dół, aby rozwinąć ofertę klienta. Zobaczysz informacje o nazwie domeny klienta *i* identyfikatorze **microsoft klienta**. Użyj 16-cyfrowego identyfikatora **Microsoft ID w** poleceniu polecenia programu PowerShell.
+Współpracując z klientem i nowym partnerem:
 
-   - Wyświetlanie ról na koncie, w tym poprzednich partnerów CSP:
+1. Przejrzyj formularz, wypełnij informacje o nowym partnerze i podpisz go.
+1. Upewnij się, że nowy klient ma podpisaną umowę.
+1. Wyślij formularz z powrotem do bieżącego partnera.
 
-     ```powershell
-     Get-AzRoleAssignment
-     ```
+#### <a name="step-6-current-partner-reviews-form-and-attaches-it-to-the-service-request"></a>Krok 6. Formularz bieżących przeglądów partnerów i dołącza go do żądania obsługi
 
-7. Usuń nieaktualne uprawnienia dostępu:
+Gdy bieżący partner otrzyma formularz,:
+
+- Upewnij się, że formularz zawiera informacje kontaktowe dla obu administratorów partnerów. (Pomoc techniczna Microsoft obu administratorów w celu zweryfikowania przeniesienia).
+- Sprawdź, czy mają wszystkie trzy podpisy, **a** następnie użyj opcji Upload, aby dołączyć wypełniony formularz do istniejącego żądania obsługi. (Inżynier pomocy technicznej firmy Microsoft kontaktuje się z nimi w ciągu ośmiu godzin w celu zweryfikowania potwierdzenia i ukończenia).
+
+#### <a name="step-7-new-partner-removes-old-partner-from-account"></a>Krok 7. Nowy partner usuwa starego partnera z konta
+
+Nowy partner aktualizuje ustawienia subskrypcji platformy Azure w programie PowerShell, aby usunąć starego partnera z konta.
+
+> [!NOTE]
+> Pierwsze polecenie cmdlet programu PowerShell wymaga identyfikatora dzierżawy klienta **,** który jest wyświetlany Partner Center jako identyfikator **Microsoft klienta**. W następującej procedurze opisano, jak znaleźć identyfikator Microsoft klienta (identyfikator dzierżawy) do użycia w poleceniach cmdlet .
+
+Aby znaleźć identyfikator microsoft klienta (identyfikator dzierżawy) do użycia w Połączenie **cmdlet programu PowerShell *Połączenie-AzAccount:***
+
+1. Zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard)
+1. Wybierz **pozycję Klienci** z menu.
+1. Znajdź klienta na wyświetlonej liście.
+1. Wybierz strzałkę w dół, aby rozwinąć listę klientów. Zobaczysz informacje o nazwie domeny  klienta i identyfikatorze **microsoft klienta**.
+1. Użyj 16-cyfrowego **identyfikatora Microsoft ID w** poleceniach cmdlet programu PowerShell, które są następujące po tej procedurze.
+
+Pierwsze polecenie cmdlet programu PowerShell dodaje nowego partnera jako odsprzedawcę na koncie:
+
+```powershell
+Connect-AzAccount -Tenant 'xxxx-xxxx-xxxx-xxxx'
+```
+
+Drugie polecenie cmdlet wyświetla role na koncie, w tym poprzednich partnerów CSP:
+
+```powershell
+Get-AzRoleAssignment
+```
+
+#### <a name="step-8-new-partner-removes-outdated-access-permissions"></a>Krok 8. Nowy partner usuwa nieaktualne uprawnienia dostępu
+
+   **Aby usunąć nieaktualne uprawnienia dostępu:**
 
    1. W menu Partner Center wybierz pozycję **Klienci.**
-   1. Znajdź klienta na liście. Wybierz (kliknij dwukrotnie) nazwę firmy. Ta akcja spowoduje otwarcie **strony Subskrypcje** klienta.
+   1. Znajdź klienta na liście klientów.
+   1. Kliknij dwukrotnie nazwę firmy klienta. Zostanie **wyświetlona strona Subskrypcje** klienta.
    1. W menu szczegółów klienta wybierz pozycję **Zarządzanie usługami.**
-   1. W **Microsoft Azure** wybierz link **Microsoft Azure portal zarządzania** link.
+   1. W **Microsoft Azure** wybierz pozycję **Microsoft Azure portal zarządzania**.
+
+## <a name="transferring-a-previous-azure-offer-subscription-without-converting-it-to-the-azure-plan"></a>Przenoszenie poprzedniej subskrypcji oferty platformy Azure bez konwertowania jej na plan platformy Azure
+
+W tej sekcji krótko opisano sposób wprowadzania nowego planu platformy Azure. Następnie opisano specjalny przypadek, w którym niektóre subskrypcje poprzedniej oferty platformy Azure można przenieść do innego programu CSP bez konwertowania ich na nowy plan platformy Azure.
+
+> [!NOTE]
+> Aby przenieść subskrypcje platformy Azure klienta zakupione w ramach poprzedniej oferty platformy Azure do nowego programu CSP i przekonwertować je na plan platformy *Azure*( jest to akcja domyślna), zobacz poprzednią sekcję [*Przenoszenie*](#transferring-azure-subscriptions-to-another-partner)subskrypcji platformy Azure do innego partnera i artykuł Przenoszenie subskrypcji platformy Azure klienta do innego programu [*CSP (w*](/partner-center/transfer-azure-subscriptions-under-azure-plan)ramach planu platformy Azure).
+
+### <a name="the-azure-plan-and-the-previous-azure-offer"></a>Plan platformy Azure i poprzednia oferta platformy Azure
+
+Firma Microsoft wprowadziła nowe środowisko handlowe, [plan platformy Azure,](/partner-center/azure-plan-lp)w lipcu 2021 r. Aby dać partnerom czas na uwzględnienie nowych funkcji w swoich usługach i przejście klientów z poprzedniej oferty platformy Azure (MS-AZR-0145p) do planu platformy Azure, poprzednia oferta platformy Azure będzie nadal dostępna przez ograniczony czas.
+
+Przejście z poprzedniej oferty platformy Azure do planu platformy Azure obejmuje trzy fazy:
+
+**Faza 1:** od momentu wprowadzenia planu platformy Azure w lipcu 2021 r. wszyscy nowi klienci programu Azure CSP zostały umieszczeni w planie platformy Azure. Partnerzy mogą nadal korzystać z poprzedniej oferty platformy Azure u klientów, którzy już ją kupili.
+
+**Faza 2:** 1 lutego 2022 r. zachęty i możliwość marży partnera zostaną usunięte z poprzedniej oferty platformy Azure.
+
+**Faza 3:** W momencie, który nie zostanie jeszcze określony, poprzednia oferta platformy Azure zostanie wycofana, a klienci nadal korzystający z poprzedniej oferty platformy Azure zostaną zmigrowani do planu platformy Azure. (Partnerzy zostaną powiadomieni o dacie wycofania z sześciu miesięcy z wyprzedzeniem).
+
+### <a name="transferring-subscriptions-without-conversion"></a>Przenoszenie subskrypcji bez konwersji
+
+W tej sekcji opisano specjalny przypadek przenoszenia subskrypcji zakupionej w ramach poprzedniej oferty platformy Azure do nowego dostawcy CSP bez konwertowania jej na *plan platformy Azure.*
+
+Subskrypcję klienta dla poprzedniej oferty platformy Azure można przenieść do nowego partnera CSP bez konwersji na plan platformy Azure, korzystając z kroków z poprzedniej sekcji Przenoszenie subskrypcji platformy [Azure](#transferring-azure-subscriptions-to-another-partner)do innego partnera, jeśli:
+
+- Poprzednia oferta platformy Azure jest nadal dostępna.
+- Zarówno bieżący partner, jak i nowy partner mają klienta z subskrypcją poprzedniej oferty platformy Azure.
+
+Jeśli tylko bieżący partner ma klienta z subskrypcją poprzedniej oferty platformy Azure, bieżący partner może użyć narzędzia przejścia, aby przenieść subskrypcję klienta do nowego partnera, jednocześnie konwertując ją na nowy plan platformy Azure.
+
+> [!NOTE]
+> Tylko partnerzy, którzy mają bezpośrednią relację rozliczeń z firmą Microsoft, mogą uzyskać dostęp do narzędzia przejściowego. Odsprzedawcy pośredni muszą współpracować ze swoimi dostawcami pośrednimi, aby korzystać z narzędzia przejściowego.
 
 ## <a name="next-steps"></a>Następne kroki
 
@@ -113,4 +185,4 @@ Aby przełączyć usługi lub subskrypcje platformy Azure klienta na innego part
 - [Przenoszenie subskrypcji platformy Azure w ramach planu platformy Azure](transfer-azure-subscriptions-under-azure-plan.md)
 - Pobieranie formularza [przeniesienia subskrypcji CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)
 - Dowiedz się więcej [o pomocy technicznej dla wielu partnerów](multipartner.md)
-- Dowiedz się więcej [na temat obsługi wielu kanałów](multichannel.md)
+- Dowiedz się więcej [o pomocy technicznej dla wielu kanałów](multichannel.md)
