@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f347b1aa246df3cfa4ccf0d52bff1dd76ac70e5d007a0d8b8efc0fafe0599a49
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 6037044a72bd9bd71131ddbc66fec0555bbd5f86
+ms.sourcegitcommit: fe0920740ef9f461b38cc20bac41192552466405
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693048"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "123088558"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Usługi platformy Azure dostępne w programie Azure Dostawca rozwiązań w chmurze (CSP)
 
@@ -29,7 +29,7 @@ W tym artykule wymieniono usługi platformy Azure, które są i nie są dostępn
 
 ## <a name="global-cloud"></a>Chmura globalna
 
-Wszystkie usługi oparte na modelu Azure Resource Manager są dostępne w programie CSP.  Usługi inne Azure Resource Manager nie są dostępne w programie CSP.  
+Wszystkie usługi oparte na Azure Resource Manager są dostępne w programie CSP.  Usługi inne Azure Resource Manager, takie jak usługi klasycznego modelu wdrażania, nie są dostępne w programie CSP.  
 
 ## <a name="csp-specific-service-configurations"></a>CSP-Specific konfiguracji usługi
 
@@ -41,7 +41,9 @@ Następujące usługi wymagają specjalnych konfiguracji w programie CSP:
 
 - [Usługa Key Vault](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
-- [Azure Time Series Szczegółowe informacje](https://azure.microsoft.com/services/time-series-insights/) Tylko użytkownicy z dzierżawy klienta mogą uzyskać dostęp do danych w ich środowisku Szczegółowe informacje Time Series. Partnerzy mogą domyślnie zarządzać środowiskiem usługi Time Series Szczegółowe informacje, ale jeśli potrzebują dostępu do danych w tym środowisku, muszą zostać dodani do dzierżawy klienta.
+- [Azure Time Series Szczegółowe informacje](https://azure.microsoft.com/services/time-series-insights/) Tylko użytkownicy z dzierżawy klienta mogą uzyskać dostęp do danych w ich środowisku Szczegółowe informacje Time Series. Partnerzy mogą domyślnie zarządzać środowiskiem usługi Time Series Szczegółowe informacje swoich klientów, ale jeśli potrzebują dostępu do danych w tym środowisku, muszą zostać dodani do dzierżawy klienta.
+
+- Certyfikaty zarządzania do uwierzytelniania bibliotek zestawu Azure SDK za pośrednictwem certyfikatu nie są obsługiwane w modelu dostawcy usług w chmurze.  Zamiast tego skorzystaj z uwierzytelniania jednostki usługi Azure AD i biblioteki Azure.Identity.  Odwołanie [do uwierzytelniania za pomocą zestawu Azure SDK dla platformy .NET](/dotnet/azure/sdk/authentication)
 
 ## <a name="visual-studio-marketplace"></a>Witryna Visual Studio Marketplace
 
@@ -51,9 +53,9 @@ Teraz możesz kupić elementy wymienione poniżej w witrynie Visual Studio Marke
 
 - [Subskrypcje programu Visual Studio](https://www.visualstudio.com/subscriptions/)
 
-- [Xamarin University trenowania](https://marketplace.visualstudio.com/items?itemName=ms.xamarin-university)
+- [Xamarin University szkoleniowe](https://marketplace.visualstudio.com/items?itemName=ms.xamarin-university)
 
-Aby ułatwić Ci pracę, utworzono filmy wideo i dokumentację na temat sposobu Azure DevOps i zarządzania nimi w [programie](/vsts/billing/csp/set-up-csp-customer) CSP.
+Aby ułatwić Ci pracę, utworzono filmy wideo i dokumentację na temat sposobu konfigurowanie i kupowanie aplikacji oraz zarządzania nimi [Azure DevOps](/vsts/billing/csp/set-up-csp-customer) programie CSP.
 
 ## <a name="azure-marketplace-items-in-azure-csp"></a>Elementy witryny Azure Marketplace w programie Azure CSP
 
@@ -63,13 +65,13 @@ Nie wszystkie Azure Marketplace są obecnie dostępne w Azure CSP subskrypcji.
 
 - Bring your own license (BYOL): te elementy są dostępne. Pełna lista elementów aplikacji z włączoną obsługą Azure Marketplace BYOL jest dostępna na stronie [Azure Marketplace BYOL.](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)
 
-- Elementy aplikacji innych firm z płatnością zgodnie z Azure Marketplace: te elementy są dostępne, jeśli dostawca opublikował je w kanale dostawcy usług w chmurze. Aby uzyskać więcej informacji, zobacz [Sell subscriptions to Azure Marketplace products](csp-commercial-marketplace-overview.md)(Sprzedaż subskrypcji Azure Marketplace produktów).
+- Elementy aplikacji innych firm z płatnością zgodnie z Azure Marketplace: te elementy są dostępne, jeśli dostawca został opublikowany w kanale CSP. Aby uzyskać więcej informacji, zobacz [Sell subscriptions to Azure Marketplace products](csp-commercial-marketplace-overview.md)(Sprzedaż subskrypcji Azure Marketplace produktów).
 
-- Citrix XenApp Essentials: Partnerzy mogą kupować XenApp Essentials dla klientów w programie CSP. Aby uzyskać więcej informacji, zobacz następujący blog Citrix — Dystrybucja XenApp Essentials [jest teraz dostępna za pośrednictwem Microsoft Cloud Solution Provider Channel.](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/)
+- Citrix XenApp Essentials: Partnerzy mogą zakupić XenApp Essentials dla klientów w programie CSP. Aby uzyskać więcej informacji, zobacz następujący blog Citrix — Dystrybucja XenApp Essentials [jest teraz dostępna za pośrednictwem Microsoft Cloud Solution Provider Channel.](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/)
 
 ## <a name="national-clouds"></a>Chmury narodowe
 
-W poniższej tabeli przedstawiono regularnie aktualizowaną listę dostępnych produktów, usług i funkcji platformy Azure dostępnych dla dostawcy CSP w chmurach krajowych.
+W poniższej tabeli przedstawiono regularnie aktualizowaną listę dostępnych produktów, usług i funkcji platformy Azure oferowanych przez dostawców rozwiązań w chmurze krajowej.
 
 | Produkt, usługa lub funkcja platformy Azure | US Government | Niemcy |
 | ------ | :-----------: | :-----------: |
@@ -184,4 +186,4 @@ W poniższej tabeli przedstawiono regularnie aktualizowaną listę dostępnych p
 
 - [Dowiedz się](/azure/cloud-solution-provider/overview/partner-center-overview) więcej o dostępnych możliwościach platformy Azure w Partner Center.
 
-- [Utwórz](/azure/cloud-solution-provider/customer-management/create-new-customer) pierwszego klienta w usłudze Azure CSP i wd wdrażaj usługi platformy Azure.
+- [Tworzenie](/azure/cloud-solution-provider/customer-management/create-new-customer) pierwszego klienta w Azure CSP i wdrażanie usług platformy Azure.
