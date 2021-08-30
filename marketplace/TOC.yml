@@ -28,13 +28,13 @@
       href: transfer-eligibility.md
     - name: Tworzenie prywatnej witryny Azure Marketplace i zarządzanie nią
       items:
-        - name: Widok Kolekcje
+        - name: Widok kolekcji
           href: create-manage-private-azure-marketplace-new.md
         - name: Starsza wersja
           href: create-manage-private-azure-marketplace.md
     - name: Zarządzanie prywatną witryną Azure Marketplace — PowerShell
       href: manage-private-azure-marketplace-powershell.md
-    - name: Rozszerzanie platformy Azure za pomocą rozwiązań partnerów
+    - name: Rozszerzanie platformy Azure o rozwiązania od partnerów
       href: /azure/partner-solutions/overview
 - name: Zasoby ogólne
   items:
@@ -42,6 +42,8 @@
       href: refund-policies.md
     - name: Umowy prawne
       href: legal-contracts.md
+    - name: Zmiana ceny po opublikowaniu
+      href: Price-change-post-publish.md
     - name: Uzyskiwanie pomocy technicznej
       href: get-support.md
 - name: Dokumentacja
