@@ -9,25 +9,25 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ac60847d3376724de031f5a1f50321d4273aff499a7b923b7e3bd39a0a700750
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 14901b47b7363b2d87861be43a7071d9f23545cc
+ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681913"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "123457926"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Zarządzanie produktami i ofertami na platformie handlowej dla klientów
 
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny
 
-Partnerzy w programie Dostawca rozwiązań w chmurze (CSP) mogą za pomocą portalu Partner Center zakupić wiele ofert lub subskrypcji SaaS isv SaaS dla swoich klientów na platformie handlowej. Po zakupie oferty możesz zarządzać jej różnymi sposobami.
+Partnerzy w programie Dostawca rozwiązań w chmurze (CSP) mogą za pomocą portalu Partner Center zakupić wiele ofert lub subskrypcji SaaS isv SaaS dla swoich klientów na platformie handlowej. Po zakupie oferty masz różne sposoby zarządzania jej.
 
 ## <a name="view-or-edit-a-subscription"></a>Wyświetlanie lub edytowanie subskrypcji
 
 Po zakupie subskrypcji od zewnętrznego wydawcy isv publisher możesz przejrzeć lub edytować ją w następujący sposób:
 
-1. Zaloguj się do Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard)a następnie wybierz pozycję **Klienci** z menu nawigacji po lewej stronie.
+1. Zaloguj się do pulpitu Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard)a następnie wybierz **pozycję Klienci** z menu nawigacji po lewej stronie.
 
 2. Wybierz odpowiedniego klienta, a następnie wybierz **pozycję Subskrypcje.** Zawiera listę wszystkich subskrypcji opartych na licencjach zakupionych dla klienta.
 
@@ -56,11 +56,11 @@ Wydawca powinien dostarczyć spersonalizowany link i kod autoryzacji, który ide
 
 1. Możesz znaleźć ten spersonalizowany link od wydawcy isv na kilka sposobów:
 
-   - Link jest widoczny na stronie potwierdzenia po zakupie oferty SaaS dostawcy oprogramowania isv. Aby znaleźć ten link na stronie, poszukaj i wybierz **pozycję Przejdź do witryny wydawcy.**
+   - Link jest widoczny na stronie potwierdzenia, która jest wyświetlana po zakupie oferty SaaS dostawcy oprogramowania isv. Aby znaleźć ten link na stronie, poszukaj i wybierz **pozycję Przejdź do witryny wydawcy.**
 
    - Link jest wyświetlony na stronie Subskrypcje określonego klienta. Ten link wydawcy jest wyświetlany w wierszu skojarzonym z ofertą lub subskrypcją zakupioną dla klienta przez isvv.
 
-   - Link możesz [pobrać przy użyciu interfejsów API Partner Center .](/partner-center/develop/get-activation-link-by-order-line-item)
+   - Link możesz [pobrać przy użyciu Partner Center API.](/partner-center/develop/get-activation-link-by-order-line-item)
 
    > [!NOTE]
    > Aby to zrobić w imieniu klienta, może być konieczne skopiowanie spersonalizowanego linku, wklejenie go w prywatnej przeglądarce i wprowadzenie poświadczeń klienta.
@@ -79,21 +79,17 @@ Wydawca powinien dostarczyć spersonalizowany link i kod autoryzacji, który ide
 
     - Wydawca ISV potwierdza firmie Microsoft (za pośrednictwem oddzielnego interfejsu API realizacji SaaS), że konfiguracja konta została pomyślnie ukończona
 
-## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>Anulowanie subskrypcji SaaS opartej na licencji od wydawcy isv
+## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>Anulowanie subskrypcji SaaS opartej na licencji od wydawcy isv publisher
 
 W przypadku subskrybowania opartego na licencji produktu SaaS oferowanego przez wydawcę ISV na platformie handlowej można anulować subskrypcję w wyznaczonym okresie anulowania. Ten okres anulowania zmienia się w zależności od tego, czy masz subskrypcję miesięczną, czy roczną. Możesz również wybrać, czy subskrypcja ma być odnawiana automatycznie.
 
-Aby uzyskać więcej informacji na temat okresów anulowania, które mają zastosowanie, sposobu anulowania lub automatycznego odnawiania subskrypcji, zobacz:
-
-- [Anulowanie subskrypcji](create-a-new-subscription.md#cancel-a-subscription)
-
-- [Automatyczne odnawianie subskrypcji platformy handlowej](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
+Aby uzyskać więcej informacji na temat okresów anulowania, które mają zastosowanie, sposobu anulowania lub automatycznego odnawiania subskrypcji, zobacz [Anulowanie subskrypcji](create-a-new-subscription.md#cancel-a-subscription).
 
 ## <a name="add-or-remove-licenses-for-a-saas-subscription"></a>Dodawanie lub usuwanie licencji dla subskrypcji SaaS
 
 W przypadku ofert platformy handlowej SaaS można dodawać lub usuwać licencje użytkowników dla subskrypcji klienta.
 
-1. Zaloguj się do Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard)a następnie wybierz pozycję **Klienci** z menu nawigacji po lewej stronie.
+1. Zaloguj się do pulpitu Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard)a następnie wybierz **pozycję Klienci** z menu nawigacji po lewej stronie.
 
 2. Wybierz odpowiedniego klienta, a następnie wybierz **pozycję Subskrypcje.** Zawiera listę wszystkich subskrypcji opartych na licencjach zakupionych dla klienta.
 
@@ -105,7 +101,7 @@ W przypadku ofert platformy handlowej SaaS można dodawać lub usuwać licencje 
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>Zarządzanie subskrypcjami przy użyciu Partner Center API
 
-Za pomocą interfejsów API Partner Center do zarządzania cyklem życia i zarządzania fakturami dla subskrypcji. Aby uzyskać więcej informacji, zobacz [Tworzenie subskrypcji dla produktów platformy handlowej](/partner-center/develop/create-subscription-azure-marketplace-products).
+Za pomocą interfejsów API Partner Center do zarządzania cyklem życia i zarządzania fakturami dla subskrypcji. Aby uzyskać więcej informacji, [zobacz Tworzenie subskrypcji dla produktów platformy handlowej](/partner-center/develop/create-subscription-azure-marketplace-products).
 
 ## <a name="next-steps"></a>Następne kroki
 
