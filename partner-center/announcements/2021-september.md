@@ -10,17 +10,73 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 09/03/2021
-ms.openlocfilehash: 1f28e68d268aaf02a3e2350047b214c777b0d878
-ms.sourcegitcommit: 24b7e65548b5a9c37e782895d41383e9c018f5b7
+ms.date: 09/06/2021
+ms.openlocfilehash: 592b802c20fc3918731e4655fe4c0a0dba6531fc
+ms.sourcegitcommit: 61a4425aad9985e3ff0aa567bbebb1ab75f50f51
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/07/2021
-ms.locfileid: "123501540"
+ms.locfileid: "123557432"
 ---
 # <a name="september-2021-announcements"></a>Ogłoszenia z września 2021 r.
 
 Ta strona zawiera ogłoszenia dotyczące usługi Microsoft Partner Center na wrzesień 2021 r.
+
+________________
+## <a name="readiness-dual-mode-attestation-and-additional-reseller-declaration"></a><a name="7"></a>Gotowość: zaświadczenia w trybie podwójnym i dodatkowa deklaracja odsprzedawcy
+
+### <a name="summary"></a>Podsumowanie
+
+Aby pomóc partnerom i klientom w prowadzenia działalności w oparciu o zaufanie, wymagamy od partnerów potwierdzania, że działają jako bezpośredni lub pośredni partnerzy, używając tego samego identyfikatora dzierżawy na transakcję.
+
+Żądamy również od wszystkich partnerów transakcyjnych w krajach UNII/DSW zadeklarowania dodatkowych odsprzedawców (maksymalnie 5) zaangażowanych w transakcję.
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-09-07
+- Gotowość pilotażowa do startu rakiety w grudniu
+
+### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+
+Partnerzy rozliczani bezpośrednio i dostawcy pośredni dostawcy CSP, którzy są partnerami bezpośrednimi i pośrednimi
+
+Transakcje partnerów pośrednich w krajach UNII/DSW
+
+### <a name="details"></a>Szczegóły
+
+Firma Microsoft działa w oparciu o zaufanie. Dokładamy starań, aby zapewnić zgodną, bezpieczną i bezpieczną metodę transakcji subskrypcji klientów w programie CSP.
+
+Od 7 września 2021 r. będziemy otwierać pilotaż dla partnerów, aby umożliwić partnerom testowanie pod względem nowych wymagań dotyczących zaświadczenia oraz dodatkowych odsprzedawców (tylko w Unii Europejskiej/NAC) występujących w interfejsach API tworzenia koszyka, aktualizowania koszyka i tworzenia zamówienia. Należy pamiętać, że te zmiany przerwą istniejące środowisko dla tych interfejsów API. Dlatego zdecydowanie zaleca się, aby partnerzy mogli wziąć udział w pilotażu przed pełnym startem w grudniu.
+
+Będzie to miało wpływ na następujące interfejsy API, a szczegóły zostaną udostępnione i odpowiednio zaktualizowane:
+
+- [Tworzenie zamówienia klienta — Partner Center deweloper aplikacji](/partner-center/develop/create-an-order)
+- [Tworzenie koszyka — Partner Center deweloper aplikacji](/partner-center/develop/create-a-cart)
+- [Aktualizowanie koszyka — Partner Center deweloper aplikacji](/partner-center/develop/update-a-cart)
+
+Dodatkowi odsprzedawcy będą mieć wpływ na transakcje partnerów w następujących krajach UNII Europejskiej/DSM:
+
+| Kraje Unii Europejskiej/DSW | | |
+| ----- |----- | ----- |
+| Andora | Grecja | Norwegia |
+| Austria | Grenlandia | Polska |
+| Belgia | Guernsey | Portugalia |
+| Wyspa Bouveta | See (Obejmuje Miasto IoT) | Rumunia |
+| Bułgaria | Węgry | San Marino |
+| Chorwacja | Islandia | Słowacja |
+| Cypr | Irlandia | Słowenia |
+| Czechy | Wyspa Man | Hiszpania |
+| Dania | Włochy | Svalbard i Jan Mayen |
+| Estonia | Jersey | Szwecja |
+| Wyspy Owcze | Łotwa | Szwajcaria |
+| Finlandia | Liechtenstein | Norwegia |
+| Francja | Litwa | Polska |
+| Niemcy | Luksemburg | Portugalia |
+| Gibraltar | Malta | Rumunia |
+| Monako | San Marino | Holandia |
+| Słowacja | Zjednoczone Królestwo: TBD |
+
+Aby wziąć udział w pilotażu, skontaktuj się z ekspertem w swojej dziedzinie (Ali Ichki) i podaj identyfikator dzierżawy partnera, aby mógł zostać dodany do lotu.
 
 ________________
 ## <a name="perpetual-software-and-software-subscriptions-price-lists-republished-to-fix-price-increases-in-russia"></a><a name="6"></a>Cenniki bezterminowych subskrypcji oprogramowania i oprogramowania zostały ponownie opublikowane w celu naprawienia wzrostu cen w Rosyjskim
@@ -65,17 +121,17 @@ Cennik z września i październikowa wersja zapoznawcza zawierały niepoprawną 
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
-Dostawcy pośredni i partnerzy rozliczający się bezpośrednio w ramach programu licencjonowania mogą Dostawca rozwiązań w chmurze usługami.
+Dostawcy pośredni i partnerzy rozliczający się bezpośrednio w ramach programu licencjonowania Dostawca rozwiązań w chmurze usługami.
 
 ### <a name="details"></a>Szczegóły
 
-Cennik usług opartych na licencjach z września i października opublikowany 1 września 2021 r. miał niepoprawną cenę Microsoft 365 Business Basic. Poprawione cenniki zostały opublikowane 2 września 2021 r. Ma to wpływ tylko na USD.
+Cennik z września i październikowa wersja zapoznawcza usług opartych na licencjach opublikowany 1 września 2021 r. miał niepoprawną cenę Microsoft 365 Business Basic. Poprawione cenniki zostały opublikowane 2 września 2021 r. Ma to wpływ tylko na USD.
 
 Oferta, na która ma to wpływ, obejmuje:
 
 - Nazwa oferty: Microsoft 365 Business Basic
 - Identyfikator oferty: bd938f12-058f-4927-bba3-ae36b1d2501c
-- Przed: Cennik = 2
+- Przed: List Price = 2
 - Po: Cena cenowa = 4
 
 ### <a name="next-steps"></a>Następne kroki
@@ -94,13 +150,13 @@ ________________
 
 Ogłaszamy nową ofertę usługi Intune dla każdego urządzenia, która będzie dostępna od 1 września.
 
-### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
 
 Partnerzy w ramach programu Dostawca rozwiązań w chmurze (CSP).
 
 ### <a name="details"></a>Szczegóły
 
-Microsoft Intune to najbardziej kompleksowa ujednolicona platforma zarządzania punktami końcowymi do zarządzania fizycznymi i wirtualnymi punktami końcowymi w organizacji oraz ich zabezpieczania. Ogłaszamy nową ofertę usługi Intune dla każdego urządzenia, która ma pomóc organizacjom Enterprise zarządzać urządzeniami przypisanymi do uwierzytelnionego użytkownika (tj. nie jest używana przez wielu uwierzytelnionych użytkowników).
+Microsoft Intune to najbardziej kompleksowa, ujednolicona platforma zarządzania punktami końcowymi do zarządzania fizycznymi i wirtualnymi punktami końcowymi w organizacji oraz ich zabezpieczania. Ogłaszamy nową ofertę usługi Intune dla każdego urządzenia, która ma pomóc organizacjom usługi Enterprise zarządzać urządzeniami przypisanymi do uwierzytelnionego użytkownika (tj. nie jest używana przez wielu uwierzytelnionych użytkowników).
 
 Ta oferta, dostępna 1 września 2021 r., korzysta z usługi Intune na urządzenie podczas dodawania Azure Active Directory (Azure AD). Jest to w pełni funkcjonalne, od zerowe środowisko, które obejmuje następujące plany usług:
 
@@ -108,12 +164,12 @@ Ta oferta, dostępna 1 września 2021 r., korzysta z usługi Intune na urządzen
 - Microsoft Intune
 - Azure Active Directory for Education.
 
-Na podstawie opinii naszych partnerów firmy Microsoft utworzono usługę Intune na urządzenie dla usługi Enterprise, która zostanie uwzględniona w sprzedaży per-device (urządzenie + Windows + Intune) jako pięcioroczna oferta, która będzie obejmować okres eksploatacji urządzenia. Ta nowa oferta pomoże CSP uprościć struktury transakcji i zaoferować klientom bardziej konkurencyjną ofertę.
+Na podstawie opinii naszych partnerów firmy Microsoft utworzono usługę Intune na urządzenie dla usługi Enterprise, która ma zostać uwzględniona w sprzedaży per-device (device + Windows + Intune) jako pięcioroczna oferta, która będzie obejmować okres eksploatacji urządzenia. Ta nowa oferta pomoże CSP uprościć struktury transakcji i zaoferować klientom bardziej konkurencyjną ofertę.
 
 Elementy, które należy zwrócić uwagę na nową ofertę usługi Intune na urządzenie:
 
-- Jest to oferta usługi SaaS Enterprise nie jest przeznaczona dla małych i & średnich firm (SMB).
-- Jest ona dostępna tylko dla CSP i nie jest dostępna w licencjonowaniu zbiorowem ani w bezpośredniej sieci Web.
+- Jest to oferta usługi SaaS Enterprise nie jest przeznaczona dla klientów małych i & średnich firm (SMB).
+- Jest ona dostępna tylko dla CSP i nie jest dostępna w licencjonowaniu zbiorowem ani w sieci Web Direct.
 - Koszt wynosi 150 USD/ERP w przypadku subskrypcji 5-letniego. 
 - Identyfikator oferty: 5170ccfb-e95b-49a4-b7f3-31f631a356ba
 - Będzie ona działać od teraz w przypadku urządzeń Windows przypisanych do jednego uwierzytelnionego użytkownika.
@@ -135,7 +191,7 @@ W związku z ujawnieniem z 19 sierpnia 2021 r. firma Microsoft ma kluczowe aktua
 - Data: 2021-09-01
 - Możliwości
 
-### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
 
 Partnerzy rozliczani bezpośrednio w programie CSP i dostawcy pośredni oraz odsprzedawcy za pośrednictwem swoich dostawców pośrednich
 
@@ -177,9 +233,9 @@ Tabela zawiera podsumowanie najważniejszych funkcji dostępnych w zintegrowanym
 | Wymuszanie zasad anulowania: 30-dniowy blok anuluje się po 30 dniach (zostanie on zmieniany po ogólnej dostępności na 72 godziny) |  |
 |
 
-#### <a name="reminder-for-upcoming-csp-qa-calls-in-september"></a>Przypomnienie dotyczące nadchodzących wywołań A&CSP Q we wrześniu
+#### <a name="reminder-for-upcoming-csp-qa-calls-in-september"></a>Przypomnienie dotyczące nadchodzących wywołań CSP Q&A we wrześniu
 
-Zarejestruj się, aby 15 i 16 września 2021 r. zadawać pytania dotyczące nowego doświadczenia handlowego w usługach Microsoft 365 [Community,](https://globalpbocomm.eventbuilder.com/GlobalCSP) Dynamics 365, Power Platform i Windows 365, aby poznać nowe środowisko handlowe dla usług Microsoft 365, Dynamics 365, Power Platform i Windows 365— oferty miejscowe na wiele miejsc.& Wywołania CSP Community Q&A mają na celu pomoc partnerom bezpośrednim i partnerom WSP w pytaniach dotyczących startów programu CSP i nadchodzących zmian. Dla Twojej wygody kolekcje społeczności są udostępniane [](https://partner.microsoft.com/resources/assets/#/?prog=CSP%7CCSP-Direct%7CCSP-Indirect-Partner&type=collection&search=community%20collection%202021&sort=updated) z wyprzedzeniem w galerii gotowości partnerów, w której można przejrzeć materiały, które zostaną omówione w wywołaniu Q&A.
+Zarejestruj się, aby 15 i 16 września [Community 2016](https://globalpbocomm.eventbuilder.com/GlobalCSP) r. zadawać pytania dotyczące nowego doświadczenia handlowego w usługach Microsoft 365, Dynamics 365, Power Platform i Windows 365, aby poznać nowe środowisko handlowe dla usług Microsoft 365, Dynamics 365, Power Platform i Windows 365 — oferty dotyczące miejsc oparte na ruchach przychodzących w październiku 2021 r.& Wywołania CSP Community Q&A mają na celu pomoc partnerom bezpośrednim i partnerom WSP w pytaniach dotyczących startów programu CSP i nadchodzących zmian. Dla Twojej wygody kolekcje społeczności są udostępniane [](https://partner.microsoft.com/resources/assets/#/?prog=CSP%7CCSP-Direct%7CCSP-Indirect-Partner&type=collection&search=community%20collection%202021&sort=updated) wcześniej w galerii gotowości partnerów, w której można przejrzeć materiały, które zostaną omówione w wywołaniu Q&A.
 
 Jeśli chcesz wziąć udział i/lub znaleźć poprzednie nagrania rozmów z podstawami CSP, zapoznaj się z rejestracją w portalu [CSP fundamentals (Podstawy CSP).](https://globalpbocomm.eventbuilder.com/CSPFundamentals)
 
@@ -187,9 +243,9 @@ Jeśli chcesz wziąć udział i/lub znaleźć poprzednie nagrania rozmów z pods
 
 1 września 2021 r. firma Microsoft powiadomiła partnerów o kolejnych krokach ewolucji programu zachęt dla partnerów, który będzie dostępny w październiku. Dwoma podstawowymi składnikami tej komunikacji będą przewodniki dotyczące zachęt FY22 i informacje na temat ulepszonego doświadczenia w zakresie zachęt opracowywanego w ramach Partner Center.
 
-- **Ulepszone środowisko partnerów**  W celu nakierowania na wczesny październik dostępności dla partnerów firma Microsoft inwestuje w jedną platformę zaangażowania i działań w ramach usługi Partner Center, która będzie scentralizowanym miejscem docelowym dla partnerów, którzy będą zdobywać zachęty w przypadku zakupu ruchu i etapów cyklu życia klienta.
+- **Ulepszone środowisko partnerów**  W celu nakierowania na wczesny październik dostępności dla partnerów firma Microsoft inwestuje w jedną platformę zaangażowania i działań w ramach usługi Partner Center, która będzie scentralizowaną lokalizacją docelową dla partnerów, którzy będą zdobywać zachęty w ramach zakupów i etapów cyklu życia klienta.
 
-- **Nowe podejście do zachęt**  Nowe oferty zachęt i inwestycji będą nadal dodawane do Microsoft Commerce Incentives programu. W celu uproszczenia obsługi partnerów firma Microsoft konsoliduje przewodniki programu zachęt w jeden dokument hostowany w Partner Center.
+- **Nowe podejście do zachęt**  Nowe oferty zachęt i inwestycji będą nadal dodawane do Microsoft Commerce Incentives programie. W celu uproszczenia obsługi partnerów firma Microsoft konsoliduje przewodniki programu zachęt w jeden dokument hostowany w Partner Center.
 
 ### <a name="next-steps"></a>Następne kroki
 
