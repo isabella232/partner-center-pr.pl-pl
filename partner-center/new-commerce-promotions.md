@@ -10,11 +10,11 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: abb1bc79bc3a67ccb9f3d067f6eeb8cb22a6b3f5
-ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "123458294"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959738"
 ---
 # <a name="introduction-new-commerce-promotions"></a>Wprowadzenie: Nowe promocje handlowe
 
@@ -31,36 +31,36 @@ Firma Microsoft będzie obsługiwać promocje w nowym handlu. Te promocje będą
 
 ## <a name="discovering-promotions"></a>Odkrywanie promocji ##
 
-Partnerzy mogą odkrywać promocje, odwiedzając zaległość promocji lub wywołując interfejs API getPromotions. Lista prac dotyczących promocji to lista dostępnych promocji firmy Microsoft, o których partnerzy muszą wiedzieć. Lista jest aktualizowana co miesiąc i aktualizowana w sposób redakcyjny. 
+Partnerzy mogą odkrywać promocje, odwiedzając zaległość promocji lub wywołując interfejs API getPromotions. Lista prac dotyczących promocji to lista dostępnych promocji firmy Microsoft, o których partnerzy muszą wiedzieć. Lista jest stale utrzymywana i aktualizowana co miesiąc. 
 
 
 ## <a name="operationalize-promotions"></a>Operationalize promotions (Z operationalize promotions) ##
 
-Partnerzy mogą zrealizować działania związane z promocjami, wdrażając interfejs API getPromotions. Ten interfejs API zwraca wszystkie promocje, które istnieją dla danego rynku (kraju klienta) i segmentu. Interfejs API zwraca listę promocji i ważnych informacji, aby pomóc partnerowi zrozumieć, które promocje są dostępne dla klientów w różnych krajach. 
+Partnerzy mogą zrealizować promocje, wdrażając interfejs API getPromotions. Ten interfejs API zwraca wszystkie promocje istniejące dla danego rynku (kraju klienta) i segmentu. Interfejs API zwraca listę promocji i ważnych informacji, aby pomóc partnerowi zrozumieć, które promocje są dostępne dla klientów w różnych krajach. 
 
 
-Interfejs API getPromotions zawiera następujące dane dla danej promocji:
+Interfejs API getPromotions zawiera następujące dane dotyczące danego poziomu:
 
 - Czas trwania promocji
-- Procent rabatu na promocję
+- Rabat procentowy dla promocji
 - Produkty i jednostki SKU, dla których jest dostępna promocja
 
-Promocje są stosowane przez Centrum partnerskie, gdy partner kupi dla produktu SKU, dla których jest dostępna. Promocje dla partnerów są dostępne w interfejsie użytkownika katalogu centrum partnerskiego w szczegółach sku produktu. Mogą oni kliknąć pozycję "Wyświetl szczegóły promocji", aby uzyskać więcej informacji o promocji. Dostęp do szczegółów promocji można wyświetlić ze szczegółowych informacji o wersji SKU widoku strony katalogu, strony przeglądu przed przesłaniem zakupu, potwierdzenia po przesłaniu zamówienia oraz strony historii zamówień. 
+Promocje są stosowane przez centrum partnerskie, gdy partner kupi dla produktu sku produktu, dla których jest dostępna. Promocje dla partnerów są dostępne w interfejsie użytkownika katalogu centrum partnerskiego w szczegółach dotyczących wersji SKU produktu. Mogą oni kliknąć pozycję "Wyświetl szczegóły promocji", aby uzyskać więcej informacji o promocji. Do wyświetlania szczegółów promocji można uzyskać dostęp z widoku sku strony katalogu, strony przeglądu przed przesłaniem zakupu, potwierdzenia po przesłaniu zamówienia oraz strony historii zamówienia. 
 
 
 ## <a name="verify-eligibility"></a>Weryfikowanie uprawnień ##
 
-Partnerzy mogą sprawdzić, czy zakup klienta kwalifikuje się do promocji, wyświetlając informacje na stronie przeglądu w Centrum partnerskim przed zakupem produktu. Partnerzy mogą również wywołać interfejs API verifyPromotionEligibility, przekazując identyfikator dzierżawy klienta i identyfikator promocji. Wywołanie zwraca wartość true, jeśli klient jest uprawniony. Jeśli klient nie kwalifikuje się, interfejs API zwraca warunki, które nie zostały spełnione, aby można było skorzystać z promocji. 
+Partnerzy mogą sprawdzić, czy zakup klienta kwalifikuje się do promocji, wyświetlając informacje na stronie przeglądu w Centrum partnerskim przed zakupem produktu. Partnerzy mogą również wywołać interfejs API verifyPromotionEligibility ,przekazując identyfikator dzierżawy klienta i identyfikator promocji. Wywołanie zwraca wartość true, jeśli klient jest uprawniony. Jeśli klient nie kwalifikuje się, interfejs API zwraca warunki, które nie zostały spełnione, aby można było skorzystać z promocji. 
 
 
 
 ## <a name="promotions-and-renewals"></a>Promocje i odnowienia ##
 
-Rabaty promocyjny stosowane w okresie zakupu. Subskrypcje z zastosowanymi promocjami zachowają cenę promocyjnyą, jeśli data odnowienia znajduje się w zakresie dat trwania promocji. Odnowienia poza zakresem dat trwania promocji zostaną odnowione na cenę bez podwyżsenia ceny (z cennika). Partnerzy mogą śledzić stan odnowienia do punktów cenowych na stronie szczegółów subskrypcji i w instrukcjach dotyczących odnawiania danych subskrypcji.
+Rabaty promocyjny po zastosowaniu są stosowane na okres zakupu. Subskrypcje z zastosowanymi promocjami zachowają cenę promocyjnyą, jeśli data odnowienia znajduje się w zakresie dat trwania promocji. Odnowienia poza zakresem dat trwania promocji zostaną odnowione na cenę bez podwyżsenia ceny (z cennika). Partnerzy mogą śledzić stan odnowienia do punktów cenowych na stronie szczegółów subskrypcji i w instrukcjach odnawiania danych subskrypcji getSubscription.
 
 
 ## <a name="promotions-and-upgrades"></a>Promocje i uaktualnienia ##
-Partnerzy, którzy uaktualniają subskrypcję do innej wersji SKU, pozostawią cenę za podwyżsenie. Ta akcja występuje, ponieważ podwyżsenie zostało skonfigurowane dla opuszczanych przez siebie SKU podczas uaktualniania do innej wersji SKU. Partnerzy, którzy przesuną się do wersji SKU, która może otrzymać podwyższenie, nie otrzymają automatycznie ceny promocji. Jeśli potrzebują lub chcą uzyskać cenę za podwyżkę dla sku, do której chcą przejść, muszą ręcznie zakupić nową subskrypcję jako nową subskrypcję. Obecnie promocje są stosowane tylko do nowych zakupów i odnawiania subskrypcji.
+Partnerzy, którzy uaktualnią subskrypcję do innej wersji SKU, pozostawią cenę za podwyżsenie ceny. Ta akcja występuje, ponieważ podwyżsenie zostało skonfigurowane dla opuszczonej przez siebie wersji SKU podczas uaktualniania do innej wersji SKU. Partnerzy, którzy przejdą do wersji SKU, która może podwyższyć swój koszt, nie otrzymają automatycznie ceny promocji. Jeśli potrzebują lub chcą uzyskać cenę za podwyżkę dla tej, do której chcą przejść, muszą ręcznie zakupić nową subskrypcję jako nową subskrypcję. Obecnie promocje są stosowane tylko w przypadku nowych zakupów i odnowień subskrypcji.
 
 
 

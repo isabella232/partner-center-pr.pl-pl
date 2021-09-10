@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 05/04/2021
-ms.openlocfilehash: 29737d4b7966a5c2fd683b424228888ac373a5bf2635d5750e131f655187b522
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 6fdbbf9ad2b31e2b61eec20193717f60dd8e199a
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115689013"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123936968"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Azure Marketplace rozliczeń i fakturowania
 
@@ -60,7 +60,7 @@ Po otrzymaniu faktury mogą być różne:
 - Jeśli instrument płatniczy jest kartą kredytową, faktura zostanie wystawowana natychmiast po zakupie rezerwacji. Ta faktura będzie oddzielona od faktury miesięcznej.
 - Jeśli instrument płatniczy to czek/przelew, ten zakup zostanie uwzględniony na miesięcznej fakturze za platformę Marketplace.
 
-Faktury są tworzone dla kont rozliczeniowych programu Microsoft Online Service Program (MOSP), Umowy z Klientem Microsoft (MCA) i umowy Microsoft Partner Agreement (MPA). Faktury są generowane na podstawie typu konta rozliczeniowego. Azure Marketplace rozliczeniowe są naliczane kilka dni po zakończeniu okresu rozliczeniowego. Faktura dla maszyn Azure Marketplace, rezerwacji i maszyn wirtualnych punktowych jest generowana około dziewiątego dnia [miesiąca.](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts) Pokazuje odpowiednie opłaty z poprzedniego miesiąca. Jeśli na przykład użytkownik zakupił rezerwację 1 marca, a inna rezerwacja 30 marca, jedna faktura w kwietniu obejmuje obie rezerwacje.
+Faktury są tworzone dla kont rozliczeniowych programu Microsoft Online Service Program (MOSP), Umowy z Klientem Microsoft (MCA) i umowy Microsoft Partner Agreement (MPA). Faktury są generowane na podstawie typu konta rozliczeniowego. Azure Marketplace rozliczeniowe są naliczane kilka dni po zakończeniu okresu rozliczeniowego. Faktura dla maszyn Azure Marketplace, rezerwacji i maszyn wirtualnych punktowych jest generowana około dziewiątego dnia [miesiąca.](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts) Zawiera odpowiednie opłaty z poprzedniego miesiąca. Jeśli na przykład użytkownik zakupił rezerwację 1 marca, a inna rezerwacja 30 marca, jedna faktura w kwietniu obejmuje obie rezerwacje.
 
 Aby uzyskać więcej informacji na temat faktur, zobacz Understand your Azure external service charges (Informacje [o opłatach za usługi zewnętrzne platformy Azure).](/azure/cost-management-billing/understand/understand-azure-marketplace-charges)
 

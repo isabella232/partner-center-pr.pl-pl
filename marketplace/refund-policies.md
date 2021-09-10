@@ -6,12 +6,12 @@ ms.topic: article
 author: jeweber
 ms.author: jeweber
 ms.date: 06/02/2021
-ms.openlocfilehash: 76aeefe324edba06b71cf41cfb25be805b356cc63de0377ba246b50d05187998
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 37be38030ece0b78629fe1ebbb77c41f2cbcb8fb
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688306"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123936983"
 ---
 # <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Zasady zwrotu kosztów Microsoft AppSource i Azure Marketplace
 
@@ -25,7 +25,7 @@ Zwroty nie są wystawiane dla opłat zmiennych. Na przykład jeśli oferta SaaS 
 
 ## <a name="office-add-ins"></a>Dodatki pakietu Office
 
-W przypadku zakupu Office dodatku kwalifikujesz się do pełnego zwrotu, jeśli anulujesz subskrypcję w ciągu jednego dnia od zakupu lub odnowienia. Jeśli anulujesz subskrypcję po jednym dniu od zakupu, kwalifikujesz się do częściowego zwrotu na podstawie pozostałej części oferty. Jeśli zmodyfikujesz subskrypcję, możesz kwalifikować się do częściowego zwrotu na podstawie pozostałej części okresu subskrypcji.
+Jeśli zakupisz Office, kwalifikujesz się do pełnego zwrotu, jeśli anulujesz subskrypcję w ciągu jednego dnia od zakupu lub odnowienia. Jeśli anulujesz subskrypcję po jednym dniu od zakupu, kwalifikujesz się do częściowego zwrotu na podstawie pozostałej części oferty. Jeśli zmodyfikujesz subskrypcję, możesz kwalifikować się do częściowego zwrotu na podstawie pozostałej części okresu subskrypcji.
 
 ## <a name="azure-developer-services"></a>Usługi dla deweloperów platformy Azure
 
@@ -45,7 +45,7 @@ W przypadku przeniesienia lub zmodyfikowania planu pomocy technicznej platformy 
 
 ## <a name="azure-databricks"></a>Azure Databricks
 
-Jeśli usuniesz zasób Azure Databricks, kwalifikujesz się do częściowego zwrotu na podstawie pozostałych określonych jednostek okresu. Aby dowiedzieć się więcej na temat Azure Databricks, zobacz [Azure Databricks dokumentacji](/azure/databricks).
+Jeśli usuniesz zasób Azure Databricks, kwalifikujesz się do częściowego zwrotu na podstawie pozostałych określonych jednostek okresu. Aby dowiedzieć się więcej na temat Azure Databricks, zobacz [dokumentację Azure Databricks .](/azure/databricks)
 
 ## <a name="monetary-commitment"></a>Zobowiązanie pieniężne
 

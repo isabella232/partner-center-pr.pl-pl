@@ -8,12 +8,12 @@ description: Sprawdź, co robisz dobrze i gdzie możesz ulepszyć użycie subskr
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 7476106e92334000c59e566758bb2bd1f1dd415f6142f07e458b2aa9f5c62b41
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: ecc4edbd509557da1314eb7e54fcc013e41682a7
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690689"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959613"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Raport użycia usługi Dynamics dostępny na pulpicie Partner Center Szczegółowe informacje nawigacyjnym
 
@@ -54,7 +54,7 @@ Sekcja podsumowania przedstawia widok migawki kluczowych wskaźników związanyc
 
 ## <a name="dynamics-usage-by-geography"></a>Użycie usługi Dynamics według lokalizacji geograficznej
 
-Użycie **usługi Dynamics według lokalizacji geograficznej** przedstawia rozkład dostępnych stanowisk i aktywnych stanowisk według kraju klienta. Jaśniejsze kolory na mapie reprezentują niższe wartości, a ciemniejsze reprezentują wyższe wartości. Możesz wyszukać i wybrać kraj w siatce. Możesz również powiększyć widok, aby uzyskać bliższy wygląd.
+Użycie **usługi Dynamics według lokalizacji geograficznej** przedstawia rozkład dostępnych stanowisk i aktywnych stanowisk według kraju klienta. Jaśniejsze kolory na mapie reprezentują niższe wartości, a ciemniejsze kolory reprezentują wyższe wartości. Możesz wyszukać i wybrać kraj w siatce. Możesz również powiększyć widok, aby uzyskać bliższy wygląd.
 
 Tabela **Liczba krajów/regionów** przedstawia łączną liczbę krajów/regionów, w których są generowane zdarzenia użycia platformy Azure.
 

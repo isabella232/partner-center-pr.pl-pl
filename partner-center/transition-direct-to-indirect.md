@@ -4,31 +4,31 @@ ms.topic: how-to
 ms.date: 07/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-description: Dowiedz się, jak Dostawca rozwiązań w chmurze programu (CSP) może użyć Partner Center, aby przejść z partnera z rozliczeniami bezpośrednimi do odsprzedawcy pośredniego.
+description: Dowiedz się, jak Dostawca rozwiązań w chmurze programu (CSP) może Partner Center, aby przejść z partnera z rozliczeniami bezpośrednimi do odsprzedawcy pośredniego.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d3b7983a46ba81c7122057ed07fa9ebe7303237271776944121deea0c7e28862
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 17f0a23814213805d239d887719c5c3885234390
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687189"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958822"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Zmiana z partnera z rozliczaniem bezpośrednim w programie Cloud Solution Provider (CSP) na odsprzedawcę pośredniego w programie CSP
 
 **Odpowiednie role:** Administrator globalny
 
 > [!NOTE]
-> Ten artykuł jest przeznaczony dla partnerów rozliczanych bezpośrednio, którzy zdecydowali się przejść na odsprzedawców pośrednich. Jednak nawet jeśli użytkownik nie podjął jeszcze jawnej decyzji o zarejestrowaniu się jako [](direct-partner-new-requirements.md) odsprzedawca pośredni, bezpośredni partnerzy rozliczani, którzy nie spełniają nowych wymagań programu dla partnera rozliczanego bezpośrednio w programie CSP, zostaną poinformowani przez firmę Microsoft, gdy ich możliwości dotyczące bezpośredniego rachunku będą [ograniczone.](restricted-direct-bill-capabilities.md)
+> Ten artykuł jest przeznaczony dla partnerów rozliczanych bezpośrednio, którzy zdecydowali się przejść na odsprzedawców pośrednich. Jednak nawet jeśli użytkownik nie podjął jeszcze jawnej decyzji o zarejestrowaniu się jako [](direct-partner-new-requirements.md) odsprzedawca pośredni, bezpośredni partnerzy rozliczani, którzy nie spełniają nowych wymagań programu dla partnera rozliczanego bezpośrednio w programie CSP, zostaną poinformowani przez firmę Microsoft, gdy ich możliwości dotyczące rachunku bezpośredniego będą [ograniczone.](restricted-direct-bill-capabilities.md)
 <br>Od stycznia 2021 r. zostanie dodane nowe wymaganie dotyczące przychodów. Partnerzy zarejestrowani jako partnerzy rozliczani bezpośrednio będą musieli mieć co najmniej 300 000 USD przychodu z programu CSP na poziomie globalnego konta partnera w ciągu poprzednich 12 miesięcy.
 
 Będzie można zarejestrować się w programie odsprzedawcy pośredniego przy użyciu istniejącej dzierżawy rachunku bezpośredniego.
 
 ## <a name="get-started"></a>Rozpoczęcie pracy
 
-1. Upewnij się, że twój profil partnera w Partner Center i Microsoft Partner Network (MPN) są aktualne.
+1. Upewnij się, że Twój profil partnera w Partner Center i Microsoft Partner Network (MPN) są aktualne.
 
 2. Zaloguj się do Partner Center jako administrator globalny dzierżawy z rozliczeniami bezpośrednimi, z których przechodzisz do odsprzedawcy pośredniego.
 
@@ -38,15 +38,15 @@ Będzie można zarejestrować się w programie odsprzedawcy pośredniego przy u�
 
    :::image type="content" source="images/direct/direct2a.png" alt-text="Zarejestruj się teraz.":::
 
-4. Wybierz pozycję Zarejestruj teraz. Twoja firma odsprzedawcy pośredniego będzie używać tej samej Microsoft Azure Active Directory dzierżawy usługi Azure AD, która jest dla Twojej bezpośredniej firmy.
+4. Wybierz pozycję Zarejestruj teraz. Twoja firma odsprzedawcy pośredniego będzie używać tej samej dzierżawy Microsoft Azure Active Directory (Azure AD), która jest używana w twojej bezpośredniej firmie.
 
     > [!NOTE]
-    > Początkowo ta nowa możliwość przejścia będzie dostępna dla partnerów od daty rocznicy września do grudnia. Jeśli nie masz daty rocznicy między wrześniem a grudniem, w tej chwili nie zobaczysz tej możliwości. Partnerzy z datami rocznic po grudniu 2018 r. zostaną powiadomieni później, gdy funkcja zostanie włączona dla partnerów.
+    > Początkowo ta nowa funkcja przejścia będzie dostępna dla partnerów od daty rocznicy września do grudnia. Jeśli nie masz daty rocznicy między wrześniem a grudniem, w tej chwili nie zobaczysz tej możliwości. Partnerzy z datami rocznic po grudniu 2018 r. zostaną powiadomieni później, gdy funkcja zostanie włączona dla partnerów.
 
-5. Po zatwierdzeniu rejestracji zaloguj się ponownie w Partner Center rejestracji.
+5. Po zatwierdzeniu rejestracji zaloguj się ponownie do Partner Center rejestracji.
 
     > [!NOTE]
-    > Zatwierdzenie jest zwykle natychmiastowe, ale może potrwać do pięciu dni roboczych. Po zatwierdzeniu otrzymasz powiadomienie na adres e-mail określony w obszarze kontaktu podstawowego w formularzu rejestracji. Stan rejestracji możesz również sprawdzić w obszarze **Ustawienia**  >  **Account Ustawienia** Partner  >  **Profile** > Program.
+    > Zatwierdzenie jest zwykle natychmiastowe, ale może potrwać do pięciu dni roboczych. Po zatwierdzeniu otrzymasz powiadomienie na adres e-mail określony w obszarze kontaktu podstawowego w formularzu rejestracji. Stan rejestracji możesz również sprawdzić w obszarze **Ustawienia**  >  **account Ustawienia**  >  **Partner Profile** > Program info (Informacje o programie partnerskim).
 
 6. Na stronie **Przegląd** zobaczysz umowę odsprzedawcy pośredniego. Wybierz **pozycję Zaakceptuj i kontynuuj.** Ta akcja włącza możliwości odsprzedawcy pośredniego.
 
@@ -79,21 +79,21 @@ Dowiedz się więcej.  [Przeczytaj partner z dostawcami pośrednimi](indirect-re
 
 ## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a>Akceptowanie zaproszenia do partnerstwa od dostawcy pośredniego
 
-Po odnalezieniu dostawcy pośredniego dla partnerów należy ustanowić partnerstwo z dostawcą pośrednim w Partner Center.
+Po odnalezieniu dostawcy pośredniego dla partnera z programem ustanów partnerstwo z dostawcą pośrednim w Partner Center.
 
-Wybranie dostawcy pośredniego spowoduje wysłanie w wiadomości e-mail linku zaproszenia do partnerstwa, który spowoduje zaproszenie do zaproszenia w Partner Center. Upewnij się, że administrator globalny jest Partner Center i obserwuje link zaproszenia. Po zaakceptowaniu zaproszenia nazwa dostawcy będzie wyświetlana na liście dostawców pośrednich.
+Wybranie dostawcy pośredniego spowoduje wysłanie w wiadomości e-mail linku zaproszenia do partnerstwa, który spowoduje zaproszenie do zaproszenia w Partner Center. Upewnij się, że administrator globalny jest Partner Center i następuje link zaproszenia. Po zaakceptowaniu zaproszenia nazwa dostawcy będzie wyświetlana na liście dostawców pośrednich.
 
 ## <a name="acquire-new-customers-as-indirect-reseller"></a>Pozyskiwanie nowych klientów jako odsprzedawca pośredni
 
-Zarówno Ty, jak i Twój dostawca pośredni muszą mieć relacje odsprzedawcy z klientami. Te relacje odsprzedawcy umożliwiają zarządzanie subskrypcjami i usługami klienta w jego imieniu. Aby pozyskać nowego klienta, który ma istniejącą dzierżawę usługi Azure AD, możesz zaprosić klienta do nawiązania relacji odsprzedawcy z To użytkownikiem i dostawcą w tym samym czasie.
+Zarówno Ty, jak i Twój dostawca pośredni muszą mieć relacje odsprzedawcy z klientami. Te relacje odsprzedawcy umożliwiają zarządzanie subskrypcjami i usługami klienta w jego imieniu. Aby pozyskać nowego klienta, który ma istniejącą dzierżawę usługi Azure AD, możesz zaprosić klienta do ustanowienia relacji odsprzedawcy zarówno z To użytkownikiem, jak i dostawcą w tym samym czasie.
 
 Aby utworzyć zaproszenie odsprzedawcy pośredniego:
 
-1. Wybierz **pozycję Dostawcy pośredni** w lewym okienku Partner Center nav.
+1. Wybierz **pozycję Dostawcy pośredni** z Partner Center nav po lewej stronie.
 
 2. Wybierz **pozycję Zaproś** nowych klientów, aby zaprosić klienta do ustanowienia relacji odsprzedawcy zarówno z Toem, jak i dostawcą pośrednim w tym samym czasie. Dostawca musi mieć relację odsprzedawcy z Klientem, aby można było przesyłać zamówienia w imieniu klienta, gdy klient chce kupić nowe subskrypcje lub dodać nowe licencje do istniejących subskrypcji.
 
-3. Na następnej stronie przejrzyj wersję roboczą wiadomości e-mail. Możesz otworzyć wiadomość roboczą w wiadomości e-mail lub skopiować wiadomość do schowka i wkleić ją w wiadomości e-mail.
+3. Na następnej stronie przejrzyj wersję roboczą wiadomości e-mail. Możesz otworzyć wiadomość roboczą w wiadomości e-mail lub skopiować wiadomość do schowka i wkleić ją do wiadomości e-mail.
 
 4. Edytuj tekst w wiadomości e-mail, aby powiedzieć, czego potrzebujesz, ale pamiętaj, aby dołączyć link spersonalizowany w celu bezpośredniego połączenia klienta z kontem użytkownika i kontem dostawcy. Następnie wybierz pozycję **Done** (Gotowe).
 
@@ -103,11 +103,11 @@ Aby utworzyć zaproszenie odsprzedawcy pośredniego:
 W przeciwieństwie do partnerów rozliczanych bezpośrednio odsprzedawcy pośredni nie mogą tworzyć dzierżaw usługi Azure AD dla nowych klientów w Partner Center. Dostawca utworzy dzierżawę i określi Cię jako odsprzedawcę pośredniego dla tego klienta. Dzięki temu klient pojawi się na liście klientów w Partner Center.
 
 >[!Note]
->Nie będzie można używać funkcji rachunku bezpośredniego do tworzenia zakupów dla klientów, których uzyskujesz jako odsprzedawca pośredni.
+>Nie będzie można używać funkcji bezpośredniego rachunku do tworzenia zakupów dla klientów, których uzyskujesz jako odsprzedawca pośredni.
 
 ## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Zarządzanie klientami z rozliczeniami bezpośrednimi i klientami odsprzedawcy pośredniego
 
-W różny sposób zarządzasz klientami z rozliczeniami bezpośrednimi i klientami odsprzedawcy pośredniego.
+Inaczej zarządzasz klientami z rozliczeniami bezpośrednimi i klientami odsprzedawcy pośredniego.
 
 ### <a name="direct-bill-customers-things-you-wont-do-as-an-indirect-reseller"></a>Klienci rozliczani bezpośrednio (rzeczy, których nie będziesz robić jako odsprzedawca pośredni)
 
@@ -145,7 +145,7 @@ Szczegółowe omówienie procesu krok po kroku można znaleźć w dokumencie Prz
 
 ### <a name="reseller-relationship-extension"></a>Rozszerzenie relacji odsprzedawcy
 
-Funkcja rozszerzenia relacji odsprzedawcy umożliwia ustanowienie relacji odsprzedawcy między istniejącymi klientami z rozliczeniami bezpośrednimi i dostawcą pośrednim przy użyciu pulpitu Partner Center nawigacyjnego. Przed rozpoczęciem korzystania z funkcji zwróć uwagę na następujące kwestie:
+Funkcja rozszerzenia relacji odsprzedawcy umożliwia ustanowienie relacji odsprzedawcy między istniejącymi klientami z rozliczeniami bezpośrednimi a dostawcą pośrednim przy użyciu Partner Center pulpitu nawigacyjnego. Przed rozpoczęciem korzystania z funkcji zwróć uwagę na następujące kwestie:
 
 - Ta funkcja jest dostępna tylko dla bezpośrednich partnerów rozliczających się, którzy przejdą na odsprzedawcę pośredniego, ukończyli [rejestrację odsprzedawcy pośredniego.](#get-started)
 
@@ -153,17 +153,17 @@ Funkcja rozszerzenia relacji odsprzedawcy umożliwia ustanowienie relacji odsprz
 
 - Możesz wybrać tylko dostawcę pośredniego, dla którego [zaakceptowaliśmy zaproszenie partnera od dostawcy pośredniego.](#accept-a-partnership-invitation-from-your-indirect-provider)
 
-- Kopia informacji o rachunku dla tego klienta zostanie udostępnione dostawcy pośredniego. Dostęp do informacji o rachunku można uzyskać, korzystając ze strony Konta dla tego klienta na Partner Center nawigacyjnym.
+- Kopia informacji o rachunku dla tego klienta zostanie udostępnione dostawcy pośredniego. Dostęp do informacji o rachunku można uzyskać, korzystając ze strony Konto dla tego klienta na Partner Center nawigacyjnym.
 
     > [!NOTE]
     > Korzystając z funkcji rozszerzenia relacji odsprzedawcy, wyrażasz zgodę na udostępnianie informacji o rachunku dla tego klienta u dostawcy pośredniego.
 
-- Dostawca pośredni nie będzie miał delegowanych uprawnień [administracyjnych do](customers-revoke-admin-privileges.md) dzierżawy klienta. Jeśli dostawca pośredni wymaga delegowanych uprawnień administracyjnych, zamiast tego należy wysłać do klienta zaproszenie odsprzedawcy pośredniego.
+- Dostawca pośredni nie będzie miał delegowanych uprawnień administracyjnych [do](customers-revoke-admin-privileges.md) dzierżawy klienta. Jeśli dostawca pośredni wymaga delegowanych uprawnień administracyjnych, zamiast tego należy wysłać do klienta zaproszenie odsprzedawcy pośredniego.
 
-- Po nawiązce relacji odsprzedawcy dostawca pośredni będzie wyświetlany jako partner CSP dla klienta na stronie Relacje partnerów w centrum Administracja Microsoft 365 [i](https://admin.microsoft.com/AdminPortal/Home#/partners) Microsoft Store dla Firm [.](/microsoft-store/work-with-partner-microsoft-store-business)
+- Po nawiązywce relacji odsprzedawcy dostawca pośredni będzie wyświetlany jako partner CSP dla klienta na stronie Relacje partnerskie w centrum Administracja Microsoft 365 [i](https://admin.microsoft.com/AdminPortal/Home#/partners) Microsoft Store dla Firm [.](/microsoft-store/work-with-partner-microsoft-store-business)
 
     > [!IMPORTANT]
-    > Aby uniknąć nieporozumień i nieporozumień, umowa partnerska musi poinformować klienta rozliczanego bezpośrednio i uzyskać zgodę, zanim użyjemy funkcji rozszerzenia relacji w celu ustanowienia relacji odsprzedawcy między istniejącym klientem z rozliczeniami bezpośrednimi i dostawcą pośrednim.
+    > Aby uniknąć nieporozumień i nieporozumień, umowa partnerska zobowiązuje Cię do poinformowania i uzyskania zgody od klienta rozliczanego bezpośrednio przed użyciem funkcji rozszerzenia relacji w celu ustanowienia relacji odsprzedawcy między istniejącym klientem z rozliczeniami bezpośrednimi i dostawcą pośrednim.
 
 Aby użyć tej funkcji w istniejącej dzierżawie klienta:
 
@@ -175,7 +175,7 @@ Aby użyć tej funkcji w istniejącej dzierżawie klienta:
 
     :::image type="content" source="images/direct/direct5-1.png" alt-text="Przeniesienie klienta do dostawcy pośredniego.":::
 
-4. W podręcznym oknie dialogowym wybierz **dostawcę** pośredniego, który ma mieć relację odsprzedawcy z klientem.
+4. W podręcznym oknie dialogowym wybierz **dostawcę** pośredniego, dla których chcesz mieć relację odsprzedawcy z klientem.
 
 5. Wybierz przycisk **Zapisz i kontynuuj**.
 
@@ -185,41 +185,41 @@ Aby użyć tej funkcji w istniejącej dzierżawie klienta:
 
 ### <a name="send-an-indirect-reseller-invitation-to-the-customer"></a>Wysyłanie zaproszenia odsprzedawcy pośredniego do klienta
 
-Dostawca pośredni nie może przesyłać zamówień dla istniejących klientów z rozliczeniami bezpośrednimi, dopóki nie mają z nimi relacji odsprzedawcy. Aby ustanowić relację odsprzedawcy między istniejącymi klientami i dostawcą pośrednim, zaproś klienta przy użyciu zaproszenia odsprzedawcy pośredniego.
+Dostawca pośredni nie może przesyłać zamówień dla istniejących klientów rozliczanych bezpośrednio, dopóki nie mają z nimi relacji odsprzedawcy. Aby ustanowić relację odsprzedawcy między istniejącymi klientami i dostawcą pośrednim, zaproś klienta przy użyciu zaproszenia odsprzedawcy pośredniego.
 
 1. Wybierz **pozycję Dostawcy pośredni** z Partner Center nav po lewej stronie.
 
-2. Wybierz **pozycję Zaproś** nowych klientów, aby zaprosić klienta do nawiązania relacji odsprzedawcy z Tobem i dostawcą pośrednim w tym samym czasie. Dostawca musi mieć relację odsprzedawcy z klientem, aby można było przesyłać zamówienia w imieniu klienta, gdy klient chce kupić nowe subskrypcje lub dodać nowe licencje do istniejących subskrypcji.
+2. Wybierz **pozycję Zaproś** nowych klientów, aby zaprosić klienta do ustanowienia relacji odsprzedawcy zarówno z Toem, jak i dostawcą pośrednim w tym samym czasie. Dostawca musi mieć relację odsprzedawcy z Klientem, aby można było przesyłać zamówienia w imieniu klienta, gdy klient chce kupić nowe subskrypcje lub dodać nowe licencje do istniejących subskrypcji.
 
-    :::image type="content" source="images/direct/direct6.png" alt-text="Zaproś nowych klientów.":::
+    :::image type="content" source="images/direct/direct6.png" alt-text="Zapraszanie nowych klientów.":::
 
 3. Na następnej stronie przejrzyj wersję roboczą wiadomości e-mail. Możesz otworzyć wiadomość roboczą w wiadomości e-mail lub skopiować wiadomość do schowka i wkleić ją do wiadomości e-mail.
 
-4. Edytuj tekst w wiadomości e-mail, aby powiedzieć, czego potrzebujesz, ale pamiętaj, aby dołączyć link spersonalizowany, aby połączyć klienta bezpośrednio z kontem i kontem dostawcy. Następnie wybierz pozycję **Done** (Gotowe).
+4. Edytuj tekst w wiadomości e-mail, aby powiedzieć, czego potrzebujesz, ale pamiętaj, aby dołączyć link spersonalizowany w celu bezpośredniego połączenia klienta z kontem użytkownika i kontem dostawcy. Następnie wybierz pozycję **Done** (Gotowe).
 
-5. Gdy klient autoryzuje Ciebie i Twojego dostawcę jako swoich odsprzedawców rekordów, będziesz mieć uprawnienia administratora do zarządzania subskrypcjami, licencjami i użytkownikami w ich imieniu, a Twój dostawca pośredni będzie mógł przesyłać zamówienia w ich imieniu.
+5. Gdy klient autoryzuje Ciebie i Twojego dostawcę jako odsprzedawców rekordów, będziesz mieć uprawnienia administratora do zarządzania subskrypcjami, licencjami i użytkownikami w ich imieniu, a twój dostawca pośredni będzie mógł przesyłać zamówienia w ich imieniu.
 
 6. Aby zarządzać kontem, usługami, użytkownikami i licencjami klienta, rozwiń rekord klienta, wybierając strzałkę w dół obok jego nazwy.
 
 ### <a name="microsoft-customer-agreement-acceptance"></a>Umowa z Klientem Microsoft akceptacji
 
-Umowa dotycząca platformy Microsoft Cloud obowiązuje do 31 stycznia 2020 r. Po tej dacie wszyscy klienci, istniejący i nowi, muszą [podpisać](confirm-customer-agreement.md)nową Umowa z Klientem Microsoft . W przypadku przechodzenia klientów, jeśli:
+Umowa dotycząca platformy Microsoft Cloud jest ważny do 31 stycznia 2020 r. Po tej dacie wszyscy klienci, istniejący i nowi, muszą podpisać nową Umowa z Klientem Microsoft [.](confirm-customer-agreement.md) W przypadku przejścia klientów, jeśli:
 
 - **Klient nie zaakceptował jeszcze Umowa z Klientem Microsoft**
 
    Skontaktuj się z dostawcą pośrednim, aby klient [zaakceptował Umowa z Klientem Microsoft](confirm-customer-agreement.md).
 
-- **Klient zaakceptował Umowa z Klientem Microsoft z Tobem za pośrednictwem centrum Administracja Microsoft 365 klienta**
+- **Klient zaakceptował Umowa z Klientem Microsoft z To ty za pośrednictwem centrum Administracja Microsoft 365 klienta**
 
-   Akceptacja zostanie zachowana po nawiązce relacji odsprzedawcy z dostawcą pośrednim. Nie musisz nic robić.
+   Akceptacja zostanie zachowana po nawiązanej relacji odsprzedawcy z dostawcą pośrednim. Nie musisz nic robić.
 
-- **Klient zaakceptował Umowa z Klientem Microsoft z Tobem za pośrednictwem zaświadczenia partnera**
+- **Klient zaakceptował Umowa z Klientem Microsoft z toem za pośrednictwem zaświadczenia partnera**
 
-   Akceptacja nie zostanie zachowana. Skontaktuj się z dostawcą [pośrednim, aby zaktualizować akceptację klienta](confirm-customer-agreement.md#confirm-customer-acceptance-for-existing-customers)w Partner Center.
+   Akceptacja nie zostanie zachowana. Skontaktuj się z dostawcą [pośrednim, aby zaktualizować akceptację](confirm-customer-agreement.md#confirm-customer-acceptance-for-existing-customers)klienta w Partner Center .
 
-## <a name="transfer-existing-direct-bill-subscriptions-to-indirect-provider"></a>Przenoszenie istniejących subskrypcji z rachunku bezpośredniego do dostawcy pośredniego
+## <a name="transfer-existing-direct-bill-subscriptions-to-indirect-provider"></a>Przenoszenie istniejących subskrypcji rachunku bezpośredniego do dostawcy pośredniego
 
-W modelu pośrednim programu CSP odsprzedawcy pośredni nie mają relacji rozliczeń z firmą Microsoft. Zamiast tego odsprzedawcy pośredni uzyskają subskrypcje dla swoich klientów za pośrednictwem swoich dostawców pośrednich. Podczas przechodzenia z partnera z rozliczeniami bezpośrednimi do odsprzedawcy pośredniego musisz przenieść istniejące subskrypcje, które masz jako partnera z rozliczeniami bezpośrednimi, do dostawcy pośredniego. W tym celu możesz użyć funkcji samodzielnego przenoszenia subskrypcji na Partner Center Pulpit nawigacyjny.
+W modelu pośrednim programu CSP odsprzedawcy pośredni nie mają relacji rozliczeniowych z firmą Microsoft. Zamiast tego odsprzedawcy pośredni uzyskają subskrypcje dla swoich klientów za pośrednictwem swoich dostawców pośrednich. Podczas przechodzenia z partnera z rozliczeniami bezpośrednimi do odsprzedawcy pośredniego musisz przenieść istniejące subskrypcje, które masz jako partnera z bezpośrednimi rozliczeniami, do dostawcy pośredniego. W tym celu możesz użyć funkcji samoobsługowego przenoszenia subskrypcji Partner Center pulpitu nawigacyjnego.
 
 ### <a name="prerequisites"></a>Wymagania wstępne
 
@@ -227,24 +227,24 @@ W modelu pośrednim programu CSP odsprzedawcy pośredni nie mają relacji rozlic
 
 - Przed przeniesieniem subskrypcji skojarzonych z danym klientem partner przejściowy musi przenieść klienta do dostawcy pośredniego.
 
-- Klient musi [zaakceptować usługę Umowa z Klientem Microsoft pośrednictwem dostawcy pośredniego.](#microsoft-customer-agreement-acceptance)
+- Klient musiał [zaakceptować usługę Umowa z Klientem Microsoft pośrednictwem dostawcy pośredniego.](#microsoft-customer-agreement-acceptance)
 
 ### <a name="how-to-transition-to-indirect-reseller-status"></a>Jak przejść do stanu odsprzedawcy pośredniego
 
 Ta funkcja jest procesem czteroetapowym, w którym:
 
-- Partner przejściowy tworzy żądanie przeniesienia subskrypcji. Żądanie zawiera co najmniej jedną istniejącą subskrypcję skojarzoną z tym samym klientem i jest adresowane do dostawcy pośredniego.
+- Partner przejściowy tworzy żądanie przeniesienia subskrypcji. Żądanie zawiera co najmniej jedną istniejącą subskrypcję skojarzoną z tym samym klientem i jest skierowane do dostawcy pośredniego.
 
-- Dostawca pośredni przegląda i akceptuje (lub odrzuca) żądanie przeniesienia.
+- Dostawca pośredni sprawdza i akceptuje (lub odrzuca) żądanie przeniesienia.
 
 - Dostawca pośredni sprawdza, czy żądanie przeniesienia zostało ukończone.
 
 - Partner przejściowy sprawdza, czy żądanie przeniesienia zostało ukończone.
 
-### <a name="transitioning-partner"></a>Transitioning partner (Partner przejściowy)
+### <a name="transitioning-partner"></a>Przechodzenie partnera
 
 > [!NOTE]
-> Możesz również użyć [interfejsu API Partner Center SDK,](/partner-center/develop/manage-customers) aby przenieść istniejące subskrypcje do dostawcy pośredniego.
+> Możesz również użyć [interfejsu PARTNER CENTER API/zestawu SDK,](/partner-center/develop/manage-customers) aby przenieść istniejące subskrypcje do dostawcy pośredniego.
 >
 > - [Pobieranie uprawnień klienta do przeniesienia subskrypcji](/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
 > - [Tworzenie transferu klienta](/partner-center/develop/create-a-transfer)
@@ -266,7 +266,7 @@ Aby utworzyć żądanie przeniesienia jako partner przejściowy:
 
 4. Wybierz **pozycję Wyświetl subskrypcje.**
 
-5. Na **stronie Subskrypcje** poszukaj przeniesienia **subskrypcji**.
+5. Na **stronie Subskrypcje** poszukaj przeniesienia **subskrypcji.**
 
 6. W **obszarze Przenoszenie subskrypcji** wybierz pozycję **Zażądaj przeniesienia subskrypcji.**
 
@@ -282,7 +282,7 @@ Aby utworzyć żądanie przeniesienia jako partner przejściowy:
 
     :::image type="content" source="images/direct/direct10.png" alt-text="Lista żądań przeniesienia.":::
 
-10. Poinformuj dostawcę pośredniego, że utworzono dla nich żądanie przeniesienia subskrypcji.
+10. Poinformuj dostawcę pośredniego, że utworzono żądanie przeniesienia subskrypcji.
 
 ### <a name="indirect-provider---accept-transfer-request"></a>Dostawca pośredni — akceptowanie żądania przeniesienia
 
@@ -292,13 +292,13 @@ Aby przejrzeć i zaakceptować żądanie przeniesienia jako dostawca pośredni:
 
 2. Na stronie **Klienci** wybierz odpowiedniego klienta i wybierz jego ikonę Szybkie linki, aby rozwinąć widok podsumowania klienta.
 
-3. W **obszarze Odsprzedawcy pośredni** potwierdź, że partner przejściowy znajduje się na liście.
+3. W **obszarze Odsprzedawcy pośredni** potwierdź, że partner przejściowy jest wymieniony na liście.
 
 4. Wybierz **pozycję Wyświetl subskrypcje.**
 
-5. Na **stronie Subskrypcje** poszukaj przeniesienia **subskrypcji**.
+5. Na **stronie Subskrypcje** poszukaj przeniesienia **subskrypcji.**
 
-    :::image type="content" source="images/direct/direct11.png" alt-text="Wyświetl żądanie przeniesienia.":::
+    :::image type="content" source="images/direct/direct11.png" alt-text="Wyświetlanie żądania przeniesienia.":::
 
 6. W **obszarze Przenoszenie subskrypcji** wybierz żądanie przeniesienia do przejrzenia.
 
@@ -308,29 +308,29 @@ Aby przejrzeć i zaakceptować żądanie przeniesienia jako dostawca pośredni:
 
 8. Poczekaj na ukończenie żądania przeniesienia.
 
-### <a name="indirect-provider---verify-transfer-request-is-complete"></a>Dostawca pośredni — sprawdzanie, czy żądanie przeniesienia zostało zakończone
+### <a name="indirect-provider---verify-transfer-request-is-complete"></a>Dostawca pośredni — sprawdź, czy żądanie przeniesienia zostało ukończone
 
 1. Po pomyślnym zakończeniu żądania przeniesienia sprawdź, czy subskrypcje są widoczne w obszarze **Subskrypcje.**
 
 2. Poinformuj partnera przejściowego.
 
-### <a name="transitioning-partner---verify-transfer-request-is-complete"></a>Przenoszenie partnera — sprawdzanie, czy żądanie przeniesienia zostało zakończone
+### <a name="transitioning-partner---verify-transfer-request-is-complete"></a>Przenoszenie partnera — weryfikowanie ukończenia żądania przeniesienia
 
 Partner przejściowy powinien wykonać następujące czynności:
 
-1. Zaloguj się do Partner Center jako **agent administracyjny** lub **agent sprzedaży.**
+1. Zaloguj się do Partner Center jako **agent administracyjny** lub agent **sprzedaży.**
 
 2. Na stronie **Klienci** wybierz odpowiedniego klienta i wybierz ikonę Szybkie **linki,** aby rozwinąć widok podsumowania klienta.
 
 3. Wybierz **pozycję Wyświetl subskrypcje.**
 
-4. Na **stronie Subskrypcje** poszukaj przeniesienia **subskrypcji**.
+4. Na **stronie Subskrypcje** poszukaj przeniesienia **subskrypcji.**
 
 5. Sprawdź, czy żądanie przeniesienia jest oznaczone jako **Ukończono.**
 
 6. Sprawdź, czy subskrypcje nie są już wyświetlane jako aktywne na **stronie** Subskrypcje:
 
-   1. Jeśli jest to subskrypcja platformy Azure (MS-AZR-0145P), nie będzie ona już wymieniona.
+   1. Jeśli jest to subskrypcja platformy Azure (MS-AZR-0145P), nie będzie ona już na liście.
 
    2. Jeśli jest to subskrypcja oparta na licencji (Office 365, Dynamics, Intune), zostanie ona wymieniona jako **Wstrzymana.**
 
@@ -355,7 +355,7 @@ Partner przejściowy powinien wykonać następujące czynności:
 
 ## <a name="enroll-for-indirect-reseller-incentives"></a>Rejestracja w programie zachęt odsprzedawcy pośredniego
 
-Po pomyślnym zarejestrowaniu się jako odsprzedawca pośredni w istniejącej dzierżawie partnera z rozliczeniami bezpośrednimi otrzymasz zaproszenie do rejestracji w ramach zachęty odsprzedawcy pośredniego w ciągu 30 dni. Zaproszenie jest oparte na koncie MPN partnera, które jest obecnie skojarzone z dzierżawą partnera CSP. Zaproszenie zostanie wysłane na adres e-mail skojarzony z kontem MPN partnera.
+Po pomyślnym zarejestrowaniu się jako odsprzedawca pośredni w istniejącej dzierżawie partnera z rozliczeniami bezpośrednimi otrzymasz zaproszenie do rejestracji w ramach zachęt odsprzedawcy pośredniego w ciągu 30 dni. Zaproszenie jest oparte na koncie MPN partnera, które jest obecnie skojarzone z dzierżawą partnera CSP. Zaproszenie zostanie wysłane na adres e-mail skojarzony z kontem MPN partnera.
 
 Możesz również zarejestrować się w programach zachęt dla rachunku bezpośredniego w tej samej dzierżawie partnera. Programy należy zarządzać oddzielnie.
 

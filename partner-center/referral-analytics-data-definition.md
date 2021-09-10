@@ -9,11 +9,11 @@ author: v-sausharma
 ms.author: v-sausharma
 ms.localizationpriority: medium
 ms.openlocfilehash: e2409dcbfd2a9de677ef4ec79bf8749072859325
-ms.sourcegitcommit: a0afd7765a1a04dc603e096510fd9c138238a7cb
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "122681847"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959779"
 ---
 # <a name="referral-analytics-export--data-definitions"></a>Eksportowanie analizy poleceń — definicje danych
 
@@ -64,10 +64,10 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 |   Nazwa partnera    |   Nazwa partnera |
 |   Identyfikator transakcji |   Identyfikator transakcji  |
 |   Identyfikator zaangażowania   |   Unikatowy identyfikator zaangażowania    |
-|   Identyfikator MICROSOFT MSX    |   Identyfikator transakcji MSX  |
+|   Identyfikator MICROSOFT MSX    |   IDENTYFIKATOR TRANSAKCJI MSX  |
 |   Data utworzenia polecenia firmy Microsoft    |   Data utworzenia odwołania od firmy Microsoft |
 |   Imię zarejestrowanego kontaktu   |   Imię i nazwisko kontaktu z partnerem podane podczas rejestracji transakcji |
-|   Nazwisko zarejestrowanego kontaktu    |   Nazwisko kontaktu partnera podanego podczas rejestracji transakcji  |
+|   Nazwisko zarejestrowanego kontaktu    |   Nazwisko kontaktu z partnerem podanego podczas rejestracji transakcji  |
 |   Zarejestrowana kontaktowa wiadomość e-mail    |   Wiadomość e-mail kontaktu z partnerem podaną podczas rejestracji transakcji  |
 |   Zarejestrowany numer telefonu kontaktowego |   Telefon kontaktu z partnerem podanego podczas rejestracji transakcji   |
 |   Waluta kontraktu   |   Waluta kontraktu dostarczonego podczas rejestracji transakcji  |
@@ -82,7 +82,7 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 |   Waluta zarejestrowanego rozwiązania transakcji   |   Waluta dla rozwiązania udostępnianego podczas rejestracji transakcji |
 |   Wartość zarejestrowanego rozwiązania transakcji  |   Wartość rozwiązania zapewniana podczas rejestracji transakcji. Ogólnie rzecz biorąc, jest to łączna wartość kontraktu mniejsza niż wszystkie cykliczne opłaty za implementację.   |
 |   Wartość zarejestrowanego rozwiązania transakcji (USD)    |   Wartość rozwiązania w USD zapewniana podczas rejestracji transakcji |
-|   Wdrożono w dniu |   Wskazuje, czy rozwiązanie zostało wdrożone na platformie Azure, czy innych    |
+|   Wdrożono w dniu |   Wskazuje, czy rozwiązanie zostało wdrożone na platformie Azure, czy na innych platformach    |
 |   Wdrożenie podstawowe w dniu   |   Wskazuje, czy rozwiązanie zostało wdrożone w dzierżawie klienta lub dzierżawie partnera  |
 |   Data utworzenia transakcji  |   Data utworzenia rejestracji transakcji  |
 |   Data przesłanej transakcji     |   Data przesłanej rejestracji transakcji |

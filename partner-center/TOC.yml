@@ -83,13 +83,13 @@
         - name: Dowiedz się więcej na temat kompetencji
           href: learn-about-competencies.md
           displayName: mpn
-        - name: Rejestracja jako Edukacja partnerów
+        - name: Rejestrowanie jako Edukacja partnerów
           href: mpn-benefits-map-competency-learning-option-enroll.md
           displayName: mpn
         - name: Kompetencje — często zadawane pytania
           href: competencies-faq.yml
           displayName: 'renew, mpn'
-        - name: Opłacanie opłat za kompetencje
+        - name: Płatność opłatami za kompetencje
           href: mpn-pay-fee-silver-gold-competency.md
           displayName: mpn
         - name: Wyłączenie kompetencji dla deweloperów aplikacji
@@ -134,7 +134,7 @@
       displayName: csp
     - name: 'Umowy z Klientem Microsoft (według regionu, języka)'
       href: agreements.md
-    - name: Jak potwierdzić akceptację przez klienta Umowa z Klientem Microsoft
+    - name: Jak potwierdzić akceptację klienta Umowa z Klientem Microsoft
       href: confirm-customer-agreement.md
     - name: 'Rynki regionalne CSP, waluty'
       href: regional-authorization-overview.md
@@ -191,7 +191,7 @@
         - name: Aktualizowanie profilu partnera
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Certyfikacja oferty w programie Partner Finder
+        - name: Certyfikacja listy w programie Partner Finder
           href: partner-finder-certification.md
         - name: Informacje o numerze identyfikatora rejestracji
           href: reg-number-id.md
@@ -413,7 +413,7 @@
     - name: Rozliczenia dla ofert na platformie handlowej
       href: csp-commercial-marketplace-billing.md
       displayName: 'invoice, csp'
-    - name: Request an SLA credit from Microsoft (Żądanie kredytu SLA od firmy Microsoft)
+    - name: Żądanie środków od firmy Microsoft
       href: request-credit.md
     - name: Wyświetlanie podpisów cyfrowych — Centrum partnerskie (Indie)
       href: digital-signature.md
@@ -584,7 +584,7 @@
       href: new-commerce-license-based.md
       displayName: new commerce
       items:
-        - name: Nowy sklep telco payg
+        - name: Nowa płatność za usługi telekomunikacyjne dla handlu
           href: new-commerce-telco-payg.md
         - name: Nowe promocje handlowe
           href: new-commerce-promotions.md
@@ -718,7 +718,7 @@
               href: insights-programmatic-prerequisites.md
             - name: Paradygmat dostępu programowego
               href: insights-programmatic-access-paradigm.md
-            - name: Pierwsze programowe wywołanie interfejsu API
+            - name: Pierwsze wywołanie programowego interfejsu API
               href: insights-programmatic-first-api-call.md
             - name: Lista zapytań systemowych
               href: insights-programmatic-system-queries.md

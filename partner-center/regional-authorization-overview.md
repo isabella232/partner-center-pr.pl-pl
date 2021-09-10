@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 487bfb1356d378d1fcbd262dd00ee311e33870712ddb595c8da431f80ab02b1b
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 33b60bd301a1493e7e722e26b3ff16128f4e9888
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691875"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958797"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Dostawca rozwiązań w chmurze programie regionalne rynki i waluty, w których można sprzedawać oferty CSP
 
@@ -22,9 +22,9 @@ ms.locfileid: "115691875"
 
 Twój rynek zależy od lokalizacji Twojej firmy. Twój rynek obejmuje regiony i/lub kraje, w których można sprzedawać Dostawca rozwiązań w chmurze programów (CSP).
 
-Jeśli na przykład Twoja firma znajduje się w Stany Zjednoczone, możesz sprzedawać oferty CSP klientom w Stanach Zjednoczonych i na Wyspy Odlying Stanów Zjednoczonych. Jeśli Twoja firma znajduje się w Brazylii, możesz sprzedawać oferty CSP klientom tylko w Brazylii. Jeśli Twoja firma znajduje się w regionie Afryki, możesz sprzedawać oferty CSP klientom we wszystkich 18 krajach w regionie Afryki.
+Jeśli na przykład Twoja firma znajduje się w Stany Zjednoczone, możesz sprzedawać oferty CSP klientom w Stanach Zjednoczonych i Na Wyspy Odlying. Jeśli Twoja firma znajduje się w Brazylii, możesz sprzedawać oferty CSP klientom tylko w Brazylii. Jeśli Twoja firma znajduje się w regionie Afryki, możesz sprzedawać oferty CSP klientom we wszystkich 18 krajach w regionie Afryki.
 
-Zanim będzie można zamówić oferty CSP w imieniu klienta, klient musi podpisać ofertę Umowa z Klientem Microsoft. Odpowiednie informacje dotyczące Umowa z Klientem Microsoft regionu/kraju można [znaleźć tutaj.](agreements.md)
+Aby można było zamówić oferty CSP w imieniu klienta, klient musi podpisać ofertę Umowa z Klientem Microsoft. Odpowiednie informacje dotyczące Umowa z Klientem Microsoft regionu/kraju można [znaleźć tutaj.](agreements.md)
 
 ## <a name="azure-plan-for-csp-region-availability"></a>Plan platformy Azure na rzecz dostępności regionów programu CSP  
 
@@ -92,7 +92,7 @@ Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz spr
 | Sierra Leone             |   USD    |
 | Somalia                  |   USD    |
 | Sudan Południowy              |   USD    |
-| St Stana, Ascension, Tristan da Cunha|    USD   |
+| StLiga, Ascension, Tristan da Cunha|    USD   |
 | Tanzania                 |   USD    |
 | Togo                     |   USD    |
 | Uganda                   |   USD    |
@@ -177,11 +177,11 @@ Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz spr
 
 ## <a name="china-region-and-market"></a>Region i rynek w Chinach
 
-Jeśli lokalizacją firmy są Chiny, możesz sprzedawać oferty CSP klientom w Chinach.
+Jeśli lokalizacja firmy to Chiny, możesz sprzedawać oferty CSP klientom w Chinach.
 
 |  Kraj/region | Waluta |
 |  -------------- |:--------:|
-|  Chiny        |   Cny    |
+|  Chiny        |   CNY    |
 
 ## <a name="europe-region-and-market"></a>Region i rynek w Europie
 
@@ -238,7 +238,7 @@ Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz spr
 
 ## <a name="india-region-and-market"></a>Indie region i rynek
 
-Jeśli lokalizacja firmy to Indie, możesz sprzedawać oferty CSP klientom w Indiach.
+Jeśli lokalizacja twojej firmy to Indie, możesz sprzedawać oferty CSP klientom w Indiach.
 
 |  Kraj/region | Waluta |
 |  -------------- |:--------:|
@@ -324,7 +324,7 @@ Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz spr
 |  Wyspy Dziewicze Stanów Zjednoczonych| USD |
 |
 
-## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Bliski Wschód, Europa Środkowa oraz region i rynek Europa Wschodnia
+## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Bliski Wschód, Europa Środkowa oraz Region i rynek Europa Wschodnia
 
 Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz sprzedawać oferty CSP klientom we wszystkich lokalizacjach na liście.
 
@@ -351,7 +351,7 @@ Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz spr
 |  Liban        |   USD    |
 |  Lesotho        |   USD    |
 |  Libia          |   USD    |
-|  Rpa, Republika Północna|   |
+|  Podczas pracy w Republice Federalnej Niemiec|   |
 |  Mauretania     |   USD    |
 |  Mołdawia        |   USD    |
 |  Mongolia       |   USD    |
@@ -360,7 +360,7 @@ Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz spr
 |  Mozambik     |   USD    |
 |  Oman           |   USD    |
 |  Pakistan       |   USD    |
-|  Territoryd (Terytorium Terytorium) |        |
+|  TerritoryDusz okupowany |        |
 |  Katar          |   USD    |
 |  Arabia Saudyjska   |   USD    |
 |  Serbia         |   USD    |
@@ -389,7 +389,7 @@ Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz spr
 |  Vanuatu        |   NZD    |
 |
 
-## <a name="russia-region-and-market"></a>Region i rynek w Rosji
+## <a name="russia-region-and-market"></a>Region i rynek w Tym regionie
 
 Jeśli lokalizacją firmy jest Rosyjski, możesz sprzedawać oferty CSP klientom w Tym kraju.
 
@@ -400,14 +400,14 @@ Jeśli lokalizacją firmy jest Rosyjski, możesz sprzedawać oferty CSP klientom
 
 ## <a name="taiwan-region-and-market"></a>Region i rynek Tajwański
 
-Jeśli lokalizacją firmy jest Tajwański, możesz sprzedawać oferty CSP klientom w Chinach.
+Jeśli lokalizacją firmy jest Tajwan, możesz sprzedawać oferty CSP klientom w Chinach.
 
 |  Kraj/region | Waluta |
 |  -------------- |:--------:|
 |  Tajwan         |   TWD    |
 |
 
-## <a name="united-states-region-and-market"></a>Stany Zjednoczone regionu i rynku
+## <a name="united-states-region-and-market"></a>Stany Zjednoczone i rynek
 
 Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz sprzedawać oferty CSP klientom we wszystkich lokalizacjach na liście.
 

@@ -4,22 +4,22 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-support
-description: Dowiedz się więcej o typach pomocy technicznej, Dostawca rozwiązań w chmurze programu mogą zaoferować swoim klientom.
+description: Dowiedz się więcej o typach pomocy technicznej dla Dostawca rozwiązań w chmurze programu mogą zaoferować swoim klientom.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9b22279d3825ab1d82e03b43503712e4864e16531964fb9493278cf8855c3be9
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d8e4781ffa64269056c684d9ab10a29ff97dacde
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693099"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958978"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Zapewnianie pomocy technicznej, która pomaga klientom w konfigurowaniu i używaniu subskrypcji oraz zarządzaniu nimi
 
 
-**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent pomocy technicznej | Agent administracyjny
+**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent pomocy technicznej | Agent administracyjny
 
 Jako Dostawca rozwiązań w chmurze (CSP) masz delegowane uprawnienia administratora, które zapewniają dostęp do środowisk klientów. Te uprawnienia zapewniają możliwość bezpośredniej obsługi, konfigurowania i zarządzania subskrypcjami klientów.
 
@@ -38,11 +38,11 @@ W Partner Center można:
 
 ## <a name="microsoft-partner-support-guidance"></a>Wskazówki dotyczące pomocy technicznej dla partnerów firmy Microsoft
 
-Partnerzy obsługujący transakcje w modelu CSP są zaufanymi doradcami klientów i są właścicielami relacji typu end-to-end, w tym pomocy technicznej, gdy ich klient ma pytanie lub problem. Dzięki punktom obsługi partnerzy mogą dowiedzieć się więcej o kliencie i jego firmie, aby identyfikować nowe usługi i rozwiązania, które wpływają na wartość.
+Partnerzy, którzy obsługują transakcje w modelu CSP, są zaufanymi doradcami klientów i są właścicielami relacji typu end-to-end, w tym pomocy technicznej, gdy ich klient ma pytanie lub problem. Dzięki punktom obsługi partnerzy mogą dowiedzieć się więcej o kliencie i jego firmie, aby identyfikować nowe usługi i rozwiązania, które wpływają na wartość.
 
-Aby spełnić wymaganie dotyczące pomocy technicznej, partner może odsprzedać pomoc techniczną od innej jednostki, może zlecić całość lub część struktury pomocy technicznej i/lub może skonfigurować strukturę w celu bezpośredniego świadczenia pomocy technicznej.  Partner może naliczać opłaty za całą pomoc techniczną zapewnianą klientom lub jej część. Partner powinien przedstawić swoim klientom zapewnianą pomoc techniczną, godziny obsługi i metodę kontaktu oraz cennik (w przypadku naliowania opłat za pomoc techniczną). 
+Aby spełnić wymaganie dotyczące pomocy technicznej, partner może odsprzedać pomoc techniczną od innej jednostki, może zlecić całość lub część swojej struktury pomocy technicznej i/lub może skonfigurować strukturę w celu bezpośredniego świadczenia pomocy technicznej.  Partner może naliczać opłaty za całą pomoc techniczną zapewnianą klientom lub jej część. Partner powinien przedstawić swoim klientom zapewnianą pomoc techniczną, godziny obsługi i metodę kontaktu oraz ceny (w przypadku naliowania opłat za pomoc techniczną). 
 
-Partnerzy muszą otrzymywać przychodzące żądania pomocy technicznej od klientów, diagnozować problemy w najlepszy sposób, a następnie rozwiązywać problemy, które znajdują się w zakresie granic podstawowej pomocy technicznej. Jeśli partner nie może rozwiązać problemu, może eskalować problemy do firmy Microsoft za pośrednictwem następujących pojazdów pomocy technicznej:
+Partnerzy muszą otrzymywać przychodzące żądania pomocy technicznej od klientów, diagnozować problemy w sposób najlepiej korzystający z możliwości partnera, a następnie rozwiązywać problemy, które znajdują się w zakresie granic podstawowej pomocy technicznej. Jeśli partner nie może rozwiązać problemu, może eskalować problemy do firmy Microsoft za pośrednictwem następujących pojazdów pomocy technicznej:
 
 - **Pomoc techniczna** dla problemów komercyjnych jest dostępna dla wszystkich partnerów w programie CSP
 

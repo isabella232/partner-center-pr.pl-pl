@@ -7,12 +7,12 @@ ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 ms.date: 02/02/2021
-ms.openlocfilehash: 43b4cea49d5a716a5ca1e9bf397fcc105e4d6fc23c1924e537c05ac1d2ee1728
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 51b2ca2ce98789b41014597efd695fc61e7cbada
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694238"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958557"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>Progi, metody i horyzonty czasowe płatności
 
@@ -35,7 +35,7 @@ Zwykle wysyłamy wszelkie płatności, które są należne w danym miesiącu do 
 | | |
 
 >[!NOTE]
->Ze względu na zmiany kursów wymiany walut, dokładna kwota sprzedaży może się nieznacznie różnić w poszczególnych walutach. Exchange są obliczane co miesiąc. W zależności od tego, kiedy miała miejsce transakcja, stosowany jest odpowiedni kurs wymiany. Kurs wymiany i kurs daty, dla którego był wymuszany, są wskazywane w raporcie wypłat odpowiednio w kolumnach exchangeRate i exchangeRateDate.
+>Ze względu na zmiany kursów wymiany walut dokładna kwota sprzedaży może się nieznacznie różnić w poszczególnych walutach. Exchange są obliczane co miesiąc. W zależności od tego, kiedy miała miejsce transakcja, stosowany jest odpowiedni kurs wymiany. Kurs wymiany i kurs daty, dla którego był wymuszany, są wskazywane w raporcie wypłat odpowiednio w kolumnach exchangeRate i exchangeRateDate.
 
 
 ## <a name="payment-methods-in-countries-and-regions"></a>Formy płatności w krajach i regionach

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Dowiedz się, jak autoryzowany doradca subskrypcji może użyć usługi Partner Center, aby utworzyć ofertę zakupu i niestandardowy adres URL do dołączyć do zaproszenia Office 365 wersji próbnej.
+description: Dowiedz się, jak autoryzowany doradca subskrypcji może użyć usługi Partner Center, aby utworzyć ofertę zakupu i niestandardowy adres URL do dołączyć do ofert Office 365 wersji próbnej.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c53f9be767c1c55adc4ee177f9aa629ec7a638ced8f74d5e4105ad9d7145813e
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: ab85a6cb11a49f48362299c27bd110ec0cf54cb5
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685245"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959385"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Doradcy: Tworzenie oferty zakupu
 
@@ -25,47 +25,47 @@ ms.locfileid: "115685245"
 > [!NOTE]
 > Ta funkcja jest dostępna tylko dla partnerów firmy Microsoft, którzy są autoryzowanymi doradcami subskrypcji.
 
-Po wysłaniu zaproszenia do wersji próbnej dla usługi Office 365 do klienta możesz wykonać kolejne czynności, tworząc i wysyłając ofertę zakupu dostosowaną do potrzeb klienta. Jeśli masz certyfikat, aby oferować administrację delegowaną, możesz dodać opcję do oferty zakupu, która umożliwia administrowanie kontem w imieniu klienta.
+Po wysłaniu zaproszenia do wersji próbnej dla usługi Office 365 do klienta możesz wykonać kolejne czynności, tworząc i wysyłając ofertę zakupu dostosowaną do potrzeb klienta. Jeśli masz certyfikat, aby zaoferować administrację delegowaną, możesz dodać do oferty zakupu opcję, która umożliwia administrowanie kontem w imieniu klienta.
 
-Podczas tworzenia oferty zakupu kreator **Tworzenia oferty** zakupu tworzy niestandardowy adres URL. Adres URL zawiera osadzony kod, który identyfikuje Cię jako doradcę subskrypcji. Tego adresu URL można użyć dla jednego lub wielu klientów. Wyślij adres URL do klienta w wiadomości e-mail. Możesz też opublikować adres URL w swojej witrynie internetowej. Jeśli klient zaakceptuje ofertę, zostanie skojarzony z zakupem klienta.
+Podczas tworzenia oferty zakupu kreator **Tworzenia oferty zakupu** tworzy niestandardowy adres URL. Adres URL zawiera osadzony kod, który identyfikuje Cię jako doradcę subskrypcji. Tego adresu URL można użyć dla jednego lub wielu klientów. Wyślij adres URL do klienta w wiadomości e-mail. Możesz też opublikować adres URL w witrynie internetowej. Jeśli klient zaakceptuje ofertę, klient zostanie skojarzony z jego zakupem.
 
-Jeśli klient chce mieć inną liczbę licencji, wyślij im nową ofertę lub może zmienić liczbę licencji podczas zakupu subskrypcji.
+Jeśli klient chce mieć inną liczbę licencji, wyślij nową ofertę lub może zmienić liczbę licencji podczas zakupu subskrypcji.
 
 ## <a name="to-create-a-purchase-offer"></a>Aby utworzyć ofertę zakupu
 
-1. Przejdź do wersji **próbnych i ofert zakupu Utwórz**  >  **ofertę.**
+1. Przejdź do wersji **próbnych i ofert zakupu Utwórz**  >  **ofertę**.
 
 2. Na stronie **Tworzenie oferty zakupu** wybierz opcje oferty zakupu, które chcesz uwzględnić:
 
-    - **Biuro partnerskie:** jeśli firma ma wiele biur, wybierz biuro, z którym chcesz skojarzyć tę ofertę zakupu.
+    - **Biuro partnerskie:** jeśli Twoja firma ma wiele biur, wybierz biuro, z którym chcesz skojarzyć tę ofertę zakupu.
 
         Aby dodać lokalizacje biur partnerskich, zobacz [Dodawanie lokalizacji](manage-locations.md). Nowe lokalizacje biur mogą wymagać do 24 godzin od ich utworzenia na liście biura **partnerskiego.**
 
     - **Lokalizacja użycia:** wybierz lokalizację, w której klient będzie używać usług.
     - **Subskrypcje:** lista subskrypcji, które można wybrać, zależy od lokalizacji użycia kraju lub regionu klienta. Zaznacz pole wyboru subskrypcji lub subskrypcji, które zaoferujesz klientowi.
     - **Liczba licencji:** po wybraniu subskrypcji wpisz liczbę licencji, które chcesz uwzględnić w ofercie zakupu.
-    - **Administracja delegowana:** ta opcja jest dostępna tylko dla partnerów, którzy mają certyfikaty do zaoferowania administracji delegowaowej. Wybierz tę opcję, jeśli chcesz zaoferować klientowi administrację delegowaną. Jeśli to zrobisz, klient może zaakceptować ofertę zakupu z lub bez akceptacji administracji delegowane.
+    - **Administracja delegowana:** ta opcja jest dostępna tylko dla partnerów, którzy mają certyfikaty do zaoferowania administracji delegowaowej. Wybierz tę opcję, jeśli chcesz zaoferować klientowi administrację delegowaną. Jeśli to zrobisz, klient może zaakceptować ofertę zakupu z akceptacją administracji delegowaowej lub bez jej akceptacji.
 
 3. Wybierz opcję **Dalej**.
 
 4. Na stronie **Wysyłanie** skopiuj informacje o ofercie zakupu i adres URL, a następnie wklej je w wiadomości e-mail, dokumencie lub na stronie internetowej, aby utworzyć niestandardową ofertę zakupu.
 
     > [!NOTE]
-    > Zanotuj identyfikator podsumowania **oferty zakupu**. Użyj jej do śledzenia oferty.
+    > Zanotuj identyfikator podsumowania **oferty Zakupu.** Użyj jej do śledzenia oferty.
 
 5. Wiadomość można spersonalizować, uwzględniając logo firmy, wprowadzenie, uwagi zamykające lub inne informacje.
 
     Wyślij ofertę zakupu do klienta.
 
-6. Podczas dostosowywania komunikatu rozważ uwzględnienie tych informacji:
+6. Podczas dostosowywania komunikatu rozważ uwzględnienia tych informacji:
 
     - Zidentyfikuj się jako autoryzowany partner chmury firmy Microsoft.
     - Powiesz klientom, że będą oni rozliczani bezpośrednio przez firmę Microsoft.
     - Poinformuj klientów, jak skontaktować się z Tobą w przypadku pytań dotyczących usługi lub oferty.
-    - Należy pamiętać, że klienci kontrolują liczbę zakupionych licencji użytkowników i mogą zmieniać liczbę licencji po zaakceptowaniu oferty.
+    - Po daj klientom znać, że kontrolują liczbę zakupionych licencji użytkowników i mogą zmieniać liczbę licencji po zaakceptowaniu oferty.
     - Jeśli oferujesz administrację delegowaną, wyjaśnij, co to oznacza, i jakie będą Twoje obowiązki. Aby uzyskać więcej informacji na temat administrowania delegowanego, zobacz [Oferty administracji delegowane.](customers-revoke-admin-privileges.md)
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Tworzenie bazy klientów przy użyciu zaproszeń Office 365 próbnych i ofert zakupu](advisors-build-your-business.md)
+- [Tworzenie bazy klientów przy użyciu Office 365 próbnych i ofert zakupu](advisors-build-your-business.md)
 - [Partnerzy nie mogą już rejestrować się w roli doradcy](advisors-no-csp.md)

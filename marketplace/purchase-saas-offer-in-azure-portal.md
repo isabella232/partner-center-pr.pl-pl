@@ -9,15 +9,15 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
 ms.date: 08/05/2021
 ms.openlocfilehash: 4f83d5c85f0316ad5c9d9ad75ca6519b5940146f
-ms.sourcegitcommit: 38afe7e35e3dce4f35cf7352cc98e3d53e979a62
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "122752089"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123937038"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Kupowanie oferty SaaS w Azure Portal
 
-W tym artykule wyjaśniono różne opcje i wymagania dotyczące wyszukiwania, wypróbowania i kupowania oferty SaaS (oprogramowanie jako usługa) z Azure Portal.
+W tym artykule wyjaśniono różne opcje i wymagania dotyczące wyszukiwania, próby i zakupu oferty saaS (oprogramowanie jako usługa) z Azure Portal.
 
 ## <a name="create-a-saas-subscription"></a>Tworzenie subskrypcji SaaS
 
@@ -36,7 +36,7 @@ Ograniczenia dotyczące subskrypcji SaaS obejmują:
 
 ## <a name="saas-offers-discovery-in-azure-portal"></a>Usługa SaaS oferuje odnajdywanie w Azure Portal
 
-Gdy jesteś w Azure Portal, istnieje kilka sposobów zawężenia wyszukiwania, aby skoncentrować się na ofertach SaaS.
+Po zakończeniu Azure Portal istnieje kilka sposobów zawężenia wyszukiwania, aby skoncentrować się na ofertach SaaS.
 
 ### <a name="narrowing-your-search"></a>Zawężanie wyszukiwania
 
@@ -51,19 +51,19 @@ Filtrowany widok przedstawia każdą dostępną ofertę SaaS reprezentowaną prz
 
 - Omówienie — szczegółowe informacje o usłudze, marketingu i materiałach edukacyjnych
 - Plany i ceny — każda oferta będzie zawierać co najmniej jeden plan z różnymi warunkami i cenami rozliczeń
-- Informacje o użyciu i pomoc techniczna — Publisher identyfikator oferty, identyfikator oferty i identyfikator planu
+- Informacje o użyciu i pomoc techniczna — obejmuje Publisher, identyfikator oferty i identyfikator planu
 - Ocena i przeglądy określonej oferty SaaS
 
 ## <a name="available-billing-models-plansskus-for-saas-offers"></a>Dostępne modele rozliczeń (plany/jednostki SKU) dla ofert SaaS
 
-Każda oferta SaaS będzie mieć co najmniej jeden plan. Z każdą ofertą jest skojarzony model cen: stawka płaska lub za użytkownika. Każda cena planu to opłata cykliczna, która może być równa zero dolarów (wszystkie wymienione ceny są przeznaczone tylko do celów i nie mają odzwierciedlać rzeczywistych kosztów). Ta opłata jest stawką zryczałtową lub ceną za użytkownika. Dostępne typy planów:
+Każda oferta SaaS będzie mieć co najmniej jeden plan. Z każdą ofertą jest skojarzony model cen: stawka płaska lub za użytkownika. Każda cena planu jest opłatą cykliczną, która może być równa zero dolarów (wszystkie wymienione ceny są przeznaczone tylko do celów i nie są przeznaczone do odzwierciedlania rzeczywistych kosztów). Ta opłata jest stawką zryczałtową lub ceną za użytkownika. Dostępne typy planów:
 
 - **Plany miesięczne** — cykliczna opłata miesięczna; opłata płaska lub miesięczna za użytkownika, która jest opłacana w cyklu miesięcznym. Po zakończeniu okresu plan zostanie odnawiany automatycznie.
 - **Plany roczne** — cykliczna opłata roczna; opłata płaska lub roczna opłata za użytkownika, która jest opłacana w cyklu rocznym. Po zakończeniu okresu plan zostanie odnawiany automatycznie.
 - **Mierniki** niestandardowe — wraz z opłatami cyklicznmi plan stawki stałej może również obejmować opcjonalne niestandardowe mierzone wymiary dla użycia opłat za użycie zasobów, które nie jest uwzględnione w stawce stałej. Każdy wymiar reprezentuje rozliczaną jednostkę. Jest to zmienny koszt, który zmienia się w zależności od użycia jednostek mierzonych, takich jak: przepustowość, bilety lub przetworzone wiadomości e-mail. Opłata zostanie naliczona zgodnie z zużyciem tych wymiarów co miesiąc. Należy pamiętać, że zużycie nadgorętowe zaczyna się tylko wtedy, gdy zostały użyte wszystkie mierzone jednostki uwzględnione w stawce zryczałtowej.
 - **Bezpłatna** wersja próbna — w niektórych przypadkach plan obejmuje miesięczny okres próbny, w którym można bezpłatnie korzystać z oprogramowania.  Po zakończeniu okresu próbnego opłata zostanie naliczona zgodnie z planem. Oferty wersji próbnej nie są zgodne z miernikami niestandardowymi.
 
-Te modele cenowe są dostępne zarówno w przypadku planów publicznych, jak i prywatnych.
+Te modele cenowe są dostępne zarówno dla planów publicznych, jak i prywatnych.
 
 ## <a name="saas-purchase-experience"></a>Środowisko zakupu saaS
 
@@ -72,7 +72,7 @@ Te modele cenowe są dostępne zarówno w przypadku planów publicznych, jak i p
     1. *Zdefiniuj subskrypcję,* której chcesz użyć do rozliczeń. Subskrypcja platformy Azure powinna mieć zdefiniowaną prawidłową metodę zakupu. Musisz mieć odpowiedni poziom uprawnień lub grupę zasobów w ramach tej subskrypcji z odpowiednim poziomem uprawnień. Ponadto kraj rozliczeniowy powinien być kraju, w którym oferta jest dostępna do zakupu. Subskrypcje platformy Azure bez ważnej formy płatności (na przykład subskrypcji MSDN) mogą być używane tylko do zakupu bezpłatnych planów
     1. Wybierz lub utwórz **grupę zasobów,* do której będzie należeć zasób SaaS.
     1. Wpisz nazwę *subskrypcji* SaaS, aby łatwo ją później zidentyfikować. Po zakupie nie można zmienić nazwy.
-    1. W **obszarze** Plan zobaczysz wybrany plan na stronie szczegółów produktu (PDP). Jeśli nie dokonano aktywnego wyboru w pliku PDP, zostanie wyświetlony plan domyślny. Możesz zmienić wybór, wybierając link **Zmień plan.** Wybierz odpowiedni okres rozliczeniowy, a następnie wybierz inny plan. Możesz zmienić plan po zakupie, jeśli wydawca go obsługuje. Nie będzie można jednak zmienić okresu z miesięcznego na roczny lub roczny na miesięczny.
+    1. W **obszarze** Plan zobaczysz wybrany plan na stronie szczegółów produktu (PDP). Jeśli w pliku PDP nie dokonano aktywnego wyboru, zostanie wyświetlony plan domyślny. Możesz zmienić wybór, wybierając link **Zmień plan.** Wybierz odpowiedni okres rozliczeniowy, a następnie wybierz inny plan. Możesz zmienić plan po zakupie, jeśli wydawca go obsługuje. Nie będzie można jednak zmienić okresu z miesięcznego na roczny ani z rocznego na miesięczny.
     1. W przypadkach, gdy model cenowy jest określony dla *użytkownika,* może być konieczne określenie liczby *użytkowników*. Zobaczysz, że cena zmieni się w zależności od wybranej subskrypcji, planu i okresu.
 3. Przejdź do **karty Tagi** — *tagi* są zdefiniowanymi przez użytkownika parami klucz/wartość, które można umieścić bezpośrednio w zasobie lub grupie zasobów. Tagi mogą być używane do późniejszego łatwego znalezienia zasobu SaaS. Platforma Azure obsługuje obecnie maksymalnie 50 tagów na zasób i grupę zasobów. Tagi mogą być umieszczane w zasobie w czasie tworzenia lub dodawane do istniejącego zasobu.
 4. Przejdź do **tematu Przeglądanie + subskrybowanie,** aby zapoznać się ze szczegółami oferty i planu.
@@ -113,7 +113,7 @@ Komunikaty o błędach, które mogą wystąpić podczas tego procesu:
 - Zakup nie powiódł się, ponieważ nie można zweryfikować logowania w umowie prawnej.
   - Ponów próbę. Jeśli błąd będzie się powtarzać, spróbuj dokonać zakupu przy użyciu innej subskrypcji platformy Azure lub skontaktuj się z pomocą techniczną.
 
-- Zakup oferty *offerID według* *wydawcy publisherID* nie powiódł się. Ta oferta nie jest obecnie dostępna do zakupu.
+- Zakup *offerID według wydawcy* *publisherID* nie powiódł się. Ta oferta nie jest obecnie dostępna do zakupu.
   - Spróbuj ponownie później. Jeśli po godzinie ten komunikat o błędzie będzie nadal wyświetlany, skontaktuj się z pomocą techniczną.  
 
 - Zakup planu *planID oferty* *offerID* według *wydawcy publisherID* nie powiódł się. Ten plan nie jest obecnie dostępny do zakupu.
@@ -122,12 +122,12 @@ Komunikaty o błędach, które mogą wystąpić podczas tego procesu:
 - Adres *e-mail klienta* o identyfikatorze *obiektu ObjectID* nie ma autoryzacji do wykonania akcji *DeploymentValidationAction* w zakresie *ResourceGroup; DeploymentScope* lub zakres jest nieprawidłowy.  
   - Ten komunikat zostanie wyświetlony, jeśli nie masz odpowiednich uprawnień do subskrypcji/grupy zasobów platformy Azure.  
     Jeśli niedawno udzielono dostępu, odśwież swoje poświadczenia.  
-    Aby wdrożyć zasoby w grupie zasobów, musisz mieć co najmniej dostęp współautora. Sprawdź stan dostępu w obszarze **Grupy zasobów,** a następnie wybierz **Access Control**. To pokazuje, kim jest "Właściciel", którego możesz poprosić o przypisanie Cię jako "współautora".
+    Aby wdrożyć zasoby w grupie zasobów, musisz mieć co najmniej dostęp współautora. Sprawdź stan dostępu w obszarze **Grupy zasobów,** a **następnie** Access Control . To pokazuje, kim jest "Właściciel", którego możesz poprosić o przypisanie Cię jako "Współautor".
 
 - Subskrypcja używana do tego zakupu nie zezwala na zakupy w witrynie Marketplace.  
   - Użyj innej subskrypcji lub poproś administratora o zmianę definicji tej subskrypcji i ponów próbę.
 
 ## <a name="next-steps"></a>Następne kroki
 
-- Jeśli już zakupiono ofertę na platformie handlowej, przejdź do [tematu Rozliczenia i fakturowanie](billing-invoicing.md)
+- Jeśli już zakupiono ofertę w witrynie Marketplace, przejdź do [tematu Rozliczenia i fakturowanie](billing-invoicing.md)
 - Dowiedz się więcej o [planach prywatnych](private-plans.md)

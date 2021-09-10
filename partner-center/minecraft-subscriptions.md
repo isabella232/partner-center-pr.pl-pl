@@ -8,12 +8,12 @@ description: Sprzedawaj Minecraft Education Edition zakwalifikowanym klientom ed
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: 9ece551c2ce29ca24607611252889b5df397447dd49f3f795f6ac42ed2a6b3e1
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 86efabf41d8a1d22b08a7e2ceae5fb47e2bd42c0
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694102"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958725"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Sprzedaż Minecraft: Education Edition subskrypcji dla klientów edukacyjnych
 
@@ -36,7 +36,7 @@ Wykonaj poniższe kroki, aby **kupić Minecraft: Education Edition** subskrypcji
   
   3.  Wybierz częstotliwość rozliczeń, która najlepiej odpowiada Twoim potrzebom, a następnie wybierz pozycję **Edukacja** w **sekcji** Katalog.
 
-  4.  Wybierz Minecraft subskrypcji, którą chcesz kupić w imieniu klienta, a następnie wprowadź liczbę licencji. Wybierz opcję **Dalej: Review** (Dalej: przegląd).
+  4.  Wybierz Minecraft subskrypcję, którą chcesz kupić w imieniu klienta, a następnie wprowadź liczbę licencji. Wybierz opcję **Dalej: Review** (Dalej: przegląd).
 
       >[!NOTE]
       >Te licencje można wyświetlić i zarządzać nimi w Partner Center. Twój pomocnik będzie widzieć te licencje i zarządzać nimi ze swojego spisu na stronie szczegółów Minecraft: Education Edition [(aby](https://educationstore.microsoft.com/store/details/minecraft-education-edition/9nblggh4r2r6) wyświetlić stronę szczegółów, musisz zalogować się do sklepu Store for Education). 

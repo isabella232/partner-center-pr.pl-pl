@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: c3b1e4a6ce105197a2f4722e7d29dd9076d8d4cb5d40266075706cb6ff68989d
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: fafd9e2c13abb1f4b9b12e5839662b27c4852452
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115684620"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958833"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Uzyskiwanie uprawnień do zarządzania usługą lub subskrypcją klienta
 
@@ -52,7 +52,7 @@ Twoi klienci mogą dowiedzieć się, którzy z partnerów mają uprawnienia admi
 
 ## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>Klienci mogą zarządzać delegowanymi uprawnieniami administratora partnera 
 
-Klient może zdecydować się na usunięcie delegowanych uprawnień administratora ze swojej dzierżawy, ale zachować relację z To użytkownikiem na potrzeby odnawiania subskrypcji i licencji. Klienci zarządzają prawami i uprawnieniami do swoich kont Office 365 na **stronie** Relacje z partnerami w centrum Office 365 administracyjnego. Na tej stronie klienci mogą:
+Klient może zdecydować się na usunięcie delegowanych uprawnień administratora ze swojej dzierżawy, ale zachować relację z To użytkownikiem na potrzeby odnawiania subskrypcji i licencji. Klienci zarządzają prawami i uprawnieniami do swoich kont Office 365 na **stronie** Relacje partnerów w centrum Office 365 administracyjnego. Na tej stronie klienci mogą:
 
 - Zobacz, z którymi partnerami są oni w relacji i z którymi partnerami mają delegowane uprawnienia administratora
 
@@ -91,13 +91,13 @@ Każda subskrypcja platformy Azure ma własny zestaw ról zarządzania zasobami.
 
 ## <a name="windows-autopilot"></a>Windows Autopilot
 
-W Partner Center CSP partnerzy mogą zarządzać profilami rozwiązania Autopilot dla swoich klientów bez delegowanych uprawnień administratora w takich okolicznościach: 
+Z Partner Center CSP partnerzy mogą zarządzać profilami rozwiązania Autopilot dla swoich klientów bez delegowanych uprawnień administratora w takich okolicznościach: 
 
 - Jeśli klient usunie delegowane uprawnienia administracyjne, ale zachowa relację odsprzedawcy z Toem, możesz nadal zarządzać profilami rozwiązania Autopilot.
 
 - Możesz zarządzać urządzeniami klientów dodanymi przez Ciebie lub innego partnera. 
 
-- Nie można zarządzać urządzeniami dodanymi przez klienta za pośrednictwem witryny Microsoft Store dla Firm, Microsoft Store dla Instytucji Edukacyjnych ani Microsoft Intune Portal.
+- Nie można zarządzać urządzeniami dodanymi przez klienta za pośrednictwem Microsoft Store dla Firm, Microsoft Store dla Instytucji Edukacyjnych lub Microsoft Intune Portal.
 
 Aby uzyskać więcej informacji na temat rozwiązania Autopilot, zobacz Simplify device setup with Windows Autopilot (Upraszczanie konfiguracji [urządzenia za pomocą Windows Autopilot).](autopilot.md)
 

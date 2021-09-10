@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5443dedfcae17152b51df7aa021d900b2f61892509c85ba3c2ba99cb0b9b3a8d
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 4184d155ceff22a34e1a85d2909f4e1b17a46daa
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692674"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959470"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>Informacje o stanie płatności i obliczeniach oceny rozwiązania
 
@@ -36,7 +36,7 @@ Możesz sprawdzić stan płatności dla stanu szansy sprzedaży oceny rozwiązan
 7. Sprawdź stan żądania płatności.
 
     - Oczekiwanie na przegląd płatności: Skontaktuj się z zespołem zachęt kanału w celu dalszego badania — szczegóły kontaktowe wymienione poniżej.
-    - Zatwierdzenie płatności: Płatność zostanie wyrenderowana przez firmę Microsoft w ciągu 35 dni od końca miesiąca po certyfikacji EM kompletności zaangażowania na mikroukładzie, w którym utworzono żądanie płatności
+    - Zatwierdzenie płatności: Płatność zostanie wyrenderowana przez firmę Microsoft w ciągu 35 dni od końca miesiąca następującego po certyfikacji EM kompletności zaangażowania na mikroukładzie, w którym utworzono żądanie płatności
     -  Wysłane płatności: kliknij hiperlink stanu, aby wyświetlić szczegóły wydania płatności.
     - Anulowana płatność: kliknij hiperlink stanu, aby wyświetlić przyczynę odrzucenia. Aby uzyskać więcej informacji, skontaktuj się z zespołem channel incentives.
 

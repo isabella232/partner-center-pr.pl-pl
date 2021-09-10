@@ -9,12 +9,12 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 204544ef0372b98014f8e90b02bb4c7608df81e12c006cf9ca7459d1c63cf52a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 4f5a7e63a4e4ae79d85f07f07f0951d32535d815
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690209"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959506"
 ---
 # <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>Dowiedz się, jak partnerzy mogą współpracować z innymi partnerami w programie CSP
 
@@ -38,11 +38,11 @@ Jako partner w programie CSP możesz zdecydować, jak chcesz wchodzić w interak
 
 **Odsprzedawcy pośredni** są partnerami w programie CSP, którzy różnią się wielkością i zakresem biznesowym, ale nie mają bezpośredniej relacji rozliczeń z firmą Microsoft. Jako odsprzedawca pośredni polegasz na dostawcach pośrednich do transakcji w programie CSP. Niektórzy odsprzedawcy pośredni mogą również oferować klientom zarządzane usługi, pomoc techniczną i rozwiązania rozliczeniowe. Dzięki współpracy z dostawcami pośrednimi możesz uzyskać kilka korzyści. Dzięki współpracy z doświadczonymi dostawcami technologii możesz wejść na rynek bez konieczności pozyskania dużych inwestycji kapitałowych. Odsprzedawca pośredni może również uzyskać dostęp do szerszego portfolio rozwiązań firmy Microsoft i innych firm. Aby dowiedzieć się więcej na temat zostania odsprzedawcą pośrednim, zobacz [Zadania odsprzedawcy pośredniego w Partner Center](indirect-reseller-tasks-in-partner-center.md).
 
-**Partnerzy z rozliczaniem bezpośrednim są** partnerami z bezpośrednią relacją rozliczeń z firmą Microsoft. Jako partner z rozliczeniami bezpośrednimi możesz kupować oferty własne i oferty innych firm bezpośrednio z platformy handlowej firmy Microsoft, a następnie sprzedawać je klientom. Należy spełnić pewne wymagania programowe dotyczące roli partnera z rozliczeniami bezpośrednimi. Obejmuje to możliwość integracji z firmą Microsoft przy użyciu interfejsów API. Musisz również mieć możliwość zapewnienia klientom usług rozliczeniowych, pomocy technicznej i usług zarządzanych na bieżąco. Aby uzyskać więcej informacji, zobacz [Rejestrowanie jako partner z rozliczeniami bezpośrednimi.](enrolling-in-the-csp-program.md#enroll-as-a-direct-bill-partner)
+**Partnerzy z rozliczaniem bezpośrednim są** partnerami z bezpośrednią relacją rozliczeń z firmą Microsoft. Jako partner z rozliczeniami bezpośrednimi możesz kupować oferty firmy Microsoft i oferty innych firm bezpośrednio z platformy handlowej firmy Microsoft, a następnie sprzedawać je klientom. Należy spełnić pewne wymagania programowe dotyczące roli partnera z rozliczeniami bezpośrednimi. Obejmuje to możliwość integracji z firmą Microsoft przy użyciu interfejsów API. Musisz również mieć możliwość zapewnienia klientom usług rozliczeniowych, pomocy technicznej i usług zarządzanych na bieżąco. Aby uzyskać więcej informacji, zobacz [Rejestrowanie jako partner z rozliczeniami bezpośrednimi.](enrolling-in-the-csp-program.md#enroll-as-a-direct-bill-partner)
 
 ## <a name="csp-program-requirements-signing-the-microsoft-partner-agreement-mpa"></a>Wymagania programu CSP: podpisywanie Microsoft Partner Agreement (MPA)
 
-W ramach Dostawca rozwiązań w chmurze ciągłego rozwoju programu zaktualizowaliśmy istniejące umowy dla partnerów, którzy chcą dołączyć do programu CSP.
+W ramach ciągłego Dostawca rozwiązań w chmurze rozwoju programu zaktualizowaliśmy istniejące umowy dla partnerów, którzy chcą dołączyć do programu CSP.
 
 Umowa **Microsoft Partner Agreement (MPA)** zapewnia partnerom usprawnioną, cyfrową umowę, która obsługuje nowe scenariusze biznesowe, ograniczoną potrzebę wielu kontraktów partnerskich oraz łatwiejszą zgodność z globalnymi wymaganiami prawnymi.
 
@@ -54,7 +54,7 @@ Odsprzedawca pośredni musi podpisać umowę MPA, aby odsprzedawca może uczestn
 - Zanim dostawca pośredni będzie w stanie skojarzyć identyfikator MPN odsprzedawcy pośredniego z nową subskrypcją CSP
 - Zanim dostawca pośredni będzie w może dokłońcowi transakcję z tym odsprzedawcą
 
-W rzeczywistości odsprzedawcy pośredni muszą wykonać trzy czynności, zanim będą w stanie wykonać transakcję nowej firmy w ramach Dostawca rozwiązań w chmurze biznesowego:
+W rzeczywistości odsprzedawcy pośredni muszą wykonać trzy czynności, zanim będą oni w stanie wykonać transakcję nowej firmy w Dostawca rozwiązań w chmurze programie:
 
 - Dołączanie do Partner Center
 - Rejestrowanie jako odsprzedawca pośredni
@@ -66,7 +66,7 @@ Aby uzyskać więcej informacji, [zobacz Microsoft Partner Agreement (MPA) for C
 
 Partnerzy w programie CSP oferują wiele możliwości współpracy. W poniższej sekcji opisano, w jaki sposób kilka przykładowych scenariuszy partnerów może być obsługiwanych w programie CSP.
 
-**Przykładowy scenariusz 1:** Co zrobić, jeśli partner chce sprzedawać klientowi, być właścicielem relacji end-to-end i być odpowiedzialnym za rozliczenia i pomoc techniczną?
+**Przykładowy scenariusz 1:** Co zrobić, jeśli partner chce sprzedawać klientowi, być właścicielem relacji end-to-end oraz odpowiadać za rozliczenia i pomoc techniczną?
 
 Ten scenariusz jest obsługiwany przez dwa typy relacji transakcyjnych:
 
@@ -77,7 +77,7 @@ Ten scenariusz jest obsługiwany przez dwa typy relacji transakcyjnych:
 
 Klient końcowy może kupować różne usługi od różnych partnerów w zależności od potrzeb biznesowych klienta. Aby uzyskać więcej informacji, zobacz [Obsługa wielu partnerów.](multipartner.md)
 
-**Przykładowy scenariusz 3:** Co zrobić, jeśli klient kontaktuje się z partnerem, który chce go zatrudnić do obsługi swoich subskrypcji i zarządzania nimi?
+**Przykładowy scenariusz 3:** Co zrobić, jeśli klient kontaktuje się z partnerem, który chce go zatrudnić w celu obsługi subskrypcji i zarządzania nimi?
 
 Klient może zaangażować wielu partnerów w zarządzanie swoimi subskrypcjami. Aby uzyskać więcej informacji, zobacz [Mult-channel support (Obsługa kanału Mult).](multichannel.md)
 
@@ -85,11 +85,11 @@ Klient może zaangażować wielu partnerów w zarządzanie swoimi subskrypcjami.
 
 Partner może kupić jako klient od odsprzedawcy pośredniego lub od partnera z rozliczeniami bezpośrednimi. W tym celu należy jednak użyć innej dzierżawy niż dzierżawa używana przez program CSP.
 
-W takim przypadku usługi zakupione przez partnera należy aprowizować w dzierżawie wyznaczonej jako Typ klienta (dzierżawa tylko do użytku wewnętrznego). Takich usług **nie** można aprowizować w dzierżawie programu CSP istniejącego partnera (dzierżawie używanej przez partnera w Dostawca rozwiązań w chmurze programie).</br>
+W takim przypadku usługi zakupione przez partnera należy aprowizować w dzierżawie wyznaczonej jako typ klient (dzierżawa tylko do użytku wewnętrznego). Takich usług **nie** można aprowizować w dzierżawie CSP istniejącego partnera (dzierżawy używanej przez partnera w Dostawca rozwiązań w chmurze programie).</br>
 
 **Przykładowy scenariusz 5:** Co zrobić, jeśli partner w programie CSP chce sprzedawać sobie jako klient końcowy?
 
-Zgodnie z umową partnerzy w programie CSP nie mogą sprzedawać sobie (jako klienci końcowi) ani swoim organizacjom powiązanym (jako klienci końcowi) ofert firmy Microsoft ani innych firm.
+Zgodnie z umową partnerzy w programie CSP nie mogą sprzedawać sobie (jako klienci końcowi) lub organizacjom powiązanym (jako klienci końcowi) ofert firmy Microsoft lub innych firm.
 
 **Przykładowy scenariusz 6:** Co zrobić, jeśli odsprzedawca pośredni chce dokonać zakupu jako klient końcowy?
 
@@ -99,7 +99,7 @@ W takim przypadku odsprzedawca pośredni może użyć jednej z następujących o
 
 - **Opcja 1.** Partnerzy mogą skonfigurować inną dzierżawę usługi Azure AD, która jest osobnym środowiskiem dla ich klientów.
 
-- **Opcja 2.** Odsprzedawca pośredni może zakończyć relację z jednym dostawcą pośrednim i ustanowić nową relację dostawcy CSP z innym dostawcą pośrednim. Dzięki temu odsprzedawca pośredni może zakupić subskrypcje na własny użytek swojej firmy od innego partnera rozliczania bezpośredniego w programie CSP.
+- **Opcja 2.** Odsprzedawca pośredni może zakończyć relację z jednym dostawcą pośrednim i ustanowić nową relację dostawcy CSP z innym dostawcą pośrednim. Dzięki temu odsprzedawca pośredni może na własny użytek zakupić subskrypcje od innego partnera rozliczania bezpośredniego w programie CSP.
 
    >[!NOTE]
    >Aby zakończyć relację między dostawcą pośrednim i odsprzedawcą pośrednim, skontaktuj się z [Pomoc techniczna Microsoft](support-from-microsoft.md).
@@ -108,7 +108,7 @@ W takim przypadku odsprzedawca pośredni może użyć jednej z następujących o
 
 **Przykładowy scenariusz 7:** Co zrobić, jeśli odsprzedawca pośredni chce sprzedawać klientowi, który znajduje się w innym regionie?
 
-Partner w programie CSP może sprzedawać tylko klientom z tego samego regionu. Aby uzyskać więcej informacji, [zobacz Dostawca rozwiązań w chmurze regionalne rynki i waluty programu](regional-authorization-overview.md).
+Partner w programie CSP może sprzedawać tylko klientom z tego samego regionu. Aby uzyskać więcej informacji, [zobacz Dostawca rozwiązań w chmurze regionalne i waluty programu](regional-authorization-overview.md).
 
 **Przykładowy scenariusz 8:** Co zrobić, jeśli dostawca pośredni chce ustanowić relację z odsprzedawcą pośrednim w innym regionie?
 

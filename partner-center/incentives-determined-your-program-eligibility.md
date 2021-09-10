@@ -1,5 +1,5 @@
 ---
-title: Program zachęt uprawnienia
+title: Program zachęt uprawnień
 description: Upewnij się, że zostały spełnione wymagania dotyczące uprawnień do programu zachęt. Ten proces obejmuje sprawdzanie uprawnień w przewodniku po programie.
 ms.topic: how-to
 ms.service: partner-dashboard
@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 03/16/2021
-ms.openlocfilehash: 82e873cc12c800b2eb96c175364bcda37dc609875aa04db0d157b45087b6f03d
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 8b9442a99aaf1ed23242eb568859d3113a8262d4
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690815"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958582"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Określanie uprawnień do programu zachęt
 
@@ -35,7 +35,7 @@ Wymagania dotyczące uprawnień do programu można znaleźć w przewodniku po pr
 
 4. W polu **Stan** wybierz pozycję **Wymagania dotyczące uprawnień.**
 
-   :::image type="content" source="images/incentives/eligibility.png" alt-text="Zrzut ekranu przedstawiający przykład wymagań dotyczących zachęt.":::
+   :::image type="content" source="images/incentives/eligibility.png" alt-text="Zrzut ekranu to przykład wymagań dotyczących zachęt.":::
 
 5. Wypełnij wszystkie obszary, które nie są zaznaczone w celu spełnienia uprawnień. Każdy program zachęt ma własny zestaw wymagań.
 

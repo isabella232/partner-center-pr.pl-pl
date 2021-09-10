@@ -1,5 +1,5 @@
 ---
-title: Recon file fields for CSP one-time purchases (Ponowne pola plików dla zakupów jednego programu CSP)
+title: Recon file fields for CSP one-time purchases (Ponowne pola plików dla zakupów w 2017 r.) dla programu CSP
 ms.topic: conceptual
 ms.date: 01/29/2021
 description: Dowiedz się więcej na temat wszystkich elementów w pliku uzgodnień dotyczących zakupów Partner Center CSP, w tym przykładowych wartości.
@@ -8,19 +8,19 @@ ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 34ba1c906b2b00b96511aec20d44c358a57925269454345237661e5b403d0099
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d5d404519c107a3e1f0e926451eef4935c993fbd
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115697248"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959218"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Pola pliku uzgodnień zakupu dla programu CSP
 
 **Odpowiednie role:** Administrator konta | Agent rozliczeń
 
 ## <a name="using-the-recon-file"></a>Korzystanie z pliku rekonescji
-W poniższej tabeli przedstawiono opisy i przykładowe wartości pól w pliku uzgodnień w przypadku zakupów tylko raz w programie CSP.
+W poniższej tabeli przedstawiono opisy i przykładowe wartości pól w pliku uzgodnień dla zakupów jednoe terminowych w programie CSP.
 
 Aby uzyskać więcej informacji na temat plików uzgodnień, zobacz [Używanie plików uzgodnień](use-the-reconciliation-files.md).
 
@@ -50,7 +50,7 @@ Aby uzyskać więcej informacji na temat plików uzgodnień, zobacz [Używanie p
 | Waluta | Rachunek jest generowany w kontekście waluty klienta. Oznacza to, że jeśli jesteś partnerem w transakcji z klientami z różnych rozliczanych walut, otrzymasz fakturę dla każdego typu waluty klienta.  | *EUR* |
 | PriceAdjustmentDescription | Przyczyny korekt ceny jednostkowej. Są to główne przyczyny, ale nie tylko ustalanie efektywnej ceny jednostkowej. | *["15,0% środków uzyskane przez partnerów dla zarządzanych usług"]* |
 | PublisherName | Publisher produktu.  | *Microsoft* |
-| PublisherId | Unikatowy identyfikator używany Partner Center do identyfikowania wydawcy. | *Na* |
+| PublisherId | Unikatowy identyfikator używany Partner Center do identyfikowania wydawcy. | *NA* |
 | SubscriptionDescription | Nazwa oferty usługi zakupionej przez klienta, zgodnie z definicją w cenniku. Ta kolumna jest identycznym polem co OfferName. | *Plan platformy Azure* |
 | SubscriptionId | Unikatowy identyfikator subskrypcji na platformie rozliczeniowej firmy Microsoft. Nie służy do uzgadniania. Należy pamiętać, że ten identyfikator nie jest taki sam jak identyfikator subskrypcji w konsoli administracyjnej partnera. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
 | ChargeStartDate | Data rozpoczęcia okresu rozliczeniowego subskrypcji. | *9/1/2020* |
@@ -60,10 +60,10 @@ Aby uzyskać więcej informacji na temat plików uzgodnień, zobacz [Używanie p
 | Unittype | Typ jednostki, w której jest naliczany miernik. | *1 GB/miesiąc* |
 | AlternateId | Alternatywny identyfikator elementu wiersza zamówienia, do których się odwołujesz. | *6dc5c039750a* |
 | Ilość rozliczana | Łączna ilość, która jest rozliczana.  | *0.005001* |
-| BillingFrequency | Plan rozliczeniowy wybrany w momencie zakupu. | *Na*  |
+| BillingFrequency | Plan rozliczeniowy wybrany w momencie zakupu. | *NA*  |
 | PricingCurrency | Waluta w cenniku. | *USD* |
 | PCToBCExchangeRate | Kurs wymiany stosowany dla waluty cennika na walutę rozliczeniową. | *0.846202666* |
-| PCToBCExchangeRateDate | Data, w której jest określana waluta cenowa waluty rozliczeniowej. | *2020-09-30* |
+| PCToBCExchangeRateDate | Data, na której jest określana waluta cenowa waluty rozliczeniowej. | *2020-09-30* |
 | MeterDescription (Opis miernika) | Opis miernika.  | *Tabele — dane LRS przechowywane (GB/miesiąc)* |
 | ReservationOrderId | Identyfikator zamówienia rezerwacji. | *E21A6344E398FFC1C4D7...* |
 | CreditReasonCode | Opis środków. | *Środków na korzystanie z platformy Azure* |

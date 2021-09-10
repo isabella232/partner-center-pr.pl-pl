@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: c46f34a0b4b1873c3cca9b64f42848b2051bf6338ccb121b48f8979729f12703
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 387be6313a1e775963c86714a6c5c825a2ca8169
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694918"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959578"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Generowanie planu marketingowego dla programu zachęt
 
@@ -26,7 +26,7 @@ Plan roszczeń dotyczących współpracy to seria kampanii marketingowych, dzia�
 Możesz wyświetlić swoje plany, wybierając **pozycję Zarządzanie planem** na **stronie Zachęty,** a następnie otwierając program, którego potrzebujesz.
 
 >[!NOTE]
->Na stronie Zachęty może nie być widać strony Zarządzanie planem. Jest to spowodowane tym, Partner Center pulpit nawigacyjny jest dynamiczny i wyświetla tylko to, co jest odpowiednie dla określonej roli i działań. Jeśli nie widzisz strony Zarządzanie planem na stronie Zachęty, prawdopodobnie oznacza to, że nie jesteś obecnie zarejestrowanym w programie, który ma plany. Skontaktuj się z administratorem zachęt w celu uzyskania pomocy.
+>Na stronie Zachęty może nie być widać strony Zarządzanie planami. Dzieje się tak, Partner Center pulpit nawigacyjny jest dynamiczny i wyświetla tylko to, co jest odpowiednie dla określonej roli i działań. Jeśli nie widzisz strony Zarządzanie planami na stronie Zachęty, prawdopodobnie oznacza to, że nie jesteś obecnie zarejestrowanym w programie, który ma plany. Skontaktuj się z administratorem zachęt w celu uzyskania pomocy.
 
 Aby uzyskać więcej informacji na temat planów dla określonej Program zachęt, zobacz przewodnik po programie.
 

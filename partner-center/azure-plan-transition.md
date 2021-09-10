@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 9e02655d2f09ee0c6ca4c7e5fabc60d992d121bb1aceb4de3741af9010752d68
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: eb9d88935bdc339c01ac47153c3d4a23047dc406
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115680788"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957993"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Przechodzenie klientów do planu platformy Azure z istniejących ofert CSP platformy Azure
 
@@ -28,7 +28,7 @@ Możliwość przejścia jest dostępna tylko dla klientów, którzy przejdą do 
 
 ## <a name="transition-existing-csp-offers-to-an-azure-plan"></a>Przechodzenie istniejących ofert CSP do planu platformy Azure
 
-Możesz przejść od klienta z istniejących ofert CSP platformy Azure do usług platformy Azure w ramach planu platformy Azure w nowym doświadczeniu handlowym w programie CSP z poziomu Partner Center. W tym celu partner i klient muszą mieć ustanowioną relację odsprzedawcy za pośrednictwem Partner Center, a klient musi podpisać umowę Umowa z Klientem Microsoft.
+Możesz zmienić klienta z istniejących ofert CSP na platformę Azure do usług platformy Azure w ramach planu platformy Azure w nowym doświadczeniu handlowym w programie CSP z poziomu Partner Center. W tym celu partner i klient muszą mieć ustanowioną relację odsprzedawcy za pośrednictwem Partner Center, a klient musi podpisać umowę Umowa z Klientem Microsoft.
 
 ### <a name="select-transition-to-azure-plan"></a>Wybieranie przejścia do planu platformy Azure
 
@@ -50,7 +50,7 @@ Możesz przejść od klienta z istniejących ofert CSP platformy Azure do usług
    - Jeden plan na klienta w scenariuszach bezpośredniego programu CSP  
    - Jeden plan na odsprzedawcę  
 
-   Na przykład partner kupił dwie oferty Microsoft Azure i uwzględniał w zakupie dwa odrębne por. W takim przypadku przepływ pracy przejścia zakupi dwa plany platformy Azure (po jednym na odsprzedawcę) i automatycznie zamapuje odpowiednie subskrypcje platformy Azure w ramach planów platformy Azure.  
+   Na przykład partner kupił dwie oferty Microsoft Azure i uwzględniał w zakupie dwie odrębne jednostki por. W takim przypadku przepływ pracy przejścia zakupi dwa plany platformy Azure (po jednym na odsprzedawcę) i automatycznie zamapuje odpowiednie subskrypcje platformy Azure w ramach planów platformy Azure.  
 
    **Mapowanie subskrypcji platformy Azure na plan platformy Azure**
 
@@ -70,19 +70,19 @@ Możesz przejść od klienta z istniejących ofert CSP platformy Azure do usług
 
 ### <a name="track-your-transition-details"></a>Śledzenie szczegółów przejścia
 
-Śledź postęp przejścia w Azure Portal, a także w Partner Center.
+Śledź postęp przejścia w Azure Portal a także w Partner Center.
 
 :::image type="content" source="images/azure/details1.png" alt-text="Zrzut ekranu przedstawiający tabelę z listą szczegółów przejścia dla subskrypcji — obejmuje subskrypcję D, datę przejścia i stan przejścia.":::
 
 ### <a name="billing-impact-to-partners"></a>Wpływ na rozliczenia dla partnerów
 
-W przypadku przejścia klienta z istniejącej oferty CSP platformy Azure będziesz mieć wpływ na następujące rozliczenia:
+W przypadku przejścia klienta z istniejącej oferty CSP platformy Azure będą mieć wpływ na następujące rozliczenia:
 
 - Opłaty będą naliczane na istniejącej fakturze za korzystanie z programu CSP do momentu zakończenia oryginalnej subskrypcji platformy Azure dla programu CSP.
 
 - Jeśli masz uprawnienia dostępu administratora do istniejącej subskrypcji programu CSP, będziesz nadal mieć dostęp podczas migrowania tej subskrypcji.
 
-Aby przejść bezpośrednio Enterprise do rejestracji dostawców rozwiązań w chmurze i serwerów w chmurze do usług platformy Azure, przeczytaj Get [billing ownership of Azure subscriptions for Microsoft Partner Agreement](/azure/billing/mpa-request-ownership) (Uzyskiwanie własności rozliczeń subskrypcji platformy Azure dla usług Microsoft Partner Agreement
+Aby przejść bezpośrednio Enterprise umów cSP i rejestracji serwerów i chmury do usług platformy Azure, przeczytaj get [billing ownership of Azure subscriptions for Microsoft Partner Agreement](/azure/billing/mpa-request-ownership)
 
 ### <a name="audit-log"></a>Dziennik inspekcji
 

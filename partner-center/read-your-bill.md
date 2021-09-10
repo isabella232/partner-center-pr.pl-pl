@@ -1,5 +1,5 @@
 ---
-title: Jak odczytać swój rachunek & pliku rekonescji
+title: Jak odczytać rachunek & pliku rekonescji
 ms.topic: article
 ms.date: 06/05/2020
 description: Dowiedz się więcej o plikach uzgodnień & faktur. Na rachunku są Partner Center opłaty za program, produkty i klientów w tym miesięcznym okresie.
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf75d847320e901638890bef8077a1656399d2ffc5aaaf984af329784d1de030
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 839f6f76e7efde4f0ad51375ceb5801f925c2510
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115678241"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959241"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Opis pliku rachunku i uzgodnień — dowiedz się, jak znaleźć je w Partner Center
 
@@ -40,7 +40,7 @@ Poprzednie faktury można znaleźć w sekcji Historia rozliczeń. Wybierz odpowi
 
 ## <a name="invoice-types"></a>Typy faktur
 
-Firma Microsoft wystawi jedną fakturę dla wszelkich opłat opartych na licencjach (takich jak Office 365) i opłat opartych na użyciu (takich jak platforma Azure) oraz oddzielnej faktury za opłaty godzinowe (takie jak RI platformy Azure, witryna Marketplace lub plan platformy Azure).
+Firma Microsoft wyłoży jedną fakturę dla wszelkich opłat opartych na licencjach (takich jak Office 365) i opłat opartych na użyciu (takich jak platforma Azure) oraz oddzielnej faktury za opłaty godzinowe (na przykład za użycie usługi Azure RI, witryny Marketplace lub planu platformy Azure).
 
 Na przykład  
 
@@ -48,26 +48,26 @@ Na przykład
 
 - Partner otrzyma jeden plik PDF faktury i dwa pliki uzgodnień obejmujące opłaty za Office 365 i platformę Azure (145p).  
 
-**Scenariusz 2 [jedna waluta]**: Partner ma zakupy dla planu usługi Azure RI, witryny Marketplace i/lub platformy Azure wraz z zakupami 145p.
+**Scenariusz 2 [jedna waluta]**: Partner ma zakupy dla planu usługi Azure RI, witryny Marketplace i/lub platformy Azure wraz z zakupami w wysokości 145p.
 
 - Partner otrzyma jeden plik PDF faktury i jeden plik uzgodnień obejmujący opłaty za platformę Azure (145p). 
 
 - Partner otrzyma kolejny plik PDF faktury i jeden plik uzgodnień obejmujący opłaty za wystąpienie zarezerwowane platformy Azure, platformę Marketplace i plan platformy Azure. 
 
-**Scenariusz 3 [Multi-Currency]**: Partner ma zakupy dla usługi Azure RI w systemie DKK i planu platformy Azure w EUR wraz z zakupami w wysokości 145p w EUR.
+**Scenariusz 3 [wiele walut]:** Partner ma zakupy dla usługi Azure RI w systemie DKK i planu platformy Azure w EUR wraz z zakupami w wysokości 145p w EUR.
 
 - Partner otrzyma jeden plik PDF faktury i jeden plik uzgodnień obejmujący opłaty za RI platformy Azure w systemie DKK. 
 
 - Partner otrzyma jeden plik PDF faktury i jeden plik uzgodnień obejmujący opłaty za plan platformy Azure w eur. 
 
-- Partner otrzyma kolejny plik PDF faktury i jeden plik uzgodnień obejmujący opłaty za ofertę 145p w walucie EUR (lub walucie rozliczeniowej partnera). 
+- Partner otrzyma kolejny plik PDF faktury i jeden plik uzgodnień obejmujący opłaty za ofertę 145p w eur (lub walucie rozliczeniowej partnera). 
 
 
 ## <a name="understanding-invoice-pdf"></a>Omówienie pliku PDF faktury 
 
 **Faktury** za użycie i opłaty na podstawie licencji: Faktury za opłaty za usługi takie jak Office 365 i Azure będą dostępne w ciągu dwóch (2) dni od wybranej daty rozliczeniowej [UTC].  
 
-**Faktury za jednorazową** i cykliczną opłatę: faktury za opłaty za usługi, takie jak azure RI, plan platformy Azure, portal Marketplace, będą dostępne nie później niż ósmego dnia każdego miesiąca.  
+**Faktury za jednorazową** i cykliczną opłatę: faktury za opłaty za usługi, takie jak azure RI, plan platformy Azure i portal Marketplace, będą dostępne nie później niż ósmą część każdego miesiąca.  
 
 Poniżej przedstawiono niektóre z kluczowych pól w dokumencie PDF faktury —
 
@@ -75,7 +75,7 @@ Poniżej przedstawiono niektóre z kluczowych pól w dokumencie PDF faktury —
 
 **Okres rozliczeniowy:** jest to okres, w którym masz użycie i usługi oparte na licencjach. 
 
-**Data faktury:** data rozliczeniowa lub data rocznicy, w której faktura jest generowana w każdym miesiącu. 
+**Data faktury:** data rozliczeniowa lub data rocznicy, w której faktura jest generowana co miesiąc. 
 
 **Termin płatności:** data, do której należy odebrać płatność. 
 

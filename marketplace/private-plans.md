@@ -1,17 +1,17 @@
 ---
 title: Plany prywatne w Azure Marketplace
-description: Dowiedz się więcej o planach prywatnych Azure Marketplace.
+description: Dowiedz się więcej o planach prywatnych w Azure Marketplace.
 ms.service: marketplace-customer
 ms.topic: article
 author: Guyshu
 ms.author: gushuchm
 ms.date: 08/27/2021
 ms.openlocfilehash: d8c55ce8f6a0c5da3bf2f02c899196e8fd6fd2e0
-ms.sourcegitcommit: fe0920740ef9f461b38cc20bac41192552466405
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "123088518"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123937011"
 ---
 # <a name="private-plans-in-azure-marketplace"></a>Plany prywatne w Azure Marketplace
 
@@ -24,21 +24,21 @@ Gdy partner publikuje plan prywatny, jest on widoczny tylko dla uprawnionych uż
 > [!NOTE]
 > Plany prywatne można przeszukiwać, ale nie można ich filtrować (według kategorii) w Azure Portal.
 
-W witrynie Azure Portal pozycję **+ Utwórz zasób** lub wyszukaj pozycję "marketplace", aby przejść do **strony marketplace.** Jeśli kwalifikujesz się do korzystania z  planów prywatnych, w górnej części strony pojawi się baner Masz dostępne produkty prywatne. Wybierz **pozycję Wyświetl produkty prywatne,** aby przejść do strony planów prywatnych.
+W witrynie Azure Portal pozycję **+ Utwórz zasób** lub wyszukaj pozycję "marketplace", aby przejść do **strony witryny Marketplace.** Jeśli kwalifikujesz się do korzystania z  planów prywatnych, w górnej części strony pojawi się baner Masz dostępne produkty prywatne. Wybierz **pozycję Wyświetl produkty prywatne,** aby przejść do strony planów prywatnych.
 
 :::image type="content" source="media/private-offers/private-products-banner.png" lightbox="media/private-offers/private-products-banner.png" alt-text="Transparent, który jest wyświetlany, gdy masz dostępne produkty prywatne.":::
 
 ## <a name="review-private-plans"></a>Przeglądanie planów prywatnych
 
-Plan prywatny jest częścią kilku planów w produkcie. Każdy produkt może mieć wiele planów, zarówno publicznych, jak i prywatnych, ale plany prywatne są wyświetlane na osobnej liście planów publicznych.
+Plan prywatny jest częścią kilku planów produktu. Każdy produkt może mieć wiele planów, zarówno publicznych, jak i prywatnych, ale plany prywatne są wyświetlane na oddzielnej liście planów publicznych.
 
 Dostępne plany prywatne są dostępne na karcie **Plany** z oznaczeniem znaczek **Prywatny:**
 
 :::image type="content" source="media/private-offers/private-badge.png" alt-text="Strona planów oznaczonych jako Prywatne.":::
 
-Jeśli masz więcej niż jedną subskrypcję, zobaczysz wszystkie plany prywatne dostępne dla wszystkich twoich subskrypcji. Po wybraniu **opcji Utwórz** zostaniesz przekierowynyny do strony tworzenia zasobu, aby rozpocząć konfigurowanie zasobu.
+Jeśli masz więcej niż jedną subskrypcję, zobaczysz wszystkie plany prywatne dostępne dla wszystkich subskrypcji. Po wybraniu **opcji Utwórz** zostaniesz przekierowany do strony tworzenia zasobu, aby rozpocząć konfigurowanie zasobu.
 
-Jeśli wybierzesz **pozycję** Utwórz i masz wiele subskrypcji, ale nie wszystkie z nich są dodawane do planu prywatnego, Subskrypcja domyślna może nie być subskrypcją kwalifikującą się do tego planu prywatnego. W tym przypadku wybierz poprawną subskrypcję.
+Jeśli wybierzesz **pozycję Utwórz** i masz wiele subskrypcji, ale nie wszystkie z nich zostaną dodane do planu prywatnego, Twoja domyślna subskrypcja może nie być subskrypcją kwalifikującą się do tego planu prywatnego. W tym przypadku wybierz poprawną subskrypcję.
 
 :::image type="content" source="media/private-offers/select-correct-subscription.png" alt-text="Link pokazujący, że dostępnych jest więcej planów prywatnych.":::
 

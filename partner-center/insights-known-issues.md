@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Przeczytaj o wszelkich znanych problemach związanych z Partner Center Szczegółowe informacje (PCI). Informacje mogą obejmować znane problemy z renderowaniem lub ograniczenia raportowania.
+description: Przeczytaj o znanych problemach związanych z Partner Center Szczegółowe informacje (PCI). Informacje mogą obejmować znane problemy z renderowaniem lub ograniczenia raportowania.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb6bf5f92a07168fd85f632b6f45ee65f874ce94c6b8afcd46ea23a6a93058fe
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 3d40c0c8bab2b7f49797feb3685920210198a6d3
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694867"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959639"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Partner Szczegółowe informacje — często zadawane pytania
 
@@ -24,13 +24,13 @@ W tym artykule o mowa o znanych problemach dotyczących wyświetlania lub render
 
 Pytanie) **Nie widzę centrum Szczegółowe informacje na moim Partner Center konta. Co mam zrobić?**
 
-A) Upewnij się, że zalogowano się do konta Microsoft Partner Network (MPN) dla organizacji. Nie można uzyskać dostępu do Szczegółowe informacje nawigacyjnego z konta Dostawca rozwiązań w chmurze (CSP). Upewnij się również, że masz zapewniony dostęp do roli Podgląd raportów lub Executive report viewer przez administratora globalnego.  Aby uzyskać więcej informacji na temat ról, zobacz [ten artykuł.](./insights-roles.md)
+A) Upewnij się, że zalogowano się na Microsoft Partner Network (MPN) dla swojej organizacji. Nie można uzyskać dostępu do Szczegółowe informacje nawigacyjnego z Dostawca rozwiązań w chmurze (CSP). Upewnij się również, że masz dostęp do roli Przeglądarki raportów lub Executive report viewer przez administratora globalnego.  Aby uzyskać więcej informacji na temat ról, zobacz [ten artykuł.](./insights-roles.md)
 
-Pytanie) W raportach nie widzę rozliczanych **danych przychód z wykorzystania platformy Azure (ACR). Dlaczego tak się ujedna?**
+Pytanie) Nie widzę w raportach danych przychód z wykorzystania platformy Azure **(ACR). Dlaczego tak się ujedna?**
 
 A) Rozliczany przychód i dane ACR są dostępne tylko dla użytkowników, którzy są osobami przeglądacy raportów kierownictwa.  Aby uzyskać więcej informacji na temat ról, zobacz [ten artykuł.](./insights-roles.md)
 
-Pytanie) W raportach nie widzę rozliczanych **danych przychód z wykorzystania platformy Azure (ACR). Dlaczego tak się ujedna?**
+Pytanie) Nie widzę w raportach danych przychód z wykorzystania platformy Azure **(ACR). Dlaczego tak się ujedna?**
 
 A) Rozliczany przychód i dane ACR są dostępne tylko dla użytkowników, którzy są osobami przeglądacy raportów kierownictwa. Aby uzyskać więcej informacji na temat ról, zobacz [ten artykuł.](./insights-roles.md)
 

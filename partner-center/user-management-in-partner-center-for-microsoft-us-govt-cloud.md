@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a7658de0d616d5fb5df9fd7f22f3945292d1a4220d261dab2e8b1066cdba9b2
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 982095303b748639f4f0bdc893acfa0fad1e9453
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681175"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958773"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Zarządzanie użytkownikami i licencjami w Partner Center for Microsoft Cloud for US Government
 
@@ -23,9 +23,9 @@ ms.locfileid: "115681175"
 
 **Odpowiednie role:** Administrator globalny
 
-## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Jak zarządzać użytkownikami w Azure Portal dla Microsoft Cloud for US Government
+## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Jak zarządzać użytkownikami w Azure Portal for Microsoft Cloud for US Government
 
-Jeśli zalogowano się do Partner Center for Microsoft Cloud for US Government, możesz otworzyć Azure Portal dla Microsoft Cloud for US Government bez konieczności logowania się ponownie. Jeśli jednak musisz zalogować się bezpośrednio do usługi Azure Portal for Microsoft Cloud for US Government, przejdź do strony ( i zaloguj się przy użyciu poświadczeń administratora globalnego dla dzierżawy usługi Azure AD dla https://portal.azure.us/) Microsoft Cloud for US Government.
+Jeśli zalogowano się do Partner Center for Microsoft Cloud for US Government, możesz otworzyć Azure Portal dla Microsoft Cloud for US Government bez konieczności logowania się ponownie. Jeśli jednak musisz zalogować się bezpośrednio do usługi Azure Portal for Microsoft Cloud for US Government, przejdź do strony ( i zaloguj się przy użyciu poświadczeń administratora globalnego dla dzierżawy usługi Azure AD na potrzeby https://portal.azure.us/) Microsoft Cloud for US Government.
 
 Po pomyślnym zalogowaniu się do aplikacji Azure Portal for Microsoft Cloud for US Government otwórz stronę przeglądu usługi Azure Active Directory (Azure AD), a następnie postępuj zgodnie z instrukcjami w tych artykułach:
 

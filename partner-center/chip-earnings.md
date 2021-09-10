@@ -2,25 +2,25 @@
 title: Wyświetlanie zarobków na platformie CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Dowiedz się, jak wyświetlać zestawienie zachęt i zarobki w narzędziu Channel Incentives Platform (CHIP).
+description: Dowiedz się, jak wyświetlić zestawienie zachęt i zarobki w narzędziu Channel Incentives Platform (CHIP).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a0078364d89d792ab1a1922b72f21eff025ac7740e5d154dabc606bf3b1010d2
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: a8703d9a8c482ac3fba5497780b2f5163bf86061
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692861"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959457"
 ---
 # <a name="view-earnings-using-the-chip-tool"></a>Wyświetlanie zarobków przy użyciu narzędzia CHIP
 
 **Odpowiednie role:** Podstawowy kontakt lub administrator programu
 
-Dostęp do zestawienia zachęt można uzyskać za pośrednictwem narzędzia Channel Incentives Platform (CHIP).
+Dostęp do zestawienia zachęt można uzyskać za pośrednictwem narzędzia Platformy zachęt (CHIP, Channel Incentives Platform).
 
 ## <a name="view-earnings"></a>Wyświetlanie zarobków
 
@@ -36,8 +36,8 @@ Dostęp do zestawienia zachęt można uzyskać za pośrednictwem narzędzia Chan
 
 |**Tab**|**Definicja**|
 |-------------|--------------------------|
-|DetailReport-Flatfile|Zawiera szczegółowe informacje dotyczące programu zachęt dla wybranego okresu, w tym nazwę klienta, umowę, szczegóły dotyczące lever|
-|DeltaReport-pivot|Aktualizacje z ostatniej opublikowanej instrukcji tylko Enterprise danych|
+|DetailReport-Flatfile|Zawiera szczegółowe informacje dotyczące programu zachęt dla wybranego okresu, w tym nazwę klienta, umowę, szczegóły dotyczące dźwigni|
+|DeltaReport-pivot|Aktualizacje z ostatniej opublikowanej instrukcji dla Enterprise tylko|
 |DetailReport-pivot|Podsumowanie szczegółów płatności, w tym waluty i kwoty płatności|
 |Szczegóły osiągnięcia|Wartość bazowa, osiągnięcie i procent wzrostu tylko dla wartości SPLAR|
 

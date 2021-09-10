@@ -10,11 +10,11 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 14901b47b7363b2d87861be43a7071d9f23545cc
-ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "123457926"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958077"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Zarządzanie produktami i ofertami na platformie handlowej dla klientów
 
@@ -60,7 +60,7 @@ Wydawca powinien dostarczyć spersonalizowany link i kod autoryzacji, który ide
 
    - Link jest wyświetlony na stronie Subskrypcje określonego klienta. Ten link wydawcy jest wyświetlany w wierszu skojarzonym z ofertą lub subskrypcją zakupioną dla klienta przez isvv.
 
-   - Link możesz [pobrać przy użyciu Partner Center API.](/partner-center/develop/get-activation-link-by-order-line-item)
+   - Link możesz [pobrać przy użyciu interfejsów API Partner Center .](/partner-center/develop/get-activation-link-by-order-line-item)
 
    > [!NOTE]
    > Aby to zrobić w imieniu klienta, może być konieczne skopiowanie spersonalizowanego linku, wklejenie go w prywatnej przeglądarce i wprowadzenie poświadczeń klienta.
@@ -101,7 +101,7 @@ W przypadku ofert platformy handlowej SaaS można dodawać lub usuwać licencje 
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>Zarządzanie subskrypcjami przy użyciu Partner Center API
 
-Za pomocą interfejsów API Partner Center do zarządzania cyklem życia i zarządzania fakturami dla subskrypcji. Aby uzyskać więcej informacji, [zobacz Tworzenie subskrypcji dla produktów platformy handlowej](/partner-center/develop/create-subscription-azure-marketplace-products).
+Za pomocą interfejsów API Partner Center można również zarządzać cyklem życia i zarządzać fakturami za subskrypcje. Aby uzyskać więcej informacji, [zobacz Tworzenie subskrypcji dla produktów platformy handlowej](/partner-center/develop/create-subscription-azure-marketplace-products).
 
 ## <a name="next-steps"></a>Następne kroki
 

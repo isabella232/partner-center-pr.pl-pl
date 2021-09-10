@@ -10,15 +10,15 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.openlocfilehash: 5276f5bcc201633865fd8f226d52630919530982
-ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "123458011"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958113"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Tworzenie, zawieszanie lub anulowanie subskrypcji klientów
 
-**Dotyczy:** Partner Center | Partner Center dla Microsoft Cloud for US Government
+**Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
 
 **Odpowiednie role:** Administrator | Administrator rozliczeń | Administrator globalny | Agent pomocy technicznej | Agent sprzedaży
 
@@ -27,7 +27,7 @@ Po utworzeniu rekordu klienta w katalogu Partner Center można sprzedawać im su
 Niektóre oferty są ograniczone do jednej subskrypcji na klienta. Aby wyświetlić listę ofert ograniczonych, odwiedź stronę Partner Center Cennik i oferty.
 
 >[!IMPORTANT]
-> Jako partner w programie CSP  możesz kupić oparte na licencjach lub mierzone subskrypcje **SaaS** od wydawców ISV w Partner Center. Oznacza to, że  możesz kupić dowolną opartą na licencjach lub mierzoną [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) ofertę **SaaS,** która została Ci udostępnione przez wydawcę ISV, w tym oferty wyłączne, do których masz dostęp. Aby kupić inne, komercyjne oferty platformy handlowej lub zarządzać nimi od isvs (takich jak oferty oparte na użyciu obejmujące aplikacje platformy Azure, kontenery lub maszyny wirtualne), musisz przejść do witryny [Azure Portal](https://portal.azure.com/).
+> Jako partner w programie CSP  możesz kupić oparte na licencjach lub mierzone subskrypcje **SaaS** od wydawców ISV w Partner Center. Oznacza to, że  możesz kupić dowolną opartą na licencjach lub mierzoną [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) ofertę **SaaS,** która została Ci udostępnione przez wydawcę ISV, w tym oferty wyłączne, do których masz dostęp. Aby zakupić inne, komercyjne oferty platformy handlowej od isvs (np. ofert opartych na użyciu obejmujących aplikacje platformy Azure, kontenery lub maszyny wirtualne) lub zarządzać nimi, musisz przejść do witryny [Azure Portal](https://portal.azure.com/).
 
 >[!NOTE]
 >Wszystkie daty i godziny w Partner Center są podane w standardzie czasu uniwersalnego (UTC). Może się to różnić nawet o 24 godziny od czasu lokalnego.
@@ -112,7 +112,7 @@ Jeśli zmienisz stan subskrypcji na Wstrzymano, użytkownicy nie będą mogli lo
 Po wstrzymaniu subskrypcji data, która zostanie wyświetlony poniżej przycisku **Wstrzymano,** wskazuje, kiedy subskrypcja automatycznie wygaśnie, jeśli subskrypcja nie zostanie ponownie aktywowana. 
 
 > [!Note] 
-> Nowe zmiany w handlu są obecnie dostępne tylko dla partnerów, którzy są częścią nowego Microsoft 365/Dynamics 365 w wersji Technical Preview.
+> Nowe zmiany handlowe są obecnie dostępne tylko dla partnerów, którzy są częścią nowego Microsoft 365/Dynamics 365 w wersji Technical Preview.
 
 Aby wstrzymać nowe subskrypcje handlowe lub ponownie aktywować wstrzymane nowe subskrypcje handlowe, utwórz żądanie obsługi i skontaktuj się z pomocą techniczną. 
 
@@ -157,27 +157,27 @@ Aby anulować opartą na licencji subskrypcję SaaS uzyskaną od wydawcy niezale
 6. Aby potwierdzić anulowanie, wybierz pozycję **Tak, anuluj .**
 
 > [!NOTE]
-> Możesz również anulować subskrypcję usługi Azure Marketplace przy użyciu interfejsów API. Aby to zrobić, zobacz [Anulowanie subskrypcji Azure Marketplace subskrypcji](/partner-center/develop/cancel-an-azure-marketplace-subscription).
+> Możesz również anulować subskrypcję usługi Azure Marketplace przy użyciu interfejsów API. Aby to zrobić, zobacz [Anulowanie Azure Marketplace subskrypcji.](/partner-center/develop/cancel-an-azure-marketplace-subscription)
 
 ### <a name="cancel-a-new-commerce-subscription"></a>Anulowanie nowej subskrypcji handlowej
 
 > [!Note] 
-> Nowe zmiany w handlu są obecnie dostępne tylko dla partnerów, którzy są częścią nowego Microsoft 365/Dynamics 365 w wersji Technical Preview.
+> Nowe zmiany handlowe są obecnie dostępne tylko dla partnerów, którzy są częścią nowego Microsoft 365/Dynamics 365 w wersji Technical Preview.
 
 W przypadku nowych ofert handlowych możesz anulować subskrypcję w dowolnym momencie przed okresem zobowiązania. Po anulowaniu subskrypcji klient natychmiast utraci dostęp do usługi. Nie można przywrócić dostępu po anulowaniu. Następujące opcje anulowania są dostępne dla partnera po zakupie subskrypcji: 
 
 - W ciągu 24 godzin od daty rozpoczęcia subskrypcji: możesz anulować całą subskrypcję w ciągu pierwszych 24 godzin, aby uzyskać pełny zwrot.  
-- W ciągu 30 dni od daty rozpoczęcia subskrypcji: możesz anulować całą subskrypcję w ciągu pierwszych 30 dni. Za dni, w których została użyta subskrypcja, zostanie zwrócona pełna kwota pomniejszona o proporcjonalną kwotę.
+- W ciągu 30 dni od daty rozpoczęcia subskrypcji: możesz anulować całą subskrypcję w ciągu pierwszych 30 dni. W dniach, w których została użyta subskrypcja, zostanie zwrócona pełna kwota pomniejszona o proporcjonalną kwotę.
 - Po upływie 30 dni od daty rozpoczęcia subskrypcji: nie można anulować subskrypcji.
 
 ### <a name="pause-and-resume-a-new-commerce-subscriptions"></a>Wstrzymywanie i wznawianie nowych subskrypcji handlowych 
 
 > [!Note] 
-> Nowe zmiany w handlu są obecnie dostępne tylko dla partnerów, którzy są częścią nowego Microsoft 365/Dynamics 365 w wersji Technical Preview.
+> Nowe zmiany handlowe są obecnie dostępne tylko dla partnerów, którzy są częścią nowego Microsoft 365/Dynamics 365 w wersji Technical Preview.
 
-W przypadku braku płatności od klienta, czasami nazywanego "scenariuszem monitowania", partnerzy mogą wstrzymać i wznowić subskrypcję, aby natychmiast zablokować klientowi dostęp do usług subskrypcji.
+W przypadku braku płatności od klienta, czasami nazywanego "scenariuszem duplikowania", partnerzy mogą wstrzymać i wznowić swoją subskrypcję, aby natychmiast zablokować dostęp klienta do usług subskrypcji.
 
-Wstrzymanie subskrypcji klienta spowoduje wyłączenie możliwości logowania się i korzystania z jego usług do czasu wznowienia subskrypcji.   
+Wstrzymanie subskrypcji klienta spowoduje wyłączenie możliwości logowania się i korzystania z usług do czasu wznowienia subskrypcji.   
 
 Subskrypcję można wstrzymać przy użyciu Partner Center:
 
@@ -185,7 +185,7 @@ Subskrypcję można wstrzymać przy użyciu Partner Center:
 
 2. Wybierz przycisk **radiowy Wstrzymaj**
 
-3. Przeczytaj modalne okno podręczne i wybierz przycisk **OK**
+3. Przeczytaj modalne wyskakujące okienko i wybierz przycisk **OK**
 
 4. Subskrypcja będzie teraz w stanie wstrzymania, a partner nadal będzie rozliczany za subskrypcję
 
@@ -197,7 +197,7 @@ Wstrzymanie jest stanem, który można odzyskać za Partner Center interfejsu u�
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription-or-a-new-commerce-subscription"></a>Wybierz, czy chcesz automatycznie odnowić subskrypcję platformy handlowej, czy nową subskrypcję handlową
 
 > [!Note] 
-> Nowe zmiany w handlu są obecnie dostępne tylko dla partnerów, którzy są częścią nowego Microsoft 365/Dynamics 365 w wersji Technical Preview.
+> Nowe zmiany handlowe są obecnie dostępne tylko dla partnerów, którzy są częścią nowego Microsoft 365/Dynamics 365 w wersji Technical Preview.
 
 Domyślnie aktywne subskrypcje są ustawione na automatyczne odnawianie po upływie okresu subskrypcji. W [przypadku subskrypcji produktów platformy handlowej](csp-commercial-marketplace-overview.md)lub nowych subskrypcji handlowych możesz opcjonalnie zdecydować, aby nie odnawiać subskrypcji automatycznie.
 
@@ -211,25 +211,25 @@ Aby zatrzymać automatyczne odnawianie aktywnej subskrypcji platformy handlowej 
 
 4. W kolumnie **Subskrypcja** wybierz subskrypcję, którą chcesz zmodyfikować.
 
-5. Na stronie szczegółów subskrypcji znajdź **sekcję Stan** i usuń zaznaczenie pola **Automatycznie odnawiaj.**
+5. Na stronie szczegółów subskrypcji znajdź sekcję **Stan** i usuń zaznaczenie pola **Automatycznie odnawiaj.**
 
 6. Wybierz pozycję **Prześlij**.
 
-### <a name="manage-new-commerce-renewals-with-scheduled-changes"></a>Zarządzanie nowymi odnowieniami handlu przy użyciu zaplanowanych zmian
+### <a name="manage-new-commerce-renewals-with-scheduled-changes"></a>Zarządzanie nowymi odnowieniami handlowymi za pomocą zaplanowanych zmian
 
 > [!Note] 
-> Nowe zmiany w handlu są obecnie dostępne tylko dla partnerów, którzy są częścią nowego Microsoft 365/Dynamics 365 w wersji Technical Preview.
+> Nowe zmiany handlowe są obecnie dostępne tylko dla partnerów, którzy są częścią nowego Microsoft 365/Dynamics 365 w wersji Technical Preview.
 
-Niektóre zmiany w subskrypcjach mogą wystąpić tylko na końcu terminu. Te zmiany można zaplanować tak, aby były wygodnie stosowane na końcu terminu. Przykłady zmian, które należy zaplanować:
+Niektóre zmiany w subskrypcjach mogą nastąpić tylko na końcu okresu. Te zmiany można zaplanować tak, aby były wygodnie stosowane na końcu terminu. Przykłady zmian, które należy zaplanować:
 
-- Obniżanie poziomu SKU
+- Obniżanie poziomu sku
 - Redukcje liczby miejsc
 - Zmiany różnych terminów
 - Zmiany częstotliwości rozliczeń
 
-Inne zmiany, takie jak uaktualnienia lub zwiększenie miejsca, można zastosować w trakcie okresu.
+Inne zmiany, takie jak uaktualnienia lub zwiększenie zajętego miejsca, można zastosować w tym okresie.
 
-Zaplanowanie zmian nastąpi podczas odnawiania, gdy subskrypcja zostanie odnowiona na następny okres.
+Zmiany harmonogramu zostaną wprowadzone podczas odnawiania, gdy subskrypcja zostanie odnowiona na następny okres.
 
 Wymagania wstępne dotyczące zaplanowanych zmian:
 
@@ -247,45 +247,45 @@ Aby zaplanować nową zmianę, która ma wystąpić podczas odnawiania
 
 4. Wybierz **pozycję Zarządzaj odnowieniami.**
 
-5. Wybierz inną wartość Zmień wartość dla SKU, ilości, okresu lub częstotliwości rozliczeń:
+5. Wybierz inną zmianę wartości dla wartości SKU, ilości, okresu lub częstotliwości rozliczeń:
 
    - **Bieżąca** to bieżąca wartość subskrypcji 
 
-   - **Zmień** wartość na to ostatnia zapisana wartość, którą chcesz zastosować podczas odnawiania nowej subskrypcji 
+   - **Zmiana** na to ostatnia zapisana wartość, która ma zostać zastosowana podczas odnawiania nowej subskrypcji 
 
 6. Wybierz pozycję **Prześlij**
 
 7. Zmiany zostaną wprowadzone podczas odnawiania. 
 
-Partnerzy mogą uzyskać dostęp **do zarządzania odnowieniami,** aby wyświetlić, zaktualizować lub usunąć istniejące zaplanowane zmiany.
+Partnerzy mogą uzyskać dostęp **do zarządzania odnowieniami,** aby wyświetlić, zaktualizować lub usunąć istniejącą zaplanowaną zmianę.
 
 > [!Note] 
->- Wersje próbne są domyślnie konwertowane na płatną sku na koniec okresu. 
->- W przypadku zaplanowanych uaktualnień/obniżania poziomu licencji użytkownika ponowne przypisanie należy wykonać ręcznie.
->- Zapisane zaplanowane zmiany są usuwane, jeśli w subskrypcji zostaną wprowadzone następujące aktualizacje w połowie okresu.
+>- Wersje próbne są domyślnie konwertowane na płatną wartość SKU na koniec okresu. 
+>- W przypadku zaplanowanych uaktualnień/obniżania poziomu licencji użytkownika ponowne przypisanie musi być wykonywane ręcznie.
+>- Zapisane zaplanowane zmiany są usuwane, jeśli w subskrypcji zostaną wprowadzone następujące aktualizacje krótkoterminowe.
 
 ### <a name="partial-upgrades-in-new-commerce-subscriptions"></a>Częściowe uaktualnienia w nowych subskrypcjach handlowych
 
 > [!Note] 
-> Nowe zmiany w handlu są obecnie dostępne tylko dla partnerów, którzy są częścią nowego Microsoft 365/Dynamics 365 w wersji Technical Preview.
+> Nowe zmiany handlowe są obecnie dostępne tylko dla partnerów, którzy są częścią nowego Microsoft 365/Dynamics 365 w wersji Technical Preview.
 
-Częściowe uaktualnienia umożliwiają partnerowi wyznaczenie niektórych licencji z jednej sku na inną. Poprzednia funkcja uaktualniania w tradycyjnych subskrypcjach opartych na licencjach umożliwiała uaktualnienie tylko wszystkich licencji. Nowy handel umożliwia partnerowi przenoszenie niektórych licencji w dogodnym dla nich czasie. Daje to partnerowi większą kontrolę nad zarządzaniem uaktualnieniami, umożliwiając mu przeniesienie niektórych użytkowników do nowej wersji SKU bez przenoszenia ich wszystkich. 
+Uaktualnienia częściowe umożliwiają partnerowi wyznaczenie niektórych licencji z jednej wersji SKU na inną. Poprzednia funkcja uaktualniania w tradycyjnych subskrypcjach opartych na licencjach umożliwiała uaktualnienie tylko wszystkich licencji. Nowy handel umożliwia partnerowi przenoszenie niektórych licencji w dogodnym dla nich czasie. Daje to partnerowi większą kontrolę nad zarządzaniem uaktualnieniami, umożliwiając im przenoszenie niektórych użytkowników do nowej wersji SKU bez przenoszenia ich wszystkich. 
 
-Częściowe uaktualnienia można zaplanować na koniec okresu lub mogą być inicjowane w połowie okresu. 
+Częściowe uaktualnienia można zaplanować na koniec okresu lub zainicjować w połowie okresu. 
 
-Szczegóły częściowego uaktualnienia:
+Szczegóły uaktualnienia częściowego:
 
 - Zdefiniowana jako częściowa, jeśli liczba licencji uaktualnienia jest inna niż początkowa subskrypcja.
 - Inicjowanie uaktualnień w połowie okresu spowoduje usunięcie istniejących zaplanowanych uaktualnień.
-- Uaktualnienia można inicjować tylko z subskrypcji w **stanie** Aktywny.
-- Nowa subskrypcja utworzona podczas uaktualniania będzie miała takie same daty zakończenia jak subskrypcja, z której pochodzi uaktualnienie.
+- Uaktualnienia można inicjować tylko z subskrypcji w **stanie Aktywny.**
+- Nowa subskrypcja utworzona podczas uaktualniania będzie miała takie same daty zakończenia jak subskrypcja, z której pochodziło uaktualnienie.
 
-Partnerzy mogą uzyskać dostęp do subskrypcji, do której mają zostać uaktualnione, podczas konfigurowania liczby licencji i subskrypcji, do której mają zostać uaktualnione. Partnerzy mogą wybrać **nową subskrypcję** lub wybrać istniejącą subskrypcję.
+Partnerzy mogą uzyskać dostęp do subskrypcji, do której mają zostać uaktualnione, podczas konfigurowania liczby licencji i subskrypcji, do której chcą uaktualnić. Partnerzy mogą wybrać **nową** subskrypcję lub wybrać istniejącą subskrypcję.
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Kupowanie produktów komercyjnej platformy handlowej dla klientów](csp-commercial-marketplace-purchase.md)
+- [Kupowanie produktów na platformie handlowej dla klientów](csp-commercial-marketplace-purchase.md)
 
-- [Zarządzanie produktami platformy handlowej dla klientów](csp-commercial-marketplace-manage.md)
+- [Zarządzanie produktami na platformie handlowej dla klientów](csp-commercial-marketplace-manage.md)
 
 - [Omówienie komercyjnej platformy handlowej](csp-commercial-marketplace-overview.md)

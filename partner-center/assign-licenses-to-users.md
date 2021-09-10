@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2fcdc1cb46a87baa7aacf61269fed18f95f3c93b4a9889af0ee22fefa0db5ce8
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 1c346e5e680fdd0b0b82715160b238e1e6b6a9a9
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690430"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959158"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Zarządzanie użytkownikami i licencjami użytkowników dla kont klientów 
 
@@ -23,12 +23,12 @@ ms.locfileid: "115690430"
 
 Możesz tworzyć i usuwać nowych użytkowników na koncie klienta. Możesz również przywrócić co najmniej jedno konto użytkownika, które zostało wcześniej usunięte w ciągu 30 dni od usunięcia. Zostaną również przywrócone poprzednie przypisania subskrypcji użytkownika (przy założeniu, że są dostępne jego poprzednie alokacje).
 
-W przypadku zakupu nowych subskrypcji dla klienta klient powinien podać listę wszystkich użytkowników, którzy będą potrzebować kont, ich uprawnień użytkowników i usług, których potrzebuje każdy użytkownik.  
+Gdy kupujesz nowe subskrypcje dla klienta, klient powinien podać listę wszystkich użytkowników, którzy będą potrzebować kont, ich uprawnień użytkowników i usług, których potrzebuje każdy użytkownik.  
 
 >[!NOTE]
 >Sekcja **Użytkownicy i** licencje  na karcie Klient zawiera wszystkich użytkowników utworzonych w dzierżawie określonego klienta, w tym użytkowników, którzy mają licencje zakupione od innego partnera CSP lub innego kanału zakupu.
 
-Subskrypcje [można jednocześnie](bulk-license-provisioning-for-multiple-users.md) przypisywać do wielu użytkowników, importując nazwy przy użyciu Excel pliku .csv arkusza [kalkulacyjnego.](adding-multiple-users-to-a-customer-account.md)
+Subskrypcje [można przypisać do](bulk-license-provisioning-for-multiple-users.md) wielu użytkowników jednocześnie, importując nazwy przy użyciu zgodnego Excel pliku .csv arkusza [kalkulacyjnego.](adding-multiple-users-to-a-customer-account.md)
 
 <a href="" id="createuseraccounts"></a>
 
@@ -40,7 +40,7 @@ Subskrypcje [można jednocześnie](bulk-license-provisioning-for-multiple-users.
 
 3. W menu klienta wybierz pozycję **Użytkownicy i licencje.**
 
-4. Dla każdego użytkownika, który dodajesz, wybierz pozycję **Dodaj subskrypcję,** a następnie wypełnij informacje, w tym uprawnienia i licencje. **Zapisz** zmiany.
+4. Dla każdego użytkownika, który dodajesz, wybierz **pozycję Dodaj subskrypcję,** a następnie wypełnij informacje, w tym uprawnienia i licencje. **Zapisz** zmiany.
 
 5. Pamiętaj, aby zarejestrować nazwę użytkownika i hasło tymczasowe do wysłania do użytkownika.
 
@@ -60,7 +60,7 @@ Poniższe kroki dotyczą dodawania lub usuwania licencji użytkowników dla prod
 
 3. W menu klienta wybierz pozycję **Użytkownicy i licencje.**
 
-4. Wybierz co najmniej jednego użytkownika z listy. Jeśli na przykład klient właśnie zakupił nowe licencje i chcesz przypisać je do osób, które jeszcze ich nie mają, możesz użyć opcji Filtruj użytkowników **według...,** aby znaleźć odpowiednią grupę.
+4. Wybierz co najmniej jednego użytkownika z listy. Jeśli na przykład klient właśnie zakupił nowe licencje i chcesz przypisać je do osób, które ich jeszcze nie mają, możesz użyć opcji Filtruj użytkowników **według...,** aby znaleźć właściwą grupę.
 
 5. Wybierz pozycję **Zarządzaj licencjami**. Dokonaj zmian, a następnie **zapisz .**
 

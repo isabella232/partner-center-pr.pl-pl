@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d210e067790980d377812f1200b20e470f2f52b51ccd3dcb1bab4d04a49b76b4
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 92733f11713e8c16d607a51ef00efdcc25ddc855
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694901"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959025"
 ---
 # <a name="export--data-definitions"></a>Eksportowanie — definicje danych 
 
@@ -54,7 +54,7 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 | CustomerTenantName|   Nazwa dzierżawy klienta|
 | CustomerTenantCountry|    Kraj dzierżawy klienta|
 | TenantDomainName (Nazwa_domeny_dzierżawy)| Nazwa domeny dzierżawy klienta|
-| Produkt|  Produkt sprzedawany klientowi przez program MPN: O365, Dynamics 365, Enterprise Mobility + Security, Power BI lub Microsoft Azure.|
+| Produkt|  Produkt sprzedawany klientowi przez mpn: O365, Dynamics 365, Enterprise Mobility + Security, Power BI lub Microsoft Azure.|
 | RawProductName|   Szczegółowa nazwa produktu sprzedana klientowi|
 | SKU|  Product SKU|
 | Month (Miesiąc)|    Miesiąc, dla którego raportuje się użycie i przychód|
@@ -84,33 +84,33 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 | Month (Miesiąc) | Miesiąc, dla którego raportuje się użycie i przychód | 
 | Produkt | Nazwa produktu | 
 | Subscriptionid | Identyfikator subskrypcji | 
-| Dostępne opcje | Liczba dostępnych stanowisk | 
+| DostępneSeats | Liczba dostępnych stanowisk | 
 | PrzypisaneSeats | Liczba przypisanych stanowisk | 
 | BilledRevenueUSD | Rozliczany przychód w dolarach amerykańskich | 
 | CustomerName | Nazwa klienta | 
-| CustomerTPid | Identyfikator nadrzędnego klienta | 
+| CustomerTPid | Identyfikator najwyższego elementu nadrzędnego klienta | 
 | CustomerSegment | Segment klientów | 
 | CustomerMarket | Rynek geograficzny klienta | 
-| ResellerStatus | Stan odsprzedawcy | 
+| ResellerStatus (Statystyka odsprzedawcy) | Stan odsprzedawcy | 
 
 ### <a name="subscription-details-report"></a>**Raport szczegóły subskrypcji**
 
 >[!Note]
->Przychód i dane ACR są dostępne tylko dla użytkowników, którzy są osobami przeglądacy raportów kierownictwa.
+>Dane revenue i ACR są dostępne tylko dla użytkowników, którzy są osobami przeglądających raporty kierownictwa.
 
 | Nazwa kolumny | Opis danych | 
 | :--------- | :--------- | 
-|PGAMpnId| Identyfikator mpn konta globalnego partnera |
+|PgAMpnId| Identyfikator mpn konta globalnego partnera |
 |SubscriptionId | Identyfikator GUID subskrypcji|
 |SubscriptionStartDate | Data rozpoczęcia subskrypcji|
 |SubscriptionEndDate | Data zakończenia subskrypcji|
 |SubscriptionState | Stan subskrypcji (aktywna lub zerowana)|
 |Month (Miesiąc) | Miesiąc, dla którego raportuje się użycie i przychód|
-|IsAutoRenew | Wskazuje, czy subskrypcja jest automatycznie odnawiana (tak czy nie)|
+|IsAutoRenew | Wskazuje, czy subskrypcja jest odnawiana automatycznie (Tak czy Nie)|
 |CustomerName | Nazwa klienta|
 |CustomerTenantId | Identyfikator GUID klienta|
 |CustomerTpid | Identyfikator nadrzędny najwyższego klienta|
-|DUNSNumber| Identyfikator uniwersalnego systemu liczb globalnych danych klienta|
+|DUNSNumber| Global Data Universal Number System Identifier of customer (Uniwersalny identyfikator systemu liczb danych globalnych klienta)|
 |CustomerSegment | Segment rynku klienta|
 |TopSegment| Klasyfikacja segmentów wyższego poziomu klienta|
 |CustomerMarket | Rynek geograficzny klienta|
@@ -123,17 +123,17 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 |SolutionArea| Klasyfikacja aplikacji biznesowych produktu|
 |MpNId | Microsoft Partner Network partnera|
 |PartnerName | Nazwa partnera|
-|PartnerLocation | Lokalizacja geograficzna partnera|
-|PartnerAttributionType | Typ przypisania dla subskrypcji|
+|Lokalizacja partnera | Lokalizacja geograficzna partnera|
+|Typ PartnerAttributionType | Typ przypisania dla subskrypcji|
 |SalesChannel | Kanał sprzedaży — bezpośredni, CSP (Dostawca rozwiązań w chmurze) i tak dalej|
-|PricingLevel| Punkt cenowy sprzedaży|
-|EnrollmentNumber| Numer rejestracji subskrypcji|
-|IsDuplicateRowForPGA| W przypadku przypisania wielu partnerów w ramach jednego pga ta wartość zostanie ustawiona na 0 tylko dla jednego mpnid. Jeśli wartość jest ustawiona na 1, oznacza to zduplikowany wiersz|
+|PricingLevel| Punkt sprzedaży|
+|EnrollmentNumber (Numer rejestracji)| Numer rejestracji subskrypcji|
+|IsDuplicateRowForPGA| W przypadku przypisania wielu partnerów w ramach pojedynczego pga ta wartość zostanie ustawiona na 0 tylko dla jednego mpnid. Jeśli wartość jest ustawiona na 1, oznacza to zduplikowany wiersz|
 |SubscriptionStartMonth| Miesiąc rozpoczęcia subskrypcji|
 |ResellerID| Identyfikator odsprzedawcy|
 |ResellerName (Nazwa odsprzedawcy)| Nazwa odsprzedawcy|
 |AvailableSeatsEOP| Ogólna liczba dostępnych stanowisk do końca okresu|
-|Dostępne opcje | Różnica dostępnych miejsc w miesiącu|
+|DostępneSeats | Dostępna różnica miejsca Miesiąc w miesiącu|
 |BilledRevenueUSD | Przychód w USD|
 |AzureConsumedRevenueUSD| przychód z wykorzystania platformy Azure w USD|
 
@@ -141,7 +141,7 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 
 | Nazwa kolumny | Opis danych | 
 | :--------- | :--------- | 
-|PGAMpnId| Identyfikator mpn konta globalnego partnera|
+|PgAMpnId| Identyfikator mpn konta globalnego partnera|
 |SubscriptionId| Identyfikator GUID subskrypcji|
 |SubscriptionStartDate| Data rozpoczęcia subskrypcji|
 |SubscriptionEndDate| Data zakończenia subskrypcji|
@@ -151,9 +151,9 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 |ServiceLevel1| Poziom usługi 1 — odpowiada filarowi usługi, takiemu jak kontenery, bazy danych, sieć itp.|
 |ServiceLevel2| Poziom usługi 2 — odpowiada obciążeniu filaru usługi|
 |ServiceLevel3| Nazwa usługi używana przez Azure.Microsoft.Com na liście ofert platformy Azure|
-|ServiceLevel4| Logiczne grupowania cech wysokiego poziomu odróżniają się w usłudze. Na przykład Ogólnego przeznaczenia Virtual Machines, Optymalizacja pod kątem Virtual Machines pamięci, SQL Database, SQL Database itp. |
+|ServiceLevel4| Logiczne grupy cech wysokiego poziomu odróżniają się w ramach usługi. Na przykład Ogólnego przeznaczenia Virtual Machines, Optymalizacja Virtual Machines pamięci, SQL Database, SQL Database itp. |
 |ServiceGroup2| Obszary odpowiedzialności przychodów w terenie, takie jak AI, App Dev, IoT itp. |
-|ServiceGroup3| Dodatkowe szczegóły dotyczące usługi FRA, takie jak IoT Hub, Mapy for IoT FRA|
+|ServiceGroup3| Dodatkowe szczegóły dotyczące usługi FRA, takie jak IoT Hub, Mapy dla usługi IoT FRA|
 |ServiceInfluencer| Usługi PaaS, które napędzają zużycie zasobów infrastruktury, takich jak Service Fabric, Azure Databricks, AKS itp.|
 |ComputeOS| System operacyjny dla zasobów obliczeniowych|
 |ComputeCoreSoftware| Compute Core Software|
@@ -170,7 +170,7 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 |PartnerAttributionType| Typ przypisania partnera|
 |SalesChannel| Kanał sprzedaży (Direct/CSP, Indirect/CSP, Direct i tak dalej)  |
 |EnrollmentNumber| Numer rejestracji subskrypcji |
-|IsACRDuplicateAtPGALevel| W przypadku przypisania wielu partnerów w ramach jednego pga ta wartość zostanie ustawiona na 0 tylko dla jednego mpnid. Jeśli wartość jest ustawiona na 1, oznacza to zduplikowany wiersz|
+|IsACRDuplicateAtPGALevel| W przypadku przypisania wielu partnerów w ramach jednego pga ta wartość zostanie ustawiona na 0 dla tylko jednego mpnid. Jeśli wartość jest ustawiona na 1, oznacza to zduplikowany wiersz|
 |ResellerID| Identyfikator odsprzedawcy|
 |ResellerName (Nazwa odsprzedawcy)| Nazwa odsprzedawcy|
 |Typ administratora| Jeśli typ przypisania partnera to "Link administratora partnera", ta kolumna wskazuje przypisaną rolę w subskrypcji klienta.|
@@ -196,13 +196,13 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 | PartnerName | Nazwa partnera | 
 | PartnerLocation | Lokalizacja geograficzna partnera | 
 | PartnerAttributionType | Typ przypisania partnera | 
-| IsDuplicateRowForPGA | W przypadku przypisania wielu partnerów w ramach pojedynczego pga ta wartość zostanie ustawiona na 0 tylko dla jednego mpnid. Jeśli wartość jest ustawiona na 1, oznacza to zduplikowany wiersz|
+| IsDuplicateRowForPGA | W przypadku przypisania wielu partnerów w ramach jednego pga ta wartość zostanie ustawiona na 0 dla tylko jednego mpnid. Jeśli wartość jest ustawiona na 1, oznacza to zduplikowany wiersz|
 
 ### <a name="enterprise-mobility-license-usage-report"></a>**Enterprise Raport użycia licencji mobilności**
 
 | Nazwa kolumny | Opis danych | 
 | :--------- | :--------- | 
-| PgAMpnId| Identyfikator mpn konta globalnego partnera| 
+| PGAMpnId| Identyfikator mpn konta globalnego partnera| 
 | SubscriptionId | Identyfikator GUID subskrypcji| 
 | SubscriptionStartDate | Data rozpoczęcia subskrypcji| 
 | SubscriptionEndDate | Data zakończenia subskrypcji| 
@@ -215,24 +215,24 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 | DetailedSalesModel| Szczegółowy model sprzedaży dla subskrypcji| 
 | CustomerName| Nazwa klienta| 
 | CustomerTenantId | Identyfikator dzierżawy klienta| 
-| CustomerTpid | Identyfikator nadrzędnego najwyższego klienta| 
+| CustomerTpid | Identyfikator nadrzędny najwyższego klienta| 
 | CustomerSegment | Segment klientów| 
-| CustomerMarket | Geograficzna lokalizacja kraju na rynku klienta| 
+| CustomerMarket | Geograficzna lokalizacja kraju rynku klienta| 
 | MpNId | Microsoft Partner Network identyfikator| 
 | PartnerName | Nazwa partnera| 
-| Lokalizacja partnera | Lokalizacja geograficzna partnera| 
-| Typ PartnerAttributionType | Typ przypisania partnera| 
-| PartnerHierarchy| Hierarchia partnerów (organizacja wirtualna, headquarters lub lokalizacja)| 
+| PartnerLocation | Lokalizacja geograficzna partnera| 
+| PartnerAttributionType | Typ przypisania partnera| 
+| PartnerHierarchy| Hierarchia partnera (organizacja wirtualna, headquarters lub lokalizacja)| 
 | PaidAvailableUnits | Liczba płatnych dostępnych jednostek| 
 | MonthlyActiveUsers | Liczba aktywnych użytkowników miesięcznie| 
 | AATPActiveUsage| Aktywne użycie usługi Azure Advanced Threat Protection (AATP)| 
 | MCASActiveUsage| Aktywne użycie mcas| 
-| AADPPaidAvailableUnits| Liczba płatnych dostępnych jednostek Azure Active Directory — wersja Premium (AADP)| 
-| IntunePaidAvailableUnits| Liczba płatnych dostępnych jednostek dla usługi Intune| 
+| AADPPaidAvailableUnits| Liczba płatnych dostępnych jednostek dla Azure Active Directory — wersja Premium (AADP)| 
+| IntunePaidAvailableUnits| Liczba płatnych dostępnych jednostek usługi Intune| 
 | AzipPaidAvailableUnits| Liczba płatnych dostępnych jednostek dla azip| 
 | AADPMonthlyActiveUsers| Liczba aktywnych użytkowników miesięcznie dla Azure Active Directory — wersja Premium (AADP)| 
 | IntuneMonthlyActiveUsers| Liczba aktywnych użytkowników miesięcznie w usłudze Intune| 
-| AzipMonthlyActiveUsers| Liczba aktywnych użytkowników miesięcznie dla aplikacji Azip| 
+| AzipMonthlyActiveUsers| Liczba aktywnych użytkowników miesięcznie w aplikacji Azip| 
 | ZARZĄDZANIE URZĄDZENIAMI PRZENOŚNYMI| ZARZĄDZANIE URZĄDZENIAMI PRZENOŚNYMI| 
 | ZARZĄDZANIE URZĄDZENIAMI PRZENOŚNYMI| ZARZĄDZANIE URZĄDZENIAMI PRZENOŚNYMI| 
 | Samoobsługowe resetowanie hasła| Samoobsługowe resetowanie hasła| 
@@ -241,7 +241,7 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 
 | Nazwa kolumny | Opis danych | 
 | :--------- | :--------- | 
-| PgAMpnId | Identyfikator mpn konta globalnego partnera | 
+| PGAMpnId | Identyfikator mpn konta globalnego partnera | 
 | SubscriptionId | Identyfikator GUID subskrypcji | 
 | SubscriptionStartDate | Data rozpoczęcia subskrypcji | 
 | SubscriptionEndDate | Data zakończenia subskrypcji | 
@@ -262,7 +262,7 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 | MpNId | Identyfikator Microsoft Partner Network | 
 | PartnerName | Nazwa partnera | 
 | Lokalizacja partnera | Lokalizacja geograficzna kraju partnera | 
-| PartnerAttachType | Typ przypisania dla subskrypcji | 
+| Typ PartnerAttachType | Typ przypisania dla subskrypcji | 
 | DostępneSeats |  Bieżące płatne dostępne stanowiska|
 | PrzypisaneSeats |   Aktualnie przypisane stanowiska|
 | ActiveSeats | Bieżące aktywne stanowiska|
@@ -292,7 +292,7 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 | MpNId | Identyfikator Microsoft Partner Network | 
 | PartnerName | Nazwa partnera | 
 | Lokalizacja partnera | Lokalizacja geograficzna kraju partnera | 
-| PartnerAttachType | Typ przypisania dla subskrypcji | 
+| Typ PartnerAttachType | Typ przypisania dla subskrypcji | 
 | PartnerHierarchy |    Hierarchia partnerów (organizacja wirtualna, headquarters lub lokalizacja)|
 | DostępneSeats |  Bieżące płatne dostępne stanowiska|
 | PrzypisaneSeats |   Aktualnie przypisane stanowiska|
@@ -308,7 +308,7 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 | CustomerTenantId | Identyfikator dzierżawy klienta | 
 | CustomerId | Identyfikator najwyższego elementu nadrzędnego klienta | 
 | DateKey | Data, dla której jest zgłaszane użycie
-| Podsieć | Podciążanie, dla którego jest zgłaszane użycie (spotkania, połączenia lub systemy telefoniczne) | 
+| Podsieć | Podładunek, dla którego jest zgłaszane użycie (spotkania, połączenia lub systemy telefoniczne) | 
 | Liczba spotkań | Liczba spotkań | 
 | Czas trwania spotkania | Łączny czas trwania spotkania w godzinach | 
 
@@ -316,23 +316,23 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 
 | Nazwa kolumny | Opis danych | 
 | :--------- | :--------- | 
-| PGAMpnId |    Identyfikator mpn konta globalnego partnera |
+| PgAMpnId |    Identyfikator mpn konta globalnego partnera |
 | CustomerTenantId |    Identyfikator dzierżawy klienta|
-| CustomerId |  Identyfikator nadrzędnego klienta|
+| CustomerId |  Identyfikator najwyższego elementu nadrzędnego klienta|
 | MonthKey |    Miesiąc, dla którego jest zgłaszane użycie|
-| Podworkload | Obciążenie podrzędne, dla którego jest zgłaszane użycie (spotkania, połączenia lub systemy telefoniczne)|
-| DesktopUsers |    Liczba użytkowników, którzy korzystają z Teams na komputerze|
+| Podciążanie | Podładunek, dla którego jest zgłaszane użycie (spotkania, połączenia lub systemy telefoniczne)|
+| DesktopUsers (Komputery stacjonarne) |    Liczba użytkowników, którzy korzystają z Teams na komputerze|
 | Urządzenia przenośneUżytkowcy | Liczba użytkowników korzystających z usługi Teams na urządzeniach przenośnych|
-| WebUsers (WebUsers) |    Liczba użytkowników korzystających z Teams sieci Web|
-| AllUpParticipants |   Liczba unikatowych użytkowników Teams dla miesiąca|
+| WebUsers (WebUsers) |    Liczba użytkowników, którzy korzystają Teams sieci Web|
+| AllUpParticipants |   Liczba unikatowych użytkowników Teams w miesiącu|
 
 ### <a name="teams-usage-3p-apps-report"></a>**Teams użycia aplikacji 3P**
 
 | Nazwa kolumny | Opis danych | 
 | :--------- | :--------- | 
-| PGAMpnId  | Identyfikator mpn konta globalnego partnera |
+| PgAMpnId  | Identyfikator mpn konta globalnego partnera |
 | CustomerTenantId |    Identyfikator dzierżawy klienta |
-| CustomerId |  Identyfikator nadrzędny najwyższego klienta |
+| CustomerId |  Identyfikator nadrzędnego najwyższego klienta |
 | CustomerName |    Nazwa klienta |
 | CustomerCountry | Kraj klienta |
 | DateKey | Data, dla której jest zgłaszane użycie |
@@ -343,14 +343,14 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 
 | Nazwa kolumny | Opis danych | 
 | :--------- | :--------- | 
-| PGAMpnId  | Identyfikator mpn konta globalnego partnera |
+| PgAMpnId  | Identyfikator mpn konta globalnego partnera |
 | TrainingActivityId | Identyfikator szkolenia | 
 | TrainingTitle | Tytuł szkolenia | 
-| TrainingType | Typ szkolenia (certyfikacja lub egzamin) | 
+| TrainingType (Typ trenowania) | Typ szkolenia (certyfikacja lub egzamin) | 
 | IndividualFirstName | Imię klienta | 
 | IndividualLastName | Nazwisko klienta | 
 | E-mail | Osobisty identyfikator e-mail klienta | 
-| Poczta firmowa | Office e-mail klienta | 
+| CorpEmail | Office e-mail klienta | 
 | TrainingCompletionDate | Data ukończenia szkolenia | 
 | Data wygaśnięcia |  Data wygaśnięcia certyfikacji|
 | ActivationStatus |    Stan certyfikacji|
@@ -359,24 +359,24 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 | Identyfikator MCPID | Identyfikator MCP użytkownika | 
 | MpNId | Identyfikator Microsoft Partner Network | 
 | PartnerName | Nazwa partnera | 
-| PartnerCityLocation | Geograficzna lokalizacja miasta partnera | 
-| PartnerCountryLocation | Geograficzna lokalizacja kraju partnera | 
+| PartnerCityLocation | Lokalizacja geograficzna miasta partnera | 
+| PartnerCountryLocation | Lokalizacja geograficzna kraju partnera | 
 
 ### <a name="microsoft-learn-report"></a>**Microsoft Learn raportu**
 
 | Nazwa kolumny | Opis danych | 
 | :--------- | :--------- | 
-| PGAMpnId  | Identyfikator mpn konta globalnego partnera |
+| PgAMpnId  | Identyfikator mpn konta globalnego partnera |
 | Nazwa użytkownika | Nazwa użytkownika | 
 | UserId | Identyfikator GUID użytkownika | 
-| TrainingName | Nazwa szkolenia | 
-| TrainingType | Typ szkolenia (moduł lub ścieżka szkoleniowa) | 
+| TrainingName (Nazwa szkolenia) | Nazwa szkolenia | 
+| TrainingType (Typ trenowania) | Typ szkolenia (moduł lub ścieżka szkoleniowa) | 
 | Produkty | Produkt, którego dotyczy moduł uczenia | 
 | Role | Odpowiednie role szkolenia | 
 | CompletionDate | Data ukończenia szkolenia | 
 | MpNId | Identyfikator Microsoft Partner Network | 
 | PartnerName | Nazwa partnera | 
-| Kraj | Geograficzna lokalizacja kraju partnera | 
+| Kraj | Lokalizacja geograficzna kraju partnera | 
 
 ### <a name="competency-summary-and-history-report"></a>**Podsumowanie kompetencji i raport historii**
 
@@ -398,67 +398,67 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 | MetricName | Nazwa metryki istotnej dla kompetencji | 
 | MetricMonthlyContribution | Miesięczny udział metryki | 
 | TTMAggregate | Metryka zagregowana dla ostatnich 12 miesięcy | 
-| AnniversaryYearAggregate | Metryka zagregowana dla bieżącego roku rocznicy | 
+| AnniversaryYearAggregate | Metryka zagregowana dla bieżącego roku rocznicowego | 
 | GoldThreshold | Wymaganie dotyczące wydajności w celu spełnienia kompetencji Gold | 
 | SilverThreshold | Wymaganie dotyczące wydajności w celu spełnienia kompetencji Silver | 
 
-### <a name="cloud-ascent---microsoft-365-propensity-report"></a>**Cloud Ascent — Microsoft 365 raport o proporcjonalności**
+### <a name="cloud-ascent---microsoft-365-propensity-report"></a>**Cloud Ascent — Microsoft 365 z proporcjonalnością**
 
 | Nazwa kolumny | Opis danych | 
 | :--------- | :--------- | 
 | Identyfikator MPN | Microsoft Partner Network identyfikator | 
 | Nazwa partnera | Nazwa partnera | 
 | Customer ID | Numer identyfikatora klienta | 
-| Numer DUNS | The Dun & Bradstreet (D&B) number of the customer who's scoreded for propensity | 
+| Numer DUNS | The Dun & Bradstreet (D&B) number of the customer who's scored for propensity | 
 | Nazwa konta | Nazwa konta | 
 | Domena | Domena konta | 
 | Rozmiar organizacji | Rozmiar organizacji | 
 | Branża | Branża, do której należy organizacja | 
-| Pionowa | Pionowa relacja klienta, który jest osłaniany za pomoc, zidentyfikowana przez firmę Microsoft, D&B i inne standardy branżowe | 
+| Pionowa | Pionowa relacja z klientem, który jest wyzyskany ze względu na poziom zadowolenia, identyfikowany przez firmy Microsoft, D&B i inne standardy branżowe | 
 | Warstwowy | Obszar geograficzny lokalizacji | 
-| Przedstawicielstwo | Podmiot zależny klienta, który jest osądlany do proporcjonalności | 
-| Sales Territory (Obszar sprzedaży) | Terytorium sprzedaży klienta, który jest osądlany do proporcjonalności | 
-| City (Miasto) | Geograficzna lokalizacja miasta organizacji | 
+| Przedstawicielstwo | Podmiot zależny klienta, który jest wyzyscyjnie | 
+| Sales Territory (Obszar sprzedaży) | Terytorium sprzedaży klienta, który jest wyekspencją | 
+| City (Miasto) | Lokalizacja geograficzna miasta organizacji | 
 | Stan | Lokalizacja geograficzna stanu organizacji | 
 | Postal Code | Kod pocztowy organizacji | 
 | Kraj | Geograficzna lokalizacja kraju organizacji | 
 | Segment | Segment rynku | 
-| Segment podrzędny | Podsegmentowanie rynku | 
+| Segment podrzędny | Podsegment rynku | 
 | Podsumowanie typu kontrolera SMC | Typ kontrolera SMC | 
-| Najważniejsze niezamaniowane — baza obliczeniowa | Najgorętsi klienci niezamażni — obliczenia | 
-| Najważniejsze niezamaniowane — baza użytkowników | Najgorętsi klienci niezamażni — użytkownik | 
-| IsNonProfit | Wskazuje, czy organizacja jest organizacją niedochodową (Tak, czy Nie) | 
-| Włączanie pracy zdalnej — Exchange Online | Klienci, którzy mają aktywną Exchange Online subskrypcji, odsprzedają Microsoft 365 | 
-| Włączanie pracy zdalnej — pozyskiwanie lokalne (bieżąca wersja) przy użyciu platformy Cloud Ascent Propensity — +10 licencji | Klient, który ma bieżącego klienta lokalnego Office lub Windows klienta. Oznacza to, że wersja klienta jest nowsza niż wersja końcowa (EOL). Klient ma co najmniej 10 licencji. Klient, który ma ocenę proporcjonalności. Partner powinien być celem konwersji na Microsoft 365. | 
-| Włączanie pracy zdalnej — pozyskiwanie lokalne (bieżąca wersja) przy użyciu platformy Cloud Ascent Propensity — <10 licencji | Klient, który ma bieżącego klienta lokalnego Office lub klienta Windows (czyli wersję nowszą niż EOL). Klient ma mniej niż 10 licencji. Klient, który ma ocenę proporcjonalności. Partner powinien kierować konwersję na Microsoft 365. | 
-| Włączanie pracy zdalnej — pozyskiwanie lokalne (bieżąca wersja) bez zależności od usługi Cloud Ascent — +10 licencji | Klient, który ma bieżącego klienta lokalnego Office lub klienta Windows (czyli wersję nowszą niż EOL). Klient ma co najmniej 10 licencji. Klient nie ma oceny proporcjonalności. Partner powinien kierować konwersję na Microsoft 365. | 
-| Włączanie pracy zdalnej — pozyskiwanie lokalne (bieżąca wersja) bez zależności od usługi Cloud Ascent — <10 licencji | Klient, który ma bieżącego klienta lokalnego Office lub klienta Windows (czyli wersję nowszą niż EOL). Klient ma mniej niż 10 licencji. Klient nie ma oceny proporcjonalności. Partner powinien kierować konwersję na Microsoft 365. | 
-| Włączanie pracy zdalnej — pozyskiwanie lokalne (wersja EOL) przy użyciu platformy Cloud Ascent Propensity — +10 licencji | Klient, który ma lokalną lub Office EOL lub Windows klienta (czyli wersję EOL lub wcześniejszą). Klient ma co najmniej 10 licencji. Klient ma ocenę proporcjonalności. Partner powinien kierować konwersję na Microsoft 365. | 
-| Włączanie pracy zdalnej — pozyskiwanie lokalne (wersja EOL) przy użyciu platformy Cloud Ascent — <10 licencji | Klient, który ma lokalną lub Office EOL lub Windows klienta (czyli wersję EOL lub wcześniejszą). Klient ma mniej niż 10 licencji. Klient ma ocenę proporcjonalności. Partner powinien kierować konwersję na Microsoft 365. | 
-| Włączanie pracy zdalnej — pozyskiwanie lokalne (wersja EOL) bez platformy Cloud Ascent Propensity — +10 licencji | Klient, który ma bieżącego klienta lokalnego Office lub Windows klienta (czyli wersję EOL lub wcześniejszą). Klient ma co najmniej 10 licencji. Klient nie ma oceny proporcjonalności. Partner powinien kierować konwersję na Microsoft 365. | 
-| Włączanie pracy zdalnej — pozyskiwanie lokalne (wersja EOL) bez platformy Cloud Ascent Propensity — <10 licencji | Klient, który ma bieżącego klienta lokalnego Office lub Windows klienta (czyli wersję EOL lub wcześniejszą). Klient ma mniej niż 10 licencji. Klient nie ma oceny proporcjonalności. Partner powinien kierować konwersję na Microsoft 365. | 
-| Włączanie pracy zdalnej — perspektywa wysokiej Microsoft 365 (Act NowithEvaluate) | Klient potencjalnych klientów z wysoką Microsoft 365 | 
+| Najważniejsze niezamaniowane — baza obliczeniowa | Klienci niezamażwani — obliczenia | 
+| Najważniejsze niezamaniowane — baza użytkowników | Top unmanaged customers – user | 
+| IsNonProfit | Wskazuje, czy organizacja jest organizacją niedochodową (Tak czy Nie) | 
+| Włączanie pracy zdalnej — docelowe Exchange Online | Klienci, którzy mają aktywną Exchange Online subskrypcji subskrypcji, odsprzedają Microsoft 365 | 
+| Włączanie pracy zdalnej — pozyskiwanie lokalne (bieżąca wersja) przy użyciu platformy Cloud Ascent Propensity — +10 licencji | Klient, który ma bieżącego klienta lokalnego Office lub Windows klienta. Oznacza to, że wersja klienta jest późniejsza niż wersja końca cyklu życia (EOL). Klient ma co najmniej 10 licencji. Klient, który ma ocenę proporcjonalności. Partner powinien kierować konwersję na Microsoft 365. | 
+| Włączanie pracy zdalnej — pozyskiwanie lokalne (bieżąca wersja) przy użyciu platformy Cloud Ascent Propensity — <10 licencji | Klient, który ma bieżącego klienta lokalnego Office lub klienta Windows (czyli wersję nowszą niż EOL). Klient ma mniej niż 10 licencji. Klient, który ma ocenę proporcjonalności. Partner powinien być celem konwersji na Microsoft 365. | 
+| Włączanie pracy zdalnej — pozyskiwanie lokalne (bieżąca wersja) bez zależności od usługi Cloud Ascent — +10 licencji | Klient, który ma bieżącego klienta lokalnego Office lub klienta Windows (czyli wersję nowszą niż EOL). Klient ma co najmniej 10 licencji. Klient nie ma oceny proporcjonalności. Partner powinien być celem konwersji na Microsoft 365. | 
+| Włączanie pracy zdalnej — pozyskiwanie lokalne (bieżąca wersja) bez zależności od usługi Cloud Ascent — <10 licencji | Klient, który ma bieżącego klienta lokalnego Office lub klienta Windows (czyli wersję nowszą niż EOL). Klient ma mniej niż 10 licencji. Klient nie ma oceny proporcjonalności. Partner powinien być celem konwersji na Microsoft 365. | 
+| Włączanie pracy zdalnej — pozyskiwanie lokalne (wersja EOL) przy użyciu platformy Cloud Ascent Propensity — +10 licencji | Klient, który ma lokalną lub Office klienta Windows EOL (czyli wersję EOL lub wcześniejszą). Klient ma co najmniej 10 licencji. Klient ma ocenę proporcjonalności. Partner powinien być celem konwersji na Microsoft 365. | 
+| Włączanie pracy zdalnej — pozyskiwanie lokalne (wersja EOL) przy użyciu platformy Cloud Ascent Propensity — <10 licencji | Klient, który ma lokalną lub Office klienta Windows EOL (czyli wersję EOL lub wcześniejszą). Klient ma mniej niż 10 licencji. Klient ma ocenę proporcjonalności. Partner powinien być celem konwersji na Microsoft 365. | 
+| Włączanie pracy zdalnej — pozyskiwanie lokalne (wersja EOL) bez zależności od usługi Cloud Ascent — +10 licencji | Klient, który ma bieżącego klienta lokalnego Office lub klienta Windows (czyli wersję EOL lub wcześniejszą). Klient ma co najmniej 10 licencji. Klient nie ma oceny proporcjonalności. Partner powinien być celem konwersji na Microsoft 365. | 
+| Włączanie pracy zdalnej — pozyskiwanie lokalne (wersja EOL) bez zależności od usługi Cloud Ascent — <10 licencji | Klient, który ma bieżącego klienta lokalnego Office lub klienta Windows (czyli wersję EOL lub wcześniejszą). Klient ma mniej niż 10 licencji. Klient nie ma oceny proporcjonalności. Partner powinien być celem konwersji na Microsoft 365. | 
+| Enable Remote Work - high-propensity prospect for Microsoft 365 (Act NowithEvaluate) | Klient potencjalnych klientów z wysoką Microsoft 365 | 
 | Włączanie pracy zdalnej — konkuruj (Zoom) z Microsoft 365 | Customer with Zoom and Microsoft 365, target for conversion to Teams | 
-| Włączanie pracy zdalnej — konkuruj (Zoom) bez Microsoft 365 | Customer with Zoom, target for conversion to Teams (Klient z powiększeniem, cel konwersji na Teams | 
+| Włączanie pracy zdalnej — konkuruj (Zoom) bez Microsoft 365 | Klient z powiększeniem, docelowy cel konwersji na Teams | 
 | Zmniejszenie kosztów i zarządzania — Microsoft 365 E3 dla Microsoft 365 E5 | Istniejący klient z Microsoft 365 E3 docelowy dla Microsoft 365 E5 | 
-| Zmniejszenie kosztów i zarządzania — Microsoft 365 Business Basic i klienci standardu Business Standard kierowani do Microsoft 365 Business Premium | Istniejący Microsoft 365 Business Basic i klienci standardu Business Standard, których celem jest Microsoft 365 Business Premium | 
+| Zmniejszenie kosztów i zarządzania — klienci Microsoft 365 Business Basic i standardu Business Standard docelowi dla Microsoft 365 Business Premium | Istniejący Microsoft 365 Business Basic i klienci standardu Business Standard, których celem jest Microsoft 365 Business Premium | 
 | Przekształcanie produktywności organizacyjnej — wydajność urządzenia Surface | Klient wykazuje zadowolenie z urządzenia Surface | 
-| M365Cluster | Określa, czy klient jest podatny na zakup Microsoft 365. Ustaw jako cel ustaw teraz i oceń klastry, ponieważ wyniosą one wyższą rentowność. Należy kierować działania do klientów i edukować ich tylko wtedy, gdy nadal dostępna jest pojemność po usługach Act Now i Evaluate customers. | 
-| M365Fit | Wewnętrzne i zewnętrzne punkty danych definiujące firmographics. Ocenianie dopasowania wykorzystuje model podobny do naszych najlepszych małych i średnich firm (SMB), aby porównać klientów i sprawdzić, czy są potencjalnie odpowiedni dla produktów firmy Microsoft w chmurze. Ocenianie dopasowania jest aktualizowane co kwartał. | 
+| M365Cluster | Określa, czy klient jest podatny na zakup Microsoft 365. Ustaw jako cel teraz i oceń klastry, ponieważ wyniosą one wyższą rentowność. Należy kierować działania do klientów i edukować ich tylko wtedy, gdy nadal istnieje pojemność po ustawieniu się teraz i ocenienie klientów. | 
+| M365Fit | Wewnętrzne i zewnętrzne punkty danych definiujące firmographics. Ocenianie dopasowania używa modelu lookalike do naszych najlepszych małych lub średnich firm (SMB), aby porównać klientów i sprawdzić, czy są one potencjalnym rozwiązaniem dla produktów firmy Microsoft w chmurze. Ocenianie dopasowania jest aktualizowane co kwartał. | 
 | M365Intent | Sygnały związane z mediami społecznościowymi i zachowaniem online klienta definiują intencję. Ocenianie intencji jest nałogowe na dopasowanie w celu zdefiniowania klastrów. Ocenianie intencji jest aktualizowane co miesiąc. | 
-| SurfaceCluster | Określa, czy klient jest bardziej skłonny do zakupu urządzenia Surface, konsolidując zalecenia dotyczące dopasowania i intencji w klastrze. Ustaw jako cel ustaw teraz i oceń klastry, ponieważ wyniosą one wyższą rentowność. Należy kierować działania do klientów i edukować ich tylko wtedy, gdy nadal dostępna jest pojemność po usługach Act Now i Evaluate customers. | 
-| SurfaceFit | Wewnętrzne i zewnętrzne punkty danych definiujące firmographics. Ocenianie dopasowania wykorzystuje model lookalike do najlepszych średnich jakości usług, aby porównać klientów i sprawdzić, czy są one potencjalnym rozwiązaniem dla produktów w chmurze firmy Microsoft. Ocenianie dopasowania jest aktualizowane co kwartał. | 
-| SurfaceIntent (Urządzenie powierzchniowe) | Sygnały związane z mediami społecznościowymi i zachowaniem online klienta definiują intencję. Ocenianie intencji jest nałogowe na dopasowanie w celu zdefiniowania klastrów. Ocenianie intencji jest aktualizowane co miesiąc. | 
-| O365Cluster | Określa, czy klient jest podatny na zakup Office 365. Ustaw jako cel ustaw teraz i oceń klastry, ponieważ wyniosą one wyższą rentowność. Należy kierować działania do klientów i edukować ich tylko wtedy, gdy nadal dostępna jest pojemność po usługach Act Now i Evaluate customers. | 
-| O365Fit | Wewnętrzne i zewnętrzne punkty danych definiujące firmographics. Ocenianie dopasowania wykorzystuje model lookalike do najlepszych średnich jakości usług, aby porównać klientów i sprawdzić, czy są one potencjalnym rozwiązaniem dla produktów w chmurze firmy Microsoft. Ocenianie dopasowania jest aktualizowane co kwartał. | 
+| SurfaceCluster | Określa, czy klient jest podatny na zakup urządzenia Surface, konsolidując zalecenia dotyczące dopasowania i intencji w klastrze. Ustaw jako cel teraz i oceń klastry, ponieważ wyniosą one wyższą rentowność. Należy kierować działania do klientów i edukować ich tylko wtedy, gdy nadal istnieje pojemność po ustawieniu się teraz i ocenienie klientów. | 
+| SurfaceFit | Wewnętrzne i zewnętrzne punkty danych definiujące firmographics. Ocenianie dopasowania korzysta z modelu lookalike do naszych najlepszych małych i średnich firm, aby porównać klientów i sprawdzić, czy są one potencjalnym rozwiązaniem dla produktów firmy Microsoft w chmurze. Ocenianie dopasowania jest aktualizowane co kwartał. | 
+| SurfaceIntent | Sygnały związane z mediami społecznościowymi i zachowaniem online klienta definiują intencję. Ocenianie intencji jest nałogowe na dopasowanie w celu zdefiniowania klastrów. Ocenianie intencji jest aktualizowane co miesiąc. | 
+| O365Cluster | Określa, czy klient jest podatny na zakup Office 365. Ustaw jako cel teraz i oceń klastry, ponieważ wyniosą one wyższą rentowność. Należy kierować działania do klientów i edukować ich tylko wtedy, gdy nadal istnieje pojemność po ustawieniu się teraz i ocenienie klientów. | 
+| O365Fit | Wewnętrzne i zewnętrzne punkty danych definiujące firmographics. Ocenianie dopasowania korzysta z modelu lookalike do naszych najlepszych małych i średnich firm, aby porównać klientów i sprawdzić, czy są one potencjalnym rozwiązaniem dla produktów firmy Microsoft w chmurze. Ocenianie dopasowania jest aktualizowane co kwartał. | 
 | O365Intent | Sygnały związane z mediami społecznościowymi i zachowaniem online klienta definiują intencję. Ocenianie intencji jest nałogowe na dopasowanie w celu zdefiniowania klastrów. Ocenianie intencji jest aktualizowane co miesiąc. | 
-| M365UpsellCustomer | Określa, czy klient wykazuje proporcjonalną do sprzedaży Microsoft 365 | 
+| M365UpsellCustomer | Określa, czy klient wykazuje wywłaszczalność sprzedaży Microsoft 365 | 
 | Ma usługę Google | Określa, czy klient pokazuje sygnały dotyczące konkurencji dotyczące posiadanych produktów Google | 
-| Ma usługę AWS | Określa, czy klient pokazuje sygnały dotyczące konkurencji dla produktów Amazon Web Services (AWS) | 
-| Ma ea | Określa, czy odnowienie jest subskrypcją umowy Enterprise Agreement (EA), czy subskrypcji EA | 
-| Ma otwarte | Określa, czy odnowienie jest umową open value, czy open value | 
+| Ma usługę AWS | Określa, czy klient pokazuje sygnały konkurencji dla produktów Amazon Web Services (AWS) | 
+| Ma ea | Określa, czy odnowienie jest umową Enterprise Agreement (EA), czy subskrypcją EA | 
+| Ma otwarte | Określa, czy odnawianie jest umową Open, czy Open Value | 
 
-### <a name="cloud-ascent---dynamics-365-propensity-report"></a>**Cloud Ascent — raport platformy Dynamics 365**
+### <a name="cloud-ascent---dynamics-365-propensity-report"></a>**Cloud Ascent — raport o proporcjonalności usługi Dynamics 365**
 
 | Nazwa kolumny | Opis danych | 
 | :--------- | :--------- | 
@@ -470,7 +470,7 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 | Domena | Domena konta | 
 | Rozmiar organizacji | Rozmiar organizacji | 
 | Branża | Branża, do której należy organizacja | 
-| Pionowa | Pionowa relacja klienta, który jest osłaniany za pomoc, zidentyfikowana przez firmę Microsoft, D&B i inne standardy branżowe
+| Pionowa | Pionowa relacja klienta, który jest identyfikowany przez firmę Microsoft, D&B i inne standardy branżowe
 | Warstwowy | Obszar geograficzny lokalizacji | 
 | Przedstawicielstwo | Podmiot zależny klienta, który jest osądlany do proporcjonalności | 
 | Sales Territory (Obszar sprzedaży) | Terytorium sprzedaży klienta, który jest osądlany do proporcjonalności | 
@@ -488,28 +488,28 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 | Aktywowanie sprzedaży cyfrowej — dynamics 365 SalesPropensity (działanie teraz lub ocena) | Klienci o wysokiej proporcjonalności bez usługi Dynamics 365. Partner powinien być celem dla usługi Dynamics 365 SalesPro. | 
 | Managing Financial Risk & Fraud - Dynamics on-premises install base - Navision (Business Central propensity model) | Istniejący klient z lokalną usługą Navision. Partner powinien być ukierunkowany na usługę Dynamics 365 Business Central. | 
 | Managing Financial Risk & Fraud - Dynamics on-premises install base - Dynamics AX (Dynamics 365 Finance + Operations propensity model) | Istniejący klient z lokalnym ax. Partner powinien być celem dla usługi Dynamics 365 Finance + Operations. | 
-| Zarządzanie ryzykiem finansowym & oszustwem — lokalna baza instalacji usługi Dynamics — Great Plains (model proporcjonalności business central) | Istniejący klient z lokalnym środowiskiem Great Plains. Partner powinien być ukierunkowany na usługę Dynamics 365 Business Central. | 
+| Zarządzanie ryzykiem finansowym & oszustwem — lokalna baza instalacji usługi Dynamics — Great Plains (model proporcjonalności w centrali biznesowej) | Istniejący klient z lokalnym środowiskiem Great Plains. Partner powinien być ukierunkowany na usługę Dynamics 365 Business Central. | 
 | Managing Financial Risk & Fraud - Dynamics on-premises install base - Solomon (Business Central propensity model) | Istniejący klient z lokalnym solomonem. Partner powinien być ukierunkowany na usługę Dynamics 365 Business Central. | 
-| Zarządzanie ryzykiem finansowym & oszustwem — lokalna baza instalacji usługi Dynamics — inne (model proporcjonalności w centrum biznesowym) | Istniejący klient z innymi rozwiązaniami lokalnymi, których nie wymieniono wcześniej. Partner powinien być ukierunkowany na usługę Dynamics 365 Business Central. | 
-| Tworzenie elastycznych procesów biznesowych — lokalna baza instalacji usługi Dynamics — AX/GP/SL/NAV/Other (model proporcjonalności usługi Dynamics 365) | Tworzenie elastycznych procesów biznesowych — lokalna baza instalacji usługi Dynamics — AX/GP/SL/NAV/Other (model proporcjonalności usługi Dynamics 365) | 
+| Zarządzanie ryzykiem finansowym & oszustwa — lokalna baza instalacji usługi Dynamics — inne (model proporcjonalności w centrali biznesowej) | Istniejący klient z innymi rozwiązaniami lokalnymi, których nie wymieniono wcześniej. Partner powinien być ukierunkowany na usługę Dynamics 365 Business Central. | 
+| Tworzenie elastycznych procesów biznesowych — baza instalacji lokalnej usługi Dynamics — AX/GP/SL/NAV/Other (model proporcjonalności usługi Dynamics 365) | Tworzenie elastycznych procesów biznesowych — baza instalacji lokalnej usługi Dynamics — AX/GP/SL/NAV/Other (model proporcjonalności usługi Dynamics 365) | 
 | Tworzenie elastycznych procesów biznesowych — baza konkurencji Dynamics — Mendix/OutSystems/Salesforce (model proporcjonalności dynamics 365) | Tworzenie elastycznych procesów biznesowych — baza konkurencji Dynamics — Mendix/OutSystems/Salesforce (model proporcjonalności dynamics 365) | 
-| Tworzenie elastycznych procesów biznesowych — baza instalacji Dynamics 365 Finance + Operations | Istniejący klienci usługi Dynamics 365 Finance + Operations. Partner to target Power Apps. | 
-| Tworzenie elastycznych procesów biznesowych — baza instalacji usługi Dynamics 365 Business Central | Istniejący klienci usługi Dynamics 365 Business Central. Partner to target Power Apps. | 
-| Tworzenie elastycznych procesów biznesowych — baza instalacji usługi Dynamics 365 Customer Engagement | Istniejący klienci usługi Dynamics 365 Customer Engagement. Partner to target Power Apps. | 
+| Tworzenie elastycznych procesów biznesowych — baza instalacji Dynamics 365 Finance + Operations | Istniejący klienci usługi Dynamics 365 Finance + Operations. Partner w celu ukierunkowania Power Apps. | 
+| Tworzenie elastycznych procesów biznesowych — baza instalacji usługi Dynamics 365 Business Central | Istniejący klienci usługi Dynamics 365 Business Central. Partner w celu ukierunkowania Power Apps. | 
+| Tworzenie elastycznych procesów biznesowych — baza instalacji usługi Dynamics 365 Customer Engagement | Istniejący klienci usługi Dynamics 365 Customer Engagement. Partner w celu ukierunkowania Power Apps. | 
 | Tworzenie odpornego łańcucha dostaw — Windows i aktywowanie pierwszego obciążenia usługi Dynamics 365 jako usługi Dynamics 365 Supply Chain Management z klientami spoza firmy Oracle lub SAP ERP (planowanie zasobów przedsiębiorstwa) | Kierowanie klientów do zarządzania łańcuchem dostaw usługi Dynamics 365 | 
 | Tworzenie odpornego łańcucha dostaw — sprzedaż krzyżowa usługi Dynamics 365 — zarządzanie łańcuchem dostaw i/lub handel detaliczny dla istniejących klientów usługi Dynamics 365 Customer Engagement | Istniejący klienci usługi Dynamics 365 Customer Engagement, których celem jest zarządzanie łańcuchem dostaw usługi Dynamics 365 w ramach sprzedaży krzyżowej. | 
-| Tworzenie odpornego łańcucha dostaw — sprzedaż krzyżowa usługi Dynamics 365 Supply Chain Management i/lub handlu detalicznego do usług Dynamics 365 Customer Engagement i Oracle lub SAP | Istniejący klienci usługi Dynamics 365 Customer Engagement z bazą danych Oracle lub SAP docelową dla zarządzania łańcuchem dostaw usługi Dynamics 365 | 
-| D365BCCluster | Określa, czy klient jest podatny na zakup usługi Dynamics 365 Business Central. Klienci, którzy wykazują swoją proporcjonalność do usługi Business Central, będą w kategorii Średnia i Mała. Ustaw jako cel teraz i Oceń klastry, ponieważ wyniosą one wyższą rentowność. Przekieruj klientów do edukacji tylko wtedy, gdy nadal będzie dostępna pojemność po tym, jak zaadeksuj działania teraz i oceń klientów. | 
+| Tworzenie odpornego łańcucha dostaw — sprzedaż krzyżowa usługi Dynamics 365 Supply Chain Management i/lub Handlu detalicznego dla usług Dynamics 365 Customer Engagement i Oracle lub SAP | Istniejący klienci usługi Dynamics 365 Customer Engagement z bazą danych Oracle lub SAP docelową dla zarządzania łańcuchem dostaw usługi Dynamics 365 | 
+| D365BCCluster | Określa, czy klient jest podatny na zakup usługi Dynamics 365 Business Central. Klienci, którzy wykazują swoją proporcjonalność do usługi Business Central, będą w kategorii Średnia i Mała. Ustaw jako cel teraz i Oceń klastry, ponieważ wyniosą one wyższą rentowność. Przekieruj klientów do edukacji tylko wtedy, gdy nadal istnieje pojemność po tym, jak ustawisz cel Ustaw teraz i Oceń klientów. | 
 | D365BCFit | Wewnętrzne i zewnętrzne punkty danych definiujące firmographics. Ocenianie dopasowania wykorzystuje model podobny do naszego najlepszego SMB, aby porównać klientów i sprawdzić, czy są potencjalnie odpowiedni dla produktów firmy Microsoft w chmurze. Ocenianie dopasowania jest aktualizowane co kwartał. | 
 | D365BCIntent | Sygnały związane z mediami społecznościowymi i zachowaniem online klienta definiują intencję. Ocenianie intencji jest nałogowe na dopasowanie w celu zdefiniowania klastrów. Ocenianie intencji jest aktualizowane co miesiąc. | 
-| D365FOCluster | Określa, czy klient jest podatny na zakup usługi Dynamics 365 Finance and Operations. Klienci, którzy wykazują przyczłętość do pracy z operacjami i finansami, będą się chcieć znaleźć w głównych kategoriach nieza zarządzania. Ustaw jako cel teraz i Oceń klastry, ponieważ wyniosą one wyższą rentowność. Przekieruj klientów do edukacji tylko wtedy, gdy nadal będzie dostępna pojemność po tym, jak zaadeksuj działania teraz i oceń klientów. | 
+| D365FOCluster | Określa, czy klient jest podatny na zakup usługi Dynamics 365 Finance and Operations. Klienci, którzy wykazują przyczłętość do pracy z operacjami i finansami, będą się chcieć znaleźć w kategoriach niezamówień. Ustaw jako cel teraz i Oceń klastry, ponieważ wyniosą one wyższą rentowność. Przekieruj klientów do edukacji tylko wtedy, gdy nadal istnieje pojemność po tym, jak ustawisz cel Ustaw teraz i Oceń klientów. | 
 | D365FOFit | Wewnętrzne i zewnętrzne punkty danych definiujące firmographics. Ocenianie dopasowania wykorzystuje model podobny do naszego najlepszego SMB, aby porównać klientów i sprawdzić, czy są potencjalnie odpowiedni dla produktów firmy Microsoft w chmurze. Ocenianie dopasowania jest aktualizowane co kwartał. | 
 | D365FOIntent | Sygnały związane z mediami społecznościowymi i zachowaniem online klienta definiują intencję. Ocenianie intencji jest nałogowe na dopasowanie w celu zdefiniowania klastrów. Ocenianie intencji jest aktualizowane co miesiąc. | 
-| D365CECluster | Określa zaangażowanie klienta w zakup usługi Dynamics 365 Customer Engagement. Klienci, którzy zachcą się zaangażowaniem w usługę Customer Engagement, będą w kategorii Średni i Mały. Ustaw jako cel ustaw teraz i Oceń klastry, ponieważ wyniosą one wyższą rentowność. Należy kierować działania do klientów i edukować ich tylko wtedy, gdy nadal będzie dostępna pojemność po tym, jak ustawisz cel Ustaw teraz i oceń klientów. | 
+| D365CECluster | Określa zaangażowanie klienta w zakup usługi Dynamics 365 Customer Engagement. Klienci, którzy zachcą się zaangażowaniem w obsługę klienta, będą w kategorii Średni i Mały. Ustaw jako cel ustaw teraz i Oceń klastry, ponieważ wyniosą one wyższą rentowność. Należy kierować działania do klientów i edukować ich tylko wtedy, gdy nadal będzie dostępna pojemność po tym, jak ustawisz cel Ustaw teraz i oceń klientów. | 
 | D365CEFit | Wskazuje dopasowanie do usługi Dynamics 365 Customer Engagement | 
 | D365CEIntent | Wskazuje intencję usługi Dynamics 365 Customer Engagement | 
-| DynamicsOnPremAXorCRM_HasOpenRenewal | Określa, czy klient ma otwarte odnawianie lokalnego programu Dynamics AX lub CRM | 
-| M365UpsellCustomer | Określa, czy klient wykazuje dojrzałość do sprzedaży Microsoft 365 | 
+| DynamicsOnPremAXorCRM_HasOpenRenewal | Określa, czy klient ma otwarte odnowienie programu Dynamics on-premises AX lub CRM | 
+| M365UpsellCustomer | Określa, czy klient wykazuje proporcjonalną do sprzedaży Microsoft 365 | 
 | Ma usługę Google | Określa, czy klient pokazuje sygnały dotyczące konkurencji dotyczące posiadanych produktów Google | 
 | Ma usługę AWS | Określa, czy klient pokazuje sygnały konkurencji dotyczące posiadania produktów AWS | 
 | Ma ea | Określa, czy odnowienie jest subskrypcją EA, czy subskrypcją EA | 
@@ -527,10 +527,10 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 | Domena | Domena konta | 
 | Rozmiar organizacji | Rozmiar organizacji | 
 | Branża | Branża | 
-| Pionowa | Pionowa relacja z klientem, który jest identyfikowany przez firmy Microsoft, D&B i inne standardy branżowe | 
+| Pionowa | Pionowa relacja z klientem, który został oznaczony jako klient z poziomem proporcjonalności, identyfikowany przez firmy Microsoft, D&B i inne standardy branżowe | 
 | Warstwowy | Obszar geograficzny lokalizacji | 
 | Przedstawicielstwo | Podmiot zależny klienta, który jest wyzyscyjnie | 
-| Sales Territory (Obszar sprzedaży) | Terytorium sprzedaży klienta, który jest wyzyscyjni ze względu na proporcjonalność | 
+| Sales Territory (Obszar sprzedaży) | Terytorium sprzedaży klienta, który jest wyekspencją | 
 | City (Miasto) | Lokalizacja geograficzna miasta | 
 | Stan | Lokalizacja geograficzna stanu | 
 | Postal Code | Kod pocztowy organizacji | 
@@ -543,36 +543,36 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 | IsNonProfit | Wskazuje, czy organizacja jest organizacją niedochodową (Tak czy Nie) | 
 | Migrate - EOL Windows Server - EOL Windows Server IB with Cloud Ascent Propensity - 5+ licenses (Migracja — EOL Windows Server IB with Cloud Ascent Propensity — ponad 5 licencji | Klient, który ma lokalną wersję EOL Windows Server (czyli wersję EOL lub wcześniejszą). Klient ma co najmniej 5 licencji. Klient, który ma ocenę proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
 | Migracja — EOL Windows Server — EOL Windows Server IB with Cloud Ascent Propensity — <5 licencji | Klient, który ma lokalną wersję EOL Windows Server (czyli wersję EOL lub wcześniejszą). Klient ma mniej niż 5 licencji. Klient, który ma ocenę proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
-| Migracja — EOL Windows Server — EOL Windows Server IB without Cloud Ascent Propensity - 5+ licenses | Klient, który ma lokalną wersję EOL Windows Server (czyli wersję EOL lub wcześniejszą). Klient ma więcej niż 5 licencji. Klient nie ma oceny proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
-| Migracja — EOL Windows Server — EOL Windows Server IB without Cloud Ascent Propensity — <5 licencji | Klient, który ma lokalną wersję EOL Windows Server (czyli wersję EOL lub wcześniejszą). Ma mniej niż 5 licencji. Klient nie ma oceny proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
-| Migrate - EOL SQL - EOL SQL Server IB with Cloud Ascent Propensity - 5+ licenses (Migracja — licencja EOL SQL Server propensity w chmurze — ponad 5 licencji | Klient, który ma lokalną wersję EOL SQL Server (czyli wersję EOL lub wcześniejszą). Klient ma ponad 5 licencji. Klient ma ocenę proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
-| Migrowanie — EOL SQL — EOL SQL Server IB with Cloud Ascent Propensity — <5 licencji | Klient, który ma lokalną wersję EOL SQL Server (czyli wersję EOL lub wcześniejszą). Ma mniej niż 5 licencji. Klient, który ma ocenę proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
+| Migrate - EOL Windows Server - EOL Windows Server IB without Cloud Ascent Propensity - 5+ licenses (Migracja — EOL Windows Server IB bez platformy Cloud Ascent Propensity — ponad 5 licencji | Klient, który ma lokalną wersję EOL Windows Server (czyli wersję EOL lub wcześniejszą). Klient ma więcej niż 5 licencji. Klient nie ma wyniku proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
+| Migrowanie — EOL Windows Server — EOL Windows Server IB without Cloud Ascent Propensity — <5 licencji | Klient, który ma lokalną wersję EOL Windows Server (czyli wersję EOL lub wcześniejszą). Ma mniej niż 5 licencji. Klient nie ma wyniku proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
+| Migrate - EOL SQL - EOL SQL Server IB with Cloud Ascent Propensity - 5+ licenses (Migracja — EOL SQL Server IB z usługą Cloud Ascent Propensity — ponad 5 licencji | Klient, który ma lokalną wersję EOL SQL Server (czyli wersję EOL lub wcześniejszą). Klient ma ponad 5 licencji. Klient ma ocenę proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
+| Migrate - EOL SQL - EOL SQL Server IB with Cloud Ascent Propensity — <5 licencji | Klient, który ma lokalną wersję EOL SQL Server (czyli wersję EOL lub wcześniejszą). Ma mniej niż 5 licencji. Klient, który ma ocenę proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
 | Migrate - EOL SQL - EOL SQL Server IB without Cloud Ascent propensity - 5+ licenses | Klient, który ma lokalną wersję EOL SQL Server (czyli wersję EOL lub wcześniejszą). Klient ma co najmniej 5 licencji. Klient nie ma oceny proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
 | Migrate - EOL SQL - EOL SQL Server IB without Cloud Ascent propensity — <5 licencji | Klient, który ma lokalną wersję EOL SQL Server (czyli wersję EOL lub wcześniejszą). Klient ma mniej niż 5 licencji. Klient nie ma oceny proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
-| Migrowanie — migrowanie lokalnego serwera Windows — bieżąca Windows Server IB z proporcjonalnością do chmury — ponad 5 licencji | Klient, który ma bieżącą lokalną wersję Windows Server (czyli wersję nowszą niż EOL). Klient ma ponad 5 licencji. Klient ma ocenę proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
+| Migrowanie — migrowanie lokalnego serwera Windows Server — bieżąca wersja Windows Server IB z proporcjonalnością do chmury — ponad 5 licencji | Klient, który ma bieżącą lokalną wersję Windows Server (czyli wersję nowszą niż EOL). Klient ma ponad 5 licencji. Klient ma ocenę proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
 | Migrowanie — migrowanie lokalnego serwera Windows Server — bieżący Windows Server IB z proporcjonalnością do chmury — <5 licencji | Klient, który ma bieżącą lokalną wersję Windows Server (czyli wersję nowszą niż EOL). Klient ma mniej niż 5 licencji. Klient ma ocenę proporcjonalności dla platformy Azure. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
-| Migrowanie — migrowanie lokalnego serwera Windows — bieżąca wersja Windows Server IB bez zależności od chmury — ponad 5 licencji | Klient, który ma bieżącą lokalną wersję Windows Server (czyli wersję nowszą niż EOL). Klient ma ponad 5 licencji. Klient nie ma oceny proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
+| Migrowanie — migrowanie lokalnego serwera Windows — bieżąca Windows Server IB bez zależności od chmury — ponad 5 licencji | Klient, który ma bieżącą lokalną wersję Windows Server (czyli wersję nowszą niż EOL). Klient ma ponad 5 licencji. Klient nie ma oceny proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
 | Migrowanie — migrowanie lokalnego serwera Windows Server — bieżący Windows Server IB bez zależności od chmury — <5 licencji | Klient, który ma bieżącą lokalną wersję Windows Server (czyli wersję nowszą niż EOL). Klient ma mniej niż 5 licencji. Klient nie ma oceny proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
-| Migrowanie — migrowanie do usługi Azure SQL lub SQL maszyn wirtualnych — bieżąca wersja SQL Server IB z proporcjonalnością usługi Cloud Ascent — ponad 5 licencji | Klient, który ma bieżącą wersję lokalną SQL Server (czyli wersję nowszą niż EOL). Klient ma ponad 5 licencji. Klient ma ocenę proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
-| Migrowanie — migrowanie SQL lub maszyn wirtualnych SQL Azure — bieżąca SQL Server IB z proporcjonalnością usługi Cloud Ascent — <5 licencji | Klient, który ma bieżącą wersję lokalną SQL Server (czyli wersję nowszą niż EOL). Klient ma mniej niż 5 licencji. Klient ma ocenę proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
+| Migrowanie — migrowanie do usługi Azure SQL lub SQL maszyn wirtualnych — bieżąca wersja SQL Server IB z proporcjonalnością do chmury — ponad 5 licencji | Klient, który ma bieżącą wersję lokalną SQL Server (czyli wersję nowszą niż EOL). Klient ma ponad 5 licencji. Klient ma ocenę proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
+| Migrowanie — migrowanie SQL azure SQL lub maszyn wirtualnych — bieżąca wersja SQL Server IB z proporcjonalnością do chmury — <5 licencji | Klient, który ma bieżącą wersję lokalną SQL Server (czyli wersję nowszą niż EOL). Klient ma mniej niż 5 licencji. Klient ma ocenę proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
 | Migrowanie — migrowanie SQL lub maszyn wirtualnych SQL Azure — bieżąca SQL Server IB bez proporcjonalności do chmury — ponad 5 licencji | Klient, który ma bieżącą wersję lokalną SQL Server (czyli wersję nowszą niż EOL). Klient ma ponad 5 licencji. Klient nie ma oceny proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
-| Migrowanie — migrowanie do maszyn wirtualnych SQL azure SQL — bieżąca SQL Server IB bez proporcjonalności do chmury — <5 licencji | Klient, który ma bieżącą wersję lokalną SQL Server (czyli wersję nowszą niż EOL). Klient ma mniej niż 5 licencji. Klient nie ma oceny proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
+| Migrowanie — migrowanie SQL lub maszyn wirtualnych SQL Azure — bieżąca SQL Server IB bez proporcjonalności do chmury — <5 licencji | Klient, który ma bieżącą wersję lokalną SQL Server (czyli wersję nowszą niż EOL). Klient ma mniej niż 5 licencji. Klient nie ma oceny proporcjonalności. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
 | Migrowanie — OSS — migrowanie do bazy danych Open Source Szmigrowanie (OSS) | Istniejący klient z dowolnym z następujących produktów konkurują ze sobą: PostgreSQL, MySQL, MariaDB. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
 | Migrowanie — OSS — Linux na platformie Azure | Istniejący klient z systemem Linux. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
 | Migrowanie — SAP — SAP na platformie Azure | Istniejący klient z sap. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
 | Migrowanie — Windows Virtual Desktop — Usługi pulpitu zdalnego IB | Identyfikuje klientów za pomocą aktywnych Windows Usługi pulpitu zdalnego. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
-| Migrowanie — Windows Virtual Desktop — nowoczesna sprzedaż krzyżowa na platformie Azure/WVD | Identyfikuje klientów za pomocą Microsoft 365 i nie ma platformy Azure. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
+| Migrate - Windows Virtual Desktop - Cross Sell Modern Work to Azure/WVD (Migracja — Windows Virtual Desktop — nowoczesna sprzedaż krzyżowa na platformie Azure/WVD) | Identyfikuje klientów za pomocą Microsoft 365 i nie ma platformy Azure. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
 | Migrowanie — VMware IB | Istniejący klient z produktem: VMware. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
 | Migrowanie — Citrix IB | Istniejący klient z produktem: Citrix Systems. Partner powinien zwrócić się do tego klienta o migrację na platformę Azure. | 
-| Innowacje — analiza — Power BI biznesowe z wysoką wydajnością platformy Azure | Klienci z subskrypcją usług i Active Power BI, w tym: Power BI — Standalone Pro, Power BI — Azure Suites, Power BI — Office Suites, Power BI Suites — Microsoft 365 | 
+| Innowacje — analiza — Power BI IB o wysokiej wydajności platformy Azure | Klienci z subskrypcją usług i Active Power BI, w tym: Power BI - Standalone Pro, Power BI - Azure Suites, Power BI - Office Suites, Power BI Suites - Microsoft 365 | 
 | Włącz — DevOps z GitHub — Visual Studio/MSDN IB | Identyfikuje klientów z aktywnymi Visual Studio wersji | 
-| Windows Wersja Standardowa serwera | Przedstawia wersję zakupów Windows Server Standard przez klienta | 
+| Windows Wersja Standardowa serwera | Wyświetla wersję usługi Windows Server Standard zakupy przez klienta | 
 | Windows Licencja Standardowa serwera | Przedstawia typ licencji klienta Windows w standardowych zakupach serwera | 
-| Windows Wersja centrum danych serwera | Przedstawia wersję zakupów Windows Data Center przez klienta | 
-| Windows Licencja centrum danych serwera | Przedstawia typ licencji Windows zakupach centrum danych przez klienta | 
+| Windows Wersja centrum danych serwera | Przedstawia wersję zakupów Windows data center przez klienta | 
+| Windows Licencja centrum danych serwera | Przedstawia typ licencji klienta Windows zakupach centrum danych | 
 | AzureFit | Wewnętrzne i zewnętrzne punkty danych definiujące firmographics. Ocenianie dopasowania wykorzystuje model podobny do naszego najlepszego SMB, aby porównać klientów i sprawdzić, czy są potencjalnie odpowiedni dla produktów firmy Microsoft w chmurze. Ocenianie dopasowania jest aktualizowane co kwartał. | 
 | AzureIntent | Sygnały związane z mediami społecznościowymi i zachowaniem online klienta definiują intencję. Ocenianie intencji jest nałogowe na dopasowanie w celu zdefiniowania klastrów. Ocenianie intencji jest aktualizowane co miesiąc. | 
-| AzureCluster | Określa, czy klient jest w stanie zakupić platformę Azure, konsolidując zalecenia dotyczące dopasowania i intencji w klastrze. Ustaw jako cel teraz i Oceń klastry, ponieważ wyniosą one wyższą rentowność. Przekieruj klientów do edukacji tylko wtedy, gdy nadal będzie dostępna pojemność po tym, jak zaadeksuj działania teraz i oceń klientów. | 
+| AzureCluster | Określa, czy klient jest w stanie zakupić platformę Azure, konsolidując zalecenia dotyczące dopasowania i intencji w klastrze. Ustaw jako cel teraz i Oceń klastry, ponieważ wyniosą one wyższą rentowność. Przekieruj klientów do edukacji tylko wtedy, gdy nadal istnieje pojemność po tym, jak ustawisz cel Ustaw teraz i Oceń klientów. | 
 | WindowsServerDataCenter_HasOpenRenewal | Określa, czy klient ma otwarte odnowienie dla Windows Server Datacenter | 
 | WindowsServerStandard_HasOpenRenewal | Określa, czy klient ma otwarte odnowienie dla Windows Server Standard | 
 | AzureUpsellCustomer | Określa, czy klient wykazuje wywłaszczalność sprzedaży na platformie Azure | 
@@ -593,7 +593,7 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 | Domena | Domena konta | 
 | Rozmiar organizacji | Rozmiar organizacji | 
 | Branża | Branża | 
-| Pionowa | Pionowa relacja klienta, który jest osłaniany za pomoc, zidentyfikowana przez firmę Microsoft, D&B i inne standardy branżowe | 
+| Pionowa | Pionowa relacja klienta, który jest identyfikowany przez firmę Microsoft, D&B i inne standardy branżowe | 
 | Warstwowy | Obszar geograficzny lokalizacji | 
 | Przedstawicielstwo | Podmiot zależny klienta, który jest osądlany do proporcjonalności | 
 | Sales Territory (Obszar sprzedaży) | Terytorium sprzedaży klienta, który jest osądlany do proporcjonalności | 
@@ -609,11 +609,11 @@ Różne raporty, które można pobrać wraz z ich definicjami danych, są wymien
 | IsNonProfit | Wskazuje, czy organizacja jest organizacją niedochodową (Tak, czy Nie) | 
 | Ma usługę Google | Określa, czy klient pokazuje sygnały dotyczące konkurencji dotyczące posiadanych produktów AWS | 
 | Ma usługę AWS | Określa, czy klient pokazuje sygnały dotyczące konkurencji dotyczące posiadanych produktów AWS | 
-| Klaster platformy Azure | Określa, czy klient jest podatny na zakup platformy Azure. Ustaw jako cel teraz i Oceń klastry, ponieważ wyniosą one wyższą rentowność. Przekieruj klientów do edukacji tylko wtedy, gdy nadal będzie dostępna pojemność po tym, jak zaadeksuj działania teraz i oceń klientów. | 
-| Klaster D365 Finance + Operations | Określa, czy klient jest podatny na zakup usługi Dynamics 365 Finance and Operations. Klienci, którzy wykazują przyczłętość do pracy z operacjami i finansami, będą się chcieć znaleźć w głównych kategoriach nieza zarządzania. Ustaw jako cel teraz i Oceń klastry, ponieważ wyniosą one wyższą rentowność. Przekieruj klientów do edukacji tylko wtedy, gdy nadal będzie dostępna pojemność po tym, jak zaadeksuj działania teraz i oceń klientów. | 
-| Klaster D365 CE | Określa, czy klient jest podatny na zakup usługi Dynamics 365 Customer Engagement. Klienci, którzy wykazali się zaangażowaniem klientów, będą w kategorii Średni i Mały. Ustaw jako cel teraz i Oceń klastry, ponieważ wyniosą one wyższą rentowność. Przekieruj klientów do edukacji tylko wtedy, gdy nadal będzie dostępna pojemność po tym, jak zaadeksuj działania teraz i oceń klientów. | 
-| D365 BC Cluster | Określa, czy klient jest podatny na zakup usługi Dynamics 365 Business Central. Klienci, którzy wykazują swoją proporcjonalność do usługi Business Central, będą w kategorii Średnia i Mała. Ustaw jako cel teraz i Oceń klastry, ponieważ wyniosą one wyższą rentowność. Przekieruj klientów do edukacji tylko wtedy, gdy nadal będzie dostępna pojemność po tym, jak zaadeksuj działania teraz i oceń klientów. | 
-| Microsoft 365 Klastra | Określa, czy klient jest podatny na zakup Microsoft 365. Ustaw jako cel teraz i Oceń klastry, ponieważ wyniosą one wyższą rentowność. Przekieruj klientów do edukacji tylko wtedy, gdy nadal będzie dostępna pojemność po tym, jak zaadeksuj działania teraz i oceń klientów. | 
+| Klaster platformy Azure | Określa, czy klient jest podatny na zakup platformy Azure. Ustaw jako cel teraz i Oceń klastry, ponieważ wyniosą one wyższą rentowność. Przekieruj klientów do edukacji tylko wtedy, gdy nadal istnieje pojemność po tym, jak ustawisz cel Ustaw teraz i Oceń klientów. | 
+| Klaster D365 Finance + Operations | Określa, czy klient jest podatny na zakup usługi Dynamics 365 Finance and Operations. Klienci, którzy wykazują przyczłętość do pracy z operacjami i finansami, będą się chcieć znaleźć w kategoriach niezamówień. Ustaw jako cel teraz i Oceń klastry, ponieważ wyniosą one wyższą rentowność. Przekieruj klientów do edukacji tylko wtedy, gdy nadal istnieje pojemność po tym, jak ustawisz cel Ustaw teraz i Oceń klientów. | 
+| Klaster D365 CE | Określa, czy klient jest podatny na zakup usługi Dynamics 365 Customer Engagement. Klienci, którzy wykazali się zaangażowaniem klientów, będą w kategorii Średni i Mały. Ustaw jako cel teraz i Oceń klastry, ponieważ wyniosą one wyższą rentowność. Przekieruj klientów do edukacji tylko wtedy, gdy nadal istnieje pojemność po tym, jak ustawisz cel Ustaw teraz i Oceń klientów. | 
+| D365 BC Cluster | Określa, czy klient jest podatny na zakup usługi Dynamics 365 Business Central. Klienci, którzy wykazują swoją proporcjonalność do usługi Business Central, będą w kategorii Średnia i Mała. Ustaw jako cel teraz i Oceń klastry, ponieważ wyniosą one wyższą rentowność. Przekieruj klientów do edukacji tylko wtedy, gdy nadal istnieje pojemność po tym, jak ustawisz cel Ustaw teraz i Oceń klientów. | 
+| Microsoft 365 Klastra | Określa, czy klient jest podatny na zakup Microsoft 365. Ustaw jako cel teraz i Oceń klastry, ponieważ wyniosą one wyższą rentowność. Przekieruj klientów do edukacji tylko wtedy, gdy nadal istnieje pojemność po tym, jak ustawisz cel Ustaw teraz i Oceń klientów. | 
 | Program licencjonowania | Określa typ programu licencjonowania do odnowienia | 
 | Identyfikator umowy | Identyfikator umowy | 
 | Data zakończenia umowy | Data zakończenia umowy | 

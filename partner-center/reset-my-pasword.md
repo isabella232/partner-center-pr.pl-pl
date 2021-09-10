@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: ceb54243f3032de0667b67fc2e84c1ba6d05cd5b
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100038"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958989"
 ---
 # <a name="reset-my-password"></a>Resetowanie hasła
  

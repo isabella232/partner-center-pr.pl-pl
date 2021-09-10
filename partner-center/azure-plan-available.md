@@ -10,15 +10,15 @@ ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 6037044a72bd9bd71131ddbc66fec0555bbd5f86
-ms.sourcegitcommit: fe0920740ef9f461b38cc20bac41192552466405
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "123088558"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959434"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Usługi platformy Azure dostępne w programie Azure Dostawca rozwiązań w chmurze (CSP)
 
-**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Administrator globalny | Agent pomocy technicznej | Agent sprzedaży | Administrator zarządzania użytkownikami
+**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Administrator globalny | Agent pomocy | Agent sprzedaży | Administrator zarządzania użytkownikami
 
 ## <a name="available-azure-services-in-azure-csp"></a>Dostępne usługi platformy Azure w programie Azure CSP
 
@@ -29,7 +29,7 @@ W tym artykule wymieniono usługi platformy Azure, które są i nie są dostępn
 
 ## <a name="global-cloud"></a>Chmura globalna
 
-Wszystkie usługi oparte na Azure Resource Manager są dostępne w programie CSP.  Usługi inne Azure Resource Manager, takie jak usługi klasycznego modelu wdrażania, nie są dostępne w programie CSP.  
+Wszystkie usługi oparte na modelu Azure Resource Manager są dostępne w programie CSP.  Usługi inne Azure Resource Manager, takie jak usługi klasycznego modelu wdrażania, nie są dostępne w programie CSP.  
 
 ## <a name="csp-specific-service-configurations"></a>CSP-Specific konfiguracji usługi
 
@@ -41,9 +41,9 @@ Następujące usługi wymagają specjalnych konfiguracji w programie CSP:
 
 - [Usługa Key Vault](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
-- [Azure Time Series Szczegółowe informacje](https://azure.microsoft.com/services/time-series-insights/) Tylko użytkownicy z dzierżawy klienta mogą uzyskać dostęp do danych w ich środowisku Szczegółowe informacje Time Series. Partnerzy mogą domyślnie zarządzać środowiskiem usługi Time Series Szczegółowe informacje swoich klientów, ale jeśli potrzebują dostępu do danych w tym środowisku, muszą zostać dodani do dzierżawy klienta.
+- [Azure Time Series Szczegółowe informacje](https://azure.microsoft.com/services/time-series-insights/) Tylko użytkownicy z dzierżawy klienta mogą uzyskać dostęp do danych w ich środowisku Szczegółowe informacje Time Series. Partnerzy mogą domyślnie zarządzać środowiskiem usługi Time Series Szczegółowe informacje klienta, ale jeśli potrzebują dostępu do danych w tym środowisku, muszą zostać dodani do dzierżawy klienta.
 
-- Certyfikaty zarządzania do uwierzytelniania bibliotek zestawu Azure SDK za pośrednictwem certyfikatu nie są obsługiwane w modelu dostawcy usług w chmurze.  Zamiast tego skorzystaj z uwierzytelniania jednostki usługi Azure AD i biblioteki Azure.Identity.  Odwołanie [do uwierzytelniania za pomocą zestawu Azure SDK dla platformy .NET](/dotnet/azure/sdk/authentication)
+- Certyfikaty zarządzania do uwierzytelniania bibliotek zestawu Azure SDK za pośrednictwem certyfikatu nie są obsługiwane w modelu CSP.  Zamiast tego skorzystaj z uwierzytelniania jednostki usługi Azure AD i biblioteki Azure.Identity.  Uwierzytelnianie [przy użyciu zestawu Azure SDK dla platformy .NET](/dotnet/azure/sdk/authentication)
 
 ## <a name="visual-studio-marketplace"></a>Witryna Visual Studio Marketplace
 
@@ -55,7 +55,7 @@ Teraz możesz kupić elementy wymienione poniżej w witrynie Visual Studio Marke
 
 - [Xamarin University szkoleniowe](https://marketplace.visualstudio.com/items?itemName=ms.xamarin-university)
 
-Aby ułatwić Ci pracę, utworzono filmy wideo i dokumentację na temat sposobu konfigurowanie i kupowanie aplikacji oraz zarządzania nimi [Azure DevOps](/vsts/billing/csp/set-up-csp-customer) programie CSP.
+Aby ułatwić ci pracę, utworzono filmy wideo i dokumentację na temat sposobu skonfigurowania i zakupu aplikacji oraz zarządzania nimi [Azure DevOps](/vsts/billing/csp/set-up-csp-customer) cSP.
 
 ## <a name="azure-marketplace-items-in-azure-csp"></a>Elementy witryny Azure Marketplace w programie Azure CSP
 
@@ -65,13 +65,13 @@ Nie wszystkie Azure Marketplace są obecnie dostępne w Azure CSP subskrypcji.
 
 - Bring your own license (BYOL): te elementy są dostępne. Pełna lista elementów aplikacji z włączoną obsługą Azure Marketplace BYOL jest dostępna na stronie [Azure Marketplace BYOL.](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)
 
-- Elementy aplikacji innych firm z płatnością zgodnie z Azure Marketplace: te elementy są dostępne, jeśli dostawca został opublikowany w kanale CSP. Aby uzyskać więcej informacji, zobacz [Sell subscriptions to Azure Marketplace products](csp-commercial-marketplace-overview.md)(Sprzedaż subskrypcji Azure Marketplace produktów).
+- Elementy aplikacji innych firm z płatnością zgodnie z Azure Marketplace: te elementy są dostępne, jeśli dostawca opublikował go w kanale CSP. Aby uzyskać więcej informacji, zobacz [Sell subscriptions to Azure Marketplace products](csp-commercial-marketplace-overview.md)(Sprzedaż subskrypcji Azure Marketplace produktów).
 
-- Citrix XenApp Essentials: Partnerzy mogą zakupić XenApp Essentials dla klientów w programie CSP. Aby uzyskać więcej informacji, zobacz następujący blog Citrix — Dystrybucja XenApp Essentials [jest teraz dostępna za pośrednictwem Microsoft Cloud Solution Provider Channel.](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/)
+- Citrix XenApp Essentials: Partnerzy mogą kupować XenApp Essentials dla klientów w programie CSP. Aby uzyskać więcej informacji, zobacz następujący blog Citrix — Dystrybucja XenApp Essentials [jest teraz dostępna za pośrednictwem Microsoft Cloud Solution Provider Channel.](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/)
 
 ## <a name="national-clouds"></a>Chmury narodowe
 
-W poniższej tabeli przedstawiono regularnie aktualizowaną listę dostępnych produktów, usług i funkcji platformy Azure oferowanych przez dostawców rozwiązań w chmurze krajowej.
+W poniższej tabeli przedstawiono regularnie aktualizowaną listę dostępnych produktów, usług i funkcji platformy Azure dostępnych dla dostawcy CSP w chmurach krajowych.
 
 | Produkt, usługa lub funkcja platformy Azure | US Government | Niemcy |
 | ------ | :-----------: | :-----------: |

@@ -9,18 +9,18 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22557f993db470537507b09a8a645ed7efe475fe12ce08b310de26d6077643d0
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 327d2ddd97dc4bf226985523184407f32f7883ad
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115697611"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958258"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Raporty pulpitu nawigacyjnego klientów z Partner Center Szczegółowe informacje
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny | Przeglądarka raportów | Przeglądarka raportów dla kierownictwa
 
-Pulpit nawigacyjny Klienci przedstawia dane klientów, którzy nabyli produkty w chmurze, takie jak Office, Azure i Dynamics. za pośrednictwem użytkownika lub użytego do wdrożenia tych produktów i zarządzania nimi w ich dzierżawach. 
+Pulpit nawigacyjny Klienci przedstawia dane klientów, którzy pozyskali produkty w chmurze, takie jak Office, Azure i Dynamics. za pośrednictwem użytkownika lub użytego do wdrożenia tych produktów i zarządzania nimi w ich dzierżawach. 
  
 Pulpit nawigacyjny Klienci zawiera następujące sekcje: 
 
@@ -34,13 +34,13 @@ Pulpit nawigacyjny Klienci zawiera następujące sekcje:
 
 ## <a name="summary"></a>Podsumowanie
 
-Sekcja podsumowania zawiera widok migawki różnych kluczowych wskaźników wydajności (KPI) powiązanych z klientami, takich jak klienci, aktywni klienci, subskrypcje, dodani klienci, klienci, którzy podpisali wskaźniki wydajności i klienci według poszczególnych produktów. Filtry na poziomie strony mają zastosowanie do każdej sekcji.
+Sekcja podsumowania zawiera widok migawki różnych kluczowych wskaźników wydajności (KPI) powiązanych z klientami, takich jak klienci, aktywni klienci, subskrypcje, dodani klienci, klienci, którzy podali wskaźniki wydajności i klienci według poszczególnych produktów. Filtry na poziomie strony mają zastosowanie do każdej sekcji.
 
 :::image type="content" source="images/insights/customer-product.png" alt-text="Zrzut ekranu przedstawiający pulpit nawigacyjny Podsumowanie klientów przedstawiający wykresy słupkowe i liczby klientów aktywnych, ostatnio dodanych, utraconych/zrzuconych lub według określonego produktu.":::
 
 ### <a name="customers"></a>Klienci
 
-- Bieżąca liczba wszystkich klientów w organizacji jest skojarzona za pomocą różnych typów przypisania dla wszystkich produktów w chmurze, takich jak Office, Azure i Dynamics. Klient jest liczony, jeśli ma co najmniej jedną subskrypcję ze stanem Aktywny.  
+- Bieżąca liczba wszystkich klientów w Twojej organizacji jest skojarzona za pomocą różnych typów przypisania dla wszystkich produktów w chmurze, takich jak Office, Azure i Dynamics. Klient jest liczony, jeśli ma co najmniej jedną subskrypcję ze stanem Aktywny.  
 - Odrzuć % klientów w wybranym zakresie dat 
 - Mikroelement przedstawia trend liczby klientów w wybranym zakresie dat z miesiąca na miesiąc
 
@@ -54,12 +54,12 @@ Sekcja podsumowania zawiera widok migawki różnych kluczowych wskaźników wyda
 
 - Liczba wszystkich klientów dodanych w wybranym okresie.
 - % wzrostu lub spadku liczby klientów dodanych w wybranym zakresie sate.
-- Mikroelement przedstawia trend klientów dodanych w wybranym zakresie dat z miesiąca na miesiąc.
+- Mikroelement przedstawia trend klientów dodawanych w wybranym zakresie dat z miesiąca na miesiąc.
 
 ### <a name="customers-churned"></a>Klienci z rezygnacją
 - Liczba wszystkich klientów, którzy podali rezygnację w każdym miesiącu w wybranym okresie. Klient jest traktowany jako utracony, jeśli klient nie ma pojedynczej subskrypcji z aktywnym stanem. 
 - Procent rezygnacji klientów w wybranym zakresie dat 
-- Mikrobajt przedstawia miesiąc do miesiąca trendu rezygnacji klientów w wybranym okresie 
+- Mikrobajt przedstawia miesiąc do miesiąca trend zmian klientów w wybranym okresie 
  
 ### <a name="customers-by-products"></a>Klienci według produktów
 
@@ -73,13 +73,13 @@ Liczba bieżących klientów, bieżących aktywnych klientów i klientów nowo d
 
 ## <a name="customer-adds-and-churns"></a>Klient dodaje i churns
 
-Trend klientów z podziałem na nowe, istniejące i rezygnacje dla wybranego zakresu dat. Oś X reprezentuje miesiące wybranego zakresu dat, a oś Y reprezentuje liczbę klientów. Klienci z rezygnacjami są reprezentowani w ujemnej skali osi Y. Skumulowany wykres kolumnowy przedstawia podział nowych, istniejących i rezygnacji klientów w miesiącu. Możesz ponownie skompilować wykres kolumnowy z określonymi elementami stosu, wybierając je w legendzie. Możesz użyć suwaka w górnej części wykresu, aby powiększyć widok do określonego okresu. 
+Trend klientów z podziałem na nowe, istniejące i rezygnacje dla wybranego zakresu dat. Oś X reprezentuje miesiące wybranego zakresu dat, a oś Y reprezentuje liczbę klientów. Klienci z rezygnacjami są reprezentowani w ujemnej skali osi Y. Skumulowany wykres kolumnowy przedstawia podział nowych, istniejących i zuconych klientów w miesiącu. Możesz ponownie skompilować wykres kolumnowy z określonymi elementami stosu, wybierając te elementy w legendzie. Możesz użyć suwaka w górnej części wykresu, aby powiększyć widok do określonego okresu. 
 
 :::image type="content" source="images/insights/customer-lost.png" alt-text="Zrzut ekranu Partner Center Szczegółowe informacje raport klienta z wykresem słupkowym przedstawia liczbę dodanych i utraconych lub zrzuconych klientów w określonym czasie.":::
 
 ## <a name="customer-distribution"></a>Dystrybucja klientów
 
-Podział bieżących klientów według lokalizacji Microsoft Partner Network (MPN), segmentów klientów, kanału sprzedaży/modelu cen platformy Azure oraz typu przypisania. Wybierz odpowiednie karty nad wykresem, aby wyświetlić podział według tych kategorii. Wykres można ponownie skompilować, zaznaczając/usuwając zaznaczenie określonych wymiarów, wybierając elementy legendy. 
+Podział bieżących klientów według lokalizacji Microsoft Partner Network (MPN), segmentów klientów, kanału sprzedaży/modelu cen platformy Azure i typu przypisania. Wybierz odpowiednie karty nad wykresem, aby wyświetlić podział według tych kategorii. Wykres można ponownie skompilować, zaznaczając/usuwając zaznaczenie określonych wymiarów, wybierając elementy legendy. 
 
 ## <a name="customers-by-products"></a>Klienci według produktów
 
@@ -97,7 +97,7 @@ Miesięczny trend rozkładu klientów w wybranym zakresie dat według rynków, s
 
 Wykres trendu miesięcznego porównujący aktywnych i całkowitych klientów dla wybranego zakresu dat. Kolumny reprezentują liczbę aktywnych klientów w każdym miesiącu, a wiersz reprezentuje łączną liczbę klientów w każdym miesiącu. 
 
-:::image type="content" source="images/insights/active-customer.png" alt-text="Zrzut ekranu Partner Center Szczegółowe informacje raport aktywnych klientów przedstawiający wykresy słupkowe w czasie aktywnych klientów.":::
+:::image type="content" source="images/insights/active-customer.png" alt-text="Zrzut ekranu Partner Center Szczegółowe informacje raport aktywnych klientów przedstawiający wykresy słupkowe w czasie dla aktywnych klientów.":::
 
 ## <a name="next-steps"></a>Następne kroki
 

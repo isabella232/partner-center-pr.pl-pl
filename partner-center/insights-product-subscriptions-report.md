@@ -9,14 +9,14 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e77452a5715b0953852c5efc1f36e8f801d87993334049aaa0a905439abc8f0c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: eefb4f4ee6657acf583ad0b5d4149e662c320184
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115678468"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958281"
 ---
-# <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Raport subskrypcje produktów dostępny na pulpicie nawigacyjnym Partner Center Szczegółowe informacje nawigacyjnym
+# <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Raport Subskrypcje produktów dostępny na pulpicie nawigacyjnym Partner Center Szczegółowe informacje nawigacyjnym
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny | Przeglądarka raportów | Przeglądarka raportów dla kierownictwa
 
@@ -32,7 +32,7 @@ Poniższe sekcje można wyświetlić w raporcie Subskrypcje produktów.
 - Trend produktów
 
  > [!NOTE]
- > Ten raport jest dostępny na pulpicie Szczegółowe informacje nawigacyjnym. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Przeglądarka raportów lub Przeglądarka raportów kierownictwa. Aby uzyskać więcej informacji, zobacz Administrator globalny twojej firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami do przeglądarki raportów executive.
+ > Ten raport jest dostępny na Szczegółowe informacje nawigacyjnym. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Przeglądarka raportów lub Przeglądarka raportów kierownictwa. Aby uzyskać więcej informacji, zobacz Administrator globalny twojej firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami do przeglądarki raportów executive.
 
 ## <a name="summary"></a>Podsumowanie
 
@@ -53,7 +53,7 @@ Aby uzyskać więcej informacji na temat każdej sekcji podsumowania, zobacz pon
   - Wykres Mikro przedstawia trend aktywnych subskrypcji z miesiąca na miesiąc w wybranym zakresie dat.
 
 - Dodane subskrypcje:
-  - Łączna liczba subskrypcji klientów dodanych (sprzedanych lub zarządzanych) przez Ciebie w wybranym zakresie dat. Nowe subskrypcje ze **stanem Aktywne** **lub** Odnowione są liczone jako dodane subskrypcje.
+  - Łączna liczba subskrypcji klientów dodanych (sprzedanych lub zarządzanych) przez Ciebie w wybranym zakresie dat. Nowe subskrypcje ze **stanem Aktywne** **lub Odnowione** są liczone jako dodane subskrypcje.
   - Procentowy wzrost lub spadek liczby subskrypcji dodanych w ostatnim pełnym miesiącu w porównaniu do pierwszego pełnego miesiąca.
   - Wykres Mikro przedstawia miesięczny trend subskrypcji dodanych w wybranym zakresie dat.
 
@@ -84,7 +84,7 @@ Skumulowany wykres kolumnowy przedstawia podział nowych, istniejących i przech
 
 ## <a name="subscription-distribution"></a>Dystrybucja subskrypcji
 
-Ten widok przedstawia podział bieżących subskrypcji według lokalizacji Microsoft Partner Network (MPN), segmentów klientów, kanału sprzedaży/modelu cen platformy Azure oraz typu przypisania. Wybierz odpowiednie karty, aby wyświetlić podział według tych kategorii. Aby utworzyć wykres kołowy z podziałem określonych kategorii elementów, wybierz te kategorie elementów w legendzie.
+Ten widok przedstawia podział bieżących subskrypcji według lokalizacji Microsoft Partner Network (MPN), segmentów klientów, kanału sprzedaży/modelu cen platformy Azure i typu przypisania. Wybierz odpowiednie karty, aby wyświetlić podział według tych kategorii. Aby utworzyć wykres kołowy z podziałem określonych kategorii elementów, wybierz te kategorie elementów w legendzie.
 
 :::image type="content" source="images/insights/sub-report-distribution.png" alt-text="dystrybucja subskrypcji.":::
 

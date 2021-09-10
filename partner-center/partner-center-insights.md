@@ -9,12 +9,12 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 46a15d9f26421b78022e15090a5c498f956fb49dce688264074788be88d04cf2
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2061286ecb048647d666438a34b4759175b7deb4
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696302"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958293"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Szczegółowe informacje — pulpit nawigacyjny, który pokazuje, jak działa partner komercyjny firmy Microsoft
 
@@ -22,16 +22,16 @@ ms.locfileid: "115696302"
 
 ## <a name="introduction"></a>Wprowadzenie
 
-Pulpit Szczegółowe informacje nawigacyjny jest ujednoliconym pulpitem nawigacyjnym raportowania w usłudze Partner Center dla partnerów komercyjnych firmy Microsoft zarejestrowanych w programie Microsoft Partner Network (MPN). Pulpit Szczegółowe informacje nawigacyjny zapewnia 360-stopniowy widok kluczowych wskaźników wydajności (KPI) dla produktów w chmurze, takich jak Office, Azure, Dynamics, oraz modeli licencjonowania, takich jak CSP i EA. Udostępnia ona bogaty zestaw raportów kluczowych wskaźników wydajności, które mogą ułatwić podejmowanie decyzji dotyczących danych w organizacji. 
+Pulpit Szczegółowe informacje nawigacyjny jest ujednoliconym pulpitem nawigacyjnym raportowania w usłudze Partner Center dla partnerów komercyjnych firmy Microsoft zarejestrowanych w programie Microsoft Partner Network (MPN). Pulpit Szczegółowe informacje nawigacyjny zapewnia 360-stopniowy widok kluczowych wskaźników wydajności (KPI) dla produktów w chmurze, takich jak Office, Azure, Dynamics i modeli licencjonowania, takich jak CSP i EA. Udostępnia ona bogaty zestaw raportów kluczowych wskaźników wydajności, które mogą ułatwić podejmowanie decyzji dotyczących danych w organizacji. 
 
 ## <a name="role-based-access-control-to-the-insights-dashboard"></a>Kontrola dostępu oparta na rolach do pulpitu Szczegółowe informacje nawigacyjnego
 
-Istnieją dwie nowe role w programie Partner Center przeznaczone specjalnie do uzyskiwania dostępu do Szczegółowe informacje: Report **Viewer** i **Executive Report Viewer.** Użytkownicy z rolą Executive Report Viewer mają dostęp do wszystkich zestawów danych raportowania, natomiast użytkownicy w roli Osoby wyświetlającego raporty nie będą mieć dostępu do poufnych zestawów danych, takich jak dane osobowe klientów/pracowników. 
+Istnieją dwie nowe role w programie Partner Center przeznaczone specjalnie do uzyskiwania dostępu do **Szczegółowe informacje:** Podgląd raportów i **Executive Report Viewer.** Użytkownicy z rolą Executive Report Viewer mają dostęp do wszystkich zestawów danych raportowania, natomiast użytkownicy w roli Osoby wyświetlającego raporty nie będą mieć dostępu do poufnych zestawów danych, takich jak dane osobowe klientów/pracowników. 
 
 Administrator globalny lub administrator konta może przypisać użytkownikom te role i są przypisani do całej firmy lub dla określonej lokalizacji MPN.  
 
 >[!Note] 
->Użytkownicy, którzy byli administratorami MPN od 20 stycznia 2020 r., zostali automatycznie dodani do roli przeglądarki raportów dla całej firmy. Mogą oni uzyskać dostęp do raportów jako przeglądarki raportów bez żadnej jawnej akcji wymaganej przez administratora globalnego lub administratora konta. Administratorzy globalni lub administrator konta mogą w razie potrzeby przesłonić te przypisania. 
+>Użytkownicy, którzy byli administratorami MPN od 20 stycznia 2020 r., zostali automatycznie dodani do roli przeglądarki raportów dla całej firmy. Mogą oni uzyskać dostęp do raportów jako przeglądarki raportów bez żadnej jawnej akcji wymaganej przez administratora globalnego lub administratora konta. Administratorzy globalni lub administratorzy kont mogą w razie potrzeby przesłonić te przypisania. 
 
 ## <a name="reports-available"></a>Dostępne raporty
 
@@ -73,7 +73,7 @@ Poniższe raporty są dostępne w ramach pulpitu Szczegółowe informacje nawiga
 ### <a name="filters-definitions"></a>Definicje filtrów:
 
 - Produkty: lista wszystkich produktów w chmurze firmy Microsoft sprzedanych/zarządzanych przez organizację, na przykład O365, Azure, D365, EMS, Power BI itp.
-- Rynki klientów: Lista krajów klientów
+- Rynki klientów: lista krajów klientów
 - Przypisania partnerów: Typ skojarzenia z subskrypcjami klientów, na przykład Cyfrowy partner rekordu (DPOR), delegowane uprawnienia administratora (DAP) i link administratora partnera ( PAL). 
 - Lokalizacje partnerów: lista wszystkich lokalizacji MPN w organizacji.
 - Kanały sprzedaży: wszystkie kanały sprzedaży/ceny, za pośrednictwem których kupujesz/aprowizujesz produkty i usługi, to znaczy CSP, EA, CSP indirect, Direct, Advisor, Open, inne

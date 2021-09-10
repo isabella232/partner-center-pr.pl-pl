@@ -9,39 +9,39 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b440b7baaad26ac6ee1c1e8313a13c4aa3cc271f9d84f5421aeb07edf1ea8a84
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: a1b47860f0af3427342d89945528e9118ecfc0aa
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681522"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959780"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrate Office 365 E4 subscriptions to newer Office 365 versions (Migrowanie subskrypcji usługi Office 365 E4 do nowszych wersji usługi Office 365)
 
-**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent administracyjny | Agent sprzedaży
+**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent administracyjny | Agent sprzedaży
 
-Plan Office 365 Enterprise E4 został wycofany, 7 kwietnia 2017 r. Po tej dacie nie Office 365 nowych subskrypcji E4, a istniejące subskrypcje E4 nie będą odnawiane automatycznie po wygaśnięciu.
+Plan Office 365 Enterprise E4 został wycofany od 7 kwietnia 2017 r. Po tej dacie nie można już kupować nowych subskrypcji Office 365 E4, a istniejące subskrypcje E4 nie będą odnawiane automatycznie po ich wygaśnięciu.
 
-Po zakończeniu subskrypcji E4 zostaną one anulowane. Aby zapewnić ciągłość działania klientów, należy przejść klientów z wygasającą subskrypcją E4 do obsługiwanej opcji SKU wymienionej poniżej. Zalecamy przeniesienie klientów do nowych subskrypcji przed datą zakończenia subskrypcji w ciągu roku, aby uniknąć jakichkolwiek outages usług dla klientów. 
+Po zakończeniu subskrypcji E4 zostaną one anulowane. Aby zapewnić ciągłość działania klientów, należy przejść klientów z wygasającą subskrypcją E4 do obsługiwanej opcji SKU wymienionej poniżej. Zalecamy przeniesienie klientów do nowych subskrypcji przed datą zakończenia subskrypcji w roku, aby uniknąć jakichkolwiek outages usługi dla klientów. 
 
 > [!NOTE]  
 > Obie Office 365 Enterprise E4 komercyjne i rządowe zostaną wycofane.
  
-Na stronie szczegółów subskrypcji stan subskrypcji E4 zmienił się na "Wygasa [data]" z "Automatycznie odnawia się [data]". 
+Na stronie szczegółów subskrypcji stan subskrypcji E4 zmienił się na "Wygasa [data]" z "Automatyczne odnowienie [data]". 
 
 Jeśli używasz interfejsu API (CREST lub Partner Center), możesz wykryć wygasające subskrypcje, oceniając datę zakończenia subskrypcji wraz z właściwością automatycznego odnawiania = False. 
 
-Subskrypcje E4 zostaną ustawione na automatyczne odnawianie=Fałsz w dniu 7 kwietnia 2017 r. Klientów można przenieść do nowego planu w dowolnym momencie. 
+Subskrypcje E4 zostaną ustawione na wartość auto renew=False w dniu 7 kwietnia 2017 r. Klientów można przenieść do nowego planu w dowolnym momencie. 
 
 ## <a name="office-365-enterprise-e4-edition-replacement-plans"></a>Office 365 Enterprise E4 planów wymiany wersji
 
-Możesz zachować tę samą funkcjonalność, co E4, lub zapewnić klientom możliwość korzystania z nowszej funkcji w usługach Office 365 i Skype dla firm Online. Szczegóły cennika znajdują się w cenniku i macierzy listy ofert w Partner Center. Bezpieczny produkt Enterprise E3 lub Secure Productive Enterprise E5 można zastąpić odpowiednio następującymi opcjami dla Office 365 Enterprise E3 lub Office 365 Enterprise E5.
+Możesz zachować tę samą funkcjonalność, co E4, lub zapewnić klientom możliwość korzystania z nowszej funkcji w usługach Office 365 i Skype dla firm Online. Szczegóły cennika znajdują się w cenniku i macierzy list ofert w Partner Center. Bezpieczny produkt Enterprise E3 lub Secure Productive Enterprise E5 można zastąpić odpowiednio następującymi opcjami Office 365 Enterprise E3 lub Office 365 Enterprise E5.
 
 - Opcja 1: Office 365 Enterprise E5
 
 - Opcja 2: Office 365 Enterprise E3 + Skype dla firm Cloud PBX
 
-- Opcja 3: Office 365 Enterprise E3 + Skype dla firm Plus CAL (cena i funkcjonalność parzystość z E4)
+- Opcja 3: Office 365 Enterprise E3 + Skype dla firm ORAZ CAL (parzystość cen i funkcjonalności w przypadku E4)
 
 - Opcja 4: Office 365 Enterprise E3
 
@@ -49,13 +49,13 @@ Możesz zachować tę samą funkcjonalność, co E4, lub zapewnić klientom moż
 | Cecha | Opcja 1 | Opcja 2 | Opcja 3 | Opcja 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
 | Pobierz wszystkie funkcje zawarte w Office 365 Enterprise E4? | Tak | Tak | Tak | Nie |
-| Telefon zarządzane w Office 365? | Tak | Tak | Nie | Nie |
-| Telefon zarządzane zarówno lokalnie, jak i w Office 365 (wdrożenie hybrydowe)? | Tak | Tak | Nie | Nie |
-| Opcja dodania planu połączeń głosowych PSTN? | Tak | Tak | Nie | Nie |
+| Telefon zarządzane w programie Office 365? | Tak | Tak | Nie | Nie |
+| Telefon zarządzać zarówno lokalnie, jak i w Office 365 (wdrożenie hybrydowe)? | Tak | Tak | Nie | Nie |
+| Czy można dodać plan połączeń głosowych PSTN? | Tak | Tak | Nie | Nie |
 | Konferencje PSTN? | Tak | Nie | Nie | Nie |
 | Zaawansowane narzędzia do współpracy, analizy i zabezpieczeń? | Tak | Nie | Nie | Nie |
 | Interakcyjne raporty, pulpity nawigacyjne i wizualizacje danych? | Tak | Nie | Nie | Nie | 
-| Większa kontrola nad zabezpieczeniami danych i zgodnością dzięki wbudowanym mechanizmom kontroli prywatności, przejrzystości i udoskonalonym użytkownikom? | Tak | Nie | Nie | Nie | 
+| Większa kontrola nad zabezpieczeniami i zgodnością danych dzięki wbudowanym mechanizmom kontroli prywatności, przejrzystości i udoskonalonym użytkownikom? | Tak | Nie | Nie | Nie | 
 
 ## <a name="transition-customers-to-new-product-plans"></a>Przechodzenie klientów do nowych planów produktów
 
@@ -69,11 +69,11 @@ Wykonaj następujące kroki, aby przeprowadzić migrację subskrypcji Office 365
 
 ### <a name="step-1---purchase-the-new-subscription"></a>Krok 1. Zakup nowej subskrypcji
 
-1. Z **Partner Center** wybierz pozycję **Klienci,** wybierz klienta, który chcesz przenieść, a następnie wybierz **pozycję Dodaj subskrypcje.**
+1. W menu **Partner Center** wybierz pozycję **Klienci,** wybierz klienta, który chcesz przenieść, a następnie wybierz **pozycję Dodaj subskrypcje.**
 
 2. Wybierz subskrypcję, którą chcesz kupić z katalogu (w tym przypadku jedną z powyższych opcji), wprowadź liczbę licencji, a następnie wybierz pozycję **Prześlij**.
 
-   Klient powinien teraz mieć zarówno starą, jak i nową subskrypcję, starą subskrypcję Office 365 Enterprise E4 i nową subskrypcję "docelową", na przykład opcję 1 — Office 365 Enterprise E5.
+   Klient powinien teraz mieć zarówno starą, jak i nową subskrypcję, starą subskrypcję Office 365 Enterprise E4 i nową subskrypcję "docelową", na przykład opcję 1 – Office 365 Enterprise E5.
 
 ### <a name="step-2---reassign-the-customers-users-licenses"></a>Krok 2. Ponowne przypisanie licencji użytkowników klienta
 
@@ -81,11 +81,11 @@ Wykonaj następujące kroki, aby przeprowadzić migrację subskrypcji Office 365
 
 2. Aby ponownie przypisać licencje użytkowników, wybierz użytkownika do ponownego przypisania, a następnie wybierz pozycję **Zarządzaj licencjami.**
 
-3. Na stronie **Zarządzanie licencjami** wyczyść pole **wyboru Office 365 Enterprise E4** licencji usługi i wybierz nowy plan usługi dla subskrypcji, do których klient jest przekierowyny.
+3. Na **stronie Zarządzanie licencjami** wyczyść Office 365 Enterprise E4 **licencji** i wybierz nowy plan usługi dla subskrypcji, do których klient jest przenoszący.
 
 4. Wybierz pozycję **Prześlij**. Strona potwierdzenia zawiera listę nowych przypisań licencji.
 
-5. Kontynuuj te same czynności z innymi użytkownikami klientów, którzy potrzebują ponownego przypisania licencji.
+5. Kontynuuj te same kroki dla innych użytkowników klientów, którzy potrzebują ponownego przypisania licencji.
 
 Po przeniesieniu licencji użytkowników do nowej usługi możesz bezpiecznie anulować wycofaną subskrypcję na najwyższym poziomie klienta.
 
@@ -97,7 +97,7 @@ Po przeniesieniu licencji użytkowników do nowej usługi możesz bezpiecznie an
 
 3. Wybierz pozycję **Prześlij**.
 
-Stara subskrypcja zostanie wstrzymana, a nowa subskrypcja będzie aktywna. Wstrzymana subskrypcja zostanie automatycznie anulowana po upływie 120 dni. Klient nie ponosi żadnych dodatkowych kosztów dla starej subskrypcji.
+Stara subskrypcja zostanie wstrzymana, a nowa subskrypcja będzie aktywna. Wstrzymana subskrypcja zostanie automatycznie anulowana po upływie 120 dni. Klient nie ponosi żadnych dodatkowych kosztów w przypadku starej subskrypcji.
 
 
 

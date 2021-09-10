@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 23068edcb633bc1a0c8359c8ad122455e573126b4ad9c54b10d105f9156b002c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 335c0806d9504263dcfa506721b4217cf8b78db6
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693966"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958750"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Użyj promocji, aby przyciągnąć nowych klientów i przekazać im oszczędności
 
@@ -31,7 +31,7 @@ Cennik promocji jest automatycznie stosowany do ceny netto w przypadku zakupu no
 
 Pomiń chwilę, aby przejrzeć te ważne fakty dotyczące promocji:
 
-- Cena promocji subskrypcji ma zastosowanie tylko w okresie obowiązywania subskrypcji. Po wygaśnięciu subskrypcji zakupionej z cenami promocyjnymi cena odnowienia subskrypcji zostanie przywrócona do ceny z cennika. Oznacza to, że wszystkie subskrypcje ustawione do automatycznego odnawiania będą odnawiane po obowiązującej cenie. Cennik można znaleźć na stronie **Cennik i** oferty.
+- Cena promocji subskrypcji ma zastosowanie tylko przez cały czas trwania subskrypcji. Gdy subskrypcja zakupiona z cenami promocyjnymi wygaśnie, cena odnowienia subskrypcji zostanie przywrócona do ceny w cenniku. Oznacza to, że wszystkie subskrypcje ustawione do automatycznego odnawiania będą odnawiane po obowiązującej cenie. Cennik można znaleźć na stronie **Cennik i** oferty.
 
 - Jeśli subskrypcja kwalifikuje się do wielu promocji, zostanie automatycznie zastosowana promocja o najwyższej wartości procentowej odejm.
 
@@ -46,11 +46,11 @@ Na stronie **Promocje** możesz sprawdzić, czy kwalifikujesz się do promocji, 
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Kup subskrypcje w cenach promocyjnych
 
-1. W menu **Partner Center** wybierz pozycję **Klienci,** a następnie wybierz klienta, który kupuje subskrypcję. 
+1. W **menu Partner Center** wybierz pozycję **Klienci,** a następnie wybierz klienta, który kupuje subskrypcję. 
 
 2. Wybierz **pozycję Dodaj subskrypcję.**
 
-3. Na stronie **Nowa subskrypcja** wybierz subskrypcję, do których ma zastosowanie poddekscyjna promocji.
+3. Na stronie **Nowa subskrypcja** wybierz subskrypcję, do która ma zastosowanie poddana promocji.
 
 4. Wprowadź liczbę licencji, których potrzebuje klient. 
 

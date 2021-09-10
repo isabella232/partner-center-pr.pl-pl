@@ -9,18 +9,18 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 076a65d8e309308142201dedfa807052d2d3b8eb5180be14734edbbec92a3616
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 5287e056e2ac2e8a0238ac7f86cca0fe58b92238
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687536"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958269"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Raport Licencje produktów na pulpicie Partner Center Szczegółowe informacje nawigacyjnym
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny | Przeglądarka raportów | Przeglądarka raportów dla kierownictwa
 
-Raport Licencje produktów przedstawia analizę licencji produktów w chmurze opartych na licencjach, takich jak Office 365, Dynamics, Microsoft 365, Microsoft Power BI i inne. Analiza przedstawiona w tym miejscu jest skojarzona z użyciem sprzedanych licencji lub licencji, które zarządzasz dla klientów. Poniższe sekcje można wyświetlić w raporcie Licencje produktów.
+Raport Licencje produktów przedstawia analizę licencji dla produktów w chmurze opartych na licencjach, takich jak Office 365, Dynamics, Microsoft 365, Microsoft Power BI i inne. Analiza przedstawiona w tym miejscu jest skojarzona z użyciem sprzedanych licencji lub licencji, które zarządzasz dla klientów. Poniższe sekcje można wyświetlić w raporcie Licencje produktów.
 
 - Podsumowanie
 - Geograficzne rozrzuty licencji
@@ -39,14 +39,14 @@ Sekcja podsumowania zawiera widok migawki kluczowych wskaźników wydajności (K
 Aby uzyskać więcej informacji na temat każdej sekcji podsumowania, zobacz poniżej:
 
 - Licencje: 
-  - Bieżąca liczba wszystkich licencji sprzedanych lub zarządzanych przez użytkownika dla produktów w chmurze opartych na licencjach, takich jak Office 365, Dynamics, Microsoft 365, Microsoft Power BI i inne.
+  - Bieżąca liczba wszystkich licencji sprzedawanych lub zarządzanych przez Użytkownika dla produktów w chmurze opartych na licencjach, takich jak Office 365, Dynamics, Microsoft 365, Microsoft Power BI i inne.
   - Procentowy wzrost lub spadek liczby tych licencji w wybranym zakresie dat.
   - Wykres mikro trendu licencji: mikroelement przedstawia trend liczby licencji w ciągu miesiąca w wybranym zakresie dat
 
 - Wdrożone licencje:
   - Bieżąca liczba wszystkich przypisanych licencji klienta.
   - Procentowy wzrost lub spadek liczby tych licencji w wybranym okresie.
-  - Mikrowy wykres liczby licencji: mikroelement przedstawia trend liczby przypisanych licencji z miesiąca na miesiąc w wybranym zakresie dat.
+  - Mikrowy wykres liczby licencji: mikroelement przedstawia trend liczby przypisanych licencji w ciągu miesiąca w wybranym zakresie dat.
 
 - Aktywne licencje: 
   - Bieżąca liczba wszystkich licencji klientów z aktywnym użyciem w ciągu ostatnich 30 dni w wybranym zakresie dat.
@@ -59,7 +59,7 @@ W **widoku rozrzutów** geograficznych licencji jest przedstawiany geograficzny 
 
 **Liczba krajów/regionów przedstawia** łączną liczbę krajów/regionów, w których masz bieżące i aktywne licencje klientów.
 
-Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapie. Naciśnij opcję **Strona** główna na mapie, aby przywrócić widok domyślny. Umieść kursor na mapie, aby wyświetlić bieżące i aktywne licencje według kraju klienta. Oba pola w siatce można sortować.
+Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapie. Naciśnij opcję **Strona główna** na mapie, aby przywrócić widok domyślny. Umieść kursor na mapie, aby wyświetlić bieżące i aktywne licencje według kraju klienta. Oba pola w siatce można sortować.
 
 :::image type="content" source="images/insights/licenses-report-geo-spread.png" alt-text="rozrzut geograficzny licencji.":::
 

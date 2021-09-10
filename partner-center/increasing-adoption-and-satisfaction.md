@@ -4,23 +4,23 @@ ms.topic: how-to
 ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Dowiedz się, jak używać metryk w Partner Center. Metryki mogą pokazywać, czy Twoja firma się rozwija, jak klienci używają swoich licencji i gdzie skupić się na inwestycjach.
+description: Dowiedz się, jak używać metryk w Partner Center. Metryki mogą pokazywać, czy twoja firma się rozwija, jak klienci używają swoich licencji i gdzie skupić się na inwestycjach.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3c4b65b35bbf00c89ad06c416469da38aa177370ff0357e82b3e70d2e5ffd507
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 0e04334490f77add4f95627d3d4c5d5762a79c86
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681675"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959157"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Używanie metryk w Partner Center w celu zwiększenia przyjęcia i zadowolenia
 
 **Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent administracyjny | Agent sprzedaży
 
-Nasi partnerzy używają wielu metryk, aby mierzyć, czy ich firma rośnie i gdzie skupić się na inwestycjach. Partner Center może pomóc, dostarczając dane dotyczące tego, czy i w jaki sposób klienci korzystali z zakupionych licencji. Te informacje są dostępne dla Office (w tym OneDrive dla Firm, które są liczone razem z SharePoint).
+Nasi partnerzy używają wielu metryk, aby mierzyć, czy ich firma rośnie i gdzie skupić się na inwestycjach. Partner Center może pomóc, dostarczając dane dotyczące tego, czy i w jaki sposób klienci korzystali z zakupionych licencji. Te informacje są dostępne dla produktów Office (w tym OneDrive dla Firm, które są liczone razem z SharePoint).
 
 Dane wszystkich klientów można wyświetlić za pośrednictwem programu Dostawca rozwiązań w chmurze usługi. Niektórzy klienci mogą kupować licencje od innych partnerów lub bezpośrednio od firmy Microsoft. W takich sytuacjach zobaczysz łączną liczbę licencji wszystkich partnerów. Aby wyświetlić tylko własne licencje, przejdź do subskrypcji klienta.
 
@@ -51,7 +51,7 @@ Możesz znaleźć dane licencji i użytkowników dla jednego klienta lub w swoim
 
 Terminologia:
 
-- **Uprawnienie** = licencja, do korzystania z których użytkownik jest uprawniony (nie jest zawieszona z powodu oszustwa lub braku płatności, nie została uaktualniona do innej licencji, nie została anulowana przez użytkownika ani nie występuje inny problem).
+- **Uprawnienie** = licencja, z których użytkownik jest uprawniony (nie jest zawieszona w przypadku oszustwa lub braku płatności, nie została uaktualniona do innej licencji, nie została anulowana przez użytkownika ani nie występuje inny problem).
 
 - **Active** = jeśli subskrybowany użytkownik użył uprawnienia do zadania w ciągu ostatnich 28 dni kalendarzowych.
 
@@ -63,21 +63,21 @@ Terminologia:
 
   - Jeśli klient miał rotację pracowników, a licencja została przeniesiona na nowego użytkownika.
 
-  - Jeśli klient ma dwie subskrypcje dla sku, ale jedna jest w okresie prolongaty, wyłączona lub anulowana, uprawnienia w obu subskrypcjach mogą rejestrować aktywne użycie w okresie 28 dni, ale tylko jedna z nich jest wliczane w całości.
+  - Jeśli klient ma dwie subskrypcje dla sku, ale jedna z nich to W okresie prolongaty, Wyłączone lub Cofono aprowizacją, uprawnienia w obu subskrypcjach mogą rejestrować aktywne użycie w okresie 28 dni, ale tylko jedna z nich jest wliczane w całości.
 
   - Jeśli klient ma subskrypcję wersji próbnej, aktywność jest zliczane, ale subskrypcja nie jest wliczane do łącznej liczby uprawnień.
 
-  - Jeśli niektórzy klienci często Yammer znacznie więcej niż jest uprawnionych do korzystania z licencji, może to znacznie zakrzywić dane.
+  - Jeśli niektórzy klienci Yammer znacznie więcej niż są uprawnieni do licencji, może to znacznie pochylić dane.
 
 ## <a name="next-steps"></a>Następne kroki
 
-Jeśli prowadzisz wiele pytań dotyczących pomocy i kursów, numery wdrożenia na Twoim koncie są niskie lub szukasz możliwości sprzedaży, warto rozważyć oferowanie kursów szkoleniowych. Ucząc klientów, jak lepiej korzystać z zakupionego przez nich oprogramowania do obsługi chmury, z większą prawdopodobieństwem zobaczysz wzrost produktywności i zadowolenia oraz spadek potrzeb pomocy technicznej.
+Jeśli prowadzisz wiele pytań dotyczących pomocy i kursów, numery wdrożenia na Twoim koncie są niskie lub szukasz możliwości sprzedaży, warto rozważyć oferowanie kursów szkoleniowych. Ucząc klientów, jak lepiej korzystać z zakupionego przez nich oprogramowania do obsługi rozwiązań w chmurze, z większą prawdopodobieństwem zobaczysz wzrost produktywności i zadowolenia oraz spadek potrzeb pomocy technicznej.
 
 ### <a name="considering-how-to-improve-customer-adoption-and-usage---a-couple-scenarios"></a>Rozważanie, jak poprawić wdrożenie i użycie klientów — kilka scenariuszy
 
 **Problem:** Wskaźnik wdrożenia użytkowników jest niski i wiele licencji nie jest używanych.
 
-**Co należy wziąć pod uwagę:** klienci mogą nie rozumieć wartości zapewnianej przez oprogramowanie. Potrzebują pomocy w przewidywaniu sposobów ich uwzględnienia w swoich dniach w celu uproszczenia zadań, które już wykonywać, lub umożliwienia im nowych rodzajów produktywności.
+**Co należy wziąć pod uwagę:** klienci mogą nie rozumieć wartości zapewnianej przez oprogramowanie. Potrzebują pomocy przy przewidywaniu sposobów ich uwzględnienia w swoich dniach w celu uproszczenia zadań, które już wykonywać, lub umożliwienia im nowych rodzajów produktywności.
 
 **Co wypróbować:** analizy przypadków, opinie użytkowników dotyczące konkretnych scenariuszy, blogi z samouczkami lub filmy wideo.
 
@@ -87,5 +87,5 @@ Jeśli prowadzisz wiele pytań dotyczących pomocy i kursów, numery wdrożenia 
 
 **Co wypróbować:** Możesz skorzystać z podwójnej strategii oferowania szkoleń (osobiście lub w trybie online) w celu zwiększenia ogólnej wiedzy klientów, jednocześnie promując niektóre opcje samoobsługi dostępne dla klientów.
 
-Możesz przeprojektować witrynę pomocy technicznej, aby oprócz [](customer-self-support.md) informacji kontaktowych dotyczących pomocy technicznej uwzględnić również opcje samoobsługi opisane w te tematach samodzielnej obsługi klienta.
+Możesz przeprojektować witrynę pomocy technicznej, aby oprócz [](customer-self-support.md) informacji kontaktowych działu pomocy technicznej uwzględnić również opcje samoobsługi opisane w te tematach samodzielnej obsługi klienta.
 

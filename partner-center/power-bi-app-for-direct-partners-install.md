@@ -10,12 +10,12 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c6ee1c14f79a0d521a94801272473369befa753a49557645681634e248b81e0
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: a07742a55df088842f6bac1a1cbdd65bf0db8282
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681454"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959601"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Instalowanie i wyświetlanie podglądu aplikacji statystycznej Centrum partnerskiego dla usługi Microsoft Power BI
 
@@ -58,7 +58,7 @@ Przed zainstalowaniem aplikacji Partner Center Analytics w wersji zapoznawczej u
 
 6. Zainstaluj obszar roboczy, podając nazwę obszaru roboczego.
 
-7. Aplikacje szablonów zainstalowane w sekcji Aplikacje.
+7. Aplikacje szablonu zainstalowane w sekcji Aplikacje.
 
 8. Wybierz **pozycję** Aplikacje i wybierz zainstalowane aplikacje.
 
@@ -66,7 +66,7 @@ Przed zainstalowaniem aplikacji Partner Center Analytics w wersji zapoznawczej u
 
 10. Aby nawiązać połączenie z danymi, wybierz **pozycję Połączenie**.
 
-11. W **oknie podręcznym** Połączenie Partner Center Analytics sprawdź, czy dla  opcji Metoda uwierzytelniania ustawiono wartość **oAuth2,** lub wybierz pozycję **oAuth2** z listy, jeśli tak nie jest. 
+11. W **oknie podręcznym** Połączenie Partner Center Analytics sprawdź, czy  dla opcji Metoda uwierzytelniania ustawiono wartość **oAuth2,** lub wybierz pozycję **oAuth2** z listy, jeśli tak nie jest. 
 
 > [!NOTE]  
 >  Może to potrwać kilka minut.
@@ -77,7 +77,7 @@ Przed zainstalowaniem aplikacji Partner Center Analytics w wersji zapoznawczej u
 
 Gdy usługa Partner Center Analytics zostanie połączona z Power BI, rozpocznie się ładowanie danych. W zależności od ilości danych może to potrwać do 10 minut. 
 
-Po zakończeniu ładowania danych możesz rozpocząć korzystanie z pulpitu nawigacyjnego i raportów Partner Center Analytics w Power BI.
+Po zakończeniu ładowania danych możesz rozpocząć korzystanie z pulpitu nawigacyjnego i raportów aplikacji Partner Center Analytics w Power BI.
 
 ## <a name="next-steps"></a>Następne kroki
 

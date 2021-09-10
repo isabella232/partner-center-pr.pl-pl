@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a082e661cef28cf246dd742073efbc87487c4cdde694ddeb73958d9618c7a42a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d2888a8deffffa3b281ca088696184fdb52376be
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691178"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958918"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>Weryfikowanie własności domeny w celu otrzymania uprawnień administratora globalnego 
 
@@ -35,7 +35,7 @@ Aby zostać administratorem globalnym w swojej firmie, musisz zweryfikować wła
 
 4. Wykonaj kroki podane w domenie, aby wkleić wartości TXT do formularza DNS.  Dzięki temu możemy sprawdzić, czy jesteś właścicielem domeny, z poziomu której próbujesz pracować.
 
-5. Wróć do Partner Center i wybierz pozycję **Ok, rekord został dodany**
+5. Wróć do Partner Center i **wybierz pozycję Ok, rekord został dodany**
 
 6. Po zakończeniu weryfikacji musisz się wylogować. Zaloguj się ponownie, aby odświeżyć stan. 
 
@@ -50,9 +50,9 @@ Zweryfikowanie własności domeny powoduje również, że jesteś administratore
 
 ## <a name="find-the-companys-global-admin"></a>Znajdowanie administratora globalnego firmy
 
-1. Z **ikony Ustawienia w** prawym górnym rogu strony Partner Center wybierz pozycję **Zarządzanie użytkownikami.**
+1. Z **ikony Ustawienia w** prawym górnym rogu strony wybierz Partner Center **Zarządzanie użytkownikami.**
 
-1. Filtruj według administratora globalnego w polu wyszukiwania. Zostanie wyświetlona lista administratorów globalnych w firmie. Jeśli Firma nie ma jeszcze administratora globalnego, postępuj zgodnie z poniższymi instrukcjami.
+1. Filtruj według administratora globalnego w polu wyszukiwania. Zostanie wyświetlona lista administratorów globalnych w firmie. Jeśli firma nie ma jeszcze administratora globalnego, postępuj zgodnie z poniższymi instrukcjami.
 
 ## <a name="next-steps"></a>Następne kroki
 

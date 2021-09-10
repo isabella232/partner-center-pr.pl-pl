@@ -9,18 +9,18 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 7981df966b352f266f03be96ee4895d0d48f24a694737d979e60b399c8658b69
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d0ff46b09d2d9008302825daeb07b5ffa05a5650
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696584"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957994"
 ---
 # <a name="add-a-vat-id-to-your-billing-profile"></a>Dodawanie identyfikatora VAT do profilu rozliczeniowego
 
 **Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Administrator rozliczeń | Agent administracyjny | Agent sprzedaży
 
-Przy użyciu poniższej procedury można zaktualizować profil rozliczeniowy, aby uwzględnić identyfikator VAT. (Pamiętaj, że może to nie być możliwe w Twoim kraju lub regionie).
+Aby zaktualizować profil rozliczeniowy w celu dołączyć identyfikator VAT, możesz użyć poniższej procedury. (Pamiętaj, że może to nie być możliwe w Twoim kraju lub regionie).
 
 ## <a name="update-your-billing-profile-with-your-vat-id"></a>Aktualizowanie profilu rozliczeniowego przy użyciu identyfikatora VAT
 

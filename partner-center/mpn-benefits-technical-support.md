@@ -3,18 +3,18 @@ title: Korzyści związane z mpn — pomoc techniczna dla produktów lokalnych l
 description: Dowiedz się więcej Microsoft Partner Network (MPN) dotyczących zdarzeń pomocy technicznej
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: fae1f29f2fdc804764a29f81f2cddb7353dbf7f7
-ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
+ms.openlocfilehash: 29650a1b94cee04b4290d42ac19d2c3304e743ec
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/01/2021
-ms.locfileid: "113173661"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958402"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Pomoc techniczna dla produktów lokalnych lub w chmurze
 
@@ -26,12 +26,12 @@ ms.locfileid: "113173661"
 
 ## <a name="overview"></a>Omówienie
 
-Strona [Korzyści techniczne](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) zawiera informacje dotyczące dwóch oddzielnych korzyści:
+Strona [Korzyści techniczne](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) zawiera informacje o dwóch oddzielnych korzyściach:
 
 1. **Zdarzenia pomocy technicznej dotyczącej produktu — zobacz poniżej**
 2. Techniczne usługi przedsprzedażowe i wdrożeniowe (TPD) [— więcej informacji](technical-benefits.md)
 
-Ten artykuł jest dla członków zespołu Microsoft Partner Network (MPN), którzy muszą wiedzieć, jak aktywować korzyści techniczne, wyświetlić identyfikator dostępu i identyfikator kontraktu, wiedzieć, jakie produkty i wersje są obsługiwane oraz jak rozpocząć proces tworzenia zdarzenia pomocy technicznej/biletu przy użyciu korzyści dla partnerów MPN
+Ten artykuł jest dla członków zespołu Microsoft Partner Network (MPN), którzy muszą wiedzieć, jak aktywować korzyści techniczne, wyświetlić identyfikator dostępu i identyfikator kontraktu, wiedzieć, które produkty i wersje są obsługiwane, oraz jak rozpocząć proces tworzenia zdarzenia/biletu pomocy technicznej przy użyciu korzyści partnera MPN
 
 ### <a name="steps"></a>Kroki
 
@@ -41,7 +41,7 @@ Ten artykuł jest dla członków zespołu Microsoft Partner Network (MPN), któr
 
 3. Pomoc techniczna firmy Microsoft (w przypadku najnowszych produktów lokalnych): skorzystaj z pomocy technicznej dla firm, aby uzyskać pomoc techniczną dla produktów lokalnych
 
-4. Signature Cloud Support (w przypadku produktów w chmurze): użytkownicy z rolą agenta administratora wybierz pozycję Klienci i **zarządzanie usługami,** aby utworzyć żądanie. Zapoznaj się z następującymi szczegółami każdego kroku:
+4. Signature Cloud Support (w przypadku produktów w chmurze): użytkownicy z rolą agenta administratora wybierz pozycję Klienci i **zarządzanie** usługami, aby utworzyć żądanie. Zapoznaj się z następującymi szczegółami każdego kroku:
 
 ## <a name="view-and-activate-your-technical-support-benefits"></a>Wyświetlanie i aktywowanie korzyści pomocy technicznej
 
@@ -59,11 +59,11 @@ Jak wyświetlić lub aktywować korzyści techniczne w Partner Center:
    > [!NOTE]
    > Jeśli nie masz aktywnych ofert członkostwa, zostanie wyświetlony komunikat "Wygląda na to, że nie masz jeszcze żadnych korzyści". Jeśli Twoja firma ma aktywne oferty członkostwa, ale ich nie widzisz, zalogowano się przy użyciu niewłaściwego konta. Aby sprawdzić swoje konto, wybierz **ikonę Konto** w prawym górnym rogu strony i wybierz pozycję Zaloguj się **przy użyciu innego konta** (jeśli jest to wymagane).
 
-3. Aby skorzystać z pomocy technicznej firmy Microsoft lub pomocy technicznej dotyczącej produktu podpis, musisz aktywować korzyść. Aby aktywować korzyść, wybierz **przycisk Aktywuj.** Konto użytkownika używane do aktywacji wymaga ról administratora globalnego lub administratora partnera MPN.
+3. Aby korzystać z pomocy technicznej produktów firmy Microsoft lub pomocy technicznej dotyczącej podpisów, musisz aktywować korzyść. Aby aktywować korzyść, wybierz **przycisk Aktywuj.** Konto użytkownika używane do aktywacji wymaga ról administratora globalnego lub administratora partnera MPN.
 
    :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="Korzyści techniczne wybierz pozycję Aktywuj." :::
 
-4. Identyfikator dostępu i identyfikator kontraktu będą wyświetlane wszystkim użytkownikom po pomyślnej aktywacji. Po wyświetlaniu identyfikatora dostępu i identyfikatora kontraktu możesz użyć pomocy technicznej produktów firmy Microsoft i pomocy technicznej dotyczącej podpisów produktów (członkowie gold i silver).
+4. Identyfikator dostępu i identyfikator kontraktu będą wyświetlane wszystkim użytkownikom po pomyślnej aktywacji. Po wyświetlaniu identyfikatora dostępu i identyfikatora kontraktu możesz użyć pomocy technicznej produktów firmy Microsoft i pomocy technicznej dotyczącej podpisów produktów (członków Gold i Silver).
 
    Jeśli przycisk Aktywuj jest nieaktywna, Twoje konto nie ma roli zabezpieczeń Administrator globalny ani Administrator partnera MPN. Użyj  [funkcji Zarządzania użytkownikami](https://partner.microsoft.com/dashboard/account/v3/usermanagement#users) i filtruj według pozycji Administrator globalny lub Administrator partnera MPN, aby znaleźć użytkownika w celu aktywowania korzyści.
 
@@ -102,7 +102,7 @@ Wybierz [pozycję Pomoc techniczna dla](https://support.serviceshub.microsoft.co
 
 Te informacje można uzyskać tylko z lokalnego portalu pomocy technicznej dla firm. Niestety portale w chmurze (na przykład Azure, LCS i inne) nie pokazują tych informacji.
 
-Musisz użyć pomocy technicznej dla firm i rozpocząć proces tworzenia lokalnego zdarzenia pomocy technicznej. Nie tworzymy wniosku o pomoc techniczną, ponieważ nie kończymy tego procesu. Potrzebne informacje są wyświetlane w kroku 2.
+Musisz użyć pomocy technicznej dla firm i rozpocząć proces tworzenia lokalnego zdarzenia pomocy technicznej. Nie tworzymy wniosku o pomoc techniczną, ponieważ nie ukończymy tego procesu. Potrzebne informacje są wyświetlane w kroku 2.
 
 1. Otwórz [pomoc techniczną dla firm,](https://support.serviceshub.microsoft.com/supportforbusiness/create) wybierz system Windows 10 i wprowadź fikcyjne informacje
 
@@ -114,31 +114,31 @@ Aby uzyskać bardziej szczegółowe informacje, zobacz [How many Partner support
 
 ## <a name="signature-cloud-support-cloud-only"></a>Signature Cloud Support (tylko w chmurze)
 
-Partnerzy z kompetencjami Gold lub Silver mogą **używać** Signature Cloud Support pomocy technicznej dotyczącej produktów w chmurze. Action Pack nie są uprawnieni do Signature Cloud Support, chyba że zdobywają kompetencję.  
+Partnerzy z kompetencjami Gold lub Silver mogą używać **Signature Cloud Support** pomocy technicznej dotyczącej produktów w chmurze. Action Pack nie są uprawnieni do Signature Cloud Support, chyba że zdobywają kompetencję.  
 
 Identyfikator dostępu i identyfikator kontraktu będą potrzebne przy pierwszym użyciu korzyści dla platformy Azure, usługi Dynamics 365 i innych produktów w chmurze (wyjątek Microsoft 365). Korzyści są kojarzone z kontem użytkownika do momentu ich wygaśnięcia lub nie ma już żadnych zdarzeń pomocy technicznej.
 
 > [!NOTE]  
 > W przypadku korzystania z Azure Portal. Jeśli Twoja umowa pomocy technicznej jest już skojarzona z kontem, zostanie wyświetlony komunikat o błędzie "Identyfikator dostępu jest już skojarzony..." podczas dodawania identyfikatora dostępu i identyfikatora kontraktu. zobacz poniżej
 
-Partnerzy programu CSP tworzący żądania platformy Azure mogą używać Dostawca rozwiązań w chmurze pomocy technicznej "Dostawca rozwiązań w chmurze" bez dodawania umowy pomocy technicznej.
+Partnerzy programu CSP tworzący żądania platformy Azure mogą używać planu pomocy technicznej "Dostawca rozwiązań w chmurze" bez dodawania umowy pomocy technicznej.
 
 Użytkownicy z **rolą Agent administratora** mogą wybrać pozycję [Klienci](https://partner.microsoft.com/commerce/customers/list) w obszarze CSP w menu nawigacji po lewej stronie, wybrać pozycję **Zarządzanie** usługami i wybrać pozycję **Nowe żądanie.**  Po wybraniu odpowiedniego obciążenia zostanie otwarty portal specyficzny dla obciążenia, dodasz umowę pomocy technicznej i utworzysz żądanie.
 
 ### <a name="azure-portal-error-access-id-is-already-associated-"></a>Azure Portal "Identyfikator dostępu jest już skojarzony..."
 
-W przypadku korzystania z Azure Portal możesz użyć konta Signature Cloud Support, wybierając pozycję Pomoc i obsługa techniczna, Plany pomocy technicznej, a następnie pozycję "Połącz korzyści pomocy technicznej", a następnie wprowadź identyfikator dostępu i identyfikator kontraktu.
+Gdy używasz konta Azure Portal, użyj konta Signature Cloud Support, wybierając pozycję Pomoc i obsługa techniczna, Plany pomocy technicznej, a następnie pozycję "Połącz korzyści pomocy technicznej", a następnie wprowadź identyfikator dostępu i identyfikator kontraktu.
 
 > [!NOTE]
-> Jeśli masz usługę Microsoft Action Pack nie otrzymasz pomocy technicznej dotyczącej chmury, ponieważ nie obejmuje ona usługi Signature Cloud Support — tylko pomoc techniczna firmy Microsoft (lokalna)
+> Jeśli masz konto Action Pack Microsoft, nie otrzymasz pomocy technicznej dotyczącej chmury, ponieważ nie obejmuje Signature Cloud Support — tylko pomoc techniczna firmy Microsoft (lokalna)
 
 Może zostać wyświetlony komunikat o błędzie `This Access ID is already associated to an account. Please contact your Technical Account Manager to obtain a new Access ID` . Ten komunikat o błędzie jest nieprawidłowy i należy go zignorować. Zażądaliśmy wyłączenia błędu i zastąpienia go przydatnym komunikatem o błędzie diagnostycznym.
 
 Poprzedni błąd zostanie wyświetlony, jeśli skojarzysz umowę pomocy technicznej z kontem więcej niż raz podczas korzystania z `Access ID is already associated …` Azure Portal. Zobacz poniższe scenariusze:
 
-1. Jeśli masz złote lub silver korzyści techniczne i wcześniej dodano umowę pomocy technicznej w środowisku lokalnym, użyj konta Azure Portal i dodaj kontrakt po raz drugi do tego samego konta. Wystarczy skojarzyć umowę pomocy technicznej z kontem raz, dlatego nie trzeba łączyć korzyści pomocy technicznej na platformie Azure. Jeśli używasz korzyści obsługi linku, gdy kontrakt jest już skojarzony z kontem, zostanie wyświetlony błąd i powinien zostać zignorowany. Użyj przycisku + Support request i utwórz zdarzenie pomocy technicznej w zwykły sposób. Zostanie wyświetlony plan pomocy technicznej.
+1. Jeśli masz złote lub silver korzyści techniczne i wcześniej dodano umowę dla pomocy technicznej w środowisku lokalnym, użyj konta Azure Portal i dodaj kontrakt po raz drugi do tego samego konta. Wystarczy skojarzyć umowę pomocy technicznej z kontem raz, dlatego nie trzeba łączyć korzyści pomocy technicznej na platformie Azure. Jeśli używasz korzyści obsługi linku, gdy kontrakt jest już skojarzony z kontem, zostanie wyświetlony błąd i powinien zostać zignorowany. Użyj przycisku + Support request i utwórz zdarzenie pomocy technicznej w zwykły sposób. Zostanie wyświetlony plan pomocy technicznej.
 
-2. Jeśli umowa pomocy technicznej wygasła lub podpis 10-pack (kompetencja hybrydowa Gold) lub Podpis 5-pack (kompetencja hybrydowa Silver) nie ma żadnych zdarzeń pozostałych, umowa pomocy technicznej będzie ukryta, ponieważ jest nieprawidłowa. Jeśli ponownie połączysz korzyści pomocy technicznej, zobaczysz błąd, ponieważ kontrakt jest już skojarzony. Możesz kupić nowy plan pomocy technicznej, aby uzyskać informacje o zdarzeniach pomocy technicznej platformy Azure.
+2. Jeśli umowa pomocy technicznej wygasła lub podpis 10-pakiet (kompetencja hybrydowa Gold) lub Podpis 5-pack (kompetencja hybrydowa Silver) nie ma żadnych zdarzeń, umowa pomocy technicznej będzie ukryta, ponieważ jest nieprawidłowa. Jeśli ponownie połączysz korzyści pomocy technicznej, zobaczysz błąd, ponieważ kontrakt jest już skojarzony. Możesz kupić nowy plan pomocy technicznej, aby uzyskać informacje o zdarzeniach pomocy technicznej platformy Azure.
 
 Zobacz plany pomocy technicznej partnerów poniżej, aby uzyskać oferty płatnej pomocy technicznej dla partnerów
 
@@ -154,5 +154,5 @@ Możesz porównać [plany pomocy technicznej dla](https://partner.microsoft.com/
 ## <a name="next-steps"></a>Następne kroki
 
 - [Zarządzanie korzyściami Microsoft Partner Network i ofertami](manage-your-partner-network-benefits.md)
-- [Aktywowanie korzyści technicznych dla członków Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)
+- [Aktywowanie korzyści technicznych dla członków Partner Membership Center (PMC)](./partner-membership-center-retirement-faq.md)
 - [Techniczne usługi przedsprzedażowe i wdrożeniowe (TPD)](technical-benefits.md)

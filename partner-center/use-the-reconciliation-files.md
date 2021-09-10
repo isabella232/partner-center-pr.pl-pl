@@ -2,19 +2,19 @@
 title: Korzystanie z plików uzgodnień
 ms.topic: article
 ms.date: 03/26/2021
-description: Dowiedz się więcej o plikach uzgodnień Partner Center i interpretowaniu szczegółowych widoków elementów wiersza opłat w danym cyklu rozliczeniowym.
+description: Dowiedz się więcej o plikach uzgodnień Partner Center i interpretowaniu szczegółowych widoków elementów wiersza opłat dla danego cyklu rozliczeniowego.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b14379f7e7750b3423d03be4addaca4e4a6a94834709b9f0b6e5891a185bb0c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: e5fae4c9b9b40c8a71b56c46d0d1be629f832842
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681199"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959217"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Dowiedz się, jak odczytywać elementy wiersza w plikach Partner Center uzgodnień
 
@@ -29,7 +29,7 @@ Aby uzyskać informacje na temat odczytywania **faktury,** zobacz [Odczytywanie 
 - [Pola pliku uzgodnień w oparciu o licencję](license-based-recon-files.md)
 - [Pola pliku uzgodnień w oparciu o użycie](usage-based-recon-files.md)
 - [Pola pliku uzgodnień dziennego użycia](daily-rated-usage-recon-files.md)
-- [Pola pliku uzgodnień programu CSP z zakupem czasowym](modern-invoice-reconciliation-file.md)
+- [Pola pliku uzgodnień programu CSP zakupu tylko raz](modern-invoice-reconciliation-file.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Opis typów opłat w plikach uzgodnień
 
@@ -46,21 +46,21 @@ Wykonaj następujące kroki, aby rozwiązać wszelkie problemy z formatowaniem w
 3. Otwórz Kreatora **konwertowania tekstu na kolumny.** Na wstążce wybierz pozycję **Dane,** a następnie wybierz pozycję **Tekst na kolumny.**
 4. W kreatorze wybierz **typ pliku Rozdzielany.** Następnie wybierz pozycję **Dalej**.
 5. W polu **Ograniczniki** wybierz pozycję **Przecinek**. (Jeśli **karta** jest już zaznaczona, możesz pozostawić tę opcję zaznaczoną). Następnie wybierz pozycję **Dalej.**
-6. W polu **Format danych kolumny** wybierz **pozycję Date:MDY.** Następnie wybierz pozycję **Dalej**.
-7. W polu **Format danych kolumny** wybierz pozycję **Tekst** dla wszystkich kolumn kwot. Następnie wybierz pozycję **Finish** (Zakończ).
+6. W polu **Format danych kolumny** wybierz pozycję **Date:MDY.** Następnie wybierz pozycję **Dalej**.
+7. W polu **Format danych kolumny** wybierz pozycję **Tekst** dla wszystkich kolumn ilości. Następnie wybierz pozycję **Finish** (Zakończ).
 
 ## <a name="download-reconciliation-files-programmatically"></a>Programowe pobieranie plików uzgodnień
 
-Pliki uzgodnień mogą być bardzo duże i czasami trudno je pobrać. Aby pobrać pliki uzgodnień programowo, zobacz [Pobieranie elementów wiersza faktury.](/partner-center/develop/get-invoiceline-items)
+Pliki uzgodnień mogą być bardzo duże i czasami trudno je pobrać. Aby programowo pobrać pliki uzgodnień, zobacz [Pobieranie elementów wiersza faktury.](/partner-center/develop/get-invoiceline-items)
 
-## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Jeśli plik przekracza limit wierszy w Excel
+## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Jeśli plik przekroczy limit wierszy w Excel
 
-Jeśli możesz pobrać plik uzgodnień, ale nie możesz go otworzyć w Microsoft Excel, prawdopodobnie oznacza to, że plik zawiera więcej wierszy, niż Excel zezwoli. W takim przypadku możesz otworzyć plik za pomocą jednej z poniższych procedur.
+Jeśli możesz pobrać plik uzgodnień, ale nie możesz go otworzyć w programie Microsoft Excel, prawdopodobnie oznacza to, że plik zawiera więcej wierszy, niż Excel zezwoli. W takim przypadku możesz otworzyć plik za pomocą jednej z poniższych procedur.
 
 ### <a name="open-a-recon-file-in-power-bi"></a>Otwórz plik rekonescji w Power BI
 
 1. Pobierz plik uzgodnień w zwykły sposób.
-2. Pobierz, zainstaluj i otwórz wystąpienie programu Microsoft Power BI.
+2. Pobierz, zainstaluj i otwórz wystąpienie usługi Microsoft Power BI.
 3. Na karcie Power BI **Narzędzia** główne wybierz pozycję **Pobierz dane.**
 4. Na liście **wspólnych źródeł danych** wybierz pozycję **Tekst/CSV.**
 5. Po wyświetleniu monitu otwórz plik rekonescji.
@@ -71,14 +71,14 @@ Jeśli możesz pobrać plik uzgodnień, ale nie możesz go otworzyć w Microsoft
 2. Otwórz nowy plik w Microsoft Excel.
 3. Na karcie **Dane** wybierz pozycję **Pobierz dane,** wybierz pozycję **Z pliku**, a następnie wybierz **pozycję Tekst/CSV.**
 4. Po wyświetleniu monitu otwórz plik rekonescji. Zostaną wyświetlone dane.
-5. Z menu **rozwijanego** Load (Ładowanie) wybierz pozycję Load to **(Załaduj do),** a następnie wybierz przycisk **OK.**
+5. Z menu **rozwijanego** Ładowanie wybierz pozycję **Załaduj do**, a następnie wybierz przycisk **OK.**
 6. W **oknie dialogowym Import danych** wybierz pozycję **Raport tabeli przestawnej,** aby otworzyć plik.
 
 ## <a name="negative-amount-displayed"></a>Wyświetlana kwota ujemna
 
-W pliku uzgodnień może być widać kwotę ujemną. Jest to prawdopodobnie spowodowane przez jedną z następujących przyczyn:
+W pliku uzgodnień może zostać wyświetlony ujemny wynik. Jest to prawdopodobnie spowodowane przez jedną z następujących przyczyn:
 
-- Ostatnio anulowano lub ograniczono liczbę licencji
+- Niedawno anulowano lub ograniczono liczbę licencji
 - Otrzymano kredyt na umowę licencyjną usługi (SLA) lub na korzystanie z platformy Azure
 
 Aby uzyskać więcej informacji na temat tej transakcji, sprawdź jej atrybut typu opłaty w pliku uzgodnienia.
@@ -101,9 +101,9 @@ Partnerzy w modelu **pośrednim mogą** używać tych dodatkowych pól zarówno 
 
 ### <a name="reseller-mpn-id"></a>Identyfikator MPN odsprzedawcy
 
-Jeśli partner CSP sprzedał subskrypcję bezpośrednio klientowi, jego identyfikator **MPN** jest dwukrotnie wymieniony jako zarówno identyfikator **MPN,** jak i identyfikator **MPN odsprzedawcy.**
+Jeśli partner CSP sprzedał subskrypcję bezpośrednio klientowi, jego identyfikator **MPN** jest dwukrotnie wymieniony jako identyfikator **MPN** i identyfikator **MPN odsprzedawcy.**
 
-Jeśli partner programu CSP ma odsprzedawcę bez identyfikatora **MPN,** ta wartość jest ustawiana na identyfikator **MPN** partnera.
+Jeśli partner CSP ma odsprzedawcę bez identyfikatora **MPN,** ta wartość jest ustawiana na identyfikator **MPN** partnera.
 
 Jeśli partner CSP usunie identyfikator **MPN odsprzedawcy,** ta wartość zostanie ustawiona *na -1.*
 

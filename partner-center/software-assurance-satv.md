@@ -1,5 +1,5 @@
 ---
-title: pakiet Software Assurance training do wycofania programu
+title: pakiet Software Assurance szkolenia szkoleniowego wycofanie programu
 ms.topic: article
 ms.date: 04/07/2021
 ms.service: partner-dashboard
@@ -9,16 +9,16 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 39c4a7aadebe03c3e37ce6325acb3640909775fa630c3ac4693af430adb47338
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: c0c65c962fdc46ce4685ee3bb63bacdec036f1e8
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115682576"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959541"
 ---
 # <a name="training-vouchers-program-retirement"></a>Wycofanie programu Szkoleniowego
 
-pakiet Software Assurance Training Are Are fully retired (SATV) are fully retired from pakiet Software Assurance benefits, but customers can continue to use days for training-led training while the days are valid (Klienci mogą nadal używać dni do szkolenia prowadzonego przez instruktora, podczas gdy ćwęczynie są prawidłowe). Są to istotne daty prowadzące do wycofania programu: 
+pakiet Software Assurance Training Are Are fully retired (SATV) are fully retired from pakiet Software Assurance benefits, but customers can continue to use days for instructor-led training while the do valid (Klienci mogą nadal używać dni do szkolenia prowadzonego przez instruktora, podczas gdy ćwęczynie są ważne). Są to istotne daty prowadzące do wycofania programu: 
 
 - 1 lutego 2020 r.: szkolenie platformy Azure wycofało się z katalogu szkoleń w chmurze.
 - 1 lutego 2020 r.: Nie można już przekonwertować trenowania trenowania na usługi planowania dni.  
@@ -38,7 +38,7 @@ Jeśli jesteś nowym użytkownikiem usługi pakiet Software Assurance, wykonaj w
 1. Potwierdzanie uprawnień do programu
 2. Rejestracja w programie szkoleniowym
 3. Potwierdzanie uprawnień do kursu
-4. Tworzenie i przypisywanie aplikacji przez klienta
+4. Niech klient utworzy i przypisze konto
 5. Walidacja i rezerwa konta klienta
 6. Dostarczanie szkolenia i aktywowanie produktu
 7. Zrealizuj zakup
@@ -50,7 +50,7 @@ W tym artykule wyjaśniono, jak wykonać poszczególne kroki.
 
 Przed zarejestrowaniem się w programie SATV należy najpierw spełnić wymagania dotyczące opcji Microsoft Partner Network (MPN) Edukacja, która zastępuje kompetencję Edukacja Microsoft. Dowiedz się, jak rozpocząć pracę, [Edukacja opcji.](https://partner.microsoft.com/membership/learning-partners)
 
-W tym celu możesz sprawdzić uprawnienia swojej firmy, w tym odpowiednie wymagania dotyczące kompetencji i oceny w Partner Center. Aby uzyskać więcej informacji i zrzuty ekranu, postępuj zgodnie z instrukcjami znajdującymi się w [kroku 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) przepływu pracy programu SATV.
+W tym celu możesz zweryfikować uprawnienia swojej firmy, w tym odpowiednie wymagania dotyczące kompetencji i oceny Partner Center. Aby uzyskać więcej informacji i zrzuty ekranu, postępuj zgodnie z instrukcjami znajdującymi się w [kroku 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) przepływu pracy programu SATV.
 
 ## <a name="enroll-in-the-training-program"></a>Rejestracja w programie szkoleniowym
 
@@ -60,7 +60,7 @@ Gdy firma spełni wymagania dotyczące uprawnień, możesz podpisać umowę prog
 ## <a name="confirm-course-eligibility"></a>Potwierdzanie uprawnień do kursu
 Po zarejestrowaniu się w programie SATV partnerzy mogą oferować sesje szkoleniowe dotyczące kursów kwalifikujących się do programu SATV, w ramach których klienci mogą korzystać ze swoich szkoleń. Kwalifikujące się kursy są wymienione w katalogu uprawnień do kursu SATV. Przejrzyj [krok 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) przepływu pracy, aby zrozumieć, które typy kursów kwalifikują się do korzystania z programu SATV, lub uzyskać link do katalogu uprawnień do kursów.
 
-## <a name="have-customer-create-and-assign-voucher"></a>Tworzenie i przypisywanie aplikacji przez klienta
+## <a name="have-customer-create-and-assign-voucher"></a>Niech klient utworzy i przypisze konto
 
 Przed przeprowadzeniem szkolenia klient musi najpierw aktywować korzyść z korzystania z satv, a następnie przypisać ją do organizacji. Aby uzyskać szczegółowe instrukcje ze zrzutami ekranu przedstawiającymi kroki, które klient musi wykonać w celu utworzenia i przypisania go do Ciebie, zapoznaj się z [krokiem 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) przepływu pracy.
 
@@ -74,17 +74,17 @@ Po zarezerwowaniu centrum można dostarczyć szkolenie do klienta. Zobacz krok [
 
 ## <a name="redeem-voucher"></a>Zrealizuj zakup
 
-Po ukończeniu szkolenia należy zrealizować ten program. Postępuj zgodnie z instrukcjami [w kroku 7](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) przepływu pracy, aby upewnić się, że wszystkie wymagania zostały spełnione, aby można było zażądać płatności. 
+Po ukończeniu szkolenia należy zrealizować ten program. Postępuj zgodnie z instrukcjami w [kroku 7](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) przepływu pracy, aby upewnić się, że wszystkie wymagania zostały spełnione, aby można było zażądać płatności. 
 
 
 ## <a name="request-payment-from-microsoft"></a>Żądanie płatności od firmy Microsoft
 
-Płatności są obsługiwane za pakiet Software Assurance płatności online (SAVB). Postępuj zgodnie z instrukcjami [w kroku 8](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) przepływu pracy, aby przesłać fakturę do firmy Microsoft za pośrednictwem aplikacji SAVB. 
+Płatności są obsługiwane za pakiet Software Assurance płatności online (SAVB). Postępuj zgodnie z instrukcjami w [kroku 8](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) przepływu pracy, aby przesłać fakturę do firmy Microsoft za pośrednictwem aplikacji SAVB. 
 
 Aby uzyskać dodatkowe informacje, przeczytaj często zadawane [pytania](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) i zapoznaj [się z zasadami programu SATV.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)
 
 Zobacz też:
 
-- [pakiet Software Assurance szkoleniowe (SATV) Workflow](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)
+- [pakiet Software Assurance szkoleniowego (SATV) Workflow](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)
 - [pakiet Software Assurance szkoleniowe (SATV) — często zadawane pytania](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
 - [pakiet Software Assurance szkoleniowe (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)

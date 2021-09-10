@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
-description: 'Partnerzy MPN mogą dowiedzieć się więcej na temat dwóch poziomów kont w programie Partner Center: konta globalnego partnera (PGA) i konta lokalizacji partnera (PLA).'
+description: 'Partnerzy MPN mogą uzyskać informacje na temat dwóch poziomów kont w programie Partner Center: globalnego konta partnera (PGA) i konta lokalizacji partnera (PLA).'
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 47592fb0d0a81a827982e48b35381c59bb079c66
-ms.sourcegitcommit: 8fe3b0f22d548bc6bcc1b87636216cd4d42b3ede
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "122297219"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957885"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partner Center ma dwa poziomy kont dla partnerów MPN
 
@@ -25,7 +25,7 @@ Firma ma dwa poziomy kont w Partner Center.
 ## <a name="the-top-level-account-is-the-partner-global-account-pga"></a>Konto najwyższego poziomu to konto globalne partnera (PGA)
 
 - Konto globalne partnera zawiera legalny adres biznesowy i podstawowy kontakt dla Twojej firmy. 
-- Wyświetl szczegóły swojego globalnego konta partnera w profilu **Ustawienia**  >  **organizacji**  >  **Profil prawny.**
+- Wyświetl szczegóły konta globalnego partnera w profilu **Ustawienia**  >  **Profilu**  >  **prawnego.**
 - Szczegóły będą również zawierać identyfikator MPN konta globalnego partnera. 
 - PgA jest nadrzędnym elementem firmy i nie jest używany do kojarzenia programów zachęt ani Dostawca rozwiązań w chmurze. 
 - Lokalizacje powinny być używane do takich skojarzeń.

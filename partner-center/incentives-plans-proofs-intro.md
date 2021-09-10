@@ -8,37 +8,37 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 5e11205a0fab31c7d70b5809b4c161169a9ba2c7809c8e2ecdc7536ab87a8d81
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d315ac84f73676f8ef21d3fc5a1cded80fb32e4d
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690736"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959602"
 ---
-# <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Te zasoby ułatwiają tworzenie planów zachęt i dowodów wykonania
+# <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Użyj tych zasobów, aby ułatwić tworzenie planów zachęt i weryfikacji wykonania
 
 **Odpowiednie role:** Zachęty dla administratorów | Zachęty użytkownika
 
-W tym artykule opisano niektóre z kluczowych dokumentów wymaganych do pomyślnego uzyskania zapłaty za pracę w ramach określonego programu zachęt. Te dokumenty obejmują:
+W tym artykule opisano niektóre kluczowe dokumenty wymagane do pomyślnego uzyskania zapłaty za pracę w ramach określonego programu zachęt. Te dokumenty obejmują:
 
-- Zachęty — plan roszczeń do współpracy
-- Szczegółowa potwierdzenie wykonania (PoE)
+- Zachęty — plan roszczeń w współpracy
+- Szczegółowy dowód wykonania (PoE)
 
-W zależności od typu programu zachęt, w ramach których jesteś zarejestrowanym użytkownikiem, Twój plan zachęt do współpracy z roszczeniami i dowód wykonania (PoE) będzie kluczowy dla Twojego sukcesu dzięki zachętom.
+W zależności od typu programu zachęt, w ramach których jesteś zarejestrowanym programem, Twój plan roszczeń o współpracy zachęt i dowód wykonania (PoE) będzie kluczowy dla Twojego sukcesu dzięki zachętom.
 
-## <a name="what-is-an-incentives-co-op-claims-plan"></a>Co to jest plan zachęt do współpracy w oświadczeń?
+## <a name="what-is-an-incentives-co-op-claims-plan"></a>Co to jest plan roszczeń współpracy zachęt?
 
 Plan roszczeń dotyczących współpracy zachęt opisuje kampanie marketingowe, działania i inne szczegóły potrzebne do powodzenia programu. Po utworzeniu tego planu należy przesłać go do firmy Microsoft w celu zatwierdzenia. Dowiedz się więcej [na temat tworzenia planu](incentives-create-your-plan.md).
 
 ## <a name="what-is-a-proof-of-execution-poe"></a>Co to jest dowód wykonania (PoE)?
 
-Po opłaceniu pracy w programie zachęt należy przesłać do firmy Microsoft szczegółową weryfikację wykonania. Twoje żądanie zakupu może zawierać szczegółowe informacje o dowolnej powiązanej kampanii, dacie, w ramach którego wystąpiło działanie zachęt, oraz kwoty, które są w nim deklarowane. 
+Po opłaceniu pracy z zachętami należy przesłać do firmy Microsoft szczegółowy dowód wykonania. Twoje żądanie zakupu może zawierać szczegółowe informacje o każdej powiązanej kampanii, dacie, w ramach którego wystąpiło działanie zachęt, oraz kwoty, które są w nim chłoniane. 
 
-Dowiedz się więcej [na temat przygotowywania dowodów wykonania.](incentives-prepare-your-proof-of-execution.md)
+Dowiedz się więcej [na temat przygotowywania dowodów wykonania](incentives-prepare-your-proof-of-execution.md).
 
 ## <a name="incentives-document-resources"></a>Zachęty dla zasobów dokumentów
 
-Poniższe zasoby wyjaśniają, jak organizować, tworzyć i edytować te dokumenty z kluczowymi zachętami. Opisano również, co należy zrobić, jeśli firma Microsoft zatwierdzi Twoje roszczenie lub jeśli jakiekolwiek roszczenie zostanie odrzucone.
+Poniższe zasoby wyjaśniają, jak organizować, tworzyć i edytować te kluczowe dokumenty zachęt. Opisano w nich również, co należy zrobić, jeśli firma Microsoft zatwierdzi Twoje roszczenie lub jeśli którekolwiek roszczenie zostanie odrzucone.
 
 |  **W tym celu**  |  **Przeczytaj to**  |
 |--------------|-----------|

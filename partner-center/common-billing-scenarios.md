@@ -9,16 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: af2ca8403192bc6a339c139eecb2d7120fd026a6a3a7d94033c4298177e808e8
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 8ad05edf9c1d67a5e373fde26bf10a4f6ad50cd6
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115682151"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958017"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Typowe scenariusze rozliczeń dla partnerów programu CSP pracujących w Partner Center
 
-**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Agent pomocy technicznej | Agent sprzedaży
+**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Agent pomocy | Agent sprzedaży
 
 W tych artykułach wyjaśniono, czego należy oczekiwać na rachunku po dodaniu nowych subskrypcji, dostosowaniu liczby licencji do subskrypcji lub anulowaniu subskrypcji. Inne [Partner Center,](./billing-basics.md)takie jak subskrypcje oparte na użyciu i oparte na licencjach, są rozliczane w różny sposób.
 
@@ -33,7 +33,7 @@ Aby zmienić częstotliwość rozliczeń usługi online dla klienta:
 2. W menu po lewej stronie wybierz pozycję **Klienci.**
 3. Wybierz klienta, którego częstotliwość rozliczeń subskrypcji chcesz zmienić.
 4. Na stronie **Subskrypcje klienta** wybierz subskrypcję, którą chcesz zmienić.
-5. Na stronie **Szczegóły** w obszarze **Częstotliwość rozliczeń** wybierz pozycję **Co miesiąc** lub **Co rok.** Zostanie wyświetlona strona potwierdzenia z ważnymi informacjami na temat zmiany częstotliwości rozliczeń, a także listą subskrypcji, które mają zostać zmienione.
+5. Na stronie **Szczegóły** w obszarze **Częstotliwość rozliczeń** wybierz pozycję **Miesięczny lub** **Roczny**. Zostanie wyświetlona strona potwierdzenia z ważnymi informacjami na temat zmiany częstotliwości rozliczeń, a także listą subskrypcji, które mają zostać zmienione.
 6. Wybierz **przycisk OK,** aby wprowadzić zmianę (lub **anuluj,** aby ją cofnąć).
 
 ## <a name="billing-scenarios"></a>Scenariusze rozliczeń

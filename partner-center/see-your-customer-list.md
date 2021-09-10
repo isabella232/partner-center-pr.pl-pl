@@ -4,25 +4,25 @@ ms.topic: how-to
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Rekordy klientów są jednymi z najważniejszych zasobów informacyjnych. Dowiedz się, jak wyświetlać, wyszukiwać, aktualizować & eksportować informacje na Partner Center klientów.
+description: Rekordy klientów należą do najważniejszych zasobów informacyjnych. Dowiedz się, jak wyświetlać, wyszukiwać, aktualizować i & eksportować informacje na Partner Center klientów.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f43c355233ed21bc1745858e0aa8d0f16cb8df9519a4283142d92dbab55f9f82
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: df0f72deb14eac6d75f8579f7099ab3c6b6a2905
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685755"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958642"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Zarządzanie listą klientów — wyszukiwanie, aktualizowanie lub eksportowanie klientów w Partner Center
 
-**Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
+**Dotyczy:** Partner Center | Partner Center dla Microsoft Cloud for US Government
 
 **Odpowiednie role:** Administrator | Administrator globalny
 
-Rekordy klientów są jednymi z najważniejszych zasobów informacyjnych w Partner Center. Bazę danych kont klientów można przeszukiwać, eksportować całą bazę danych klienta lub eksportować podzbiór do formatu pliku wartości rozdzielanych przecinkami (Excel zgodny z programem .csv). Możesz również wyeksportować informacje o subskrypcjach klienta do pliku .csv klienta.
+Rekordy klientów należą do najważniejszych zasobów informacyjnych w Partner Center. Możesz przeszukiwać bazę danych kont klientów, eksportować całą bazę danych klienta lub eksportować podzbiór do formatu pliku wartości rozdzielanych przecinkami Excel (.csv). Możesz również wyeksportować informacje o subskrypcjach klienta do pliku .csv klienta.
 
 Dzienniki aktywności zapewniają również klientom dane dotyczące transakcji i akcji zarządzania, które można eksportować. Aby uzyskać więcej informacji, zobacz [Wyświetlanie dzienników aktywności klientów.](activity-logs.md)
 
@@ -37,14 +37,14 @@ Dzienniki aktywności zapewniają również klientom dane dotyczące transakcji 
 Z menu **Partner Center** wybierz pozycję **Klienci.**
 2. Aby wyszukać klienta, wprowadź nazwę klienta lub nazwę domeny w polu wyszukiwania.
 3. Wybierz strzałkę **w dół** na końcu wiersza klienta, aby wyświetlić jego identyfikator Microsoft oraz skojarzone z nim szybkie linki do subskrypcji i usług.
-4. W obszarze informacje **o odbiorcy** faktury zaktualizuj nazwę firmy. Po zapisaniu nowej wartości zostanie ona odzwierciedlona na liście klientów. Spowoduje to tylko zmianę nazwy firmy dla odbiorcy faktury i wartości listy klientów. Nie zostanie ona odzwierciedlona w żadnym innym miejscu.
+4. W obszarze informacje o **odbiorcy** faktury zaktualizuj nazwę firmy. Po zapisaniu nowej wartości zostanie ona odzwierciedlona na liście klientów. Spowoduje to tylko zmianę nazwy firmy dla odbiorcy faktury i wartości listy klientów. Nie zostanie ona odzwierciedlona w żadnym innym miejscu.
 
 ## <a name="export-your-customer-list"></a>Eksportowanie listy klientów
 
 1. Z menu **Partner Center** wybierz pozycję **Klienci.**
 2. Wybierz pozycję **Eksportuj klientów.**
 
-   Partner Center konwertuje pełną listę klientów na plik .csv i przekaże go do domyślnego folderu pobierania na komputerze. Można również eksportować podzbiory danych klientów. Kolumny danych są następujące:
+   Partner Center przekonwertuje pełną listę klientów na plik .csv i przekaże ją do domyślnego folderu pobierania na komputerze. Można również eksportować podzbiory danych klientów. Kolumny danych są następujące:
 
    - **Identyfikator firmy Microsoft;**
    - **Nazwa firmy;**
@@ -62,7 +62,7 @@ Z menu **Partner Center** wybierz pozycję **Klienci.**
 
 2. Wybierz **nazwę firmy dla** dowolnego klienta. Zostanie otwarta strona **Subskrypcje** klienta z pełną listą subskrypcji produktów.
 
-3. Wybierz **pozycję Eksportuj subskrypcje.** Partner Center konwertuje dane subskrypcji klienta na plik .csv i przekaże je do domyślnego folderu pobierania na komputerze. Kolumny danych są następujące:
+3. Wybierz **pozycję Eksportuj subskrypcje.** Partner Center dane subskrypcji klienta na plik .csv i przekaże je do domyślnego folderu pobierania na komputerze. Kolumny danych są następujące:
    - **Identyfikator subskrypcji;**
    - **Subskrypcja**— nazwa produktu dla subskrypcji;
    - **Ilość —** liczba zakupionych licencji;

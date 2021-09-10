@@ -2,25 +2,25 @@
 title: Korzyści związane z programem MPN — techniczna przedsprzedaż i wdrażanie (TPD)
 description: Dowiedz się więcej Microsoft Partner Network (MPN) dotyczących technicznych usług przedsprzedażowych i wdrożeniowych (TPD)
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 ms.topic: article
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: bf29df94a7a59e5a022c7c6407da27b7202547db
-ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
+ms.openlocfilehash: ded4aa0d63e73e52a7f8e2865aa30a14208f70df
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112490006"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958378"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Eksplorowanie technicznych usług przedsprzedażowych i wdrożeniowych (TPD) 
 
 **Odpowiednie role:** dowolne konto użytkownika MPN, o ile organizacja ma aktywną kompetencję lub konto microsoft Action Pack.
 
-Dowiedz się więcej o korzyściach Microsoft Partner Network (MPN) oferowanych w ramach technicznych usług przedsprzedażowych i wdrożeniowych (TPD, Technical Presales and Deployment Services), w tym na temat świadczeń, pomocy przedsprzedaderowej, godzin porad i nie tylko.
+Dowiedz się więcej Microsoft Partner Network korzyści z programu Microsoft Partner Network (MPN) dla technicznych usług przedsprzedażowych i wdrożeniowych (TPD, Technical Presales and Deployment Services), w tym dotyczących świadczeń, pomocy przedsprzedażowej, godzin porad i nie tylko.
 
 ## <a name="develop-your-technical-know-how"></a>Opracowywanie wiedzy technicznej
 
@@ -49,7 +49,7 @@ Zaloguj się przy użyciu dowolnego konta użytkownika skojarzonego z programem 
   - *Nie są obsługiwane:* Planowanie potoku sprzedaży, dyskusje klientów końcowych, cennik licencjonowania i cenniki.
 
 
-- **Planowanie wdrażania** jest używane do planowania i projektowania architektury, najlepszych rozwiązań, wskazówek dotyczących wdrażania, dokumentacji i dokumentacji produktów.
+- **Planowanie wdrożenia** jest używane do planowania i projektowania architektury, najlepszych rozwiązań, wskazówek dotyczących wdrażania, dokumentacji i dokumentacji produktów.
 
   - *Nie są obsługiwane:* Pomoc techniczna w przypadku naprawy w przypadku łamania, rozwiązywanie problemów, poprawki, usługi w lokacji, konsulting długoterminowy (mniej niż 25 godzin na zaangażowanie) bezpośrednio do pomocy technicznej dla klientów lub pomocy technicznej w środowisku produkcyjnym. 
 
@@ -61,13 +61,13 @@ Zaloguj się przy użyciu dowolnego konta użytkownika skojarzonego z programem 
 ## <a name="in-scope-products-and-services"></a>In-Scope produktów i usług
 
 Następujące produkty i usługi znajdują się w zakresie dla usługi TPD:
-- **Microsoft 365:** wszystkie składniki usługi Microsoft Office 365, takie jak Microsoft Teams, Exchange Online, SharePoint Online, OneDrive, Yammer, Project Online, Skype dla firm Server 2019, Enterprise Mobility + Security, Microsoft Intune, Azure Active Directory, Azure Information Protection
-  - *Poza zakresem: Wyłącznie lokalne serwery pakietu Office — Exchange i SharePoint*
+- **Microsoft 365:** wszystkie składniki Microsoft Office 365, takie jak Microsoft Teams, Exchange Online, SharePoint Online, OneDrive, Yammer, Project Online, Skype dla firm Server 2019, Enterprise Mobility + Security, Microsoft Intune, Azure Active Directory, Azure Information Protection
+  - *Poza zakresem: wyłącznie lokalne serwery Office — Exchange i SharePoint*
 - **Business Applications:** Microsoft Dynamics 365 (online), Microsoft Power Platform (Power Apps, Power Automate, Power BI)
   - *Poza zakresem: wyłącznie lokalne wersje usługi Dynamics 365, GP, SL, AX, NAV*
 - **Microsoft Azure:** wszystkie Microsoft Azure i powiązane usługi, takie jak infrastruktura jako usługa, platforma jako usługa, platforma danych, analiza analizy biznesowej, Cognitive Services, Azure Machine Learning, Azure Stack
 - **Windows Server i SQL Server:** w ramach wsparcia głównego zgodnie z **[cyklem życia produktu](/lifecycle/policies/fixed)**)
-  - System Center obejmuje powiązane produkty, takie jak System Center Menedżer konfiguracji (SCCM), jeśli są powiązane ze scenariuszami chmury lub hybrydowymi
+  - System Center obejmuje powiązane produkty, takie jak System Center Configuration Manager (SCCM), jeśli są powiązane ze scenariuszami chmury lub hybrydowymi
 - **Windows 10:** Windows 10 operacyjny, urządzenia, aplikacje uniwersalne
 - **Produkty w prywatnej lub publicznej** wersji zapoznawczej: pomoc jest zapewniana na zasadzie najlepszych wysiłków dla środowisk nieprodukcji i bez gwarancji dostępności informacji lub czasu odpowiedzi
 
@@ -89,7 +89,7 @@ Aby wyświetlić korzyści techniczne w Partner Center:
 
 3. Wybierz pozycję Submit technical presales and deployment request (Prześlij techniczne żądanie **[przedsprzedazy i wdrożenia).](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)**
 
-:::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="Techniczne korzyści z przedsprzedazy i wdrażania." :::
+:::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="Techniczne korzyści związane z przedsprzedażem i wdrażaniem." :::
 
 4. Użyj **funkcji Wyszukaj** produkty i wprowadź odpowiedni produkt. Jeśli otrzymasz zbyt wiele wyników, możesz filtrować według obszaru rozwiązania lub tematu Przeglądaj, aby filtrować poszczególne poziom taksonomii.
 
@@ -103,9 +103,9 @@ Aby wyświetlić korzyści techniczne w Partner Center:
    > [!IMPORTANT]
    > Pamiętaj, aby wybrać odpowiedni kraj (lub region) i język, ponieważ określają one, dokąd twoje żądanie jest kierowane.
 
-6. Strona potwierdzenia zawiera numer i opis wniosku o pomoc techniczną. Otrzymasz również wiadomość e-mail z potwierdzeniem od Partner Center z numerem sprawy.
+6. Strona potwierdzenia zawiera numer i opis wniosku o pomoc techniczną. Otrzymasz również wiadomość e-mail z potwierdzeniem od Partner Center z numerem przypadku.
 
 ## <a name="next-steps"></a>Następne kroki
-[Pomoc techniczna dla produktów lokalnych lub w chmurze](/mpn-benefits-technical-support.md)
+[Pomoc techniczna dla produktów lokalnych lub w chmurze](mpn-benefits-technical-support.md)
 
 [Zarządzanie korzyściami Microsoft Partner Network i ofertami](manage-your-partner-network-benefits.md)

@@ -1,5 +1,5 @@
 ---
-title: Zbieranie danych diagnostycznych i zgłaszanie problemów w programie Partner Center
+title: Zbieranie diagnostyki i raportowania problemów w Partner Center
 ms.topic: how-to
 ms.date: 11/19/2020
 ms.service: partner-dashboard
@@ -9,54 +9,54 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8539b5744cccd7356873a5fa8568fe271cc372877487afe1febe9290ed1e70ac
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 3e8f48476a6136889be8bb5c9f7a12ed8c42dc94
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115682794"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958713"
 ---
-# <a name="collecting-diagnostics-and-reporting-problems-in-partner-center"></a>Zbieranie danych diagnostycznych i zgłaszanie problemów w programie Partner Center
+# <a name="collecting-diagnostics-and-reporting-problems-in-partner-center"></a>Zbieranie diagnostyki i raportowania problemów w Partner Center
 
 **Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
 
 **Odpowiednie role:** Wszyscy partnerzy zainteresowani Partner Center
 
-Wszyscy zalogowani użytkownicy Partner Center mogą utworzyć wniosek o pomoc techniczną dla partnera. Użytkownicy mogą wyświetlać przesłane przez nich żądania pomocy technicznej tylko po zalogowaniu się do Partner Center.
-Skontaktuj się Partner Center pomocą techniczną, jeśli znajdziesz problemy lub potrzebujesz pomocy w Partner Center portalem. Wyślij diagnostykę, aby umożliwić szybsze rozwiązanie problemu. 
+Wszyscy zalogowani użytkownicy Partner Center mogą utworzyć wniosek o pomoc techniczną dla partnerów. Użytkownicy mogą wyświetlać przesłane żądania pomocy technicznej tylko po zalogowaniu się do Partner Center.
+Skontaktuj się Partner Center pomocą techniczną, jeśli znajdziesz problemy lub potrzebujesz pomocy w Partner Center portal. Wyślij diagnostykę, aby umożliwić szybsze rozwiązanie problemu. 
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Zgłoś problem z Partner Center
 
-1. Na **pulpicie Partner Center** nawigacyjnym wybierz pozycję **Pomoc techniczna,** a następnie wybierz **pozycję Żądania pomocy technicznej partnerów.**
+1. Na swoim **Partner Center** nawigacyjnym wybierz pozycję **Pomoc techniczna,** a następnie wybierz **pozycję Żądania pomocy technicznej dla partnerów.**
 
-2. Wybierz **[pozycję Nowe](https://partner.microsoft.com/dashboard/support/servicerequests/create)** żądanie, a następnie wyszukaj typ problemu, który najlepiej opisuje Twój problem. Wybierz typ problemu i przejrzyj **rozwiązania.**
+2. Wybierz **[pozycję Nowe](https://partner.microsoft.com/dashboard/support/servicerequests/create)** żądanie, a następnie wyszukaj typ problemu, który najlepiej opisuje Twój problem. Wybierz typ problemu i **przejrzyj rozwiązania.**
 
 3. Zapoznaj się ze **stroną Zalecane rozwiązania,** aby zapoznać się z krokami lub powiązanymi dokumentami, które mogą pomóc w rozwiązaniu problemu.
 
-4. Jeśli zalecane **rozwiązania rozwiązały** problem, możesz powrócić do **pulpitu nawigacyjnego**. Jeśli nadal potrzebujesz pomocy, możesz kontynuować i podać **szczegóły problemu**.
+4. Jeśli zalecane **rozwiązania** rozwiązały problem, możesz powrócić **do pulpitu nawigacyjnego**. Jeśli nadal potrzebujesz pomocy, możesz kontynuować i podać **szczegóły problemu.**
 
-5. Uzupełnij **szczegóły problemu, a** następnie prześlij **.** Przedstawiciel pomocy technicznej partnera pomoże Ci.
+5. Uzupełnij **szczegóły problemu, a** następnie prześlij **.** Przedstawiciel pomocy technicznej partnera pomoże Ci w niu.
 
 ## <a name="schedule-a-support-appointment"></a>Planowanie terminu pomocy technicznej 
 
 **Obecnie w wersji zapoznawczej*
 
-Planowanie terminów umożliwia zaplanowanie terminu z przypisanym do Ciebie zwolennikiem.  W wersji zapoznawczej terminy są ograniczone do podzbioru typów problemów i zespołów pomocy technicznej.  
+Planowanie terminów umożliwia zaplanowanie spotkania z przypisanym do Ciebie kandydatem.  W wersji zapoznawczej terminy są ograniczone do podzbioru typów problemów i zespołów pomocy technicznej.  
 
    > [!NOTE]
-   > Planowanie terminu pomocy technicznej nie jest natychmiast dostępne po utworzeniu sprawy. Termin pomocy technicznej można zaplanować dopiero po przypisaniu właściciela żądania.   
+   > Planowanie terminu pomocy technicznej nie jest natychmiast dostępne po utworzeniu sprawy. Termin pomocy technicznej można zaplanować dopiero po przypisaniu żądania do właściciela.   
 
 1. Na **pulpicie Partner Center** nawigacyjnym wybierz pozycję **[Pomoc techniczna.](https://partner.microsoft.com/dashboard/support/servicerequests)** 
 
-2. Kliknij otwarte żądanie, aby wyświetlić szczegóły biletu. W oknie Planowanie terminu pomocy technicznej **(wersja zapoznawcza)** wybierz dostępną datę i godzinę. Dostępne terminy są oparte na dostępności kalendarza przez kandydata pomocy technicznej i są wyświetlane w lokalnej strefie czasowej.
+2. Kliknij otwarte żądanie, aby wyświetlić szczegóły biletu. W oknie Planowanie terminu pomocy technicznej **(wersja zapoznawcza)** wybierz dostępną datę i godzinę. Dostępne czasy wizyty są oparte na dostępności kalendarza przez kandydata pomocy technicznej i są wyświetlane w lokalnej strefie czasowej.
 
 :::image type="content" source="images/support/ticket.png" alt-text="Zaplanuj termin pomocy technicznej.":::
 
-3. Wybierz **pozycję Zaplanuj ten termin,** aby zarezerwować termin u zamiennie.
+3. Wybierz **pozycję Zaplanuj ten termin,** aby zarezerwować termin u jej propagato.
 
 :::image type="content" source="images/support/ticket2.png" alt-text="Zaplanuj termin.":::
 
-4. Po zarezerwowaniu terminu Partner Center pokaże datę i godzinę na stronie szczegółów biletu.
+4. Po zarezerwowaniu terminu Partner Center datę i godzinę na stronie szczegółów biletu.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Data i godzina.":::
 
@@ -65,15 +65,15 @@ Planowanie terminów umożliwia zaplanowanie terminu z przypisanym do Ciebie zwo
 6.  Aby zmienić termin, wróć do strony szczegółów biletu w Partner Center wybierz pozycję Zmień **harmonogram** tego terminu lub **Anuluj ten termin.** 
 
    > [!NOTE]
-   > Skrzynka Partner Center Terminy nie jest monitorowana. Służy tylko do wysyłania zaproszeń na spotkanie.   
+   > Skrzynka Partner Center Terminy nie jest monitorowana. Jest on używany tylko do wysyłania zaproszeń na spotkanie.   
    
-Harmonogram terminu pomocy technicznej jest w wersji zapoznawczej:
+Zaplanuj termin pomocy technicznej w wersji zapoznawczej:
 - Wiadomości e-mail z potwierdzeniem spotkania i przypomnieniem mogą wyświetlać czas wizyty w innej strefie czasowej niż czas lokalny.  Jednak dołączony plik ics spowoduje dodanie terminu do kalendarza w odpowiednim czasie lokalnym. 
-- Obecnie istnieje ograniczenie dotyczące języka wiadomości e-mail z potwierdzeniem spotkania i przypomnieniami.  Te wiadomości e-mail mogą być w języku angielskim, a nie w wybranym języku.  Jednak nadal będziesz otrzymywać pomoc techniczną w wybranym języku.
+- Obecnie istnieje ograniczenie dotyczące języka wiadomości e-mail z potwierdzeniem spotkania i przypomnieniami.  Te wiadomości e-mail mogą być w języku angielskim, a nie wybranym języku.  Jednak nadal będziesz otrzymywać pomoc techniczną w wybranym języku.
 
 ## <a name="send-diagnostics"></a>Wysyłanie diagnostyki
 
-Jeśli błąd wystąpi podczas pracy na stronie Partner Center, może zostać wyświetlony monit o zebranie informacji dziennika. Wybierz **pozycję Zbierz więcej** informacji z linku rozwijanego w górnej części strony, aby otworzyć narzędzie diagnostyczne klienta. To narzędzie zbiera informacje, których zespół pomocy technicznej partnera potrzebuje do ustalenia przyczyny błędu. 
+Jeśli podczas pracy na stronie Partner Center wystąpi błąd, może zostać wyświetlony monit o zebranie informacji dziennika. Wybierz **pozycję Zbierz więcej informacji** z linku rozwijanego w górnej części strony, aby otworzyć narzędzie diagnostyczne klienta. To narzędzie zbiera informacje, których zespół pomocy technicznej partnera potrzebuje do ustalenia przyczyny błędu. 
 
 >[!NOTE]
 >Na Partner Center, które zawierają **/pcv/** w adresie URL, możesz otworzyć narzędzie ręcznie, aby zebrać te informacje.

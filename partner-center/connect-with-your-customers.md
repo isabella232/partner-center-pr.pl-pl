@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: b240d39da1e7c91fb8efee9aabced2a76092104e719d97cbfd33a53f1ca567ee
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 9d9798bdbf83bbe7d812f5bbf83b81fb8fcde373
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681964"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958341"
 ---
 # <a name="connect-with-customers"></a>Nawiązywanie relacji z klientami
 
@@ -32,7 +32,7 @@ W przypadku nawiązywania połączenia z dostawcą pośrednim nie można automat
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Zapraszanie klienta do nawiązania relacji odsprzedawcy z Toem
 
-1. Wybierz **pozycję Customers** (Klienci) z menu **Partner Center** a następnie wybierz pozycję Request a reseller relationship **(Zażądaj relacji odsprzedawcy).**
+1. Wybierz **pozycję Customers** (Klienci) **Partner Center** menu, a następnie wybierz pozycję Request a reseller relationship **(Zażądaj relacji odsprzedawcy).**
 
 2. Na następnej stronie przejrzyj wersję roboczą wiadomości e-mail. Możesz otworzyć wiadomość roboczą w wiadomości e-mail lub skopiować wiadomość do schowka i wkleić ją do wiadomości e-mail.
 
@@ -52,13 +52,13 @@ Jeśli przyciągasz nowych klientów, musisz połączyć się z nimi na Partner 
 - Polecenia firmy Microsoft
 - Dostawcy pośredni
 
-Aby zarządzać subskrypcjami i usługami klienta w jego imieniu, musisz mieć z nim relację odsprzedawcy. Aby umożliwić dostawcy pośredniego przesyłanie zamówień w imieniu klienta, dostawca pośredni musi również mieć z nim relację odsprzedawcy.
+Aby zarządzać subskrypcjami i usługami klienta w jego imieniu, musisz mieć z nim relację odsprzedawcy. Aby umożliwić dostawcy pośredniego przesyłanie zamówień w imieniu klienta, dostawca pośredni musi również mieć relację odsprzedawcy z tym dostawcą.
 
 Aby uzyskać uprawnienia administratora do zarządzania subskrypcjami  i usługami nowego klienta oraz zezwolić dostawcy pośredniego na przesyłanie nowych zamówień w ich imieniu, możesz zaprosić klienta do ustanowienia relacji odsprzedawcy z To ty i dostawcą w tym samym czasie.
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>Zaproś klienta do nawiązania relacji odsprzedawcy z To użytkownikiem i dostawcą pośrednim w tym samym czasie
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>Zaproś klienta do ustanowienia relacji odsprzedawcy z To użytkownikiem i dostawcą pośrednim w tym samym czasie
 
-1. Wybierz **pozycję Dostawcy pośredni** z Partner Center **menu.**
+1. Wybierz **pozycję Dostawcy pośredni** z menu Partner Center **menu.**
 
 2. Wybierz **pozycję Zaproś** nowych klientów, aby zaprosić klienta do ustanowienia relacji odsprzedawcy zarówno z Toem, jak i dostawcą pośrednim w tym samym czasie. Dostawca musi mieć relację odsprzedawcy z Klientem, aby można było przesyłać zamówienia w imieniu klienta, gdy klient chce kupić nowe subskrypcje lub dodać nowe licencje do istniejących subskrypcji.
 
@@ -74,7 +74,7 @@ Aby uzyskać uprawnienia administratora do zarządzania subskrypcjami  i usługa
 
 Aby usunąć relację z klientem, wykonaj poniższe kroki:
 
-1.  Z Partner Center przejdź do strony **Klienci** i wybierz klienta, którego relację chcesz usunąć.
+1.  W Partner Center wybierz pozycję **Klienci** i wybierz klienta, którego relację chcesz usunąć.
 
 2.  Wybierz **konto**.
 

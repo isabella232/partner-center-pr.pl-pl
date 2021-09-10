@@ -8,12 +8,12 @@ ms.subservice: partnercenter-benefits
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: d3b53d1fefa677b0624c39beb0437156a70302cebf60dacbdea862327022a497
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: b7fe4ae33160a4f6b8da816d2e18d8695c656de4
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694629"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959709"
 ---
 # <a name="request-a-refund-for-an-mpn-benefit"></a>Żądanie zwrotu pieniędzy za korzyść mpn
 
@@ -26,12 +26,12 @@ W przypadku żądania zwrotu kosztów dla zakupionej Action Pack MPN (na poziomi
 
 - Zakup został dokonany w ciągu ostatnich 30 dni
 - Nie można aktywować/używać wszystkich korzyści
-- Kluczy produktów nie można wyświetlać (nawet jeśli nie są aktywowane)
+- Nie można wyświetlać kluczy produktów (nawet jeśli nie są aktywowane)
 
-Zwroty podatków dla partnerów, którzy zwalniają z podatku, są dostępne przez jeden rok.
+Zwroty podatku dla partnerów, którzy zwalniają z podatku, są dostępne przez jeden rok.
 
 >[!NOTE]
->Jeśli masz ofertę członkostwa w wersji Silver i uszła Ci 25% rabatu na członkostwo Gold w celu uaktualnienia do oferty członkostwa Gold, nie kwalifikujesz się do zwrotu kosztów za platformę Silver (nawet jeśli zapłacino za członkostwo w silver w ciągu 30 dni i nie wykorzystano korzyści).
+>Jeśli masz ofertę członkostwa w wersji Silver i uszła Ci 25% rabatu na członkostwo w wersji Gold w celu uaktualnienia do oferty członkostwa Gold, nie kwalifikujesz się do zwrotu kosztów za platformę Silver (nawet jeśli zapłacisz za członkostwo w silver w ciągu 30 dni i nie korzystasz z korzyści).
 
 ## <a name="next-steps"></a>Następne kroki
 

@@ -1,6 +1,6 @@
 ---
 title: Wprowadzenie — zachęty
-description: Znajdź zasoby, aby rozpocząć pracę z zachętami. Kroki obejmują potwierdzenie spełnienia wymagań dotyczących uprawnień oraz przesłanie danych bankowych, podatkowych i wypłat.
+description: Znajdź zasoby, aby rozpocząć pracę z zachętami. Kroki obejmują potwierdzenie spełnienia wymagań dotyczących uprawnień oraz przesłanie informacji bankowych, podatkowych i wypłat.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 01753312956b57575478ae587ed8286003b5a154a76798665adc5db4a2baeb6c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 67c09a71b0e5e6774a6306a6af1b0eee6705083e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695785"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958498"
 ---
 # <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Użyj tych zasobów, aby rozpocząć pracę z zachętami
 
@@ -23,7 +23,7 @@ Ten artykuł zawiera krótkie wprowadzenie do programów zachęt firmy Microsoft
 
 ## <a name="about-the-incentives-program"></a>Informacje o Program zachęt
 
-Jako partner w organizacji Microsoft Partner Network (MPN), masz dostęp do różnych programów zachęt, które mogą nagradzać Cię za dostarczanie usług klientom. Te programy mogą również pomóc w rozwoju firmy.
+Jako partner w Microsoft Partner Network (MPN) masz dostęp do różnych programów zachęt, które mogą cię nagradzać za dostarczanie usług klientom. Te programy mogą również pomóc w rozwoju firmy.
 
 Jeśli jesteś nowym użytkownikom zachęt i chcesz dowiedzieć się więcej o dostępnych programach zachęt, zaloguj się do programu [zachęt i inwestycji firmy Microsoft.](https://partner.microsoft.com/membership/partner-incentives)
 
@@ -39,8 +39,8 @@ Zanim będzie można zapłacić za pracę w programie zachęt, musisz przekazać
 | Dowiedz się więcej o rejestrowaniu w programie zachęt | [Rejestracja w programie zachęt](incentives-enroll.md)  |
 | Dowiedz się, czy Twoja praca z zachętami spełnia wymagania dotyczące uprawnień do określonego programu zachęt | [Ustalanie uprawnień do programu](incentives-determined-your-program-eligibility.md)  |
 | Znajdź i podaj dane wymagane przez firmę Microsoft, aby można było otrzymać wypłaty z zachęt | [Tworzenie profilów wypłat i profilów podatkowych oraz zarządzanie nimi w Partner Center](incentives-create-and-manage-your-payout-and-tax-profiles.md)  |
-| Upewnij się, że podano wszystkie szczegóły, które muszą kwalifikować się do otrzymania zarobków w zachętach | [Potwierdzanie uprawnień do zarobków](incentives-confirm-your-earnings-eligibility.md)  |
-| Wyświetlanie wszystkich danych i raportów dotyczących programu zachęt | [Wyświetlanie programów zachęt i płatności](understand-incentive-payouts.md)  |
+| Upewnij się, że podano wszystkie szczegóły, których potrzebujesz, aby otrzymywać zarobki w zachętach | [Potwierdzanie uprawnień do zarobków](incentives-confirm-your-earnings-eligibility.md)  |
+| Wyświetlanie wszystkich danych i raportów dla programu zachęt | [Wyświetlanie programów zachęt i płatności](understand-incentive-payouts.md)  |
 | Uzyskiwanie dostępu do strony wypłat dla konkretnych programów i zachęt | [Uzyskiwanie dostępu do zestawienia wypłat](payout-statement.md)  |
 
 ## <a name="next-steps"></a>Następne kroki

@@ -9,22 +9,22 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 8587827315777a2ae5d91a259b4e2557c206a80e463ab29ed8f37f974ad364f3
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 13d60cddf2699ffa76c432adcba3c06387a37203
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115684650"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957849"
 ---
 # <a name="march-2020-announcements"></a>Ogłoszenia z marca 2020 r.
 
-Na tej stronie szczegółowo ogłoszeń dotyczących usługi Microsoft Partner Center na marzec 2020 r.
+Ta strona zawiera szczegółowe informacje o ogłoszeniach dotyczących Partner Center Microsoft na marzec 2020 r.
 
-Ogłoszenia na rok 2020: [styczeń 2020](2020-january.md)r. luty  |  [2020](2020-february.md) r. | Marzec 2020 r. | [Kwiecień 2020](2020-april.md)  |  r. [Maj 2020 r.](2020-may.md)
+Ogłoszenia na rok 2020: [styczeń 2020](2020-january.md)r. luty  |  [2020](2020-february.md) r. | Marzec 2020 | [Kwiecień 2020](2020-april.md)  |  r. [Maj 2020 r.](2020-may.md)
 
 _________________
 
-## <a name="microsoft-will-rename-office-365-small-and-medium-business-smb-offers-from-april-21-2020"></a><a id="7"/></a>Firma Microsoft zmieni Office 365 ofert dla małych i średnich firm (SMB) od 21 kwietnia 2020 r.
+## <a name="microsoft-will-rename-office-365-small-and-medium-business-smb-offers-from-april-21-2020"></a><a id="7"/></a>Firma Microsoft zmieni nazwę Office 365 ofert dla małych i średnich firm (SMB) od 21 kwietnia 2020 r.
 
 ### <a name="categories"></a>Kategorie
 
@@ -45,8 +45,8 @@ Wszyscy Dostawca rozwiązań w chmurze (CSP).
 21 kwietnia 2020 r. zmienimy nazwy naszych ofert Office 365 SMB:
 
 - Office 365 Business Essentials stanie się **Microsoft 365 Business Basic**. Jest to oferta na poziomie podstawowym dla klientów, którzy szukają podstawowych usług w chmurze.
-- Office 365 Business Premium stanie **się** Microsoft 365 Business Standard . Jest to nasza podstawowa oferta dla małych i średnich firm, w tym usług w chmurze i aplikacji klasycznych połączonych z chmurą.
-- Microsoft 365 Firma stanie się **Microsoft 365 Business Premium**. Pozostaje to nasza hero SKU dla wysokiej klasy SBS szukających dodatkowych zabezpieczeń, urządzenia i wartości tożsamości.
+- Office 365 Business Premium stanie się **Microsoft 365 Business Standard**. Jest to nasza podstawowa oferta dla małych i średnich firm, w tym usług w chmurze i aplikacji klasycznych połączonych z chmurą.
+- Microsoft 365 Firma stanie się **Microsoft 365 Business Premium**. Pozostanie to naszą dodatkowymi elementami SKU dla wysokiej klasy SKU, które szukają dodatkowych zabezpieczeń, wartości urządzeń i tożsamości.
 
 Przyjmiemy również **nową Aplikacje Microsoft 365** dla dwóch subskrypcji Office klienta:
 
@@ -61,7 +61,7 @@ Nie ma żadnych zmian cen, funkcji ani modelu biznesowego. Nie ma również żad
 
 Ta zmiana nazwy umożliwia klientom lepsze zrozumienie wartości przyrostowej zawartej w każdej ofercie, co pozwala lepiej ustawić możliwości sprzedaży na kontach.
 
-Rozwiązuje również niespójności nazw w planach Office 365/Microsoft 365 Business. Podobnie ta zmiana nazwy wyraźnie oddziela podstawowe Office, sprzedawane za pośrednictwem nowych Aplikacje Microsoft 365 dla firm/enterprise, od szerszego planu.
+Rozwiązuje również niespójności nazw w planach Office 365/Microsoft 365 Business. Podobnie ta zmiana nazwy wyraźnie oddziela podstawowe aplikacje Office, sprzedawane za pośrednictwem nowych Aplikacje Microsoft 365 dla firm/enterprise, od szerszego planu.
 
 ### <a name="additional-resources"></a>Dodatkowe zasoby
 
@@ -79,7 +79,7 @@ Aby uzyskać dalsze pytania dotyczące tych ofert, sprawdź odpowiednie Yammer s
 
 _________________
 
-## <a name="new-partner-center-capabilities-to-help-direct-bill-partners-complete-their-transition-to-indirect-reseller"></a><a id="6"/></a>Nowe Partner Center, które ułatwiają partnerom rozliczania bezpośredniego ukończenie przejścia na odsprzedawcę pośredniego
+## <a name="new-partner-center-capabilities-to-help-direct-bill-partners-complete-their-transition-to-indirect-reseller"></a><a id="6"/></a>Nowe Partner Center, które ułatwiają partnerom z rozliczeniami bezpośrednimi ukończenie przejścia na odsprzedawcę pośredniego
 
 ### <a name="categories"></a>Kategorie
 
@@ -109,7 +109,7 @@ Przejrzyj stronę [ofert CSP,](../csp-offers.md) aby uzyskać więcej informacji
 
 ### <a name="additional-resources"></a>Zasoby dodatkowe:
 
-- Artykuł pomocy Dostawca rozwiązań w chmurze pomocy dla odsprzedawcy pośredniego w programie [CSP (Transition from Dostawca rozwiązań w chmurze(CSP) direct bill](../transition-direct-to-indirect.md#move-your-direct-bill-customers-to-your-indirect-provider) partner to CSP indirect reseller help (Przejście z partnera z rozliczeniami bezpośrednimi (CSP) do odsprzedawcy pośredniego w programie C
+- [Przejście z partnera Dostawca rozwiązań w chmurze (CSP) do](../transition-direct-to-indirect.md#move-your-direct-bill-customers-to-your-indirect-provider) artykułu pomocy odsprzedawcy pośredniego w programie CSP
 - [Bezpośredni rachunek dla odsprzedawcy pośredniego](https://assetsprod.microsoft.com/mpn/direct-bill-transition-to-indirect-reseller-new-capability)
 
 ### <a name="next-steps"></a>Następne kroki
@@ -142,11 +142,11 @@ Ta zmiana ma wpływ tylko na użytkowników komercyjnych i rządowych.
 
 ### <a name="details"></a>Szczegóły
 
-1 kwietnia 2020 r. firma Microsoft wprowadzi nową pozycję SKU na poziomie wejściowym i ponownie Microsoft 365 Enterprise wiersza SKU.
+1 kwietnia 2020 r. firma Microsoft wprowadzi nową 1.08.2020 r. nową pozycję SKU na poziomie wejściowym i ponownie Microsoft 365 Enterprise wiersza SKU.
 
 **Rebranding O/M365 F1:** Obecnie znane jako Office/Microsoft 365 F1 staną się Office/Microsoft 365 F3. Wszyscy klienci zostaną wypełniani dodatkową wartością.
 
-**Nowa wersja SKU na poziomie wejściowym:** Nowa wersja SKU na poziomie wejściowym będzie nazywana Microsoft 365 F1 i będzie oferować wartość dostosowaną do firstline workers, rozszerzonej wartości zabezpieczeń i tożsamości dla wszystkich pracowników. Ta oferta obejmuje usługi Teams, SharePoint Online, Yammer Enterprise, Stream, EMS E3 oraz dostęp tylko do odczytu dla Office Web/Mobile Apps.
+**Nowa wersja SKU na poziomie wejściowym:** Nowa wersja SKU na poziomie wejściowym będzie nazywana Microsoft 365 F1 i będzie oferować wartość dostosowaną do pracowników pierwszej linii, rozszerzone zabezpieczenia i wartość tożsamości wszystkim pracownikom. Ta oferta obejmuje usługi Teams, SharePoint Online, Yammer Enterprise, Stream, EMS E3 oraz dostęp tylko do odczytu dla Office Web/Mobile Apps.
 
 Te zmiany zapewniają lepszą wartość dla pracowników pierwszej linii i umożliwiają partnerom dostęp do możliwości znacznego rozwoju użytkowników. **Zapoznaj się z [naszymi](https://partner.microsoft.com/resources/collection/Microsoft-365-firstline-offer-updates) dodatkowymi dokumentami tutaj, aby dowiedzieć się więcej o wartości oferty i kolejnych krokach.**
 
@@ -154,14 +154,14 @@ Te zmiany zapewniają lepszą wartość dla pracowników pierwszej linii i umoż
 |-------------------|:------|
 |1 marca 2020 r.|Nowa wersja SKU na poziomie wejściowym jest publikowana w cenniku wersji zapoznawczej z tymczasową nazwą Microsoft 365 F0|
 |W marcu|Firma Microsoft publicznie ujawni tę zmianę. W międzyczasie należy utworzyć swoje materiały marketingowe i przygotować wewnętrzne zespoły sprzedaży.|
-|1 kwietnia 2020 r.|— Na cenniku produkcyjnym nowa nazwa sku poziomu wejścia została zmieniona na Microsoft 365 F1 (M365 F0). — W cenniku produkcyjnym nazwa wcześniej znanej nazwy O/M365 F1 została zmieniona na O/M365 F3. — Na naszym za zaplecza klienci, którzy byli w Office 365 F1 i Microsoft 365 F1 do 31 marca 2020 r., zostali automatycznie przejści do planów Office i Microsoft 365 F3 2020 r. — Dodatkowa wartość jest wypełniana w planach zgodnie z poniższymi sekcjami.|
+|1 kwietnia 2020 r.|— W cenniku produkcyjnym nowa nazwa sku poziomu wejścia została zmieniona na Microsoft 365 F1 (M365 F0). — W cenniku produkcyjnym nazwa wcześniej znanej nazwy O/M365 F1 została zmieniona na O/M365 F3. — W za zapleczach klienci, którzy byli Office 365 F1 i Microsoft 365 F1 do 31 marca 2020 r., zostali automatycznie przejści do planów Office i Microsoft 365 F3. — Dodatkowa wartość jest wypełniana w planach, zgodnie z poniższymi sekcjami.|
 
 **Dodatkowa wartość zostanie wypełnić w planach M365 F1, O/M365 F3 1 kwietnia 2020 r.**
 
 ### <a name="office"></a>Office:
 
 - Microsoft Teams obejmuje teraz pełne uprawnienia A/V i uprawnienia do spełniania w przypadku jednostki SKU F (które zostaną odzwierciedlone w warunkach produktu w marcu)
-- Power Platform zwiększa się do 2000 kroków i możliwości tworzenia — dostępne tylko w M/O365 F3
+- Power Platform zwiększa się do 2000 kroków i możliwość tworzenia — dostępne tylko w M/O365 F3
 - Program Microsoft Planner będzie domyślnie dołączony do jednostki SKU F O/M365
 
 ### <a name="windows"></a>W systemie Windows:
@@ -170,13 +170,13 @@ Te zmiany zapewniają lepszą wartość dla pracowników pierwszej linii i umoż
 - Prawa do poprzednich wersji Windows uwzględnione w domyślnych warunkach produktu
 - Prawa do wirtualizacji w środowisku wstępnym uwzględnione w domyślnych warunkach produktu
 
-### <a name="ems"></a>Ems:
+### <a name="ems"></a>EMS:
 
 - E3 w obu Microsoft 365 F1 i F3 SKU
 
 ### <a name="next-steps"></a>Następne kroki
 
-Zapoznaj się z cennikiem wersji zapoznawczej. Należy pamiętać, że 1 kwietnia 2020 r. Microsoft 365 F0 zostanie Microsoft 365 F1. Z drugiej Microsoft 365 F1 zostanie Microsoft 365 F3.
+Zapoznaj się z cennikiem wersji zapoznawczej. Należy pamiętać, że 1 kwietnia 2020 r. Microsoft 365 F0 zostanie Microsoft 365 F1. Z drugiej Microsoft 365 F1 zostaną Microsoft 365 F3.
 
 **Sprawdź naszą zawartość [tutaj,](https://partner.microsoft.com/resources/collection/Microsoft-365-firstline-offer-updates#/)** aby dowiedzieć się więcej o wartości oferty i utworzyć wszystkie korzyści marketingowe, które mogą być potrzebne do przyspieszenia sprzedaży i tworzenia nowych możliwości.
 
@@ -184,7 +184,7 @@ Udostępnij te informacje wszystkim odpowiednim kontaktom w organizacji.
 
 **Pytania?**
 
-W przypadku jakichkolwiek dodatkowych pytań dotyczących tych ofert skontaktuj się z przedstawicielem w konto Microsoft zespołu.
+W przypadku dalszych pytań dotyczących tych ofert skontaktuj się z przedstawicielem w konto Microsoft zespołu.
 
 _________________
 
@@ -199,7 +199,7 @@ _________________
 
 ### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ:
 
-Partnerzy dostawcy CSP z bezpośrednim rachunkiem i dostawcą pośrednim w zakresie usług edukacyjnych i naukowych w zakresie oferty edukacyjnej/akademickiej
+Partnerzy dostawcy CSP z rozliczeniami bezpośrednimi i dostawcami pośrednimi w zakresie ofert edukacyjnych/akademickich
 
 ### <a name="summary"></a>Podsumowanie:
 
@@ -208,10 +208,10 @@ Nowe powiadomienie o funkcjonalności: Partnerzy mogą teraz poprawiać informac
 W ramach naszego dalszego zobowiązania do zgodnych rozwiązań biznesowych dla klientów i partnerów firma Microsoft wprowadziła automatyczną weryfikację wszystkich nowych zgłoszeń kont klientów w edukacji w celu zweryfikowania uprawnień klientów. Od momentu, gdy uruchomiliśmy funkcję automatycznej weryfikacji, zauważyliśmy rosnącą liczbę problemów weryfikacyjnych, ponieważ wprowadzono nieprawidłowe lub nieprawidłowe dane klientów. Aby usprawnić ten proces i zminimalizować opóźnienia procesu sprawdzania, postępuj zgodnie z poniższymi instrukcjami:
 
 - Aby skrócić czas badania weryfikacji zakończonych odmową w przypadku wiarygodnych zgłoszeń, wprowadź maksymalnie **dokładne**  i **pełne** dane klienta. Nie wprowadzaj w danych testowych/fikcyjnych.
-- Zapoznaj się **z przewodnikiem** Creating an education customer in Partner Center (Tworzenie klienta edukacyjnego w edukacji w edukacji) i add **new customer** page (Dodawanie nowego klienta) i dokumentem what is required when creating a new education customer in Partner Center (Tworzenie nowego klienta edukacyjnego w edukacji w Partner Center). Oba te zasoby można znaleźć w poniższej galerii zasobów.
+- Zapoznaj się **z przewodnikiem** Creating an education customer in Partner Center (Tworzenie klienta edukacyjnego w edukacji w edukacji) i stroną Add **new customer** (Dodawanie nowego klienta) i dokumentem what is required when creating a new education customer in Partner Center (Tworzenie nowego klienta edukacyjnego w edukacji w Partner Center). Oba te zasoby można znaleźć w poniższej galerii zasobów.
 
 >[!NOTE] 
->Przewodnik **Tworzenie klienta** edukacyjnego w Partner Center zawiera teraz instrukcje krok po kroku dotyczące poprawiania informacji o klientach i ponownego prześlij je, jeśli klient nie zakończył się niepowodzeniem.
+>Przewodnik **Tworzenie klienta edukacyjnego** w Partner Center zawiera teraz instrukcje krok po kroku dotyczące poprawiania informacji o klientach i ponownego prześlij je, jeśli klient nie powiódł się.
 
 **Następne kroki/dodatkowe zasoby:**
 
@@ -220,7 +220,7 @@ Kolekcja galerii zasobów aktualizacji programu CSP: [zmiany w programie Authori
 ### <a name="change-log"></a>Dziennik zmian:
 
 - Data oryginalnej publikacji: 19 grudnia 2019 r.
-- Aby skontaktować się z pomocą techniczną, jeśli nowi partner sprzedaży ofert edukacyjnych zostaną usunięci (nie jest to już wymagane): 13 stycznia 2020 r.
+- Aby skontaktować się z pomocą techniczną w przypadku usunięcia nowych ofert edukacyjnych partnerów sprzedaży (nie jest to już wymagane): 13 stycznia 2020 r.
 - Dodano aktualizację z lutego 2020 r.: 10 lutego 2020 r.
 - Powiadomienie o nowej możliwości poprawiania informacji o koncie klienta i ponownego wysyłania do vettingu: 10 marca 2020 r.
 
@@ -240,7 +240,7 @@ W kwietniu 2020 r. firma Microsoft rozszerza zakres i wartość Microsoft 365 pl
 
 ### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ:
 
-Wszyscy partnerzy w ramach programu Dostawca rozwiązań w chmurze (CSP).
+Wszyscy partnerzy inicjujące transakcje za pośrednictwem Dostawca rozwiązań w chmurze (CSP).
 
 ### <a name="details"></a>Szczegóły
 
@@ -253,9 +253,9 @@ Firma Microsoft wprowadzi nową, wpisaną na poziomie SKU dla pracowników front
 **Dowiedz się więcej, sprawdzając inne [zasoby tutaj](https://partner.microsoft.com/resources/collection/Microsoft-365-firstline-offer-updates#/)**
 
 ### <a name="microsoft-365-for-unattended-scenarios"></a>Microsoft 365 scenariuszy nienadzorowanych
-Microsoft 365 E3 — licencja nienadzorowana umożliwia korzystanie z aplikacji Office z usługami lub innymi kontami użytkowników, co jest typowe podczas wykonywania procesu automatyzacji. Nadal zalecamy, aby procesy automatyzacji wykorzystywały interfejsy API produktów, takie jak [microsoft Graph,](https://graph.microsoft.com/) gdy jest to możliwe. Jednak ta nowa licencja może zapewnić nową opcję pracy z danymi i narzędziami zwiększających produktywność.
+Microsoft 365 E3 — licencja nienadzorowana umożliwia korzystanie z aplikacji Office z usługą lub innymi kontami użytkowników, co jest typowe podczas wykonywania procesu automatyzacji. Nadal zalecamy, aby procesy automatyzacji wykorzystywały interfejsy API produktów, takie jak [microsoft Graph,](https://graph.microsoft.com/) gdy jest to możliwe. Jednak ta nowa licencja może zapewnić nową opcję pracy z danymi i narzędziami zwiększających produktywność.
 
-Sprawdź następującą ofertę w cenniku wersji zapoznawczej: Microsoft 365 E3 dla nienadzorowanych usług RPA: ec3ac2d1-dd66-475a-95c8-59c32c472778
+Sprawdź następującą ofertę w cenniku wersji zapoznawczej: Microsoft 365 E3 for unattended RPA: ec3ac2d1-dd66-475a-95c8-59c32c472778
 
 ### <a name="teams-premium-messaging"></a>Teams Premium komunikatów
 
@@ -274,7 +274,7 @@ Zapoznaj się z cennikiem wersji zapoznawczej i udostępnij te informacje wszyst
 
 **Pytania?**
 
-W przypadku jakichkolwiek dodatkowych pytań dotyczących tych ofert skontaktuj się z przedstawicielem w konto Microsoft zespołu.
+W przypadku dalszych pytań dotyczących tych ofert skontaktuj się z przedstawicielem w konto Microsoft zespołu.
 
 _________________
 
@@ -317,15 +317,15 @@ Zobacz konkretne zmiany w pliku o nazwie "Dynamics CSP Offer Updates–Mar 2020"
 
 - [Strona główna usługi Dynamics 365](https://dynamics.microsoft.com/)
 - [strona główna przewodnika po aplikacjach Mixed Reality Apps](https://dynamics.microsoft.com/mixed-reality/guides/)
-- [Strona główna fałszowania usługi Biz Apps](/dynamics365/fraud-protection/overview)
-- [Aktualizacje licencjonowania aplikacji PowerApps i Flow FY20](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
+- [Strona główna oszustw związanych z aplikacjami biz apps](/dynamics365/fraud-protection/overview)
+- [Aktualizacje licencjonowania usług PowerApps i Flow FY20](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Licencjonowanie usługi Microsoft Dynamics 365](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 - [Dynamics 365 i Power Platform— dostępność, lokalizacja danych, język i zawartość lokalizacji](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 
 ### <a name="next-steps"></a>Następne kroki
 
-- Udostępnij te informacje odpowiednim kontaktom w organizacji.<br>
-- Jeśli chcesz uzyskać więcej szczegółów na temat aktualizacji licencjonowania i oferty, zapoznaj się  z naszą zawartością na temat gotowości wymienioną w sekcji Dodatkowe zasoby w poprzedniej sekcji i w chmurze PartnerSource.<br>
+- Udostępnij te informacje odpowiednim kontaktom w twojej organizacji.<br>
+- Jeśli chcesz uzyskać więcej informacji na temat aktualizacji licencjonowania i oferty, zapoznaj się  z zawartością na temat gotowości wymienioną w sekcji Dodatkowe zasoby w poprzedniej sekcji i w chmurze PartnerSource.<br>
 - Jeśli potrzebujesz pomocy technicznej dotyczącej operacji wykonywanych przez firmę Microsoft, skontaktuj [się z pomocą techniczną.](https://partner.microsoft.com/pcv/servicerequests/create)
 
 _________________
@@ -341,7 +341,7 @@ _________________
 
 ### <a name="summary"></a>Podsumowanie:
 
-Firma Microsoft usuwa wymaganie wstępne Windows E3 z usługi Zaawansowana ochrona przed zagrożeniami w usłudze Microsoft Defender (MDATP), umożliwiając mdatp dla wszystkich obsługiwanych urządzeń klienckich.
+Firma Microsoft usuwa wymaganie wstępne Windows E3 z usługi Zaawansowana ochrona przed zagrożeniami w usłudze Microsoft Defender (MDATP), co umożliwia mdatp dla wszystkich obsługiwanych urządzeń klienckich.
 
 ### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ:
 
@@ -353,7 +353,7 @@ Firma Microsoft usuwa wymaganie wstępne Windows E3 z Zaawansowana ochrona przed
 
 Aby włączyć ten model biznesowy, firma Microsoft uruchomiła autonomiczną ofertę dla programu CSP i jest teraz dostępna.
 
-Ponadto nie ma żadnych zmian w istniejących ofertach Windows E5, Zabezpieczenia platformy Microsoft 365 E5 i Microsoft 365 E5, ponieważ te oferty będą nadal zawierały mdatp.
+Ponadto nie ma żadnych zmian w istniejących ofertach Windows E5, Zabezpieczenia platformy Microsoft 365 E5 i Microsoft 365 E5, ponieważ te oferty będą nadal zawierały mdATP.
 
 ### <a name="product-offer"></a>Oferta produktu:
 
@@ -362,12 +362,12 @@ Ponadto nie ma żadnych zmian w istniejących ofertach Windows E5, Zabezpieczeni
 
 ### <a name="next-steps"></a>Następne kroki
 
-- Udostępnij te informacje odpowiednim kontaktom w organizacji.
-- Aby uzyskać więcej informacji na temat Zaawansowana ochrona przed zagrożeniami w usłudze Microsoft Defender, przeczytaj: [https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?ocid=cx-blog-mmpc](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?ocid=cx-blog-mmpc)
+- Udostępnij te informacje odpowiednim kontaktom w twojej organizacji.
+- Aby uzyskać więcej informacji na Zaawansowana ochrona przed zagrożeniami w usłudze Microsoft Defender, przeczytaj: [https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?ocid=cx-blog-mmpc](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?ocid=cx-blog-mmpc)
 
 **Pytania?**
 
-Jeśli masz pytania dotyczące operacji wykonywanych przez firmę Microsoft, skontaktuj się z pomocą techniczną za pośrednictwem pulpitu nawigacyjnego partnera pod adres: https://partner.microsoft.com/pcv/servicerequests/create .
+Jeśli masz pytania związane z operacjami wykonywanymi przez firmę Microsoft, skontaktuj się z pomocą techniczną za pośrednictwem pulpitu nawigacyjnego partnera na stronie: https://partner.microsoft.com/pcv/servicerequests/create .
 
 ### <a name="change-log"></a>Dziennik zmian
 

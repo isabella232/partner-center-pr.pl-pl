@@ -9,12 +9,12 @@ ms.subservice: partnercenter-billing
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2eb2f98302a597e5e11ae3ff394d077566dd0e44cf0dac0286cc31e74bb62803
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: c741caa6993a5da415d3a94d541bf10c21470889
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115678394"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959242"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>Informacje Partner Center pól faktury rozliczeniowej
 
@@ -24,7 +24,7 @@ Poniższe tabele zawierają informacje o polach w Partner Center faktur.
 
 ## <a name="invoice-file-fields"></a>Pola pliku faktury
 
-Następujące pola są wyświetlane w plikach faktur.
+W plikach faktur są wyświetlane następujące pola.
 
 | Pole | Definicja |
 | ----- | ---------- |
@@ -36,14 +36,14 @@ Następujące pola są wyświetlane w plikach faktur.
 | Rabaty | Rabat, który klient otrzymuje ze zwykłej ceny subskrypcji. Ta liczba jest wyświetlana jako kwota *płaska,* a nie jako cena za jednostkę lub licencję. |
 | Środki | Środki lub korekty zmian wprowadzonych w subskrypcjach (na przykład zwiększenie lub zmniejszenie liczby licencji). |
 | Suma częściowa | Suma przed podatkami oraz opłaty i środki z tytułu zwolnienia z podatku. |
-| Podatek | Łączny podatek dla bieżących opłat, zgodnie z sumą w sekcji **Szczegóły,** począwszy od strony 2 faktury. Ta liczba jest sumą wszystkich opłat w kolumnie **TaxAmount** (kolumna **AA**)  w pliku uzgodnień na podstawie użycia oraz kolumną Tax (kolumna **U)** w pliku uzgodnień opartym na licencjach. |
+| Podatek | Łączny podatek dla bieżących opłat, zgodnie z sumą w sekcji **Szczegóły,** począwszy od strony 2 faktury. Ta liczba jest sumą wszystkich opłat w kolumnie **TaxAmount** (kolumna **AA)** w  pliku uzgodnień na podstawie użycia oraz kolumną Tax (kolumna **U)** w pliku uzgodnień opartym na licencjach. |
 | Inne środki | Środki na wyłączność z podatku. |
 | Łączne bieżące opłaty | Kwota należna w walucie rozliczeniowej dla okresu rozliczeniowego. Te opłaty są należne w terminie płatności. |
 | Instrukcje dokonywania płatności | Opis sposobu płacenia faktury w zależności od regionu. *Zawsze pamiętaj, aby podczas dokonywania płatności uwzględnić numer faktury.* |
 | Faktura nie | Numer faktury. |
 | Okres rozliczeniowy | Okres miesięczny przed datą faktury. Jest to okres, w którym są używane usługi oparte na użyciu, a usługi oparte na licencjach są uzgadniane na wszelkie korekty środków lub zmiany liczby licencji. |
 | Data faktury | Data rozliczeniowa lub data rocznicy, w której faktura jest generowana co miesiąc. |
-| Warunki płatności | Termin płatności. W przypadku zakupów jednego typu zawsze będzie to 60 dni. |
+| Warunki płatności | Termin płatności. W przypadku zakupów jednego dnia będzie to zawsze 60 dni. |
 | Termin płatności | Data, do której należy odebrać płatność. |
 | Customer PO | Zamówienie numeru zakupu. |
 | Obsługa klienta | Adres witryny internetowej, pod którym można uzyskać dostęp do obsługi klienta. |

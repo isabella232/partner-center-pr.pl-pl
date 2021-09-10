@@ -8,16 +8,16 @@ description: Ten interfejs API umożliwia uzyskiwanie wszystkich dostępnych zap
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 943eea26a08f1072b6ddcaf8136b7f9f757d52b8c0170f03519b8787c1877bd3
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 5f65784ce93350c92e0ffe38849ce505f045e0b0
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695190"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959062"
 ---
-# <a name="get-report-queries-api"></a>Get report queries API
+# <a name="get-report-queries-api"></a>Interfejs API zapytań dotyczących raportów
 
-Interfejs API Pobierz zapytania dotyczące raportów pobiera wszystkie zapytania, które są dostępne do użycia w raportach. Domyślnie pobiera wszystkie zapytania systemowe i zdefiniowane przez użytkownika.
+Interfejs API get report queries pobiera wszystkie zapytania, które są dostępne do użycia w raportach. Domyślnie pobiera wszystkie zapytania systemowe i zdefiniowane przez użytkownika.
 
 **Składnia żądania**
 
@@ -42,8 +42,8 @@ Brak
 
 |    Nazwa parametru    |    Typ    |    Wymagane    |    Opis    |
 |    ----    |    ----    |    ----    |    ----    |
-|    queryId     |    ciąg     |    Nie    |    Filtrowanie w celu uzyskania szczegółów dotyczących tylko zapytań o identyfikatorze podanym w argumentze     |
-|    nazwa_zapytania     |    ciąg     |    Nie    |    Filtrowanie w celu uzyskania szczegółów dotyczących tylko zapytań o nazwie podanej w argumentie     |
+|    queryId     |    ciąg     |    Nie    |    Filtrowanie w celu uzyskania szczegółów tylko zapytań o identyfikatorze podanym w argumentze     |
+|    nazwa_zapytania     |    ciąg     |    Nie    |    Filtrowanie w celu uzyskania szczegółów tylko zapytań o nazwie podanej w argumentze     |
 |    IncludeSystemQueries     |    boolean     |    Nie    |    Uwzględnianie wstępnie zdefiniowanych zapytań systemowych w odpowiedzi     |
 |    IncludeOnlySystemQueries     |    boolean     |    Nie    |    Uwzględnianie w odpowiedzi tylko zapytań systemowych     |
 |        |        |        |        |
@@ -97,7 +97,7 @@ W tej tabeli zdefiniowano kluczowe elementy odpowiedzi:
 |    Typ     |    Ustaw wartość userDefined dla zapytań utworzonych przez użytkownika i systemu dla wstępnie zdefiniowanych zapytań systemowych     |
 |    Użytkownik     |    Identyfikator użytkownika, który utworzył zapytanie     |
 |    CreatedTime     |    Czas utworzenia zapytania     |
-|    TotalCount     |    Liczba zestawów danych w tablicy Value     |
-|    Komunikat     |    Komunikat o stanie z wykonywania interfejsu API     |
+|    Łączna liczba     |    Liczba zestawów danych w tablicy Value     |
+|    Komunikat     |    Komunikat o stanie z wykonania interfejsu API     |
 |    Statuscode     |    Kod wyniku. Możliwe wartości to 200, 400, 401, 403, 500     |
 |        |        |

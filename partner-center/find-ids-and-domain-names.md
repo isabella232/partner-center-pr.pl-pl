@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 6f701d3f1b69add9b5ca6691f36f018b00414aa1309fa08351158bdb06e02a87
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: db730436e88118c24aa966c1023ffeeadd20548a
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115683977"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958629"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Lokalizowanie ważnych identyfikatorów dla użytkownika
 
@@ -45,7 +45,7 @@ Wykonaj następujące kroki, aby zlokalizować identyfikator dzierżawy usługi 
 
    :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="Przedstawia stronę Przegląd z dwoma wyróżnione polami: identyfikatorem dzierżawy i nazwą domeny podstawowej.":::
 
-4. Identyfikator dzierżawy można znaleźć w Azure Portal na kilka innych sposobów. Wybierz **Azure Active Directory** z menu. Następnie znajdź **sekcję Zarządzanie** w menu i wybierz pozycję **Właściwości.**
+4. Identyfikator dzierżawy można znaleźć w Azure Portal na kilka innych sposobów. Wybierz **Azure Active Directory** z menu. Następnie znajdź sekcję **Zarządzanie** w menu i wybierz pozycję **Właściwości**.
 
    Na stronie Właściwości jest również wyświetlany skojarzony z użytkownikiem identyfikator dzierżawy.
 
@@ -61,7 +61,7 @@ Samo znalezienie nazwy domeny i identyfikatora dzierżawy może nie być wystarc
 
 3. Znajdź **sekcję Zarządzanie** w menu, a następnie wybierz pozycję **Użytkownicy.**
 
-      :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="Wyświetla Azure Active Directory menu z wyróżniona opcją Użytkownicy.":::
+      :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="Wyświetla Azure Active Directory menu z wyróżnione, opcja Użytkownicy.":::
 
 4. Na stronie Użytkownicy wpisz nazwę użytkownika w polu wyszukiwania.
 

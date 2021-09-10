@@ -10,15 +10,15 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 625fd493b026faac924ff8a7a5af8dccb59ab7b3
-ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "123457858"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958149"
 ---
 # <a name="give-customers-free-trials-of-microsoft-products"></a>Zapewnij klientom bezpłatne wersje próbne produktów firmy Microsoft
 
-**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent sprzedaży
+**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent sprzedaży
 
 Dobrym sposobem na wprowadzenie klientów do nowych produktów firmy Microsoft jest oferta 30-dniowych bezpłatnych wersji próbnych. Możesz zarejestrować się, aby korzystać z wersji próbnych w katalogu, podobnie jak wiele innych Usługi online. Wszyscy partnerzy mogą uczestniczyć w programie.
 
@@ -54,14 +54,14 @@ Uzyskaj wersję próbną dla klienta w Partner Center:
 
 Bezpłatna wersja próbna nie jest automatycznie konwertowana na płatną subskrypcję. Po upływie 30 dni bezpłatna wersja próbna musi zostać przekonwertowana na płatną subskrypcję. W przypadku, gdy subskrypcja wygaśnie, subskrypcja [wygaśnie.](#expiring-offers) Bezpłatnych wersji próbnych nie można rozszerzyć.
 
-Musisz samodzielnie przekonwertować wersję próbną na płatną subskrypcję. Możesz to zrobić za [pomocą Partner Center](#convert-trials-using-partner-center) lub [za pośrednictwem Partner Center API.](#convert-trials-using-apis)
+Musisz samodzielnie przekonwertować wersję próbną na płatną subskrypcję. Możesz to zrobić przy [użyciu interfejsu Partner Center](#convert-trials-using-partner-center) lub [za pośrednictwem interfejsów PARTNER CENTER API.](#convert-trials-using-apis)
 
 > [!NOTE]
-> Bezpłatne wersje próbne klienta programu Dostawca rozwiązań w chmurze (CSP) nie mogą zostać przekonwertowane na inną dzierżawę programu (taką jak EA, Open lub MOSP).
+> Bezpłatne wersje próbne klienta dla programu Dostawca rozwiązań w chmurze (CSP) nie mogą zostać przekonwertowane na inną dzierżawę programu (taką jak EA, Open lub MOSP).
 
 ### <a name="convert-trials-using-partner-center"></a>Konwertowanie wersji próbnych przy użyciu Partner Center
 
-Wersje próbne można konwertować na płatne subskrypcje przy użyciu Partner Center:
+Wersje próbne można przekonwertować na płatne subskrypcje przy użyciu Partner Center:
 
 1. Przejdź do strony subskrypcji klienta i wybierz bezpłatną wersję próbną.
 2. Wybierz pozycję **Konwertuj wersję próbną na płatną subskrypcję.**
@@ -102,9 +102,9 @@ Po upływie 30 dni bezpłatna wersja próbna zostanie automatycznie odnowiona na
 Możesz samodzielnie przekonwertować wersję próbną na płatną subskrypcję. Możesz to zrobić za pomocą Partner Center lub za pośrednictwem Partner Center API. 
 
 > [!NOTE]
-> Bezpłatne wersje próbne klienta programu Dostawca rozwiązań w chmurze (CSP) nie mogą zostać przekonwertowane na inną dzierżawę programu (taką jak EA, Open lub MOSP).
+> Bezpłatne wersje próbne klienta dla programu Dostawca rozwiązań w chmurze (CSP) nie mogą zostać przekonwertowane na inną dzierżawę programu (taką jak EA, Open lub MOSP).
 
-### <a name="convert-new-commerce-trials-using-partner-center"></a>Konwertowanie nowych wersji próbnych dla handlu przy użyciu Partner Center
+### <a name="convert-new-commerce-trials-using-partner-center"></a>Konwertowanie nowych wersji próbnych handlu przy użyciu Partner Center
 
 > [!Note] 
 > Nowe zmiany w handlu są obecnie dostępne tylko dla partnerów, którzy są częścią nowego doświadczenia handlowego M365/D365 w wersji Technical Preview.

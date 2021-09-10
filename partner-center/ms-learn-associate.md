@@ -10,11 +10,11 @@ ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: d78009e66f8a12779e96d08a16a2877a6e88fc5d
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121915417"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958533"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Łączenie lub odłączanie identyfikatora profilu certyfikacji firmy Microsoft (MCID) z kontem Microsoft Partner Network (MPN)
 
@@ -31,7 +31,7 @@ Aby uzyskać dostęp do uczelni Partner University, użyj poniższej procedury.
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 2. Wybierz niebieską **ikonę Mój profil** w prawym górnym rogu
-3. W polu **Twoja Edukacja** wybierz pozycję Uzyskaj dostęp do **uczelni partnerskiej.** Musisz wprowadzić poświadczenia konta usługi Partner University (a nie konto Partner Center) Twoje konto uczelni partnerskiej zostanie teraz skojarzone z Twoim Partner Center kontem użytkownika. Oceny zostaną odzwierciedlone w raporcie umiejętności Partner Center użytkownika w ciągu 72 godzin.
+3. W polu **Twoja Edukacja** wybierz pozycję Uzyskaj dostęp do **uczelni partnerskiej.** Musisz wprowadzić poświadczenia konta uczelni Partner University (nie konto Partner Center) Twoje konto uczelni partnerskiej zostanie teraz skojarzone z Twoim Partner Center kontem użytkownika. Oceny zostaną odzwierciedlone w raporcie umiejętności Partner Center użytkownika w ciągu 72 godzin.
 4. Aby usunąć skojarzenie, wybierz **pozycję Usuń dostęp.**
 
 ## <a name="associate-a-microsoft-learning-account"></a>Kojarzenie konta Edukacja Microsoft
@@ -39,21 +39,21 @@ Aby uzyskać dostęp do uczelni Partner University, użyj poniższej procedury.
 Użyj poniższej procedury, aby skojarzyć konto Edukacja Microsoft. 
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
-2. Na stronie profilu przewiń w dół do pola **Egzaminy** i certyfikaty firmy Microsoft, a następnie wybierz pozycję **Skojarz konto Edukacja Microsoft.**
+2. Na stronie profilu przewiń w dół do pola **Egzaminy** i certyfikaty firmy Microsoft, a następnie wybierz pozycję Skojarz **Edukacja Microsoft.**
 3. Po wyświetleniu monitu wprowadź poświadczenia używane do logowania się do profilu certyfikacji firmy Microsoft (Twojego mcid).
 
 >[!NOTE]
 >Jeśli poświadczenia konta Edukacja Microsoft są takie same jak poświadczenia konta witryny Partner University, wybierz pozycję Użyj, aby skojarzyć moje **email@address Edukacja Microsoft.**
 
 ## <a name="download-skills-report-microsoft-certification-list"></a>Pobieranie raportu umiejętności (lista certyfikacji firmy Microsoft)
-Jeśli potrzebujesz szczegółowych informacji, raport umiejętności będzie dostępny i pobrany przez dowolnego administratora globalnego lub administratora partnera MPN z Partner Center. Aby [dowiedzieć się więcej.](./mpn-skills-report.md#view-skills-report-data)
+Jeśli potrzebujesz szczegółowych informacji, możesz uzyskać dostęp do tych umiejętności i pobrać je od dowolnego administratora globalnego lub administratora partnera MPN z Partner Center. Aby [dowiedzieć się więcej.](./mpn-skills-report.md#view-skills-report-data)
 
 
 ## <a name="frequently-asked-questions-about-linking-accounts"></a>Często zadawane pytania dotyczące łączenia kont
 
 ### <a name="how-can-a-user-link-their-microsoft-certification-profile-id-mcid-with-the-microsoft-partner-network-mpn-organization-they-work-for"></a>Jak użytkownik może połączyć swój identyfikator profilu certyfikacji firmy Microsoft (MCID) z organizacją Microsoft Partner Network (MPN), dla których pracuje?
 
-Użytkownicy powinni zalogować się do witryny Partner Center i przejść do witryny **Mój profil, a następnie** wybrać pozycję Pobierz **konto witryny Partner University** lub skojarzyć konto microsoft Edukacja **i** wprowadzić swoje poświadczenia. Aby skojarzyć konto Edukacja Microsoft, użytkownik musi wprowadzić nazwę użytkownika i hasło używane do logowania się do profilu certyfikacji firmy Microsoft (MCID). Ze względu na kwestie związane z prywatnością użytkownicy muszą samodzielnie ukończyć proces łączenia konta.  
+Użytkownicy powinni zalogować się do witryny Partner Center i przejść do witryny **Mój profil, a następnie** wybrać pozycję Pobierz **konto witryny Partner University** lub skojarzyć konto microsoft Edukacja **i** wprowadzić swoje poświadczenia. Aby skojarzyć konto Edukacja Microsoft, użytkownik musi wprowadzić nazwę użytkownika i hasło używane do logowania się do swojego profilu certyfikacji firmy Microsoft (MCID). Ze względu na kwestie związane z prywatnością użytkownicy muszą samodzielnie ukończyć proces łączenia konta.  
 
 ### <a name="how-can-a-user-unlink-their-mcid-from-the-mpn-organization-they-work-for"></a>Jak użytkownik może odłączyć identyfikator MCID od organizacji MPN, dla których pracuje?
 
@@ -83,6 +83,6 @@ W przypadku pytań związanych z procesem scalania profilu certyfikacji firmy Mi
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Role i uprawnienia użytkowników](./permissions-overview.md)
+- [Role użytkowników i uprawnienia](./permissions-overview.md)
 - [Kompetencje](https://partner.microsoft.com/membership/competencies)
 - [Raport Microsoft Learn analizy danych przedstawia stan uczniów w firmie](ms-learn-analytics.md)

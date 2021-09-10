@@ -9,14 +9,14 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ed3bd35e25f21a9803eac10d7c6308e3eaa1f715451c00ee2943e92533fc4d2
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 457a5197ea9bcfaf2d9c936b7483b33688b1cb41
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115689276"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958257"
 ---
-# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Raport korzyści dostępny na pulpicie nawigacyjnym Partner Center Szczegółowe informacje nawigacyjnym
+# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Raport korzyści dostępny na pulpicie Partner Center Szczegółowe informacje nawigacyjnym
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny | Przeglądarka raportów | Przeglądarka raportów dla kierownictwa
 
@@ -38,9 +38,9 @@ W raporcie Korzyści można wizualizować następujące wykresy:
 
 ## <a name="summary"></a>Podsumowanie
 
-Sekcja Podsumowanie zawiera korzyści przyznane w ramach licencjonowanego oprogramowania, usług w chmurze (spoza platformy Azure), subskrypcji usługi Visual Studio, pomocy technicznej oraz niektórych usług lub ofert w ramach programu Go-To-Market.
+Sekcja Podsumowanie zawiera korzyści przyznane w ramach licencjonowanego oprogramowania, usług w chmurze (spoza platformy Azure), subskrypcji usługi Visual Studio, pomocy technicznej i niektórych usług lub ofert w ramach programu Go-To-Market.
 
-Przykład: Microsoft Partner Network członkostwa w programie (MPN) kwalifikują się do pomocy technicznej dla produktów w środowisku lokalnym i produktów w chmurze. Partnerzy, którzy zdają kompetencję Silver, mają wsparcie techniczne dla 15 zdarzeń w przypadku produktów w środowisku lokalnym. W razie potrzeby mogą korzystać z tej pomocy technicznej. 
+Przykład: Microsoft Partner Network (MPN) kwalifikują się do pomocy technicznej dotyczącej produktów i produktów w chmurze. Partnerzy, którzy zdają kompetencję Silver, mają wsparcie techniczne dla 15 zdarzeń w przypadku produktów w środowisku lokalnym. W razie potrzeby mogą korzystać z tej pomocy technicznej. 
 
 :::image type="content" source="images/insights/benefits-summary.png" alt-text="podsumowanie korzyści.":::
 
@@ -75,9 +75,9 @@ Wybierz kartę w górnej części wykresu, aby wyświetlić trend konkretnej prz
 
 ## <a name="go-to-market-offers-or-services"></a>Oferty lub usługi w celu wejścia na rynek
 
-Ten wykres przedstawia miesięczny trend ofert lub usług w ramach wejścia na rynek aktywowanych względem przydzielonych w wybranym zakresie dat oraz dla wybranej oferty lub kategorii usług w ramach wejścia na rynek.
+Ten wykres przedstawia miesięczny trend ofert lub usług w ramach wejścia na rynek aktywowanych względem przydzielonych w wybranym zakresie dat i dla wybranej oferty lub kategorii usługi w ramach wejścia na rynek.
 
-Wybierz ofertę lub kategorię usługi Przejdź na rynek z listy rozwijanej w górnej części wykresu, aby wyświetlić trend wybranych usług przejdź na rynek przyznanych Twojej firmie. Kolumny na wykresie reprezentują aktywowane oferty lub usługi w trybie go-to-market. Wykres liniowy przedstawia ogólną ofertę lub usługi dla usług oferowanych na platformie Go-To-Market dla Twojej firmy.
+Wybierz ofertę lub kategorię usługi Przejdź na rynek z listy rozwijanej w górnej części wykresu, aby wyświetlić trend wybranych usług przejdź na rynek przyznanych Twojej firmie. Kolumny na wykresie reprezentują aktywowane oferty lub usługi w trybie go-to-market. Wykres liniowy przedstawia ogólną ofertę lub usługi dla produktów na rynek przyznane Twojej firmie.
 
 :::image type="content" source="images/insights/benefits-go-to-market.png" alt-text="Oferty z usługą Go-To-Market.":::
 

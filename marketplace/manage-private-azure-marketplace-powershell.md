@@ -8,12 +8,12 @@ ms.service: marketplace-customer
 ms.devlang: azurepowershell
 ms.date: 11/24/2020
 ms.custom: devx-track-azurepowershell
-ms.openlocfilehash: 1aa734e30c73cd1d3c28c4a77af000a1abadaf16676508c3d986bb23b3a2d2d7
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d7bd790eab2618822dbc5099ad1ad107794c82d2
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688543"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123937010"
 ---
 # <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>Szybki start: zarządzanie prywatną usługą Azure Marketplace pomocą programu PowerShell
 
@@ -26,7 +26,7 @@ W tym artykule opisano, jak można zarządzać ofertami w prywatnej Azure Market
 
 * Jeśli nie masz subskrypcji platformy Azure, przed rozpoczęciem utwórz [bezpłatne](https://azure.microsoft.com/free/) konto.
 
-* Jeśli zdecydujesz się używać Azure PowerShell lokalnie:
+* Jeśli zdecydujesz się używać Azure PowerShell lokalnego:
   * [Zainstaluj moduł Az programu PowerShell.](/powershell/azure/install-az-ps)
   * Połączenie konta platformy Azure przy użyciu [polecenia cmdlet Połączenie-AzAccount.](/powershell/module/az.accounts/connect-azaccount)
 * Jeśli zdecydujesz się używać Azure Cloud Shell:
@@ -39,7 +39,7 @@ W tym artykule opisano, jak można zarządzać ofertami w prywatnej Azure Market
   Install-Module -Name Az.Marketplace
   ```
 
-* Jeśli masz wiele subskrypcji platformy Azure, wybierz odpowiednią subskrypcję, w ramach której mają być naliczane opłaty za zasoby. Wybierz określoną subskrypcję za pomocą polecenia cmdlet [Set-AzContext.](/powershell/module/az.accounts/set-azcontext)
+* Jeśli masz wiele subskrypcji platformy Azure, wybierz odpowiednią subskrypcję, w ramach której mają być naliczane opłaty za zasoby. Wybierz określoną subskrypcję przy użyciu polecenia cmdlet [Set-AzContext.](/powershell/module/az.accounts/set-azcontext)
 
   ```azurepowershell-interactive
   Set-AzContext -SubscriptionId 00000000-0000-0000-0000-000000000000
@@ -146,4 +146,4 @@ Remove-AzMarketplacePrivateStoreOffer -privateStoreId 00000000-0000-0000-0000-00
 
 ## <a name="next-steps"></a>Następne kroki
 
-[Tworzenie prywatnych aplikacji i zarządzanie nimi Azure Marketplace](create-manage-private-azure-marketplace.md).
+[Tworzenie aplikacji prywatnych i zarządzanie Azure Marketplace](create-manage-private-azure-marketplace.md).

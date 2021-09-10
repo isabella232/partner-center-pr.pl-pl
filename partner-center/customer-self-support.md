@@ -9,28 +9,28 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b837be9624f18ac634b3f05a7e51ebef70cadc716894fd9d2fae916da387ab3a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 5163952f7fa90c13001cfdb160558d0ee7462691
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690124"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959133"
 ---
-# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Samoobsługa klienta za pośrednictwem Microsoft Office 365 administracyjnego lub za pośrednictwem Azure Portal
+# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Samodzielne wsparcie klienta za pośrednictwem Microsoft Office 365 administracyjnego lub za pośrednictwem Azure Portal
 
 **Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
 
 **Odpowiednie role:** Agent pomocy technicznej
 
-Klienci mogą zalogować się do Microsoft Office 365 administracyjnego lub do Azure Portal, aby zarządzać własnymi kontami:
+Klienci mogą logować się do własnego Microsoft Office 365 administracyjnego lub do Azure Portal, aby zarządzać własnymi kontami:
 
-- Wyświetl informacje o komunikacji i powiadomieniach w produkcie, takie jak informacje o kondycji usługi, w Centrum wiadomości.
+- Wyświetlanie komunikatów i powiadomień w produkcie, takich jak informacje o kondycji usługi, w Centrum wiadomości.
 
-- Wykonaj wszystkie zadania administracyjne i konfigurację usługi tak, jakby zostały zakupione bezpośrednio od firmy Microsoft. Te zadania obejmują konfigurowanie Exchange Online, SharePoint Online, Skype dla firm lub innych zakupionych usług.
+- Wykonaj wszystkie zadania konfiguracyjne i administracyjne usługi tak, jakby zostały zakupione bezpośrednio od firmy Microsoft. Te zadania obejmują konfigurowanie usług Exchange Online, SharePoint Online, Skype dla firm lub innych zakupionych usług.
 
 Aby kupić dodatkowe subskrypcje lub anulować subskrypcje, klienci powinni skontaktować się ze swoim Dostawca rozwiązań w chmurze partnerem. Klienci nie mogą zmieniać własnych subskrypcji bezpośrednio z firmą Microsoft.
 
-Jeśli klienci potrzebują pomocy dotyczącej produktów, mogą znaleźć zasoby produktów na stronie [pomocy technicznej](https://partnercenter.microsoft.com/partner/support). Zachęcamy partnerów, aby w pierwszym kroku wskazali swoim klientom te zasoby.
+Jeśli klienci potrzebują pomocy dotyczącej produktów, mogą znaleźć zasoby produktów na stronie [Pomoc techniczna.](https://partnercenter.microsoft.com/partner/support) Zachęcamy partnerów, aby w pierwszym kroku wskazali swoim klientom te zasoby.
 
  
 

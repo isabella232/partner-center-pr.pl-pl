@@ -10,29 +10,29 @@ ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 576845e9e5a5cf999415952a14023fc81c15fa32
-ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "123457633"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958185"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Dodawanie licencji lub większej liczby usług do subskrypcji klienta
 
 **Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent administracyjny | Agent sprzedaży | Agent pomocy technicznej
 
-Jeśli klient potrzebuje większej liczby licencji niż zapewnia bieżąca subskrypcja lub innej wersji z dodatkowymi usługami, możesz uaktualnić subskrypcję. Aby uzyskać więcej informacji, zobacz [Przełączanie na inny Aplikacje Microsoft 365 dla firm planu .](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+Jeśli klient potrzebuje większej liczby licencji niż zapewnia bieżąca subskrypcja lub innej wersji z dodatkowymi usługami, możesz uaktualnić subskrypcję. Aby uzyskać więcej informacji, zobacz [Przełączanie na inny Aplikacje Microsoft 365 dla firm planu](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>Uaktualnienia obsługiwane w programie CSP <a id="upgradesubscription"></a>
 
-Następujące uaktualnienia są obsługiwane w programie Dostawca rozwiązań w chmurze programie:
+Następujące uaktualnienia są obsługiwane w Dostawca rozwiązań w chmurze programie:
 
 | Oferta | Możliwe uaktualnienia|
 |---:|:---|
-| Aplikacje Microsoft 365 dla firm   | — Microsoft 365 Business Premium — <br/>  — Aplikacje Microsoft 365 dla przedsiębiorstw <br/> — Office 365 Enterprise E3 <br/> — Office 365 Enterprise E5 <br/> |
+| Aplikacje Microsoft 365 dla firm   | — Microsoft 365 Business Premium jęz. <br/>  — Aplikacje Microsoft 365 dla przedsiębiorstw <br/> — Office 365 Enterprise E3 <br/> — Office 365 Enterprise E5 <br/> |
 | Microsoft 365 Business Standard    | — Office 365 Enterprise E3 <br/> — Office 365 Enterprise E5 <br/> |
 | Microsoft 365 Business Basic | — Microsoft 365 Business Standard jęz. <br/> — Office 365 Enterprise E1 <br/> — Office 365 Enterprise E3<br/> — Office 365 Enterprise E5 <br/> |
 
-za Aplikacje Microsoft 365 dla firm Indie i Microsoft 365 Business Basic Indie można uaktualnić do Microsoft 365 Business Standard Indie, a nie Microsoft 365 Business Standard.
+za Aplikacje Microsoft 365 dla firm Indie i Microsoft 365 Business Basic Indie można uaktualnić do Microsoft 365 Business Standard Indie, a nie do Microsoft 365 Business Standard.
 
 ## <a name="upgrades-supported-for-new-commerce-subscriptions"></a>Uaktualnienia obsługiwane dla nowych subskrypcji handlowych<a id="upgradesubscriptionnewcommerce"></a>
 
@@ -69,7 +69,7 @@ Aby uzyskać więcej informacji na temat wpływu na rozliczenia, zobacz jak anul
 
 3. Wybierz nową ofertę, a następnie wybierz pozycję **Prześlij.**
 
-4. Przejście niektórych kont użytkowników dla niektórych usług może wymagać dodatkowej pracy. Jeśli tak, Partner Center zawiera listę kont i usług, których dotyczy problem. Aby uzyskać pomoc, zobacz artykuł w bazie wiedzy Problemy z ponownego przypisania licencji podczas przełączania planów w [programie Office 365](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+4. Przejście niektórych kont użytkowników dla niektórych usług może wymagać dodatkowej pracy. Jeśli tak, Partner Center zawiera listę kont i usług, których dotyczy problem. Aby uzyskać pomoc, zobacz artykuł bazy wiedzy Problemy z ponownego przypisania licencji podczas przełączania planów w [programie Office 365](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
 
 ## <a name="upgrade-a-new-commerce-subscription"></a>Uaktualnianie nowej subskrypcji handlowej
 
@@ -86,7 +86,7 @@ Aby uzyskać więcej informacji na temat wpływu na rozliczenia, zobacz jak anul
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Przełączanie się do innego Microsoft 365 dla planu biznesowego](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+- [Przełączanie do innego Microsoft 365 dla planu biznesowego](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
 - [Żądanie delegowanych uprawnień administratora](request-a-relationship-with-a-customer.md)
 

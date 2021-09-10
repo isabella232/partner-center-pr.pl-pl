@@ -1,5 +1,5 @@
 ---
-title: Partner Center Szczegółowe informacje — raporty cloudAscent Propensity
+title: Partner Center Szczegółowe informacje — raporty dotyczące platformy CloudAscent Propensity
 description: Dowiedz się więcej o raportach platformy CloudAscent Propensity w Partner Center. Zawiera informacje o tym, czy klient jest podatny na zakup produktów firmy Microsoft.
 ms.topic: conceptual
 ms.service: partner-dashboard
@@ -8,12 +8,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 04/27/2021
-ms.openlocfilehash: 9c9c592a5720642c9d2d0c7b5ac8c2a4aa23387d4d6c063ca1e064959a340c1e
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 4248c3d72512073ba361bf1e0ee276a766b04176
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115686340"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958942"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>Raporty cloudAscent Propensity dostępne na Partner Center nawigacyjnym
 
@@ -48,11 +48,11 @@ Segment małych i średnich firm (SMB) jest podzielony na trzy odrębne segmenty
 
 :::image type="content" source="images/insights/customer-opportunity-2.png" alt-text="Klient według typu kontrolera SMC.":::
 
-**Najwyższe podsegmenty Niezadawansowane** i Średnie firmy reprezentują klientów o wysokiej wartości czasu życia (LTV) dla firmy Microsoft i partnerów firmy Microsoft.  W związku z tym są one głównymi obszarami ukierunkowania na rozwój w tym segmencie. W tych dwóch podsegmentach lepiej jest uzyskać gniazdo za pomocą usługi Microsoft 365, dodatkowo uzyskać zysk dzięki aplikacjom biznesowym D365/Azure i zrealizować wysoką wartość LTV dla firmy Microsoft.
+**Najwyższe podsegmenty Niezadawansowane** i Średnie firmy reprezentują klientów o wysokiej wartości czasu życia (LTV) dla firmy Microsoft i partnerów firmy Microsoft.  W związku z tym są one głównymi obszarami ukierunkowania na rozwój w tym segmencie. W tych dwóch podsegmentach lepiej jest uzyskać gniazdo z usługą Microsoft 365, dodatkowo uzyskać zysk dzięki aplikacjom biznesowym D365/Azure i zrealizować wysoką wartość LTV dla firmy Microsoft.
 
 Obecnie mamy dwa kluczowe obszary możliwości — 1. nasz klient zwiększa wzrost; 2. Chociaż dobrze pozyskujemy gniazda w chmurze wiodące w Microsoft 365, mamy duże możliwości w usłudze Dynamics 365 i na platformie Azure.
 
-Poniższy zrzut ekranu przedstawia cztery podsegmenty SMB. Usługa CloudAscent określa priorytety profilowania, oceniania i modelowania dla wszystkich kont z najlepszymi kontami niezazadawanimi i średnimi firmami.
+Poniższy zrzut ekranu przedstawia cztery podsegmenty SMB. Usługa CloudAscent określa priorytet profilowania, oceniania i modelowania dla wszystkich kont z najlepszymi kontami niezazadawanimi i średnimi firmami.
 
 :::image type="content" source="images/insights/customer-opportunity-3.png" alt-text="Zrzut ekranu przedstawiający podsegmenty SMB.":::
 
@@ -64,7 +64,7 @@ Technologia SMB wykorzystuje technologię uczenia maszynowego do przewidywania k
 
 - **Machine Learning:** Sygnały są podawane do modelu uczenia maszynowego, który wyprowadza ustrukturyzowany zestaw danych przewidywań sprzedaży i marketingu dla każdego klienta według produktu i klastra w chmurze.  Każdy klient jest punktowany przy użyciu modelu podobnego do najlepszego rozwiązania SMB firmy Microsoft, które określa dopasowanie klienta, oraz algorytmów uczenia maszynowego, które integrują zachowanie online klienta, definiujące intencję. Ocenianie jest scalane w klastry, które pokazują, że klient jest podatny na zakup produktów w chmurze firmy Microsoft.
 
-- **Optymalizacja:** system Machine Learning optymalizuje modele, zużywając dane transakcji co miesiąc i dane subskrypcji co kwartał.  Korzystając z danych o wygranej/utracie, Machine Learning algorytmy i weryfikuje, czy modele działają zgodnie z oczekiwaniami, porównując rekomendacje dotyczące klastrów z możliwościami, na których działa program MSX.
+- **Optymalizacja:** system Machine Learning optymalizuje modele, zużywając dane transakcji co miesiąc i dane subskrypcji co kwartał.  Korzystając z danych o wygranej/utracie, Machine Learning dostosowuje algorytmy i weryfikuje, czy modele działają zgodnie z oczekiwaniami, porównując zalecenia dotyczące klastrów z szansami sprzedaży, na których działa program MSX.
 
 :::image type="content" source="images/insights/customer-opportunity-4.png" alt-text="Zrzut ekranu przedstawiający uczenie maszynowe SMB.":::
 
@@ -103,9 +103,9 @@ Używając sygnałów zebranych za pośrednictwem przeszukiwarów sieci Web i da
 
    Klastrowanie umożliwia użytkownikom ukierunkowanie określonych klientów na inicjatywy sprzedażowe i marketingowe na podstawie czynników segmentu, takich jak produkt, obszar geograficzny, branża i pionowa.
 
-   Karta **Model propensity** w skoroszytach CloudAscent udostępnia proporcjonalność i szacowany przychód z białych znaków. Aby zdefiniować klastrowanie dopasowania i intencji, należy wykonać następujące kroki:
+   Karta **Model propensity w** skoroszytach CloudAscent udostępnia proporcjonalność i szacowany przychód z białych znaków. Aby zdefiniować klastrowanie dopasowania i intencji, należy wykonać następujące kroki:
 
-      1. Używając ML modelów, najpierw obliczamy współczynnik dopasowania klienta i wynik intencji w skali 100.  Dokładne wyniki będą się różnić w zależności ML modeli.  Przykładowe wyniki poniżej:
+      1. Korzystając ML modelów, najpierw obliczamy współczynnik dopasowania klienta i wynik intencji w skali 100.  Dokładne wyniki będą się różnić w zależności ML modeli.  Przykładowe wyniki poniżej:
 
          |**Klasyfikacja**|**Ocena**|
          |---------|:---------|
@@ -116,7 +116,7 @@ Używając sygnałów zebranych za pośrednictwem przeszukiwarów sieci Web i da
 
       2. Korzystając z powyższej reguły, klasyfikujemy firmy jako wysokie, średnie, niskie i bardzo niskie zarówno w przypadku sygnałów dopasowania klienta, jak i intencji.
 
-      3. Wykreślamy sygnały dopasowania i intencji klienta na macierzy 2D z każdym przecięciem reprezentującym natłok. Na przykład High Fit + High Intent = A1, reprezentujący najwyższą wartość.
+      3. Wykreślamy sygnały dopasowania i intencji klienta na macierzy 2D z każdym przecięciem reprezentującym proporcjonalność. Na przykład High Fit + High Intent = A1, reprezentujący najwyższą wartość.
 
       4. Na koniec te segmenty grupuje się w celu tworzenia klastrów.  Na przykład A1, A2, A3, A4 tworzą klaster Act Now.
 
@@ -124,7 +124,7 @@ Używając sygnałów zebranych za pośrednictwem przeszukiwarów sieci Web i da
 
    W przypadku tych klientów zalecamy ukierunkowanie działań Na teraz i Ocena klientów.
 
-## <a name="cloudascent-products--models"></a>Modele & CloudAscent Products
+## <a name="cloudascent-products--models"></a>CloudAscent Products & Models
 
 Na poniższej ilustracji przedstawiono widok każdego modelu proporcjonalności w aplikacji CloudAscent:
 
@@ -136,4 +136,4 @@ Modele sprzedaży upsell używają danych transakcji do przewidywania potencjaln
 
 Ci klienci będą już mieć platformę Azure lub Microsoft 365, a model sprzedaży upsell wskazuje, że prawdopodobnie kupi więcej swojej istniejącej wersji SKU.
 
-System EOS udostępnia klientów końcowych usług (EOS) dla systemu Win 7, Office 2010, SQL Server i Windows Server. Dane systemu EOS są ściągane z usługi MS Sales i nałożymy je na modelowanie proporcjonalności CloudAscent tam, gdzie jest to możliwe. Dane systemu EOS są wykorzystywane w nowoczesnych rozwiązaniach pracy i sprzedaży na platformie Azure.
+System EOS udostępnia klientów końcowych usług (EOS) dla systemu Win 7, Office 2010, SQL Server i Windows Server. Dane systemu EOS są ściągane z usługi MS Sales i są nałożyne na modelowanie proporcjonalności CloudAscent tam, gdzie jest to możliwe. Dane systemu EOS są wykorzystywane w nowoczesnych rozwiązaniach pracy i sprzedaży na platformie Azure.

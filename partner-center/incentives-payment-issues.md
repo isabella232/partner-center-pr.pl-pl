@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 6a1bc04970a961254c4af7a8a96688f4d3379d051840a4fd556be84041b76a9e
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 7e3f3e206c851fbcc68ecd47f6027a2d5856478e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687823"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959681"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Rozwiązywanie problemów z brakującymi płatnościami, nieprawidłowymi zarobkami i innymi problemami
 
@@ -21,7 +21,7 @@ ms.locfileid: "115687823"
 
 Ten artykuł pomoże Ci rozwiązać wszelkie problemy z zarobkami lub płatnościami w programie zachęt. Uwzględnione tematy obejmują terminy płatności, sprawdzanie uprawnień do zarobków oraz znaczenie prawidłowego konfigurowania profilów wypłat i profilów podatkowych.
 
-## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>KtoTo może tworzyć lub aktualizować profile wypłaty i profile podatkowe dla mojej organizacji?
+## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>KtoTo utworzyć lub zaktualizować profile wypłaty i profile podatkowe dla mojej organizacji?
 
 Użytkownicy, którzy mają rolę administratora zachęt w Partner Center dla odpowiedniego programu zachęt i lokalizacji MPN, mogą aktualizować i widzieć profile wypłaty i profile podatkowe dla organizacji.
 
@@ -64,7 +64,7 @@ Brakujące lub nieprawidłowe płatności są często spowodowane przez jedną z
   **Aby wyświetlić zaległe akcje**
 
   1. Zaloguj się [do zachęt partnerów.](https://partner.microsoft.com/membership/partner-incentives)
-  2. Otwórz stronę **Historia** transakcji. Przejrzyj pola na tej stronie, aby zapoznać się z oczekującymi akcjami do ukończenia, takimi jak Oczekujący profil **podatkowy,** Oczekujący **profil** płatności lub Oczekujące na przesłanie **faktury podatkowej.**
+  2. Otwórz stronę **Historia** transakcji. Przejrzyj pola na tej stronie, aby zapoznać się z oczekującymi akcjami do ukończenia, takimi jak Oczekujący profil **podatkowy,** Oczekujący **profil** płatności lub Oczekiwanie na przesłanie **faktury podatkowej.**
 
 Jeśli te akcje nie pomogą, a płatności nadal są brakujące lub nieprawidłowe, skontaktuj się z pomocą [techniczną](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
@@ -82,7 +82,7 @@ Możesz zlokalizować i uzgodnić korekty, pobierając szczegóły zarobków i t
 >[!IMPORTANT]
 >Korekty zastosowane do poprzednich okresów zarobków nie będą widoczne w zarobkach za miesiąc, w którym zastosowano korektę. Korekty będą zawsze odzwierciedlane w raporcie zarobków za miesiąc, do których zastosowano korektę.
 >
->Na przykład korekta zarobków ze stycznia 2019 r., która została przetworzona we wrześniu 2019 r., nie zostanie odzwierciedlone w wysokości zarobków z września 2019 r. Jednak po otrzymaniu płatności za wrzesień 2019 r. będzie ona zawierać korektę za styczeń 2019 r., która została zastosowana we wrześniu. W tym scenariuszu należy pobrać szczegóły transakcji ze stycznia 2019 r., aby zobaczyć zastosowane korekty.
+>Na przykład korekta zarobków ze stycznia 2019 r., która została przetworzona we wrześniu 2019 r., nie będzie uwzględniana w wysokości zarobków z września 2019 r. Jednak po otrzymaniu płatności za wrzesień 2019 r. będzie ona zawierać korektę za styczeń 2019 r., która została zastosowana we wrześniu. W tym scenariuszu należy pobrać szczegóły transakcji ze stycznia 2019 r., aby zobaczyć zastosowane korekty.
 >
 >Należy o tym pamiętać podczas ustawienia filtrów dat. Jak wspomniano powyżej, korekty dla poprzednich okresów będą widoczne tylko w miesiącu, w którym zastosowano korektę. Sprawdź dokładnie, czy wybrany zakres dat odpowiada miesiącowi korekty, który próbujesz zlokalizować. Może być konieczne wybranie opcji **Wyczyść wszystko,** aby usunąć filtry, a następnie zastosowanie nowych.
 
@@ -102,7 +102,7 @@ Jeśli nie widzisz zarobków w okresie, w którym są one oczekiwane, zwykle jes
 
 - **Twój profil płatności może być niekompletny.**  Data rozpoczęcia zarobków w ramach zachęty to pierwszy dzień miesiąca, w którym zostały spełnione wszystkie wymagania dotyczące kwalifikowalności, w tym dołączenia ze szczegółowymi informacjami podatkowymi i dotyczącymi wypłat. Zarobki nie będą dostępne dla miesięcy poprzedzających uzupełnienie wypłat i podatków. Jeśli na przykład spełnisz wszystkie wymagania w ciągu miesiąca kwietnia 2020 r., datą rozpoczęcia zarobków będzie 1 kwietnia 2020 r.
 
-Jeśli wymagania dotyczące uprawnień, w tym dołączanie ze szczegółami wypłaty i podatków na czas, a zarobki nadal są brakujące, skontaktuj się z pomocą [techniczną.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
+Jeśli wymagania dotyczące uprawnień, w tym dołączanie ze szczegółami wypłaty i podatków, zostały spełnione na czas, a zarobki nadal są brakujące, skontaktuj się z pomocą [techniczną.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
 
 ## <a name="my-earnings-are-missing-or-incorrect"></a>Brakuje moich zarobków lub są one nieprawidłowe
 
@@ -139,11 +139,11 @@ Ten widok umożliwia wyświetlanie płatności dla wszystkich programów i ident
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Brakujące lub nieprawidłowe zarobki i płatności
 
-Jeśli nie możesz zlokalizować szczegółów płatności lub transakcji, sprawdź, czy zastosowano poprawne filtry. Ponieważ niektóre nazwy programów uległy zmianie (na przykład program CSP 1T Direct Partner jest teraz CSP Direct Bill Partner), może być konieczne użycie wielu opcji.
+Jeśli nie możesz zlokalizować szczegółów płatności lub transakcji, sprawdź, czy zastosowano poprawne filtry. Ponieważ nazwy niektórych programów uległy zmianie (na przykład program CSP 1T Direct Partner jest teraz CSP Direct Bill Partner), może być konieczne użycie wielu opcji.
 
 Jeśli nadal nie możesz znaleźć swoich zarobków lub uważasz, że pokazane zarobki są nieprawidłowe, skontaktuj się z pomocą [techniczną](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
-## <a name="how-do-i-reconcile-my-earnings"></a>Jak mogę uzgodnić moje zarobki?
+## <a name="how-do-i-reconcile-my-earnings"></a>Jak mogę uzgodnić zarobki?
 
 Jeśli w zarobkach występują rozbieżności, wykonaj następujące czynności:
 
@@ -153,7 +153,7 @@ Jeśli w zarobkach występują rozbieżności, wykonaj następujące czynności:
 
 3. **Potwierdź, że spełniasz wymagania.**  Sprawdź, czy zostały spełnione wymagania [dotyczące](#my-payment-is-missing-or-incorrect) kwalifikowalności i reguł kwalifikowalnych przychodów dla programu zachęt.
 
-Jeśli te akcje nie pomogą, a Twoje zarobki nadal nie zostały uzgodnione, skontaktuj się z [pomocą techniczną](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Jeśli te akcje nie pomogą, a Zarobki nadal nie zostały uzgodnione, skontaktuj się z [pomocą techniczną](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="where-can-i-find-my-rates"></a>Gdzie mogę znaleźć moje stawki?
 

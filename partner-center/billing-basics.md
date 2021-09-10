@@ -10,17 +10,17 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: f594b7d39234080e2c3f99c05a2e64fdaa18f0dd
-ms.sourcegitcommit: 38afe7e35e3dce4f35cf7352cc98e3d53e979a62
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "122752103"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958041"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Przegląd rozliczeń dla partnerów programu CSP pracujących w Centrum partnerskim 
 
-**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Administrator globalny | Agent pomocy technicznej | Agent sprzedaży
+**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Administrator globalny | Agent pomocy | Agent sprzedaży
 
-Ten artykuł zawiera podstawowe informacje dotyczące rozliczeń i faktur dla partnerów CSP w programie Partner Center w tym sposób rozliczania klientów oraz znajdowanie i odczytywanie faktury.
+Ten artykuł zawiera podstawowe informacje dotyczące rozliczeń i faktur dla partnerów CSP w programie Partner Center w tym sposób rozliczania klientów oraz sposób znajdowanie i odczytywanie faktury.
 
 
 ## <a name="find-your-bill"></a>Znajdowanie rachunku
@@ -41,7 +41,7 @@ Aby określić użycie klienta, zobacz pliki [uzgodnień](#find-your-bill). Uży
 
 ### <a name="billing-types"></a>Typy rozliczeń
 
-Typy rozliczeń w Partner Center obejmują rozliczenia oparte na **licencjach,** rozliczenia oparte **na użyciu** i rozliczenia **razowe.** 
+Typy rozliczeń w Partner Center obejmują rozliczenia oparte **na licencjach,** rozliczenia oparte **na użyciu** i **rozliczenia razowe.** 
 
 ### <a name="billing-currency"></a>Waluta rozliczeniowa
 
@@ -61,7 +61,7 @@ W przypadku jednorazowego i cyklicznego rozliczania okres rozliczeniowy jest wyr
 
 Cenniki są aktualizowane co miesiąc. Cenniki wersji zapoznawczej są dostępne z jednym (1) miesiącem wcześniej.
 
-Aby wyświetlić najnowsze Dostawca rozwiązań w chmurze i oferty, na pulpicie nawigacyjnym Portalu dla partnerów przejdź do tematu Sell **> Pricing and Offers**(Sprzedaż i oferty). Znajdziesz oddzielne cenniki różnych typów produktów, które są dostępne. Następujące cenniki są dostępne na **stronie Cennik i** oferty:
+Aby wyświetlić najnowsze Dostawca rozwiązań w chmurze i oferty, na pulpicie nawigacyjnym portalu dla partnerów przejdź do tematu Sell **> Pricing and Offers**(Sprzedaż i oferty). Znajdziesz oddzielne cenniki różnych typów produktów, które są dostępne. Następujące cenniki są dostępne na **stronie Cennik i oferty:**
 
 **Ceny oparte na** licencjach są gwarantowane przez okres subskrypcji, zazwyczaj 12 miesięcy od daty zakupu. 
 
@@ -69,19 +69,19 @@ Aby wyświetlić najnowsze Dostawca rozwiązań w chmurze i oferty, na pulpicie 
 
 **Ceny produktów, usług i subskrypcji oprogramowania** są gwarantowane w okresie obowiązywania subskrypcji. Jednak ceny mogą ulec zmianie po odnowieniu.
 
-Po zastosowaniu środków lub  **korekt** na następnej fakturze rozliczeniowej zobaczysz korekty i środki w zaległości.
+Po zastosowaniu **środków** lub  korekt zobaczysz korekty i środki w zaległości na następnej fakturze rozliczeniowej.
 
 ## <a name="payment-terms"></a>Warunki płatności
 
-Terminy płatności to 60 dni netto. Faktury muszą być opłacane zgodnie z datą płatności faktury (60 dni po dacie rozliczeniowej) lub twoje konto zostanie cofane, co może mieć wpływ na rejestrację w programie CSP. 
+Terminy płatności to 60 dni netto. Faktury muszą być opłacane według daty płatności faktury (60 dni po dacie rozliczeniowej) lub twoje konto zostanie cofane, co może mieć wpływ na rejestrację w programie CSP. 
 
 Możesz odzyskać pełną funkcjonalność zawieszonych kont, gdy zapłacisz za przeszłe kwoty.
 
-Po podano poprawione informacje rozliczeniowe, płatność będzie widoczna na stronie Partner Center w ciągu 5 dni roboczych.
+Po podano poprawione informacje rozliczeniowe, płatność będzie widoczna na stronie rozliczeń Partner Center w ciągu 5 dni roboczych.
 
 ### <a name="taxes-and-vat"></a>Podatki i podatku VAT
 
-Opłaty są naliczone na podstawie twoich danych (a nie danych klientów), ponieważ relacja rozliczeń między firmą Microsoft a To ty. Identyfikator podatkowy można przesłać później podczas procesu konfiguracji konta lub wniosku o pomoc techniczną. Zmiany zostaną odzwierciedlone w następnym cyklu rozliczeniowym.
+Opłaty są naliczone na podstawie twoich danych (a nie danych klientów), ponieważ relacja rozliczeń między firmą Microsoft a To ty. Identyfikator podatkowy możesz przesłać później podczas procesu konfiguracji konta lub wniosku o pomoc techniczną. Zmiany zostaną odzwierciedlone w następnym cyklu rozliczeniowym.
 
 W **przypadku zwolnienia z potrącenia i podatku** od sprzedaży należy przesłać dokumentację dotyczącą podatku za pośrednictwem wniosku o pomoc techniczną. Zobaczysz zmiany i odpowiednie zwroty w następnym cyklu rozliczeniowym. Dowiedz się więcej na temat przesyłania [podatku potrącanego.](withholding-tax-credit-form.md) 
 
@@ -99,7 +99,7 @@ Firma Microsoft nie nalicza opłat za wcześniejsze zakończenie w przypadku anu
 
 ### <a name="billing-rules"></a>Reguły rozliczeń
 
-Obecnie istnieją dwa typy częstotliwości rozliczeń: Roczne & miesięczne.  
+Obecnie istnieją dwa typy częstotliwości rozliczeń: roczne & miesięczne.  
 Mierzone stawki usług mogą ulec zmianie w ramach cyklu faktury.
 
 #### <a name="annual-billing-rules"></a>Reguły rozliczeń rocznych 
@@ -129,8 +129,8 @@ Mierzone stawki usług mogą ulec zmianie w ramach cyklu faktury.
 
 Może być konieczne zażądanie środków lub amiill z następujących powodów:
 
-- Należy wprowadzić poprawki adresu lub zamówienia zakupu.
-- Zwrot podatku został zastosowany po wygenerowaniu faktury. Aby uzyskać zwrot podatku z powrotem na oryginalną fakturę, możesz zażądać kredytu lub przelewu. To samo dotyczy również zwrotów. Możesz zażądać środków lub illill oryginalnej faktury, a następnie ściągnąć zwrot.
+- Należy wprowadzić korekty adresu lub zamówienia zakupu.
+- Zwrot podatku został zastosowany po wygenerowaniu faktury. Możesz zażądać kredytu lub amiillu, aby uzyskać zwrot podatku z powrotem na oryginalną fakturę. To samo dotyczy również zwrotów. Możesz zażądać środków lub listu na oryginalnej fakturze, a następnie ściągnąć zwrot.
 
 **W przypadku wszystkich transakcji jednorazowych i cyklicznych** firma Microsoft może wydać notatkę kredytową, gdy zażądasz środków lub illill. Faktura zostanie anulowana po wystawieniu środków. 
 

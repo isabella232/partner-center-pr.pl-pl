@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ab68cbae952b8eab24dd989386007cd0c2fcc559cd48eb37256b80ce1146acf
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 5c063788b11dfb2507ff88a1774a94f21f6ebca5
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115678587"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958270"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Omówienie raportów pulpitu nawigacyjnego dostępnych w Partner Center Szczegółowe informacje
  
@@ -35,7 +35,7 @@ Podsumowanie zawiera informacje o klientach, przychód z wykorzystania platformy
 
 :::image type="content" source="images/insights/summary.png" alt-text="Licencje podsumowujące.":::
 
-Więcej informacji na temat poszczególnych sekcji w sekcji Podsumowanie można znaleźć poniżej.
+Więcej informacji na temat każdej sekcji w sekcji Podsumowanie można znaleźć poniżej.
 
 ### <a name="customers"></a>Klienci
 
@@ -43,7 +43,7 @@ Obszar **Klienci** obejmuje:
 
 - Bieżąca liczba wszystkich klientów z co najmniej jedną aktywną subskrypcją skojarzoną z firmą za pośrednictwem różnych typów przypisania i wszystkich produktów w chmurze.
 - Procentowy wzrost liczby klientów w wybranym zakresie dat.
-- Na mikro wykresie przedstawia trend liczby klientów z miesiąca na miesiąc w wybranym zakresie dat.
+- Mikrowy wykres przedstawia trend liczby klientów z miesiąca na miesiąc w wybranym zakresie dat.
 
 ### <a name="azure-consumed-revenue-acr"></a>przychód z wykorzystania platformy Azure (ACR)
 
@@ -58,11 +58,11 @@ Obszar **przychód z wykorzystania platformy Azure (ACR)** w obszarze Podsumowan
  
 ### <a name="subscriptions-sold"></a>Sprzedane subskrypcje
 
-Obszar **Sprzedane subskrypcje** w obszarze Podsumowanie obejmuje:
+Obszar **Sprzedane subskrypcje** w obszarze Podsumowanie zawiera:
 
 - Łączna bieżąca liczba subskrypcji produktów w chmurze (aktywnych i nieaktywnych) sprzedanych lub zarządzanych przez Ciebie.  
 - Procent wzrostu lub spadku liczby subskrypcji w wybranym zakresie dat.
-- Na wykresie mikro przedstawia trend łącznej liczby subskrypcji w wybranym zakresie dat z miesiąca na miesiąc.
+- Na mikro wykresie podano trend łącznej liczby subskrypcji w wybranym zakresie dat z miesiąca na miesiąc.
 
 ### <a name="active-subscriptions"></a>Aktywne subskrypcje
 
@@ -74,7 +74,7 @@ Obszar **Aktywne subskrypcje** w obszarze Podsumowanie obejmuje:
  
 ### <a name="licenses-deployed"></a>Wdrożone licencje
 
-Obszar **Licencje wdrożone w** obszarze Podsumowanie zawiera:
+Obszar **Licencje wdrożone w** obszarze Podsumowanie obejmuje:
  
 - Liczba wszystkich licencji produktu w chmurze wdrożonych w subskrypcjach klientów w wybranym okresie. 
 - Procent wzrostu lub spadku liczby tych licencji w wybranym zakresie dat. 
@@ -82,7 +82,7 @@ Obszar **Licencje wdrożone w** obszarze Podsumowanie zawiera:
 
 ## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Geograficzne rozmieszczenie klientów, subskrypcji i licencji
 
-Ten widok jest geograficznym rozkładem łącznej liczby klientów, subskrypcji i licencji według kraju klienta. Wybierz różne karty, aby wyświetlić każdy z tych szczegółowych informacji na mapie. Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapie. Przywróć oryginalny widok, naciskając przycisk Strona główna na mapie. Kliknięcie każdej karty (na przykład Klienci, Subskrypcje) pokazuje wartość metryki dla każdego kraju i procent sumy dla kraju.  
+Ten widok jest geograficznym rozkładem łącznej liczby klientów, subskrypcji i licencji według kraju klienta. Wybierz różne karty, aby wyświetlić każdy z tych szczegółowych informacji na mapie. Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapie. Przywróć oryginalny widok, naciskając przycisk Strona główna na mapie. Kliknięcie każdej karty (na przykład Klienci, Subskrypcje) pokazuje wartość metryki dla każdego kraju i wartość procentową sumy dla danego kraju.  
 
 :::image type="content" source="images/insights/geosummary.png" alt-text="Podsumowanie geograficzne.":::
 

@@ -9,14 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 484b6c3adb66d1bbb3358568f32412b43b8aa77d6b8c8887b4c874c2812d233d
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 8a5f1264dfdb4059d63db6cbf361e6c2f34d8bd2
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695955"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961539"
 ---
-# <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Zarządzanie nieprzydzielonych płatnościami na Partner Center rozliczeń
+# <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Zarządzanie nieprzydzielonych płatnościami na stronie Partner Center rozliczeń
 
 **Odpowiednie role:** Administrator rozliczeń | Administrator konta
 
@@ -36,4 +36,4 @@ Nieprzydzielone płatności pozostają nieprzydzielone do momentu przypisania ic
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Rozliczenia za produkty i subskrypcje komercyjnej platformy handlowej w Partner Center](csp-commercial-marketplace-billing.md)
+- [Rozliczenia za produkty i subskrypcje platformy handlowej w Partner Center](csp-commercial-marketplace-billing.md)

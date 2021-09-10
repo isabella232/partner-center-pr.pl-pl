@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 047738186f93e143e701794b76f8f8f1979129f94129b6fdc79c4de1196f2625
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: a899226e60e575d6c8aee003130b5390af023394
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690889"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958066"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Omówienie platformy handlowej w Partner Center
 
@@ -28,7 +28,7 @@ Jako partner w programie CSP możesz użyć usługi Partner Center wielu rozwią
 - Uproszczone zawłaszczenie i skrócony cykl zaopatrzenia.
 - Pojedyncza integracja z Partner Center API. (Taka integracja dodatkowo umożliwia dostęp do katalogu rozwiązań isv, obniża koszt operacji i inżynierii oraz usprawnia zarządzanie subskrypcjami wielu dostawców i rozliczeniami za pośrednictwem jednego dostawcy).
 - Usprawnione wdrażanie i aprowizowanie w dzierżawie platformy Azure klienta (w przypadku rozwiązań opartych na maszynach wirtualnych).
-- Zmniejsza potencjalne wyzwania związane z bezpośrednim zakupem lub zakupem niezależnych dostawców oprogramowania, konfiguracją i integracją rozwiązań firmy Microsoft oraz potrzebą zarządzania lub konsolidowania cyklicznych faktur od wielu dostawców.
+- Zmniejsza potencjalne wyzwania związane z bezpośrednim zakupem lub zakupem niezależnych dostawców oprogramowania, konfiguracją i integracją rozwiązań firmy Microsoft oraz potrzebą zarządzania cyklicznymi fakturami od wielu dostawców lub konsolidowania ich.
 
 ## <a name="overview-of-csp-offers-in-the-commercial-marketplace"></a>Omówienie ofert CSP na platformie handlowej
 
@@ -48,9 +48,9 @@ Jeśli jesteś partnerem w programie CSP, istnieje wiele działań na platformie
 
 ## <a name="where-to-complete-commercial-marketplace-activities"></a>Gdzie można ukończyć działania na platformie handlowej
 
-Jako partner w programie CSP możesz wykonać wiele działań na platformie handlowej dla [](https://partner.microsoft.com/dashboard) ofert SaaS isv bezpośrednio z pulpitu nawigacyjnego usługi Partner Center lub za pomocą interfejsów API [Partner Center.](/partner-center/develop/) Jednak w celu ukończenia innych działań na platformie handlowej może być konieczne:
+Jako partner w programie CSP możesz wykonać wiele działań na platformie handlowej dla [](https://partner.microsoft.com/dashboard) ofert ISV SaaS bezpośrednio z pulpitu nawigacyjnego usługi Partner Center lub za pomocą interfejsów API [Partner Center.](/partner-center/develop/) Jednak w celu ukończenia innych działań na platformie handlowej może być konieczne:
 
-- Portal [Microsoft Azure zarządzania](https://portal.azure.com/)
+- Portal [Microsoft Azure zarządzania usługami](https://portal.azure.com/)
 
     Lub
 

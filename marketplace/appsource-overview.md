@@ -1,6 +1,6 @@
 ---
 title: Microsoft AppSource omówienie
-description: Dowiedz się więcej Microsoft AppSource sklepu online oraz dowiedz się, jak znaleźć obszerny katalog oprogramowania i rozwiązań.
+description: Dowiedz się więcej Microsoft AppSource sklepu online oraz dowiedz się, jak znaleźć i rozbudowany wykaz oprogramowania i rozwiązań.
 ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
@@ -8,17 +8,17 @@ ms.author: gushuchm
 ms.date: 08/16/2021
 ms.custom: contperf-fy21q3
 ms.openlocfilehash: 15b85abde224caafb3f2f6842eb4a38f7b767ffe
-ms.sourcegitcommit: b2b04afce99412870b451878499e002e17e7b636
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "122226803"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123936997"
 ---
 # <a name="what-is-microsoft-appsource"></a>Co to jest usługa Microsoft AppSource?
 
 Microsoft AppSource to sklep online zawierający tysiące aplikacji i usług biznesowych budowaną przez wiodących w branży dostawców oprogramowania. Usługa AppSource umożliwia znajdowanie, wypróbowanie, kupowanie i wdrażanie oprogramowania i usług biznesowych, które ułatwiają prowadzenia firmy.
 
-Katalog usługi AppSource obejmuje aplikacje typu oprogramowanie jako usługa (SaaS), rozwiązania sbudowaną dla usług Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power Apps i doradczych od partnerów firmy Microsoft. Dostęp do katalogu produktów AppSource można uzyskać na stronie lub za pośrednictwem produktu w usługach [https://appsource.microsoft.com](https://appsource.microsoft.com) Microsoft 365, Dynamics 365 i Microsoft Power Platform. Rozwiązania z usługi AppSource mogą być również dostępne od odsprzedawców firmy Microsoft w Dostawca rozwiązań w chmurze programie.
+Katalog usługi AppSource obejmuje aplikacje typu oprogramowanie jako usługa (SaaS), rozwiązania sbudowaną dla usług Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power Apps i doradczych od partnerów firmy Microsoft. Dostęp do katalogu produktów Usługi AppSource można uzyskać pod lub za pośrednictwem produktu w [https://appsource.microsoft.com](https://appsource.microsoft.com) usługach Microsoft 365, Dynamics 365 i Microsoft Power Platform. Rozwiązania z usługi AppSource mogą być również dostępne od odsprzedawców firmy Microsoft w Dostawca rozwiązań w chmurze programie.
 
 ## <a name="find-what-you-need-on-appsource"></a>Znajdowanie potrzebnych informacji w usłudze AppSource
 
@@ -40,7 +40,7 @@ Okienko po lewej stronie umożliwia filtrowanie wyników na podstawie listy typ�
 
 Podczas wyszukiwania lub filtrowania wykazu wyniki mogą obejmować preferowane rozwiązania firmy Microsoft, które są identyfikowane za pomocą wskaźnika preferowanych rozwiązań znajdującego się w prawym dolnym rogu karty aplikacji lub wskaźnika na stronie szczegółów produktu.
 
-:::image type="content" source="media/appsource-overview/preferred-solution-badge.png" alt-text="Pokazuje wskaźnik preferowanego dostawcy usługi AppSource.":::
+:::image type="content" source="media/appsource-overview/preferred-solution-badge.png" alt-text="Wyświetla wskaźnik preferowanego dostawcy usługi AppSource.":::
 
 Preferowane rozwiązania są wybierane przez zespół ekspertów firmy Microsoft i są publikowane przez partnerów firmy Microsoft z głęboką, sprawdzoną wiedzą i możliwościami w celu obsługi określonych potrzeb klientów w kategorii, branży lub branży.
 
@@ -55,11 +55,11 @@ Wybierz aplikację z wyników *aplikacji,* aby wyświetlić stronę listy dla te
 
 ## <a name="purchasing-requirements"></a>Wymagania dotyczące zakupów
 
-Aby kupić aplikacje SaaS w usłudze AppSource, musisz mieć konto Azure Active Directory, nazywane również kontem służbowym. Jeśli Twoja organizacja korzysta Office 365, twój normalny adres e-mail będzie wystarczający. Jeśli nie masz jednego z tych kont, w przepływie zakupu zostanie wyświetlony monit o bezpłatne konto. Aby uzyskać szczegółowe instrukcje, [zobacz Jak kupować aplikacje SaaS na Microsoft AppSource](purchase-software-appsource.md).
+Aby kupić aplikacje SaaS w usłudze AppSource, musisz mieć konto Azure Active Directory, nazywane również kontem służbowym. Jeśli Twoja organizacja korzysta z Office 365, wystarczy zwykły adres e-mail. Jeśli nie masz jednego z tych kont, w przepływie zakupu zostanie wyświetlony monit o bezpłatne konto. Aby uzyskać szczegółowe instrukcje, [zobacz Jak kupować aplikacje SaaS na Microsoft AppSource](purchase-software-appsource.md).
 
 ## <a name="certification-and-security"></a>Certyfikacja i zabezpieczenia
 
-Każdy produkt dostępny w usłudze AppSource ma certyfikat zgodnie z określonymi kryteriami. Zachęcamy do dokładnego przejrzenia każdego produktu, aby upewnić się, że spełnia on unikatowe wymagania organizacji. Aby dowiedzieć się więcej o zasadach certyfikacji, które przeglądamy dla każdego typu oferty, zobacz [Zasady certyfikacji komercyjnej platformy handlowej.](/legal/marketplace/certification-policies) Microsoft 365 mają dodatkowy proces [certyfikacji](/microsoft-365-app-certification/docs/enterprise-app-certification-guide) [](/microsoft-365-app-certification/docs/enterprise-app-attestation-guide) i zaświadczenia dla wydawców.
+Każdy produkt dostępny w usłudze AppSource został certyfikowany zgodnie z określonymi kryteriami. Zachęcamy do dokładnego przejrzenia każdego produktu, aby upewnić się, że spełnia on unikatowe wymagania organizacji. Aby dowiedzieć się więcej o zasadach certyfikacji, które przeglądamy dla każdego typu oferty, zobacz [Zasady certyfikacji komercyjnej platformy handlowej.](/legal/marketplace/certification-policies) Microsoft 365 mają dodatkowy [proces](/microsoft-365-app-certification/docs/enterprise-app-certification-guide) certyfikacji [](/microsoft-365-app-certification/docs/enterprise-app-attestation-guide) i zaświadczenia dla wydawców.
 
 ## <a name="terms-and-conditions"></a>Warunki i postanowienia
 
@@ -67,18 +67,18 @@ Dostawca oprogramowania definiuje cenę, umowę licencyjną użytkownika końcow
 
 ## <a name="discover-saas-and-microsoft-365-integrated-apps"></a>Odnajdywanie aplikacji SaaS Microsoft 365 zintegrowanych aplikacji
 
-Nasi partnerzy mogą łączyć aplikację SaaS i odpowiadające jej dodatki na Microsoft 365. Umożliwia to pobieranie i używanie dodatków z określonych usług Microsoft 365 lub produktów po pobraniu aplikacji SaaS połączonej z dodatekami.
+Nasi partnerzy mogą łączyć aplikację SaaS i odpowiadające jej dodatki dla Microsoft 365. Umożliwia to pobieranie i używanie dodatków z określonych usług Microsoft 365 lub produktów po pobraniu aplikacji SaaS połączonej z dodatekami.
 
 W takim przypadku wynik wyszukiwania może zwrócić tylko aplikację SaaS z odpowiednimi ikonami dodatku produktu na karcie produktu aplikacji SaaS. Możesz przechodzić między stronami szczegółów produktu aplikacji SaaS i zintegrowaną aplikacją.
 
 Jeśli szukasz dodatków autonomicznych, możesz je znaleźć na jeden z następujących sposobów:
 
-- Uzyskaj dostęp [do katalogu produktów AppSource](https://appsource.microsoft.com/marketplace/apps/)i w lewym obszarze nawigacji w obszarze **Produkty** wybierz **pozycję Microsoft 365**. Z listy produktów wyświetlanych w obszarze **Microsoft 365** wybierz pola dla wybranych produktów.
+- Uzyskaj dostęp [do katalogu produktów AppSource](https://appsource.microsoft.com/marketplace/apps/)i w lewym obszarze nawigacji w obszarze **Produkty** wybierz **pozycję Microsoft 365**. Z listy produktów, które są wyświetlane Microsoft 365 **,** zaznacz pola dla wybranych produktów.
 - Możesz też wybrać ikonę dodatku produktu na karcie produktu aplikacji SaaS, aby przejść do określonego dodatku, który został ukryty na ekranie wyszukiwania.
 
 Jeśli aplikacja SaaS wymaga zakupu, zobacz [Jak kupować oferty SaaS](purchase-software-appsource.md)na Microsoft AppSource .
 
-Administracja Microsoft 365 użytkownicy mogą wdrażać zarówno dodatki SaaS, jak i SaaS w jednym miejscu. Aby dowiedzieć się więcej, zobacz [Testowanie i wdrażanie Aplikacje Microsoft 365 — Microsoft 365 administrator.](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps)
+Administracja Microsoft 365 użytkownicy mogą wdrażać zarówno dodatki SaaS, jak i dodatki w jednym miejscu. Aby dowiedzieć się więcej, zobacz [Testowanie i wdrażanie Aplikacje Microsoft 365 — Microsoft 365 administratorem.](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps)
 
 ## <a name="find-ratings-and-reviews"></a>Znajdowanie ocen i recenzji
 

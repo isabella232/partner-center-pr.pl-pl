@@ -10,17 +10,17 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 64acff2ff7d518e549f4c90ba898496c522550a7
-ms.sourcegitcommit: 7607ab0e3255f7184332e457366a9ddbfe305f35
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "123275985"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958858"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Weryfikowanie informacji o koncie podczas rejestrowania w nowym programie Centrum partnerskiego
 
 **Odpowiednie role:** Administrator globalny | Administrator partnera MPN
 
-Gdy zarejestrujesz się w nowym programie w Partner Center, firma Microsoft weryfikuje Twoją rejestrację, na przykład nazwę firmy, adres firmy i podstawowe dane kontaktowe. W trakcie tego procesu firma Microsoft może wysłać wiadomość e-mail do głównej osoby kontaktowej w celu zażądania większej dokumentacji weryfikacji.
+Po zarejestrowaniu się w nowym programie w Partner Center firma Microsoft weryfikuje Rejestrację, na przykład nazwę firmy, adres firmy i podstawowe dane kontaktowe. W trakcie tego procesu firma Microsoft może wysłać wiadomość e-mail do głównej osoby kontaktowej w celu zażądania większej dokumentacji weryfikacji.
 
 >[!NOTE]
 >Aby upewnić się, że wiadomość e-mail jest odbierana, należy flagować wiadomość e-mail z usługi Microsoft.com jako "bezpieczną" domenę i sprawdzać foldery wiadomości-śmieci.

@@ -10,11 +10,11 @@ ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: a9c0d970b4ddbdf22e0443ca9e6a2d06a031d0a9
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121914448"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958365"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Tworzenie profilu biznesowego w celu uzyskania potencjalnych klientów firmy Microsoft i pomocy klientom w ich odnalezieniu
 
@@ -33,11 +33,11 @@ Utworzenie profilu biznesowego to pierwszy krok w kierunku uzyskania poleceń. P
 ## <a name="create-a-profile"></a>Tworzenie profilu
 
 > [!NOTE]  
-> Aby można było utworzyć profil biznesowy, musisz mieć Partner Center biznesowe. Jeśli nie masz jeszcze konta Partner Center, zobacz Tworzenie konta [Partner Center,](mpn-create-a-partner-center-account.md) aby uzyskać pomoc w jego tworzeniu.
+> Aby można było utworzyć profil biznesowy, musisz mieć Partner Center biznesowe. Jeśli nie masz jeszcze konta Partner Center, zobacz [Tworzenie](mpn-create-a-partner-center-account.md) konta Partner Center, aby uzyskać pomoc w jego tworzeniu.
 
 Utwórz profile dla każdego regionu, w których masz uprawnienia do prowadzenia działalności.
 
-1. Z menu **Partner Center** wybierz pozycję Profile **biznesowe** poleceń i wybierz &gt;  &gt; kraj/region > **[Utwórz profil biznesowy.](https://partner.microsoft.com/referrals/businessprofiles/)**
+1. Z menu **Partner Center** wybierz **pozycję** Profile biznesowe poleceń, a następnie wybierz &gt;  &gt; kraj/region > **[Utwórz profil biznesowy.](https://partner.microsoft.com/referrals/businessprofiles/)**
 
 2. Na stronie **Tworzenie profilu biznesowego** wybierz region, a następnie wprowadź informacje o profilu.
    > [!NOTE]  

@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 1e09ac0497fafd6e2db2927c372edc22826ad825c713dba7d9c5854d0bfe64d9
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 33ec3befdc4b2bab2f31d25d210679594debbbf1
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681295"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958665"
 ---
 # <a name="view-your-incentives-program-details"></a>Wyświetlanie szczegółów programu zachęt
 
@@ -23,7 +23,7 @@ ms.locfileid: "115681295"
 W tym artykule  wyjaśniono stronę Przeglądu moich zachęt, na której przedstawiono ogólny stan programów zachęt, a także stan poszczególnych programów w poszczególnych lokalizacjach. Zapewnia również różne stany rejestracji.
 
 >[!NOTE]
->Aby uzyskać więcej informacji na temat zachęt i funkcji zachęt w Partner Center, zobacz [Partner Investments and Incentives](https://partner.microsoft.com/membership/partner-incentives) (Inwestycje i zachęty dla partnerów) (wymagane jest zalogowanie się).
+>Aby uzyskać więcej informacji na temat zachęt i funkcji zachęt w Partner Center, zobacz [Partner Investments and Incentives](https://partner.microsoft.com/membership/partner-incentives) (Inwestycje i zachęty dla partnerów) (wymagane jest zalogowanie).
 
 ## <a name="access-the-incentives-overview-page"></a>Uzyskiwanie dostępu do strony z omówieniem zachęt
 
@@ -59,7 +59,7 @@ Wybierz ikonę wypłaty w prawym górnym rogu ekranu, aby uzyskać dostęp do ty
 - Płatności
 - Eksportowanie danych
 
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="Ilustruje ikonę Wypłaty w prawym górnym rogu Partner Center portal.":::
+:::image type="content" source="images/payouts/payout-overview.png" alt-text="Ilustruje ikonę Wypłaty w prawym górnym rogu Partner Center Portal.":::
 
 Te informacje obejmują łączne płatności i zarobki związane z zachętami od momentu zarejestrowania w programach zachęt. Na tej stronie podano też zarobki i płatności według lokalizacji lub programu, a także wszelkie dalsze czynności, które należy wykonać, aby zarejestrować się w programie w określonej lokalizacji. 
 

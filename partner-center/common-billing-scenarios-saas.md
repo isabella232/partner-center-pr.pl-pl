@@ -4,21 +4,21 @@ ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
-description: Dowiedz się więcej o typowych scenariuszach Partner Center w przypadku transakcji saaS (oprogramowanie jako usługa) opartych na licencjach.
+description: Dowiedz się więcej na temat typowych scenariuszy Partner Center w przypadku transakcji saaS (oprogramowanie jako usługa) opartych na licencjach.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 85b5b4c33226236b7fcc3ce6b4833c3d58aba58ebb281b80576c9f26d04ecfe3
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 9568a014de926682dd89dd9d06d1c6ca5b98ac71
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115682253"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958054"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Typowe scenariusze rozliczeń dla opartych na licencjach transakcji SaaS w Partner Center
 
-**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Agent pomocy technicznej | Agent sprzedaży
+**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Agent pomocy | Agent sprzedaży
 
 
 Te [przykładowe typowe scenariusze rozliczeń](common-billing-scenarios.md) mają zastosowanie do subskrypcji oprogramowania jako usługi (SaaS) opartych na licencjach w Partner Center.

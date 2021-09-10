@@ -1,5 +1,5 @@
 ---
-title: Przywróć uprawnienia administratora dla Azure CSP
+title: Przywracanie uprawnień administratora w programie Azure CSP
 ms.topic: how-to
 ms.date: 05/27/2021
 ms.service: partner-dashboard
@@ -9,18 +9,18 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53f9cf6533127231c152fbba0d7d7fbdadd6a897424f3d9383818fb45edf3465
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 0a3af74158b36442118d41662744fc921277963c
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115682656"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957945"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Przywróć uprawnienia administratora dla subskrypcji Azure CSP klienta  
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny
 
-Jako Dostawca rozwiązań w chmurze (CSP), klienci często oczekują, że będziesz zarządzać ich użyciem platformy Azure i ich systemami. Musisz mieć do tego uprawnienia administratora. Niektóre uprawnienia są przyznawane, gdy relacja odsprzedawcy z klientem zostanie ustanowiona. Inne osoby są przyznawane przez klienta.
+Jako Dostawca rozwiązań w chmurze (CSP) klienci często oczekują, że będziesz zarządzać ich użyciem platformy Azure i ich systemami. Musisz mieć do tego uprawnienia administratora. Niektóre uprawnienia są przyznawane w przypadku nawiązynia relacji odsprzedawcy z klientem. Inne osoby są przyznawane przez klienta.
 
 ## <a name="admin-privileges-for-azure-in-csp"></a>Uprawnienia administratora dla Platforma Azure w programie CSP
 
@@ -129,11 +129,11 @@ New-AzRoleAssignment -ObjectId <principal ID> -RoleDefinitionName "Owner" -Scope
 
 Udostępnij wynikowy `newRoleAssignment.log` plik firmie Microsoft w celu dalszej analizy.
 
-Jeśli procedura "catch-all" zakończy się niepowodzeniem podczas `Import-Module` procedury , spróbuj wykonać następujące czynności:
+Jeśli procedura "catch-all" nie powiedzie się podczas `Import-Module` , spróbuj wykonać następujące czynności:
 - Jeśli importowanie nie powiedzie się, ponieważ moduł jest w użyciu, uruchom ponownie sesję programu PowerShell, zamykając i ponownie otwierając wszystkie okna.
 - Sprawdź wersję programu za `Az.Resources` pomocą . `Get-Module Az.Resources -ListAvailable`
 - Jeśli wersja 4.1.1 nie znajduje się na liście dostępnych, należy użyć programu `Update-Module Az.Resources -Force` .
-- Jeśli w błędzie zostanie określony stan, który musi być określoną wersją, zaktualizuj również ten moduł, zastępując `Az.Accounts` wartość `Az.Resources` . `Az.Accounts` Następnie należy ponownie uruchomić sesję programu PowerShell.
+- Jeśli w błędzie zostanie określony stan, który musi być określoną wersją, zaktualizuj również ten moduł, zastępując `Az.Accounts` `Az.Resources` wartość . `Az.Accounts` Następnie należy ponownie uruchomić sesję programu PowerShell.
 
 
 ## <a name="next-steps"></a>Następne kroki

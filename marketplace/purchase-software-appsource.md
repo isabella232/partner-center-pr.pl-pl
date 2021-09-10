@@ -6,16 +6,16 @@ ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: e55e45fe80c67653fec1a6e2b191801061040a3537f9183b2bc8c8824b0c6252
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: e51f4593624a764e14ecae473f96cf0779c2ff10
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688339"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123936941"
 ---
 # <a name="purchase-saas-apps-on-microsoft-appsource"></a>Kupowanie aplikacji SaaS w Microsoft AppSource
 
-[Microsoft AppSource](https://appsource.microsoft.com/) zawiera tysiące aplikacji biznesowych, w tym aplikacje SaaS (oprogramowanie jako usługa) i dodatki dla usług Dynamics 365, Microsoft 365, Power BI i Power Apps. Usługa AppSource obejmuje bezpłatne aplikacje, wersje próbne i płatne subskrypcje, a także umożliwia zarządzanie opłatami, uaktualnieniami, obniżaniem i anulowaniem w jednym miejscu przy użyciu [usługi centrum administracyjne platformy Microsoft 365](/microsoft-365/admin/admin-overview/about-the-admin-center). W tym artykule wyjaśniono, jak kupić płatne subskrypcje SaaS w usłudze AppSource.
+[Microsoft AppSource](https://appsource.microsoft.com/) zawiera tysiące aplikacji biznesowych, w tym aplikacje saaS (oprogramowanie jako usługa) i dodatki dla usług Dynamics 365, Microsoft 365, Power BI i Power Apps. Usługa AppSource obejmuje bezpłatne aplikacje, wersje próbne i płatne subskrypcje, a także umożliwia zarządzanie opłatami, uaktualnieniami, obniżaniem i anulowaniem w jednym miejscu przy użyciu [usługi centrum administracyjne platformy Microsoft 365](/microsoft-365/admin/admin-overview/about-the-admin-center). W tym artykule wyjaśniono, jak kupić płatne subskrypcje SaaS w usłudze AppSource.
 
 ## <a name="requirements"></a>Wymagania
 
@@ -30,7 +30,7 @@ Zakup aplikacji SaaS wymaga następujących czynności:
 
 ## <a name="purchase-the-application"></a>Kupowanie aplikacji
 
-1. Wybierz swój kraj/region rozliczeniowy w [usłudze AppSource.](https://appsource.microsoft.com/)
+1. Wybierz kraj/region rozliczeniowy w usłudze [AppSource.](https://appsource.microsoft.com/)
 1. Znajdź aplikację, którą chcesz kupić.
 1. Wybierz **pozycję Pobierz teraz.**
 1. Wybierz plan:

@@ -1,5 +1,5 @@
 ---
-title: Używanie Partner Center Analytics dla Power BI
+title: Używanie Partner Center Analytics na Power BI
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
@@ -10,12 +10,12 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dd50b12bdffd9594367e699e9ee044306a226736f669366e2fae9ac94c338da2
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: eea221af22e9bd7aa684bc5120b0799f083f8663
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681403"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959589"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Wyświetlanie danych biznesowych za pomocą aplikacji Partner Center Analytics dla firmy Microsoft Power BI
 
@@ -25,21 +25,21 @@ ms.locfileid: "115681403"
 
 ## <a name="view-your-business-data"></a>Wyświetlanie danych biznesowych
 
-Pobierz wizualną reprezentację danych biznesowych za pomocą aplikacji Partner Center Analytics dla usługi Microsoft Power BI, w tym:
+Pobierz wizualną reprezentację danych biznesowych za pomocą aplikacji Partner Center Analytics dla platformy Microsoft Power BI, w tym:
 
 - Rozwój bazy klientów, subskrypcji i licencji
 
 - Użycie produktów Office 365, Microsoft Dynamics i Microsoft Azure produktów
 
-- Jednostki dziennego zużycia dla każdego zasobu taryfowego w każdej subskrypcji platformy Azure w ciągu ostatnich 60 dni
+- Jednostki dziennego zużycia dla każdego mierzonego zasobu w każdej subskrypcji platformy Azure w ciągu ostatnich 60 dni
 
 - Szacowany koszt (na podstawie najnowszej karty stawki)
 
 - Możliwość eksportowania zestawów danych i tworzenia raportów niestandardowych, w tym dla niestandardowych klientów.
 
-### <a name="about-the-partner-center-analytics-app-preview-release"></a>Informacje o wersji zapoznawczej Partner Center Analytics
+### <a name="about-the-partner-center-analytics-app-preview-release"></a>Informacje o wersji zapoznawczej aplikacji Partner Center Analytics
 
-- Ta aplikacja jest tylko dla bezpośrednich partnerów Dostawca rozwiązań w chmurze (CSP). Inni partnerzy w programie CSP (na przykład odsprzedawcy pośredni) nie będą mogli się zalogować.
+- Ta aplikacja jest tylko dla bezpośrednich partnerów w Dostawca rozwiązań w chmurze (CSP). Inni partnerzy w programie CSP (na przykład odsprzedawcy pośredni) nie będą mogli się zalogować.
 
 - Wszelkie szacowane koszty są danymi rozliczeń przed opodatkowaniem/fakturami i nie są prawnie związane. Szacowane koszty są przeznaczone tylko do wglądu w dane.
 
@@ -61,13 +61,13 @@ Pobierz wizualną reprezentację danych biznesowych za pomocą aplikacji Partner
 
 - **Szacowany miesięczny koszt w** ciągu ostatnich 12 miesięcy: trend miesiąc do miesiąca szacowanej kwoty faktury przed opodatkowaniem zagregowanej co miesiąc w okresie ostatnich 12 miesięcy
 
-- **Szacowany koszt według produktu** w ciągu ostatnich 12 miesięcy: sprzedane produkty posortowane według szacowanej kwoty faktury przed opodatkowaniem zagregowanej w okresie ostatnich 12 miesięcy. Ten stan wskazuje najlepsze produkty, które przynoszą najwięcej przychodów.
+- **Szacowany koszt według produktu w** ciągu ostatnich 12 miesięcy: sprzedane produkty posortowane według szacowanej kwoty faktury przed opodatkowaniem zagregowanej w okresie ostatnich 12 miesięcy. Ten stan wskazuje najlepsze produkty, które przynoszą największe przychody.
 
-- **Klienci w ciągu ostatnich 12 miesięcy:** Trend miesiąc do miesiąca nowych klientów i klientów z rezygnacjami zagregowany co miesiąc w okresie ostatnich 12 miesięcy
+- **Klienci w ciągu ostatnich 12 miesięcy:** trend miesiąc do miesiąca nowych klientów i klientów z rezygnacjami zagregowany co miesiąc w okresie ostatnich 12 miesięcy
 
 - **Szacowany koszt według klienta w** ciągu ostatnich 12 miesięcy: klienci posortowani według szacowanej kwoty faktury przed opodatkowaniem zagregowanej w okresie ostatnich 12 miesięcy. Ten stan wskazuje najbardziej dochodowych klientów.
 
-- **Liczba klientów według produktu:** sprzedane produkty posortowane według skojarzonych klientów. Ten stan wskazuje najlepsze produkty sprzedane większości klientów.
+- **Liczba klientów według produktu:** produkty sprzedane posortowane według skojarzonych klientów. Ten stan wskazuje najlepsze produkty sprzedane większości klientów.
 
 ### <a name="subscription-insights-report"></a>Raport Szczegółowe informacje subskrypcji
 
@@ -85,7 +85,7 @@ Pobierz wizualną reprezentację danych biznesowych za pomocą aplikacji Partner
 
   - Wygasanie po 30 dniach: subskrypcje, które wygasną po 30 dniach (gdzie data zakończenia subskrypcji to następne 30 dni)
 
-  - Wygasanie w ciągu 30 dni: subskrypcje, które wygasną w ciągu następnych 30 dni (gdzie data zakończenia subskrypcji to od dnia dzisiejszego do następnych 30 dni)
+  - Wygasanie w ciągu 30 dni: subskrypcje, które wygasną w ciągu następnych 30 dni (data zakończenia subskrypcji to od dnia dzisiejszego do następnych 30 dni)
 
 - **Łączna liczba subskrypcji:** subskrypcje w stanie "aktywne", "w prolongacie" lub "wyłączone"
 
@@ -101,7 +101,7 @@ Pobierz wizualną reprezentację danych biznesowych za pomocą aplikacji Partner
 
 - **Liczba aktywnych subskrypcji według produktu:** sprzedane produkty posortowane według liczby aktywnych subskrypcji
 
-- **Subskrypcje z ostatnich 12** miesięcy: trend z miesiąca na miesiąc nowych subskrypcji i subskrypcji rezygnacji zagregowanych co miesiąc w okresie ostatnich 12 miesięcy
+- **Subskrypcje w ciągu ostatnich 12** miesięcy: trend z miesiąca na miesiąc nowych subskrypcji i rezygnacji zagregowanych miesięcznie w okresie ostatnich 12 miesięcy
 
 - **Szczegóły subskrypcji klienta:** szczegółowy widok klientów, subskrypcji i ofert
 
@@ -137,23 +137,23 @@ Pobierz wizualną reprezentację danych biznesowych za pomocą aplikacji Partner
 
 - **Licencje w użyciu przez klienta:** szczegółowy widok licencji sprzedanych i licencji w użyciu przez klientów i produkty
 
-### <a name="azure-insights-report"></a>Raport Szczegółowe informacje platformy Azure:
+### <a name="azure-insights-report"></a>Raport Szczegółowe informacje azure:
 
 - Klienci na podstawie użycia w ciągu ostatnich **12** miesięcy: trend z miesiąca na miesiąc nowych klientów opartych na użyciu i klientów opartych na użyciu z rezygnacjami zagregowanych co miesiąc w okresie ostatnich 12 miesięcy
 
-- **Subskrypcje oparte na** użyciu w ciągu ostatnich 12 miesięcy: trend z miesiąca na miesiąc nowych subskrypcji opartych na użyciu i subskrypcje oparte na użyciu, które są agregowane co miesiąc w okresie ostatnich 12 miesięcy
+- Subskrypcje oparte na użyciu w ciągu ostatnich **12** miesięcy: trend miesiąc po miesiącu nowych subskrypcji opartych na użyciu i subskrypcji opartych na rezygnacjach opartych na użyciu zagregowanych co miesiąc w okresie ostatnich 12 miesięcy
 
 - Szacowany koszt użycia według klienta w ciągu ostatnich **60** dni: klienci na podstawie użycia posortowani według szacowanej kwoty faktury przed opodatkowaniem zagregowanej w ciągu ostatnich 60 dni. Ten stan wskazuje najbardziej dochodowych klientów opartych na użyciu
 
-- Szacowany koszt użycia według kategorii w ciągu ostatnich **60** dni: kategorie mierników subskrypcji opartych na użyciu posortowane według szacowanej kwoty faktury przed opodatkowaniem zagregowanej w okresie ostatnich 60 dni.
+- Szacowany koszt użycia według kategorii w ciągu ostatnich **60** dni: kategorie mierników subskrypcji opartych na użyciu posortowane według szacowanej kwoty faktury przed opodatkowaniem zagregowanej w ciągu ostatnich 60 dni.
 
-- **Szacowany koszt użycia** według subskrypcji w ciągu ostatnich 60 dni: subskrypcje oparte na użyciu według szacowanej kwoty faktury przed opodatkowaniem zagregowanej w ciągu ostatnich 60 dni.
+- Szacowany koszt użycia według subskrypcji w ciągu ostatnich **60** dni: subskrypcje oparte na użyciu według szacowanej kwoty faktury przed opodatkowaniem zagregowanej w ciągu ostatnich 60 dni.
 
-- **Szacowany koszt użycia przez klienta według budżetu wydatków:** Klienci posortowani według wartości procentowej bieżącego budżetu wydatków na użycie przekraczających próg (100%).
+- **Szacowany koszt użycia przez klienta według budżetu wydatków:** klienci posortowani według wartości procentowej bieżącego budżetu wydatków na użycie przekraczających próg (100%).
 
 ### <a name="azure-resource-usage-report"></a>Raport Użycia zasobów platformy Azure:
 
-- **Użycie zasobów platformy Azure według dnia dla** wybranego okresu: dzienne jednostki zużycia dla każdego mierzonego zasobu w każdej subskrypcji opartej na użyciu w wybranym okresie w ciągu ostatnich 60 dni.
+- **Użycie zasobów platformy Azure według dnia w** wybranym okresie: dzienne jednostki zużycia dla każdego mierzonego zasobu w każdej subskrypcji opartej na użyciu w wybranym okresie w ciągu ostatnich 60 dni.
 
 - **Szacowany koszt** użycia zasobów platformy Azure w wybranym okresie: Szacowany koszt oparty na najnowszej karcie stawki dla każdego mierzonego zasobu w każdej subskrypcji opartej na użyciu w wybranym okresie w ciągu ostatnich 60 dni. 
 

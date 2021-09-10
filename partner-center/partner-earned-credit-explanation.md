@@ -10,15 +10,15 @@ ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 3583614b1bf89a3c9297f123f12355b8a2ad7d1e
-ms.sourcegitcommit: 03713f713b38f8c7bc299dcb92b7264777d1339c
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "122019649"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957933"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Jak są obliczane i wypłacane środki zarobione przez partnera
 
-**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent administracyjny | Administrator rozliczeń | Agent sprzedaży
+**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent administracyjny | Administrator rozliczeń | Agent sprzedaży
 
 Punkty uzyskane przez partnerów dla usług zarządzanych rozpoznaje i nagradza partnerów, którzy są właścicielami kontroli operacyjnej IT i zarządzania środowiskiem platformy Azure niektórych lub wszystkich klientów. 
 
@@ -99,7 +99,7 @@ W widoku Analiza kosztów będą wyświetlane koszty dla konta rozliczeniowego d
     Jeśli ta wartość to **False,** skojarzony koszt nie spełnił wymaganych uprawnień do środków lub zakupiona usługa nie kwalifikuje się do środków uzyskane przez partnerów.
 
 >[!NOTE]
->Zwykle czas użycia usług w programie Cost Management wynosi 8–24 godziny, a środki PEC pojawią się w ciągu 48 godzin od czasu uzyskania dostępu w Azure Cost Management.
+>Zwykle użycie usług w usługach pojawia się w u Cost Management w ciągu 8–24 godzin, a środki PEC pojawią się w ciągu 48 godzin od czasu uzyskania dostępu w Azure Cost Management.
 
 Można również grupować i filtrować według właściwości **PartnerEarnedCreditApplied** przy użyciu funkcji Grupuj według **i** **Dodaj** filtr. Umożliwiają one przechodzenie do szczegółów kosztów z pec i kosztów, które nie mają zastosowania PEC.
 

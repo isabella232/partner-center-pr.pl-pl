@@ -1,24 +1,24 @@
 ---
 title: Regionalne podatki i opłaty za usługi PSTN
-description: Jako partner Office 365, który Microsoft 365 produktów Voice, możesz podlegać regionalnym podatkom, opłatom lub wymogom prawnymi w zakresie usług PSTN.
+description: Jako partner Office 365, który Microsoft 365 produktach Voice, możesz podlegać regionalnym podatkom, opłatom lub wymogom prawnych w zakresie usług PSTN.
 ms.topic: article
 ms.date: 09/10/2020
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 228534aff70db5c60116d408550361477da7302b784c78ea746cd2ae017c70a0
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 85eefb49cf62c4bcfa5533683abd8ddb0e854463
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691671"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961515"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Podatki regionalne, przepisy dotyczące usług publicznej sieci telefonicznej (PTSN)
 
 **Odpowiednie role:** Administrator globalny | Administrator | Agent administracyjny
 
-Usługi publicznej sieci telefonicznej przełączone (PSTN) w niektórych jurysdykcjach mogą podlegać specjalnym wymogom podatkowym i prawnych, które mogą mieć wpływ na zamówienia i fakturowanie partnerów. W tej Stany Zjednoczone, w tym Port Port, usługi PSTN, które obejmują audiokonferencje, plany połączeń i środki komunikacyjne, podlegają specjalnym wymogom podatkowym i prawnych. W witrynie Stany Zjednoczone i PortOryko firma Microsoft ceni usługi PSTN jako nieukońcowe.  Unikatowe podatki i regulacje dotyczące sieci PSTN będą mieć wpływ Office 365 partnerów, którzy Microsoft 365 produkty usługi Voice.  Jeśli partner oznacza cenę usługi Microsoft PSTN, może być odpowiedzialny za obliczanie i remitowanie podatków i opłat PSTN.
+Usługi publicznej sieci telefonicznej przełączone (PSTN) w niektórych jurysdykcjach mogą podlegać specjalnym wymogom podatkowym i prawnych, które mogą mieć wpływ na zamówienia i fakturowanie partnerów. W tej Stany Zjednoczone, w tym PortOryko, usługi PSTN, które obejmują audiokonferencje, plany połączeń i środki komunikacyjne, podlegają specjalnym wymogom podatkowym i prawnych. W Stany Zjednoczone i Portoryko firma Microsoft ceni usługi PSTN jako bez podatku.  Unikatowe podatki i regulacje dotyczące sieci PSTN będą mieć wpływ Office 365 partnerów, którzy Microsoft 365 produkty usługi Voice.  Jeśli partner oznacza cenę usługi Microsoft PSTN, może być odpowiedzialny za obliczanie i remitowanie podatków i opłat PSTN.
 
 ## <a name="partner-recommendations"></a>Partner Rekomendacje
 
@@ -26,11 +26,11 @@ Zaangażuj się w przepisy podatkowe i prawne, aby zrozumieć odpowiedzialność
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Prezentacja faktury i plik uzgodnień partnera
 
-Dostawca rozwiązań w chmurze (CSP) faktury i pliki uzgodnień programu CSP w usługach Stany Zjednoczone, PortOry i Canada, które obejmują usługi Skype dla firm PSTN i Microsoft 365 Voice, będą dostarczać oddzielne pozycje dla składników PSTN i innych niż PSTN.
+Faktury Dostawca rozwiązań w chmurze (CSP) i pliki uzgodnień programu CSP w usługach Stany Zjednoczone, PortOry i Canada, które obejmują usługi Skype dla firm PSTN i Microsoft 365 Voice, będą zapewniać oddzielne pozycje dla składników PSTN i innych niż PSTN.
 
 Ponadto faktury CSP będą wyświetlać następujący przypis:
 
-* Wyświetlana cena to opłata za audiokonferencje i usługi planu połączeń.  Wszelkie odpowiednie podatki transakcyjne są naliczane wyłącznie za kwotę wyświetlaną z wyjątkiem sprzedaży dokonanej w ramach Stany Zjednoczone.  W Stanach Zjednoczonych wyświetlana cena obejmuje podatek, ponieważ obejmuje opłatę za plan połączeń i usługi audiokonferencji oraz opłaty za podatki i opłaty, które są wymagane do nali należności.  Usługi audiokonferencji i planu połączeń są świadczone przez podmiot powiązany z firmą Microsoft autoryzowany do ich świadczenia.  Zobacz [Licencjonowanie zbiorowe firmy Microsoft](https://go.microsoft.com/fwlink/?LinkId=690247), aby uzyskać więcej szczegółów.
+* Wyświetlana cena to opłata za audiokonferencje i usługi planu połączeń.  Wszelkie odpowiednie podatki transakcyjne są naliczane wyłącznie za kwotę pokazaną z wyjątkiem sprzedaży dokonanej w ramach Stany Zjednoczone.  W Stanach Zjednoczonych wyświetlana cena obejmuje podatek, ponieważ obejmuje opłatę za plan połączeń i usługi audiokonferencji oraz opłaty za podatki i opłaty, które są wymagane do nali należności.  Usługi audiokonferencji i planu połączeń są świadczone przez podmiot powiązany z firmą Microsoft autoryzowany do ich świadczenia.  Zobacz [Licencjonowanie zbiorowe firmy Microsoft](https://go.microsoft.com/fwlink/?LinkId=690247), aby uzyskać więcej szczegółów.
 
 ## <a name="reconciliation-file-example"></a>Przykład pliku uzgodnień
 

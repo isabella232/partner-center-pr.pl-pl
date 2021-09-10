@@ -8,18 +8,18 @@ description: Sprawdź, co robisz dobrze i gdzie możesz poprawić użycie subskr
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 4d6dec18310193e2d4b51bc41e6fce3ef11f8354d0dd451d1517923f8ea5845d
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 390c81496c16afb20ede58420c1201b24349708e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115683062"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959668"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Teams raport użycia dostępny na pulpicie nawigacyjnym Partner Center Szczegółowe informacje nawigacyjnym
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny | Przeglądarka raportów | Przeglądarka raportów dla kierownictwa
 
-Raport Teams użycia przedstawia metryki związane z obciążeniami usługi Teams, które zostały sprzedane klientom lub są nimi zarządzane. Poniższe sekcje można wyświetlić w raporcie Teams użycia.
+Raport Teams użycia przedstawia metryki związane z Teams obciążeniami, które zostały sprzedane klientom lub są nimi zarządzane. Poniższe sekcje można wyświetlić w raporcie Teams użycia.
 
 - Podsumowanie
 - Trend konwersacji
@@ -31,7 +31,7 @@ Raport Teams użycia przedstawia metryki związane z obciążeniami usługi Team
 
 ## <a name="summary"></a>Podsumowanie
 
-Sekcja podsumowania przedstawia widok migawki kluczowych wskaźników związanych z obciążeniami Teams sprzedanymi lub zarządzanymi przez Ciebie dla twoich klientów.  
+Sekcja podsumowania przedstawia widok migawek kluczowych wskaźników związanych z obciążeniami Teams sprzedanymi lub zarządzanymi przez Ciebie dla twoich klientów.  
 
 - Klienci: odrębna liczba klientów używających Teams jako obciążenia dla wybranego czasu trwania.
 
@@ -59,7 +59,7 @@ Raport Teams według obciążeń przedstawia comiesięczny podział użytkownik�
 
 ## <a name="top-customers-by-usage"></a>Najgorętsi klienci według użycia
 
-Raport Top customers by usage (Najgoręcejsi klienci według użycia) przedstawia użycie najgorętszych klientów na Teams, połączeń telefonicznych, systemów telefonicznych i aplikacji innych firm.
+Raport Top customers by usage (Najgoręcejsi klienci według użycia) przedstawia użycie najlepszych klientów na Teams, połączeń telefonicznych, systemów telefonicznych i aplikacji innych firm.
 
 :::image type="content" source="images/insights/teams-usage-top-customer.png" alt-text="Najgorętsi klienci według użycia.":::
 

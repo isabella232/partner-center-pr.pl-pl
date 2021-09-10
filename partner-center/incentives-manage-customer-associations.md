@@ -1,6 +1,6 @@
 ---
 title: Zachęty dla skojarzeń klientów
-description: Informacje na temat ważnych procesów i osi czasu zarządzania skojarzeniami klientów CPOR (Claimed Partner of Record).
+description: Informacje na temat ważnych procesów i osi czasu zarządzania skojarzeniami klientów Wdowy partner rekordu (CPOR).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: how-to
@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 3ed33f28f68f980d916832ab7cab9e09cc06d16c33c1b62a1bcf9fcde40629a2
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d99de8ed53ae6ed7fa094f6da7a8947c1bcfccb9
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115683222"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958641"
 ---
 # <a name="manage-incentives-customer-associations"></a>Zarządzanie skojarzeniami klientów zachęt
 
@@ -25,7 +25,7 @@ Platforma CPOR (Claimed Partner of Record) jest używana przez partnerów do sko
 
 Jeśli oświadczenie skojarzenia CPOR zostało zatwierdzone, użytkownik jest teraz skojarzony z klientem. Nie oznacza to, że roszczenie jest zatwierdzane w przypadku zarobków lub wypłat w programie zachęty. Przewodnik po programie zachęt zawiera opis wymagań dotyczących uprawnień do korzystania z zachęt, które mają być opłacane na podstawie zatwierdzonych roszczeń.
 
-Przewodniki programu zachęt można znaleźć na stronie [Microsoft Partner Network.](https://aka.ms/partnerincentives)
+Przewodniki programu zachęt można znaleźć na [stronie Microsoft Partner Network](https://aka.ms/partnerincentives).
 
 Jeśli Twoje roszczenie dotyczące skojarzenia CPOR zostanie zatwierdzone i kwalifikuje się do otrzymania zachęt, możesz zweryfikować identyfikator subskrypcji lub dzierżawy w raportach dotyczących zarobków i wypłat. 
 
@@ -33,12 +33,12 @@ Jeśli Twoje roszczenie dotyczące skojarzenia CPOR zostanie zatwierdzone i kwal
 
 - Przesłane: będzie w stanie przesłanym przez maksymalnie pięć dni roboczych, dopóki firma Microsoft nie rozpocznie procesu zatwierdzania.
 - W obszarze Przegląd: Firma Microsoft ma pięć dni roboczych, aby podjąć decyzję na podstawie dowodu wykonania, które podano.
-- Wymagana akcja partnera: Jeśli recenzent wyśle Ci komentarze i żądanie dodatkowych informacji, masz pięć dni roboczych, aby odpowiedzieć. W ciągu 10 dni na podstawie umowy SLA recenzenta powinna zostać podjęta decyzja o roszczeniach dotyczących skojarzenia CPOR oraz o czasie, który zajmuje recenzentom weryfikacji wykonania (PoE) dodatkowe informacje.
-- Zatwierdzone: Twoje roszczenie skojarzenia CPOR zostało zatwierdzone. Po zatwierdzeniu skojarzenia do klienta zostanie wysłane powiadomienie, które daje mu możliwość odmowy skojarzenia. Klient będzie miał siedem dni na rezygnację. Po zakończeniu tego okresu zgody roszczenie zostanie wysłane w celu oceny uprawnień do programów zachęt.
+- Wymagana akcja partnera: jeśli recenzent wyśle Ci komentarze i żądanie dodatkowych informacji, masz pięć dni roboczych na udzielenie odpowiedzi. W ciągu 10 dni na podstawie umowy SLA recenzenta powinna zostać podjęta decyzja o roszczeniach dotyczących skojarzenia CPOR oraz o czasie, który zajmuje recenzentom weryfikacji wykonania (PoE) dodatkowe informacje.
+- Zatwierdzone: Twoje roszczenie skojarzenia CPOR zostało zatwierdzone. Po zatwierdzeniu skojarzenia do klienta zostanie wysłane powiadomienie z możliwością odmowy skojarzenia. Klient będzie miał siedem dni na rezygnację. Po zakończeniu tego okresu zgody roszczenie zostanie wysłane w celu oceny uprawnień do programów zachęt.
 
 ## <a name="view-the-status-of-your-cpor-association-claim"></a>Wyświetlanie stanu roszczenia skojarzenia CPOR
 
-Stan roszczenia skojarzenia CPOR można sprawdzić w dowolnym momencie przy użyciu pulpitu nawigacyjnego skojarzeń klienta [(wymagane](https://partner.microsoft.com/dashboard/incentives/claims/associations) jest zalogowanie się).
+Stan roszczenia skojarzenia CPOR można sprawdzić w dowolnym momencie przy użyciu pulpitu nawigacyjnego skojarzeń klienta [(wymagane](https://partner.microsoft.com/dashboard/incentives/claims/associations) jest zalogowanie).
 
 Oto stany i ich znaczenie:
 
@@ -83,7 +83,7 @@ Istnieją trzy podstawowe przyczyny odrzucenia roszczenia skojarzenia CPOR.
 
 **Odrzuć klienta:** Po pomyślnym zakończeniu procesu zatwierdzania skojarzenia CPOR jego stan zmieni się na Zatwierdzone, podczas gdy klient ma możliwość odmowy zgody skojarzenia. Jeśli klient odmawia wyrażenia zgody, skojarzenie zostanie odrzucone.
 
-**Niewystarczająca ilość dowodu wykonania:** Dowód wykonania jest wymagany dla każdego skojarzenia CPOR. Po przesłaniu roszczenia o skojarzenie CPOR recenzentzy firmy Microsoft przejdą do weryfikacji i będą prosić o dodatkowe informacje, korzystając z sekcji Komentarze w żądaniu. Jeśli informacje są niewystarczające, roszczenie dotyczące skojarzenia CPOR zostanie odrzucone.
+**Niewystarczająca ilość dowodu wykonania:** Dowód wykonania jest wymagany dla każdego skojarzenia CPOR. Po przesłaniu roszczenia o skojarzenie CPOR recenzentzy firmy Microsoft przejdą do weryfikacji i poprosią o dodatkowe informacje, korzystając z sekcji Komentarze w żądaniu. Jeśli te informacje są niewystarczające, roszczenie dotyczące skojarzenia CPOR zostanie odrzucone.
 
 Inne możliwe przyczyny odrzucenia:
 

@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c0a88830796efa63cc6f9e2c0005b0974df22032dc877830b002527bced3a426
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2d9924b8d361be4237c613467a1d36db29cf7d9e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694349"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958774"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Jak sprzedawać oferty klientom edukacyjnym i jak utworzyć klienta edukacyjnego w Partner Center
 
@@ -41,7 +41,7 @@ W tym artykule wyjaśniono, jak utworzyć klienta edukacyjnego w Partner Center 
 
    :::image type="content" source="images/eduaccountinfo.png" alt-text="Konto klienta edukacyjnego.":::
 
-4. Po potwierdzeniu **weryfikacji** zostanie wyświetlony stan InReview (W **przeglądzie),** jeśli przesłane informacje są prawidłowe. 
+4. Po potwierdzeniu **weryfikacji** w programie zostanie wyświetlony stan **InReview (Wprzejrzysz),** jeśli przesłane informacje są prawidłowe. 
 
     :::image type="content" source="images/edu/create-review.png" alt-text="Konto klienta edukacyjnego w przeglądzie."lightbox="images/edu/create-review-expanded.png":::
 
@@ -58,7 +58,7 @@ Przykłady stanu:
 
    :::image type="content" source="images/edu/fail-reason.png" alt-text="Weryfikacja edukacji nie powiodła się." lightbox="images/edu/fail-reason-expanded.png":::
 
-- Jeśli klient nie został oznaczony jako klient edukacyjny: Brak
+- Jeśli klient nie został otagowany jako klient edukacyjny: Brak
 
    :::image type="content" source="images/edu/account-one.png" alt-text="klient edukacyjny nie jest w związku z tym otagowany." lightbox="images/edu/account-one-expanded.png":::
 
@@ -72,11 +72,11 @@ Jeśli klient nie powiedzie się podczas wstępnej weryfikacji, możesz teraz po
 
 ### <a name="correct-the-customer-account-information"></a>Poprawianie informacji o koncie klienta
 
-Aby zaktualizować informacje o kliencie, musisz mieć uprawnienia administratora globalnego. Aktualizujesz informacje w portalu Office 365, ponieważ tych danych nie można zaktualizować z Partner Center portalu.
+Aby zaktualizować informacje o kliencie, musisz mieć uprawnienia administratora globalnego. Zaktualizuj informacje w portalu Office 365, ponieważ tych danych nie można zaktualizować z Partner Center portalu.
 
 1. Na **stronie Konto** zobaczysz informacje z informacją, że kwalifikacja klienta jest uważana za "Nie jest klientem edukacyjnym".
 
-2. Odśwież przeglądarkę, aby zresetować stronę. Zostanie ustawiony przycisk **Aktualizuj,** a **stan Kwalifikacje specjalne** zostanie ustawiony na **Wartość brak.**
+2. Odśwież przeglądarkę, aby zresetować stronę. Zostanie ustawiony przycisk **Aktualizuj,** a **stan Kwalifikacje specjalne** zostanie ustawiony na **wartość Brak.**
 
 3. Wybierz pozycję **Aktualizuj**. Na stronie **Zarządzanie usługami** wybierz pozycję **Office 365**.
 
@@ -90,7 +90,7 @@ Aby zaktualizować informacje o kliencie, musisz mieć uprawnienia administrator
 
 ### <a name="resubmit-for-verification"></a>Prześlij ponownie do weryfikacji
 
-1. Przejdź do karty Partner Center i strony **konta** klienta. Odśwież przeglądarkę i sprawdź, czy strona Firmy została zaktualizowana do nowych informacji. Wybierz **przycisk Aktualizuj,** aby poprosić o ponowną weryfikację edukacji.
+1. Przejdź na kartę Partner Center i do strony **konta** klienta. Odśwież przeglądarkę i sprawdź, czy strona Firmy została zaktualizowana do nowych informacji. Wybierz **przycisk Aktualizuj,** aby poprosić o ponowną weryfikację edukacji.
 
 2. Jeśli zaktualizowane szczegóły klienta kwalifikują się do ofert edukacyjnych, zobaczysz, że kwalifikacje **specjalne** zostały zaktualizowane do **oferty Education**. Jeśli nadal widzisz element **Nie dla** klientów edukacyjnych, skontaktuj się z pomocą techniczną w celu weryfikacji ręcznej.
 

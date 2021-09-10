@@ -9,31 +9,31 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3102f4881f0aa86b8418ff09a3e430ccaff754cedb65e168ec0c10d5f2e3bbec
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: e94a57b6e93c86a24458862a3dd4a6ccc0b14885
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687875"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959577"
 ---
-# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Korzystanie z analizy, aby dowiedzieć się więcej o przychodach z subskrypcji
+# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Używanie analizy, aby dowiedzieć się więcej o przychodach z subskrypcji
 
 **Odpowiednie role:** Administrator globalny | Administrator partnera MPN
 
-Planowanie sposobów opracowania działań w firmie związanych z programem CSP obejmuje zrozumienie, w jaki sposób klienci używają produktów firmy Microsoft. Istnieje kilka opcji zbierania danych w usługach Partner Center i możesz zbierać dane dotyczące zarówno firmy, jak i tego, czy i w jaki sposób klienci korzystali z zakupionych licencji. Jeśli korzystasz z modelu bezpośredniego programu CSP, masz również możliwość zainstalowania i użycia pakietu aplikacja statystyczna Centrum partnerskiego dla usługi Power BI w celu zebrania dodatkowych danych.
+Planowanie sposobów opracowania działań w firmie związanych z programem CSP obejmuje zrozumienie, w jaki sposób klienci używają produktów firmy Microsoft. Istnieje kilka opcji zbierania danych w usługach Partner Center. Możesz zbierać dane dotyczące zarówno firmy, jak i tego, czy i w jaki sposób klienci korzystali z zakupionych licencji. Jeśli korzystasz z modelu bezpośredniego programu CSP, masz również możliwość zainstalowania i użycia pakietu aplikacja statystyczna Centrum partnerskiego dla usługi Power BI w celu zebrania dodatkowych danych.
 
 ## <a name="access-to-the-subscription-analytics"></a>Dostęp do analizy subskrypcji
 
 1. Zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard/home)
-1. W programie CSP w menu Partner Center wybierz pozycję Analizuj, a następnie wybierz **pozycję Analiza subskrypcji.**
+1. W programie CSP w menu Partner Center wybierz **pozycję** Analizuj, a następnie wybierz pozycję **Analiza subskrypcji.**
 
-1. Końcowe przychody z 12 miesięcy CSP zostaną wyświetlone w górnej części strony
+1. Końcowe przychody z 12 miesięcy CSP będą wyświetlane w górnej części strony
 
 :::image type="content" source="images/analytics/subscription1.png" alt-text="Ekran subskrypcji.":::
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Końcowe Twelve-Month CSP (TTM) Revenue
 
-12-miesięczny przychód w programie CSP reprezentuje Dostawca rozwiązań w chmurze przychodu programu w USD na poziomie globalnego konta partnera. Dane są odświeżane ósmego dnia każdego miesiąca, aby wyświetlić końcowe przychody z 12 miesięcy do poprzedniego miesiąca. Na przykład 9 września 2020 r. powinno być możliwe wyświetlanie TTM dla stałego okresu od września 2019 r. do sierpnia 2020 r. Subskrypcje oprogramowania są wykluczone. Przychód z TTM będzie odzwierciedlał tylko kwalifikowalny przychód, dla którego faktury zostały już opłacone. 
+12-miesięczny przychód w programie CSP reprezentuje Dostawca rozwiązań w chmurze przychodu z programu w USD na poziomie globalnego konta partnera. Dane są odświeżane ósmego dnia każdego miesiąca, aby wyświetlić końcowe przychody z 12 miesięcy do poprzedniego miesiąca. Na przykład 9 września 2020 r. powinno być możliwe wyświetlanie TTM dla stałego okresu od września 2019 r. do sierpnia 2020 r. Subskrypcje oprogramowania są wykluczone. Przychód z TTM będzie odzwierciedlał tylko kwalifikowalny przychód, dla którego faktury zostały już opłacone. 
 
 Przychód wyświetlany na Partner Center jest obliczany dla stałego przedziału czasu 12 miesięcy i nie można go zmodyfikować w krótszym przedziale czasu.
 

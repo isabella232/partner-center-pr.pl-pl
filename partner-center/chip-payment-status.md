@@ -2,21 +2,21 @@
 title: Sprawdzanie stanu płatności na platformie CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Dowiedz się, jak za pomocą platformy Channel Incentives Platform (CHIP) sprawdzić stan płatności. Należy pamiętać, że mikroukład zostanie wycofany z końcem 2021 r.
+description: Dowiedz się, jak sprawdzić stan płatności za pomocą platformy Channel Incentives Platform (CHIP). Należy pamiętać, że chip zostanie wycofany z końcem 2021 r.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 680e3e284f8226f3f6ee0faeb89a4ab0fd689861a1d2fe47fefc7f48f3a8365f
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 4bd3ff28dbc0ff159a68827735b81be5ac1eb948
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692691"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959433"
 ---
-# <a name="check-payment-status-in-the-channel-incentives-platform-chip"></a>Sprawdź stan płatności na platformie Channel Incentives Platform (CHIP)
+# <a name="check-payment-status-in-the-channel-incentives-platform-chip"></a>Sprawdzanie stanu płatności na platformie Channel Incentives Platform (CHIP)
 
 **Odpowiednie role:** administrator mikroukładu
 
@@ -31,8 +31,8 @@ Aby sprawdzić stan płatności na platformie CHIP, w przypadku programów Enter
  
 1. Wybierz link **Enterprise** lub **SPLAR** na ekranie głównym chipu, aby otworzyć pulpit nawigacyjny. Pulpit nawigacyjny to ekran podsumowania wszystkich zarobków i płatności.
  
-1. Aby pobrać pełne szczegóły zarobków, płatności lub obliczeń, wybierz pozycję Eksportuj do Excel **z** listy **rozwijanej** Wybierz.
+1. Aby pobrać pełne szczegóły zarobków, płatności lub obliczeń, wybierz pozycję **Eksportuj** do Excel z listy **rozwijanej** Wybierz.
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Uprawnienia do oceny rozwiązania](chip-solution-assessment.md) 
+- [Uprawnienia do oceny rozwiązań](chip-solution-assessment.md) 

@@ -8,20 +8,20 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 76fb1b113a44e195114d67d79f192b3c2dce1071b7502f01af20387f69d62a8f
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 9aac83645051f3e8f32945ae908ba1fe47c08d13
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115697469"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959109"
 ---
 # <a name="make-your-first-api-call-to-access-partner-insights-analytics-data"></a>Pierwsze wywołanie interfejsu API w celu uzyskania dostępu do danych analitycznych szczegółowych informacji partnerów
 
-Aby uzyskać listę interfejsów API na temat uzyskiwania dostępu do danych analitycznych szczegółowych informacji partnerów, zobacz Interfejsy API służące do uzyskiwania dostępu do danych analitycznych [szczegółowych informacji partnerów.](insights-programmatic-analytics-available-api.md) Przed pierwszym wywołaniem interfejsu API upewnij [](insights-programmatic-prerequisites.md) się, że spełniliśmy wymagania wstępne programowego uzyskiwania dostępu do danych analitycznych Szczegółowe informacje partnerów.
+Aby uzyskać listę interfejsów API do uzyskiwania dostępu do danych analitycznych szczegółowych informacji partnerów, zobacz Interfejsy API służące do uzyskiwania dostępu do danych [analitycznych szczegółowych informacji partnerów.](insights-programmatic-analytics-available-api.md) Przed pierwszym wywołaniem interfejsu API upewnij [](insights-programmatic-prerequisites.md) się, że spełniliśmy wymagania wstępne programowego uzyskiwania dostępu do danych analitycznych Szczegółowe informacje partnerów.
 
 ## <a name="token-generation"></a>Generowanie tokenu
 
-Przed wywołaniem dowolnej z metod należy najpierw uzyskać token Azure Active Directory (AAD). Należy przekazać token dostępu usługi Azure AD do nagłówka Autoryzacja każdej metody w interfejsie API. Po uzyskaniu tokenu dostępu masz 60 minut na jego użycie przed wygaśnięciem. Po wygaśnięciu tokenu możesz odświeżyć token i nadal używać go do dalszych wywołań interfejsu API.
+Przed wywołaniem dowolnej z metod należy najpierw uzyskać token Azure Active Directory (AAD). Należy przekazać token dostępu usługi Azure AD do nagłówka Autoryzacja każdej metody w interfejsie API. Po uzyskaniu tokenu dostępu masz 60 minut na jego użycie przed jego wygaśnięciem. Po wygaśnięciu tokenu możesz odświeżyć token i nadal używać go do dalszych wywołań interfejsu API.
 
 Zapoznaj się z poniższym przykładowym żądaniem generowania tokenu. Trzy wartości wymagane do wygenerowania tokenu to `clientId` , `clientSecret` i `tenantId` . Parametr zasobu powinien być ustawiony na `https://api.partnercenter.microsoft.com`
 
@@ -84,7 +84,7 @@ Dane można pobrać z następujących zestawów danych (datasetName):
 - TeamsUsageWorkload
 - TeamsUsageMeetingsAndCalls
 
-W poniższej sekcji przedstawiono przykłady programowego uzyskiwania dostępu z `SubscriptionId` zestawu danych DynamicsUsage.
+W poniższej sekcji przedstawiono przykłady programowego dostępu z zestawu `SubscriptionId` danych DynamicsUsage.
 
 ### <a name="step-1-make-a-rest-call-using-the-get-datasets-api"></a>Krok 1. Wywołanie REST przy użyciu interfejsu API pobierz zestawy danych
 

@@ -10,17 +10,17 @@ ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/21/2021
 ms.openlocfilehash: 4636ee56418c68b5186c1137b73b3da0f0806951
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121914882"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123957873"
 ---
 # <a name="april-2020-announcements"></a>Ogłoszenia z kwietnia 2020 r.
 
 Ta strona zawiera szczegółowe informacje o ogłoszeniach dotyczących Partner Center Microsoft na kwiecień 2020 r.
 
-Ogłoszenia dotyczące roku 2020: [styczeń 2020](2020-january.md)r.  |  [luty 2020](2020-february.md)r.  |  [marzec 2020](2020-march.md) r. | Kwiecień 2020 | [Maj 2020 r.](2020-may.md)
+Ogłoszenia dotyczące roku 2020: [styczeń 2020](2020-january.md)r.  |  [luty 2020](2020-february.md)r.  |  [marzec 2020](2020-march.md) r. | Kwiecień 2020 r. | [Maj 2020 r.](2020-may.md)
 
 _________________
 
@@ -46,12 +46,12 @@ Wszyscy partnerzy w ramach programu Dostawca rozwiązań w chmurze (CSP). Ta pro
 W ramach zobowiązania [firmy Microsoft](https://www.microsoft.com/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) wobec klientów w tych niezrównanych czasach dostępna była sześciomiesięczny okres próbny usługi Office 365 E1 w programie CSP dla nowych klientów (zobacz definicję poniżej).
 4 maja 2020 r. firma Microsoft wprowadzi nowe promocje na rabaty dla usług Office 365 E1 i Microsoft 365 Business Basic, aby zaoferować te produkty bez poniesienie kosztów przez pierwsze sześć miesięcy rocznej subskrypcji rozliczanych miesięcznie dla nowych klientów.
 
-Te promocje zastąpią bieżącą Office 365 E1 wersji próbnej i różnią się pod następującymi względami:
+Te promocje zastąpią bieżącą Office 365 E1 wersji próbnej i różnią się w następujący sposób:
 
-- Partnerzy będą transakcyjni roczne jednostki SKU Office 365 E1 lub Microsoft 365 Business Basic, korzystając z programu CSP Discount, który stosuje 100% rabatu przez pierwsze sześć miesięcy, a nie unikatową, 6-miesięczną jednostkę SKU w wersji próbnej. [Dowiedz się więcej na temat promocji CSP.](../promotions.md)
+- Partnerzy będą transakcyjni roczne jednostki SKU Office 365 E1 lub Microsoft 365 Business Basic, korzystając z promocji programu CSP, która stosuje 100% rabatu przez pierwsze sześć miesięcy, a nie unikatową jednostkę SKU z 6-miesięczną próbą. [Dowiedz się więcej na temat promocji CSP.](../promotions.md)
 - Zamawianie będzie technicznie ograniczone do "tylko nowych klientów", a nie do wersji próbnej Office 365 E1, która została ograniczona tylko do nowych klientów za pośrednictwem zasad pisanych. 
-- W przypadku klientów korzystających z Microsoft 365 Business Basic SMB zostaną uwzględnione w tej promocji. Dzięki temu partnerzy mogą rozpocząć od klientów z mniej niż 300 miejscami w odpowiedniej rodzinie produktów z Microsoft 365 dla firm.
-Klienci, którzy mają obecnie licencję na Office 365 E1 próbną (dostępną do 4 maja 2020 r.), pozostaną w bieżącym planie — ta zmiana ma wpływ tylko na nowych klientów sieci.
+- W przypadku klientów korzystających z Microsoft 365 Business Basic SMB zostanie uwzględniony w tej promocji. Dzięki temu partnerzy mogą rozpocząć od klientów, którzy mają mniej niż 300 stanowisk w odpowiedniej rodzinie produktów, Microsoft 365 dla firm.
+Klienci, którzy mają obecnie licencję na wersję próbną usługi Office 365 E1 (dostępną do 4 maja 2020 r.), pozostaną w bieżącym planie — ta zmiana ma wpływ tylko na nowych klientów sieci.
 
 Definicja nowych klientów
 
@@ -72,7 +72,7 @@ Zapoznaj się z powyższymi zmianami, cennikiem z maja 2020 r. i udostępnij te 
 
 ### <a name="questions"></a>Masz pytania?
 
-Aby uzyskać dalsze pytania dotyczące tych ofert, sprawdź odpowiednie Yammer społeczności i skontaktuj się z przedstawicielem w konto Microsoft zespołem.
+Aby uzyskać dodatkowe pytania dotyczące tych ofert, sprawdź odpowiednie Yammer społeczności i skontaktuj się z przedstawicielem w konto Microsoft zespołem.
 
 _________________
 
@@ -111,7 +111,7 @@ Poniżej znajdują się szczegółowe informacje na temat sposobu działania tej
 
 _________________
 
-## <a name="microsoft-reversed-the-csp-eur-price-for-microsoft-365-e3"></a><a id="12"/></a>Firma Microsoft cofnąła cenę dla programu CSP EUR dla Microsoft 365 E3.
+## <a name="microsoft-reversed-the-csp-eur-price-for-microsoft-365-e3"></a><a id="12"/></a>Firma Microsoft wycofała cenę CSP EUR dla Microsoft 365 E3.
 
 ### <a name="categories"></a>Kategorie
 
@@ -122,7 +122,7 @@ _________________
 
 ### <a name="summary"></a>Podsumowanie
 
-Firma Microsoft naprawiła błąd w cenach EUR dla Microsoft 365 (M365) E3 z 1 kwietnia 2020 r. Jednak 22 kwietnia 2020 r. firma Microsoft tymczasowo przywróciła cenę, aby pomóc partnerom w tych wyjątkowych okolicznościach.
+Firma Microsoft naprawiła błąd w cenniku EUR dla Microsoft 365 (M365) E3 z 1 kwietnia 2020 r. Jednak 22 kwietnia 2020 r. firma Microsoft tymczasowo przywróciła cenę, aby pomóc partnerom w tych wyjątkowych okolicznościach.
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
@@ -169,13 +169,13 @@ Większe i stałe zabezpieczenia i ochrona prywatności należą do naszych gł�
 
 Niedawno pomyślnie ukończyliśmy aktywowanie zabezpieczeń dla funkcji admin-on-behalf-of (AOBO) dla wszystkich dzierżaw partnerów, aby chronić firmy i klientów przed zdarzeniami związanymi z kradzieżą tożsamości.
 
-Aby jeszcze bardziej ułatwić obronę partnerów i klientów, od 1 maja **2020** r. rozpoczniemy aktywację zabezpieczeń dla transakcji Partner Center CSP. Aktywacja dodatkowych zabezpieczeń oznacza, że partnerzy będą proszeni o użycie uwierzytelniania wieloskładnikowego (MFA) dla wszystkich transakcji w programie CSP przy użyciu środowiska użytkownika lub interfejsów API usługi Partner Center, co zapobiega nieautoryzowanemu dostępowi oraz chroni ich klientów i dzierżawców przed zdarzeniami zabezpieczeń związanymi z kradzieżą tożsamości. Więcej informacji można znaleźć [tutaj.](../partner-security-requirements-mandating-mfa.md)
+Aby jeszcze bardziej ułatwić obronę partnerów i klientów, począwszy od 1 maja **2020 r.,** rozpoczniemy aktywację zabezpieczeń przed Partner Center transakcji w programie CSP. Aktywacja dodatkowych zabezpieczeń oznacza, że partnerzy będą proszeni o użycie uwierzytelniania wieloskładnikowego (MFA) dla wszystkich transakcji w programie CSP przy użyciu środowiska użytkownika lub interfejsów API usługi Partner Center, co zapobiega nieautoryzowanemu dostępowi oraz chroni ich klientów i dzierżawców przed zdarzeniami zabezpieczeń związanymi z kradzieżą tożsamości. Więcej informacji można znaleźć [tutaj.](../partner-security-requirements-mandating-mfa.md)
 
 ### <a name="next-steps"></a>Następne kroki
 
 - **Jeśli nie aktywowano** zalecanych wymagań dotyczących zabezpieczeń w celu ochrony dzierżawy i użytkowników, należy to zrobić natychmiast, aby zachować zgodność i uniknąć zakłóceń w działalności biznesowej w zakresie zarządzania klientami lub transakcji w programie CSP. Partnerzy, którzy nie implementują wymagań dotyczących zabezpieczeń, mogą stanowić zagrożenie dla uczestnictwa w programie CSP.
 - Dostawcy pośredni muszą zaimplementować te wymagania dotyczące zabezpieczeń dla swoich firm i współpracować z odsprzedawcami, aby upewnić się, że implementują wymagania, a także przy użyciu tego szablonu wiadomości e-mail. Skontaktujemy się również bezpośrednio z odsprzedawcami za pośrednictwem wiadomości e-mail.
-- Odwiedź [stronę Partner Center stanu wymagań dotyczących zabezpieczeń,](https://partner.microsoft.com/commerce/security/compliance) aby zidentyfikować postęp i kluczowe akcje do podjęcia. Skontaktuj się z administratorem globalnym, aby regularnie sprawdzać postęp wymagań dotyczących zabezpieczeń dla każdej z dzierżaw.
+- Odwiedź [stronę Partner Center stan wymagań dotyczących zabezpieczeń,](https://partner.microsoft.com/commerce/security/compliance) aby zidentyfikować postęp i kluczowe akcje do podjęcia. Skontaktuj się z administratorem globalnym, aby regularnie sprawdzać postęp wymagań dotyczących zabezpieczeń dla każdej dzierżawy.
 - Jeśli używasz rozwiązania dostawcy Panel sterowania (CPV), skonsultuj się z dostawcą CPV.
 
 ### <a name="additional-resources"></a>Dodatkowe zasoby
@@ -183,14 +183,14 @@ Aby jeszcze bardziej ułatwić obronę partnerów i klientów, od 1 maja **2020*
 Przejrzyj te zasoby, aby pomóc w zaimplementowaniu wymagań dotyczących zabezpieczeń.
 
 - Zapoznaj się z [przewodnikiem krok po kroku,](../partner-security-requirements.md) aby zaimplementować wymagania dotyczące zabezpieczeń partnerów.
-- Zobacz często [zadawane pytania i odpowiedzi dotyczące](../partner-security-requirements-faq.yml) wymagań dotyczących zabezpieczeń partnerów.
-- Wyświetl przewodnik [sprawdzania stanu wymagań zabezpieczeń.](../partner-security-compliance.md)
-- Uzyskaj dostęp do dodatkowych zasobów w [kolekcji Implementowanie wymagań dotyczących zabezpieczeń partnerów.](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
-- Dodaj do [zakładek grupę społeczności Partner Center Security Guidance](https://aka.ms/MPCSecurityGuidance).
+- Zapoznaj się [z często zadawanymi pytaniami](../partner-security-requirements-faq.yml) i odpowiedziami dotyczącymi wymagań dotyczących zabezpieczeń partnerów.
+- Zobacz Przewodnik [sprawdzania stanu wymagań zabezpieczeń](../partner-security-compliance.md).
+- Uzyskaj dostęp do dodatkowych zasobów w [kolekcji Implementowanie wymagań dotyczących zabezpieczeń partnera.](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
+- Dodaj do [zakładek grupę społeczności Partner Center Security Guidance .](https://aka.ms/MPCSecurityGuidance)
 
 Aby uzyskać dodatkową pomoc w przypadku problemów technicznych, [prześlij bilet pomocy technicznej.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?topicid=32674991) Przekaż tę wiadomość e-mail do innych osób w organizacji, które mogą wymagać podjęcia działań w celu zaimplementowania tych wymagań dotyczących zabezpieczeń.
 
-Dziękujemy za partnerstwo i zobowiązanie do zapewnienia, że nasz ekosystem działa w oparciu o zaufanie.
+Dziękujemy za twoje partnerstwo i zobowiązanie do zapewnienia, że nasz ekosystem działa z zaufaniem.
 
 >[!NOTE] 
 >Jeśli używasz zasad bazowych i nie przeszliśmy do zasad domyślnych zabezpieczeń ani innych opcji implementacji usługi [MFA,](..\partner-security-requirements.md#implementing-multi-factor-authentication)jak najszybciej odwołaj się do kluczowych zasobów [tutaj.](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)
@@ -198,7 +198,7 @@ Dziękujemy za partnerstwo i zobowiązanie do zapewnienia, że nasz ekosystem dz
 ### <a name="change-log"></a>Dziennik zmian
 
 - 3 kwietnia 2020 r.: oryginalne zawiadomienie.
-- Aktualizacja z 23 kwietnia 2020 r.: Firma Microsoft skontaktuje się bezpośrednio z odsprzedawcami za pośrednictwem poczty e-mail.
+- Aktualizacja z 23 kwietnia 2020 r.: firma Microsoft skontaktuje się bezpośrednio z odsprzedawcami za pośrednictwem poczty e-mail.
 
 _________________
 
@@ -215,7 +215,7 @@ _________________
 
 ### <a name="summary"></a>Podsumowanie
 
-Umowa z Klientem Microsoft zmiany wcześniej dostępne na stronie cen i ofert w Partner Center zostały przeniesione. Poprawki są teraz dostępne dla partnerów do pobrania z tematu pomocy technicznej usługi Umowa z Klientem Microsoft w witrynie Partner Center (tylko za pośrednictwem bezpiecznego logowania) i nie wymagają wcześniejszego zatwierdzenia firmy Microsoft, aby były prezentowane klientom. Obejmuje to aneks dla klientów FSI oraz inne standardowe aneksy Umowy z Klientem Microsoft.
+Umowa z Klientem Microsoft wcześniej dostępne na stronie cen i ofert w Partner Center zostały przeniesione. Poprawki są teraz dostępne dla partnerów do pobrania z tematu pomocy technicznej usługi Umowa z Klientem Microsoft w witrynie Partner Center (tylko za pośrednictwem bezpiecznego logowania) i nie wymagają wcześniejszej zgody firmy Microsoft, aby były prezentowane klientom. Obejmuje to aneks dla klientów FSI oraz inne standardowe aneksy Umowy z Klientem Microsoft.
 
 Mimo że lokalizacja uległa zmianie, same poprawki nie uległy zmianie.
 
@@ -224,8 +224,8 @@ Umowa z Klientem Microsoft standardowe poprawki
 - WW (angielski) — poprawka usług finansowych
 - Argentyna (angielski) — poprawka do przetwarzania danych dla Argentyny
 - Argentyna (hiszpański) — poprawka do przetwarzania danych dla Argentyny
-- Niemcy (angielski) — poprawka Professional secrecyjna dla Niemiec
-- Niemcy (niemiecki) — poprawka Professional secrecyjna dla Niemiec
+- Niemcy (angielski) — poprawka Professional dotyczącej tajemnicy dla Niemiec
+- Niemcy (niemiecki) — poprawka Professional dotyczącej tajemnicy dla Niemiec
 - USA (angielski) — poprawka hipaa business associate usług online firmy Microsoft
 
 Jak partner może uzyskać dostęp do poprawek?
@@ -233,18 +233,18 @@ Aby uzyskać dostęp do poprawek, wykonaj następujące kroki:
 
 - Krok 1. W okienku nawigacji po lewej stronie wybierz pozycję Pomoc techniczna i utwórz wniosek o pomoc techniczną
 - Krok 2. Wpisz "Umowa z Klientem Microsoft", aby znaleźć temat
-- Krok 3. Wybierz ją, a następnie kliknij pozycję "Przejrzyj rozwiązania"
+- Krok 3. Wybierz go, a następnie kliknij pozycję "Przejrzyj rozwiązania"
 - Krok 4. Kliknięcie potrzebnej poprawki
 
-Alternatywnie zaloguj się do witryny Partner Center i przejdź do [tego adresu URL.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=0570a74b-e021-7aa6-9a81-d0fe505b8df5)
+Możesz też zalogować się do Partner Center i przejść do [tego adresu URL.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=0570a74b-e021-7aa6-9a81-d0fe505b8df5)
 
 ### <a name="additional-resources"></a>Dodatkowe zasoby
 
-Aby uzyskać więcej informacji na temat Umowa z Klientem Microsoft, odwiedź kolekcję [tutaj](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
+Aby uzyskać więcej informacji na temat Umowa z Klientem Microsoft, odwiedź kolekcję [tutaj.](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
 
 _________________
 
-## <a name="announcing-microsoft-defender-advanced-threat-protection-mdatp-for-servers-offer-available-for-csp-on-april-1-2020"></a><a id="9"/></a>Announcing Zaawansowana ochrona przed zagrożeniami w usłudze Microsoft Defender (MDATP) for Servers offer available for CSP on April 1, 2020 (Oferta mdatp dla serwerów jest dostępna dla CSP 1 kwietnia 2020 r.).
+## <a name="announcing-microsoft-defender-advanced-threat-protection-mdatp-for-servers-offer-available-for-csp-on-april-1-2020"></a><a id="9"/></a>Announcing Zaawansowana ochrona przed zagrożeniami w usłudze Microsoft Defender (MDATP) for Servers offer available for CSP on April 1, april 2020 (Announcing Zaawansowana ochrona przed zagrożeniami w usłudze Microsoft Defender (MDATP) for Servers offer for CSP on April 1, 2020 (Oferta mdatp dla serwerów jest dostępna dla CSP 1 kwietnia 2020 r.).
 
 ### <a name="categories"></a>Kategorie
 
@@ -262,14 +262,14 @@ Ta nowa wersja SKU będzie dostępna dla klientów usługi Zaawansowana ochrona 
 
 ### <a name="details"></a>Szczegóły
 
-Oferta firmy Microsoft w zakresie ochrony punktów końcowych na serwerach (lokalnych i na platformie Azure) została Azure Security Center Standardowa. Azure Security Center standardowa kosztuje 15 USD na środowisko systemu operacyjnego serwera miesięcznie. Słyszeliśmy od klientów, że chcą mieć możliwość obniżenia funkcjonalności w niższej cenie, która może zostać zakupiona w sposób zgodny z E5 na potrzeby ochrony serwera punktu końcowego.
-W odpowiedzi na potrzeby klientów wprowadzamy nową usługę Microsoft Defender ATP dla serwerów, aby rozwiązać zapotrzebowanie klientów, i oczekujemy, że większość klientów korzystających z tej sku będzie korzystać z serwerów lokalnych, jednak nie jest ona ograniczona do tego przypadku użycia. Azure Security Center Standardowa pozostaje hero SKU z rozszerzonym zestawem funkcji ochrony przed zagrożeniami, a partnerzy powinni prowadzić konwersacje z klientami z hero SKU Azure Security Center Standard, szczególnie w przypadku osób z obciążeniami platformy Azure. Jednak teraz firma Microsoft może zaoferować ochronę punktu końcowego w niższej cenie, aby umożliwić partnerom firmy Microsoft większą konkurencyjność na rynku ochrony punktów końcowych z usługą Microsoft Defender ATP dla serwerów SKU.
+Oferta firmy Microsoft w zakresie ochrony punktów końcowych na serwerach (lokalnie i na platformie Azure) została Azure Security Center Standardowa. Azure Security Center standardowa kosztuje 15 USD na środowisko systemu operacyjnego serwera miesięcznie. Od klientów dosyłaliśmy, że chcą mieć możliwość obniżenia funkcjonalności w niższej cenie, która może zostać zakupiona w sposób zgodny z E5 na potrzeby ochrony serwera punktu końcowego.
+W odpowiedzi na potrzeby klientów wprowadzamy nowąku usługę Microsoft Defender ATP for Servers SKU, aby rozwiązać zapotrzebowanie klientów i oczekujemy, że większość klientów korzystających z tej sku będzie korzystać z serwerów lokalnych, jednak nie jest ona ograniczona do tego przypadku użycia. Azure Security Center Standardowa pozostaje hero SKU z rozszerzonym zestawem możliwości ochrony przed zagrożeniami, a partnerzy powinni prowadzić konwersacje z klientami z elementem SKU hero Azure Security Center Standard, szczególnie w przypadku osób z obciążeniami platformy Azure. Jednak teraz firma Microsoft może zaoferować ochronę punktu końcowego w niższej cenie, aby umożliwić partnerom firmy Microsoft bardziej konkurencyjną na rynku ochrony punktów końcowych z usługą Microsoft Defender ATP dla serwerów SKU.
 
-Klienci usługi Microsoft Defender ATP z minimalną liczbą licencji 50 mogą używać nowej jednostki SKU usługi Microsoft Defender ATP dla serwerów na potrzeby ochrony punktu końcowego serwera w wysokości 5 USD na środowisko systemu operacyjnego serwera miesięcznie. W celu zapewnienia rozszerzonej ochrony obciążeń w chmurze dla serwerów klienci korzystający z usługi Microsoft Defender ATP for Servers mogą uaktualnić jednostkę SKU do wersji Azure Security Center Standard za dodatkową kwotę 10 USD na serwer OSE miesięcznie i korzystać z funkcji takich jak adaptacyjne mechanizmy kontroli aplikacji, dostęp just in time do maszyny wirtualnej, monitorowanie integralności plików i ujednolicone środowisko do ochrony zasobów platformy Azure i dodatkowej wartości, takiej jak przyszła integracja z usługą Azure Arc.
+Klienci usługi Microsoft Defender ATP z minimalną liczbą licencji 50 mogą korzystać z nowej jednostki SKU usługi Microsoft Defender ATP dla serwerów na potrzeby ochrony punktu końcowego serwera za 5 USD miesięcznie za środowisko systemu operacyjnego serwera. Aby zapewnić rozszerzoną ochronę obciążeń w chmurze dla serwerów, klienci korzystający z jednostki SKU usługi Microsoft Defender ATP for Servers mogą uaktualnić do jednostki SKU w witrynie Azure Security Center Standard za dodatkową kwotę 10 USD miesięcznie i korzystać z funkcji takich jak adaptacyjna kontrola aplikacji, dostęp just in time do maszyny wirtualnej, monitorowanie integralności plików i ujednolicone środowisko do ochrony zasobów platformy Azure oraz dodatkowa wartość, taka jak przyszła integracja z usługą Azure Arc.
 
-Obecnie nie ma żadnych zmian w standardzie zabezpieczeń platformy Azure. Azure Security Center Standardowa w dalszym ciągu zapewnia zintegrowane środowisko użytkownika w celu ochrony nie tylko punktów końcowych maszyny wirtualnej serwera, ale także szerokiego zestawu zasobów platformy Azure, w tym usług IoT, Azure Kubernetes Services (wersja zapoznawcza), Azure Container Registry (wersja zapoznawcza), Key Vault (wersja zapoznawcza), App Services, SQL i Storage.
+Obecnie nie ma żadnych zmian w standardzie zabezpieczeń platformy Azure. Azure Security Center Standardowa w dalszym ciągu zapewnia zintegrowane środowisko użytkownika, aby chronić nie tylko punkty końcowe maszyny wirtualnej serwera, ale także szeroką gamę zasobów platformy Azure, w tym IoT, Usługi Azure Kubernetes (wersja zapoznawcza), Azure Container Registry (wersja zapoznawcza), Key Vault (wersja zapoznawcza), App Services, SQL i Storage.
 
-Aby skorzystać z funkcji usługi ASC Standard, właściciele SKU serwerów muszą uaktualnić do wersji Azure Security Center (ASC) Standard z 10-krokową sku o wartości 10 USD.
+MdATP dla właścicieli serwerów SKU należy uaktualnić do Azure Security Center (ASC) Standard z krokowego SKU $10 aby korzystać z funkcji usługi ASC Standard.
 
 ### <a name="product-offer"></a>Oferta produktu
 
@@ -277,9 +277,9 @@ MDATP dla serwerów 350158a2-f253-4ea3-988e-eef9d1b828cf
 
 ### <a name="next-steps"></a>Następne kroki
 
-Udostępnij te informacje odpowiednim kontaktom w organizacji. W razie potrzeby można to udostępnić klientom w 1:1.
+Udostępnij te informacje odpowiednim kontaktom w organizacji. W odpowiednich przypadkach może to być udostępniane klientom w 1:1.
 
-W dalszej części roku będziemy udostępniać więcej informacji publicznych klientom.
+W dalszej części roku udostępnimy więcej informacji publicznych klientom.
 
 ### <a name="additional-resources"></a>Dodatkowe zasoby
 
@@ -288,11 +288,11 @@ W dalszej części roku będziemy udostępniać więcej informacji publicznych k
 
 ### <a name="questions"></a>Masz pytania?
 
-Jeśli masz pytania dotyczące operacji wykonywanych przez firmę Microsoft, skontaktuj się z pomocą techniczną za [pośrednictwem pulpitu nawigacyjnego partnera.](https://partner.microsoft.com/pcv/servicerequests/create)
+Jeśli masz pytania dotyczące operacji wykonywanych w firmie Microsoft, skontaktuj się z pomocą techniczną za [pośrednictwem pulpitu nawigacyjnego partnera.](https://partner.microsoft.com/pcv/servicerequests/create)
 
 ### <a name="change-log"></a>Dziennik zmian
 
-- Data oryginalnej publikacji: 23 marca 2020 r.: komunikacja przed uruchomieniem
+- Data oryginalnej publikacji: 23 marca 2020 r.: Komunikacja przed uruchomieniem
 - Aktualizacja z 17 kwietnia 2020 r.: odzwierciedlanie teraz dostępnej wersji
 
 _________________
@@ -308,15 +308,15 @@ _________________
 
 ### <a name="summary"></a>Podsumowanie
 
-Adres centrum operacji Microsoft Americas Operations Center w Reno w Renie w Stanach Zjednoczonych zmienia się, a wszystkie systemy, łamiąc i dokumentacja będą wymagały aktualizacji.
+Adres centrum operacji firmy Microsoft Americas w Reno w Stanie Zjednoczone zmienia się, a wszystkie systemy, pojednanie i dokumentacja będą wymagać aktualizacji.
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
-Każda osoba komunikująca się i komunikująca się z centrum operacji Americas Operations Center
+Każdy, kto komunikuje się i komunikuje się z Centrum operacji w Ameryce Północnej i Południowej
 
 ### <a name="details"></a>Szczegóły
 
-Od maja 2020 r. centrum operacji Microsoft Americas będzie mieć nowy adres.
+Od maja 2020 r. centrum operacji Firmy Microsoft w Ameryce Północnej i Południowej będzie mieć nowy adres.
 
 Wszelkie istniejące materiały z bieżącym adresem Reno należy zaktualizować. Wszyscy partnerzy, klienci i dostawcy powinni natychmiast zaktualizować swoje systemy przy użyciu nowego adresu i upewnić się, że wszystkie aktualizacje zostaną ukończone do maja 2020 r.
 
@@ -326,11 +326,11 @@ Poniżej znajdują się szczegółowe informacje o zmianie adresu.
 |-------------------|:------|
 |6100 Road </br>Reno, NV 89511|6880 Sierra Center Parkway </br>Reno, NV 89511|
 
-Jest to tylko zmiana adresu i nie ma potrzeby ponownego podpisu istniejących kontraktów. Zawsze należy odwoływać się do najnowszych szablonów w portalach firmy Microsoft, ponieważ mogą one zostać zaktualizowane.
+Jest to tylko zmiana adresu i nie ma potrzeby ponownego przypisania istniejących kontraktów. Zawsze należy odwoływać się do najnowszych szablonów w portalach firmy Microsoft, ponieważ mogą one zostać zaktualizowane.
 
 ### <a name="next-steps"></a>Następne kroki
 
-Do 15 maja 2020 r. upewnij się, że wszystkie systemy, pojednanie i dokumentacja zostaną zaktualizowane o nowe informacje kontaktowe. Inne akcje mogą być wymagane bliżej tej daty.
+Upewnij się, że do 15 maja 2020 r. wszystkie systemy, łamiąca i dokumentacja zostaną zaktualizowane o nowe informacje kontaktowe. Inne akcje mogą być wymagane bliżej tej daty.
 
 ### <a name="questions"></a>Masz pytania?
 
@@ -348,20 +348,20 @@ _________________
 
 ### <a name="summary"></a>Podsumowanie
 
-Aby zapewnić najlepszą obsługę partnerów i klientów, firma Microsoft ponownie rozpocznie komercyjną ofertę licencji M365 — nienadzorowana od 1 maja 2020 r. Nie będzie to miało wpływu na cenę i możliwości.
+Aby zapewnić najlepszą obsługę partnerów i klientów, firma Microsoft ponownie rozpocznie komercyjne oferty licencji M365 — nienadzorowane 1 maja 2020 r. Nie będzie to miało wpływu na cenę i możliwości.
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
-Wszyscy partnerzy w ramach transakcji za pośrednictwem Dostawca rozwiązań w chmurze na całym świecie.
+Wszyscy partnerzy inicjujące transakcje za pośrednictwem Dostawca rozwiązań w chmurze na całym świecie.
 
 ### <a name="details"></a>Szczegóły
 
-Firma Microsoft planuje 1 kwietnia 2020 r. uruchomić komercyjne oferty licencji M365 — unattended zgodnie z cennikiem wersji zapoznawczej. Po rozbudowanych testach dowiedzieliśmy się, że użytkownicy mogą napotkać nieoczekiwane zachowania podczas aprowizowania.
+Firma Microsoft zaplanowała uruchomienie komercyjnych ofert licencji M365 — Unattended na 1 kwietnia 2020 r., zgodnie z cennikiem wersji zapoznawczej. Po rozbudowanych testach dowiedzieliśmy się, że użytkownicy mogą napotkać nieoczekiwane zachowania podczas aprowizowania.
 
-W związku z tym ponownie będziemy 1 maja 2020 r. Ponowne wznowienie nie będzie miało wpływu na ceny ani na wartość uwzględnioną w ofercie.
-Planujemy również aktywnie rozszerzyć tę ofertę na klientów z branży edukacji i instytucji rządowych w maju 2020 r., co pozwoli Ci rozszerzyć działalność i znaleźć nowe możliwości dostarczania wspaniałych ofert.
+W związku z tym 1 maja 2020 r. będziemy ponownie wydawać. Ponowne wznowienie nie będzie miało wpływu na ceny ani na wartość uwzględnioną w ofercie.
+Planujemy również aktywnie rozszerzyć tę ofertę na klientów z branży edukacji i instytucji rządowych w maju 2020 r., co pozwoli Ci rozszerzyć działalność i znaleźć nowe możliwości dostarczania bardzo cennych ofert.
 
-### <a name="offer-ids-impacted"></a>Identyfikatory ofert, których to miało wpływ
+### <a name="offer-ids-impacted"></a>Identyfikatory ofert, których to ma wpływ
 
 Oryginalny identyfikator oferty utworzony dla tego uruchomienia to: Microsoft 365 E3 for unattended license: ec3ac2d1-dd66-475a-95c8-59c32c472778
 
@@ -369,9 +369,9 @@ Sprawdź nasze ogłoszenia w maju i nasz cennik produkcji z 1 maja 2020 r., aby 
 
 ### <a name="additional-background-on-unattended-license"></a>Dodatkowe informacje na temat licencji nienadzorowanych
 
-Microsoft 365 E3 Licencja nienadzorowana umożliwia korzystanie z aplikacji Office usługami lub innymi kontami użytkowników, co jest typowe podczas wykonywania procesu automatyzacji.
+Microsoft 365 E3 Licencja nienadzorowana umożliwia korzystanie z aplikacji Office z usługami lub innymi kontami użytkowników, co jest typowe podczas wykonywania procesu automatyzacji.
 
-Ta nowa licencja może stanowić nową opcję pracy z danymi i narzędziami zwiększającym produktywność, nawet wtedy, gdy interfejsy API produktów, takie jak Microsoft Graph, nie spełnia wymagań automatyzacji.
+Ta nowa licencja może zapewnić nową opcję pracy z danymi i narzędziami zwiększającym produktywność, nawet wtedy, gdy interfejsy API produktów, takie jak Microsoft Graph, nie spełnia wymagań automatyzacji.
 
 ### <a name="next-steps"></a>Następne kroki
 
@@ -383,7 +383,7 @@ W przypadku jakichkolwiek dodatkowych pytań dotyczących tych ofert skontaktuj 
 
 _________________
 
-## <a name="new-opportunities-for-your-microsoft-365-education-customers-with-microsoft-365-a5-compliance"></a><a id="6"/></a>Nowe możliwości dla twoich klientów Microsoft 365 Education ze zgodnością Microsoft 365 A5
+## <a name="new-opportunities-for-your-microsoft-365-education-customers-with-microsoft-365-a5-compliance"></a><a id="6"/></a>Nowe możliwości dla klientów Microsoft 365 Education ze zgodnością Microsoft 365 A5
 
 ### <a name="categories"></a>Kategorie
 
@@ -394,11 +394,11 @@ _________________
 
 ### <a name="summary"></a>Podsumowanie
 
-1 kwietnia 2020 r. dodatek Microsoft A5 Compliance otrzymał dodatkową wartość bez zmian cen. Ponadto wprowadziliśmy trzy miniaspekt, aby rozwiązać sytuację nowych użytkowników
+1 kwietnia 2020 r. dodatek Microsoft A5 Compliance otrzymał dodatkową wartość bez zmian cen. Ponadto wprowadziliśmy trzy miniaspekt, aby rozwiązać nowy scenariusz użytkowników
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
-Wszyscy partnerzy, którzy oferują usługi Education, Dostawca rozwiązań w chmurze programu Dostawca rozwiązań w chmurze (CSP).
+Wszyscy partnerzy, którzy transakcją oferują usługi Education za pośrednictwem programu Dostawca rozwiązań w chmurze (CSP).
 
 ### <a name="details"></a>Szczegóły
 
@@ -415,9 +415,9 @@ Wszyscy partnerzy, którzy oferują usługi Education, Dostawca rozwiązań w ch
 Zapoznaj się z następującymi identyfikatorami ofert w cenniku:
 
 - Microsoft 365 A5 Zgodność dla nauczycieli | 9f8f1756-f56f-421e-901a-e80e857cadb8
-- Microsoft 365 A5 Zgodność dla uczniów | f0f9f37a-539f-4f44-aef6-e37070149499
+- Microsoft 365 A5 Zgodność dla uczniów | f0f9f37a-539f-4f44-aef6-e370701494999
 
-### <a name="microsoft-365-a5-compliance-mini-suites"></a>Microsoft 365 A5 Miniaspekt zgodności
+### <a name="microsoft-365-a5-compliance-mini-suites"></a>Microsoft 365 A5 Minizesieł zgodności
 
 Od 1 kwietnia 2020 r. partnerzy firmy Microsoft mogą również oferować następujące miniaspekt. Te oferty dodatków zapewniają określone podzbiory wartości Microsoft 365 A5 Compliance, zapewniając dodatkowe możliwości rozwoju klientów w określonych przypadkach użycia i potrzebach klientów.
 
@@ -431,12 +431,12 @@ Zapoznaj się z następującymi identyfikatorami ofert w cenniku:
 - Microsoft 365 A5 Information Protection i ład dla studentów | a91941ff-79a2-4476-a064-c5a6922e0bbd
 - Microsoft 365 A5 Insider Risk Management dla nauczycieli | 2ed867d7-fd08-474f-8353-502b500d1c9b
 - Microsoft 365 A5 Insider Risk Management for students | 2ba72571-c0f0-4373-b999-d08cc1bb5edd
-- Microsoft 365 A5 zbierania elektronicznych materiałów dowodowych i inspekcji dla nauczycieli | 5d7c0030-c2e9-4a8c-block3-5a6dbf1e4449
+- Microsoft 365 A5 zbierania elektronicznych materiałów dowodowych i inspekcji dla nauczycieli | 5d7c0030-c2e9-4a8c-bir3-5a6dbf1e4449
 - Microsoft 365 A5 zbierania elektronicznych materiałów dowodowych i inspekcji dla uczniów | 6c6e2e9c-2156-4f7c-9c78-f94393b750fe
 
-**Wye Office 365 Advanced Compliance i Azure Information Protection (AIP) Plan 2**
+**Wyee Office 365 Advanced Compliance i Azure Information Protection (AIP) Plan 2**
 
-Oprócz powyższych zmian firma Microsoft wyescyplinuje plan Office 365 Advanced Compliance i Azure Information Protection (AIP) 2. Od 1 kwietnia 2020 r. te oferty nie są już dostępne w cenniku dla nowych klientów sieci, a automatyczne odnawianie zostało wyłączone dla istniejących klientów.
+Oprócz powyższych zmian firma Microsoft wyechuje plan 2 Office 365 Advanced Compliance i Azure Information Protection (AIP). Od 1 kwietnia 2020 r. te oferty nie są już dostępne w cenniku nowych klientów, a automatyczne odnawianie zostało wyłączone dla istniejących klientów.
 
 Omów oferty ze swoimi klientami, aby poznać najlepsze dla nich rozwiązanie za pośrednictwem miniaspekt lub szerszej oferty Microsoft 365 A5 Compliance.
 
@@ -457,7 +457,7 @@ Zapoznaj się z cennikiem i udostępnij te informacje wszystkim odpowiednim kont
 
 ### <a name="questions"></a>Masz pytania?
 
-W przypadku jakichkolwiek dodatkowych pytań dotyczących tych ofert skontaktuj się z przedstawicielem zespołu ds. konto Microsoft Jeśli masz problemy z operacjami firmy Microsoft, otwórz [żądanie obsługi](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+W przypadku jakichkolwiek dodatkowych pytań dotyczących tych ofert skontaktuj się z przedstawicielem zespołu ds. konto Microsoft, jeśli masz problemy z operacjami firmy Microsoft, otwórz [żądanie obsługi](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
 _________________
 
@@ -471,19 +471,19 @@ _________________
 
 ### <a name="summary"></a>Podsumowanie
 
-Od 1 kwietnia 2020 r. można kupić nową wersję Office 365 E1 próbnej w programie CSP. Oferta została dostępna w cenniku, aby rozwiązać ostatni wzrost liczby zdalnych zadań.
+Od 1 kwietnia 2020 r. można kupić nową wersję Office 365 E1 Próbną w programie CSP. Oferta została dostępna w cenniku, aby rozwiązać ostatni wzrost liczby zdalnych prac.
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
-Wszyscy partnerzy w ramach programu Dostawca rozwiązań w chmurze (CSP).
+Wszyscy partnerzy inicjujące transakcje w programie Dostawca rozwiązań w chmurze (CSP).
 
 ### <a name="details"></a>Szczegóły
 
-Osoby i zespoły na całym świecie są przenoszące się do zdalnych ustaleń roboczych. Partnerzy szybko dopasowywują się do obsługi swoich klientów, a my również je dostosowujemy.
+Ludzie i zespoły na całym świecie przeprowadzają się do zdalnych ustaleń roboczych. Partnerzy szybko dopasowywują się do obsługi swoich klientów, a my również je dostosowujemy.
 
-Z przyjemnością ogłaszamy nową wersję próbną usługi Office 365 E1 CSP utworzoną specjalnie w celu obsługi odpowiedzi partnera na rosnące potrzeby zdalnej i inteligentnej pracy. Ta oferta wersji próbnej jest dostępna od 1 kwietnia 2020 r. do odwołania.
+Z przyjemnością ogłaszamy nową wersję próbną usługi Office 365 E1 CSP utworzoną specjalnie w celu obsługi odpowiedzi partnera na rosnące potrzeby dotyczące pracy zdalnej i inteligentnej. Ta oferta wersji próbnej jest dostępna od 1 kwietnia 2020 r. do odwołania.
 
-Wersja próbna Office 365 E1 CSP jest teraz dostępna w dodatku do bieżącej wersji próbnej Microsoft Teams CSP (która nie ma Exchange ani 2 GB miejsca do magazynowania). Nowa wersja próbna będzie mieć równoważną funkcjonalność z Office 365 E1 próbną i będzie zapewniać sześć miesięcy bezpłatnego użycia dla maksymalnie 3000 użytkowników. Ta oferta, dostępna za pośrednictwem CSP, umożliwia partnerom inicjowanie wersji próbnej i zarządzanie nim.
+Wersja próbna Office 365 E1 CSP jest teraz dostępna oprócz bieżącej wersji próbnej Microsoft Teams CSP (która nie ma magazynu Exchange ani 2 GB miejsca do magazynowania). Nowa wersja próbna będzie mieć równoważną funkcjonalność Office 365 E1 wersji próbnej i będzie zapewniać sześć miesięcy bezpłatnego użycia dla maksymalnie 3000 użytkowników. Ta oferta, dostępna za pośrednictwem CSP, umożliwia partnerom inicjowanie wersji próbnej i zarządzanie nim.
 
 ### <a name="offer-id"></a>Identyfikator oferty
 
@@ -494,16 +494,16 @@ Ta oferta została natychmiast dostępna do zakupu w cenniku produkcyjnym od 1 k
 
 ### <a name="next-steps"></a>Następne kroki
 
-- [Przejrzyj często zadawane pytania dotyczące wersji próbnej Office 365 E1 CSP](https://aka.ms/CSPE1OfferFAQ)
+- [Zapoznaj się z często zadawanymi pytaniami na temat Office 365 E1 wersji próbnej CSP](https://aka.ms/CSPE1OfferFAQ)
 - [Dowiedz się więcej o Microsoft Teams próbnych i ofert](https://www.microsoft.com/microsoft-365/partners/resources/teams-offers-and-trials-comparison)
 - [Poznaj najnowsze wskazówki dotyczące pracy zdalnej dla partnerów](https://aka.ms/partnerremotework)
-- [Zapoznaj się z dodatkowymi zasobami wersji próbnej dla partnerów](https://aka.ms/E1TrialPartnerBOM)
+- [Zapoznaj się z dodatkowymi zasobami w wersji próbnej dla partnerów](https://aka.ms/E1TrialPartnerBOM)
 
-Regularnie [sprawdzaj zasoby Partner Center](https://partner.microsoft.com/resources/collection/O365E1-trial-now-available-CSP-partners#/) partnerów, ponieważ w nadchodzącym tygodniu będziemy publikować więcej wskazówek.
+Regularnie [sprawdzaj zasoby Partner Center](https://partner.microsoft.com/resources/collection/O365E1-trial-now-available-CSP-partners#/) partnerów, ponieważ w najbliższym tygodniu będziemy publikować więcej wskazówek.
 
 ### <a name="questions"></a>Masz pytania?
 
-Jeśli masz pytania dotyczące tych ofert, sprawdź odpowiednie Yammer społeczności. W przypadku innych problemów prześlij bilet na Partner Center Pomocy technicznej.
+Jeśli masz pytania dotyczące tych ofert, sprawdź odpowiednie Yammer społeczności. W przypadku innych problemów prześlij bilet na Partner Center pomocy technicznej.
 
 _________________
 
@@ -518,46 +518,46 @@ _________________
 
 ### <a name="summary"></a>Podsumowanie
 
-1 kwietnia 2020 r. firma Microsoft udostępniła dodatkowe produkty Dynamics 365. Dodatkowe nowe oferty usługi Dynamics 365 zostaną wydane 1 maja 2020 r.
+1 kwietnia 2020 r. firma Microsoft udostępniła dodatkowe produkty Dynamics 365. Dodatkowe nowe oferty dla usługi Dynamics 365 zostaną wydane 1 maja 2020 r.
 Odbiorcy, na które ma to wpływ
 
-Partnerzy oferujący usługę Dynamics 365 za pośrednictwem programu Dostawca rozwiązań w chmurze (CSP). Te aktualizacje odnoszą się do wszystkich lokalizacji na całym świecie, chyba że określono inaczej.
+Partnerzy oferujący usługę Dynamics 365 za pośrednictwem Dostawca rozwiązań w chmurze (CSP). Te aktualizacje odnoszą się do wszystkich lokalizacji na całym świecie, chyba że określono inaczej.
 
 ### <a name="details"></a>Szczegóły
 
-1 kwietnia 2020 r. firma Microsoft udostępniła nowe produkty dla usług Dynamics Business Central Online oraz Dynamics Biz Apps i Power Platforms. Dodatkowe nowe oferty usługi Dynamics 365 zostaną wydane 1 maja 2020 r.
+1 kwietnia 2020 r. firma Microsoft udostępniła nowe produkty dla usługi Dynamics Business Central Online oraz aplikacji Dynamics Biz i platform Power Platform. Dodatkowe nowe oferty dla usługi Dynamics 365 zostaną wydane 1 maja 2020 r.
 
 ### <a name="dynamics-business-central-online-offers"></a>Oferty usługi Dynamics Business Central Online
-1 kwietnia 2020 r. w ofertach usługi Dynamics Business Central Online w wszedliśmy w następujące zmiany.
+1 kwietnia 2020 r. w ofertach usługi Dynamics Business Central Online w zostały wprowadzone następujące zmiany.
 
-- Nowe oferty usługi Dynamics Business dla programu Business Central w programie CSP
+- Nowe oferty usługi Dynamics Business dla firm Central w programie CSP
 - Aktualizowanie jednostki SKU Pro i jednostki SKU dołączania Pro działu obsługi klienta
 
 ### <a name="dynamics-biz-apps-and-power-platform-products"></a>Dynamics Biz Apps and Power Platform Products
 
-1 kwietnia 2020 r. w aplikacjach Dynamics Biz Apps i produktach firmy Power Platform wprowadzone następujące zmiany.
+1 kwietnia 2020 r. w aplikacjach Dynamics Biz Apps i w produktach Power Platform Produktów.
 
-- Oferty rozwiązania First-party Robotic Process Automation (RPA)
-- Nowy produkt BOT dla ofert RPO
+- Oferty automatyzacji procesów robotycznych (RPA, Robotic Process Automation)
+- Nowy produkt BOT dla ofert RPOA
 
-Zobacz konkretne zmiany w pliku oferty Dynamics CSP offer Updates-Mar 2020 [tutaj.](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+Zobacz konkretne zmiany w pliku oferty dynamics CSP Updates-Mar 2020 [tutaj.](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 
 ### <a name="robotic-process-automation"></a>Automatyzacja procesów robotyki
 
-1 maja 2020 r. firma Microsoft rozszerzy dostępność nowych ofert RPO na programy edukacyjne.
-Aby dowiedzieć się więcej o zmianach w programie Authorized Education Partner Program w programie CSP, kliknij [tutaj.](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/) Jest to link do istniejącej kolekcji w Partner Center).
+1 maja 2020 r. firma Microsoft rozszerzy dostępność nowych ofert RPOA na programy edukacyjne.
+Aby dowiedzieć się więcej na temat zmian w programie Authorized Education Partner Program w programie CSP, kliknij [tutaj.](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/) Jest to link do istniejącej kolekcji w Partner Center).
 
-Zapoznaj się z **dołączonym plikiem oferty dynamics CSP 2020 Updates-May** [](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/) tutaj w powiązanej sekcji pobierania, aby uzyskać informacje o nowej sku.
+Zapoznaj się z dołączonym plikiem **oferty dynamics CSP offer Updates-May 2020** tutaj [w](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/) powiązanej sekcji pobierania, aby uzyskać informacje o nowej sku.
 
 ### <a name="ecommerce-changes"></a>Zmiany dotyczące handlu elektronicznego
 
-Od 1 kwietnia 2020 r. oferty handlu elektronicznego mają nazwę wyświetlaną i/lub zmiany PFAM w końcowych arkuszach cen. Zmiany zostały opisane w poniższej tabeli.
+Od 1 kwietnia 2020 r. oferty handlu elektronicznego mają zmiany nazwy wyświetlanej i/lub PFAM w końcowych arkuszach cen. Zmiany zostały opisane w poniższej tabeli.
 
 |**Zmiana nazwy wyświetlanej i/lub PFAM**|**1 marca 2020 r.**|**1 kwietnia 2020 r.**|
 |-------------------|:------|:-----|
-|Nazwa wyświetlana|Klasyfikacje i recenzje handlu elektronicznego|Klasyfikacje i recenzje handlowe|
-|Nazwa wyświetlana|Usługi handlu Rekomendacje|Usługi Rekomendacje|
-|Wyświetlanie i PFAM|Dynamics 365 Commerce Cloud Scale Unit Basic|Dynamics 365 Commerce Scale Unit Basic – Cloud|
+|Nazwa wyświetlana|Klasyfikacje i recenzje handlu elektronicznego|Klasyfikacje i recenzje handlu|
+|Nazwa wyświetlana|Handlu elektronicznego Rekomendacje|Handel Rekomendacje|
+|Wyświetlanie i PFAM|Dynamics 365 Commerce Cloud Scale Unit Basic|Dynamics 365 Commerce Scale Unit Basic — chmura|
 |Wyświetlanie i PFAM|Dynamics 365 Commerce Cloud Scale Unit Standard|Dynamics 365 Commerce Scale Unit Basic — chmura|
 |Wyświetlanie i PFAM|Dynamics 365 Commerce Cloud Scale Unit Premium|Dynamics 365 Commerce Scale Unit Premium — Cloud|
 
@@ -565,7 +565,7 @@ Od 1 kwietnia 2020 r. oferty handlu elektronicznego mają nazwę wyświetlaną i
 
 - [Strona główna usługi Dynamics 365](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [Strona główna przewodnika po aplikacjach Mixed Reality Apps](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [Strona główna oszustw związanych z aplikacjami biz apps](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Strona główna fałszowania usługi Biz Apps](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [Aktualizacje licencjonowania usług PowerApps i Flow FY20](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [Licencjonowanie usługi Microsoft Dynamics 365](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [Dynamics 365 i platformy Power — dostępność, lokalizacja danych, język i zawartość lokalizacji](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
@@ -579,11 +579,11 @@ Udostępnij te informacje odpowiednim kontaktom w organizacji. Aby uzyskać wię
 
 ### <a name="questions"></a>Masz pytania?
 
-Aby uzyskać pomoc ściśle związana z operacjami wykonywanymi przez firmę Microsoft, [skontaktuj się z pomocą techniczną](https://partner.microsoft.com/pcv/servicerequests/create).
+Aby uzyskać pomoc ściśle dotyczącą twoich operacji z firmą Microsoft, [skontaktuj się z pomocą techniczną](https://partner.microsoft.com/pcv/servicerequests/create).
 
 _________________
 
-## <a name="now-available---operations-readiness-resources-in-one-place"></a><a id="3"/></a>Teraz dostępne — zasoby gotowości operacji w jednym miejscu
+## <a name="now-available---operations-readiness-resources-in-one-place"></a><a id="3"/></a>Teraz dostępne — zasoby gotowości do operacji w jednym miejscu
 
 ### <a name="categories"></a>Kategorie
 
@@ -597,13 +597,13 @@ _________________
 
 ### <a name="summary"></a>Podsumowanie
 
-Lokalizacja [zasobów](https://partner.microsoft.com/resources#/) gotowości na operacje jest teraz operacyjna i udostępnia partnerom jedną lokalizację dla zasobów gotowości do operacji, co ułatwia znajdowanie najnowszych aktualizacji i kluczowych zasobów gotowości operacyjnej we wszystkich kanałach i programach firmy Microsoft. Galeria zasobów aktualizacji programu CSP i zawartość gotowość firmy Microsoft zostały przeniesione do lokalizacji zasobu Gotowości operacji, a adres URL na adres URL galerii zasobów aktualizacji programu CSP ( ) został zaktualizowany, aby wskazać lokalizację zasobu Gotowości [https://partner.microsoft.com/resources#/](https://partner.microsoft.com/resources#/) operacji.
+Lokalizacja [zasobów Gotowość](https://partner.microsoft.com/resources#/) na operacje jest teraz operacyjna, zapewniając partnerom jedną lokalizację dla zasobów gotowości na operacje, co ułatwia znajdowanie najnowszych aktualizacji i kluczowych zasobów gotowości operacyjnej we wszystkich kanałach i programach firmy Microsoft. Galeria zasobów aktualizacji programu CSP i zawartość gotowość firmy Microsoft zostały przeniesione do lokalizacji zasobu Gotowość operacji, a adres URL na adres URL galerii zasobów aktualizacji programu CSP ( ) został zaktualizowany, aby wskazać lokalizację zasobu Gotowość [https://partner.microsoft.com/resources#/](https://partner.microsoft.com/resources#/) operacji.
 
-Zapoznaj się ze [zaktualizowanymi często](https://assetsprod.microsoft.com/mpn/readiness-in-one-place-partner-login-faq.pdf) zadawanymi pytaniami w tym miejscu, aby uzyskać więcej informacji na temat tego nowego doświadczenia i niektórych obszarów, które będą nadal ewoluować w ciągu najbliższych kilku tygodni.
+Zapoznaj się ze [zaktualizowanymi często](https://assetsprod.microsoft.com/mpn/readiness-in-one-place-partner-login-faq.pdf) zadawanymi pytaniami tutaj, aby uzyskać więcej informacji na temat tego nowego doświadczenia i niektórych obszarów, które będą nadal ewoluować w ciągu najbliższych kilku tygodni.
 
-**Twoja opinia jest dla nas ważna!** W przypadku korzystania z nowej lokalizacji gotowości do operacji zachęcamy do pozostawienia opinii, abyśmy w dalszym ciągu udoskonalali Twoje środowisko pracy. Możesz to zrobić za pomocą strony **Czy ta strona była pomocna? Tak | W** dolnej części każdej strony nie jest dostępne żadne narzędzie do opinii.
+**Twoja opinia jest dla nas ważna!** W przypadku korzystania z nowej lokalizacji gotowości do operacji zachęcamy do wystawić opinię, abyśmy w dalszym ciągu ulepszyli Twoje środowisko pracy. Można to zrobić za pomocą strony Czy **ta strona była pomocna? Tak | W** dolnej części każdej strony nie jest dostępne żadne narzędzie do opinii.
 
-Firma Microsoft usprawnia sposób komunikacji i dostarcza materiały dotyczące gotowości we wszystkich programach firmy Microsoft. Wprowadzamy jedną lokalizację zasobu Operations Readiness w witrynie internetowej partnera firmy Microsoft na stronie , która będzie łączyć zasoby z galerii zasobów aktualizacji programu CSP i witryny [https://partner.microsoft.com](https://partner.microsoft.com) [gotowości firmy Microsoft.](https://www.microsoftreadiness.com/) [](https://partner.microsoft.com/resources#/)
+Firma Microsoft usprawnia sposób, w jaki komunikujemy się i dostarczamy materiały dotyczące gotowości we wszystkich programach firmy Microsoft. Wprowadzamy jedną lokalizację zasobu Operations Readiness w witrynie internetowej partnera firmy Microsoft na stronie , która będzie łączyć zasoby z galerii zasobów aktualizacji programu CSP i witryny [https://partner.microsoft.com](https://partner.microsoft.com) [Microsoft Readiness.](https://www.microsoftreadiness.com/) [](https://partner.microsoft.com/resources#/)
 
 Dzięki jednej lokalizacji zasobów gotowości do operacji partnerom będzie łatwiej znaleźć najnowsze aktualizacje, krytyczne ogłoszenia i kluczowe zasoby dotyczące gotowości operacyjnej we wszystkich kanałach i programach firmy Microsoft. Dzięki funkcji logowania pojedynczego oraz udoskonalonym możliwościom wyszukiwania, filtrowania i sortowania partnerzy mogą łatwo uzyskać dostęp do firm, korzystać z nich i przygotowywać je do pomyślnego transakcji i prowadzenia działalności z firmą Microsoft w sposób, który będzie dla nich pomocny.
 
@@ -614,7 +614,7 @@ Lokalizacja zasobów gotowości operacji na stronie partner.microsoft.com będzi
 - **Strony programu:** Znajdowanie najnowszych aktualizacji dokumentów dla określonego programu będzie łatwe dzięki stronom, które są wstępnie filtrowane do zawartości tylko dla tego programu.
 - **Zaawansowane wyszukiwanie w galerii:** Filtry zawartości sprawią, że znajdowanie zawartości w programach i zawartości będzie szybsze i prostsze, na przykład CSP.
 - **Anonse:** Znajdowanie najnowszych anonsów i najnowszych aktualizacji dokumentów dla określonego programu będzie łatwiejsze dzięki stronom, które są wstępnie filtrowane do zawartości tylko dla tego programu. Zostanie również opublikowana strona programu dla programu CSP, jednak ogłoszenia dotyczące programu CSP będą nadal publikowane w Partner Center.
-- **Nowa lokalizacja:** Gdy nowa lokalizacja dla zasobów operacyjnych będzie operacyjna w programie partner.microsoft.com, witryna Gotowości firmy Microsoft i galeria zasobów aktualizacji programu CSP nie będą już dostępne i przekieruje użytkowników do nowej lokalizacji zasobów operacji. Partnerzy będą mogli korzystać z filtrów programu zawartości w celu filtrowania do programu CSP lub innych określonych zasobów programu.
+- **Nowa lokalizacja:** Gdy nowa lokalizacja dla zasobów operacyjnych będzie operacyjna na platformie partner.microsoft.com, witryna Gotowości firmy Microsoft i galeria zasobów aktualizacji programu CSP nie będą już dostępne i przekieruje użytkowników do nowej lokalizacji zasobów operacji. Partnerzy będą mogli korzystać z filtrów programu zawartości w celu filtrowania do programu CSP lub innych określonych zasobów programu.
 - **Rozwinięta zawartość:** Cała ostatnia i odpowiednią zawartość z witryny Microsoft Readiness i galerii zasobów aktualizacji programu CSP zostanie przeniesiona do nowej lokalizacji gotowości operacji, co oznacza, że zawartość dla większej liczby programów będzie teraz przechowyowana w jednej lokalizacji.
 
 ### <a name="next-steps"></a>Następne kroki
@@ -657,13 +657,13 @@ Microsoft 365 Business Voice, oparty na chmurze system telefonów, który jest z
 
 ### <a name="details"></a>Szczegóły
 
-1 kwietnia 2020 r. firma Microsoft wprowadzi Microsoft 365 Business Voice dodatkowych lokalizacji geograficznych. Dostępne będą dwie oferty: Microsoft 365 Business Voice i Microsoft 365 Business Voice bez wywoływania planu (przy użyciu routingu bezpośredniego). Obie oferty będą dostępne w Stanach Zjednoczonych.
+1 kwietnia 2020 r. firma Microsoft wprowadzi Microsoft 365 Business Voice dodatkowe lokalizacje geograficzne. Dostępne będą dwie oferty: Microsoft 365 Business Voice i Microsoft 365 Business Voice bez wywoływania planu (przy użyciu routingu bezpośredniego). Obie oferty będą dostępne w Stanach Zjednoczonych.
 
 ### <a name="customer-value-proposition"></a>Ofertę wartości klienta
 
 Microsoft 365 Business Voice to oparty na chmurze system telefonów dla firm z maksymalnie 300 użytkownikami. Zapewnia możliwość wykonywania i odbierania połączeń z dowolnego numeru telefonu w Microsoft Teams. Wraz z Teams zapewnia rozwiązanie do komunikacji typu "wszystko w jednym" łączące połączenia, czaty i spotkania.
 
-Microsoft 365 Business Voice upraszcza i usprawnia produktywność oraz komunikację w jednej aplikacji, która działa wszędzie, gdzie firmy robią: na komputerach, telefonach inteligentnych i telefonach stacjonarnych. Korzyści wynikające z Microsoft 365 Business Voice obejmują:
+Microsoft 365 Business Voice upraszcza i usprawnia produktywność i komunikację w ramach jednej aplikacji, która działa w każdym miejscu firmy: na komputerach, telefonach inteligentnych i telefonach stacjonarnych. Zalety Microsoft 365 Business Voice obejmują:
 
 - Komunikacja "wszystko w jednym". Przekształcanie sposobu pracy przez ujednoznaczanie połączeń, czatów, spotkań, kalendarza i poczty e-mail.
 - Łatwe i inteligentne wywoływanie. Komunikacja z większą elastycznością, łatwością i analizą pozwala zachować połączenie.
@@ -684,7 +684,7 @@ Partnerzy mogą na tym zyskać, korzystając z:
 
 **Microsoft 365 Business Voice (Stany Zjednoczone, Kanada, Zjednoczone Królestwo)**
 
-1 kwietnia 2020 r. usługi Business Voice z planami połączeń telefonicznych będą dostępne do kupienia w portalu Stany Zjednoczone po uruchomieniu usługi w Zjednoczonym Królestwie i Kanadzie w listopadzie 2019 r.
+1 kwietnia 2020 r. usługi Business Voice z planami połączeń telefonicznych będą dostępne do zakupu w portalu Stany Zjednoczone po uruchomieniu usługi w Zjednoczonym Królestwie i Kanadzie w listopadzie 2019 r.
 
 Dostępna będzie również oferta dodatku dla klientów, którzy poszukują możliwości połączeń międzynarodowych.
 
@@ -710,7 +710,7 @@ Partnerzy w Australii powinni pamiętać, że oferta Microsoft 365 Business Voic
 
 ### <a name="further-countries"></a>Dalsze kraje
 
-Mamy nadzieję, że z czasem będziemy Microsoft 365 Business Voice do wszystkich krajów, w których Office 365 i Microsoft 365 są dostępne.
+Mamy nadzieję, że z czasem będziemy Microsoft 365 Business Voice we wszystkich krajach, w których Office 365 i Microsoft 365 są dostępne.
 
 ### <a name="next-steps"></a>Następne kroki
 
@@ -724,7 +724,7 @@ W przypadku jakichkolwiek dodatkowych pytań dotyczących tych ofert skontaktuj 
 
 ### <a name="change-log"></a>Dziennik zmian
 
-- Funkcja M365 Business Voice dostępna dla klientów w USA: 1 kwietnia 2020 r.
+- M365 Business Voice dostępny dla klientów w USA: 1 kwietnia 2020 r.
 - M365 Business Voice bez uruchamiania planu połączeń: 1 kwietnia 2020 r.
 - Oryginalna data publikacji: 5 listopada 2019 r.
 
@@ -742,7 +742,7 @@ _________________
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 Wszyscy partnerzy CSP.
 
-**Aktualizacja z 1 kwietnia 2020 r.** Od 31 stycznia 2020 r. wszyscy partnerzy w programie Dostawca rozwiązań w chmurze (CSP) powinni zaakceptować umowę dla wszystkich swoich dzierżaw CSP. Wcześniej informowaliśmy, że następna faza implementacji umowy rozpocznie się w kwietniu 2020 r.Aby zapobiec przerwom w działalności biznesowej, zdecydowaliśmy się na rozszerzenie następnej fazy implementacji po kwietniu 2020 r. Otrzymaliśmy opinie od niektórych naszych partnerów Dostawca rozwiązań w chmurze, że wystąpiły problemy z zaakceptowaniem mpa. W tej sytuacji pracujemy nad zapewnieniem, że zasoby firmy Microsoft są dostępne dla partnerów, którzy mieli problemy z zaakceptowaniem umowy.
+**Aktualizacja z 1 kwietnia 2020 r.** Od 31 stycznia 2020 r. wszyscy partnerzy w programie Dostawca rozwiązań w chmurze (CSP) powinni zaakceptować umowę dla wszystkich swoich dzierżaw CSP. Wcześniej informowaliśmy, że następna faza implementacji umowy rozpocznie się w kwietniu 2020 r.Aby zapobiec przerwom w działalności biznesowej, zdecydowaliśmy się na rozszerzenie następnej fazy implementacji poza kwiecień 2020 r. Otrzymaliśmy opinie od niektórych naszych partnerów Dostawca rozwiązań w chmurze, że doświadczyli problemów z zaakceptowaniem mpA. W tej sytuacji pracujemy nad zapewnieniem, że zasoby firmy Microsoft są dostępne dla partnerów, którzy mieli problemy z zaakceptowaniem umowy.
 
 ### <a name="summary"></a>Podsumowanie
 Od 31 stycznia 2020 r. wszyscy partnerzy biorący udział w programie Cloud Solution Provider, w tym odsprzedawcy pośredni, powinni zaakceptować Umowę partnerską firmy Microsoft w celu zapewnienia, że nie wystąpią żadne zakłócenia w możliwości tworzenia nowych klientów ani składania nowych zamówień dla istniejących klientów w programie CSP. Zaakceptowanie Umowy partnerskiej firmy Microsoft jest teraz wymagane dla wszystkich partnerów w programie CSP.
@@ -763,23 +763,23 @@ Więcej informacji i zasobów można znaleźć na stronie galerii CSP [tutaj.](h
 1. Poinformuj kluczowych uczestników projektu w organizacji, aby przejrzeli Microsoft Partner Agreement.
 2. Zaakceptuj Umowę partnerską firmy Microsoft na stronie [przeglądu programu CSP w Centrum partnerskim](https://partner.microsoft.com/pcv/dashboard/overview) przy użyciu poświadczeń administratora globalnego.
 3. Użyj [interfejsu API, aby zweryfikować stan podpisywania odsprzedawcy pośredniego.](/partner-center/develop/verify-indirect-reseller-mpa-status)
-4. Pomagaj odsprzedawcom pośrednim w wykonaniu poniższych czynności.
+4. Pomagaj odsprzedawcom pośrednim w wykonaniu poniższych działań.
 
 Więcej informacji i zasobów można znaleźć na stronie galerii CSP [tutaj.](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp#/)
 
 Zdajemy sobie sprawę z problemów technicznych napotykanych przez dostawców pośrednich podczas testowania możliwości wymuszania transakcji. Te problemy zostaną rozwiązane do kwietnia 2020 r.
 
 ### <a name="actions-for-indirect-resellers"></a>Akcje dla odsprzedawców pośrednich
-1. [Dołączanie do Partner Center](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/) jako odsprzedawca pośredni i akceptowanie Microsoft Partner Agreement w ramach procesu dołączania.
+1. [Dołączaj do Partner Center](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/) jako odsprzedawca pośredni i zaakceptuj Microsoft Partner Agreement w ramach procesu dołączania.
 2. Jeśli wcześniej do usługi do usługi Partner Center jako odsprzedawca pośredni, zaakceptuj Microsoft Partner Agreement na stronie Partner Center [pulpitu](https://partner.microsoft.com/pcv/dashboard/overview) nawigacyjnego przy użyciu poświadczeń administratora globalnego.
 Informacje i zasoby specyficzne dla odsprzedawcy pośredniego są dostępne za pośrednictwem strony galerii CSP odsprzedawcy [tutaj.](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/)
 
 ### <a name="change-log"></a>Dziennik zmian
 
 - 14 stycznia 2020 r.: opublikowano oryginalne zawiadomienie.
-- 24 stycznia 2020 r. : Seminaria internetowe z zaproszeniem na 27 stycznia 2020 r.
+- 24 stycznia 2020 r. : seminaria internetowe z zaproszeniem na 27 stycznia 2020 r.
 - 31 stycznia 2020 r.: seminaria internetowe z zaproszeniem zaktualizowanym na luty 2020 r.
-- 5 lutego 2020 r.: Microsoft Partner Agreement wymagana jest akceptacja.
+- 5 lutego 2020 r.: Microsoft Partner Agreement jest teraz wymagana akceptacja.
 - 4 marca 2020 r.: seria seminariów internetowych została zaktualizowana na marzec 2020 r.
 - 1 kwietnia 2020 r.: ** Aktualizacja ** — aby zapobiec przerwom w działalności biznesowej, zdecydowaliśmy się na rozszerzenie następnej fazy implementacji poza kwiecień 2020 r.
 

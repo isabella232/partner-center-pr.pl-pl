@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: ec4c5eb54d47e8cbaf4e6d11eb16a24859e44c4653ef243bcedc8dbc648bba3e
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d451218722b599569c7757c05e93af2c052a1eb8
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685194"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959398"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Doradcy: utwórz i wyślij zaproszenie do wersji próbnej, aby klienci próbowali Office 365
 
@@ -24,7 +24,7 @@ ms.locfileid: "115685194"
 > [!NOTE]
 > Ta funkcja jest dostępna tylko dla partnerów firmy Microsoft, którzy są autoryzowanymi doradcami subskrypcji.
 
-Możesz tworzyć i wysyłać zaproszenia do wersji próbnej do klientów, aby próbowali Office 365. Podczas tworzenia zaproszenia do wersji próbnej kreator zaproszenia do **tworzenia wersji próbnej** tworzy niestandardowy adres URL. Adres URL zawiera osadzony kod, który identyfikuje Cię jako doradcę subskrypcji. Tego adresu URL można użyć dla jednego lub wielu klientów. Wyślij adres URL do klienta w wiadomości e-mail lub użyj adresu URL w innych dokumentach. Subskrypcja może zawierać co najmniej jedną usługę, w zależności od konkretnej oferty. Zaproszenie można wysłać tylko dla jednej subskrypcji wersji próbnej jednocześnie.
+Możesz tworzyć i wysyłać zaproszenia do wersji próbnej do klientów, aby próbowali Office 365. Podczas tworzenia zaproszenia do wersji próbnej kreator zaproszenia do **tworzenia wersji próbnej** tworzy niestandardowy adres URL. Adres URL zawiera osadzony kod, który identyfikuje Cię jako doradcę subskrypcji. Tego adresu URL można użyć dla jednego lub wielu klientów. Wyślij adres URL do klienta w wiadomości e-mail lub użyj adresu URL w innych dokumentach. Subskrypcja może zawierać co najmniej jedną usługę, w zależności od konkretnej oferty. Zaproszenie można wysłać tylko dla jednej subskrypcji wersji próbnej na raz.
 
 Jeśli masz certyfikat, aby zaoferować administrację delegowaną, możesz dodać opcję do zaproszenia do wersji próbnej, która umożliwia administrowanie kontem w imieniu klienta. Ułatwia to klientowi wypróbowanie Office 365.
 
@@ -36,11 +36,11 @@ Jeśli masz certyfikat, aby zaoferować administrację delegowaną, możesz doda
 
     - **Biuro partnerskie:** jeśli Twoja firma ma wiele biur, wybierz biuro, które chcesz skojarzyć z tym zaproszeniem do wersji próbnej.
 
-        Aby dodać lokalizacje biur partnerskich, zobacz [Dodawanie lokalizacji](manage-locations.md). Nowe lokalizacje biur mogą wymagać do 24 godzin od ich utworzenia na liście biura partnerskiego.
+        Aby dodać lokalizacje biur partnerskich, zobacz [Dodawanie lokalizacji](manage-locations.md). Nowe lokalizacje biur mogą wymagać do 24 godzin od ich utworzenia, aby zostały wyświetlone na liście biura partnerskiego.
 
     - **Lokalizacja użycia:** wybierz lokalizację, w której klient będzie używać usług.
     - **Subskrypcje wersji próbnej:** lista subskrypcji wersji próbnej, które można wybrać, zależy od lokalizacji użycia kraju lub regionu klienta.
-    - **Administracja delegowana:** ta opcja jest dostępna tylko dla partnerów, którzy mają certyfikaty do zaoferowania administracji delegowaowej. Wybierz tę opcję, jeśli chcesz zaoferować klientowi administrację delegowaną. Jeśli tak zrobisz, klient może zaakceptować zaproszenie do wersji próbnej z lub bez akceptacji administracji delegowane. Aby uzyskać więcej informacji na temat administrowania delegowanego, zobacz [Oferty administracji delegowane.](customers-revoke-admin-privileges.md)
+    - **Administracja delegowana:** ta opcja jest dostępna tylko dla partnerów, którzy mają certyfikaty do zaoferowania administracji delegowaowej. Wybierz tę opcję, jeśli chcesz zaoferować klientowi administrację delegowaną. Jeśli tak zrobisz, klient może zaakceptować zaproszenie do wersji próbnej z lub bez akceptacji administracji delegowane. Aby uzyskać więcej informacji na temat administrowania delegowanego, zobacz [Offer delegated administration (Oferuj administrację delegowaną).](customers-revoke-admin-privileges.md)
 
 3. Wybierz opcję **Dalej**.
 

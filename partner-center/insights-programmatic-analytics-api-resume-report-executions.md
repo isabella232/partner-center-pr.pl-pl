@@ -8,12 +8,12 @@ description: Ten interfejs API umożliwia wznowienie wykonywania dowolnego wstrz
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 8c429913e269b88a42216ca99c4a4afbc545eb599b6dcfeb1d5fb79af5fdd50c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 1019e9e6f679084ca0a388d685b5239ecc2e09e2
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115697044"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959074"
 ---
 # <a name="resume-report-executions-api"></a>Wznawianie interfejsu API wykonywania raportów
 
@@ -98,7 +98,7 @@ W tej tabeli zdefiniowano kluczowe elementy odpowiedzi:
 |    ReportId     |    Uniwersalny unikatowy identyfikator (UUID) wznowienia raportu     |
 |    Reportname     |    Nazwa nadana raportowi podczas tworzenia     |
 |    Opis     |    Opis podany podczas tworzenia raportu     |
-|    QueryId     |    Identyfikator zapytania przekazany w momencie utworzenia raportu     |
+|    QueryId     |    Identyfikator zapytania przekazany podczas tworzenia raportu     |
 |    Zapytanie     |    Tekst zapytania, który zostanie wykonany dla tego raportu     |
 |    Użytkownik     |    Identyfikator użytkownika użyty do utworzenia raportu     |
 |    CreatedTime     |    Godzina utworzenia raportu. Format czasu to yyyy-MM-ddTHH:mm:ssZ     |

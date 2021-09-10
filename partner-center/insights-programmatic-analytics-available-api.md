@@ -1,5 +1,5 @@
 ---
-title: Lista interfejsu API do uzyskiwania dostępu do danych szczegółowych informacji partnerów
+title: Lista interfejsów API do uzyskiwania dostępu do danych szczegółowych informacji partnerów
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
@@ -8,18 +8,18 @@ description: Lista interfejsów API do uzyskiwania dostępu do danych szczegół
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 19c3094300e0d6c6f774117156cb6e26d80a0f22190c9736b12dd264178d6d7c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: cbd9f7fd08dfc4cfd247a0ed07a2c12845c5514c
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692419"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959013"
 ---
 # <a name="available-apis-for-partner-insights-analytics"></a>Dostępne interfejsy API do analizy szczegółowych informacji partnerów
 
-Poniżej znajduje się lista interfejsów API do analizy szczegółowych informacji partnerów i skojarzonych z nimi funkcji.
+Poniżej znajduje się lista interfejsów API do analizy szczegółowych informacji o partnerach i skojarzonych z nimi funkcji.
 
-## <a name="dataset-pull-apis"></a>Interfejsy API ściągania zestawu danych
+## <a name="dataset-pull-apis"></a>Interfejsy API ściągania zestawów danych
 
 ***Tabela 1. Interfejsy API ściągania zestawów danych***
 
@@ -54,9 +54,9 @@ Poniżej znajduje się lista interfejsów API do analizy szczegółowych informa
 | [Wznawianie wykonywania raportów](insights-programmatic-analytics-api-resume-report-executions.md) | Wznawia zaplanowane wykonywanie wstrzymanego raportu. |
 |||
 
-## <a name="report-execution-pull-apis"></a>Interfejsy API ściągania wykonywania raportu
+## <a name="report-execution-pull-apis"></a>Interfejsy API ściągania wykonywania raportów
 
-***Tabela 4. Interfejsy API ściągania wykonywania raportu***
+***Tabela 4. Interfejsy API ściągania wykonywania raportów***
 
 | **Interfejs API** | **Funkcjonalność** |
 | --- | --- |

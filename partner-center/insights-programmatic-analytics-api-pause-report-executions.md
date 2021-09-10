@@ -8,12 +8,12 @@ description: Ten interfejs API umożliwia wstrzymanie wykonywania dowolnego rapo
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 01bb70e46e5a80c039bfc90b2ac0a034aa73b1163f485af8b98676d756b73e18
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 798c5e87a3935923bd91d8e74716999fb8be4f54
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115697163"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959073"
 ---
 # <a name="pause-report-executions-api"></a>Interfejs API wstrzymywania wykonywania raportów
 
@@ -98,7 +98,7 @@ W tej tabeli zdefiniowano kluczowe elementy odpowiedzi:
 |    ReportId     |    Uniwersalny unikatowy identyfikator (UUID) wstrzymanego raportu     |
 |    Reportname     |    Nazwa nadana raportowi podczas tworzenia     |
 |    Opis     |    Opis podany podczas tworzenia raportu     |
-|    QueryId     |    Identyfikator zapytania przekazany w momencie utworzenia raportu     |
+|    QueryId     |    Identyfikator zapytania przekazany podczas tworzenia raportu     |
 |    Zapytanie     |    Tekst zapytania, który zostanie wykonany dla tego raportu     |
 |    Użytkownik     |    Identyfikator użytkownika użyty do utworzenia raportu     |
 |    CreatedTime     |    Godzina utworzenia raportu. Format czasu to yyyy-MM-ddTHH:mm:ssZ     |

@@ -1,6 +1,6 @@
 ---
 title: Zarządzanie brakiem płatnościami, oszustwem lub nieprawidłowym użyciem
-description: Dowiedz się więcej o różnych ryzykach związanych z transakcjami online i najlepszych rozwiązaniach dotyczących zarządzania tymi czynnikami i ograniczania ich w Partner Center.
+description: Poznaj różne rodzaje ryzyka związane z transakcjami online oraz najlepsze rozwiązania dotyczące zarządzania tymi czynnikami i ograniczania ich w Partner Center.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-payouts
@@ -9,22 +9,22 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: 54130356ae9388e78affb2e9ff19f54d9f55c64444981a82da1d29ff27fe4d39
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: f74a1c091a4c5cd838f8856152c1498f3ecd9d2b
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696669"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959230"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Zarządzanie przypadkami braku płatności, oszustw lub nieprawidłowego użycia w centrum partnerskim
 
-**Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
+**Dotyczy:** Partner Center | Partner Center dla Microsoft Cloud for US Government
 
 **Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent administracyjny | Administrator rozliczeń
 
 Klient jest odpowiedzialny finansowo za fałszywe zakupy przez klientów i/lub niepłać za zakupione usługi. Dlatego zdecydowanie zalecamy stosowanie środków zaradczych związanych z *zapobieganiem oszustwom i ich wykrywaniem.*
 
-Aby uniknąć i/lub rozwiązać problemy związane z fałszywymi działaniami lub nieprawidłowym użyciem, ważne jest zrozumienie potencjalnych zagrożeń i opracowanie zasad i praktyk, które mogą zmniejszyć narażenie na ryzyko.
+Aby uniknąć i/lub rozwiązać problemy związane z fałszywymi działaniami lub nieprawidłowym użyciem, ważne jest zrozumienie potencjalnych zagrożeń oraz opracowanie zasad i praktyk, które mogą zmniejszyć narażenie na ryzyko.
 
 ## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Wymuszanie zasad dopuszczalnego użycia przez firmę Microsoft
 
@@ -69,7 +69,7 @@ Sugestie dotyczące zmniejszania ryzyka w trybie online podczas dołączania now
 
 - Ustanawianie relacji osobistych z klientami, gdy jest to możliwe (na przykład kontaktowanie się z klientami przez telefon).
 - Sprawdź poświadczenia i doświadczenie klientów za pomocą lepszych metod (takich jak korzystanie z biur kredytowych lub agencji raporty biznesowe).
-- Użyj uwierzytelniania wieloskładnikowego (takiego jak weryfikacja SMS) podczas tworzenia konta, aby zminimalizować ryzyko utworzenia i zakupu konta robotyki.
+- Użyj uwierzytelniania wieloskładnikowego (takiego jak weryfikacja SMS) podczas rejestracji, aby zminimalizować ryzyko utworzenia i zakupu konta robotyki.
 - Śledzenie tożsamości i zarządzanie nimi przy użyciu usług (takich jak usługi zarządzania tożsamościami cyfrowymi).
 - Ocena siły finansowej klienta za pomocą rygorystycznych systemów wykrywania oszustw związanych z kartami kredytowymi.
 - Ustanów zasady czystej kolekcji. Szczegóły procesu kolekcji oraz tego, kiedy brak płatności będzie mieć wpływ na dostęp do subskrypcji. (Możesz wyłączyć dostęp lub [wstrzymać subskrypcje klienta w](create-a-new-subscription.md#suspend-a-subscription) przypadku braku płatności).
@@ -79,7 +79,7 @@ Sugestie dotyczące zmniejszania ryzyka w trybie online podczas dołączania now
 Sugestie dotyczące zarządzania kontami klientów po zakupie obejmują:
 
 - Implementowanie procesu szybkiego odbierania, przeglądania i reagowania na powiadomienia firmy Microsoft oraz reagowania na nie.
-- Pracuj z klientami, aby zrozumieć ich potrzeby biznesowe dotyczące użycia chmury przy odpowiednich progach monitorowania ustawień. (Na przykład możesz ustawić miesięczny budżet wydatków na [platformę Azure w](set-an-azure-spending-budget-for-your-customers.md) Partner Center. Dzięki temu można monitorować użycie klientów w miesiącu i być powiadamiane, gdy klienci zbliżają się do budżetu).
+- Pracuj z klientami, aby zrozumieć ich potrzeby biznesowe dotyczące użycia chmury przy zachowaniu odpowiednich progów monitorowania. (Na przykład można ustawić miesięczny budżet wydatków na [platformę Azure w](set-an-azure-spending-budget-for-your-customers.md) Partner Center. Dzięki temu można monitorować użycie klientów w miesiącu i być powiadamiane, gdy klienci zbliżają się do budżetu).
 - Regularnie [monitoruj dzienniki aktywności klientów,](activity-logs.md) aby pomóc w wczesnym wykrywaniu oszustw.
 - Szybkie działanie w przypadku wykrycia podejrzanych działań.
 - Unikaj pełnego dostępu administracyjnego klientów do subskrypcji bez konieczności wcześniejszego implementowania środków zaradczych.

@@ -9,12 +9,12 @@ author: petand123
 ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2d8464b93f6f3215043775496baacc8c6abd907bf614db78725814c9bea59229
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 73a02a0a6cad28939d21800c726811c8969ce9a2
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690906"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959481"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Zarządzanie licencjonowaniem w ofertach na platformie handlowej
 
@@ -35,15 +35,15 @@ Przed rozpoczęciem tego procesu należy zapoznać się z podstawami platformy h
 |-------|--------|
 |Plany komercyjnej platformy handlowej | [Plany i ceny ofert komercyjnej platformy handlowej](/azure/marketplace/plans-pricing)    |
 |Oferty komercyjnej platformy handlowej  | [Typy ofert](/azure/marketplace/determine-your-listing-type)    |
-|Konta komercyjnej platformy handlowej |  [Tworzenie konta komercyjnej platformy handlowej w Partner Center](/azure/marketplace/create-account) |
+|Konta komercyjnej platformy handlowej |  [Tworzenie konta komercyjnej platformy handlowej w Centrum partnerskim](/azure/marketplace/create-account) |
 
 ### <a name="determine-your-offer-id"></a>Określanie identyfikatora oferty
 
-W poniższych procedurach zostanie wyświetlony monit o wprowadzenie identyfikatora oferty. Poślij trochę czasu, aby znaleźć odpowiedni identyfikator oferty, pamiętając o następujących kwestiach:
+W poniższych procedurach zostanie wyświetlony monit o wprowadzenie identyfikatora oferty. Poślij trochę czasu, aby wymyślić odpowiedni identyfikator oferty, pamiętając o następujących kwestiach:
 
 - Ten identyfikator jest widoczny dla klientów w adresie internetowym oferty marketplace i Azure Resource Manager szablonów, jeśli ma to zastosowanie.
 - Identyfikator oferty w połączeniu z identyfikatorem Publisher musi mieć długość poniżej 40 znaków.
-- Użyj tylko małych liter i cyfr. Identyfikator oferty może zawierać łączniki i podkreślenia, ale nie może zawierać spacji. Jeśli na przykład identyfikator Publisher to , a po wprowadzeniu adresu internetowego oferty `testpublisherid` `test-offer-1` będzie to `https://appsource.microsoft.com/product/dynamics-365/testpublisherid.test-offer-1` .
+- Użyj tylko małych liter i cyfr. Identyfikator oferty może zawierać łączniki i podkreślenia, ale nie może zawierać spacji. Jeśli na przykład identyfikator Publisher to , a po wprowadzeniu adresu internetowego oferty będzie `testpublisherid` `test-offer-1` to `https://appsource.microsoft.com/product/dynamics-365/testpublisherid.test-offer-1` .
 - Tego identyfikatora nie można zmienić po wybraniu opcji **Utwórz**.
 
 ### <a name="determine-your-offer-alias"></a>Określanie aliasu oferty
@@ -81,13 +81,13 @@ W tych krokach zdefiniujesz plan lub plany, które chcesz włączyć dla swojej 
 
 5. Po zakończeniu wybierz pozycję **Przejrzyj i opublikuj**. Informacje o planie będą teraz wyświetlane na stronie appsource.microsoft.com w obszarze oferty (sekcja planów).
 
-6. Po utworzeniu wszystkich planów dla tej oferty należy skopiować identyfikator usługi każdego planu. Wybierz **pozycję Przegląd planu** w górnej części strony Lista planów. Skopiuj identyfikator usługi dla każdego planu do bezpiecznej lokalizacji.
+6. Po utworzeniu wszystkich planów dla tej oferty należy skopiować identyfikator usługi każdego planu. Wybierz **pozycję Przegląd planu** w górnej części strony lista planów. Skopiuj identyfikator usługi dla każdego planu do bezpiecznej lokalizacji.
 
 ## <a name="add-service-ids-to-your-solution"></a>Dodawanie identyfikatorów usług do rozwiązania
 
-Następnym krokiem jest zaktualizowanie rozwiązania przez dodanie identyfikatorów usług dla każdego skopiowanego planu. Aby uzyskać wskazówki dotyczące tego problemu, [zobacz Create an AppSource Package for your solution (Tworzenie pakietu usługi AppSource dla rozwiązania).](/powerapps/developer/data-platform/create-package-app-appsource)
+Następnym krokiem jest zaktualizowanie rozwiązania przez dodanie identyfikatorów usług dla każdego skopiowanego planu. Aby uzyskać wskazówki dotyczące tego problemu, zobacz Create an AppSource Package for your solution (Tworzenie pakietu [usługi AppSource dla rozwiązania).](/powerapps/developer/data-platform/create-package-app-appsource)
 
-## <a name="upload-your-package-and-publish-your-offer"></a>Upload pakietu i opublikować ofertę
+## <a name="upload-your-package-and-publish-your-offer"></a>Upload swój pakiet i opublikuj ofertę
 
 1. W okienku nawigacji po lewej stronie wybierz pozycję **Komercyjna platforma handlowa,** a następnie wybierz **pozycję Konfiguracja techniczna.**
 2. W **obszarze Podstawowy model licencji** wybierz pozycję **Użytkownik.**
@@ -114,7 +114,7 @@ Oferta będzie żywa w ciągu 4–6 godzin.
 
     - **W przypadku ofert** z włączoną licencją z opcją instalacji bezpłatnej: jeśli oferta nie wymaga sprawdzenia licencji, administratorzy zobaczą przycisk Pobierz **teraz** oprócz opcji Skontaktuj się **ze mną.** Użytkownicy, którzy chcą wypróbować bezpłatną opcję instalacji, powinni kliknąć pozycję Pobierz **teraz,** aby zainstalować ofertę w Power Platform administracyjnym. Użytkownicy mogą nadal używać funkcji **Skontaktuj się ze mną,** jeśli mają pytania lub chcą podwyżsić plan do planu płatnego.
 
-## <a name="register-isv-connect-deal-in-deal-registration"></a>Rejestrowanie umowy z Połączenie isv w rejestracji transakcji
+## <a name="register-isv-connect-deal-in-deal-registration"></a>Rejestrowanie umowy z Połączenie isV w rejestracji transakcji
 
 Aby można było przypisać licencje do klienta, każda sprzedaż musi być zarejestrowana w Partner Center. Aby to zrobić, zobacz [Rejestrowanie transakcji.](register-deals.md)
 
@@ -129,21 +129,21 @@ Użyj poniższej procedury, aby zaprosić klienta do wzięcia udziału w tej tra
 5. Na stronie przeglądu tej transakcji wybierz pozycję **Zarządzaj licencjami.**
 6. W **oknie Zarządzanie licencjami** wybierz klienta z listy **rozwijanej Szczegóły** klienta. Jeśli relacja z klientem jeszcze nie istnieje, wybierz **pozycję +Zaproś nowego klienta do wyrażenia zgody.**
 7. Skopiuj wyświetlony link.
-8. Wyślij ten link pocztą e-mail do administratora rozliczeń lub administratora globalnego klienta i pomiń go za pomocą tego linku, aby uzyskać dostęp do usługi admin.microsoft.com oraz zaakceptować i autoryzować nawiązywaną relację.
+8. Wyślij ten link pocztą e-mail do administratora rozliczeń lub administratora globalnego klienta i pomiń go za pomocą tego linku, aby uzyskać dostęp do admin.microsoft.com oraz akceptować i autoryzować nawiązywaną relację.
 
     >[!NOTE]
     >Relacja nie zostanie ustanowiona, dopóki klient nie wykona tego kroku.
 
 ## <a name="activate-manage-and-remove-your-licenses"></a>Aktywowanie i usuwanie licencji oraz zarządzanie nimi
 
-Po autoryzowaniu relacji z Tobem przez klienta możesz rozpocząć dodawanie planów z oferty i przypisywanie licencji do każdego planu.
+Gdy klient autoryzował relację z Toem, możesz rozpocząć dodawanie planów z oferty i przypisywanie licencji do każdego planu.
 
 1. W oknie Zarządzanie licencjami dla tej transakcji wybierz **pozycję +Dodaj plan**.
-2. Wypełnij pola **Plany dla tego rozwiązania i** Liczba **licencji,** a następnie wybierz **pozycję Aktualizuj licencje.** Licencje będą dostępne na stronie admin.microsoft.com, aby klienci mogą zarządzać pracownikami i przypisywać je do pracowników.
+2. Wypełnij pola **Plany dla tego rozwiązania** i Liczba **licencji,** a następnie wybierz **pozycję Aktualizuj licencje.** Licencje będą dostępne na stronie admin.microsoft.com, aby klienci mogą zarządzać pracownikami i przypisywać je do pracowników.
 
-    - Aby zmienić liczbę licencji dla istniejącego planu, wprowadź nową liczbę w polu Liczba licencji, a następnie wybierz **pozycję Aktualizuj licencje.** 
+    - Aby zmienić liczbę licencji dla istniejącego planu, wprowadź nową liczbę w polu Liczba licencji, a następnie wybierz pozycję **Aktualizuj licencje.** 
 
-    - Aby dezaktywować lub usunąć licencje dla transakcji,  wybierz ikonę kosza w polu Akcje, a następnie wybierz **pozycję Aktualizuj licencje.**
+    - Aby dezaktywować lub usunąć licencje dla transakcji,  wybierz ikonę kosza w polu Akcje, a następnie wybierz pozycję **Aktualizuj licencje.**
 
 ## <a name="next-steps"></a>Następne kroki
 

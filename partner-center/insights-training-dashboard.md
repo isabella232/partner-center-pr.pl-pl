@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Eksploruj Partner Center szkoleniowy. Szkolenie jest jednym z raportów dostępnych w Partner Center Szczegółowe informacje (PCI).
+description: Eksploruj Partner Center pulpit nawigacyjny trenowania. Szkolenie jest jednym z raportów dostępnych w Partner Center Szczegółowe informacje (PCI).
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19a11126f1d1830210f6bb92007a3eecfa4468796fea3a7730a3729e5ce7bc24
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 8749bdc1c2249f97d5db288f953eded1c4c06b02
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695835"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123958282"
 ---
 # <a name="trainings-dashboard"></a>Pulpit nawigacyjny szkolenia
 
@@ -28,11 +28,11 @@ Pulpit nawigacyjny Szkolenia zawiera szczegółowe informacje o certyfikatach, o
 - Szczegóły działania
 
 >[!NOTE] 
->Ten raport jest dostępny w centrum Szczegółowe informacje w Partner Center. Aby wyświetlić ten raport, musisz mieć przypisaną rolę Podgląd raportów lub Executive report viewer. Kilka sekcji tego raportu będzie widocznych tylko dla użytkowników, którzy są osobami przeglądających raporty kierownictwa. Aby uzyskać więcej informacji na temat kontroli dostępu do raportów Szczegółowe informacje, zobacz [Role PCI](insights-roles.md).
+>Ten raport jest dostępny w centrum Szczegółowe informacje w Partner Center. Aby wyświetlić ten raport, musisz mieć przypisaną rolę Podgląd raportów lub Executive report viewer. Kilka sekcji tego raportu będzie widocznych tylko dla użytkowników, którzy są osobami przeglądających raporty kierownictwa. Aby uzyskać więcej informacji na temat kontroli dostępu do raportów Szczegółowe informacje, zobacz [Role PCI.](insights-roles.md)
 
 ## <a name="summary"></a>Podsumowanie
 
-Sekcja podsumowania przedstawia liczbowy widok migawek różnych wskaźników wydajności związanych z trenowaniami. Różne wskaźniki wydajności to certyfikowane osoby, certyfikaty, osoby z poświadczeniami egzaminu, poświadczenia egzaminu, osoby z poświadczeniami oceny i poświadczeniami oceny. Dane w tej sekcji są odświeżane na podstawie wybranego zakresu dat, czyli trzech miesięcy (3M), sześciu miesięcy (6 mln) i 12 miesięcy (1Y) lub niestandardowego zakresu danych (niestandardowy). 
+Sekcja podsumowania przedstawia liczbowy widok migawek różnych wskaźników wydajności związanych z trenowaniami. Różne wskaźniki wydajności to certyfikowane osoby, certyfikaty, osoby z poświadczeniami egzaminu, poświadczenia egzaminu, osoby z poświadczeniami oceny i poświadczeniami oceny. Dane w tej sekcji są odświeżane na podstawie wybranego zakresu dat, który może być trzy miesiące (3M), sześć miesięcy (6 mln) i 12 miesięcy (1Y) lub niestandardowy zakres danych (niestandardowy). 
 
 :::image type="content" source="images/insights/training-dashboard-summary.png" alt-text="Podsumowanie.":::
 

@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 4dcf777cc4f6e7c7e16276b0275bf62dd927a833b892152c68366558ac42e86a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d26fe1c71a574ed58ca227979cda445950873596
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685143"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959446"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Uzyskiwanie danych o tym, jak dobrze radzią sobie klienci i subskrypcje platformy Azure
 
@@ -22,9 +22,9 @@ ms.locfileid: "115685143"
 
 **Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent administracyjny | Agent sprzedaży
 
-Dane wpływają na decyzje biznesowe. Użyj metryk na stronie użycia **platformy Azure,** aby zidentyfikować swoje sukcesy i obszary, które wymagają większej uwagi. Użyj tych informacji podczas planowania nowych celów biznesowych.
+Dane wpływają na decyzje biznesowe. Użyj metryk na stronie użycia **platformy Azure,** aby zidentyfikować sukcesy i obszary, które wymagają większej uwagi. Użyj tych informacji podczas planowania nowych celów biznesowych.
 
-Aby uzyskać dostęp do użycia **platformy Azure,** zaloguj się do Partner Center [nawigacyjnego](https://partner.microsoft.com/dashboard). Wybierz **pozycję Analiza** z menu Partner Center, a następnie wybierz pozycję Użycie platformy **Azure.**
+Aby uzyskać informacje o użyciu **platformy Azure,** zaloguj się do Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard) Wybierz **pozycję Analiza** z menu Partner Center, a następnie wybierz pozycję Użycie platformy **Azure.**
 
 > [!NOTE]
 > Analiza użycia platformy Azure jest dostępna tylko dla partnerów w Dostawca rozwiązań w chmurze programie.
@@ -64,4 +64,4 @@ Ta sekcja wskazuje przewidywane ryzyko zmian w subskrypcjach platformy Azure. Te
 
  ## <a name="next-steps"></a>Następne kroki
 
-- [Kup plan platformy Azure dla klientów, & uzyskać dostęp do najnowszych usług platformy Azure ze stawkami płatności zgodnie z użyciem](purchase-azure-plan.md)
+- [Kup plan platformy Azure dla klientów, & uzyskać dostęp do najnowszych usług platformy Azure po stawkach płatności zgodnie z użyciem](purchase-azure-plan.md)

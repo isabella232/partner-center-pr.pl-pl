@@ -9,12 +9,12 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a691a891ca813cea930daadeabc647c98743493471b169707e82a3baa4f5fb3
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: c9a910468c9f743cac848cbd9392f3ff64827cec
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115689403"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959565"
 ---
 # <a name="view-digitally-signed-invoices"></a>Wyświetlanie faktur podpisanych cyfrowo
 
@@ -22,9 +22,9 @@ ms.locfileid: "115689403"
 
 **Odpowiednie role:** Administrator konta | Agent rozliczeń | Agent sprzedaży
 
-Partnerzy w Indiach widzą teraz, że firma Microsoft ma podpisane cyfrowo faktury. Aby wyświetlić podpis, należy użyć rozwiązania Adobe Acrobat Reader Document Cloud (DC).
+Partnerzy w Indiach widzą teraz, że firma Microsoft ma podpisane cyfrowo faktury. Aby wyświetlić podpis, należy użyć programu Adobe Acrobat Reader Document Cloud (DC).
 
-## <a name="how-to-view-and-insure-a-valid-digital-signature"></a>Sposób wyświetlania i sprawdzania prawidłowego podpisu cyfrowego
+## <a name="how-to-view-and-insure-a-valid-digital-signature"></a>Jak wyświetlić prawidłowy podpis cyfrowy i za jegobezpieczyć
 
 
 1. Jeśli zamówienie utworzono w Partner Center, otrzymasz cyfrową kopię faktury w wiadomości e-mail. Wybierz fakturę, która zostanie otwarta z poziomu programu Adobe Acrobat Reader DC.
@@ -32,15 +32,15 @@ Partnerzy w Indiach widzą teraz, że firma Microsoft ma podpisane cyfrowo faktu
 
 2. W górnej części faktury powinna zostać wyświetlony podpis i **wszystkie podpisy są prawidłowe.**
  
- :::image type="content" source="images/digitalsig/digital1.png" alt-text="Przykładowa faktura z prawidłowym transparentem powiadomienia o podpisie z podpisem z zielonym znacznikiem wyboru i frazą z informacją o podpisie i wszystkich podpisach są prawidłowe.":::
+ :::image type="content" source="images/digitalsig/digital1.png" alt-text="Przykładowa faktura z prawidłowym transparentem powiadomienia o podpisie z podpisem i frazą z zielonym znacznikiem wyboru z informacją o tym, że podpis i wszystkie podpisy są prawidłowe.":::
 
 3. Wybierz podpis. Zostanie wyświetlony certyfikat z informacją o ważności.
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="Podpisana faktura z polem Autoryzowany podpis i stanem weryfikacji podpisu, okno dialogowe ze szczegółami, opcja Właściwości sygnatury, opcja Anuluj."::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="Podpisana faktura z polem autoryzowanego podpisywania i oknie dialogowym Stan weryfikacji podpisu ze szczegółami, opcją Właściwości sygnatury, opcją Anuluj."::: 
 
 4. Wybierz **pozycję Właściwości sygnatury,** aby wyświetlić więcej szczegółów dotyczących ważności sygnatury.
 
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="Widok szczegółów właściwości sygnatur zawiera informacje o tym, kto, gdzie, kiedy został podpisany dokument, jego proces weryfikacji i certyfikat osoby podpisujące."::: 
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="Widok szczegółów właściwości sygnatury zawiera informacje o tym, kto, gdzie, kiedy dokument został podpisany, proces jego weryfikacji i certyfikat osoby podpisującej."::: 
 
 4. Możesz również upewnić się, że ścieżki certyfikacji są poprawne i że certyfikat jest zaufany.
 
@@ -48,7 +48,7 @@ Partnerzy w Indiach widzą teraz, że firma Microsoft ma podpisane cyfrowo faktu
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>Dodatkowe informacje na temat faktur i podpisów cyfrowych
 
-Kopia cyfrowa zostanie wysłane do osoby, która utworzyła zamówienie w Partner Center. Nie można uzyskać faktur podpisanych cyfrowo dla faktur, które zostały wystawione przed 17 lipca 2020 r. Ponadto ręcznie podpisane faktury nie będą dostępne.
+Kopia cyfrowa zostanie wysłane do osoby, która utworzyła zamówienie w Partner Center. Nie można uzyskać podpisanych cyfrowo faktur za faktury wystawione przed 17 lipca 2020 r. Ponadto ręcznie podpisane faktury nie będą dostępne.
 
 ## <a name="next-steps"></a>Następne kroki
 

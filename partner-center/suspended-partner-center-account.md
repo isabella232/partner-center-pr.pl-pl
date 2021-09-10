@@ -9,16 +9,16 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18ffd80e1a05ef5e6120828341dd9f4e8ec172dab64ace423b5f5148e6ea999c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 84448566bb3a5d4ef8655ccfee86e7d39f4a6642
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695768"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961563"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restore a suspended Partner Center account - learn why it happens and what to do about it (Przywracanie zawieszonego konta Centrum partnerskiego — przyczyny i czynnością do wykonania)
 
-**Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
+**Dotyczy:** Partner Center | Partner Center dla Microsoft Cloud for US Government
 
 **Odpowiednie role:** Administrator globalny
 
@@ -29,7 +29,7 @@ W tym artykule wyjaśniono, co należy zrobić, jeśli Twoje konto w Centrum par
 
 ## <a name="why-partner-center-accounts-are-suspended"></a>Dlaczego Partner Center konta są zawieszone
 
-Firma Microsoft zawiesi konto Partner Center z jednego z następujących powodów:
+Firma Microsoft zawiesi konto Partner Center z jednej z następujących przyczyn:
 
 - Gdy bieżąca kwota rozliczeniowa jest za overduchem większa niż 60 dni
 - W przypadku wykrycia znacznego nadużycie konta
@@ -42,7 +42,7 @@ Jeśli wiesz, że Twoje konto jest aktualne, sprawdź ustawienia [profilu](https
 
 Jeśli nie masz pewności, czy Twoje  konto jest aktualne, wybierz pozycję Rozliczenia z menu **Partner Center,** aby sprawdzić rachunek. Strona rozliczeń zawiera historię rozliczeń i trendy, saldo za bieżący miesiąc, linki do plików faktur i uzgodnień oraz najnowszą płatność.
 
-Jeśli Twoje konto jest zaduszone, postępuj zgodnie z instrukcjami na rachunku, aby ustalić płatność, a następnie prześlij wniosek o pomoc techniczną w celu przywrócenia konta. 
+Jeśli Twoje konto jest zaduszone, postępuj zgodnie z instrukcjami na rachunku, aby zorganizować płatność, a następnie prześlij wniosek o pomoc techniczną w celu przywrócenia konta. 
 
 Aby uzyskać dodatkową pomoc przy ponownej aktywacji konta, skontaktuj się z [pomocą techniczną](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create).
 
@@ -50,4 +50,4 @@ Aby uzyskać dodatkową pomoc przy ponownej aktywacji konta, skontaktuj się z [
 
 - [Weryfikowanie profilu partnera](update-your-partner-profile.md)
 
-- [Weryfikowanie informacji o koncie podczas rejestrowania w nowym Partner Center programie](verification-responses.md)
+- [Weryfikowanie informacji o koncie podczas rejestrowania w nowym programie Centrum partnerskiego](verification-responses.md)
