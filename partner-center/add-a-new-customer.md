@@ -11,16 +11,16 @@ ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.openlocfilehash: 7995ee8f4da20d80fd260bcb77665e244e448227
 ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/09/2021
-ms.locfileid: "124343158"
+ms.locfileid: "123958210"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Jak dodać nowy rekord klienta w Partner Center
 
 **Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent administracyjny | Agent sprzedaży
 
-W tym artykule opisano sposób dodawania nowego klienta do Partner Center. Te kroki są wymagane, aby można było sprzedawać subskrypcje, zarządzać rozliczeniami lub udzielać pomocy technicznej klientowi.
+W tym artykule opisano sposób dodawania nowego klienta w Partner Center. Te kroki są wymagane, aby można było sprzedawać subskrypcje, zarządzać rozliczeniami lub zapewniać pomoc techniczną klientowi.
 
 ## <a name="considerations"></a>Zagadnienia do rozważenia
 
@@ -28,14 +28,14 @@ W tym artykule opisano sposób dodawania nowego klienta do Partner Center. Te kr
 
 - **Użyj poprawnego identyfikatora rejestracji:** podczas wprowadzania identyfikatora rejestracji firmy należy użyć identyfikatora podatkowego firmy, a nie osobistego identyfikatora klienta.
 
-- **Wprowadź dodatkowe informacje dla niektórych krajów:** identyfikator rejestracji firmy i numer [telefonu](#company-registration-id-and-phone-number-required-for-some-countries) są wymagane w niektórych krajach, jeśli jesteś partnerem z bezpośrednimi rozliczeniami lub dostawcą pośrednim
-- **Potwierdź** Umowa z Klientem Microsoft: Przed zamówieniem zamówienia w imieniu klienta musisz potwierdzić, że klient zaakceptował Umowa z Klientem Microsoft [.](confirm-customer-agreement.md)
+- **Wprowadź dodatkowe informacje dla niektórych krajów:** [identyfikator](#company-registration-id-and-phone-number-required-for-some-countries) rejestracji firmy i numer telefonu są wymagane w niektórych krajach, jeśli jesteś partnerem rozliczania bezpośredniego lub dostawcą pośrednim
+- **Potwierdź** Umowa z Klientem Microsoft: przed zamówieniem w imieniu klienta należy potwierdzić, że klient zaakceptował [Umowa z Klientem Microsoft](confirm-customer-agreement.md).
 - **** Użyj różnych kroków dla istniejących klientów: W przypadku istniejących klientów, w tym [](multichannel.md) tych, [](multipartner.md) którzy już mają rekordy klientów w uciecie Partner Center w scenariuszu obejmującym wiele kanałów lub wiele partnerów, [](request-a-relationship-with-a-customer.md)zażądaj relacji z nimi , zamiast wykonać kroki opisane tutaj.
-- **Wprowadź szczegółowe, dokładne informacje o kliencie:** Aby weryfikacja klienta, upewnij się, że:
+- **Wprowadź szczegółowe, dokładne informacje o kliencie:** aby weryfikacja klienta klientów, upewnij się, że:
   - Wprowadź dokładną nazwę prawna/oficjalną, która będzie wyświetlana w oficjalnych dokumentach.
-  - Unikaj używania skrótów lub krótkich formularzy.
+  - Unikaj używania akronimów lub krótkich formularzy.
   - Nie używaj nazw testów.
-  - Podaj pełne, dokładne informacje o adresie (na przykład szczegóły lokalizacji, miasto, stan, kraj i kod pocztowy).
+  - Podaj pełne, dokładne informacje o adresie (na przykład szczegóły lokalizacji, miasto, stan, kraj i kod pocztowy/pocztowy).
 
 ## <a name="new-rules-for-company-name-and-email-address"></a>Nowe reguły dotyczące nazwy firmy i adresu e-mail
 
@@ -45,10 +45,10 @@ Podczas wprowadzania nazwy firmy następujące elementy nie będą dozwolone:
 - Przy użyciu tylko jednego znaku.
 - Używanie tylko znaków specjalnych, takich jak &$^# (zobacz [tabelę](#table-of-special-characters) poniżej).
 - Używanie tylko spacji i/lub tabulatorów.
-- Używanie skrótów autonomicznych z listy z ograniczeniami, takich jak LLC, Inc itp. (zobacz [tabelę](#table-of-abbreviations) poniżej).
+- Używanie autonomicznych skrótów z listy z ograniczeniami, takich jak LLC, Inc itp. (patrz [tabela](#table-of-abbreviations) poniżej).
 - Używanie nazw z rozszerzeniami domeny internetowej Top-Level (TDL), takich jak ".com", ".org", ".edu", [](#table-of-top-level-domain-extensions) ".club" itp. (zobacz tabelę poniżej).
 
-- Użycie tego samego znaku powtórzone trzy lub więcej razy bez innych znaków, takich jak 999.
+- Używanie tego samego znaku powtórzone trzy lub więcej razy bez innych znaków, takich jak 999.
 
 - Używanie spacji i/lub tabulatorów mieszanych z poszczególnymi znakami, takimi jak 1 2 3.
 
@@ -59,41 +59,41 @@ Podczas wprowadzania adresu e-mail klienta następujące warunki nie będą dozw
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Aby dodać nowego klienta w Centrum partnerskim
 
-1. W menu Partner Center wybierz pozycję **Klienci,** a następnie wybierz pozycję **Dodaj klienta.**
-2. Jeśli Klient jest instytucją edukacyjną, zobacz, [jak utworzyć klienta z opinią](sell-to-education-customers.md).
+1. W menu Partner Center wybierz pozycję **Klienci,** a następnie wybierz **pozycję Dodaj klienta.**
+2. Jeśli Klient jest instytucją edukacyjną, [zobacz, jak utworzyć klienta zedukcją](sell-to-education-customers.md).
 
 3. Na stronie **Informacje o koncie** wprowadź szczegóły klienta i podstawowe informacje kontaktowe.
    >[!IMPORTANT]
-   >Partnerzy muszą potwierdzać, że:
+   >Partnerzy muszą mieć następujące atesty:
    >
-   >Potwierdzam, że moja organizacja działa jako partner pośredni podczas wybierania odsprzedawcy i partner bezpośredni w przypadku braku odsprzedawcy
+   >Potwierdzam, że moja organizacja działa jako partner pośredni podczas wybierania odsprzedawcy i partnera bezpośredniego w przypadku braku odsprzedawcy
    >
    >Potwierdzam, że nie odsprzedaję produktów zakupionych w ramach tego zamówienia innym partnerom powiązanym z moją organizacją nadrzędną
 
    >[!NOTE]
-   >Przepisy prawne UNII/UNII EUROPEJSKIEJ stwierdzają, że partnerzy transakcyjni w tych krajach muszą zadeklarować dodatkowych odsprzedawców skojarzonych w ramach transakcji. Będą stosowane następujące reguły:
-   >- Odsprzedawca początkowy musi zostać wybrany przed dodatkowymi odsprzedawcami
+   >Prawo UNII EUROPEJSKIEJ/EFTA stanowi, że partnerzy transakcyjni w tych krajach muszą zadeklarować dodatkowych odsprzedawców skojarzonych w ramach transakcji. Będą stosowane następujące reguły:
+   >- Przed żadnymi dodatkowymi odsprzedawcami należy wybrać początkowego odsprzedawcę
    >- Dodatkowi odsprzedawcy nie będą uprawnieni do żadnych dodatkowych zachęt, ofert itp.
-   >- Dodatkowy wprowadzony sprzedawca zostanie zweryfikowany, aby upewnić się, że wprowadzono prawidłowy identyfikator MPN tam, gdzie ma to zastosowanie, a odsprzedawca podpisał umowę MPA.
+   >- Dodatkowi sprzedawcy zostaną zweryfikowani, aby upewnić się, że wprowadzono prawidłowy identyfikator MPN tam, gdzie ma to zastosowanie, oraz że odsprzedawca podpisał umowę MPA.
    >- W ramach transakcji można wprowadzić maksymalnie 5 dodatkowych odsprzedawców 
 
 4. Jeśli jesteś dostawcą pośrednim, wybierz z listy odsprzedawcę pośredniego, który chcesz skojarzyć z subskrypcjami tego klienta.
 
-5. Po zakończeniu wprowadzania wymaganych informacji wybierz pozycję **Dalej: Subskrypcje**.
+5. Po zakończeniu wprowadzania wymaganych informacji wybierz pozycję **Dalej: Subskrypcje.**
 
 6. Na **stronie Subskrypcje** wybierz oferty, które klient chce kupić od Ciebie, wprowadź liczbę licencji, a następnie wybierz pozycję **Dalej: Przejrzyj**.
 
-7. Na stronie **Review (Przegląd)** sprawdź poprawność wpisów, a następnie wybierz pozycję **Submit (Prześlij).**
+7. Na stronie **Przegląd** sprawdź dokładność wpisów, a następnie wybierz pozycję **Prześlij.**
 
-8. Po zakończeniu dodawania informacji o klientach i zakupienia wymaganych subskrypcji wybierz pozycję **Gotowe.**
+8. Po zakończeniu dodawania informacji o kliencie i zakupienia wymaganych subskrypcji wybierz pozycję **Gotowe.**
 
 ## <a name="company-registration-id-and-phone-number-required-for-some-countries"></a>Identyfikator rejestracji firmy i numer telefonu wymagany w niektórych krajach
 
-Partnerzy z rozliczeniami bezpośrednimi i dostawcy pośredni dodający rekordy dla klientów w następujących krajach muszą również wprowadzić numer telefonu i identyfikator rejestracji firmy (nazywany również identyfikatorem REJESTRACJI organizacji):
+Partnerzy z rozliczeniami bezpośrednimi i dostawcy pośredni dodający rekordy dla klientów w następujących krajach muszą również wprowadzić firmowy numer telefonu i identyfikator rejestracji (znany również jako organizacja THE):
 
-W tym celu można chcieć odeznać się na przykład w takich regionach jak Brazylia Południowa, Brazylia, Brazylia Południowa, Brazylia Południowa, Tadżykistan, Dojdystan, Dominja, Zjednoczone Królestwo, Zjednoczone Królestwo, Chiny, Kolumbia i Wietnam.
+W tym celu można chcieć odeznać się w imieniu stanów azji i obronnych.
 
-## <a name="company-name-and-email-characters-abbreviations-and-extensions"></a>Nazwa firmy i znaki e-mail, skróty i rozszerzenia
+## <a name="company-name-and-email-characters-abbreviations-and-extensions"></a>Nazwa firmy i znaki wiadomości e-mail, skróty i rozszerzenia
 
 W poniższych tabelach wymieniono elementy wymienione w [powyższej sekcji nowych](#new-rules-for-company-name-and-email-address) reguł.
 
@@ -117,10 +117,10 @@ W poniższych tabelach wymieniono elementy wymienione w [powyższej sekcji nowyc
 
 ### <a name="table-of-abbreviations"></a>Tabela skrótów
 
-| Abbr. | Abbr. | Abbr. | Abbr. |
+| Skrót. | Skrót. | Skrót. | Skrót. |
 | ----- | ----- | ----- | ----- |
 |" c p a" | "pty" | "l. l. c." | "gmbh" |
-| "c.p.a." | "pty ltd" | "l.l.c." | "dobowe" |
+| "c.p.a." | "pty ltd" | "l.l.c." | "zajmij się" |
 | "l.l.p." | "pte ltd" | " l l p" | "wll" |
 | "c. p. a." | "private limited" | "corp" | "lda" |
 | "l. l. p." | "pvt" | "corporation" | "sarl" |
@@ -178,7 +178,7 @@ W poniższych tabelach wymieniono elementy wymienione w [powyższej sekcji nowyc
 | .ki | .mf | .ng | qa |
 | km | .mg | .ni | .re |
 | .kn | .mh | .nl | .ro |
-| .kp | mk | .no | .rs |
+| .kp | .mk | .no | .rs |
 | .kr | .ml | .np | .ru |
 | Kw | .mm | .nr | .rw |
 | .ky | .mn | .nu | .sa |
@@ -189,21 +189,21 @@ W poniższych tabelach wymieniono elementy wymienione w [powyższej sekcji nowyc
 | .sg | .tk | .vn | .ભારત |
 | .sh | .tl | .vu | .भारतम् |
 | .si | .tm | .wf | .भारत |
-| .sj | TN | .ws | .भारोत |
+| .sj | .tn | .ws | .भारोत |
 | .sk | .to | .ಭಾರತ | .укр |
 | .sl | Tp | .한국 | .香港 |
 | .sm | .tr | .ଭାରତ | .台湾 |
 | .sn | .tt | .ভাৰত | .台灣 |
-| .so | Tv | .ভারত | .мон |
+| .so | Tv (tv) | .ভারত | .мон |
 | .sr | .tw | .சிங்கப்பூர் | .tc |
-| .ss | .tz | .sz | td |
+| .ss | .tz | .sz | .td |
 | .st | .ua | .বাংলা | .uz |
 | .su | .ug | .қаз | .va |
-| .sv | .uk | .срб | .мкд |
+| Plik sv | .uk | .срб | .мкд |
 | .sx | .um | .бг | .ею |
 | .sy | .us | .бел | Uy |
 | .tc | .uz | .мкд |  |
 
 ## <a name="next-steps"></a>Następne kroki
 
-- Aby uzyskać więcej informacji o tym, co można sprzedawać klientom za pośrednictwem programu Dostawca rozwiązań w chmurze, zobacz Oferty partnerów w [Dostawca rozwiązań w chmurze programu](csp-offers.md)
+- Aby uzyskać więcej informacji o tym, co można sprzedawać klientom za pośrednictwem programu Dostawca rozwiązań w chmurze, zobacz Oferty partnerów [w Dostawca rozwiązań w chmurze programu](csp-offers.md)
