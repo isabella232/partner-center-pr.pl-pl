@@ -10,11 +10,11 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 2d0c1e05ff0e0b9c807dfc7beb1136cec87b4069
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958714"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246549"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Otrzymywanie środków na koncie Partner Center na potrącenie podatku
 
@@ -50,7 +50,7 @@ Wykonaj następujące kroki, aby przesłać nową potrącenie podatku:
 6. **Dołącz** certyfikat podatkowy. W żądaniu potrącenia podatku  należy dołączyć cyfrową kopię certyfikatu podatku potrącanego.  Ten certyfikat został otrzymany od lokalnej urzędu skarbowego, gdy płacisz podatki lokalnemu urzędowi podatkowemu. Kwota podatku na podstawie faktury w certyfikacie podatku potrącanego musi być dopasowana do łącznej kwoty w żądaniu potrącenia podatku.
 
    > [!IMPORTANT]
-   > Sumy zapewniane przez partnera powinny być zgodne z linią faktury z dołączonego certyfikatu podatkowego. Dołączone pliki certyfikatów podatkowych muszą być w jednym z następujących formatów plików: .PDF tylko obraz (. JPEG, .PNG i .GIF). Ponadto nazwy plików nie powinny zawierać spacji ani znaków specjalnych. Rozmiary plików nie mogą przekraczać 1 MB.
+   > Sumy zapewniane przez partnera powinny być zgodne z linią faktury z dołączonego certyfikatu podatkowego. Dołączone pliki certyfikatów podatkowych muszą być w jednym z następujących formatów plików: tylko .PDF lub Tylko obraz (. JPEG, .PNG i .GIF). Ponadto nazwy plików nie powinny zawierać spacji ani znaków specjalnych. Rozmiary plików nie mogą przekraczać 1 MB.
 
 7. **Prześlij** żądanie potrącenia podatku.
 

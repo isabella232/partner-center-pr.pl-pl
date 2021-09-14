@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
 ms.openlocfilehash: 35c5d378f66071f3c97abdf74eec27e78a8ac778
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958870"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248135"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Dodaj Azure Partner Shared Services, aby partnerzy mogą kupować subskrypcje platformy Azure na własny użytek
 
@@ -24,7 +24,7 @@ Azure Partner Shared Services (APSS) to nowy typ oferty dla partnerów w program
 
 ## <a name="create-the-shared-services-tenant"></a>Tworzenie dzierżawy usług udostępnionych
 
-1. Przejdź do **Ustawienia**  >  **konta Usługi**  >  **udostępnione.**
+1. Przejdź do **Ustawienia**  >  **Ustawienia konta Usługi**  >  **udostępnione.**
 
    :::image type="content" source="images/sharedservices2.png" alt-text="Ustawienia konta > usług udostępnionych":::
 
@@ -32,19 +32,19 @@ Azure Partner Shared Services (APSS) to nowy typ oferty dla partnerów w program
 
    :::image type="content" source="images/sharedservices3.png" alt-text="Tworzenie usług udostępnionych.":::
 
-3. Powoduje to utworzenie dzierżawy usług udostępnionych i zakup Azure CSP usług udostępnionych, która będzie używana dla zasobów udostępnionych i obciążeń wewnętrznych.
+3. Powoduje to utworzenie dzierżawy usług udostępnionych i zakup Azure CSP usług udostępnionych, która będzie używana dla zasobów udostępnionych i obciążenia wewnętrznego.
 
    :::image type="content" source="images/sharedservices5.png" alt-text="Utwórz dzierżawę i kup subskrypcję.":::
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>Informacje o Azure — usługi wewnętrzne/udostępnione oferty
 
-- Subskrypcja Azure — usługi wewnętrzne/udostępnione to nowy typ oferty platformy Azure w programie CSP dostępnym za pośrednictwem Partner Center, który partnerzy mogą uzyskać na własny użytek z platformy Azure.
+- Subskrypcja Azure — usługi wewnętrzne/udostępnione to nowy typ oferty platformy Azure w programie CSP dostępnym za pośrednictwem Partner Center, które partnerzy mogą uzyskać na własny użytek z platformy Azure.
 
-- Azure Partner Shared Services są uprawnione i mogą być używane do zakupu interfejsów API.
+- Azure Partner Shared Services kwalifikują się i mogą być używane do zakupu interfejsów API.
 
 - Ofertę Azure — usługi wewnętrzne/udostępnione można zastosować tylko do dzierżawy usług udostępnionych.
 
-- Podstawowym zastosowaniem subskrypcji Azure — usługi wewnętrzne/udostępnione jest użycie platformy Azure do własnych celów programistyczych. Udostępnionej dzierżawy używanej do aprowiwizować tej oferty nie można używać w przypadku innych usług, takich jak Office 365 licencji usługi Dynamics.
+- Podstawowym zastosowaniem subskrypcji Azure — usługi wewnętrzne/udostępnione jest użycie platformy Azure do własnych celów programistyczych. Dzierżawy udostępnionej używanej do aprowiwizować tej oferty nie można używać w przypadku innych usług, takich jak Office 365 licencji usługi Dynamics.
 
 - Możesz anulować subskrypcję, tak jak każdą inną subskrypcję. Przejdź do ustawień  >  **ustawień Wyświetl wszystko usługi**  >  **udostępnione.** Wybierz subskrypcję Azure — usługi wewnętrzne/udostępnione i anuluj ją.
 
@@ -56,7 +56,7 @@ Zużycie platformy Azure znajdziesz na fakturze za program CSP i pliku uzgodnie�
 
 Aby wyświetlić nowy plik cennika usługi APSS, przejdź do sekcji **Sell** Pricing and offers (Sprzedawaj ceny i oferty) i wybierz cennik  >   z bieżącego miesiąca. W najbliższych tygodniach zostanie również wydany interfejs API karty z określoną szybkością.
 
-## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Oferty i Azure Partner Shared Services Marketplace
+## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Oferty i Azure Partner Shared Services
 
 Od 1 marca 2019 r. platforma APSS nie obsługuje już ofert w witrynie Marketplace.
 

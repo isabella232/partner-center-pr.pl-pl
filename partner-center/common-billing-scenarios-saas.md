@@ -10,15 +10,15 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 9568a014de926682dd89dd9d06d1c6ca5b98ac71
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958054"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247041"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Typowe scenariusze rozliczeń dla opartych na licencjach transakcji SaaS w Partner Center
 
-**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Agent pomocy | Agent sprzedaży
+**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Agent pomocy technicznej | Agent sprzedaży
 
 
 Te [przykładowe typowe scenariusze rozliczeń](common-billing-scenarios.md) mają zastosowanie do subskrypcji oprogramowania jako usługi (SaaS) opartych na licencjach w Partner Center.
@@ -68,9 +68,9 @@ Plik rekonescji będzie obejmować następujące opłaty:
 
 W tym scenariuszu opisano rozliczenia dla subskrypcji SaaS miernika klienta, która została zakupiona i anulowana w Azure Portal tego samego dnia.
 
-W tym scenariuszu zakupiono subskrypcję SaaS miernika niestandardowego na Azure Portal. Następnie anulowano subskrypcję w tym samym dniu.
+W tym scenariuszu zakupiono subskrypcję SaaS miernika niestandardowego w Azure Portal. Następnie anulowano subskrypcję w tym samym dniu.
 
 | Data zakupu | SKU | Data rozpoczęcia opłaty | Data zakończenia opłaty | Cena jednostkowa | Ilość jednostek | Suma | Typ opłaty | Opis subskrypcji |
 | ------------- | ------------- |----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 06/10/2019 | Brązu | 06/10/2019 | 06/10/2019 | 10 USD | 1 | 10 USD | Nowy | Subskrypcja SaaS miernika niestandardowego |
-| 06/10/2019 | Brązu | 06/10/2019 | 06/10/2019 | 10 USD | 1 | -$10 | CancelImmediate | Subskrypcja SaaS miernika niestandardowego |
+| 06/10/2019 | Brązu | 06/10/2019 | 06/10/2019 | 10 USD | 1 | -10 USD | CancelImmediate | Subskrypcja SaaS miernika niestandardowego |

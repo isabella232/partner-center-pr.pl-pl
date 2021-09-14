@@ -10,19 +10,135 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 09/06/2021
-ms.openlocfilehash: 87b7aabae1420f8fc72957c5fdab0e2563ccc91e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.date: 09/10/2021
+ms.openlocfilehash: dfb3d2dccfdec0512e8517ab7d815bd076570958
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "124343126"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246466"
 ---
 # <a name="september-2021-announcements"></a>Ogłoszenia z września 2021 r.
 
 Ta strona zawiera ogłoszenia dotyczące usługi Microsoft Partner Center na wrzesień 2021 r.
 
+## <a name="september-cloud-solution-provider-community-update-and-reminders"></a><a name="10"></a>Aktualizacja społeczności Dostawca rozwiązań w chmurze września i przypomnienia
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-9-10
+- Community | Możliwości
+
+### <a name="summary"></a>Podsumowanie
+
+Biuletyn [Dostawca rozwiązań w chmurze (CSP)](https://partner.microsoft.com/resources/detail/csp-monthly-update-september-2021-global) jest teraz dostępny wraz z dodatkowymi zasobami społeczności programu [CSP,](https://partner.microsoft.com/resources/collection/september-2021-csp-partner-community-content#/) które zapewniają podstawowe aktualizacje programu.
+
+### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+
+Partnerzy rozliczani bezpośrednio i dostawcy pośredni dostawcy CSP
+
+### <a name="details"></a>Szczegóły
+
+Zasoby w tym miesiącu obejmują następujące tematy:
+
+#### <a name="launches"></a>Uruchamia
+
+- [Microsoft Dynamics 365, Microsoft 365, Microsoft Power Platform i Windows 365 w nowym doświadczeniu handlowym w programie CSP](https://partner.microsoft.com/resources/detail/d365-m365-power-platform-w365-in-the-new-commerce-experience-in-csp-pdf)
+
+#### <a name="clinics"></a>Kliniki
+
+- [Wprowadzenie do obsługi licencjonowania dla partnerów](https://partner.microsoft.com/resources/detail/introduction-to-licensing-support-for-partners-pdf)
+- [Przewodnik po witrynie z warunkami produktów dla partnerów](https://partner.microsoft.com/resources/detail/product-terms-site-guide-for-partners-pdf)
+- [Jak zgłosić wyłudzenie pomocy technicznej](https://partner.microsoft.com/resources/detail/how-to-report-a-support-scam-pdf)
+- [Zmiana atrybutu programu dla Aplikacje Microsoft 365 dla Enterprise](https://partner.microsoft.com/resources/detail/program-attribute-change-for-microsoft-365-apps-for-enterprise-pdf)
+
+#### <a name="csp-community-qa-reminder"></a>CSP Community Q&Przypomnienie
+
+Miesięczna sesja Q&A społeczności programu CSP zapewnia możliwość nauczenia się więcej i zadawania pytań dotyczących zmian wpływających na program. W tym miesiącu rozmowy skupią się na tematach wymienionych w poprzedniej sekcji i nie tylko.
+
+[Zarejestruj się tutaj, aby dołączyć do wywołania](https://globalpbocomm.eventbuilder.com/GlobalCSP).
+
+#### <a name="always-availablelaunch-content-on-demand"></a>Zawsze dostępna — uruchamianie zawartości na żądanie
+
+W comiesięcznej [kolekcji społeczności CSP](https://partner.microsoft.com/resources/collection/september-2021-csp-partner-community-content#/)można znaleźć:
+
+- Biuletyn comiesięcznej aktualizacji programu CSP do pobrania, który agreguje najnowsze ogłoszenia, aktualizacje, zdarzenia i przypomnienia dotyczące programu [CSP](https://partner.microsoft.com/resources/detail/csp-monthly-update-september-2021-global) w czytelnym dokumencie.
+- Kalendarz [anonsów dla programu CSP,](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-september-2021-pdf) który zawiera widok osi czasu przyszłych zmian wpływających na program.
+- Nowy **kalendarz** [uruchamiania produktu,](https://partner.microsoft.com/resources/detail/product-launch-calendar-september-pdf) w którym można wyświetlić nadchodzące uruchomienia i oferty produktów.
+- Przewodnik [globalna gotowość na promocje,](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/) który sortuje najnowsze i nadchodzące promocje, które są dostępne dla partnerów i klientów.
+- [Program CSP uruchamia zasoby aktualizacji z](https://partner.microsoft.com/resources/collection/csp-launch-topics-collection#/) łatwą w użyciu zawartością dla kluczowych zmian operacyjnych.
+- [Odświeżenia i przypomnienia dotyczące kluczowych](https://partner.microsoft.com/resources/detail/csp-september-2021-refreshers-and-reminders-pdf) tematów dotyczących CSP, które otrzymują zainteresowanie i zapytania.
+
+Potrzebujesz gotowości do licencjonowania? [Comiesięczne seminaria internetowe dotyczące W](https://commercial_licensing.eventbuilder.com/YearToDate_ALL) centrum uwagi CSP obejmują najnowsze informacje o licencjonowaniu CSP dostępne dla wszystkich partnerów.
+
+### <a name="next-steps"></a>Następne kroki
+
+Przejrzyj zasoby społeczności i zarejestruj się w celu&pytań i odpowiedzi.
+
+### <a name="questions"></a>Masz pytania?
+
+Miesięczna społeczność CSP&Q A call to najlepsze miejsce, aby zadać pytania dotyczące zmian operacyjnych w programie CSP. Możesz [przesłać pytanie do](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) 48 godzin przed wezwaniem. Odpowiedzi na wszystkie pytania związane z uruchamianiem zostaną udzielone w wywołaniu i/lub w dokumencie Q&A opublikowanym po wywołaniu. Możesz odwiedzić kolekcję [](https://partner.microsoft.com/resources/collection/august-2021-csp-partner-community-content#/) społeczności z ostatniego miesiąca i przejrzeć dokument Q&A, który został opublikowany po sierpniowym zdarzeniu.
+
+Masz pytania dotyczące innych tematów dotyczących CSP? Odwiedź stronę [Partner Center pomocy technicznej.](https://partner.microsoft.com/support/?stage=1)
+
 _____________
+
+## <a name="september-co-sell-with-microsoft-qa-community-call-reminder"></a><a name="9"></a> Wrześniowa współpraca ze społecznością Microsoft Q&przypomnienie dotyczące rozmowy społeczności
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-09-09
+- Community | Zaproszenia i przypomnienia
+
+### <a name="summary"></a>Podsumowanie
+
+[Zarejestruj się teraz,](https://globalpbocomm.eventbuilder.com/GlobalCoSell) aby rozpocząć wrześniową sesję społeczności, w której wyróżnione są najnowsze wersje i ulepszenia platformy handlowej oraz moduły poleceń w Partner Center.
+
+### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+
+Ta sesja jest dedykowana Partner Center ról użytkowników, którzy zarządzają:
+
+- Moduł komercyjnej platformy handlowej do zarządzania publikowaniem ofert.
+- Moduł poleceń do zarządzania potencjalnymi klientami i współdzielenie szans sprzedaży.
+
+Wszyscy inni Partner Center mogą uzyskać dostęp do zawartości na żądanie w galerii zasobów [Operations Readiness.](https://partner.microsoft.com/resources/cloud-solution-provider-program)
+
+### <a name="details"></a>Szczegóły
+
+Najważniejsze artykuły w tym miesiącu obejmują:
+
+#### <a name="commercial-marketplace"></a>Komercyjna platforma handlowa
+
+- [Program wyszukiwania rozwiązań jest teraz zintegrowany z usługą AppSource](https://appsource.microsoft.com/blogs/now-live-on-microsoft-appsource-tap-into-the-unrivaled-microsoft-partner-ecosystem-to-accelerate-your-digital-transformation)
+- [Wskazówki i uprawnienia wymagane do publikowania oferty na platformie handlowej (pliki do pobrania PowerPoint prezentacji)](https://assetsprod.microsoft.com/mpn/guidance-and-permissions-needed-to-publish-an-offer-and-co-sell-with-ms.pptm)
+
+#### <a name="referral"></a>Skierowania
+
+- [Konfigurowanie współpracy sprzedaży dla oferty platformy handlowej](/azure/marketplace/co-sell-configure)
+- [Tworzenie reguł routingu dla szans przychodzących i zarządzanie nimi: Partner Center](../routing-rules.md)
+- [Zarządzanie możliwościami współpracy sprzedaży: Partner Center](../manage-co-sell-opportunities.md#accepted-stage)
+- [Dane rejestracji transakcji są teraz dostępne do eksportowania w poleceniu Szczegółowe informacje](./2021-july.md#17)
+
+#### <a name="refresh"></a>Odśwież
+
+- [Środowisko współpracy sprzedaży w Partner Center](/azure/marketplace/co-sell-configure#enter-your-contacts)
+- [Zarządzanie poleceniami w Partner Center](https://partner.microsoft.com/resources/detail/referral-management-in-partner-center-pptx)
+- [Udostępnianie transakcji sprzedaży zbiorczej na dużą skalę przy użyciu Partner Center operacji zbiorczych](./2021-february.md#13)
+- [Większa elastyczność dzięki transakcjom sprzedaży typu "co sell" prowadzonym przez partnerów](./2021-february.md#11)
+- [Pobierz Szczegółowe informacje poleceń w Partner Center](../referral-insights.md)
+
+### <a name="next-steps"></a>Następne kroki
+
+Przejrzyj zasoby [społeczności i](https://partner.microsoft.com/resources/collection/september-2021-co-sell-partner-community-content#/)zarejestruj się w celu&pytań i odpowiedzi.
+
+### <a name="questions"></a>Masz pytania?
+
+Zaproszenie społeczności&Q&jest najlepszym miejscem do zadawać pytania dotyczące zmian operacyjnych. Możesz [przesłać pytanie do](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) 48 godzin przed wezwaniem. Odpowiedzi na wszystkie pytania związane z uruchamianiem zostaną udzielone w wywołaniu i/lub w dokumencie Q&A opublikowanym po wywołaniu.  
+
+Jeśli masz pytania dotyczące innych tematów, odwiedź stronę pomocy [Partner Center pomocy technicznej.](https://partner.microsoft.com/support/?stage=1)
+
+_____________
+
 ## <a name="new-validation-rules-for-company-name-and-email-address-on-september-22"></a><a name="8"></a>Nowe reguły weryfikacji nazwy i adresu e-mail firmy 22 września
 
 ### <a name="categories"></a>Kategorie
@@ -42,7 +158,8 @@ Partnerzy rozliczani bezpośrednio i dostawcy pośredni dostawcy CSP
 
 Firma Microsoft działa w oparciu o zaufanie. Dokładamy wszelkich starań, aby zapewnić zgodną, bezpieczną i bezpieczną metodę sprawdzania poprawności informacji o nazwie firmy i adresie e-mail klienta. Od 22 września 2021 r. będziemy aktualizować weryfikacje poczty e-mail i nazwy firmy. Aby uzyskać dodatkowe informacje, zobacz How to add a new customer record (Jak [dodać nowy rekord klienta).](../add-a-new-customer.md)
 
-________________
+_____________
+
 ## <a name="readiness-dual-mode-attestation-and-additional-reseller-declaration"></a><a name="7"></a>Gotowość: zaświadczenia w trybie podwójnym i dodatkowa deklaracja odsprzedawcy
 
 ### <a name="summary"></a>Podsumowanie
@@ -76,7 +193,7 @@ Będzie to miało wpływ na następujące interfejsy API, a szczegóły zostaną
 
 Dodatkowi odsprzedawcy będą mieć wpływ na transakcje partnerów w następujących krajach UNII Europejskiej/DSM:
 
-| Kraje UNII Europejskiej/Spoza Unii Europejskiej | | |
+| Kraje | Kraje | Kraje |
 | ----- |----- | ----- |
 | Andora | Grecja | Norwegia |
 | Austria | Grenlandia | Polska |
@@ -98,7 +215,8 @@ Dodatkowi odsprzedawcy będą mieć wpływ na transakcje partnerów w następuj�
 
 Aby wziąć udział w pilotażu, skontaktuj się z ekspertem w swojej dziedzinie (Ali Dostępki) i podaj identyfikator dzierżawy partnera, aby mógł zostać dodany do lotu.
 
-________________
+_____________
+
 ## <a name="perpetual-software-and-software-subscriptions-price-lists-republished-to-fix-price-increases-in-russia"></a><a name="6"></a>Cenniki bezterminowych subskrypcji oprogramowania i oprogramowania zostały ponownie opublikowane w celu naprawienia wzrostu cen w Rosyjskim
 
 ### <a name="categories"></a>Kategorie
@@ -112,23 +230,24 @@ Cennik oprogramowania bezterminowego i subskrypcji oprogramowania opublikowany 1
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
-Dostawcy pośredni i partnerzy rozliczający się bezpośrednio w ramach bezterminowego oprogramowania i subskrypcji oprogramowania w ramach programu Dostawca rozwiązań w chmurze w Tym kraju.
+Dostawcy pośredni i partnerzy rozliczający się bezpośrednio w ramach ciągłego oprogramowania i subskrypcji oprogramowania w ramach programu Dostawca rozwiązań w chmurze w Następnie.
 
 ### <a name="details"></a>Szczegóły
 
-Cennik bezterminowych subskrypcji oprogramowania i oprogramowania opublikowany 1 września miał niepoprawny wzrost cen o 15,2% dla wszystkich produktów.
+Cennik oprogramowania bezterminowego i subskrypcji oprogramowania opublikowany 1 września miał niepoprawny wzrost cen o 15,2% dla wszystkich produktów.
 
 Wzrost ceny o ok. 15,2% rozpocznie się **1 października 2021 r.,** a nie we wrześniu. Cenniki zostały ponownie opublikowane z prawidłowymi informacjami o cenach.
 
-Partnerzy, którzy kupili produkty od 1 września do 3 września, zostaną naliczone opłaty po poprawionych cenach, które są odzwierciedlone w najnowszych cennikach.
+Partnerzy, którzy kupili produkty od 1 września do 3 września, będą obciążani opłatami po poprawionych cenach, które są odzwierciedlone w najnowszych cennikach.
 
 ### <a name="next-steps"></a>Następne kroki
 
 - Partnerzy, którzy transakcjują bezterminowe subskrypcje oprogramowania i oprogramowania w Rosyjskim, powinni pobrać najnowszy cennik, aby zobaczyć poprawione ceny.
-- Aby uzyskać szczegółowe informacje na temat wzrostu cen w październiku, zapoznaj się z tym [ogłoszeniem](https://news.microsoft.com/licensing-changes-at-microsoft-russia-2021/).
+- Aby uzyskać szczegółowe informacje na temat wzrostów cen w październiku, zapoznaj się z tym [ogłoszeniem](https://news.microsoft.com/licensing-changes-at-microsoft-russia-2021/).
 
-________________
-## <a name="corrections-to-september-license-based-services-price-list-and-october-preview-for-microsoft-365-business-basic-usd"></a><a name="5"></a>Poprawki do cennika usług opartych na licencjach z września i październikowej wersji zapoznawczej dla Microsoft 365 Business Basic (USD)
+_____________
+
+## <a name="corrections-to-september-license-based-services-price-list-and-october-preview-for-microsoft-365-business-basic-usd"></a><a name="5"></a>Poprawki do cennika usług opartych na licencjach z września i październikowa wersja zapoznawcza Microsoft 365 Business Basic (USD)
 
 ### <a name="summary"></a>Podsumowanie
 
@@ -145,20 +264,21 @@ Dostawcy pośredni i partnerzy rozliczający się bezpośrednio w ramach program
 
 ### <a name="details"></a>Szczegóły
 
-Cennik wrześniowy i wersja zapoznawcza października dla usług opartych na licencjach opublikowane 1 września 2021 r. miały nieprawidłową cenę Microsoft 365 Business Basic. Poprawione cenniki zostały opublikowane 2 września 2021 r. Ma to wpływ tylko na USD.
+Cennik z września i październikowa wersja zapoznawcza usług opartych na licencjach opublikowany 1 września 2021 r. miał niepoprawną cenę Microsoft 365 Business Basic. Poprawione cenniki zostały opublikowane 2 września 2021 r. Ma to wpływ tylko na USD.
 
 Oferta, na która ma to wpływ, obejmuje:
 
 - Nazwa oferty: Microsoft 365 Business Basic
 - Identyfikator oferty: bd938f12-058f-4927-bba3-ae36b1d2501c
-- Przed: List Price = 2
+- Przed: Cennik = 2
 - Po: List Price = 4
 
 ### <a name="next-steps"></a>Następne kroki
 
 Partnerzy, którzy inwestują w licencjonowane usługi w USD, powinni pobrać najnowszy cennik, aby zobaczyć poprawioną cenę.
 
-________________
+_____________
+
 ## <a name="announcing-intune-per-device-for-enterprise-for-csp-partners"></a><a name="4"></a>Announcing Intune per-device for Enterprise for CSP partners (Announcing Intune per-device for Enterprise for CSP partners
 
 ### <a name="categories"></a>Kategorie
@@ -172,11 +292,11 @@ Ogłaszamy nową ofertę usługi Intune dla każdego urządzenia, która będzie
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
-Partnerzy inicjujące transakcje w Dostawca rozwiązań w chmurze (CSP).
+Partnerzy w ramach programu Dostawca rozwiązań w chmurze (CSP).
 
 ### <a name="details"></a>Szczegóły
 
-Microsoft Intune to najbardziej kompleksowa, ujednolicona platforma zarządzania punktami końcowymi do zarządzania fizycznymi i wirtualnymi punktami końcowymi w organizacji oraz ich zabezpieczania. Ogłaszamy nową ofertę usługi Intune dla każdego urządzenia, która ma pomóc organizacjom Enterprise zarządzać urządzeniami przypisanymi do uwierzytelnionego użytkownika (czyli nie jest używana przez wielu uwierzytelnionych użytkowników).
+Microsoft Intune to najbardziej kompleksowa, ujednolicona platforma zarządzania punktami końcowymi do zarządzania fizycznymi i wirtualnymi punktami końcowymi w organizacji oraz ich zabezpieczania. Ogłaszamy nową ofertę usługi Intune dla każdego urządzenia, która ma ułatwić organizacjom Enterprise zarządzanie urządzeniami przypisanymi do uwierzytelnionego użytkownika (nie jest on używany przez wielu uwierzytelnionych użytkowników).
 
 Ta oferta, dostępna 1 września 2021 r., korzysta z usługi Intune na urządzenie podczas dodawania Azure Active Directory (Azure AD). Jest to w pełni funkcjonalne środowisko, które jest w pełni funkcjonalne i obejmuje następujące plany usług:
 
@@ -184,13 +304,13 @@ Ta oferta, dostępna 1 września 2021 r., korzysta z usługi Intune na urządzen
 - Microsoft Intune
 - Azure Active Directory for Education.
 
-Na podstawie opinii naszych partnerów firmy Microsoft usługa Intune dla każdego urządzenia dla usługi Enterprise została utworzona w celu dołączona do sprzedaży 1 urządzenia (urządzenia + Windows + Intune) jako oferta 5-letnia, która będzie obejmować okres eksploatacji urządzenia. Ta nowa oferta pomoże CSP uprościć struktury transakcji i zaoferować klientom bardziej konkurencyjną umowę.
+Na podstawie opinii naszych partnerów firmy Microsoft utworzono usługę Intune na urządzenie dla usługi Enterprise, która ma zostać uwzględniona w sprzedaży na urządzenie (urządzenia + Windows + Intune) jako pięcioroczną ofertę, która będzie obejmować okres eksploatacji urządzenia. Ta nowa oferta pomoże CSP uprościć struktury transakcji i zaoferować klientom bardziej konkurencyjną umowę.
 
 Elementy, które należy zwrócić uwagę na nową ofertę usługi Intune na urządzenie:
 
 - Jest to oferta usługi SaaS Enterprise nie jest przeznaczona dla małych & średnich firm (SMB).
 - Jest ona dostępna tylko dla CSP i nie jest dostępna w przypadku licencjonowania zbiorowego ani usługi Web Direct.
-- Koszt wynosi 150 USD/ERP w przypadku subskrypcji 5-letniej. 
+- Koszt wynosi 150 USD/ERP w przypadku subskrypcji 5-letniej.
 - Identyfikator oferty: 5170ccfb-e95b-49a4-b7f3-31f631a356ba
 - Będzie to możliwe w przypadku urządzeń Windows przypisanych do jednego uwierzytelnionego użytkownika.
 - Oferta nie obejmuje dostępu warunkowego opartego na urządzeniach.  
@@ -199,7 +319,8 @@ Elementy, które należy zwrócić uwagę na nową ofertę usługi Intune na urz
 
 Aby uzyskać dalsze pytania dotyczące tych ofert, sprawdź odpowiednie Yammer społeczności.
 
-________________
+_____________
+
 ## <a name="key-updates-for-the-new-commerce-experience-for-cloud-solution-provider-csp-seat-based-offers"></a><a name="3"></a>Najważniejsze aktualizacje nowego doświadczenia handlowego dla ofert opartych na Dostawca rozwiązań w chmurze (CSP)
 
 ### <a name="summary"></a>Podsumowanie
@@ -217,24 +338,24 @@ Partnerzy rozliczani bezpośrednio w programie CSP i dostawcy pośredni oraz ods
 
 ### <a name="details"></a>Szczegóły
 
-19 sierpnia 2021 r. firma [Microsoft](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) ogłosiła nowe środowisko handlowe dla usług Microsoft 365, Dynamics 365, Power Platform i Windows 365 w październiku 2021 r. W związku z tym ogłoszeniem mamy następujące kluczowe aktualizacje, które pomogą Twojej organizacji przygotować się do tej transformacji:
+19 sierpnia 2021 r. firma [Microsoft](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) ogłosiła nowe środowisko handlowe dla usług Microsoft 365, Dynamics 365, Power Platform i Windows 365, które będą oparte na nowych ofertach dla klientów w październiku 2021 r. W związku z tym ogłoszeniem mamy następujące kluczowe aktualizacje, które pomogą Twojej organizacji przygotować się do tej transformacji:
 
 - Uruchamianie ofert opartych na stanowiskoch na temat zintegrowanego testowania piaskownicy
-- Przypomnienie dotyczące nadchodzących wywołań Q&CSP A we wrześniu
+- Przypomnienie dotyczące nadchodzących wywołań CSP Q&A we wrześniu
 - Program Microsoft Commerce Incentive
 
 #### <a name="launch-of-seat-based-offers-for-integrated-sandbox-testing"></a>Uruchamianie ofert opartych na stanowiskoch w celu zintegrowanego testowania piaskownicy
 
 Od 1 września 2021 r. firma Microsoft [](/partner-center/develop/test-and-debug) włączyła oparte [](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) na stanowisko oferty zintegrowanego testowania piaskownicy w nowym środowisku handlowym dla programu CSP.
 
-Dodanie ofert usług Microsoft 365, Dynamics 365, Power Platform i Windows 365 w programie CSP do nowego doświadczenia handlowego jest kolejnym ważnym kamieniem milowym w naszej nowej podróży handlowej. Firma Microsoft inwestuje w innowacje produktów, lepsze narzędzia i dostęp do nowych możliwości biznesowych, które umożliwiają partnerom wzrost przychodów z programu CSP i zapewnienie klientom większej liczby opcji. Rozwijamy naszą platformę handlową i usprawniamy procesy zamawiania i zarządzania subskrypcjami, aby pomóc partnerom i klientom odnosić sukcesy dzięki transformacji cyfrowej.
+Dodanie ofert Microsoft 365, Dynamics 365, Power Platform i Windows 365 w programie CSP do nowego doświadczenia handlowego jest kolejnym ważnym kamieniem milowym w naszej nowej podróży handlowej. Firma Microsoft inwestuje w innowacje produktów, lepsze narzędzia i dostęp do nowych możliwości biznesowych, które umożliwiają partnerom wzrost przychodów z programu CSP i zapewnienie klientom większej liczby opcji. Rozwijamy naszą platformę handlową i usprawniamy procesy zamawiania i zarządzania subskrypcjami, aby pomóc partnerom i klientom odnosić sukcesy dzięki transformacji cyfrowej.
 
 Partnerzy, którzy uczestniczą w środowisku testowania piaskownicy, będą mieć wczesny wgląd w nowe środowisko handlowe dla ofert opartych na stanowiskoch, co umożliwia zaawansowane planowanie, operationalization i integrację techniczną tych ofert.
 
 Uczestnictwo w środowisku piaskownicy umożliwia organizacji:
 
 - Wykonywanie integracji interfejsu API w środowisku testowym przed wdrożeniem w środowisku produkcyjnym
-- Mieć odpowiedni czas na uruchomienie nowego doświadczenia handlowego przed jego uruchomieniem 
+- Mieć odpowiedni czas na uruchomienie nowego doświadczenia handlowego przed jego uruchomieniem
 
 Tabela zawiera podsumowanie najważniejszych funkcji dostępnych w zintegrowanym środowisku testowania piaskownicy:
 
@@ -253,9 +374,9 @@ Tabela zawiera podsumowanie najważniejszych funkcji dostępnych w zintegrowanym
 | Wymuszanie zasad anulowania: anulowanie 30-dniowego bloku po 30 dniach (zostanie on zmieniany po ogólnej dostępności na 72 godziny) |  |
 |
 
-#### <a name="reminder-for-upcoming-csp-qa-calls-in-september"></a>Przypomnienie dotyczące nadchodzących wywołań Q&CSP A we wrześniu
+#### <a name="reminder-for-upcoming-csp-qa-calls-in-september"></a>Przypomnienie dotyczące nadchodzących wywołań CSP Q&A we wrześniu
 
-Zarejestruj się, aby 15 września i 16 września 2016 r. zadawać pytania dotyczące nowego doświadczenia handlowego dla usług Microsoft 365, Dynamics 365, [Community Power Platform](https://globalpbocomm.eventbuilder.com/GlobalCSP) i Windows 365, aby poznać nowe środowisko handlowe dla usług Microsoft 365, Dynamics 365, Power Platform i Windows 365.& Wywołania CSP Community Q&A mają na celu pomoc partnerom bezpośrednim i partnerom WSP w pytaniach dotyczących startów programu CSP i nadchodzących zmian. Dla Twojej wygody kolekcje społeczności są udostępniane [](https://partner.microsoft.com/resources/assets/#/?prog=CSP%7CCSP-Direct%7CCSP-Indirect-Partner&type=collection&search=community%20collection%202021&sort=updated) z wyprzedzeniem w galerii gotowości partnerów, gdzie możesz przejrzeć materiały, które zostaną omówione w wywołaniu Q&A.
+Zarejestruj się, aby 15 września i 16 września 2016 r. rejestrować się w przyszłych zaproszeniach do QSP Q [&A Community,](https://globalpbocomm.eventbuilder.com/GlobalCSP) aby dowiedzieć się i zadawać pytania dotyczące nowego doświadczenia handlowego dla usług Microsoft 365, Dynamics 365, Power Platform i Windows 365 z ofertami dla klientów opartych na miejscach w październiku 2021 r. Wywołania CSP Community Q&A mają na celu pomoc partnerom bezpośrednim i partnerom WSP w pytaniach dotyczących startów programu CSP i nadchodzących zmian. Dla Twojej wygody kolekcje społeczności są udostępniane [](https://partner.microsoft.com/resources/assets/#/?prog=CSP%7CCSP-Direct%7CCSP-Indirect-Partner&type=collection&search=community%20collection%202021&sort=updated) z wyprzedzeniem w galerii gotowości partnerów, gdzie możesz przejrzeć materiały, które zostaną omówione w wywołaniu Q&A.
 
 Jeśli chcesz wziąć udział i/lub znaleźć wcześniejsze nagrania rozmów z podstawami CSP, zapoznaj się z rejestracją w portalu [CSP fundamentals registration](https://globalpbocomm.eventbuilder.com/CSPFundamentals)(Rejestracja podstaw CSP).
 
@@ -272,27 +393,28 @@ Jeśli chcesz wziąć udział i/lub znaleźć wcześniejsze nagrania rozmów z p
 #### <a name="launch-of-seat-based-offers-for-integrated-sandbox-testing"></a>Uruchamianie ofert opartych na stanowiskoch w celu zintegrowanego testowania piaskownicy
 
 - Jeśli organizacja aprowizowała zintegrowane środowisko piaskownicy, nie jest wymagana żadna akcja. Jeśli Twoja organizacja nie ma zintegrowanego środowiska piaskownicy, wykonaj następujące [kroki,](/partner-center/develop/indirect-provider-sandbox-capabilities) aby je utworzyć.
-- Zapoznaj się z przewodnikiem operacyjnym programu [CSP](https://partner.microsoft.com/resources/detail/operating-guide-new-commerce-experience-for-csp-seat-based-offers-pdf) dla usług Microsoft 365, Dynamics 365, Power Platform i Windows 365 w nowym miejscu handlu, aby dowiedzieć się więcej o funkcjach, zasadach biznesowych i instrukcjach krok po kroku dotyczących wydania. Regularnie sprawdzaj przewodnik operacyjny, ponieważ będzie okresowo aktualizowany.
+- Zapoznaj się z przewodnikiem operacyjnym programu [CSP](https://partner.microsoft.com/resources/detail/operating-guide-new-commerce-experience-for-csp-seat-based-offers-pdf) dla usług Microsoft 365, Dynamics 365, Power Platform i Windows 365 w nowym miejscu handlu, aby dowiedzieć się więcej na temat funkcji, reguł biznesowych i instrukcji krok po kroku dotyczących wydania. Regularnie sprawdzaj przewodnik operacyjny, ponieważ będzie okresowo aktualizowany.
 - Zapoznaj się z zasobami opisanymi na [mapie gotowości](https://partner.microsoft.com/resources/detail/readiness-map-new-commerce-experienceseat-based-offers-pdf).
 - Przejrzyj folder [dokumentacji interfejsu API](https://partner.microsoft.com/resources/collection/api-documentation#/).
-- Aby uzyskać pomoc techniczną, należy rejestrować bilet pomocy technicznej lub publikować w konwersacjach w grupie zestaw SDK Centrum partnerskiego i API [Yammer,](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=6589502)w której prezentacje i nagrania przejść funkcji będą publikowane we wrześniu.
+- Aby uzyskać pomoc techniczną, należy rejestrować bilet pomocy technicznej lub publikować wiadomości w konwersacjach w grupie zestaw SDK Centrum partnerskiego i API [Yammer,](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=6589502)w której prezentacje i nagrania przejść funkcji będą publikowane we wrześniu.
 
-#### <a name="reminder-for-upcoming-csp-qa-calls-in-september"></a>Przypomnienie dotyczące nadchodzących wywołań Q&CSP A we wrześniu
+#### <a name="reminder-for-upcoming-csp-qa-calls-in-september"></a>Przypomnienie dotyczące nadchodzących wywołań CSP Q&A we wrześniu
 
-- Zarejestruj się, aby 15 lub 16 września 2016&CSP Q [Community A.](https://globalpbocomm.eventbuilder.com/GlobalCSP)
+- Zarejestruj się, aby 15 września lub 16 września&[CSP](https://globalpbocomm.eventbuilder.com/GlobalCSP) Q Community połączeń A.
 - Przejrzyj nowe środowisko handlowe dla kolekcji ofert opartych na stanowiskoch WSP [dla](https://partner.microsoft.com/resources/collection/new-commerce-experience-for-csp-seat-based-offers#/) tego startu.
-- Weź udział w spotkaniu CSP Q&A Community Call i zadawaj pytania dotyczące nowego doświadczenia handlowego dla usług Microsoft 365, Dynamics 365, Power Platform i Windows 365 opartych na miejscu.
+- Weź udział w programie CSP Q&A Community Call i zadawaj pytania dotyczące nowego doświadczenia handlowego dla usług Microsoft 365, Dynamics 365, Power Platform i Windows 365 opartych na miejscu dla ruchu na szerokości.
 
 #### <a name="microsoft-commerce-incentive-program"></a>Program Microsoft Commerce Incentive
 
 - Przejrzyj komunikację w nadchodzącym rozszerzonym doświadczeniu partnerów [w kolekcji Microsoft Commerce Incentives zasobów.](https://partner.microsoft.com/asset/collection/microsoft-commerce-incentive-resources#/)
-- Zapoznaj się ze zaktualizowanymi przewodnikami zachęt dla partnerów FY22 w [portalu Zachęty dla partnerów.](https://microsoft.sharepoint.com/teams/PartnerIncentivesPortal)
+- Przejrzyj zaktualizowane przewodniki zachęt dla partnerów FY22 w [portalu Zachęty dla partnerów.](https://microsoft.sharepoint.com/teams/PartnerIncentivesPortal)
 
 ### <a name="questions"></a>Masz pytania?
 
-Jeśli masz dodatkowe pytania dotyczące tych ofert, sprawdź odpowiednie Yammer społeczności.
+Jeśli masz dodatkowe pytania dotyczące tych ofert, sprawdź swoje Yammer społeczności.
 
-________________
+_____________
+
 ## <a name="view-this-months-product-launches-and-offers"></a><a name="2"></a>Wyświetlanie ofert i uruchomień produktów w tym miesiącu
 
 ### <a name="summary"></a>Podsumowanie
@@ -310,7 +432,7 @@ Wszyscy partnerzy w ramach programu Dostawca rozwiązań w chmurze (CSP)
 
 ### <a name="details"></a>Szczegóły
 
-Kalendarz uruchamiania produktu z [](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) września 2021 r. jest teraz dostępny w galerii zasobów Gotowości na operacje. Zobacz nadchodzące premiery i oferty produktów tutaj.
+Kalendarz uruchamiania produktów z [](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) września 2021 r. jest teraz dostępny w galerii zasobów Gotowości na operacje. Zobacz nadchodzące wprowadzenie produktu i oferty tutaj.
 
 ### <a name="next-steps"></a>Następne kroki
 
@@ -318,10 +440,11 @@ Przejrzyj kalendarz [uruchamiania produktu](https://partner.microsoft.com/resour
 
 ### <a name="questions"></a>Masz pytania?
 
-Jeśli masz dodatkowe pytania dotyczące tych ofert, sprawdź odpowiednie Yammer społeczności.
+Jeśli masz dodatkowe pytania dotyczące tych ofert, sprawdź swoje Yammer społeczności.
 
-________________
-## <a name="software-in-microsoft-china-cloud-solution-provider-program-mccl-csp-to-start-transactions-from-august-12"></a><a name="1"></a>Software in Microsoft China Dostawca rozwiązań w chmurze program (MCCL CSP) to start transactions from August 12 (Oprogramowanie w Chinach firmy Microsoft w Chinach do uruchamiania transakcji od 12 sierpnia)
+_____________
+
+## <a name="software-in-microsoft-china-cloud-solution-provider-program-mccl-csp-to-start-transactions-from-august-12"></a><a name="1"></a>Software in Microsoft China Dostawca rozwiązań w chmurze Program (MCCL CSP) to start transactions from August 12 (Oprogramowanie w Chinach firmy Microsoft do uruchamiania transakcji od 12 sierpnia)
 
 ### <a name="summary"></a>Podsumowanie
 
@@ -342,19 +465,19 @@ Partnerzy programu MCCL CSP
 
 - 12 sierpnia 2021 r. firma MCCL CSP rozpocznie transakcje dla klientów w Chinach.
 
-- Klienci mogą nadal kupować licencje na oprogramowanie za pomocą partnera w programie Licencjonowanie otwarte do 31 grudnia 2021 r. Licencje bezterminowe będą dostępne zarówno w programie MCCL CSP, jak i w programach licencjonowania open do czasu jego końca.
+- Klienci mogą nadal kupować licencje na oprogramowanie za pomocą partnera w programie Licencjonowanie otwarte do 31 grudnia 2021 r. Licencje bezterminowe będą dostępne zarówno w programie MCCL CSP, jak i w programach licencjonowania Open do czasu jego końca.
 
-#### <a name="open-license-program-deprecation"></a>Cofanie pracy z programem licencjonowania Open License
+#### <a name="open-license-program-deprecation"></a>Cofanie pracy z programem Licencjonowanie Open
 
 - Od 1 stycznia 2022 r. klienci nie mogą już kupować ani odnawiać licencji na oprogramowanie za pośrednictwem programu Microsoft Open License.
 
-- Klienci mogą nadal mieć pełne prawa i dostęp do wszystkich bezterminowych licencji na oprogramowanie nabytych w ramach programu Licencjonowanie otwarte nawet po jego zakończeniu. Nadal mogą również uzyskać dostęp do Centrum usługi licencjonowania zbiorowego, aby zarządzać tymi licencjami i usługami.
+- Klienci mogą nadal mieć pełne prawa i dostęp do wszystkich bezterminowych licencji na oprogramowanie nabytych w ramach programu Licencjonowanie Open nawet po jego zakończeniu. Nadal mogą również uzyskać dostęp do Centrum usługi licencjonowania zbiorowego, aby zarządzać tymi licencjami i usługami.
 
 #### <a name="software-assurance-sa-purchases"></a>pakiet Software Assurance (SA)
 
-- Oferty skojarzeń zabezpieczeń z licencją Open License (L&SA) będą nadal dostępne w ramach subskrypcji Open Value (OV) i Open Value Subscription (OVS). Jednak ani SA, ani L&SA nie są dostępne w programie CSP MCCL, ponieważ nie ma planu, aby zaoferować to w programie MCCL CSP.
+- Oferty skojarów zabezpieczeń z licencją Open License (L&SA) pozostaną nadal dostępne w ramach subskrypcji Open Value (OV) i Open Value Subscription (OVS). Jednak ani SA, ani L&SA nie są dostępne w programie MCCL CSP, ponieważ nie ma planu, aby zaoferować to w programie MCCL CSP.
 
-- Korzyści z skojaśnień zabezpieczeń będą kontynuowane do momentu wygaśnięcia okresu skojaśnień zabezpieczeń, nawet jeśli wygasają po 1 stycznia 2022 r.
+- Korzyści z skojaśnień zabezpieczeń będą kontynuowane do momentu wygaśnięcia okresu skoja stycznia 2022 r., nawet jeśli wygaśnięcie wygaśnie po 1 stycznia 2022 r.
 
 - Program OV firmy Microsoft jest zalecany w przypadku przyszłych zakupów, które obejmują sa sa.
 
@@ -363,7 +486,7 @@ Partnerzy programu MCCL CSP
 
 #### <a name="partner-change-management"></a>Zarządzanie zmianami partnerów
 
-- Istniejący dystrybutorzy programu Microsoft Open są dołączani jako dostawcy pośredni dostawcy CSP FIRMY MCCL.
+- Istniejący dystrybutorzy programu Microsoft Open są dołączani jako dostawcy pośredni DOSTAWCY CSP firmy MCCL.
 
 - Dostawcy pośredni i wybrani odsprzedawcy pośredni zostaną zaproszeni do przeprowadzenia testów środowiska produkcyjnego w sierpniu w celu zapewnienia funkcji transakcji.
 
@@ -371,10 +494,10 @@ Partnerzy programu MCCL CSP
 
 ### <a name="next-steps"></a>Następne kroki
 
-Przygotuj się na tę zmianę za pośrednictwem następujących zasobów:
+Przygotuj się na tę zmianę za pomocą następujących zasobów:
 
 - [Co to jest nowy handel?](https://partner.microsoft.com/resources/detail/new-commerce-experience-introduction)
-- [Podręcznik dostawcy pośredniego programu MCCL CSP](https://microsoftapc.sharepoint.com/:b:/t/ChinaLicensingHome/EeWi5axiZ_RCkTbxa-brE-sBGYdLJ5idpnZvFt2MFiTLWw?e=6itfqY)
+- [Podręcznik dostawcy pośredniego dostawcy CSP MCCL](https://microsoftapc.sharepoint.com/:b:/t/ChinaLicensingHome/EeWi5axiZ_RCkTbxa-brE-sBGYdLJ5idpnZvFt2MFiTLWw?e=6itfqY)
 - [Podręcznik odsprzedawcy pośredniego w programie MCCL CSP](https://microsoftapc.sharepoint.com/:b:/t/ChinaLicensingHome/EY-csVS7lFdKpwkRqeJJ4hkBPGWv4qkfINictqVrwKVLxQ?e=9G6ZY1)
 
 Należy pamiętać, że te zmiany dotyczą tylko programu MCCL CSP i nie mają wpływu na 21 vianet CSP.

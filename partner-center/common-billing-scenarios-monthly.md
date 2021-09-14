@@ -4,21 +4,21 @@ ms.topic: article
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
-description: Typowe scenariusze w Partner Center w przypadku korzystania z rozliczeń miesięcznych — obejmuje dodawanie nowych subskrypcji, zmienianie ilości licencji i zawieszanie subskrypcji.
+description: Typowe scenariusze w Partner Center w przypadku korzystania z rozliczeń miesięcznych — obejmują dodawanie nowych subskrypcji, zmienianie liczby licencji i zawieszanie subskrypcji.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: dad132f9ad749076dc52a45f1ce77f23839e8671
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958053"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247047"
 ---
-# <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Przykładowe miesięczne scenariusze rozliczeń dla nowych subskrypcji, zmienianie kwoty licencji lub zawieszanie
+# <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Przykładowe miesięczne scenariusze rozliczeń dla nowych subskrypcji, zmienianie kwot licencji lub zawieszanie
 
-**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Agent pomocy | Agent sprzedaży
+**Odpowiednie role:** Administrator | Administrator rozliczeń | Agent pomocy technicznej | Agent sprzedaży
 
 Te [przykładowe typowe scenariusze rozliczeń](common-billing-scenarios.md) mają zastosowanie w przypadku korzystania z rozliczeń miesięcznych w Partner Center.
 
@@ -48,22 +48,22 @@ Data rozliczenia to 15. dzień każdego miesiąca. 13 stycznia zakupisz nową su
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-| 1/13/2018        |2/12/2018    |Cykl prorate wystąpienia   |-4.00       |1        |-4.00   |
-|1/13/2018         |1/31/2018    | Cykl prorate wystąpienia   |2.45       |1        |2.45    |
-|2018-01-02         |2/12/2018    | Cykl prorate wystąpienia   |1,55       |2        |3.10    |
-|2/13/2018         |3/12/2018    | Cykl prorate wystąpienia   |4,00       |2        |8.00    |
+| 1/13/2018        |2/12/2018    |Cykl wystąpienia prorate   |-4.00       |1        |-4.00   |
+|1/13/2018         |1/31/2018    | Cykl wystąpienia prorate   |2.45       |1        |2.45    |
+|2018-01-02         |2/12/2018    | Cykl wystąpienia prorate   |1,55       |2        |3.10    |
+|2/13/2018         |3/12/2018    | Cykl wystąpienia prorate   |4,00       |2        |8.00    |
 
 Cena miesięczna wynosi 4,00, a w okresie usługi od 13.01.2018 r. do 12.02.2018 r. Odpowiada to cenie dziennej 0,129 (4/31).
 
-W okresie proracji 13.01.2018 – 31.01.2018 istnieje 19 dni.
+W okresie proracji od 13.01.2018 r. do 31.01.2018 r. istnieje 19 dni.
 
 Cena jednostkowa proration = 2,451 = 19 x 0,129
 
-W okresie proracji 2/1/2018 – 2/12/2018 istnieje 12 dni.
+W okresie proracji od 1.02.2018 r. do 12.02.2018 r. istnieje 12 dni.
 
 Cena jednostkowa proration = 1,54 = 12 x 0,129
 
-## <a name="suspend-before-30-days"></a>Wstrzymaj przed 30 dniami
+## <a name="suspend-before-30-days"></a>Wstrzymywanie przed 30 dniami
 
 Data rozliczenia to 15. dzień każdego miesiąca. 13 stycznia zakupisz nową subskrypcję z jedną licencją na 4 USD/miesiąc i wybierzesz rozliczenia miesięczne. Plik uzgodnień oparty na licencjach z 15 stycznia będzie zawierać następujące wiersze rozliczeń:
 

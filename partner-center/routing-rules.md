@@ -10,11 +10,11 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: efb76953b05bfb10a18657155349e267ee84f456
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959766"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246250"
 ---
 # <a name="create-and-manage-inbound-opportunities-routing-rules"></a>Tworzenie reguł routingu dla szans przychodzących i zarządzanie nimi
 
@@ -107,28 +107,28 @@ Poniżej znajdują się sprzedawcy z odpowiednimi rolami poleceń i zakresem w f
 |Seller One|Administrator poleceń|Cała organizacja|
 |Sprzedawca dwa|Administrator poleceń|Bengaluru|
 |Sprzedawca trzeci|Użytkownik poleceń|Londyn|
-|Sprzedawca czwarty|Użytkownik poleceń|Singapur|
+|Sprzedawca 4|Użytkownik poleceń|Singapur|
 
 #### <a name="inbound-routing-rules-for-contoso-corporation"></a>Reguły routingu dla ruchu przychodzącego dla firmy Contoso Corporation
 
-Załóżmy, że poniższy zestaw reguł został utworzony przez sprzedawcę 1 dla firmy Contoso Corporation. Te **reguły mogą tworzyć** tylko sprzedawcy, ponieważ do tworzenia i edytowania reguł wymagany jest administrator poleceń w całym zakresie organizacji. [](permissions-overview.md#manage-referrals)
+Załóżmy, że poniższy zestaw reguł został utworzony przez sprzedawcę 1 dla firmy Contoso Corporation. Tylko **sprzedawca jeden** może [](permissions-overview.md#manage-referrals) utworzyć te reguły, ponieważ do tworzenia i edytowania reguł jest wymagany administrator poleceń w całym zakresie organizacji.
 
 | **Rynków** | **Rozwiązania** | **Lokalizacja MPN** | **Nazwa reguły routingu** |
 |-------|-------|-------|-------|
 |Wszystkie rynki|Wszystkie rozwiązania|Redmond|Domyślne|
 |Zjednoczone Królestwo|Wszystkie rozwiązania|Londyn|Wszystkie rozwiązania w Zjednoczonym Królestwie|
-|Wszystkie rynki|Sol-ABC|Singapur|Sol-ABC — wszystkie rynki|
+|Wszystkie rynki|Sol-ABC|Singapur|Sol-ABC all markets|
 |Indie|Sol-PQR|Bengaluru|Indie Sol-PQR|
 
 #### <a name="summary-of-routing-for-various-scenarios-based-on-the-rules-for-contoso-corporation"></a>Podsumowanie routingu dla różnych scenariuszy na podstawie reguł dla firmy Contoso Corporation
 
-| **Nie** | **Scenariusz** | **Rynek klientów** | **Dołączone rozwiązania** |**Zastosowana reguła routingu** |**Przypisanie MPN** |**Dostęp do poleceń** |
+| **Nie** | **Scenariusz** | **Rynek klienta** | **Dołączone rozwiązania** |**Zastosowana reguła routingu** |**Przypisanie MPN** |**Dostęp do poleceń** |
 |-----|----------|-------|-------|-------|-------|-----------|
-| 1|Brak dopasowania konkretnego rozwiązania i reguły rynku|Zjednoczone Królestwo|SOL-PQR|Globalnie|999999| Seller One, Seller Two, Seller Three (Sprzedawca trzeci, jeśli został dodany do zespołu), Seller Four (jeśli został dodany do zespołu)|
+| 1|Brak dopasowania określonego rozwiązania i reguły rynku|Zjednoczone Królestwo|SOL-PQR|Globalnie|999999| Seller One, Seller Two, Seller Three (Sprzedawca 3) (jeśli został dodany do zespołu), Seller Four (Jeśli został dodany do zespołu)|
 | 2|Wszystkie rozwiązania i określone reguły rynku są zgodne|Zjednoczone Królestwo|SOL-PQR|Wszystkie rozwiązania w Zjednoczonym Królestwie|555555| Seller One, Seller Three (Sprzedawca trzeci) (jeśli został dodany do zespołu) |
-| 3|Określone rozwiązanie i dopasowanie reguły wszystkich rynków|Nigeria|SOL-ABC|SOL-ABC — wszystkie rynki|666666| Seller One, Seller Four (Sprzedawca czwarty) (jeśli został dodany do zespołu) |
-| 4|Dopasowanie konkretnego rozwiązania i reguły rynku|Indie|SOL-PQR|Indie Sol-PQR|777777| Seller One, Seller Two|
-| 5|Polecenie przychodzące z rozwiązaniem, które nie należy do Twojej firmy|Stany Zjednoczone Ameryki|SOL-XYZ|Globalnie|999999| Seller One, Seller Two, Seller Three (Sprzedawca trzeci, jeśli został dodany do zespołu), Seller Four (jeśli został dodany do zespołu)|
+| 3|Określone rozwiązanie i wszystkie reguły dotyczące rynków są zgodne|Nigeria|SOL-ABC|SOL-ABC — wszystkie rynki|666666| Seller One, Seller Four (Sprzedawca czwarty) (jeśli został dodany do zespołu) |
+| 4|Określone rozwiązanie i dopasowanie reguły rynku|Indie|SOL-PQR|Indie Sol-PQR|777777| Seller One, Seller Two|
+| 5|Polecenia przychodzące z rozwiązaniem, które nie należy do Twojej firmy|Stany Zjednoczone Ameryki|SOL-XYZ|Globalnie|999999| Seller One, Seller Two, Seller Three (Sprzedawca 3) (jeśli został dodany do zespołu), Seller Four (Jeśli został dodany do zespołu)|
 
 ## <a name="next-steps"></a>Następne kroki
 

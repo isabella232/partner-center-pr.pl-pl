@@ -9,11 +9,11 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.openlocfilehash: 387be6313a1e775963c86714a6c5c825a2ca8169
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959578"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246862"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Generowanie planu marketingowego dla programu zachęt
 
@@ -23,10 +23,10 @@ Plan roszczeń dotyczących współpracy to seria kampanii marketingowych, dzia�
 
 ## <a name="create-your-incentives-plan"></a>Tworzenie planu zachęt
 
-Możesz wyświetlić swoje plany, wybierając **pozycję Zarządzanie planem** na **stronie Zachęty,** a następnie otwierając program, którego potrzebujesz.
+Możesz wyświetlić plany, wybierając pozycję **Plan Management** na **stronie Zachęty,** a następnie otwierając program, którego potrzebujesz.
 
 >[!NOTE]
->Na stronie Zachęty może nie być widać strony Zarządzanie planami. Dzieje się tak, Partner Center pulpit nawigacyjny jest dynamiczny i wyświetla tylko to, co jest odpowiednie dla określonej roli i działań. Jeśli nie widzisz strony Zarządzanie planami na stronie Zachęty, prawdopodobnie oznacza to, że nie jesteś obecnie zarejestrowanym w programie, który ma plany. Skontaktuj się z administratorem zachęt w celu uzyskania pomocy.
+>Na stronie Zachęty może nie być widać strony Zarządzanie planem. Dzieje się tak, ponieważ Partner Center nawigacyjny jest dynamiczny i wyświetla tylko to, co jest odpowiednie dla określonej roli i działań. Jeśli nie widzisz strony Zachęty w usłudze Plan Management, prawdopodobnie oznacza to, że nie jesteś obecnie zarejestrowanym w programie, który ma plany. Skontaktuj się z administratorem zachęt, aby uzyskać pomoc.
 
 Aby uzyskać więcej informacji na temat planów dla określonej Program zachęt, zobacz przewodnik po programie.
 
@@ -44,7 +44,7 @@ Aby uzyskać więcej informacji na temat planów dla określonej Program zachęt
 
 6. Gdy informacje na tej stronie są poprawne, wybierz pozycję **Nowa kampania**.
 
-7. Wypełnij wymagane pola na stronie **Nowa kampania,** a następnie wybierz pozycję **Zapisz**.
+7. Wypełnij wymagane pola na stronie **Nowa kampania,** a następnie wybierz pozycję **Zapisz.**
 
 8. Na stronie stanu wybierz pozycję **Nowe działanie**. 
 
@@ -71,20 +71,20 @@ Twój plan został przesłany. Firma Microsoft powiadomi administratora zachęt 
    - Approved (Zatwierdzono)
    - Odrzucone
 
-## <a name="plan-submission-timelines"></a>Osie czasu przesyłania planu
+## <a name="plan-submission-timelines"></a>Planowanie osi czasu przesyłania
 
 Musisz utworzyć i przesłać swój plan do ostatniego dnia roku trwania programu. W razie potrzeby możesz edytować i ponownie przesłać plan przez okres dodatkowych 90 dni po tej dacie, ale plan musi zostać utworzony i wstępnie przesłany w trakcie roku trwania programu.
 
 >[!NOTE]
-> Dla każdego typu programu można utworzyć tylko jeden plan dla każdego typu programu.
+> Dla każdego typu programu można utworzyć tylko jeden plan na rok programu.
 
 ## <a name="plan-payments"></a>Planowanie płatności
 
 Co miesiąc otrzymujesz płatność od firmy Microsoft w oparciu o swoje dochody i limity planu. Płatności są dokonywane piętnastego dnia następnego miesiąca.
 
-Jeśli na przykład Plan został zatwierdzony na kwotę 10 000 USD, a w kwietniu zarobisz 5000 USD, 15 maja otrzymasz 5000 USD.
+Jeśli na przykład Twój plan został zatwierdzony na kwotę 10 000 USD i w kwietniu zarobisz 5000 USD, 15 maja otrzymasz 5000 USD.
 
-W ramach tego samego planu, jeśli otrzymasz 15 000 USD w kwietniu, 15 maja otrzymasz 10 000 USD, ponieważ 10 000 USD to limit planu. Aby móc uzyskać większą płatność, musisz podnieść limit planu dla kolejnego miesiąca.
+W ramach tego samego planu, jeśli otrzymasz 15 000 USD w kwietniu, 15 maja otrzymasz 10 000 USD, ponieważ 10 000 USD to limit twojego planu. Aby móc uzyskać większą płatność, musisz podnieść limit planu dla kolejnego miesiąca.
 
 ## <a name="next-steps"></a>Następne kroki
 

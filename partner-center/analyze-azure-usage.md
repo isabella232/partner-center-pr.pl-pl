@@ -10,21 +10,21 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
 ms.openlocfilehash: d26fe1c71a574ed58ca227979cda445950873596
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959446"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247336"
 ---
-# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Uzyskiwanie danych o tym, jak dobrze radzią sobie klienci i subskrypcje platformy Azure
+# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Uzyskiwanie danych dotyczących sposobu działania klientów i subskrypcji platformy Azure
 
 
 
-**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent administracyjny | Agent sprzedaży
+**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent administracyjny | Agent sprzedaży
 
 Dane wpływają na decyzje biznesowe. Użyj metryk na stronie użycia **platformy Azure,** aby zidentyfikować sukcesy i obszary, które wymagają większej uwagi. Użyj tych informacji podczas planowania nowych celów biznesowych.
 
-Aby uzyskać informacje o użyciu **platformy Azure,** zaloguj się do Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard) Wybierz **pozycję Analiza** z menu Partner Center, a następnie wybierz pozycję Użycie platformy **Azure.**
+Aby uzyskać dostęp do użycia **platformy Azure,** zaloguj się do Partner Center [pulpitu nawigacyjnego.](https://partner.microsoft.com/dashboard) Wybierz **pozycję Analiza** z menu Partner Center, a następnie wybierz pozycję Użycie platformy **Azure.**
 
 > [!NOTE]
 > Analiza użycia platformy Azure jest dostępna tylko dla partnerów w Dostawca rozwiązań w chmurze programie.
@@ -34,7 +34,7 @@ Aby uzyskać informacje o użyciu **platformy Azure,** zaloguj się do Partner C
 ## <a name="summary"></a>Podsumowanie
 
 - **Łączna liczba sprzedanych subskrypcji platformy Azure:** liczba sprzedanych subskrypcji w określonym przedziale czasu  
-- **Klienci z użyciem:** liczba klientów korzystających z platformy Azure w określonym przedziale czasu  
+- **Klienci z użyciem:** liczba klientów z użyciem platformy Azure w określonym przedziale czasu  
 - **Klienci bez użycia:** liczba klientów bez użycia platformy Azure w określonym przedziale czasu  
 
 ## <a name="top-5-customers-in-category"></a>5 najlepszych klientów w kategorii
@@ -43,7 +43,7 @@ Aby uzyskać informacje o użyciu **platformy Azure,** zaloguj się do Partner C
 
 ## <a name="azure-subscriptions-at-risk"></a>Zagrożone subskrypcje platformy Azure
 
-Ta sekcja wskazuje przewidywane ryzyko zmian w subskrypcjach platformy Azure. Te informacje mogą być używane przez partnerów do angażowania klientów i minimalizowania rezygnacji
+Ta sekcja wskazuje przewidywane ryzyko zmian dla subskrypcji platformy Azure. Te informacje mogą być używane przez partnerów do angażowania klientów i minimalizowania rezygnacji
 
 ## <a name="subscriptions-without-usage"></a>Subskrypcje bez użycia
 
@@ -52,7 +52,7 @@ Ta sekcja wskazuje przewidywane ryzyko zmian w subskrypcjach platformy Azure. Te
 ## <a name="azure-subscription-churn"></a>Rezygnacja z subskrypcji platformy Azure
 
 - **Aktywne subskrypcje:** liczba aktywnych subskrypcji według daty  
-- **Anulowane aprowizowane subskrypcje:** liczba subskrypcji, dla których anulowano aprowizę lub które zostały wstrzymane według daty  
+- **Anulowano aprowizowane subskrypcje:** liczba subskrypcji anulowanych lub zawieszonych według daty  
 
 ## <a name="customer-count"></a>Liczba klientów
 
@@ -60,8 +60,8 @@ Ta sekcja wskazuje przewidywane ryzyko zmian w subskrypcjach platformy Azure. Te
 
 ## <a name="azure-subscription-retention"></a>Przechowywanie subskrypcji platformy Azure
 
-- Liczba odnowionych subskrypcji.
+- Liczba odnowień subskrypcji.
 
  ## <a name="next-steps"></a>Następne kroki
 
-- [Kup plan platformy Azure dla klientów, & uzyskać dostęp do najnowszych usług platformy Azure po stawkach płatności zgodnie z użyciem](purchase-azure-plan.md)
+- [Kup plan platformy Azure dla klientów, & uzyskać dostęp do najnowszych usług platformy Azure ze stawkami płatności zgodnie z użyciem](purchase-azure-plan.md)

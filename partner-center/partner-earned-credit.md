@@ -10,11 +10,11 @@ ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: f41fa2ccaf99f4ca46e283a4abb0975fb5195eef
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957898"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246742"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Punkty uzyskane przez partnerów — omówienie sposobu ich działania w nowym ekwiwale handlowym w programie CSP
 

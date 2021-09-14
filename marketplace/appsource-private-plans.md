@@ -1,5 +1,5 @@
 ---
-title: Plany prywatne w programie Microsoft AppSource
+title: Plany prywatne w Microsoft AppSource
 description: Konfigurowanie planów prywatnych w Microsoft AppSource (Azure Marketplace).
 ms.service: marketplace-customer
 ms.topic: how-to
@@ -8,13 +8,13 @@ ms.author: gushuchm
 ms.date: 06/08/2021
 robots: noindex
 ms.openlocfilehash: a392859c1106c747e0e7c696927ef3b25262e411
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123936927"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246718"
 ---
-# <a name="private-plans-in-microsoft-appsource"></a>Plany prywatne w programie Microsoft AppSource
+# <a name="private-plans-in-microsoft-appsource"></a>Plany prywatne w Microsoft AppSource
 
 Plany prywatne to sposób, w jaki wydawcy zapewniają plany niestandardowe określonym klientom. Ta opcja jest teraz dostępna w Microsoft AppSource. Plany prywatne można sprzedawać w usłudze AppSource dla ofert  oprogramowania jako usługi (SaaS) z wezwaniem do akcji Pobierz teraz.
 

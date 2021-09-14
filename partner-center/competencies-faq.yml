@@ -3,18 +3,18 @@ metadata:
   title: Kompetencje — często zadawane pytania
   ms.topic: article
   ms.date: 11/23/2020
-  description: Odpowiedzi na pytania dotyczące kompetencji MPN gold lub silver, wygaśnięcia korzyści, odnowienia lub aktywowania licencji na platformę Azure, chmurę, Visual Studio, pomoc techniczną, pomoc techniczną.
+  description: Odpowiedzi na pytania dotyczące kompetencji GOLD lub Silver programu MPN, wygaśnięcia korzyści, odnowienia lub aktywowania licencji na platformę Azure, chmurę, Visual Studio, pomoc techniczną, pomoc techniczną.
   ms.service: partner-dashboard
   ms.subservice: partnercenter-membership
   author: keramp88
   ms.author: keramp
   ms.localizationpriority: medium
   ms.openlocfilehash: 16ab5449892b56c5fd5045b6606b6a94073a1a42
-  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+  ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/09/2021
-  ms.locfileid: "123958450"
+  ms.lasthandoff: 09/13/2021
+  ms.locfileid: "126247389"
 title: Kompetencje — często zadawane pytania
 summary: >
   **Odpowiednie role:** administrator partnera MPN
@@ -39,14 +39,46 @@ sections:
       Istniejące członkostwo można odnowić w dowolnym dniu po rozpoczęciu okna odnawiania. Okno odnowienia rozpoczyna się w rocznicę daty zakupu plus jeden dzień. Jeśli na przykład zakupiono usługę Microsoft Action Pack 1 września 2018 r., okres odnowienia rozpocznie się 2 września 2019 r.
   - question: >
       Jak sprawdzić egzaminy i certyfikaty wykonane przez użytkowników w mojej organizacji?
-    answer: "Podczas procesu uzyskania kompetencji administrator globalny lub administrator partnera MPN może przeanalizować, którzy użytkownicy ukończyli egzamin, certyfikację lub ocenę. Administrator może również sprawdzić postęp pod względem wymagań kompetencji.\n\nMogą to zrobić z Partner Center w następujący sposób:\n\n1. Zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard)\n\n1. Wybierz **pozycję MPN,** a następnie **pozycję Kompetencje.**\n\n1. W górnej części strony Kompetencje znajdź i wybierz opcję **Pobierz raport umiejętności.**\n\nInne raporty dotyczące umiejętności organizacji są również dostępne w obszarze Partner Center Szczegółowe informacje [w](partner-center-insights.md) Partner Center. Aby wyświetlić te raporty, może być konieczne przypisanie Szczegółowe informacje  roli Przeglądarki raportów lub Executive **Report Viewer.** Może być konieczne poprosić administratora partnera MPN o nadanie ci dostępu do jednej z tych ról.\n\nWyświetl raporty Szczegółowe informacje w następujący sposób:\n\n1. Zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard)\n\n1. Wybierz **Szczegółowe informacje** z menu Partner Center, a następnie pozycję **Umiejętności organizacji.** Zostanie wyświetlone mniejsze menu.\n\n1. Wybierz pozycję **Trenuj Microsoft Learn** z menu. \n\n   - Wybierz **pozycję** Trenuj, aby wyświetlić podsumowanie certyfikatów, ocen i egzaminów w organizacji w określonym czasie. Aby uzyskać więcej informacji na temat tego raportu, zobacz [Szkolenia](insights-training-dashboard.md).\n\n   - Wybierz **Microsoft Learn,** aby wyświetlić podsumowanie ukończonych modułów i ścieżek Edukacja w określonym czasie. Aby uzyskać więcej informacji na temat tego raportu, [zobacz Microsoft Learn analizy.](ms-learn-analytics.md)\n"
+    answer: >
+      Podczas procesu uzyskania kompetencji administrator globalny lub administrator partnera MPN może przeanalizować, którzy użytkownicy ukończyli egzamin, certyfikację lub ocenę. Administrator może również sprawdzić postęp pod względem wymagań kompetencji.
+
+
+      Mogą to zrobić na Partner Center w następujący sposób:
+
+
+      1. Zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard)
+
+
+      1. Wybierz **pozycję MPN,** a następnie **pozycję Kompetencje.**
+
+
+      1. W górnej części strony Kompetencje znajdź i wybierz opcję **Pobierz raport umiejętności.**
+
+
+      Inne raporty dotyczące umiejętności organizacji są również dostępne w obszarze Partner Center Szczegółowe informacje [w](partner-center-insights.md) Partner Center. Aby wyświetlić te raporty, może być konieczne przypisanie Szczegółowe informacje  roli Przeglądarki raportów lub Executive **Report Viewer.** Może być konieczne poprosić administratora partnera MPN o nadanie ci dostępu do jednej z tych ról.
+
+
+      Wyświetl raporty Szczegółowe informacje w następujący sposób:
+
+
+      1. Zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard)
+
+
+      1. Wybierz **Szczegółowe informacje** z menu Partner Center, a następnie pozycję **Umiejętności organizacji.** Zostanie wyświetlone mniejsze menu.
+
+
+      1. Wybierz pozycję **Training** **(Trenuj) lub Microsoft Learn** z menu.
+
+         - Wybierz **pozycję** Trenuj, aby wyświetlić podsumowanie certyfikatów, ocen i egzaminów w organizacji w określonym czasie. Aby uzyskać więcej informacji na temat tego raportu, zobacz [Szkolenia](insights-training-dashboard.md).
+
+         - Wybierz **Microsoft Learn,** aby wyświetlić podsumowanie ukończonych modułów i ścieżek Edukacja w określonym czasie. Aby uzyskać więcej informacji na temat tego raportu, [zobacz Microsoft Learn analizy.](ms-learn-analytics.md)
   - question: >
       Jak długo trwa wyświetlanie najnowszych ocen użytkowników w raporcie umiejętności Partner Center użytkowników?
     answer: >
       Konto uniwersytetu partnerskiego zostanie skojarzone z kontem Partner Center użytkownika. Oceny użytkownika zostaną wyświetlone w raporcie umiejętności Partner Center użytkownika w ciągu **72 godzin.**
 
 
-      W tym raporcie będą wyświetlane tylko umiejętności związane z kompetencjami i Partner Center w programach. (Niektóre wycofane umiejętności mogą być również widoczne przez 12 miesięcy lub dłużej po wycofaniu).
+      Ten raport będzie zawierał tylko umiejętności związane z kompetencjami i Partner Center w programach. (Niektóre wycofane umiejętności mogą być również widoczne przez 12 miesięcy lub dłużej po wycofaniu).
 
 
       Sprawdź wymagania dotyczące określonych kompetencji. Aby to sprawdzić, użyj opcji menu **Kompetencje** na pulpicie nawigacyjnym Partner Center [nawigacyjnym](https://partner.microsoft.com/dashboard) lub [Microsoft Partner Network kompetencji.](https://partner.microsoft.com/membership/competencies)
@@ -56,7 +88,7 @@ sections:
 
       > O ile egzamin, ocena lub certyfikacja nie są wyraźnie wymienione jako wymaganie w ramach określonej kompetencji, nie będzie ono rozważane w celu osiągnięcia tej kompetencji.
   - question: >
-      Jakie są korzyści z oprogramowania (takie jak prawa do użytkowania licencji), do których mam prawo, gdy osiąguję kompetencję gold lub silver albo kupię subskrypcję Microsoft Action Pack Subscription (MAPS)?
+      Jakie są korzyści z oprogramowania (takie jak prawa użytkowania licencji), do których mam prawo, gdy osiąguję kompetencję gold lub silver albo kupię subskrypcję Microsoft Action Pack Subscription (MAPS)?
     answer: >
       Zobacz następujące zasoby:
 
@@ -72,7 +104,7 @@ sections:
   - question: >
       Dlaczego nie widzę danych wydajności odzwierciedlone w raporcie wskaźników KPI kompetencji?
     answer: >
-      Sprawdź wymagania w ramach żądanej kompetencji na pulpicie nawigacyjnym Partner Center [nawigacyjnym](https://partner.microsoft.com/dashboard) lub [Microsoft Partner Network kompetencji.](https://partner.microsoft.com/membership/competencies) Pomoże to zrozumieć wymagania dotyczące uzyskania poszczególnych kompetencji (takich jak typ skojarzenia partnera, typ oferty, TTM).
+      Sprawdź wymagania w ramach żądanej kompetencji na pulpicie nawigacyjnym Partner Center [nawigacyjnym](https://partner.microsoft.com/dashboard) lub [na Microsoft Partner Network kompetencji.](https://partner.microsoft.com/membership/competencies) Pomoże to zrozumieć wymagania dotyczące uzyskania poszczególnych kompetencji (takich jak typ skojarzenia partnera, typ oferty, TTM).
 
 
       > [!NOTE]
@@ -81,5 +113,5 @@ sections:
 
       >
 
-      > Tylko dane z ostatnich 12 miesięcy będą rozważane przy obliczaniu wydajności, umiejętności lub innych wymagań związanych z kompetencją. Aby dowiedzieć się więcej o obliczeniach wydajności dla kompetencji, takich jak kompetencja w Business Applications w chmurze, zobacz Wskaźniki udziału [partnera](partner-contribution-indicators.md).
+      > Tylko dane z ostatnich 12 miesięcy będą rozważane przy obliczaniu wydajności, umiejętności lub innych wymagań związanych z kompetencją. Aby dowiedzieć się więcej na temat obliczeń wydajności dla kompetencji, takich jak kompetencja cloud Business Applications, zobacz Wskaźniki udziału [partnera](partner-contribution-indicators.md).
 additionalContent: "\n## <a name=\"next-steps\"></a>Następne kroki\n   - Dowiedz się więcej [o kompetencjach w zakresie mpn](learn-about-competencies.md)\n   - Dowiedz się [więcej Partner Center Szczegółowe informacje raportów](partner-center-insights.md)"

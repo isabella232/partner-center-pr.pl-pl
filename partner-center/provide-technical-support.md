@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-support
-description: Dowiedz się więcej o typach pomocy technicznej dla Dostawca rozwiązań w chmurze programu mogą zaoferować swoim klientom.
+description: Dowiedz się więcej o typach pomocy technicznej, Dostawca rozwiązań w chmurze programu mogą zaoferować swoim klientom.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: d8e4781ffa64269056c684d9ab10a29ff97dacde
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958978"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247024"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Zapewnianie pomocy technicznej, która pomaga klientom w konfigurowaniu i używaniu subskrypcji oraz zarządzaniu nimi
 

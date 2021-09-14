@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
-description: Dowiedz się, jak działa rozliczanie dla produktów SaaS lub subskrypcji isv saas zakupionych dla klientów na platformie handlowej w Partner Center.
+description: Dowiedz się, jak działa rozliczanie produktów SaaS lub subskrypcji isV SaaS zakupionych dla klientów na platformie handlowej w Partner Center.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 102f13530ece08cd813412a44897ece0186e7cbb
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958078"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246916"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Rozliczenia za produkty i subskrypcje komercyjnej platformy handlowej w Partner Center
 
@@ -23,12 +23,12 @@ ms.locfileid: "123958078"
 
 Jako partner w programie CSP możesz użyć usługi Partner Center do zakupu produktów SaaS opartych na licencjach od wydawców ISV na platformie handlowej. Gdy to zrobisz, możesz uzyskać dostęp do rachunku za tego typu zakupy. Okres rozliczeniowy rozpoczyna się pierwszego dnia miesiąca kalendarzowego i kończy ostatniego dnia miesiąca kalendarzowego. Faktury są udostępniane 8 dnia następnego miesiąca.
 
-Dostęp do faktur można uzyskać z pulpitu nawigacyjnego Partner Center [lub](https://partner.microsoft.com/dashboard/) przy użyciu [Partner Center API.](/partner-center/develop/)
+Dostęp do faktur można uzyskać z pulpitu nawigacyjnego Partner Center [lub](https://partner.microsoft.com/dashboard/) przy użyciu Partner Center [API.](/partner-center/develop/)
 
-Partnerzy w programie CSP są rozliczani za komercyjne rozwiązania platformy handlowej dla isV zakupione dla klienta w przypadku zakupu tych produktów w usłudze Partner Center lub u firmy Azure Portal (przy użyciu wcześniej zakupionej dzierżawy platformy Azure klienta CSP).
+Partnerzy w programie CSP są rozliczani za komercyjne rozwiązania platformy handlowej od isV zakupione dla klienta w przypadku zakupu tych produktów w usłudze Partner Center lub u firmy Azure Portal (przy użyciu wcześniej zakupionej dzierżawy platformy Azure przez klienta).
 
 >[!NOTE]
->Jeśli klienci korzystają z własnej dzierżawy usługi Azure AD (nie jednej zakupionej od partnera w programie CSP), klienci mogą również zakupić własne rozwiązanie SaaS dla isv bezpośrednio w witrynie ([Microsoft AppSource](https://appsource.microsoft.com/) lub [Azure Marketplace).](https://azuremarketplace.microsoft.com/) Jeśli to zrobią, otrzymają własny rachunek bezpośrednio od firmy Microsoft. Analogicznie, jeśli partner w programie CSP sprzedaje klientowi subskrypcję platformy Azure lub nowy [](/azure/role-based-access-control/built-in-roles) plan platformy Azure i udziela klientowi (lub odsprzedawcy pośredniego) dostępu opartego na rolach do tej dzierżawy (przypisując klientowi dowolną rolę oprócz **Czytelnika),** ten klient (lub odsprzedawca pośredni) może również zakupić oferty platformy handlowej bez wcześniejszego zatwierdzenia lub powiadomienia partnera CSP. W takich przypadkach firma Microsoft nie będzie bezpośrednio powiadamiać partnerów w programie CSP o zakupach dokonanych przez ich klientów. Firma Microsoft oferuje jednak opcjonalny [mechanizm](/azure/azure-monitor/platform/alerts-activity-log) Azure Monitor, który umożliwia ustawianie alertów lub powiadomień dotyczących działań w ramach subskrypcji platformy Azure.
+>Jeśli klienci korzystają z własnej dzierżawy usługi Azure AD (nie jednej zakupionej od partnera w programie CSP), klienci mogą również zakupić własne rozwiązanie SaaS dla isv bezpośrednio w witrynie ([Microsoft AppSource](https://appsource.microsoft.com/) lub [Azure Marketplace).](https://azuremarketplace.microsoft.com/) Jeśli to zrobią, otrzymają własny rachunek bezpośrednio od firmy Microsoft. Analogicznie, jeśli partner w programie CSP sprzedaje klientowi subskrypcję platformy Azure lub nowy [](/azure/role-based-access-control/built-in-roles) plan platformy Azure i udziela klientowi (lub odsprzedawcy pośredniego) dostępu opartego na rolach do tej dzierżawy (przypisując klientowi dowolną rolę oprócz **Czytelnika),** ten klient (lub odsprzedawca pośredni) może również zakupić oferty platformy handlowej bez wcześniejszego zatwierdzenia lub powiadomienia partnera CSP. W takich przypadkach firma Microsoft nie będzie bezpośrednio powiadamiać partnerów w programie CSP o zakupach dokonanych przez ich klientów. Firma Microsoft oferuje jednak opcjonalny [mechanizm](/azure/azure-monitor/platform/alerts-activity-log) Azure Monitor, który umożliwia ustawianie alertów lub powiadomień dotyczących aktywności w subskrypcji platformy Azure.
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>Uzyskiwanie dostępu do informacji rozliczeniowych dotyczących produktów na platformie handlowej
 
@@ -40,13 +40,13 @@ Administrator globalny lub administrator rozliczeń w firmie otrzyma wiadomość
 
     W górnej części strony Rozliczenia zobaczysz dwie karty: **Cykliczne** i Cykliczne oraz **Zakupy jednorazowe.** Każda karta umożliwia dostęp do plików faktur i uzgodnień (uzgodnień) dla różnych produktów z platformy handlowej:
 
-    - **Karta** Cykliczne: przedstawia pliki faktur i uzgodnień dla subskrypcji związanych z usługami Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI Pro i Microsoft Azure.
+    - **Karta** Cykliczne: wyświetla pliki faktur i uzgodnień dla subskrypcji związanych z usługami Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI Pro i Microsoft Azure.
 
     - **Karta Zakupów cyklicznych i jednorazowych:** pokazuje pliki faktur i uzgodnień dla planu platformy Azure, rezerwacji platformy Azure, oprogramowania i produktów platformy handlowej.
   
 3. Wybierz **kartę Zakupy cykliczne i jednorazowych.** Jeśli zakupiono subskrypcje dla klienta w innej walucie, zobaczysz kartę dla każdej waluty. Na tej stronie możesz wykonać kilka czynności:
 
-    - Aby wyświetlić najnowszą fakturę i plik uzgodnień, wybierz **pozycję Plik** faktury **lub uzgodnień.** (Jeśli chcesz, możesz również uzyskać dostęp do najnowszej faktury i ponownie utworzyć plik danych przy użyciu [Partner Center API.](/partner-center/develop/)
+    - Aby wyświetlić najnowszą fakturę i plik uzgodnień, wybierz **pozycję Plik** faktury **lub uzgodnień.** (Jeśli chcesz, możesz również uzyskać dostęp do najnowszej faktury i ponownie utworzyć plik danych przy [użyciu Partner Center API.](/partner-center/develop/)
 
     - Aby wyświetlić wcześniejsze faktury i ponownie skonfigurować pliki, rozwiń wiersz **Historia rozliczeń** poniżej.
 
@@ -59,7 +59,7 @@ Administrator globalny lub administrator rozliczeń w firmie otrzyma wiadomość
 
 Ta sekcja zawiera więcej informacji na temat plików faktur i uzgodnień dla subskrypcji SaaS komercyjnej platformy handlowej zakupionych dla klientów od zewnętrznych wydawców isV.
 
-Po wybraniu  pozycji Zakupy cykliczne i  jednorazowe z opcji Rozliczenia w menu usługi Partner Center uzyskujesz dostęp do faktur i plików uzgodnień dotyczących opłat związanych zarówno z zakupami firmy Microsoft (firmy Microsoft), jak i z zakupami u dostawcy oprogramowania (innych firm). Te zakupy mogą być skojarzone z:
+Po wybraniu  pozycji Zakupy cykliczne i  jednorazowe z opcji Rozliczenia w menu usługi Partner Center uzyskasz dostęp do faktur i plików uzgodnień dla opłat związanych z zakupami zarówno firmy Microsoft (firmy Microsoft), jak i od dostawcy oprogramowania (innej firmy). Te zakupy mogą być skojarzone z:
 
 - Subskrypcje SaaS (od wydawców firmy Microsoft lub isV)
 
@@ -82,7 +82,7 @@ Faktura będzie zawierać kilka stron:
 
 - **Strona 1 faktury:** Zawiera podsumowanie szczegółów rozliczeń partnera programu CSP. Obejmuje to podsumowanie opłat za okres rozliczeniowy, numer faktury, terminy płatności (net 60 dni) i formy płatności rozliczeń do zapłacenia przelewem lub czeku.
 
-- **Strona 2 (i wszystkie kolejne strony) faktury:** Szczegóły opłat za zakupy firmy Microsoft i zakupy innych firm (na podstawie licencji) z platformy handlowej. Zakupy oparte na licencjach isv można zidentyfikować przy **Publisher** pod każdą nazwą produktu. Skojarzony plik uzgodnień zawiera więcej szczegółów rozliczeń dla określonych opłat na fakturze.
+- **Strona 2 (i wszystkie kolejne strony) faktury:** Szczegóły opłat za zakupy firmy Microsoft i zakupy innych firm (na podstawie licencji) z platformy handlowej. Zakupy oparte na licencjach isv można zidentyfikować przy Publisher **pod** każdą nazwą produktu. Skojarzony plik uzgodnień zawiera więcej szczegółów rozliczeń dla określonych opłat na fakturze.
 
 - **Ostatnia strona faktury:** Jeśli opłaty za produkty platformy handlowej oparte na licencjach zostały naliczone od isV, na tej ostatniej stronie będą wyświetlane dodatkowe szczegóły dotyczące nazwy i adresu wydawcy isv.
 

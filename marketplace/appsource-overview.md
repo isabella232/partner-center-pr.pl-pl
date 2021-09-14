@@ -8,17 +8,17 @@ ms.author: gushuchm
 ms.date: 08/16/2021
 ms.custom: contperf-fy21q3
 ms.openlocfilehash: 15b85abde224caafb3f2f6842eb4a38f7b767ffe
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123936997"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246723"
 ---
 # <a name="what-is-microsoft-appsource"></a>Co to jest usługa Microsoft AppSource?
 
 Microsoft AppSource to sklep online zawierający tysiące aplikacji i usług biznesowych budowaną przez wiodących w branży dostawców oprogramowania. Usługa AppSource umożliwia znajdowanie, wypróbowanie, kupowanie i wdrażanie oprogramowania i usług biznesowych, które ułatwiają prowadzenia firmy.
 
-Katalog usługi AppSource obejmuje aplikacje typu oprogramowanie jako usługa (SaaS), rozwiązania sbudowaną dla usług Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power Apps i doradczych od partnerów firmy Microsoft. Dostęp do katalogu produktów Usługi AppSource można uzyskać pod lub za pośrednictwem produktu w [https://appsource.microsoft.com](https://appsource.microsoft.com) usługach Microsoft 365, Dynamics 365 i Microsoft Power Platform. Rozwiązania z usługi AppSource mogą być również dostępne od odsprzedawców firmy Microsoft w Dostawca rozwiązań w chmurze programie.
+Katalog usługi AppSource obejmuje aplikacje typu oprogramowanie jako usługa (SaaS), rozwiązania sbudowaną dla usług Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power Apps i doradczych od partnerów firmy Microsoft. Dostęp do katalogu produktów AppSource można uzyskać na stronie lub za pośrednictwem produktu w usługach [https://appsource.microsoft.com](https://appsource.microsoft.com) Microsoft 365, Dynamics 365 i Microsoft Power Platform. Rozwiązania z usługi AppSource mogą być również dostępne od odsprzedawców firmy Microsoft w Dostawca rozwiązań w chmurze programie.
 
 ## <a name="find-what-you-need-on-appsource"></a>Znajdowanie potrzebnych informacji w usłudze AppSource
 
@@ -40,7 +40,7 @@ Okienko po lewej stronie umożliwia filtrowanie wyników na podstawie listy typ�
 
 Podczas wyszukiwania lub filtrowania wykazu wyniki mogą obejmować preferowane rozwiązania firmy Microsoft, które są identyfikowane za pomocą wskaźnika preferowanych rozwiązań znajdującego się w prawym dolnym rogu karty aplikacji lub wskaźnika na stronie szczegółów produktu.
 
-:::image type="content" source="media/appsource-overview/preferred-solution-badge.png" alt-text="Wyświetla wskaźnik preferowanego dostawcy usługi AppSource.":::
+:::image type="content" source="media/appsource-overview/preferred-solution-badge.png" alt-text="Pokazuje wskaźnik preferowanego dostawcy usługi AppSource.":::
 
 Preferowane rozwiązania są wybierane przez zespół ekspertów firmy Microsoft i są publikowane przez partnerów firmy Microsoft z głęboką, sprawdzoną wiedzą i możliwościami w celu obsługi określonych potrzeb klientów w kategorii, branży lub branży.
 
@@ -55,11 +55,11 @@ Wybierz aplikację z wyników *aplikacji,* aby wyświetlić stronę listy dla te
 
 ## <a name="purchasing-requirements"></a>Wymagania dotyczące zakupów
 
-Aby kupić aplikacje SaaS w usłudze AppSource, musisz mieć konto Azure Active Directory, nazywane również kontem służbowym. Jeśli Twoja organizacja korzysta z Office 365, wystarczy zwykły adres e-mail. Jeśli nie masz jednego z tych kont, w przepływie zakupu zostanie wyświetlony monit o bezpłatne konto. Aby uzyskać szczegółowe instrukcje, [zobacz Jak kupować aplikacje SaaS na Microsoft AppSource](purchase-software-appsource.md).
+Aby kupić aplikacje SaaS w usłudze AppSource, musisz mieć konto Azure Active Directory, nazywane również kontem służbowym. Jeśli Twoja organizacja korzysta Office 365, wystarczy zwykły adres e-mail. Jeśli nie masz jednego z tych kont, w przepływie zakupu zostanie wyświetlony monit o bezpłatne konto. Aby uzyskać szczegółowe instrukcje, [zobacz Jak kupować aplikacje SaaS na Microsoft AppSource](purchase-software-appsource.md).
 
 ## <a name="certification-and-security"></a>Certyfikacja i zabezpieczenia
 
-Każdy produkt dostępny w usłudze AppSource został certyfikowany zgodnie z określonymi kryteriami. Zachęcamy do dokładnego przejrzenia każdego produktu, aby upewnić się, że spełnia on unikatowe wymagania organizacji. Aby dowiedzieć się więcej o zasadach certyfikacji, które przeglądamy dla każdego typu oferty, zobacz [Zasady certyfikacji komercyjnej platformy handlowej.](/legal/marketplace/certification-policies) Microsoft 365 mają dodatkowy [proces](/microsoft-365-app-certification/docs/enterprise-app-certification-guide) certyfikacji [](/microsoft-365-app-certification/docs/enterprise-app-attestation-guide) i zaświadczenia dla wydawców.
+Każdy produkt dostępny w usłudze AppSource ma certyfikat zgodnie z określonymi kryteriami. Zachęcamy do dokładnego przejrzenia każdego produktu, aby upewnić się, że spełnia on unikatowe wymagania organizacji. Aby dowiedzieć się więcej o zasadach certyfikacji, które przeglądamy dla każdego typu oferty, zobacz [Zasady certyfikacji komercyjnej platformy handlowej.](/legal/marketplace/certification-policies) Microsoft 365 mają dodatkowy proces [certyfikacji](/microsoft-365-app-certification/docs/enterprise-app-certification-guide) [](/microsoft-365-app-certification/docs/enterprise-app-attestation-guide) i zaświadczenia dla wydawców.
 
 ## <a name="terms-and-conditions"></a>Warunki i postanowienia
 

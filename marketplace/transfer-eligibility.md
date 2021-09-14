@@ -1,17 +1,17 @@
 ---
-title: Uprawnienia do przeniesienia — wskazówki dotyczące przenoszenia subskrypcji między kontami rozliczeniowymi, Azure Marketplace
-description: Wskazówki dotyczące testów komercyjnych przed przeniesieniem subskrypcji między kontami rozliczeniowymi w Azure Portal.
+title: Uprawnienia do przeniesienia — wskazówki dotyczące przenoszenia subskrypcji między kontami rozliczeniowymi i Azure Marketplace
+description: Wytyczne dotyczące testów komercyjnych przed przeniesieniem subskrypcji między kontami rozliczeniowymi w Azure Portal.
 ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
 ms.openlocfilehash: 4b235bd462915fc205813ae86e92f98b4fd49fe4
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123936969"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247245"
 ---
 # <a name="transfer-eligibility-for-a-subscription-between-billing-accounts"></a>Przenoszenie uprawnień do subskrypcji między kontami rozliczeniowymi
 

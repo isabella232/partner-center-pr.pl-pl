@@ -1,6 +1,6 @@
 ---
 title: Rozpoczynanie przechodzenia do planu platformy Azure
-description: Dowiedz się, co Ty i Twoi klienci powinni wiedzieć o używaniu planu płatności zgodnie z potrzebami platformy Azure, w tym o pierwszych krokach, środkach ostrożności i instrukcje dotyczące rozpoczynania pracy.
+description: Dowiedz się, co Ty i Twoi klienci powinni wiedzieć o używaniu planu płatności zgodnie z potrzebami platformy Azure, w tym o pierwszych krokach, zabezpieczeniach i instrukcje dotyczące rozpoczynania pracy.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
@@ -10,26 +10,26 @@ ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
 ms.openlocfilehash: 40bf84ed47c946b84f511693d9f8351b3ffa5a95
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959265"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246387"
 ---
-# <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Rozpoczynanie korzystania ze stawek płatności zgodnie z użyciem planu platformy Azure
+# <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Rozpoczynanie korzystania ze stawek płatności zgodnie z użyciem w planie platformy Azure
 
-**Odpowiednie role:** Agent administracyjny | Agent sprzedaży
+**Odpowiednie role:** Administrator | Agent sprzedaży
 
 
 Firma Microsoft wprowadziła nowe środowisko handlowe w Partner Center.  Dzięki nowej wersji handlowej partnerzy uzyskają dostęp do usług platformy Azure według stawek płatności zgodnie z Umowa z Klientem Microsoft.
 
-Ten plan upraszcza proces zakupu — w planie platformy Azure można mieć wiele subskrypcji platformy Azure. Nie trzeba już przesyłać oddzielnego zamówienia na subskrypcję platformy Azure. W tym nowym doświadczeniu handlowym dla platformy Azure dostosowyliśmy się do jednej globalnej zasady cenowej, dzięki czemu partnerzy programu CSP mogą oferować platformę Azure po opublikowanych cenach.
+Ten plan upraszcza proces zakupu — w planie platformy Azure można mieć wiele subskrypcji platformy Azure. Nie musisz już przesyłać oddzielnego zamówienia na subskrypcję platformy Azure. W tym nowym doświadczeniu handlowym dla platformy Azure dostosliśmy się do jednej globalnej zasady cenowej, dzięki czemu partnerzy programu CSP mogą oferować platformę Azure po opublikowanych cenach.
 
-Potrzeby naszych klientów w zakresie transformacji cyfrowej wymagają nowych umiejętności od partnerów. Wielu klientów poszuka partnerów, którzy oferują usługi powyżej transakcji i poza nią, aby ich podróż w chmurze była płyniejsza i pomagać w wydajnym chmurze. Partnerzy firmy Microsoft odgrywają kluczową rolę na wszystkich etapach cyklu życia klienta. Tego rodzaju usługi partnerskie są w trakcie realizacji i obejmują monitorowanie majątku platformy Azure, zarządzanie zasadami i ładem, konfigurowanie i dostrajanie, pomoc techniczną oraz wiele innych usług. Wymagają oni, aby partner był dokładnie zaznajomiony ze środowiskiem platformy Azure klienta oraz miał ciągłe i odpowiednie zarządzanie oraz kontrolę nad bazowymi zasobami, które zarządzają. Partnerzy rozliczeniowi, którzy zapewniają to 24 x 7 zarządzania operacjami w chmurze, będą kwalifikować się do środków uzyskane przez partnera dla usług zarządzanych **w** związku z tą pracą.
+Potrzeby naszych klientów w zakresie transformacji cyfrowej wymagają nowych umiejętności od partnerów. Wielu klientów poszuka partnerów w celu zapewnienia usług wykraczających poza transakcję, aby ich podróż w chmurze była bardziej płynna i pomagać w wydajnym chmurze. Partnerzy firmy Microsoft odgrywają kluczową rolę na wszystkich etapach cyklu życia klienta. Tego rodzaju usługi partnerskie są w trakcie realizacji i obejmują monitorowanie majątku platformy Azure, zarządzanie zasadami i ładem, konfigurowanie dostrajania, pomoc techniczną i wiele innych usług. Wymagają oni, aby partner był dokładnie zaznajomiony ze środowiskiem platformy Azure klienta oraz miał ciągłe i odpowiednie zarządzanie oraz kontrolę nad bazowymi zasobami, które zarządzają. Partnerzy rozliczeniowi, którzy zapewniają to 24 x 7 rozwiązań do zarządzania operacjami w chmurze, będą uprawnieni do otrzymania środków uzyskane przez partnerów na usługi zarządzane **na** tę pracę.
 
-## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>Upewnij się, że klienci podpisali umowę Umowa z Klientem Microsoft
+## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>Upewnij się, że klienci podpisali Umowa z Klientem Microsoft
 
-Od 1 października 2019 r. dostępna jest Umowa z Klientem Microsoft, umowa bezterminowa, która upraszcza i upraszcza środowisko zakupów klientów w ramach w pełni cyfrowego procesu. Wszyscy klienci, którzy chcą korzystać z nowego rozwiązania handlowego w programie CSP for Azure, muszą podpisać umowę Umowa z Klientem Microsoft.
+Od 1 października 2019 r. dostępna jest umowa Umowa z Klientem Microsoft, która upraszcza i upraszcza proces zakupów klientów w pełni cyfrowym. Wszyscy klienci, którzy chcą korzystać z nowego rozwiązania handlowego w programie CSP dla platformy Azure, muszą podpisać umowę Umowa z Klientem Microsoft.
 
 Partnerzy, którzy chcą dokonać transakcji w ramach nowego planu platformy Azure i złożyć nowe zamówienie, powinni potwierdzić akceptację usługi przez klienta Umowa z Klientem Microsoft użyciu pulpitu nawigacyjnego Partner Center i interfejsu API w środowisku produkcyjnym.
 
@@ -39,9 +39,9 @@ Aby uzyskać szczegółowe informacje, przeczytaj [Potwierdzanie akceptacji prze
 
 ## <a name="security-and-access-control-practices"></a>Rozwiązania dotyczące zabezpieczeń i kontroli dostępu
 
-Aby ułatwić ochronę partnerów i klientów, wprowadzamy zestaw obowiązkowych wymagań dotyczących zabezpieczeń dla doradców, dostawców Panel sterowania i partnerów biorących udział w Dostawca rozwiązań w chmurze programie.
+Aby ułatwić ochronę partnerów i klientów, wprowadzamy zestaw obowiązkowych wymagań dotyczących zabezpieczeń dla doradców, dostawców Panel sterowania i partnerów biorących udział w programie Dostawca rozwiązań w chmurze zabezpieczeń.
 
-Partnerzy, którzy nie zaim implementują obowiązkowych wymagań dotyczących zabezpieczeń, nie będą mogli wykonać transakcji w programie Dostawca rozwiązań w chmurze ani zarządzać dzierżawami klientów, korzystając z delegowanych praw administratora, po wymuszenia tych wymagań. Jesteśmy w trakcie ustalania technicznej daty wymuszania wymagań i powiadomimy partnerów o tej dacie przy użyciu szczegółowych informacji.
+Partnerzy, którzy nie implementują obowiązkowych wymagań dotyczących zabezpieczeń, nie będą mogli wykonać transakcji w programie Dostawca rozwiązań w chmurze ani zarządzać dzierżawami klientów, korzystając z delegowanych praw administratora, po wymuszenia tych wymagań. Jesteśmy w trakcie ustalania technicznej daty wymuszania wymagań i powiadomimy partnerów o dacie przy użyciu szczegółowych informacji.
 
 ## <a name="actions-to-take-to-implement-mfa"></a>Akcje do wykonania w celu zaimplementowania usługi MFA
 
@@ -61,9 +61,9 @@ Firma Microsoft zaleca partnerom korzystanie z kontroli RBAC zgodnie z najlepszy
 
 - [Porównanie ofert platformy Azure](compare-azure-offers.md)
 
-- [Środków uzyskane przez partnerów — omówienie](partner-earned-credit.md)
+- [Punkty uzyskane przez partnerów — omówienie](partner-earned-credit.md)
 
-- Obliczenia środków zdobytych przez partnera oraz role i uprawnienia, które kwalifikują się do uzyskania środków uzyskane przez partnera, są dostępne w cenniku pulpitu nawigacyjnego usługi Partner Center (wymagane jest zalogowanie się).
+- Obliczenia środków uzyskane przez partnerów oraz role i uprawnienia, które kwalifikują się do otrzymania środków uzyskane przez partnera, są dostępne w cenniku pulpitu nawigacyjnego platformy Partner Center (wymagane jest zalogowanie się).
 
 ## <a name="next-steps"></a>Następne kroki 
 

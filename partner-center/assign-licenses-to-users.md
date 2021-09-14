@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Zarządzanie użytkownikami dla klientów w Partner Center — tworzenie kont użytkowników, dodawanie lub usuwanie licencji użytkowników, resetowanie haseł oraz usuwanie lub przywracanie kont użytkowników.
+description: Zarządzanie użytkownikami dla klientów w programie Partner Center — tworzenie kont użytkowników, dodawanie lub usuwanie licencji użytkowników, resetowanie haseł oraz usuwanie lub przywracanie kont użytkowników.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 1c346e5e680fdd0b0b82715160b238e1e6b6a9a9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959158"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246436"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Zarządzanie użytkownikami i licencjami użytkowników dla kont klientów 
 
@@ -28,7 +28,7 @@ Gdy kupujesz nowe subskrypcje dla klienta, klient powinien podać listę wszystk
 >[!NOTE]
 >Sekcja **Użytkownicy i** licencje  na karcie Klient zawiera wszystkich użytkowników utworzonych w dzierżawie określonego klienta, w tym użytkowników, którzy mają licencje zakupione od innego partnera CSP lub innego kanału zakupu.
 
-Subskrypcje [można przypisać do](bulk-license-provisioning-for-multiple-users.md) wielu użytkowników jednocześnie, importując nazwy przy użyciu zgodnego Excel pliku .csv arkusza [kalkulacyjnego.](adding-multiple-users-to-a-customer-account.md)
+Subskrypcje [można jednocześnie przypisywać](bulk-license-provisioning-for-multiple-users.md) do wielu użytkowników, importując nazwy przy użyciu Excel pliku .csv [arkusza kalkulacyjnego.](adding-multiple-users-to-a-customer-account.md)
 
 <a href="" id="createuseraccounts"></a>
 
@@ -46,7 +46,7 @@ Subskrypcje [można przypisać do](bulk-license-provisioning-for-multiple-users.
 
 6. Jeśli dodajesz wielu użytkowników po jednym na raz, użyj **opcji Dodaj innego użytkownika.**
 
-7. Można również dodać wielu użytkowników jednocześnie, importując plik [Excel zgodny z .csv arkusza kalkulacyjnego.](adding-multiple-users-to-a-customer-account.md) Przed wysyłaniem wiadomości e-mail lub drukowaniem nazw i haseł z ekranu potwierdzenia możesz poczekać, aż wszystko będzie gotowe.
+7. Można również dodać wielu użytkowników jednocześnie, importując plik Excel [zgodny z .csv arkusza kalkulacyjnego.](adding-multiple-users-to-a-customer-account.md) Przed wysyłaniem wiadomości e-mail lub drukowaniem nazw i haseł z ekranu potwierdzenia możesz poczekać, aż wszystko będzie gotowe.
 
 <a href="" id="userlicensing"></a>
 

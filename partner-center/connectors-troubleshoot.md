@@ -1,21 +1,21 @@
 ---
-title: Rozwiązywanie problemów z łącznikami poleceń dotyczących współ sprzedawania
+title: Rozwiązywanie problemów z łącznikami poleceń do współpracy sprzedaży
 ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
-description: Poznaj odpowiedzi na często zadawane pytania dotyczące używania łączników wspólnej sprzedaży. Przeczytaj często zadawane pytania dotyczące rozwiązywania problemów z łącznikami do współs sprzedaży.
+description: Poznaj odpowiedzi na często zadawane pytania dotyczące używania łączników wspólnej sprzedaży. Przeczytaj te często zadawane pytania dotyczące rozwiązywania problemów z łącznikami do współs sprzedaży.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.openlocfilehash: 5143d8e779332fd7df1ebeb3b5175658a0190f4b
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958294"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246957"
 ---
-# <a name="troubleshoot-co-sell-referrals-connectors"></a>Rozwiązywanie problemów z łącznikami poleceń dotyczących współ sprzedawania
+# <a name="troubleshoot-co-sell-referrals-connectors"></a>Rozwiązywanie problemów z łącznikami poleceń do współpracy sprzedaży
 
 **Dotyczy:** Dynamics 365 CRM | Salesforce CRM
 
@@ -23,38 +23,38 @@ ms.locfileid: "123958294"
 
  ## <a name="questions-and-answers-about-pre-requisites"></a>Pytania i odpowiedzi dotyczące wymagań wstępnych
 
-1. Czy w swoim środowisku możesz użyć rozwiązania łączników do współsieć poleceń w wersji próbnej?
+1. Czy możesz użyć próbnego rozwiązania łączników poleceń do współs sprzedaży w swoim środowisku?
 
-Jeśli jesteś w środowisku testowym/przejściowym, możesz wybrać rozwiązanie w wersji próbnej. Płatna wersja łączników jest dostępna w usłudze AppSource w cenie 15 USD/miesiąc. W przypadku połączenia płatnego będziesz otrzymywać 10 000 wywołań interfejsu API dziennie. Łączniki są otoką na Partner Center interfejsów API poleceń. Za każdym razem,  gdy  rozwiązania łącznika uruchamiają zdarzenie Utwórz lub Aktualizuj dla szans sprzedaży Partner Center lub po stronie CRM, jest uruchamiane wywołanie interfejsu API.
+Jeśli jesteś w środowisku testowym/przejściowym, możesz wybrać rozwiązanie w wersji próbnej. Płatna wersja łączników jest dostępna w usłudze AppSource w cenie 15 USD/miesiąc. W przypadku połączenia płatnego będziesz otrzymywać 10 000 wywołań interfejsu API dziennie. Łączniki są otoką na Partner Center interfejsów API poleceń. Zawsze, gdy rozwiązania  łącznika  są uruchamiane dla zdarzenia Utwórz lub Aktualizuj w przypadku szans sprzedaży Partner Center lub po stronie CRM, jest uruchamiane wywołanie interfejsu API.
 
 2. Jaka rola jest potrzebna do tworzenia sekcji w środowisku CRM?
 
-Użytkownicy, którzy są administratorami systemu lub osobami modyfikującymi system, mogą stosować zmiany dla wszystkich użytkowników. Jednak wszyscy użytkownicy aplikacji mogą spersonalizować system, a nawet udostępnić niektóre z ich dostosowań innym. 
+Użytkownicy, którzy są administratorami systemu lub osobami dostosowawczymi systemu, mogą stosować zmiany dla wszystkich użytkowników. Jednak wszyscy użytkownicy aplikacji mogą spersonalizować system, a nawet udostępniać niektóre z ich dostosowań innym osobom. 
 
-3. Czy sprzedawcy partnerscy potrzebują specjalnych ról do pracy nad Partner Center?
+3. Czy sprzedawcy partnerscy potrzebują specjalnych ról, aby pracować nad Partner Center?
  
 Sprzedawcy partnerscy muszą mieć przypisaną rolę "Administrator poleceń". Aby uzyskać więcej informacji, zobacz [Omówienie uprawnień.](create-user-accounts-and-set-permissions.md)
 
 4. Jakie pola należy najpierw skonfigurować w środowisku CRM? 
 
-• Upewnij się, że waluta jest odpowiednia dla Twojej lokalizacji i znajduje się dokładnie w środowisku CRM. • Twój zespół sprzedaży powinien być wymieniony w Twoim środowisku CRM jako użytkownicy CRM.
+• Upewnij się, że Twoja waluta jest odpowiednia dla Twojej lokalizacji i dokładnie znajduje się w Twoim środowisku CRM. • Twój zespół sprzedaży powinien być wymieniony w Twoim środowisku CRM jako użytkownicy CRM.
 
-5. Jakie wymagania wstępne są wymagane do Power Automate środowiska?
+5. Jakie wymagania wstępne są wymagane do Power Automate tworzenia środowiska?
 
-Aby korzystać ze Power Automate, potrzebne są:
+Aby używać Power Automate, potrzebne są:
 
-- Wymagana Power Automate licencji.
-- Wymagany jest magazyn o rozmiarze co najmniej 1 GB.
+- Wymagana Power Automate licencji użytkownika.
+- Wymagany jest co najmniej 1 GB miejsca do magazynowania.
 
-6.  Czy do korzystania z rozwiązania łączników usługi Salesforce potrzebna jest subskrypcja usługi Dynamics 365?
+6.  Czy do korzystania z rozwiązania Łączniki usługi Salesforce potrzebujesz subskrypcji usługi Dynamics 365?
 
-Rozwiązanie łącznika usługi Salesforce jest typu "Dynamics Flow", które obsługuje synchronizację z innymi systemami CRM. Rozwiązanie nie wymaga wystąpienia usługi Dynamics 365 ani subskrypcji. Podczas instalowania rozwiązania Salesforce może pojawić się lista rozwijana z istniejącym środowiskiem usługi CDS w firmie. Musisz wybrać to środowisko. Ponadto w przypadku wystąpienia błędu "Nie można odnaleźć organizacji usługi Dynamics 365 połączonej z zalogowanym użytkownikiem", konieczne będzie utworzenie nowego środowiska dla łącznika.
+Rozwiązanie Łącznik usługi Salesforce jest typu "Dynamics Flow", które obsługuje synchronizację z innymi systemami CRM. Rozwiązanie nie wymaga wystąpienia usługi Dynamics 365 ani subskrypcji. Podczas instalowania rozwiązania Salesforce może pojawić się lista rozwijana z istniejącym środowiskiem usługi CDS w firmie. Musisz wybrać to środowisko. Ponadto jeśli wystąpi błąd "Nie można odnaleźć organizacji usługi Dynamics 365 połączonej z zalogowanym użytkownikiem", konieczne będzie utworzenie nowego środowiska dla łącznika.
 
 ## <a name="questions-and-answers-about-configuration"></a>Pytania i odpowiedzi dotyczące konfiguracji
 
 1. Co należy zrobić, jeśli podczas aktywowania przepływów na platformie Power Automate Platform wystąpi następujący błąd?
 
-Błąd: Żądanie Azure Resource Manager nie powiodło się z błędem: "{"error":{"code":"WorkflowTriggerNotFound","message":"Nie można odnaleźć wyzwalacza "manual" przepływu pracy "e14d00f1-1fdf-4b1b-aaac-54a5064093d3"."}}". 
+Błąd: Żądanie Azure Resource Manager nie powiodło się z błędem: "{"error":{"code":"WorkflowTriggerNotFound","message":"Nie można odnaleźć wyzwalacza "manual" przepływu pracy "e14d00f1-1fdf-4b1b-aaac-54a5064093d3". 
 
 Wykonaj następujące kroki rozwiązywania problemów:
 
@@ -62,7 +62,7 @@ Wykonaj następujące kroki rozwiązywania problemów:
 - Wyłączanie i włączanie przepływu podrzędnego 
 - Usuń rozwiązanie, a następnie zainstaluj je ponownie. 
 
-2.  Co należy zrobić, jeśli wystąpi błąd "Zaloguj się" podczas dodawania łącznika Partner Center platformie Power Automate Platform?
+2.  Co należy zrobić, jeśli podczas dodawania łącznika Partner Center na platformie Power Automate Platform wystąpi błąd "Zaloguj się"?
 
 :::image type="content" source="images/cosellconnectors/failure.png" alt-text="Komunikat o błędzie wymagający logowania.":::
 
@@ -71,13 +71,13 @@ Wykonaj ten krok rozwiązywania problemów:
 - Użyj swoich Partner Center, aby zalogować się do środowiska przepływu raz (flow.microsoft.com).
 
 
-3. Co należy zrobić, jeśli podczas aktywowania przepływu Partner Center crm na platformie Power Automate Platform wystąpi następujący błąd?
+3. Co należy zrobić w przypadku wystąpienia następującego błędu podczas aktywowania przepływu Partner Center CRM na Power Automate Platformie?
  
 :::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Komunikat o błędzie wymagający aktualizacji.":::
 
 Wykonaj następujące kroki rozwiązywania problemów:
 
-- Aktywuj następujące dwa przepływy podrzędne przed aktywowaniem przepływu Partner Center do przepływu CRM.
+- Aktywuj następujące dwa przepływy podrzędne przed aktywowania przepływu Partner Center do przepływu CRM.
       - Partner Center crm — pomocnik (niejawny program testów w wersji zapoznawczej)
       - Partner Center Microsoft Co-sell Referral Updates to CRM (Insider Preview)
 
@@ -95,14 +95,14 @@ Możesz dodawać połączenia do przepływu, gdy przepływ jest uruchomiony, i d
 :::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Edytuj przepływ krok po kroku.":::
 
 
-5. Co należy zrobić, jeśli przepływy rozwiązania łączników poleceń współ sprzedawania nie są włączane?
+5. Co należy zrobić, jeśli przepływy rozwiązania łączników poleceń do współpracy sprzedaży nie są włączane?
 
 A. W Power Automate należy edytować przepływy w następującej kolejności i zaktualizować je, aby używać poprawnych połączeń:
 
 - Partner Center Webhook Registration (Insider Preview)
-- Tworzenie polecenia do współpracy sprzedaży — salesforce do Partner Center (niejawny program testów w wersji zapoznawczej)
+- Tworzenie poleceń do współpracy sprzedaży — salesforce do Partner Center (niejawny program testów w wersji zapoznawczej)
 - Partner Center Microsoft Co-sell Referral Updates to Salesforce (Insider Preview)
-- Partner Center do usługi Salesforce (niejawny program testów w wersji zapoznawczej)
+- Partner Center do usługi Salesforce (insider preview)
 - Salesforce to Partner Center (Insider Preview)
 - Salesforce Opportunity to Partner Center (Insider Preview)
 - Salesforce Microsoft Solutions to Partner Center (Insider Preview)
@@ -121,7 +121,7 @@ C. Aktywuj wymienione poniżej przepływy:
     
 D. Aktywuj wszystkie pozostałe przepływy.
 
-E. W witrynie flow Partner Center webhook Registration (Rejestracja) dla opcji Webhook wybierz **pozycję Run (Uruchom).** Podaj adres **URL HTTP** z pierwszej akcji w Partner Center **do przepływu usługi Salesforce.** Wybierz wszystkie cztery opcje w obszarze **Zdarzenia do zarejestrowania,** a następnie wybierz **opcję Tak dla** opcji Zastąp.
+E. W witrynie flow Partner Center Webhook Registration (Rejestracja) wybierz **pozycję Run (Uruchom).** Podaj adres **URL HTTP** z pierwszej akcji w Partner Center **do przepływu usługi Salesforce.** Wybierz wszystkie cztery opcje w obszarze **Zdarzenia do zarejestrowania,** a następnie wybierz **pozycję Tak dla** opcji Zastąp.
 
 ## <a name="questions-and-answers-about-runmaintenance"></a>Pytania i odpowiedzi dotyczące uruchamiania/konserwacji
 
@@ -129,7 +129,7 @@ E. W witrynie flow Partner Center webhook Registration (Rejestracja) dla opcji W
 
 Aby upewnić się, że przepływy Power Automate działają zgodnie z oczekiwaniami i rozwiązywać problemy z błędami podczas wykonywania, zobacz [Naprawianie błędów przepływu.](/power-automate/fix-flow-failures)
 
-2. Co należy zrobić, jeśli widzisz polecenia, które nie są prawidłowo synchronizowane Partner Center środowisku CRM?
+2. Co należy zrobić, jeśli widzisz polecenia, które nie są prawidłowo synchronizowane w Partner Center lub środowisku CRM?
  
 Aby określić stan synchronizacji od skierowań, wybierz pozycję **Przejmij inspekcję.** 
 
@@ -141,23 +141,23 @@ Upewnij się, że są spełnione następujące warunki:
 
 - Wymagany jest dwulitowy kod kraju.
 
-- W przypadku wyboru pomocy firmy Microsoft na potrzeby szansy sprzedaży wymagane są informacje kontaktowe klienta.
+- W przypadku wyboru pomocy firmy Microsoft dla szansy sprzedaży wymagane są informacje kontaktowe klienta.
 
 3. Jak upewnić się, że polecenie będzie synchronizowane dwukierunkowo?
 
 Wykonaj następujące czynności:
 
-- Sprzedawcy partnerscy muszą upewnić się, że włączyli opcję Synchronizuj **z Partner Center** w sekcji CRM.
+- Sprzedawcy partnerscy muszą upewnić się, że włączyli opcję **Synchronizuj z Partner Center** w sekcji CRM.
 
 :::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Upewnij się, że włączono synchronizację.":::
 
 - Sprzedawcy muszą podać przychód i datę zamknięcia podczas kwalifikowania potencjalnego klienta.
 
-- Jeśli identyfikator CRM zostanie  podany  na etapie tworzenia lub aktualizowania szansy sprzedaży, ale szansa sprzedaży potencjalnego klienta z tym identyfikatorem nie zostanie znaleziona w programie CRM, aktualizacja lub tworzenie zostanie zignorowana.
+- Jeśli identyfikator CRM zostanie  podany  na etapie tworzenia lub aktualizacji szansy sprzedaży, ale szansa sprzedaży potencjalnego klienta z tym identyfikatorem nie zostanie znaleziona w programie CRM, aktualizacja lub tworzenie zostaną zignorowane.
 
 - Upewnij się, że pole waluty polecenia jest skonfigurowane w środowisku usługi Salesforce. 
 
-4. Co należy zrobić, jeśli łącznik zostanie odłączony i pominiesz synchronizację poleceń?
+4. Co należy zrobić, jeśli łącznik zostanie odłączony i pominiesz synchronizację od skierowań?
 
 Poniżej przedstawiono kilka opcji, które można wypróbować:
 
@@ -175,7 +175,7 @@ Upewnij się, że istnieją odpowiednie role
  
 - Rola administratora systemu lub customizera systemu w wystąpieniu systemu CRM
 
-- Upewnij się, Power Automate użytkownika przepływu danych loguje się https://flow.microsoft.com wcześniej co najmniej raz
+- Upewnij się, Power Automate użytkownika przepływu danych loguje się https://flow.microsoft.com co najmniej raz wcześniej
 
 6. Jeśli zobaczysz, że **brakuje** kodu kraju konta klienta podczas tworzenia możliwości współpracy sprzedaży, co należy zrobić?
 
@@ -193,7 +193,7 @@ Wykonaj następujące czynności:
 
 - Jeśli przepływ zostanie wywołany, sprawdź wszystkie wywołane przepływy i zidentyfikuj przebieg przepływu, który zaktualizuje system CRM. Możesz wykonać akcje i sprawdzić, czy system CRM został zaktualizowany, czy napotkał problem.
 
-- Sprawdź **nową ofertę** w Partner Center, aby sprawdzić, czy zostanie ona wypełniona identyfikatorem CRM.
+- Sprawdź **nową Partner Center,** aby sprawdzić, czy zostanie ona wypełniona identyfikatorem CRM.
 
 - Upewnij się, że transakcja nie została przypadkowo zamknięta jako **wygrana** lub **utracona** w Partner Center.
 

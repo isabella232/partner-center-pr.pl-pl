@@ -4,19 +4,19 @@ ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Dowiedz się, jak partnerzy programu CSP mogą używać platformy handlowej Partner Center, aby kupować oferty SaaS od niezależnych dostawców oprogramowania.
+description: Dowiedz się, w jaki sposób partnerzy programu CSP mogą używać platformy handlowej Partner Center, aby kupować oferty SaaS od niezależnych dostawców oprogramowania.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 2984dbb3a02df91d5a2a284182476bf348a24f47
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958090"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247222"
 ---
-# <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Kupowanie produktów komercyjnej platformy handlowej dla klientów w Partner Center
+# <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Kupowanie produktów na platformie handlowej dla klientów w Partner Center
 
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny
@@ -31,12 +31,12 @@ Możesz kupić **subskrypcje** SaaS oparte na licencjach lub **subskrypcje opart
 
 Subskrypcje opartych na licencjach lub mierzonych produktów SaaS oferowanych przez wydawców ISV są kupowane przy użyciu tego samego procesu, który jest procesem zakupu subskrypcji produktów firmy Microsoft.
 
-Aby kupić subskrypcję SaaS opartą na licencji lub mierzoną w u Partner Center, zobacz Tworzenie, zawieszanie lub [anulowanie subskrypcji klientów.](create-a-new-subscription.md#create-a-new-subscription)
+Aby kupić opartą na licencjach lub mierzoną subskrypcję SaaS w Partner Center, zobacz Tworzenie, zawieszanie lub [anulowanie subskrypcji klientów.](create-a-new-subscription.md#create-a-new-subscription)
 
-Za pomocą interfejsów [API Partner Center można](/partner-center/develop/) również tworzyć subskrypcje platformy handlowej dla klientów. (Aby uzyskać więcej informacji na temat używania Partner Center API, zobacz Tworzenie subskrypcji dla produktów platformy [handlowej).](/partner-center/develop/create-subscription-azure-marketplace-products)
+Możesz również użyć [interfejsów API Partner Center do](/partner-center/develop/) tworzenia subskrypcji platformy handlowej dla klientów. (Aby uzyskać więcej informacji na temat korzystania z Partner Center API, zobacz Create a subscription for commercial marketplace products (Tworzenie subskrypcji dla produktów platformy [handlowej).](/partner-center/develop/create-subscription-azure-marketplace-products)
 
 >[!IMPORTANT]
-> Jako partner w programie CSP  możesz kupić oparte na licencjach lub mierzone subskrypcje **SaaS** od wydawców ISV w Partner Center. Oznacza to, że  możesz kupić dowolną opartą na licencjach lub mierzoną [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) ofertę **SaaS,** która została Ci udostępnione przez wydawcę ISV, w tym oferty wyłączne, do których masz dostęp. Aby zakupić inne, komercyjne oferty platformy handlowej od isvs (np. ofert opartych na użyciu obejmujących aplikacje platformy Azure, kontenery lub maszyny wirtualne) lub zarządzać nimi, musisz przejść do witryny [Azure Portal](https://portal.azure.com/).
+> Jako partner w programie CSP  możesz kupować oparte na licencjach lub mierzone subskrypcje **SaaS** od wydawców ISV w Partner Center. Oznacza to, że  możesz kupić dowolną opartą na licencjach lub mierzoną [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) ofertę **SaaS,** która została Ci udostępnione przez wydawcę ISV, w tym oferty wyłączne, do których masz dostęp. Aby kupić inne, komercyjne oferty platformy handlowej od isvs (na przykład oferty oparte na użyciu obejmujące aplikacje platformy Azure, kontenery lub maszyny wirtualne) lub zarządzać nimi, musisz przejść do witryny [Azure Portal](https://portal.azure.com/).
 
 ## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>Kupowanie subskrypcji opartych na użyciu w Azure Portal
 

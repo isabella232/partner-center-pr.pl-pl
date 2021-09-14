@@ -9,17 +9,17 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.openlocfilehash: 5b80cc15ade94a9003ec1b21293d86c3b5ac8ace
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958198"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248172"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Jak zażądać relacji odsprzedawcy od klienta w Centrum partnerskim
 
 **Odpowiednie role:** Agent administracyjny | Administrator globalny
 
-Jeśli chcesz zarządzać usługą lub subskrypcją klienta w jego imieniu, klient musi udzielić Ci uprawnień administratora do tej usługi lub subskrypcji i podpisać Umowa z Klientem Microsoft.
+Jeśli chcesz zarządzać usługą lub subskrypcją klienta w jego imieniu, klient musi przyznać Ci uprawnienia administratora do tej usługi lub subskrypcji i podpisać Umowa z Klientem Microsoft.
 
 Jeśli chcesz ustanowić relację odsprzedawcy z klientem i zarządzać tylko subskrypcjami platformy Azure, które aprowizujesz, nie musisz uzyskiwać uprawnień administratora.
 
@@ -30,9 +30,9 @@ Jeśli chcesz ustanowić relację odsprzedawcy z klientem i zarządzać tylko su
 
 Możesz zażądać relacji odsprzedawcy z klientem z twojego kraju lub w tym samym regionie.
 
-1. Wybierz **pozycję Customers** (Klienci) **Partner Center** menu, a następnie wybierz pozycję Request a reseller relationship **(Zażądaj relacji odsprzedawcy).**
+1. Wybierz **pozycję Customers** (Klienci) z menu **Partner Center** a następnie wybierz pozycję Request a reseller relationship **(Zażądaj relacji odsprzedawcy).**
 
-2. Aby zażądać uprawnień administratora od tego klienta, wybierz opcję Uwzględnij **delegowane** uprawnienia administracyjne dla Azure Active Directory i Office 365 . Aby ustanowić relację bez żądania uprawnień administratora, usuń zaznaczenie tej opcji.
+2. Aby zażądać uprawnień administratora od tego klienta, wybierz pozycję Uwzględnij **delegowane** uprawnienia administracyjne dla Azure Active Directory i Office 365 . Aby ustanowić relację bez żądania uprawnień administratora, usuń zaznaczenie tej opcji.
 
 3. Na następnej stronie przejrzyj wersję roboczą wiadomości e-mail. Możesz otworzyć wersję roboczą wiadomości w domyślnej aplikacji poczty e-mail lub skopiować wiadomość do schowka i wkleić do wiadomości e-mail.
 
@@ -52,12 +52,12 @@ Możesz zażądać relacji odsprzedawcy z klientem z twojego kraju lub w tym sam
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>Zmiany w zaproszeniu klienta
 
-Środowisko klienta dotyczące akceptowania zaproszenia do relacji odsprzedawcy od partnera Dostawca rozwiązań w chmurze (CSP) jest hostowane przez różne portale dla klientów. Lokalizacja portalu zależy od tego, czy klient znajduje się w chmurze publicznej firmy Microsoft, czy w chmurze krajowej:
+Środowisko klienta dotyczące akceptowania zaproszenia do relacji odsprzedawcy od partnera Dostawca rozwiązań w chmurze (CSP) jest hostowane przez różne portale klienta. Lokalizacja portalu zależy od tego, czy klient znajduje się w chmurze publicznej firmy Microsoft, czy w chmurze krajowej:
 
 |Typy klientów chmury  | Gdzie klient akceptuje zaproszenie do relacji odsprzedawcy? |
 |---------|---------
 | Klienci w chmurze publicznej | Administracja Microsoft 365 Centrum |
-| Klienci w witrynie Partner Center for Microsoft Cloud Germany | Microsoft Office Portal administracyjny |
+| Klienci w usłudze Partner Center for Microsoft Cloud Germany | Microsoft Office Portal administracyjny |
 | Klienci w Partner Center for Microsoft Cloud for US Government | Microsoft Office Portal administracyjny |
 |
 

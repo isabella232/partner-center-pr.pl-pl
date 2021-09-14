@@ -10,11 +10,11 @@ ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 15e2792a38f8fc90612282ff30ad57dc320fc96a
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959314"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246754"
 ---
 # <a name="security-requirements-status-report"></a>Raport o stanie wymagań dotyczących zabezpieczeń
 
@@ -29,7 +29,7 @@ Aby uzyskać dostęp do tego raportu [w Partner Center](https://partner.microsof
 
 ## <a name="security-status-metrics"></a>Metryki stanu zabezpieczeń
 
-Raport o stanie wymagań dotyczących zabezpieczeń oferuje wgląd w implementację usługi MFA partnera oraz metryki dotyczące konfiguracji usługi MFA i Partner Center działań w dzierżawach partnerów. W poniższych sekcjach opisano te metryki bardziej szczegółowo.
+Raport o stanie wymagań dotyczących zabezpieczeń zawiera szczegółowe informacje na temat implementacji usługi MFA partnera oraz metryki dotyczące konfiguracji uwierzytelniania wieloskładnikowego i Partner Center działań w dzierżawach partnerów. W poniższych sekcjach opisano te metryki bardziej szczegółowo.
 
 ### <a name="mfa-configuration-on-a-partner-tenant"></a>Konfiguracja usługi MFA w dzierżawie partnera
 
@@ -48,8 +48,8 @@ Metryka **Za pośrednictwem Partner Center portal jest** powiązana z działania
 
 - Firma Contoso jest partnerem programu CSP z dwoma agentami administracyjnymi, Jane i John.
 - Pierwszego dnia Magda zalogowała się do pulpitu nawigacyjnego Partner Center bez weryfikacji uwierzytelniania wieloskładnikowego i dokonała trzech operacji.
-- Drugiego dnia Jan zalogował się do pulpitu nawigacyjnego Partner Center bez weryfikacji uwierzytelniania wieloskładnikowego i dokonał pięciu operacji.
-- Trzeciego dnia Magda zalogowała się do pulpitu Partner Center z weryfikacją uwierzytelniania wieloskładnikowego i dokonała dwóch operacji.
+- Drugiego dnia Jan zalogował się do pulpitu nawigacyjnego Partner Center bez weryfikacji MFA i dokonał pięciu operacji.
+- Trzeciego dnia Magda zalogowała się do pulpitu nawigacyjnego Partner Center z weryfikacją uwierzytelniania wieloskładnikowego i dokonała dwóch operacji.
 - W ciągu ostatnich czterech dni nie zostały wykonane żadne operacje wykonane przez żadnego z agentów.
 - Z 10 operacji wykonanych w 7-dniowym oknie użytkownik z weryfikacją MFA dokonał dwóch operacji. W związku z tym metryka pokazuje 20%.
 

@@ -10,19 +10,19 @@ ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: e21db0b6d054c62cec0378a3b93201dea072128f
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957970"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247216"
 ---
-# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Wyświetlanie lub eksportowanie dzienników aktywności klientów w celu bardziej szczegółowego wglądu w transakcje klientów
+# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Wyświetlanie lub eksportowanie dzienników aktywności klienta w celu bardziej szczegółowego wglądu w transakcje klientów
 
-**Odpowiednie role:** Administrator globalny | Administrator rozliczeń | Administrator zarządzania użytkownikami | Agent administracyjny | Agent sprzedaży | Agent pomocy technicznej
+**Odpowiednie role:** Administrator globalny | Administrator rozliczeń | Administrator zarządzający użytkownikami | Agent administracyjny | Agent sprzedaży | Agent pomocy technicznej
 
-Dzienniki aktywności zawierają informacje o transakcjach i akcjach zarządzania partnerami dla klientów. Dzienniki transakcji zawierają szczegółowe informacje o transakcji, w tym zakupione subskrypcje. Dzienniki aktywności można również eksportować do formatu Excel pliku wartości rozdzielanych przecinkami (.csv).
+Dzienniki aktywności zawierają informacje o transakcjach i akcjach zarządzania partnerami dla klientów. Dzienniki transakcji zawierają szczegółowe informacje o transakcji, w tym zakupione subskrypcje. Dzienniki aktywności można również wyeksportować do formatu Excel plików wartości rozdzielanych przecinkami (.csv).
 
-Dzienniki aktywności zawierają rekordy dla akcji partnera na kontach klientów i transakcjach produktów. Dzienniki aktywności można również eksportować do .csv plików.
+Dzienniki aktywności zawierają rekordy dla akcji partnera na kontach klientów i transakcjach produktów. Dzienniki aktywności można również wyeksportować do .csv plików.
 
 ## <a name="view-and-export-activity-logs"></a>Wyświetlanie i eksportowanie dzienników aktywności
 
@@ -30,13 +30,13 @@ Dzienniki aktywności zawierają rekordy dla akcji partnera na kontach klientów
 
 2. W menu **Ustawienia konta** wybierz pozycję **Dziennik aktywności.**
 
-3. Wybierz okres dziennika aktywności w polach **Od** **i do.** Domyślnie eksport dziennika aktywności to ostatni miesiąc.
+3. Wybierz okres dziennika aktywności w **polach Od** **i do.** Domyślnie eksport dziennika aktywności to ostatni miesiąc.
 
-   Każdy dziennik aktywności zawiera link do strony **Subskrypcje wymienionego** klienta.
+   Każdy dziennik aktywności zawiera link do wymienionej strony **Subskrypcje** klienta.
 
    Wybierz strzałkę w dół dla dowolnego dziennika aktywności, aby wyświetlić szczegółowe informacje o zarejestrowanej akcji. Pojedynczy dziennik aktywności może pokazywać znaczną ilość danych, takich jak kolejność wielu produktów.
 
-4. Kolumny danych dziennika obejmują następujące elementy:
+4. Kolumny danych dziennika są następujące:
    - **Data i godzina**— data i godzina akcji;
    - **Klient, którego** dotyczy problem — nazwa firmy klienta;
    - **Akcja**— akcja podjęta przez klienta, taka jak "utworzono polecenie";

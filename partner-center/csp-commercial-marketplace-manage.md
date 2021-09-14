@@ -10,11 +10,11 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 14901b47b7363b2d87861be43a7071d9f23545cc
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958077"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247227"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Zarządzanie produktami i ofertami na platformie handlowej dla klientów
 
@@ -27,7 +27,7 @@ Partnerzy w programie Dostawca rozwiązań w chmurze (CSP) mogą za pomocą port
 
 Po zakupie subskrypcji od zewnętrznego wydawcy isv publisher możesz przejrzeć lub edytować ją w następujący sposób:
 
-1. Zaloguj się do pulpitu Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard)a następnie wybierz **pozycję Klienci** z menu nawigacji po lewej stronie.
+1. Zaloguj się do Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard)a następnie wybierz **pozycję Klienci** z menu nawigacji po lewej stronie.
 
 2. Wybierz odpowiedniego klienta, a następnie wybierz **pozycję Subskrypcje.** Zawiera listę wszystkich subskrypcji opartych na licencjach zakupionych dla klienta.
 
@@ -89,7 +89,7 @@ Aby uzyskać więcej informacji na temat okresów anulowania, które mają zasto
 
 W przypadku ofert platformy handlowej SaaS można dodawać lub usuwać licencje użytkowników dla subskrypcji klienta.
 
-1. Zaloguj się do pulpitu Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard)a następnie wybierz **pozycję Klienci** z menu nawigacji po lewej stronie.
+1. Zaloguj się do Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard)a następnie wybierz **pozycję Klienci** z menu nawigacji po lewej stronie.
 
 2. Wybierz odpowiedniego klienta, a następnie wybierz **pozycję Subskrypcje.** Zawiera listę wszystkich subskrypcji opartych na licencjach zakupionych dla klienta.
 
@@ -101,7 +101,7 @@ W przypadku ofert platformy handlowej SaaS można dodawać lub usuwać licencje 
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>Zarządzanie subskrypcjami przy użyciu Partner Center API
 
-Za pomocą interfejsów API Partner Center można również zarządzać cyklem życia i zarządzać fakturami za subskrypcje. Aby uzyskać więcej informacji, [zobacz Tworzenie subskrypcji dla produktów platformy handlowej](/partner-center/develop/create-subscription-azure-marketplace-products).
+Za pomocą interfejsów API Partner Center do zarządzania cyklem życia i zarządzania fakturami dla subskrypcji. Aby uzyskać więcej informacji, [zobacz Tworzenie subskrypcji dla produktów platformy handlowej](/partner-center/develop/create-subscription-azure-marketplace-products).
 
 ## <a name="next-steps"></a>Następne kroki
 

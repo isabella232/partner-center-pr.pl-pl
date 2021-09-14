@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: W Partner Center dowiesz się, jak sprzedawać klientom subskrypcje produktów SaaS opublikowane na platformie handlowej przez niezależnych dostawców oprogramowania (ISV).
+description: W Partner Center dowiesz się, jak sprzedawać klientom subskrypcje produktów SaaS opublikowanych na platformie handlowej przez niezależnych dostawców oprogramowania (ISV).
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 8af85ce34493ae597d8a8ace2041c5ab4ed3ab62
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958906"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248142"
 ---
-# <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Używanie Partner Center do sprzedawania subskrypcji klientów produktom na platformie handlowej
+# <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Używanie Partner Center do sprzedawania subskrypcji klientów produktom platformy handlowej
 
 **Odpowiednie role:** Agent sprzedaży
 

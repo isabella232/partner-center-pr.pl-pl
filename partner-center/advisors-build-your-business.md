@@ -10,11 +10,11 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 9cd73c6701a57463a3e9d10c40d979942a85feb1
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959386"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247353"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Doradcy: tworzenie bazy klientów przy użyciu ofert zakupu i zaproszeń do wersji próbnej usługi Office 365
 
@@ -22,28 +22,28 @@ ms.locfileid: "123959386"
 **Odpowiednie role:** Advisor
 
 
-Jako autoryzowany doradca firmy Microsoft **Partner Center** możliwość rozwoju bazy klientów i tworzenia długotrwałych relacji z klientami. Dzięki Partner Center możesz wysyłać klientom zaproszenia do wersji próbnej i oferty zakupu oraz oferować im delegowane usługi administracyjne w zależności od usług, do których świadczenia masz uprawnienia.
+Jako autoryzowany doradca firmy Microsoft **Partner Center** możliwość rozwoju bazy klientów i tworzenia długotrwałych relacji z klientami. Dzięki Partner Center można wysyłać klientom zaproszenia do wersji próbnej i oferty zakupu oraz oferować im delegowane usługi administracyjne, w zależności od usług, do których świadczenia usług masz uprawnienia.
 
-Po zalogowaniu się do usługi Partner Center przejdź do wersji próbnej i kup oferty **.** Zobaczysz narzędzia i zadania, które pomogą w rozwoju firmy.
+Po zalogowaniu się do Partner Center przejdź do wersji próbnej i zakupu ofert **.** Zobaczysz kilka narzędzi i zadań, które pomogą w rozwoju firmy.
 
 ## <a name="create-and-send-trial-invitations"></a>Tworzenie i wysyłanie zaproszeń do wersji próbnej
 
 > [!NOTE]
 > Ta funkcja jest dostępna tylko dla partnerów, którzy są autoryzowanymi doradcami subskrypcji.
 
-Możesz tworzyć i wysyłać zaproszenia do wysłania do klientów, aby próbowali oni Office 365. Zaproszenie może zawierać jedną subskrypcję wersji próbnej.
+Możesz tworzyć i wysyłać zaproszenia do wysyłania do klientów, aby próbowali Office 365. Zaproszenie może zawierać jedną subskrypcję wersji próbnej.
 
-Jeśli masz certyfikat, aby zaoferować administrację delegowaną, możesz dodać do zaproszenia do wersji próbnej opcję, która umożliwia administrowanie subskrypcją w imieniu klienta. Ułatwia to klientom wypróbowanie Office 365.
+Jeśli masz certyfikat, aby oferować administrację delegowaną, możesz dodać opcję do zaproszenia do wersji próbnej, która umożliwia administrowanie subskrypcją w imieniu klienta. Ułatwia to klientom wypróbowanie Office 365.
 
-Po utworzeniu zaproszenia do wersji próbnej zostanie utworzony niestandardowy adres URL. Adres URL zawiera osadzony kod, który identyfikuje Cię jako doradcę subskrypcji. Możesz użyć tego adresu URL dla jednego klienta lub dla wielu klientów. Adres URL można wysłać do klienta w wiadomości e-mail lub opublikować w witrynie internetowej.
-Aby uzyskać więcej informacji na temat zaproszeń do wersji próbnej, zobacz [Tworzenie zaproszenia do wersji próbnej](advisors-create-a-trial-invitation.md).
+Podczas tworzenia zaproszenia do wersji próbnej tworzony jest niestandardowy adres URL. Adres URL zawiera osadzony kod, który identyfikuje Cię jako doradcę subskrypcji. Możesz użyć tego adresu URL dla jednego klienta lub dla wielu klientów. Adres URL możesz wysłać do klienta w wiadomości e-mail lub opublikować w witrynie internetowej.
+Aby uzyskać więcej informacji na temat zaproszeń do wersji próbnej, zobacz [Tworzenie zaproszenia do wersji próbnej.](advisors-create-a-trial-invitation.md)
 
 ## <a name="create-and-send-purchase-offers"></a>Tworzenie i wysyłanie ofert zakupu
 
 > [!NOTE]
 > Ta funkcja jest dostępna tylko dla partnerów firmy Microsoft, którzy są autoryzowanymi doradcami subskrypcji.
 
-Po wysłaniu zaproszenia do wersji próbnej do klientów skorzystaj z oferty zakupu. Ofertę można dostosować tak, aby zawierała konkretne usługi, których potrzebuje klient, oraz poprawną liczbę licencji użytkowników. Jeśli masz certyfikat, aby oferować administrację delegowaną, możesz dodać do oferty zakupu opcję, która umożliwia administrowanie subskrypcją w imieniu klienta.
+Po wysłaniu zaproszenia do wersji próbnej do klientów skorzystaj z oferty zakupu. Ofertę można dostosować tak, aby zawierała konkretne usługi, których potrzebuje klient, oraz poprawną liczbę licencji użytkowników. Jeśli masz certyfikat, aby oferować administrację delegowaną, możesz dodać opcję do oferty zakupu, która umożliwia administrowanie subskrypcją w imieniu klienta.
 
 Podczas tworzenia oferty zakupu tworzony jest niestandardowy adres URL. Adres URL zawiera osadzony kod, który identyfikuje Cię jako doradcę subskrypcji. Możesz użyć tego adresu URL dla jednego klienta lub wielu klientów. Wyślij adres URL do klienta w wiadomości e-mail lub opublikuj go w witrynie internetowej.
 

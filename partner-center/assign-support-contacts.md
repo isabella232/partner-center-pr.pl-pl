@@ -10,20 +10,20 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 358bce2c23d05d5523a5bd7a7032916d00340daf
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246430"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Przypisywanie odsprzedawcy jako kontaktu pomocy technicznej dla klientów
 
 **Odpowiednie role:** Agent administracyjny | Administrator globalny | Agent pomocy technicznej
 
 
-Po skonfigurowaniu subskrypcji dla usługi firmy Microsoft dla klientów możesz chcieć przypisać pomoc techniczną dla tych produktów do wyznaczonego odsprzedawcy, zamiast samodzielnie okazać pomoc techniczną.
+Po skonfigurowaniu subskrypcji dla klientów usługi firmy Microsoft można przypisać pomoc techniczną dla tych produktów do wyznaczonego odsprzedawcy, zamiast samodzielnie okazać pomoc techniczną.
 
-Po skonfigurowaniu kontaktów pomocy technicznej klienci mogą zobaczyć informacje przypisanego kontaktu pomocy technicznej na stronach pomocy technicznej produktu. Jeśli na przykład klienci Office 365 potrzebują pomocy technicznej, mogą przejść do strony Office.com, zalogować się  przy użyciu poświadczeń  administratora, wybrać kafelek Administrator, a następnie w sekcji Pomoc techniczna wyświetlić przypisane informacje kontaktowe do pomocy technicznej.
+Po skonfigurowaniu kontaktów pomocy technicznej klienci mogą zobaczyć informacje przypisanego kontaktu pomocy technicznej na stronach pomocy technicznej produktu. Jeśli na przykład Office 365 potrzebują pomocy technicznej, mogą przejść do strony Office.com, zalogować się przy  użyciu poświadczeń  administratora, wybrać kafelek Administrator, a następnie w sekcji Pomoc techniczna wyświetlić przypisane informacje kontaktowe pomocy technicznej.
 
 Ta funkcja może być używana w [scenariuszach z wieloma partnerami](multipartner.md) [i wieloma kanałami.](multichannel.md) 
 
@@ -32,7 +32,7 @@ Ta funkcja może być używana w [scenariuszach z wieloma partnerami](multipartn
 
 1. Zacznij od [zażądania relacji z](request-a-relationship-with-a-customer.md) wyznaczonym odsprzedawcą produktów. Negocjuj z nimi umowę pomocy technicznej na obsługę pomocy technicznej.
 
-2. W **Partner Center** wybierz pozycję **Klienci,** a następnie wybierz klienta, a następnie wybierz subskrypcję, na przykład Office 365 Business Standardowa.
+2. Z **Partner Center** wybierz pozycję **Klienci,** a następnie wybierz klienta, a następnie wybierz subskrypcję, na przykład Office 365 Business Standardowa.
 
 3. W **kontaktować się z wyznaczoną** pomocą techniczną wybierz wyznaczonego odsprzedawcę produktu, a następnie kliknij pozycję **Prześlij.** 
 

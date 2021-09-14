@@ -1,24 +1,24 @@
 ---
-title: Rozliczanie jednorazowych & cyklicznych zakupów
+title: Rozliczenia za jednorazowy & zakupy cykliczne
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
-description: Partner Center przykłady rozliczeń dla jednorazowych zakupów i wybierz cykliczne zakupy — w przypadku zakupu subskrypcji dodaj więcej subskrypcji, dodaj lub usuń licencje.
+description: Partner Center przykłady rozliczeń dla jednorazowych zakupów i wybierz cykliczne zakupy — podczas zakupu subskrypcji, dodawania kolejnych subskrypcji, dodawania lub usuwania licencji.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 44594df78ba99a3762549b916265de9faa667e7b
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958065"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247042"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Partner Center scenariuszy rozliczania jednorazowych i wybierz cykliczne zakupy
 
-**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Agent pomocy | Agent sprzedaży
+**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Agent pomocy technicznej | Agent sprzedaży
 
 Są to [typowe scenariusze rozliczeń.](common-billing-scenarios.md) 
 

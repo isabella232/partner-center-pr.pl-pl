@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 03/31/2021
 ms.openlocfilehash: 393f0ee6c49cbbdf814a823f732bb4b92d4deb2e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957982"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247311"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analizowanie subskrypcji i licencji w celu podejmowania decyzji biznesowych i nowych celów
 
@@ -25,7 +25,7 @@ Dane wpływają na decyzje biznesowe. Użyj metryk na stronie analizy **subskryp
 **CSP TTM Revenue (USD)**: Ta metryka reprezentuje zagregowany przychód rozliczany w programie CSP (USD) dla ostatnich 12 miesięcy (TTM) dla kont lokalizacji partnera i globalnego konta partnera (PGA), z którym jest skojarzone to konto CSP. Jeśli masz inne konta CSP z innym programem PGA, musisz zalogować się do każdego z nich, aby wyświetlić odpowiednie zagregowane przychody z TTM.  Kliknij link szczegółów pobierania, aby uzyskać podział przychodu z TTM (USD) na identyfikator MPN.
 
 >[!NOTE]
->Lokalne ceny walut (Legacy Commerce FX) w wersji komercyjnej są zarządzane w granicach +/-5% dolarów amerykańskich. Starszy kurs wymiany handlowej (FX) różni się od rozliczeń stawek FX używanych przez platformę Azure w nowoczesnym handlu. Stawki FX dla nowoczesnego handlu są oparte na stawkach MICROSOFT P&L (Reuters FX rates from Treasury Feed). Starsze stawki handlowe FX są poufne firmy Microsoft.
+>Lokalne ceny walut (Legacy Commerce FX) w wersji komercyjnej są zarządzane w granicach +/-5% dolarów amerykańskich. Starszy kurs wymiany handlowej (FX) różni się od rozliczeń stawek FX używanych przez platformę Azure w nowoczesnym handlu. Stawki FX dla nowoczesnego handlu są oparte na stawkach microsoft P&L (reuters FX rates from Treasury feed). Starsze stawki handlowe FX są poufne firmy Microsoft.
 
 
 Pozostała część raportu może być przestawna w oparciu o następujące produkty:

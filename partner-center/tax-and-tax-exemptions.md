@@ -10,17 +10,17 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 2b79943185cbd940b164508ee8ac14203ddeccb8
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958030"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246633"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Przeczytaj informacje o podatkach i szczegółach zwolnienia z podatku według regionu lub kraju dla partnerów w programie CSP
 
 **Odpowiednie role:** Administrator globalny
 
-Program Dostawca rozwiązań w chmurze (CSP) to kanał sprzedaży skoncentrowany na sprzedaży produktów partnerów. W związku z tym firma Microsoft nie zawsze musi naliczać podatek od sprzedaży na fakturach partnerów. Reguły różnią się w zależności od kraju i/lub regionu. Możesz przejrzeć szczegóły dotyczące poszczególnych krajów i [regionów dotyczące zwolnienia z podatku.](#country-and-region-tax-details)
+Program Dostawca rozwiązań w chmurze (CSP) to kanał sprzedaży skoncentrowany na dystrybucji produktów partnerów. W związku z tym firma Microsoft nie zawsze musi naliczać podatek od sprzedaży na fakturach partnerów. Reguły różnią się w zależności od kraju i/lub regionu. Możesz przejrzeć szczegóły dotyczące poszczególnych krajów i [regionów dotyczące zwolnienia z podatku.](#country-and-region-tax-details)
 
 We współpracy z doradcą podatkowym [zamień](#file-a-tax-exemption) zwolnienia z podatku na podstawie lokalizacji i lokalizacji klientów.
 
@@ -43,7 +43,7 @@ Wszyscy odsprzedawcy w Stany Zjednoczone będą dostarczać dokumentację dotycz
 
 W Stanach Zjednoczonych, w tym w Stanach Zjednoczonych, należy oddzielnie określić podatek od sprzedaży i użycia.  Od sierpnia 2021 r. na fakturze firmy Microsoft podatek zostanie podany oddzielnie, chyba że określono inaczej.  Ponadto podatek w 2017 r. zostanie oddzielnie podany na poziomie pospolitym i lokalnym jako Commonwealth Tax i Tax tax dla mieszkańców.
 
-Może to obejmować certyfikaty zwolnienia z podatku,  które działają  w wielu stanach, takich jak uproszczona sprzedaż i korzystanie z certyfikatu zwolnienia z umowy podatkowej lub jednolity certyfikat sprzedaży *MTC &* użyj certyfikatu zwolnienia z podatku.
+Może to obejmować certyfikaty zwolnienia z podatku,  które działają  w wielu stanach, takich jak uproszczona sprzedaż i korzystanie z certyfikatu zwolnienia z umowy podatkowej lub jednolity certyfikat sprzedaży *MTC &* używać certyfikatu zwolnienia z podatku.
 
 ### <a name="other-regions"></a>Inne regiony
 
@@ -67,7 +67,7 @@ Gdy wszystko będzie gotowe do zgłoszenia zwolnienia z podatku, otwórz bilet z
 
 ## <a name="support"></a>Pomoc techniczna
 
-W przypadku pytań dotyczących zwolnienia z podatku i zwrotów kosztów lub innych pytań związanych z podatkami, poproś o pomoc techniczną Partner Center. Pozwól firmie Microsoft na skontaktowanie się z Tobą przez dwa tygodnie i rozwiązanie problemu.
+W przypadku pytań dotyczących zwolnienia z podatku i zwrotów podatku lub innych pytań związanych z podatkami, poproś o pomoc techniczną Partner Center. Pozwól firmie Microsoft na skontaktowanie się z Tobą przez dwa tygodnie i rozwiązanie problemu.
 
 ## <a name="next-steps"></a>Następne kroki
 

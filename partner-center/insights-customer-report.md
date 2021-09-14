@@ -10,11 +10,11 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 327d2ddd97dc4bf226985523184407f32f7883ad
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958258"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246855"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Raporty pulpitu nawigacyjnego klientów z Partner Center Szczegółowe informacje
 
@@ -34,7 +34,7 @@ Pulpit nawigacyjny Klienci zawiera następujące sekcje:
 
 ## <a name="summary"></a>Podsumowanie
 
-Sekcja podsumowania zawiera widok migawki różnych kluczowych wskaźników wydajności (KPI) powiązanych z klientami, takich jak klienci, aktywni klienci, subskrypcje, dodani klienci, klienci, którzy podali wskaźniki wydajności i klienci według poszczególnych produktów. Filtry na poziomie strony mają zastosowanie do każdej sekcji.
+Sekcja podsumowania zawiera widok migawki różnych kluczowych wskaźników wydajności (KPI) powiązanych z klientami, takich jak klienci, aktywni klienci, subskrypcje, dodani klienci, klienci, którzy podpisali dane i klienci według poszczególnych produktów. Filtry na poziomie strony mają zastosowanie do każdej sekcji.
 
 :::image type="content" source="images/insights/customer-product.png" alt-text="Zrzut ekranu przedstawiający pulpit nawigacyjny Podsumowanie klientów przedstawiający wykresy słupkowe i liczby klientów aktywnych, ostatnio dodanych, utraconych/zrzuconych lub według określonego produktu.":::
 
@@ -73,9 +73,9 @@ Liczba bieżących klientów, bieżących aktywnych klientów i klientów nowo d
 
 ## <a name="customer-adds-and-churns"></a>Klient dodaje i churns
 
-Trend klientów z podziałem na nowe, istniejące i rezygnacje dla wybranego zakresu dat. Oś X reprezentuje miesiące wybranego zakresu dat, a oś Y reprezentuje liczbę klientów. Klienci z rezygnacjami są reprezentowani w ujemnej skali osi Y. Skumulowany wykres kolumnowy przedstawia podział nowych, istniejących i zuconych klientów w miesiącu. Możesz ponownie skompilować wykres kolumnowy z określonymi elementami stosu, wybierając te elementy w legendzie. Możesz użyć suwaka w górnej części wykresu, aby powiększyć widok do określonego okresu. 
+Trend klientów z podziałem na nowe, istniejące i rezygnacje dla wybranego zakresu dat. Oś X reprezentuje miesiące wybranego zakresu dat, a oś Y reprezentuje liczbę klientów. Klienci z rezygnacjami są reprezentowani w ujemnej skali osi Y. Skumulowany wykres kolumnowy przedstawia podział nowych, istniejących i rezygnacji klientów w miesiącu. Możesz ponownie skompilować wykres kolumnowy z określonymi elementami stosu, wybierając te elementy w legendzie. Możesz użyć suwaka w górnej części wykresu, aby powiększyć widok do określonego okresu. 
 
-:::image type="content" source="images/insights/customer-lost.png" alt-text="Zrzut ekranu Partner Center Szczegółowe informacje raport klienta z wykresem słupkowym przedstawia liczbę dodanych i utraconych lub zrzuconych klientów w określonym czasie.":::
+:::image type="content" source="images/insights/customer-lost.png" alt-text="Zrzut ekranu Partner Center Szczegółowe informacje raportu klienta z wykresem słupkowym przedstawia liczbę dodanych i utraconych lub rezygnacji klientów w określonym czasie.":::
 
 ## <a name="customer-distribution"></a>Dystrybucja klientów
 
@@ -97,7 +97,7 @@ Miesięczny trend rozkładu klientów w wybranym zakresie dat według rynków, s
 
 Wykres trendu miesięcznego porównujący aktywnych i całkowitych klientów dla wybranego zakresu dat. Kolumny reprezentują liczbę aktywnych klientów w każdym miesiącu, a wiersz reprezentuje łączną liczbę klientów w każdym miesiącu. 
 
-:::image type="content" source="images/insights/active-customer.png" alt-text="Zrzut ekranu Partner Center Szczegółowe informacje raport aktywnych klientów przedstawiający wykresy słupkowe w czasie dla aktywnych klientów.":::
+:::image type="content" source="images/insights/active-customer.png" alt-text="Zrzut ekranu Partner Center Szczegółowe informacje raport aktywnych klientów przedstawiający wykresy słupkowe w czasie aktywnych klientów.":::
 
 ## <a name="next-steps"></a>Następne kroki
 

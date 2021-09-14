@@ -10,11 +10,11 @@ ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 08672379e300eccf18a0a1f0cfc1e41b4b7dbc91
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961566"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247281"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Rozwiązywanie problemów z konfiguracją konta lub odnawianiem MPN
 
@@ -31,9 +31,9 @@ Nie można zmienić szczegółów na tym ekranie. Jest to projektowe, a nie bł�
 Aby kontynuować, wybierz **pozycję Zaakceptuj,** a następnie wybierz pozycję **Kontynuuj.**
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Jeśli dział IT wyłączył logowanie **do** Partner Center
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Jeśli dział IT wyłączył opcji Zarejestruj **się w celu Partner Center**
 
-Zostanie wyświetlony ten komunikat, ponieważ użytkownicy marketingowi są wyłączeni lub w dzierżawie usługi Azure Active Directory (AD). Administrator globalny konta usługi Azure AD może włączyć wymagane funkcje, uruchamiając następujące polecenie programu PowerShell:
+Ten komunikat jest wyświetlany, ponieważ użytkownicy marketingowi są wyłączeni lub w dzierżawie usługi Azure Active Directory (AD). Administrator globalny konta usługi Azure AD może włączyć wymagane funkcje, uruchamiając następujące polecenie programu PowerShell:
 
 **Set-MsolCompanySettings -AllowEmailVerifiedUsers $true -AllowAdHocSubscriptions $true**
 

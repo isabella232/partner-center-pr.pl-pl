@@ -10,28 +10,28 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
 ms.openlocfilehash: 627c6f8d09a904e7d988c4229ec10eeac38dc2e9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957957"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246363"
 ---
-# <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Zarządzanie rezerwacjami klientów, anulowanie ich, wymiana Microsoft Azure zwrot kosztów
+# <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Zarządzanie rezerwacjami, anulowanie, wymiana lub zwrot kosztów Microsoft Azure dla klientów
 
-**Odpowiednie role:** Administrator | Administrator globalny | Agent pomocy technicznej | Agent sprzedaży | Administrator zarządzania użytkownikami
+**Odpowiednie role:** Agent administracyjny | Administrator globalny | Agent pomocy technicznej | Agent sprzedaży | Administrator zarządzania użytkownikami
 
 W tym artykule wyjaśniono, jak zarządzać rezerwacjami platformy Azure dla klienta, w tym jak anulować rezerwację, wymienić rezerwację lub zażądać zwrotu kosztów.
 
 > [!NOTE]
-> Ten artykuł dotyczy tylko partnerów w programie Dostawca rozwiązań w chmurze (CSP). Klienci korzystający z innych typów subskrypcji (takich jak subskrypcje z płatnością zgodnie z użyciem, indywidualny, Umowa z Klientem Microsoft lub Enterprise Agreement) powinni zamiast tego przeczytać tę dokumentację rezerwacji platformy [Azure.](/azure/cost-management-billing/reservations)
+> Ten artykuł dotyczy tylko partnerów w programie Dostawca rozwiązań w chmurze (CSP). Klienci korzystający z innych typów subskrypcji (takich jak subskrypcje z płatnością zgodnie z użyciem, indywidualne, Umowa z Klientem Microsoft lub Enterprise Agreement) powinni zamiast tego przeczytać tę dokumentację rezerwacji platformy [Azure.](/azure/cost-management-billing/reservations)
 
 Aby zarządzać rezerwacjami platformy Azure klientów po zakupie, należy wybrać klienta i rezerwację, którą chcesz zarządzać w usłudze Partner Center, a następnie wprowadzić zmiany w rezerwacji w Azure Portal.
 
-1. Aby rozpocząć, wybierz **pozycję Klienci** z menu Partner Center a następnie wybierz klienta, którego rezerwacje chcesz zarządzać. 
+1. Aby rozpocząć, wybierz **pozycję Klienci** z menu Partner Center a następnie wybierz klienta, którego rezerwacjami chcesz zarządzać. 
 
-2. W menu strony szczegółów klienta wybierz pozycję **Rezerwacje platformy Azure,** a następnie wybierz określoną rezerwację, którą chcesz zarządzać.  
+2. W menu strony szczegółów klienta wybierz pozycję Rezerwacje platformy **Azure,** a następnie wybierz określoną rezerwację, którą chcesz zarządzać.  
 
-3. W **obszarze** Akcje wybierz **pozycję Zarządzaj,** aby przejść do rekordu rezerwacji klienta w Azure Portal. Na stronie szczegółów rezerwacji wykonaj poniższe kroki, aby wykonać zadania.  
+3. W **obszarze** Akcje wybierz pozycję **Zarządzaj,** aby przejść do rekordu rezerwacji klienta w Azure Portal. Na stronie szczegółów rezerwacji wykonaj poniższe kroki, aby wykonać zadania.  
 
     | **Wybierz**   | **Do**    |
     |:-----------------------------|:-----------------|
@@ -43,23 +43,23 @@ Aby zarządzać rezerwacjami platformy Azure klientów po zakupie, należy wybra
  
 ## <a name="cancel-or-exchange-a-reservation"></a>Anulowanie lub wymiana rezerwacji
 
-Jeśli w dowolnym momencie potrzeby biznesowe klienta zmienią się, może on chcieć anulować rezerwację i uzyskać zwrot lub wymienić proporcjonalną kwotę zwrotu rezerwacji na cenę nowej rezerwacji.
+Jeśli w którymkolwiek momencie potrzeby biznesowe klienta zmienią się, może on chcieć anulować rezerwację i uzyskać zwrot lub wymienić proporcjonalną kwotę zwrotu rezerwacji, która ma zostać użyta na cenę nowej rezerwacji.
 
-W obu tych scenariuszach firma Microsoft zwraca ci kwotę, dzięki czemu możesz zarządzać wynikowe transakcje finansowe z klientami. Firma Microsoft nie kontaktuje się bezpośrednio z klientami w sprawie rozliczeń, anulowania ani zwrotów kosztów.
+W obu tych scenariuszach firma Microsoft zwraca ci kwotę, aby można było zarządzać wynikowych transakcji finansowych z klientami. Firma Microsoft nie kontaktuje się bezpośrednio z klientami w sprawie rozliczeń, anulowania ani zwrotów.
 
 ### <a name="how-cancellations-work"></a>Jak działają anulowania
 
-Klienci mogą zażądać anulowania rezerwacji w dowolnym momencie (kwota zwrotu ograniczona do 50 000 USD rocznie). Anulowanie rezerwacji umożliwia klientowi zwrócenie kwoty pozostałych miesięcy rezerwacji platformy Azure za opłatę za wcześniejsze zakończenie. Pozostałe proporcjonalnie saldo pomniejszone o opłatę za wcześniejsze zakończenie jest zwracane na Twoje konto, dzięki czemu możesz uzyskać zwrot kosztów konta klienta. 
+Klienci mogą zażądać anulowania rezerwacji w dowolnym momencie (kwota zwrotu ograniczona do 50 000 USD rocznie). Anulowanie rezerwacji umożliwia klientowi zwrócenie kwoty pozostałych miesięcy rezerwacji platformy Azure za opłatę za wcześniejsze zakończenie. Pozostałe saldo proporcjonalnie pomniejszone o opłatę za wcześniejsze zakończenie jest zwracane na Twoje konto, dzięki czemu możesz uzyskać zwrot kosztów konta klienta. 
 
 Poniżej znajdują się szczegółowe informacje o anulowaniu i opłatach.
 
 
-|**Data anulowania**<br> (dni)   |**Użycie**    |**Środki**  |**Wczesne zakończenie**<br> Opłata    |**Limit zwrotu pieniędzy** | 
+|**Data anulowania**<br> (dni)   |**Użycie**    |**Środki**  |**Wcześniejsze zakończenie**<br> Opłata    |**Limit zwrotu pieniędzy** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
 |5 lub mniej                         | Nie          | 100%       | Nie                              | 50 000 USD   |
-|5 lub mniej                         | Tak         | Pro do oceny  | Nie                              | 50 000 USD   |
-|Więcej niż 5                        | Nie          | Pro do oceny  | 12%                             | 50 000 USD   |
-|Więcej niż 5                        | Tak         | Pro do oceny  | 12%                             | 50 000 USD   |
+|5 lub mniej                         | Tak         | Pro oceniane  | Nie                              | 50 000 USD   |
+|Więcej niż 5                        | Nie          | Pro oceniane  | 12%                             | 50 000 USD   |
+|Więcej niż 5                        | Tak         | Pro oceniane  | 12%                             | 50 000 USD   |
 
 ### <a name="how-exchanges-work"></a>Jak działają wymiany 
 
@@ -67,28 +67,28 @@ Jeśli klient chce kupić inną rezerwację niż ta, która została pierwotnie 
 
 Proporcjonalna kwota zwrotu jest uwzględniana na Twoim koncie, dzięki czemu możesz zaoferować klientowi wymianę.
 
-## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>Żądanie zwrotu lub wymiany w imieniu klienta
+## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>Żądanie zwrotu pieniędzy lub wymiany w imieniu klienta
 
-Aby złożyć wniosek o pomoc techniczną w sprawie zwrotu lub wymiany w imieniu klientów, należy wybrać klienta i rezerwację w u Partner Center, a następnie utworzyć wniosek o pomoc techniczną w Azure Portal. 
+Aby złożyć wniosek o pomoc techniczną w celu zwrotu pieniędzy lub wymiany w imieniu klientów, wybierz klienta i rezerwację w Partner Center, a następnie utwórz wniosek o pomoc techniczną w Azure Portal. 
 
 >[!NOTE]
 >Pomoc techniczna Microsoft mogą poprosić o podanie identyfikatora rezerwacji i identyfikatora zamówienia rezerwacji. Te informacje można znaleźć na stronie Właściwości **rezerwacji** w Azure Portal.
 
-1. Aby rozpocząć, wybierz **pozycję Klienci** z Partner Center menu, a następnie wybierz klienta, który chce uzyskać zwrot. 
+1. Aby rozpocząć, wybierz **pozycję Klienci** z menu Partner Center a następnie wybierz klienta, który chce uzyskać zwrot. 
 
-2. Na stronie szczegółów klienta wybierz pozycję **Rezerwacje platformy Azure,** a następnie wybierz konkretną rezerwację, dla których klient chce otrzymać zwrot kosztów.  
+2. Na stronie szczegółów klienta wybierz pozycję Rezerwacje platformy **Azure,** a następnie wybierz określoną rezerwację, która ma zostać zwrócona przez klienta.  
 
-3. W **obszarze** Akcje wybierz **pozycję Zwrot,** aby przejść do rekordu rezerwacji klienta w Azure Portal i zainicjować żądanie pomocy technicznej.  
+3. W **obszarze** Akcje wybierz pozycję **Zwrot,** aby przejść do rekordu rezerwacji klienta w Azure Portal i zainicjować żądanie pomocy technicznej.  
 
-4. Na stronie **Nowy wniosek o** pomoc techniczną wykonaj poniższe kroki, aby zażądać zwrotu pieniędzy. Po **każdym kroku** wybierz pozycję Dalej. 
+4. Na stronie **Nowy wniosek** o pomoc techniczną wykonaj poniższe kroki, aby zażądać zwrotu kosztów. Po **każdym kroku** wybierz pozycję Dalej. 
 
    |**Krok**                    |**Wybór**    |
    |:---------------------------|:-----------------|
-   |**1 Podstawowe informacje**                |Typ problemu: Rozliczenia.  |
+   |**1 Podstawy**                |Typ problemu: Rozliczenia.  |
    |**2 Problem**               |Typ problemu: Zarządzanie rezerwacjami. Kategoria: Wymiany i zwroty. |
    |**3 Informacje kontaktowe**   |Wybierz preferencje i wprowadź wymagane informacje. 
 
-5. Gdy **wszystko będzie gotowe,** wybierz pozycję Utwórz.
+5. Po **utworzeniu wybierz** pozycję Utwórz.
 
 ## <a name="azure-reservations-resources"></a>Zasoby rezerwacji platformy Azure
 
@@ -97,5 +97,5 @@ Aby złożyć wniosek o pomoc techniczną w sprawie zwrotu lub wymiany w imieniu
 |Rezerwacje platformy Azure w programie CSP — omówienie  | [Sprzedaż Microsoft Azure wystąpień zarezerwowanych](azure-reservations.md) |
 |Kupowanie rezerwacji platformy Azure dla klientów w Partner Center   | [Kupowanie rezerwacji platformy Azure](azure-reservations-buying.md) |
 |Określanie prawidłowego rozmiaru maszyny wirtualnej i weryfikowanie użycia maszyny wirtualnej klienta   | [Rozmiar maszyny wirtualnej dla maksymalnego użycia rezerwacji platformy Azure](azure-usage.md)   |
-|Kupowanie rezerwacji platformy Azure przy użyciu interfejsu API Partner Center azure | [Informacje Azure Reserved VM Instances](/partner-center/develop/purchase-azure-reservations) w dokumentacji Partner Center deweloperów   |
-|Udzielenie klientom uprawnień do zakupu własnych rezerwacji platformy Azure w ramach zakupionej dla nich subskrypcji. | [Nadaj klientom uprawnienia do zakupu własnych rezerwacji platformy Azure](give-customers-permission.md)   |
+|Kupowanie rezerwacji platformy Azure przy użyciu interfejsu PARTNER CENTER API | [Informacje Azure Reserved VM Instances](/partner-center/develop/purchase-azure-reservations) w dokumentacji Partner Center dewelopera   |
+|Udzielanie klientom uprawnień do zakupu własnych rezerwacji platformy Azure w ramach zakupionej dla nich subskrypcji. | [Nadaj klientom uprawnienia do zakupu własnych rezerwacji platformy Azure](give-customers-permission.md)   |

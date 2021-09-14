@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
-description: Dowiedz się więcej Dostawca rozwiązań w chmurze (CSP) dotyczących partnerów rozliczanych bezpośrednio oraz dowiedz się, co zrobić, aby uniknąć ograniczenia możliwości. Sprawdź, czy Twoje możliwości zostały ograniczone.
+description: Dowiedz się więcej Dostawca rozwiązań w chmurze (CSP) dotyczące partnerów rozliczanych bezpośrednio oraz dowiedz się, co zrobić, aby uniknąć ograniczenia możliwości. Dowiedz się, czy Twoje możliwości zostały ograniczone.
 author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: edb67f6ae3054bf5214611ab3ac5ef4ed6713aef
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958857"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248154"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Ograniczone możliwości dotyczące rachunku bezpośredniego i wymagania wymagane dla partnerów rozliczanych bezpośrednio w programie CSP
 
@@ -35,7 +35,7 @@ Aby sprawdzić, czy dostęp z dzierżawy partnera z rozliczeniami bezpośrednimi
 
 2. Przejdź do **ustawień konta Profil**  >  **prawny.**
 
-3. W **obszarze Informacje o** programie poszukaj Microsoft Cloud Solution Provider **stanu**.
+3. W **obszarze Informacje o** programie **odszukaj Microsoft Cloud Solution Provider stan .**
 
 4. Jeśli stan programu ma **ograniczoną** wartość , oznacza to, że dostęp dzierżawy partnera z rozliczeniami bezpośrednimi do funkcji rachunku bezpośredniego został ograniczony.
 
@@ -49,7 +49,7 @@ Jeśli możliwości rachunku bezpośredniego zostały ograniczone, nie możesz j
 
 - Dodaj nowe dodatki do istniejących subskrypcji opartych na licencjach.
 
-- Dokonaj zakupów oprogramowania i produktów rezerwacji w ramach jednego czasu (na przykład subskrypcji oprogramowania, oprogramowania bezterminowego i wystąpień zarezerwowanych maszyn wirtualnych platformy Azure).
+- Dokonaj zakupów oprogramowania i produktów zarezerwowanych (na przykład subskrypcji oprogramowania, oprogramowania bezterminowego i wystąpień zarezerwowanych maszyn wirtualnych platformy Azure).
 
 Nie można również użyć oferty usług udostępnionych dla partnerów platformy [Azure](shared-services.md) w ramach programu CSP, aby zakupić nowe subskrypcje platformy Azure na własny użytek.
 
@@ -75,7 +75,7 @@ Oprócz nowych zakupów nie można uzyskać dostępu do następujących funkcji 
     >[!NOTE]
     >W ramach przejścia z partnera z rozliczeniami bezpośrednimi do odsprzedawcy pośredniego, jeśli dzierżawa partnera z rozliczeniami bezpośrednimi została już zarejestrowane jako odsprzedawca pośredni, możesz zamiast tego wygenerować zaproszenie do klienta z żądaniem relacji odsprzedawcy pośredniego.
 
-- Nie można utworzyć nowej dzierżawy piaskownicy. Każda dzierżawa partnera z rozliczeniami bezpośrednimi może utworzyć jedną dzierżawę piaskownicy dla integracji interfejsu API z rozliczeniami bezpośrednimi. Jeśli jeszcze nie utworzono takiego konta, nie możesz tego zrobić po ograniczeniu możliwości partnera z rozliczeniami bezpośrednimi.  
+- Nie można utworzyć nowej dzierżawy piaskownicy. Każda dzierżawa partnera z rozliczeniami bezpośrednimi może utworzyć jedną dzierżawę piaskownicy dla integracji interfejsu API z rozliczeniami bezpośrednimi. Jeśli jeszcze nie utworzono takiego konta, nie możesz tego zrobić po ograniczeniu możliwości partnera rozliczania bezpośredniego.  
 
 ## <a name="next-steps"></a>Następne kroki
 

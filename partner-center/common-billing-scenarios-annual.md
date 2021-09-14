@@ -4,27 +4,27 @@ ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
-description: Partner Center rozliczenia roczne — podczas dodawania nowych subskrypcji, dodawania licencji przed datą rozliczeń, zmieniania ilości licencji lub wstrzymywania/ponownego aktywowania subskrypcji.
+description: Partner Center rozliczenia roczne — podczas dodawania nowych subskrypcji, dodawania licencji przed datą rozliczeniową, zmieniania liczby licencji lub wstrzymywania/ponownego aktywowania subskrypcji.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 9cf6ddd8ed73fcd9a7ee20a180072ad51cc5b7c4
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958018"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247053"
 ---
 # <a name="common-annual-billing-scenarios-in-partner-center"></a>Typowe roczne scenariusze rozliczeń w Partner Center
 
-**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Agent pomocy | Agent sprzedaży
+**Odpowiednie role:** Administrator | Administrator rozliczeń | Agent pomocy technicznej | Agent sprzedaży
 
 Te [przykładowe typowe scenariusze rozliczeń](common-billing-scenarios.md) mają zastosowanie w przypadku korzystania z rozliczeń rocznych w Partner Center.
 
 ## <a name="new-annual-subscription"></a>Nowa roczna subskrypcja
 
-Data rozliczenia to 15. dzień każdego miesiąca. 13 stycznia kupujesz nową subskrypcję z jedną licencją na 4 USD/miesiąc i wybierasz rozliczenia roczne. Plik uzgodnień oparty na licencjach z 15 stycznia będzie zawierać następujący wiersz rozliczeń:
+Data rozliczenia to 15. dzień każdego miesiąca. 13 stycznia zakupisz nową subskrypcję z jedną licencją na 4 USD/miesiąc i wybierzesz rozliczenia roczne. Plik uzgodnień oparty na licencjach z 15 stycznia będzie zawierać następujący wiersz rozliczeń:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -36,35 +36,35 @@ Kupujesz nową subskrypcję w dniu 11.02.2017 r. z jedną licencją za 211,20 US
 
 - Opłata w wysokości 211,20 USD za okres 2/11/17 – 2/10/18.
 
-12.02.17 kupujesz drugą licencję. Data rozliczenia to 14.02.17. Generowana jest faktura i plik uzgodnień. Plik uzgodnień będzie zawierać następujące wiersze rozliczeń:
+W dniu 12.02.2017 kupujesz drugą licencję. Data rozliczenia to 14.02.17. Generowana jest faktura i plik uzgodnień. Plik uzgodnień będzie zawierać następujące wiersze rozliczeń:
 
 |Data rozpoczęcia opłaty  |Data zakończenia opłaty  |Typ opłaty  |Cena jednostkowa |Liczba | Kwota |
 |      :---:   |      :---:   |      :---:   |      :---:   |:---:   |:---:   |
-|2/11/2017 |2/10/2018 |Naliczanie opłat przy zakupie |211.20 |1 | 211.20 |
+|2/11/2017 |2/10/2018 |Naliczanie opłat podczas zakupu |211.20 |1 | 211.20 |
 
-W rocznicę subskrypcji, 11.03.17, system rozliczeniowy firmy Microsoft tworzy następujące wiersze rozliczeń dla zwiększenia liczby licencji w dniu 12.02.17:
+W rocznicę subskrypcji, 11.03.17, system rozliczeniowy firmy Microsoft tworzy następujące wiersze rozliczeń dla zwiększenia liczby licencji w dniu 12.02.2017 r.:
 
-- 211,20 USD środków na okres 2/11/17 – 2/10/18.
-- Opłata proporcjonalna w wysokości 0,58 USD za licencję dla jednej licencji w okresie 2/11/17 – 2/11/17.
-- Opłata proporcjonalna w wysokości 15,62 USD za licencję dla dwóch licencji w okresie 2/12/17 – 3/10/2017.
-- Opłata proporcjonalna w wysokości 195,00 USD za licencję dla dwóch licencji w okresie od 3.11.2017 r. do 10.02.2018 r.
+- Kredyt w wysokości 211,20 USD dla okresu 2/11/17 – 2/10/18.
+- Opłata proporcjonalna w wysokości 0,58 USD za jedną licencję w okresie 2/11/17 – 2/11/17.
+- Opłata proporcjonalna w wysokości 15,62 USD za licencję dla dwóch licencji w okresie od 2.12.17 do 10.03.2017.
+- Opłata proporcjonalna w wysokości 195,00 USD za licencję dla dwóch licencji w okresie od 11.03.2017 r. do 10.02.2018 r.
 
-11.02.17 kupujesz subskrypcję. 12.02.17 dodasz licencję. Data rozliczenia to 14.02.17. 11.02.18 subskrypcja zostanie odnowiona.
+W dniu 11.02.2017 kupujesz subskrypcję. W dniu 12.02.2017 dodasz licencję. Data rozliczenia to 14.02.17. 11.02.18 subskrypcja zostanie odnowiona.
 
-Następna data rozliczeniowa to 14.03.17. Zostanie wygenerowana faktura i plik uzgodnień. Plik uzgodnień będzie zawierać następujące wiersze rozliczeń:
+Następna data rozliczenia to 14.03.17 i zostanie wygenerowany plik faktury i uzgodnień. Plik uzgodnień będzie zawierać następujące wiersze rozliczeń:
 
 |Data rozpoczęcia opłaty  |Data zakończenia opłaty  |Typ opłaty  |Cena jednostkowa |Liczba | Kwota |
 |      :---:   |      :---:   |      :---:   |      :---:   |:---:   |:---:   |
-|2/11/2017 |2/10/2018 |Cykl prorate wystąpienia |-211.20 |1 |-211.20 |
-|2/11/2017 |2/11/2017 |Cykl prorate wystąpienia |0.58 |1 |0.58 |
-|2/12/2017 |3/10/2017 |Cykl prorate wystąpienia |15.62 |2 |31.25 |
-|3/11/2017 |2/10/2018 |Cykl prorate wystąpienia |195.00 |2 |390.00 |
+|2/11/2017 |2/10/2018 |Cykl wystąpienia prorate |-211.20 |1 |-211.20 |
+|2/11/2017 |2/11/2017 |Cykl wystąpienia prorate |0.58 |1 |0.58 |
+|2/12/2017 |3/10/2017 |Cykl wystąpienia prorate |15.62 |2 |31.25 |
+|3/11/2017 |2/10/2018 |Cykl wystąpienia prorate |195.00 |2 |390.00 |
 
-11.02.18 subskrypcja zostanie odnowiona na kolejny 12-miesięczny okres.
+11.02.18 subskrypcja jest odnawiana na kolejny 12-miesięczny okres.
 
 ## <a name="change-license-quantity"></a>Zmień liczbę licencji
 
-Data rozliczenia to 15. dzień każdego miesiąca. 13 stycznia kupujesz nową subskrypcję z jedną licencją na 4 USD/miesiąc i wybierasz rozliczenia roczne. Plik uzgodnień oparty na licencjach z 15 stycznia będzie zawierać następujący wiersz rozliczeń:
+Data rozliczenia to 15. dzień każdego miesiąca. 13 stycznia zakupisz nową subskrypcję z jedną licencją na 4 USD/miesiąc i wybierzesz rozliczenia roczne. Plik uzgodnień oparty na licencjach z 15 stycznia będzie zawierać następujący wiersz rozliczeń:
 
 |Data rozpoczęcia opłaty |Data zakończenia opłaty |Typ opłaty |Cena jednostkowa |Liczba |Kwota |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |

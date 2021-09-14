@@ -10,11 +10,11 @@ ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
 ms.openlocfilehash: a980d35104f2fe7aad0117f3515a61ecf217a2b9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958534"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246945"
 ---
 # <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Podstawowe wymagania dotyczące działań w programie zachęt
 
@@ -201,7 +201,7 @@ W poniższych tabelach przedstawiono podstawowe wymagania dotyczące poszczegól
 | Metryki     | NA |
 |Kwalifikujące się wydatki    | NA |
 
- Aby uzyskać szczegółowe informacje, pobierz [podręcznik](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) współpracy zachęt dla partnerów (wymagane jest zalogowanie).
+ Aby uzyskać szczegółowe informacje, pobierz podręcznik współpracy zachęt dla [partnerów](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (wymagane jest zalogowanie).
 
 ## <a name="next-steps"></a>Następne kroki
 

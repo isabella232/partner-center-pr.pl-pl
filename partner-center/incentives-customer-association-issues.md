@@ -9,11 +9,11 @@ ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
 ms.openlocfilehash: 8f1c087911e6dd7e58182c99e2b97b7a6b2246d8
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958617"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248112"
 ---
 # <a name="issues-with-claimed-partner-of-record-cpor-customer-associations"></a>Problemy ze skojarzeniami klientów WCPOR (Claimed Partner of Record)
 
@@ -48,7 +48,7 @@ W przypadku żądania subskrypcji wystąpi błąd, jeśli subskrypcja nie zosta�
 
 ## <a name="which-activity-do-i-choose"></a>Które działanie wybrać?
 
-Platforma oświadczeń CPOR umożliwia oświadczenia skojarzenia CPOR związane z Business Applications i Microsoft 365 rozwiązaniami. Poniżej przedstawiono działania, które mają zastosowanie do każdego obszaru rozwiązania. Wybierz odpowiednie działanie na podstawie opisów, aby uniknąć konieczności odzyskiwania w przyszłości. Oświadczenie o nieprawidłowym działaniu może spowodować nieuprawnną kwalifikowalność i zarobki zachęt.
+Platforma oświadczeń CPOR umożliwia oświadczenia skojarzenia CPOR związane Business Applications i Microsoft 365 rozwiązania. Poniżej przedstawiono działania, które mają zastosowanie do każdego obszaru rozwiązania. Wybierz odpowiednie działanie na podstawie opisów, aby uniknąć konieczności odzyskiwania w przyszłości. Oświadczenie o nieprawidłowym działaniu może spowodować nieuprawnną kwalifikowalność i zarobki zachęt.
 
 
 | Obszar rozwiązania | Działanie | Dotyczy |

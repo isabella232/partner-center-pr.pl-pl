@@ -12,18 +12,18 @@ ms.custom:
 ms.localizationpriority: high
 ms.date: 08/30/2021
 ms.openlocfilehash: 78c8a559e589a71566db7fa9f20e0c5647854d8c
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "124343153"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246520"
 ---
 # <a name="august-2021-announcements"></a>Ogłoszenia z sierpnia 2021 r.
 
 Ta strona zawiera ogłoszenia dotyczące usługi Microsoft Partner Center na sierpień 2021 r.
 
 ________________
-## <a name="privacy-management-for-microsoft-365-launch-is-delayed"></a><a name="20"></a>Zarządzanie prywatnością dla Microsoft 365 startu jest opóźnione
+## <a name="privacy-management-for-microsoft-365-launch-is-delayed"></a><a name="20"></a>Zarządzanie prywatnością Microsoft 365 uruchamiania jest opóźnione
 
 ### <a name="summary"></a>Podsumowanie
 
@@ -83,9 +83,9 @@ Dostawcy bezpośredni, dostawcy pośredni i odsprzedawcy pośredni
 
 Windows Serwer 2022, kolejna wersja kanału Long-Term Servicing Channel (LTSC), umożliwia klientom uruchamianie istniejących i nowych aplikacji o krytycznym znaczeniu dla firmy z pewnością na platformie Azure, lokalnie i na brzegu sieci.
 
-Windows Serwer 2022 wprowadza zaawansowane zabezpieczenia wielowarstwowe, możliwości hybrydowe na platformie Azure i elastyczną platformę aplikacji. W ramach tej ogólnej dostępności zapewniamy programowi Windows Server funkcje zabezpieczonego rdzenia w celu zabezpieczenia systemów, które będą uruchamiać obciążenia na serwerze Windows Server 2022. Serwer zabezpieczony bazuje na technologiach, takich jak Windows Defender System Guard i zabezpieczenia oparte na wirtualizacji, aby zminimalizować ryzyko związane z lukami w zabezpieczeniach oprogramowania układowego i zaawansowanym złośliwym oprogramowaniem. Nowa wersja zapewnia również bezpieczną łączność, wprowadzając kilka nowych funkcji, takich jak szybsze i bezpieczniejsze szyfrowane połączenia HTTPS oraz standardowe w branży szyfrowanie SMB AES 256.
+Windows Serwer 2022 wprowadza zaawansowane zabezpieczenia wielowarstwowe, możliwości hybrydowe na platformie Azure i elastyczną platformę aplikacji. W ramach tej ogólnej dostępności zapewniamy serwerowi Windows Server funkcje zabezpieczonego rdzenia w celu zabezpieczenia systemów, które będą uruchamiać obciążenia na serwerze Windows Server 2022. Serwer z zabezpieczoną rdzenią bazuje na technologiach, takich jak Windows Defender System Guard i zabezpieczenia oparte na wirtualizacji, aby zminimalizować ryzyko związane z lukami w zabezpieczeniach oprogramowania układowego i zaawansowanym złośliwym oprogramowaniem. Nowa wersja zapewnia również bezpieczną łączność, wprowadzając kilka nowych funkcji, takich jak szybsze i bezpieczniejsze szyfrowane połączenia HTTPS oraz standardowe w branży szyfrowanie SMB AES 256.
 
-Windows Serwer 2022 usprawnia hybrydowe zarządzanie serwerem dzięki znacznie ulepszonemu zarządzaniu maszynami wirtualnymi, ulepszonemu podglądowi zdarzeń i wielu innym nowym możliwościom w Windows administracyjnym. Ponadto ta wersja zawiera znaczące ulepszenia kontenera Windows, takie jak mniejszy rozmiar obrazu w celu szybszego pobierania, uproszczone wdrażanie zasad sieciowych i narzędzia konteneryzacji dla aplikacji .NET.
+Windows Serwer 2022 usprawnia hybrydowe zarządzanie serwerem dzięki znacznie ulepszonemu zarządzaniu maszynami wirtualnymi, ulepszonemu podglądowi zdarzeń i wielu Windows administracyjnym. Ponadto ta wersja zawiera znaczące ulepszenia kontenera Windows, takie jak mniejszy rozmiar obrazu w celu szybszego pobierania, uproszczone wdrażanie zasad sieciowych i narzędzia konteneryzacji dla aplikacji .NET.
 
 ### <a name="additional-resources"></a>Dodatkowe zasoby
 
@@ -123,7 +123,7 @@ ________________
 
 ### <a name="summary"></a>Podsumowanie
 
-Od 1 września 2021 r. firma Microsoft włączy oparte na stanowiskoch oferty zintegrowanego testowania piaskownicy w nowym środowisku handlowym dla programu Dostawca rozwiązań w chmurze (CSP).
+Od 1 września 2021 r. firma Microsoft włączy oparte na stanowisko oferty zintegrowanego testowania piaskownicy w nowym środowisku handlowym dla programu Dostawca rozwiązań w chmurze (CSP).
 
 ### <a name="categories"></a>Kategorie
 
@@ -190,7 +190,7 @@ Przejrzyj zasoby dotyczące tego tematu i udostępnij informacje odpowiednim ucz
 
 Jeśli Organizacja aprowizowała zintegrowane środowisko piaskownicy, nie jest wymagana żadna akcja. Jeśli jednak Twoja organizacja nie ma zintegrowanego środowiska piaskownicy, wykonaj [następujące](/partner-center/develop/indirect-provider-sandbox-capabilities) kroki, aby je utworzyć.
 
-Aby uzyskać pomoc techniczną, opublikuj konwersacje na stronie [zestaw SDK Centrum partnerskiego api Yammer grupę](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=6589502) lub zaloguj bilet pomocy technicznej.
+Aby uzyskać pomoc techniczną, opublikuj konwersacje w grupie zestaw SDK Centrum partnerskiego api [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=6589502) lub zaloguj bilet pomocy technicznej.
 
 ### <a name="questions"></a>Masz pytania?
 
@@ -257,7 +257,7 @@ GCC partnerom transakcje za pośrednictwem programu CSP
 
 ### <a name="details"></a>Szczegóły
 
-Z przyjemnością ogłaszamy dostępność nowego doświadczenia handlowego w programie CSP dla platformy Azure dla wszystkich GCC partnerów. To środowisko usprawni i usprawni sposób, w jaki klienci kupują usługi platformy Azure i z których będą korzystać. Zapewni ona również partnerom w programie CSP spójny widok cen platformy Azure w ruchach sprzedaży, ceny w dolarach amerykańskich dla globalnej spójności, dostosowania daty rozliczeń i dostępu do Azure Cost Management. W programie mamy również [funkcję, która Partner Center](../azure-plan-transition.md) partnerom programu CSP przenoszenie klientów z istniejących ofert CSP platformy Azure do usług platformy Azure w ramach planu platformy Azure.
+Z przyjemnością ogłaszamy dostępność nowego doświadczenia handlowego w programie CSP dla platformy Azure dla wszystkich GCC partnerów. To środowisko usprawni i usprawni sposób, w jaki klienci kupują usługi platformy Azure i z których będą korzystać. Zapewni ona również partnerom w programie CSP spójny widok cen platformy Azure w zakresie sprzedaży, cen w dolarach amerykańskich na temat globalnej spójności, dostosowania daty rozliczeń i dostępu do Azure Cost Management. W programie mamy również [funkcję, która Partner Center](../azure-plan-transition.md) partnerom programu CSP przenoszenie klientów z istniejących ofert CSP platformy Azure do usług platformy Azure w ramach planu platformy Azure.
 
 ### <a name="next-steps"></a>Następne kroki
 
@@ -266,7 +266,7 @@ Dostępnych jest kilka zasobów, które wprowadzają nowe środowisko handlowe p
 #### <a name="change-log"></a>Dziennik zmian
 
 - **26 lipca 2021 r.** — oryginalne zawiadomienie
-- **24 sierpnia 2021 r.** — oferta jest teraz żywa dla GCC partnerów
+- **24 sierpnia 2021 r.** — oferta jest teraz na żywo dla GCC partnerów
 
 ________________
 ## <a name="phase-2-now-live-euefta-and-uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="15"></a>Faza 2 jest teraz na żywo: Zmiana waluty rozliczeniowej partnera dla nowych ofert handlowych w Unii Europejskiej/KRAJACH i Zjednoczonym Królestwie
@@ -339,7 +339,7 @@ W przypadku pytań związanych z tym powiadomieniem skontaktuj się [Partner Cen
     - Faza 2 jest teraz żywa i zostanie wsadowo wycofyowana dla partnerów w tygodniu od 23 sierpnia 2021 r.
 
 ________________
-## <a name="new-commerce-experience-for-microsoft-365-dynamics-365-power-platform-and-windows-365-seat-based-for-breadth-motion"></a><a name="14"></a>Nowe środowisko handlowe dla Microsoft 365, Dynamics 365, Power Platform i Windows 365 na podstawie miejsca na podstawie szerokości ruchu
+## <a name="new-commerce-experience-for-microsoft-365-dynamics-365-power-platform-and-windows-365-seat-based-for-breadth-motion"></a><a name="14"></a>Nowe środowisko handlowe dla Microsoft 365, Dynamics 365, Power Platform i Windows 365 na podstawie miejsca na szerokość
 
 ### <a name="summary"></a>Podsumowanie
 
@@ -385,7 +385,7 @@ Aby pomóc partnerom przygotować się do ogólnej dostępności w październiku
 
 #### <a name="selling-windows-365-in-the-new-commerce-experience"></a>Selling Windows 365 in the new commerce experience
 
-Windows 365, ogłoszone w lipcu 2021 r. i uruchomione jako produkt w sierpniu 2021 r., to pierwszy na świecie komputer w chmurze dla każdej organizacji, bezpiecznego przesyłania strumieniowego środowiska usługi Windows, w tym komputerów stacjonarnych, aplikacji, mocy obliczeniowej, magazynu i innych, do dowolnego urządzenia klienta.* Środowisko komputera w chmurze można skalować zgodnie z potrzebami klientów i można je łatwo wdrożyć bez konieczności specjalistycznej wiedzy zwirtualizowanej infrastruktury pulpitu .*
+Windows 365, ogłoszone w lipcu 2021 r. i uruchomione jako produkt w sierpniu 2021 r., to pierwszy na świecie komputer w chmurze dla każdej organizacji, bezpiecznego przesyłania strumieniowego środowiska usługi Windows, w tym komputerów stacjonarnych, aplikacji, mocy obliczeniowej, magazynu i innych, na dowolne urządzenie klienta.* Środowisko komputera w chmurze można skalować zgodnie z potrzebami klientów i można je łatwo wdrożyć bez konieczności specjalistycznej wiedzy zwirtualizowanej infrastruktury pulpitu (VDI).
 
 (*Wymagany jest dostęp do Internetu, mogą obowiązywać opłaty. Aby uzyskać listę obsługiwanych urządzeń, zobacz często zadawane pytania dotyczące usługi Windows [365).](https://aka.ms/Windows365/Partner002)
 
@@ -408,7 +408,7 @@ Powyższy harmonogram zapewnia partnerom czas na zrozumienie i zoperacyjność n
 
 #### <a name="future-capabilities-for-new-commerce-in-csp"></a>Przyszłe możliwości nowego handlu w programie CSP
 
-W 2022 r. dodatkowe funkcje i nowe oferty będą dostępne wyłącznie dla nowego handlu.  Na przykład bieżące plany usługi Microsoft 365 (mogą ulec zmianie) obejmują oferty na okres trzech lat, korzyści użycia hybrydowego (HUB), program home use program (HUP) i dodatki do wielu regionów geograficznych. Partnerzy będą również mogli dopasować terminy zakończenia nowych i istniejących subskrypcji.  
+W 2022 r. dodatkowe funkcje i nowe oferty będą dostępne wyłącznie dla nowego handlu.  Na przykład bieżące plany Microsoft 365 (mogą ulec zmianie) obejmują oferty na okres trzech lat, korzyści użycia hybrydowego (HUB), program home use program (HUP) i dodatki do wielu regionów geograficznych. Partnerzy będą również mogli dopasować terminy zakończenia nowych i istniejących subskrypcji.  
 
 Te nowe funkcje umożliwiają firmie Microsoft dostarczanie niektórych popularnych możliwości i typów ofert z innych programów licencjonowania do nowego handlu oraz dostarczanie ego typu end-to-end zestawu funkcji, co zaokrągla zestaw ofert chmury firmy Microsoft w nowym handlu.
 
@@ -441,7 +441,7 @@ Dostawca rozwiązań w chmurze partnerów
 
 ### <a name="details"></a>Szczegóły
 
-W czwartek, 19 sierpnia 2021 r., ogłosiliśmy aktualizację cennika komercyjnego usługi [Microsoft 365](https://aka.ms/M365PriceUpdate). Pierwsza aktualizacja na rynku od Office 365 została wydana w czerwcu 2011 r. Ta zmiana rozpocznie się 1 marca 2022 r. i będzie zapewniać klientom powiadomienie z wyprzedzeniem o około sześciu miesiącach. Będzie on obejmować:
+W czwartek, 19 sierpnia 2021 r., ogłosiliśmy aktualizację cennika komercyjnego usługi [Microsoft 365](https://aka.ms/M365PriceUpdate). Pierwszą aktualizację w 2011 roku od Office 365 roku. Ta zmiana rozpocznie się 1 marca 2022 r. i będzie zapewniać klientom powiadomienie z wyprzedzeniem o około sześciu miesiącach. Będzie on obejmować:
 
 - **Enterprise:** Microsoft 365 E3 (od 32 DO 36 USD na użytkownika), Office 365 E5 (od 35 DO 38 USD), Office365 E3 (od 20 USD do 23 USD) i Office 365 E1 (od 8 DO 10 USD)
 - **Małe i średnie firmy (SMB): Microsoft 365 Business Basic** (od 5 DO 6 USD na użytkownika) i Business Premium (20–22 USD)
@@ -453,11 +453,11 @@ Zmiany cen dla klientów chmury dla instytucji rządowych USA będą wprowadzone
 **Ogłosiliśmy** również rozszerzenie nieograniczonej liczby telefonów w ramach naszych płatnych pakietów dla przedsiębiorstw, firm, frontony i instytucji rządowych, dzięki czemu użytkownicy mogą wybierać i dołączać do spotkania Teams z praktycznie dowolnego urządzenia. Zmiana będzie mieć wpływ na:
 
 - **Enterprise:** Microsoft 365 E3, Office 365 E3 i Office 365 E1
-- **Dla instytucji rządowych (GCC, GCCH i DOD):** Microsoft 365 E3, Office 365 E3, Office 365 E1, Microsoft 365 F3 i Microsoft 365 F1
+- **Government (GCC, GCCH i DOD):** Microsoft 365 E3, Office 365 E3, Office 365 E1, Microsoft 365 F3 i Microsoft 365 F1
 - **Linia frontu:** Microsoft 365 F3, Microsoft 365 F1 i Office 365 F3
 - **SMB:** Microsoft 365 Business Premium, Microsoft 365 Business Standard i Microsoft 365 Business Basic
 
-Obecnie w Microsoft 365 E5 i Office 365 E5 telefonów ważne jest, aby telefonować jako ważną część kompletnego Teams użytkownika. Ta zmiana będzie obowiązywać w marcu 2022 r.
+Obecnie dostępne w Microsoft 365 E5 i Office 365 E5 telefonów, zobaczyliśmy, jak telefonować jako ważną część pełnego Teams użytkownika. Ta zmiana będzie obowiązywać w marcu 2022 r.
 
 Aby było jasne, nie zwiększamy cen z powodu tej zmiany. Rozszerzanie możliwości wybierania numerów między jednostkami SKU to po prostu najnowszy przykład regularnego dostarczania nowej wartości w celu obsługi zmieniających się potrzeb klientów.
 
@@ -476,7 +476,7 @@ Aby uzyskać więcej informacji na temat nadchodzących zmian, odwiedź galerię
 
 ### <a name="questions"></a>Masz pytania?
 
-Jeśli masz pytania, skontaktuj się z działem pomocy regionalne centrum operacyjne pomocą narzędzia Call Logging Tool (CLT) na stronie [clt.partners.extranet.microsoft.com/CLT](https://clt.partners.extranet.microsoft.com/CLT) lub za [pośrednictwem explore.ms](https://www.explore.ms/). Dokładnie postępuj zgodnie ze standardowym procesem CLT, aby można było jak najszybciej rozpoznać zapytanie.
+Jeśli masz pytania, skontaktuj się z działem pomocy regionalne centrum operacyjne pomocą narzędzia Call Logging Tool (CLT) na stronie [clt.partners.extranet.microsoft.com/CLT](https://clt.partners.extranet.microsoft.com/CLT) lub za pośrednictwem [explore.ms](https://www.explore.ms/). Dokładnie postępuj zgodnie ze standardowym procesem CLT, aby można było jak najszybciej rozpoznać zapytanie.
 
 ________________
 ## <a name="august-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="12"></a>Aktualizacja społeczności Dostawca rozwiązań w chmurze (CSP) z sierpnia
@@ -501,13 +501,13 @@ Najważniejsze tematy w tym miesiącu obejmują:
 - [Zmiany w dostępności oferty platformy Azure w programie CSP](https://partner.microsoft.com/resources/detail/changes-to-azure-offer-availability-in-csp-pdf)
 - [Ulepszenia programu Microsoft Commerce Incentive i Partner Center](https://partner.microsoft.com/resources/detail/enhancements-to-microsoft-commerce-incentive-program-and-partner-center-pdf)
 - [Dostęp programowy do Partner Center Szczegółowe informacje danych analitycznych](https://partner.microsoft.com/resources/detail/programmatic-access-to-partner-center-insights-analytics-data-pdf)
-- [Wprowadzenie ograniczania interfejsu API dla partnerów wywołujących interfejsy API Partner Center API](https://partner.microsoft.com/resources/detail/introducing-api-throttling-to-partners-calling-partner-center-apis-pdf)
+- [Wprowadzenie do ograniczania interfejsów API partnerom wywołującym interfejsy API Partner Center API](https://partner.microsoft.com/resources/detail/introducing-api-throttling-to-partners-calling-partner-center-apis-pdf)
 - [Omówienie: narzędzie do przechodzenia rozszerzonych subskrypcji](https://partner.microsoft.com/resources/detail/overview-enhanced-subscriptions-transition-tool-pdf)
-- [Introducing Windows 365: Hybrid Windows for a hybrid world (Wprowadzenie do Windows 365: model hybrydowy dla świata hybrydowego)](https://partner.microsoft.com/resources/detail/introducing-windows-365-hybrid-windows-for-a-hybrid-world-pdf)
+- [Introducing Windows 365: Hybrid Windows for a hybrid world (Wprowadzenie do Windows 365: rozwiązania hybrydowe dla świata hybrydowego)](https://partner.microsoft.com/resources/detail/introducing-windows-365-hybrid-windows-for-a-hybrid-world-pdf)
 
 #### <a name="csp-community-qa-reminder"></a>CSP Community Q&Przypomnienie
 
-Miesięczna sesja Q&CSP (Q&A społeczności programu CSP) zapewnia możliwość nauczenia się więcej i zadawania pytań dotyczących zmian wpływających na program. W tym miesiącu rozmowy skupią się na tematach wymienionych w poprzedniej sekcji i nie tylko.
+Miesięczna sesja Q&A społeczności programu CSP zapewnia możliwość nauczenia się więcej i zadawania pytań dotyczących zmian wpływających na program. W tym miesiącu rozmowy skupią się na tematach wymienionych w poprzedniej sekcji i nie tylko.
 
 [Zarejestruj się tutaj, aby dołączyć do wywołania.](https://globalpbocomm.eventbuilder.com/GlobalCSP)
 
@@ -526,7 +526,7 @@ Potrzebujesz gotowości do licencjonowania? [Comiesięczne seminaria internetowe
 
 ### <a name="next-steps"></a>Następne kroki
 
-Przejrzyj zasoby społeczności i zarejestruj się, aby Community połączenie z&A.
+Przejrzyj zasoby społeczności i zarejestruj się, aby Community zadzwoń do&A.
 
 ### <a name="questions"></a>Masz pytania?
 
@@ -557,13 +557,13 @@ Klucze oprogramowania dla ofert Get Genuine Windows Agreement (GGWA) w ramach pr
 Podczas gdy pracujemy nad rozwiązaniem problemu, partnerom zaleca się transakcję ofert GGWA za pośrednictwem programu Licencjonowanie Open. Dalsze powiadomienie zostanie podane po zastosowaniu poprawki, oczekiwanej przed 31 grudnia 2021 r.
 
 >[!NOTE]
->Oferta GGWA pomaga klientowi rozwiązać problem nieprawidłowego licencjonowania. Jednostki SKU GGWA można zamówić tylko po inspekcji zgodności firmy Microsoft. Aby uzyskać więcej informacji, zobacz [Postanowienia dotyczące produktów firmy Microsoft.](https://www.microsoft.com/licensing/terms/welcome/welcomepage)
+>Oferta GGWA pomaga klientowi rozwiązać problem z błędną licencjonowaniem. Jednostki SKU GGWA można zamówić tylko po inspekcji zgodności firmy Microsoft. Aby uzyskać więcej informacji, zobacz [Postanowienia dotyczące produktów firmy Microsoft.](https://www.microsoft.com/licensing/terms/welcome/welcomepage)
 
 ### <a name="next-steps"></a>Następne kroki
 
-W przypadku partnerów, którzy dokonać transakcji ofert GGWA w programie CSP, zwróć te licencje w ciągu 30 dni od daty zakupu, aby uzyskać zwrot kosztów. To zadanie można wykonać w Partner Center zgodnie ze [wskazówkami](../csp-software-subscriptions.md#cancel-a-purchase)tutaj. W przypadku zwrotów zakupów po upływie więcej niż 30 dni partnerzy mogą otworzyć bilet w u Partner Center, wybierając pozycję **CSP,** **Transact and Manage,** **Return or refund software**.
+W przypadku partnerów, którzy dokonać transakcji ofert GGWA w programie CSP, należy zwrócić te licencje w ciągu 30 dni od daty zakupu, aby uzyskać zwrot kosztów. To zadanie można wykonać w Partner Center zgodnie ze [wskazówkami](../csp-software-subscriptions.md#cancel-a-purchase)tutaj. W przypadku zwrotu zakupów po upływie więcej niż 30 dni partnerzy mogą otworzyć bilet w u Partner Center, wybierając pozycję **CSP,** **Transact and Manage**, **Return or refund software**.
 
-Do momentu dalszego powiadomienia wyekstoruj wszystkie nowe lub zastępcze zamówienia GGWA za pośrednictwem programu Licencjonowanie open.
+Do odwołania prosimy o transakcję wszystkich nowych lub zastępczych zamówień GGWA za pośrednictwem programu Licencjonowanie otwarte.
 
 W razie potrzeby udostępnij tę aktualizację zespołom wewnętrznym.  
 
@@ -576,12 +576,12 @@ ________________
 
 ### <a name="summary"></a>Podsumowanie
 
-Opublikowano najnowszy przewodnik dotyczący globalnej gotowości na promocję.
+Opublikowano najnowszy przewodnik dotyczący gotowości na promocję globalną.
 
 ### <a name="categories"></a>Kategorie
 
 - Data: 2021-08-10
-- Offers & Markets
+- Oferty & rynku
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
@@ -589,15 +589,15 @@ Partnerzy inicjujące transakcje za pośrednictwem Dostawca rozwiązań w chmurz
 
 ### <a name="details"></a>Szczegóły
 
-Najnowszy przewodnik globalna gotowość do promocji, skonsolidowany widok wszystkich bieżących i nadchodzących promocji, jest teraz dostępny w galerii zasobów Operations Readiness. Zobacz aktywne i nadchodzące promocje oraz oferty [tutaj.](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)
+Najnowszy globalny przewodnik gotowości w zakresie promocji, skonsolidowany widok wszystkich bieżących i nadchodzących promocji, jest teraz dostępny w galerii zasobów Operations Readiness. Zobacz aktywne i nadchodzące promocje oraz oferty [tutaj.](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)
 
 ### <a name="next-steps"></a>Następne kroki
 
-Zapoznaj się z najnowszym miesięcznym przewodnikiem promocyjnym w galerii zasobów Operations Readiness. Udostępnij te informacje odpowiednim kontaktom w organizacji i daj nam znać, czy przewodnik jest pomocny, odpowiadając na komunikat "Czy ta strona była pomocna?". w dolnej części strony.
+Zapoznaj się z najnowszym miesięcznym przewodnikiem po promocji w galerii zasobów Operations Readiness. Udostępnij te informacje odpowiednim kontaktom w organizacji i daj nam znać, czy przewodnik jest pomocny, odpowiadając na komunikat "Czy ta strona była pomocna?". w dolnej części strony.
 
 ### <a name="questions"></a>Masz pytania?
 
-Jeśli masz pytania dotyczące tych ofert, sprawdź odpowiednie Yammer społeczności.
+W przypadku pytań dotyczących tych ofert sprawdź odpowiednie Yammer społeczności.
 
 ________________
 ## <a name="compliance-monitoring-through-the-partner-accountability-management-pam-team"></a><a name="9"></a>Monitorowanie zgodności za pośrednictwem zespołu zarządzania odpowiedzialności partnera (PAM)
@@ -613,37 +613,37 @@ Zespół PAM rozszerza nasze programy monitorowania zgodności i pomaga ekosyste
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
-Partnerzy w firmie Microsoft na całym świecie
+Partnerzy, którzy inicjuje transakcje z firmą Microsoft na całym świecie
 
 ### <a name="details"></a>Szczegóły
 
-Jako partnerzy nasze wzajemne zobowiązanie do budowania i utrzymywania zaufania oznacza prowadzenie działalności we właściwy sposób. Najwyższe standardy postępowania mają kluczowe znaczenie dla utrzymania partnerów i klientów i są niezbędne do wywłaszania korzyści dla firmy Microsoft, naszych partnerów i wszystkich uczestników projektu.
+Jako partnerzy nasze wzajemne zobowiązanie do budowania i utrzymywania zaufania oznacza prowadzenie działalności we właściwy sposób. Najwyższe standardy postępowania mają kluczowe znaczenie dla utrzymania partnerów i klientów. Są one niezbędne do zachowania wartości dla firmy Microsoft, naszych partnerów i wszystkich zainteresowanych stron.
 
-Aby wspierać i utrzymywać kulturę zgodności i zaufania, firma Microsoft ustanowiono monitorowanie zgodności za pośrednictwem zespołu PAM prawie dwa lata temu. Zespół PAM konsoliduje działania monitorowania i w terminowych rozwiązaniach dla zidentyfikowanych obszarów niezgodnego zachowania w ekosystemie partnerów w celu poprawy kanału dla wszystkich. Na podstawie naszych zobowiązań umownech firma Microsoft może nałożyć karę i inicjatywy korygujące kurs w celu narzutu na zgodność.
+Aby wspierać i utrzymywać kulturę zgodności i zaufania, firma Microsoft ustaliła monitorowanie zgodności za pośrednictwem zespołu PAM prawie dwa lata temu. Zespół PAM konsoliduje działania monitorowania i kieruje terminowym rozwiązywaniem zidentyfikowanych obszarów niezgodnego zachowania w naszym ekosystemie partnerskim w celu ulepszania kanału dla wszystkich. W oparciu o nasze zobowiązania umowne firma Microsoft może nałożyć karę i inicjatywy korygujące kurs w przypadku narzutu na zgodność.
 
-Utworzono dokument z często [zadawanymi pytaniami,](https://partner.microsoft.com/resources/detail/partner-accountability-management-faq-pdf) aby pomóc partnerom zrozumieć, jak działa pam, oraz kluczowe obszary przejrzystości, w których możemy uzyskać większość pytań. Aby uzyskać więcej informacji, zobacz [Understanding partner compliance (microsoft.com) (Omówienie](https://partner.microsoft.com/resources/collection/understanding-partner-compliance#/) zgodności partnerów (microsoft.com) i zarejestruj się na potrzeby szkolenia na żądanie.
+Utworzono dokument z często [zadawanymi pytaniami,](https://partner.microsoft.com/resources/detail/partner-accountability-management-faq-pdf) aby pomóc partnerom zrozumieć, jak działa pam, i najważniejsze obszary przejrzystości, w których możemy uzyskać większość pytań. Aby uzyskać więcej informacji, zobacz [Understanding partner compliance (microsoft.com) (Informacje](https://partner.microsoft.com/resources/collection/understanding-partner-compliance#/) o zgodności partnerów (microsoft.com) i zarejestruj się w celu szkolenia na żądanie.
 
-Przypominamy wszystkim naszym partnerom, dostawcom i innym przedstawicielom na całym świecie, że należy przestrzegać zasad ochrony przed uszkodzeniem dla przedstawicieli firmy Microsoft, naszego Kodeksu postępowania partnera oraz warunków i postanowień umów.
+Przypominamy wszystkim naszym partnerom, dostawcom i innym przedstawicielom na całym świecie, że należy przestrzegać naszych zasad ochrony przed uszkodzeniem dla przedstawicieli firmy Microsoft, naszego Kodeksu postępowania partnerów oraz warunków i postanowień umów.
 
 ### <a name="next-steps"></a>Następne kroki
 
-Zapoznaj się z często zadawanymi pytaniami usługi PAM, weź udział w szkoleniu na żądanie i udostępnij te informacje wszystkim odpowiednim zespołom w organizacji.
+Zapoznaj się z często zadawanymi pytaniami na temat usługi PAM, weź udział w szkoleniu na żądanie i udostępnij te informacje wszystkim odpowiednim zespołom w organizacji.
 
 ### <a name="questions"></a>Masz pytania?
 
-Jeśli masz pytania dotyczące zespołu PAM, strzymuj się z przedstawicielem w konto Microsoft pamu.
+Jeśli masz pytania dotyczące zespołu PAM, s dawaj przedstawicielowi zespołu ds. konto Microsoft pam.
 
 ________________
-## <a name="windows-365-now-available-for-purchase-hybrid-windows-for-a-hybrid-world"></a><a name="8"></a>Windows do zakupu jest już dostępna Windows 365: Hybrydowe Windows dla świata hybrydowego
+## <a name="windows-365-now-available-for-purchase-hybrid-windows-for-a-hybrid-world"></a><a name="8"></a>Windows 365 jest teraz dostępna do zakupu: Hybrydowe Windows dla świata hybrydowego
 
 ### <a name="summary"></a>Podsumowanie
 
-Firma Microsoft wprowadza Windows do chmury dzięki [usłudze Windows 365.](https://aka.ms/M365EndpointPartner)
+Firma Microsoft wprowadza Windows do chmury dzięki Windows [365.](https://aka.ms/M365EndpointPartner)
 
 ### <a name="categories"></a>Kategorie
 
 - Data: 2021-08-09
-- Offers & Markets
+- Oferty & rynku
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
@@ -651,17 +651,17 @@ Partnerzy w ramach programu Dostawca rozwiązań w chmurze (CSP)
 
 ### <a name="details"></a>Szczegóły
 
-Firma Microsoft z przyjemnością informuje, [że usługa Windows 365](https://aka.ms/M365EndpointPartner) jest teraz dostępna dla klientów do zakupu. Windows 365 to usługa w chmurze, która zapewnia nowy sposób na środowisko usługi Windows 10 lub Windows 11, przesyłanie strumieniowe spersonalizowanych aplikacji, ustawień i zawartości z chmury firmy Microsoft na dowolne urządzenie.
+Firma Microsoft z przyjemnością informuje, [Windows, że usługa 365](https://aka.ms/M365EndpointPartner) jest teraz dostępna dla klientów do zakupu. Windows 365 to usługa w chmurze, która zapewnia nowy sposób obsługi usługi Windows 10 lub Windows 11, przesyłania strumieniowego spersonalizowanych aplikacji, ustawień i zawartości z chmury firmy Microsoft na dowolne urządzenie.
 
 #### <a name="welcome-to-your-windows-365-cloud-pc"></a>Witamy na komputerze Windows 365 Cloud:
 
 - **Przesyłane strumieniowo między urządzeniami:** Możesz natychmiast uruchomić się na komputerze w chmurze, przesyłać strumieniowo Windows środowisko do dowolnego urządzenia.  
 
-- **Zawsze gotowe i zaktualizowane:** Usługa Windows 365 jest zawsze gotowa i zawsze aktualizowana, niezależnie od tego, gdzie jesteś, na dowolnym urządzeniu, z którym chcesz pracować, przesyłanych strumieniowo z chmury i podróżowanych z Toem. Jest to proste i wszechstronne środowisko Windows dostarczane przez chmurę firmy Microsoft.
+- **Zawsze gotowe i zaktualizowane:** Usługa 365 jest zawsze gotowa i zawsze aktualizowana, niezależnie od tego, gdzie jesteś, na dowolnym urządzeniu Windows, z którym chcesz pracować, przesyłanych strumieniowo z chmury i podróżowanych z To ty. Jest to proste i wszechstronne środowisko Windows dostarczane przez chmurę firmy Microsoft.
 
-- **Osobista** i znana: usługa Windows 365 jest spersonalizowana i zaznajomiona ze wszystkimi ustawieniami i zawartością, więc po powrocie do komputera w chmurze jest ona zawsze w miejscu, w którym został pozostawiony.
+- **Osobiste i znane:** usługa Windows 365 jest spersonalizowana i zaznajomiona ze wszystkimi ustawieniami i zawartością, więc po powrocie do komputera w chmurze jest to miejsce, w którym został pozostawiony.
 
-- **Skalowalność i odporność:** usługa Windows 365 jest bezpieczna zgodnie z projektem, przy użyciu możliwości chmury i zasad Zero Trust. Informacje są zabezpieczone i przechowywane w chmurze, a nie na urządzeniu.
+- **Skalowalne i Windows:** usługa Windows 365 jest bezpieczna zgodnie z projektem, przy użyciu możliwości chmury i zasad Zero Trust. Informacje są zabezpieczone i przechowywane w chmurze, a nie na urządzeniu.
 
 - **Przewidywalne koszty: Windows** 365 sprawia, że zakup komputerów w chmurze jest przewidywalny z cenami za użytkownika na miesiąc.
 
@@ -669,21 +669,21 @@ Firma Microsoft z przyjemnością informuje, [że usługa Windows 365](https://a
 
 Windows 365 jest dostępny dla klientów do zakupu za pośrednictwem [windows365.com,](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1)Enterprise Agreement lub programu CSP.
 
-#### <a name="update-on-windows-365-trials"></a>Aktualizacja wersji próbnych Windows 365
+#### <a name="update-on-windows-365-trials"></a>Aktualizacja wersji próbnej Windows 365
 
-Ze względu na znaczne zapotrzebowanie osiągnęliśmy pojemność dla ponad 365 Windows prób, więc ws też ws już trwają nowe wersje próbne. Klienci mogą [zarejestrować się w celu](https://go.microsoft.com/fwlink/?linkid=2165147) otrzymywania powiadomień po wznowieniu subskrypcji wersji próbnej lub Windows 365 już dziś [tutaj.](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1)
+Ze względu na znaczne zapotrzebowanie osiągnęliśmy pojemność dla Windows próbnych na 365, więc wsiemy nowe wersje próbne. Klienci mogą [zarejestrować się w celu](https://go.microsoft.com/fwlink/?linkid=2165147) otrzymywania powiadomień o wznowieniu subskrypcji wersji próbnej lub Windows 365 tutaj. [](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1)
 
-W międzyczasie partnerzy, którzy chcą zrozumieć usługę, mogą nadal korzystać z [pokazu click-through](https://interactive-demo.azureedge.net/).
+W międzyczasie partnerzy, którzy chcą zrozumieć usługę, mogą nadal korzystać z [pokazu klikania](https://interactive-demo.azureedge.net/).
 
 ### <a name="next-steps"></a>Następne kroki
 
-- Obejrzyj ogłoszenie [Windows 365 firmy](https://aka.ms/MSInspireBRK101) Microsoft Inspire.
+- Obejrzyj ogłoszenie [Windows 365 od](https://aka.ms/MSInspireBRK101) firmy Microsoft Inspire.
 
-- Przeczytaj więcej na temat Windows 365, czytając [nasz wpis w blogu](https://www.microsoft.com/microsoft-365/blog/?p=237041?).
+- Przeczytaj więcej na temat Windows 365, czytając [nasz wpis w blogu.](https://www.microsoft.com/microsoft-365/blog/?p=237041?)
 
-- Dołącz do nas 18 sierpnia, aby uzyskać [seminarium](https://aka.ms/Windows365PartnerWebinar) internetowe dla partnerów dotyczące wyjść na rynek, aby dowiedzieć się więcej o możliwościach partnerów dzięki Windows 365.
+- Dołącz do nas 18 sierpnia, aby uzyskać [seminarium](https://aka.ms/Windows365PartnerWebinar) internetowe dla partnerów dotyczące wyjść na rynek, aby dowiedzieć się więcej o możliwościach partnerów Windows 365.
 
-- Przejrzyj informacje dotyczące tego tematu w [galerii zasobów Operacje](https://partner.microsoft.com/resources/collection/introducing-windows-365-for-a-hybrid-world#/) (wymagane logowanie) w witrynie internetowej partnera firmy Microsoft.
+- Przejrzyj informacje dotyczące tego tematu w [galerii zasobów Operacje](https://partner.microsoft.com/resources/collection/introducing-windows-365-for-a-hybrid-world#/) (wymagane logowanie) w witrynie internetowej partnerów firmy Microsoft.
 
 ### <a name="questions"></a>Masz pytania?
 
@@ -691,16 +691,16 @@ Aby uzyskać więcej pytań dotyczących tych ofert, sprawdź odpowiednie [społ
 
 ### <a name="change-log"></a>Dziennik zmian
 
-- 20 lipca 2021 r.: announcing new Windows 365 (Ogłaszamy nową Windows 365)
+- 20 lipca 2021 r.: Announcing new Windows 365 (Ogłaszamy nową Windows 365)
 - 2 sierpnia 2021 r.: Windows 365 jest teraz dostępne dla klientów do zakupu
 - 9 sierpnia 2021 r.: aktualizacja wersji próbnych Windows 365
 
 ________________
-## <a name="upcoming-changes-to-azure-plan-price-lists-for-new-commerce-experience"></a><a name="6"></a>Nadchodzące zmiany cenników planów platformy Azure dla nowego rozwiązania handlowego
+## <a name="upcoming-changes-to-azure-plan-price-lists-for-new-commerce-experience"></a><a name="6"></a>Nadchodzące zmiany cenników planów platformy Azure dla nowego doświadczenia handlowego
 
 ### <a name="summary"></a>Podsumowanie
 
-Aktualizujemy cenniki planów platformy Azure Partner Center, aby upewnić się, że elementy w cenniku są zsynchronizowane z elementami dostępnymi do zakupu w Partner Center.
+Aktualizujemy cennik planu platformy Azure Partner Center, aby upewnić się, że elementy w cenniku są zsynchronizowane z tym, co jest dostępne do zakupu w Partner Center.
 
 ### <a name="categories"></a>Kategorie
 
@@ -713,19 +713,19 @@ Dostawcy pośredni i bezpośredni partnerzy rozliczający się w ramach Dostawca
 
 ### <a name="details"></a>Szczegóły
 
-Partnerzy mogą zaobserwować różnice między wystąpieniami rezerwacji (RI) dostępnymi do zakupu w ramach usługi Partner Center a wystąpieniami wystąpień ymi w cennikach rezerwacji planu platformy Azure.
-W przeszłości cenniki rezerwacji planu platformy Azure były niepoprawnie uwzględniane:
+Partnerzy mogą zaobserwować różnice między wystąpieniami rezerwacji (WYSTĄPIEŃ) dostępnymi do zakupu w ramach usługi Partner Center a wystąpieniami wystąpieniami wystąpień wystąpień rezerwacji w cennikach rezerwacji planu platformy Azure.
+W przeszłości cennik rezerwacji planu platformy Azure został niepoprawnie uwzględniony:
 
 1. Elementy, które mogą być dostępne tylko w Azure Portal
 2. Produkty platformy Azure, które nie były rezerwacjami
  
-Aktualizujemy cenniki planów platformy Azure Partner Center, aby upewnić się, że elementy w cenniku są zsynchronizowane z elementami dostępnymi do zakupu w Partner Center. Należy rozwiązać ten temat od 2 września 2021 r. Te zmiany mają zastosowanie tylko do nowych cenników rezerwacji planu handlowego platformy Azure.
+Aktualizujemy cennik planu platformy Azure Partner Center, aby upewnić się, że elementy w cenniku są zsynchronizowane z tym, co jest dostępne do zakupu w Partner Center. Należy rozwiązać ten temat od 2 września 2021 r. Te zmiany mają zastosowanie tylko do nowych cenników rezerwacji planu handlowego platformy Azure.
 
-Od września, jeśli RI jest dostępny do transakcji w Partner Center, będzie on dostępny w cennikach. W przypadku innych interfejsów API partner powinien przejść do Azure Portal, aby przejrzeć ceny i dokonać zakupów.
+Od września, jeśli RI jest dostępny do transakcji w Partner Center, będzie on dostępny w cennikach. W przypadku innych interfejsów API partner powinien przejść bezpośrednio do Azure Portal, aby przejrzeć ceny i dokonać zakupów.
 
 ### <a name="next-steps"></a>Następne kroki
 - Partnerzy powinni pobrać cennik planu platformy Azure, aby zobaczyć interfejsy API dostępne za [pośrednictwem Partner Center](https://partner.microsoft.com/dashboard/sell/pricingandoffers).
-- Partnerzy, którzy inwestują w nowy plan handlowy platformy Azure, powinni zapoznać się z informacjami na temat usług platformy Azure w kalkulatorze cen [CSP,](https://azure.microsoft.com/pricing/calculator/) aby uzyskać informacje o cenach dla interfejsów API, które nie są dostępne do zakupu w Partner Center. 
+- Partnerzy, którzy inwestują w nowy plan handlowy platformy Azure, powinni zapoznać się z informacjami na temat usług platformy Azure w kalkulatorze cen [CSP,](https://azure.microsoft.com/pricing/calculator/) aby uzyskać informacje o cenach dla interfejsów API, które nie są dostępne do zakupu w ramach Partner Center. 
 ________________
 ## <a name="csp-for-azure-new-commerce-experience-expands-to-the-vatican"></a><a name="5"></a>Nowe środowisko handlowe dotyczące programu CSP dla platformy Azure rozszerza się na
 
@@ -744,14 +744,14 @@ Partnerzy w ramach transakcyjną transakcją za pośrednictwem programu CSP
 
 ### <a name="details"></a>Szczegóły
 
-22 lipca 2021 r. firma Microsoft uruchomiła nowe środowisko handlowe w programie CSP dla platformy Azure w chmurze. To środowisko usprawni i poprawi sposób, w jaki klienci kupują i zużywają usługi platformy Azure. Zapewni ona również partnerom w programie CSP spójny widok cen platformy Azure w ramach sprzedaży, cen w dolarach amerykańskich na temat globalnej spójności, wyrównania daty rozliczeń i dostępu do Azure Cost Management. Aby dowiedzieć się więcej, partnerzy powinni przejrzeć materiały opublikowane w [galerii zasobów partnera.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+22 lipca 2021 r. firma Microsoft uruchomiła nowe środowisko handlowe w programie CSP dla platformy Azure w chmurze. To środowisko usprawni i poprawi sposób, w jaki klienci kupują i zużywają usługi platformy Azure. Zapewni również partnerom w programie CSP spójny widok cen platformy Azure w ramach ruchu sprzedaży, cen w dolarach amerykańskich na temat globalnej spójności, wyrównania dat rozliczeń i dostępu do Azure Cost Management. Aby dowiedzieć się więcej, partnerzy powinni przejrzeć materiały opublikowane w [galerii zasobów partnera.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 
 ### <a name="next-steps"></a>Następne kroki
 
 Dostępnych jest kilka zasobów wprowadzających nowe środowisko handlowe platformy Azure i udostępniających dodatkowe informacje. Najnowsze często zadawane pytania, talii, filmów wideo i innych informacji można znaleźć w galerii zasobów aktualizacji [programu CSP.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 
 ________________
-## <a name="programmatic-access-to-partner-insights-analytics-data"></a><a name="4"></a>Dostęp programowy do danych analizy Szczegółowe informacje partnerów
+## <a name="programmatic-access-to-partner-insights-analytics-data"></a><a name="4"></a>Dostęp programowy do danych analitycznych Szczegółowe informacje partnerów
 
 ### <a name="summary"></a>Podsumowanie
 
@@ -764,7 +764,7 @@ Partnerzy mogą teraz uzyskać dostęp do danych Szczegółowe informacje partne
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
-Partnerzy w ramach programu Dostawca rozwiązań w chmurze (CSP)
+Partnerzy inicjujące transakcje za pośrednictwem programu Dostawca rozwiązań w chmurze (CSP)
 
 ### <a name="details"></a>Szczegóły
 
@@ -808,17 +808,17 @@ Niektóre nowo dostępne oferty Windows 365, które zostaną udostępnione w sie
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
-Dostawcy pośredni i bezpośredni partnerzy rozliczający się w ramach programu licencjonowania Dostawca rozwiązań w chmurze usług
+Dostawcy pośredni i partnerzy rozliczający się bezpośrednio w ramach programu licencjonowania Dostawca rozwiązań w chmurze usług
 
 ### <a name="details"></a>Szczegóły
 
-Niektóre nowo dostępne oferty Windows 365 będą wymagać od partnera poświadczania, że ich użytkownicy mają istniejące kopie wersji Windows 10/11 Pro zainstalowanych na ich podstawowych urządzeniach służbowych. To zaświadczenia jest wymagane tylko w przypadku ofert Windows 365 Business z Windows korzyścią hybrydową. Podczas zakupu tych ofert partnerzy zobaczą następujący tekst na ekranie przeglądu:
+Niektóre nowo dostępne oferty Windows 365 będą wymagać od partnera poświadczania, że użytkownicy mają istniejące kopie wersji Windows 10/11 Pro zainstalowanych na ich podstawowych urządzeniach służbowych. To zaświadczenia jest wymagane tylko w przypadku ofert Windows 365 Business z Windows korzyścią hybrydową. Podczas zakupu tych ofert partnerzy zobaczą następujący tekst na ekranie przeglądu:
 
-**Rozumiem, że każda osoba korzystająca z usługi Windows 365 Business z korzyścią użycia hybrydowego usługi Windows musi mieć również ważną kopię aplikacji Windows 10/11 Pro zainstalowanych na podstawowym urządzeniu służbowym.**
+**Rozumiem, że każda osoba korzystająca z usługi Windows 365 Business z korzyścią użycia hybrydowego usługi Windows musi mieć również ważną kopię wersji Windows 10/11 Pro zainstalowanych na podstawowym urządzeniu służbowym.**
 
 Partnerzy muszą wyrazić zgodę na to przed zakupem.
 
-Zaświadczenia dotyczą zarówno portalu Partner Center, jak i interfejsów API Partner Center podczas przesyłania zamówień i wyencjonowywowania koszyków. Partnerzy mogą określić, które oferty wymagają zaświadczenia, sprawdzając attestationProperties w [ofercie](/partner-center/develop/offer-resources#attestationproperties) lub [obiektach SKU.](/partner-center/develop/product-resources#attestationproperties) Te właściwości wyjaśnią typ zaświadczenia oraz to, czy zaświadczenia są wymuszane w przypadku zakupów.
+Zaświadczenia dotyczą zarówno portalu Partner Center, jak i interfejsów API Partner Center podczas przesyłania zamówień i wyeencjonowania koszyków. Partnerzy mogą określić, które oferty wymagają zaświadczenia, sprawdzając attestationProperties w [ofercie](/partner-center/develop/offer-resources#attestationproperties) lub [obiektach SKU.](/partner-center/develop/product-resources#attestationproperties) Te właściwości wyjaśnią typ zaświadczenia oraz to, czy zaświadczenia są wymuszane w przypadku zakupów.
 
 Poniżej przedstawiono oferty, które obecnie wymagają zaświadczenia przed zakupem.
 
@@ -826,18 +826,18 @@ Poniżej przedstawiono oferty, które obecnie wymagają zaświadczenia przed zak
 |:------------------------------------------- |:--------------------------------------- |
 | Windows 365 Business 1 vCPU, 2 GB, 64 GB (z Windows korzyścią hybrydową) | 5f3a7cd2-c76f-4b21-9ddc-f48f09869cf6 |
 | Windows 365 Business 2 procesory wirtualne, 4 GB, 128 GB (z Windows korzyść hybrydowa) | 7612386a-d98d-4110-94b8-554bd612a5ab |
-| Windows wersji próbnej: 365 Business 2 procesory wirtualne, 4 GB, 128 GB (z korzyścią Windows hybrydowej) | ab170880-1254-4534-abb9-fd0bf60cde71 |
+| Windows wersji próbnej: 365 Business 2 procesory wirtualne, 4 GB, 128 GB (z Windows korzyścią hybrydową) | ab170880-1254-4534-abb9-fd0bf60cde71 |
 | Windows 365 Business 2 procesory wirtualne, 4 GB, 256 GB (z Windows korzyść hybrydowa) | cc624387-162c-4f31-9d6e-252d39d5324b |
-| Windows 365 Business 2 procesory wirtualne, 4 GB, 64 GB (z Windows korzyścią hybrydową) | f9777f60-19ae-4bd2-b881-6dc674564a2e |
+| Windows 365 Business 2 procesory wirtualne, 4 GB, 64 GB (z Windows korzyść hybrydowa) | f9777f60-19ae-4bd2-b881-6dc674564a2e |
 | Windows 365 Business 2 procesory wirtualne, 8 GB, 128 GB (z Windows korzyść hybrydowa) | 39daa752-18b7-4918-b4eb-cf27cf617ee2 |
 | Windows wersji próbnej: 365 Business 2 procesory wirtualne, 8 GB, 128 GB (z Windows korzyścią hybrydową) | d5623401-b8e0-429f-86df-29b6efdf4d95 |
-| Windows 365 Business 2 procesory wirtualne, 8 GB, 256 GB (z Windows korzyścią hybrydową) | 8fe4271f-c761-45f8-8261-5ab575195152 |
+| Windows 365 Business 2 procesory wirtualne, 8 GB, 256 GB (z Windows korzyść hybrydowa) | 8fe4271f-c761-45f8-8261-5ab575195152 |
 | Windows 365 Business 4 procesory wirtualne, 16 GB, 128 GB (z Windows korzyść hybrydowa) | 037cff0f-c231-4cce-a7ef-5324c755ba9a |
 | Windows wersji próbnej: 365 Business 4 procesory wirtualne, 16 GB, 128 GB (z Windows korzyścią hybrydową) | 46448c4c-8b12-4ea1-9be7-76b35d69bcf5 |
-| Windows 365 Business 4 procesory wirtualne, 16 GB, 256 GB (z Windows korzyścią hybrydową) | 977318cf-57a5-4c3f-a8b6-aa58853dd2e9 |
+| Windows 365 Business 4 procesory wirtualne, 16 GB, 256 GB (z Windows korzyść hybrydowa) | 977318cf-57a5-4c3f-a8b6-aa58853dd2e9 |
 | Windows 365 Business 4 procesory wirtualne, 16 GB, 512 GB (z Windows korzyść hybrydowa) | 1a3bdfb8-fb09-4331-8303-2c07e895c6d9 |
-| Windows 365 Business 8 procesorów wirtualnych, 32 GB, 128 GB (z Windows korzyścią hybrydową) | 1b96db48-9c02-4c95-8c0b-98e4e6aa187c |
-| Windows 365 Business 8 procesorów wirtualnych, 32 GB, 256 GB (z Windows korzyścią hybrydową) | 3ff72e53-c37f-41d5-b932-793cb39c837b |
+| Windows 365 Business 8 procesorów wirtualnych, 32 GB, 128 GB (z Windows korzyść hybrydowa) | 1b96db48-9c02-4c95-8c0b-98e4e6aa187c |
+| Windows 365 Business 8 procesorów wirtualnych, 32 GB, 256 GB (z Windows korzyść hybrydowa) | 3ff72e53-c37f-41d5-b932-793cb39c837b |
 | Windows 365 Business 8 procesorów wirtualnych, 32 GB, 512 GB (z Windows korzyść hybrydowa) | aca639ae-ae81-4298-a76a-094b6880913b |
 
 ### <a name="next-steps"></a>Następne kroki

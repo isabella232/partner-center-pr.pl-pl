@@ -3,16 +3,16 @@ title: Szczegóły wypłat według regionu — komercyjna platforma handlowa fir
 description: Dowiedz się więcej o terminach płatności i sklepach online firmy Microsoft, w których można otrzymywać płatności. Mogą one różnić się w zależności od kraju, regionu i typu konta wypłaty.
 author: eunjkim520
 ms.author: eunjkim
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-payouts
 ms.topic: conceptual
 ms.date: 02/02/2021
-ms.openlocfilehash: 51b2ca2ce98789b41014597efd695fc61e7cbada
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: e0b9479e8d595a90205d789e447e426ea159ffff
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958557"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247414"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>Progi, metody i horyzonty czasowe płatności
 

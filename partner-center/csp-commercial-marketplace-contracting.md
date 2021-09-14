@@ -10,22 +10,22 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 4304d57e122adcfbb36cf32a302d316174b26d90
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958137"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246903"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Kontrakty dla partnerów CSP wykonujących działalność na platformie handlowej
 
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny
 
-Ten artykuł dotyczy umów dla partnerów w programie CSP, którzy zdecydują się na zakup ofert lub produktów dla swoich klientów w witrynie marketplace dla isv lub produktów dla swoich klientów z Partner Center platformy handlowej lub Azure Portal.
+Ten artykuł dotyczy umów dla partnerów w programie CSP, którzy zdecydują się na zakup ofert lub produktów isv marketplace dla swoich klientów z platformy handlowej firmy Partner Center lub Azure Portal.
 
-Zasady [CSP Przewodnik po programach](https://go.microsoft.com/fwlink/p/?LinkId=617100) warunki i postanowienia dotyczące ofert platformy handlowej między firmą Microsoft i partnerami w programie CSP. Partnerzy programu CSP powinni przejrzeć te warunki i postanowienia, aby upewnić się, że działają zgodnie z programem.  
+Zasady [dotyczące Przewodnik po programach CSP](https://go.microsoft.com/fwlink/p/?LinkId=617100) zawierają warunki i postanowienia dotyczące ofert platformy handlowej między firmą Microsoft i partnerami w programie CSP. Partnerzy programu CSP powinni przejrzeć te warunki i postanowienia, aby upewnić się, że działają zgodnie z programem.  
 
-Jeśli partnerzy podpisali już umowy dotyczące CSP, nie muszą ponownie logować się, aby sprzedawać oferty platformy handlowej. Odpowiednie umowy dotyczące programu CSP obejmują Microsoft Partner Agreement (MPA) i wcześniejszą umowę odsprzedawcy chmury firmy Microsoft (MCRA) lub umowę microsoft Cloud Distributor Agreement (MCDA).
+Jeśli partnerzy podpisali już umowy dotyczące CSP, nie muszą ponownie logować się, aby sprzedawać oferty platformy handlowej. Odpowiednie umowy dotyczące programu CSP obejmują Microsoft Partner Agreement (MPA) i wcześniejszą umowę odsprzedawcy chmury firmy Microsoft (MCRA) lub umowę MCDA (Microsoft Cloud Distributor Agreement).
 
 >[!NOTE]
 > Niektóre oferty komercyjnej platformy handlowej mogą wymagać dodatkowych umów między partnerem w programie CSP, niezależnym dostawcą oprogramowania i/lub klientem. To is the ISV's responsibility to provide the customer with the appropriate Customer Agreement associated with each ISV offer ordered by that customer.
@@ -36,7 +36,7 @@ Aby uzyskać więcej informacji na temat warunków zarządczych działań CSP na
 
 - **Sekcja zatytułowana "Oferty innych firm"** w sekcji [CSP Przewodnik po programach](https://go.microsoft.com/fwlink/p/?LinkId=617100). Zapewnia to warunki, które określają sprzedaż rozwiązań isv przez partnerów w programie CSP.
 
-- Programem CSP będzie Microsoft Partner Agreement **(MPA),** zastępując istniejącą mcra i mcda. Program MPA jest dostępny na [Partner Center,](https://partner.microsoft.com/pcv/dashboard/overview) aby partnerzy, którzy zdecydują się uczestniczyć w programie CSP, mogli go przejrzeć i zaakceptować.
+- **Programem CSP będzie Microsoft Partner Agreement (MPA),** zastępując istniejącą mcra i mcda. Program MPA jest dostępny na [Partner Center,](https://partner.microsoft.com/pcv/dashboard/overview) aby partnerzy, którzy zdecydują się uczestniczyć w programie CSP, mogli go przejrzeć i zaakceptować.
   
 Firma Microsoft nie akceptuje odpowiedzialności prawnej za dostarczanie usług między stronami transakcji i nie zapewnia mechanizmu dla partnerów handlowych w celu ustanawiania postanowień prawnych za pośrednictwem swojej platformy handlowej. Jeśli partnerzy transakcji wymagają dodatkowych postanowień prawnych, będą musieli wykonać umowę bezpośrednio.
 

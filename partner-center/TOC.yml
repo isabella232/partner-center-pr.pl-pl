@@ -83,7 +83,7 @@
         - name: Dowiedz się więcej na temat kompetencji
           href: learn-about-competencies.md
           displayName: mpn
-        - name: Rejestrowanie jako Edukacja partnerów
+        - name: Rejestracja jako Edukacja partnerów
           href: mpn-benefits-map-competency-learning-option-enroll.md
           displayName: mpn
         - name: Kompetencje — często zadawane pytania
@@ -267,6 +267,8 @@
           displayName: mpn
     - name: Rejestracja transakcji
       href: register-deals.md
+    - name: Często zadawane pytania dotyczące poleceń
+      href: referrals-faq.md
     - name: Analiza poleceń
       items:
         - name: Uzyskiwanie szczegółowych informacji o potencjalnych klientami
@@ -748,7 +750,7 @@
                   href: insights-programmatic-analytics-api-update-report.md
                 - name: Usuń raport
                   href: insights-programmatic-analytics-api-delete-report.md
-                - name: Wstrzymywanie wykonań raportu
+                - name: Wstrzymywanie wykonywania raportów
                   href: insights-programmatic-analytics-api-pause-report-executions.md
                 - name: Wznawianie wykonywania raportów
                   href: insights-programmatic-analytics-api-resume-report-executions.md

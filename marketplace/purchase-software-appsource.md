@@ -7,11 +7,11 @@ author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
 ms.openlocfilehash: e51f4593624a764e14ecae473f96cf0779c2ff10
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123936941"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246994"
 ---
 # <a name="purchase-saas-apps-on-microsoft-appsource"></a>Kupowanie aplikacji SaaS w Microsoft AppSource
 
@@ -26,7 +26,7 @@ Zakup aplikacji SaaS wymaga następujących czynności:
 - Ważna karta kredytowa w kraju/regionie, w którym jest kupowana oferta. Obsługiwane karty kredytowe: Visa, Master Card, American Express i Discover.
 
     > [!Note]
-    > Kraj/region rozliczeniowy karty kredytowej może być zablokowany do lokalizacji wystąpienia Azure Active Directory kredytowej.
+    > Kraj/region rozliczeniowy karty kredytowej może być zablokowany do lokalizacji twojego Azure Active Directory danych.
 
 ## <a name="purchase-the-application"></a>Kupowanie aplikacji
 

@@ -2,7 +2,7 @@
 title: Kwalifikowanie się do programu Solution Assessment
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Dowiedz się, jak sprawdzić wymagania dotyczące uprawnień do uczestnictwa w programie Solution Assessment Incentives programie.
+description: Dowiedz się, jak sprawdzić wymagania dotyczące uprawnień do uczestnictwa w programie Solution Assessment Incentives Program.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
@@ -10,11 +10,11 @@ ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: acf7e19d98b6d3a9c48277f0b3276b26816572e8
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959458"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247180"
 ---
 # <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Wymagania dotyczące uprawnień dla programu Solution Assessment Incentives programem
 
@@ -32,7 +32,7 @@ Partnerzy, którzy nie są obecnie zarejestrowani w programie zachęt, muszą sp
 |-----------------------|------------------|
 |Aktywne Microsoft Partner Network (MPN)|Uprawnienia w programie zachęt do oceny rozwiązań wymagają aktywnego członkostwa w programie MPN|
 |Jedna kompetencja w zakresie silver lub gold|Może być wstępnie aktywna lub aktywna|
-|Azure Expert MSP/zaawansowany partner specjalizacji|Począwszy od 15 kwietnia 2021 r., oceny rozwiązań platformy Azure, w tym migracja infrastruktury usługi Data &, modernizacja aplikacji, podstawy platformy Azure, platforma Azure Express i optymalizacja kosztów platformy Azure, będą wymagać i Azure Expert MSP/certyfikatu zaawansowanej specjalizacji.|
+|Azure Expert MSP/zaawansowany partner specjalizacji|Począwszy od 15 kwietnia 2021 r., oceny rozwiązań platformy Azure, w tym migracja infrastruktury usługi Data &, modernizacja aplikacji, podstawy platformy Azure, platforma Azure Express i optymalizacja kosztów platformy Azure, będą wymagać certyfikacji Azure Expert MSP/Advanced Specialty.|
 
 |**Wymaganie uczestnictwa**|**Kryteria**|
 |-------------------------|-------------------------------------|

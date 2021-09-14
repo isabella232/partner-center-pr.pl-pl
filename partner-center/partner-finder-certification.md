@@ -9,11 +9,11 @@ author: jasongroce
 ms.author: v-mhanscom
 ms.localizationpriority: medium
 ms.openlocfilehash: 712b26d56886b5265038a385dbf1ce1e68bb5081
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959793"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246747"
 ---
 # <a name="partner-finder-listing-certification-policies"></a>Lista zasad certyfikacji w programie Partner Finder
 
@@ -43,12 +43,12 @@ Linki muszą być funkcjonalne, dokładne i nie mogą stanowić zagrożenia dla 
 
 ## <a name="inappropriate-content"></a>Nieodpowiednia zawartość
 
-Klienci oczekują, że oferty będą wolne od nieodpowiedniej, szkodliwej lub obraźliwej zawartości. Lista nie może zawierać ani zapewniać dostępu do takiej zawartości, w tym między innymi do zawartości, która:
+Klienci oczekują, że oferty będą wolne od nieodpowiedniej, szkodliwej lub obraźliwej zawartości. Lista nie może zawierać ani zapewniać dostępu do takiej zawartości, w tym między innymi zawartości, która:
 
 - Ułatwia lub olśnia szkodliwe działania w świecie rzeczywistym
 - Może stanowić zagrożenie dla bezpieczeństwa, zdrowia lub komfortu dowolnej osoby lub właściwości
 - Jest zniesłaniające, zniesłabniające, zniesłabniające lub zagrożone
-- Jest potencjalnie wrażliwa lub obraźliwa albo że opowiada się za erotykią, erotyka lub rasą na podstawie członkostwa w określonej grupie etnicznej, etnicznej, językowej, językowej, edukacji lub innej grupie społecznościowej albo na podstawie płci, wieku lub orientacji seksualnej osoby
+- Jest potencjalnie wrażliwa lub obraźliwa albo że opowiada się za erotykią, erotykią lub rasą na podstawie członkostwa w określonej grupie etnicznej, etnicznej, językowej, językowej, edukacji lub innej grupie społecznościowej albo na podstawie płci, wieku lub orientacji seksualnej osoby
 - Ułatwia lub rozgłasza nadmierne lub nieodpowiedzialne użycie produktów nasypowych, leków lub produktów nagie.
 - Zawiera zawartość o charakterze seksualnym lub seksualnym
 - Zachęca, ułatwia lub olśni niedozwolone działania w świecie rzeczywistym, w tym ujednoliwiać zawartość o prawach autorskich

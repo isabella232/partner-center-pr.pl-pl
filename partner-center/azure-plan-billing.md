@@ -1,5 +1,5 @@
 ---
-title: Rozliczenia planu platformy Azure — pliki & ponownego rozliczania
+title: Rozliczenia planu platformy Azure — pliki & rekonfigurowane
 ms.topic: article
 ms.date: 05/19/2021
 ms.service: partner-dashboard
@@ -10,11 +10,11 @@ ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 5300f32dc7784a4a4c521db70513ba4b9f21a854
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957909"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246388"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nowe środowisko handlowe w programie CSP — rozliczenia platformy Azure 
 
@@ -151,7 +151,7 @@ W przypadku zakupu [rezerwacji platformy Azure](azure-reservations.md) za pośre
 
 ## <a name="azure-spending"></a>Wydatki na platformie Azure
 
-Istniejące środowisko wydatków na platformę Azure zostanie zaktualizowane w celu obsługi nowych rozliczeń planu platformy Azure w Partner Center. Dzięki temu partnerzy mogą:
+Istniejące środowisko wydatków na platformę Azure jest aktualizowane w celu obsługi nowych rozliczeń planu platformy Azure w Partner Center. Dzięki temu partnerzy mogą:
 
 - Wyświetlanie i odbieranie alertów dotyczących budżetu ustawionego na poziomie klienta oraz zarządzanie nimi 
 

@@ -10,11 +10,11 @@ ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 3ed73b67b38eba1793e79908223810cda25b2201
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958497"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247372"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Zdobądź zaawansowaną specjalizację, aby zaprezentować zweryfikowane możliwości
 
@@ -45,14 +45,14 @@ Każda zaawansowana specjalizacja odpowiada obszarowi rozwiązania:
 - Analiza na Microsoft Azure
 - Migracja magazynu danych na platformę Microsoft Azure
 - Środowisko Kubernetes na platformie Microsoft Azure
-- Migracja baz danych systemu Linux i baz danych typu open source do Microsoft Azure
+- Migracja baz danych systemów Linux i open source do Microsoft Azure
 - Usługa Microsoft Windows Virtual Desktop
 - Modernizacja aplikacji internetowych do platformy Microsoft Azure
 - Rozwiązania SAP na platformie Microsoft Azure
 - Migracja systemu Windows Server i programu SQL Server na platformę Microsoft Azure
 - AI i Machine Learning w Microsoft Azure
 - Infrastruktura chmury hybrydowej z Microsoft Azure Stack HCI
-- Operacje hybrydowe i zarządzanie nimi za pomocą Microsoft Azure Arc
+- Hybrydowe operacje i zarządzanie z usługą Microsoft Azure Arc
 - Microsoft Azure Rozwiązanie VMware
 - DevOps z GitHub na Microsoft Azure
 - Usługi sieciowe w Microsoft Azure

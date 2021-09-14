@@ -9,28 +9,28 @@ ms.devlang: azurepowershell
 ms.date: 11/24/2020
 ms.custom: devx-track-azurepowershell
 ms.openlocfilehash: d7bd790eab2618822dbc5099ad1ad107794c82d2
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123937010"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246664"
 ---
 # <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>Szybki start: zarządzanie prywatną usługą Azure Marketplace pomocą programu PowerShell
 
 W tym artykule opisano, jak można zarządzać ofertami w prywatnej Azure Marketplace użyciu [modułu Az.Marketplace](/powershell/module/az.marketplace) programu PowerShell.
 
 > [!IMPORTANT]
-> Prywatne Azure Marketplace jest obecnie w publicznej wersji zapoznawczej. Ta wersja zapoznawcza jest dostępna bez umowy dotyczącej poziomu usług. Nie jest ona zalecana w przypadku obciążeń produkcyjnych. Niektóre funkcje mogą nie być obsługiwane lub mogą mieć ograniczone możliwości. Aby uzyskać więcej informacji, zobacz [Uzupełniające warunki korzystania z wersji zapoznawczych platformy Microsoft Azure](https://azure.microsoft.com/support/legal/preview-supplemental-terms/).
+> Prywatne Azure Marketplace obecnie w publicznej wersji zapoznawczej. Ta wersja zapoznawcza jest dostępna bez umowy dotyczącej poziomu usług. Nie jest ona zalecana w przypadku obciążeń produkcyjnych. Niektóre funkcje mogą nie być obsługiwane lub mogą mieć ograniczone możliwości. Aby uzyskać więcej informacji, zobacz [Uzupełniające warunki korzystania z wersji zapoznawczych platformy Microsoft Azure](https://azure.microsoft.com/support/legal/preview-supplemental-terms/).
 
 ## <a name="requirements"></a>Wymagania
 
 * Jeśli nie masz subskrypcji platformy Azure, przed rozpoczęciem utwórz [bezpłatne](https://azure.microsoft.com/free/) konto.
 
-* Jeśli zdecydujesz się używać Azure PowerShell lokalnego:
+* Jeśli zdecydujesz się używać Azure PowerShell lokalnym:
   * [Zainstaluj moduł Az programu PowerShell.](/powershell/azure/install-az-ps)
   * Połączenie konta platformy Azure przy użyciu [polecenia cmdlet Połączenie-AzAccount.](/powershell/module/az.accounts/connect-azaccount)
 * Jeśli zdecydujesz się używać Azure Cloud Shell:
-  * Aby [uzyskać więcej informacji,](/azure/cloud-shell/overview) zobacz Overview of Azure Cloud Shell (Omówienie Azure Cloud Shell).
+  * Zobacz [Omówienie Azure Cloud Shell,](/azure/cloud-shell/overview) aby uzyskać więcej informacji.
 
   > [!IMPORTANT]
   > Gdy moduł **Az.Marketplace** programu PowerShell jest w wersji zapoznawczej, należy zainstalować go oddzielnie przy użyciu `Install-Module` polecenia cmdlet . Gdy ten moduł programu PowerShell stanie się ogólnie dostępny, będzie częścią przyszłych wydań modułu Az programu PowerShell i będzie domyślnie dostępny z poziomu usługi Azure Cloud Shell.
@@ -39,7 +39,7 @@ W tym artykule opisano, jak można zarządzać ofertami w prywatnej Azure Market
   Install-Module -Name Az.Marketplace
   ```
 
-* Jeśli masz wiele subskrypcji platformy Azure, wybierz odpowiednią subskrypcję, w ramach której mają być naliczane opłaty za zasoby. Wybierz określoną subskrypcję przy użyciu polecenia cmdlet [Set-AzContext.](/powershell/module/az.accounts/set-azcontext)
+* Jeśli masz wiele subskrypcji platformy Azure, wybierz odpowiednią subskrypcję, w ramach której mają być naliczane opłaty za zasoby. Wybierz określoną subskrypcję za pomocą polecenia cmdlet [Set-AzContext.](/powershell/module/az.accounts/set-azcontext)
 
   ```azurepowershell-interactive
   Set-AzContext -SubscriptionId 00000000-0000-0000-0000-000000000000
@@ -146,4 +146,4 @@ Remove-AzMarketplacePrivateStoreOffer -privateStoreId 00000000-0000-0000-0000-00
 
 ## <a name="next-steps"></a>Następne kroki
 
-[Tworzenie aplikacji prywatnych i zarządzanie Azure Marketplace](create-manage-private-azure-marketplace.md).
+[Tworzenie aplikacji prywatnych i](create-manage-private-azure-marketplace.md)zarządzanie Azure Marketplace .

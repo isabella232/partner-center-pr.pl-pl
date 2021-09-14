@@ -10,20 +10,20 @@ ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
 ms.openlocfilehash: a7851d270ad51a5a06ebc7d7725a2ae5c803419b
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961530"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247108"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Dodawanie aplikacji usługi Azure AD (jednostki usługi) w usłudze Partner Center
 
 **Odpowiednie role:** Administrator globalny
 
-W programie komercyjnej platformy handlowej w usłudze Partner Center możesz teraz dodać aplikację usługi Microsoft Azure Active Directory (Azure AD) (jednostkę usługi) jako użytkownika na koncie usługi Partner Center. (Wcześniej można było to zrobić na koncie Cloud Partner Portal (CPP). Teraz, po migracji do Partner Center, konto CPP jest tylko do odczytu).
+W programie komercyjnej platformy handlowej w usłudze Partner Center możesz teraz dodać aplikację usługi Microsoft Azure Active Directory (Azure AD) (jednostkę usługi) jako użytkownika na Partner Center konta. (Wcześniej można było to zrobić na koncie Cloud Partner Portal (CPP). Teraz, po migracji do Partner Center, konto CPP jest tylko do odczytu).
  
 >[!Note] 
->Jednostki usługi to synonimy aplikacji usługi Azure AD.
+>Jednostkę usługi należy do aplikacji usługi Azure AD.
 
 ## <a name="add-an-azure-ad-application-service-principal"></a>Dodawanie aplikacji usługi Azure AD (jednostki usługi)
 
@@ -35,11 +35,11 @@ W programie komercyjnej platformy handlowej w usłudze Partner Center możesz te
 
 4. Jeśli tworzysz nową aplikację usługi Azure AD, dołącz następujące informacje:  
 
-   - **Adres URL odpowiedzi:** adres URL, pod którym użytkownicy mogą się logować w celu korzystania z aplikacji usługi Azure AD.
+   - **Adres URL odpowiedzi:** adres URL, pod którym użytkownicy mogą logować się w celu korzystania z aplikacji usługi Azure AD.
 
-   - **Identyfikator URI identyfikatora** aplikacji: identyfikator logiczny aplikacji usługi Azure AD, który jest prezentowany podczas wysyłanie żądania logowania pojedynczego do usługi Azure AD.
+   - **Identyfikator URI identyfikatora aplikacji:** identyfikator logiczny aplikacji usługi Azure AD, który jest prezentowany podczas wysyłanie żądania logowania pojedynczego do usługi Azure AD.
 
-   - **Role zabezpieczeń:** Role Menedżer **(takie** same jak rola "Właściciel" w CPP) i Deweloper **(takie** same jak rola "Współautor" w CPP) mają zastosowanie do programu komercyjnej platformy handlowej w programie Partner Center i mogą być skojarzone z tą aplikacją usługi Azure AD.  
+   - **Role zabezpieczeń:** role Menedżer **(taki** sam jak rola "Właściciel" w programie CPP) i Deweloper **(takie** same jak rola "Współautor" w programie CPP) mają zastosowanie do programu komercyjnej platformy handlowej w programie Partner Center i mogą być skojarzone z tą aplikacją usługi Azure AD.  
 
 ## <a name="next-steps"></a>Następne kroki
 

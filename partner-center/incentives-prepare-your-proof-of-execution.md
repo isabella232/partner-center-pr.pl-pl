@@ -9,11 +9,11 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/11/2020
 ms.openlocfilehash: a81962de16b56329167338012cc66e160fffafe8
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959590"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246861"
 ---
 # <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Tworzenie i przesyłanie dokumentów dotyczących weryfikacji wykonania zachęt
 

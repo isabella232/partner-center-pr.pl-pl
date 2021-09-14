@@ -4,21 +4,21 @@ ms.topic: article
 ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-benefits
-description: pakiet Software Assurance training do trenowania jest wy wycofany.
+description: pakiet Software Assurance Training Jest wy wycofany.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.openlocfilehash: c0c65c962fdc46ce4685ee3bb63bacdec036f1e8
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959541"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246646"
 ---
 # <a name="training-vouchers-program-retirement"></a>Wycofanie programu Szkoleniowego
 
-pakiet Software Assurance Training Are Are fully retired (SATV) are fully retired from pakiet Software Assurance benefits, but customers can continue to use days for instructor-led training while the do valid (Klienci mogą nadal używać dni do szkolenia prowadzonego przez instruktora, podczas gdy ćwęczynie są ważne). Są to istotne daty prowadzące do wycofania programu: 
+pakiet Software Assurance Training Dos (SATV) są w pełni wycofane z korzyści usługi pakiet Software Assurance, ale klienci mogą nadal używać dni do szkolenia prowadzonego przez instruktora, podczas gdy są one ważne. Są to istotne daty prowadzące do wycofania programu: 
 
 - 1 lutego 2020 r.: szkolenie platformy Azure wycofało się z katalogu szkoleń w chmurze.
 - 1 lutego 2020 r.: Nie można już przekonwertować trenowania trenowania na usługi planowania dni.  
@@ -50,7 +50,7 @@ W tym artykule wyjaśniono, jak wykonać poszczególne kroki.
 
 Przed zarejestrowaniem się w programie SATV należy najpierw spełnić wymagania dotyczące opcji Microsoft Partner Network (MPN) Edukacja, która zastępuje kompetencję Edukacja Microsoft. Dowiedz się, jak rozpocząć pracę, [Edukacja opcji.](https://partner.microsoft.com/membership/learning-partners)
 
-W tym celu możesz zweryfikować uprawnienia swojej firmy, w tym odpowiednie wymagania dotyczące kompetencji i oceny Partner Center. Aby uzyskać więcej informacji i zrzuty ekranu, postępuj zgodnie z instrukcjami znajdującymi się w [kroku 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) przepływu pracy programu SATV.
+Możesz sprawdzić uprawnienia swojej firmy, w tym odpowiednie wymagania dotyczące kompetencji i oceny w Partner Center. Aby uzyskać więcej informacji i zrzuty ekranu, postępuj zgodnie z instrukcjami znajdującymi się w [kroku 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) przepływu pracy programu SATV.
 
 ## <a name="enroll-in-the-training-program"></a>Rejestracja w programie szkoleniowym
 

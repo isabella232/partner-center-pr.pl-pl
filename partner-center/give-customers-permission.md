@@ -10,11 +10,11 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 23ca72fada539b5036dfd6cf0ac04a5c18b5d96d
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957946"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247299"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Nadaj klientom uprawnienia Partner Center do kupowania własnych produktów lub usług
 
@@ -22,9 +22,9 @@ ms.locfileid: "123957946"
 
 W tym artykule pokazano, jak partner w programie Dostawca rozwiązań w chmurze (CSP) może udzielić klientowi uprawnień do zakupu niektórych własnych usług lub zasobów.
 
-Partnerzy w programie CSP często używają Partner Center i jego platformy handlowej do kupowania rozwiązań i usług dla swoich klientów. Następnie partnerzy zezwalają niektórym klientom na aprowizować te usługi bezpośrednio z Azure Portal.
+Partnerzy w programie CSP często używają platformy Partner Center i jej platformy handlowej do kupowania rozwiązań i usług dla swoich klientów. Partnerzy zezwalają niektórym klientom na aprowizować te usługi bezpośrednio z Azure Portal.
 
-Oto przykład. Załóżmy, że kupujesz subskrypcję planu platformy Azure dla klienta w Partner Center. Następnie decydujesz się dodać inne zasoby lub usługi do tej subskrypcji w imieniu klienta. W takim przypadku możesz dodać rezerwacje platformy Azure do subskrypcji klienta (na przykład dodać wystąpienia zarezerwowane maszyn wirtualnych). Następnie możesz zezwolić klientowi na dalsze aprowizować zasoby rezerwacji platformy Azure samodzielnie w Azure Portal.
+Oto przykład. Załóżmy, że kupujesz subskrypcję planu platformy Azure dla klienta w Partner Center. Następnie decydujesz się dodać inne zasoby lub usługi do tej subskrypcji w imieniu klienta. W takim przypadku możesz dodać rezerwacje platformy Azure do subskrypcji klienta (na przykład dodać wystąpienia zarezerwowane maszyn wirtualnych). Następnie możesz zezwolić klientowi na dalsze aprowizować zasoby rezerwacji platformy Azure w Azure Portal.
 
 Teraz dzięki funkcji **Uprawnień klienta** możesz zapewnić klientom więcej opcji samoobsługi dzięki zasobom platformy Azure. Włączając uprawnienia dla klienta, umożliwiasz klientom kupowanie własnych zasobów (na przykład kupowanie własnych rezerwacji platformy Azure).  
 
@@ -89,7 +89,7 @@ Po sprawdzeniu, czy klient ma istniejącą subskrypcję platformy Azure, musisz 
 Niektórzy partnerzy mogą już przypisać rolę **właściciela** klientom, którzy chcą aktywnie zarządzać własnymi zasobami platformy Azure i aprowizować je. Jeśli masz już przypisany stan **właściciela** do klienta w celu zarządzania wcześniejszymi subskrypcjami, które zostały dla nich zakupione, możesz pominąć ten krok.  
 
 > [!IMPORTANT]
-> Jeśli klientowi nie przypisano  roli właściciel, zostanie wyświetlony błąd w Azure Portal uniemożliwiający mu zakup rezerwacji platformy Azure.
+> Jeśli klientowi nie przypisano  roli właściciela, zostanie wyświetlony błąd w Azure Portal uniemożliwiający mu zakup rezerwacji platformy Azure.
 
 Aby sprawdzić, czy klientowi przypisano **rolę właściciela** dla subskrypcji platformy Azure:
 
@@ -141,7 +141,7 @@ Pomóż klientom dowiedzieć się więcej na temat zarządzania tymi aspektami r
 - Co się stanie, gdy klienci kupią rezerwacje w zakresie udostępnionym?
 - Co się stanie, jeśli klienci będą chcieli zmienić, anulować i odnowić rezerwację lub zmienić jej zakres?
 
-**Ceny, za które klienci będą płacić za rezerwacje.** Klient będzie kupować rezerwacje platformy Azure na podstawie wcześniej zakupionej subskrypcji na koncie rozliczeniowym partnera CSP. Cena klienta za wszelkie rezerwacje platformy Azure, które kupują na podstawie tej subskrypcji, również jest ustawiana przez Ciebie. Ta cena może różnić się od ceny bezpośredniej sieci Web, jaką klient widzi w Azure Portal.
+**Ceny, za które klienci będą płacić za rezerwacje.** Klient będzie kupować rezerwacje platformy Azure na podstawie wcześniej zakupionej subskrypcji na koncie rozliczeniowym partnera CSP. Cena klienta za wszelkie rezerwacje platformy Azure, które kupują na podstawie tej subskrypcji, również jest ustawiana przez Ciebie. Ta cena może różnić się od ceny web direct, jaką klient widzi w Azure Portal.
 
 **Jak klienci mogą zoptymalizować użycie rezerwacji.** Niektórzy klienci mogą skorzystać z większej wiedzy na temat optymalizowania wykorzystania rezerwacji lub przypisywania początkowego zakresu rezerwacji podczas zakupu. Aby uzyskać więcej informacji, poproś klientów o przeczytanie [tematu Zarządzanie rezerwacjami zasobów platformy Azure.](/azure/cost-management-billing/reservations/manage-reserved-vm-instance)
 

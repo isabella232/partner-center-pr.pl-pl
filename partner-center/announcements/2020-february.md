@@ -10,21 +10,21 @@ ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
 ms.openlocfilehash: fa91ec99657b30f939b937b9f8bce20deb22d152
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957850"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247078"
 ---
 # <a name="february-2020-announcements"></a>Ogłoszenia z lutego 2020 r.
 
-Na tej stronie szczegółowo o ogłoszeniach dotyczących programu Microsoft Partner Center CSP na luty 2020 r.
+Ta strona zawiera szczegółowe informacje o ogłoszeniach dotyczących Partner Center CSP firmy Microsoft na luty 2020 r.
 
 Ogłoszenia dotyczące roku 2020: [styczeń 2020](2020-january.md) r. | Luty 2020 | [Marzec 2020](2020-march.md)  |  r. [Kwiecień 2020](2020-april.md)  |  r. [Maj 2020 r.](2020-may.md)
 
 _________________
 
-## <a name="new-process-for-submitting-tax-withholding-credit-requests"></a><a id="9"/></a>Nowy proces przesyłania żądań kredytu na potrącenie potrącenia podatku
+## <a name="new-process-for-submitting-tax-withholding-credit-requests"></a><a id="9"/></a>Nowy proces przesyłania żądań kredytu na potrącenie podatku
 
 ### <a name="categories"></a>Kategorie
 
@@ -35,25 +35,25 @@ _________________
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
-- Partnerzy CSP przesyłający żądania środków na potrącenie potrącenia podatku.
+- Partnerzy CSP przesyłający żądania środków na potrącenie podatku.
 
 ### <a name="summary"></a>Podsumowanie:
 
-Dostępny jest nowy proces przesyłania żądań kredytu potrąconych z tytułu podatku. Ten proces umożliwia partnerom, którzy mają pozostałe saldo na poprzednich fakturach, przesyłanie wniosków o urlop, jeśli zapłacili już podatki do lokalnych urzędów podatkowych. Partnerzy mogą teraz przesyłać żądania środków na potrącenie podatku na stronie rozliczeń w Partner Center. Wcześniej żądania środków na potrącenie podatku były przesyłane przez kontakt z pomocą techniczną w Partner Center.
+Dostępny jest teraz nowy proces przesyłania żądań kredytu na potrącenie podatku. Ten proces umożliwia partnerom, którzy są winni pozostałe saldo za poprzednie faktury, przesyłanie wniosków o zwrot podatków, jeśli zapłacili już podatki do lokalnych urzędów podatkowych. Partnerzy mogą teraz przesyłać żądania środków na potrącenie podatku ze strony rozliczeń w Partner Center. Wcześniej żądania środków na potrącenie podatku były przesyłane przez kontakt z pomocą techniczną w Partner Center.
 
-Jeśli po przesłaniu wymagane są dalsze zmiany, firma Microsoft wyśle do partnera żądania ponownego przesłania, a stan żądania zostanie zaktualizowany na stronie Rozliczeń. W tym momencie partner może edytować istniejące żądanie lub przesłać nowe. Po zatwierdzeniu żądania następna faktura zostanie zaktualizowana w celu odzwierciedlenia kwoty, która nie jest już należne.
+Jeśli po przesłaniu wymagane są dalsze zmiany, firma Microsoft wyśle do partnera żądania ponownego przesłania, a stan żądania zostanie zaktualizowany na stronie rozliczeń. W tym momencie partner może edytować istniejące żądanie lub przesłać nowe. Po zatwierdzeniu żądania następna faktura zostanie zaktualizowana w celu odzwierciedlenia, że kwota nie jest już należne.
 
 ### <a name="additional-resources"></a>Dodatkowe zasoby:
 
-Dokumentacja i dalsze szczegóły można znaleźć w [kolekcji Galeria programu CSP.](https://partner.microsoft.com/resources/collection/submit-tax-withholding-credit-request#/)
+Dokumentację i dalsze szczegóły można znaleźć w [kolekcji galerii programu CSP.](https://partner.microsoft.com/resources/collection/submit-tax-withholding-credit-request#/)
 
 ### <a name="change-log"></a>Dziennik zmian
 
-- 25 lutego 2020 r.: opublikowano oryginalne zawiadomienie
+- 25 lutego 2020 r.: opublikowano oryginalne ogłoszenie
 
 _________________
 
-## <a name="new-microsoft-customer-agreement-acceptance-capability-available-now"></a><a id="8"/></a>Nowe Umowa z Klientem Microsoft akceptacji danych są teraz dostępne.
+## <a name="new-microsoft-customer-agreement-acceptance-capability-available-now"></a><a id="8"/></a>Teraz Umowa z Klientem Microsoft nowych możliwości akceptacji.
 
 ### <a name="categories"></a>Kategorie
 
@@ -68,31 +68,31 @@ _________________
 
 ### <a name="summary"></a>Podsumowanie:
 
-Partnerzy mogą teraz zapraszać nowych i istniejących klientów do przejrzenia i zaakceptowania Umowa z Klientem Microsoft bezpośrednio w uwierzytelnionym portalu firmy Microsoft (centrum Administracja Microsoft 365 Center).
+Partnerzy mogą teraz zapraszać nowych i istniejących klientów do przejrzenia i zaakceptowania Umowa z Klientem Microsoft bezpośrednio w uwierzytelnionym portalu firmy Microsoft (Administracja Microsoft 365 Center).
 
 Ta nowa funkcja oznacza, [że partnerzy mają](../confirm-customer-agreement.md) teraz dwie opcje podczas prezentowania Umowa z Klientem Microsoft klientom:
 
-- **Opcja 1.** Partnerzy mogą przedstawić nowe Umowa z Klientem Microsoft klientom w taki sam sposób, jak wcześniej w przypadku Umowa dotycząca platformy Microsoft Cloud. Po przejrzeniu i zaakceptowaniu umowy przez klienta partnerzy muszą poświadczyć o akceptacji klienta przez firmę Microsoft. Pulpit Partner Center nawigacyjny, Partner Center API i zestaw SDK platformy .NET zostały zaktualizowane w celu obsługi partnera, potwierdzając w ten sposób akceptację Umowa z Klientem Microsoft klienta.
-- **Opcja 2 (nowa funkcja):** Partnerzy mogą zapraszać klientów do uwierzytelnionego portalu Microsoft (centrum Administracja Microsoft 365) w celu wyświetlenia i podpisania umowy. Ta opcja umożliwia uproszczone zarządzanie umowami, szybsze wdrażanie i mniejszą pracę dla partnerów, ponieważ gdy klient zaakceptuje bezpośrednio w centrum Administracja Microsoft 365 Center, potwierdza zatwierdzenie warunków.
+- **Opcja 1:** Partnerzy mogą przedstawić nowe Umowa z Klientem Microsoft klientom w taki sam sposób, jak wcześniej w Umowa dotycząca platformy Microsoft Cloud. Po przejrzeniu i zaakceptowaniu umowy przez klienta partnerzy muszą zaświadczyć, że klient zaakceptował umowę z firmą Microsoft. Pulpit Partner Center nawigacyjny, Partner Center API i zestaw SDK platformy .NET zostały zaktualizowane w celu obsługi partnera, potwierdzając w ten sposób akceptację Umowa z Klientem Microsoft klienta.
+- **Opcja 2 (nowa funkcja):** Partnerzy mogą zapraszać klientów do uwierzytelnionego portalu firmy Microsoft (Administracja Microsoft 365 Center) w celu wyświetlenia i podpisania umowy. Ta opcja umożliwia uproszczone zarządzanie umowami, szybszą implementację i mniejszą pracę dla partnerów, ponieważ gdy klient zaakceptuje bezpośrednio w centrum Administracja Microsoft 365 Center, potwierdza zatwierdzenie warunków.
 
 Partnerzy mogą dowiedzieć się, czy klienci zaakceptowali nową umowę, korzystając z nowych funkcji dostępnych na pulpicie nawigacyjnym usługi Partner Center lub za [pośrednictwem tego nowego interfejsu API.](/partner-center/develop/get-direct-sign-status-of-customer-agreement)
 
-Od 1 lutego 2020 r. potwierdzenie przez partnera akceptacji usługi Umowa z Klientem Microsoft przez partnera jest wymagane do składania nowych zamówień dla wszystkich ofert CSP we wszystkich regionach w ramach chmury publicznej firmy Microsoft. Partnerzy CSP nie mogą już dobyć nowych zakupów, w tym zmian miejsc lub odnowienia istniejących zakupów, bez potwierdzenia, że ich klient zaakceptował Umowa z Klientem Microsoft za pośrednictwem jednej z tych opcji.
+Od 1 lutego 2020 r. partner musi potwierdzić akceptację usługi Umowa z Klientem Microsoft przez partnera, aby składać nowe zamówienia dla wszystkich ofert CSP we wszystkich regionach w chmurze publicznej firmy Microsoft. Partnerzy CSP nie mogą już do robić nowych zakupów, w tym zmian miejsc lub odnowienia istniejących zakupów, bez potwierdzenia, że ich klient zaakceptował Umowa z Klientem Microsoft za pośrednictwem jednej z tych opcji.
  
 >[!Note] 
 >Nie ma to wpływu na automatyczne odnawianie.
 
 ### <a name="next-steps"></a>Następne kroki:
 
-- Jeśli klient nie zaakceptował Umowa z Klientem Microsoft nowych zamówień, od 1 lutego 2020 r. będzie to obowiązkowe. Partnerzy muszą zaświadczyć. Opcja 1: klient zaakceptował umowę lub opcja 2: zapraszanie klientów do zaakceptowania umowy bezpośrednio za pośrednictwem Administracja Microsoft 365 Center.
-- Partnerzy używający interfejsów API do Umowa dotycząca platformy Microsoft Cloud muszą poprawić istniejącą implementację za pomocą zaktualizowanego interfejsu API.
-- Wytrenuj agentów i sprzedawców na podstawie nowych warunków umowy oraz prezentowania nowej umowy i sprawdzania poprawności akceptacji klienta.
+- Jeśli klient nie zaakceptował Umowa z Klientem Microsoft, od 1 lutego 2020 r. będzie obowiązywać obowiązkowe dla nowych zamówień. Partnerzy muszą mieć atest. Opcja 1: klient zaakceptował umowę lub opcja 2: zaproś klientów do zaakceptowania umowy bezpośrednio za pośrednictwem Administracja Microsoft 365 Center.
+- Partnerzy korzystający z interfejsów API dla Umowa dotycząca platformy Microsoft Cloud muszą poprawić istniejącą implementację za pomocą zaktualizowanego interfejsu API.
+- Przeszkolić agentów i sprzedawców na podstawie nowych warunków umowy oraz prezentowania nowej umowy i sprawdzania akceptacji klienta.
 
 ### <a name="additional-resources"></a>Zasoby dodatkowe:
 
-Partnerzy mogą wyświetlać zawartość Umowa z Klientem Microsoft dostępną na tej [stronie galerii CSP.](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/) W tym:
+Partnerzy mogą wyświetlać zawartość Umowa z Klientem Microsoft dostępną na tej [stronie Galerii CSP.](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/) W tym:
 
-- Przewodnik Umowa z Klientem Microsoft programu CSP (zaktualizowany)
+- Przewodnik Umowa z Klientem Microsoft cSP (zaktualizowany)
 - Umowa z Klientem Microsoft często zadawane pytania (aktualizacja)
 
 ### <a name="change-log"></a>Dziennik zmian:
@@ -112,47 +112,47 @@ _________________
 
 ### <a name="summary"></a>Podsumowanie:
 
- W celu obsługi nadchodzącej i nadchodzącej wersji usługi Microsoft [Defender](https://www.yammer.com/cloudpartnercommunity/#/threads/show?threadId=537815418421248&messageId=538893749682176?trk_event=likes_message_click)niedawno ogłosiliśmy, że zaktualizowaliśmy oparty na licencjach plik z cennikiem z marca w wersji zapoznawczej, aby uwzględnić te dwie oferty. Wcześniej plik wersji zapoznawczej z marca został opublikowany w dniu 2020-01-31:
+ W celu obsługi aktualizacji i nadchodzących wersji usługi Microsoft [Defender](https://www.yammer.com/cloudpartnercommunity/#/threads/show?threadId=537815418421248&messageId=538893749682176?trk_event=likes_message_click)niedawno ogłosiliśmy, że zaktualizowaliśmy plik z cenami oparty na licencji z marca w wersji zapoznawczej, aby uwzględnić te dwie oferty. Wcześniej plik wersji zapoznawczej z marca został opublikowany w dniu 2020-01-31:
 
-Oferta: Zaawansowana ochrona przed zagrożeniami w usłudze Microsoft Defender oferty: e2dcab13-1365-417a-b624-4901e2b252f5
+Oferta: Zaawansowana ochrona przed zagrożeniami w usłudze Microsoft Defender identyfikator oferty: e2dcab13-1365-417a-b624-4901e2b252f5
 
-Oferta: Zaawansowana ochrona przed zagrożeniami w usłudze Microsoft Defender for Education Offer ID: 1a7a1bcc-c7bf-4c6b-b55d-d79a6e3bb3ee
+Oferta: Zaawansowana ochrona przed zagrożeniami w usłudze Microsoft Defender dla edukacji Identyfikator oferty: 1a7a1bcc-c7bf-4c6b-b55d-d79a6e3bb3ee
 
 Te dwie nowe oferty to jedyne zmiany wprowadzone w pliku w wersji zapoznawczej. Wersja zapoznawcza z marca została zaktualizowana 2020-02-14, 13:00 PST.
 
 **Problemy z cenami opartymi na licencjach z lutego**
 
-Poniżej przedstawiono znane problemy w cenniku z lutego i macierzy listy ofert. W poniedziałek 2/10 zostanie zgłoszona aktualizacja w sprawie zgłoszonych wcześniej problemów z systemem ERP, a także tego, kiedy można rozwiązać poniższe problemy. Ale w lutym:
+Poniżej przedstawiono znane problemy z cennikiem w lutym i macierzą listy ofert. W poniedziałek 2/10 będzie dostępna aktualizacja dla zgłoszonych wcześniej problemów z systemem ERP, a także informacje o tym, kiedy można rozwiązać poniższe problemy. Ale w lutym:
 
 **Poniżej przedstawiono oferty w cenniku opartym na licencjach z lutego, ale nie w macierzy listy ofert.**
 
-Następująca oferta nie jest dostępna i zostanie usunięta z cenników w przyszłości:
+Następująca oferta nie jest dostępna i zostanie usunięta z przyszłych cenników:
 
 Oferta: Microsoft 365 system telefoniczny — identyfikator oferty wersji próbnej użytkownika wirtualnego:`b9a1d576-43fd-464b-8ad9-4b1eafc5db77`
 
-Te oferty są dostępne, ale nie znajdują się w macierzy listy ofert. Aby uzyskać szczegółowe informacje o macierzy ofert, zapoznaj się z poprzednią macierzą listy ofert ze stycznia 2020 r.
+Te oferty są dostępne, ale nie w macierzy listy ofert. Zapoznaj się z poprzednią macierzą listy ofert ze stycznia 2020 r., aby uzyskać szczegółowe informacje o macierzy ofert.
 
-Oferta: Pro pomocy technicznej dla usługi Dynamics 365 Unified Operations o identyfikatorze oferty:`09dc6202-bfbb-44fb-9c87-b12c90084010`
+Oferta: Pro pomocy technicznej dla usługi Dynamics 365 Unified Operations Offer ID:`09dc6202-bfbb-44fb-9c87-b12c90084010`
 
-Oferta: Pro pomocy technicznej dla ujednoliconych operacji usługi Dynamics 365 dla nauczycieli i wykładowców o identyfikatorze oferty:`c3b23a21-76e2-46e7-ae4f-60e1bdb96bea`
+Oferta: Pro bezpośrednia obsługa ujednoliconych operacji usługi Dynamics 365 dla nauczycieli i wykładowców o identyfikatorze oferty:`c3b23a21-76e2-46e7-ae4f-60e1bdb96bea`
 
 Oferta: Pro pomocy technicznej dla usługi Dynamics 365 Unified Operations for Students o identyfikatorze oferty:`1835808d-06a2-42c5-9f09-82c2e7ed5c72`
 
 Te oferty nie zostały w cenniku, ale powinny być. Zapoznaj się z cennikiem z 19 grudnia, ponieważ ceny tej oferty nie uległy zmianie.
 
-Oferta: Microsoft 365 A1 oferty:`778a4dce-0014-4d53-8647-314ef2b091d2`
+Oferta: Microsoft 365 A1 identyfikator oferty:`778a4dce-0014-4d53-8647-314ef2b091d2`
 
-Oferta: Dynamics 365 Remote Assist Attach Trial Offer ID: `7ce81df9-f10c-49a3-843d-e9de6fdc779f`
+Oferta: Identyfikator oferty dołączania pomocy zdalnej usługi Dynamics 365 w wersji próbnej: `7ce81df9-f10c-49a3-843d-e9de6fdc779f`
 
 Oferta: Identyfikator oferty wersji próbnej usługi Dynamics 365 Remote Assist: `545484f9-1c3e-426d-a387-0aa029146443`
 
 ### <a name="erp-issues"></a>Problemy z systemem ERP
 
-Wcześniej zgłoszone rozbieżności między cennikiem programu CSP i innymi witrynami firmy Microsoft są nadal w trakcie badania. W niektórych walutach, zwłaszcza NZD, zgłoszono niewielkie różnice, w których szacowane ceny detaliczne (ERP) w cennikach CSP były inne niż ceny publikowane w publicznych witrynach internetowych firmy Microsoft. Zespół nadal bada te problemy. Te wartości ERP nie mają wpływu na to, ile partnerów jest rozliczanych. Są one jednak używane przez partnerów do określania sposobu określania cen dla klientów.
+Zgłoszone wcześniej rozbieżności między cennikiem CSP i innymi witrynami firmy Microsoft są nadal w trakcie badania. W niektórych walutach zgłoszono niewielkie różnice, w szczególności NZD, gdzie szacowane ceny detaliczne (ERP) w cennikach CSP były inne niż ceny publikowane w publicznych witrynach internetowych firmy Microsoft. Zespół nadal bada te problemy. Te wartości ERP nie mają wpływu na to, ile partnerów jest rozliczanych; Są one jednak używane przez partnerów do określania sposobu określania cen dla klientów.
 
 _________________
 
-## <a name="reminder---action-required-transition-from-baseline-policies-to-security-defaults-before-feb-29-2020"></a><a id="6"/></a>Przypomnienie — wymagana akcja: przejście z zasad bazowych do wartości domyślnych zabezpieczeń przed 29 lutego 2020 r.
+## <a name="reminder---action-required-transition-from-baseline-policies-to-security-defaults-before-feb-29-2020"></a><a id="6"/></a>Przypomnienie — wymagana akcja: Przejście z zasad bazowych do domyślnych ustawień zabezpieczeń przed 29 lutego 2020 r.
 
 ### <a name="categories"></a>Kategorie
 
@@ -229,7 +229,7 @@ Firma Microsoft wprowadziła 1 lutego 2020 r. oferty konferencji audiokonferency
 ### <a name="details"></a>Szczegóły
  Firma Microsoft wprowadziła nową ofertę dla użytkowników korzystających z konferencji audiokonferencyjnej dla firm międzynarodowych z użytkownikami z Indie.
 
-### <a name="who-needs-to-purchase-the-new-offer"></a>KtoTo zakupu nowej oferty
+### <a name="who-needs-to-purchase-the-new-offer"></a>KtoTo musi zakupić nową ofertę
 
 Tę ofertę należy zakupić tylko wtedy, gdy klienci znajdujący się poza Indiemi mają przypisane subskrypcje do użytkowników znajdujących się fizycznie w Indiach. W takim przypadku należy kupić tyle ofert dodatków, ile jest użytkowników fizycznie zlokalizowanych w Indiach.
 
@@ -314,13 +314,13 @@ _________________
 Partner Center usprawnia przepływ wniosku o pomoc techniczną dla wszystkich Partner Center pomocy technicznej.
 
 ### <a name="details"></a>Szczegóły
- Wybranie tematu pomocy technicznej, który najlepiej opisuje problem partnera, umożliwia Partner Center zebranie wszystkich wymaganych informacji dotyczących problemu i szybciej uzyskanie go do odpowiednich inżynierów pomocy technicznej. Wprowadzamy zmiany, aby uprościć sposób, w jaki partnerzy znajdują najlepsze miejsce do rejestrować swoje żądania obsługi:
+ Wybranie tematu pomocy technicznej, który najlepiej opisuje problem partnera, Partner Center zebrać wszystkie wymagane informacje dotyczące problemu i szybciej uzyskać je do odpowiednich inżynierów pomocy technicznej. Wprowadzamy zmiany, aby uprościć sposób, w jaki partnerzy znajdują najlepsze miejsce do rejestrować swoje żądania obsługi:
 
 - Szybkie wyszukiwanie ułatwia znalezienie tematu, który najlepiej opisuje problem.
-- Użytkownicy mogą również "pokazywać filtry", aby poruszać się po dostępnych tematach pomocy technicznej.
+- Użytkownicy mogą również "wyświetlać filtry", aby nawigować po dostępnych tematach pomocy technicznej.
 - Tematy nadmiarowe zostały usunięte, a inne opisy tematów zostały zaktualizowane, aby były bardziej czytelne.
 
-Te zmiany zaczną być dostępne w tygodniu 3 lutego.
+Te zmiany zaczną być dostępne w tygodniu od 3 lutego.
 
 ### <a name="additional-resources"></a>Dodatkowe zasoby:
 
@@ -328,7 +328,7 @@ Te zmiany zaczną być dostępne w tygodniu 3 lutego.
 
 ### <a name="change-log"></a>Dziennik zmian
 
-- 4<sup>lutego</sup>2020 r.: opublikowano oryginalne ogłoszenie
+- 4<sup>lutego</sup>2020 r.: opublikowano oryginalne zawiadomienie
 
 _________________
 
@@ -347,13 +347,13 @@ _________________
 
 ### <a name="summary"></a>Podsumowanie:
 
-Nowa wersja [Umowa z Klientem Microsoft](https://www.microsoft.com/licensing/docs/customeragreement) w programie Dostawca rozwiązań w chmurze (CSP) stała się dostępna od października 2019 r., zastępując istniejące Umowa dotycząca platformy Microsoft Cloud. Nowa, uproszczona umowa klienta zapewnia klientom spójne warunki zakupu — niezależnie od sposobu, w jaki klienci wybiorą opcję zakupu.
+Nowa wersja [Umowa z Klientem Microsoft](https://www.microsoft.com/licensing/docs/customeragreement) w programie Dostawca rozwiązań w chmurze (CSP) stała się dostępna od października 2019 r., zastępując istniejące Umowa dotycząca platformy Microsoft Cloud. Nowa, uproszczona umowa klienta zapewnia klientom spójne warunki zakupu — niezależnie od sposobu, w jaki klienci zdecydują się na zakup.
 
-**Od 1 lutego 2020** r. klienci rozliczani bezpośrednio i dostawcy pośredni w programie CSP muszą potwierdzić akceptację przez klienta usługi Umowa z Klientem Microsoft dla wszystkich ofert CSP w chmurze publicznej firmy Microsoft. Bez potwierdzenia akceptacji nowej umowy przez klienta partnerzy nie będą mogli dokonać nowego zakupu dla klienta, w tym zmiany stanowisk i odnowienia istniejących zakupów od tego dnia (nie będzie to miało wpływu na automatyczne odnawianie).
+**Począwszy od 1 lutego 2020 r.,** dostawcy bezpośredni i pośredni w programie CSP muszą potwierdzić zgodę klienta na Umowa z Klientem Microsoft ofert CSP w chmurze publicznej firmy Microsoft. Bez potwierdzenia akceptacji nowej umowy przez klienta partnerzy nie będą mogli dokonać nowego zakupu dla klienta, w tym zmiany miejsc i odnowienia istniejących zakupów od tej daty (nie będzie to miało wpływu na automatyczne odnawianie).
 
-Partnerzy mogą przedstawić klientom nową umowę w taki sam sposób, jak w przypadku istniejących Umowa dotycząca platformy Microsoft Cloud. Gdy klient przejmie i zaakceptuje umowę, partnerzy muszą potwierdzić akceptację klienta na Partner Center. Interfejs użytkownika Partner Center, interfejs API i zestaw .NET SDK zostały zaktualizowane w celu obsługi nowej umowy.
+Partnerzy mogą przedstawić klientom nową umowę w taki sam sposób, jak w przypadku istniejącej Umowa dotycząca platformy Microsoft Cloud. Gdy klient przejmie i zaakceptuje umowę, partnerzy muszą potwierdzić akceptację klienta w Partner Center. Interfejs użytkownika Partner Center, interfejs API i zestaw .NET SDK zostały zaktualizowane w celu obsługi nowej umowy.
 
-Aby uzyskać więcej informacji, przejrzyj zasoby dotyczące Umowa z Klientem Microsoft cSP znajdujące się na [tej stronie](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
+Aby uzyskać więcej informacji, przejrzyj zasoby dotyczące Umowa z Klientem Microsoft w programie CSP znajdujące się [na tej stronie](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).
 
 ### <a name="next-steps"></a>Następne kroki
 
@@ -362,16 +362,16 @@ Aby uzyskać więcej informacji, przejrzyj zasoby dotyczące Umowa z Klientem Mi
 - Przeprowadź szkolenie agentów i odsprzedawców w zakresie [nowych warunków umowy](https://www.microsoft.com/licensing/docs/customeragreement) oraz prezentowania nowej umowy i weryfikowania akceptacji klienta.
 
 >[!NOTE] 
->Akceptacja przez klienta Umowa z Klientem Microsoft jest również wymagana do zakupu za pośrednictwem nowego rozwiązania handlowego w programie [CSP dla](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) platformy Azure, które zostało wydane w listopadzie 2019 r. W I kwartale 2020 r. partnerzy w programie CSP również zaczną widzieć dodatkową opcję na stronie Partner Center, która umożliwi partnerom zapraszanie klientów do uwierzytelnionego portalu firmy Microsoft (centrum Administracja Microsoft 365) oraz bezpośrednie wyświetlanie i podpisywanie Umowa z Klientem Microsoft klienta.
+>Akceptacja klienta na Umowa z Klientem Microsoft jest również wymagana do zakupu za pośrednictwem nowego rozwiązania handlowego w programie CSP dla platformy [Azure,](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) które zostało wydane w listopadzie 2019 r. W I kwartale 2020 r. partnerzy w programie CSP zaczną również wyświetlać dodatkową opcję w witrynie Partner Center, która umożliwi partnerom zapraszanie klientów do uwierzytelnionego portalu firmy Microsoft (centrum firmy Administracja Microsoft 365) oraz bezpośrednie wyświetlanie i Umowa z Klientem Microsoft klientów.
 
 ### <a name="change-log"></a>Dziennik zmian:
 
-- 28 stycznia 2020 r.: opublikowano oryginalne przypomnienie.
-- 4 lutego 2020 r.: Zaktualizowano anons w celu odzwierciedlenia Umowa z Klientem Microsoft jest teraz wymagany.
+- 28 stycznia 2020 r.: Opublikowano oryginalne przypomnienie.
+- 4 lutego 2020 r.: Ogłoszenie zaktualizowane w celu odzwierciedlenia Umowa z Klientem Microsoft jest teraz wymagane.
 
 _________________
 
-## <a name="microsoft-has-released-additional-dynamics-365-products-effective-february-1-2020"></a><a id="1"/></a>Firma Microsoft udostępniła dodatkowe produkty Dynamics 365 od 1 lutego 2020 r.
+## <a name="microsoft-has-released-additional-dynamics-365-products-effective-february-1-2020"></a><a id="1"/></a>Firma Microsoft wydała dodatkowe produkty Dynamics 365 od 1 lutego 2020 r.
 
 ### <a name="categories"></a>Kategorie
 
@@ -381,36 +381,36 @@ _________________
 
 ### <a name="summary"></a>Podsumowanie:
 
-Firma Microsoft udostępniła dodatkowe produkty Dynamics 365 1 lutego 2020 r.
+Firma Microsoft opublikowała dodatkowe produkty Dynamics 365 1 lutego 2020 r.
 
 ### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ:
 
-- Partnerzy oferujący usługę Dynamics 365 za pośrednictwem programu Dostawca rozwiązań w chmurze (CSP) na całym świecie (chyba że zaleca się to inaczej)
+- Partnerzy oferujący usługę Dynamics 365 za pośrednictwem programu Dostawca rozwiązań w chmurze (CSP) na całym świecie (chyba że zaleca się inaczej)
 
 ### <a name="details"></a>Szczegóły
 
-Firma Microsoft opublikowała nowe produkty dla usług Dynamics Biz Apps Power Platform Products 1 lutego 2020 r.
+Firma Microsoft opublikowała nowe produkty dla usług Dynamics Biz Apps i Power Platform Products 1 lutego 2020 r.
 
 ### <a name="biz-apps-and-power-platform"></a>Aplikacje biz i Power Platform
 
- 1 lutego 2020 r. zostały wydane następujące nowe i zaktualizowane oferty dla usług Biz Apps i Power Platform ofert:
+ 1 lutego 2020 r. zostały wydane następujące nowe i zaktualizowane oferty usług Biz Apps i Power Platform ofert:
 
 Human Resources (nowe oferty)
 
-- Użytkownicy usługi Dynamics 365 HR mogą kupować oferty dynamics 365 Unified Ops Additional DB/File Capacity USL.
+- Użytkownicy usługi Dynamics 365 HR mogą kupować oferty Dynamics 365 Unified Ops Additional DB/File Capacity USL.
 - Oferty usługi Dynamics 365 HR Self-Serve usługi Dynamics 365 HR
 - Zasoby ludzkie usługi Dynamics 365 (użytkownik, dzierżawa)
 
 LoT Intelligence for Supply Chain Management (nowe oferty)
 
-- Scenariusz analizy IoT (poziom dzierżawy) — obejmuje uprawnienia do sześciu scenariuszy i dziesięciu maszyn (wymaganie wstępne: baza użytkowników łańcucha dostaw/ujednoliconego zarządzania operacyjną lub dołączenie do nich SKU)
+- Scenariusz analizy IoT (poziom dzierżawy) — obejmuje uprawnienie do sześciu scenariuszy i dziesięciu maszyn (wymaganie wstępne: baza użytkowników łańcucha dostaw/ujednoliconego zarządzania operacyjną lub dołączanie SKU)
 - Dodatek IoT Intelligence Additional Machine (na poziomie dzierżawy) dla dodatku, który licencjonuje klienta na dziesięć dodatkowych maszyn (wymaganie wstępne: SKU scenariusza analizy IoT)
 
 Zmiana nazwy handlu elektronicznego
 
 - Oferta Dynamics 365 Retail została zmieniona na Dynamics 365 Commerce.
 
-Customer Insights aktualizacji licencji. Typ licencjonowania następujących jednostki SKU został zmieniony z AddOn na NON:
+Customer Insights aktualizacji licencji. Następujące jednostki SKU zmieniły typ licencjonowania z AddOn na NON:
 
 - Dyn365ECstmrInsights ShrdSvr ALNG SubsVL MVL
 - Dyn365ECstmrInsightsEDU ShrdSvr ALNG SubsVL MVL
@@ -421,13 +421,13 @@ Następujące oferty nie są już dostępne dla zasobów ludzkich usługi Dynami
 - Dynamics 365 for Talent from SA
 - Przyciąganie, dołączanie i kompleksowe zatrudnianie
 
-1 lutego 2020 r. firma Microsoft zmieniła nazwy niektórych rodzin produktów i ofert w celu dostosowania nazewnictwa istniejących ofert usług Dynamics i Power Platform w innych kanałach i regionach. Zobacz konkretne zmiany w pliku zatytułowanym "Zmiany nazwy oferty programu Dynamics CSP — luty 2020" [tutaj.](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#)
+1 lutego 2020 r. firma Microsoft zmieniła nazwy niektórych rodzin produktów i ofert, aby dopasować nazewnictwo dla istniejącej usługi Dynamics i ofert Power Platform w innych kanałach i regionach. Zobacz konkretne zmiany w pliku zatytułowanym "Zmiany nazwy oferty programu Dynamics CSP — luty 2020" [tutaj.](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#)
 
 ### <a name="additional-resources"></a>Dodatkowe zasoby
 
 - [Strona główna usługi Dynamics 365](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [strona główna przewodnika po aplikacjach Mixed Reality Apps](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [Strona główna fałszowania usługi Biz Apps](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Strona główna Przewodnika po aplikacjach Mixed Reality Apps](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Strona główna oszustw związanych z aplikacjami biz apps](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [Aktualizacje licencjonowania usług PowerApps i Flow FY20](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [Licencjonowanie usługi Microsoft Dynamics 365](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 
@@ -435,8 +435,8 @@ Następujące oferty nie są już dostępne dla zasobów ludzkich usługi Dynami
 
 Udostępnij te informacje w organizacji i klientom.
 
-Jeśli chcesz bardziej zagłębić się w aktualizacje licencjonowania i wartość oferty, zapoznaj się  z naszą zawartością na temat gotowości w sekcji Dodatkowe zasoby i w chmurze PartnerSource.
+Jeśli chcesz zagłębić się w aktualizacje licencjonowania i wartość oferty, zapoznaj się z  naszą zawartością na temat gotowości w sekcji Dodatkowe zasoby i w chmurze PartnerSource.
 
-Jeśli potrzebujesz pomocy technicznej ściśle związanej z twoimi operacjami z firmą Microsoft, [skontaktuj się z pomocą techniczną](https://partner.microsoft.com/pcv/servicerequests/create).
+Jeśli potrzebujesz pomocy technicznej ściśle związanej z operacjami wykonywanymi przez firmę Microsoft, [skontaktuj się z pomocą techniczną](https://partner.microsoft.com/pcv/servicerequests/create).
 
 _________________

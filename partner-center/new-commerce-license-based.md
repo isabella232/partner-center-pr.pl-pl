@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 08/31/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dowiedz się więcej o nowych doświadczeniach handlowych dotyczących kupowania licencji opartych na Usługi online.
+description: Dowiedz się więcej o nowych możliwościach handlowych zakupu licencji opartych na Usługi online.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 7ca839abb193f09d37769e14eedf08ea415e902f
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959205"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247474"
 ---
 # <a name="new-commerce-experience-for-license-based-services"></a>Nowe środowisko handlowe dla usług opartych na licencjach
 

@@ -1,5 +1,5 @@
 ---
-title: Sprzedawanie klientom Microsoft Azure rezerwacji
+title: Sprzedaż klientom Microsoft Azure rezerwacji
 description: Jako Dostawca rozwiązań w chmurze możesz kupić, sprzedawać lub zarządzać rezerwacjami platformy Azure dla klientów. Użyj Partner Center, Azure Portal lub interfejsu PARTNER CENTER API.
 ms.topic: article
 ms.service: partner-dashboard
@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
 ms.openlocfilehash: 10a9789d10d03a1a6ddd0aa2cd5ccc0e320b9c07
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957934"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246357"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Sprzedawanie Microsoft Azure klientom przy użyciu Partner Center, Azure Portal lub interfejsów API
 
@@ -50,5 +50,5 @@ Rezerwacje platformy Azure mogą być atrakcyjne dla klientów w następujący s
 |Kupowanie rezerwacji platformy Azure dla klientów w Partner Center   |[Kupowanie rezerwacji platformy Azure](azure-reservations-buying.md)
 |Zarządzanie rezerwacjami platformy Azure w usłudze Partner Center | [Zarządzanie rezerwacjami platformy Azure w usłudze Partner Center](azure-reservations-manage.md)
 |Określanie prawidłowego rozmiaru maszyny wirtualnej i weryfikowanie użycia maszyny wirtualnej klienta   |[Rozmiar maszyny wirtualnej dla maksymalnego użycia rezerwacji platformy Azure](azure-usage.md)   |
-|Kupowanie rezerwacji platformy Azure przy użyciu interfejsu PARTNER CENTER API | [Informacje Azure Reserved VM Instances](/partner-center/develop/purchase-azure-reservations) w dokumentacji Partner Center dewelopera   |
+|Kupowanie rezerwacji platformy Azure przy użyciu interfejsu API Partner Center Azure | [Informacje Azure Reserved VM Instances](/partner-center/develop/purchase-azure-reservations) w dokumentacji Partner Center deweloperów   |
 |Udzielanie klientom uprawnień do zakupu własnych rezerwacji platformy Azure w ramach subskrypcji CSP. | [Nadaj klientom uprawnienia do zakupu własnych rezerwacji platformy Azure](give-customers-permission.md)   |

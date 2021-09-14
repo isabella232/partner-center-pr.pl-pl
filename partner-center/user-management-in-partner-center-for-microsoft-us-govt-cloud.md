@@ -11,11 +11,11 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 982095303b748639f4f0bdc893acfa0fad1e9453
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958773"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246568"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Zarządzanie użytkownikami i licencjami w Partner Center for Microsoft Cloud for US Government
 
@@ -23,7 +23,7 @@ ms.locfileid: "123958773"
 
 **Odpowiednie role:** Administrator globalny
 
-## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Jak zarządzać użytkownikami w Azure Portal for Microsoft Cloud for US Government
+## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Jak zarządzać użytkownikami w Azure Portal dla Microsoft Cloud for US Government
 
 Jeśli zalogowano się do Partner Center for Microsoft Cloud for US Government, możesz otworzyć Azure Portal dla Microsoft Cloud for US Government bez konieczności logowania się ponownie. Jeśli jednak musisz zalogować się bezpośrednio do usługi Azure Portal for Microsoft Cloud for US Government, przejdź do strony ( i zaloguj się przy użyciu poświadczeń administratora globalnego dla dzierżawy usługi Azure AD na potrzeby https://portal.azure.us/) Microsoft Cloud for US Government.
 

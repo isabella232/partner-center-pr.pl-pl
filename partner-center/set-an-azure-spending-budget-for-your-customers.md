@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: a2085713f1fef474dd26cb66a30a37f701789859
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959266"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247102"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Ustawianie, sprawdzanie lub usuwanie miesięcznych budżetów wydatków platformy Azure dla klientów w Partner Center
 

@@ -10,11 +10,11 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 18ed4e14e5e0e0855dd09e91325ed46610c3acae
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958186"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246844"
 ---
 # <a name="download-reports"></a>Pobieraj raporty
 
@@ -22,7 +22,7 @@ ms.locfileid: "123958186"
 
 ## <a name="introduction"></a>Wprowadzenie
 
-Centrum Pobierz raporty na pulpicie nawigacyjnym usługi Szczegółowe informacje umożliwia eksportowanie nieprzetworzonych zestawów danych, które umożliwiają korzystanie z raportów usługi Partner Center Szczegółowe informacje, w formacie wartości rozdzielanych tabulatorami (TSV). Pozwala to na głębszą analizę danych w zależności od potrzeb biznesowych.
+Centrum Pobierz raporty na pulpicie nawigacyjnym usługi Szczegółowe informacje umożliwia eksportowanie nieprzetworzonych zestawów danych, które umożliwiają Partner Center Szczegółowe informacje raportów w formacie wartości rozdzielanych tabulatorami (TSV). Pozwala to na głębszą analizę danych w zależności od potrzeb biznesowych.
 
 Po wygenerowaniu raport będzie dostępny w sekcji **Wygenerowane** raporty do pobrania i przeanalizowania przy użyciu narzędzi, takich jak Microsoft Excel.
 
@@ -49,7 +49,7 @@ Następujące raporty są dostępne do pobrania:
 
 **Szczegóły użycia platformy Azure** można znaleźć na stronie Użycie platformy Azure. Te szczegóły są dotyczące subskrypcji platformy Azure sprzedanych lub zarządzanych przez partnera. Szczegóły użycia są podzielone według kategorii miernika i innych kluczowych wymiarów. Raport jest agregowany co miesiąc.
 
-**Office 365 — użycie licencji** zawiera szczegóły użycia Office 365 licencji sprzedanych lub zarządzanych przez partnera. Udostępnia również informacje o klientach i kluczowe metryki, takie jak Aktywni użytkownicy miesięcznie (MAU), kwalifikowane uprawnienia i tak dalej. Raport będzie agregowany co miesiąc.
+**Office 365 — użycie licencji** zawiera szczegółowe informacje o Office 365 licencji sprzedanych lub zarządzanych przez partnera. Udostępnia również informacje o klientach i kluczowe metryki, takie jak Aktywni użytkownicy miesięcznie (MAU), kwalifikowane uprawnienia i tak dalej. Raport będzie agregowany co miesiąc.
 
 **Enterprise Mobility — użycie licencji** zawiera szczegóły użycia licencji Enterprise Mobility sprzedanych lub zarządzanych przez partnera. Udostępnia również informacje o klientach i kluczowe metryki, takie jak mau, kwalifikowane uprawnienia i tak dalej. Raport jest agregowany co miesiąc.
 

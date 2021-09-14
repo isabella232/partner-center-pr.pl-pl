@@ -1,5 +1,5 @@
 ---
-title: Przypisywanie ról & do użytkowników
+title: Przypisywanie ról & uprawnień do użytkowników
 ms.topic: article
 ms.date: 10/30/2020
 ms.service: partner-dashboard
@@ -10,24 +10,24 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
 ms.openlocfilehash: 7638a35b5aa583cd3a7c3b40833123402df7cb70
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958401"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247407"
 ---
-# <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Przypisywanie ról i uprawnień użytkowników firmy, którzy muszą pracować w Partner Center
+# <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Przypisywanie ról i uprawnień użytkowników w firmie, którzy muszą pracować w Partner Center
 
-**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Administrator partnera MPN
+**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Administrator partnera MPN
 
-Masz już profil partnera, w tym nazwę i adres prawnych, szczegóły pomocy technicznej, informacje o zwolnieniach z podatku, informacje o banku i podstawowy kontakt dla Twojej firmy. Następny krok: Skonfigurowanie użytkowników przy użyciu haseł i ról w celu rozpoczęcia pracy w Partner Center z Toemem.
+Profil partnera, w tym nazwę i adres prawna, szczegóły pomocy technicznej, informacje o zwolnieniach z podatku, informacje o banku i podstawowy kontakt dla twojej firmy. Następny krok: Skonfigurowanie użytkowników przy użyciu haseł i ról, aby rozpocząć pracę w Partner Center z Tobem.
 
 ## <a name="set-up-your-employees-to-work-in-partner-center"></a>Konfigurowanie pracowników do pracy w Partner Center
 
-Określasz typy dostępu, które użytkownicy muszą Partner Center na podstawie ról i uprawnień, które im nadasz. Role są związane z programami, w które jest zaangażowana Twoja firma. Jeśli na przykład Twoja firma jest firmą Dostawca rozwiązań w chmurze (CSP), nie tylko będziesz mieć standardowe role zarządzania dzierżawą usługi Azure Active Directory (Azure AD), takie jak administrator globalny, ale będą potrzebne role specyficzne dla programu CSP. Każdy program ma specyficzne role.
+Typy dostępu użytkowników, które muszą być Partner Center są określane na podstawie ról i uprawnień, które im nadaj. Role są związane z programami, w które bierze udział Twoja firma. Jeśli na przykład Twoja firma jest firmą Dostawca rozwiązań w chmurze (CSP), będziesz mieć nie tylko standardowe role zarządzania dzierżawą usługi Azure Active Directory (Azure AD), takie jak administrator globalny, ale także role specyficzne dla programu CSP. Każdy program ma specyficzne role.
 
 >[!Note]
-> Role dzierżawy usługi Azure AD obejmują role administratora globalnego, administratora użytkowników i CSP. Role spoza usługi Azure AD to role, które nie zarządzają dzierżawą. Obejmują one administratora partnera MPN (Microsoft Partner Network), administratora profilu biznesowego, administratora poleceń, administratora zachęt i użytkownika zachęt. 
+> Role dzierżawy usługi Azure AD obejmują role administratora globalnego, administratora użytkowników i roli CSP. Role inne niż role usługi Azure AD to role, które nie zarządzają dzierżawą. Należą do nich administrator partnera MPN (Microsoft Partner Network), administrator profilu biznesowego, administrator poleceń, administrator zachęt i użytkownik zachęt. 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Zarządzanie transakcjami komercyjnymi w Partner Center (role usługi Azure AD i CSP)
 
@@ -35,21 +35,21 @@ Określasz typy dostępu, które użytkownicy muszą Partner Center na podstawie
 |----------------------------------|---|:---------------------------------|
 |Administrator globalny|* Może uzyskać dostęp do wszystkich konto Microsoft/usług z pełnymi uprawnieniami|[Zarządzanie kontem w portalu Partner Center](partner-center-account-setup.md)
 |      |* Tworzenie biletów pomocy technicznej dla Partner Center
-||* Wyświetlanie tworzyć bilety pomocy technicznej partnera
+||* Wyświetlanie tworzyć biletów pomocy technicznej partnera
 ||* Wyświetlanie umów, cenników i ofert
 ||* Wyświetlanie i tworzenie użytkowników partnerów oraz zarządzanie nimi|
 ||  Wyświetlanie, tworzenie i zarządzanie rozliczeniami, fakturami i plikami ponownego tworzenia
-|Administrator zarządzania użytkownikami   | * Wyświetlanie i tworzenie użytkowników oraz zarządzanie nimi|[Zarządzanie korzyściami Microsoft Partner Network i ofertami członkostwa w programie Partner Center](manage-your-partner-network-benefits.md)
-||* Wyświetl wszystko partnerów
+|Administrator zarządzania użytkownikami   | * Wyświetlanie i tworzenie użytkowników oraz zarządzanie nimi|[Zarządzanie korzyściami i Microsoft Partner Network członkostwa w programie Partner Center](manage-your-partner-network-benefits.md)
+||* Wyświetl wszystko profilów partnerów
 ||* Tworzenie biletów pomocy technicznej dla Partner Center
-||* Wyświetlanie tworzyć bilety pomocy technicznej partnera
+||* Wyświetlanie tworzyć biletów pomocy technicznej partnera
 |Administrator rozliczeń | — Wyświetlanie, tworzenie i zarządzanie rozliczeniami, fakturami i plikami ponownego tworzenia|[Read your bill (Odczytywanie rachunku)](billing.md)
 ||* Wyświetl cennik
 ||* Tworzenie biletów pomocy technicznej dla Partner Center
-||* Wyświetlanie tworzyć bilety pomocy technicznej partnera
+||* Wyświetlanie tworzyć biletów pomocy technicznej partnera
 |Użytkownik domyślny|  Wyświetl Mój profil   |[Resetowanie hasła](reset-my-pasword.md)
 |Agent administracyjny | * Zarządzanie klientami|[Nawiązywanie relacji z klientami](connect-with-your-customers.md)
-||* Dodawanie listy urządzeń do Partner Center
+||* Dodaj listę urządzeń do Partner Center
 ||* Tworzenie i stosowanie profilów do urządzeń
 ||* Zarządzanie subskrypcjami
 ||* Kondycja usługi i żądania obsługi dla klientów
@@ -57,35 +57,35 @@ Określasz typy dostępu, które użytkownicy muszą Partner Center na podstawie
 ||* Wyświetlanie cen i ofert
 ||* Rozliczenia
 ||* Administrowanie w imieniu klienta
-||* Rejestrowanie odsprzedawcy o wartości dodanej
+||* Rejestrowanie odsprzedawcy dodanej wartości
 ||* Tworzenie biletów pomocy technicznej dla Partner Center
-||* Wyświetlanie tworzyć bilety pomocy technicznej partnera|
+||* Wyświetlanie tworzyć biletów pomocy technicznej partnera|
 |Agent sprzedaży | * Zarządzanie klientami|[Zapewnianie pomocy technicznej dotyczącej rozliczeń dla klientów i pomaganie w odpowiadania na ich pytania dotyczące rozliczeń](provide-billing-support.md)
-||* Dodawanie listy urządzeń do Partner Center
+||* Dodaj listę urządzeń do Partner Center
 ||* Zarządzanie subskrypcjami
 ||* Wyświetlanie biletów pomocy technicznej
 ||* Żądanie relacji z klientem
 ||* Wyświetlanie cen i ofert
 ||* Zarządzanie potencjalnymi klientami
 ||* Wyświetlanie umowy klienta
-||* Rejestrowanie odsprzedawcy z dodaną wartością
+||* Rejestrowanie odsprzedawcy dodanej wartości
 ||* Tworzenie biletów pomocy technicznej dla Partner Center
-||* Wyświetlanie tworzyć bilety pomocy technicznej partnera|
+||* Wyświetlanie tworzyć biletów pomocy technicznej partnera|
 |Agent pomocy technicznej| * Wyszukiwanie i wyświetlanie klienta|[Eskalowanie problemów do firmy Microsoft i dowiedz się, które problemy są bardziej odpowiednie do eskalacji firmy Microsoft](escalate-problems-to-microsoft.md)
 ||* Edytowanie szczegółów klienta
 ||* Pomoc w rozwiązywaniu problemów klientów z zarządzaniem rozliczeniami lub subskrypcjami
 ||* Żądanie pomocy technicznej w imieniu klientów 
 ||* Zarządzanie subskrypcjami i problemami z rozliczeniami w imieniu klientów
 ||* Tworzenie biletów pomocy technicznej dla Partner Center
-||* Wyświetlanie tworzyć bilety pomocy technicznej partnera| 
+||* Wyświetlanie tworzyć biletów pomocy technicznej partnera| 
 
-### <a name="control-panel-vendor-cpv-csp-role-and-non-azure-ad-role"></a>Panel sterowania dostawcy (CPV). (Rola CSP i rola spoza usługi Azure AD)
+### <a name="control-panel-vendor-cpv-csp-role-and-non-azure-ad-role"></a>Panel sterowania Vendor (CPV). (Rola CSP i rola spoza usługi Azure AD)
 
-CpVs opracowywać aplikacje do użycia przez partnerów CSP, aby umożliwić im integrowanie ich systemów z Partner Center API. 
+CpV opracowywać aplikacje do użycia przez partnerów CSP, aby umożliwić im integrowanie ich systemów z Partner Center API. 
 
 |**Role**   |**Co możesz zrobić**|**Dowiedz się więcej**|
 |------------------------------|:----------------------------|----|
-|Administrator globalny| Wyświetlanie profilu dostawcy Panel sterowania (CPV) i zarządzanie nimi|[Zarejestruj się jako dostawca Panel sterowania, aby pomóc w integracji systemów partnerów programu CSP z Partner Center API](enroll-as-cpv.md)
+|Administrator globalny| Wyświetlanie profilu dostawcy Panel sterowania (CPV) i zarządzanie nimi|[Zarejestruj się jako dostawca Panel sterowania, aby pomóc w integracji systemów partnerskich CSP z Partner Center API](enroll-as-cpv.md)
 ||Wyświetlanie użytkowników, którzy potrzebują dostępu do funkcji CPV, i zarządzanie nimi|
 
 ### <a name="guest-user-must-be-added-to-the-azure-ad-tenant"></a>Użytkownik-gość (należy dodać do dzierżawy usługi Azure AD)

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Dowiedz się, jak autoryzowany doradca subskrypcji może użyć usługi Partner Center, aby utworzyć ofertę zakupu i niestandardowy adres URL do dołączyć do ofert Office 365 wersji próbnej.
+description: Dowiedz się, jak autoryzowany doradca subskrypcji może użyć usługi Partner Center, aby utworzyć ofertę zakupu i niestandardowy adres URL do dołączyć do ofert Office 365 próbnych.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: ab85a6cb11a49f48362299c27bd110ec0cf54cb5
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959385"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247360"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Doradcy: Tworzenie oferty zakupu
 
@@ -25,7 +25,7 @@ ms.locfileid: "123959385"
 > [!NOTE]
 > Ta funkcja jest dostępna tylko dla partnerów firmy Microsoft, którzy są autoryzowanymi doradcami subskrypcji.
 
-Po wysłaniu zaproszenia do wersji próbnej dla usługi Office 365 do klienta możesz wykonać kolejne czynności, tworząc i wysyłając ofertę zakupu dostosowaną do potrzeb klienta. Jeśli masz certyfikat, aby zaoferować administrację delegowaną, możesz dodać do oferty zakupu opcję, która umożliwia administrowanie kontem w imieniu klienta.
+Po wysłaniu zaproszenia do wersji próbnej dla usługi Office 365 do klienta możesz utworzyć i wysłać ofertę zakupu dostosowaną do potrzeb klienta. Jeśli masz certyfikat, aby zaoferować administrację delegowaną, możesz dodać do oferty zakupu opcję, która umożliwia administrowanie kontem w imieniu klienta.
 
 Podczas tworzenia oferty zakupu kreator **Tworzenia oferty zakupu** tworzy niestandardowy adres URL. Adres URL zawiera osadzony kod, który identyfikuje Cię jako doradcę subskrypcji. Tego adresu URL można użyć dla jednego lub wielu klientów. Wyślij adres URL do klienta w wiadomości e-mail. Możesz też opublikować adres URL w witrynie internetowej. Jeśli klient zaakceptuje ofertę, klient zostanie skojarzony z jego zakupem.
 

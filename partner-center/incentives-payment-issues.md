@@ -9,11 +9,11 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.openlocfilehash: 7e3f3e206c851fbcc68ecd47f6027a2d5856478e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959681"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246867"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Rozwiązywanie problemów z brakującymi płatnościami, nieprawidłowymi zarobkami i innymi problemami
 
@@ -112,7 +112,7 @@ Brakujące lub niepoprawne zarobki mogą być spowodowane przez jeden z następu
 
 - **Być może występuje rozbieżność.**  Jeśli spełniasz wymagania [dotyczące](incentives-determined-your-program-eligibility.md) [](incentives-confirm-your-earnings-eligibility.md) uprawnień do programu i zarobków, a Twoje zarobki nadal wydają się nieprawidłowe, poniższe informacje mogą pomóc w pobraniu danych.
 
-Zarobki są wyświetlane zarówno **na stronie Historia transakcji,** jak i **na stronie Płatności.** Dostęp do obu stron można uzyskać, wybierając **ikonę Wypłata** na pasku nawigacyjnym Partner Center.
+Zarobki są wyświetlane zarówno **na stronie Historia transakcji,** jak i **na stronie Płatności.** Dostęp do obu stron można uzyskać, wybierając **ikonę Wypłata** na pasku nawigacyjnym w Partner Center.
 
 :::image type="content" source="images/incentives/paymenticon.png" alt-text="Informacje o transakcji.":::
 
@@ -132,32 +132,32 @@ Ten widok umożliwia wyświetlanie płatności dla wszystkich programów i ident
 
 | Wymagana czynność | Przejdź tutaj |
 | ------ | :----------- | 
-| Wyświetlanie informacji o płatności według wiersza, w tym zarobków i kwot płatności w walucie lokalnej  | Zobacz pole **Lista** płatności   |
-| Pobieranie litery przelewu   |  Wybierz **pozycję Przelew płatności**  |
+| Wyświetlanie informacji o płatności według wiersza, w tym zarobków i kwot płatności w walucie lokalnej  | Zobacz **pole Lista** płatności   |
+| Pobieranie litery przelewu   |  Wybieranie **opcji Przelewy**  |
 | Wyświetlanie szczegółów poziomu transakcji dla określonej płatności |  Wybieranie **widoku**  |
 | Eksportowanie szczegółów transakcji do Excel  |  Wybierz **pozycję Rozpocznij pobieranie,** a następnie wybierz **pozycję Eksportuj dane.** Wszystkie wybrane filtry zostaną zastosowane do wyeksportowanych danych. Po zmianie stanu na Ukończono wybierz pozycję **Pobierz** i postępuj zgodnie z monitami, aby wyeksportować szczegółowy raport transakcji. Odśwież stronę, jeśli stan nie zostanie zaktualizowany w ciągu pięciu minut.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Brakujące lub nieprawidłowe zarobki i płatności
 
-Jeśli nie możesz zlokalizować szczegółów płatności lub transakcji, sprawdź, czy zastosowano poprawne filtry. Ponieważ nazwy niektórych programów uległy zmianie (na przykład program CSP 1T Direct Partner jest teraz CSP Direct Bill Partner), może być konieczne użycie wielu opcji.
+Jeśli nie możesz zlokalizować szczegółów płatności lub transakcji, sprawdź, czy zastosowano poprawne filtry. Ponieważ niektóre nazwy programów uległy zmianie (na przykład program CSP 1T Direct Partner jest teraz CSP Direct Bill Partner), może być konieczne użycie wielu opcji.
 
-Jeśli nadal nie możesz znaleźć swoich zarobków lub uważasz, że pokazane zarobki są nieprawidłowe, skontaktuj się z pomocą [techniczną](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Jeśli nadal nie możesz znaleźć swoich zarobków lub uważasz, że pokazane zarobki są nieprawidłowe, skontaktuj się z pomocą [techniczną.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
 
-## <a name="how-do-i-reconcile-my-earnings"></a>Jak mogę uzgodnić zarobki?
+## <a name="how-do-i-reconcile-my-earnings"></a>Jak mogę uzgodnić moje zarobki?
 
 Jeśli w zarobkach występują rozbieżności, wykonaj następujące czynności:
 
-1. **Potwierdź, że przysługują Ci zarobki.**  Zarobki będą dostępne tylko wtedy, gdy spełnisz zarówno uprawnienia [do programu,](incentives-determined-your-program-eligibility.md) jak i uprawnienia [do zarobków.](incentives-confirm-your-earnings-eligibility.md)
+1. **Potwierdź, że przysługują Ci zarobki.**  Zarobki będą dostępne tylko wtedy, gdy spełnisz zarówno [uprawnienia do](incentives-determined-your-program-eligibility.md) programu, jak i uprawnienia [do zarobków.](incentives-confirm-your-earnings-eligibility.md)
 
 2. **Potwierdź, że Twój profil płatności został wypełniony.**  Data rozpoczęcia zarobków w ramach zachęty to pierwszy dzień miesiąca, w którym zostały spełnione wszystkie wymagania dotyczące kwalifikowalności, w tym dołączenia ze szczegółowymi informacjami podatkowymi i dotyczącymi wypłat. Zarobki nie będą dostępne dla miesięcy poprzedzających uzupełnienie wypłat i podatków. Jeśli na przykład spełnisz wszystkie wymagania w ciągu miesiąca kwietnia 2020 r., datą rozpoczęcia zarobków będzie 1 kwietnia 2020 r. 
 
-3. **Potwierdź, że spełniasz wymagania.**  Sprawdź, czy zostały spełnione wymagania [dotyczące](#my-payment-is-missing-or-incorrect) kwalifikowalności i reguł kwalifikowalnych przychodów dla programu zachęt.
+3. **Potwierdź, że spełniasz wymagania.**  Sprawdź, czy zostały spełnione [](#my-payment-is-missing-or-incorrect) reguły kwalifikowalności i kwalifikowalnych przychodów dla programu zachęt.
 
-Jeśli te akcje nie pomogą, a Zarobki nadal nie zostały uzgodnione, skontaktuj się z [pomocą techniczną](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Jeśli te działania nie pomogą, a Twoje zarobki nadal nie zostaną uzgodnione, skontaktuj się z [pomocą techniczną.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
 
 ## <a name="where-can-i-find-my-rates"></a>Gdzie mogę znaleźć moje stawki?
 
-1. Zaloguj się [do programu zachęt dla partnerów.](https://partner.microsoft.com/membership/partner-incentives)
+1. Zaloguj się [do zachęt partnerów.](https://partner.microsoft.com/membership/partner-incentives)
 
 2. Przewiń w dół, aby uzyskać dostęp do dokumentów programu.
 

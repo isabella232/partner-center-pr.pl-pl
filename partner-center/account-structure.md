@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
-description: 'Partnerzy MPN mogą uzyskać informacje na temat dwóch poziomów kont w programie Partner Center: globalnego konta partnera (PGA) i konta lokalizacji partnera (PLA).'
+description: 'Partnerzy MPN mogą dowiedzieć się więcej na temat dwóch poziomów kont w programie Partner Center: globalnego konta partnera (PGA) i konta lokalizacji partnera (PLA).'
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 47592fb0d0a81a827982e48b35381c59bb079c66
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957885"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246993"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partner Center ma dwa poziomy kont dla partnerów MPN
 

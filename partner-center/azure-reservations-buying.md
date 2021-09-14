@@ -10,49 +10,49 @@ ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
 ms.openlocfilehash: 112296baffe38b81a1a0516e62fa31525d1e3b3d
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123957969"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246376"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Kupowanie Microsoft Azure rezerwacji w imieniu klientów w Partner Center
 
-**Odpowiednie role:** Administrator | Administrator globalny | Agent pomocy technicznej | Agent sprzedaży | Administrator zarządzania użytkownikami
+**Odpowiednie role:** Agent administracyjny | Administrator globalny | Agent pomocy technicznej | Agent sprzedaży | Administrator zarządzania użytkownikami
 
-W tym artykule wyjaśniono, jak kupować lub kupować rezerwacje platformy Azure w imieniu klientów w Partner Center. Identyfikuje on również rynki, na których rezerwacje platformy Azure są niedostępne.
+W tym artykule wyjaśniono, jak kupować lub kupować rezerwacje platformy Azure w imieniu klientów w Partner Center. Identyfikuje również rynki, na których rezerwacje platformy Azure są niedostępne.
  
 > [!NOTE]
-> Ten artykuł dotyczy tylko partnerów w programie Dostawca rozwiązań w chmurze (CSP). Klienci korzystający z innych typów subskrypcji (takich jak subskrypcje z płatnością zgodnie z użyciem, indywidualny, Umowa z Klientem Microsoft lub Enterprise Agreement) powinni zamiast tego przeczytać tę dokumentację rezerwacji platformy [Azure.](/azure/cost-management-billing/reservations)
+> Ten artykuł dotyczy tylko partnerów w programie Dostawca rozwiązań w chmurze (CSP). Klienci korzystający z innych typów subskrypcji (takich jak subskrypcje z płatnością zgodnie z użyciem, indywidualne, Umowa z Klientem Microsoft lub Enterprise Agreement) powinni zamiast tego przeczytać tę dokumentację rezerwacji platformy [Azure.](/azure/cost-management-billing/reservations)
 
 ## <a name="before-you-begin"></a>Zanim rozpoczniesz
 
-Przed zakupem rezerwacji platformy Azure w imieniu klientów zapoznaj się z ważnymi informacjami poniżej. (Czy chcesz, aby klienci mogli kupować własne rezerwacje platformy Azure w ramach wcześniejszej subskrypcji platformy Azure, która została dla nich zakupiona? Zobacz [Temat Nadaj klientom uprawnienia do kupowania własnych rezerwacji platformy Azure).](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)
+Przed zakupem rezerwacji platformy Azure w imieniu klientów zapoznaj się z ważnymi informacjami poniżej. (Czy chcesz, aby klienci mogli kupować własne rezerwacje platformy Azure z wcześniejszej subskrypcji platformy Azure, która została dla nich zakupiona? Zobacz [Temat Nadaj klientom uprawnienia do kupowania własnych rezerwacji platformy Azure).](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)
 
 - Jeśli i kiedy klient podpisze nową Umowa z Klientem Microsoft (zobacz Potwierdzanie akceptacji klienta [Umowa z Klientem Microsoft),](confirm-customer-agreement.md)musisz zakupić rezerwacje platformy Azure w ramach planu platformy Azure. Aby uzyskać więcej informacji, przeczytaj [Zakup planu platformy Azure.](purchase-azure-plan.md)
 
 - Klienci muszą już mieć aktywną subskrypcję platformy Azure, aby można było kupić rezerwacje w ich imieniu
   
-- Koszty subskrypcji oprogramowania, takie jak SQL Database lub oprogramowanie SUSE Linux, nie są uwzględnione w cenach rezerwacji platformy Azure
+- Koszty subskrypcji oprogramowania, takie jak SQL Database lub oprogramowanie SUSE Linux, nie są uwzględniane w cenach rezerwacji platformy Azure
 
-- Ceny komercyjne firmy Microsoft dla Ciebie nie obejmują podatków, chyba że Twoja lokalizacja to Brazylia. Jeśli Twoją lokalizacją jest Brazylia, cena komercyjna uwzględnia odpowiednie podatki
+- Ceny komercyjne firmy Microsoft dla Ciebie nie obejmują podatków, chyba że Twoja lokalizacja to Brazylia. Jeśli Twoja lokalizacja to Brazylia, cena komercyjna uwzględnia odpowiednie podatki
 
-- Agenci działu sprzedaży i pomocy technicznej potrzebują jawnego dostępu do subskrypcji platformy Azure Portal Azure, aby można było ją kupić lub zarządzać w imieniu klienta w imieniu klienta, a także do obsługi żądań pomocy technicznej i obsługi plików, w tym w celu wymiany i zwrotu kosztów  
+- Agenci działu sprzedaży i pomocy technicznej potrzebują jawnego dostępu do subskrypcji platformy Azure Portal Azure, aby można było kupić ją lub zarządzać jej w imieniu klienta, w tym o wymianę i zwrot kosztów, w imieniu klienta  
 
 - Jeśli jesteś dostawcą pośrednim i kupujesz rezerwacje platformy Azure za pośrednictwem usługi Azure Portal, partner rekordu (odsprzedawca pośredni) jest dziedziczony z wybranej Azure CSP subskrypcji.
 
-- Partnera rekordów rezerwacji platformy Azure nie można zmienić po zakupie. Możesz anulować istniejącą rezerwację i zakupić nową z nowym partnerem rekordu.
+- Partnera rekordów rezerwacji platformy Azure nie można zmienić po zakupie. Możesz anulować istniejącą rezerwację i zakupić nową rezerwację u nowego partnera rekordów.
 
-- Jeśli klient chce przenieść subskrypcję platformy Azure z subskrypcji Bezpośrednie lub EA do programu CSP, rezerwacje nie są przenoszone.
+- Jeśli klient chce przenieść subskrypcję platformy Azure z programu Direct lub EA do programu CSP, rezerwacje nie zostaną przeniesione.
 
-## <a name="azure-reservations-unavailable-markets"></a>Rezerwacje platformy Azure niedostępne na rynkach
+## <a name="azure-reservations-unavailable-markets"></a>Rezerwacje platformy Azure są niedostępne na rynkach
 
 > [!IMPORTANT]
 > Rezerwacje platformy Azure **nie są** dostępne na następujących rynkach:  
 >  
 > **Niedostępne rynki (w kolejności alfabetycznej)**
 >
-> |A do Gi   | Gr do Pal  | Pap do Z |
+> |A do Gi   | Gr do Pal  | Pap–Z |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | Wyspy alandzkie     | Grenlandia     | Papua Nowa Gwinea     |
 > | Samoa Amerykańskie     | Grenada     | Wyspy Pitcairn     |
@@ -65,7 +65,7 @@ Przed zakupem rezerwacji platformy Azure w imieniu klientów zapoznaj się z wa�
 > | Benin     | Haiti       | Saint Vincent i Grenadyny     |
 > | Bhutan     | Wyspy Heard i McDonalda       | Samoa     |
 > | Bonaire     | Wyspa Man     | San Marino     |
-> | Wyspa Bouveta     | Jan Mayen     | São Tomé i Práncipe   |
+> | Wyspa Bouveta     | Jan Mayen     | São Tomé i Prüncipe   |
 > | Brytyjskie Terytorium Oceanu Indyjskiego       | Jersey     | Seszele   |
 > | Brytyjskie Wyspy Dziewicze     | Kiribati       | Sierra Leone   |
 > | Burkina Faso     | Kosowo     | Sint Eustatius     |
@@ -74,7 +74,7 @@ Przed zakupem rezerwacji platformy Azure w imieniu klientów zapoznaj się z wa�
 > | Republika Środkowoafrykańska     | Liberia     | Somalia     |
 > | Czad     | Madagaskar     | Georgia Południowa i Sandwich Południowy     |
 > | Chiny     | Malawi     | Sudan Południowy     |
-> | Wyspa Bożego Narodzenia     | Malediwy     | StRowa, Ascension, Tristan da Cunha     |
+> | Wyspa Bożego Narodzenia     | Malediwy     | StLiga, Ascension, Tristan da Cunha     |
 > | Wyspy Kokosowe (Keelinga)     | Mali     | Surinam     |
 > | Komory     | Wyspy Marshalla     | Svalbard     |
 > | Kongo     | Martynika     | Suazi     |
@@ -94,7 +94,7 @@ Przed zakupem rezerwacji platformy Azure w imieniu klientów zapoznaj się z wa�
 
 ## <a name="purchase-azure-reservations"></a>Zakup rezerwacji platformy Azure
 
-Wykonaj poniższe kroki, aby Microsoft Azure rezerwacje w imieniu klientów w Partner Center. (Czy chcesz, aby klienci mogli kupować własne rezerwacje platformy Azure z wcześniejszej subskrypcji platformy Azure, która została dla nich zakupiona? Zobacz [Temat Nadaj klientom uprawnienia do kupowania własnych rezerwacji platformy Azure).](give-customers-permission.md)
+Wykonaj poniższe kroki, aby kupić Microsoft Azure rezerwacje w imieniu klientów w Partner Center. (Czy chcesz, aby klienci mogli kupować własne rezerwacje platformy Azure z wcześniejszej subskrypcji platformy Azure, która została dla nich zakupiona? Zobacz [Temat Nadaj klientom uprawnienia do kupowania własnych rezerwacji platformy Azure).](give-customers-permission.md)
 
 1. Wybierz **pozycję Klienci** z Partner Center menu.  
 
@@ -145,7 +145,7 @@ Wykonaj poniższe kroki, aby Microsoft Azure rezerwacje w imieniu klientów w Pa
 |**Aby uzyskać informacje o**   |**Przeczytaj to**    |
 |:-----------------------------|:-----------------|
 |Rezerwacje platformy Azure w programie CSP — omówienie  | [Sprzedaż Microsoft Azure wystąpień zarezerwowanych](azure-reservations.md) |
-|Zarządzanie rezerwacjami platformy Azure w Partner Center | [Zarządzanie rezerwacjami platformy Azure w Partner Center](azure-reservations-manage.md)
+|Zarządzanie rezerwacjami platformy Azure w Partner Center | [Zarządzanie rezerwacjami platformy Azure w usłudze Partner Center](azure-reservations-manage.md)
 |Określanie prawidłowego rozmiaru maszyny wirtualnej i weryfikowanie użycia maszyny wirtualnej klienta   |[Rozmiar maszyny wirtualnej dla maksymalnego użycia rezerwacji platformy Azure](azure-usage.md)   |
-|Kupowanie rezerwacji platformy Azure przy użyciu Partner Center API | [Informacje Azure Reserved VM Instances](/partner-center/develop/purchase-azure-reservations) w dokumentacji Partner Center deweloperów   |
+|Kupowanie rezerwacji platformy Azure przy użyciu interfejsu API Partner Center API | [Informacje Azure Reserved VM Instances](/partner-center/develop/purchase-azure-reservations) w dokumentacji Partner Center deweloperów   |
 |Udzielanie klientom uprawnień do zakupu własnych rezerwacji platformy Azure  | [Nadaj klientom uprawnienia do zakupu własnych rezerwacji platformy Azure](give-customers-permission.md)  |

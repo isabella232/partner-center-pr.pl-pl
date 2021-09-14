@@ -10,15 +10,15 @@ ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: ae78b13ae17b223e1cb540bea50168d02bcb9a1c
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959807"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246777"
 ---
 # <a name="frequently-asked-questions-for-partner-earned-credit"></a>Często zadawane pytania dotyczące środków uzyskane przez partnerów
 
-Odpowiednie role: Administrator globalny | Administrator zarządzający użytkownikami | Agent administracyjny | Administrator rozliczeń | Agent sprzedaży
+Odpowiednie role: Administrator globalny | Administrator zarządzania użytkownikami | Agent administracyjny | Administrator rozliczeń | Agent sprzedaży
 
 Poniżej znajduje się lista często zadawanych pytań dotyczących środków uzyskane przez partnerów.
 
@@ -42,7 +42,7 @@ Zobacz [Obliczanie](partner-earned-credit-explanation.md#calculation).
 
 Szczegóły dotyczące PEC mogą być wyszukiwane bezpośrednio przez interfejs [API,](partner-earned-credit-explanation.md#calculation) codzienny plik rekonescji i [narzędzie ACM (Azure Cost Mgmt)](partner-earned-credit-explanation.md#azure-cost-management-and-pec) przez partnerów.
 
-## <a name="how-can-i-reconcile-my-pec-information-across-the-two-recon-files"></a>Jak mogę uzgodnić informacje o PEC między dwoma plikami rekonescji?
+## <a name="how-can-i-reconcile-my-pec-information-across-the-two-recon-files"></a>Jak mogę uzgodnić informacje dotyczące PEC między dwoma plikami rekonescji?
 
 W obszarze Rozliczenia znajdują się dwa pliki uzgodnień Partner Center, których można użyć.
 
@@ -51,9 +51,9 @@ W obszarze Rozliczenia znajdują się dwa pliki uzgodnień Partner Center, któr
 
 Aby uzgodnić, partner może porównać pola ProductID, SKUID i AvailabilityID z tych dwóch plików dla każdego pola SubscriptionID.
 
-:::image type="content" source="images/advanced-specializations/partner-billing.png" alt-text="Zrzut ekranu przedstawiający Partner Center Rozliczenia z wyróżnieniami zakupów cyklicznych i jednorazowych." border="false":::
+:::image type="content" source="images/advanced-specializations/partner-billing.png" alt-text="Zrzut ekranu przedstawiający kartę Partner Center Rozliczenia z wyróżnieniami zakupów cyklicznych i jednorazowych." border="false":::
 
-## <a name="for-an-indirect-reseller-working-with-an-indirect-provider-does-an-indirect-provider-need-to-add-the-indirect-resellers-account-as-an-rbac-identity-and-access-management-iam-role-to-the-end-customers-subscription-in-order-to-utilize-acm"></a>Czy w przypadku odsprzedawcy pośredniego współpracującego z dostawcą pośrednim, czy dostawca pośredni musi dodać konto odsprzedawcy pośredniego jako rolę zarządzania tożsamościami i dostępem RBAC (IAM) do subskrypcji klienta końcowego, aby móc korzystać z usługi ACM?
+## <a name="for-an-indirect-reseller-working-with-an-indirect-provider-does-an-indirect-provider-need-to-add-the-indirect-resellers-account-as-an-rbac-identity-and-access-management-iam-role-to-the-end-customers-subscription-in-order-to-utilize-acm"></a>Czy w przypadku odsprzedawcy pośredniego współpracującego z dostawcą pośrednim dostawca pośredni musi dodać konto odsprzedawcy pośredniego jako rolę zarządzania tożsamościami i dostępem RBAC (IAM) do subskrypcji klienta końcowego, aby móc korzystać z usługi ACM?
 
 Tak, użytkownik CSP Indirect Provider dostęp [RBAC](/azure/role-based-access-control/overview) do odsprzedawcy pośredniego w subskrypcji platformy Azure.
 
@@ -68,7 +68,7 @@ Partner bez odpowiedniego dostępu RBAC w programie CSP zachowuje w firmie Micro
 Istnieje kilka sposobów, w jakie partner może potwierdzić, że ma odpowiedni dostęp do zasobów platformy Azure klienta.
 
 - Przejrzyj plik dziennego użycia: Jeśli partner otrzymuje kredyt uzyskane przez partnera dla usług zarządzanych, ma dostęp administratora. Można to ustalić, przeglądając cenę jednostkową i efektywną cenę jednostkową w pliku dziennego użycia i potwierdzając, czy rabat jest stosowany.
-- Tworzenie alertu Azure Monitor: alerty [](/azure/azure-monitor/platform/alerts-activity-log) dziennika aktywności można tworzyć przy użyciu usługi Azure Monitor w celu otrzymywania powiadomień o usunięciu dostępu RBAC z subskrypcji CSP. Zapoznaj się z przewodnikiem Opis środków uzyskane przez partnerów i dokumentacją techniczną.
+- Tworzenie alertu Azure Monitor: alerty [](/azure/azure-monitor/platform/alerts-activity-log) dziennika aktywności można tworzyć przy użyciu usługi Azure Monitor do odbierania powiadomień, gdy dostęp RBAC zostanie usunięty z subskrypcji CSP. Zapoznaj się z przewodnikiem Opis środków uzyskane przez partnerów i dokumentacją techniczną.
 
 ## <a name="why-dont-i-see-pec-on-the-invoice"></a>Dlaczego na fakturze nie widzę PEC?
 

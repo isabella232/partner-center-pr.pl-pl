@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Użyj tych stron do wyświetlania stanu Program zachęt zarządzania
+description: Użyj tych stron, aby wyświetlić stan Program zachęt i zarządzać nimi
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.openlocfilehash: 33ec3befdc4b2bab2f31d25d210679594debbbf1
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958665"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246622"
 ---
 # <a name="view-your-incentives-program-details"></a>Wyświetlanie szczegółów programu zachęt
 
@@ -23,7 +23,7 @@ ms.locfileid: "123958665"
 W tym artykule  wyjaśniono stronę Przeglądu moich zachęt, na której przedstawiono ogólny stan programów zachęt, a także stan poszczególnych programów w poszczególnych lokalizacjach. Zapewnia również różne stany rejestracji.
 
 >[!NOTE]
->Aby uzyskać więcej informacji na temat zachęt i funkcji zachęt w Partner Center, zobacz [Partner Investments and Incentives](https://partner.microsoft.com/membership/partner-incentives) (Inwestycje i zachęty dla partnerów) (wymagane jest zalogowanie).
+>Aby uzyskać więcej informacji na temat zachęt i funkcji zachęt w programie Partner Center, zobacz [Partner Investments and Incentives](https://partner.microsoft.com/membership/partner-incentives) (Inwestycje i zachęty dla partnerów) (wymagane jest zalogowanie się).
 
 ## <a name="access-the-incentives-overview-page"></a>Uzyskiwanie dostępu do strony z omówieniem zachęt
 

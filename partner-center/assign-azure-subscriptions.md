@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Dowiedz się, jak przypisywać subskrypcje platformy Azure do klientów w Partner Center oraz jak umożliwić klientom zarządzanie ich własnymi subskrypcjami.
+description: Dowiedz się, jak przypisywać subskrypcje platformy Azure do klientów w usłudze Partner Center oraz jak umożliwić klientom zarządzanie ich własnymi subskrypcjami.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 1416c9b12cb6670eb2598f8baa4839996e29f09b
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958882"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246441"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Przypisywanie subskrypcji platformy Azure do klientów w Partner Center
 
@@ -22,26 +22,26 @@ ms.locfileid: "123958882"
 
 ## <a name="assign-azure-subscriptions-to-your-customers"></a>Przypisywanie subskrypcji platformy Azure do klientów
 
-1. Wybierz **pozycję** Klienci **z Partner Center** menu i znajdź klienta, którym chcesz zarządzać.
+1. Wybierz **pozycję** Customers **(Klienci) Partner Center** menu aplikacji i znajdź klienta, którym chcesz zarządzać.
 
-2. Wybierz strzałkę w dół na końcu wiersza, aby rozwinąć rekord klienta, a następnie wybierz pozycję **Microsoft Azure portal zarządzania**. Zostaniesz skierowany do [Azure Portal,](https://portal.azure.com/) w którym możesz zarządzać subskrypcjami klienta.
+2. Wybierz strzałkę w dół na końcu wiersza, aby rozwinąć rekord klienta, a następnie wybierz pozycję **Microsoft Azure portal zarządzania**. Zostaniesz skierowany do [Azure Portal,](https://portal.azure.com/) gdzie możesz zarządzać subskrypcjami klienta.
 
 3. Z Azure Portal wybierz pozycję **Subskrypcje.**
 
-4. Wybierz subskrypcję, która chcesz przypisać, a następnie wybierz pozycję **Access Control**.
+4. Wybierz subskrypcję, która ma zostać przypisana, a następnie wybierz pozycję **Access Control**.
 
-5. Wybierz **pozycję Dodaj,** aby dodać użytkownika do subskrypcji. 
+5. Wybierz **pozycję** Dodaj, aby dodać użytkownika do subskrypcji. 
 
 6. Po dodaniu użytkownika do subskrypcji możesz przypisać mu rolę i konkretne konto, do których użytkownik będzie miał dostęp.
 
 ## <a name="enable-customers-to-manage-their-azure-subscriptions"></a>Umożliwianie klientom zarządzania subskrypcjami platformy Azure
 
-Po utworzeniu Microsoft Azure subskrypcji dla klienta możesz umożliwić mu zarządzanie subskrypcją. Aby to zrobić, musisz zalogować się do portalu zarządzania Microsoft Azure klienta. 
+Po utworzeniu subskrypcji Microsoft Azure klienta możesz umożliwić mu zarządzanie subskrypcją. Aby to zrobić, musisz zalogować się do portalu zarządzania Microsoft Azure klienta. 
 
-1. Aby otworzyć listę klientów Azure Portal rozwiń listę klientów na liście klientów lub wybierz **jego nazwę,** a następnie wybierz pozycję Microsoft Azure portal zarządzania .
+1. Aby otworzyć konto klienta Azure Portal rozwiń listę klientów na liście klientów lub wybierz jego nazwę, a następnie wybierz pozycję **Microsoft Azure portal zarządzania**.
 
    > [!NOTE]  
-   > Jeśli zostanie wyświetlony monit o zalogowanie się do Azure Portal, być może nie masz delegowanych uprawnień administracyjnych. Wybierz **pozycję Request a relationship** (Zażądaj relacji), aby zaprosić klienta do zidentyfikowania Cię jako partnera rekordów. Po zaakceptowaniu zaproszenia przez klienta automatycznie zostaną przyznane delegowane uprawnienia administracyjne.
+   > Jeśli zostanie wyświetlony monit o zalogowanie się do Azure Portal, możesz nie mieć delegowanych uprawnień administracyjnych. Wybierz **pozycję Zażądaj relacji,** aby zaprosić klienta do zidentyfikowania Cię jako partnera rekordów. Po zaakceptowaniu zaproszenia przez klienta automatycznie zostaną przyznane delegowane uprawnienia administracyjne.
 
 2. W Azure Portal otwórz listę subskrypcji klienta i wybierz subskrypcję platformy Azure klienta.
 

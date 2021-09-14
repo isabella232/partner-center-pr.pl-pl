@@ -10,11 +10,11 @@ metadata:
   ms.author: mseamons
   ms.localizationpriority: medium
   ms.openlocfilehash: 868b47431eb6d04c0885f82c13f7611bace24d2c
-  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+  ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/09/2021
-  ms.locfileid: "123959566"
+  ms.lasthandoff: 09/13/2021
+  ms.locfileid: "126246873"
 title: Często zadawane pytania dotyczące zachęt
 summary: >
   **Odpowiednie role:** Zachęty dla administratorów | Zachęty użytkownika
@@ -38,7 +38,7 @@ sections:
   - question: >
       Jakie role użytkownika są dostępne?
     answer: >
-      Osoba, która zarejestruje firmę w Partner Center, domyślnie staje się osobą kontaktową podstawową i administratorem globalnym. Administrator może zapraszać użytkowników i zarządzać nimi w portalu.
+      Osoba, która rejestruje firmę w Partner Center staje się domyślnie osobą kontaktową podstawową i administratorem globalnym. Administrator może zapraszać użytkowników i zarządzać nimi w portalu.
 
 
       Kluczowymi rolami dla zachęt są administrator zachęt i użytkownik zachęt. Administrator zachęt może rejestrować się w programach zachęt i zarządzać danymi banku i podatków dla partnera. Użytkownik zachęt może wyświetlać raporty w narzędziu, aby zobaczyć, co zostało zapłacone, oraz podział każdej płatności, ale nie może wyświetlać ani edytować szczegółów banku. Obie role mogą być stosowane do wszystkich lokalizacji w ramach konta globalnego partnera.
@@ -54,7 +54,7 @@ sections:
       Prawdopodobną przyczyną, dla którego nie widać zachęt, jest to, że nie masz odpowiednich uprawnień. Aby rozwiązać ten problem, użyj poniższej procedury.
 
 
-      1. Zaloguj się do [pulpitu Partner Center przy](https://partner.microsoft.com/dashboard/) użyciu poświadczeń dzierżawy usługi Azure AD (poświadczeń służbowych). Jeśli nie możesz się zalogować, skontaktuj się z administratorem globalnym firmy.
+      1. Zaloguj się do Partner Center [nawigacyjnego przy](https://partner.microsoft.com/dashboard/) użyciu poświadczeń dzierżawy usługi Azure AD (poświadczeń służbowych). Jeśli nie możesz się zalogować, skontaktuj się z administratorem globalnym firmy.
 
 
       2. Jeśli podczas logowania zostanie wyświetlony monit o  wybranie konta służbowego lub osobistego, wybierz pozycję Konto **służbowe.**

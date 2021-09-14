@@ -10,11 +10,11 @@ ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 7ce31bd688c32da956f466d63beede3f0fc9f9ef
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246753"
 ---
 # <a name="troubleshooting-partner-earned-credit"></a>Rozwiązywanie problemów ze środków uzyskane przez partnerów
 
@@ -44,7 +44,7 @@ Jeśli masz problemy z PEC, takie jak dostęp lub brakujące informacje, sprawd�
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Cennik nowego środowisko handlowego dla Platforma Azure w programie CSP](azure-plan-price-list.md)
+- [Cennik nowego doświadczenia handlowego dla Platforma Azure w programie CSP](azure-plan-price-list.md)
 - [Zarządzanie subskrypcjami i zasobami w ramach planu platformy Azure](azure-plan-manage.md)
 - [Nowe środowisko handlowe w programie CSP — rozliczenia platformy Azure](azure-plan-billing.md)
 - [Przywracanie uprawnień administratora dla subskrypcji w ramach programu Azure CSP](revoke-reinstate-csp.md)

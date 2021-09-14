@@ -8,21 +8,21 @@ ms.author: gushuchm
 ms.custom: contperf-fy21q3
 ms.date: 03/09/2021
 ms.openlocfilehash: 96e8d686d2048856791a691ccc1d03f541ad856d
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123936955"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246694"
 ---
 # <a name="what-is-azure-marketplace"></a>Co to jest Azure Marketplace?
 
-[Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps/category/security) to sklep online zawierający tysiące aplikacji i usług IT zbudowanych przez wiodące w branży firmy technologiczne. W Azure Marketplace możesz znaleźć, wypróbować, kupić i wdrożyć oprogramowanie i usługi potrzebne do tworzenia nowych rozwiązań i zarządzania infrastrukturą chmury. Katalog zawiera rozwiązania dla różnych branż i obszarów technicznych, bezpłatne wersje próbne, a także usługi konsultingowe od partnerów firmy Microsoft.
+[Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps/category/security) to sklep online zawierający tysiące aplikacji i usług IT zbudowanych przez wiodące w branży firmy technologiczne. W Azure Marketplace można znaleźć, wypróbować, kupić i wdrożyć oprogramowanie i usługi potrzebne do tworzenia nowych rozwiązań i zarządzania infrastrukturą chmury. Katalog zawiera rozwiązania dla różnych branż i obszarów technicznych, bezpłatne wersje próbne, a także usługi konsultingowe od partnerów firmy Microsoft.
 
 ## <a name="find-what-you-need-in-azure-marketplace"></a>Znajdź potrzebne informacje w Azure Marketplace
 
-Azure Marketplace oferuje proste opcje wyszukiwania i filtrowania, które ułatwiają szybkie znajdowanie szukanych informacji. Użyj paska wyszukiwania w górnej części strony, aby znaleźć rozwiązania według dostawcy, nazwy produktu lub słów kluczowych.
+Azure Marketplace oferuje proste opcje wyszukiwania i filtrowania, które ułatwiają szybkie znajdowanie tego, czego szukasz. Użyj paska wyszukiwania w górnej części strony, aby znaleźć rozwiązania według dostawcy, nazwy produktu lub słów kluczowych.
 
-:::image type="content" source="media/azure-marketplace/azure-marketplace-select.png" alt-text="Wyświetla główne okno Azure Marketplace, w którym można wybrać, czy przeglądać aplikacje, czy usługi doradcze.":::
+:::image type="content" source="media/azure-marketplace/azure-marketplace-select.png" alt-text="Wyświetla główne okno Azure Marketplace, w którym można wybrać, czy przeglądać aplikacje, czy usługi konsultingowe.":::
 
 Podczas eksplorowania galerii aplikacji użyj filtrów u góry, aby zawęzić wyniki na podstawie dostępności bezpłatnej wersji próbnej lub wersji testowej, systemu operacyjnego, wydawcy, modelu cenowego lub typu produktu.
 
@@ -32,7 +32,7 @@ Okienko po lewej stronie umożliwia filtrowanie wykazu według kategorii, takich
 
 :::image type="content" source="media/azure-marketplace/categories-subcategories.png" alt-text="Przedstawia kategorie z podkategorie.":::
 
-Azure Marketplace upraszcza zakup oprogramowania i zarządzanie IT (przy użyciu różnych opcji cenowych i wielu metod wdrażania), aby zapewnić elastyczność spełniania unikatowych potrzeb firmy. Usprawnia ona również zaopatrzenie dzięki standardowym umowom kontraktowym, skonsolidowanym rozliczaniu i fakturowaniu oraz scentralizowanemu zarządzaniu subskrypcjami. Katalog Azure Marketplace jest dostępny w sklepie online i za pośrednictwem Azure Portal.
+Azure Marketplace upraszcza zaopatrzenie oprogramowania i zarządzanie IT (z różnymi opcjami cen i wieloma metodami wdrażania), aby zapewnić elastyczność spełniania unikatowych potrzeb biznesowych. Usprawnia ona również zaopatrzenie dzięki standardowym umowom kontraktowym, skonsolidowanym rozliczaniu i fakturowaniu oraz scentralizowanemu zarządzaniu subskrypcjami. Katalog Azure Marketplace jest dostępny w sklepie online i za pośrednictwem Azure Portal.
 
 ## <a name="microsoft-preferred-solutions"></a>Preferowane rozwiązania firmy Microsoft
 
@@ -42,7 +42,7 @@ Podczas wyszukiwania lub filtrowania wykazu wyniki mogą obejmować preferowane 
 
 Preferowane rozwiązania są wybierane przez zespół ekspertów firmy Microsoft i są publikowane przez partnerów firmy Microsoft z głęboką, sprawdzoną wiedzą i możliwościami w celu obsługi określonych potrzeb klientów w kategorii, branży lub branży.
 
-## <a name="search-in-the-azure-portal"></a>Wyszukaj w Azure Portal
+## <a name="search-in-the-azure-portal"></a>Wyszukiwanie w Azure Portal
 
 W witrynie Azure Portal pozycję **+ Utwórz zasób** lub wyszukaj pozycję "marketplace". Następnie przejrzyj kategorie po lewej stronie lub użyj paska wyszukiwania, który zawiera funkcję filtrowania.
 

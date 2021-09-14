@@ -3,7 +3,7 @@ metadata:
   title: Często zadawane pytania dotyczące zachęt do oceny rozwiązań
   ms.topic: how-to
   ms.date: 11/09/2020
-  description: Poznaj odpowiedzi na często zadawane pytania dotyczące oceny rozwiązań na platformie Channel Incentives Platform (CHIP).
+  description: Odpowiedzi na często zadawane pytania dotyczące oceny rozwiązań można znaleźć na platformie CHANNEL Incentives Platform (CHIP).
   ms.service: partner-dashboard
   ms.subservice: partnercenter-incentives
   author: Karthic83
@@ -11,11 +11,11 @@ metadata:
   ms.localizationpriority: medium
   ms.custom: SEOMAY.20
   ms.openlocfilehash: 60586dbabfc289d2ebc355e5d7bacf5bb11fcfe5
-  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+  ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/09/2021
-  ms.locfileid: "123959421"
+  ms.lasthandoff: 09/13/2021
+  ms.locfileid: "126247059"
 title: Zachęty do oceny rozwiązań — często zadawane pytania dotyczące platformy Channel Incentives Platform (CHIP)
 summary: >
   **Odpowiednie role:** Podstawowy kontakt lub administrator programu
@@ -27,43 +27,43 @@ sections:
   questions:
   - question: >
       Jakie są wymagania dotyczące uprawnień do programu zachęt do oceny rozwiązań?
-    answer: "Partnerzy z aktywnym i zarejestrowanym stanem w programie zachęt do oceny rozwiązań w roku 20 będą nadal uprawnieni do zachęt w roku 21, jeśli mają aktywne członkostwo w programie MPN oraz aktywną kompetencję Silver lub Gold MPN. Kwalifikacje partnerów będą sprawdzane co roku pod celu kwalifikowania się.  Jeśli ustanowioni partnerzy nie spełnią wymagań dotyczących uprawnień i uczestnictwa w bieżącym roku, zostaną usunięci w następnym corocznym przeglądzie.  Wszyscy nowi partnerzy są dołączani za pośrednictwem lokalnego specjalisty ds. oceny rozwiązań (SAS) w swoim obszarze.  Sygnatura dostępu współdzielonego zidentyfikuje partnerów, którzy mają zostać do nich doczesni, na podstawie dopasowania umiejętności i wiedzy w firmie partnerskiej oraz potrzeb biznesowych podmiotów zależnych obsługiwanych przez sygnaturę dostępu współdzielonego.\nPrzed rozpoczęciem procesu dołączania partnerzy muszą omówić z sygnaturą dostępu współdzielonego możliwości, które firma ma w zakresie wspierania ocen w swoich lokalizacjach. \n\nPartnerzy, którzy nie są obecnie zarejestrowani w programie zachęt, muszą spełnić poniższe kryteria zachętY FY21, aby kwalifikować się do dołączania do programu zachęt do oceny rozwiązań. Aby uzyskać szczegółowe [informacje, zobacz Uprawnienia do oceny rozwiązania](chip-solutions-assessment-eligible.md).\n"
+    answer: "Partnerzy z aktywnym i zarejestrowanym stanem w programie zachęt do oceny rozwiązań w roku 20 będą nadal uprawnieni do zachęt w roku 21, jeśli mają aktywne członkostwo w programie MPN i aktywną kompetencję Silver lub Gold MPN. Kwalifikacje partnerów będą sprawdzane pod celu kwalifikowania się co rok.  Jeśli ustanowioni partnerzy nie spełnią wymagań dotyczących uprawnień i uczestnictwa w bieżącym roku, zostaną usunięci w następnym corocznym przeglądzie.  Wszyscy nowi partnerzy są dołączani za pośrednictwem lokalnego specjalisty ds. oceny rozwiązań (SAS) w swoim obszarze.  Sygnatura dostępu współdzielonego zidentyfikuje partnerów, którzy mają zostać doczesni, na podstawie dopasowania umiejętności i wiedzy w firmie partnerskiej oraz potrzeb biznesowych podmiotów zależnych obsługiwanych przez sygnaturę dostępu współdzielonego.\nPrzed rozpoczęciem procesu dołączania partnerzy będą musieli omówić z sygnaturą dostępu współdzielonego możliwości, które firma ma w zakresie wspierania ocen w swoich lokalizacjach. \n\nPartnerzy, którzy nie są aktualnie zarejestrowani w programie zachęt, muszą spełniać poniższe kryteria zachętY FY21, aby kwalifikować się do dołączania do programu zachęt do oceny rozwiązań. Aby uzyskać szczegółowe [informacje, zapoznaj się z tematem Uprawnienia do oceny rozwiązania.](chip-solutions-assessment-eligible.md)\n"
   - question: >
       Jak mogę zarejestrować się w programie zachęt do oceny rozwiązań?
     answer: >
-      Skontaktuj się z lokalnym specjalistą ds. oceny rozwiązań (SAS, Solution Assessment Specialist), aby zainicjować proces.
+      Skontaktuj się z lokalnym specjalistą ds. oceny rozwiązań (SAS), aby zainicjować proces.
   - question: >
-      Jak mogę przesłać szczegóły dotyczące banku i podatku?
+      Jak mogę przesłać moje dane bankowe i podatkowe?
     answer: >
-      Przeczytaj [nawigowanie po platformie CHIP,](chip-intro.md) aby uzyskać szczegółowe instrukcje dotyczące sposobu przesyłania profilów bankowych i podatkowych.
+      Zapoznaj [się z tematem Nawigowanie](chip-intro.md) po platformie CHIP, aby uzyskać instrukcje krok po kroku dotyczące sposobu przesyłania profilów bankowych i podatkowych.
   - question: >
-      Stan mojej transakcji został zatwierdzony na chipie. Dlaczego nie została jeszcze zapłacona?
+      Stan mojej transakcji został zatwierdzony na stronie CHIP. Dlaczego nie została jeszcze zapłacona?
     answer: >
-      Oprócz stanu transakcji stan zamówienia sprzedaży musi zostać również zatwierdzony na platformie CHIP, aby można było przesłać możliwość płatności. Zapoznaj się z możliwościami na stronie CHIP, aby upewnić się, że weryfikacja weryfikacji aplikacji została przesłana i zatwierdzona przez zespół weryfikacji w układzie CHIP. Aby wyświetlić stan zamówienia sprzedaży, zaloguj się na chipie i wybierz pozycję **Wyszukaj transakcje** z pola **I Need To... (Muszę...** . Wprowadź identyfikator **szansy sprzedaży i** wybierz **pozycję Wyszukaj**. W wynikach wyszukiwania wybierz hiperlink "Edytuj" w obszarze PoE. Na stronie wynikowej przewiń do sekcji "Przegląd", aby wyświetlić stan weryfikacji weryfikacji zamówienia. Przejrzyj również pole "Komentarze" na wypadek, gdy zespół weryfikacji dotyczącej weryfikacji weryfikacji.
+      Oprócz stanu transakcji stan zamówienia sprzedaży musi również zostać zatwierdzony na platformie CHIP, zanim będzie można przesłać możliwość płatności. Zapoznaj się z możliwościami na stronie CHIP, aby upewnić się, że weryfikacja weryfikacji weryfikacji została przesłana i zatwierdzona przez zespół weryfikacji. Aby wyświetlić stan zamówienia sprzedaży, zaloguj się do mikroukładu i wybierz pozycję **Wyszukaj transakcje** z karty **Muszę...** . Wprowadź identyfikator **szansy sprzedaży i** wybierz **pozycję Wyszukaj**. W wynikach wyszukiwania wybierz hiperlink "Edytuj" w obszarze PoE. Na stronie wynikowej przewiń do sekcji "Przegląd", aby zobaczyć stan weryfikacji zamówienia. Zapoznaj się również z polem "Komentarze" w przypadku, gdy zespół weryfikacji musi uzyskać dodatkowe informacje na temat weryfikacji.
   - question: >
-      Dlaczego nie otrzymuję płatności za punkt kontrolny 1 dla mojej szansy sprzedaży?
+      Dlaczego nie otrzymam żadnej płatności za punkt kontrolny Milestone 1 w przypadku mojej szansy sprzedaży?
     answer: >
-      Od 15 sierpnia 2020 r. kamieni milowy 1 jest opłacany na poziomie 0% zatwierdzonych zachęt, a milestone 2 jest opłacany w 100% zatwierdzonego poziomu zachęty. Wszystkie otwarte działania zarejestrowane w układzie CHIP przed 15 sierpnia 2020 r. będą nadal opłacane zgodnie ze wskazówkami FY20. Zapoznaj się z [często zadawanymi pytaniami](https://assetsprod.microsoft.com/solution-assessment-incentive-program-faq.pdf) partnerów, aby uzyskać wskazówki dotyczące zmian w procesie kamieni milowych.
+      Od 15 sierpnia 2020 r. punkt kontrolny 1 jest opłacany przy 0% zatwierdzonego poziomu zachęt, a milestone 2 jest opłacany na poziomie 100% zatwierdzonego poziomu zachęt. Wszystkie otwarte działania zarejestrowane w ramach chipu przed 15 sierpnia 2020 r. będą nadal opłacane zgodnie ze wskazówkami z FY20. Zapoznaj się z [często zadawanymi pytaniami](https://assetsprod.microsoft.com/solution-assessment-incentive-program-faq.pdf) partnerów, aby uzyskać wskazówki dotyczące zmian w procesie kamieni milowych.
   - question: >
-      Jak zakwestionować otrzymaną szansę sprzedaży lub płatność?
+      Jak zakwestionować otrzymane szanse sprzedaży lub płatność?
     answer: >
-      Skontaktuj się z sygnaturą dostępu współdzielonego, która może dostarczyć wskazówek dotyczących tego żądania.
+      Skontaktuj się z sygnaturą dostępu współdzielonego, która może zapewnić wskazówki dotyczące tego żądania.
   - question: >
-      Możliwość jest zamykana w układzie CHIP, co uniemożliwia mi przekazywanie poe. Co mogę zrobić, aby uzyskać dostęp do szansy sprzedaży?
+      Możliwość jest zamykana na stronie CHIP, co uniemożliwia mi przekazanie danych poe. Co mogę zrobić, aby uzyskać płatną szansę sprzedaży?
     answer: >
-      Po zamknięciu szansy sprzedaży nie będzie ona już kwalifikować się do zachęt. Aby uzyskać więcej wskazówek, s możesz się do nich sprecyzować.
+      Po zamknięciu szansy sprzedaży nie kwalifikuje się ona już do zachęt. Aby uzyskać dalsze wskazówki, należy się do nich out to your SAS (Sygnatura dostępu współdzielonego).
   - question: >
       Jak mogę dodać nowego administratora/użytkownika do usługi CHIP?
     answer: >
-      Podstawowy kontakt partnera (administrator) jest odpowiedzialny za zaproszenie wszystkich innych użytkowników w firmie do zarejestrowania się na chipie. Są oni również odpowiedzialni za dostęp użytkowników, w tym za dezaktywację wszystkich użytkowników, którzy odchodzą z firmy. Przeczytaj Przewodnik [po platformie zachęt dla kanałów.](chip-intro.md)
+      Podstawowy kontakt z partnerem (administrator) jest odpowiedzialny za zaproszenie wszystkich innych użytkowników w firmie do zarejestrowania się na chipie. Są oni również odpowiedzialni za dostęp użytkowników, w tym za dezaktywację wszystkich użytkowników, którzy odchodzą z firmy. Przeczytaj Przewodnik po [platformie zachęt kanałów.](chip-intro.md)
   - question: >
-      Administrator podstawowy opuścił naszą firmę. Jak zmienić głównego administratora w układzie CHIP?
+      Administrator podstawowy opuścił naszą firmę. Jak zmienić głównego administratora na mikroukładzie?
     answer: >
-      Administrator podstawowy w układzie CHIP powinien być głównym kontaktem partnera w programie MPN. Upewnij się, że program MPN został zaktualizowany o nowy kontakt i skontaktuj się z regionalnym zespołem pomocy technicznej w celu zażądania zmiany w układzie CHIP.
+      Administrator podstawowy na stronie CHIP powinien być podstawowym kontaktem partnera w programie MPN. Upewnij się, że program MPN został zaktualizowany o nowy kontakt i skontaktuj się z regionalnym zespołem pomocy technicznej w celu zażądania zmiany na mikroukładzie.
 
 
-      Na Partner Center nawigacyjnym wybierz pozycję **Pomoc techniczna** w menu po lewej stronie. Wybierz **pozycję Zachęty** jako kategorię lub wyszukaj nazwę programu w obszarze "Przeglądaj tematy".
+      Na pulpicie Partner Center nawigacyjnym wybierz pozycję **Pomoc techniczna** w menu po lewej stronie. Wybierz **zachęty** jako kategorię lub wyszukaj nazwę swojego programu w obszarze "Przeglądaj tematy".
 
 
-      Po wyświetleniu dostępnej pomocy dotyczącej konkretnego tematu, jeśli nadal potrzebujesz pomocy, możesz utworzyć bilet bezpośrednio z opcji Zalecane dokumenty — **Utwórz bilet pomocy technicznej.**
+      Po wyświetleniu dostępnej pomocy dotyczącej tematu, jeśli nadal potrzebujesz pomocy, możesz utworzyć bilet bezpośrednio z opcji Zalecane dokumenty — Utwórz **bilet** pomocy technicznej.
 additionalContent: "\n## <a name=\"next-steps\"></a>Następne kroki\n\n- [Nawigowanie po układzie CHIP](chip-intro.md)"

@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
 ms.openlocfilehash: 9d9798bdbf83bbe7d812f5bbf83b81fb8fcde373
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958341"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247365"
 ---
 # <a name="connect-with-customers"></a>Nawiązywanie relacji z klientami
 
@@ -28,11 +28,11 @@ Aby można było nawiązywać transakcje z Partner Center, klienci muszą mieć 
 
 Po pomyślnym zarejestrowaniu się jako odsprzedawca pośredni zobaczysz tych samych klientów w Partner Center, z których już masz do pracy w innych portalach. Takie inne portale obejmują Office 365 administracyjnego lub Azure Portal. Aby wyświetlić listę klientów, wybierz pozycję **Klienci** z **Partner Center** menu.
 
-W przypadku nawiązywania połączenia z dostawcą pośrednim nie można automatycznie uzyskać klientów tego dostawcy pośredniego. Podobnie klienci, z którym pracujesz samodzielnie lub za pośrednictwem dostawcy pośredniego, ale nie za pośrednictwem usługi Partner Center, nie będą automatycznie pojawiać się na liście klientów podczas rejestrowania w Partner Center. Należy ustanowić relację odsprzedawcy z klientami w celu transakcji w Partner Center.  W tym celu należy wysłać do nich wiadomość e-mail z zaproszeniem w celu nawiązania połączenia Partner Center, jak opisano poniżej.
+W przypadku nawiązywania połączenia z dostawcą pośrednim nie można automatycznie uzyskać klientów tego dostawcy pośredniego. Podobnie klienci, z którym pracujesz samodzielnie lub za pośrednictwem dostawcy pośredniego, ale nie za pośrednictwem usługi Partner Center, nie będą automatycznie pojawiać się na liście klientów podczas rejestrowania w Partner Center. Należy ustanowić relację odsprzedawcy z klientami w celu transakcji w Partner Center.  W tym celu należy wysłać do nich wiadomość e-mail z zaproszeniem w celu nawiązania połączenia z Partner Center, jak opisano poniżej.
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Zapraszanie klienta do nawiązania relacji odsprzedawcy z Toem
 
-1. Wybierz **pozycję Customers** (Klienci) **Partner Center** menu, a następnie wybierz pozycję Request a reseller relationship **(Zażądaj relacji odsprzedawcy).**
+1. Wybierz **pozycję Customers** (Klienci) z menu **Partner Center** a następnie wybierz pozycję Request a reseller relationship **(Zażądaj relacji odsprzedawcy).**
 
 2. Na następnej stronie przejrzyj wersję roboczą wiadomości e-mail. Możesz otworzyć wiadomość roboczą w wiadomości e-mail lub skopiować wiadomość do schowka i wkleić ją do wiadomości e-mail.
 
@@ -58,7 +58,7 @@ Aby uzyskać uprawnienia administratora do zarządzania subskrypcjami  i usługa
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>Zaproś klienta do ustanowienia relacji odsprzedawcy z To użytkownikiem i dostawcą pośrednim w tym samym czasie
 
-1. Wybierz **pozycję Dostawcy pośredni** z menu Partner Center **menu.**
+1. Wybierz **pozycję Dostawcy pośredni** z Partner Center **menu.**
 
 2. Wybierz **pozycję Zaproś** nowych klientów, aby zaprosić klienta do ustanowienia relacji odsprzedawcy zarówno z Toem, jak i dostawcą pośrednim w tym samym czasie. Dostawca musi mieć relację odsprzedawcy z Klientem, aby można było przesyłać zamówienia w imieniu klienta, gdy klient chce kupić nowe subskrypcje lub dodać nowe licencje do istniejących subskrypcji.
 
@@ -74,7 +74,7 @@ Aby uzyskać uprawnienia administratora do zarządzania subskrypcjami  i usługa
 
 Aby usunąć relację z klientem, wykonaj poniższe kroki:
 
-1.  W Partner Center wybierz pozycję **Klienci** i wybierz klienta, którego relację chcesz usunąć.
+1.  Z Partner Center przejdź do strony **Klienci** i wybierz klienta, którego relację chcesz usunąć.
 
 2.  Wybierz **konto**.
 
