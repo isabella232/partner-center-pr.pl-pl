@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3c757ba22573b4c3082e954a7b7f12b12dffa7a
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 498148f661a728979073ea43e3c186f2f0bb5ae6
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247168"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "127828321"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Rejestracja w programie Cloud Solution Provider
 
@@ -22,23 +22,25 @@ ms.locfileid: "126247168"
 
 ## <a name="get-started"></a>Rozpoczęcie pracy
 
-Szybko rosnące zapotrzebowanie na rozwiązania i usługi oparte na chmurze zapewnia wielu partnerom firmy Microsoft wszelkiej wielkości możliwości tworzenia dochodowych firm z rozwiązaniami w chmurze. Partnerzy, którzy są gotowi do wejścia na rynek, ale nie chcą zarządzać wieloma dostawcami lub którzy mogą nie mieć gotowej infrastruktury do zarządzania relacjami z klientami, mogą zarejestrować się w programie firmy Microsoft Dostawca rozwiązań w chmurze (CSP) jako odsprzedawcy pośredni.
+Szybko rosnące zapotrzebowanie na rozwiązania i usługi oparte na chmurze oznacza wiele możliwości dla partnerów firmy Microsoft wszelkiej wielkości, aby tworzyć dochodowe firmy z rozwiązaniami w chmurze. Partnerzy, którzy są gotowi do wejścia na rynek, ale nie chcą zarządzać wieloma dostawcami lub którzy mogą nie mieć gotowej infrastruktury do zarządzania relacjami z klientami, mogą zarejestrować się w programie microsoft Dostawca rozwiązań w chmurze (CSP) jako odsprzedawcy pośredni.
 
-Aby zarejestrować się w programie Dostawca rozwiązań w chmurze, musisz najpierw mieć identyfikator MPN. Nie masz jeszcze? Dołącz [tutaj.](https://partner.microsoft.com/)
 
-Do ukończenia aplikacji CSP potrzebny będzie firmowy identyfikator MPN, pełny adres firmy, informacje o banku i służbowy adres e-mail pracownika, który będzie pełnił swoją Partner Center.
+Aby zarejestrować się w programie Dostawca rozwiązań w chmurze, musisz najpierw mieć identyfikator MPN. Nie masz jeszcze? [Dołącz do Microsoft Partner Network](https://partner.microsoft.com/).
+
+Do ukończenia pracy z aplikacją CSP potrzebny będzie firmowy identyfikator MPN, pełny adres firmy, informacje o banku i służbowy adres e-mail pracownika, który będzie pełnił swoją Partner Center.
 
 1. Zaloguj się do Partner Center [nawigacyjnego przy](https://partner.microsoft.com/dashboard/) użyciu służbowego adresu e-mail (czyli poświadczeń dzierżawy usługi Azure AD).
 
 2. Skojarz swój identyfikator MPN z profilem.
-    - Jeśli masz już rejestrację w programie MPN, wybierz identyfikator MPN lokalizacji połączony z rejestracjami zachęt. Identyfikator MPN lokalizacji musi być aktywny i znajdować się w tym samym kraju co konto CSP.
+    - Jeśli masz już rejestrację w programie MPN, wybierz identyfikator MPN lokalizacji, który jest połączony z rejestracjami zachęt. Identyfikator MPN lokalizacji musi być aktywny i znajdować się w tym samym kraju co konto CSP.
     - Jeśli nie masz zarejestrowanego w programie MPN, zarejestruj [się już dzisiaj.](mpn-overview.md)
 
 3. Utwórz profil partnera. Możesz sprawdzić profil firmy lub wprowadzić informacje firmowe ręcznie. Jeśli Twoja firma jest zarejestrowana w [firmie Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)użyj identyfikatora DUNS ID, aby znaleźć informacje o firmie. Jeśli chcesz podać szczegóły swojej firmy samodzielnie, wybierz pozycję  **Wprowadź ręcznie.**
 
-    W przypadku niektórych krajów po ręcznym wprowadzeniu adresu zweryfikujemy Twój adres. Jeśli wprowadzany adres różni się od zweryfikowanego, zalecamy użycie zweryfikowanego adresu. Gwarantuje to, że elementy adresu są standaryzowane zgodnie z definicją w urzędzie pocztowym kraju, poprawnie sformatowane i wysłane.
+    W przypadku niektórych krajów po ręcznym wprowadzeniu adresu zweryfikujemy Twój adres. Jeśli wprowadzany adres różni się od zweryfikowanego, zalecamy użycie zweryfikowanego adresu. Gwarantuje to, że elementy adresu są standaryzowane zgodnie z definicją w urzędzie pocztowym kraju, są poprawnie sformatowane i można je wysyłać.
 
-4. Podczas weryfikacji możemy poprosić o dodatkowe dokumenty lub wypełnienie ankiety. Przejrzenie i zweryfikowanie podanych informacji może potrwać kilka dni. Po zakończeniu przeglądu napiszemy do Ciebie wiadomość e-mail.
+4. Podczas weryfikacji możemy poprosić o inny dokument lub poprosić o wypełnienie ankiety. Przejrzenie i zweryfikowanie owych informacji może potrwać kilka dni. Po zakończeniu przeglądu napiszemy do Ciebie wiadomość e-mail.
+
 
 5. Po zweryfikowaniu informacji zaakceptuj umowę odsprzedawcy pośredniego firmy Microsoft.
 
@@ -61,7 +63,7 @@ Różni dostawcy pośredni oferują różne usługi i pomoc techniczną, dlatego
 
 Jeśli nie pracujesz jeszcze z dostawcą (nazywanym również dystrybutorem), możesz wyszukać go na liście oficjalnych dostawców [firmy Microsoft.](https://partnercenter.microsoft.com/partner/find-a-provider)
 
-Aby uzyskać więcej informacji o tym, co jest wymagane do [](https://partner.microsoft.com/cloud-solution-provider/whats-required) uczestnictwa w programie CSP jako odsprzedawca pośredni, zobacz Wprowadzenie jako odsprzedawca pośredni w Microsoft Partner Network [internetowej](https://partner.microsoft.com/).
+Aby uzyskać więcej informacji o tym, co jest wymagane do uczestnictwa w programie CSP jako odsprzedawca pośredni, zobacz [Rozpoczynanie](https://partner.microsoft.com/cloud-solution-provider/whats-required) pracy jako odsprzedawca pośredni w Microsoft Partner Network [internetowej](https://partner.microsoft.com/).
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Rejestracja jako partner z rozliczeniami bezpośrednimi
 
@@ -74,7 +76,7 @@ Jako partner z rozliczeniami bezpośrednimi jesteś właścicielem relacji typu 
 |**Identyfikator MPN**   |Aktywne członkostwo w grupie Microsoft Partner Network identyfikator MPN dla lokalizacji, w której chcesz sprzedawać.    |
 |**Poręczenie**   |Urząd do akceptowania i podpisywania umów prawnych w imieniu organizacji.|
 |**Pomoc techniczna**   |Możliwość zapewnienia klientom pierwszego poziomu obsługi produktów w chmurze. <br>Plan pomocy technicznej firmy Microsoft ( Advanced Support for Partners (ASfP) lub Pomoc techniczna Premier dla partnerów (PSfP) w zależności od potrzeb. [Porównaj plany pomocy technicznej.](https://partner.microsoft.com/support/partnersupport)<br> WAŻNE: Przed zakupem planu pomocy technicznej należy przejść sprawdzenie środków. Gdy kontrola środków zostanie przekazana, otrzymasz wiadomość e-mail. |
-|**Wymaganie dotyczące przychodu**|Musi osiągnąć co najmniej 3000 000 USD w Dostawca rozwiązań w chmurze roku przychodu programu w ciągu poprzednich 12 miesięcy jako odsprzedawca pośredni. Partnerzy mogą przejrzeć swoje końcowe 12-miesięcy przychodu na Partner Center.<br/>Sprzedaż, która stanowi 300 000 USD na końcowe 12 miesięcy przychodu, będzie podlegać weryfikacji i weryfikacji przez firmę Microsoft, a Użytkownik może zostać poproszony o podanie dodatkowych informacji. Wymaganie dotyczące przychodu w wysokości 300 000 USD jest obliczane na podstawie przychodów z chmury i nie obejmuje oprogramowania bezterminowego w programie CSP.|
+|**Wymaganie dotyczące przychodu**|Musi osiągnąć co najmniej 3000 000 USD w Dostawca rozwiązań w chmurze roku przychodu programu w ciągu poprzednich 12 miesięcy jako odsprzedawca pośredni. Partnerzy mogą sprawdzić swoje końcowe przychody z 12 miesięcy w Partner Center.<br/>Sprzedaż, która stanowi 300 000 USD na końcowe 12 miesięcy przychodu, będzie podlegać weryfikacji i weryfikacji przez firmę Microsoft, a Użytkownik może zostać poproszony o podanie dodatkowych informacji. Wymaganie dotyczące przychodu w wysokości 300 000 USD jest obliczane na podstawie przychodów z chmury i nie obejmuje oprogramowania bezterminowego w programie CSP.|
 |**Konta do odebrania** |Infrastruktura organizacyjna do zarządzania rozliczeniami i aprowizowaniami klientów.|
 |**Zalecenie**|             |
 |**Usługa zarządzana**   |Co najmniej jedna zarządzana usługa, usługa IP lub aplikacja rozwiązania klienta. Dowiedz się więcej o [dodawaniu usług zarządzanych.](https://partner.microsoft.com/business-opportunities/managed-services-provider)|
@@ -91,7 +93,7 @@ Po sprawdzeniu, czy Firma spełnia wymagania dotyczące uprawnień do rejestracj
 
 W związku z tym, że program CSP ciągle ewoluuje i rośnie, możesz wolisz uczestniczyć w nim jako odsprzedawca pośredni, a nie partner z rozliczeniami bezpośrednimi. Możesz zmienić dzierżawę rachunku bezpośredniego na model odsprzedawcy pośredniego w Partner Center.
 
-Zobacz [Transition from Dostawca rozwiązań w chmurze (CSP) direct bill partner to CSP indirect reseller](transition-direct-to-indirect.md) (Przejście z partnera rozliczających się bezpośrednio do odsprzedawcy pośredniego w programie CSP), aby uzyskać informacje o przechodzeniu z partnera z rozliczeniami bezpośrednimi do odsprzedawcy pośredniego.
+Aby uzyskać informacje o przechodzeniu z partnera z rozliczeniami bezpośrednimi do odsprzedawcy pośredniego w programie CSP, zobacz Transition [from Dostawca rozwiązań w chmurze (CSP) direct bill partner to CSP indirect reseller](transition-direct-to-indirect.md) (Przejście z partnera z rozliczeniami bezpośrednimi do odsprzedawcy pośredniego).
 
 ## <a name="csp-regional-markets-and-currencies"></a>CSP regional markets and currencies (Rynki regionalne i waluty programu CSP)
 
@@ -102,31 +104,30 @@ Pamiętaj o przeczytaniu [tematu Wymagania wstępne, aby dodać nową lokalizacj
 
 Jeśli jesteś dostawcą pośrednim, partnerem z rozliczeniami bezpośrednimi lub odsprzedawcą pośrednim i współpracujesz z nowymi lub istniejącymi klientami w następujących krajach, musisz podać numery identyfikatorów rejestracji dla swojej firmy. Jeśli kraj, w którym prowadzenia działalność biznesową, nie jest wymieniony poniżej, identyfikator rejestracji jest opcjonalny.
 
-- Armenia 
-- Azerbejdżan 
-- Białoruś 
-- Brazylia 
-- Węgry 
-- Indie 
-- Irak 
-- Kazachstan 
-- Kirgistan 
-- Mołdawia 
-- Myanmar 
-- Polska 
-- Rosja 
-- Arabia Saudyjska 
-- Republika Południowej Afryki 
+- Armenia
+- Azerbejdżan
+- Białoruś
+- Brazylia
+- Węgry
+- Indie
+- Irak
+- Kazachstan
+- Kirgistan
+- Mołdawia
+- Myanmar
+- Polska
+- Rosja
+- Arabia Saudyjska
+- Republika Południowej Afryki
 - Sudan Południowy  
-- Tadżykistan 
+- Tadżykistan
 - Tajlandia
-- Turcja 
-- Ukraina 
-- Zjednoczone Emiraty Arabskie 
-- Uzbekistan 
+- Turcja
+- Ukraina
+- Zjednoczone Emiraty Arabskie
+- Uzbekistan
 - Wenezuela
-- Wietnam 
-
+- Wietnam
 
 Aby uzyskać więcej informacji, przeczytaj [informacje o numerze identyfikatora rejestracji](reg-number-id.md)
 

@@ -1,20 +1,20 @@
 ---
 title: Nowe dodatki handlowe
 ms.topic: article
-ms.date: 08/30/2021
+ms.date: 09/03/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Dowiedz się więcej na temat nowych możliwości handlowych dotyczących zakupów dodatków.
+ms.subservice: partnercenter-pricing
+description: Dowiedz się więcej o nowych doświadczeniach handlowych dotyczących zakupów dodatków.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 539aa939d980f7b40abc44789a08d153a8abdfaa
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 01644e5d2dd2fe2057d223b62f1f4e9d6f9cd101
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959723"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "127828286"
 ---
 # <a name="introduction-new-commerce-add-ons"></a>Wprowadzenie: Nowe dodatki handlowe
 
@@ -48,7 +48,7 @@ Partnerzy mogą identyfikować dodatki i uzyskać listy wymagań wstępnych, prz
 Dodatki istnieją zarówno w tradycyjnych, opartych na licencjach, jak i w nowych usługach handlowych. Kluczowa różnica polega na tym, że nowy handel umożliwia odnajdywanie i kupowanie z katalogu, w tym samym miejscu, w którym znajdują się podstawowe oferty lub wymagania wstępne. Tradycyjne dodatki oparte na licencjach można odnajdywać i kupować tylko przez przechodząc na stronę szczegółów subskrypcji oferty podstawowej. Gdy dodatek zostanie tam wymieniony, partner stosuje odpowiedni dodatek.
 
 
-Nowe dodatki do obsługi handlu są odnalezione i zakupione w samym katalogu. Partnerzy mogą filtrować według nowych dodatków handlowych, wybierając menu rozwijane typu produktu. Produkty dodatku są również łatwe do zobaczenia, ponieważ obok nich znajduje się ikona informacji, co objaśnia ich stan i znaczenie dodatku.
+Dodatki nowego typu do obsługi handlu są odnalezione i zakupione w samym katalogu. Partnerzy mogą filtrować według nowych dodatków handlowych, wybierając menu rozwijane typu produktu. Produkty dodatku są również łatwe do zobaczenia, ponieważ obok nich znajduje się ikona informacji, co objaśnia ich stan i znaczenie dodatku.
 
 
 Partnerzy mogą uzyskać więcej szczegółów na temat wymaganych  produktów dla dodatku, klikając pozycję Wyświetl zgodne podstawowe subskrypcje produktów, aby wyświetlić listę jednostki SKU produktu, które muszą istnieć, aby partner zakupił dany dodatek.
