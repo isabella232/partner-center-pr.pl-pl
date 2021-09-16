@@ -14,7 +14,7 @@ ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127862412"
+ms.locfileid: "127872309"
 ---
 # <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Jak potwierdzić, że klient zaakceptował Umowa z Klientem Microsoft programu CSP
 
@@ -29,7 +29,7 @@ Klienci mają dwie opcje akceptowania Umowa z Klientem Microsoft.
 
 ## <a name="access-microsoft-customer-agreement-template"></a>Szablon Umowa z Klientem Microsoft dostępu
 
-Możesz ręcznie pobrać [najnowszą wersję Umowa z Klientem Microsoft](https://aka.ms/customeragreement). Ta Umowa z Klientem Microsoft jest specyficzna dla kraju. Podczas żądania Umowa z Klientem Microsoft szablonu należy wybrać właściwy kraj na podstawie lokalizacji klienta.
+Możesz ręcznie pobrać [najnowszą wersję Umowa z Klientem Microsoft](https://aka.ms/customeragreement). Ta Umowa z Klientem Microsoft jest specyficzna dla kraju. Żądając szablonu Umowa z Klientem Microsoft, należy wybrać właściwy kraj na podstawie lokalizacji klienta.
 
 ## <a name="option-1-confirm-customer-acceptance-in-partner-center"></a>Opcja 1. Potwierdzenie akceptacji klienta w Partner Center
 
@@ -37,7 +37,7 @@ Partnerzy rozliczani bezpośrednio mogą potwierdzić akceptację klientów Umow
 
 ### <a name="confirm-customer-acceptance-for-new-customers"></a>Potwierdzanie akceptacji przez klientów dla nowych klientów
 
-Podczas tworzenia nowej dzierżawy klienta w Partner Center należy wykonać następujące kroki, aby potwierdzić akceptację Umowa z Klientem Microsoft. Aby wykonać te kroki, musisz być agentem administracyjnym lub agentem sprzedaży.
+Podczas tworzenia nowej dzierżawy klienta w Partner Center, należy wykonać następujące kroki, aby potwierdzić akceptację Umowa z Klientem Microsoft. Aby wykonać te kroki, musisz być agentem administracyjnym lub agentem sprzedaży.
 
 1. Wybierz **pozycję Klienci,** a następnie **pozycję Nowy klient.**
 
@@ -81,7 +81,7 @@ Aby pobrać potwierdzenie, że istniejący klient zaakceptował Umowa z Klientem
 
 ## <a name="confirm-customer-acceptance-using-partner-center-apisdk"></a>Potwierdzanie akceptacji przez klientów przy użyciu Partner Center API/zestawu SDK
 
-Możesz użyć Partner Center API/zestawu SDK, aby potwierdzić akceptację przez klienta Umowa z Klientem Microsoft. Aby uzyskać szczegółowe informacje na temat interfejsu API/zestawu SDK, zobacz:
+Możesz użyć interfejsu PARTNER CENTER/zestawu SDK, aby potwierdzić akceptację przez klienta Umowa z Klientem Microsoft. Aby uzyskać szczegółowe informacje na temat interfejsu API/zestawu SDK, zobacz:
 
 - [Pobieranie metadanych umowy dla umowy klienta firmy Microsoft](/partner-center/develop/get-customer-agreement-metadata)
 
@@ -89,7 +89,7 @@ Możesz użyć Partner Center API/zestawu SDK, aby potwierdzić akceptację prze
 
 - [Pobieranie potwierdzenia akceptacji przez klienta umowy klienta firmy Microsoft](/partner-center/develop/get-confirmation-of-customer-agreement)
 
-- [Pobierz link pobierania dla Umowa z Klientem Microsoft szablonu](/partner-center/develop/download-customer-agreement-template)
+- [Pobierz link pobierania dla szablonu Umowa z Klientem Microsoft aplikacji](/partner-center/develop/download-customer-agreement-template)
 
 ## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>Opcja 2. Akceptacja klienta w Administracja Microsoft 365 Center
 
@@ -131,13 +131,13 @@ Aby utworzyć nowego klienta w centrum Partner Center następnie zaprosić go do
 
 7. Klient otrzyma wiadomość e-mail z zaproszeniem od partnera i wybierze adres [URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement).
 
-8. Klient korzysta z Administracja Microsoft 365 Center przy użyciu podanych poświadczeń klienta.
+8. Klient logowania się do Administracja Microsoft 365 Center przy użyciu podanych poświadczeń klienta.
 
 9. Klient sprawdza to pole, aby zaakceptować umowę klienta firmy Microsoft.
 
 ## <a name="invite-a-new-customer-to-review-and-accept-the-reseller-relationship-and-microsoft-customer-agreement"></a>Zaproś nowego klienta do przejrzenia i zaakceptowania relacji odsprzedawcy i Umowa z Klientem Microsoft 
 
-Aby zaprosić nowego klienta do przejrzenia i zaakceptowania relacji odsprzedawcy i Umowa z Klientem Microsoft, skorzystaj z poniższych Umowa z Klientem Microsoft. 
+Skorzystaj z poniższych kroków, aby zaprosić nowego klienta do przejrzenia i zaakceptowania relacji odsprzedawcy i Umowa z Klientem Microsoft. 
 
 1. Na karcie **Customers (Klienci)** w Partner Center wybierz pozycję Request a reseller relationship link **(Zażądaj linku do relacji odsprzedawcy).** 
 
@@ -153,7 +153,7 @@ Aby zaprosić nowego klienta do przejrzenia i zaakceptowania relacji odsprzedawc
 
 6. Klient używa poświadczeń podanych w wiadomości e-mail, aby zalogować się do Administracja Microsoft 365 Center.
 
-7. Klient sprawdza to pole, aby zaakceptować relację **odsprzedawcy** **i Umowa z Klientem Microsoft**. 
+7. Klient sprawdza pole wyboru, aby zaakceptować relację **odsprzedawcy** **i Umowa z Klientem Microsoft**. 
 
 8. W ramach tego samego adresu URL klient może wyświetlić skonsolidowaną listę różnych partnerów, z których pracuje. Może wybrać partnera, aby wyświetlić szczegóły.
 
@@ -187,7 +187,7 @@ Istnieją dwa scenariusze, w których klienci mogą nie być w stanie bezpośred
 
 **Aby rozwiązać** ten problem: musisz atestować w imieniu klienta.
 
-:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Zrzut ekranu Administracja Microsoft 365 centrum danych z prośbą o sprosenie się z partnerem w celu potwierdzenia akceptacji Umowa z Klientem Microsoft.":::
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Zrzut ekranu Administracja Microsoft 365 Centrum informacji z prośbą o sprosenie się z partnerem w celu potwierdzenia akceptacji Umowa z Klientem Microsoft.":::
 
 **Scenariusz 2.** Istniejący klient kupił dowolną z następujących ofert, subskrypcji oprogramowania i oprogramowania, wystąpień zarezerwowanych i planu platformy Azure. Klient próbuje teraz dokonać nowego zakupu u nowego partnera.
 
