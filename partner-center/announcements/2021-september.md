@@ -16,7 +16,7 @@ ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127886256"
+ms.locfileid: "127877040"
 ---
 # <a name="september-2021-announcements"></a>Ogłoszenia z września 2021 r.
 
@@ -121,7 +121,7 @@ Masz pytania dotyczące dowolnego innego tematu CSP? Odwiedź stronę [Partner C
 
 _____________
 
-## <a name="september-co-sell-with-microsoft-qa-community-call-reminder"></a><a name="9"></a> Wrześniowa współpraca ze społecznością Microsoft Q&przypomnienie dotyczące rozmowy społeczności
+## <a name="september-co-sell-with-microsoft-qa-community-call-reminder"></a><a name="9"></a> Wrześniowa współpraca ze społecznością Microsoft Q&przypomnienie o wezwaniach społeczności
 
 ### <a name="categories"></a>Kategorie
 
@@ -139,11 +139,11 @@ Ta sesja jest przeznaczona dla Partner Center użytkowników, którzy zarządzaj
 - Moduł komercyjnej platformy handlowej do zarządzania publikowaniem ofert.
 - Moduł poleceń do zarządzania potencjalnymi klientami i współdzielenia szans sprzedaży.
 
-Wszystkie inne Partner Center mogą uzyskać dostęp do zawartości na żądanie w galerii zasobów [Operations Readiness.](https://partner.microsoft.com/resources/cloud-solution-provider-program)
+Wszyscy inni Partner Center mogą uzyskać dostęp do zawartości na żądanie w galerii zasobów [Operations Readiness.](https://partner.microsoft.com/resources/cloud-solution-provider-program)
 
 ### <a name="details"></a>Szczegóły
 
-Najważniejsze artykuły z tego miesiąca obejmują:
+Najważniejsze artykuły w tym miesiącu obejmują:
 
 #### <a name="commercial-marketplace"></a>Komercyjna platforma handlowa
 
@@ -159,7 +159,7 @@ Najważniejsze artykuły z tego miesiąca obejmują:
 
 #### <a name="refresh"></a>Odśwież
 
-- [Doświadczenie w zakresie współpracy w Partner Center](/azure/marketplace/co-sell-configure#enter-your-contacts)
+- [Środowisko współpracy w Partner Center](/azure/marketplace/co-sell-configure#enter-your-contacts)
 - [Zarządzanie poleceniami w Partner Center](https://partner.microsoft.com/resources/detail/referral-management-in-partner-center-pptx)
 - [Udostępnianie transakcji sprzedaży zbiorczej na dużą skalę przy Partner Center operacji zbiorczych](./2021-february.md#13)
 - [Większa elastyczność dzięki transakcjom sprzedaży typu "co sell" prowadzonym przez partnerów](./2021-february.md#11)
@@ -171,13 +171,13 @@ Przejrzyj zasoby [społeczności i](https://partner.microsoft.com/resources/coll
 
 ### <a name="questions"></a>Masz pytania?
 
-Zaproszenie społeczności&Q&jest najlepszym miejscem, w którym można zadawać pytania dotyczące zmian operacyjnych. Możesz [przesłać pytanie do](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) 48 godzin przed wywołaniem. Odpowiedzi na wszystkie pytania związane z uruchamianiem zostaną udzielone w wywołaniu i/lub w dokumencie Q&A opublikowanym po wywołaniu.  
+Zaproszenie społeczności&Q&jest najlepszym miejscem do zadawać pytania dotyczące zmian operacyjnych. Możesz [przesłać pytanie do](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) 48 godzin przed wywołaniem. Odpowiedzi na wszystkie pytania związane z uruchamianiem zostaną udzielone w wywołaniu i/lub w dokumencie Q&A opublikowanym po wywołaniu.  
 
 Jeśli masz pytania dotyczące innych tematów, odwiedź stronę pomocy [Partner Center pomocy technicznej.](https://partner.microsoft.com/support/?stage=1)
 
 _____________
 
-## <a name="new-validation-rules-for-company-name-and-email-address-on-september-22"></a><a name="8"></a>Nowe reguły weryfikacji nazwy firmy i adresu e-mail 22 września
+## <a name="new-validation-rules-for-company-name-and-email-address-on-september-22"></a><a name="8"></a>Nowe reguły weryfikacji nazwy i adresu e-mail firmy 22 września
 
 ### <a name="categories"></a>Kategorie
 
@@ -186,7 +186,7 @@ _____________
 
 ### <a name="summary"></a>Podsumowanie
 
-Aby ułatwić partnerom i klientom prowadzenia działalności w oparciu o zaufanie, aktualizujemy reguły weryfikacji nazwy firmy i adresu e-mail klienta. Dotyczy to zarówno nowych, jak i istniejących szczegółów klienta. Nie są wymagane żadne zmiany interfejsu API.
+Aby pomóc partnerom i klientom w prowadzenia działalności w oparciu o zaufanie, aktualizujemy reguły weryfikacji nazwy firmy i adresu e-mail klienta. Dotyczy to zarówno nowych, jak i istniejących szczegółów klienta. Nie są wymagane żadne zmiany interfejsu API.
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
@@ -194,7 +194,7 @@ Partnerzy rozliczani bezpośrednio i dostawcy pośredni dostawcy CSP
 
 ### <a name="details"></a>Szczegóły
 
-Firma Microsoft działa w oparciu o zaufanie. Dążymy do zapewnienia zgodnej, bezpiecznej i bezpiecznej metody sprawdzania nazwy firmy klienta i informacji o adresie e-mail. Od 22 września 2021 r. będziemy aktualizować weryfikacje poczty e-mail i nazwy firmy. Aby uzyskać dodatkowe informacje, zobacz How to add a new customer record (Jak [dodać nowy rekord klienta).](../add-a-new-customer.md)
+Firma Microsoft działa w oparciu o zaufanie. Dokładamy wszelkich starań, aby zapewnić zgodną, bezpieczną i bezpieczną metodę sprawdzania poprawności informacji o nazwie firmy i adresie e-mail klienta. Od 22 września 2021 r. będziemy aktualizować weryfikacje poczty e-mail i nazwy firmy. Aby uzyskać dodatkowe informacje, zobacz How to add a new customer record (Jak [dodać nowy rekord klienta).](../add-a-new-customer.md)
 
 _____________
 
@@ -202,41 +202,41 @@ _____________
 
 ### <a name="summary"></a>Podsumowanie
 
-Aby pomóc partnerom i klientom w marketingu opartym na zaufaniu, wymagamy od partnerów poświadczania, że działają oni jako bezpośredni lub pośredni partnerzy, używając tego samego identyfikatora dzierżawy na transakcję.
+Aby pomóc partnerom i klientom w prowadzenia działalności w oparciu o zaufanie, wymagamy od partnerów potwierdzania, że działają oni jako bezpośredni lub pośredni partnerzy, używając tego samego identyfikatora dzierżawy dla każdej transakcji.
 
-Żądamy również od wszystkich partnerów transakcyjnych w krajach UNII/EFTA zadeklarowania dodatkowych odsprzedawców (maksymalnie 5) zaangażowanych w transakcję.
+Żądamy również od wszystkich partnerów transakcyjnych w krajach UNII/DSW zadeklarowania dodatkowych odsprzedawców (maksymalnie 5) zaangażowanych w transakcję.
 
 ### <a name="categories"></a>Kategorie
 
 - Data: 2021-09-07
-- Gotowość pilotażowa do startu w grudniu
+- Gotowość pilotażowa do startu rakiety w grudniu
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
 Partnerzy rozliczani bezpośrednio i dostawcy pośredni dostawcy CSP, którzy są partnerami bezpośrednimi i pośrednimi
 
-Transakcje partnerów pośrednich w krajach UNII/EFTA
+Transakcje partnerów pośrednich w krajach UNII/DSW
 
 ### <a name="details"></a>Szczegóły
 
-Firma Microsoft działa w oparciu o zaufanie. Dążymy do zapewnienia zgodnej, bezpiecznej i bezpiecznej metody transakcji subskrypcji klientów w programie CSP.
+Firma Microsoft działa w oparciu o zaufanie. Dokładamy starań, aby zapewnić zgodną, bezpieczną i bezpieczną metodę transakcji subskrypcji klientów w programie CSP.
 
-Od 7 września 2021 r. będziemy otwierać pilotaż dla partnerów, który będzie miał możliwość testowania pod względem nowych wymagań dotyczących zaświadczenia oraz zmian dotyczących dodatkowych odsprzedawców (tylko w Unii Europejskiej/EFTA) występujących w interfejsach API Create Cart, Update Cart i Create Order. Należy pamiętać, że te zmiany przerwą istniejące środowisko dla tych interfejsów API. Dlatego zdecydowanie zaleca się, aby partnerzy mogli wziąć udział w pilotażu przed pełnym startem w grudniu.
+Od 7 września 2021 r. będziemy otwierać pilotaż dla partnerów, aby umożliwić partnerom testowanie pod względem nowych wymagań dotyczących zaswiadczania oraz dodatkowych odsprzedawców (tylko w Unii Europejskiej/KRAJACH) występujących w interfejsach API tworzenia koszyka, aktualizowania koszyka i tworzenia zamówienia. Należy pamiętać, że te zmiany przerwą istniejące środowisko dla tych interfejsów API. Dlatego zdecydowanie zaleca się, aby partnerzy mogli wziąć udział w pilotażu przed pełnym startem w grudniu.
 
-Będzie to miało wpływ na następujące interfejsy API, a szczegóły zostaną odpowiednio udostępnione i zaktualizowane:
+Będzie to miało wpływ na następujące interfejsy API, a szczegóły zostaną udostępnione i odpowiednio zaktualizowane:
 
 - [Tworzenie zamówienia klienta — Partner Center deweloper aplikacji](/partner-center/develop/create-an-order)
 - [Tworzenie koszyka — Partner Center deweloper aplikacji](/partner-center/develop/create-a-cart)
 - [Aktualizowanie koszyka — Partner Center deweloper aplikacji](/partner-center/develop/update-a-cart)
 
-Dodatkowi odsprzedawcy będą mieć wpływ na transakcje partnerów w następujących krajach UNII EUROPEJSKIEJ/EFTA:
+Dodatkowi odsprzedawcy będą mieć wpływ na transakcje partnerów w następujących krajach UNII Europejskiej/DSM:
 
-| Kraje UE/EFTA | &nbsp; | &nbsp; |
+| Kraje UNII Europejskiej/Spoza Unii Europejskiej | &nbsp; | &nbsp; |
 | --- | --- | --- |
-| Andora<br>Austria<br>Belgia<br>Wyspa Bouveta<br>Bułgaria<br>Chorwacja<br>Cypr<br>Czechy<br>Dania<br>Estonia<br>Wyspy Owcze<br>Finlandia<br>Francja<br>Niemcy<br>Gibraltar | Grecja<br>Grenlandia<br>Guernsey<br>Dowiemy się , że jest to osłoda miasta<br>Węgry<br>Islandia<br>Irlandia<br>Wyspa Man<br>Włochy<br>Jersey<br>Łotwa<br>Liechtenstein<br>Litwa<br>Luksemburg<br>Malta | Monako<br>Holandia<br>Norwegia<br>Polska<br>Portugalia<br>Rumunia<br>San Marino<br>Słowacja<br>Słowenia<br>Hiszpania<br>Svalbard i Jan Mayen<br>Szwecja<br>Szwajcaria<br>Zjednoczone Królestwo: TBD |
+| Andora<br>Austria<br>Belgia<br>Wyspa Bouveta<br>Bułgaria<br>Chorwacja<br>Cypr<br>Czechy<br>Dania<br>Estonia<br>Wyspy Owcze<br>Finlandia<br>Francja<br>Niemcy<br>Gibraltar | Grecja<br>Grenlandia<br>Guernsey<br>See (Obejmuje Miasto IoT)<br>Węgry<br>Islandia<br>Irlandia<br>Wyspa Man<br>Włochy<br>Jersey<br>Łotwa<br>Liechtenstein<br>Litwa<br>Luksemburg<br>Malta | Monako<br>Holandia<br>Norwegia<br>Polska<br>Portugalia<br>Rumunia<br>San Marino<br>Słowacja<br>Słowenia<br>Hiszpania<br>Svalbard i Jan Mayen<br>Szwecja<br>Szwajcaria<br>Zjednoczone Królestwo: TBD |
 |
 
-Aby wziąć udział w pilotażu, skontaktuj się z ekspertem w swojej dziedzinie (Ali Ichki) i podaj identyfikator dzierżawy partnera, aby mógł zostać dodany do lotu.
+Aby wziąć udział w pilotażu, skontaktuj się z ekspertem w swojej dziedzinie (Ali Dostępki) i podaj identyfikator dzierżawy partnera, aby mógł zostać dodany do lotu.
 
 _____________
 
@@ -249,28 +249,28 @@ _____________
 
 ### <a name="summary"></a>Podsumowanie
 
-Cennik bezterminowych subskrypcji oprogramowania i oprogramowania opublikowany 1 września 2021 r. został opublikowany ponownie 3 września w celu skorygowania problemu z cenami w Rosyjskim.
+Cennik oprogramowania bezterminowego i subskrypcji oprogramowania opublikowany 1 września 2021 r. został ponownie opublikowany 3 września w celu skorygowania problemu z cenami w Rosyjskim.
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
-Dostawcy pośredni i bezpośredni partnerzy rozliczający się w ramach nieużytego oprogramowania i subskrypcji oprogramowania Dostawca rozwiązań w chmurze programie w Rosyjskim.
+Dostawcy pośredni i partnerzy rozliczający się bezpośrednio w ramach bezterminowego oprogramowania i subskrypcji oprogramowania w ramach programu Dostawca rozwiązań w chmurze w Następnie.
 
 ### <a name="details"></a>Szczegóły
 
-Cennik bezterminowego oprogramowania i subskrypcji oprogramowania opublikowany 1 września miał niepoprawny wzrost cen o 15,2% dla wszystkich produktów.
+Cennik oprogramowania bezterminowego i subskrypcji oprogramowania opublikowany 1 września miał niepoprawny wzrost cen o 15,2% dla wszystkich produktów.
 
 Wzrost ceny o ok. 15,2% rozpocznie się **1 października 2021 r.,** a nie we wrześniu. Cenniki zostały ponownie opublikowane z prawidłowymi informacjami o cenach.
 
-Partnerzy, którzy kupili produkty od 1 września do 3 września, zostaną naliczone opłaty po poprawionych cenach, które są odzwierciedlone w najnowszych cennikach.
+Partnerzy, którzy kupili produkty od 1 września do 3 września, będą obciążani opłatami po poprawionych cenach, które są odzwierciedlone w najnowszych cennikach.
 
 ### <a name="next-steps"></a>Następne kroki
 
 - Partnerzy, którzy transakcjują bezterminowe subskrypcje oprogramowania i oprogramowania w Rosyjskim, powinni pobrać najnowszy cennik, aby zobaczyć poprawione ceny.
-- Aby uzyskać szczegółowe informacje na temat wzrostu cen w październiku, zapoznaj się z tym [ogłoszeniem](https://news.microsoft.com/licensing-changes-at-microsoft-russia-2021/).
+- Aby uzyskać szczegółowe informacje na temat wzrostów cen w październiku, zapoznaj się z tym [ogłoszeniem](https://news.microsoft.com/licensing-changes-at-microsoft-russia-2021/).
 
 _____________
 
-## <a name="corrections-to-september-license-based-services-price-list-and-october-preview-for-microsoft-365-business-basic-usd"></a><a name="5"></a>Korekty cennika usług opartych na licencjach z września i październikowej wersji zapoznawczej dla Microsoft 365 Business Basic (USD)
+## <a name="corrections-to-september-license-based-services-price-list-and-october-preview-for-microsoft-365-business-basic-usd"></a><a name="5"></a>Poprawki cennika usług opartych na licencjach z września i październikowa wersja zapoznawcza Microsoft 365 Business Basic (USD)
 
 ### <a name="summary"></a>Podsumowanie
 
@@ -432,7 +432,7 @@ Jeśli chcesz wziąć udział i/lub znaleźć poprzednie nagrania rozmów z pods
 
 - **Ulepszone środowisko partnerów**  W celu nakierowania na wczesny październik dostępności dla partnerów firma Microsoft inwestuje w jedną platformę zaangażowania i działań w ramach usługi Partner Center, która będzie scentralizowanym miejscem docelowym dla partnerów, którzy będą zdobywać zachęty w ramach zakupów i etapów cyklu życia klienta.
 
-- **Nowe podejście do zachęt**  Nowe oferty zachęt i inwestycji będą nadal dodawane do Microsoft Commerce Incentives programu. W celu uproszczenia obsługi partnerów firma Microsoft skonsolidowała przewodniki programu zachęt w jeden dokument hostowany w Partner Center.
+- **Nowe podejście do zachęt**  Nowe oferty zachęt i inwestycji będą nadal dodawane do Microsoft Commerce Incentives programie. W celu uproszczenia obsługi partnerów firma Microsoft konsoliduje przewodniki programu zachęt w jeden dokument hostowany w Partner Center.
 
 ### <a name="next-steps"></a>Następne kroki
 
@@ -442,13 +442,13 @@ Jeśli chcesz wziąć udział i/lub znaleźć poprzednie nagrania rozmów z pods
 - Zapoznaj się z przewodnikiem operacyjnym programu [CSP](https://partner.microsoft.com/resources/detail/operating-guide-new-commerce-experience-for-csp-seat-based-offers-pdf) dla usług Microsoft 365, Dynamics 365, Power Platform i Windows 365 w nowym miejscu handlu, aby dowiedzieć się więcej na temat funkcji, reguł biznesowych i instrukcji krok po kroku dotyczących tej wersji. Regularnie sprawdzaj przewodnik obsługi, ponieważ będzie okresowo aktualizowany.
 - Zapoznaj się z zasobami opisanymi na [mapie gotowości.](https://partner.microsoft.com/resources/detail/readiness-map-new-commerce-experienceseat-based-offers-pdf)
 - Przejrzyj folder [dokumentacji interfejsu API](https://partner.microsoft.com/resources/collection/api-documentation#/).
-- Aby uzyskać pomoc techniczną, należy rejestrować bilet pomocy technicznej lub publikować wiadomości w konwersacjach w grupie usługi zestaw SDK Centrum partnerskiego i api [Yammer,](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=6589502)gdzie prezentacje i nagrania dotyczące funkcji będą publikowane w ciągu września.
+- Aby uzyskać pomoc techniczną, należy rejestrować bilet pomocy technicznej lub publikować wiadomości w konwersacjach w grupie usługi zestaw SDK Centrum partnerskiego i api [Yammer,](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=6589502)gdzie prezentacje i nagrania z funkcji będą publikowane w ciągu września.
 
 #### <a name="reminder-for-upcoming-csp-qa-calls-in-september"></a>Przypomnienie dotyczące nadchodzących wywołań CSP Q&A we wrześniu
 
 - Zarejestruj się, aby 15 lub 16 września [2016 r&A Community CSP Q.](https://globalpbocomm.eventbuilder.com/GlobalCSP)
 - Przejrzyj nowe środowisko handlowe dla kolekcji ofert opartych na stanowiskoch CSP [dla](https://partner.microsoft.com/resources/collection/new-commerce-experience-for-csp-seat-based-offers#/) tego uruchomienia.
-- Weź udział w spotkaniu CSP Q&A Community Call i zadawaj pytania dotyczące nowego doświadczenia handlowego w usługach Microsoft 365, Dynamics 365, Power Platform i Windows 365 na podstawie miejsca na szerokości.
+- Weź udział w spotkaniu CSP Q&A Community Call i zadawaj pytania dotyczące nowego doświadczenia handlowego dla usług Microsoft 365, Dynamics 365, Power Platform i Windows 365 opartych na pozycji na szerokość.
 
 #### <a name="microsoft-commerce-incentive-program"></a>Program Microsoft Commerce Incentive
 

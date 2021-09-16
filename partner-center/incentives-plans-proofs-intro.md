@@ -13,18 +13,18 @@ ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127886186"
+ms.locfileid: "127894084"
 ---
-# <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Te zasoby ułatwiają tworzenie planów zachęt i dowodów wykonania
+# <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Użyj tych zasobów, aby ułatwić tworzenie planów zachęt i weryfikacji wykonania
 
 **Odpowiednie role:** Zachęty dla administratorów | Zachęty użytkownika
 
-W tym artykule opisano niektóre z kluczowych dokumentów wymaganych do pomyślnego uzyskania zapłaty za pracę w ramach określonego programu zachęt. Te dokumenty obejmują:
+W tym artykule opisano niektóre kluczowe dokumenty wymagane do pomyślnego uzyskania zapłaty za pracę w ramach określonego programu zachęt. Te dokumenty obejmują:
 
 - Plan zachęt
-- Szczegółowa potwierdzenie wykonania (PoE)
+- Szczegółowy dowód wykonania (PoE)
 
-W zależności od typu programu zachęt, w ramach których jesteś zarejestrowanym użytkownikiem, Twój plan i twoja weryfikacja wykonania (PoE) będą kluczowe dla Twojego sukcesu dzięki zachętom.
+W zależności od typu programu zachęt, w ramach których jesteś zarejestrowanym użytkownikiem, Twój plan i potwierdzenie wykonania będą kluczowe dla Twojego sukcesu dzięki zachętom.
 
 ## <a name="what-is-an-incentives-plan"></a>Co to jest plan zachęt?
 
@@ -32,17 +32,17 @@ Plan zachęt opisuje kampanie marketingowe, działania i inne szczegóły potrze
 
 ## <a name="what-is-a-proof-of-execution-poe"></a>Co to jest dowód wykonania (PoE)?
 
-Po opłaceniu pracy w programie zachęt należy przesłać do firmy Microsoft szczegółową weryfikację wykonania. Twoje żądanie zakupu może zawierać szczegółowe informacje o dowolnej powiązanej kampanii, dacie, w ramach którego wystąpiło działanie zachęt, oraz kwoty, które są w nim deklarowane. 
+Po opłaceniu pracy z zachętami należy przesłać do firmy Microsoft szczegółowy dowód wykonania. Twoje żądanie zakupu może zawierać szczegółowe informacje o każdej powiązanej kampanii, dacie, w ramach którego wystąpiło działanie zachęt, oraz kwoty, które są w nim chłoniane. 
 
-Dowiedz się więcej [na temat przygotowywania dowodów wykonania.](incentives-prepare-your-proof-of-execution.md)
+Dowiedz się więcej [na temat przygotowywania dowodów wykonania](incentives-prepare-your-proof-of-execution.md).
 
 ## <a name="incentives-document-resources"></a>Zachęty dla zasobów dokumentów
 
-Poniższe zasoby wyjaśniają, jak organizować, tworzyć i edytować te dokumenty z kluczowymi zachętami. Opisano również, co należy zrobić, jeśli firma Microsoft zatwierdzi Twoje roszczenie lub jeśli jakiekolwiek roszczenie zostanie odrzucone.
+Poniższe zasoby wyjaśniają, jak organizować, tworzyć i edytować te kluczowe dokumenty zachęt. Opisano w nich również, co należy zrobić, jeśli firma Microsoft zatwierdzi Twoje roszczenie lub jeśli którekolwiek roszczenie zostanie odrzucone.
 
 |  **W tym celu**  |  **Przeczytaj to**  |
 |--------------|-----------|
-| Dowiedz się, jak utworzyć plan zachęt do współpracy w oświadczeń | [Tworzenie planu](incentives-create-your-plan.md)  |
+| Dowiedz się, jak utworzyć plan zachęt do współpracy z roszczeniami | [Tworzenie planu](incentives-create-your-plan.md)  |
 Dowiedz się, jak utworzyć dowód wykonania | [Przygotowywanie potwierdzenia wykonania](incentives-prepare-your-proof-of-execution.md)  |
 
 ## <a name="next-steps"></a>Następne kroki
