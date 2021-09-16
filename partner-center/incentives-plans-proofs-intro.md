@@ -13,7 +13,7 @@ ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127876972"
+ms.locfileid: "127886186"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Te zasoby ułatwiają tworzenie planów zachęt i dowodów wykonania
 

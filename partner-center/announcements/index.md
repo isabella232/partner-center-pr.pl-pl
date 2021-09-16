@@ -14,7 +14,7 @@ ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127877057"
+ms.locfileid: "127886234"
 ---
 # <a name="partner-center-announcements"></a>Ogłoszenia Centrum partnerskiego
 
@@ -54,7 +54,7 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 |Możliwości|[Wyświetlanie ofert i uruchomień produktów w tym miesiącu](2021-august.md#1)| 1 sierpnia |
 |**Kategoria**|**Ogłoszenia z lipca 2021 r.**|**Ogłoszone**|
 |Możliwości|[Nowe środowisko handlowe w programie CSP dla platformy Azure, które rozszerza Government Community Cloud (GCC)](2021-july.md#16)| 26 lipca |
-|Możliwości|[Ulepszenie narzędzia do przenoszenia subskrypcji platformy Azure między partnerami w programie Dostawca rozwiązań w chmurze (CSP)](2021-july.md#15)| 21 lipca |
+|Możliwości|[Rozszerzenie narzędzia do przenoszenia subskrypcji platformy Azure między partnerami w programie Dostawca rozwiązań w chmurze (CSP)](2021-july.md#15)| 21 lipca |
 |Możliwości|[Zmiany w dostępności oferty platformy Azure związane z nowymi rozwiązaniami handlowymi w programie CSP dla platformy Azure](2021-july.md#14)| 21 lipca |
 |Nowoczesne miejsce pracy|[Introducing Windows 365: Hybrid Windows for a hybrid world (Wprowadzenie do Windows 365: rozwiązania hybrydowe dla świata hybrydowego)](2021-july.md#13)| 20 lipca |
 |Możliwości|[Wprowadzenie ograniczania interfejsu API dla partnerów wywołujących interfejsy API Partner Center API](2021-july.md#12)| 19 lipca |
@@ -66,7 +66,7 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 |Możliwości|[Utrzymuj aktywne certyfikaty firmy Microsoft dzięki pomocy Partner Center](2021-july.md#6)| 9 lipca |
 |Możliwości|[Wersja zestawu SDK w .NET Standard (wersja 2.0.1)](2021-july.md#5)| 7 lipca |
 |Możliwości|[Zawiadomienie o przejrzystości rabatów dla klientów](2021-july.md#4)| 7 lipca |
-|Możliwości|[Windows rozwiązano problem z kluczem produktu 7 Extended Security Updates (ESU) Year 2 (2021)](2021-july.md#3)|2 lipca |
+|Możliwości|[Windows 7 Extended Security Updates (ESU) Year 2 (2021) product key issue rozwiązane](2021-july.md#3)|2 lipca |
 |Możliwości|[Wyświetlanie ofert i uruchomień produktów w tym miesiącu](2021-july.md#2)|1 lipca|
 |Możliwości|[Dynamics 365 Migracja do chmury podwyższenia i wycofania ofert z rabatem](2021-july.md#1)|1 lipca|
 |**Kategoria**|**Ogłoszenia z czerwca 2021 r.**|**Ogłoszone**|
@@ -74,7 +74,7 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 |Możliwości|[Wyświetlanie najnowszych promocji i ofert](2021-june.md#8)|22 czerwca|
 |Możliwości|[Faza 1. Zmiany w dostępności ofert platformy Azure w Dostawca rozwiązań w chmurze (CSP) związane z nowymi rozwiązaniami handlowymi będą dostępne wkrótce](2021-june.md#7)|21 czerwca|
 |Rozwój firmy|[Aktualizacja społeczności Dostawca rozwiązań w chmurze czerwca (CSP) i przypomnienia](2021-june.md#6)|11 czerwca|
-|Oferty i rynki|[Dostawca rozwiązań w chmurze (CSP) dla konferencji Microsoft 365 audio i Microsoft 365 Business Voice](2021-june.md#5)|11 czerwca|
+|Oferty i rynki|[Dostawca rozwiązań w chmurze (CSP) rozszerzeń promocyjnych dla Microsoft 365 audiokonferencji i Microsoft 365 Business Voice](2021-june.md#5)|11 czerwca|
 |Możliwości|[Cennik oprogramowania bezterminowego poprawiony i ponownie opublikowany](2021-june.md#4)|4 czerwca|
 |Możliwości|[Korekta cennika usług opartych na licencjach z lipca (wersja zapoznawcza)](2021-june.md#3)|4 czerwca|
 |Możliwości|[Dodatkowe kolumny dla bardziej rozbudowanych informacji w raportach użycia platformy Azure](2021-june.md#2)|2 czerwca|
@@ -85,7 +85,7 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 |Możliwości|[Aktualizacje dotyczące transakcji bezterminowego oprogramowania w programie CSP i zmiany w programie Licencjonowanie Open](2021-may.md#13)|17 maj|
 |Możliwości|[Faza 2 będzie wkrótce: Zmiana waluty rozliczeniowej partnera w Unii Europejskiej/NAC i Zjednoczonym Królestwie dla nowych ofert handlowych](2021-may.md#12)|17 maj|
 |Możliwości|[Deprecation of Microsoft 365 Business Voice Wprowadzenie Wizard (GSW)](2021-may.md#11)|14 maja|
-|Możliwości|[Aktualizacja społeczności Dostawca rozwiązań w chmurze (CSP) z maja](2021-may.md#10)|13 maja|
+|Możliwości|[Aktualizacja Dostawca rozwiązań w chmurze społeczności (CSP) i przypomnienia](2021-may.md#10)|13 maja|
 |Możliwości|[Analiza transakcji współpracy sprzedaży prowadzonych przez partnerów](2021-may.md#9)|10 maja|
 |Możliwości|[Programy zachęt odsprzedawców hostingu i SPLA rozszerzone do 30 września 2021 r.](2021-may.md#8)|7 maja|
 |Możliwości|[Domyślne funkcje profilu bankowego są dostępne w Partner Center rejestracji zachęt](2021-may.md#7)|7 maja|
@@ -98,9 +98,9 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 |**Kategoria**|**Ogłoszenia z kwietnia 2021 r.**|**Ogłoszone**|
 |Gotowość|[Zaktualizowany interfejs API weryfikacji adresu klienta CSP zostanie zaktualizowany w czerwcu; Możliwość testowania jest teraz dostępna](2021-april.md#10)|30 kwietnia|
 |Możliwości|[Nowa lokalizacja dokumentacji programu Swagger Partner Center API](2021-april.md#9)|26 kwietnia|
-|Możliwości|[Dostawca rozwiązań w chmurze okresów zwrotnych oprogramowania (CSP) i powiadomienia o wygaśnięciu linku pobierania](2021-april.md#8)|21 kwietnia|
-|Rozwój firmy|[Otwórz program licencjonowania: Przechodzenie odsprzedawców do programu Dostawca rozwiązań w chmurze (CSP)](2021-april.md#7)|19 kwietnia|
-|Możliwości|[Teraz na żywo: Przewodnik dotyczący gotowości na promocję globalną](2021-april.md#6)|16 kwietnia|
+|Możliwości|[Dostawca rozwiązań w chmurze (CSP) okres zwrotu oprogramowania i powiadomienia o wygaśnięciu linku pobierania](2021-april.md#8)|21 kwietnia|
+|Rozwój firmy|[Open Licensing Program: Transitioning resellers to the Dostawca rozwiązań w chmurze (CSP) program (CSP) (Program licencjonowania open licensing: transitioning resellers to the Dostawca rozwiązań w chmurze (CSP) program (CSP)](2021-april.md#7)|19 kwietnia|
+|Możliwości|[Teraz na żywo: Przewodnik dotyczący gotowości na globalną promocję](2021-april.md#6)|16 kwietnia|
 |Community: Zaproszenia i przypomnienia|[Aktualizacja społeczności Dostawca rozwiązań w chmurze (CSP) z kwietnia](2021-april.md#5)|16 kwietnia|
 |Możliwości|[Przypomnienie: 4 maja 2021 r. cofniesz wymaganie kwalifikacji GET](2021-april.md#4)|9 kwietnia|
 |Możliwości|[Nowy format nowej faktury w formacie PDF dla handlu w programie CSP](2021-april.md#3)|5 kwietnia|
@@ -116,7 +116,7 @@ Dowiedz się więcej o ważnych aktualizacjach Centrum partnerskiego. Często ak
 |Możliwości|[Oferta komercyjnej platformy handlowej programu CSP i zachęty FY21 CSP dla kwalifikujących się ofert](2021-march.md#12)|18 marca|
 |Możliwości|[Power BI Premium nazewnictwa ofert i aktualizacji wymagań wstępnych](2021-march.md#11)|18 marca|
 |Oferty/rynki|[Aktualizacje cen w marcu dla Microsoft 365 F3](2021-march.md#10)|16 marca|
-|Wydajność dysków & skalowania|[Aktualizowanie nazwy firmy prawnej za pomocą Partner Center](2021-march.md#9)|16 marca|
+|Wydajność dysków & skalowania|[Aktualizowanie nazwy firmy prawnej za pośrednictwem Partner Center](2021-march.md#9)|16 marca|
 |Możliwości|[Aktualizacja ewolucji programu Dostawca rozwiązań w chmurze (CSP) i zmiany programu licencjonowania Open License](2021-march.md#8)|15 marca|
 |Rozwój firmy|[Aktualizacja do poprzedniego anonsu: Premium Assessments, dodatek do Menedżera zgodności](2021-march.md#7)|15 marca|
 |Możliwości|[Migrowanie rozwiązań z programu One Commercial Partner (OCP) do platformy handlowej firmy Microsoft](2021-march.md#6)|12 marca|
