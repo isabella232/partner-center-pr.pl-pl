@@ -11,11 +11,11 @@ ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 10/05/2020
 ms.openlocfilehash: 78aab2c29a9c01b615112f08aba2f724c1d54812
-ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
+ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "127828253"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127862310"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Zarejestruj się w programie Dostawca rozwiązań w chmurze dla Microsoft Cloud for US Government
 
@@ -55,13 +55,13 @@ Aby utworzyć konto Partner Center i zarejestrować się w programie CSP for Mic
 2. Wybierz **pozycję Zaakceptuj i kontynuuj.** Przegląd aplikacji może potrwać kilka dni. Po zakończeniu przeglądu napiszemy do Ciebie wiadomość e-mail.
 
    > [!IMPORTANT]
-   > Wybierając **pozycję** Zaakceptuj i kontynuuj, potwierdzasz, że masz uprawnienia do działania w imieniu organizacji i zgadzasz się zezwolić firmie Microsoft na uruchomienie sprawdzania środków w tle przed przejrzenie aplikacji Dostawca rozwiązań w chmurze organizacji.
+   > Wybierając **pozycję** Zaakceptuj i kontynuuj, potwierdzasz, że masz uprawnienia do działania w imieniu organizacji, i zgadzasz się zezwolić firmie Microsoft na uruchamianie sprawdzania środków w tle przed przejrzenie aplikacji Dostawca rozwiązań w chmurze organizacji.
 
 ### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-for-us-government"></a>Krok 3. Podpisywanie umowy odsprzedawcy dla Microsoft Cloud for US Government
 
 1. Zaloguj się do Partner Center, aby Microsoft Cloud for US Government za pomocą linku w wiadomości e-mail dotyczącej zatwierdzenia aplikacji.
 
-2. Na stronie **Umowa** przeczytaj warunki i jeśli je akceptujesz, wybierz pozycję **Akceptuj** i kontynuuj cyfrowe podpisywanie umowy odsprzedawcy dla Microsoft Cloud for US Government. Tworzenie konta może potrwać kilka godzin. Możesz wylogować się z Partner Center na Microsoft Cloud for US Government, a następnie zalogować się ponownie później.
+2. Na stronie **Umowa** przeczytaj warunki i w przypadku ich zaakceptowania wybierz pozycję **Akceptuj** i kontynuuj cyfrowe podpisywanie umowy odsprzedawcy dla Microsoft Cloud for US Government. Tworzenie konta może potrwać kilka godzin. Możesz wylogować się z Partner Center na Microsoft Cloud for US Government, a następnie zalogować się ponownie później.
 
 ### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>Krok 4. Przypisywanie użytkowników do roli agenta administracyjnego w portalu administracyjnym Microsoft Azure dla Microsoft Cloud for US Government
 
