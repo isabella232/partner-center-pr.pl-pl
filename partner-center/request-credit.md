@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.openlocfilehash: f5745a74e4368b42c4ce7b1b828ced8f79e49581
-ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
+ms.sourcegitcommit: 5abf065c8852a858a0aa7185176d3e117f2be7e5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/18/2021
-ms.locfileid: "127918597"
+ms.locfileid: "127958830"
 ---
 # <a name="how-and-when-to-request-a-credit-from-microsoft"></a>Jak i kiedy zażądać środków od firmy Microsoft
 
@@ -69,11 +69,11 @@ W przypadku żądań środków dla starszych ofert usług Microsoft 365 lub Micr
 
 - Jeśli wstrzymasz subskrypcję w miesiącach od 2 do 12, otrzymasz kredyt proporcjonalnie. Aby otrzymać pełny zwrot kosztów od początku subskrypcji, żądanie należy przesłać w ciągu **90** dni od zakupu, z wyjątkiem:
 
-  - Microsoft Power BI Premium P1:Żądanie musi zostać przesłane w ciągu siedmiu dni w **celu** 100% zwrotu. Po upływie siedmiu dni koszty stałe są odejmowane od środków.
+  - Microsoft Power BI Premium P1:Żądanie musi zostać przesłane w ciągu **siedmiu** dni w celu 100% zwrotu. Po upływie siedmiu dni koszty stałe są odejmowane od środków.
 
   - Microsoft 365 A1: pełne środki są udostępniane tylko wtedy, gdy żądanie zostanie przesłane w ciągu **30**  dni od zakupu i żadni użytkownicy nie zostaną przypisani do subskrypcji. Po upływie 30 dni od zakupu nie są wystawiane żadne zwroty.
 
-### <a name="duplicate-orders-credit"></a>Zduplikowane zamówienia środków
+### <a name="duplicate-orders-credit"></a>Zduplikowane zamówienia credit
 
 W przypadku żądań środków na zduplikowane licencje (na przykład gdy klient ma zduplikowane licencje po migracji do innej dzierżawy lub do innego partnera CSP):
 
@@ -89,11 +89,11 @@ W przypadku żądań środków na zduplikowane licencje (na przykład gdy klient
 
 W przypadku żądań środków na 35 000 000:
 
-- Środki na umowy SLA od firmy Microsoft są określane na podstawie usług, których to miało wpływ. Jeśli na przykład klient ma pakiet Office 365, ale wystąpiła tylko SharePoint, kredyt w umowach SLA jest zatwierdzany tylko dla SharePoint a nie całego planu klienta
+- Środki na umowy SLA od firmy Microsoft są określane na podstawie usług, których to miało wpływ. Jeśli na przykład klient ma pakiet Office 365, ale wystąpiła tylko SharePoint, kredyt w umowach SLA jest zatwierdzany tylko dla SharePoint, a nie całego planu klienta
 - Środki są proporcjonalnie oceniane na podstawie usługi, która ma wpływ, i czasu trwania 3000 300 000 000 000 000 000 000 000 Aby wyświetlić typy scenariuszy, które kwalifikują się do uzyskania środków w umowy SLA, zobacz dokument Online [Services Consolidated SLA (Skonsolidowana umowa SLA usług online).](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services) Te informacje dotyczą również usług sprzedawanych za pośrednictwem Dostawca rozwiązań w chmurze (CSP).
 - Żądania środków należy przesłać do końca miesiąca kalendarzowego następującego po miesiącu, w którym wystąpiło zdarzenie. Na przykład jeśli zdarzenie miało miejsce 15 lutego, musimy otrzymać roszczenie i wszystkie wymagane informacje do 31 marca. (Więcej szczegółów można znaleźć w *formularzu żądania środków lub zwrotu pieniędzy).*
 
-- Musisz przedstawić dowód na to, że na klienta miała wpływ ta przepłacanie oraz że zażądał środków w umowach SLA. Należy podać identyfikator dzierżawy klienta i identyfikator outage (z Service Health pulpitu nawigacyjnego). Wiadomość e-mail klienta przesłana jako dowód musi pochodzić z domeny objętej dzierżawy. (Wiadomość e-mail z adresu osobistego jest niedopuszczalna).
+- Musisz przedstawić dowód, że na klienta miała wpływ taka błąd i że zażądał środków w umowach SLA. Należy podać identyfikator dzierżawy klienta i identyfikator outage (z Service Health pulpitu nawigacyjnego). Wiadomość e-mail klienta przesłana jako dowód musi pochodzić z domeny objętej dzierżawy. (Wiadomość e-mail z adresu osobistego jest niedopuszczalna).
 
 > [!NOTE]
 > Zdarzenia doradcze zazwyczaj nie kwalifikują się do środków w umowach SLA. Zdarzenie opublikowane na pulpicie nawigacyjnym usługi Service Health  wskazuje, że może to mieć wpływ na dzierżawę, i reprezentuje najlepsze informacje, które firma Microsoft ma w czasie publikowania. Dane strony kondycji reprezentują ogólną dostępność usługi. Wpływ na poszczególne usługi, środki zaradcze i rozwiązania mogą się różnić. Aby uzyskać więcej informacji, możesz przejrzeć końcowy przegląd po zdarzeniu i po zdarzeniu. Aby uzyskać więcej informacji na temat kondycji usługi, zobacz [Jak Microsoft 365 kondycji usługi](/microsoft-365/enterprise/view-service-health).
@@ -119,7 +119,7 @@ Przed [przesłaniem żądania środków w umowy SLA](https://www.microsoft.com/l
 
 ### <a name="outage-incident-identifier"></a>Identyfikator zdarzenia 3D
 
-Identyfikator zdarzenia outage można znaleźć na stronie Service Health w centrum administracyjne platformy Microsoft 365. Identyfikator zdarzenia Exchange Online dwuliterowego oznacza usługę, na przykład EX25194.
+Identyfikator zdarzenia outage można znaleźć na stronie Service Health w centrum administracyjne platformy Microsoft 365. Identyfikator zdarzenia 3D jest liczbą poprzedzoną dwuliterową skrótem wskazującym usługę, na przykład EX25194 w przypadku Exchange Online danych.
 
 W poniższej tabeli opisano typowe skróty usług:
 

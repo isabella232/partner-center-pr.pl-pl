@@ -9,21 +9,21 @@ ms.author: hickeys
 author: hickeys
 keywords: windows 10, uwp, operatorzy urządzeń przenośnych, rozliczenia dla urządzeń przenośnych, rozliczenia operatora sieci komórkowej
 ms.localizationpriority: medium
-ms.openlocfilehash: b14d92038570756de594f013c4eb2c2e4615c64e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 7fab4915273fa611d0bb0b9115926ce84521a509
+ms.sourcegitcommit: 5abf065c8852a858a0aa7185176d3e117f2be7e5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959724"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "127958850"
 ---
 # <a name="mobile-operator-billing"></a>Rozliczenia operatora komórkowego
 
 **Odpowiednie role:** Administrator globalny
 
 > [!NOTE]
-> Jeśli szukasz pomocy technicznej dotyczącej wypłat, w tym konfigurowania kont wypłat, brakujących wypłat, wstrzymywania wypłat lub innych, skontaktuj się z pomocą [techniczną tutaj.](https://developer.microsoft.com/windows/support)
+> Jeśli szukasz pomocy technicznej dotyczącej wypłat, w tym konfigurowania kont wypłat, brakujących wypłat, wstrzymywania wypłat lub innych możliwości, skontaktuj się z działem pomocy technicznej Windows [deweloperów.](https://developer.microsoft.com/windows/support)
 
-Aplikacja Microsoft Store rozliczenia dla operatora sieci komórkowej jako formę płatności za urządzenia z systemem Windows 10, telefony z Windows 10 Mobile i Xbox One konsole. Jeśli operator sieci komórkowej klienta obsługuje tę funkcję, może dodać rozliczenia operatora sieci komórkowej jako formę płatności i używać jej do zakupów w sklepie przy użyciu konta mobilnego.
+Aplikacja Microsoft Store rozliczenia dla operatorów sieci komórkowej jako formę płatności za urządzenia z systemem Windows 10, telefony z Windows 10 Mobile i Xbox One konsole. Jeśli operator sieci komórkowej klienta obsługuje tę funkcję, może dodać rozliczenia operatora sieci komórkowej jako formę płatności i używać jej do zakupów w sklepie przy użyciu konta mobilnego.
 
 > [!TIP]
 > Jeśli operator sieci komórkowej klienta oferuje rozliczenia dla operatora sieci komórkowej, ale klient nie może znaleźć tej opcji na swoim urządzeniu, zapoznaj się z tymi [krokami.](https://support.microsoft.com/instantanswers/b25d6dd6-fb8b-3710-1e13-4d30eb01b51f)
@@ -50,7 +50,7 @@ Następujący operatorzy telefonii komórkowej obecnie obsługują rozliczenia o
 | Korea                | SK Telecom                                              |
 | Malezja             | Digi                                                    |
 | Holandia          | KPN/ Tel niesłyszący                                 |
-| Norwegia               | Telenor / Talkmore, Telia / OneCall                     |
+| Norwegia               | Telenor / Talk more, Telia / OneCall                     |
 | Polska               | Orange, Play, T-Mobile                                  |
 | Arabia Saudyjska         | STC                                                     |
 | Singapur            | M1 Limited, StarHub                                     |
@@ -60,7 +60,7 @@ Następujący operatorzy telefonii komórkowej obecnie obsługują rozliczenia o
 | Szwecja               | 3, Telenor                                              |
 | Szwajcaria          | Zdumiaj, Niemka                                       |
 | Tajwan               | FarEasTone                                              |
-| Turcja               | Turkcell                                                |
+| Turcja               | Komórka Cell                                                |
 | Zjednoczone Emiraty Arabskie | Etisalat                                                |
 | Stany Zjednoczone        | Sprint, Verizon                                         |
-| Zjednoczone Królestwo       | 3 Uk, EE, O2, Vodafone                                 |
+| Zjednoczone Królestwo       | Trzy Zjednoczone Królestwo, EE, O2, Vodafone                                 |

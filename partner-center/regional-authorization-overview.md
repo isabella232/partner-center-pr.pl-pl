@@ -1,5 +1,5 @@
 ---
-title: CSP global markets (Rynki globalne WSP)
+title: CSP global markets (Rynki globalne CSP)
 ms.topic: article
 ms.date: 04/15/2021
 ms.service: partner-dashboard
@@ -9,22 +9,22 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 33b60bd301a1493e7e722e26b3ff16128f4e9888
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 78af2ddb9c532b3c414ccd8176a0447d0f4b9487
+ms.sourcegitcommit: 5abf065c8852a858a0aa7185176d3e117f2be7e5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958797"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "127958874"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Dostawca rozwiązań w chmurze programie regionalne rynki i waluty, w których można sprzedawać oferty CSP
 
 **Odpowiednie role:** Administrator globalny
 
-Twój rynek zależy od lokalizacji Twojej firmy. Twój rynek obejmuje regiony i/lub kraje, w których można sprzedawać Dostawca rozwiązań w chmurze programów (CSP).
+Twój rynek zależy od lokalizacji Twojej firmy. Twój rynek obejmuje regiony i/lub kraje, w których można sprzedawać oferty Dostawca rozwiązań w chmurze (CSP).
 
-Jeśli na przykład Twoja firma znajduje się w Stany Zjednoczone, możesz sprzedawać oferty CSP klientom w Stanach Zjednoczonych i Na Wyspy Odlying. Jeśli Twoja firma znajduje się w Brazylii, możesz sprzedawać oferty CSP klientom tylko w Brazylii. Jeśli Twoja firma znajduje się w regionie Afryki, możesz sprzedawać oferty CSP klientom we wszystkich 18 krajach w regionie Afryki.
+Jeśli na przykład Twoja firma znajduje się w Stany Zjednoczone, możesz sprzedawać oferty CSP klientom w Stanach Zjednoczonych i na Odlying Islands w Stanach Zjednoczonych. Jeśli Twoja firma znajduje się w Brazylii, możesz sprzedawać oferty CSP klientom tylko w Brazylii. Jeśli Twoja firma znajduje się w regionie Afryki, możesz sprzedawać oferty CSP klientom we wszystkich 18 krajach w regionie Afryki.
 
-Aby można było zamówić oferty CSP w imieniu klienta, klient musi podpisać ofertę Umowa z Klientem Microsoft. Odpowiednie informacje dotyczące Umowa z Klientem Microsoft regionu/kraju można [znaleźć tutaj.](agreements.md)
+Zanim będzie można zamówić oferty CSP w imieniu klienta, klient musi podpisać ofertę Umowa z Klientem Microsoft. Odpowiednie informacje dotyczące regionu/Umowa z Klientem Microsoft można znaleźć w umowach klienta [firmy Microsoft według regionu i języka.](agreements.md)
 
 ## <a name="azure-plan-for-csp-region-availability"></a>Plan platformy Azure na rzecz dostępności regionów programu CSP  
 
@@ -86,13 +86,13 @@ Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz spr
 | Nigeria                  |   USD    |
 | Reunion                  |   USD    |
 | Rwanda                   |   USD    |
-| São Tomé i Prüncipe    |   USD    |
+| São Tomé i Práncipe    |   USD    |
 | Senegal                  |   USD    |
 | Seszele               |   USD    |
 | Sierra Leone             |   USD    |
 | Somalia                  |   USD    |
 | Sudan Południowy              |   USD    |
-| StLiga, Ascension, Tristan da Cunha|    USD   |
+| StRowa, Ascension, Tristan da Cunha|    USD   |
 | Tanzania                 |   USD    |
 | Togo                     |   USD    |
 | Uganda                   |   USD    |
@@ -153,7 +153,7 @@ Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz spr
 |  Tokelau               |   AUD    |
 |  Tonga                 |   AUD    |
 |  Tuvalu                |   AUD    |
-|  Wallis i Futuna     |   AUD    |
+|  Wallis i Ichuna     |   AUD    |
 |
 
 ## <a name="brazil-region-and-market"></a>Region i rynek w Brazylii
@@ -177,7 +177,7 @@ Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz spr
 
 ## <a name="china-region-and-market"></a>Region i rynek w Chinach
 
-Jeśli lokalizacja firmy to Chiny, możesz sprzedawać oferty CSP klientom w Chinach.
+Jeśli twoja firma znajduje się w Chinach, możesz sprzedawać oferty CSP klientom w Chinach.
 
 |  Kraj/region | Waluta |
 |  -------------- |:--------:|
@@ -324,7 +324,7 @@ Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz spr
 |  Wyspy Dziewicze Stanów Zjednoczonych| USD |
 |
 
-## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Bliski Wschód, Europa Środkowa oraz Region i rynek Europa Wschodnia
+## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Bliski Wschód, Europa Środkowa oraz region i rynek Europa Wschodnia
 
 Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz sprzedawać oferty CSP klientom we wszystkich lokalizacjach na liście.
 
@@ -351,7 +351,7 @@ Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz spr
 |  Liban        |   USD    |
 |  Lesotho        |   USD    |
 |  Libia          |   USD    |
-|  Podczas pracy w Republice Federalnej Niemiec|   |
+|  Rpa, Republika Północna|   |
 |  Mauretania     |   USD    |
 |  Mołdawia        |   USD    |
 |  Mongolia       |   USD    |
@@ -377,7 +377,7 @@ Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz spr
 |  Zimbabwe       |   USD    |
 |
 
-## <a name="new-zealand-region-and-market"></a>Region i rynek Nowej Zelandii
+## <a name="new-zealand-region-and-market"></a>Region i rynek w Nowej Zelandii
 
 Jeśli lokalizacja Twojej firmy znajduje się na poniższej liście, możesz sprzedawać oferty CSP klientom we wszystkich lokalizacjach na liście.
 
