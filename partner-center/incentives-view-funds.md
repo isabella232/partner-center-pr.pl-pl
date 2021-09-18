@@ -9,11 +9,11 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.openlocfilehash: 6f70a4a30346c6ef82e36c414559da6e79a373e0
-ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127898366"
+ms.lasthandoff: 09/17/2021
+ms.locfileid: "127906353"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Wyświetlanie dostępnych środków zdobytych, roszczeń i pozostałych środków współpracy
 
@@ -23,7 +23,7 @@ Możesz śledzić, monitorować i uzgadniać swoje środki zachęty w ramach wsp
 
 ## <a name="view-your-funds"></a>Wyświetlanie środków
 
-1. Zaloguj się na Partner Center [nawigacyjnym](https://partner.microsoft.com/dashboard/) przy użyciu konta usługi Azure AD (konto firmowe) lub odpowiedniej wiadomości e-mail dla roli zachęty.
+1. Zaloguj się na Partner Center [nawigacyjnym](https://partner.microsoft.com/dashboard/) przy użyciu konta usługi Azure AD (konta firmowego) lub odpowiedniej wiadomości e-mail dla roli zachęty.
 
 2. Na pasku nawigacyjnym po lewej stronie wybierz pozycję **Programy,** a następnie wybierz odpowiedni program zachęt z rozwiniętej listy programów.
 

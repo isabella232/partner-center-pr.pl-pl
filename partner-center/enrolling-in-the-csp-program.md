@@ -13,8 +13,8 @@ ms.openlocfilehash: 498148f661a728979073ea43e3c186f2f0bb5ae6
 ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127894136"
+ms.lasthandoff: 09/17/2021
+ms.locfileid: "127906267"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Rejestracja w programie Cloud Solution Provider
 
@@ -27,7 +27,7 @@ Gwałtownie rosnące zapotrzebowanie na rozwiązania i usługi oparte na chmurze
 
 Aby zarejestrować się w programie Dostawca rozwiązań w chmurze, musisz najpierw mieć identyfikator MPN. Jeszcze go nie masz? [Dołącz do Microsoft Partner Network](https://partner.microsoft.com/).
 
-Do ukończenia pracy z aplikacją CSP potrzebny będzie firmowy identyfikator MPN, pełny adres firmy, informacje o banku i służbowy adres e-mail pracownika, który będzie pełnił Partner Center.
+Do ukończenia aplikacji CSP potrzebny będzie firmowy identyfikator MPN, pełny adres firmy, informacje o banku i służbowy adres e-mail pracownika, który będzie pełnił Partner Center.
 
 1. Zaloguj się do [pulpitu Partner Center przy](https://partner.microsoft.com/dashboard/) użyciu służbowego adresu e-mail (czyli poświadczeń dzierżawy usługi Azure AD).
 
@@ -45,7 +45,7 @@ Do ukończenia pracy z aplikacją CSP potrzebny będzie firmowy identyfikator MP
 5. Po zweryfikowaniu informacji zaakceptuj umowę odsprzedawcy pośredniego firmy Microsoft.
 
 > [!IMPORTANT]  
-> Partner w programie CSP nie może obecnie Usługi online do innego partnera w programie CSP. To ograniczenie dotyczy tylko dzierżawy używanej do przeprowadzania transakcji CSP. Partnerzy programu CSP, którzy używają dzierżawy spoza programu CSP do użytku firmowego, mogą Usługi online od innego partnera CSP. Firma Microsoft stale przegląda zasady i możliwości wszystkich programów. Wszelkie wiadomości o wersjach funkcji lub zmianach zasad będą ogłaszane za pośrednictwem zwykłych kanałów komunikacyjnych, w tym [Partner Center wiadomości.](announcements/index.md)
+> Partner w programie CSP nie może obecnie Usługi online do innego partnera w programie CSP. To ograniczenie dotyczy tylko dzierżawy używanej do przeprowadzania transakcji CSP. Partnerzy programu CSP, którzy używają dzierżawy spoza programu CSP do użytku firmowego, mogą Usługi online od innego partnera CSP. Firma Microsoft stale przegląda zasady i możliwości wszystkich programów. Wszelkie wiadomości o wersjach funkcji lub zmianach zasad będą ogłaszane za pośrednictwem zwykłych kanałów komunikacyjnych, w tym [Partner Center anonse.](announcements/index.md)
 
 ## <a name="enroll-as-an-indirect-reseller"></a>Rejestrowanie jako odsprzedawca pośredni
 
@@ -67,7 +67,7 @@ Aby uzyskać więcej informacji o tym, co jest wymagane do uczestnictwa w progra
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Rejestracja jako partner z rozliczeniami bezpośrednimi
 
-Jako bezpośredni partner rozliczany jesteś właścicielem relacji typu end-to-end z klientem i firmą Microsoft. Zaktualizowaliśmy wymagania dotyczące rejestracji dla partnerów rozliczanych bezpośrednio od 27 października 2020 r. Te wymagania pomogą Ci przyspieszyć rozwój twojej firmy dzięki właściwemu modelowi programu Dostawca rozwiązań w chmurze i wzmacnianiu relacji z klientami za pomocą usług i pomocy technicznej o wartości dodanej.  
+Jako bezpośredni partner rozliczany jesteś właścicielem relacji typu end-to-end z klientem i firmą Microsoft. Zaktualizowaliśmy wymagania dotyczące rejestracji dla partnerów rozliczanych bezpośrednio od 27 października 2020 r. Te wymagania pomogą Ci przyspieszyć rozwój firmy dzięki właściwemu modelowi programu Dostawca rozwiązań w chmurze i wzmacnianiu relacji z klientami za pomocą usług i pomocy technicznej o wartości dodanej.  
 
 ### <a name="minimum-requirements"></a>Minimalne wymagania
 
@@ -76,7 +76,7 @@ Jako bezpośredni partner rozliczany jesteś właścicielem relacji typu end-to-
 |**Identyfikator MPN**   |Aktywne członkostwo w Microsoft Partner Network i identyfikator MPN dla lokalizacji, w której chcesz sprzedawać.    |
 |**Poręczenie**   |Urząd do akceptowania i podpisywania umów prawnych w imieniu organizacji.|
 |**Pomoc techniczna**   |Możliwość zapewnienia klientom pierwszego poziomu pomocy technicznej dla produktów w chmurze. <br>Plan pomocy technicznej firmy Microsoft ( Advanced Support for Partners (ASfP) lub Premier Support for Partners (PSfP) w zależności od potrzeb. [Porównaj plany pomocy technicznej.](https://partner.microsoft.com/support/partnersupport)<br> WAŻNE: Przed zakupem planu pomocy technicznej należy przejść sprawdzenie środków. Po przekazie sprawdzenia środków otrzymasz wiadomość e-mail. |
-|**Wymaganie dotyczące przychodów**|Musi osiągnąć co najmniej 300 000 USD w Dostawca rozwiązań w chmurze programie w ciągu poprzednich 12 miesięcy jako odsprzedawca pośredni. Partnerzy mogą przejrzeć swoje końcowe przychody z 12 miesięcy w Partner Center.<br/>Sprzedaż, która stanowi 300 000 USD na 12-miesięczny przychód, będzie podlegać weryfikacji i weryfikacji przez firmę Microsoft, a Użytkownik może zostać poproszony o podanie dodatkowych informacji. Wymaganie przychodu w wysokości 300 000 USD jest obliczane na podstawie przychodu z chmury i wyklucza oprogramowanie bezterminowe w programie CSP.|
+|**Wymaganie dotyczące przychodu**|Musi osiągnąć co najmniej 300 000 USD w Dostawca rozwiązań w chmurze programie rocznym w ciągu poprzednich 12 miesięcy jako odsprzedawca pośredni. Partnerzy mogą przejrzeć swoje końcowe przychody z 12 miesięcy na Partner Center.<br/>Sprzedaż, która stanowi 300 000 USD na 12-miesięczny przychód, będzie podlegać weryfikacji i weryfikacji przez firmę Microsoft, a Użytkownik może zostać poproszony o podanie dodatkowych informacji. Wymaganie przychodu w wysokości 300 000 USD jest obliczane na podstawie przychodu z chmury i wyklucza oprogramowanie bezterminowe w programie CSP.|
 |**Konta do odebrania** |Infrastruktura organizacyjna do zarządzania rozliczeniami i aprowizowania klientów.|
 |**Zalecenie**|             |
 |**Usługa zarządzana**   |Co najmniej jedna zarządzana usługa, usługa IP lub aplikacja rozwiązania klienta. Dowiedz się więcej o dodawaniu [usług zarządzanych.](https://partner.microsoft.com/business-opportunities/managed-services-provider)|
@@ -85,7 +85,7 @@ Jako bezpośredni partner rozliczany jesteś właścicielem relacji typu end-to-
 
 Po sprawdzeniu, czy spełniasz minimalne wymagania dotyczące rejestracji jako partner z rozliczeniami bezpośrednimi, możesz przejść do formularza [rejestracji](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR39X9dQFZ3FMghsMA7GOTNJUQVRPMk9KUVJZRDA1T1pSTkRSMzIzRUlOWSQlQCN0PWcu).
 
-Po sprawdzeniu, czy Firma spełnia wymagania dotyczące uprawnień do rejestracji jako partner z rozliczeniami bezpośrednimi, a aplikacja rejestracji została ukończona, przejmiemy i zweryfikujemy informacje biznesowe podane w procesie rejestracji. W ramach tego przeglądu sprawdzimy kredyt Twojej firmy. Otrzymasz wiadomość e-mail, gdy Twoja firma pomyślnie przeszły sprawdzanie środków.
+Po sprawdzeniu, czy Firma spełnia wymagania dotyczące uprawnień do rejestracji jako partner z rozliczeniami bezpośrednimi, a aplikacja rejestracji została ukończona, przejmiemy i zweryfikujemy informacje biznesowe podane w procesie rejestracji. W ramach tego przeglądu sprawdzimy dane kredytowe Twojej firmy. Otrzymasz wiadomość e-mail z powiadomieniem o tym, kiedy Twoja firma przeszły sprawdzanie środków.
 >[!IMPORTANT]
 >Sprawdzenie środków firmy może potrwać kilka dni lub dłużej. W tym czasie ważne jest, aby NIE kupować planu pomocy technicznej firmy Microsoft. Plan pomocy technicznej firmy Microsoft należy zakupić dopiero po poinformowaniu Cię o przekazie kontroli środków.
 
@@ -97,7 +97,7 @@ Zobacz [Transition from Dostawca rozwiązań w chmurze (CSP) direct bill partner
 
 ## <a name="csp-regional-markets-and-currencies"></a>CSP regional markets and currencies (Rynki regionalne i waluty programu CSP)
 
-Twój rynek zależy od lokalizacji Twojej firmy. Obejmuje on regiony i kraje, w których możesz sprzedawać oferty w programie CSP. Zobacz [Dostawca rozwiązań w chmurze programu regionalne rynki i waluty,](regional-authorization-overview.md) aby uzyskać informacje o lokalizacjach i walutach na rynku.
+Twój rynek zależy od lokalizacji Twojej firmy. Obejmuje on regiony i kraje, w których możesz sprzedawać oferty w programie CSP. Zobacz [Dostawca rozwiązań w chmurze programu regionalne rynki i waluty dla](regional-authorization-overview.md) lokalizacji i walut na rynku.
 Pamiętaj o przeczytaniu [tematu Wymagania wstępne, aby dodać nową lokalizację dla firmy CSP.](manage-locations.md)
 
 ## <a name="provide-partner-registration-id-number-for-specific-countries"></a>Podaj numer identyfikatora rejestracji partnera dla określonych krajów
@@ -133,4 +133,4 @@ Aby uzyskać więcej informacji, przeczytaj [informacje o numerze identyfikatora
 
 ## <a name="next-steps"></a>Następne kroki
 
-[Dowiedz się więcej o Microsoft Partner Agreement (MPA) dla partnerów programu CSP](microsoft-partner-agreement.md)
+[Dowiedz się więcej Microsoft Partner Agreement (MPA) dla partnerów programu CSP](microsoft-partner-agreement.md)
