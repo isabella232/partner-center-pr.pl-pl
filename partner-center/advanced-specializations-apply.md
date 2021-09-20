@@ -4,31 +4,31 @@ ms.topic: how-to
 ms.date: 09/16/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
-description: Wzmocnienie profilu biznesowego w katalogu partnerów firmy Microsoft. Dowiedz się, jak używać Partner Center, aby aplikować i zdobywać zaawansowane specjalizacje.
+description: Wzmocnienie profilu biznesowego w katalogu partnerów firmy Microsoft. Dowiedz się, jak używać Partner Center do stosowania zaawansowanych specjalizacji i zdobywania ich.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 5667fad7bde179cd728abb911b65621bcc9505a7
-ms.sourcegitcommit: 8d5c2463fc0f0c03972a6f89d01605421288daea
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "127932872"
+ms.lasthandoff: 09/20/2021
+ms.locfileid: "128007239"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Użyj Partner Center, aby zastosować zaawansowane specjalizacje i sprawdzić ich stan
 
 **Odpowiednie role:** Administrator globalny | Administrator konta
 
-W tym artykule opisano sposób użycia pulpitu [](advanced-specializations.md)nawigacyjnego Partner Center do zastosowania zaawansowanej specjalizacji, sprawdzenia postępu oraz wykonania niezbędnych kroków i weryfikacji. Zostaną również opisane przykłady użycia Partner Center w celu uzyskania niektórych zaawansowanych specjalizacji, które wymagają inspekcji lub odwołań klientów.
+W tym artykule opisano sposób użycia pulpitu [](advanced-specializations.md)nawigacyjnego Partner Center do zastosowania zaawansowanej specjalizacji, sprawdzenia postępu oraz wykonania niezbędnych kroków i weryfikacji. Zobaczysz również przykłady użycia narzędzia Partner Center w celu uzyskania niektórych zaawansowanych specjalizacji, które wymagają inspekcji lub odwołań klientów.
 
-Aby dowiedzieć się więcej o zaletach zaawansowanych specjalizacji i ich specyficznych wymaganiach, zobacz [Microsoft Partner Network specjalizacji zaawansowanych.](https://partner.microsoft.com/membership/advanced-specialization)
+Aby dowiedzieć się więcej o zaletach zaawansowanych specjalizacji i ich konkretnych wymaganiach, zobacz [Microsoft Partner Network specjalizacji.](https://partner.microsoft.com/membership/advanced-specialization)
 
 ## <a name="use-partner-center-to-apply-for-advanced-specializations-or-check-their-status"></a>Użyj Partner Center, aby zastosować zaawansowane specjalizacje lub sprawdzić ich stan
 
 Aby zakwalifikować się do zaawansowanej specjalizacji, należy najpierw spełnić pewne wymagania wstępne, takie jak kompetencja [Gold](https://partner.microsoft.com/membership/competencies) w powiązanym obszarze. Następnie należy zastosować w tej Partner Center i wykonać kluczowe kroki, wymagania i weryfikacje firmy Microsoft dla tej zaawansowanej specjalizacji.
 
-Większość procesu jest dostępna z poziomu pulpitu nawigacyjnego Partner Center nawigacyjnego. Jednak tylko użytkownicy z określoną rolą Partner Center [mogą](permissions-overview.md) uzyskać dostęp do tego Partner Center danych.
+Większość procesu jest dostępna z poziomu pulpitu nawigacyjnego Partner Center nawigacyjnego. Jednak tylko użytkownicy z określoną Partner Center [mogą uzyskać](permissions-overview.md) dostęp do tego Partner Center danych.
 
 Aby uzyskać dostęp do tego obszaru, musisz mieć  przyznaną rolę administratora konta **MPN** lub administratora globalnego dla konta partnera Microsoft w organizacji.
 
@@ -172,7 +172,7 @@ Następnie wykonaj następujące kroki, aby udostępnić odwołania do klientów
     - Azure Stack HCI ACR: Poziom usługi 2 = Azure Stack HCI
 - Microsoft Azure Rozwiązanie VMware
     - Azure VMware Solutions(AVS) ACR: Service Level 4 = Azure VMware Solution, Azure VMware Solution by CloudSimple, Azure VMware Solution by Virtustream, Specialized Compute Azure VMware Solution
-- Operacje hybrydowe i zarządzanie z Microsoft Azure Arc 
+- Operacje hybrydowe i zarządzanie za pomocą Microsoft Azure Arc 
     - Usługa ACR serwera z obsługą usługi Arc: poziom usługi 4 = Azure Policy
     - Usługa Kubernetes ACR z obsługą usługi Arc: poziom usługi 4 = Azure Arc
 - AI i Machine Learning w Microsoft Azure
@@ -193,18 +193,18 @@ Następnie wykonaj następujące kroki, aby udostępnić odwołania do klientów
             - ACR Adjustment Type = N/A, Service Level 2 = Virtual Machines, Compute OS= Linux, Compute OS Attribute = Non-Windows, UNKNOWN , Windows
             - Poziom usług 4 = wszystkie z wyjątkiem serii Cloud Services MS, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host
         - Opcja 2. Wymagaj filtrów tylko na poziomie usługi 4, inne pola, takie jak atrybuty obliczeniowego systemu operacyjnego/obliczeniowego systemu operacyjnego, nie są wymagane
-            - Poziom usług 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux z ha, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server for HPC Priority, SUSE Linux Enterprise Server for HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
+            - Service Level 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux with HA, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server for HPC Priority, SUSE Linux Enterprise Server for HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Linux Enterprise Server Standard
     - Azure Database (DB) for MariaDB ACR: Service Level 1 = Databases and Service Level 2 = Azure Database for MariaDB
     - Azure DB for MySql ACR: Service Level 1 = Databases and Service Level 2 = Azure Database for MySQL and MySQL Database on Azure
     - Azure DB for Postgre SQL ACR: Service Level 1 = Databases and Service Level 2 = PostgreSQL
     - Azure COSMOS DB ACR: Poziom usługi 1 = bazy danych i poziom usługi 2 = CosmosDB
 - Ochrona przed zagrożeniami
-    - Azure Sentinel ACR: Poziom usługi 4 = Sentinel
+    - Azure Sentinel ACR: Service Level 4 = Sentinel
 - Bezpieczeństwo w chmurze
-    - Środowisko hybrydowe XDR i usługa ACR zabezpieczeń sieci: poziom usługi 4 = Azure Defender dla SQL, Azure Defender dla rejestrów kontenerów, Azure Defender dla Kubernetes, Azure Defender dla Storage, Application Gateway WAF v2, WAF Application Gateway, Azure Active Directory B2C, Azure Active Directory Domain Services, Azure Active Directory for External Identities, Azure Bastion, Azure DDOS Protection, Azure Firewall, Azure Firewall Manager, Azure Front Door Service, Azure Defender dla IoT, Azure Dedicated HSM, Key Vault, Network Watcher, Azure Defender for App Service, Azure Defender for servers, Sentinel
+    - Środowisko hybrydowe XDR i usługa ACR zabezpieczeń sieci: poziom usługi 4 = Azure Defender dla SQL, Azure Defender dla rejestrów kontenerów, Azure Defender dla Kubernetes, Azure Defender dla usług Storage, Application Gateway WAF v2, WAF Application Gateway, Azure Active Directory B2C, Azure Active Directory Domain Services, Azure Active Directory dla usług External Identities, Azure Bastion, Azure DDOS Protection, Azure Firewall, Azure Firewall Manager, Azure Front Door Service, Azure Defender dla IoT, Azure Dedicated HSM, Key Vault, Network Watcher, Azure Defender for App Service, Azure Defender for servers, Sentinel
     
 - Rozwiązania SAP na platformie Microsoft Azure
-    - SAP Workloads ACR: Service Level 4 = Cloud Services MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host, Oprogramowanie SAP HANA na platformie Azure — duże wystąpienia,SAP Cloud Platform Alert Notification, SAP Cloud Platform Extension Factory - Kyma Runtime,SAP Cloud Platform Integration Suite - Additional Messages, SAP Cloud Platform Integration Suite - Standard Edition, SAP Cloud Platform Transport Management, SAP Edge Services, SAP Embrace API Management,SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Bandwidth, SAP Embrace Business Application Studio, SAP Embrace Business Rules, SAP Embrace Cloud Integration, SAP Embrace Credential Store, SAP Embrace Custom Domain,  SAP Embrace Data Intelligence, SAP Embrace Enterprise messaging, SAP Embrace Extension Factory, środowisko uruchomieniowe bez serwera, SAP Embrace Hana Cloud, SAP Embrace Identity Authentication, SAP Embrace Job Scheduler, SAP Embrace MACC, SAP Embrace Mobile Services,SAP Embrace Object Store Service, SAP Embrace Open Connectors, SAP Embrace Portal, SAP Embrace Process Visibility, SAP Embrace Web Analytics, SAP Embrace Workflow, SAP HANA Service, SAP Web IDE, BareMetal Infrastructure, Virtual Machines MdSv2 Series, Virtual Machines MdSv2 Series Windows
+    - SAP Workloads ACR: Service Level 4 = Cloud Services MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host, Oprogramowanie SAP HANA na platformie Azure — duże wystąpienia,SAP Cloud Platform Alert Notification, SAP Cloud Platform Extension Factory - Kyma Runtime,SAP Cloud Platform Integration Suite - Additional Messages,  SAP Cloud Platform Integration Suite — Standard Edition, SAP Cloud Platform Transport Management, USŁUGI SAP Edge, SAP Embrace API Management, SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Bandwidth, SAP Embrace Business Application Studio, SAP Embrace Business Rules, SAP Embrace Cloud Integration, SAP Embrace Credential Store, SAP Embrace Custom Domain, SAP Embrace Data Intelligence, SAP Embrace Enterprise Messaging, SAP Embrace Extension Factory, środowisko uruchomieniowe bez serwera, SAP Embrace Hana Cloud, SAP Embrace Identity Authentication, SAP Embrace Job Scheduler, SAP Embrace MACC, SAP Embrace Mobile Services,SAP Embrace Object Store Service, SAP Embrace Open Connectors, SAP Embrace Portal, SAP Embrace Process Visibility, SAP Embrace Web Analytics, SAP Embrace Workflow, SAP HANA Service, SAP Web IDE,  BareMetal Infrastructure, Virtual Machines MdSv2 Series, Virtual Machines MdSv2 Series Windows
 
 ## <a name="next-steps"></a>Następne kroki
 
