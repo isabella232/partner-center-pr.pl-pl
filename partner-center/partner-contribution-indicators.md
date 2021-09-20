@@ -10,22 +10,22 @@ ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 513fe0a81c9b29c9cc3a0d70026634e5d7915899
-ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127872292"
+ms.lasthandoff: 09/19/2021
+ms.locfileid: "127987614"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Korzystanie z wskaźników udziałów partnerów w celu uzyskania kompetencji w obszarze Aplikacje biznesowe w chmurze
 
 **Odpowiednie role:** Administrator globalny | Administrator partnera MPN | Administrator konta
 
-W tym artykule opisano siedem kluczowych wskaźników udziału partnerów (PCI, Partner Contribution Indicators) używanych do oceny postępów partnera w osiągnięciu lub zachowaniu kompetencji silver bądź gold cloud Business Applications.
+W tym artykule opisano siedem kluczowych wskaźników udziału partnerów (PCI, Key Partner Contribution Indicators) używanych do oceny postępów partnera w osiągnięciu lub zachowaniu kompetencji silver bądź gold cloud Business Applications.
 
-Postęp pci możesz zobaczyć na pulpicie nawigacyjnym wkładu partnera. Dane są aktualizowane 20 dnia każdego miesiąca przy użyciu danych z poprzedniego miesiąca. Na przykład dane z lutego zostaną opublikowane 20 marca.
+Postęp pci możesz zobaczyć na pulpicie nawigacyjnym udziału partnera. Dane są aktualizowane 20 dnia każdego miesiąca przy użyciu danych z poprzedniego miesiąca. Na przykład dane z lutego zostaną opublikowane 20 marca.
 
 > [!NOTE]
-> Dowiedz się, jak partnerzy mogą używać innego zestawu metryk wskaźnika udziału partnera w celu uzyskania kompetencji Silver lub Gold Small and Midmarket Cloud Solutions za pośrednictwem opcji Cloud Business Applications SMB. Aby uzyskać więcej informacji, zobacz [Use Partner Contribution Indicators for the Small and Midmarket Cloud Solutions competency](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md)(Używanie wskaźników udziału partnerów dla kompetencji Rozwiązania w chmurze dla małych i średnich firm). Możesz również przeczytać [więcej na temat](https://partner.microsoft.com/membership/competencies) kompetencji i ich wymagań.
+> Dowiedz się, jak partnerzy mogą używać innego zestawu metryk wskaźnika udziału partnera w celu uzyskania kompetencji Silver lub Gold Small and Midmarket Cloud Solutions za pośrednictwem opcji cloud Business Applications SMB. Aby uzyskać więcej informacji, zobacz [Use Partner Contribution Indicators for the Small and Midmarket Cloud Solutions competency](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md)(Używanie wskaźników udziału partnerów dla kompetencji Rozwiązania w chmurze dla małych i średnich firm). Możesz również przeczytać [więcej na temat](https://partner.microsoft.com/membership/competencies) kompetencji i ich wymagań.
 
 Ten artykuł zawiera informacje dotyczące:
 
@@ -33,24 +33,24 @@ Ten artykuł zawiera informacje dotyczące:
 
 - [Progi dla każdego wskaźnika PCI](partner-contribution-indicators.md#thresholds-for-each-pci-metric-for-this-competency)
 
-- [Szczegółowe definicje każdego wskaźnika PCI](partner-contribution-indicators.md#detailed-pci-metrics-definitions-for-this-competency)
+- [Szczegółowe definicje poszczególnych wskaźników PCI](partner-contribution-indicators.md#detailed-pci-metrics-definitions-for-this-competency)
 
 - [Jak uzyskać dostęp do wykresów](partner-contribution-indicators.md#how-to-access-partner-contribution-indicators) PCI i odczytywać je w Partner Center
 
 ## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>Omówienie wskaźników udziału partnerów dla tej kompetencji
 
-Wskaźniki udziału partnerów zapewniają całościową miarę wpływu partnera na osiąganie pomyślnych wyników klientów, a tym samym większe różnice na rynku, gdy partner osiągnie lub zachowa kompetencję w zakresie rozwiązań Silver lub Gold Cloud Business Applications.
+Wskaźniki udziału partnerów zapewniają całościową miarę wpływu partnera na osiąganie pomyślnych wyników klientów, a tym samym większe różnice na rynku, gdy partner osiąga lub zachowuje kompetencję w zakresie rozwiązań Silver lub Gold Cloud Business Applications.
 
 Dzięki pci partnerzy otrzymują środki na kluczowe miary sukcesu klientów, takie jak pomyślne wdrożenia i zwiększenie użycia. Są one nagradzane za dalsze inwestowanie i skalowanie swoich możliwości technicznych.
 
 Gdy partner osiąga pewne poziomy wpływu w kluczowych wskaźnikach, na przykład partner może uzyskać (lub zachować) kompetencję silver lub gold cloud Business Applications kompetencję.
 
 > [!NOTE]
-> Aby dowiedzieć się więcej o korzyściach wynikających z uzyskania kompetencji, zobacz [Kompetencje partnerów firmy Microsoft.](https://partner.microsoft.com/membership/competencies)
+> Aby dowiedzieć się więcej na temat korzyści wynikających z uzyskania kompetencji, zobacz [Kompetencje partnerów firmy Microsoft.](https://partner.microsoft.com/membership/competencies)
 
 ## <a name="pci-scoring-based-on-seven-key-indicators"></a>Ocenianie wskaźników PCI na podstawie siedmiu kluczowych wskaźników
 
-Pci zapewnia zaawansowany widok możliwości technicznych partnera, ich możliwości w zakresie sukcesu klientów i ich wydajności sprzedaży. Aby pomóc partnerom w osiągnięciu kompetencji silver lub gold cloud Business Applications, usługa PCI mierzy wydajność firmy w poprzednim roku na siedmiu kluczowych wskaźnikach:
+Pci zapewnia zaawansowany widok możliwości technicznych partnera, ich zdolność do napędzania sukcesu klientów i ich wyniki sprzedaży. Aby pomóc partnerom w osiągnięciu kompetencji silver lub gold cloud Business Applications, usługa PCI mierzy wydajność firmy w poprzednim roku na siedmiu kluczowych wskaźnikach:
 
 *Wskaźniki wydajności:*
 
@@ -62,7 +62,7 @@ Pci zapewnia zaawansowany widok możliwości technicznych partnera, ich możliwo
 
 3. **Konsultanci funkcjonalni:** Liczba osób posiadających obecnie aktywną certyfikację konsultanci funkcjonalni Associate dla usługi Dynamics 365. (Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [Definicje dla konsultantów funkcjonalnych).](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)
 
-4. **Rozwój konsultanta funkcjonalnego:** Wzrost liczby konsultanci funkcjonalni partnerów. Istnieje kilka opcji uzyskiwania punktów dla tego wskaźnika. Jedna z opcji wymaga, aby migawka linii bazowej dla metryki wzrostu konsultanta funkcjonalnego w PCI została podjęta 1 października 2020 r. (Aby uzyskać szczegółowe informacje o wszystkich opcjach uzyskiwania punktów dla tej metryki, zobacz [Definicje wzrostu konsultanta funkcjonalnego).](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)
+4. **Rozwój konsultanta funkcjonalnego:** Wzrost liczby konsultanci funkcjonalni partnerów. Istnieje kilka opcji uzyskiwania punktów dla tego wskaźnika. Jedna z opcji wymaga, aby migawka linii bazowej metryki wzrostu konsultanta funkcjonalnego w PCI została podjęta 1 października 2020 r. (Aby uzyskać szczegółowe informacje o wszystkich opcjach uzyskiwania punktów dla tej metryki, zobacz [Definicje wzrostu konsultanta funkcjonalnego).](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)
 
 5. **Deweloperzy:** liczba osób posiadających obecnie aktywny certyfikat Developer Associate dla usługi Dynamics 365. (Aby uzyskać szczegółowe informacje na temat tej metryki, zobacz [Definicje dla deweloperów).](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)
 
@@ -93,7 +93,7 @@ Każdy wskaźnik zapewnia ocenę, która jest dodawana do sumy. Poniżej podano 
 |Dla tego wskaźnika | Maksymalny wynik dla tej kompetencji to  |
 |:------------|:--------------:|
 |Wydajność — nowy przychód netto  | 10 punktów  |
-|Wydajność — dodaje klient sieci  | 10 punktów  |
+|Wydajność — klient sieci dodaje  | 10 punktów  |
 |Możliwość — konsultanci funkcjonalni  | 15 punktów  |
 |Możliwość — rozwój konsultanta funkcjonalnego  | 15 punktów  |
 |Możliwość — deweloperzy  | 5 punktów |
@@ -236,7 +236,7 @@ Klient netto dodaje wskaźnik [wydajności](partner-contribution-indicators.md#p
     - Wszyscy partnerzy powiązani z klientem otrzymają środków na dodanie nowego klienta w miesiącu dodania klienta.
     - Kolejni partnerzy, którzy skojarzą się z tym samym klientem za pośrednictwem starych lub nowych subskrypcji, nie uzyskają nowych środków dla tego klienta.
 - Klient zostanie utracony: Wszyscy powiązani partnerzy, którzy w ciągu poprzednich 12 miesięcy otrzymywali kredyt na dodanie klienta, utracą te środków w miesiącu, w którym klient utraci.
-- Klient, który został wcześniej utracony, zostanie dodany z powrotem: Wszyscy partnerzy skojareni z klientem otrzymają środków na dodanie nowego klienta w miesiącu, w których klient zostanie ponownie dodany.
+- Klient, który został wcześniej utracony, zostanie ponownie dodany: wszyscy partnerzy skojareni z klientem otrzymają kredyt na dodanie nowego klienta w miesiącu, w których klient zostanie dodany z powrotem.
   
   **Gdy klient pracuje już bezpośrednio z firmą Microsoft:**
 
@@ -264,7 +264,7 @@ Konsultantzy funkcjonalni to [wskaźnik możliwości](partner-contribution-indic
 > Egzaminy oznaczone gwiazdką ( ) zostaną wycofane lub zastąpione w \* najbliższych miesiącach. Szczegółowe informacje można znaleźć poniżej:
 >
 > - Egzaminy oznaczone jedną gwiazdką ( ) zostały \* wycofane 31 grudnia 2020 r. Egzaminy wycofane 31 grudnia 2020 r. będą kwalifikować się do poziomu kompetencji i odnowienia do 31 grudnia 2021 r., jeśli zostaną wykonane przed ich wycofane.
-> - Egzaminy oznaczone dwoma gwiazdkami ( ) zostaną wycofane \* \* 31 stycznia 2021 r. Egzaminy wycofane 31 stycznia 2021 r. będą kwalifikować się do uzyskania kompetencji i odnowienia do 31 stycznia 2022 r., jeśli zostaną wykonane przed wycofaniem.
+> - Egzaminy oznaczone dwoma gwiazdkami () zostaną wycofane \* \* 31 stycznia 2021 r. Egzaminy wycofane 31 stycznia 2021 r. będą kwalifikować się do uzyskania kompetencji i odnowienia do 31 stycznia 2022 r., jeśli zostaną wykonane przed wycofaniem.
 
 ### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>Definicje metryk PCI dla #4 — rozwój konsultanta funkcjonalnego
 
@@ -272,13 +272,13 @@ Rozwój konsultanta funkcjonalnego jest [wskaźnikiem możliwości](partner-cont
 
 Partner ma jedną z dwóch opcji uzyskania wszystkich lub żadnych punktów (15 lub 0 punktów) dostępnych dla tej metryki. Punkty częściowe nie będą przyznawane.
 
-**Opcja 1 umożliwia uzyskanie punktów:**
+**Opcja 1 w celu uzyskania punktów:**
 
 - Rozwój konsultanta funkcjonalnego jest definiowany jako wzrost liczby certyfikowanych partnerów konsultanci funkcjonalni od migawki linii bazowej. Data migawki linii bazowej zostanie podjęta 1 października 2020 r.
 
 - Punkty wskaźnika wzrostu konsultanta funkcjonalnego są oparte na migawce bieżącego miesiąca w porównaniu z punktem odniesienia z 1 października 2020 r. Partnerzy mogą osiągnąć 0 lub 15 punktów za pomocą tego wskaźnika.
 
-- Migawka linii bazowej zostanie zresetowana w następnej dacie odnowienia Business Applications Cloud.
+- Migawka linii bazowej zostanie następnie zresetowana przy następnej dacie odnowienia kompetencji Business Applications Cloud.
 
 - Aby kwalifikować się do punktów, musisz mieć co najmniej **15** partnerów konsultanci funkcjonalni dla opracowanych partnerów rynkowych i **5** partnerów biznesowych w przypadku tworzenia partnerów handlowych w momencie utworzenia migawki punktu odniesienia.
 
@@ -288,15 +288,15 @@ Partner ma jedną z dwóch opcji uzyskania wszystkich lub żadnych punktów (15 
   |:---:|:---:|:---:|
   | 15-29 | 5-14 | 35% |
   | 30–49 | 15-24 | 25% |
-  | 50 lub więcej | 25 i więcej | Zobacz opcje poniżej |
+  | 50 i więcej | 25 i więcej | Zobacz opcje poniżej |
 
 **Opcja 2 w celu uzyskania punktów:**
 
-- Opracowani partnerzy biznesowi mogą certyfikować 50 lub więcej konsultantów funkcjonalnych na czas na pierwszą rocznicę kompetencji cloud Business Applications PCI. (Partnerzy z rynku mogą uzyskać certyfikację co najmniej 25 konsultantów funkcjonalnych w czasie na pierwszą rocznicę kompetencji cloud Business Applications PCI).
+- Opracowani partnerzy biznesowi mogą certyfikować 50 lub więcej konsultantów funkcjonalnych w czasie swojej pierwszej rocznicy kompetencji w chmurze opartej Business Applications PCI. (Opracowywanie partnerów na rynku może certyfikować 25 lub więcej konsultantów funkcjonalnych w czasie na pierwszą rocznicę kompetencji cloud Business Applications PCI).
 
-- Jeśli osiągniesz ten próg, otrzymasz pełne 15 punktów za konsultanci funkcjonalni wzrost przez 24 miesiące od tej daty. Oznacza to, że zyskasz maksymalną liczbę punktów za konsultanci funkcjonalni rozwoju w przypadku dwóch rocznic kompetencji Business Applications Chmura.
+- Jeśli osiągniesz ten próg, otrzymasz pełne 15 punktów za konsultanci funkcjonalni Wzrost przez 24 miesiące od tej daty. W praktyce oznacza to, że otrzymasz maksymalne punkty za konsultanci funkcjonalni Rozwoju w przypadku dwóch rocznic kompetencji Business Applications Chmura.
 
-### <a name="definitions-for-pci-metric-5---developers"></a>Definicje metryk PCI dla #5 — deweloperzy
+### <a name="definitions-for-pci-metric-5---developers"></a>Definicje metryk PCI #5 — deweloperzy
 
 Deweloperzy to [wskaźnik możliwości](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Punkty tego wskaźnika są obliczane dla kompetencji cloud Business Applications w następujący sposób:
 
@@ -305,7 +305,7 @@ Deweloperzy to [wskaźnik możliwości](partner-contribution-indicators.md#pci-s
 - Punkty wskaźnika Deweloperzy są oparte na migawce z bieżącego miesiąca z maksymalnie 5 dostępnymi punktami.
 
 - Deweloperzy customer engagement uzyskają kredyt, gdy przejdą:
-  - PL-400<br/>**Lub**
+  - PL-400<br/>**lub**
   - MB-200 \* **i** jeden z następujących egzaminów:
     - MB-400 \* lub MB2-716\*\*
 
@@ -332,7 +332,7 @@ Nowe duże wdrożenia są [wskaźnikiem sukcesu klienta](partner-contribution-in
 
   - W przypadku usług finansowych i operacyjnych nowe duże wdrożenia są definiowane jako liczba wystąpień produkcyjnych w ramach dzierżawy, która ma płatne subskrypcje z co najmniej **100** aktywnymi użytkownikami miesięcznie (w przypadku opracowanych partnerów handlowych) lub **50** aktywnych użytkowników miesięcznie (w przypadku opracowywania partnerów handlowych).
   
-  (Aby uzyskać szczegółowe informacje na temat rozwoju i rozwoju rynków, zobacz [te Microsoft Partner Network definicje).](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)
+  (Aby uzyskać szczegółowe informacje na temat rozwoju i rozwoju rynków, zobacz [Microsoft Partner Network definicje).](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)
 
 - Subskrypcja jest uznawana za przekroczenie miesięcznego progu aktywnego użytkownika, jeśli subskrypcja była:
 
@@ -360,7 +360,7 @@ Miesięczny wzrost liczby aktywnych użytkowników to [wskaźnik sukcesu klienta
 
 - Aktywni użytkownicy miesięcznie są obliczane na koniec każdego miesiąca.
 
-- Miesięczny wzrost liczby aktywnych użytkowników jest definiowany inaczej w przypadku ścieżek Customer  Engagement i Finance and Operations oraz dla partnerów działających na rynkach rozwiniętych i *na rynkach rozwijających* się:
+- Miesięczny wzrost liczby aktywnych użytkowników jest definiowany inaczej w przypadku ścieżek Customer  Engagement i Finance and Operations, a dla partnerów działających na rynkach rozwiniętych i na *rynkach rozwijających* się:
 
   - Aby usługa Customer Engagement kwalifikowała się do punktów, opracowani partnerzy biznesowi muszą mieć plan bazowy co najmniej **250** aktywnych użytkowników miesięcznie, a programowi partnerzy biznesowi muszą mieć plan bazowy **150** aktywnych użytkowników miesięcznie w całej bazie klientów 12 miesięcy temu.
 
@@ -391,4 +391,4 @@ Aby uzyskać więcej informacji na temat korzystania z tego obszaru, zobacz kole
 
 ## <a name="next-steps"></a>Następne kroki
 
-Wyświetl więcej filmów wideo dotyczących szkolenia PCI i [zasobów informacyjnych](https://partner.microsoft.com/asset/collection/pci-learn#/) dotyczących uzyskania kompetencji Gold lub Silver Cloud Business Applications umiejętności.
+Wyświetl więcej filmów wideo dotyczących [trenowania pci](https://partner.microsoft.com/asset/collection/pci-learn#/) i zasobów informacyjnych dotyczących uzyskania kompetencji Gold lub Silver Cloud Business Applications.

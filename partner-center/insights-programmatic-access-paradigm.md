@@ -8,12 +8,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 1a06da353c8069d15d597faeaaf8700df5f62fd1
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 304607b5d79b0ad8a07c3efe690ccb7feef83331
+ms.sourcegitcommit: 8d5c2463fc0f0c03972a6f89d01605421288daea
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958966"
+ms.lasthandoff: 09/19/2021
+ms.locfileid: "128001697"
 ---
 # <a name="programmatic-access-paradigm"></a>Paradygmat dostępu programowego
 
@@ -24,7 +24,7 @@ Na tym diagramie przedstawiono wzorzec wywołania interfejsu API używany do two
 
 Ta lista zawiera więcej szczegółów na temat rysunku 1.
 
-1. Aplikacja kliency może zdefiniować niestandardowy schemat/szablon raportu, wywołując [interfejs API tworzenia zapytania raportu.](#create-report-query-api) Alternatywnie możesz wybrać szablon raportu (QueryId) z przykładów biblioteki szablonów raportów wymienionych [tutaj.](insights-programmatic-system-queries.md)
+1. Aplikacja kliency może zdefiniować niestandardowy schemat/szablon raportu, wywołując [interfejs API tworzenia zapytania raportu.](#create-report-query-api) Alternatywnie możesz wybrać szablon raportu (QueryId) z przykładów biblioteki szablonów raportów na stronie [List of system queries for partner insights programmatic access](insights-programmatic-system-queries.md)(Lista zapytań systemowych dotyczących dostępu programowego do szczegółowych informacji o partnerach).
 2. W przypadku powodzenia interfejs API tworzenia zapytania raportu zwraca wartość QueryId.
 3. Następnie aplikacja kliency musi wywołać interfejs [API](#create-report-api) tworzenia raportu przy użyciu parametru QueryId wraz z datą rozpoczęcia raportu, interwałem powtórzeń, cyklem i opcjonalnym wywołaniem URI wywołania zwrotnego.
 4. W przypadku powodzenia interfejs [API tworzenia raportu](#create-report-api) zwraca wartość ReportId.
@@ -207,8 +207,8 @@ Poniżej przedstawiono kluczowe definicje elementów w ładunku żądania:
 |    Opis     |    Nie     |    Opis utworzonego raportu     |    ciąg     |
 |    QueryId     |    Tak     |    Identyfikator zapytania raportu     |    ciąg     |
 |    StartTime     |    Tak     |    Znacznik czasu UTC, od którego rozpocznie się generowanie raportu. <br> Format powinien być: yyyy-MM-ddTHH:mm:ssZ       |    ciąg     |
-|    ExecuteNow     |    Nie     |    Ten parametr powinien służyć do tworzenia raportu, który zostanie wykonany tylko raz. `StartTime`, `RecurrenceInterval` i `RecurrenceCount` są ignorowane, jeśli jest ustawiona na wartość true. Raport jest wykonywany natychmiast w sposób asynchroniczny     |    true/false     |
-|    QueryStartTime     |    Nie     |    Opcjonalnie określa czas rozpoczęcia zapytania wyodrębniania danych. Ten parametr ma zastosowanie tylko w przypadku raportu wykonania raz, dla których `ExecuteNow` ustawiono wartość true. Ustawienie zastąpień tego `TIMESPAN` parametru podanych w zapytaniu. Format powinien być yyyy-MM-ddTHH:mm:ssZ     |    Znacznik czasu jako ciąg     |
+|    ExecuteNow     |    Nie     |    Ten parametr powinien służyć do tworzenia raportu, który zostanie wykonany tylko raz. `StartTime`Wartości `RecurrenceInterval` , i są `RecurrenceCount` ignorowane, jeśli ustawiono wartość true. Raport jest wykonywany natychmiast w sposób asynchroniczny     |    true/false     |
+|    QueryStartTime     |    Nie     |    Opcjonalnie określa czas rozpoczęcia zapytania wyodrębniania danych. Ten parametr ma zastosowanie tylko w przypadku raportów wykonywania raz, które `ExecuteNow` mają wartość true. Ustawienie zastąpień tego `TIMESPAN` parametru podanych w zapytaniu. Format powinien być yyyy-MM-ddTHH:mm:ssZ     |    Znacznik czasu jako ciąg     |
 |    QueryEndTime     |    Nie     |    Opcjonalnie określa czas zakończenia zapytania wyodrębniania danych. Ten parametr ma zastosowanie tylko w przypadku raportu wykonania raz, dla których `ExecuteNow` ustawiono wartość true. Ustawienie zastąpień tego `TIMESPAN` parametru podanych w zapytaniu. Format powinien być yyyy-MM-ddTHH:mm:ssZ     |    Znacznik czasu jako ciąg     |
 |    RecurrenceInterval     |    Tak     |    Częstotliwość w godzinach, z jaką powinien zostać wygenerowany raport. <br> Wartość minimalna to 4, a wartość maksymalna to 2160.      |    liczba całkowita     |
 |    RecurrenceCount     |    Nie     |    Liczba raportów do wygenerowania.     |    liczba całkowita     |
@@ -314,7 +314,7 @@ Ta metoda umożliwia wykonywanie zapytań o stan wykonania raportu przy użyciu 
 |    Nazwa parametru    |    Wymagany    |    Typ    |    Opis    |
 |    ----    |    ----    |    ----    |    ----    |
 |    Executionid    |    Nie    |    ciąg    |    Filtruj, aby uzyskać szczegółowe informacje tylko o raportach z argumentem executionId podanym w tym argumentie. Można określić wiele elementów executionId, oddzielając je średnikiem "; ".    |
-|    Executionstatus    |    Nie    |    Ciąg/wyli).    |    Filtruj, aby uzyskać szczegółowe informacje tylko o raportach z argumentem executionStatus podanym w tym argumentie. <br> Prawidłowe wartości to: `Pending` `Running` , i `Paused` `Completed` . <br> Wartość domyślna to `Completed`. <br> Wiele stanów można określić, oddzielając je średnikiem "; ".    |
+|    Executionstatus    |    Nie    |    Ciąg/wyli).    |    Filtruj, aby uzyskać szczegółowe informacje tylko o raportach z argumentem executionStatus podanym w tym argumentie. <br> Prawidłowe wartości to: `Pending` `Running` , , i `Paused` `Completed` . <br> Wartość domyślna to `Completed`. <br> Wiele stanów można określić, oddzielając je średnikiem "; ".    |
 |    getLatestExecution    |    Nie    |    boolean    |    Interfejs API zwróci szczegóły najnowszego wykonania. Domyślnie ten parametr ma wartość true.<br> Jeśli zdecydujesz się przekazać wartość tego parametru jako false, interfejs API zwróci wystąpienia wykonania z ostatnich 90 dni.    |
 |        |        |        |        |
 
@@ -356,7 +356,7 @@ Przykład ładunku odpowiedzi:
 }
 ```
 
-Po zakończeniu wykonywania raportu zostanie pokazany `Completed` stan wykonywania. Raport możesz pobrać, wybierając adres URL w polu `reportAccessSecureLink` .
+Po zakończeniu wykonywania raportu zostanie pokazany `Completed` stan wykonania. Raport można pobrać, wybierając adres URL w pliku `reportAccessSecureLink` .
 
 ### <a name="glossary"></a>Słownik
 
@@ -366,21 +366,21 @@ Kluczowe definicje elementów w odpowiedzi.
 |    ----    |    ----    |
 |    Executionid    |    Uniwersalnie unikatowy identyfikator (UUID) wystąpienia wykonywania    |
 |    ReportId    |    Identyfikator raportu skojarzony z wystąpieniem wykonywania    |
-|    RecurrenceInterval    |    Interwał cyklu podany podczas tworzenia raportu    |
+|    RecurrenceInterval    |    Interwał cyklu zapewniany podczas tworzenia raportu    |
 |    RecurrenceCount    |    Liczba cyklów zapewniana podczas tworzenia raportu    |
 |    CallbackUrl    |    Adres URL wywołania zwrotnego skojarzony z wystąpieniem wykonywania    |
 |    CallbackMethod    |    Metoda wywołania zwrotnego skojarzona z wystąpieniem wykonywania    |
 |    Format    |    Format wygenerowanego pliku na końcu wykonywania    |
-|    Executionstatus    |    Stan wystąpienia wykonywania raportu. <br> Prawidłowe wartości to: `Pending` , `Running` , `Paused` i `Completed`    |
-|    ReportAccessSecureLink    |Link, za pomocą którego można bezpiecznie uzyskać dostęp do raportu        |
+|    Executionstatus    |    Stan wystąpienia wykonywania raportu. <br> Prawidłowe wartości to: `Pending` `Running` , , `Paused` i `Completed`    |
+|    ReportAccessSecureLink    |Link, za pomocą którego można bezpiecznie uzyskiwać dostęp do raportu        |
 |    ReportExpiryTime    |    Czas UTC, po którym link do raportu wygaśnie w tym formacie: yyyy-MM-ddTHH:mm:ssZ    |
 |    ReportGeneratedTime    |    Czas UTC, o której raport został wygenerowany w tym formacie: yyyy-MM-ddTHH:mm:ssZ    |
-|    Łączna liczba    |    Liczba zestawów danych w tablicy Value    |
+|    TotalCount    |    Liczba zestawów danych w tablicy Value    |
 |    Statuscode    |    Kod wyniku <br> Możliwe wartości to 200, 400, 401, 403, 404 i 500    |
-|    message    |    Komunikat o stanie z wykonania interfejsu API    |
+|    message    |    Komunikat o stanie z wykonywania interfejsu API    |
 |        |        |
 
 ## <a name="next-steps"></a>Następne kroki
 
 - Wypróbuj interfejsy API za pomocą adresu [URL interfejsu API swagger](https://api.partnercenter.microsoft.com/insights/v1/mpn/swagger/index.html)
-- [Pierwsze wywołanie interfejsu API](insights-programmatic-first-api-call.md)
+- [Make your first API call] (Pierwsze wywołanie interfejsu API) (insights-programmatic-first-api-call.md
