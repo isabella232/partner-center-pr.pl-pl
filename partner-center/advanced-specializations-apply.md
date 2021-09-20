@@ -14,7 +14,7 @@ ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/20/2021
-ms.locfileid: "128007239"
+ms.locfileid: "128031259"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Użyj Partner Center, aby zastosować zaawansowane specjalizacje i sprawdzić ich stan
 
@@ -66,7 +66,7 @@ Zaawansowane specjalizacje, które wymagają inspekcji z audytorem innej firmy, 
 - Migracja systemu Windows Server i programu SQL Server na platformę Microsoft Azure
 - AI i Machine Learning w Microsoft Azure
 - Infrastruktura chmury hybrydowej z Microsoft Azure Stack HCI
-- Hybrydowe operacje i zarządzanie z usługą Microsoft Azure Arc
+- Operacje hybrydowe i zarządzanie nimi za pomocą Microsoft Azure Arc
 - Microsoft Azure Rozwiązanie VMware
 - DevOps z GitHub na Microsoft Azure
 - Usługi sieciowe w Microsoft Azure
@@ -143,73 +143,73 @@ Następnie wykonaj następujące kroki, aby udostępnić odwołania do klientów
 | Grupa usług 2 | Grupowanie usług platformy Azure według kategorii usług |
 | Grupa usług 3 | Grupowanie usług platformy Azure według podkategorii usługi |
 | Service Influencer | Grupowanie usług platformy Azure zamapowanych na określone działanie użycia |
-| Obliczeniowy system operacyjny | Obliczeniowy system operacyjny |
+| Compute OS | Obliczeniowy system operacyjny |
 | Compute Core Software | Compute Core Software |
 
-**Filtry przychodu z użycia platformy Azure dla zaawansowanej specjalizacji**
+**Filtry przychodu za zużycie platformy Azure dla zaawansowanej specjalizacji**
 
 - Migracja magazynu danych na platformę Microsoft Azure
     - Azure Synapse Analytics ACR: Poziom usługi 2 = Azure Synapse Analytics
 - Środowisko Kubernetes na platformie Microsoft Azure
-    - Azure Kubernetes Service (AKS) ACR: Service Influencer = AKS , AKS-Engine
+    - Azure Kubernetes Service (AKS) ACR: Service Influencer = AKS, AKS-Engine
     - Azure RedHat OpenShift ACR: Service Group 3 = ARO, Service Level 2 = All except "Unknown"
 - Microsoft Windows Virtual Desktop
     - Windows Virtual Desktop ACR: Service Influencer = NATIVE WVD
 - Modernizacja aplikacji internetowych do platformy Microsoft Azure
-    - Azure App Service ACR: Service Level 1 = Compute and Service Level 2 = Azure App Service
+    - Azure App Service ACR: Poziom usługi 1 = obliczenia i poziom usługi 2 = Azure App Service
     - Azure Spring Cloud ACR:
         - ACR Adjustment Type = N/A
         - Grupa usług 2 = Deweloper aplikacji
         - Grupa usług 3 = Spring Cloud 
-        - Poziom usługi 2 = wszystkie z wyjątkiem "Nieznany"
+        - Poziom usługi 2 = Wszystkie z wyjątkiem "Nieznany"
 
 - Analiza na Microsoft Azure
     - Azure Synapse Analytics ACR: Poziom usługi 2 = Azure Synapse Analytics
     - Data Lake ACR: Service Group 3 = Azure Data Lake
     - Databricks ACR: Service Group3 = Databricks
-    - Azure Data Factory ACR: Service Level 2 = Azure Data Factory, Azure Data Factory v2
+    - Azure Data Factory ACR: Poziom usługi 2 = Azure Data Factory, Azure Data Factory wersja 2
 - Infrastruktura chmury hybrydowej z Microsoft Azure Stack HCI
     - Azure Stack HCI ACR: Poziom usługi 2 = Azure Stack HCI
 - Microsoft Azure Rozwiązanie VMware
     - Azure VMware Solutions(AVS) ACR: Service Level 4 = Azure VMware Solution, Azure VMware Solution by CloudSimple, Azure VMware Solution by Virtustream, Specialized Compute Azure VMware Solution
-- Operacje hybrydowe i zarządzanie za pomocą Microsoft Azure Arc 
+- Hybrydowe operacje i zarządzanie z usługą Microsoft Azure Arc 
     - Usługa ACR serwera z obsługą usługi Arc: poziom usługi 4 = Azure Policy
     - Usługa Kubernetes ACR z obsługą usługi Arc: poziom usługi 4 = Azure Arc
 - AI i Machine Learning w Microsoft Azure
-    - AI ACR: Grupa usług 2 = AI
+    - AI ACR: Service Group 2 = AI
 
 
 - Migracja systemu Windows Server i programu SQL Server na platformę Microsoft Azure
     - Windows ACR: 
-        - ACR Adjustment Type = N/A, Compute Core SW = Core,
+        - ACR Adjustment Type = N/D, Compute Core SW = Core,
         - Compute OS = WINDOWS THEN Compute OS Attribute = WINDOWS, UNKNOWN lub Compute OS = LINUX THEN Compute OS Attribute = WINDOWS-AHUB
         - Poziom usługi 2 = Cloud Services, Container Instances, Container Registry, Specialized Compute, Virtual Machines, Virtual Machines Licenses
     - SQL Database (DB) ACR: Grupa usług 3 = SQLDB
-    - SQL Usługa ACR wystąpienia zarządzanego (MI): grupa usług 3 = wystąpienie zarządzane SQL ZARZĄDZANEJ bazy danych
+    - SQL Usługa ACR wystąpienia zarządzanego (MI): grupa usług 3 = wystąpienie zarządzane SQL DB MI
     - SQL VM ACR: Grupa usług 3 = SQL w Usłudze IaaS, SQL na maszynie wirtualnej IaaS
-- Migracja bazy Open-Source z systemem Linux i Microsoft Azure
-    - Linux Virtual Machines (maszyna wirtualna)ACR:
+- Migracja bazy Open-Source i Linux do Microsoft Azure
+    - Linux Virtual Machines (VM)ACR:
         - Opcja 1.
-            - ACR Adjustment Type = N/A, Service Level 2 = Virtual Machines, Compute OS= Linux, Compute OS Attribute = Non-Windows, UNKNOWN , Windows
-            - Poziom usług 4 = wszystkie z wyjątkiem serii Cloud Services MS, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host
+            - ACR Adjustment Type= N/A, Service Level 2 = Virtual Machines, Compute OS= Linux, Compute OS Attribute = non-Windows, UNKNOWN , Windows
+            - Poziom usługi 4 = wszystkie z wyjątkiem Cloud Services MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host
         - Opcja 2. Wymagaj filtrów tylko na poziomie usługi 4, inne pola, takie jak atrybuty obliczeniowego systemu operacyjnego/obliczeniowego systemu operacyjnego, nie są wymagane
-            - Service Level 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux with HA, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server for HPC Priority, SUSE Linux Enterprise Server for HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Linux Enterprise Server Standard
-    - Azure Database (DB) for MariaDB ACR: Service Level 1 = Databases and Service Level 2 = Azure Database for MariaDB
-    - Azure DB for MySql ACR: Service Level 1 = Databases and Service Level 2 = Azure Database for MySQL and MySQL Database on Azure
+            - Service Level 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux with HA, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server for HPC Priority, SUSE Linux Enterprise Server for HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
+    - Azure Database (DB) for MariaDB ACR: Poziom usługi 1 = bazy danych i poziom usługi 2 = Azure Database for MariaDB
+    - Azure DB for MySql ACR: Poziom usługi 1 = bazy danych i poziom usługi 2 = Azure Database for MySQL i MySQL Database on Azure
     - Azure DB for Postgre SQL ACR: Service Level 1 = Databases and Service Level 2 = PostgreSQL
-    - Azure COSMOS DB ACR: Poziom usługi 1 = bazy danych i poziom usługi 2 = CosmosDB
+    - Azure COSMOS DB ACR: poziom usługi 1 = bazy danych i poziom usługi 2 = CosmosDB
 - Ochrona przed zagrożeniami
-    - Azure Sentinel ACR: Service Level 4 = Sentinel
+    - Azure Sentinel ACR: Poziom usługi 4 = Sentinel
 - Bezpieczeństwo w chmurze
-    - Środowisko hybrydowe XDR i usługa ACR zabezpieczeń sieci: poziom usługi 4 = Azure Defender dla SQL, Azure Defender dla rejestrów kontenerów, Azure Defender dla Kubernetes, Azure Defender dla usług Storage, Application Gateway WAF v2, WAF Application Gateway, Azure Active Directory B2C, Azure Active Directory Domain Services, Azure Active Directory dla usług External Identities, Azure Bastion, Azure DDOS Protection, Azure Firewall, Azure Firewall Manager, Azure Front Door Service, Azure Defender dla IoT, Azure Dedicated HSM, Key Vault, Network Watcher, Azure Defender for App Service, Azure Defender for servers, Sentinel
+    - Środowisko hybrydowe XDR i usługa ACR zabezpieczeń sieci: Poziom usługi 4 = Azure Defender dla usług SQL, Azure Defender dla rejestrów kontenerów, Azure Defender dla Kubernetes, Azure Defender dla usług Storage, Application Gateway WAF v2, WAF Application Gateway, Azure Active Directory B2C, Azure Active Directory Domain Services, Azure Active Directory for External Identities, Azure Bastion, Azure DDOS Protection, Azure Firewall, Azure Firewall Manager, Azure Front Door Service, Azure Defender dla IoT, Azure Dedicated HSM, Key Vault, Network Watcher, Azure Defender for App Service, Azure Defender for servers, Sentinel
     
 - Rozwiązania SAP na platformie Microsoft Azure
-    - SAP Workloads ACR: Service Level 4 = Cloud Services MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host, Oprogramowanie SAP HANA na platformie Azure — duże wystąpienia,SAP Cloud Platform Alert Notification, SAP Cloud Platform Extension Factory - Kyma Runtime,SAP Cloud Platform Integration Suite - Additional Messages,  SAP Cloud Platform Integration Suite — Standard Edition, SAP Cloud Platform Transport Management, USŁUGI SAP Edge, SAP Embrace API Management, SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Bandwidth, SAP Embrace Business Application Studio, SAP Embrace Business Rules, SAP Embrace Cloud Integration, SAP Embrace Credential Store, SAP Embrace Custom Domain, SAP Embrace Data Intelligence, SAP Embrace Enterprise Messaging, SAP Embrace Extension Factory, środowisko uruchomieniowe bez serwera, SAP Embrace Hana Cloud, SAP Embrace Identity Authentication, SAP Embrace Job Scheduler, SAP Embrace MACC, SAP Embrace Mobile Services,SAP Embrace Object Store Service, SAP Embrace Open Connectors, SAP Embrace Portal, SAP Embrace Process Visibility, SAP Embrace Web Analytics, SAP Embrace Workflow, SAP HANA Service, SAP Web IDE,  BareMetal Infrastructure, Virtual Machines MdSv2 Series, Virtual Machines MdSv2 Series Windows
+    - Usługa ACR obciążeń SAP: Poziom usług 4 = seria Cloud Services MS, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host, Oprogramowanie SAP HANA na platformie Azure — duże wystąpienia,SAP Cloud Platform Alert Notification, SAP Cloud Platform Extension Factory — Środowisko uruchomieniowe Kyma,SAP Cloud Platform Integration Suite — dodatkowe komunikaty,  SAP Cloud Platform Integration Suite — Standard Edition, SAP Cloud Platform Transport Management, usługi SAP Edge, SAP Embrace API Management, SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Bandwidth, SAP Embrace Business Application Studio, SAP Embrace Business Rules, SAP Embrace Cloud Integration, SAP Embrace Credential Store, SAP Embrace Custom Domain, SAP Embrace Data Intelligence, SAP Embrace Enterprise Messaging, SAP Embrace Extension Factory, bez serwera runtime, SAP Embrace Hana Cloud, SAP Embrace Identity Authentication, SAP Embrace Job Scheduler, SAP Embrace MACC, SAP Embrace Mobile Services,SAP Embrace Object Store Service, SAP Embrace Open Connectors, SAP Embrace Portal, SAP Embrace Process Visibility, SAP Embrace Web Analytics, SAP Embrace Workflow, SAP HANA Service, SAP Web IDE,  BareMetal Infrastructure, Virtual Machines MdSv2 Series, Virtual Machines MdSv2 Series Windows
 
 ## <a name="next-steps"></a>Następne kroki
 
-- Dowiedz się więcej [o zaawansowanych specjalizacjach, ich korzyściach i unikatowych wymaganiach.](https://partner.microsoft.com/membership/advanced-specialization)
+- Dowiedz się więcej [o zaawansowanych specjalizacjach, ich zaletach i unikatowych wymaganiach.](https://partner.microsoft.com/membership/advanced-specialization)
 
-- Dowiedz się więcej [na temat uzyskania kompetencji członkostwa w witrynie Microsoft Silver lub Gold.](learn-about-competencies.md)
+- Dowiedz się więcej [na temat uzyskania kompetencji w zakresie członkostwa firmy Microsoft w witrynie Silver lub Gold.](learn-about-competencies.md)
 
 - Dowiedz się więcej [o Microsoft Partner Network kompetencji.](https://partner.microsoft.com/membership/competencies)
