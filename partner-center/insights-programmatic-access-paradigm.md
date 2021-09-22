@@ -9,11 +9,11 @@ ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
 ms.openlocfilehash: 304607b5d79b0ad8a07c3efe690ccb7feef83331
-ms.sourcegitcommit: ab5eda007f87f22fa3375b8e05adfccd6ebc285e
+ms.sourcegitcommit: 23ba623b50b06c866703fd876f1b40f3a49ce504
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/21/2021
-ms.locfileid: "128058947"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "128074618"
 ---
 # <a name="programmatic-access-paradigm"></a>Paradygmat dostępu programowego
 
@@ -145,17 +145,17 @@ W przypadku zapytań systemowych, które zapewniamy, interfejs API tworzenia rap
 
 ### <a name="callback-url"></a>Adres URL wywołania zwrotnego
 
-Interfejs API tworzenia raportu akceptuje adres URL wywołania zwrotnego. Ten adres URL zostanie wywołany po pomyślnym zakończeniu generowania raportu. Adres URL wywołania zwrotnego powinien być publicznie dostępny. Oprócz adresu URL można również określić metodę wywołania zwrotnego. Metodą wywołania zwrotnego może być tylko "GET" lub "POST". Jeśli nie zostanie przekazana żadna wartość, domyślną metodą będzie "POST". ReportId, który zakończył generowanie zawsze zostanie przekazany z powrotem podczas wywołania zwrotnego.
+Interfejs API tworzenia raportu akceptuje adres URL wywołania zwrotnego. Ten adres URL zostanie wywołany po pomyślnym generowaniu raportu. Adres URL wywołania zwrotnego powinien być publicznie dostępny. Oprócz adresu URL można również określić metodę wywołania zwrotnego. Metodą wywołania zwrotnego może być tylko "GET" lub "POST". Metoda domyślna, jeśli żadna wartość nie zostanie przekazana, to "POST". ReportId, który zakończył generowanie zawsze będzie przekazywany z powrotem podczas wywołania zwrotnego.
 
-Wywołanie zwrotne POST: Jeśli przekazany adres URL to `https://www.contosso.com/callback` , wywołany zwrotny adres URL będzie miał 1000. `https://www.contosso.com/callback/<reportID>` 
+Wywołanie zwrotne POST: Jeśli przekazany adres URL to `https://www.contosso.com/callback` , wywołany zwrotny adres URL to . `https://www.contosso.com/callback/<reportID>` 
 
-Wywołanie zwrotne GET: jeśli przekazany adres URL to `https://www.contosso.com/callback` , wywołany zwrotny adres URL będzie miał 2000. `https://www.contosso.com/callback?reportId=<reportID>` 
+Wywołanie zwrotne GET: Jeśli przekazany adres URL to `https://www.contosso.com/callback` , wywołany zwrotny adres URL to . `https://www.contosso.com/callback?reportId=<reportID>` 
 
 ### <a name="executenow-reports"></a>Raporty ExecuteNow
 
 Istnieje aprowizowanie do generowania raportu bez planowania. Ładunek interfejsu API tworzenia raportu może akceptować parametr , który będzie kolejkować raport do wygenerowania zaraz po `ExecuteNow` wywołaniu interfejsu API. W `ExecuteNow` przypadku ustawienia wartości true pola , , są `StartTime` ignorowane, ponieważ te `RecurrenceCount` `RecurrenceInterval` raporty nie są zaplanowane.
 
-W przypadku wartości true można dodać `ExecuteNow` dwa `QueryStartTime` dodatkowe pola: i `QueryEndTime` . Te dwa pola `TIMESPAN` zastąpią pole w zapytaniu. Te pola nie mają zastosowania do zaplanowanych raportów, ponieważ dane będą generowane w sposób ciągły przez ustalony czas, który nie zmienia się.
+Dwa dodatkowe pola mogą być przekazywane, gdy `ExecuteNow` ma wartość true, `QueryStartTime` i `QueryEndTime` . Te dwa pola `TIMESPAN` zastąpią pole w zapytaniu. Te pola nie mają zastosowania do zaplanowanych raportów, ponieważ dane będą generowane w sposób ciągły przez ustalony czas, który nie zmienia się.
 
 ### <a name="request-syntax"></a>Składnia żądania
 
@@ -199,7 +199,7 @@ Brak
 
 ### <a name="glossary"></a>Słownik
 
-Poniżej przedstawiono kluczowe definicje elementów ładunku żądania:
+Poniżej przedstawiono kluczowe definicje elementów w ładunku żądania:
 
 |    Parametr     |    Wymagane     |    Opis     |    Dozwolone wartości     |
 |    ----    |    ----    |    ----    |    ----    |
@@ -208,9 +208,9 @@ Poniżej przedstawiono kluczowe definicje elementów ładunku żądania:
 |    QueryId     |    Tak     |    Identyfikator zapytania raportu     |    ciąg     |
 |    StartTime     |    Tak     |    Znacznik czasu UTC, od którego rozpocznie się generowanie raportu. <br> Format powinien być: yyyy-MM-ddTHH:mm:ssZ       |    ciąg     |
 |    ExecuteNow     |    Nie     |    Ten parametr powinien służyć do tworzenia raportu, który zostanie wykonany tylko raz. `StartTime`Wartości `RecurrenceInterval` , i są `RecurrenceCount` ignorowane, jeśli ustawiono wartość true. Raport jest wykonywany natychmiast w sposób asynchroniczny     |    true/false     |
-|    QueryStartTime     |    Nie     |    Opcjonalnie określa czas rozpoczęcia dla zapytania wyodrębniania danych. Ten parametr ma zastosowanie tylko w przypadku raportów wykonywania raz, które `ExecuteNow` mają wartość true. Ustawienie tego parametru zastępuje `TIMESPAN` podane w zapytaniu. Format powinien być yyyy-MM-ddTHH:mm:ssZ     |    Sygnatura czasowa jako ciąg     |
-|    QueryEndTime     |    Nie     |    Opcjonalnie określa czas zakończenia zapytania wyodrębniania danych. Ten parametr ma zastosowanie tylko w przypadku raportu wykonania raz, dla których `ExecuteNow` ustawiono wartość true. Ustawienie tego parametru zastępuje `TIMESPAN` podane w zapytaniu. Format powinien być yyyy-MM-ddTHH:mm:ssZ     |    Sygnatura czasowa jako ciąg     |
-|    RecurrenceInterval     |    Tak     |    Częstotliwość w godzinach, z jaką powinien zostać wygenerowany raport. <br> Wartość minimalna to 4, a wartość maksymalna to 2160.      |    liczba całkowita     |
+|    QueryStartTime     |    Nie     |    Opcjonalnie określa czas rozpoczęcia zapytania wyodrębniania danych. Ten parametr ma zastosowanie tylko w przypadku raportów wykonywania raz, które `ExecuteNow` mają wartość true. Ustawienie zastąpień tego `TIMESPAN` parametru podanych w zapytaniu. Format powinien być yyyy-MM-ddTHH:mm:ssZ     |    Znacznik czasu jako ciąg     |
+|    QueryEndTime     |    Nie     |    Opcjonalnie określa czas zakończenia zapytania wyodrębniania danych. Ten parametr ma zastosowanie tylko w przypadku raportu wykonania raz, dla których `ExecuteNow` ustawiono wartość true. Ustawienie zastąpień tego `TIMESPAN` parametru podanych w zapytaniu. Format powinien być yyyy-MM-ddTHH:mm:ssZ     |    Znacznik czasu jako ciąg     |
+|    RecurrenceInterval     |    Tak     |    Częstotliwość w godzinach, z jaką raport powinien zostać wygenerowany. <br> Wartość minimalna to 4, a wartość maksymalna to 2160.      |    liczba całkowita     |
 |    RecurrenceCount     |    Nie     |    Liczba raportów do wygenerowania.     |    liczba całkowita     |
 |    Format     |    Nie     |    Format wyeksportowanego pliku. <br> Wartość domyślna to CSV.    |    "CSV"/"TSV"     |
 |    CallbackUrl     |    Nie     |    Publicznie dostępny adres URL, który można opcjonalnie skonfigurować jako miejsce docelowe wywołania zwrotnego     |    Ciąg (adres URL HTTP)     |
@@ -272,19 +272,19 @@ Poniżej przedstawiono kluczowe definicje elementów w odpowiedzi:
 |    ExecuteNow     |    `ExecuteNow` flaga ustawiona w czasie tworzenia raportu     |
 |    StartTime     |    Czas UTC rozpoczęcia wykonywania raportu w tym formacie: yyyy-MM-ddTHH:mm:ssZ     |
 |    ReportStatus     |    Stan wykonania raportu. Możliwe wartości to `Paused` , `Active` i `Inactive`     |
-|    RecurrenceInterval     |    Interwał cyklu zapewniany podczas tworzenia raportu     |
+|    RecurrenceInterval     |    Interwał cyklu podany podczas tworzenia raportu     |
 |    RecurrenceCount     |    Liczba cyklów zapewniana podczas tworzenia raportu.      |
 |    CallbackUrl     |    Adres URL wywołania zwrotnego podany w żądaniu     |
-|    CallbackMethod     |    Metoda wywołania zwrotnego dostarczana w żądaniu     |
+|    CallbackMethod     |    Metoda wywołania zwrotnego podana w żądaniu     |
 |    Format     |    Format plików raportu. Możliwe wartości to `CSV` lub `TSV` .     |
-|    TotalCount     |    Liczba rekordów w tablicy Value     |
+|    Łączna liczba     |    Liczba rekordów w tablicy Value     |
 |    Statuscode     |    Kod wyniku     |
-|    message     |    Możliwe wartości to 200, 400, 401, 403, 500. Komunikat o stanie z wykonywania interfejsu API     |
+|    message     |    Możliwe wartości to 200, 400, 401, 403, 500. Komunikat o stanie z wykonania interfejsu API     |
 |        |        |
 
 ## <a name="get-report-execution-api"></a>Uzyskiwanie interfejsu API wykonywania raportu
 
-Ta metoda umożliwia wykonywanie zapytań o stan wykonania raportu przy użyciu raportu otrzymywanego z interfejsu [API tworzenia raportu.](#create-report-api) Metoda zwraca link pobierania raportu, jeśli raport jest gotowy do pobrania. W przeciwnym razie metoda zwraca stan. Ten interfejs API umożliwia również uzyskiwanie wszystkich wykonań, które miały miejsce dla danego raportu.  
+Tej metody można użyć do wykonywania zapytań o stan wykonywania raportu przy użyciu reportidu otrzymanego z interfejsu [API tworzenia raportu.](#create-report-api) Metoda zwraca link pobierania raportu, jeśli raport jest gotowy do pobrania. W przeciwnym razie metoda zwraca stan. Możesz również użyć tego interfejsu API, aby uzyskać wszystkie wykonania, które miały miejsce dla danego raportu.  
 
 >[!IMPORTANT]
 >Ten interfejs API ma domyślne parametry zapytania ustawione dla `executionStatus=Completed` i `getLatestExecution=true` . W związku z tym wywołanie interfejsu API przed pierwszym pomyślnym wykonaniem raportu zwróci kod 404. Oczekujące wykonania można uzyskać, ustawiając . `executionStatus=Pending`
@@ -306,15 +306,15 @@ Ta metoda umożliwia wykonywanie zapytań o stan wykonania raportu przy użyciu 
 
 |    Nazwa parametru    |    Wymagany    |    Typ    |    Opis    |
 |    ----    |    ----    |    ----    |    ----    |
-|    reportId    |    Tak    |    ciąg    |    Filtruj, aby uzyskać szczegóły wykonywania tylko raportów z argumentem reportId podanym w tym argumentze. Można określić wiele elementów reportId, oddzielając je średnikiem "; ".    |
+|    reportId    |    Tak    |    ciąg    |    Filtruj, aby uzyskać szczegóły wykonywania tylko raportów z argumentem reportId podanym w tym argumentie. Można określić wiele elementów reportId, oddzielając je średnikiem "; ".    |
 |        |        |        |        |
 
 ### <a name="query-parameter"></a>Parametr zapytania
 
 |    Nazwa parametru    |    Wymagany    |    Typ    |    Opis    |
 |    ----    |    ----    |    ----    |    ----    |
-|    Executionid    |    Nie    |    ciąg    |    Filtruj, aby uzyskać szczegółowe informacje tylko o raportach z argumentem executionId podanym w tym argumentie. Można określić wiele elementów executionId, oddzielając je średnikiem "; ".    |
-|    Executionstatus    |    Nie    |    Ciąg/wyli).    |    Filtruj, aby uzyskać szczegółowe informacje tylko o raportach z argumentem executionStatus podanym w tym argumentie. <br> Prawidłowe wartości to: `Pending` `Running` , , i `Paused` `Completed` . <br> Wartość domyślna to `Completed`. <br> Wiele stanów można określić, oddzielając je średnikiem "; ".    |
+|    Executionid    |    Nie    |    ciąg    |    Filtruj, aby uzyskać szczegółowe informacje tylko o raportach z argumentem executionId podanym w tym argumentie. Można określić wiele elementów executionId, oddzielając je średnikami "; ".    |
+|    Executionstatus    |    Nie    |    Ciąg/wyli).    |    Filtruj, aby uzyskać szczegółowe informacje tylko o raportach z argumentem executionStatus podanym w tym argumentie. <br> Prawidłowe wartości to: `Pending` , `Running` , i `Paused` `Completed` . <br> Wartość domyślna to `Completed`. <br> Wiele stanów można określić, oddzielając je średnikami "; ".    |
 |    getLatestExecution    |    Nie    |    boolean    |    Interfejs API zwróci szczegóły najnowszego wykonania. Domyślnie ten parametr ma wartość true.<br> Jeśli zdecydujesz się przekazać wartość tego parametru jako false, interfejs API zwróci wystąpienia wykonania z ostatnich 90 dni.    |
 |        |        |        |        |
 
@@ -356,7 +356,7 @@ Przykład ładunku odpowiedzi:
 }
 ```
 
-Po zakończeniu wykonywania raportu zostanie pokazany `Completed` stan wykonania. Raport można pobrać, wybierając adres URL w pliku `reportAccessSecureLink` .
+Po zakończeniu wykonywania raportu zostanie pokazany `Completed` stan wykonywania. Raport możesz pobrać, wybierając adres URL w polu `reportAccessSecureLink` .
 
 ### <a name="glossary"></a>Słownik
 
@@ -366,18 +366,18 @@ Kluczowe definicje elementów w odpowiedzi.
 |    ----    |    ----    |
 |    Executionid    |    Uniwersalnie unikatowy identyfikator (UUID) wystąpienia wykonywania    |
 |    ReportId    |    Identyfikator raportu skojarzony z wystąpieniem wykonywania    |
-|    RecurrenceInterval    |    Interwał cyklu zapewniany podczas tworzenia raportu    |
+|    RecurrenceInterval    |    Interwał cyklu podany podczas tworzenia raportu    |
 |    RecurrenceCount    |    Liczba cyklów zapewniana podczas tworzenia raportu    |
 |    CallbackUrl    |    Adres URL wywołania zwrotnego skojarzony z wystąpieniem wykonywania    |
 |    CallbackMethod    |    Metoda wywołania zwrotnego skojarzona z wystąpieniem wykonywania    |
 |    Format    |    Format wygenerowanego pliku na końcu wykonywania    |
-|    Executionstatus    |    Stan wystąpienia wykonywania raportu. <br> Prawidłowe wartości to: `Pending` `Running` , , `Paused` i `Completed`    |
-|    ReportAccessSecureLink    |Link, za pomocą którego można bezpiecznie uzyskiwać dostęp do raportu        |
+|    Executionstatus    |    Stan wystąpienia wykonywania raportu. <br> Prawidłowe wartości to: `Pending` , `Running` , `Paused` i `Completed`    |
+|    ReportAccessSecureLink    |Link, za pomocą którego można bezpiecznie uzyskać dostęp do raportu        |
 |    ReportExpiryTime    |    Czas UTC, po którym link do raportu wygaśnie w tym formacie: yyyy-MM-ddTHH:mm:ssZ    |
 |    ReportGeneratedTime    |    Czas UTC, o której raport został wygenerowany w tym formacie: yyyy-MM-ddTHH:mm:ssZ    |
-|    TotalCount    |    Liczba zestawów danych w tablicy Value    |
+|    Łączna liczba    |    Liczba zestawów danych w tablicy Value    |
 |    Statuscode    |    Kod wyniku <br> Możliwe wartości to 200, 400, 401, 403, 404 i 500    |
-|    message    |    Komunikat o stanie z wykonywania interfejsu API    |
+|    message    |    Komunikat o stanie z wykonania interfejsu API    |
 |        |        |
 
 ## <a name="next-steps"></a>Następne kroki
