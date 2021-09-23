@@ -10,11 +10,11 @@ ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 5667fad7bde179cd728abb911b65621bcc9505a7
-ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/20/2021
-ms.locfileid: "128031259"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128312273"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Użyj Partner Center, aby zastosować zaawansowane specjalizacje i sprawdzić ich stan
 
@@ -151,7 +151,7 @@ Następnie wykonaj następujące kroki, aby udostępnić odwołania do klientów
 - Migracja magazynu danych na platformę Microsoft Azure
     - Azure Synapse Analytics ACR: Poziom usługi 2 = Azure Synapse Analytics
 - Środowisko Kubernetes na platformie Microsoft Azure
-    - Azure Kubernetes Service (AKS) ACR: Service Influencer = AKS, AKS-Engine
+    - Azure Kubernetes Service (AKS) ACR: Service Influencer = AKS , AKS-Engine
     - Azure RedHat OpenShift ACR: Service Group 3 = ARO, Service Level 2 = All except "Unknown"
 - Microsoft Windows Virtual Desktop
     - Windows Virtual Desktop ACR: Service Influencer = NATIVE WVD
@@ -167,7 +167,7 @@ Następnie wykonaj następujące kroki, aby udostępnić odwołania do klientów
     - Azure Synapse Analytics ACR: Poziom usługi 2 = Azure Synapse Analytics
     - Data Lake ACR: Service Group 3 = Azure Data Lake
     - Databricks ACR: Service Group3 = Databricks
-    - Azure Data Factory ACR: Poziom usługi 2 = Azure Data Factory, Azure Data Factory wersja 2
+    - Azure Data Factory ACR: Poziom usługi 2 = Azure Data Factory, Azure Data Factory 2
 - Infrastruktura chmury hybrydowej z Microsoft Azure Stack HCI
     - Azure Stack HCI ACR: Poziom usługi 2 = Azure Stack HCI
 - Microsoft Azure Rozwiązanie VMware
@@ -186,9 +186,9 @@ Następnie wykonaj następujące kroki, aby udostępnić odwołania do klientów
         - Poziom usługi 2 = Cloud Services, Container Instances, Container Registry, Specialized Compute, Virtual Machines, Virtual Machines Licenses
     - SQL Database (DB) ACR: Grupa usług 3 = SQLDB
     - SQL Usługa ACR wystąpienia zarządzanego (MI): grupa usług 3 = wystąpienie zarządzane SQL DB MI
-    - SQL VM ACR: Grupa usług 3 = SQL w Usłudze IaaS, SQL na maszynie wirtualnej IaaS
+    - SQL USŁUGA ACR maszyny wirtualnej: grupa usług 3 = SQL w usłudze IaaS, SQL na maszynie wirtualnej IaaS
 - Migracja bazy Open-Source i Linux do Microsoft Azure
-    - Linux Virtual Machines (VM)ACR:
+    - Linux Virtual Machines (MASZYNA WIRTUALNA)ACR:
         - Opcja 1.
             - ACR Adjustment Type= N/A, Service Level 2 = Virtual Machines, Compute OS= Linux, Compute OS Attribute = non-Windows, UNKNOWN , Windows
             - Poziom usługi 4 = wszystkie z wyjątkiem Cloud Services MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host
@@ -201,10 +201,10 @@ Następnie wykonaj następujące kroki, aby udostępnić odwołania do klientów
 - Ochrona przed zagrożeniami
     - Azure Sentinel ACR: Poziom usługi 4 = Sentinel
 - Bezpieczeństwo w chmurze
-    - Środowisko hybrydowe XDR i usługa ACR zabezpieczeń sieci: Poziom usługi 4 = Azure Defender dla usług SQL, Azure Defender dla rejestrów kontenerów, Azure Defender dla Kubernetes, Azure Defender dla usług Storage, Application Gateway WAF v2, WAF Application Gateway, Azure Active Directory B2C, Azure Active Directory Domain Services, Azure Active Directory for External Identities, Azure Bastion, Azure DDOS Protection, Azure Firewall, Azure Firewall Manager, Azure Front Door Service, Azure Defender dla IoT, Azure Dedicated HSM, Key Vault, Network Watcher, Azure Defender for App Service, Azure Defender for servers, Sentinel
+    - Środowisko hybrydowe XDR i usługa ACR zabezpieczeń sieci: Poziom usługi 4 = Azure Defender dla SQL, Azure Defender dla rejestrów kontenerów, Azure Defender dla Kubernetes, Azure Defender dla usług Storage, Application Gateway WAF v2, WAF Application Gateway, Azure Active Directory B2C, Azure Active Directory Domain Services, Azure Active Directory for External Identities, Azure Bastion, Azure DDOS Protection, Azure Firewall, Azure Firewall Manager, Azure Front Door Service, Azure Defender dla IoT, Azure Dedicated HSM, Key Vault, Network Watcher, Azure Defender for App Service, Azure Defender for servers, Sentinel
     
 - Rozwiązania SAP na platformie Microsoft Azure
-    - Usługa ACR obciążeń SAP: Poziom usług 4 = seria Cloud Services MS, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host, Oprogramowanie SAP HANA na platformie Azure — duże wystąpienia,SAP Cloud Platform Alert Notification, SAP Cloud Platform Extension Factory — Środowisko uruchomieniowe Kyma,SAP Cloud Platform Integration Suite — dodatkowe komunikaty,  SAP Cloud Platform Integration Suite — Standard Edition, SAP Cloud Platform Transport Management, usługi SAP Edge, SAP Embrace API Management, SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Bandwidth, SAP Embrace Business Application Studio, SAP Embrace Business Rules, SAP Embrace Cloud Integration, SAP Embrace Credential Store, SAP Embrace Custom Domain, SAP Embrace Data Intelligence, SAP Embrace Enterprise Messaging, SAP Embrace Extension Factory, bez serwera runtime, SAP Embrace Hana Cloud, SAP Embrace Identity Authentication, SAP Embrace Job Scheduler, SAP Embrace MACC, SAP Embrace Mobile Services,SAP Embrace Object Store Service, SAP Embrace Open Connectors, SAP Embrace Portal, SAP Embrace Process Visibility, SAP Embrace Web Analytics, SAP Embrace Workflow, SAP HANA Service, SAP Web IDE,  BareMetal Infrastructure, Virtual Machines MdSv2 Series, Virtual Machines MdSv2 Series Windows
+    - Usługa ACR obciążeń SAP: poziom usług 4 = Cloud Services MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host, Oprogramowanie SAP HANA na platformie Azure — duże wystąpienia,SAP Cloud Platform Alert Notification, SAP Cloud Platform Extension Factory — środowisko uruchomieniowe Kyma,SAP Cloud Platform Integration Suite — dodatkowe komunikaty,  SAP Cloud Platform Integration Suite — Standard Edition, SAP Cloud Platform Transport Management, usługi SAP Edge, SAP Embrace API Management,SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Bandwidth, SAP Embrace Business Application Studio, SAP Embrace Business Rules, SAP Embrace Cloud Integration, SAP Embrace Credential Store, SAP Embrace Custom Domain, SAP Embrace Data Intelligence, SAP Embrace Enterprise Messaging, SAP Embrace Extension Factory, bez serwera runtime, SAP Embrace Hana Cloud, SAP Embrace Identity Authentication, SAP Embrace Job Scheduler, SAP Embrace MACC, SAP Embrace Mobile Services,SAP Embrace Object Store Service, SAP Embrace Open Connectors, SAP Embrace Portal, SAP Embrace Process Visibility, SAP Embrace Web Analytics, SAP Embrace Workflow, SAP HANA Service, SAP Web IDE,  BareMetal Infrastructure, Virtual Machines MdSv2 Series, Virtual Machines MdSv2 Series Windows
 
 ## <a name="next-steps"></a>Następne kroki
 

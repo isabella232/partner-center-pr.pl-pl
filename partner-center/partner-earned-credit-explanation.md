@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3583614b1bf89a3c9297f123f12355b8a2ad7d1e
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 56884a5a6cbfbade881154275129c63dcd3456d8
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246778"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128312124"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Jak są obliczane i wypłacane środki zarobione przez partnera
 
@@ -27,7 +27,7 @@ Domyślnie jako partner CSP masz przyznane niezbędne prawa dostępu do subskryp
 Kwota faktury miesięcznej jest netto środków uzyskanej przez partnera. Szczegóły dotyczące PEC można zobaczyć w miesięcznym pliku rekonescji. Aby uzyskać dodatkowe informacje o sposobach, w jakie klient może aprowizuje dostęp dla partnera transakcji, zobacz następujące artykuły:
 
 - [Zarządzanie subskrypcjami i zasobami w ramach planu platformy Azure](azure-plan-manage.md)
-- [Przywracanie uprawnień administratora dla subskrypcji w ramach programu Azure CSP](/revoke-reinstate-csp.md)
+- [Przywracanie uprawnień administratora dla subskrypcji w ramach programu Azure CSP](revoke-reinstate-csp.md)
 
 ## <a name="eligibility"></a>Kwalifikowalności
 
@@ -35,7 +35,7 @@ Aby otrzymać punkty uzyskane przez partnera, obowiązują następujące wymagan
 
 - Musisz mieć aktywną umowę MPN i prawidłową rolę kontroli dostępu [na podstawie](azure-roles-perms-pec.md) ról [(RBAC).](/azure/role-based-access-control/overview)
 - Musisz mieć uprawnienia [Admin on Behalf of (AOBO)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) w subskrypcji platformy Azure klienta, grupie zasobów platformy Azure lub zasobie platformy Azure albo prawidłowej [roli RBAC.](azure-roles-perms-pec.md)
-- W przypadku dostawców pośrednich i ich odsprzedawców pośrednich dostawca pośredni kwalifikuje się do PEC, jeśli dostawca pośredni lub odsprzedawca pośredni albo obaj mają uprawnienia AOBO lub kwalifikującą się rolę RBAC. Aby uzyskać więcej informacji, zobacz [Przywróć uprawnienia](revoke-reinstate-csp.md)administratora dla Azure CSP subskrypcji.
+- W przypadku dostawców pośrednich i ich odsprzedawców pośrednich dostawca pośredni kwalifikuje się do PEC, jeśli dostawca pośredni lub odsprzedawca pośredni albo obaj mają uprawnienia AOBO lub kwalifikującą się rolę RBAC. Aby uzyskać więcej informacji, zobacz [Przywróć uprawnienia administratora dla Azure CSP subskrypcji.](revoke-reinstate-csp.md)
 - Identyfikator MPN partnera musi należeć do tej samej organizacji wirtualnej co identyfikator MPN nabywcy lub identyfikator MPN partnera rekordów. Aby uzyskać więcej informacji, zobacz [Łączenie identyfikatora partnera w celu śledzenia wpływu na delegowane zasoby](/azure/lighthouse/how-to/partner-earned-credit).
 - PEC jest zdobywany na poziomie zasobów platformy Azure, grupie zasobów lub subskrypcji. Jeśli partner ma prawidłowy dostęp na poziomie subskrypcji lub grupy zasobów, każdy zasób, który jest zbiorczy dla wyższej jednostki, będzie zdobywać PEC.
 - PEC nie ma zastosowania do następujących usług:
@@ -54,7 +54,7 @@ Aby uzyskać więcej informacji na temat uprawnień, zobacz Role i uprawnienia w
 
 PEC jest obliczany codziennie. Opłaty są opłacone za każdy dzień, w ramach których masz dostęp kwalifikujący się do PEC w każdej subskrypcji. Chociaż szczegóły PEC nie są wyświetlane na fakturze miesięcznej, zarobki PEC są uwzględniane w wierszu skorygowanych opłat netto na fakturze. Więcej szczegółów dotyczących PEC można znaleźć w pliku [dziennego użycia](daily-rated-usage-recon-files.md) i w pliku ponownego rozpoznania faktury miesięcznej.
 
-:::image type="content" source="images/advanced-specializations/recon-file.png" alt-text="Zrzut ekranu przedstawiający Partner Center pliku uzgodnień identyfikującego kolumny." border="false":::
+:::image type="content" source="images/advanced-specializations/recon-file.png" alt-text="Zrzut ekranu przedstawiający kolumny Partner Center pliku uzgodnień." border="false":::
 
 W poniższej tabeli opisano elementy PEC znalezione w pliku ponownego rozpoznania faktury miesięcznej. Wszystkie wartości są podane w USD, jak pokazano w kolumnie AI, PricingCurrency (AI, CennikCurrency).
 
@@ -99,7 +99,7 @@ W widoku Analiza kosztów będą wyświetlane koszty dla konta rozliczeniowego d
     Jeśli ta wartość to **False,** skojarzony koszt nie spełnił wymaganych uprawnień do środków lub zakupiona usługa nie kwalifikuje się do środków uzyskane przez partnerów.
 
 >[!NOTE]
->Zazwyczaj czas użycia usług w programie Cost Management wynosi 8–24 godziny, a środki PEC pojawią się w ciągu 48 godzin od czasu uzyskania dostępu w Azure Cost Management.
+>Zwykle czas użycia usług w usługach wynosi 8–24 godziny, Cost Management środki PEC zostaną wyświetlone w ciągu 48 godzin od czasu uzyskania dostępu w Azure Cost Management.
 
 Można również grupować i filtrować według właściwości **PartnerEarnedCreditApplied** przy użyciu funkcji Grupuj według **i** **Dodaj** filtr. Umożliwiają one przechodzenie do szczegółów kosztów z pec i kosztów, które nie mają zastosowania PEC.
 

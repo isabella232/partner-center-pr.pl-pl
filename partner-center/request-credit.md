@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: f5745a74e4368b42c4ce7b1b828ced8f79e49581
-ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
+ms.openlocfilehash: 0521c7fde81663b9eb7cd89344ee2432e8a1ea31
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/20/2021
-ms.locfileid: "128034611"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128312216"
 ---
 # <a name="how-and-when-to-request-a-credit-from-microsoft"></a>Jak i kiedy zażądać środków od firmy Microsoft
 
@@ -36,7 +36,7 @@ W tym artykule wyjaśniono, Dostawca rozwiązań w chmurze (CSP) bezpośredni i 
 
 Żądania środków są akceptowane tylko od dostawców bezpośrednich i pośrednich dostawców CSP. Żądania od odsprzedawców pośrednich nie są akceptowane.
 
-[Tworzenie żądania obsługi dla klienta w Microsoft Azure](/partner-center/report-problems-on-behalf-of-a-customer) jest oddzielnym procesem.
+[Tworzenie żądania obsługi dla klienta w Microsoft Azure](./report-problems-on-behalf-of-a-customer.md) jest oddzielnym procesem.
 
 ## <a name="requesting-a-credit"></a>Żądanie środków
 
@@ -54,7 +54,7 @@ W tym artykule wyjaśniono, Dostawca rozwiązań w chmurze (CSP) bezpośredni i 
 
 1. Na stronie **Zalecane rozwiązania** w obszarze Czy potrzebujesz **więcej pomocy?** wybierz pozycję **Tak.**
 
-1. Na stronie **Szczegóły** uzupełnij **sekcję Szczegóły** problemu. W polu **tekstowym** Szczegóły wprowadź [](/partner-center/request-credit#required-information) wymagane informacje opisane w formularzu żądania środków lub zwrotu pieniędzy.
+1. Na stronie **Szczegóły** uzupełnij **sekcję Szczegóły** problemu. W polu **tekstowym** Szczegóły wprowadź [](#required-information) wymagane informacje opisane w formularzu żądania środków lub zwrotu pieniędzy.
 1. Wybierz pozycję **Prześlij**.
 
 ## <a name="types-of-credits"></a>Typy środków

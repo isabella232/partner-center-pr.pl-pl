@@ -10,11 +10,11 @@ ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
 ms.openlocfilehash: e1876e396161334153875e4d92e55ab9f75ede5e
-ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/20/2021
-ms.locfileid: "128007202"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128309792"
 ---
 # <a name="march-2021-announcements"></a>Ogłoszenia z marca 2021 r.
 
@@ -156,7 +156,7 @@ Administratorzy delegowani uzyskiwania dostępu do Exchange za pośrednictwem Pa
 
 ### <a name="details"></a>Szczegóły
 
-Od 27 kwietnia 2021 r. partnerzy, którzy nawigują do Exchange za pośrednictwem Partner Center, zostaną przekierowani do nowej EAC.
+Od 27 kwietnia 2021 r. partnerzy, którzy nawigują do Exchange za pośrednictwem Partner Center, zostaną przekierowani do nowej aplikacji EAC.
 
 To nowe środowisko jest obecnie dostępne w wersji zapoznawczej, a administratorzy mogą aktywować to środowisko, wybierając przełącznik w prawym górnym rogu klasycznej funkcji EAC. Mogą również przejść do nowej aplikacji EAC, wybierając baner "Wypróbuj teraz", który jest wyświetlany na wszystkich stronach.
 
@@ -219,7 +219,7 @@ Zmiana będzie dotyczyć startów następujących produktów:
 - narzędzia
 - Teams i Telco
 
-Będziemy nadal wysyłać konkretne ogłoszenia dotyczące startów produktów, które wymagają szczegółów gotowości operacji.
+Będziemy nadal wysyłać określone ogłoszenia dotyczące startów produktów, które wymagają szczegółów gotowości do operacji.
 
 ### <a name="next-steps"></a>Następne kroki
 
@@ -227,10 +227,10 @@ Przejrzyj zasoby dotyczące tego tematu i udostępnij te informacje odpowiednim 
 
 ### <a name="questions"></a>Masz pytania?
 
-Jeśli masz dodatkowe pytania dotyczące tych ofert, sprawdź odpowiednie Yammer społeczności.
+Jeśli masz dodatkowe pytania dotyczące tych ofert, sprawdź swoje Yammer społeczności.
 
 ________________
-## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="16"></a>Zmiany wymagań dotyczących dołączania klientów do CSP
+## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="16"></a>Zmiany wymagań dotyczących dołączania klientów w usługach CSP
 
 ### <a name="categories"></a>Kategorie
 
@@ -239,11 +239,11 @@ ________________
 
 ### <a name="summary"></a>Podsumowanie
 
-W ramach naszego zobowiązania do pomocy partnerom i klientom w perspektywie zaufania poprosimy o dodatkowe informacje o klientach od 25 marca 2021 r.
+W ramach naszego zobowiązania do pomocy partnerom i klientom w zakresie prowadzenia działalności w oparciu o zaufanie poprosimy o dodatkowe informacje o klientach od 25 marca 2021 r.
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
-Dostawca rozwiązań w chmurze (CSP) partnerów rozliczanych bezpośrednio i dostawców pośrednich, którzy mają nowych lub istniejących klientów w krajach wymienionych w następnej sekcji
+Dostawca rozwiązań w chmurze (CSP) i dostawcy pośredni, którzy mają nowych lub istniejących klientów w krajach wymienionych w następnej sekcji
 
 ### <a name="details"></a>Szczegóły
 
@@ -267,11 +267,11 @@ Firma Microsoft działa w oparciu o zaufanie. Dokładamy starań, aby zapewnić 
     - Zjednoczone Emiraty Arabskie
     - Wenezuela
 
-Partnerzy spełniający te kryteria muszą przesłać identyfikator rejestracji firmy klienta **(znany** również jako  organizacja klienta **), oraz** numer telefonu podczas dołączania nowych klientów lub modyfikowania istniejących danych klienta. Ci partnerzy mogą również wprowadzić opcjonalne **drugie imię** klienta.
+Partnerzy spełniający te kryteria będą muszą przesłać identyfikator rejestracji firmy **klienta** (znany także  jako organizacja **klienta).** Są to również numery telefonów podczas dołączania nowych klientów lub modyfikowania istniejących danych klienta. Ci partnerzy mogą również wprowadzić opcjonalne **drugie imię** klienta.
 
 Pamiętaj, że podczas dodawania identyfikatora rejestracji firmy należy użyć identyfikatora podatku od działalności biznesowej, a nie identyfikatora osobistego klienta.
 
-Partnerzy, którzy współpracuje z nowymi lub istniejącymi klientami w następujących krajach, są już dołączani do poprzedniej wersji w listopadzie 2020 r.
+Partnerzy, którzy firma współpracuje z nowymi lub istniejącymi klientami w następujących krajach, są już dołączani do poprzedniej wersji w listopadzie 2020 r.
 
 - Armenia
 - Azerbejdżan
@@ -285,13 +285,13 @@ Partnerzy, którzy współpracuje z nowymi lub istniejącymi klientami w następ
 - Ukraina
 - Uzbekistan
 
-Partnerzy z klientami w pozostałej części świata będą mieć możliwość wprowadzenia identyfikatora rejestracji **firmy,** numeru telefonu i  środkowej nazwy klienta w dniu 25 marca 2021 r. jako opcjonalnych szczegółów.
+Partnerzy z klientami na całym świecie będą mieć możliwość wprowadzania identyfikatora rejestracji **firmy,** numeru telefonu i środkowego  imienia i nazwiska klientów w dniu 25 marca 2021 r. jako opcjonalnych szczegółów.
 
 ### <a name="next-steps"></a>Następne kroki
 
 - Przejrzyj dokumentację techniczną i często zadawane pytania w dedykowanej [kolekcji partnerów,](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) aby uzyskać bardziej szczegółowe wskazówki.
 
-- Przygotuj się do uwzględnienia zmian przy użyciu interfejsu API Partner Center i internetowego interfejsu użytkownika. Zestawy API/ZESTAWY SDK będą dostępne do testowania.
+- Przygotuj się do uwzględnienia zmian przy użyciu interfejsu API Partner Center i internetowego interfejsu użytkownika. Zestawy API/zestawy SDK będą dostępne do testowania.
 
 - Pamiętaj, aby przesłać dodatkowe dane podczas dołączania nowych klientów lub modyfikowania istniejących danych klienta.
 
@@ -299,12 +299,12 @@ Partnerzy z klientami w pozostałej części świata będą mieć możliwość w
 
 ### <a name="questions"></a>Masz pytania?
 
-Skontaktuj się z doradcą podatkowym lub lokalnym urzędem podatkowym, jeśli masz pytania związane z identyfikatorem prawna (nazywanym również URZĘDEM PODATKOWYM lub NIP). Firma Microsoft nie może zapewnić wskazówek dotyczących kwestii podatkowych.
+Jeśli masz pytania związane z identyfikatorem prawna (nazywanym również ONE LUB TIN), skontaktuj się z doradcą podatkowym lub lokalnym urzędem podatkowym. Firma Microsoft nie może zapewnić wskazówek dotyczących kwestii podatkowych.
 
-Jeśli potrzebujesz pomocy technicznej w swoich operacjach z firmą Microsoft, [otwórz żądanie obsługi](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+Jeśli potrzebujesz pomocy technicznej w operacjach wykonywanych w firmie Microsoft, [otwórz żądanie obsługi](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
 ________________
-## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="15"></a>Korekty wprowadzone do 1 marca 2021 r. bezterminowy cennik oprogramowania
+## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="15"></a>Korekty cennika oprogramowania bezterminowego z 1 marca 2021 r.
 
 ### <a name="categories"></a>Kategorie
 
@@ -313,21 +313,21 @@ ________________
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
-Dostawcy pośredni i bezpośredni partnerzy rozliczający się w ramach oprogramowania bezterminowego w programie Dostawca rozwiązań w chmurze usług 
+Dostawcy pośredni i bezpośredni partnerzy rozliczający się bezterminowo w ramach programu Dostawca rozwiązań w chmurze usług 
 
 ### <a name="details"></a>Szczegóły
 
 Cennik oprogramowania bezterminowego opublikowany 1 marca 2021 r. obejmował rynki, które nie powinny tam być. Cennik oprogramowania bezterminowego został zaktualizowany 17 marca 2021 r. o korekty. Te poprawki miały zastosowanie tylko do:
 
 - Identyfikator produktu: DF77X4D43RKT 
-- Nazwa produktu: Windows 10 Home do Pro Uaktualnienia dla Microsoft 365 Business
-- Usunięte lub nieobsługiwane rynki: AE, AF, AL, AM, AO, BA, BB, BD, BH, BM, BN, BO, BR, BS, BW, BY, BZ, CI, CL, CM, CO, CR, CW, DO, DO, EC, EG, ET, FJ, FO, GE, GH, GT, HN, IL, IN, IQ, JM, JO, KE, KG, KN, KW, KY, KZ, LB, LK, LY, MA, MC, ME,  MN, MO, MU, NA, NG, NI, NP, OM, PA, PE, PH, PK, PR, PY, QA, RS, RU, RW, SG, SN, SV, TH, TJ, TM, TN, TT, TZ, UA, UG, UY, UZ, VE, VN, YE, ZM, ZW
+- Nazwa produktu: Windows 10 Home do Pro upgrade for Microsoft 365 Business
+- Usunięte lub nieobsługiwane rynki: AE, AF, AL, AM, AO, BA, BB, BD, BH, BM, BN, BO, BR, BS, BW, BY, BZ, CI, CL, CM, CO, CR, CW, DO, DO, EC, EG, ET, FJ, FO, GE, GH, GT, HN, IL, IN, IQ, JM, JO, KE, KG, KN, KW, KY, KZ, LB, LK, LY, MA, MC, ME, ME  MN, MO, MU, NA, NG, NI, NP, OM, PA, PE, PH, PK, PR, PY, QA, RS, RU, RW, SG, SN, SV, TH, TJ, TM, TN, TT, TZ, UA, UG, UY, UZ, VE, VN, YE, ZM, ZW
 
 Te zmiany dotyczą tylko powyższego produktu. Inne produkty nie miały poprawek. 
 
 ### <a name="next-steps-and-resources"></a>Następne kroki i zasoby
 
-- Partnerzy, którzy transakcjiują oprogramowanie bezterminowe, powinni pobrać najnowszy cennik oprogramowania bezterminowego.
+- Partnerzy, którzy inkasują oprogramowanie bezterminowe, powinni pobrać najnowszy cennik oprogramowania bezterminowego.
 - Zapoznaj się z [kodami krajów regionów,](/azure/marketplace/commercial-marketplace-co-sell-countries) aby uzyskać przyjazne mapowanie dwuliterowego skrótu na kraje.
 ________________
 ## <a name="sdk-release-on-net-standard-v1170"></a><a name="14"></a> Wersja zestawu SDK w .NET Standard (wersja 1.17.0)
@@ -340,13 +340,13 @@ ________________
  
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
-Partnerzy z rozliczeniami bezpośrednimi i dostawcy pośredni biorący udział w programie CSP, którzy Partner Center zestawu SDK platformy .NET.
+Partnerzy z rozliczeniami bezpośrednimi i dostawcy pośredni uczestniczący w programie CSP, którzy Partner Center zestawu SDK platformy .NET.
 
 ### <a name="details"></a>Szczegóły
 
-Od 23 marca 2020 r. partnerzy mogą rozpocząć pobieranie wersji [microsoftPartnerCenter.NETSDK (NuGet Gallery | Microsoft.Store.PartnerCenter 1.17.0)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.17.0)wraz ze zaktualizowanymi publicznymi zestaw SDK Centrum partnerskiego [GitHub przykładami.](https://github.com/Microsoft/Partner-Center-DotNet-Samples) Ta wersja zawiera aktualizacje następujących metod:
+Od 23 marca 2020 r. partnerzy mogą rozpocząć pobieranie wersji pakietu [MicrosoftPartnerCenter.NETSDK (NuGet Gallery | Microsoft.Store.PartnerCenter 1.17.0)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.17.0)wraz ze zaktualizowanymi publicznymi zestaw SDK Centrum partnerskiego [GitHub przykładami.](https://github.com/Microsoft/Partner-Center-DotNet-Samples) Ta wersja zawiera aktualizacje następujących metod:
 
-#### <a name="audit-updated-new-operation-types"></a>Zaktualizowano inspekcję: nowe typy operacji
+#### <a name="audit-updated-new-operation-types"></a>Aktualizacja inspekcji: nowe typy operacji
 
 Dodano [nowe typy operacji,](/partner-center/develop/auditing-resources) aby wiedzieć, kiedy klient zatwierdził i zakończył działanie daP.
 
@@ -354,9 +354,9 @@ Dodano [nowe typy operacji,](/partner-center/develop/auditing-resources) aby wie
 
 - DapAdminRelationshipTerminated
 
-#### <a name="audit-updated-new-resource-and-operation-types"></a>Zaktualizowano inspekcję: nowe typy zasobów i operacji
+#### <a name="audit-updated-new-resource-and-operation-types"></a>Aktualizacja inspekcji: nowe typy zasobów i operacji
 
-Dodano [nowe typy zasobów i operacji](/partner-center/develop/auditing-resources) do obsługi scenariusza roli katalogu klienta.
+Dodano [nowe typy zasobów i operacji](/partner-center/develop/auditing-resources) na potrzeby obsługi scenariusza roli katalogu klienta.
 
 - Nowy typ zasobu "CustomerDirectoryRole"
 
@@ -466,7 +466,7 @@ Klienci muszą mieć dowolne z następujących wymagań wstępnych, aby kupić t
 | ------ | ----------- |
 | Microsoft 365 E5 (Nonprofit Staff Pricing)  |  31bedf01-9e57-4ece-a53a-d3656a563931   |
 |   Microsoft 365 E5 bez konferencji audio (cennik dla personelu non-profit)|  b456810a-c414-4e07-98fc-ef74e8175a09|
-|   Office 365 E5 (Cennik dla pracowników niedochodowych)| ce139fe5-8bd5-47ed-a5be-07c286f8b9e    |
+|   Office 365 E5 (Nonprofit Staff Pricing)| ce139fe5-8bd5-47ed-a5be-07c286f8b9e    |
 |   Office 365 E5 (cennik dla pracowników non profit)|  2f192efe-608a-4c9c-9d19-2b0b70b0962e|
 |   Office 365 E5 bez konferencji audio (cennik dla personelu non-profit)|  c3897426-9f49-4eaf-9b4d-7d9a1c72aef7|
 
@@ -490,7 +490,7 @@ Przejrzyj zasoby dotyczące tego tematu i udostępnij te informacje odpowiednim 
 
 Jeśli masz pytania dotyczące tych ofert, sprawdź swoje Yammer społeczności. 
 
-## <a name="march-price-updates-for-microsoft-365-f3"></a><a name="11"></a>Aktualizacje cen w marcu dla Microsoft 365 F3
+## <a name="march-price-updates-for-microsoft-365-f3"></a><a name="11"></a>Aktualizacje cennika z marca dla Microsoft 365 F3
 
 ### <a name="categories"></a>Kategorie
 
@@ -499,7 +499,7 @@ Jeśli masz pytania dotyczące tych ofert, sprawdź swoje Yammer społeczności.
 
 ### <a name="summary"></a>Podsumowanie
 
-Poprawiono niepoprawne ceny z marca 2021 r. dla waluty Microsoft 365 F3 funta brytyjskiego (GB) i waluty Euro (EUR).
+Poprawiono niepoprawne ceny z marca 2021 r. dla waluty Microsoft 365 F3 funta brytyjskiego (GB) i euro (EUR).
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
@@ -511,7 +511,7 @@ Firma Microsoft rozwiązała problem z nieprawidłowymi cenami Microsoft 365 F3.
 
 | Nazwa oferty | Waluta | Identyfikator oferty | Identyfikator materiału |
 | ------ |----------- |----------- |----------- |
-| Microsoft 365 F3 (Syrja) | GBP | 57b722c2-c435-4bfb-9bc8-80509213a13a | AAD-11626 |
+| Microsoft 365 F3 (Schowek) | GBP | 57b722c2-c435-4bfb-9bc8-80509213a13a | AAD-11626 |
 | Microsoft 365 F3 (komercyjne) | EUR| 3451a3b0-8cda-44a7-bad7-c30be81c4aaa | AAA-89898 |
  
 Cenniki bazowe licencji w wersji zapoznawczej z marca i kwietnia zostały zaktualizowane 16 marca o godzinie 17:00 czasu pacyficznego.
@@ -527,7 +527,7 @@ Aby uzyskać więcej pytań, sprawdź odpowiedniego CSP Yammer społeczności.
 
 ________________
 
-## <a name="update-a-legal-company-name-through-partner-center"></a><a name="10"></a> Aktualizowanie prawnej nazwy firmy za pomocą Partner Center
+## <a name="update-a-legal-company-name-through-partner-center"></a><a name="10"></a> Aktualizowanie nazwy firmy prawnej za pomocą Partner Center
 
 ### <a name="categories"></a>Kategorie
 
@@ -536,7 +536,7 @@ ________________
 
 ### <a name="summary"></a>Podsumowanie
 
-Od marca 2021 r. partnerzy Microsoft Partner Network (MPN) i odsprzedawcy pośredni Dostawca rozwiązań w chmurze (CSP) mogą aktualizować swoją nazwę firmy prawnej za pośrednictwem Partner Center.
+Od marca 2021 r. partnerzy Microsoft Partner Network (MPN) i odsprzedawcy pośredni Dostawca rozwiązań w chmurze (CSP) mogą aktualizować swoje prawne nazwy firmy za pośrednictwem Partner Center.
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
@@ -544,7 +544,7 @@ Partnerzy MPN i odsprzedawcy pośredni w programie CSP (nie dotyczy partnerów r
 
 ### <a name="details"></a>Szczegóły
 
-Od marca 2021 r. partnerzy MPN i odsprzedawcy pośredni w programie CSP mogą aktualizować nazwę swojej firmy prawnej za pośrednictwem Partner Center w sposób zgodny i samoobsługowy. Dzięki tej nowej funkcji partnerzy nie będą już musieli przesyłać biletu Partner Center pomocy technicznej, aby zaktualizować nazwę firmy. Pozwoli to zaoszczędzić znaczną ilość czasu partnerom podczas wykonywania tych działań. 
+Od marca 2021 r. partnerzy MPN i odsprzedawcy pośredni w programie CSP mogą aktualizować swoje prawne nazwy firmy za pośrednictwem Partner Center w sposób zgodny i samoobsługowy. Dzięki tej nowej funkcji partnerzy nie będą już musieli przesyłać biletu Partner Center pomocy technicznej, aby zaktualizować nazwę firmy. Pozwoli to zaoszczędzić znaczną ilość czasu partnerom podczas wykonywania tych działań. 
 
 Aby dowiedzieć się więcej, zobacz [Aktualizowanie legalnych profilów biznesowych.](../update-your-partner-profile.md#update-your-legal-business-profile)
 
@@ -569,7 +569,7 @@ ________________
 
 ### <a name="summary"></a>Podsumowanie
 
-Nowe bezterminowe oferty oprogramowania w sektorze komercyjnym i publicznym są dostępne w programie licencjonowania Dostawca rozwiązań w chmurze (CSP) wraz ze zmianami w programie licencjonowania open.
+Nowe bezterminowe oferty oprogramowania w sektorze komercyjnym i publicznym zostaną wprowadzone w programie licencjonowania Dostawca rozwiązań w chmurze (CSP) wraz ze zmianami w programie licencjonowania open.
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
@@ -583,7 +583,7 @@ W kontynuacji tej transformacji cyfrowej ogłaszamy następujące zmiany:
 
 - 1 lipca 2021 r.: do cennika programu Licencjonowanie otwarte nie zostaną dodane żadne nowe jednostki SKU, produkty ani promocje.
 
-- 7 lipca 2021 r. Dwie oferty komercyjne, Get Genuine Windows i Visual Studio Professional oraz oferty sektora publicznego (dla instytucji rządowych, instytucji edukacyjnych i organizacji non profit — zobacz [ogłoszenie)](./2020-december.md#9)zostaną dodane do cennika oprogramowania CSP bezterminowego.  Cennik można znaleźć w sekcji Oprogramowanie na stronie Sell [> Pricing & Offers](https://partnercenter.microsoft.com/pcv/sales) (Ceny & sprzedaży) w Partner Center i zostanie ponownie opublikowany w tym dniu.
+- 7 lipca 2021 r. Dwie oferty komercyjne, Get Genuine Windows i Visual Studio Professional oraz oferty sektora publicznego (dla instytucji rządowych, instytucji edukacyjnych i organizacji non profit — zobacz [ogłoszenie)](./2020-december.md#9)zostaną dodane do cennika oprogramowania bezterminowego CSP.  Cennik można znaleźć w sekcji Oprogramowanie na stronie Sell [> Pricing & Offers](https://partnercenter.microsoft.com/pcv/sales) (Ceny & sprzedaży) w Partner Center i zostanie ponownie opublikowany w tym dniu.
 
 Aby uzyskać szczegółowe informacje dotyczące ewolucji programu CSP i zmian programu licencjonowania Open License, zobacz **Następne kroki** poniżej.
 
@@ -617,7 +617,7 @@ Partnerzy inicjujące transakcje za pośrednictwem Dostawca rozwiązań w chmurz
 
 Oferty wersji próbnej nie powinny zostać uwzględnione w cenniku. Zostaną one usunięte z cennika z 1 maja 2021 r.
 
-Oryginalne zawiadomienie znajduje się na [stronie Update to a previous announcement: Premium Assessments, dodatek do Menedżera zgodności](./2021-february.md#4).
+Oryginalne zawiadomienie znajduje się w [aktualizacji do poprzedniego ogłoszenia: Premium Assessments, dodatek](./2021-february.md#4)do Menedżera zgodności.
 
 ### <a name="additional-resources"></a>Dodatkowe zasoby
 
@@ -653,15 +653,15 @@ Organizacje sprzedane razem z rozwiązaniami w OCP GTM
 
 W grudniu 2020 r. rozpoczęliśmy podróż od narzędzia Microsoft OCP GTM do platformy handlowej firmy Microsoft w Partner Center. To przejście rozszerza możliwości platformy handlowej, na której można prezentować swoje rozwiązania milionom klientów, dwukierunkowo udostępniać możliwości innym sprzedawcom firmy Microsoft i partnerom oraz wspólnie sprzedawać innowacyjne rozwiązania.
 
-Kolejny kamień milowy w przejściu będzie miał miejsce 29 marca 2021 r. Właśnie wtedy zaczniesz mieć ograniczone możliwości OCP GTM, a niektóre pola stają się tylko do odczytu. Jeśli obecnie współużytkujesz rozwiązania w OCP GTM, zachęcamy do migrowania rozwiązań na platformę handlową, aby wykorzystać jej możliwości i uprościć środowisko publikowania.
+Kolejny kamień milowy w przejściu będzie miał miejsce 29 marca 2021 r. Właśnie wtedy zaczniesz mieć ograniczone możliwości OCP GTM, a niektóre pola stają się tylko do odczytu. Jeśli obecnie sprzedajesz rozwiązania w OCP GTM, zachęcamy do migrowania rozwiązań na platformę handlową, aby wykorzystać jej możliwości i uprościć środowisko publikowania.
 
-Przejście na platformę handlową sprawia, Partner Center głównym miejscem docelowym publikowania w zakresie współpracy sprzedaży. Jest to miejsce, w którym możesz kontynuować rozwój swojej firmy, łącząc swoje rozwiązania z naszymi udostępnionymi klientami za pośrednictwem tych samych kanałów i funkcji w produktach, których używamy dla produktów firmy Microsoft. [Dowiedz się więcej o platformie handlowej](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/).
+Przejście na platformę handlową Partner Center głównym miejscem docelowym dla publikowania we współpracy sprzedaży. Jest to miejsce, w którym można kontynuować rozwój firmy, łącząc swoje rozwiązania z naszymi wspólnymi klientami za pośrednictwem tych samych kanałów i doświadczeń w produktach, których używamy dla produktów firmy Microsoft. [Dowiedz się więcej o platformie handlowej](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/).
 
 ### <a name="next-steps"></a>Następne kroki
 
-- Jeśli rozwiązania nie zostały jeszcze przeniesione, postępuj [](/azure/marketplace/co-sell-solution-migration) zgodnie z instrukcjami podanymi w przewodniku przejścia lub wyświetl samouczek wideo krok po kroku, aby ukończyć wszystkie działania związane z migracją i rozpocząć publikowanie swoich rozwiązań na platformie handlowej. [](https://partner.microsoft.com/asset/detail/ocp-gtm-to-the-microsoft-commercial-marketplace-mp4)
+- Jeśli rozwiązania nie zostały jeszcze przeniesione, postępuj [](/azure/marketplace/co-sell-solution-migration) zgodnie z instrukcjami podanymi w przewodniku przejścia lub wyświetl samouczek wideo krok po kroku, aby ukończyć wszystkie działania migracji i rozpocząć publikowanie swoich rozwiązań na platformie handlowej. [](https://partner.microsoft.com/asset/detail/ocp-gtm-to-the-microsoft-commercial-marketplace-mp4)
 
-- W przypadku pytań dotyczących ograniczonego środowiska możliwości w aplikacji OCP GTM zobacz wymagania dotyczące współpracy sprzedaży, które należy opublikować w artykule Często zadawane pytania dotyczące platformy handlowej firmy [Microsoft.](https://partner.microsoft.com/resources/detail/co-sell-requirements-publish-commercial-marketplace-faq-pdf) (Zobacz sekcję "Ograniczone możliwości OCP GTM począwszy od 29 marca 2021 r.").
+- W przypadku pytań dotyczących ograniczonego środowiska możliwości w aplikacji OCP GTM zobacz wymagania dotyczące współpracy sprzedaży w celu opublikowania w artykule Często zadawane pytania dotyczące platformy handlowej [firmy Microsoft.](https://partner.microsoft.com/resources/detail/co-sell-requirements-publish-commercial-marketplace-faq-pdf) (Zobacz sekcję "Ograniczone możliwości OCP GTM od 29 marca 2021 r.").
 
 ### <a name="questions"></a>Masz pytania?
 
@@ -677,7 +677,7 @@ ________________
 
 ### <a name="summary"></a>Podsumowanie
 
-Partnerzy mogą teraz programowo uzyskać dostęp do raportów analitycznych, aby monitorować sprzedaż, oceniać wydajność i optymalizować oferty na platformie handlowej.
+Partnerzy mogą teraz programowo uzyskać dostęp do raportów analizy, aby monitorować sprzedaż, oceniać wydajność i optymalizować oferty na platformie handlowej.
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
@@ -685,7 +685,7 @@ Partnerzy z ofertami na platformie handlowej.
 
 ### <a name="details"></a>Szczegóły
 
-Interfejs API do uzyskiwania dostępu do raportów komercyjnej platformy handlowej umożliwia asynchroniczne planowanie niestandardowych raportów danych analitycznych.
+Interfejs API umożliwiający uzyskiwanie dostępu do raportów komercyjnej platformy handlowej umożliwia asynchroniczne planowanie niestandardowych raportów dotyczących danych analitycznych.
 
 Ta funkcja umożliwia definiowanie zapytań i szablonów raportowania zgodnie z potrzebami, ustawianie harmonogramu oraz uzyskiwanie terminowych i wiarygodnych raportów w zaplanowanych odstępach czasu.
 
@@ -707,18 +707,18 @@ ________________
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
-Wszyscy partnerzy w Rosyjskim inicjuje transakcję za pośrednictwem Dostawca rozwiązań w chmurze (CSP).
+Wszyscy partnerzy w Języku Rosyjskim inicjujące transakcje za pośrednictwem Dostawca rozwiązań w chmurze (CSP).
 
 ### <a name="details"></a>Szczegóły
 
-Od 10 marca 2021 r. z przyjemnością ogłaszamy dostępność nowego rozwiązania handlowego w programie CSP dla platformy **Azure w Rosyjskim**. To środowisko usprawni i poprawi sposób, w jaki klienci kupują i zużywają usługi platformy Azure. Zapewni ona również partnerom w programie CSP spójny widok cen platformy Azure w różnych ruchach sprzedaży, cen USD dla globalnej spójności, wyrównania daty rozliczeń i dostępu do Azure Cost Management.
+Od 10 marca 2021 r. z przyjemnością ogłaszamy dostępność nowego doświadczenia handlowego w programie CSP dla platformy **Azure w Zelandii.** To środowisko usprawni i usprawni sposób, w jaki klienci kupują usługi platformy Azure i z których będą korzystać. Zapewni również partnerom w programie CSP spójny widok cen platformy Azure w różnych ruchach sprzedaży, ceny USD na poziomie globalnym, wyrównanie daty rozliczeń i dostęp do Azure Cost Management.
 
 ### <a name="next-steps"></a>Następne kroki
 
-Dostępnych jest kilka zasobów wprowadzających nowe środowisko handlowe platformy Azure i udostępniających dodatkowe informacje. Najnowsze często zadawane pytania, talii, wideo i inne informacje można znaleźć w galerii zasobów aktualizacji [programu CSP.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+Dostępnych jest kilka zasobów wprowadzających nowe środowisko handlowe platformy Azure i udostępniających dodatkowe informacje. Najnowsze często zadawane pytania, talii, klipów wideo i innych informacji można znaleźć w galerii zasobów [aktualizacji programu CSP.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 
 ________________
-## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>Partner Center licencji oprogramowania i realizacja pobierania
+## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>Partner Center klucza licencji oprogramowania i realizacji pobierania
 
 ### <a name="categories"></a>Kategorie
 
@@ -727,28 +727,28 @@ ________________
 
 ### <a name="summary"></a>Podsumowanie
 
-Funkcja Partner Center pobierania oprogramowania i realizacji klucza licencji została przywrócona.
+Możliwość Partner Center pobierania oprogramowania i realizacji klucza licencji została przywrócona.
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
-Wszyscy Dostawca rozwiązań w chmurze (CSP) w ramach transakcji bezterminowych zamówień oprogramowania subskrypcji serwera za pośrednictwem Partner Center
+Wszyscy Dostawca rozwiązań w chmurze (CSP) w ramach zamówień oprogramowania bezterminowych i subskrypcji serwerów za pośrednictwem Partner Center
 
 ### <a name="details"></a>Szczegóły
 
-W odpowiedzi na opinie partnerów przywracamy możliwość realizacji Partner Center uzyskiwania kluczy oprogramowania i licencji dla bezterminowych zamówień oprogramowania i zamówień oprogramowania subskrypcji serwera. Zostanie on przywrócony do poprzedniego stanu przed usunięciem 19 stycznia 2021 r. (Zobacz [anons).](2020-september.md#17)
+W odpowiedzi na opinie partnerów przywracamy możliwość uzyskiwania Partner Center licencji na oprogramowanie i klucze licencji w przypadku zamówień oprogramowania bezterminowych i zamówień subskrypcji serwera. Zostanie przywrócony do poprzedniego stanu przed usunięciem 19 stycznia 2021 r. (Zobacz [anons).](2020-september.md#17)
 
-Należy pamiętać, że klucze licencji na oprogramowanie i linki do pobierania są cennymi i wysoce pożądanymi zasobami własności intelektualnej. W przypadku wycieku mogą one szybko zostać wyczerpane limity aktywacji i spowodować negatywne doświadczenia klientów i partnerów.
+Należy pamiętać, że klucze licencji oprogramowania i linki pobierania są cennymi i wysoce poszukiwanymi zasobami własności intelektualnej. W przypadku wycieku mogą one zostać szybko wyczerpane limitów aktywacji i spowodować negatywne doświadczenia klientów i partnerów.
 
 ### <a name="next-steps"></a>Następne kroki
 
-Zapoznaj się z następującymi zasobami, aby uzyskać instrukcje użycia i ważne wskazówki dotyczące dystrybucji kluczy oprogramowania:
+Zapoznaj się z następującymi zasobami, aby uzyskać instrukcje dotyczące użycia i ważne wskazówki dotyczące dystrybucji kluczy oprogramowania:
 
 - [Sprzedaż oprogramowania lokalnego za pośrednictwem programu CSP](../csp-on-premise-software.md)
-- [Partner Center przewodniku po nowych operacjach handlowych](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) (zobacz **sekcję Wskazówki dotyczące dystrybucji kluczy** oprogramowania).
+- [Partner Center Przewodnik po nowych operacjach handlowych](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) (zobacz **sekcję Wskazówki dotyczące dystrybucji kluczy** oprogramowania).
 
 ### <a name="questions"></a>Masz pytania?
 
-Jeśli masz dodatkowe pytania dotyczące tego powiadomienia, sprawdź, czy odpowiednie Yammer społeczności.
+Jeśli masz dodatkowe pytania dotyczące tego powiadomienia, sprawdź odpowiednie Yammer społeczności.
 
 ________________
 ## <a name="migrate-your-deals-from-partner-sales-connect-psc-to-partner-center"></a><a name="3"></a>Migrowanie transakcji z programu Partner Sales Połączenie (PSC) do Partner Center
@@ -768,24 +768,24 @@ Partnerzy z transakcjami w programie PSC
 
 ### <a name="details"></a>Szczegóły
 
-W ramach naszego wspólnego zaangażowania w rozwój wspólna sprzedaż z firmą **Microsoft** to ścieżka, którą możesz **odkryć,** dostarczyć swoją wiedzę i rozszerzyć zasięg klientów, aby uzyskać pozytywne wyniki dla klientów. Przy średniej transakcji, która jest **3,5** razy szybsza niż zwykle, zarządzanie doświadczeniem w zakresie współpracy sprzedaży w programie Partner Center umożliwia sprzedaż w kanałach bezpośrednich klientów, partnerów i sprzedawców firmy Microsoft oraz zarządzanie całym potokiem poleceń w jednej lokalizacji.
+W ramach naszego wspólnego zobowiązania do rozwoju wspólna sprzedaż z firmą **Microsoft** jest ścieżką, którą możesz **odkryć,** dostarczyć swoją wiedzę i rozszerzyć zasięg klientów, aby uzyskać pozytywne wyniki dla klientów. Przy średniej transakcji, która jest **3,5** razy szybsza niż zwykle, zarządzanie doświadczeniem w zakresie współpracy sprzedaży w programie Partner Center umożliwia sprzedaż w kanałach bezpośrednich klientów, partnerów i sprzedawców firmy Microsoft oraz zarządzanie całym potokiem poleceń w jednej lokalizacji.
 
-Od 31  marca **2021** r. program **PSC** przechodzi na dostęp tylko do odczytu, dlatego zachęcamy do rozpoczęcia przechodzenia do programu Partner Center i uzyskiwania dostępu do tych ulepszeń możliwości: 
+Od 31  marca **2021** r. program **PSC** będzie miał dostęp tylko do odczytu, dlatego zachęcamy do rozpoczęcia przechodzenia do programu Partner Center i uzyskiwania dostępu do tych ulepszeń możliwości: 
 
 - **Dokładniejszy routing** transakcji, które udostępniasz firmie Microsoft właściwemu sprzedawcy, w zależności od rodzaju potrzebnej pomocy.
-- **Weryfikacja uprawnień** do transakcji z góry dla rozwiązań kwalifikujących się do zachęt oraz spełnianie kryteriów programu ISV Połączenie, upraszczając proces zatwierdzania i ostateczne potwierdzenie wykonania.
-- **Bezproblemowe środowisko użytkownika do** zarządzania wszystkimi możliwościami sprzedaży i potencjalnymi klientami zakwalifikowanym do sprzedaży w jednym miejscu.
+- **Walidacja** uprawnień do transakcji z góry dla rozwiązań kwalifikujących się do zachęt oraz spełnianie kryteriów programu ISV Połączenie, upraszczając proces zatwierdzania i ostateczne potwierdzenie wykonania (POE, proof of execution).
+- **Bezproblemowe środowisko użytkownika** do zarządzania wszystkimi możliwościami sprzedaży i potencjalnymi klientami zakwalifikowanym do sprzedaży w jednym miejscu.
 
-Niedawno dodaliśmy również nowe funkcje w Partner Center, które mogą pomóc w przenoszeniu:
+Niedawno dodaliśmy również nowe funkcje w programie Partner Center, które mogą pomóc w przenoszeniu:
 
-- [Operacje zbiorcze dotyczące możliwości współpracy sprzedaży](../bulk-operations.md)
-- [Funkcja migracji transakcji](../psc-to-pc.md) (zobacz sekcję **Migracja transakcji PSC).**
+- [Operacje zbiorcze dotyczące możliwości sprzedaży zbiorczej](../bulk-operations.md)
+- [Funkcja migracji transakcji](../psc-to-pc.md) (zobacz **sekcję Migracja transakcji psc).**
 
-Dzięki środowisku współpracy w Partner Center zespoły sprzedaży będą miały więcej czasu na skoncentrowanie się na tworzeniu potencjalnych klientów i szans sprzedaży, zamykaniu transakcji i tworzeniu długotrwałych relacji z klientami.
+Korzystając ze środowisk sprzedaży w Partner Center, zespoły sprzedaży będą miały więcej czasu na skoncentrowanie się na tworzeniu potencjalnych klientów i szans sprzedaży, zamykaniu transakcji i tworzeniu długotrwałych relacji z klientami.
 
 ### <a name="next-steps"></a>Następne kroki
 
-Skorzystaj z Partner Center [przejścia,](../psc-to-pc.md) aby przeprowadzić Cię przez kroki migracji transakcji z usługi PSC do Partner Center.
+Skorzystaj z Partner Center [przejścia,](../psc-to-pc.md) aby przeprowadzić cię przez kroki migracji transakcji z centrum psc do Partner Center.
 
 ### <a name="questions"></a>Masz pytania?
 
@@ -809,16 +809,16 @@ Wszyscy partnerzy w ramach programu Dostawca rozwiązań w chmurze (CSP)
 
 ### <a name="details"></a>Szczegóły
 
-1 kwietnia 2021 r. firma Microsoft będzie wprowadzać następujące nowe produkty i oferty:
+1 kwietnia 2021 r. firma Microsoft uruchomi następujące nowe produkty i oferty:
 
 - Power BI Premium Na użytkownika
-- Rozszerzenie segmentów i obszarów geograficznych customer voice and marketing USL
+- Rozszerzenie segmentów i obszarów geograficznych Customer Voice and Marketing USL
 
 **Power BI Premium Na użytkownika**
 
-Firma Microsoft wprowadzi pierwszą ofertę dla użytkowników Power BI Premium użytkowników. Power BI Premium jest obecnie sprzedawany tylko w konstrukcji pojemności. Power BI Premium Każdy użytkownik zapewnia dostęp do funkcji analizy biznesowej (BI) i analizy przedsiębiorstwa. Elastyczne licencjonowanie poszczególnych miejsc jest przeznaczone dla małych i średnich firm.
+Firma Microsoft wprowadzi pierwszą ofertę dla Power BI Premium użytkowników. Power BI Premium jest obecnie sprzedawany tylko w konstrukcji pojemności. Power BI Premium Każdy użytkownik zapewnia dostęp do funkcji analizy biznesowej (BI) i analizy przedsiębiorstwa. Elastyczne licencjonowanie poszczególnych miejsc jest przeznaczone dla małych i średnich firm.
 
-Przejrzyj szczegóły [Power BI wersji,](/power-platform-release-plan/2020wave2/power-bi/planned-features) aby dowiedzieć się więcej o tej ofercie.
+Przejrzyj szczegóły [Power BI,](/power-platform-release-plan/2020wave2/power-bi/planned-features) aby dowiedzieć się więcej na temat tej oferty.
 
 
 **Szczegóły oferty**

@@ -1,6 +1,6 @@
 ---
 title: Ogłoszenia z kwietnia 2021 r.
-description: Ogłoszenia dotyczące platformy Microsoft Partner Center z kwietnia 2021 r., w tym nowe możliwości, promocje, oferty, rynki lub zmiany istniejących ofert.
+description: Ogłoszenia dla firmy Microsoft z kwietnia 2021 r. dotyczące Partner Center nowych możliwości, promocji, ofert, rynków lub zmian istniejących ofert.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-announcements
@@ -12,11 +12,11 @@ ms.custom:
 ms.localizationpriority: high
 ms.date: 09/01/2021
 ms.openlocfilehash: a6cd5e9734a2ba9657649f012225dee96cd1e265
-ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/19/2021
-ms.locfileid: "127960897"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128309734"
 ---
 # <a name="april-2021-announcements"></a>Ogłoszenia z kwietnia 2021 r.
 
@@ -67,7 +67,7 @@ Kody pocztowe w USA zwracają dodatkowe cztery cyfry i łącznik, na przykład 1
 
 ### <a name="questions"></a>Masz pytania?
 
-Jeśli potrzebujesz pomocy technicznej dotyczącej operacji wykonywanych przez firmę Microsoft, swiązyj się z grupę pomocy Yammer partnera lub otwórz [żądanie obsługi.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
+Jeśli potrzebujesz pomocy technicznej dotyczącej operacji wykonywanych przez firmę Microsoft, uzyskaj pomoc techniczną Yammer partnera lub otwórz [żądanie obsługi.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
 
 _______________
 ## <a name="new-location-for-partner-center-api-swagger-documentation"></a><a name="9"></a>Nowa lokalizacja dokumentacji programu Swagger Partner Center API
@@ -79,11 +79,11 @@ _______________
 
 ### <a name="summary"></a>Podsumowanie
 
-Partner Center api Swagger zostały zmigrowane z poprzedniej witryny dokumentacji programu [Swagger](https://apidocs.microsoft.com/services/partnercenter) do nowej witryny dokumentacji programu [Swagger.](/rest/api/partner-center-rest/)
+Partner Center api Swagger zostały zmigrowane z poprzedniej witryny dokumentacji programu [Swagger](https://apidocs.microsoft.com/services/partnercenter) do nowej [witryny dokumentacji programu Swagger.](/rest/api/partner-center-rest/)
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
-Partnerzy rozliczający się bezpośrednio i dostawcy pośredni uczestniczący w programie Dostawca rozwiązań w chmurze (CSP), którzy korzystali z interfejsów API Partner Center internetowych
+Partnerzy rozliczający się bezpośrednio i dostawcy pośredni biorący udział w programie Dostawca rozwiązań w chmurze (CSP), którzy korzystali z interfejsów API Partner Center internetowych
 
 ### <a name="details"></a>Szczegóły
 
@@ -102,7 +102,7 @@ Udostępnij te informacje w organizacji, aby odpowiedni zespół może przegląd
 W przypadku pytań dotyczących tych ofert sprawdź odpowiednie Yammer społeczności.
 
 ________________
-## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Dostawca rozwiązań w chmurze okresów zwrotu oprogramowania (CSP) i powiadomienia o wygaśnięciu linku pobierania
+## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Dostawca rozwiązań w chmurze okresów zwrotnych oprogramowania (CSP) i powiadomienia o wygaśnięciu linku pobierania
 
 ### <a name="categories"></a>Kategorie
 
@@ -119,11 +119,11 @@ Partnerzy w ramach transakcji bezterminowych ofert subskrypcji oprogramowania lu
 
 ### <a name="details"></a>Szczegóły
 
-Należy pamiętać o następujących ważnych powiadomieniach dotyczących bezterminowych zakupów oprogramowania i subskrypcji oprogramowania za pośrednictwem Partner Center:
+Zwróć uwagę na następujące ważne powiadomienia dotyczące bezterminowych zakupów oprogramowania i subskrypcji oprogramowania za pośrednictwem Partner Center:
 
 #### <a name="software-return-period-policy"></a>Zasady okresu zwrotu oprogramowania
 
-Od 1 czerwca 2021 r. okres zwrotu z ofert oprogramowania w programie CSP, zgodnie z Microsoft Partner Agreement (MPA), zmieni się z 60 dni od daty zamówienia do 30 dni od daty zamówienia.
+Od 1 czerwca 2021 r. okres zwrotu dla ofert oprogramowania w programie CSP, zgodnie z Microsoft Partner Agreement (MPA), zmieni się z 60 dni od daty zamówienia do 30 dni od daty zamówienia.
 
 Po przesłaniu zamówienia na ofertę oprogramowania partnerzy będą mieć 30 dni od daty zamówienia, aby przesłać poprawki do takiego zamówienia:
 
@@ -146,7 +146,7 @@ Przejrzyj okres [zwrotny CSP i pobierz często](https://partner.microsoft.com/re
 W przypadku pytań dotyczących tych ofert sprawdź odpowiednie Yammer społeczności.
 
 ________________
-## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Otwórz program licencjonowania: Przechodzenie odsprzedawców do programu licencjonowania Dostawca rozwiązań w chmurze (CSP)
+## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Otwórz program licencjonowania: Przechodzenie odsprzedawców do programu Dostawca rozwiązań w chmurze (CSP)
 
 ### <a name="categories"></a>Kategorie
 
@@ -485,7 +485,7 @@ Jeśli potrzebujesz pomocy technicznej dotyczącej operacji wykonywanych w firmi
  
 ### <a name="summary"></a>Podsumowanie
 
-Kalendarz uruchamiania produktów z kwietnia 2021 r. został opublikowany.
+Kalendarz produktów z kwietnia 2021 r. został opublikowany.
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
@@ -493,7 +493,7 @@ Wszyscy partnerzy w ramach programu Dostawca rozwiązań w chmurze (CSP)
 
 ### <a name="details"></a>Szczegóły
 
-Kalendarz uruchamiania produktów z [](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) kwietnia 2021 r. jest teraz dostępny w galerii zasobów Gotowości do operacji. Zobacz nadchodzące wprowadzenie produktu i oferty tutaj.
+Kalendarz uruchamiania produktów z [](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) kwietnia 2021 r. jest teraz dostępny w galerii zasobów Gotowość na operacje. Zobacz nadchodzące premiery i oferty produktów tutaj.
 
 ### <a name="next-steps"></a>Następne kroki
 
@@ -501,4 +501,4 @@ Przejrzyj kalendarz [uruchamiania produktu](https://partner.microsoft.com/resour
 
 ### <a name="questions"></a>Masz pytania?
 
-Jeśli masz dodatkowe pytania dotyczące tych ofert, sprawdź swoje Yammer społeczności.
+Aby uzyskać więcej pytań na temat tych ofert, sprawdź odpowiednie Yammer społeczności.
