@@ -10,11 +10,11 @@ ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 56884a5a6cbfbade881154275129c63dcd3456d8
-ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/23/2021
-ms.locfileid: "128312124"
+ms.locfileid: "128322498"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Jak są obliczane i wypłacane środki zarobione przez partnera
 
@@ -54,7 +54,7 @@ Aby uzyskać więcej informacji na temat uprawnień, zobacz Role i uprawnienia w
 
 PEC jest obliczany codziennie. Opłaty są opłacone za każdy dzień, w ramach których masz dostęp kwalifikujący się do PEC w każdej subskrypcji. Chociaż szczegóły PEC nie są wyświetlane na fakturze miesięcznej, zarobki PEC są uwzględniane w wierszu skorygowanych opłat netto na fakturze. Więcej szczegółów dotyczących PEC można znaleźć w pliku [dziennego użycia](daily-rated-usage-recon-files.md) i w pliku ponownego rozpoznania faktury miesięcznej.
 
-:::image type="content" source="images/advanced-specializations/recon-file.png" alt-text="Zrzut ekranu przedstawiający kolumny Partner Center pliku uzgodnień." border="false":::
+:::image type="content" source="images/advanced-specializations/recon-file.png" alt-text="Zrzut ekranu przedstawiający Partner Center pliku uzgodnień identyfikującego kolumny." border="false":::
 
 W poniższej tabeli opisano elementy PEC znalezione w pliku ponownego rozpoznania faktury miesięcznej. Wszystkie wartości są podane w USD, jak pokazano w kolumnie AI, PricingCurrency (AI, CennikCurrency).
 
@@ -99,14 +99,14 @@ W widoku Analiza kosztów będą wyświetlane koszty dla konta rozliczeniowego d
     Jeśli ta wartość to **False,** skojarzony koszt nie spełnił wymaganych uprawnień do środków lub zakupiona usługa nie kwalifikuje się do środków uzyskane przez partnerów.
 
 >[!NOTE]
->Zwykle czas użycia usług w usługach wynosi 8–24 godziny, Cost Management środki PEC zostaną wyświetlone w ciągu 48 godzin od czasu uzyskania dostępu w Azure Cost Management.
+>Zazwyczaj czas użycia usług w programie Cost Management wynosi 8–24 godziny, a środki PEC pojawią się w ciągu 48 godzin od czasu uzyskania dostępu w Azure Cost Management.
 
 Można również grupować i filtrować według właściwości **PartnerEarnedCreditApplied** przy użyciu funkcji Grupuj według **i** **Dodaj** filtr. Umożliwiają one przechodzenie do szczegółów kosztów z pec i kosztów, które nie mają zastosowania PEC.
 
 ## <a name="how-is-pec-paid"></a>Jak jest opłacana PEC?
 Zarobki w ramach PEC są uwzględniane w wierszu skorygowanych opłat netto na fakturze. Ilustruje **to** suma faktury pokazanej poniżej. Aby uzyskać szczegółowe informacje dotyczące korekty, zobacz plik uzgodnień faktury miesięcznej i plik dziennego użycia ocenianego na platformie Azure.
 
-:::image type="content" source="images/advanced-specializations/invoice.png" alt-text="Zrzut ekranu przedstawiający fakturę Partner Center z informacją, że szczegóły korekty są wyświetlane w plikach ponownego użycia i dziennym użyciu platformy Azure." border="false":::
+:::image type="content" source="images/advanced-specializations/invoice.png" alt-text="Zrzut ekranu przedstawiający fakturę Partner Center informujący, że szczegóły korekty są wyświetlane w plikach ponownego użycia i dziennym użyciu platformy Azure." border="false":::
 
 ## <a name="next-steps"></a>Następne kroki
 

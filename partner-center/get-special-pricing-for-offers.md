@@ -9,26 +9,26 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d5d6004299ebd8e5d94a51837e486b66a88b4aa1
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: ac0004b2197aca7c161216726361c946ebe86775
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247120"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128322476"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Sprzedaż w specjalistycznych branżach, takich jak edukacja, organizacje non profit i użytkownicy rządowi
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny | Agent sprzedaży
 
-Firma Microsoft oferuje specjalne, obniżone ceny dla wybranych grup klientów, w tym klientów edukacyjnych, klientów niedochodowych, małych firm i instytucji rządowych. Zanim będzie można zaoferować im specjalne ceny, zarówno Ty, jak i Twój klient muszą zostać zakwalifikowani. Te specjalne oferty cenowe są **obecnie** dostępne dla usług opartych na licencjach, takich jak Microsoft 365, Dynamics, Intune itp. i oprogramowanie bezterminowe. Nie jest ona dostępna dla subskrypcji oprogramowania ani usług platformy Azure.
+Firma Microsoft oferuje specjalne, obniżone ceny dla wybranych grup klientów, w tym klientów edukacyjnych, klientów niedochodowych, małych firm i instytucji rządowych. Aby można było zaoferować im specjalne ceny, zarówno Ty, jak i Twój klient muszą zostać zakwalifikowani. Te specjalne oferty cenowe są obecnie dostępne dla usług opartych na licencjach, takich jak Microsoft 365, Dynamics, Intune itp. i oprogramowanie bezterminowe.  Nie jest dostępna dla subskrypcji oprogramowania ani usług platformy Azure.
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>Wymagania dotyczące sprzedaży w wyspecjalizowanych branżach
 
 |**Cennik specjalny**   |**Wymagane kwalifikacje odsprzedawcy**   |**Wymagane kwalifikacje klienta**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Education   |Brak   | Musi być [kwalifikowanym użytkownikiem edukacyjnym](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
-| Us Federal Government [— Office Government Community Cloud (GCC) High i DoD](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod)    |Aby sprzedawać Azure Government, zarejestruj się przy użyciu formularza [weryfikacji chmury](https://azuregov.microsoft.com/csp)dla instytucji rządowych USA firmy Microsoft. Sprzedaż subskrypcji opartych na licencjach jest dostępna tylko po zaproszeniu.|   Musi być [kwalifikowaną jednostką rządową USA](https://azure.microsoft.com/global-infrastructure/government/how-to-buy/) |
-| Rząd federalny USA — GCC umiarkowane środowisko | Musi kwalifikować się jako praca z klientami rządowymi USA, wypełniając formularz. Poinformuj nas o swojej organizacji partnerskiej [programu Direct CSP.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?ReqType=CSPPartner&rtc=1) Aby uzyskać instrukcje krok po kroku, odwiedź stronę Sell Office 365 dla instytucji rządowych GCC for CSP subscriptions to qualified customers (Sprzedaż subskrypcji [CSP dla kwalifikowanych klientów)](/partner-center/csp-gcc-overview) | Musi być [kwalifikowaną jednostką rządową USA.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?rtc=1) Aby uzyskać instrukcje krok po kroku, odwiedź stronę Sell Office 365 dla instytucji rządowych GCC for CSP subscriptions to qualified customers (Sprzedaż subskrypcji [CSP dla kwalifikowanych klientów)](/partner-center/csp-gcc-overview)  |
+| Rząd federalny USA [— środowiska Office Government Community Cloud (GCC) High i DoD](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod)    |Aby sprzedawać Azure Government, zarejestruj się przy użyciu formularza [weryfikacji chmury](https://azuregov.microsoft.com/csp)dla instytucji rządowych USA firmy Microsoft. Sprzedaż subskrypcji opartych na licencjach jest dostępna tylko po zaproszeniu.|   Musi być [kwalifikowaną jednostką rządową USA](https://azure.microsoft.com/global-infrastructure/government/how-to-buy/) |
+| Rząd federalny USA — GCC umiarkowane środowisko | Musi kwalifikować się jako praca z klientami rządowymi USA, wypełniając formularz Poinformuj nas o swojej organizacji partnerskiej [programu Direct CSP.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?ReqType=CSPPartner&rtc=1) Aby uzyskać instrukcje krok po kroku, odwiedź stronę Sell Office 365 dla instytucji rządowych GCC for CSP subscriptions to qualified customers (Sprzedaż subskrypcji [CSP dla kwalifikowanych klientów)](./csp-gcc-overview.md) | Musi być [kwalifikowaną jednostką rządową USA.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?rtc=1) Aby uzyskać instrukcje krok po kroku, odwiedź stronę Sell Office 365 dla instytucji rządowych GCC for CSP subscriptions to qualified customers (Sprzedaż subskrypcji [CSP dla kwalifikowanych klientów)](./csp-gcc-overview.md)  |
 | Wszystkie inne jednostki rządowe | Brak. Partnerzy muszą aprowizć oferty "firmowe". | Brak
 Non profit  |Brak|Zarejestruj się w programie [dla organizacji non profit firmy Microsoft,](https://nonprofit.microsoft.com/#/register) aby kwalifikować się do tego programu.   |
 
@@ -69,11 +69,11 @@ Reguły zakupu dotyczące sprzedaży specjalnych ofert dla klientów:
 |:----------------------------|:---------------------------------|:------------------------------------------|
 | Commercial |Commercial | Non-profit, Education lub Government Community Cloud |
 | Non-profit |Komercyjne, niedochodowe | Edukacja lub Government Community Cloud |
-| Education |Komercyjna, Edukacja | Organizacje niedochodowe lub Government Community Cloud |
+| Education |Komercyjne, edukacyjne | Organizacje niedochodowe lub Government Community Cloud |
 | Government Community Cloud |Government Community Cloud | Non-profit, Education lub Commercial |
 | Jednostka należąca do stanu  | Commercial  | Non-profit, Education lub Government Community Cloud  |
-| Jeśli jednostka edukacyjna i jednostka należąca do stanu | Komercyjna, Edukacja | Organizacje niedochodowe lub Government Community Cloud |
-| Jeśli jednostka należąca do stanu i Government Community Cloud | Government Community Cloud | Non-profit, Education lub Commercial |
+| Jeśli jednostka edukacyjna i jednostka należąca do stanu | Komercyjne, edukacyjne | Organizacje niedochodowe lub Government Community Cloud |
+| Jeśli jednostka należąca do Government Community Cloud | Government Community Cloud | Non-profit, Education lub Commercial |
 
 ## <a name="next-steps"></a>Następne kroki
 

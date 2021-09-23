@@ -8,11 +8,11 @@ ms.date: 08/20/2021
 ms.author: yonits
 author: yonits
 ms.openlocfilehash: c5f06fb88a29def9df8d8cc2936f9eea91d8b2b4
-ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/23/2021
-ms.locfileid: "128312181"
+ms.locfileid: "128322054"
 ---
 # <a name="saas-subscription-lifecycle-management"></a>Zarządzanie cyklem życia subskrypcji SaaS
 
@@ -30,9 +30,9 @@ Gdy kupujesz ofertę SaaS od firmy Azure Marketplace, tworzy ona subskrypcję op
 ## <a name="differences-between-saas-and-saas-classic-lists-of-resources-in-the-azure-portal"></a>Różnice między listami zasobów SaaS i SaaS Classic w Azure Portal
 
 Różnica między tymi dwoma typami polega na tym, że model SaaS Classic umożliwia znalezienie subskrypcji SaaS, które zostały utworzone w ramach dzierżawy, a nie w grupie zasobów.
-Jeśli subskrypcja SaaS została zakupiona w 2021 Azure Portal lutym 2021 r., została ona utworzona w ramach dzierżawy i można ją znaleźć w obszarze SaaS Classic. Wszystkie zakupy dokonane w Microsoft AppSource znajdują się na tej liście.
+Jeśli subskrypcja SaaS została zakupiona w 2021 Azure Portal w lutym 2021 r., została ona utworzona w ramach dzierżawy i można ją znaleźć w obszarze SaaS Classic. Wszystkie zakupy dokonane w Microsoft AppSource znajdują się na tej liście.
 
-Jeśli przed lutym 2021 r. zakupiono subskrypcję SaaS w ramach usługi Azure Portal i chcesz przenieść ją z dzierżawy do grupy zasobów (zalecane), przejdź do subskrypcji SaaS w sekcji **SaaS Classic** i wybierz pozycję Przenieś do **grupy zasobów.** Subskrypcje można przenosić tylko w stanie **Oczekiwanie** **lub** Aktywne. Po przeniesioniu subskrypcja SaaS jest teraz wyświetlana w widoku **SaaS,** a nie **w modelu SaaS Classic.** Nie można przenieść subskrypcji SaaS do grupy zasobów, jeśli została zakupiona w usłudze AppSource.
+Jeśli przed lutym 2021 r. zakupiono subskrypcję SaaS w ramach usługi Azure Portal i chcesz przenieść ją z dzierżawy do grupy zasobów (zalecane), przejdź do subskrypcji SaaS w sekcji Model **SaaS Classic** i wybierz pozycję Przenieś do **grupy zasobów.** Subskrypcje można przenosić tylko w stanie **Oczekiwanie** **lub** Aktywne. Po przeniesioniu subskrypcja SaaS jest teraz wyświetlana w widoku **SaaS,** a nie **w modelu SaaS Classic.** Nie można przenieść subskrypcji SaaS do grupy zasobów, jeśli została zakupiona w usłudze AppSource.
 
 To przeniesienie oferuje następujące korzyści:
 
@@ -82,11 +82,11 @@ Rozliczenia cykliczne umożliwiają zarządzanie odnawianiem subskrypcji SaaS. G
 
 ### <a name="view-billing"></a>Wyświetlanie rozliczeń
 
-Wyświetlanie faktur dla subskrypcji platformy Azure i Azure Marketplace zakupionych w ramach tej subskrypcji. W przypadku usługi SaaS zakupionej w portalu zapoznaj się ze  stroną rozliczeń na stronie subskrypcji SaaS w sekcji Rozliczenia, która przekieruje Cię do **Cost Management**.
+Wyświetlanie faktur dla subskrypcji platformy Azure i Azure Marketplace zakupionych w ramach tej subskrypcji. W przypadku usługi SaaS zakupionej w portalu zapoznaj się ze  stroną rozliczeń na stronie subskrypcji SaaS w sekcji Rozliczenia, która przekieruje Cię do **witryny Cost Management**.
 
-Cost Management pomaga zrozumieć podział faktur, zarządzać kontem rozliczeniowym i subskrypcjami, monitorować/kontrolować wydatki na platformę Azure i optymalizować użycie zasobów. Umożliwia ona analizowanie kosztów, tworzenie budżetów i zarządzanie nimi i nie tylko. Na przykład umożliwia śledzenie użycia miernika niestandardowego (w przypadku subskrypcji SaaS utworzonych po lutym 2021 r. lub przeniesionych do grupy zasobów). Więcej informacji na temat zarządzania kosztami można znaleźć [Azure Cost Management + Billing dokumentacji.](/azure/cost-management-billing/)
+Cost Management pomaga zrozumieć podział faktur, zarządzać kontem rozliczeniowym i subskrypcjami, monitorować/kontrolować wydatki na platformę Azure i optymalizować użycie zasobów. Umożliwia ona analizowanie kosztów, tworzenie budżetów i zarządzanie nimi i nie tylko. Na przykład umożliwia śledzenie użycia miernika niestandardowego (w przypadku subskrypcji SaaS utworzonych po lutym 2021 r. lub przeniesionych do grupy zasobów). Dowiedz się więcej o zarządzaniu kosztami na [stronie Azure Cost Management + Billing dokumentacji.](/azure/cost-management-billing/)
 
-Jeśli zakup został dokonany za pośrednictwem Microsoft AppSource, możesz wyświetlić faktury w Centrum administracyjnym firmy Microsoft w obszarze **& płatności.**
+Jeśli zakup został dokonany za pośrednictwem Microsoft AppSource, możesz wyświetlić faktury w Centrum administracyjnym firmy Microsoft w obszarze & **płatności.**
 
 ### <a name="cancel-subscription"></a>Anulowanie subskrypcji
 

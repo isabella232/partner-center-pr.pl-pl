@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.openlocfilehash: 0521c7fde81663b9eb7cd89344ee2432e8a1ea31
-ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/23/2021
-ms.locfileid: "128312216"
+ms.locfileid: "128322417"
 ---
 # <a name="how-and-when-to-request-a-credit-from-microsoft"></a>Jak i kiedy zażądać środków od firmy Microsoft
 
@@ -26,7 +26,7 @@ W tym artykule wyjaśniono, Dostawca rozwiązań w chmurze (CSP) bezpośredni i 
 
 - [Zduplikowane zamówienia](#duplicate-orders-credit)
 
-- [Problemy z usługami (problemy z umową na poziomie usług)](#service-outages-service-level-agreement-issues)
+- [Problemy z usługami (problemy z umową poziomu usług)](#service-outages-service-level-agreement-issues)
 
 - Problemy techniczne
 
@@ -36,7 +36,7 @@ W tym artykule wyjaśniono, Dostawca rozwiązań w chmurze (CSP) bezpośredni i 
 
 Żądania środków są akceptowane tylko od dostawców bezpośrednich i pośrednich dostawców CSP. Żądania od odsprzedawców pośrednich nie są akceptowane.
 
-[Tworzenie żądania obsługi dla klienta w Microsoft Azure](./report-problems-on-behalf-of-a-customer.md) jest oddzielnym procesem.
+[Tworzenie żądania obsługi dla klienta w Microsoft Azure](./report-problems-on-behalf-of-a-customer.md) to oddzielny proces.
 
 ## <a name="requesting-a-credit"></a>Żądanie środków
 
@@ -67,13 +67,13 @@ W przypadku żądań środków na starsze oferty usług Microsoft 365 lub Micros
 
 - Anulowanie subskrypcji w ciągu 30 dni od zakupu jest zwracane w 100% bez konieczności tworzenia żądania obsługi. Środki są wyświetlane w pliku faktury/uzgodnień wystawionym po wstrzymaniu subskrypcji.
 
-- Jeśli zawiesisz subskrypcję w ciągu od 2 do 12 miesięcy, otrzymasz proporcjonalnie. Aby otrzymać pełny zwrot kosztów od początku subskrypcji, żądanie musi zostać przesłane w ciągu **90** dni od zakupu, z wyjątkiem:
+- Jeśli zawiesisz subskrypcję w miesiącach od 2 do 12, otrzymasz proporcjonalnie. Aby otrzymać pełny zwrot kosztów od początku subskrypcji, żądanie musi zostać przesłane w ciągu **90** dni od zakupu, z wyjątkiem:
 
   - Microsoft Power BI Premium P1: Żądanie musi zostać przesłane w ciągu **siedmiu dni w** celu zwrotu 100%. Po upływie siedmiu dni koszty stałe są odejmowane od środków.
 
-  - Microsoft 365 A1: pełne środki są udostępniane tylko wtedy, gdy żądanie zostanie przesłane w ciągu **30**  dni od zakupu i żaden użytkownik nie zostanie przypisany do subskrypcji. Po upływie 30 dni od zakupu nie są wystawiane żadne zwroty.
+  - Microsoft 365 A1: Pełne środki są udostępniane tylko wtedy, gdy żądanie zostanie przesłane w ciągu **30**  dni od zakupu i żaden użytkownik nie zostanie przypisany do subskrypcji. Po upływie 30 dni od zakupu nie są wystawiane żadne zwroty.
 
-### <a name="duplicate-orders-credit"></a>Zduplikowane zamówienia środków
+### <a name="duplicate-orders-credit"></a>Zduplikowane zamówienia kredytowe
 
 W przypadku żądań środków na zduplikowane licencje (na przykład gdy klient ma zduplikowane licencje po migracji do innej dzierżawy lub do innego partnera CSP):
 
@@ -85,15 +85,15 @@ W przypadku żądań środków na zduplikowane licencje (na przykład gdy klient
 
 - Nowe oferty są kupowane po bieżącej cenie.
 
-### <a name="service-outages-service-level-agreement-issues"></a>Problemy z usługami (problemy z umową na poziomie usług)
+### <a name="service-outages-service-level-agreement-issues"></a>Problemy z usługami (problemy z umową poziomu usług)
 
 W przypadku żądań środków na 300 yjść z usług:
 
-- Środki firmy Microsoft na umowy SLA są określane na podstawie usług, których to miało wpływ. Jeśli na przykład klient ma pakiet Office 365, ale wystąpiła tylko SharePoint, kredyt SLA jest zatwierdzany tylko dla SharePoint, a nie całego planu klienta
+- Środki na umowy SLA od firmy Microsoft są określane na podstawie usług, których to miało wpływ. Jeśli na przykład klient ma pakiet Office 365, ale wystąpiła tylko SharePoint, kredyt SLA jest zatwierdzany tylko dla SharePoint, a nie całego planu klienta
 - Środki są proporcjonalnie oparte na objętej usłudze i czasie trwania błędu. Aby wyświetlić typy scenariuszy, które kwalifikują się do środków w umowy SLA, zobacz dokument Online [Services Consolidated SLA (Skonsolidowana umowa SLA usług online).](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services) Te informacje dotyczą również usług sprzedawanych za pośrednictwem programu Dostawca rozwiązań w chmurze (CSP).
 - Żądania środków należy przesłać do końca miesiąca kalendarzowego następującego po miesiącu, w którym wystąpiło zdarzenie. Jeśli na przykład zdarzenie miało miejsce 15 lutego, do 31 marca musimy otrzymać roszczenie i wszystkie wymagane informacje. (Więcej szczegółów można znaleźć w *formularzu żądania środków lub zwrotu kosztów).*
 
-- Musisz przedstawić dowód, że błąd dotyczy klienta i że zażądał środków w umowach SLA. Należy podać identyfikator dzierżawy klienta i identyfikator outage (z Service Health nawigacyjnego). Wiadomość e-mail klienta przesłana jako dowód musi pochodzić z domeny objętej dzierżawy. (Wiadomość e-mail z adresu osobistego jest nie do zaakceptowania).
+- Musisz przedstawić dowód, że na klienta miała wpływ ta owa przesłonia i że zażądał środków w umowach SLA. Należy podać identyfikator dzierżawy klienta i identyfikator outage (z Service Health pulpitu nawigacyjnego). Wiadomość e-mail klienta przesłana jako dowód musi pochodzić z domeny objętej dzierżawy. (Wiadomość e-mail z adresu osobistego jest nie do zaakceptowania).
 
 > [!NOTE]
 > Zdarzenia doradcze zazwyczaj nie kwalifikują się do środków w umowach SLA. Zdarzenie opublikowane na pulpicie nawigacyjnym usługi Service Health  wskazuje, że może to mieć wpływ na dzierżawę i reprezentuje najlepsze informacje, które firma Microsoft ma w czasie publikowania. Dane strony kondycji reprezentują ogólną dostępność usługi. Wpływ poszczególnych usług, środki zaradcze i rozwiązania mogą się różnić. Aby uzyskać więcej informacji, możesz przejrzeć końcowy przegląd zdarzenia po zdarzeniu i po zdarzeniu. Aby uzyskać więcej informacji na temat kondycji usługi, zobacz [Jak Microsoft 365 kondycji usługi](/microsoft-365/enterprise/view-service-health).
@@ -106,7 +106,7 @@ Przed [przesłaniem żądania środków w umowy SLA](https://www.microsoft.com/l
 
 - Identyfikator GUID dzierżawy klienta
 - Identyfikator [zdarzenia outage](#outage-incident-identifier)
-- Dowód na to, że na klienta miała wpływ owa niepamięć i zażądano środków w umowach SLA.
+- Dowód na to, że błąd miał wpływ na klienta i zażądał środków w umowach SLA.
 - Czy subskrypcje, których to miało wpływ, zostały zakupione za pośrednictwem CSP? (Tak lub nie)
 
 ### <a name="evidence-that-proves-customer-impact"></a>Dowód, który potwierdza wpływ na klienta
