@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
-description: Dowiedz się, czym są numery identyfikatorów rejestracji i czy są one obowiązkowe dla Twojego kraju.
+description: Dowiedz się, jakie są numery identyfikatorów rejestracji i czy są one obowiązkowe dla Twojego kraju.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 285a3c880d29f28d7dbe02224fe0bb139bd0cd04
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 69e0d7d191d8f0895811d26279e6e2747e7953fc
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246261"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "128135446"
 ---
 # <a name="registration-id-number-information"></a>Informacje o numerze identyfikatora rejestracji
 
@@ -26,8 +26,8 @@ Jeśli jesteś dostawcą pośrednim, partnerem rozliczania bezpośredniego lub o
 
 | **Kraj lub region** | **Szczegóły** |
 |:--|:--|
-| **Armenia** | NUMER IDENTYFIKACYJNY — numer identyfikacyjny podatku<br>Numer podatkowy (VAT) o wartości dodanej — znany również jako numer rejestracji VAT. Ta wartość jest unikatowym numerem identyfikującym osobę prawna (biznesową) lub nieuprawnienianą osobę prawna zarejestrowaną na potrzeby podatku VAT.<br>Numer usługi publicznej |
-| **Azerbejdżan**  | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) — numer identyfikacji podatkowej<br>NUMER IDENTYFIKACYJNY — numer identyfikacyjny podatku |
+| **Armenia** | CELU — numer nip. identyfikacji podatkowej<br>Numer podatkowy (VAT) o wartości dodanej — znany również jako numer rejestracji VAT. Ta wartość jest unikatowym numerem identyfikującym osobę prawna (biznesową) lub osobę niepowiązywistą, która jest zarejestrowana do podatku VAT.<br>Numer usługi publicznej |
+| **Azerbejdżan**  | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) — numer identyfikacji podatkowej<br>CELU — numer nip. identyfikacji podatkowej |
 | **Białoruś**  | UNP — ta wartość jest dziewięciocyfrową liczbą (liczbową dla organizacji, alfanumeryczną dla użytkowników indywidualnych), która zawiera identyfikator regionu, numer seryjny na region i cyfrę kontrolną. |
 |**Brazylia** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) — (Cadastro Nacional da Pessoa Jurdica lub National Registry of Legal Entities). Ta wartość jest numerem identyfikacyjnym wystawionym dla firm w Brazylii przez Departament Federalnego Przychodu Brazylii  |
 | **Chiny** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) — numer identyfikacji podatkowej |
@@ -47,15 +47,15 @@ Jeśli jesteś dostawcą pośrednim, partnerem rozliczania bezpośredniego lub o
 | **Tajlandia** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — numer identyfikacji podatkowej |
 | **Turcja** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) — numer identyfikacji podatkowej<br>NIN |
 | **Ukraina**  | EGRPOU<br>EDRPOU — identyfikator lokalny |
-| **Zjednoczone Emiraty Arabskie** | Identyfikator podatkowy<br>[Numer VAT](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) — znany również jako numer rejestracji VAT. Ta wartość jest unikatowym numerem identyfikującym osobę prawna (biznesową) lub nieuprawnienianą osobę prawna zarejestrowaną na potrzeby podatku VAT. |
-| **Stany Zjednoczone** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) — numer identyfikacyjny pracodawcy |
+| **Zjednoczone Emiraty Arabskie** | Identyfikator podatkowy<br>[Numer VAT](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) — znany również jako numer rejestracji VAT. Ta wartość jest unikatowym numerem identyfikującym osobę prawna (biznesową) lub osobę niepowiązywistą, która jest zarejestrowana do podatku VAT. |
+| **Stany Zjednoczone** | [EIN](https://www.irs.gov/taxtopics/tc755) — numer identyfikacyjny pracodawcy |
 | **Uzbekistan**  | NUMER IDENTYFIKACYJNY — numer identyfikacji podatkowej |
 | **Wietnam** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — numer identyfikacji podatkowej |
-| **Wenezuela** | HH — jest numerem podatkowym ("Registro de Identificaty Fiscal") |  
+| **Wenezuela** | HH — jest numerem podatkowym ("Registro de Identifica tax") |  
 
 ### <a name="mandatory-or-optional"></a>Obowiązkowy lub opcjonalny
  
-W przypadku krajów, w których numer rejestracji jest obowiązkowy, etykieta powyżej pola tekstowego wskazuje, jaki typ numeru jest wymagany w zależności od kraju, na przykład NUMER NIP (NIP) lub TRN (numer rejestracji ruchu).
+W przypadku krajów, w których numer rejestracji jest obowiązkowy, etykieta powyżej pola tekstowego wskazuje, jaki typ numeru jest wymagany w zależności od kraju, na przykład NIP (nip) lub TRN (numer rejestracji ruchu).
 
 Jeśli numer rejestracji jest opcjonalny, wprowadź identyfikator rejestracji firmy. Nie wprowadzaj identyfikatora osobistego.
 
