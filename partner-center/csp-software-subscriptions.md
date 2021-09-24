@@ -4,36 +4,36 @@ ms.topic: how-to
 ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Dowiedz się, jak partnerzy w programie CSP mogą używać usług Partner Center do kupowania, sprzedawania i anulowania wystąpień zarezerwowanych platformy Azure i subskrypcji serwera dla klientów oraz zarządzania nimi.
+description: Dowiedz się, jak partnerzy w programie CSP mogą używać usługi Partner Center do kupowania, sprzedawania i anulowania wystąpień zarezerwowanych platformy Azure i subskrypcji serwera dla klientów oraz zarządzania nimi.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 3123313525fb245db2abbe3175cd820b53c41898
-ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128312211"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128366071"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sprzedaż subskrypcji oprogramowania za pośrednictwem programu Dostawca rozwiązań w chmurze (CSP)
 
-**Odpowiednie role:** Agent administracyjny | Administrator globalny
+**Odpowiednie role:** Administrator | Administrator globalny
 
 Dzięki rezerwacjom platformy Azure i subskrypcjom serwera (Windows Server i SQL Server) partnerzy w programie CSP mogą lepiej rozwiązać rosnące zapotrzebowanie klientów na bardziej ekonomiczne rozwiązania do obsługi wysoce przewidywalnych i trwałych obciążeń w chmurze. 
 
-Możesz teraz pozyskiwać i aprowizować rezerwacje platformy Azure oraz subskrypcje serwera i zarządzać nimi w imieniu klientów komercyjnych za pośrednictwem usług Partner Center i Azure Portal, korzystając z zalet Korzyść użycia hybrydowego platformy Azure.
+Możesz teraz pozyskiwać i aprowizować rezerwacje platformy Azure oraz subskrypcje serwera i zarządzać nimi w imieniu klientów komercyjnych za pośrednictwem usług Partner Center i Azure Portal, korzystając z Korzyść użycia hybrydowego platformy Azure.
 
-Dzięki Korzyść użycia hybrydowego platformy Azure uzyskać większą wartość z licencji programu Windows Server i zaoszczędzić do 40% na maszynach wirtualnych. Korzyści można wykorzystać w przypadku licencji Windows Server Datacenter i Standard Edition objętych pakiet Software Assurance. W zależności od wersji można przekonwertować lub ponownie użyć licencji, aby uruchamiać maszyny wirtualne programu Windows Server na platformie Azure i płacić niższą podstawową stawkę za obliczenia (na przykład stawki za maszyny wirtualne z systemem Linux).
+Dzięki Korzyść użycia hybrydowego platformy Azure zyskasz większą wartość z licencji serwera Windows Server i zaoszczędź do 40% na maszynach wirtualnych. Z tej korzyści można skorzystać w przypadku licencji Windows Server Datacenter i Standard Edition objętych pakiet Software Assurance. W zależności od wersji można przekonwertować lub ponownie użyć licencji do uruchamiania maszyn wirtualnych programu Windows Server na platformie Azure i płacić niższą podstawową stawkę za obliczenia (na przykład stawki za maszyny wirtualne z systemem Linux).
 
-## <a name="azure-reservations-unavailable-markets"></a>Rezerwacje platformy Azure są niedostępne na rynkach
+## <a name="azure-reservations-unavailable-markets"></a>Rezerwacje platformy Azure niedostępne na rynkach
 
 >[!IMPORTANT]
 >Rezerwacje platformy Azure **nie są** dostępne na następujących rynkach:  
 >  
 > **Niedostępne rynki (w kolejności alfabetycznej)**
 >
-> |A do Gi   | Gr do Pal  | Pap–Z |
+> |A do Gi   | Gr do Pal  | Pap do Z |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | Wyspy Alandzkie     | Grenlandia     | Papua Nowa Gwinea     |
 > | Samoa Amerykańskie     | Grenada     | Wyspy Pitcairn     |
@@ -46,7 +46,7 @@ Dzięki Korzyść użycia hybrydowego platformy Azure uzyskać większą wartoś
 > | Benin     | Haiti       | Saint Vincent i Grenadyny     |
 > | Bhutan     | Wyspy Heard i McDonalda       | Samoa     |
 > | Bonaire     | Wyspa Man     | San Marino     |
-> | Wyspa Bouveta     | Jan Mayen     | São Tomé i Prüncipe   |
+> | Wyspa Bouveta     | Jan Mayen     | São Tomé i Práncipe   |
 > | Brytyjskie Terytorium Oceanu Indyjskiego       | Jersey     | Seszele   |
 > | Brytyjskie Wyspy Dziewicze     | Kiribati       | Sierra Leone   |
 > | Burkina Faso     | Kosowo     | Sint Eustatius     |
@@ -55,7 +55,7 @@ Dzięki Korzyść użycia hybrydowego platformy Azure uzyskać większą wartoś
 > | Republika Środkowoafrykańska     | Liberia     | Somalia     |
 > | Czad     | Madagaskar     | Georgia Południowa i Sandwich Południowy     |
 > | Chiny     | Malawi     | Sudan Południowy     |
-> | Wyspa Bożego Narodzenia     | Malediwy     | StLiga, Ascension, Tristan da Cunha     |
+> | Wyspa Bożego Narodzenia     | Malediwy     | StRowa, Ascension, Tristan da Cunha     |
 > | Wyspy Kokosowe (Keelinga)     | Mali     | Surinam     |
 > | Komory     | Wyspy Marshalla     | Svalbard     |
 > | Kongo     | Martynika     | Suazi     |
@@ -85,10 +85,10 @@ Aby kupić subskrypcje oprogramowania w imieniu klienta:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktywowanie subskrypcji oprogramowania i zarządzanie nimi
 
-Po zakupie oprogramowania Ty lub Twoi klienci muszą je pobrać (partnerzy korzystający z usługi Partner Center; klienci korzystający z centrum Administracja Microsoft 365). Użyj poniższej procedury w tym celu. Ważne jest, aby zrozumieć czynniki ryzyka związane z kopiowaniem linków i pobieraniem oprogramowania. Aby uzyskać więcej informacji, zobacz **używanie Partner Center** do pobierania oprogramowania klienta i kluczy licencji w [przewodniku Partner Center New Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
+Po zakupie oprogramowania Ty lub Twoi klienci muszą je pobrać (partnerzy korzystający z usługi Partner Center; klienci korzystający z centrum Administracja Microsoft 365). Użyj poniższej procedury w tym celu. Ważne jest, aby zrozumieć czynniki ryzyka związane z kopiowaniem linków i pobieraniem oprogramowania. Aby uzyskać więcej informacji, zobacz **Używanie** usługi Partner Center do pobierania oprogramowania klienta i kluczy licencji w Partner Center [New Commerce Operations Guide](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
 >[!NOTE]
->Musisz być agentem administratora w Partner Center, aby uzyskać link do kluczy i pobierania.
+>Musisz być agentem administratora w Partner Center, aby uzyskać link do kluczy i plików do pobrania.
 
 1. Przejdź do strony szczegółów klienta, a następnie wybierz pozycję **Oprogramowanie**. Zostanie wyświetlona lista wszystkich programów zakupionych w imieniu klienta.
 
@@ -114,11 +114,11 @@ Mimo że KMS kluczy nie są dostępne w programie CSP, nadal można przenieść 
 
 Jeśli klient wdroży nowy kod MAK w tym czasie ręcznie lub w sposób skryptowy (przy użyciu polecenia ), nie `slmgr.vbs` wystąpi przestój. Jeśli klient nie wdroży nowego zestawu MAK w tym czasie i spróbuje odnowić licencję później, urządzenie może zostać ograniczone lub zablokowane w niektórych funkcjach do momentu ponownego aktywowania. 
 
-Aby uzyskać więcej informacji, przejdź do [tematu Activate clients running Windows 10 (Windows 10) - Windows Deployment](/windows/deployment/volume-activation/activate-windows-10-clients-vamt#key-management-service-activation-renewal)(Aktywowanie klientów Windows 10 (Windows 10) — Windows Deployment . Aby uzyskać pomoc w zakresie tego typu wdrożenia, możesz przesłać żądanie technicznych usług [przedsprzedażowych i wdrożeniowych.](/partner-center/technical-benefits#submit-a-technical-presales-and-deployment-services-request)
+Aby uzyskać więcej informacji, przejdź do [tematu Activate clients running Windows 10 (Windows 10) - Windows Deployment (Aktywowanie](/windows/deployment/volume-activation/activate-windows-10-clients-vamt#key-management-service-activation-renewal)klientów z systemem Windows 10 — Windows Wdrożenia). Aby uzyskać pomoc w zakresie tego typu wdrożenia, możesz przesłać żądanie technicznych usług [przedsprzedażowych i wdrożeniowych.](/partner-center/technical-benefits#submit-a-technical-presales-and-deployment-services-request)
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Pobieranie subskrypcji serwera i klucze licencji dostępne za pośrednictwem Administracja Microsoft 365 Center dla klientów 
 
-Klienci będą mogli uzyskać klucze licencji i pliki do pobrania subskrypcji serwera CSP z Administracja Microsoft 365 Center. Aby wyświetlić klucze licencji i pliki do pobrania subskrypcji serwera CSP, klient musi przejść do strony Administracja Microsoft 365 Center > **Billing > Your products > Software (Twoje** produkty > oprogramowania). Aby uzyskać więcej informacji, zobacz [kartę Oprogramowanie w obszarze Rozliczenia](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
+Klienci będą mogli uzyskać klucze licencji i pliki do pobrania subskrypcji serwera CSP z Administracja Microsoft 365 Center. Aby wyświetlić klucze licencji i pliki do pobrania subskrypcji programu CSP, klient musi przejść do strony Administracja Microsoft 365 Center > **Billing > Your products > Software (Twoje** produkty > oprogramowania). Aby uzyskać więcej informacji, zobacz [kartę Oprogramowanie w obszarze Rozliczenia](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Wyświetlanie aktywności związanej z dostępem do klucza oprogramowania i pobieraniem oprogramowania
 
@@ -192,7 +192,7 @@ Po anulowaniu zakupu:
 
 Jeśli próbowano anulować zakup oprogramowania za pośrednictwem usługi Partner Center ale podano więcej informacji i wypełniono formularz wniosku o pomoc techniczną dla klientów, następujące kroki mogą pomóc:
 
-1. Po wybraniu linku **do żądania obsługi klienta** w oknie Anuluj zakup zostanie otwarta strona Zgłoś problem **Partner Center** klienta.
+1. Po wybraniu linku **do żądania obsługi klienta** w oknie Anuluj zakup zostanie otwarta strona Zgłoś problem **Partner Center** pomocy technicznej.
 
 2. W **obszarze** Szczegóły na liście Typ problemu wybierz pozycję **Zakup/zwrot CSP w imieniu klientów.**
 
@@ -214,5 +214,5 @@ Jeśli próbowano anulować zakup oprogramowania za pośrednictwem usługi Partn
 ## <a name="next-steps"></a>Następne kroki
 
 - [Przewodnik po zamawianiu i realizacji za pośrednictwem Partner Center](https://partner.microsoft.com/resources/detail/guide-to-ordering-and-fulfillment-through-partner-center-pdf)
-- [Używanie Partner Center do sprzedawania subskrypcji klientów produktom platformy handlowej](sell-marketplace-products.md)
+- [Używanie Partner Center do sprzedawania subskrypcji klientów produktom komercyjnej platformy handlowej](sell-marketplace-products.md)
 - [Przypisywanie subskrypcji platformy Azure do klientów w Partner Center](assign-azure-subscriptions.md)

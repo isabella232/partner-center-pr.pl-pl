@@ -1,6 +1,6 @@
 ---
-title: Odrzucone roszczenia dotyczące współpracy
-description: Zrozumienie odrzuconych roszczeń dotyczących współpracy i sposobu zakwestionowania
+title: Odrzucone oświadczenia dotyczące współpracy
+description: Understand the rejected co-op claims and how to dispute (Opis odrzuconych roszczeń dotyczących współpracy i jak je zakwestionować)
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
@@ -9,13 +9,13 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.date: 10/29/2020
 ms.openlocfilehash: 7f1d21aa673ef3921f92fb0b0eb50e05a1868cce
-ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
+ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128312437"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128367131"
 ---
-# <a name="rejected-co-op-claims"></a>Odrzucone roszczenia dotyczące współpracy
+# <a name="rejected-co-op-claims"></a>Odrzucone oświadczenia dotyczące współpracy
 **Odpowiednie role:** Zachęty dla administratorów | Zachęty użytkownika
 
 Jeśli materiały przesłane wraz z roszczeniem dotyczącym współpracy zostaną uznane za niewystarczające, roszczenie zostanie odrzucone. Przyczyny odrzucenia można wyświetlić w polu **Historia** na stronie roszczeń dotyczących współpracy. Aby zakwestionować odrzucenie, użyj następującej procedury:
@@ -24,9 +24,9 @@ Jeśli materiały przesłane wraz z roszczeniem dotyczącym współpracy zostan�
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 
-2. W **obszarze Zachęty** wybierz pozycję **Zarządzanie współoperacyjnością.**
+2. W **obszarze Zachęty** wybierz **pozycję Zarządzanie współoperacyjnością.**
 
-3. Wybierz roszczenie dotyczące współpracy, które chcesz zakwestionować. Zostanie otwarta strona roszczenia współpracy.
+3. Wybierz roszczenie dotyczące współpracy, które chcesz zakwestionować. Zostanie otwarta strona roszczenia do współpracy.
 
 4. W dolnej części strony wybierz pozycję **Zakwestionuj**.
 

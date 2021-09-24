@@ -14,7 +14,7 @@ ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322401"
+ms.locfileid: "128326422"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Operacje zbiorcze dotyczące możliwości współpracy sprzedaży przy użyciu plików wartości rozdzielanych przecinkami (CSV)
 
@@ -27,10 +27,10 @@ Operacje zbiorcze w Centrum partnerskim pomagają firmie eksportować i importow
 
 ## <a name="export-co-sell-opportunities"></a>Eksportowanie możliwości wspólnej sprzedaży
 
-Poniższe informacje zawierają opis funkcji eksportowania:
+Poniżej opisano funkcje eksportowania:
 
 - Klikając przycisk eksportu, można wyeksportować maksymalnie **5000** **rekordów.**
-- Pobierane transakcje będą oparte na poziomach dostępu. Administratorzy poleceń i użytkownicy poleceń mogą uzyskać różne wyniki w zależności od zakresu i dołączania ich jako członkowie zespołu do transakcji. Dowiedz się więcej o [uprawnieniach poleceń](permissions-overview.md#manage-referrals).
+- Pobierane transakcje będą oparte na poziomach dostępu. Administratorzy poleceń i użytkownicy poleceń mogą uzyskać różne wyniki w zależności od ich zakresu i dołączenia jako członkowie zespołu w transakcji. Dowiedz się więcej o [uprawnieniach poleceń](permissions-overview.md#manage-referrals).
 - Funkcja eksportu uwzględnia bieżącą kartę na stronie możliwości współpracy sprzedaży i zastosowane filtry.
 - Zostanie wygenerowany plik CSV ze wszystkimi danymi na podstawie zastosowanych filtrów.
 - Pobieranie rekordów może potrwać do jednej minuty.
@@ -47,7 +47,7 @@ Poniższe informacje zawierają opis funkcji eksportowania:
 - Możesz pobrać szczegóły przetworzonych rekordów, naprawić wszelkie błędy i przekazać ten sam plik, aby utworzyć lub zaktualizować rekordy, które nie powiodły się w poprzednim uruchomieniu. **Usuń wszystkie rekordy pomyślne z pliku przed przekazaniem poprawionych rekordów, które nie powiodły się w poprzednim uruchomieniu.**
 - Aby dodać więcej rozwiązań, dodaj dodatkowe kolumny obok rozwiązania 1 i użyj nazwy kolumny jako rozwiązania X, gdzie X reprezentuje liczbę rozwiązania w transakcji. Na przykład rozwiązanie 2, rozwiązanie 3.
 - Do transakcji można dodać maksymalnie 50 rozwiązań.
-- Aby dodać kolejnych członków zespołu, dodaj dodatkowe kolumny obok pola Członek zespołu 1 i użyj nazwy kolumny jako członka zespołu X, gdzie X reprezentuje liczbę członków zespołu w transakcji. Na przykład członek zespołu 2, członek zespołu 3.
+- Aby dodać więcej członków zespołu, dodaj dodatkowe kolumny obok pola Członek zespołu 1 i użyj nazwy kolumny jako członka zespołu X, gdzie X reprezentuje liczbę członków zespołu w transakcji. Na przykład członek zespołu 2, członek zespołu 3.
 - Do transakcji można dodać maksymalnie 50 członków zespołu.
 
 > [!NOTE]
@@ -77,7 +77,7 @@ Nie każde pole w szablonie jest edytowalne. Istnieją pola, które są zawsze t
 - Stan klienta
 - Kod pocztowy klienta
 - Kraj klienta
-- Identyfikator D-U-S klienta
+- Identyfikator D-U-N-S klienta
 - Zgoda na udostępnianie kontaktu klienta/partnera
 - Identyfikator MPN
 
@@ -85,7 +85,7 @@ Nie każde pole w szablonie jest edytowalne. Istnieją pola, które są zawsze t
 
 - **Imię kontaktu klienta zostanie** zamienine tylko do odczytu po przesłaniu szczegółów dotyczących tworzenia lub uaktualniania skierowania do współpracy sprzedaży
 - **Nazwisko osoby kontaktowej klienta** zostanie zamienine tylko do odczytu po przesłaniu szczegółów dotyczących tworzenia lub uaktualniania skierowania do współpracy sprzedaży
-- **Numer Telefon klienta zostanie** zamienić tylko do odczytu po przesłaniu szczegółów dotyczących tworzenia lub uaktualniania poleceń dotyczących współs sprzedaży
+- **Numer Telefon klienta** zostanie zamienić tylko do odczytu po przesłaniu szczegółów dotyczących tworzenia lub uaktualniania poleceń dotyczących współs sprzedaży
 - **Adres e-mail kontaktu z klientem** zostanie zamieniny na tylko do odczytu po przesłaniu szczegółów dotyczących tworzenia lub uaktualniania skierowania do współpracy sprzedaży
 - **Wymagana jest pomoc firmy Microsoft?** Po oznaczeniu go jako Tak włączy opcję tylko do odczytu
 - **Jaka pomoc od firmy Microsoft?** po wprowadzeniu liczby w określonym formacie włączy wartość tylko do odczytu
@@ -130,19 +130,19 @@ Uwagi do firmy Microsoft|Nie|Wszelkie uwagi dotyczące firmy Microsoft, jeśli p
 Zgoda na udostępnianie kontaktu klienta/partnera|Tak|Zgoda na udostępnianie danych kontaktowych klienta i danych kontaktowych pracowników firmy pracujących nad ofertą. **Transakcje nie będą tworzone ani aktualizowane, jeśli dla tej kolumny wybierzesz pozycję Nie.** |Tak
 Numer CLA|Zależy|Numer CLA nie jest wymagany podczas tworzenia lub aktualizowania transakcji IOT. Staje się to wymagane po przechodzeniu do etapu wygrania projektu.
 Kategoria urządzenia|Nie|Lista wszystkich kategorii urządzeń IoT. Wybierz kategorię z poniższych opcji <br>Urządzenie do gier dla konsumentów <br> Bankomaty <br> Systemy transportowe & transportowych w przemyśle samochodowym <br> Azure Sphere Tablica<br> Azure Sphere, składnik <br> Azure Sphere Guardian<br> Azure Sphere modułu <br> Tworzenie automatyzacji<br> Casino Gaming Device <br> Urządzenia komunikacyjne<br> Consumer Internet Device <br> Consumer Wearable<br> Digital Picture Frame <br> Znak cyfrowy <br> Brama <br> HHT/Mobile<br> Urządzenie automatyzacji przemysłowej<br> Tablet branżowy (bez pos) <br> Kiosk<br> Media Player<br> Urządzenie multimedialne <br> Mobilny numer POS <br> Urządzenie nawigacyjne<br> Projektor sieciowy<br> Inne<br> Inne urządzenie bankowe<br> Inne urządzenie elektroniczne konsumenta<br> Inne urządzenie<br> Inne Enterprise urządzenia<br>  Inny czujnik/węzeł <br> Urządzenie w punkcie sprzedaży<br> Urządzenie drukowania <br> Zabezpieczenia/nadzór <br>  Serwer<br> Set-Top Box<br> Smart TV <br> Urządzenie testowe i pomiarowe<br> Urządzenie klienckie zuzenkim <br/>
-Typ krzemu|Nie|Wprowadź informacje o modelu mikroukładu, wybierając opcję z poniższej listy <br> AMD –A10 <br> AMD – A4 <br> AMD – A6 <br> AMD – A8 <br> AMD – E2 <br> AMD — FX 7500 <br> AMD — FX 7600P <br> AMD — FX 9370 <br> AMD — FX 9590 <br> AMD — seria G <br> AMD — inne <br> AMD — seria R <br> AMD — pozostałe modele FX <br> Intel — Atom <br> Intel — Celeron — N1900 <br> Intel — Celeron — N2807 <br> Intel — Celeron — N2930 <br> Intel — Celeron — N3060 <br> Intel — Celeron — N3160 <br> Intel — Core i3 <br> Intel — Core i5 <br> Intel — Core i7 <br> Intel — Core M <br> Intel — inne <br> Intel — Pentium <br> Intel — reszta celeronu <br> Intel — XEON <br> MediaTek MT3620 <br> NXP 8ULP-CS <br> Inne <br/>
+Typ krzemu|Nie|Wprowadź informacje o modelu mikroukładu, wybierając opcję z poniższej listy <br> AMD –A10 <br> AMD – A4 <br> AMD –A6 <br> AMD – A8 <br> AMD –E2 <br> AMD — FX 7500 <br> AMD — FX 7600P <br> AMD — FX 9370 <br> AMD — FX 9590 <br> AMD — seria G <br> AMD — inne <br> AMD — seria R <br> AMD — pozostałe modele FX <br> Intel — Atom <br> Intel — Celeron — N1900 <br> Intel — Celeron — N2807 <br> Intel — Celeron — N2930 <br> Intel — Celeron — N3060 <br> Intel — Celeron — N3160 <br> Intel — Core i3 <br> Intel — Core i5 <br> Intel — Core i7 <br> Intel — Core M <br> Intel — inne <br> Intel — Pentium <br> Intel — reszta celeronu <br> Intel — XEON <br> MediaTek MT3620 <br> NXP 8ULP-CS <br> Inne <br/>
 Certyfikowane urządzenie platformy Azure|Nie|Ma to na celu wskazanie, czy certyfikat zgodności platformy Azure został osiągnięty dla urządzenia
 Dołączanie usług|Nie|Ma to na celu wskazanie, czy usługi platformy Azure mają być powiązane z rozwiązaniem IoT podczas wdrażania
 Microsoft MSX ID|Nie|Identyfikator transakcji w systemie Microsoft MSX, dostępny tylko w przypadku możliwości współpracy sprzedaży
 Migrowany identyfikator transakcji PSC|Nie|Identyfikator transakcji PSC, dostępny tylko dla transakcji migrowanych z psc na komputer
-Identyfikator MPN|Nie|Identyfikator MPN organizacji, dla której są tworzone możliwości współpracy sprzedaży
+Identyfikator MPN|Nie|Identyfikator MPN organizacji, dla której są tworzone możliwości sprzedaży
 Rozwiązanie 1|Tak|Identyfikator rozwiązania (wymagane), waluta (opcjonalnie), w której wprowadzono wartość transakcji. Możesz znaleźć kody [walut,](https://en.wikipedia.org/wiki/ISO_4217)cenę sku (opcjonalnie) i ilość (opcjonalnie)  |SOL-1234-PQRS, USD, 10, 100
 Członek zespołu 1|Tak|Imię, nazwisko, numer telefonu komórkowego i identyfikator e-mail odpowiedniego członka zespołu.| Bob, Partner, 999999, Bob.partner@Contoso.com
 Członek zespołu firmy Microsoft 1|Nie|Imię, nazwisko, numer telefonu komórkowego i identyfikator e-mail odpowiedniego członka zespołu firmy Microsoft, który pracuje nad szansą sprzedaży.| Sam, Seller, 999999, Sam.seller@Microsoft.com
 
 ## <a name="next-steps"></a>Następne kroki
 
-Tych łączników można Partner Center do współpracy z firmą Microsoft z poziomu systemów CRM.
+Tych łączników można Partner Center do współs sprzedaży z firmą Microsoft z poziomu systemów CRM.
 
 - [Łącznik do współpracy sprzedaży dla usługi Dynamics 365 CRM — omówienie](connector-dynamics.md)
 - [Łącznik do współsprzedaży dla rozwiązania Salesforce CRM — omówienie](connector-salesforce.md)

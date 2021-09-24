@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 02/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-benefits
-description: Odnawianie Microsoft Partner Network (MPN) dla kompetencji i zaawansowanych specjalizacji — okno odnawiania rozpoczyna się od rocznicy zakupu plus jeden dzień.
+description: Odnawianie Microsoft Partner Network (MPN) dla kompetencji i zaawansowanych specjalizacji — okno odnawiania rozpoczyna się rocznicą daty zakupu plus jeden dzień.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f6c710675f659d25d42a1e858cee0d76952f1cf6
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 1a737fd036a800b6f6e8e480fd8981bae92120d9
+ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248184"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128369341"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Odnawianie ofert MPN dla kompetencji i zaawansowanych specjalizacji w oknie odnawiania
 
@@ -26,7 +26,7 @@ Firma Microsoft oferuje rozszerzenie kompetencji (z wyjątkiem kompetencji Cloud
 
 ## <a name="renewal-reminders"></a>Przypomnienia dotyczące odnowienia
 
-Masz 30 dni od daty rocznicy odnowienia. W tym czasie korzyści będą nadal przynosić korzyści. 15 dni przed datą rocznicy firma Microsoft przypomni Ci o zbliżającej się rocznicy. Kolejne przypomnienie otrzymasz 23 dni po dacie rocznicy. Po odnowieniu w tym rocznicowym i 30-dniowym okresie korzyści pozostaną niezmienione. Jeśli nie odnowisz w oknie odnawiania, utracisz korzyści i kompetencje.
+Masz 30 dni od daty rocznicy odnowienia. W tym czasie korzyści będą nadal przynosić korzyści. 15 dni przed datą rocznicy firma Microsoft przypomni Ci o nadchodzącej rocznicy. Kolejne przypomnienie otrzymasz 23 dni po dacie rocznicy. Po odnowieniu w tym rocznicowym i 30-dniowym okresie korzyści pozostaną niezmienione. Jeśli nie odnowisz w oknie odnawiania, utracisz korzyści i kompetencje.
 
 Po odnowieniu w oknie odnawiania nowa data rocznicy będzie przypadać 365 dni po bieżącej rocznicy.
 
@@ -40,7 +40,7 @@ Po odnowieniu w oknie odnawiania nowa data rocznicy będzie przypadać 365 dni p
 
 4. Aby skorzystać z tej oferty, przejdź do **tematu Oferty członkostwa**. Aby ukończyć proces, może być konieczne zapłacanie opłaty za kompetencję w zależności od zakupu lub odnowienia kompetencji.
 
-Aby skorzystać z rozszerzenia, musisz przenieść członkostwo z programu Partner Membership Center (PMC) do Partner Center, aby odnowić kompetencję i zapłacić opłatę. Jeśli jeszcze nie przeniesiono członkostwa, [dowiedz się więcej](partner-membership-center-retirement-faq.md)i już dziś    [dokonaj przejścia.](https://partners.microsoft.com/partnerprogram/Welcome.aspx)    
+Aby skorzystać z rozszerzenia, musisz przenieść członkostwo z programu Partner Membership Center (PMC) do Partner Center, aby odnowić kompetencję i zapłacić opłatę. Jeśli jeszcze nie przeniesiono członkostwa, [dowiedz się więcej](partner-membership-center-retirement-faq.md)i już dziś    [dokonaj przejścia.](https://partner.microsoft.com/)    
 
 ## <a name="next-steps"></a>Następne kroki
 

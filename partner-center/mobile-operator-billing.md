@@ -1,6 +1,6 @@
 ---
 title: Rozliczenia operatora sieci komórkowej — Microsoft Store
-description: Aplikacja Microsoft Store rozliczenia operatora sieci komórkowej jako formę płatności dla operatorów sieci komórkowej, którzy obsługują tę funkcję.
+description: Ten Microsoft Store oferuje rozliczenia operatora sieci komórkowej jako formę płatności dla operatorów sieci komórkowej, którzy obsługują tę funkcję.
 ms.date: 04/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-payouts
@@ -10,11 +10,11 @@ author: hickeys
 keywords: windows 10, uwp, operatorzy urządzeń przenośnych, rozliczenia dla urządzeń przenośnych, rozliczenia operatora sieci komórkowej
 ms.localizationpriority: medium
 ms.openlocfilehash: 7fab4915273fa611d0bb0b9115926ce84521a509
-ms.sourcegitcommit: 5abf065c8852a858a0aa7185176d3e117f2be7e5
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "127958850"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128359486"
 ---
 # <a name="mobile-operator-billing"></a>Rozliczenia operatora komórkowego
 
@@ -23,7 +23,7 @@ ms.locfileid: "127958850"
 > [!NOTE]
 > Jeśli szukasz pomocy technicznej dotyczącej wypłat, w tym konfigurowania kont wypłat, brakujących wypłat, wstrzymywania wypłat lub innych możliwości, skontaktuj się z działem pomocy technicznej Windows [deweloperów.](https://developer.microsoft.com/windows/support)
 
-Aplikacja Microsoft Store rozliczenia dla operatorów sieci komórkowej jako formę płatności za urządzenia z systemem Windows 10, telefony z Windows 10 Mobile i Xbox One konsole. Jeśli operator sieci komórkowej klienta obsługuje tę funkcję, może dodać rozliczenia operatora sieci komórkowej jako formę płatności i używać jej do zakupów w sklepie przy użyciu konta mobilnego.
+Aplikacja Microsoft Store rozliczenia dla operatora sieci komórkowej jako formę płatności za urządzenia z systemem Windows 10, telefony z Windows 10 Mobile i Xbox One konsole. Jeśli operator sieci komórkowej klienta obsługuje tę funkcję, może dodać rozliczenia operatora sieci komórkowej jako formę płatności i używać jej do zakupów w sklepie przy użyciu konta mobilnego.
 
 > [!TIP]
 > Jeśli operator sieci komórkowej klienta oferuje rozliczenia dla operatora sieci komórkowej, ale klient nie może znaleźć tej opcji na swoim urządzeniu, zapoznaj się z tymi [krokami.](https://support.microsoft.com/instantanswers/b25d6dd6-fb8b-3710-1e13-4d30eb01b51f)

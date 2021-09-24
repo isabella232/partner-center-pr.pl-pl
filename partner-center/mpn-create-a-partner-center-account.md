@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
-description: Dowiedz się, Microsoft Partner Network członkowie zespołu mogą utworzyć Partner Center, aby zarządzać korzyściami i kompetencjami w zakresie sieci.
+description: Dowiedz się, Microsoft Partner Network mogą utworzyć konto Partner Center do zarządzania korzyściami i kompetencjami w zakresie sieci.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b88698cec01e7a5a3701d420298d93640d0fdbbf
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 0410e8fe4239915c445125951076ff170cef3a91
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959014"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128366156"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Tworzenie konta MPN w programie Partner Center w celu zarządzania korzyściami i kompetencjami sieci
 
@@ -26,7 +26,7 @@ Jeśli nie masz jeszcze Microsoft Partner Network (MPN) i nie masz identyfikator
 
 Gdy wszystko będzie gotowe do utworzenia konta w Partner Center, musisz mieć pod ręką następujące elementy.  Zebranie tych elementów przed rozpoczęciem może potrwać kilka minut:
 
-- Służbowy adres e-mail LUB Office 365 służbowego. Firma może wymagać zakupu domeny poczty e-mail w celu skonfigurowania służbowych adresów e-mail dla pracowników. Aby uzyskać więcej informacji, [przeczytaj temat Konto służbowe Twojej firmy i Partner Center](azure-active-directory-tenants-and-partner-center.md). 
+- Służbowy adres e-mail LUB Office 365 służbowego. Firma może wymagać zakupu domeny poczty e-mail w celu skonfigurowania służbowych adresów e-mail dla pracowników. Aby uzyskać więcej informacji, [przeczytaj temat Konto służbowe i konto Partner Center](azure-active-directory-tenants-and-partner-center.md). 
  
 - Prawne imię i nazwisko oraz adres firmy.
 
@@ -97,7 +97,7 @@ W poniższej tabeli przedstawiono przykłady numerów rejestracyjnych zebranych 
 | **Turcja** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) — numer identyfikacyjny podatku<br>NIN |
 | **Ukraina**  | EGRPOU<br>EDRPOU — identyfikator lokalny |
 | **Zjednoczone Emiraty Arabskie** | Identyfikator podatkowy<br>[Numer VAT](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) — znany także jako numer rejestracji vat. Jest to unikatowy numer identyfikujący osobę prawna (firmową) lub nieuprawnieniową, która jest zarejestrowana do identyfikacji VAT. |
-| **Stany Zjednoczone** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) — numer identyfikacyjny pracodawcy |
+| **Stany Zjednoczone** | [EIN](https://www.irs.gov/taxtopics/tc755) — numer identyfikacyjny pracodawcy |
 | **Uzbekistan**  | ZAKSZ — numer identyfikacyjny podatku |
 | **Wietnam** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — numer identyfikacyjny podatku |
 | **Wenezuela** | HH — numer podatkowy ("Registro de Identificakal Fiscal") |
