@@ -89,7 +89,7 @@
         - name: Kompetencje — często zadawane pytania
           href: competencies-faq.yml
           displayName: 'renew, mpn'
-        - name: Płatność opłatami za kompetencje
+        - name: Opłacanie opłat za kompetencje
           href: mpn-pay-fee-silver-gold-competency.md
           displayName: mpn
         - name: Wyłączenie kompetencji dla deweloperów aplikacji
@@ -246,7 +246,7 @@
       href: manage-leads.md
     - name: Zarządzanie możliwościami wspólnej sprzedaży
       items:
-        - name: Informacje o potencjalnych klientach wspólnej sprzedaży
+        - name: Informacje o możliwościach współpracy sprzedaży
           href: manage-co-sell-opportunities.md
         - name: Operacje zbiorcze
           href: bulk-operations.md
@@ -329,6 +329,9 @@
           displayName: incentives
         - name: Zatwierdzenie roszczeń związanych ze współpracą i terminy
           href: incentives-managing-co-op-claims.md
+          displayName: incentives
+        - name: Odrzucone roszczenia
+          href: reject-claims.md
           displayName: incentives
     - name: Roszczenia związane ze skojarzeniem CPOR w ramach zachęt
       items:
@@ -586,7 +589,7 @@
       href: new-commerce-license-based.md
       displayName: new commerce
       items:
-        - name: Nowa płatność za usługi telekomunikacyjne dla handlu
+        - name: Nowy sklep telco payg
           href: new-commerce-telco-payg.md
         - name: Nowe promocje handlowe
           href: new-commerce-promotions.md

@@ -10,11 +10,11 @@ ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 56884a5a6cbfbade881154275129c63dcd3456d8
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322498"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128422438"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Jak są obliczane i wypłacane środki zarobione przez partnera
 
@@ -54,7 +54,7 @@ Aby uzyskać więcej informacji na temat uprawnień, zobacz Role i uprawnienia w
 
 PEC jest obliczany codziennie. Opłaty są opłacone za każdy dzień, w ramach których masz dostęp kwalifikujący się do PEC w każdej subskrypcji. Chociaż szczegóły PEC nie są wyświetlane na fakturze miesięcznej, zarobki PEC są uwzględniane w wierszu skorygowanych opłat netto na fakturze. Więcej szczegółów dotyczących PEC można znaleźć w pliku [dziennego użycia](daily-rated-usage-recon-files.md) i w pliku ponownego rozpoznania faktury miesięcznej.
 
-:::image type="content" source="images/advanced-specializations/recon-file.png" alt-text="Zrzut ekranu przedstawiający Partner Center pliku uzgodnień identyfikującego kolumny." border="false":::
+:::image type="content" source="images/advanced-specializations/recon-file.png" alt-text="Zrzut ekranu przedstawiający kolumny Partner Center pliku uzgodnień." border="false":::
 
 W poniższej tabeli opisano elementy PEC znalezione w pliku ponownego rozpoznania faktury miesięcznej. Wszystkie wartości są podane w USD, jak pokazano w kolumnie AI, PricingCurrency (AI, CennikCurrency).
 

@@ -10,11 +10,11 @@ ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.openlocfilehash: a5e062f9173ea65f93ada81693064f3c0519a7ae
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/24/2021
-ms.locfileid: "128373442"
+ms.locfileid: "128422370"
 ---
 # <a name="january-2020-announcements"></a>Ogłoszenia ze stycznia 2020 r.
 
@@ -76,11 +76,11 @@ _________________
 
 ### <a name="summary"></a>Podsumowanie
 
-Od 7 stycznia 2020 r. firma Microsoft wprowadziła dodatek Sala konferencyjna i spotkań dla Microsoft 365 F1 dla GCC. Sprawdź cennik, aby dowiedzieć się więcej.
+Od 7 stycznia 2020 r. firma Microsoft wprowadziła dodatek Sala konferencyjna i spotkania dla Microsoft 365 F1 dla GCC. Sprawdź cennik, aby dowiedzieć się więcej.
 
 ### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
-Wszyscy partnerzy, którzy GCC oferty w programie Dostawca rozwiązań w chmurze (CSP),
+Wszyscy partnerzy, którzy GCC oferty w programie Dostawca rozwiązań w chmurze (CSP)
 
 ### <a name="details"></a>Szczegóły
 
@@ -149,9 +149,9 @@ Pracujemy nad etapami w celu Microsoft Power Platform produktów (Power BI, Powe
 - Ta funkcja nie będzie obecnie dostępna dla klientów rządowych, organizacji non profit ani instytucji edukacyjnych.
 - Szczegóły dotyczące Power Apps i Power Automate wkrótce.
 
-Partnerzy mogą korzystać z samoobsługowych zakupów, tworzenie rozwiązań, które obejmują platformę Azure i Power Platform. Partnerzy z dostępem administracyjnym będą widzieć indywidualne Power Platform zakupów w chmurze centrum administracyjne platformy Microsoft 365 traktować ich jako potencjalnych klientów w swoich rozwiązaniach w chmurze.Na przykład partner, który widzi grupę pracy, która przyjmuje platformę Power BI, będzie miał możliwość tworzenia i sprzedawania zaawansowanych pulpitów nawigacyjnych Power BI, które ściągają dane z baz danych usługi Azure SQL lub innych aplikacji biznesowych. W związku z tym, że wdrożenie jest bardzo szerokie w organizacjach od zakupów samoobsługowych, partnerzy mogą również sprzedawać szeroką Power Platform do centralnego it.
+Partnerzy mogą korzystać z samoobsługowych zakupów, budować rozwiązania obejmujące platformę Azure i Power Platform. Partnerzy z dostępem administracyjnym zobaczą poszczególne Power Platform zakupów w chmurze i będą centrum administracyjne platformy Microsoft 365 traktować ich jako potencjalnych klientów w swoich rozwiązaniach w chmurze.Na przykład partner, który widzi grupę pracy, która przyjmuje platformę Power BI, będzie miał możliwość tworzenia i sprzedawania zaawansowanych pulpitów nawigacyjnych Power BI, które ściągają dane z baz danych usługi Azure SQL lub innych aplikacji biznesowych. Ponieważ wdrożenie jest bardzo szerokie w organizacjach od zakupów samoobsługowych, partnerzy mogą również sprzedawać szeroką Power Platform do centralnego it.
 
-Partnerzy, którzy nie mają dostępu administracyjnego, mogą nadal prowadzić projekty weryfikacji koncepcji i tworzyć niestandardowe rozwiązania dla osób kupujących Power Platform usług. Ci partnerzy korzystają z elastyczności pracy bezpośrednio z użytkownikami końcowi i nie muszą przechodzić przez scentralizowany ruch zakupów IT. Pomyślne zaangażowanie partnerów w Power BI wdrożenia zapewni wiarygodność partnera w firmie i może łatwo prowadzić do innych możliwości.
+Partnerzy, którzy nie mają dostępu administracyjnego, mogą nadal prowadzić projekty weryfikacji koncepcji i tworzyć niestandardowe rozwiązania dla osób kupujące Power Platform usług. Ci partnerzy korzystają z elastyczności pracy bezpośrednio z użytkownikami końcowi i nie muszą przechodzić przez scentralizowany ruch zakupów IT. Pomyślne zaangażowanie partnerów w Power BI wdrożenia zapewni wiarygodność partnera w firmie i może łatwo prowadzić do innych możliwości.
 
 ### <a name="additional-resources"></a>Dodatkowe zasoby
 
@@ -162,7 +162,7 @@ Partnerzy, którzy nie mają dostępu administracyjnego, mogą nadal prowadzić 
 - Oryginalna data publikacji: 21 października 2019 r.
 - Zaktualizowano Power BI startową i wprowadzono datę programu PowerShell: 1 listopada 2019 r.
 - Skrypt programu PowerShell jest teraz dostępny dla administratorów IT. Microsoft Flow zaktualizowano do Power Automate: 19 listopada 2019 r.
-- Wprowadzenie samoobsługowego zakupu dla klientów Power BI szczegóły dotyczące Power Apps, Power Automate i innych krajów: — 14 stycznia 2020 r.
+- Wprowadzenie samoobsługowego zakupu dla klientów Power BI szczegóły uruchomienia dla Power Apps, Power Automate i innych krajów: — 14 stycznia 2020 r.
 - Wprowadzenie samoobsługowego zakupu dla Power Apps i Power Automate: 28 stycznia 2020 r.
 
 _________________
@@ -175,22 +175,22 @@ _________________
 - Typ: Możliwości
 - Stan: Teraz dostępne
 
-### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
+### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
 Announcing a new reporting dashboard (beta) in Partner Center
 
 ### <a name="summary"></a>Podsumowanie
 
-Wprowadzamy nowy ujednolicony pulpit nawigacyjny raportowania w Partner Center dla organizacji partnerskich, które są członkami Microsoft Partner Network. Za pośrednictwem tego pulpitu nawigacyjnego masz dostęp do ujednoliconego, 360-stopnia widoku kluczowych wskaźników wydajności (KPI) organizacji partnerskiej w produktach w chmurze, takich jak Office 365, Azure, Dynamics 365, oraz modeli licencjonowania, takich jak Dostawca rozwiązań w chmurze (CSP) i Enterprise Agreement (EA). Funkcja inteligentnego wglądu w szczegółowe dane jest dostarczana w celu jasnego zrozumienia firmy Microsoft i może bez obaw podejmować decyzje oparte na danych.
+Wprowadzamy nowy ujednolicony pulpit nawigacyjny raportowania w Partner Center dla organizacji partnerskich, które są członkami Microsoft Partner Network. Za pośrednictwem tego pulpitu nawigacyjnego masz dostęp do ujednoliconego widoku kluczowych wskaźników wydajności (KPI) organizacji partnerskiej w produktach w chmurze, takich jak Office 365, Azure, Dynamics 365, oraz modeli licencjonowania, takich jak Dostawca rozwiązań w chmurze (CSP) i Enterprise Agreement (EA). Funkcja inteligentnego wglądu w szczegółowe dane jest dostarczana do Ciebie, dzięki czemu możesz jednoznacznie zrozumieć swoją firmę w firmie Microsoft i bez obaw podejmować decyzje oparte na danych.
 
-Aby wyświetlić ten pulpit nawigacyjny, wybierz pozycję **SZCZEGÓŁOWE INFORMACJE** Partner Center menu nawigacji po lewej stronie. Ten pulpit nawigacyjny używa tych samych danych bazowych co bieżące narzędzie do raportowania Usługi MyInsights, ale oferuje bogatsze wizualizacje oraz bardziej szczegółowe możliwości raportowania i kluczowe wskaźniki wydajności obejmujące klientów, subskrypcje, użycie licencji, kompetencje i korzyści. Wersja tego pulpitu nawigacyjnego szczegółowych informacji oferowana obecnie jest w wersji beta i będzie nadal rozszerzana o nowe raporty i możliwości, ponieważ podchodzimy do ogólnej dostępności, która jest planowana na później w H2 FY20.
+Aby wyświetlić ten pulpit nawigacyjny, wybierz pozycję **SZCZEGÓŁOWE INFORMACJE** Partner Center menu nawigacji po lewej stronie. Ten pulpit nawigacyjny używa tych samych danych bazowych co bieżące narzędzie do raportowania MyInsights, ale oferuje bogatsze wizualizacje oraz bardziej szczegółowe funkcje raportowania i kluczowe wskaźniki wydajności obejmujące klientów, subskrypcje, użycie licencji, kompetencje i korzyści. Wersja tego pulpitu nawigacyjnego szczegółowych informacji oferowana obecnie jest w wersji beta i będzie w dalszym ciągu rozszerzana o nowe raporty i możliwości, ponieważ podchodzimy do ogólnej dostępności, co jest planowane na później w H2 FY20.
 
-Zachęcamy do rozpoczęcia korzystania z tego nowego pulpitu nawigacyjnego szczegółowych informacji, na którym wcześniej używalibyśmy usługi MyInsights, i udostępnienia opinii za pomocą mechanizmu opinii w ramach każdego z raportów dostępnych za pośrednictwem karty **SZCZEGÓŁOWE INFORMACJE.**
+Zachęcamy do rozpoczęcia korzystania z tego nowego pulpitu nawigacyjnego szczegółowych informacji, w którym wcześniej używalibyśmy usługi MyInsights, oraz do udostępnienia nam opinii przy użyciu mechanizmu opinii w ramach każdego z raportów dostępnych za pośrednictwem karty **SZCZEGÓŁOWE INFORMACJE.**
 
 ### <a name="additional-resources"></a>Dodatkowe zasoby
 
-- Przejrzyj wszystkie zasoby Szczegółowe informacje dotyczące dostępu, nawigacji, przeglądów raportów & użycia, sposobu zgłaszania opinii i nie tylko tutaj: [Announcing a new reporting dashboard (beta) in Partner Center (Announcing a new reporting dashboard (beta) in Partner Center](https://partner.microsoft.com/resources/collection/partner-center-insights-reporting-dashboard#/)
-- Masz pytania? [Skontaktuj się z pomocą techniczną partnera](https://partner.microsoft.com/support).
+- Przejrzyj wszystkie zasoby Szczegółowe informacje dotyczące dostępu, nawigacji, przeglądów raportów & użycia, sposobu zgłaszania opinii i nie tylko tutaj: [Announcing a new reporting dashboard (beta) in Partner Center (Announcing a new reporting dashboard (beta) in Partner Center (Announcing a new reporting dashboard (beta) in Partner Center](https://partner.microsoft.com/resources/collection/partner-center-insights-reporting-dashboard#/)
+- Masz pytania? [Skontaktuj się z pomocą techniczną partnera.](https://partner.microsoft.com/support)
 
 ### <a name="change-log"></a>Dziennik zmian
 
@@ -207,29 +207,29 @@ _________________
 - Stan: Teraz dostępne
 - [Dowiedz się więcej](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
 
-### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
+### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
-- Podstawowa: bezpośredni dostawcy rachunku i dostawcy pośredni w programie CSP w chmurze publicznej firmy Microsoft
-- Dodatkowe: odsprzedawcy pośredni dostawcy CSP w chmurze publicznej firmy Microsoft
+- Podstawowe: bezpośredni rachunek i dostawcy pośredni w programie CSP w ramach chmury publicznej firmy Microsoft
+- Pomocniczy: odsprzedawcy pośredni w programie CSP w chmurze publicznej firmy Microsoft
 
 ### <a name="summary"></a>Podsumowanie
 
 Nowa wersja Umowa z Klientem Microsoft wszystkich ofert produktów w programie Dostawca rozwiązań w chmurze (CSP) stała się dostępna 1 października 2019 r.
 
-Od 1 lutego 2020 r. wymagane będzie potwierdzenie akceptacji przez partnera Umowa z Klientem Microsoft w celu zamówienia nowych ofert CSP we wszystkich regionach w chmurze publicznej firmy Microsoft. Od tej daty partner w programie CSP nie będzie mógł dokonać nowego zakupu, w tym zmienić stanowisk i odnowić istniejących zakupów bez Umowa z Klientem Microsoft klienta.
+Od 1 lutego 2020 r. wymagane będzie potwierdzenie akceptacji przez partnera Umowa z Klientem Microsoft, aby składać nowe zamówienia dla wszystkich ofert CSP we wszystkich regionach w ramach chmury publicznej firmy Microsoft. Od tej daty partner w programie CSP nie będzie mógł dokonać nowego zakupu, w tym zmieniać stanowisk i odnawiania istniejących zakupów bez akceptacji Umowa z Klientem Microsoft klienta.
 
 >[!NOTE] 
 >Umowa z Klientem Microsoft i nowe środowisko handlowe w programie CSP dla platformy Azure:** Akceptacja klienta usługi Umowa z Klientem Microsoft jest wymagana do zakupu za pośrednictwem nowego rozwiązania handlowego w programie CSP dla platformy [Azure,](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) które stało się dostępne 1 listopada 2019 r.
 
-Ta Umowa z Klientem Microsoft to uproszczona umowa zakupu, która zapewnia spójne warunki zakupu dla klientów, niezależnie od sposobu, w jaki klienci zdecydują się na zakup. Od 1 października 2019 r. nowy Umowa z Klientem Microsoft jest dostępny w programie CSP i zastępuje istniejące Umowa dotycząca platformy Microsoft Cloud.
+Ten Umowa z Klientem Microsoft jest uproszczoną umową zakupu, która zapewnia spójne warunki zakupu dla klientów, niezależnie od sposobu, w jaki klienci zdecydują się na zakup. Od 1 października 2019 r. nowy Umowa z Klientem Microsoft jest dostępny w programie CSP i zastępuje istniejące Umowa dotycząca platformy Microsoft Cloud.
 
-Partnerzy mogą przedstawić nowe Umowa z Klientem Microsoft klientom w taki sam sposób, jak wcześniej w Umowa dotycząca platformy Microsoft Cloud. Po przejrzeniu i zaakceptowaniu umowy przez klienta partnerzy muszą potwierdzić akceptację klienta przez firmę Microsoft. Pulpit Partner Center nawigacyjny, Partner Center API i zestaw SDK platformy .NET zostały zaktualizowane w celu obsługi partnera potwierdzającego akceptację Umowa z Klientem Microsoft.
+Partnerzy mogą przedstawić nowe Umowa z Klientem Microsoft klientom w taki sam sposób, jak wcześniej w przypadku Umowa dotycząca platformy Microsoft Cloud. Po przejrzeniu i zaakceptowaniu umowy przez klienta partnerzy muszą potwierdzić akceptację klienta przez firmę Microsoft. Pulpit Partner Center nawigacyjny, Partner Center API i zestaw SDK platformy .NET zostały zaktualizowane w celu obsługi partnera potwierdzającego akceptację przez klienta Umowa z Klientem Microsoft.
 
 ### <a name="next-steps"></a>Następne kroki
 
 - Potwierdź akceptację nowej Umowa z Klientem Microsoft przed 31 stycznia 2020 r.
-- Przeszkolić agentów i sprzedawców na podstawie nowych warunków umowy oraz prezentowania nowej umowy i sprawdzania akceptacji klientów. Dostawcy pośredni muszą współpracować z odsprzedawcami pośrednimi, aby zweryfikować akceptację klienta.
-- Dostawcy bezpośredni i pośredni korzystający z interfejsów API będą musieli zaktualizować istniejącą implementację, aby uwzględnić nową Umowa z Klientem Microsoft przy użyciu [zaktualizowanego interfejsu API.](../confirm-customer-agreement.md)
+- Przeszkolić agentów i sprzedawców na podstawie nowych warunków umowy oraz prezentowania nowej umowy i sprawdzania poprawności akceptacji klienta. Dostawcy pośredni muszą współpracować z odsprzedawcami pośrednimi, aby zweryfikować akceptację klienta.
+- Dostawcy bezpośredni i pośredni korzystający z interfejsów API będą musieli zaktualizować istniejącą implementację, aby uwzględnić nową Umowa z Klientem Microsoft przy użyciu [zaktualizowanego interfejsu API](../confirm-customer-agreement.md).
 - Dostawcy bezpośredni i pośredni mogą również użyć interfejsu użytkownika Partner Center, aby potwierdzić akceptację klienta.
 
 ### <a name="additional-resources-partners-can-view-content-available-on-the-csp-gallery-page-including"></a>Dodatkowe zasoby Partnerzy mogą wyświetlać zawartość dostępną na [stronie Galerii CSP, w](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)tym:
@@ -239,15 +239,15 @@ Partnerzy mogą przedstawić nowe Umowa z Klientem Microsoft klientom w taki sam
 - Informacje o interfejsach API dla partnerów korzystających z interfejsów API w celu potwierdzenia akceptacji umowy przez klienta.
 
 >[!Note] 
->W dalszej części kwartału CY20 partnerzy będą mieli dodatkową opcję zapraszania klientów do uwierzytelnionego portalu firmy Microsoft w celu wyświetlenia i podpisania Umowa z Klientem Microsoft. Firma Microsoft będzie ponosić odpowiedzialność za potwierdzenie akceptacji Umowa z Klientem Microsoft.
+>W dalszej części kwartału 2010 r. partnerzy będą mieli dodatkową opcję zapraszania klientów do uwierzytelnionego portalu firmy Microsoft w celu wyświetlenia i podpisania Umowa z Klientem Microsoft. Firma Microsoft będzie ponosić odpowiedzialność za potwierdzenie akceptacji Umowa z Klientem Microsoft.
 
 ### <a name="change-log"></a>Dziennik zmian
 
-- 15 stycznia 2020 r.: opublikowano oryginalne ogłoszenie.
+- 15 stycznia 2020 r.: opublikowano oryginalne zawiadomienie.
 
 _________________
 
-## <a name="price-list-and-offer-update-schedule-for-january-2020"></a><a id="2"/></a>Cennik i harmonogram aktualizacji oferty na styczeń 2020 r.
+## <a name="price-list-and-offer-update-schedule-for-january-2020"></a><a id="2"/></a>Cennik i harmonogram aktualizacji ofert na styczeń 2020 r.
 
 ### <a name="categories"></a>Kategorie
 
@@ -255,55 +255,55 @@ _________________
 - Typ: Możliwości
 - Stan: Już wkrótce
 
-### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
+### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
 - Wszyscy partnerzy biorący udział w programie CSP
 
 ### <a name="summary"></a>Podsumowanie
 
-Zgodnie z harmonogramami blokady dni wolnych cennik ze stycznia 2020 r. będzie dostępny 6 stycznia o godzinie 18:00 czasu pacyficznego (PST) zamiast typowego harmonogramu dostępności.
+Zgodnie z harmonogramami blokady świąt cennik ze stycznia 2020 r. będzie dostępny 6 stycznia o godzinie 18:00 czasu pacyficznego (PST) zamiast typowego harmonogramu dostępności.
 
 ### <a name="details"></a>Szczegóły:
 
-Z powodu planowania dni wolnych aktualizacje cennika opublikowane na stronie sprzedaży usługi Partner Center dla stycznia 2020 [r.](https://partner.microsoft.com/pcv/sales) będą dostępne 6 stycznia o godzinie 18:00 czasu pacyficznego (PST) zamiast typowej dostępności, która jest o godzinie 18:00 czasu pacyficznego (PST) ostatniego dnia każdego miesiąca. Aktualizacje katalogu będą również dostępne 6 stycznia w celu dostosowania ich do aktualizacji cennika. Harmonogram ze stycznia 2020 r. jest dla wszystkich cenników opublikowanych na Partner Center sprzedaży:
+Z powodu planowania dni wolnych aktualizacje cennika opublikowane na stronie sprzedaży usługi Partner Center ze stycznia 2020 [r.](https://partner.microsoft.com/pcv/sales) będą dostępne 6 stycznia o godzinie 18:00 czasu pacyficznego (PST) zamiast typowej dostępności, która jest o godzinie 18:00 czasu pacyficznego (PST) ostatniego dnia każdego miesiąca. Aktualizacje katalogu będą również dostępne 6 stycznia, aby dopasować je do aktualizacji cennika. Harmonogram ze stycznia 2020 r. jest dla wszystkich cenników opublikowanych na Partner Center sprzedaży:
 
 - Cenniki i oferty oparte na licencjach
 - Cenniki oparte na użyciu
 - Cenniki rezerwacji
 - Cenniki subskrypcji oprogramowania
 
-Cenniki planów platformy Azure na stronie Witryny Marketplace będą aktualne w całym okresie, ponieważ te cenniki są dynamiczne i są stale aktualizowane.
+Cenniki planów platformy Azure na stronie witryny Marketplace będą aktualne w całym okresie, ponieważ te cenniki są dynamiczne i są stale aktualizowane.
 
-**Problemy z cennikiem opartym na licencjach**
+**Problemy z cennikiem opartym na licencji**
 
-W styczniowym cenniku opartym na licencjach są następujące znane problemy, które mają być rozwiązane w aktualizacjach cennika w następnym miesiącu dla lutego.
+W styczniowym cenniku opartym na licencjach są dostępne następujące znane problemy, które mają być rozwiązane w aktualizacjach cennika w następnym miesiącu dla lutego.
 
 Te oferty nie powinny być w cenniku i zostaną usunięte w następnym miesiącu:
 
 - Oferta: Microsoft 365 system telefoniczny — identyfikator wersji próbnej użytkownika wirtualnego: b9a1d576-43fd-464b-8ad9-4b1eafc5db77
-- Oferta: odpowiedzi Pro Addl dla GCC Offer ID: ac14473c-8e5d-4e44-aff1-6087109be980
+- Oferta: formularze Pro addl odpowiedzi dla GCC o identyfikatorze oferty: ac14473c-8e5d-4e44-aff1-6087109be980
 - Oferta: Microsoft Forms Pro USL dla GCC Offer ID: 1e9dab89-7a71-4aa9-a3e5-9b8be2f296ba
 
 Te oferty nie powinny być w cenniku i zostaną usunięte w następnym miesiącu:
 
 - Oferta: PowerApps na plan aplikacji dla uczniów Identyfikator oferty: e1f379e8-cf22-4a7d-97fd-dcf9d62fc132
 
-Te oferty zostały niepoprawnie usunięte z cennika w styczniu, ale są nadal dostępne. Zapoznaj się z cennikiem z grudnia. Plany obejmują dodanie tych ofert z powrotem do cennika z przyszłego miesiąca:
+Te oferty zostały niepoprawnie usunięte z cennika w styczniu, ale są nadal dostępne. Zapoznaj się z cennikami dla grudnia. Plany obejmują dodanie tych ofert z powrotem do cennika z przyszłego miesiąca:
 
-- Office 365 A1 dla nauczycieli i wykładowców (dla urządzenia) Identyfikator oferty:`0757d14e-7c57-456f-8dab-47d164f2ff1f`
+- Office 365 A1 dla nauczycieli lub wykładowców (dla urządzeń) Identyfikator oferty:`0757d14e-7c57-456f-8dab-47d164f2ff1f`
 - Office 365 A1 dla uczniów (dla urządzenia) Identyfikator oferty:`bae285a9-d56b-4384-b02f-38adc61a6f12`
 - Microsoft 365 A1 Identyfikator oferty:`778a4dce-0014-4d53-8647-314ef2b091d2`
 - Identyfikator oferty wersji próbnej usługi Dynamics 365 Remote Assist: `545484f9-1c3e-426d-a387-0aa029146443`
-- Identyfikator oferty dołączania pomocy zdalnej usługi Dynamics 365 w wersji próbnej: `7ce81df9-f10c-49a3-843d-e9de6fdc779f`
+- Identyfikator oferty dołączania do pomocy zdalnej usługi Dynamics 365 w wersji próbnej: `7ce81df9-f10c-49a3-843d-e9de6fdc779f`
 
 ### <a name="change-log"></a>Dziennik zmian
 
-- 20 grudnia 2019 r.: opublikowano oryginalne ogłoszenie
-- 7 stycznia 2020 r.: Dodano sekcję problemów z cennikiem na podstawie licencji
+- 20 grudnia 2019 r.: opublikowano oryginalne zawiadomienie
+- 7 stycznia 2020 r.: Dodano sekcję problemów z cennikiem opartymi na licencjach
 
 _________________
 
-## <a name="microsoft-has-now-released-additional-dynamics-365-products-and-more-will-be-coming-on-february-1-2020"></a><a id="1"/></a>Firma Microsoft udostępniła teraz dodatkowe produkty Dynamics 365, a kolejne zostaną wydane 1 lutego 2020 r.
+## <a name="microsoft-has-now-released-additional-dynamics-365-products-and-more-will-be-coming-on-february-1-2020"></a><a id="1"/></a>Firma Microsoft udostępniła dodatkowe produkty Dynamics 365, a kolejne zostaną wydane 1 lutego 2020 r.
 
 ### <a name="categories"></a>Kategorie
 
@@ -311,7 +311,7 @@ _________________
 - Typ: Oferty/rynki
 - Stan: Teraz dostępne
 
-### <a name="impacted-audience"></a>Odbiorcy, których to miało wpływ
+### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
 
 - Partnerzy oferujący usługę Dynamics 365 za pośrednictwem programu Dostawca rozwiązań w chmurze (CSP) (te aktualizacje odnoszą się do wszystkich lokalizacji na całym świecie, chyba że zaleca się to inaczej).
 
@@ -373,7 +373,7 @@ Oczekujące informacje o sku
 - [Strona główna przewodnika Mixed Reality Apps](https://dynamics.microsoft.com/mixed-reality/guides/)
 - [Strona główna oszustw związanych z aplikacjami biz apps](/dynamics365/fraud-protection/overview)
 - [strona główna Power Platform Products](/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
-- [Aktualizacje licencjonowania Power Apps I Flow FY20](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
+- [Aktualizacje licencjonowania Power Apps I Flow Y20](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Licencjonowanie usługi Microsoft Dynamics 365](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 
 ### <a name="next-steps"></a>Następne kroki

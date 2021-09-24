@@ -5,3 +5,10 @@
     - name: Anonse
       tocHref: /partner-center/announcements/
       topicHref: /partner-center/announcements/
+- name: Dokumentacja Centrum partnerskiego
+  tocHref: /partner-center/
+  topicHref: /partner-center/index
+  items:
+    - name: Oferty w witrynie Marketplace
+      tocHref: /azure/marketplace/
+      topicHref: /azure/marketplace/
