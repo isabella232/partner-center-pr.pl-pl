@@ -3,34 +3,34 @@ title: Migracja z programu Partner Sales Połączenie (PSC) dla partnerów IOT
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
-description: Dowiedz się, jak partnerzy IOT firmy Microsoft mogą migrować z usługi Partner Sales Połączenie (PSC) do Partner Center i tworzyć transakcje i zarządzać nimi.
+description: Dowiedz się, jak partnerzy IOT firmy Microsoft mogą migrować z usługi Partner Sales Połączenie (PSC) do usługi Partner Center i tworzyć transakcje i zarządzać nimi.
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/07/2021
 ms.openlocfilehash: 2b05046118c83c0d398272da68054a8a0c9c48e4
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/24/2021
-ms.locfileid: "128359469"
+ms.locfileid: "128360206"
 ---
-# <a name="guide-to-create-and-manage-iot-deals-in-partner-center-pc-for-iot-partners-migrating-from-partner-sales-connect-psc"></a>Przewodnik tworzenia transakcji IOT na platformie Partner Center (PC) dla partnerów IOT migrowania z usługi Partner Sales Połączenie (PSC)
+# <a name="guide-to-create-and-manage-iot-deals-in-partner-center-pc-for-iot-partners-migrating-from-partner-sales-connect-psc"></a>Przewodnik dotyczący tworzenia transakcji IOT na platformie Partner Center (PC) dla partnerów IOT migrowania z usługi Partner Sales Połączenie (PSC)
 
-**Odpowiednie role:** Administrator konta | Polecenia administratora | Partner Sales Połączenie (PSC) seller | Partner Sales Połączenie (PSC) admin | Partner Sales Połączenie (PSC) deal manager
+**Odpowiednie role:** Administrator konta | Administrator poleceń | Partner Sales Połączenie (PSC) seller | Partner Sales Połączenie (PSC) admin | Partner Sales Połączenie (PSC) deal manager
 
-Ten artykuł zawiera wskazówki dla partnerów IOT migrowania z programu Partner Sales Połączenie (PSC) do usługi Partner Center (PC), aby nadal tworzyć transakcje i zarządzać nimi w Partner Center.
+Ten artykuł zawiera wskazówki dla partnerów IOT migrowania z usługi Partner Sales Połączenie (PSC) do usługi Partner Center (PC), aby nadal tworzyć transakcje i zarządzać nimi w Partner Center.
 
 >[!Note]
-> Ten przewodnik ma zastosowanie tylko w przypadku partnerów biznesowych **IOT zarządzających** ich transakcjami w chmurze psc.
+> Ten przewodnik ma **zastosowanie tylko w przypadku partnerów biznesowych IOT zarządzających** ich transakcjami w centrum zarządzania usługami.
 
 >[!Important]
-> Od 15 sierpnia 2021 r. Twoja firma nie będzie mogła tworzyć ani edytować transakcji w chmurze psc. **Nadal będzie można pobierać istniejące dane transakcji przy użyciu funkcji eksportu zbiorczego w programie PSC. Możesz również [migrować otwarte transakcje](partner-sales-connect-to-partner-center-iot.md#psc-deals-migration) z konsoli psc do Partner Center późniejszą datą.**
+> Od 15 sierpnia 2021 r. Twoja firma nie będzie mogła tworzyć ani edytować transakcji w programie PSC. **Nadal będzie można pobierać istniejące dane transakcji przy użyciu funkcji eksportu zbiorczego w konsoli psc. Możesz również [migrować otwarte transakcje](partner-sales-connect-to-partner-center-iot.md#psc-deals-migration) z konsoli psc do Partner Center tej daty.**
 
-Jak już wiesz, firma utraci dostęp do aplikacji **PSC po 30 sierpnia 2021 r.**. Jednak nadal znajdziesz wszystko, co chcesz zrobić w Partner Center, takie jak tworzenie transakcji i zarządzanie nimi.
+Jak wiesz, twoja firma utraci dostęp do aplikacji **PSC po 30 sierpnia 2021 r.**. Jednak nadal znajdziesz wszystko, co chcesz zrobić w Partner Center, takie jak tworzenie transakcji i zarządzanie nimi.
 
-Będą jednak różnice. Poniższe wskazówki mogą pomóc w sprawniejszym i prostszym Partner Center przejścia na inne urządzenia.
+Będą jednak różnice. Poniższe wskazówki mogą ułatwić przejście do Partner Center i prostsze.
 
 ## <a name="before-you-move-things-you-need-to-know"></a>Przed przeniesieniem musisz wiedzieć, co musisz wiedzieć
 
@@ -39,102 +39,102 @@ Będą jednak różnice. Poniższe wskazówki mogą pomóc w sprawniejszym i pro
 - Do zalogowania się do usługi Partner Center jest [potrzebny służbowy Partner Center](https://partner.microsoft.com/).
 - Skonfiguruj swoje konto za pomocą administratora Partner Center [konta.](permissions-overview.md)
 - Przeczytaj ten dokument, aby dowiedzieć się, jak tworzyć transakcje IOT w Partner Center i zarządzać nimi.
-- Skonfiguruj konta użytkowników w Partner Center dla wszystkich użytkowników centrum zabezpieczeń (role administratora, menedżera transakcji i sprzedawcy) i przypisz im role administratora poleceń lub [użytkowników poleceń.](permissions-overview.md)
+- Skonfiguruj konta użytkowników w Partner Center dla wszystkich użytkowników centrum zabezpieczeń (administrator, menedżer transakcji i role sprzedawcy) i przypisz im role administratora poleceń lub użytkowników [poleceń.](permissions-overview.md)
 
 ### <a name="if-you-are-a-psc-deal-manager-or-seller"></a>Jeśli jesteś menedżerem transakcji psc lub sprzedawcą
 
 - Do zalogowania się do pulpitu nawigacyjnego usługi Partner Center potrzebna jest [służbowa wiadomość e-mail.](https://partner.microsoft.com/dashboard)
-- Jeśli używasz konta nie służbowego w programie PSC lub służbowy adres e-mail jest dla innej firmy niż firma partnerska, skontaktuj się z administratorem centrum partnerskiego, aby uzyskać pomoc w skonfigurowaniu konta.
-- Skontaktuj się z administratorem usługi PSC, Partner Center konfiguracja konta usługi jest ukończona niezależnie od konta, za pomocą których loguje sięsz do centrum psc.
+- Jeśli używasz konta innego niż służbowe w programie PSC lub Służbowa poczta e-mail jest dla innej firmy niż firma partnerska, skontaktuj się z administratorem centrum partnerskiego, aby uzyskać pomoc w skonfigurowaniu konta.
+- Skontaktuj się z administratorem usługi PSC, Partner Center skonfigurowanie konta usługi jest ukończone niezależnie od konta, za pomocą których logujesz się do usługi PSC.
 - Sprawdź, czy masz dostęp do Partner Center i sekcji Polecenia.
-- Przeczytaj ten dokument, aby zrozumieć przepływy pracy i zmiany Partner Center.
+- Przeczytaj ten dokument, aby zrozumieć przepływy pracy i zmiany w Partner Center.
 
 ## <a name="as-an-admin-in-psc-these-are-your-next-steps"></a>Jako administrator w programie PSC, to są Twoje następne kroki
 
-W Partner Center menu nawigacji po lewej stronie wybierz **opcję Polecenia.** Upewnij się, że możesz uzyskać dostęp do strony Możliwości współpracy sprzedaży.
+Z Partner Center nawigacji po lewej stronie wybierz **opcję Polecenia.** Upewnij się, że możesz uzyskać dostęp do strony Możliwości współpracy sprzedaży.
 
   >[!Note]
   > Może być konieczne wylogowanie się z Partner Center i zalogowanie się ponownie, aby odświeżyć poświadczenia w celu uzyskania dostępu do stron Poleceń.
 
-Jeśli nie widzisz opcji  Skierowania w menu usługi Partner Center lub na stronach związanych z [](permissions-overview.md) poleceniami, skontaktuj się z administratorem konta firmy i poproś o nadaj mu dostęp do opcji Polecenia i powiązanego obszaru. 
+Jeśli nie widzisz opcji  Polecenia w menu usługi Partner Center lub na stronach związanych z poleceniami, skontaktuj się z administratorem  konta w firmie i poproś o dostęp do opcji Polecenia i powiązanego obszaru. [](permissions-overview.md)
 
 Aby znaleźć administratora konta firmy:
 
-1. Wybierz **pozycję Ustawienia konta** z ikony koła zębatego w prawym górnym rogu pulpitu Partner Center nawigacyjnego.
+1. Wybierz **pozycję Ustawienia konta** z ikony koła zębatego w prawym górnym rogu Partner Center nawigacyjnego.
 
 1. Wybierz **pozycję Zarządzanie użytkownikami** z menu nawigacji drugiego poziomu po lewej stronie.
 
 1. W górnej części listy użytkowników  wybierz menu rozwijane Filtr. Zmień opcję na **Administrator konta.**
 
-   Na stronie zostaną wyświetleń wszyscy administratorzy kont wraz z odpowiednimi adresami e-mail. Wyślij wiadomość e-mail do jednej z nich i poproś o przypisanie roli administratora poleceń dla Twojego konta służbowego.
+   Na stronie zostaną wyświetleń wszyscy administratorzy kont z odpowiednimi adresami e-mail. Wyślij wiadomość e-mail do jednej z nich i poproś o przypisanie roli administratora poleceń dla twojego konta służbowego.
 
-  :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="Obraz przedstawiający administratorów kont na stronie zarządzania użytkownikami w ustawieniach partnera.":::
+  :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="Obraz przedstawiający administratorów kont na stronie zarządzania użytkownikami ustawień partnera.":::
 
 >[!Important]
->- Jeśli Twoja rola obejmuje tylko zarządzanie użytkownikami w centrum zabezpieczeń firmy, poproś administratora konta firmy o przypisanie Ci roli administratora konta w programie Partner Center zgodnie z zasadami firmy. [](permissions-overview.md#manage-mpn-membership-and-your-company)
->- Jeśli Twoja rola obejmuje również zarządzanie transakcjami IoT, poproś o przypisanie odpowiedniej roli użytkownika [Administrator](permissions-overview.md#manage-referrals) poleceń lub Poleceń.
-> - Dobrym pomysłem jest również wyznaczyć jednego lidera zarządzania zmianami wśród administratorów centrum zarządzania zmianą. Uniemożliwi to wszystkim administratorom centrum programu PsC indywidualną sspołędę z Partner Center administratorami kont. Zamiast tego liderem zarządzania zmianami może być podstawowa osoba pracująca z administratorem Partner Center konta.
+>- Jeśli Twoja rola obejmuje tylko zarządzanie użytkownikami w programie PSC, poproś administratora konta firmy o przypisanie Ci roli administratora konta w programie Partner Center zgodnie z zasadami firmy. [](permissions-overview.md#manage-mpn-membership-and-your-company)
+>- Jeśli Twoja rola obejmuje również zarządzanie transakcjami ioT, poproś o przypisanie roli użytkownika [administrator](permissions-overview.md#manage-referrals) poleceń lub poleceń zgodnie z potrzebami.
+> - Dobrym pomysłem jest również wyznaczyć jednego lidera zarządzania zmianami wśród administratorów centrum zarządzania zmianą. Uniemożliwi to wszystkim administratorom centrum usługi psc indywidualną publicznie dostępną Partner Center kont. Zamiast tego potencjalnym liderem zarządzania zmianami może być podstawowa osoba pracująca z administratorem Partner Center konta.
 
 ## <a name="user-migration"></a>Migracja użytkowników
 
-Po skonfigurowaniu konta w programie Partner Center użyj kreatora migracji użytkowników na stronie możliwości sprzedaży, aby automatycznie przypisać Partner Center do pracowników firmy.
+Po skonfigurowaniu konta w Partner Center użyj kreatora migracji użytkowników na stronie możliwości współpracy sprzedaży, aby automatycznie przypisać Partner Center do pracowników firmy.
 
 >[!Note]
-> Migracja użytkowników może być wykonywana tylko [przez administratorów](permissions-overview.md#manage-mpn-membership-and-your-company) kont w firmie. Jeśli nie masz roli administratora konta, znajdź administratora konta, który może pomóc w skonfigurowaniu kont użytkowników za pomocą kreatora migracji użytkowników.
+> Migrację użytkowników mogą przeprowadzać tylko [administratorzy](permissions-overview.md#manage-mpn-membership-and-your-company) kont w firmie. Jeśli nie masz roli administratora konta, znajdź administratora konta, który może pomóc w skonfigurowaniu kont użytkowników za pomocą kreatora migracji użytkowników.
 
 :::image type="content" source="images/pscmigration/user-migration.gif" alt-text="Obraz przedstawiający kreatora migracji użytkowników.":::
 
-Administratorzy kont zobaczą link kreatora migracji użytkowników psc na stronie możliwości współpracy sprzedaży obok przewodnika poleceń. Mogą zainicjować migrację użytkowników, wybierając link. Aby zainicjować migrację użytkowników, administratorzy mogą wybrać link. Ten krok migracji użytkownika można wykonać wiele razy, dopóki wszyscy użytkownicy nie zostaną przypisani do odpowiednich ról w Partner Center.
+Administratorzy kont zobaczą link kreatora migracji użytkowników PSC na stronie możliwości współpracy sprzedaży obok przewodnika po poleceniach. Mogą zainicjować migrację użytkowników, wybierając link. Aby zainicjować migrację użytkowników, administratorzy mogą wybrać link. Ten krok migracji użytkowników można wykonać wielokrotnie, dopóki wszyscy użytkownicy nie zostaną przypisani do odpowiednich ról w Partner Center.
 
 Tabela migracji użytkowników zawiera następujące szczegóły:
 
 - Konto użytkownika — identyfikator e-mail pracownika
 - Konto partnera PSC — konto, z którym jest skojarzony pracownik w programie PSC
-- Rola użytkownika PSC — jedna z trzech ról przypisanych do w programie PSC.
-- Lokalizacja MPN komputera — lokalizacja, dla której użytkownik będzie miał odpowiednie Partner Center (PC). Konto partnera PSC MPN służy do znalezienia równoważnej lokalizacji MPN w Partner Center do przypisywania uprawnień. Cała organizacja określa identyfikator MPN vOrg.
-- Rola użytkownika komputera — role pracowników są przypisywane na podstawie ich ról użytkownika konsoli PSC. Administrator w programie PSC będzie mieć przypisane role administratora Poleceń w Partner Center. Sprzedawca będzie mieć przypisaną rolę użytkownika poleceń w Partner Center. Dowiedz się więcej o rolach Partner Center użytkownikach oraz o tym, co mogą robić użytkownicy z tymi rolami, zobacz Przypisywanie ról i uprawnień użytkowników w firmie, którzy muszą pracować w Partner Center [.](permissions-overview.md#manage-referrals)
-- Dzierżawa usługi PC AAD — dzierżawa usługi Microsoft Azure Active Directory (Azure AD), do której są przypisani użytkownicy w Partner Center
+- Rola użytkownika PSC — jedna z trzech ról przypisanych do funkcji PSC.
+- Lokalizacja PC MPN — lokalizacja, dla której użytkownik będzie mieć odpowiednie Partner Center (PC). Konto partnera PSC MPN służy do znalezienia równoważnej lokalizacji MPN w Partner Center do przypisywania uprawnień. Cała organizacja określa identyfikator MPN vOrg.
+- Rola użytkownika komputera — pracownicy mają przypisane role na podstawie ich ról użytkownika psc. Administrator usługi PSC ma przypisane role administratora poleceń w Partner Center. Sprzedawca będzie mieć przypisaną rolę użytkownika poleceń w Partner Center. Dowiedz się więcej o rolach Partner Center i o tym, co mogą robić użytkownicy z tymi rolami, zobacz Przypisywanie ról i uprawnień użytkowników w firmie, którzy muszą pracować w Partner Center [.](permissions-overview.md#manage-referrals)
+- Dzierżawa usługi PC AAD — dzierżawa usługi Microsoft Azure Active Directory (Azure AD), do której przypisano użytkowników w usłudze Partner Center
 - Stan — istnieją trzy możliwe stany stanu migracji
     - **Niemigrowane** — użytkownik nie ma przypisanej Partner Center od skierowań
     - **Zmigrowane** — użytkownik został pomyślnie zmigrowany z przypisaną odpowiednią rolą, jak pokazano w tabeli
-    - **Błąd** — Nie można ukończyć migracji z powodu błędu
+    - **Błąd** — nie można ukończyć migracji z powodu błędu
 
 Czasami migracja może się nie powieść i spowodować błędy. Poniżej podano kilka przyczyn, dla których migracja może spowodować błąd, oraz kilka sposobów rozwiązania problemu:
 
-1. Użytkownicy narzędzia PSC mogą używać konta nie służbowego.
+1. Użytkownicy usługi PSC mogą używać konta nie służbowego.
 
-2. Użytkownik usługi PSC może używać konta z domeny innej niż ta, która jest Partner Center.
+2. Użytkownik PSC może używać konta z domeny innej niż ta, która jest Partner Center.
 
-   Aby usunąć błędy związane ze scenariuszami 1 i 2, poproś użytkownika o zalogowanie się do usługi Partner Center przy użyciu konta służbowego dołączonego do dzierżawy usługi Azure AD. Administrator [globalny może](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) ci pomóc.
+   Aby usunąć błędy związane ze scenariuszami 1 i 2, poproś użytkownika o zalogowanie się Partner Center przy użyciu konta służbowego dołączonego do dzierżawy usługi Azure AD. Administrator [globalny może](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) ci pomóc.
    
    Aby znaleźć administratora globalnego: 
    1. Zaloguj się do pulpitu Partner Center [i](https://partner.microsoft.com/dashboard) wybierz **pozycję Ustawienia konta** z ikony koła zębatego w prawym górnym rogu.
    2. Wybierz **pozycję Zarządzanie użytkownikami** na lewym pasku nawigacyjnym drugiego poziomu.
-   3. W górnej części listy użytkowników  wybierz menu rozwijane Filtr i zmień opcję na **Administrator globalny.** Następnie na stronie zostaną wyświetloni wszyscy administratorzy globalni wraz z odpowiednimi adresami e-mail. Poproś jedną z nich o przypisanie roli administratora poleceń dla twojego konta służbowego.
+   3. W górnej części listy użytkowników  wybierz menu rozwijane Filtr i zmień opcję na **Administrator globalny.** Następnie na stronie zostaną wyświetloni wszyscy administratorzy globalni wraz z ich odpowiednimi adresami e-mail. Poproś jedną z nich o przypisanie roli administratora poleceń dla konta służbowego.
    
       Administrator globalny może utworzyć nowe konto użytkownika w dzierżawie usługi Azure AD lub przypisać dostęp użytkownika-gościa do innych użytkowników konta domeny. Po skonfigurowaniu kont dla wszystkich menedżerów transakcji psc i użytkowników muszą oni zalogować się do witryny Partner Center, wybrać pozycję Polecenia z menu nawigacji po lewej stronie i potwierdzić, że widzą stronę Polecenia. 
 
 3. Użytkownik ma już przypisaną rolę odwołania w Partner Center.
-    - Możesz sprawdzić istniejącą rolę użytkownika. W prawym górnym rogu okna Partner Center pozycję **Ustawienia** (ikona koła zębatego), a następnie **pozycję Ustawienia konta.** Po wyświetleniu drugiego menu nawigacji po lewej stronie wybierz pozycję **Zarządzanie użytkownikami** i wyszukaj użytkownika.
+    - Możesz sprawdzić istniejącą rolę użytkownika. W prawym górnym rogu okna Partner Center wybierz pozycję **Ustawienia** (ikona koła zębatego), a następnie **pozycję Ustawienia konta.** Po wyświetleniu drugiego menu nawigacji po lewej stronie wybierz pozycję **Zarządzanie użytkownikami** i wyszukaj użytkownika.
 
 ## <a name="psc-deals-migration"></a>Migracja transakcji PSC
 
-Po zakończeniu migracji użytkowników użyj kreatora migracji transakcji na stronie możliwości współsprzedaży, aby wszystkie kwalifikujące się otwarte transakcje z programu PSC zostały Partner Center. **Link migracji transakcji będzie widoczny tylko dla administratorów poleceń z całym zakresem organizacji w Partner Center.** W prawym górnym rogu strony szans wspólnej sprzedaży będzie dostępny link o nazwie **„Migracja transakcji PSC”** umożliwiający otwarcie kreatora migracji transakcji.
+Po zakończeniu migracji użytkowników użyj kreatora migracji transakcji na stronie możliwości współpracy sprzedaży, aby wszystkie kwalifikujące się otwarte transakcje z programu PSC były Partner Center. **Link migracji transakcji będzie widoczny tylko dla administratorów poleceń z całym zakresem organizacji w Partner Center.** W prawym górnym rogu strony szans wspólnej sprzedaży będzie dostępny link o nazwie **„Migracja transakcji PSC”** umożliwiający otwarcie kreatora migracji transakcji.
 
 Przeczytaj tę sekcję przed rozpoczęciem migracji transakcji.
 
 **Kwalifikowanie się do migracji**
 
-Tylko niektóre transakcje kwalifikują się do migracji z usługi PsC do Partner Center. Ten kreator migracji został zbudowany, aby pomóc partnerom w zamknięciu umowy Partner Center, gdzie nadal aktywnie współpracują ze swoimi klientami, aby zamknąć transakcję. **Do migracji kwalifikują się tylko transakcje w stanie otwartym utworzone od 1 stycznia 2020 r. z prawidłowymi szczegółami konta partnera (prawidłowy identyfikator MPN).**
+Tylko niektóre transakcje kwalifikują się do migracji z usługi PSC do Partner Center. Ten kreator migracji został zbudowany w celu pomocy partnerom w wywniosce ich transakcji do Partner Center gdzie nadal aktywnie współpracują ze swoimi klientami, aby zamknąć transakcję. **Do migracji kwalifikują się tylko transakcje w stanie otwartym utworzone od 1 stycznia 2020 r. z prawidłowymi szczegółami konta partnera (prawidłowy identyfikator MPN).**
 
 ## <a name="pre-requisites-for-deal-migration"></a>Wymagania wstępne dotyczące migracji transakcji
 
-Przed rozpoczęciem migracji transakcji z Partner Center, postępuj zgodnie z poniższymi instrukcjami, aby skonfigurować transakcje w chmurze dla pomyślnej migracji.
+Przed rozpoczęciem migracji transakcji z usługi Partner Center postępuj zgodnie z poniższymi instrukcjami, aby skonfigurować transakcje w programie PSC w celu pomyślnej migracji.
 
 - Wszyscy członkowie zespołu sprzedaży w Twojej firmie pracujący nad otwartymi transakcjami są poinformowani o tej migracji.
-- Członkowie zespołu sprzedaży są przeszkoleni do używania Partner Center do zarządzania umowami.
+- Członkowie zespołu sprzedaży są przeszkoleni do używania Partner Center do zarządzania transakcji.
 - Transakcje zawierają wszystkie wymagane informacje zgodnie z poniższym opisem.
-    - Szczegóły firmy klienta, w tym nazwa i adres
+    - Szczegóły firmy klienta, w tym imię i nazwisko i adres
     - Co najmniej jedno rozwiązanie
     - Co najmniej jeden członek zespołu ze wszystkimi szczegółami — imię, nazwisko, identyfikator e-mail i numer telefonu
     - Wartość transakcji
@@ -156,7 +156,7 @@ Po zakończeniu migracji stan komunikatu baneru zmieni się na ukończony z link
 Raport zawiera poniższe szczegóły.
 
 - **Partner Center zaangażowania —** unikatowy identyfikator w Partner Center dla wszystkich transakcji w zaangażowaniu. Istnieją dwie transakcje — jedna dla partnera i jedna dla firmy Microsoft w przypadku zaangażowania w sprzedaż Partner Center.
-- **Partner Center polecenia —** unikatowy identyfikator w Partner Center dla transakcji należącej do partnera.
+- **Partner Center polecenia —** unikatowy identyfikator Partner Center transakcji należącej do partnera.
 - **Nazwa transakcji** — identyfikator nadany transakcji w konsoli psc.
 - **Identyfikator transakcji PSC** — unikatowy identyfikator transakcji w chmurze psc.
 - **Błędy** — aby wskazać, czy wystąpił błąd podczas migrowania konkretnej transakcji.
@@ -217,7 +217,7 @@ Nie, w sekcji skierowań nie ma widoku tylko do odczytu transakcji.
 
 ### <a name="7---is-adding-a-customer-organization-mandatory"></a>7 — Czy dodanie organizacji klienta jest obowiązkowe?
 
-Tak, dodawanie organizacji [klienta jest obowiązkowe](./manage-co-sell-opportunities.md#select-your-customer) w Partner Center. Najpierw należy wyszukać lokalizację, w której znajduje się klient. Na podstawie posiadanych szczegółów: Możesz dodać konkretne szczegóły, w tym dokładną nazwę budynku, lub po prostu podać szczegóły miasta. Wyszukiwanie w organizacji spowoduje pobranie wszystkich jednostek prawnych zgodnych z waną nazwą, dzięki czemu nie trzeba wprowadzać żadnych szczegółów adresu. Wszystkie szczegóły są wypełniane automatycznie w zależności od wybranej organizacji.
+Tak, dodawanie organizacji [klienta jest](./manage-co-sell-opportunities.md#select-your-customer) obowiązkowe w Partner Center. Najpierw należy wyszukać lokalizację, w której znajduje się klient. Na podstawie posiadanych szczegółów: Możesz dodać konkretne szczegóły, w tym dokładną nazwę budynku, lub po prostu podać szczegóły miasta. Wyszukiwanie w organizacji spowoduje pobranie wszystkich jednostek prawnych zgodnych z waną nazwą, dzięki czemu nie trzeba wprowadzać żadnych szczegółów adresu. Wszystkie szczegóły są wypełniane automatycznie w zależności od wybranej organizacji.
 
 ### <a name="8---are-customer-contact-details-mandatory"></a>8 — Czy szczegóły kontaktowe klienta są obowiązkowe?
 

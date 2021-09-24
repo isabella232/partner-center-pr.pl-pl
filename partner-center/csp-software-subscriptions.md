@@ -4,7 +4,7 @@ ms.topic: how-to
 ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Dowiedz się, jak partnerzy w programie CSP mogą używać usługi Partner Center do kupowania, sprzedawania i anulowania wystąpień zarezerwowanych platformy Azure i subskrypcji serwera dla klientów oraz zarządzania nimi.
+description: Dowiedz się, jak partnerzy w programie CSP mogą używać usług Partner Center, aby kupować, sprzedawać i anulować wystąpienia zarezerwowane platformy Azure i subskrypcje serwera dla klientów oraz zarządzać nimi.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
@@ -14,26 +14,26 @@ ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/24/2021
-ms.locfileid: "128366071"
+ms.locfileid: "128373408"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Sprzedaż subskrypcji oprogramowania za pośrednictwem programu Dostawca rozwiązań w chmurze (CSP)
 
-**Odpowiednie role:** Administrator | Administrator globalny
+**Odpowiednie role:** Agent administracyjny | Administrator globalny
 
 Dzięki rezerwacjom platformy Azure i subskrypcjom serwera (Windows Server i SQL Server) partnerzy w programie CSP mogą lepiej rozwiązać rosnące zapotrzebowanie klientów na bardziej ekonomiczne rozwiązania do obsługi wysoce przewidywalnych i trwałych obciążeń w chmurze. 
 
-Możesz teraz pozyskiwać i aprowizować rezerwacje platformy Azure oraz subskrypcje serwera i zarządzać nimi w imieniu klientów komercyjnych za pośrednictwem usług Partner Center i Azure Portal, korzystając z Korzyść użycia hybrydowego platformy Azure.
+Możesz teraz pozyskiwać i aprowizować rezerwacje platformy Azure oraz subskrypcje serwera i zarządzać nimi w imieniu klientów komercyjnych za pośrednictwem usług Partner Center i Azure Portal, korzystając z zalet Korzyść użycia hybrydowego platformy Azure.
 
-Dzięki Korzyść użycia hybrydowego platformy Azure zyskasz większą wartość z licencji serwera Windows Server i zaoszczędź do 40% na maszynach wirtualnych. Z tej korzyści można skorzystać w przypadku licencji Windows Server Datacenter i Standard Edition objętych pakiet Software Assurance. W zależności od wersji można przekonwertować lub ponownie użyć licencji do uruchamiania maszyn wirtualnych programu Windows Server na platformie Azure i płacić niższą podstawową stawkę za obliczenia (na przykład stawki za maszyny wirtualne z systemem Linux).
+Dzięki Korzyść użycia hybrydowego platformy Azure uzyskać większą wartość z licencji programu Windows Server i zaoszczędzić do 40% na maszynach wirtualnych. Korzyści można wykorzystać w przypadku licencji Windows Server Datacenter i Standard Edition objętych pakiet Software Assurance. W zależności od wersji możesz przekonwertować lub ponownie użyć licencji, aby uruchamiać maszyny wirtualne programu Windows Server na platformie Azure i płacić niższą podstawową stawkę za obliczenia (na przykład stawki za maszyny wirtualne z systemem Linux).
 
-## <a name="azure-reservations-unavailable-markets"></a>Rezerwacje platformy Azure niedostępne na rynkach
+## <a name="azure-reservations-unavailable-markets"></a>Rezerwacje platformy Azure są niedostępne na rynkach
 
 >[!IMPORTANT]
 >Rezerwacje platformy Azure **nie są** dostępne na następujących rynkach:  
 >  
 > **Niedostępne rynki (w kolejności alfabetycznej)**
 >
-> |A do Gi   | Gr do Pal  | Pap do Z |
+> |A do Gi   | Gr do Pal  | Pap–Z |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | Wyspy Alandzkie     | Grenlandia     | Papua Nowa Gwinea     |
 > | Samoa Amerykańskie     | Grenada     | Wyspy Pitcairn     |
@@ -46,7 +46,7 @@ Dzięki Korzyść użycia hybrydowego platformy Azure zyskasz większą wartoś�
 > | Benin     | Haiti       | Saint Vincent i Grenadyny     |
 > | Bhutan     | Wyspy Heard i McDonalda       | Samoa     |
 > | Bonaire     | Wyspa Man     | San Marino     |
-> | Wyspa Bouveta     | Jan Mayen     | São Tomé i Práncipe   |
+> | Wyspa Bouveta     | Jan Mayen     | São Tomé i Prüncipe   |
 > | Brytyjskie Terytorium Oceanu Indyjskiego       | Jersey     | Seszele   |
 > | Brytyjskie Wyspy Dziewicze     | Kiribati       | Sierra Leone   |
 > | Burkina Faso     | Kosowo     | Sint Eustatius     |
@@ -55,7 +55,7 @@ Dzięki Korzyść użycia hybrydowego platformy Azure zyskasz większą wartoś�
 > | Republika Środkowoafrykańska     | Liberia     | Somalia     |
 > | Czad     | Madagaskar     | Georgia Południowa i Sandwich Południowy     |
 > | Chiny     | Malawi     | Sudan Południowy     |
-> | Wyspa Bożego Narodzenia     | Malediwy     | StRowa, Ascension, Tristan da Cunha     |
+> | Wyspa Bożego Narodzenia     | Malediwy     | StLiga, Ascension, Tristan da Cunha     |
 > | Wyspy Kokosowe (Keelinga)     | Mali     | Surinam     |
 > | Komory     | Wyspy Marshalla     | Svalbard     |
 > | Kongo     | Martynika     | Suazi     |
@@ -173,7 +173,7 @@ Podczas próby anulowania zamówienia użytkownik Partner Center także podać i
 
 - Czy okno anulowania zostało już przekazane i nie można już anulować zamówienia
 
-- Jeśli potrzebujesz więcej informacji na temat Twojego żądania anulowania, możesz uzyskać link do formularza wniosku o pomoc **techniczną.**
+- Jeśli potrzebujemy więcej informacji na temat twojego żądania anulowania, możesz uzyskać link do formularza wniosku o pomoc **techniczną.**
 
 >[!IMPORTANT]
 >Po anulowaniu zamówienia zostanie wyświetlony komunikat potwierdzający anulowanie. Może wystąpić opóźnienie do 15 minut, jednak zanim anulowanie pojawi się na Partner Center nawigacyjnym. 
@@ -182,7 +182,7 @@ Podczas próby anulowania zamówienia użytkownik Partner Center także podać i
 
 Po anulowaniu zakupu:
 
-- Wszystkie powiązane klucze oprogramowania i linki pobierania zostaną odwołane. To odwołanie oznacza, że Ty i Klient nie możecie już korzystać z kluczy oprogramowania i linków pobierania związanych z tym zakupem. Klient i Ty ponosisz odpowiedzialność za zaprzestanie korzystania ze wszystkich anulowanych programów. Użytkownik jest również odpowiedzialny za odinstalowanie anulowane oprogramowania oraz usunięcie wszelkich powiązanych plików do pobrania oprogramowania i linków.
+- Wszystkie powiązane klucze oprogramowania i linki pobierania zostaną odwołane. To odwołanie oznacza, że Ty i Klient nie możecie już korzystać z kluczy oprogramowania i linków pobierania związanych z tym zakupem. Klient i Ty ponosisz odpowiedzialność za zaprzestanie korzystania ze wszystkich anulowanych programów. Użytkownik jest również odpowiedzialny za odinstalowanie anulowanych programów oraz usunięcie wszelkich powiązanych plików do pobrania oprogramowania i linków.
 
 - Anulowany element będzie nadal wyświetlany na stronie Szczegóły oprogramowania klienta, ale klucz aktywacji nie będzie dostępny.
 
@@ -214,5 +214,5 @@ Jeśli próbowano anulować zakup oprogramowania za pośrednictwem usługi Partn
 ## <a name="next-steps"></a>Następne kroki
 
 - [Przewodnik po zamawianiu i realizacji za pośrednictwem Partner Center](https://partner.microsoft.com/resources/detail/guide-to-ordering-and-fulfillment-through-partner-center-pdf)
-- [Używanie Partner Center do sprzedawania subskrypcji klientów produktom komercyjnej platformy handlowej](sell-marketplace-products.md)
+- [Używanie Partner Center do sprzedawania subskrypcji klientów produktom platformy handlowej](sell-marketplace-products.md)
 - [Przypisywanie subskrypcji platformy Azure do klientów w Partner Center](assign-azure-subscriptions.md)

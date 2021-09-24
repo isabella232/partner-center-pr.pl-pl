@@ -13,7 +13,7 @@ ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/24/2021
-ms.locfileid: "128367131"
+ms.locfileid: "128369336"
 ---
 # <a name="rejected-co-op-claims"></a>Odrzucone oświadczenia dotyczące współpracy
 **Odpowiednie role:** Zachęty dla administratorów | Zachęty użytkownika

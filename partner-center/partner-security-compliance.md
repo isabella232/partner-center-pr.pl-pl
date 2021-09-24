@@ -14,15 +14,15 @@ ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/24/2021
-ms.locfileid: "128366054"
+ms.locfileid: "128359401"
 ---
 # <a name="security-requirements-status-report"></a>Raport o stanie wymagań dotyczących zabezpieczeń
 
 **Odpowiednie role:** administrator CPV | Administrator globalny
 
-W tym artykule wyjaśniono raport o stanie wymagań dotyczących zabezpieczeń w Partner Center. Ten raport zawiera metryki dotyczące zgodności z wymaganiami [partnerów](partner-security-requirements.md) w zakresie uwierzytelniania wieloskładnikowego (MFA) dla użytkowników w dzierżawie partnera.
+W tym artykule wyjaśniono raport o stanie wymagań dotyczących zabezpieczeń w Partner Center. Ten raport zawiera metryki dotyczące zgodności z [wymaganiami](partner-security-requirements.md) zabezpieczeń partnera dla uwierzytelniania wieloskładnikowego (MFA) dla użytkowników w dzierżawie partnera.
 
-Aby uzyskać dostęp do tego raportu [w Partner Center](https://partner.microsoft.com/dashboard), przejdź **do Ustawienia** Ustawienia  >  **konta** Stan  >  **wymagań zabezpieczeń.** Raport jest aktualizowany codziennie i odzwierciedla dane logowania z ostatnich siedmiu dni.
+Aby uzyskać dostęp do tego raportu [w Partner Center,](https://partner.microsoft.com/dashboard)przejdź do **Ustawienia**  >  **Ustawienia konta**  >  **Stan wymagań zabezpieczeń.** Raport jest aktualizowany codziennie i odzwierciedla dane logowania z ostatnich siedmiu dni.
 
 >[!NOTE]
 >Raport o stanie wymagań dotyczących zabezpieczeń jest obsługiwany tylko w Partner Center. Nie jest ona dostępna w witrynie Microsoft Cloud for US Government Microsoft Cloud w Niemczech. Zdecydowanie zalecamy, aby wszyscy partnerzy w ramach transakcji za pośrednictwem suwerennej chmury (rząd USA i Niemcy) natychmiast przyjmowały te nowe wymagania dotyczące zabezpieczeń. Jednak obecnie ci partnerzy nie muszą spełniać nowych wymagań dotyczących zabezpieczeń. Firma Microsoft udostępni dodatkowe szczegóły dotyczące wymuszania tych wymagań dotyczących zabezpieczeń suwerennych chmur w przyszłości.
@@ -62,9 +62,9 @@ Metryka **Za pośrednictwem interfejsu API lub zestawu SDK** jest powiązana z u
 - Firma Fabrikam jest partnerem programu CSP i ma aplikację CSP, która używa kombinacji metod uwierzytelniania App+User i uwierzytelniania tylko dla aplikacji.
 - Pierwszego dnia aplikacja zażądała trzech żądań interfejsu API, które zostały pozyskane za pomocą tokenu dostępu uzyskanego za pośrednictwem metody uwierzytelniania App+User bez weryfikacji mfa.
 - Drugiego dnia aplikacja zażądała pięciu żądań interfejsu API, które zostały pozyskane przy użyciu tokenu dostępu uzyskanego przy użyciu uwierzytelniania tylko aplikacji.
-- Trzeciego dnia aplikacja przesłała dwa żądania interfejsu API, których kopię zapasową stanowi token dostępu uzyskany przy użyciu metody uwierzytelniania App+User z weryfikacją MFA.
+- Trzeciego dnia aplikacja przesłała dwa żądania interfejsu API, które zostały pozyskane przy użyciu tokenu dostępu uzyskanego przy użyciu metody uwierzytelniania App+User z weryfikacją MFA.
 - W ciągu ostatnich czterech dni nie zostały wykonane żadne operacje wykonane przez żadnego z agentów.
-- Pięć żądań interfejsu API drugiego dnia, które zostały pozyskane przez token dostępu uzyskany za pośrednictwem uwierzytelniania tylko aplikacji, zostanie pominiętych w metryce, ponieważ nie korzysta z poświadczeń użytkownika. Z pozostałych pięciu operacji dwie z nich zostały pozyskane przy użyciu tokenu dostępu uzyskanego podczas weryfikacji MFA. W związku z tym metryka pokazuje 40%.
+- Pięć żądań interfejsu API drugiego dnia, które zostały pozyskane przez token dostępu uzyskany za pośrednictwem uwierzytelniania tylko dla aplikacji, zostanie pominiętych w metryce, ponieważ nie korzysta z poświadczeń użytkownika. Z pozostałych pięciu operacji dwie z nich zostały pozyskane przy użyciu tokenu dostępu uzyskanego podczas weryfikacji MFA. W związku z tym metryka pokazuje 40%.
 
 Jeśli chcesz zrozumieć, które działania związane z aplikacją i użytkownikiem skutkują nie 100% dla tej metryki, użyj plików:
 
@@ -98,9 +98,9 @@ Dowiedz się, czy bieżąca implementacja wymusza uwierzytelniania wieloskładni
 
 ### <a name="review-third-party-mfa-configurations"></a>Przeglądanie konfiguracji usługi MFA innych firm
 
-Jeśli używasz rozwiązania mfa innej firmy, zidentyfikuj sposób integrowania go z usługą Azure AD. Ogólnie rzecz biorąc, istnieją dwie metody, w tym kontrolki federacji i niestandardowe:
+Jeśli używasz rozwiązania mfa innej firmy, zidentyfikuj sposób integrowania go z usługą Azure AD. Ogólnie rzecz biorąc, istnieją dwie metody, w tym federacja i kontrolki niestandardowe:
 
-* **Federacja tożsamości** — gdy usługa Azure AD otrzyma żądanie uwierzytelnienia, usługa Azure AD przekieruje użytkownika do dostawcy tożsamości federacji w celu uwierzytelnienia. Po pomyślnym uwierzytelnieniu dostawca tożsamości federacji przekieruje użytkownika z powrotem do usługi Azure AD wraz z tokenem SAML. Aby usługa Azure AD rozpoznała, że użytkownik zakończył weryfikację MFA podczas uwierzytelniania u dostawcy tożsamości federskiej, token SAML musi zawierać oświadczenie *authenticationmethodsreferences* (z wartością *multipleauthn*). Sprawdź, czy dostawca tożsamości federacji obsługuje wystawianie takiego oświadczenia. Jeśli tak, sprawdź, czy dostawca tożsamości federacji został do tego skonfigurowany. W przypadku braku oświadczenia usługa Azure AD (Partner Center) nie będzie wiedzieć, że użytkownik zakończył weryfikację uwierzytelniania wieloskładnikowego i brak oświadczenia może spowodować, że metryka nie będzie 100%.
+* **Federacja tożsamości** — gdy usługa Azure AD odbierze żądanie uwierzytelnienia, usługa Azure AD przekieruje użytkownika do dostawcy tożsamości federacji w celu uwierzytelnienia. Po pomyślnym uwierzytelnieniu dostawca tożsamości federacji przekieruje użytkownika z powrotem do usługi Azure AD wraz z tokenem SAML. Aby usługa Azure AD rozpoznała, że użytkownik zakończył weryfikację MFA podczas uwierzytelniania u dostawcy tożsamości federskiej, token SAML musi zawierać oświadczenie *authenticationmethodsreferences* (z wartością *multipleauthn*). Sprawdź, czy dostawca tożsamości federacji obsługuje wystawianie takiego oświadczenia. Jeśli tak, sprawdź, czy dostawca tożsamości federacji został do tego skonfigurowany. W przypadku braku oświadczenia usługa Azure AD (i w związku z tym Partner Center) nie będzie wiedzieć, że użytkownik zakończył weryfikację uwierzytelniania wieloskładnikowego i brak oświadczenia może spowodować, że metryka nie będzie w 100%.
 
 * **Kontrolka niestandardowa** — kontrolki niestandardowej usługi Azure AD nie można użyć do określenia, czy użytkownik zakończył weryfikację uwierzytelniania wieloskładnikowego za pośrednictwem rozwiązania mfa innej firmy. W związku z tym każdy użytkownik, który ukończył weryfikację MFA za pomocą kontrolki niestandardowej, będzie zawsze wyświetlany w usłudze Azure AD (i z kolei Partner Center) jako bez ukończenia weryfikacji MFA. Jeśli to możliwe, zaleca się przejście na federację tożsamości w przeciwieństwie do kontroli niestandardowej podczas integracji z usługą Azure AD.
 
