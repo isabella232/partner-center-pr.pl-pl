@@ -4,26 +4,27 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Dowiedz się, jak partnerzy firmy Microsoft w programie Dostawca rozwiązań w chmurze mogą kupować subskrypcje w cenach promocyjnych i przekazywać oszczędności swoim klientom.
+description: Dowiedz się, jak partnerzy firmy Microsoft w programie Dostawca rozwiązań w chmurze mogą kupować subskrypcje w ramach cen promocyjnych i przekazywać oszczędności swoim klientom.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 335c0806d9504263dcfa506721b4217cf8b78db6
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 83f4bb361002a903bff1b3d1433d09b9d244632a
+ms.sourcegitcommit: dd900161830c59bcf3c5d700d524436ee05cd987
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958750"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128714117"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Użyj promocji, aby przyciągnąć nowych klientów i przekazać im oszczędności
 
-
-
 **Odpowiednie role:** Administrator | Administrator partnera MPN | Administrator rozliczeń | Agent sprzedaży
 
-
 Firma Microsoft czasami oferuje promocje dotyczące subskrypcji opartych na licencjach, dzięki czemu możesz przekazać oszczędności klientom i rozwijać swoją firmę. 
+
+> [!Note] 
+> W tym artykule opisano sposób działania promocji w przypadku tradycyjnych subskrypcji opartych na licencjach. Informacje o tym, jak działają promocje dla nowych subskrypcji opartych na licencjach handlowych, można znaleźć w temacie new [commerce promotions (Promocje handlowe).](new-commerce-promotions.md)
+> 
 
 Firma Microsoft oferuje dwa rodzaje promocji: dostępne dla wszystkich kwalifikujących się partnerów w programie Dostawca rozwiązań w chmurze (CSP) i dostępne tylko dla partnerów w określonym regionie geograficznym.
 
@@ -39,14 +40,14 @@ Pomiń chwilę, aby przejrzeć te ważne fakty dotyczące promocji:
 
 ## <a name="see-available-promotions"></a>Zobacz dostępne promocje
 
-Na stronie **Promocje** możesz sprawdzić, czy kwalifikujesz się do promocji, a jeśli tak, do jakich. Wybierz **pozycję** **Promocje** Partner Center menu subskrypcji, aby wyświetlić listę bieżących promocji wraz z rabatem, typem promocji oraz datami rozpoczęcia i zakończenia subskrypcji. Jeśli żadne promocje nie są dostępne, zostanie wyświetlony komunikat informujący o tym. 
+Na stronie **Promocje** możesz sprawdzić, czy kwalifikujesz się do promocji, a jeśli tak, do jakich. Wybierz **pozycję** Promocje w menu **Partner Center,** aby wyświetlić listę bieżących promocji wraz z rabatem, typem promocji oraz datami rozpoczęcia i zakończenia subskrypcji. Jeśli żadne promocje nie są dostępne, zostanie wyświetlony komunikat informujący o tym. 
 
 > [!NOTE]  
 > Promocje można również przejrzeć podczas zakupu. Po wybraniu subskrypcji na stronie **Przegląd** zostanie wyświetlony cennik promocyjny.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Kup subskrypcje w cenach promocyjnych
 
-1. W **menu Partner Center** wybierz pozycję **Klienci,** a następnie wybierz klienta, który kupuje subskrypcję. 
+1. W **Partner Center** wybierz pozycję **Klienci,** a następnie wybierz klienta, który kupuje subskrypcję. 
 
 2. Wybierz **pozycję Dodaj subskrypcję.**
 

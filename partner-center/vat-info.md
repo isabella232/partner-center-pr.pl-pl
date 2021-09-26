@@ -8,19 +8,19 @@ ms.localizationpriority: medium
 ms.date: 12/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-ms.openlocfilehash: af342ef92613adbeb7ac37e0dd5e813949e67e03
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: ed9e1242299514d465b6d1781be90a4aa9f255d4
+ms.sourcegitcommit: dd900161830c59bcf3c5d700d524436ee05cd987
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246562"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128714134"
 ---
 # <a name="value-added-tax-vat-information"></a>Informacje o podatku od wartości dodanej (VAT)
 
 **Odpowiednie role:** Administrator konta
 
 
-Jeśli musisz podać numer NIP w procesie rejestracji Partner Center, oto kilka informacji, które mogą Ci rozpocząć pracę.
+Jeśli musisz podać numer NIP w procesie rejestracji Partner Center, oto kilka informacji, które mogą ci rozpocząć pracę.
 
 ## <a name="understanding-vat-numbers"></a>Informacje o numerach VAT
 
@@ -38,11 +38,11 @@ Firma Microsoft nie obsługuje środków i ponownego na rachunku. Przed sprzeda�
 
 ### <a name="south-africa"></a>Republika Południowej Afryki
 
-Firma Microsoft stosuje teraz standardowy identyfikator VAT dla zawartości cyfrowej i usług zakupionych przez partnerów w Rpa Południowej Afryki. Aby wykluczyć podatku VAT z faktur i zarządzać tym samodzielnie, musisz zaktualizować profil rozliczeniowy partnera, wysyłając do firmy [Microsoft swój numer VAT.](organization-tax-info.md)
+Firma Microsoft stosuje teraz standardowy identyfikator VAT dla zawartości cyfrowej i usług zakupionych przez partnerów w Rpa Południowej Afryki. Aby wykluczyć podatku VAT z faktur i zarządzać tym samodzielnie, musisz zaktualizować profil rozliczeniowy partnera, wysyłając do firmy [Microsoft swój numer NIP](organization-tax-info.md).
 
 ### <a name="turkey"></a>Turcja
 
-Firma Microsoft stosuje teraz standardowy identyfikator VAT dla zawartości cyfrowej i usług zakupionych przez partnerów w Witrynie Amice. Aby wykluczyć podatku VAT z faktur i zarządzać tym samodzielnie, musisz zaktualizować profil rozliczeniowy partnera, wysyłając do firmy [Microsoft swój numer VAT.](organization-tax-info.md)
+Firma Microsoft stosuje teraz standardowy identyfikator VAT dla zawartości cyfrowej i usług zakupionych przez partnerów w Witrynie Amice. Aby wykluczyć podatku VAT z faktur i zarządzać tym samodzielnie, musisz zaktualizować profil rozliczeniowy partnera, wysyłając do firmy [Microsoft swój numer NIP](organization-tax-info.md).
 
 ## <a name="accepted-formats-for-vat-numbers"></a>Akceptowane formaty numerów VAT
 
@@ -59,26 +59,26 @@ Należy pamiętać, że firma Microsoft nie zapewnia porad podatkowych, a nastę
 | Dania |- Format numeru VAT: 8 cyfr<br/>- Kod kraju/regionu: DK<br/>— Przykład: 12345678<br/> |
 |Estonia |- Format numeru VAT: 9 cyfr<br/>— Kod kraju/regionu: EE<br/>— Przykład: 123456789<br/> |
 |Finlandia |- Format numeru VAT: cyfry<br/>- Kod kraju/regionu: FI<br/>— Przykład: 12345678 |
-|Francja |- Format numeru VAT: 11 cyfr<br/>- Kod kraju/regionu: FR<br/>— Przykład: 12345678901, X1234567890, 1X123456789 lub XX123456789<br/>-Uwagi: może zawierać wszystkie znaki alfabetyczne z wyjątkiem I lub Q jako pierwszy lub drugi znak, lub jako pierwszy i drugi znak, po którym następuje 9 cyfr. |
+|Francja |- Format numeru VAT: 11 cyfr<br/>- Kod kraju/regionu: FR<br/>- Przykład: 12345678901, X1234567890, 1X123456789 lub XX123456789<br/>-Uwagi: może zawierać wszystkie znaki alfabetyczne z wyjątkiem I lub Q jako pierwszy lub drugi znak, lub jako pierwszy i drugi znak, po którym następuje 9 cyfr. |
 |Niemcy |- Format numeru VAT: 9 cyfr<br/>- Kod kraju/regionu: DE<br/>— Przykład: 123456789<br/>- Uwagi: musi być 9 cyfrą "Umsatzsteur Identifikationnummer" (Identyfikator ust nr). |
 |Grecja |- Format numeru VAT: 9 cyfr<br/>- Kod kraju/regionu: EL, GR<br/>— Przykład: 123456789 |
 |Węgry |- Format numeru VAT: 8 cyfr<br/>- Kod kraju/regionu: HU<br/>— Przykład: 12345678 |
 |Irlandia |- Format numeru VAT: 8 cyfr<br/>- Kod kraju/regionu: IE<br/>- Przykład: 1234567X lub 1X34567X<br/>- Uwagi: zawiera 1 lub 2 znaki alfabetyczne: ostatni lub drugi i ostatni. |
 |Włochy |- Format numeru VAT: 11 cyfr<br/>— Kod kraju/regionu: IT<br/>— Przykład: 12345678901 |
 |Łotwa |- Format numeru VAT: 11 cyfr<br/>- Kod kraju/regionu: LV<br/>— Przykład: 01234567890 |
-|Litwa |- Format numeru VAT: 9 lub 12 cyfr<br/>- Kod kraju/regionu: LT<br/>— Przykład: 123456789 lub 012345678901 |
+|Litwa |- Format numeru VAT: 9 lub 12 cyfr<br/>— Kod kraju/regionu: LT<br/>— Przykład: 123456789 lub 012345678901 |
 |Luksemburg |- Format numeru VAT: 8 cyfr<br/>- Kod kraju/regionu: LU<br/>— Przykład: 12345678 |
-|Malta |- Format numeru VAT: 2 litery i 8 cyfr<br/>- Kod kraju/regionu: MT</br>-Przykład: MT12345678<br/>- Uwagi: pierwsze znaki zawsze będą mieć literę "MT". |
-|Holandia |- Format numeru VAT: 11 cyfr i 1 litera<br/>— Kod kraju/regionu: NL<br/>— Przykład: 123456789B01<br/>- Uwagi: dziesiąty znak to zawsze "B". |
+|Malta |- Format numeru VAT: 2 litery i 8 cyfr<br/>- Kod kraju/regionu: MT</br>-Przykład: MT12345678<br/>- Uwagi: pierwsze znaki zawsze będą mieć typu "MT". |
+|Holandia |- Format numeru VAT: 11 cyfr i 1 litera<br/>- Kod kraju/regionu: NL<br/>— Przykład: 123456789B01<br/>- Uwagi: Dziesiąty znak to zawsze "B". |
 |Polska |- Format numeru VAT: 10 cyfr<br/>- Kod kraju/regionu: PL<br/>— Przykład: 1234567890 |
 |Portugalia |- Format numeru VAT: 9 cyfr<br/>- Kod kraju/regionu: PT<br/>— Przykład: 123456789 |
 |Rumunia |- Format numeru VAT: 2 litery i 8–10 cyfr<br/>- Kod kraju/regionu: RO<br/>— Przykład: RO12345678, RO123456789 lub RO1234567890<br/>- Uwagi: pierwsze znaki zawsze będą mieć literę "RO" |
-|Słowacja |- Format numeru VAT: 10 cyfr<br/>— Kod kraju/regionu: SK<br/>— Przykład: 1234567890<br/>- Uwagi: pierwsze znaki zawsze będą mieć typu "SI". |
-|Słowenia |- Format numeru VAT: 2 litery i 8 cyfr<br/>- Kod kraju/regionu: SI<br/>— Przykład: SI12345678<br/>- Uwagi: pierwsze znaki zawsze będą mieć typu "SI". |
+|Słowacja |- Format numeru VAT: 10 cyfr<br/>- Kod kraju/regionu: SK<br/>— Przykład: 1234567890<br/>- Uwagi: pierwsze znaki zawsze będą "SK". |
+|Słowenia |- Format numeru VAT: 2 litery i 8 cyfr<br/>- Kod kraju/regionu: SI<br/>— Przykład: SI12345678<br/>- Uwagi: pierwsze znaki zawsze będą mieć literę "SI". |
 |Hiszpania |- Format numeru VAT: 9 cyfr<br/>- Kod kraju/regionu: ES<br/>- Przykład: X12345678, 12345678X lub X1234567X<br/>- Uwagi: zawiera 1 lub 2 litery: pierwszą, ostatnią lub pierwszą i ostatnią. |
-|Szwecja |- Format numeru VAT: 12 cyfr<br/>— Kod kraju/regionu: SE<br/>— Przykład: 123456789001<br/>- Uwagi: ostatnie 2 znaki muszą mieć 2 znaki "01". |
+|Szwecja |- Format numeru VAT: 12 cyfr<br/>— Kod kraju/regionu: SE<br/>— Przykład: 123456789001<br/>- Uwagi: ostatnie 2 znaki muszą mieć 01 znaków. |
 |Zjednoczone Królestwo |- Format numeru VAT: 9 lub 12 cyfr<br/>- Kod kraju/regionu: GB<br/>— Przykład: 123456789 lub 123456789001<br/>- Uwagi: ogólnie 9 cyfr, ale 12 cyfr, jeśli liczba reprezentuje pod firmę w grupie. |
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Informacje podatkowe firmy oraz sposób dodawania lub przesyłania identyfikatorów VAT dla Partner Center zakupów](organization-tax-info.md)
+- [Informacje podatkowe firmy i sposób dodawania lub przesyłania identyfikatorów VAT dla Partner Center zakupów](organization-tax-info.md)
