@@ -1,51 +1,45 @@
 ---
 title: Zarządzanie kontem w Centrum partnerskim
-ms.topic: conceptual
-ms.date: 03/18/2021
+ms.topic: overview
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
-description: Dowiedz się, jak używać Partner Center do zarządzania profilem firmy, informacjami o banku i podatku, rolami, uprawnieniami i nie tylko.
+description: Dowiedz się, Partner Center zarządzać profilem firmy, informacjami o banku i podatku, rolami, uprawnieniami i nie tylko.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2cfb8e05a9d09aa3b7214ac3c1024348348416d5
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: bf343da721c87a684beb59fb581e0f7b01c770b0
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247455"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070808"
 ---
-# <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Zarządzanie kontem Partner Center — profilem firmy, informacjami o banku, rolami, uprawnieniami i nie tylko
+# <a name="partner-center-account-management"></a>Partner Center kontami
 
 **Odpowiednie role:** Administrator globalny | Administrator konta
 
-Konto, które tworzysz na Partner Center rejestracji, to służbowy adres e-mail oraz informacje biznesowe. Po utworzeniu konta zakończysz konfigurowanie pełnego profilu firmy, w tym szczegółów pomocy technicznej, w razie potrzeby zwolnienia z podatku oraz podstawowych informacji kontaktowych. Konto firmy będzie również obejmować konta użytkowników dla wszystkich członków zespołu, którzy będą używać Partner Center. Praca, która może obejmować dodawanie klientów lub zarządzanie nimi, sprzedaż subskrypcji, pracę z rozliczeniami i fakturowaniem, tworzenie profilów biznesowych, zarządzanie poleceniami, pracę z programami zachęt, zapewnianie pomocy technicznej i nie tylko.
+Konto, które tworzysz na Partner Center rejestracji, to służbowy adres e-mail oraz informacje biznesowe. Po utworzeniu konta zakończysz konfigurowanie pełnego profilu firmy, w tym szczegółów pomocy technicznej, w razie potrzeby zwolnienia z podatku oraz podstawowych informacji kontaktowych. Konto firmy będzie również obejmować konta użytkowników dla wszystkich członków zespołu, którzy będą korzystać z Partner Center. Praca, która może obejmować dodawanie klientów lub zarządzanie nimi, sprzedaż subskrypcji, pracę z rozliczeniami i fakturowaniem, tworzenie profilów biznesowych, zarządzanie poleceniami, pracę z programami zachęt, zapewnianie pomocy technicznej i nie tylko.
 
-Zobacz też artykuły [Invite employees to join Partner Center](./partner-membership-center-retirement-faq.md) (Zapraszanie pracowników [Partner Center) i Add a new user (Dodawanie nowego użytkownika).](create-user-accounts-and-set-permissions.md)
+Zobacz też artykuły [Invite employees to join Partner Center (Zapraszanie](./partner-membership-center-retirement-faq.md) pracowników do dołączenia do zespołu) [i Add a new user (Dodawanie nowego użytkownika).](create-user-accounts-and-set-permissions.md)
 
->[!NOTE]
->Menu Ustawienia konta zmieni się w zależności od programów, w których użytkownik jest zarejestrowany. Jeśli na przykład jesteś partnerem w programie Dostawca rozwiązań w chmurze Program (CSP), będziesz w stanie zarządzać usługami udostępnionym platformy Azure za pomocą **ustawień konta**.
+> [!NOTE]
+> Menu Ustawienia konta zmieni się w zależności od programów, w których użytkownik jest zarejestrowany. Jeśli na przykład jesteś partnerem w programie Dostawca rozwiązań w chmurze Program (CSP), będziesz w stanie zarządzać usługami udostępnionym platformy Azure za pomocą **ustawień konta**.
 
 ## <a name="account-management"></a>Zarządzanie kontami
 
-Wszyscy partnerzy komercyjni i programowi mają dostęp do zarządzania [](https://partner.microsoft.com/dashboard) kontami w programie Partner Center, logując się do pulpitu nawigacyjnego programu Partner Center i wybierając pozycję Ustawienia (ikonę koła zębatego) w prawym górnym rogu ekranu, **a** następnie pozycję **Ustawienia konta.**  Nie trzeba już wybierać między ustawieniami Partner i Deweloper. Wszystkie profile i ustawienia są teraz połączone.
+Wszyscy partnerzy komercyjni i programowi mają dostęp do zarządzania [](https://partner.microsoft.com/dashboard) kontami w programie Partner Center, logując się do pulpitu nawigacyjnego usługi Partner Center i wybierając ikonę koła zębatego Ustawienia, a następnie wybierając pozycję **Ustawienia konta.**  Nie trzeba już wybierać między ustawieniami Partner i Deweloper. Wszystkie profile i ustawienia są teraz połączone.
 
-:::image type="content" source="images/accountsettings/opening.png" alt-text="ikona ustawień.":::
+:::image type="content" source="images/accountsettings/opening.png" alt-text="Zrzut ekranu przedstawiający rozwiniętą Ustawienia koła zębatego.":::
 
-Zostanie wyświetlona strona ustawień konta.
-
-:::image type="content" source="images/accountsettings/account-settings-sv.png" alt-text="Ustawienia menu.":::
-
-### <a name="locate-your-mpn-id"></a>Lokalizowanie identyfikatora MPN
+### <a name="locate-your-mpn-id"></a>Znajdowanie identyfikatora MPN
 
 Bez względu na to, czy jesteś partnerem, czy deweloperem, użyj swojego identyfikatora MPN na przykład w celu rejestrowania biletów pomocy technicznej. Identyfikator MPN znajduje się na stronie **Informacje prawne.** Można go również znaleźć w profilu **tożsamości**.
 
 ## <a name="account-settings---partners-resellers"></a>Ustawienia konta — partnerzy, odsprzedawcy
 
 Po wybraniu  ikony Ustawienia i otwarciu **menu** Ustawień konta domyślny widok, jeśli firma jest częścią programu  Dostawca rozwiązań w chmurze, to Informacje prawne z dwiema kartami: **Partner** i **Odsprzedawca.** Każda karta zawiera aspekty twojej firmy.
-
-:::image type="content" source="images/accountsettings/reseller.png" alt-text="Menu zawiera karty Partner i Odsprzedawcy.":::
 
 Karta Partner zawiera wszystkie informacje prawne, takie jak zarejestrowana nazwa prawna i adres firmy, a także podstawowe informacje kontaktowe i lokalizacje biznesowe. Karta Reseller (Odsprzedawca) dla partnerów wykonujących działalność w programie CSP **zawiera profil Customer support (Pomoc techniczna dla klientów).**
 
@@ -55,15 +49,11 @@ Jeśli Firma nie uczestniczy w programie CSP, w widoku domyślnym będzie pokazy
 
 Możesz być częścią więcej niż jednego konta. Możesz sprawdzić, czy należysz do wielu kont, korzystając z s wyboru konta w menu nawigacji po lewej stronie.
 
-:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Zidentyfikuj sufiks konta.":::
-
 Jeśli nie widzisz s wyboru konta, należysz tylko do jednego konta. 
 
 Po wybraniu tego selektora wszystkie konta, których jesteś częścią, zostaną wyświetlone jako lista. Następnie możesz wybrać dowolne z nich i przełączyć się na to konto. Wszystko po tym pojawia się w kontekście tego konta.  
 
 W poniższym przykładzie zalogowany użytkownik jest częścią trzech wyróżnione konta. Użytkownik może się między nimi przełączać, klikając konto.
-
-:::image type="content" source="images/accountsettings/picker-two.png" alt-text="Konta, do których należysz.":::
 
 ## <a name="organization-profile"></a>Profil organizacji
 
@@ -101,7 +91,7 @@ Ta strona określa typ partnerstwa z firmą Microsoft, taki jak niezależny dost
 
 ### <a name="account-merge-profile"></a>Profil scalania konta
 
-W przypadku zapraszania firmy, która ma aktywne konto w Partner Center do scalenia swojego konta, te informacje są zarządzane na **stronie scalania** kont. Odszukaj identyfikator MPN firmy, która ma zostać zaproszona do scalenia z Twoimi, wyświetlenia bieżących fuzjów i wysłania zaproszeń do firm. Zaakceptuj lub odrzuć zaproszenie do scalenia konta firmowego z kontem innej firmy w tym miejscu. Aby uzyskać szczegółowe informacje, [zobacz Scalanie konta partnera z innym kontem partnera.](merge-accounts.md)
+W przypadku zapraszania firmy, która ma aktywne konto w Partner Center scalania swojego konta z Twoim, te informacje są zarządzane na **stronie scalania** kont. Odszukaj identyfikator MPN firmy, która ma zostać zaproszona do scalenia z Twoimi, wyświetlenia bieżących fuzjów i wysłania zaproszeń do firm. Zaakceptuj lub odrzuć zaproszenie do scalenia konta firmowego z kontem innej firmy w tym miejscu. Aby uzyskać szczegółowe informacje, [zobacz Scalanie konta partnera z innym kontem partnera.](merge-accounts.md)
 
 ## <a name="payout-and-tax"></a>Wypłata i podatek
 
@@ -109,36 +99,31 @@ Ta strona zawiera szczegóły wypłat  i podatków, w tym informacje dotyczące 
 
 ## <a name="user-management"></a>Zarządzanie użytkownikami
 
-To, nad czym pracujesz Partner Center i obszary, które można aktualizować lub zobaczyć, zależy od Twojej roli i uprawnień dołączonych do tej roli. Jeśli na przykład nie jesteś administratorem zachęt, nie będziesz mieć możliwości zmiany niczego na stronach zachęt, chociaż możesz wyświetlać dane. Dowiedz się więcej o [rolach i uprawnieniach](permissions-overview.md)
+To, nad czym pracujesz w Partner Center i jakie obszary można aktualizować lub zobaczyć, zależy od Twojej roli i uprawnień dołączonych do tej roli. Jeśli na przykład nie jesteś administratorem zachęt, nie będziesz mieć możliwości zmiany niczego na stronach zachęt, chociaż możesz wyświetlać dane. Dowiedz się więcej o [rolach i uprawnieniach](permissions-overview.md)
 
 ### <a name="update-preferred-email"></a>Aktualizowanie preferowanej poczty e-mail
 
 Aby zaktualizować preferowaną wiadomość e-mail w celu otrzymywania Partner Center powiadomień:
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard) Centrum partnerskiego.
-1. Przejdź do [**preferencji Engagement,**](https://partner.microsoft.com/dashboard/engagement/preference)wybierz link **Zmień,** zaktualizuj adres e-mail i wybierz pozycję **Zapisz.**
+
+2. Wybierz ikonę Ustawienia koła zębatego, a następnie [**pozycję Moje preferencje.**](https://partner.microsoft.com/dashboard/engagement/preference)
+
+3. Wybierz **pozycję Zmień,** zaktualizuj adres e-mail, a następnie wybierz **pozycję Zapisz.**
 
 ### <a name="find-your-user-role"></a>Znajdowanie roli użytkownika
 
-1. Przejdź do **Ustawienia** i wybierz pozycję **Mój profil**.
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard) Centrum partnerskiego.
 
-1. Na **stronie Szczegóły** zobaczysz dane osobowe dotyczące pracy oraz nauki, egzaminów i certyfikacji.
+2. Wybierz ikonę Ustawienia koła zębatego, a następnie pozycję **Konto Ustawienia**, a następnie wybierz **pozycję Mój profil**.
 
-1. Wybierz **kartę Role i uprawnienia,** aby wyświetlić wszystkie przypisane role i uprawnienia, które te role zapewniają.
+3. Na stronie profilu zobaczysz twoje dane osobowe dotyczące Twojej pracy oraz danych dotyczących nauki, egzaminów i certyfikatów.
+
+4. Wybierz **kartę Role i uprawnienia,** aby wyświetlić wszystkie przypisane role i uprawnienia, które te role zapewniają.
 
 ## <a name="programs-in-which-you-are-enrolled"></a>Programy, w których użytkownik jest zarejestrowany
 
 Praca, która ma na celu zarządzanie kontem usługi Partner Center, odnosi się do określonych programów, w których użytkownik jest zarejestrowany, oraz ról i uprawnień użytkownika przypisanych do Partner Center.
-
-Aby zobaczyć, do których programów masz dostęp:
-
-1. Zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard)
-
-2. Menu nawigacji po lewej stronie odzwierciedla programy zarejestrowane w usłudze i opcje dostępne dla każdego programu.
-
-Oto jeden przykład. Załóżmy, że użytkownik ma dostęp do trzech programów na Partner Center nawigacyjnym: program **MPN,** **program** poleceń i program **komercyjnej platformy handlowej.** Po zalogowaniu się do Partner Center nawigacyjnego zobaczą te trzy programy po lewej stronie ekranu.
-
-:::image type="content" source="images/accountsettings/programs-enrolled-left-nav.png" alt-text="Menu Zarejestrowane programy.":::
 
 ### <a name="enrolling-in-programs"></a>Rejestrowanie w programach
 
@@ -148,10 +133,10 @@ Aby dowiedzieć się więcej o rejestrowaniu w niektórych Partner Center, zobac
 
 - [Program komercyjnej platformy handlowej](/azure/marketplace/partner-center-portal/create-account)
 - [Microsoft Partner Network członkostwa](mpn-overview.md)
-- [Program CSP](./enrolling-in-the-csp-program.md)
+- [Program Dostawca rozwiązań w chmurze](./enrolling-in-the-csp-program.md)
 - [Office Sklepie](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
-Aby dowiedzieć się więcej o rejestrowaniu w programach Partner Center, zobacz również [Zasoby sieciowe partnerów.](https://partner.microsoft.com/)
+Aby dowiedzieć się więcej na temat rejestrowania w Partner Center, zobacz również [Zasoby sieciowe partnerów](https://partner.microsoft.com/).
 
 ## <a name="next-steps"></a>Następne kroki
 
@@ -161,4 +146,4 @@ Aby dowiedzieć się więcej o rejestrowaniu w programach Partner Center, zobacz
 - [Zarządzanie kontem MPN: lokalizacje](manage-locations.md)
 - [Resetowanie hasła użytkownika](reset-a-user-password.md)
 - [Interfejs API: uzyskiwanie profilu biznesowego partnera z prawem](/partner-center/develop/get-legal-business-profile)
-- [Odkryj oferty i ceny na platformie handlowej Partner Center platformy handlowej](csp-commercial-marketplace-discover.md)
+- [Odkrywanie ofert i cen na platformie Partner Center platformie handlowej](csp-commercial-marketplace-discover.md)

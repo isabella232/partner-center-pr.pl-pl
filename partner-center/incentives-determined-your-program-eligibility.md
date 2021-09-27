@@ -7,13 +7,13 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 03/16/2021
-ms.openlocfilehash: 8b9442a99aaf1ed23242eb568859d3113a8262d4
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.date: 09/27/2021
+ms.openlocfilehash: b1ad332f14543d3b29b74d4b174012233a51544b
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958582"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070465"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Określanie uprawnień do programu zachęt
 
@@ -27,6 +27,25 @@ Wymagania dotyczące uprawnień do programu można znaleźć w przewodniku po pr
 
 ### <a name="to-see-your-program-guide"></a>Aby wyświetlić przewodnik po programie
 
+> [!NOTE]
+> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz Getting around Partner Center (Poruszanie [się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
+
+1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
+
+2. Wybierz **kafelek Zachęty.**
+
+3. Wybierz program, którego potrzebujesz.
+
+4. W polu **Stan** wybierz pozycję **Wymagania dotyczące uprawnień.**
+
+   :::image type="content" source="images/incentives/eligibility.png" alt-text="Zrzut ekranu to przykład wymagań dotyczących zachęt.":::
+
+5. Wypełnij wszystkie obszary, które nie są zaznaczone w celu spełnienia uprawnień. Każdy program zachęt ma własny zestaw wymagań.
+
+#### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
+
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 
 2. W obszarze **Zachęty** na lewym panelu nawigacyjnym wybierz pozycję **Przegląd**. Zostanie otwarta strona **Przegląd programu**.
@@ -38,6 +57,8 @@ Wymagania dotyczące uprawnień do programu można znaleźć w przewodniku po pr
    :::image type="content" source="images/incentives/eligibility.png" alt-text="Zrzut ekranu to przykład wymagań dotyczących zachęt.":::
 
 5. Wypełnij wszystkie obszary, które nie są zaznaczone w celu spełnienia uprawnień. Każdy program zachęt ma własny zestaw wymagań.
+
+* * *
 
 ## <a name="next-steps"></a>Następne kroki
 

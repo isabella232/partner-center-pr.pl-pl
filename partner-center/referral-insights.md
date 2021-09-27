@@ -3,18 +3,18 @@ title: Get referral insights (Uzyskiwanie szczegółowych informacji o polecenia
 ms.topic: article
 ms.date: 04/30/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-referrals
+ms.subservice: partnercenter-insights
 description: Regularnie przeglądaj szczegółowe informacje o poleceniach w Partner Center, aby zobaczyć trendy dotyczące obszarów lub ulepszeń, które pomogą Ci osiągnąć cele biznesowe.
-author: rajap-ms
-ms.author: rajap
+author: v-sausharma
+ms.author: v-sausharma
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8886831228807c48bd3666daa485ac5357c8c6e2
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 33b88445bb17a5b5a463635dcd76d728ce58a08e
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958834"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070317"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Uzyskaj szczegółowe informacje o poleceniach w Partner Center i dowiedz się, jak działa twoje polecenia
 
@@ -22,22 +22,22 @@ ms.locfileid: "123958834"
 
 Strona **Możliwości współpracy sprzedaży** w sekcji **Analiza** w sekcji Polecenia umożliwia zobaczenie działania poleceń. Regularnie sprawdzaj te metryki, aby identyfikować trendy lub obszary, które wymagają uwagi, i zacząć prowadzeniu do celów biznesowych.
 
-Aby wyświetlić szczegółowe informacje o możliwościach sprzedaży, z menu usługi Partner Center przejdź do pozycji Polecenia > Analytics > Możliwości **współs** sprzedaży.
+Aby wyświetlić dane szczegółowych informacji o możliwościach sprzedaży, z menu usługi Partner Center przejdź do pozycji Polecenia > Analytics > Możliwości **sprzedaży.**
 
 > [!Important]
 > Filtr typu transakcji jest wstępnie stosowany z typem **Co-sell** i **Partner-led** wybranym dla wszystkich danych. Usuń filtr, jeśli chcesz analizować dane dla wszystkich lub określonego typu transakcji.
 
 ## <a name="apply-filters"></a>Stosowanie filtrów
 
-W górnej części strony **Możliwości** współpracy sprzedaży możesz wybrać okres, dla którego chcesz wyświetlić dane. Wartość domyślna to **3 mln** (trzy miesiące), ale zamiast tego możesz wybrać wyświetlanie danych przez sześć miesięcy lub jeden rok. Możesz również wybrać pozycję **Niestandardowe,** aby wyświetlić dane dla wszystkich poleceń w określonym okresie.
+W górnej części strony **Możliwości** współpracy sprzedaży możesz wybrać okres, dla którego chcesz wyświetlić dane. Wartość domyślna to **3 mln** (trzy miesiące), ale zamiast tego możesz wybrać wyświetlanie danych przez sześć miesięcy lub jeden rok. Możesz również wybrać pozycję **Niestandardowy,** aby wyświetlić dane dla wszystkich poleceń w określonym okresie.
 
 Możesz wybrać  przycisk Filtry, aby otworzyć panel, który umożliwia filtrowanie wszystkich danych na tej stronie według nazwy klienta, kraju, typu transakcji, kierunku transakcji, nazwy rozwiązania i stanu. Poniżej przedstawiono szczegóły tych filtrów.
 
 - **Nazwa klienta:** wartość domyślna to **Wszystkie,** ale możesz ograniczyć dane do jednego lub większej liczby wybranych klientów.
-- **Kraj:** wartość **domyślna to Wszystkie,** ale można ograniczyć dane do jednego lub większej liczby krajów wybranego klienta.
+- **Kraj:** wartość domyślna **to Wszystkie,** ale możesz ograniczyć dane do jednego lub większej liczby krajów wybranego klienta.
 - **Typ transakcji:** wartość  domyślna  to Współs sprzedaży i Prowadzone przez partnera, ale możesz wybrać pozycję Wszystkie lub ograniczyć dane do transakcji prywatnych lub kierowanych przez partnera na podstawie wybranego wyboru.
 - **Kierunek transakcji** Wartość domyślna to **Wszystkie,** ale możesz ograniczyć  dane do przychodzących poleceń  (otrzymanych) lub wychodzących (tych, które zostały wysłane).
-- **Nazwa rozwiązania:** wartość domyślna to **Wszystkie,** ale można ograniczyć dane do poleceń, które zawierają jedno lub więcej wybranych rozwiązań.
+- **Nazwa rozwiązania:** wartość domyślna to **Wszystkie,** ale można ograniczyć dane do poleceń, które zawierają co najmniej jedno wybrane rozwiązanie.
 - **Stan:** wartość domyślna to **Wszystkie,** ale można ograniczyć dane do poleceń, które zawierają co najmniej jeden typ stanu poleceń, taki jak utworzone, zaakceptowane, odrzucone, wygasłe, utracone i zwyciężyły wybrane przez Ciebie.
 
 Informacje na wszystkich wykresach wymienionych poniżej będą odzwierciedlać zakres dat i wszystkie wybrane filtry, z wyjątkiem wymienionych poniżej. Niektóre sekcje umożliwiają również stosowanie dodatkowych filtrów, takich jak filtrowanie do określonego rozwiązania.
@@ -62,7 +62,7 @@ Transakcje przychodzące z wspólną sprzedażą mogą być scalane z zaakceptow
 
 Transakcje wychodzące prowadzone przez partnerów, prywatne i współsprowadniane będą scalane z utworzonymi, ponieważ tego typu transakcje są tworzone przez partnerów.
 
-:::image type="content" source="images/referrals/outbound.png" alt-text="Obraz przedstawiający stany poleceń wychodzących.":::
+:::image type="content" source="images/referrals/outbound.png" alt-text="Obraz przedstawiający stany od skierowań wychodzących.":::
 
 :::image type="content" source="images/referrals/cosell-analytics-funnel-v2.png" alt-text="Obraz przedstawiający lejek konwersji dla poleceń.":::
 
@@ -70,7 +70,7 @@ Transakcje wychodzące prowadzone przez partnerów, prywatne i współsprowadnia
 
 W tej sekcji przedstawiono kraje/regiony, z których pochodziły transakcje, wraz ze szczegółami dla każdego kraju/regionu. Istnieje widok tabeli ze szczegółami transakcji dla każdego kraju oraz widokiem mapy wszystkich krajów. Możesz wybrać konkretny kraj w tabeli lub wybrać widok mapy, aby powiększyć widok do określonego kraju.
 
-:::image type="content" source="images/referrals/cosell-analytics-geo-distribution-v2.png" alt-text="Obraz przedstawiający geograficzną dystrybucję poleceń.":::
+:::image type="content" source="images/referrals/cosell-analytics-geo-distribution-v2.png" alt-text="Obraz przedstawiający dystrybucję geograficzną poleceń.":::
 
 ## <a name="deals-by-solutions"></a>Transakcje według rozwiązań
 
@@ -78,13 +78,13 @@ Ten wykres pozwala zobaczyć, które z Twoich rozwiązań wpływają na najwięk
 Na podstawie wyboru opcji przestawnej możesz zobaczyć wydajność transakcji zagregowanych według rozwiązania.
 
 > [!NOTE]
-> Jeśli w transakcji uwzględniono wiele rozwiązań, w tabeli będzie pokazywana ta sama transakcja wliczona do wszystkich tych rozwiązań. Nie należy dodawać wartości związanych z rozwiązaniami i porównywać ich z innymi metrykami woluminu poleceń. Ten widok ma pomóc w zrozumieniu wydajności w przypadku rozwiązania przestawnego.
+> Jeśli w transakcji uwzględniono wiele rozwiązań, w tabeli będzie pokazywana ta sama transakcja wliczona do wszystkich tych rozwiązań. Nie należy dodawać wartości związanych z rozwiązaniami i porównywać ich z innymi metrykami woluminu poleceń. Ten widok ma pomóc w zrozumieniu wydajności transakcji w przypadku rozwiązania przestawnego.
 
 Tabela zawiera łączną liczbę transakcji, w których uwzględniono rozwiązanie, oraz odpowiednie stany, takie jak wygrane transakcje, utracone transakcje, transakcje wygasły wraz z łączną wartością transakcji wygranych i utraconych w walucie USD. Po prawej stronie tabeli znajduje się wykres trendu transakcji, który pokazuje łączną liczbę transakcji i wartość transakcji wygraną w walucie USD na podstawie wybranego rozwiązania. Domyślnym wyborem są wszystkie rozwiązania.
 
 :::image type="content" source="images/referrals/cosell-analytics-solutions-v2.png" alt-text="Obraz przedstawiający wydajność rozwiązań.":::
 
-## <a name="declined--lost-reasons"></a>Odrzucono & przyczyny zgubionych
+## <a name="declined--lost-reasons"></a>Odrzucono & przyczyn
 
 Ta sekcja pomoże Ci przeanalizować przyczyny, dla  których transakcje są oznaczane jako odrzucone lub **utracone** przez Twoją firmę. Opcje w tych reprezentacjach są tymi samymi przyczynami, które wybrali sprzedawcy podczas zamykania transakcji jako odrzucona lub utracona.
 
@@ -98,7 +98,7 @@ Sekcja porównania pomoże Ci porównać dane związane z poleceniami oparte na 
 - Rynków
 - Rozwiązania
 
-Po wybraniu typu transakcji można porównać wydajność poleceń w odniesieniu do szans sprzedaży, transakcji prowadzonych przez partnera i transakcji prywatnych. W przypadku rynków i rozwiązań można wybrać maksymalnie trzy różne opcje, aby porównać ich wydajność. Pierwszy wykres, który jest wykresem słupkowym, będzie zawierał dane z trendem miesiąc do miesiąca na podstawie głównego wykresu przestawnego, czyli liczby lub wygranych transakcji. Po prawej stronie wykresu słupkowego znajduje się również wykres kołowy, który pokazuje rozkład według wartości procentowej dla tych samych danych.
+Po wybraniu typu transakcji można porównać wydajność poleceń w odniesieniu do szans sprzedaży, transakcji prowadzonych przez partnera i transakcji prywatnych. W przypadku rynków i rozwiązań można wybrać maksymalnie trzy różne opcje, aby porównać ich wydajność. Pierwszy wykres, który jest wykresem słupkowym, będzie zawierał dane z trendem miesiąc do miesiąca na podstawie głównego wykresu przestawnego, czyli ilości lub liczby wygranych transakcji. Po prawej stronie wykresu słupkowego znajduje się również wykres kołowy, który pokazuje rozkład według wartości procentowej dla tych samych danych.
 
 :::image type="content" source="images/referrals/cosell-analytics-compare-v2.png" alt-text="Obraz przedstawiający sekcję porównania.":::
 
@@ -125,7 +125,7 @@ Istnieje wiele powodów, dla których uzyskujesz pusty wykres, taki jak poniżej
 :::image type="content" source="images/referrals/nodata.png" alt-text="Obraz przedstawiający brak wizualizacji danych dla poleceń.":::
 
 > [!NOTE]
-> Na stronie **Statystyki poleceń** są wyświetlane tylko dane poleceń wygenerowanych w Centrum partnerskim. Nie są w nim wyświetlane dane dotyczące poleceń wygenerowanych za pośrednictwem poleceń sprzedaży [partnera Połączenie](psc-to-pc.md) innych mechanizmów.
+> Na stronie **Statystyki poleceń** są wyświetlane tylko dane poleceń wygenerowanych w Centrum partnerskim. Nie są w nim wyświetlane dane dotyczące poleceń wygenerowanych za pośrednictwem centrum sprzedaży [partnera Połączenie](psc-to-pc.md) innych mechanizmów.
 
 > [!TIP]
 > Aby zobaczyć, jak działa Twój profil biznesowy w [chmurze](https://www.microsoft.com/solution-providers/home) Znajdź dostawcę rozwiązań, zapoznaj się ze stroną [Szczegółowe informacje o potencjalnych klientach.](referral-leads-insights.md)

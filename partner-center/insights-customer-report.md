@@ -5,16 +5,16 @@ ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Odkryj sposoby ulepszania swojej firmy. Wyświetlanie trendów określonych klientów według lokalizacji geograficznej, produktu i innych atrybutów.
-author: shthota77
-ms.author: shthota
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 327d2ddd97dc4bf226985523184407f32f7883ad
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 1b4efb558293313933b9c89d1f44b51058ed9926
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246855"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074748"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Raporty pulpitu nawigacyjnego klientów z Partner Center Szczegółowe informacje
 
@@ -75,7 +75,7 @@ Liczba bieżących klientów, bieżących aktywnych klientów i klientów nowo d
 
 Trend klientów z podziałem na nowe, istniejące i rezygnacje dla wybranego zakresu dat. Oś X reprezentuje miesiące wybranego zakresu dat, a oś Y reprezentuje liczbę klientów. Klienci z rezygnacjami są reprezentowani w ujemnej skali osi Y. Skumulowany wykres kolumnowy przedstawia podział nowych, istniejących i rezygnacji klientów w miesiącu. Możesz ponownie skompilować wykres kolumnowy z określonymi elementami stosu, wybierając te elementy w legendzie. Możesz użyć suwaka w górnej części wykresu, aby powiększyć widok do określonego okresu. 
 
-:::image type="content" source="images/insights/customer-lost.png" alt-text="Zrzut ekranu Partner Center Szczegółowe informacje raportu klienta z wykresem słupkowym przedstawia liczbę dodanych i utraconych lub rezygnacji klientów w określonym czasie.":::
+:::image type="content" source="images/insights/customer-lost.png" alt-text="Zrzut ekranu Partner Center Szczegółowe informacje raportu klienta z wykresem słupkowym przedstawia liczbę dodanych i utraconych lub zrzuconych klientów w określonym czasie.":::
 
 ## <a name="customer-distribution"></a>Dystrybucja klientów
 
@@ -104,4 +104,4 @@ Wykres trendu miesięcznego porównujący aktywnych i całkowitych klientów dla
 Aby uzyskać więcej raportów, [zobacz Partner Center Szczegółowe informacje](partner-center-insights.md).
 
 >[!NOTE]
-> Możesz pobrać nieprzetworzone dane, które są zasilane z tego raportu, z sekcji Pobieranie raportów na pulpicie Szczegółowe informacje nawigacyjnym. [Więcej informacji](insights-download-reports.md) 
+> Możesz pobrać dane pierwotne, które są zasilane z tego raportu, z sekcji Pobieranie raportów na pulpicie Szczegółowe informacje nawigacyjnym. [Więcej informacji](insights-download-reports.md) 

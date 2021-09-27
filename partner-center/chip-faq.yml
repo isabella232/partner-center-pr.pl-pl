@@ -2,7 +2,7 @@
 metadata:
   title: Często zadawane pytania dotyczące zachęt do oceny rozwiązań
   ms.topic: how-to
-  ms.date: 11/09/2020
+  ms.date: 09/27/2021
   description: Odpowiedzi na często zadawane pytania dotyczące oceny rozwiązań można znaleźć na platformie CHANNEL Incentives Platform (CHIP).
   ms.service: partner-dashboard
   ms.subservice: partnercenter-incentives
@@ -10,12 +10,12 @@ metadata:
   ms.author: kashanum
   ms.localizationpriority: medium
   ms.custom: SEOMAY.20
-  ms.openlocfilehash: 60586dbabfc289d2ebc355e5d7bacf5bb11fcfe5
-  ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+  ms.openlocfilehash: 478b5d2c0ed228911c14801f096555931e5b677d
+  ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/13/2021
-  ms.locfileid: "126247059"
+  ms.lasthandoff: 09/27/2021
+  ms.locfileid: "129072532"
 title: Zachęty do oceny rozwiązań — często zadawane pytania dotyczące platformy Channel Incentives Platform (CHIP)
 summary: >
   **Odpowiednie role:** Podstawowy kontakt lub administrator programu
@@ -33,7 +33,7 @@ sections:
     answer: >
       Skontaktuj się z lokalnym specjalistą ds. oceny rozwiązań (SAS), aby zainicjować proces.
   - question: >
-      Jak mogę przesłać moje dane bankowe i podatkowe?
+      Jak mogę dane bankowe i podatkowe?
     answer: >
       Zapoznaj [się z tematem Nawigowanie](chip-intro.md) po platformie CHIP, aby uzyskać instrukcje krok po kroku dotyczące sposobu przesyłania profilów bankowych i podatkowych.
   - question: >
@@ -62,7 +62,7 @@ sections:
       Administrator podstawowy na stronie CHIP powinien być podstawowym kontaktem partnera w programie MPN. Upewnij się, że program MPN został zaktualizowany o nowy kontakt i skontaktuj się z regionalnym zespołem pomocy technicznej w celu zażądania zmiany na mikroukładzie.
 
 
-      Na pulpicie Partner Center nawigacyjnym wybierz pozycję **Pomoc techniczna** w menu po lewej stronie. Wybierz **zachęty** jako kategorię lub wyszukaj nazwę swojego programu w obszarze "Przeglądaj tematy".
+      Na pulpicie Partner Center nawigacyjnym wybierz kafelek **Pomoc i obsługa** techniczna. Jeśli nie używasz widoku Obszary robocze, wybierz pozycję **Pomoc techniczna** w menu po lewej stronie. Wybierz **zachęty** jako kategorię lub wyszukaj nazwę swojego programu w obszarze "Przeglądaj tematy".
 
 
       Po wyświetleniu dostępnej pomocy dotyczącej tematu, jeśli nadal potrzebujesz pomocy, możesz utworzyć bilet bezpośrednio z opcji Zalecane dokumenty — Utwórz **bilet** pomocy technicznej.

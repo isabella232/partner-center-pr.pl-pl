@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3ed73b67b38eba1793e79908223810cda25b2201
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 6731d4805201bb180a705fd96830ff71b575de3b
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247372"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072546"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Zdobądź zaawansowaną specjalizację, aby zaprezentować zweryfikowane możliwości
 
@@ -45,7 +45,7 @@ Każda zaawansowana specjalizacja odpowiada obszarowi rozwiązania:
 - Analiza na Microsoft Azure
 - Migracja magazynu danych na platformę Microsoft Azure
 - Środowisko Kubernetes na platformie Microsoft Azure
-- Migracja baz danych systemów Linux i open source do Microsoft Azure
+- Migracja baz danych systemu Linux i baz danych typu open source do Microsoft Azure
 - Usługa Microsoft Windows Virtual Desktop
 - Modernizacja aplikacji internetowych do platformy Microsoft Azure
 - Rozwiązania SAP na platformie Microsoft Azure
@@ -56,7 +56,6 @@ Każda zaawansowana specjalizacja odpowiada obszarowi rozwiązania:
 - Microsoft Azure Rozwiązanie VMware
 - DevOps z GitHub na Microsoft Azure
 - Usługi sieciowe w Microsoft Azure
-
 
 **Business Applications** specjalizacje obejmują:
 
@@ -78,11 +77,11 @@ Każda zaawansowana specjalizacja odpowiada obszarowi rozwiązania:
 - Bezpieczeństwo w chmurze
 
 > [!NOTE]
-> Aby dowiedzieć się więcej na temat każdej zaawansowanej specjalizacji oraz jej wymagań wstępnych i wymagań, odwiedź stronę [Specjalizacje zaawansowane.](https://partner.microsoft.com/membership/advanced-specialization) Gdy wszystko będzie gotowe do zastosowania zaawansowanej specjalizacji, sprawdź postęp, logując się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard) Aby dowiedzieć się więcej na temat uzyskiwania dostępu do tego obszaru Partner Center, zobacz Temat Dotyczy [zaawansowanej specjalizacji.](advanced-specializations-apply.md)
+> Aby dowiedzieć się więcej na temat każdej zaawansowanej specjalizacji oraz jej wymagań wstępnych i wymagań, odwiedź stronę [Specjalizacje zaawansowane.](https://partner.microsoft.com/membership/advanced-specialization) Gdy wszystko będzie gotowe do zastosowania zaawansowanej specjalizacji, sprawdź postęp, logując się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard) Aby dowiedzieć się więcej na temat uzyskiwania dostępu do tego obszaru Partner Center, zobacz Apply for an advanced specialization (Stosowanie [zaawansowanej specjalizacji).](advanced-specializations-apply.md)
 
 ## <a name="next-steps"></a>Następne kroki
 
-- Użyj [Partner Center, aby zastosować i sprawdzić stan zaawansowanych specjalizacji](advanced-specializations-apply.md)
+- Użyj Partner Center, [aby zastosować i sprawdzić stan zaawansowanych specjalizacji](advanced-specializations-apply.md)
 
 - Dowiedz się więcej [o zaawansowanych specjalizacjach, ich zaletach i unikatowych wymaganiach](https://partner.microsoft.com/membership/advanced-specialization)
 

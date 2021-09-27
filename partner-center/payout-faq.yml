@@ -7,13 +7,13 @@ metadata:
   ms.topic: article
   author: eunjkim520
   ms.author: eunjkim
-  ms.date: 05/06/2021
-  ms.openlocfilehash: a402387b5e99cfb5f1b0ed7ca1c2af9f63b94b99
-  ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+  ms.date: 09/27/2021
+  ms.openlocfilehash: fc4a12e2ab4686f9bef60aad789098e737c4cf04
+  ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/13/2021
-  ms.locfileid: "126247408"
+  ms.lasthandoff: 09/27/2021
+  ms.locfileid: "129073064"
 title: Typowe pytania dotyczące wypłat i podatków
 summary: >
   **Odpowiednie role:** Administrator konta | Administrator globalny | Administrator zachęt
@@ -29,7 +29,7 @@ sections:
       Wszyscy partnerzy rejestrujący się w nowym programie muszą podać prawidłowe szczegóły wypłaty i podatku, aby ukończyć rejestrację i otrzymać płatności. Rejestracja jest uznawana za ukończoną dopiero po weryfikacji profilu wypłaty i profilu podatkowego przez firmę Microsoft.
 
 
-      Może być również konieczne zaktualizowanie informacji w przypadku zmiany reguł programu lub wygaśnięcia lub nieaktualnego aspektów profilu. W takim przypadku na stronie Przegląd będzie pokazywany stan Wymagana akcja **— Zaktualizuj profil bankowy i/lub podatkowy.**
+      Może być również konieczne zaktualizowanie informacji w przypadku zmiany reguł programu lub wygaśnięcia lub nieaktualnego aspektów profilu. W takim przypadku na stronie Przegląd będzie pokazywany stan Wymagana akcja — Zaktualizuj **profil bankowy i/lub profil podatkowy.**
   - question: >
       Jak mogę znaleźć, skonfigurować lub zaktualizować szczegóły wypłaty i podatku?
     answer: >
@@ -66,7 +66,7 @@ sections:
       Jeśli profil podatkowy wygasł lub wygaśnie, oznacza to, że formularz podatkowy dostarczony firmie Microsoft musi zostać zaktualizowany. Aby zaktualizować profil podatkowy, należy wykonać następujące czynności:
 
 
-      1. Zaloguj się do [Partner Center,](https://partner.microsoft.com/dashboard/home)a następnie wybierz ikonę koła zębatego, aby otworzyć **Ustawienia** nawigacyjny.
+      1. Zaloguj się do pulpitu [Partner Center,](https://partner.microsoft.com/dashboard/home)a następnie wybierz ikonę Ustawienia koła zębatego.
 
       2. Wybierz **pozycję Ustawienia konta,** rozwiń **sekcję Wypłata i** podatek, a następnie wybierz pozycję Profil **wypłaty i profil** podatkowy.
 
@@ -89,7 +89,7 @@ sections:
       - Sprawdź ramy [czasowe cyklu wypłat i](payment-thresholds-methods-timeframes.md) dowiedz się, kiedy twoje zarobki powinny pojawić się w wyciągu z wypłat.
   - question: >
       Dlaczego kwota zarobków jest inna niż oczekiwana?
-    answer: "- Jeśli zamówienie zostało opłacone częściowo przez klienta, kwota zarobków będzie oparta na częściowo zapłaconej kwoty po odjęniu opłaty i odpowiedniego podatku.\n- Sprawdź odpowiedzialność za zakres obowiązków podatkowych według kraju. W krajach, w których podatek jest odpowiedzialny przez firmę Microsoft, firma Microsoft pobiera i odlicza podatek od zarobków wydawcy. Kwota transakcji wskazana w zestawieniu jest pomniejszona o podatek. Zobacz [Szczegóły podatków](tax-details-marketplace.md).\n- Oferty mają opłatę za usługę sklepu na poziomie 3%, pozostawiając zarobki na poziomie 97%. \n\n**Dalsze informacje:** [Komercyjna](/legal/marketplace/msft-publisher-agreement)platforma handlowa Publisher, szczegóły zasad [wypłaty,](payout-policy-details.md) [próg płatności,](payment-thresholds-methods-timeframes.md)metoda i ramy [czasowe,](marketplace-get-paid.md)uzyskiwanie płatności, szczegóły [podatkowe,](tax-details-marketplace.md) [zestawienia wypłat](payout-statement.md)\n"
+    answer: "- Jeśli zamówienie zostało opłacone częściowo przez klienta, kwota zarobków będzie oparta na częściowo zapłaconej kwoty po odjęniu opłaty i odpowiedniego podatku.\n- Sprawdź odpowiedzialność za kompetencje podatkowe według kraju. W krajach, w których podatek jest odpowiedzialny przez firmę Microsoft, firma Microsoft pobiera i odlicza podatek od zarobków wydawcy. Kwota transakcji wskazana w zestawieniu jest pomniejszona o podatek. Zobacz [Szczegóły podatków](tax-details-marketplace.md).\n- Oferty mają opłatę za usługę sklepu na poziomie 3%, pozostawiając zarobki na poziomie 97%. \n\n**Dalsze informacje:** [Komercyjna](/legal/marketplace/msft-publisher-agreement)platforma handlowa Publisher, szczegóły zasad [wypłaty,](payout-policy-details.md)próg [płatności,](payment-thresholds-methods-timeframes.md)metoda i ramy czasowe, uzyskiwanie [płatności,](marketplace-get-paid.md)szczegóły [podatkowe,](tax-details-marketplace.md) [zestawienia wypłat](payout-statement.md)\n"
 - name: Uzgadnianie zarobków
   questions:
   - question: >
@@ -133,10 +133,10 @@ sections:
   - question: >
       Jak mogę uzgodnić korekty?
     answer: >
-      Korekty płatności mają na celu wyrównanie kwot płatności, na przykład w związku z problemami systemowymi. W instrukcji wypłaty przyczyna korekty jest określana przez wartość ReasonCode. Nie są one przeznaczone do uzgadniania bezpośrednio z poszczególnymi transakcjami.
+      Korekty płatności mają na celu wyrównanie kwot płatności, na przykład w związku z problemami systemowymi. W wyciągu z wypłat przyczyna określa przyczynę korekty. Nie są one przeznaczone do uzgadniania bezpośrednio z poszczególnymi transakcjami.
 
 
-      **Dalsze informacje:** [Komercyjna platforma handlowa Publisher,](/legal/marketplace/msft-publisher-agreement)szczegóły zasad [wypłaty,](payout-policy-details.md)szczegóły [podatku,](tax-details-marketplace.md) [próg płatności,](payment-thresholds-methods-timeframes.md) metoda i ramy czasowe
+      **Dalsze informacje:** [Komercyjna platforma handlowa Publisher,](/legal/marketplace/msft-publisher-agreement) [szczegóły](payout-policy-details.md)zasad wypłaty, szczegóły [podatku,](tax-details-marketplace.md) [próg płatności,](payment-thresholds-methods-timeframes.md) metoda i ramy czasowe
 - name: Podatki
   questions:
   - question: >
@@ -157,12 +157,12 @@ sections:
       Podatkiem potrąconym objęci są wydawcy z USA, którzy złożyli formularz W-9. Podatek potrącony jest obliczany na podstawie płatności miesięcznych.
 
 
-      **Dalsze informacje:** Commercial Marketplace Publisher Agreement, Payout policy details (Umowa handlowa dla platformy [handlowej,](/legal/marketplace/msft-publisher-agreement) [szczegóły zasad wypłat)](payout-policy-details.md)
+      **Dalsze informacje:** [Komercyjna platforma handlowa Publisher,](/legal/marketplace/msft-publisher-agreement) [szczegóły zasad wypłat](payout-policy-details.md)
 - name: Dostęp do zestawienia wypłat
   questions:
   - question: >
       Jak mogę uzyskać dostęp do zestawienia wypłat?
-    answer: "1. Sprawdź swoje role. Aby uzyskać dostęp do zestawienia wypłat, musisz mieć rolę *współpracownika ds. finansowych* lub *właściciela konta*.\n2. W prawym górnym rogu nawigacji wybierz ikonę **Wypłaty,** aby wyświetlić zestawienie wypłat. Wybierz pozycję **Historia transakcji,** **Płatność** i **Pobierz.**\n\n**Dalsze informacje:** [Role i uprawnienia do wypłaty,](payout-statement.md#roles-and-permissions)Zestawienia [wypłat](payout-statement.md) \n"
+    answer: "1. Sprawdź swoje role. Aby uzyskać dostęp do zestawienia wypłat, musisz mieć rolę *współpracownika ds. finansowych* lub *właściciela konta*.\n2. Na pulpicie nawigacyjnym wybierz **kafelek Wypłaty,** aby wyświetlić zestawienie wypłat. Wybierz pozycję **Historia transakcji,** **Płatność** i **Pobierz.**\n\n**Dalsze informacje:** [Role i uprawnienia do wypłaty,](payout-statement.md#roles-and-permissions)Zestawienia [wypłat](payout-statement.md) \n"
 - name: Raport zestawienia wypłat
   questions:
   - question: >
@@ -225,5 +225,5 @@ sections:
 
       - W przypadku zamówień zapłaconych za pomocą karty kredytowej firma Microsoft wstrzymuje płatności 30 dni do momentu dojrzewania zarobków.
 
-       **Dalsze informacje:** [Komercyjna](/legal/marketplace/msft-publisher-agreement)platforma handlowa Publisher, [szczegóły](payout-policy-details.md)zasad wypłaty, szczegóły [podatku,](tax-details-marketplace.md)próg [płatności, metoda i ramy czasowe](payment-thresholds-methods-timeframes.md)
+       **Dalsze informacje:** [Komercyjna](/legal/marketplace/msft-publisher-agreement)platforma handlowa Publisher, [szczegóły zasad](payout-policy-details.md)wypłaty, szczegóły [podatku,](tax-details-marketplace.md)próg [płatności,](payment-thresholds-methods-timeframes.md) metoda i ramy czasowe
 additionalContent: "\n## <a name=\"next-steps\"></a>Następne kroki\n\n- [Uzyskiwanie zapłaty](marketplace-get-paid.md)\n- [Konfigurowanie konta do wypłaty i formularzy podatkowych](set-up-your-payout-account.md)"

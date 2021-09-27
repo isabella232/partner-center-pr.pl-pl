@@ -2,19 +2,19 @@
 title: Sprzedaż w specjalistycznych branżach
 description: Dowiedz się więcej o specjalnych, obniżonych cenach firmy Microsoft dla niektórych grup klientów, w tym klientów edukacyjnych, klientów niedochodowych i użytkowników rządowych.
 ms.topic: how-to
-ms.date: 05/04/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ac0004b2197aca7c161216726361c946ebe86775
-ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
+ms.openlocfilehash: 9159e77759d181a0c52dd18276267c2a1921c5da
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128369358"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072748"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Sprzedaż w specjalistycznych branżach, takich jak edukacja, organizacje non profit i użytkownicy rządowi
 
@@ -27,8 +27,8 @@ Firma Microsoft oferuje specjalne, obniżone ceny dla wybranych grup klientów, 
 |**Specjalne ceny**   |**Wymagane kwalifikacje odsprzedawcy**   |**Wymagane kwalifikacje klientów**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Education   |Brak   | Musi być [kwalifikowanym użytkownikiem edukacyjnym](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
-| Us Federal Government [— Office Government Community Cloud (GCC) High and DoD environments](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod)    |Aby sprzedawać Azure Government, zarejestruj się przy użyciu formularza [weryfikacji chmury dla](https://azuregov.microsoft.com/csp)instytucji rządowych USA firmy Microsoft. Sprzedaż subskrypcji opartych na licencjach jest dostępna tylko po zaproszeniu.|   Musi być [kwalifikowaną jednostką rządową USA](https://azure.microsoft.com/global-infrastructure/government/how-to-buy/) |
-| Rząd federalny USA — GCC umiarkowane środowisko | Musi kwalifikować się jako praca z klientami rządowymi USA, wypełniając formularz. Poinformuj nas o swojej organizacji partnerskiej [programu Direct CSP.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?ReqType=CSPPartner&rtc=1) Aby uzyskać instrukcje krok po kroku, odwiedź stronę Sell Office 365 dla instytucji rządowych GCC for CSP subscriptions to qualified customers (Sprzedaż dla [subskrypcji CSP dla kwalifikowanych klientów)](./csp-gcc-overview.md) | Musi być [kwalifikowaną jednostką rządową USA.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?rtc=1) Aby uzyskać instrukcje krok po kroku, odwiedź stronę Sell Office 365 dla instytucji rządowych GCC for CSP subscriptions to qualified customers (Sprzedaż dla [subskrypcji CSP dla kwalifikowanych klientów)](./csp-gcc-overview.md)  |
+| Rząd federalny USA [— środowiska Office Government Community Cloud (GCC) High i DoD](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod)    |Aby sprzedawać Azure Government, zarejestruj się przy użyciu formularza [weryfikacji chmury dla](https://azuregov.microsoft.com/csp)instytucji rządowych USA firmy Microsoft. Sprzedaż subskrypcji opartych na licencjach jest dostępna tylko po zaproszeniu.|   Musi być [kwalifikowaną jednostką rządową USA](https://azure.microsoft.com/global-infrastructure/government/how-to-buy/) |
+| Rząd federalny USA — GCC umiarkowane środowisko | Musi kwalifikować się jako praca z klientami rządowymi USA, wypełniając formularz. Poinformuj nas o swojej organizacji partnerskiej [programu Direct CSP.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?ReqType=CSPPartner&rtc=1) Aby uzyskać instrukcje krok po kroku, odwiedź stronę Sell Office 365 dla instytucji rządowych GCC for CSP subscriptions to qualified customers (Sprzedaż Office 365 dla instytucji rządowych GCC [subskrypcji CSP dla kwalifikowanych klientów)](./csp-gcc-overview.md) | Musi być [kwalifikowaną jednostką rządową USA.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?rtc=1) Aby uzyskać instrukcje krok po kroku, odwiedź stronę Sell Office 365 dla instytucji rządowych GCC for CSP subscriptions to qualified customers (Sprzedaż Office 365 dla instytucji rządowych GCC [subskrypcji CSP dla kwalifikowanych klientów)](./csp-gcc-overview.md)  |
 | Wszystkie inne jednostki rządowe | Brak. Partnerzy muszą aprowizuje się przy użyciu ofert "firmowych". | Brak
 Non profit  |Brak|Zarejestruj się w programie [dla organizacji non profit firmy Microsoft,](https://nonprofit.microsoft.com/#/register) aby się zakwalifikować.   |
 
@@ -36,7 +36,7 @@ Non profit  |Brak|Zarejestruj się w programie [dla organizacji non profit firmy
 
 Poniższe kroki mają zastosowanie tylko do dostawców pośrednich i partnerów rozliczanych bezpośrednio. Odsprzedawcy pośredni muszą połączyć się z dostawcą pośrednim, aby dostarczać specjalne oferty cenowe dla kwalifikowanych użytkowników.
 
-1. Na Partner Center [nawigacyjnym](https://partner.microsoft.com/dashboard)wybierz ikonę koła zębatego w prawym górnym rogu okna, aby otworzyć **ustawienia konta**.
+1. Na pulpicie Partner Center [wybierz](https://partner.microsoft.com/dashboard)ikonę koła zębatego w prawym górnym rogu okna, aby otworzyć **ustawienia konta**.
 
 2. W profilu **prawnym w** sekcji Informacje **o programie** odszukaj sekcję **Kwalifikacje odsprzedawcy.**
 
@@ -58,9 +58,9 @@ Gdy Ty i Twój klient zostaniecie zakwalifikowani do programu oferty specjalnej,
 
 Partnerzy mogą sprzedawać oferty specjalne klientom tylko wtedy, gdy spełniają oni określone kryteria.
 
-- Oferty edukacyjne można kupić tylko wtedy, gdy Klient ma autoryzację instytucji edukacyjnej. Klient edukacyjny może otrzymywać tylko oferty edukacyjne i komercyjne, ale nie chmurę społeczności dla instytucji niedochodowych ani chmurę społeczności dla instytucji rządowych (GCC).
+- Oferty edukacyjne można kupić tylko wtedy, gdy Klient ma autoryzację instytucji edukacyjnej. Klient edukacyjny może otrzymywać tylko oferty edukacyjne i komercyjne, ale nie dla organizacji niedochodowych ani chmury dla społeczności instytucji rządowych (GCC).
 - Partnerzy mogą kupować subskrypcje GCC tylko dla GCC klientów. Gdy klient ma subskrypcję GCC, partnerzy nie mogą kupować subskrypcji komercyjnych, edukacyjnych ani niedochodowych.
-- Partnerzy mogą kupować subskrypcje komercyjne lub niedochodowe tylko dla klientów niedochodowych. Partnerzy nie mogą GCC subskrypcji edukacyjnych ani subskrypcji edukacyjnych dla klientów niedochodowych.
+- Partnerzy mogą kupować subskrypcje komercyjne lub niedochodowe tylko dla klientów niedochodowych. Partnerzy nie mogą GCC subskrypcji edukacyjnych dla klientów niedochodowych.
 - Jednostki należące do stanu muszą spełniać [kryteria uprawnień](https://www.microsoft.com/legal/compliance/anticorruption/criteria).
 
 Reguły zakupu dotyczące sprzedaży specjalnych ofert dla klientów:

@@ -5,30 +5,30 @@ ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Zobacz, co robisz dobrze i gdzie możesz poprawić użycie subskrypcji Office 365 sprzedaży lub zarządzania dla klientów.
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 882b912a01301506bf163087f71bf70d0ed1aa41
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: b690af10fae8e6ffe1f933dc637ffdb36cd5d416
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246837"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074655"
 ---
-# <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Office 365 raportu użycia dostępnego na pulpicie Partner Center Szczegółowe informacje nawigacyjnym
+# <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Office 365 raport użycia dostępny na pulpicie nawigacyjnym Partner Center Szczegółowe informacje nawigacyjnym
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny | Przeglądarka raportów | Przeglądarka raportów dla kierownictwa
 
 Raport Office 365 użycia zawiera dane użycia dla subskrypcji Office 365, które zostały sprzedane klientom lub są nimi zarządzane. Poniższe sekcje można wyświetlić w raporcie Office 365 użycia.
 
 - Podsumowanie
-- Office 365 użycia według lokalizacji geograficznej
-- Office 365 użycia według obciążenia
+- Office 365 według lokalizacji geograficznej
+- Office 365 według obciążenia
 - Wydajność subskrypcji
 - Office 365 dystrybucji użycia
 
  > [!NOTE]
- > Ten raport jest dostępny na pulpicie nawigacyjnym Szczegółowe informacje nawigacyjnym. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Przeglądarka raportów lub Przeglądarka raportów dla kierownictwa. Aby uzyskać więcej informacji, zobacz Administratora globalnego firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami do przeglądarki raportów executive.
+ > Ten raport jest dostępny na pulpicie nawigacyjnym Szczegółowe informacje nawigacyjnym. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Podgląd raportów lub Przeglądarka raportów kierownictwa. Aby uzyskać więcej informacji, zobacz Administratora globalnego firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami do przeglądarki raportów executive.
 
 ## <a name="summary"></a>Podsumowanie
 
@@ -48,9 +48,9 @@ Sekcja podsumowania zawiera widok migawki kluczowych wskaźników związanych z 
 
 :::image type="content" source="images/insights/o365-usage-summary.png" alt-text="Office 365 podsumowanie użycia.":::
 
-## <a name="office-365-usage-by-geography"></a>Office 365 użycia według lokalizacji geograficznej
+## <a name="office-365-usage-by-geography"></a>Office 365 według lokalizacji geograficznej
 
-Dane **Office 365 według lokalizacji** geograficznej przedstawiają rozkład miesięcznych aktywnych użytkowników (MAU) i płatnych dostępnych jednostek (PAU) według kraju klienta. Mau odnosi się do liczby licencji używanych w poprzednim miesiącu, a PAU odnosi się do liczby płatnych miejsc sprzedanych lub zarządzanych w wybranym okresie. Jaśniejsze kolory na mapie reprezentują niższe wartości, a ciemniejsze reprezentują wyższe wartości. Możesz wyszukać i wybrać kraj w siatce. Możesz również powiększyć widok, aby uzyskać bliższy wygląd.
+Dane **Office 365 według** lokalizacji geograficznej przedstawiają rozkład miesięcznych aktywnych użytkowników (MAU) i płatnych dostępnych jednostek (PAU) według kraju klienta. Mau odnosi się do liczby licencji używanych w poprzednim miesiącu, a PAU odnosi się do liczby płatnych miejsc sprzedanych lub zarządzanych w wybranym okresie. Jaśniejsze kolory na mapie reprezentują niższe wartości, a ciemniejsze reprezentują wyższe wartości. Możesz wyszukać i wybrać kraj w siatce. Możesz również powiększyć widok, aby uzyskać bliższy wygląd.
 
 Tabela **Liczba krajów/regionów** przedstawia łączną liczbę krajów/regionów, w których są generowane zdarzenia użycia platformy Azure.
 
@@ -59,11 +59,11 @@ Możesz wyszukać i wybrać kraj w siatce, aby powiększyć lokalizację na mapi
 
 :::image type="content" source="images/insights/o365-usage-geography.png" alt-text="Office 365 według lokalizacji geograficznej.":::
 
-## <a name="office-365-usage-by-workload"></a>Office 365 użycia według obciążenia
+## <a name="office-365-usage-by-workload"></a>Office 365 według obciążenia
 
 Dane Office 365 według obciążenia przedstawiają podział mau i pau według obciążeń.
 
-:::image type="content" source="images/insights/o365-usage-workload.png" alt-text="Office 365 według obciążenia.":::
+:::image type="content" source="images/insights/o365-usage-workload.png" alt-text="Office 365 użycia według obciążenia.":::
 
 ## <a name="subscriptions-performance"></a>Wydajność subskrypcji
 
@@ -73,12 +73,12 @@ Wydajność subskrypcji przedstawia podział mau i pau według obciążeń na kl
 
 ## <a name="office-365-usage-distribution"></a>Office 365 dystrybucji użycia
 
-Rozkład Office 365 użycia przedstawia podział pau i subskrypcji według jednostki SKU.
+Rozkład Office 365 danych przedstawia podział pau i subskrypcji według jednostki SKU.
 
 :::image type="content" source="images/insights/o365-usage-distribution.png" alt-text="Office 365 dystrybucji użycia.":::
 
 ## <a name="next-steps"></a>Następne kroki
 
-- Aby uzyskać więcej raportów, [zobacz Partner Center Szczegółowe informacje](partner-center-insights.md).
+- Aby uzyskać więcej raportów, zobacz [Partner Center Szczegółowe informacje](partner-center-insights.md).
 
-- Możesz pobrać nieprzetworzone dane, które są zasilane z tego raportu, z sekcji Pobieranie raportów na pulpicie Szczegółowe informacje nawigacyjnym. [Więcej informacji](insights-download-reports.md) 
+- Możesz pobrać nieprzetworzone dane, które są zasilane z tego raportu, z sekcji Pobieranie raportów na Szczegółowe informacje nawigacyjnym. [Więcej informacji](insights-download-reports.md) 

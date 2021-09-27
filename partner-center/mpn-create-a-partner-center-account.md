@@ -3,18 +3,18 @@ title: Tworzenie konta MPN w Partner Center
 ms.topic: article
 ms.date: 05/07/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-account
+ms.subservice: partnercenter-enroll
 description: Dowiedz się, Microsoft Partner Network mogą utworzyć konto Partner Center do zarządzania korzyściami i kompetencjami w zakresie sieci.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0410e8fe4239915c445125951076ff170cef3a91
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.openlocfilehash: c354ab373b57c513f6255bcbeec8f6cb9bc5bf24
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128366156"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071450"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Tworzenie konta MPN w programie Partner Center w celu zarządzania korzyściami i kompetencjami sieci
 
@@ -93,22 +93,22 @@ W poniższej tabeli przedstawiono przykłady numerów rejestracyjnych zebranych 
 | **Republika Południowej Afryki** | TRN — numer rejestracji ruchu |
 | **Sudan Południowy** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — numer identyfikacyjny podatku |
 | **Tadżykistan**  | ZAKSZ — numer identyfikacyjny podatku<br>EIN — numer identyfikacyjny pracodawcy<br>KPP — jest to kod, który odzwierciedla przyczynę rejestracji organizacji. |
-| **Tajlandia** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — numer identyfikacyjny podatku |
-| **Turcja** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) — numer identyfikacyjny podatku<br>NIN |
+| **Tajlandia** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — numer identyfikacji podatkowej |
+| **Turcja** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) — numer identyfikacji podatkowej<br>NIN |
 | **Ukraina**  | EGRPOU<br>EDRPOU — identyfikator lokalny |
-| **Zjednoczone Emiraty Arabskie** | Identyfikator podatkowy<br>[Numer VAT](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) — znany także jako numer rejestracji vat. Jest to unikatowy numer identyfikujący osobę prawna (firmową) lub nieuprawnieniową, która jest zarejestrowana do identyfikacji VAT. |
+| **Zjednoczone Emiraty Arabskie** | Identyfikator podatkowy<br>[Numer VAT](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) — znany również jako numer rejestracji VAT. Jest to unikatowy numer identyfikujący osobę prawna (biznesową) lub niemówiącący prawem, która jest zarejestrowana do podatku VAT. |
 | **Stany Zjednoczone** | [EIN](https://www.irs.gov/taxtopics/tc755) — numer identyfikacyjny pracodawcy |
-| **Uzbekistan**  | ZAKSZ — numer identyfikacyjny podatku |
-| **Wietnam** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — numer identyfikacyjny podatku |
-| **Wenezuela** | HH — numer podatkowy ("Registro de Identificakal Fiscal") |
+| **Uzbekistan**  | NUMER IDENTYFIKACYJNY — numer identyfikacji podatkowej |
+| **Wietnam** | [NIP](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) — numer identyfikacji podatkowej |
+| **Wenezuela** | HH — jest numerem podatkowym ("Registro de Identificaty Fiscal") |
 
 
 
 ## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Jak wyświetlić szczegóły konta lub wyświetlić i pobrać umowę MPN
 
-Zaloguj się Partner Center przy użyciu poświadczeń MPN. Wybierz [**pozycję Profil partnera,**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) aby wyświetlić szczegóły prawne firmy, stan weryfikacji, identyfikatory MPN, a także utworzyć nowe lokalizacje MPN, jeśli to konieczne. 
+Zaloguj się Partner Center przy użyciu poświadczeń MPN. Wybierz [**pozycję Profil partnera,**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) aby wyświetlić szczegóły prawne firmy, stan weryfikacji, identyfikatory MPN, a także w razie potrzeby utworzyć nowe lokalizacje MPN. 
 
-Możesz również wyświetlić inne ważne informacje, takie jak identyfikatory MPN, zarządzać lokalizacjami MPN i wyświetlać Microsoft Partner Agreement pomocą linków menu po lewej stronie, jak pokazano na poniższym zrzucie ekranu.
+Możesz również wyświetlić inne ważne informacje, takie jak identyfikatory MPN, zarządzać lokalizacjami MPN i wyświetlać Microsoft Partner Agreement za pomocą linków menu po lewej stronie, jak pokazano na poniższym zrzucie ekranu.
 
 :::image type="content" source="images/mpn-new.png" alt-text="Profil partnera.":::
 
@@ -119,7 +119,7 @@ Możesz również wyświetlić inne ważne informacje, takie jak identyfikatory 
 
 -  [Kupowanie lub odnawianie subskrypcji programu Microsoft Action Pack](mpn-get-action-pack.md)
 
--  [Zarządzanie korzyściami członkostwa](manage-your-partner-network-benefits.md)
+-  [Zarządzanie korzyściami z członkostwa](manage-your-partner-network-benefits.md)
 
 -  [Dowiedz się więcej o wymaganiach dotyczących kompetencji w przypadku członkostwa w językach Gold i Silver](https://partner.microsoft.com/membership/competencies)
 

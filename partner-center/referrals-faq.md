@@ -1,25 +1,25 @@
 ---
 title: Często zadawane pytania dotyczące poleceń Partner Center poleceń
 ms.topic: article
-ms.date: 09/07/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
 description: Często zadawane pytania dotyczące poleceń Partner Center poleceń
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
-ms.openlocfilehash: 417fe4c3804a2ebcbcc7ac280ffd62e26a624a14
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 2fa7ed91e4ff2dd1dbab3fc89e4acdcbc61c9141
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246244"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070772"
 ---
 # <a name="frequently-asked-questions-on-referrals"></a>Często zadawane pytania dotyczące poleceń
 
-Ten artykuł zawiera odpowiedzi na niektóre często zadawane pytania dotyczące poleceń Partner Center odpowiedzi
+Ten artykuł zawiera odpowiedzi na niektóre często zadawane pytania dotyczące Partner Center poleceń
 
-## <a name="what-should-i-do-if-i-dont-have-access-to-co-sell-opportunities"></a>Co zrobić, jeśli nie mam dostępu do możliwości współpracy sprzedaży?
+## <a name="what-should-i-do-if-i-dont-have-access-to-co-sell-opportunities"></a>Co zrobić, jeśli nie mam dostępu do możliwości współs sprzedaży?
 
 Aby uzyskać przypisane role, możesz skontaktować się z administratorami wymienionymi na stronie "Brak dostępu". Będziesz potrzebować roli administratora poleceń dla uprawnień do odczytu i zapisu w sekcji od skierowań. Jeśli zarządzasz tylko profilami biznesowymi, będziesz potrzebować roli administratora profilu biznesowego w Centrum partnerskim.
 
@@ -29,7 +29,7 @@ Administrator konta może udzielić Ci dostępu do karty Polecenia. Aby znaleź�
 
 ## <a name="new-deal-button-is-greyed-out-for-me-in-the-co-sell-opportunities-page"></a>Przycisk Nowa transakcja jest wyszrzony na stronie Możliwości współpracy sprzedaży?
 
-Aby utworzyć możliwość współpracy sprzedaży w Centrum partnerskim, musisz być administratorem poleceń i mieć rozwiązanie opublikowane na platformie handlowej ze stanem gotowości do współpracy sprzedaży. Jeśli nie spełniasz żadnego z tych kryteriów, przycisk będzie nieoszybowany.
+Aby utworzyć możliwość współpracy sprzedaży w Centrum partnerskim, musisz być administratorem poleceń i mieć rozwiązanie opublikowane na platformie handlowej ze stanem gotowości do współpracy sprzedaży. Nie spełnianie żadnego z tych kryteriów spowoduje, że przycisk będzie wyszarytowany.
 
 ## <a name="can-a-deal-be-edited-after-it-is-marked-as-won-or-lost"></a>Czy transakcja może być edytowana po oznaczeniu jej jako wygrana lub utracona?
 
@@ -37,7 +37,7 @@ Nie, transakcji nie można modyfikować, gdy przejdą do stanu terminalu. Wygas�
 
 ## <a name="who-gets-an-email-notification-from-partner-center"></a>KtoTo otrzymuje powiadomienie e-mail od Partner Center?
 
-W poniższym przepływie pracy wyjaśniono, w jaki sposób wiadomości e-mail są wysyłane do partnerów z systemu poleceń Partner Center dla nowych poleceń przychodzących partnerów.
+W poniższym przepływie pracy wyjaśniono, jak wiadomości e-mail są wysyłane do partnerów z systemu poleceń Partner Center dla nowych poleceń przychodzących partnerów.
 
 :::image type="content" source="images/referrals/noti-workflow.png" alt-text="Obraz przedstawiający logikę sposobu, w jaki wiadomości e-mail są wysyłane do partnerów w przypadku nowych poleceń przychodzących.":::
 
@@ -49,7 +49,7 @@ Tylko zachęty ip kwalifikują się do rejestracji transakcji. Należą do nich:
 - Aplikacje biz w chmurze Premium
 - Aplikacje biz w standardowych
 
-## <a name="how-do-i-know-if-microsoft-has-accepted-or-declined-a-co-sell-deal"></a>Jak mogę, czy firma Microsoft zaakceptowała lub odrzuciła umowę o współs sprzedaży?
+## <a name="how-do-i-know-if-microsoft-has-accepted-or-declined-a-co-sell-deal"></a>Jak mogę, czy firma Microsoft zaakceptowała lub odrzuciła umowę sprzedaży typu "co-sell"?
 
 Przejdź do odpowiedniej szansy sprzedaży w Partner Center, aby wyświetlić **sekcję stanu Microsoft** transakcji.
 

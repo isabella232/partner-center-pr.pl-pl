@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a8703d9a8c482ac3fba5497780b2f5163bf86061
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 717c59a2985fa36ba553a631dca155c1f0263905
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246255"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074049"
 ---
 # <a name="view-earnings-using-the-chip-tool"></a>Wyświetlanie zarobków przy użyciu narzędzia CHIP
 
@@ -29,15 +29,17 @@ Dostęp do zestawienia zachęt można uzyskać za pośrednictwem narzędzia Chan
 2. Wybierz program zachęt, który Cię interesuje.
 
 3. W **obszarze Podsumowanie programu** wybierz okres lub miesiąc. 
-1. Wybierz pozycję Szczegóły obliczeń z listy rozwijanej.
-1.  Kliknij **przycisk Otwórz** na pasku powiadomień, aby otworzyć swoją instrukcje.
+
+4. Wybierz pozycję Szczegóły obliczeń z listy rozwijanej.
+
+5.  Kliknij **przycisk Otwórz** na pasku powiadomień, aby otworzyć swoją instrukcje.
 
 ### <a name="explanation-of-details-tabs"></a>Wyjaśnienie kart szczegółów
 
 |**Tab**|**Definicja**|
 |-------------|--------------------------|
 |DetailReport-Flatfile|Zawiera szczegółowe informacje dotyczące programu zachęt dla wybranego okresu, w tym nazwę klienta, umowę, szczegóły dotyczące lever|
-|DeltaReport-pivot|Aktualizacje z ostatniej opublikowanej instrukcji Enterprise tylko|
+|DeltaReport-pivot|Aktualizacje z ostatniej opublikowanej instrukcji tylko Enterprise danych|
 |DetailReport-pivot|Podsumowanie szczegółów płatności, w tym waluty i kwoty płatności|
 |Szczegóły osiągnięcia|Wartość bazowa, osiągnięcie i procent wzrostu tylko dla wartości SPLAR|
 

@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Sprawdź, co robisz dobrze i gdzie możesz ulepszyć użycie subskrypcji usługi Dynamics, które sprzedajesz klientom lub zarządzasz nimi.
-author: shganesh-dev
-ms.author: shganesh
+description: Sprawdź, co robisz dobrze i gdzie możesz poprawić użycie subskrypcji usługi Dynamics, które sprzedajesz klientom lub zarządzasz nimi.
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: ecc4edbd509557da1314eb7e54fcc013e41682a7
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: d547e61ac6087d4bc38dcd3881b1c4a7a6b11588
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959613"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071130"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Raport użycia usługi Dynamics dostępny na pulpicie Partner Center Szczegółowe informacje nawigacyjnym
 
@@ -28,11 +28,11 @@ Raport użycia usługi Dynamics zawiera dane użycia dla subskrypcji usługi Mic
 - Dystrybucja użycia usługi Dynamics
 
  > [!NOTE]
- > Ten raport jest dostępny na pulpicie Szczegółowe informacje nawigacyjnym. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Przeglądarka raportów lub Przeglądarka raportów kierownictwa. Aby uzyskać więcej informacji, zobacz Administrator globalny twojej firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami do przeglądarki raportów executive.
+ > Ten raport jest dostępny na Szczegółowe informacje nawigacyjnym. Aby wyświetlić ten raport, musisz mieć przypisaną określoną rolę w programie Partner Center, taką jak Administrator globalny, Administrator konta, Przeglądarka raportów lub Przeglądarka raportów kierownictwa. Aby uzyskać więcej informacji, zobacz Administrator globalny twojej firmy. Określone typy danych w tym raporcie mogą być również dostępne tylko dla użytkowników z uprawnieniami do przeglądarki raportów executive.
 
 ## <a name="summary"></a>Podsumowanie
 
-Sekcja podsumowania przedstawia widok migawki kluczowych wskaźników związanych z subskrypcjami użycia usługi Dynamics, które zostały sprzedane klientom lub są nimi zarządzane.  
+Sekcja podsumowania zawiera widok migawki kluczowych wskaźników związanych z subskrypcjami użycia usługi Dynamics, które zostały sprzedane klientom lub są nimi zarządzane.  
 
 - Dostępne stanowiska: łączna liczba licencji sprzedanych w wybranym okresie.
 
@@ -46,7 +46,7 @@ Sekcja podsumowania przedstawia widok migawki kluczowych wskaźników związanyc
 
    Wykres Mikro przedstawia miesięczny trend miesięcznych aktywnych stanowisk w wybranym okresie.
 
-- Aktywne użycie %: łączna liczba aktywnych stanowisk wyrażona jako procent dostępnych stanowisk w wybranym okresie. 
+- Active Usage %: Łączna liczba aktywnych stanowisk wyrażona jako procent dostępnych stanowisk w wybranym okresie. 
 
    Wykres Mikro przedstawia miesięczny trend wartości procentowego aktywnego użycia w wybranym okresie.
 
@@ -54,7 +54,7 @@ Sekcja podsumowania przedstawia widok migawki kluczowych wskaźników związanyc
 
 ## <a name="dynamics-usage-by-geography"></a>Użycie usługi Dynamics według lokalizacji geograficznej
 
-Użycie **usługi Dynamics według lokalizacji geograficznej** przedstawia rozkład dostępnych stanowisk i aktywnych stanowisk według kraju klienta. Jaśniejsze kolory na mapie reprezentują niższe wartości, a ciemniejsze kolory reprezentują wyższe wartości. Możesz wyszukać i wybrać kraj w siatce. Możesz również powiększyć widok, aby uzyskać bliższy wygląd.
+Użycie **usługi Dynamics według lokalizacji geograficznej** przedstawia rozkład dostępnych stanowisk i aktywnych stanowisk według kraju klienta. Jaśniejsze kolory na mapie reprezentują niższe wartości, a ciemniejsze reprezentują wyższe wartości. Możesz wyszukać i wybrać kraj w siatce. Możesz również powiększyć widok, aby uzyskać bliższy wygląd.
 
 Tabela **Liczba krajów/regionów** przedstawia łączną liczbę krajów/regionów, w których są generowane zdarzenia użycia platformy Azure.
 
@@ -82,6 +82,6 @@ Rozkład użycia usługi Dynamics przedstawia podział dostępnych stanowisk, ak
 
 ## <a name="next-steps"></a>Następne kroki
 
-- Aby uzyskać więcej raportów, [zobacz Partner Center Szczegółowe informacje](partner-center-insights.md).
+- Aby uzyskać więcej raportów, zobacz [Partner Center Szczegółowe informacje](partner-center-insights.md).
 
-- Możesz pobrać nieprzetworzone dane, które będą zasilać ten raport, z sekcji Pobieranie raportów na Szczegółowe informacje nawigacyjnym. [Więcej informacji](insights-download-reports.md) 
+- Możesz pobrać nieprzetworzone dane, które są zasilane z tego raportu, z sekcji Pobieranie raportów na Szczegółowe informacje nawigacyjnym. [Więcej informacji](insights-download-reports.md) 

@@ -7,13 +7,13 @@ ms.subservice: partnercenter-account
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
-ms.date: 06/12/2020
-ms.openlocfilehash: 4b913754dd73f99e8aa363d257a9ac658d190b6a
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.date: 09/27/2021
+ms.openlocfilehash: 090deddc8cdb06fe1b5f884b3efa9031fd93364b
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322003"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071841"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Merge your partner account with another partner account (Scalanie konta partnera z kontem innego partnera)
 
@@ -55,9 +55,9 @@ Jeśli zdecydujesz się zaakceptować zaproszenie do scalenia kont: · Twoje ide
 
 - Wszystkie istniejące kompetencje (Gold/Silver), zakupy (takie jak Microsoft Action Pack) i powiązane korzyści są zachowywane podczas konsolidacji. Jeśli obie firmy mają taką samą kompetencję, ale jedna jest złoty, a druga silver, kompetencja o najwyższym poziomie zaawansowania zostanie nadana, a partnerzy będą mieli jeden zestaw korzyści w kategorii Silver i jeden zestaw złotych korzyści dla tej kompetencji do czasu ich następnego odnowienia. 
 
-- Data najwyższej rocznicy dla Action Pack Microsoft zostanie zachowana po zakończeniu koncentracji. Jeśli na przykład rocznica firmy 1 to czerwiec 2020 r. w przypadku odnowienia usługi Action Pack, a data rocznicy odnowienia dla firmy Action Pack to październik 2020 r., firma Microsoft użyje daty października 2020 r. jako nowej daty rocznicy dla scalonej firmy.
+- Data najwyższej rocznicy dla Action Pack Microsoft zostanie zachowana po zakończeniu koncentracji. Jeśli na przykład data rocznicy firmy 1 to czerwiec 2020 r. w przypadku odnowienia usługi Action Pack, a data rocznicy odnowienia dla firmy Action Pack to październik 2020 r., firma Microsoft użyje daty października 2020 r. jako nowej daty rocznicy dla scalonej firmy.
 
-- Podczas koncentracji konta i do następnego odnowienia każde konto zachowuje swoje Action Pack i/lub kompetencji. Podczas odnawiania obowiązują standardowe Action Pack odnawiania kompetencji.
+- Podczas koncentracji konta i do następnego odnowienia każde konto zachowuje swoje Action Pack i/lub kompetencji. Podczas odnawiania obowiązują Action Pack odnawiania kompetencji.
 
 - Po odnowieniu korzyści związane z poziomem kompetencji i Action Pack są implementowane dla globalnego konta partnera firmy partnerskiej:
 
@@ -81,16 +81,18 @@ Jeśli zdecydujesz się zaakceptować zaproszenie do scalenia kont: · Twoje ide
 
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>Zaproś firmę do scalenia konta Partner Center z Twoim kontem Partner Center
 
->[!Note]
->Aby przeprowadzić połączenie konta, musisz być **administratorem konta** w swojej firmie.
+> [!NOTE]
+> Aby przeprowadzić połączenie konta, musisz być **administratorem konta** w swojej firmie.
 
-1. Wybierz **Ustawienia** na pulpicie nawigacyjnym Partner Center nawigacyjnym. 
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard) Centrum partnerskiego.
+ 
+2. Wybierz ikonę Ustawienia koła zębatego, a następnie wybierz **pozycję Ustawienia konta.**
 
-2. Wybierz **pozycję Scalanie konta.**
+3. Wybierz **pozycję Scalanie konta.**
 
-3. Dodaj identyfikator MPN znajdujący się w **profilu partnera** konta, które chcesz zaprosić do scalenia z Toem. Musisz użyć globalnego identyfikatora MPN partnera. Nie można użyć identyfikatora MPN lokalizacji.
+4. Dodaj identyfikator MPN znajdujący się w **profilu partnera** konta, które chcesz zaprosić do scalenia z Toem. Musisz użyć globalnego identyfikatora MPN partnera. Nie można użyć identyfikatora MPN lokalizacji.
 
-4. Po wybraniu opcji **Scal** zaproszenie zostanie wysłane do firmy partnerskiej. Po zaakceptowaniu żądania możesz zainicjować scalanie konta w ramach Partner Center. Jeśli firma odrzuci Żądanie scalenia kont, może wyjaśnić, dlaczego żądanie zostało odrzucone. Lista wszystkich scaleń Twojego konta jest dostępna w obszarze **Historia scalania.**
+5. Po wybraniu opcji **Scal** zaproszenie zostanie wysłane do firmy partnerskiej. Po zaakceptowaniu żądania możesz zainicjować scalanie konta w ramach Partner Center. Jeśli firma odrzuci Żądanie scalenia kont, może wyjaśnić, dlaczego żądanie zostało odrzucone. Lista wszystkich scaleń Twojego konta jest dostępna w obszarze **Historia scalania.**
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Przykład scalania kont dwóch firm
 

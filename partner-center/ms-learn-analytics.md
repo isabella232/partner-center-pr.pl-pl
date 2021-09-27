@@ -1,26 +1,26 @@
 ---
-title: Partner Center Szczegółowe informacje Microsoft Learn analizy
+title: Partner Center Szczegółowe informacje Microsoft Learn analizy danych
 ms.topic: article
 ms.date: 08/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Śledź informacje o osobach uczących się w firmie, wykorzystując dane dotyczące szkolenia indywidualnego, ukończonych modułów, ukończonych ścieżek szkoleniowych i nie tylko.
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b291ee52c9c6e72dc50aab9aa386177d9778cbd1
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 3e56f0fe6e500d18bb2888a91cb0877ec5a07d7f
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247510"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071830"
 ---
 # <a name="use-microsoft-learn-analytics-reports"></a>Korzystanie Microsoft Learn analitycznych
 
 **Odpowiednie role:** Administrator globalny | Administrator partnera MPN
 
-Raport [Microsoft Learn](/learn/) zawiera informacje o uczących się w firmie, w tym o modułach, które ukończyli, oraz ścieżkach szkoleniowych, w których się uczą. Raport zawiera stan poszczególnych uczniów. Administratorzy globalni i administratorzy MPN w firmie mogą wyświetlać dane.
+Raport [Microsoft Learn](/learn/) zawiera informacje o uczących się w firmie, w tym o modułach, które ukończyli, oraz ścieżkach szkoleniowych, na których się uczą. Raport zawiera stan poszczególnych uczniów. Administratorzy globalni i administratorzy MPN w firmie mogą wyświetlać dane.
 
 ## <a name="how-to-read-the-report"></a>Jak odczytać raport
 
@@ -40,7 +40,7 @@ Jeśli na przykład "Moduł 1" zostanie ukończony przez 15 osób, a "Moduł 2" 
 **Edukacja liczba ukończenia** ścieżki: liczba Edukacja ukończenia ścieżki przez uczniów w firmie partnera w wybranym zakresie dat.
 Jeśli na przykład ścieżka Edukacja "Ścieżka 1" została ukończona przez 20 osób, a ścieżka Edukacja "ścieżka 2" została ukończona przez te same 20 osób, liczba ukończenia ścieżki Edukacja wynosi 40. Data Edukacja ścieżki czasowej powinna być w wybranym zakresie dat.
 
-**Edukacja mini wykres trendu uzupełniania ścieżek:** Skumulowana liczba ukończenia ścieżki szkoleniowej z miesiąca na miesiąc 
+**Edukacja mini wykres trendu uzupełniania** ścieżek: Skumulowana liczba ukończenia ścieżki szkoleniowej z miesiąca na miesiąc 
 
 ### <a name="trained-individuals-monthly-trend"></a>Miesięczny trend wytrenowane osoby
 
@@ -66,7 +66,7 @@ Te dane to trend ścieżek edukacyjnych, które w tym miesiącu ukończyli użyt
 
 **Oś Y to** liczba ukończonych modułów w tym miesiącu. Nie jest to skumulowane.
 
-### <a name="learning-path-completion-tabs"></a>Edukacja uzupełniania ścieżki
+### <a name="learning-path-completion-tabs"></a>Edukacja uzupełniania ścieżki dostępu
 
 #### <a name="module-tab"></a>Karta Moduł
 
@@ -98,9 +98,9 @@ Ta karta zawiera podział ścieżek edukacyjnych ukończonych w firmie według p
 
 Zawiera listę przeszkolonych użytkowników w firmie oraz szczegółowe informacje o ukończonych modułach i ścieżkach szkoleniowych.
 
-Microsoft Learn identyfikuje uczących się za pomocą identyfikatora obiektu użytkownika. Na karcie **Moduły wszyscy** uczniowie są sortowane według ukończonych modułów. Są one wyświetlane z Microsoft Learn użytkownika, identyfikatora obiektu i liczby modułów. Możesz wyszukiwać przy użyciu nazwy użytkownika. 
+Microsoft Learn identyfikuje uczących się przy użyciu identyfikatora obiektu użytkownika. Na karcie **Moduły wszyscy** uczniowie są sortowane według ukończonych modułów. Są one wyświetlane z Microsoft Learn użytkownika, identyfikatora obiektu i liczby modułów. Możesz wyszukiwać przy użyciu nazwy użytkownika. 
 
-Na karcie **Edukacja ścieżki szkoleniowe** są wyświetlani wszyscy uczniowie posortowani według ukończonych ścieżek edukacyjnych z nazwą wyświetlaną, identyfikatorem obiektu i liczbami modułów.
+Na karcie **Edukacja ścieżki szkoleniowe** wszyscy uczniowie posortowani według ukończonych ścieżek edukacyjnych są wyświetlani z nazwą wyświetlaną, identyfikatorem obiektu i liczbami modułów.
 
 Aby uzyskać szczegółowe informacje dla uczących się przy użyciu identyfikatora obiektu użytkownika: 
 
@@ -112,7 +112,7 @@ Aby uzyskać szczegółowe informacje dla uczących się przy użyciu identyfika
 
 1. Nie mogę wyświetlić szczegółów uczenia mojej firmy.
 
-   Ten raport jest dostępny dla partnerów, którzy mają konto w Partner Center. Jeśli nadal jesteś w Partner Membership Center, nie będziesz w stanie wyświetlić tego raportu.
+   Ten raport jest dostępny dla partnerów, którzy mają konto w Partner Center. Jeśli nadal jesteś w Partner Membership Center, nie będzie można wyświetlić tego raportu.
 
 2. KtoTo w mojej firmie może wyświetlać ten raport? 
 
@@ -140,4 +140,4 @@ Aby uzyskać szczegółowe informacje dla uczących się przy użyciu identyfika
 Aby uzyskać więcej raportów, [zobacz Partner Center Szczegółowe informacje](partner-center-insights.md).
 
 >[!NOTE] 
-> Możesz pobrać nieprzetworzone dane, które są zasilane z tego raportu, z sekcji Pobieranie raportów na pulpicie Szczegółowe informacje nawigacyjnym. [Więcej informacji](insights-download-reports.md) 
+> Możesz pobrać nieprzetworzone dane, które są zasilane z tego raportu, z sekcji Pobieranie raportów na Szczegółowe informacje nawigacyjnym. [Więcej informacji](insights-download-reports.md) 

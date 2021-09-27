@@ -1,38 +1,38 @@
 ---
 title: Konsolidacja dzierżawy autoryzacji regionalnej programu CSP
 ms.topic: how-to
-ms.date: 07/15/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-customers
+ms.subservice: partnercenter-membership
 description: Użyj tych instrukcji, aby skonsolidować dzierżawy dla różnych krajów/regionów. Obejmuje to kroki migracji kont klientów i subskrypcji klientów.
 author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f4df62bddba501552eafe2142f4c0656b8eefc7c
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 1500525e49fd2585cd97cd4cf7999cba63ac9f30
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959554"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072336"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instrukcje dotyczące konsolidacji dzierżawy regionalnej autoryzacji dostawcy CSP
 
-**Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
+**Dotyczy:** Partner Center | Partner Center dla Microsoft Cloud for US Government
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny
 
-\[Niektóre informacje odnoszą się do wstępnie wydanego produktu, który może zostać znacząco zmodyfikowany, zanim zostanie wydany komercyjnie. Firma Microsoft nie udziela żadnych gwarancji, jawnych lub domniemanych, w odniesieniu do informacji podanych w tym miejscu.\]
+\[Niektóre informacje odnoszą się do przedpremierowego produktu, który może zostać znacząco zmodyfikowany przed jego premierą komercyjną. Firma Microsoft nie udziela żadnych gwarancji, jawnych lub domniemanych, w odniesieniu do informacji podanych w tym miejscu.\]
 
 Możesz konsolidować dzierżawy dla swojej firmy. Użyj tych instrukcji, aby skonsolidować dzierżawy dla różnych krajów/regionów.
 
 >[!NOTE]  
->Musisz mieć świadomość wszystkich aprowowanych subskrypcji i liczby licencji dla każdego z klientów na koncie, z których przechodzisz. W ramach procesu migracji ponownie aprowizuje się te same dokładnie subskrypcje z tymi samymi liczbami licencji w ramach nowego konta centralnego CSP. Funkcja eksportowania listy pomaga utworzyć listę klientów, którzy przejdą do scentralizowanej dzierżawy.  Po zakończeniu konsolidacji nie można przywrócić poprzedniego stanu dzierżawy. Może być również wymagana akcja klienta.
+>Musisz mieć świadomość wszystkich aprowowanych subskrypcji i liczby licencji dla każdego z klientów na koncie, z których przechodzisz. W ramach procesu migracji ponownie aprowizuje się te same dokładnie subskrypcje z tymi samymi liczbami licencji w ramach nowego konta centralnego CSP. Funkcja eksportowania listy pomaga utworzyć listę klientów, którzy przejdą do scentralizowanej dzierżawy.  Po zakończeniu konsolidacji nie można przywrócić poprzedniego stanu dzierżawy. Może być również wymagane działanie klienta.
 
 ## <a name="prepare-for-migration"></a>Przygotowanie do migracji
 
-- Zaloguj się **do Partner Center**  przy użyciu konta przejściowego (to, które zostanie przejść na nowe konto) i przejrzyj wszystkich klientów i wszystkie usługi aprowowane dla tych klientów.
+- Zaloguj się **do Partner Center**  przy użyciu konta przejściowego (to, które zostanie przejść na nowe konto) i przejrzyj informacje o wszystkich klientach i wszystkich usługach aprowowanych dla tych klientów.
 
 - Wyloguj się z tego konta.
 
@@ -40,13 +40,13 @@ Możesz konsolidować dzierżawy dla swojej firmy. Użyj tych instrukcji, aby sk
 
 1. Zaloguj się **do Partner Center**  przy użyciu konta **Transitioning** (nowe) (to, do których przekierowywujesz klientów).
 
-2. Wybierz pozycję **Klienci**.
+2. Wybierz **kafelek Klienci.**
 
 3. Wybierz **pozycję Request a reseller relationship (Zażądaj relacji odsprzedawcy).** Zostanie wyświetlony domyślny komunikat e-mail do wysłania do klientów. Ten komunikat zawiera adres URL z identyfikatorem organizacji unikatowym dla nowego Partner Center konta.
 
 4. **Akcja klienta:** Upewnij się, że każdy z aktywnych klientów, których chcesz migrować, odwiedzi ten adres URL. Podczas otwierania adresu URL klient jest monitowany o zalogowanie się do Office 365 portal. Klient korzysta z tego samego identyfikatora organizacji, który jest przez niego Office 365 portalami administracyjnym.
 
-5. Po zalogowaniu administrator globalny  dla konta klienta jest monitowany o przesłanie umowy, która daje delegowane uprawnienia administratora do nowego konta CSP. Jeśli klient się na to zgadza, zaznacza pole wyboru i wyraża zgodę na autoryzowanie relacji.
+5. Po zalogowaniu administrator globalny  dla konta klienta jest monitowany o przesłanie umowy, która daje delegowane uprawnienia administratora do nowego konta CSP. Jeśli użytkownik się zgadza, klient zaznacza pole wyboru i zgadza się na autoryzowanie relacji.
 
 Klienci będą pojawiać się na liście klientów partnera po przesłaniu umowy jeden po drugiej.
 
@@ -54,7 +54,7 @@ Klienci będą pojawiać się na liście klientów partnera po przesłaniu umowy
 
 1. Po podpisaniu umowy przez klienta możesz ponownie utworzyć jego subskrypcje w ramach dzierżawy scentralizowanego partnera.
 
-2. Z **Partner Center** wybierz pozycję **Klienci.**
+2. W **Partner Center** wybierz pozycję **Klienci.**
 
 3. Otwórz nazwę firmy klienta, którego chcesz zmigrować.
 
@@ -73,13 +73,13 @@ Klienci będą pojawiać się na liście klientów partnera po przesłaniu umowy
 Przed przejściem do następnej sekcji upewnij się, że wszystkie subskrypcje klientów istniejące w obszarze Przechodzenie z kont partnerów są ponownie aprowowane w ramach konta Przejścia **do** partnera. 
 
 > [!NOTE]
-> Partnerzy muszą wstrzymać  subskrypcje na koncie Przechodzenie z dzierżawy partnera w programie Partner Center tego  samego dnia, w który te subskrypcje zostały przenoszone i ustawione w ramach konta Przechodzenie do dzierżawy partnera w Partner Center, aby zagwarantować, że nie wystąpią podwójne rozliczenia. Żądania pomocy technicznej zostaną odrzucone w przypadku środków ze względu na nakładanie się rozliczeń, które nie wyłączają prawidłowo **przejścia z** subskrypcji.
+> Partnerzy muszą wstrzymać  subskrypcje na koncie Przechodzenie z dzierżawy partnera w programie Partner Center tego  samego dnia, gdy te subskrypcje zostały przenoszone i ustawione w ramach konta Przechodzenie do dzierżawy partnera w dzierżawie partnera w programie Partner Center, aby zagwarantować, że nie wystąpią podwójne rozliczenia. Żądania pomocy technicznej zostaną odrzucone w przypadku środków ze względu na nakładanie się rozliczeń, które nie wyłączają prawidłowo **przejścia z** subskrypcji.
 
 ## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Wyłączanie subskrypcji Office 365 w obszarze Przechodzenie z konta partnera
 
 Wyłączenie subskrypcji CSP w obszarze **Przechodzenie z** kont partnerów zatrzymuje wszelkie przyszłe rozliczenia. Nie trzeba ręcznie wyłączać subskrypcji platformy Azure, ponieważ subskrypcje platformy Azure są automatycznie wyłączane podczas procesu migracji.
 
-1. Zaloguj się do konta **Partner Center** z konta **CSP** i przejdź do listy klientów.
+1. Zaloguj się do **Partner Center** przy użyciu konta **Przechodzenie z** CSP i przejdź do listy klientów.
 
 2. Otwórz klienta z subskrypcjami do wyłączenia, a następnie wybierz pierwszą ofertę do wyłączenia.
 
@@ -96,7 +96,7 @@ Wyłączenie subskrypcji CSP w obszarze **Przechodzenie z** kont partnerów zatr
 
 ## <a name="migrating-azure-usage-based-subscriptions"></a>Migrowanie subskrypcji platformy Azure opartych na użyciu
 
-W przeciwieństwie do Office 365 CSP platformy Azure, subskrypcje CSP oparte na użyciu nie muszą być migrowane ręcznie. Microsoft Azure Pomoc techniczna zmigruje subskrypcje platformy Azure i wszystkie wdrożone usługi lub zasoby z konta przechodzenia z kont odsprzedawców programu **CSP** do konta odsprzedawcy programu **CSP.** Podczas tego przejścia nie będzie żadnych zakłóceń w działaniu usługi dla klienta.
+W przeciwieństwie Office 365 CSP platformy Azure, subskrypcje CSP oparte na użyciu nie muszą być migrowane ręcznie. Microsoft Azure Pomoc techniczna zmigruje subskrypcje platformy Azure i wszystkie wdrożone usługi lub zasoby z konta przechodzenia z kont odsprzedawcy programu **CSP** do konta odsprzedawcy programu **CSP.** Podczas tego przejścia nie będzie żadnych zakłóceń w działaniu usługi dla klienta.
 
 1. Upewnij się, że konta klientów, które będą mieć zmigrowane subskrypcje platformy Azure, zaakceptowały umowę skojarzoną z nowym kontem **przechodzenia do** programu CSP.
 
@@ -104,14 +104,14 @@ W przeciwieństwie do Office 365 CSP platformy Azure, subskrypcje CSP oparte na 
 
 3. Firma Microsoft migruje subskrypcje platformy Azure oparte na użyciu i powiadamia o zakończeniu migracji.
 
-4. Musisz potwierdzić, że subskrypcja platformy Azure w ramach konta  odsprzedawcy przejścia z programu **CSP** jest teraz oznaczona jako Partner Center w sekcji subskrypcje klientów.
+4. Musisz potwierdzić, że subskrypcja platformy Azure w ramach konta  odsprzedawcy przejścia z programu **CSP** jest teraz oznaczona jako Partner Center w sekcji subskrypcje klienta.
 
 5. Upewnij się, że subskrypcja platformy Azure w ramach konta  odsprzedawcy przejścia do programu **CSP** Partner Center w sekcji subskrypcje klientów.
 
    >[!Note]
    > Wyłączenie subskrypcji w ramach klienta nie zmienia wyglądu klienta na liście Klienci. Obecnie nie ma możliwości usunięcia klientów z listy. Partnerzy powinni unikać dodawania subskrypcji z powrotem do tych klientów ze swojego konta **przejścia** z konta w przyszłości.
 
-6. Powtórz te kroki dla wszystkich subskrypcji w ramach wszystkich  klientów, aby zatrzymać przyszłe opłaty na kontach przejścia z. Partner otrzyma jedną końcową fakturę ze środków za liczbę nieużywanych dni między dniem anulowania a ostatnim dniem okresu rozliczeniowego. Po upływie tego ostatecznego okresu rozliczeniowego nie będą generowane żadne przyszłe faktury.
+6. Powtórz te kroki dla wszystkich subskrypcji w ramach wszystkich  klientów, aby zatrzymać przyszłe opłaty na kontach przejścia z. Partner otrzyma jedną końcową fakturę ze środków za liczbę nieużywanych dni między dniem anulowania a ostatnim dniem okresu rozliczeniowego. Po tym końcowym okresie rozliczeniowym nie będą generowane żadne przyszłe faktury.
 
 ### <a name="additional-information"></a>Dodatkowe informacje
 
@@ -132,7 +132,7 @@ Za pomocą **funkcji Eksportuj** możesz przechwycić subskrypcje, których chce
 
 2. Otwórz nazwę żądanego klienta.
 
-3. Na stronie **Subskrypcje** wybierz pozycję Eksportuj **subskrypcje,** aby wyeksportować szczegóły subskrypcji do Excel subskrypcji.
+3. Na stronie **Subskrypcje** wybierz pozycję Eksportuj **subskrypcje,** aby wyeksportować szczegóły subskrypcji do Excel pliku.
 
 4. Użyj tej listy, aby ponownie utworzyć subskrypcje w nowej skonsolidowanej dzierżawie.
 
@@ -142,4 +142,4 @@ Aby uzyskać więcej informacji na temat rejestracji interfejsu API, zobacz [Kon
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Dostawca rozwiązań w chmurze regionalne i waluty programu , w których można sprzedawać oferty programu CSP](regional-authorization-overview.md)
+- [Dostawca rozwiązań w chmurze programów regionalnych i walut, w których można sprzedawać oferty CSP](regional-authorization-overview.md)

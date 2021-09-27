@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a9c0d970b4ddbdf22e0443ca9e6a2d06a031d0a9
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 3a6793834d67293e29a1b6d7e2f21b4b4eaa0ae6
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246933"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073942"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Tworzenie profilu biznesowego w celu uzyskania potencjalnych klientów firmy Microsoft i pomocy klientom w ich odnalezieniu
 
@@ -26,22 +26,22 @@ Firma Microsoft każdego roku angażuje miliony klientów w działania marketing
 
 Utworzenie profilu biznesowego jest pierwszym krokiem do uzyskania poleceń. Pokażemy Twój profil klientom, którzy poszukują partnerów, którzy mogą pomóc im w zaimplementowaniu produktów i rozwiązań firmy Microsoft, za pośrednictwem:
 
-- **Środowisko [wyszukiwania Znajdź dostawcę](https://www.microsoft.com/solution-providers/home) rozwiązań**. Potencjalni klienci mogą samodzielnie wyszukiwać oferty partnerów, aby zlokalizować partnerów spełniających ich kryteria wyszukiwania.
+- **Środowisko [wyszukiwania Znajdź dostawcę](https://www.microsoft.com/solution-providers/home) rozwiązań.** Potencjalni klienci mogą samodzielnie wyszukiwać oferty partnerów, aby zlokalizować partnerów spełniających ich kryteria wyszukiwania.
 
 - **Polecenia od pracowników działu sprzedaży i obsługi firmy Microsoft.** Potencjalni klienci zainteresowani wdrożeniem rozwiązań technologicznych opartych na chmurze kontaktują się z firmą Microsoft w celu znalezienia specjalistów, którzy mogą spełnić ich potrzeby biznesowe. Ci specjaliści firmy Microsoft mogą następnie skierować potencjalnych klientów do Twojej firmy.
 
 ## <a name="create-a-profile"></a>Tworzenie profilu
 
 > [!NOTE]  
-> Aby można było utworzyć profil biznesowy, musisz mieć Partner Center biznesowe. Jeśli nie masz jeszcze konta Partner Center, zobacz Tworzenie konta [Partner Center,](mpn-create-a-partner-center-account.md) aby uzyskać pomoc w jego tworzeniu.
+> Aby można było utworzyć profil biznesowy, musisz mieć Partner Center biznesowe. Jeśli nie masz jeszcze konta Partner Center, zobacz [](mpn-create-a-partner-center-account.md) Tworzenie konta Partner Center, aby uzyskać pomoc w jego tworzeniu.
 
 Utwórz profile dla każdego regionu, w których masz uprawnienia do prowadzenia działalności.
 
-1. Z menu **Partner Center** wybierz pozycję **Skierowania** Profile biznesowe wybierz &gt;  &gt; kraj/region, a > **[Utwórz profil biznesowy.](https://partner.microsoft.com/referrals/businessprofiles/)**
+1. Przejdź do ekranu Partner Center [Tworzenie profilu biznesowego.](https://partner.microsoft.com/referrals/businessprofiles/)
 
 2. Na stronie **Tworzenie profilu biznesowego** wybierz region, a następnie wprowadź informacje o profilu.
    > [!NOTE]  
-   >  Chociaż Partner Center obsługuje wiele języków, niektóre elementy, takie jak opis i tagi w postaci wolnej, mogą wymagać dołączyć tekst z różnych języków, jak wspomniano w tym temacie.
+   >  Chociaż Partner Center obsługuje wiele języków, niektóre elementy, takie jak opis i tagi w formularzu swobodnym, mogą wymagać dołączyć tekst z różnych języków, jak wspomniano w tym temacie.
 
 ### <a name="partner-information"></a>Informacje o partnerze
 
@@ -64,7 +64,7 @@ Opis może mieć maksymalnie 2500 znaków. Wskazówki, aby uzyskać doskonały o
 
 Dodaj stronę firmy w serwisie LinkedIn, aby wzmacniać połączenia z potencjalnymi klientami. 
 
-Jeśli dołączysz ten link, klienci będą mogli szybko wyświetlić więcej informacji o Organizacji za pośrednictwem platformy LinkedIn.
+Jeśli dołączysz ten link, klienci będą mogli szybko wyświetlić więcej informacji o Twojej organizacji za pośrednictwem platformy LinkedIn.
 
 Jeśli nie masz jeszcze strony firmy w serwisie LinkedIn, możesz ją [utworzyć teraz.](https://www.linkedin.com/company/setup/new/)
 
@@ -93,7 +93,7 @@ Rezygnacja z tej opcji pozwala poświęcać więcej czasu na pracę w firmach, k
 
 #### <a name="locations"></a>Lokalizacje
 
-Możesz dodać maksymalnie 5 lokalizacji firmy na region. Te lokalizacje są wyświetlane, gdy klienci wyszukuje partnerów w pobliżu.
+Można dodać maksymalnie 5 lokalizacji firmy na region. Te lokalizacje są wyświetlane, gdy klienci wyszukuje partnerów w pobliżu.
 
 Wskaż lokalizacje, które są oficjalnymi lokalizacjami firmy i które mogą być weryfikowane. Wybierz lokalizacje, które są centralnymi lokalizacjami dla rynku, na którym działasz, i najlepiej reprezentują możliwości twojej firmy do zrealizowania.
 

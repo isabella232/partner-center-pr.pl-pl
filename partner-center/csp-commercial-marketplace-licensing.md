@@ -1,7 +1,7 @@
 ---
 title: Zarządzanie licencjonowaniem w ofertach na platformie handlowej
 ms.topic: how-to
-ms.date: 04/29/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Dowiedz się, jak skonfigurować licencjonowanie dla ofert platformy handlowej dla isV i zarządzać nimi.
@@ -9,18 +9,18 @@ author: petand123
 ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73a02a0a6cad28939d21800c726811c8969ce9a2
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 0043a9d6f39b4c6858a6e69f73c6c7503b17508e
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246897"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073845"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Zarządzanie licencjonowaniem w ofertach na platformie handlowej
 
 **Odpowiednie role:** Administrator globalny | Administrator konta
 
-Ten artykuł zawiera decyzje dotyczące konfigurowania oferty w u Partner Center, jej Microsoft AppSource, a następnie zarządzania licencjami dla tej oferty.  
+W tym artykule o mowa o procesie konfigurowania oferty w u Partner Center, jej Microsoft AppSource, a następnie zarządzania licencjami dla tej oferty.  
 
 >[!IMPORTANT]
 >Możliwości w tym artykule są obecnie dostępne w publicznej wersji zapoznawczej.
@@ -41,7 +41,7 @@ Przed rozpoczęciem tego procesu należy zapoznać się z podstawami platformy h
 
 W poniższych procedurach zostanie wyświetlony monit o wprowadzenie identyfikatora oferty. Poślij teraz trochę czasu, aby wymyślić odpowiedni identyfikator oferty, pamiętając o następujących kwestiach:
 
-- Ten identyfikator jest widoczny dla klientów w adresie internetowym oferty w witrynie Marketplace i Azure Resource Manager, jeśli ma to zastosowanie.
+- Ten identyfikator jest widoczny dla klientów w adresie internetowym oferty marketplace i Azure Resource Manager szablonów, jeśli ma to zastosowanie.
 - Identyfikator oferty w połączeniu z identyfikatorem Publisher musi mieć długość poniżej 40 znaków.
 - Użyj tylko małych liter i cyfr. Identyfikator oferty może zawierać łączniki i podkreślenia, ale nie może zawierać spacji. Jeśli na przykład Identyfikator Publisher to , a po wprowadzeniu adresu internetowego oferty będzie `testpublisherid` `test-offer-1` to `https://appsource.microsoft.com/product/dynamics-365/testpublisherid.test-offer-1` .
 - Tego identyfikatora nie można zmienić po wybraniu opcji **Utwórz**.
@@ -55,7 +55,26 @@ Alias oferty to nazwa używana dla oferty w Partner Center. Będziesz również 
 
 ## <a name="create-your-offer"></a>Tworzenie oferty
 
-Pierwszym krokiem procesu licencjonowania jest utworzenie oferty platformy handlowej. 
+Pierwszym krokiem procesu licencjonowania jest utworzenie oferty platformy handlowej.
+
+> [!NOTE]
+> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
+
+1. Zaloguj się do [pulpitu Partner Center,](https://partner.microsoft.com/dashboard/)a następnie wybierz **kafelek Oferty w witrynie** Marketplace.
+2. W górnej części strony Przegląd wybierz pozycję Nowa **oferta,** a następnie wybierz pozycję **Dynamics 365 for Customer Engagement & PowerApps.**
+3. Wprowadź utworzone **wcześniej identyfikator oferty** i **alias** oferty.
+4. Wybierz **pozycję Utwórz,** aby wygenerować ofertę i kontynuować.
+5. Wybierz opcje licencjonowania.
+
+    - Aby włączyć zarządzanie licencjami dla oferty, wybierz pozycję **Włącz zarządzanie licencjami aplikacji za pośrednictwem usługi Microsoft**. Jest to ustawienie raz i nie można go zmienić po opublikowaniu oferty.
+
+    - Możesz również umożliwić klientom uruchamianie podstawowych funkcji aplikacji bez licencji i uruchamianie funkcji Premium po zakupie licencji. W tym celu wybierz pozycję Zezwalaj klientom **na instalowanie mojej aplikacji,** nawet jeśli licencje nie są przypisane.
+
+    - Jeśli nie chcesz, aby Twoja oferta zawierała włączone zarządzanie licencjami, wybierz pozycję Pobierz teraz **(wersja bezpłatna),** Bezpłatna wersja **próbna** lub **Skontaktuj się ze mną.**
+
+#### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
 
 1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
 2. W menu nawigacji po lewej stronie wybierz pozycję **Komercyjna platforma handlowa/Przegląd.**
@@ -70,11 +89,13 @@ Pierwszym krokiem procesu licencjonowania jest utworzenie oferty platformy handl
 
     - Jeśli nie chcesz, aby Twoja oferta zawierała włączone zarządzanie licencjami, wybierz pozycję Pobierz teraz **(wersja bezpłatna),** Bezpłatna wersja **próbna** lub **Skontaktuj się ze mną.**
 
+* * *
+
 ## <a name="create-your-plan"></a>Tworzenie planu
 
 W tych krokach zdefiniujesz plan lub plany, które chcesz włączyć dla oferty.
 
-1. W menu nawigacji po lewej stronie wybierz **pozycję Plan overview**, a następnie wybierz pozycję Utwórz nowy **plan.**
+1. Z określonej oferty wybierz pozycję **Omówienie planu,** a następnie wybierz **pozycję Utwórz nowy plan.**
 2. Wprowadź identyfikator **planu i** **nazwę planu,** a następnie wybierz pozycję **Utwórz**.
 3. Na stronie **listy Plan** wprowadź opis **planu**.
 4. Aby zapisać opis i zakończyć go później, wybierz pozycję **Zapisz roboczą.**
@@ -89,7 +110,7 @@ Następnym krokiem jest zaktualizowanie rozwiązania przez dodanie identyfikator
 
 ## <a name="upload-your-package-and-publish-your-offer"></a>Upload pakietu i opublikuj ofertę
 
-1. W okienku nawigacji po lewej stronie wybierz pozycję **Komercyjna platforma handlowa,** a następnie wybierz **pozycję Konfiguracja techniczna.**
+1. Z określonej oferty wybierz pozycję **Konfiguracja techniczna.**
 2. W **obszarze Podstawowy model licencji** wybierz pozycję **Użytkownik.**
 3. W **obszarze Pakiet CRM** wprowadź adres URL lokalizacji pakietu.
 4. Użyj innych kart w okienku nawigacji po lewej stronie, aby wprowadzić inne wymagane informacje. Gdy wszystko będzie gotowe, wybierz pozycję **Przejrzyj i opublikuj**.
@@ -100,15 +121,11 @@ Po opublikowaniu oferty przejmiemy i zweryfikujemy Twoje informacje. W przypadku
 
 W poniższej procedurze przedstawiono proces tworzenia oferty na żywo w usłudze AppSource. Aby dowiedzieć się więcej na temat tego procesu, zobacz [Wprowadzenie do opcji listy](/azure/marketplace/determine-your-listing-type).
 
->[!NOTE]
->Po opublikowaniu oferty jej opublikowanie potrwa 4–6 godzin.
+> [!NOTE]
+> Po opublikowaniu oferty jej opublikowanie potrwa 4–6 godzin.
 
-1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
-2. W menu nawigacji po lewej stronie wybierz pozycję **Komercyjna platforma handlowa/Przegląd.**
-3. Na **stronie** Przegląd znajdź ofertę, która Cię szuka. Oferty gotowe do opublikowania będą mieć stan Wersja **zapoznawcza.** Wybierz ofertę.
-4. Na stronie **Omówienie oferty** wybierz pozycję Przejdź **na żywo.**
-Oferta będzie żywa w ciągu 4–6 godzin.
-5. Aby wyświetlić ofertę w usłudze AppSource, wybierz link **AppSource** w dolnej części **strony Omówienie** oferty.
+1. Z określonej oferty wybierz pozycję **Przejdź na żywo.**
+2. Aby wyświetlić ofertę w usłudze AppSource, wybierz link **AppSource** w dolnej części **strony Omówienie** oferty.
 
     - **W przypadku ofert z obsługą** licencji: jeśli oferta wymaga sprawdzenia licencji, użytkownicy będą mogli wprowadzić potencjalnego klienta tylko przez kliknięcie pozycji Skontaktuj się ze **mną,** aby móc się z nimi komunikować.
 
@@ -122,17 +139,38 @@ Aby można było przypisać licencje do klienta, każda sprzedaż musi być zare
 
 Użyj poniższej procedury, aby zaprosić klienta do wzięcia udziału w tej transakcji.  
 
-1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
-2. W menu nawigacji po lewej stronie wybierz pozycję **Komercyjna platforma handlowa/Przegląd.**
-3. W menu nawigacji po lewej stronie wybierz **pozycję Polecenia**, a następnie wybierz pozycję **Rejestracja transakcji.**
-4. **Odfiltruj** przesłane transakcje, wybierz **kartę W** toku, a następnie wybierz transakcję, której potrzebujesz.
-5. Na stronie przeglądu tej transakcji wybierz pozycję **Zarządzaj licencjami.**
-6. W **oknie Zarządzanie licencjami** wybierz klienta z **listy rozwijanej Szczegóły** klienta. Jeśli relacja z klientem jeszcze nie istnieje, wybierz **pozycję +Zaproś nowego klienta do wyrażenia zgody.**
-7. Skopiuj wyświetlony link.
-8. Wyślij ten link pocztą e-mail do administratora rozliczeń lub administratora globalnego klienta i za pomocą tego linku uzyskaj dostęp do usługi admin.microsoft.com oraz zaakceptuj i autoryzuj nawiązywaną relację.
+> [!NOTE]
+> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-    >[!NOTE]
-    >Relacja nie zostanie ustanowiona, dopóki klient nie wykona tego kroku.
+#### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
+
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/) Centrum partnerskiego.
+2. Wybierz **kafelek Polecenia.**
+3. Wybierz **pozycję Rejestracja transakcji.**
+4. **Odfiltruj przesłane** transakcje, wybierz **kartę W** toku, a następnie wybierz transakcję, której potrzebujesz.
+5. Na stronie przeglądu tej transakcji wybierz pozycję **Zarządzaj licencjami.**
+6. W **oknie Zarządzanie licencjami** wybierz klienta z listy **rozwijanej Szczegóły** klienta. Jeśli relacja z klientem jeszcze nie istnieje, wybierz **pozycję +Zaproś nowego klienta do wyrażenia zgody.**
+7. Skopiuj wyświetlony link.
+8. Wyślij ten link pocztą e-mail do administratora rozliczeń lub administratora globalnego klienta i pomiń go za pomocą tego linku w celu uzyskania dostępu do admin.microsoft.com oraz akceptowania i autoryzowania nawiązywanych relacji.
+
+    > [!NOTE]
+    > Relacja nie zostanie ustanowiona, dopóki klient nie wykona tego kroku.
+
+#### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
+
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/) Centrum partnerskiego.
+2. W menu nawigacji po lewej stronie wybierz pozycję **Komercyjna platforma handlowa/Przegląd.**
+3. W menu nawigacji po lewej stronie wybierz pozycję **Polecenia**, a następnie wybierz pozycję **Rejestracja transakcji.**
+4. **Odfiltruj przesłane** transakcje, wybierz **kartę W** toku, a następnie wybierz transakcję, której potrzebujesz.
+5. Na stronie przeglądu tej transakcji wybierz pozycję **Zarządzaj licencjami.**
+6. W **oknie Zarządzanie licencjami** wybierz klienta z listy **rozwijanej Szczegóły** klienta. Jeśli relacja z klientem jeszcze nie istnieje, wybierz **pozycję +Zaproś nowego klienta do wyrażenia zgody.**
+7. Skopiuj wyświetlony link.
+8. Wyślij ten link pocztą e-mail do administratora rozliczeń lub administratora globalnego klienta i pomiń go za pomocą tego linku w celu uzyskania dostępu do admin.microsoft.com oraz akceptowania i autoryzowania nawiązywanych relacji.
+
+    > [!NOTE]
+    > Relacja nie zostanie ustanowiona, dopóki klient nie wykona tego kroku.
+
+* * *
 
 ## <a name="activate-manage-and-remove-your-licenses"></a>Aktywowanie i usuwanie licencji oraz zarządzanie nimi
 
@@ -143,7 +181,7 @@ Gdy klient autoryzował relację z Toem, możesz rozpocząć dodawanie planów z
 
     - Aby zmienić liczbę licencji dla istniejącego planu, wprowadź nową liczbę w polu Liczba licencji, a następnie wybierz pozycję **Aktualizuj licencje.** 
 
-    - Aby dezaktywować lub usunąć licencje dla transakcji,  wybierz ikonę kosza w polu Akcje, a następnie wybierz pozycję **Aktualizuj licencje.**
+    - Aby dezaktywować lub usunąć licencje dla transakcji,  wybierz ikonę kosza w polu Akcje, a następnie wybierz pozycję **Aktualizuj licencje**.
 
 ## <a name="next-steps"></a>Następne kroki
 

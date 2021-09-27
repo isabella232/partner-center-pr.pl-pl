@@ -1,18 +1,18 @@
 ---
 title: Uzyskiwanie zapłaty w Centrum partnerskim
-description: Dowiedz się więcej o otrzymywaniu płatności za zarobki jako partner firmy Microsoft, na przykład za pośrednictwem ofert platformy handlowej, programów zachęt i programu Dostawca rozwiązań w chmurze platformy handlowej. Obejmuje zasady wypłat, stan wstrzymania wypłaty i zestawienia wypłat.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+description: Dowiedz się więcej o otrzymywaniu płatności za zarobki jako partner firmy Microsoft, takich jak oferty platformy handlowej, programy zachęt i Dostawca rozwiązań w chmurze platformy handlowej. Obejmuje zasady wypłat, stan wstrzymania wypłaty i zestawienia wypłat.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-payouts
 ms.topic: conceptual
-ms.date: 07/12/2021
+ms.date: 09/21/2021
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: 99cc0172f9cb1e09bdc77bbd9187ad2452c19c61
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 5a98a4ef3c1064a64dd2af46ce3a83a0a73589d6
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958569"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075263"
 ---
 # <a name="getting-paid-in-partner-center"></a>Uzyskiwanie zapłaty w Centrum partnerskim
 
@@ -38,12 +38,12 @@ Przed uzyskaniem pierwszej płatności musisz skonfigurować konto wypłaty i wy
 
 Domyślnie będziemy wysyłać płatności co miesiąc, zgodnie z powyższym opisem. Możesz jednak chwycić wypłaty dla programu i firma Microsoft nie będzie zwalniać płatności na Twoim koncie. Jeśli zdecydujesz się chwycić wypłaty, będziemy nadal rejestrować wszelkie zarobki na **stronie Wypłaty.** Jednak nie wyślemy żadnych płatności na Twoje konto, dopóki nie usuniesz wstrzymania.
 
-Aby chwyć płatności, wybierz **ikonę Ustawienia** koła zębatego w prawym górnym rogu, a następnie **pozycję Ustawienia konta.** Wybierz **pozycję Wypłata i** podatek w menu po lewej stronie, a następnie w sekcji **Wypłata** i przypisanie profilu podatkowego znajdź program, dla którego chcesz zatrzymać płatności. Zaznacz pole **wyboru Hold my Payment (Wstrzymaj** moją płatność), aby przechowywać płatności dla tego programu. Stan wstrzymania wypłat można zmienić w dowolnym momencie, ale decyzja będzie mieć wpływ na następną miesięczną wypłatę. Jeśli na przykład chcesz trzymać kwietniowe wypłaty, upewnij się, że stan wstrzymywania wypłaty został ustawiony **na Wł.** przed końcem marca.
+Aby chwyć płatności, wybierz **ikonę koła Ustawienia** w prawym górnym rogu, a następnie **pozycję Ustawienia konta.** Wybierz **pozycję Wypłata i** podatek w menu po lewej stronie, a następnie w sekcji **Wypłata** i przypisanie profilu podatkowego znajdź program, dla którego chcesz zatrzymać płatności. Zaznacz pole **wyboru Hold my Payment (Wstrzymaj** moją płatność), aby przechowywać płatności dla tego programu. Stan wstrzymania wypłat można zmienić w dowolnym momencie, ale decyzja będzie mieć wpływ na następną miesięczną wypłatę. Jeśli na przykład chcesz trzymać kwietniowe wypłaty, upewnij się, że stan wstrzymywania wypłaty został ustawiony **na Wł.** przed końcem marca.
 
 Po skonfigurowaniu stanu wstrzymania **wypłaty** na Wł. wszystkie wypłaty dla tego programu będą wstrzymane do momentu wyczyszczenia pola wyboru **na Wyłączone.** Gdy to zrobisz, zostaniesz uwzględniony w następnym miesięcznym cyklu wypłaty (pod warunkiem, że został osiągnięty próg płatności). Jeśli wypłaty zostały wstrzymane, ale chcesz, aby wypłata była generowana w  czerwcu, wyczyść pole wyboru wyłączone przed końcem maja.
 
 >[!Note]
-> Stan wstrzymania wypłat ma zastosowanie do każdego programu indywidualnie (Microsoft Store, reklamy, Azure Marketplace i tak dalej). Jeśli chcesz przechowywać płatności dla wszystkich programów, wstrzymaj płatność osobno dla każdego programu.
+> Stan wstrzymania wypłat ma zastosowanie do każdego programu indywidualnie (Microsoft Store, reklam, Azure Marketplace itd.). Jeśli chcesz przechowywać płatności dla wszystkich programów, wstrzymaj płatność osobno dla każdego programu.
 
 ## <a name="payout-statements"></a>Zestawienia wypłat
 

@@ -1,37 +1,37 @@
 ---
-title: Projekt Microsoft Partner Agreement (MPA) dla CSP
+title: Program Microsoft Partner Agreement (MPA) dla CSP
 ms.topic: how-to
 ms.date: 03/23/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-account
+ms.subservice: partnercenter-enroll
 description: Dowiedz się więcej o wymaganiach partnerów programu Microsoft CSP dotyczących podpisywania i weryfikowania tej ujednoliconej, akceptowanej cyfrowo Microsoft Partner Agreement (MPA).
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 373ab01965cb527ab5e972cc28c2e7d9a685cb11
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: b795acc4765811f518a8ca6ba0c92d09631e7160
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958438"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070262"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Dowiedz się więcej o Microsoft Partner Agreement (MPA) dla partnerów programu CSP
 
 **Odpowiednie role:** Administrator globalny
 
-Ten Microsoft Partner Agreement partnerom firmy Microsoft ujednoliconą, cyfrowo akceptowaną umowę partnerską. Ten Microsoft Partner Agreement podstawowy zestaw bezterminowych terminów, które ułatwiają firmie Microsoft, partnerom i klientom obsługę prywatności i bezpieczeństwa danych, promowanie zgodności i wspieranie dobrych praktyk biznesowych.
+Ten Microsoft Partner Agreement partnerom firmy Microsoft ujednoliconą, cyfrowo akceptowaną umowę partnerską. Ten Microsoft Partner Agreement zawiera podstawowy zestaw bezterminowych terminów, które ułatwiają firmie Microsoft, partnerom i klientom obsługę prywatności i bezpieczeństwa danych, promowanie zgodności i wspieranie dobrych praktyk biznesowych.
 
-Wszyscy Dostawca rozwiązań w chmurze programu (w tym dostawcy pośredni, odsprzedawcy pośredni i partnerzy rozliczani bezpośrednio) mogą podpisać umowę MPA online w Partner Center. Bezpośredni partnerzy rozliczani i dostawcy pośredni, którzy działają w Microsoft Cloud for US Government mogą również podpisać umowę MPA z poziomu Partner Center.
+Wszyscy Dostawca rozwiązań w chmurze programu (w tym dostawcy pośredni, odsprzedawcy pośredni i partnerzy rozliczani bezpośrednio) mogą podpisać umowę MPA online w Partner Center. Bezpośredni partnerzy rozliczani i pośredni dostawcy, którzy działają w Microsoft Cloud for US Government mogą również podpisać umowę MPA z poziomu Partner Center.
 
-Aby nadal uczestniczyć w programie CSP, musisz podpisać umowę Microsoft Partner Agreement 31 stycznia 2020 r. Partner Center przypomina, że możesz teraz łatwo podpisać umowę z poziomu Partner Center.
+Aby nadal uczestniczyć w programie CSP, musisz podpisać umowę Microsoft Partner Agreement do 31 stycznia 2020 r. Partner Center, że możesz teraz łatwo podpisać umowę z poziomu Partner Center.
 
 >[!NOTE]
 >Umowa MPA musi być podpisana raz w każdym regionie CSP, w którym firma prowadzi działalność w programie CSP. Dowiedz się więcej na [temat regionów CSP](regional-authorization-overview.md) 
 
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>Sprawdź, czy identyfikator MPN jest aktywny i zmigrowany do Partner Center
 
-1. Jeśli konto MPN nie zostało zmigrowane z sieci Partner Membership Center (PMC) do Partner Center, należy przeprowadzić migrację konta [MPN](./partner-membership-center-retirement-faq.md)do Partner Center . Pozostałe kroki zostaną ukończone po zakończeniu migracji. 
+1. Jeśli konto MPN nie zostało zmigrowane z Partner Membership Center (PMC) do Partner Center, musisz przeprowadzić migrację konta [MPN](./partner-membership-center-retirement-faq.md)do Partner Center . Pozostałe kroki zostaną ukończone po zakończeniu migracji. 
 
 1. Jeśli nie masz konta lub identyfikatora MPN, musisz najpierw dołączyć do programu Microsoft Partner Network. [Dowiedz się, jak dołączyć do programu MPN.](mpn-create-a-partner-center-account.md)
 
@@ -46,15 +46,15 @@ Aby nadal uczestniczyć w programie CSP, musisz podpisać umowę Microsoft Partn
 
 
 >[!NOTE]
->Poświadczenia konta identyfikatora MPN mogą być inne niż poświadczenia konta CSP.
+>Poświadczenia konta identyfikatora MPN mogą nie być takie same jak poświadczenia konta CSP.
 
 ## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>Potwierdź, że jesteś zarejestrowanym odsprzedawcą pośrednim w programie CSP
 
-1. Jeśli nie masz jeszcze zarejestrowanego CSP Indirect Reseller [w](indirect-reseller-tasks-in-partner-center.md) usłudze Partner Center, musisz to zrobić najpierw. Wykonaj pozostałe kroki po zarejestrowaniu jako CSP Indirect Reseller w Partner Center.
+1. Jeśli nie masz jeszcze zarejestrowanej CSP Indirect Reseller [w](indirect-reseller-tasks-in-partner-center.md) usłudze Partner Center, musisz to zrobić najpierw. Wykonaj pozostałe kroki po zarejestrowaniu jako CSP Indirect Reseller w Partner Center.
 
 1. Zaloguj się do Partner Center przy użyciu poświadczeń konta administratora globalnego programu CSP.
 
-1. W **Ustawienia** wybierz **pozycję Ustawienia konta,** a następnie wybierz pozycję Profil [partnera.](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)
+1. W **Ustawienia** wybierz **pozycję Ustawienia konta,** a następnie wybierz [pozycję Profil partnera.](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)
 
 1. Sprawdź **sekcję Informacje o** programie. Jeśli Twoje informacje nie pokazują stanu **odsprzedawcy pośredniego,** musisz zarejestrować [się jako odsprzedawca pośredni](indirect-reseller-tasks-in-partner-center.md).
 

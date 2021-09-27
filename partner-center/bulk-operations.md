@@ -9,14 +9,14 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 09/08/2021
-ms.openlocfilehash: a87b44bb2730faf87bfaaf25b5e051b0ce4f6f30
-ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
+ms.openlocfilehash: d224a06304adbac03534eedd03b78f3db78f306e
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128360189"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072481"
 ---
-# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Operacje zbiorcze dotyczące możliwości sprzedaży zbiorczej przy użyciu plików wartości rozdzielanych przecinkami (CSV)
+# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Operacje zbiorcze dotyczące możliwości wspólnej sprzedaży przy użyciu plików wartości rozdzielanych przecinkami (CSV)
 
 **Odpowiednie role:** Administrator poleceń | Użytkownik poleceń
 
@@ -40,7 +40,7 @@ Poniżej opisano funkcje eksportowania:
 ## <a name="import-co-sell-opportunities"></a>Importowanie możliwości wspólnej sprzedaży
 
 - Za pomocą funkcji importowania można utworzyć lub zaktualizować **maksymalnie 1000** rekordów.
-- Szablon można skompilować od podstaw, pobierając go ze strony Importowanie na Partner Center.
+- Szablon można skompilować od podstaw, pobierając go ze strony Importowanie w Partner Center.
 - Możesz również użyć funkcji Eksportuj, aby pobrać istniejące rekordy i zaktualizować je.
 - Jeśli plik zawiera więcej niż 1000 rekordów, nie można go przetworzyć.
 - Po przetworzeniu pliku na ostatniej karcie pliku procesu zostanie wyświetlone podsumowanie z liczbą poleceń, które zostały utworzone, zaktualizowane i nie zostały przetworzone.
@@ -100,7 +100,7 @@ błędy|Nie|Błędy, jeśli jakiekolwiek związane z operacjami tworzenia/aktual
 Identyfikator zaangażowania|Tak|Identyfikator zaangażowania jest generowany przez system poleceń Partner Center Microsoft. Nie jest wymagane do tworzenia nowych poleceń. Jeśli aktualizujesz rekord, możesz użyć istniejącego identyfikatora zaangażowania.|f7eaae47-0b84-4ac4-b4ea-5b2587d42cee
 Identyfikator polecenia|Tak|Identyfikator polecenia jest generowany przez system poleceń Partner Center Microsoft. Nie jest wymagane do tworzenia nowych poleceń. Wypełnij go identyfikatorem odwołania, jeśli aktualizujesz istniejący rekord.|ebacdkdc-0b84-4ac4-b4ea-5b2587d42cee
 Nazwa transakcji|Tak|Przyjazna nazwa transakcji dla Twojej odwołania.|Uk spring deal
-Nazwa klienta|Tak|Nazwa firmy klienta. Użyj prawnej nazwy organizacji, aby szybko dopasować po stronie firmy Microsoft.|Contoso Corporation
+Nazwa klienta|Tak|Nazwa firmy klienta. Użyj nazwy prawnej organizacji, aby szybko dopasować po stronie firmy Microsoft.|Contoso Corporation
 Wiersz 1 adresu klienta|Tak|Adres 1 firmy klienta. |One Contoso Way
 Wiersz 2 adresu klienta|Nie|Adres 2 firmy klienta.|NE 148 street
 Customer City|Tak|Miasto, w którym znajduje się organizacja klienta.|Redmond
@@ -112,28 +112,28 @@ Imię kontaktu z klientem|Zależy|Imię jest obowiązkowe tylko wtedy, gdy potrz
 Nazwisko osoby kontaktowej klienta|Zależy|Nazwisko jest obowiązkowe tylko wtedy, gdy potrzebujesz pomocy firmy Microsoft. Nazwisko głównej osoby kontaktowej z organizacji klienta, która pracuje nad tą ofertą.|Klient
 Numer Telefon klienta|Zależy|Telefon jest wymagany tylko wtedy, gdy potrzebujesz pomocy firmy Microsoft. Telefon głównej osoby kontaktowej z organizacji klienta, która pracuje nad tą ofertą.|9999999999
 Adres e-mail kontaktu z klientem|Zależy|Adres e-mail jest wymagany tylko wtedy, gdy potrzebujesz pomocy firmy Microsoft. Adres e-mail głównej osoby kontaktowej z organizacji klienta, która pracuje nad tą ofertą.|john.customer@contoso.com
-Stan polecenia partnera|Tak|Wskazuje stan transakcji z perspektywy firmy. Wymagane, jeśli próbujesz utworzyć lub zmodyfikować polecenie. Użyj **nowego,** jeśli próbujesz utworzyć nową ofertę. Wartości, których można użyć, są wyświetlane na [liście zasobów poleceń](/partner/develop/referral-resources#referralstatus).|Aktywna
-Podstatus poleceń partnera|Tak|Wskazuje dokładny stan transakcji. Użyj **zaakceptowanych,** jeśli próbujesz utworzyć nową ofertę. Jest to również wymagane, jeśli modyfikujesz istniejące polecenie. Wartości, których można użyć, są wyświetlane na [liście zasobów poleceń](/partner/develop/referral-resources#referralsubstatus).|Zaakceptowano
+Stan polecenia partnera|Tak|Wskazuje stan transakcji z perspektywy firmy. Wymagane, jeśli próbujesz utworzyć lub zmodyfikować polecenie. Użyj **nowego,** jeśli próbujesz utworzyć nową ofertę. Wartości, których można użyć, są wyświetlane w [zasobach poleceń](/partner/develop/referral-resources#referralstatus).|Aktywna
+Podstatus poleceń partnera|Tak|Wskazuje dokładny stan transakcji. Użyj **zaakceptowanych,** jeśli próbujesz utworzyć nową ofertę. Jest to również wymagane, jeśli modyfikujesz istniejące polecenie. Wartości, których można użyć, są wyświetlane w [zasobach poleceń](/partner/develop/referral-resources#referralsubstatus).|Zaakceptowano
 Stan poleceń firmy Microsoft|Zależy|Wskazuje stan żądania współpracy sprzedaży wysłanego do firmy Microsoft w celu szukania pomocy. Jest to pole tylko do odczytu. Wszelkie zmiany wprowadzone w tym polu podczas importowania danych zostaną zignorowane.| Oczekiwanie
 Odrzucona/utracona przyczyna|Zależy| Musisz podać te informacje tylko wtedy, gdy zmieniasz stan podrzędny pola na Odrzucone lub Utracone. W przeciwnym razie możesz zignorować tę kolumnę. <br/> **Wprowadź liczbę na podstawie poniższych opcji** <br/><br/> **1**— Project budżetu nie jest odpowiedni  <br/> **2**— Klient nie odpowiedział  <br/> **3**— Klient wybrał innego dostawcę  <br/> **4** — Wymagania klienta nie zostały spełnione  <br/> **5** — Nie jest klientem <br/> **6**— Proponowana linia czasowa była zbyt krótka <br/> **7** — Zgłaszanie jako nadużycie, spam lub wyłudzanie informacji <br/> **8** — Inne |6|
 Etap sprzedaży|Nie|Jest to pole wskazujące szczegółowy etap sprzedaży polecenia. Więcej informacji na temat etapów sprzedaży można uzyskać na stronie Manage co-sell opportunities in Partner Center (Zarządzanie [możliwościami współsprzedaży w Partner Center](./manage-co-sell-opportunities.md)|40
 Szacowana wartość transakcji|Tak|Wartość transakcji na podstawie początkowych konwersacji z klientem. Można to zmienić, dopóki transakcja nie osiągnie jednego z stanów końcowych, w których **zostanie wygrana lub** **utracona.**|12563
 Waluta|Tak|Waluta, w której wprowadzana jest wartość transakcji. Kody walut można znaleźć na [stronie Wikipedii ISO 4217.](https://en.wikipedia.org/wiki/ISO_4217)|USD
-Szacowana data zamknięcia|Tak|Szacowana data zamknięcia transakcji na podstawie początkowych konwersacji z klientem w formacie MM/DD/YYYY. <br/> **Data powinna być w strefie czasowej UTC. Wszystkie daty wyświetlane w interfejsie Partner Center są oparte na zlokalizowanych strefach czasowych. Jeśli patrzysz na polecenie, dla którego podano datę w strefie czasowej UTC, w interfejsie użytkownika może być Partner Center jeden dzień różnicy.**|1/30/2020
-Identyfikator CRM|Nie|Identyfikator tego konkretnego odwołania w systemie CRM, jeśli takie są. Jest to pole wprowadzania tekstu w postaci bezpłatnej.|34234324-sdfsdf-345345-sfd
+Szacowana data zamknięcia|Tak|Szacowana data zamknięcia transakcji na podstawie początkowych konwersacji z klientem w formacie MM/DD/YYYY. <br/> **Data powinna być w strefie czasowej UTC. Wszystkie daty wyświetlane w interfejsie Partner Center są oparte na zlokalizowanych strefach czasowych. Jeśli patrzysz na polecenie, dla którego podano datę w strefie czasowej UTC, w interfejsie użytkownika aplikacji może być Partner Center jeden dzień różnicy.**|1/30/2020
+Identyfikator CRM|Nie|Identyfikator tego konkretnego polecenia w systemie CRM, jeśli jest używany. Jest to pole wprowadzania tekstu w postaci bezpłatnej.|34234324-sdfsdf-345345-sfd
 Identyfikator kampanii marketingowej|Nie|To pole wskazuje kampanię marketingową, co zaowocowała tym konkretnym poleceniem. Zwykle używany do obliczania zwrotu z inwestycji|BingSummer2020
 Uwagi|Nie|Szczegółowe uwagi wskazujące aktualizacje związane z poleceniem|To jest przykładowa uwaga
 Wymagana jest pomoc firmy Microsoft?|Tak|Ma to na celu wskazanie, czy chcesz, aby firma Microsoft pomogła Ci w zrzucie wniosku o współs sprzedaży|Tak
-Jaka jest pomoc firmy Microsoft?|Zależy|Jeden z sześciu różnych sposobów, w jakie firma Microsoft może Ci pomóc. Ma to zastosowanie tylko w przypadku wybrania opcji Tak dla pytania "Wymagana pomoc firmy Microsoft? " <br/> **Wprowadź liczbę na podstawie poniższych opcji** <br/><br/> **1**— Obciążenie — konkcyjna wartość  <br/> **2 —** Architektura techniczna klienta  <br/> **3**— Proof of concept /Demo  <br/> **4 —** Oferty i licencjonowanie  <br/> **5 —** Post — sukces klientów sprzedaży  <br/> **6**— Ogólne lub inne|1|
+Jaka pomoc od firmy Microsoft?|Zależy|Jeden z sześciu różnych sposobów, w jakie firma Microsoft może Ci pomóc. Ma to zastosowanie tylko w przypadku wybrania opcji Tak dla pytania "Wymagana pomoc firmy Microsoft? " <br/> **Wprowadź liczbę na podstawie poniższych opcji** <br/><br/> **1**— Obciążenie — propozycja określonej wartości  <br/> **2**— Architektura techniczna klienta  <br/> **3**— Proof of concept /Demo  <br/> **4 —** Oferty i licencjonowanie  <br/> **5**— Post — sukces klienta sprzedaży  <br/> **6**— Ogólne lub inne|1|
 Udostępnianie zespołowi sprzedaży firmy Microsoft|Tak|Ma to na celu wskazanie, czy chcesz udostępnić szczegóły transakcji zespołowi sprzedaży firmy Microsoft, czy nie. Ma to zastosowanie tylko w przypadku wybrania opcji Nie dla pytania "Wymagana pomoc firmy Microsoft? "|Tak
 Uwagi do firmy Microsoft|Nie|Wszelkie uwagi dotyczące firmy Microsoft, jeśli potrzebujesz pomocy od firmy Microsoft|Potrzebna pomoc z usługą POC dla klienta firmy Contoso
-Zgoda na udostępnianie kontaktu klienta/partnera|Tak|Zgoda na udostępnianie danych kontaktowych klienta i danych kontaktowych pracowników firmy pracujących nad ofertą. **Transakcje nie będą tworzone ani aktualizowane, jeśli dla tej kolumny wybierzesz pozycję Nie.** |Tak
+Zgoda na udostępnianie kontaktu klienta/partnera|Tak|Zgoda na udostępnianie danych kontaktowych klienta i danych kontaktowych pracowników firmy, którzy pracują nad ofertą. **Transakcje nie będą tworzone ani aktualizowane, jeśli dla tej kolumny wybierzesz pozycję Nie.** |Tak
 Numer CLA|Zależy|Numer CLA nie jest wymagany podczas tworzenia lub aktualizowania transakcji IOT. Staje się to wymagane po przechodzeniu do etapu wygrania projektu.
-Kategoria urządzenia|Nie|Lista wszystkich kategorii urządzeń IoT. Wybierz kategorię z poniższych opcji <br>Urządzenie do gier dla konsumentów <br> Bankomaty <br> Systemy transportowe & transportowych w przemyśle samochodowym <br> Azure Sphere Tablica<br> Azure Sphere, składnik <br> Azure Sphere Guardian<br> Azure Sphere modułu <br> Tworzenie automatyzacji<br> Casino Gaming Device <br> Urządzenia komunikacyjne<br> Consumer Internet Device <br> Consumer Wearable<br> Digital Picture Frame <br> Znak cyfrowy <br> Brama <br> HHT/Mobile<br> Urządzenie automatyzacji przemysłowej<br> Tablet branżowy (bez pos) <br> Kiosk<br> Media Player<br> Urządzenie multimedialne <br> Mobilny numer POS <br> Urządzenie nawigacyjne<br> Projektor sieciowy<br> Inne<br> Inne urządzenie bankowe<br> Inne urządzenie elektroniczne konsumenta<br> Inne urządzenie<br> Inne Enterprise urządzenia<br>  Inny czujnik/węzeł <br> Urządzenie w punkcie sprzedaży<br> Urządzenie drukowania <br> Zabezpieczenia/nadzór <br>  Serwer<br> Set-Top Box<br> Smart TV <br> Urządzenie testowe i pomiarowe<br> Urządzenie klienckie zuzenkim <br/>
+Kategoria urządzenia|Nie|Lista wszystkich kategorii urządzeń IoT. Wybierz kategorię z poniższych opcji <br>Urządzenie do gier dla konsumentów <br> Bankomaty <br> Systemy transportowe & transportowych w przemyśle samochodowym <br> Azure Sphere tablicy<br> Azure Sphere, składnik <br> Azure Sphere Guardian<br> Azure Sphere modułu <br> Automatyzacja budowania<br> Casino Gaming Device <br> Urządzenia komunikacyjne<br> Consumer Internet Device <br> Consumer Wearable<br> Digital Picture Frame <br> Znak cyfrowy <br> Brama <br> HHT/Mobile<br> Industrial Automation Device<br> Tablet branżowy (bez pos) <br> Kiosk<br> Media Player<br> Urządzenie multimedialne <br> Mobilny pos <br> Urządzenie nawigacyjne<br> Projektor sieciowy<br> Inne<br> Inne urządzenie bankowe<br> Inne urządzenie elektroniczne konsumenta<br> Inne urządzenie<br> Inne Enterprise urządzenia<br>  Inny czujnik/węzeł <br> Urządzenie w punkcie sprzedaży<br> Urządzenie drukowania <br> Zabezpieczenia/nadzór <br>  Serwer<br> Set-Top Box<br> Smart TV <br> Urządzenie testowe i pomiarowe<br> Urządzenie klienckie zuchemne <br/>
 Typ krzemu|Nie|Wprowadź informacje o modelu mikroukładu, wybierając opcję z poniższej listy <br> AMD –A10 <br> AMD – A4 <br> AMD – A6 <br> AMD – A8 <br> AMD – E2 <br> AMD — FX 7500 <br> AMD — FX 7600P <br> AMD — FX 9370 <br> AMD — FX 9590 <br> AMD — seria G <br> AMD — inne <br> AMD — seria R <br> AMD — pozostałe modele FX <br> Intel — Atom <br> Intel — Celeron — N1900 <br> Intel — Celeron — N2807 <br> Intel — Celeron — N2930 <br> Intel — Celeron — N3060 <br> Intel — Celeron — N3160 <br> Intel — Core i3 <br> Intel — Core i5 <br> Intel — Core i7 <br> Intel — Core M <br> Intel — inne <br> Intel — Pentium <br> Intel — reszta celeronu <br> Intel — XEON <br> MediaTek MT3620 <br> NXP 8ULP-CS <br> Inne <br/>
 Certyfikowane urządzenie platformy Azure|Nie|Ma to na celu wskazanie, czy certyfikat zgodności platformy Azure został osiągnięty dla urządzenia
 Dołączanie usług|Nie|Ma to na celu wskazanie, czy usługi platformy Azure mają być powiązane z rozwiązaniem IoT podczas wdrażania
-Identyfikator MICROSOFT MSX|Nie|Identyfikator transakcji w systemie Microsoft MSX, dostępny tylko w przypadku możliwości współpracy sprzedaży
+Microsoft MSX ID|Nie|Identyfikator transakcji w systemie Microsoft MSX, dostępny tylko w przypadku możliwości współpracy sprzedaży
 Migrowany identyfikator transakcji PSC|Nie|Identyfikator transakcji PSC, dostępny tylko dla transakcji migrowanych z psc na komputer
 Identyfikator MPN|Nie|Identyfikator MPN organizacji, dla której są tworzone możliwości współpracy sprzedaży
 Rozwiązanie 1|Tak|Identyfikator rozwiązania (wymagane), waluta (opcjonalnie), w której wprowadzono wartość transakcji. Możesz znaleźć kody [walut,](https://en.wikipedia.org/wiki/ISO_4217)cenę sku (opcjonalnie) i ilość (opcjonalnie)  |SOL-1234-PQRS, USD, 10, 100

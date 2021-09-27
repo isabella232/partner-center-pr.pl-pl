@@ -1,6 +1,6 @@
 ---
 title: Praca z dostawcami pośrednimi w programie CSP
-description: Dowiedz się, jak odsprzedawcy pośredni mogą współpracować z dostawcami pośrednimi (lub dystrybutorami) firmy Microsoft w celu uzyskania pomocy dotyczącej obsługi klienta i rozliczeń.
+description: Dowiedz się, w jaki sposób odsprzedawcy pośredni mogą współpracować z dostawcami pośrednimi firmy Microsoft (lub dystrybutorami), aby uzyskać pomoc techniczną i rozliczenia dla klientów.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
@@ -8,13 +8,13 @@ ms.custom: contperf-fy21q2
 ms.localizationpriority: high
 author: vinayks
 ms.author: vinayks
-ms.date: 08/13/2021
-ms.openlocfilehash: fefafae2f1dd81e314a4d37a2170fe527355f75e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.date: 09/27/2021
+ms.openlocfilehash: ed1fa0ffda69264353efc4283f3c4c07999c3294
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958461"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073763"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Dowiedz się, jak nawiązyć współpracę z dostawcami pośrednimi w Dostawca rozwiązań w chmurze programie
 
@@ -22,24 +22,24 @@ ms.locfileid: "123958461"
 
 - Administrator globalny
 
-Szybko rosnące zapotrzebowanie na rozwiązania i usługi oparte na chmurze oferuje wielu partnerom firmy Microsoft bez względu na rozmiary tworzenie dochodowych firm rozwiązań w chmurze. Partnerzy, którzy są gotowi do wejścia na rynek, ale nie chcą zarządzać wieloma dostawcami lub którzy mogą nie mieć gotowej infrastruktury do zarządzania relacjami z klientami, mogą zarejestrować się w programie Dostawca rozwiązań w chmurze (CSP) firmy Microsoft jako odsprzedawcy pośredni.
+Szybko rosnące zapotrzebowanie na rozwiązania i usługi oparte na chmurze zapewnia wielu partnerom firmy Microsoft wszelkiej wielkości możliwości tworzenia dochodowych firm z rozwiązaniami w chmurze. Partnerzy, którzy są gotowi do wejścia na rynek, ale nie chcą zarządzać wieloma dostawcami lub którzy mogą nie mieć gotowej infrastruktury do zarządzania relacjami z klientami, mogą zarejestrować się w programie firmy Microsoft Dostawca rozwiązań w chmurze (CSP) jako odsprzedawcy pośredni.
 
-Jako odsprzedawca pośredni w programie CSP, pracujesz z dostawcami pośrednimi (nazywanymi również dystrybutorami), którzy mają bezpośrednią relację z firmą Microsoft i mogą zapewnić Pomoc techniczną dla klientów oraz rozliczenia. Praca z dostawcami pośrednimi oznacza, że nie trzeba rozpoczynać własnych. Zamiast tego możesz współpracować z doświadczonym dostawcą technologii, aby zapewnić sukces. W modelu dostawca-odsprzedawca (dwuwarstwowy) dostawca kupuje rozwiązania i usługi w chmurze od firmy Microsoft. Następnie odsprzedaj je klientom.
+Jako odsprzedawca pośredni w programie CSP, pracujesz z dostawcami pośrednimi (nazywanymi również dystrybutorami), którzy mają bezpośrednią relację z firmą Microsoft i mogą zapewnić pomoc techniczną dla klientów oraz rozliczenia. Praca z dostawcami pośrednimi oznacza, że nie trzeba rozpoczynać pracy samodzielnie. Zamiast tego możesz współpracować z doświadczonym dostawcą technologii, aby zapewnić sukces. W modelu dostawca-odsprzedawca (dwuwarstwowy) dostawca kupuje rozwiązania i usługi w chmurze od firmy Microsoft. Następnie odsprzedaj je klientom.
 
-Różni dostawcy pośredni oferują różne usługi i pomoc techniczną. Oceń dostawców w Twoim obszarze, aby określić, którzy z nich najlepiej spełniają Twoje potrzeby. Ogólnie rzecz biorąc, większość dostawców:
+Różni dostawcy pośredni oferują różne usługi i pomoc techniczną. Oceń dostawców w Twoim obszarze, aby określić, którzy najlepiej spełniają Twoje potrzeby. Ogólnie rzecz biorąc, większość dostawców:
 
-- Zapewnianie szkoleń technicznych i pomocy
+- Zapewnianie szkolenia technicznego i pomocy
 - Pomoc w reklamie produktów i usług
-- Pomoc w ujednach i warunkach kredytowych
+- Pomoc w ujednach w ujednach i warunkach kredytowych
 
 Jeśli nie pracujesz jeszcze z dostawcą (nazywanym również dystrybutorem), możesz wyszukać go na liście oficjalnych dostawców [firmy Microsoft.](https://partnercenter.microsoft.com/partner/find-a-provider)
 
-Aby uzyskać więcej informacji o tym, co jest wymagane do [](https://partner.microsoft.com/cloud-solution-provider/whats-required) sprzedaży w programie CSP jako odsprzedawca pośredni, zobacz Wprowadzenie jako odsprzedawca pośredni w Microsoft Partner Network [internetowej](https://partner.microsoft.com/).
+Aby uzyskać więcej informacji o tym, co jest wymagane do [](https://partner.microsoft.com/cloud-solution-provider/whats-required) sprzedaży w programie CSP jako odsprzedawca pośredni, zobacz Rozpoczynanie pracy jako odsprzedawca pośredni w Microsoft Partner Network [internetowej](https://partner.microsoft.com/).
 
 ## <a name="enroll-as-an-indirect-reseller-in-the-cloud-solution-provider-program"></a>Rejestrowanie się jako odsprzedawca pośredni w programie Dostawca rozwiązań w chmurze
 
 > [!NOTE]  
-> Jeśli jesteś już zarejestrowany w programie CSP, może być konieczne podanie tylko informacji kontaktowych działu pomocy technicznej w celu utworzenia konta odsprzedawcy na Partner Center.
+> Jeśli jesteś już zarejestrowanym w programie CSP, może być konieczne podanie tylko informacji kontaktowych działu pomocy technicznej w celu utworzenia konta odsprzedawcy w Partner Center.
 
 ### <a name="before-you-begin"></a>Zanim rozpoczniesz
 
@@ -49,9 +49,9 @@ Od października 2020 r. wszyscy partnerzy firmy Microsoft nowi w programie CSP 
 
    Musisz podać nazwę użytkownika i hasło, których używasz do logowania się do Office 365, Microsoft Azure lub Microsoft Dynamics CRM. Jeśli nie masz konta służbowego, możesz je utworzyć podczas procesu rejestracji. Jeśli nie wiesz, czy masz już konto służbowe, zobacz Konta służbowe i Partner Center [.](azure-active-directory-tenants-and-partner-center.md)
 
-- **Nazwa użytkownika i hasło, których używasz do logowania się do Partner Membership Center witryny**
+- **Nazwa użytkownika i hasło, których używasz do logowania się do witryny Partner Membership Center internetowej**
 
-   Używamy tych informacji do połączenia firmowego identyfikatora Microsoft Partner Network (MPN ID) z nowym kontem Partner Center klienta. Następnie możesz zarządzać korzyściami i danymi członkostwa w Partner Center.
+   Używamy tych informacji do połączenia firmowego identyfikatora Microsoft Partner Network (MPN ID) z nowym Partner Center kontem. Następnie możesz zarządzać korzyściami i danymi członkostwa w Partner Center.
 
 - **Prawna nazwa firmy, adres, podstawowy kontakt i szczegóły pomocy technicznej Twojej firmy**
 
@@ -61,34 +61,32 @@ Od października 2020 r. wszyscy partnerzy firmy Microsoft nowi w programie CSP 
 
 ### <a name="get-started"></a>Rozpoczęcie pracy
 
-1. Aby rozpocznieć proces rejestracji, przejdź do strony [**powitaowej, aby**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) się zarejestrować.
+1. Aby rozpocznieć proces rejestracji, przejdź do strony [**powitaowej, aby**](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) się zarejestrować.
 
 2. Przejrzyj stronę **Powitanie,** aby upewnić się, że masz informacje potrzebne do zarejestrowania, a następnie wybierz pozycję **Dalej.**
 
-3. Zaloguj się przy użyciu konta służbowego — nazwy użytkownika i hasła, których używasz do logowania się jako administrator globalny na Office 365, Microsoft Azure lub Microsoft Dynamics CRM. Jeśli nie masz konta służbowego, wybierz **pozycję** Utwórz je, aby skonfigurować je teraz. Po utworzeniu konta służbowego zaloguj się przy użyciu poświadczeń administratora globalnego dla nowego konta.
+3. Zaloguj się przy użyciu nazwy użytkownika i hasła, których używasz do logowania się jako administrator globalny Office 365, Microsoft Azure lub Microsoft Dynamics CRM. Jeśli nie masz konta służbowego, wybierz **pozycję** Utwórz je, aby skonfigurować je teraz. Po utworzeniu konta służbowego zaloguj się przy użyciu poświadczeń administratora globalnego dla nowego konta.
 
 4. Skojarz swój identyfikator MPN z kontem CSP. Twoje konto CSP i skojarzony identyfikator MPN muszą znajdować się w tym samym kraju, a Twój identyfikator MPN musi znajdować się w Partner Center.
 
-    1. Zaloguj się do [pulpitu Partner Center przy](https://partner.microsoft.com/dashboard/) użyciu poświadczeń konta MPN. (Poświadczenia MPN mogą różnić się od poświadczeń CSP).
+    1. Zaloguj się do [Partner Center nawigacyjnego przy](https://partner.microsoft.com/dashboard/) użyciu poświadczeń konta MPN. (Twoje poświadczenia MPN mogą różnić się od poświadczeń CSP).
 
-    2. Wybierz **Ustawienia**, **Konto Ustawienia,** **Profil organizacji**, a następnie **pozycję Identyfikatory.**
+    2. Wybierz ikonę Ustawienia koła zębatego, pozycję **Konto Ustawienia**, następnie pozycję **Profil organizacji,** a następnie pozycję **Identyfikatory.**
 
-    3. Znajdź identyfikator MPN z **lokalizacją typu,** która odpowiada krajowi tego konta CSP. Jeśli nie możesz go znaleźć, możesz dodać nową lokalizację, co spowoduje utworzenie nowego identyfikatora MPN. Aby uzyskać więcej informacji, zobacz [Zarządzanie lokalizacjami](manage-locations.md). Na razie możesz odroczyć ten krok. Jednak nie będzie można podpisać umowy Microsoft Partner Agreement(MPA) ani transakcji w programie CSP, dopóki nie skojarzysz identyfikatora MPN z kontem CSP.
+    3. Znajdź identyfikator MPN z **lokalizacją typu,** która odpowiada kraju tego konta CSP. Jeśli nie możesz go znaleźć, możesz dodać nową lokalizację, która utworzy nowy identyfikator MPN. Aby uzyskać więcej informacji, zobacz [Zarządzanie lokalizacjami](manage-locations.md). Na razie możesz odroczyć ten krok. Nie będzie można jednak podpisać umowy Microsoft Partner Agreement (MPA) ani transakcji w programie CSP, dopóki nie skojarzysz identyfikatora MPN z kontem CSP.
 
-    Jeśli nie masz zarejestrowanego programu MPN, zarejestruj się [dzisiaj,](mpn-overview.md) a następnie kontynuuj rejestrację w programie CSP.
+5. Podaj lub zaktualizuj profil biznesowy firmy, podstawowe informacje kontaktowe i informacje dotyczące obsługi klienta.
 
-5. Podaj lub zaktualizuj profil biznesowy firmy, podstawowe informacje kontaktowe i informacje o pomocy technicznej klienta.
+    Możesz sprawdzić profil firmy lub wprowadzić informacje firmowe ręcznie. Jeśli Twoja firma jest zarejestrowana w firmie Dun & Bradstreet, użyj identyfikatora DUNS ID, aby znaleźć informacje o firmie. Jeśli chcesz podać szczegóły swojej firmy samodzielnie, wybierz pozycję **Wprowadź ręcznie.**
 
-    Możesz sprawdzić profil firmy lub ręcznie wprowadzić informacje o firmie. Jeśli Twoja firma jest zarejestrowana w firmie Dun & Bradstreet, użyj identyfikatora DUNS, aby sprawdzić informacje o firmie. Jeśli chcesz podać szczegóły swojej firmy samodzielnie, wybierz pozycję **Wprowadź ręcznie.**
+    W przypadku niektórych krajów po ręcznym wprowadzeniu adresu zweryfikujemy Twój adres. Jeśli ten, który wprowadzasz, różni się od zweryfikowanego adresu, zalecamy użycie zweryfikowanego adresu. Gwarantuje to, że elementy adresu są standaryzowane zgodnie z definicją w urzędzie pocztowym kraju, poprawnie sformatowane i wysłane.
 
-    W przypadku niektórych krajów po ręcznym wprowadzeniu adresu zweryfikujemy Twój adres. Jeśli ten, który wprowadzasz, różni się od zweryfikowanego adresu, zalecamy użycie zweryfikowanego adresu. Gwarantuje to, że elementy adresu są standaryzowane zgodnie z definicją w urzędzie pocztowym kraju, poprawnie sformatowane i wysyłane.
-
-    Główną osobą kontaktową jest osoba w Twojej firmie, z którą możemy się skontaktować w sprawie Twojej aplikacji. Może to być Ty lub inna osoba w Firmie. Uwaga: Nie akceptujemy adresów e-mail z internetowych usług poczty e-mail, takich jak Gmail, Yahoo! Mail, iCloud Mail, AOL Mail lub Outlook Mail.
+    Główną osobą kontaktową jest osoba w Firmie, z którą możemy się skontaktować w sprawie Twojej aplikacji. Może to być Ty lub inna osoba w Twojej firmie. Uwaga: Nie akceptujemy adresów e-mail z internetowych usług poczty e-mail, takich jak Gmail, Yahoo! Mail, iCloud Mail, AOL Mail lub Outlook Mail.
 
    > [!IMPORTANT]  
-   > Aby zapewnić bezpieczeństwo i prywatność firmy, napiszemy wiadomość e-mail do głównej osoby kontaktowej, aby sprawdzić, czy (1) użytkownik zasiął konto usługi Partner Center i (2) czy ten adres e-mail należy do Twojej firmy. Gdy główna osoba kontaktowa zweryfikuje swój adres e-mail, będziemy kontynuować przeglądanie podanych informacji. Będziemy wysyłać pocztą e-mail aktualizacje stanu rejestracji do kontaktu podstawowego.
+   > Aby zapewnić bezpieczeństwo i prywatność firmy, napiszemy wiadomość e-mail do głównej osoby kontaktowej, aby sprawdzić, czy (1) zapisano konto usługi Partner Center i (2) czy ten adres e-mail należy do Twojej firmy. Gdy główna osoba kontaktowa zweryfikuje swój adres e-mail, będziemy kontynuować przeglądanie podanych informacji. Będziemy wysyłać pocztą e-mail aktualizacje stanu rejestracji do głównej osoby kontaktowej.
 
-6. Po zakończeniu weryfikacji rejestracji przez firmę Microsoft, która potrwa od 3 do 5 dni roboczych, Microsoft Partner Agreement na Partner Center [nawigacyjnym](https://partner.microsoft.com/pcv/dashboard/overview) przy użyciu poświadczeń administratora globalnego. Aby wyświetlić i pobrać **Microsoft Partner Agreement** przed jego podpisaniem, kliknij Microsoft Partner Agreement, jak pokazano poniżej.  Jeśli Twoje konto zostanie zablokowane podczas weryfikacji po 5 dniach roboczych, przeczytaj [proces weryfikacji konta](verification-responses.md).
+6. Po zakończeniu weryfikacji rejestracji przez firmę Microsoft, która trwa od 3 do 5 dni roboczych, podpisz Microsoft Partner Agreement na Partner Center [nawigacyjnym](https://partner.microsoft.com/pcv/dashboard/overview) przy użyciu poświadczeń administratora globalnego. Aby wyświetlić i pobrać **Microsoft Partner Agreement** przed jego podpisaniem, kliknij link Microsoft Partner Agreement jak pokazano poniżej.  Jeśli Twoje konto utknęło w weryfikacji po 5 dniach roboczych, przeczytaj [Proces weryfikacji konta](verification-responses.md).
 
    :::image type="content" source="images/agreement-three.png" alt-text="Lokalizacja nowej umowy MPA.":::
 
@@ -96,17 +94,17 @@ Od października 2020 r. wszyscy partnerzy firmy Microsoft nowi w programie CSP 
 
    :::image type="content" source="images/microsoft-partner-agreement-green.png" alt-text="Zielony baner zaakceptowany.":::
 
-8. Gdy konto Partner Center jest gotowe do użycia, sprawdź, czy dodano Cię do grupy agentów administratora. Aby zakończyć konfigurowanie konta, w tym dodawać innych użytkowników, musisz mieć uprawnienia agenta administratora. Wykonaj następujące kroki, aby wyświetlić lub zaktualizować uprawnienia:
+8. Gdy konto Partner Center jest gotowe do użycia, upewnij się, że dodano Cię do grupy agentów administratorów. Aby zakończyć konfigurowanie konta, w tym dodawanie innych użytkowników, musisz mieć uprawnienia agenta administratora. Wykonaj następujące kroki, aby wyświetlić lub zaktualizować uprawnienia:
 
-   1. Na pulpicie Partner Center nawigacyjnym wybierz **ikonę Ustawienia, a** następnie w obszarze Ustawienia **konta** wybierz pozycję **Zarządzanie użytkownikami.**
+   1. Na pulpicie Partner Center nawigacyjnym wybierz ikonę koła Ustawienia, a następnie pozycję **Ustawienia konta,** a następnie pozycję **Zarządzanie użytkownikami.**
 
    2. Wybierz swoją nazwę z listy użytkowników. Następnie wybierz **pozycję Agent administracyjny,** jeśli nie został jeszcze wybrany. Wybierz pozycję **Aktualizuj**.
 
 ## <a name="connect-with-an-indirect-provider"></a>Nawiąż kontakt z dostawcą pośrednim
 
-Praca z dostawcą pośrednim umożliwia oferowanie klientom szerszego zakresu usług i rozwiązań w chmurze firmy Microsoft. Dostawcy pośredni mają systemy i infrastrukturę, które oferują niezawodny poziom rozliczeń i pomocy technicznej. Poleganie na nich w ten sposób umożliwia skoncentrowanie się na rozwiązaniach technologicznych i zaangażowania klientów.
+Praca z dostawcą pośrednim umożliwia oferowanie klientom szerszego zakresu usług i rozwiązań w chmurze firmy Microsoft. Dostawcy pośredni mają systemy i infrastrukturę, które oferują niezawodny poziom rozliczeń i pomocy technicznej. Poleganie na nich w ten sposób pozwala skupić się na rozwiązaniach technologicznych i zaangażowania klientów.
 
-Jeśli nie pracujesz jeszcze z dostawcą (nazywanym również dystrybutorem), możesz wyszukać go na liście oficjalnych dostawców [firmy Microsoft.](https://partnercenter.microsoft.com/partner/find-a-provider) Jeśli znajdziesz dostawcę, z którym chcesz być partnerem, skontaktuj się z nim bezpośrednio, aby omówić jego programy odsprzedawców, poziom pomocy technicznej i warunki. Jeśli zarówno Ty, jak i dostawca chcecie ze sobą współpracować, należy połączyć konta na Partner Center.
+Jeśli nie pracujesz jeszcze z dostawcą (nazywanym również dystrybutorem), możesz wyszukać go na liście oficjalnych dostawców [firmy Microsoft.](https://partnercenter.microsoft.com/partner/find-a-provider) Po odnalezieniu dostawcy, z którym chcesz być partnerem, skontaktuj się z nim bezpośrednio, aby omówić programy odsprzedawcy, poziom pomocy technicznej i warunki. Jeśli zarówno Ty, jak i dostawca chcecie ze sobą współpracować, należy połączyć konta w Partner Center.
 
 Jeśli dostawca pośredni chce połączyć się z Toem na Partner Center, rozpocznie następujący przepływ pracy:
 
@@ -114,14 +112,14 @@ Jeśli dostawca pośredni chce połączyć się z Toem na Partner Center, rozpoc
 
 2. Aby zaakceptować zaproszenie, kliknij link w wiadomości e-mail dostawcy. Może być konieczne zalogowanie się do Partner Center ponownie.
 
-3. Aby potwierdzić partnerstwo z dostawcą, zaznacz pole wyboru, a następnie wybierz pozycję **Autoryzuj dostawcę pośredniego.** Dostawca jest teraz wymieniony na stronie **Dostawców** pośrednich, a firma jest teraz wymieniona na stronie **odsprzedawców pośrednich** dostawcy.
+3. Aby potwierdzić partnerstwo z dostawcą, zaznacz pole wyboru, a następnie wybierz pozycję **Autoryzuj dostawcę pośredniego.** Dostawca jest teraz wymieniony na stronie **Dostawców pośrednich,** a firma jest teraz wymieniona na stronie odsprzedawców **pośrednich** dostawcy.
 
    > [!NOTE]  
-   > Gdy nawiązujesz partnerstwo z dostawcą pośrednim, autoryzujesz go do przesyłania zamówień i dodawania subskrypcji w imieniu klientów, a ty udzielasz im dostępu administratora do firmowego konta służbowego. Po nawiązyniu współpracy z dostawcą możesz usunąć dostęp administratora dostawcy do twojego konta służbowego w Office 365 portal.
+   > Po nawiążeniu partnerstwa z dostawcą pośrednim autoryzuje się ich do przesyłania zamówień i dodawania subskrypcji w imieniu klientów, a ty udzielasz im dostępu administratora do firmowego konta służbowego. Po nawiązyniu partnerstwa z dostawcą możesz usunąć dostęp administratora dostawcy do twojego konta służbowego w Office 365 portal.
 
-4. Wybierz pozycję Dostawcy **pośredni** z **menu Partner Center,** aby wyświetlić listę dostawców, z których masz partnerstwo.
+4. Wybierz **pozycję** Dostawcy pośredni z menu **Partner Center,** aby wyświetlić listę dostawców, z których masz partnerstwo.
 
-5. Wybierz **pozycję Wyświetl** klientów, aby wyświetlić listę klientów, których ty i udział dostawcy jesteście.
+5. Wybierz **pozycję Wyświetl** klientów, aby wyświetlić listę klientów, których ty i dostawcę udostępniasz.
 
 6. Wybierz **pozycję Zaproś nowych klientów,** aby poprosić nowego klienta o autoryzowanie relacji odsprzedawcy zarówno z To ty, jak i twoim dostawcą pośrednim w tym samym czasie. Upewnij się, że masz adres e-mail klienta, aby można było wysłać do nich wiadomość e-mail z zaproszeniem.  
 

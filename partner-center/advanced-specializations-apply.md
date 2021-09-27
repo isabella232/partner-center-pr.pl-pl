@@ -1,7 +1,7 @@
 ---
 title: Stosowanie w zaawansowanych specjalizacjach
 ms.topic: how-to
-ms.date: 09/16/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
 description: Wzmocnienie profilu biznesowego w katalogu partnerów firmy Microsoft. Dowiedz się, jak używać Partner Center do stosowania zaawansowanych specjalizacji i zdobywania ich.
@@ -9,20 +9,20 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5667fad7bde179cd728abb911b65621bcc9505a7
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.openlocfilehash: a558ff40727d13045a74343fa9146443b88bc69c
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322105"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070571"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Użyj Partner Center, aby zastosować zaawansowane specjalizacje i sprawdzić ich stan
 
 **Odpowiednie role:** Administrator globalny | Administrator konta
 
-W tym artykule opisano sposób użycia pulpitu [](advanced-specializations.md)nawigacyjnego Partner Center do zastosowania zaawansowanej specjalizacji, sprawdzenia postępu oraz wykonania niezbędnych kroków i weryfikacji. Zobaczysz również przykłady użycia narzędzia Partner Center w celu uzyskania niektórych zaawansowanych specjalizacji, które wymagają inspekcji lub odwołań klientów.
+W tym artykule opisano, jak używać pulpitu [](advanced-specializations.md)nawigacyjnego Partner Center, aby zastosować zaawansowaną specjalizację, sprawdzić postęp oraz wykonać niezbędne kroki i weryfikacje. Zobaczysz również przykłady użycia narzędzia Partner Center w celu uzyskania niektórych zaawansowanych specjalizacji, które wymagają inspekcji lub odwołań klientów.
 
-Aby dowiedzieć się więcej o zaletach zaawansowanych specjalizacji i ich konkretnych wymaganiach, zobacz [Microsoft Partner Network specjalizacji.](https://partner.microsoft.com/membership/advanced-specialization)
+Aby dowiedzieć się więcej o zaletach zaawansowanych specjalizacji i ich specyficznych wymaganiach, zobacz [Microsoft Partner Network specjalizacji.](https://partner.microsoft.com/membership/advanced-specialization)
 
 ## <a name="use-partner-center-to-apply-for-advanced-specializations-or-check-their-status"></a>Użyj Partner Center, aby zastosować zaawansowane specjalizacje lub sprawdzić ich stan
 
@@ -32,7 +32,26 @@ Większość procesu jest dostępna z poziomu pulpitu Partner Center nawigacyjne
 
 Aby uzyskać dostęp do tego obszaru, musisz mieć  przyznaną rolę administratora konta **MPN** lub administratora globalnego dla konta partnera Microsoft w organizacji.
 
-### <a name="follow-these-steps-to-access-this-area"></a>Wykonaj następujące kroki, aby uzyskać dostęp do tego obszaru:
+### <a name="to-access-this-area"></a>Aby uzyskać dostęp do tego obszaru
+
+> [!NOTE]
+> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz Getting around Partner Center (Poruszanie [się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
+
+1. Zaloguj się do [pulpitu Partner Center nawigacyjnego i](https://partner.microsoft.com/dashboard/home) wybierz **kafelek** Członkostwo.
+
+2. Wybierz **pozycję Zaawansowane specjalizacje,** a następnie wybierz obszar, który Cię interesuje: Azure, Nowoczesna praca, Zabezpieczenia lub Aplikacje biznesowe.
+
+3. Aby wyświetlić szczegóły, wybierz nazwę zaawansowanej specjalizacji. Zobaczysz konkretne wymagania i kroki, bieżący stan oraz linki do dalszych kroków lub zasobów.
+
+   Możesz wrócić do tego obszaru Partner Center, aby zobaczyć swój bieżący stan w kierunku uzyskania dowolnej zaawansowanej specjalizacji.
+
+4. Po zakończeniu wszystkich wymagań dotyczących zaawansowanej specjalizacji sprawdź ponownie ten obszar Partner Center, aby  sprawdzić, czy Twój stan został zmieniony na Aktywny dla konkretnej specjalizacji zaawansowanej.
+
+   Stan aktywny automatycznie włącza zaawansowany tag specjalizacji w **profilu biznesowym.** Ten profil będzie wtedy widoczny dla wszystkich klientów próbujących [znaleźć dostawcę rozwiązania.](https://www.microsoft.com/solution-providers/home)
+
+#### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home) Centrum partnerskiego.
 
@@ -46,7 +65,9 @@ Aby uzyskać dostęp do tego obszaru, musisz mieć  przyznaną rolę administrat
 
    Stan aktywny automatycznie włącza zaawansowany tag specjalizacji w **profilu biznesowym.** Ten profil będzie wtedy widoczny dla wszystkich klientów próbujących [znaleźć dostawcę rozwiązania.](https://www.microsoft.com/solution-providers/home)
 
-## <a name="use-partner-center-to-schedule-an-audit-or-include-customer-references-for-advanced-specializations"></a>Użyj Partner Center, aby zaplanować inspekcję lub dołączyć odwołania klientów do zaawansowanych specjalizacji
+* * *
+
+## <a name="use-partner-center-to-schedule-an-audit-or-include-customer-references-for-advanced-specializations"></a>Użyj Partner Center, aby zaplanować inspekcję lub dołączyć odwołania klientów dla zaawansowanych specjalizacji
 
 Ogólnie rzecz biorąc, każda zaawansowana specjalizacja wymaga osiągnięcia dopasowanej kompetencji gold oraz innych, niestandardowych wymagań wstępnych, które są unikatowe dla tej zaawansowanej specjalizacji. Niektóre zaawansowane specjalizacje mogą również wymagać:
 
@@ -66,7 +87,7 @@ Zaawansowane specjalizacje, które wymagają inspekcji z audytorem innej firmy, 
 - Migracja systemu Windows Server i programu SQL Server na platformę Microsoft Azure
 - AI i Machine Learning w Microsoft Azure
 - Infrastruktura chmury hybrydowej z Microsoft Azure Stack HCI
-- Hybrydowe operacje i zarządzanie z usługą Microsoft Azure Arc
+- Operacje hybrydowe i zarządzanie nimi za pomocą Microsoft Azure Arc
 - Microsoft Azure Rozwiązanie VMware
 - DevOps z GitHub na Microsoft Azure
 - Usługi sieciowe w Microsoft Azure
@@ -96,9 +117,11 @@ Oprócz własnych wymagań wstępnych, niektóre zaawansowane specjalizacje wyma
 
 Następnie wykonaj następujące kroki, aby zaplanować inspekcję w Partner Center:
 
-1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home) Centrum partnerskiego.
+#### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
-2. Wybierz **sekcję MPN** w menu Partner Center, a następnie pozycję **Adv. Specializations (Specjalizacje).** Menu zostanie rozwinięte, aby wyświetlić wszystkie dostępne zaawansowane specjalizacje.
+1. Zaloguj się do [pulpitu Partner Center nawigacyjnego i](https://partner.microsoft.com/dashboard/home) wybierz **kafelek** Członkostwo.
+
+2. Wybierz **pozycję Zaawansowane specjalizacje,** a następnie wybierz obszar, który Cię interesuje: Azure, Nowoczesna praca, Zabezpieczenia lub Aplikacje biznesowe.
 
 3. Wybierz nazwę zaawansowanej specjalizacji, która wymaga zaplanowania inspekcji. Załóżmy na przykład, że wybierasz opcję Modernizacja aplikacji **internetowych,** aby Microsoft Azure . Zostanie wyświetlona strona wymagań wstępnych dla tej zaawansowanej specjalizacji.
 
@@ -109,11 +132,40 @@ Następnie wykonaj następujące kroki, aby zaplanować inspekcję w Partner Cen
    - Dopóki nie spełnisz wszystkich wymagań wstępnych pokazanych na tej stronie, Twój stan będzie miał stan **Nie uruchomiliśmy.** Przycisk **Zaplanuj inspekcję** również pozostanie wyłączony. 
    - Gdy wszystkie wymagania wstępne zostaną spełnione wraz z inspekcją, stan zmieni się na **Aktywny.**
 
+#### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
+
+1. Zaloguj się do pulpitu [Partner Center i](https://partner.microsoft.com/dashboard/home) wybierz pozycję **MPN** z menu, a następnie pozycję **Adv. Specializations** (Specjalizacje), aby wyświetlić wszystkie dostępne zaawansowane specjalizacje.
+
+2. Wybierz nazwę zaawansowanej specjalizacji, która wymaga zaplanowania inspekcji. Załóżmy na przykład, że wybierasz opcję Modernizacja aplikacji **internetowych,** aby Microsoft Azure . Zostanie wyświetlona strona wymagań wstępnych dla tej zaawansowanej specjalizacji.
+
+   :::image type="content" source="images/advanced-specializations/as-1.png" alt-text="Przykładowa strona wymagań wstępnych z wymaganiami do zdobycia określonej zaawansowanej specjalizacji.":::
+
+3. Po spełnienia wszystkich wymagań wstępnych dla tej zaawansowanej specjalizacji będzie można wybrać przycisk Zaplanuj **inspekcję** na tej stronie.
+
+   - Dopóki nie spełnisz wszystkich wymagań wstępnych pokazanych na tej stronie, Twój stan będzie miał stan **Nie uruchomiliśmy.** Przycisk **Zaplanuj inspekcję** również pozostanie wyłączony. 
+   - Gdy wszystkie wymagania wstępne zostaną spełnione wraz z inspekcją, stan zmieni się na **Aktywny.**
+
+* * *
+
 ## <a name="provide-customer-references-in-partner-center"></a>Podaj odwołania do klientów w Partner Center
 
 Oprócz własnych wymagań wstępnych, niektóre zaawansowane specjalizacje również wymagają podania informacji *o klientach.* Zobacz wcześniejszą listę zaawansowanych specjalizacji, które wymagają odwołań klientów.
 
 Następnie wykonaj następujące kroki, aby udostępnić odwołania do klientów w Partner Center:
+
+#### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
+
+1. Zaloguj się do [pulpitu nawigacyjnego Partner Center i](https://partner.microsoft.com/dashboard/home) wybierz **kafelek** Członkostwo.
+
+2. Wybierz **pozycję Zaawansowane specjalizacje,** a następnie wybierz obszar, który Cię interesuje: Azure, Nowoczesna praca, Zabezpieczenia lub Aplikacje biznesowe.
+
+3. Wybierz nazwę zaawansowanej specjalizacji, która wymaga podania odwołań klientów. Na przykład w przypadku wybrania opcji **Spotkania i Sale konferencyjne dla Microsoft Teams**:
+
+   Zostanie wyświetlona strona wymagań wstępnych dla tej zaawansowanej specjalizacji. Oprócz kompetencji Gold, certyfikatów i wymagań w zakresie wydajności ta zaawansowana specjalizacja wymaga podania trzech odwołań do klientów, które pokazują możliwości wdrażania i zarządzania.
+
+4. Do momentu spełnienia wszystkich wymagań wstępnych pokazanych na tej stronie i podania odwołań klientów twój stan będzie nadal **miał stan Nie uruchomiliśmy.** Gdy wszystkie wymagania wstępne zostaną spełnione, stan zmieni się na **Aktywny.**
+
+#### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home) Centrum partnerskiego.
 
@@ -127,12 +179,14 @@ Następnie wykonaj następujące kroki, aby udostępnić odwołania do klientów
 
 4. Do momentu spełnienia wszystkich wymagań wstępnych pokazanych na tej stronie i podania odwołań klientów twój stan będzie nadal **miał stan Nie uruchomiliśmy.** Gdy wszystkie wymagania wstępne zostaną spełnione, stan zmieni się na **Aktywny.**
 
-## <a name="how-azure-consumption-revenue-acr-is-calculated-for-each-advanced-specialization"></a>Jak jest obliczany przychód z użycia platformy Azure (ACR) dla każdej zaawansowanej specjalizacji:
+* * *
+
+## <a name="how-azure-consumption-revenue-acr-is-calculated-for-each-advanced-specialization"></a>Jak jest obliczany przychód z użycia platformy Azure (ACR) dla każdej zaawansowanej specjalizacji
 
 - Uwzględnione skojarzenia między partnerami i [klientami:](https://support.microsoft.com/topic/link-a-partner-id-for-azure-performance-pal-or-dpor-a8eed43b-82a8-f017-3b1a-f9c8aa385d32) Skojarzenie cyfrowego partnera rekordów z klientem lub partner z rozliczeniami bezpośrednimi w programie CSP lub odsprzedawca pośredni w programie CSP dla skojarzenia klienta lub linku administratora partnera [z](/azure/cost-management-billing/manage/link-partner-id) klientem.
 - Funkcja ACR z subskrypcji z typami ofert Wersja próbna, Programy korzyści, Pomoc techniczna i Wewnętrzna nie jest wliczane do zaawansowanej specjalizacji.
 
-**Pola przychodu za zużycie platformy Azure**
+### <a name="azure-consumption-revenue-fields"></a>Pola przychodu za zużycie platformy Azure
 
 | Nazwa pola | Opis pola |
 |-------------|----------------------|
@@ -151,7 +205,7 @@ Następnie wykonaj następujące kroki, aby udostępnić odwołania do klientów
 - Migracja magazynu danych na platformę Microsoft Azure
     - Azure Synapse Analytics ACR: Poziom usługi 2 = Azure Synapse Analytics
 - Środowisko Kubernetes na platformie Microsoft Azure
-    - Azure Kubernetes Service (AKS) ACR: Service Influencer = AKS , AKS-Engine
+    - Azure Kubernetes Service (AKS) ACR: Service Influencer = AKS, AKS-Engine
     - Azure RedHat OpenShift ACR: Service Group 3 = ARO, Service Level 2 = All except "Unknown"
 - Microsoft Windows Virtual Desktop
     - Windows Virtual Desktop ACR: Service Influencer = NATIVE WVD
@@ -165,14 +219,14 @@ Następnie wykonaj następujące kroki, aby udostępnić odwołania do klientów
 
 - Analiza na Microsoft Azure
     - Azure Synapse Analytics ACR: Poziom usługi 2 = Azure Synapse Analytics
-    - Data Lake ACR: Service Group 3 = Azure Data Lake
+    - Data Lake ACR: Grupa usług 3 = Azure Data Lake
     - Databricks ACR: Service Group3 = Databricks
     - Azure Data Factory ACR: Service Level 2 = Azure Data Factory, Azure Data Factory v2
 - Infrastruktura chmury hybrydowej z Microsoft Azure Stack HCI
     - Azure Stack HCI ACR: Poziom usługi 2 = Azure Stack HCI
 - Microsoft Azure Rozwiązanie VMware
     - Azure VMware Solutions(AVS) ACR: Service Level 4 = Azure VMware Solution, Azure VMware Solution by CloudSimple, Azure VMware Solution by Virtustream, Specialized Compute Azure VMware Solution
-- Operacje hybrydowe i zarządzanie nimi za pomocą Microsoft Azure Arc 
+- Hybrydowe operacje i zarządzanie z usługą Microsoft Azure Arc 
     - Usługa ACR serwera z obsługą usługi Arc: poziom usługi 4 = Azure Policy
     - Usługa Kubernetes ACR z obsługą usługi Arc: poziom usługi 4 = Azure Arc
 - AI i Machine Learning w Microsoft Azure
@@ -186,16 +240,16 @@ Następnie wykonaj następujące kroki, aby udostępnić odwołania do klientów
         - Poziom usługi 2 = Cloud Services, Container Instances, Container Registry, Specialized Compute, Virtual Machines, Virtual Machines Licenses
     - SQL Database (DB) ACR: Grupa usług 3 = SQLDB
     - SQL Usługa ACR wystąpienia zarządzanego (MI): grupa usług 3 = wystąpienie zarządzane SQL DB MI
-    - SQL VM ACR: Grupa usług 3 = SQL w Usłudze IaaS, SQL na maszynie wirtualnej IaaS
+    - SQL USŁUGA ACR maszyny wirtualnej: grupa usług 3 = SQL w usłudze IaaS, SQL na maszynie wirtualnej IaaS
 - Migracja bazy Open-Source i Linux do Microsoft Azure
     - Linux Virtual Machines (VM)ACR:
         - Opcja 1.
             - ACR Adjustment Type= N/A, Service Level 2 = Virtual Machines, Compute OS= Linux, Compute OS Attribute = non-Windows, UNKNOWN , Windows
-            - Poziom usługi 4 = wszystkie z wyjątkiem serii Cloud Services MS, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host
+            - Poziom usług 4 = wszystkie z wyjątkiem serii Cloud Services MS, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host
         - Opcja 2. Wymagaj filtrów tylko na poziomie usługi 4, inne pola, takie jak atrybuty obliczeniowego systemu operacyjnego/obliczeniowego systemu operacyjnego, nie są wymagane
             - Poziom usługi 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux z wysokim poziomem wydajności, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server for HPC Priority, SUSE Linux Enterprise Server for HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
     - Azure Database (DB) for MariaDB ACR: Service Level 1 = Databases and Service Level 2 = Azure Database for MariaDB
-    - Azure DB for MySql ACR: poziom usługi 1 = bazy danych i poziom usługi 2 = Azure Database for MySQL i MySQL Database on Azure
+    - Azure DB for MySql ACR: Poziom usługi 1 = bazy danych i poziom usługi 2 = Azure Database for MySQL i MySQL Database on Azure
     - Azure DB for Postgre SQL ACR: Service Level 1 = Databases and Service Level 2 = PostgreSQL
     - Azure COSMOS DB ACR: poziom usługi 1 = bazy danych i poziom usługi 2 = CosmosDB
 - Ochrona przed zagrożeniami
@@ -204,7 +258,7 @@ Następnie wykonaj następujące kroki, aby udostępnić odwołania do klientów
     - Środowisko hybrydowe XDR i usługa ACR zabezpieczeń sieci: poziom usługi 4 = Azure Defender dla SQL, Azure Defender dla rejestrów kontenerów, Azure Defender dla Kubernetes, Azure Defender dla Storage, Application Gateway WAF v2, WAF Application Gateway, Azure Active Directory B2C, Azure Active Directory Domain Services, Azure Active Directory for External Identities, Azure Bastion, Azure DDOS Protection, Azure Firewall, Azure Firewall Manager, Azure Front Door Service, Azure Defender dla IoT, Azure Dedicated HSM, Key Vault, Network Watcher, Azure Defender for App Service, Azure Defender for servers, Sentinel
     
 - Rozwiązania SAP na platformie Microsoft Azure
-    - Usługa ACR obciążeń SAP: poziom usług 4 = seria Cloud Services MS, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host, Oprogramowanie SAP HANA na platformie Azure — duże wystąpienia,SAP Cloud Platform Alert Notification, SAP Cloud Platform Extension Factory — środowisko uruchomieniowe Kyma, SAP Cloud Platform Integration Suite — dodatkowe komunikaty,  SAP Cloud Platform Integration Suite — Standard Edition, SAP Cloud Platform Transport Management, usługi SAP Edge, SAP Embrace API Management,SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Bandwidth, SAP Embrace Business Application Studio, SAP Embrace Business Rules, SAP Embrace Cloud Integration, SAP Embrace Credential Store, SAP Embrace Custom Domain, SAP Embrace Data Intelligence, SAP Embrace Enterprise Messaging, SAP Embrace Extension Factory, bez serwera runtime, SAP Embrace Hana Cloud, SAP Embrace Identity Authentication, SAP Embrace Job Scheduler, SAP Embrace MACC, SAP Embrace Mobile Services,SAP Embrace Object Store Service, SAP Embrace Open Connectors, SAP Embrace Portal, SAP Embrace Process Visibility, SAP Embrace Web Analytics, SAP Embrace Workflow, SAP HANA Service, SAP Web IDE,  BareMetal Infrastructure, Virtual Machines MdSv2 Series, Virtual Machines MdSv2 Series Windows
+    - Usługa ACR obciążeń SAP: poziom usług 4 = seria Cloud Services MS, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host, Oprogramowanie SAP HANA na platformie Azure — duże wystąpienia,SAP Cloud Platform Alert Notification, SAP Cloud Platform Extension Factory — środowisko uruchomieniowe Kyma,SAP Cloud Platform Integration Suite — dodatkowe komunikaty,  SAP Cloud Platform Integration Suite — Standard Edition, SAP Cloud Platform Transport Management, usługi SAP Edge, SAP Embrace API Management, SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Bandwidth, SAP Embrace Business Application Studio, SAP Embrace Business Rules, SAP Embrace Cloud Integration, SAP Embrace Credential Store, SAP Embrace Custom Domain, SAP Embrace Data Intelligence, SAP Embrace Enterprise Messaging, SAP Embrace Extension Factory, bez serwera runtime, SAP Embrace Hana Cloud, SAP Embrace Identity Authentication, SAP Embrace Job Scheduler, SAP Embrace MACC, SAP Embrace Mobile Services,SAP Embrace Object Store Service, SAP Embrace Open Connectors, SAP Embrace Portal, SAP Embrace Process Visibility, SAP Embrace Web Analytics, SAP Embrace Workflow, SAP HANA Service, SAP Web IDE,  BareMetal Infrastructure, Virtual Machines MdSv2 Series, Virtual Machines MdSv2 Series Windows
 
 ## <a name="next-steps"></a>Następne kroki
 

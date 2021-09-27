@@ -1,7 +1,7 @@
 ---
 title: Kupowanie planu platformy Azure
 ms.topic: how-to
-ms.date: 07/21/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Korzystając z planu platformy Azure, dowiedz się, jak kupić pojedynczą lub wiele subskrypcji platformy Azure, rezerwacji platformy Azure, skonfigurować zasoby oraz wyświetlić lub dodać subskrypcje.
@@ -9,20 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1493d22c53915f3a4364981a77c249492b342595
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 7b32e1e2b45d7f263e04f04c4836d96aaaf63cdb
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958005"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071332"
 ---
 # <a name="purchase-the-azure-plan-for-customers-and-access-the-latest-azure-services"></a>Kupowanie planu platformy Azure dla klientów i uzyskiwanie dostępu do najnowszych usług platformy Azure
 
 **Dotyczy:** Partner Center 
 
-**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent sprzedaży
+**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent sprzedaży
 
-Po zakupie planu platformy Azure dla klientów w ramach usługi Umowa z Klientem Microsoft masz dostęp do pełnego katalogu najnowszych usług platformy Azure według stawek płatności zgodnie z użyciem. Dostawca rozwiązań w chmurze (CSP) będą teraz mogli uzyskać dostęp do dowolnej usługi platformy Azure, gdy stanie się ona ogólnie dostępna. Partner może mieć wiele subskrypcji platformy Azure w ramach planu platformy Azure. 
+Po zakupie planu platformy Azure dla klientów w ramach usługi Umowa z Klientem Microsoft masz dostęp do pełnego katalogu najnowszych usług platformy Azure po stawkach płatności zgodnie z użyciem. Dostawca rozwiązań w chmurze (CSP) będą teraz mogli uzyskać dostęp do dowolnej usługi platformy Azure, gdy stanie się ona ogólnie dostępna. Partner może mieć wiele subskrypcji platformy Azure w ramach planu platformy Azure. 
 
 ## <a name="countryregion-availability"></a>Dostępność kraju/regionu
 
@@ -30,9 +30,10 @@ Nowe środowisko handlowe w programie CSP dla platformy Azure jest obecnie dost�
 
 ## <a name="how-to-purchase-azure-plan"></a>Jak kupić plan platformy Azure
 
-Sposób zakupu planu platformy Azure jest podobny do zakupu dowolnej innej subskrypcji. Kluczowa różnica polega na tym, że przed rzeczywiście złoc zamówieniem należy potwierdzić, że klient podpisał umowę Umowa z Klientem Microsoft.
+Sposób zakupu planu platformy Azure jest podobny do zakupu dowolnej innej subskrypcji. Kluczowa różnica polega na tym, że przed rzeczywiście zamówieniem należy potwierdzić, że klient podpisał umowę Umowa z Klientem Microsoft.
 
-1. Wybierz **pozycję Segment komercyjna,** a następnie wpisz "Microsoft Azure".
+1. Wybierz **pozycję Segment komercyjne,** a następnie wpisz "Microsoft Azure".
+
 2. W **obszarze Plan platformy Azure** wybierz pozycję Dodaj do **koszyka.**
 
    :::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Zakupu.":::
@@ -41,11 +42,11 @@ Partner musi potwierdzić, że klient przejmuje i zaakceptował Umowa z Klientem
 
 Następnie potwierdź cyfrowo lub zaproś klienta do podpisania Umowa z Klientem Microsoft bezpośrednio z firmą Microsoft. 
 
-### <a name="to-invite-the-customer-to-sign-the-agreement-directly"></a>Aby zaprosić klienta do bezpośredniego podpisania umowy 
+### <a name="to-invite-the-customer-to-sign-the-agreement-directly"></a>Aby zaprosić klienta do bezpośredniego podpisania umowy
 
-1. Na stronie Konto **klienta** wybierz **pozycję** Aktualizuj obok **Umowa z Klientem Microsoft**.
+1. Na stronie Konto **klienta** wybierz pozycję Aktualizuj **obok** **Umowa z Klientem Microsoft**.
 
-2. Wprowadź informacje o poszczególnych osobach w firmie klienta, który zaakceptował MCuA.
+2. Podaj informacje o poszczególnych osobach w firmie klienta, która zaakceptowała agregator klienta firmy Microsoft.
 
 3. Wybierz przycisk **Zapisz i kontynuuj**.  
 
@@ -55,64 +56,106 @@ W ramach nowego rozwiązania handlowego dla platformy Azure w programie CSP wpro
 - Będzie można dodać poprzednią ofertę platformy Azure do koszyka dla klientów, którzy kupili ją w przeszłości.
 - Jeśli jesteś zarejestrowanym przed *21* lipca i masz klientów zarejestrowanych po 21 lipca, nie będziesz mieć możliwości dodania poprzedniej oferty platformy Azure do koszyka.
 
-**Partnerzy zarejestrowani w *dniu 21* lipca 2021 r. lub później**
+**Partnerzy zarejestrowani w *dniu* 21 lipca 2021 r. lub później**
 - Nie będzie można dodać poprzedniej oferty platformy Azure do koszyka.
 
 Jeśli spróbujesz dodać poprzednią ofertę platformy Azure, ale nie kwalifikujesz się z powodu powyższych zasad biznesowych, zostanie napotkany następujący błąd. 
 
 :::image type="content" source="images/add-products.png" alt-text="Zrzut ekranu przedstawiający ekran Dodawanie produktów.":::
 
-Aby znaleźć nowy plan platformy Azure przy użyciu Partner Center API, [zobacz Tworzenie planu platformy Azure.](/partner-center/develop/create-azure-plan#get-the-catalog-item-for-azure-plan)
+Aby znaleźć nowy plan platformy Azure z Partner Center API, zobacz [Tworzenie planu platformy Azure.](/partner-center/develop/create-azure-plan#get-the-catalog-item-for-azure-plan)
 
 ## <a name="review-and-buy"></a>Przeglądanie i kupowanie
 
 Wróć do **strony Dodawanie produktu,** na której widać, że plan platformy Azure został dodany. Wybierz **pozycję Przejrzyj,** aby przejrzeć zakup, a następnie wybierz **pozycję Kup**. 
 
 > [!NOTE]
-> Po zakupie planu platformy Azure dla klienta nie można już Microsoft Azure (0145p) dla tego klienta. Konieczne będzie utworzenie przyszłych subskrypcji za pośrednictwem planu platformy Azure.
+> Po zakupie planu platformy Azure dla klienta nie będzie można już kupić planu Microsoft Azure (0145p) dla tego klienta. Konieczne będzie utworzenie przyszłych subskrypcji za pośrednictwem planu platformy Azure.
 
 ## <a name="purchase-azure-reservations-under-the-azure-plan"></a>Kupowanie rezerwacji platformy Azure w ramach planu platformy Azure 
   
 Możesz również kupić rezerwacje Microsoft Azure w ramach planu platformy Azure w imieniu klientów w Partner Center. (Lub, jeśli wolisz, możesz udzielić swoim klientom uprawnień do zakupu własnych rezerwacji platformy [Azure](give-customers-permission.md) z wcześniejszej subskrypcji, która została dla nich zakupiona).
 
-1. Z menu Partner Center pulpitu [nawigacyjnego](https://partner.microsoft.com/dashboard/)wybierz pozycję **Klienci.** Znajdź klienta, który chce kupić rezerwacje platformy Azure, a następnie wybierz strzałkę w dół, aby rozwinąć wiersz klienta.
+> [!NOTE]
+> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie zgrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-2. Wybierz **pozycję Dodaj produkty,** a następnie wybierz pozycję **Azure.** 
+#### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
+
+1. Zaloguj się do [pulpitu Partner Center i](https://partner.microsoft.com/dashboard/) wybierz **kafelek** Klienci.
+
+2. Znajdź klienta, który chce kupić rezerwacje platformy Azure, a następnie wybierz strzałkę w dół, aby rozwinąć wiersz klienta.
+
+3. Wybierz **pozycję Dodaj produkty,** a następnie wybierz pozycję **Azure.** 
 
    - Wybierz segment rynku klienta z **listy Segment.**
    - Wybierz **pozycję Rezerwacje** z **listy Typ** produktu.
-   - Wybierz typ rezerwacji, których chce klient, z **listy Typ rezerwacji.**
+   - Wybierz typ rezerwacji, który klient chce wybrać z **listy Typ rezerwacji.**
 
-Rezerwacje platformy Azure muszą być skojarzone z aktywnym planem platformy Azure. Wybierz plan platformy Azure, do którego chcesz dodać rezerwacje platformy Azure, z listy Subskrypcja klienta. 
+Rezerwacje platformy Azure muszą być skojarzone z aktywnym planem platformy Azure. Z listy Subskrypcja klienta wybierz plan platformy Azure, do którego chcesz dodać rezerwacje platformy Azure. 
 
 > [!IMPORTANT] 
 > Jeśli klient nie ma jeszcze aktywnego planu platformy Azure, wybierz pozycję Azure, aby dodać go teraz. Aby uzyskać dalsze [instrukcje, zobacz Kupowanie rezerwacji platformy Azure.](azure-reservations-buying.md#purchase-azure-reservations)
 
 > [!NOTE]
-> Zakres rezerwacji można ustawić tylko na wartość **Udostępnione**, obecnie w Partner Center. Aby wybrać zakres pojedynczej subskrypcji lub zaktualizować zakres z udostępnionego na pojedynczy, przejdź do witryny **Microsoft Azure Management Portal,** korzystając z poniższych instrukcji. 
+> Zakres rezerwacji można ustawić tylko na wartość **Udostępnione**, obecnie w Partner Center. Aby wybrać zakres pojedynczej subskrypcji lub zaktualizować zakres z udostępnionego na zakres pojedynczej subskrypcji, przejdź do **Microsoft Azure Management Portal,** korzystając z poniższych instrukcji. 
 
-:::image type="content" source="images/azure/addprods1.png" alt-text="Ustawienie rezerwacji zakresu współdzielonych.":::
+:::image type="content" source="images/azure/addprods1.png" alt-text="Ustawienie rezerwacji zakresu współużytkowego.":::
 
-Aby zarządzać rezerwacją klienta w Azure Portal: 
+Aby zarządzać rezerwacją klienta w Azure Portal:
 
-1. Z **opcji** Klienci wybierz klienta, którym chcesz zarządzać. 
+1. Z **opcji** Klienci wybierz klienta, którym chcesz zarządzać.
 
 2. Za pomocą strzałki w dół rozwiń wiersz klienta i wybierz pozycję **Microsoft Azure Management Portal.**  
  
 ## <a name="view-azure-subscriptions-under-the-azure-plan"></a>Wyświetlanie subskrypcji platformy Azure w ramach planu platformy Azure
 
-Na stronie **Subskrypcje** w sekcji opartej na użyciu rozwiń plan platformy **Azure,** aby wyświetlić skojarzone subskrypcje platformy Azure w ramach planu platformy Azure.
+Na **stronie Subskrypcje** w sekcji na podstawie użycia rozwiń plan platformy **Azure,** aby wyświetlić skojarzone subskrypcje platformy Azure w ramach planu platformy Azure.
 
 :::image type="content" source="images/azure/addprods2.png" alt-text="Wyświetl listę subskrypcji platformy Azure."::: 
 
+#### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
+
+1. Z menu Partner Center pulpitu [nawigacyjnego](https://partner.microsoft.com/dashboard/)wybierz pozycję **Klienci.**
+Znajdź klienta, który chce kupić rezerwacje platformy Azure, a następnie wybierz strzałkę w dół, aby rozwinąć wiersz klienta.
+
+2. Wybierz **pozycję Dodaj produkty,** a następnie wybierz pozycję **Azure.** 
+
+   - Wybierz segment rynku klienta z **listy Segment.**
+   - Wybierz **pozycję Rezerwacje** z **listy Typ** produktu.
+   - Wybierz typ rezerwacji, który klient chce wybrać z **listy Typ rezerwacji.**
+
+Rezerwacje platformy Azure muszą być skojarzone z aktywnym planem platformy Azure. Z listy Subskrypcja klienta wybierz plan platformy Azure, do którego chcesz dodać rezerwacje platformy Azure. 
+
+> [!IMPORTANT]
+> Jeśli klient nie ma jeszcze aktywnego planu platformy Azure, wybierz pozycję Azure, aby dodać go teraz. Aby uzyskać dalsze [instrukcje, zobacz Kupowanie rezerwacji platformy Azure.](azure-reservations-buying.md#purchase-azure-reservations)
+
+> [!NOTE]
+> Zakres rezerwacji można ustawić tylko na wartość **Udostępnione**, obecnie w Partner Center. Aby wybrać zakres pojedynczej subskrypcji lub zaktualizować zakres z udostępnionego na zakres pojedynczej subskrypcji, przejdź do **Microsoft Azure Management Portal,** korzystając z poniższych instrukcji. 
+
+:::image type="content" source="images/azure/addprods1.png" alt-text="Ustawienie rezerwacji zakresu współużytkowego.":::
+
+Aby zarządzać rezerwacją klienta w Azure Portal:
+
+1. Z **opcji** Klienci wybierz klienta, którym chcesz zarządzać.
+
+2. Za pomocą strzałki w dół rozwiń wiersz klienta i wybierz pozycję **Microsoft Azure Management Portal.**  
+ 
+## <a name="view-azure-subscriptions-under-the-azure-plan"></a>Wyświetlanie subskrypcji platformy Azure w ramach planu platformy Azure
+
+Na **stronie Subskrypcje** w sekcji na podstawie użycia rozwiń plan platformy **Azure,** aby wyświetlić skojarzone subskrypcje platformy Azure w ramach planu platformy Azure.
+
+:::image type="content" source="images/azure/addprods2.png" alt-text="Wyświetl listę subskrypcji platformy Azure.":::
+
+* * *
+
 ## <a name="add-subscriptions-and-configure-resources"></a>Dodawanie subskrypcji i konfigurowanie zasobów
 
-Dodasz subskrypcje i skonfigurujesz zasoby dla klienta w Azure Portal. Możesz również oddzielić środowisko klienta według obciążenia lub projektu. Subskrypcjami można zarządzać za pośrednictwem [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) i Azure Portal. 
+Dodasz subskrypcje i skonfigurujesz zasoby dla klienta w Azure Portal. Możesz również oddzielić środowisko klienta według obciążenia lub projektu. Subskrypcjami można zarządzać za [pośrednictwem Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) i Azure Portal. 
 
-Aby zarządzać zasobami i subskrypcjami klienta, musisz mieć uprawnienia **Admin on Behalf Of** (AOBO). Aby uzyskać informacje na temat zarządzania dostępem, przeczytaj [zarządzanie subskrypcjami i zasobami w ramach planu platformy Azure](azure-plan-manage.md)
+Aby zarządzać zasobami i subskrypcjami klienta, musisz mieć uprawnienia **Administratora w imieniu** (AOBO). Aby uzyskać informacje na temat zarządzania dostępem, przeczytaj [zarządzanie subskrypcjami i zasobami w ramach planu platformy Azure.](azure-plan-manage.md)
 
 ## <a name="next-steps"></a>Następne kroki
 
 - [Przejścia klientów do planu platformy Azure](azure-plan-transition.md)
 
-- [Punkty uzyskane przez partnerów — omówienie](partner-earned-credit.md)
+- [Środków uzyskane przez partnerów — omówienie](partner-earned-credit.md)

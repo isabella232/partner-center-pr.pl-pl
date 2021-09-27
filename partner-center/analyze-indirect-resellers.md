@@ -1,27 +1,27 @@
 ---
 title: Analizowanie wydajności odsprzedawców pośrednich
-description: Użyj analizy, aby dowiedzieć się, jak radzi sobie odsprzedawcy pośredni, zarówno ich sukcesy, jak i obszary, które mogą wymagać większej uwagi.
+description: Użyj analizy, aby dowiedzieć się, jak robią odsprzedawcy pośredni, zarówno ich sukcesy, jak i obszary, które mogą wymagać większej uwagi.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: a7d04e437a2546c887b40f37a7381605535e8ca9
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: d6d5b7472509e57a266bdefffc730c0a7e17d491
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247318"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070512"
 ---
-# <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Analizowanie wydajności odsprzedawców pośrednich za pomocą analizy
+# <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Analizowanie wydajności odsprzedawców pośrednich przy użyciu analizy
 
 **Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami
 
 
-Dane wpływają na decyzje biznesowe. Użyj metryk na  stronie analizy Odsprzedawca, aby zidentyfikować sukcesy, sukcesy odsprzedawców pośrednich i obszary, które wymagają większej uwagi. Użyj tych informacji podczas planowania nowych celów biznesowych.
+Dane wpływają na decyzje biznesowe. Użyj metryk na stronie analizy **Odsprzedawca,** aby zidentyfikować swoje sukcesy, sukcesy odsprzedawców pośrednich i obszary, które wymagają większej uwagi. Użyj tych informacji podczas planowania nowych celów biznesowych.
 
 > [!NOTE]
 > Analiza odsprzedawcy pośredniego jest dostępna tylko dla dostawców pośrednich Dostawca rozwiązań w chmurze programie.
@@ -43,7 +43,7 @@ Dane wpływają na decyzje biznesowe. Użyj metryk na  stronie analizy Odsprzeda
  - Lista odsprzedawców posortowana według liczby sprzedanych subskrypcji  
 
 **Najważniejsze produkty według liczby subskrypcji**  
- - **Dynamics 365:** Produkty usługi Dynamics 365 posortowane według sprzedanych subskrypcji  
+ - **Dynamics 365:** produkty Dynamics 365 posortowane według sprzedanych subskrypcji  
  - **EMS:** liczba sprzedanych subskrypcji Enterprise Management Services  
  - **Microsoft 365:** liczba sprzedanych Microsoft 365 subskrypcji  
  - **Office 365:** Office 365 produktów posortowanych według sprzedanych subskrypcji  
@@ -53,23 +53,23 @@ Dane wpływają na decyzje biznesowe. Użyj metryk na  stronie analizy Odsprzeda
 
 **Rezygnacja z subskrypcji**  
  - **Nowe subskrypcje:** liczba nowych subskrypcji dodanych według daty  
- - **Anulowano aprowizowane subskrypcje:** liczba subskrypcji anulowanych lub zawieszonych według daty  
+ - **Anulowane aprowizowane subskrypcje:** liczba subskrypcji, dla których anulowano aprowizę lub które zostały wstrzymane według daty  
 
 **Szczegóły nowego odsprzedawcy**  
- - **Nazwa odsprzedawcy:** Nazwy odsprzedawców pośrednich  
+ - **Nazwa** odsprzedawcy: Nazwy odsprzedawców pośrednich  
  - **Lokalizacja:** Rynki, na których działają odsprzedawcy pośredni  
  - **Subskrypcje:** liczba subskrypcji, które odsprzedawca sprzedał  
  - **Licencje:** łączna liczba licencji, które odsprzedawca sprzedał we wszystkich subskrypcjach  
 
-**Stan ze podpisem umowy MPA**
+**Stan podpisania umowy MPA**
 
-Ta sekcja zawiera informacje o stanie podpisanym przez MPA odsprzedawców pośrednich WSP.
+Ta sekcja zawiera stan podpisanego umowy MPA odsprzedawców pośrednich WSP.
 
  - **Nazwa** odsprzedawcy: nazwa odsprzedawcy pośredniego CSP
  - **Identyfikator MPN:** identyfikator MPN odsprzedawcy pośredniego
  - **Region:** region, w którym działa odsprzedawca pośredni
- - **Stan vettingu MPN:** stan Vetting odsprzedawcy pośredniego
- - **Stan podpisania umowy MPA:** stan podpisywania umowy MPA dla odsprzedawcy pośredniego
+ - **Stan vettingu MPN:** Stan Vetting odsprzedawcy pośredniego
+ - **Stan podpisania umowy MPA:** stan podpisywania umowy MPA odsprzedawcy pośredniego
 
 Kliknij ikonę pobierania na wykresie, aby pobrać dane o stanie ze podpisem MPA z dodatkowymi wymiarami
   

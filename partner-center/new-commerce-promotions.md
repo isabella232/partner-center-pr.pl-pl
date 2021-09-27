@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8abd34ff7cc47edf59be6532dcc7e9c7e0dd1533
-ms.sourcegitcommit: dd900161830c59bcf3c5d700d524436ee05cd987
+ms.openlocfilehash: b5b4e3ec2ef4c37b742102d287e5eddd93690fdb
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128714151"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075174"
 ---
 # <a name="introduction-new-commerce-promotions"></a>Wprowadzenie: Nowe promocje handlowe
 
@@ -60,7 +60,7 @@ Istnieją trzy powody, dla których klient może nie kwalifikować się do promo
 
 ### <a name="seat-count"></a>Liczba miejsc ###
 
-Wiele promocji ma stanowisko, które może mieć maksymalnie 2400 stanowisk. W takich przypadkach transakcja, w tym ponad 2400, zostanie przesłana po cenach bez promocji. Te liczby stanowisk są również wymuszane podczas dodawania stanowisk do subskrypcji podyscytowania z tymi limitami. Partnerzy otrzymają komunikat o błędzie, jeśli spróbują zwiększyć subskrypcję z obsługą promocji poza limity. Limity liczby miejsc w ramach promocji są wymuszane między partnerami, więc jeśli jeden partner kupi podwyżkę o 2300 miejsc z limitem liczby miejsc w promocji, drugi partner, który kupi 200 stanowisk, otrzyma cenę subskrypcji po cenie bez podwyższenia. Poziom promocji jest wymuszany na poziomie sku produktu, w ramach transakcji partnera, dzięki czemu partner może uzyskać ceny promocyjny za 2400 miejsc w programie Microsoft 365 E3, a także za inną Microsoft 365 E5. Partnerzy mogą wywołać interfejs [API subskrybowanych SKU,](/partner-center/develop/get-a-list-of-available-licenses) aby zobaczyć, ile licencji klient ma dla danej aprowizowanego interfejsu SKU.
+Wiele promocji ma stanowisko, które może mieć maksymalnie 2400 stanowisk. W takich przypadkach transakcja, w tym ponad 2400, zostanie przesłana po cenach bez promocji. Te liczby stanowisk są również wymuszane podczas dodawania stanowisk do subskrypcji podyscytowania z tymi limitami. Partnerzy otrzymają komunikat o błędzie, jeśli spróbują zwiększyć subskrypcję z obsługą promocji poza limity. Limity liczby miejsc w ramach promocji są wymuszane między partnerami, więc jeśli jeden partner kupi podwyżkę o 2300 miejsc z limitem liczby miejsc w promocji, drugi partner, który kupi 200 stanowisk, otrzyma cenę subskrypcji po cenie bez podwyższenia. Poziom promocji jest wymuszany na poziomie sku produktu, w ramach których partner zawiera transakcję, dzięki czemu partner może uzyskać ceny promocyjny za 2400 miejsc w Microsoft 365 E3, a także za inną Microsoft 365 E5. Partnerzy mogą wywołać interfejs [API subskrybowanych SKU,](/partner-center/develop/get-a-list-of-available-licenses) aby zobaczyć, ile licencji klient ma dla danej aprowizowanego interfejsu SKU.
 
 ### <a name="term"></a>Okres ###
 
@@ -78,8 +78,4 @@ Rabaty promocyjny po zastosowaniu są stosowane na okres zakupu. Subskrypcje z z
 Partnerzy, którzy uaktualnią subskrypcję do innej wersji SKU, pozostawią cenę za podwyżsenie ceny. Ta akcja występuje, ponieważ podwyżsenie zostało skonfigurowane dla opuszczonej przez siebie wersji SKU podczas uaktualniania do innej wersji SKU. Partnerzy, którzy przejdą do wersji SKU, która może podwyższyć swój koszt, nie otrzymają automatycznie ceny promocji. Jeśli potrzebują lub chcą uzyskać cenę za podwyżkę dla tej, do której chcą przejść, muszą ręcznie zakupić nową subskrypcję jako nową subskrypcję. Obecnie promocje są stosowane tylko w przypadku nowych zakupów i odnowień subskrypcji.
 
 ## <a name="promotions-and-migrations"></a>Promocje i migracje ##
-Partnerzy mogą migrować subskrypcje swoich klientów z tradycyjnych subskrypcji Microsoft 365/Dynamics 365 do nowych wersji handlowych swoich subskrypcji. Migracje są dostępne zarówno z interfejsu użytkownika Partner Center, jak i z wywoływania interfejsów API migracji. Partnerzy, którzy przeprowadzają migrację z tradycyjnej subskrypcji do nowego handlu, otrzymają promocję, jeśli migrują, o ile ich wersja SKU produktu jest dostosowana do definicji promocji. Partnerzy powinni wywołać interfejs API weryfikacji uprawnień, aby upewnić się, że docelowa cena sku produktu zostanie wywołana przed migracją.
-
-
-
-
+Partnerzy mogą migrować subskrypcje swoich klientów z tradycyjnych subskrypcji Microsoft 365/Dynamics 365 do nowych wersji handlowych swoich subskrypcji. Migracje są dostępne zarówno z interfejsu Partner Center, jak i z wywoływania interfejsów API migracji. Partnerzy, którzy przeprowadzają migrację z tradycyjnej subskrypcji do nowego handlu, otrzymają promocję, jeśli migrują, o ile ich wersja SKU produktu jest dostosowana do definicji promocji. Partnerzy powinni wywołać interfejs API weryfikacji uprawnień, aby upewnić się, że docelowa cena sku produktu zostanie wywołana przed migracją.

@@ -5,15 +5,15 @@ ms.date: 07/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Użyj przykładowej aplikacji, aby skompilować własną aplikację w celu programowego uzyskiwania dostępu do danych szczegółowych informacji partnerów.
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: cb2bc8be9ea49c0d75da4d78961865331ed908c9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: e763fd5182489d68e788e88e0f8f1522dac6aba4
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959098"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075369"
 ---
 # <a name="sample-application"></a>Przykładowa aplikacja
 
@@ -45,7 +45,7 @@ git clone https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN.git
 > [!Note]
 > Aby uzyskać więcej instrukcji, zapoznaj się z plikiem ProgrammaticExportSampleAppMPN/README.md w GitHub [repozytorium .](https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN_Java)
 
-- Aby szybko uruchomić aplikację, zaktualizuj identyfikator klienta i klucz tajny klienta wappsettings.Development.js **na**
+- Aby szybko uruchomić aplikację, zaktualizuj identyfikator klienta i klucz tajny klienta w **ustawieniach appsettings. Development.json**
 
 :::image type="content" source="images/insights/prog-acc-appsetting-development.png" alt-text="Ilustrowanie danych JSON tworzenia aplikacji":::
 

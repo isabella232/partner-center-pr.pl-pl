@@ -1,7 +1,7 @@
 ---
 title: Typowe scenariusze rozliczeń
 ms.topic: article
-ms.date: 05/06/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
 description: Eksploruj rozliczenia po dodaniu nowych subskrypcji, dostosowaniu liczby licencji lub anulowaniu subskrypcji. Zobacz, czym różnią się subskrypcje oparte na użyciu i na licencjach.
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ad05edf9c1d67a5e373fde26bf10a4f6ad50cd6
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: f714d741cba0d3a3139c09801eacdd98d14cf6a6
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247191"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074015"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Typowe scenariusze rozliczeń dla partnerów programu CSP pracujących w Partner Center
 
@@ -22,19 +22,44 @@ ms.locfileid: "126247191"
 
 W tych artykułach wyjaśniono, czego należy oczekiwać na rachunku po dodaniu nowych subskrypcji, dostosowaniu liczby licencji do subskrypcji lub anulowaniu subskrypcji. Inne [Partner Center,](./billing-basics.md)takie jak subskrypcje oparte na użyciu i oparte na licencjach, są rozliczane w różny sposób.
 
-
 ## <a name="change-billing-frequency"></a>Zmiana częstotliwości rozliczeń
 
-Częstotliwość rozliczeń jest zmieniana na poziomie zamówienia, a po zmianie częstotliwości poprawiony cykl rozliczeniowy zostanie zastosowany do wszystkich subskrypcji w ramach tego zamówienia. 
+Częstotliwość rozliczeń jest zmieniana na poziomie zamówienia, a po zmianie częstotliwości poprawiony cykl rozliczeniowy zostanie zastosowany do wszystkich subskrypcji w ramach tego zamówienia.
 
 Aby zmienić częstotliwość rozliczeń usługi online dla klienta:
 
+> [!NOTE]
+> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie zgrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz Getting around Partner Center (Poruszanie [się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
+
 1. [Zaloguj się do pulpitu Partner Center nawigacyjnego.](https://partner.microsoft.com/dashboard/home)
-2. W menu po lewej stronie wybierz pozycję **Klienci.**
+
+2. Wybierz **kafelek Klienci.**
+
 3. Wybierz klienta, którego częstotliwość rozliczeń subskrypcji chcesz zmienić.
+
 4. Na stronie **Subskrypcje klienta** wybierz subskrypcję, którą chcesz zmienić.
+
 5. Na stronie **Szczegóły** w obszarze **Częstotliwość rozliczeń** wybierz pozycję **Miesięczny lub** **Roczny.** Zostanie wyświetlona strona potwierdzenia z ważnymi informacjami na temat zmiany częstotliwości rozliczeń, a także lista subskrypcji, które mają zostać zmienione.
+
 6. Wybierz **przycisk OK,** aby wprowadzić zmianę (lub **anuluj,** aby ją cofnąć).
+
+#### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
+
+1. [Zaloguj się do pulpitu Partner Center nawigacyjnego.](https://partner.microsoft.com/dashboard/home)
+
+2. W menu po lewej stronie wybierz pozycję **Klienci.**
+
+3. Wybierz klienta, którego częstotliwość rozliczeń subskrypcji chcesz zmienić.
+
+4. Na stronie **Subskrypcje klienta** wybierz subskrypcję, którą chcesz zmienić.
+
+5. Na stronie **Szczegóły** w obszarze **Częstotliwość rozliczeń** wybierz pozycję **Miesięczny lub** **Roczny.** Zostanie wyświetlona strona potwierdzenia z ważnymi informacjami na temat zmiany częstotliwości rozliczeń, a także lista subskrypcji, które mają zostać zmienione.
+
+6. Wybierz **przycisk OK,** aby wprowadzić zmianę (lub **anuluj,** aby ją cofnąć).
+
+* * *
 
 ## <a name="billing-scenarios"></a>Scenariusze rozliczeń
 

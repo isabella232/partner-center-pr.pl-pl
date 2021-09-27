@@ -4,20 +4,20 @@ description: Użyj przykładowych zapytań, aby programowo uzyskać dostęp do d
 ms.topic: reference
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 36da8a59548142bf09daf42dbc936fba15d46d1e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 18e50ec8108f5998b57630960026d039ab68803a
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959002"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075336"
 ---
 # <a name="sample-queries-for-partner-center-insights-report"></a>Przykładowe zapytania dotyczące Partner Center szczegółowych informacji
 
-Ten artykuł zawiera przykładowe zapytania dotyczące raportów Szczegółowe informacje partnerów. Możesz użyć tych zapytań, wywołując punkt końcowy interfejsu API tworzenia zapytań raportów. W razie potrzeby wywołanie [interfejsu API](insights-programmatic-access-paradigm.md#create-report-query-api) tworzenia zapytania raportu można zmodyfikować w celu dodania większej liczby kolumn, dostosowania okresu obliczeniowego i dodania warunków filtrowania.
+Ten artykuł zawiera przykładowe zapytania dotyczące raportów Szczegółowe informacje partnerów. Możesz użyć tych zapytań, wywołując punkt końcowy interfejsu API tworzenia zapytań raportów. W razie potrzeby wywołanie [interfejsu API tworzenia zapytania](insights-programmatic-access-paradigm.md#create-report-query-api) raportu można zmodyfikować w celu dodania większej liczby kolumn, dostosowania okresu obliczeniowego i dodania warunków filtrowania.
 
 Aby uzyskać szczegółowe informacje o nazwach kolumn, atrybutach i opisach, zapoznaj się z [definicjami danych](insights-data-definitions.md).
 

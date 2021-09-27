@@ -1,20 +1,20 @@
 ---
-title: pakiet Software Assurance szkoleniowy wycofanie programu
+title: pakiet Software Assurance szkolenia szkoleniowego wycofanie programu
 ms.topic: article
 ms.date: 04/07/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-benefits
-description: pakiet Software Assurance training do trenowania jest wy wycofany.
+ms.subservice: partnercenter-membership
+description: pakiet Software Assurance training do trenowania zostanie wycofany.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: e9313a7d7f6554a544eeb81a023db3a3a3eeff22
-ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
+ms.openlocfilehash: 5cab77aa5fc3b25bb0ee5b3813aa272a29b924d4
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128309797"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070827"
 ---
 # <a name="training-vouchers-program-retirement"></a>Wycofanie programu Szkoleniowego
 
@@ -27,13 +27,13 @@ pakiet Software Assurance Training Are Are fully retired (SATV) are fully retire
 - 1 stycznia 2022 r.: ostatni dzień dla partnerów, którzy mogą zrealizować szkolenia Dla partnerów. Partner będzie miał 60 dni od wykupu, aby ukończyć proces żądania płatności.  
 
 >[!NOTE]
->Nie ma żadnych zmian w cyklu życia cyklu życia cyklu życia. Po utworzeniu/przypisaniu subskrypcji należy ukończyć rezerwację w ciągu 180 dni przed wygaśnięciem certyfikatu.  Aby uzyskać więcej informacji na temat wycofania trenowania, zobacz często zadawane pytania dotyczące [zmian pakiet Software Assurance korzyści](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) (wymagane jest zalogowanie).  Zobacz pełną listę kursów szkoleniowych kwalifikujących się do programu SATV w katalogu produktów korzyści szkoleniowych. Wszelkie pytania należy kierować do regionalnego zespołu pomocy technicznej partnera: Pomoc techniczna [dla partnerów EMEA;](mailto:savoucher@msdirectservices.com) [Ogólna pomoc techniczna dla partnerów.](https://partner.microsoft.com/dashboard/support/servicerequests)
+>Nie ma żadnych zmian w cyklu życia cyklu życia cyklu życia. Po utworzeniu/przypisaniu subskrypcji należy ukończyć rezerwację w ciągu 180 dni przed wygaśnięciem certyfikatu.  Aby uzyskać więcej informacji na temat wycofania trenowania, zobacz często zadawane pytania dotyczące zmian [pakiet Software Assurance korzyści](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) (wymagane jest zalogowanie).  Zobacz pełną listę kursów szkoleniowych kwalifikujących się do programu SATV w katalogu produktów korzyści szkoleniowych. Wszelkie pytania należy kierować do regionalnego zespołu pomocy technicznej partnera: Pomoc techniczna [dla partnerów EMEA;](mailto:savoucher@msdirectservices.com) [Ogólna pomoc techniczna dla partnerów.](https://partner.microsoft.com/dashboard/support/servicerequests)
 
 
 
 ### <a name="get-started"></a>Rozpoczęcie pracy
 
-Jeśli jesteś nowym użytkownikiem usług pakiet Software Assurance, wykonaj wszystkie poniższe kroki. Jeśli jesteś już aktywny w programie szkoleniowym, zacznij od kroku 4 (4) poniżej. 
+Jeśli jesteś nowym użytkownikiem usługi pakiet Software Assurance, wykonaj wszystkie poniższe kroki. Jeśli jesteś już aktywny w programie szkoleniowym, zacznij od kroku 4 (4) poniżej. 
 
 1. Potwierdzanie uprawnień do programu
 2. Rejestracja w programie szkoleniowym
@@ -48,9 +48,9 @@ W tym artykule wyjaśniono, jak wykonać poszczególne kroki.
 
 ## <a name="confirm-program-eligibility"></a>Potwierdzanie uprawnień do programu
 
-Przed zarejestrowaniem się w programie SATV należy najpierw spełnić wymagania dotyczące opcji Microsoft Partner Network (MPN) Edukacja, która zastępuje kompetencję Edukacja Microsoft. Dowiedz się, jak rozpocząć pracę, [Edukacja opcji.](https://partner.microsoft.com/membership/learning-partners)
+Zanim będzie można zarejestrować się w programie SATV, musisz najpierw spełnić wymagania dotyczące opcji Microsoft Partner Network (MPN), Edukacja która zastępuje kompetencję Edukacja Microsoft. Dowiedz się, jak rozpocząć [pracę, Edukacja opcji.](https://partner.microsoft.com/membership/learning-partners)
 
-W tym celu możesz zweryfikować uprawnienia swojej firmy, w tym odpowiednie wymagania dotyczące kompetencji i oceny w Partner Center. Aby uzyskać więcej informacji i zrzuty ekranu, postępuj zgodnie z instrukcjami znajdującymi się w [kroku 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) przepływu pracy programu SATV.
+W tym celu możesz zweryfikować uprawnienia swojej firmy, w tym odpowiednie wymagania dotyczące kompetencji i oceny Partner Center. Aby uzyskać więcej informacji i zrzuty ekranu, postępuj zgodnie z instrukcjami znajdującymi się w [kroku 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) przepływu pracy programu SATV.
 
 ## <a name="enroll-in-the-training-program"></a>Rejestracja w programie szkoleniowym
 
@@ -85,6 +85,6 @@ Aby uzyskać dodatkowe informacje, przeczytaj często zadawane [pytania](https:/
 
 Zobacz też:
 
-- [pakiet Software Assurance szkoleniowego (SATV) Workflow](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)
-- [często zadawane pytania dotyczące usługi pakiet Software Assurance Training IoT (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
-- [pakiet Software Assurance treningowe (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)
+- [pakiet Software Assurance szkoleniowe (SATV) Workflow](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)
+- [pakiet Software Assurance Training Training Dla (SATV) — często zadawane pytania](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
+- [pakiet Software Assurance szkoleniowe (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)

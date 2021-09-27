@@ -1,43 +1,43 @@
 ---
 title: Zarządzanie roszczeniami związanymi ze współpracą
-description: Poznaj proces roszczeń dotyczących współpracy, w tym terminy, problemy z walutą i sposób zakwestionowania odrzuconego roszczenia o współpracy.
+description: Poznaj proces roszczeń dotyczących współpracy, w tym terminy, problemy z walutą i sposób zakwestionowania odrzuconego roszczenia dotyczącej współpracy.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 10/29/2020
-ms.openlocfilehash: bf4e155eb9ca6a7bf8e2a6ad2a5f1f2a5f0b40c2
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.date: 09/27/2021
+ms.openlocfilehash: 256183d80eea3ead7f94a8f798be75ae345db4e3
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958521"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075495"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Zarządzanie zachętami — roszczenia dotyczące współpracy
 
 **Odpowiednie role:** Administrator zachęt
 
-Następująca zawartość zawiera informacje dotyczące zarządzania roszczeniami o współpracy, w tym osie czasu, reguły i sposób zakwestionowania odrzuconego roszczenia współpracy.
+Następująca zawartość zawiera informacje dotyczące zarządzania roszczeniami w zakresie współpracy, w tym osie czasu, reguły i sposób zakwestionowania odrzuconego roszczenia.
 
 ## <a name="co-op-claims-approval-and-payment-deadlines"></a>Zatwierdzanie roszczeń o współpracy i terminy płatności
 
-### <a name="when-will-my-co-op-claim-be-approved"></a>Kiedy moje roszczenie o współpracy zostanie zatwierdzone?
+### <a name="when-will-my-co-op-claim-be-approved"></a>Kiedy roszczenie mojej współpracy zostanie zatwierdzone?
 
-Roszczenia dotyczące współpracy są sprawdzane w ciągu dwóch dni roboczych od ich przesłania. Gdy zostaną uznane za prawidłowe, zostaną one ustawione na stan Zatwierdzone.  
+Roszczenia dotyczące współpracy są przeglądane w ciągu dwóch dni roboczych od ich przesłania. Gdy zostaną uznane za prawidłowe, zostaną ustawione na stan Zatwierdzone.  
 
 Poniżej przedstawiono różne możliwe stany oświadczeń współpracy.
 
 - Przesłane
 - W trakcie przeglądu
-  - Firma Microsoft ukończy przegląd w ciągu dwóch dni roboczych od przesłanego roszczenia. Jeśli Twój stan jest przeglądany dłużej niż dwa dni, skontaktuj się z pomocą [techniczną.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
+  - Firma Microsoft ukończy przegląd w ciągu dwóch dni roboczych od przesłanego roszczenia. Jeśli Twój stan jest przeglądany dłużej niż dwa dni, skontaktuj się z pomocą [techniczną](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 - Wymagana akcja
 - Edytowanie
 - Approved (Zatwierdzono)
 - Odrzucone
 
-## <a name="co-op-claim-payments"></a>Płatności roszczeń w ramach współpracy
+## <a name="co-op-claim-payments"></a>Płatności za roszczenia w ramach współpracy
 
 ### <a name="when-will-i-get-the-payment-for-the-approved-co-op-claim"></a>Kiedy otrzymam płatność z tytułu zatwierdzonego roszczenia dotyczącego współpracy?
 
@@ -51,21 +51,40 @@ Gdy środki z tytuły współpracy są uzyskiwane z różnych jednostek firmy Mi
 
 Każdy program zachęt ma profil bankowy, który został utworzony podczas konfigurowania. Waluta określona w tym profilu jest walutą, w której będą realizowane wypłaty.
 
-## <a name="rejected-co-op-claims"></a>Odrzucone roszczenia dotyczące współpracy
+## <a name="rejected-co-op-claims"></a>Odrzucone oświadczenia dotyczące współpracy
 
 Jeśli materiały przesłane wraz z roszczeniem dotyczącym współpracy zostaną uznane za niewystarczające, roszczenie zostanie odrzucone. Przyczyny odrzucenia można wyświetlić w polu **Historia** na stronie roszczeń dotyczących współpracy. Aby zakwestionować odrzucenie, użyj następującej procedury:
 
 ### <a name="dispute-a-rejected-co-op-claim"></a>Kwestionowanie odrzuconego roszczenia dotyczącego współpracy
 
-1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
+> [!NOTE]
+> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-2. W **obszarze Zachęty** wybierz pozycję **Zarządzanie współoperacyjnością.**
+#### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
-3. Wybierz roszczenie dotyczące współpracy, które chcesz zakwestionować. Zostanie otwarta strona roszczenia współpracy.
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/) Centrum partnerskiego.
+
+2. Wybierz **kafelek Zachęty,** a następnie wybierz pozycję **Zarządzanie współpracy.**
+
+3. Wybierz roszczenie dotyczące współpracy, które chcesz zakwestionować. Zostanie otwarta strona roszczenia do współpracy.
 
 4. W dolnej części strony wybierz pozycję **Zakwestionuj**.
 
 Zespół ds. weryfikacji roszczeń dotyczących współpracy rozpatrzy roszczenie w ciągu pięciu dni roboczych. W tym czasie będzie wyświetlany stan **Kwestionowane**. Firma Microsoft może skontaktować się z Tobą, aby zażądać dodatkowych informacji. Po zakończeniu rozpatrywania zespół ds. weryfikacji zaktualizuje stan roszczenia na **Zatwierdzone**, **Odrzucone** lub **Wymagane działanie partnera**.
+
+#### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
+
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/) Centrum partnerskiego.
+
+2. W **obszarze Zachęty** wybierz **pozycję Zarządzanie współoperacyjnością.**
+
+3. Wybierz roszczenie dotyczące współpracy, które chcesz zakwestionować. Zostanie otwarta strona roszczenia do współpracy.
+
+4. W dolnej części strony wybierz pozycję **Zakwestionuj**.
+
+Zespół ds. weryfikacji roszczeń dotyczących współpracy rozpatrzy roszczenie w ciągu pięciu dni roboczych. W tym czasie będzie wyświetlany stan **Kwestionowane**. Firma Microsoft może skontaktować się z Tobą, aby zażądać dodatkowych informacji. Po zakończeniu rozpatrywania zespół ds. weryfikacji zaktualizuje stan roszczenia na **Zatwierdzone**, **Odrzucone** lub **Wymagane działanie partnera**.
+
+* * *
 
 ## <a name="next-steps"></a>Następne kroki
 

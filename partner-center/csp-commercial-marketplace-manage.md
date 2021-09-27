@@ -1,7 +1,7 @@
 ---
 title: Zarządzanie produktami na platformie handlowej & ofert
 ms.topic: how-to
-ms.date: 07/02/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Korzystając Partner Center, dowiedz się, jak dostawcy rozwiązań w chmurze mogą zarządzać ofertami dostawców oprogramowania innych firm zakupionymi dla klientów na platformie handlowej.
@@ -9,15 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14901b47b7363b2d87861be43a7071d9f23545cc
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: e979af820ba1dae2c7bca3f4fb7a05e5a0b56998
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247227"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072287"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Zarządzanie produktami i ofertami na platformie handlowej dla klientów
-
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny
 
@@ -27,7 +26,12 @@ Partnerzy w programie Dostawca rozwiązań w chmurze (CSP) mogą za pomocą port
 
 Po zakupie subskrypcji od zewnętrznego wydawcy isv publisher możesz przejrzeć lub edytować ją w następujący sposób:
 
-1. Zaloguj się do Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard)a następnie wybierz **pozycję Klienci** z menu nawigacji po lewej stronie.
+> [!NOTE]
+> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie zgrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz Getting around Partner Center (Poruszanie [się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
+
+1. Zaloguj się do pulpitu [Partner Center,](https://partner.microsoft.com/dashboard)a następnie wybierz **kafelek** Klienci.
 
 2. Wybierz odpowiedniego klienta, a następnie wybierz **pozycję Subskrypcje.** Zawiera listę wszystkich subskrypcji opartych na licencjach zakupionych dla klienta.
 
@@ -48,6 +52,31 @@ Po zakupie subskrypcji od zewnętrznego wydawcy isv publisher możesz przejrzeć
 > [!NOTE]
 > Może być konieczne wykonanie pewnych kroków zdefiniowanych przez wydawcę isv przed wykonaniem pewnych zmian w subskrypcji, takich jak anulowanie subskrypcji.
 
+#### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
+
+1. Zaloguj się do pulpitu Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard)a następnie wybierz **pozycję Klienci** z menu nawigacji po lewej stronie.
+
+2. Wybierz odpowiedniego klienta, a następnie wybierz **pozycję Subskrypcje.** Zawiera listę wszystkich subskrypcji opartych na licencjach zakupionych dla klienta.
+
+3. W kolumnie **Subskrypcja** wybierz subskrypcję, którą chcesz wyświetlić lub edytować. Dzięki temu możesz uzyskać więcej informacji na temat skonfigurowania lub aprowizować ofertę. (Jeśli w ofercie jest potrzebnych więcej akcji, w kolumnie Stan może być również wyświetlany stan "Potrzebna akcja". Może temu również towarzyszyć link do witryny wydawcy ISV).
+
+4. Po wybraniu subskrypcji, którą chcesz wyświetlić lub edytować, na stronie szczegółów subskrypcji możesz edytować subskrypcję i wykonać takie czynności jak:
+
+    - Zmienianie pseudonimu subskrypcji
+
+    - Dodawanie/zmniejszanie liczby licencji w subskrypcji
+
+    - Anulowanie subskrypcji
+
+    - Wyłącz automatyczne odnawianie
+
+    - Dodaj identyfikator MPN odsprzedawcy pośredniego, jeśli ma to zastosowanie
+
+> [!NOTE]
+> Może być konieczne wykonanie pewnych kroków zdefiniowanych przez wydawcę isv przed wykonaniem pewnych zmian w subskrypcji, takich jak anulowanie subskrypcji.
+
+* * *
+
 ## <a name="assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer"></a>Przypisywanie licencji i aktywowanie subskrypcji w imieniu klienta
 
 W przypadku zakupu oferty oprogramowania jako usługi (SaaS) dostarczonej przez wydawcę niezależnego dostawcy oprogramowania na platformie handlowej wydawca isv pomaga zarządzać procesem przypisywania licencji i aktywowania subskrypcji w imieniu klienta.
@@ -60,7 +89,7 @@ Wydawca powinien dostarczyć spersonalizowany link i kod autoryzacji, który ide
 
    - Link jest wyświetlony na stronie Subskrypcje określonego klienta. Ten link wydawcy jest wyświetlany w wierszu skojarzonym z ofertą lub subskrypcją zakupioną dla klienta przez isvv.
 
-   - Link możesz [pobrać przy użyciu interfejsów API Partner Center .](/partner-center/develop/get-activation-link-by-order-line-item)
+   - Link możesz [pobrać przy użyciu Partner Center API.](/partner-center/develop/get-activation-link-by-order-line-item)
 
    > [!NOTE]
    > Aby to zrobić w imieniu klienta, może być konieczne skopiowanie spersonalizowanego linku, wklejenie go w prywatnej przeglądarce i wprowadzenie poświadczeń klienta.
@@ -83,13 +112,22 @@ Wydawca powinien dostarczyć spersonalizowany link i kod autoryzacji, który ide
 
 W przypadku subskrybowania opartego na licencji produktu SaaS oferowanego przez wydawcę ISV na platformie handlowej można anulować subskrypcję w wyznaczonym okresie anulowania. Ten okres anulowania zmienia się w zależności od tego, czy masz subskrypcję miesięczną, czy roczną. Możesz również wybrać, czy subskrypcja ma być odnawiana automatycznie.
 
-Aby uzyskać więcej informacji na temat okresów anulowania, które mają zastosowanie, sposobu anulowania lub automatycznego odnawiania subskrypcji, zobacz [Anulowanie subskrypcji](create-a-new-subscription.md#cancel-a-subscription).
+Aby uzyskać więcej informacji na temat okresów anulowania, które mają zastosowanie, sposobu anulowania lub automatycznego odnawiania subskrypcji, zobacz:
+
+- [Anulowanie subskrypcji](create-a-new-subscription.md#cancel-a-subscription)
+
+- [Automatyczne odnawianie subskrypcji platformy handlowej](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
 
 ## <a name="add-or-remove-licenses-for-a-saas-subscription"></a>Dodawanie lub usuwanie licencji dla subskrypcji SaaS
 
 W przypadku ofert platformy handlowej SaaS można dodawać lub usuwać licencje użytkowników dla subskrypcji klienta.
 
-1. Zaloguj się do Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard)a następnie wybierz **pozycję Klienci** z menu nawigacji po lewej stronie.
+> [!NOTE]
+> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie zgrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz Getting around Partner Center (Poruszanie [się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
+
+1. Zaloguj się do pulpitu [Partner Center,](https://partner.microsoft.com/dashboard)a następnie wybierz **kafelek** Klienci.
 
 2. Wybierz odpowiedniego klienta, a następnie wybierz **pozycję Subskrypcje.** Zawiera listę wszystkich subskrypcji opartych na licencjach zakupionych dla klienta.
 
@@ -98,6 +136,20 @@ W przypadku ofert platformy handlowej SaaS można dodawać lub usuwać licencje 
 4. Na stronie szczegółów subskrypcji znajdź **pole Quantity (Ilość).** W tym miejscu można zwiększyć lub zmniejszyć liczbę licencji.
 
 5. Zmień ilość, a następnie wybierz pozycję **Prześlij**.
+
+#### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
+
+1. Zaloguj się do pulpitu Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard)a następnie wybierz **pozycję Klienci** z menu nawigacji po lewej stronie.
+
+2. Wybierz odpowiedniego klienta, a następnie wybierz **pozycję Subskrypcje.** Zawiera listę wszystkich subskrypcji opartych na licencjach zakupionych dla klienta.
+
+3. W kolumnie **Subskrypcja** wybierz subskrypcję, którą chcesz zmodyfikować.
+
+4. Na stronie szczegółów subskrypcji znajdź **pole Quantity (Ilość).** W tym miejscu można zwiększyć lub zmniejszyć liczbę licencji.
+
+5. Zmień ilość, a następnie wybierz pozycję **Prześlij**.
+
+* * *
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>Zarządzanie subskrypcjami przy użyciu Partner Center API
 

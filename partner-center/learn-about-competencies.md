@@ -1,7 +1,7 @@
 ---
-title: Microsoft gold, silver competency requirements (Wymagania dotyczące kompetencji Microsoft Gold, Silver)
+title: Rozróżnianie firmy przez uzyskanie kompetencji firmy Microsoft
 ms.topic: article
-ms.date: 01/26/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
 description: Dowiedz się, jak uzyskać status elitarnego partnera firmy Microsoft i przyciągnąć nowych klientów, spełniając wymagania dotyczące kompetencji, aby uzyskać złote i silver poziomy członkostwa.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2eecc1963c83ea3deb4caf5116b05aaccbf857af
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: b1adacebbf4c0f8b97187386def43a3006920c08
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958509"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075281"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Rozróżnianie firmy przez uzyskanie kompetencji firmy Microsoft
 
@@ -34,7 +34,20 @@ Uzyskanie kompetencji może być również wprowadzeniem do dalszych korzyści i
 
 ## <a name="check-your-status-as-you-attain-a-competency"></a>Sprawdzanie stanu podczas uzyskania kompetencji
 
-Możesz zobaczyć wymagania i to, co twoja firma osiągnęła, z obszaru kompetencji pulpitu Partner Center nawigacyjnego.
+Wymagania i działania firmy można sprawdzić w obszarze kompetencji pulpitu nawigacyjnego Partner Center nawigacyjnego.
+
+> [!NOTE]
+> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie zgrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz Getting around Partner Center (Poruszanie [się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
+
+1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home) Centrum partnerskiego.
+
+2. Wybierz **kafelek Członkostwo,** a następnie wybierz **pozycję Kompetencje.**
+
+3. Aby wyświetlić szczegóły, wybierz nazwę kompetencji i określoną opcję kompetencji. Możesz sprawdzić, co ukończono, a także zobaczyć pełne wymagania i linki do konkretnych egzaminów oraz dat weryfikacji wycofanych egzaminów.
+
+#### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/home) Centrum partnerskiego.
 
@@ -42,14 +55,16 @@ Możesz zobaczyć wymagania i to, co twoja firma osiągnęła, z obszaru kompete
 
 3. Aby wyświetlić szczegóły, wybierz nazwę kompetencji i określoną opcję kompetencji. Możesz sprawdzić, co ukończono, a także zobaczyć pełne wymagania i linki do konkretnych egzaminów oraz dat weryfikacji wycofanych egzaminów.
 
+* * *
+
 ## <a name="competency-areas"></a>Obszary kompetencji
 
-Aby uzyskać kompetencję w zakresie członkostwa silver lub gold, poproszono Cię o zademonstrować wiedzę w różnych obszarach działalności i technologii.
+Aby uzyskać kompetencję w zakresie członkostwa w firmie Silver lub Gold, poproszono Cię o zademonstrować wiedzę w różnych obszarach działalności i technologii.
 
 |**Warstwowy**            |**Kompetencji**                    |
 |--------------------|--------------------------------|
 |Aplikacje i infrastruktura| — Opracowywanie aplikacji<br/> — Integracja aplikacji<br/> — Platforma w chmurze<br/> — DevOps<br/> - Datacenter |
-|Aplikacje biznesowe | — Cloud Business Applications</br> — Enterprise planowania zasobów (ERP)</br> — Project i portfolio |
+|Aplikacje biznesowe | — Cloud Business Applications</br> — Enterprise planowania zasobów (ERP)</br> — Project portfolio |
 |Dane i AI| — Analiza danych<br/> — Platforma danych |
 |Nowoczesne miejsce pracy i zabezpieczenia | — Współpraca i zawartość<br/> — Komunikacja<br/> — Produktywność w chmurze<br/> — Enterprise Mobility Management (EMM)<br/> — Obsługa komunikatów<br/> — Zabezpieczenia<br/> — Rozwiązania w chmurze dla małych i średnich firm<br/> — Windows i urządzenia |
 
@@ -69,6 +84,6 @@ Aby dowiedzieć się więcej na temat tego, co jest potrzebne do uzyskania kompe
 
 - Dowiedz się, jak [płacić opłatę skojarzoną](mpn-pay-fee-silver-gold-competency.md) z członkostwem w kompetencji Silver lub Gold.
 
-- Wyświetl Partner Center Szczegółowe informacje [kompetencji,](insights-competencies-report.md) który pokazuje bieżący stan Twoich kompetencji.
+- Wyświetl Partner Center Szczegółowe informacje [kompetencje,](insights-competencies-report.md) który pokazuje bieżący stan Twoich kompetencji.
 
 - Uzyskaj odpowiedzi na [często zadawane pytania dotyczące](competencies-faq.yml) kompetencji.

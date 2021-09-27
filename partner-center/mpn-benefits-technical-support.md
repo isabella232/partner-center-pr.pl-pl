@@ -8,13 +8,13 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 06/17/2021
-ms.openlocfilehash: 29650a1b94cee04b4290d42ac19d2c3304e743ec
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.date: 09/27/2021
+ms.openlocfilehash: cfe35e6e1ae9f277150cfb21ba69d0fa35210123
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958402"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072871"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Pomoc techniczna dla produktów lokalnych lub w chmurze
 
@@ -29,9 +29,10 @@ ms.locfileid: "123958402"
 Strona [Korzyści techniczne](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) zawiera informacje o dwóch oddzielnych korzyściach:
 
 1. **Zdarzenia pomocy technicznej dotyczącej produktu — zobacz poniżej**
+
 2. Techniczne usługi przedsprzedażowe i wdrożeniowe (TPD) [— więcej informacji](technical-benefits.md)
 
-Ten artykuł jest dla członków zespołu Microsoft Partner Network (MPN), którzy muszą wiedzieć, jak aktywować korzyści techniczne, wyświetlić identyfikator dostępu i identyfikator kontraktu, wiedzieć, które produkty i wersje są obsługiwane, oraz jak rozpocząć proces tworzenia zdarzenia/biletu pomocy technicznej przy użyciu korzyści partnera MPN
+Ten artykuł jest dla członków zespołu Microsoft Partner Network (MPN), którzy muszą wiedzieć, jak aktywować korzyści techniczne, wyświetlić identyfikator dostępu i identyfikator kontraktu, wiedzieć, które produkty i wersje są obsługiwane, oraz jak rozpocząć proces tworzenia zdarzenia pomocy technicznej/biletu przy użyciu korzyści dla partnerów MPN
 
 ### <a name="steps"></a>Kroki
 
@@ -47,14 +48,17 @@ Ten artykuł jest dla członków zespołu Microsoft Partner Network (MPN), któr
 
 Jak wyświetlić lub aktywować korzyści techniczne w Partner Center:
 
+> [!NOTE]
+> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz Getting around Partner Center (Poruszanie [się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
+
 1. Zaloguj się przy użyciu konta skojarzonego z programem MPN do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard)
 
    > [!NOTE]
    > Jeśli Twoje konto jest skojarzone tylko z CSP i nie jest skojarzone z MPN, zostanie wyświetlony komunikat o błędzie "Nie masz autoryzacji do tej akcji". Musisz mieć skojarzone konto MPN.
 
-2. Rozwiń **pozycję Korzyści** w menu nawigacji po lewej stronie i wybierz pozycję [**Korzyści techniczne.**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) Na stronie Korzyści techniczne będą wyświetlane aktywne oferty członkostwa w usługach Gold, Silver Action Pack Microsoft.
-
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Korzyści techniczne, a następnie rozwiń pozycję Korzyści." :::
+2. Wybierz **kafelek Korzyści,** a następnie wybierz **pozycję Korzyści techniczne.** Na stronie Korzyści techniczne będą wyświetlane aktywne oferty członkostwa w usługach Gold, Silver Action Pack Microsoft.
 
    > [!NOTE]
    > Jeśli nie masz aktywnych ofert członkostwa, zostanie wyświetlony komunikat "Wygląda na to, że nie masz jeszcze żadnych korzyści". Jeśli Twoja firma ma aktywne oferty członkostwa, ale ich nie widzisz, zalogowano się przy użyciu niewłaściwego konta. Aby sprawdzić swoje konto, wybierz **ikonę Konto** w prawym górnym rogu strony i wybierz pozycję Zaloguj się **przy użyciu innego konta** (jeśli jest to wymagane).
@@ -72,6 +76,33 @@ Jak wyświetlić lub aktywować korzyści techniczne w Partner Center:
    > [!NOTE]
    > Identyfikator dostępu i identyfikator kontraktu będą potrzebne przy pierwszym użyciu pomocy technicznej produktów firmy Microsoft lub pomocy technicznej dotyczącej podpisów dla każdego konta. Po skojarzoną z kontem korzyści nie trzeba ponownie używać identyfikatora dostępu i identyfikatora kontraktu.  
 
+#### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
+
+1. Zaloguj się przy użyciu konta skojarzonego z programem MPN do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard)
+
+   > [!NOTE]
+   > Jeśli Twoje konto jest skojarzone tylko z CSP i nie jest skojarzone z MPN, zostanie wyświetlony komunikat o błędzie "Nie masz autoryzacji do tej akcji". Musisz mieć skojarzone konto MPN.
+
+2. Rozwiń **pozycję Korzyści** w menu nawigacji po lewej stronie i wybierz pozycję [**Korzyści techniczne.**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) Na stronie Korzyści techniczne będą wyświetlane aktywne oferty członkostwa w usługach Gold, Silver Action Pack Microsoft.
+
+   > [!NOTE]
+   > Jeśli nie masz aktywnych ofert członkostwa, zostanie wyświetlony komunikat "Wygląda na to, że nie masz jeszcze żadnych korzyści". Jeśli Twoja firma ma aktywne oferty członkostwa, ale ich nie widzisz, zalogowano się przy użyciu niewłaściwego konta. Aby sprawdzić swoje konto, wybierz **ikonę Konto** w prawym górnym rogu strony i wybierz pozycję Zaloguj się **przy użyciu innego konta** (jeśli jest to wymagane).
+
+3. Aby korzystać z pomocy technicznej produktów firmy Microsoft lub pomocy technicznej dotyczącej podpisów, musisz aktywować korzyść. Aby aktywować korzyść, wybierz **przycisk Aktywuj.** Konto użytkownika używane do aktywacji wymaga ról administratora globalnego lub administratora partnera MPN.
+
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="Korzyści techniczne wybierz pozycję Aktywuj." :::
+
+4. Identyfikator dostępu i identyfikator kontraktu będą wyświetlane wszystkim użytkownikom po pomyślnej aktywacji. Po wyświetlaniu identyfikatora dostępu i identyfikatora kontraktu możesz użyć pomocy technicznej produktów firmy Microsoft i pomocy technicznej dotyczącej podpisów produktów (członków Gold i Silver).
+
+   Jeśli przycisk Aktywuj jest nieaktywna, Twoje konto nie ma roli zabezpieczeń Administrator globalny ani Administrator partnera MPN. Użyj  [funkcji Zarządzania użytkownikami](https://partner.microsoft.com/dashboard/account/v3/usermanagement#users) i filtruj według pozycji Administrator globalny lub Administrator partnera MPN, aby znaleźć użytkownika w celu aktywowania korzyści.
+
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="Aktywowane korzyści techniczne pokazują identyfikator dostępu i identyfikator kontraktu." :::
+
+   > [!NOTE]
+   > Identyfikator dostępu i identyfikator kontraktu będą potrzebne przy pierwszym użyciu pomocy technicznej produktów firmy Microsoft lub pomocy technicznej dotyczącej podpisów dla każdego konta. Po skojarzoną z kontem korzyści nie trzeba ponownie używać identyfikatora dostępu i identyfikatora kontraktu.  
+
+* * *
+
 ## <a name="technical-support-entitlement-and-supported-products"></a>Uprawnienia do pomocy technicznej i obsługiwane produkty
 
 Pomoc techniczna zapewnia rozwiązywanie problemów dotyczących określonego problemu, komunikatu o błędzie lub funkcji, które nie działają zgodnie z oczekiwaniami. Pomoc techniczna i pomoc techniczna Signature Cloud Support MPN może być używana dla określonych produktów i wersji firmy Microsoft (nie wszystkie produkty i wersje są obsługiwane).
@@ -79,7 +110,7 @@ Pomoc techniczna zapewnia rozwiązywanie problemów dotyczących określonego pr
 > [!NOTE]
 > Aby można było z nich korzystać, należy aktywować korzyści pomocy technicznej.
 
-W ramach członkostwa w Microsoft Partner Network partnerzy są uprawnieni do następującej pomocy technicznej
+W ramach członkostwa w Microsoft Partner Network partnerzy są uprawnieni do uzyskania następującej pomocy technicznej
 
 |  Pomoc techniczna |  Action Pack |  Kompetencja Silver | Kompetencja Gold |
 |:------------------:|:------------:|:------------------:|:---------------:|
@@ -104,11 +135,11 @@ Te informacje można uzyskać tylko z lokalnego portalu pomocy technicznej dla f
 
 Musisz użyć pomocy technicznej dla firm i rozpocząć proces tworzenia lokalnego zdarzenia pomocy technicznej. Nie tworzymy wniosku o pomoc techniczną, ponieważ nie ukończymy tego procesu. Potrzebne informacje są wyświetlane w kroku 2.
 
-1. Otwórz [pomoc techniczną dla firm,](https://support.serviceshub.microsoft.com/supportforbusiness/create) wybierz system Windows 10 i wprowadź fikcyjne informacje
+1. Otwórz [program Pomoc techniczna dla firm,](https://support.serviceshub.microsoft.com/supportforbusiness/create) wybierz Windows 10 i wprowadź fikcyjne informacje.
 
 2. Jeśli twoja umowa pomocy technicznej jest już skojarzona z Twoim kontem, powinny zostać wyświetlone zdarzenia pomocy technicznej. W przypadku pomocy technicznej w środowisku lokalnym powinna być wyświetlana umowa pomocy technicznej dla partnerów (chyba że nie jest już ważna) wraz z datą rozpoczęcia, datą zakończenia i pozostałymi zdarzeniami.
 
-Jeśli musisz skojarzyć umowę pomocy technicznej, rozwiń pozycję "Czy  musisz kupić lub dodać więcej planów pomocy technicznej" i wybierz przycisk Dodaj kontrakt, aby wprowadzić identyfikator dostępu i identyfikator kontraktu. Rozwiń **j. Czy chcesz zobaczyć niedostępne plany pomocy technicznej?**" aby wyświetlić informacje o sygnaturze partnera. W tym miejscu będzie wyświetlana pomoc techniczna dla partnerów tylko wtedy, gdy kontrakty wygasły, nie pozostały żadne zdarzenia lub wybrano stary produkt lokalnie (zobacz aka.ms/n-1 [produktów](https://aka.ms/n-1) pomocy technicznej)
+Jeśli musisz skojarzyć umowę pomocy technicznej, rozwiń pozycję "Czy  musisz kupić lub dodać więcej planów pomocy technicznej" i wybierz przycisk Dodaj kontrakt, aby wprowadzić identyfikator dostępu i identyfikator kontraktu. Rozwiń **j. Czy chcesz zobaczyć niedostępne plany pomocy technicznej?**" aby wyświetlić informacje o sygnaturze partnera. W tym miejscu będzie wyświetlana pomoc techniczna dla partnerów tylko wtedy, gdy kontrakty wygasły, nie pozostały żadne zdarzenia lub wybrano stary produkt lokalnie (zobacz [aka.ms/n-1](https://aka.ms/n-1) produktów pomocy technicznej)
 
 Aby uzyskać bardziej szczegółowe informacje, zobacz [How many Partner support incidents are remaining? (Ile](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)jest pozostałych zdarzeń pomocy technicznej partnerów?).
 
@@ -127,10 +158,10 @@ Użytkownicy z **rolą Agent administratora** mogą wybrać pozycję [Klienci](h
 
 ### <a name="azure-portal-error-access-id-is-already-associated-"></a>Azure Portal "Identyfikator dostępu jest już skojarzony..."
 
-Gdy używasz konta Azure Portal, użyj konta Signature Cloud Support, wybierając pozycję Pomoc i obsługa techniczna, Plany pomocy technicznej, a następnie pozycję "Połącz korzyści pomocy technicznej", a następnie wprowadź identyfikator dostępu i identyfikator kontraktu.
+W przypadku korzystania z Azure Portal możesz użyć konta Signature Cloud Support, wybierając pozycję Pomoc i obsługa techniczna, Plany pomocy technicznej, a następnie pozycję "Połącz korzyści pomocy technicznej", a następnie wprowadź identyfikator dostępu i identyfikator kontraktu.
 
 > [!NOTE]
-> Jeśli masz konto Action Pack Microsoft, nie otrzymasz pomocy technicznej dotyczącej chmury, ponieważ nie obejmuje Signature Cloud Support — tylko pomoc techniczna firmy Microsoft (lokalna)
+> Jeśli masz usługę Microsoft Action Pack nie otrzymasz pomocy technicznej dotyczącej chmury, ponieważ nie obejmuje ona usługi Signature Cloud Support — tylko pomoc techniczna firmy Microsoft (lokalna)
 
 Może zostać wyświetlony komunikat o błędzie `This Access ID is already associated to an account. Please contact your Technical Account Manager to obtain a new Access ID` . Ten komunikat o błędzie jest nieprawidłowy i należy go zignorować. Zażądaliśmy wyłączenia błędu i zastąpienia go przydatnym komunikatem o błędzie diagnostycznym.
 

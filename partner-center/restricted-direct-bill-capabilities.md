@@ -1,7 +1,7 @@
 ---
 title: Ograniczone możliwości rozliczania bezpośredniego
 ms.topic: article
-ms.date: 10/09/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
 description: Dowiedz się więcej Dostawca rozwiązań w chmurze (CSP) dotyczące partnerów rozliczanych bezpośrednio oraz dowiedz się, co zrobić, aby uniknąć ograniczenia możliwości. Dowiedz się, czy Twoje możliwości zostały ograniczone.
@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edb67f6ae3054bf5214611ab3ac5ef4ed6713aef
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: ebd364c1268217579316338e884d96491ddd70fb
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248154"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070744"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Ograniczone możliwości dotyczące rachunku bezpośredniego i wymagania wymagane dla partnerów rozliczanych bezpośrednio w programie CSP
 
@@ -33,7 +33,7 @@ Aby sprawdzić, czy dostęp z dzierżawy partnera z rozliczeniami bezpośrednimi
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard) Centrum partnerskiego.
 
-2. Przejdź do **ustawień konta Profil**  >  **prawny.**
+2. Wybierz ikonę Ustawienia koła zębatego, **wybierz pozycję Ustawienia konta,** a następnie wybierz **pozycję Profil prawny.**
 
 3. W **obszarze Informacje o** programie **odszukaj Microsoft Cloud Solution Provider stan .**
 
@@ -41,7 +41,7 @@ Aby sprawdzić, czy dostęp z dzierżawy partnera z rozliczeniami bezpośrednimi
 
 ## <a name="affected-direct-bill-capabilities"></a>Możliwości rachunku bezpośredniego, których dotyczy problem
 
-Jeśli możliwości rachunku bezpośredniego zostały ograniczone, nie możesz już robić nowych zakupów dla klientów w Partner Center. To ograniczenie obejmuje:
+Jeśli możliwości dotyczące rachunku bezpośredniego zostały ograniczone, nie możesz już robić nowych zakupów dla klientów w Partner Center. To ograniczenie obejmuje:
 
 - Subskrypcje platformy Azure
 

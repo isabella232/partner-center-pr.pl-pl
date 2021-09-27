@@ -1,7 +1,7 @@
 ---
 title: Microsoft Partner Network faktur & podatków
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
 description: Dowiedz się, jak wyświetlić lub pobrać fakturę za członkostwo w programie MPN, jak przesłać fakturę do zwolnienia z podatku oraz jak wysłać do firmy Microsoft numer NIP.
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5448932c9016f346f18882ad0070108f684e941
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: eb740c7362be9cadbe70a8be6ee0176e7aa562fc
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958678"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071812"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Faktury i podatki w Microsoft Partner Network
 
@@ -24,32 +24,74 @@ ms.locfileid: "123958678"
 
 Aby wyświetlić lub pobrać końcową fakturę za zamówienie związane z członkostwem w grupie Microsoft Partner Network, skorzystaj z poniższych Microsoft Partner Network. Faktury są ogólnie dostępne 10 dni po zakończeniu płatności. Aby uzyskać dodatkowe informacje, skontaktuj się z regionalnym centrum obsługi.  
 
-Aby wykonać tę procedurę, administrator globalny lub administratorem partnera MPN. 
+Aby wykonać tę procedurę, administrator globalny być administratorem lub administratorem partnera MPN.
 
-1.  Zaloguj się [Partner Center](https://partner.microsoft.com/dashboard/home) przy użyciu konta służbowego i wybierz **pozycję MPN** w menu po lewej stronie.
+> [!NOTE]
+> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-4.  Na liście rozwijanej wybierz pozycję **Oferty członkostwa,** aby wyświetlić oferty dostępne do zakupu i faktury dostępne dla bieżącego roku rejestracji. Aby wyświetlić faktury z poprzednich lat, wybierz pozycję **Wygasłe**.
+#### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
-6.  Wybierz fakturę, a następnie wybierz pozycję **Pobierz fakturę.** 
+1. Zaloguj się do [Partner Center](https://partner.microsoft.com/dashboard/home) przy użyciu konta służbowego i wybierz **kafelek Członkostwo.**
+
+2. Wybierz **pozycję Oferty członkostwa,** aby wyświetlić oferty dostępne do zakupu i faktury dostępne dla bieżącego roku rejestracji. Aby wyświetlić faktury z poprzednich lat, wybierz pozycję **Wygasłe**.
+
+3. Wybierz fakturę, a następnie wybierz pozycję **Pobierz fakturę.**
+
+#### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
+
+1. Zaloguj się, [aby Partner Center](https://partner.microsoft.com/dashboard/home) przy użyciu konta służbowego, a następnie wybierz **pozycję MPN** w menu po lewej stronie.
+
+2. Na liście rozwijanej wybierz pozycję **Oferty członkostwa,** aby wyświetlić oferty dostępne do zakupu i faktury dostępne dla bieżącego roku rejestracji. Aby wyświetlić faktury z poprzednich lat, wybierz pozycję **Wygasłe**.
+
+3. Wybierz fakturę, a następnie wybierz pozycję **Pobierz fakturę.**
+
+* * *
 
 ## <a name="file-a-tax-exemption"></a>File a tax exemption (Jak złożyć zwolnienie z podatku)
 
-1.  W Partner Center wybierz pozycję **Ustawienia**.
-    - Aby znaleźć swój identyfikator MPN, wybierz **pozycję Profil partnera.**
+> [!NOTE]
+> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-2.  Utwórz nowy bilet pomocy technicznej. W Partner Center wybierz pozycję **Żądania obsługi,** wybierz pozycję **Partner Center żądania,** a następnie wybierz **pozycję Nowe żądanie.**
+#### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
-3.  Wypełnij formularz. W przypadku **typu problemu wybierz** pozycję Nie można **zarządzać moim profilem.** W opisie uwzględnij swój identyfikator MPN.
+1. Na [pulpicie Partner Center nawigacyjnym](https://partner.microsoft.com/dashboard/home)wybierz **kafelek Pomoc i obsługa techniczna,** a następnie pozycję **Nowe żądanie.**
 
-4.  Po przesłaniu biletu firma Microsoft napisze do Ciebie wiadomość e-mail, aby uzyskać więcej informacji. Gdy odpowiesz, dołącz odpowiednią dokumentację techniczną dla certyfikatów zwolnienia z podatku.
+2. Wypełnij formularz. W przypadku **typu problemu wybierz** pozycję Nie można **zarządzać moim profilem.** W opisie uwzględnij swój identyfikator MPN.
+
+3. Po przesłaniu biletu firma Microsoft napisze do Ciebie wiadomość e-mail, aby uzyskać więcej informacji. Gdy odpowiesz, dołącz odpowiednią dokumentację techniczną dla certyfikatów zwolnienia z podatku.
+
+#### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
+
+1. W Partner Center wybierz pozycję **Pomoc techniczna** z menu nawigacji, a następnie wybierz pozycję Partner Center **żądania**, a następnie wybierz pozycję **Nowe żądanie.**
+
+2. Wypełnij formularz. W przypadku **typu problemu wybierz** pozycję Nie można **zarządzać moim profilem.** W opisie uwzględnij swój identyfikator MPN.
+
+3. Po przesłaniu biletu firma Microsoft napisze do Ciebie wiadomość e-mail, aby uzyskać więcej informacji. Gdy odpowiesz, dołącz odpowiednią dokumentację techniczną dla certyfikatów zwolnienia z podatku.
+
+* * *
 
 ## <a name="send-microsoft-your-vat-id-number"></a>Wysyłanie numeru VAT firmy Microsoft
 
-1.  Na pulpicie Partner Center [nawigacyjnym](https://partner.microsoft.com/dashboard/home)wybierz pozycję **Oferty członkostwa,** a następnie wybierz pozycję **Dostępne.** 
+> [!NOTE]
+> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-2.  Wybierz **pozycję Dodaj identyfikator VAT.** 
+#### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
-3.  Wprowadź identyfikator VAT swojej firmy, wybierz pozycję **Dodaj,** a następnie wybierz pozycję **Dalej.** 
+1. Na pulpicie Partner Center [nawigacyjnym](https://partner.microsoft.com/dashboard/home)wybierz kafelek **Członkostwo,** wybierz pozycję **Oferty członkostwa,** a następnie wybierz pozycję **Dostępne.**
+
+2. Wybierz **pozycję Dodaj identyfikator VAT.**
+
+3. Wprowadź identyfikator VAT swojej firmy, wybierz pozycję **Dodaj,** a następnie wybierz pozycję **Dalej.**
+
+#### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
+
+1. Na pulpicie Partner Center [nawigacyjnym](https://partner.microsoft.com/dashboard/home)wybierz pozycję **Oferty członkostwa,** a następnie wybierz pozycję **Dostępne.**
+
+2. Wybierz **pozycję Dodaj identyfikator VAT.**
+
+3. Wprowadź identyfikator VAT swojej firmy, wybierz pozycję **Dodaj,** a następnie wybierz pozycję **Dalej.**
+
+* * *
 
 ## <a name="next-steps"></a>Następne kroki
 

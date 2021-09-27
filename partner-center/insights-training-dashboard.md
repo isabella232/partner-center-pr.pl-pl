@@ -5,16 +5,16 @@ ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Eksploruj Partner Center pulpit nawigacyjny trenowania. Szkolenie jest jednym z raportów dostępnych w Partner Center Szczegółowe informacje (PCI).
-author: sroy
-ms.author: sroy
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8749bdc1c2249f97d5db288f953eded1c4c06b02
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 999659497df714c05b6ed15ccb6d306655dd9786
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958282"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073218"
 ---
 # <a name="trainings-dashboard"></a>Pulpit nawigacyjny szkolenia
 
@@ -36,20 +36,20 @@ Sekcja podsumowania przedstawia liczbowy widok migawek różnych wskaźników wy
 
 :::image type="content" source="images/insights/training-dashboard-summary.png" alt-text="Podsumowanie.":::
 
-- **Osoby z certyfikatami**: reprezentuje liczbę odrębnych osób z certyfikatami w firmie.
+- **Osoby z certyfikatami:** reprezentuje liczbę odrębnych osób z certyfikatami w firmie.
 - **Liczba certyfikatów:** reprezentuje łączną liczbę certyfikatów podjętych przez osoby w firmie.
 - **Osoby z ocenami**: reprezentuje liczbę odrębnych osób z poświadczeniami oceny w firmie. 
 - **Liczba ocen:** reprezentuje łączną liczbę ocen przeprowadzonych przez poszczególne osoby w firmie.
-- **Osoby z egzaminami**: reprezentuje liczbę odrębnych osób z poświadczeniami egzaminu w firmie. 
+- **Osoby z egzaminami:** reprezentuje liczbę odrębnych osób z poświadczeniami egzaminu w firmie. 
 - **Liczba egzaminów:** reprezentuje łączną liczbę egzaminów zdanych przez osoby w firmie.
 
 ## <a name="training-performance"></a>Wydajność trenowania
 
-Wyniki trenowania przedstawia liczbę osób z miesiąca na miesiąc i szkolenia ukończone przez osoby w firmie. Jest on podzielony według certyfikacji, ocen i egzaminów w postaci wykresu dla wybranego zakresu dat. Oś X reprezentuje miesiące dla wybranego zakresu dat. Oś Y reprezentuje odrębną liczbę osób i liczbę podjętych szkoleń dla wybranego typu trenowania. Wybierz odpowiednie karty nad wykresem, aby wyświetlić podział według typu trenowania. Dane wykresu można pobrać za pomocą ikony pobierania w formacie TSV dla wybranego zakresu dat.
+Wyniki trenowania przedstawia liczbę osób z miesiąca na miesiąc i szkolenia ukończone przez osoby w firmie. Jest on podzielony według certyfikatów, ocen i egzaminów w postaci wykresu dla wybranego zakresu dat. Oś X reprezentuje miesiące dla wybranego zakresu dat. Oś Y reprezentuje odrębną liczbę osób i liczbę wytnych szkoleń dla wybranego typu trenowania. Wybierz odpowiednie karty nad wykresem, aby wyświetlić podział według typu trenowania. Dane wykresu można pobrać za pomocą ikony pobierania w formacie TSV dla wybranego zakresu dat.
 
 :::image type="content" source="images/insights/training-dashboard-training-performance.png" alt-text="Wydajność trenowania.":::
 
-## <a name="individuals-performance"></a>Wydajność poszczególnych osób
+## <a name="individuals-performance"></a>Wydajność użytkowników indywidualnych
 
 Sekcja Wydajności osób przedstawia szczegółowe informacje o szkoleniach poszczególnych osób w firmie dla wybranego zakresu dat. Wyszukaj i wybierz imię i nazwisko osoby w lewym panelu sekcji. Szczegóły szkolenia dla wybranej osoby są wyświetlane na prawym panelu sekcji.
 
@@ -63,4 +63,4 @@ Sekcja Wydajności osób przedstawia szczegółowe informacje o szkoleniach posz
 [Raporty w Partner Center Szczegółowe informacje](partner-center-insights.md)
 
 >[!NOTE] 
-> Możesz pobrać nieprzetworzone dane, które będą zasilać ten raport, z sekcji Pobieranie raportów na Szczegółowe informacje nawigacyjnym. [Więcej informacji](insights-download-reports.md)
+> Możesz pobrać nieprzetworzone dane, które są zasilane z tego raportu, z sekcji Pobieranie raportów na Szczegółowe informacje nawigacyjnym. [Więcej informacji](insights-download-reports.md)

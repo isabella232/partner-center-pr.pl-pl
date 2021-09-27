@@ -3,20 +3,20 @@ title: Analizowanie użycia platformy Azure w celu rozwoju firmy
 description: Dowiedz się, jak Partner Center, aby uzyskać dane dotyczące użycia subskrypcji platformy Azure klientów. Dane obejmują sprzedane, zagrożone i w użyciu subskrypcje.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: amitravat
-ms.author: amrava
+author: kshitishsahoo
+ms.author: ksahoo
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: d26fe1c71a574ed58ca227979cda445950873596
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: d11e673658ce52bdd41732a4e5b678ff681326a3
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247336"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072458"
 ---
-# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Uzyskiwanie danych dotyczących sposobu działania klientów i subskrypcji platformy Azure
+# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Uzyskiwanie danych o tym, jak dobrze radzi sobie klient i subskrypcje platformy Azure
 
 
 
@@ -24,7 +24,7 @@ ms.locfileid: "126247336"
 
 Dane wpływają na decyzje biznesowe. Użyj metryk na stronie użycia **platformy Azure,** aby zidentyfikować sukcesy i obszary, które wymagają większej uwagi. Użyj tych informacji podczas planowania nowych celów biznesowych.
 
-Aby uzyskać dostęp do użycia **platformy Azure,** zaloguj się do Partner Center [pulpitu nawigacyjnego.](https://partner.microsoft.com/dashboard) Wybierz **pozycję Analiza** z menu Partner Center, a następnie wybierz pozycję Użycie platformy **Azure.**
+Aby uzyskać dostęp do użycia **platformy Azure,** zaloguj się do pulpitu [Partner Center,](https://partner.microsoft.com/dashboard)wybierz pozycję **Analiza,** a następnie **pozycję Użycie platformy Azure.**
 
 > [!NOTE]
 > Analiza użycia platformy Azure jest dostępna tylko dla partnerów w Dostawca rozwiązań w chmurze programie.
@@ -43,7 +43,7 @@ Aby uzyskać dostęp do użycia **platformy Azure,** zaloguj się do Partner Cen
 
 ## <a name="azure-subscriptions-at-risk"></a>Zagrożone subskrypcje platformy Azure
 
-Ta sekcja wskazuje przewidywane ryzyko zmian dla subskrypcji platformy Azure. Te informacje mogą być używane przez partnerów do angażowania klientów i minimalizowania rezygnacji
+Ta sekcja wskazuje przewidywane ryzyko rezygnacji z subskrypcji platformy Azure. Te informacje mogą być używane przez partnerów do angażowania klientów i minimalizowania rezygnacji
 
 ## <a name="subscriptions-without-usage"></a>Subskrypcje bez użycia
 
@@ -60,8 +60,8 @@ Ta sekcja wskazuje przewidywane ryzyko zmian dla subskrypcji platformy Azure. Te
 
 ## <a name="azure-subscription-retention"></a>Przechowywanie subskrypcji platformy Azure
 
-- Liczba odnowień subskrypcji.
+- Liczba odnawianych subskrypcji.
 
  ## <a name="next-steps"></a>Następne kroki
 
-- [Kup plan platformy Azure dla klientów, & uzyskać dostęp do najnowszych usług platformy Azure ze stawkami płatności zgodnie z użyciem](purchase-azure-plan.md)
+- [Kup plan platformy Azure dla klientów, & uzyskać dostęp do najnowszych usług platformy Azure po stawkach płatności zgodnie z użyciem](purchase-azure-plan.md)

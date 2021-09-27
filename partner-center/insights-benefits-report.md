@@ -5,18 +5,18 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Zobacz, jakie korzyści dla partnerów firmy Microsoft zostały przyznane, aby pomóc w rozwoju firmy, zwiększyć wydajność i rozwinąć umiejętności twojego zespołu.
-author: shthota77
-ms.author: shthota
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 457a5197ea9bcfaf2d9c936b7483b33688b1cb41
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 759d5d5f1d258325a00bbc53833059de61707c77
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958257"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074453"
 ---
-# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Raport korzyści dostępny na pulpicie Partner Center Szczegółowe informacje nawigacyjnym
+# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Raport korzyści dostępny na pulpicie nawigacyjnym Partner Center Szczegółowe informacje nawigacyjnym
 
 **Odpowiednie role:** Administrator globalny | Agent administracyjny | Przeglądarka raportów | Przeglądarka raportów dla kierownictwa
 
@@ -38,7 +38,7 @@ W raporcie Korzyści można wizualizować następujące wykresy:
 
 ## <a name="summary"></a>Podsumowanie
 
-Sekcja Podsumowanie zawiera korzyści przyznane w ramach licencjonowanego oprogramowania, usług w chmurze (spoza platformy Azure), subskrypcji usługi Visual Studio, pomocy technicznej i niektórych usług lub ofert w ramach programu Go-To-Market.
+Sekcja Podsumowanie zawiera korzyści przyznane w ramach licencjonowanego oprogramowania, usług w chmurze (spoza platformy Azure), subskrypcji usługi Visual Studio, pomocy technicznej oraz niektórych usług lub ofert w ramach programu Go-To-Market.
 
 Przykład: Microsoft Partner Network (MPN) kwalifikują się do pomocy technicznej dotyczącej produktów i produktów w chmurze. Partnerzy, którzy zdają kompetencję Silver, mają wsparcie techniczne dla 15 zdarzeń w przypadku produktów w środowisku lokalnym. W razie potrzeby mogą korzystać z tej pomocy technicznej. 
 
@@ -59,7 +59,7 @@ Ten wykres przedstawia miesięczny trend licencji przyznanych w wybranym zakresi
 
 ## <a name="visual-studio-subscriptions"></a>Subskrypcje programu Visual Studio
 
-Ten wykres przedstawia miesięczny trend subskrypcji Visual Studio aktywowanych względem subskrypcji, które zostały przydzielone w wybranym zakresie dat.
+Ten wykres przedstawia trend miesięcznych subskrypcji Visual Studio aktywowanych względem subskrypcji przydzielonych w wybranym zakresie dat.
 
 Wybierz kartę w górnej części wykresu, aby wyświetlić trend określonej Visual Studio subskrypcji, która została udzielona jako korzyści. Kolumny na wykresie reprezentują licencje używane dla subskrypcji. Wykres liniowy reprezentuje ogólną liczbę licencji przypisanych do subskrypcji.
 
@@ -77,7 +77,7 @@ Wybierz kartę w górnej części wykresu, aby wyświetlić trend konkretnej prz
 
 Ten wykres przedstawia miesięczny trend ofert lub usług w ramach wejścia na rynek aktywowanych względem przydzielonych w wybranym zakresie dat i dla wybranej oferty lub kategorii usługi w ramach wejścia na rynek.
 
-Wybierz ofertę lub kategorię usługi Przejdź na rynek z listy rozwijanej w górnej części wykresu, aby wyświetlić trend wybranych usług przejdź na rynek przyznanych Twojej firmie. Kolumny na wykresie reprezentują aktywowane oferty lub usługi w trybie go-to-market. Wykres liniowy przedstawia ogólną ofertę lub usługi dla produktów na rynek przyznane Twojej firmie.
+Wybierz ofertę lub kategorię usługi Przejdź na rynek z listy rozwijanej w górnej części wykresu, aby wyświetlić trend wybranych usług przejdź na rynek przyznanych Twojej firmie. Kolumny na wykresie reprezentują aktywowane oferty lub usługi w trybie go-to-market. Wykres liniowy przedstawia ogólną ofertę lub usługi dla usług oferowanych na platformie Go-To-Market dla Twojej firmy.
 
 :::image type="content" source="images/insights/benefits-go-to-market.png" alt-text="Oferty z usługą Go-To-Market.":::
 

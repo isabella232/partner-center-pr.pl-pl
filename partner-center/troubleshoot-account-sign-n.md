@@ -1,39 +1,38 @@
 ---
 title: Rozwiązywanie problemów z konfigurowaniem konta Partner Center lub odnawianiem MPN
 ms.topic: how-to
-ms.date: 08/18/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-account
+ms.subservice: partnercenter-enroll
 description: Rozwiązywanie problemów podczas próby zarejestrowania się w Partner Center. Odpowiada na wyzwania związane z metodami płatności, zapomnia hasłami i nie tylko.
-author: ArpithaKanuganti
-ms.author: v-arkanu
+author: ParthP
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 08672379e300eccf18a0a1f0cfc1e41b4b7dbc91
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 1f16ce1c2d765530618f8c97ccfe7e871de3c0ab
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247281"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072964"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Rozwiązywanie problemów z konfiguracją konta lub odnawianiem MPN
 
 **Odpowiednie role:** Administrator globalny | Administrator partnera MPN
- 
+
 Poniżej znajdują się sugestie dotyczące rozwiązywania typowych problemów występujących podczas konfigurowania Partner Center konta.
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Co się stanie, jeśli migrujesz z Partner Membership Center i nie możesz edytować żadnych pól informacji o firmie
 
-W przypadkach, gdy firma jest już obecna w Partner Center (na przykład na koncie Dostawca rozwiązań w chmurze (CSP) — zostanie wyświetlone ekran tylko do odczytu. Na tym ekranie zostaną wyświetlane wszystkie informacje o firmie, które istnieją w Partner Center.
+W przypadkach, gdy firma jest już obecna w Partner Center (na przykład na koncie Dostawca rozwiązań w chmurze (CSP) — zostanie wyświetlone ekran tylko do odczytu. Na tym ekranie będą wyświetlane wszystkie informacje o firmie, które istnieją w Partner Center.
 
 Nie można zmienić szczegółów na tym ekranie. Jest to projektowe, a nie błędne.
 
 Aby kontynuować, wybierz **pozycję Zaakceptuj,** a następnie wybierz pozycję **Kontynuuj.**
 
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Jeśli dział IT wyłączył opcji Zarejestruj **się w Partner Center**
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Jeśli dział IT wyłączył opcji Zarejestruj **się w celu Partner Center**
-
-Ten komunikat jest wyświetlany, ponieważ użytkownicy marketingowi są wyłączeni lub w dzierżawie usługi Azure Active Directory (AD). Administrator globalny konta usługi Azure AD może włączyć wymagane funkcje, uruchamiając następujące polecenie programu PowerShell:
+Zostanie wyświetlony ten komunikat, ponieważ użytkownicy marketingowi są wyłączeni lub w dzierżawie Azure Active Directory (AD). Administrator globalny konta usługi Azure AD może włączyć wymagane funkcje, uruchamiając następujące polecenie programu PowerShell:
 
 **Set-MsolCompanySettings -AllowEmailVerifiedUsers $true -AllowAdHocSubscriptions $true**
 
@@ -47,23 +46,36 @@ Jeśli nie pamiętasz hasła, na stronie logowania wybierz pozycję Nie **możes
 
 Ten komunikat o błędzie jest zwykle wyświetlany, jeśli przypadkowo używasz znaków specjalnych, spacji lub kodu kraju w firmowym numerze telefonu. Wartość wprowadzona w polu Telefon Number może zawierać maksymalnie 10 znaków.
 
-
 ### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>Podczas zakupu karty kredytowej jest wyświetlany komunikat o błędzie z informacją, że "Twoje zamówienie zostało odrzucone. Sprawdź swoje informacje"
-
 
 Zawsze używaj adresu odpowiadającego karcie kredytowej, a nie jednostki prawnej. Upewnij się również, że kod pocztowy jest poprawny i odpowiada adresowi, z których korzystasz.
 
-## <a name="you-want-to-switch-from-offline-payment-to-online-payment-method"></a>Chcesz przełączyć się z płatności w trybie offline na formę płatności online 
+## <a name="you-want-to-switch-from-offline-payment-to-online-payment-method"></a>Chcesz przełączyć się z płatności w trybie offline na formę płatności online
 
 Musisz anulować oryginalne zamówienie i ponownie je zkupić przy użyciu preferowanej formy płatności.
 
 Aby anulować zamówienie:
 
-1. Na pulpicie Partner Center nawigacyjnym wybierz **kartę Oferty** członkostwa.
+> [!NOTE]
+> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie zgrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz Getting around Partner Center (Poruszanie [się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-2. Wybierz **pozycję Anuluj zamówienie**
+#### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
+
+1. Na [pulpicie Partner Center nawigacyjnym](https://partner.microsoft.com/dashboard)wybierz **kafelek** Członkostwo.
+
+2. Wybierz **pozycję Oferty członkostwa,** a następnie **pozycję Anuluj zamówienie.**
 
 3. Zostanie wyświetlone okno potwierdzenia z potwierdzeniem, które należy potwierdzić, aby anulować początkowe zamówienie.
+
+#### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
+
+1. Na [pulpicie Partner Center nawigacyjnym](https://partner.microsoft.com/dashboard)wybierz **kartę Oferty** członkostwa.
+
+2. Wybierz **pozycję Anuluj zamówienie.**
+
+3. Zostanie wyświetlone okno potwierdzenia z potwierdzeniem, które należy potwierdzić, aby anulować początkowe zamówienie.
+
+* * *
 
 ## <a name="next-steps"></a>Następne kroki
 

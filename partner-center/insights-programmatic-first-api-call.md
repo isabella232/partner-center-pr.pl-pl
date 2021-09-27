@@ -4,16 +4,16 @@ description: Przykłady, w których dowiesz się, jak korzystać z interfejsu AP
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 9aac83645051f3e8f32945ae908ba1fe47c08d13
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 622cb3eb44b5d89b8721c223aac44635a1782ac7
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246790"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071861"
 ---
 # <a name="make-your-first-api-call-to-access-partner-insights-analytics-data"></a>Pierwsze wywołanie interfejsu API w celu uzyskania dostępu do danych analitycznych szczegółowych informacji partnerów
 
