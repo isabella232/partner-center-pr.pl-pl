@@ -1,100 +1,206 @@
-### YamlMime:Landing
+### YamlMime:Hub
 title: Dokumentacja Centrum partnerskiego
-summary: Centrum partnerskie to miejsce, w którym można rozwijać swoją firmę w ramach programów Microsoft Partner Network (MPN), Cloud Solution Provider (CSP) i nie tylko.
+summary: 'Centrum partnerskie to miejsce, w którym można rozwijać swoją firmę w ramach programów Microsoft Partner Network (MPN), Cloud Solution Provider (CSP) i nie tylko.'
 metadata:
   title: Dokumentacja Centrum partnerskiego
-  description: Centrum partnerskie to miejsce, w którym można rozwijać swoją firmę w ramach programów Microsoft Partner Network (MPN), Cloud Solution Provider (CSP) i nie tylko.
-  ms.service: partner-dashboard
-  ms.topic: landing-page
-  author: JasonGroce
+  description: 'Partner Center to miejsce, w którym rozwijasz swoją firmę za pośrednictwem programu Microsoft Partner Network (MPN), programu Dostawca rozwiązań w chmurze (CSP), programu komercyjnej platformy handlowej i innych.'
+  services: service
   ms.author: jasongroce
-  ms.date: 02/01/2021
-  ms.openlocfilehash: efc7956295944a40a9574c7678da8ef20cd04fd9
-  ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
-  ms.translationtype: MT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/13/2021
-  ms.locfileid: "126249664"
-landingContent:
-- title: Wprowadzenie do Centrum partnerskiego
-  linkLists:
-  - linkListType: get-started
-    links:
-    - text: Co to jest Centrum partnerskie?
+  ms.date: 09/01/2021
+highlightedContent:
+  items:
+    - title: Centrum partnerskie
+      itemType: get-started
       url: overview.md
-    - text: Ogłoszenia Centrum partnerskiego
-      url: announcements/index.md
-    - text: Partnerstwo z firmą Microsoft
-      url: mpn-overview.md
-    - text: Tworzenie konta w Centrum partnerskim
+    - title: Microsoft Partner Network
+      itemType: get-started
       url: mpn-create-a-partner-center-account.md
-    - text: Zarządzanie korzyściami i ofertami członkostwa w programie MPN
-      url: manage-your-partner-network-benefits.md
-- title: Rozwijanie firmy
-  linkLists:
-  - linkListType: concept
-    links:
-    - text: Nawiązywanie relacji z klientami
-      url: connect-with-your-customers.md
-    - text: Program Cloud Solution Provider (CSP)
-      url: csp-overview.md
-    - text: Uzyskiwanie skierowań klientów
-      url: manage-leads.md
-    - text: Programy zachęt
-      url: incentives-get-started-intro.md
-    - text: Zarządzanie możliwościami wspólnej sprzedaży
-      url: manage-co-sell-opportunities.md
-    - text: Zdobywanie zaawansowanej specjalizacji
-      url: advanced-specializations.md
-- title: Najważniejsze pojęcia i zadania
-  linkLists:
-  - linkListType: concept
-    links:
-    - text: Zaakceptuj Microsoft Partner Agreement
-      url: microsoft-partner-agreement.md
-    - text: Wymagania dotyczące zabezpieczeń Centrum partnerskiego
-      url: partner-security-requirements.md
-    - text: Tworzenie profilu biznesowego
-      url: create-a-marketing-profile.md
-    - text: Wprowadzenie do planu platformy Azure
-      url: azure-plan-lp.md
-    - text: Uzyskiwanie pomocy technicznej od firmy Microsoft
-      url: support-from-microsoft.md
-    - text: Dowiedz się więcej o Microsoft 365 Lighthouse
-      url: /microsoft-365/lighthouse/m365-lighthouse-overview
-    - text: Dowiedz się więcej o Azure Lighthouse
-      url: /azure/lighthouse/overview
-  - linkListType: how-to-guide
-    links:
-    - text: Zarządzanie lokalizacjami kont MPN
-      url: manage-locations.md
-    - text: Odnawianie oferty MPN
-      url: renew-mpn-offers.md
-    - text: Znajdowanie korzyści programu MPN
-      url: mpn-find-benefits.md
-    - text: Znajdowanie roli
-      url: find-your-role.md
-- title: Konta i rozliczenia
-  linkLists:
-  - linkListType: how-to-guide
-    links:
-    - text: Zarządzanie kontem w Centrum partnerskim
-      url: partner-center-account-setup.md
-    - text: Przypisywanie ról i uprawnień do użytkowników
-      url: permissions-overview.md
-    - text: Billing basics (Podstawowe informacje dotyczące rozliczeń)
-      url: billing-basics.md
-    - text: Konfigurowanie konta do wypłaty i formularzy podatkowych
-      url: set-up-your-payout-account.md
-    - text: Opis zawartości rachunku
-      url: read-your-bill.md
-- title: Sprzedaż na komercyjnej platformie handlowej (niezależni dostawcy oprogramowania)
-  linkLists:
-  - linkListType: concept
-    links:
-    - text: Dokumentacja komercyjnej platformy handlowej
-      url: /azure/marketplace
-    - text: Co to jest komercyjna platforma handlowa firmy Microsoft?
-      url: /azure/marketplace/overview
-    - text: Określanie opcji publikowania
-      url: /azure/marketplace/determine-your-listing-type
+    - title: Dostawca rozwiązań w chmurze
+      itemType: get-started
+      url: enrolling-in-the-csp-program.md
+    - title: Komercyjna platforma handlowa
+      itemType: get-started
+      url: /azure/marketplace/
+conceptualContent:
+  items:
+    - title: Zarejestruj
+      links:
+        - url: mpn-create-a-partner-center-account.md
+          itemType: overview
+          text: Microsoft Partner Network
+        - url: csp-overview.md
+          itemType: how-to-guide
+          text: Dostawca rozwiązań w chmurze (CSP)
+        - url: enrolling-in-the-csp-program.md
+          itemType: how-to-guide
+          text: Pośredni lub bezpośredni cSP
+      footerLink:
+        url: enrolling-in-the-csp-program.md
+        text: Zobacz więcej
+    - title: Członkostwo
+      links:
+        - url: mpn-overview.md
+          itemType: overview
+          text: Omówienie
+        - url: mpn-create-a-partner-center-account.md
+          itemType: how-to-guide
+          text: Tworzenie konta MPN
+        - url: mpn-get-action-pack.md
+          itemType: get-started
+          text: Kupowanie Action Pack ofert
+      footerLink:
+        url: mpn-benefits-map-competency-learning-option-enroll.md
+        text: Zobacz więcej
+    - title: Korzyści
+      links:
+        - url: manage-your-partner-network-benefits.md
+          itemType: overview
+          text: Omówienie
+        - url: benefits-faq.yml
+          itemType: concept
+          text: Często zadawane pytania dotyczące korzyści
+        - url: mpn-find-benefits.md
+          itemType: how-to-guide
+          text: Znajdowanie korzyści
+      footerLink:
+        url: renew-mpn-offers.md
+        text: Zobacz więcej
+    - title: Polecenia
+      links:
+        - url: referrals.md
+          itemType: overview
+          text: Omówienie
+        - url: grow-your-business.md
+          itemType: how-to-guide
+          text: Uzyskiwanie potencjalnych klientów
+        - url: manage-leads.md
+          itemType: how-to-guide
+          text: Zarządzanie potencjalnymi klientami
+      footerLink:
+        url: register-deals.md
+        text: Zobacz więcej
+    - title: Klienci
+      links:
+        - url: connect-with-your-customers.md
+          itemType: overview
+          text: Omówienie
+        - url: find-a-partner.md
+          itemType: how-to-guide
+          text: Znajdowanie partnera lub dostawcy rozwiązań
+        - url: see-your-customer-list.md
+          itemType: how-to-guide
+          text: Wyświetlanie listy klientów
+      footerLink:
+        url: request-a-relationship-with-a-customer.md
+        text: Zobacz więcej
+    - title: Rozliczenia
+      links:
+        - url: billing.md
+          itemType: overview
+          text: Omówienie
+        - url: read-your-bill.md
+          itemType: concept
+          text: Opis zawartości rachunku
+        - url: use-the-reconciliation-files.md
+          itemType: tutorial
+          text: Korzystanie z plików rekonescji
+      footerLink:
+        url: billing.md
+        text: Zobacz więcej
+    - title: Cennik
+      links:
+        - url: pricing-and-offers.md
+          itemType: overview
+          text: Omówienie
+        - url: partner-earned-credit.md
+          itemType: concept
+          text: Punkty uzyskane przez partnerów
+        - url: promotions.md
+          itemType: how-to-guide
+          text: Korzystanie z promocji
+      footerLink:
+        url: csp-commercial-marketplace-overview.md
+        text: Zobacz więcej
+    - title: Zachęty
+      links:
+        - url: incentives-get-started-intro.md
+          itemType: overview
+          text: Omówienie
+        - url: incentives-enroll.md
+          itemType: get-started
+          text: Rejestracja w zachętach
+        - url: chip-intro.md
+          itemType: concept
+          text: Co to jest CHIP?
+      footerLink:
+        url: incentives-determined-your-program-eligibility.md
+        text: Zobacz więcej
+    - title: Oferty w witrynie Marketplace
+      links:
+        - url: /azure/marketplace/overview
+          itemType: concept
+          text: Omówienie komercyjnej platformy handlowej
+        - url: /azure/marketplace/publisher-guide-by-offer-type
+          itemType: how-to-guide
+          text: Przewodnik publikowania ofert
+        - url: /azure/marketplace/policies-terms
+          itemType: concept
+          text: Zasady i postanowienia
+      footerLink:
+        url: /azure/marketplace/determine-your-listing-type
+        text: Zobacz więcej
+    - title: Wypłaty
+      links:
+        - url: non-payment-fraud-misuse.md
+          itemType: overview
+          text: Omówienie
+        - url: payment-thresholds-methods-timeframes.md
+          itemType: concept
+          text: Progi płatności
+        - url: understand-irs-tax-forms.md
+          itemType: concept
+          text: Opis formularzy podatkowych
+      footerLink:
+        url: mobile-operator-billing.md
+        text: Zobacz więcej
+    - title: Insights
+      links:
+        - url: partner-center-insights.md
+          itemType: get-started
+          text: Omówienie
+        - url: insights-overview-report.md
+          itemType: concept
+          text: Dostępne raporty
+        - url: insights-roles.md
+          itemType: concept
+          text: Udzielanie dostępu do raportów
+      footerLink:
+        url: insights-known-issues.md
+        text: Zobacz więcej
+    - title: Konta
+      links:
+        - url: partner-center-account-setup.md
+          itemType: overview
+          text: Omówienie
+        - url: manage-locations.md
+          itemType: how-to-guide
+          text: Zarządzanie lokalizacjami
+        - url: create-user-accounts-and-set-permissions.md
+          itemType: how-to-guide
+          text: Tworzenie kont użytkowników
+      footerLink:
+        url: find-your-role.md
+        text: Zobacz więcej
+additionalContent:
+  sections:
+    - title: Więcej informacji
+      items:
+        - title: Ogłoszenia Centrum partnerskiego
+          summary: Pobierz najnowsze wiadomości na Partner Center.
+          url: ./announcements/index.md
+        - title: Microsoft AppSource
+          summary: Dowiedz się więcej o Microsoft AppSource.
+          url: /marketplace/appsource-overview
+        - title: Azure Marketplace
+          summary: Dowiedz się więcej o Azure Marketplace.
+          url: /marketplace/azure-marketplace-overview
