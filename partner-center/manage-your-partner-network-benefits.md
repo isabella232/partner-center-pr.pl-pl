@@ -4,42 +4,42 @@ ms.topic: how-to
 ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-benefits
-description: Dołącz do Microsoft Partner Network (MPN) i korzystaj Partner Center, aby zarządzać korzyściami i ofertami członkostwa, które mogą pomóc w rozwoju firmy.
+description: Dołącz do Microsoft Partner Network (MPN) i użyj programu Partner Center, aby zarządzać korzyściami i ofertami członkostwa, które mogą pomóc w rozwoju firmy.
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d4dd46375b91c83757b2c236f81132a445abeef7
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: fee5b252a2717a573f9f3d66eca1519b65ffb693
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073163"
+ms.locfileid: "129090154"
 ---
-# <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Zarządzanie korzyściami i Microsoft Partner Network członkostwa w programie Partner Center
+# <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Zarządzanie korzyściami Microsoft Partner Network i ofertami członkostwa w programie Partner Center
 
-**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent administracyjny | Administrator partnera MPN
+**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent administracyjny | Administrator partnera MPN
 
-Dołączenie do Microsoft Partner Network (MPN) zapewnia dostęp do korzyści związanych z członkostwem, które mogą pomóc w rozwoju firmy. Jeśli nie jesteś jeszcze członkiem programu MPN, możesz dołączyć do witryny [MPN.](https://partner.microsoft.com/membership)
+Dołączanie do Microsoft Partner Network (MPN) zapewnia dostęp do korzyści związanych z członkostwem, które mogą pomóc w rozwoju firmy. Jeśli nie jesteś jeszcze członkiem programu MPN, możesz dołączyć do witryny [MPN.](https://partner.microsoft.com/membership)
 
 ## <a name="manage-your-membership-benefits-in-the-partner-center"></a>Zarządzanie korzyściami z członkostwa w Partner Center
 
 Po zakupie pakietu korzyści członkostwa musisz uzyskać klucze oprogramowania i przypisać licencje, subskrypcje i inne korzyści pracownikom, aby rozpocząć korzystanie z nich.
 
 > [!IMPORTANT]
-> Chociaż nie musisz być administratorem globalnym w organizacji, aby kupić korzyści, musisz być administratorem globalnym, aby przypisywać korzyści pracownikom. W razie potrzeby możesz zostać administratorem globalnym, zgodnie z instrukcjami Partner Center [Korzyści](https://partnercenter.microsoft.com/pcv/partnership/benefits) (wymagane jest zalogowanie). Twoja firma może już mieć administratora globalnego, dlatego skontaktuj się z zespołem.
+> Chociaż nie musisz być administratorem globalnym w organizacji, aby kupić korzyści, musisz być administratorem globalnym, aby przypisywać korzyści pracownikom. W razie potrzeby możesz zostać administratorem globalnym, korzystając z instrukcji w te [Partner Center Korzyści](https://partnercenter.microsoft.com/pcv/partnership/benefits) (wymagane jest zalogowanie). Twoja firma może już mieć administratora globalnego, dlatego skontaktuj się z zespołem.
 
-Pakiety korzyści obejmują alokacje licencjonowanego oprogramowania, usług w chmurze, Visual Studio subskrypcji i pomocy technicznej. Pakiety korzyści mogą również obejmować pewne zasoby, oferty i programy związane z rynek. Szczegółowe informacje o Action Pack subskrypcji można uzyskać w [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software) sieci Web.  
+Pakiety korzyści obejmują alokacje licencjonowanego oprogramowania, usług w chmurze, Visual Studio subskrypcji i pomocy technicznej. Pakiety korzyści mogą również obejmować niektóre zasoby, oferty i programy związane z rynek. Szczegółowe informacje o Action Pack subskrypcji można uzyskać w [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software) lokacji.  
 
 Aby wyświetlić wszystkie korzyści związane z członkostwem i zarządzać nimi, przejdź do [strony Partner Center Korzyści.](https://partner.microsoft.com/pcv/partnership/benefits)
 
-Aby aktywować większość korzyści lub pobrać powiązane klucze oprogramowania, Partner Center zwykle wymaga, aby ktoś ma przypisaną rolę administratora globalnego lub administratora partnera MPN. Jeśli nie widzisz żadnych korzyści lub nie możesz aktywować korzyści, skontaktuj się z administratorem globalnym usługi Partner Center, aby upewnić się, że masz odpowiednie uprawnienia. [Dowiedz się więcej na Partner Center ról.](permissions-overview.md)
+Aby aktywować większość korzyści lub pobrać powiązane klucze oprogramowania, Partner Center zwykle wymaga przypisania roli administratora globalnego lub administratora partnera MPN. Jeśli nie widzisz żadnych korzyści lub nie możesz aktywować korzyści, skontaktuj się z administratorem globalnym usługi Partner Center, aby upewnić się, że masz odpowiednie uprawnienia. [Dowiedz się więcej o Partner Center ról.](permissions-overview.md)
 
 ## <a name="manage-software-benefits"></a>Zarządzanie korzyściami z oprogramowania
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
-1. Zaloguj się do pulpitu [Partner Center i](https://partner.microsoft.com/dashboard) wybierz **kafelek** Korzyści.
+1. Zaloguj się do [pulpitu Partner Center i](https://partner.microsoft.com/dashboard) wybierz **kafelek** Korzyści.
 
 2. Wybierz **pozycję Oprogramowanie,** aby wyświetlić listę korzyści z oprogramowania.
 
@@ -47,17 +47,17 @@ Aby aktywować większość korzyści lub pobrać powiązane klucze oprogramowan
 
 4. Dla każdego oprogramowania, którego chcesz użyć:
 
-   a. Wybierz **pozycję Pobierz klucze,** aby ujawnić klucze licencji produktów. Pamiętaj, aby wykonać wszystkie wymienione specjalne instrukcje.
+   a. Wybierz **pozycję Pobierz klucze,** aby ujawnić klucze licencji produktów. Pamiętaj, aby postępować zgodnie ze specjalnymi instrukcjami na liście.
 
    b. Wybierz język, w którym ma być wyświetlany produkt.
 
-   c. Wybierz typ systemu operacyjnego na komputerach, na których planujesz zainstalować oprogramowanie.
+   c. Wybierz typ systemu operacyjnego komputerów, na których zamierzasz zainstalować oprogramowanie.
 
    d. Skorzystaj z linków, aby pobrać i zainstalować pakiety instalacyjne oprogramowania.
 
 #### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
 
-1. Zaloguj się do pulpitu [nawigacyjnego Partner Center i](https://partner.microsoft.com/dashboard) wybierz **pozycję MPN,** a następnie wybierz pozycję **Korzyści.**
+1. Zaloguj się do pulpitu [Partner Center i](https://partner.microsoft.com/dashboard) wybierz **pozycję MPN,** a następnie wybierz pozycję **Korzyści.**
 
 2. Wybierz **pozycję Oprogramowanie,** aby wyświetlić listę korzyści z oprogramowania.
 
@@ -65,11 +65,11 @@ Aby aktywować większość korzyści lub pobrać powiązane klucze oprogramowan
 
 4. Dla każdego oprogramowania, którego chcesz użyć:
 
-   a. Wybierz **pozycję Pobierz klucze,** aby ujawnić klucze licencji produktów. Pamiętaj, aby wykonać wszystkie wymienione specjalne instrukcje.
+   a. Wybierz **pozycję Pobierz klucze,** aby ujawnić klucze licencji produktów. Pamiętaj, aby postępować zgodnie ze specjalnymi instrukcjami na liście.
 
    b. Wybierz język, w którym ma być wyświetlany produkt.
 
-   c. Wybierz typ systemu operacyjnego na komputerach, na których planujesz zainstalować oprogramowanie.
+   c. Wybierz typ systemu operacyjnego komputerów, na których zamierzasz zainstalować oprogramowanie.
 
    d. Skorzystaj z linków, aby pobrać i zainstalować pakiety instalacyjne oprogramowania.
 
@@ -79,35 +79,35 @@ Aby aktywować większość korzyści lub pobrać powiązane klucze oprogramowan
 
 Karta Produkty w chmurze usługi **Azure &** zawiera subskrypcje oparte na użyciu (środki na korzystanie z platformy Azure) i subskrypcje oparte na licencjach (takie jak Office 365), które są dla Ciebie aprowowane, ilość licencji dla każdego produktu, typ oferty, który aprowizował ten produkt, typ korzyści (niezależnie od tego, czy jest to produkt podstawowy, czy przyrostowy) oraz data wygaśnięcia tej korzyści.
 
-### <a name="usage-based-subscriptions---microsoft-azure-credit"></a>Subskrypcje oparte na użyciu — Microsoft Azure kredytowe
+### <a name="usage-based-subscriptions---microsoft-azure-credit"></a>Subskrypcje oparte na użyciu — Microsoft Azure środków
 
 Istnieją dwa typy subskrypcji opartych na użyciu, które można otrzymać, w zależności od typu oferty aktywnej jako partner MPN — MAPS, Silver i/lub Gold — miesięczne lub zbiorcze.
 
-Możesz aprowizowana za pomocą:
+Możesz aprowizowane za pomocą:
 
-- 100 USD/miesiąc (lub odpowiednik w walucie lokalnej) miesięczny kredyt platformy Azure i/lub
-- 6000 USD, 12 000 USD lub/i 13 000 USD/rok (lub każdy z nich równoważnych w walucie lokalnej) kredytów zbiorczych platformy Azure
+- 100 USD/miesiąc (lub równoważne w walucie lokalnej) miesięczne środków na korzystanie z platformy Azure i/lub
+- 6000 USD, 12 000 USD lub/i 13 000 USD/rok (lub każdy z nich równoważnych w walucie lokalnej) środków zbiorczych platformy Azure
 
 Aby aktywować Microsoft Azure subskrypcji usługi Partner Center, przypisz dostęp do użytkownika w firmie (w tym użytkowników-gości), który ma wpis użytkownika utworzony w Azure Active Directory.
 
-W przypadku miesięcznych środków na korzystanie z platformy Azure w wysokości 100 USD/miesiąc (lub równoważnej w walucie lokalnej) możesz dodać lub usunąć użytkowników z tej subskrypcji w dowolnym momencie. 
+W przypadku miesięcznych środków na korzystanie z platformy Azure w wysokości 100 USD/miesiąc (lub równoważnej w walucie lokalnej) możesz w dowolnym momencie dodać lub usunąć użytkowników z tej subskrypcji. 
 
-W przypadku środków zbiorczych na korzystanie z platformy Azure (co rok) opcja usuwania nie jest dostępna w usłudze Partner Center, ale możesz przenieść te środków zbiorcze na inną osobę w trakcie roku rejestracji. Subskrypcji środków zbiorczych na platformę Azure (co rok) nie można łączyć z innymi ofertami licencjonowania, przedpłaty ani środków (tj. Microsoft Enterprise Agreement, Cloud Solution Partner, Azure w ramach programu licencjonowania Open, Azure — dostęp próbny, Action Pack itp.).
+W przypadku środków zbiorczych na korzystanie z platformy Azure (co rok) opcja usuwania nie jest dostępna w usłudze Partner Center, ale możesz przenieść te środków zbiorcze na inną osobę w roku rejestracji. Subskrypcji środków zbiorczych na platformę Azure (co rok) nie można łączyć z innymi ofertami licencjonowania, przedpłaconego lub kredytowego (tj. Microsoft Enterprise Agreement, Cloud Solution Partner, Azure w ramach programu Licencjonowanie, Azure — dostęp próbny, Action Pack itp.).
 
 ## <a name="license-based-subscriptions"></a>Subskrypcje oparte na licencjach
 
-Sekcja subskrypcji opartych na licencjach na karcie Produkty w chmurze usługi Azure & zawiera listę wszystkich produktów w chmurze, które wymagają klucza produktu do aktywacji, takich jak Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD — podstawowa i Power BI. Typ oferty aktywnej jako partner MPN — MAPS, Silver lub Gold — określa, które produkty są wyświetlane na liście.
+Sekcja subskrypcji opartych na licencjach na karcie Produkty w chmurze usługi Azure & zawiera listę wszystkich produktów w chmurze, które wymagają klucza produktu do aktywacji, takich jak Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic i Power BI. Typ oferty aktywnej jako partner MPN — MAPS, Silver lub Gold — określa, które produkty są wyświetlane.
 
-Aby aktywować subskrypcje oparte na licencjach, kliknij symbol listy rozwijanej obok interesującego Cię produktu i zapoznaj się z instrukcjami dotyczącymi sposobu realizacji kluczy. Po przeczytaniu instrukcji wybierz link, który przekierowuje Cię do portalu w celu zrealizowania kluczy i przypisanego klucza dla produktu.
+Aby aktywować subskrypcje oparte na licencjach, kliknij symbol listy rozwijanej obok interesującego Cię produktu i zapoznaj się z instrukcjami dotyczącymi sposobu realizacji kluczy. Po przeczytaniu instrukcji wybierz link, który przekierowuje Cię do portalu, aby zrealizować klucze i klucz przypisany do produktu.
 
 > [!IMPORTANT]
-> Pamiętaj, że po zrealizowaniu klucza nie można zrealizować tego samego klucza po raz drugi, dlatego upewnij się, że wiesz, czy musisz dodać więcej licencji (stanowisk), czy rozszerzyć datę zakończenia. Jeśli zdecydujesz się dodać więcej licencji i nie rozszerzyć daty zakończenia, system udostępni mniej niż 12 miesięcy aktywnej subskrypcji. Upewnij się, że zalogowano się przy użyciu poprawnych poświadczeń, aby aktywować klucze w odpowiedniej dzierżawie.
+> Pamiętaj, że po zrealizowaniu klucza nie można zrealizować tego samego klucza po raz drugi, dlatego upewnij się, że wiesz, czy musisz dodać więcej licencji (stanowisk), czy też rozszerzyć datę zakończenia. Jeśli zdecydujesz się dodać więcej licencji i nie rozszerzyć daty zakończenia, system udostępni mniej niż 12 miesięcy aktywnej subskrypcji. Upewnij się, że zalogowano się przy użyciu prawidłowych poświadczeń, aby aktywować klucze w odpowiedniej dzierżawie.
 
 ## <a name="manage-visual-studio-subscriptions"></a>Zarządzanie Visual Studio subskrypcji
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
-1. Zaloguj się do pulpitu [Partner Center i](https://partner.microsoft.com/dashboard) wybierz **kafelek** Korzyści.
+1. Zaloguj się do [pulpitu Partner Center i](https://partner.microsoft.com/dashboard) wybierz **kafelek** Korzyści.
 
 2. Wybierz **Visual Studio subskrypcje,** aby wyświetlić listę Visual Studio subskrypcji.
 
@@ -125,7 +125,7 @@ Aby aktywować subskrypcje oparte na licencjach, kliknij symbol listy rozwijanej
 
 #### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
 
-1. Zaloguj się do pulpitu [nawigacyjnego Partner Center i](https://partner.microsoft.com/dashboard) wybierz **pozycję MPN,** a następnie wybierz pozycję **Korzyści.**
+1. Zaloguj się do pulpitu [Partner Center i](https://partner.microsoft.com/dashboard) wybierz **pozycję MPN,** a następnie wybierz pozycję **Korzyści.**
 
 1. Wybierz **Visual Studio subskrypcje,** aby wyświetlić listę Visual Studio subskrypcji.
 
@@ -147,20 +147,20 @@ Aby aktywować subskrypcje oparte na licencjach, kliknij symbol listy rozwijanej
 
 W tej sekcji opisano sposób aktywowania korzyści pomocy technicznej i zarządzania nimi na Partner Center [nawigacyjnym.](https://partner.microsoft.com/dashboard) 
 
-Aby zobaczyć korzyści techniczne dotyczące pomocy technicznej Partner Center, wykonaj następujące czynności:
+Aby zobaczyć korzyści techniczne pomocy technicznej w Partner Center, wykonaj następujące czynności:
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie zgrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz Getting around Partner Center (Poruszanie [się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off)).
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard) Centrum partnerskiego.
 
-2. Wybierz **kafelek Korzyści,** a następnie wybierz **pozycję Korzyści techniczne.** Na stronie Korzyści techniczne będą wyświetlane aktywne oferty członkostwa w organizacji Gold, Silver Action Pack Microsoft.
+2. Wybierz **kafelek Korzyści,** a następnie wybierz **pozycję Korzyści techniczne.** Na stronie Korzyści techniczne będą wyświetlane aktywne oferty członkostwa organizacji Gold, Silver Action Pack Microsoft.
 
 3. Wybierz **pozycję Wyświetl szczegóły,** aby wyświetlić przycisk Aktywuj. Po aktywacji wszyscy użytkownicy zobaczą identyfikator dostępu i identyfikator kontraktu.
 
-   - **Aktywowanie korzyści technicznej.** Wyświetl szczegóły i wybierz pozycję **Aktywuj.** Jeśli przycisk Aktywuj jest nieaktywna, Twoje konto nie ma roli zabezpieczeń Administrator globalny ani Administrator partnera MPN. Użyj [funkcji Zarządzania użytkownikami](https://partner.microsoft.com/dashboard/account/v3/usermanagement#users) i filtruj, aby znaleźć użytkownika w celu aktywowania korzyści.
+   - **Aktywuj korzyść techniczną.** Wyświetl szczegóły i wybierz pozycję **Aktywuj**. Jeśli przycisk Aktywuj jest nieaktywna, Twoje konto nie ma roli zabezpieczeń Administrator globalny ani Administrator partnera MPN. Użyj [funkcji Zarządzanie użytkownikami](https://partner.microsoft.com/dashboard/account/v3/usermanagement#users) i filtruj, aby znaleźć użytkownika w celu aktywowania korzyści.
 
    - **Wyświetlanie i udostępnianie pomocy technicznej produktu Identyfikator dostępu i Identyfikator kontraktu.** Po aktywacji wszyscy użytkownicy zobaczą identyfikator **dostępu i** **identyfikator kontraktu** . Ty lub użytkownicy Twojej firmy muszą udostępniać te informacje i używać ich przy pierwszym przesłaniu wniosku o pomoc techniczną dla konta.
 
@@ -206,7 +206,7 @@ Godziny świadczenia usług doradczych dla partnerów to waluta używana w przyp
 Aby zobaczyć korzyści techniczne z godzin porad dla partnerów w Partner Center, wykonaj następujące czynności:
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie zgrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz Getting around Partner Center (Poruszanie [się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
@@ -244,7 +244,7 @@ Aby zobaczyć korzyści techniczne z godzin porad dla partnerów w Partner Cente
 - Administrator partnera MPN
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie zgrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz Getting around Partner Center (Poruszanie [się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
@@ -300,7 +300,7 @@ Aby zobaczyć korzyści techniczne z godzin porad dla partnerów w Partner Cente
 
 ## <a name="cancel-a-membership-benefit-or-offer"></a>Anulowanie korzyści lub oferty członkostwa
 
-Aby anulować korzyść lub ofertę i otrzymać zwrot, musisz złożyć żądanie w ciągu 30 dni od zakupu i nie aktywować korzyści z oprogramowania. Zażądaj anulowania za pośrednictwem żądania obsługi.
+Aby anulować korzyść lub ofertę i otrzymać zwrot kosztów, musisz złożyć żądanie w ciągu 30 dni od zakupu i nie aktywować korzyści z oprogramowania. Zażądaj anulowania za pośrednictwem żądania obsługi.
 
 ## <a name="next-steps"></a>Następne kroki
 
@@ -308,4 +308,4 @@ Aby anulować korzyść lub ofertę i otrzymać zwrot, musisz złożyć żądani
 
 - [Kupowanie lub odnawianie subskrypcji programu Microsoft Action Pack](mpn-get-action-pack.md)
 
-- [Dowiedz się więcej o ofertach i zasobach dotyczących go-to-market MPN](mpn-learn-about-go-to-market-benefits.md)
+- [Dowiedz się więcej o ofertach i zasobach dotyczących go-to-market mpn](mpn-learn-about-go-to-market-benefits.md)

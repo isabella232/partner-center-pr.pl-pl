@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6cf260df6f1b5d3ae814678c47f13b2b4015b62
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 4ec75b05ea9d81693a7c2592db80710c6c948433
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074780"
+ms.locfileid: "129088913"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Używanie metryk w Partner Center w celu zwiększenia przyjęcia i zadowolenia
 
@@ -25,16 +25,16 @@ Nasi partnerzy używają wielu metryk, aby ocenić, czy ich firma rośnie i gdzi
 Dane dla wszystkich klientów można wyświetlić za pośrednictwem Dostawca rozwiązań w chmurze programie. Niektórzy klienci mogą kupować licencje od innych partnerów lub bezpośrednio od firmy Microsoft. W takich sytuacjach zobaczysz łączną liczbę licencji dla wszystkich partnerów. Aby wyświetlić tylko własne licencje, przejdź do subskrypcji klienta.
 
 > [!NOTE]  
-> Obecnie wyświetlane są tylko dane dla Office 365 i Dynamics 365. W przyszłości będziemy umożliwiać dostęp do danych dotyczących dodatkowych produktów.
+> Obecnie wyświetlane są tylko dane dla Office 365 i Dynamics 365. W przyszłości będziemy umożliwiać przetwarzanie danych dla dodatkowych produktów.
 
-## <a name="find-license-and-user-data"></a>Znajdowanie danych licencji i użytkowników
+## <a name="find-license-and-user-data"></a>Znajdowanie licencji i danych użytkownika
 
 Możesz znaleźć dane licencji i użytkowników dla jednego klienta lub w swoim portfolio.
 
 ### <a name="find-license-and-user-data-for-a-single-customer"></a>Znajdowanie danych licencji i użytkowników dla jednego klienta
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie zgrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz Getting around Partner Center (Poruszanie [się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off)).
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
@@ -63,7 +63,7 @@ Możesz znaleźć dane licencji i użytkowników dla jednego klienta lub w swoim
 Możesz również uzyskać wgląd w dane licencji i użytkownika.
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie zgrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz Getting around Partner Center (Poruszanie [się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off)).
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
@@ -85,7 +85,7 @@ Możesz również uzyskać wgląd w dane licencji i użytkownika.
 
 ### <a name="terminology"></a>Terminologia
 
-- **Uprawnienie** = licencja, do korzystania z których użytkownik jest uprawniony (nie jest zawieszona w związku z oszustwem lub niepłacąc, nie została uaktualniona do innej licencji, nie została anulowana przez użytkownika ani nie występuje inny problem).
+- **Uprawnienie** = licencja, z których użytkownik jest uprawniony (nie jest zawieszona w przypadku oszustwa lub braku płatności, nie została uaktualniona do innej licencji, nie została anulowana przez użytkownika ani przez inny problem).
 
 - **Active** = jeśli subskrybowany użytkownik użył uprawnienia do zadania w ciągu ostatnich 28 dni kalendarzowych.
 
@@ -99,7 +99,7 @@ Możesz również uzyskać wgląd w dane licencji i użytkownika.
 
   - Jeśli klient ma dwie subskrypcje dla sku, ale jedna jest w okresie prolongaty, wyłączona lub anulowana, uprawnienia w obu subskrypcjach mogą rejestrować aktywne użycie w okresie 28 dni, ale tylko jedna z nich jest wliczane do sumy.
 
-  - Jeśli klient ma subskrypcję wersji próbnej, aktywność jest zliczona, ale subskrypcja nie jest wliczane do łącznej liczby uprawnień.
+  - Jeśli klient ma subskrypcję wersji próbnej, aktywność jest zliczana, ale subskrypcja nie jest wliczana do łącznej liczby uprawnień.
 
   - Jeśli niektórzy klienci Yammer znacznie więcej niż są uprawnieni do ich licencji, może to znacznie pochylić dane.
 
@@ -113,11 +113,11 @@ Jeśli prowadzisz wiele pytań dotyczących pomocy i kursów, numery wdrożenia 
 
 **Co należy wziąć pod uwagę:** Klienci mogą nie rozumieć wartości, jaką może zapewnić oprogramowanie. Potrzebują pomocy w przewidywaniu sposobów, w jakie mogą wprowadzić ją w swoje dni, aby uprościć zadania, które już wykonywać, lub w celu umożliwienia nowej produktywności.
 
-**Co należy wypróbować:** analizy przypadków, opinie użytkowników dotyczące konkretnych scenariuszy, blogi z samouczkami lub filmy wideo.
+**Co wypróbować:** analizy przypadków, opinie użytkowników dotyczące konkretnych scenariuszy, blogi z samouczkami lub filmy wideo.
 
 **Problem:** Istnieje duża liczba zaproszeń do pomocy technicznej, aby uzyskać pomoc i pytania z radą.
 
-**Co należy wziąć pod uwagę:** Klienci mogą być nowymi użytkownikami oprogramowania, wersji produktu lub ich zadań.
+**Co należy wziąć pod uwagę:** klienci mogą być nowymi użytkownikami oprogramowania, wersji produktu lub zadań.
 
 **Co** wypróbować: Możesz użyć podwójnej strategii oferowania szkoleń (osobiście lub online) w celu zwiększenia ogólnej wiedzy klientów, a także promowania niektórych opcji samoobsługi dostępnych dla klientów.
 

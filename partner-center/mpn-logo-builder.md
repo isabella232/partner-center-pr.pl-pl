@@ -9,22 +9,22 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4d7f60254383ed6aee8c228a422dcb8f15730c22
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 6e42bd8c2e8cd4c5309042b8fe14eb9943dabc24
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129070217"
+ms.locfileid: "129088794"
 ---
 # <a name="create-a-partner-logo-certified-letter-or-award-logo"></a>Tworzenie logo partnera, litery certyfikowanej lub logo przyznawania
 
 **Odpowiednie role:** Wszyscy partnerzy zainteresowani dowiedzą się więcej na temat konstruktora logo
 
-Aby zaprezentować swoją kompetencję w zakresie silver lub gold, możesz użyć narzędzia Logo Builder w programie Partner Center, aby utworzyć logo do użycia w materiałach sprzedażowych i marketingowych oraz w profilu biznesowym w Partner Center. Ponadto, jeśli zaakceptowano Cię w programie Azure Expert Managed Services Provider (MSP), przyznano partnerowi nagrody roku lub zakupiono program Microsoft Action Pack, logo udziału w tych programach jest również dostępne w programie Logo Builder. Możesz użyć biblioteki w programie Logo Builder do przechowywania zasobów, a następnie pobrać je, gdy wszystko będzie gotowe do tworzenia materiałów sprzedażowych i marketingowych.
+Aby zaprezentować swoją kompetencję w zakresie silver lub gold, możesz użyć narzędzia Logo Builder w programie Partner Center, aby utworzyć logo do użycia w materiałach sprzedażowych i marketingowych oraz w profilu biznesowym w Partner Center. Ponadto, jeśli użytkownik został zaakceptowany w programie Azure Expert Managed Services Provider (MSP), otrzymał tytuł partnera roku lub zakupił program Microsoft Action Pack, logo uczestnictwa w tych programach jest również dostępne w programie Logo Builder. Możesz użyć biblioteki w programie Logo Builder do przechowywania zasobów, a następnie pobrać je, gdy wszystko będzie gotowe do tworzenia materiałów sprzedażowych i marketingowych.
 
 ## <a name="what-is-available-in-logo-builder"></a>Co jest dostępne w programie Logo Builder
 
-Logo dostępne dla Twojej firmy w programie Logo Builder są dostosowane do twojego Microsoft Partner Network (MPN). W widoku aplikacji Partner Center **logo,** **litery** i nagrody **lub** niektóre kombinacje.
+Logo dostępne dla Twojej firmy w programie Logo Builder są dostosowane do twojego Microsoft Partner Network (MPN). W widoku aplikacji Partner Center **logo,** litery **i** nagrody **lub** niektóre kombinacje.
 
 Zasoby, które można utworzyć w programie Logo Builder, w zależności od dostępu, obejmują:
 
@@ -54,11 +54,11 @@ Wcześniej utworzone i zapisane logo są dostępne w ostatnio **zapisanej biblio
 Jeśli logo zostało utworzone wcześniej, wybierz pozycję **Wyświetl wszystko,** aby wyświetlić całą bibliotekę.
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz Getting around Partner Center (Poruszanie [się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off)).
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
-1. Zaloguj się do pulpitu Partner Center [przy](https://partner.microsoft.com/dashboard) użyciu konta służbowego.
+1. Zaloguj się do pulpitu Partner Center [nawigacyjnego](https://partner.microsoft.com/dashboard) przy użyciu konta służbowego.
 
 2. Wybierz **kafelek Korzyści,** a następnie wybierz **pozycję Logo Builder.**
 
@@ -71,11 +71,11 @@ Jeśli logo zostało utworzone wcześniej, wybierz pozycję **Wyświetl wszystko
 6. Następnie użyj następujących kroków, aby dostosować logo:
     1. W **jęz.** Dostępne kompetencje wybierz kompetencje dla logo. Podczas wybierania wartości można używać symboli w górę i w dół obok wartości, aby zmienić kolejność, w jakiej mają być wyświetlane kompetencje lub programy.
     2. W **nazwa logo**, wprowadź nazwę logo.
-    3. Po zakończeniu dostosowywania logo wybierz  pozycję Zapisz lub **& pobierz**.
+    3. Po zakończeniu dostosowywania logo wybierz  pozycję Zapisz lub **zapisz, & pobierz .**
 
 #### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
 
-1. Zaloguj się do pulpitu Partner Center [przy](https://partner.microsoft.com/dashboard) użyciu konta służbowego.
+1. Zaloguj się do pulpitu Partner Center [nawigacyjnego](https://partner.microsoft.com/dashboard) przy użyciu konta służbowego.
 
 2. W menu Partner Center w obszarze **Korzyści** wybierz pozycję **Logo Builder.**
 
@@ -90,18 +90,18 @@ Jeśli logo zostało utworzone wcześniej, wybierz pozycję **Wyświetl wszystko
 6. Następnie użyj następujących kroków, aby dostosować logo:
     1. W **jęz.** Dostępne kompetencje wybierz kompetencje dla logo. Podczas wybierania wartości można używać symboli w górę i w dół obok wartości, aby zmienić kolejność, w jakiej mają być wyświetlane kompetencje lub programy.
     2. W **nazwa logo**, wprowadź nazwę logo.
-    3. Po zakończeniu dostosowywania logo wybierz  pozycję Zapisz lub **& pobierz**.
+    3. Po zakończeniu dostosowywania logo wybierz  pozycję Zapisz lub **zapisz, & pobierz .**
 
 * * *
 
 ## <a name="create-a-certified-letter-using-logo-builder"></a>Tworzenie certyfikowanej litery przy użyciu programu Logo Builder
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz Getting around Partner Center (Poruszanie [się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off)).
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
-1. Zaloguj się do pulpitu Partner Center [przy](https://partner.microsoft.com/dashboard) użyciu konta służbowego.
+1. Zaloguj się do pulpitu Partner Center [nawigacyjnego](https://partner.microsoft.com/dashboard) przy użyciu konta służbowego.
 
 2. Wybierz **kafelek Korzyści,** a następnie wybierz **pozycję Logo Builder.**
 
@@ -120,7 +120,7 @@ Jeśli logo zostało utworzone wcześniej, wybierz pozycję **Wyświetl wszystko
 
 #### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
 
-1. Zaloguj się do pulpitu Partner Center [przy](https://partner.microsoft.com/dashboard) użyciu konta służbowego.
+1. Zaloguj się do pulpitu Partner Center [nawigacyjnego](https://partner.microsoft.com/dashboard) przy użyciu konta służbowego.
 
 2. W menu Partner Center w obszarze **Korzyści** wybierz pozycję **Logo Builder.**
 
@@ -142,11 +142,11 @@ Jeśli logo zostało utworzone wcześniej, wybierz pozycję **Wyświetl wszystko
 ## <a name="create-an-award-logo-using-logo-builder"></a>Tworzenie logo przyznawania przy użyciu programu Logo Builder
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz Getting around Partner Center (Poruszanie [się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off)).
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
-1. Zaloguj się do pulpitu Partner Center [przy](https://partner.microsoft.com/dashboard) użyciu konta służbowego.
+1. Zaloguj się do pulpitu Partner Center [nawigacyjnego](https://partner.microsoft.com/dashboard) przy użyciu konta służbowego.
 
 2. Wybierz **kafelek Korzyści,** a następnie wybierz **pozycję Logo Builder.**
 
@@ -167,19 +167,19 @@ Jeśli logo zostało utworzone wcześniej, wybierz pozycję **Wyświetl wszystko
 
 2. W menu Partner Center w obszarze **Korzyści** wybierz pozycję **Logo Builder.**
 
-3. W **obszarze Build your logo**(Skompilowanie logo) w polu Award **(Nagrody)** wybierz znak plusa.
+3. W **obszarze Build your logo**(Skompilowanie logo) w polu Award **(Nagrody)** wybierz znak plus.
 
-4. Z **menu rozwijanego** Select award year & template (Wybieranie wyróżnienia roku & szablonu) wybierz rok przyznawania. Dostępne szablony są wyświetlane poniżej menu rozwijanego.
+4. Z **menu rozwijanego Select award year & template** (Wybieranie roku & wybierz rok wyróżnienia). Dostępne szablony są wyświetlane poniżej menu rozwijanego.
 
 5. Wybierz **pozycję** Utwórz dla szablonu, którego chcesz użyć.
 
 6. Następnie użyj następujących kroków, aby dostosować logo wyróżnienia:
-    1. W **elektorze** Available award (Dostępne nagrody) wybierz na logo, które chcesz przyznać.
+    1. W **elektorze** Available (Dostępne nagrody) wybierz przyznaną przez Ciebie nagrodę na logo.
     2. W **polach** Award name (Nazwa wyróżnienia) wprowadź nazwę logo.
-    3. Po zakończeniu dostosowywania logo wyróżnienia wybierz pozycję **Zapisz** lub **& pobierz**.
+    3. Po zakończeniu dostosowywania logo wyróżnienia wybierz pozycję **Zapisz** lub **zapisz & pobierz**.
 
 * * *
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Dowiedz się więcej o korzyściach z wejściów na rynek](mpn-learn-about-go-to-market-benefits.md)
+- [Dowiedz się więcej o korzyściach z wejściówek na rynek](mpn-learn-about-go-to-market-benefits.md)

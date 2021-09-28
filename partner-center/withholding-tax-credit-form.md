@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2bc31961dd073c2300ba8ee5229b72c86019e217
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: e22067cafa7c8fc1d6c1dc6c8e0cf70f6134a61f
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072597"
+ms.locfileid: "129089457"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Otrzymywanie środków na koncie Partner Center na potrącenie podatku
 
@@ -34,7 +34,7 @@ Partnerzy używali do przesyłania żądań potrącenia podatku przez utworzenie
 Wykonaj następujące kroki, aby przesłać nową potrącenie podatku:
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie zgrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off)).
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
@@ -97,7 +97,7 @@ Wykonaj następujące kroki, aby przesłać nową potrącenie podatku:
 Zespół przeglądowy może wymagać poprawek i ponownego prześlij żądanie, zanim będzie można je zatwierdzić. Zmienią stan na **Oczekująca akcja partnera.** Aby poprawić i ponownie przesłać żądanie:
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie zgrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off)).
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
@@ -143,12 +143,12 @@ Przesłanie żądania spowoduje wysłanie go z powrotem do zespołu przeglądowe
 
 ### <a name="approved-requests"></a>Zatwierdzone żądania
 
-Zatwierdzone żądania potrącenia podatku będą wykonywane na następnej fakturze, co spowoduje zasypanie należnej kwoty. Żądania oflagowane jako **Ukończone** powinny być stosowane w ciągu 10 dni roboczych. 
+Zatwierdzone żądania potrącenia podatku będą wykonywane na następnej fakturze, co spowoduje zaniżanie należnej kwoty. Żądania oflagowane jako **Ukończone** powinny być stosowane w ciągu 10 dni roboczych. 
 
-Wyczyszone kwoty zostaną odzwierciedlone w sekcji Historia rozliczeń **strony rozliczeniowej**. Kwoty wyczyszone będą wyświetlane w kolumnie **Ostatnia** płatność obok faktury, do których przesłano żądanie.
+Wyczyszone kwoty zostaną odzwierciedlone w sekcji Historia rozliczeń **na stronie rozliczeń.** Kwoty wyczyszone będą wyświetlane w kolumnie **Ostatnia** płatność obok faktury, do których przesłano żądanie.
 
    > [!IMPORTANT]
-   > Poprzednie faktury nie są ponownie wygenerowane ani ponownie wystawiane. Kwota wyczyść jest po prostu stosowana do płatności z poprzednich miesięcy.
+   > Poprzednie faktury nie są ponownie wygenerowane ani wystawiane ponownie. Kwota wyczyszczynia jest po prostu stosowana do płatności z poprzednich miesięcy.
 
 Przetwarzanie żądań potrącenia podatku powinno potrwać dwa dni przy założeniu, że certyfikat podatkowy i kwota są poprawne. Jeśli są wymagane zmiany, będzie to trwać dłużej ze względu na poprawki, które należy wprowadzić i ponownie przesłać.
 
@@ -156,7 +156,7 @@ Jeśli masz pytania dotyczące procesu żądania kredytu na podatek potrąconych
 
 ## <a name="german-tax-withholding"></a>Niemiecki potrącenie podatku
 
-Partnerzy, którzy przesyłają niemieckie żądania potrącenia podatku, powinni pamiętać o przesłaniu kopii certyfikatu z tytułu podatku potrącanego na następujący adres:
+Partnerzy, którzy wysyłają niemieckie żądania potrącenia podatku, powinni pamiętać o przesłaniu kopii certyfikatu podatku potrącanego na następujący adres:
 
 - ATTN: EOC Tax Team Suwne Gannon
 - Microsoft EMEA Operations Centre
@@ -166,7 +166,7 @@ Partnerzy, którzy przesyłają niemieckie żądania potrącenia podatku, powinn
 
 ### <a name="questions-and-assistance-for-tax-withholding-requests"></a>Pytania i pomoc dotyczące żądań potrącenia podatku
 
-Partnerzy powinni użyć nowego procesu opisanego powyżej, aby przesłać nowe żądania i nie używać już tworzenia żądań pomocy technicznej dla nowych żądań potrącenia podatku. Partnerzy z większej liczby pytań dotyczących żądań potrącenia podatku mogą [przesyłać wnioski o pomoc techniczną.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Żądania pomocy technicznej mają pomóc partnerom w przypadku istniejących żądań, więc muszą mieć swój identyfikator żądania, **aby** przesłać nowy bilet. Jeśli partnerzy nie mogą przesłać żądania przy użyciu nowego procesu, powinni wprowadzić jakieś liczby (wszystkie 1) w formularzu wniosku o pomoc techniczną. 
+Partnerzy powinni użyć nowego procesu opisanego powyżej, aby przesłać nowe żądania i nie używać już tworzenia żądań pomocy technicznej dla nowych żądań potrącenia podatku. Partnerzy, którzy mają więcej pytań dotyczących żądań potrącenia podatku, mogą [przesyłać wnioski o pomoc techniczną.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Żądania pomocy technicznej mają pomóc partnerom w przypadku istniejących żądań, dlatego muszą mieć swój identyfikator żądania, **aby** przesłać nowy bilet. Jeśli partnerzy nie mogą przesłać żądania przy użyciu nowego procesu, powinni wprowadzić jakieś liczby (wszystkie 1) w formularzu wniosku o pomoc techniczną. 
 
    > [!IMPORTANT]
    > Partnerzy nie muszą kontaktować się z pomocą techniczną, jeśli stan żądania to **Ukończono.** Ten stan jest przedstawiany w historii **rozliczeń** obok faktury do przesłania. **Ostatnie kwoty** płatności obok faktury powinny odzwierciedlać kwotę potrącenia podatku w ciągu 10 dni po oznaczeniu żądania jako **Ukończono.**

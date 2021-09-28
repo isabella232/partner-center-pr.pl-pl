@@ -8,12 +8,12 @@ ms.subservice: partnercenter-membership
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: e93f2fc198fae3e4cee663bd992c42feb0980bf7
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: c64eafb7b0b00eb840a472b01a9ad6c5bfa52fb8
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072943"
+ms.locfileid: "129088930"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Jak zapłacić opłatę skojarzoną z kompetencją Silver lub Gold
 
@@ -37,7 +37,7 @@ W przeciwnym razie wykonaj następujące kroki, aby zapłacić opłatę za kompe
 - Masz przypisaną rolę Partner Center administratora globalnego lub administratora [partnera MPN.](./permissions-overview.md) Jeśli jesteś użytkownikiem-gościem bez żadnej z tych ról, nie będziesz mieć dostępu do niektórych Partner Center opisanych poniżej. W takim przypadku skontaktuj [się z administratorem globalnym](./find-your-role.md) i poproś go o przypisanie Ci odpowiedniej roli.
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie zgrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz Getting around Partner Center (Poruszanie [się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off)).
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
@@ -49,16 +49,16 @@ W przeciwnym razie wykonaj następujące kroki, aby zapłacić opłatę za kompe
 
 4. Wybierz opcję **Subskrybuj** znajdującą się w prawym dolnym rogu kafelka członkostwa Silver lub Gold.
 
-   :::image type="content" source="images/offers/1-mpn-competency-payment-offers-available-for-purchase.png" alt-text="Strona ofert członkostwa z członkostwami w kolorze silver lub gold, które partner może subskrybować lub kupować." border="false":::
+   :::image type="content" source="images/offers/1-mpn-competency-payment-offers-available-for-purchase.png" alt-text="Strona ofert członkostwa z członkostwami w kolorze silver lub gold, które partner może subskrybować lub zakupić." border="false":::
 
    > [!NOTE]
-   > Jeśli nie zostały jeszcze spełnione wymagania dotyczące wymaganej kompetencji Silver lub Gold, nie będzie można zasubskrybować członkostwa w silver/gold ani płacić skojarzonej opłaty za kompetencję. Ponadto, jeśli jesteś już złotym partnerem w zakresie kompetencji, przyrostowe korzyści z kompetencji Silver zostaną automatycznie przyznane. W tym scenariuszu opcja płacenia opłaty za kompetencję Silver również będzie niedostępna.
+   > Jeśli nie zostały jeszcze spełnione wymagania dotyczące wymaganej kompetencji Silver lub Gold, nie będzie można zasubskrybować członkostwa w silver/gold ani płacić skojarzonej opłaty za kompetencję. Ponadto, jeśli jesteś już złotym partnerem w zakresie kompetencji, przyrostowe korzyści dla kompetencji Silver zostaną automatycznie przyznane. W tym scenariuszu opcja płacenia opłaty za kompetencję Silver również będzie niedostępna.
 
 5. Na stronie **Szczegóły zakupu** przejrzyj i potwierdź swoje szczegóły.
 
    (Dowiedz się więcej o [aktualizowaniu](./organization-tax-info.md) informacji o identyfikatorze podatkowym firmy lub adresie firmy w [ **rachunku/sprzedaży).**](./mpn-get-action-pack.md)
 
-6. W lewym dolnym rogu strony znajdź sekcję **Wybierz preferencje** dotyczące płatności. Wybierz opcję **Karta kredytowa** lub **Electronic Bank Transfer,** a następnie wybierz pozycję **Dalej.** Dalsze kroki związane z jedną z tych opcji można znaleźć w poniższych sekcjach.
+6. W lewym dolnym rogu strony znajdź sekcję **Wybierz preferencje** dotyczące płatności. Wybierz opcję **Karta kredytowa** lub **Electronic Bank Transfer,** a następnie wybierz pozycję **Dalej.** Dalsze kroki skojarzone z jedną z tych opcji można znaleźć w poniższych sekcjach.
 
 #### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
 
@@ -70,10 +70,10 @@ W przeciwnym razie wykonaj następujące kroki, aby zapłacić opłatę za kompe
 
 4. Wybierz opcję **Subskrybuj** znajdującą się w prawym dolnym rogu kafelka członkostwa Silver lub Gold.
 
-   :::image type="content" source="images/offers/1-mpn-competency-payment-offers-available-for-purchase.png" alt-text="Strona ofert członkostwa z członkostwami w kolorze silver lub gold, które partner może subskrybować lub kupować." border="false":::
+   :::image type="content" source="images/offers/1-mpn-competency-payment-offers-available-for-purchase.png" alt-text="Strona ofert członkostwa z członkostwami w kolorze silver lub gold, które partner może subskrybować lub zakupić." border="false":::
 
    > [!NOTE]
-   > Jeśli nie zostały jeszcze spełnione wymagania dotyczące wymaganej kompetencji Silver lub Gold, nie będzie można zasubskrybować członkostwa w silver/gold ani płacić skojarzonej opłaty za kompetencję. Ponadto, jeśli jesteś już złotym partnerem w zakresie kompetencji, przyrostowe korzyści z kompetencji Silver zostaną automatycznie przyznane. W tym scenariuszu opcja płacenia opłaty za kompetencję Silver również będzie niedostępna.
+   > Jeśli nie zostały jeszcze spełnione wymagania dotyczące wymaganej kompetencji Silver lub Gold, nie będzie można zasubskrybować członkostwa w silver/gold ani płacić skojarzonej opłaty za kompetencję. Ponadto, jeśli jesteś już złotym partnerem w zakresie kompetencji, przyrostowe korzyści dla kompetencji Silver zostaną automatycznie przyznane. W tym scenariuszu opcja płacenia opłaty za kompetencję Silver również będzie niedostępna.
 
 5. Na stronie **Szczegóły zakupu** przejrzyj i potwierdź swoje szczegóły.
 
@@ -81,7 +81,7 @@ W przeciwnym razie wykonaj następujące kroki, aby zapłacić opłatę za kompe
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Strona szczegółów zakupu ofert członkostwa z preferencjami płatności." border="false":::
 
-6. W lewym dolnym rogu strony znajdź sekcję **Wybierz preferencje** dotyczące płatności. Wybierz opcję **Karta kredytowa** lub **Electronic Bank Transfer,** a następnie wybierz pozycję **Dalej.** Dalsze kroki związane z jedną z tych opcji można znaleźć w poniższych sekcjach.
+6. W lewym dolnym rogu strony znajdź sekcję **Wybierz preferencje** dotyczące płatności. Wybierz opcję **Karta kredytowa** lub **Electronic Bank Transfer,** a następnie wybierz pozycję **Dalej.** Dalsze kroki skojarzone z jedną z tych opcji można znaleźć w poniższych sekcjach.
 
 * * *
 
@@ -104,22 +104,22 @@ Natychmiast po otrzymaniu informacji o karcie kredytowej i zakończeniu transakc
 
 ### <a name="use-electronic-bank-transfer-as-your-payment-preference"></a>Korzystanie z elektronicznego przelewu bankowego jako preferencji płatności
 
-Wykonaj następujące kroki, aby ukończyć przelew bankowy w celu ukończenia powiązanego członkostwa w kompetencji Silver lub Gold.
+Wykonaj następujące kroki, aby ukończyć przelew bankowy w celu wykonania powiązanego członkostwa w kompetencji Silver lub Gold.
 
 1. Jeśli wybrano **opcję Elektroniczne przelewy** bankowe jako preferowaną formę płatności, zobaczysz **stronę Przeglądanie szczegółów** zakupu.
 
-2. Wybierz link **umowy** w dolnej części tej strony i zapoznaj się z warunkami i postanowieniami zakupu oferty MPN w imieniu firmy. Ta umowa zawiera ważne informacje o koncie rozliczeniowym, odnawianiu, uprawnieniach do zwrotu kosztów i podatkach.
+2. Wybierz link **umowy** w dolnej części tej strony i zapoznaj się z warunkami i postanowieniami zakupu oferty MPN w imieniu swojej firmy. Ta umowa zawiera ważne informacje o koncie rozliczeniowym, odnawianiu, uprawnieniach do zwrotu kosztów i podatkach.
 
 3. Przejrzyj potrzebne szczegóły przelewu bankowego. 
 
-4. W **obszarze Wybrany zakup** zanotuj kwotę należną firmie Microsoft i określoną opłatę w walucie. Musisz przenieść te kwoty z konta bankowego w tej konkretnej walucie.
+4. W **obszarze Wybrany zakup** zanotuj kwotę należną firmie Microsoft i określoną opłatę w walucie. Konieczne będzie przeniesienie tej kwoty z konta bankowego w tej konkretnej walucie.
 
 5. Jeśli masz wszystkie potrzebne informacje, wybierz pozycję **Prześlij.**
 
    > [!NOTE]
    > Numer **zamówienia i** identyfikator **MPN** zostaną wyświetlone natychmiast po pomyślnym **przesłaniu** zamówienia. Zanotuj te informacje. Będzie on potrzebny później do ukończenia przelewu bankowego.
 
-6. Zostanie wyświetlony komunikat potwierdzający, że przesyłanie powiodło się. Po zakończeniu przelewu bankowego musisz wrócić do tej strony, aby przekazać dowód płatności.
+6. Zostanie wyświetlony komunikat z potwierdzeniem wskazujący, że przesłanie powiodło się. Po zakończeniu przelewu bankowego musisz wrócić do tej strony, aby przekazać dowód płatności.
 
    :::image type="content" source="images/offers/5-mpn-competency-payment-thank-you-confirmation.png" alt-text="Strona potwierdzenia przesłania." border="false":::
 
@@ -127,11 +127,11 @@ Wykonaj następujące kroki, aby ukończyć przelew bankowy w celu ukończenia p
 
    - Uwzględnij zarówno numer **zamówienia,** jak i **identyfikator MPN** w szczegółach referencyjnych przelewu bankowego.
 
-   - Przekłać należną kwotę (w walucie podanej wcześniej) na konto bankowe Microsoft pokazane w obszarze Instrukcje dotyczące **przelewu bankowego na poprzedniej** stronie.
+   - Przekłać należną kwotę (w walucie podanej wcześniej) na konto bankowe Microsoft pokazane w obszarze Instrukcje dotyczące przelewu **bankowego na poprzedniej** stronie.
 
-8. Gdy bank potwierdzi transakcję, zrób zdjęcie potwierdzenia bankowego jako dowód. Upewnij się, że dokument potwierdzający potwierdzenie przez bank zawiera szczegółowe informacje o: 
+8. Gdy bank potwierdzi transakcję, zrób zdjęcie potwierdzenia bankowego jako dowód. Upewnij się, że dokument potwierdzający potwierdzenie przez bank zawiera szczegółowe informacje dotyczące: 
    - Data płatności przelewem
-   - Konto bankowe Microsoft używane do odbierania przelewu bankowego
+   - Konto bankowe Microsoft użyte do otrzymania przelewu bankowego
    - Kwota przelewu wyświetlana w odpowiedniej walucie
    - Twój numer zamówienia i numer IDENTYFIKATORA MPN
 
@@ -139,9 +139,9 @@ Wykonaj następujące kroki, aby ukończyć przelew bankowy w celu ukończenia p
 
 ### <a name="upload-proof-of-wire-transfer-payment"></a>Upload potwierdzenie płatności przelewem
 
-Jeśli płacisz opłatę za członkostwo w silver lub gold za pośrednictwem elektronicznego przelewu bankowego, musisz przekazać dowód płatności na adres Partner Center. W tym celu wykonaj następujące kroki:
+Jeśli płacisz opłatę za członkostwo w silver lub gold za pośrednictwem elektronicznego przelewu bankowego, musisz przekazać dowód płatności do Partner Center. W tym celu wykonaj następujące kroki:
 
-1. Zaloguj się do pulpitu [Partner Center,](https://partner.microsoft.com/dashboard)wybierz **kafelek Członkostwo,** a następnie wybierz **pozycję Oferty członkostwa.**
+1. Zaloguj się do pulpitu [nawigacyjnego Partner Center,](https://partner.microsoft.com/dashboard)wybierz **kafelek Członkostwo,** a następnie wybierz **pozycję Oferty członkostwa.**
 
 2. Na liście Zakupione oferty znajdź swoją konkretną ofertę. Następnie w kolumnie Akcja dla tej oferty wybierz pozycję **Upload płatności.**
 
@@ -183,7 +183,7 @@ Jeśli Twoja organizacja ma aktywną kompetencję Silver i spełnia wymagania do
 Nowa gold anniversary date zostanie zaplanowana na jeden rok od daty zakupu. Otrzymasz pełne korzyści.
 
 > [!NOTE]
-> Istnieje kilka wyjątków od tego rabatu na uaktualnienie. Jeśli masz ofertę członkostwa w programie Silver, a następnie ujmij 25% rabatu na członkostwo Gold w celu uaktualnienia do oferty członkostwa Gold, nie będziesz kwalifikować się do zwrotu kosztów za platformę Silver. Jest to prawdziwe nawet wtedy, gdy płacisz za członkostwo w programie Silver w ciągu 30 dni i nie korzystasz jeszcze z powiązanych korzyści.
+> Istnieje kilka wyjątków od tego rabatu na uaktualnienie. Jeśli masz ofertę członkostwa w programie Silver, a następnie ujmij 25% rabatu na członkostwo Gold, aby uaktualnić do oferty członkostwa Gold, nie będziesz kwalifikować się do zwrotu kosztów za platformę Silver. Jest to prawdziwe, nawet jeśli zapłacisz za członkostwo w programie Silver w ciągu 30 dni i nie zostały jeszcze wykorzystane powiązane korzyści.
 
 Aby sprawdzić, gdzie jest stosowany rabat 25%, wykonaj następujące czynności:
 

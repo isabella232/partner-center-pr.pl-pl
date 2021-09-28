@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 2f97e9f41efb3309c8a83bf5f70cad50a3aa057c
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 1ecb9d5ecd1a9a34423141009111b22fb1c659ac
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074556"
+ms.locfileid: "129089967"
 ---
 # <a name="using-the-skills-report"></a>Korzystanie z raportu umiejętności
 
@@ -30,7 +30,7 @@ Administrator partnera MPN firmy lub administrator globalny może chcieć wykona
 
 - Zaplanuj przyszłe szkolenie w zakresie umiejętności, aby upewnić się, że Twoja firma partnerska spełnia wymagania dotyczące umiejętności dla określonej kompetencji. Dzięki temu twoja firma partnerska zyska nową kompetencję w zakresie silver lub gold albo utrzymuje istniejącą kompetencję w zakresie silver lub gold. W przypadku istniejących kompetencji silver lub gold administratorzy powinni sprawdzić raport umiejętności co najmniej na trzy miesiące przed datą rocznicy kompetencji, aby ustalić, czy poziom lub odnowienie kompetencji jest zagrożone. To zaawansowane ostrzeżenie pozwala dać użytkownikom czas na uzyskanie nowych umiejętności.
 
-- Upewnij się, że wszyscy użytkownicy techniczną w firmie są wyświetloną w raporcie umiejętności i że niezwłocznie skojarzyli swoje konto learn ze swoim Partner Center użytkownika. W kolejnych sekcjach tego artykułu opisano, jak to zrobić.
+- Upewnij się, że wszyscy użytkownicy techniczną w firmie są wyświetloną w raporcie umiejętności i że niezwłocznie skojarzyli swoje konto learn ze swoim kontem Partner Center użytkownika. W kolejnych sekcjach tego artykułu opisano, jak to zrobić.
 
 - Pracuj z użytkownikami, aby potwierdzić dokładność najnowszych informacji o umiejętnościach w raporcie umiejętności. W razie potrzeby pomóż użytkownikom rozwiązać wszelkie problemy.
 
@@ -42,11 +42,11 @@ Zanim będzie można wyświetlić raport umiejętności i rozpocząć stosowanie
  
    Partnerzy muszą być zarejestrowani w Microsoft Partner Network, aby uzyskać kompetencję lub uzyskać dostęp do raportu umiejętności dla swoich użytkowników. Jeśli Twoja firma nie jest jeszcze członkiem grupy Microsoft Partner Network, przejdź do strony członkostwa i [wybierz](https://partner.microsoft.com/membership) pozycję **Dołącz teraz.**
 - Upewnij się, że masz odpowiednią rolę w Partner Center.
-   Tylko użytkownicy w firmie partnerskiej, którym przypisano rolę Partner Center partnera MPN lub administratora globalnego, mogą wyświetlać raport umiejętności z pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard) Dowiedz się więcej o [dostępnych rolach użytkowników w](permissions-overview or assign.md) Partner Center. Możesz też przeczytać, jak utworzyć konto użytkownika lub zarządzać [kontem użytkownika](create-user-accounts-and-set-permissions.md) w celu przypisania określonej roli do użytkownika.
+   Tylko użytkownicy w firmie partnerskiej, którym przypisano rolę Partner Center partnera MPN lub administratora globalnego, mogą wyświetlać raport umiejętności z Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard) Dowiedz się więcej o [dostępnych rolach użytkowników w](permissions-overview or assign.md) Partner Center. Możesz też przeczytać, jak utworzyć konto użytkownika lub zarządzać [kontem użytkownika](create-user-accounts-and-set-permissions.md) w celu przypisania określonej roli do użytkownika.
 - Upewnij się, że użytkownicy twojej firmy mają również własne konto użytkownika w Partner Center. 
    Konto użytkownika powinno być skojarzone z firmą partnerską. Zobacz, jak utworzyć konto użytkownika [lub zarządzać kontem użytkownika.](create-user-accounts-and-set-permissions.md)
 - Upewnij się, że użytkownicy w firmie skojarzą swoje umiejętności lub certyfikaty ze swoim Partner Center kontem użytkownika. 
-   Zanim ich umiejętności lub certyfikaty będą widoczne w raporcie umiejętności usługi Partner Center, użytkownicy muszą upewnić się, że skojarzyli swoje konto [microsoft Edukacja (identyfikator MCP)](ms-learn-associate.md)z uczelnią Partner Center i Partner University. Gdy użytkownik będzie wykonać te kroki, może mieć od 24 do 72 godzin, zanim jego umiejętności pojawią się w raporcie umiejętności. Ten zestaw kroków powinien również zostać ukończony przez wszystkich nowych użytkowników, którzy ostatnio dołączyli do firmy.
+   Zanim ich umiejętności lub certyfikaty będą widoczne w raporcie umiejętności Partner Center, użytkownicy muszą upewnić się, że skojarzyli swoje konto [microsoft Edukacja (identyfikator MCP)](ms-learn-associate.md)z uczelnią Partner Center i Partner University. Gdy użytkownik będzie wykonać te kroki, może mieć od 24 do 72 godzin, zanim jego umiejętności pojawią się w raporcie umiejętności. Ten zestaw kroków powinien również zostać ukończony przez wszystkich nowych użytkowników, którzy ostatnio dołączyli do firmy.
 
    > [!NOTE]
    > Użytkownicy powinni używać tego samego adresu e-mail, który był używany w msCert, Microsoft Learn lub portalu Partner University podczas egzaminów lub kursów. Jeśli użytkownik użył innego adresu e-mail niż adres e-mail skojarzony z nim na koncie użytkownika usługi Partner Center, być może musi współpracować z administratorem konta MPN lub administratorem globalnym.
@@ -56,11 +56,11 @@ Zanim będzie można wyświetlić raport umiejętności i rozpocząć stosowanie
 Wykonaj następujące kroki, aby wyświetlić dane raportu umiejętności z Partner Center.
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
-1. Przy użyciu konta użytkownika z odpowiednią Partner Center zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard)
+1. Przy użyciu konta użytkownika z odpowiednią Partner Center zaloguj się do pulpitu [Partner Center nawigacyjnego.](https://partner.microsoft.com/dashboard)
 
 2. Wybierz **kafelek Członkostwo,** a następnie wybierz **pozycję Kompetencje.**
 
@@ -74,10 +74,10 @@ Wykonaj następujące kroki, aby wyświetlić dane raportu umiejętności z Part
 
    - Aby pobrać raport w formacie arkusza kalkulacyjnego, wybierz **pozycję Pobierz raport umiejętności.** Po pobraniu i otworze pliku zobaczysz tabelę ze szczegółami umiejętności poszczególnych użytkowników. Kolumny Skojarzone z **PMC** i Skojarzone z komputerem **wskazują,** czy umiejętności użytkownika zostały już skojarzone z jego wcześniejszym kontem Partner Membership Center (PMC) i jego kontem Partner Center (PC). Jeśli użytkownicy nadal działają w programie PMC, zobacz sekcję w dalszej części na temat użytkowników pmc.
 
-      :::image type="content" source="images/competencies/mpn-skills-report-3.png" alt-text="Partner Center arkusza kalkulacyjnego z wieloma kolumnami przykładowych danych przedstawiającymi stan poziomu umiejętności użytkowników." border="true":::
+      :::image type="content" source="images/competencies/mpn-skills-report-3.png" alt-text="Partner Center arkusz kalkulacyjny z wieloma kolumnami przykładowych danych przedstawiającymi stan poziomu umiejętności użytkowników." border="true":::
 
 > [!NOTE]
-> Gdy użytkownik po raz pierwszy skojarzy swoje egzaminy i certyfikaty firmy Microsoft lub oceny w ramach szkolenia firmy Microsoft & lub ukończy nowe umiejętności, może upłynieć do 72 godzin, aż umiejętności zostaną wyświetlone w raporcie umiejętności. Tylko umiejętności związane z kompetencjami i programami Partner Center będą wyświetlane w raporcie umiejętności. Wycofane umiejętności mogą być również wyświetlane w raporcie przez co najmniej 12 miesięcy po ich wycofaniu. O ile egzamin, ocena  lub certyfikacja nie zostały wyraźnie wymienione jako  część określonych wymagań [kompetencji,](https://partner.microsoft.com/membership/competencies)nie będzie on rozważany w celu osiągnięcia tej kompetencji.
+> Gdy użytkownik po raz pierwszy skojarzy swoje egzaminy i certyfikaty firmy Microsoft lub oceny dotyczące szkoleń firmy Microsoft & lub ukończy nowe umiejętności, może upłynieć do 72 godzin, aż umiejętności zostaną wyświetlone w raporcie umiejętności. Raport umiejętności będzie zawierał tylko umiejętności związane z kompetencjami i Partner Center programów. Wycofane umiejętności mogą być również wyświetlane w raporcie przez co najmniej 12 miesięcy po ich wycofaniu. O ile egzamin, ocena  lub certyfikacja nie zostały wyraźnie wymienione jako  część określonych wymagań [kompetencji,](https://partner.microsoft.com/membership/competencies)nie będzie on rozważany w celu osiągnięcia tej kompetencji.
 
 #### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
 
@@ -91,16 +91,16 @@ Wykonaj następujące kroki, aby wyświetlić dane raportu umiejętności z Part
       :::image type="content" source="images/competencies/mpn-skills-report-2.png" alt-text="Partner Center raport kompetencji z opcją Dane dotyczące umiejętności użytkownika w lewym górnym rogu." border="true":::
    - Aby pobrać raport w formacie arkusza kalkulacyjnego, wybierz **pozycję Pobierz raport umiejętności.** Po pobraniu i otworze pliku zobaczysz tabelę ze szczegółami umiejętności poszczególnych użytkowników. Kolumny Skojarzone z **PMC** i Skojarzone z komputerem **wskazują,** czy umiejętności użytkownika zostały już skojarzone z jego wcześniejszym kontem Partner Membership Center (PMC) i jego kontem Partner Center (PC). Jeśli użytkownicy nadal działają w programie PMC, zobacz sekcję w dalszej części na temat użytkowników pmc.
 
-      :::image type="content" source="images/competencies/mpn-skills-report-3.png" alt-text="Partner Center arkusza kalkulacyjnego z wieloma kolumnami przykładowych danych przedstawiającymi stan poziomu umiejętności użytkowników." border="true":::
+      :::image type="content" source="images/competencies/mpn-skills-report-3.png" alt-text="Partner Center arkusz kalkulacyjny z wieloma kolumnami przykładowych danych przedstawiającymi stan poziomu umiejętności użytkowników." border="true":::
 
 > [!NOTE]
-> Gdy użytkownik po raz pierwszy skojarzy swoje egzaminy i certyfikaty firmy Microsoft lub oceny w ramach szkolenia firmy Microsoft & lub ukończy nowe umiejętności, może upłynieć do 72 godzin, aż umiejętności zostaną wyświetlone w raporcie umiejętności. Tylko umiejętności związane z kompetencjami i programami Partner Center będą wyświetlane w raporcie umiejętności. Wycofane umiejętności mogą być również wyświetlane w raporcie przez co najmniej 12 miesięcy po ich wycofaniu. O ile egzamin, ocena  lub certyfikacja nie zostały wyraźnie wymienione jako  część określonych wymagań [kompetencji,](https://partner.microsoft.com/membership/competencies)nie będzie on rozważany w celu osiągnięcia tej kompetencji.
+> Gdy użytkownik po raz pierwszy skojarzy swoje egzaminy i certyfikaty firmy Microsoft lub oceny dotyczące szkoleń firmy Microsoft & lub ukończy nowe umiejętności, może upłynieć do 72 godzin, aż umiejętności zostaną wyświetlone w raporcie umiejętności. Raport umiejętności będzie zawierał tylko umiejętności związane z kompetencjami i Partner Center programów. Wycofane umiejętności mogą być również wyświetlane w raporcie przez co najmniej 12 miesięcy po ich wycofaniu. O ile egzamin, ocena  lub certyfikacja nie zostały wyraźnie wymienione jako  część określonych wymagań [kompetencji,](https://partner.microsoft.com/membership/competencies)nie będzie on rozważany w celu osiągnięcia tej kompetencji.
 
 * * *
 
 ## <a name="skills-report-and-pmc-users"></a>Raport umiejętności i użytkownicy PMC
 
-Sześć miesięcy po tym, jak firma przeniosła członkostwo do Partner Center, aby twoje stare umiejętności oparte na pmc były rozważane pod uwagę w celu osiągnięcia kompetencji.
+Masz sześć miesięcy po tym, jak Twoja firma przeniosła członkostwo do Partner Center, aby twoje stare umiejętności oparte na pmc były rozważane w celu osiągnięcia kompetencji.
 Aby zapobiec ryzyku kompetencji, pobierz raport umiejętności i upewnij się, że identyfikuje i określa priorytety użytkowników, których dane wskazują:
 
 - "Tak" w kolumnie **Skojarzone w PMC**
@@ -109,7 +109,7 @@ Aby zapobiec ryzyku kompetencji, pobierz raport umiejętności i upewnij się, �
 
 - Prawidłowe umiejętności wyświetlane w **kolumnie Odpowiednie dla kompetencji (opcja) lub Programy**
 
-Jeśli użytkownicy spełniają powyższe kryteria, skontaktuj się z nimi i poproś ich o skojarzenie Partner Center [jak](ms-learn-associate.md) najszybciej.
+Jeśli użytkownicy spełniają powyższe kryteria, skontaktuj się z nimi i poproś o skojarzenie Partner Center [jak](ms-learn-associate.md) najszybciej.
 
 ## <a name="troubleshoot-issues-with-the-skills-report"></a>Rozwiązywanie problemów z raportem umiejętności
 
@@ -130,9 +130,9 @@ Jeśli użytkownik ma zduplikowane konta, wymagane umiejętności można podziel
 Podczas próby pobrania raportu umiejętności może zostać wyświetlony następujący komunikat: "Nie znaleziono użytkowników *z danymi umiejętności. Sprawdź, czy użytkownicy skojarzyli swoje konta Edukacja Partner University ze swoimi profilami".*
 
 Ten komunikat może pojawić się, jeśli Twoje konto zostało utworzone bezpośrednio w programie Partner Center lub jeśli żaden z użytkowników twojej firmy z portalu PMC nie skojarzył swoich mcpów w pmc przed migracją do usługi Partner Center. 
-[Sprawdź,](ms-learn-associate.md) czy konta mcp skojarzone z kontami Edukacja lub Partner University zostały już skojarzone z kontami użytkowników w Partner Center.
+[Sprawdź,](ms-learn-associate.md) czy konta MCP skojarzone z kontami Edukacja lub Partner University zostały już skojarzone z ich kontami użytkowników w Partner Center.
 
-### <a name="a-user-has-associated-their-skills-in-partner-center-but-i-dont-see-it-in-the-skills-report"></a>Użytkownik skojarzył swoje umiejętności z Partner Center, ale nie widzę go w raporcie umiejętności
+### <a name="a-user-has-associated-their-skills-in-partner-center-but-i-dont-see-it-in-the-skills-report"></a>Użytkownik skojarzył swoje umiejętności Partner Center, ale nie widzę go w raporcie umiejętności
 
 Jeśli użytkownik ma ukończone umiejętności, ale nie pojawia się w raporcie umiejętności, potwierdź:
 
@@ -140,23 +140,23 @@ Jeśli użytkownik ma ukończone umiejętności, ale nie pojawia się w raporcie
 
 - Umiejętności użytkownika są częścią określonych wymagań kompetencji (jak pokazano na pulpicie nawigacyjnym Partner Center nawigacyjnym lub na Microsoft Partner Network Kompetencje).
 
-- Minęło 72 godziny od momentu, gdy użytkownik ukończył swoje umiejętności Po 72 godzinach, jeśli dane dotyczące umiejętności nadal nie odzwierciedlają ukończenia umiejętności przez użytkownika, administrator konta MPN lub administrator partnera MPN powinien skontaktować się z pomocą techniczną dla partnerów firmy [Microsoft.](https://partner.microsoft.com/support) Przed skontaktowanie się z pomocą techniczną dla partnerów firmy Microsoft przygotuj się do zbierania i wysyłania następujących informacji:
+- Minęły 72 godziny od ukończenia umiejętności przez użytkownika Po 72 godzinach, jeśli dane dotyczące umiejętności nadal nie odzwierciedlają ukończenia umiejętności przez użytkownika, administrator konta MPN lub administrator partnera MPN powinien skontaktować się z pomocą techniczną dla partnerów firmy [Microsoft.](https://partner.microsoft.com/support) Przed skontaktowaniem się z pomocą techniczną dla partnerów firmy Microsoft przygotuj się do zbierania i wysyłania następujących informacji:
 
-- Kopia **wyeksportowanego raportu użytkowników** (lub zrzut ekranu raportu). Aby uzyskać dostęp do tego raportu, zaloguj się do Partner Center, a następnie wybierz pozycję Zarządzanie użytkownikami, a następnie pozycję **Eksportuj raport użytkowników.** Raport pokazuje, kto ma dostęp do witryny Partner University lub który skojarzył swoje konto Edukacja Microsoft.
+- Kopia **wyeksportowanego raportu użytkowników** (lub zrzut ekranu przedstawiający raport). Aby uzyskać dostęp do tego raportu, zaloguj się do Partner Center, a następnie wybierz pozycję **Zarządzanie** użytkownikami, a następnie pozycję **Eksportuj raport użytkowników.** Raport pokazuje, kto ma dostęp do witryny Partner University lub który skojarzył swoje konto Edukacja Microsoft.
 
-- Pobrana wersja najnowszego raportu umiejętności, zgodnie z opisem we wcześniejszej części tego artykułu.
+- Pobrana wersja najnowszego raportu umiejętności, zgodnie z wcześniejszym opisem w tym artykule.
 
 - Potwierdzenie, że użytkownik ukończył odpowiednie egzaminy, certyfikaty lub szkolenia i oceny firmy Microsoft. Zapoznaj się z poniższymi przykładami dowodu.
 
    > [!NOTE]
    > Obecnie program Partner Center tylko z dwóch źródeł, Microsoft Edukacja i Partner University. Żaden inny certyfikat otrzymany z innych źródeł (takich jak OpenedX) nie będzie rozważany.
 
-   **Przykład weryfikacji #1 — oficjalna transkrypcja certyfikacji firmy Microsoft**
+   **Przykład weryfikacji #1 — oficjalna transkrypcja certyfikatu firmy Microsoft**
 
-   :::image type="content" source="images/competencies/mpn-skills-report-4.png" alt-text="Przykład oficjalnej transkrypcji certyfikacji firmy Microsoft." border="true":::
+   :::image type="content" source="images/competencies/mpn-skills-report-4.png" alt-text="Przykład oficjalnej transkrypcji certyfikatu firmy Microsoft." border="true":::
 
-   **Przykładowy przykład #2 — przykład ukończenia** kursu szkoleniowego online firmy Microsoft zatytułowany Microsoft Online Training Course Completion (Ukończenie kursu :::image type="content" source="images/competencies/mpn-skills-report-5.png" alt-text="szkoleniowego online firmy Microsoft)." border="true":::
+   **Przykład weryfikacji #2 — przykładowy** certyfikat ukończenia kursu szkoleniowego online firmy Microsoft :::image type="content" source="images/competencies/mpn-skills-report-5.png" alt-text="zatytułowany Microsoft Online Training Course Completion (Ukończenie kursu szkoleniowego online firmy Microsoft)." border="true":::
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Łączenie Microsoft Learn identyfikatora MCP z Partner Center kontem](ms-learn-analytics.md)
+- [Łączenie Microsoft Learn MCP z Partner Center kontem](ms-learn-analytics.md)

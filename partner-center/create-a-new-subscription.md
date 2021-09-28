@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 416bf2804eeb796109f538c109f8087006d7c9da
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: f959dfad32fbe1f4f5f71d3dcbdc64f07ee5b901
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072318"
+ms.locfileid: "129089814"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Tworzenie, zawieszanie lub anulowanie subskrypcji klientów
 
@@ -35,7 +35,7 @@ Niektóre oferty są ograniczone do jednej subskrypcji na klienta. Aby wyświetl
 ## <a name="create-a-new-subscription"></a>Tworzenie nowej subskrypcji
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie zgrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz Getting around Partner Center (Poruszanie [się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off)).
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
@@ -69,7 +69,7 @@ Niektóre oferty są ograniczone do jednej subskrypcji na klienta. Aby wyświetl
     > [!NOTE]
     > Ani Ty, ani Klient nie otrzymacie wiadomości e-mail z instrukcjami dotyczącymi ukończenia procesu skonfigurowania/aprowizowania konta dla tego typu subskrypcji isV).
 
-    - Jeśli Twoja subskrypcja zawiera 30-dniową bezpłatną wersję próbną, bezpłatny okres próbny zostanie zastosowany automatycznie. Jako partner w programie CSP nie możesz zrezygnować z okresu bezpłatnej wersji próbnej ofert zakupu dla klientów. Po zakończeniu okresu bezpłatnej wersji próbnej rozpocznie się okres subskrypcji, a subskrypcja zostanie przekształcona w stan płatny. Subskrypcja zostanie następnie automatycznie odnowiona zgodnie z tym samym harmonogramem.
+    - Jeśli Twoja subskrypcja zawiera 30-dniową bezpłatną wersję próbną, bezpłatny okres próbny zostanie zastosowany automatycznie. Jako partner w programie CSP nie możesz zrezygnować z okresu bezpłatnej wersji próbnej ofert zakupu dla klientów. Po zakończeniu okresu bezpłatnej wersji próbnej okres subskrypcji rozpocznie się, a subskrypcja zostanie przekształcona w stan płatny. Subskrypcja zostanie następnie automatycznie odnowiona zgodnie z tym samym harmonogramem.
 
 #### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
 
@@ -103,7 +103,7 @@ Niektóre oferty są ograniczone do jednej subskrypcji na klienta. Aby wyświetl
     > [!NOTE]
     > Ani Ty, ani Klient nie otrzymacie wiadomości e-mail z instrukcjami dotyczącymi ukończenia procesu skonfigurowania/aprowizowania konta dla tego typu subskrypcji isV).
 
-    - Jeśli Twoja subskrypcja zawiera 30-dniową bezpłatną wersję próbną, bezpłatny okres próbny zostanie zastosowany automatycznie. Jako partner w programie CSP nie możesz zrezygnować z okresu bezpłatnej wersji próbnej ofert zakupu dla klientów. Po zakończeniu okresu bezpłatnej wersji próbnej rozpocznie się okres subskrypcji, a subskrypcja zostanie przekształcona w stan płatny. Subskrypcja zostanie następnie automatycznie odnowiona zgodnie z tym samym harmonogramem.
+    - Jeśli Twoja subskrypcja zawiera 30-dniową bezpłatną wersję próbną, bezpłatny okres próbny zostanie zastosowany automatycznie. Jako partner w programie CSP nie możesz zrezygnować z okresu bezpłatnej wersji próbnej ofert zakupu dla klientów. Po zakończeniu okresu bezpłatnej wersji próbnej okres subskrypcji rozpocznie się, a subskrypcja zostanie przekształcona w stan płatny. Subskrypcja zostanie następnie automatycznie odnowiona zgodnie z tym samym harmonogramem.
 
 * * *
 
@@ -133,7 +133,7 @@ Partnerzy mogą wstrzymać lub anulować subskrypcję na żądanie klienta lub w
 
 ### <a name="suspend-a-subscription"></a>Zawieszenie subskrypcji
 
-Jeśli zmienisz stan subskrypcji na Wstrzymano, użytkownicy nie będą mogli logować się ani uzyskać dostępu do usług.
+Jeśli zmienisz stan subskrypcji na Wstrzymano **,** użytkownicy nie będą mogli logować się ani uzyskać dostępu do usług.
 
 1. Zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard)
 
@@ -148,28 +148,28 @@ Jeśli zmienisz stan subskrypcji na Wstrzymano, użytkownicy nie będą mogli lo
 Po wstrzymaniu subskrypcji data, która zostanie wyświetlony poniżej przycisku **Wstrzymano,** wskazuje, kiedy subskrypcja automatycznie wygaśnie, jeśli subskrypcja nie zostanie ponownie aktywowana. 
 
 >[!NOTE]
->Subskrypcje CSP nie mają wygasłego okresu (w jaki działają subskrypcje bezpośrednie w sieci Web), w którym usługi nadal działają, ale subskrypcja nie generuje żadnych opłat rozliczeniowych. Subskrypcje CSP są aktywne lub wstrzymane (albo całkowicie usunięte).
+>Subskrypcje CSP nie mają wygasłego okresu (jak robią to subskrypcje internetowe), w którym usługi nadal działają, ale subskrypcja nie generuje żadnych opłat rozliczeniowych. Subskrypcje CSP są aktywne lub wstrzymane (albo w pełni usunięte).
 
 ### <a name="cancel-a-subscription"></a>Anulowanie subskrypcji
 
-Subskrypcje SaaS oparte na licencjach można anulować od innych wydawców isV w ramach platformy Partner Center [komercyjnej.](csp-commercial-marketplace-overview.md) Dopóki anulujesz subskrypcję w okresie anulowania, otrzymasz pełny zwrot pieniędzy.
+Możesz anulować oparte na licencjach subskrypcje SaaS od zewnętrznych wydawców isv w ramach platformy Partner Center [platformy handlowej.](csp-commercial-marketplace-overview.md) Dopóki anulujesz subskrypcję w okresie anulowania, otrzymasz pełny zwrot kosztów.
 
-W przypadku ofert isv offers billed monthly:
+W przypadku ofert isv(isv) rozliczanych miesięcznie:
 
 - Jeśli anulujesz zamówienie po upływie mniej niż 24 godzin, otrzymasz pełne środków na następnej fakturze.
 
-- Jeśli anulujesz subskrypcję po upływie 24 godzin od złożonego zamówienia, anulowanie zostanie zaplanowane podczas odnawiania.
+- Jeśli anulujesz zamówienie później niż 24 godziny, anulowanie zostanie zaplanowane podczas odnawiania.
 
 W przypadku ofert rozliczanych rocznie:
 
 - Jeśli anulujesz zamówienie po upływie mniej niż 14 dni, otrzymasz pełne środków na następnej fakturze.
 
-- Jeśli anulujesz subskrypcję później niż 14 dni od zamówienia, anulowanie zostanie zaplanowane podczas odnawiania.
+- Jeśli anulujesz zamówienie później niż 14 dni, anulowanie zostanie zaplanowane podczas odnawiania.
 
-Po zakończeniu tych okresów nie będzie już dostępna opcja anulowania subskrypcji.
+Po upływie tych okresów nie będzie już dostępna opcja anulowania subskrypcji.
 
 > [!NOTE]
-> Oparte na użyciu i mierzone usługi innych firm isv (na przykład które używają maszyn wirtualnych lub kontenerów) nie kwalifikują się do zwrotu. Usługi oparte na użyciu można anulować. Ponieważ opłaty są naliczane po użyciu, te usługi nie kwalifikują się do zwrotu kosztów.
+> Oparte na użyciu i mierzone usługi innych firm isv (które na przykład korzystają z maszyn wirtualnych lub kontenerów) nie kwalifikują się do zwrotu. Usługi oparte na użyciu można anulować jako metodę anulowania. Ponieważ opłaty są naliczane po użyciu, te usługi nie kwalifikują się do zwrotu.
 
 Aby anulować opartą na licencji subskrypcję SaaS uzyskaną od wydawcy niezależnego dostawcy oprogramowania, wykonaj następujące czynności:
 
@@ -186,11 +186,11 @@ Aby anulować opartą na licencji subskrypcję SaaS uzyskaną od wydawcy niezale
 6. Aby potwierdzić anulowanie, wybierz pozycję **Tak, anuluj .**
 
 > [!NOTE]
-> Możesz również anulować subskrypcję usługi Azure Marketplace przy użyciu interfejsów API. Aby to zrobić, zobacz [Anulowanie subskrypcji Azure Marketplace subskrypcji.](/partner-center/develop/cancel-an-azure-marketplace-subscription)
+> Możesz również anulować subskrypcję usługi Azure Marketplace przy użyciu interfejsów API. Aby to zrobić, zobacz [Anulowanie Azure Marketplace subskrypcji.](/partner-center/develop/cancel-an-azure-marketplace-subscription)
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Wybierz, czy subskrypcja platformy handlowej ma być odnawiana automatycznie
 
-Domyślnie aktywne subskrypcje są ustawione na automatyczne odnawianie po upływie okresu subskrypcji. W [przypadku subskrypcji produktów komercyjnej](csp-commercial-marketplace-overview.md)platformy handlowej możesz opcjonalnie zdecydować, aby nie odnawiać subskrypcji automatycznie.
+Domyślnie aktywne subskrypcje są ustawione na automatyczne odnawianie po upływie okresu subskrypcji. W [przypadku subskrypcji produktów platformy handlowej](csp-commercial-marketplace-overview.md)możesz opcjonalnie zdecydować, aby nie odnawiać subskrypcji automatycznie.
 
 Aby zatrzymać automatyczne odnawianie aktywnej subskrypcji platformy handlowej:
 
@@ -202,14 +202,14 @@ Aby zatrzymać automatyczne odnawianie aktywnej subskrypcji platformy handlowej:
 
 4. W kolumnie **Subskrypcja** wybierz subskrypcję, którą chcesz zmodyfikować.
 
-5. Na stronie szczegółów subskrypcji znajdź **sekcję Stan** i usuń zaznaczenie pola **Automatycznie odnawiaj.**
+5. Na stronie szczegółów subskrypcji znajdź sekcję **Stan** i usuń zaznaczenie pola **Automatycznie odnawiaj.**
 
 6. Wybierz pozycję **Prześlij**.
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Kupowanie produktów komercyjnej platformy handlowej dla klientów](csp-commercial-marketplace-purchase.md)
+- [Kupowanie produktów na platformie handlowej dla klientów](csp-commercial-marketplace-purchase.md)
 
-- [Zarządzanie produktami platformy handlowej dla klientów](csp-commercial-marketplace-manage.md)
+- [Zarządzanie produktami na platformie handlowej dla klientów](csp-commercial-marketplace-manage.md)
 
 - [Omówienie komercyjnej platformy handlowej](csp-commercial-marketplace-overview.md)

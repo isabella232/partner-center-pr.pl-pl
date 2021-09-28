@@ -9,12 +9,12 @@ author: petand123
 ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0043a9d6f39b4c6858a6e69f73c6c7503b17508e
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 80d8def7f72243106aa0cc1645276e4512b004ef
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073845"
+ms.locfileid: "129089848"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Zarządzanie licencjonowaniem w ofertach na platformie handlowej
 
@@ -41,9 +41,9 @@ Przed rozpoczęciem tego procesu należy zapoznać się z podstawami platformy h
 
 W poniższych procedurach zostanie wyświetlony monit o wprowadzenie identyfikatora oferty. Poślij teraz trochę czasu, aby wymyślić odpowiedni identyfikator oferty, pamiętając o następujących kwestiach:
 
-- Ten identyfikator jest widoczny dla klientów w adresie internetowym oferty marketplace i Azure Resource Manager szablonów, jeśli ma to zastosowanie.
-- Identyfikator oferty w połączeniu z identyfikatorem Publisher musi mieć długość poniżej 40 znaków.
-- Użyj tylko małych liter i cyfr. Identyfikator oferty może zawierać łączniki i podkreślenia, ale nie może zawierać spacji. Jeśli na przykład Identyfikator Publisher to , a po wprowadzeniu adresu internetowego oferty będzie `testpublisherid` `test-offer-1` to `https://appsource.microsoft.com/product/dynamics-365/testpublisherid.test-offer-1` .
+- Ten identyfikator jest widoczny dla klientów w adresie internetowym oferty w witrynie Marketplace i Azure Resource Manager szablonów, jeśli ma to zastosowanie.
+- Identyfikator oferty połączony z identyfikatorem Publisher musi mieć długość poniżej 40 znaków.
+- Użyj tylko małych liter i cyfr. Identyfikator oferty może zawierać łączniki i podkreślenia, ale nie może zawierać spacji. Jeśli na przykład identyfikatorem Publisher i po wprowadzeniu adresu internetowego oferty `testpublisherid` `test-offer-1` będzie . `https://appsource.microsoft.com/product/dynamics-365/testpublisherid.test-offer-1`
 - Tego identyfikatora nie można zmienić po wybraniu opcji **Utwórz**.
 
 ### <a name="determine-your-offer-alias"></a>Określanie aliasu oferty
@@ -58,7 +58,7 @@ Alias oferty to nazwa używana dla oferty w Partner Center. Będziesz również 
 Pierwszym krokiem procesu licencjonowania jest utworzenie oferty platformy handlowej.
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
@@ -100,7 +100,7 @@ W tych krokach zdefiniujesz plan lub plany, które chcesz włączyć dla oferty.
 3. Na stronie **listy Plan** wprowadź opis **planu**.
 4. Aby zapisać opis i zakończyć go później, wybierz pozycję **Zapisz roboczą.**
 
-5. Po zakończeniu wybierz pozycję **Przejrzyj i opublikuj**. Informacje o planie będą teraz wyświetlane na stronie appsource.microsoft.com w obszarze oferty (sekcja planów).
+5. Po zakończeniu wybierz pozycję **Przejrzyj i opublikuj**. Informacje o planie będą teraz wyświetlane na stronie appsource.microsoft.com na liście ofert (sekcja planów).
 
 6. Po utworzeniu wszystkich planów dla tej oferty należy skopiować identyfikator usługi każdego planu. Wybierz **pozycję Plan overview** (Omówienie planu) w górnej części strony z listą planów. Skopiuj identyfikator usługi dla każdego planu do bezpiecznej lokalizacji.
 
@@ -140,7 +140,7 @@ Aby można było przypisać licencje do klienta, każda sprzedaż musi być zare
 Użyj poniższej procedury, aby zaprosić klienta do wzięcia udziału w tej transakcji.  
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 

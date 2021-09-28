@@ -8,23 +8,23 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: f66871639256484bfe7d1a2221acbf11313ac39b
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 90e074bc2b6d1485cdd868fdf66b4f509ca4d5a4
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074870"
+ms.locfileid: "129090137"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Wyświetlanie dostępnych środków zdobytych, roszczeń i pozostałych środków współpracy
 
-**Odpowiednie role:** Administratorzy zachęt | Zachęty użytkownika
+**Odpowiednie role:** Zachęty dla administratorów | Zachęty użytkownika
 
 Możesz śledzić, monitorować i uzgadniać swoje środki zachęty w ramach współpracy na Partner Center [nawigacyjnym](https://partner.microsoft.com/dashboard/) (wymagane jest zalogowanie). Użyj poniższej procedury, aby wyświetlić te środki.
 
 ## <a name="view-your-funds"></a>Wyświetlanie środków
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie zgrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off)).
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
@@ -34,29 +34,29 @@ Możesz śledzić, monitorować i uzgadniać swoje środki zachęty w ramach wsp
 
 3. W górnej części strony programu wybierz pozycję **Wyświetl oświadczenia**.
 
-4. Na liście rozwijanej nad kafelkiem **Co-op claimed wybierz** okres użycia, który chcesz wyświetlić. Spowoduje to wyświetlenie kwot dla środków zdobytych **w** trybie **współpracy,** roszczeń do współpracy i pozostałej współpracy w wybranym okresie. 
+4. Na liście rozwijanej nad kafelkiem **Co-op claimed wybierz** okres użycia, który chcesz wyświetlić. Spowoduje to wyświetlenie kwot **dla** środków zdobytych w  trybie **współpracy,** współpracy z roszczeniem oraz pozostałej współpracy w wybranym okresie.
 
 5. Data wygaśnięcia dla wybranego okresu jest wyświetlana poniżej ekranu **Pozostałe elementy** współpracy.  
 
 6. Aby wyświetlić wszystkie oświadczenia przesłane dla wybranego okresu, przewiń w dół strony.
 
-Jeśli uważasz, że istnieją rozbieżności w kwotach wyświetlanych w podsumowaniu, możesz pobrać raport transakcji z poprzedniego okresu. Ten raport pomoże Ci określić kwotę środków współpracy zdobytych w wybranym okresie użycia. Aby pobrać raporty transakcji lub zweryfikować przesłane oświadczenia, aby upewnić się, że kwota pozostałej współpracy jest dokładna, zobacz [Historia transakcji](./payout-statement.md#transaction-history).
+Jeśli uważasz, że istnieją rozbieżności w kwotach wyświetlanych w podsumowaniu, możesz pobrać raport transakcji z poprzedniego okresu. Ten raport pomoże Ci określić ilość środków współpracy zdobytych w wybranym okresie użycia. Aby pobrać raporty transakcji lub zweryfikować przesłane oświadczenia, aby upewnić się, że kwota pozostałej współpracy jest dokładna, zobacz [Historia transakcji](./payout-statement.md#transaction-history).
 
 #### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
 
-1. Zaloguj się do [pulpitu Partner Center nawigacyjnego](https://partner.microsoft.com/dashboard/) przy użyciu konta usługi Azure AD (konta firmowego) lub odpowiedniej wiadomości e-mail dla roli zachęty.
+1. Zaloguj się do [pulpitu Partner Center przy](https://partner.microsoft.com/dashboard/) użyciu konta usługi Azure AD (konta firmowego) lub odpowiedniej wiadomości e-mail dla roli zachęty.
 
 2. Na pasku nawigacyjnym po lewej stronie wybierz pozycję **Programy,** a następnie wybierz odpowiedni program zachęt z rozwiniętej listy programów.
 
 3. W górnej części strony programu wybierz pozycję **Wyświetl oświadczenia**.
 
-4. Na liście rozwijanej nad kafelkiem **Co-op claimed wybierz** okres użycia, który chcesz wyświetlić. Spowoduje to wyświetlenie kwot dla środków zdobytych **w** trybie **współpracy,** roszczeń do współpracy i pozostałej współpracy w wybranym okresie. 
+4. Na liście rozwijanej nad kafelkiem **Co-op claimed wybierz** okres użycia, który chcesz wyświetlić. Spowoduje to wyświetlenie kwot **dla** środków zdobytych w  trybie **współpracy,** współpracy z roszczeniem oraz pozostałej współpracy w wybranym okresie.
 
 5. Termin przesłania nowych roszczeń jest wyświetlany poniżej ekranu **Pozostałe** elementy współpracy.  
 
 6. Aby wyświetlić wszystkie oświadczenia przesłane dla wybranego okresu, przewiń w dół strony.
 
-Jeśli uważasz, że istnieją rozbieżności w kwotach wyświetlanych w podsumowaniu, możesz pobrać raport transakcji z poprzedniego okresu. Ten raport pomoże Ci określić kwotę środków współpracy zdobytych w wybranym okresie użycia. Aby pobrać raporty transakcji lub zweryfikować przesłane oświadczenia, aby upewnić się, że kwota pozostałej współpracy jest dokładna, zobacz [Historia transakcji](./payout-statement.md#transaction-history).
+Jeśli uważasz, że istnieją rozbieżności w kwotach wyświetlanych w podsumowaniu, możesz pobrać raport transakcji z poprzedniego okresu. Ten raport pomoże Ci określić ilość środków współpracy zdobytych w wybranym okresie użycia. Aby pobrać raporty transakcji lub zweryfikować przesłane oświadczenia, aby upewnić się, że kwota pozostałej współpracy jest dokładna, zobacz [Historia transakcji](./payout-statement.md#transaction-history).
 
 * * *
 

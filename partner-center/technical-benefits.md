@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: 699792cbb22ce122a3db9820ddc48a55abe8f4a0
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: d4b058762752d6568448a7379aa41caf04dc233c
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073040"
+ms.locfileid: "129088556"
 ---
 # <a name="technical-presales-and-deployment-services-tpd"></a>Techniczne usługi przedsprzedażowe i wdrożeniowe (TPD) 
 
@@ -62,7 +62,7 @@ Następujące produkty i usługi znajdują się w zakresie dla usługi TPD:
 - **Microsoft Azure:** Wszystkie rozwiązania Microsoft Azure i powiązane usługi, takie jak infrastruktura jako usługa (IaaS), platforma jako usługa (PaaS), usługi danych i sztucznej inteligencji (AI), usługi dla deweloperów, usługi Azure Stack lub usługi w chmurze używane do opracowywania gier lub rozwiązań Mixed Reality
   - *Poza zakresem: żądania dotyczące urządzeń sprzętowych, takich jak HoloLens i Xbox*
 
-- **Windows Server i SQL Server:** W ramach wsparcia głównego zgodnie z **[cyklem życia produktu](/lifecycle/policies/fixed)**)
+- **Windows Server i SQL Server:** w ramach wsparcia głównego zgodnie z **[cyklem życia produktu](/lifecycle/policies/fixed)**)
   - System Center obejmuje powiązane produkty, takie jak System Center Configuration Manager (SCCM), jeśli są powiązane ze scenariuszami chmury lub hybrydowymi
 
 - **Windows 10:** Windows 10 operacyjny, urządzenia, aplikacje uniwersalne
@@ -76,11 +76,11 @@ Korzyści związane z usługą TPD są automatycznie aktywowane i dostępne dla 
 Aby wyświetlić korzyści techniczne w Partner Center:
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off)).
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
-1. Zaloguj się przy użyciu konta skojarzonego z programem  MPN do pulpitu [nawigacyjnego Partner Center,](https://partner.microsoft.com/dashboard)wybierz kafelek Korzyści, a następnie wybierz pozycję **Korzyści techniczne.**
+1. Zaloguj się przy użyciu konta skojarzonego z programem MPN na pulpicie nawigacyjnym usługi Partner Center, wybierz [kafelek](https://partner.microsoft.com/dashboard) **Korzyści,** a następnie wybierz pozycję **Korzyści techniczne.**
 
    > [!NOTE]
    > Jeśli Twoje konto jest skojarzone tylko z programem Dostawca rozwiązań w chmurze (CSP) i nie jest skojarzone z MPN, zostanie wyświetlony komunikat o błędzie "Nie masz uprawnień do tej akcji". Musisz mieć skojarzone konto MPN.
@@ -106,7 +106,7 @@ Aby wyświetlić korzyści techniczne w Partner Center:
    > [!IMPORTANT]
    > Pamiętaj, aby wybrać odpowiedni kraj (lub region) i język, ponieważ określają one, dokąd twoje żądanie jest kierowane.
 
-6. Strona potwierdzenia zawiera numer i opis wniosku o pomoc techniczną. Otrzymasz również wiadomość e-mail z potwierdzeniem od Partner Center z numerem sprawy.
+6. Strona potwierdzenia zawiera numer i opis wniosku o pomoc techniczną. Otrzymasz również wiadomość e-mail z potwierdzeniem od Partner Center z numerem przypadku.
 
 #### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
 
@@ -136,7 +136,7 @@ Aby wyświetlić korzyści techniczne w Partner Center:
    > [!IMPORTANT]
    > Pamiętaj, aby wybrać odpowiedni kraj (lub region) i język, ponieważ określają one, dokąd twoje żądanie jest kierowane.
 
-6. Strona potwierdzenia zawiera numer i opis wniosku o pomoc techniczną. Otrzymasz również wiadomość e-mail z potwierdzeniem od Partner Center z numerem sprawy.
+6. Strona potwierdzenia zawiera numer i opis wniosku o pomoc techniczną. Otrzymasz również wiadomość e-mail z potwierdzeniem od Partner Center z numerem przypadku.
 
 * * *
 
@@ -144,4 +144,4 @@ Aby wyświetlić korzyści techniczne w Partner Center:
 
 - [Zarządzanie korzyściami Microsoft Partner Network i ofertami](manage-your-partner-network-benefits.md)
 
-- [Kupowanie lub odnawianie subskrypcji Action Pack Microsoft](mpn-get-action-pack.md)
+- [Kupowanie lub odnawianie subskrypcji usługi Microsoft Action Pack](mpn-get-action-pack.md)

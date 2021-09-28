@@ -8,38 +8,38 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 747c8d091231a1d77365257b89f68184bf1914d7
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 2558bd56a0ae31197d899becbae5cefd8947b5f6
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129070498"
+ms.locfileid: "129088885"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Generowanie planu marketingowego dla programu zachęt
 
-**Odpowiednie role:** Zachęty dla administratorów | Administrator rozliczeń | Administrator globalny
+**Odpowiednie role:** Administratorzy zachęt | Administrator rozliczeń | Administrator globalny
 
 Plan roszczeń dotyczących współpracy to seria kampanii marketingowych, działań i innych szczegółów opisujących, jak sprawisz, że program będzie sukcesem. Po utworzeniu planu należy przesłać go do firmy Microsoft w celu zatwierdzenia.
 
 ## <a name="create-your-incentives-plan"></a>Tworzenie planu zachęt
 
-Możesz wyświetlić plany, wybierając pozycję **Plan Management** na **stronie Zachęty,** a następnie otwierając program, którego potrzebujesz.
+Możesz wyświetlić swoje plany, wybierając **pozycję Zarządzanie planem** na **stronie Zachęty,** a następnie otwierając program, którego potrzebujesz.
 
 > [!NOTE]
-> Na stronie Zachęty może nie być widać strony Zarządzanie planem. Wynika to z Partner Center pulpitu nawigacyjnego jest dynamiczny i wyświetla tylko to, co jest odpowiednie dla określonej roli i działań. Jeśli nie widzisz strony Zachęty w usłudze Plan Management, prawdopodobnie oznacza to, że nie jesteś obecnie zarejestrowanym w programie, który ma plany. Skontaktuj się z administratorem zachęt, aby uzyskać pomoc.
+> Na stronie Zachęty może nie być widać strony Zarządzanie planem. Jest to spowodowane tym, Partner Center pulpit nawigacyjny jest dynamiczny i wyświetla tylko to, co jest odpowiednie dla określonej roli i działań. Jeśli na stronie Zachęty nie widzisz strony Zarządzanie planami, prawdopodobnie oznacza to, że nie jesteś obecnie zarejestrowanym w programie, który ma plany. Skontaktuj się z administratorem zachęt w celu uzyskania pomocy.
 
-Aby uzyskać więcej informacji na temat planów dla konkretnych Program zachęt, zobacz przewodnik po programie.
+Aby uzyskać więcej informacji na temat planów dla określonej Program zachęt, zobacz przewodnik po programie.
 
 ## <a name="how-to-submit-a-plan"></a>Jak przesłać plan
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off)).
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
-1. Zaloguj się do [pulpitu Partner Center nawigacyjnego i](https://partner.microsoft.com/dashboard/) wybierz **kafelek Zachęty.**
+1. Zaloguj się na Partner Center [nawigacyjnym i](https://partner.microsoft.com/dashboard/) wybierz **kafelek Zachęty.**
 
-2. Wybierz **pozycję Program**, znajdź odpowiedni rynek dla swojego planu, a następnie wybierz pozycję Utwórz **plan.**
+2. Wybierz **pozycję Program**, znajdź odpowiedni rynek dla swojego planu, a następnie wybierz pozycję Utwórz **plan**.
 
 3. Na stronie **Nowy plan** wypełnij wymagane pola. **Waluta** to wartość, którą chcesz odzwierciedlić w planie. **Adres e-mail** recenzenta powinien być adresem e-mail firmy Microsoft menedżera konta. Należy pamiętać, że można utworzyć tylko jeden plan dla każdego identyfikatora MPN, funduszu, programu i okresu. Wybierz pozycję **Zapisz**.
 
@@ -47,7 +47,7 @@ Aby uzyskać więcej informacji na temat planów dla konkretnych Program zachęt
 
 5. Gdy informacje na tej stronie są poprawne, wybierz pozycję **Nowa kampania**.
 
-6. Wypełnij wymagane pola na stronie **Nowa kampania,** a następnie wybierz pozycję **Zapisz.**
+6. Wypełnij wymagane pola na stronie **Nowa kampania,** a następnie wybierz pozycję **Zapisz**.
 
 7. Na stronie stanu wybierz pozycję **Nowe działanie**.
 
@@ -71,7 +71,7 @@ Twój plan jest teraz przesłany. Firma Microsoft powiadomi administratora zach�
 
 6. Gdy informacje na tej stronie są poprawne, wybierz pozycję **Nowa kampania**.
 
-7. Wypełnij wymagane pola na stronie **Nowa kampania,** a następnie wybierz pozycję **Zapisz.**
+7. Wypełnij wymagane pola na stronie **Nowa kampania,** a następnie wybierz pozycję **Zapisz**.
 
 8. Na stronie stanu wybierz pozycję **Nowe działanie**.
 
@@ -86,13 +86,13 @@ Twój plan został przesłany. Firma Microsoft powiadomi administratora zachęt 
 ## <a name="view-the-status-of-your-plan"></a>Wyświetlanie stanu planu
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off)).
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
 1. Zaloguj się do [pulpitu nawigacyjnego](https://partner.microsoft.com/dashboard/) Centrum partnerskiego.
 
-2. Wybierz **kafelek Zachęty,** a następnie **pozycję Zarządzanie planami,** a następnie wybierz program. Zostanie otwarta strona stanu.
+2. Wybierz **kafelek Zachęty,** a następnie **pozycję Zarządzanie planami,** a następnie wybierz program, którego potrzebujesz. Zostanie otwarta strona stanu.
 
 3. W sekcji **Plany** stan każdego planu znajduje się w kolumnie **Stan**.
 
@@ -124,20 +124,20 @@ Twój plan został przesłany. Firma Microsoft powiadomi administratora zachęt 
 
 * * *
 
-## <a name="plan-submission-timelines"></a>Planowanie osi czasu przesyłania
+## <a name="plan-submission-timelines"></a>Osie czasu przesyłania planu
 
 Musisz utworzyć i przesłać swój plan do ostatniego dnia roku trwania programu. W razie potrzeby możesz edytować i ponownie przesłać plan przez okres dodatkowych 90 dni po tej dacie, ale plan musi zostać utworzony i wstępnie przesłany w trakcie roku trwania programu.
 
 > [!NOTE]
-> Dla każdego typu programu można utworzyć tylko jeden plan na rok programu.
+> Dla każdego typu programu można utworzyć tylko jeden plan dla każdego typu programu.
 
 ## <a name="plan-payments"></a>Planowanie płatności
 
 Co miesiąc otrzymujesz płatność od firmy Microsoft w oparciu o swoje dochody i limity planu. Płatności są dokonywane piętnastego dnia następnego miesiąca.
 
-Jeśli na przykład Twój plan został zatwierdzony na kwotę 10 000 USD i w kwietniu zarobisz 5000 USD, 15 maja otrzymasz 5000 USD.
+Jeśli na przykład plan został zatwierdzony na kwotę 10 000 USD, a w kwietniu zarobisz 5000 USD, 15 maja otrzymasz 5000 USD.
 
-W ramach tego samego planu, jeśli otrzymasz 15 000 USD w kwietniu, 15 maja otrzymasz 10 000 USD, ponieważ 10 000 USD to limit twojego planu. Aby móc uzyskać większą płatność, musisz podnieść limit planu dla kolejnego miesiąca.
+W ramach tego samego planu, jeśli otrzymasz 15 000 USD w kwietniu, 15 maja otrzymasz 10 000 USD, ponieważ 10 000 USD to limit planu. Aby móc uzyskać większą płatność, musisz podnieść limit planu dla kolejnego miesiąca.
 
 ## <a name="next-steps"></a>Następne kroki
 

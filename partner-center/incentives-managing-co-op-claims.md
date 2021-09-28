@@ -8,12 +8,12 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/27/2021
-ms.openlocfilehash: 256183d80eea3ead7f94a8f798be75ae345db4e3
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 2e271d303f51548da1f63120275f5eb7532352c0
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075495"
+ms.locfileid: "129088437"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Zarządzanie zachętami — roszczenia dotyczące współpracy
 
@@ -58,7 +58,7 @@ Jeśli materiały przesłane wraz z roszczeniem dotyczącym współpracy zostan�
 ### <a name="dispute-a-rejected-co-op-claim"></a>Kwestionowanie odrzuconego roszczenia dotyczącego współpracy
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 

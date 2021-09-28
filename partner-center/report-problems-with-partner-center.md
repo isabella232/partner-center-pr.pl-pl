@@ -1,5 +1,5 @@
 ---
-title: Zbieranie danych diagnostycznych i zgłaszanie problemów w Partner Center
+title: Zbieranie danych diagnostycznych i zgłaszanie problemów w programie Partner Center
 ms.topic: how-to
 ms.date: 11/19/2020
 ms.service: partner-dashboard
@@ -9,26 +9,26 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ee4272003216e16813fabde5dae76d60ec515308
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 5532be819ba5da8bcd4a96e04e7f71d724470e07
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075734"
+ms.locfileid: "129090222"
 ---
-# <a name="collecting-diagnostics-and-reporting-problems-in-partner-center"></a>Zbieranie danych diagnostycznych i zgłaszanie problemów w Partner Center
+# <a name="collecting-diagnostics-and-reporting-problems-in-partner-center"></a>Zbieranie danych diagnostycznych i zgłaszanie problemów w programie Partner Center
 
 **Dotyczy:** Partner Center | Partner Center dla Microsoft Cloud for US Government
 
 **Odpowiednie role:** Wszyscy partnerzy zainteresowani Partner Center
 
-Wszyscy zalogowani użytkownicy Partner Center mogą utworzyć wniosek o pomoc techniczną partnera. Użytkownicy mogą wyświetlać przesłane żądania pomocy technicznej tylko po zalogowaniu się do Partner Center.
+Wszyscy zalogowani użytkownicy Partner Center mogą utworzyć wniosek o pomoc techniczną dla partnera. Użytkownicy mogą wyświetlać przesłane żądania pomocy technicznej tylko po zalogowaniu się do Partner Center.
 Skontaktuj się Partner Center pomocą techniczną, jeśli znajdziesz problemy lub potrzebujesz pomocy w Partner Center portal. Wyślij diagnostykę, aby umożliwić szybsze rozwiązanie problemu. 
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Zgłoś problem z Partner Center
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie zgrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz Getting around Partner Center (Poruszanie [się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off)).
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
@@ -46,13 +46,13 @@ Skontaktuj się Partner Center pomocą techniczną, jeśli znajdziesz problemy l
 
 5. Jeśli zalecane **rozwiązania** rozwiązały problem, możesz wrócić do pulpitu nawigacyjnego. Jeśli nadal potrzebujesz pomocy, możesz kontynuować i wybrać pozycję **Podaj szczegóły problemu.**
 
-6. Wypełnij informacje w obszarze **Informacje o żądaniu**. Gdy wszystko będzie gotowe, **wybierz pozycję Prześlij,** a przedstawiciel pomocy technicznej dla partnerów będzie cię obserwował.
+6. Wprowadź informacje w obszarze **Request info (Żądanie informacji).** Gdy wszystko będzie gotowe, **wybierz pozycję Prześlij,** a przedstawiciel pomocy technicznej dla partnerów będzie cię obserwował.
 
 #### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
 
 1. Zaloguj się do pulpitu [Partner Center,](https://partner.microsoft.com/dashboard)wybierz pozycję **Pomoc techniczna,** a następnie wybierz **pozycję Żądania pomocy technicznej dla partnerów.**
 
-2. Wybierz **[pozycję Nowe](https://partner.microsoft.com/dashboard/support/servicerequests/create)** żądanie, a następnie wyszukaj typ problemu, który najlepiej opisuje Twój problem. Wybierz typ problemu i **przejrzyj rozwiązania.**
+2. Wybierz **[pozycję Nowe](https://partner.microsoft.com/dashboard/support/servicerequests/create)** żądanie, a następnie wyszukaj typ problemu, który najlepiej opisuje Twój problem. Wybierz typ problemu i przejrzyj **rozwiązania.**
 
 3. Zapoznaj się ze **stroną Zalecane rozwiązania,** aby zapoznać się z krokami lub powiązanymi dokumentami, które mogą pomóc w rozwiązaniu problemu.
 
@@ -67,11 +67,11 @@ Skontaktuj się Partner Center pomocą techniczną, jeśli znajdziesz problemy l
 Planowanie terminów umożliwia zaplanowanie spotkania z przypisanym do Ciebie kandydatem.  W wersji zapoznawczej terminy są ograniczone do podzbioru typów problemów i zespołów pomocy technicznej.  
 
    > [!NOTE]
-   > Planowanie terminu pomocy technicznej nie jest natychmiast dostępne po utworzeniu sprawy. Termin pomocy technicznej można zaplanować tylko wtedy, gdy żądanie zostanie przypisane do właściciela.
+   > Planowanie terminu pomocy technicznej nie jest natychmiast dostępne po utworzeniu sprawy. Termin pomocy technicznej można zaplanować dopiero po przypisaniu żądania do właściciela.
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
-1. Zaloguj się do pulpitu [Partner Center nawigacyjnego i](https://partner.microsoft.com/dashboard) wybierz ikonę Pomoc (**?),** a następnie wybierz pozycję **Pomoc** techniczna, a następnie wybierz pozycję **Przegląd,** aby wyświetlić żądania pomocy technicznej.
+1. Zaloguj się do pulpitu Partner Center i wybierz ikonę Pomoc (**?),** a następnie wybierz pozycję Pomoc **techniczna,** [a](https://partner.microsoft.com/dashboard) następnie wybierz pozycję Przegląd, aby wyświetlić żądania pomocy technicznej. 
 
 2. W **obszarze Moje żądania pomocy technicznej** kliknij otwarte żądanie, aby wyświetlić szczegóły biletu, a następnie wybierz pozycję Zaplanuj **termin.**
 
@@ -94,7 +94,7 @@ Planowanie terminów umożliwia zaplanowanie spotkania z przypisanym do Ciebie k
     > [!NOTE]
     > Zaplanuj termin pomocy technicznej w wersji zapoznawczej:
     >
-    > - Wiadomości e-mail z potwierdzeniem spotkania i przypomnieniem mogą wyświetlać czas wizyty w innej strefie czasowej niż czas lokalny. Jednak dołączony plik ics spowoduje dodanie terminu do kalendarza w odpowiednim czasie lokalnym.
+    > - Wiadomości e-mail z potwierdzeniem spotkania i przypomnieniem mogą wyświetlać czas wizyty w innej strefie czasowej niż czas lokalny. Jednak dołączony plik ics spowoduje dodanie terminu do kalendarza o poprawnej godzinie lokalnej.
     >
     > - Wiadomości e-mail z potwierdzeniem spotkania i przypomnieniami mogą być w języku angielskim, a nie w wybranym języku. Jednak nadal będziesz otrzymywać pomoc techniczną w wybranym języku.
 
@@ -117,7 +117,7 @@ Planowanie terminów umożliwia zaplanowanie spotkania z przypisanym do Ciebie k
 5.  Aby zmienić termin, wróć do strony szczegółów biletu w Partner Center wybierz pozycję Zmień **harmonogram** tego terminu lub **Anuluj ten termin.**
 
 Zaplanuj termin pomocy technicznej w wersji zapoznawczej:
-- Wiadomości e-mail z potwierdzeniem spotkania i przypomnieniem mogą wyświetlać czas wizyty w innej strefie czasowej niż czas lokalny.  Jednak dołączony plik ics spowoduje dodanie terminu do kalendarza w odpowiednim czasie lokalnym. 
+- Wiadomości e-mail z potwierdzeniem spotkania i przypomnieniem mogą wyświetlać czas wizyty w innej strefie czasowej niż czas lokalny.  Jednak dołączony plik ics spowoduje dodanie terminu do kalendarza o poprawnej godzinie lokalnej. 
 - Obecnie istnieje ograniczenie dotyczące języka wiadomości e-mail z potwierdzeniem spotkania i przypomnieniami.  Te wiadomości e-mail mogą być w języku angielskim, a nie wybranym języku.  Jednak nadal będziesz otrzymywać pomoc techniczną w wybranym języku.
 
 * * *
@@ -135,7 +135,7 @@ Jeśli podczas pracy na stronie Partner Center wystąpi błąd, może zostać wy
 
 Możesz wyświetlić podgląd informacji diagnostycznych, a następnie zapisać je w pliku, który można dołączyć do wniosku o pomoc techniczną. Aby wysłać nam informacje:
 
-3. Przejrzyj informacje w pliku przed wysłaniem go, ponieważ mogą one zawierać dane osobowe, które chcesz usunąć.
+3. Przejrzyj informacje w pliku przed wysłaniem go, ponieważ może on zawierać dane osobowe, które możesz usunąć.
 
    > [!NOTE]
     >W niektórych przeglądarkach **sekcja Widok strony** w dolnej części strony Podgląd może być pusta.  To jest ok.

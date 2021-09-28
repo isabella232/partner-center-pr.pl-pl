@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 991839f3675fb77c40ab08af623094e02521d6b3
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: b4914fa41c58ce9f36fc3ed95f4dc20fae4c769b
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072250"
+ms.locfileid: "129089899"
 ---
 # <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>Odnajdywanie ofert i cen na platformie Partner Center platformie handlowej
 
@@ -37,7 +37,7 @@ Jeśli oferta isV nie jest wyświetlana zgodnie z oczekiwaniami w Partner Center
 Aby wyświetlić dostępne oferty platformy handlowej w programie CSP:
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie zgrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off)).
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
@@ -102,7 +102,7 @@ Partnerzy programu CSP mogą również zwracać listę kwalifikujących się ofe
 Wykonaj następujące kroki, aby uzyskać najnowsze szczegóły cennika skojarzone z ofertą:
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie zgrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off)).
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
@@ -147,7 +147,7 @@ Jeśli oferta nie **jest** oznaczona jako Wyłączna, wszyscy partnerzy mogą j�
 Jednak w przypadku każdej oferty oznaczonej jako Wyłączna tylko ci partnerzy wybrani przez isV będą mogli kupić tę ofertę.
 
 > [!NOTE]
-> Jeśli widzisz ofertę oznaczoną jako Wyłączna, która chcesz sprzedawać swoim klientom, s kontaktuj się bezpośrednio z isv i poproś o zgodę na sprzedaż oferty exclusive. Podczas wyświetlania szczegółów oferty na wyłączność może zostać wyświetlony link Skontaktuj się z **isv,** który możesz wybrać.
+> Jeśli widzisz ofertę oznaczoną jako Wyłączna, która chcesz sprzedawać swoim klientom, s kontaktuj się bezpośrednio z isV i poproś o zgodę na sprzedaż oferty exclusive. Podczas wyświetlania szczegółów oferty na wyłączność może zostać wyświetlony link Skontaktuj się z **isv,** który możesz wybrać.
 
 Aby dowiedzieć się więcej na temat obsługi usługodawców internetowych na platformie handlowej, przeczytaj [temat Cloud Solution Providers (Dostawcy rozwiązań w chmurze).](/azure/marketplace/cloud-solution-providers)
 

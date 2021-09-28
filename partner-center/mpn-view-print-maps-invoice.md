@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb740c7362be9cadbe70a8be6ee0176e7aa562fc
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: ab9929434763d420f0cbdbc1105b61bbea4b4a0c
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071812"
+ms.locfileid: "129088862"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Faktury i podatki w Microsoft Partner Network
 
@@ -27,7 +27,7 @@ Aby wyświetlić lub pobrać końcową fakturę za zamówienie związane z czło
 Aby wykonać tę procedurę, administrator globalny być administratorem lub administratorem partnera MPN.
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
@@ -50,7 +50,7 @@ Aby wykonać tę procedurę, administrator globalny być administratorem lub adm
 ## <a name="file-a-tax-exemption"></a>File a tax exemption (Jak złożyć zwolnienie z podatku)
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
@@ -73,7 +73,7 @@ Aby wykonać tę procedurę, administrator globalny być administratorem lub adm
 ## <a name="send-microsoft-your-vat-id-number"></a>Wysyłanie numeru VAT firmy Microsoft
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
@@ -95,6 +95,6 @@ Aby wykonać tę procedurę, administrator globalny być administratorem lub adm
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Omówienie Partner Center rozliczeń](billing-basics.md)
+- [Omówienie rozliczeń Partner Center danych](billing-basics.md)
 
 - [Uzyskaj kredyt na podatek potrącony](withholding-tax-credit-form.md)

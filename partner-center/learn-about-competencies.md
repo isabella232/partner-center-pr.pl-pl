@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
-description: Dowiedz się, jak uzyskać status elitarnego partnera firmy Microsoft i przyciągnąć nowych klientów, spełniając wymagania dotyczące kompetencji, aby uzyskać złote i silver poziomy członkostwa.
+description: Dowiedz się, jak zdobywać elitarne statusy partnerów firmy Microsoft i przyciągać nowych klientów, spełniając wymagania dotyczące kompetencji, aby uzyskać złote i silver poziomy członkostwa.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1adacebbf4c0f8b97187386def43a3006920c08
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 567b21c75da3696814d5dfb4bf7ad2613fe098a3
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075281"
+ms.locfileid: "129089508"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Rozróżnianie firmy przez uzyskanie kompetencji firmy Microsoft
 
@@ -22,11 +22,11 @@ ms.locfileid: "129075281"
 
 Zademonstruj swoją sprawdzoną wiedzę w zakresie dostarczania rozwiązań wysokiej jakości w co najmniej jednym wyspecjalizowanym obszarze działalności. Kompetencje firmy Microsoft mają na celu przygotowanie Cię do spełnienia potrzeb klientów i przyciągnięcie nowych klientów, którzy szukają dostawców rozwiązań certyfikowanych przez firmę Microsoft. Dołącz do najwyższej warstwy partnerów firmy Microsoft i wyróżnij się wśród swoich współpracowników.
 
-- Uzyskanie kompetencji **Silver** w celu zademonstrowania spójnej możliwości i zobowiązania.
+- Uzyskanie kompetencji **silver** w celu zademonstrowania spójnej możliwości i zobowiązania.
 
 - Uzyskanie **złotej** kompetencji w celu zademonstrowania najlepszej w swojej klasie możliwości w obszarze rozwiązań firmy Microsoft.
 
-Uzyskanie kompetencji może być również wprowadzeniem do dalszych korzyści i możliwości:
+Uzyskanie kompetencji może być również punktem wejścia do dalszych korzyści i możliwości:
 
 - Odblokuj zaawansowane [oferty i programy,](mpn-learn-about-go-to-market-benefits.md) które pomogą Ci rozwinąć i rozwinąć Twoją firmę. [Dowiedz się więcej o tym, jak wyjść na rynek z firmą Microsoft.](https://partner.microsoft.com/solutions/go-to-market)
 
@@ -34,10 +34,10 @@ Uzyskanie kompetencji może być również wprowadzeniem do dalszych korzyści i
 
 ## <a name="check-your-status-as-you-attain-a-competency"></a>Sprawdzanie stanu podczas uzyskania kompetencji
 
-Wymagania i działania firmy można sprawdzić w obszarze kompetencji pulpitu nawigacyjnego Partner Center nawigacyjnego.
+Możesz zobaczyć wymagania i to, co twoja firma osiągnęła, z obszaru kompetencji pulpitu Partner Center nawigacyjnego.
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie zgrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz Getting around Partner Center (Poruszanie [się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off)).
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
@@ -59,31 +59,31 @@ Wymagania i działania firmy można sprawdzić w obszarze kompetencji pulpitu na
 
 ## <a name="competency-areas"></a>Obszary kompetencji
 
-Aby uzyskać kompetencję w zakresie członkostwa w firmie Silver lub Gold, poproszono Cię o zademonstrować wiedzę w różnych obszarach działalności i technologii.
+Aby uzyskać kompetencję w zakresie członkostwa silver lub gold, poproszono Cię o zademonstrować wiedzę w różnych obszarach działalności i technologii.
 
 |**Warstwowy**            |**Kompetencji**                    |
 |--------------------|--------------------------------|
 |Aplikacje i infrastruktura| — Opracowywanie aplikacji<br/> — Integracja aplikacji<br/> — Platforma w chmurze<br/> — DevOps<br/> - Datacenter |
-|Aplikacje biznesowe | — Cloud Business Applications</br> — Enterprise planowania zasobów (ERP)</br> — Project portfolio |
+|Aplikacje biznesowe | — Cloud Business Applications</br> — Enterprise zasobów (ERP)</br> — Project i portfolio |
 |Dane i AI| — Analiza danych<br/> — Platforma danych |
 |Nowoczesne miejsce pracy i zabezpieczenia | — Współpraca i zawartość<br/> — Komunikacja<br/> — Produktywność w chmurze<br/> — Enterprise Mobility Management (EMM)<br/> — Obsługa komunikatów<br/> — Zabezpieczenia<br/> — Rozwiązania w chmurze dla małych i średnich firm<br/> — Windows i urządzenia |
 
-Poziom kompetencji Silver i Gold ma różne wymagania dla każdego z obszarów. W każdym obszarze znajdują się klasy i egzaminy, które pracownicy w firmie mogą wziąć w celu osiągnięcia odpowiedniego poziomu kompetencji. 
+Poziomy kompetencji Silver i Gold mają różne wymagania dla każdego z obszarów. W każdym obszarze znajdują się klasy i egzaminy, które pracownicy w firmie mogą wziąć w celu osiągnięcia odpowiedniego poziomu kompetencji. 
 
-Aby dowiedzieć się więcej na temat tego, co jest potrzebne do uzyskania kompetencji silver i gold, [zobacz Microsoft Partner Network kompetencji](https://partner.microsoft.com/membership/competencies).
+Aby dowiedzieć się więcej na temat tego, co jest potrzebne do uzyskania kompetencji Silver i Gold, zobacz [Microsoft Partner Network kompetencji](https://partner.microsoft.com/membership/competencies).
 
 ## <a name="next-steps"></a>Następne kroki
 
 - Dowiedz się więcej o [wymaganiach dotyczących uzyskania kompetencji Silver i Gold.](https://partner.microsoft.com/membership/competencies)
 
-- Dowiedz się, jak jeszcze bardziej zaprezentować swoją wiedzę, parując złotą kompetencję z co najmniej jedną [zaawansowaną specjalizacją.](advanced-specializations.md)
+- Dowiedz się, jak jeszcze bardziej zaprezentować swoją wiedzę, parując złoty poziom kompetencji z co najmniej jedną [zaawansowaną specjalizacją.](advanced-specializations.md)
 
-- Dowiedz się więcej o [określonych zasobach chodu na rynek](mpn-learn-about-go-to-market-benefits.md) zawartych w kompetencjach.
+- Dowiedz się więcej o określonych [zasobach wchodzących](mpn-learn-about-go-to-market-benefits.md) na rynek, które są objęte kompetencjami.
 
 - Dowiedz się więcej [o fakturach i podatkach dla kompetencji.](mpn-view-print-maps-invoice.md)
 
-- Dowiedz się, jak [płacić opłatę skojarzoną](mpn-pay-fee-silver-gold-competency.md) z członkostwem w kompetencji Silver lub Gold.
+- Dowiedz się, jak [zapłacić opłatę skojarzoną](mpn-pay-fee-silver-gold-competency.md) z członkostwem w kompetencji Silver lub Gold.
 
-- Wyświetl Partner Center Szczegółowe informacje [kompetencje,](insights-competencies-report.md) który pokazuje bieżący stan Twoich kompetencji.
+- Wyświetl Partner Center Szczegółowe informacje [kompetencji,](insights-competencies-report.md) który pokazuje bieżący stan Twoich kompetencji.
 
 - Uzyskaj odpowiedzi na [często zadawane pytania dotyczące](competencies-faq.yml) kompetencji.

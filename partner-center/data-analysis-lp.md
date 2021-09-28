@@ -9,12 +9,12 @@ author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aa7352277e241156884f6fda07f64cab5cb5b21a
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 640fda04742db736234f66ead0ed9a4a9b5af95b
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073494"
+ms.locfileid: "129090103"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Używanie analizy, aby dowiedzieć się więcej o przychodach z subskrypcji
 
@@ -25,7 +25,7 @@ Planowanie sposobów opracowania działań w firmie związanych z programem CSP 
 ## <a name="access-to-the-subscription-analytics"></a>Dostęp do analizy subskrypcji
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
@@ -56,7 +56,7 @@ Aby wyświetlić podział przychodu na poziomie konta lokalizacji partnera:
 - Wybierz link "Pobierz szczegóły" i pobierz plik tsv, który wyświetla przychód z urządzenia TTM we wszystkich lokalizacjach.
 
 > [!NOTE]
-> Sumowanie poszczególnych wartości przychodu z TTM dla identyfikatorów MPN w pliku TSV może wydawać się większe niż ogólny przychód z TTM wyświetlany na Partner Center. Wynika to z tego, że przychód może być dwukrotnie zliczony dla subskrypcji z wieloma przypisaniami partnerów w pobranym pliku.
+> Sumowanie poszczególnych numerów przychodów z TTM dla identyfikatorów MPN w pliku TSV może wydawać się większe niż ogólny przychód z TTM wyświetlany na Partner Center. Wynika to z tego, że przychód może być dwukrotnie zliczony dla subskrypcji z wieloma przypisaniami partnerów w pobranym pliku.
 
 ## <a name="subscription-summary"></a>Podsumowanie subskrypcji
 

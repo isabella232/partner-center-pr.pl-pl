@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db271f6fb0ecad7a50ae43e28b29c33931bca0c9
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 60082ab97940c350f4b1cddbb49f3cc1128dfe49
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071244"
+ms.locfileid: "129088495"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Zarządzanie nieprzydzielonych płatnościami na Partner Center rozliczeń
 
@@ -25,7 +25,7 @@ Czasami na stronie rozliczeń może być widać nieprzydzieloną płatność. Ni
 ## <a name="to-view-your-unallocated-payments"></a>Aby wyświetlić nieprzydzielone płatności
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie zgrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz [Getting around Partner Center (Poruszanie się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off)).
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 

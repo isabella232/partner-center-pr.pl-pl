@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8c0d278de5cef254839bfa324efc701fc788a830
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 54af4963208739d156279ced8e1d0ac4dbe0499b
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075653"
+ms.locfileid: "129088590"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Jak sprzedawać oferty klientom edukacyjnym i jak utworzyć klienta edukacyjnego w Partner Center
 
@@ -28,7 +28,7 @@ W tym artykule wyjaśniono, jak utworzyć klienta edukacyjnego w Partner Center 
 > Firma Microsoft weryfikuje każdą nowo utworzoną dzierżawę klienta edukacyjnego, aby upewnić się, że są zakwalifikowani do ofert edukacyjnych.  Upewnij się, że wprowadzasz wymagane informacje tak dokładnie i całkowicie, jak to możliwe, aby zapobiec opóźnieniom w procesie weryfikacji.
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie zgrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz Getting around Partner Center (Poruszanie [się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off)).
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
@@ -41,14 +41,14 @@ W tym artykule wyjaśniono, jak utworzyć klienta edukacyjnego w Partner Center 
    - **Nazwa firmy:** WPROWADŹ NAZWĘ JEDNOSTKI PRAWNEJ — wymagana do weryfikacji
    - **Kraj/region i wiersze adresów:** WPROWADŹ PEŁNY ADRES POCZTOWY JEDNOSTKI — wymagany do weryfikacji
    - **Adres e-mail:** wprowadź wiadomość e-mail należącą do jednostki — nie bezpłatną lub on.microsoft.com e-mail — wymaganą do weryfikacji
-   - **Informacje kontaktowe klienta:** te szczegóły będą używane w procesie weryfikacji
+   - **Informacje kontaktowe klienta:** te szczegóły będą używane w ramach procesu weryfikacji
    - **Nazwa domeny podstawowej:** służy do tworzenia kont i adresów e-mail klienta.  Wybierz nazwę podobną do nazwy firmy bez spacji ani znaków specjalnych.  Tej nazwy nie można później zmienić.
 
 4. Po zakończeniu wybierz pozycję **Przejrzyj**.
 
    :::image type="content" source="images/eduaccountinfo.png" alt-text="Konto klienta edukacyjnego.":::
 
-5. Po potwierdzeniu **weryfikacji** w programie zostanie wyświetlony stan **InReview,** jeśli przesłane informacje są prawidłowe. 
+5. Po potwierdzeniu **recenzji** zostanie wyświetlony stan **InReview,** jeśli przesłane informacje są prawidłowe. 
 
     :::image type="content" source="images/edu/create-review.png" alt-text="Konto klienta edukacyjnego w przeglądzie."lightbox="images/edu/create-review-expanded.png":::
 
@@ -61,14 +61,14 @@ W tym artykule wyjaśniono, jak utworzyć klienta edukacyjnego w Partner Center 
    - **Nazwa firmy:** WPROWADŹ NAZWĘ JEDNOSTKI PRAWNEJ — wymagana do weryfikacji
    - **Kraj/region i wiersze adresów:** WPROWADŹ PEŁNY ADRES POCZTOWY JEDNOSTKI — wymagany do weryfikacji
    - **Adres e-mail:** wprowadź wiadomość e-mail należącą do jednostki — nie bezpłatną lub on.microsoft.com e-mail — wymaganą do weryfikacji
-   - **Informacje kontaktowe klienta:** te szczegóły będą używane w procesie weryfikacji
+   - **Informacje kontaktowe klienta:** te szczegóły będą używane w ramach procesu weryfikacji
    - **Nazwa domeny podstawowej:** służy do tworzenia kont i adresów e-mail klienta.  Wybierz nazwę podobną do nazwy firmy bez spacji ani znaków specjalnych.  Tej nazwy nie można później zmienić.
 
 3. Po zakończeniu wybierz pozycję **Przejrzyj**.
 
    :::image type="content" source="images/eduaccountinfo.png" alt-text="Konto klienta edukacyjnego.":::
 
-4. Po potwierdzeniu **weryfikacji** w programie zostanie wyświetlony stan **InReview,** jeśli przesłane informacje są prawidłowe. 
+4. Po potwierdzeniu **recenzji** zostanie wyświetlony stan **InReview,** jeśli przesłane informacje są prawidłowe. 
 
     :::image type="content" source="images/edu/create-review.png" alt-text="Konto klienta edukacyjnego w przeglądzie."lightbox="images/edu/create-review-expanded.png":::
 
@@ -119,9 +119,9 @@ Aby zaktualizować informacje o kliencie, musisz mieć uprawnienia administrator
 
 ### <a name="resubmit-for-verification"></a>Prześlij ponownie do weryfikacji
 
-1. Przejdź do karty Partner Center klienta i strony **konta** klienta. Odśwież przeglądarkę i sprawdź, czy strona Firma została zaktualizowana do nowych informacji. Wybierz **przycisk Aktualizuj,** aby zażądać ponownej weryfikacji edukacji.
+1. Przejdź do karty Partner Center klienta i strony **konta** klienta. Odśwież przeglądarkę i sprawdź, czy strona Firma została zaktualizowana do nowych informacji. Wybierz **przycisk Aktualizuj,** aby poprosić o ponowną weryfikację edukacji.
 
-2. Jeśli zaktualizowane szczegóły klienta kwalifikują się do ofert edukacyjnych, zobaczysz, że kwalifikacje **specjalne** zostały zaktualizowane do **oferty Education**. Jeśli nadal widzisz błąd **Nie dla klientów edukacyjnych,** skontaktuj się z pomocą techniczną w celu weryfikacji ręcznej.
+2. Jeśli zaktualizowane szczegóły klienta kwalifikują się do ofert edukacyjnych, zobaczysz, że kwalifikacje **specjalne** zostały zaktualizowane do **oferty Education**. Jeśli nadal widzisz element **Not an Education Customer**,skontaktuj się z pomocą techniczną w celu weryfikacji ręcznej.
 
 ## <a name="next-steps"></a>Następne kroki
 

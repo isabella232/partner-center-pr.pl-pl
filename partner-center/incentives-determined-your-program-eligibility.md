@@ -1,5 +1,5 @@
 ---
-title: Program zachęt uprawnień
+title: Program zachęt uprawnienia
 description: Upewnij się, że zostały spełnione wymagania dotyczące uprawnień do programu zachęt. Ten proces obejmuje sprawdzanie uprawnień w przewodniku po programie.
 ms.topic: how-to
 ms.service: partner-dashboard
@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/27/2021
-ms.openlocfilehash: b1ad332f14543d3b29b74d4b174012233a51544b
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 8b892ac7df7e0d1de85167005262723cb5775386
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129070465"
+ms.locfileid: "129090205"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Określanie uprawnień do programu zachęt
 
@@ -28,7 +28,7 @@ Wymagania dotyczące uprawnień do programu można znaleźć w przewodniku po pr
 ### <a name="to-see-your-program-guide"></a>Aby wyświetlić przewodnik po programie
 
 > [!NOTE]
-> Interfejs Partner Center wersji zapoznawczej zapewnia bardziej wydajne i wydajne środowisko użytkownika za pośrednictwem logicznie pogrupowanych obszarów roboczych. Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych i sposobu jego włączanie, zobacz Getting around Partner Center (Poruszanie [się po Partner Center).](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off)).
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
@@ -62,4 +62,4 @@ Wymagania dotyczące uprawnień do programu można znaleźć w przewodniku po pr
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Wypłaty i profile podatkowe dla programów zachęt](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+- [Profile wypłat i profile podatkowe dla programów zachęt](incentives-create-and-manage-your-payout-and-tax-profiles.md)
