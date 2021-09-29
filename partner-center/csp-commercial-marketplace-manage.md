@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b89271c42a420c2aafa19fbdb5bc8d3a274a2c6
-ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
+ms.openlocfilehash: ac95ec7297d06705084801120cf3f024a7680b66
+ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129089117"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129191429"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Zarządzanie produktami i ofertami na platformie handlowej dla klientów
 
@@ -112,11 +112,7 @@ Wydawca powinien podać spersonalizowany link i kod autoryzacji, który identyfi
 
 W przypadku subskrybowania opartego na licencji produktu SaaS oferowanego przez wydawcę ISV na platformie handlowej możesz anulować subskrypcję w wyznaczonym okresie anulowania. Ten okres anulowania zmienia się w zależności od tego, czy masz subskrypcję miesięczną, czy roczną. Możesz również zdecydować, czy subskrypcja ma być odnawiana automatycznie.
 
-Aby uzyskać więcej informacji na temat okresów anulowania, które mają zastosowanie, sposobu anulowania lub automatycznego odnawiania subskrypcji, zobacz:
-
-- [Anulowanie subskrypcji](create-a-new-subscription.md#cancel-a-subscription)
-
-- [Automatyczne odnawianie subskrypcji platformy handlowej](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
+Aby uzyskać więcej informacji na temat okresów anulowania, które mają zastosowanie, sposobu anulowania lub automatycznego odnawiania subskrypcji, zobacz [Anulowanie subskrypcji.](create-a-new-subscription.md#cancel-a-subscription)
 
 ## <a name="add-or-remove-licenses-for-a-saas-subscription"></a>Dodawanie lub usuwanie licencji dla subskrypcji SaaS
 

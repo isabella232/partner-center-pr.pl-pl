@@ -1,7 +1,7 @@
 ---
 title: Nowe promocje handlowe
 ms.topic: article
-ms.date: 09/24/2021
+ms.date: 09/28/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Dowiedz się więcej o nowych doświadczeniach handlowych dotyczących odkrywania i kupowania promocji.
@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b5b4e3ec2ef4c37b742102d287e5eddd93690fdb
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 723e56fc73a83abfb8f2c65ca529bdecab832c9c
+ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075174"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129191412"
 ---
 # <a name="introduction-new-commerce-promotions"></a>Wprowadzenie: Nowe promocje handlowe
 
@@ -36,7 +36,7 @@ Partnerzy mogą odkrywać promocje, odwiedzając zaległość promocji lub wywo�
 
 ## <a name="operationalize-promotions"></a>Operationalize promotions (Z operationalize promotions) ##
 
-Partnerzy mogą zrealizować promocje, wdrażając interfejs API getPromotions. Ten interfejs API zwraca wszystkie promocje istniejące dla danego rynku (kraju klienta) i segmentu. Interfejs API zwraca listę promocji i ważnych informacji, aby pomóc partnerowi zrozumieć, które promocje są dostępne dla klientów w różnych krajach. 
+Partnerzy mogą z operationalicjalizować promocje, wdrażając interfejs [API getPromotions.](/partner-center/develop/get-promotions) Ten interfejs API zwraca wszystkie promocje istniejące dla danego rynku (kraju klienta) i segmentu. Interfejs API zwraca listę promocji i ważnych informacji, aby pomóc partnerowi zrozumieć, które promocje są dostępne dla klientów w różnych krajach. 
 
 
 Interfejs API getPromotions zawiera następujące dane dotyczące danego poziomu:
@@ -49,9 +49,16 @@ Promocje są stosowane przez centrum partnerskie, gdy partner kupi dla produktu 
 
 ## <a name="verify-eligibility"></a>Weryfikowanie uprawnień ##
 
-Partnerzy mogą sprawdzić, czy zakup klienta kwalifikuje się do promocji, wyświetlając informacje na stronie przeglądu w Centrum partnerskim przed zakupem produktu. Partnerzy mogą również wywołać interfejs API verifyPromotionEligibility ,przekazując identyfikator dzierżawy klienta i identyfikator promocji. Wywołanie zwraca wartość true, jeśli klient jest uprawniony. Jeśli klient nie kwalifikuje się, interfejs API zwraca warunki, które nie zostały spełnione, aby można było skorzystać z promocji. 
+Partnerzy mogą sprawdzić, czy zakup klienta kwalifikuje się do promocji, wyświetlając informacje na stronie przeglądu w Centrum partnerskim przed zakupem produktu. Partnerzy mogą również wywołać interfejs [API verifyPromotionEligibility ,przekazując](/partner-center/develop/verify-promotion-eligibility)identyfikator dzierżawy klienta i identyfikator promocji. Wywołanie zwraca wartość true, jeśli klient jest uprawniony. Jeśli klient nie kwalifikuje się, interfejs API zwraca warunki, które nie zostały spełnione, aby można było skorzystać z promocji. 
 
-Partnerzy mogą wywołać weryfikację uprawnień i uzyskać wyniki z powrotem. Błędy uprawnień mogą być oparte na liczbach miejsc, niezgodnych warunkach lub limitach liczby razy, gdy można zastosować promocję do sku produktu klienta.
+Partnerzy mogą dzwonić do weryfikować uprawnienia i uzyskać wyniki z powrotem. Błędy uprawnień mogą być oparte na liczbach miejsc, niezgodnych warunkach lub limitach liczby razy, gdy można zastosować promocję do sku produktu klienta.
+
+Ważne tematy dotyczące nowych interfejsów API promocji handlowych:
+
+- [GetPromotions API](/partner-center/develop/get-promotions)
+- [GetPromotionsById API](/partner-centerpartner-center/develop/get-promotion-by-id)
+- [VerifyPromtionEligibilities](/partner-center/develop/verify-promotion-eligibility)
+- [Zasoby promocji](/partner-center/develop/promotion-resources)
 
 >[!IMPORTANT]
 > Partnerzy powinni zweryfikować promocje przed przesłaniem transakcji. Jeśli na Partner Center  partnerów nie zostanie wyświetlony promocję, nie zostanie ona zastosowana do transakcji, partner otrzyma cenę bez promocji. Partnerzy mogą również sprawdzić interfejs API elementu wiersza koszyka, aby sprawdzić, czy przed przesłaniem transakcji jest obecna promocja. Partnerzy mogą wywołać interfejs API weryfikacji promocji przed przesłaniem transakcji, aby sprawdzić, czy kombinacja sku produktu klienta kwalifikuje się do promocji, a jeśli nie, przyczyny niekwalifikowania się.
@@ -60,11 +67,11 @@ Istnieją trzy powody, dla których klient może nie kwalifikować się do promo
 
 ### <a name="seat-count"></a>Liczba miejsc ###
 
-Wiele promocji ma stanowisko, które może mieć maksymalnie 2400 stanowisk. W takich przypadkach transakcja, w tym ponad 2400, zostanie przesłana po cenach bez promocji. Te liczby stanowisk są również wymuszane podczas dodawania stanowisk do subskrypcji podyscytowania z tymi limitami. Partnerzy otrzymają komunikat o błędzie, jeśli spróbują zwiększyć subskrypcję z obsługą promocji poza limity. Limity liczby miejsc w ramach promocji są wymuszane między partnerami, więc jeśli jeden partner kupi podwyżkę o 2300 miejsc z limitem liczby miejsc w promocji, drugi partner, który kupi 200 stanowisk, otrzyma cenę subskrypcji po cenie bez podwyższenia. Poziom promocji jest wymuszany na poziomie sku produktu, w ramach których partner zawiera transakcję, dzięki czemu partner może uzyskać ceny promocyjny za 2400 miejsc w Microsoft 365 E3, a także za inną Microsoft 365 E5. Partnerzy mogą wywołać interfejs [API subskrybowanych SKU,](/partner-center/develop/get-a-list-of-available-licenses) aby zobaczyć, ile licencji klient ma dla danej aprowizowanego interfejsu SKU.
+Wiele promocji ma stanowisko, które może mieć maksymalnie 2400 stanowisk. W takich przypadkach transakcja, w tym ponad 2400, zostanie przesłana po cenach bez promocji. Te liczby stanowisk są również wymuszane podczas dodawania stanowisk do subskrypcji podyscytowania z tymi limitami. Partnerzy otrzymają komunikat o błędzie, jeśli spróbują zwiększyć subskrypcję z obsługą promocji poza limity. Limity liczby miejsc w ramach promocji są wymuszane między partnerami, więc jeśli jeden partner kupi podwyżkę o 2300 miejsc z limitem liczby miejsc w promocji, drugi partner, który kupi 200 stanowisk, otrzyma cenę subskrypcji po cenie bez podwyższenia. Poziom promocji jest wymuszany na poziomie sku produktu, w ramach transakcji partnera, dlatego partner może uzyskać ceny promocyjny dla 2400 miejsc Microsoft 365 E3, a także dla różnych typów Microsoft 365 E5. Partnerzy mogą wywołać interfejs [API subskrybowanych SKU,](/partner-center/develop/get-a-list-of-available-licenses) aby zobaczyć, ile licencji klient ma dla danej aprowizowanego interfejsu SKU.
 
 ### <a name="term"></a>Okres ###
 
-Ograniczenia terminów definiują, które warunki SKU produktu są dopasowane do danego promocji. Wiele promocji ma różne rabaty zdefiniowane w zależności od terminu. Jeśli partner przesłał transakcję i termin nie jest dopasowany do promocji, oczekuje, że transakcja będzie po cenie bez podwyższenia. Przykładami terminów są *roczne lub* *miesięczne*.
+Ograniczenia terminów definiują, które warunki SKU produktu są dopasowane do danego promocji. Wiele promocji ma różne rabaty zdefiniowane w zależności od terminu. Jeśli partner przesyła transakcję, a termin nie jest dopasowany do promocji, oczekuje, że transakcja będzie po cenie bez podwyższenia. Przykładami terminów są *roczne lub* *miesięczne*.
 
 ### <a name="first-purchase"></a>Pierwszy zakup ###
 

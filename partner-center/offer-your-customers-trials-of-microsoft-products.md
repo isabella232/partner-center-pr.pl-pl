@@ -1,24 +1,24 @@
 ---
 title: Oferuj klientom wersje próbne produktów firmy Microsoft
 ms.topic: article
-ms.date: 02/23/2021
+ms.date: 08/22/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Pozwól klientom wypróbować produkty subskrypcji firmy Microsoft przez 30 dni. Zarejestruj się, aby korzystać z tych bezpłatnych wersji próbnych w katalogu, podobnie jak wiele innych Usługi online.
+description: Pozwól klientom wypróbować produkty subskrypcji firmy Microsoft. Zarejestruj się, aby korzystać z tych bezpłatnych wersji próbnych w katalogu, podobnie jak wiele innych Usługi online.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 625fd493b026faac924ff8a7a5af8dccb59ab7b3
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 48f4c81f217e68836dd755d1d4342d240276ea79
+ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123958149"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129191498"
 ---
 # <a name="give-customers-free-trials-of-microsoft-products"></a>Zapewnij klientom bezpłatne wersje próbne produktów firmy Microsoft
 
-**Odpowiednie role:** Administrator globalny | Administrator zarządzania użytkownikami | Agent sprzedaży
+**Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent sprzedaży
 
 Dobrym sposobem na wprowadzenie klientów do nowych produktów firmy Microsoft jest oferta 30-dniowych bezpłatnych wersji próbnych. Możesz zarejestrować się, aby korzystać z wersji próbnych w katalogu, podobnie jak wiele innych Usługi online. Wszyscy partnerzy mogą uczestniczyć w programie.
 
@@ -26,7 +26,7 @@ Dobrym sposobem na wprowadzenie klientów do nowych produktów firmy Microsoft j
 
 Wszystkie zaległe oferty wersji próbnej można znaleźć na **stronie klienta.** Ta strona zawiera listę wszystkich subskrypcji, w tym bezpłatnych wersji próbnych i subskrypcji płatnych. (Ta funkcja nie jest obecnie dostępna w Chinach).
 
-Każdy klient jest uprawniony do jednej bezpłatnej wersji próbnej dla każdej dostępnej oferty. Na przykład mogą uzyskać jedną bezpłatną wersję próbną Microsoft 365 Business Standard jedną bezpłatną wersję próbną na Office 365 E3. Jeśli jednak klient jest już właścicielem oferty, nie może użyć bezpłatnej wersji próbnej dla tej oferty.
+Każdy klient jest uprawniony do jednej bezpłatnej wersji próbnej dla każdej dostępnej oferty. Na przykład mogą uzyskać jedną bezpłatną wersję próbną dla Microsoft 365 Business Standard jedną bezpłatną wersję próbną na Office 365 E3. Jeśli jednak klient jest już właścicielem oferty, nie może użyć bezpłatnej wersji próbnej dla tej oferty.
 
 ### <a name="available-products"></a>Dostępne produkty
 
@@ -46,22 +46,22 @@ Licencje próbne powinny być przypisywane do użytkowników w taki sam sposób,
 
 Uzyskaj wersję próbną dla klienta w Partner Center:
 
-1. Z **katalogu Sell** on the Partner Center (Sprzedaż w katalogu) przejdź do **katalogu**. 
-2. W katalogu w opcji Częstotliwość **rozliczeń wybierz** pozycję Oferta **wersji próbnej.** Umożliwia to wyświetlanie tylko bezpłatnych wersji próbnych i wyłączanie innych ofert, które nie są bezpłatne. Wersje próbne będą wyświetlane na karcie **Wersje** próbne w katalogu.
+1. Z **katalogu Sell** on the Partner Center (Sprzedaż przy Partner Center przejdź do katalogu **).** 
+2. W katalogu w opcji Częstotliwość **rozliczeń** wybierz pozycję **Oferta wersji próbnej.** Umożliwia to wyświetlanie tylko bezpłatnych wersji próbnych i wyłączanie innych ofert, które nie są bezpłatne. Wersje próbne będą wyświetlane na karcie **Wersje** próbne w katalogu.
 3. Wybierz bezpłatną wersję próbną, którą chcesz zaoferować, a następnie wybierz pozycję **Prześlij.** Wszystkie wersje próbne są dostępne przez 30 dni, podczas których nie będą naliczane faktury. Możesz również przekonwertować ją na płatną subskrypcję w dowolnym momencie okresu próbnego.
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>Konwertowanie wersji próbnych na płatne subskrypcje
 
 Bezpłatna wersja próbna nie jest automatycznie konwertowana na płatną subskrypcję. Po upływie 30 dni bezpłatna wersja próbna musi zostać przekonwertowana na płatną subskrypcję. W przypadku, gdy subskrypcja wygaśnie, subskrypcja [wygaśnie.](#expiring-offers) Bezpłatnych wersji próbnych nie można rozszerzyć.
 
-Musisz samodzielnie przekonwertować wersję próbną na płatną subskrypcję. Możesz to zrobić przy [użyciu interfejsu Partner Center](#convert-trials-using-partner-center) lub [za pośrednictwem interfejsów PARTNER CENTER API.](#convert-trials-using-apis)
+Musisz samodzielnie przekonwertować wersję próbną na płatną subskrypcję. Można to zrobić przy [użyciu interfejsu Partner Center](#convert-trials-using-partner-center) lub [za pośrednictwem Partner Center API.](#convert-trials-using-apis)
 
 > [!NOTE]
 > Bezpłatne wersje próbne klienta dla programu Dostawca rozwiązań w chmurze (CSP) nie mogą zostać przekonwertowane na inną dzierżawę programu (taką jak EA, Open lub MOSP).
 
 ### <a name="convert-trials-using-partner-center"></a>Konwertowanie wersji próbnych przy użyciu Partner Center
 
-Wersje próbne można przekonwertować na płatne subskrypcje przy użyciu Partner Center:
+Wersje próbne można konwertować na płatne subskrypcje przy użyciu Partner Center:
 
 1. Przejdź do strony subskrypcji klienta i wybierz bezpłatną wersję próbną.
 2. Wybierz pozycję **Konwertuj wersję próbną na płatną subskrypcję.**
@@ -83,8 +83,8 @@ Nie wszystkie wersje próbne można przekonwertować na subskrypcje płatne. Par
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Microsoft Teams Wersja próbna chmury komercyjnej (inicjowana przez użytkownika)   |Microsoft 365 Business Basic, Microsoft 365 Business Standard, Microsoft 365 Business Premium   | F3 (wcześniej F1), Office 365 dla Enterprise (E1, E3 i E5), Microsoft 365 F1/F3, Microsoft 365 Enterprise (E3)   |
 
->[!NOTE]
->Powyższe oferty mają podobne plany usług z podobną funkcjonalnością, jednak mogą wystąpić pewne różnice między ofertami.
+> [!NOTE]
+> Powyższe oferty mają podobne plany usług z podobną funkcjonalnością, jednak mogą wystąpić pewne różnice między ofertami.
 
 ### <a name="expiring-offers"></a>Wygasające oferty
 
@@ -94,7 +94,7 @@ Po wygaśnięciu wersji próbnej klient, który spróbuje zalogować się do tej
 
 ## <a name="converting-new-commerce-trials-to-paid-subscriptions"></a>Konwertowanie nowych wersji próbnych handlu na subskrypcje płatne
 
-> [!Note] 
+> [!NOTE]
 > Nowe zmiany w handlu są obecnie dostępne tylko dla partnerów, którzy są częścią nowego doświadczenia handlowego M365/D365 w wersji Technical Preview.
 
 Po upływie 30 dni bezpłatna wersja próbna zostanie automatycznie odnowiona na płatną subskrypcję. Możesz przekonwertować okres próbny przed automatycznym odnowieniem, korzystając z poniższych kroków. 
@@ -106,15 +106,15 @@ Możesz samodzielnie przekonwertować wersję próbną na płatną subskrypcję.
 
 ### <a name="convert-new-commerce-trials-using-partner-center"></a>Konwertowanie nowych wersji próbnych handlu przy użyciu Partner Center
 
-> [!Note] 
+> [!NOTE]
 > Nowe zmiany w handlu są obecnie dostępne tylko dla partnerów, którzy są częścią nowego doświadczenia handlowego M365/D365 w wersji Technical Preview.
 
-Nowe wersje próbne handlu można przekonwertować na subskrypcje płatne przy użyciu Partner Center:
+Nowe wersje próbne handlu można przekonwertować na płatne subskrypcje przy użyciu Partner Center:
 
 1. Przejdź do strony subskrypcji klienta i wybierz bezpłatną wersję próbną.
 2. Wybierz pozycję **Konwertuj wersję próbną na płatną subskrypcję.**
 3. Wybierz płatny odpowiednik, a następnie wybierz pozycję **Prześlij**.
-4. Rozliczanie płatnej subskrypcji rozpoczyna się od daty konwersji, a subskrypcja jest odnawiana automatycznie przez 12 miesięcy od daty konwersji. 
+4. Rozliczanie płatnej subskrypcji rozpoczyna się od daty konwersji, a subskrypcja jest odnawiana automatycznie przez 12 miesięcy od daty konwersji.
 
 ## <a name="billing"></a>Rozliczenia
 
@@ -122,9 +122,9 @@ Roczne rozliczenia i bezpłatne wersje próbne są takie same w suwerennych chmu
 
 ## <a name="billing-for-free-trials"></a>Rozliczenia za bezpłatne wersje próbne
 
-Bezpłatne wersje próbne mogą być używane w przypadku subskrypcji rozliczanych co miesiąc i rocznie. Częstotliwość rozliczeń można wybrać podczas konwertowania wersji próbnej na płatną subskrypcję.
+Bezpłatne wersje próbne mogą być używane zarówno w przypadku subskrypcji rozliczanych miesięcznie, jak i rocznie. Częstotliwość rozliczeń można wybrać podczas konwertowania wersji próbnej na płatną subskrypcję.
 
-Data rozpoczęcia subskrypcji jest oparta na dacie konwersji. Jeśli bezpłatna wersja próbna zostanie przekonwertowana na płatną ofertę z rozliczeniami rocznymi, data odnowienia subskrypcji będzie 12 miesięcy od daty konwersji. Jeśli bezpłatna wersja próbna zostanie przekonwertowana na ofertę płatną z rozliczeniami miesięcznymi, data odnowienia subskrypcji będzie 12 miesięcy od daty rozliczeniowej następującej po dacie konwersji.
+Data rozpoczęcia subskrypcji zależy od daty konwersji. Jeśli bezpłatna wersja próbna zostanie przekonwertowana na płatną ofertę z rozliczeniami rocznymi, data odnowienia subskrypcji będzie 12 miesięcy od daty konwersji. Jeśli bezpłatna wersja próbna zostanie przekonwertowana na ofertę płatną z rozliczeniami miesięcznymi, data odnowienia subskrypcji będzie 12 miesięcy od daty rozliczeniowej następującej po dacie konwersji.
 
 ### <a name="invoices"></a>Faktury
 

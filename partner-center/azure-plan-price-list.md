@@ -9,18 +9,18 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73b47b62ce996156c7e780450bada1bdbec9f4b0
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 2b8ac518e4a5e13fe1c0f6545537c233b483e86a
+ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246375"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129191514"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Cennik dla nowego środowiska handlowego w programie CSP dla platformy Azure
 
-**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Administrator globalny | Agent pomocy | Agent sprzedaży | Administrator zarządzania użytkownikami
+**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Administrator globalny | Agent pomocy technicznej | Agent sprzedaży | Administrator zarządzania użytkownikami
 
-Ceny w czasie rzeczywistym dla nowego rozwiązania do handlu na platformie Azure w programie CSP są dynamicznie dostarczane w czasie rzeczywistym Partner Center. Ceny są wyświetlane tylko w USD. Od sierpnia 2021 r. wszyscy partnerzy będą rozliczani w walucie lokalizacji partnera niezależnie od lokalizacji klienta, któremu sprzedano produkty. Aby uzyskać więcej informacji, zobacz [Plan platformy Azure — rozliczenia.](azure-plan-billing.md)
+Ceny w czasie rzeczywistym dla nowego doświadczenia handlowego platformy Azure w programie CSP są dynamicznie dostarczane w czasie rzeczywistym na Partner Center. Ceny są wyświetlane tylko w USD. Od sierpnia 2021 r. wszyscy partnerzy będą rozliczani w walucie lokalizacji partnera niezależnie od lokalizacji klienta, któremu sprzedano produkty. Aby uzyskać więcej informacji, zobacz [Plan platformy Azure — rozliczenia.](azure-plan-billing.md)
 
 W ramach nowego rozwiązania handlowego dla platformy Azure w programie CSP wprowadziliśmy [nową ofertę platformy Azure](./azure-plan-lp.md). Ważne daty związane z poprzednią ofertą platformy Azure (MS-AZR-0145p) można znaleźć w [dokumencie oferty](https://go.microsoft.com/fwlink/p/?linkid=2164140).
 
@@ -32,16 +32,29 @@ Zarejestrowanie się *w dniu* 21 lipca 2021 r. lub później
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Zobacz cennik subskrypcji w obszarze cennika planu platformy Azure
 
-1.  Z menu Partner Center pozycję **Sell (Sprzedawaj),** **a następnie pricing and offers (Ceny i oferty).**
+> [!NOTE]
+> Aby dowiedzieć się więcej na temat interfejsu obszarów roboczych, zobacz [Getting around Partner Center (Poruszanie się po Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off)).
+
+#### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
+
+1. Zaloguj się do pulpitu [Partner Center,](https://partner.microsoft.com/dashboard)wybierz **kafelek Cennik,** a następnie wybierz **pozycję Ceny i oferty**.
+
 2.  W **obszarze Cennik użycia planu platformy** Azure i Cennik **rezerwacji** planu platformy Azure wybierz kraj, a następnie link pobierania.
+
    - W **obszarze Kursy wymiany walut** obcych wybierz link pobierania w sekcji .
 
-   > [!NOTE] 
+#### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
+
+1.  Zaloguj się do menu Partner Center, wybierz pozycję **Sell (Sprzedawaj),** a następnie **pricing and offers (Ceny i oferty).**
+
+2.  W **obszarze Cennik użycia planu platformy** Azure i Cennik **rezerwacji** planu platformy Azure wybierz kraj, a następnie link pobierania.
+
+   - W **obszarze Kursy wymiany walut** obcych wybierz link pobierania w sekcji .
+
+   > [!NOTE]
    > **Stawki FX nie** są specyficzne dla danego kraju.
 
-   :::image type="content" source="images/azure/pricing-new.png" alt-text="Zrzut ekranu przedstawiający cennik i oferty pokazujące nowe środowisko handlowe.":::
-
-   > [!NOTE] 
+   > [!NOTE]
    > Możesz wyeksportować dwa różne cenniki: cennik planu platformy Azure i cennik innej firmy w witrynie Marketplace.
 
 ## <a name="azure-price-list-specifics"></a>Szczegółowe informacje o cenniku platformy Azure
@@ -54,11 +67,11 @@ Zarejestrowanie się *w dniu* 21 lipca 2021 r. lub później
 
   - **Bieżące ceny:** ta opcja obejmuje wszystkie mierniki i ceny od pierwszego miesiąca do bieżącej daty miesiąca, takie jak nowe ceny, zmienione ceny lub usunięte ceny. Wszystkie ceny będą mieć efektywne daty rozpoczęcia i zakończenia, aby wyjaśnić, czy są nowe, czy usunięte.
 
-  - **Cennik z poprzedniego miesiąca:** pobieranie każdego typu zasobu będzie według miesiąca. W przypadku plików cen będzie to obejmować wszystkie mierniki, które były dostępne w tym miesiącu. Jeśli w połowie miesiąca pojawi się nowy miernik, pojawię się jako miernik z datą wejścia w życie odzwierciedlającą jego dostępność. Podobnie jak w przypadku cen, które nie są już dostępne, wyświetlane ze efektywną datą zakończenia opisową, kiedy nie są już dostępne.
+  - **Cennik z poprzedniego miesiąca:** pobieranie poszczególnych typów zasobów będzie według miesiąca. W przypadku plików cen będzie to obejmować wszystkie mierniki, które były dostępne w tym miesiącu. Jeśli w połowie miesiąca pojawi się nowy miernik, pojawi się jako miernik z datą wejścia w życie odzwierciedlającą jego dostępność. Podobnie jak w przypadku cen, które nie są już dostępne, wyświetlane ze efektywną datą zakończenia opisową, kiedy nie są już dostępne.
 
   - **Stawki FX:** stawki FX będą dostępne do pobrania dzień przed 1. dniem miesiąca, 18:00 PST. Jeśli na przykład chcesz uzyskać stawki za listopad, pobierz stawki z 31 października. W poprzednim miesiącu będą dostępne również stawki FX.
 
-- Ceny w cennikach są cenami bezpośrednimi. Niektórzy partnerzy mogą kwalifikować się do środków uzyskane przez partnerów. Aby uzyskać informacje na temat sposobu obliczania środków zdobytych przez partnerów, przeczytaj [How the partner earned credit is calculated and paid](partner-earned-credit-explanation.md)(Jak są obliczane i opłacane punkty uzyskane przez partnera).
+- Ceny w cennikach są cenami bezpośrednimi. Niektórzy partnerzy mogą kwalifikować się do środków uzyskane przez partnerów. Aby uzyskać informacje na temat sposobu obliczania środków zdobytych przez partnera, zobacz Jak są obliczane i opłacane uzyskane przez partnera [punkty.](partner-earned-credit-explanation.md)
 
 - **Kwalifikujące się usługi:** Środków uzyskane przez partnerów dotyczy usług wymienionych w cenniku użycia planu platformy **Azure,** które partnerzy mogą eksportować ze strony [cennika planu platformy Azure.](https://partner.microsoft.com/commerce/sales)
    > [!NOTE]
@@ -85,9 +98,9 @@ Zarejestrowanie się *w dniu* 21 lipca 2021 r. lub później
 |EffectiveEndDate|Data zakończenia cennika|
 |MeterIds|Identyfikator miernika dla sku produktu|
 |MeterType (Typ miernika)|Typ miernika|
-|Tagi|Właściwości elementu w przypadku cennika planu platformy Azure będą dotyczyć platformy Azure lub platformy Azure i rezerwacji (w szczególności rezerwacji)|
+|Tagi|Właściwości elementu w przypadku cennika planu platformy Azure będą dotyczyć platformy Azure lub platformy Azure i rezerwacji (w szczególności w przypadku rezerwacji)|
 
-Cenniki planu platformy Azure można eksportować ze strony [Cennik i oferty w](https://partner.microsoft.com/dashboard/sell/pricingandoffers) Partner Center.
+Cenniki planu platformy Azure można wyeksportować ze strony [Cennik i oferty w](https://partner.microsoft.com/dashboard/sell/pricingandoffers) Partner Center.
 
 ## <a name="tiered-pricing"></a>Ceny warstwowe
 
@@ -105,7 +118,7 @@ W tym przykładzie, jeśli używane jest 101 jednostek, opłata wynosi 100,80. P
 
 Interfejs API [cennika](/partner/develop/pricing) umożliwia programowe pobieranie cennika planu platformy Azure na potrzeby użycia i rezerwacji. Możesz również pobrać kursy wymiany walut obcych.
 
-Interfejs API cennika znajduje się w innym punkcie końcowym niż inne Partner Center API. Informacje o cenach obejmują ceny miernika w USD dla zasobów planu platformy Azure i rezerwacji stosowanych do subskrypcji planu platformy Azure.
+Interfejs API cennika znajduje się w innym punkcie końcowym niż inne Partner Center API. Informacje o cenach obejmują ceny mierników w USD dla zasobów planu platformy Azure i rezerwacji stosowanych do subskrypcji planu platformy Azure.
 
 Ten interfejs API umożliwia również partnerom pobieranie miesięcznych kursów wymiany, ponieważ ceny planu platformy Azure są dostępne tylko w USD. Za pomocą interfejsów API można pobrać zarówno ceny, jak i kursy wymiany walut dla bieżącego miesiąca lub poprzednich miesięcy.
 

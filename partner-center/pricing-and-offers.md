@@ -9,35 +9,37 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 56895336a40e8e09c5b2798bad5e502baad3067a
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: c3d0b40cb9421d3eb731e62395a5813fc31b760c
+ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071084"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129191529"
 ---
-# <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Cennik i oferty dla usług Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure i innych
+# <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Ceny i oferty dla usług Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure i innych
 
 **Odpowiednie role:** Administrator globalny | Administrator zarządzający użytkownikami | Agent administracyjny | Administrator partnera MPN | Agent sprzedaży | Administrator rozliczeń
 
-Aby wyświetlić najnowsze Dostawca rozwiązań w chmurze i oferty (CSP), na pulpicie nawigacyjnym Portalu dla partnerów przejdź do tematu Sell > Pricing and Offers (Sprzedaż i **oferty).** Znajdziesz oddzielne cenniki różnych typów dostępnych produktów. Następujące cenniki są dostępne na **stronie Cennik i oferty:**
+Aby wyświetlić najnowsze Dostawca rozwiązań w chmurze (CSP), na pulpicie nawigacyjnym usługi Partner Center przejdź do strony **Cennik i oferty.** Znajdziesz oddzielne cenniki różnych typów dostępnych produktów. Dostępne są następujące cenniki:
 
 - **Usługi oparte na licencjach zawierają** informacje o cenach usług Office 365, Enterprise Mobility, Security E3 i Dynamics 365. Sekcja cennika opartego na licencjach zawiera bieżące i zapoznawcze ceny oraz macierz listy ofert. Cenniki obejmują ceny cennika i szacowane ceny detaliczne (ERP) dla ofert we wszystkich obsługiwanych walutach. Macierz listy ofert zawiera informacje o dostępności na rynku i inne ważne informacje o ofertach. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
+
    > [!NOTE]
    > Ceny list i ERP są dostępne dla miesięcznej częstotliwości rozliczeń. W przypadku rocznej częstotliwości rozliczeń należy pomnożyć cenę miesięczną przez 12.
-- **Usługi oparte na użyciu zawierają** informacje o cenach Microsoft Azure i Visual Studio. Możesz również użyć kalkulatora cen [usług platformy Azure w programie CSP](https://azure.microsoft.com/pricing/calculator/). Pobieranie oparte na użyciu zawiera cenniki CSP dla wszystkich obsługiwanych walut i pliki cen usług udostępnionych w systemie ERP. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
-- **Microsoft Azure usługi Azure Reserved Instances** zawierają informacje o cenach dla wszystkich obsługiwanych walut dla wystąpień zarezerwowanych platformy Azure. Pobieranie cennika obejmuje również cennik usług udostępnionych w systemie ERP. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
+
+- **Usługi oparte na użyciu zawierają** informacje o cenach Microsoft Azure i Visual Studio. Możesz również użyć kalkulatora cen [usług platformy Azure w programie CSP](https://azure.microsoft.com/pricing/calculator/). Pobieranie oparte na użyciu zawiera cenniki programu CSP dla wszystkich obsługiwanych walut i pliki cen usług udostępnionych w systemie ERP. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
+- **Microsoft Azure usługi Azure Reserved Instances** zawierają informacje o cenach wszystkich obsługiwanych walut dla wystąpień zarezerwowanych platformy Azure. Pobieranie cennika obejmuje również cennik usług udostępnionych w systemie ERP. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
 - **Subskrypcje oprogramowania obejmują** ceny dla subskrypcji oprogramowania opartych na terminach dla wszystkich obsługiwanych walut. Plik ceny zawiera wszystkie obsługiwane waluty z ceną cennika i sugerowaną przez producenta ceną detaliczną (MSRP). Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
-- **Cennik planu platformy Azure** zawiera informacje o cenach za korzystanie z usług planu platformy Azure i cennik rezerwacji planu platformy Azure. Ceny są cenami bezpośrednimi lub ERP i można je pobrać dla dowolnego obsługiwanego rynku. Dane w tych plikach są odświeżane codziennie.
+- **Cennik planu platformy Azure** zawiera informacje o cenach usług użycia planu platformy Azure i cennik rezerwacji planu platformy Azure. Ceny są cenami bezpośrednimi lub ERP i można je pobrać dla dowolnego obsługiwanego rynku. Dane w tych plikach są odświeżane codziennie.
 - **Kursy wymiany walut są** używane do obliczania rozliczeń naliczanych między walutami USD i lokalnymi walutami partnerów. Stawki są aktualizowane pierwszego dnia każdego miesiąca i mają wartość "true" dla danego miesiąca, w przypadku których stawki są udostępniane. Te pliki są aktualizowane pierwszego dnia każdego miesiąca.
 - **Witryna Marketplace** zawiera cennik rozwiązań niezależnych dostawców oprogramowania (ISV) z platformy handlowej firmy Microsoft. Ceny są pobierane na rynek. Dane w tych plikach są odświeżane codziennie.
 
-> [!Note] 
+> [!NOTE]
 > Tylko partnerzy CSP z możliwością transakcji mogą wyświetlać i pobierać cenniki. Odsprzedawcy pośredni powinni skontaktować [się ze swoim dostawcą usług w]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider) chmurze w celu zażądania szczegółowych informacji o cenach
 
 ## <a name="price-list-preview-and-change-frequency"></a>Podgląd cennika i częstotliwość zmian 
 
-Usługi oparte na licencjach obejmują podgląd cennika z 30-dniową wyprzedzeniem od wszelkich zmian. Aby wyświetlić podgląd cennika, przejdź do tematu Sell > Pricing and offers (Ceny **i oferty).** Nie ma wersji zapoznawczej cen usług opartych na użyciu, ponieważ te usługi są dynamiczne. W poniższej tabeli wyjaśniono, jak odczytać tabelę cenników.
+Usługi oparte na licencjach obejmują podgląd cennika z 30-dniową wyprzedzeniem od wszelkich zmian. Aby wyświetlić podgląd cennika, przejdź do tematu Sell > Pricing and offers (Sprzedaż **i oferty).** Nie ma wersji zapoznawczej cen usług opartych na użyciu, ponieważ te usługi są dynamiczne. W poniższej tabeli wyjaśniono, jak odczytać tabelę cenników.
 
 |**Element**        |**Definicja**      |
 |:-----------   |:-----------   |
@@ -51,14 +53,14 @@ Usługi oparte na licencjach obejmują podgląd cennika z 30-dniową wyprzedzeni
 |Identyfikator oferty   |Wewnętrzny identyfikator oferty   |
 |Typ umowy licencyjnej   |Typy umów licencyjnych mogą być firmowe, rządowe lub akademickie. Typ umowy określa typy klientów, którym można sprzedać ofertę.|
 |Jednostka zakupu   |Czas trwania zakupionej oferty. Jednostki zakupu są zwykle jednomiesięczny.   |
-|Pomocniczy typ licencji   |Dodatkowe typy licencji będą nieo specyficzny, dodatek lub wersja próbna. Dodatek wskazuje, że istnieją wstępnie wymagane produkty, które klient musi zakupić przed zakupem dodatku.|
-|Typ klienta końcowego   |Odnosi się z powrotem do typu umowy licencyjnej: licencja firmowa — firmowa odsprzedawca chmury, licencja dla instytucji rządowych — odsprzedawca chmury dla instytucji rządowych lub licencja akademickia — odsprzedawca chmury lub odsprzedawca chmury student   |
+|Typ licencji pomocniczej   |Dodatkowe typy licencji będą nieo specyficzny, dodatek lub wersja próbna. Dodatek wskazuje, że istnieją wstępnie wymagane produkty, które klient musi zakupić przed zakupem dodatku.|
+|Typ klienta końcowego   |Relacja z powrotem do typu umowy licencyjnej: licencja firmowa — firmowa odsprzedawca chmury, licencja dla instytucji rządowych — odsprzedawca chmury dla instytucji rządowych lub licencja akademickia — odsprzedawca chmury lub odsprzedawca chmury   |
 |Cena cennika   |Cena, jaką będzie płacić partner   |
 |Cena ERP   |Szacowana lub zalecana cena detaliczna dla klienta   |
 
 ## <a name="price-changes"></a>Zmiany cen
 
-Częstym przypadkiem są zmiany cen. Partnerzy mogą przewidywać zmiany cen ofert opartych na licencjach, patrząc na podgląd cennika. Na pulpicie Partner Center nawigacyjnym wybierz **kafelek Cennik,** aby wyświetlić podgląd cennika.
+Częstym przypadkiem są zmiany cen. Partnerzy mogą przewidywać zmiany cen ofert opartych na licencjach, patrząc na podgląd cennika. Na Partner Center nawigacyjnym wybierz **kafelek Cennik,** aby wyświetlić podgląd cennika.
 
 Jednak cennik oparty na użyciu platformy Azure nie ma wersji zapoznawczej. Partnerzy mogą być na bieżąco ze zmianami cen za użycie platformy Azure przy użyciu interfejsu API usługi RateCard, który zwraca ceny mierników z tego dnia.
 
@@ -66,8 +68,8 @@ Jednak cennik oparty na użyciu platformy Azure nie ma wersji zapoznawczej. Part
 |-----------------------|:-----------------------|:-------------------|------------------|
 |Oparte na licencjach|Office, Dynamics, Intune, Windows Enterprise|30-dniowy|Wyświetlanie zmian cen oznaczonych jako CHNG w cennikach wersji zapoznawczej|
 |Na podstawie użycia|Zasoby platformy Azure|Niedostępne|Dziennik zmian dostępny na karcie Historia zmian cennika z **poprzedniego** miesiąca|
-|Oprogramowanie||Niedostępne|Ręczne porównywanie cenników z miesiąca na miesiąc|
-|Rezerwacje|Maszyny wirtualne, z przedpłatą|Niedostępne|Ręczne porównywanie cenników z miesiąca na miesiąc|
+|Oprogramowanie||Niedostępne|Porównywanie cenników ręcznie z miesiąca na miesiąc|
+|Rezerwacje|Maszyny wirtualne, z przedpłatą|Niedostępne|Porównywanie cenników ręcznie z miesiąca na miesiąc|
 
 Ceny oparte na użyciu mogą zmieniać się w ciągu miesiąca. Aby uzyskać "bieżące" dzienne ceny dla tych zasobów platformy Azure, partnerzy muszą wywołać interfejs API usługi RateCard. 
 
@@ -85,7 +87,7 @@ CSP oferuje niektóre usługi dla specjalnych segmentów rynku, takich jak eduka
 |Government Community Cloud (GCC)|Partner i klient|Po GCC partner może tworzyć GCC klientów| Tylko na podstawie licencji|
 |Azure Government|Partner|Po zakwalifikowanym partner działa w dzierżawie CSP specyficznej dla Azure Government|Zasoby platformy Azure|
 
-Marże partnerów, różnica między ceną detaliczną a szacowaną ceną detaliczną, może różnić się w zależności od segmentu. Zwykle edukacja i organizacje niedochodowe mają niższe marże dla partnerów CSP lub ich brak. Dokładne wartości można znaleźć w cenniku opartym na licencjach. 
+Marże partnerów, różnica między ceną detaliczną a szacowaną ceną detaliczną, może różnić się w zależności od segmentu. Zwykle edukacja i organizacje niedochodowe mają niższe marże dla partnerów CSP lub ich brak. Dokładne wartości można znaleźć w cenniku opartym na licencjach.
 
 ## <a name="add-on-offer-types"></a>Typy ofert dodatków
 
@@ -112,7 +114,7 @@ Dla partnerów programu CSP, którzy używają Partner Center Software Developme
 
 ### <a name="offers-matrix-and-price-list-questions"></a>Pytania dotyczące macierzy ofert i cennika
 
-Jeśli masz pytania dotyczące cennika lub macierzy ofert, prześlij żądanie obsługi za pośrednictwem Partner Center **pomocy i obsługi** technicznej.
+Jeśli masz pytania dotyczące cennika lub macierzy ofert, prześlij żądanie obsługi za pośrednictwem Partner Center.
 
 ## <a name="offer-limits"></a>Limity ofert
 
@@ -124,7 +126,7 @@ Zakres limitu oferty jest rejestrowany jako kolumna w macierzy listy ofert i mo�
 
 - Oferty z **none** można kupić bez ograniczeń
 - **Oferty okresu** istnienia można kupić tylko raz
-- **Oferty** współbieżne można kupować tyle razy, ile jest dozwolone przez wartość **Limit oferty** dla tej oferty. Większość wersji próbnych ma zakres limitu oferty w okresie istnienia z limitem oferty o wartości "1". Większość ofert dla małych firm ma zakres limitu ofert współbieżnych z limitem oferty o wartości "2".
+- **Oferty** współbieżne można kupić tyle razy, ile jest dozwolone przez wartość **Limit oferty** dla tej oferty. Większość wersji próbnych ma zakres limitu oferty w okresie istnienia z limitem oferty o wartości "1". Większość ofert dla małych firm ma zakres limitu ofert współbieżnych z limitem oferty o wartości "2".
 
 > [!IMPORTANT]
 > Limity współbieżności są wymuszane nawet wtedy, gdy oferta zostanie anulowana. Oferta musi zostać całkowicie anulowana, a następnie anulowana, aby umożliwić dodatkowe miejsce na kolejny zakup.
@@ -137,9 +139,11 @@ Wszystkie ceny w cennikach Partner Center CSP są włącznie z podatkami. Więce
 
 Niektóre oferty wymagają od partnera zgody przed zakupem. Ten proces nosi nazwę zaświadczenia i od 1 sierpnia 2021 r. jedynymi ofertami wymagającymi zaświadczeń są oferty Windows 365 Business z korzyścią Windows hybrydowej. Partnerzy zobaczą tekst na ekranie przeglądu podczas zakupu tych ofert. "Rozumiem, że każda osoba korzystająca z usługi Windows 365 Business z korzyścią użycia hybrydowego usługi Windows również musi mieć ważną kopię usługi Windows 10/11 Pro zainstalowaną na swoim podstawowym urządzeniu służbowym". Partnerzy muszą wyrazić zgodę na to przed zakupem.
 
-Zaświadczenia dotyczą zarówno portalu Partner Center, jak i interfejsów API Partner Center podczas przesyłania zamówień i wyencjania koszyków. Partnerzy mogą określić, które oferty wymagają zaświadczenia, sprawdzając attestationProperties w [ofercie](/partner-center/develop/offer-resources#attestationproperties) lub [obiektach SKU.](/partner-center/develop/product-resources#attestationproperties) Te właściwości wyjaśnią typ zaświadczenia oraz to, czy zaświadczenia są wymuszane dla zakupów (enforceAttestation=True). W razie potrzeby partnerzy po prostu ustawiają wartość true attestationAccepted w koszyku lub [wierszu zamówienia](/partner-center/develop/cart-resources).
+Zaświadczenia dotyczą zarówno portalu Partner Center, jak i interfejsów API Partner Center podczas przesyłania zamówień i wyencjania koszyków. Partnerzy mogą określić, które oferty wymagają zaświadczenia, sprawdzając `AttestationProperties` obiekty `[offer](/partner-center/develop/offer-resources#attestationproperties)` lub `[sku](/partner-center/develop/product-resources#attestationproperties)` .
 
-Poniżej przedstawiono oferty, które obecnie wymagają zaświadczenia przed zakupem.
+Te właściwości wyjaśnią typ zaświadczenia oraz to, czy zaświadczenia są wymuszane dla zakupów (enforceAttestation=True). W razie potrzeby partnerzy po prostu ustawiają `AttestationAccepted` wartość **true** w koszyku lub zamówieniu `[lineitems](/partner-center/develop/cart-resources)` .
+
+Poniższe oferty wymagają obecnie zaświadczenia przed zakupem.
 
  | **Nazwa oferty** |**Identyfikator oferty** |
 |:------------------------------------------- |:--------------------------------------- |
@@ -190,7 +194,7 @@ Poniżej znajduje się podsumowanie sposobu działania tych ofert:
 
 ## <a name="estimated-retail-price-erp"></a>Szacowana cena detaliczna (ERP)
 
-Większość cenników obejmuje cenę cennika, cenę partnera i szacowaną cenę detaliczną. Szacowana cena detaliczna (ERP) jest również nazywana sugerowaną ceną detaliczną firmy Microsoft lub MSRP. Te dwie wartości, ERP i MSRP, reprezentują szacowaną wartość rynku produktów, jeśli klient zakupił produkty bezpośrednio od firmy Microsoft. Poniżej przedstawiono, gdzie można znaleźć szczegóły ERP/MSRP dla każdego typu produktu lub usługi. 
+Większość cenników obejmuje cenę list, cenę partnera i szacowaną cenę detaliczną. Szacowana cena detaliczna (ERP) jest również nazywana sugerowaną ceną detaliczną firmy Microsoft lub MSRP. Te dwie wartości, ERP i MSRP, reprezentują szacowaną wartość rynku produktów, jeśli klient zakupił produkty bezpośrednio od firmy Microsoft. Poniżej przedstawiono, gdzie można znaleźć szczegóły ERP/MSRP dla każdego typu produktu lub usługi. 
 
 
 |**Produkt lub usługa**        |**Szczegóły cennika ERP i MSRP**      |
@@ -265,33 +269,33 @@ Macierz oferty zawiera informacje o zakupach i reguły dotyczące jednostki SKU 
 | ProvisioningString            | O365_BUSINESS_ESSENTIALS    |Przyjazna nazwa klucza dla aprowizowanych produktów |
 | MinLicenses                   | 1                  | Minimalna liczba licencji, które można kupić |
 | MaxLicenses                   | 300                | Maksymalna liczba licencji, które można kupić |
-| AssetOwnershipLimit           | 2 | Limit zasobów dla danego assetOwnershipLimitType |
+| AssetOwnershipLimit           | 2 | Limit zasobów dla danego typu AssetOwnershipLimitType |
 | AssetOwnershipLimitType       | ConcurrentCount    | Typ assetLimit. Może być okres istnienia lub współbieżny |
 | ProductSkuPreRequisites       |                    | Lista jednostki SKU, które obsługuje dodatek |
 | ProductSkuConversion          | CFQ7TTC0LDPB/0001,CFQ7TTC0LF8Q/0001 | Lista jednostki SKU, na które można konwertować |
 | Opis                   | Najlepsze rozwiązanie dla firm, które potrzebują specjalistów... | Opis sku |
-| AllowedCountries              |AD; AE;AF; Ag( Ag; AI; AL;AM; AO...                     | Lista obsługiwanych rynków |
+| AllowedCountries (DozwoloneJedyny)              |AD; AE;AF; Ag (Ag( Ag; AI; AL;AM; AO...                     | Lista obsługiwanych rynków |
 
-### <a name="price-list-preview"></a>Cennik (wersja zapoznawcza)
+### <a name="price-list-preview"></a>Wersja zapoznawcza cennika
 
-Nowy handel obsługuje przyszłe ceny. Partnerzy mogą eksportować i wyświetlać przyszłe ceny w nadchodzącym miesiącu. Tradycyjne cenniki oparte na licencjach zawierały flagi dla nowych ofert, usuniętych ofert, zmienionych i niezmienionych. Nowe pliki cennika handlu umożliwiają partnerom śledzenie tych zmian przy wykorzystaniu metod EffectiveStartDate i EffectiveEndDates.
+Nowy handel obsługuje przyszłe ceny. Partnerzy mogą eksportować i wyświetlać przyszłe ceny na nadchodzący miesiąc. Tradycyjne cenniki oparte na licencjach zawierały flagi dla nowych ofert, usuniętych ofert, zmian i niezmienionych. Nowe pliki cennika handlu umożliwiają partnerom śledzenie tych zmian za pomocą metod EffectiveStartDate i EffectiveEndDates.
 
-Nowe oferty zostaną zidentyfikowane, gdy znajdują się w przyszłym pliku cen, ale nie w pliku bieżącej ceny.
+Nowe oferty będą identyfikowane, gdy znajdują się w pliku z przyszłą ceną, ale nie w pliku bieżącej ceny.
 
 | **Zmienianie typu**             | **Jak zidentyfikować typ zmiany**      |
 |:----------------------------|:-------------------------------------|
-| Nowy                           | Elementy wiersza w przyszłych cenach, które nie są w bieżącym cenniku miesięcznym |
-| Zmiana                         | Elementy wiersza w bieżącej i przyszłej wersji, gdzie przyszłe ceny są różne, identyfikowane przez zaktualizowane elementy EffectiveStartDates |
-| Usuwa                     | Element wiersza w przyszłości z elementem EffectiveEndDate oznaczającym koniec dostępności |
-| Niezmienione                   | Nie w pliku z cennikiem w przyszłości |
+| Nowy                           | Elementy wiersza w przyszłych cenach, które nie są zgodne z bieżącym cennikiem miesięcznym |
+| Zmiana                         | Elementy wiersza w bieżącym i przyszłym, gdzie przyszłe ceny są różne, identyfikowane przez zaktualizowane dane EffectiveStartDates |
+| Usuwa                     | Element wiersza w przyszłości z datami EffectiveEndDate oznaczającym koniec dostępności |
+| Niezmienione                   | Nie w przyszłym pliku cennika |
 
 ### <a name="european-regional-prices"></a>Europejskiego cen regionalnych
 
-Partnerzy są [](regional-authorization-overview.md) transakcyjni w regionach przypisanych podczas dołączania. Region europy jest unikatowy, ponieważ obsługuje więcej niż jedną walutę. Partnerzy żądają cen na podstawie rynku klienta, ale będą rozliczane w ich walucie, która może być inna niż waluta na rynku klienta. W takich przypadkach partner otrzyma cennik we wszystkich obsługiwanych walutach dla rynku klientów, dla których żąda informacji o cenach.  Wszystkie cenniki dotyczące rynku europejskiego będą zawierać ceny we wszystkich obsługiwanych walutach w regionie europejskiego. Ceny są oparte na rynku lub kraju klientów, jednak cennik dla danego kraju UE będzie zawierać ceny we wszystkich walutach UNII.
+Partnerzy transakcje w [regionach,](regional-authorization-overview.md) które są przypisane podczas dołączania. Region europejskiego jest unikatowy, ponieważ obsługuje więcej niż jedną walutę. Partnerzy żądają cen na podstawie rynku klienta, ale będą rozliczani w ich walucie, która może być inna niż waluta na rynku klienta. W takich przypadkach partner otrzyma cennik we wszystkich obsługiwanych walutach dla rynku klientów, dla których żąda informacji o cenach.  Wszystkie cenniki dotyczące rynku europejskiego będą zawierać ceny we wszystkich obsługiwanych walutach w regionie europejskiego. Ceny są oparte na rynku lub kraju klientów, jednak cennik dla danego kraju UE będzie zawierać ceny we wszystkich walutach UE.
 
 ### <a name="pricing-and-offer-matrix-apis"></a>Interfejsy API macierzy cen i ofert
 
-Interfejsy API cennika i macierzy ofert są kompilowane na istniejącej infrastrukturze interfejsu API arkusza cen wydanej w celu obsługi planu platformy Azure. Ten interfejs API został rozszerzony o obsługę nowych cen handlowych opartych na licencjach. Interfejsy API arkusza cen i [macierzy ofert](/partner/develop/get-a-price-sheet) obsługują ceny tylko dla zaktualizowanych nowych licencji Usługi online handlowego. Nie obsługuje ona tradycyjnych usług opartych na licencjach pakietu Office, które można pobrać tylko ze strony Partner Center cennika i ofert.
+Interfejsy API macierzy cen i ofert są kompilowane na istniejącej infrastrukturze interfejsu API arkusza cen wydanej w celu obsługi planu platformy Azure. Ten interfejs API został rozszerzony o obsługę nowych cen handlowych opartych na licencjach. Interfejsy API arkusza cen i [macierzy](/partner/develop/get-a-price-sheet) ofert obsługują ceny tylko w przypadku zaktualizowanych nowych licencji Usługi online handlowych. Nie obsługuje ona tradycyjnych usług opartych na licencjach pakietu Office dostępnych do pobrania tylko Partner Center cennika i ofert.
 
 ## <a name="next-steps"></a>Następne kroki
 
