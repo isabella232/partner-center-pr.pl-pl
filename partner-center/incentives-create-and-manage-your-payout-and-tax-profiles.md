@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: e010800cb4ac77d44eda0de2fdc04c29d57b33ce
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 3ae0059e5e4401afd34d095964b62a74174e891a
+ms.sourcegitcommit: 4bdf04eaca11a1065a4146fc3269ee4a8a7a6828
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073809"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "129157043"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Tworzenie profilów wypłat i profilów podatkowych zachęt i zarządzanie nimi w Partner Center
 
@@ -39,7 +39,7 @@ Płatności zachęt są dokonywane w walucie wybranej podczas konfigurowanie pro
 
 ### <a name="using-different-profiles-for-different-microsoft-programs"></a>Używanie różnych profilów dla różnych programów firmy Microsoft
 
-Jeśli Twoja firma jest zarejestrowane w wielu programach zachęt, możesz użyć tego samego konta płatności dla wszystkich z nich lub wybrać różne konta płatności dla różnych programów.
+Jeśli Twoja firma jest zarejestrowanych w wielu programach zachęt, możesz użyć tego samego konta płatności dla wszystkich z nich lub wybrać używanie różnych kont płatności dla różnych programów.
 
 ## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>Tworzenie profilów wypłat i profilów podatkowych oraz zarządzanie nimi w Partner Center
 
@@ -62,7 +62,7 @@ W poniższych sekcjach przedstawiono proces tworzenia profilów płatności i pr
 
 ## <a name="assign-payout-and-tax-profiles-to-individual-programs"></a>Przypisywanie profilów wypłat i profilów podatkowych do poszczególnych programów
 
-1. Zaloguj się do [pulpitu Partner Center](https://partner.microsoft.com/dashboard/), a następnie wybierz ikonę koła Ustawienia, a następnie pozycję **Konto Ustawienia.**
+1. Zaloguj się do [pulpitu Partner Center](https://partner.microsoft.com/dashboard/), a następnie wybierz ikonę koła zębatego Ustawienia, a następnie pozycję **Konto Ustawienia.**
 
 2. Wybierz **sekcję Wypłaty i podatek,** a następnie wybierz **pozycję Przypisanie wypłaty i profilu podatkowego.**
 
@@ -83,13 +83,13 @@ W poniższych sekcjach przedstawiono proces tworzenia profilów płatności i pr
 
     - Jeśli identyfikator MPN Twojej lokalizacji jest opłacany przez lokalny podmiot zależny firmy Microsoft za określony program zachęt i zezwala na notę kredytową LRD (dystrybutor ograniczonego ryzyka) jako formę płatności, Twój profil płatności zostanie wstępnie wypełniony metodą płatności LRD Credit Note. W wierszu formy płatności za kartę kredytową LRD dla odpowiedniego  programu zachęt i identyfikatora MPN lokalizacji w sekcji profilu płatności zostanie wyświetlony stan **Wymagane** potwierdzenie lub weryfikacja.
 
-       Wybierz **pozycję Weryfikacja, która** jest potrzebna, aby potwierdzić i zweryfikować szczegóły identyfikatora dzierżawy dostawcy CSP skojarzone z lokalizacją MPN i formy płatności w celu otrzymania płatności za pomocą faktury kredytowej. W **oknie dialogowym Szczegóły faktury** kredytowej sprawdź i sprawdź, czy podany identyfikator dzierżawy i podane szczegóły dzierżawy programu CSP są poprawne. Jeśli zostanie wyświetlony więcej niż jeden identyfikator dzierżawy, starannie wybierz identyfikator dzierżawy CSP, dla którego chcesz otrzymywać płatności. Następnie wybierz  pozycję Potwierdź, aby potwierdzić, że szczegóły twojej firmy są poprawne, i że płatność zachęty powinna zostać wykonana na wybranym identyfikatorze dzierżawy dostawcy usług w sp.
+       Wybierz **pozycję Weryfikacja, która** jest potrzebna, aby potwierdzić i zweryfikować szczegóły identyfikatora dzierżawy dostawcy CSP skojarzone z lokalizacją MPN i formy płatności w celu otrzymania płatności za pomocą faktury kredytowej. W **oknie dialogowym Szczegóły faktury** kredytowej sprawdź i sprawdź, czy podany identyfikator dzierżawy i podane szczegóły dzierżawy programu CSP są poprawne. Jeśli zostanie wyświetlony więcej niż jeden identyfikator dzierżawy, starannie wybierz identyfikator dzierżawy CSP, dla którego chcesz otrzymywać płatności. Następnie wybierz pozycję **Potwierdź,** aby potwierdzić, że szczegóły twojej firmy są poprawne, i że płatność zachęty powinna zostać wykonana dla wybranego identyfikatora dzierżawy dostawcy CSP.
 
       Jeśli stan ma stan **Potwierdzony,** przypisanie identyfikatora dzierżawy CSP zostało ukończone i nie są wymagane żadne dalsze działania. Możesz nadal wybrać pozycję Potwierdzone, aby wyświetlić szczegóły przypisania.
 
       W krajach, w których partnerzy jawnie żądają zastosowania zwolnienia z podatku, istnieje możliwość zastosowania zwolnienia z podatku obok profilu podatkowego w sekcji profilu podatkowego programu zachęt i lokalizacji MPN. Zaznaczenie tego pola spowoduje zastosowanie korzyści wynikających ze zwolnienia z podatku do faktury kredytowej zachęty. 
 
-      Obecnie metoda płatności LRD Credit Note jest dostępna tylko dla partnerów z Australii, Nowej Zelandii i Kanady w ramach programu Microsoft Commerce Incentive. Jeśli jesteś partnerem rozliczania bezpośredniego lub dostawcą pośrednim w tych trzech krajach zarejestrowanych w programie MCI i nie widzisz noty kredytowej LRD jako dostępnej formy płatności, potwierdź, że identyfikator dzierżawy jest skojarzony z odpowiednim kontem lokalizacji MPN partnera. Aby uzyskać więcej informacji na ten temat, [przeczytaj, jak zaktualizować profil organizacji.](update-your-partner-profile.md)
+      Obecnie metoda płatności za kartę kredytową LRD jest dostępna tylko dla partnerów Australii, Nowej Zelandii, Kanady, Zelandii, Zelandii, Zelandii, Francji, Francji, Niemiec, Holandia, Zelandii, Kanady, Kanady i Zjednoczonego Królestwa dla programu Zachęty do handlu firmy Microsoft i programu zachęt do kampanii. Jeśli jesteś partnerem rozliczania bezpośredniego lub dostawcą pośrednim w tych krajach zarejestrowanych w programie MCI lub programie Campaigns i nie widzisz noty kredytowej LRD jako dostępnej formy płatności, potwierdź, że identyfikator dzierżawy jest skojarzony z odpowiednim kontem lokalizacji MPN partnera. Aby uzyskać więcej informacji na ten temat, [przeczytaj, jak zaktualizować profil organizacji.](update-your-partner-profile.md)
 
 5. Wybierz **walutę**.
 
@@ -156,7 +156,7 @@ W przypadku firm partnerskich w Stanach Zjednoczonych, jeśli potrzebujesz infor
 2. Na **stronie Konfiguracja** wybierz opcję, która ma zastosowanie do Twojej firmy.
 
    - Wybierz opcję po lewej stronie, jeśli firma jest włączona tylko do Stany Zjednoczone lub jeśli ten profil jest dla osoby poszczególnych.
-   - Wybierz opcję po prawej stronie, jeśli Twoja firma jest włączona poza Stany Zjednoczone, a następnie wybierz kraj/region z listy.
+   - Wybierz opcję po prawej stronie, jeśli Firma jest włączona poza Stany Zjednoczone, a następnie wybierz kraj/region z listy.
 
 3. Wybierz opcję **Dalej**.
 
@@ -174,7 +174,7 @@ W przypadku firm partnerskich w Stanach Zjednoczonych, jeśli potrzebujesz infor
 
 ## <a name="update-expired-tax-profiles"></a>Aktualizowanie wygasłych profilów podatkowych
 
-1. Zaloguj się do Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard/)a następnie wybierz ikonę koła zębatego, aby otworzyć **Ustawienia** nawigacyjny.
+1. Zaloguj się do Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard/)a następnie wybierz ikonę koła zębatego, aby Ustawienia **menu.**
 
 2. Wybierz **pozycję Ustawienia konta,** rozwiń **sekcję Wypłata i** podatek, a następnie wybierz pozycję Profil **wypłaty i profil podatkowy.**
 

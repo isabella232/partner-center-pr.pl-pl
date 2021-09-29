@@ -20,7 +20,7 @@
       href: transition-direct-to-indirect.md
     - name: Zadania odsprzedawcy pośredniego
       href: indirect-reseller-tasks-in-partner-center.md
-    - name: 'Zarejestruj się, aby zostać Azure Expert MSP'
+    - name: 'Zarejestruj się, aby być Azure Expert MSP'
       href: azure-expert-msp.md
     - name: Zarejestruj się jako Panel sterowania dostawcy
       href: enroll-as-cpv.md
@@ -264,7 +264,7 @@
           href: bulk-license-provisioning-for-multiple-users.md
         - name: Sprawdzanie kondycji usługi
           href: check-service-health.md
-        - name: Jak potwierdzić akceptację klienta Umowa z Klientem Microsoft
+        - name: Jak potwierdzić akceptację przez klienta Umowa z Klientem Microsoft
           href: confirm-customer-agreement.md
         - name: 'Tworzenie, zawieszanie lub anulowanie subskrypcji klientów'
           href: create-a-new-subscription.md
@@ -298,7 +298,7 @@
           href: request-a-relationship-with-a-customer.md
     - name: Umowy klienta firmy Microsoft
       href: agreements.md
-    - name: Certyfikacja listy w programie Partner Finder
+    - name: Certyfikacja oferty w programie Partner Finder
       href: partner-finder-certification.md
     - name: Zasoby licencjonowania
       href: support-resources-licensing.md
@@ -328,7 +328,7 @@
           href: recon-file-charge-types.md
         - name: Pliki uzgodnień na podstawie użycia
           href: usage-based-recon-files.md
-        - name: Pliki uzgodnień użycia z ocenianą dobową oceną
+        - name: Pliki uzgodnień użycia ocenianego codziennie
           href: daily-rated-usage-recon-files.md
         - name: Pliki uzgodnień na podstawie licencji
           href: license-based-recon-files.md
@@ -471,7 +471,7 @@
           href: csp-software-subscriptions.md
         - name: Online services subscriptions (Subskrypcje usług online)
           items:
-            - name: Sprzedawanie subskrypcji klientom
+            - name: Sprzedaż subskrypcji klientom
               href: customer-subscriptions.md
             - name: Korzystanie z promocji w celu przyciągnięcia nowych klientów
               href: promotions.md
@@ -517,7 +517,7 @@
           href: incentives-enroll.md
         - name: Sprawdzanie uprawnień do programu
           href: incentives-determined-your-program-eligibility.md
-        - name: Zrozumienie wypłat i profilów podatkowych
+        - name: Informacje o zachętach do wypłat i profilów podatkowych
           href: incentives-create-and-manage-your-payout-and-tax-profiles.md
         - name: Sprawdzanie kwalifikacji dochodów
           href: incentives-confirm-your-earnings-eligibility.md
@@ -607,7 +607,7 @@
       href: payout-policy-details.md
     - name: Zestawienia wypłat
       href: payout-statement.md
-    - name: Konfigurowanie konta do wypłaty i formularzy podatkowych
+    - name: Konfigurowanie profilów wypłat i profilów podatkowych na platformie handlowej
       href: set-up-your-payout-account.md
     - name: Szczegóły podatkowe dla wydawców na komercyjnej platformie handlowej
       href: tax-details-marketplace.md
@@ -623,7 +623,7 @@
       href: insights-overview.md
     - name: Szczegółowe informacje o członkostwie
       items:
-        - name: Przegląd szczegółowych informacji o członkostwie
+        - name: Omówienie szczegółowych informacji o członkostwie
           href: partner-center-insights.md
         - name: Dostęp oparty na rolach członkostwa
           href: insights-roles.md
@@ -665,7 +665,7 @@
           href: insights-known-issues.md
         - name: Pobieraj raporty
           href: insights-download-reports.md
-        - name: Raporty dotyczące członkostwa i definicje danych
+        - name: Raporty członkostwa i definicje danych
           href: insights-data-definitions.md
         - name: Wskaźniki udziałów partnerów
           items:
@@ -691,7 +691,7 @@
           href: analyze-indirect-resellers.md
         - name: Subskrypcje i licencje
           href: analyze-subscriptions-licenses.md
-    - name: Dostęp programowy do szczegółowych informacji
+    - name: Programowy dostęp do szczegółowych informacji
       items:
         - name: Rozpoczęcie pracy
           href: insights-programmatic-get-started.md
@@ -699,7 +699,7 @@
           href: insights-programmatic-prerequisites.md
         - name: Paradygmat dostępu programowego
           href: insights-programmatic-access-paradigm.md
-        - name: Pierwsze programowe wywołanie interfejsu API
+        - name: Pierwsze wywołanie programowego interfejsu API
           href: insights-programmatic-first-api-call.md
         - name: Lista zapytań systemowych
           href: insights-programmatic-system-queries.md
@@ -729,7 +729,7 @@
               href: insights-programmatic-analytics-api-update-report.md
             - name: Usuń raport
               href: insights-programmatic-analytics-api-delete-report.md
-            - name: Wstrzymywanie wykonań raportu
+            - name: Wstrzymywanie wykonywania raportów
               href: insights-programmatic-analytics-api-pause-report-executions.md
             - name: Wznawianie wykonywania raportów
               href: insights-programmatic-analytics-api-resume-report-executions.md
@@ -739,5 +739,5 @@
       href: support-from-microsoft.md
     - name: Zgłaszanie problemów z Centrum partnerskim
       href: report-problems-with-partner-center.md
-    - name: Uzyskiwanie powiadomień o automatycznych usługach
+    - name: Uzyskiwanie automatycznych powiadomień usługi
       href: get-automated-service-notifications-with-our-apis.md
