@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 90e074bc2b6d1485cdd868fdf66b4f509ca4d5a4
-ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
+ms.openlocfilehash: cc5cd9192f8712f94e70b9881903f8bb43581a70
+ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129090137"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129249598"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Wyświetlanie dostępnych środków zdobytych, roszczeń i pozostałych środków współpracy
 
@@ -70,7 +70,7 @@ Zarobki w współpracy dla bieżącego okresu zarobków nie są widoczne w widok
 3. Wybierz **pozycję Pobierz,** aby pobrać te dane.
 
 ### <a name="co-op-threshold"></a>Próg współpracy
-Jeśli zarobki partnerów w ramach współpracy są poniżej wartości progowej w okresie zarobków w ramach współpracy, nie będą kwalifikować się do używania środków i otrzymają zarobki w ramach współpracy jako zarobki na końcu studiów. Aby uzyskać wartość progową, zapoznaj się z przewodnikiem po programie. 
+Jeśli zarobki partnerów w ramach współpracy są poniżej wartości progowej w okresie zarobków w ramach współpracy, nie będą kwalifikować się do używania środków i otrzymają zarobki w ramach współpracy jako zarobki na końcu studiów. Zapoznaj się z [progiem współpracy dla](claims-threshold.md) wartości progowych opartych na programie. 
 
 Jeśli nadal masz problemy z uzgadnianiem kwot lub niektóre środki współpracy nie są widoczne, możesz otworzyć bilet pomocy technicznej. W tym celu wybierz ikonę znaku zapytania w prawym górnym rogu strony, a następnie wybierz **pozycję Zachęty.**
 

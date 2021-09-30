@@ -5,22 +5,21 @@ ms.service: marketplace-customer
 ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
-ms.date: 06/08/2021
-robots: noindex
-ms.openlocfilehash: a392859c1106c747e0e7c696927ef3b25262e411
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.date: 09/27/2021
+ms.openlocfilehash: 5d241997082f112663fafb1b1ccdb13adde29a71
+ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246718"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129249671"
 ---
 # <a name="private-plans-in-microsoft-appsource"></a>Plany prywatne w Microsoft AppSource
 
-Plany prywatne to sposób, w jaki wydawcy zapewniają plany niestandardowe określonym klientom. Ta opcja jest teraz dostępna w Microsoft AppSource. Plany prywatne można sprzedawać w usłudze AppSource dla ofert  oprogramowania jako usługi (SaaS) z wezwaniem do akcji Pobierz teraz.
+Plany prywatne to sposób, w jaki wydawcy zapewniają plany niestandardowe określonym klientom. Ta opcja jest teraz dostępna w Microsoft AppSource. Plany prywatne można sprzedawać w usłudze AppSource dla ofert  oprogramowania jako usługi (SaaS) za pomocą akcji Pobierz teraz.
 
-## <a name="ask-your-isv-for-a-private-plan"></a>Poproś własnego isv o plan prywatny
+## <a name="ask-your-isv-for-a-private-plan"></a>Poproś swojego isv isv o plan prywatny
 
-Aby prywatny plan był dostępny w usłudze AppSource, musisz skontaktować się bezpośrednio z isv i wynegocjować niestandardową cenę i specyfikację techniczną. Gdy warunki planu prywatnego zostaną zaakceptowane, isv isv create a plan for you and assign it to your organization's tenant ID, which you need to provide.
+Aby plan prywatny był dostępny w usłudze AppSource, musisz skontaktować się bezpośrednio z isV i wynegocjować niestandardową cenę i specyfikacje techniczne. Gdy warunki planu prywatnego zostaną zaakceptowane, isv isv create a plan for you and assign it to your organization's tenant ID, which you'll need to provide.
 
 ### <a name="finding-your-tenant-id"></a>Znajdowanie identyfikatora dzierżawy
 
@@ -31,23 +30,23 @@ Aby prywatny plan był dostępny w usłudze AppSource, musisz skontaktować się
 
 ## <a name="find-a-private-plan-in-appsource"></a>Znajdowanie planu prywatnego w usłudze AppSource
 
-Zanim nowy plan prywatny zostanie wyświetlony w usłudze AppSource, może upłynieć do 48 godzin od opublikowania przez isv isv nowego planu prywatnego. Aby znaleźć plany prywatne skojarzone z identyfikatorem dzierżawy, wybierz pozycję **Plany prywatne** (ikona blokady) w prawym górnym rogu usługi AppSource.
+Zanim nowy plan prywatny zostanie wyświetlony w usłudze AppSource, może upłynieć do 48 godzin od opublikowania nowego planu prywatnego przez isv isv. Aby znaleźć plany prywatne skojarzone z identyfikatorem dzierżawy, wybierz pozycję **Plany prywatne** (ikona blokady) w prawym górnym rogu usługi AppSource.
 
 :::image type="content" source="media/private-offers/lock-icon.png" alt-text="Wyświetla ikonę blokady (kłódkę) na górnym pasku narzędzi.":::
 
 Jeśli nie zalogowano się, zostanie wyświetlony monit o jej zalogowanie. Następnie możesz kupić plany prywatne skojarzone z identyfikatorem dzierżawy na **karcie Plany i cennik.**
 
-:::image type="content" source="media/private-offers/plan-pricing-tab.png" alt-text="Przedstawia oferty prywatne na karcie planu i cennika.":::
+:::image type="content" source="media/private-offers/plan-pricing-tab.png" alt-text="Przedstawia oferty prywatne na karcie plan i cennik.":::
 
 Jeśli plany prywatne nie są dostępne dla dzierżawy, zostanie wyświetlony komunikat informujący o tym, że nie masz żadnych planów ani ofert prywatnych.
 
 ## <a name="purchase-a-private-plan"></a>Kupowanie planu prywatnego
 
-IsV can include one or more private plans within an offer. Każda oferta może mieć zarówno plany publiczne, jak i prywatne, ale plany prywatne są wyświetlane na osobnej stronie oferty dostępnej za pośrednictwem ikony ofert prywatnych (kłódki) w prawym górnym rogu strony.
+IsV can include one or more private plans within an offer( IsV can include one or more private plans within an offer. Każda oferta może mieć zarówno plany publiczne, jak i prywatne, ale plany prywatne są wyświetlane na osobnej stronie oferty dostępnej za pomocą ikony oferty prywatnej (kłódki) w prawym górnym rogu strony.
 
-Dostępne plany prywatne są wyświetlane na **karcie Plany i cennik.** Plany prywatne mają niebieski wskaźnik.
+Dostępne plany prywatne są wyświetlane na **karcie Plany i cennik.** Plany prywatne mają niebieski znaczek.
 
-:::image type="content" source="media/private-offers/private-plans-badge.png" alt-text="Wyświetla wskaźnik niebieskiej oferty prywatnej obok ofert prywatnych.":::
+:::image type="content" source="media/private-offers/private-plans-badge.png" alt-text="Wyświetla niebieski wskaźnik oferty prywatnej obok ofert prywatnych.":::
 
 Aby kupić wybrany plan, wybierz pozycję **Pobierz teraz** i wykonaj podane kroki.
 

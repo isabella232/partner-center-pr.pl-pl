@@ -471,7 +471,7 @@
           href: csp-software-subscriptions.md
         - name: Online services subscriptions (Subskrypcje usług online)
           items:
-            - name: Sprzedaż subskrypcji klientom
+            - name: Sprzedawanie subskrypcji klientom
               href: customer-subscriptions.md
             - name: Korzystanie z promocji w celu przyciągnięcia nowych klientów
               href: promotions.md
@@ -523,6 +523,14 @@
           href: incentives-confirm-your-earnings-eligibility.md
         - name: Wyświetlanie programów i płatności
           href: understand-incentive-payouts.md
+    - name: Zaangażowanie mci
+      items:
+        - name: Omówienie zaangażowania mci i uprawnienia
+          href: mci-engagements.md
+        - name: Strona customers for MCI engagements (Strona klientów z angażowania klientów w angażowanie mci)
+          href: mci-engagements-customers.md
+        - name: Prześlij roszczenie z warsztatów mci engagements
+          href: mci-engagements-workshop.md
     - name: Plany i potwierdzenia wykonania
       items:
         - name: Zrozumienie planów i potwierdzeń wykonania
@@ -537,6 +545,10 @@
           href: claims-overview.md
         - name: Wyświetl dostępne środki przeznaczone na współpracę
           href: incentives-view-funds.md
+          displayName: incentives
+        - name: Próg zarobków dla współpracy
+          href: claims-threshold.md
+          displayName: incentives
         - name: Zarządzanie roszczeniami związanymi ze współpracą
           href: create-incentives-claims.md
         - name: Wyświetlanie wymagań podstawowych
@@ -597,7 +609,7 @@
       href: non-payment-fraud-misuse.md
     - name: Rozliczenia operatora komórkowego
       href: mobile-operator-billing.md
-    - name: Uzyskiwanie zapłaty za pośrednictwem ofert na platformie handlowej
+    - name: Uzyskiwanie zapłaty za pośrednictwem ofert w witrynie Marketplace
       href: marketplace-get-paid.md
     - name: 'Progi, metody i horyzonty czasowe płatności'
       href: payment-thresholds-methods-timeframes.md
@@ -731,7 +743,7 @@
               href: insights-programmatic-analytics-api-delete-report.md
             - name: Wstrzymywanie wykonywania raportów
               href: insights-programmatic-analytics-api-pause-report-executions.md
-            - name: Wznawianie wykonywania raportów
+            - name: Wznawianie wykonywania raportu
               href: insights-programmatic-analytics-api-resume-report-executions.md
 - name: Pomoc i obsługa techniczna
   items:

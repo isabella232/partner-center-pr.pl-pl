@@ -1,7 +1,7 @@
 ---
 title: Nowe promocje handlowe
 ms.topic: article
-ms.date: 09/28/2021
+ms.date: 09/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Dowiedz się więcej o nowych doświadczeniach handlowych dotyczących odkrywania i kupowania promocji.
@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 723e56fc73a83abfb8f2c65ca529bdecab832c9c
-ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
+ms.openlocfilehash: 45411827f200f205dc20b9a9c2d60519d4aba4eb
+ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 09/29/2021
-ms.locfileid: "129191412"
+ms.locfileid: "129249314"
 ---
 # <a name="introduction-new-commerce-promotions"></a>Wprowadzenie: Nowe promocje handlowe
 
@@ -56,7 +56,7 @@ Partnerzy mogą dzwonić do weryfikować uprawnienia i uzyskać wyniki z powrote
 Ważne tematy dotyczące nowych interfejsów API promocji handlowych:
 
 - [GetPromotions API](/partner-center/develop/get-promotions)
-- [GetPromotionsById API](/partner-centerpartner-center/develop/get-promotion-by-id)
+- [GetPromotionsById API](/partner-center/develop/get-promotion-by-id)
 - [VerifyPromtionEligibilities](/partner-center/develop/verify-promotion-eligibility)
 - [Zasoby promocji](/partner-center/develop/promotion-resources)
 
@@ -69,20 +69,25 @@ Istnieją trzy powody, dla których klient może nie kwalifikować się do promo
 
 Wiele promocji ma stanowisko, które może mieć maksymalnie 2400 stanowisk. W takich przypadkach transakcja, w tym ponad 2400, zostanie przesłana po cenach bez promocji. Te liczby stanowisk są również wymuszane podczas dodawania stanowisk do subskrypcji podyscytowania z tymi limitami. Partnerzy otrzymają komunikat o błędzie, jeśli spróbują zwiększyć subskrypcję z obsługą promocji poza limity. Limity liczby miejsc w ramach promocji są wymuszane między partnerami, więc jeśli jeden partner kupi podwyżkę o 2300 miejsc z limitem liczby miejsc w promocji, drugi partner, który kupi 200 stanowisk, otrzyma cenę subskrypcji po cenie bez podwyższenia. Poziom promocji jest wymuszany na poziomie sku produktu, w ramach transakcji partnera, dlatego partner może uzyskać ceny promocyjny dla 2400 miejsc Microsoft 365 E3, a także dla różnych typów Microsoft 365 E5. Partnerzy mogą wywołać interfejs [API subskrybowanych SKU,](/partner-center/develop/get-a-list-of-available-licenses) aby zobaczyć, ile licencji klient ma dla danej aprowizowanego interfejsu SKU.
 
+Jeśli partner chce mieć więcej licencji niż 2400 miejsc i chce podwyższyć cenę, partner może po prostu zakupić jedną subskrypcję do limitu 2400 po cenie promocji i drugą subskrypcję po cenie bez podwyżsienia.
+
 ### <a name="term"></a>Okres ###
 
-Ograniczenia terminów definiują, które warunki SKU produktu są dopasowane do danego promocji. Wiele promocji ma różne rabaty zdefiniowane w zależności od terminu. Jeśli partner przesyła transakcję, a termin nie jest dopasowany do promocji, oczekuje, że transakcja będzie po cenie bez podwyższenia. Przykładami terminów są *roczne lub* *miesięczne*.
+Ograniczenia terminów definiują, które warunki SKU produktu są dopasowane do danego promocji. Wiele promocji ma różne rabaty zdefiniowane w zależności od terminu. Jeśli partner przesłał transakcję i termin nie jest dopasowany do promocji, oczekuje, że transakcja będzie po cenie bez podwyższenia. Przykładami terminów są *roczne lub* *miesięczne*.
 
 ### <a name="first-purchase"></a>Pierwszy zakup ###
 
-Niektóre promocje wymuszają nabywanie tylko raz. Partner zobaczy uprawnienie fałsz przy użyciu interfejsu API weryfikacji uprawnień z typem błędu *FirstPurchase*.  Partner może nadal zakupić podaną sku produktu, ale subskrypcja będzie w cenie bez podwyżsienia ceny. To ograniczenie dotyczy 1 klienta, a nie partnera. Gdy klient ma podyscytować tę regułę, nie może uzyskać drugiego wystąpienia promocji zastosowanego przez drugiego partnera.
+Niektóre promocje wymuszają nabywanie tylko raz. Partner zobaczy uprawnienie fałsz przy użyciu interfejsu API weryfikacji uprawnień z typem błędu *FirstPurchase*.  Partner może nadal zakupić podaną sku produktu, ale subskrypcja będzie w cenie bez podwyżsienia ceny. To ograniczenie dotyczy klienta, a nie partnera. Gdy klient ma podyscytować tę regułę, nie może uzyskać drugiego wystąpienia promocji zastosowanego przez drugiego partnera.
 
 ## <a name="promotions-and-renewals"></a>Promocje i odnowienia ##
 
 Rabaty promocyjny po zastosowaniu są stosowane na okres zakupu. Subskrypcje z zastosowanymi promocjami zachowają cenę promocyjnyą, jeśli data odnowienia znajduje się w zakresie dat trwania promocji. Odnowienia poza zakresem dat trwania promocji zostaną odnowione na cenę bez podwyżsenia ceny (z cennika). Partnerzy mogą śledzić stan odnowienia do punktów cenowych na stronie szczegółów subskrypcji i w instrukcjach odnawiania danych subskrypcji getSubscription.
 
 ## <a name="promotions-and-upgrades"></a>Promocje i uaktualnienia ##
-Partnerzy, którzy uaktualnią subskrypcję do innej wersji SKU, pozostawią cenę za podwyżsenie ceny. Ta akcja występuje, ponieważ podwyżsenie zostało skonfigurowane dla opuszczonej przez siebie wersji SKU podczas uaktualniania do innej wersji SKU. Partnerzy, którzy przejdą do wersji SKU, która może podwyższyć swój koszt, nie otrzymają automatycznie ceny promocji. Jeśli potrzebują lub chcą uzyskać cenę za podwyżkę dla tej, do której chcą przejść, muszą ręcznie zakupić nową subskrypcję jako nową subskrypcję. Obecnie promocje są stosowane tylko w przypadku nowych zakupów i odnowień subskrypcji.
+Partnerzy, którzy uaktualnią subskrypcję do innej wersji SKU, pozostawią cenę za podwyżsenie. Ta akcja występuje, ponieważ podwyżsenie zostało skonfigurowane dla opuszczonej przez siebie wersji SKU podczas uaktualniania do innej wersji SKU. Partnerzy, którzy przejdą do wersji SKU, która może podwyższyć swój koszt, nie otrzymają automatycznie ceny promocji. Jeśli potrzebują lub chcą uzyskać cenę za podwyżkę dla tej, do której chcą przejść, muszą ręcznie zakupić nową subskrypcję jako nową subskrypcję. Obecnie promocje są stosowane tylko w przypadku nowych zakupów i odnowień subskrypcji.
 
 ## <a name="promotions-and-migrations"></a>Promocje i migracje ##
-Partnerzy mogą migrować subskrypcje swoich klientów z tradycyjnych subskrypcji Microsoft 365/Dynamics 365 do nowych wersji handlowych swoich subskrypcji. Migracje są dostępne zarówno z interfejsu Partner Center, jak i z wywoływania interfejsów API migracji. Partnerzy, którzy przeprowadzają migrację z tradycyjnej subskrypcji do nowego handlu, otrzymają promocję, jeśli migrują, o ile ich wersja SKU produktu jest dostosowana do definicji promocji. Partnerzy powinni wywołać interfejs API weryfikacji uprawnień, aby upewnić się, że docelowa cena sku produktu zostanie wywołana przed migracją.
+Partnerzy mogą migrować subskrypcje swoich klientów z tradycyjnych subskrypcji Microsoft 365/Dynamics 365 do nowych wersji handlowych swoich subskrypcji. Migracje są dostępne zarówno z interfejsu użytkownika Partner Center, jak i z wywoływania interfejsów API migracji. Partnerzy, którzy przeprowadzają migrację z tradycyjnej subskrypcji do nowego handlu, otrzymają promocję, jeśli migrują, o ile ich wersja SKU produktu jest dostosowana do definicji promocji. Partnerzy powinni wywołać interfejs API weryfikacji uprawnień, aby upewnić się, że docelowa cena sku produktu zostanie wywołana przed migracją.
+
+## <a name="cross-channel-considerations"></a>Zagadnienia dotyczące komunikacji między kanałami ##
+Dostawca rozwiązań w chmurze (CSP) limity i ograniczenia dotyczące podwojenia nie są wymuszane między kanałami, takimi jak umowa Enterprise Agreement (EA). Partner programu CSP może uzyskać promocję z ograniczeniem 2400 promocji, nawet jeśli klient może mieć 3000 stanowisk w ramach programu EA.  

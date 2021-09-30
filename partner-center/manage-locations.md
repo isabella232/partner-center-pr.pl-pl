@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
-description: Dowiedz się, jak dodać nową lokalizację i jak identyfikator MPN lokalizacji jest używany w programach zachęt, firmach CSP, subskrypcjach i innych transakcjach.
+description: Dowiedz się, jak dodać nową lokalizację i jak identyfikator MPN lokalizacji jest używany w programach zachęt, firmie CSP, subskrypcjach i innych transakcjach.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b994d4dc483e030586ea615b5835afbc7555cabe
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 853d06204b3d91f1e311c8af09163b5640b0cd03
+ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075860"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129249258"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Zarządzanie lokalizacjami konta MPN i dodawanie (usuwanie) lokalizacji
 
@@ -24,7 +24,7 @@ Identyfikator MPN lokalizacji identyfikuje każdą określoną lokalizację firm
 
 ## <a name="the-following-scenario-is-typical"></a>Typowy jest następujący scenariusz:
 
-Firma Contoso ma swoje globalne konto partnera (PGA) w Zjednoczonym Królestwie. PgA to zarejestrowana firma prawna, a jej globalny identyfikator MPN jest używany do zarządzania całą działalnością nie transakcyjną. Firma Contoso ma również konta lokalizacji partnera (PLA) równoważne przedstawicielsjom lub oddziałom w innej lokalizacji w Zjednoczonym Królestwie, Francji i Stanach Zjednoczonych. W strukturze konta MPN te plasy są reprezentowane jako unikatowe identyfikatory MPN lokalizacji. Plas są używane dla transakcji biznesowych, takich jak CSP lub programy zachęt. Wypłaty są powiązane z określonymi lokalizacjami.
+Firma Contoso ma swoje konto globalne partnera (PGA) w Wielkiej Brytanii. PgA to zarejestrowana firma prawna, a jej globalny identyfikator MPN jest używany do zarządzania całą działalnością nie transakcyjną. Firma Contoso ma również konta lokalizacji partnera (PLA) równoważne podmiotom zależnym lub oddziałom w innej lokalizacji w Zjednoczonym Królestwie, Francji i Stanach Zjednoczonych. W strukturze konta MPN te konta PLA są reprezentowane jako unikatowe identyfikatory MPN lokalizacji. Firmy PLA są używane na potrzeby działalności transakcyjnej, takiej jak program CSP lub zachęty. Wypłaty są powiązane z określonymi lokalizacjami.
 
 > [!NOTE]
 > Istnieje relacja jeden do jednego między dzierżawą CSP i identyfikatorem lokalizacji MPN.
@@ -33,7 +33,7 @@ Firma Contoso ma swoje globalne konto partnera (PGA) w Zjednoczonym Królestwie.
 
 ## <a name="prerequisites-in-order-to-add-a-new-account-for-a-csp-business"></a>Wymagania wstępne dotyczące dodawania nowego konta dla dostawcy usług kryptograficznych
 
-Aby dodać nowe konto biznesowe programu CSP, rozpocznij od upewniania się, że spełniliśmy wymagania wstępne.
+Aby dodać nowe konto biznesowe programu CSP, rozpocznij od upewniania się, że zostały spełnione wymagania wstępne.
 
 1. Musisz mieć identyfikator MPN lokalizacji w kraju, w którym chcesz wykonać działalność w programie CSP. Aby utworzyć nową lokalizację MPN, przeczytaj "Dodaj lokalizację MPN" poniżej.
   
@@ -48,57 +48,56 @@ Aby dodać nowe konto biznesowe programu CSP, rozpocznij od upewniania się, że
 
 ## <a name="view-and-update-your-mpn-locations"></a>Wyświetlanie i aktualizowanie lokalizacji MPN
 
-1. Zaloguj się do [pulpitu Partner Center przy](https://partner.microsoft.com/dashboard) użyciu poświadczeń konta MPN. (Poświadczenia MPN mogą różnić się od poświadczeń CSP).
+1. Zaloguj się do pulpitu [Partner Center nawigacyjnego](https://partner.microsoft.com/dashboard) przy użyciu poświadczeń konta MPN. (Poświadczenia MPN mogą różnić się od poświadczeń CSP).
 
-2. Wybierz ikonę Ustawienia koła zębatego, a następnie wybierz pozycję **Konto Ustawienia**, a następnie pozycję **Prawne.**
+2. Wybierz ikonę Ustawienia koła zębatego, a następnie wybierz pozycję Konto **Ustawienia**, a następnie pozycję **Prawne.**
 
-3. Na karcie **Partner** sprawdź, czy nie ma komunikatu o błędzie baneru z prośbą o naprawienie zmigrowanych lokalizacji z centrum PMC.  Jeśli lokalizacje nie zostały poprawnie skonfigurowane w programie PMC i nie zostały jeszcze przejść na komputer, należy zaktualizować te lokalizacje.
-
-:::image type="content" source="images/locations/location-two.png" alt-text="Zrzut ekranu przedstawia sposób aktualizowania lokalizacji.":::
+3. Na karcie **Partner** sprawdź, czy nie ma komunikatu o błędzie baneru z prośbą o naprawienie lokalizacji zmigrowanych z centrum PMC.  Jeśli lokalizacje nie zostały poprawnie skonfigurowane w centrum PMC i nie zostały jeszcze przejść na komputer, należy zaktualizować te lokalizacje.
 
 4. Na **ekranie Review PMC locations (Przejrzyj lokalizacje PMC)** wybierz pozycję **Update (Aktualizuj).**
+
 Zaktualizuj następujące pola:
 
-- **Pole Nazwa:** upewnij się, że nazwa lokalizacji firmy jest poprawna. Jeśli zostanie wyświetlony zduplikowany błąd, spróbuj zmienić na przykład contoso na Contoso, Inc.
+- **Pole Nazwa:** upewnij się, że nazwa lokalizacji firmy jest poprawna. Jeśli zostanie wyświetlony zduplikowany błąd, spróbuj zmienić adres, na przykład Contoso na Contoso, Inc.
 
-- **Pole Jednostka prawna:** upewnij się, że wybrano jednostkę prawna, z którym jest powiązana lokalizacja
+- **Pole Jednostka prawna:** upewnij się, że została wybrana jednostka prawna, z którym jest powiązana lokalizacja
 
 - **Wiersz adresu 1 & 2 pola:** upewnij się, że adres jest poprawny
 
-- **Miasto & pola Stan/Prowincja:** upewnij się, że kombinacja miasta i województwa jest poprawna. Istnieją kraje, w których będzie stosowane menu rozwijane służące do wybierania województwa, a w innych krajach należy ręcznie wstawić pole.
+- **Miasto & pola stan/województwo:** upewnij się, że kombinacja miasta i województwa jest poprawna. Istnieją kraje, w których będzie stosowane menu rozwijane służące do wybierania województwa, a w innych krajach to pole będzie musiało zostać wstawione ręcznie.
 
 - **Zip/Postal code field (Kod** pocztowy): upewnij się, że pole Kod pocztowy jest zgodne ze wskazanym polem Country (Kraj), Region (Region), City (Miasto) lub Address (Adres).
 
-- **Pola** podstawowych informacji kontaktowych: upewnij się, że wypełnione są pola imienia i nazwiska oraz że wskazany adres e-mail jest służbowym adresem e-mail, a nie osobistym (na przykład @outlook.com @live.com , itp.)
+- **Pola podstawowych** informacji kontaktowych: upewnij się, że pola imienia i nazwiska zostały wypełnione, a wskazany adres e-mail jest służbowym adresem e-mail, a nie osobistym (na przykład @outlook.com , @live.com itp.)
 
-- **Telefon numer:** upewnij się, że Telefon nie zawiera znaków specjalnych, spacji ani kodu kraju. Wartość wprowadzona w polu Telefon Number zawsze będzie zawierać maksymalnie 10 znaków.
+- **Telefon numer:** upewnij się, że Telefon nie zawiera znaków specjalnych, spacji ani kodu kraju. Wartość wprowadzona w polu Telefon Number będzie zawsze zawierać maksymalnie 10 znaków.
 
-5. Jeśli nie ma komunikatu o błędzie, z Ustawienia **wybierz** pozycję Konto **Ustawienia,** **Profil organizacji,** **Identyfikatory**.
+5. Jeśli nie ma komunikatu o błędzie, z usługi **Ustawienia** wybierz pozycję **Konto** Ustawienia, **Profil organizacji,** **Identyfikatory**.
 
 6. Znajdź identyfikator MPN z typem "Location" (Lokalizacja), który pasuje do kraju tego konta CSP, i użyj go do ukończenia skojarzenia.
 
-7. Jeśli nie możesz znaleźć identyfikatora MPN lokalizacji, który odpowiada kontu CSP, którego chcesz użyć, możesz dodać nową lokalizację, co spowoduje utworzenie nowego identyfikatora MPN. Zobacz **Dodawanie lokalizacji MPN** poniżej.
+7. Jeśli nie możesz znaleźć identyfikatora MPN lokalizacji, który pasuje do konta CSP, którego chcesz użyć, możesz dodać nową lokalizację, co spowoduje utworzenie nowego identyfikatora MPN. Zobacz **Dodawanie lokalizacji MPN** poniżej.
 
 ## <a name="add-an-mpn-location"></a>Dodawanie lokalizacji MPN
 
 1. Zaloguj się przy użyciu konta MPN w Partner Center. (Poświadczenia MPN mogą różnić się od poświadczeń CSP). Konto MPN powinno mieć uprawnienia administratora globalnego lub administratora konta.
 
-2. Wybierz ikonę Ustawienia koła zębatego, a następnie pozycję **Konto Ustawienia**, a następnie wybierz pozycję **Profil organizacji.**
+2. Wybierz ikonę Ustawienia koła zębatego, pozycję **Konto Ustawienia**, a następnie wybierz pozycję **Profil organizacji.**
 
 3. Wybierz **pozycję Prawne,** a następnie na **karcie Partner** wybierz pozycję **Lokalizacje biznesowe i** wybierz pozycję Dodaj **lokalizację.**
 
 4. Podaj wymagane szczegóły, w tym nazwę firmy, adres i kontakt dla lokalizacji, którą chcesz dodać do firmy.
 
-5. Wybierz **pozycję Dodaj lokalizację**. Spowoduje to utworzenie nowego identyfikatora MPN dla nowej lokalizacji, za pomocą których można korzystać z transakcji i zachęt CSP.
+5. Wybierz **pozycję Dodaj lokalizację**. Spowoduje to utworzenie nowego identyfikatora MPN dla nowej lokalizacji, który będzie można wykorzystać w przypadku transakcji i zachęt CSP.
 
 :::image type="content" source="images/legal-biz.png" alt-text="Dodaj nową firmę z branży prawnej.":::
 
 > [!NOTE]
-> Po dodaniu lokalizacji w Partner Center nie można jej usunąć. Jeśli do logowania używasz poprawnego identyfikatora **MPN,** w menu po lewej Partner Center po lewej stronie zostanie wyświetlony identyfikator MPN.
+> Po dodaniu lokalizacji w Partner Center nie można jej usunąć. Jeśli podczas logowania używasz poprawnego identyfikatora **MPN,** w menu po lewej stronie Partner Center po lewej stronie.
 
 ## <a name="add-the-registration-number-id"></a>Dodawanie identyfikatora numeru rejestracji
 
-Jeśli jesteś dostawcą pośrednim, partnerem rozliczania bezpośredniego lub odsprzedawcą pośrednim i współpracujesz z nowymi lub istniejącymi klientami w następujących krajach, musisz podać numery identyfikatorów rejestracji dla swojej firmy. Jeśli kraj, w którym prowadzenia działalności biznesowej, nie jest wymieniony poniżej, identyfikator rejestracji jest opcjonalny.
+Jeśli jesteś dostawcą pośrednim, partnerem z rozliczeniami bezpośrednimi lub odsprzedawcą pośrednim i współpracujesz z nowymi lub istniejącymi klientami w następujących krajach, musisz podać numery identyfikatorów rejestracji dla swojej firmy. Jeśli kraj, w którym prowadzenia działalność biznesową, nie jest wymieniony poniżej, identyfikator rejestracji jest opcjonalny.
 
 - Armenia
 - Azerbejdżan
@@ -129,7 +128,7 @@ Aby uzyskać więcej informacji, przeczytaj [informacje o numerze identyfikatora
 
 ## <a name="delete-a-location"></a>Usuwanie lokalizacji
 
-Aby usunąć lokalizację z konta, należy skontaktować się z pomocą [techniczną partnera](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Pamiętaj jednak, że takie działanie będzie miało określone skutki. Nie można pobrać usuniętych lokalizacji i wszystkie elementy powiązane z tym konkretnym identyfikatorem MPN nie będą już rozpoznawane ani aktywne dla Twojej firmy.
+Aby usunąć lokalizację z konta, musisz skontaktować się z pomocą [techniczną partnera](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b). Pamiętaj jednak, że takie działanie będzie miało określone skutki. Nie można pobrać usuniętych lokalizacji i wszystkie elementy powiązane z tym konkretnym identyfikatorem MPN nie będą już rozpoznawane ani aktywne dla Twojej firmy.
 
 ## <a name="change-country-of-partner-global-account"></a>Zmiana kraju konta globalnego partnera
 
@@ -137,7 +136,7 @@ Aby usunąć lokalizację z konta, należy skontaktować się z pomocą [technic
 
 2. Wybierz ikonę Ustawienia koła zębatego, a następnie **pozycję Konto Ustawienia**. Na karcie **Partner** przejdź  do pozycji Lokalizacje biznesowe i sprawdź listę lokalizacji, aby upewnić się, że na liście znajduje się lokalizacja, której chcesz użyć jako jednostki prawnej.
 
-3. Aby dodać lokalizację, kliknij pozycję Dodaj lokalizację **i** na wysuwanych polach podaj wymagane szczegóły, takie jak nazwa firmy, adres i podstawowy kontakt dla lokalizacji, którą chcesz dodać do firmy.
+3. Aby dodać lokalizację, kliknij pozycję Dodaj lokalizację i w wysuwanych menu podaj wymagane szczegóły, takie jak nazwa firmy, adres i podstawowy kontakt dla lokalizacji, którą chcesz dodać do firmy. 
 
 4. Wybierz **pozycję Zmień kraj** obok listy rozwijanej **Kraj/region** i wykonaj kroki.
 
