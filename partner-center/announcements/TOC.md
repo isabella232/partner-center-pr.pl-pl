@@ -1,4 +1,5 @@
 # [Ogłoszenia Centrum partnerskiego](index.md)
+# [Październik 2021 r.](2021-october.md)
 # [Wrzesień 2021](2021-september.md)
 # [Sierpień 2021 r.](2021-august.md)
 # [Lipiec 2021 r.](2021-july.md)
