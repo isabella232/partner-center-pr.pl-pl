@@ -4,30 +4,30 @@ ms.topic: how-to
 ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Dowiedz się, jak sprzedawać klientom subskrypcje produktów publikowanych przez firmę Microsoft oraz produktów SaaS publikowanych przez zewnętrznych isvs.
+description: Dowiedz się, jak sprzedawać klientom subskrypcje produktów publikowanych przez firmę Microsoft oraz produktów SaaS publikowanych przez zewnętrznych isvów.
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 680845d173ad69c46dc78c767fb53476750ad24f
-ms.sourcegitcommit: 8eaef380caa66ae3c8e2674535e06c3676fa35f2
+ms.openlocfilehash: 1a2e13bf45b10bebe6ab0492ac059dc1d6a6c0ca
+ms.sourcegitcommit: 462d6026287b85c9feea602af5bcdf924f3e6976
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/04/2021
-ms.locfileid: "129415556"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129452417"
 ---
 # <a name="manage-customer-subscriptions"></a>Zarządzanie subskrypcjami klientów
 
-**Dotyczy:** Partner Center | Partner Center dla Microsoft Cloud for US Government
+**Dotyczy:** Partner Center | Partner Center for Microsoft Cloud for US Government
 
-**Odpowiednie role:** Agent administracyjny | Administrator rozliczeń | Administrator globalny | Agent pomocy technicznej | Agent sprzedaży
+**Odpowiednie role:** Administrator | Administrator rozliczeń | Administrator globalny | Agent pomocy technicznej | Agent sprzedaży
 
 Po utworzeniu rekordu klienta w katalogu Partner Center można sprzedawać im subskrypcje produktów w katalogu. Dotyczy to produktów publikowanych przez firmę Microsoft oraz produktów SaaS (Software as a Service) publikowanych przez niezależnych dostawców oprogramowania (ISV) innych firm na [platformie handlowej.](https://azuremarketplace.microsoft.com/marketplace)
 
 Niektóre oferty są ograniczone do jednej subskrypcji na klienta. Aby wyświetlić listę ofert ograniczonych, odwiedź stronę Partner Center Cennik i oferty.
 
 > [!IMPORTANT]
-> Jako partner w programie CSP  możesz kupować oparte na licencjach lub mierzone subskrypcje **SaaS** od wydawców ISV w Partner Center. Oznacza to, że  możesz kupić dowolną ofertę **SaaS** opartą na licencjach lub taryfowej, która została ci udostępnione przez wydawcę ISV, w tym oferty wyłączne, do których masz dostęp. [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) Aby kupić lub zarządzać innymi, komercyjnymi ofertami platformy handlowej od isvs (takimi jak oferty oparte na użyciu obejmujące aplikacje platformy Azure, kontenery lub maszyny wirtualne), musisz przejść do witryny [Azure Portal.](https://portal.azure.com/)
+> Jako partner w programie CSP  możesz kupić oparte na licencjach lub mierzone subskrypcje **SaaS** od wydawców ISV w Partner Center. Oznacza to, że  możesz kupić dowolną opartą na licencjach lub mierzoną [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) ofertę **SaaS,** która została Ci udostępnione przez wydawcę ISV, w tym oferty wyłączne, do których masz dostęp. Aby zakupić inne, komercyjne oferty platformy handlowej od isvs (np. ofert opartych na użyciu obejmujących aplikacje platformy Azure, kontenery lub maszyny wirtualne) lub zarządzać nimi, musisz przejść do witryny [Azure Portal](https://portal.azure.com/).
 
 > [!NOTE]
 > Wszystkie daty i godziny w Partner Center są podane w standardzie czasu uniwersalnego (UTC). Może się to różnić nawet o 24 godziny od czasu lokalnego.
@@ -39,19 +39,19 @@ Niektóre oferty są ograniczone do jednej subskrypcji na klienta. Aby wyświetl
 
 #### <a name="workspaces-view"></a>[Widok obszarów roboczych](#tab/workspaces-view)
 
-1. Na Partner Center [nawigacyjnym wybierz](https://partner.microsoft.com/dashboard)kafelek **Klienci,** a następnie wybierz klienta z listy Klienci.
+1. Na Partner Center [nawigacyjnym](https://partner.microsoft.com/dashboard)wybierz kafelek **Klienci,** a następnie wybierz klienta z listy Klienci.
 
 2. Wybierz **pozycję Dodaj subskrypcję.** Na **karcie Usługi online** będą wyświetlane wszystkie dostępne oferty SaaS w witrynie Marketplace.
 
 3. Aby wyświetlić tylko niektóre typy subskrypcji, należy dokonać wyboru w dostępnych filtrach:
-   - **Publisher:** wybierz pozycję **Firma Microsoft,** aby wyświetlić  tylko oferty firmy Microsoft lub partnera, aby wyświetlić produkty platformy handlowej opublikowane przez isvs.
-   - **Typ rozliczeń:** wybierz typ rozliczeń subskrypcji, których chcesz użyć: **Licencja** lub **Użycie.** Zobacz [Rozliczenia oparte na licencjach,](license-based-billing.md) aby uzyskać informacje, które pomogą Ci zdecydować między miesięczną i roczną częstotliwością rozliczeń.
-   - **Kategoria:** wybierz **Enterprise,** **Małe firmy** lub Wersja **próbna.** Aby uzyskać informacje na temat subskrypcji w wersji próbnej, zobacz Offer your customers trial of Microsoft products (Oferować [klientom wersje próbne produktów firmy Microsoft).](offer-your-customers-trials-of-microsoft-products.md)
+   - **Publisher:** wybierz pozycję **Microsoft,** aby wyświetlić tylko  oferty firmy Microsoft lub partnera, aby wyświetlić produkty platformy handlowej opublikowane przez isvs.
+   - **Typ rozliczeń:** wybierz typ rozliczeń subskrypcji, których chcesz użyć: **Licencja** lub **Użycie.** Zobacz [Rozliczenia oparte na licencjach,](license-based-billing.md) aby uzyskać informacje, które pomogą Ci wybrać miesięczną i roczną częstotliwość rozliczeń.
+   - **Kategoria:** wybierz **Enterprise,** **Małe firmy** lub Wersja **próbna.** Aby uzyskać informacje o subskrypcjach wersji próbnej, zobacz [Temat Oferty dla klientów wersji próbnych produktów firmy Microsoft.](offer-your-customers-trials-of-microsoft-products.md)
 
-4. Wybierz subskrypcje produktów, które chcesz kupić dla klienta. Dostępne produkty zależą od typu segmentu klientów (edukacja, administracja rządowa itp.) i zastosowanych filtrów. Niektóre oferty wyświetlane w witrynie Marketplace nie zawsze mogą być dostępne dla określonego klienta lub określonego partnera CSP. Może to być spowodowane:
-   - Klient ma już subskrypcję tego produktu i jest dozwolony tylko jeden
-   - Subskrypcja klienta może zostać wstrzymana (w tym przypadku możesz ją ponownie uaktywnić, zamiast kupować nową).
-   - W przypadku ofert SaaS dla isv może być kilka powodów, dla których oferta nie jest dostępna do zakupu: isv may not support the customer's billing country or region; IsV may have chosen not to make the offer available through the CSP program; lub, isV may have made the offer exclusive to only certain CSP partners.or, the ISV may have made the [offer exclusive to](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) only certain CSP partners. Oferta isV może również nie być można transakcyjnie za pośrednictwem Partner Center (na przykład kontenerów lub niektórych ofert opartych na użyciu).  
+4. Wybierz subskrypcje produktów, które chcesz kupić dla klienta. Produkty, które widzisz, zależą od typu segmentu klientów (edukacja, administracja rządowa itp.) i zastosowanych filtrów. Niektóre oferty wyświetlane w witrynie Marketplace mogą nie być zawsze dostępne dla określonego klienta lub określonego partnera CSP. Może to być spowodowane:
+   - Klient ma już subskrypcję tego produktu i ma tylko jedną z nich
+   - Subskrypcja klienta może zostać wstrzymana (w tym przypadku możesz ponownie aktywować subskrypcję zamiast kupować nową).
+   - W przypadku ofert SaaS dla isv może być kilka powodów, dla których oferta nie jest dostępna do zakupu: isv may not support the customer's billing country or region; IsV may have chosen not make the offer available through the CSP program; lub, isv may have made the offer [exclusive to only](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) certain CSP partners. Oferta isv (isv) może być również nie do transakcji za pośrednictwem Partner Center (na przykład kontenerów lub niektórych ofert opartych na użyciu).  
 
 5. Dla każdej subskrypcji, którą chcesz dodać, wprowadź liczbę licencji (w razie potrzeby) i wybierz **pozycję Dodaj do koszyka.**
 
@@ -61,31 +61,31 @@ Niektóre oferty są ograniczone do jednej subskrypcji na klienta. Aby wyświetl
 
 8. Po zakupie subskrypcji dla klienta wystąpią następujące zdarzenia:
 
-    - Możesz przejrzeć lub edytować subskrypcję, wybierając nazwę subskrypcji na stronie **Subskrypcje tego** klienta. W tym miejscu możesz wybrać licencje dodatków, jeśli są dostępne, zmienić liczbę licencji lub wstrzymać subskrypcję.
+    - Możesz przejrzeć lub edytować subskrypcję, wybierając nazwę subskrypcji na stronie **Subskrypcje tego** klienta. W tym miejscu możesz wybrać licencje dodatku, jeśli są dostępne, zmienić liczbę licencji lub wstrzymać subskrypcję.
 
-    **W przypadku subskrypcji isv SaaS (opartych na licencjach i mierzonych):**
-    - Otrzymasz link do witryny wydawcy ISV. Ten link powinien ułatwić ukończenie wdrażania lub konfigurowania konta subskrypcji klienta.
+    **W przypadku subskrypcji SAAS isv (opartych na licencjach i mierzonych):**
+    - Otrzymasz link do witryny wydawcy isv. Ten link powinien ułatwić ukończenie wdrażania lub konfigurowania konta subskrypcji klienta.
 
     > [!NOTE]
-    > Ani Ty, ani Klient nie otrzymacie wiadomości e-mail z instrukcjami dotyczącymi ukończenia procesu skonfigurowania/aprowizowania konta dla tego typu subskrypcji isV).
+    > Ani Ty, ani Klient nie otrzymacie wiadomości e-mail z instrukcjami dotyczącymi ukończenia procesu skonfigurowania/aprowizowania konta dla tego typu subskrypcji isv).
 
     - Jeśli Twoja subskrypcja zawiera 30-dniową bezpłatną wersję próbną, bezpłatny okres próbny zostanie zastosowany automatycznie. Jako partner w programie CSP nie możesz zrezygnować z okresu bezpłatnej wersji próbnej ofert zakupu dla klientów. Po zakończeniu okresu bezpłatnej wersji próbnej okres subskrypcji rozpocznie się, a subskrypcja zostanie przekształcona w stan płatny. Subskrypcja zostanie następnie automatycznie odnowiona zgodnie z tym samym harmonogramem.
 
 #### <a name="current-view"></a>[Bieżący widok](#tab/current-view)
 
-1. Na Partner Center [nawigacyjnym wybierz](https://partner.microsoft.com/dashboard)pozycję **Klienci,** a następnie wybierz klienta z listy Klienci.
+1. Na Partner Center [nawigacyjnym](https://partner.microsoft.com/dashboard)wybierz pozycję **Klienci,** a następnie wybierz klienta z listy Klienci.
 
 2. Wybierz **pozycję Dodaj subskrypcję.** Na **karcie Usługi online** będą wyświetlane wszystkie dostępne oferty SaaS w witrynie Marketplace.
 
 3. Aby wyświetlić tylko niektóre typy subskrypcji, należy dokonać wyboru w dostępnych filtrach:
-   - **Publisher:** wybierz pozycję **Firma Microsoft,** aby wyświetlić  tylko oferty firmy Microsoft lub partnera, aby wyświetlić produkty platformy handlowej opublikowane przez isvs.
-   - **Typ rozliczeń:** wybierz typ rozliczeń subskrypcji, których chcesz użyć: **Licencja** lub **Użycie.** Zobacz [Rozliczenia oparte na licencjach,](license-based-billing.md) aby uzyskać informacje, które pomogą Ci zdecydować między miesięczną i roczną częstotliwością rozliczeń.
-   - **Kategoria:** wybierz **Enterprise,** **Małe firmy** lub Wersja **próbna.** Aby uzyskać informacje na temat subskrypcji w wersji próbnej, zobacz Offer your customers trial of Microsoft products (Oferować [klientom wersje próbne produktów firmy Microsoft).](offer-your-customers-trials-of-microsoft-products.md)
+   - **Publisher:** wybierz pozycję **Microsoft,** aby wyświetlić tylko  oferty firmy Microsoft lub partnera, aby wyświetlić produkty platformy handlowej opublikowane przez isvs.
+   - **Typ rozliczeń:** wybierz typ rozliczeń subskrypcji, których chcesz użyć: **Licencja** lub **Użycie.** Zobacz [Rozliczenia oparte na licencjach,](license-based-billing.md) aby uzyskać informacje, które pomogą Ci wybrać miesięczną i roczną częstotliwość rozliczeń.
+   - **Kategoria:** wybierz **Enterprise,** **Małe firmy** lub Wersja **próbna.** Aby uzyskać informacje o subskrypcjach wersji próbnej, zobacz [Temat Oferty dla klientów wersji próbnych produktów firmy Microsoft.](offer-your-customers-trials-of-microsoft-products.md)
 
-4. Wybierz subskrypcje produktów, które chcesz kupić dla klienta. Dostępne produkty zależą od typu segmentu klientów (edukacja, administracja rządowa itp.) i zastosowanych filtrów. Niektóre oferty wyświetlane w witrynie Marketplace nie zawsze mogą być dostępne dla określonego klienta lub określonego partnera CSP. Może to być spowodowane:
-   - Klient ma już subskrypcję tego produktu i jest dozwolony tylko jeden
-   - Subskrypcja klienta może zostać wstrzymana (w tym przypadku możesz ją ponownie uaktywnić, zamiast kupować nową).
-   - W przypadku ofert SaaS dla isv może być kilka powodów, dla których oferta nie jest dostępna do zakupu: isv may not support the customer's billing country or region; IsV may have chosen not to make the offer available through the CSP program; lub, isV may have made the offer exclusive to only certain CSP partners.or, the ISV may have made the [offer exclusive to](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) only certain CSP partners. Oferta isV może również nie być można transakcyjnie za pośrednictwem Partner Center (na przykład kontenerów lub niektórych ofert opartych na użyciu).  
+4. Wybierz subskrypcje produktów, które chcesz kupić dla klienta. Produkty, które widzisz, zależą od typu segmentu klientów (edukacja, administracja rządowa itp.) i zastosowanych filtrów. Niektóre oferty wyświetlane w witrynie Marketplace mogą nie być zawsze dostępne dla określonego klienta lub określonego partnera CSP. Może to być spowodowane:
+   - Klient ma już subskrypcję tego produktu i ma tylko jedną z nich
+   - Subskrypcja klienta może zostać wstrzymana (w tym przypadku możesz ponownie aktywować subskrypcję zamiast kupować nową).
+   - W przypadku ofert SaaS dla isv może być kilka powodów, dla których oferta nie jest dostępna do zakupu: isv may not support the customer's billing country or region; IsV may have chosen not make the offer available through the CSP program; lub, isv may have made the offer [exclusive to only](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) certain CSP partners. Oferta isv (isv) może być również nie do transakcji za pośrednictwem Partner Center (na przykład kontenerów lub niektórych ofert opartych na użyciu).  
 
 5. Dla każdej subskrypcji, którą chcesz dodać, wprowadź liczbę licencji (w razie potrzeby) i wybierz **pozycję Dodaj do koszyka.**
 
@@ -95,13 +95,13 @@ Niektóre oferty są ograniczone do jednej subskrypcji na klienta. Aby wyświetl
 
 8. Po zakupie subskrypcji dla klienta wystąpią następujące zdarzenia:
 
-    - Możesz przejrzeć lub edytować subskrypcję, wybierając nazwę subskrypcji na stronie **Subskrypcje tego** klienta. W tym miejscu możesz wybrać licencje dodatków, jeśli są dostępne, zmienić liczbę licencji lub wstrzymać subskrypcję.
+    - Możesz przejrzeć lub edytować subskrypcję, wybierając nazwę subskrypcji na stronie **Subskrypcje tego** klienta. W tym miejscu możesz wybrać licencje dodatku, jeśli są dostępne, zmienić liczbę licencji lub wstrzymać subskrypcję.
 
-    **W przypadku subskrypcji isv SaaS (opartych na licencjach i mierzonych):**
-    - Otrzymasz link do witryny wydawcy ISV. Ten link powinien ułatwić ukończenie wdrażania lub konfigurowania konta subskrypcji klienta.
+    **W przypadku subskrypcji SAAS isv (opartych na licencjach i mierzonych):**
+    - Otrzymasz link do witryny wydawcy isv. Ten link powinien ułatwić ukończenie wdrażania lub konfigurowania konta subskrypcji klienta.
 
     > [!NOTE]
-    > Ani Ty, ani Klient nie otrzymacie wiadomości e-mail z instrukcjami dotyczącymi ukończenia procesu skonfigurowania/aprowizowania konta dla tego typu subskrypcji isV).
+    > Ani Ty, ani Klient nie otrzymacie wiadomości e-mail z instrukcjami dotyczącymi ukończenia procesu skonfigurowania/aprowizowania konta dla tego typu subskrypcji isv).
 
     - Jeśli Twoja subskrypcja zawiera 30-dniową bezpłatną wersję próbną, bezpłatny okres próbny zostanie zastosowany automatycznie. Jako partner w programie CSP nie możesz zrezygnować z okresu bezpłatnej wersji próbnej ofert zakupu dla klientów. Po zakończeniu okresu bezpłatnej wersji próbnej okres subskrypcji rozpocznie się, a subskrypcja zostanie przekształcona w stan płatny. Subskrypcja zostanie następnie automatycznie odnowiona zgodnie z tym samym harmonogramem.
 
@@ -121,7 +121,7 @@ Aby kupić dodatek, klient musi najpierw mieć aktywną subskrypcję podstawową
 
 5. Zaktualizuj liczbę licencji dla każdego wymaganego dodatku. Następnie **prześlij** zmiany.
 
-Możliwość zakupu dodatków za pośrednictwem usługi Partner Center jest dostępna tylko dla dostawców bezpośrednich i pośrednich.
+Możliwość zakupu dodatków za pośrednictwem usługi Partner Center jest dostępna tylko dla dostawców bezpośredniego rachunku i dostawców pośrednich.
 Tylko kwalifikujące się dodatki są wyświetlane na podstawie podstawowych wymagań i dostępności regionalnej. Aby uzyskać więcej informacji na temat cen i ofert, zapoznaj się z macierzą ofert odsprzedawcy chmury. Wstrzymanie subskrypcji podstawowej spowoduje również wstrzymanie wszystkich skojarzonych dodatków.
 
 Daty rozpoczęcia dla dodatków są dopasowywane do podstawowej subskrypcji, a opłaty są obliczane na podstawie daty rozpoczęcia i zakończenia naliczania opłat z opłatami proporcjonalnymi na pierwszej fakturze. Aby uzyskać dodatkowe informacje, zobacz [Rozliczenia oparte na licencjach.](license-based-billing.md)
@@ -133,7 +133,7 @@ Partnerzy mogą wstrzymać lub anulować subskrypcję na żądanie klienta lub w
 
 ### <a name="suspend-a-subscription"></a>Zawieszenie subskrypcji
 
-Jeśli zmienisz stan subskrypcji na Wstrzymano **,** użytkownicy nie będą mogli logować się ani uzyskać dostępu do usług.
+Jeśli zmienisz stan subskrypcji na Wstrzymano, użytkownicy nie będą mogli logować się ani uzyskać dostępu do usług.
 
 1. Zaloguj się do pulpitu Partner Center [nawigacyjnego.](https://partner.microsoft.com/dashboard)
 
@@ -354,6 +354,33 @@ W obu przypadkach redukcji licencji zostanie zwrócona pełna kwota pomniejszona
 
 Jeśli od momentu złożonego zamówienia subskrypcji lub dodaniu dodatkowych licencji upłynęło  ponad **72** godziny, nie można zmniejszyć liczby licencji do następnego okna anulowania podczas odnawiania.
 
+## <a name="switching-billing-plans"></a>Przełączanie planów rozliczeniowych
+
+Partner może elastycznie zmieniać swój plan rozliczeniowy i okres rozliczeniowy. Mogą oni również przełączać się tylko w połowie okresu rozliczeniowego bez konieczności resetowania okresu rozliczeniowego.
+
+### <a name="just-changing-billing-frequency-scheduled-change"></a>Zmiana częstotliwości rozliczeń (zaplanowana zmiana)
+
+Partnerzy mogą zmienić tylko plan rozliczeniowy za pośrednictwem Partner Center w kilku krokach, co zostanie wprowadzone w następnym cyklu rozliczeniowym:
+
+1. Przejdź do strony subskrypcji klienta i wybierz subskrypcję, która ma być zmieniana.
+
+2. Wybierz link **Zarządzaj częstotliwością rozliczeń.**
+
+3. Zostanie otwarty panel boczny, na którym będzie wyświetlana bieżąca częstotliwość rozliczeń oraz lista rozwijana zawierająca opcje zmiany częstotliwości.
+
+4. Po wybraniu nowej wartości nowe zmiany rozliczeń zostaną wprowadzone w następnym **cyklu** rozliczeniowym (A NIE w następnym cyklu rozliczeniowym).
+
+### <a name="changing-billing-frequency-along-with-billing-term-and-other-fields-immediate-change"></a>Zmiana częstotliwości rozliczeń wraz z okresem rozliczeniowym i innymi polami (zmiana natychmiastowa)
+
+Partner może zmienić częstotliwość rozliczeń wraz z okresem rozliczeniowym i innymi polami za pośrednictwem Partner Center, co wyzwoli natychmiastową zmianę:
+
+1. Przejdź do strony subskrypcji klienta i wybierz subskrypcję, która ma być zmieniana.
+
+2. Zmień czas trwania, zaznaczanie opcji na liście rozwijanej. Spowoduje to otwarcie kolejnej listy rozwijanej służącej do zmiany częstotliwości rozliczeń.
+
+3. Wybierz z listy rozwijanej inną częstotliwość rozliczeń.
+
+4. Po w związku z wprowadzonymi zmianami i kliknięciu przycisku Prześlij nowe zmiany rozliczeń zostaną wprowadzone **natychmiast.**
 
 ## <a name="next-steps"></a>Następne kroki
 

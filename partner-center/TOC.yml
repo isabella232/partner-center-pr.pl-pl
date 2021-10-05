@@ -2,7 +2,7 @@
   href: index.yml
 - name: Co to jest Centrum partnerskie?
   href: overview.md
-- name: Poruszanie się po Partner Center
+- name: Poruszanie się po Centrum partnerskim
   href: get-around-partner-center.md
 - name: Anonse
   href: announcements/TOC.md
@@ -124,7 +124,7 @@
       href: mpn-view-print-maps-invoice.md
     - name: Software Assurance
       items:
-        - name: pakiet Software Assurance programów
+        - name: pakiet Software Assurance programowe
           href: software-assurance-lp.md
         - name: Kupony na szkolenia (SATV)
           href: software-assurance-satv.md
@@ -266,8 +266,10 @@
           href: check-service-health.md
         - name: Jak potwierdzić akceptację przez klienta Umowa z Klientem Microsoft
           href: confirm-customer-agreement.md
-        - name: 'Tworzenie, zawieszanie lub anulowanie subskrypcji klientów'
+        - name: Zarządzanie subskrypcjami klientów
           href: create-a-new-subscription.md
+        - name: Migrowanie subskrypcji do nowego handlu
+          href: migrate-subscriptions-to-new-commerce.md
         - name: Sprzedawanie oprogramowania lokalnego w ramach programu CSP
           href: csp-on-premise-software.md
         - name: Komunikacja z klientem od firmy Microsoft
@@ -459,7 +461,7 @@
           href: new-commerce-license-based.md
           displayName: new commerce
           items:
-            - name: Nowy sklep telco payg
+            - name: Nowa płatność za usługi telekomunikacyjne dla handlu
               href: new-commerce-telco-payg.md
             - name: Nowe promocje handlowe
               href: new-commerce-promotions.md
@@ -517,7 +519,7 @@
           href: incentives-enroll.md
         - name: Sprawdzanie uprawnień do programu
           href: incentives-determined-your-program-eligibility.md
-        - name: Informacje o zachętach do wypłat i profilów podatkowych
+        - name: Informacje o wypłatach zachęt i profilach podatkowych
           href: incentives-create-and-manage-your-payout-and-tax-profiles.md
         - name: Sprawdzanie kwalifikacji dochodów
           href: incentives-confirm-your-earnings-eligibility.md
@@ -527,7 +529,7 @@
       items:
         - name: Omówienie zaangażowania mci i uprawnienia
           href: mci-engagements.md
-        - name: Strona customers for MCI engagements (Strona klientów z angażowania klientów w angażowanie mci)
+        - name: Strona Customers (Klienci) dla zaangażowania mci
           href: mci-engagements-customers.md
         - name: Prześlij roszczenie z warsztatów mci engagements
           href: mci-engagements-workshop.md
@@ -743,7 +745,7 @@
               href: insights-programmatic-analytics-api-delete-report.md
             - name: Wstrzymywanie wykonywania raportów
               href: insights-programmatic-analytics-api-pause-report-executions.md
-            - name: Wznawianie wykonywania raportu
+            - name: Wznawianie wykonywania raportów
               href: insights-programmatic-analytics-api-resume-report-executions.md
 - name: Pomoc i obsługa techniczna
   items:

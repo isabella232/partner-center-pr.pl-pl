@@ -10,18 +10,41 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 10/01/2021
-ms.openlocfilehash: aa4b4c5e6b120181b268d3e172ee605186359f75
-ms.sourcegitcommit: 8eaef380caa66ae3c8e2674535e06c3676fa35f2
+ms.date: 10/04/2021
+ms.openlocfilehash: 70c2456d97c5c47d72a1791c9ab44b70a495fca5
+ms.sourcegitcommit: 462d6026287b85c9feea602af5bcdf924f3e6976
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/04/2021
-ms.locfileid: "129415539"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129452482"
 ---
 # <a name="october-2021-announcements"></a>Ogłoszenia z października 2021 r.
 
 Ta strona zawiera ogłoszenia dotyczące usługi Microsoft Partner Center z października 2021 r.
 
+________________
+## <a name="november-2021-update-online-services-and-software-channel-authorization-guide"></a><a name="3"></a>Aktualizacja z listopada 2021 r.: przewodnik dotyczący usług online i autoryzacji kanału oprogramowania
+
+### <a name="categories"></a>Kategorie
+
+- Data: 2021-10-04
+- Możliwości
+
+### <a name="impacted-audience"></a>Odbiorcy, na które ma to wpływ
+
+Partnerzy rozliczani bezpośrednio, dostawcy pośredni i wielowarstwowi partnerzy biorący udział w programie Dostawca rozwiązań w chmurze usług
+
+### <a name="summary"></a>Podsumowanie
+
+W przewodniku o usługach online i autoryzacji kanału oprogramowania w ujdą aktualizacje.
+
+### <a name="details"></a>Szczegóły
+
+Zgodnie z tym podsekcją usług online i autoryzacji kanału oprogramowania, w ramach tej sekcji zatytułowanej "Powiadomienie o zmianach", zatytułowanym "Zmiany przewodników", w twoim systemie Microsoft Partner Agreement Firma Microsoft informuje Użytkownika, że przewodnik dotyczący usług online i autoryzacji kanału oprogramowania jest aktualizowany. W tym miejscu jest [](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-download-pdf) dostępna wersja zapoznawcza zaktualizowanego przewodnika z czerwoną linią pokazującą zmiany dostępne [tutaj.](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-download-pdf) Aktualizacja stanie się obowiązywać po 30 dniach od daty powiadomienia. Nie musisz już nic więcej akcję podjąć.
+
+### <a name="next-steps"></a>Następne kroki
+
+Nie są wymagane żadne akcje. Jest to tylko powiadomienie.
 ________________
 ## <a name="final-90-days-to-transact-offers-in-the-open-license-program"></a><a name="2"></a>Ostatnie 90 dni na transakcje ofert w programie Licencjonowanie Open
 
@@ -56,7 +79,7 @@ Ułatwiamy partnerom przejście do chmury, korzystanie z nowych ofert i korzysta
 
 W przypadku partnerów, którzy nie są jeszcze dopięci do programu CSP, pamiętaj, że **31 grudnia 2021** r. jest ostatnim dniem transakcji ofert programu Licencjonowanie Open dla klientów. Od północy czasu lokalnego 1 stycznia 2022 r. partnerzy muszą dołączyć do programu CSP i dołączyć do niego, aby wykonać transakcję bezterminowych ofert oprogramowania w programie CSP. Aby chronić strumienie przychodów, należy wcześniej przenieść klientów programu Licencjonowanie Open, a nie później, i przenieść nowe zakupy i odnowienia do ofert w programie CSP, Open Value lub Open Value Subscription.
 
-Zachęcamy również partnerów do dołączenia do jednej z czterech sesji programu Office Hours hostowanych w ramach operacji, które odbywają się 3 i 4 listopada (Partner Center Onboarding and Overview for Indirect Resellers in CSP) oraz do kolejnego zestawu czterech sesji, które odbywają się w dniach 10 i 11 listopada (zagadnienia dotyczące operacji partnera open value).
+Zachęcamy również partnerów do dołączenia do jednej z czterech sesji Office Hours hostowanych w ramach operacji, które odbywają się 3 i 4 listopada (Partner Center Onboarding and Overview for Indirect Resellers in CSP) oraz do kolejnego zestawu czterech sesji, które odbywają się w dniach 10 i 11 listopada (zagadnienia dotyczące operacji open value partnerów).
 
 - Partnerzy mogą zarejestrować się w tych sesjach w tej samej witrynie co wcześniej, odwiedzając stronę: [Open Retirement - Migration to CSP/Open Value: Partner Operations Considerations](https://globalpbocomm.eventbuilder.com/OpenMigrationToCSPOV) (Otwarte wycofanie — migracja do programu CSP/Open Value: Zagadnienia dotyczące operacji partnera)
 
@@ -96,4 +119,4 @@ Kalendarz uruchamiania produktów z [](https://partner.microsoft.com/resources/c
 Przejrzyj kalendarz [uruchamiania produktu](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)i udostępnij informacje odpowiednim uczestnikom projektu w organizacji.
 
 ## <a name="questions"></a>Masz pytania?
-Jeśli masz dodatkowe pytania dotyczące tych ofert, sprawdź odpowiednie Yammer społeczności.
+Jeśli masz dodatkowe pytania dotyczące tych ofert, sprawdź swoje Yammer społeczności.
