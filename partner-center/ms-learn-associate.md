@@ -1,26 +1,26 @@
 ---
-title: Łączenie Microsoft Learn identyfikatora MCP z Partner Center kontem
+title: Łączenie Microsoft Learn MCP z Partner Center kontem
 ms.topic: how-to
-ms.date: 09/27/2021
+ms.date: 10/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
-description: Dowiedz się, jak skojarzyć identyfikator MCP z kontem Partner Center, aby firma widziała ścieżki szkoleniowe i szkoleniowe, które zostały podjęte w kierunku kompetencji.
-author: kbangalore
-ms.author: kiranban
+description: Dowiedz się, jak skojarzyć identyfikator MCP z kontem Partner Center, aby firma widziała ścieżki szkoleniowe i szkoleniowe, które zostały podjęte w celu osiągnięcia kompetencji.
+author: keramp88
+ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d2ffbdebd00ad16ca0fbbed4bba39046703c3ed
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: c39c09a274576b15d006a8b3576501a8b52915cf
+ms.sourcegitcommit: cf8c78e0c8831371432007d5ab05f934f15a77b5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071784"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129525296"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Łączenie lub odłączanie identyfikatora profilu certyfikacji firmy Microsoft (MCID) z kontem Microsoft Partner Network (MPN)
 
 **Odpowiednie role:** wszyscy Partner Center użytkowników
 
-W tym artykule opisano, jak klienci posiadający aktywne certyfikaty w programie certyfikacji firmy Microsoft mogą połączyć lub odłączyć identyfikator profilu certyfikacji firmy Microsoft (MCID) z organizacją Microsoft Partner Network (MPN).
+W tym artykule opisano, w jaki sposób klienci posiadający aktywne certyfikaty w programie certyfikacji firmy Microsoft mogą połączyć lub odłączyć identyfikator profilu certyfikacji firmy Microsoft (MCID) z organizacją Microsoft Partner Network (MPN).
 
 Musisz być administratorem partnera MPN lub administratorem globalnym, aby sprawdzić stan kompetencji [(wymagane](https://partner.microsoft.com/pcv/partnership/competencies) logowanie) na egzaminy lub pobrać raporty dotyczące umiejętności w celu przejrzenia skojarzonych egzaminów. Organizacja partnerska spełnia wymagania dotyczące kompetencji, mając osoby z połączonymi identyfikatorami MCI skojarzonymi z organizacją. W tym samym czasie można połączyć mcid tylko z jednym członkostwem w programie MPN.
 
@@ -29,9 +29,9 @@ Musisz być administratorem partnera MPN lub administratorem globalnym, aby spra
 Aby skojarzyć certyfikację firmy Microsoft, musisz mieć konto Partner Center (Active AD) skojarzone z organizacją partnerską. Członkowie organizacji partnerskich MPN powinni używać nazwy użytkownika i hasła służbowego (konta służbowego) organizacji partnera MPN do logowania się do Partner Center.
 Aby uzyskać dostęp do uczelni Partner University, użyj poniższej procedury.
 
-1. Zaloguj się do Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard/)  a następnie wybierz ikonę Mój profil obok Ustawienia koła zębatego.
+1. Zaloguj się do Partner Center [nawigacyjnego,](https://partner.microsoft.com/dashboard/)a następnie wybierz ikonę **Mój** profil obok Ustawienia koła zębatego.
 
-2. W polu **Your Edukacja (Twoja** Edukacja **partnerów) wybierz pozycję Get Partner University Access (Uzyskaj dostęp do uczelni partnerów).** Musisz wprowadzić poświadczenia konta w portalu Partner University (a nie konto Partner Center) Twoje konto na uczelni Partner University zostanie teraz skojarzone z Twoim kontem Partner Center użytkownika. Oceny zostaną odzwierciedlone w raporcie umiejętności Partner Center użytkownika w ciągu 72 godzin.
+2. W polu **Your Edukacja (Twoja** Edukacja **partnerów) wybierz pozycję Get Partner University Access (Uzyskaj dostęp do uczelni partnerskiej).** Musisz wprowadzić poświadczenia konta w portalu Partner University (a nie konto Partner Center) Twoje konto na uczelni Partner University zostanie teraz skojarzone z Twoim kontem Partner Center użytkownika. Oceny zostaną odzwierciedlone w raporcie umiejętności Partner Center użytkownika w ciągu 72 godzin.
 
 3. Aby usunąć skojarzenie, wybierz **pozycję Usuń dostęp.**
 
@@ -41,12 +41,12 @@ Użyj poniższej procedury, aby skojarzyć konto Edukacja Microsoft.
 
 1. Zaloguj się do [swojego Partner Center aplikacji.](https://partner.microsoft.com/pc/Users/MyAccount)
 
-2. Przewiń w dół do **pola Egzaminy** i certyfikaty firmy Microsoft, a następnie wybierz pozycję Skojarz **Edukacja Microsoft.**
+2. Przewiń w dół do **pola Egzaminy** i certyfikaty firmy Microsoft, a następnie wybierz pozycję Skojarz **Edukacja Microsoft.** Upewnij się, że Twój profil certyfikacji został ukończony i dla Twojego konta jest generowany identyfikator MC ID. Zaloguj się do pulpitu [nawigacyjnego certyfikacji,](https://aka.ms/certdashboard) aby znaleźć [identyfikator MC](https://docs.microsoft.com/learn/certifications/find-mcid)
 
 3. Po wyświetleniu monitu wprowadź poświadczenia, których używasz do logowania się do profilu certyfikacji firmy Microsoft (Twojego mcid).
 
 > [!NOTE]
-> Jeśli poświadczenia Edukacja Microsoft są takie same jak poświadczenia konta witryny Partner University, wybierz pozycję Użyj, aby skojarzyć moje **email@address konto microsoft Edukacja.**
+> Jeśli poświadczenia Edukacja Microsoft są takie same jak poświadczenia konta witryny Partner University, wybierz pozycję Użyj, aby skojarzyć moje **email@address konto microsoft Edukacja.** Upewnij się, że Twój profil certyfikacji został ukończony i dla Twojego konta jest generowany identyfikator MC ID. Zaloguj się do pulpitu [nawigacyjnego certyfikacji,](https://aka.ms/certdashboard) aby znaleźć [identyfikator MC](https://docs.microsoft.com/learn/certifications/find-mcid)
 
 ## <a name="download-skills-report-microsoft-certification-list"></a>Pobieranie raportu umiejętności (lista certyfikacji firmy Microsoft)
 Jeśli potrzebujesz szczegółowych informacji, możesz uzyskać dostęp do raportu umiejętności i pobrać go od dowolnego administratora globalnego lub administratora partnera MPN z Partner Center. Aby [dowiedzieć się więcej, zobacz](./mpn-skills-report.md#view-skills-report-data).
@@ -55,7 +55,7 @@ Jeśli potrzebujesz szczegółowych informacji, możesz uzyskać dostęp do rapo
 
 ### <a name="how-can-a-user-link-their-microsoft-certification-profile-id-mcid-with-the-microsoft-partner-network-mpn-organization-they-work-for"></a>W jaki sposób użytkownik może połączyć identyfikator profilu certyfikacji firmy Microsoft (MCID) z Microsoft Partner Network (MPN), z jaką pracuje?
 
-Użytkownicy powinni zalogować się do witryny Partner Center i przejść do witryny **Mój profil, a następnie** wybrać pozycję Pobierz konto witryny **Partner University** lub skojarzyć konto microsoft **Edukacja** i wprowadzić swoje poświadczenia. Aby skojarzyć konto Edukacja Microsoft, użytkownik musi wprowadzić nazwę użytkownika i hasło używane do logowania się do profilu certyfikacji firmy Microsoft (MCID). Ze względu na kwestie związane z prywatnością użytkownicy muszą samodzielnie ukończyć proces łączenia kont.  
+Użytkownicy powinni zalogować się do witryny Partner Center i przejść do witryny **Mój profil, a następnie** wybrać pozycję Pobierz konto platformy **Partner University** lub skojarzyć konto microsoft **Edukacja** i wprowadzić swoje poświadczenia. Aby skojarzyć konto usługi Microsoft Edukacja, użytkownik musi wprowadzić nazwę użytkownika i hasło używane do logowania się w profilu certyfikacji firmy Microsoft (MCID). Ze względu na kwestie związane z prywatnością użytkownicy muszą samodzielnie ukończyć proces łączenia kont.  
 
 ### <a name="how-can-a-user-unlink-their-mcid-from-the-mpn-organization-they-work-for"></a>Jak użytkownik może odłączyć identyfikator MCID od organizacji MPN, dla których pracuje?
 
@@ -73,7 +73,7 @@ Konto użytkownika musi zostać usunięte przez administratora globalnego po opu
 
 Administrator powinien najpierw zweryfikować użyty adres e-mail, a następnie skontaktować się z użytkownikiem, do którego podano informacje o koncie.
 
-### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited-for-example-you-have-attempted-to-associate-with-a-partner-organization-however-we-require-a-period-of-30-days-between-associations-your-next-available-date-for-a-subsequent-association-is-xxx"></a>Użytkownik próbuje skojarzyć konto Edukacja MCP ze swoim profilem w Partner Center i otrzymuje komunikat, że jego skojarzenie jest ograniczone. Na przykład: "Podjęto próbę skojarzenia z organizacją partnerską. Między skojarzeniami wymagamy jednak 30 dni. Następna dostępna data dla kolejnego skojarzenia to XXX"
+### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited-for-example-you-have-attempted-to-associate-with-a-partner-organization-however-we-require-a-period-of-30-days-between-associations-your-next-available-date-for-a-subsequent-association-is-xxx"></a>Użytkownik próbuje skojarzyć swoje konto Edukacja MCP ze swoim profilem w Partner Center i otrzymuje komunikat, że jego skojarzenie jest ograniczone. Na przykład: "Podjęto próbę skojarzenia z organizacją partnerską. Między skojarzeniami wymagamy jednak 30 dni. Następna dostępna data dla kolejnego skojarzenia to XXX"
 
 Aby chronić przed nadużyciami, osoba MCP ma ograniczoną liczbę 3 skojarzeń dozwolonych każdego roku i istnieje 30-dniowy okres ochłodzenia między poszczególnymi skojarzeniami, który rozpoczyna się na początku skojarzenia. Każdy użytkownik może sprawdzić datę w swoim profilu, aby zobaczyć, kiedy może rozpocząć nowe skojarzenie. Jeśli użytkownik ma problemy ze skojarzeniu po tej dacie, powinien skontaktować się z pomocą techniczną.  
 
@@ -87,4 +87,4 @@ W przypadku pytań związanych z procesem scalania profilu certyfikacji firmy Mi
 
 - [Role użytkowników i uprawnienia](./permissions-overview.md)
 - [Kompetencje](https://partner.microsoft.com/membership/competencies)
-- [Raport Microsoft Learn analytics przedstawia stan osób uczących się w firmie](ms-learn-analytics.md)
+- [Raport Microsoft Learn analizy danych przedstawia stan uczniów w firmie](ms-learn-analytics.md)

@@ -10,12 +10,12 @@ metadata:
   ms.author: keramp
   ms.localizationpriority: medium
   ms.custom: SEOJUNE20
-  ms.openlocfilehash: 5e897fc5046647176e4f605b9226a6280b409938
-  ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+  ms.openlocfilehash: b7a0e916afdf773c6a3f6ea451a79ece15626da2
+  ms.sourcegitcommit: cf8c78e0c8831371432007d5ab05f934f15a77b5
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/27/2021
-  ms.locfileid: "129074119"
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "129525306"
 title: Microsoft Partner Network korzyści — często zadawane pytania
 summary: >
   **Odpowiednie role:** administrator partnera MPN
@@ -30,20 +30,7 @@ sections:
     answer: "Data wygaśnięcia korzyści oznacza ostatnią datę aktywowania korzyści.\n\nDo daty odnowienia masz czas na zrealizowanie korzyści dostępnych w ramach jednorocznego okresu rejestracji. Datę rozpoczęcia odnowienia można znaleźć na stronie [Oferty członkostwa](https://partner.microsoft.com/dashboard/mpn/offers) na pulpicie nawigacyjnym MPN.\n\nMożna jednak używać kluczy produktów przez rok od dnia ich zrealizowania w odpowiednich portalach w chmurze.\n\nJeśli na przykład data wygaśnięcia korzyści to 31 stycznia 2021 r., klucze należy zrealizować w odpowiednim portalu w chmurze przed 31 stycznia 2021 r. Jeśli klucz produktu zostanie zrealizowany 1 grudnia 2020 r., można go używać do 1 grudnia 2021 r., mimo że data wygaśnięcia korzyści to 31 stycznia.\n\n> [!NOTE]  \n> Jeśli masz korzyści, które wymagają przypisania użytkownika (na przykład subskrypcji usługi Visual Studio), możesz aktywować te korzyści i korzystać z nich przez dodatkowe 30 dni od daty odnowienia rejestracji.\n"
   - question: >
       Jak mogę odnowić swoje korzyści
-    answer: >
-      Aby odnowić korzyści, użyj następującej procedury:
-
-
-      1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).
-
-
-      2. Wybierz **kafelek Korzyści.** Jeśli nie używasz widoku Obszary robocze, wybierz pozycję **MPN,** a następnie pozycję **Korzyści.**
-
-
-      3. Aktywuj korzyść, której chcesz użyć.
-
-
-      Jeśli korzyść, której potrzebujesz, nie jest dostępna, musisz odnowić członkostwo w Partner Center i powtórzyć powyższy proces.
+    answer: "Aby odnowić korzyści, użyj następującej procedury:\n\n1. Zaloguj się do [pulpitu nawigacyjnego Centrum partnerskiego](https://partner.microsoft.com/dashboard/).\n\n2. Wybierz **kafelek Korzyści.** Jeśli nie używasz widoku Obszary robocze, wybierz pozycję **MPN,** a następnie pozycję **Korzyści.**\n\n3. Aktywuj korzyść, której chcesz użyć.\n\nJeśli potrzebna korzyść nie jest dostępna, musisz odnowić członkostwo w Partner Center i powtórzyć powyższy proces.\n\n> [!NOTE]  \n> Klucze licencji dla Office Professional Plus 2019 uzyskane za pośrednictwem licencji IUR na Partner Center nie będą działać w przypadku zainstalowania w systemie macOS.\n"
   - question: >
       Otrzymano powiadomienie z powiadomieniem, że moja subskrypcja wkrótce wygasa — co mam zrobić
     answer: >
@@ -90,7 +77,7 @@ sections:
       4. Użyj sekcji Korzyści techniczne, aby aktywować i otrzymać identyfikator dostępu/identyfikator kontraktu.
 
 
-      5. Zaloguj się [do Pomoc techniczna Microsoft](https://support.microsoft.com/supportforbusiness/productselection).
+      5. Zaloguj się [Pomoc techniczna Microsoft](https://support.microsoft.com/supportforbusiness/productselection).
 
 
       6. Wybierz produkt, który próbujesz zainstalować, a następnie utwórz bilet pomocy technicznej.

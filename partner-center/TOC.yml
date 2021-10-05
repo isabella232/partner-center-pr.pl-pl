@@ -264,7 +264,7 @@
           href: bulk-license-provisioning-for-multiple-users.md
         - name: Sprawdzanie kondycji usługi
           href: check-service-health.md
-        - name: Jak potwierdzić akceptację przez klienta Umowa z Klientem Microsoft
+        - name: Jak potwierdzić akceptację klienta Umowa z Klientem Microsoft
           href: confirm-customer-agreement.md
         - name: Zarządzanie subskrypcjami klientów
           href: create-a-new-subscription.md
@@ -300,7 +300,7 @@
           href: request-a-relationship-with-a-customer.md
     - name: Umowy klienta firmy Microsoft
       href: agreements.md
-    - name: Certyfikacja oferty w programie Partner Finder
+    - name: Certyfikacja listy w programie Partner Finder
       href: partner-finder-certification.md
     - name: Zasoby licencjonowania
       href: support-resources-licensing.md
@@ -330,7 +330,7 @@
           href: recon-file-charge-types.md
         - name: Pliki uzgodnień na podstawie użycia
           href: usage-based-recon-files.md
-        - name: Pliki uzgodnień użycia ocenianego codziennie
+        - name: Pliki uzgodnień użycia z ocenianą dobową oceną
           href: daily-rated-usage-recon-files.md
         - name: Pliki uzgodnień na podstawie licencji
           href: license-based-recon-files.md
@@ -461,7 +461,7 @@
           href: new-commerce-license-based.md
           displayName: new commerce
           items:
-            - name: Nowa płatność za usługi telekomunikacyjne dla handlu
+            - name: Nowy sklep telco payg
               href: new-commerce-telco-payg.md
             - name: Nowe promocje handlowe
               href: new-commerce-promotions.md
@@ -519,7 +519,7 @@
           href: incentives-enroll.md
         - name: Sprawdzanie uprawnień do programu
           href: incentives-determined-your-program-eligibility.md
-        - name: Informacje o wypłatach zachęt i profilach podatkowych
+        - name: Informacje o zachętach do wypłat i profilów podatkowych
           href: incentives-create-and-manage-your-payout-and-tax-profiles.md
         - name: Sprawdzanie kwalifikacji dochodów
           href: incentives-confirm-your-earnings-eligibility.md
@@ -529,7 +529,7 @@
       items:
         - name: Omówienie zaangażowania mci i uprawnienia
           href: mci-engagements.md
-        - name: Strona Customers (Klienci) dla zaangażowania mci
+        - name: Strona customers for MCI engagements (Strona klientów z angażowania klientów w angażowanie mci)
           href: mci-engagements-customers.md
         - name: Prześlij roszczenie z warsztatów mci engagements
           href: mci-engagements-workshop.md
@@ -621,6 +621,10 @@
       href: payout-policy-details.md
     - name: Zestawienia wypłat
       href: payout-statement.md
+    - name: Podsumowanie przychodów
+      href: revenue-summary.md
+    - name: Strona eksportowania danych wypłat
+      href: payouts-enhanced-exports.md
     - name: Konfigurowanie profilów wypłat i profilów podatkowych na platformie handlowej
       href: set-up-your-payout-account.md
     - name: Szczegóły podatkowe dla wydawców na komercyjnej platformie handlowej

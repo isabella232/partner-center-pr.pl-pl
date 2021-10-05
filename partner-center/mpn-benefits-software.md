@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8180f8cae9228f6ed6bb8c1a5953fe1314eb6fc5
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 584f3bad4fa6fcbe661973a344459a6c0a2ec6c3
+ms.sourcegitcommit: cf8c78e0c8831371432007d5ab05f934f15a77b5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073618"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129525254"
 ---
 # <a name="mpn-benefits---software"></a>Korzyści związane z programem MPN — oprogramowanie
 
@@ -30,7 +30,7 @@ Wybierz interesujące oprogramowanie i znajdź konkretne instrukcje dla każdego
 
 Jeśli produkt wymaga klucza produktu do instalacji, podczas procesu instalacji zostanie wyświetlony monit o wprowadzenie klucza produktu. Możesz uzyskać dostęp z tego samego okienka w Partner Center, w którym została wybrana wersja oprogramowania, które chcesz pobrać.
 
-Aktywacja produktu jest wymagana **w Windows server** i klienckich systemów operacyjnych oraz wszystkich Microsoft Office **klienckich.**  Nie wszystkie produkty wymagają aktywacji produktu.
+Aktywacja produktu jest wymagana **w Windows server** i klienckich systemów **operacyjnych** oraz **wszystkich Microsoft Office klienckich.** Nie wszystkie produkty wymagają aktywacji produktu.
 
 :::image type="content" source="images/benefits/mpn-software-benefits-1.png" alt-text="Korzyści z produktu oprogramowania dostępne w programie MPN." border="false":::
 
@@ -52,7 +52,10 @@ Liczba aktywacji wliczanych do klucza produktu jest oparta na następujących sc
 
 - **Podczas próby aktywacji oprogramowania zostanie wyświetlony komunikat informujący, że osiągnięto maksymalną liczbę dostępnych aktywacji dla klucza produktu.**
 
-    W ramach korzyści związanych z członkostwem w programie MPN zapewniana jest określoną liczbę aktywacji na produkt. Jeśli maksymalna liczba aktywacji zostanie spełniona lub przekroczona, nie będzie można aktywować większej liczby licencji przy użyciu podanego klucza produktu.
+    W ramach korzyści związanych z członkostwem w programie MPN zapewniana jest konk. Jeśli maksymalna liczba aktywacji zostanie spełniona lub przekroczona, nie będzie można aktywować większej liczby licencji przy użyciu podanego klucza produktu.
+
+ > [!Note]
+ > Klucze licencji dla Office Professional Plus 2019 uzyskane za pośrednictwem licencji IUR na Partner Center nie będą działać po zainstalowaniu w systemie macOS.
 
  ## <a name="next-steps"></a>Następne kroki
 
