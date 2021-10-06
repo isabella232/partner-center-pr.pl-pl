@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 1a2e13bf45b10bebe6ab0492ac059dc1d6a6c0ca
-ms.sourcegitcommit: 462d6026287b85c9feea602af5bcdf924f3e6976
+ms.openlocfilehash: c42e2e8dbc98bdf9ed0e2994bfb7ad49848aad76
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "129452417"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565335"
 ---
 # <a name="manage-customer-subscriptions"></a>Zarządzanie subskrypcjami klientów
 
@@ -24,10 +24,10 @@ ms.locfileid: "129452417"
 
 Po utworzeniu rekordu klienta w katalogu Partner Center można sprzedawać im subskrypcje produktów w katalogu. Dotyczy to produktów publikowanych przez firmę Microsoft oraz produktów SaaS (Software as a Service) publikowanych przez niezależnych dostawców oprogramowania (ISV) innych firm na [platformie handlowej.](https://azuremarketplace.microsoft.com/marketplace)
 
-Niektóre oferty są ograniczone do jednej subskrypcji na klienta. Aby wyświetlić listę ofert ograniczonych, odwiedź stronę Partner Center Cennik i oferty.
+Niektóre oferty są ograniczone do jednej subskrypcji na klienta. Aby wyświetlić listę ofert, które są ograniczone, odwiedź stronę Partner Center **Cenniki.**
 
 > [!IMPORTANT]
-> Jako partner w programie CSP  możesz kupić oparte na licencjach lub mierzone subskrypcje **SaaS** od wydawców ISV w Partner Center. Oznacza to, że  możesz kupić dowolną opartą na licencjach lub mierzoną [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) ofertę **SaaS,** która została Ci udostępnione przez wydawcę ISV, w tym oferty wyłączne, do których masz dostęp. Aby zakupić inne, komercyjne oferty platformy handlowej od isvs (np. ofert opartych na użyciu obejmujących aplikacje platformy Azure, kontenery lub maszyny wirtualne) lub zarządzać nimi, musisz przejść do witryny [Azure Portal](https://portal.azure.com/).
+> Jako partner w programie CSP  możesz kupić oparte na licencjach lub mierzone subskrypcje **SaaS** od wydawców ISV w Partner Center. Oznacza to, że  możesz kupić dowolną opartą na licencjach lub mierzoną [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) ofertę **SaaS,** która została Ci udostępnione przez wydawcę ISV, w tym oferty wyłączne, do których masz dostęp. Aby kupić inne, komercyjne oferty platformy handlowej od isvs (na przykład oferty oparte na użyciu obejmujące aplikacje platformy Azure, kontenery lub maszyny wirtualne) lub zarządzać nimi, musisz przejść do witryny [Azure Portal](https://portal.azure.com/).
 
 > [!NOTE]
 > Wszystkie daty i godziny w Partner Center są podane w standardzie czasu uniwersalnego (UTC). Może się to różnić nawet o 24 godziny od czasu lokalnego.
@@ -44,7 +44,7 @@ Niektóre oferty są ograniczone do jednej subskrypcji na klienta. Aby wyświetl
 2. Wybierz **pozycję Dodaj subskrypcję.** Na **karcie Usługi online** będą wyświetlane wszystkie dostępne oferty SaaS w witrynie Marketplace.
 
 3. Aby wyświetlić tylko niektóre typy subskrypcji, należy dokonać wyboru w dostępnych filtrach:
-   - **Publisher:** wybierz pozycję **Microsoft,** aby wyświetlić tylko  oferty firmy Microsoft lub partnera, aby wyświetlić produkty platformy handlowej opublikowane przez isvs.
+   - **Publisher:** wybierz firmę **Microsoft,** aby wyświetlić  tylko oferty firmy Microsoft lub partnera, aby wyświetlić produkty platformy handlowej opublikowane przez isvs.
    - **Typ rozliczeń:** wybierz typ rozliczeń subskrypcji, których chcesz użyć: **Licencja** lub **Użycie.** Zobacz [Rozliczenia oparte na licencjach,](license-based-billing.md) aby uzyskać informacje, które pomogą Ci wybrać miesięczną i roczną częstotliwość rozliczeń.
    - **Kategoria:** wybierz **Enterprise,** **Małe firmy** lub Wersja **próbna.** Aby uzyskać informacje o subskrypcjach wersji próbnej, zobacz [Temat Oferty dla klientów wersji próbnych produktów firmy Microsoft.](offer-your-customers-trials-of-microsoft-products.md)
 
@@ -78,7 +78,7 @@ Niektóre oferty są ograniczone do jednej subskrypcji na klienta. Aby wyświetl
 2. Wybierz **pozycję Dodaj subskrypcję.** Na **karcie Usługi online** będą wyświetlane wszystkie dostępne oferty SaaS w witrynie Marketplace.
 
 3. Aby wyświetlić tylko niektóre typy subskrypcji, należy dokonać wyboru w dostępnych filtrach:
-   - **Publisher:** wybierz pozycję **Microsoft,** aby wyświetlić tylko  oferty firmy Microsoft lub partnera, aby wyświetlić produkty platformy handlowej opublikowane przez isvs.
+   - **Publisher:** wybierz firmę **Microsoft,** aby wyświetlić  tylko oferty firmy Microsoft lub partnera, aby wyświetlić produkty platformy handlowej opublikowane przez isvs.
    - **Typ rozliczeń:** wybierz typ rozliczeń subskrypcji, których chcesz użyć: **Licencja** lub **Użycie.** Zobacz [Rozliczenia oparte na licencjach,](license-based-billing.md) aby uzyskać informacje, które pomogą Ci wybrać miesięczną i roczną częstotliwość rozliczeń.
    - **Kategoria:** wybierz **Enterprise,** **Małe firmy** lub Wersja **próbna.** Aby uzyskać informacje o subskrypcjach wersji próbnej, zobacz [Temat Oferty dla klientów wersji próbnych produktów firmy Microsoft.](offer-your-customers-trials-of-microsoft-products.md)
 
@@ -121,7 +121,7 @@ Aby kupić dodatek, klient musi najpierw mieć aktywną subskrypcję podstawową
 
 5. Zaktualizuj liczbę licencji dla każdego wymaganego dodatku. Następnie **prześlij** zmiany.
 
-Możliwość zakupu dodatków za pośrednictwem usługi Partner Center jest dostępna tylko dla dostawców bezpośredniego rachunku i dostawców pośrednich.
+Możliwość zakupu dodatków za pośrednictwem usługi Partner Center jest dostępna tylko dla dostawców bezpośrednich i pośrednich.
 Tylko kwalifikujące się dodatki są wyświetlane na podstawie podstawowych wymagań i dostępności regionalnej. Aby uzyskać więcej informacji na temat cen i ofert, zapoznaj się z macierzą ofert odsprzedawcy chmury. Wstrzymanie subskrypcji podstawowej spowoduje również wstrzymanie wszystkich skojarzonych dodatków.
 
 Daty rozpoczęcia dla dodatków są dopasowywane do podstawowej subskrypcji, a opłaty są obliczane na podstawie daty rozpoczęcia i zakończenia naliczania opłat z opłatami proporcjonalnymi na pierwszej fakturze. Aby uzyskać dodatkowe informacje, zobacz [Rozliczenia oparte na licencjach.](license-based-billing.md)
@@ -314,45 +314,45 @@ Zapisane zaplanowane zmiany są usuwane, gdy zostaną wprowadzone następujące 
 
 ## <a name="upgrades-in-new-commerce-subscriptions"></a>Uaktualnienia w nowych subskrypcjach handlowych
 
-W przypadku nowego handlu uaktualnienie oznacza przejście z jednej płatnej subskrypcji do innej płatnej subskrypcji. Nowe uaktualnienia z płatnego do płatnego handlu umożliwiają klientowi natychmiastowe uaktualnienie bieżącej wersji SKU do wersji z dodanymi usługami. 
+W przypadku nowego handlu uaktualnienie oznacza przejście z jednej płatnej subskrypcji do innej płatnej subskrypcji. Nowe uaktualnienia z płatnego do płatnego handlu umożliwiają klientowi natychmiastowe uaktualnienie z bieżącej do bieżącej wersji SKU z dodanymi usługami. 
 
 Partnerzy mogą wybrać subskrypcję, do której mają zostać uaktualnione podczas konfigurowania liczby licencji. Partnerzy mogą wybrać **nową** subskrypcję lub wybrać **istniejącą** subskrypcję, jeśli kwalifikuje się ona do uaktualnienia. 
 
-Uaktualnienia mogą być dwa typy: **pełne i** **częściowe.**
+Uaktualnienia mogą mieć dwa typy: **pełne i** **częściowe.**
 
 > [!NOTE]
-> - Uaktualnienia można zaplanować na koniec okresu lub zainicjować w połowie okresu.
+> - Uaktualnienia można zaplanować na koniec okresu lub mogą być inicjowane w połowie okresu.
 > - Zainicjowanie uaktualnienia w połowie okresu spowoduje usunięcie istniejących zaplanowanych uaktualnień.
-> - Uaktualnienia można inicjować tylko z subskrypcji w **stanie Aktywny.**
+> - Uaktualnienia można inicjować tylko z subskrypcji w **stanie** Aktywny.
 
 ### <a name="full-upgrades"></a>Pełne uaktualnienia
 
-Pełne uaktualnienie jest uaktualnieniem w miejscu, co oznacza, że wszystkie lub więcej licencji jest uaktualnianych. W takim przypadku identyfikator subskrypcji pozostaje taki sam, a licencje są przypisywane automatycznie. Jednak w przypadku, gdy klient kupił już docelową sku od innego partnera lub kanału w starszej wersji, konieczne będzie ręczne przypisanie. Jeśli jest konieczne ręczne przypisanie, partner zobaczy komunikat ostrzegawczy w Partner Center informujący o konieczności ręcznego przypisania licencji. 
+Pełne uaktualnienie to uaktualnienie w miejscu, co oznacza, że wszystkie lub więcej licencji jest uaktualnianych. W takim przypadku identyfikator subskrypcji pozostaje taki sam, a licencje są przypisywane automatycznie. Jednak w przypadku, gdy klient kupił już docelową skuwkę u innego partnera lub kanału w starszej wersji, konieczne będzie ręczne przypisanie. Jeśli jest wymagane ręczne przypisanie, partner zobaczy na stronie Partner Center komunikat ostrzegawczy informujący o konieczności ręcznego przypisania licencji. 
 
 ### <a name="partial-upgrades"></a>Uaktualnienia częściowe
 
-Uaktualnienia częściowe umożliwiają partnerowi wyznaczenie niektórych licencji z jednej wersji SKU na inną. Poprzednia funkcja uaktualniania w tradycyjnych subskrypcjach opartych na licencjach umożliwiała uaktualnienie tylko wszystkich licencji. Nowy handel umożliwia partnerowi przenoszenie niektórych licencji w dogodnym dla nich czasie. Daje to partnerowi większą kontrolę nad zarządzaniem uaktualnieniami, umożliwiając im przenoszenie niektórych użytkowników do nowej wersji SKU bez przenoszenia ich wszystkich.
+Częściowe uaktualnienia umożliwiają partnerowi wyznaczenie niektórych licencji z jednej sku na inną. Poprzednia funkcja uaktualniania w tradycyjnych subskrypcjach opartych na licencjach umożliwiała uaktualnienie tylko wszystkich licencji. Nowy handel umożliwia partnerowi przenoszenie niektórych licencji w dogodnym dla nich czasie. Daje to partnerowi większą kontrolę nad zarządzaniem uaktualnieniami, umożliwiając mu przeniesienie niektórych użytkowników do nowej wersji SKU bez przenoszenia ich wszystkich.
 
-Szczegóły uaktualnienia częściowego:
+Szczegóły częściowego uaktualnienia:
 
 - Zdefiniowana jako częściowa, jeśli liczba licencji uaktualnienia jest mniejsza niż początkowa subskrypcja.
 - Nowa subskrypcja utworzona podczas częściowego uaktualniania będzie mieć takie same daty zakończenia okresu jak subskrypcja, z której pochodzi uaktualnienie.
 
 ## <a name="increasing-and-reducing-licenses-in-new-commerce-subscriptions"></a>Zwiększanie i zmniejszanie liczby licencji w nowych subskrypcjach handlowych
 
-Liczbę licencji dla subskrypcji  można zwiększyć w dowolnym momencie, z korektymi rozliczeń odzwierciedloną w następnej fakturze i pliku uzgodnień. 
+Liczbę licencji dla subskrypcji  można zwiększyć w dowolnym momencie, a korekty rozliczeń zostaną odzwierciedlone w następnym pliku faktury i uzgodnień. 
 
 Liczbę licencji w ramach subskrypcji można **zmniejszyć:**
 - tylko w ciągu pierwszych 72 godzin od pierwszego zamówienia subskrypcji lub **jego odnowienia.** 
-- za pośrednictwem działu pomocy technicznej w ciągu 72 godzin w przypadku licencji **dodawanych w połowie roku**
+- za pośrednictwem pomocy technicznej klienta w ciągu 72 godzin w przypadku licencji **dodanych w połowie roku**
 
 Zmniejszenie liczby licencji w ciągu pierwszych 72 godzin okresu subskrypcji (po początkowym zakupie lub odnowieniu) można dokonać za pośrednictwem samoobsługi w usłudze Partner Center lub za pośrednictwem interfejsu API.
 
-Zmniejszenie liczby licencji dla licencji dodanych w połowie roku można wykonać tylko za pośrednictwem działu obsługi klienta w ciągu pierwszych 72 godzin.
+Zmniejszenie liczby licencji dodanych w połowie roku można wykonać tylko za pośrednictwem działu obsługi klienta w ciągu pierwszych 72 godzin.
 
-W obu przypadkach redukcji licencji zostanie zwrócona pełna kwota pomniejszona o proporcjonalną kwotę za dni, w których została użyta subskrypcja (opłata obliczana   **codziennie).** 
+W obu przypadkach redukcji licencji zostanie zwrócona pełna kwota pomniejszona o proporcjonalną kwotę za dni, w których została użyta subskrypcja   **(proracja** obliczana codziennie). 
 
-Jeśli od momentu złożonego zamówienia subskrypcji lub dodaniu dodatkowych licencji upłynęło  ponad **72** godziny, nie można zmniejszyć liczby licencji do następnego okna anulowania podczas odnawiania.
+Jeśli od momentu zamówienia subskrypcji lub dodania dodatkowych licencji upłynęło ponad **72** godziny, nie można zmniejszyć liczby licencji do następnego okna anulowania podczas odnawiania. 
 
 ## <a name="switching-billing-plans"></a>Przełączanie planów rozliczeniowych
 
@@ -362,30 +362,30 @@ Partner może elastycznie zmieniać swój plan rozliczeniowy i okres rozliczenio
 
 Partnerzy mogą zmienić tylko plan rozliczeniowy za pośrednictwem Partner Center w kilku krokach, co zostanie wprowadzone w następnym cyklu rozliczeniowym:
 
-1. Przejdź do strony subskrypcji klienta i wybierz subskrypcję, która ma być zmieniana.
+1. Przejdź do strony subskrypcji klienta i wybierz subskrypcję, która chcesz zmienić.
 
 2. Wybierz link **Zarządzaj częstotliwością rozliczeń.**
 
-3. Zostanie otwarty panel boczny, na którym będzie wyświetlana bieżąca częstotliwość rozliczeń oraz lista rozwijana zawierająca opcje zmiany częstotliwości.
+3. Zostanie otwarty panel boczny z bieżącą częstotliwością rozliczeń i listą rozwijaną zawierającą opcje zmiany częstotliwości.
 
-4. Po wybraniu nowej wartości nowe zmiany rozliczeń zostaną wprowadzone w następnym **cyklu** rozliczeniowym (A NIE w następnym cyklu rozliczeniowym).
+4. Po wybraniu nowej wartości nowe zmiany rozliczeń zostaną wprowadzone w następnym **cyklu** rozliczeniowym (NIE jest to zmiana natychmiastowa).
 
 ### <a name="changing-billing-frequency-along-with-billing-term-and-other-fields-immediate-change"></a>Zmiana częstotliwości rozliczeń wraz z okresem rozliczeniowym i innymi polami (zmiana natychmiastowa)
 
-Partner może zmienić częstotliwość rozliczeń wraz z okresem rozliczeniowym i innymi polami za pośrednictwem Partner Center, co wyzwoli natychmiastową zmianę:
+Partner może również zmienić częstotliwość rozliczeń wraz z okresem rozliczeniowym i innymi polami za pośrednictwem Partner Center, co spowoduje natychmiastową zmianę:
 
-1. Przejdź do strony subskrypcji klienta i wybierz subskrypcję, która ma być zmieniana.
+1. Przejdź do strony subskrypcji klienta i wybierz subskrypcję, która chcesz zmienić.
 
-2. Zmień czas trwania, zaznaczanie opcji na liście rozwijanej. Spowoduje to otwarcie kolejnej listy rozwijanej służącej do zmiany częstotliwości rozliczeń.
+2. Zmień okres trwania, zaznaczac opcję z listy rozwijanej. Spowoduje to otwarcie kolejnej listy rozwijanej w celu zmiany częstotliwości rozliczeń.
 
-3. Wybierz z listy rozwijanej inną częstotliwość rozliczeń.
+3. Wybierz inną częstotliwość rozliczeń z listy rozwijanej.
 
 4. Po w związku z wprowadzonymi zmianami i kliknięciu przycisku Prześlij nowe zmiany rozliczeń zostaną wprowadzone **natychmiast.**
 
 ## <a name="next-steps"></a>Następne kroki
 
-- [Kupowanie produktów na platformie handlowej dla klientów](csp-commercial-marketplace-purchase.md)
+- [Kupowanie produktów komercyjnej platformy handlowej dla klientów](csp-commercial-marketplace-purchase.md)
 
-- [Zarządzanie produktami na platformie handlowej dla klientów](csp-commercial-marketplace-manage.md)
+- [Zarządzanie produktami platformy handlowej dla klientów](csp-commercial-marketplace-manage.md)
 
 - [Omówienie komercyjnej platformy handlowej](csp-commercial-marketplace-overview.md)

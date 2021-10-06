@@ -11,19 +11,19 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 10/05/2021
-ms.openlocfilehash: 3a5f9ee11ffab9869e2641f27594c255e44f4d16
-ms.sourcegitcommit: cf8c78e0c8831371432007d5ab05f934f15a77b5
+ms.openlocfilehash: 9cbe685abf6610b42c05d2f9229f93478c50ca69
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "129525224"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565122"
 ---
 # <a name="october-2021-announcements"></a>Ogłoszenia z października 2021 r.
 
 Ta strona zawiera ogłoszenia dotyczące usługi Microsoft Partner Center października 2021 r.
 
 ________________
-## <a name="coming-soon-new-commerce-experience-for-csp-seat-based-offers-technical-release"></a><a name="4"></a>Już wkrótce: Nowe środowisko handlowe dla ofert technicznych opartych na stanowiskoch WSP
+## <a name="coming-soon-new-commerce-experience-for-csp-seat-based-offers-technical-release"></a><a name="4"></a>Już wkrótce: Nowe środowisko handlowe dla ofert technicznych opartych na stanowiskoch w programie CSP
 
 ### <a name="categories"></a>Kategorie
 
@@ -46,11 +46,11 @@ Firma Microsoft kontynuuje swoją transformację cyfrową w nowym doświadczeniu
 
 Firma Microsoft zdaje sobie sprawę, że partnerzy potrzebują czasu na wdrożenie tych zmian i zapewnienie pomyślnego wdrożenia. Aby spełnić wymagania dotyczące gotowości operacyjnej i sprzedażowej partnerów, dodajemy kilka tygodni na przygotowania partnerów do wdrażania nowych ofert opartych na stanowiskoch handlowych oraz nowych zasad i możliwości, które dojdą do ogólnej dostępności na początku stycznia 2022 r. Będziemy kontynuować współpracę z partnerami w zakresie testowania i obsługi operacyjnej zmian niezbędnych do przejścia istniejącej firmy na nowy handel, a także wprowadzimy dodatkowe funkcje do nowego handlu, aby poprawić środowisko partnera i klienta. Możesz przejrzeć zasoby dotyczące gotowości i szkolenia [partnerów](./2021-september.md#14) wraz z [zasobami technicznymi w](../new-commerce-license-based.md) celu obsługi przejścia.
 
-Aby zbiegać się ze styczniowym ogólnym uruchomieniem dostępności, firma Microsoft zaoferuje dwie powiązane z czasem promocje, na miesięczne i roczne oferty w okresie od stycznia do czerwca 2022 r. Promocje będą stosowane do wszystkich nowych ofert komercyjnych opartych na stanowiskach handlowych z wyjątkiem Windows 365 oraz subskrypcji do 2400 miejsc. Te promocje dotyczące nowych ofert handlowych mają na celu wspieranie migracji do nowego doświadczenia handlowego. Wkrótce zostaną podane dalsze szczegóły dotyczące tych promocji.
+Aby zbiegać się ze styczniowym ogólnym uruchomieniem dostępności, firma Microsoft zaoferuje dwie powiązane z czasem promocje, na miesięczne i roczne oferty w okresie od stycznia do czerwca 2022 r. Promocje będą dotyczyć wszystkich nowych ofert komercyjnych opartych na stanowiskach z wyjątkiem Windows 365 oraz subskrypcji do 2400 miejsc. Te promocje dotyczące nowych ofert handlowych mają na celu wspieranie migracji do nowego doświadczenia handlowego. Wkrótce zostaną podane dalsze szczegóły dotyczące tych promocji.
 
 Poza zmianami na osi czasu wszystkie inne możliwości, funkcje i zasady w październikowej wersji technicznej pozostaną niezmienione.
 
-Firma Microsoft wie, jak technologia przyspieszyła zmiany w organizacjach na całym świecie. W związku z tym firmy naszych klientów zawsze ewoluują, a ekosystem partnerów firmy Microsoft musi nadal rozwijać się wraz z nimi, aby efektywnie spełniać ich potrzeby. Dzięki tym zmianom w ofertach opartych na stanowiskoch w nowym handlu i rozszerzeniu osi czasu ogólnej dostępności budować będziemy dzisiaj razem podstawę, która zapewni większe możliwości na przyszłość.
+Firma Microsoft wie, jak technologia przyspieszyła zmiany w organizacjach na całym świecie. W związku z tym firmy naszych klientów zawsze ewoluują, a ekosystem partnerów firmy Microsoft musi nadal rozwijać się wraz z nimi, aby efektywnie spełniać ich potrzeby. Dzięki tym zmianom w ofertach opartych na stanowiskoch w nowym handlu i rozszerzeniu osi czasu ogólnej dostępności budować razem podstawę, która zapewni większe możliwości na przyszłość.
 
 ### <a name="questions"></a>Masz pytania?
 
@@ -70,11 +70,11 @@ Partnerzy rozliczający się bezpośrednio, dostawcy pośredni i wielowarstwowi 
 
 ### <a name="summary"></a>Podsumowanie
 
-W przewodniku po usługach online i autoryzacji kanału oprogramowania w internecie w tej wersji w wersji 2018 w wersji 2018 w wersji 2019 w wersji 2018 w
+W przewodniku po usługach online i autoryzacji kanału oprogramowania w internecie w wersji 2018 w wersji 2018 w wersji 2018 w wersji 2018 w u.
 
 ### <a name="details"></a>Szczegóły
 
-Zgodnie z tym podsekcją usług online i autoryzacji kanału oprogramowania, w ramach tej sekcji zatytułowanej "Powiadomienie o zmianach", zatytułowanej "Zmiany przewodników", w twojej firmie Microsoft Partner Agreement Firma Microsoft informuje Użytkownika, że przewodnik dotyczący usług online i autoryzacji kanału oprogramowania jest aktualizowany. W tym miejscu jest [](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-download-pdf) dostępna wersja zapoznawcza zaktualizowanego przewodnika z ponownie wprowadzonymi zmianami [dostępnymi tutaj.](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-download-pdf) Aktualizacja stanie się obowiązuje po 30 dniach od daty tego powiadomienia. Nie musisz już nic ć zrobić.
+Zgodnie z tym podsekcją usług online i autoryzacji kanału oprogramowania, w ramach tej sekcji zatytułowanej "Powiadomienie o zmianach", zatytułowanej "Zmiany przewodników", w twojej firmie Microsoft Partner Agreement Firma Microsoft informuje Użytkownika, że przewodnik dotyczący usług online i autoryzacji kanału oprogramowania jest aktualizowany. W tym miejscu jest [](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-download-pdf) dostępna wersja zapoznawcza zaktualizowanego przewodnika z ponownie wprowadzonymi zmianami [dostępnymi tutaj.](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-redline-download-pdf) Aktualizacja rozpocznie obowiązywać po 30 dniach od daty powiadomienia. Nie trzeba nic dalej akcję podjąć.
 
 ### <a name="next-steps"></a>Następne kroki
 
@@ -84,7 +84,7 @@ ________________
 
 ### <a name="summary"></a>Podsumowanie
 
-Po 31 grudnia 2021 r. nie można odnowić licencji pakiet Software Assurance (SA) i Usługi online ani nowych zakupów licencji na oprogramowanie i usługi Usługi online za pośrednictwem programu licencjonowania open.
+Po 31 grudnia 2021 r. nie można odnowić licencji pakiet Software Assurance (SA) i Usługi online ani nowych zakupów licencji na oprogramowanie i usług Usługi online.
 
 ### <a name="categories"></a>Kategorie
 

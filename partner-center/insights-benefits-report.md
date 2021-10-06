@@ -9,12 +9,12 @@ author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 759d5d5f1d258325a00bbc53833059de61707c77
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 4121e754595bc4992196108cdbcf365a48ac50f4
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074453"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565278"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Raport korzyści dostępny na pulpicie nawigacyjnym Partner Center Szczegółowe informacje nawigacyjnym
 
@@ -40,7 +40,7 @@ W raporcie Korzyści można wizualizować następujące wykresy:
 
 Sekcja Podsumowanie zawiera korzyści przyznane w ramach licencjonowanego oprogramowania, usług w chmurze (spoza platformy Azure), subskrypcji usługi Visual Studio, pomocy technicznej oraz niektórych usług lub ofert w ramach programu Go-To-Market.
 
-Przykład: Microsoft Partner Network (MPN) kwalifikują się do pomocy technicznej dotyczącej produktów i produktów w chmurze. Partnerzy, którzy zdają kompetencję Silver, mają wsparcie techniczne dla 15 zdarzeń w przypadku produktów w środowisku lokalnym. W razie potrzeby mogą korzystać z tej pomocy technicznej. 
+Przykład: Microsoft Partner Network (MPN) kwalifikują się do pomocy technicznej dla produktów lokalnych i produktów w chmurze. Partnerzy, którzy zdają kompetencję Silver, mają wsparcie techniczne dla 15 zdarzeń dla produktów lokalnych. W razie potrzeby mogą korzystać z tej pomocy technicznej.
 
 :::image type="content" source="images/insights/benefits-summary.png" alt-text="podsumowanie korzyści.":::
 
@@ -59,7 +59,7 @@ Ten wykres przedstawia miesięczny trend licencji przyznanych w wybranym zakresi
 
 ## <a name="visual-studio-subscriptions"></a>Subskrypcje programu Visual Studio
 
-Ten wykres przedstawia trend miesięcznych subskrypcji Visual Studio aktywowanych względem subskrypcji przydzielonych w wybranym zakresie dat.
+Ten wykres przedstawia miesięczny trend subskrypcji Visual Studio aktywowanych względem subskrypcji, które zostały przydzielone w wybranym zakresie dat.
 
 Wybierz kartę w górnej części wykresu, aby wyświetlić trend określonej Visual Studio subskrypcji, która została udzielona jako korzyści. Kolumny na wykresie reprezentują licencje używane dla subskrypcji. Wykres liniowy reprezentuje ogólną liczbę licencji przypisanych do subskrypcji.
 

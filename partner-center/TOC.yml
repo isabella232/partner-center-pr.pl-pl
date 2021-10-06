@@ -264,14 +264,14 @@
           href: bulk-license-provisioning-for-multiple-users.md
         - name: Sprawdzanie kondycji usługi
           href: check-service-health.md
-        - name: Jak potwierdzić akceptację klienta Umowa z Klientem Microsoft
+        - name: Jak potwierdzić akceptację przez klienta Umowa z Klientem Microsoft
           href: confirm-customer-agreement.md
         - name: Zarządzanie subskrypcjami klientów
           href: create-a-new-subscription.md
         - name: Migrowanie subskrypcji do nowego handlu
           href: migrate-subscriptions-to-new-commerce.md
-        - name: Sprzedawanie oprogramowania lokalnego w ramach programu CSP
-          href: csp-on-premise-software.md
+        - name: Sprzedaż oprogramowania lokalnego za pośrednictwem programu CSP
+          href: csp-on-premises-software.md
         - name: Komunikacja z klientem od firmy Microsoft
           href: customer-communication-from-microsoft.md
         - name: Zapewnianie pomocy technicznej
@@ -300,7 +300,7 @@
           href: request-a-relationship-with-a-customer.md
     - name: Umowy klienta firmy Microsoft
       href: agreements.md
-    - name: Certyfikacja listy w programie Partner Finder
+    - name: Certyfikacja oferty w programie Partner Finder
       href: partner-finder-certification.md
     - name: Zasoby licencjonowania
       href: support-resources-licensing.md
@@ -330,7 +330,7 @@
           href: recon-file-charge-types.md
         - name: Pliki uzgodnień na podstawie użycia
           href: usage-based-recon-files.md
-        - name: Pliki uzgodnień użycia z ocenianą dobową oceną
+        - name: Pliki uzgodnień użycia ocenianego codziennie
           href: daily-rated-usage-recon-files.md
         - name: Pliki uzgodnień na podstawie licencji
           href: license-based-recon-files.md

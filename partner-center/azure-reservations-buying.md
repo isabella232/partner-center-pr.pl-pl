@@ -9,12 +9,12 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 112296baffe38b81a1a0516e62fa31525d1e3b3d
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 61ddb91e296436817e45ae0a2c3d9fe12b326f18
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246376"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565295"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Kupowanie Microsoft Azure rezerwacji w imieniu klientów w Partner Center
 
@@ -37,13 +37,13 @@ Przed zakupem rezerwacji platformy Azure w imieniu klientów zapoznaj się z wa�
 
 - Ceny komercyjne firmy Microsoft dla Ciebie nie obejmują podatków, chyba że Twoja lokalizacja to Brazylia. Jeśli Twoja lokalizacja to Brazylia, cena komercyjna uwzględnia odpowiednie podatki
 
-- Agenci działu sprzedaży i pomocy technicznej potrzebują jawnego dostępu do subskrypcji platformy Azure Portal Azure, aby można było kupić ją lub zarządzać jej w imieniu klienta, w tym o wymianę i zwrot kosztów, w imieniu klienta  
+- Agenci działu sprzedaży i pomocy technicznej potrzebują jawnego dostępu do subskrypcji platformy Azure, aby w imieniu klienta kupić subskrypcję platformy Azure lub zarządzać Azure Portal żądaniami pomocy technicznej, w tym dotyczącymi wymiany i zwrotów kosztów  
 
 - Jeśli jesteś dostawcą pośrednim i kupujesz rezerwacje platformy Azure za pośrednictwem usługi Azure Portal, partner rekordu (odsprzedawca pośredni) jest dziedziczony z wybranej Azure CSP subskrypcji.
 
 - Partnera rekordów rezerwacji platformy Azure nie można zmienić po zakupie. Możesz anulować istniejącą rezerwację i zakupić nową rezerwację u nowego partnera rekordów.
 
-- Jeśli klient chce przenieść subskrypcję platformy Azure z programu Direct lub EA do programu CSP, rezerwacje nie zostaną przeniesione.
+- Jeśli klient chce przenieść subskrypcję platformy Azure z programu Direct lub EA do programu CSP, rezerwacje nie są przenoszone.
 
 ## <a name="azure-reservations-unavailable-markets"></a>Rezerwacje platformy Azure są niedostępne na rynkach
 
@@ -87,56 +87,56 @@ Przed zakupem rezerwacji platformy Azure w imieniu klientów zapoznaj się z wa�
 > | Falklandy     | Nauru     | Stany Zjednoczone Odlying Islands   |
 > | Gujana Francuska     | Nowa Kaledonia     | Vanuatu   |
 > | Polinezja Francuska     | Niger     | Watykan   |
-> | Francuskie Terytoria Południowe i Antarktyczne     | Niue     | Wallis i Futuna   |
+> | Francuskie Terytoria Południowe i Antarktyczne     | Niue     | Wallis i Ichuna   |
 > | Gabon     | Norfolk     | Jemen   |
 > | Gambia     | Mariany Północne     |    |
 > | Gibraltar     | Palau       |    |
 
 ## <a name="purchase-azure-reservations"></a>Zakup rezerwacji platformy Azure
 
-Wykonaj poniższe kroki, aby kupić Microsoft Azure rezerwacje w imieniu klientów w Partner Center. (Czy chcesz, aby klienci mogli kupować własne rezerwacje platformy Azure z wcześniejszej subskrypcji platformy Azure, która została dla nich zakupiona? Zobacz [Temat Nadaj klientom uprawnienia do kupowania własnych rezerwacji platformy Azure).](give-customers-permission.md)
+Wykonaj poniższe kroki, aby Microsoft Azure rezerwacje w imieniu klientów w Partner Center. (Czy chcesz, aby klienci mogli kupować własne rezerwacje platformy Azure w ramach wcześniejszej subskrypcji platformy Azure, która została dla nich zakupiona? Zobacz [Temat Nadaj klientom uprawnienia do kupowania własnych rezerwacji platformy Azure).](give-customers-permission.md)
 
 1. Wybierz **pozycję Klienci** z Partner Center menu.  
 
 2. Na stronie **Klienci** znajdź klienta, który chce kupić rezerwacje platformy Azure, a następnie wybierz strzałkę w dół, aby rozwinąć wiersz klienta.  
 
-3. Wybierz **pozycję Dodaj produkty,** a następnie wybierz pozycję **Azure**. 
+3. Wybierz **pozycję Dodaj produkty,** a następnie wybierz pozycję **Azure.** 
 
     a. Wybierz segment rynku klienta z **listy Segment.**
 
-    b. Wybierz **pozycję Rezerwacje** z **listy Typ** produktu.
+    b. Wybierz **pozycję Rezerwacje** z listy **Typ** produktu.
 
-    c. Wybierz typ rezerwacji, który klient chce wybrać z **listy Typ rezerwacji.**
+    c. Wybierz typ rezerwacji, których chce klient, z **listy Typ rezerwacji.**
 
-4. Rezerwacje platformy Azure muszą być skojarzone z aktywną subskrypcją platformy Azure. Wybierz subskrypcję klienta, do której chcesz dodać rezerwacje platformy Azure, z **listy Subskrypcja klienta.** 
+4. Rezerwacje platformy Azure muszą być skojarzone z aktywną subskrypcją platformy Azure. Wybierz subskrypcję klienta, do której chcesz dodać rezerwacje platformy Azure, z **listy Subskrypcja** klienta. 
 
    >[!IMPORTANT]
    >Jeśli klient nie ma jeszcze aktywnej subskrypcji platformy Azure, wybierz pozycję **Azure,** aby dodać ją teraz. 
 
-5. Użyj filtrów, aby znaleźć rezerwacje platformy Azure na maszynach wirtualnych, które spełniają wymagania klienta.  
+5. Użyj filtrów, aby znaleźć rezerwacje platformy Azure na maszynach wirtualnych spełniających wymagania klienta.  
 
-6. Po odnalezieniu rezerwacji, które chcesz kupić, wprowadź liczbę wystąpień zarezerwowanych, które będą potrzebne klientowi w **Quantity,** a następnie wybierz pozycję **Dodaj do koszyka**.  
+6. Po odnalezieniu rezerwacji, które chcesz kupić, wprowadź liczbę wystąpień zarezerwowanych, których klient będzie potrzebować w opcji **Quantity** (Ilość), a następnie wybierz pozycję Add to cart (Dodaj **do koszyka).**  
 
-7. Powtarzaj kroki 5 i 6 do momentu dodania wszystkich niezbędnych elementów do zamówienia. Wybierz **pozycję Przejrzyj,** aby sprawdzić, czy zamówienie jest poprawne.  
+7. Powtarzaj kroki 5 i 6 do momentu dodania wszystkich niezbędnych elementów do zamówienia. Wybierz **pozycję Przejrzyj,** aby sprawdzić, czy twoje zamówienie jest prawidłowe.  
 
 8. Na **stronie Przeglądanie zamówień** możesz: 
 
     - Sprawdź lub zmień ilość wystąpień zarezerwowanych.
 
-    - Wybierz zakres rezerwacji. Zakres rezerwacji może obejmować jedną subskrypcję lub wiele subskrypcji (zakres udostępniony). Jeśli zakres rezerwacji wynosi jedną subskrypcję, rabat za rezerwację jest stosowany tylko do tej subskrypcji. Jeśli wybierzesz opcję Udostępnione, rabat za rezerwację zostanie zastosowany do wszystkich subskrypcji w kontekście rozliczeń klienta. 
+    - Wybierz zakres rezerwacji. Zakres rezerwacji może obejmować jedną subskrypcję lub wiele subskrypcji (zakres udostępniony). Jeśli zakres rezerwacji zostanie ograniczony do pojedynczej subskrypcji, rabat za rezerwację zostanie zastosowany tylko do tej subskrypcji. W przypadku wybrania opcji udostępnionej rabat za rezerwację jest stosowany do wszystkich subskrypcji w kontekście rozliczeń klienta. 
 
-      >[!NOTE] 
-      >Jeśli zdecydujesz się ograniczyć zakres rezerwacji do pojedynczej subskrypcji platformy Azure, może być konieczne zwiększenie limitu przydziału procesorów wirtualnych subskrypcji. Aby zwiększyć limit przydziału procesorów wirtualnych subskrypcji, musisz utworzyć żądanie obsługi w Azure Portal. Postępuj zgodnie z [instrukcjami w tym temacie,](/azure/azure-supportability/resource-manager-core-quotas-request) aby utworzyć żądanie. 
+      > [!NOTE] 
+      > Jeśli zdecydujesz się ograniczyć zakres rezerwacji do pojedynczej subskrypcji platformy Azure, może być konieczne zwiększenie limitu przydziału procesorów wirtualnych subskrypcji. Aby zwiększyć limit przydziału procesorów wirtualnych subskrypcji, należy utworzyć żądanie obsługi w Azure Portal. Postępuj zgodnie z [instrukcjami](/azure/azure-supportability/resource-manager-core-quotas-request) w tym temacie, aby utworzyć żądanie. 
 
-      >[!NOTE]   
-      >Jeśli klient jest w ramach planu platformy Azure, **dla ustawienia Zakres**  zostanie ustawiona wartość **Udostępnione**. 
+      > [!NOTE]   
+      > Jeśli klient jest w ramach planu platformy Azure, dla ustawienia **Zakres** zostanie ustawiona wartość **Udostępnione** w momencie zakupu. Można ją zmienić później.
 
-    - Jeśli jesteś partnerem dostawcy, wybierz odsprzedawcę, którego chcesz skojarzyć z produktem.
+    - Jeśli jesteś partnerem dostawcy, wybierz odsprzedawcę, który chcesz skojarzyć z produktem.
     
-    - Jeśli rezerwacja platformy Azure obsługuje opcję Plan rozliczeniowy, możesz wybrać częstotliwość rozliczeń jako miesięczną z menu rozwijanego. 
+    - Jeśli rezerwacja platformy Azure obsługuje opcję Plan rozliczeniowy, możesz wybrać częstotliwość rozliczeń co miesiąc z menu rozwijanego. 
     - Jeśli rezerwacja platformy Azure nie obsługuje opcji Plan rozliczeniowy, częstotliwość rozliczeń jest domyślnie rozliczeniowa. 
 
-9. Wybierz **pozycję Kup,** aby kupić zamówienie. Szczegóły zamówienia, w tym numer zamówienia, są wyświetlane na **stronie Potwierdzanie.** Wybierz **pozycję Gotowe,** aby przejść do **strony Historii** zamówień. 
+9. Wybierz **pozycję Kup,** aby zakupić zamówienie. Szczegóły zamówienia, w tym numer zamówienia, są wyświetlane na **stronie Potwierdzanie.** Wybierz **pozycję Gotowe,** aby przejść **do strony Historii** zamówień. 
 
 10. Aby zarządzać rezerwacją klienta w Azure Portal, znajdź klienta  na stronie Klienci, a następnie wybierz strzałkę w dół, aby rozwinąć wiersz klienta. Wybierz **Microsoft Azure portal zarządzania,** aby otworzyć rekord klienta w Azure Portal.
 
@@ -145,7 +145,7 @@ Wykonaj poniższe kroki, aby kupić Microsoft Azure rezerwacje w imieniu klient�
 |**Aby uzyskać informacje o**   |**Przeczytaj to**    |
 |:-----------------------------|:-----------------|
 |Rezerwacje platformy Azure w programie CSP — omówienie  | [Sprzedaż Microsoft Azure wystąpień zarezerwowanych](azure-reservations.md) |
-|Zarządzanie rezerwacjami platformy Azure w Partner Center | [Zarządzanie rezerwacjami platformy Azure w usłudze Partner Center](azure-reservations-manage.md)
+|Zarządzanie rezerwacjami platformy Azure w usłudze Partner Center | [Zarządzanie rezerwacjami platformy Azure w usłudze Partner Center](azure-reservations-manage.md)
 |Określanie prawidłowego rozmiaru maszyny wirtualnej i weryfikowanie użycia maszyny wirtualnej klienta   |[Rozmiar maszyny wirtualnej dla maksymalnego użycia rezerwacji platformy Azure](azure-usage.md)   |
-|Kupowanie rezerwacji platformy Azure przy użyciu interfejsu API Partner Center API | [Informacje Azure Reserved VM Instances](/partner-center/develop/purchase-azure-reservations) w dokumentacji Partner Center deweloperów   |
+|Kupowanie rezerwacji platformy Azure przy użyciu interfejsu API Partner Center API | [Informacje Azure Reserved VM Instances](/partner-center/develop/purchase-azure-reservations) w dokumentacji Partner Center dewelopera   |
 |Udzielanie klientom uprawnień do zakupu własnych rezerwacji platformy Azure  | [Nadaj klientom uprawnienia do zakupu własnych rezerwacji platformy Azure](give-customers-permission.md)  |
