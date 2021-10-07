@@ -1,23 +1,23 @@
 ---
 title: Często zadawane pytania dotyczące poleceń Partner Center poleceń
 ms.topic: article
-ms.date: 09/27/2021
+ms.date: 09/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
 description: Często zadawane pytania dotyczące poleceń Partner Center poleceń
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
-ms.openlocfilehash: 2fa7ed91e4ff2dd1dbab3fc89e4acdcbc61c9141
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 724650939f7b3a61d992e7ffed70ebcb3493f4a1
+ms.sourcegitcommit: 77737d8f986a1afb3d923c130936e2f73ce07879
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129070772"
+ms.lasthandoff: 10/07/2021
+ms.locfileid: "129654776"
 ---
 # <a name="frequently-asked-questions-on-referrals"></a>Często zadawane pytania dotyczące poleceń
 
-Ten artykuł zawiera odpowiedzi na niektóre często zadawane pytania dotyczące Partner Center poleceń
+Ten artykuł zawiera odpowiedzi na niektóre często zadawane pytania dotyczące Partner Center poleceń.
 
 ## <a name="what-should-i-do-if-i-dont-have-access-to-co-sell-opportunities"></a>Co zrobić, jeśli nie mam dostępu do możliwości współs sprzedaży?
 
@@ -35,7 +35,7 @@ Aby utworzyć możliwość współpracy sprzedaży w Centrum partnerskim, musisz
 
 Nie, transakcji nie można modyfikować, gdy przejdą do stanu terminalu. Wygasły, odrzucony, wygrany i utracony są stanami terminalu, w których nie są możliwe żadne dalsze aktualizacje transakcji. Należy zachować ostrożność podczas przenoszenia transakcji do dowolnego z tych stanów końcowych.
 
-## <a name="who-gets-an-email-notification-from-partner-center"></a>KtoTo otrzymuje powiadomienie e-mail od Partner Center?
+## <a name="who-gets-an-email-notification-from-partner-center"></a>KtoTo otrzymujesz powiadomienie e-mail od Partner Center?
 
 W poniższym przepływie pracy wyjaśniono, jak wiadomości e-mail są wysyłane do partnerów z systemu poleceń Partner Center dla nowych poleceń przychodzących partnerów.
 
@@ -49,7 +49,7 @@ Tylko zachęty ip kwalifikują się do rejestracji transakcji. Należą do nich:
 - Aplikacje biz w chmurze Premium
 - Aplikacje biz w standardowych
 
-## <a name="how-do-i-know-if-microsoft-has-accepted-or-declined-a-co-sell-deal"></a>Jak mogę, czy firma Microsoft zaakceptowała lub odrzuciła umowę sprzedaży typu "co-sell"?
+## <a name="how-do-i-know-if-microsoft-has-accepted-or-declined-a-co-sell-deal"></a>Jak mogę, czy firma Microsoft zaakceptowała lub odrzuciła umowę sprzedaży?
 
 Przejdź do odpowiedniej szansy sprzedaży w Partner Center, aby wyświetlić **sekcję stanu Microsoft** transakcji.
 

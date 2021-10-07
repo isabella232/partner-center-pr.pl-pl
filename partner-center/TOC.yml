@@ -12,7 +12,7 @@
       href: mpn-create-a-partner-center-account.md
     - name: Dostawca rozwiązań w chmurze (CSP)
       href: enrolling-in-the-csp-program.md
-    - name: Pośredni lub bezpośredni CSP
+    - name: Pośredni lub bezpośredni cSP
       href: csp-overview.md
     - name: Wymagania dotyczące bezpośrednich partnerów CSP
       href: direct-partner-new-requirements.md
@@ -20,9 +20,9 @@
       href: transition-direct-to-indirect.md
     - name: Zadania odsprzedawcy pośredniego
       href: indirect-reseller-tasks-in-partner-center.md
-    - name: 'Zarejestruj się, aby zostać Azure Expert MSP'
+    - name: 'Zarejestruj się, aby być Azure Expert MSP'
       href: azure-expert-msp.md
-    - name: Rejestrowanie jako Panel sterowania dostawcy
+    - name: Zarejestruj się jako Panel sterowania dostawcy
       href: enroll-as-cpv.md
     - name: Ukończenie weryfikacji konta
       href: verification-responses.md
@@ -124,7 +124,7 @@
       href: mpn-view-print-maps-invoice.md
     - name: Software Assurance
       items:
-        - name: pakiet Software Assurance programach
+        - name: pakiet Software Assurance programowe
           href: software-assurance-lp.md
         - name: Kupony na szkolenia (SATV)
           href: software-assurance-satv.md
@@ -140,11 +140,11 @@
           href: learn-about-competencies.md
         - name: Wyłączenie kompetencji dla deweloperów aplikacji
           href: app-dev-isv.md
-        - name: Rejestracja jako Edukacja partnerów
+        - name: Zarejestruj się jako Edukacja Partner
           href: mpn-benefits-map-competency-learning-option-enroll.md
         - name: Kompetencje — często zadawane pytania
           href: competencies-faq.yml
-        - name: Płatność opłatami za kompetencje
+        - name: Opłacanie opłat za kompetencje
           href: mpn-pay-fee-silver-gold-competency.md
         - name: Korzystanie z raportu umiejętności
           href: mpn-skills-report.md
@@ -154,7 +154,7 @@
           href: advanced-specializations.md
         - name: Zastosuj lub sprawdź stan
           href: advanced-specializations-apply.md
-    - name: Konsolidowanie dzierżaw autoryzacji regionalnej programu CSP
+    - name: Konsolidowanie regionalnych dzierżaw autoryzacji CSP
       href: csp-regional-authorization-tenant-consolidation.md
     - name: Kojarzenie konta rozwiązania Learn
       href: ms-learn-associate.md
@@ -224,6 +224,8 @@
           href: partner-sales-connect-to-partner-center-iot.md
     - name: Rejestracja transakcji
       href: register-deals.md
+    - name: Zarządzanie ocenami rozwiązań
+      href: solution-assessments.md
     - name: Często zadawane pytania dotyczące poleceń
       href: referrals-faq.md
 - name: Klienci
@@ -264,7 +266,7 @@
           href: bulk-license-provisioning-for-multiple-users.md
         - name: Sprawdzanie kondycji usługi
           href: check-service-health.md
-        - name: Jak potwierdzić akceptację przez klienta Umowa z Klientem Microsoft
+        - name: Jak potwierdzić akceptację klienta Umowa z Klientem Microsoft
           href: confirm-customer-agreement.md
         - name: Zarządzanie subskrypcjami klientów
           href: create-a-new-subscription.md
@@ -300,7 +302,7 @@
           href: request-a-relationship-with-a-customer.md
     - name: Umowy klienta firmy Microsoft
       href: agreements.md
-    - name: Certyfikacja oferty w programie Partner Finder
+    - name: Certyfikacja listy w programie Partner Finder
       href: partner-finder-certification.md
     - name: Zasoby licencjonowania
       href: support-resources-licensing.md
@@ -330,7 +332,7 @@
           href: recon-file-charge-types.md
         - name: Pliki uzgodnień na podstawie użycia
           href: usage-based-recon-files.md
-        - name: Pliki uzgodnień użycia ocenianego codziennie
+        - name: Pliki uzgodnień użycia z ocenianą dobową oceną
           href: daily-rated-usage-recon-files.md
         - name: Pliki uzgodnień na podstawie licencji
           href: license-based-recon-files.md
@@ -393,6 +395,8 @@
           href: csp-commercial-marketplace-purchase.md
         - name: Zarządzanie licencjonowaniem w ofertach na platformie handlowej
           href: csp-commercial-marketplace-licensing.md
+        - name: Marginesy witryny Marketplace
+          href: csp-commercial-marketplace-margins.md
         - name: Oferty na platformie handlowej z wyłącznością od niezależnych dostawców oprogramowania
           href: isv-opt-in.md
         - name: Zarządzanie ofertami na platformie handlowej
@@ -461,7 +465,7 @@
           href: new-commerce-license-based.md
           displayName: new commerce
           items:
-            - name: Nowa płatność za usługi telekomunikacyjne dla handlu
+            - name: Nowy sklep telco payg
               href: new-commerce-telco-payg.md
             - name: Nowe promocje handlowe
               href: new-commerce-promotions.md
@@ -709,7 +713,7 @@
           href: analyze-indirect-resellers.md
         - name: Subskrypcje i licencje
           href: analyze-subscriptions-licenses.md
-    - name: Dostęp programowy do szczegółowych informacji
+    - name: Programowy dostęp do szczegółowych informacji
       items:
         - name: Rozpoczęcie pracy
           href: insights-programmatic-get-started.md
