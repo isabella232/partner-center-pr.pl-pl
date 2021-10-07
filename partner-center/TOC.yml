@@ -12,7 +12,7 @@
       href: mpn-create-a-partner-center-account.md
     - name: Dostawca rozwiązań w chmurze (CSP)
       href: enrolling-in-the-csp-program.md
-    - name: Pośredni lub bezpośredni cSP
+    - name: Pośredni lub bezpośredni CSP
       href: csp-overview.md
     - name: Wymagania dotyczące bezpośrednich partnerów CSP
       href: direct-partner-new-requirements.md
@@ -20,9 +20,9 @@
       href: transition-direct-to-indirect.md
     - name: Zadania odsprzedawcy pośredniego
       href: indirect-reseller-tasks-in-partner-center.md
-    - name: 'Zarejestruj się, aby być Azure Expert MSP'
+    - name: 'Zarejestruj się, aby zostać Azure Expert MSP'
       href: azure-expert-msp.md
-    - name: Zarejestruj się jako Panel sterowania dostawcy
+    - name: Rejestrowanie jako Panel sterowania dostawcy
       href: enroll-as-cpv.md
     - name: Ukończenie weryfikacji konta
       href: verification-responses.md
@@ -124,7 +124,7 @@
       href: mpn-view-print-maps-invoice.md
     - name: Software Assurance
       items:
-        - name: pakiet Software Assurance programowe
+        - name: pakiet Software Assurance programach
           href: software-assurance-lp.md
         - name: Kupony na szkolenia (SATV)
           href: software-assurance-satv.md
@@ -140,11 +140,11 @@
           href: learn-about-competencies.md
         - name: Wyłączenie kompetencji dla deweloperów aplikacji
           href: app-dev-isv.md
-        - name: Zarejestruj się jako Edukacja Partner
+        - name: Rejestracja jako Edukacja partnerów
           href: mpn-benefits-map-competency-learning-option-enroll.md
         - name: Kompetencje — często zadawane pytania
           href: competencies-faq.yml
-        - name: Opłacanie opłat za kompetencje
+        - name: Płatność opłatami za kompetencje
           href: mpn-pay-fee-silver-gold-competency.md
         - name: Korzystanie z raportu umiejętności
           href: mpn-skills-report.md
@@ -154,7 +154,7 @@
           href: advanced-specializations.md
         - name: Zastosuj lub sprawdź stan
           href: advanced-specializations-apply.md
-    - name: Konsolidowanie regionalnych dzierżaw autoryzacji CSP
+    - name: Konsolidowanie dzierżaw autoryzacji regionalnej programu CSP
       href: csp-regional-authorization-tenant-consolidation.md
     - name: Kojarzenie konta rozwiązania Learn
       href: ms-learn-associate.md
@@ -305,7 +305,7 @@
     - name: Zasoby licencjonowania
       href: support-resources-licensing.md
     - name: Przywracanie uprawnień administratora dla subskrypcji w ramach programu Azure CSP
-      href: revoke-reinstate-csp.md
+      href: reinstate-csp.md
     - name: Przenoszenie subskrypcji platformy Azure
       href: switch-azure-subscriptions-to-a-different-partner.md
     - name: Przenoszenie użytkowników usług opartych na licencji do programu CSP
@@ -461,7 +461,7 @@
           href: new-commerce-license-based.md
           displayName: new commerce
           items:
-            - name: Nowy sklep telco payg
+            - name: Nowa płatność za usługi telekomunikacyjne dla handlu
               href: new-commerce-telco-payg.md
             - name: Nowe promocje handlowe
               href: new-commerce-promotions.md
@@ -519,7 +519,7 @@
           href: incentives-enroll.md
         - name: Sprawdzanie uprawnień do programu
           href: incentives-determined-your-program-eligibility.md
-        - name: Informacje o zachętach do wypłat i profilów podatkowych
+        - name: Informacje o wypłatach zachęt i profilach podatkowych
           href: incentives-create-and-manage-your-payout-and-tax-profiles.md
         - name: Sprawdzanie kwalifikacji dochodów
           href: incentives-confirm-your-earnings-eligibility.md
@@ -529,7 +529,7 @@
       items:
         - name: Omówienie zaangażowania mci i uprawnienia
           href: mci-engagements.md
-        - name: Strona customers for MCI engagements (Strona klientów z angażowania klientów w angażowanie mci)
+        - name: Strona Customers (Klienci) dla zaangażowania mci
           href: mci-engagements-customers.md
         - name: Prześlij roszczenie z warsztatów mci engagements
           href: mci-engagements-workshop.md
@@ -611,7 +611,7 @@
       href: non-payment-fraud-misuse.md
     - name: Rozliczenia operatora komórkowego
       href: mobile-operator-billing.md
-    - name: Uzyskiwanie zapłaty za pośrednictwem ofert w witrynie Marketplace
+    - name: Uzyskiwanie zapłaty za pośrednictwem ofert platformy handlowej
       href: marketplace-get-paid.md
     - name: 'Progi, metody i horyzonty czasowe płatności'
       href: payment-thresholds-methods-timeframes.md
@@ -709,7 +709,7 @@
           href: analyze-indirect-resellers.md
         - name: Subskrypcje i licencje
           href: analyze-subscriptions-licenses.md
-    - name: Programowy dostęp do szczegółowych informacji
+    - name: Dostęp programowy do szczegółowych informacji
       items:
         - name: Rozpoczęcie pracy
           href: insights-programmatic-get-started.md
@@ -749,7 +749,7 @@
               href: insights-programmatic-analytics-api-delete-report.md
             - name: Wstrzymywanie wykonywania raportów
               href: insights-programmatic-analytics-api-pause-report-executions.md
-            - name: Wznawianie wykonywania raportów
+            - name: Wznawianie wykonywania raportu
               href: insights-programmatic-analytics-api-resume-report-executions.md
 - name: Pomoc i obsługa techniczna
   items:

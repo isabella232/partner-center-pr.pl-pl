@@ -1,6 +1,6 @@
 ---
 title: Podsumowanie przychodów na pulpicie Partner Center nawigacyjnym
-description: Możesz użyć podsumowania Przychody w widoku przychodów i zarobków oraz wyeksportować dane dotyczące dowolnych transakcji, które nie są kwalifikowane.
+description: Możesz użyć podsumowania Przychody, aby zrozumieć, w jaki sposób przychód generowany przez użycie usług platformy Azure przez klientów wpływa na twoje zarobki i dlaczego niektóre przychody mogą być określone jako niekwalifikują się do zarobków.
 author: satinder37
 ms.author: sabaja
 ms.service: partner-dashboard
@@ -8,12 +8,12 @@ ms.topic: conceptual
 ms.date: 10/04/2021
 ms.custom: template-concept
 customer intent: As an incentive user or incentive admin, I want to be able to read and export revenue data from Partner Center so I can see our earnings and learn why any transactions were reported ineligible.
-ms.openlocfilehash: 9ec9d64127f537ac74615a8fbe17499ebb5872dd
-ms.sourcegitcommit: cf8c78e0c8831371432007d5ab05f934f15a77b5
+ms.openlocfilehash: 11e58324adf38e92fc892ec5dd62933e6372f2cb
+ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "129528631"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129593348"
 ---
 # <a name="revenue-summary"></a>Podsumowanie przychodu
 
@@ -117,21 +117,21 @@ Istnieją trzy kategorie uprawnień:
 
 ## <a name="exporting-data"></a>Eksportowanie danych
 
-Możesz pobrać informacje o niekwalifikalnych transakcjach (ale nie kwalifikujących się transakcjach) w podsumowaniu przychodu.
+Możesz pobrać informacje o transakcjach, które nie są uprawnione (ale niekwalifikują się) w podsumowaniu przychodu.
 
 :::image type="content" source="images/revenue-summary/export-data-page.png" alt-text="Zrzut ekranu przedstawiający stronę Eksportowanie danych w Partner Center":::
 
 ### <a name="exported-data-attributes"></a>Atrybuty wyeksportowanych danych
 
-Atrybuty transakcji, które nie są kwalifikowane, obejmują:
+Atrybuty transakcji, które nie są kwalifikowane:
 
 |Nazwa atrybutu  |Opis  |
 |---------|---------|
-|agreementNumber (numer umowy)|Numer umowy (dostępny tylko w przypadku)|
+|agreementNumber|Numer umowy (dostępny tylko w odpowiednich przypadkach)|
 |customerId|Tożsamość klienta skojarzonego z subskrypcją/zasobem. (W przypadku użycia platformy Azure te informacje nie są dostępne przez pierwsze 30–45 dni nowej subskrypcji, chyba że utworzono pierwszą fakturę).|
 |customerIdType|Identyfikator TPID lub MCAPI|
 |Customername|Nazwa klienta|
-|invoiceNumber|Numer faktury (dostępny tylko dla prowadzonej przez partnera, prowadzonej przez klienta i prowadzonej przez klienta)|
+|invoiceNumber|Numer faktury (dostępny tylko dla partnerów, kierowanych przez pola i kierowanych przez klienta)|
 |partnerCountryCode|Zarejestrowanej lokalizacji MPN|
 |partnerId|Identyfikator MPN zarejestrowanego partnera|
 |nazwa_partnera|Nazwa partnera|
@@ -140,14 +140,14 @@ Atrybuty transakcji, które nie są kwalifikowane, obejmują:
 |reason|Przyczyna niekwalifikowalności|
 |subscriptionId|Identyfikator subskrypcji|
 |transactionAmountUSD|Kwota zużycia w dolarach amerykańskich|
-|Transactiondate|Data użycia lub rozliczeń
-|unearnedId|Unikatowy identyfikator, który może pomóc w utworzeniu zapytania do pomocy technicznej|
+|Transactiondate|Data zużycia lub rozliczenia
+|unearnedId|Unikatowy identyfikator, który może pomóc w utworzeniu zapytania o pomoc techniczną|
 |workload|Nazwa usługi lub nazwa obciążenia|
 
 ## <a name="next-steps"></a>Następne kroki
 
-Aby uzyskać więcej informacji na temat transakcji, przychodów, zarobków i płatności, zobacz następujące artykuły.
+Aby uzyskać więcej informacji o transakcjach, przychodach, zarobkach i płatnościach, zobacz następujące artykuły.
 
-- Wyświetl stronę [Historia transakcji,](https://partner.microsoft.com/dashboard/payouts/reports/transactionhistory) aby wyświetlić zarobki i skojarzone szczegóły transakcji dla wszystkich programów z odpowiednim stanem płatności.
+- Wyświetl stronę [Historia transakcji,](https://partner.microsoft.com/dashboard/payouts/reports/transactionhistory) aby wyświetlić zarobki i powiązane szczegóły transakcji dla wszystkich programów z odpowiednim stanem płatności.
 - Wyświetl stronę [Płatności, aby](https://partner.microsoft.com/dashboard/payouts/reports/incentivepayments) wyświetlić ukończone i oczekujące płatności dla wszystkich programów.
 - Wyświetl stronę [Zestawienia wypłat,](payout-statement.md) aby uzyskać przegląd wypłat z ofert sprzedawanych za pośrednictwem platformy handlowej.

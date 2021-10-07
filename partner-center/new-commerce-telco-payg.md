@@ -1,22 +1,22 @@
 ---
-title: Nowy sklep telekomunikacyjny z płatnością zgodnie z ty-
+title: Nowy sklep telekomunikacyjny z płatnością zgodnie z ty
 ms.topic: article
 ms.date: 09/03/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Dowiedz się więcej o nowych doświadczeniach handlowych dotyczących kupowania ofert, które umożliwiają płatność zgodnie z modelem płatności zgodnie z modelem użytkowania.
+description: Dowiedz się więcej o nowych doświadczeniach handlowych dotyczących zakupów ofert, które umożliwiają płacenie zgodnie z modelem płatności zgodnie z modelem użytkowania.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8265cb3ce77183c4919e9b8e4e028bb66e8cd2f7
-ms.sourcegitcommit: 462d6026287b85c9feea602af5bcdf924f3e6976
+ms.openlocfilehash: a6abf0a837758819fba8c3a584ba68216657a2b9
+ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "129452500"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129593246"
 ---
-# <a name="introduction-new-commerce-overage-for-telco-pay-as-you-go"></a>Wprowadzenie: Nowa nadgorę handlowa dla programu telekomunikacyjnego z płatnością zgodnie z ty
+# <a name="introduction-new-commerce-overage-for-telco-pay-as-you-go"></a>Wprowadzenie: Nowa nadgorę handlowa dla programu Telco z płatnością zgodnie z ty
 
 **Odpowiednie role**
 
@@ -27,37 +27,40 @@ ms.locfileid: "129452500"
 > [!NOTE]
 > Nowe zmiany w oknie handlowym są obecnie dostępne tylko dla partnerów, którzy są częścią nowego Microsoft 365/Dynamics 365 w wersji Technical Preview.
 
-Niektóre produkty oparte na licencjach obejmują usługi z przydzielonymi planami połączeń, które zwykle obejmują alokację na licencję na minuty miesięcznie, zwykle 120 na licencję. 
+Niektóre produkty oparte na licencjach obejmują usługi z przydzielonymi planami połączeń, które zwykle obejmują alokację na licencję na minuty miesięcznie, zazwyczaj 120 na licencję. 
 
-W tradycyjnych scenariuszach z partnerami opartymi na licencjach nie było możliwości włączenia użycia usług poza comiesięczne limity. Klienci potrzebują więcej niż 120 minut na zakup środków komunikacyjnych lub *comm samych* środków bezpośrednio od firmy Microsoft.  Te środki na komunikację nie były oferowane w Partner Center.
+W tradycyjnych scenariuszach partnerskich opartych na licencjach nie było możliwości włączenia użycia usług poza comiesięczne limity. Klienci potrzebują więcej niż 120 minut na zakup środków komunikacyjnych lub *comm bezpośrednio* od firmy Microsoft.  Te środki na komunikację nie były oferowane w Partner Center.
 
-## <a name="using-new-commerce-telco-pay-as-you-go"></a>Korzystanie z nowego programu telekomunikacyjnego do płatności zgodnie z użyciem
+## <a name="using-new-commerce-telco-pay-as-you-go"></a>Korzystanie z nowego programu telekomunikacyjnego z płatnością zgodnie z użyciem
 
-To ograniczenie zostało rozwiązane w nowym handlu, dzięki czemu partner może włączyć możliwości obsługi nadsyłania dla usług, które na to zezwalają. Partnerzy mogą kupować oferty, które obejmują możliwości w zakresie nadkupienia. Te oferty są identyfikowane w kolumnie tagów cennika *includeOverage*. SKU katalogu zawiera również właściwość, aby określić, czy SKU obsługuje możliwość przesłonić. Partnerzy po prostu kupują oferty, a system konfiguruje subskrypcję z opłatami za nadliczbowe, która nie jest kosztem, i nalicza opłaty tylko wtedy, gdy użytkownicy klienta zaćmią przydzielone miesięczne minuty połączenia, które są dostępne wraz z zakupioną ofertą. 
+To ograniczenie zostało rozwiązane w nowym handlu, dzięki czemu partner może włączyć możliwości obsługi overage dla usług, które na to zezwalają. Partnerzy mogą kupować oferty, które obejmują możliwości w zakresie nadkupienia. Te oferty są identyfikowane w kolumnie tagów cennika *IncludeOverage*. SKU wykazu zawiera również właściwość, aby określić, że SKU obsługuje możliwość przesłonić. Partnerzy po prostu kupują oferty, a system konfiguruje subskrypcję overage, która nie jest kosztem i jest naliczana tylko wtedy, gdy użytkownicy klienta zasłanią przydzielone miesięczne minuty rozmów telefonicznych, które są dostępne wraz z zakupioną ofertą. 
 
-Partnerzy mogą określić, które jednostki SKU produktu obejmują możliwości dotyczące nadwyżeń według 
+Partnerzy mogą określić, które jednostki SKU produktu obejmują możliwości dotyczące przesłoni 
 
 - Wyświetlanie jednostki SKU produktów w katalogu centrum partnerskiego
-- Filtrowanie nowego cennika handlowego według **includesOverage** w kolumnie tagów
+- Filtrowanie nowego cennika handlowego według **wartości includesOverage w** kolumnie tagów
 
-Partnerzy, którzy kupują produkty z nadkupieniami, mogą to umożliwić, korzystając z strony Zarządzanie **nadkupiami** na stronie Zarządzanie subskrypcjami. Interfejs zarządzania opłatami za nadsieć umożliwia partnerowi aktywowanie i przypisanie subskrypcji platformy Azure, do której będą przepływać opłaty za nadsieć. W dowolnym momencie partner może wyłączyć opłaty za zużycie, przypisując subskrypcję zużycia do wartości *Brak.* 
+Partnerzy, którzy kupują produkty z nadaną opłatą, mogą to umożliwić, korzystając z strony Zarządzanie opłatami za nadgorę **na** stronie Zarządzanie subskrypcjami. Interfejs zarządzania opłatami za nadsieć umożliwia partnerowi aktywowanie i przypisanie subskrypcji platformy Azure, do której będą przepływać opłaty za za korzystanie z opłat za korzystanie z usług. W dowolnym momencie partner może wyłączyć overage, przypisując subskrypcję zużycie do *wartości Brak.* 
 
-Partnerzy przypiszą lub wyłączą je za pomocą funkcji *Zarządzanie opłatami za* nadgorę na liście subskrypcji. Będzie ona dostępna tylko wtedy, gdy partner ma subskrypcje, które umożliwiają przesłonić. Miesięczne opłaty za nadsieć będą naliczane w ramach przypisanej subskrypcji i będą identyfikowane w pliku uzgodnień partnerów. Partnerzy mogą śledzić użycie opłat za użycie zasobów, odwiedzając możliwości zarządzania kosztami platformy Azure w Azure Portal. 
+> [!NOTE]
+> Zarządzanie overage wymaga możliwości utworzenia planu platformy Azure. Domyślnie partnerzy nie mogą aprowizować planów platformy Azure przy użyciu kont piaskownicy. Partnerzy, którzy muszą to zrobić za pomocą konta piaskownicy, muszą złożyć wniosek o dostęp. Więcej informacji o infrastrukturze można znaleźć w dokumentacji piaskownicy [planu platformy Azure.](/partner-center/develop/test-and-debug#azure-plan)
 
-Partnerzy mogą śledzić użycie usług, przechodząc do Azure Portal i korzystając z funkcji i możliwości zarządzania kosztami. 
+Partnerzy przypiszą lub wyłączą je za pomocą funkcji *Zarządzanie opłatami za* nadgorętami na liście subskrypcji. Będzie ona dostępna tylko wtedy, gdy partner ma subskrypcje, które umożliwiają przesłonić. Miesięczne opłaty za nadsieć będą naliczane dla przypisanej subskrypcji i będą identyfikowane w pliku uzgodnień partnerów. Partnerzy mogą śledzić użycie overage, odwiedzając możliwości zarządzania kosztami platformy Azure w Azure Portal. 
 
-## <a name="important-details-about-overage"></a>Ważne szczegóły dotyczące naddatki
+Partnerzy mogą śledzić użycie nadgorętowe, przechodząc do Azure Portal i korzystając z funkcji i możliwości zarządzania kosztami. 
 
-- Zakup opartego na licencji produktu SKU, który obejmuje możliwości przekupienia, spowoduje zakup tylko produktu opartego na licencjach. Partnerzy będą musieli po zakupie zrobić kolejny krok, aby włączyć nadpłacanie, przechodząc do strony zarządzania subskrypcjami i klikając pozycję **Zarządzaj nadkupami**
-- Tylko agenci administracyjni dla partnera transakcji mogą włączyć najem na podstawie licencji. 
-- Włączenie użycia overage spowoduje utworzenie bezpłatnego planu platformy Azure i skojarzonej domyślnej subskrypcji platformy Azure **Subskrypcji 1** przeznaczonej specjalnie na potrzeby użycia opłat za korzystanie z usług. Jeśli plan platformy Azure już istnieje, włączenie opłat za korzystanie z usług spowoduje utworzenie nowej subskrypcji w ramach istniejącego planu platformy Azure. Partnerzy mogą zawsze wyświetlać lub ponownie przypisać najechane na inne subskrypcje w **skrypcie Zarządzanie opłatami za nadsieć.** Klienci, którzy nie mają jeszcze planu platformy Azure (starszej wersji platformy Azure), będą musieli przejść do planu platformy Azure, zanim będą oni w stanie włączyć naduzycie.
+## <a name="important-details-about-overage"></a>Ważne szczegóły dotyczące nadgoręt
 
-Przypisanie nadsyłania jest określane przez *pierwszą regułę.* Jeśli partner zakupi subskrypcję E5 z planami połączeń dla nowego klienta, ten partner będzie miał nadsyłanie przypisane do subskrypcji zużycia. Jeśli drugi partner zakupi kolejną kopię planu E5 z planami połączeń, system będzie przestrzegać zakupów i przypisań pierwszego partnera. Partnerzy mogą zawsze *zarządzać nadgorą na* stronie subskrypcji, aby wyłączyć tę funkcję, przypisując jej do opcji *Brak.*
+- Zakup opartego na licencji produktu SKU, który obejmuje możliwości przesłoni, spowoduje zakup tylko produktu opartego na licencjach. Partnerzy będą musieli po zakupie zrobić kolejny krok, aby włączyć overage, przechodząc do strony zarządzania subskrypcjami i klikając pozycję **Zarządzaj przesłoną**
+- Tylko agenci administracyjni dla partnera transakcji mogą włączyć obsługę overage po zakupie opartym na licencjach. 
+- Włączenie nadsyłania spowoduje utworzenie bezpłatnego planu platformy Azure i skojarzonej domyślnej subskrypcji platformy Azure **Subskrypcji 1** przeznaczonej specjalnie na potrzeby użycia opłat za korzystanie z zasobów. Jeśli plan platformy Azure już istnieje, włączenie opłat za korzystanie z zasobów spowoduje utworzenie nowej subskrypcji w ramach istniejącego planu platformy Azure. Partnerzy mogą zawsze wyświetlać lub ponownie przypisać nadgorę do innych subskrypcji w **skrypcie Zarządzanie przesłoną.** Klienci, którzy nie mają jeszcze planu platformy Azure (starszej wersji platformy Azure), będą musieli przejść do planu platformy Azure, zanim będą oni w stanie włączyć przesłoną.
 
-Ustawienia nadsyłania są na usługę na klienta. W tym samym czasie można przypisać tylko jedną subskrypcję z opłatami za nadsieć. Jeśli trzeba zmienić overage z jednego partnera na innego, trzy strony muszą najpierw wyrazić zgodę. Po wyrażania zgody istniejący partner może po prostu ustawić na wartość Brak na wartość *Brak,* co umożliwia drugiemu partnerowi ustawienie opłat za nadsieć na subskrypcję.
+Przypisanie overage jest określane przez *pierwszą regułę.* Jeśli partner kupi usługę E5 z planami połączeń dla nowego klienta, ten partner będzie miał naduzycie przypisane do subskrypcji zużycia. Jeśli drugi partner zakupi kolejną kopię E5 z planami połączeń, system będzie przestrzegać zakupu i przypisania pierwszego partnera. Partnerzy mogą zawsze *zarządzać nadgorą na* stronie subskrypcji, aby ją wyłączyć lub wyłączyć, przypisując ją do *opcji Brak.*
 
-## <a name="telco-pay-as-you-go-apis"></a>Interfejsy API programu Telco z płatnością zgodnie z ty-
+Ustawienia dotyczące nadgorętowania są dostępne dla 1 usługi na klienta. W tym samym czasie można przypisać tylko jedną subskrypcję z opłatami za nadsieć. Jeśli trzeba zmienić overage z jednego partnera na innego, trzy zaangażowane strony muszą najpierw wyrazić zgodę. Gdy istniejący partner będzie miał zgodę, może po prostu ustawić dla istniejącego partnera wartość *Brak,* co umożliwia drugiemu partnerowi ustawienie opłat za nadsieć na subskrypcję.
 
-- [Właściwości SKU obejmują](/partner-center/develop/product-resources#sku) właściwość *consumptionType,* która ułatwia partnerowi określenie, czy w przypadku użycia za pomocą typu SKU
-- [Uzyskaj informacje o nadpłacie,](/partner-center/develop/get-subscription-overage) aby dowiedzieć się, czy jakieś naduzycie jest obecnie ustawione dla klienta
-- [Aktualizowanie nadgorętowych](/partner-center/develop/update-subscription-overage) zasobów w celu zaktualizowania opłat za korzystanie z usług klienta do subskrypcji platformy Azure lub ustawienia jej na wartość *Brak*
+## <a name="telco-pay-as-you-go-apis"></a>Interfejsy API programu Telco z płatnością zgodnie z ty
+
+- [Właściwości SKU](/partner-center/develop/product-resources#sku) obejmują właściwość *consumptionType,* która ułatwia partnerowi określenie, czy ta wartość umożliwia przesuniecie
+- [Uzyskaj informacje o nadpłacie,](/partner-center/develop/get-subscription-overage) aby dowiedzieć się, czy jakieś zasypki są obecnie ustawione dla klienta
+- [Aktualizowanie nadgorętowych](/partner-center/develop/update-subscription-overage) zasobów w celu zaktualizowania opłat za nadsieć klienta do subskrypcji platformy Azure lub ustawienia jej na wartość *Brak*

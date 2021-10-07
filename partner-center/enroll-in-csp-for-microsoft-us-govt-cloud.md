@@ -10,12 +10,12 @@ ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 10/05/2020
-ms.openlocfilehash: 78aab2c29a9c01b615112f08aba2f724c1d54812
-ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
+ms.openlocfilehash: 4cd9990a31425d09b86b3a569676149ced5053ed
+ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/17/2021
-ms.locfileid: "127906285"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129592758"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Zarejestruj się w programie Dostawca rozwiązań w chmurze dla Microsoft Cloud for US Government
 
@@ -23,13 +23,13 @@ ms.locfileid: "127906285"
 
 **Odpowiednie role:** Administrator globalny
 
-Partnerzy firmy Microsoft mogą teraz sprzedawać rozwiązania i usługi firmy Microsoft w chmurze dla federalnych, stanowych, lokalnych i plemiennych jednostek firmy Microsoft za pośrednictwem programu Dostawca rozwiązań w chmurze (CSP) dla Microsoft Cloud for US Government.
+Partnerzy firmy Microsoft mogą teraz sprzedawać rozwiązania i usługi firmy Microsoft w chmurze do jednostek federalnych, stanowych, lokalnych i plemiennych w Stanach Zjednoczonych za pośrednictwem programu Dostawca rozwiązań w chmurze (CSP) dla Microsoft Cloud for US Government.
 
 Microsoft Cloud for US Government udostępnia prywatne, dedykowane i izolowane wystąpienie usługi Microsoft Azure, które spełnia wymagania instytucji rządowych USA dotyczące zabezpieczeń danych, prywatności i zgodności. Firma musi spełniać wymagania dotyczące uprawnień firmy Microsoft, aby uczestniczyć w programie CSP na potrzeby Microsoft Cloud for US Government. Aby uzyskać więcej informacji, [zobacz Partner Center for Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md).
 
 ## <a name="before-you-begin"></a>Zanim rozpoczniesz
 
-Zanim będzie można zarejestrować się w programie CSP dla usług Microsoft Cloud for US Government, musimy sprawdzić, czy Twoja firma spełnia wymagania dotyczące sprzedaży jednostek rządowych USA. Przed rozpoczęciem procesu rejestracji wypełnij formularz weryfikacji chmury dla instytucji rządowych firmy [Microsoft,](https://azuregov.microsoft.com/csp) aby można było zweryfikować uprawnienia firmy. Po zweryfikowaniu uprawnień firmy udostępnimy dzierżawę usługi Azure Active Directory (Azure AD) specyficzną dla Microsoft Cloud for US Government.  
+Zanim będzie można zarejestrować się w programie CSP dla Microsoft Cloud for US Government, musimy sprawdzić, czy Twoja firma spełnia wymagania dotyczące sprzedaży dla instytucji rządowych USA. Przed rozpoczęciem procesu rejestracji wypełnij formularz weryfikacji chmury dla instytucji rządowych firmy [Microsoft,](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=CSP) aby można było zweryfikować uprawnienia firmy. Po zweryfikowaniu uprawnień firmy udostępnimy dzierżawę usługi Azure Active Directory (Azure AD) specyficzną dla Microsoft Cloud for US Government.  
 
 Aby utworzyć konto Partner Center i zarejestrować się w programie CSP for Microsoft Cloud for US Government, musisz podać następujące informacje (możesz zebrać te informacje przed rozpoczęciem procesu rejestracji):
 
@@ -46,39 +46,39 @@ Aby utworzyć konto Partner Center i zarejestrować się w programie CSP for Mic
 
 1. Rozpoczynanie procesu rejestracji na stronie [Witamy w Partner Center for Microsoft Cloud for US Government!](https://partnercenter.microsoft.com/register/resellerusgjoinnow).
 
-2. Zaloguj się przy użyciu poświadczeń administratora globalnego dla dzierżawy usługi Azure AD organizacji na Microsoft Cloud for US Government. Jeśli Twoja organizacja nie ma konta dla tego portalu, możesz je zażądać, wypełniając formularz [weryfikacji chmury](https://azuregov.microsoft.com/csp)dla instytucji rządowych firmy Microsoft.
+2. Zaloguj się przy użyciu poświadczeń administratora globalnego dla dzierżawy usługi Azure AD organizacji na Microsoft Cloud for US Government. Jeśli Twoja organizacja nie ma konta dla tego portalu, możesz je zażądać, wypełniając formularz [weryfikacji chmury](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=CSP)dla instytucji rządowych firmy Microsoft.
 
-### <a name="step-2---apply-to-participate-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Krok 2. Zastosuj się do uczestnictwa w Dostawca rozwiązań w chmurze programu Microsoft Cloud for US Government
+### <a name="step-2---apply-to-participate-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Krok 2. Zastosowanie do uczestnictwa w programie Dostawca rozwiązań w chmurze dla Microsoft Cloud for US Government
 
-1. Wypełnij wszelkie brakujące informacje w formularzu rejestracji, w tym identyfikator Microsoft Partner Network i szczegóły pomocy technicznej Twojej organizacji.
+1. Wprowadź wszelkie brakujące informacje w formularzu rejestracji, w tym identyfikator Microsoft Partner Network i szczegóły pomocy technicznej Twojej organizacji.
 
 2. Wybierz **pozycję Zaakceptuj i kontynuuj.** Przegląd aplikacji może potrwać kilka dni. Po zakończeniu przeglądu napiszemy do Ciebie wiadomość e-mail.
 
    > [!IMPORTANT]
-   > Wybierając **pozycję** Zaakceptuj i kontynuuj, potwierdzasz, że masz uprawnienia do działania w imieniu organizacji i zgadzasz się zezwolić firmie Microsoft na uruchamianie sprawdzania środków w tle przed przejrzenie aplikacji Dostawca rozwiązań w chmurze twojej organizacji.
+   > Wybierając **pozycję** Zaakceptuj i kontynuuj, potwierdzasz, że masz uprawnienia do działania w imieniu organizacji i zgadzasz się zezwolić firmie Microsoft na uruchomienie sprawdzania środków w tle przed przejrzenie aplikacji Dostawca rozwiązań w chmurze twojej organizacji.
 
 ### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-for-us-government"></a>Krok 3. Podpisywanie umowy odsprzedawcy dla Microsoft Cloud for US Government
 
 1. Zaloguj się do Partner Center, aby Microsoft Cloud for US Government za pomocą linku w wiadomości e-mail dotyczącej zatwierdzenia aplikacji.
 
-2. Na stronie **Umowa** przeczytaj warunki i w przypadku ich zaakceptowania wybierz pozycję **Akceptuj** i kontynuuj cyfrowe podpisywanie umowy odsprzedawcy dla Microsoft Cloud for US Government. Tworzenie konta może potrwać kilka godzin. Możesz wylogować się z Partner Center, aby Microsoft Cloud for US Government i zalogować się ponownie później.
+2. Na stronie **Umowa** przeczytaj warunki i w przypadku ich zaakceptowania wybierz pozycję **Akceptuj** i kontynuuj cyfrowe podpisywanie umowy odsprzedawcy dla Microsoft Cloud for US Government. Tworzenie konta może potrwać kilka godzin. Możesz wylogować się z Partner Center, aby Microsoft Cloud for US Government, a następnie zalogować się ponownie później.
 
 ### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>Krok 4. Przypisywanie użytkowników do roli agenta administracyjnego w portalu administracyjnym Microsoft Azure dla Microsoft Cloud for US Government
 
-Microsoft Cloud for US Government udostępnia oddzielne wystąpienie usługi Microsoft Azure spełniające standardy zgodności, zabezpieczeń i ochrony prywatności dla instytucji rządowych. Aby umożliwić administratorom zarządzanie użytkownikami i licencjami w portalu usługi Microsoft Azure, należy ręcznie przypisać im rolę agenta administracyjnego.
+Microsoft Cloud for US Government udostępnia oddzielne wystąpienie usługi Microsoft Azure, które spełnia standardy rządowe dotyczące zgodności, zabezpieczeń i ochrony prywatności. Aby umożliwić administratorom zarządzanie użytkownikami i licencjami w portalu Microsoft Azure Portal, należy ręcznie przypisać im rolę agenta administracyjnego.
 
 > [!NOTE]
-> Po przypisaniu użytkowników do roli Agent administracyjny będą oni mogli uzyskać  dostęp do listy klientów na stronie Klienci i [dodać nowych klientów.](add-a-new-customer.md)
+> Po przypisaniu użytkowników do roli agenta administracyjnego będą oni mogli  uzyskać dostęp do listy klientów na stronie Klienci i [dodać nowych klientów.](add-a-new-customer.md)
 
 1. Zaloguj się do portalu administracyjnego Microsoft Azure pod witrynie [https://portal.azure.us/](https://portal.azure.us/) .
 
-2. Przypisz rolę Agent administracyjny do odpowiednich użytkowników w organizacji. W tym celu należy dodać tych użytkowników do wbudowanej grupy **AdminAgent.** Aby uzyskać więcej informacji, zobacz Manage [the members for a group in Azure Active Directory (Zarządzanie](/azure/active-directory/active-directory-groups-members-azure-portal) członkami grupy Azure Active Directory grupę).
+2. Przypisz rolę agenta administracyjnego do odpowiednich użytkowników w organizacji. W tym celu należy dodać tych użytkowników do wbudowanej grupy **AdminAgent.** Aby uzyskać więcej informacji, zobacz Manage [the members for a group in Azure Active Directory (Zarządzanie](/azure/active-directory/active-directory-groups-members-azure-portal) członkami grupy Azure Active Directory grupę).
 
 ## <a name="connect-with-us"></a>Bądź w kontakcie z nami
 
 - Masz pytania? Wyślij do nas wiadomość e-mail na adres azgovcsp@microsoft.com
 
-- Dołącz do [nas w Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777)
+- Dołącz do nas [na Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777)
 
 ## <a name="next-steps"></a>Następne kroki
 
